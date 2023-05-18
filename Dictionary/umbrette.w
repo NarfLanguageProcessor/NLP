@@ -1,0 +1,1 @@
+{"index": 334236, "D": "hammerhead (def. 3). ", "S": [], "A": []}

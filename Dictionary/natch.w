@@ -1,0 +1,1 @@
+{"index": 197234, "D": "of course; naturally.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277316, "D": "tasting of or containing salt; saline. ", "S": ["acidity ", "aroma ", "essence ", "extract ", "seasoning ", "sweetness ", "zest "], "A": ["blandness "]}

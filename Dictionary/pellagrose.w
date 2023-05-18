@@ -1,0 +1,1 @@
+{"index": 229311, "D": "a disease caused by a deficiency of niacin in the diet, characterized by skin changes, severe nerve dysfunction, mental symptoms, and diarrhea.", "S": [], "A": []}

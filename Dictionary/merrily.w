@@ -1,0 +1,1 @@
+{"index": 183958, "D": "a female given name, form of Merry. ", "S": ["cheerfully ", "gaily ", "gleefully ", "happily "], "A": ["unhappily "]}

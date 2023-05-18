@@ -1,0 +1,1 @@
+{"index": 69642, "D": "so related that each implies or complements the other.", "S": ["according to the calculated share ", "ad valorem ", "in proportion ", "proportionately ", "prorate ", "prorated ", "respectively "], "A": []}

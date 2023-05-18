@@ -1,0 +1,1 @@
+{"index": 295222, "D": "any of several elongate, smooth-skinned fishes  of the family Liparididae, inhabiting cold seas, having the ventral fins modified to form a sucking disk.", "S": [], "A": []}

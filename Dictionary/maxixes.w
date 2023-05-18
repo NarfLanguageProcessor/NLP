@@ -1,0 +1,1 @@
+{"index": 181570, "D": "a ballroom dance originating in Brazil, in moderate duple measure with syncopated rhythms.", "S": [], "A": []}

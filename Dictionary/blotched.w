@@ -1,0 +1,1 @@
+{"index": 36554, "D": "a large, irregular spot or blot.", "S": ["dappled ", "dotted ", "flaked ", "flecked ", "freckled ", "motley ", "sprinkled "], "A": []}

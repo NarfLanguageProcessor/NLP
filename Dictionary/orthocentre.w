@@ -1,0 +1,1 @@
+{"index": 214961, "D": "the point of intersection of any two altitudes of a triangle", "S": [], "A": []}

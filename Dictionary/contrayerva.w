@@ -1,0 +1,1 @@
+{"index": 67639, "D": "the root of certain tropical American plants of the genus Dorstenia, of the mulberry family, especially D. contrajerva, used as a stimulant, diaphoretic, etc.", "S": [], "A": []}

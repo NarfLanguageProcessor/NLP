@@ -1,0 +1,1 @@
+{"index": 42489, "D": "a seal attached to an official document, as a papal bull.", "S": ["abscess ", "cyst ", "pimple ", "sore ", "ulcer ", "welt "], "A": []}

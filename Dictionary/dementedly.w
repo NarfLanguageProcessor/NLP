@@ -1,0 +1,1 @@
+{"index": 80424, "D": "crazy; insane; mad.", "S": ["crazily ", "desperately ", "energetically ", "excitedly ", "foolishly ", "frantically ", "furiously ", "hastily ", "hysterically ", "intensely ", "passionately ", "recklessly ", "violently "], "A": ["calmly ", "normally "]}

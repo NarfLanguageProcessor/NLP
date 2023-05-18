@@ -1,0 +1,1 @@
+{"index": 164788, "D": "a person's relatives collectively; kinfolk; kin. ", "S": [], "A": []}

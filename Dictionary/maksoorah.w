@@ -1,0 +1,1 @@
+{"index": 178131, "D": "(in a mosque) a screen or partition enclosing an area for prayer or a tomb.", "S": [], "A": []}

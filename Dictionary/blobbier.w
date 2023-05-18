@@ -1,0 +1,1 @@
+{"index": 36342, "D": [], "S": ["nebulous ", "vague "], "A": ["definite "]}

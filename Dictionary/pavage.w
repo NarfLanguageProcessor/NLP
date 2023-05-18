@@ -1,0 +1,1 @@
+{"index": 228182, "D": "a tax towards paving streets, or the right to levy such a tax", "S": [], "A": []}

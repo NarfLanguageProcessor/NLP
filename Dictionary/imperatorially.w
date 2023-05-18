@@ -1,0 +1,1 @@
+{"index": 148480, "D": "an absolute or supreme ruler.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162482, "D": "a female juror.", "S": ["hearer ", "juryman ", "peer "], "A": []}

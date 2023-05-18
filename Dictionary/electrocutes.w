@@ -1,0 +1,1 @@
+{"index": 97001, "D": "to kill by electricity.", "S": ["fry "], "A": []}

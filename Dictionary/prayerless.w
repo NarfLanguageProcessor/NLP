@@ -1,0 +1,1 @@
+{"index": 245233, "D": "a devout petition to God or an object of worship.", "S": [], "A": []}

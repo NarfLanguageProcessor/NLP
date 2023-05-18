@@ -1,0 +1,1 @@
+{"index": 33172, "D": "having or showing bias  or prejudice", "S": ["partisan ", "tendentious "], "A": ["fair ", "impartial ", "unbiased "]}

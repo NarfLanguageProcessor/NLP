@@ -1,0 +1,1 @@
+{"index": 197038, "D": "a person who gives an account or tells the story of events, experiences, etc.", "S": [], "A": []}

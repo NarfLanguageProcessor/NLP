@@ -1,0 +1,1 @@
+{"index": 272655, "D": "to sit on and manage a horse or other animal in motion; be carried on the back of an animal.", "S": ["drive ", "excursion ", "expedition ", "jaunt ", "outing ", "tour ", "transportation "], "A": []}

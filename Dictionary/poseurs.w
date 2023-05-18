@@ -1,0 +1,1 @@
+{"index": 243780, "D": "a person who attempts to impress others by assuming or affecting a manner, degree of elegance, sentiment, etc., other than their true one.", "S": ["hypocrite ", "imposter ", "mimic ", "pretender "], "A": []}

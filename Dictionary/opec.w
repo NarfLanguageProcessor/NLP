@@ -1,0 +1,1 @@
+{"index": 213212, "D": "an organization founded in 1960 of nations that export large amounts of petroleum", "S": [], "A": []}

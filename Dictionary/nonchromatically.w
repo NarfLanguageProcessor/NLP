@@ -1,0 +1,1 @@
+{"index": 201923, "D": "pertaining to color or colors.", "S": [], "A": []}

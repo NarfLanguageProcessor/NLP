@@ -1,0 +1,1 @@
+{"index": 107590, "D": "to banish (a person) from their native country.", "S": ["emigrant ", "evacuee ", "exile ", "migrant ", "refugee "], "A": []}

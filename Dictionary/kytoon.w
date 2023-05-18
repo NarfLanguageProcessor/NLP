@@ -1,0 +1,1 @@
+{"index": 165223, "D": "a captive balloon, combining the features of a balloon and a kite, used to maintain meteorological instruments at a fixed height.", "S": [], "A": []}

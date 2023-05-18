@@ -1,0 +1,1 @@
+{"index": 229277, "D": "any of several large, totipalmate, fish-eating birds of the family Pelecanidae, having a large bill with a distensible pouch.", "S": [], "A": []}

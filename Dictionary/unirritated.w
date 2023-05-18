@@ -1,0 +1,1 @@
+{"index": 344992, "D": "angered, provoked, or annoyed.", "S": [], "A": []}

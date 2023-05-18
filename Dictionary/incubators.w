@@ -1,0 +1,1 @@
+{"index": 150527, "D": "an apparatus in which eggs are hatched artificially.", "S": ["breeding place "], "A": []}

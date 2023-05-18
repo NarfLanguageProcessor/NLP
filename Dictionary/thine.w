@@ -1,0 +1,1 @@
+{"index": 321865, "D": "the possessive case of thou1  used as a predicate adjective, after a noun or without a noun.", "S": [], "A": []}

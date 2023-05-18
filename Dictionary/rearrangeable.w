@@ -1,0 +1,1 @@
+{"index": 261980, "D": "to place in proper, desired, or convenient order; adjust properly", "S": [], "A": []}

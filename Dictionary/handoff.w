@@ -1,0 +1,1 @@
+{"index": 133236, "D": "the ball itself during the execution of such a transfer", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199620, "D": "an old-time Swedish stringed musical instrument, similar to the hurdy-gurdy but sounded with a bow instead of a wheel.", "S": [], "A": []}

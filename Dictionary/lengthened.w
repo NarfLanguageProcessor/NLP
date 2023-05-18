@@ -1,0 +1,1 @@
+{"index": 170408, "D": "to make longer; make greater in length. ", "S": ["expanded ", "extended ", "inflated ", "intensified ", "magnified ", "swollen "], "A": ["compressed ", "contracted ", "shrunken "]}

@@ -1,0 +1,1 @@
+{"index": 247685, "D": "the ceremonies for a dead person prior to burial or cremation; obsequies.", "S": [], "A": []}

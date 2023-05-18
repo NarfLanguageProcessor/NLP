@@ -1,0 +1,1 @@
+{"index": 99595, "D": "(of a primary xylem or root) developing from the periphery; having the oldest cells closest to the core.", "S": [], "A": []}

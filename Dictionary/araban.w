@@ -1,0 +1,1 @@
+{"index": 18296, "D": "a pentosan, found chiefly in vegetable gums, that yields arabinose upon hydrolysis.", "S": [], "A": []}

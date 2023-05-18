@@ -1,0 +1,1 @@
+{"index": 61527, "D": "a shell of the cockle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 61634, "D": "the comforting self-care practice of staying in and spending time at home rather than going out to socialize, especially enjoying quiet or sedentary leisure activities or entertainment", "S": ["swaddle ", "swathe "], "A": ["uncover ", "unwrap "]}

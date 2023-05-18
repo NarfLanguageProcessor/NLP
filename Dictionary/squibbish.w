@@ -1,0 +1,1 @@
+{"index": 301920, "D": "a short and witty or sarcastic saying or writing.", "S": [], "A": []}

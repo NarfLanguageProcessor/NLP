@@ -1,0 +1,1 @@
+{"index": 360686, "D": "of, relating to, or resembling a calf or veal.", "S": [], "A": []}

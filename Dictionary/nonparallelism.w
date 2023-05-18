@@ -1,0 +1,1 @@
+{"index": 205745, "D": "the position or relation of parallels. ", "S": [], "A": []}

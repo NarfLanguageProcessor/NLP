@@ -1,0 +1,1 @@
+{"index": 72145, "D": "a portable device for bending a crossbow.", "S": [], "A": []}

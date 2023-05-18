@@ -1,0 +1,1 @@
+{"index": 111156, "D": "pertaining to a woman or girl", "S": ["femaleness ", "girlishness ", "womanliness "], "A": []}

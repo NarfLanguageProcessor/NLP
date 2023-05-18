@@ -1,0 +1,1 @@
+{"index": 316421, "D": "a sliding rod, intermittently struck by a cam, for moving another part, as a valve.", "S": [], "A": []}

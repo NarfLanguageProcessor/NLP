@@ -1,0 +1,1 @@
+{"index": 333986, "D": "subminiature. ", "S": [], "A": []}

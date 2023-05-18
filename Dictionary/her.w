@@ -1,0 +1,1 @@
+{"index": 136846, "D": "the objective case of she", "S": ["him ", "hir ", "it ", "me ", "them ", "ver ", "xem ", "you ", "zir "], "A": []}

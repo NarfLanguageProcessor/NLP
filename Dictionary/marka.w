@@ -1,0 +1,1 @@
+{"index": 180143, "D": "the basic monetary unit of Bosnia and Herzegovina, equal to 100 pfenigs.", "S": [], "A": []}

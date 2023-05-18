@@ -1,0 +1,1 @@
+{"index": 296385, "D": [], "S": ["dampen ", "drench ", "rinse ", "saturate ", "soak ", "sprinkle ", "squirt ", "steam ", "wash ", "wet "], "A": ["dehydrate ", "dry "]}

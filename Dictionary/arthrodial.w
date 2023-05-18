@@ -1,0 +1,1 @@
+{"index": 20590, "D": "a joint, as in the carpal articulations, in which the surfaces glide over each other in movement.", "S": [], "A": []}

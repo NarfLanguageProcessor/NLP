@@ -1,0 +1,1 @@
+{"index": 197468, "D": "a member of the most populous nation of the southern division of Athabascan Native Americans, located in New Mexico, Arizona, and Utah, and now constituting the largest tribal group in the United States.", "S": [], "A": []}

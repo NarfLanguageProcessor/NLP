@@ -1,0 +1,1 @@
+{"index": 359855, "D": "tending or serving to vindicate. ", "S": [], "A": []}

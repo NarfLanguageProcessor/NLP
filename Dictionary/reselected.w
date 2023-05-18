@@ -1,0 +1,1 @@
+{"index": 269164, "D": "to choose in preference to another or others; pick out.", "S": [], "A": []}

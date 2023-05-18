@@ -1,0 +1,1 @@
+{"index": 52741, "D": "the aggregate of features and traits that form the individual nature of some person or thing.", "S": ["nebulous ", "vague "], "A": ["definite "]}

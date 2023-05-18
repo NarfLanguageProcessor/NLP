@@ -1,0 +1,1 @@
+{"index": 82379, "D": "the addition of white light to a pure colour to produce a paler less saturated colour", "S": [], "A": []}

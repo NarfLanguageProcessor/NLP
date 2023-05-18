@@ -1,0 +1,1 @@
+{"index": 358430, "D": "to the word; exact in wording according to an original.", "S": [], "A": []}

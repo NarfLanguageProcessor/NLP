@@ -1,0 +1,1 @@
+{"index": 148783, "D": "to show to be also involved, usually in an incriminating manner", "S": ["accuse ", "affect ", "blame ", "charge ", "cite ", "embroil ", "entangle ", "incriminate ", "suggest "], "A": ["exclude ", "exculpate ", "exonerate ", "praise ", "conceal ", "disconnect ", "dissociate ", "divide ", "guard ", "hide ", "neglect ", "protect ", "separate "]}

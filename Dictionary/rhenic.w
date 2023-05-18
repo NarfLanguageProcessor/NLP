@@ -1,0 +1,1 @@
+{"index": 271860, "D": "of or containing rhenium. ", "S": [], "A": []}

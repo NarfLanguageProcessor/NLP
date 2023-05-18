@@ -1,0 +1,1 @@
+{"index": 64189, "D": "the common welfare; the public good.", "S": [], "A": []}

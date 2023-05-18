@@ -1,0 +1,1 @@
+{"index": 233264, "D": "cork cambium, a layer of tissue or secondary meristem external to the true cambium, giving rise to cork tissue.", "S": [], "A": []}

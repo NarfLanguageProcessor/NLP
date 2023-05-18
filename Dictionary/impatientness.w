@@ -1,0 +1,1 @@
+{"index": 148363, "D": "not patient; not accepting delay, opposition, pain, etc., with calm or patience.", "S": [], "A": []}

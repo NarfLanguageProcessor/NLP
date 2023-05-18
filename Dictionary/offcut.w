@@ -1,0 +1,1 @@
+{"index": 211550, "D": "a piece of paper, plywood, fabric, etc, remaining after the main pieces have been cut; remnant", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205744, "D": "extending in the same direction, equidistant at all points, and never converging or diverging", "S": [], "A": []}

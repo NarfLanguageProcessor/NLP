@@ -1,0 +1,1 @@
+{"index": 86425, "D": "of or relating to a taxonomic group of organisms derived from two separate ancestral lines.", "S": [], "A": []}

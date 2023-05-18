@@ -1,0 +1,1 @@
+{"index": 149832, "D": "not yet completed or fully developed; rudimentary.", "S": [], "A": []}

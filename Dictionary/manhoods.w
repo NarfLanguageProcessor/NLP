@@ -1,0 +1,1 @@
+{"index": 179218, "D": "the state or time of being a man  or adult male person; male maturity.", "S": ["adulthood ", "coming of age ", "fecundity ", "femininity ", "fertility ", "manfulness ", "manliness ", "masculinity ", "mettle ", "potency ", "virility ", "womanliness ", "womanness "], "A": ["childhood "]}

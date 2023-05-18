@@ -1,0 +1,1 @@
+{"index": 223891, "D": "a poem in which the poet retracts something said in an earlier poem.", "S": [], "A": []}

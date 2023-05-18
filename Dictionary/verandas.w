@@ -1,0 +1,1 @@
+{"index": 358322, "D": "a large, open porch, usually roofed and partly enclosed, as by a railing, often extending across the front and sides of a house; gallery.", "S": ["balcony ", "patio ", "piazza ", "platform ", "portico ", "stoop ", "terrace "], "A": []}

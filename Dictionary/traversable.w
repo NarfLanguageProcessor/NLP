@@ -1,0 +1,1 @@
+{"index": 328605, "D": "to pass or move over, along, or through.", "S": ["graded ", "navigable ", "reachable "], "A": ["blocked ", "excellent ", "exceptional ", "obstructed ", "superior "]}

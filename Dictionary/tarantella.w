@@ -1,0 +1,1 @@
+{"index": 316479, "D": "a rapid, whirling southern Italian dance in very quick sextuple, originally quadruple, meter, usually performed by a single couple, and formerly supposed to be a remedy for tarantism.", "S": [], "A": []}

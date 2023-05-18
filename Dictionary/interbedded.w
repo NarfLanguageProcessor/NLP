@@ -1,0 +1,1 @@
+{"index": 154509, "D": "lying between beds  or strata of a different rock or mineral; interstratified.", "S": [], "A": []}

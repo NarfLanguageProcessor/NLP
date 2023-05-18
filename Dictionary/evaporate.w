@@ -1,0 +1,1 @@
+{"index": 106035, "D": "to change from a liquid or solid state into vapor;  pass off in vapor.", "S": ["disappear ", "disperse ", "dissipate ", "fade ", "melt ", "vanish ", "vaporize ", "weaken "], "A": ["appear ", "arrive ", "collect ", "gather ", "strengthen ", "moisten ", "wet "]}

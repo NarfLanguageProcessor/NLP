@@ -1,0 +1,1 @@
+{"index": 274484, "D": "a tropical plant, Hibiscus sabdariffa, of the mallow family, grown for its thick, red calyx and bracts, used in making jellies and as a substitute for cranberries.", "S": [], "A": []}

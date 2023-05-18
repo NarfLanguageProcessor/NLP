@@ -1,0 +1,1 @@
+{"index": 361348, "D": "Compare Hoodoo (def. 1), Santer\u00eda, Vodun, Vodou. ", "S": ["witchcraft "], "A": ["reality "]}

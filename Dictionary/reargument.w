@@ -1,0 +1,1 @@
+{"index": 261954, "D": "an oral disagreement; verbal opposition; contention; altercation", "S": [], "A": []}

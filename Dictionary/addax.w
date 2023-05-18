@@ -1,0 +1,1 @@
+{"index": 3507, "D": "a large, pale-colored antelope, Addax nasomaculatus, of North Africa, with loosely spiraled horns.", "S": [], "A": []}

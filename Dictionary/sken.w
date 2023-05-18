@@ -1,0 +1,1 @@
+{"index": 292972, "D": "to squint or stare", "S": [], "A": []}

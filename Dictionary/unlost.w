@@ -1,0 +1,1 @@
+{"index": 345790, "D": "no longer possessed or retained", "S": [], "A": []}

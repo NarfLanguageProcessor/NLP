@@ -1,0 +1,1 @@
+{"index": 325412, "D": "a sand bar connecting an island to the mainland or to another island.", "S": ["sandbank ", "sandbar ", "shoal "], "A": []}

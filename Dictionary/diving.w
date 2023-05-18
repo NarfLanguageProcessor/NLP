@@ -1,0 +1,1 @@
+{"index": 90356, "D": "to plunge into water, especially headfirst.", "S": ["dip ", "leap ", "plunge "], "A": ["ascent ", "increase ", "rise "]}

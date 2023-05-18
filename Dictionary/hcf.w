@@ -1,0 +1,1 @@
+{"index": 134565, "D": "highest common factor. ", "S": [], "A": []}

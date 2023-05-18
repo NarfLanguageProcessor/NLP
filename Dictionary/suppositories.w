@@ -1,0 +1,1 @@
+{"index": 313067, "D": "a solid, conical mass of medicinal substance that melts upon insertion into the rectum or vagina.", "S": [], "A": []}

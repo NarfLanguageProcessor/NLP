@@ -1,0 +1,1 @@
+{"index": 51339, "D": "any shrub or small tree of the genus Cercis, as the redbud or Judas tree.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206442, "D": "with regard to origin or root.", "S": [], "A": []}

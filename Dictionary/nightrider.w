@@ -1,0 +1,1 @@
+{"index": 199963, "D": "one of a band of mounted men, especially in the southern U.S. during Reconstruction, who committed nocturnal acts of violence and intimidation against Black people and Black sympathizers.", "S": [], "A": []}

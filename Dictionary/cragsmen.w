@@ -1,0 +1,1 @@
+{"index": 71929, "D": "a person accustomed to or skilled in climbing crags. ", "S": ["climber ", "hiker "], "A": []}

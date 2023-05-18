@@ -1,0 +1,1 @@
+{"index": 259773, "D": "an instrument that is carried aloft by a balloon to send back information on atmospheric temperature, pressure, and humidity by means of a small radio transmitter.", "S": [], "A": []}

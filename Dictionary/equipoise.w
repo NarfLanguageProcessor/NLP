@@ -1,0 +1,1 @@
+{"index": 103339, "D": "an equal distribution of weight; even balance; equilibrium.", "S": ["counterbalance ", "counterpoise ", "equilibrium ", "symmetry "], "A": ["imbalance ", "unevenness "]}

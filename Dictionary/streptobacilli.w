@@ -1,0 +1,1 @@
+{"index": 306097, "D": "any of various bacilli  that form in chains.", "S": [], "A": []}

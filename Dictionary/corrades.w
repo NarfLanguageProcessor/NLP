@@ -1,0 +1,1 @@
+{"index": 69582, "D": "(of a moving agent, as running water, wind, or a glacier) to erode by the abrasion of materials carried along.", "S": [], "A": []}

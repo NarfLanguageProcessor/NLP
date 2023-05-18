@@ -1,0 +1,1 @@
+{"index": 136795, "D": "any of nine isomeric hydrocarbons, C7H16, of the alkane series, some of which are obtained from petroleum", "S": [], "A": []}

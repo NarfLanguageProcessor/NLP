@@ -1,0 +1,1 @@
+{"index": 330086, "D": "the occurrence of three forms distinct in structure, coloration, etc., among animals of the same species.", "S": [], "A": []}

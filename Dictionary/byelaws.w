@@ -1,0 +1,1 @@
+{"index": 33562, "D": "a standing rule governing the regulation of a corporation's or society's internal affairs.", "S": [], "A": []}

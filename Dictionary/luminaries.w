@@ -1,0 +1,1 @@
+{"index": 176087, "D": "a celestial body, such as the sun or moon.", "S": ["celebrity ", "dignitary ", "notable ", "personage ", "superstar "], "A": ["nobody "]}

@@ -1,0 +1,1 @@
+{"index": 8247, "D": "the simulation of any aspect of life, as through computers, robotics, or biochemistry.", "S": [], "A": []}

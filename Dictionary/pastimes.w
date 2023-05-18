@@ -1,0 +1,1 @@
+{"index": 227462, "D": "something that serves to make time pass agreeably; a pleasant means of amusement, recreation, or sport", "S": ["amusement ", "diversion ", "fun ", "hobby ", "recreation "], "A": ["profession ", "vocation ", "work ", "labor "]}

@@ -1,0 +1,1 @@
+{"index": 204469, "D": "of or relating to preaching or to homilies. ", "S": [], "A": []}

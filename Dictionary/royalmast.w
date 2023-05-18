@@ -1,0 +1,1 @@
+{"index": 273880, "D": "a mast situated immediately above, and generally formed as a single spar with, a topgallant mast.", "S": [], "A": []}

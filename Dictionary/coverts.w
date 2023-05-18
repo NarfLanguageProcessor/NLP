@@ -1,0 +1,1 @@
+{"index": 71506, "D": "concealed or disguised; secret", "S": ["asylum ", "fortress ", "haven ", "hideaway ", "hideout ", "hiding place ", "protection ", "resort ", "retreat ", "sanctuary ", "security ", "shelter ", "stronghold "], "A": ["closure ", "entrance ", "permanent ", "solid "]}

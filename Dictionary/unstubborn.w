@@ -1,0 +1,1 @@
+{"index": 352198, "D": "unreasonably obstinate; obstinately unmoving", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 242965, "D": "capable of being considered carefully or deeply.", "S": ["heavy ", "massive ", "weighty "], "A": []}

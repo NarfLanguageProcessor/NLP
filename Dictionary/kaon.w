@@ -1,0 +1,1 @@
+{"index": 163124, "D": "a meson with strangeness +1 and either positive or zero electric charge, or its antiparticle, with strangeness \u22121 and either negative or zero electric charge. Symbol", "S": [], "A": []}

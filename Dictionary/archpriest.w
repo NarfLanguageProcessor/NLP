@@ -1,0 +1,1 @@
+{"index": 19124, "D": "a priest holding first rank, as among the members of a cathedral chapter or among the clergy of a district outside the episcopal city.", "S": ["bishop ", "cardinal ", "metropolitan ", "patriarch ", "priest ", "suffragan "], "A": []}

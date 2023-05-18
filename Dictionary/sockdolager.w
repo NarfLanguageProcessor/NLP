@@ -1,0 +1,1 @@
+{"index": 296217, "D": "something unusually large, heavy, etc.", "S": [], "A": []}

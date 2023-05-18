@@ -1,0 +1,1 @@
+{"index": 288199, "D": "Carol (Ann). 1935\u20132003, Canadian novelist and writer, born in the US; her novels include Happenstance (1980), The Stone Diaries (1995), and Unless (2002)", "S": ["armor ", "buffer ", "bulwark ", "safeguard ", "shelter "], "A": []}

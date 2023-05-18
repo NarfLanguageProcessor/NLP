@@ -1,0 +1,1 @@
+{"index": 201336, "D": "the act of annulling,  especially the formal declaration that annuls  a marriage.", "S": [], "A": []}

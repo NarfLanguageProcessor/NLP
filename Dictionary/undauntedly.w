@@ -1,0 +1,1 @@
+{"index": 338406, "D": "undismayed; not discouraged; not forced to abandon purpose or effort", "S": [], "A": []}

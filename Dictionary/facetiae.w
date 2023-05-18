@@ -1,0 +1,1 @@
+{"index": 108962, "D": "amusing or witty remarks or writings.", "S": [], "A": []}

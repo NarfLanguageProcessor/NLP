@@ -1,0 +1,1 @@
+{"index": 106415, "D": "the act of exaggerating  or overstating.", "S": ["baloney ", "excess ", "fabrication ", "falsehood ", "fantasy ", "hyperbole ", "misjudgment ", "misrepresentation ", "untruth "], "A": ["truth ", "compression ", "decrease ", "lessening ", "shrinkage "]}

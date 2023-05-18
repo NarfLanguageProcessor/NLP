@@ -1,0 +1,1 @@
+{"index": 245248, "D": "Compare pampas, savanna, steppe. ", "S": [], "A": []}

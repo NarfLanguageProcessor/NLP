@@ -1,0 +1,1 @@
+{"index": 6120, "D": "formed by the conjunction or collection of particulars into a whole mass or sum; total; combined", "S": ["accumulated ", "collected ", "concentrated ", "huddled ", "massed ", "reunited "], "A": ["separated "]}

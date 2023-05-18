@@ -1,0 +1,1 @@
+{"index": 151814, "D": "a child during the earliest period of their life, especially before they can walk; baby.", "S": ["childhood "], "A": ["adolescence ", "adulthood "]}

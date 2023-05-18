@@ -1,0 +1,1 @@
+{"index": 81356, "D": "to remove nuclear  weapons from (a country, region, etc.).", "S": [], "A": []}

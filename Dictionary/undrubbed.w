@@ -1,0 +1,1 @@
+{"index": 340863, "D": "to beat with a stick or the like; cudgel; flog; thrash.", "S": [], "A": []}

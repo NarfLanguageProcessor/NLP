@@ -1,0 +1,1 @@
+{"index": 284209, "D": "in a way that involves or invokes a metaphor or figure of speech;  metaphorically", "S": [], "A": []}

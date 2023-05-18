@@ -1,0 +1,1 @@
+{"index": 77360, "D": "an orthorhombic mineral, hydrous sodium aluminum carbonate, NaAlCO3(OH)2, with a vitreous luster, occurring as white blade-shaped crystals", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243773, "D": "the ancient Greek god of the sea, with the power to cause earthquakes, identified by the Romans with Neptune.", "S": [], "A": []}

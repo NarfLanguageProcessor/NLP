@@ -1,0 +1,1 @@
+{"index": 156944, "D": "a polysaccharide, (C6H10O5)n, obtained from the roots of certain plants, especially elecampane, dahlia, and Jerusalem artichoke, that undergoes hydrolysis to the dextrorotatory form of fructose", "S": [], "A": []}

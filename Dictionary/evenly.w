@@ -1,0 +1,1 @@
+{"index": 106099, "D": "level; flat; smooth;  without surface irregularities", "S": ["constantly ", "smoothly ", "steadily ", "uniformly "], "A": ["irregularly ", "roughly ", "unevenly ", "unfairly ", "unjustly "]}

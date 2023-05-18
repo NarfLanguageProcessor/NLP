@@ -1,0 +1,1 @@
+{"index": 92809, "D": "past participle of draw. ", "S": ["harassed ", "harrowed ", "peaked ", "pinched ", "sapped ", "starved ", "strained ", "stressed ", "thin ", "tired ", "worn "], "A": ["fresh "]}

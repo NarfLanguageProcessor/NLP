@@ -1,0 +1,1 @@
+{"index": 311484, "D": "a merchant-ship officer who is in charge of the cargo and the commercial concerns of the voyage.", "S": [], "A": []}

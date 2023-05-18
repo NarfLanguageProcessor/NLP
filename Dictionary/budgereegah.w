@@ -1,0 +1,1 @@
+{"index": 42173, "D": "an Australian parakeet, Melopsittacus undulatus, having greenish plumage with black and yellow markings, bred as a pet in a variety of colors.", "S": [], "A": []}

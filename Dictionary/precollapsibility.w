@@ -1,0 +1,1 @@
+{"index": 246230, "D": "capable of collapsing  or of being collapsed,  as for carrying or storing.", "S": [], "A": []}

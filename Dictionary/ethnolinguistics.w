@@ -1,0 +1,1 @@
+{"index": 105106, "D": "the study of language as an aspect or part of culture, especially the study of the influence of language on culture and of culture on language.", "S": [], "A": []}

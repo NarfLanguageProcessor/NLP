@@ -1,0 +1,1 @@
+{"index": 290191, "D": "the opening salutation, station identification, etc., at the beginning of the broadcast day.", "S": ["enlist ", "join up ", "volunteer "], "A": []}

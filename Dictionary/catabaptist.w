@@ -1,0 +1,1 @@
+{"index": 49168, "D": "a person who is opposed to baptism.", "S": [], "A": []}

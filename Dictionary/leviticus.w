@@ -1,0 +1,1 @@
+{"index": 171280, "D": "the third book of the Bible, containing laws relating to the priests and Levites and to the forms of Jewish ceremonial observance. Abbreviation", "S": [], "A": []}

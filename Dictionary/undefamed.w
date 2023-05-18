@@ -1,0 +1,1 @@
+{"index": 338553, "D": "to attack the good name or reputation of, as by uttering or publishing maliciously or falsely anything injurious; slander or libel; calumniate", "S": [], "A": []}

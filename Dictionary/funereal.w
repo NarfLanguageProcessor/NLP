@@ -1,0 +1,1 @@
+{"index": 120207, "D": "of or suitable for a funeral. ", "S": ["elegiac ", "gloomy ", "lugubrious ", "mournful ", "solemn ", "somber "], "A": ["cheerful ", "happy ", "joyful ", "light "]}

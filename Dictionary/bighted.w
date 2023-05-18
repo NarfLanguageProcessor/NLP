@@ -1,0 +1,1 @@
+{"index": 33751, "D": "the middle part of a rope, as distinguished from the ends.", "S": [], "A": []}

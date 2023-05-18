@@ -1,0 +1,1 @@
+{"index": 207151, "D": "in a way that gratifies or delights the senses", "S": [], "A": []}

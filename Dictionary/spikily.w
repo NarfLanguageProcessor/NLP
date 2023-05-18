@@ -1,0 +1,1 @@
+{"index": 299785, "D": "having a spike  or spikes. ", "S": [], "A": []}

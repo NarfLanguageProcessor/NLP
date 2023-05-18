@@ -1,0 +1,1 @@
+{"index": 98674, "D": "electromagnetic pulse", "S": [], "A": []}

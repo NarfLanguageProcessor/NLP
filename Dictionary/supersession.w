@@ -1,0 +1,1 @@
+{"index": 312646, "D": "the act of superseding. ", "S": [], "A": []}

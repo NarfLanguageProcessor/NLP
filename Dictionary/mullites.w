@@ -1,0 +1,1 @@
+{"index": 194960, "D": "a rare clay mineral, aluminum silicate, Al6Si2O13, produced artificially during various melting and firing processes", "S": [], "A": []}

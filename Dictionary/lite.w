@@ -1,0 +1,1 @@
+{"index": 173552, "D": "noting a commercial product that is low in calories or low in any substance considered undesirable, as compared with a product of the same type", "S": [], "A": []}

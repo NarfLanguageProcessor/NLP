@@ -1,0 +1,1 @@
+{"index": 59343, "D": "any of various western U.S. plants belonging to the genus Clarkia, of the evening primrose family, having narrow leaves and ornamental red or purple flowers.", "S": [], "A": []}

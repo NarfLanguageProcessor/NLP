@@ -1,0 +1,1 @@
+{"index": 249915, "D": "Compare futurist (def. 2), presentist. ", "S": [], "A": []}

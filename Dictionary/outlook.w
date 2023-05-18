@@ -1,0 +1,1 @@
+{"index": 216961, "D": "the view or prospect from a particular place.", "S": ["attitude ", "direction ", "perspective ", "viewpoint ", "vision "], "A": ["indifference ", "past "]}

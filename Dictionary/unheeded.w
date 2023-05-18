@@ -1,0 +1,1 @@
+{"index": 343631, "D": "noticed or heard but disregarded", "S": ["discarded ", "disobeyed ", "ignored ", "neglected ", "overlooked ", "rejected ", "slighted ", "unconsidered ", "unnoted ", "unnoticed ", "unobserved "], "A": ["considered ", "contemplated ", "heeded ", "noticed ", "regarded ", "thought-out "]}

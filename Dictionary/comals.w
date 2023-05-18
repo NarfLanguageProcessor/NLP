@@ -1,0 +1,1 @@
+{"index": 63589, "D": "a griddle made from sandstone or earthenware.", "S": [], "A": []}

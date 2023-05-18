@@ -1,0 +1,1 @@
+{"index": 252889, "D": "the act of punishing. ", "S": [], "A": []}

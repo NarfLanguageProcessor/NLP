@@ -1,0 +1,1 @@
+{"index": 218096, "D": "to occur or exist in great quantities or numbers", "S": [], "A": []}

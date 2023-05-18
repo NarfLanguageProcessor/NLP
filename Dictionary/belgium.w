@@ -1,0 +1,1 @@
+{"index": 31058, "D": "a kingdom in W Europe, bordering the North Sea, N of France. 11,779 sq. mi. (30,508 sq. km). Capital", "S": [], "A": []}

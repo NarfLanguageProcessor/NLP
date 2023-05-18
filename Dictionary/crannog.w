@@ -1,0 +1,1 @@
+{"index": 72152, "D": "(in ancient Ireland and Scotland) a lake dwelling, usually built on an artificial island.", "S": [], "A": []}

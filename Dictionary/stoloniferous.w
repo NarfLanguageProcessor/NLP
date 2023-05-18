@@ -1,0 +1,1 @@
+{"index": 305073, "D": "producing or bearing stolons. ", "S": ["climbing ", "spreading "], "A": ["upright ", "vertical "]}

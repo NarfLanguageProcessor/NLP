@@ -1,0 +1,1 @@
+{"index": 61700, "D": "a joint defendant. ", "S": [], "A": []}

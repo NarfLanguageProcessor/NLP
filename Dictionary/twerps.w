@@ -1,0 +1,1 @@
+{"index": 333287, "D": "an insignificant or despicable fellow", "S": ["ass ", "boob ", "buffoon ", "idiot ", "jerk ", "moron ", "nitwit ", "stooge ", "sucker ", "twit "], "A": ["brain ", "genius "]}

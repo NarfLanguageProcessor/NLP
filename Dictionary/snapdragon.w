@@ -1,0 +1,1 @@
+{"index": 295285, "D": "any plant belonging to the genus Antirrhinum, of the figwort family, especially A. majus, cultivated for its spikes of showy flowers, each having a corolla supposed to resemble the mouth of a dragon. ", "S": [], "A": []}

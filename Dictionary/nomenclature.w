@@ -1,0 +1,1 @@
+{"index": 200866, "D": "a set or system of names or terms, as those used in a particular science or art, by an individual or community, etc.", "S": ["classification ", "codification ", "glossary ", "locution ", "phraseology ", "taxonomy ", "terminology "], "A": []}

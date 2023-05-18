@@ -1,0 +1,1 @@
+{"index": 61456, "D": "a dog crossbred from a cocker spaniel  and a miniature poodle", "S": [], "A": []}

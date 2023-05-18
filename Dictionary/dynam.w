@@ -1,0 +1,1 @@
+{"index": 85990, "D": "a combining form meaning \u201cpower,\u201d used in the formation of compound words", "S": [], "A": []}

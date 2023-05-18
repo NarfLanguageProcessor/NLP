@@ -1,0 +1,1 @@
+{"index": 341320, "D": "to move to rapture;  delight beyond measure", "S": [], "A": []}

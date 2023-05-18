@@ -1,0 +1,1 @@
+{"index": 85720, "D": "a situation requiring a choice between equally undesirable alternatives.", "S": ["difficulty ", "embarrassment ", "impasse ", "mess ", "plight ", "predicament ", "problem ", "puzzle ", "quandary "], "A": ["solution "]}

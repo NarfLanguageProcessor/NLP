@@ -1,0 +1,1 @@
+{"index": 80357, "D": "requiring or claiming more than is generally felt by others to be due", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 242043, "D": "of or relating to a polymer. ", "S": [], "A": []}

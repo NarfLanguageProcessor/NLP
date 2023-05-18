@@ -1,0 +1,1 @@
+{"index": 138778, "D": "the study of atmospheric water, especially precipitation, as it affects agriculture, water supply, flood control, power generation, etc.", "S": [], "A": []}

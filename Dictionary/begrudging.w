@@ -1,0 +1,1 @@
+{"index": 30728, "D": "to envy or resent the pleasure or good fortune of (someone)", "S": ["acrimonious ", "biting ", "caustic ", "fierce ", "hateful ", "intense ", "rancorous ", "resentful ", "severe ", "sour ", "stinging ", "vitriolic "], "A": ["calm ", "friendly ", "kind ", "mild ", "nice ", "pleasant ", "sweet "]}

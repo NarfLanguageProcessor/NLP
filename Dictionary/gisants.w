@@ -1,0 +1,1 @@
+{"index": 125643, "D": "a sculptured representation of a dead person in a recumbent position, usually as part of a sepulchral monument.", "S": [], "A": []}

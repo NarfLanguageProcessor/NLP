@@ -1,0 +1,1 @@
+{"index": 135301, "D": "an old unit of measure for linen and woolen yarn, equivalent to about 600 yards (550 meters).", "S": [], "A": []}

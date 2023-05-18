@@ -1,0 +1,1 @@
+{"index": 206977, "D": "subject to or suitable for sale;  readily sold", "S": [], "A": []}

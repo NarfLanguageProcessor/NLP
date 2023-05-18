@@ -1,0 +1,1 @@
+{"index": 200178, "D": "any of several shrubs belonging to the genus Physocarpus, of the rose family, having bark  that separates into thin layers.", "S": [], "A": []}

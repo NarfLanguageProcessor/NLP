@@ -1,0 +1,1 @@
+{"index": 209322, "D": "plural of nucleus. ", "S": [], "A": []}

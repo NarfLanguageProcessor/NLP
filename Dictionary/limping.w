@@ -1,0 +1,1 @@
+{"index": 172627, "D": "to walk with a labored, jerky movement, as when lame.", "S": ["awkward ", "clumsy ", "labored ", "stumbling ", "tentative "], "A": ["adroit ", "clever ", "dexterous ", "easy ", "graceful "]}

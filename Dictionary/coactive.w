@@ -1,0 +1,1 @@
+{"index": 60840, "D": "compulsory; coercive.", "S": ["collegial ", "concerted ", "coordinated ", "harmonious ", "interdependent ", "reciprocal ", "symbiotic ", "united "], "A": ["disjoint ", "disobliging ", "disunited ", "divided ", "encumbering ", "hindering ", "hurting ", "preventing ", "separate ", "uncooperative ", "uncoordinated ", "unhelpful ", "unsupportive "]}

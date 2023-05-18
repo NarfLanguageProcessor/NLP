@@ -1,0 +1,1 @@
+{"index": 1984, "D": "turning sour; slightly sour; acidulous.", "S": [], "A": []}

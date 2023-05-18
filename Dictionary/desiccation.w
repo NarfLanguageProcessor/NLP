@@ -1,0 +1,1 @@
+{"index": 82551, "D": [], "S": ["lack ", "scarcity "], "A": ["abundance ", "excess ", "surplus ", "plenty ", "sufficiency "]}

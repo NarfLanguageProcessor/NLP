@@ -1,0 +1,1 @@
+{"index": 82556, "D": "an apparatus for drying fruit, milk, etc.", "S": [], "A": []}

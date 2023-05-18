@@ -1,0 +1,1 @@
+{"index": 45650, "D": "Compare Bactrian camel, dromedary. ", "S": [], "A": []}

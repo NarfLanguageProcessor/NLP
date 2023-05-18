@@ -1,0 +1,1 @@
+{"index": 244398, "D": "of, pertaining to, affected by, or producing fever.", "S": [], "A": []}

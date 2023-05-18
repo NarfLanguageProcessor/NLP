@@ -1,0 +1,1 @@
+{"index": 148418, "D": "to retard in movement or progress by means of obstacles or hindrances; obstruct; hinder. ", "S": ["antithetical "], "A": ["agreeing ", "harmonious ", "similar "]}

@@ -1,0 +1,1 @@
+{"index": 226720, "D": "something stated or declared.", "S": ["oral message ", "orally ", "personal account ", "speech ", "spoken communication ", "spoken word ", "verbal evidence ", "viva voce "], "A": []}

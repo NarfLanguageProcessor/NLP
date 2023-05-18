@@ -1,0 +1,1 @@
+{"index": 223562, "D": "either of two historic regions of Germany that constituted an electorate of the Holy Roman Empire", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27038, "D": "a slip or sheet of paper on which a person's vote is marked.", "S": ["canvass ", "enroll ", "examine ", "interview ", "register ", "survey ", "tally "], "A": ["ignore ", "neglect "]}

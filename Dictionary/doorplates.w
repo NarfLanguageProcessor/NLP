@@ -1,0 +1,1 @@
+{"index": 91571, "D": "a small identification plate  on the outside door  of a house or room, bearing the occupant's name, the apartment or house number, or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 30104, "D": "to dress or adorn in a showy, gaudy, or tasteless manner", "S": ["ornament "], "A": ["decrease ", "plainness "]}

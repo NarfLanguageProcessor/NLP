@@ -1,0 +1,1 @@
+{"index": 97097, "D": "the passage of an electric current through an electrolyte with subsequent migration of positively and negatively charged ions to the negative and positive electrodes.", "S": [], "A": []}

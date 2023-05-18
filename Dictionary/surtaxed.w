@@ -1,0 +1,1 @@
+{"index": 313635, "D": "an additional or extra tax on something already taxed.", "S": [], "A": []}

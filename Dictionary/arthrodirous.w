@@ -1,0 +1,1 @@
+{"index": 20598, "D": "any of numerous fishes of the extinct order Arthrodira, widely distributed during the Devonian Period, having the anterior part of the body covered by a shield of bony plates.", "S": [], "A": []}

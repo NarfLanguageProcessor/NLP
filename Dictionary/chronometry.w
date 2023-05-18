@@ -1,0 +1,1 @@
+{"index": 56464, "D": "the art of measuring time accurately.", "S": [], "A": []}

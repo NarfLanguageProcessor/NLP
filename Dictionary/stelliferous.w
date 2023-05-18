@@ -1,0 +1,1 @@
+{"index": 303570, "D": "having or abounding with stars.", "S": [], "A": []}

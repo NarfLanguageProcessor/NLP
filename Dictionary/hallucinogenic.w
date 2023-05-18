@@ -1,0 +1,1 @@
+{"index": 132782, "D": "producing hallucinations", "S": ["hallucinatory ", "kaleidoscopic ", "multicolored "], "A": ["monochrome "]}

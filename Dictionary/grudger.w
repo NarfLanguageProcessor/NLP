@@ -1,0 +1,1 @@
+{"index": 130487, "D": "a feeling of ill will or resentment", "S": [], "A": []}

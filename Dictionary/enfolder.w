@@ -1,0 +1,1 @@
+{"index": 100239, "D": "to wrap up; envelop", "S": [], "A": []}

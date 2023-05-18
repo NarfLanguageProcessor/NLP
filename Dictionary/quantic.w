@@ -1,0 +1,1 @@
+{"index": 257918, "D": "a rational, integral, homogeneous function of two or more variables.", "S": [], "A": []}

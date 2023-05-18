@@ -1,0 +1,1 @@
+{"index": 258622, "D": "one of the large feathers of the wing or tail of a bird.", "S": ["plumage ", "plume "], "A": []}

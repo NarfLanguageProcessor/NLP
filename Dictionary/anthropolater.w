@@ -1,0 +1,1 @@
+{"index": 14574, "D": "the worship of a human being as a god.", "S": [], "A": []}

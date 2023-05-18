@@ -1,0 +1,1 @@
+{"index": 162028, "D": "a member of the tribe of Judah  or of the kingdom of Judah. ", "S": [], "A": []}

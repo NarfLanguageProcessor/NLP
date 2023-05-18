@@ -1,0 +1,1 @@
+{"index": 359482, "D": "a person who furnishes victuals,  especially a sutler.", "S": [], "A": []}

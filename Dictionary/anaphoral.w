@@ -1,0 +1,1 @@
+{"index": 11904, "D": "Compare epistrophe (def. 1), symploce. ", "S": [], "A": []}

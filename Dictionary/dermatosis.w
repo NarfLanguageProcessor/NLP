@@ -1,0 +1,1 @@
+{"index": 82212, "D": "any disease of the skin.", "S": [], "A": []}

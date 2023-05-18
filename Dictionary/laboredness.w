@@ -1,0 +1,1 @@
+{"index": 166737, "D": "done or made with difficulty; heavy", "S": [], "A": []}

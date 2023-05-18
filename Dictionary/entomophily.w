@@ -1,0 +1,1 @@
+{"index": 101541, "D": "pollinated by or having spores distributed by insects.", "S": [], "A": []}

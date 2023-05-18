@@ -1,0 +1,1 @@
+{"index": 175312, "D": "a craftsperson who makes hardware for harnesses and riding habits, as bits or spurs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109230, "D": "a thin bed of schistose rock impregnated with metallic sulphides", "S": [], "A": []}

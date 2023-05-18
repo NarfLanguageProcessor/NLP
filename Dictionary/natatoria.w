@@ -1,0 +1,1 @@
+{"index": 197229, "D": "a swimming pool, especially one that is indoors.", "S": ["basin ", "bath ", "lagoon ", "lake ", "pond ", "puddle ", "swimming pool ", "tank "], "A": []}

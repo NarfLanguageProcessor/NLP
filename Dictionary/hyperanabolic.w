@@ -1,0 +1,1 @@
+{"index": 139871, "D": "involving or stimulating the building of complex substances from simpler ones as part of the process of metabolism  in living organisms (opposed to catabolic)", "S": [], "A": []}

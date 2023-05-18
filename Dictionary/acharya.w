@@ -1,0 +1,1 @@
+{"index": 2203, "D": "a prominent religious teacher and spiritual guide", "S": [], "A": []}

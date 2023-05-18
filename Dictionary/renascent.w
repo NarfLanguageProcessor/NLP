@@ -1,0 +1,1 @@
+{"index": 267542, "D": "being reborn; springing again into being or vigor", "S": [], "A": []}

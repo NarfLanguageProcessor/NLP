@@ -1,0 +1,1 @@
+{"index": 114012, "D": "a glass bulb,  filled with oxygen and aluminum or zirconium wire or foil, which, when ignited electrically, burns with a brilliant flash  to provide momentary illumination of a subject.", "S": [], "A": []}

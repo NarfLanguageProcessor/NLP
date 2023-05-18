@@ -1,0 +1,1 @@
+{"index": 265431, "D": "an area where special environmental circumstances have enabled a species or a community of species to survive after extinction in surrounding areas.", "S": [], "A": []}

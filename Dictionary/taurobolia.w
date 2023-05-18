@@ -1,0 +1,1 @@
+{"index": 317092, "D": "the sacrifice of a bull, followed by the baptism of neophytes in the blood, as practiced in the ancient rites of Mithras or Cybele.", "S": [], "A": []}

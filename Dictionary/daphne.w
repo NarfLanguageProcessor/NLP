@@ -1,0 +1,1 @@
+{"index": 76847, "D": "a nymph who, when pursued by Apollo, was saved by being changed into a laurel tree.", "S": [], "A": []}

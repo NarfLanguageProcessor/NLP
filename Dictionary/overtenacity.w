@@ -1,0 +1,1 @@
+{"index": 221549, "D": "the quality of being tenacious,  or of holding fast; persistence", "S": [], "A": []}

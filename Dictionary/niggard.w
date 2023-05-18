@@ -1,0 +1,1 @@
+{"index": 199855, "D": "an excessively parsimonious, miserly, or stingy person.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 103017, "D": "to contain or represent in small compass; serve as a typical example of; typify", "S": ["characterize ", "embody ", "exemplify ", "illustrate ", "personify ", "represent ", "stand for ", "symbolize "], "A": []}

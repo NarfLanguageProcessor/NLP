@@ -1,0 +1,1 @@
+{"index": 167471, "D": "the body of religious worshipers, as distinguished from the clergy.", "S": ["laymen "], "A": []}

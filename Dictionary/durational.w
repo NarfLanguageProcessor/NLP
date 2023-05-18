@@ -1,0 +1,1 @@
+{"index": 94422, "D": "the length of time something continues or exists (often used with the).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346101, "D": "complete in natural growth or development, as plant and animal forms", "S": ["amateurish ", "coarse ", "harsh ", "homemade ", "makeshift ", "primitive ", "raw ", "rude ", "rudimentary ", "simple ", "unprocessed "], "A": ["refined ", "smooth ", "sophisticated ", "polished "]}

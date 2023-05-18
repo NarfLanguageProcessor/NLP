@@ -1,0 +1,1 @@
+{"index": 124593, "D": "a person who writes one or numerous speeches, books, articles, etc., for another person who is named as or presumed to be the author.", "S": ["biographer ", "columnist ", "composer ", "creator ", "journalist ", "poet ", "producer ", "reporter ", "writer "], "A": []}

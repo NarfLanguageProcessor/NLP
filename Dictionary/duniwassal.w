@@ -1,0 +1,1 @@
+{"index": 94190, "D": "(in Scotland) a minor nobleman", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308538, "D": "(of particles) being less than a micron  in overall dimensions.", "S": [], "A": []}

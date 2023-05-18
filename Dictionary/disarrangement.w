@@ -1,0 +1,1 @@
+{"index": 87082, "D": "to disturb the arrangement of; disorder; unsettle.", "S": ["chaos ", "confusion ", "disarray ", "disorderliness ", "disorganization ", "disruption ", "havoc ", "jumble ", "mess ", "mix up ", "muddle ", "scramble ", "shambles ", "tumble "], "A": ["calm ", "harmony ", "method ", "order ", "organization ", "system ", "tidiness "]}

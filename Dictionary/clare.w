@@ -1,0 +1,1 @@
+{"index": 59282, "D": "a county in W Republic of Ireland. 1,231 sq. mi. (3,190 sq. km). County seat", "S": [], "A": []}

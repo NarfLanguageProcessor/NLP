@@ -1,0 +1,1 @@
+{"index": 206101, "D": "of high price or great value; very valuable or costly", "S": [], "A": []}

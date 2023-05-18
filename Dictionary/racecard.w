@@ -1,0 +1,1 @@
+{"index": 259312, "D": "a card or booklet at a race meeting with the times of the races, names of the runners, etc, printed on it", "S": [], "A": []}

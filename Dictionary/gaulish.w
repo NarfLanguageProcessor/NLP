@@ -1,0 +1,1 @@
+{"index": 122830, "D": "the extinct, Celtic language of ancient Gaul. ", "S": [], "A": []}

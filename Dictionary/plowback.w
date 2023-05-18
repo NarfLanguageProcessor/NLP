@@ -1,0 +1,1 @@
+{"index": 240276, "D": "a reinvestment of earnings or profits in a business enterprise.", "S": [], "A": []}

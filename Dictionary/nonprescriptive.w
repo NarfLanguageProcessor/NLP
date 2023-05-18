@@ -1,0 +1,1 @@
+{"index": 206143, "D": "that prescribes;  giving directions or injunctions", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257014, "D": "a share of an estate held by coparceners that is apportioned to one upon the division of the estate among them.", "S": [], "A": []}

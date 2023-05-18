@@ -1,0 +1,1 @@
+{"index": 11416, "D": "a small object worn to ward off evil, harm, or illness or to bring good fortune; a protective charm.", "S": ["ornament ", "talisman "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236414, "D": "a less common name for pork, ham 1, bacon (def. 1)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39160, "D": "a compact and dense variety of green serpentine resembling jade.", "S": [], "A": []}

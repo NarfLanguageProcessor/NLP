@@ -1,0 +1,1 @@
+{"index": 163576, "D": "finely sharpened, as an edge; so shaped as to cut or pierce substances readily", "S": ["acumen ", "acuteness ", "intelligence ", "judgment ", "sharpness ", "shrewdness "], "A": ["ignorance ", "inability ", "ineptness ", "stupidity "]}

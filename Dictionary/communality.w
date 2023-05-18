@@ -1,0 +1,1 @@
+{"index": 64223, "D": "the state or condition of being communal. ", "S": [], "A": []}

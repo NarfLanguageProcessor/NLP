@@ -1,0 +1,1 @@
+{"index": 363996, "D": "the good fortune, health, happiness, prosperity, etc., of a person, group, or organization; well-being", "S": ["abundance ", "advantage ", "benefit ", "contentment ", "ease ", "easy street ", "euphoria ", "felicity ", "good ", "good fortune ", "happiness ", "interest ", "luck ", "profit ", "progress ", "satisfaction ", "success ", "thriving "], "A": []}

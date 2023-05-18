@@ -1,0 +1,1 @@
+{"index": 270393, "D": "a material, as straw, rushes, leaves, or the like, used to cover roofs, grain stacks, etc.", "S": [], "A": []}

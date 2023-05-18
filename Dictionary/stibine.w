@@ -1,0 +1,1 @@
+{"index": 304241, "D": "a colorless, slightly water-soluble, poisonous gas, SbH3, usually produced by the reaction of dilute hydrochloric acid with an alloy of antimony and either zinc or magnesium.", "S": [], "A": []}

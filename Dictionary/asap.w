@@ -1,0 +1,1 @@
+{"index": 20848, "D": "without delay; promptly. ", "S": ["abrupt ", "active ", "agile ", "brief ", "brisk ", "cursory ", "energetic ", "expeditious ", "hasty ", "hurried ", "immediate ", "instantaneous ", "keen ", "nimble ", "rapid ", "sudden ", "swift "], "A": ["clumsy ", "delayed ", "idle ", "inactive ", "later ", "lazy ", "leisurely ", "slow ", "sluggish ", "unhurried "]}

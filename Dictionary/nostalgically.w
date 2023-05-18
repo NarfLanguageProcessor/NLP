@@ -1,0 +1,1 @@
+{"index": 208770, "D": "experiencing or exhibiting nostalgia,  a sentimental or wistful yearning for the happiness felt in a former place, time, or situation.", "S": [], "A": []}

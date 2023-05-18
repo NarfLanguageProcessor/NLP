@@ -1,0 +1,1 @@
+{"index": 42238, "D": "an apparatus at the end of a railroad car, railroad track, etc., for absorbing shock during coupling, collisions, etc.", "S": ["bulwark ", "cushion ", "intermediary "], "A": []}

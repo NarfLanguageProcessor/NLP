@@ -1,0 +1,1 @@
+{"index": 126356, "D": "a tiny, quick flash of light.", "S": ["burnished ", "dazzling ", "gleaming ", "glistening ", "glorious ", "glowing ", "incandescent ", "luminous ", "polished ", "radiant ", "shimmering ", "shiny ", "sparkling ", "splendid ", "waxy "], "A": ["dark ", "dim ", "dull "]}

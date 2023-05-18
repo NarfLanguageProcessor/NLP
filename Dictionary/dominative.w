@@ -1,0 +1,1 @@
+{"index": 91315, "D": "dominating; controlling.", "S": ["authoritative ", "commanding ", "controlling ", "dominating ", "governing ", "imperious ", "predominant ", "preponderant ", "reigning ", "ruling ", "superior "], "A": []}

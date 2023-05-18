@@ -1,0 +1,1 @@
+{"index": 257975, "D": "a strict isolation imposed to prevent the spread of disease.", "S": ["detention "], "A": []}

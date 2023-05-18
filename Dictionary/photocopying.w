@@ -1,0 +1,1 @@
+{"index": 235056, "D": "a photographic reproduction of a document, print, or the like.", "S": ["Xerox ", "copy ", "duplicate ", "reproduce "], "A": ["original "]}

@@ -1,0 +1,1 @@
+{"index": 54426, "D": "having fleshy leaves, as certain desert plants.", "S": [], "A": []}

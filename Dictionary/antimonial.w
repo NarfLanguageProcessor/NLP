@@ -1,0 +1,1 @@
+{"index": 15619, "D": "of or containing antimony", "S": [], "A": []}

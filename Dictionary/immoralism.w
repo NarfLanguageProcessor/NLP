@@ -1,0 +1,1 @@
+{"index": 148060, "D": "indifference toward or opposition to conventional morality.", "S": [], "A": []}

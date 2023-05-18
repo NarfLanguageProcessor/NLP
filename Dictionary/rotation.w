@@ -1,0 +1,1 @@
+{"index": 274620, "D": "the act of rotating; a turning around as on an axis.", "S": ["orbit "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144742, "D": "evoking a desire to hug  close; inviting a close embrace; cuddly", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259959, "D": "a person who gathers or deals in rag. ", "S": [], "A": []}

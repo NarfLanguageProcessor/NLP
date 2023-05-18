@@ -1,0 +1,1 @@
+{"index": 5308, "D": [], "S": ["acuteness ", "awareness ", "consciousness ", "delicacy ", "feeling ", "nervousness ", "reactivity ", "receptiveness ", "sensation ", "sense ", "sensibility ", "subtlety ", "susceptibility ", "sympathy "], "A": ["indifference ", "insensibility ", "unconsciousness "]}

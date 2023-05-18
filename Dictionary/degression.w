@@ -1,0 +1,1 @@
+{"index": 79651, "D": "a downward movement; descent.", "S": [], "A": []}

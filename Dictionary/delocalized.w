@@ -1,0 +1,1 @@
+{"index": 80214, "D": "to remove from the proper or usual locality. ", "S": [], "A": []}

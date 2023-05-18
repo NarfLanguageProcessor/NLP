@@ -1,0 +1,1 @@
+{"index": 305556, "D": "a person who hides aboard a ship or airplane in order to obtain free transportation or elude pursuers.", "S": ["hide ", "plant ", "stash "], "A": ["reveal ", "uncover "]}

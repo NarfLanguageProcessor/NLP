@@ -1,0 +1,1 @@
+{"index": 302542, "D": "stuck or not moving; at a standstill", "S": ["delayed ", "negotiated ", "postponed "], "A": ["advanced ", "forwarded ", "furthered ", "hastened ", "hurried "]}

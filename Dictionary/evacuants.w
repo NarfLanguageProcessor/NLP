@@ -1,0 +1,1 @@
+{"index": 105926, "D": "evacuating;  promoting thorough evacuation,  especially from the bowels; cathartic; purgative.", "S": [], "A": []}

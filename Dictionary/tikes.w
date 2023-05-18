@@ -1,0 +1,1 @@
+{"index": 323520, "D": "a child, especially a small boy.", "S": [], "A": []}

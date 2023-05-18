@@ -1,0 +1,1 @@
+{"index": 3857, "D": "the act or state of adhering; state of being adhered or united", "S": ["adherence ", "adhesiveness ", "attachment ", "bond ", "cling ", "grip ", "stickiness "], "A": []}

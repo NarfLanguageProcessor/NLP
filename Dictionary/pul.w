@@ -1,0 +1,1 @@
+{"index": 256194, "D": "a coin and monetary unit of Afghanistan, one 100th of an afghani.", "S": [], "A": []}

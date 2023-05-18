@@ -1,0 +1,1 @@
+{"index": 191582, "D": "any of various skin conditions characterized by soft, rounded tumors.", "S": [], "A": []}

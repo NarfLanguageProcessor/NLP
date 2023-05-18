@@ -1,0 +1,1 @@
+{"index": 106390, "D": "the act of exacting;  extortion", "S": ["call ", "charge ", "claim ", "contribution ", "extortion ", "fee ", "levy ", "payment ", "request ", "requirement ", "requisition ", "toll "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352795, "D": "(of an argument, thesis, strategy, etc.) incapable of being defended; indefensible", "S": ["illogical ", "unsound "], "A": []}

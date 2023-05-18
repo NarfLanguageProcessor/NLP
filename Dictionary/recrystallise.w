@@ -1,0 +1,1 @@
+{"index": 263612, "D": "to become crystallized  again.", "S": [], "A": []}

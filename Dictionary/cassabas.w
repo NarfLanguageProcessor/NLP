@@ -1,0 +1,1 @@
+{"index": 48935, "D": "a variety of the winter melon, Cucumis melo inodorus, having a wrinkled, yellow rind and sweet, juicy, greenish flesh.", "S": [], "A": []}

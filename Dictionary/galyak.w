@@ -1,0 +1,1 @@
+{"index": 121257, "D": "a sleek, flat fur made from lambskin or from the pelt of a young goat.", "S": [], "A": []}

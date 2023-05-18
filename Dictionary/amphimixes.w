@@ -1,0 +1,1 @@
+{"index": 11162, "D": "the merging of the nuclei of the sperm and egg cells; sexual reproduction.", "S": [], "A": []}

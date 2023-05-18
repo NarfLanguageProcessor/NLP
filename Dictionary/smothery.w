@@ -1,0 +1,1 @@
+{"index": 295097, "D": "stifling; close", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75337, "D": "to form into coils or ringlets, as the hair.", "S": ["coil "], "A": ["line "]}

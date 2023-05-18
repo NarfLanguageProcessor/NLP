@@ -1,0 +1,1 @@
+{"index": 233573, "D": "a person who practices philanthropy. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 338054, "D": "to treat as a pet; pamper; coddle. ", "S": [], "A": []}

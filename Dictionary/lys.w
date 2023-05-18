@@ -1,0 +1,1 @@
+{"index": 173412, "D": "a river in W Europe, in N France and W Belgium, flowing NE into the Scheldt River at Ghent. 120 miles (195 km) long.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183887, "D": "(of certain eggs) undergoing partial cleavage, resulting in unequal blastomeres.", "S": [], "A": []}

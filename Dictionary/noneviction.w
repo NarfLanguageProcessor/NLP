@@ -1,0 +1,1 @@
+{"index": 203701, "D": "the act of forcing a tenant, or sometimes a squatter, to vacate a property (often used attributively)", "S": [], "A": []}

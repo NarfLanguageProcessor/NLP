@@ -1,0 +1,1 @@
+{"index": 66000, "D": "a flowing together of two or more streams, rivers, or the like", "S": ["assemblage ", "junction "], "A": ["division ", "separation "]}

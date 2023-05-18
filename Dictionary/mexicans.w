@@ -1,0 +1,1 @@
+{"index": 185562, "D": "of or relating to Mexico  or its people.", "S": [], "A": []}

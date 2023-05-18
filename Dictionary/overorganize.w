@@ -1,0 +1,1 @@
+{"index": 220414, "D": "to stress formal structure, status, rules, and details excessively.", "S": [], "A": []}

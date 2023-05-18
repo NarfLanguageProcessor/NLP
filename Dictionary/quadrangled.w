@@ -1,0 +1,1 @@
+{"index": 257492, "D": "a plane figure having four angles and four sides, as a square.", "S": [], "A": []}

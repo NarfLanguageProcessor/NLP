@@ -1,0 +1,1 @@
+{"index": 233454, "D": "a charge representing an arrowhead with widely spread barbs.", "S": [], "A": []}

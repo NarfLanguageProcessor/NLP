@@ -1,0 +1,1 @@
+{"index": 17103, "D": "of or like an apocalypse;  affording a revelation or prophecy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133055, "D": "to hobble (a cow, horse, etc) by tying a rope around the head and one of the legs", "S": [], "A": []}

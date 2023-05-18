@@ -1,0 +1,1 @@
+{"index": 179154, "D": "any of various skin diseases caused by parasitic mites, affecting animals and sometimes humans and characterized by loss of hair and scabby eruptions.", "S": ["dermatitis ", "eczema ", "eruption ", "psoriasis ", "scab ", "scabies ", "scales ", "sores "], "A": []}

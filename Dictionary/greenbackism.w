@@ -1,0 +1,1 @@
+{"index": 129518, "D": "a former political party, organized in 1874, opposed to the retirement or reduction of greenbacks and favoring their increase as the only paper currency.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18909, "D": "the formative part of the egg, as distinguished from the part that nourishes the embryo.", "S": [], "A": []}

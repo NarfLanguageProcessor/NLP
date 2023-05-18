@@ -1,0 +1,1 @@
+{"index": 13225, "D": "prepared in mind and resources", "S": [], "A": []}

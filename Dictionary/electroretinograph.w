@@ -1,0 +1,1 @@
+{"index": 97250, "D": "an instrument that measures the electrical response of the retina to light stimulation.", "S": [], "A": []}

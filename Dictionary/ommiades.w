@@ -1,0 +1,1 @@
+{"index": 212466, "D": "a member of the dynasty that ruled at Damascus a.d. 661\u2013750, claiming descent from Omayya, cousin of the grandfather of Muhammad the Prophet.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167466, "D": "a milky deposit on the surface of new cement or concrete, usually caused by too much water.", "S": [], "A": []}

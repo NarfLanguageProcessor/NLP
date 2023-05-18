@@ -1,0 +1,1 @@
+{"index": 139950, "D": "Compare acatalectic (def. 2), catalectic. ", "S": [], "A": []}

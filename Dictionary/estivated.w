@@ -1,0 +1,1 @@
+{"index": 104681, "D": "to spend the summer, as at a specific place or in a certain activity.", "S": [], "A": []}

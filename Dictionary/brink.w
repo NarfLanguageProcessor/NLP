@@ -1,0 +1,1 @@
+{"index": 40879, "D": "the edge or margin of a steep place or of land bordering water.", "S": ["fringe ", "periphery ", "threshold ", "verge "], "A": ["center ", "middle ", "inside ", "interior "]}

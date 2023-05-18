@@ -1,0 +1,1 @@
+{"index": 206129, "D": "a prize, bonus, or award given as an inducement, as to purchase products, enter competitions initiated by business interests, etc.", "S": [], "A": []}

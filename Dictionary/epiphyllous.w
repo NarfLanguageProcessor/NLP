@@ -1,0 +1,1 @@
+{"index": 102676, "D": "(of plants) growing on, or attached to, the leaf of another plant", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84248, "D": "the remaining, or colloidal, portion of a solution.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283813, "D": "having or made with a belt", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256560, "D": "a thrusting blow, especially with the fist.", "S": ["cogent ", "commanding ", "compelling ", "convincing ", "dynamic ", "energetic ", "forcible ", "persuasive ", "strong ", "vehement ", "vigorous ", "violent "], "A": ["apathetic ", "idle ", "impotent ", "inactive ", "ineffective ", "lethargic ", "mild ", "moderate ", "passive ", "weak "]}

@@ -1,0 +1,1 @@
+{"index": 256682, "D": "the act of punishing. ", "S": ["abuse ", "beating ", "discipline ", "forfeiture ", "retribution ", "sanction ", "suffering ", "torture ", "trial "], "A": ["award ", "happiness ", "reward ", "indulgence "]}

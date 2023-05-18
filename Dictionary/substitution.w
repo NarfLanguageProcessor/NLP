@@ -1,0 +1,1 @@
+{"index": 309338, "D": "the act of substituting or state of being substituted", "S": ["change ", "exchange ", "swap ", "trade "], "A": []}

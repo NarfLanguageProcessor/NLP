@@ -1,0 +1,1 @@
+{"index": 148253, "D": "not palpable;  incapable of being perceived by the sense of touch; intangible.", "S": [], "A": []}

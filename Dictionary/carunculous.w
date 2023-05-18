@@ -1,0 +1,1 @@
+{"index": 48702, "D": "a protuberance at or surrounding the hilum of a seed.", "S": [], "A": []}

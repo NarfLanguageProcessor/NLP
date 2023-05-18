@@ -1,0 +1,1 @@
+{"index": 86812, "D": "a funeral song or tune, or one expressing mourning in commemoration of the dead.", "S": ["elegy ", "hymn "], "A": []}

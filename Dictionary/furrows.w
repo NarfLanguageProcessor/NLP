@@ -1,0 +1,1 @@
+{"index": 120512, "D": "a narrow groove made in the ground, especially by a plow.", "S": ["channel ", "corrugation ", "crease ", "crinkle ", "dike ", "fluting ", "fold ", "groove ", "gutter ", "hollow ", "line ", "plica ", "rabbet ", "ridge ", "ruck ", "rut ", "seam ", "trench ", "wrinkle "], "A": []}

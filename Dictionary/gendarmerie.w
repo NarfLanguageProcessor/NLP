@@ -1,0 +1,1 @@
+{"index": 123409, "D": "gendarmes  collectively; a body of gendarmes. ", "S": ["MP ", "constabulary "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36685, "D": "a short, heavy club with one end weighted, or thicker and heavier than the other.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111109, "D": "simple past tense and past participle of feel. ", "S": ["dishevel "], "A": ["explain ", "straighten ", "untangle ", "untwist "]}

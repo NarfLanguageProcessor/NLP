@@ -1,0 +1,1 @@
+{"index": 5226, "D": "a man of royal blood; a prince.", "S": [], "A": []}

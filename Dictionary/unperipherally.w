@@ -1,0 +1,1 @@
+{"index": 347728, "D": "in a way that relates to or is close to the edge or boundary", "S": [], "A": []}

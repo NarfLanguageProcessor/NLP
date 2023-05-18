@@ -1,0 +1,1 @@
+{"index": 346785, "D": "to confer upon (an alien) the rights and privileges of a citizen.", "S": [], "A": []}

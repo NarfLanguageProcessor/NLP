@@ -1,0 +1,1 @@
+{"index": 368618, "D": "boring into or cutting wood, as certain insects.", "S": [], "A": []}

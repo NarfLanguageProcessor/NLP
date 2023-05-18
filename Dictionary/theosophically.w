@@ -1,0 +1,1 @@
+{"index": 321166, "D": "any of various forms of philosophical or religious thought based on a mystical insight into the divine nature.", "S": [], "A": []}

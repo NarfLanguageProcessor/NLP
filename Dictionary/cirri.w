@@ -1,0 +1,1 @@
+{"index": 58335, "D": "a plural of cirrus. ", "S": ["clasp ", "coil ", "curl ", "ringlet "], "A": []}

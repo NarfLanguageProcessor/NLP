@@ -1,0 +1,1 @@
+{"index": 87521, "D": "the surface of a division between parallel rock strata, indicating interruption of sedimentation", "S": [], "A": []}

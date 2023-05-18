@@ -1,0 +1,1 @@
+{"index": 46204, "D": "a small, edible, smeltlike fish, Thaleichthys pacificus, of northwestern coastal waters of North America, being so oily that when dried it can be used as a candle. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 369009, "D": "a soft, yellow powder of simple proteins obtained from corn, used chiefly in the manufacture of textile fibers, plastics, and paper coatings.", "S": [], "A": []}

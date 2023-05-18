@@ -1,0 +1,1 @@
+{"index": 146234, "D": "a partition or screen on which icons are placed, separating the sanctuary from the main part of the church.", "S": [], "A": []}

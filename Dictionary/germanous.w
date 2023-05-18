@@ -1,0 +1,1 @@
+{"index": 124220, "D": "containing bivalent germanium. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 140975, "D": "diminished hormonal or reproductive functioning in the testes or the ovaries.", "S": [], "A": []}

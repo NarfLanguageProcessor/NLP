@@ -1,0 +1,1 @@
+{"index": 264626, "D": "to move or raise to a higher place or position; lift up.", "S": [], "A": []}

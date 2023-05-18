@@ -1,0 +1,1 @@
+{"index": 312951, "D": "having been replaced or taken over by someone or something else", "S": ["overthrow ", "succeed ", "supersede ", "undermine ", "unseat ", "usurp "], "A": ["give in ", "surrender ", "allow ", "hold ", "keep ", "permit ", "take in "]}

@@ -1,0 +1,1 @@
+{"index": 8340, "D": "forming an exact proper divisor", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 180229, "D": "a pointed iron implement used in separating the strands of rope in splicing, marling, etc.", "S": [], "A": []}

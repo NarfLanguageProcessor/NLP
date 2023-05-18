@@ -1,0 +1,1 @@
+{"index": 153176, "D": "being inconsistent with moral duty and natural affection.", "S": [], "A": []}

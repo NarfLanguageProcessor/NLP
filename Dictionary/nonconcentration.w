@@ -1,0 +1,1 @@
+{"index": 202199, "D": "the act of concentrating; the state of being concentrated.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316559, "D": "a mania characterized by an uncontrollable impulse to dance, especially as prevalent in southern Italy from the 15th to the 17th century, popularly attributed to the bite of the tarantula.", "S": [], "A": []}

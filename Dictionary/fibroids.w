@@ -1,0 +1,1 @@
+{"index": 112071, "D": "resembling fiber or fibrous tissue.", "S": [], "A": []}

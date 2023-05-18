@@ -1,0 +1,1 @@
+{"index": 141435, "D": "a fabulous creature resembling a griffin but having the body and hind parts of a horse.", "S": [], "A": []}

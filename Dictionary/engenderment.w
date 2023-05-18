@@ -1,0 +1,1 @@
+{"index": 100327, "D": "to produce, cause, or give rise to", "S": ["bearing ", "breeding ", "formation ", "genesis ", "origination ", "procreation ", "propagation ", "reproduction "], "A": ["destruction "]}

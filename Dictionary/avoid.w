@@ -1,0 +1,1 @@
+{"index": 24848, "D": "to keep away from; keep clear of; shun", "S": ["avert ", "bypass ", "dodge ", "escape ", "evade ", "fend off ", "shun ", "sidestep ", "ward off "], "A": ["face ", "meet ", "allow ", "help ", "permit ", "stay ", "take on "]}

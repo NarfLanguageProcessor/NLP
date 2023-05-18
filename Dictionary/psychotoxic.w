@@ -1,0 +1,1 @@
+{"index": 255526, "D": "toxic  or harmful to the mind or personality.", "S": [], "A": []}

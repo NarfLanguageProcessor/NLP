@@ -1,0 +1,1 @@
+{"index": 108276, "D": "outer; being on the outer side", "S": ["external ", "outdoor ", "outer "], "A": ["central "]}

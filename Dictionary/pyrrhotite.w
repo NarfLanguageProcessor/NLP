@@ -1,0 +1,1 @@
+{"index": 238016, "D": "a common mineral, iron sulfide, approximately FeS but variable because of a partial absence of ferrous ions, occurring in massive and in crystal forms with a bronze color and metallic luster; magnetic pyrites", "S": [], "A": []}

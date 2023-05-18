@@ -1,0 +1,1 @@
+{"index": 136510, "D": "Compare cannabis. ", "S": ["bhang ", "cannabis ", "fiber ", "flax ", "hashish ", "jute ", "marijuana "], "A": []}

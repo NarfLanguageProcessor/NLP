@@ -1,0 +1,1 @@
+{"index": 40671, "D": "a notched board  serving as a string or carriage for a stair.", "S": [], "A": []}

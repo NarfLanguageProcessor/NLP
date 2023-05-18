@@ -1,0 +1,1 @@
+{"index": 184611, "D": "the black solid form of mercuric sulphide", "S": [], "A": []}

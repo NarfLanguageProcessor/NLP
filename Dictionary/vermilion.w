@@ -1,0 +1,1 @@
+{"index": 358615, "D": "a brilliant scarlet red.", "S": ["cardinal ", "coral ", "crimson ", "flaming ", "glowing ", "maroon ", "rose ", "wine "], "A": []}

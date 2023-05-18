@@ -1,0 +1,1 @@
+{"index": 206159, "D": "affording ground for belief or presumption", "S": [], "A": []}

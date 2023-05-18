@@ -1,0 +1,1 @@
+{"index": 196128, "D": "any bivalve mollusk, especially an edible marine bivalve of the family Mytilidae and a freshwater clam of the family Unionidae.", "S": ["clam ", "conch ", "crawfish ", "crustacean ", "lobster ", "mollusk ", "oyster ", "prawn ", "scallop ", "shrimp ", "snail "], "A": []}

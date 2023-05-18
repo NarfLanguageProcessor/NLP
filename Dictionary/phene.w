@@ -1,0 +1,1 @@
+{"index": 233301, "D": "any characteristic of an individual organism that is genetically determined.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166550, "D": "one of a Hungarian breed of large dogs having a short, slightly wavy, white coat, used for herding sheep and as watchdogs.", "S": [], "A": []}

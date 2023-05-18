@@ -1,0 +1,1 @@
+{"index": 265123, "D": "the act of reflecting,  as in casting back a light or heat, mirroring, or giving back or showing an image; the state of being reflected in this way.", "S": [], "A": []}

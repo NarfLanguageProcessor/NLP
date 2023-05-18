@@ -1,0 +1,1 @@
+{"index": 244218, "D": "a person who rides the left horse of the leading or only pair of horses drawing a carriage.", "S": [], "A": []}

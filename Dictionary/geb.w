@@ -1,0 +1,1 @@
+{"index": 123051, "D": "the god of the earth and the father of Osiris and Isis.", "S": [], "A": []}

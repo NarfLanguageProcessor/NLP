@@ -1,0 +1,1 @@
+{"index": 304020, "D": "a small stalk that bears a sporangium, a conidium, or especially a basidiospore.", "S": [], "A": []}

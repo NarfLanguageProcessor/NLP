@@ -1,0 +1,1 @@
+{"index": 175361, "D": "no longer possessed or retained", "S": ["absent ", "adrift ", "disoriented ", "hidden ", "invisible ", "misplaced ", "vanished "], "A": ["seen "]}

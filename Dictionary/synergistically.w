@@ -1,0 +1,1 @@
+{"index": 291633, "D": "interactively or cooperatively so that each element or party increases the effect of the other", "S": [], "A": []}

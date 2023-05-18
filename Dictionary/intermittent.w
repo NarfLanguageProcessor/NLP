@@ -1,0 +1,1 @@
+{"index": 155401, "D": "stopping or ceasing for a time; alternately ceasing and beginning again", "S": ["fitful ", "infrequent ", "occasional ", "periodic ", "recurrent ", "recurring ", "seasonal "], "A": ["constant ", "frequent ", "permanent ", "regular ", "usual "]}

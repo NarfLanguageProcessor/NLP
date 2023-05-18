@@ -1,0 +1,1 @@
+{"index": 307244, "D": "a structural assembly,  as of electronic or machine parts, forming part of a larger assembly. ", "S": [], "A": []}

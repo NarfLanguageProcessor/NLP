@@ -1,0 +1,1 @@
+{"index": 195511, "D": "mother1 (def. 1). ", "S": ["grandmother ", "mommy ", "parent "], "A": []}

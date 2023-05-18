@@ -1,0 +1,1 @@
+{"index": 74586, "D": "a violet coloring matter obtained from various lichens, especially Lecanora tartarea.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25969, "D": "a backhanded stroke. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366818, "D": "to incline to one side and to the other alternately, as a wheel, top, or other rotating body when not properly balanced.", "S": [], "A": []}

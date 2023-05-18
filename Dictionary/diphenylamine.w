@@ -1,0 +1,1 @@
+{"index": 86406, "D": "a colorless, crystalline, slightly water-soluble benzene derivative, C12H11N, used chiefly in the preparation of various dyes, as a stabilizer for nitrocellulose propellants, and for the detection of oxidizing agents in analytical chemistry.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 190319, "D": "a European plant, Viscum album, having yellowish flowers and white berries, growing parasitically on various trees, used in Christmas decorations.", "S": [], "A": []}

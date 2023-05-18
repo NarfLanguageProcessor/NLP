@@ -1,0 +1,1 @@
+{"index": 273238, "D": "causing or capable of causing laughter; laughable; ludicrous.", "S": ["amusing ", "comical ", "droll ", "funny ", "laughable ", "ludicrous ", "ludicrous. laughable ", "ridiculous "], "A": ["serious "]}

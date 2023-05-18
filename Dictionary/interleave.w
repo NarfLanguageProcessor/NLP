@@ -1,0 +1,1 @@
+{"index": 155177, "D": "to provide blank leaves in (a book) for notes or written comments.", "S": [], "A": []}

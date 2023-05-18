@@ -1,0 +1,1 @@
+{"index": 23162, "D": "able to be considered the result of the cause indicated", "S": ["a priori ", "available ", "determinable ", "dogmatic ", "extractable ", "inferable ", "likely ", "obtainable ", "reasoned ", "resultant ", "traceable "], "A": []}

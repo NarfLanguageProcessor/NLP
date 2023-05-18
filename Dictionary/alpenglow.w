@@ -1,0 +1,1 @@
+{"index": 9306, "D": "a reddish glow often seen on the summits of mountains just before sunrise or just after sunset.", "S": [], "A": []}

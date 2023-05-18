@@ -1,0 +1,1 @@
+{"index": 186462, "D": "microscopy.", "S": ["CPU ", "PC ", "abacus ", "analog ", "brain ", "calculator ", "clone ", "laptop ", "mac ", "mainframe ", "microcomputer ", "mini ", "minicomputer "], "A": []}

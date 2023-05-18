@@ -1,0 +1,1 @@
+{"index": 330156, "D": "a yellow, crystalline, water-insoluble, flammable solid, C7H5N3O6, derived from toluene by nitration, a high explosive unaffected by ordinary friction or shock", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3157, "D": "the science that deals with actinism.", "S": [], "A": []}

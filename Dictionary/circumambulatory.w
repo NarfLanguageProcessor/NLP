@@ -1,0 +1,1 @@
+{"index": 58065, "D": "to walk or go about or around, especially ceremoniously.", "S": [], "A": []}

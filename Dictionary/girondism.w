@@ -1,0 +1,1 @@
+{"index": 125581, "D": "a member of a political party (1791\u201393) of moderate republicans whose leaders were deputies from the department of Gironde. ", "S": [], "A": []}

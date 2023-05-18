@@ -1,0 +1,1 @@
+{"index": 327139, "D": "having seeds with a rough coat.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82552, "D": "to dry thoroughly; dry up.", "S": ["lack ", "scarcity "], "A": ["abundance ", "excess ", "surplus ", "plenty ", "sufficiency "]}

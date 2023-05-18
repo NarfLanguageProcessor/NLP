@@ -1,0 +1,1 @@
+{"index": 337871, "D": "tending to contrast; contrasting. contrastive colors.", "S": [], "A": []}

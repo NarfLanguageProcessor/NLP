@@ -1,0 +1,1 @@
+{"index": 231851, "D": "an outside platform upon which the entrance door of a building opens, with steps leading to it.", "S": [], "A": []}

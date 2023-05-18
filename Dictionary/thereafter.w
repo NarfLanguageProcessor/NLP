@@ -1,0 +1,1 @@
+{"index": 321218, "D": "after that in time or sequence; afterward", "S": ["thenceforth "], "A": []}

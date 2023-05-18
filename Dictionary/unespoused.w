@@ -1,0 +1,1 @@
+{"index": 341501, "D": "embraced or adopted, as an idea, principle, or cause", "S": [], "A": []}

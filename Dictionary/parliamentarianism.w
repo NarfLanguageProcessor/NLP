@@ -1,0 +1,1 @@
+{"index": 226613, "D": "advocacy of a parliamentary system of government.", "S": [], "A": []}

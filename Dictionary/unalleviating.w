@@ -1,0 +1,1 @@
+{"index": 334824, "D": "to make easier to endure; lessen; mitigate", "S": [], "A": []}

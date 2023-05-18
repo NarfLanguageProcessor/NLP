@@ -1,0 +1,1 @@
+{"index": 283482, "D": "a nonmetallic element chemically resembling sulfur and tellurium, occurring in several allotropic forms, as crystalline and amorphous, and having an electrical resistance that varies under the influence of light. Symbol", "S": [], "A": []}

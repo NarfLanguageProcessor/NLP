@@ -1,0 +1,1 @@
+{"index": 340895, "D": "to move with a sinuous or wavelike motion; display a smooth rising-and-falling or side-to-side alternation of movement", "S": ["billow ", "wobble "], "A": []}

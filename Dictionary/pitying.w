@@ -1,0 +1,1 @@
+{"index": 238376, "D": "full of or expressing pity", "S": ["compassionate ", "condoling ", "sympathizing ", "tender ", "understanding "], "A": ["hard "]}

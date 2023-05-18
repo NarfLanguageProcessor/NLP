@@ -1,0 +1,1 @@
+{"index": 118854, "D": "ornamented or provided with frets", "S": ["lean ", "pale ", "skinny ", "spare ", "wan "], "A": ["colorful ", "fat ", "plump ", "thick "]}

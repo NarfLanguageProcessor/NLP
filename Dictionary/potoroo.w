@@ -1,0 +1,1 @@
+{"index": 244773, "D": "any of several small, ratlike kangaroos of the genus Potorous, of Australia.", "S": [], "A": []}

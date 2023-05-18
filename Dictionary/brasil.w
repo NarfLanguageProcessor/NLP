@@ -1,0 +1,1 @@
+{"index": 39992, "D": "a variant spelling of brazil", "S": [], "A": []}

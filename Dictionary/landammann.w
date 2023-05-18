@@ -1,0 +1,1 @@
+{"index": 167910, "D": "the chairman of the governing council in any of several Swiss cantons", "S": [], "A": []}

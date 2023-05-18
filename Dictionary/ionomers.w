@@ -1,0 +1,1 @@
+{"index": 157671, "D": "any of a class of plastics that because of its ionic bonding action is capable of conducting electric current.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 99322, "D": "a letter addressed by the pope to all the bishops of the church.", "S": [], "A": []}

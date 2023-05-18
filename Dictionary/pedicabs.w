@@ -1,0 +1,1 @@
+{"index": 228866, "D": "a small, three-wheeled public conveyance that a driver operates by pedals; a cycle rickshaw.", "S": [], "A": []}

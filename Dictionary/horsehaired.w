@@ -1,0 +1,1 @@
+{"index": 144023, "D": "a hair or the hair of a horse, especially from the mane or tail.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 63622, "D": "a nation engaged in active fighting with enemy forces.", "S": ["adversary ", "antagonist ", "assailant ", "attacker ", "enemy ", "serviceman ", "soldier "], "A": ["ally ", "assistant ", "friend ", "helper ", "supporter "]}

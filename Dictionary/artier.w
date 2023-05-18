@@ -1,0 +1,1 @@
+{"index": 20707, "D": "characterized by a showy, pretentious, and often spurious display of artistic interest, manner, or mannerism.", "S": ["pretentious "], "A": []}

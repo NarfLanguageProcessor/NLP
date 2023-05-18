@@ -1,0 +1,1 @@
+{"index": 89476, "D": "dissenting,  especially from the opinion of the majority.", "S": [], "A": []}

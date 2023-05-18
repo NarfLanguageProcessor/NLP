@@ -1,0 +1,1 @@
+{"index": 264214, "D": "to direct  again.", "S": ["alter ", "deflect ", "switch "], "A": ["stay ", "straighten "]}

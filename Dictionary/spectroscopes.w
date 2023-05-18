@@ -1,0 +1,1 @@
+{"index": 298944, "D": "an optical device for producing and observing a spectrum of light or radiation from any source, consisting essentially of a slit through which the radiation passes, a collimating lens, and an Amici prism.", "S": [], "A": []}

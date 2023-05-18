@@ -1,0 +1,1 @@
+{"index": 266386, "D": "to place in position or connect for service or use", "S": ["reelected ", "reestablished ", "restored ", "returned "], "A": []}

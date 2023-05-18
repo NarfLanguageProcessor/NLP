@@ -1,0 +1,1 @@
+{"index": 98419, "D": "a chieftain, prince, commander, or head of state in some Islamic countries.", "S": ["archduke ", "emir ", "monarch ", "nobleman ", "potentate ", "raja ", "rajah ", "royalty ", "ruler ", "sovereign "], "A": []}

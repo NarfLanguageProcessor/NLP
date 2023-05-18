@@ -1,0 +1,1 @@
+{"index": 191930, "D": "(no longer in technical use; now considered offensive) Down syndrome. ", "S": [], "A": []}

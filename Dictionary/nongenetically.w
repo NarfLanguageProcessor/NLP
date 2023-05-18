@@ -1,0 +1,1 @@
+{"index": 204262, "D": "pertaining or according to genetics. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187711, "D": "a person who looks after something (usually used in combination)", "S": ["escort ", "security guard "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 58912, "D": "of, relating to, or consisting of citizens", "S": ["civilian ", "domestic ", "governmental ", "local ", "national "], "A": ["foreign "]}

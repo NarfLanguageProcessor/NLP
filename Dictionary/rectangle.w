@@ -1,0 +1,1 @@
+{"index": 263665, "D": "a parallelogram having four right angles.", "S": ["square "], "A": []}

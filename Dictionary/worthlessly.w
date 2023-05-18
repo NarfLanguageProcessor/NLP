@@ -1,0 +1,1 @@
+{"index": 367712, "D": "without worth;  of no use, importance, or value; good-for-nothing", "S": [], "A": []}

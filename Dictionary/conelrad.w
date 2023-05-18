@@ -1,0 +1,1 @@
+{"index": 65744, "D": "a system formerly used by the U.S. civil defense system to prevent enemy planes or missiles from homing on radio and television frequencies.", "S": [], "A": []}

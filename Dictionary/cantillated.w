@@ -1,0 +1,1 @@
+{"index": 46648, "D": "to chant; intone.", "S": ["intone ", "recite ", "shout "], "A": []}

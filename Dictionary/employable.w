@@ -1,0 +1,1 @@
+{"index": 98833, "D": "able to be employed;  usable.", "S": ["available ", "operable ", "serviceable ", "utilizable "], "A": []}

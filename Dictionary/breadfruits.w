@@ -1,0 +1,1 @@
+{"index": 40201, "D": "a large, round, starchy fruit borne by a tree, Artocarpus altilis, of the mulberry family,  native to the Pacific islands,  used, baked or roasted, for food.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322790, "D": "a lipoprotein in the blood that converts prothrombin to thrombin.", "S": [], "A": []}

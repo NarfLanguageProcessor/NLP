@@ -1,0 +1,1 @@
+{"index": 247194, "D": "adequate to accomplish a purpose; producing the intended or expected result", "S": [], "A": []}

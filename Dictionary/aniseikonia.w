@@ -1,0 +1,1 @@
+{"index": 13268, "D": "a defect of vision in which the images at the retinas are unequal in size.", "S": [], "A": []}

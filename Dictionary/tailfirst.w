@@ -1,0 +1,1 @@
+{"index": 315350, "D": "with the tail  or rear part foremost.", "S": [], "A": []}

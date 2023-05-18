@@ -1,0 +1,1 @@
+{"index": 280323, "D": "exaggerated sentimentalism, as in music or soap operas.", "S": [], "A": []}

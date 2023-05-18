@@ -1,0 +1,1 @@
+{"index": 127430, "D": "glasses, or eyeglasses", "S": ["specs ", "sunglasses "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 28123, "D": "the surname of the Cyprian Levite Joseph, a companion of Paul on his first missionary journey. Acts 4", "S": [], "A": []}

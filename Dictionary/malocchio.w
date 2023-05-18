@@ -1,0 +1,1 @@
+{"index": 178603, "D": [], "S": ["evil eye ", "hex ", "jinx ", "whammy "], "A": []}

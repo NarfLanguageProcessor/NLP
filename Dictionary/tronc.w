@@ -1,0 +1,1 @@
+{"index": 331099, "D": "a pool into which waiters, waitresses, hotel workers, etc, pay their tips and into which some managements pay service charges for later distribution to staff by a tronc master, according to agreed percentages", "S": [], "A": []}

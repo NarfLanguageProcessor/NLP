@@ -1,0 +1,1 @@
+{"index": 294540, "D": "any of various snaillike terrestrial gastropods having no shell or only a rudimentary one, feeding on plants and a pest of leafy garden crops.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 74311, "D": "having a crisp or thick crust", "S": [], "A": []}

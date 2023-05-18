@@ -1,0 +1,1 @@
+{"index": 125901, "D": "to look quickly or briefly.", "S": ["flash ", "flip through ", "peek ", "peer ", "scan "], "A": ["ignore "]}

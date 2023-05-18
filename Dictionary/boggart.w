@@ -1,0 +1,1 @@
+{"index": 37296, "D": "a ghost or poltergeist", "S": [], "A": []}

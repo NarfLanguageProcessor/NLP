@@ -1,0 +1,1 @@
+{"index": 168241, "D": "covered with lanugo, or soft, downy hairs.", "S": [], "A": []}

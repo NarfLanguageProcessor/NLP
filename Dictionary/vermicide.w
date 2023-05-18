@@ -1,0 +1,1 @@
+{"index": 358583, "D": "a substance or agent used to kill worms, especially a drug used to kill parasitic intestinal worms.", "S": [], "A": []}

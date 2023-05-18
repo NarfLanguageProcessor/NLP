@@ -1,0 +1,1 @@
+{"index": 52837, "D": "a light, two-wheeled vehicle for one person, usually drawn by two horses and driven from a standing position, used in ancient Egypt, Greece, Rome, etc., in warfare, racing, hunting, etc.", "S": ["automobile ", "bicycle ", "boat ", "bus ", "cab ", "car ", "jeep ", "taxi ", "truck ", "van ", "wagon "], "A": []}

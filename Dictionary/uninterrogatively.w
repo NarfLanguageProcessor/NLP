@@ -1,0 +1,1 @@
+{"index": 344768, "D": "of, relating to, or conveying a question.", "S": [], "A": []}

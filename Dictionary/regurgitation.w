@@ -1,0 +1,1 @@
+{"index": 265910, "D": "the act of regurgitating. ", "S": ["airsickness ", "biliousness ", "car sickness ", "mal de mer ", "motion sickness ", "nauseousness ", "qualms ", "queasiness ", "retching ", "seasickness ", "sickness ", "squeamishness ", "vomiting "], "A": ["relish ", "fondness ", "liking ", "partiality ", "predilection ", "preference ", "taste "]}

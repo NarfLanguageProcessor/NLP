@@ -1,0 +1,1 @@
+{"index": 264363, "D": "a Spanish verse form in which each stanza consists of four lines, each with eight syllables, and a rhyme scheme abba.", "S": [], "A": []}

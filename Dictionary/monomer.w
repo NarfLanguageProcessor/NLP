@@ -1,0 +1,1 @@
+{"index": 192421, "D": "a molecule of low molecular weight capable of reacting with identical or different molecules of low molecular weight to form a polymer.", "S": [], "A": []}

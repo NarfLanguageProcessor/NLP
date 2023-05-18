@@ -1,0 +1,1 @@
+{"index": 112446, "D": "a mere product of mental invention; a fantastic notion", "S": ["daydream "], "A": ["certainty ", "fact ", "reality ", "truth "]}

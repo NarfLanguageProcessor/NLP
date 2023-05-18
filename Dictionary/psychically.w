@@ -1,0 +1,1 @@
+{"index": 255282, "D": "in a way that relates to the human soul or mind, or to mental phenomena; psychologically", "S": ["intellectually ", "psychologically "], "A": []}

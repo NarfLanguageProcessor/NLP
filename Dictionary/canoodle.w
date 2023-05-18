@@ -1,0 +1,1 @@
+{"index": 46520, "D": "to caress, fondle, or pet amorously.", "S": ["caress ", "embrace ", "pet "], "A": []}

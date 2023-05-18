@@ -1,0 +1,1 @@
+{"index": 278397, "D": "a flesh-eating animal, especially the Tasmanian devil.", "S": [], "A": []}

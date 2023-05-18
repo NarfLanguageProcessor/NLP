@@ -1,0 +1,1 @@
+{"index": 317772, "D": "to abound or swarm; be prolific or fertile (usually followed by with).", "S": [], "A": []}

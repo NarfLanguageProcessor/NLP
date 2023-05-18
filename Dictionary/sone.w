@@ -1,0 +1,1 @@
+{"index": 297192, "D": "a unit for measuring the loudness of sound, equal to the loudness of a sound that, in the judgment of a group of listeners, is equal to that of a 1,000-cycle-per-second reference sound having an intensity of 40 decibels.", "S": [], "A": []}

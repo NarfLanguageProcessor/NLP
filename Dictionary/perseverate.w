@@ -1,0 +1,1 @@
+{"index": 231899, "D": "to repeat something insistently or redundantly", "S": ["carry on ", "carry over ", "continue ", "endure ", "go on ", "linger ", "persevere ", "prevail ", "pursue ", "recur ", "remain "], "A": ["cease ", "discontinue ", "give up ", "go ", "halt ", "leave ", "stop ", "forget "]}

@@ -1,0 +1,1 @@
+{"index": 38587, "D": "of or relating to Bosnia or its inhabitants", "S": [], "A": []}

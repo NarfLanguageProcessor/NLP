@@ -1,0 +1,1 @@
+{"index": 82914, "D": "to make unstable; rid of stabilizing  attributes", "S": [], "A": []}

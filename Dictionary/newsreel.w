@@ -1,0 +1,1 @@
+{"index": 199475, "D": "a short motion picture presenting current or recent events.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258386, "D": "a primitive, hand-operated mill for grinding grain.", "S": [], "A": []}

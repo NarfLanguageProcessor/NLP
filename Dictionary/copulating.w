@@ -1,0 +1,1 @@
+{"index": 68726, "D": "to engage in sexual intercourse.", "S": ["bed ", "breed ", "cohabit ", "conjugate ", "couple ", "fornicate ", "lay ", "mate ", "unite "], "A": ["divide ", "separate "]}

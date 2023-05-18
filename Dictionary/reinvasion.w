@@ -1,0 +1,1 @@
+{"index": 266480, "D": "an act or instance of invading  or entering as an enemy, especially by an army.", "S": [], "A": []}

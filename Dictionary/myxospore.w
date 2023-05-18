@@ -1,0 +1,1 @@
+{"index": 190789, "D": "a spore  produced within any of various fruiting bodies of myxomycetes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 274486, "D": "decorative work of Norwegian folk origin consisting of painted or carved floral designs, as on furniture or woodwork.", "S": [], "A": []}

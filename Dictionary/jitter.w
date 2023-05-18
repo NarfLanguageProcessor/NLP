@@ -1,0 +1,1 @@
+{"index": 161377, "D": "nervousness; a feeling of fright or uneasiness", "S": ["disco ", "samba ", "tango ", "waltz "], "A": []}

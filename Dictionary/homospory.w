@@ -1,0 +1,1 @@
+{"index": 143246, "D": "the production of a single kind of spore,  neither microspore nor megaspore.", "S": [], "A": []}

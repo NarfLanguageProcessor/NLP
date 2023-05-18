@@ -1,0 +1,1 @@
+{"index": 197068, "D": "a narrow part of a strait, river, current, etc", "S": ["anchorage ", "arm ", "basin ", "bayou ", "bight ", "cove ", "estuary ", "fiord ", "firth ", "gulf ", "harbor ", "inlet ", "lagoon ", "loch ", "mouth ", "sound ", "strait "], "A": []}

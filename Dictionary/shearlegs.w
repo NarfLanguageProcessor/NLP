@@ -1,0 +1,1 @@
+{"index": 287700, "D": "a variant spelling of sheerlegs", "S": [], "A": []}

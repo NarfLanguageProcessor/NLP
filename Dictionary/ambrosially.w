@@ -1,0 +1,1 @@
+{"index": 10117, "D": "exceptionally pleasing to taste or smell; especially delicious or fragrant.", "S": [], "A": []}

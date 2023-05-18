@@ -1,0 +1,1 @@
+{"index": 125825, "D": "feeling joy or pleasure; delighted;  pleased", "S": ["animation ", "blitheness ", "cheer ", "cheerfulness ", "delight ", "felicity ", "gaiety ", "glee ", "hilarity ", "jollity ", "joy ", "joyousness ", "mirth ", "pleasure "], "A": ["depression ", "discouragement ", "gloom ", "melancholy ", "pain ", "sadness ", "sorrow ", "trouble ", "unhappiness "]}

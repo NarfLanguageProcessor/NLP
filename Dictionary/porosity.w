@@ -1,0 +1,1 @@
+{"index": 243502, "D": "the state or quality of being porous. ", "S": [], "A": []}

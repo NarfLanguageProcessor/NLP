@@ -1,0 +1,1 @@
+{"index": 18963, "D": "the head of a monastery; an abbot.", "S": [], "A": []}

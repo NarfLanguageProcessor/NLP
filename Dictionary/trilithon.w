@@ -1,0 +1,1 @@
+{"index": 329964, "D": "a prehistoric structure consisting of two upright stones supporting a horizontal stone.", "S": [], "A": []}

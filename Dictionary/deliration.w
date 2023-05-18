@@ -1,0 +1,1 @@
+{"index": 80160, "D": "mental derangement; raving; delirium.", "S": [], "A": []}

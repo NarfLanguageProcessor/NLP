@@ -1,0 +1,1 @@
+{"index": 296442, "D": "a temporary stay", "S": ["caller ", "client ", "companion ", "customer ", "inmate ", "patron ", "recipient ", "tenant ", "vacationer ", "visitor "], "A": ["enemy ", "manager ", "opponent ", "owner "]}

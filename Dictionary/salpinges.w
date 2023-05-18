@@ -1,0 +1,1 @@
+{"index": 277206, "D": "a trumpet-shaped tube, as a Fallopian or Eustachian tube.", "S": [], "A": []}

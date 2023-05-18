@@ -1,0 +1,1 @@
+{"index": 86468, "D": "to change into or pronounce as a diphthong. ", "S": [], "A": []}

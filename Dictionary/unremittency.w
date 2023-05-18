@@ -1,0 +1,1 @@
+{"index": 349485, "D": "(especially of a fever) unremitting.", "S": [], "A": []}

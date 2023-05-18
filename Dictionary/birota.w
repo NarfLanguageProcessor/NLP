@@ -1,0 +1,1 @@
+{"index": 34883, "D": "a two-wheeled cart, usually drawn by three mules, used for transporting commercial goods and one or two passengers.", "S": [], "A": []}

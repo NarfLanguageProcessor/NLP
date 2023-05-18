@@ -1,0 +1,1 @@
+{"index": 35116, "D": "a person present but not involved; chance spectator; onlooker.", "S": ["eyewitness ", "observer ", "onlooker ", "passerby ", "spectator "], "A": ["participant "]}

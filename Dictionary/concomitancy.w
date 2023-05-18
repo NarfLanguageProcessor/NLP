@@ -1,0 +1,1 @@
+{"index": 65400, "D": "concomitance. ", "S": [], "A": []}

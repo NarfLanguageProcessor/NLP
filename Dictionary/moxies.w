@@ -1,0 +1,1 @@
+{"index": 194444, "D": "courageous spirit and determination; perseverance", "S": ["boldness ", "fearlessness ", "fortitude ", "grit ", "guts ", "spunk ", "stamina ", "tenacity ", "toughness "], "A": ["cowardice ", "fear ", "timidity ", "weakness ", "humility ", "irresolution ", "modesty ", "spinelessness "]}

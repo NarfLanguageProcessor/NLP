@@ -1,0 +1,1 @@
+{"index": 63542, "D": "shaped like a column. ", "S": ["barrel-shaped ", "circular ", "cylindric ", "round "], "A": []}

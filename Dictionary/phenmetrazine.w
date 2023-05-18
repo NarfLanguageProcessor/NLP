@@ -1,0 +1,1 @@
+{"index": 233364, "D": "a compound, C11H15NO, used chiefly to control the appetite in the treatment of obesity.", "S": [], "A": []}

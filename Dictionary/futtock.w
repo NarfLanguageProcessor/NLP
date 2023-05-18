@@ -1,0 +1,1 @@
+{"index": 120706, "D": "any of a number of timbers forming the lower, more curved portion of the frame in a wooden hull.", "S": [], "A": []}

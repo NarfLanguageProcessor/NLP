@@ -1,0 +1,1 @@
+{"index": 60459, "D": "a stool having a seat with a hole, beneath which a chamber pot is placed.", "S": [], "A": []}

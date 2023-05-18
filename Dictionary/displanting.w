@@ -1,0 +1,1 @@
+{"index": 89059, "D": "to dislodge.", "S": ["disturb ", "evict ", "expel ", "force out ", "lose ", "uproot "], "A": ["admit ", "take in ", "welcome ", "find ", "hold ", "keep ", "order ", "remain "]}

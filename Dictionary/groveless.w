@@ -1,0 +1,1 @@
+{"index": 130397, "D": "a small wood or forested area, usually with no undergrowth", "S": [], "A": []}

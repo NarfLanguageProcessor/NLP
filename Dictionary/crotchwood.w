@@ -1,0 +1,1 @@
+{"index": 73927, "D": "wood  from a tree crotch,  characterized by a swirling, irregular figure and used for furniture and veneers.", "S": [], "A": []}

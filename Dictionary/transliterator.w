@@ -1,0 +1,1 @@
+{"index": 328047, "D": "to change (letters, words, etc.) into corresponding characters of another alphabet or language", "S": [], "A": []}

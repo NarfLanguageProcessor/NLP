@@ -1,0 +1,1 @@
+{"index": 67509, "D": "of or relating to a sound characterized by stoppage or obstruction of the flow of air in the vocal tract; consonantlike.", "S": [], "A": []}

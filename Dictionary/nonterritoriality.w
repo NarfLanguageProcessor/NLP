@@ -1,0 +1,1 @@
+{"index": 207852, "D": "territorial  quality, condition, or status.", "S": [], "A": []}

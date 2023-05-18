@@ -1,0 +1,1 @@
+{"index": 166787, "D": "a peninsula in northeastern North America surrounded by Hudson Bay, the Atlantic Ocean, and the Gulf of St. Lawrence, containing the Canadian provinces of Newfoundland and Quebec. 510,000 sq. mi. (1,320,900 sq. km).", "S": [], "A": []}

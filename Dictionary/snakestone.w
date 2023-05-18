@@ -1,0 +1,1 @@
+{"index": 295267, "D": "a piece of porous material popularly supposed to neutralize the toxic effect of a snakebite.", "S": [], "A": []}

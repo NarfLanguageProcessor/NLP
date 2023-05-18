@@ -1,0 +1,1 @@
+{"index": 119636, "D": "of the nature of or resembling wheat or other grain.", "S": [], "A": []}

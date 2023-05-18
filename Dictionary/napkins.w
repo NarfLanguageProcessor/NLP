@@ -1,0 +1,1 @@
+{"index": 196879, "D": "a small piece of cloth or paper, usually square, for use in wiping the lips and fingers and to protect the clothes while eating.", "S": ["felt ", "napery ", "place mat ", "table mat ", "table napkin ", "table pad ", "table runner ", "tablecloth "], "A": []}

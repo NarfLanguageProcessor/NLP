@@ -1,0 +1,1 @@
+{"index": 305452, "D": "confined, detained, or isolated by storms", "S": [], "A": []}

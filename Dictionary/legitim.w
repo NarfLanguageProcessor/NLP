@@ -1,0 +1,1 @@
+{"index": 170141, "D": "the part of an estate that children or other close relatives can claim against the decedent's testament.", "S": [], "A": []}

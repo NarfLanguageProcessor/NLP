@@ -1,0 +1,1 @@
+{"index": 341585, "D": "to show clearly; make evident or manifest; prove.", "S": [], "A": []}

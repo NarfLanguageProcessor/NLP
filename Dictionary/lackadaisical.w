@@ -1,0 +1,1 @@
+{"index": 166944, "D": "without interest, vigor, or determination; listless; halfhearted", "S": ["apathetic ", "halfhearted ", "laid-back ", "lazy ", "lethargic ", "listless ", "passive "], "A": ["active ", "energetic ", "interested ", "lively "]}

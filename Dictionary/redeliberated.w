@@ -1,0 +1,1 @@
+{"index": 264030, "D": "carefully weighed or considered; studied; intentional", "S": [], "A": []}

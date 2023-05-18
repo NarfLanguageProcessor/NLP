@@ -1,0 +1,1 @@
+{"index": 7961, "D": "a verse or line of poetry of twelve syllables.", "S": [], "A": []}

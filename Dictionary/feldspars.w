@@ -1,0 +1,1 @@
+{"index": 110962, "D": "any of a group of minerals, principally aluminosilicates of potassium, sodium, and calcium, characterized by two cleavages at nearly right angles", "S": [], "A": []}

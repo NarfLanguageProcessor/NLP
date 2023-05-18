@@ -1,0 +1,1 @@
+{"index": 335411, "D": "able to be considered the result of the cause indicated", "S": [], "A": []}

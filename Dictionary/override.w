@@ -1,0 +1,1 @@
+{"index": 220870, "D": "to prevail or have dominance over; have final authority or say over; overrule", "S": ["abrogate ", "annul ", "nullify ", "quash ", "reverse ", "revoke ", "veto "], "A": ["allow ", "approve ", "enforce ", "permit ", "ratify ", "sanction ", "support ", "validate "]}

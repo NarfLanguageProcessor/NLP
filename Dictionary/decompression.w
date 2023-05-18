@@ -1,0 +1,1 @@
+{"index": 78639, "D": "the gradual reduction in atmospheric pressure experienced by divers, construction workers, etc., after working in deep water or breathing compressed air.", "S": [], "A": []}

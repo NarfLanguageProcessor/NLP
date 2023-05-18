@@ -1,0 +1,1 @@
+{"index": 77504, "D": "the dead branches on a tree; dead branches or trees.", "S": ["unnecessary "], "A": ["major "]}

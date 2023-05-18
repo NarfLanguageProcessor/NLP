@@ -1,0 +1,1 @@
+{"index": 56280, "D": "containing chromium  in the hexavalent state, as chromyl chloride, CrO2Cl2.", "S": [], "A": []}

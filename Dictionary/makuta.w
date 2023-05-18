@@ -1,0 +1,1 @@
+{"index": 178135, "D": "plural of likuta. ", "S": [], "A": []}

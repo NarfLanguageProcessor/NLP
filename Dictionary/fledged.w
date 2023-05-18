@@ -1,0 +1,1 @@
+{"index": 114340, "D": "having the plumage or feathers necessary for flight.", "S": [], "A": []}

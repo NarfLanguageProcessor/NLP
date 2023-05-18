@@ -1,0 +1,1 @@
+{"index": 16354, "D": "winds in the upper atmosphere blowing in the opposite direction from and above the trade winds", "S": [], "A": []}

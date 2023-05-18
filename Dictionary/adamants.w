@@ -1,0 +1,1 @@
+{"index": 3430, "D": "utterly unyielding in attitude or opinion in spite of all appeals, urgings, etc.", "S": [], "A": []}

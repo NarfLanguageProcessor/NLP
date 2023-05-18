@@ -1,0 +1,1 @@
+{"index": 352294, "D": "to withdraw or take away, as a part from a whole.", "S": [], "A": []}

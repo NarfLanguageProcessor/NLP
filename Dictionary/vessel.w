@@ -1,0 +1,1 @@
+{"index": 359042, "D": "a craft for traveling on water, now usually one larger than an ordinary rowboat; a ship or boat.", "S": ["barge ", "boat ", "craft ", "liner ", "ocean liner ", "tanker "], "A": []}

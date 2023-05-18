@@ -1,0 +1,1 @@
+{"index": 125252, "D": "a small, brittle cookie flavored with ginger  and molasses.", "S": [], "A": []}

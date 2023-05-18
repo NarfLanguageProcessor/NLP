@@ -1,0 +1,1 @@
+{"index": 194047, "D": "a passenger bus  powered by a motor. ", "S": [], "A": []}

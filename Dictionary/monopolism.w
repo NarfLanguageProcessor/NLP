@@ -1,0 +1,1 @@
+{"index": 192574, "D": "the existence or prevalence of monopolies. ", "S": [], "A": []}

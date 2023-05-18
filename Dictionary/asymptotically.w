@@ -1,0 +1,1 @@
+{"index": 21254, "D": "in the way that the graph of a function approaches an asymptote,  a straight line representing the limit of the function as one of its variables grows to infinity", "S": [], "A": []}

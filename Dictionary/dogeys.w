@@ -1,0 +1,1 @@
+{"index": 90870, "D": "a motherless calf in a cattle herd.", "S": [], "A": []}

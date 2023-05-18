@@ -1,0 +1,1 @@
+{"index": 204909, "D": "easily irritated  or annoyed; readily excited to impatience or anger.", "S": [], "A": []}

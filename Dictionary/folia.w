@@ -1,0 +1,1 @@
+{"index": 115875, "D": "plural of folium. ", "S": [], "A": []}

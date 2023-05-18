@@ -1,0 +1,1 @@
+{"index": 135730, "D": [], "S": ["greetings ", "hi ", "howdy ", "welcome "], "A": ["adios ", "au revoir ", "goodbye "]}

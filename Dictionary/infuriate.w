@@ -1,0 +1,1 @@
+{"index": 152394, "D": "to make furious;  enrage.", "S": ["aggravate ", "anger ", "enrage ", "exasperate ", "incense ", "irritate ", "provoke ", "rile "], "A": ["appease ", "calm ", "comfort ", "delight ", "help ", "make happy ", "placate ", "please ", "soothe "]}

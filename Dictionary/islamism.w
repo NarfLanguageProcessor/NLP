@@ -1,0 +1,1 @@
+{"index": 158686, "D": "the religion or culture of Islam. ", "S": [], "A": []}

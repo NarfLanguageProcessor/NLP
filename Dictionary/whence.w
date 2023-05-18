@@ -1,0 +1,1 @@
+{"index": 364636, "D": "from what place?", "S": ["from what place ", "from where ", "from which ", "from which place ", "wherefrom "], "A": []}

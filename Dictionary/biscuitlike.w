@@ -1,0 +1,1 @@
+{"index": 34955, "D": "a kind of bread in small, soft cakes, raised with baking powder or soda, or sometimes with yeast; scone.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159268, "D": "(of two substances) having the same crystal structure but not necessarily a similar chemical composition.", "S": [], "A": []}

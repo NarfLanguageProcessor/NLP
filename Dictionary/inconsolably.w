@@ -1,0 +1,1 @@
+{"index": 150275, "D": "not able to be comforted or consoled;  disconsolate", "S": [], "A": []}

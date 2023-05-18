@@ -1,0 +1,1 @@
+{"index": 181309, "D": "the substance or substances of which any physical object consists or is composed", "S": ["element ", "material ", "thing "], "A": ["abstract ", "concept "]}

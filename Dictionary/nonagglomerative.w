@@ -1,0 +1,1 @@
+{"index": 201208, "D": "to collect or gather into a cluster or mass.", "S": [], "A": []}

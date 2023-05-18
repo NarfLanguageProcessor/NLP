@@ -1,0 +1,1 @@
+{"index": 267813, "D": "anything that is visible or tangible and is relatively stable in form.", "S": [], "A": []}

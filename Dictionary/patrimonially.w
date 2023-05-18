@@ -1,0 +1,1 @@
+{"index": 227896, "D": "an estate inherited from one's father or ancestors.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293414, "D": "a person or thing that skives. ", "S": ["bayonet ", "blade ", "cutter ", "dagger ", "machete ", "scalpel ", "sickle ", "skewer ", "sword "], "A": []}

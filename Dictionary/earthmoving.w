@@ -1,0 +1,1 @@
+{"index": 94843, "D": "of or relating to earthmovers", "S": [], "A": []}

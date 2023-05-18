@@ -1,0 +1,1 @@
+{"index": 255537, "D": "an instrument for determining atmospheric humidity by the reading of two thermometers, the bulb of one being kept moist and ventilated.", "S": [], "A": []}

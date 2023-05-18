@@ -1,0 +1,1 @@
+{"index": 178862, "D": "Compare woman (def. 1), boy (def. 1). ", "S": ["brother ", "chap ", "dude ", "father ", "fellow ", "guy ", "husband ", "son "], "A": ["girlfriend "]}

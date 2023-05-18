@@ -1,0 +1,1 @@
+{"index": 90253, "D": "distinguished by various forms or by a variety of objects", "S": ["diverse ", "varied "], "A": ["like ", "similar ", "single "]}

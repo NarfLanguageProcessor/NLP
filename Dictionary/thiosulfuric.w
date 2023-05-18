@@ -1,0 +1,1 @@
+{"index": 322028, "D": "of or derived from thiosulfuric acid. ", "S": [], "A": []}

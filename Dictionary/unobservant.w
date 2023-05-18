@@ -1,0 +1,1 @@
+{"index": 347036, "D": "quick to notice or perceive; alert.", "S": ["astigmatic ", "blind ", "heedless ", "impercipient ", "inattentive ", "incurious ", "unseeing "], "A": ["observant "]}

@@ -1,0 +1,1 @@
+{"index": 290483, "D": "an outline or other brief statement of the main points of a discourse, the subjects of a course of lectures, the contents of a curriculum, etc.", "S": ["curriculum ", "synopsis "], "A": []}

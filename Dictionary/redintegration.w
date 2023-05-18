@@ -1,0 +1,1 @@
+{"index": 264200, "D": "the act or process of redintegrating. ", "S": ["reconstruction ", "recovery ", "refurbishment ", "rehabilitation ", "reinstatement ", "renewal ", "renovation ", "repatriation ", "revival "], "A": ["destruction ", "disease ", "penalty "]}

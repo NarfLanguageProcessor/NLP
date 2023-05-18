@@ -1,0 +1,1 @@
+{"index": 154003, "D": "the arranging of music for instruments,  especially for an orchestra.", "S": ["apparatus ", "instrument "], "A": ["blockage ", "disorganization ", "ignorance "]}

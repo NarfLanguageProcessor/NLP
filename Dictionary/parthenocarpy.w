@@ -1,0 +1,1 @@
+{"index": 226959, "D": "the production of fruit without fertilization of an egg in the ovary.", "S": [], "A": []}

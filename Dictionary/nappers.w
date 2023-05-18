@@ -1,0 +1,1 @@
+{"index": 196899, "D": "a textile worker who naps  cloth.", "S": [], "A": []}

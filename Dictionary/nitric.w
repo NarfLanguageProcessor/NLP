@@ -1,0 +1,1 @@
+{"index": 200358, "D": "containing nitrogen, usually in the pentavalent state.", "S": [], "A": []}

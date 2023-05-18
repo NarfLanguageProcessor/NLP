@@ -1,0 +1,1 @@
+{"index": 361369, "D": "a whirling mass of water, especially one in which a force of suction operates, as a whirlpool.", "S": ["whirlpool "], "A": []}

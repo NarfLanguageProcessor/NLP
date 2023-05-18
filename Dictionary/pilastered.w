@@ -1,0 +1,1 @@
+{"index": 236556, "D": "having, or supported by, pilasters. ", "S": [], "A": []}

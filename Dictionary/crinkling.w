@@ -1,0 +1,1 @@
+{"index": 73064, "D": "to wrinkle; crimple; ripple.", "S": ["coiled ", "curled ", "fuzzy ", "kinky ", "wavy "], "A": ["straight "]}

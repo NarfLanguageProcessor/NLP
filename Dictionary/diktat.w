@@ -1,0 +1,1 @@
+{"index": 85657, "D": "a harsh, punitive settlement or decree imposed unilaterally on a defeated nation, political party, etc.", "S": [], "A": []}

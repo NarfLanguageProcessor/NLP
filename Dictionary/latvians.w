@@ -1,0 +1,1 @@
+{"index": 169085, "D": "of or relating to Latvia,  its inhabitants, or their language.", "S": [], "A": []}

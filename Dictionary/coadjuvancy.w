@@ -1,0 +1,1 @@
+{"index": 60872, "D": [], "S": ["aid ", "assistance ", "collaboration ", "participation ", "partnership ", "service ", "unity "], "A": ["hindrance ", "hurt ", "injury ", "antagonism ", "disagreement ", "discord ", "disunion ", "disunity ", "division ", "divorce ", "hostility ", "management ", "separation "]}

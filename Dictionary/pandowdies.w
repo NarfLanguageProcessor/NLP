@@ -1,0 +1,1 @@
+{"index": 224520, "D": "a deep-dish pie or cobbler made with apples or other fruit and covered with pastry or biscuit dough", "S": [], "A": []}

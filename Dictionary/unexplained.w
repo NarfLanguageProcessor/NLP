@@ -1,0 +1,1 @@
+{"index": 341799, "D": "unexplained phenomena", "S": ["anonymous ", "exotic ", "foreign ", "nameless ", "new ", "remote ", "strange ", "uncharted ", "undiscovered ", "unexplored ", "unfamiliar ", "unidentified ", "unnamed ", "unrecognized "], "A": ["common ", "familiar ", "identified ", "known ", "named ", "native ", "normal ", "regular ", "relevant ", "usual "]}

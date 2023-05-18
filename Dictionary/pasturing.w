@@ -1,0 +1,1 @@
+{"index": 227540, "D": "an area covered with grass or other plants used or suitable for the grazing of livestock; grassland.", "S": ["biting ", "cropping ", "eating ", "feeding ", "foraging ", "gnawing ", "masticating ", "munching ", "nibbling ", "ruminating ", "uprooting "], "A": []}

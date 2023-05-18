@@ -1,0 +1,1 @@
+{"index": 50870, "D": "a square meter. Abbreviation", "S": [], "A": []}

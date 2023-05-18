@@ -1,0 +1,1 @@
+{"index": 172564, "D": "an abnormal increase in the number of lymphocytes  in the blood.", "S": [], "A": []}

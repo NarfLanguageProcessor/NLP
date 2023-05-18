@@ -1,0 +1,1 @@
+{"index": 272572, "D": "a large, usually rectangular stack or pile of hay, straw, corn, or the like, in a field, especially when thatched or covered by a tarpaulin; an outdoor or makeshift mow.", "S": ["heap ", "load ", "pile ", "stockpile "], "A": ["disperse ", "dissipate ", "spend "]}

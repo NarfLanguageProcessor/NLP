@@ -1,0 +1,1 @@
+{"index": 242029, "D": "a person of great learning in several fields of study; polyhistor.", "S": ["accomplished ", "educated ", "scholarly ", "scientific ", "studied ", "well-educated "], "A": ["uneducated ", "green ", "ignorant ", "immature ", "inexperienced ", "unsophisticated "]}

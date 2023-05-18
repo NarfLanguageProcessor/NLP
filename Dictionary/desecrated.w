@@ -1,0 +1,1 @@
+{"index": 82465, "D": "to divest of sacred or hallowed character or office.", "S": ["besmirched ", "cooked ", "dirty ", "dishonored ", "exposed ", "polluted ", "profaned ", "ravished ", "spoilt ", "tainted ", "trashed ", "vitiated "], "A": ["clean ", "pure "]}

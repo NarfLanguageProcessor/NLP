@@ -1,0 +1,1 @@
+{"index": 86948, "D": "to deny; contradict.", "S": ["contradiction ", "disaffirmation ", "disallowance ", "disclaimer ", "rejection ", "repudiation "], "A": []}

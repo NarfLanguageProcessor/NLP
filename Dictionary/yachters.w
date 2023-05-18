@@ -1,0 +1,1 @@
+{"index": 145483, "D": [], "S": ["bluejacket ", "boater ", "cadet ", "diver ", "jack-tar ", "lascar ", "marine ", "mariner ", "mate ", "middy ", "navigator ", "pilot ", "pirate ", "salt ", "seafarer ", "seaman ", "shipmate ", "swab ", "tar ", "tarpaulin ", "windjammer "], "A": []}

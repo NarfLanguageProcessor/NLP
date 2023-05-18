@@ -1,0 +1,1 @@
+{"index": 176594, "D": "madam (def. 1). ", "S": ["madame "], "A": ["sir "]}

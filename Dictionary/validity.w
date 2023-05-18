@@ -1,0 +1,1 @@
+{"index": 356731, "D": "the state or quality of being valid", "S": ["effectiveness ", "efficacy ", "gravity ", "legality ", "legitimacy ", "potency ", "soundness ", "substance "], "A": ["ineffectiveness ", "uselessness ", "weakness ", "impotence ", "incompetence ", "lethargy "]}

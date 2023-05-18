@@ -1,0 +1,1 @@
+{"index": 218248, "D": "made by human skill; produced by humans (opposed to natural)", "S": [], "A": []}

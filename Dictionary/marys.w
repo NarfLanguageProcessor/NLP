@@ -1,0 +1,1 @@
+{"index": 180117, "D": "queen of Scotland 1542\u201367; beheaded for plotting to assassinate her cousin, Queen Elizabeth I.", "S": ["Blessed Virgin Mary ", "Mary ", "Mother of our Lord ", "Virgin Mary ", "madonna ", "the Virgin "], "A": []}

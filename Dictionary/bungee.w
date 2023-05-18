@@ -1,0 +1,1 @@
+{"index": 42845, "D": "any of certain springs or elastic tension devices, as the springs attached to movable controls of aircraft to facilitate their manipulation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 31087, "D": "to have confidence in the truth, the existence, or the reliability of something, although without absolute proof that one is right in doing so", "S": ["adhered ", "clutched ", "controlled ", "defended ", "detained ", "gripped ", "guarded ", "occupied ", "retained ", "taken "], "A": ["freed ", "lost ", "released "]}

@@ -1,0 +1,1 @@
+{"index": 56286, "D": "a salt of chromium in the bivalent state.", "S": [], "A": []}

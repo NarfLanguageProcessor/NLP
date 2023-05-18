@@ -1,0 +1,1 @@
+{"index": 357816, "D": "the open country, bearing grass, bushes, or shrubs, or thinly forested, characteristic of parts of southern Africa.", "S": [], "A": []}

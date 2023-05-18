@@ -1,0 +1,1 @@
+{"index": 250688, "D": "(of food) prepared or garnished with mixed fresh vegetables.", "S": [], "A": []}

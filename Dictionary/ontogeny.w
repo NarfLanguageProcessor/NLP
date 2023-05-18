@@ -1,0 +1,1 @@
+{"index": 212942, "D": "the development or developmental history of an individual organism.", "S": ["advancement ", "evolution ", "expansion ", "improvement ", "increase ", "progress "], "A": ["decline ", "decrease ", "halt ", "retreat ", "retrogression ", "stoppage ", "lessening ", "reduction ", "shrinkage ", "stagnation ", "withdrawal "]}

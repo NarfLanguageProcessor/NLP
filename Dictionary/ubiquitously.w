@@ -1,0 +1,1 @@
+{"index": 333589, "D": "existing or being everywhere, especially at the same time; omnipresent", "S": ["far and wide ", "here and there ", "omnipresent ", "ubiquitous "], "A": ["nowhere "]}

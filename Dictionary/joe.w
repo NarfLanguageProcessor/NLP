@@ -1,0 +1,1 @@
+{"index": 161519, "D": "coffee (def. 1)", "S": ["caffeine ", "cappuccino ", "espresso "], "A": []}

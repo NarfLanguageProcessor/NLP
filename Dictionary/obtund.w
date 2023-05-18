@@ -1,0 +1,1 @@
+{"index": 210562, "D": "to blunt; dull; deaden", "S": ["cripple ", "dampen ", "debilitate ", "sap ", "soften ", "undermine ", "water down ", "weaken "], "A": ["aid ", "assist ", "encourage ", "help ", "strengthen ", "enliven ", "increase "]}

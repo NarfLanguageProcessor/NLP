@@ -1,0 +1,1 @@
+{"index": 23189, "D": "to bring into accord, harmony, or sympathetic relationship; adjust", "S": ["accommodate ", "accustom ", "adapt ", "conform "], "A": ["disarrange ", "disagree ", "refuse "]}

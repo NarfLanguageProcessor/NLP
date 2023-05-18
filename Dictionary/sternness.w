@@ -1,0 +1,1 @@
+{"index": 304081, "D": "firm, strict, or uncompromising", "S": ["acerbity ", "austerity ", "cruelty ", "grimness ", "hardheartedness ", "hardness ", "harshness ", "rigidity ", "rigor ", "rigorousness ", "sharpness ", "strictness ", "stringency ", "toughness ", "unkindness "], "A": ["gentility ", "kindness ", "mildness "]}

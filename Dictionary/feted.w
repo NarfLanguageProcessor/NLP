@@ -1,0 +1,1 @@
+{"index": 111735, "D": "celebrated, lauded, or acclaimed", "S": ["honored "], "A": ["bored ", "depressed ", "ignored ", "irritated ", "neglected ", "spurned "]}

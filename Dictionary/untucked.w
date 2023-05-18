@@ -1,0 +1,1 @@
+{"index": 353443, "D": "to release from or bring out of a tucked  condition", "S": [], "A": []}

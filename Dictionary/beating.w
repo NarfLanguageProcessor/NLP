@@ -1,0 +1,1 @@
+{"index": 29616, "D": "the act of a person or thing that beats, as to punish, clean, mix, etc.", "S": ["defeat ", "drubbing ", "slaughter ", "whipping "], "A": ["triumph ", "victory ", "win "]}

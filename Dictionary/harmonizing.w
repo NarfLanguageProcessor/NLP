@@ -1,0 +1,1 @@
+{"index": 133871, "D": "to bring into harmony,  accord, or agreement", "S": ["melodic ", "symphonic "], "A": ["dissonant "]}

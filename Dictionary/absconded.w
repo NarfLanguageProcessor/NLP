@@ -1,0 +1,1 @@
+{"index": 918, "D": "to depart in a sudden and secret manner, especially to avoid capture and legal prosecution", "S": ["escaped ", "fled "], "A": []}

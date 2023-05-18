@@ -1,0 +1,1 @@
+{"index": 368323, "D": "a carved totem pole of various North American Indian peoples.", "S": [], "A": []}

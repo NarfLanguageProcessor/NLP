@@ -1,0 +1,1 @@
+{"index": 349926, "D": "capable of being ridden,  as a horse.", "S": [], "A": []}

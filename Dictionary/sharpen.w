@@ -1,0 +1,1 @@
+{"index": 287548, "D": "to make or become sharp  or sharper. ", "S": ["file ", "grind ", "hone ", "strop ", "whet "], "A": ["blunt ", "dull "]}

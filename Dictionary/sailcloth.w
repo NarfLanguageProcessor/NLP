@@ -1,0 +1,1 @@
+{"index": 276780, "D": "any of various fabrics, as of cotton, nylon, or Dacron, for boat sails or tents.", "S": ["tarp ", "tarpaulin "], "A": []}

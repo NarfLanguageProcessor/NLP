@@ -1,0 +1,1 @@
+{"index": 159734, "D": "the hard white substance, a variety of dentin, composing the main part of the tusks of elephants, walruses, etc.", "S": ["alabaster ", "argent ", "blond ", "blonde ", "light ", "neutral ", "pale ", "pearly ", "sallow ", "white "], "A": ["black ", "bright ", "brunette ", "colorful ", "dark "]}

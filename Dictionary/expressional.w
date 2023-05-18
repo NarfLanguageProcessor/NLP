@@ -1,0 +1,1 @@
+{"index": 108009, "D": "the act of expressing or setting forth in words", "S": [], "A": []}

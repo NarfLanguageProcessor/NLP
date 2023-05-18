@@ -1,0 +1,1 @@
+{"index": 78688, "D": "to furnish or adorn with something ornamental or becoming; embellish", "S": ["adorn ", "bedeck ", "brighten ", "deck ", "do up ", "dress up ", "festoon ", "fix up ", "grace ", "illuminate ", "paint ", "renovate ", "spruce up ", "trim "], "A": ["darken ", "dull ", "hurt ", "ruin ", "decrease ", "reduce "]}

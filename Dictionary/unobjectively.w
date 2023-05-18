@@ -1,0 +1,1 @@
+{"index": 347006, "D": "in a way that is not influenced by personal feelings or prejudices", "S": [], "A": []}

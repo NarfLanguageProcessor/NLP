@@ -1,0 +1,1 @@
+{"index": 321511, "D": "pertaining to a type of plastic, as the urea resins, that sets when heated and cannot be remolded.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 329696, "D": "any compound containing three double bonds.", "S": [], "A": []}

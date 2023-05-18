@@ -1,0 +1,1 @@
+{"index": 59181, "D": "Compare quahog, soft-shell clam. ", "S": ["coin ", "currency ", "dough ", "loot ", "money ", "moola ", "swag "], "A": []}

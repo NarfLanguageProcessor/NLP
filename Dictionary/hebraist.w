@@ -1,0 +1,1 @@
+{"index": 135079, "D": "a person versed in the Hebrew  language.", "S": [], "A": []}

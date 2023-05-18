@@ -1,0 +1,1 @@
+{"index": 96189, "D": "an intellectual.", "S": ["bluestocking ", "bookworm ", "brain ", "geek ", "genius ", "highbrow ", "know-it-all ", "scholar ", "thinker "], "A": []}

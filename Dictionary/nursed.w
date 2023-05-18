@@ -1,0 +1,1 @@
+{"index": 209706, "D": "Compare nurse-midwife, nurse-practitioner, physician's assistant, practical nurse, registered nurse. ", "S": ["abetted ", "accompanied ", "advised ", "assisted ", "backed ", "befriended ", "bolstered ", "encouraged ", "maintained ", "relieved ", "supported ", "sustained "], "A": ["discouraged "]}

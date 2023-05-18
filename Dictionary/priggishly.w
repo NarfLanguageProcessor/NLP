@@ -1,0 +1,1 @@
+{"index": 250452, "D": "fussy about trivialities or propriety, especially in a self-righteous or irritating manner", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230215, "D": "a pungent condiment obtained from various plants of the genus Piper, especially from the dried berries, used whole or ground, of the tropical climbing shrub P. nigrum.", "S": ["carpeted ", "dotted ", "overgrown "], "A": ["bare ", "empty ", "exposed ", "open ", "passed over ", "revealed ", "unfurnished ", "unheeded ", "unnoticed "]}

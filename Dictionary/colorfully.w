@@ -1,0 +1,1 @@
+{"index": 63343, "D": "abounding in color", "S": ["brilliantly ", "cheerfully ", "merrily "], "A": ["darkly ", "dully ", "miserably ", "sadly "]}

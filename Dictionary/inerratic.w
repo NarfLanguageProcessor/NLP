@@ -1,0 +1,1 @@
+{"index": 151594, "D": "not erratic  or wandering; fixed", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 368780, "D": "an hors d'oeuvre.", "S": [], "A": []}

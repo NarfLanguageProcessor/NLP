@@ -1,0 +1,1 @@
+{"index": 120101, "D": "any plant of the genus Fumaria, especially a delicate herb, F. officinalis, having finely dissected, grayish leaves and spikes of purplish flowers.", "S": [], "A": []}

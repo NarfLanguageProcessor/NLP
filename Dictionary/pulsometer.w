@@ -1,0 +1,1 @@
+{"index": 256422, "D": "a pulsimeter.", "S": [], "A": []}

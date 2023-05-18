@@ -1,0 +1,1 @@
+{"index": 113639, "D": "bubbly; fizzing. ", "S": ["aerated ", "bubbling ", "bubbly ", "carbonated ", "gassy ", "sparkling ", "spumante "], "A": ["flat ", "still "]}

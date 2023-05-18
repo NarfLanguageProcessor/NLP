@@ -1,0 +1,1 @@
+{"index": 329590, "D": "a knitted fabric made of silk or synthetic yarn, used in the manufacture of wearing apparel.", "S": [], "A": []}

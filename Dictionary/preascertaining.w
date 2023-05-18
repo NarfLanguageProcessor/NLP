@@ -1,0 +1,1 @@
+{"index": 245761, "D": "to find out definitely; learn with certainty or assurance; determine", "S": [], "A": []}

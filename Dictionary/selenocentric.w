@@ -1,0 +1,1 @@
+{"index": 283485, "D": "having the moon as its center.", "S": [], "A": []}

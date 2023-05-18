@@ -1,0 +1,1 @@
+{"index": 207660, "D": "adapted for sucking or suction,  as an organ; functioning as a sucker for imbibing or adhering.", "S": [], "A": []}

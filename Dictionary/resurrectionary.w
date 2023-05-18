@@ -1,0 +1,1 @@
+{"index": 270195, "D": "pertaining to or of the nature of resurrection. ", "S": [], "A": []}

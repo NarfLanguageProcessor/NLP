@@ -1,0 +1,1 @@
+{"index": 124507, "D": "a Muslim soldier, especially one fighting against non-Muslims.", "S": [], "A": []}

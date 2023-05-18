@@ -1,0 +1,1 @@
+{"index": 103358, "D": "equal in power, ability, or effect.", "S": [], "A": []}

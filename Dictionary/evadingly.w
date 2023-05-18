@@ -1,0 +1,1 @@
+{"index": 105947, "D": "to escape from by trickery or cleverness", "S": [], "A": []}

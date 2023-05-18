@@ -1,0 +1,1 @@
+{"index": 4424, "D": "of or relating to the Adriatic Sea. ", "S": [], "A": []}

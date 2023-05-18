@@ -1,0 +1,1 @@
+{"index": 73787, "D": "produced by crossbreeding.", "S": ["blended ", "different ", "diverse ", "varied "], "A": ["alike ", "like ", "same ", "similar ", "uniform ", "separate ", "single "]}

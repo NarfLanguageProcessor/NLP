@@ -1,0 +1,1 @@
+{"index": 83263, "D": "the metabolic process by which toxins are changed into less toxic or more readily excretable substances.", "S": [], "A": []}

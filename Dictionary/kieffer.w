@@ -1,0 +1,1 @@
+{"index": 164505, "D": "a large hybrid variety of pear that is yellow with brown or red flecks.", "S": [], "A": []}

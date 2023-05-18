@@ -1,0 +1,1 @@
+{"index": 273040, "D": "a highly venomous snake, Hemachatus haemachatus, of southern Africa, related to the cobras, having one to three light-colored bands across its throat and characterized by its ability to accurately spit its venom up to 7 feet (2.1 meters) away.", "S": [], "A": []}

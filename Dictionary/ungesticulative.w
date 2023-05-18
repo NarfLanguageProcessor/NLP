@@ -1,0 +1,1 @@
+{"index": 343020, "D": "to make or use gestures,  especially in an animated or excited manner with or instead of speech.", "S": [], "A": []}

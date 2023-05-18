@@ -1,0 +1,1 @@
+{"index": 37628, "D": "a long, often cylindrical, cushion or pillow for a bed, sofa, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164339, "D": "a sermon preached by an imam in a mosque at the time of the Friday noon prayer.", "S": [], "A": []}

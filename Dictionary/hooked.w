@@ -1,0 +1,1 @@
+{"index": 143541, "D": "bent like a hook; hook-shaped.", "S": ["absorbed ", "enamored "], "A": []}

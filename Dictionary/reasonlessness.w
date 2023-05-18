@@ -1,0 +1,1 @@
+{"index": 262036, "D": "not having any reason or sense", "S": [], "A": []}

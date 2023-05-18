@@ -1,0 +1,1 @@
+{"index": 297742, "D": "relating to the star Sirius or to the rising of this star", "S": [], "A": []}

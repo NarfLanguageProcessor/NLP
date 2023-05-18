@@ -1,0 +1,1 @@
+{"index": 112609, "D": "the fact of being the child of a certain parent.", "S": ["affiliation ", "affinity ", "agnate ", "brotherhood ", "cognate ", "connection ", "kin ", "kindred ", "kinship ", "lineage ", "race ", "sisterhood ", "strain "], "A": []}

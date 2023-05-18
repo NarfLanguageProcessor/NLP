@@ -1,0 +1,1 @@
+{"index": 245794, "D": "to assert or affirm with confidence; declare in a positive or peremptory manner.", "S": [], "A": []}

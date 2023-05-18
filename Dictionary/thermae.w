@@ -1,0 +1,1 @@
+{"index": 321319, "D": "hot springs; hot baths.", "S": ["hot spring ", "warm spring "], "A": []}

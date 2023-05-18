@@ -1,0 +1,1 @@
+{"index": 312014, "D": "able to be placed or set over, above, or on something else", "S": [], "A": []}

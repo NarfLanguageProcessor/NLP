@@ -1,0 +1,1 @@
+{"index": 257541, "D": "a group of four, especially a group of four persons with an interest or task in common.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75168, "D": "the office or position of a curate.", "S": [], "A": []}

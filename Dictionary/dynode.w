@@ -1,0 +1,1 @@
+{"index": 86183, "D": "an electrode for the emission of secondary electrons in a vacuum tube.", "S": [], "A": []}

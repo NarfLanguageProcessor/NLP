@@ -1,0 +1,1 @@
+{"index": 262659, "D": "(especially in British military use) reconnaissance", "S": [], "A": []}

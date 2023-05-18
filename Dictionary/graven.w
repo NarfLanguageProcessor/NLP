@@ -1,0 +1,1 @@
+{"index": 129333, "D": "a past participle of grave3. ", "S": ["carved ", "etched ", "sculptured "], "A": []}

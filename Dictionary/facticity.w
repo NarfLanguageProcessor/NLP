@@ -1,0 +1,1 @@
+{"index": 109039, "D": "the condition or quality of being a fact; factuality.", "S": [], "A": []}

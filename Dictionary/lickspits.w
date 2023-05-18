@@ -1,0 +1,1 @@
+{"index": 171731, "D": "a contemptible, fawning person; a servile flatterer or toady.", "S": [], "A": []}

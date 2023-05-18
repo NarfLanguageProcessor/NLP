@@ -1,0 +1,1 @@
+{"index": 252669, "D": "of, relating to, or characteristic of the propyl group. ", "S": [], "A": []}

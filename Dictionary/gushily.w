@@ -1,0 +1,1 @@
+{"index": 131536, "D": "given to or marked by excessively effusive talk, behavior, etc.", "S": [], "A": []}

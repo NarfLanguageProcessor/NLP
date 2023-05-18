@@ -1,0 +1,1 @@
+{"index": 143528, "D": "the impression made by an animal's hoof. ", "S": ["footstep ", "impression ", "imprint "], "A": []}

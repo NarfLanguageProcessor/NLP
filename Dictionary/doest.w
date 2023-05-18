@@ -1,0 +1,1 @@
+{"index": 90828, "D": "to perform (an act, duty, role, etc.)", "S": [], "A": []}

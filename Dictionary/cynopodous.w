@@ -1,0 +1,1 @@
+{"index": 57809, "D": "(of some mammals, such as dogs) having claws that do not retract", "S": [], "A": []}

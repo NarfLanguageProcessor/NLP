@@ -1,0 +1,1 @@
+{"index": 237012, "D": "of or relating to a cartridge fitted with a pin  that, when struck by the hammer of the firearm, causes the cartridge to explode.", "S": [], "A": []}

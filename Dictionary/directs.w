@@ -1,0 +1,1 @@
+{"index": 86798, "D": "to manage or guide by advice, helpful information, instruction, etc.", "S": ["advise ", "conduct ", "control ", "guide ", "handle ", "keep ", "lead ", "operate ", "run ", "supervise "], "A": ["abandon ", "give up ", "leave ", "let go ", "neglect ", "obey ", "serve ", "follow ", "mismanage ", "submit ", "surrender ", "yield "]}

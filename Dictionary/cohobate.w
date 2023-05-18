@@ -1,0 +1,1 @@
+{"index": 62395, "D": "to distill again from the same or a similar substance, as by pouring a distilled liquid back upon the matter remaining in the vessel, or upon another mass of similar matter.", "S": [], "A": []}

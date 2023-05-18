@@ -1,0 +1,1 @@
+{"index": 213229, "D": "a discontinuous circuit through which no current can flow.", "S": [], "A": []}

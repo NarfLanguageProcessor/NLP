@@ -1,0 +1,1 @@
+{"index": 20404, "D": "a common mineral, iron arsenic sulfide, FeAsS, occurring in silver-white to steel-gray crystals or masses", "S": [], "A": []}

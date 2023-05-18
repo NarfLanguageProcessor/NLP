@@ -1,0 +1,1 @@
+{"index": 303799, "D": "a person or animal that steps,  especially a horse that lifts its front legs high at the knee.", "S": ["aquarobics ", "dance workout ", "drill ", "exercise ", "high impact ", "low impact ", "slimnastics ", "step ", "workout "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334687, "D": "proper to be suggested or recommended; desirable or wise, as a course of action", "S": ["careless ", "foolhardy ", "foolish ", "ill-advised ", "ill-considered ", "irresponsible ", "reckless ", "thoughtless ", "unwise "], "A": ["attentive ", "careful ", "cautious ", "kind ", "mindful ", "prudent ", "responsible ", "sensible ", "thoughtful ", "wise "]}

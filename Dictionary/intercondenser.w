@@ -1,0 +1,1 @@
+{"index": 154721, "D": "a person or thing that condenses. ", "S": [], "A": []}

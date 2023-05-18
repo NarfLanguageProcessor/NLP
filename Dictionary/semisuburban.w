@@ -1,0 +1,1 @@
+{"index": 285024, "D": "pertaining to, inhabiting, or being in a suburb or the suburbs of a city or town.", "S": [], "A": []}

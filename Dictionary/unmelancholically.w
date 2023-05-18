@@ -1,0 +1,1 @@
+{"index": 346174, "D": "disposed to or affected with melancholy; gloomy.", "S": [], "A": []}

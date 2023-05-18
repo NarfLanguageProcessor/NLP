@@ -1,0 +1,1 @@
+{"index": 107044, "D": "to remove the contents of; disembowel; eviscerate. ", "S": ["deaden ", "debilitate ", "desiccate ", "destroy ", "disembowel ", "emasculate ", "enervate ", "eviscerate ", "weaken "], "A": ["aid ", "animate ", "assist ", "build ", "energize ", "help ", "invigorate ", "strengthen "]}

@@ -1,0 +1,1 @@
+{"index": 38193, "D": "a contemptuous term used to refer to a native of New Guinea.", "S": [], "A": []}

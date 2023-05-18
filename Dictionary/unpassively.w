@@ -1,0 +1,1 @@
+{"index": 347522, "D": "without emotion, reaction, or resistance", "S": [], "A": []}

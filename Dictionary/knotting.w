@@ -1,0 +1,1 @@
+{"index": 165693, "D": "a decorative pattern produced by interlacing and tying knots  in various yarns, as in macram\u00e9 and tatting.", "S": ["screw ", "tangle "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68614, "D": "a malleable, ductile, metallic element having a characteristic reddish-brown color", "S": ["chicken feed ", "coinage ", "peanuts ", "small beer ", "small potatoes "], "A": []}

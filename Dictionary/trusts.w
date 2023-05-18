@@ -1,0 +1,1 @@
+{"index": 331709, "D": "reliance on the integrity, strength, ability, surety, etc., of a person or thing; confidence.", "S": ["confidence ", "expectation ", "faith ", "hope "], "A": ["disbelief ", "distrust ", "doubt ", "uncertainty "]}

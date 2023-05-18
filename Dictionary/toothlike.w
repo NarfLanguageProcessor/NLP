@@ -1,0 +1,1 @@
+{"index": 325773, "D": "(in most vertebrates) one of the hard bodies or processes usually attached in a row to each jaw, serving for the prehension and mastication of food, as weapons of attack or defense, etc., and in mammals typically composed chiefly of dentin surrounding a sensitive pulp and covered on the crown with enamel.", "S": [], "A": []}

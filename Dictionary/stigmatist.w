@@ -1,0 +1,1 @@
+{"index": 304411, "D": "a person who bears stigmata. ", "S": [], "A": []}

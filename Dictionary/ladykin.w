@@ -1,0 +1,1 @@
+{"index": 167205, "D": "a little lady (often used as a term of endearment).", "S": [], "A": []}

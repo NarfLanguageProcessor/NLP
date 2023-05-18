@@ -1,0 +1,1 @@
+{"index": 47030, "D": "small pieces of pasta filled with meat or cheese.", "S": [], "A": []}

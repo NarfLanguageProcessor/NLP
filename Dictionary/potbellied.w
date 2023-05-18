@@ -1,0 +1,1 @@
+{"index": 244634, "D": "a distended or protuberant belly. ", "S": ["big ", "bulging ", "bulky ", "chunky ", "heavy ", "hefty ", "inflated ", "large ", "meaty ", "obese ", "plump ", "well-fed "], "A": ["skinny ", "slight ", "thin "]}

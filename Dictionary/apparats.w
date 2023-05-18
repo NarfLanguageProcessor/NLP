@@ -1,0 +1,1 @@
+{"index": 17564, "D": "an organization or existing power structure, especially a political one", "S": [], "A": []}

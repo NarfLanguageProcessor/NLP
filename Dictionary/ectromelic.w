@@ -1,0 +1,1 @@
+{"index": 95597, "D": "the congenital absence or imperfection of a limb or limbs.", "S": [], "A": []}

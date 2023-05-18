@@ -1,0 +1,1 @@
+{"index": 363038, "D": "a Buddhist temple or monastery in Thailand or Cambodia.", "S": [], "A": []}

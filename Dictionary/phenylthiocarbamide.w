@@ -1,0 +1,1 @@
+{"index": 233358, "D": "A crystalline compound that tastes somewhat or intensely bitter to people with a specific dominant gene and is used to test for the presence of the gene. Also called phenylthiourea. Chemical formula", "S": [], "A": []}

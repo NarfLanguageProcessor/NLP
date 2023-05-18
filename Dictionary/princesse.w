@@ -1,0 +1,1 @@
+{"index": 250635, "D": "a nonreigning female member of a royal family.", "S": [], "A": []}

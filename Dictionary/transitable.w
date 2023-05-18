@@ -1,0 +1,1 @@
+{"index": 327984, "D": "capable of being crossed or passed over.", "S": [], "A": []}

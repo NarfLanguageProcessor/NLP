@@ -1,0 +1,1 @@
+{"index": 96877, "D": "the selection of a person or persons for office by vote", "S": ["appointment ", "ballot ", "balloting ", "decision ", "poll ", "primary ", "referendum ", "selection "], "A": []}

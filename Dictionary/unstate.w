@@ -1,0 +1,1 @@
+{"index": 351950, "D": "to deprive (a person) of office or rank.", "S": [], "A": []}

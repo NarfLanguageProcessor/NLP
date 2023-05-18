@@ -1,0 +1,1 @@
+{"index": 364678, "D": "in or at what place?", "S": ["location ", "locus ", "point ", "position ", "site ", "situation ", "spot ", "station "], "A": []}

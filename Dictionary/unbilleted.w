@@ -1,0 +1,1 @@
+{"index": 335901, "D": "lodging for a soldier, student, etc., as in a private home or nonmilitary public building.", "S": [], "A": []}

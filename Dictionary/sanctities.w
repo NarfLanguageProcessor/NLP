@@ -1,0 +1,1 @@
+{"index": 277686, "D": "holiness, saintliness, or godliness.", "S": ["divinity ", "faith ", "inviolability ", "purity ", "righteousness ", "solemnity ", "spirituality "], "A": ["meanness "]}

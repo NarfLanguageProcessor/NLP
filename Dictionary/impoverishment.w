@@ -1,0 +1,1 @@
+{"index": 148984, "D": "to reduce to poverty", "S": ["depletion ", "famine ", "hardship ", "insolvency ", "privation ", "scarcity ", "starvation ", "underdevelopment "], "A": ["abundance ", "adequacy ", "advantage ", "affluence ", "comfort ", "enough ", "excess ", "fill ", "lot ", "pleasure ", "plenty ", "satisfaction ", "sufficiency ", "wealth "]}

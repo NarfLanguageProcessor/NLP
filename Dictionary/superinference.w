@@ -1,0 +1,1 @@
+{"index": 312075, "D": "the act or process of inferring.", "S": [], "A": []}

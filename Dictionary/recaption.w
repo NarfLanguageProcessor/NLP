@@ -1,0 +1,1 @@
+{"index": 262607, "D": "the taking back without violence of one's property or a member of one's family or household unlawfully in the possession or custody of another.", "S": [], "A": []}

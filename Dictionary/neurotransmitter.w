@@ -1,0 +1,1 @@
+{"index": 199271, "D": "any of several chemical substances, as epinephrine or acetylcholine, that transmit nerve impulses across a synapse to a postsynaptic element, as another nerve, muscle, or gland.", "S": [], "A": []}

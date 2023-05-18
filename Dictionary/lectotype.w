@@ -1,0 +1,1 @@
+{"index": 169865, "D": "a specimen designated as the type of a species or subspecies when no holotype was designated by the original author of the name.", "S": [], "A": []}

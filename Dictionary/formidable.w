@@ -1,0 +1,1 @@
+{"index": 117457, "D": "causing fear, apprehension, or dread", "S": ["awesome ", "dangerous ", "daunting ", "dire ", "dreadful ", "fierce ", "imposing ", "intimidating ", "menacing ", "terrific "], "A": ["trivial ", "unimportant ", "unthreatening "]}

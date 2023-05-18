@@ -1,0 +1,1 @@
+{"index": 345884, "D": "to contrive or plot, especially artfully or with evil purpose", "S": [], "A": []}

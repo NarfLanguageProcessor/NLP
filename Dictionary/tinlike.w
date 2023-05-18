@@ -1,0 +1,1 @@
+{"index": 324045, "D": "a low-melting, malleable, ductile metallic element nearly approaching silver in color and luster", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118146, "D": "pertaining to fractions;  comprising a part or the parts of a unit; constituting a fraction", "S": ["apportioned ", "compartmental ", "compartmented ", "constituent ", "dismembered ", "dispersed ", "divided ", "fragmentary ", "frationary ", "incomplete ", "parceled ", "part ", "piecemeal ", "sectional ", "segmented "], "A": ["all ", "entire ", "total "]}

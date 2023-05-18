@@ -1,0 +1,1 @@
+{"index": 60266, "D": "a beggar; vagrant; tramp. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167615, "D": "the skin  of a lamb,  especially when dressed with its wool, and used for clothing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212303, "D": "a large floodlight having a single bulb.", "S": [], "A": []}

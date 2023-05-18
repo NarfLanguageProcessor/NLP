@@ -1,0 +1,1 @@
+{"index": 355147, "D": "apprehension; understanding or comprehension; mental grasp", "S": ["back answer ", "backchat ", "cheek ", "comeback ", "guff ", "insolence ", "insult ", "lip ", "mouth ", "nasty reply ", "rejoinder ", "retort ", "return ", "riposte ", "sass ", "sauce ", "short answer "], "A": []}

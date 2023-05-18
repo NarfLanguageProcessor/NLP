@@ -1,0 +1,1 @@
+{"index": 65453, "D": "the act or process of concreting  or becoming substantial; coalescence; solidification. ", "S": ["coalescence ", "consolidation ", "fusion ", "solidification "], "A": ["division ", "separation "]}

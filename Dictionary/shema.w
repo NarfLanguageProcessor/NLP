@@ -1,0 +1,1 @@
+{"index": 288020, "D": "a liturgical prayer, prominent in Jewish history and tradition, that is recited daily at the morning and evening services and expresses the Jewish people's ardent faith in and love of God.", "S": [], "A": []}

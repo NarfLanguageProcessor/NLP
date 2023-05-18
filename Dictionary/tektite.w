@@ -1,0 +1,1 @@
+{"index": 317948, "D": "any of several kinds of small glassy bodies, in various forms, occurring in Australia and elsewhere, now believed to have been produced by the impact of meteorites on the earth's surface.", "S": [], "A": []}

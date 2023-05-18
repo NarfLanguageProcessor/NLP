@@ -1,0 +1,1 @@
+{"index": 245589, "D": "an opinion or recommendation offered as a guide to action, conduct, etc.", "S": [], "A": []}

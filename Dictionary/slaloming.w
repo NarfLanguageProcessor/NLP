@@ -1,0 +1,1 @@
+{"index": 293609, "D": "Compare giant slalom. ", "S": [], "A": []}

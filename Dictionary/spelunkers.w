@@ -1,0 +1,1 @@
+{"index": 299130, "D": "a person who explores caves, especially as a hobby.", "S": [], "A": []}

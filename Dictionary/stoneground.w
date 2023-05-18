@@ -1,0 +1,1 @@
+{"index": 305210, "D": "(of wheat or other grain) ground between millstones, especially those made of burstone, so as to retain the whole of the grain and preserve nutritional content.", "S": [], "A": []}

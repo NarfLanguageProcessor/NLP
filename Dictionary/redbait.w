@@ -1,0 +1,1 @@
+{"index": 263882, "D": "to denounce or deprecate as a political radical, especially to accuse of being communist.", "S": [], "A": []}

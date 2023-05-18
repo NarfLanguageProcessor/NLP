@@ -1,0 +1,1 @@
+{"index": 321108, "D": "an obsolete bass lute with two sets of strings attached to separate peg boxes, one above the other, on the neck.", "S": [], "A": []}

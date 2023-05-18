@@ -1,0 +1,1 @@
+{"index": 104654, "D": [], "S": ["beautiful ", "charming ", "classy ", "delicate ", "elegant ", "exquisite ", "graceful ", "handsome ", "pleasing ", "plush ", "restrained ", "stylish ", "subdued ", "tasty "], "A": ["crude ", "homely ", "inelegant ", "inferior ", "offensive ", "plain ", "poor ", "repulsive ", "rough ", "ugly ", "unattractive ", "unfashionable ", "unstylish "]}

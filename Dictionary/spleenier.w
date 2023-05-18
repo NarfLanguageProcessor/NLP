@@ -1,0 +1,1 @@
+{"index": 300396, "D": "abundant in or displaying spleen. ", "S": [], "A": []}

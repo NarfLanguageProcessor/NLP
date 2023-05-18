@@ -1,0 +1,1 @@
+{"index": 35251, "D": "having a harsh, disagreeably acrid taste, like that of aspirin, quinine, wormwood, or aloes.", "S": ["aggravate ", "annoy ", "disaffect ", "disillusion ", "exacerbate ", "exasperate ", "irritate ", "sour "], "A": ["aid ", "calm ", "comfort ", "help ", "make happy ", "please ", "soothe "]}

@@ -1,0 +1,1 @@
+{"index": 366261, "D": "a small, creeping, evergreen shrub, Gaultheria procumbens, of the heath family, common in eastern North America, having white, nodding, bell-shaped flowers, a bright-red, berrylike fruit, and aromatic leaves that yield a volatile oil.", "S": [], "A": []}

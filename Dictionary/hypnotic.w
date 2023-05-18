@@ -1,0 +1,1 @@
+{"index": 140734, "D": "of or relating to hypnosis  or hypnotism. ", "S": ["mesmerizing ", "soothing "], "A": ["exciting ", "exhilarating ", "inspiring ", "stimulating "]}

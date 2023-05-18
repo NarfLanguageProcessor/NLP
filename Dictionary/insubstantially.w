@@ -1,0 +1,1 @@
+{"index": 154024, "D": "not substantial or real; lacking substance", "S": [], "A": []}

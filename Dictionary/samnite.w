@@ -1,0 +1,1 @@
+{"index": 277561, "D": "a member of an Oscan-speaking people of the S Apennines, who clashed repeatedly with Rome between 350 bc and 200 bc", "S": [], "A": []}

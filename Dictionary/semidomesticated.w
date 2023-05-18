@@ -1,0 +1,1 @@
+{"index": 284118, "D": "living in a state of partial domestication.", "S": [], "A": []}

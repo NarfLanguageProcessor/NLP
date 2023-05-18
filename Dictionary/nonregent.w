@@ -1,0 +1,1 @@
+{"index": 206616, "D": "(at English universities) a Master of Arts whose regency has terminated.", "S": [], "A": []}

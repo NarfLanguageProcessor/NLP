@@ -1,0 +1,1 @@
+{"index": 291101, "D": "exaggerated simplicity, as in concentrating on a single aspect or factor of a problem or situation while disregarding others; oversimplification", "S": [], "A": []}

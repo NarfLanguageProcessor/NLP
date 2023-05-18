@@ -1,0 +1,1 @@
+{"index": 65914, "D": "to design or adapt to form a specific configuration or for some specific purpose", "S": ["construct "], "A": ["destroy ", "disarrange ", "disorder ", "disorganize ", "disperse ", "neglect ", "ruin ", "scatter "]}

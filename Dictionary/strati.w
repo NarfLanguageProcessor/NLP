@@ -1,0 +1,1 @@
+{"index": 305857, "D": "a combining form representing stratum  in compound words", "S": [], "A": []}

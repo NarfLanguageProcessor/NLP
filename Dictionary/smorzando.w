@@ -1,0 +1,1 @@
+{"index": 295089, "D": "fading away; dying out (a musical direction).", "S": [], "A": []}

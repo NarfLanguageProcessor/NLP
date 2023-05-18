@@ -1,0 +1,1 @@
+{"index": 57828, "D": "an Italian short sword of the late 15th and early 16th centuries having a broad, tapering blade, often richly ornamented.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 242666, "D": "a tree cut back nearly to the trunk, so as to produce a dense mass of branches.", "S": ["prune ", "shave ", "shear "], "A": ["attach ", "connect ", "elongate ", "expand ", "extend ", "grow ", "increase ", "lengthen ", "raise ", "unite "]}

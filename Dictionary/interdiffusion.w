@@ -1,0 +1,1 @@
+{"index": 154852, "D": "act of diffusing; state of being diffused.", "S": [], "A": []}

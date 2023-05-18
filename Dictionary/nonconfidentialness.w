@@ -1,0 +1,1 @@
+{"index": 202267, "D": "spoken, written, acted on, etc., in strict privacy or secrecy; secret", "S": [], "A": []}

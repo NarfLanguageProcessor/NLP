@@ -1,0 +1,1 @@
+{"index": 150477, "D": "increasing or waxing, as the moon.", "S": ["aggregate ", "increasing "], "A": ["decreasing ", "subtracting "]}

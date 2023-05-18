@@ -1,0 +1,1 @@
+{"index": 148493, "D": "very slight, gradual, or subtle", "S": ["gradual ", "inaudible ", "indistinguishable ", "insignificant ", "invisible ", "microscopic ", "subtle ", "undetectable "], "A": ["apparent ", "conspicuous ", "distinct ", "evident ", "noticeable ", "obvious ", "perceptible ", "seeable ", "striking ", "unobscured "]}

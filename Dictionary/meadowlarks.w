@@ -1,0 +1,1 @@
+{"index": 181683, "D": "any of several American songbirds of the genus Sturnella, of the family Icteridae, especially S. magna(eastern meadowlark ) and S. neglecta(western meadowlark ), having a brownish and black back and wings and a yellow breast, noted for their clear, tuneful song.", "S": [], "A": []}

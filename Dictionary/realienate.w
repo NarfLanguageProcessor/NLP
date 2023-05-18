@@ -1,0 +1,1 @@
+{"index": 261719, "D": "to make indifferent or hostile", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75186, "D": "to administer curare  to, as in vivisection.", "S": [], "A": []}

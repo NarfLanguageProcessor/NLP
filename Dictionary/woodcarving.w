@@ -1,0 +1,1 @@
+{"index": 367114, "D": "the art or technique of carving  objects by hand from wood  or of carving  decorations into wood. ", "S": [], "A": []}

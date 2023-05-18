@@ -1,0 +1,1 @@
+{"index": 96459, "D": "a solution applied locally to the eye  for irrigation or administering medication.", "S": ["adulation ", "baloney ", "blandishment ", "cajolery ", "coaxing ", "compliments ", "exaggeration ", "fawning ", "honey ", "incense ", "ingratiation ", "oil ", "overpraise ", "wheedling "], "A": []}

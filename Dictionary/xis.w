@@ -1,0 +1,1 @@
+{"index": 368675, "D": "the 14th letter of the Greek alphabet (\u039e, \u03be).", "S": [], "A": []}

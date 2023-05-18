@@ -1,0 +1,1 @@
+{"index": 32846, "D": "to wager with (something or someone).", "S": ["chance ", "long shot ", "odds ", "pledge ", "risk ", "speculation ", "stake ", "venture ", "wager "], "A": ["certainty "]}

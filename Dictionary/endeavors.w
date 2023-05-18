@@ -1,0 +1,1 @@
+{"index": 99629, "D": "the plural of endeavor. ", "S": ["aim ", "effort ", "enterprise ", "struggle ", "undertaking ", "venture "], "A": ["idleness ", "inactivity ", "passivity ", "entertainment ", "fun ", "pastime ", "peace "]}

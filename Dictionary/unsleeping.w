@@ -1,0 +1,1 @@
+{"index": 351338, "D": "the condition of being asleep.", "S": ["alive ", "astir ", "attentive ", "awake ", "careful ", "heedful ", "insomniac ", "insomnious ", "observant ", "on guard ", "on the alert ", "on the lookout ", "on the qui vive ", "sleepless ", "vigilant ", "waking ", "wary ", "watchful ", "wide-awake "], "A": []}

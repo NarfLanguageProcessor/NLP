@@ -1,0 +1,1 @@
+{"index": 222007, "D": "producing eggs that are hatched within the body, so that the young are born alive but without placental attachment, as certain reptiles or fishes.", "S": [], "A": []}

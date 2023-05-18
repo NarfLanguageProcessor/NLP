@@ -1,0 +1,1 @@
+{"index": 246898, "D": "a condition in which carbohydrate metabolism is mildly abnormal but other criteria indicating diabetes  mellitus are absent.", "S": [], "A": []}

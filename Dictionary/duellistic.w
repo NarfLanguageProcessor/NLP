@@ -1,0 +1,1 @@
+{"index": 93854, "D": "a prearranged combat between two persons, fought with deadly weapons according to an accepted code of procedure, especially to settle a private quarrel.", "S": [], "A": []}

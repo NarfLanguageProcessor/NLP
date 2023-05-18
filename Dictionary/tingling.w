@@ -1,0 +1,1 @@
+{"index": 323998, "D": "Ding Ling. ", "S": ["excited ", "stimulated ", "tingly "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172918, "D": "a liquid or semiliquid preparation for rubbing on or applying to the skin, as for sprains or bruises, usually soothing or counterirritating.", "S": ["balm ", "cream ", "dressing ", "embrocation ", "emollient ", "lenitive ", "lotion ", "medicine ", "salve ", "unguent "], "A": []}

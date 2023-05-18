@@ -1,0 +1,1 @@
+{"index": 204335, "D": "tending to gratify;  giving or causing satisfaction; pleasing. ", "S": [], "A": []}

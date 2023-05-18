@@ -1,0 +1,1 @@
+{"index": 81089, "D": "the second brightest star in the constellation Leo. Visual magnitude", "S": [], "A": []}

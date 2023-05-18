@@ -1,0 +1,1 @@
+{"index": 357181, "D": "random variable. ", "S": [], "A": []}

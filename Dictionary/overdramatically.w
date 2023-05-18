@@ -1,0 +1,1 @@
+{"index": 219066, "D": "in a way that relates to plays or the theater; in or as a play", "S": [], "A": []}

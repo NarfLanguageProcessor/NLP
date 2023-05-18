@@ -1,0 +1,1 @@
+{"index": 168613, "D": "the study of quantitative relations in population aggregates.", "S": [], "A": []}

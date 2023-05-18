@@ -1,0 +1,1 @@
+{"index": 194237, "D": "a person who sells quack medicines, as from a platform in public places, attracting and influencing an audience by tricks, storytelling, etc.", "S": [], "A": []}

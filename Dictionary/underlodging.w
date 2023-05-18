@@ -1,0 +1,1 @@
+{"index": 339450, "D": "accommodation in a house, especially in rooms for rent", "S": [], "A": []}

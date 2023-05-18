@@ -1,0 +1,1 @@
+{"index": 207484, "D": "the state or quality of being stable. ", "S": [], "A": []}

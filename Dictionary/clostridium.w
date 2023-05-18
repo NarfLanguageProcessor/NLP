@@ -1,0 +1,1 @@
+{"index": 60479, "D": "any of several rod-shaped, spore-forming, anaerobic bacteria of the genus Clostridium, found in soil and in the intestinal tract of humans and animals.", "S": [], "A": []}

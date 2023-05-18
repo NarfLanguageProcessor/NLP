@@ -1,0 +1,1 @@
+{"index": 47710, "D": "a registered member of an organization, especially of a union or a political party, who has been issued a card  in evidence of membership.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 168595, "D": "a rigid or flexible endoscope passed through the mouth and equipped with a source of light and magnification, for examining and performing local diagnostic and surgical procedures on the larynx.", "S": [], "A": []}

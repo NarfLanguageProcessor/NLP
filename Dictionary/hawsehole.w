@@ -1,0 +1,1 @@
+{"index": 134499, "D": "a hole in the stem or bow of a vessel for an anchor cable.", "S": [], "A": []}

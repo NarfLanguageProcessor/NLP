@@ -1,0 +1,1 @@
+{"index": 259199, "D": "a sleeveless, backless, vestlike garment extending to the waist, worn by a cleric beneath the clerical collar, especially in the Roman Catholic and Anglican churches.", "S": [], "A": []}

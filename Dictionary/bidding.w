@@ -1,0 +1,1 @@
+{"index": 33515, "D": "command; summons; invitation", "S": ["behest ", "call ", "charge ", "demand ", "dictate ", "direction ", "injunction ", "instruction ", "invitation ", "mandate ", "order ", "request ", "summons ", "word "], "A": ["answer ", "question ", "reply "]}

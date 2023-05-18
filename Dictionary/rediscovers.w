@@ -1,0 +1,1 @@
+{"index": 264239, "D": "to see, get knowledge of, learn of, find, or find out; gain sight or knowledge of (something previously unseen or unknown)", "S": ["get back ", "reclaim ", "recoup ", "regain ", "repair ", "rescue ", "restore ", "resume ", "retrieve ", "salvage "], "A": ["break ", "damage ", "destroy ", "forfeit ", "harm ", "hurt ", "injure ", "lose "]}

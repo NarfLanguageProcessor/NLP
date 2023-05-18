@@ -1,0 +1,1 @@
+{"index": 141704, "D": "a fit of anger; temper tantrum.", "S": [], "A": []}

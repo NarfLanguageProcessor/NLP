@@ -1,0 +1,1 @@
+{"index": 31153, "D": "literature regarded as a fine art, especially as having a purely aesthetic function.", "S": ["brain ", "educated person ", "intellectual ", "literary craftsman ", "literary scholar ", "litterateur ", "savant ", "scholar ", "walking encyclopedia ", "wordsmith "], "A": []}

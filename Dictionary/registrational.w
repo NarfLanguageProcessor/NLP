@@ -1,0 +1,1 @@
+{"index": 265690, "D": "the act of registering.", "S": [], "A": []}

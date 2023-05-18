@@ -1,0 +1,1 @@
+{"index": 208652, "D": "a point on the compass midway between north and west. Abbreviation", "S": [], "A": []}

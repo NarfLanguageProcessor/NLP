@@ -1,0 +1,1 @@
+{"index": 201789, "D": "pertaining to or occurring in or as if in a tube of fine bore.", "S": [], "A": []}

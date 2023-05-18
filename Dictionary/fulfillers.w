@@ -1,0 +1,1 @@
+{"index": 119879, "D": "to carry out, or bring to realization, as a prophecy or promise.", "S": [], "A": []}

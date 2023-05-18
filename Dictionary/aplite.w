@@ -1,0 +1,1 @@
+{"index": 17057, "D": "a fine-grained granite composed essentially of feldspar and quartz.", "S": [], "A": []}

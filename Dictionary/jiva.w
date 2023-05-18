@@ -1,0 +1,1 @@
+{"index": 161392, "D": "the individual soul, regarded as a particular manifestation of Atman.", "S": [], "A": []}

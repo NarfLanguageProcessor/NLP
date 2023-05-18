@@ -1,0 +1,1 @@
+{"index": 18247, "D": "of, like, or containing water; watery", "S": [], "A": []}

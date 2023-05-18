@@ -1,0 +1,1 @@
+{"index": 130410, "D": "a wrestling hold in which a wrestler in a kneeling position grips the head of his kneeling opponent with one arm and forces his shoulders down with the other", "S": [], "A": []}

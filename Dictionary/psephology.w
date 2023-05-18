@@ -1,0 +1,1 @@
+{"index": 254385, "D": "the study of elections.", "S": [], "A": []}

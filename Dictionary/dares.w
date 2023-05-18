@@ -1,0 +1,1 @@
+{"index": 76916, "D": "to have the necessary courage or boldness for something; be bold enough", "S": ["cartel ", "defy ", "provocation ", "stump ", "taunt "], "A": []}

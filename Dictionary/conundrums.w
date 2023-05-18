@@ -1,0 +1,1 @@
+{"index": 67875, "D": "a riddle,  the answer to which involves a pun or play on words, as What is black and white and read all over? A newspaper.", "S": ["enigma ", "mystery ", "riddle "], "A": []}

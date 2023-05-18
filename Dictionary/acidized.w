@@ -1,0 +1,1 @@
+{"index": 2438, "D": "to impregnate or become impregnated with acid; acidify. ", "S": [], "A": []}

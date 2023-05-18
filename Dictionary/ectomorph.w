@@ -1,0 +1,1 @@
+{"index": 95533, "D": "a person of the ectomorphic  type.", "S": [], "A": []}

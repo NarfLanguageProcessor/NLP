@@ -1,0 +1,1 @@
+{"index": 98136, "D": "expressed, personified, or exemplified in concrete form", "S": ["manifested ", "materialized ", "personified ", "substantiated ", "typified "], "A": []}

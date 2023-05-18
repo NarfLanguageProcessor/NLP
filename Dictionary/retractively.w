@@ -1,0 +1,1 @@
+{"index": 270638, "D": "tending or serving to retract.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20386, "D": "a salt or ester of arsenous acid.", "S": [], "A": []}

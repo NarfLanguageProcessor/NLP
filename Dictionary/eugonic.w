@@ -1,0 +1,1 @@
+{"index": 105445, "D": "thriving on artificial media, as certain bacteria (opposed to dysgonic).", "S": [], "A": []}

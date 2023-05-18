@@ -1,0 +1,1 @@
+{"index": 239148, "D": "the gelatinous outer layer of cytoplasm of the pseudopod of an ameba, beneath the cell membrane.", "S": [], "A": []}

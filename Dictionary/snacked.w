@@ -1,0 +1,1 @@
+{"index": 295184, "D": "a small portion of food or drink or a light meal, especially one eaten between regular meals.", "S": ["eat ", "gnaw ", "nip "], "A": ["devour ", "gorge ", "gulp "]}

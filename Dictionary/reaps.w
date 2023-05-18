@@ -1,0 +1,1 @@
+{"index": 261937, "D": "to cut (wheat, rye, etc.) with a sickle or other implement or a machine, as in harvest.", "S": ["bring in ", "derive ", "gain ", "garner ", "obtain ", "produce ", "realize ", "receive ", "recover ", "take in "], "A": ["forfeit ", "lose ", "miss ", "fail ", "grow ", "misunderstand ", "plant ", "reject ", "relinquish ", "surrender ", "yield "]}

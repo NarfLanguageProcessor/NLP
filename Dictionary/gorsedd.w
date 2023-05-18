@@ -1,0 +1,1 @@
+{"index": 128172, "D": "(in Wales) the bardic institution associated with the eisteddfod, esp a meeting of bards and druids held daily before the eisteddfod", "S": [], "A": []}

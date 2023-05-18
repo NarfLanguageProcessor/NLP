@@ -1,0 +1,1 @@
+{"index": 163814, "D": "knowledge, understanding, or cognizance; mental perception", "S": ["appreciate ", "experience ", "have ", "learn ", "notice ", "perceive ", "realize ", "recognize ", "see "], "A": ["ignore ", "miss ", "misunderstand ", "neglect ", "overlook ", "confuse ", "mix up "]}

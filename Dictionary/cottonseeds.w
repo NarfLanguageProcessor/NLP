@@ -1,0 +1,1 @@
+{"index": 70454, "D": "the seed  of the cotton  plant, yielding an oil.", "S": [], "A": []}

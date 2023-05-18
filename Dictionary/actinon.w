@@ -1,0 +1,1 @@
+{"index": 3187, "D": "a chemically inert, gaseous, short-lived isotope of radon that is a member of the actinium series. Symbol", "S": [], "A": []}

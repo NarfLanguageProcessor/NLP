@@ -1,0 +1,1 @@
+{"index": 256201, "D": "a cupronickel coin, paper money, and monetary unit of Botswana, equal to 100 thebe", "S": [], "A": []}

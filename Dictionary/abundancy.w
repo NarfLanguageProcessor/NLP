@@ -1,0 +1,1 @@
+{"index": 1157, "D": [], "S": ["fertility ", "fruitfulness "], "A": []}

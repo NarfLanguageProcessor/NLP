@@ -1,0 +1,1 @@
+{"index": 37922, "D": "any mackerel-like fish  of the genus Sarda, as S. sarda, of the Atlantic Ocean.", "S": [], "A": []}

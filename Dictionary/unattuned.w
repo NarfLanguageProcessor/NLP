@@ -1,0 +1,1 @@
+{"index": 335417, "D": "aware of and in harmony with some principle, ideal, or state of affairs", "S": [], "A": []}

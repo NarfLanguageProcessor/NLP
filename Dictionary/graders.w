@@ -1,0 +1,1 @@
+{"index": 128537, "D": "a person or thing that grades. ", "S": ["backhoe ", "excavator ", "heavy machinery ", "tracked vehicle "], "A": []}

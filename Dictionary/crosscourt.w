@@ -1,0 +1,1 @@
+{"index": 73793, "D": "(in racket games) directed to the diagonally opposite side of the court. ", "S": [], "A": []}

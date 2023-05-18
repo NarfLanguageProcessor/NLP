@@ -1,0 +1,1 @@
+{"index": 288783, "D": "a person who shoots  with a gun, bow, etc.", "S": ["slingshot "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243028, "D": "an anthropoid ape, esp an orang-utan or (formerly) a gorilla", "S": [], "A": []}

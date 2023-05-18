@@ -1,0 +1,1 @@
+{"index": 284741, "D": "of a partially political  nature; having some political  features.", "S": [], "A": []}

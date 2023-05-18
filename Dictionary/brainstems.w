@@ -1,0 +1,1 @@
+{"index": 39755, "D": "the portion of the brain  that is continuous with the spinal cord and comprises the medulla oblongata, pons, midbrain, and parts of the hypothalamus, functioning in the control of reflexes and such essential internal mechanisms as respiration and heartbeat.", "S": [], "A": []}

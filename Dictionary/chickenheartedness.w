@@ -1,0 +1,1 @@
+{"index": 54153, "D": "timid; fearful; cowardly.", "S": ["cowardliness ", "cravenness ", "faint-heartedness ", "fearfulness ", "poltroonery ", "pusillanimity ", "timidity "], "A": []}

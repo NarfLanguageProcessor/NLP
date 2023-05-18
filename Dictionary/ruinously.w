@@ -1,0 +1,1 @@
+{"index": 275451, "D": "bringing or tending to bring ruin;  destructive; disastrous", "S": [], "A": []}

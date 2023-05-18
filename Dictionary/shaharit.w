@@ -1,0 +1,1 @@
+{"index": 287159, "D": "the religious service celebrated by Jews every morning.", "S": [], "A": []}

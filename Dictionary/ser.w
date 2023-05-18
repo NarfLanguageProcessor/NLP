@@ -1,0 +1,1 @@
+{"index": 285884, "D": "a unit of weight in India, varying in value but usually 1/40 of a maund", "S": [], "A": []}

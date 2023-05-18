@@ -1,0 +1,1 @@
+{"index": 4650, "D": "unfavorable or antagonistic in purpose or effect", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158777, "D": "having or showing equal barometric pressure.", "S": [], "A": []}

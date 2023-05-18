@@ -1,0 +1,1 @@
+{"index": 200043, "D": "a palm tree of the genus Rhopalostylis, esp R. sapida, native to New Zealand. The leaves were used by the M\u0101oris to build their whares and the top of the stem is sometimes eaten", "S": [], "A": []}

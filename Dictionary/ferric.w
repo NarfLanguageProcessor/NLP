@@ -1,0 +1,1 @@
+{"index": 111487, "D": "of or containing iron, especially in the trivalent state.", "S": ["rigid ", "steely "], "A": ["flexible ", "loose ", "moving ", "pliant ", "slight ", "soft ", "supple ", "yielding "]}

@@ -1,0 +1,1 @@
+{"index": 196497, "D": "a member of any of the disparate tribal peoples of Nagaland and bordering areas of Myanmar (Burma).", "S": [], "A": []}

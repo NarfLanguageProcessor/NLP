@@ -1,0 +1,1 @@
+{"index": 95048, "D": "high spirits; exhilaration; exuberance.", "S": ["effusiveness ", "exuberance ", "yeastiness "], "A": ["dullness "]}

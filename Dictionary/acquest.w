@@ -1,0 +1,1 @@
+{"index": 2721, "D": "property acquired other than by inheritance, as by purchase or gift.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107396, "D": "to clear, as of an accusation; free from guilt or blame; exculpate", "S": [], "A": []}

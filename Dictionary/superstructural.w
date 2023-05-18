@@ -1,0 +1,1 @@
+{"index": 312749, "D": "the part of a building or construction entirely above its foundation or basement.", "S": [], "A": []}

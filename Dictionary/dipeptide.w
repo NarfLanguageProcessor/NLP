@@ -1,0 +1,1 @@
+{"index": 86395, "D": "a peptide  that yields two amino acids on hydrolysis.", "S": [], "A": []}

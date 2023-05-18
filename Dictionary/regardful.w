@@ -1,0 +1,1 @@
+{"index": 265537, "D": "observant; attentive; heedful (often followed by of)", "S": ["advertent ", "arrect ", "aware ", "careful ", "considerate ", "deferential ", "duteous ", "dutiful ", "heedful ", "intentive ", "mindful ", "observative ", "observing ", "respectful ", "thoughtful ", "watchful "], "A": ["disregarding ", "ignorant ", "inattentive ", "unobservant "]}

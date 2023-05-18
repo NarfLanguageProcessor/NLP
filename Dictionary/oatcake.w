@@ -1,0 +1,1 @@
+{"index": 209927, "D": "a cake,  usually thin and brittle, made of oatmeal.", "S": [], "A": []}

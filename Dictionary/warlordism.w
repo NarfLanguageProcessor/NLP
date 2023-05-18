@@ -1,0 +1,1 @@
+{"index": 362669, "D": "a military leader, especially of a warlike nation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 14464, "D": "an infectious, often fatal disease of cattle, sheep, and other mammals, caused by Bacillus anthracis, transmitted to humans by contaminated wool, raw meat, or other animal products.", "S": [], "A": []}

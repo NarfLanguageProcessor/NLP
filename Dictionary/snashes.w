@@ -1,0 +1,1 @@
+{"index": 295355, "D": "insolence; impertinence.", "S": [], "A": []}

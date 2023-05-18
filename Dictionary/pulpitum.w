@@ -1,0 +1,1 @@
+{"index": 256368, "D": "(in many cathedrals and large churches) a stone screen which divides the nave and the choir, often supporting a gallery or loft", "S": [], "A": []}

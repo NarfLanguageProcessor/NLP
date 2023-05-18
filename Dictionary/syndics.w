@@ -1,0 +1,1 @@
+{"index": 291545, "D": "a person chosen to represent and transact business for a corporation, as a university.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 282027, "D": "low or stunted, as trees.", "S": [], "A": []}

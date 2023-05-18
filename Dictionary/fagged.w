@@ -1,0 +1,1 @@
+{"index": 109195, "D": "a contemptuous term used to refer to a gay man.", "S": ["all in ", "bushed ", "dead tired ", "depleted ", "done ", "effete ", "far-gone ", "on last leg ", "ready to drop ", "spent ", "tired ", "used-up ", "washed-out ", "weary ", "worn-out "], "A": ["rested "]}

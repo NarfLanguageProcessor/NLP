@@ -1,0 +1,1 @@
+{"index": 148147, "D": "any substance or cell introduced into the body in order to generate an immune response.", "S": [], "A": []}

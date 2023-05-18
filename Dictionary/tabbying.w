@@ -1,0 +1,1 @@
+{"index": 314772, "D": "a cat with a striped or brindled coat.", "S": [], "A": []}

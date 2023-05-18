@@ -1,0 +1,1 @@
+{"index": 60787, "D": "producing or containing nematocysts.", "S": [], "A": []}

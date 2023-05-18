@@ -1,0 +1,1 @@
+{"index": 65159, "D": "the act of conceiving;  the state of being conceived. ", "S": ["childbearing ", "generating ", "procreant ", "reproducing "], "A": []}

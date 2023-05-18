@@ -1,0 +1,1 @@
+{"index": 207869, "D": "having to do with theocracy,  a form of government based on a specific religion or deity", "S": [], "A": []}

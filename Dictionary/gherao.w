@@ -1,0 +1,1 @@
+{"index": 124523, "D": "a form of industrial action in India in which workers imprison their employers on the premises until their demands are met", "S": [], "A": []}

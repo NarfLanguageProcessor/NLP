@@ -1,0 +1,1 @@
+{"index": 132676, "D": "an extinct genus comprising the chain corals.", "S": [], "A": []}

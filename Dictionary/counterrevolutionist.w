@@ -1,0 +1,1 @@
+{"index": 71056, "D": "characteristic of or resulting from a counterrevolution. ", "S": [], "A": []}

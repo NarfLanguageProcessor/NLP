@@ -1,0 +1,1 @@
+{"index": 142357, "D": "a proposed genetic grouping of American Indian languages comprising otherwise unclassified language families and isolates of California, the U.S. Southwest, and Mexico, including Yana, Pomo, Chumash, and Yuman.", "S": [], "A": []}

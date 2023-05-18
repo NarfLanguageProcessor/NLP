@@ -1,0 +1,1 @@
+{"index": 358284, "D": "venturesome. ", "S": ["adventuresome ", "audacious ", "bold ", "brave ", "courageous ", "dangerous ", "daredevil ", "daring ", "enterprising ", "foolhardy ", "hazardous ", "headstrong ", "intrepid ", "rash ", "reckless ", "risky ", "temerarious ", "venturesome "], "A": []}

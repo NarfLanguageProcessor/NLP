@@ -1,0 +1,1 @@
+{"index": 13778, "D": "a variety of mica, similar to biotite but differing in optical orientation.", "S": [], "A": []}

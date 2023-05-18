@@ -1,0 +1,1 @@
+{"index": 166964, "D": "being without; not having; wanting; less", "S": ["flawed ", "inadequate ", "incomplete "], "A": ["abundant ", "enough ", "having ", "profuse ", "sufficient "]}

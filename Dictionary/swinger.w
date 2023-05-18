@@ -1,0 +1,1 @@
+{"index": 314492, "D": "a person or thing that swings.", "S": ["coquette ", "cruiser ", "heartbreaker ", "operator ", "philanderer ", "player ", "seducer ", "siren ", "tease ", "trifler ", "vamp ", "vixen ", "wanton ", "wolf "], "A": []}

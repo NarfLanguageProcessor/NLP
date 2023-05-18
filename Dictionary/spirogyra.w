@@ -1,0 +1,1 @@
+{"index": 300187, "D": "a widely distributed filamentous freshwater green alga of the genus Spirogyra.", "S": [], "A": []}

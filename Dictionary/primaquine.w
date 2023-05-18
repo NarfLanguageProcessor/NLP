@@ -1,0 +1,1 @@
+{"index": 250480, "D": "a viscous liquid, C15H21N3O, used in the treatment of malaria.", "S": [], "A": []}

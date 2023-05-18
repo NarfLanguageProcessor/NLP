@@ -1,0 +1,1 @@
+{"index": 275622, "D": "the distance covered in making such a run.", "S": [], "A": []}

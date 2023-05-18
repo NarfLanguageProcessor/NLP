@@ -1,0 +1,1 @@
+{"index": 141099, "D": "a salt or ester of hypophosphoric acid. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191942, "D": "to subject (a breed, group, etc.) to crossbreeding, especially with one considered inferior.", "S": [], "A": []}

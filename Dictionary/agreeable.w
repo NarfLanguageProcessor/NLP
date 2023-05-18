@@ -1,0 +1,1 @@
+{"index": 6448, "D": "to one's liking; pleasing", "S": ["acceptable ", "delicious ", "delightful ", "enjoyable ", "gratifying ", "mild ", "pleasant ", "satisfying "], "A": ["disagreeable ", "horrible ", "unacceptable ", "unenjoyable ", "unhappy ", "unpleasant "]}

@@ -1,0 +1,1 @@
+{"index": 149230, "D": "a black variety of asphaltite with a jagged fracture.", "S": [], "A": []}

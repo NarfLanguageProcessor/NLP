@@ -1,0 +1,1 @@
+{"index": 232913, "D": "a combining form occurring in the names of substances, especially minerals, that seem like or have the qualities of that named by the initial element", "S": [], "A": []}

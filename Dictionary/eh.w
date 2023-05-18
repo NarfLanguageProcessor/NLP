@@ -1,0 +1,1 @@
+{"index": 96311, "D": "(an interrogative utterance, usually expressing surprise or doubt or seeking confirmation).", "S": [], "A": []}

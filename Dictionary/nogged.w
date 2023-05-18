@@ -1,0 +1,1 @@
+{"index": 200755, "D": "any beverage made with beaten eggs, usually with alcoholic liquor; eggnog. ", "S": [], "A": []}

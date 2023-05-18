@@ -1,0 +1,1 @@
+{"index": 7942, "D": "of or relating to the Aleutian Islands. ", "S": [], "A": []}

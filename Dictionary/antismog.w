@@ -1,0 +1,1 @@
+{"index": 16210, "D": "designed to reduce smog  by reducing the pollutants released into the earth's atmosphere", "S": [], "A": []}

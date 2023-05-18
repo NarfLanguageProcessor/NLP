@@ -1,0 +1,1 @@
+{"index": 160773, "D": "a name of God in the Old Testament, a rendering of the ineffable name, JHVH, in the Hebrew Scriptures.", "S": [], "A": []}

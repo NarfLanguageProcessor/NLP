@@ -1,0 +1,1 @@
+{"index": 244896, "D": "a person who raises domestic fowls, especially chickens, to sell as meat; a chicken farmer.", "S": [], "A": []}

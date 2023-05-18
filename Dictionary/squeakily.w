@@ -1,0 +1,1 @@
+{"index": 301850, "D": "squeaking;  tending to squeak", "S": [], "A": []}

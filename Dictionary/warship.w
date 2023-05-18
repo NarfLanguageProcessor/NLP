@@ -1,0 +1,1 @@
+{"index": 362808, "D": "a ship  built or armed for combat purposes.", "S": ["battleship ", "corvette ", "cutter ", "destroyer ", "frigate ", "gunboat ", "submarine "], "A": []}

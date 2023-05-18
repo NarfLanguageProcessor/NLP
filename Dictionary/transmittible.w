@@ -1,0 +1,1 @@
+{"index": 328124, "D": "to send or forward, as to a recipient or destination; dispatch; convey.", "S": [], "A": []}

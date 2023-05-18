@@ -1,0 +1,1 @@
+{"index": 346357, "D": "capable of being mined,  especially profitably.", "S": [], "A": []}

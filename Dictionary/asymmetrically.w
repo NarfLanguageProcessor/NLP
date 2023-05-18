@@ -1,0 +1,1 @@
+{"index": 21244, "D": "not identical on both sides of a central line; unsymmetrical; lacking symmetry", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}

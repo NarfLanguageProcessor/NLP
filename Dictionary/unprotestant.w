@@ -1,0 +1,1 @@
+{"index": 348708, "D": "any Western Christian who is not an adherent of a Catholic, Anglican, or Eastern Church.", "S": [], "A": []}

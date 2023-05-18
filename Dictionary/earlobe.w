@@ -1,0 +1,1 @@
+{"index": 94750, "D": "the soft, pendulous lower part of the external ear. ", "S": [], "A": []}

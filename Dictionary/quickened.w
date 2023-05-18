@@ -1,0 +1,1 @@
+{"index": 258494, "D": "to make more rapid; accelerate; hasten", "S": ["abrupt ", "careless ", "expeditious ", "hurried ", "ill-advised ", "impulsive ", "quick ", "rapid ", "reckless ", "sudden ", "swift ", "urgent "], "A": ["careful ", "cautious ", "kind ", "leisurely ", "slow ", "sluggish ", "thoughtful ", "wise "]}

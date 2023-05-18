@@ -1,0 +1,1 @@
+{"index": 321312, "D": "(of deities) thought of or represented as having the form of beasts.", "S": [], "A": []}

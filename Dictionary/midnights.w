@@ -1,0 +1,1 @@
+{"index": 186782, "D": "the middle of the night; twelve o'clock at night.", "S": ["12 o'clock at night ", "bewitching hour ", "dead of night ", "small hours ", "twelve o'clock at night ", "witching hour "], "A": []}

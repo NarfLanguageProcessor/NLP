@@ -1,0 +1,1 @@
+{"index": 53941, "D": "a single- or double-breasted topcoat or overcoat with a fly front and a narrow velvet collar.", "S": ["bed ", "chair ", "lounge "], "A": []}

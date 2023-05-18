@@ -1,0 +1,1 @@
+{"index": 218178, "D": "to move or force into violent, irregular action", "S": [], "A": []}

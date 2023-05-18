@@ -1,0 +1,1 @@
+{"index": 38182, "D": [], "S": ["backwoods ", "bush ", "country ", "hinterland ", "sticks "], "A": []}

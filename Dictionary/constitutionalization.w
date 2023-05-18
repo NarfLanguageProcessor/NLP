@@ -1,0 +1,1 @@
+{"index": 67054, "D": "to incorporate in a constitution;  make constitutional. ", "S": [], "A": []}

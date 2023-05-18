@@ -1,0 +1,1 @@
+{"index": 182902, "D": "in a musical style that allows several notes to be sung to one syllable of text", "S": [], "A": []}

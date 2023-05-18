@@ -1,0 +1,1 @@
+{"index": 143084, "D": "composed of parts or elements that are all of the same kind; not heterogeneous", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107908, "D": "a device for measuring the concentration of potentially explosive fumes.", "S": [], "A": []}

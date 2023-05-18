@@ -1,0 +1,1 @@
+{"index": 158983, "D": "an imaginary line, or one drawn on a map, connecting all points of equal magnetic declination.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271445, "D": "to restore to life; give new life to; revive; reanimate.", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}

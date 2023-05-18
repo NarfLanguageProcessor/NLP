@@ -1,0 +1,1 @@
+{"index": 6802, "D": "a member of an Indian people living in the mountainous regions around Lake Titicaca in Bolivia and Peru.", "S": [], "A": []}

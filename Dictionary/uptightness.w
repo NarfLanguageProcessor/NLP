@@ -1,0 +1,1 @@
+{"index": 355166, "D": "tense, nervous, or jittery.", "S": [], "A": []}

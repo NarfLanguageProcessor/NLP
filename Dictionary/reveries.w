@@ -1,0 +1,1 @@
+{"index": 271241, "D": "plural of reverie. ", "S": ["contemplation ", "fantasy ", "meditation ", "trance "], "A": ["nightmare "]}

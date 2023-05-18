@@ -1,0 +1,1 @@
+{"index": 262021, "D": "a basis or cause, as for some belief, action, fact, event, etc.", "S": ["logic ", "reasoning ", "sense "], "A": ["body ", "disbelief ", "ignorance ", "misinterpretation ", "mistake ", "misunderstanding ", "physicality ", "stupidity ", "unsoundness "]}

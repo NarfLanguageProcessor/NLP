@@ -1,0 +1,1 @@
+{"index": 169368, "D": "contrary to or without regard for the law", "S": [], "A": []}

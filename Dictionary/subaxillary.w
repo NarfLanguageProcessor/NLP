@@ -1,0 +1,1 @@
+{"index": 307285, "D": "situated or placed beneath an axil.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7228, "D": "a rare mineral, manganese sulfide, MnS, occurring in a massive form and having a cubical lattice structure.", "S": [], "A": []}

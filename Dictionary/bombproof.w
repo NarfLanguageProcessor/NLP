@@ -1,0 +1,1 @@
+{"index": 37750, "D": "strong enough to resist the impact and explosive force of bombs  or shells", "S": [], "A": []}

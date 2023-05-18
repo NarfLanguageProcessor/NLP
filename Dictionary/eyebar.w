@@ -1,0 +1,1 @@
+{"index": 96358, "D": "a tension member, used especially in bridge and roof trusses, having the form of a metal bar  enlarged at each end to include an eye. ", "S": [], "A": []}

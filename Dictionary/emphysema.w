@@ -1,0 +1,1 @@
+{"index": 98758, "D": "a chronic, irreversible disease of the lungs characterized by abnormal enlargement of air spaces in the lungs accompanied by destruction of the tissue lining the walls of the air spaces.", "S": [], "A": []}

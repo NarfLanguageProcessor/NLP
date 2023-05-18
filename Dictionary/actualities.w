@@ -1,0 +1,1 @@
+{"index": 3293, "D": "actual  existence; reality.", "S": ["achievement ", "actualization ", "attainment ", "fact ", "materiality ", "materialization ", "reality ", "substance ", "substantiality ", "truth "], "A": ["failure ", "forfeit ", "lie "]}

@@ -1,0 +1,1 @@
+{"index": 107249, "D": "the state or fact of existing;  being.", "S": ["continuation ", "presence ", "reality ", "survival ", "world "], "A": ["abstract ", "end "]}

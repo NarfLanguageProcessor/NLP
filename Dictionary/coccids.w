@@ -1,0 +1,1 @@
+{"index": 61324, "D": "any of various related bugs of the superfamily Coccoidea, comprising the scale insects.", "S": [], "A": []}

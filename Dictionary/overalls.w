@@ -1,0 +1,1 @@
+{"index": 218190, "D": "from one extreme limit of a thing to the other", "S": ["knickers ", "shorts ", "slacks ", "trousers ", "underpants "], "A": []}

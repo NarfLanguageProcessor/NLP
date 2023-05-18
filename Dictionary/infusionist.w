@@ -1,0 +1,1 @@
+{"index": 152418, "D": "the doctrine that the soul existed in a previous state and is infused into the body at conception or birth.", "S": [], "A": []}

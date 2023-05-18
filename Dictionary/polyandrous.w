@@ -1,0 +1,1 @@
+{"index": 241618, "D": "of, pertaining to, characterized by, or practicing polyandry;  polyandric.", "S": [], "A": []}

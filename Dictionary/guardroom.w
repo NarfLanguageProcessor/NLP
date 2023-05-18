@@ -1,0 +1,1 @@
+{"index": 130806, "D": "a room  used by military guards  during the period they are on duty.", "S": [], "A": []}

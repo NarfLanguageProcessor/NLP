@@ -1,0 +1,1 @@
+{"index": 185911, "D": "a microorganism, especially a pathogenic bacterium.", "S": ["bacillus ", "bacterium ", "bug ", "germ ", "microorganism ", "pathogen ", "virus "], "A": []}

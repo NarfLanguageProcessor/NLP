@@ -1,0 +1,1 @@
+{"index": 307108, "D": "located or occurring on the surface of the earth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143400, "D": "(in China) a group of rooms or buildings forming a warehouse, factory, etc.", "S": [], "A": []}

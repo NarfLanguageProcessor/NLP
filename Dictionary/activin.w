@@ -1,0 +1,1 @@
+{"index": 3258, "D": "a peptide that is synthesized in the pituitary gland and gonads and stimulates the secretion of FSH.", "S": [], "A": []}

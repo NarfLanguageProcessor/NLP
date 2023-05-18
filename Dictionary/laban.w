@@ -1,0 +1,1 @@
+{"index": 166599, "D": "the father of Leah and Rachel and the father-in-law of Jacob. Genesis 24", "S": [], "A": []}

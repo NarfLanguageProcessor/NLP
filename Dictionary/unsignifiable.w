@@ -1,0 +1,1 @@
+{"index": 351129, "D": "to make known by signs,  speech, or action.", "S": [], "A": []}

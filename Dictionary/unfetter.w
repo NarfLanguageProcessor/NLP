@@ -1,0 +1,1 @@
+{"index": 342206, "D": "to release from fetters.", "S": ["liberate ", "loosen "], "A": ["detain ", "hold ", "imprison ", "keep "]}

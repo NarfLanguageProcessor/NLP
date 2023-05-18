@@ -1,0 +1,1 @@
+{"index": 348937, "D": "not open to question; beyond doubt or dispute; indisputable; undeniable; certain", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303996, "D": "the stereotype  process.", "S": [], "A": []}

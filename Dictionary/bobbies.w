@@ -1,0 +1,1 @@
+{"index": 37053, "D": "a male given name, form of Robert. ", "S": ["bluecoat ", "cop ", "detective ", "flatfoot ", "officer ", "patrolman ", "police ", "policeman ", "policewoman "], "A": []}

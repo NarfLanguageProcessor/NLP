@@ -1,0 +1,1 @@
+{"index": 164366, "D": "a mineral, aluminum silicate, Al2SiO5, occurring in blue or greenish bladed triclinic crystals, used as a refractory.", "S": [], "A": []}

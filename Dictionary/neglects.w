@@ -1,0 +1,1 @@
+{"index": 198054, "D": "to pay no attention or too little attention to; disregard or slight", "S": ["carelessness ", "disrespect ", "indifference ", "oversight "], "A": ["regard ", "praise ", "respect "]}

@@ -1,0 +1,1 @@
+{"index": 66699, "D": "sacred or set apart; dedicated to the service or worship of a deity or for a spiritual or religious purpose", "S": ["hallowed ", "sanctified "], "A": []}

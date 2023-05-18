@@ -1,0 +1,1 @@
+{"index": 356219, "D": "having a utricle; utricular;  baglike.", "S": [], "A": []}

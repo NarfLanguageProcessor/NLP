@@ -1,0 +1,1 @@
+{"index": 270319, "D": "a person or thing that retards.", "S": [], "A": []}

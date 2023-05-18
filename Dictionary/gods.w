@@ -1,0 +1,1 @@
+{"index": 127376, "D": "Compare goddess (def. 1). ", "S": ["Allah ", "Father ", "Jehovah ", "Lord ", "Yahweh ", "daemon ", "deity ", "divinity ", "idol ", "master ", "numen ", "power ", "providence ", "spirit ", "the Almighty ", "the Creator ", "the Maker "], "A": ["Satan ", "devil ", "demon "]}

@@ -1,0 +1,1 @@
+{"index": 172642, "D": "a crab of the genus Limulus; horseshoe crab.", "S": [], "A": []}

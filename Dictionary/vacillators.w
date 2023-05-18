@@ -1,0 +1,1 @@
+{"index": 356411, "D": "someone who is indecisive or irresolute", "S": [], "A": []}

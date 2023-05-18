@@ -1,0 +1,1 @@
+{"index": 289144, "D": "a city in NW Louisiana, on the Red River.", "S": [], "A": []}

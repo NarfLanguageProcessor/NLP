@@ -1,0 +1,1 @@
+{"index": 320282, "D": "a vacuum tube containing four electrodes, usually a plate, two grids, and a cathode.", "S": [], "A": []}

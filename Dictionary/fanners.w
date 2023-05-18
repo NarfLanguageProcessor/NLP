@@ -1,0 +1,1 @@
+{"index": 109751, "D": "any device for producing a current of air by the movement of a broad surface or a number of such surfaces.", "S": [], "A": []}

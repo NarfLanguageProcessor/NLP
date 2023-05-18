@@ -1,0 +1,1 @@
+{"index": 358886, "D": "a plural of vertex. ", "S": ["acme ", "apex ", "apogee ", "cap ", "cope ", "crest ", "crown ", "culmination ", "extremity ", "height ", "peak ", "pinnacle ", "roof ", "summit ", "tip ", "zenith "], "A": ["base ", "bottom ", "nadir "]}

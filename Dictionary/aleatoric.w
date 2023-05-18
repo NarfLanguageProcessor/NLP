@@ -1,0 +1,1 @@
+{"index": 7806, "D": "depending on a contingent event", "S": [], "A": []}

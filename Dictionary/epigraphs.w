@@ -1,0 +1,1 @@
+{"index": 102502, "D": "an inscription, especially on a building, statue, or the like.", "S": ["elegy ", "eulogy "], "A": []}

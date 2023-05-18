@@ -1,0 +1,1 @@
+{"index": 256468, "D": "a soft, padlike structure located at the base of each claw on the feet of certain insects.", "S": [], "A": []}

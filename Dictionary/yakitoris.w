@@ -1,0 +1,1 @@
+{"index": 145570, "D": "a dish of small pieces of boneless chicken, usually marinated, skewered, and grilled.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235127, "D": "photography of images produced by a fluoroscopic examination, used in x-ray examination of the lungs of large groups of people.", "S": [], "A": []}

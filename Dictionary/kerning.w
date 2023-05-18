@@ -1,0 +1,1 @@
+{"index": 164047, "D": "the setting of two letters closer together than is usual by removing space between them.", "S": [], "A": []}

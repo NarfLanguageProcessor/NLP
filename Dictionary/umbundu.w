@@ -1,0 +1,1 @@
+{"index": 334249, "D": "a Bantu-speaking people of southern Angola.", "S": [], "A": []}

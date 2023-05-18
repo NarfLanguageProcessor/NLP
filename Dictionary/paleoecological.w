@@ -1,0 +1,1 @@
+{"index": 223691, "D": "the branch of ecology  dealing with the relations and interactions between ancient life forms and their environment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 185414, "D": "the science of meter.", "S": ["poem ", "poetry "], "A": ["prose "]}

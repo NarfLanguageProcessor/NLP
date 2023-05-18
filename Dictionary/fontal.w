@@ -1,0 +1,1 @@
+{"index": 116055, "D": "pertaining to or coming from a fountain or spring.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183285, "D": "the practice of begging, as for alms.", "S": ["begging ", "destitution ", "impecuniousness ", "impoverishment ", "indigence ", "mendicity ", "pauperism ", "pennilessness ", "penuriousness ", "penury ", "poorness "], "A": ["wealth "]}

@@ -1,0 +1,1 @@
+{"index": 204220, "D": "(especially of goods) being of such nature or kind as to be freely exchangeable or replaceable, in whole or in part, for another of like nature or kind", "S": [], "A": []}

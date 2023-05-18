@@ -1,0 +1,1 @@
+{"index": 120966, "D": "to cackle.", "S": ["circle ", "congregation ", "crew ", "group ", "horde ", "lot ", "mass ", "mob ", "pack ", "party ", "people ", "press ", "sellout ", "throng "], "A": ["individual ", "one ", "single "]}

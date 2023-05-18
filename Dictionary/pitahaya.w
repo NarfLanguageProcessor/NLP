@@ -1,0 +1,1 @@
+{"index": 238206, "D": "any of several cacti of the genus Selenicereus and related genera, of the southwestern United States, Mexico, and Central America, bearing edible round or oval fruit usually having scaly skin and sweet pulp filled with seeds.", "S": [], "A": []}

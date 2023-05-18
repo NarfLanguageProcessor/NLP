@@ -1,0 +1,1 @@
+{"index": 189397, "D": "to handle  badly; maltreat", "S": ["misappropriation ", "mistreatment ", "misuse "], "A": ["behavior ", "goodness "]}

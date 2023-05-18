@@ -1,0 +1,1 @@
+{"index": 236386, "D": "stupidly obstinate; stubborn", "S": ["bullheaded ", "contrary ", "dense ", "forward ", "headstrong ", "inflexible ", "insistent ", "intractable ", "mulish ", "obstinate ", "perverse ", "recalcitrant ", "self-willed ", "stiff-necked ", "stupid ", "unyielding ", "willful "], "A": ["flexible ", "reasonable ", "submissive ", "willing "]}

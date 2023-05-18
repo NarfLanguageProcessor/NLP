@@ -1,0 +1,1 @@
+{"index": 203818, "D": "capable of being expiated", "S": [], "A": []}

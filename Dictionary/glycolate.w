@@ -1,0 +1,1 @@
+{"index": 126261, "D": "a salt or ester of glycolic acid. ", "S": [], "A": []}

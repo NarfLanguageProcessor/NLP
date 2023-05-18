@@ -1,0 +1,1 @@
+{"index": 319612, "D": "of or relating to territory  or land.", "S": [], "A": []}

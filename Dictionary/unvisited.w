@@ -1,0 +1,1 @@
+{"index": 353864, "D": "to go to and stay with (a person or family) or at (a place) for a short time for reasons of sociability, politeness, business, curiosity, etc.", "S": ["not well-known ", "off the beaten track ", "offbeat ", "out of the ordinary ", "unfrequented ", "unusual "], "A": []}

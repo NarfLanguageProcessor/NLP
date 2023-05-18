@@ -1,0 +1,1 @@
+{"index": 124397, "D": "to make or use gestures,  especially in an animated or excited manner with or instead of speech.", "S": ["stylistic "], "A": ["natural ", "simple "]}

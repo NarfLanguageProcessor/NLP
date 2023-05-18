@@ -1,0 +1,1 @@
+{"index": 198669, "D": "of or relating to the juvenile period in the life cycle of an organism", "S": [], "A": []}

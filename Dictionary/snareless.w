@@ -1,0 +1,1 @@
+{"index": 295332, "D": "a device, often consisting of a noose, for capturing small game.", "S": [], "A": []}

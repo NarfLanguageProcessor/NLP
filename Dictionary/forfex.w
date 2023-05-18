@@ -1,0 +1,1 @@
+{"index": 117186, "D": "a pair of pincers, esp the paired terminal appendages of an earwig", "S": [], "A": []}

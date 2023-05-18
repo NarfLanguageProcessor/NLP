@@ -1,0 +1,1 @@
+{"index": 243265, "D": "a thin round crisp Indian bread, fried or roasted and served with curry, etc", "S": [], "A": []}

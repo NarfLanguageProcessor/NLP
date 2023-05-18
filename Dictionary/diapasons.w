@@ -1,0 +1,1 @@
+{"index": 84397, "D": "a full, rich outpouring of melodious sound.", "S": ["spectrum "], "A": []}

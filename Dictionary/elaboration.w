@@ -1,0 +1,1 @@
+{"index": 96658, "D": "an act or instance of elaborating. ", "S": ["amplification "], "A": ["quiet ", "silence "]}

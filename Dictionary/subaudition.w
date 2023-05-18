@@ -1,0 +1,1 @@
+{"index": 307269, "D": "an act or instance of understanding or mentally supplying something not expressed.", "S": [], "A": []}

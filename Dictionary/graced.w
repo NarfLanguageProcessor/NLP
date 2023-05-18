@@ -1,0 +1,1 @@
+{"index": 128480, "D": "elegance or beauty of form, manner, motion, or action", "S": ["blessed ", "enriched ", "equipped ", "supplied "], "A": []}

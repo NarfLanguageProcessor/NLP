@@ -1,0 +1,1 @@
+{"index": 30831, "D": "a person who is observing or seeing something", "S": ["eyewitness ", "observer ", "onlooker ", "spectator ", "viewer ", "watcher "], "A": ["participant "]}

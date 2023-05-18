@@ -1,0 +1,1 @@
+{"index": 264991, "D": "an act or instance of referring. ", "S": ["allusion ", "hint ", "innuendo ", "mention ", "note ", "quotation "], "A": []}

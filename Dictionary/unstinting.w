@@ -1,0 +1,1 @@
+{"index": 352061, "D": "hard work and unstinting support", "S": ["magnanimous ", "philanthropic ", "unselfish ", "unsparing "], "A": ["stingy ", "uncharitable "]}

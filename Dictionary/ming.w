@@ -1,0 +1,1 @@
+{"index": 187774, "D": "a dynasty in China, 1368\u20131644, marked by the restoration of traditional institutions and the development of the arts, especially in porcelain, textiles, and painting.", "S": [], "A": []}

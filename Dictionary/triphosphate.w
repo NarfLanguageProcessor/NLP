@@ -1,0 +1,1 @@
+{"index": 330358, "D": "a salt derived from triphosphoric acid.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366807, "D": "an ornamental Eurasian shrub, Genista tinctoria, whose flowers yield a yellow dye formerly used with woad to make a permanent green dye.", "S": [], "A": []}

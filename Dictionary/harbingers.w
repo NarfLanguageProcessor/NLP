@@ -1,0 +1,1 @@
+{"index": 133587, "D": "a person who goes ahead and makes known the approach of another; herald. ", "S": ["omen ", "portent ", "precursor "], "A": []}

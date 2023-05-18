@@ -1,0 +1,1 @@
+{"index": 260467, "D": "an establishment maintained for raising livestock under range conditions.", "S": ["cultivate ", "graze ", "grow ", "harvest ", "look after ", "operate ", "plow ", "reap ", "sow ", "tend "], "A": ["ignore ", "neglect "]}

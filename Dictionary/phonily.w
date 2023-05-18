@@ -1,0 +1,1 @@
+{"index": 234709, "D": "not real or genuine; fake; counterfeit", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205017, "D": "lack or absence of life. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 296203, "D": "a person with a psychopathic personality whose behavior is antisocial,  often criminal, and who lacks a sense of moral responsibility or social conscience.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155870, "D": "the place where some action or event occurs", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17717, "D": "the unconscious assumption of the personality characteristics of another, usually well known, person.", "S": [], "A": []}

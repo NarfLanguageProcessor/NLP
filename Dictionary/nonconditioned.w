@@ -1,0 +1,1 @@
+{"index": 202245, "D": "existing under or subject to conditions.", "S": [], "A": []}

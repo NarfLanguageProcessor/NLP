@@ -1,0 +1,1 @@
+{"index": 292264, "D": "a hollow tube of vascular tissue enclosing a pith and embedded in ground tissue.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367509, "D": "a man  of the working class;  a man, whether skilled or unskilled, who earns his living at some manual or industrial work.", "S": ["blue collar "], "A": []}

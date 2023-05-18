@@ -1,0 +1,1 @@
+{"index": 149707, "D": "blood-red; crimson.", "S": ["bloody ", "color ", "crimson ", "dye ", "flush ", "glow ", "incarnadine ", "mantle ", "paint ", "pink ", "rose ", "rouge ", "rubify ", "rubric ", "rubricate ", "ruddle ", "rust ", "suffuse ", "tint "], "A": ["pale ", "whiten "]}

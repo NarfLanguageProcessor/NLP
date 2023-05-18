@@ -1,0 +1,1 @@
+{"index": 336221, "D": "an elongated, tapered, serrated cutting tool for shaping and enlarging holes.", "S": ["inaugural ", "introductory "], "A": ["final ", "last "]}

@@ -1,0 +1,1 @@
+{"index": 230319, "D": "an oxyacid, the primary element of which is in its highest possible oxidation state, as perchloric acid,  HClO4, and permanganic acid,  HMnO4.", "S": [], "A": []}

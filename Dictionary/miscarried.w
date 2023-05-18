@@ -1,0 +1,1 @@
+{"index": 188853, "D": "to have a miscarriage  of a fetus.", "S": ["abort "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 220505, "D": "to bowl (a ball) so that it pitches too close to the stumps", "S": [], "A": []}

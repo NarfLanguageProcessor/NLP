@@ -1,0 +1,1 @@
+{"index": 5959, "D": "any of numerous American plants belonging to the genus Agave, of the agave family, species of which are cultivated for economic or ornamental purposes", "S": [], "A": []}

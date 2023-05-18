@@ -1,0 +1,1 @@
+{"index": 259185, "D": "plural of qirsh. ", "S": [], "A": []}

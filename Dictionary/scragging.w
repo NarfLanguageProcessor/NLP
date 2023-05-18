@@ -1,0 +1,1 @@
+{"index": 281519, "D": "a lean or scrawny person or animal.", "S": ["execute ", "hoist ", "stretch ", "swing "], "A": []}

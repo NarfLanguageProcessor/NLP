@@ -1,0 +1,1 @@
+{"index": 66910, "D": "alleviating or lessening grief, sorrow, or disappointment; giving comfort", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}

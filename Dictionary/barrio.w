@@ -1,0 +1,1 @@
+{"index": 28381, "D": "(in Spain and countries colonized by Spain) one of the divisions into which a town or city, together with the contiguous rural territory, is divided.", "S": ["central city ", "downtown ", "ghetto ", "slum "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1872, "D": "to charge with the fault, offense, or crime (usually followed by of)", "S": ["accusatory ", "accusive ", "denunciatory "], "A": []}

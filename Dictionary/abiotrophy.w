@@ -1,0 +1,1 @@
+{"index": 468, "D": "the loss of vitality in or the degeneration of certain cells or tissues, as in the aging process.", "S": [], "A": []}

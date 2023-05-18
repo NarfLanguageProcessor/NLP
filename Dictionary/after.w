@@ -1,0 +1,1 @@
+{"index": 5616, "D": "behind in place or position; following behind", "S": ["afterwards ", "later ", "subsequently "], "A": ["before "]}

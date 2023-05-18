@@ -1,0 +1,1 @@
+{"index": 23762, "D": "the condition of self-sufficiency, especially economic, as applied to a nation.", "S": [], "A": []}

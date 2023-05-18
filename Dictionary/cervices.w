@@ -1,0 +1,1 @@
+{"index": 51642, "D": "the neck, especially the back part.", "S": ["collar "], "A": []}

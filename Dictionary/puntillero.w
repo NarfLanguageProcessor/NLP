@@ -1,0 +1,1 @@
+{"index": 256757, "D": "(in bullfighting) a worker, or assistant, who gives the coup de gr\u00e2ce to the fallen bull with a puntilla.", "S": [], "A": []}

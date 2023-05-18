@@ -1,0 +1,1 @@
+{"index": 64400, "D": "a specialist in comparative linguistics or comparative literature.", "S": [], "A": []}

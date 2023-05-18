@@ -1,0 +1,1 @@
+{"index": 197382, "D": "a brand of strong vinyl-coated fabric made to look like leather and used for upholstery, luggage, etc.", "S": [], "A": []}

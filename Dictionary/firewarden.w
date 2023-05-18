@@ -1,0 +1,1 @@
+{"index": 113225, "D": "a person having authority in the prevention or extinguishing of fires,  as in towns or camps.", "S": [], "A": []}

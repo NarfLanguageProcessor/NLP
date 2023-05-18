@@ -1,0 +1,1 @@
+{"index": 230539, "D": "foreign; alien; coming from abroad.", "S": [], "A": []}

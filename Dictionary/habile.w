@@ -1,0 +1,1 @@
+{"index": 131754, "D": "skillful; dexterous; adroit.", "S": [], "A": []}

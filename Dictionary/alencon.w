@@ -1,0 +1,1 @@
+{"index": 7874, "D": "a city in and the capital of Orne, in NW France", "S": [], "A": []}

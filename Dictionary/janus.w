@@ -1,0 +1,1 @@
+{"index": 160356, "D": "an ancient Roman god of doorways, of beginnings, and of the rising and setting of the sun, usually represented as having one head with two bearded faces back to back, looking in opposite directions.", "S": [], "A": []}

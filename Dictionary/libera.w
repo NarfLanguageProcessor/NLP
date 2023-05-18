@@ -1,0 +1,1 @@
+{"index": 171471, "D": "an ancient Italian goddess of wine, vineyards, and fertility and the wife of Liber, in later times identified with Persephone.", "S": [], "A": []}

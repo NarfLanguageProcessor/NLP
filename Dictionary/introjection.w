@@ -1,0 +1,1 @@
+{"index": 156791, "D": "an unconscious psychic process by which a person incorporates the characteristics of another person or object into their own psychic apparatus.", "S": [], "A": []}

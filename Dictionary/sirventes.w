@@ -1,0 +1,1 @@
+{"index": 292456, "D": "a medieval poem or song of heroic or satirical character, as composed by a troubadour.", "S": [], "A": []}

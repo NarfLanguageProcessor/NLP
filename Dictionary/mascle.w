@@ -1,0 +1,1 @@
+{"index": 180618, "D": "a lozenge represented as having a lozenge-shaped hole at the center.", "S": [], "A": []}

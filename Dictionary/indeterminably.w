@@ -1,0 +1,1 @@
+{"index": 150836, "D": "not determinable; incapable of being ascertained.", "S": [], "A": []}

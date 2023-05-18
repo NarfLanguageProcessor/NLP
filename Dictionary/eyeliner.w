@@ -1,0 +1,1 @@
+{"index": 96414, "D": "a cosmetic for the eyelids, usually applied in a thin line close to the lashes to accentuate the eyes. ", "S": [], "A": []}

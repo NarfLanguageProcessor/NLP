@@ -1,0 +1,1 @@
+{"index": 48297, "D": "of or relating to the Frankish dynasty that reigned in France a.d. 751\u2013987, first under Charlemagne, and in Germany until a.d. 911.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 56504, "D": "a type of patent lock containing a device that sets the bolt immovably if the lock is picked", "S": [], "A": []}

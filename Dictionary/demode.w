@@ -1,0 +1,1 @@
+{"index": 80737, "D": "no longer in fashion; out of date; outmoded.", "S": ["age-old ", "antique ", "crumbling ", "former ", "old-fashioned ", "old-time ", "original ", "outmoded ", "primitive ", "traditional ", "venerable "], "A": ["current ", "fresh ", "modern ", "new ", "present ", "up-to-date "]}

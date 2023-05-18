@@ -1,0 +1,1 @@
+{"index": 151567, "D": "lack of equity;  unfairness; favoritism or bias.", "S": ["injustice ", "unfairness "], "A": ["equity "]}

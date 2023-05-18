@@ -1,0 +1,1 @@
+{"index": 78321, "D": "that settles a question or dispute or leads to a final decision;  determining; decisive", "S": ["conclusive ", "decisive "], "A": ["indefinite ", "inessential ", "minor ", "secondary ", "unimportant ", "unnecessary "]}

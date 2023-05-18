@@ -1,0 +1,1 @@
+{"index": 299323, "D": "a mineral, platinum arsenide, PtAs2, occurring in minute tin-white crystals, usually cubes", "S": [], "A": []}

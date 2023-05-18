@@ -1,0 +1,1 @@
+{"index": 600, "D": "carried by the air, as pollen or dust.", "S": [], "A": []}

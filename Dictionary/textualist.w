@@ -1,0 +1,1 @@
+{"index": 320393, "D": "a person who adheres closely to a text, especially of the Scriptures.", "S": [], "A": []}

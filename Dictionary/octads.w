@@ -1,0 +1,1 @@
+{"index": 210929, "D": "a group or series of eight.", "S": ["octagon ", "octave ", "octet "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283407, "D": "See also resurrection plant", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24127, "D": "reinfection by a pathogen that is already in the body.", "S": [], "A": []}

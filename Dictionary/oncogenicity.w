@@ -1,0 +1,1 @@
+{"index": 212677, "D": "the capability of inducing tumor formation.", "S": [], "A": []}

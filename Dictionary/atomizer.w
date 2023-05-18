@@ -1,0 +1,1 @@
+{"index": 22765, "D": "an apparatus for reducing liquids to a fine spray, as for medicinal or cosmetic application.", "S": ["aerosol bomb ", "aerosol container ", "aerosol dispenser ", "propellant "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 184808, "D": "existence in a metameric state.", "S": [], "A": []}

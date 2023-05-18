@@ -1,0 +1,1 @@
+{"index": 53416, "D": "having cheeks  of the kind indicated (used in combination)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26268, "D": "a container or receptacle of leather, plastic, cloth, paper, etc., capable of being closed at the mouth; pouch. ", "S": ["backpack ", "briefcase ", "gear ", "handbag ", "kit ", "pack ", "packet ", "pocket ", "pouch ", "purse ", "sack ", "suitcase "], "A": []}

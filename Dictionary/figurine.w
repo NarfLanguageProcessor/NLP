@@ -1,0 +1,1 @@
+{"index": 112490, "D": "a small ornamental figure of pottery, metal, plastic, etc.; statuette.", "S": ["model ", "puppet "], "A": []}

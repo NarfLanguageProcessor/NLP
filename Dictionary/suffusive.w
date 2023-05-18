@@ -1,0 +1,1 @@
+{"index": 310191, "D": "to overspread with or as with a liquid, color, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 50027, "D": "the relation of cause and effect", "S": ["ancestor ", "ancestry ", "connection ", "element ", "influence ", "motive ", "provenance ", "root ", "source "], "A": ["conclusion ", "effect ", "end ", "ending ", "result "]}

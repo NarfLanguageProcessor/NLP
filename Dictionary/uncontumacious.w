@@ -1,0 +1,1 @@
+{"index": 337901, "D": "stubbornly perverse or rebellious; willfully and obstinately disobedient.", "S": [], "A": []}

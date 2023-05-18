@@ -1,0 +1,1 @@
+{"index": 241809, "D": "the belief in many evil spirits.", "S": [], "A": []}

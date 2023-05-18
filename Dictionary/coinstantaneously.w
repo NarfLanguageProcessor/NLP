@@ -1,0 +1,1 @@
+{"index": 62536, "D": "occurring or existing at the same instant; simultaneous.", "S": [], "A": []}

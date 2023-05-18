@@ -1,0 +1,1 @@
+{"index": 139604, "D": "of or relating to the Himyarites  and to the remains of their civilization.", "S": [], "A": []}

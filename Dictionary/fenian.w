@@ -1,0 +1,1 @@
+{"index": 111255, "D": "a member of an Irish revolutionary organization founded in New York in 1858, which worked for the establishment of an independent Irish republic.", "S": [], "A": []}

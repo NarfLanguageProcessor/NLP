@@ -1,0 +1,1 @@
+{"index": 25853, "D": "an order or part of an order waiting to be filled.", "S": [], "A": []}

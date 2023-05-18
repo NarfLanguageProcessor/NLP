@@ -1,0 +1,1 @@
+{"index": 208666, "D": "of or relating to Norway,  its inhabitants, or their language.", "S": [], "A": []}

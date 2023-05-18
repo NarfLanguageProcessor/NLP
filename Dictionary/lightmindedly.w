@@ -1,0 +1,1 @@
+{"index": 172058, "D": "having or showing a lack of serious purpose, attitude, etc.; frivolous; trifling", "S": [], "A": []}

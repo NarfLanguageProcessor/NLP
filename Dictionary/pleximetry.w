@@ -1,0 +1,1 @@
+{"index": 240045, "D": "a small, thin plate, as of ivory, placed against the body to mediate the blow of a plexor.", "S": [], "A": []}

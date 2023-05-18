@@ -1,0 +1,1 @@
+{"index": 110835, "D": "a soft felt hat with a curled brim, worn with the crown creased lengthwise.", "S": ["headgear ", "helmet "], "A": []}

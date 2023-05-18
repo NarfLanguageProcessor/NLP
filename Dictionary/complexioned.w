@@ -1,0 +1,1 @@
+{"index": 64668, "D": "having a specified complexion  (usually used in combination)", "S": ["imbue ", "suffuse "], "A": ["whiten "]}

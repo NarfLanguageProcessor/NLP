@@ -1,0 +1,1 @@
+{"index": 65129, "D": "applied with all one's attention, energy, etc.", "S": ["fixed ", "full-bodied ", "potent ", "rich ", "robust "], "A": ["weak ", "incomplete ", "unfinished "]}

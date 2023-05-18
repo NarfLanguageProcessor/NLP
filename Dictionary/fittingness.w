@@ -1,0 +1,1 @@
+{"index": 113562, "D": "suitable or appropriate; proper or becoming.", "S": ["appositeness ", "felicitousness ", "fitness ", "suitability ", "suitableness "], "A": []}

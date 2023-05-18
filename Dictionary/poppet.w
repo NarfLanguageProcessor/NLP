@@ -1,0 +1,1 @@
+{"index": 243272, "D": "a rising and falling valve consisting of a disk at the end of a vertically set stem, used in internal-combustion and steam engines.", "S": [], "A": []}

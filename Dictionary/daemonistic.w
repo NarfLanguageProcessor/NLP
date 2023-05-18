@@ -1,0 +1,1 @@
+{"index": 76142, "D": "a subordinate deity, as the genius of a place or a person's attendant spirit.", "S": [], "A": []}

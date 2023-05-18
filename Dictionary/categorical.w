@@ -1,0 +1,1 @@
+{"index": 49534, "D": "without exceptions or conditions; absolute; unqualified and unconditional", "S": ["absolute ", "clear-cut ", "definite ", "definitive ", "emphatic ", "forthright ", "unambiguous ", "unequivocal "], "A": ["ambiguous ", "equivocal ", "indefinite ", "indistinct ", "inexact ", "uncertain ", "vague "]}

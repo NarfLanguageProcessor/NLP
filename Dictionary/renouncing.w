@@ -1,0 +1,1 @@
+{"index": 267731, "D": "to give up or put aside voluntarily", "S": ["satisfied "], "A": ["agitated ", "boisterous ", "excited ", "loud ", "rough ", "roused ", "troubled ", "unprepared ", "unwilling ", "violent ", "wild "]}

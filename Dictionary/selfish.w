@@ -1,0 +1,1 @@
+{"index": 283538, "D": "devoted to or caring only for oneself; concerned primarily with one's own interests, benefits, welfare, etc., regardless of others.", "S": ["egotistical ", "greedy ", "narcissistic ", "self-centered "], "A": ["benevolent ", "unselfish "]}

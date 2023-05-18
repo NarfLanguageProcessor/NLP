@@ -1,0 +1,1 @@
+{"index": 286356, "D": "a genus of rod-shaped, aerobic bacteria that are saprophytic on decaying plant or animal materials.", "S": [], "A": []}

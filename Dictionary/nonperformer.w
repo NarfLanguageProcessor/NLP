@@ -1,0 +1,1 @@
+{"index": 205857, "D": "a person or thing that is not performing well or properly.", "S": ["disappointment "], "A": ["hard worker ", "success "]}

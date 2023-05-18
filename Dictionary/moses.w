@@ -1,0 +1,1 @@
+{"index": 193820, "D": "the Hebrew prophet who led the Israelites out of Egypt and delivered the Law during their years of wandering in the wilderness.", "S": [], "A": []}

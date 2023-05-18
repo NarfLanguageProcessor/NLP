@@ -1,0 +1,1 @@
+{"index": 274324, "D": "having no roots. ", "S": ["frail ", "immature ", "shaky ", "unreliable ", "unstable ", "vulnerable ", "wobbly "], "A": ["firm ", "stable ", "steady ", "strong "]}

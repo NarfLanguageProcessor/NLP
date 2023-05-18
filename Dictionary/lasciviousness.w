@@ -1,0 +1,1 @@
+{"index": 168708, "D": "unrestrained sexual behavior, or a habitual inclination to such behavior; lustfulness", "S": ["debauchery ", "lewdness ", "lust ", "lustfulness ", "prurience ", "wantonness "], "A": []}

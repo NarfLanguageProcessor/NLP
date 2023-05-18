@@ -1,0 +1,1 @@
+{"index": 198953, "D": "relating to, having, or experiencing neurasthenia. ", "S": ["debilitated ", "disabled ", "paralyzed ", "shaking ", "sick ", "trembling "], "A": ["healthy "]}

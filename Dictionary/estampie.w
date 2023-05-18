@@ -1,0 +1,1 @@
+{"index": 104586, "D": "a medieval dance and instrumental form, in several repeated sections, associated chiefly with the trouv\u00e8res.", "S": [], "A": []}

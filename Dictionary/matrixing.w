@@ -1,0 +1,1 @@
+{"index": 181272, "D": "an electronic method of processing quadraphonic sound for recording in a two-channel form, for reconversion to four channels when played back.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171938, "D": "the habits, attitudes, tastes, moral standards, economic level, etc., that together constitute the mode of living of an individual or group.", "S": ["behavior "], "A": []}

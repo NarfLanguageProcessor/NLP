@@ -1,0 +1,1 @@
+{"index": 24217, "D": "an automatic mechanical system or component, especially a device that operates automatically under predetermined conditions.", "S": [], "A": []}

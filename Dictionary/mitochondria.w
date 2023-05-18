@@ -1,0 +1,1 @@
+{"index": 190627, "D": "organelles that are found in the cytoplasm of cells and that function in energy production.", "S": [], "A": []}

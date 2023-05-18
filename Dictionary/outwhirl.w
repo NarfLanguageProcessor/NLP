@@ -1,0 +1,1 @@
+{"index": 217909, "D": "to turn around, spin, or rotate rapidly", "S": [], "A": []}

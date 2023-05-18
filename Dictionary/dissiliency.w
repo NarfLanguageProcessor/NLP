@@ -1,0 +1,1 @@
+{"index": 89535, "D": "bursting apart; bursting open.", "S": [], "A": []}

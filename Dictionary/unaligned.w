@@ -1,0 +1,1 @@
+{"index": 334806, "D": "arranged in a straight line", "S": ["asymmetrical ", "craggy ", "elliptical ", "jagged ", "lumpy ", "unbalanced "], "A": ["even ", "smooth ", "normal ", "regular "]}

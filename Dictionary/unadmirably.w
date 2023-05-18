@@ -1,0 +1,1 @@
+{"index": 334612, "D": "worthy of admiration;  inspiring approval, reverence, or affection.", "S": [], "A": []}

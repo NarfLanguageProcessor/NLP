@@ -1,0 +1,1 @@
+{"index": 240687, "D": "of or relating to rain, especially much rain; rainy.", "S": [], "A": []}

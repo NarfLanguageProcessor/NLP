@@ -1,0 +1,1 @@
+{"index": 75724, "D": "to modify or build according to individual or personal specifications or preference", "S": ["adapt ", "adjust ", "correct ", "customize ", "repair ", "reshape ", "revise ", "rework ", "tweak ", "vary "], "A": ["disarrange ", "disorder ", "remain ", "spoil ", "stay ", "unfit ", "hurt "]}

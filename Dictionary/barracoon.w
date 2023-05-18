@@ -1,0 +1,1 @@
+{"index": 28278, "D": "(formerly) a place of temporary confinement for slaves or convicts.", "S": [], "A": []}

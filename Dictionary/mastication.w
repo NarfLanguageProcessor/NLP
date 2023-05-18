@@ -1,0 +1,1 @@
+{"index": 180894, "D": "the act or process of chewing", "S": ["bite ", "chewing ", "deglutition "], "A": []}

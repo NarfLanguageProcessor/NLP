@@ -1,0 +1,1 @@
+{"index": 79760, "D": "an appliance for removing moisture from the air, as for lowering the humidity in a storage room.", "S": [], "A": []}

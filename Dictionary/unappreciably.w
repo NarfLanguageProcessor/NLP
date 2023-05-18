@@ -1,0 +1,1 @@
+{"index": 335132, "D": "sufficient to be readily perceived or estimated; considerable", "S": [], "A": []}

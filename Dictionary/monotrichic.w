@@ -1,0 +1,1 @@
+{"index": 192771, "D": "(of bacteria) having a single flagellum at one pole.", "S": [], "A": []}

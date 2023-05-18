@@ -1,0 +1,1 @@
+{"index": 25451, "D": "a palm, Orbignya barbosiana, of northeastern Brazil, bearing nuts that yield babassu oil.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 33239, "D": "a person who interprets the Bible literally.", "S": [], "A": []}

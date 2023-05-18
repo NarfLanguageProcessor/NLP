@@ -1,0 +1,1 @@
+{"index": 338965, "D": "the chief minister of state in certain parliamentary governments, as in Germany; prime minister; premier.", "S": [], "A": []}

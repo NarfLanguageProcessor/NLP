@@ -1,0 +1,1 @@
+{"index": 75154, "D": "the apothecium of a cup fungus.", "S": [], "A": []}

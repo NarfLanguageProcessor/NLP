@@ -1,0 +1,1 @@
+{"index": 343892, "D": "not having received the Eucharist.", "S": [], "A": []}

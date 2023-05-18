@@ -1,0 +1,1 @@
+{"index": 103970, "D": "deviating from the regular or proper course; erring;  straying.", "S": ["aberrant ", "erratic ", "offending ", "stray ", "unorthodox ", "wayward "], "A": ["normal "]}

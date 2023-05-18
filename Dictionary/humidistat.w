@@ -1,0 +1,1 @@
+{"index": 144973, "D": "an instrument for measuring and controlling humidity.", "S": [], "A": []}

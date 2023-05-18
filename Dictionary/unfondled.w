@@ -1,0 +1,1 @@
+{"index": 342475, "D": "to handle or touch lovingly, affectionately, or tenderly; caress", "S": [], "A": []}

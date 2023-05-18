@@ -1,0 +1,1 @@
+{"index": 107574, "D": "the quality or state of being expansive; expansiveness. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 210467, "D": "the branch of medical science concerned with childbirth and caring for and treating women in or in connection with childbirth. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 313943, "D": "a political movement in British India that encouraged domestic production and the boycott of foreign, especially British, goods as a step toward home rule.", "S": [], "A": []}

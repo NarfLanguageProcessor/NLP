@@ -1,0 +1,1 @@
+{"index": 358820, "D": "one minus the cosine of a given angle or arc. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 79439, "D": "to strip (a tree, bush, etc.) of leaves.", "S": [], "A": []}

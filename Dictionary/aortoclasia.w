@@ -1,0 +1,1 @@
+{"index": 16590, "D": "rupture of the aorta.", "S": [], "A": []}

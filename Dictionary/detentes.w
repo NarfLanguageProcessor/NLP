@@ -1,0 +1,1 @@
+{"index": 83118, "D": "a relaxing of tension, especially between nations, as by negotiations or agreements.", "S": ["amity ", "cooling off ", "equal power ", "harmony ", "relaxation ", "relief ", "tranquility "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 599, "D": "the differing of a measurable trait in an individual case from the mean for a population.", "S": [], "A": []}

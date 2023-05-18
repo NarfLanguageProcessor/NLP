@@ -1,0 +1,1 @@
+{"index": 354857, "D": "higher, as in place, position, pitch, or in a scale", "S": ["uppermost "], "A": ["low ", "unimportant "]}

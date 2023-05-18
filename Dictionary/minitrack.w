@@ -1,0 +1,1 @@
+{"index": 187957, "D": "a system for tracking  satellites, space vehicles, or rockets by means of radio waves.", "S": [], "A": []}

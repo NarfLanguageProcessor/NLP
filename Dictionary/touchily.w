@@ -1,0 +1,1 @@
+{"index": 326576, "D": "apt to take offense on slight provocation; irritable", "S": [], "A": []}

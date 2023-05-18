@@ -1,0 +1,1 @@
+{"index": 16379, "D": "an infectious disease that may affect almost any tissue of the body, especially the lungs, caused by the organism Mycobacterium tuberculosis, and characterized by tubercles.", "S": [], "A": []}

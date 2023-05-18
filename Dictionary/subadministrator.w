@@ -1,0 +1,1 @@
+{"index": 307098, "D": "a person who manages or has a talent for managing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 217656, "D": "a stroke  in an outward direction.", "S": [], "A": []}

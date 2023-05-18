@@ -1,0 +1,1 @@
+{"index": 56146, "D": "like or befitting a Christian.", "S": [], "A": []}

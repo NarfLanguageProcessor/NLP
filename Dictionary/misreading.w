@@ -1,0 +1,1 @@
+{"index": 189912, "D": "to read  wrongly.", "S": ["confuse ", "miscalculate ", "misconstrue ", "misinterpret ", "misjudge "], "A": ["understand ", "comprehend ", "succeed "]}

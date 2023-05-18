@@ -1,0 +1,1 @@
+{"index": 318893, "D": "of, relating to, or characteristic of Tennyson or his writings.", "S": [], "A": []}

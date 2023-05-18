@@ -1,0 +1,1 @@
+{"index": 109131, "D": "a person following a fad  or given to fads,  as one who seeks and adheres briefly to a passing variety of unusual diets, beliefs, etc.", "S": [], "A": []}

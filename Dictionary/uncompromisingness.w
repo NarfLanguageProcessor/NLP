@@ -1,0 +1,1 @@
+{"index": 337449, "D": "not admitting of compromise or adjustment of differences; making no concessions; inaccessible to flexible bargaining; unyielding", "S": [], "A": []}

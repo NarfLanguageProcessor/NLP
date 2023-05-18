@@ -1,0 +1,1 @@
+{"index": 180302, "D": "Martin, the pen name of the anonymous author or authors of a series of satirical Puritan tracts (1588\u201389), attacking the bishops of the Church of England", "S": [], "A": []}

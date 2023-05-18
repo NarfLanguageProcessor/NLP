@@ -1,0 +1,1 @@
+{"index": 33825, "D": "a person who rides a bicycle, motorcycle, or motorbike, especially in competition or as a hobby.", "S": [], "A": []}

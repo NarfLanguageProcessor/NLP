@@ -1,0 +1,1 @@
+{"index": 362429, "D": "(of a male) to masturbate (often followed by off).", "S": [], "A": []}

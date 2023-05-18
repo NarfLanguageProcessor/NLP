@@ -1,0 +1,1 @@
+{"index": 235162, "D": "a person who takes photographs,  especially one who practices photography  professionally.", "S": ["paparazzo ", "photojournalist ", "shutterbug "], "A": []}

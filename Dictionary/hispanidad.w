@@ -1,0 +1,1 @@
+{"index": 141682, "D": "hispanism, especially as directed toward political objectives.", "S": [], "A": []}

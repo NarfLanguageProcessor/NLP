@@ -1,0 +1,1 @@
+{"index": 247371, "D": "plain or clear to the sight or understanding", "S": [], "A": []}

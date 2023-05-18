@@ -1,0 +1,1 @@
+{"index": 333716, "D": "a small, guitarlike musical instrument associated chiefly with Hawaiian music.", "S": [], "A": []}

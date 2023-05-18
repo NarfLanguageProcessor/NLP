@@ -1,0 +1,1 @@
+{"index": 226029, "D": "any of numerous small, slender parrots, usually having a long, pointed, graduated tail, often kept as pets and noted for the ability to mimic speech", "S": [], "A": []}

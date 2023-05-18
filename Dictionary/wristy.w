@@ -1,0 +1,1 @@
+{"index": 368026, "D": "using or involving extensive or strong movement of the wrist", "S": [], "A": []}

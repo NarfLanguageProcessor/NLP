@@ -1,0 +1,1 @@
+{"index": 318403, "D": "containing tetravalent tellurium. ", "S": [], "A": []}

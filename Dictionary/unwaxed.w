@@ -1,0 +1,1 @@
+{"index": 354092, "D": "not treated with wax, esp of oranges or lemons, not sprayed with a protective coating of wax", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164681, "D": "a unit of weight, equal to 1000 tons. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 150026, "D": "without logical or meaningful connection; disjointed; rambling", "S": ["disjointed ", "incomprehensible ", "incongruous ", "irrational ", "jumbled ", "muddled ", "puzzling ", "rambling ", "uneven "], "A": ["connected ", "intelligible ", "understandable "]}

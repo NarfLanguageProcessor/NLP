@@ -1,0 +1,1 @@
+{"index": 257047, "D": "having a purpose. ", "S": ["calculated ", "deliberate ", "determined ", "intense ", "persistent ", "resolute ", "strong-willed "], "A": ["irresolute ", "weak "]}

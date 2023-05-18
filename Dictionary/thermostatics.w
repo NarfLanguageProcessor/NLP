@@ -1,0 +1,1 @@
+{"index": 321525, "D": "the branch of science concerned with thermal equilibrium", "S": [], "A": []}

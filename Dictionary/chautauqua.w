@@ -1,0 +1,1 @@
+{"index": 53207, "D": "a lake in SW New York. 18 miles (29 km) long.", "S": [], "A": []}

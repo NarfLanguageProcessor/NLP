@@ -1,0 +1,1 @@
+{"index": 164437, "D": "to strike with the foot or feet", "S": ["bliss ", "ecstasy ", "enthusiasm ", "euphoria ", "excitement ", "exhilaration ", "glee ", "joy ", "jubilation ", "rapture "], "A": ["apathy ", "depression ", "despair ", "discouragement ", "misery ", "sadness ", "sorrow ", "unhappiness ", "upset ", "woe ", "boredom "]}

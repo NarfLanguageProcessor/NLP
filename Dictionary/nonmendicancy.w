@@ -1,0 +1,1 @@
+{"index": 205236, "D": "the practice of begging, as for alms.", "S": [], "A": []}

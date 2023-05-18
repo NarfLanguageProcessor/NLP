@@ -1,0 +1,1 @@
+{"index": 209257, "D": "the point, gist, or heart of something.", "S": ["crux ", "upshot "], "A": ["exterior ", "exteriority ", "outside "]}

@@ -1,0 +1,1 @@
+{"index": 102784, "D": "to make a bishop of.", "S": [], "A": []}

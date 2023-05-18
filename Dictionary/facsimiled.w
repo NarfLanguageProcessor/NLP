@@ -1,0 +1,1 @@
+{"index": 109025, "D": "an exact copy, as of a book, painting, or manuscript.", "S": [], "A": []}

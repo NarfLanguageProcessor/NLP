@@ -1,0 +1,1 @@
+{"index": 64375, "D": "a number of individuals assembled or associated together; group of people.", "S": [], "A": []}

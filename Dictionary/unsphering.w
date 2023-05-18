@@ -1,0 +1,1 @@
+{"index": 351735, "D": "to remove from its or one's sphere;  displace.", "S": [], "A": []}

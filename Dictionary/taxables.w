@@ -1,0 +1,1 @@
+{"index": 317274, "D": "capable of being taxed;  subject to tax", "S": [], "A": []}

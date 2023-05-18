@@ -1,0 +1,1 @@
+{"index": 99256, "D": "under a spell; bewitched; magical", "S": ["delighted ", "fascinated "], "A": []}

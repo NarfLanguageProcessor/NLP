@@ -1,0 +1,1 @@
+{"index": 110329, "D": "a young animal, as a calf or a lamb, fattened for slaughter.", "S": [], "A": []}

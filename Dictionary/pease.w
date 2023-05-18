@@ -1,0 +1,1 @@
+{"index": 228502, "D": "a pea. ", "S": ["dot ", "pellet ", "stone "], "A": []}

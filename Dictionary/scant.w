@@ -1,0 +1,1 @@
+{"index": 279594, "D": "barely sufficient in amount or quantity; not abundant; almost inadequate", "S": ["insufficient ", "mere ", "paltry ", "scanty ", "skimpy ", "slight ", "sparse "], "A": ["adequate ", "ample ", "enough ", "important ", "plentiful ", "significant ", "sufficient ", "fat ", "thick "]}

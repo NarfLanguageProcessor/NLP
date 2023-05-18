@@ -1,0 +1,1 @@
+{"index": 53780, "D": "oriented growth or movement in response to a chemical stimulus.", "S": [], "A": []}

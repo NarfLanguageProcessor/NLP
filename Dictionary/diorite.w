@@ -1,0 +1,1 @@
+{"index": 86331, "D": "a granular igneous rock consisting essentially of plagioclase feldspar and hornblende.", "S": [], "A": []}

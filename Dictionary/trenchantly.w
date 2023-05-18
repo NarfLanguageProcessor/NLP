@@ -1,0 +1,1 @@
+{"index": 328913, "D": "incisive or keen, as language or a person; caustic; cutting", "S": [], "A": []}

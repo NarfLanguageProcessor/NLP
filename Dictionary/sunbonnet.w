@@ -1,0 +1,1 @@
+{"index": 311043, "D": "a bonnet  with a large brim shading the face and sometimes a piece projecting over the neck, worn by women and children.", "S": [], "A": []}

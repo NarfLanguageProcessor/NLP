@@ -1,0 +1,1 @@
+{"index": 219076, "D": "a person who overdraws  something, especially a bank account.", "S": [], "A": []}

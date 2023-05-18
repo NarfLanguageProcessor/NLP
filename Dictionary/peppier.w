@@ -1,0 +1,1 @@
+{"index": 230239, "D": "energetic; vigorous; lively.", "S": ["animated ", "perky ", "spirited ", "sprightly "], "A": ["depressed ", "lazy ", "lethargic "]}

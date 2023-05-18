@@ -1,0 +1,1 @@
+{"index": 256556, "D": "a large bowl from which punch, lemonade, etc., is served, usually with a ladle.", "S": [], "A": []}

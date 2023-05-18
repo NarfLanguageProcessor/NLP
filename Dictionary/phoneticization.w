@@ -1,0 +1,1 @@
+{"index": 234688, "D": "to represent (speech) in writing by means of a system in which individual symbols correspond regularly with speech sounds.", "S": [], "A": []}

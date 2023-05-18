@@ -1,0 +1,1 @@
+{"index": 48994, "D": "a northern constellation between Cepheus and Perseus.", "S": [], "A": []}

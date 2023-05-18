@@ -1,0 +1,1 @@
+{"index": 117253, "D": "disposed to forgive;  indicating forgiveness", "S": ["lenient ", "magnanimous ", "merciful "], "A": []}

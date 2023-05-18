@@ -1,0 +1,1 @@
+{"index": 230311, "D": "for each; for every", "S": ["according to ", "by ", "by means of ", "contained in each ", "for each one ", "for every ", "in accordance with ", "through ", "to each "], "A": []}

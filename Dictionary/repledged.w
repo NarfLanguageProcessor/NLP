@@ -1,0 +1,1 @@
+{"index": 268270, "D": "a solemn promise or agreement to do or refrain from doing something", "S": [], "A": []}

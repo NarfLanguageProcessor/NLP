@@ -1,0 +1,1 @@
+{"index": 120722, "D": "of or relating to the future", "S": [], "A": []}

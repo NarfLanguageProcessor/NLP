@@ -1,0 +1,1 @@
+{"index": 285069, "D": "the study of Semitic  languages, literature, etc.", "S": [], "A": []}

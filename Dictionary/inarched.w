@@ -1,0 +1,1 @@
+{"index": 149514, "D": "to graft by uniting a growing branch to a stock without separating the branch from its parent stock.", "S": [], "A": []}

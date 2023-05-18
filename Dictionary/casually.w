@@ -1,0 +1,1 @@
+{"index": 49140, "D": "by chance; accidentally", "S": ["by chance ", "inadvertently ", "unintentionally "], "A": []}

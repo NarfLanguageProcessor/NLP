@@ -1,0 +1,1 @@
+{"index": 355350, "D": "the planet seventh in order from the sun, having an equatorial diameter of 32,600 miles (56,460 km), a mean distance from the sun of 1,784 million miles (2,871 million km), a period of revolution of 84.07 years, and 15 moons.", "S": ["earth "], "A": []}

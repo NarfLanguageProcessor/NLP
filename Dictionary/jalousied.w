@@ -1,0 +1,1 @@
+{"index": 160226, "D": "a blind or shutter made with horizontal slats that can be adjusted to admit light and air but exclude rain and the rays of the sun.", "S": [], "A": []}

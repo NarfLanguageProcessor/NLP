@@ -1,0 +1,1 @@
+{"index": 115601, "D": "of or formed by the combined action of river and sea.", "S": [], "A": []}

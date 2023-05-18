@@ -1,0 +1,1 @@
+{"index": 5597, "D": "an official language of South Africa, developed out of the speech of 17th-century settlers from Holland and still very like Dutch.", "S": [], "A": []}

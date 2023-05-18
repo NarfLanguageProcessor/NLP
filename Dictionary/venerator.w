@@ -1,0 +1,1 @@
+{"index": 358030, "D": "to regard or treat with reverence; revere.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250501, "D": "of the first importance; demanding the fullest consideration", "S": ["heyday "], "A": ["downfall "]}

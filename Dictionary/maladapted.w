@@ -1,0 +1,1 @@
+{"index": 178195, "D": "poorly suited or adapted to a particular condition or set of circumstances", "S": [], "A": []}

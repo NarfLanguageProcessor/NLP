@@ -1,0 +1,1 @@
+{"index": 209407, "D": "to push slightly or gently, especially with the elbow, to get someone's attention, prod someone into action, etc.", "S": [], "A": []}

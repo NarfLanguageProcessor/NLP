@@ -1,0 +1,1 @@
+{"index": 267081, "D": "to increase the apparent size of, as a lens does.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 50991, "D": "an apparatus that rotates at high speed and by centrifugal force  separates substances of different densities, as milk and cream.", "S": [], "A": []}

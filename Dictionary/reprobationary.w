@@ -1,0 +1,1 @@
+{"index": 268606, "D": "disapproval, condemnation, or censure.", "S": [], "A": []}

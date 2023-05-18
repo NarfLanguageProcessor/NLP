@@ -1,0 +1,1 @@
+{"index": 120576, "D": "a tube, cord, or the like, filled or saturated with combustible matter, for igniting an explosive.", "S": [], "A": []}

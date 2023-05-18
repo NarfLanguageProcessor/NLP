@@ -1,0 +1,1 @@
+{"index": 235310, "D": "phosphorylation that utilizes light as a source of energy, as in the formation of ATP from ADP and phosphorus during photosynthesis.", "S": [], "A": []}

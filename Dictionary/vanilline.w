@@ -1,0 +1,1 @@
+{"index": 356983, "D": "a white, crystalline, water-soluble, alcohol-soluble solid, C8H8O3, obtained by extraction from the vanilla  bean or prepared synthetically", "S": [], "A": []}

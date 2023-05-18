@@ -1,0 +1,1 @@
+{"index": 206125, "D": "causing prejudice  or disadvantage; detrimental.", "S": [], "A": []}

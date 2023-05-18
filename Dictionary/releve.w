@@ -1,0 +1,1 @@
+{"index": 266863, "D": "a rising up onto full point or half point from the flat of the feet.", "S": [], "A": []}

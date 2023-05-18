@@ -1,0 +1,1 @@
+{"index": 83621, "D": "to deprive, wholly or partly, of vitreous character or properties.", "S": [], "A": []}

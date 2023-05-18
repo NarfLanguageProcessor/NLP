@@ -1,0 +1,1 @@
+{"index": 289126, "D": "such projectiles collectively.", "S": ["ammo ", "armament ", "bomb ", "bullet ", "cartridge ", "chemical ", "explosive ", "gunpowder ", "materiel ", "missile ", "munition ", "napalm ", "rocket ", "torpedo "], "A": []}

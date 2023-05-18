@@ -1,0 +1,1 @@
+{"index": 146798, "D": "having a yellow abdomen or underside.", "S": ["chicken ", "craven ", "faint-hearted ", "fearful ", "lily-livered ", "pusillanimous ", "spineless ", "timid ", "yellow "], "A": []}

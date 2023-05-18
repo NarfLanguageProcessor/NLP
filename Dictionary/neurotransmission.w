@@ -1,0 +1,1 @@
+{"index": 199270, "D": "the transmission  of a nerve impulse across a synapse.", "S": [], "A": []}

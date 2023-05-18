@@ -1,0 +1,1 @@
+{"index": 319615, "D": "any tract of land; region or district.", "S": ["area ", "colony ", "country ", "district ", "enclave ", "field ", "land ", "nation ", "neighborhood ", "province ", "sector ", "state ", "street ", "terrain ", "zone "], "A": ["sky "]}

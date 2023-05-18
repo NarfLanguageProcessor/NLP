@@ -1,0 +1,1 @@
+{"index": 348629, "D": "to cause (an organism) to multiply by any process of natural reproduction from the parent stock.", "S": [], "A": []}

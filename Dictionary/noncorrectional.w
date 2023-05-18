@@ -1,0 +1,1 @@
+{"index": 202532, "D": "of or relating to correction,  especially to penal correction. ", "S": [], "A": []}

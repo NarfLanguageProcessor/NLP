@@ -1,0 +1,1 @@
+{"index": 301140, "D": "to emit or discharge forcibly (a liquid, granulated substance, etc.) in a stream or jet.", "S": [], "A": []}

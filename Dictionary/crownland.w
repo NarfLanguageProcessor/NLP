@@ -1,0 +1,1 @@
+{"index": 74028, "D": "land belonging to the crown, the revenue of which goes to the reigning sovereign.", "S": [], "A": []}

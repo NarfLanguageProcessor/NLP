@@ -1,0 +1,1 @@
+{"index": 278039, "D": "of, relating to, or belonging to the Santalaceae, a family of semiparasitic plants of Australia and Malaysia including sandalwood and quandong", "S": [], "A": []}

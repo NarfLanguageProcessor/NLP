@@ -1,0 +1,1 @@
+{"index": 117507, "D": "formulate. ", "S": ["abstract ", "academic ", "analytical ", "as a premise ", "assumed ", "codified ", "conjectural ", "contingent ", "formalistic ", "general ", "hypothetical ", "ideal ", "idealized ", "ideational ", "ideological ", "imaginative ", "impractical ", "in the abstract ", "in theory ", "instanced ", "intelle "], "A": []}

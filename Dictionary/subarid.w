@@ -1,0 +1,1 @@
+{"index": 307222, "D": "moderately arid. ", "S": [], "A": []}

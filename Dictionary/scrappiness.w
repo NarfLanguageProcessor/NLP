@@ -1,0 +1,1 @@
+{"index": 281601, "D": "made up of scraps  or of odds and ends; fragmentary; disconnected.", "S": ["combativeness ", "contentiousness ", "litigiousness "], "A": []}

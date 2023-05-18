@@ -1,0 +1,1 @@
+{"index": 109254, "D": "an act or instance of failing; failure", "S": [], "A": []}

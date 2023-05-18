@@ -1,0 +1,1 @@
+{"index": 84562, "D": "either of a pair of stereoisomers  that are not mirror images of each other.", "S": [], "A": []}

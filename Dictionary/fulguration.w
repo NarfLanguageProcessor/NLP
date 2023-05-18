@@ -1,0 +1,1 @@
+{"index": 119913, "D": "destruction of tissue by means of high-frequency (more than 10\u00a0000 per second) electric sparks", "S": [], "A": []}

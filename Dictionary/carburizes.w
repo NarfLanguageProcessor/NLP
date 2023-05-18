@@ -1,0 +1,1 @@
+{"index": 47621, "D": "to cause to unite with carbon. ", "S": [], "A": []}

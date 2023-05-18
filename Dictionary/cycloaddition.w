@@ -1,0 +1,1 @@
+{"index": 57129, "D": "the formation of a cyclic compound by the addition reaction  of unsaturated molecules.", "S": [], "A": []}

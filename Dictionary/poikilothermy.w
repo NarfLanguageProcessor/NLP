@@ -1,0 +1,1 @@
+{"index": 241294, "D": "the state or quality of being cold-blooded, as fishes and reptiles.", "S": [], "A": []}

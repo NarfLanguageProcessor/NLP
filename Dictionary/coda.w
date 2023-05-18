@@ -1,0 +1,1 @@
+{"index": 61670, "D": "a more or less independent passage, at the end of a composition, introduced to bring it to a satisfactory close.", "S": ["afterword ", "postscript ", "summation "], "A": ["beginning ", "commencement ", "introduction ", "opening ", "start "]}

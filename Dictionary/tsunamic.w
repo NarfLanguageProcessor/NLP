@@ -1,0 +1,1 @@
+{"index": 331811, "D": "an unusually large sea wave produced by a seaquake or undersea volcanic eruption.", "S": [], "A": []}

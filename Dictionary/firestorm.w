@@ -1,0 +1,1 @@
+{"index": 113216, "D": "an atmospheric phenomenon, caused by a large fire,  in which the rising column of air above the fire  draws in strong winds often accompanied by rain.", "S": [], "A": []}

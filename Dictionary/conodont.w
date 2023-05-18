@@ -1,0 +1,1 @@
+{"index": 66593, "D": "a Paleozoic microfossil occurring in various jagged or toothlike shapes and constituting the hard remains of an extinct marine animal of the order Conodonta (or Conodontophorida), found abundantly worldwide in sedimentary rock.", "S": [], "A": []}

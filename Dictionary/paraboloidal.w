@@ -1,0 +1,1 @@
+{"index": 225383, "D": "a surface that can be put into a position such that its sections parallel to at least one coordinate plane are parabolas. ", "S": [], "A": []}

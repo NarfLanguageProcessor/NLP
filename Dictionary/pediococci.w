@@ -1,0 +1,1 @@
+{"index": 228928, "D": "any of several spherical, facultatively anaerobic bacteria of the genus Pediococcus, producing acid and clouding in beer and wort.", "S": [], "A": []}

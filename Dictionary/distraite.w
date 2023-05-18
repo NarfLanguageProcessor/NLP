@@ -1,0 +1,1 @@
+{"index": 89894, "D": "(of a woman) inattentive because of distracting worries, fears, etc.; absent-minded.", "S": [], "A": []}

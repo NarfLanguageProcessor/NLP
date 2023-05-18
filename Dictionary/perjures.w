@@ -1,0 +1,1 @@
+{"index": 231517, "D": "to render (oneself) guilty of swearing falsely or of willfully making a false statement under oath or solemn affirmation", "S": ["deceive ", "delude ", "equivocate ", "falsify ", "forswear ", "lie ", "mislead ", "prevaricate ", "trick "], "A": ["attest ", "certify ", "prove "]}

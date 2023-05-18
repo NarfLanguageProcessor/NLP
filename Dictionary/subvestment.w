@@ -1,0 +1,1 @@
+{"index": 309748, "D": "a garment, especially an outer garment.", "S": [], "A": []}

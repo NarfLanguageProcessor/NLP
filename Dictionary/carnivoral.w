@@ -1,0 +1,1 @@
+{"index": 48254, "D": "Compare carnivoran (def. 1). ", "S": [], "A": []}

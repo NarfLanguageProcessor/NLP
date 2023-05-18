@@ -1,0 +1,1 @@
+{"index": 159198, "D": "equal rights of citizenship, as in different communities; mutual political rights.", "S": [], "A": []}

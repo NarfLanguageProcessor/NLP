@@ -1,0 +1,1 @@
+{"index": 257604, "D": "a silver coin of ancient Rome, bearing an image of Jupiter in a quadriga on the reverse.", "S": [], "A": []}

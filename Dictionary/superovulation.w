@@ -1,0 +1,1 @@
+{"index": 312373, "D": "to produce more than the normal number of ova at one time, as through hormone treatment.", "S": [], "A": []}

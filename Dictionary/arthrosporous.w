@@ -1,0 +1,1 @@
+{"index": 20650, "D": "an isolated vegetative cell that has passed into a resting state, occurring in bacteria and not regarded as a truespore. ", "S": [], "A": []}

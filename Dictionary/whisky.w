@@ -1,0 +1,1 @@
+{"index": 365044, "D": "whiskey (used especially for Scotch or Canadian whiskey).", "S": [], "A": []}

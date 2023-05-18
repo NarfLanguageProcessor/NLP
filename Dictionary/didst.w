@@ -1,0 +1,1 @@
+{"index": 85109, "D": "2nd person singular simple past tense of do1. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18189, "D": "Compare hydrophobia (def. 1). ", "S": [], "A": []}

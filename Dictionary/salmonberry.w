@@ -1,0 +1,1 @@
+{"index": 277150, "D": "the salmon-colored, edible fruit of the bramble Rubus spectabilis, found on the west coast of North America", "S": [], "A": []}

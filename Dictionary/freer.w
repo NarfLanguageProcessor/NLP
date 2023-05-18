@@ -1,0 +1,1 @@
+{"index": 118646, "D": "a person or thing that frees. ", "S": ["savior "], "A": []}

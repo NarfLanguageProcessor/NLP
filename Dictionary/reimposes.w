@@ -1,0 +1,1 @@
+{"index": 266157, "D": "to lay on or set as something to be borne, endured, obeyed, fulfilled, paid, etc.", "S": ["refurbish "], "A": ["abandon ", "antique ", "break ", "damage ", "decline ", "destroy ", "forfeit ", "harm ", "hurt ", "injure ", "kill ", "lose ", "ruin ", "weaken "]}

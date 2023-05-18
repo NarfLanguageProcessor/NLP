@@ -1,0 +1,1 @@
+{"index": 223861, "D": "a form of alimony awarded to one of the partners in a romantic relationship after the breakup of that relationship following a long period of living together.", "S": [], "A": []}

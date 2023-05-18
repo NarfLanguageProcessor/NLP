@@ -1,0 +1,1 @@
+{"index": 2565, "D": "to admit to be real or true; recognize the existence, truth, or fact of", "S": ["accept ", "agree ", "defend ", "endorse ", "recognize ", "support "], "A": ["contradict ", "decline ", "deny ", "disagree ", "disapprove ", "dispute ", "oppose ", "protest ", "refuse ", "reject ", "renounce ", "condemn ", "disallow ", "disavow ", "invalidate ", "veto "]}

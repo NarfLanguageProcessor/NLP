@@ -1,0 +1,1 @@
+{"index": 247919, "D": "to dispose or prepare beforehand", "S": [], "A": []}

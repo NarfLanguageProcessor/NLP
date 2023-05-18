@@ -1,0 +1,1 @@
+{"index": 203075, "D": "the quality or state of being diffident. ", "S": [], "A": []}

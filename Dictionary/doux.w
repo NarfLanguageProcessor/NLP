@@ -1,0 +1,1 @@
+{"index": 92104, "D": "(of champagne) very sweet.", "S": [], "A": []}

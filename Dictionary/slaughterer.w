@@ -1,0 +1,1 @@
+{"index": 293752, "D": "the killing or butchering of cattle, sheep, etc., especially for food.", "S": ["assassin ", "butcher ", "criminal ", "cutthroat ", "enforcer ", "executioner ", "homicide ", "killer ", "manslayer ", "murderess ", "perpetrator ", "slayer ", "triggerman "], "A": []}

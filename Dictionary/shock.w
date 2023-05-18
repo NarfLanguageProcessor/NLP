@@ -1,0 +1,1 @@
+{"index": 288642, "D": "a sudden and violent blow or impact; collision. ", "S": ["awe ", "bump ", "collapse ", "confusion ", "consternation ", "disturbance ", "earthquake ", "excitement ", "impact ", "injury ", "jolt ", "scare ", "trauma "], "A": ["calm ", "calmness ", "composure ", "tranquility "]}

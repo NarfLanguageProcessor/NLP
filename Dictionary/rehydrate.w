@@ -1,0 +1,1 @@
+{"index": 266007, "D": "to restore moisture or fluid to (something dehydrated).", "S": [], "A": []}

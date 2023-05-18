@@ -1,0 +1,1 @@
+{"index": 328424, "D": "a peddler, hawker, or carrier using a horse and cart.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243193, "D": "to make a short, quick, explosive sound", "S": ["burst ", "crack ", "explosion ", "report ", "snap ", "strike ", "thrust ", "whack "], "A": []}

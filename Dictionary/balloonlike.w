@@ -1,0 +1,1 @@
+{"index": 27031, "D": "a bag made of thin rubber or other light material, usually brightly colored, inflated with air or with some lighter-than-air gas and used as a children's plaything or as a decoration.", "S": [], "A": []}

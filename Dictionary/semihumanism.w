@@ -1,0 +1,1 @@
+{"index": 284333, "D": "any system or mode of thought or action in which human  interests, values, and dignity predominate.", "S": [], "A": []}

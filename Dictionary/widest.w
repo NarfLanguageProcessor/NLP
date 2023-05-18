@@ -1,0 +1,1 @@
+{"index": 365527, "D": "having considerable or great extent from side to side; broad", "S": ["ample ", "broad ", "deep ", "expanded ", "extensive ", "far-reaching ", "full ", "immense ", "large ", "loose ", "spacious ", "vast "], "A": ["empty ", "limited ", "little ", "miniature ", "narrow ", "restricted ", "small ", "tiny ", "trivial "]}

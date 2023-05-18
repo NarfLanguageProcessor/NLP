@@ -1,0 +1,1 @@
+{"index": 344099, "D": "Flaked in such a way as to produce a cutting edge that is sharp on one side only. Used of a stone tool.\u2666 Unifacial tools are known as a unifaces and include early core tools such as choppers as well as later  flake toolssuch as scrapers and adzes. Compare  bifacial.", "S": [], "A": []}

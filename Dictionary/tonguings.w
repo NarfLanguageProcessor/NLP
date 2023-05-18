@@ -1,0 +1,1 @@
+{"index": 325572, "D": "the manipulation of the tongue  in playing a wind instrument to interrupt the tone and produce a staccato effect.", "S": [], "A": []}

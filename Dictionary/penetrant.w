@@ -1,0 +1,1 @@
+{"index": 229610, "D": "a person or thing that penetrates.", "S": ["biting ", "piercing ", "trenchant "], "A": ["kind ", "nice ", "weak ", "soft "]}

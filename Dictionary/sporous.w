@@ -1,0 +1,1 @@
+{"index": 301020, "D": "a combining form meaning \u201chaving spores\u201d of the kind specified by the initial element", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 174410, "D": "a disease chiefly of sheep, horses, and cattle, caused by the eating of locoweed and characterized by weakness, impaired vision, irregular behavior, and paralysis.", "S": [], "A": []}

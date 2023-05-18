@@ -1,0 +1,1 @@
+{"index": 320719, "D": "a member of a congregation of regular clerics, founded in Italy in 1524 to combat Protestantism and promote higher morality among Roman Catholics.", "S": [], "A": []}

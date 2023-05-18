@@ -1,0 +1,1 @@
+{"index": 8514, "D": "any member of the alkyne series.", "S": [], "A": []}

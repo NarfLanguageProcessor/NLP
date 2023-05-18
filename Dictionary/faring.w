@@ -1,0 +1,1 @@
+{"index": 109949, "D": "the price of conveyance or passage in a bus, train, airplane, or other vehicle.", "S": ["handle ", "happen ", "manage ", "prosper ", "prove "], "A": ["fail ", "mismanage ", "decrease ", "halt ", "lose ", "retreat ", "retrogress ", "stay ", "stop ", "wait "]}

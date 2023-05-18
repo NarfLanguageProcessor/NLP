@@ -1,0 +1,1 @@
+{"index": 240055, "D": "pounds per linear foot.", "S": [], "A": []}

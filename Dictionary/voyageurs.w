@@ -1,0 +1,1 @@
+{"index": 360974, "D": "(in Canada) a person who is an expert woodsman, boatman, and guide in remote regions, especially one employed by fur companies to transport supplies to and from their distant stations.", "S": [], "A": []}

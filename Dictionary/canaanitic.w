@@ -1,0 +1,1 @@
+{"index": 45971, "D": "a group of ancient languages belonging to the Semitic subfamily of the Afro-Asiatic family and including Canaanite, Phoenician, Ugaritic, and Hebrew", "S": [], "A": []}

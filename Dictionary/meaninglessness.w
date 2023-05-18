@@ -1,0 +1,1 @@
+{"index": 181761, "D": "without meaning,  significance, purpose, or value; purposeless; insignificant", "S": ["emptiness ", "ineffectiveness "], "A": []}

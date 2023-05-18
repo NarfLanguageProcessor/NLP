@@ -1,0 +1,1 @@
+{"index": 110282, "D": "the record made by a sonic depth finder.", "S": [], "A": []}

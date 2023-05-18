@@ -1,0 +1,1 @@
+{"index": 314995, "D": "shorthand, especially the ancient Greek and Roman handwriting used for rapid stenography and writing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 331515, "D": "marked by qualities of good breeding and education; well-bred.", "S": [], "A": []}

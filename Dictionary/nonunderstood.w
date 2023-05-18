@@ -1,0 +1,1 @@
+{"index": 208077, "D": "simple past tense and past participle of understand. ", "S": [], "A": []}

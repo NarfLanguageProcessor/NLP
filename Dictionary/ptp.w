@@ -1,0 +1,1 @@
+{"index": 255875, "D": "past participle.", "S": [], "A": []}

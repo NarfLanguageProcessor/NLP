@@ -1,0 +1,1 @@
+{"index": 168802, "D": "any of the loops by which a bonnet is attached to a sail.", "S": ["bar ", "bolt ", "catch ", "clamp ", "fastening ", "hasp ", "hook ", "padlock "], "A": ["key "]}

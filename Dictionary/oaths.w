@@ -1,0 +1,1 @@
+{"index": 209940, "D": "a solemn appeal to a deity, or to some revered person or thing, to witness one's determination to speak the truth, to keep a promise, etc.", "S": ["affidavit ", "deposition ", "pledge ", "testimony ", "vow "], "A": ["break ", "silence "]}

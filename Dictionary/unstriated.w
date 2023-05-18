@@ -1,0 +1,1 @@
+{"index": 352165, "D": "(of muscle) composed of elongated cells that do not have striations; smooth", "S": [], "A": []}

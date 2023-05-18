@@ -1,0 +1,1 @@
+{"index": 194122, "D": "a maxim adopted as an expression of the guiding principle of a person, organization, city, etc.", "S": [], "A": []}

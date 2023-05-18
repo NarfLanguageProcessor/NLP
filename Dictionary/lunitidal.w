@@ -1,0 +1,1 @@
+{"index": 176250, "D": "pertaining to the part of the tidal  movement dependent upon the moon.", "S": [], "A": []}

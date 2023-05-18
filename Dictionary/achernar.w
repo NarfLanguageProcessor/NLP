@@ -1,0 +1,1 @@
+{"index": 2236, "D": "a star of the first magnitude in the constellation Eridanus.", "S": [], "A": []}

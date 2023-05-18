@@ -1,0 +1,1 @@
+{"index": 302359, "D": "a native or inhabitant of Stagira.", "S": [], "A": []}

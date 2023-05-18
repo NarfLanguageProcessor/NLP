@@ -1,0 +1,1 @@
+{"index": 127556, "D": "a person who makes or sells articles of gold.", "S": ["horologist ", "lapidary ", "silversmith ", "watchmaker "], "A": []}

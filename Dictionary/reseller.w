@@ -1,0 +1,1 @@
+{"index": 269170, "D": "a person who sells;  salesperson or vender.", "S": [], "A": []}

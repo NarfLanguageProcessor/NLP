@@ -1,0 +1,1 @@
+{"index": 300597, "D": "marked or covered with splotches. ", "S": [], "A": []}

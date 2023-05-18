@@ -1,0 +1,1 @@
+{"index": 369181, "D": "to move in one of the two directions followed in a zigzag course", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 58334, "D": "a mucus-bound ribbonlike mass of spores that is exuded from a fungus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97599, "D": "a Hebrew prophet of the 9th century b.c., the successor of Elijah. 2 Kings 3\u20139.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 150689, "D": "not capable of being declined; having no inflected forms", "S": [], "A": []}

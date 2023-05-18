@@ -1,0 +1,1 @@
+{"index": 6289, "D": "a relative whose connection is traceable exclusively through males.", "S": ["like "], "A": []}

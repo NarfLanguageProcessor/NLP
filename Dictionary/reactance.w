@@ -1,0 +1,1 @@
+{"index": 261514, "D": "Compare capacitive reactance, inductive reactance. ", "S": [], "A": []}

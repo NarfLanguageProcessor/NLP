@@ -1,0 +1,1 @@
+{"index": 10628, "D": "a theophylline  derivative, C16H24N10O4, used chiefly to relieve bronchial spasm in asthma, in the treatment of certain heart conditions, and as a diuretic.", "S": [], "A": []}

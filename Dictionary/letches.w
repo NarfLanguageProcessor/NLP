@@ -1,0 +1,1 @@
+{"index": 170877, "D": "a lecherous desire or craving.", "S": [], "A": []}

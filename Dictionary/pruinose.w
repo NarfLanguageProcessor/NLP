@@ -1,0 +1,1 @@
+{"index": 254236, "D": "covered with a frostlike bloom or powdery secretion, as a plant surface.", "S": [], "A": []}

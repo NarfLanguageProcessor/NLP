@@ -1,0 +1,1 @@
+{"index": 331304, "D": "Compare trouv\u00e8re. ", "S": ["crooner ", "minstrel ", "songwriter "], "A": []}

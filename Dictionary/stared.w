@@ -1,0 +1,1 @@
+{"index": 302880, "D": "simple past and past participle of stare. ", "S": ["beam ", "gawk ", "glare ", "look ", "peer "], "A": ["ignore ", "look away ", "neglect "]}

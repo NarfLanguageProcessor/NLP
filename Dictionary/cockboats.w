@@ -1,0 +1,1 @@
+{"index": 61474, "D": "a small boat, especially one used as a tender.", "S": [], "A": []}

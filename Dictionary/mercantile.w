@@ -1,0 +1,1 @@
+{"index": 183606, "D": "of or relating to merchants or trade; commercial.", "S": ["economic ", "financial ", "monetary ", "profit-making ", "profitable ", "wholesale "], "A": ["not-for-profit "]}

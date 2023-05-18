@@ -1,0 +1,1 @@
+{"index": 172794, "D": "marked with minute lines; finely lineate.", "S": [], "A": []}

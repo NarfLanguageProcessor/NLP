@@ -1,0 +1,1 @@
+{"index": 269696, "D": "worthy of respect  or esteem; estimable; worthy", "S": ["appropriate ", "creditable ", "decent ", "honorable ", "mediocre ", "modest ", "ordinary ", "proper ", "satisfactory ", "tolerable ", "upright "], "A": ["extraordinary ", "improper ", "insufficient ", "intolerable ", "unacceptable ", "unsuitable ", "unsuited "]}

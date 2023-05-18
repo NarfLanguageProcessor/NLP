@@ -1,0 +1,1 @@
+{"index": 145671, "D": "Compare Yanktonai. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86131, "D": "a wolflike, wild dog, Canis familiaris dingo, of Australia, having a reddish- or yellowish-brown coat.", "S": ["mutt ", "pooch ", "pup "], "A": []}

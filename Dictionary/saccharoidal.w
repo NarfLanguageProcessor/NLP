@@ -1,0 +1,1 @@
+{"index": 276199, "D": "having a granular texture like that of loaf sugar.", "S": [], "A": []}

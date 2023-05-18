@@ -1,0 +1,1 @@
+{"index": 346636, "D": "having a mouth  of a specified kind (often used in combination)", "S": [], "A": []}

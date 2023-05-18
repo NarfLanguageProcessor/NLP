@@ -1,0 +1,1 @@
+{"index": 85806, "D": "pertaining to or caused by a flood or deluge.", "S": [], "A": []}

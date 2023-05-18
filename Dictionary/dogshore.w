@@ -1,0 +1,1 @@
+{"index": 90987, "D": "any of several shores  for holding the hull of a small or moderate-sized vessel in place after keel blocks and other shores  are removed and until the vessel is launched.", "S": [], "A": []}

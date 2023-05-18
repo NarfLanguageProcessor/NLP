@@ -1,0 +1,1 @@
+{"index": 190552, "D": "a mythopoeic act, circumstance, characteristic, etc.", "S": [], "A": []}

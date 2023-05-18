@@ -1,0 +1,1 @@
+{"index": 366646, "D": "in or into the interior or inner part; inside.", "S": ["in ", "inside "], "A": []}

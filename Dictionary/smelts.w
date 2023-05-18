@@ -1,0 +1,1 @@
+{"index": 294835, "D": "to fuse or melt (ore) in order to separate the metal contained.", "S": ["disappear ", "disintegrate ", "evaporate ", "fade ", "heat ", "soften ", "thaw ", "vanish ", "warm "], "A": ["appear ", "arrive ", "cool ", "freeze ", "divide ", "separate ", "stop "]}

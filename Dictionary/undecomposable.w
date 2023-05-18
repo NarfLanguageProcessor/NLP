@@ -1,0 +1,1 @@
+{"index": 338515, "D": "to separate or resolve into constituent parts or elements; disintegrate", "S": [], "A": []}

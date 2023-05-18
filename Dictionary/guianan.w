@@ -1,0 +1,1 @@
+{"index": 131005, "D": "of or relating to the region of Guiana,  its inhabitants, or their language.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97785, "D": "Ernie, full name Theodore Ernest Els . born 1969; South African golfer", "S": ["elevated railway ", "overhead railway "], "A": []}

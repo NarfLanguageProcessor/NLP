@@ -1,0 +1,1 @@
+{"index": 230642, "D": "a postage stamp having perforated initials punched into the paper", "S": [], "A": []}

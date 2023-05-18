@@ -1,0 +1,1 @@
+{"index": 91541, "D": "a hinge having a long strap holding together the planks of a door.", "S": [], "A": []}

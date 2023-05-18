@@ -1,0 +1,1 @@
+{"index": 18479, "D": "a member of an Indigenous people of central Chile and northern Argentina, living especially in the Araucania region.", "S": [], "A": []}

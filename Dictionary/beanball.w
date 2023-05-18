@@ -1,0 +1,1 @@
+{"index": 29476, "D": "a ball thrown by a pitcher purposely at or near the head of the batter.", "S": [], "A": []}

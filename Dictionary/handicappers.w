@@ -1,0 +1,1 @@
+{"index": 133173, "D": "a person employed, as by a newspaper, to make predictions on the outcomes of horse races.", "S": [], "A": []}

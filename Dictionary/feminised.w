@@ -1,0 +1,1 @@
+{"index": 111162, "D": "to make or become feminine. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362985, "D": "given to or characterized by useless consumption or expenditure", "S": ["careless ", "destructive ", "extravagant ", "lavish ", "profligate ", "reckless "], "A": ["careful ", "cautious ", "economical ", "saving "]}

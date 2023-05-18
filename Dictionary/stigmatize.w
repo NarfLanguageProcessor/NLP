@@ -1,0 +1,1 @@
+{"index": 304413, "D": "to set some mark of disgrace or infamy upon", "S": ["characterize ", "class ", "classify ", "defame ", "denounce ", "designate ", "disgrace ", "mark ", "stamp ", "tag "], "A": ["approve ", "commend ", "compliment ", "exalt ", "praise "]}

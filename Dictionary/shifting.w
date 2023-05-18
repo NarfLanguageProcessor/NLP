@@ -1,0 +1,1 @@
+{"index": 288225, "D": "to put (something) aside and replace it by another or others; change or exchange", "S": ["alive ", "effective ", "operating "], "A": ["fixed ", "inoperative ", "unmovable "]}

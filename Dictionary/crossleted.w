@@ -1,0 +1,1 @@
+{"index": 73839, "D": "a small cross, as one used as a heraldic charge.", "S": [], "A": []}

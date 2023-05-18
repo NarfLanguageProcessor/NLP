@@ -1,0 +1,1 @@
+{"index": 275065, "D": "revolutions per minute.", "S": [], "A": []}

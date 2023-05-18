@@ -1,0 +1,1 @@
+{"index": 113223, "D": "a partition made of fireproof material to prevent the spread of a fire from one part of a building or ship to another or to isolate an engine compartment, as on a plane, automobile, etc.", "S": [], "A": []}

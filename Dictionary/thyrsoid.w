@@ -1,0 +1,1 @@
+{"index": 322176, "D": "having somewhat the form of a thyrsus.", "S": [], "A": []}

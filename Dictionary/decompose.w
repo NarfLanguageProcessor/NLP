@@ -1,0 +1,1 @@
+{"index": 78621, "D": "to separate or resolve into constituent parts or elements; disintegrate", "S": ["break down ", "decay ", "disintegrate ", "dissolve ", "fall apart ", "molder "], "A": ["unite "]}

@@ -1,0 +1,1 @@
+{"index": 369130, "D": "keen relish; hearty enjoyment; gusto.", "S": ["flavoring ", "ginger ", "salt ", "seasoning ", "spice "], "A": ["apathy ", "blandness ", "boredom ", "dullness ", "idleness ", "lethargy "]}

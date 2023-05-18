@@ -1,0 +1,1 @@
+{"index": 169176, "D": "articles of clothing, linens, etc., that have been or are to be washed.", "S": ["washing "], "A": []}

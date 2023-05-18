@@ -1,0 +1,1 @@
+{"index": 274673, "D": "a rotary-wing aircraft.", "S": [], "A": []}

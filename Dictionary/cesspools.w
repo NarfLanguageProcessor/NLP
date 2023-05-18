@@ -1,0 +1,1 @@
+{"index": 51721, "D": "a cistern, well, or pit for retaining the sediment of a drain or for receiving the sewage from a house.", "S": ["cesspit ", "sump "], "A": []}

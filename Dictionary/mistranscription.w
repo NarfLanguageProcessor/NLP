@@ -1,0 +1,1 @@
+{"index": 190341, "D": "the act or process of transcribing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172410, "D": "without limit;  boundless", "S": ["boundlessness ", "continuity ", "continuum ", "eternity ", "expanse ", "extent ", "immensity ", "infiniteness ", "infinitude ", "myriad ", "perpetuity ", "sempiternity ", "space ", "ubiquity ", "unboundedness ", "vastness "], "A": []}

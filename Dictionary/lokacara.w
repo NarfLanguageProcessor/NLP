@@ -1,0 +1,1 @@
+{"index": 174772, "D": "an action in accordance with socially accepted rules.", "S": [], "A": []}

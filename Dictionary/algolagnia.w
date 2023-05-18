@@ -1,0 +1,1 @@
+{"index": 8115, "D": "sexual pleasure derived from enduring or inflicting pain, as in masochism or sadism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 281442, "D": "dirt or refuse removed by scouring. ", "S": ["debris ", "silt ", "slag "], "A": ["base ", "core ", "lack ", "necessity ", "need ", "want "]}

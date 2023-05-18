@@ -1,0 +1,1 @@
+{"index": 211861, "D": "a person who owns or operates oil  wells or an executive in the petroleum industry.", "S": [], "A": []}

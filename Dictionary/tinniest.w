@@ -1,0 +1,1 @@
+{"index": 324059, "D": "of or like tin. ", "S": ["golden ", "silvery "], "A": []}

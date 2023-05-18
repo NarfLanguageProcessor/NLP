@@ -1,0 +1,1 @@
+{"index": 86538, "D": "a huge herbivorous dinosaur of the genus Diplodocus, from the Late Jurassic Epoch of western North America, growing to a length of about 87 feet (26.5 meters).", "S": [], "A": []}

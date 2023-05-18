@@ -1,0 +1,1 @@
+{"index": 265115, "D": "to cast back (light, heat, sound, etc.) from a surface", "S": [], "A": []}

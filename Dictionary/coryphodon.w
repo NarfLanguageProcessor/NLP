@@ -1,0 +1,1 @@
+{"index": 69158, "D": "a primitive hoofed mammal of the extinct genus Coryphodon, of the early Eocene Epoch, having a long, thickset body, short legs, and five-toed feet, each toe ending in a small hoof.", "S": [], "A": []}

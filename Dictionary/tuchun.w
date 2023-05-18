@@ -1,0 +1,1 @@
+{"index": 332098, "D": "the title of a military governor of a province during the period 1916\u201328.", "S": [], "A": []}

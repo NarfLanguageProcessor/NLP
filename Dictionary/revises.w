@@ -1,0 +1,1 @@
+{"index": 271386, "D": "to amend or alter", "S": ["alter ", "amend ", "compare ", "cut ", "develop ", "improve ", "modify ", "overhaul ", "reconsider ", "reexamine ", "reorganize ", "revamp ", "review ", "rework ", "rewrite ", "scrutinize ", "tighten ", "update ", "upgrade "], "A": ["decrease ", "harm ", "ignore ", "injure ", "worsen ", "ruin "]}

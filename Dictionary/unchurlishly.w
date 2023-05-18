@@ -1,0 +1,1 @@
+{"index": 336870, "D": "like a churl; boorish; rude", "S": [], "A": []}

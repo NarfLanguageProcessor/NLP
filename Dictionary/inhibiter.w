@@ -1,0 +1,1 @@
+{"index": 152701, "D": "a person or thing that inhibits. ", "S": [], "A": []}

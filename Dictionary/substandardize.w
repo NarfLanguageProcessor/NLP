@@ -1,0 +1,1 @@
+{"index": 309279, "D": "to bring to or make of an established standard  size, weight, quality, strength, or the like", "S": [], "A": []}

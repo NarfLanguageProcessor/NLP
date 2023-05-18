@@ -1,0 +1,1 @@
+{"index": 359522, "D": "magnetic tape  on which the electronic impulses produced by the video  and audio portions of a television program, motion picture, etc., are recorded (distinguished from audiotape).", "S": ["copy ", "document ", "file ", "list ", "log ", "mark ", "post ", "register ", "report ", "videotape "], "A": ["cancel ", "ignore ", "neglect ", "withdraw "]}

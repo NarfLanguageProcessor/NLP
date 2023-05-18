@@ -1,0 +1,1 @@
+{"index": 50118, "D": "alertness and prudence in a hazardous situation; care; wariness", "S": ["admonishing ", "admonitory ", "advisory ", "preventive ", "warning "], "A": []}

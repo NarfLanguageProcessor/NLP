@@ -1,0 +1,1 @@
+{"index": 333469, "D": "to taunt, tease, ridicule, etc., with reference to anything embarrassing; gibe at.", "S": [], "A": []}

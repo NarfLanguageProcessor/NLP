@@ -1,0 +1,1 @@
+{"index": 100312, "D": "to encircle with or as with a garland. ", "S": [], "A": []}

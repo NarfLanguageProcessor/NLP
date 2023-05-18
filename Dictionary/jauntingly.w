@@ -1,0 +1,1 @@
+{"index": 160609, "D": "a short journey, especially one taken for pleasure.", "S": [], "A": []}

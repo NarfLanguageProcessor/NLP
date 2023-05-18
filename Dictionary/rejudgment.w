@@ -1,0 +1,1 @@
+{"index": 266636, "D": "an act or instance of judging.", "S": [], "A": []}

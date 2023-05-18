@@ -1,0 +1,1 @@
+{"index": 13918, "D": "not associated with, not caused by, or not exhibiting ovulation.", "S": [], "A": []}

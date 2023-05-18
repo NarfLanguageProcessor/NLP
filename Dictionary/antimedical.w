@@ -1,0 +1,1 @@
+{"index": 15528, "D": "of or relating to the science or practice of medicine", "S": [], "A": []}

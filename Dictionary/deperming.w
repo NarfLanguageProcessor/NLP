@@ -1,0 +1,1 @@
+{"index": 81578, "D": "to reduce the permanent magnetism  of (a vessel) by wrapping an electric cable around it vertically athwartships and energizing the cable.", "S": [], "A": []}

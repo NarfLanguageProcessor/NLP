@@ -1,0 +1,1 @@
+{"index": 1676, "D": "completed; done; effected", "S": ["adept ", "consummate ", "gifted ", "polished ", "proficient ", "skillful ", "talented "], "A": ["clumsy ", "incapable ", "incompetent ", "inept ", "unable ", "unskilled ", "untalented "]}

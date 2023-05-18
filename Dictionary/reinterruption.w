@@ -1,0 +1,1 @@
+{"index": 266452, "D": "an act or instance of interrupting. ", "S": [], "A": []}

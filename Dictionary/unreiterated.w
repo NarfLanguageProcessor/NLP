@@ -1,0 +1,1 @@
+{"index": 349394, "D": "said, expressed, or done again; repeated, often excessively", "S": [], "A": []}

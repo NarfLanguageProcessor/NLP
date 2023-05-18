@@ -1,0 +1,1 @@
+{"index": 174888, "D": "patient endurance of hardship, injuries, or offense; forbearance. ", "S": ["fortitude ", "self-control "], "A": ["agitation ", "excess ", "impatience ", "indulgence ", "intemperance ", "intolerance ", "wildness "]}

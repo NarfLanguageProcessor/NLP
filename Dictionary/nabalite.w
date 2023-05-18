@@ -1,0 +1,1 @@
+{"index": 196406, "D": "a wealthy Calebite, husband of Abigail, who refused rightful tribute to King David for protecting Nabal's flocks. 1 Samuel 25.", "S": [], "A": []}

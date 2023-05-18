@@ -1,0 +1,1 @@
+{"index": 259050, "D": "to shake with a slight but rapid motion; vibrate tremulously; tremble. ", "S": ["convulsion ", "flash ", "glimmer ", "glitter ", "oscillation ", "palpitation ", "pulsation ", "shake ", "shimmer ", "shiver ", "shudder ", "sparkle ", "spasm ", "throb ", "tic ", "tremble ", "tremor ", "twinkle "], "A": ["dullness "]}

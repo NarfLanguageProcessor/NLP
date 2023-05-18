@@ -1,0 +1,1 @@
+{"index": 24732, "D": "to diminish the infectivity of (a virus) by repeated culturing in chick embryos.", "S": [], "A": []}

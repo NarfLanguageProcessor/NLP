@@ -1,0 +1,1 @@
+{"index": 285992, "D": "a person in a condition of feudal servitude, required to render services to a lord, commonly attached to the lord's land and transferred with it from one owner to another.", "S": ["chattel ", "laborer ", "peon ", "servant ", "vassal ", "villain ", "villein "], "A": []}

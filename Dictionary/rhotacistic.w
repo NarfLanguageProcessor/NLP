@@ -1,0 +1,1 @@
+{"index": 272375, "D": "a change of a speech sound, especially (s), to (r), as in the change from Old Latin lases to Latin lares.", "S": [], "A": []}

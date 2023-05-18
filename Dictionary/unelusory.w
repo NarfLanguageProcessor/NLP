@@ -1,0 +1,1 @@
+{"index": 341134, "D": "eluding  or failing to allow for or accommodate a clear perception or complete mental grasp; hard to express or define", "S": [], "A": []}

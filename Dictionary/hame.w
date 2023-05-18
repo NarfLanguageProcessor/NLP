@@ -1,0 +1,1 @@
+{"index": 132946, "D": "either of two curved pieces lying upon the collar in the harness of an animal, to which the traces are fastened.", "S": [], "A": []}

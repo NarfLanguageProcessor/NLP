@@ -1,0 +1,1 @@
+{"index": 133141, "D": "a covenant or contract, especially a betrothal, usually completed by a handclasp.", "S": [], "A": []}

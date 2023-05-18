@@ -1,0 +1,1 @@
+{"index": 76745, "D": "the body of laws in force in the northeast of England where the Danes settled in the 9th century a.d.", "S": [], "A": []}

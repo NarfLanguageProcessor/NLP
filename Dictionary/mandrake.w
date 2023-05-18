@@ -1,0 +1,1 @@
+{"index": 179062, "D": "a narcotic, short-stemmed European plant, Mandragora officinarum, of the nightshade family, having a fleshy, often forked root somewhat resembling a human form.", "S": [], "A": []}

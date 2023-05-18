@@ -1,0 +1,1 @@
+{"index": 15492, "D": "resistant to magnetization.", "S": [], "A": []}

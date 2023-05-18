@@ -1,0 +1,1 @@
+{"index": 308134, "D": "(of mineral grains comprising igneous rocks) having a partial or incomplete crystal face or form.", "S": [], "A": []}

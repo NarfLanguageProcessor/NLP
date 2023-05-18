@@ -1,0 +1,1 @@
+{"index": 359930, "D": "the vinyl group,  the univalent group C2H3, derived from ethylene.", "S": [], "A": []}

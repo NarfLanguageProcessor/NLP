@@ -1,0 +1,1 @@
+{"index": 223213, "D": "two identical, similar, or corresponding things that are matched for use together", "S": ["dichotomized ", "double ", "mated "], "A": []}

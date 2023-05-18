@@ -1,0 +1,1 @@
+{"index": 306191, "D": "of, relating to, or derived from strychnine", "S": [], "A": []}

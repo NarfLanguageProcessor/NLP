@@ -1,0 +1,1 @@
+{"index": 225950, "D": "inability to retract the penis into the prepuce as a result of narrowing of the prepuce", "S": [], "A": []}

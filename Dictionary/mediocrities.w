@@ -1,0 +1,1 @@
+{"index": 182165, "D": "the state or quality of being mediocre. ", "S": ["normality "], "A": []}

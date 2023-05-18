@@ -1,0 +1,1 @@
+{"index": 207423, "D": "in a distinct or particular way; uniquely", "S": [], "A": []}

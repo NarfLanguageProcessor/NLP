@@ -1,0 +1,1 @@
+{"index": 127068, "D": "any vertebrate of the superclass Gnathostomata, having a mouth with jaws, including all vertebrates except the agnathans", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362698, "D": "the practices and principles of a warmonger. ", "S": ["battling ", "belligerent ", "boxing ", "brawling ", "contending ", "determined ", "fencing ", "hostile ", "jousting ", "martial ", "militant ", "sparring ", "tilting ", "wrestling "], "A": ["kind ", "nice ", "peaceful "]}

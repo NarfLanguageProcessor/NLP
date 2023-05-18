@@ -1,0 +1,1 @@
+{"index": 202065, "D": "the act or method of applying color. ", "S": [], "A": []}

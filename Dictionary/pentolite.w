@@ -1,0 +1,1 @@
+{"index": 230096, "D": "a high explosive consisting of pentaerythritol tetranitrate and TNT.", "S": [], "A": []}

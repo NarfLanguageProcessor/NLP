@@ -1,0 +1,1 @@
+{"index": 73823, "D": "to mark or shade with two or more intersecting series of parallel lines.", "S": ["chisel ", "embed ", "etch ", "imprint ", "ingrain ", "inscribe "], "A": ["aid ", "dislodge ", "help ", "neglect "]}

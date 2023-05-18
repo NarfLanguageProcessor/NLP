@@ -1,0 +1,1 @@
+{"index": 302589, "D": "a coarse woollen cloth in former use for undergarments, etc, and usually dyed red", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156738, "D": "to arouse the curiosity or interest of by unusual, new, or otherwise fascinating or compelling qualities; appeal strongly to; captivate", "S": [], "A": []}

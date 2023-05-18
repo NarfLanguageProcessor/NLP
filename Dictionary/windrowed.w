@@ -1,0 +1,1 @@
+{"index": 366031, "D": "a row  or line of hay raked together to dry before being raked into heaps.", "S": [], "A": []}

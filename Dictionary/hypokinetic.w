@@ -1,0 +1,1 @@
+{"index": 141003, "D": "abnormally diminished muscular function or mobility.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166686, "D": "pronounced with simultaneous bilabial and velar  articulations, as w.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322634, "D": "a poem, speech, or song of lamentation, especially for the dead; dirge; funeral song.", "S": ["funereal ", "melancholy ", "mournful ", "sad ", "sorrowful "], "A": ["cheerful ", "happy ", "joyful "]}

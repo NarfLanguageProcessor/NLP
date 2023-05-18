@@ -1,0 +1,1 @@
+{"index": 226780, "D": "a salivary gland situated at the base of each ear.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308191, "D": "the slitting of the underside of the penis to the urethra, performed as a puberty rite among some tribal peoples, especially in Australia.", "S": [], "A": []}

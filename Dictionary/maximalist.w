@@ -1,0 +1,1 @@
+{"index": 181537, "D": "a person who favors a radical and immediate approach to the achievement of a set of goals or the completion of a program.", "S": [], "A": []}

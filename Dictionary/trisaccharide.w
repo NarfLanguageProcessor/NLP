@@ -1,0 +1,1 @@
+{"index": 330535, "D": "a carbohydrate composed of three monosaccharide units, and hydrolyzable to a monosaccharide or a mixture of monosaccharides.", "S": [], "A": []}

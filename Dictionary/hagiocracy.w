@@ -1,0 +1,1 @@
+{"index": 132228, "D": "government by a body of persons esteemed as holy.", "S": [], "A": []}

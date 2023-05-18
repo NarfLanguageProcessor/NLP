@@ -1,0 +1,1 @@
+{"index": 169992, "D": "a member of the political Left or a person sympathetic to its views.", "S": ["agitator ", "anarchist ", "extremist ", "fanatic ", "firebrand ", "insurgent ", "leftist ", "militant ", "progressive ", "rebel ", "reformer ", "renegade ", "revolutionary ", "rioter ", "subversive "], "A": ["conservative ", "moderate "]}

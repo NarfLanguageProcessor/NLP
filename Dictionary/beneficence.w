@@ -1,0 +1,1 @@
+{"index": 31554, "D": "the doing of good; active goodness or kindness; charity. ", "S": ["aid ", "alms ", "benefaction ", "charity ", "contribution ", "gift ", "grace ", "handout ", "offering ", "philanthropy "], "A": []}

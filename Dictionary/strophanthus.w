@@ -1,0 +1,1 @@
+{"index": 306567, "D": "any of various shrubs or small trees belonging to the genus Strophanthus, of the dogbane family, chiefly of tropical Africa.", "S": [], "A": []}

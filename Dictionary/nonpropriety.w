@@ -1,0 +1,1 @@
+{"index": 206290, "D": "conformity to established standards of good or proper behavior or manners.", "S": [], "A": []}

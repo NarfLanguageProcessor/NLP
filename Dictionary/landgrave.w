@@ -1,0 +1,1 @@
+{"index": 167938, "D": "(in medieval Germany) a count having jurisdiction over a large territory.", "S": [], "A": []}

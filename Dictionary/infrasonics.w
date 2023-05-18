@@ -1,0 +1,1 @@
+{"index": 152328, "D": "the branch of science that deals with infrasonic  phenomena.", "S": [], "A": []}

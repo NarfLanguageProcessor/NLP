@@ -1,0 +1,1 @@
+{"index": 76441, "D": "a paper money, cupronickel coin, and monetary unit of Gambia, equal to 100 bututs.", "S": [], "A": []}

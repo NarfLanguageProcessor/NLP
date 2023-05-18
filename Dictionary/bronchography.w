@@ -1,0 +1,1 @@
+{"index": 41390, "D": "x-ray examination of the tracheobronchial tree after intrabronchial administration of a radiopaque material.", "S": [], "A": []}

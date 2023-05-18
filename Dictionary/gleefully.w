@@ -1,0 +1,1 @@
+{"index": 126117, "D": "with exultant, often mischievous joy or delight; merrily", "S": ["blithely ", "brightly ", "gaily ", "genially ", "gladly ", "happily ", "joyfully ", "merrily ", "optimistically ", "playfully ", "pleasantly ", "readily ", "willingly "], "A": ["sadly ", "unhappily "]}

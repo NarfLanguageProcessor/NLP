@@ -1,0 +1,1 @@
+{"index": 251159, "D": "to move or go forward or onward, especially after stopping.", "S": ["advance ", "continue ", "get ", "go ahead ", "go on ", "pass ", "press on ", "progress ", "travel "], "A": ["cease ", "decrease ", "discontinue ", "fail ", "finish ", "halt ", "lose ", "retreat ", "retrogress ", "stop ", "yield ", "stay "]}

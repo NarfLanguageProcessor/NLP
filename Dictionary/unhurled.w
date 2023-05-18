@@ -1,0 +1,1 @@
+{"index": 343942, "D": "to throw or fling with great force or vigor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 218371, "D": "given to or characterized by boasting. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260256, "D": "to wander around in a leisurely, aimless manner", "S": ["constitutional ", "excursion ", "hike ", "perambulation ", "peregrination ", "roaming ", "roving ", "saunter ", "stroll ", "tour ", "traipse ", "trip ", "turn "], "A": ["run "]}

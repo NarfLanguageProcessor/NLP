@@ -1,0 +1,1 @@
+{"index": 33614, "D": "having two faces or fronts.", "S": [], "A": []}

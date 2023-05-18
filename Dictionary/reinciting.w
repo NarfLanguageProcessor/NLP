@@ -1,0 +1,1 @@
+{"index": 266202, "D": "to stir, encourage, or urge on; stimulate or prompt to action", "S": [], "A": []}

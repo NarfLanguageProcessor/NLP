@@ -1,0 +1,1 @@
+{"index": 214292, "D": "an aromatic herb, Origanum vulgare, of the mint family, having leaves used as seasoning in cooking.", "S": [], "A": []}

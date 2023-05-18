@@ -1,0 +1,1 @@
+{"index": 63024, "D": "an optical system that transmits parallel rays of light, as the receiving lens or telescope of a spectroscope.", "S": [], "A": []}

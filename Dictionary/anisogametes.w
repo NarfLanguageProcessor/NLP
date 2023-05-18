@@ -1,0 +1,1 @@
+{"index": 13303, "D": "either of a pair of unlike gametes,  usually differing in size.", "S": [], "A": []}

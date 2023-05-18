@@ -1,0 +1,1 @@
+{"index": 281188, "D": "extent or range of view, outlook, application, operation, effectiveness, etc.", "S": [], "A": []}

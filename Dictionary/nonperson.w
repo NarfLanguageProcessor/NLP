@@ -1,0 +1,1 @@
+{"index": 205908, "D": "someone whose existence or presence is not recognized.", "S": ["expatriate ", "fugitive ", "refugee "], "A": []}

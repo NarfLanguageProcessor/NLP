@@ -1,0 +1,1 @@
+{"index": 144471, "D": "lodging or accommodation in a house. ", "S": ["living space ", "nest ", "place to rest one's head ", "sleeping place "], "A": []}

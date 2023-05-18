@@ -1,0 +1,1 @@
+{"index": 246796, "D": "to reduce the purchasing value of (money).", "S": [], "A": []}

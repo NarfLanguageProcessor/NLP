@@ -1,0 +1,1 @@
+{"index": 315938, "D": "to meddle, especially for the purpose of altering, damaging, or misusing (usually followed by with)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201588, "D": "having the capability of starting, operating, moving, etc., independently", "S": [], "A": []}

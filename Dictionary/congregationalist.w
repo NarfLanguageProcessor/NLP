@@ -1,0 +1,1 @@
+{"index": 66248, "D": "a form of Protestant church government in which each local religious society is independent and self-governing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153876, "D": "as a substitute or replacement; in the place or stead of someone or something", "S": ["rather "], "A": []}

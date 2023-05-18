@@ -1,0 +1,1 @@
+{"index": 80955, "D": "a person who demurs;  objector.", "S": ["allegation ", "assertion ", "belief ", "claim ", "discussion ", "explanation ", "hypothesis ", "idea ", "opinion ", "plea ", "position ", "thesis "], "A": ["proof ", "reality ", "truth ", "denial ", "retreat "]}

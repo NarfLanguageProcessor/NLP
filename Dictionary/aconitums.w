@@ -1,0 +1,1 @@
+{"index": 2657, "D": "any plant belonging to the genus Aconitum, of the buttercup family, having irregular flowers usually in loose clusters, including species with poisonous and medicinal properties.", "S": [], "A": []}

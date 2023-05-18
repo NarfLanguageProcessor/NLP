@@ -1,0 +1,1 @@
+{"index": 336013, "D": "a piece of wood sawed thin, and of considerable length and breadth compared with the thickness.", "S": [], "A": []}

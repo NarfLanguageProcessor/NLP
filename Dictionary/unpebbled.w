@@ -1,0 +1,1 @@
+{"index": 347589, "D": "a small, rounded stone, especially one worn smooth by the action of water.", "S": [], "A": []}

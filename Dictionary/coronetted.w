@@ -1,0 +1,1 @@
+{"index": 69466, "D": "wearing or entitled to wear a coronet. ", "S": [], "A": []}

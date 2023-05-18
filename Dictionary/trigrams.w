@@ -1,0 +1,1 @@
+{"index": 329879, "D": "a sequence of three adjacent letters or symbols.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346281, "D": "the technique or science of working or heating metals so as to give them certain desired shapes or properties.", "S": [], "A": []}

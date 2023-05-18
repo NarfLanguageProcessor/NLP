@@ -1,0 +1,1 @@
+{"index": 157144, "D": "of or relating to creatures without a backbone.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308689, "D": "being below an optimal  level or standard.", "S": [], "A": []}

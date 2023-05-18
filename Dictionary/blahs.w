@@ -1,0 +1,1 @@
+{"index": 35634, "D": "nonsense; rubbish", "S": ["lackadaisical ", "laid-back ", "languorous ", "lazy ", "leisurely ", "lethargic ", "sluggish ", "unhurried "], "A": ["active ", "energetic ", "hard-working ", "hurried ", "lively "]}

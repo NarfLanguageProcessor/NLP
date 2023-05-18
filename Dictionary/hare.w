@@ -1,0 +1,1 @@
+{"index": 133721, "D": "any rodentlike mammal of the genus Lepus, of the family Leporidae, having long ears, a divided upper lip, and long hind limbs adapted for leaping.", "S": ["coney ", "lagomorph ", "leveret "], "A": []}

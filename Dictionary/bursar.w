@@ -1,0 +1,1 @@
+{"index": 43307, "D": "a treasurer or business officer, especially of a college or university.", "S": ["cashier ", "controller ", "paymaster ", "purser "], "A": []}

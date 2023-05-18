@@ -1,0 +1,1 @@
+{"index": 66777, "D": "to make or become conservative. ", "S": [], "A": []}

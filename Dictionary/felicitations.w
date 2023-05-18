@@ -1,0 +1,1 @@
+{"index": 110979, "D": "a less common word for congratulation", "S": ["compliments ", "greetings ", "hail "], "A": ["commiseration ", "condolences ", "criticism "]}

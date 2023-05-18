@@ -1,0 +1,1 @@
+{"index": 298719, "D": "initiated or led (sometimes used in combination)", "S": ["initiate ", "launch ", "prompt ", "spur "], "A": ["end ", "finish ", "stop ", "discourage ", "dissuade ", "leave ", "misguide ", "mislead ", "neglect ", "result "]}

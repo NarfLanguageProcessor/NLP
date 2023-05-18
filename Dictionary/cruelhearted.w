@@ -1,0 +1,1 @@
+{"index": 74130, "D": "having a cruel  heart; lacking kindness, compassion, etc.", "S": [], "A": []}

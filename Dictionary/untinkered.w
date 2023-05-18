@@ -1,0 +1,1 @@
+{"index": 353051, "D": "a mender of pots, kettles, pans, etc., usually an itinerant.", "S": [], "A": []}

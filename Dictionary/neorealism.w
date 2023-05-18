@@ -1,0 +1,1 @@
+{"index": 198460, "D": "any of various movements in literature, art, etc., that are considered as a return to a more realistic style.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40338, "D": "the act of a person or other animal that breathes; respiration.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67951, "D": [], "S": ["accommodate ", "gratify ", "please "], "A": ["annoy ", "disturb ", "frustrate ", "upset ", "block ", "counteract ", "harm ", "hinder ", "hurt ", "injure ", "obstruct ", "stop ", "take ", "thwart "]}

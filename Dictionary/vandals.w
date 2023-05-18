@@ -1,0 +1,1 @@
+{"index": 356945, "D": [], "S": ["despoiler ", "destroyer ", "hoodlum ", "looter ", "mischief-maker ", "pillager ", "pirate ", "plunderer ", "thief "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15037, "D": "a luminous edging around the shadow of an observer or the point where their shadow would fall, as thrown by the sun upon a cloud or fog bank.", "S": [], "A": []}

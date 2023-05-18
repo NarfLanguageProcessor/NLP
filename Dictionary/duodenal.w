@@ -1,0 +1,1 @@
+{"index": 94264, "D": "of or relating to the duodenum. ", "S": ["intestinal ", "visceral "], "A": []}

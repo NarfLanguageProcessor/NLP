@@ -1,0 +1,1 @@
+{"index": 81762, "D": "to remove from office or position, especially high office", "S": ["affiant ", "attestant ", "attester ", "attestor ", "testifier "], "A": []}

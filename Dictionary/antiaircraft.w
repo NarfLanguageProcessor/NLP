@@ -1,0 +1,1 @@
+{"index": 14709, "D": "designed for or used in defense against enemy aircraft. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246359, "D": "to accord in opinion; agree", "S": [], "A": []}

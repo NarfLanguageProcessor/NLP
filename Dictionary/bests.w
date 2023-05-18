@@ -1,0 +1,1 @@
+{"index": 32643, "D": "of the highest quality, excellence, or standing", "S": ["finest ", "first ", "first-rate ", "leading ", "outstanding ", "perfect ", "terrific "], "A": ["inferior ", "poor ", "least ", "minor ", "poorest ", "secondary ", "unimportant ", "worst "]}

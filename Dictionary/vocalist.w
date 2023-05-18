@@ -1,0 +1,1 @@
+{"index": 360880, "D": "a singer.", "S": ["entertainer ", "musician ", "performer "], "A": []}

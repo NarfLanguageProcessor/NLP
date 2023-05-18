@@ -1,0 +1,1 @@
+{"index": 245527, "D": "the state or quality of being adequate;  sufficiency for a particular purpose.", "S": [], "A": []}

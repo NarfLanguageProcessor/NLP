@@ -1,0 +1,1 @@
+{"index": 258552, "D": "being at rest; inactive or motionless; quiet; still", "S": [], "A": []}

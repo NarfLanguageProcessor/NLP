@@ -1,0 +1,1 @@
+{"index": 154749, "D": "of or relating to a corpuscle,  or unattached cell, especially of the kind that floats freely, such as a blood or lymph cell", "S": [], "A": []}

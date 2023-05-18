@@ -1,0 +1,1 @@
+{"index": 312895, "D": "exuberant physical strength or mental vigor", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262549, "D": "to correct or adjust the gradations or settings on (a measuring instrument, sensor, or other piece of precision equipment)", "S": ["adjust ", "amend ", "change ", "develop ", "modify ", "reshape ", "revamp ", "revise ", "shift ", "transform ", "vary "], "A": ["leave alone ", "remain ", "stagnate ", "stay "]}

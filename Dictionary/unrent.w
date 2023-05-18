@@ -1,0 +1,1 @@
+{"index": 349523, "D": "not rent;  not torn, disturbed, pained, or the like", "S": [], "A": []}

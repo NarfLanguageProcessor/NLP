@@ -1,0 +1,1 @@
+{"index": 67744, "D": "to come or be in conflict with; go or act against; deny or oppose", "S": [], "A": []}

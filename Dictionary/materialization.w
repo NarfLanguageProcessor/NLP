@@ -1,0 +1,1 @@
+{"index": 181109, "D": "to come into perceptible existence; appear; become actual or real; be realized or carried out", "S": ["pursuance ", "realization "], "A": ["beginning ", "cause ", "commencement ", "origin ", "question ", "source ", "start "]}

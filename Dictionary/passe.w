@@ -1,0 +1,1 @@
+{"index": 227289, "D": "the numbers 19 through 36 in roulette.", "S": ["corny ", "obsolete ", "odd ", "outdated ", "outmoded ", "unfashionable "], "A": ["current ", "modern ", "new ", "up-to-date "]}

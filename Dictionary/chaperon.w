@@ -1,0 +1,1 @@
+{"index": 52626, "D": "(esp formerly) an older or married woman who accompanies or supervises a young unmarried woman on social occasions", "S": ["babysitter ", "companion ", "escort "], "A": []}

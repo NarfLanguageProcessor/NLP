@@ -1,0 +1,1 @@
+{"index": 351948, "D": "to die or perish from lack of food or nourishment.", "S": [], "A": []}

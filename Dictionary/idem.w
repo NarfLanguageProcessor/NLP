@@ -1,0 +1,1 @@
+{"index": 146353, "D": "the same as previously given or mentioned.", "S": [], "A": []}

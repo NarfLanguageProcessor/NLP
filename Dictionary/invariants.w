@@ -1,0 +1,1 @@
+{"index": 157046, "D": "unvarying; invariable;  constant.", "S": [], "A": []}

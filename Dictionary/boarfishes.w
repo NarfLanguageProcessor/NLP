@@ -1,0 +1,1 @@
+{"index": 36954, "D": "any of several fishes  having a projecting snout, especially a small, spiny-rayed fish, Capros aper, of European waters.", "S": [], "A": []}

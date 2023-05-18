@@ -1,0 +1,1 @@
+{"index": 245420, "D": "easy to approach, reach, enter, speak with, or use.", "S": [], "A": []}

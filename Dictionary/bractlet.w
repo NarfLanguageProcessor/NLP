@@ -1,0 +1,1 @@
+{"index": 39545, "D": "a small or secondary bract, as on a pedicel.", "S": [], "A": []}

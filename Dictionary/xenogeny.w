@@ -1,0 +1,1 @@
+{"index": 368379, "D": "heterogenesis (def. 1). ", "S": [], "A": []}

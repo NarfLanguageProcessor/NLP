@@ -1,0 +1,1 @@
+{"index": 129228, "D": "warm and deep appreciation for kindness received; gratitude or thankfulness", "S": ["acknowledgment ", "gratitude ", "indebtedness ", "obligation ", "recognition ", "testimonial ", "thankfulness ", "thanks ", "tribute "], "A": ["criticism "]}

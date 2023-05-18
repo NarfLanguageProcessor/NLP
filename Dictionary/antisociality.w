@@ -1,0 +1,1 @@
+{"index": 16219, "D": "unwilling or unable to associate in a normal or friendly way with other people", "S": [], "A": []}

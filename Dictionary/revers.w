@@ -1,0 +1,1 @@
+{"index": 271250, "D": "a part of a garment turned back to show the lining or facing, as a lapel.", "S": [], "A": []}

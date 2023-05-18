@@ -1,0 +1,1 @@
+{"index": 84515, "D": "a disturbance or loss of function in one part of the brain due to a localized injury in another part.", "S": [], "A": []}

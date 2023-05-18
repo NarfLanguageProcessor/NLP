@@ -1,0 +1,1 @@
+{"index": 143298, "D": "having identical pairs of genes for any given pair of hereditary characteristics.", "S": [], "A": []}

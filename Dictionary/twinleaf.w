@@ -1,0 +1,1 @@
+{"index": 333394, "D": "a North American herb, Jeffersonia diphylla, having a single white blossom and leaves divided in two.", "S": [], "A": []}

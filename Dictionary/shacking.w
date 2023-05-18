@@ -1,0 +1,1 @@
+{"index": 287023, "D": "a rough cabin; shanty.", "S": [], "A": []}

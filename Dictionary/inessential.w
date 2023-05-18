@@ -1,0 +1,1 @@
+{"index": 151621, "D": "not essential;  not necessary; nonessential.", "S": ["accidental ", "chance ", "excess ", "needless ", "nonessential ", "prodigal ", "surplus ", "undesirable ", "unessential ", "wanton "], "A": ["careful ", "designed ", "essential ", "necessary ", "needed ", "planned "]}

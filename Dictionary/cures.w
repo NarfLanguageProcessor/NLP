@@ -1,0 +1,1 @@
+{"index": 75271, "D": "a means of healing or restoring to health; remedy.", "S": ["minister "], "A": ["mother "]}

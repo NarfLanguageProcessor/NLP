@@ -1,0 +1,1 @@
+{"index": 114796, "D": "to rest or remain on the surface of a liquid; be buoyant", "S": ["drift ", "glide ", "hang ", "hover ", "ride ", "sail ", "slide ", "swim ", "waft ", "wash "], "A": ["drown ", "sink "]}

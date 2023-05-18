@@ -1,0 +1,1 @@
+{"index": 178306, "D": "Formerly Nya\u00b7sa\u00b7land  [nyah-sah-land, nahy-as-uh-]  /\u02c8ny\u0251 s\u0251\u02ccl\u00e6nd, na\u026a\u02c8\u00e6s \u0259-/ .", "S": [], "A": []}

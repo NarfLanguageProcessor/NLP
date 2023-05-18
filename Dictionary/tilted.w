@@ -1,0 +1,1 @@
+{"index": 323653, "D": "to cause to lean, incline, slope, or slant.", "S": ["curved ", "curving ", "devious ", "errant ", "gnarled ", "meandering ", "serpentine ", "sinuous ", "twisted ", "twisting ", "winding "], "A": ["straight ", "unbent "]}

@@ -1,0 +1,1 @@
+{"index": 300570, "D": "(in gymnastics, etc) the act of sinking to the floor to achieve a sitting position in which both legs are straight, pointing in opposite directions, and at right angles to the body", "S": ["breach ", "chasm ", "crack ", "division ", "fissure ", "gap ", "rift ", "rupture ", "separation "], "A": ["closing ", "closure ", "connection ", "juncture "]}

@@ -1,0 +1,1 @@
+{"index": 62362, "D": "a rare microscopic mineral, carbide of iron, nickel, or cobalt, (Fe, Ni, Co)3C, found in lunar rocks and some meteorites.", "S": [], "A": []}

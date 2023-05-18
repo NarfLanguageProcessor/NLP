@@ -1,0 +1,1 @@
+{"index": 360867, "D": "of, relating to, or uttered with the voice", "S": ["articulate ", "choral ", "operatic ", "verbal "], "A": ["introverted ", "modest ", "quiet ", "shy ", "written "]}

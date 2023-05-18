@@ -1,0 +1,1 @@
+{"index": 364530, "D": "a horse, or one of the horses, harnessed behind others and nearest the front wheels of a vehicle.", "S": [], "A": []}

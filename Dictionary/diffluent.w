@@ -1,0 +1,1 @@
+{"index": 85323, "D": "tending to flow off or away.", "S": [], "A": []}

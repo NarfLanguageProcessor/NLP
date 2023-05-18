@@ -1,0 +1,1 @@
+{"index": 128564, "D": "by small degrees or little by little", "S": ["constantly ", "continuously ", "deliberately ", "gently ", "increasingly ", "moderately ", "progressively ", "regularly ", "steadily "], "A": ["abruptly ", "intermittently ", "suddenly "]}

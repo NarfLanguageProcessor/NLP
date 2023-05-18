@@ -1,0 +1,1 @@
+{"index": 336600, "D": "not resulting from some antecedent cause.", "S": [], "A": []}

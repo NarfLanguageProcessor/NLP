@@ -1,0 +1,1 @@
+{"index": 45972, "D": "a member of a Semitic people that inhabited parts of ancient Palestine and were conquered by the Israelites and largely absorbed by them.", "S": [], "A": []}

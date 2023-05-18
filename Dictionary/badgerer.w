@@ -1,0 +1,1 @@
+{"index": 26192, "D": [], "S": ["blight ", "bug ", "contagion ", "epidemic ", "infection ", "plague ", "scourge ", "virus "], "A": ["advantage ", "blessing ", "boon ", "aid ", "comfort ", "delight ", "good health ", "happiness ", "help ", "joy ", "peace ", "pleasure "]}

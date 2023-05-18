@@ -1,0 +1,1 @@
+{"index": 227459, "D": "a flavored or medicated lozenge; troche.", "S": ["horehound ", "lozenge ", "pastille ", "throat lozenge ", "troche "], "A": []}

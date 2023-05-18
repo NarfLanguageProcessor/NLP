@@ -1,0 +1,1 @@
+{"index": 78169, "D": "a device that measures the rate of deceleration, as of a vehicle.", "S": [], "A": []}

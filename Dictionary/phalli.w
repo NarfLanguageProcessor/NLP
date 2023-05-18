@@ -1,0 +1,1 @@
+{"index": 232887, "D": "an image of the male reproductive organ, especially that carried in procession in ancient festivals of Dionysus, or Bacchus, symbolizing the generative power in nature.", "S": [], "A": []}

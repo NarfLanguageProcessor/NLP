@@ -1,0 +1,1 @@
+{"index": 168308, "D": "a thin, flat board  to be held on the lap  for use as a table or writing surface.", "S": [], "A": []}

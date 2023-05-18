@@ -1,0 +1,1 @@
+{"index": 357891, "D": "velvet or a substance resembling it.", "S": [], "A": []}

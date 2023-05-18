@@ -1,0 +1,1 @@
+{"index": 115578, "D": "to wave, flap, or toss about", "S": ["blasted ", "fanned ", "puffed ", "wafted ", "whirled ", "whisked "], "A": []}

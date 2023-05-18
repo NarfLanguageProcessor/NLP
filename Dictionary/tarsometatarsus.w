@@ -1,0 +1,1 @@
+{"index": 316747, "D": "the large bone in the lower leg of a bird with which the toe bones articulate, formed by the fusion of tarsal and metatarsal bones.", "S": [], "A": []}

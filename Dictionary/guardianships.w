@@ -1,0 +1,1 @@
+{"index": 130798, "D": "the position and responsibilities of a guardian,  especially toward a ward.", "S": ["custody "], "A": []}

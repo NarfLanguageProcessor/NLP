@@ -1,0 +1,1 @@
+{"index": 6197, "D": "the business of dealing in foreign exchange.", "S": [], "A": []}

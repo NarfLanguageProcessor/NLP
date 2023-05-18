@@ -1,0 +1,1 @@
+{"index": 31481, "D": "a standard of excellence, achievement, etc., against which similar things must be measured or judged", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 88517, "D": "to separate or disconnect the joints or joinings of.", "S": ["disarrange ", "disarticulate ", "dislocate ", "dismember ", "luxate "], "A": []}

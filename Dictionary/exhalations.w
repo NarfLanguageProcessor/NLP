@@ -1,0 +1,1 @@
+{"index": 107105, "D": "the act of exhaling. ", "S": ["breath ", "expiration ", "respiration "], "A": []}

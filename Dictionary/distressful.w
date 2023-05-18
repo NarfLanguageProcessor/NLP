@@ -1,0 +1,1 @@
+{"index": 89904, "D": "causing or involving distress", "S": ["anxious ", "disquieting ", "disruptive ", "distressing ", "nervous ", "perturbing ", "troublesome ", "unsettling ", "upsetting ", "worrisome ", "worrying "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 88144, "D": "growing poorly on artificial media, as certain bacteria (opposed to eugonic).", "S": [], "A": []}

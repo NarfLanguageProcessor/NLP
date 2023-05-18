@@ -1,0 +1,1 @@
+{"index": 231802, "D": "the act of causing something to continue or go on happening", "S": [], "A": []}

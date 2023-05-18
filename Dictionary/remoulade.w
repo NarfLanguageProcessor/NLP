@@ -1,0 +1,1 @@
+{"index": 267474, "D": "a cold sauce made with mayonnaise and various condiments and herbs, as chopped pickles, capers, mustard, parsley, chervil, and tarragon.", "S": [], "A": []}

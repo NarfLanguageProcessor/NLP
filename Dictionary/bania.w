@@ -1,0 +1,1 @@
+{"index": 27447, "D": "variant of banyan (def. 2). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238307, "D": "the soft, spongy central cylinder of parenchymatous tissue in the stems of dicotyledonous plants.", "S": [], "A": []}

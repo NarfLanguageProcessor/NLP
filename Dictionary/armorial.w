@@ -1,0 +1,1 @@
+{"index": 19985, "D": "of or relating to heraldry or heraldic bearings.", "S": [], "A": []}

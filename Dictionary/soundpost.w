@@ -1,0 +1,1 @@
+{"index": 297872, "D": "a small post, usually of pine, on guitars, violins, etc, that joins the front surface to the back, helps to support the bridge, and allows the whole body of the instrument to vibrate", "S": [], "A": []}

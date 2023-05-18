@@ -1,0 +1,1 @@
+{"index": 48762, "D": "a waterfall descending over a steep, rocky surface.", "S": ["avalanche ", "deluge ", "outpouring ", "torrent ", "waterfall "], "A": []}

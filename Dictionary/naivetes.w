@@ -1,0 +1,1 @@
+{"index": 196633, "D": "the quality or state of being naive;  natural or artless simplicity.", "S": ["artlessness ", "callowness ", "candor ", "childishness ", "credulity ", "frankness ", "guilelessness ", "gullibility ", "inexperience ", "ingenuousness ", "innocence ", "naturalness ", "openness ", "simplicity "], "A": []}

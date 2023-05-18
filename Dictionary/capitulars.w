@@ -1,0 +1,1 @@
+{"index": 46951, "D": "a member of an ecclesiastical chapter.", "S": [], "A": []}

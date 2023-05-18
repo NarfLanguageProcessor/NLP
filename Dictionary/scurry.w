@@ -1,0 +1,1 @@
+{"index": 282274, "D": "to go or move quickly or in haste.", "S": ["bustle ", "dart ", "dash ", "hurry ", "rip ", "scamper ", "scoot ", "scuttle ", "sprint ", "whisk ", "zip "], "A": ["slow ", "walk "]}

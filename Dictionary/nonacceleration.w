@@ -1,0 +1,1 @@
+{"index": 201005, "D": "the act of accelerating;  increase of speed or velocity.", "S": [], "A": []}

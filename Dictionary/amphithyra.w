@@ -1,0 +1,1 @@
+{"index": 11248, "D": "a divided curtain in front of the door of the iconostasis.", "S": [], "A": []}

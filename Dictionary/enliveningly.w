@@ -1,0 +1,1 @@
+{"index": 100694, "D": "to make vigorous or active; invigorate", "S": [], "A": []}

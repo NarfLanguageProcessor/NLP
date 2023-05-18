@@ -1,0 +1,1 @@
+{"index": 19631, "D": "of or relating to Arius  or Arianism. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83462, "D": "the act of devastating;  destruction.", "S": ["confusion ", "desolation ", "havoc ", "ravages ", "ruin "], "A": ["construction "]}

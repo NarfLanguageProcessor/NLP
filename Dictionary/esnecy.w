@@ -1,0 +1,1 @@
+{"index": 104313, "D": "the right of the oldest member of a coparcenary to have first choice of share upon division of the inheritance.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359154, "D": "a person who practices veterinary medicine or surgery.", "S": [], "A": []}

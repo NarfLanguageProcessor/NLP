@@ -1,0 +1,1 @@
+{"index": 92139, "D": "a tenon broader at its end than at its base; pin.", "S": ["coincide ", "conform ", "correspond ", "harmonize ", "jibe "], "A": ["clash ", "differ ", "disagree ", "fight ", "mismatch ", "divide ", "oppose ", "refuse ", "separate "]}

@@ -1,0 +1,1 @@
+{"index": 188655, "D": "hatred, dislike, or mistrust of men.", "S": ["sexism "], "A": ["misogyny "]}

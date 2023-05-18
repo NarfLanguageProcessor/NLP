@@ -1,0 +1,1 @@
+{"index": 121724, "D": "a part or structure bearing gametangia.", "S": [], "A": []}

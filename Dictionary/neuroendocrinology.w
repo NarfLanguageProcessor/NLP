@@ -1,0 +1,1 @@
+{"index": 199062, "D": "the study of the anatomical and physiological interactions between the nervous and endocrine systems.", "S": [], "A": []}

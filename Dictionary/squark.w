@@ -1,0 +1,1 @@
+{"index": 301754, "D": "strange quark. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 105312, "D": "utterly done in or at the end of one's tether; exhausted.", "S": [], "A": []}

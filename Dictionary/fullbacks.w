@@ -1,0 +1,1 @@
+{"index": 119938, "D": "a running back  who lines up behind the quarterback and is farthest from the line of scrimmage.", "S": ["halfback ", "tailback "], "A": []}

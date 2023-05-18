@@ -1,0 +1,1 @@
+{"index": 10332, "D": "not divided into parts; having no meristem.", "S": [], "A": []}

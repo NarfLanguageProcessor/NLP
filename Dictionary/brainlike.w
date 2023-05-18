@@ -1,0 +1,1 @@
+{"index": 39746, "D": "the part of the central nervous system enclosed in the cranium of humans and other vertebrates, consisting of a soft, convoluted mass of gray and white matter and serving to control and coordinate the mental and physical actions.", "S": [], "A": []}

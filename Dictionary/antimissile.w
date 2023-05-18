@@ -1,0 +1,1 @@
+{"index": 15582, "D": "designed or used in defense against guided enemy missiles. ", "S": [], "A": []}

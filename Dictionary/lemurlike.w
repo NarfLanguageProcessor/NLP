@@ -1,0 +1,1 @@
+{"index": 170374, "D": "any of various small, arboreal, chiefly nocturnal mammals of the superfamily Lemuroidea, inhabiting Madagascar and the Comoro Islands, inclusive of nearly 100 species, most of which have large eyes, a foxlike face, and woolly fur", "S": [], "A": []}

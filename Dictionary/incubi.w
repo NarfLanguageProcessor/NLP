@@ -1,0 +1,1 @@
+{"index": 150530, "D": "Compare succubus (def. 1). ", "S": [], "A": []}

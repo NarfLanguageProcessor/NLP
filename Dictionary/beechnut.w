@@ -1,0 +1,1 @@
+{"index": 30287, "D": "the small, triangular, edible nut  of the beech. ", "S": [], "A": []}

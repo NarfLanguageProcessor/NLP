@@ -1,0 +1,1 @@
+{"index": 114386, "D": "passing swiftly; vanishing quickly; transient; transitory", "S": ["cursory ", "ephemeral ", "fading ", "momentary ", "short-lived ", "sudden ", "transitory "], "A": ["enduring ", "lasting ", "lengthy ", "long-lived ", "permanent ", "perpetual "]}

@@ -1,0 +1,1 @@
+{"index": 79570, "D": "to fall below a normal or desirable level in physical, mental, or moral qualities; deteriorate", "S": ["descend ", "disintegrate ", "lapse ", "lessen ", "regress ", "revert ", "worsen "], "A": ["develop ", "grow ", "increase ", "progress ", "aid ", "build ", "help ", "improve ", "rise "]}

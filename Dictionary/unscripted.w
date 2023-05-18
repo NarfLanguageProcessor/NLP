@@ -1,0 +1,1 @@
+{"index": 350557, "D": "not scripted;  lacking a script", "S": ["offhand ", "spontaneous "], "A": ["deliberate ", "planned "]}

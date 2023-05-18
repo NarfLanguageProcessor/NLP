@@ -1,0 +1,1 @@
+{"index": 286501, "D": "a motor or the like forming part of a servomechanism.", "S": [], "A": []}

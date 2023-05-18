@@ -1,0 +1,1 @@
+{"index": 11065, "D": "equivocal; uncertain; changing; ambiguous.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340645, "D": "inattentive; preoccupied. ", "S": ["peaceful ", "serene ", "tranquil ", "unmoved ", "unruffled ", "untouched "], "A": ["affected ", "disturbed ", "excited ", "noisy ", "touched ", "turbulent ", "violent "]}

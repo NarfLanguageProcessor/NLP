@@ -1,0 +1,1 @@
+{"index": 130855, "D": "a part or organ that directs the movement or course of another part.", "S": [], "A": []}

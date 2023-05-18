@@ -1,0 +1,1 @@
+{"index": 218245, "D": "thrown or performed by raising the arm  above the shoulder", "S": [], "A": []}

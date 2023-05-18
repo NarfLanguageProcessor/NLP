@@ -1,0 +1,1 @@
+{"index": 359692, "D": "to regard or treat as of little value or account.", "S": [], "A": []}

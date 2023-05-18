@@ -1,0 +1,1 @@
+{"index": 114177, "D": "to parade or display oneself conspicuously, defiantly, or boldly.", "S": [], "A": []}

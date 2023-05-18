@@ -1,0 +1,1 @@
+{"index": 110747, "D": "of, relating to, or being feces. ", "S": ["disheveled ", "grimy ", "grubby ", "grungy ", "muddy ", "nasty ", "soiled ", "squalid "], "A": ["clean ", "pure "]}

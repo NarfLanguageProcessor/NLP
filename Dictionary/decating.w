@@ -1,0 +1,1 @@
+{"index": 78125, "D": "a finishing process for making fabric more lustrous, for improving the tactile quality of the nap, and for setting the material to reduce shrinkage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248178, "D": "preparatory to launch,  as of a spacecraft.", "S": [], "A": []}

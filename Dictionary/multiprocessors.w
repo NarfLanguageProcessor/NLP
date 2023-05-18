@@ -1,0 +1,1 @@
+{"index": 195296, "D": "the simultaneous execution of two or more programs or instruction sequences by separate CPUs under integrated control.", "S": [], "A": []}

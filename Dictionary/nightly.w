@@ -1,0 +1,1 @@
+{"index": 199951, "D": "coming or occurring each night", "S": ["evening ", "night ", "nighttime ", "nocturnal "], "A": []}

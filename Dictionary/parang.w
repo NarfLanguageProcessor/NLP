@@ -1,0 +1,1 @@
+{"index": 225881, "D": "a large, heavy knife used as a tool or a weapon in Malaysia and Indonesia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307450, "D": "a primary division of a class. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252193, "D": "to lengthen out in time; extend the duration of; cause to continue longer", "S": [], "A": []}

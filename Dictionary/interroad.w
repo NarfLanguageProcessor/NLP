@@ -1,0 +1,1 @@
+{"index": 155813, "D": "a long, narrow stretch with a smoothed or paved surface, made for traveling by motor vehicle, carriage, etc., between two or more points; street or highway.", "S": [], "A": []}

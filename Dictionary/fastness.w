@@ -1,0 +1,1 @@
+{"index": 110219, "D": "a secure or fortified place; stronghold", "S": ["haste ", "rapidity ", "speed "], "A": ["slowness "]}

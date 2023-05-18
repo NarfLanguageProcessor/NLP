@@ -1,0 +1,1 @@
+{"index": 168635, "D": "any of several plants belonging to the genera Delphinium and Consolida, of the buttercup family, characterized by the spur-shaped formation of the calyx and petals.", "S": [], "A": []}

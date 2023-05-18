@@ -1,0 +1,1 @@
+{"index": 100163, "D": "to deprive of force or strength; destroy the vigor of; weaken. ", "S": ["annoying ", "boring ", "dull ", "exhausting ", "ho-hum ", "laborious ", "monotonous ", "onerous ", "tedious ", "tired ", "tiring ", "uninteresting "], "A": ["active ", "easy ", "eventful ", "exciting ", "interesting ", "light ", "lively ", "trivial "]}

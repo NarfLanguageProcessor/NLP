@@ -1,0 +1,1 @@
+{"index": 360556, "D": "a phosphoprotein in the yolk of eggs.", "S": [], "A": []}

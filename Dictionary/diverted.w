@@ -1,0 +1,1 @@
+{"index": 90274, "D": "to turn aside or from a path or course; deflect.", "S": ["amused ", "averted ", "changed ", "entertained ", "preempted ", "reclassified ", "redirected ", "sidetracked ", "used "], "A": ["bored ", "depressed "]}

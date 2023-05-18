@@ -1,0 +1,1 @@
+{"index": 55824, "D": "any benign or malignant tumor of chorionic tissue; choriocarcinoma.", "S": [], "A": []}

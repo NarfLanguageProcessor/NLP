@@ -1,0 +1,1 @@
+{"index": 88634, "D": "thoroughly disheartened, as by sudden danger or trouble", "S": ["anxious ", "apprehensive ", "frightened ", "nervous ", "scared ", "shocked ", "suspicious ", "timid "], "A": ["brave ", "calm ", "happy ", "unafraid ", "unworried "]}

@@ -1,0 +1,1 @@
+{"index": 133782, "D": "to drag (something) along the ground", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322040, "D": "a colorless, crystalline, bitter-tasting, water-soluble solid, CH4N2S, derived from urea  by replacement of the oxygen with sulfur", "S": [], "A": []}

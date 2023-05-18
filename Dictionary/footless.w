@@ -1,0 +1,1 @@
+{"index": 116193, "D": "lacking a foot  or feet. ", "S": [], "A": []}

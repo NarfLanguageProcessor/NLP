@@ -1,0 +1,1 @@
+{"index": 31276, "D": "a variant spelling of Belarussian", "S": [], "A": []}

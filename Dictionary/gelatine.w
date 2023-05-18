@@ -1,0 +1,1 @@
+{"index": 123192, "D": "a colourless or yellowish water-soluble protein prepared by boiling animal hides and bones", "S": [], "A": []}

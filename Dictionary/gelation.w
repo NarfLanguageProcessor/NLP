@@ -1,0 +1,1 @@
+{"index": 123221, "D": "solidification by cold; freezing.", "S": [], "A": []}

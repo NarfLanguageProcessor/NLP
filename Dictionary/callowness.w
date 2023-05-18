@@ -1,0 +1,1 @@
+{"index": 45361, "D": "immature or inexperienced", "S": ["brightness ", "inventiveness ", "novelty ", "originality ", "vigor "], "A": ["dullness "]}

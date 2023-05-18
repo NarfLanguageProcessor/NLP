@@ -1,0 +1,1 @@
+{"index": 51473, "D": "any of various plants of the genus Cereus, of the cactus family, having large, usually white, funnel-shaped flowers.", "S": [], "A": []}

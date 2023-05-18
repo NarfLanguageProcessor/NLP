@@ -1,0 +1,1 @@
+{"index": 300666, "D": "a simple past tense of speak. ", "S": ["ambit ", "boundary ", "compass ", "expanse ", "extension ", "extent ", "interval ", "limit ", "orbit ", "purview ", "reach ", "semidiameter ", "space ", "span ", "spoke "], "A": []}

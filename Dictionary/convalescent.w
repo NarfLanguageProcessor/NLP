@@ -1,0 +1,1 @@
+{"index": 67896, "D": "convalescing. ", "S": ["ambulatory ", "healing ", "mending ", "rallying ", "strengthening "], "A": ["failing ", "faltering ", "sickly ", "weak ", "worsening "]}

@@ -1,0 +1,1 @@
+{"index": 350476, "D": "not arranged or planned according to a programme, timetable, etc", "S": [], "A": []}

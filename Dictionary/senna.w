@@ -1,0 +1,1 @@
+{"index": 285295, "D": "any plant, shrub, or tree belonging to the genus Cassia, of the legume family, having pinnate leaves and large clusters of flowers.", "S": [], "A": []}

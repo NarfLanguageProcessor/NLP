@@ -1,0 +1,1 @@
+{"index": 207337, "D": "of, relating to, or like a skeleton. ", "S": [], "A": []}

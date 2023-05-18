@@ -1,0 +1,1 @@
+{"index": 225260, "D": "a tall, aquatic plant, Cyperus papyrus, of the sedge family, native to the Nile valley", "S": ["card ", "note ", "pad ", "poster ", "sheet ", "stationery "], "A": []}

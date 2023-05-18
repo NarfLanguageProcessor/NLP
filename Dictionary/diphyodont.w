@@ -1,0 +1,1 @@
+{"index": 86430, "D": "having two successive sets of teeth, as most mammals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293443, "D": "any slanting surface, as a slope.", "S": [], "A": []}

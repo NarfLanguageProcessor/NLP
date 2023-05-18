@@ -1,0 +1,1 @@
+{"index": 279240, "D": "a member of a Germanic people in ancient times dwelling near the mouth of the Elbe, a portion of whom invaded and occupied parts of Britain in the 5th and 6th centuries.", "S": [], "A": []}

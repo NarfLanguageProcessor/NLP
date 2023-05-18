@@ -1,0 +1,1 @@
+{"index": 69556, "D": [], "S": ["ghastly "], "A": ["animating ", "energizing ", "harmless ", "healthful ", "healthy ", "invigorating ", "lively ", "wholesome "]}

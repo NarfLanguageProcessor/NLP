@@ -1,0 +1,1 @@
+{"index": 352944, "D": "to draw out or take out the thread  from", "S": [], "A": []}

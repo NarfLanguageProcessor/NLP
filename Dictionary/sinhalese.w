@@ -1,0 +1,1 @@
+{"index": 291763, "D": "of or relating to Sri Lanka, its native people, or their language.", "S": [], "A": []}

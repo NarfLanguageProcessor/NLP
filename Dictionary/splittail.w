@@ -1,0 +1,1 @@
+{"index": 300573, "D": "a minnow, Pogonichthys macrolepidotus, of the Sacramento River, having the upper lobe of the tail  much longer than the lower lobe", "S": [], "A": []}

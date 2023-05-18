@@ -1,0 +1,1 @@
+{"index": 89640, "D": "capable of dissolving  another substance.", "S": ["acerbic ", "acrid ", "biting "], "A": ["kind ", "nice ", "sweet "]}

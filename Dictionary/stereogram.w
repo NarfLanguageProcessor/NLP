@@ -1,0 +1,1 @@
+{"index": 303891, "D": "a diagram or picture representing objects in a way to give the impression of solidity.", "S": [], "A": []}

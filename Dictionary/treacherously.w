@@ -1,0 +1,1 @@
+{"index": 328653, "D": "in a way characterized by faithlessness or betrayal; traitorously", "S": ["deceitfully ", "dishonestly ", "disloyally ", "perfidiously ", "unfaithfully ", "unscrupulously "], "A": ["faithfully ", "harmlessly ", "honestly ", "loyally ", "safely "]}

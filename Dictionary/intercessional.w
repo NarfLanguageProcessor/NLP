@@ -1,0 +1,1 @@
+{"index": 154590, "D": "an act or instance of interceding. ", "S": [], "A": []}

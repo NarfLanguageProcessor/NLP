@@ -1,0 +1,1 @@
+{"index": 161845, "D": "any of the nonstandard dialects of Canadian French, characterized by deviations from the standard phonology, morphology, syntax, and vocabulary, and often containing many borrowings from English.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114110, "D": "to try to please by complimentary remarks or attention.", "S": ["charm "], "A": ["condemn ", "ignore "]}

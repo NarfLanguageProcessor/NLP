@@ -1,0 +1,1 @@
+{"index": 72591, "D": "a person who advocates cremation instead of burial of the dead.", "S": [], "A": []}

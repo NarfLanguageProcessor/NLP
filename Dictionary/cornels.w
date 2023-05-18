@@ -1,0 +1,1 @@
+{"index": 69259, "D": "any tree or shrub of the genus Cornus; dogwood.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 302919, "D": "a chunky, medium-sized European passerine bird, Sturnus vulgaris, of iridescent black plumage with seasonal speckles, that nests in colonies", "S": [], "A": []}

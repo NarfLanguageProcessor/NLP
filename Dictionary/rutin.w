@@ -1,0 +1,1 @@
+{"index": 275947, "D": "a bright yellow or greenish-yellow substance, C27H30O16, obtained chiefly from buckwheat, and used in the treatment of capillary fragility.", "S": [], "A": []}

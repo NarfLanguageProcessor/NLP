@@ -1,0 +1,1 @@
+{"index": 246663, "D": "any organism that exists by preying  upon other organisms", "S": ["carnivore "], "A": []}

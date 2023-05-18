@@ -1,0 +1,1 @@
+{"index": 275086, "D": "a variety of bright-red rock crystal.", "S": [], "A": []}

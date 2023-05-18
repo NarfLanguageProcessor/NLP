@@ -1,0 +1,1 @@
+{"index": 307651, "D": "sharp-edged and pointed, as a leaf.", "S": [], "A": []}

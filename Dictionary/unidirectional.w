@@ -1,0 +1,1 @@
+{"index": 344080, "D": "operating or moving in one direction only; not changing direction", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279291, "D": "to shape or dress (stone) roughly.", "S": [], "A": []}

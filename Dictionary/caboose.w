@@ -1,0 +1,1 @@
+{"index": 43996, "D": "a car on a freight train, used chiefly as the crew's quarters and usually attached to the rear of the train.", "S": ["cart ", "pram ", "shay ", "vehicle ", "wagon "], "A": []}

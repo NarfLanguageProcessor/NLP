@@ -1,0 +1,1 @@
+{"index": 240226, "D": "a person or thing that plots. ", "S": ["accomplice ", "collaborator ", "traitor "], "A": []}

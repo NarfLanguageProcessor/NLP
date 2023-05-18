@@ -1,0 +1,1 @@
+{"index": 183990, "D": "the objective case of I,  used as a direct or indirect object", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158734, "D": "a Shiah sect whose adherents believe that Ismail, son of the sixth imam, was the rightful seventh imam", "S": [], "A": []}

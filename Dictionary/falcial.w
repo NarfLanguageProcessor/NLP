@@ -1,0 +1,1 @@
+{"index": 109417, "D": "of or relating to a falx. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198090, "D": "a term used to refer to a Black woman or girl.", "S": [], "A": []}

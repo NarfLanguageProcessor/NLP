@@ -1,0 +1,1 @@
+{"index": 41157, "D": "a heavy, sturdy shoe, especially an ankle-high work shoe.", "S": ["footwear "], "A": []}

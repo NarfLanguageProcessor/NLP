@@ -1,0 +1,1 @@
+{"index": 13994, "D": "acting in opposition; opposing, especially mutually.", "S": ["combative ", "hostile ", "inimical ", "unfriendly "], "A": ["agreeable ", "friendly ", "kind ", "nice "]}

@@ -1,0 +1,1 @@
+{"index": 57274, "D": "a type of scalpel for performing a cyclotomy.", "S": [], "A": []}

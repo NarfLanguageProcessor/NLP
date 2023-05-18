@@ -1,0 +1,1 @@
+{"index": 170220, "D": "an oven used to anneal glass.", "S": [], "A": []}

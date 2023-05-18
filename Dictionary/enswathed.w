@@ -1,0 +1,1 @@
+{"index": 101138, "D": "to swathe. ", "S": ["cloak ", "clothe ", "cover ", "dangle ", "don ", "dress ", "enclose ", "envelop ", "fold ", "hang ", "sprawl ", "swathe ", "wrap "], "A": ["free ", "lay bare ", "let go ", "open ", "release ", "reveal ", "unclothe ", "uncover ", "unwrap ", "collect ", "conceal ", "continue ", "gather ", "hide ", "rise "]}

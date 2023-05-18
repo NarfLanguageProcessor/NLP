@@ -1,0 +1,1 @@
+{"index": 22252, "D": "to navigate  in outer space.", "S": [], "A": []}

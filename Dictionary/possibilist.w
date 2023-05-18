@@ -1,0 +1,1 @@
+{"index": 243882, "D": "See also geographical determinism, environmental determinism (def. 1). ", "S": [], "A": []}

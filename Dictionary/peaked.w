@@ -1,0 +1,1 @@
+{"index": 228404, "D": "having a peak", "S": ["ailing ", "emaciated ", "wan "], "A": ["blushing ", "colorful ", "flushed ", "healthy "]}

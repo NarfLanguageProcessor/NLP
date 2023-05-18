@@ -1,0 +1,1 @@
+{"index": 168090, "D": "for electromagnetic radiation  incident upon a surface, a value of energy per unit area equal to one calorie per square centimeter.", "S": [], "A": []}

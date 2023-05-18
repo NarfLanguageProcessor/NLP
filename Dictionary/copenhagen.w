@@ -1,0 +1,1 @@
+{"index": 68463, "D": "a seaport in and the capital of Denmark, on the eastern coast of Zealand.", "S": [], "A": []}

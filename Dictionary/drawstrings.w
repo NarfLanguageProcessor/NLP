@@ -1,0 +1,1 @@
+{"index": 92826, "D": "a string  or cord that tightens or closes an opening, as of a bag, clothing, or the like, when one or both ends are pulled.", "S": [], "A": []}

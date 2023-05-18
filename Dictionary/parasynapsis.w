@@ -1,0 +1,1 @@
+{"index": 226066, "D": "the conjugation of chromosomes side by side; synapsis. ", "S": [], "A": []}

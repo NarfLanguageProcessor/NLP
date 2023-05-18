@@ -1,0 +1,1 @@
+{"index": 107205, "D": "exigent  state or character; urgency.", "S": ["contingency ", "vicissitude "], "A": ["advantage ", "benefit ", "blessing ", "boon ", "calm ", "comfort ", "ease ", "good ", "good fortune ", "miracle ", "peace ", "pleasure ", "plenty ", "solution "]}

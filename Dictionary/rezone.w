@@ -1,0 +1,1 @@
+{"index": 271686, "D": "to reclassify (a property, neighborhood, etc.) as belonging to a different zone  or being subject to different zoning  restrictions.", "S": [], "A": []}

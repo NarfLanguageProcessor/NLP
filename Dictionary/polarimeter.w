@@ -1,0 +1,1 @@
+{"index": 241464, "D": "an instrument for measuring the amount of light received from a given source as a function of its state of polarization.", "S": [], "A": []}

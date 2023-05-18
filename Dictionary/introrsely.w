@@ -1,0 +1,1 @@
+{"index": 156810, "D": "turned or facing inward, as anthers that open toward the gynoecium.", "S": [], "A": []}

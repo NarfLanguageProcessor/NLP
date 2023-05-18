@@ -1,0 +1,1 @@
+{"index": 221416, "D": "to stamp a new device, value, or inscription on (a coin).", "S": [], "A": []}

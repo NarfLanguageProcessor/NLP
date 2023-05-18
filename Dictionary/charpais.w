@@ -1,0 +1,1 @@
+{"index": 52933, "D": "a light bedstead  used in India, consisting of a web of rope or tape netting.", "S": [], "A": []}

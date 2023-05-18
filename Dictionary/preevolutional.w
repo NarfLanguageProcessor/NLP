@@ -1,0 +1,1 @@
+{"index": 247373, "D": "any process of formation or growth; development", "S": [], "A": []}

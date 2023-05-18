@@ -1,0 +1,1 @@
+{"index": 169197, "D": "a person who has been honored for achieving distinction in a particular field or with a particular award", "S": ["acclaimed ", "lionized ", "revered "], "A": ["inglorious ", "obscure ", "plain ", "unknown "]}

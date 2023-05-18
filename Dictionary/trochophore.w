@@ -1,0 +1,1 @@
+{"index": 330958, "D": "a ciliate, free-swimming larva common to several groups of invertebrates, as many mollusks and rotifers.", "S": [], "A": []}

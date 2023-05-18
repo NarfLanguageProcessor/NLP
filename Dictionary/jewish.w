@@ -1,0 +1,1 @@
+{"index": 161117, "D": "of, relating to, or characteristic of the Jews or Judaism", "S": ["Hasidic ", "Hebrew ", "Judaistic ", "Semitic "], "A": []}

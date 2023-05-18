@@ -1,0 +1,1 @@
+{"index": 367411, "D": "the point at which a word is divided when it runs over from one line of print to the next", "S": [], "A": []}

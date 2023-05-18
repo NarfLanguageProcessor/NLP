@@ -1,0 +1,1 @@
+{"index": 37689, "D": "a continuous or sustained attack, as with bombs or artillery fire", "S": ["assault ", "attack ", "blitz ", "bombing ", "onslaught ", "shelling "], "A": ["defense "]}

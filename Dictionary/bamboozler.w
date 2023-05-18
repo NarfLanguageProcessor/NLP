@@ -1,0 +1,1 @@
+{"index": 27206, "D": "to deceive or get the better of (someone) by trickery, flattery, or the like; humbug; hoodwink  (often followed by into)", "S": [], "A": []}

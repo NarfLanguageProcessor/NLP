@@ -1,0 +1,1 @@
+{"index": 114102, "D": "shoes with flat heels or no heels", "S": ["co-op ", "tenement "], "A": []}

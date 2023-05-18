@@ -1,0 +1,1 @@
+{"index": 102091, "D": "the addition of a word or words to explain a preceding word or sentence.", "S": [], "A": []}

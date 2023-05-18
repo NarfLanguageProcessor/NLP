@@ -1,0 +1,1 @@
+{"index": 305085, "D": "pain in the stomach  or abdomen; colic.", "S": [], "A": []}

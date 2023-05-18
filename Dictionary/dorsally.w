@@ -1,0 +1,1 @@
+{"index": 91745, "D": "of, relating to, or situated at the back, or dorsum.", "S": [], "A": []}

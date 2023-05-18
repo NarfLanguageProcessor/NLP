@@ -1,0 +1,1 @@
+{"index": 69669, "D": "identical in all essentials or respects", "S": ["analogous ", "comparable ", "reciprocal "], "A": ["dissimilar ", "unalike ", "unlike ", "different "]}

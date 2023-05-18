@@ -1,0 +1,1 @@
+{"index": 290804, "D": "something used for or regarded as representing something else; a material object representing something, often something immaterial; emblem, token, or sign.", "S": ["ABCs ", "characters ", "elements ", "fundamentals ", "hieroglyphs ", "ideograph ", "morphemes ", "phonemes ", "pictograph ", "rune ", "signs ", "syllabary "], "A": []}

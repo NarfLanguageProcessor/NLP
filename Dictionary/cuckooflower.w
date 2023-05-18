@@ -1,0 +1,1 @@
+{"index": 74534, "D": "any of various plants, as the lady's-smock or the ragged robin.", "S": [], "A": []}

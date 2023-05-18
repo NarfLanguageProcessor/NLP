@@ -1,0 +1,1 @@
+{"index": 266649, "D": "the act of making someone young again or restoring them to youthful vigor", "S": ["renewal ", "resurgence ", "revitalization ", "revival "], "A": ["destruction "]}

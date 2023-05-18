@@ -1,0 +1,1 @@
+{"index": 136571, "D": "a Neolithic monument of the British Isles, consisting of a circular area enclosed by a bank and ditch and often containing additional features including one or more circles of upright stone or wood pillars", "S": [], "A": []}

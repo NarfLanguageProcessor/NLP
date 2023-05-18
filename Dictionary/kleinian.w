@@ -1,0 +1,1 @@
+{"index": 165324, "D": "referring to the theories formulated by Austrian child psychiatrist Melanie Klein (1882\u20131960).", "S": [], "A": []}

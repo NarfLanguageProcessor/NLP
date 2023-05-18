@@ -1,0 +1,1 @@
+{"index": 363084, "D": "a person who keeps guard over a building at night, to protect it from fire, vandals, or thieves.", "S": [], "A": []}

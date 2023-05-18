@@ -1,0 +1,1 @@
+{"index": 107587, "D": "to enlarge in discourse or writing; be copious in description or discussion", "S": [], "A": []}

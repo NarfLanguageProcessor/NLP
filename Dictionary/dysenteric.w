@@ -1,0 +1,1 @@
+{"index": 87983, "D": "an infectious disease marked by inflammation and ulceration of the lower part of the bowels, with diarrhea  that becomes mucous and hemorrhagic.", "S": [], "A": []}

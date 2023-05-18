@@ -1,0 +1,1 @@
+{"index": 114208, "D": "a colorless, crystalline, water-insoluble compound, C15H10O2, the parent substance of a group of naturally occurring derivatives some of which have been used as yellow dyes.", "S": [], "A": []}

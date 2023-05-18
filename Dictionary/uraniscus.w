@@ -1,0 +1,1 @@
+{"index": 355299, "D": "a starlike ornament, as in a coffer of a ceiling.", "S": [], "A": []}

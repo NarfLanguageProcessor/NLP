@@ -1,0 +1,1 @@
+{"index": 72377, "D": "a Californian plant, Platystemon californicus, of the poppy family, having narrow leaves and small, pale-yellow or cream-colored flowers.", "S": [], "A": []}

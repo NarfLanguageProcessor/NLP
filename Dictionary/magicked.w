@@ -1,0 +1,1 @@
+{"index": 177415, "D": "the art of producing illusions as entertainment by the use of sleight of hand, deceptive devices, etc.; legerdemain; conjuring", "S": [], "A": []}

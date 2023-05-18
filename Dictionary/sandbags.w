@@ -1,0 +1,1 @@
+{"index": 277723, "D": "a bag  filled with sand,  used in fortification, as ballast, etc.", "S": ["equilibrium "], "A": ["instability "]}

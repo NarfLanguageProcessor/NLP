@@ -1,0 +1,1 @@
+{"index": 268630, "D": "to make a copy, representation, duplicate, or close imitation of", "S": ["clone ", "copy ", "duplicate ", "emulate ", "imitate ", "mirror ", "photocopy ", "portray ", "print ", "recreate ", "reflect ", "repeat ", "replicate ", "reprint "], "A": ["abort ", "destroy ", "kill ", "stop "]}

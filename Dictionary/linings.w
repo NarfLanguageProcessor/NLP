@@ -1,0 +1,1 @@
+{"index": 172922, "D": "something that is used to line another thing; a layer of material on the inner side or surface of something.", "S": ["covering "], "A": []}

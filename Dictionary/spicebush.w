@@ -1,0 +1,1 @@
+{"index": 299638, "D": "a yellow-flowered, North American shrub, Lindera benzoin, of the laurel family, whose bark and leaves have a spicy odor.", "S": [], "A": []}

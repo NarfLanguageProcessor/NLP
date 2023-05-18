@@ -1,0 +1,1 @@
+{"index": 239769, "D": "the phenomenon of one gene being responsible for or affecting more than one phenotypic characteristic.", "S": [], "A": []}

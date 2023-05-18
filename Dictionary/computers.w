@@ -1,0 +1,1 @@
+{"index": 64994, "D": "Compare analog computer, digital computer. ", "S": ["VCRs ", "camcorders ", "radios ", "stereos ", "televisions ", "transistors "], "A": []}

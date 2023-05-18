@@ -1,0 +1,1 @@
+{"index": 104909, "D": "light, airy, or tenuous", "S": ["elegance ", "fragility ", "lightness ", "subtlety ", "tenderness "], "A": ["strength "]}

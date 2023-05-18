@@ -1,0 +1,1 @@
+{"index": 338655, "D": "injurious to health", "S": [], "A": []}

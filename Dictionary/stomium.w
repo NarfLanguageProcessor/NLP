@@ -1,0 +1,1 @@
+{"index": 305160, "D": "the part of the sporangium of ferns that ruptures to release the spores", "S": [], "A": []}

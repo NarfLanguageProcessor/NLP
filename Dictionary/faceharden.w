@@ -1,0 +1,1 @@
+{"index": 108940, "D": "to harden the surface of (metal), as by chilling or casehardening.", "S": [], "A": []}

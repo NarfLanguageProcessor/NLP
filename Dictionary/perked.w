@@ -1,0 +1,1 @@
+{"index": 231529, "D": "to become lively, cheerful, or vigorous, as after depression or sickness (usually followed by up)", "S": ["bubble ", "filter ", "ooze ", "permeate ", "pervade "], "A": ["take out "]}

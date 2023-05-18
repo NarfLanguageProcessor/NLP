@@ -1,0 +1,1 @@
+{"index": 4740, "D": "the right of presentation of a candidate to a benefice or church office.", "S": [], "A": []}

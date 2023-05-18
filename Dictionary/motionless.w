@@ -1,0 +1,1 @@
+{"index": 193989, "D": "without motion", "S": ["frozen ", "immobile ", "inert ", "lifeless ", "paralyzed ", "stagnant ", "stationary ", "steadfast "], "A": ["alive ", "lively ", "mobile ", "moving ", "unfixed "]}

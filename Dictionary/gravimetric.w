@@ -1,0 +1,1 @@
+{"index": 129377, "D": "of or relating to measurement by weight.", "S": [], "A": []}

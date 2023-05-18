@@ -1,0 +1,1 @@
+{"index": 369095, "D": "of, relating to, or like a zephyr;  full of or containing light breezes.", "S": [], "A": []}

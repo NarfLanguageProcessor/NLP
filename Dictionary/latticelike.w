@@ -1,0 +1,1 @@
+{"index": 169071, "D": "a structure of crossed wooden or metal strips usually arranged to form a diagonal pattern of open spaces between the strips.", "S": [], "A": []}

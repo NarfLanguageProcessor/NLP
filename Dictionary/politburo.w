@@ -1,0 +1,1 @@
+{"index": 242500, "D": "the executive committee and chief policymaking body of a Communist Party.", "S": [], "A": []}

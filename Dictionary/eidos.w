@@ -1,0 +1,1 @@
+{"index": 96349, "D": "the formal content of a culture, encompassing its system of ideas, criteria for interpreting experience, etc.", "S": [], "A": []}

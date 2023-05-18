@@ -1,0 +1,1 @@
+{"index": 130535, "D": "any of several spiny-trunked, tropical feather palms, as Acrocomia totai, of tropical America, having a swollen trunk with rings of blackish spines.", "S": [], "A": []}

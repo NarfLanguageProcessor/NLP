@@ -1,0 +1,1 @@
+{"index": 171155, "D": "any of several diseases occurring chiefly in chickens, involving proliferation of the leukocytes and characterized by paralysis, blindness, formation of tumors in the internal organs, and bone calcification.", "S": [], "A": []}

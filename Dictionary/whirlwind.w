@@ -1,0 +1,1 @@
+{"index": 364998, "D": "a relatively small mass of air rotating rapidly around a more or less vertical axis and simultaneously advancing over land or sea", "S": ["lightning ", "quick ", "rapid ", "rash ", "short ", "swift "], "A": ["slow ", "sluggish "]}

@@ -1,0 +1,1 @@
+{"index": 179093, "D": "the souls of the dead; shades.", "S": ["demon ", "devil ", "phantom ", "shadow ", "soul ", "specter ", "vampire ", "vision "], "A": ["living being "]}

@@ -1,0 +1,1 @@
+{"index": 329560, "D": "to flow or fall by drops, or in a small, gentle stream", "S": [], "A": []}

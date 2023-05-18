@@ -1,0 +1,1 @@
+{"index": 157870, "D": "a republic in SW Asia. About 635,000 sq. mi. (1,644,650 sq. km). Capital", "S": [], "A": []}

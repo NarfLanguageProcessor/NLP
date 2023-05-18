@@ -1,0 +1,1 @@
+{"index": 222471, "D": "either of two African starlings of the genus Buphagus, characterized by their habit of riding on large, wild animals and domestic cattle to feed on ticks.", "S": [], "A": []}

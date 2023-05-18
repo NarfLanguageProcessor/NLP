@@ -1,0 +1,1 @@
+{"index": 158491, "D": "to excite to impatience or anger; annoy.", "S": [], "A": []}

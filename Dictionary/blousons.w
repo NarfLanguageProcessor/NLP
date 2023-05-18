@@ -1,0 +1,1 @@
+{"index": 36589, "D": "a woman's outer garment having a drawstring, belt, or similar closing, at or below the waist, which causes it to blouse.", "S": [], "A": []}

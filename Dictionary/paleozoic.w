@@ -1,0 +1,1 @@
+{"index": 223800, "D": "noting or pertaining to an era occurring between 570 million and 230 million years ago, characterized by the advent of fish, insects, and reptiles.", "S": [], "A": []}

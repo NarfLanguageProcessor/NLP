@@ -1,0 +1,1 @@
+{"index": 338501, "D": "pertaining to or characterized by declamation. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226399, "D": "in the place or role of a parent.", "S": [], "A": []}

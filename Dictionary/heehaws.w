@@ -1,0 +1,1 @@
+{"index": 135271, "D": "the braying sound made by a donkey.", "S": ["amusement ", "cachinnation ", "cackle ", "chortle ", "chuckle ", "chuckling ", "giggle ", "giggling ", "glee ", "guffaw ", "hilarity ", "howling ", "laughter ", "merriment ", "mirth ", "peal ", "rejoicing ", "roar ", "snicker ", "snigger ", "snort ", "titter ", "yuck "], "A": []}

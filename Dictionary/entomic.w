@@ -1,0 +1,1 @@
+{"index": 101515, "D": "denoting or relating to insects", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256704, "D": "a passive or submissive male inmate, especially one who is used for sex by another male inmate.", "S": ["amiss ", "crummy ", "dirty ", "diseased ", "lousy ", "nasty ", "sour ", "unlucky ", "unpleasant "], "A": ["agreeable ", "clean ", "friendly ", "good ", "great ", "happy ", "magnificent ", "moral ", "pleasant ", "pleasing ", "wonderful "]}

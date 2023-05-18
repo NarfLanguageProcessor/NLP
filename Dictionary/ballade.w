@@ -1,0 +1,1 @@
+{"index": 26893, "D": "a poem consisting commonly of three stanzas having an identical rhyme scheme, followed by an envoy, and having the same last line for each of the stanzas and the envoy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367713, "D": "without worth;  of no use, importance, or value; good-for-nothing", "S": ["impracticality ", "inadequacy ", "inefficiency "], "A": ["worth "]}

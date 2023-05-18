@@ -1,0 +1,1 @@
+{"index": 365243, "D": "any of several trees or shrubs having clusters of white flowers, such as the guelder rose, mountain ash,  or wayfaring tree. ", "S": [], "A": []}

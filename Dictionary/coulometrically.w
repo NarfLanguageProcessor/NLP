@@ -1,0 +1,1 @@
+{"index": 70537, "D": "a method used in quantitative analysis, whereby the amount of a substance set free or deposited during electrolysis is determined by measuring the number of coulombs  that passed through the electrolyte.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310884, "D": "black ink made from a mixture of plant soot and glue solidified into sticks or cakes the ends of which are scraped or ground into water on an ink slab, much used by calligraphers and painters.", "S": [], "A": []}

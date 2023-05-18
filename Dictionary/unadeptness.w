@@ -1,0 +1,1 @@
+{"index": 334579, "D": "the quality or fact of being highly skilled or expert at something; proficiency", "S": [], "A": []}

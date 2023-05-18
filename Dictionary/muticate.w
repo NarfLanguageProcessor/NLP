@@ -1,0 +1,1 @@
+{"index": 196262, "D": "having no pointed process or awn; awnless.", "S": [], "A": []}

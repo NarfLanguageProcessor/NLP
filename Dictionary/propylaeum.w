@@ -1,0 +1,1 @@
+{"index": 252663, "D": "a vestibule or entrance to a temple area or other enclosure, especially when elaborate or of architectural importance.", "S": [], "A": []}

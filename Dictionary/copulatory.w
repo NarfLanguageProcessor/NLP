@@ -1,0 +1,1 @@
+{"index": 68731, "D": "to engage in sexual intercourse.", "S": [], "A": []}

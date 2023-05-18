@@ -1,0 +1,1 @@
+{"index": 262025, "D": "agreeable to reason  or sound judgment; logical", "S": ["fairly ", "honestly ", "intelligently ", "judiciously ", "justly ", "logically ", "rationally ", "sensibly ", "wisely "], "A": ["foolishly ", "stupidly ", "unfairly ", "unjustly "]}

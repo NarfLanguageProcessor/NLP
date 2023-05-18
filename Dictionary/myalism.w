@@ -1,0 +1,1 @@
+{"index": 185630, "D": "a kind of witchcraft, similar to obi, practised esp in the Caribbean", "S": [], "A": []}

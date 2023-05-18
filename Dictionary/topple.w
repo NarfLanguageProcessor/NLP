@@ -1,0 +1,1 @@
+{"index": 325989, "D": "to fall forward, as from having too heavy a top; pitch; tumble down.", "S": ["collapse ", "oust ", "overturn ", "plunge ", "tumble ", "unseat ", "upset "], "A": ["hold ", "increase ", "rise ", "ascend ", "lose "]}

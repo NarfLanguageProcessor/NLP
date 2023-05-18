@@ -1,0 +1,1 @@
+{"index": 325576, "D": "a medicine that invigorates or strengthens", "S": [], "A": []}

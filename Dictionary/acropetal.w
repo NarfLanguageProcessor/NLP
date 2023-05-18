@@ -1,0 +1,1 @@
+{"index": 3004, "D": "(of an inflorescence) developing upward, toward the apex.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110976, "D": "to compliment upon a happy event; congratulate. ", "S": ["commend ", "compliment ", "praise ", "recommend ", "salute "], "A": ["blame ", "censure ", "criticize ", "denounce ", "disapprove "]}

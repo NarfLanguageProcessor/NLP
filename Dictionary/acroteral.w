@@ -1,0 +1,1 @@
+{"index": 3055, "D": "a pedestal for a sculpture or ornament at each base or at the apex of a pediment.", "S": [], "A": []}

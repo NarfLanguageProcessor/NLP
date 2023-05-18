@@ -1,0 +1,1 @@
+{"index": 69896, "D": "to emit vivid flashes of light; sparkle; scintillate; gleam. ", "S": ["blazing ", "brilliant ", "dazzling ", "flashing ", "glistening ", "glittering ", "golden ", "intense ", "luminous ", "radiant ", "shimmering ", "shiny ", "silvery ", "sparkling ", "sunny ", "vivid "], "A": ["cloudy ", "dark ", "dim ", "dull ", "gloomy "]}

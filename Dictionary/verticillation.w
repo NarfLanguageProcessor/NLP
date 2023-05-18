@@ -1,0 +1,1 @@
+{"index": 358894, "D": "disposed in or forming verticils  or whorls, as flowers or hairs.", "S": [], "A": []}

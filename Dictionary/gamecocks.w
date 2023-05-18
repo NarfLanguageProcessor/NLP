@@ -1,0 +1,1 @@
+{"index": 121670, "D": "a rooster of a fighting breed, or one bred and trained for fighting.", "S": [], "A": []}

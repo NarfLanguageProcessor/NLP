@@ -1,0 +1,1 @@
+{"index": 303323, "D": "of or relating to suet or fat.", "S": [], "A": []}

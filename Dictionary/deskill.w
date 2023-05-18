@@ -1,0 +1,1 @@
+{"index": 82669, "D": "to remove any need of skill,  judgment, or initiative in", "S": [], "A": []}

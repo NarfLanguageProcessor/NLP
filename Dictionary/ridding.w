@@ -1,0 +1,1 @@
+{"index": 272632, "D": "to clear, disencumber, or free of something objectionable (usually followed by of)", "S": ["clear ", "eliminate ", "eradicate ", "liberate ", "purge ", "relieve ", "unload "], "A": ["condemn ", "keep ", "bear ", "create ", "hold ", "maintain ", "plant ", "save ", "sow ", "take in "]}

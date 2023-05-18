@@ -1,0 +1,1 @@
+{"index": 241691, "D": "having many centers, especially of power or importance", "S": [], "A": []}

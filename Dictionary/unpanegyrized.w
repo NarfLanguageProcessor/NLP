@@ -1,0 +1,1 @@
+{"index": 347393, "D": "to deliver or write a panegyric about; eulogize.", "S": [], "A": []}

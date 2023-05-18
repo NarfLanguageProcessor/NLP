@@ -1,0 +1,1 @@
+{"index": 171780, "D": "a removable or hinged cover for closing the opening, usually at the top, of a pot, jar, trunk, etc.; a movable cover.", "S": ["camouflaged ", "capped ", "closed ", "coated ", "concealed ", "enclosed ", "hidden ", "painted ", "protected ", "shielded ", "topped ", "wrapped "], "A": ["bare ", "exposed ", "open ", "uncovered ", "unmasked "]}

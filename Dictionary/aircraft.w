@@ -1,0 +1,1 @@
+{"index": 6869, "D": "any machine supported for flight in the air by buoyancy or by the dynamic action of air on its surfaces, especially powered airplanes, gliders, and helicopters.", "S": ["airliner ", "balloon ", "chopper ", "helicopter ", "jet "], "A": []}

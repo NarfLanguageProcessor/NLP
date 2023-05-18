@@ -1,0 +1,1 @@
+{"index": 212929, "D": "a province in southern Canada, bordering on the Great Lakes.  412,582 square miles (1,068,585 square kilometers). Capital", "S": [], "A": []}

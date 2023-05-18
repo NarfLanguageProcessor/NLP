@@ -1,0 +1,1 @@
+{"index": 337158, "D": "the box or case in which the body of a dead person is placed for burial; casket.", "S": [], "A": []}

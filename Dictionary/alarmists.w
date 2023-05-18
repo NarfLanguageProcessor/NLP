@@ -1,0 +1,1 @@
+{"index": 7343, "D": "a person who tends to raise alarms,  especially without sufficient reason, as by exaggerating dangers or prophesying calamities.", "S": ["pessimist "], "A": []}

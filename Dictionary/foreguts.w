@@ -1,0 +1,1 @@
+{"index": 116689, "D": "the first portion of the alimentary canal in arthropods and annelids, composed of ectodermal, chitin-lined tissue and usually comprising the pharynx, esophagus, crop, and gizzard.", "S": [], "A": []}

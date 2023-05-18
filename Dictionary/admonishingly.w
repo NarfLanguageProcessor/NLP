@@ -1,0 +1,1 @@
+{"index": 4224, "D": "to caution, advise, or counsel against something.", "S": [], "A": []}

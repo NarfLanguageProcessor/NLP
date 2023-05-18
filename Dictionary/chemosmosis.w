@@ -1,0 +1,1 @@
+{"index": 53746, "D": "chemical action between substances that occurs through an intervening, semipermeable membrane.", "S": [], "A": []}

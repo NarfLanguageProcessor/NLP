@@ -1,0 +1,1 @@
+{"index": 49501, "D": "a person who catechizes. ", "S": ["examining ", "heuristic ", "interested ", "interrogative ", "probing ", "prying ", "questioning ", "searching "], "A": ["disinterested ", "incurious ", "unskeptical "]}

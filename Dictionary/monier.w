@@ -1,0 +1,1 @@
+{"index": 191967, "D": "any circulating medium of exchange, including coins, paper money,  and demand deposits.", "S": [], "A": []}

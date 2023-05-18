@@ -1,0 +1,1 @@
+{"index": 109819, "D": "an archaic spelling of phantom", "S": [], "A": []}

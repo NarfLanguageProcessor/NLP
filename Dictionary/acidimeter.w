@@ -1,0 +1,1 @@
+{"index": 2429, "D": "an instrument for measuring the amount of acid  in a solution.", "S": [], "A": []}

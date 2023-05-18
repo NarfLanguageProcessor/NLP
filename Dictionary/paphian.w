@@ -1,0 +1,1 @@
+{"index": 225186, "D": "of or relating to Paphos, an ancient city of Cyprus sacred to Aphrodite.", "S": [], "A": []}

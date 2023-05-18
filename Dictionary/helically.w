@@ -1,0 +1,1 @@
+{"index": 135486, "D": "pertaining to or having the form of a helix;  spiral.", "S": [], "A": []}

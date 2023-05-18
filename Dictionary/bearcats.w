@@ -1,0 +1,1 @@
+{"index": 29522, "D": "a person or thing that fights or acts with force or fierceness.", "S": [], "A": []}

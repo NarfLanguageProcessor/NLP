@@ -1,0 +1,1 @@
+{"index": 284861, "D": "firmly resolved or determined; set in purpose or opinion", "S": [], "A": []}

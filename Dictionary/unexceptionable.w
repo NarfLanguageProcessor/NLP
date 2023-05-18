@@ -1,0 +1,1 @@
+{"index": 341633, "D": "not offering any basis for exception or objection; beyond criticism", "S": ["bright ", "exquisite ", "flawless ", "impeccable ", "neat ", "snowy ", "spotless "], "A": ["defective ", "dull ", "flawed ", "horrible ", "imperfect "]}

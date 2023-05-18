@@ -1,0 +1,1 @@
+{"index": 329647, "D": "having three fingers or toes, as certain reptiles.", "S": [], "A": []}

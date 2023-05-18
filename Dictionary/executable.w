@@ -1,0 +1,1 @@
+{"index": 106952, "D": "(of a computer program) able to be run", "S": [], "A": []}

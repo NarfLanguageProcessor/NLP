@@ -1,0 +1,1 @@
+{"index": 362192, "D": "an easy victory or conquest.", "S": ["breeze ", "rout ", "victory "], "A": []}

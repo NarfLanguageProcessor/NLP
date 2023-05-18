@@ -1,0 +1,1 @@
+{"index": 326537, "D": "walking unsteadily or shakily.", "S": ["dizzy ", "fluctuating ", "moving ", "suspect ", "teetering ", "unsettled ", "vacillating ", "wavering ", "weaving "], "A": []}

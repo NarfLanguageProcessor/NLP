@@ -1,0 +1,1 @@
+{"index": 240372, "D": "resembling a feather, as a hair or bristle that bears smaller hairs.", "S": ["featherlike ", "feathery ", "fleecy ", "fuzzy ", "light ", "plumose ", "pubescent ", "silky ", "soft ", "velutinous ", "velvety ", "woolly "], "A": []}

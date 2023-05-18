@@ -1,0 +1,1 @@
+{"index": 70896, "D": "a person who waits on customers from behind a counter,  as in a cafeteria.", "S": [], "A": []}

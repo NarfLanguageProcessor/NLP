@@ -1,0 +1,1 @@
+{"index": 219920, "D": "an excessive issue  of stocks or bonds, as in excess of the needs of the business or in excess of charter authorization.", "S": [], "A": []}

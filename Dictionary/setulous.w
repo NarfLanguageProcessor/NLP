@@ -1,0 +1,1 @@
+{"index": 286704, "D": "having or covered with setulae. ", "S": [], "A": []}

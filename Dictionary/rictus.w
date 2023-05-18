@@ -1,0 +1,1 @@
+{"index": 272617, "D": "the gape of the mouth of a bird.", "S": [], "A": []}

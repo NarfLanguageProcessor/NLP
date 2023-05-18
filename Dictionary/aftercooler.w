@@ -1,0 +1,1 @@
+{"index": 5647, "D": "a device for cooling compressed air or gases to reduce their volume or temperature.", "S": [], "A": []}

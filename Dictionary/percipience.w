@@ -1,0 +1,1 @@
+{"index": 230440, "D": "perceiving  or capable of perceiving. ", "S": ["acumen ", "astuteness ", "clear-sightedness ", "discrimination ", "eye ", "insight ", "judgment ", "keenness ", "nose ", "penetration ", "perceptiveness ", "percipiency ", "perspicacity ", "sagacity ", "sageness ", "shrewdness ", "understanding ", "wit "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248673, "D": "hostile or resistant (usually followed by to)", "S": [], "A": []}

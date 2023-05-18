@@ -1,0 +1,1 @@
+{"index": 12340, "D": "a republic in the E Pyrenees between France and Spain, under the joint suzerainty of France and the Spanish Bishop of Urgel. 191 sq. mi. (495 sq. km).", "S": [], "A": []}

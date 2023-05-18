@@ -1,0 +1,1 @@
+{"index": 194428, "D": "the act of leveling or cutting down grass, grain, etc., with a mowing machine  or scythe.", "S": ["shear ", "trim "], "A": []}

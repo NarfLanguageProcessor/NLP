@@ -1,0 +1,1 @@
+{"index": 187357, "D": "a unit of radioactivity equal to one thousandth of a curie;  3.70 \u00d7 107 disintegrations per second. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226949, "D": "the rear section of seats, and sometimes also the side sections, of the main floor of a theater, concert hall, or opera house.", "S": [], "A": []}

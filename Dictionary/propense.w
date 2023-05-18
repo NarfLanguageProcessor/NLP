@@ -1,0 +1,1 @@
+{"index": 252584, "D": "having a tendency toward; prone; inclined.", "S": [], "A": []}

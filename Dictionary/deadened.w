@@ -1,0 +1,1 @@
+{"index": 77448, "D": "to make less sensitive, active, energetic, or forcible; weaken", "S": ["asleep ", "insensible ", "insensitive ", "unresponsive ", "wooden "], "A": []}

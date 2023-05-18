@@ -1,0 +1,1 @@
+{"index": 359808, "D": "a musical stringed instrument of India, made of rosewood or ebony, consisting of a long, hollow, fretted stick to which one, two, or three gourds are attached to increase the resonance.", "S": [], "A": []}

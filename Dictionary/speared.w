@@ -1,0 +1,1 @@
+{"index": 298711, "D": "a long, stabbing weapon for thrusting or throwing, consisting of a wooden shaft to which a sharp-pointed head, as of iron or steel, is attached.", "S": ["crack ", "drill ", "enter ", "go through ", "infiltrate ", "invade ", "pass through ", "permeate ", "pervade ", "puncture ", "seep "], "A": ["surrender ", "yield ", "retreat "]}

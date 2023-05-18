@@ -1,0 +1,1 @@
+{"index": 109934, "D": "improbable; not naturally pertinent; being only remotely connected; forced; strained", "S": ["bizarre ", "dubious ", "fantastic ", "fishy ", "implausible ", "improbable ", "preposterous ", "strange ", "unrealistic "], "A": ["believable ", "common ", "familiar ", "likely ", "normal ", "plausible ", "probable ", "reasonable ", "sensible ", "usual "]}

@@ -1,0 +1,1 @@
+{"index": 333665, "D": "denoting or pertaining to an ethnological group including the Magyars and related peoples of western Siberia.", "S": [], "A": []}

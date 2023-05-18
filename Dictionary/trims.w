@@ -1,0 +1,1 @@
+{"index": 330092, "D": "to put into a neat or orderly condition by clipping, paring, pruning, etc.", "S": ["compact ", "dapper ", "snug ", "streamlined ", "tidy ", "well-groomed "], "A": ["dirty ", "sloppy ", "untidy "]}

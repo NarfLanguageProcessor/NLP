@@ -1,0 +1,1 @@
+{"index": 145746, "D": "a stick  a yard  long, commonly marked with subdivisions, used for measuring.", "S": ["barometer ", "benchmark ", "criterion ", "indicator ", "norm "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109527, "D": "not true or correct; erroneous", "S": ["maliciously "], "A": ["honestly ", "truthfully "]}

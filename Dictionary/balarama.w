@@ -1,0 +1,1 @@
+{"index": 26734, "D": "the elder brother of Krishna and an incarnation of Vishnu.", "S": [], "A": []}

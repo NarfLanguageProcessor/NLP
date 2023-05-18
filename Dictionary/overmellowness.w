@@ -1,0 +1,1 @@
+{"index": 220224, "D": "soft, sweet, and full-flavored from ripeness, as fruit.", "S": [], "A": []}

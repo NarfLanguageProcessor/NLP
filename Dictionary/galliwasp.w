@@ -1,0 +1,1 @@
+{"index": 121430, "D": "any of numerous scaly marsh lizards of the genus Diploglossus, inhabiting Central America and the West Indies.", "S": [], "A": []}

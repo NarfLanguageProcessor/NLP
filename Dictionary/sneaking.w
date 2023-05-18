@@ -1,0 +1,1 @@
+{"index": 295400, "D": "acting in a furtive or underhand way.", "S": ["arch ", "bluffing ", "calculating ", "conniving ", "crooked ", "designing ", "dissembling ", "intriguing ", "mean ", "plotting ", "scheming ", "slick ", "smart ", "smooth "], "A": ["aboveboard ", "artless ", "honest "]}

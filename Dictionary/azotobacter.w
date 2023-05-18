@@ -1,0 +1,1 @@
+{"index": 25370, "D": "any of several rod-shaped or spherical soil bacteria of the genus Azotobacter, important as nitrogen fixers.", "S": [], "A": []}

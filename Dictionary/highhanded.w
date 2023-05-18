@@ -1,0 +1,1 @@
+{"index": 139255, "D": "condescending or presumptuous; overbearing; arbitrary", "S": ["autocratic "], "A": ["circumspect ", "democratic ", "rational ", "reasonable ", "reasoned ", "supported "]}

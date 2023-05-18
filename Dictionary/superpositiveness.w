@@ -1,0 +1,1 @@
+{"index": 312443, "D": "explicitly stated, stipulated, or expressed", "S": [], "A": []}

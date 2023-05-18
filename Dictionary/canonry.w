@@ -1,0 +1,1 @@
+{"index": 46516, "D": "the office or benefice of a canon. ", "S": ["priesthood "], "A": []}

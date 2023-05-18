@@ -1,0 +1,1 @@
+{"index": 254952, "D": "a fictitious name used especially by an author to conceal their identity; pen name.", "S": ["alias ", "stage name "], "A": ["name "]}

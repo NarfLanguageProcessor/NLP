@@ -1,0 +1,1 @@
+{"index": 121565, "D": "the method or process of determining the strength of electric currents.", "S": [], "A": []}

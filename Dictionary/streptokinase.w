@@ -1,0 +1,1 @@
+{"index": 306106, "D": "an enzyme used to dissolve blood clots.", "S": [], "A": []}

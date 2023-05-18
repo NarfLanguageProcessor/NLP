@@ -1,0 +1,1 @@
+{"index": 35772, "D": "impious utterance or action concerning God or sacred things.", "S": ["desecration ", "heresy "], "A": ["respect "]}

@@ -1,0 +1,1 @@
+{"index": 360140, "D": "Vergilian. ", "S": ["classic ", "humanistic "], "A": ["complicated ", "modern "]}

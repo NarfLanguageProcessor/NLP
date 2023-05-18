@@ -1,0 +1,1 @@
+{"index": 363401, "D": "any of several small Old World finches, especially of the genus Estrilda, that have white, pink, or red bills  of waxy appearance and are often kept as cage birds.", "S": [], "A": []}

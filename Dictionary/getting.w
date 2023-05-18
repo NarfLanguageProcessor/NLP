@@ -1,0 +1,1 @@
+{"index": 124450, "D": "to receive or come to have possession, use, or enjoyment of", "S": ["appropriating ", "assimilating ", "capturing ", "catching ", "clutching ", "earning ", "gaining ", "grasping ", "mastering ", "obtaining ", "pursuing ", "securing ", "seizing ", "snatching ", "taking ", "winning "], "A": ["abandoning ", "giving up ", "losing ", "refusal ", "rejecting "]}

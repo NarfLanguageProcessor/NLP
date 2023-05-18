@@ -1,0 +1,1 @@
+{"index": 292668, "D": "manner of being situated;  location or position with reference to environment", "S": [], "A": []}

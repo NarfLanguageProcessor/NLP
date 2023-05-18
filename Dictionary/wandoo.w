@@ -1,0 +1,1 @@
+{"index": 362379, "D": "an Australian tree, Eucalyptus redunca, having hard, heavy wood valued as timber.", "S": [], "A": []}

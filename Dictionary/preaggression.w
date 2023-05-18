@@ -1,0 +1,1 @@
+{"index": 245623, "D": "the action of a state in violating by force the rights of another state, particularly its territorial rights; an unprovoked offensive, attack, invasion, or the like", "S": [], "A": []}

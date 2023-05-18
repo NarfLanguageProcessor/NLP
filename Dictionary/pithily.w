@@ -1,0 +1,1 @@
+{"index": 238321, "D": "brief, forceful, and meaningful in expression; full of vigor, substance, or meaning; terse; forcible", "S": [], "A": []}

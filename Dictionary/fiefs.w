@@ -1,0 +1,1 @@
+{"index": 112317, "D": "a fee or feud held of a feudal lord; a tenure of land subject to feudal obligations.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205027, "D": "of or belonging to language", "S": [], "A": []}

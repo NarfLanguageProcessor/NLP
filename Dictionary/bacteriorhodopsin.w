@@ -1,0 +1,1 @@
+{"index": 26104, "D": "a protein complex in the membrane of halobacteria that conducts a unique form of photosynthesis, employing the light-sensitive pigment retinal rather than the chlorophyll used by all other known photosynthetic organisms.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316292, "D": "a hoodlike piece of heavy leather around the front of the stirrup of a stock or range saddle to protect the rider's foot.", "S": [], "A": []}

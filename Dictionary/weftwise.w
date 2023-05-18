@@ -1,0 +1,1 @@
+{"index": 363851, "D": "in a horizontal direction; from selvage to selvage; crosswise.", "S": [], "A": []}

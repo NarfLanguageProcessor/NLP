@@ -1,0 +1,1 @@
+{"index": 189473, "D": "to furnish with knowledge, especially by a systematic method; teach; train; educate. ", "S": ["deceive ", "mislead ", "misrepresent ", "promote "], "A": ["tell the truth "]}

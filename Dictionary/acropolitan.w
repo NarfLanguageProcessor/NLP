@@ -1,0 +1,1 @@
+{"index": 3017, "D": "the citadel or high fortified area of an ancient Greek city.", "S": [], "A": []}

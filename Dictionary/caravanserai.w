@@ -1,0 +1,1 @@
+{"index": 47399, "D": "(in some Eastern countries esp formerly) a large inn enclosing a courtyard providing accommodation for caravans", "S": [], "A": []}

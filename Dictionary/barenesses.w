@@ -1,0 +1,1 @@
+{"index": 27920, "D": "without covering or clothing; naked; nude", "S": ["dishabille ", "nakedness ", "nudity ", "starkness ", "undress "], "A": ["clothed "]}

@@ -1,0 +1,1 @@
+{"index": 315057, "D": "of, relating to, or characteristic of Publius Cornelius Tacitus.", "S": [], "A": []}

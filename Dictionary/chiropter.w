@@ -1,0 +1,1 @@
+{"index": 54810, "D": "any mammal of the order Chiroptera, comprising the bats.", "S": [], "A": []}

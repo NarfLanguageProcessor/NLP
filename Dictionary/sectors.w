@@ -1,0 +1,1 @@
+{"index": 282883, "D": "a plane figure bounded by two radii and the included arc of a circle.", "S": ["district ", "part ", "region ", "zone "], "A": ["whole "]}

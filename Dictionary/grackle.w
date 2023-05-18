@@ -1,0 +1,1 @@
+{"index": 128510, "D": "any of several long-tailed American birds of the family Icteridae, especially of the genus Quiscalus, having usually iridescent black plumage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93344, "D": "a device for making large forgings in which a heavy object is allowed to fall vertically upon a piece of work placed on an anvil or between dies.", "S": [], "A": []}

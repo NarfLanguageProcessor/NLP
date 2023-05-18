@@ -1,0 +1,1 @@
+{"index": 218945, "D": "the concept that a single emotional symptom or event, as a dream or a slip of the tongue, may be caused by more than one factor.", "S": [], "A": []}

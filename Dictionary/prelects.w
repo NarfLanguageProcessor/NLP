@@ -1,0 +1,1 @@
+{"index": 248194, "D": "to lecture or discourse publicly.", "S": ["chalk talk ", "discourse ", "dissertation ", "lecture ", "oration ", "pep talk ", "pitch ", "sermon ", "soapbox ", "speak ", "spiel ", "talk "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340080, "D": "Compare living wage, minimum wage. ", "S": [], "A": []}

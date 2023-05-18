@@ -1,0 +1,1 @@
+{"index": 322172, "D": "a compact branching inflorescence, as of the lilac, in which the main axis is indeterminate and the lateral axes are determinate.", "S": [], "A": []}

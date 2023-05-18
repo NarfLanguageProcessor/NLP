@@ -1,0 +1,1 @@
+{"index": 2496, "D": "the introduction into a chemical compound of an acyl group", "S": [], "A": []}

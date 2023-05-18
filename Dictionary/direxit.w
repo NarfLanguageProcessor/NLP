@@ -1,0 +1,1 @@
+{"index": 86811, "D": "he supervised (this); she supervised (this). Abbreviation", "S": [], "A": []}

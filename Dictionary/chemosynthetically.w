@@ -1,0 +1,1 @@
+{"index": 53742, "D": "the synthesis  of organic compounds within an organism, with chemical reactions providing the energy source.", "S": [], "A": []}

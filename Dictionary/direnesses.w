@@ -1,0 +1,1 @@
+{"index": 86806, "D": "causing or involving great fear or suffering; dreadful; terrible", "S": [], "A": []}

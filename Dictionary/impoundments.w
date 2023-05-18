@@ -1,0 +1,1 @@
+{"index": 148977, "D": "a body of water confined within an enclosure, as a reservoir.", "S": ["bondage ", "confinement ", "custody ", "imprisonment ", "incarceration ", "slavery "], "A": ["freedom ", "liberation ", "liberty "]}

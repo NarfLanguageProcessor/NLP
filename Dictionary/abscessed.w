@@ -1,0 +1,1 @@
+{"index": 896, "D": "a localized collection of pus in the tissues of the body, often accompanied by swelling and inflammation and frequently caused by bacteria.", "S": ["aching ", "bruised ", "hurting ", "inflamed ", "painful ", "sharp ", "tender ", "uncomfortable "], "A": ["painless "]}

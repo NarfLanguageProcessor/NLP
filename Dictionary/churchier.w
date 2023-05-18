@@ -1,0 +1,1 @@
+{"index": 56681, "D": "adhering strictly to the prescribed form in ecclesiastical matters.", "S": ["churchlike ", "ecclesiastic ", "ecclesiastical ", "holy ", "religious "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178658, "D": "of or relating to Malta,  its people, or their language.", "S": [], "A": []}

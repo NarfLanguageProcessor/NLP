@@ -1,0 +1,1 @@
+{"index": 56061, "D": "a red-brown or greenish-black, crystalline solid, C12H13N4Cl, that yields orange colors in aqueous or alcohol solution", "S": [], "A": []}

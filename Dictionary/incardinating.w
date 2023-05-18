@@ -1,0 +1,1 @@
+{"index": 149699, "D": "to institute as a cardinal.", "S": [], "A": []}

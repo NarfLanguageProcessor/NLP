@@ -1,0 +1,1 @@
+{"index": 172796, "D": "a ship or airplane operated by a transportation or conveyance company.", "S": ["luxury liner ", "ocean liner "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197204, "D": "a male given name, form of Nathan  or Nathaniel. ", "S": [], "A": []}

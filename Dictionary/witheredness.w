@@ -1,0 +1,1 @@
+{"index": 366609, "D": "to shrivel; fade; decay", "S": [], "A": []}

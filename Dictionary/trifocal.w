@@ -1,0 +1,1 @@
+{"index": 329756, "D": "having three foci.", "S": ["glass "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346140, "D": "to involve oneself in a matter without right or invitation; interfere officiously and unwantedly", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 224482, "D": "the act of catering to or profiting from the weaknesses, vices, or unreasonable desires of others", "S": ["cajole ", "gratify ", "massage ", "please ", "satisfy ", "snow ", "soap ", "stroke "], "A": ["anger ", "annoy ", "disappoint ", "disturb ", "frustrate ", "upset "]}

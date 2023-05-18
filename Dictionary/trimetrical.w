@@ -1,0 +1,1 @@
+{"index": 330065, "D": "pertaining to or consisting of a trimeter  or trimeters. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273230, "D": "a person who rises, especially from bed", "S": [], "A": []}

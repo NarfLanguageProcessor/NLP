@@ -1,0 +1,1 @@
+{"index": 40324, "D": "to apply a Breathalyser test to (someone)", "S": [], "A": []}

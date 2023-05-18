@@ -1,0 +1,1 @@
+{"index": 111617, "D": "to fecundate or impregnate (an animal or plant).", "S": ["compost ", "enrich ", "germinate ", "impregnate ", "inseminate ", "mulch ", "pollinate ", "propagate "], "A": ["deplete ", "ignore ", "lay bare ", "uncover "]}

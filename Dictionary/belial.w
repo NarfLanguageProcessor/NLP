@@ -1,0 +1,1 @@
+{"index": 31064, "D": "the spirit of evil personified; the devil; Satan.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225075, "D": "(in Rabelais' Pantagruel) a rascal, the companion of Pantagruel.", "S": [], "A": []}

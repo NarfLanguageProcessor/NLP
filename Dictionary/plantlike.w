@@ -1,0 +1,1 @@
+{"index": 239106, "D": "any member of the kingdom Plantae, comprising multicellular organisms that typically produce their own food from inorganic matter by the process of photosynthesis and that have more or less rigid cell walls containing cellulose, including vascular plants, mosses, liverworts, and hornworts", "S": [], "A": []}

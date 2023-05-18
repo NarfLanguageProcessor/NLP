@@ -1,0 +1,1 @@
+{"index": 88757, "D": "to neglect or refuse to obey.", "S": [], "A": []}

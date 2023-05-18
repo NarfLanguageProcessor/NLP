@@ -1,0 +1,1 @@
+{"index": 123636, "D": "a large jib for cruising and racing yachts, overlapping the mainsail.", "S": [], "A": []}

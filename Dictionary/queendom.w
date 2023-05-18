@@ -1,0 +1,1 @@
+{"index": 258250, "D": "the position or status of a queen. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238739, "D": "a dramatic composition or piece; drama. ", "S": ["bamboozled ", "betrayed ", "conned ", "culled ", "duped ", "fooled ", "had ", "hoodwinked ", "lured ", "taken ", "trapped ", "victimized "], "A": ["informed ", "trusted "]}

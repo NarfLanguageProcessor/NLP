@@ -1,0 +1,1 @@
+{"index": 54486, "D": "a loose upper robe, especially of a bishop, to which the lawn sleeves are usually attached.", "S": [], "A": []}

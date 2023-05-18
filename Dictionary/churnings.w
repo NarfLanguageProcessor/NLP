@@ -1,0 +1,1 @@
+{"index": 56739, "D": "the act of a person or thing that churns. ", "S": ["disturbance ", "turbulence ", "turmoil ", "unrest ", "upheaval "], "A": ["calm ", "harmony ", "order ", "peace ", "tranquility "]}

@@ -1,0 +1,1 @@
+{"index": 295679, "D": [], "S": ["ambush ", "crawl ", "creep ", "evade ", "hide ", "slink ", "slip ", "slither ", "smuggle ", "steal "], "A": ["come out "]}

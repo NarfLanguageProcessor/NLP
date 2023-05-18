@@ -1,0 +1,1 @@
+{"index": 207044, "D": "of, pertaining to, situated near, or affecting the ischium or back of the hip.", "S": [], "A": []}

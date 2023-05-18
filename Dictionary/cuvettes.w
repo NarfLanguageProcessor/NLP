@@ -1,0 +1,1 @@
+{"index": 75888, "D": "a gemstone with a raised, cameolike figure or design carved on its hollowed surface.", "S": [], "A": []}

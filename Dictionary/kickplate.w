@@ -1,0 +1,1 @@
+{"index": 164436, "D": "a metal plate fastened to the bottom of a door to resist blows and scratches.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 51048, "D": "one 100th of the dollar, or other basic monetary unit, of various nations, including the United States. Symbol", "S": ["copper penny ", "farthing ", "hill of beans ", "penny "], "A": []}

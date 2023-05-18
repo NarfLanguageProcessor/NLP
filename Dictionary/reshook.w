@@ -1,0 +1,1 @@
+{"index": 269320, "D": "to move or sway with short, quick, irregular vibratory movements.", "S": [], "A": []}

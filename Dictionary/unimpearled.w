@@ -1,0 +1,1 @@
+{"index": 344311, "D": "to form into drops resembling pearls.", "S": [], "A": []}

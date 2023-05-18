@@ -1,0 +1,1 @@
+{"index": 50411, "D": "the overhead interior surface of a room.", "S": ["beam ", "plaster ", "roof "], "A": ["floor ", "minimum "]}

@@ -1,0 +1,1 @@
+{"index": 250293, "D": "the fact or quality of having great or adequate merit, character, or value", "S": [], "A": []}

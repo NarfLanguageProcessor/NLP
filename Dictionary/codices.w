@@ -1,0 +1,1 @@
+{"index": 61754, "D": "the plural of codex. ", "S": ["album ", "booklet ", "brochure ", "copy ", "dictionary ", "edition ", "essay ", "fiction ", "magazine ", "manual ", "novel ", "pamphlet ", "paperback ", "publication ", "text ", "textbook ", "tome ", "volume ", "work ", "writing "], "A": []}

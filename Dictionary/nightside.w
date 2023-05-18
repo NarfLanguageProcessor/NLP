@@ -1,0 +1,1 @@
+{"index": 199972, "D": "the night shift of a newspaper.", "S": [], "A": []}

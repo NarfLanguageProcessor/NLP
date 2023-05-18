@@ -1,0 +1,1 @@
+{"index": 26875, "D": "a member of a Sunni Muslim people living mainly in the Kabardino-Balkar Autonomous Republic in the Russian Federation, closely related to the Karachai.", "S": [], "A": []}

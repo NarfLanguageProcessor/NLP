@@ -1,0 +1,1 @@
+{"index": 367118, "D": "a person who chops wood,  especially one who fells trees.", "S": ["cutter ", "logger ", "lumberman "], "A": []}

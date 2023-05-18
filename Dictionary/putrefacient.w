@@ -1,0 +1,1 @@
+{"index": 257300, "D": "the act or process of putrefying;  the anaerobic decomposition of organic matter by bacteria and fungi that results in obnoxiously odorous products; rotting.", "S": [], "A": []}

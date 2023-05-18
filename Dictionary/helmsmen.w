@@ -1,0 +1,1 @@
+{"index": 135778, "D": "a person who steers a ship; helmsperson. ", "S": ["pilot "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206989, "D": "having the power to heal; curative.", "S": [], "A": []}

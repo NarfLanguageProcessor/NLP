@@ -1,0 +1,1 @@
+{"index": 39675, "D": "the religious and social system of the Brahmans  and orthodox Hindus, characterized by the caste system and diversified pantheism.", "S": [], "A": []}

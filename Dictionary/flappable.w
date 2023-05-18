@@ -1,0 +1,1 @@
+{"index": 113978, "D": "easily upset or confused, especially under stress.", "S": [], "A": []}

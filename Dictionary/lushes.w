@@ -1,0 +1,1 @@
+{"index": 176379, "D": "(of vegetation, plants, grasses, etc.) luxuriant; succulent; tender and juicy.", "S": ["alcoholic ", "boozer ", "bum ", "carouser ", "dipsomaniac ", "drinker ", "drunkard ", "guzzler ", "inebriate ", "lush ", "sot ", "sponge "], "A": ["abstainer ", "teetotaler "]}

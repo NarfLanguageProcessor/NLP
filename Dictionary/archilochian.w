@@ -1,0 +1,1 @@
+{"index": 18955, "D": "of or relating to a form of poetic meter devised by the Greek Archilochus in which various types of meter are combined in the same line or couplet, as a dactylic tetrameter plus a trochaic tripody.", "S": [], "A": []}

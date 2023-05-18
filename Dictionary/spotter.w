@@ -1,0 +1,1 @@
+{"index": 301110, "D": "a person employed to remove spots  from clothing, especially at a dry-cleaning establishment.", "S": ["radar "], "A": []}

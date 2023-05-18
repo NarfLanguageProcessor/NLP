@@ -1,0 +1,1 @@
+{"index": 232769, "D": "a son of Helios who borrowed the chariot of the sun and drove it so close to earth that Zeus struck him down to save the world.", "S": [], "A": []}

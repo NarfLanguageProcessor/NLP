@@ -1,0 +1,1 @@
+{"index": 99357, "D": "to gird or encompass with or as with a belt or girdle", "S": [], "A": []}

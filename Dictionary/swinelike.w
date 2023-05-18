@@ -1,0 +1,1 @@
+{"index": 314471, "D": "Compare hog, pig1, wild boar. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127846, "D": "a contagious, purulent inflammation of the urethra or the vagina, caused by the gonococcus.", "S": [], "A": []}

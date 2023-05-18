@@ -1,0 +1,1 @@
+{"index": 75276, "D": "a scoop-shaped surgical instrument for removing tissue from body cavities, as the uterus.", "S": [], "A": []}

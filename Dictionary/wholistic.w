@@ -1,0 +1,1 @@
+{"index": 365308, "D": "a variant of holistic. ", "S": [], "A": []}

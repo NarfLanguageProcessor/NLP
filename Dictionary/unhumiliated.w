@@ -1,0 +1,1 @@
+{"index": 343928, "D": "made to feel a painful loss of pride, self-respect, or dignity; deeply embarrassed or put to shame", "S": [], "A": []}

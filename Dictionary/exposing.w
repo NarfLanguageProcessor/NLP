@@ -1,0 +1,1 @@
+{"index": 107955, "D": "to lay open to danger, attack, harm, etc.", "S": ["anti ", "antithetical ", "averse ", "disputed ", "hostile ", "inimical ", "opposing "], "A": ["friendly ", "kind "]}

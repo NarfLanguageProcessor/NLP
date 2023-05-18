@@ -1,0 +1,1 @@
+{"index": 43769, "D": "the part of the stock  located behind the breech mechanism of a firearm.", "S": [], "A": []}

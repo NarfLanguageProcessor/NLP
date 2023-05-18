@@ -1,0 +1,1 @@
+{"index": 94342, "D": "an automatic electronic switching device that permits the use of the same antenna for transmitting and receiving.", "S": [], "A": []}

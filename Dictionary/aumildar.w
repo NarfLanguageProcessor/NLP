@@ -1,0 +1,1 @@
+{"index": 23472, "D": "a manager or agent.", "S": [], "A": []}

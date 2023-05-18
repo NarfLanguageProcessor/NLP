@@ -1,0 +1,1 @@
+{"index": 49596, "D": "to provide food, service, etc., as for a party or wedding", "S": ["baby ", "coddle ", "cotton ", "furnish ", "gratify ", "humor ", "indulge ", "outfit ", "pamper ", "procure ", "provision ", "purvey ", "spoil ", "supply ", "victual "], "A": ["disappoint ", "hurt ", "ignore ", "neglect "]}

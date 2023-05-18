@@ -1,0 +1,1 @@
+{"index": 158392, "D": "without regard to something else, especially something specified; ignoring or discounting (usually followed by of)", "S": [], "A": []}

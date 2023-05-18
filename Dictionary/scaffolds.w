@@ -1,0 +1,1 @@
+{"index": 279351, "D": "a temporary structure for holding workers and materials during the erection, repair, or decoration of a building.", "S": ["scaffolding "], "A": []}

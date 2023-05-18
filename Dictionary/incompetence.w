@@ -1,0 +1,1 @@
+{"index": 150110, "D": "the quality or condition of being incompetent;  lack of ability.", "S": ["inability ", "ineptitude ", "inexperience "], "A": []}

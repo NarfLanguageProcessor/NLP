@@ -1,0 +1,1 @@
+{"index": 276381, "D": "the violation or profanation of anything sacred or held sacred.", "S": ["blasphemy ", "crime ", "curse ", "desecration ", "heresy ", "impiety ", "mockery ", "offense ", "profanation ", "profaneness ", "profanity ", "sin ", "violation "], "A": ["kindness ", "obedience ", "praise "]}

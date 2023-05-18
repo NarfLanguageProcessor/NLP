@@ -1,0 +1,1 @@
+{"index": 114946, "D": "a floor manager. ", "S": ["director ", "floorwalker ", "overseer "], "A": []}

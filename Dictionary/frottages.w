@@ -1,0 +1,1 @@
+{"index": 119457, "D": "Compare rubbing (def. 2). ", "S": [], "A": []}

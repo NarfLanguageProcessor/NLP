@@ -1,0 +1,1 @@
+{"index": 270902, "D": "having retrorse teeth or barbs.", "S": [], "A": []}

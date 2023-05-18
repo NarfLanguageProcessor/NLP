@@ -1,0 +1,1 @@
+{"index": 84382, "D": "pertaining to dianoia.", "S": [], "A": []}

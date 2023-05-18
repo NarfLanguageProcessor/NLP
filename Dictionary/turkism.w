@@ -1,0 +1,1 @@
+{"index": 332749, "D": "the culture, beliefs, principles, practices, etc., of the Turks. ", "S": [], "A": []}

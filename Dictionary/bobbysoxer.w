@@ -1,0 +1,1 @@
+{"index": 37065, "D": "an adolescent girl, especially during the 1940s, following youthful fads and fashions.", "S": [], "A": []}

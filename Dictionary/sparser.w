@@ -1,0 +1,1 @@
+{"index": 298505, "D": "thinly scattered or distributed", "S": ["inadequate ", "infrequent ", "meager ", "scant ", "scanty ", "scarce ", "skimpy ", "sporadic ", "thin "], "A": ["abundant ", "adequate ", "enough ", "fat ", "frequent ", "plentiful ", "sufficient "]}

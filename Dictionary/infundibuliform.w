@@ -1,0 +1,1 @@
+{"index": 152391, "D": "having the shape of a funnel;  funnel-shaped.", "S": [], "A": []}

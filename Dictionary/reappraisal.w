@@ -1,0 +1,1 @@
+{"index": 261914, "D": "the assessment or estimation again of the worth, value, or quality of a person or thing", "S": [], "A": []}

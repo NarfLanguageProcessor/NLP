@@ -1,0 +1,1 @@
+{"index": 224271, "D": "to treat or gratify with extreme or excessive indulgence, kindness, or care", "S": ["flexible ", "soft "], "A": ["rigid ", "stern ", "unyielding "]}

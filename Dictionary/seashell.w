@@ -1,0 +1,1 @@
+{"index": 282575, "D": "the shell of any marine mollusk.", "S": [], "A": []}

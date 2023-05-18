@@ -1,0 +1,1 @@
+{"index": 88571, "D": "to regard with displeasure, antipathy, or aversion", "S": ["abhorrent ", "hateful ", "objectionable ", "obnoxious ", "painful ", "repugnant ", "tasteless ", "unappetizing ", "unpalatable ", "unsavory "], "A": ["appetizing ", "attractive ", "delicious ", "delightful ", "friendly ", "good ", "kind ", "nice ", "pleasant ", "savory ", "tasty "]}

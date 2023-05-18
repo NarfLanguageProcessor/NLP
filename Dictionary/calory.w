@@ -1,0 +1,1 @@
+{"index": 45412, "D": "kilocalorie. Abbreviation", "S": [], "A": []}

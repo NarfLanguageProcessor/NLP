@@ -1,0 +1,1 @@
+{"index": 365209, "D": "toward what place; in what direction.", "S": [], "A": []}

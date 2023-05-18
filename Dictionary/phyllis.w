@@ -1,0 +1,1 @@
+{"index": 233686, "D": "a name used in pastoral literature, as the Eclogues of Vergil, for a country girl or sweetheart.", "S": [], "A": []}

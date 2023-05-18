@@ -1,0 +1,1 @@
+{"index": 39717, "D": "French teacher of the blind.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 240108, "D": "to work with or at diligently; employ busily; use", "S": [], "A": []}

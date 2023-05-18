@@ -1,0 +1,1 @@
+{"index": 324251, "D": "the son of Gaea and Tartarus who had a hundred dragon heads, which spurted fire, and a bellowing many-tongued voice. He created the whirlwinds and fought with Zeus before the god hurled him beneath Mount Etna", "S": [], "A": []}

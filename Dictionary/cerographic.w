@@ -1,0 +1,1 @@
+{"index": 51528, "D": "a drawing, design, or text incised into a wax surface.", "S": [], "A": []}

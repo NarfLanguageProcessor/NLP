@@ -1,0 +1,1 @@
+{"index": 305629, "D": "to stray from the road, course, or line of march.", "S": ["dawdle ", "meander ", "ramble "], "A": ["rush "]}

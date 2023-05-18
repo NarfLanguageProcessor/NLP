@@ -1,0 +1,1 @@
+{"index": 206187, "D": "of the nature of a problem; doubtful; uncertain; questionable", "S": [], "A": []}

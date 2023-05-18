@@ -1,0 +1,1 @@
+{"index": 223123, "D": "(in Chinese architecture) a decorative or monumental gateway having a trabeated form with three compartments, the central one higher than the others.", "S": [], "A": []}

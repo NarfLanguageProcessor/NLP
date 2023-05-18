@@ -1,0 +1,1 @@
+{"index": 286157, "D": "of, relating to, or resembling a sermon. ", "S": ["academic ", "advisory ", "donnish ", "edifying ", "enlightening ", "exhortative ", "expository ", "homiletic ", "hortative ", "instructive ", "moral ", "moralizing ", "pedagogic ", "pedantic ", "preachy ", "preceptive ", "schoolmasterist ", "sermonizing ", "teacherish ", "teacherly ", "teachy "], "A": []}

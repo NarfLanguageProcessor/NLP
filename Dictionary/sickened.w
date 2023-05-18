@@ -1,0 +1,1 @@
+{"index": 289616, "D": "to make or become sick.", "S": ["affect ", "afflict ", "disgust ", "nauseate ", "offend ", "repel ", "repulse "], "A": ["attract ", "please ", "soothe ", "order "]}

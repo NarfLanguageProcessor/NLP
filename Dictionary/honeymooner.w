@@ -1,0 +1,1 @@
+{"index": 143363, "D": "a vacation or trip taken by a newly married couple (often used attributively)", "S": [], "A": []}

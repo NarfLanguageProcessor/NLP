@@ -1,0 +1,1 @@
+{"index": 86210, "D": "any elephantlike mammal of the extinct genus Dinotherium, from the later Tertiary Period of Europe and Asia, having large, outwardly curving tusks.", "S": [], "A": []}

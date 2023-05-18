@@ -1,0 +1,1 @@
+{"index": 72061, "D": "of, relating to, or affecting the cranium and face.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34446, "D": "the calculation of the probable duration of human life.", "S": [], "A": []}

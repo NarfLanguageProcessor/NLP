@@ -1,0 +1,1 @@
+{"index": 259335, "D": "to change or cause to change into a racemic mixture", "S": [], "A": []}

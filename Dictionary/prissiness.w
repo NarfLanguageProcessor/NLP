@@ -1,0 +1,1 @@
+{"index": 250805, "D": "excessively proper; affectedly correct; prim.", "S": [], "A": []}

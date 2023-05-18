@@ -1,0 +1,1 @@
+{"index": 155083, "D": "being within; inside of anything; internal; inner; further toward a center", "S": ["belly ", "bosom ", "contents ", "heart ", "heartland ", "innards ", "inside ", "lining ", "marrow ", "midst ", "pith ", "pulp ", "soul ", "substance ", "viscera "], "A": ["exterior ", "exteriority ", "outside "]}

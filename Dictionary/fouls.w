@@ -1,0 +1,1 @@
+{"index": 117911, "D": "foot rot. ", "S": ["fetid ", "filthy ", "hateful ", "horrid ", "nasty ", "putrid ", "rotten ", "vicious ", "vile ", "wicked "], "A": ["clean ", "decent ", "fresh ", "good ", "nice ", "pleasant ", "pure ", "sweet ", "delightful ", "pleasing "]}

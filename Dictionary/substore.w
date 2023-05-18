@@ -1,0 +1,1 @@
+{"index": 309346, "D": "an establishment where merchandise is sold, usually on a retail basis.", "S": [], "A": []}

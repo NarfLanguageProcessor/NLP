@@ -1,0 +1,1 @@
+{"index": 115168, "D": "to treat with disdain, scorn, or contempt; scoff at; mock", "S": [], "A": []}

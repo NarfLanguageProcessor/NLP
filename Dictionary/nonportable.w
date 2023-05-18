@@ -1,0 +1,1 @@
+{"index": 206062, "D": "capable of being transported or conveyed", "S": [], "A": []}

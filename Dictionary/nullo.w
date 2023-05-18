@@ -1,0 +1,1 @@
+{"index": 209502, "D": "(in certain card games) a bid to take no tricks.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189725, "D": "an authoritative direction or instruction; command; mandate. ", "S": [], "A": []}

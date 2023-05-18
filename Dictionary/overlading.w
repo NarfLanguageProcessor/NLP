@@ -1,0 +1,1 @@
+{"index": 219988, "D": "to overload (usually used in past participle overladen)", "S": [], "A": []}

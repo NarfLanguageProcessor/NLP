@@ -1,0 +1,1 @@
+{"index": 68824, "D": "containing or bearing coral; producing coral.", "S": [], "A": []}

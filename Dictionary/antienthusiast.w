@@ -1,0 +1,1 @@
+{"index": 15191, "D": "a person who is filled with enthusiasm for some principle, pursuit, etc.; a person of ardent zeal", "S": [], "A": []}

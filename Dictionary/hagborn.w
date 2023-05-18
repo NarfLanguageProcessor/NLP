@@ -1,0 +1,1 @@
+{"index": 132176, "D": "born  of a hag  or witch.", "S": [], "A": []}

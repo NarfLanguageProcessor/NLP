@@ -1,0 +1,1 @@
+{"index": 302160, "D": "the act or process of stabilizing  or the state of being stabilized. ", "S": ["balance ", "ballast ", "compensation ", "counteraction ", "equalization ", "equilibrium ", "offset "], "A": ["imbalance "]}

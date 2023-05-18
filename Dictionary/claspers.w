@@ -1,0 +1,1 @@
+{"index": 59375, "D": "a paired organ of male insects, used to clasp the female during copulation", "S": [], "A": []}

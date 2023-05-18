@@ -1,0 +1,1 @@
+{"index": 211738, "D": "an alphabetic script used originally for inscriptions in an archaic form of Irish, from about the 5th to the 10th centuries.", "S": [], "A": []}

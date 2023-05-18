@@ -1,0 +1,1 @@
+{"index": 29992, "D": "a thin, rigid board placed between a mattress and bedspring to give firm support.", "S": [], "A": []}

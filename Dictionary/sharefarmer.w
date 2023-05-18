@@ -1,0 +1,1 @@
+{"index": 287494, "D": "a farmer who pays a fee to another in return for use of land to raise crops, etc", "S": [], "A": []}

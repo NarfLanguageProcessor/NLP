@@ -1,0 +1,1 @@
+{"index": 334271, "D": "(used as an expression of doubt, hesitation, deliberation, interest, etc.)", "S": [], "A": []}

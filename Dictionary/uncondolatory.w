@@ -1,0 +1,1 @@
+{"index": 337547, "D": "to express sympathy with a person who is suffering sorrow, misfortune, or grief (usually followed by with)", "S": [], "A": []}

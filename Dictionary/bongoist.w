@@ -1,0 +1,1 @@
+{"index": 37886, "D": "a reddish-brown antelope, Taurotragus eurycerus, of the forests of tropical Africa, having white stripes and large, spirally twisted horns.", "S": [], "A": []}

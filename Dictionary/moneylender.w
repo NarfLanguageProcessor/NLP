@@ -1,0 +1,1 @@
+{"index": 191844, "D": "a person or organization whose business it is to lend money at interest.", "S": ["broker ", "dealer ", "financier ", "investor ", "manager ", "officer "], "A": []}

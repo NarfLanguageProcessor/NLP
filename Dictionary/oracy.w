@@ -1,0 +1,1 @@
+{"index": 213910, "D": "the ability to express oneself in and understand spoken language.", "S": [], "A": []}

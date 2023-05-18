@@ -1,0 +1,1 @@
+{"index": 165630, "D": "any of various fore-and-aft-rigged sailing vessels having a single jib bent to a stay from the stemhead, no bowsprit being used", "S": ["crude ", "mean ", "raw ", "rough-and-tumble ", "rowdy ", "tough "], "A": ["gentle ", "kind ", "nice ", "sophisticated "]}

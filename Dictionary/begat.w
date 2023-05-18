@@ -1,0 +1,1 @@
+{"index": 30586, "D": "simple past tense of beget. ", "S": ["bring about ", "engender ", "sire "], "A": ["halt ", "kill ", "stop ", "destroy ", "fail ", "leave "]}

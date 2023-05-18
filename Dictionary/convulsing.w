@@ -1,0 +1,1 @@
+{"index": 68183, "D": "to shake violently; agitate. ", "S": ["shake up ", "torment "], "A": ["calm ", "order ", "quiet ", "soothe "]}

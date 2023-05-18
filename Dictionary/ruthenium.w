@@ -1,0 +1,1 @@
+{"index": 275922, "D": "a steel-gray, rare metallic element, belonging to the platinum group of metals. Symbol", "S": [], "A": []}

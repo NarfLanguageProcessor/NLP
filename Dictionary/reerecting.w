@@ -1,0 +1,1 @@
+{"index": 264791, "D": "upright in position or posture", "S": ["refurbish "], "A": ["abandon ", "antique ", "break ", "damage ", "decline ", "destroy ", "forfeit ", "harm ", "hurt ", "injure ", "kill ", "lose ", "ruin ", "weaken "]}

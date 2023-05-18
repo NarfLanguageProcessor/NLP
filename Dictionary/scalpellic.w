@@ -1,0 +1,1 @@
+{"index": 279479, "D": "a small, light, usually straight knife used in surgical and anatomical operations and dissections.", "S": [], "A": []}

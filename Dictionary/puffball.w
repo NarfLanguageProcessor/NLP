@@ -1,0 +1,1 @@
+{"index": 256087, "D": "any of various basidiomycetous fungi, especially of the genus Lycoperdon and allied genera, characterized by a ball-like fruit body that emits a cloud of spores when broken.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339532, "D": "lessening; belittling; derogatory.", "S": [], "A": []}

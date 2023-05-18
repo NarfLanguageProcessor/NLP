@@ -1,0 +1,1 @@
+{"index": 234202, "D": "having the air bladder closed off from the mouth.", "S": [], "A": []}

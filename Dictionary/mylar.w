@@ -1,0 +1,1 @@
+{"index": 187105, "D": "a brand of strong, thin polyester film used in photography, recording tapes, and insulation.", "S": [], "A": []}

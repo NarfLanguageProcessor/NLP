@@ -1,0 +1,1 @@
+{"index": 140115, "D": "the act of exalting. ", "S": [], "A": []}

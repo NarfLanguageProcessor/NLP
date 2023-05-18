@@ -1,0 +1,1 @@
+{"index": 352981, "D": "a past participle of throw. ", "S": [], "A": []}

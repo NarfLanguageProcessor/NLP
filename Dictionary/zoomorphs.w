@@ -1,0 +1,1 @@
+{"index": 369864, "D": "of or relating to a deity or other being conceived of as having the form of an animal.", "S": [], "A": []}

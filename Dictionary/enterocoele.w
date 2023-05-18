@@ -1,0 +1,1 @@
+{"index": 101264, "D": "the body cavity formed from an outpocketing of the archenteron, typical of echinoderms and chordates.", "S": [], "A": []}

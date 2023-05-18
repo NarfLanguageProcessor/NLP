@@ -1,0 +1,1 @@
+{"index": 133673, "D": "capable of enduring fatigue, hardship, exposure, etc.; sturdy; strong", "S": ["firm ", "fit ", "hale ", "solid ", "sound ", "stalwart ", "stout ", "well "], "A": ["incomplete ", "sick ", "soft ", "unfit ", "unhealthy ", "weak "]}

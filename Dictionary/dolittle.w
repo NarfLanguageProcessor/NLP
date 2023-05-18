@@ -1,0 +1,1 @@
+{"index": 91136, "D": "a lazy person; one who does little but does not admit to it.", "S": [], "A": []}

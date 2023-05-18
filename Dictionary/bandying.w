@@ -1,0 +1,1 @@
+{"index": 27331, "D": "to pass from one to another or back and forth; give and take; trade; exchange", "S": ["alternate ", "bandy ", "barter ", "commute ", "connect ", "contact ", "convert ", "interact ", "interface ", "mesh ", "network ", "reciprocate ", "relate ", "reverse ", "substitute ", "swap ", "trade ", "transpose "], "A": ["disconnect ", "keep "]}

@@ -1,0 +1,1 @@
+{"index": 309608, "D": "three-sided; triangular.", "S": [], "A": []}

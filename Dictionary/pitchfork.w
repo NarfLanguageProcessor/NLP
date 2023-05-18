@@ -1,0 +1,1 @@
+{"index": 238239, "D": "a large, long-handled fork  for manually lifting and pitching  hay, stalks of grain, etc.", "S": [], "A": []}

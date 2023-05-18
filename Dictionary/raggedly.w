@@ -1,0 +1,1 @@
+{"index": 259933, "D": "clothed in tattered garments", "S": [], "A": []}

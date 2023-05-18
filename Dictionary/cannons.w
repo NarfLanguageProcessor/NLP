@@ -1,0 +1,1 @@
+{"index": 46455, "D": "a mounted gun for firing heavy projectiles; a gun, howitzer, or mortar.", "S": ["howitzer ", "mortar ", "ordnance "], "A": []}

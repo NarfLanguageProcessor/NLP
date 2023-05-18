@@ -1,0 +1,1 @@
+{"index": 3355, "D": "a type of massage in which finger pressure  on the specific bodily sites described in acupuncture  therapy is used to promote healing, alleviate fatigue, etc.", "S": [], "A": []}

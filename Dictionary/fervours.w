@@ -1,0 +1,1 @@
+{"index": 111652, "D": "great warmth and earnestness of feeling", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 218672, "D": "of, pertaining to, involving, or decided by competition", "S": [], "A": []}

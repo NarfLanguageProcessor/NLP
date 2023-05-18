@@ -1,0 +1,1 @@
+{"index": 309460, "D": "falling below what is accepted as natural; less than natural", "S": [], "A": []}

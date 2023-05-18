@@ -1,0 +1,1 @@
+{"index": 273816, "D": "not permitting the passage of x-rays.", "S": [], "A": []}

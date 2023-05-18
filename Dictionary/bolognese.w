@@ -1,0 +1,1 @@
+{"index": 37593, "D": "of or relating to Bologna  or its inhabitants.", "S": [], "A": []}

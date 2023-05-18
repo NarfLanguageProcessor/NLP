@@ -1,0 +1,1 @@
+{"index": 12950, "D": "a unit of length, equal to one tenth of a millimicron, or one ten millionth of a millimeter, primarily used to express electromagnetic wavelengths. Symbol", "S": [], "A": []}

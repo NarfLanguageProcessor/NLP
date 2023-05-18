@@ -1,0 +1,1 @@
+{"index": 343793, "D": "to raise or lift, especially by some mechanical appliance", "S": [], "A": []}

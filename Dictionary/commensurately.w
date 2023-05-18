@@ -1,0 +1,1 @@
+{"index": 63976, "D": "corresponding in amount, magnitude, or degree", "S": ["abundantly ", "acceptably ", "admissibly ", "amply ", "averagely ", "barely ", "decently ", "fairly ", "moderately ", "passably ", "proportionately ", "rather ", "reasonably ", "satisfactorily ", "so-so ", "sufficiently ", "tolerably "], "A": ["inadequately "]}

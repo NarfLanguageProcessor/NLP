@@ -1,0 +1,1 @@
+{"index": 368905, "D": "a mineral, hydrated basic nickel carbonate, occurring in the form of emerald-green incrustations on chromite and magnetite.", "S": [], "A": []}

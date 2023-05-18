@@ -1,0 +1,1 @@
+{"index": 127334, "D": "Compare gore3 (def. 1), gusset (def. 1). ", "S": [], "A": []}

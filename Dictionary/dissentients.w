@@ -1,0 +1,1 @@
+{"index": 89479, "D": "dissenting,  especially from the opinion of the majority.", "S": ["dissenter ", "dissident ", "free spirit ", "individualist ", "maverick "], "A": ["conformist ", "square "]}

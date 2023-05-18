@@ -1,0 +1,1 @@
+{"index": 35177, "D": "great; wonderful", "S": ["blue ", "complaining ", "disaffected ", "disgruntled ", "displeased ", "disquieted ", "dissatisfied ", "disturbed ", "exasperated ", "griping ", "kvetching ", "perturbed ", "upset ", "vexed "], "A": ["contented ", "happy ", "pleased ", "satisfied "]}

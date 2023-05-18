@@ -1,0 +1,1 @@
+{"index": 155486, "D": "of or relating to conflict or struggle within a group", "S": [], "A": []}

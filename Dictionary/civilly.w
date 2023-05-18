@@ -1,0 +1,1 @@
+{"index": 58950, "D": "politely; courteously.", "S": ["harmoniously "], "A": ["angrily ", "hostilely "]}

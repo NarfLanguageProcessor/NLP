@@ -1,0 +1,1 @@
+{"index": 91324, "D": "inclined to rule arbitrarily or despotically; overbearing; tyrannical", "S": [], "A": []}

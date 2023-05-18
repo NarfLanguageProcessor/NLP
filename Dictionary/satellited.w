@@ -1,0 +1,1 @@
+{"index": 278683, "D": "a natural body that revolves around a planet; a moon.", "S": [], "A": []}

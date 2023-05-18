@@ -1,0 +1,1 @@
+{"index": 316949, "D": "good-tasting; savory", "S": ["appetizing ", "delectable ", "flavorful ", "luscious ", "pungent ", "savory ", "spicy ", "yummy "], "A": ["bland ", "distasteful ", "dull ", "flavorless ", "offensive ", "tasteless ", "unappetizing ", "unsavory "]}

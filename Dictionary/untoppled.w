@@ -1,0 +1,1 @@
+{"index": 353123, "D": "to fall forward, as from having too heavy a top; pitch; tumble down.", "S": [], "A": []}

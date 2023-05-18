@@ -1,0 +1,1 @@
+{"index": 313001, "D": "to pray humbly; make humble and earnest entreaty or petition.", "S": ["conciliatory ", "contrite ", "regretful ", "remorseful ", "repentant ", "sorry "], "A": ["happy ", "unrepentant "]}

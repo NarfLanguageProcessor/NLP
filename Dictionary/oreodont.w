@@ -1,0 +1,1 @@
+{"index": 214311, "D": "any of various extinct North American artiodactyls of the families Merycoidodontidae or Agriochoeridae, widespread from the late Eocene through early Miocene epochs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213350, "D": "belonging or pertaining to the suborder Ophidia (Serpentes), comprising the snakes.", "S": ["herpetological ", "reptant ", "serpentiform ", "serpentine "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70307, "D": "hyperbolic cotangent; a hyperbolic function that is the ratio of cosh to sinh, being the reciprocal of tanh", "S": [], "A": []}

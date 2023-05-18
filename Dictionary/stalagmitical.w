@@ -1,0 +1,1 @@
+{"index": 302492, "D": "a deposit, usually of calcium carbonate, more or less resembling an inverted stalactite, formed on the floor of a cave or the like by the dripping of percolating calcareous water.", "S": [], "A": []}

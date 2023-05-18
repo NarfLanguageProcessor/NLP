@@ -1,0 +1,1 @@
+{"index": 297419, "D": "a person belonging to this class at a later period who, while professing to teach skill in reasoning, concerned himself with ingenuity and specious effectiveness rather than soundness of argument.", "S": ["apologist ", "pleader ", "polemicist "], "A": []}

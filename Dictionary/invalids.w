@@ -1,0 +1,1 @@
+{"index": 157028, "D": "an infirm or sickly person.", "S": ["baseless ", "false ", "inoperative ", "irrational ", "null ", "unreasonable ", "unscientific ", "unsound ", "untrue "], "A": ["honest ", "logical ", "reasonable ", "sensible ", "sound ", "stable ", "true ", "valid ", "OK ", "good ", "right "]}

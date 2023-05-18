@@ -1,0 +1,1 @@
+{"index": 207971, "D": "the act or process of transferring.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77770, "D": "to make weak or feeble; enfeeble", "S": ["enervated ", "enfeebled ", "incapacitated ", "sapped ", "weakened "], "A": ["active ", "energized ", "invigorated "]}

@@ -1,0 +1,1 @@
+{"index": 204888, "D": "iridescent  quality; a play of lustrous, changing colors.", "S": [], "A": []}

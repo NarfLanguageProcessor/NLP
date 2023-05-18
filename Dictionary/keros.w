@@ -1,0 +1,1 @@
+{"index": 164058, "D": "a wooden container, as a beaker, made by the Incas.", "S": [], "A": []}

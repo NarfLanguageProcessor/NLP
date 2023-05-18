@@ -1,0 +1,1 @@
+{"index": 62901, "D": "the act of collecting. ", "S": ["assemblage ", "assortment ", "compilation ", "lot ", "number ", "selection ", "set ", "store "], "A": ["division ", "individual ", "separation "]}

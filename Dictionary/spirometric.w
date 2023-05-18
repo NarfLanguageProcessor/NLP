@@ -1,0 +1,1 @@
+{"index": 300203, "D": "an instrument for determining the capacity of the lungs.", "S": [], "A": []}

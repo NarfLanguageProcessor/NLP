@@ -1,0 +1,1 @@
+{"index": 131394, "D": "any tropical plant of the genus Gennera, native to South America, having enormous leaves resembling rhubarb.", "S": [], "A": []}

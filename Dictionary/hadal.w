@@ -1,0 +1,1 @@
+{"index": 131917, "D": "of or relating to the greatest ocean depths, below approximately 20,000 feet (6,500 meters).", "S": [], "A": []}

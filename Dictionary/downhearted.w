@@ -1,0 +1,1 @@
+{"index": 92250, "D": "dejected; depressed; discouraged. ", "S": ["blue ", "chapfallen ", "crestfallen ", "dejected ", "despondent ", "disconsolate ", "discouraged ", "disheartened ", "dismayed ", "dispirited ", "down ", "downcast ", "low ", "low-spirited ", "sad ", "sorrowful ", "spiritless ", "woebegone "], "A": ["cheered ", "happy ", "heartened ", "uplifted "]}

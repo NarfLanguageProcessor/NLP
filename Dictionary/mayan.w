@@ -1,0 +1,1 @@
+{"index": 177746, "D": "of or relating to the Maya,  their culture, or their languages.", "S": [], "A": []}

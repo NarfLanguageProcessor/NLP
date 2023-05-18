@@ -1,0 +1,1 @@
+{"index": 332711, "D": "the normal distention or rigidity of plant cells, resulting from the pressure exerted by the cell contents on the cell walls.", "S": [], "A": []}

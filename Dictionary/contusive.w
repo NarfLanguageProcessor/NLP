@@ -1,0 +1,1 @@
+{"index": 67867, "D": "to injure (tissue), especially without breaking the skin; bruise.", "S": [], "A": []}

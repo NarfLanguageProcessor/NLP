@@ -1,0 +1,1 @@
+{"index": 279421, "D": "any of three muscles on each side of the neck, the action of which raises the first and second ribs in respiration and assists in bending the neck to one side.", "S": [], "A": []}

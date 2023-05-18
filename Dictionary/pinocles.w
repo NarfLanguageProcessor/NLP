@@ -1,0 +1,1 @@
+{"index": 237216, "D": "a popular card game played by two, three, or four persons, with a 48-card deck.", "S": [], "A": []}

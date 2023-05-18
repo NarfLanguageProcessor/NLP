@@ -1,0 +1,1 @@
+{"index": 209370, "D": "any of the class of compounds derived by the hydrolysis of nucleic acids or nucleotides, consisting typically of deoxyribose or ribose combined with adenine, guanine, cytosine, uracil, or thymine.", "S": [], "A": []}

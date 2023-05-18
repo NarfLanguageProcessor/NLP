@@ -1,0 +1,1 @@
+{"index": 108756, "D": "an outgoing, gregarious person who thrives in dynamic environments and seeks to maximize social engagement.", "S": ["congenial ", "gregarious ", "personable ", "sociable "], "A": ["disagreeable ", "introverted ", "unfriendly ", "unsociable "]}

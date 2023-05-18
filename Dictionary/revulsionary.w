@@ -1,0 +1,1 @@
+{"index": 271545, "D": "a strong feeling of repugnance, distaste, or dislike", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139920, "D": "a quadric surface having a finite center and some of its plane sections hyperbolas.  Equation", "S": [], "A": []}

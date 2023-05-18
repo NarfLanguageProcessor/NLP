@@ -1,0 +1,1 @@
+{"index": 339383, "D": "placed or laid underneath, as a foundation or substratum.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 222698, "D": "to pacify.", "S": ["amiable ", "amicable ", "calm ", "complacent ", "conciliatory ", "gentle ", "mild ", "neighborly ", "nonviolent ", "pacific ", "pacifical ", "pacifist ", "pacifistic ", "peace-loving ", "peaceful ", "placid ", "quiet ", "restful ", "still ", "tranquil "], "A": []}

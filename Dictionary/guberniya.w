@@ -1,0 +1,1 @@
+{"index": 130865, "D": "(in the Soviet Union) an administrative division of the volosts,  smaller than a district.", "S": [], "A": []}

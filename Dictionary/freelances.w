@@ -1,0 +1,1 @@
+{"index": 118620, "D": "Compare full-time (def. 2). ", "S": ["condottiere ", "free companion ", "freelance ", "hired gun ", "hireling ", "legionnaire ", "mercenary ", "professional soldier ", "soldier for hire "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148380, "D": "to accuse (a public official) before an appropriate tribunal of misconduct in office.", "S": ["accuse ", "arraign ", "criticize ", "discredit ", "indict ", "reprimand "], "A": ["absolve ", "exonerate ", "praise ", "answer ", "approve ", "commend ", "exculpate ", "flatter ", "reply "]}

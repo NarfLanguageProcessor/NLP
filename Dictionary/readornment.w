@@ -1,0 +1,1 @@
+{"index": 261637, "D": "something that adds attractiveness; ornament; accessory", "S": [], "A": []}

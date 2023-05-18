@@ -1,0 +1,1 @@
+{"index": 298892, "D": "the quantitative measure of colors by spectrophotometry.", "S": [], "A": []}

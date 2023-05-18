@@ -1,0 +1,1 @@
+{"index": 14414, "D": "to compile an anthology. ", "S": ["amass ", "arrange ", "assemble ", "collect ", "compose ", "cull ", "edit ", "gather ", "glean ", "organize "], "A": ["destroy ", "disarrange ", "disorder ", "disorganize ", "disperse ", "distribute ", "divide ", "scatter ", "separate ", "spread "]}

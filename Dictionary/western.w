@@ -1,0 +1,1 @@
+{"index": 364243, "D": "lying toward or situated in the west", "S": ["westerly ", "westward "], "A": ["easterly ", "eastern "]}

@@ -1,0 +1,1 @@
+{"index": 10511, "D": "a friend, especially a male friend.", "S": ["ally ", "associate ", "brother ", "bud ", "buddy ", "chum ", "cobber ", "cohort ", "companion ", "comrade ", "confidant ", "confidante ", "crony ", "mate ", "pal ", "partner ", "sidekick "], "A": ["antagonist ", "enemy ", "foe ", "opponent ", "rival ", "stranger "]}

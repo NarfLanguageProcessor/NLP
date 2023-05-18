@@ -1,0 +1,1 @@
+{"index": 93649, "D": "of, relating to, or of the nature of dualism. ", "S": ["dual "], "A": ["singular "]}

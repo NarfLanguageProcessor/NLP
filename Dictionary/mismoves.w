@@ -1,0 +1,1 @@
+{"index": 189650, "D": "a wrong or prohibited move,  as in a game.", "S": [], "A": []}

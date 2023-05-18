@@ -1,0 +1,1 @@
+{"index": 368346, "D": "(in ancient Greece) of or relating to the relation between host and guest, especially those from different places of origin", "S": [], "A": []}

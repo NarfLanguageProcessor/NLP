@@ -1,0 +1,1 @@
+{"index": 217, "D": "U.S. photographer.", "S": [], "A": []}

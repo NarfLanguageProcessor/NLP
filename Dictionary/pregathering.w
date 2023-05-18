@@ -1,0 +1,1 @@
+{"index": 247698, "D": "to bring together into one group, collection, or place", "S": [], "A": []}

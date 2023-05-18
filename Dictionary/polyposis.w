@@ -1,0 +1,1 @@
+{"index": 242319, "D": "the development of numerous polyps  on a hollow internal organ, seen especially in the intestinal tract.", "S": [], "A": []}

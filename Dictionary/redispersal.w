@@ -1,0 +1,1 @@
+{"index": 264248, "D": "dispersion (def. 1). ", "S": [], "A": []}

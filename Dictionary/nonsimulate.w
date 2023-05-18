@@ -1,0 +1,1 @@
+{"index": 207282, "D": "to create a simulation,  likeness, or model of (a situation, system, or the like)", "S": [], "A": []}

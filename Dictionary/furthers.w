@@ -1,0 +1,1 @@
+{"index": 120527, "D": "at or to a greater distance; farther", "S": ["encourage ", "expedite ", "facilitate ", "hasten ", "help ", "promote ", "speed "], "A": ["block ", "check ", "delay ", "halt ", "hinder ", "hurt ", "slow ", "stop ", "conceal ", "destroy ", "discourage ", "hide ", "ignore ", "impede ", "kill ", "neglect ", "oppose ", "take ", "withhold "]}

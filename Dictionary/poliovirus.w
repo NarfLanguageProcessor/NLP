@@ -1,0 +1,1 @@
+{"index": 242185, "D": "any of three picornaviruses of the genus Enterovirus, having a spherical capsid, infectious to humans and the cause of poliomyelitis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 147546, "D": "of or relating to illuviation  or illuvium.", "S": [], "A": []}

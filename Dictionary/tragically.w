@@ -1,0 +1,1 @@
+{"index": 327360, "D": "characteristic or suggestive of tragedy", "S": ["disturbingly ", "horribly ", "shockingly ", "terribly "], "A": []}

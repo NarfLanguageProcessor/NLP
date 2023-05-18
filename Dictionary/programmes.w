@@ -1,0 +1,1 @@
+{"index": 251923, "D": "a plan of action to accomplish a specified end", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46150, "D": "a shrub, Euphorbia antisyphilitica, of the southwestern United States and Mexico, that is the source of a wax (candelilla wax ) having various commercial uses.", "S": [], "A": []}

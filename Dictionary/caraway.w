@@ -1,0 +1,1 @@
+{"index": 47404, "D": "a plant, Carum carvi, of the parsley family, native to Europe, having finely divided leaves and umbels of white or pinkish flowers.", "S": [], "A": []}

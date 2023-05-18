@@ -1,0 +1,1 @@
+{"index": 163609, "D": "a district in the Northwest Territories, in N Canada. 228,160 sq. mi. (590,935 sq. km).", "S": [], "A": []}

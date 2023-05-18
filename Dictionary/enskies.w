@@ -1,0 +1,1 @@
+{"index": 101055, "D": "to place in or as if in the heavens; exalt.", "S": [], "A": []}

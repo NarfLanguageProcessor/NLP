@@ -1,0 +1,1 @@
+{"index": 354016, "D": "having decreased in strength, intensity, etc.", "S": [], "A": []}

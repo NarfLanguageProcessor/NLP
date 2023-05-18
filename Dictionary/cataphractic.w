@@ -1,0 +1,1 @@
+{"index": 49354, "D": "a heavily armed war galley of ancient Greece.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214276, "D": "noting or pertaining to a geologic period of the Paleozoic Era, from 500 million to 425 million years ago, notable for the advent of fish.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 241018, "D": "any of certain magistrates in Italy, as a chief magistrate in medieval towns and republics.", "S": [], "A": []}

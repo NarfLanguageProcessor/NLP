@@ -1,0 +1,1 @@
+{"index": 157358, "D": "incapable of being wounded, hurt, or damaged.", "S": [], "A": []}

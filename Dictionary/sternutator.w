@@ -1,0 +1,1 @@
+{"index": 304119, "D": "a chemical agent causing nose irritation, coughing, etc.", "S": [], "A": []}

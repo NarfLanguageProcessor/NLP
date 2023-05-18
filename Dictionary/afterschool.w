@@ -1,0 +1,1 @@
+{"index": 5746, "D": "for students and taking place after they finish their day in school, usually in the late afternoon", "S": [], "A": []}

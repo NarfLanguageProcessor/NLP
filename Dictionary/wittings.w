@@ -1,0 +1,1 @@
+{"index": 366742, "D": "knowing; aware; conscious.", "S": [], "A": []}

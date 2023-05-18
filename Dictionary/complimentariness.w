@@ -1,0 +1,1 @@
+{"index": 64722, "D": "of the nature of, conveying, or expressing a compliment,  often one that is politely flattering", "S": ["free ticket ", "freebie ", "gimme ", "something for nothing "], "A": []}

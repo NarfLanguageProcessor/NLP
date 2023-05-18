@@ -1,0 +1,1 @@
+{"index": 212475, "D": "the magnetic bearing  of an omnirange station.", "S": [], "A": []}

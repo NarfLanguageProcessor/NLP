@@ -1,0 +1,1 @@
+{"index": 197755, "D": "a piece of jewelry consisting of a string of stones, beads, jewels, or the like, or a chain of gold, silver, or other metal, for wearing around the neck. ", "S": ["choker ", "jewelry ", "pendant ", "strand "], "A": []}

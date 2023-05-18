@@ -1,0 +1,1 @@
+{"index": 290799, "D": "the study of symbols.", "S": [], "A": []}

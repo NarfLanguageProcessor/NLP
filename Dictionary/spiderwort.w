@@ -1,0 +1,1 @@
+{"index": 299710, "D": "any plant of the genus Tradescantia, having blue, purple, or rose-colored flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332443, "D": "a vestment worn over the alb by subdeacons, as at the celebration of the Mass, and by bishops.", "S": [], "A": []}

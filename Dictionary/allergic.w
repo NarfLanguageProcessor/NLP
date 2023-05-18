@@ -1,0 +1,1 @@
+{"index": 8668, "D": "of or relating to allergy", "S": ["hypersensitive ", "susceptible "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192261, "D": "(of certain animals, esp the male narwhal) having a single tooth throughout life", "S": [], "A": []}

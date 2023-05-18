@@ -1,0 +1,1 @@
+{"index": 296802, "D": "of or characterized by solipsism,  or the theory that only the self exists, or can be proved to exist", "S": [], "A": []}

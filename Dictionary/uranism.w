@@ -1,0 +1,1 @@
+{"index": 355300, "D": "a rare word for (esp male) homosexuality", "S": [], "A": []}

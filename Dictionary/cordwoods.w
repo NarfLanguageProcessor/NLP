@@ -1,0 +1,1 @@
+{"index": 68978, "D": "wood  stacked in cords  for use as fuel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139027, "D": "a combining form used in the names of chemical compounds in which the hydroxyl group is present", "S": [], "A": []}

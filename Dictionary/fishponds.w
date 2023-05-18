@@ -1,0 +1,1 @@
+{"index": 113394, "D": "a small pond  containing fish,  often one in which edible fish  are raised for commercial purposes, as for stocking lakes and streams or wholesaling.", "S": [], "A": []}

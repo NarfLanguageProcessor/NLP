@@ -1,0 +1,1 @@
+{"index": 33054, "D": "a calculus or concretion found in the stomach or intestines of certain animals, especially ruminants, formerly reputed to be an effective remedy for poison.", "S": [], "A": []}

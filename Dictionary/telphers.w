@@ -1,0 +1,1 @@
+{"index": 318456, "D": "a traveling unit, car, or carrier suspended from cables in a telpherage,  an aerial transportation system.", "S": [], "A": []}

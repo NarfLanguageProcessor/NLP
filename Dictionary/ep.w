@@ -1,0 +1,1 @@
+{"index": 101985, "D": "European plan. ", "S": ["33 ", "45 ", "78 ", "LP ", "gramophone record ", "long-playing record ", "platter "], "A": []}

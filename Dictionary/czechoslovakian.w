@@ -1,0 +1,1 @@
+{"index": 75931, "D": "of, relating to, or characteristic of the former republic of Czechoslovakia, its peoples, or their languages", "S": [], "A": []}

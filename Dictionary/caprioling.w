@@ -1,0 +1,1 @@
+{"index": 47103, "D": "a caper or leap.", "S": [], "A": []}

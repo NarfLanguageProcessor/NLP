@@ -1,0 +1,1 @@
+{"index": 318549, "D": "of or relating to the period of Japanese art history, a.d. 725\u2013794, characterized by the flowering of Buddhist architecture and statuary", "S": [], "A": []}

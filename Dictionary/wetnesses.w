@@ -1,0 +1,1 @@
+{"index": 364307, "D": "moistened, covered, or soaked with water or some other liquid", "S": ["evaporation ", "moisture "], "A": ["aridity ", "dryness "]}

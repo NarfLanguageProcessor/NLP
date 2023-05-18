@@ -1,0 +1,1 @@
+{"index": 89787, "D": "an apparatus for distilling,  as a condenser; still.", "S": ["alcohol ", "drink ", "liquor ", "spirits "], "A": []}

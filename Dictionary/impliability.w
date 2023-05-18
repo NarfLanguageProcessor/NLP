@@ -1,0 +1,1 @@
+{"index": 148777, "D": [], "S": ["durability ", "hardness ", "inflexibility ", "toughness "], "A": ["flexibility ", "indefiniteness ", "infirmity ", "instability ", "movability ", "softness ", "uncertainty ", "weakness "]}

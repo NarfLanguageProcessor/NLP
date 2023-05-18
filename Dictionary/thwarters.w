@@ -1,0 +1,1 @@
+{"index": 323114, "D": "to oppose successfully; prevent from accomplishing a purpose.", "S": [], "A": []}

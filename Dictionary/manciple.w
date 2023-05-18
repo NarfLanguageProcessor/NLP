@@ -1,0 +1,1 @@
+{"index": 178955, "D": "an officer or steward of a monastery, college, etc., authorized to purchase provisions.", "S": ["administrator ", "attendant ", "curator ", "waiter "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24972, "D": "the state or condition of being aware;  having knowledge; consciousness", "S": ["alertness ", "appreciation ", "attention ", "consciousness ", "experience ", "information ", "perception ", "realization ", "recognition ", "understanding "], "A": ["disregard ", "ignorance ", "neglect ", "misunderstanding ", "unfamiliarity "]}

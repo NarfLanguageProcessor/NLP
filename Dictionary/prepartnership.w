@@ -1,0 +1,1 @@
+{"index": 248773, "D": "the state or condition of being a partner; participation; association; joint interest.", "S": [], "A": []}

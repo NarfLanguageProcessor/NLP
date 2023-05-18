@@ -1,0 +1,1 @@
+{"index": 68839, "D": "having the form or appearance of coral. ", "S": [], "A": []}

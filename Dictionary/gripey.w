@@ -1,0 +1,1 @@
+{"index": 129969, "D": "resembling or causing gripes. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125672, "D": "a plural of get2. ", "S": ["brood ", "descendants ", "get ", "heirs ", "offspring ", "posterity ", "progeny ", "scions ", "seed "], "A": ["parent "]}

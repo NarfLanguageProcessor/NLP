@@ -1,0 +1,1 @@
+{"index": 240929, "D": "handbag (def. 1). ", "S": ["handbag ", "pouch ", "purse ", "suitcase ", "wallet "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346482, "D": "showing ridicule, contempt, or derision", "S": [], "A": []}

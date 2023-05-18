@@ -1,0 +1,1 @@
+{"index": 301724, "D": "to spend or use (money, time, etc.) extravagantly or wastefully (often followed by away).", "S": ["blow ", "expend ", "lavish ", "misuse ", "waste "], "A": ["hoard ", "save ", "accumulate ", "collect ", "gather "]}

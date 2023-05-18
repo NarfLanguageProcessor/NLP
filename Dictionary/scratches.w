@@ -1,0 +1,1 @@
+{"index": 281622, "D": "a disease of horses marked by dry rifts or chaps that appear on the skin near the fetlock, behind the knee, or in front of the hock.", "S": ["blemish ", "laceration ", "scrape "], "A": []}

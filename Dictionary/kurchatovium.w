@@ -1,0 +1,1 @@
+{"index": 166491, "D": "another name for rutherfordium, esp as used in the former Soviet Union", "S": [], "A": []}

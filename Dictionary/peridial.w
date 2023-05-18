@@ -1,0 +1,1 @@
+{"index": 230911, "D": "the outer enveloping coat of the fruit body in many fungi.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212376, "D": "the white silk canopy held over the Eucharist while transferring it from one place to another, especially from the main altar to a side altar.", "S": [], "A": []}

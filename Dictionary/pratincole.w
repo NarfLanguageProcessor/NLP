@@ -1,0 +1,1 @@
+{"index": 245361, "D": "any of several limicoline birds of the genus Glareola, of the Eastern Hemisphere, having a short bill, long, narrow, pointed wings, and a forked tail.", "S": [], "A": []}

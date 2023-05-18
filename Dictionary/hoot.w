@@ -1,0 +1,1 @@
+{"index": 143646, "D": "to cry out or shout, especially in disapproval or derision.", "S": ["boo ", "heckle ", "hiss ", "howl ", "jeer ", "scream ", "whistle "], "A": []}

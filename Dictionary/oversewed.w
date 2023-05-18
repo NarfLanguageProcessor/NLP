@@ -1,0 +1,1 @@
+{"index": 221081, "D": "to sew  with stitches passing successively over an edge, especially closely, so as to cover the edge or make a firm seam.", "S": [], "A": []}

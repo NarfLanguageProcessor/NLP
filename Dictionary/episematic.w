@@ -1,0 +1,1 @@
+{"index": 102792, "D": "(esp of coloration) aiding recognition between animals of the same species", "S": [], "A": []}

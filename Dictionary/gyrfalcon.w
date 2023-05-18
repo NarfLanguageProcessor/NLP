@@ -1,0 +1,1 @@
+{"index": 125507, "D": "a large falcon, Falco rusticolus, of Arctic and subarctic regions, having white, gray, or blackish color phases", "S": [], "A": []}

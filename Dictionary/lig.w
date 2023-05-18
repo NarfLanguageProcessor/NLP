@@ -1,0 +1,1 @@
+{"index": 171963, "D": "(esp in the entertainment industry and the media) a function at which free entertainment and refreshments are available", "S": [], "A": []}

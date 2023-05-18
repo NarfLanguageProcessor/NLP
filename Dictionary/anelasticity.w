@@ -1,0 +1,1 @@
+{"index": 12484, "D": "the property of a solid in which deformation depends on the time rate of change of stress as well as on the stress itself.", "S": [], "A": []}

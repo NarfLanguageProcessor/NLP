@@ -1,0 +1,1 @@
+{"index": 208997, "D": "widely and unfavorably known", "S": ["blatant ", "flagrant ", "high-profile ", "infamous ", "prominent ", "well-known "], "A": ["inconspicuous ", "moral ", "unknown "]}

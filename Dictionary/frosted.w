@@ -1,0 +1,1 @@
+{"index": 119419, "D": "covered with or having frost. ", "S": ["chilled ", "frigid ", "ice-cold ", "iced ", "icy "], "A": ["hot ", "warm "]}

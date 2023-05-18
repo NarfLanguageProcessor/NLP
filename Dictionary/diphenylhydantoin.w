@@ -1,0 +1,1 @@
+{"index": 86413, "D": "a white, slightly water-soluble powder, C15H11N2O2, used in the form of its sodium salt to prevent or arrest convulsions in epilepsy.", "S": [], "A": []}

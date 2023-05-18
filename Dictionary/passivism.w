@@ -1,0 +1,1 @@
+{"index": 227366, "D": "the quality of being passive. ", "S": ["capitulation ", "resignation "], "A": ["disagreement ", "disobedience ", "rebellion "]}

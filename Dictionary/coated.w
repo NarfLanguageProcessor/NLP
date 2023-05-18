@@ -1,0 +1,1 @@
+{"index": 61112, "D": "having acoat. ", "S": ["camouflaged ", "capped ", "closed ", "concealed ", "enclosed ", "hidden ", "painted ", "protected ", "shielded ", "topped ", "wrapped "], "A": ["bare ", "exposed ", "open ", "uncovered ", "unmasked "]}

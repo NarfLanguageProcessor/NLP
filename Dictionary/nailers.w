@@ -1,0 +1,1 @@
+{"index": 196580, "D": "a person or thing that drives nails,  as a machine that drives nails  automatically.", "S": [], "A": []}

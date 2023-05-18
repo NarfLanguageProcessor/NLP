@@ -1,0 +1,1 @@
+{"index": 204753, "D": "the act or process of inoculating. ", "S": [], "A": []}

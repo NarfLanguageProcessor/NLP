@@ -1,0 +1,1 @@
+{"index": 341250, "D": "to make dear,  esteemed, or beloved", "S": [], "A": []}

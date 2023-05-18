@@ -1,0 +1,1 @@
+{"index": 149653, "D": "Compare luminescence. ", "S": ["blaze ", "bonfire ", "heat ", "inferno "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62053, "D": "serving or tending to coerce. ", "S": ["bullying ", "violent "], "A": []}

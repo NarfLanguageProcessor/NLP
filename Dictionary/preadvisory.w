@@ -1,0 +1,1 @@
+{"index": 245595, "D": "of, giving, or containing advice", "S": [], "A": []}

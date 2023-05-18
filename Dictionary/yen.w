@@ -1,0 +1,1 @@
+{"index": 146860, "D": "an aluminum coin and monetary unit of Japan, equal to 100 sen or 1000 rin. Symbol", "S": ["craving ", "desire ", "hankering ", "hunger ", "itch ", "longing ", "lust ", "passion ", "thirst ", "urge ", "yearning "], "A": ["disgust ", "dislike ", "distaste ", "hate ", "hatred ", "indifference "]}

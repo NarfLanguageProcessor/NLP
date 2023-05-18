@@ -1,0 +1,1 @@
+{"index": 165038, "D": "a fish, especially a herring, that has been cured by splitting, salting, drying, and smoking.", "S": ["dry ", "preserve ", "smoke "], "A": ["soften "]}

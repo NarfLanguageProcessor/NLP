@@ -1,0 +1,1 @@
+{"index": 6433, "D": "a cerebral disorder characterized by total or partial inability to write.", "S": [], "A": []}

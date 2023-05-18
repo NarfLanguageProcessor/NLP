@@ -1,0 +1,1 @@
+{"index": 4576, "D": "providing an advantage;  furnishing convenience or opportunity; favorable; profitable; useful; beneficial", "S": ["convenience ", "efficiency ", "expedience ", "expedient ", "fitness ", "propriety ", "suitability ", "usefulness "], "A": ["inappropriateness ", "unsuitability ", "uselessness "]}

@@ -1,0 +1,1 @@
+{"index": 296156, "D": "oriented toward or focused on one's own social group.", "S": [], "A": []}

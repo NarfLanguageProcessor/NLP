@@ -1,0 +1,1 @@
+{"index": 240190, "D": "an alcoholic, esp one who drinks wine", "S": [], "A": []}

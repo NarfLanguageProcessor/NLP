@@ -1,0 +1,1 @@
+{"index": 14753, "D": "of or relating to government by an aristocracy. ", "S": [], "A": []}

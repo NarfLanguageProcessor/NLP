@@ -1,0 +1,1 @@
+{"index": 13956, "D": "of or relating to the subfamily Anserinae, of the family Anatidae, comprising the true geese.", "S": [], "A": []}

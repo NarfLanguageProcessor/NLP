@@ -1,0 +1,1 @@
+{"index": 336235, "D": "a clasp or ornament having a pin at the back for passing through the clothing and a catch for securing the point of the pin.", "S": [], "A": []}

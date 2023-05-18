@@ -1,0 +1,1 @@
+{"index": 138869, "D": "a device for locating sources of sound under water, as for detecting submarines by the noise of their engines.", "S": [], "A": []}

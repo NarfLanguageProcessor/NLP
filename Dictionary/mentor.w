@@ -1,0 +1,1 @@
+{"index": 183554, "D": "a wise and trusted counselor or teacher.", "S": ["adviser ", "coach ", "guide ", "instructor ", "teacher ", "trainer ", "tutor "], "A": ["pupil ", "student "]}

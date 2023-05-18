@@ -1,0 +1,1 @@
+{"index": 210021, "D": "a mark (\u2212 or \u00f7) used in ancient manuscripts to point out spurious, corrupt, doubtful, or superfluous words or passages.", "S": [], "A": []}

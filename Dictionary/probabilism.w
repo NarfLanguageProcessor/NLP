@@ -1,0 +1,1 @@
+{"index": 251003, "D": "the doctrine, introduced by the Skeptics, that certainty is impossible and that probability suffices to govern faith and practice.", "S": [], "A": []}

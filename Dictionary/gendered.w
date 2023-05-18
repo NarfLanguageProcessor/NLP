@@ -1,0 +1,1 @@
+{"index": 123412, "D": "characteristic of, suited to, or biased toward one gender", "S": [], "A": []}

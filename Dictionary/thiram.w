@@ -1,0 +1,1 @@
+{"index": 322049, "D": "a white, crystalline compound, C6H12N2S4, insoluble in water, slightly soluble in alcohol, soluble in benzene and acetone, used as a vulcanizer and accelerator for rubber and as a fungicide, bacteriostat, and seed disinfectant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70483, "D": "the worker who transfers sheets of wet pulp to the couch. ", "S": [], "A": []}

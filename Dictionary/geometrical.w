@@ -1,0 +1,1 @@
+{"index": 123944, "D": "of or relating to geometry or to the principles of geometry.", "S": ["analytical ", "numerical ", "scientific "], "A": []}

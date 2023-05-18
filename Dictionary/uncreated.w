@@ -1,0 +1,1 @@
+{"index": 338154, "D": "having come into being as the result of action or someone\u2019s creative  process", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 263909, "D": "any of various currant shrubs of the genus Ribes, bearing an edible, red fruit.", "S": [], "A": []}

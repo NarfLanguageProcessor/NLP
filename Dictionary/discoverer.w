@@ -1,0 +1,1 @@
+{"index": 87670, "D": "a person who discovers. ", "S": ["radar "], "A": []}

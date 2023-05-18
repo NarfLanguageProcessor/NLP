@@ -1,0 +1,1 @@
+{"index": 207361, "D": "the state or quality of being sober  rather than intoxicated.", "S": [], "A": []}

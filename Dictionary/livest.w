@@ -1,0 +1,1 @@
+{"index": 173985, "D": "to have life,  as an organism; be alive; be capable of vital functions", "S": ["alive "], "A": ["dead "]}

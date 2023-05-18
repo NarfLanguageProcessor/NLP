@@ -1,0 +1,1 @@
+{"index": 162515, "D": "a judge or magistrate.", "S": [], "A": []}

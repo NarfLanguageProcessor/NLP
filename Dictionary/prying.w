@@ -1,0 +1,1 @@
+{"index": 250460, "D": "that pries;  looking or searching curiously.", "S": ["forward ", "interfering ", "meddling ", "snoopy "], "A": []}

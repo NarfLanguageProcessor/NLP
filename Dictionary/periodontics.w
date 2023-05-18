@@ -1,0 +1,1 @@
+{"index": 231119, "D": "the branch of dentistry dealing with the study and treatment of diseases of the periodontium.", "S": [], "A": []}

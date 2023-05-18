@@ -1,0 +1,1 @@
+{"index": 9525, "D": "in spite of the fact that; even though; though.", "S": ["admitting ", "albeit ", "despite ", "despite the fact ", "even if ", "even supposing ", "granting ", "granting all this ", "in spite of ", "much as ", "notwithstanding ", "still ", "supposing ", "though ", "when ", "whereas ", "while ", "yet "], "A": []}

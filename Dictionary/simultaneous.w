@@ -1,0 +1,1 @@
+{"index": 291199, "D": "existing, occurring, or operating at the same time; concurrent", "S": ["concurrent "], "A": ["asynchronous ", "different ", "divided ", "following ", "preceding ", "separate "]}

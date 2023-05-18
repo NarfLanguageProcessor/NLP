@@ -1,0 +1,1 @@
+{"index": 286784, "D": "to join or attach by stitches.", "S": ["embroider ", "fasten ", "stitch ", "tailor "], "A": ["separate ", "unfasten "]}

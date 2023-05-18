@@ -1,0 +1,1 @@
+{"index": 319151, "D": "clastic volcanic material, as scoria, dust, etc., ejected during an eruption.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 190991, "D": "a seaport in the Republic of Yemen on the Red Sea.", "S": ["caffeine ", "cappuccino ", "espresso "], "A": []}

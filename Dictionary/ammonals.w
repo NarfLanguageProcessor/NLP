@@ -1,0 +1,1 @@
+{"index": 10748, "D": "a high explosive consisting chiefly of powdered aluminum, ammonium nitrate,  and TNT.", "S": [], "A": []}

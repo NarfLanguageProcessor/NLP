@@ -1,0 +1,1 @@
+{"index": 157974, "D": "a combining form of Latin origin used, with the meanings \u201crainbow,\u201d \u201ciridescent,\u201d \u201ciris (of the eye),\u201d \u201cIris (the genus),\u201d and \u201ciridium,\u201d in the formation of compound words", "S": [], "A": []}

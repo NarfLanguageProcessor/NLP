@@ -1,0 +1,1 @@
+{"index": 36531, "D": "a residential and academic district in London, N of the Thames and Charing Cross. Artists, writers, and students living there have given it a reputation as an intellectual center.", "S": [], "A": []}

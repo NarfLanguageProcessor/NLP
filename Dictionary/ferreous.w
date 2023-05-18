@@ -1,0 +1,1 @@
+{"index": 111470, "D": "of, resembling, or containing iron", "S": [], "A": []}

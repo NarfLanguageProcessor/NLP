@@ -1,0 +1,1 @@
+{"index": 90829, "D": "third person singular present indicative of do1. ", "S": [], "A": []}

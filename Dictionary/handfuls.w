@@ -1,0 +1,1 @@
+{"index": 133152, "D": "the quantity or amount that the hand  can hold", "S": ["bulge ", "bump ", "chunk ", "hunk ", "knot ", "pile ", "swelling ", "tumor ", "wad "], "A": ["depression ", "individual ", "little ", "one ", "whole "]}

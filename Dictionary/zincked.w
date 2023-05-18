@@ -1,0 +1,1 @@
+{"index": 369421, "D": "a ductile, bluish-white metallic element", "S": [], "A": []}

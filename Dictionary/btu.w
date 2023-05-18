@@ -1,0 +1,1 @@
+{"index": 41904, "D": "British thermal unit; British thermal units.", "S": [], "A": []}

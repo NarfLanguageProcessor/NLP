@@ -1,0 +1,1 @@
+{"index": 177739, "D": "(used to express possibility)", "S": ["can "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 210449, "D": [], "S": ["abandonment ", "desuetude ", "disuse ", "neglect "], "A": []}

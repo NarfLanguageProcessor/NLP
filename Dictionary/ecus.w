@@ -1,0 +1,1 @@
+{"index": 95632, "D": "a former money of account of the European Common Market that was used in international finance until the euro  was adopted and was based on the combined prorated values of the currencies of member nations.", "S": [], "A": []}

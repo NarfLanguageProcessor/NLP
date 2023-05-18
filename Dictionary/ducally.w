@@ -1,0 +1,1 @@
+{"index": 93714, "D": "in the manner of or pertaining to a duke.", "S": [], "A": []}

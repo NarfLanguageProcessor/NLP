@@ -1,0 +1,1 @@
+{"index": 368691, "D": "a simple, carved image, especially one in which the original block of stone or wood is readily apparent.", "S": [], "A": []}

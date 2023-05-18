@@ -1,0 +1,1 @@
+{"index": 328616, "D": "to pass or move over, along, or through.", "S": ["changing ", "shifting "], "A": ["fixed ", "immobile ", "permanent ", "stationary ", "unmoving "]}

@@ -1,0 +1,1 @@
+{"index": 54173, "D": "any plant of the genus Stellaria, of the pink family, as S. media, a common Old World weed whose leaves and seeds are relished by birds.", "S": [], "A": []}

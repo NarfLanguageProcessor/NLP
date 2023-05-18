@@ -1,0 +1,1 @@
+{"index": 246852, "D": "a person or thing that predestinates  something.", "S": [], "A": []}

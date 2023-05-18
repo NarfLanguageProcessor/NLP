@@ -1,0 +1,1 @@
+{"index": 153740, "D": "free from concern, worry, or anxiety; carefree; nonchalant. ", "S": [], "A": []}

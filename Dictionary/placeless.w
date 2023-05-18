@@ -1,0 +1,1 @@
+{"index": 238549, "D": "not rooted in a specific place or community", "S": [], "A": []}

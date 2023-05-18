@@ -1,0 +1,1 @@
+{"index": 103188, "D": "to regard, treat, or represent as equivalent", "S": [], "A": []}

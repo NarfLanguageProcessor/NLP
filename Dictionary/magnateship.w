@@ -1,0 +1,1 @@
+{"index": 177477, "D": "a person of great influence, importance, or standing in a particular enterprise, field of business, etc.", "S": [], "A": []}

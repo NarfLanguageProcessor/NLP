@@ -1,0 +1,1 @@
+{"index": 278548, "D": "any of various climbing or trailing tropical American plants belonging to the genus Smilax, of the lily family, having alternate leaves, umbels of flowers, and a root that has been used in the treatment of psoriasis.", "S": [], "A": []}

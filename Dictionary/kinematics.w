@@ -1,0 +1,1 @@
+{"index": 164799, "D": "the branch of mechanics that deals with pure motion, without reference to the masses or forces involved in it.", "S": [], "A": []}

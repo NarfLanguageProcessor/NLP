@@ -1,0 +1,1 @@
+{"index": 358761, "D": "capable of or adapted for turning easily from one to another of various tasks, fields of endeavor, etc.", "S": ["accomplished ", "adaptable ", "all-around ", "functional ", "gifted ", "resourceful ", "skilled ", "skillful ", "talented "], "A": ["dull ", "incapable ", "inept ", "unable ", "untalented "]}

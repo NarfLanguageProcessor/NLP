@@ -1,0 +1,1 @@
+{"index": 229608, "D": "Compare expressivity (def. 2). ", "S": [], "A": []}

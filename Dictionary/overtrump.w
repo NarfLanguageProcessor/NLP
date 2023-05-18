@@ -1,0 +1,1 @@
+{"index": 221686, "D": "to play a higher trump  than has already been played.", "S": [], "A": []}

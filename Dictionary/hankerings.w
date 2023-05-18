@@ -1,0 +1,1 @@
+{"index": 133384, "D": "a longing; craving.", "S": ["craving ", "pining ", "yearning "], "A": ["dislike ", "hate ", "hatred "]}

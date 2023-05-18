@@ -1,0 +1,1 @@
+{"index": 155450, "D": "the act or process of incorporating within oneself the values, knowledge, motives, etc., of others", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236989, "D": "a slender, leafless, parasitic North American plant, Pterospora andromedea, having nodding white to red flowers, found growing under pines. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304082, "D": "flammable hydrocarbon jelly packaged in a small can for use as a portable heat source for cooking.", "S": [], "A": []}

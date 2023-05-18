@@ -1,0 +1,1 @@
+{"index": 129598, "D": "any of various altered basaltic rocks having a dark-green color caused by the presence of chlorite, epidote, etc.", "S": [], "A": []}

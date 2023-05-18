@@ -1,0 +1,1 @@
+{"index": 357674, "D": "a vegetarian who omits all animal products from the diet.", "S": [], "A": []}

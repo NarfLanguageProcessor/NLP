@@ -1,0 +1,1 @@
+{"index": 365711, "D": "a game bird, especially a wild duck, goose, or swan.", "S": ["curlew ", "grouse ", "partridge ", "pheasant ", "plover ", "quail ", "sandpiper ", "snipe ", "wild turkey ", "woodcock "], "A": []}

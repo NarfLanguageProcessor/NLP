@@ -1,0 +1,1 @@
+{"index": 270062, "D": "to change, alter, or restore the structure  of", "S": ["shake-up "], "A": []}

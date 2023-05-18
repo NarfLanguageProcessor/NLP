@@ -1,0 +1,1 @@
+{"index": 101580, "D": "(of visual sensation) resulting from structures within the eye itself", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336711, "D": "liable to change  or to be changed;  variable.", "S": [], "A": []}

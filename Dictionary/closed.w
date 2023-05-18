@@ -1,0 +1,1 @@
+{"index": 60437, "D": "having or forming a boundary or barrier", "S": ["bankrupt ", "locked ", "sealed "], "A": ["beginning ", "continuing ", "open ", "running ", "started ", "starting ", "unsettled ", "welcoming ", "working "]}

@@ -1,0 +1,1 @@
+{"index": 250011, "D": "a trial of skill in some game, in which competitors play a series of contests", "S": [], "A": []}

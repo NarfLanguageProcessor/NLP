@@ -1,0 +1,1 @@
+{"index": 300142, "D": "to make spiritual. ", "S": [], "A": []}

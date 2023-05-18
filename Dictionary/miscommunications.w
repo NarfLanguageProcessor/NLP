@@ -1,0 +1,1 @@
+{"index": 188959, "D": "to communicate  mistakenly, unclearly, or inadequately.", "S": ["accident ", "blunder ", "flounder ", "mishap ", "mistake "], "A": []}

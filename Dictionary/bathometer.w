@@ -1,0 +1,1 @@
+{"index": 28993, "D": "a device for ascertaining the depth of water.", "S": [], "A": []}

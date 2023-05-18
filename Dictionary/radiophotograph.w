@@ -1,0 +1,1 @@
+{"index": 259755, "D": "a photograph  or other image transmitted by radio.", "S": [], "A": []}

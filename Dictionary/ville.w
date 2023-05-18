@@ -1,0 +1,1 @@
+{"index": 359756, "D": "a combining form extracted from placenames ending in -ville, used in the coinage of informal nonce words, usually pejorative, that characterize a place, person, group, or situation (dullsville; disasterville; Mediaville) or that name a condition (embarrassmentville; gloomsville).", "S": [], "A": []}

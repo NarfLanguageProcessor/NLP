@@ -1,0 +1,1 @@
+{"index": 70344, "D": "a formal ball given especially for debutantes.", "S": [], "A": []}

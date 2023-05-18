@@ -1,0 +1,1 @@
+{"index": 360958, "D": "conceited; proud.", "S": [], "A": []}

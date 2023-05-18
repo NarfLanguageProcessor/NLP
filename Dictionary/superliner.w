@@ -1,0 +1,1 @@
+{"index": 312191, "D": "an ocean liner  of relatively great size or speed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141265, "D": "the act of pledging movable property, stocks, income-generating contracts, etc., to a creditor as security without actual transfer of ownership", "S": ["charge ", "claim ", "encumbrance ", "incumbrance ", "mortgage ", "right "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 337108, "D": "a past participle of cleave2 ", "S": [], "A": []}

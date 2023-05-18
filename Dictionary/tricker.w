@@ -1,0 +1,1 @@
+{"index": 329534, "D": "a crafty or underhanded device, maneuver, stratagem, or the like, intended to deceive or cheat; artifice; ruse; wile.", "S": ["bogus ", "counterfeit ", "forged ", "sham ", "spurious "], "A": ["authentic ", "genuine ", "real ", "true "]}

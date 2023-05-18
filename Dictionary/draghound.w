@@ -1,0 +1,1 @@
+{"index": 92548, "D": "a hound  for use in following a hunting drag,  specifically bred for speed and stamina rather than subtlety of sense of smell.", "S": [], "A": []}

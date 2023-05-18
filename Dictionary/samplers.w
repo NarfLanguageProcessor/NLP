@@ -1,0 +1,1 @@
+{"index": 277593, "D": "a person who samples. ", "S": ["canvasser ", "sampler "], "A": []}

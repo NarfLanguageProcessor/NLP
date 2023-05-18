@@ -1,0 +1,1 @@
+{"index": 200015, "D": "any of the class of deep blue or black dyes obtained by the oxidation of aniline, used as coloring agents in inks and shoe polishes and for dyeing leather, wood, textiles, and furs.", "S": [], "A": []}

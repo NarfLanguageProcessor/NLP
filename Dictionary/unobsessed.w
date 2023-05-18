@@ -1,0 +1,1 @@
+{"index": 347043, "D": "having an obsession  (usually followed by with or by)", "S": [], "A": []}

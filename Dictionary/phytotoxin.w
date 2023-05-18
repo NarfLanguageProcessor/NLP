@@ -1,0 +1,1 @@
+{"index": 234404, "D": "any toxin,  as ricin or crotin, produced by a plant.", "S": [], "A": []}

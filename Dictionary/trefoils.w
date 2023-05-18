@@ -1,0 +1,1 @@
+{"index": 328811, "D": "any of numerous plants belonging to the genus Trifolium, of the legume family, having usually digitate leaves of three leaflets and reddish, purple, yellow, or white flower heads, comprising the common clovers.", "S": [], "A": []}

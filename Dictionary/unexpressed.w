@@ -1,0 +1,1 @@
+{"index": 341838, "D": "not expressed;  not indicated or communicated, as in words, intimations, or the like", "S": ["implicit ", "implied ", "inarticulate ", "tacit ", "unspoken ", "unuttered "], "A": ["expressed "]}

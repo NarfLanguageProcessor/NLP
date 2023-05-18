@@ -1,0 +1,1 @@
+{"index": 58392, "D": "on this (the speaker's or writer's) side of the Atlantic. ", "S": [], "A": []}

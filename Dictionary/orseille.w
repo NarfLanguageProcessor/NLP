@@ -1,0 +1,1 @@
+{"index": 214917, "D": "a violet coloring matter obtained from certain lichens, chiefly species of Roccella.", "S": [], "A": []}

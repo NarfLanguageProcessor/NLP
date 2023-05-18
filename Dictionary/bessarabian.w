@@ -1,0 +1,1 @@
+{"index": 32538, "D": "a region in Moldova, on the W shore of the Black Sea", "S": [], "A": []}

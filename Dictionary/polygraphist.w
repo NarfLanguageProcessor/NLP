@@ -1,0 +1,1 @@
+{"index": 241964, "D": "an instrument for receiving and recording simultaneously tracings of variations in certain body activities.", "S": [], "A": []}

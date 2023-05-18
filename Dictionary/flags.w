@@ -1,0 +1,1 @@
+{"index": 113786, "D": "the long feathers on the leg of a hawk or falcon", "S": ["banner ", "emblem ", "streamer "], "A": []}

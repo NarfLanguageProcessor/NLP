@@ -1,0 +1,1 @@
+{"index": 300178, "D": "any of various spiral-shaped motile bacteria of the phylum Spirochaetes, distinguished by twisting flagella that run lengthwise between the bacterium\u2019s inner and outer membranes, and inclusive of the family Spirochaetaceae, noted for certain pathogenic species that cause Lyme disease, syphilis, and other illnesses.", "S": [], "A": []}

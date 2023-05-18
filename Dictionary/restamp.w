@@ -1,0 +1,1 @@
+{"index": 269860, "D": "to strike or beat with a forcible, downward thrust of the foot.", "S": ["clone ", "copy ", "duplicate ", "emulate ", "imitate ", "mirror ", "photocopy ", "portray ", "print ", "recreate ", "reflect ", "repeat ", "replicate ", "reprint "], "A": ["abort ", "destroy ", "kill ", "stop "]}

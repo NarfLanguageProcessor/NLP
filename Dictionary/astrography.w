@@ -1,0 +1,1 @@
+{"index": 22262, "D": "a navigational device for projecting altitude curves of the stars and planets onto charts or plotting sheets.", "S": ["astrophysics "], "A": []}

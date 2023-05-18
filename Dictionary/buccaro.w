@@ -1,0 +1,1 @@
+{"index": 41973, "D": "unglazed pottery.", "S": [], "A": []}

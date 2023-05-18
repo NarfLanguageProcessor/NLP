@@ -1,0 +1,1 @@
+{"index": 56538, "D": "to laugh softly or amusedly, usually with satisfaction", "S": [], "A": []}

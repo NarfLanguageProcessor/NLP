@@ -1,0 +1,1 @@
+{"index": 14442, "D": "a form of floral stalk, produced by the elongation of the internode between the calyx and the corolla, and bearing the corolla, stamens, and pistil.", "S": [], "A": []}

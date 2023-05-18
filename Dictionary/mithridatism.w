@@ -1,0 +1,1 @@
+{"index": 190590, "D": "the production of immunity against the action of a poison by taking the poison in gradually increased doses.", "S": [], "A": []}

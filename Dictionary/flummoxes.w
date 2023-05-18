@@ -1,0 +1,1 @@
+{"index": 115358, "D": "to bewilder; confound; confuse. ", "S": ["baffle ", "bewilder ", "confound ", "discombobulate ", "mystify ", "nonplus ", "perplex "], "A": ["clarify ", "clear up ", "enlighten ", "explain ", "help "]}

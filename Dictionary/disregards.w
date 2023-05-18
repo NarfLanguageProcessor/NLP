@@ -1,0 +1,1 @@
+{"index": 89318, "D": "to pay no attention to; leave out of consideration; ignore", "S": ["apathy ", "contempt ", "disdain ", "disrespect ", "inattention ", "indifference ", "neglect ", "negligence ", "scorn "], "A": ["admiration ", "approval ", "care ", "concern ", "esteem ", "feeling ", "interest ", "love ", "regard ", "respect ", "sympathy ", "remembrance "]}

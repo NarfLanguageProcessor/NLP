@@ -1,0 +1,1 @@
+{"index": 302573, "D": "the pollen-bearing organ of a flower, consisting of the filament and the anther.", "S": [], "A": []}

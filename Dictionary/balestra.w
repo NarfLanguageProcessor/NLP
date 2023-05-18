@@ -1,0 +1,1 @@
+{"index": 26837, "D": "a jump toward the opponent followed immediately by a lunge.", "S": [], "A": []}

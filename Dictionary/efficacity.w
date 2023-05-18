@@ -1,0 +1,1 @@
+{"index": 96022, "D": "a less common variant of efficacy. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37166, "D": "a foreboding or omen; presentiment.", "S": ["harbinger ", "indication ", "portent ", "premonition "], "A": []}

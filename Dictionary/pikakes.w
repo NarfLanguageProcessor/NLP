@@ -1,0 +1,1 @@
+{"index": 236509, "D": "a climbing vine, Jasminium sambac, of the olive family, probably of Asian origin, having fragrant white flowers used to flavor jasmine tea and, in Hawaii, to make leis.", "S": [], "A": []}

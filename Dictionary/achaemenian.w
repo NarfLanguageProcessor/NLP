@@ -1,0 +1,1 @@
+{"index": 2185, "D": "of or relating to the Achaemenids or their language, as recorded in cuneiform inscriptions.", "S": [], "A": []}

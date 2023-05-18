@@ -1,0 +1,1 @@
+{"index": 287115, "D": "one of the four schools of Islamic law, founded by al-Shafi\u02bfi.", "S": [], "A": []}

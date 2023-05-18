@@ -1,0 +1,1 @@
+{"index": 41605, "D": "a four-wheeled, boxlike, closed carriage for two or four persons, having the driver's perch outside.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69998, "D": "the sine of the complement of a given angle or arc. Abbreviation", "S": [], "A": []}

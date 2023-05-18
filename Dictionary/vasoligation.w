@@ -1,0 +1,1 @@
+{"index": 357419, "D": "ligation  of the vas deferens.", "S": [], "A": []}

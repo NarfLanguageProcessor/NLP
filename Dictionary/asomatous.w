@@ -1,0 +1,1 @@
+{"index": 21346, "D": "having no material body; incorporeal.", "S": ["incorporeal ", "nonmaterial "], "A": ["bodily ", "essential ", "important ", "material ", "meaningful ", "physical ", "real ", "relevant ", "solid ", "substantial "]}

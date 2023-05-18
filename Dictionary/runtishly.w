@@ -1,0 +1,1 @@
+{"index": 275705, "D": "an animal that is small or stunted as compared with others of its kind.", "S": [], "A": []}

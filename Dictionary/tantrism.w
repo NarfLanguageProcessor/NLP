@@ -1,0 +1,1 @@
+{"index": 316259, "D": "a movement within Hinduism combining magical and mystical elements and with sacred writings of its own", "S": [], "A": []}

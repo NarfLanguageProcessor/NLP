@@ -1,0 +1,1 @@
+{"index": 333703, "D": "(in czarist Russia) an edict or order of the czar having the force of law.", "S": ["act ", "announcement ", "directive ", "edict ", "injunction ", "instruction ", "judgment ", "law ", "order ", "proclamation ", "regulation ", "rule ", "ruling ", "statute "], "A": ["answer ", "disorganization ", "lawlessness "]}

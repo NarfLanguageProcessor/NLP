@@ -1,0 +1,1 @@
+{"index": 47126, "D": "of or designating an Epipaleolithic culture of northwestern Africa, characterized by the use of geometric microlithic tools.", "S": [], "A": []}

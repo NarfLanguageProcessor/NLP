@@ -1,0 +1,1 @@
+{"index": 30992, "D": "coming or being after the customary, useful, or expected time", "S": ["delay ", "dilatoriness ", "slowness ", "tardiness "], "A": []}

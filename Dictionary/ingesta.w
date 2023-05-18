@@ -1,0 +1,1 @@
+{"index": 152487, "D": "substances ingested.", "S": [], "A": []}

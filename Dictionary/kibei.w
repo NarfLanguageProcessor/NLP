@@ -1,0 +1,1 @@
+{"index": 164394, "D": "a person of Japanese descent, born in the U.S. but educated in Japan.", "S": [], "A": []}

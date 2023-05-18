@@ -1,0 +1,1 @@
+{"index": 111853, "D": "a person who participates in a feud. ", "S": [], "A": []}

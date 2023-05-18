@@ -1,0 +1,1 @@
+{"index": 280602, "D": "an act or instance of fighting a shadow or an imaginary enemy.", "S": [], "A": []}

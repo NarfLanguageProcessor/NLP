@@ -1,0 +1,1 @@
+{"index": 147060, "D": "a cathode-arc vacuum tube with an auxiliary electrode projecting into a pool of mercury", "S": [], "A": []}

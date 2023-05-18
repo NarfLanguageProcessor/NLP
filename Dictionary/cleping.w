@@ -1,0 +1,1 @@
+{"index": 59780, "D": "to call; name (now chiefly in the past participle as ycleped or yclept).", "S": [], "A": []}

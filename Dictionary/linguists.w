@@ -1,0 +1,1 @@
+{"index": 172892, "D": "a specialist in linguistics. ", "S": ["grammarian ", "interpreter ", "lexicographer ", "philologist ", "polyglot "], "A": []}

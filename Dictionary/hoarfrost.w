@@ -1,0 +1,1 @@
+{"index": 142036, "D": "frost (def. 2). ", "S": ["blight ", "dip ", "drop ", "freeze ", "ice ", "rime "], "A": []}

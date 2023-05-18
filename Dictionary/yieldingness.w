@@ -1,0 +1,1 @@
+{"index": 147143, "D": "inclined to give in; submissive; compliant", "S": [], "A": []}

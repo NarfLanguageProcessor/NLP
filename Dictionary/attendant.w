@@ -1,0 +1,1 @@
+{"index": 23010, "D": "a person who attends  another, as to perform a service.", "S": ["accompanying ", "consequent "], "A": ["absent ", "detached "]}

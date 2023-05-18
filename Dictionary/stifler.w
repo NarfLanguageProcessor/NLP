@@ -1,0 +1,1 @@
+{"index": 304379, "D": "to quell, crush, or end by force", "S": [], "A": []}

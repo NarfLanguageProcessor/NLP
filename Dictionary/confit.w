@@ -1,0 +1,1 @@
+{"index": 65965, "D": "duck or goose cooked in its own fat and preserved.", "S": ["sweet "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365517, "D": "to make or becomewide  or wider;  broaden; expand.", "S": ["artistic ", "developmental "], "A": []}

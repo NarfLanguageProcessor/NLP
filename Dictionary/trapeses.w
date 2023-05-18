@@ -1,0 +1,1 @@
+{"index": 328443, "D": "to walk or go aimlessly or idly or without finding or reaching one's goal", "S": [], "A": []}

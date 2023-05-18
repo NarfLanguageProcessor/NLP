@@ -1,0 +1,1 @@
+{"index": 13700, "D": "a medicine that relieves or allays pain.", "S": ["anesthetic ", "narcotic ", "sedative "], "A": []}

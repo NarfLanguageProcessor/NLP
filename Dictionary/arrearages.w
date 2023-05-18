@@ -1,0 +1,1 @@
+{"index": 20191, "D": "the state or condition of being in arrears. ", "S": ["arrears ", "balance due ", "indebtedness ", "liability ", "obligation ", "outstanding debt ", "unpaid bill ", "unpaid debt "], "A": []}

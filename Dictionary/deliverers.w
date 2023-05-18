@@ -1,0 +1,1 @@
+{"index": 80190, "D": "to carry and turn over (letters, goods, etc.) to the intended recipient or recipients", "S": ["redeemer ", "rescuer "], "A": []}

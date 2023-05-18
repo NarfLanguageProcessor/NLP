@@ -1,0 +1,1 @@
+{"index": 262882, "D": "to give, feel, etc., in return.", "S": ["repay ", "retaliate "], "A": ["ask ", "disagree ", "keep ", "question ", "request ", "take "]}

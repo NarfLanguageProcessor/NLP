@@ -1,0 +1,1 @@
+{"index": 346447, "D": "to deprive of a miter;  depose from the rank of a bishop.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53905, "D": "a former gold coin and monetary unit of the U.S.S.R., equal to ten rubles.", "S": [], "A": []}

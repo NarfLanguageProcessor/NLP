@@ -1,0 +1,1 @@
+{"index": 191926, "D": "pertaining to Mongolia. ", "S": [], "A": []}

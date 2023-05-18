@@ -1,0 +1,1 @@
+{"index": 179105, "D": "a planned and regulated movement or evolution of troops, warships, etc.", "S": ["assignment ", "conditioning ", "discipline ", "drilling ", "homework ", "preparation ", "repetition ", "training ", "tryout ", "warmup ", "workout "], "A": []}

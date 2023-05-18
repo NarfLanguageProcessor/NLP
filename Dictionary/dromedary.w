@@ -1,0 +1,1 @@
+{"index": 93272, "D": "the single-humped camel, Camelus dromedarius, of Arabia and northern Africa.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207046, "D": "not of, relating to, derived from, or used in science", "S": [], "A": []}

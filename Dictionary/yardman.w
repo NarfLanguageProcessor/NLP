@@ -1,0 +1,1 @@
+{"index": 145739, "D": "a sailor assigned to the yards  of a vessel.", "S": [], "A": []}

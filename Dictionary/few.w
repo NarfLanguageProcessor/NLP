@@ -1,0 +1,1 @@
+{"index": 111900, "D": "not many but more than one", "S": ["lean ", "less ", "middling ", "minor ", "minority ", "minute ", "petty ", "scanty ", "scattering ", "short ", "slight ", "trifling "], "A": ["big ", "consequential ", "fat ", "important ", "large ", "major ", "significant ", "tall ", "thick ", "useful "]}

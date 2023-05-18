@@ -1,0 +1,1 @@
+{"index": 59713, "D": "a large hook, especially one fixed to the inside walls of a house to hold clothing, pots, or food.", "S": [], "A": []}

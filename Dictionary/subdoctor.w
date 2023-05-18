@@ -1,0 +1,1 @@
+{"index": 307799, "D": "a person licensed to practice medicine, as a physician, surgeon, dentist, or veterinarian.", "S": [], "A": []}

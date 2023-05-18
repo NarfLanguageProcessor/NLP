@@ -1,0 +1,1 @@
+{"index": 225631, "D": "a model or pattern of excellence or of a particular excellence", "S": [], "A": []}

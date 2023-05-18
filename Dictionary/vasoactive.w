@@ -1,0 +1,1 @@
+{"index": 357395, "D": "of or relating to a substance, drug, or event that changes the diameter of a blood vessel.", "S": [], "A": []}

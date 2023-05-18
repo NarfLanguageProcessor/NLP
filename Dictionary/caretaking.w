@@ -1,0 +1,1 @@
+{"index": 47959, "D": "a person who is in charge of the maintenance of a building, estate, etc.; superintendent.", "S": ["affectionate ", "careful ", "comforting ", "devoted ", "fond ", "gentle ", "kind ", "loving ", "maternal ", "nurturing ", "protecting ", "protective ", "sheltering ", "supporting ", "sympathetic ", "tender ", "warm ", "watchful "], "A": []}

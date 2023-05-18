@@ -1,0 +1,1 @@
+{"index": 319529, "D": "a mosaic flooring or paving composed of chips of broken stone, usually marble, and cement, polished when in place.", "S": [], "A": []}

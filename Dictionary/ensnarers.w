@@ -1,0 +1,1 @@
+{"index": 101073, "D": "to capture in, or involve as in, a snare", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230622, "D": "conforming absolutely to the description or definition of an ideal type", "S": ["accomplishment ", "evolution ", "excellence ", "fulfillment ", "ideal ", "integrity ", "precision ", "purity ", "quality ", "superiority ", "supremacy ", "transcendence ", "virtue "], "A": ["failure ", "frustration ", "imperfection ", "inferiority "]}

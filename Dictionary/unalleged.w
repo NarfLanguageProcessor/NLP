@@ -1,0 +1,1 @@
+{"index": 334815, "D": "declared or stated to be as described; asserted", "S": [], "A": []}

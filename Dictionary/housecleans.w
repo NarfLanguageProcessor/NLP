@@ -1,0 +1,1 @@
+{"index": 144404, "D": "to subject (a house, room, etc.) to housecleaning.", "S": [], "A": []}

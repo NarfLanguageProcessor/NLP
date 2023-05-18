@@ -1,0 +1,1 @@
+{"index": 121485, "D": "a pair of suspenders for trousers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43677, "D": "a person who frequently drops things; clumsy person.", "S": ["inept "], "A": []}

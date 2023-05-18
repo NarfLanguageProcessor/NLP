@@ -1,0 +1,1 @@
+{"index": 15274, "D": "the policy or practice of showing hostility toward foreigners, foreign customs, etc.", "S": [], "A": []}

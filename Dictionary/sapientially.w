@@ -1,0 +1,1 @@
+{"index": 278114, "D": "containing, exhibiting, or affording wisdom; characterized by wisdom.", "S": [], "A": []}

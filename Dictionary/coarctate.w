@@ -1,0 +1,1 @@
+{"index": 61050, "D": "(of a pupa) having the body enclosed in a hardened shell or puparium.", "S": [], "A": []}

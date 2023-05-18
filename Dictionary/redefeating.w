@@ -1,0 +1,1 @@
+{"index": 264000, "D": "to overcome in a contest, election, battle, etc.; prevail over; vanquish", "S": [], "A": []}

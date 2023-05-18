@@ -1,0 +1,1 @@
+{"index": 297299, "D": "the condition or quality of being resonant or sonorous. ", "S": ["fullness ", "plangency ", "vibration "], "A": []}

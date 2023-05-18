@@ -1,0 +1,1 @@
+{"index": 195163, "D": "a brand name for a small photo-offset printing machine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 224467, "D": "Compare epidemic (def. 1). ", "S": ["contagion ", "curse ", "epidemic ", "infection ", "infestation ", "influenza ", "invasion ", "outbreak ", "pandemic ", "scourge "], "A": ["advantage ", "good fortune ", "good luck "]}

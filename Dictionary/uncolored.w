@@ -1,0 +1,1 @@
+{"index": 337237, "D": "having color.", "S": ["blunt ", "forthright ", "impartial ", "outspoken ", "sincere ", "straightforward ", "truthful ", "unbiased ", "unequivocal "], "A": ["biased ", "devious ", "dishonest ", "prejudiced ", "tactful ", "untruthful "]}

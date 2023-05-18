@@ -1,0 +1,1 @@
+{"index": 78923, "D": [], "S": ["conclusion ", "conjecture ", "generalization ", "judgment ", "ratiocination ", "rationalization ", "reason "], "A": ["blackballing ", "expulsion ", "rejection "]}

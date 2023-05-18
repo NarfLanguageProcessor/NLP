@@ -1,0 +1,1 @@
+{"index": 234884, "D": "any of a group of fatty compounds, as lecithin, composed of phosphoric esters, and occurring in living cells.", "S": [], "A": []}

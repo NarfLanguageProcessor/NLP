@@ -1,0 +1,1 @@
+{"index": 186061, "D": "minutely crystalline;  composed of microscopic crystals.", "S": [], "A": []}

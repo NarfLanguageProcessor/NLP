@@ -1,0 +1,1 @@
+{"index": 200265, "D": "a protuberance of the mamma or breast where, in the female, the milk ducts discharge; teat.", "S": ["bosom ", "chest "], "A": []}

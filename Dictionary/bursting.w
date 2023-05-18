@@ -1,0 +1,1 @@
+{"index": 43339, "D": "to break, break open, or fly apart with sudden violence", "S": ["breaking ", "exploding "], "A": ["calm ", "peaceful ", "stable "]}

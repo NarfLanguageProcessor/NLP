@@ -1,0 +1,1 @@
+{"index": 212815, "D": "(of a book) bearing its author's name", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 154710, "D": "conducted between or involving two or more companies", "S": [], "A": []}

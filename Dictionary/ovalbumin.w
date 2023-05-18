@@ -1,0 +1,1 @@
+{"index": 217999, "D": "the principal protein of egg white.", "S": [], "A": []}

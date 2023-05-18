@@ -1,0 +1,1 @@
+{"index": 337865, "D": "asserting the contrary or opposite; contradicting;  inconsistent; logically opposite", "S": [], "A": []}

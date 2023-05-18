@@ -1,0 +1,1 @@
+{"index": 93619, "D": "one's own way, choice, or preference", "S": ["affection ", "closeness ", "fondness ", "leaning ", "rapport ", "sympathy ", "weakness "], "A": ["dislike ", "hate ", "hatred "]}

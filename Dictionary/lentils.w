@@ -1,0 +1,1 @@
+{"index": 170508, "D": "a plant, Lens culinaris, of the legume family, having flattened, biconvex seeds used as food.", "S": [], "A": []}

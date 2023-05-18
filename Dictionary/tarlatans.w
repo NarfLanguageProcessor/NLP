@@ -1,0 +1,1 @@
+{"index": 316622, "D": "a thin, plain-weave, open-mesh cotton fabric finished with stiffening agents and sometimes glazed.", "S": [], "A": []}

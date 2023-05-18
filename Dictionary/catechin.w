@@ -1,0 +1,1 @@
+{"index": 49489, "D": "a water-soluble, astringent yellow compound, C15H14O6, found in gambier, used chiefly in tanning and dyeing.", "S": [], "A": []}

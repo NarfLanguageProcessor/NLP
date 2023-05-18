@@ -1,0 +1,1 @@
+{"index": 285720, "D": "(of a plant's capsule) bursting open lengthwise along a septum.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 58748, "D": "the dissolution or degeneration of cells.", "S": [], "A": []}

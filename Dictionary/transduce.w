@@ -1,0 +1,1 @@
+{"index": 327790, "D": "to convert (energy) from one form into another.", "S": [], "A": []}

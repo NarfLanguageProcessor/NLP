@@ -1,0 +1,1 @@
+{"index": 343330, "D": "surly or ill-tempered; discontentedly or sullenly irritable; grouchy.", "S": [], "A": []}

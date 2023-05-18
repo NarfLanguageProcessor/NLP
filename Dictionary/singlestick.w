@@ -1,0 +1,1 @@
+{"index": 291718, "D": "a short, heavy stick.", "S": [], "A": []}

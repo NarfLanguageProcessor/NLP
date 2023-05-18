@@ -1,0 +1,1 @@
+{"index": 80847, "D": "capable of being demonstrated  or proved.", "S": ["conclusive ", "irrefutable ", "obvious ", "undeniable ", "unmistakable ", "verifiable "], "A": ["indefinite ", "uncertain "]}

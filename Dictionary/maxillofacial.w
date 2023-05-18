@@ -1,0 +1,1 @@
+{"index": 181523, "D": "of, relating to, or affecting the jaws and the face", "S": [], "A": []}

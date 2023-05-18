@@ -1,0 +1,1 @@
+{"index": 27342, "D": "a robber, especially a member of a gang or marauding band.", "S": [], "A": []}

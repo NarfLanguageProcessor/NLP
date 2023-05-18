@@ -1,0 +1,1 @@
+{"index": 168737, "D": "the generation of coherent light by a laser.", "S": [], "A": []}

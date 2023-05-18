@@ -1,0 +1,1 @@
+{"index": 359144, "D": "any of several slender, climbing plants belonging to the genus Lathyrus, of the legume family, similar to the vetch  but having a winged or angular stem, as L. palustris, of North America.", "S": [], "A": []}

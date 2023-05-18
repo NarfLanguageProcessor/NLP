@@ -1,0 +1,1 @@
+{"index": 1642, "D": "easy to deal with; eager to help or please; obliging. ", "S": ["agreeably ", "kindly ", "thoughtfully "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146744, "D": "of, containing, or resembling yeast. ", "S": ["carbonated "], "A": ["dull "]}

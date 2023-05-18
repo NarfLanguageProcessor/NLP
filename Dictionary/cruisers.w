@@ -1,0 +1,1 @@
+{"index": 74149, "D": "a person or thing that cruises. ", "S": ["pleasure boat "], "A": []}

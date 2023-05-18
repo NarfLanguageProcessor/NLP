@@ -1,0 +1,1 @@
+{"index": 39159, "D": "a part of the intestine.", "S": ["belly ", "core ", "deep ", "depths ", "entrails ", "guts ", "hold ", "innards ", "interior ", "intestines ", "penetralia ", "recesses ", "viscera ", "vitals "], "A": ["exterior ", "exteriority ", "outside "]}

@@ -1,0 +1,1 @@
+{"index": 219598, "D": "to graze  (land) to excess.", "S": [], "A": []}

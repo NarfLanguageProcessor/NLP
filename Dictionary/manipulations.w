@@ -1,0 +1,1 @@
+{"index": 179334, "D": "the act of manipulating. ", "S": ["administration ", "control ", "direction ", "handling ", "use "], "A": []}

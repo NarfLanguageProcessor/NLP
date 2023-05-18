@@ -1,0 +1,1 @@
+{"index": 280818, "D": "the remains of a strip from which coin blanks have been cut; clippings.", "S": [], "A": []}

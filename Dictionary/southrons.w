@@ -1,0 +1,1 @@
+{"index": 298026, "D": "southerner (def. 2). ", "S": [], "A": []}

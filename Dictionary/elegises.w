@@ -1,0 +1,1 @@
+{"index": 97374, "D": "to lament in or as if in an elegy. ", "S": [], "A": []}

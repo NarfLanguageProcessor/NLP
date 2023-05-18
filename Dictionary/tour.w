@@ -1,0 +1,1 @@
+{"index": 326622, "D": "a traveling around from place to place.", "S": ["circuit ", "course ", "cruise ", "excursion ", "expedition ", "outing ", "road ", "round ", "swing ", "travel ", "trek ", "trip "], "A": ["stagnation "]}

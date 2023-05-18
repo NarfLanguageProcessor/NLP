@@ -1,0 +1,1 @@
+{"index": 188255, "D": "any plant belonging to the genus Myosotis, of the borage family, having basal leaves and pink or white flowers, as the forget-me-not.", "S": [], "A": []}

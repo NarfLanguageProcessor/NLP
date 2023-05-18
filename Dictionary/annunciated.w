@@ -1,0 +1,1 @@
+{"index": 13671, "D": "to announce.", "S": ["advertise ", "broadcast ", "declare ", "disclose ", "enunciate ", "proclaim ", "publicize ", "publish ", "report ", "sound ", "state ", "tell ", "trumpet "], "A": ["conceal ", "hide ", "secret "]}

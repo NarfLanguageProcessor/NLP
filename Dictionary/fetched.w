@@ -1,0 +1,1 @@
+{"index": 111728, "D": "damned", "S": ["carry ", "earn ", "go for ", "obtain ", "produce ", "retrieve ", "sell ", "sell for ", "yield "], "A": []}

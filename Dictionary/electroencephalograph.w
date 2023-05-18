@@ -1,0 +1,1 @@
+{"index": 97039, "D": "an instrument for measuring and recording the electric activity of the brain.", "S": [], "A": []}

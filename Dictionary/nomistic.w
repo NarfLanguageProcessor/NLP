@@ -1,0 +1,1 @@
+{"index": 200912, "D": "religious conduct based on law.", "S": ["congressional ", "parliamentary ", "senatorial "], "A": []}

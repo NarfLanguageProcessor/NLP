@@ -1,0 +1,1 @@
+{"index": 232946, "D": "a hot-cathode gas diode.", "S": [], "A": []}

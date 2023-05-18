@@ -1,0 +1,1 @@
+{"index": 79925, "D": "to prune the administrative structure of (a large organization) by reducing the number of tiers in its hierarchy", "S": [], "A": []}

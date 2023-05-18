@@ -1,0 +1,1 @@
+{"index": 202406, "D": "the act of contaminating, or of making something impure or unsuitable by contact with something unclean, bad, etc.", "S": [], "A": []}

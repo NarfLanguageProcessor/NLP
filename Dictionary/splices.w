@@ -1,0 +1,1 @@
+{"index": 300535, "D": "to join together or unite (two ropes or parts of a rope) by the interweaving of strands.", "S": ["graft "], "A": ["disconnect ", "disjoin ", "divide ", "divorce ", "separate ", "unfasten "]}

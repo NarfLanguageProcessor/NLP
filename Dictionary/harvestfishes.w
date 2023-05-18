@@ -1,0 +1,1 @@
+{"index": 134051, "D": "a butterfish of the genus Peprilus, especially P. alepidotus of Atlantic waters.", "S": [], "A": []}

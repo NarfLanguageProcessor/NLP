@@ -1,0 +1,1 @@
+{"index": 245505, "D": "in a way that involves deliberate and vigorous engagement or effort", "S": [], "A": []}

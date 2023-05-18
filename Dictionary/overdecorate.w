@@ -1,0 +1,1 @@
+{"index": 218870, "D": "to furnish or adorn with something ornamental or becoming; embellish", "S": [], "A": []}

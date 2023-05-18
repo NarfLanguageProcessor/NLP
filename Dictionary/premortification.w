@@ -1,0 +1,1 @@
+{"index": 248484, "D": "a feeling of humiliation or shame, as through some injury to one's pride or self-respect.", "S": [], "A": []}

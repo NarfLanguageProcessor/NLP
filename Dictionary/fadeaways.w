@@ -1,0 +1,1 @@
+{"index": 109135, "D": "an act or instance of fading away.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308412, "D": "the diversion of the energy of a sexual or other biological impulse from its immediate goal to one of a more acceptable social, moral, or aesthetic nature or use.", "S": ["conversion ", "defense ", "defense reaction ", "repression ", "suppression ", "symbolization "], "A": []}

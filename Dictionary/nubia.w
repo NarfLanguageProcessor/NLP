@@ -1,0 +1,1 @@
+{"index": 209275, "D": "a light, knitted woolen head scarf for women.", "S": [], "A": []}

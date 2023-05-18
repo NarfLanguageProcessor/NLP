@@ -1,0 +1,1 @@
+{"index": 54047, "D": "to jeer at; tease; deride.", "S": [], "A": []}

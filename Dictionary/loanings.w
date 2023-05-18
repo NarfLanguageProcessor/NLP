@@ -1,0 +1,1 @@
+{"index": 174122, "D": "the act of lending; a grant of the temporary use of something", "S": [], "A": []}

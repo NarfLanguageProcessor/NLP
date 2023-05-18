@@ -1,0 +1,1 @@
+{"index": 217907, "D": "simple past tense of outgo. ", "S": ["exceed ", "excel ", "outdistance ", "outdo ", "outgo ", "outshine ", "outstrip ", "surmount ", "top ", "transcend "], "A": ["fail ", "fall behind ", "lose "]}

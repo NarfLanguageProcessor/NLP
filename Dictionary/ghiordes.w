@@ -1,0 +1,1 @@
+{"index": 124552, "D": "a Turkish rug characterized by an uneven pile produced by the Ghiordes knot.", "S": [], "A": []}

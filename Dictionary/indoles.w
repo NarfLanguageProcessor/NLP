@@ -1,0 +1,1 @@
+{"index": 151238, "D": "a colorless to yellowish solid, C8H7N, having a low melting point and a fecal odor, found in the oil of jasmine and clove and as a putrefaction product from animals' intestines", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 182526, "D": "a sporophyll  producing megasporangia only.", "S": [], "A": []}

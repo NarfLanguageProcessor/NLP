@@ -1,0 +1,1 @@
+{"index": 188511, "D": "an aromatic resinous exudation from certain plants of the genus Myrrhis, especially M. odorata, a small spiny tree", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 185132, "D": "the science that deals with meteors.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360072, "D": "any of several deep-sea fishes  of the family Chauliodontidae, having a large mouth and fanglike teeth, some species having light-emitting organs on their bodies.", "S": [], "A": []}

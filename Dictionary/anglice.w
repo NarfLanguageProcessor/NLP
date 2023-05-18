@@ -1,0 +1,1 @@
+{"index": 12887, "D": "in English; as the English would say it; according to the English way", "S": [], "A": []}

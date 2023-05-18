@@ -1,0 +1,1 @@
+{"index": 81156, "D": "the lair or shelter of a wild animal, especially a predatory mammal.", "S": [], "A": []}

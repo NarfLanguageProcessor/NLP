@@ -1,0 +1,1 @@
+{"index": 199623, "D": "a usually massive, pale copper-red mineral, nickel  arsenide, NiAs, with a metallic luster.", "S": [], "A": []}

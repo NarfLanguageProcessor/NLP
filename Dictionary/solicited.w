@@ -1,0 +1,1 @@
+{"index": 296697, "D": "sought by means of a request or invitation; asked for", "S": ["approached ", "invited ", "petitioned ", "requested "], "A": []}

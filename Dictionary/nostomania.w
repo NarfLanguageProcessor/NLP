@@ -1,0 +1,1 @@
+{"index": 208781, "D": "intense homesickness; an irresistible compulsion to return home.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42789, "D": "a dwarf dogwood, Cornus canadensis, bearing dense clusters of bright-red berries. ", "S": [], "A": []}

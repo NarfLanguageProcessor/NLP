@@ -1,0 +1,1 @@
+{"index": 277818, "D": "the more or less fine debris of rocks, consisting of small, loose grains, often of quartz.", "S": ["bank ", "beach ", "border ", "coast ", "riverbank ", "sand ", "seaboard ", "seashore ", "waterfront "], "A": ["center ", "interior ", "middle "]}

@@ -1,0 +1,1 @@
+{"index": 39514, "D": "a large fern or brake, especially Pteridium aquilinum.", "S": ["scrub ", "thicket "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 30633, "D": "a member of a former lay brotherhood, founded in Flanders in the 13th century, living after the manner of the Beguines.", "S": [], "A": []}

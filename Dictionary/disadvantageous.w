@@ -1,0 +1,1 @@
+{"index": 86918, "D": "characterized by or involving disadvantage;  unfavorable; detrimental.", "S": ["adverse ", "derogatory ", "disparaging ", "hurtful ", "injurious ", "prejudicial ", "unfavorable "], "A": ["aiding ", "assisting ", "complimentary ", "favorable ", "good ", "helpful ", "nice "]}

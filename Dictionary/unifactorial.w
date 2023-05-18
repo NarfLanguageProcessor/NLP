@@ -1,0 +1,1 @@
+{"index": 344101, "D": "of or relating to a single gene.", "S": [], "A": []}

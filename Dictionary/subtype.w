@@ -1,0 +1,1 @@
+{"index": 309527, "D": "a subordinate type. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303117, "D": "(in certain bryozoans) an asexually produced group of cells encased in a chitinous covering that can survive unfavorable conditions, as freezing or drought, and germinate to produce a new colony.", "S": [], "A": []}

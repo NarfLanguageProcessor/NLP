@@ -1,0 +1,1 @@
+{"index": 95890, "D": "any of several eellike fishes of the genus Lumpenus, of the prickleback family, found in subarctic coastal waters.", "S": [], "A": []}

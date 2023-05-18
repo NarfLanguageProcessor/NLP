@@ -1,0 +1,1 @@
+{"index": 161563, "D": "an unleavened cake or bread made of cornmeal and water or milk, usually cooked on a griddle.", "S": ["battercake ", "flapcake ", "griddlecake ", "hotcake "], "A": []}

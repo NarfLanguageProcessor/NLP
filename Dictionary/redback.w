@@ -1,0 +1,1 @@
+{"index": 263879, "D": "a small venomous Australian spider, Latrodectus hasselti, having long thin legs and, in the female, a red stripe on the back of its globular abdomen", "S": [], "A": []}

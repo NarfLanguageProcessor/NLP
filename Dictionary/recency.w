@@ -1,0 +1,1 @@
+{"index": 262700, "D": "the fact of being recent,  of having occurred a relatively short time ago; closeness of a past event to a later past time or to the present", "S": [], "A": []}

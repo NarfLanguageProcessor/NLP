@@ -1,0 +1,1 @@
+{"index": 348410, "D": "of or relating to a president  or presidency. ", "S": [], "A": []}

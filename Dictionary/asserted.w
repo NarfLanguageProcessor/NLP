@@ -1,0 +1,1 @@
+{"index": 21684, "D": "resting on a statement or claim unsupported by evidence or proof; alleged", "S": ["alleged ", "apparent ", "conjectural ", "hypothetical ", "inferential ", "likely ", "presumed ", "presumptive ", "presupposed ", "purported ", "suppositional ", "suppositious ", "supposititious ", "suppositive "], "A": []}

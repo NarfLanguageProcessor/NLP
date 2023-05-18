@@ -1,0 +1,1 @@
+{"index": 82490, "D": "to lessen the sensitiveness  of.", "S": [], "A": []}

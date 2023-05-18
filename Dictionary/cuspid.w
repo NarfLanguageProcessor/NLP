@@ -1,0 +1,1 @@
+{"index": 75660, "D": "(in humans) a tooth with a single projection point or elevation; canine.", "S": ["bicuspid ", "canine ", "denticle ", "eyetooth ", "fang ", "grinder ", "incisor ", "ivory ", "molar ", "premolar ", "tusk "], "A": []}

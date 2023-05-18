@@ -1,0 +1,1 @@
+{"index": 120910, "D": "(used as a mild oath.)", "S": [], "A": []}

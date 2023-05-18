@@ -1,0 +1,1 @@
+{"index": 156968, "D": "not urbane;  lacking in courtesy, refinement, etc.", "S": [], "A": []}

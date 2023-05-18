@@ -1,0 +1,1 @@
+{"index": 37193, "D": "to give (an opponent) a body check. ", "S": [], "A": []}

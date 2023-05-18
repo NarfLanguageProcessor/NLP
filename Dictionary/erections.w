@@ -1,0 +1,1 @@
+{"index": 103529, "D": "the act of erecting. ", "S": ["adjustment ", "attachment ", "building ", "collection ", "construction ", "fabrication ", "joining ", "manufacture ", "manufacturing ", "modeling ", "molding ", "shaping ", "welding "], "A": []}

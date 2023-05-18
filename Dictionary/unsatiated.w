@@ -1,0 +1,1 @@
+{"index": 350360, "D": "satisfied, as one's appetite or desire, to the point of boredom.", "S": [], "A": []}

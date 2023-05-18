@@ -1,0 +1,1 @@
+{"index": 18449, "D": "one of a class of the Vedic texts that, together with the Upanishads, make up the closing portions of the Brahmanas.", "S": [], "A": []}

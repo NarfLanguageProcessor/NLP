@@ -1,0 +1,1 @@
+{"index": 368883, "D": "a member of an American Indian people living in the Mexican state of Oaxaca.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343371, "D": "accompanied by a guide", "S": [], "A": []}

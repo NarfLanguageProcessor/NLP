@@ -1,0 +1,1 @@
+{"index": 221928, "D": "either of a pair of tubes that transport the ova from the ovary to the exterior, the distal ends of which form the uterus and vagina in higher mammals.", "S": [], "A": []}

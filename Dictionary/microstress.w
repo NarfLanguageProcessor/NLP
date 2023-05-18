@@ -1,0 +1,1 @@
+{"index": 186570, "D": "a stress  in the microstructure of a metal, as one caused by the distortion of space lattices.", "S": [], "A": []}

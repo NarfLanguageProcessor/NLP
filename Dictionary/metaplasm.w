@@ -1,0 +1,1 @@
+{"index": 184925, "D": "the nonliving matter or inclusions, as starch or pigments, within a cell.", "S": [], "A": []}

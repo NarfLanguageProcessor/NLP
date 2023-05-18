@@ -1,0 +1,1 @@
+{"index": 52567, "D": "a variant spelling of Hanukkah", "S": [], "A": []}

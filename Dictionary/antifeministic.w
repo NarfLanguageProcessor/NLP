@@ -1,0 +1,1 @@
+{"index": 15248, "D": "advocating social, political, legal, and economic rights for women equal to those of men.", "S": [], "A": []}

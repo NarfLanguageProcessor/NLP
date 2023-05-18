@@ -1,0 +1,1 @@
+{"index": 186862, "D": "a person trained to assist women in childbirth.", "S": [], "A": []}

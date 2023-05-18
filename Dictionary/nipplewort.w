@@ -1,0 +1,1 @@
+{"index": 200269, "D": "a yellow-flowered plant, Lapsana communis, found in woods and on wasteland.", "S": [], "A": []}

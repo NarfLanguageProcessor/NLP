@@ -1,0 +1,1 @@
+{"index": 155784, "D": "to bring or enter into reciprocal relation.", "S": ["convolute ", "impede ", "involve ", "muddle ", "obscure ", "perplex ", "upset "], "A": ["clear up ", "enlighten ", "explain ", "order ", "arrange ", "clarify ", "divide ", "exclude ", "free ", "straighten ", "untangle ", "untwist "]}

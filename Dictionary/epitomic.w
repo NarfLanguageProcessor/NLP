@@ -1,0 +1,1 @@
+{"index": 103004, "D": "a person or thing that is typical of or possesses to a high degree the features of a whole class", "S": [], "A": []}

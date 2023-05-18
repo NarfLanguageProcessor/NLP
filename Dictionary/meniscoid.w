@@ -1,0 +1,1 @@
+{"index": 183378, "D": "a crescent or a crescent-shaped body.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201290, "D": "misplaced in time; anachronistic.", "S": [], "A": []}

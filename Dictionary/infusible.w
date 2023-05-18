@@ -1,0 +1,1 @@
+{"index": 152412, "D": "not fusible;  incapable of being fused or melted.", "S": [], "A": []}

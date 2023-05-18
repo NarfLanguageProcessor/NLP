@@ -1,0 +1,1 @@
+{"index": 92773, "D": "drawing card. ", "S": [], "A": []}

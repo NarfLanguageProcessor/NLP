@@ -1,0 +1,1 @@
+{"index": 34677, "D": "an action or speech carried on to the side while the main action proceeds, especially on the stage.", "S": ["accomplishment ", "act ", "action ", "adventure ", "fact ", "feat ", "reality ", "truth "], "A": ["cessation ", "failure ", "idleness ", "inaction ", "inactivity ", "inertia ", "lie ", "repose ", "rest ", "stoppage "]}

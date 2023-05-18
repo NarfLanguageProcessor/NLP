@@ -1,0 +1,1 @@
+{"index": 333125, "D": "mine and thine.", "S": [], "A": []}

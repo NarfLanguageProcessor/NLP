@@ -1,0 +1,1 @@
+{"index": 155567, "D": "of, relating to, or of the nature of a papilla  or papillae. ", "S": [], "A": []}

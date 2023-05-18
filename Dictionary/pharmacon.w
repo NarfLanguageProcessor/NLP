@@ -1,0 +1,1 @@
+{"index": 233150, "D": [], "S": ["antidote ", "drug ", "elixir ", "fix ", "healing ", "medication ", "medicine ", "panacea ", "placebo ", "quick fix ", "recovery ", "remedy ", "treatment "], "A": ["injury ", "blockage ", "hindrance ", "hurt ", "obstruction ", "stop "]}

@@ -1,0 +1,1 @@
+{"index": 56040, "D": "a consecrated oil, usually mixed with balsam or balsam and spices, used by certainchurches in various rites, as in baptism, confirmation, and the like.", "S": ["unction "], "A": []}

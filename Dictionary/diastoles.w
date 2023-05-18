@@ -1,0 +1,1 @@
+{"index": 84567, "D": "Compare systole (def. 1). ", "S": [], "A": []}

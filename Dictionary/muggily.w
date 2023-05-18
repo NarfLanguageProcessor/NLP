@@ -1,0 +1,1 @@
+{"index": 194794, "D": "(of the atmosphere, weather, etc.) oppressively humid; damp and close.", "S": [], "A": []}

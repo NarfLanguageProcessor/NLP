@@ -1,0 +1,1 @@
+{"index": 300440, "D": "brilliant or gorgeous appearance, coloring, etc.; magnificence", "S": ["brilliance ", "grandeur ", "luster ", "magnificence ", "majesty ", "pomp ", "richness "], "A": ["dullness ", "simplicity ", "hiding "]}

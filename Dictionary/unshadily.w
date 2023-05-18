@@ -1,0 +1,1 @@
+{"index": 350884, "D": "abounding in shade; shaded", "S": [], "A": []}

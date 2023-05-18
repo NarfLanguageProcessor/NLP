@@ -1,0 +1,1 @@
+{"index": 160539, "D": "a compact, opaque, cryptocrystalline variety of quartz, usually colored red", "S": [], "A": []}

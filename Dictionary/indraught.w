@@ -1,0 +1,1 @@
+{"index": 151291, "D": "the act of drawing or pulling in", "S": [], "A": []}

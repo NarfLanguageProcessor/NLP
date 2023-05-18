@@ -1,0 +1,1 @@
+{"index": 236291, "D": "a movement, originating in the Lutheran Church in Germany in the 17th century, that stressed personal piety over religious formality and orthodoxy.", "S": ["angel ", "martyr "], "A": []}

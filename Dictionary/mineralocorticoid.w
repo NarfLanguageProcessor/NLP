@@ -1,0 +1,1 @@
+{"index": 187746, "D": "any of a group of corticosteroid hormones, synthesized by the adrenal cortex, that regulate the excretion or reabsorption of sodium and potassium by the kidneys, salivary glands, and sweat glands.", "S": [], "A": []}

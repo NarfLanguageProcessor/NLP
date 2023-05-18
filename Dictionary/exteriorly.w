@@ -1,0 +1,1 @@
+{"index": 108274, "D": "outer; being on the outer side", "S": [], "A": []}

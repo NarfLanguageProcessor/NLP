@@ -1,0 +1,1 @@
+{"index": 294631, "D": [], "S": ["mawkish ", "mushy ", "romantic ", "sentimental ", "syrupy ", "weepy "], "A": ["pragmatic ", "unemotional ", "unromantic "]}

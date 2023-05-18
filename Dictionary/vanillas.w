@@ -1,0 +1,1 @@
+{"index": 356976, "D": "any tropical, climbing orchid of the genus Vanilla, especially V. planifolia, bearing podlike fruit yielding an extract used in flavoring food, in perfumery, etc.", "S": [], "A": []}

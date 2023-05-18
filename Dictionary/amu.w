@@ -1,0 +1,1 @@
+{"index": 11402, "D": "atomic mass unit (def. 2). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72308, "D": "crayfish. ", "S": ["back out ", "backpedal ", "crawfish ", "pull back ", "retreat ", "withdraw "], "A": ["move forward ", "stay "]}

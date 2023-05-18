@@ -1,0 +1,1 @@
+{"index": 111281, "D": "a synthetic, short-acting narcotic analgesic and sedative, C22H28N2O, used pharmacologically in anesthesia and neuroleptanalgesia, and also as an illicit drug", "S": [], "A": []}

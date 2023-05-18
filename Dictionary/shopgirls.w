@@ -1,0 +1,1 @@
+{"index": 288806, "D": "a salesgirl; female store clerk.", "S": [], "A": []}

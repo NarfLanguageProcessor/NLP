@@ -1,0 +1,1 @@
+{"index": 17114, "D": "the state of being restored or reestablished; restitution.", "S": [], "A": []}

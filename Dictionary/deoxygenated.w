@@ -1,0 +1,1 @@
+{"index": 81466, "D": "to remove oxygen from (a substance, as blood or water).", "S": [], "A": []}

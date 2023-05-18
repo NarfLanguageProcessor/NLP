@@ -1,0 +1,1 @@
+{"index": 341634, "D": "not offering any basis for exception or objection; beyond criticism", "S": [], "A": []}

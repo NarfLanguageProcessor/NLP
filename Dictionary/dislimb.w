@@ -1,0 +1,1 @@
+{"index": 88583, "D": [], "S": ["debilitate ", "hamstring ", "hurt ", "immobilize ", "incapacitate ", "injure ", "paralyze ", "sap ", "stifle ", "undermine ", "weaken "], "A": ["aid ", "assist ", "cure ", "heal ", "help ", "mend ", "mobilize ", "strengthen ", "repair "]}

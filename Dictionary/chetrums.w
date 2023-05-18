@@ -1,0 +1,1 @@
+{"index": 53963, "D": "a coin and monetary unit of Bhutan, the hundredth part of a ngultrum.", "S": [], "A": []}

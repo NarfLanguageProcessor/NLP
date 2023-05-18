@@ -1,0 +1,1 @@
+{"index": 224847, "D": "a claim or pretension to pansophy.", "S": [], "A": []}

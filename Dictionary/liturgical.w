@@ -1,0 +1,1 @@
+{"index": 173907, "D": "of or relating to formal public worship or liturgies. ", "S": ["ritualistic ", "solemn "], "A": []}

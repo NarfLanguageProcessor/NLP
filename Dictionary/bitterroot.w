@@ -1,0 +1,1 @@
+{"index": 35261, "D": "a plant, Lewisia rediviva, of the purslane family, having pink flowers and fleshy roots  that are edible when young", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315162, "D": "the aquatic larva or immature form of frogs and toads, especially after the development of the internal gills and before the appearance of the forelimbs and the resorption of the tail.", "S": ["child ", "fellow ", "guy ", "lad ", "youngster ", "youth "], "A": ["girl "]}

@@ -1,0 +1,1 @@
+{"index": 183614, "D": "any of a class of sulfur-containing compounds having the type formula RSH, in which R represents a radical, and having an extremely offensive, garlicky odor.", "S": [], "A": []}

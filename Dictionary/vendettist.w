@@ -1,0 +1,1 @@
+{"index": 357955, "D": "a private feud in which the members of the family of a murdered person seek to avenge the murder by killing the slayer or one of the slayer's relatives, especially such vengeance as once practiced in Corsica and parts of Italy.", "S": [], "A": []}

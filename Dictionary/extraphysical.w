@@ -1,0 +1,1 @@
+{"index": 108585, "D": "outside the physical;  not subject to physical  laws.", "S": [], "A": []}

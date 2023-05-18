@@ -1,0 +1,1 @@
+{"index": 18165, "D": "a colloidal suspension of graphite in water, used as a conductor and lubricant.", "S": [], "A": []}

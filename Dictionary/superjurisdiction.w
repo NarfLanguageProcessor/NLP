@@ -1,0 +1,1 @@
+{"index": 312164, "D": "the right, power, or authority to administer justice by hearing and determining controversies.", "S": [], "A": []}

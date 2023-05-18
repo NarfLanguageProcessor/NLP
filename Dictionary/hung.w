@@ -1,0 +1,1 @@
+{"index": 145134, "D": "simple past tense and past participle of hang. ", "S": ["dangling ", "hanging ", "swaying "], "A": []}

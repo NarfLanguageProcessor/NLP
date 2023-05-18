@@ -1,0 +1,1 @@
+{"index": 173118, "D": "a monetary unit of Croatia.", "S": [], "A": []}

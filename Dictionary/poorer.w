@@ -1,0 +1,1 @@
+{"index": 243169, "D": "having little or no money, goods, or other means of support", "S": ["indifferent ", "lousy ", "mediocre ", "substandard "], "A": ["excellent ", "exceptional ", "extraordinary ", "extreme ", "good ", "honest ", "noble ", "uncommon ", "unusual "]}

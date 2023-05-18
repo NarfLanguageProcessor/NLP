@@ -1,0 +1,1 @@
+{"index": 169696, "D": "lying; falsehood.", "S": [], "A": []}

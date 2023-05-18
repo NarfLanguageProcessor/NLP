@@ -1,0 +1,1 @@
+{"index": 54631, "D": "a tough, twilled cotton cloth used for uniforms, sports clothes, etc.", "S": ["knickers ", "shorts ", "slacks ", "trousers ", "underpants "], "A": []}

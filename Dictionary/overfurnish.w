@@ -1,0 +1,1 @@
+{"index": 219487, "D": "to supply (a house, room, etc.) with necessary furniture,  carpets, appliances, etc.", "S": [], "A": []}

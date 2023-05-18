@@ -1,0 +1,1 @@
+{"index": 276389, "D": "the act or ritual of consecration, esp of the Eucharist or of a bishop", "S": [], "A": []}

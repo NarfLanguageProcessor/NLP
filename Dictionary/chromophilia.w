@@ -1,0 +1,1 @@
+{"index": 56349, "D": "the property of staining readily.", "S": [], "A": []}

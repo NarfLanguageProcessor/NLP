@@ -1,0 +1,1 @@
+{"index": 188313, "D": "an effect or extraordinary event in the physical world that surpasses all known human or natural powers and is ascribed to a supernatural cause.", "S": ["marvel ", "phenomenon ", "rarity ", "revelation ", "surprise ", "wonder "], "A": ["expectation "]}

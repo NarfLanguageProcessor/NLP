@@ -1,0 +1,1 @@
+{"index": 134552, "D": "characterized by the presence of haze; misty", "S": ["covertly ", "darkly ", "dingily ", "dully ", "duskily ", "gloomily ", "indecisively ", "indefinably ", "indefinitely ", "indistinctly ", "nebulously ", "secretly ", "tenebrously ", "thickly ", "unobtrusively ", "vaguely "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71864, "D": "burglar; housebreaker.", "S": ["cat man ", "housebreaker ", "second-story man ", "second-story thief ", "yegg "], "A": []}

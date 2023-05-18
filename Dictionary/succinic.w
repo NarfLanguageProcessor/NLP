@@ -1,0 +1,1 @@
+{"index": 309850, "D": "pertaining to or obtained from amber.", "S": [], "A": []}

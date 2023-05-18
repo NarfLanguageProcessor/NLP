@@ -1,0 +1,1 @@
+{"index": 335837, "D": "a past participle of bespeak. ", "S": [], "A": []}

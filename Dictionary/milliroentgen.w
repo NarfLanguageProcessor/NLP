@@ -1,0 +1,1 @@
+{"index": 187449, "D": "a unit of radiation equal to one thousandth of a roentgen. Abbreviation", "S": [], "A": []}

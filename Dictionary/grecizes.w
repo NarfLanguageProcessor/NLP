@@ -1,0 +1,1 @@
+{"index": 129477, "D": "to impart Greek characteristics to.", "S": [], "A": []}

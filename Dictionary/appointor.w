@@ -1,0 +1,1 @@
+{"index": 17854, "D": "a person who exercises a power of appointment of property.", "S": [], "A": []}

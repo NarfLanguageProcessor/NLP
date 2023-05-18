@@ -1,0 +1,1 @@
+{"index": 176229, "D": "a sudden forward thrust, as with a sword or knife; stab.", "S": ["extending ", "grasping ", "straining ", "stretching ", "touching "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 302893, "D": "a person who stargazes,  as an astronomer or astrologer.", "S": ["astronomer "], "A": []}

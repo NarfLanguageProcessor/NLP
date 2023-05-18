@@ -1,0 +1,1 @@
+{"index": 309211, "D": "subsisting, existing, or continuing in existence.", "S": [], "A": []}

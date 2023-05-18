@@ -1,0 +1,1 @@
+{"index": 319011, "D": "a playing card the face of which bears ten pips.", "S": [], "A": []}

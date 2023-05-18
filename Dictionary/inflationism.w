@@ -1,0 +1,1 @@
+{"index": 152109, "D": "the policy or practice of inflation  through expansion of currency or bank deposits.", "S": [], "A": []}

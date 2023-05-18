@@ -1,0 +1,1 @@
+{"index": 289321, "D": "a husk or pod, as the outer covering of corn, hickory nuts, chestnuts, etc.", "S": ["discard ", "ditch ", "husk ", "jettison ", "peel ", "pod ", "remove ", "shed ", "shell ", "strip "], "A": ["cover "]}

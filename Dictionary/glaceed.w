@@ -1,0 +1,1 @@
+{"index": 125736, "D": "ice placed in a drink to cool it.", "S": [], "A": []}

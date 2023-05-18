@@ -1,0 +1,1 @@
+{"index": 7622, "D": "a form of chemistry and speculative philosophy practiced in the Middle Ages and the Renaissance and concerned principally with discovering methods for transmuting baser metals into gold and with finding a universal solvent and an elixir of life.", "S": ["witchcraft ", "wizardry "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 217372, "D": "open or unqualified contempt; disdain", "S": [], "A": []}

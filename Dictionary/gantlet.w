@@ -1,0 +1,1 @@
+{"index": 121981, "D": "a track construction used in narrow places, in which two parallel tracks converge so that their inner rails cross, run parallel, and diverge again, thus allowing a train to remain on its own track at all times.", "S": [], "A": []}

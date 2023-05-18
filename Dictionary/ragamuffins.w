@@ -1,0 +1,1 @@
+{"index": 259906, "D": "a ragged, disreputable person; tatterdemalion.", "S": ["beggar ", "bum ", "gamin ", "guttersnipe ", "hobo ", "loafer ", "orphan ", "scarecrow ", "tatterdemalion ", "tramp ", "urchin ", "vagabond ", "vagrant ", "waif ", "wastrel "], "A": ["sophisticate "]}

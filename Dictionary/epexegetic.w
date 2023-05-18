@@ -1,0 +1,1 @@
+{"index": 102093, "D": "of, serving as, or like an epexegesis. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268, "D": "of, in, on, or for the abdomen", "S": ["celiac muscle ", "peritoneum ", "stomach muscle ", "stomachal muscle ", "stomachic muscle ", "tummy muscle ", "viscera "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312534, "D": "having or showing acute mental discernment and keen practical sense; shrewd", "S": [], "A": []}

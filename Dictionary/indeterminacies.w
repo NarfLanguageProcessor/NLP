@@ -1,0 +1,1 @@
+{"index": 150838, "D": "the condition or quality of being indeterminate;  indetermination.", "S": [], "A": []}

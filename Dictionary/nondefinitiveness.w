@@ -1,0 +1,1 @@
+{"index": 202806, "D": "most reliable or complete, as of a text, author, criticism, study, or the like", "S": [], "A": []}

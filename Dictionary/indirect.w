@@ -1,0 +1,1 @@
+{"index": 151045, "D": "not in a direct course or path; deviating from a straight line; roundabout", "S": ["ambiguous ", "ancillary ", "circuitous ", "implied ", "incidental ", "oblique ", "tortuous "], "A": ["direct ", "straight ", "straightforward "]}

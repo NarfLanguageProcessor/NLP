@@ -1,0 +1,1 @@
+{"index": 369359, "D": "the conversion of a zymogen into an enzyme", "S": [], "A": []}

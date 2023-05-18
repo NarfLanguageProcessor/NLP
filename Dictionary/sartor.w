@@ -1,0 +1,1 @@
+{"index": 278565, "D": "a humorous or literary word for tailor", "S": [], "A": []}

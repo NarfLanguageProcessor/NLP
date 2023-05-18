@@ -1,0 +1,1 @@
+{"index": 204203, "D": "in an economical way; not wastefully", "S": [], "A": []}

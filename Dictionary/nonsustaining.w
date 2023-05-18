@@ -1,0 +1,1 @@
+{"index": 207731, "D": "to support, hold, or bear up from below; bear the weight of, as a structure.", "S": [], "A": []}

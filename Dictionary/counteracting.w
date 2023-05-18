@@ -1,0 +1,1 @@
+{"index": 70618, "D": "to act  in opposition to; frustrate by contrary action.", "S": ["curative ", "disciplinary ", "punitive ", "remedial ", "therapeutic "], "A": ["damaging ", "harmful ", "hurtful ", "injurious "]}

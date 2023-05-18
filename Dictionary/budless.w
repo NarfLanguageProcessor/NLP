@@ -1,0 +1,1 @@
+{"index": 42196, "D": "an undeveloped or rudimentary stem or branch of a plant.", "S": [], "A": []}

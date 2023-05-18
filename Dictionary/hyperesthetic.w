@@ -1,0 +1,1 @@
+{"index": 140108, "D": "an abnormally acute sense of pain, heat, cold, or touch; algesia.", "S": [], "A": []}

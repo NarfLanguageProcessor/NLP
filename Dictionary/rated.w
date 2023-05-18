@@ -1,0 +1,1 @@
+{"index": 260988, "D": "the amount of a charge or payment with reference to some basis of calculation", "S": ["graded "], "A": []}

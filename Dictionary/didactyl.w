@@ -1,0 +1,1 @@
+{"index": 85026, "D": "(esp of many marsupials) having the hind toes separate", "S": [], "A": []}

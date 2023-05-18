@@ -1,0 +1,1 @@
+{"index": 344467, "D": "having been instructed in or imbued with a specific belief or point of view, especially one that is partisan or biased", "S": [], "A": []}

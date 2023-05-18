@@ -1,0 +1,1 @@
+{"index": 116122, "D": "involving no risk or harm, even when tampered with.", "S": ["flawless ", "reliable ", "surefire ", "unassailable "], "A": []}

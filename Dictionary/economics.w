@@ -1,0 +1,1 @@
+{"index": 95380, "D": "the science that deals with the production, distribution, and consumption of goods and services, or the material welfare of humankind.", "S": ["business ", "finance ", "social science "], "A": []}

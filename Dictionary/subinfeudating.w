@@ -1,0 +1,1 @@
+{"index": 308211, "D": "to grant subinfeudation  (to).", "S": [], "A": []}

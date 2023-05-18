@@ -1,0 +1,1 @@
+{"index": 168982, "D": "knowledge or use of the Latin language", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71417, "D": "a sturdy fabric constructed of a compactly woven herringbone twill.", "S": [], "A": []}

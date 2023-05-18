@@ -1,0 +1,1 @@
+{"index": 279370, "D": "any of three deep-bodied, cichlid fishes, Pterophyllum scalare, P. altum, and P. eimekei, inhabiting northern South American rivers, often kept in aquariums.", "S": [], "A": []}

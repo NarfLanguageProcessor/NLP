@@ -1,0 +1,1 @@
+{"index": 289839, "D": "to step to one side.", "S": ["avoid ", "bypass ", "duck ", "evade ", "fudge ", "skirt "], "A": ["face ", "meet ", "take on "]}

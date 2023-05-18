@@ -1,0 +1,1 @@
+{"index": 279733, "D": "Compare screamer (def. 4). ", "S": ["caption ", "title "], "A": []}

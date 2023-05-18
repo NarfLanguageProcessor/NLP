@@ -1,0 +1,1 @@
+{"index": 40066, "D": "decorative work along the coping or on the cornice of a building", "S": [], "A": []}

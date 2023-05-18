@@ -1,0 +1,1 @@
+{"index": 176600, "D": "the goddess personifying law and righteousness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363069, "D": "vigilant or alert; closely observant", "S": ["alertness ", "attention ", "awareness ", "carefulness ", "caution ", "keenness ", "mindfulness ", "readiness ", "wakefulness ", "wariness "], "A": ["ignorance ", "neglect ", "negligence "]}

@@ -1,0 +1,1 @@
+{"index": 27867, "D": "(formerly) a person who composed and recited epic or heroic poems, often while playing the harp, lyre, or the like.", "S": [], "A": []}

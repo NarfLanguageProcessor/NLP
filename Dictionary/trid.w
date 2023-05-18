@@ -1,0 +1,1 @@
+{"index": 329644, "D": "(in prescriptions) three days.", "S": [], "A": []}

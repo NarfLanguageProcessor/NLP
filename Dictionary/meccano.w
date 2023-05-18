@@ -1,0 +1,1 @@
+{"index": 181858, "D": "a construction set consisting of miniature metal or plastic parts from which mechanical models can be made", "S": [], "A": []}

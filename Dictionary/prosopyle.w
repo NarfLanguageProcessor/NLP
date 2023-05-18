@@ -1,0 +1,1 @@
+{"index": 253173, "D": "(in sponges) a pore through which water is drawn from the outside into one of the saclike chambers formed by the evagination of the body wall.", "S": [], "A": []}

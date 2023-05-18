@@ -1,0 +1,1 @@
+{"index": 234898, "D": "to combine or impregnate with phosphorus.", "S": [], "A": []}

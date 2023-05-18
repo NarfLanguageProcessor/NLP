@@ -1,0 +1,1 @@
+{"index": 24527, "D": "promoting lysis or increasing lytic action.", "S": [], "A": []}

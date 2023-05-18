@@ -1,0 +1,1 @@
+{"index": 235281, "D": "of, relating to, or caused by the collision of high-energy photons with the nucleus of an atom.", "S": [], "A": []}

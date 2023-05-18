@@ -1,0 +1,1 @@
+{"index": 198028, "D": "expressing or containing negation or denial", "S": ["antagonism ", "negativism "], "A": ["positiveness ", "positivity ", "willingness ", "alacrity ", "confidence ", "eagerness ", "readiness ", "zeal "]}

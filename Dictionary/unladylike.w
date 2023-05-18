@@ -1,0 +1,1 @@
+{"index": 345405, "D": "like a lady. ", "S": ["coarse ", "crude ", "indelicate ", "rude ", "uncouth ", "unrefined ", "vulgar "], "A": ["ladylike ", "refined "]}

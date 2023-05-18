@@ -1,0 +1,1 @@
+{"index": 121274, "D": "any of several weedy composite plants of the genus Galinsoga, especially G. ciliata or G. parviflora, having small flower heads with short, sparse white rays.", "S": [], "A": []}

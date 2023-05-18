@@ -1,0 +1,1 @@
+{"index": 51009, "D": "(especially in continental Europe) a member of a political party of the Center; moderate. ", "S": ["mainstreamer ", "middle-of-the-roader ", "moderatist "], "A": ["extremist ", "radical ", "revolutionary ", "revolutionist ", "ultraist "]}

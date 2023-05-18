@@ -1,0 +1,1 @@
+{"index": 112610, "D": "the kilt or pleated skirt worn by Scottish Highlanders.", "S": [], "A": []}

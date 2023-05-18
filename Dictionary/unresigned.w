@@ -1,0 +1,1 @@
+{"index": 349698, "D": "submissive or acquiescent.", "S": [], "A": []}

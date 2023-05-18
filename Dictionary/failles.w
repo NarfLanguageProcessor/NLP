@@ -1,0 +1,1 @@
+{"index": 109258, "D": "a soft, transversely ribbed fabric of silk, rayon, or lightweight taffeta.", "S": [], "A": []}

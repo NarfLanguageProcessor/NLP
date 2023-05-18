@@ -1,0 +1,1 @@
+{"index": 258624, "D": "a type of decoration using softened and usually dyed porcupine or bird quills.", "S": [], "A": []}

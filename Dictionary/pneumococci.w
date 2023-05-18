@@ -1,0 +1,1 @@
+{"index": 240791, "D": "a bacterium, Diplococcus pneumoniae, causing lobar pneumonia and associated with certain other diseases, as pericarditis and meningitis.", "S": [], "A": []}

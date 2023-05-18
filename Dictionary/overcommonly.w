@@ -1,0 +1,1 @@
+{"index": 218660, "D": "belonging equally to, or shared alike by, two or more or all in question", "S": [], "A": []}

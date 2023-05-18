@@ -1,0 +1,1 @@
+{"index": 15142, "D": "a medicine or other remedy for counteracting the effects of poison, disease, etc.", "S": [], "A": []}

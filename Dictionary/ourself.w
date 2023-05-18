@@ -1,0 +1,1 @@
+{"index": 216094, "D": "one's own person, individuality, etc., considered as private and apart from others", "S": [], "A": []}

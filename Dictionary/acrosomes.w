@@ -1,0 +1,1 @@
+{"index": 3030, "D": "an organelle covering the head of animal sperm and containing enzymes that digest the egg cell coating, thus permitting the sperm to enter the egg.", "S": [], "A": []}

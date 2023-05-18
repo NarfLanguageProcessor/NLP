@@ -1,0 +1,1 @@
+{"index": 7945, "D": "a fry, especially a salmon, whose yolk is depleted.", "S": [], "A": []}

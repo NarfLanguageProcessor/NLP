@@ -1,0 +1,1 @@
+{"index": 152875, "D": "harmful, hurtful, or detrimental, as in effect", "S": [], "A": []}

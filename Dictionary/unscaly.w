@@ -1,0 +1,1 @@
+{"index": 350437, "D": "covered with or abounding in scales  or scale. ", "S": [], "A": []}

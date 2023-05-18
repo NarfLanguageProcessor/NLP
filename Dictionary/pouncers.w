@@ -1,0 +1,1 @@
+{"index": 244903, "D": "to swoop down suddenly and grasp, as a bird does in seizing its prey.", "S": [], "A": []}

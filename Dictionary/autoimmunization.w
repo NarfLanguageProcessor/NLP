@@ -1,0 +1,1 @@
+{"index": 24116, "D": "antibody production by an organism in response to and against any of its own tissues, cells, or cell components.", "S": [], "A": []}

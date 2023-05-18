@@ -1,0 +1,1 @@
+{"index": 120133, "D": "the quality of being functional", "S": ["performance ", "process ", "purpose ", "service ", "use "], "A": []}

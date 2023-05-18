@@ -1,0 +1,1 @@
+{"index": 157182, "D": "to examine, study, or inquire into systematically; search or examine into the particulars of; examine in detail.", "S": ["examining ", "heuristic ", "interested ", "interrogative ", "probing ", "prying ", "questioning ", "searching "], "A": ["disinterested ", "incurious ", "unskeptical "]}

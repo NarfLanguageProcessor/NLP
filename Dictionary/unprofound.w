@@ -1,0 +1,1 @@
+{"index": 348573, "D": "penetrating or entering deeply into subjects of thought or knowledge; having deep insight or understanding", "S": ["foolish ", "idiotic ", "impractical ", "petty ", "pointless ", "senseless "], "A": ["intelligent ", "sensible ", "wise "]}

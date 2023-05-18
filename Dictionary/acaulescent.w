@@ -1,0 +1,1 @@
+{"index": 1408, "D": "not caulescent;  stemless; without visible stem.", "S": [], "A": []}

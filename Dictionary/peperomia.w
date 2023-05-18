@@ -1,0 +1,1 @@
+{"index": 230182, "D": "any of numerous tropical and subtropical plants belonging to the genus Peperomia, of the pepper family, cultivated as houseplants for their ornamental foliage.", "S": [], "A": []}

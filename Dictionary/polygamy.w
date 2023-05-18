@@ -1,0 +1,1 @@
+{"index": 241866, "D": "Compare bigamy (def. 1), monogamy (def. 1). ", "S": ["bigamy ", "polyandry ", "polygyny "], "A": []}

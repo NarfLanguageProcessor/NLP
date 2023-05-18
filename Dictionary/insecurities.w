@@ -1,0 +1,1 @@
+{"index": 153504, "D": "lack of confidence or assurance; self-doubt", "S": ["self-doubt ", "uncertainty "], "A": []}

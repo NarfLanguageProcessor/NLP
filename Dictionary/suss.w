@@ -1,0 +1,1 @@
+{"index": 313781, "D": "to investigate or figure out (usually followed by out).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 79555, "D": "something that degausses. ", "S": [], "A": []}

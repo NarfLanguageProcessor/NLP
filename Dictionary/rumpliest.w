@@ -1,0 +1,1 @@
+{"index": 275597, "D": "rumpled  or tending to rumple", "S": [], "A": []}

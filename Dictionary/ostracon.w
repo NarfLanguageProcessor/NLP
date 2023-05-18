@@ -1,0 +1,1 @@
+{"index": 215769, "D": "(in ancient Greece) a potsherd, especially one used as a ballot on which the name of a person voted to be ostracized was inscribed.", "S": [], "A": []}

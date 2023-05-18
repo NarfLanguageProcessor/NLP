@@ -1,0 +1,1 @@
+{"index": 133685, "D": "only just; almost not; barely", "S": ["barely ", "comparatively ", "practically ", "rarely ", "seldom ", "simply ", "somewhat "], "A": ["frequently "]}

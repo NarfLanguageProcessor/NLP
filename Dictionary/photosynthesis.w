@@ -1,0 +1,1 @@
+{"index": 235374, "D": "the complex process by which carbon dioxide, water, and certain inorganic salts are converted into carbohydrates  by green plants, algae, and certain bacteria, using energy from the sun and chlorophyll. ", "S": [], "A": []}

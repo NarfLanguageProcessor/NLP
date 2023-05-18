@@ -1,0 +1,1 @@
+{"index": 162331, "D": "of or relating to phonological juncture. ", "S": ["historical ", "sequential "], "A": []}

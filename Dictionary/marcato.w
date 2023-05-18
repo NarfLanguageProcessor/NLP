@@ -1,0 +1,1 @@
+{"index": 179872, "D": "(of notes or chords in a musical score) strongly accented.", "S": [], "A": []}

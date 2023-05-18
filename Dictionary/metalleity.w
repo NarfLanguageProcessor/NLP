@@ -1,0 +1,1 @@
+{"index": 184718, "D": "of, relating to, or consisting of metal.", "S": [], "A": []}

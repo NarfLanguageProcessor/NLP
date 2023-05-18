@@ -1,0 +1,1 @@
+{"index": 139508, "D": "(of a creature) composed of corporeal and spiritual matter.", "S": [], "A": []}

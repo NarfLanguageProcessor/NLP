@@ -1,0 +1,1 @@
+{"index": 94895, "D": "a stand or frame for supporting or displaying at an angle an artist's canvas, a blackboard, a china plate, etc.", "S": ["tripod "], "A": []}

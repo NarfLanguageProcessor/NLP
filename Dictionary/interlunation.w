@@ -1,0 +1,1 @@
+{"index": 155270, "D": "the interlunar period.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 289619, "D": "causing or capable of causing sickness, especially nausea, disgust, or loathing", "S": ["nasty ", "putrid "], "A": ["clean ", "good ", "moral ", "pleasing ", "pure "]}

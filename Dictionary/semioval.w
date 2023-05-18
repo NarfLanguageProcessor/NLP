@@ -1,0 +1,1 @@
+{"index": 284624, "D": "having the general form, shape, or outline of an egg; egg-shaped.", "S": [], "A": []}

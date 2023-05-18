@@ -1,0 +1,1 @@
+{"index": 128456, "D": "to seize suddenly or quickly; snatch; clutch", "S": ["capture ", "catch ", "clutch ", "grasp ", "grip ", "seize ", "snag ", "snatch ", "take "], "A": ["free ", "let go ", "release ", "give ", "liberate ", "lose ", "offer ", "receive "]}

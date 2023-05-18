@@ -1,0 +1,1 @@
+{"index": 140198, "D": "the fact or process of becoming immune,  as against a disease.", "S": [], "A": []}

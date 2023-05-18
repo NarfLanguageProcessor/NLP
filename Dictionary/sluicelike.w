@@ -1,0 +1,1 @@
+{"index": 294546, "D": "an artificial channel for conducting water, often fitted with a gate (sluice gate ) at the upper end for regulating the flow.", "S": [], "A": []}

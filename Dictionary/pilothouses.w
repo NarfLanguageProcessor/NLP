@@ -1,0 +1,1 @@
+{"index": 236783, "D": "an enclosed structure on the deck of a ship from which it can be navigated.", "S": [], "A": []}

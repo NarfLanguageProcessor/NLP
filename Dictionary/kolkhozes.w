@@ -1,0 +1,1 @@
+{"index": 165931, "D": "(in the U.S.S.R.) a collective farm.", "S": ["kibbutz "], "A": []}

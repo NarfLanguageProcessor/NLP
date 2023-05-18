@@ -1,0 +1,1 @@
+{"index": 260532, "D": "to order or select in a random  manner, as in a sample or experiment, especially in order to reduce bias and interference caused by irrelevant variables; make random.", "S": [], "A": []}

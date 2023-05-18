@@ -1,0 +1,1 @@
+{"index": 152010, "D": "a soldier, intelligence agent, or other person who moves surreptitiously and gradually into an organization, territory, community, or the like, especially with hostile intent", "S": ["Trojan horse ", "collaborators ", "collaborators of enemy ", "saboteurs ", "subversives ", "underground "], "A": []}

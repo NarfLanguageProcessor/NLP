@@ -1,0 +1,1 @@
+{"index": 251683, "D": "a person who believes in or sympathizes with fascism. ", "S": [], "A": []}

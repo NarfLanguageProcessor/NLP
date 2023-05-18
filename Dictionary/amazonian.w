@@ -1,0 +1,1 @@
+{"index": 9909, "D": "(of a woman) characteristic of or like an Amazon;  powerful and aggressive; warlike.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 297605, "D": "of or resembling the shrews.", "S": [], "A": []}

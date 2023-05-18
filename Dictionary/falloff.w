@@ -1,0 +1,1 @@
+{"index": 109502, "D": "a decline in quantity, vigor, etc.", "S": ["deterioration ", "downslide ", "downturn ", "falling-off "], "A": []}

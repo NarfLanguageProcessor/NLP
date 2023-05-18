@@ -1,0 +1,1 @@
+{"index": 269007, "D": "the act of selling a second time.", "S": [], "A": []}

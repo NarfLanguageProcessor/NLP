@@ -1,0 +1,1 @@
+{"index": 52473, "D": "liable to change  or to be changed;  variable.", "S": ["capricious ", "fickle ", "fluctuating ", "mercurial ", "protean ", "shifting ", "unpredictable ", "unsettled ", "unstable ", "varying ", "volatile "], "A": ["calm ", "constant ", "stable ", "steadfast ", "steady ", "unvarying "]}

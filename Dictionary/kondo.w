@@ -1,0 +1,1 @@
+{"index": 165982, "D": "(in Uganda) a thief or armed robber", "S": [], "A": []}

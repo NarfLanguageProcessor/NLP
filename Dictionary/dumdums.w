@@ -1,0 +1,1 @@
+{"index": 94060, "D": "a hollow-nosed or soft-nosed bullet that expands on impact, inflicting a severe wound.", "S": ["clodpoll "], "A": ["brain ", "genius "]}

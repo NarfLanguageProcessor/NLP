@@ -1,0 +1,1 @@
+{"index": 127380, "D": "sent by God or as if by God", "S": [], "A": []}

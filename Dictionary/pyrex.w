@@ -1,0 +1,1 @@
+{"index": 237683, "D": "a brand name for any of a class of heat- and chemical-resistant glassware products of varying composition used for cooking.", "S": [], "A": []}

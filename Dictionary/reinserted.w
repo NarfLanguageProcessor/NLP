@@ -1,0 +1,1 @@
+{"index": 266364, "D": "to put or place in", "S": ["give ", "replace ", "restore ", "send "], "A": ["deprive ", "hold ", "keep ", "refuse ", "take "]}

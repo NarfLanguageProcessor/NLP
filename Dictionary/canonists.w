@@ -1,0 +1,1 @@
+{"index": 46506, "D": "a person who is a specialist in canon law. ", "S": ["adherent ", "devotee ", "disciple ", "follower ", "supporter ", "zealot "], "A": ["adversary "]}

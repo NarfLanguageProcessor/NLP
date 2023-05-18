@@ -1,0 +1,1 @@
+{"index": 326641, "D": "pertaining to or characteristic of tourists", "S": [], "A": []}

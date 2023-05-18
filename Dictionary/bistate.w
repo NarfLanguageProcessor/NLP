@@ -1,0 +1,1 @@
+{"index": 35117, "D": "of, relating to, or involving two adjoining states", "S": [], "A": []}

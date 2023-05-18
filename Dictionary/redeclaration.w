@@ -1,0 +1,1 @@
+{"index": 263957, "D": "the act of declaring; announcement", "S": [], "A": []}

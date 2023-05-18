@@ -1,0 +1,1 @@
+{"index": 164615, "D": "a small anchor or weight for mooring a boat, sometimes consisting of a stone secured by pieces of wood.", "S": [], "A": []}

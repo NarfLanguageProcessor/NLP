@@ -1,0 +1,1 @@
+{"index": 77485, "D": "a state in which progress is impossible, as in a dispute, produced by the counteraction of opposing forces; standstill; stalemate", "S": ["frozen ", "immobile ", "inert ", "lifeless ", "paralyzed ", "stagnant ", "stationary ", "steadfast "], "A": ["alive ", "lively ", "mobile ", "moving ", "unfixed "]}

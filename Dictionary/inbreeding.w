@@ -1,0 +1,1 @@
+{"index": 149617, "D": "the mating of closely related individuals, as cousins, sire-daughter, brother-sister, or self-fertilized plants, which tends to increase the number of individuals that are homozygous for a trait and therefore increases the appearance of recessive traits.", "S": [], "A": []}

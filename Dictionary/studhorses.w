@@ -1,0 +1,1 @@
+{"index": 306794, "D": "a stallion kept for breeding.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205113, "D": "of or relating to a magnet  or magnetism. ", "S": [], "A": []}

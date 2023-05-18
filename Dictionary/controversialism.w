@@ -1,0 +1,1 @@
+{"index": 67819, "D": "of, relating to, or characteristic of controversy,  or prolonged public dispute, debate, or contention; polemical", "S": [], "A": []}

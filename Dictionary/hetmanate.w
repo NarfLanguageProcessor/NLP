@@ -1,0 +1,1 @@
+{"index": 137834, "D": "the authority, rule, or domain of a hetman. ", "S": [], "A": []}

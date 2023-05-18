@@ -1,0 +1,1 @@
+{"index": 344087, "D": "worshiping idols. ", "S": [], "A": []}

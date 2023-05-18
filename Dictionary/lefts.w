@@ -1,0 +1,1 @@
+{"index": 169998, "D": "being, relating to, or located on or nearest to the side where a person\u2019s heart normally is (opposed to right)", "S": ["left-winger ", "leftist ", "liberal ", "progressive ", "radical "], "A": ["conservative ", "right wing "]}

@@ -1,0 +1,1 @@
+{"index": 116647, "D": "(tr) a variant spelling of forfend", "S": [], "A": []}

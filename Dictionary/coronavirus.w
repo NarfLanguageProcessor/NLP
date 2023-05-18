@@ -1,0 +1,1 @@
+{"index": 69454, "D": "any of various RNA-containing spherical viruses of the family Coronaviridae, including several that cause acute respiratory illnesses.", "S": [], "A": []}

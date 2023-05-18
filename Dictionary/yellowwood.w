@@ -1,0 +1,1 @@
+{"index": 146838, "D": "a tree, Cladrastis lutea, of the legume family, native to the southeastern U.S., having clusters of fragrant, white flowers and wood  that yields a yellow  dye.", "S": [], "A": []}

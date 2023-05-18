@@ -1,0 +1,1 @@
+{"index": 340436, "D": "to break up or dissolve (an organization)", "S": [], "A": []}

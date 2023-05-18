@@ -1,0 +1,1 @@
+{"index": 102618, "D": "a hormone secreted by the adrenal medulla upon stimulation by the central nervous system in response to stress, as anger or fear, and acting to increase heart rate, blood pressure, cardiac output, and carbohydrate metabolism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187280, "D": "a dam  built in a stream to furnish a head of water for turning a mill wheel. ", "S": ["bank ", "barrier ", "dike ", "ditch ", "gate ", "levee "], "A": ["aid ", "assistance ", "help ", "promotion "]}

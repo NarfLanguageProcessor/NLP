@@ -1,0 +1,1 @@
+{"index": 131028, "D": "a post,  usually mounted on the roadside or at the intersection of two or more roads, bearing a sign for the guidance of travelers.", "S": ["flare ", "lantern ", "radar "], "A": []}

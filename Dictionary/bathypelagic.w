@@ -1,0 +1,1 @@
+{"index": 28957, "D": "pertaining to or living in the bathyal  region of an ocean.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322853, "D": "a simple past tense of thrive. ", "S": ["bloom ", "blossom ", "boom ", "develop ", "flourish ", "grow ", "mushroom ", "prosper ", "shine ", "succeed "], "A": ["cease ", "decrease ", "fail ", "halt ", "lessen ", "lose ", "shrink ", "shrivel ", "stop ", "stunt ", "wither ", "decline ", "recede ", "retreat ", "retrogress "]}

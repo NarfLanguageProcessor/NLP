@@ -1,0 +1,1 @@
+{"index": 260725, "D": "occurring within a short time; happening speedily", "S": ["accelerated ", "breakneck ", "brisk ", "expeditious ", "fast ", "hasty ", "speedy ", "swift "], "A": ["delayed ", "slow ", "sluggish ", "tardy "]}

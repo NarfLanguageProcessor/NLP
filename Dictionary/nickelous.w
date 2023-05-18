@@ -1,0 +1,1 @@
+{"index": 199637, "D": "containing bivalent nickel. ", "S": [], "A": []}

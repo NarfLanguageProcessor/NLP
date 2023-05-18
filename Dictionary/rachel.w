@@ -1,0 +1,1 @@
+{"index": 259362, "D": "Jacob's favored wife, the mother of Joseph and Benjamin. Genesis 29\u201335.", "S": [], "A": []}

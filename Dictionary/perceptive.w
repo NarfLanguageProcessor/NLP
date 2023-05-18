@@ -1,0 +1,1 @@
+{"index": 230397, "D": "having or showing keenness of insight, understanding, or intuition", "S": ["astute ", "discerning ", "discreet ", "incisive ", "insightful ", "intuitive ", "knowing ", "knowledgeable ", "observant ", "penetrating ", "wise "], "A": ["careless ", "foolish ", "idiotic ", "ignorant ", "stupid ", "thoughtless ", "unaware ", "undiscerning ", "unintelligent "]}

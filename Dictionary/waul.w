@@ -1,0 +1,1 @@
+{"index": 363318, "D": "to cry or wail plaintively like a cat", "S": [], "A": []}

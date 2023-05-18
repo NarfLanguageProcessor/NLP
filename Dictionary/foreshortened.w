@@ -1,0 +1,1 @@
+{"index": 116967, "D": "to reduce or distort (parts of a represented object that are not parallel to the picture plane) in order to convey the illusion of three-dimensional space as perceived by the human eye", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250701, "D": "a person who makes prints,  especially an artist working in one of the graphic mediums.", "S": [], "A": []}

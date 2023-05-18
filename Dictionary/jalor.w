@@ -1,0 +1,1 @@
+{"index": 160222, "D": "any of a wide variety of East Indian rowing and sailing ships.", "S": [], "A": []}

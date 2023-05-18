@@ -1,0 +1,1 @@
+{"index": 53396, "D": "a hard, smooth-textured cheese, made usually from the whole milk of cows and varying in color from white to deep yellow and in flavor from mild to sharp as it ages.", "S": ["contingency money ", "pin money ", "pocket money ", "small change ", "spending money "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277385, "D": "a porch or room in a monastery or church serving as a meeting or almsgiving place for monks or priests and the laity.", "S": [], "A": []}

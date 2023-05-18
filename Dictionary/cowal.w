@@ -1,0 +1,1 @@
+{"index": 71545, "D": "a shallow lake or swampy depression supporting vegetation", "S": [], "A": []}

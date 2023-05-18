@@ -1,0 +1,1 @@
+{"index": 14545, "D": "regarding the human being as the central fact of the universe.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238048, "D": "of or derived from pyruvic acid.", "S": [], "A": []}

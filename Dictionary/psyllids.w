@@ -1,0 +1,1 @@
+{"index": 255561, "D": "any of numerous lice, of the family Psyllidae, that feed on plant juices and are sometimes pests of fruits and vegetables.", "S": [], "A": []}

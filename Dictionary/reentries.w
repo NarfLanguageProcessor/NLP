@@ -1,0 +1,1 @@
+{"index": 264774, "D": "an act of reentering.", "S": [], "A": []}

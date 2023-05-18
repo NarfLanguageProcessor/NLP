@@ -1,0 +1,1 @@
+{"index": 48815, "D": "a protein precipitated from milk, as by rennet, and forming the basis of cheese and certain plastics.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 318585, "D": "of or relating to time.", "S": [], "A": []}

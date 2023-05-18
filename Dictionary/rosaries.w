@@ -1,0 +1,1 @@
+{"index": 274442, "D": "a similar string of beads consisting of five decades.", "S": ["chaplet ", "prayers "], "A": []}

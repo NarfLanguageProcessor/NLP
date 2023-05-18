@@ -1,0 +1,1 @@
+{"index": 345792, "D": "(of sound) strongly audible; having exceptional volume or intensity", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 356656, "D": "a mineral, antimony trioxide, Sb2O3, formed by the oxidation of various minerals containing antimony and occurring in the form of white orthorhombic crystals.", "S": [], "A": []}

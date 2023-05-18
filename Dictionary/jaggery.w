@@ -1,0 +1,1 @@
+{"index": 160094, "D": "a coarse, dark sugar, especially that made from the sap of East Indian palm trees.", "S": [], "A": []}

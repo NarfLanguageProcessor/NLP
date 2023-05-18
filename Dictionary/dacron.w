@@ -1,0 +1,1 @@
+{"index": 76032, "D": "a brand of polyester textile fiber that is wrinkle-resistant and strong.", "S": [], "A": []}

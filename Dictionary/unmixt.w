@@ -1,0 +1,1 @@
+{"index": 346472, "D": "not mixed;  pure", "S": [], "A": []}

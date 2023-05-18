@@ -1,0 +1,1 @@
+{"index": 15832, "D": "a deadly or virulent epidemic disease.", "S": [], "A": []}

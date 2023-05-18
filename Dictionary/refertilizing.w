@@ -1,0 +1,1 @@
+{"index": 265021, "D": "to fecundate or impregnate (an animal or plant).", "S": [], "A": []}

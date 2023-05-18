@@ -1,0 +1,1 @@
+{"index": 80739, "D": "out of date; outmoded.", "S": ["ancient ", "antique ", "archaic ", "corny ", "dated ", "odd ", "old ", "old-time ", "outdated ", "outmoded ", "primitive "], "A": ["current ", "fresh ", "modern ", "new ", "present ", "recent ", "up-to-date ", "young "]}

@@ -1,0 +1,1 @@
+{"index": 314487, "D": "to thrash; punish.", "S": [], "A": []}

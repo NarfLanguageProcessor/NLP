@@ -1,0 +1,1 @@
+{"index": 152528, "D": "a mass of metal cast in a convenient form for shaping, remelting, or refining.", "S": [], "A": []}

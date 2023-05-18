@@ -1,0 +1,1 @@
+{"index": 66397, "D": [], "S": ["partnership "], "A": ["antagonism ", "disagreement ", "disunion ", "division ", "divorce ", "separation "]}

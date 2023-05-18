@@ -1,0 +1,1 @@
+{"index": 141172, "D": "low or diminished sensitivity  to stimulation.", "S": [], "A": []}

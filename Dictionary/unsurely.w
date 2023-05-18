@@ -1,0 +1,1 @@
+{"index": 352477, "D": "free from doubt as to the reliability, character, action, etc., of something", "S": ["ambiguously ", "hazily ", "obscurely ", "uncertainly "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239975, "D": "pertaining to or originating from the pleura.", "S": [], "A": []}

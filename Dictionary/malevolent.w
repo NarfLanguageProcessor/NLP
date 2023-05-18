@@ -1,0 +1,1 @@
+{"index": 178417, "D": "wishing evil or harm to another or others; showing ill will; ill-disposed; malicious", "S": ["malicious ", "malignant ", "murderous ", "sinister ", "vengeful ", "vicious ", "wicked "], "A": ["benevolent ", "friendly ", "good ", "kind ", "nice ", "pleasant "]}

@@ -1,0 +1,1 @@
+{"index": 235841, "D": "any of several small armadillos of the genera Chalmyphorus and Burmeisteria, of southern South America.", "S": [], "A": []}

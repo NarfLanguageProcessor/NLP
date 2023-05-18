@@ -1,0 +1,1 @@
+{"index": 173406, "D": "a person who plays the lyre or who sings and accompanies their own vocals with a lyre.", "S": ["composer ", "musician ", "poet ", "songwriter "], "A": []}

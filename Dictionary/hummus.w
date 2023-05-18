@@ -1,0 +1,1 @@
+{"index": 145031, "D": "a paste or dip made of chickpeas mashed with oil, garlic, lemon juice, and tahini and usually eaten with pita.", "S": [], "A": []}

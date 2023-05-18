@@ -1,0 +1,1 @@
+{"index": 23772, "D": "a variant spelling of autoecious", "S": [], "A": []}

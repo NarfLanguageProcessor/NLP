@@ -1,0 +1,1 @@
+{"index": 271130, "D": "a signal, as of a drum or bugle, sounded early in the morning to awaken military personnel and to alert them for assembly.", "S": [], "A": []}

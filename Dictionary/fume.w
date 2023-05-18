@@ -1,0 +1,1 @@
+{"index": 120053, "D": "any smokelike or vaporous exhalation from matter or substances, especially of an odorous or harmful nature", "S": ["bristle ", "chafe ", "rave ", "seethe "], "A": ["be happy "]}

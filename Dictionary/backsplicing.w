@@ -1,0 +1,1 @@
+{"index": 25935, "D": "a knot for finishing a rope end neatly, beginning with a crown and proceeding in a series of tucks, each strand over the first adjoining strand and under the next, the strands being split in half at each tuck.", "S": [], "A": []}

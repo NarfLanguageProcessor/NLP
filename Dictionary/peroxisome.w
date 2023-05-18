@@ -1,0 +1,1 @@
+{"index": 231760, "D": "a cell organelle containing catalase, peroxidase, and other oxidative enzymes and performing essential metabolic functions, as the decomposition of fatty acids and hydrogen peroxide.", "S": [], "A": []}

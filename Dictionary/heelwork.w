@@ -1,0 +1,1 @@
+{"index": 135297, "D": "the training of a dog to heel or perform maneuvers while heeling.", "S": [], "A": []}

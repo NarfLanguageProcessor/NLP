@@ -1,0 +1,1 @@
+{"index": 278791, "D": "giving or affording satisfaction; fulfilling all demands or requirements", "S": ["adequately ", "competently ", "convincingly ", "sufficiently "], "A": []}

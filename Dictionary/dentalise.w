@@ -1,0 +1,1 @@
+{"index": 81243, "D": "to change into or pronounce as a dental  sound.", "S": [], "A": []}

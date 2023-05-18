@@ -1,0 +1,1 @@
+{"index": 122070, "D": "jumbled or unclear because of distortion or omissions", "S": ["detached ", "muddled ", "separated ", "uncoordinated "], "A": ["attached ", "connected ", "united ", "ordered "]}

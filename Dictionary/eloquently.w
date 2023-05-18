@@ -1,0 +1,1 @@
+{"index": 97775, "D": "having or exercising the power of fluent, forceful, and appropriate speech", "S": [], "A": []}

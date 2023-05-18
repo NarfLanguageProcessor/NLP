@@ -1,0 +1,1 @@
+{"index": 79721, "D": "to burst open, as capsules of plants; gape.", "S": ["cleave ", "crack ", "divide ", "gap ", "part ", "split ", "yaw ", "yawn "], "A": ["combine ", "connect ", "join ", "unite "]}

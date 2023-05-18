@@ -1,0 +1,1 @@
+{"index": 350000, "D": "advancing, ascending, or mounting", "S": [], "A": []}

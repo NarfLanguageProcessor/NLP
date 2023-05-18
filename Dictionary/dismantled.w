@@ -1,0 +1,1 @@
+{"index": 88655, "D": "to deprive or strip of apparatus, furniture, equipment, defenses, etc.", "S": ["broken ", "demolished ", "ruined ", "shattered ", "smashed "], "A": ["fixed ", "rebuilt ", "repaired ", "temperate "]}

@@ -1,0 +1,1 @@
+{"index": 40865, "D": "of or like brine;  salty", "S": ["saline "], "A": []}

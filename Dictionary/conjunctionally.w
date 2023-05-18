@@ -1,0 +1,1 @@
+{"index": 66432, "D": "any other word or expression of similar function, as in any case.", "S": [], "A": []}

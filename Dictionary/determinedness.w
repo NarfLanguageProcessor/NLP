@@ -1,0 +1,1 @@
+{"index": 83176, "D": "resolute; staunch", "S": [], "A": []}

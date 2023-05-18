@@ -1,0 +1,1 @@
+{"index": 299646, "D": "any of a class of pungent or aromatic substances of vegetable origin, as pepper, cinnamon, or cloves, used as seasoning, preservatives, etc.", "S": [], "A": []}

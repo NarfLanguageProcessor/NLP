@@ -1,0 +1,1 @@
+{"index": 42280, "D": "something that causes fear or worry; bugbear; bogy.", "S": ["alarm ", "bogey ", "bogeyman ", "bogy ", "bugbear ", "fright ", "goblin ", "hobgoblin ", "ogre ", "scare ", "scarecrow ", "specter "], "A": ["calmness "]}

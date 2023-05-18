@@ -1,0 +1,1 @@
+{"index": 85189, "D": "an engraver of dies  for stamping or embossing.", "S": [], "A": []}

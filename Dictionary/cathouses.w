@@ -1,0 +1,1 @@
+{"index": 49754, "D": "a brothel; whorehouse.", "S": ["bordello ", "red-light district "], "A": []}

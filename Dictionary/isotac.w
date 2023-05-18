@@ -1,0 +1,1 @@
+{"index": 159274, "D": "a line drawn on a map connecting all points where ice starts to melt at approximately the same period in spring.", "S": [], "A": []}

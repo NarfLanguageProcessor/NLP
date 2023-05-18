@@ -1,0 +1,1 @@
+{"index": 178035, "D": "characterized by or possessing majesty;  of lofty dignity or imposing aspect; stately; grand", "S": [], "A": []}

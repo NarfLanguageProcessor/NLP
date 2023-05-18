@@ -1,0 +1,1 @@
+{"index": 79980, "D": "the position or commission of a delegate. ", "S": [], "A": []}

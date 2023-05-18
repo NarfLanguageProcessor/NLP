@@ -1,0 +1,1 @@
+{"index": 321212, "D": "(in time and motion study) any of the basic elements involved in completing a given manual operation or task that can be subjected to analysis.", "S": [], "A": []}

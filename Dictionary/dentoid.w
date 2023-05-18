@@ -1,0 +1,1 @@
+{"index": 81344, "D": "resembling a tooth; toothlike.", "S": [], "A": []}

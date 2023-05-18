@@ -1,0 +1,1 @@
+{"index": 350889, "D": "not shadowed;  not darkened or obscured by shadow;  free from gloom.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18805, "D": "a bench or settle of the medieval and Renaissance periods, wide enough for several persons and having a seat with a chest beneath, arms at the ends, and a high back.", "S": [], "A": []}

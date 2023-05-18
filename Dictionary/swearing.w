@@ -1,0 +1,1 @@
+{"index": 314205, "D": "to make a solemn declaration or affirmation by some sacred being or object, as a deity or the Bible.", "S": ["four-letter word ", "profanity "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199473, "D": "a low-grade, machine-finished paper made from wood pulp and a small percentage of sulfite pulp, used chiefly for newspapers.", "S": ["card ", "note ", "pad ", "poster ", "sheet ", "stationery "], "A": []}

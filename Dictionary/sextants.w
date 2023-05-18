@@ -1,0 +1,1 @@
+{"index": 286897, "D": "an astronomical instrument used to determine latitude and longitude at sea by measuring angular distances, especially the altitudes of sun, moon, and stars.", "S": [], "A": []}

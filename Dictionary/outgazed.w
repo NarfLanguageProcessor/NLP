@@ -1,0 +1,1 @@
+{"index": 216709, "D": "to look steadily and intently, as with great curiosity, interest, pleasure, or wonder.", "S": [], "A": []}

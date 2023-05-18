@@ -1,0 +1,1 @@
+{"index": 169024, "D": "a pancake, especially one made of grated potato.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351604, "D": "of or relating to a sophomore  or sophomores. ", "S": [], "A": []}

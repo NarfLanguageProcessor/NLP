@@ -1,0 +1,1 @@
+{"index": 262471, "D": "to express sharp, stern disapproval of; reprove; reprimand.", "S": [], "A": []}

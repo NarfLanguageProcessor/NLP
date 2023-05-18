@@ -1,0 +1,1 @@
+{"index": 202870, "D": "an act or instance of demolishing. ", "S": [], "A": []}

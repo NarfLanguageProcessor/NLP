@@ -1,0 +1,1 @@
+{"index": 361041, "D": "one of the earliest of the artificially constructed international auxiliary languages, invented about 1879.", "S": [], "A": []}

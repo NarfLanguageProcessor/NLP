@@ -1,0 +1,1 @@
+{"index": 355124, "D": "to surge  up; increase; rise", "S": ["build ", "escalate ", "expand ", "heighten ", "intensify ", "rise "], "A": ["decrease ", "lessen ", "lower ", "weaken ", "compress ", "reduce ", "shrink ", "soften "]}

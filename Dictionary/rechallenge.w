@@ -1,0 +1,1 @@
+{"index": 262779, "D": "a call or summons to engage in any contest, as of skill, strength, etc.", "S": [], "A": []}

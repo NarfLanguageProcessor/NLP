@@ -1,0 +1,1 @@
+{"index": 106788, "D": "liable or deserving to be excommunicated,  as a person.", "S": [], "A": []}

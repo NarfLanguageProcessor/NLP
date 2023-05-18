@@ -1,0 +1,1 @@
+{"index": 204542, "D": "an act or instance of illuminating. ", "S": [], "A": []}

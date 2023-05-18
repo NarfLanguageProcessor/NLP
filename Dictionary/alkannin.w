@@ -1,0 +1,1 @@
+{"index": 8467, "D": "a dark red, amorphous, water-insoluble powder, C16H16O5, obtained from the root of the alkanet", "S": [], "A": []}

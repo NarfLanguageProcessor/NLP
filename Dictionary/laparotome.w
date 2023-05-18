@@ -1,0 +1,1 @@
+{"index": 168299, "D": "a cutting instrument for performing a laparotomy.", "S": [], "A": []}

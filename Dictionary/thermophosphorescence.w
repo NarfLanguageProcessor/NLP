@@ -1,0 +1,1 @@
+{"index": 321480, "D": "thermoluminescence. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92313, "D": "a decline or downward trend, as of prices.", "S": ["deterioration "], "A": []}

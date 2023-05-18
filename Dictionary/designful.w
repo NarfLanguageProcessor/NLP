@@ -1,0 +1,1 @@
+{"index": 82593, "D": [], "S": ["studied ", "treated "], "A": ["disregarded ", "forgotten ", "neglected ", "unplanned ", "unstudied "]}

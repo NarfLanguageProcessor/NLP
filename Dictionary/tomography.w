@@ -1,0 +1,1 @@
+{"index": 325464, "D": "any of a number of techniques used to obtain an X-ray photograph of a selected plane section of the human body or some other solid object", "S": [], "A": []}

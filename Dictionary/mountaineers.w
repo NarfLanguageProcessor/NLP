@@ -1,0 +1,1 @@
+{"index": 194216, "D": "an inhabitant of a mountainous  district.", "S": ["climber ", "hiker "], "A": []}

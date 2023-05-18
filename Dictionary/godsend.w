@@ -1,0 +1,1 @@
+{"index": 127378, "D": "an unexpected thing or event that is particularly welcome and timely, as if sent by God.", "S": ["boon ", "windfall "], "A": ["disadvantage "]}

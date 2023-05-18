@@ -1,0 +1,1 @@
+{"index": 134276, "D": "a short, sleeveless coat of mail.", "S": [], "A": []}

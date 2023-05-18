@@ -1,0 +1,1 @@
+{"index": 259121, "D": "a game in which rings of rope or flattened metal are thrown at an upright peg, the object being to encircle it or come as close to it as possible.", "S": [], "A": []}

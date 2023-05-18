@@ -1,0 +1,1 @@
+{"index": 135040, "D": "a member of a church or monastery appointed for one week to sing the chapter Mass and lead in the recitation of the breviary.", "S": [], "A": []}

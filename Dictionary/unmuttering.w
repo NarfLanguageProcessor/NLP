@@ -1,0 +1,1 @@
+{"index": 346719, "D": "to utter words indistinctly or in a low tone, often as if talking to oneself; murmur.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53323, "D": "held in check; suppressed or restrained", "S": ["late ", "sluggish ", "tardy ", "underdeveloped ", "undeveloped "], "A": ["developed "]}

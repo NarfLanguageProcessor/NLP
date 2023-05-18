@@ -1,0 +1,1 @@
+{"index": 358469, "D": "rich in verdure;  freshly green; verdant.", "S": ["flourishing ", "grassy ", "leafy ", "lush "], "A": ["dying "]}

@@ -1,0 +1,1 @@
+{"index": 130373, "D": "Compare black grouse, capercaillie, ruffed grouse, spruce grouse. ", "S": ["bellyache ", "grievance ", "gripe ", "grouch ", "grumble ", "squealer "], "A": ["compliment ", "flattery ", "praise "]}

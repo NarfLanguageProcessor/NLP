@@ -1,0 +1,1 @@
+{"index": 184713, "D": "to make metallic; give the characteristics of metal  to.", "S": [], "A": []}

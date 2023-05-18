@@ -1,0 +1,1 @@
+{"index": 147640, "D": "the state or condition of lacking balance,  as in proportion or distribution.", "S": ["inequality ", "shortcoming "], "A": []}

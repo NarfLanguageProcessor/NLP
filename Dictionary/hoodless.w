@@ -1,0 +1,1 @@
+{"index": 143482, "D": "a soft or flexible covering for the head and neck, either separate or attached to a cloak, coat, or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122690, "D": "the operation of cutting into the stomach.", "S": [], "A": []}

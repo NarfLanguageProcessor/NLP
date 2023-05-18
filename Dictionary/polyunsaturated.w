@@ -1,0 +1,1 @@
+{"index": 242618, "D": "of or noting a class of animal or vegetable fats, especially plant oils, whose molecules consist of carbon chains with many double bonds unsaturated  by hydrogen atoms and that are associated with a low cholesterol content of the blood.", "S": [], "A": []}

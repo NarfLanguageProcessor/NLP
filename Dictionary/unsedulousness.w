@@ -1,0 +1,1 @@
+{"index": 350676, "D": "diligent in application or attention; persevering; assiduous.", "S": [], "A": []}

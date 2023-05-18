@@ -1,0 +1,1 @@
+{"index": 160272, "D": "a metallic, dark-gray mineral, lead and iron antimony sulfide", "S": [], "A": []}

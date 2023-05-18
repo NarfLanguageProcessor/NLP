@@ -1,0 +1,1 @@
+{"index": 226539, "D": "a girl or woman who is a native or inhabitant of Paris, France.", "S": [], "A": []}

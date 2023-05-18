@@ -1,0 +1,1 @@
+{"index": 92497, "D": "Compare enlistee (def. 1). ", "S": ["inductee "], "A": []}

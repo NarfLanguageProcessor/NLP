@@ -1,0 +1,1 @@
+{"index": 260388, "D": "violent in action or spirit; raging; furious", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252888, "D": "the act or process of propelling. ", "S": [], "A": []}

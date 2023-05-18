@@ -1,0 +1,1 @@
+{"index": 22488, "D": "of or indicating a Middle Paleolithic industry of northwestern Africa and the Sahara, characterized by the production of tanged points and bifacially worked leaf-shaped points of varying sizes.", "S": [], "A": []}

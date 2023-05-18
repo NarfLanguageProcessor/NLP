@@ -1,0 +1,1 @@
+{"index": 242884, "D": "a knob, as on the hilt of a sword.", "S": ["belabor ", "club ", "cudgel ", "finial ", "handle ", "knob ", "maul ", "pound ", "pummel ", "saddlebow ", "strike ", "thwack "], "A": []}

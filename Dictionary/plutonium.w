@@ -1,0 +1,1 @@
+{"index": 240674, "D": "a transuranic element with a fissile isotope of mass number 239 (plutonium 239 ) that can be produced from non-fissile uranium 238, as in a breeder reactor. Symbol", "S": [], "A": []}

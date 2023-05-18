@@ -1,0 +1,1 @@
+{"index": 209023, "D": "a chewy or brittle candy containing almonds or other nuts and sometimes fruit.", "S": [], "A": []}

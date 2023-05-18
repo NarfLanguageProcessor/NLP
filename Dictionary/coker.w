@@ -1,0 +1,1 @@
+{"index": 62605, "D": "an inhabitant of the mountains of the coal-mining regions of West Virginia and Pennsylvania.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230008, "D": "a word or line of verse of five syllables. ", "S": [], "A": []}

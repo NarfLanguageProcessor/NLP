@@ -1,0 +1,1 @@
+{"index": 7883, "D": "the cardinal number of the set of all positive integers; the smallest transfinite cardinal number.", "S": [], "A": []}

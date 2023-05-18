@@ -1,0 +1,1 @@
+{"index": 254281, "D": "of or relating to Prussia  or its inhabitants.", "S": [], "A": []}

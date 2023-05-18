@@ -1,0 +1,1 @@
+{"index": 141713, "D": "a heterocyclic amine, C5H9N3, released by mast cells when tissue is injured or in allergic and inflammatory reactions, causing dilation of small blood vessels and smooth muscle contraction.", "S": [], "A": []}

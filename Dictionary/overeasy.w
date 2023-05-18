@@ -1,0 +1,1 @@
+{"index": 219119, "D": "not hard or difficult; requiring no great labor or effort", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 290665, "D": "a person whose occupation is making and repairing articles of silver.", "S": ["goldsmith ", "horologist ", "lapidary ", "watchmaker "], "A": []}

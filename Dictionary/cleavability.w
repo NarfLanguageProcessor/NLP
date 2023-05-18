@@ -1,0 +1,1 @@
+{"index": 59685, "D": "capable of being cleft  or split.", "S": [], "A": []}

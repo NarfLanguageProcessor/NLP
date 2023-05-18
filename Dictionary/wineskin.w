@@ -1,0 +1,1 @@
+{"index": 366111, "D": "a bag, usually of goatskin, for carrying wine  and having a spigot from which one drinks.", "S": [], "A": []}

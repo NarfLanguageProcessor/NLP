@@ -1,0 +1,1 @@
+{"index": 21936, "D": "adopted in order to deceive; fictitious; pretended; feigned", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312943, "D": "the time at which supper  is served, usually between the hours of 5 and 7 p.m.", "S": [], "A": []}

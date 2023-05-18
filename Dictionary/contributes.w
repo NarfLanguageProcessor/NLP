@@ -1,0 +1,1 @@
+{"index": 67765, "D": "to give (money, time, knowledge, assistance, etc.) to a common supply, fund, etc., as for charitable purposes.", "S": ["add ", "commit ", "devote ", "give ", "grant ", "pony up ", "share ", "subsidize ", "supply "], "A": ["hold ", "keep ", "take ", "disagree ", "receive ", "refuse ", "withhold "]}

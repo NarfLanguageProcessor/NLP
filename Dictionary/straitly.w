@@ -1,0 +1,1 @@
+{"index": 305720, "D": "a narrow passage of water connecting two large bodies of water.", "S": [], "A": []}

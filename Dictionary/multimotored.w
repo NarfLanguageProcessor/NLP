@@ -1,0 +1,1 @@
+{"index": 195202, "D": "having a motor  or motors,  especially of a specified number or type (usually used in combination)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181240, "D": "to enroll in a college or university as a candidate for a degree.", "S": ["acceptance ", "admission ", "enrollment ", "entry "], "A": ["refusal "]}

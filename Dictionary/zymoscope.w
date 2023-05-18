@@ -1,0 +1,1 @@
+{"index": 369384, "D": "an instrument for measuring the degree of fermentation.", "S": [], "A": []}

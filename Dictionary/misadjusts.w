@@ -1,0 +1,1 @@
+{"index": 188591, "D": "to change (something) so that it fits, corresponds, or conforms; adapt; accommodate", "S": [], "A": []}

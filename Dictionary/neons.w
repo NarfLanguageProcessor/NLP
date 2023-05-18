@@ -1,0 +1,1 @@
+{"index": 198417, "D": "a chemically inert gaseous element occurring in small amounts in the earth's atmosphere, used chiefly in a type of electrical lamp. Symbol", "S": ["blazing ", "brilliant ", "glowing ", "lambent ", "luminous ", "radiant ", "shining ", "vivid "], "A": ["dark ", "dreary ", "dull ", "homely ", "plain "]}

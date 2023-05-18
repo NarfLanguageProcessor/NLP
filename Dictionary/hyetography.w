@@ -1,0 +1,1 @@
+{"index": 139192, "D": "the study of the annual and geographical distribution of rainfall.", "S": [], "A": []}

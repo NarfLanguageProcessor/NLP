@@ -1,0 +1,1 @@
+{"index": 197603, "D": "close at hand; not far off; adjacent; neighboring", "S": ["adjacent ", "neighboring "], "A": ["far ", "faraway "]}

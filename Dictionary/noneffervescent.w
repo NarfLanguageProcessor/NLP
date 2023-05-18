@@ -1,0 +1,1 @@
+{"index": 203368, "D": "effervescing; bubbling.", "S": [], "A": []}

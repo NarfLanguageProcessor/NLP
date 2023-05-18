@@ -1,0 +1,1 @@
+{"index": 59576, "D": "club-shaped; clavate.", "S": [], "A": []}

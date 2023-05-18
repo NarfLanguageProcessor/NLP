@@ -1,0 +1,1 @@
+{"index": 353307, "D": "wealth or riches stored or accumulated, especially in the form of precious metals, money, jewels, or plate.", "S": [], "A": []}

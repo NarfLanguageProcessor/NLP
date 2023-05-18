@@ -1,0 +1,1 @@
+{"index": 347117, "D": "to perform the office  of a member of the clergy, as at a divine service.", "S": [], "A": []}

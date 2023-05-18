@@ -1,0 +1,1 @@
+{"index": 289411, "D": "an act or instance of shutting out.", "S": ["nobody "], "A": ["something "]}

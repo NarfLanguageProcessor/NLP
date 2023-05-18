@@ -1,0 +1,1 @@
+{"index": 331218, "D": "the regions lying between and near these parallels of latitude; the Torrid Zone and neighboring regions.", "S": ["equatorial ", "jungle ", "summer ", "wild "], "A": ["arctic ", "chilly ", "cool ", "temperate "]}

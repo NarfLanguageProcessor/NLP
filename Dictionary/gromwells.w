@@ -1,0 +1,1 @@
+{"index": 130175, "D": "any of various often hairy plants of the genus Lithospermum, of the borage family, usually bearing white or yellowish flowers and smooth, white, stony nutlets.", "S": [], "A": []}

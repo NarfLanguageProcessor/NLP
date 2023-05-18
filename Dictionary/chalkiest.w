@@ -1,0 +1,1 @@
+{"index": 52166, "D": "of or like chalk. ", "S": ["milky "], "A": []}

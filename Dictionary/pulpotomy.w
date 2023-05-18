@@ -1,0 +1,1 @@
+{"index": 256371, "D": "the removal of infected portions of the pulp  tissue in a tooth, used as a therapeutic measure to avoid pulpectomy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129486, "D": "a republic in southern Europe at the south end of the Balkan Peninsula. 50,147 sq. mi. (129,880 sq. km). Capital", "S": [], "A": []}

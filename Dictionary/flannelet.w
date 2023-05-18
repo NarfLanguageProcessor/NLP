@@ -1,0 +1,1 @@
+{"index": 113952, "D": "a warm, soft cotton fabric, plain or printed, napped on one side.", "S": [], "A": []}

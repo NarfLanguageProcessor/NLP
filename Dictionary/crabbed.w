@@ -1,0 +1,1 @@
+{"index": 71777, "D": "grouchy; ill-natured; irritable; churlish. ", "S": ["cross "], "A": []}

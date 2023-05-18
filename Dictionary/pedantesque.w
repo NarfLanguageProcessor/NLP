@@ -1,0 +1,1 @@
+{"index": 228768, "D": "a person who makes an excessive or inappropriate display of learning.", "S": [], "A": []}

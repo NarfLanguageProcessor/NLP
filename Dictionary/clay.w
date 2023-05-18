@@ -1,0 +1,1 @@
+{"index": 59048, "D": "a natural earthy material that is plastic when wet, consisting essentially of hydrated silicates of aluminum", "S": ["brick ", "earth ", "mud ", "terra cotta "], "A": []}

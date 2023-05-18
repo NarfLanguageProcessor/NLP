@@ -1,0 +1,1 @@
+{"index": 128929, "D": "a kind of ironware with a gray, stonelike enamel.", "S": [], "A": []}

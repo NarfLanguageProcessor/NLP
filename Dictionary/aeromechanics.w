@@ -1,0 +1,1 @@
+{"index": 5062, "D": "the mechanics  of air or gases.", "S": [], "A": []}

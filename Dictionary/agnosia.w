@@ -1,0 +1,1 @@
+{"index": 6326, "D": "partial or total inability to recognize objects by use of the senses.", "S": [], "A": []}

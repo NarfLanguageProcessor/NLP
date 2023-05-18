@@ -1,0 +1,1 @@
+{"index": 76752, "D": "damned (used euphemistically).", "S": ["dang ", "doggone "], "A": []}

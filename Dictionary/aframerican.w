@@ -1,0 +1,1 @@
+{"index": 5574, "D": "an American with Black African ancestry.", "S": [], "A": []}

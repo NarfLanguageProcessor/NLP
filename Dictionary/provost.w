@@ -1,0 +1,1 @@
+{"index": 254142, "D": "a person appointed to superintend or preside.", "S": ["chief ", "director ", "executive ", "head ", "jailer ", "keeper ", "magistrate ", "officer ", "official ", "supervisor "], "A": ["employee ", "worker "]}

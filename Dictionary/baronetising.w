@@ -1,0 +1,1 @@
+{"index": 28201, "D": "to make (someone) a baronet;  confer a baronetcy  upon.", "S": [], "A": []}

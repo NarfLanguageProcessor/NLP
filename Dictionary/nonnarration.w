@@ -1,0 +1,1 @@
+{"index": 205417, "D": "something narrated;  an account, story, or narrative. ", "S": [], "A": []}

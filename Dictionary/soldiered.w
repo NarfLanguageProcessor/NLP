@@ -1,0 +1,1 @@
+{"index": 296562, "D": "a person who serves in an army; a person engaged in military service.", "S": [], "A": []}

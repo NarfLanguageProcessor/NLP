@@ -1,0 +1,1 @@
+{"index": 320052, "D": "a steel-gray or blackish mineral with a brilliant metallic luster, essentially copper and antimony sulfide, (Cu, Fe, Zn, Ag,)12 Sb4S13, an end member of a series of solid solutions into which arsenic enters to form tennantite", "S": [], "A": []}

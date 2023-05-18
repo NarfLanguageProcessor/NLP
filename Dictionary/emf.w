@@ -1,0 +1,1 @@
+{"index": 98509, "D": "electromotive force. ", "S": [], "A": []}

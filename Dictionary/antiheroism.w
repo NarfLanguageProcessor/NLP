@@ -1,0 +1,1 @@
+{"index": 15355, "D": "a protagonist who lacks the attributes that make a heroic figure, as nobility of mind and spirit, a life or attitude marked by action or purpose, and the like.", "S": [], "A": []}

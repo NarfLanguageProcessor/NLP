@@ -1,0 +1,1 @@
+{"index": 202392, "D": "able or meant to be consumed,  as by eating, drinking, or using", "S": [], "A": []}

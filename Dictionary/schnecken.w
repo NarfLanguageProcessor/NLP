@@ -1,0 +1,1 @@
+{"index": 280361, "D": "sweet, spiral, snail-shaped rolls made from raised dough with chopped nuts, butter, and cinnamon.", "S": [], "A": []}

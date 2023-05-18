@@ -1,0 +1,1 @@
+{"index": 231959, "D": "of, relating to, or coming as from a particular person; individual; private", "S": ["intimate ", "particular ", "secret ", "special "], "A": ["common ", "ordinary ", "public ", "unimportant ", "usual "]}

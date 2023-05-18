@@ -1,0 +1,1 @@
+{"index": 254188, "D": "Compare distal (def. 1). ", "S": [], "A": []}

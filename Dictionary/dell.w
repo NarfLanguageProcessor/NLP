@@ -1,0 +1,1 @@
+{"index": 80200, "D": "a small, usually wooded valley; vale.", "S": ["dale ", "dingle ", "glade ", "glen ", "vale "], "A": []}

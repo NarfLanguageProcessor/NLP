@@ -1,0 +1,1 @@
+{"index": 218267, "D": "joined; connected; bound.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16286, "D": "an advocate of the grant or extension of political suffrage,  especially to women.", "S": [], "A": []}

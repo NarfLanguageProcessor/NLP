@@ -1,0 +1,1 @@
+{"index": 14320, "D": "of or relating to a substance capable of destroying or eliminating parasitic worms, especially human intestinal helminths.", "S": [], "A": []}

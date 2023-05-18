@@ -1,0 +1,1 @@
+{"index": 330783, "D": "the act, fact, or condition of being victorious or triumphant;  victory; conquest.", "S": ["celebration ", "joy ", "pride "], "A": ["sadness ", "sorrow ", "unhappiness "]}

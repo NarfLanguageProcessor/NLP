@@ -1,0 +1,1 @@
+{"index": 194598, "D": "denoting or pertaining to enzymes that break down mucus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349619, "D": "to print  again; print  a new impression of.", "S": [], "A": []}

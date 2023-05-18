@@ -1,0 +1,1 @@
+{"index": 163666, "D": "a separate section on some computer keyboards, grouping together numeric keys  and those for mathematical or other special functions in an arrangement like that of a calculator.", "S": [], "A": []}

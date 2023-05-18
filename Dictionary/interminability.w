@@ -1,0 +1,1 @@
+{"index": 155370, "D": "incapable of being terminated; unending", "S": ["hard labor ", "hard way ", "hard work ", "labor ", "long distance ", "long wait ", "uphill work "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358641, "D": "(of birds) feeding on worms, grubs, or insect vermin.", "S": [], "A": []}

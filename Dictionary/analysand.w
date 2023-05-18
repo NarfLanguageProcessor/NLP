@@ -1,0 +1,1 @@
+{"index": 11745, "D": "a person undergoing psychoanalysis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4528, "D": "a person who is fully grown or developed or of age.", "S": [], "A": []}

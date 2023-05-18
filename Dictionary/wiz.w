@@ -1,0 +1,1 @@
+{"index": 366766, "D": "wizard (def. 3). ", "S": ["genius ", "shark ", "whiz "], "A": ["imbecile ", "amateur ", "apprentice ", "greenhorn ", "ignoramus ", "rookie "]}

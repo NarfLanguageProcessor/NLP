@@ -1,0 +1,1 @@
+{"index": 231094, "D": "situated near or occurring around the nucleus.", "S": [], "A": []}

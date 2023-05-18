@@ -1,0 +1,1 @@
+{"index": 80773, "D": "a demolitions expert", "S": ["annihilation ", "explosion "], "A": ["building ", "construction ", "fixing ", "production ", "repair "]}

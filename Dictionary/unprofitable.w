@@ -1,0 +1,1 @@
+{"index": 348567, "D": "being without profit; not showing or turning a profit", "S": ["unsuccessful ", "worthless "], "A": ["beneficial ", "fruitful ", "gainful ", "helpful ", "productive ", "profitable ", "successful ", "useful ", "valuable "]}

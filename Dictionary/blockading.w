@@ -1,0 +1,1 @@
+{"index": 36356, "D": "the isolating, closing off, or surrounding of a place, as a port, harbor, or city, by hostile ships or troops to prevent entrance or exit.", "S": ["blockade ", "boycott ", "demonstrate ", "protest ", "walk out "], "A": []}

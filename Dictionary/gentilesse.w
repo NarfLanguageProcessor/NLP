@@ -1,0 +1,1 @@
+{"index": 123701, "D": "the quality of being gentle.", "S": [], "A": []}

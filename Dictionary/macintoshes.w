@@ -1,0 +1,1 @@
+{"index": 176814, "D": "a variant of mackintosh. ", "S": ["desktop computer ", "laptop ", "minicomputer ", "workstation "], "A": []}

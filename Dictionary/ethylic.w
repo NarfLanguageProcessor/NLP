@@ -1,0 +1,1 @@
+{"index": 104999, "D": "of, relating to, or characteristic of the ethyl group. ", "S": [], "A": []}

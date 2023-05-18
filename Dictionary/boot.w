@@ -1,0 +1,1 @@
+{"index": 38221, "D": "a covering of leather, rubber, or the like, for the foot and all or part of the leg.", "S": ["footwear "], "A": []}

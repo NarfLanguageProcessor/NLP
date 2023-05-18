@@ -1,0 +1,1 @@
+{"index": 236784, "D": "a column of iron, steel, or reinforced concrete supporting a building above an open ground level.", "S": [], "A": []}

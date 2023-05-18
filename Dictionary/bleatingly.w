@@ -1,0 +1,1 @@
+{"index": 35986, "D": "to utter the cry of a sheep, goat, or calf or a sound resembling such a cry.", "S": [], "A": []}

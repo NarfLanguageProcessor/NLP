@@ -1,0 +1,1 @@
+{"index": 311639, "D": "depression or lowness of spirits.", "S": [], "A": []}

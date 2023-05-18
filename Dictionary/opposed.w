@@ -1,0 +1,1 @@
+{"index": 213676, "D": "hostile or resistant (usually followed by to)", "S": ["anti ", "antithetical ", "averse ", "disputed ", "hostile ", "inimical ", "opposing "], "A": ["friendly ", "kind "]}

@@ -1,0 +1,1 @@
+{"index": 100940, "D": "to fix by the root. ", "S": ["advance ", "establish ", "evolve ", "expand ", "flourish ", "grow ", "progress ", "promote "], "A": ["decline ", "decrease ", "halt ", "lessen ", "retreat ", "retrogress ", "stop ", "stunt "]}

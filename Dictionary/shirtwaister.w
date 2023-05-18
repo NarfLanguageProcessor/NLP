@@ -1,0 +1,1 @@
+{"index": 288534, "D": "a woman's dress with a tailored bodice resembling a shirt", "S": [], "A": []}

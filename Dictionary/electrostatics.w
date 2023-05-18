@@ -1,0 +1,1 @@
+{"index": 97269, "D": "the branch of physics dealing with electric phenomena not associated with electricity in motion.", "S": [], "A": []}

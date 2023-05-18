@@ -1,0 +1,1 @@
+{"index": 289600, "D": "an island in the Mediterranean, constituting a region of Italy, and separated from the SW tip of the mainland by the Strait of Messina", "S": [], "A": []}

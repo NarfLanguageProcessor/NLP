@@ -1,0 +1,1 @@
+{"index": 112499, "D": "any of numerous tall, usually coarse woodland plants of the genus Scrophularia, having a terminal cluster of small greenish-brown to purplish-brown flowers.", "S": [], "A": []}

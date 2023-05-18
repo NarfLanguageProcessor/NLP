@@ -1,0 +1,1 @@
+{"index": 8448, "D": "to make or become alkaline. ", "S": [], "A": []}

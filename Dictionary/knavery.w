@@ -1,0 +1,1 @@
+{"index": 165463, "D": "action or practice characteristic of a knave. ", "S": ["double-dealing ", "duplicity ", "wile "], "A": ["forthrightness ", "honesty "]}

@@ -1,0 +1,1 @@
+{"index": 79144, "D": "an act or instance of voiding excrement from the bowels; bowel movement", "S": ["bowel movement ", "evacuation ", "excretion ", "expurgation "], "A": []}

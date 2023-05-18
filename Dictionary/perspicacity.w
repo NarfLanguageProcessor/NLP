@@ -1,0 +1,1 @@
+{"index": 232024, "D": "keenness of mental perception and understanding; discernment; penetration. ", "S": ["acumen ", "discernment ", "discrimination ", "penetration ", "perception ", "shrewdness ", "understanding "], "A": []}

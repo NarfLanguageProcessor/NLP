@@ -1,0 +1,1 @@
+{"index": 163368, "D": "a variant spelling of Qatar", "S": [], "A": []}

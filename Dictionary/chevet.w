@@ -1,0 +1,1 @@
+{"index": 53994, "D": "an apse, as of a Gothic cathedral.", "S": [], "A": []}

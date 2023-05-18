@@ -1,0 +1,1 @@
+{"index": 209535, "D": "certain of the inward parts of an animal, especially of a deer, used as food.", "S": ["guts ", "insides "], "A": []}

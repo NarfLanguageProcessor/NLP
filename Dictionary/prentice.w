@@ -1,0 +1,1 @@
+{"index": 248571, "D": "apprentice. ", "S": ["amateurish ", "coarse ", "harsh ", "homemade ", "makeshift ", "primitive ", "raw ", "rude ", "rudimentary ", "simple ", "unprocessed "], "A": ["refined ", "smooth ", "sophisticated ", "polished "]}

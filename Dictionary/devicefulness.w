@@ -1,0 +1,1 @@
+{"index": 83542, "D": "a thing made for a particular purpose; an invention or contrivance, especially a mechanical or electrical one.", "S": [], "A": []}

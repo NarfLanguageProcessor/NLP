@@ -1,0 +1,1 @@
+{"index": 11092, "D": "giving either of two colors, one with acids and one with alkalis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266587, "D": "a person who is or has been rejected,  especially for military service.", "S": [], "A": []}

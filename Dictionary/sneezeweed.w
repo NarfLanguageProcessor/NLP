@@ -1,0 +1,1 @@
+{"index": 295453, "D": "any of several coarse composite plants of the genus Helenium, the flowers of which resemble sunflowers and cause sneezing. ", "S": [], "A": []}

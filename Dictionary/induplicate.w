@@ -1,0 +1,1 @@
+{"index": 151389, "D": "folded or rolled inward", "S": [], "A": []}

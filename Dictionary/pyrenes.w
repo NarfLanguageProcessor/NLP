@@ -1,0 +1,1 @@
+{"index": 237647, "D": "a putamen or stone, especially when there are several in a single fruit; a nutlet.", "S": [], "A": []}

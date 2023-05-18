@@ -1,0 +1,1 @@
+{"index": 179296, "D": "of many kinds; numerous and varied", "S": [], "A": []}

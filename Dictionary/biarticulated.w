@@ -1,0 +1,1 @@
+{"index": 33170, "D": "having two joints, as the antennae of certain insects.", "S": [], "A": []}

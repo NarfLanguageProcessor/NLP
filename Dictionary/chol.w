@@ -1,0 +1,1 @@
+{"index": 55365, "D": "variant of chole-  before a vowel", "S": [], "A": []}

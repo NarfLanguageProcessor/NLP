@@ -1,0 +1,1 @@
+{"index": 334811, "D": "to kill (oneself or another person)", "S": [], "A": []}

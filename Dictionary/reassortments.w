@@ -1,0 +1,1 @@
+{"index": 262091, "D": "the act of assorting;  distribution; classification.", "S": [], "A": []}

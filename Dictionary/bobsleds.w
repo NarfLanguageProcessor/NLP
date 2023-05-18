@@ -1,0 +1,1 @@
+{"index": 37100, "D": "a sled  having two pairs of runners, a brake, and a steering wheel or other mechanism that enables the front rider to direct the sled  down a steeply banked run or chute.", "S": ["luge "], "A": []}

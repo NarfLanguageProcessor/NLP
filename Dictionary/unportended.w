@@ -1,0 +1,1 @@
+{"index": 348176, "D": "to indicate in advance; to foreshadow or presage, as an omen does", "S": [], "A": []}

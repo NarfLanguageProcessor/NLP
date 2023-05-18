@@ -1,0 +1,1 @@
+{"index": 81262, "D": "one of a pair of membrane bones that in lower vertebrates form the distal part of the lower jaws and in mammals comprise the mandible.", "S": [], "A": []}

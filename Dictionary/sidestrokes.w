@@ -1,0 +1,1 @@
+{"index": 289846, "D": "a stroke  in which the body is turned sideways in the water, the hands pull alternately, and the legs perform a scissors kick.", "S": [], "A": []}

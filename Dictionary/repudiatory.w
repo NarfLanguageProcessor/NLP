@@ -1,0 +1,1 @@
+{"index": 268760, "D": "the act of repudiating. ", "S": [], "A": []}

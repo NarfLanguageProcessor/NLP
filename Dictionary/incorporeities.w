@@ -1,0 +1,1 @@
+{"index": 150384, "D": "the quality of being incorporeal; disembodied existence or entity; incorporeality.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314411, "D": "an amount of liquid, especially liquor, taken in one swallow; draught", "S": [], "A": []}

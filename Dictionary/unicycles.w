@@ -1,0 +1,1 @@
+{"index": 344011, "D": "a vehicle with one wheel, especially a pedal-driven device kept upright and steered by body balance, commonly used by acrobats and other performers.", "S": [], "A": []}

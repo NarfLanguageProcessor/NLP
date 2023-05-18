@@ -1,0 +1,1 @@
+{"index": 361720, "D": "to walk with short steps, swaying or rocking from side to side, as a duck.", "S": [], "A": []}

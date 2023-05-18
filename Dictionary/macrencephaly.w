@@ -1,0 +1,1 @@
+{"index": 176868, "D": "the condition of having an abnormally large brain", "S": [], "A": []}

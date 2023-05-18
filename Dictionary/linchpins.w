@@ -1,0 +1,1 @@
+{"index": 172688, "D": "a pin inserted through the end of an axletree to keep the wheel on.", "S": ["essential ", "foundation ", "keystone ", "mainstay ", "pillar "], "A": []}

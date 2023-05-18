@@ -1,0 +1,1 @@
+{"index": 148042, "D": "not modest in conduct, utterance, etc.; indecent; shameless.", "S": ["arrogance "], "A": ["humility ", "modesty "]}

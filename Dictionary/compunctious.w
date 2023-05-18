@@ -1,0 +1,1 @@
+{"index": 64960, "D": "causing or feeling compunction;  regretful.", "S": ["apologetic ", "contrite ", "penitent ", "regretful ", "repentant ", "sorry "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57591, "D": "a white, crystalline, slightly water-soluble, levorotatory alkaloid, C19H22N2O, stereoisomeric with cinchonine and similarly derived, used chiefly as a quinine substitute.", "S": [], "A": []}

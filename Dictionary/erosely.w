@@ -1,0 +1,1 @@
+{"index": 103907, "D": "uneven, as if gnawed away.", "S": [], "A": []}

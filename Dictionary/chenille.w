@@ -1,0 +1,1 @@
+{"index": 53803, "D": "a velvety cord or yarn of silk or worsted, for embroidery, fringes, etc.", "S": [], "A": []}

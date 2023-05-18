@@ -1,0 +1,1 @@
+{"index": 28834, "D": "a fortress in Paris, used as a prison, built in the 14th century and destroyed July 14, 1789.", "S": [], "A": []}

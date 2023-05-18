@@ -1,0 +1,1 @@
+{"index": 206909, "D": "of, relating to, or situated or dwelling on the bank of a river or other body of water", "S": [], "A": []}

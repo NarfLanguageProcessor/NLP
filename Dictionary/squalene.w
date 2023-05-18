@@ -1,0 +1,1 @@
+{"index": 301620, "D": "an oil, C30H50, intermediate in the synthesis of cholesterol, obtained for use in manufacturing pharmaceuticals.", "S": [], "A": []}

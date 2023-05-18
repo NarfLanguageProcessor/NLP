@@ -1,0 +1,1 @@
+{"index": 15318, "D": "opposed to or in rebellion against an existing government. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 209517, "D": "a numeral or group of numerals.", "S": ["categorized ", "checked ", "contained ", "counted ", "designated ", "doomed ", "enumerated ", "fated ", "fixed ", "included ", "indicated ", "marked ", "specified ", "told ", "totalled "], "A": ["infinite ", "unlimited ", "unnumbered "]}

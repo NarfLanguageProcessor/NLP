@@ -1,0 +1,1 @@
+{"index": 270564, "D": "to withdraw from one's career, occupation, or office, usually because of age", "S": ["depart ", "go ", "pull out ", "relinquish ", "remove ", "retreat ", "separate ", "surrender ", "withdraw "], "A": ["advance ", "continue ", "remain ", "stay ", "approve ", "arrive ", "come in ", "increase ", "join "]}

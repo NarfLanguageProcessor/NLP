@@ -1,0 +1,1 @@
+{"index": 363291, "D": "a calibrated instrument for measuring electric power in watts. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 90576, "D": "doctor. ", "S": ["expert ", "physician ", "professor ", "scientist ", "specialist ", "surgeon "], "A": ["patient "]}

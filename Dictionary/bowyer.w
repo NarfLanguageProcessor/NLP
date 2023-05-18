@@ -1,0 +1,1 @@
+{"index": 39188, "D": "a maker or seller of archers' bows.", "S": [], "A": []}

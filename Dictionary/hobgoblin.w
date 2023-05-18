@@ -1,0 +1,1 @@
+{"index": 142118, "D": "something causing superstitious fear; a bogy. ", "S": ["bogeyman ", "brownie ", "elf ", "fairy ", "fay ", "imp ", "leprechaun ", "pixie ", "puck ", "sprite "], "A": []}

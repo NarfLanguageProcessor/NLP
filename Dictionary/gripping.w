@@ -1,0 +1,1 @@
+{"index": 130007, "D": "holding the attention or interest intensely; fascinating; enthralling", "S": ["captivating ", "engrossing ", "enthralling ", "exciting ", "fascinating ", "interesting ", "intriguing ", "riveting ", "spellbinding "], "A": ["boring ", "repulsive ", "unexciting ", "uninteresting ", "unstimulating "]}

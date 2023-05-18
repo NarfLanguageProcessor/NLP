@@ -1,0 +1,1 @@
+{"index": 186813, "D": "in or belonging to the middle part of a ship. ", "S": [], "A": []}

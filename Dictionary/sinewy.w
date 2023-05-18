@@ -1,0 +1,1 @@
+{"index": 291647, "D": "having strong sinews; muscular; brawny", "S": ["brawny ", "leathery ", "muscular ", "sturdy "], "A": ["skinny ", "weak "]}

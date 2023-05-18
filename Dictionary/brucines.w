@@ -1,0 +1,1 @@
+{"index": 41699, "D": "a white, crystalline, bitter, slightly water-soluble, very poisonous alkaloid, C23H26N2O4, obtained from the nux vomica tree Strychnos nux-vomica, and from other species of the same genus, resembling but not as powerful as strychnine in its pharmacological action", "S": [], "A": []}

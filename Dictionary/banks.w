@@ -1,0 +1,1 @@
+{"index": 27523, "D": "English naturalist.", "S": ["fund ", "stock ", "store ", "treasury "], "A": []}

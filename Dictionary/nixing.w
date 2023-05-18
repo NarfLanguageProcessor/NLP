@@ -1,0 +1,1 @@
+{"index": 200512, "D": "nothing. ", "S": ["abandonment ", "abstinence ", "forbearance ", "refusal ", "rejection ", "relinquishment ", "renunciation ", "sacrifice ", "self-denial ", "surrender ", "temperance "], "A": ["allowance ", "approval ", "excess ", "indulgence ", "intemperance ", "sanction ", "self-indulgence "]}

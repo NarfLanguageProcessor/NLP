@@ -1,0 +1,1 @@
+{"index": 317659, "D": "a brand name for a system of making color motion pictures by means of superimposing the three primary colors to produce a final colored print.", "S": [], "A": []}

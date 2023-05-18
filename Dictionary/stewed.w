@@ -1,0 +1,1 @@
+{"index": 304209, "D": "cooked by simmering or slow boiling, as food.", "S": ["bashed ", "befuddled ", "buzzed ", "crocked ", "flushed ", "flying ", "fuddled ", "glazed ", "inebriate ", "inebriated ", "intoxicated ", "laced ", "lit ", "muddled ", "plastered ", "potted ", "sloshed ", "stoned ", "tanked ", "totaled ", "wasted "], "A": ["sober ", "straight "]}

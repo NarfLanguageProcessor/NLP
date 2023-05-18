@@ -1,0 +1,1 @@
+{"index": 354390, "D": "suffering injury or bodily harm, as a laceration or bullet wound", "S": ["intact ", "unblemished ", "undamaged ", "unharmed ", "unscathed "], "A": ["damaged ", "harmed ", "hurt ", "injured "]}

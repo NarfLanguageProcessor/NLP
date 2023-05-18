@@ -1,0 +1,1 @@
+{"index": 116670, "D": "an advance payment or premium paid by a tenant on taking or renewing a lease.", "S": [], "A": []}

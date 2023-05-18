@@ -1,0 +1,1 @@
+{"index": 108065, "D": "tending or serving to expel.", "S": ["aperient ", "cathartic ", "eliminatory ", "evacuant ", "evacuative ", "excretory ", "purgative "], "A": []}

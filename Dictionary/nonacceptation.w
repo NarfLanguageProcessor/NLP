@@ -1,0 +1,1 @@
+{"index": 201015, "D": "the usual or accepted  meaning of a word, phrase, etc.", "S": [], "A": []}

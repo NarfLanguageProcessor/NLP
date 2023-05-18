@@ -1,0 +1,1 @@
+{"index": 306585, "D": "a papular eruption of the skin, especially in infants, occurring in several forms and usually harmless.", "S": [], "A": []}

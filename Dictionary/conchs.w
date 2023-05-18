@@ -1,0 +1,1 @@
+{"index": 65298, "D": "the spiral shell of a gastropod, often used as a horn.", "S": ["clam ", "crawfish ", "crustacean ", "lobster ", "mollusk ", "mussel ", "oyster ", "prawn ", "scallop ", "shrimp ", "snail "], "A": []}

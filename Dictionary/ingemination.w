@@ -1,0 +1,1 @@
+{"index": 152450, "D": "to repeat; reiterate. ", "S": ["litany ", "recurrence ", "reiteration ", "repeat ", "rhythm "], "A": ["original "]}

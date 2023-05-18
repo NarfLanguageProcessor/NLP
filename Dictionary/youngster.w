@@ -1,0 +1,1 @@
+{"index": 157744, "D": "a child.", "S": ["boy ", "girl ", "juvenile ", "kid ", "pupil ", "student ", "teenager ", "youth "], "A": ["adult ", "professor ", "teacher "]}

@@ -1,0 +1,1 @@
+{"index": 367794, "D": "wreck or wreckage.", "S": ["decimate ", "torment ", "wreck "], "A": []}

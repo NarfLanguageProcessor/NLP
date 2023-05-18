@@ -1,0 +1,1 @@
+{"index": 53267, "D": "costing very little; relatively low in price; inexpensive", "S": ["competitive ", "economical ", "low-cost ", "low-priced ", "reasonable "], "A": ["expensive ", "unreasonable "]}

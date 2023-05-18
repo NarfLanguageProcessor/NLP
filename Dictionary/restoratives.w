@@ -1,0 +1,1 @@
+{"index": 269982, "D": "serving to restore;  pertaining to restoration. ", "S": ["analeptic ", "catalyst ", "drug ", "energizer ", "incentive ", "motivation ", "motive ", "restorative ", "spur ", "stimulus ", "tonic ", "upper "], "A": ["block ", "discouragement ", "hindrance "]}

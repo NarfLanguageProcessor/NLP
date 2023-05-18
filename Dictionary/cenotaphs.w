@@ -1,0 +1,1 @@
+{"index": 50746, "D": "a sepulchral monument erected in memory of a deceased person whose body is buried elsewhere.", "S": ["gravestone ", "headstone ", "marker ", "masterpiece ", "mausoleum ", "pillar ", "shrine ", "slab ", "statue ", "stele ", "stone ", "tablet ", "testament ", "tomb ", "tombstone ", "tribute "], "A": []}

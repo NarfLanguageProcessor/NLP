@@ -1,0 +1,1 @@
+{"index": 273448, "D": "to dry or cure (meat, fish, etc., especially haddock) in the sun.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179482, "D": "the upper or handheld stone used when grinding maize or other grains on a metate.", "S": [], "A": []}

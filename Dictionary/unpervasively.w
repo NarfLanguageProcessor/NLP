@@ -1,0 +1,1 @@
+{"index": 347823, "D": "spread throughout", "S": [], "A": []}

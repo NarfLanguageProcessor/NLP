@@ -1,0 +1,1 @@
+{"index": 80455, "D": "possession of land as one's own", "S": ["realm ", "sphere ", "territory "], "A": ["sky ", "surrender ", "yielding "]}

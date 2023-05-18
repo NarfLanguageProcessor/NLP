@@ -1,0 +1,1 @@
+{"index": 312712, "D": "a person who is experienced in the art of government or versed in the administration of government affairs.", "S": [], "A": []}

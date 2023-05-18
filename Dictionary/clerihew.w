@@ -1,0 +1,1 @@
+{"index": 59823, "D": "a light verse form, usually consisting of two couplets, with lines of uneven length and irregular meter, the first line usually containing the name of a well-known person.", "S": [], "A": []}

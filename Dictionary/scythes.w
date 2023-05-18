@@ -1,0 +1,1 @@
+{"index": 280857, "D": "an agricultural implement consisting of a long, curving blade fastened at an angle to a handle, for cutting grass, grain, etc., by hand.", "S": ["bayonet ", "blade ", "cutter ", "dagger ", "machete ", "scalpel ", "sickle ", "skewer ", "sword "], "A": []}

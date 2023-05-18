@@ -1,0 +1,1 @@
+{"index": 153703, "D": "the inner sole  of a shoe or boot.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178211, "D": "bad, inefficient, or dishonest management of the affairs of an organization, such as a business or institution", "S": [], "A": []}

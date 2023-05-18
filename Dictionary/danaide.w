@@ -1,0 +1,1 @@
+{"index": 76663, "D": "the 50 daughters of Danaus, 49 of whom were condemned to pour water forever into a leaky vessel for having murdered their husbands.", "S": [], "A": []}

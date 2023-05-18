@@ -1,0 +1,1 @@
+{"index": 17124, "D": "Compare achromat", "S": [], "A": []}

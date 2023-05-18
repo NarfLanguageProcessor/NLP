@@ -1,0 +1,1 @@
+{"index": 306009, "D": "the act of stretching one's limbs, as on awakening or by exercise.", "S": [], "A": []}

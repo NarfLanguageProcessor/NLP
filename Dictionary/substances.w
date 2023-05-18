@@ -1,0 +1,1 @@
+{"index": 309275, "D": "that of which a thing consists; physical matter or material", "S": ["item ", "material ", "object ", "stuff ", "texture "], "A": ["abstract ", "fantasy ", "inanimate ", "nothing ", "nothingness ", "plant "]}

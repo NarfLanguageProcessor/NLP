@@ -1,0 +1,1 @@
+{"index": 106391, "D": "the quality of being exact; exactness;  preciseness; accuracy.", "S": ["carefulness ", "correctness ", "exactness ", "faultlessness ", "meticulousness ", "preciseness ", "precision ", "thoroughness "], "A": ["imprecision ", "inaccuracy ", "inexactness "]}

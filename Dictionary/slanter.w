@@ -1,0 +1,1 @@
+{"index": 293661, "D": "Australian obsolete, informal a variant of slinter", "S": [], "A": []}

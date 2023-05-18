@@ -1,0 +1,1 @@
+{"index": 212356, "D": "a mantric word thought to be a complete expression of Brahman and interpreted as having three sounds representing Brahma or creation, Vishnu or preservation, and Siva or destruction, or as consisting of the same three sounds, representing waking, dreams, and deep sleep, along with the following silence, which is fulfillment.", "S": [], "A": []}

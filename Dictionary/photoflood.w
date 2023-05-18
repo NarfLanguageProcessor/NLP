@@ -1,0 +1,1 @@
+{"index": 235123, "D": "a highly incandescent tungsten lamp used as an artificial light source for indoor photography, television, etc. The brightness is obtained by operating with higher than normal current", "S": ["flood ", "floodlight "], "A": []}

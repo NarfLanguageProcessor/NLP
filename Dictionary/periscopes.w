@@ -1,0 +1,1 @@
+{"index": 231297, "D": "an optical instrument for viewing objects that are above the level of direct sight or in an otherwise obstructed field of vision, consisting essentially of a tube with an arrangement of prisms or mirrors and, usually, lenses", "S": ["bombsight ", "gunsight ", "radar ", "sight ", "sonar ", "viewfinder "], "A": ["loser ", "owner ", "stray "]}

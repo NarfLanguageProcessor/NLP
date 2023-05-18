@@ -1,0 +1,1 @@
+{"index": 23304, "D": "the testing of hearing by means of an audiometer.", "S": [], "A": []}

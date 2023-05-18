@@ -1,0 +1,1 @@
+{"index": 65191, "D": "to relate to; be connected with; be of interest or importance to; affect", "S": ["business ", "commerce ", "sale ", "trade "], "A": []}

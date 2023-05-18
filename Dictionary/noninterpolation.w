@@ -1,0 +1,1 @@
+{"index": 204823, "D": "the act or process of interpolating or the state of being interpolated.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266746, "D": "of or relating to relations. ", "S": ["comparative ", "related ", "relative "], "A": ["unrelated "]}

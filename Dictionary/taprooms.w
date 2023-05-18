@@ -1,0 +1,1 @@
+{"index": 316431, "D": "a barroom, especially in an inn or hotel; bar.", "S": ["bar ", "pub ", "rathskeller ", "saloon ", "tap ", "tavern "], "A": []}

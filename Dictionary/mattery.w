@@ -1,0 +1,1 @@
+{"index": 181315, "D": "discharging pus", "S": [], "A": []}

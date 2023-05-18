@@ -1,0 +1,1 @@
+{"index": 207260, "D": "the state of being similar;  likeness; resemblance.", "S": [], "A": []}

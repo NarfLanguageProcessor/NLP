@@ -1,0 +1,1 @@
+{"index": 62081, "D": "of the same age, date, or duration; equally old", "S": ["coetaneous ", "coincident ", "of the same age "], "A": []}

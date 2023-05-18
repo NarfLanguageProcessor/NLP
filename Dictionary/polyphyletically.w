@@ -1,0 +1,1 @@
+{"index": 242238, "D": "developed from more than one ancestral type, as a group of animals.", "S": [], "A": []}

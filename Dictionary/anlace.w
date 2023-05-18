@@ -1,0 +1,1 @@
+{"index": 13447, "D": "a short sword having a double-edged blade tapering sharply to a point", "S": ["bayonet ", "blade ", "sword "], "A": []}

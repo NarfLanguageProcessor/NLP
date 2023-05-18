@@ -1,0 +1,1 @@
+{"index": 284400, "D": "a material object, service, etc., conducive to sumptuous living, usually a delicacy, elegance, or refinement of living rather than a necessity", "S": [], "A": []}

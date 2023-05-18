@@ -1,0 +1,1 @@
+{"index": 240486, "D": "well filled out or rounded in form; somewhat fleshy or fat.", "S": [], "A": []}

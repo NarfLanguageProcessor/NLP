@@ -1,0 +1,1 @@
+{"index": 64299, "D": "the act of substituting one thing for another; substitution; exchange.", "S": ["compensation ", "exchange ", "interchange ", "replacement "], "A": []}

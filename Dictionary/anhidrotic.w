@@ -1,0 +1,1 @@
+{"index": 13071, "D": "curbing the secretion of sweat", "S": [], "A": []}

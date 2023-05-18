@@ -1,0 +1,1 @@
+{"index": 37204, "D": "having no body or material form; incorporeal; disembodied.", "S": ["discarnate ", "discorporate ", "disembodied ", "immaterial ", "insubstantial ", "metaphysical ", "nonmaterial ", "spiritual ", "unbodied ", "unsubstantial "], "A": []}

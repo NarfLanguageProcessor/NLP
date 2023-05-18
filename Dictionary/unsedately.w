@@ -1,0 +1,1 @@
+{"index": 350655, "D": "calm, quiet, or composed; undisturbed by passion or excitement", "S": [], "A": []}

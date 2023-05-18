@@ -1,0 +1,1 @@
+{"index": 315820, "D": "an American larch, Larix laricina, of the pine family, having a reddish-brown bark and crowded clusters of blue-green needles and yielding a useful timber.", "S": [], "A": []}

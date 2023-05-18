@@ -1,0 +1,1 @@
+{"index": 152620, "D": "the plural of inhabitant. ", "S": ["community ", "land ", "people ", "public ", "region ", "society ", "state "], "A": ["city ", "metropolis ", "urbanity "]}

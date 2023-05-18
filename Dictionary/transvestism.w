@@ -1,0 +1,1 @@
+{"index": 328417, "D": "the practice, especially of those assigned male at birth, of wearing clothing usually associated with a different sex for psychological or sexual gratification.", "S": [], "A": []}

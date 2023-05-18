@@ -1,0 +1,1 @@
+{"index": 85553, "D": "lodgings", "S": ["address ", "apartment ", "base ", "co-op ", "condo ", "crib ", "den ", "domicile ", "dwelling ", "flat ", "habitat ", "headquarters ", "hearth ", "hole ", "home ", "homestead ", "house ", "lodging ", "quarters ", "residence ", "roost ", "sanctuary ", "seat "], "A": ["annex ", "office "]}

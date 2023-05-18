@@ -1,0 +1,1 @@
+{"index": 271983, "D": "belonging or pertaining to the Rhynchocephalia, an order of lizardlike reptiles that are extinct except for the tuatara.", "S": [], "A": []}

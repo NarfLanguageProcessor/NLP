@@ -1,0 +1,1 @@
+{"index": 260386, "D": "a rampant  condition or position.", "S": ["braggadocio ", "bravado ", "swagger "], "A": []}

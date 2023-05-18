@@ -1,0 +1,1 @@
+{"index": 326061, "D": "of, relating to, or characteristic of a torch song or a torch singer.", "S": [], "A": []}

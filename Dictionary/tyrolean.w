@@ -1,0 +1,1 @@
+{"index": 324536, "D": "of, relating to, or characteristic of the Tyrol  or its inhabitants.", "S": [], "A": []}

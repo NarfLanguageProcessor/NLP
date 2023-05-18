@@ -1,0 +1,1 @@
+{"index": 237982, "D": "any rock composed essentially, or in large part, of pyroxene  of any kind.", "S": [], "A": []}

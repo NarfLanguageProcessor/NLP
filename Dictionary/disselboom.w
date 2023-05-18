@@ -1,0 +1,1 @@
+{"index": 89441, "D": "the main haulage shaft of a wagon or cart", "S": [], "A": []}

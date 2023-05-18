@@ -1,0 +1,1 @@
+{"index": 76648, "D": "any of numerous slender, nonstinging insects of the order Odonata (suborder Zygoptera), distinguished from the dragonflies by having the wings folded back in line with the body when at rest.", "S": [], "A": []}

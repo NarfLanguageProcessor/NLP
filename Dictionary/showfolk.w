@@ -1,0 +1,1 @@
+{"index": 289075, "D": "persons, especially performers, whose vocation is in the field of entertainment.", "S": [], "A": []}

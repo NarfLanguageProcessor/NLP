@@ -1,0 +1,1 @@
+{"index": 237069, "D": "suffering with or expressing longing or yearning for someone or something", "S": ["ambitious ", "greedy ", "hungry ", "impatient ", "keen ", "restless ", "thirsty "], "A": ["satisfied "]}

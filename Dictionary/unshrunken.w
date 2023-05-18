@@ -1,0 +1,1 @@
+{"index": 351078, "D": "a past participle of shrink. ", "S": [], "A": []}

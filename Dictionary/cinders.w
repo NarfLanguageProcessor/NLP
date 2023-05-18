@@ -1,0 +1,1 @@
+{"index": 57633, "D": "a partially or mostly burned piece of coal, wood, etc.", "S": ["charcoal ", "dust ", "embers ", "powder ", "relics ", "remains ", "ruins ", "slag ", "soot "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321432, "D": "the dispersion of heat from the body.", "S": [], "A": []}

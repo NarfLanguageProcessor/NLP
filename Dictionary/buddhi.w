@@ -1,0 +1,1 @@
+{"index": 42148, "D": "intellect, seen as an intuitive faculty giving increased spiritual awareness.", "S": [], "A": []}

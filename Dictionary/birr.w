@@ -1,0 +1,1 @@
+{"index": 34886, "D": "force; energy; vigor.", "S": ["sprint "], "A": ["slowness "]}

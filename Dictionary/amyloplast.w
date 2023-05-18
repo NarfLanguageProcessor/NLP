@@ -1,0 +1,1 @@
+{"index": 10559, "D": "a starch-forming granule in plants; leucoplast.", "S": [], "A": []}

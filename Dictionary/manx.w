@@ -1,0 +1,1 @@
+{"index": 179705, "D": "of or relating to the Isle of Man, its inhabitants, or their language.", "S": [], "A": []}

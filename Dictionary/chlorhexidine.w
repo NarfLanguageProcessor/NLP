@@ -1,0 +1,1 @@
+{"index": 55069, "D": "an antiseptic compound used in skin cleansers, mouthwashes, etc", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 286536, "D": "a salt intermediate in composition between a carbonate  and a bicarbonate or consisting of the two combined.", "S": [], "A": []}

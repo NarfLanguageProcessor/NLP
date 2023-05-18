@@ -1,0 +1,1 @@
+{"index": 53820, "D": "marked by fluctuations of fortune (esp in the phrase a chequered career)", "S": [], "A": []}

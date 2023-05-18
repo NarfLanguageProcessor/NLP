@@ -1,0 +1,1 @@
+{"index": 48491, "D": "a crossroads; road junction.", "S": [], "A": []}

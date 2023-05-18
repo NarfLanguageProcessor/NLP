@@ -1,0 +1,1 @@
+{"index": 237257, "D": "a decorative stamp, usually made of clay, found in the Neolithic of the E Mediterranean and in many American cultures", "S": [], "A": []}

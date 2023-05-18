@@ -1,0 +1,1 @@
+{"index": 351511, "D": "to make soft  or softer. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262587, "D": "a revision of a corporation's capital structure by an exchange of securities.", "S": [], "A": []}

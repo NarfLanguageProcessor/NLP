@@ -1,0 +1,1 @@
+{"index": 40694, "D": "(in a furnace or boiler) a transverse baffle that serves to deflect products of combustion.", "S": [], "A": []}

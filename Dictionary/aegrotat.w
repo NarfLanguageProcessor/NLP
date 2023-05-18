@@ -1,0 +1,1 @@
+{"index": 4831, "D": "an unclassified degree granted a university student who has fulfilled all requirements for graduation but was prevented by illness from attending the final examinations.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 245353, "D": "to talk excessively and pointlessly; babble", "S": [], "A": []}

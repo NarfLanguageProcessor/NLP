@@ -1,0 +1,1 @@
+{"index": 218151, "D": "decorated or beautified, as by ornaments", "S": [], "A": []}

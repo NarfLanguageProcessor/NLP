@@ -1,0 +1,1 @@
+{"index": 211827, "D": "a can  having a long spout through which oil  is poured or squirted to lubricate machinery or the like.", "S": [], "A": []}

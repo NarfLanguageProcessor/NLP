@@ -1,0 +1,1 @@
+{"index": 8375, "D": "not part of or derivable from the document or instrument itself", "S": [], "A": []}

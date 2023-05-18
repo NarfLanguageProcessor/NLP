@@ -1,0 +1,1 @@
+{"index": 342043, "D": "not able to be fathomed,  or completely understood; incomprehensible", "S": ["boundless ", "immeasurable ", "infinite "], "A": ["bounded ", "calculable ", "finite ", "limited ", "measurable "]}

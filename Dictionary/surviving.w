@@ -1,0 +1,1 @@
+{"index": 313677, "D": "to remain alive after the death of someone, the cessation of something, or the occurrence of some event; continue to live", "S": ["extant ", "remaining "], "A": []}

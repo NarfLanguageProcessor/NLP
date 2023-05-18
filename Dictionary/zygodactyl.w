@@ -1,0 +1,1 @@
+{"index": 369220, "D": "(of a bird) having the toes of each foot arranged in pairs, with two toes in front and two behind.", "S": [], "A": []}

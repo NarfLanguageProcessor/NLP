@@ -1,0 +1,1 @@
+{"index": 108270, "D": "to make exterior; externalize. ", "S": ["externalization ", "manifestation ", "materialization ", "objectification ", "personification ", "representation ", "substantiation "], "A": []}

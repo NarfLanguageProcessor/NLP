@@ -1,0 +1,1 @@
+{"index": 219145, "D": "to exaggerate (a feature of something) to the point of unreasonableness (esp in the phrase overegg the pudding)", "S": [], "A": []}

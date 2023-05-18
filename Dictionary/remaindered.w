@@ -1,0 +1,1 @@
+{"index": 267092, "D": "something that remains or is left", "S": ["discarded ", "discounted ", "dropped ", "reduced "], "A": []}

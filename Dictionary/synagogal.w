@@ -1,0 +1,1 @@
+{"index": 291220, "D": "a Jewish house of worship, often having facilities for religious instruction.", "S": [], "A": []}

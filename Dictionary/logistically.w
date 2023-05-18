@@ -1,0 +1,1 @@
+{"index": 174641, "D": "in a way that relates to logistics,  the branch of military operations dealing with the supply, maintenance, and distribution of equipment and personnel", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82589, "D": "a person selected or designated to carry out a duty or role", "S": [], "A": []}

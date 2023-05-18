@@ -1,0 +1,1 @@
+{"index": 28404, "D": "a long-handled spoon,  usually having the capacity of a teaspoon, used for mixing or measuring ingredients for alcoholic drinks.", "S": [], "A": []}

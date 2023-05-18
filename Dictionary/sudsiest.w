@@ -1,0 +1,1 @@
+{"index": 310054, "D": "consisting of, containing, or producing foamy lather.", "S": ["lathery "], "A": []}

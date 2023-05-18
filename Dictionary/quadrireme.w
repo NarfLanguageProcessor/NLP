@@ -1,0 +1,1 @@
+{"index": 257670, "D": "(in classical antiquity) a galley having four banks of oars.", "S": [], "A": []}

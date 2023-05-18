@@ -1,0 +1,1 @@
+{"index": 81041, "D": "the science dealing with the study of the annual rings of trees in determining the dates and chronological order of past events.", "S": [], "A": []}

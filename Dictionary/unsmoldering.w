@@ -1,0 +1,1 @@
+{"index": 351424, "D": "to burn without flame; undergo slow or suppressed combustion.", "S": [], "A": []}

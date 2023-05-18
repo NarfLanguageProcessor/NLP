@@ -1,0 +1,1 @@
+{"index": 192993, "D": "given to gloomy, depressed, or sullen moods;  ill-humored.", "S": [], "A": []}

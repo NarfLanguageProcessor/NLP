@@ -1,0 +1,1 @@
+{"index": 77014, "D": "a preacher or teacher of Aggadah or Halakhah in a synagogue.", "S": [], "A": []}

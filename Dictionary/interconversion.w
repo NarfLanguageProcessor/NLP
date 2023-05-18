@@ -1,0 +1,1 @@
+{"index": 154740, "D": "conversion  of each of two things into the other; reciprocal conversion. ", "S": [], "A": []}

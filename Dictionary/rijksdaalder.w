@@ -1,0 +1,1 @@
+{"index": 272898, "D": "a cupronickel or silver coin of the Netherlands, equal to 2\u00bd guilders.", "S": [], "A": []}

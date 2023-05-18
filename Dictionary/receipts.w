@@ -1,0 +1,1 @@
+{"index": 262677, "D": "a written acknowledgment of having received,  or taken into one's possession, a specified amount of money, goods, etc.", "S": ["earnings ", "gain ", "gate ", "get ", "gross ", "handle ", "income ", "net ", "proceeds ", "profit ", "return ", "revenue ", "royalty ", "take ", "take in ", "taking "], "A": ["bills ", "debt ", "loss ", "payment "]}

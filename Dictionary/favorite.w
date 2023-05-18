@@ -1,0 +1,1 @@
+{"index": 110510, "D": "a person or thing regarded with special favor  or preference", "S": ["beloved ", "cherished ", "favored ", "main ", "popular ", "prized ", "treasured "], "A": ["disliked ", "unpopular ", "public "]}

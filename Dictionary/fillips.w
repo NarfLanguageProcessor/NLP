@@ -1,0 +1,1 @@
+{"index": 112715, "D": "an act or instance of striking something with the nail of a finger snapped from the end of a thumb; a smart tap or stroke.", "S": ["boost ", "charge ", "flip ", "incentive ", "tap "], "A": []}

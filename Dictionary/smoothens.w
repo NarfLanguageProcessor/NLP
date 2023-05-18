@@ -1,0 +1,1 @@
+{"index": 295064, "D": "to make or become smooth. ", "S": ["equalize ", "flatten "], "A": ["roughen "]}

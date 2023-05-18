@@ -1,0 +1,1 @@
+{"index": 86444, "D": "a febrile, infectious disease caused by the bacillus Corynebacterium diphtheriae, and characterized by the formation of a false membrane in the air passages, especially the throat.", "S": [], "A": []}

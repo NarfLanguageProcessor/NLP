@@ -1,0 +1,1 @@
+{"index": 329786, "D": "the state of having three wives or three husbands at one time.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248919, "D": "before a meal, especially before dinner; anteprandial", "S": [], "A": []}

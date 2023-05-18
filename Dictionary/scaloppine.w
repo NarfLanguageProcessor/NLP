@@ -1,0 +1,1 @@
+{"index": 279471, "D": "scallops, especially of veal, flattened by pounding and usually dredged in flour or breadcrumbs and saut\u00e9ed quickly", "S": [], "A": []}

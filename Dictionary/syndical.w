@@ -1,0 +1,1 @@
+{"index": 291531, "D": "of or relating to a union of persons engaged in a particular trade.", "S": [], "A": []}

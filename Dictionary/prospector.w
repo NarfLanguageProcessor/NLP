@@ -1,0 +1,1 @@
+{"index": 253202, "D": "a person who searches for the natural occurrence of gold, petroleum, etc", "S": ["miner "], "A": []}

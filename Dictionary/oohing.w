@@ -1,0 +1,1 @@
+{"index": 213015, "D": "(used to express amazement, satisfaction, excitement, etc.)", "S": [], "A": []}

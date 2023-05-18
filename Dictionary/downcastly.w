@@ -1,0 +1,1 @@
+{"index": 92207, "D": "directed downward, as the eyes.", "S": [], "A": []}

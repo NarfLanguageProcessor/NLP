@@ -1,0 +1,1 @@
+{"index": 334462, "D": "to equip or outfit, especially with military clothes, equipment, etc.", "S": [], "A": []}

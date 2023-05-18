@@ -1,0 +1,1 @@
+{"index": 247117, "D": "a synthetic glucocorticoid, C21H28O5, used in various forms to treat inflammation and allergies and in the treatment of acute leukemia, Hodgkin's disease, and lymphomas.", "S": [], "A": []}

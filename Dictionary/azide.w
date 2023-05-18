@@ -1,0 +1,1 @@
+{"index": 25246, "D": "any compound containing the azido group,  as sodium azide, NaN3.", "S": [], "A": []}

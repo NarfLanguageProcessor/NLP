@@ -1,0 +1,1 @@
+{"index": 127604, "D": "a soft doll with a black face, usually made of cloth or rags", "S": [], "A": []}

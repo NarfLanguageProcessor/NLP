@@ -1,0 +1,1 @@
+{"index": 164941, "D": "a small, brownish, arboreal mammal, Potos flavus, of Central and South American rainforests, having a prehensile tail and extrudable tongue, related to raccoons and coatis", "S": [], "A": []}

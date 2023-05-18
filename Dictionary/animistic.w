@@ -1,0 +1,1 @@
+{"index": 13229, "D": "relating to or based on animism,  the belief that natural objects, natural phenomena, and the universe itself have souls", "S": [], "A": []}

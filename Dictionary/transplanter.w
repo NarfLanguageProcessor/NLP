@@ -1,0 +1,1 @@
+{"index": 328244, "D": "to remove (a plant) from one place and plant it in another.", "S": [], "A": []}

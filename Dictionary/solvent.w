@@ -1,0 +1,1 @@
+{"index": 296931, "D": "able to pay all just debts.", "S": ["firm ", "fit ", "solid ", "stable "], "A": ["soft ", "unstable ", "weak "]}

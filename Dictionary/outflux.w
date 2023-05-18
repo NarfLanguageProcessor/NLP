@@ -1,0 +1,1 @@
+{"index": 216658, "D": "the act of flowing out; outflow (opposed to influx).", "S": [], "A": []}

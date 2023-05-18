@@ -1,0 +1,1 @@
+{"index": 216417, "D": "a strong and usually public expression of protest, indignation, or the like.", "S": ["groan ", "growl ", "hoot ", "moan ", "outcry ", "roar ", "shriek ", "wail ", "whimper ", "yelp "], "A": []}

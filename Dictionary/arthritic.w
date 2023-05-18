@@ -1,0 +1,1 @@
+{"index": 20568, "D": "relating to, having, or experiencing arthritis. ", "S": ["debilitated ", "disabled ", "paralyzed ", "shaking ", "sick ", "trembling "], "A": ["healthy "]}

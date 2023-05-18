@@ -1,0 +1,1 @@
+{"index": 280020, "D": "a variant of scepter. ", "S": [], "A": []}

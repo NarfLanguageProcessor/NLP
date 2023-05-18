@@ -1,0 +1,1 @@
+{"index": 666, "D": "to do away with; put an end to; annul; make void", "S": ["abrogation ", "annulment ", "dissolution ", "elimination ", "nullification "], "A": []}

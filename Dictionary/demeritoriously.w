@@ -1,0 +1,1 @@
+{"index": 80443, "D": "a mark against a person for misconduct or deficiency", "S": [], "A": []}

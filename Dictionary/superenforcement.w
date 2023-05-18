@@ -1,0 +1,1 @@
+{"index": 311742, "D": "the act or process of enforcing. ", "S": [], "A": []}

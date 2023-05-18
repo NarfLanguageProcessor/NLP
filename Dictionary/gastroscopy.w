@@ -1,0 +1,1 @@
+{"index": 122667, "D": "the examination with a gastroscope to detect disease.", "S": [], "A": []}

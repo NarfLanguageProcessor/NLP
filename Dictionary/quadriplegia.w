@@ -1,0 +1,1 @@
+{"index": 257659, "D": "Compare paraplegia. ", "S": [], "A": []}

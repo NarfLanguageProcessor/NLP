@@ -1,0 +1,1 @@
+{"index": 12698, "D": "a doctrine or theory concerning angels. ", "S": [], "A": []}

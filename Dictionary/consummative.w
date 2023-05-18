@@ -1,0 +1,1 @@
+{"index": 67210, "D": "to bring to a state of perfection; fulfill.", "S": [], "A": []}

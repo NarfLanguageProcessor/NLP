@@ -1,0 +1,1 @@
+{"index": 21249, "D": "(of a disease or other medical condition) presenting no symptoms or evidence of illness or abnormality", "S": [], "A": []}

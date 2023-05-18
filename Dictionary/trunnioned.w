@@ -1,0 +1,1 @@
+{"index": 331647, "D": "either of the two cylindrical projections on a cannon, one on each side for supporting the cannon on its carriage.", "S": [], "A": []}

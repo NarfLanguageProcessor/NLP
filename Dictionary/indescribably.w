@@ -1,0 +1,1 @@
+{"index": 150822, "D": "not describable; too extraordinary for description", "S": ["abnormally ", "amazingly ", "curiously ", "peculiarly ", "rarely ", "remarkably ", "startlingly ", "strikingly ", "surprisingly ", "uncommonly ", "uniquely ", "unusually "], "A": ["frequently "]}

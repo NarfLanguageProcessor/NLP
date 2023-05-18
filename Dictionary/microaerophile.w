@@ -1,0 +1,1 @@
+{"index": 185885, "D": "an organism, esp a bacterium, that thrives in an environment low in oxygen", "S": [], "A": []}

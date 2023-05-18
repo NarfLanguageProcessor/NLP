@@ -1,0 +1,1 @@
+{"index": 321054, "D": "the state of an individual or society that regards its own nature and norms as being in accord with the divine nature.", "S": [], "A": []}

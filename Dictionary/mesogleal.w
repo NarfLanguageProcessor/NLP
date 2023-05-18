@@ -1,0 +1,1 @@
+{"index": 184234, "D": "the noncellular, gelatinous material between the inner and outer body walls of a coelenterate or sponge.", "S": [], "A": []}

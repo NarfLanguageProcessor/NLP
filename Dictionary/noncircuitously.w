@@ -1,0 +1,1 @@
+{"index": 201942, "D": "roundabout; not direct", "S": [], "A": []}

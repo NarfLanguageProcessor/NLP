@@ -1,0 +1,1 @@
+{"index": 98931, "D": "to try to equal or excel; imitate with effort to equal or surpass", "S": ["echoed ", "imitated ", "repeated ", "reproduced ", "returned "], "A": []}

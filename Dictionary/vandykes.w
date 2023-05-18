@@ -1,0 +1,1 @@
+{"index": 356953, "D": "Van Dyck, Sir Anthony. ", "S": ["Vandyke ", "bristles ", "brush ", "fuzz ", "goatee ", "imperial ", "stubble "], "A": []}

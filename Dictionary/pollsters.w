@@ -1,0 +1,1 @@
+{"index": 242750, "D": "a person whose occupation is the taking of public-opinion polls. ", "S": ["canvasser ", "sampler "], "A": []}

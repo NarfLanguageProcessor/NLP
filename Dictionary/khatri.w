@@ -1,0 +1,1 @@
+{"index": 164273, "D": "a person who belongs to a Hindu mercantile caste alleged to originate with the Kshatriyas.", "S": [], "A": []}

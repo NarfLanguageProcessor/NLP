@@ -1,0 +1,1 @@
+{"index": 155541, "D": "being, or situated, between the eyes.", "S": [], "A": []}

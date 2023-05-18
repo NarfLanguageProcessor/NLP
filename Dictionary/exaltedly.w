@@ -1,0 +1,1 @@
+{"index": 106436, "D": "raised or elevated, as in rank or character; of high station", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 290927, "D": "surgery that interrupts a nerve pathway of the sympathetic  or involuntary nervous system.", "S": [], "A": []}

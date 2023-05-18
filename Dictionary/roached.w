@@ -1,0 +1,1 @@
+{"index": 273467, "D": "arched convexly, as the back of certain breeds of dog, such as the whippet", "S": [], "A": []}

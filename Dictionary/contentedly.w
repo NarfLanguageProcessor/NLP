@@ -1,0 +1,1 @@
+{"index": 67373, "D": "satisfied; feeling comfortable and at peace with one's circumstances.", "S": ["cheerfully ", "cheerily ", "cordially ", "enthusiastically ", "freely ", "gleefully ", "gratefully ", "heartily ", "readily ", "warmly ", "willingly "], "A": ["unwillingly "]}

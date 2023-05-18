@@ -1,0 +1,1 @@
+{"index": 345037, "D": "able to be issued  or to issue. ", "S": [], "A": []}

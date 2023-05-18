@@ -1,0 +1,1 @@
+{"index": 251422, "D": "a physician specializing in proctology, the branch of medicine that deals with the rectum and anus", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207057, "D": "having a surface or shape molded, marked, carved, indented, etc., by or as if by sculpture", "S": [], "A": []}

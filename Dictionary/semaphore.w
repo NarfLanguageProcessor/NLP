@@ -1,0 +1,1 @@
+{"index": 283631, "D": "an apparatus for conveying information by means of visual signals, as a light whose position may be changed.", "S": ["warn "], "A": []}

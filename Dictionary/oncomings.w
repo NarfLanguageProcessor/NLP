@@ -1,0 +1,1 @@
+{"index": 212690, "D": "approaching; nearing", "S": [], "A": []}

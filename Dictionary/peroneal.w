@@ -1,0 +1,1 @@
+{"index": 231702, "D": "pertaining to or situated near the fibula.", "S": [], "A": []}

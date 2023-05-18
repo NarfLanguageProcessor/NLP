@@ -1,0 +1,1 @@
+{"index": 105396, "D": "a graduated glass measuring tube for gas analysis.", "S": [], "A": []}

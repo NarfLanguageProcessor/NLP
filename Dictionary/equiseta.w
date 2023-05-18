@@ -1,0 +1,1 @@
+{"index": 103380, "D": "any plant of the genus Equisetum, comprising the horsetails.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 295789, "D": "a white luminosity on the underside of clouds, caused by the reflection of light from a snow  surface.", "S": [], "A": []}

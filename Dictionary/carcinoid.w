@@ -1,0 +1,1 @@
+{"index": 47666, "D": "a small, yellowish amino-acid and peptide-secreting tumor usually found in the gastrointestinal tract and lung.", "S": [], "A": []}

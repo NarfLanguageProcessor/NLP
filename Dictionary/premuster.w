@@ -1,0 +1,1 @@
+{"index": 248510, "D": "to assemble (troops, a ship's crew, etc.), as for battle, display, inspection, orders, or discharge.", "S": [], "A": []}

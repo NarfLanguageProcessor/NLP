@@ -1,0 +1,1 @@
+{"index": 42082, "D": "another name for a bloater", "S": ["submission ", "yielding "], "A": ["defending ", "fight ", "fighting "]}

@@ -1,0 +1,1 @@
+{"index": 169033, "D": "a reddish lateritic soil of the tropics, deeply weathered and infertile, characterized by hydroxides of iron and aluminum.", "S": [], "A": []}

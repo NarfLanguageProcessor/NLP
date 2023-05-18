@@ -1,0 +1,1 @@
+{"index": 334310, "D": "reduced or lowered, as in status, office, dignity, or estimation; humbled; degraded", "S": [], "A": []}

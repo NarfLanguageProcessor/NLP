@@ -1,0 +1,1 @@
+{"index": 129591, "D": "an Old World shore bird, Tringa nebularia, having green  legs.", "S": [], "A": []}

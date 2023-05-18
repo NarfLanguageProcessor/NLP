@@ -1,0 +1,1 @@
+{"index": 48583, "D": "a feeling of nausea and dizziness, sometimes accompanied by vomiting, as a result of the motion of the car in which one is traveling.", "S": ["airsickness ", "mal de mer ", "nausea ", "queasiness ", "seasickness ", "travel sickness ", "vomiting "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1967, "D": "the cherrylike fruit of a small tree, Malpighia glabra, of the West Indies and adjacent areas, having a high concentration of vitamin C.", "S": [], "A": []}

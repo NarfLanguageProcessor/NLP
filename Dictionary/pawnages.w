@@ -1,0 +1,1 @@
+{"index": 228263, "D": "the act of pawning. ", "S": [], "A": []}

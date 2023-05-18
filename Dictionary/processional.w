@@ -1,0 +1,1 @@
+{"index": 251205, "D": "of, relating to, or characteristic of a procession. ", "S": [], "A": []}

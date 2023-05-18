@@ -1,0 +1,1 @@
+{"index": 107785, "D": "pertaining to the expiration  of air from the lungs.", "S": [], "A": []}

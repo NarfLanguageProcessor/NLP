@@ -1,0 +1,1 @@
+{"index": 348729, "D": "not having been established as true, valid, or possible", "S": ["unproven ", "untested "], "A": []}

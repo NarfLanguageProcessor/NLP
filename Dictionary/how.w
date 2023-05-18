@@ -1,0 +1,1 @@
+{"index": 144540, "D": "in what way or manner; by what means?", "S": ["according to what ", "after what precedent ", "by means of ", "by virtue of what ", "by what means ", "by what method ", "by whose help ", "from what source ", "through what agency ", "through what medium ", "to what degree ", "whence ", "whereby ", "wherewith "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128188, "D": "any of several powerful, short-winged hawks, as Accipiter gentilis, of Europe and America, formerly much used in falconry.", "S": [], "A": []}

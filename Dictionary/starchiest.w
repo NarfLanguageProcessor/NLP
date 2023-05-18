@@ -1,0 +1,1 @@
+{"index": 302859, "D": "of, relating to, or of the nature of starch. ", "S": ["stuffy "], "A": []}

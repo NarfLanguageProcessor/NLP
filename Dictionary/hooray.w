@@ -1,0 +1,1 @@
+{"index": 143629, "D": "a variant of hurrah", "S": ["ahem ", "alas ", "amen ", "boo ", "er ", "exclamation ", "hello ", "hurrah ", "oh ", "shucks ", "whoopee ", "wow "], "A": []}

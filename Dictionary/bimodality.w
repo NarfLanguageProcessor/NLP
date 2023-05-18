@@ -1,0 +1,1 @@
+{"index": 34136, "D": "having or providing two modes, methods, systems, etc.", "S": [], "A": []}

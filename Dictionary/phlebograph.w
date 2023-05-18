@@ -1,0 +1,1 @@
+{"index": 234431, "D": "an instrument for recording the venous pulse.", "S": [], "A": []}

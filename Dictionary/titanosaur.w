@@ -1,0 +1,1 @@
+{"index": 324643, "D": "any amphibious plant-eating dinosaur of the genus Titanosaurus, from the Cretaceous Period, having a long, thin neck and a long, whiplike tail.", "S": [], "A": []}

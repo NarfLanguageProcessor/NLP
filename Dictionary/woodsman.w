@@ -1,0 +1,1 @@
+{"index": 367250, "D": "a person accustomed to life in the woods and skilled in the arts of the woods, as hunting or trapping.", "S": ["backwoodsman ", "lumberjack "], "A": []}

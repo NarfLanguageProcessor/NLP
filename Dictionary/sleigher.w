@@ -1,0 +1,1 @@
+{"index": 293953, "D": "a light vehicle on runners, usually open and generally horse-drawn, used especially for transporting persons over snow or ice.", "S": [], "A": []}

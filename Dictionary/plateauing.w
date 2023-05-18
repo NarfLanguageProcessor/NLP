@@ -1,0 +1,1 @@
+{"index": 239315, "D": "a land area having a relatively level surface considerably raised above adjoining land on at least one side, and often cut by deep canyons.", "S": [], "A": []}

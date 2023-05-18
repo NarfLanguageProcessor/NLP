@@ -1,0 +1,1 @@
+{"index": 71220, "D": "to check over (the separate units or groups of a collection) one by one to determine the total number; add up; enumerate", "S": ["conditional ", "reliant ", "susceptible "], "A": ["free ", "independent ", "mature ", "strong "]}

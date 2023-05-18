@@ -1,0 +1,1 @@
+{"index": 4517, "D": "a woman who commits adultery. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340074, "D": "a cruelly malicious person who is involved in or devoted to wickedness or crime; scoundrel. ", "S": [], "A": []}

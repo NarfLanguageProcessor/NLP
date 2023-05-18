@@ -1,0 +1,1 @@
+{"index": 242679, "D": "producing or bearing pollen. ", "S": [], "A": []}

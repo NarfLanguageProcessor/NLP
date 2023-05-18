@@ -1,0 +1,1 @@
+{"index": 291712, "D": "having or showing a single aim or purpose", "S": [], "A": []}

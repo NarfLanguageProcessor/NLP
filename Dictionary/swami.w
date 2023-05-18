@@ -1,0 +1,1 @@
+{"index": 314024, "D": "an honorific title given to a Hindu religious teacher.", "S": ["guru ", "master ", "mentor ", "mystic ", "sage ", "teacher ", "yogi "], "A": ["student "]}

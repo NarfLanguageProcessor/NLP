@@ -1,0 +1,1 @@
+{"index": 106804, "D": "to denounce or berate severely; flay verbally", "S": ["abrade ", "chafe ", "flay ", "fret ", "gall ", "peel ", "rub ", "scarify ", "scratch ", "skin ", "strip "], "A": ["cover ", "make happy "]}

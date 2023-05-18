@@ -1,0 +1,1 @@
+{"index": 307452, "D": "to arrange in subclasses.", "S": [], "A": []}

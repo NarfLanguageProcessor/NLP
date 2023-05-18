@@ -1,0 +1,1 @@
+{"index": 363577, "D": "resembling a weasel,  especially in features or manner", "S": [], "A": []}

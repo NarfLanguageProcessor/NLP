@@ -1,0 +1,1 @@
+{"index": 347918, "D": "reverence for God or devout fulfillment of religious obligations", "S": [], "A": []}

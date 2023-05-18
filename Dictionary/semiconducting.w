@@ -1,0 +1,1 @@
+{"index": 283962, "D": "of, relating to, or having the characteristics of a semiconductor.", "S": [], "A": []}

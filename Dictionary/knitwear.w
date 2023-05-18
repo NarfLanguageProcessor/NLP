@@ -1,0 +1,1 @@
+{"index": 165597, "D": "clothing made of knitted  fabric.", "S": [], "A": []}

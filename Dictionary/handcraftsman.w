@@ -1,0 +1,1 @@
+{"index": 133129, "D": "handicraftsman. ", "S": ["builder ", "carpenter ", "craftsman ", "professional "], "A": ["apprentice "]}

@@ -1,0 +1,1 @@
+{"index": 288985, "D": "the act or process of making lead shot  in a shot tower. ", "S": [], "A": []}

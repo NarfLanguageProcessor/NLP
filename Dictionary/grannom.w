@@ -1,0 +1,1 @@
+{"index": 128954, "D": "a widespread caddis fly, Brachycentrus subnubilus, the larvae of which attach their cases to vegetation under running water and are esteemed as a bait by anglers", "S": [], "A": []}

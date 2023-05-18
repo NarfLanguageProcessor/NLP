@@ -1,0 +1,1 @@
+{"index": 65943, "D": "a person who has confirmed that he or she will attend a specified event", "S": [], "A": []}

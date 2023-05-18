@@ -1,0 +1,1 @@
+{"index": 134477, "D": "resembling a hawk,  as in appearance or behavior.", "S": [], "A": []}

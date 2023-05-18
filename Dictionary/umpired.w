@@ -1,0 +1,1 @@
+{"index": 334282, "D": "a person selected to rule on the plays in a game.", "S": ["adjudicate ", "interpose ", "intervene ", "mediate ", "straighten out "], "A": ["ignore ", "agitate ", "confuse ", "hesitate ", "upset ", "worry "]}

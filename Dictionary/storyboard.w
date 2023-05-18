@@ -1,0 +1,1 @@
+{"index": 305413, "D": "a panel or panels on which a sequence of sketches depict the significant changes of action and scene in a planned film, as for a movie, television show, or advertisement.", "S": ["cartoon ", "depiction ", "design ", "etching ", "graphics ", "layout ", "likeness ", "painting ", "picture ", "sketch ", "study ", "work of art "], "A": []}

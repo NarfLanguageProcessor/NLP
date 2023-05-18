@@ -1,0 +1,1 @@
+{"index": 273113, "D": "a traditional Japanese inn or small hotel whose floors are covered with tatami.", "S": [], "A": []}

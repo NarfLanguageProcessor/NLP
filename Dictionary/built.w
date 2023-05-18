@@ -1,0 +1,1 @@
+{"index": 42377, "D": "simple past tense and past participle of build. ", "S": ["assembled ", "completed ", "constructed ", "created ", "fabricated ", "finished ", "made ", "manufactured ", "produced "], "A": ["flat ", "puny ", "skinny ", "weak "]}

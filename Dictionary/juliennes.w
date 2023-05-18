@@ -1,0 +1,1 @@
+{"index": 162238, "D": "(of food, especially vegetables) cut into thin strips or small, matchlike pieces.", "S": [], "A": []}

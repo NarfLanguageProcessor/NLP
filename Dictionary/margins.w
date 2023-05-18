@@ -1,0 +1,1 @@
+{"index": 180018, "D": "the space around the printed or written matter on a page.", "S": ["edge ", "limit ", "surplus "], "A": ["center ", "inside ", "interior ", "middle "]}

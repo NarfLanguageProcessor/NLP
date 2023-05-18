@@ -1,0 +1,1 @@
+{"index": 356496, "D": "the ability of an organism to move about freely and migrate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15239, "D": "efficacious against fever; febrifuge; antipyretic.", "S": [], "A": []}

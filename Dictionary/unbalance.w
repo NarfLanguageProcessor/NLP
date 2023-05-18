@@ -1,0 +1,1 @@
+{"index": 335561, "D": "to throw or put out of balance. ", "S": ["astasia ", "disequilibrium ", "instability "], "A": []}

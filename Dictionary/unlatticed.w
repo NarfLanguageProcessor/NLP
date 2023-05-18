@@ -1,0 +1,1 @@
+{"index": 345453, "D": "having a lattice  or latticework.", "S": [], "A": []}

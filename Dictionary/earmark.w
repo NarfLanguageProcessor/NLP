@@ -1,0 +1,1 @@
+{"index": 94757, "D": "any identifying or distinguishing mark  or characteristic", "S": ["attribute ", "differential ", "distinction ", "feature ", "hallmark ", "label ", "marking ", "peculiarity ", "quality ", "stamp ", "tag ", "token ", "trademark ", "trait "], "A": []}

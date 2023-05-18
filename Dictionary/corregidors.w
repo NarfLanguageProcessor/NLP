@@ -1,0 +1,1 @@
+{"index": 69629, "D": "the chief magistrate of a town in Spain.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 364765, "D": "a crossbar, pivoted at the middle, to which the traces of a harness are fastened for pulling a cart, carriage, plow, etc.", "S": [], "A": []}

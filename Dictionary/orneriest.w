@@ -1,0 +1,1 @@
+{"index": 214711, "D": "ugly and unpleasant in disposition or temper", "S": [], "A": []}

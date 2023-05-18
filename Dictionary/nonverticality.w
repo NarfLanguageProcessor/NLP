@@ -1,0 +1,1 @@
+{"index": 208246, "D": "being in a position or direction perpendicular to the plane of the horizon; upright; plumb.", "S": [], "A": []}

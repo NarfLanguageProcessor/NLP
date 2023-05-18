@@ -1,0 +1,1 @@
+{"index": 252532, "D": "something that is paid;  an amount paid;  compensation; recompense.", "S": [], "A": []}

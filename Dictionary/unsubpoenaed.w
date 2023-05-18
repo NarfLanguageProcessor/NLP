@@ -1,0 +1,1 @@
+{"index": 352265, "D": "(of a witness or evidence) required by a subpoena  to appear or be submitted before a court or other deliberative body", "S": [], "A": []}

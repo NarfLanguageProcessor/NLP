@@ -1,0 +1,1 @@
+{"index": 85853, "D": "to form (a dimer), as in polymerization.", "S": [], "A": []}

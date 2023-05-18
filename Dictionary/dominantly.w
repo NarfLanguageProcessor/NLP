@@ -1,0 +1,1 @@
+{"index": 91306, "D": "ruling, governing, or controlling; having or exerting authority or influence", "S": ["basically ", "chiefly ", "first and foremost ", "generally ", "importantly ", "largely ", "mostly ", "notably ", "particularly ", "predominantly "], "A": []}

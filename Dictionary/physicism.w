@@ -1,0 +1,1 @@
+{"index": 234073, "D": [], "S": ["heterodoxy ", "pragmatism ", "utilitarianism "], "A": ["spiritualism "]}

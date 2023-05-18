@@ -1,0 +1,1 @@
+{"index": 239411, "D": "the state of being platykurtic. ", "S": [], "A": []}

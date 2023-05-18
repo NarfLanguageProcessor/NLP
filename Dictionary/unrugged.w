@@ -1,0 +1,1 @@
+{"index": 350132, "D": "having a roughly broken, rocky, hilly, or jagged surface", "S": [], "A": []}

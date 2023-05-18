@@ -1,0 +1,1 @@
+{"index": 129723, "D": "of or relating to Grenada or its inhabitants", "S": [], "A": []}

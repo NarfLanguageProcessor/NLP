@@ -1,0 +1,1 @@
+{"index": 119297, "D": "merrily playful; full of fun.", "S": ["friskiness ", "liveliness ", "mischievousness ", "peppiness ", "spiritedness ", "sportiveness ", "waggishness "], "A": []}

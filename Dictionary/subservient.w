@@ -1,0 +1,1 @@
+{"index": 309137, "D": "serving or acting in a subordinate capacity; subordinate. ", "S": ["deferential ", "inferior ", "submissive "], "A": ["disobedient "]}

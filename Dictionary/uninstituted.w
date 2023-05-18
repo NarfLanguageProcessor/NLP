@@ -1,0 +1,1 @@
+{"index": 344659, "D": "to set up; establish; organize", "S": [], "A": []}

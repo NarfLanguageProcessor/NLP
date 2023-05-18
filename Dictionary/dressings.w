@@ -1,0 +1,1 @@
+{"index": 92991, "D": "dressed stonework, mouldings, and carved ornaments used to form quoins, keystones, sills, and similar features", "S": ["filling ", "stuffing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 193405, "D": "folkways of central importance accepted without question and embodying the fundamental moral views of a group.", "S": ["attitude ", "codes ", "etiquette ", "formalities ", "manners ", "morals ", "policies ", "practices ", "principles ", "protocol ", "rites ", "rituals ", "routines ", "rules ", "standards "], "A": ["bad manners "]}

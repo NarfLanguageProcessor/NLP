@@ -1,0 +1,1 @@
+{"index": 196185, "D": "a state or condition of violent, destructive frenzy occurring with the rutting season in male elephants, accompanied by the exudation of an oily substance from glands between the eyes and mouth.", "S": [], "A": []}

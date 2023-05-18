@@ -1,0 +1,1 @@
+{"index": 233650, "D": "a gold coin of ancient Greece, originally issued by Philip II of Macedon.", "S": [], "A": []}

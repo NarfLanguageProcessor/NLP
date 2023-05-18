@@ -1,0 +1,1 @@
+{"index": 341274, "D": "to make feeble; weaken", "S": [], "A": []}

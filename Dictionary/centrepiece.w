@@ -1,0 +1,1 @@
+{"index": 50961, "D": "an object used as the centre of something, esp for decoration", "S": [], "A": []}

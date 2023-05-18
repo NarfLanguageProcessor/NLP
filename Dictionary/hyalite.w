@@ -1,0 +1,1 @@
+{"index": 138163, "D": "a colorless variety of opal, sometimes transparent like glass, and sometimes whitish and translucent.", "S": [], "A": []}

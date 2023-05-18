@@ -1,0 +1,1 @@
+{"index": 128393, "D": "the trend toward expansion of the government's role, range of activities, or power.", "S": [], "A": []}

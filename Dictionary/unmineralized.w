@@ -1,0 +1,1 @@
+{"index": 346368, "D": "to convert into a mineral  substance.", "S": [], "A": []}

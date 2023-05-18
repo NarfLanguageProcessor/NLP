@@ -1,0 +1,1 @@
+{"index": 55182, "D": "either of two isomeric naphthalene  compounds containing one chlorine atom.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208210, "D": "willing to sell one's influence, especially in return for a bribe; open to bribery; mercenary", "S": [], "A": []}

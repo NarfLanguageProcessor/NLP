@@ -1,0 +1,1 @@
+{"index": 355155, "D": "an upheaval, as of the earth's surface.", "S": [], "A": []}

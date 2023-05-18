@@ -1,0 +1,1 @@
+{"index": 335873, "D": "not biased  or prejudiced; fair; impartial.", "S": ["disinterestedly ", "dispassionately ", "equally ", "indifferently ", "objectively "], "A": []}

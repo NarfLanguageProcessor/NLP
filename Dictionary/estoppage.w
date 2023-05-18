@@ -1,0 +1,1 @@
+{"index": 104698, "D": "the condition of being estopped. ", "S": [], "A": []}

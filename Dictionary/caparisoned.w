@@ -1,0 +1,1 @@
+{"index": 46782, "D": "a decorative covering for a horse or for the tack or harness of a horse; trappings.", "S": ["adorn ", "decorate ", "embellish "], "A": ["mar "]}

@@ -1,0 +1,1 @@
+{"index": 115900, "D": "a sheet of paper folded once to make two leaves, or four pages, of a book or manuscript.", "S": ["album ", "booklet ", "brochure ", "copy ", "dictionary ", "edition ", "essay ", "fiction ", "magazine ", "manual ", "novel ", "pamphlet ", "paperback ", "publication ", "text ", "textbook ", "tome ", "volume ", "work ", "writing "], "A": []}

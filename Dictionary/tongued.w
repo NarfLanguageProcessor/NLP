@@ -1,0 +1,1 @@
+{"index": 325543, "D": "long-tongued", "S": ["caress ", "fondle ", "graze ", "rub ", "soothe ", "wash "], "A": []}

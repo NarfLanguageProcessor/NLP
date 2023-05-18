@@ -1,0 +1,1 @@
+{"index": 181472, "D": "an expert or connoisseur.", "S": ["connoisseur ", "expert "], "A": ["ignoramus "]}

@@ -1,0 +1,1 @@
+{"index": 54905, "D": "a nitrogen-containing polysaccharide, related chemically to cellulose, that forms a semitransparent horny substance and is a principal constituent of the exoskeleton, or outer covering, of insects, crustaceans, and arachnids.", "S": [], "A": []}

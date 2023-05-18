@@ -1,0 +1,1 @@
+{"index": 340388, "D": "undiluted fruit juice", "S": ["concentrated ", "full-strength ", "neat ", "out-and-out ", "plain ", "pure ", "strong ", "thoroughgoing ", "unadulterated ", "unblended ", "unmixed ", "unmodified ", "unqualified "], "A": []}

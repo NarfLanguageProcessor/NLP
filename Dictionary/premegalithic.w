@@ -1,0 +1,1 @@
+{"index": 248355, "D": "relating to ancient construction works using stones of great size, such as dolmens or menhirs, or to the era in which these were constructed", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 317783, "D": "a person in their teens.", "S": ["juvenile ", "minor ", "youngster ", "youth "], "A": ["adult "]}

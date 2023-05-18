@@ -1,0 +1,1 @@
+{"index": 11037, "D": "the achromatic spindle with two asters that forms during mitosis.", "S": [], "A": []}

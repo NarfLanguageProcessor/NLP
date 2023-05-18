@@ -1,0 +1,1 @@
+{"index": 150980, "D": "originating in and characteristic of a particular region or country; native (often followed by to)", "S": [], "A": []}

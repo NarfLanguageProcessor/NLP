@@ -1,0 +1,1 @@
+{"index": 160931, "D": "a close-fitting jacket or short coat, usually sleeveless, as one of leather worn in the 16th and 17th centuries.", "S": [], "A": []}

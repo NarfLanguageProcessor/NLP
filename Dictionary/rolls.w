@@ -1,0 +1,1 @@
+{"index": 273990, "D": "to move along a surface by revolving or turning over and over, as a ball or a wheel.", "S": ["cycle ", "gyration ", "reel ", "revolution ", "rotation ", "run ", "spin ", "trundling ", "turn ", "twirl ", "undulation ", "whirl "], "A": []}

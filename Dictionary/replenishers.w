@@ -1,0 +1,1 @@
+{"index": 268277, "D": "to make full or complete again, as by supplying what is lacking, used up, etc.", "S": [], "A": []}

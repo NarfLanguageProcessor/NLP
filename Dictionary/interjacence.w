@@ -1,0 +1,1 @@
+{"index": 155087, "D": "between or among others; intervening; intermediate.", "S": [], "A": []}

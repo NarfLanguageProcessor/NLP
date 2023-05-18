@@ -1,0 +1,1 @@
+{"index": 251125, "D": "the meristem from which vascular bundles are developed.", "S": [], "A": []}

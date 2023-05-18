@@ -1,0 +1,1 @@
+{"index": 289183, "D": "of, belonging to, or relating to a sheriff.", "S": [], "A": []}

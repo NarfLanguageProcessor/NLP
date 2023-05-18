@@ -1,0 +1,1 @@
+{"index": 67791, "D": "obviously planned or forced; artificial; strained", "S": ["false ", "phony "], "A": ["genuine ", "real ", "unforced "]}

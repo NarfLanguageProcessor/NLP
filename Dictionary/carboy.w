@@ -1,0 +1,1 @@
+{"index": 47469, "D": "a large glass bottle protected by basketwork or a wooden box, used especially for holding corrosive liquids.", "S": [], "A": []}

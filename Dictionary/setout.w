@@ -1,0 +1,1 @@
+{"index": 286658, "D": "preparations, especially for beginning a journey.", "S": ["advertised ", "delineated ", "demonstrated ", "displayed ", "exhibited ", "exposed ", "presented "], "A": ["concealed ", "covered ", "withdrawn "]}

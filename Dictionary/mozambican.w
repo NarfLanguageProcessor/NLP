@@ -1,0 +1,1 @@
+{"index": 194446, "D": "a native or inhabitant of the country or city of Mozambique. ", "S": [], "A": []}

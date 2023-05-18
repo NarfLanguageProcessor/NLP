@@ -1,0 +1,1 @@
+{"index": 91647, "D": "a common European dung beetle, Geotrupes stercorarius.", "S": [], "A": []}

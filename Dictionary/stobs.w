@@ -1,0 +1,1 @@
+{"index": 304889, "D": "a post, stump, or stake.", "S": [], "A": []}

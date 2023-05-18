@@ -1,0 +1,1 @@
+{"index": 235167, "D": "of or relating to photography. ", "S": ["cinematic ", "pictorial ", "visual ", "vivid "], "A": []}

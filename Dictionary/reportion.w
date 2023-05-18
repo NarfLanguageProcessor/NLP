@@ -1,0 +1,1 @@
+{"index": 268386, "D": "a part of any whole, either separated from or integrated with it", "S": [], "A": []}

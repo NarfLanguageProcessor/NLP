@@ -1,0 +1,1 @@
+{"index": 153024, "D": "situated within or farther within; interior", "S": [], "A": []}

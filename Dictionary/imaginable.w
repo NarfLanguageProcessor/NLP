@@ -1,0 +1,1 @@
+{"index": 147582, "D": "capable of being imagined  or conceived.", "S": ["conceivable ", "plausible ", "sensible "], "A": ["unbelievable ", "unreasonable "]}

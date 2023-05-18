@@ -1,0 +1,1 @@
+{"index": 16429, "D": "prejudiced or discriminating against or hostile toward white  people.", "S": [], "A": []}

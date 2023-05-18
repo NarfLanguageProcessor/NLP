@@ -1,0 +1,1 @@
+{"index": 37777, "D": "a political system resembling the rules of the Bonapartes, esp Napoleon I and Napoleon III", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111754, "D": "the act of destroying a fetus  or causing an abortion.", "S": [], "A": []}

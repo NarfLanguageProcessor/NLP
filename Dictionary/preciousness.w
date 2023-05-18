@@ -1,0 +1,1 @@
+{"index": 246098, "D": "of high price or great value; very valuable or costly", "S": ["brilliance ", "grandeur ", "luster ", "majesty ", "splendor "], "A": ["dullness ", "insignificance ", "simplicity "]}

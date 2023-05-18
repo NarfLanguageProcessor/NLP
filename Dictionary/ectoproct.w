@@ -1,0 +1,1 @@
+{"index": 95557, "D": "bryozoan; formerly, one of two broad types of bryozoan.", "S": [], "A": []}

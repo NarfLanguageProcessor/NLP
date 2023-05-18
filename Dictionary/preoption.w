@@ -1,0 +1,1 @@
+{"index": 248681, "D": "the power or right of choosing.", "S": [], "A": []}

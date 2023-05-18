@@ -1,0 +1,1 @@
+{"index": 10405, "D": "of, relating to, or representing an amicus curiae,  a friend of the court", "S": [], "A": []}

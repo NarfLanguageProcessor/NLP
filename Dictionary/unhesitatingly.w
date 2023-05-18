@@ -1,0 +1,1 @@
+{"index": 343690, "D": "without hesitation; not delayed by uncertainty", "S": ["directly ", "forthwith ", "instantly ", "promptly ", "rapidly ", "shortly ", "soon ", "urgently "], "A": ["later "]}

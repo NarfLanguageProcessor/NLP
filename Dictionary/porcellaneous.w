@@ -1,0 +1,1 @@
+{"index": 243365, "D": "a strong, vitreous, translucent ceramic material, biscuit-fired at a low temperature, the glaze then fired at a very high temperature.", "S": [], "A": []}

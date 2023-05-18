@@ -1,0 +1,1 @@
+{"index": 222763, "D": "a leather or canvas carrying bag, usually one that can be strapped over the shoulder and used to carry food and personal items when a person is traveling.", "S": [], "A": []}

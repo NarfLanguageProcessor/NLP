@@ -1,0 +1,1 @@
+{"index": 288306, "D": "a relentless and revengeful moneylender in Shakespeare's Merchant of Venice.", "S": [], "A": []}

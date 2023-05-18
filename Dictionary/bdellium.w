@@ -1,0 +1,1 @@
+{"index": 29328, "D": "a fragrant gum resin obtained from certain plants of the genus Commiphora, family Burseraceae, especially the sub-Saharan trees C. africana and C. wightii.", "S": [], "A": []}

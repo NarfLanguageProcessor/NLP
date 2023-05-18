@@ -1,0 +1,1 @@
+{"index": 358927, "D": "any plant belonging to the genus Verbena, of the verbena family, having elongated or flattened spikes of stalkless flowers.", "S": [], "A": []}

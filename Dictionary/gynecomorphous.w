@@ -1,0 +1,1 @@
+{"index": 125202, "D": "having the form, appearance, or attributes of a female.", "S": [], "A": []}

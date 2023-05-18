@@ -1,0 +1,1 @@
+{"index": 4815, "D": "a mineral, mainly sodium-ferric iron silicate, NaFe\u22c5(Si2O6), occurring in feldspathoid rocks in slender prismatic crystals.", "S": [], "A": []}

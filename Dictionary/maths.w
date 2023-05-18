@@ -1,0 +1,1 @@
+{"index": 181168, "D": "mathematics. ", "S": ["algebra ", "calculation ", "calculus ", "geometry ", "math "], "A": ["decrease ", "reduction ", "subtraction "]}

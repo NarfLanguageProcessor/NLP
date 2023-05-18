@@ -1,0 +1,1 @@
+{"index": 213054, "D": "an Inuit or Yupik open boat that consists of a wooden frame covered with skins and provided with several thwarts", "S": [], "A": []}

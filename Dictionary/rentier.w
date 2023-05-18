@@ -1,0 +1,1 @@
+{"index": 267774, "D": "a person who has a fixed income, as from lands or bonds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325867, "D": "a place in the valley of Hinnom, near Jerusalem, where, contrary to the law, children were offered as sacrifices, especially to Moloch. It was later used as a dumping ground for refuse.", "S": [], "A": []}

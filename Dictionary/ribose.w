@@ -1,0 +1,1 @@
+{"index": 272473, "D": "a white, crystalline, water-soluble, slightly sweet solid, C5H10O5, a pentose sugar obtained by the hydrolysis of RNA.", "S": [], "A": []}

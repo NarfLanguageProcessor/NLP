@@ -1,0 +1,1 @@
+{"index": 318910, "D": "a projection formed on the end of a timber or the like for insertion into a mortise of the same dimensions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 224295, "D": "a complete publication of generally less than 80 pages stitched or stapled together and usually having a paper cover.", "S": ["brochure ", "bulletin ", "flyer ", "folder ", "handout ", "leaflet ", "tract "], "A": []}

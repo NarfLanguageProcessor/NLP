@@ -1,0 +1,1 @@
+{"index": 125969, "D": "any small, transparent marine, brackish, or freshwater fishes  of the genus Chanda (or Ambassis), native to Africa and the Indo-Pacific region and popular in home aquariums.", "S": [], "A": []}

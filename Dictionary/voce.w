@@ -1,0 +1,1 @@
+{"index": 360911, "D": "(used as a direction to a reference) under the specified word. Abbreviation", "S": [], "A": []}

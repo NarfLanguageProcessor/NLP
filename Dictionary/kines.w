@@ -1,0 +1,1 @@
+{"index": 164809, "D": "an archaic plural of cow1. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48613, "D": "the amount a cart can hold", "S": [], "A": []}

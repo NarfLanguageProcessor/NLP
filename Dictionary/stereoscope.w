@@ -1,0 +1,1 @@
+{"index": 303959, "D": "an optical instrument through which two pictures of the same object, taken from slightly different points of view, are viewed, one by each eye, producing the effect of a single picture of the object, with the appearance of depth or relief.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94951, "D": "having an eastward  direction or situation.", "S": [], "A": []}

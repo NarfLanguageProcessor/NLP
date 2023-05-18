@@ -1,0 +1,1 @@
+{"index": 294488, "D": "to perform hastily or carelessly.", "S": [], "A": []}

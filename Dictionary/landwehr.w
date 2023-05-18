@@ -1,0 +1,1 @@
+{"index": 168057, "D": "(in Germany, Austria, etc.) the part of the organized military forces of a nation that has completed a certain amount of compulsory training, and whose continuous service is required only in time of war.", "S": [], "A": []}

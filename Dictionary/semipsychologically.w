@@ -1,0 +1,1 @@
+{"index": 284797, "D": "in a way that pertains to the mind or mental phenomena, especially to awareness, feeling, or motivation", "S": [], "A": []}

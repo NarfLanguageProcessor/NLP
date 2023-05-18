@@ -1,0 +1,1 @@
+{"index": 189511, "D": "to judge,  estimate, or value wrongly or unjustly.", "S": ["blunder ", "misinterpretation ", "misunderstanding "], "A": []}

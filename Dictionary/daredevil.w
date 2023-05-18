@@ -1,0 +1,1 @@
+{"index": 76907, "D": "a recklessly daring  person.", "S": ["adventurer ", "stuntman "], "A": []}

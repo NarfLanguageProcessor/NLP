@@ -1,0 +1,1 @@
+{"index": 341283, "D": "busy or occupied; involved", "S": ["disjoined ", "free ", "separated "], "A": []}

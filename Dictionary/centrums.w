@@ -1,0 +1,1 @@
+{"index": 51046, "D": "a center. ", "S": ["heart ", "hub ", "place "], "A": ["exterior ", "exteriority ", "outside "]}

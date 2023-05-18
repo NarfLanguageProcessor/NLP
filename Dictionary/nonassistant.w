@@ -1,0 +1,1 @@
+{"index": 201514, "D": "a person who assists  or gives aid and support; helper.", "S": [], "A": []}

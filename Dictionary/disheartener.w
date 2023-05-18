@@ -1,0 +1,1 @@
+{"index": 88246, "D": "to depress the hope, courage, or spirits of; discourage. ", "S": [], "A": []}

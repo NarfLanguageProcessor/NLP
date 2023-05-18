@@ -1,0 +1,1 @@
+{"index": 241642, "D": "pertaining to a molecule containing more than two atoms.", "S": [], "A": []}

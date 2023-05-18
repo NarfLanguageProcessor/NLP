@@ -1,0 +1,1 @@
+{"index": 268873, "D": "that which is required;  a thing demanded or obligatory", "S": ["demands ", "exigencies ", "exigency ", "necessity ", "need ", "needs ", "requirement ", "want "], "A": []}

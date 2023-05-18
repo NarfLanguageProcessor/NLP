@@ -1,0 +1,1 @@
+{"index": 92065, "D": "a member of an independent religious sect originating in Russia in the 18th century, believing in the supreme authority of the inner voice and in the transmigration of souls, rejecting the divinity of Christ and the establishing of churches, and expressing opposition to civil authority by refusing to pay taxes, do military service, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107992, "D": "to set forth or state in detail", "S": ["backer ", "campaigner ", "defender ", "lawyer ", "promoter ", "proponent ", "supporter "], "A": ["opponent "]}

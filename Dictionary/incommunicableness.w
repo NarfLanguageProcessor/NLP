@@ -1,0 +1,1 @@
+{"index": 150076, "D": "incapable of being communicated, imparted, shared, etc.", "S": [], "A": []}

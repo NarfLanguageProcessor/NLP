@@ -1,0 +1,1 @@
+{"index": 135156, "D": "a process for making copies of a letter, memorandum, etc., from a prepared gelatin surface to which the original writing has been transferred.", "S": [], "A": []}

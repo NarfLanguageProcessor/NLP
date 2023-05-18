@@ -1,0 +1,1 @@
+{"index": 330952, "D": "a curve traced by a point on a radius or an extension of the radius of a circle that rolls, without slipping, on a curve, another circle, or a straight line. Equation", "S": [], "A": []}

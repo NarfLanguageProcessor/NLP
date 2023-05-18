@@ -1,0 +1,1 @@
+{"index": 48470, "D": "the opening in the cystocarp of certain red algae through which the spores are discharged.", "S": [], "A": []}

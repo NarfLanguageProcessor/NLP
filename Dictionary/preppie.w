@@ -1,0 +1,1 @@
+{"index": 248909, "D": "a person who is a student at or a graduate of a preparatory school.", "S": [], "A": []}

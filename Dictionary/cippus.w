@@ -1,0 +1,1 @@
+{"index": 57889, "D": "(in classical architecture) a stele.", "S": [], "A": []}

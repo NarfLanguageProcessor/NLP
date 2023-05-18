@@ -1,0 +1,1 @@
+{"index": 92766, "D": "a hole in a tenon made eccentric with the corresponding holes to the mortise so that the two pieces being joined will be forced tightly together when the pin (drawbore pin ) is hammered into place.", "S": [], "A": []}

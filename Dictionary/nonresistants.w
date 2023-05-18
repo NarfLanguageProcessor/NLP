@@ -1,0 +1,1 @@
+{"index": 206781, "D": "not able, conditioned, or constructed to withstand the effect of something, as a disease, a specific change in temperature, or harsh treatment; susceptible to damage or ill effects.", "S": [], "A": []}

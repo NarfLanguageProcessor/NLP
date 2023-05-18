@@ -1,0 +1,1 @@
+{"index": 289755, "D": "one of the surfaces forming the outside of or bounding a thing, or one of the lines bounding a geometric figure.", "S": [], "A": []}

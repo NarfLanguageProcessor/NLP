@@ -1,0 +1,1 @@
+{"index": 359583, "D": "an act, ceremony, or occasion of seeing, watching, or inspecting", "S": ["attention ", "eye ", "glance ", "glimpse ", "peek ", "review ", "stare ", "view "], "A": ["disregard ", "ignorance ", "indifference ", "neglect "]}

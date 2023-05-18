@@ -1,0 +1,1 @@
+{"index": 277203, "D": "any solanaceous plant of the Chilean genus Salpiglossis, some species of which are cultivated for their bright funnel-shaped flowers", "S": [], "A": []}

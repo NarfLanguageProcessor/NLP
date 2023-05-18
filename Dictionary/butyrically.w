@@ -1,0 +1,1 @@
+{"index": 43617, "D": "pertaining to or derived from butyric acid. ", "S": [], "A": []}

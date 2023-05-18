@@ -1,0 +1,1 @@
+{"index": 246630, "D": "cut  to a specific shape or size before being assembled or used", "S": [], "A": []}

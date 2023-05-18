@@ -1,0 +1,1 @@
+{"index": 314580, "D": "a railroad yard  in which rolling stock is distributed or made up into trains.", "S": [], "A": []}

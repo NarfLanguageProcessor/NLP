@@ -1,0 +1,1 @@
+{"index": 173438, "D": "an antibody causing the disintegration of erythrocytes or bacterial cells.", "S": [], "A": []}

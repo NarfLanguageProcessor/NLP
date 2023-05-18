@@ -1,0 +1,1 @@
+{"index": 185692, "D": "consisting of, containing, or resembling mica. ", "S": [], "A": []}

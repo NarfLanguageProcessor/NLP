@@ -1,0 +1,1 @@
+{"index": 364347, "D": "a long, narrow boat  designed for quick turning and use in rough seas", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1131, "D": "utterly or obviously senseless, illogical, or untrue; contrary to all reason or common sense; laughably foolish or false", "S": ["absurdity ", "bunk ", "craziness ", "folly ", "indiscretion ", "insanity ", "irrationality ", "irresponsibility ", "lunacy ", "rubbish ", "silliness ", "stupidity "], "A": ["judgment ", "sense ", "wisdom "]}

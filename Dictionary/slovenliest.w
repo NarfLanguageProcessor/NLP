@@ -1,0 +1,1 @@
+{"index": 294441, "D": "untidy or unclean in appearance or habits.", "S": [], "A": []}

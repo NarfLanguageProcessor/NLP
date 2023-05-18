@@ -1,0 +1,1 @@
+{"index": 246771, "D": "to make evident or establish by arguments or reasoning; prove", "S": [], "A": []}

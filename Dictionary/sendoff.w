@@ -1,0 +1,1 @@
+{"index": 285237, "D": "a demonstration of good wishes for a person setting out on a trip, career, or other venture", "S": ["adieu ", "bon voyage ", "goodbye "], "A": ["hello "]}

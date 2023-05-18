@@ -1,0 +1,1 @@
+{"index": 288464, "D": "the area alongside a ship,  as on a pier.", "S": [], "A": []}

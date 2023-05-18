@@ -1,0 +1,1 @@
+{"index": 72398, "D": "the fatty part of milk, which rises to the surface when the liquid is allowed to stand unless homogenized.", "S": ["jelly ", "ointment ", "paste "], "A": []}

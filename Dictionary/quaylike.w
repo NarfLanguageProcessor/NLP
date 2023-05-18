@@ -1,0 +1,1 @@
+{"index": 257808, "D": "a landing place, especially one of solid masonry, constructed along the edge of a body of water; wharf.", "S": [], "A": []}

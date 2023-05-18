@@ -1,0 +1,1 @@
+{"index": 157279, "D": "to request the presence or participation of in a kindly, courteous, or complimentary way, especially to request to come or go to some place, gathering, entertainment, etc., or to do something", "S": [], "A": []}

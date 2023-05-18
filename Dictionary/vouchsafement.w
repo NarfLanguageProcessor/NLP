@@ -1,0 +1,1 @@
+{"index": 361441, "D": "to grant or give, as by favor, graciousness, or condescension", "S": [], "A": []}

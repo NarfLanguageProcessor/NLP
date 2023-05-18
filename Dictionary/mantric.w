@@ -1,0 +1,1 @@
+{"index": 179604, "D": "a word or formula, as from the Veda, chanted or sung as an incantation or prayer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34537, "D": "the formation of chemical compounds by a living organism.", "S": [], "A": []}

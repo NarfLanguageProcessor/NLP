@@ -1,0 +1,1 @@
+{"index": 280044, "D": "to remove sericin from (silk waste) by fermentation.", "S": [], "A": []}

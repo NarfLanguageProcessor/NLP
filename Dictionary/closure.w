@@ -1,0 +1,1 @@
+{"index": 60480, "D": "the act of closing; the state of being closed.", "S": ["closing ", "stoppage ", "termination "], "A": ["beginning ", "start ", "commencement ", "introduction ", "opening "]}

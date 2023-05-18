@@ -1,0 +1,1 @@
+{"index": 106371, "D": "to increase the severity, bitterness, or violence of (disease, ill feeling, etc.); aggravate. ", "S": [], "A": []}

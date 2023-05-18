@@ -1,0 +1,1 @@
+{"index": 344491, "D": "having no inherent power of action, motion, or resistance (opposed to active)", "S": [], "A": []}

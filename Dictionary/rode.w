@@ -1,0 +1,1 @@
+{"index": 273743, "D": "a simple past tense of ride. ", "S": ["endured ", "narrow ", "produced ", "tolerated ", "toted "], "A": []}

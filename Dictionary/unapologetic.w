@@ -1,0 +1,1 @@
+{"index": 335063, "D": "not accepting fault or blame", "S": ["impenitent ", "remorseless ", "unmerciful ", "unrepentant "], "A": ["apologetic ", "contrite ", "penitent ", "regretful ", "sorry "]}

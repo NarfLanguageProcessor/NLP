@@ -1,0 +1,1 @@
+{"index": 310443, "D": "containing the sulfo group; sulfonic. ", "S": [], "A": []}

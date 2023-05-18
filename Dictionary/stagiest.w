@@ -1,0 +1,1 @@
+{"index": 302353, "D": "a variant of stagy. ", "S": ["assumed ", "contrived ", "false ", "feigned ", "forced ", "hollow ", "insincere ", "labored ", "mannered ", "meretricious ", "phony ", "put on ", "spurious ", "theatrical ", "unnatural "], "A": ["genuine ", "natural ", "real ", "unaffected ", "unpretentious "]}

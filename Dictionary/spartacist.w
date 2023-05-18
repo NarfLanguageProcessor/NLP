@@ -1,0 +1,1 @@
+{"index": 298517, "D": "a member of a group of German radical socialists formed in 1916 and in 1919 becoming the German Communist Party, led by Karl Liebknecht and Rosa Luxemburg", "S": [], "A": []}

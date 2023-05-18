@@ -1,0 +1,1 @@
+{"index": 265877, "D": "to make regular. ", "S": ["adjust ", "even up "], "A": ["aid ", "assist ", "differ ", "disagree ", "help ", "imbalance ", "roughen ", "vary "]}

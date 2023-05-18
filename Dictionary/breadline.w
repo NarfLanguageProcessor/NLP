@@ -1,0 +1,1 @@
+{"index": 40205, "D": "a group of needy persons waiting in line for free food to be distributed by a government agency or charitable organization.", "S": ["bare existence ", "hand-to-mouth existence ", "mere existence ", "pauperism ", "poverty trap ", "subsistence level "], "A": []}

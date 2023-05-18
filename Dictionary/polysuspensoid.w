@@ -1,0 +1,1 @@
+{"index": 242495, "D": "a suspensoid  in which the solid particles are polydisperse.", "S": [], "A": []}

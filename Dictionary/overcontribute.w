@@ -1,0 +1,1 @@
+{"index": 218733, "D": "to give (money, time, knowledge, assistance, etc.) to a common supply, fund, etc., as for charitable purposes.", "S": [], "A": []}

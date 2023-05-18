@@ -1,0 +1,1 @@
+{"index": 79209, "D": "a player in certain games, as ice hockey or lacrosse, who lines up in a defensive zone or position.", "S": [], "A": []}

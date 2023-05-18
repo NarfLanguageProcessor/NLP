@@ -1,0 +1,1 @@
+{"index": 172812, "D": "the masculine gender.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 168293, "D": "examination of the abdominal cavity or performance of minor abdominal surgery using a laparoscope.", "S": [], "A": []}

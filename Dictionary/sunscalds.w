@@ -1,0 +1,1 @@
+{"index": 311189, "D": "injury to the leaves, bark, or underlying tissues of woody plants due to the combined effects of heat, humidity, and intense sunshine.", "S": [], "A": []}

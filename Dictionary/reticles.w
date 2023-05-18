@@ -1,0 +1,1 @@
+{"index": 270434, "D": "a network of fine lines, wires, or the like placed in the focus of the eyepiece of an optical instrument.", "S": [], "A": []}

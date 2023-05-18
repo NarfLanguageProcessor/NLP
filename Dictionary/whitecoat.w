@@ -1,0 +1,1 @@
+{"index": 365124, "D": "a baby seal, usually less than four weeks old and still having its initial white  fur.", "S": [], "A": []}

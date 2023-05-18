@@ -1,0 +1,1 @@
+{"index": 36472, "D": "destruction of life, as in war or murder; slaughter.", "S": ["bloodbath ", "bloodletting ", "carnage ", "fighting ", "killing ", "massacre ", "murder "], "A": ["peace "]}

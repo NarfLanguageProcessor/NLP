@@ -1,0 +1,1 @@
+{"index": 336334, "D": "to polish (a surface) by friction.", "S": [], "A": []}

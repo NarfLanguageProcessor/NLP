@@ -1,0 +1,1 @@
+{"index": 362140, "D": "to become roused from sleep; awake; awaken; waken (often followed by up).", "S": [], "A": []}

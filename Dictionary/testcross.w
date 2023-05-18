@@ -1,0 +1,1 @@
+{"index": 319778, "D": "a genetic test  for heterozygosity in which an organism of dominant phenotype, but unknown genotype, is crossed  to an organism recessive for all markers in question.", "S": [], "A": []}

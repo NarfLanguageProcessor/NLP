@@ -1,0 +1,1 @@
+{"index": 273486, "D": "an inn, dance hall, tavern, nightclub, etc., located on a highway, usually beyond city limits.", "S": ["bank ", "club ", "clubhouse ", "dive ", "hall ", "honky-tonk ", "house ", "joint ", "rotunda ", "saloon ", "track "], "A": []}

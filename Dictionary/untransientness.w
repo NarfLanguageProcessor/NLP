@@ -1,0 +1,1 @@
+{"index": 353251, "D": "not lasting, enduring, or permanent; transitory.", "S": [], "A": []}

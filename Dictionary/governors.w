@@ -1,0 +1,1 @@
+{"index": 128401, "D": "the executive head of a state in the U.S.", "S": ["administrator ", "boss ", "chief ", "commander ", "comptroller ", "controller ", "director ", "executive ", "head ", "leader ", "manager ", "overseer ", "ruler ", "superintendent ", "supervisor "], "A": ["employee ", "follower ", "worker "]}

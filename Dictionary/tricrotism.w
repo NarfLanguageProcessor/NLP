@@ -1,0 +1,1 @@
+{"index": 329632, "D": "having three arterial beats for one heartbeat, as certain pulses.", "S": [], "A": []}

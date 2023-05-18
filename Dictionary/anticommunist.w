@@ -1,0 +1,1 @@
+{"index": 14992, "D": "a staunch anti-Communist", "S": [], "A": []}

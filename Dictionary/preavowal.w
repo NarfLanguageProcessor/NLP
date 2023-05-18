@@ -1,0 +1,1 @@
+{"index": 245798, "D": "an open statement of affirmation; frank acknowledgment or admission.", "S": [], "A": []}

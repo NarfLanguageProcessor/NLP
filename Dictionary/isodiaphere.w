@@ -1,0 +1,1 @@
+{"index": 158910, "D": "a nuclide that has emitted an alpha particle, and its decay product, are isodiapheres", "S": [], "A": []}

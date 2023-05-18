@@ -1,0 +1,1 @@
+{"index": 161612, "D": "to bring in contact, connect, or bring or put together", "S": ["adjacent ", "contiguous ", "neighboring "], "A": ["detached ", "divided ", "separate "]}

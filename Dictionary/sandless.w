@@ -1,0 +1,1 @@
+{"index": 277787, "D": "the more or less fine debris of rocks, consisting of small, loose grains, often of quartz.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253886, "D": "(especially of certain bacteria) requiring only inorganic substances for growth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45873, "D": "to impregnate with camphor. ", "S": [], "A": []}

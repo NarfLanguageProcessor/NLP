@@ -1,0 +1,1 @@
+{"index": 195132, "D": "(of a vessel) having more than one hull  joined by a single deck.", "S": [], "A": []}

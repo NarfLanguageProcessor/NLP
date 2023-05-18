@@ -1,0 +1,1 @@
+{"index": 99855, "D": "taking place within a rock mass.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262863, "D": "the act of receiving; reception.", "S": [], "A": []}

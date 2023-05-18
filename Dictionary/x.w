@@ -1,0 +1,1 @@
+{"index": 368205, "D": "to cross out or mark with or as if with an x (often followed by out)", "S": ["nameless ", "undisclosed ", "unidentified ", "unnamed ", "unsigned "], "A": ["known ", "named "]}

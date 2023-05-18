@@ -1,0 +1,1 @@
+{"index": 305941, "D": "of, containing, or resembling straw. ", "S": [], "A": []}

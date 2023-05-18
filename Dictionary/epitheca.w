@@ -1,0 +1,1 @@
+{"index": 102941, "D": "Compare hypotheca", "S": [], "A": []}

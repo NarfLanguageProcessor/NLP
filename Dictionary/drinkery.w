@@ -1,0 +1,1 @@
+{"index": 93126, "D": "barroom; tavern.", "S": ["bistro ", "inn ", "lounge ", "pub ", "saloon ", "tavern "], "A": ["advantage ", "aid ", "help "]}

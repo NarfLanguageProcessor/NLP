@@ -1,0 +1,1 @@
+{"index": 198455, "D": "a philosophical system, originated in the 3rd century a.d. by Plotinus, founded chiefly on Platonic doctrine and Eastern mysticism, with later influences from Christianity. It holds that all existence consists of emanations from the One with whom the soul may be reunited.", "S": [], "A": []}

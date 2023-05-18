@@ -1,0 +1,1 @@
+{"index": 43961, "D": "a heavy, strong rope.", "S": ["circuited ", "lined "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173517, "D": "any of several rod-shaped, aerobic, parasitic bacteria of the genus Listeria, pathogenic for humans and animals.", "S": [], "A": []}

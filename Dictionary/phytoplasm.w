@@ -1,0 +1,1 @@
+{"index": 234364, "D": "protoplasm of a plant or plants.", "S": [], "A": []}

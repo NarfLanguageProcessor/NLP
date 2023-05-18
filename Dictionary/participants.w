@@ -1,0 +1,1 @@
+{"index": 227014, "D": "a person or group that participates;  partaker.", "S": ["competition "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360679, "D": "provided with or having a vitta or vittae.", "S": [], "A": []}

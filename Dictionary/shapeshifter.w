@@ -1,0 +1,1 @@
+{"index": 287457, "D": "a fictional being that can transform itself from one physical form into another", "S": [], "A": []}

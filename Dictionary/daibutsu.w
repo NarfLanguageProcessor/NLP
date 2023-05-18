@@ -1,0 +1,1 @@
+{"index": 76276, "D": "a large representation of the Buddha.", "S": [], "A": []}

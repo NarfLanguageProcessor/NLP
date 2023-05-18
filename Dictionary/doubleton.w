@@ -1,0 +1,1 @@
+{"index": 91980, "D": "a set of only two cards of the same suit in a hand as dealt", "S": [], "A": []}

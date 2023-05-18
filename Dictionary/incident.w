@@ -1,0 +1,1 @@
+{"index": 149845, "D": "an individual occurrence or event.", "S": ["circumstance ", "episode ", "event ", "fact ", "matter ", "scene "], "A": []}

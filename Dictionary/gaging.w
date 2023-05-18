@@ -1,0 +1,1 @@
+{"index": 120968, "D": "something, as a glove, thrown down by a medieval knight in token of challenge to combat.", "S": [], "A": []}

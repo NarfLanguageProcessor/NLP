@@ -1,0 +1,1 @@
+{"index": 253481, "D": "of or relating to a flower in which the shedding of pollen occurs after the stigma has stopped being receptive; having female sex organs maturing before the male.", "S": [], "A": []}

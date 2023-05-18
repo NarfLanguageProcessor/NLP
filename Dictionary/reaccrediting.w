@@ -1,0 +1,1 @@
+{"index": 261463, "D": "to provide or send with credentials; designate officially", "S": [], "A": []}

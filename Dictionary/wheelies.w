@@ -1,0 +1,1 @@
+{"index": 364535, "D": "a small, usually folding, metal frame with wheels  for carrying luggage or small packages.", "S": [], "A": []}

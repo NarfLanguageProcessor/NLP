@@ -1,0 +1,1 @@
+{"index": 175024, "D": "Compare room-and-pillar. ", "S": [], "A": []}

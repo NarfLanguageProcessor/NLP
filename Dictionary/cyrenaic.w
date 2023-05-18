@@ -1,0 +1,1 @@
+{"index": 58306, "D": "of or relating to Cyrenaica, or its chief city, Cyrene.", "S": [], "A": []}

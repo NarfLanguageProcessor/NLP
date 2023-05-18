@@ -1,0 +1,1 @@
+{"index": 196921, "D": "a narcotic alkaloid, C23H27NO8, occurring in opium and acting as a mild relaxant on smooth muscle.", "S": [], "A": []}

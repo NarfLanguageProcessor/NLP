@@ -1,0 +1,1 @@
+{"index": 57364, "D": "minute hairlike organelles, identical in structure to flagella, that line the surfaces of certain cells and beat in rhythmic waves, providing locomotion to ciliate protozoans and moving liquids along internal epithelial tissue in animals.", "S": ["grain ", "thread ", "tissue "], "A": []}

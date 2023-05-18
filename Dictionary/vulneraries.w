@@ -1,0 +1,1 @@
+{"index": 361592, "D": "used to promote the healing of wounds, as herbs or other remedies.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25837, "D": "(of a dress) low-cut at the back", "S": [], "A": []}

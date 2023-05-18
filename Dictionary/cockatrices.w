@@ -1,0 +1,1 @@
+{"index": 61465, "D": "Compare basilisk (def. 1). ", "S": [], "A": []}

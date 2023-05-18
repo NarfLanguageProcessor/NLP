@@ -1,0 +1,1 @@
+{"index": 62822, "D": "any of a class of extracellular proteins abundant in higher animals, especially in the skin, bone, cartilage, tendon, and teeth, forming strong insoluble fibers and serving as connective tissue between cells, yielding gelatin when denatured by boiling.", "S": [], "A": []}

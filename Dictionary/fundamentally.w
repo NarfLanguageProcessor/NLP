@@ -1,0 +1,1 @@
+{"index": 120168, "D": "in a fundamental and essential way; centrally and foundationally", "S": ["essentially "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46631, "D": "insincere, especially conventional expressions of enthusiasm for high ideals, goodness, or piety.", "S": [], "A": []}

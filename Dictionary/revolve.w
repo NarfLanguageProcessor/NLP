@@ -1,0 +1,1 @@
+{"index": 271522, "D": "to move in a circular or curving course or orbit", "S": ["rotate ", "whirl "], "A": ["steady "]}

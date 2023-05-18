@@ -1,0 +1,1 @@
+{"index": 273937, "D": "a part or character played by an actor or actress.", "S": ["act ", "appearance ", "aspect ", "character ", "part ", "performance ", "portrayal "], "A": ["whole ", "disregard ", "ignorance ", "reality "]}

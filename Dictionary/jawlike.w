@@ -1,0 +1,1 @@
+{"index": 160662, "D": "resembling a jaw  or pair of jaws. ", "S": [], "A": []}

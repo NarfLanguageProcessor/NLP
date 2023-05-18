@@ -1,0 +1,1 @@
+{"index": 132482, "D": "of or relating to Haiti  or its people.", "S": [], "A": []}

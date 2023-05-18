@@ -1,0 +1,1 @@
+{"index": 184543, "D": "a mode of living in which one organism is dependent on another for preparation of an environment in which it can live.", "S": [], "A": []}

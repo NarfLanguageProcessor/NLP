@@ -1,0 +1,1 @@
+{"index": 87994, "D": "to dethrone.", "S": ["transport "], "A": ["accept ", "allow ", "employ ", "engage ", "hire ", "hold ", "keep ", "retain ", "stay ", "welcome "]}

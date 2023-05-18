@@ -1,0 +1,1 @@
+{"index": 325809, "D": "pain restricted to a particular spot", "S": [], "A": []}

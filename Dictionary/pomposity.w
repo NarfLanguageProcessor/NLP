@@ -1,0 +1,1 @@
+{"index": 242940, "D": "the quality of being pompous. ", "S": ["airs ", "arrogance ", "conceit ", "ostentation ", "overconfidence ", "presumption "], "A": ["humility ", "meekness ", "modesty "]}

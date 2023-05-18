@@ -1,0 +1,1 @@
+{"index": 104736, "D": "a true copy or extract of an original writing or record, as of a fine.", "S": [], "A": []}

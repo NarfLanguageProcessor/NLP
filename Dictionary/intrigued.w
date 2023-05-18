@@ -1,0 +1,1 @@
+{"index": 156730, "D": "curious about or fascinated by something unusual or mysterious", "S": ["absorbed ", "captivated ", "charmed ", "entertained ", "fascinated ", "interested "], "A": ["bored ", "disinterested ", "uninterested "]}

@@ -1,0 +1,1 @@
+{"index": 206267, "D": "the act of making a law or decree known, or formally putting it into effect, by public declaration", "S": [], "A": []}

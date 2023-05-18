@@ -1,0 +1,1 @@
+{"index": 137242, "D": "of, relating to, or characteristic of a hero or heroine.", "S": ["boldly ", "fearlessly ", "gallantly ", "gamely ", "valiantly "], "A": ["fearfully ", "timidly "]}

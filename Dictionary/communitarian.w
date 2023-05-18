@@ -1,0 +1,1 @@
+{"index": 64280, "D": "a member of a communistic community. ", "S": [], "A": []}

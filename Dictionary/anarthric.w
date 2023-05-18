@@ -1,0 +1,1 @@
+{"index": 11984, "D": "loss of articulate speech.", "S": [], "A": []}

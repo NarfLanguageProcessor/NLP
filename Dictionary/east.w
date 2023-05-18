@@ -1,0 +1,1 @@
+{"index": 94914, "D": "a cardinal point of the compass, 90\u00b0 to the right of north. Abbreviation", "S": ["oriental "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186807, "D": "being at or near the middle point of", "S": ["average ", "center ", "central ", "intermediary ", "intermediate ", "mean ", "midpoint ", "midway ", "par "], "A": ["extreme "]}

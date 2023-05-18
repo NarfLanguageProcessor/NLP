@@ -1,0 +1,1 @@
+{"index": 32246, "D": "a plate protecting an open area, as at the elbow or armpit.", "S": [], "A": []}

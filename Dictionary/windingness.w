@@ -1,0 +1,1 @@
+{"index": 365967, "D": "the act of a person or thing that winds.", "S": [], "A": []}

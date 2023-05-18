@@ -1,0 +1,1 @@
+{"index": 62105, "D": "the act or state of coexisting. ", "S": ["harmony ", "peace "], "A": ["disagreement ", "fighting ", "difference ", "refusal "]}

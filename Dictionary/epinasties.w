@@ -1,0 +1,1 @@
+{"index": 102614, "D": "(especially of leaves) increased growth on the upper surface of an organ or part, causing it to bend downward.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127673, "D": "pertaining to substances formed in the anterior pituitary gland that affect the activity of the ovary or testis.", "S": [], "A": []}

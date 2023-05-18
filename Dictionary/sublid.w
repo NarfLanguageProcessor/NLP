@@ -1,0 +1,1 @@
+{"index": 308397, "D": "a removable or hinged cover for closing the opening, usually at the top, of a pot, jar, trunk, etc.; a movable cover.", "S": [], "A": []}

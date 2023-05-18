@@ -1,0 +1,1 @@
+{"index": 370003, "D": "any toxin  of animal origin, as a snake or scorpion venom, or serum produced by means of such toxin. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225638, "D": "a disorder marked by the writing of words or letters other than those intended, or the loss of the ability to express ideas in writing, usually caused by a brain lesion.", "S": [], "A": []}

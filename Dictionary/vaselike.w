@@ -1,0 +1,1 @@
+{"index": 357382, "D": "a vessel, as of glass, porcelain, earthenware, or metal, usually higher than it is wide, used chiefly to hold cut flowers or for decoration.", "S": [], "A": []}

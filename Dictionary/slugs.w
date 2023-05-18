@@ -1,0 +1,1 @@
+{"index": 294541, "D": "any of various snaillike terrestrial gastropods having no shell or only a rudimentary one, feeding on plants and a pest of leafy garden crops.", "S": ["bang ", "bash ", "bat ", "belt ", "knock ", "punch ", "slam ", "slap ", "smack ", "swat ", "whack "], "A": ["praise ", "tap ", "lose ", "surrender "]}

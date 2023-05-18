@@ -1,0 +1,1 @@
+{"index": 330178, "D": "of or relating to a binocular  microscope equipped with a third lens system for photographic recording.", "S": [], "A": []}

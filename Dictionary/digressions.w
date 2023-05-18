@@ -1,0 +1,1 @@
+{"index": 85548, "D": "the act of digressing. ", "S": ["detour ", "footnote "], "A": ["accord ", "agreement ", "sameness ", "similarity "]}

@@ -1,0 +1,1 @@
+{"index": 167794, "D": "any of several beetles of the family Lampyridae, comprising the fireflies.", "S": ["candle fly ", "fire beetle ", "firefly ", "fireworm ", "glowworm ", "lantern fly ", "noctiluca "], "A": []}

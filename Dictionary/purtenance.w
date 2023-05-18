@@ -1,0 +1,1 @@
+{"index": 257142, "D": "the liver, heart, and lungs of an animal.", "S": [], "A": []}

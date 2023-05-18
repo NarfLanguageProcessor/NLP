@@ -1,0 +1,1 @@
+{"index": 306422, "D": "asexual reproduction by division into segments, as in tapeworms and jellyfishes", "S": [], "A": []}

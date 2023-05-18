@@ -1,0 +1,1 @@
+{"index": 169146, "D": "a white zeolite mineral, chiefly hydrated silicate of aluminum and calcium.", "S": [], "A": []}

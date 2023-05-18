@@ -1,0 +1,1 @@
+{"index": 71683, "D": "the joint of the hip.", "S": [], "A": []}

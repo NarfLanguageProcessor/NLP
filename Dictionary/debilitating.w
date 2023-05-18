@@ -1,0 +1,1 @@
+{"index": 77772, "D": "tending to weaken or enfeeble", "S": ["exhausting ", "taxing "], "A": []}

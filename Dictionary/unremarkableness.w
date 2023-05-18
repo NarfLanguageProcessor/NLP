@@ -1,0 +1,1 @@
+{"index": 349465, "D": [], "S": ["normality ", "ordinariness ", "uniformity "], "A": []}

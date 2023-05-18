@@ -1,0 +1,1 @@
+{"index": 149857, "D": "to burn or reduce to ashes; cremate.", "S": ["burned up ", "reduced to ashes "], "A": []}

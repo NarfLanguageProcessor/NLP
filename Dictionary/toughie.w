@@ -1,0 +1,1 @@
+{"index": 326606, "D": "a tough  person, especially one who is belligerent", "S": ["bruiser ", "brute ", "bully ", "criminal ", "gangster ", "goon ", "hood ", "hoodlum ", "hooligan ", "mug ", "punk ", "rough ", "roughneck ", "rowdy ", "ruffian ", "thug ", "villain "], "A": []}

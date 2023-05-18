@@ -1,0 +1,1 @@
+{"index": 68262, "D": "U.S. author and pioneer in the field of sociology.", "S": [], "A": []}

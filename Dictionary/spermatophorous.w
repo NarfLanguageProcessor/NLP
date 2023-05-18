@@ -1,0 +1,1 @@
+{"index": 299243, "D": "a capsule surrounding a mass of spermatozoa, produced by the male of various animal species and transferred to the female.", "S": [], "A": []}

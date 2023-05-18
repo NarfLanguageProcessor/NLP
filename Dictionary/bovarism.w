@@ -1,0 +1,1 @@
+{"index": 39102, "D": "an exaggerated, especially glamorized, estimate of oneself; conceit. ", "S": [], "A": []}

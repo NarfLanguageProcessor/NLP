@@ -1,0 +1,1 @@
+{"index": 5935, "D": "steel or iron household ware  enameled in an agatelike pattern.", "S": [], "A": []}

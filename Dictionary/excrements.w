@@ -1,0 +1,1 @@
+{"index": 106826, "D": "waste matter discharged from the body, especially feces.", "S": ["droppings ", "dung ", "feces ", "manure ", "urine "], "A": []}

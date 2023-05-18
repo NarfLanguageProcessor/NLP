@@ -1,0 +1,1 @@
+{"index": 64812, "D": "an act or instance of drinking or tippling together.", "S": ["orgy "], "A": []}

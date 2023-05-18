@@ -1,0 +1,1 @@
+{"index": 274981, "D": "to wander about without definite destination; move hither and thither at random, especially over a wide area.", "S": ["drift ", "gad ", "gallivant ", "meander ", "move ", "prowl ", "ramble ", "range ", "roam ", "straggle ", "stray ", "stroll "], "A": ["remain ", "run ", "rush ", "stay "]}

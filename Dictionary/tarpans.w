@@ -1,0 +1,1 @@
+{"index": 316666, "D": "a small, dun-colored wild horse chiefly of southern Russia, having a flowing mane and tail", "S": [], "A": []}

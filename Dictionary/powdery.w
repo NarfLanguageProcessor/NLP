@@ -1,0 +1,1 @@
+{"index": 244987, "D": "consisting of or resembling powder", "S": ["chalky ", "crumbly ", "dusty ", "grainy ", "gravelly "], "A": ["solid "]}

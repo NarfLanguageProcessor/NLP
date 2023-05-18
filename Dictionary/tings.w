@@ -1,0 +1,1 @@
+{"index": 324001, "D": "to make or cause to make a high, clear, ringing sound.", "S": ["clink ", "knock ", "sound "], "A": []}

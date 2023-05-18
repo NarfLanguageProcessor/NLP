@@ -1,0 +1,1 @@
+{"index": 360462, "D": "possessing or forming a vista  or vistas. ", "S": [], "A": []}

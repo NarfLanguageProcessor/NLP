@@ -1,0 +1,1 @@
+{"index": 172684, "D": "to put to death, especially by hanging, by mob action and without legal authority", "S": ["execution "], "A": []}

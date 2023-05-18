@@ -1,0 +1,1 @@
+{"index": 70163, "D": "a family of eight languages, now extinct, spoken by American Indian peoples of Penutian descent residing in coastal California.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176269, "D": "having lunular  markings.", "S": [], "A": []}

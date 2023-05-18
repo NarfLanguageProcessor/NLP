@@ -1,0 +1,1 @@
+{"index": 23045, "D": "a device for decreasing the amplitude of an electronic signal.", "S": [], "A": []}

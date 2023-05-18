@@ -1,0 +1,1 @@
+{"index": 173928, "D": "suitable for living in; habitable; comfortable", "S": ["bearable ", "cozy ", "habitable ", "homey ", "sustainable ", "tolerable ", "worthwhile "], "A": ["intolerable ", "unacceptable ", "unbearable "]}

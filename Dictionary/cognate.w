@@ -1,0 +1,1 @@
+{"index": 62252, "D": "related by birth; of the same parentage, descent, etc.", "S": ["agnate ", "general ", "generic ", "incident ", "kindred ", "like ", "same ", "universal "], "A": ["different ", "individual ", "particular ", "specific ", "unlike "]}

@@ -1,0 +1,1 @@
+{"index": 163118, "D": "a very common mineral, hydrated aluminum disilicate, Al2Si2O5(OH)4, formed by the alteration of other minerals, especially feldspar", "S": [], "A": []}

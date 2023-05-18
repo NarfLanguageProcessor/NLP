@@ -1,0 +1,1 @@
+{"index": 309551, "D": "subtropical (def. 2). ", "S": [], "A": []}

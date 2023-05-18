@@ -1,0 +1,1 @@
+{"index": 126963, "D": "a white, crystalline, water-insoluble powder, C13H15NO2, used as a hypnotic and sedative.", "S": [], "A": []}

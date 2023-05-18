@@ -1,0 +1,1 @@
+{"index": 257350, "D": "a person who putties, as a glazier.", "S": ["docile ", "flexible ", "limber ", "malleable ", "manageable ", "pliant ", "spongy ", "supple "], "A": ["hard ", "inflexible ", "obstinate ", "rigid ", "stiff ", "stubborn ", "unyielding "]}

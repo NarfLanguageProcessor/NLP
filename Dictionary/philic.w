@@ -1,0 +1,1 @@
+{"index": 233627, "D": "a combining form occurring in adjectives that correspond to nouns ending in -phile", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 174638, "D": "a man, a personification of fire, who defeated Loki in an eating contest.", "S": [], "A": []}

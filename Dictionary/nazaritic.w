@@ -1,0 +1,1 @@
+{"index": 197553, "D": "(among the ancient Hebrews) a person who had taken certain strict religious vows, usually for a limited period.", "S": [], "A": []}

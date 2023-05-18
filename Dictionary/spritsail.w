@@ -1,0 +1,1 @@
+{"index": 301369, "D": "a sail extended by a sprit.", "S": [], "A": []}

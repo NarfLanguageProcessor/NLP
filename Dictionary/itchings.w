@@ -1,0 +1,1 @@
+{"index": 159489, "D": "of, relating to, or characterized by an irritating sensation of the skin.", "S": ["heebie-jeebies ", "itching ", "restlessness ", "the fidgets "], "A": []}

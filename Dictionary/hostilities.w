@@ -1,0 +1,1 @@
+{"index": 144225, "D": "a hostile state, condition, or attitude; enmity; antagonism; unfriendliness.", "S": ["battle ", "bloodshed ", "combat ", "conflict ", "fighting ", "hostility ", "strife ", "strike ", "struggle ", "warfare "], "A": ["accord ", "harmony ", "peace ", "surrender ", "truce ", "friendship ", "good will ", "kindness "]}

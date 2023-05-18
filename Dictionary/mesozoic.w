@@ -1,0 +1,1 @@
+{"index": 184447, "D": "noting or pertaining to an era occurring between 230 and 65 million years ago, characterized by the appearance of flowering plants and by the appearance and extinction of dinosaurs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353234, "D": "transcendent, surpassing, or superior.", "S": [], "A": []}

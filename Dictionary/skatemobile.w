@@ -1,0 +1,1 @@
+{"index": 292840, "D": "a scooterlike vehicle built of boxes, boards, or the like, and mounted on skate  wheels.", "S": [], "A": []}

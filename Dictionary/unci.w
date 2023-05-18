@@ -1,0 +1,1 @@
+{"index": 336874, "D": "any hook-shaped or curved part of a body process, especially the hippocampal gyrus in the temporal lobe of the brain.", "S": [], "A": []}

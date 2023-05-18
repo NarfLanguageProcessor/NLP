@@ -1,0 +1,1 @@
+{"index": 80349, "D": "to ask for with proper authority; claim as a right", "S": ["appeal ", "application ", "call ", "claim ", "insistence ", "interest ", "need ", "order ", "requirement ", "sale ", "trade ", "use "], "A": ["answer ", "reply ", "retreat "]}

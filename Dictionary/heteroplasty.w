@@ -1,0 +1,1 @@
+{"index": 137721, "D": "the repair of lesions with tissue from another individual or species.", "S": [], "A": []}

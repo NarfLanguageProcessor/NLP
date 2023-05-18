@@ -1,0 +1,1 @@
+{"index": 351672, "D": "the fact or condition of being thinly scattered or distributed and not thick or dense", "S": [], "A": []}

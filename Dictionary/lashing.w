@@ -1,0 +1,1 @@
+{"index": 168724, "D": "the act of a person or thing that lashes. ", "S": ["beating ", "floundering ", "hitting "], "A": []}

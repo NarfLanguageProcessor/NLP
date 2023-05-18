@@ -1,0 +1,1 @@
+{"index": 112322, "D": "an expanse of open or cleared ground, especially a piece of land suitable or used for pasture or tillage.", "S": ["farmland ", "garden ", "grassland ", "green ", "ground ", "meadow ", "pasture ", "range ", "terrain ", "territory "], "A": ["sky "]}

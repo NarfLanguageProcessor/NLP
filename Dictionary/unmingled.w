@@ -1,0 +1,1 @@
+{"index": 346371, "D": "to become mixed, blended, or united", "S": ["fixed ", "full-bodied ", "potent ", "rich ", "robust "], "A": ["weak ", "incomplete ", "unfinished "]}

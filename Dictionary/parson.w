@@ -1,0 +1,1 @@
+{"index": 226902, "D": "a member of the clergy, especially a Protestant minister; pastor; rector.", "S": ["chaplain ", "ecclesiastic ", "minister ", "padre ", "pastor ", "preacher ", "priest ", "rector ", "reverend ", "vicar "], "A": []}

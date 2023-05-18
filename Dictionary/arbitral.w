@@ -1,0 +1,1 @@
+{"index": 18518, "D": "pertaining to an arbiter or to arbitration. ", "S": [], "A": []}

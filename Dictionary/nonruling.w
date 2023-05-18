@@ -1,0 +1,1 @@
+{"index": 206938, "D": "an authoritative decision, as one by a judge on a debated point of law.", "S": [], "A": []}

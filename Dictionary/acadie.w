@@ -1,0 +1,1 @@
+{"index": 1250, "D": "a former French colony in SE Canada", "S": [], "A": []}

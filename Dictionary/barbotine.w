@@ -1,0 +1,1 @@
+{"index": 27819, "D": "a thin clay paste for making ceramic decorations in low relief.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351427, "D": "to make or become smooth. ", "S": [], "A": []}

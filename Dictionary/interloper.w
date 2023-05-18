@@ -1,0 +1,1 @@
+{"index": 155253, "D": "a person who interferes or meddles in the affairs of others", "S": ["intruder ", "trespasser "], "A": []}

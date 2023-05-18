@@ -1,0 +1,1 @@
+{"index": 351052, "D": "a past participle of show. ", "S": [], "A": []}

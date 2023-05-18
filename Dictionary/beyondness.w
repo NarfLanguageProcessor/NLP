@@ -1,0 +1,1 @@
+{"index": 30886, "D": "on, at, or to the farther side of", "S": [], "A": []}

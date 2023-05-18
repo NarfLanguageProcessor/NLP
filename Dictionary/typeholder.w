@@ -1,0 +1,1 @@
+{"index": 324180, "D": "a small device for holding a few lines of type,  used in stamping titles on book covers, or the like.", "S": [], "A": []}

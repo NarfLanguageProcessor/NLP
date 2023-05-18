@@ -1,0 +1,1 @@
+{"index": 92389, "D": "a person who collects the opinions and conjectures of ancient Greek philosophers", "S": [], "A": []}

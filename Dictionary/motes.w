@@ -1,0 +1,1 @@
+{"index": 193922, "D": "a small particle or speck, especially of dust.", "S": ["atom ", "bit ", "crumb ", "dot ", "fleck ", "fragment ", "grain ", "iota ", "particle ", "smidgen ", "speckle ", "trace "], "A": ["lot ", "whole "]}

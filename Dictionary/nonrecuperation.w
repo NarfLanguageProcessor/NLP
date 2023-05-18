@@ -1,0 +1,1 @@
+{"index": 206563, "D": "the process or fact of regaining health or strength; recovery from illness or exhaustion", "S": [], "A": []}

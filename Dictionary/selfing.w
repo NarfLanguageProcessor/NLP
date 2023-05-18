@@ -1,0 +1,1 @@
+{"index": 283537, "D": "a person or thing referred to with respect to complete individuality", "S": [], "A": []}

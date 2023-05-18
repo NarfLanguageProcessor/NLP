@@ -1,0 +1,1 @@
+{"index": 179453, "D": "a hexose, C6H12O6, obtained from the hydrolysis of the ivory nut and yielding mannitol upon reduction.", "S": [], "A": []}

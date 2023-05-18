@@ -1,0 +1,1 @@
+{"index": 346298, "D": "performed, disposed, or acting in a systematic way; systematic; orderly", "S": ["aimless ", "chaotic ", "erratic ", "haphazard "], "A": ["organized ", "systematic "]}

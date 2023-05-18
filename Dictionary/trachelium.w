@@ -1,0 +1,1 @@
+{"index": 327067, "D": "(in classical architecture) any member between the hypotrachelium and the capital of a column.", "S": [], "A": []}

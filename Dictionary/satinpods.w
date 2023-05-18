@@ -1,0 +1,1 @@
+{"index": 278734, "D": "either of two European plants belonging to the genus Lunaria, of the mustard family, L. annua or L. rediviva, cultivated for their shiny flowers and large, round, flat, satiny pods. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362602, "D": "a person who stores goods for others for pay.", "S": [], "A": []}

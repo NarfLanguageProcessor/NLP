@@ -1,0 +1,1 @@
+{"index": 138570, "D": "a crystalline, water-insoluble powder, C7H8ClN3O4S2, used as a diuretic and in the treatment of hypertension.", "S": [], "A": []}

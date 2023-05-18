@@ -1,0 +1,1 @@
+{"index": 325295, "D": "a booth, as at a bridge or the entrance to a toll road, where a toll is collected.", "S": [], "A": []}

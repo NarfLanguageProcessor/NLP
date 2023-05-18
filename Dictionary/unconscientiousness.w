@@ -1,0 +1,1 @@
+{"index": 337671, "D": "governed by conscience;  controlled by or done according to one's inner sense of what is right; principled", "S": [], "A": []}

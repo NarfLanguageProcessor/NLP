@@ -1,0 +1,1 @@
+{"index": 46131, "D": "reading the same backwards as forwards", "S": [], "A": []}

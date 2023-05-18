@@ -1,0 +1,1 @@
+{"index": 63416, "D": "having intense colour or richly varied colours", "S": [], "A": []}

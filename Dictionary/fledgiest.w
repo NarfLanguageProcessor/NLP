@@ -1,0 +1,1 @@
+{"index": 114346, "D": "feathered or feathery.", "S": [], "A": []}

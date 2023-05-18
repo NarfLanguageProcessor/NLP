@@ -1,0 +1,1 @@
+{"index": 279736, "D": "a person who creates or spreads alarming news.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144443, "D": "light cordage used for seizing.", "S": [], "A": []}

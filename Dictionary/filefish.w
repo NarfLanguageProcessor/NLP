@@ -1,0 +1,1 @@
+{"index": 112574, "D": "any of several flattened marine fishes  of the family Monacanthidae, having an elongated head with a small mouth and small, spiny scales.", "S": [], "A": []}

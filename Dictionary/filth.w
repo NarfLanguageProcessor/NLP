@@ -1,0 +1,1 @@
+{"index": 112788, "D": "offensive or disgusting dirt or refuse; foul matter", "S": ["grime ", "slime ", "smut "], "A": ["assets ", "possessions ", "purification "]}

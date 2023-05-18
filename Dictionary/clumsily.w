@@ -1,0 +1,1 @@
+{"index": 60702, "D": "awkward in movement or action; without skill or grace", "S": ["awkwardly "], "A": []}

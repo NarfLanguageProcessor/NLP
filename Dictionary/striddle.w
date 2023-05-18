@@ -1,0 +1,1 @@
+{"index": 306227, "D": [], "S": ["ambush ", "chase ", "haunt ", "hunt ", "pursue ", "stride "], "A": ["ignore ", "retreat ", "run away "]}

@@ -1,0 +1,1 @@
+{"index": 326060, "D": "a floor lamp for indirect lighting, having its source of light within a reflecting bowl that directs the light upward.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73811, "D": "lines of gunfire from two or more positions or combatants crossing one another, or a single one of such lines.", "S": ["blast ", "bombardment ", "fusillade ", "gunfire ", "hail ", "salvo ", "shelling ", "shower ", "storm ", "volley "], "A": []}

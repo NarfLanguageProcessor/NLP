@@ -1,0 +1,1 @@
+{"index": 143675, "D": "the feeling that what is wanted can be had or that events will turn out for the best", "S": ["anticipate ", "assume ", "believe ", "cherish ", "count on ", "expect ", "hold ", "wish "], "A": ["abandon ", "disbelieve ", "distrust ", "doubt ", "forsake ", "know "]}

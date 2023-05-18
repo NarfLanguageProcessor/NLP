@@ -1,0 +1,1 @@
+{"index": 228885, "D": "of or related to the Pediculati, a group of teleost fishes, characterized by the elongated base of their pectoral fins, simulating an arm or peduncle.", "S": [], "A": []}

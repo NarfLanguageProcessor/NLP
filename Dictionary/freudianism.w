@@ -1,0 +1,1 @@
+{"index": 118871, "D": "of or relating to Sigmund Freud  or his doctrines, especially with respect to the causes and treatment of neurotic and psychopathic states, the interpretation of dreams, etc.", "S": [], "A": []}

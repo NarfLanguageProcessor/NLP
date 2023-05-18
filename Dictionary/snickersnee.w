@@ -1,0 +1,1 @@
+{"index": 295491, "D": "a knife, especially one used as a weapon.", "S": [], "A": []}

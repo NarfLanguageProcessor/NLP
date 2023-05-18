@@ -1,0 +1,1 @@
+{"index": 69941, "D": "(in a right triangle) the ratio of the hypotenuse to the side opposite a given angle.", "S": [], "A": []}

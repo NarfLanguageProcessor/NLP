@@ -1,0 +1,1 @@
+{"index": 177488, "D": "a mineral, magnesium carbonate, MgCO3, having a characteristic conchoidal fracture and usually occurring in white masses.", "S": [], "A": []}

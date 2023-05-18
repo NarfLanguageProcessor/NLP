@@ -1,0 +1,1 @@
+{"index": 353798, "D": "the pit had proved economically unviable", "S": [], "A": []}

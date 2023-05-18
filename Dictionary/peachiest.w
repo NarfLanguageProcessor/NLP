@@ -1,0 +1,1 @@
+{"index": 228365, "D": "resembling a peach,  as in color or appearance.", "S": ["dandy ", "divine ", "excellent ", "fine ", "marvelous ", "nice ", "splendid "], "A": []}

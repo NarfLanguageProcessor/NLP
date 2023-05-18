@@ -1,0 +1,1 @@
+{"index": 203812, "D": "wise or skillful in a particular field through experience", "S": [], "A": []}

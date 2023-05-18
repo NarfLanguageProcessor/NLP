@@ -1,0 +1,1 @@
+{"index": 211649, "D": "objectionably aggressive in offering one's unrequested and unwanted services, help, or advice; meddlesome", "S": ["concern ", "inquisitiveness ", "interest "], "A": ["incuriosity ", "incuriousness ", "apathy ", "disinterest ", "disregard "]}

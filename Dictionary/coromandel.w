@@ -1,0 +1,1 @@
+{"index": 69426, "D": "the hard, brownish wood of a tropical Asian tree, Diospyros melanoxylon.", "S": [], "A": []}

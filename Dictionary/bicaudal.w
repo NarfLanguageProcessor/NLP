@@ -1,0 +1,1 @@
+{"index": 33371, "D": "having two tails or taillike appendages.", "S": [], "A": []}

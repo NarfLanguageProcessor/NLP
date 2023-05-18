@@ -1,0 +1,1 @@
+{"index": 52135, "D": "an English dry measure formerly used for coal, coke, lime, and the like, varying locally from 32 to 36 bushels or more.", "S": [], "A": []}

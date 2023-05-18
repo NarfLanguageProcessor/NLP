@@ -1,0 +1,1 @@
+{"index": 93086, "D": "wood  floating on a body of water or cast ashore by it.", "S": ["chunk ", "piece ", "timber ", "wood "], "A": []}

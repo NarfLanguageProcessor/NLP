@@ -1,0 +1,1 @@
+{"index": 110897, "D": [], "S": ["affections ", "center ", "circle ", "conscience ", "emotions ", "inside ", "interior ", "sentiments ", "soul ", "spirit ", "sympathies "], "A": ["exterior ", "exteriority ", "outside "]}

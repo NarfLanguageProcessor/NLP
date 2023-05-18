@@ -1,0 +1,1 @@
+{"index": 364842, "D": "whimsical  quality or character.", "S": ["buffoonery ", "facetiousness ", "foolishness ", "jest ", "pleasantry ", "raillery ", "waggery ", "whimsy "], "A": ["seriousness "]}

@@ -1,0 +1,1 @@
+{"index": 274603, "D": "an instrument for measuring the rate of flow of a liquid, consisting of a tapered vertical tube in which a small float is forced upward until its weight balances the fluid force.", "S": [], "A": []}

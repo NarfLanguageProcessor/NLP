@@ -1,0 +1,1 @@
+{"index": 330647, "D": "an appointment to meet at a certain time and place, especially one made somewhat secretly by lovers.", "S": ["embrace ", "feel ", "kiss "], "A": ["ignore ", "let go ", "push away ", "release "]}

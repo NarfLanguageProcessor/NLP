@@ -1,0 +1,1 @@
+{"index": 135365, "D": "to increase the height  of; make higher. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 231768, "D": "vertical; straight up and down; upright.", "S": ["erectness ", "honesty ", "honor ", "integrity ", "verticality ", "virtue "], "A": ["disgrace ", "dishonesty ", "dishonor "]}

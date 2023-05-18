@@ -1,0 +1,1 @@
+{"index": 298473, "D": "resembling or pertaining to the porgy family, Sparidae.", "S": [], "A": []}

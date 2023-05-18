@@ -1,0 +1,1 @@
+{"index": 146460, "D": "a delightful, tranquil rural scene or episode, reminiscent of or suitable for pastoral art or literature", "S": [], "A": []}

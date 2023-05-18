@@ -1,0 +1,1 @@
+{"index": 221301, "D": "to spread or diffuse over", "S": ["breach ", "infect ", "infest ", "loot ", "occupy ", "overrun ", "penetrate ", "pillage ", "plunder ", "raid ", "ravage ", "storm ", "violate "], "A": ["aid ", "assist ", "give ", "help ", "protect ", "receive ", "surrender "]}

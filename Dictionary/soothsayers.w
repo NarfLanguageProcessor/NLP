@@ -1,0 +1,1 @@
+{"index": 297381, "D": "a person who professes to foretell events.", "S": ["augur ", "clairvoyant ", "diviner ", "forecaster ", "medium ", "oracle ", "prophet ", "psychic "], "A": []}

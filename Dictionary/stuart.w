@@ -1,0 +1,1 @@
+{"index": 306713, "D": "a member of the royal family that ruled in Scotland from 1371 to 1714 and in England from 1603 to 1714.", "S": [], "A": []}

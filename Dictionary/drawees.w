@@ -1,0 +1,1 @@
+{"index": 92778, "D": "a person on whom an order, draft, or bill of exchange is drawn. ", "S": [], "A": []}

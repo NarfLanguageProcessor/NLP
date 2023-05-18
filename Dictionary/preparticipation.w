@@ -1,0 +1,1 @@
+{"index": 248770, "D": "an act or instance of participating. ", "S": [], "A": []}

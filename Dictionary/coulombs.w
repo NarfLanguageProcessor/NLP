@@ -1,0 +1,1 @@
+{"index": 70533, "D": "the standard unit of quantity of electricity in the International System of Units  (SI), equal to the quantity of charge transferred in one second across a conductor in which there is a constant current of one ampere. Abbreviation", "S": [], "A": []}

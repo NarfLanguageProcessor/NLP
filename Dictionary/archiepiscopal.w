@@ -1,0 +1,1 @@
+{"index": 18939, "D": "of or relating to an archbishop  or to the office of an archbishop. ", "S": [], "A": []}

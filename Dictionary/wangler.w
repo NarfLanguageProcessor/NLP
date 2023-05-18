@@ -1,0 +1,1 @@
+{"index": 362403, "D": "to bring about, accomplish, or obtain by scheming or underhand methods", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186142, "D": "any form,  either film or paper, containing microreproductions.", "S": [], "A": []}

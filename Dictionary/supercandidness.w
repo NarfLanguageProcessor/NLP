@@ -1,0 +1,1 @@
+{"index": 311465, "D": "the quality of being open, honest, or straightforward", "S": [], "A": []}

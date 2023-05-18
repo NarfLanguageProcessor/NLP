@@ -1,0 +1,1 @@
+{"index": 13942, "D": "direct or immediate intuition or perception of sense data with little or no rational interpretation.", "S": ["angle ", "attitude ", "opinion ", "orientation ", "outlook ", "perspective ", "position ", "standpoint "], "A": []}

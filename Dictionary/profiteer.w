@@ -1,0 +1,1 @@
+{"index": 251768, "D": "a person who seeks or exacts exorbitant profits,  especially through the sale of scarce or rationed goods.", "S": ["arriviste ", "new money ", "new rich ", "newly-rich ", "nouveau arrive ", "nouveau roturier ", "parvenu ", "self-made man ", "social climber ", "upstart ", "vulgarian ", "yuppie "], "A": []}

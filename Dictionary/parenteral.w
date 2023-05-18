@@ -1,0 +1,1 @@
+{"index": 226383, "D": "taken into the body in a manner other than through the digestive canal.", "S": [], "A": []}

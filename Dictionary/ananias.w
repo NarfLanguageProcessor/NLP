@@ -1,0 +1,1 @@
+{"index": 11859, "D": "a man who was struck dead for lying. Acts. 5", "S": [], "A": []}

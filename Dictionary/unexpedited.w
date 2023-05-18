@@ -1,0 +1,1 @@
+{"index": 341769, "D": "done, sent, or made to happen quickly or promptly, especially more quickly than usual; hastened", "S": [], "A": []}

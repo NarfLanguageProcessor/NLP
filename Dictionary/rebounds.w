@@ -1,0 +1,1 @@
+{"index": 262398, "D": "to bound or spring back from force of impact.", "S": ["overcome ", "pick up ", "revive "], "A": ["destroy ", "deteriorate ", "hurt ", "ruin ", "weaken "]}

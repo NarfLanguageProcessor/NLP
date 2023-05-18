@@ -1,0 +1,1 @@
+{"index": 122862, "D": "extremely thin and bony; haggard and drawn, as from great hunger, weariness, or torture; emaciated. ", "S": [], "A": []}

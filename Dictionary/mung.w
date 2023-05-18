@@ -1,0 +1,1 @@
+{"index": 195555, "D": "something disgusting or offensive, especially filth or muck.", "S": ["grime ", "slime ", "smut "], "A": ["assets ", "possessions ", "purification "]}

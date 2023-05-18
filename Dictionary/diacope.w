@@ -1,0 +1,1 @@
+{"index": 84060, "D": "a literary or rhetorical device that emphasizes an aspect of the writer\u2019s or speaker\u2019s main idea through the repetition of words or phrases, which are separated by other words or phrases, as in \u201cYou\u2019re a good dog, Gracie. Such a good dog. What a good dog.\u201d", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 130005, "D": "afflicted with the grippe. ", "S": [], "A": []}

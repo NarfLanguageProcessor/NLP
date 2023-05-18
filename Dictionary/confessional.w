@@ -1,0 +1,1 @@
+{"index": 65857, "D": "of, pertaining to, characteristic of, or based on confession", "S": ["confession chair ", "shriving pew "], "A": []}

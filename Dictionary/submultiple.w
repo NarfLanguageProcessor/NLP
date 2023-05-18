@@ -1,0 +1,1 @@
+{"index": 308596, "D": "a number that is contained by another number an integral number of times without a remainder", "S": [], "A": []}

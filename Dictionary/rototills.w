@@ -1,0 +1,1 @@
+{"index": 274680, "D": "to break up (soil) with a rototiller.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208507, "D": "an eastern North American storm that usually develops between the Georgia and New Jersey latitudes, progressing northeastward and typified by potentially violent northeast winds", "S": [], "A": []}

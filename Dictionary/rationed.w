@@ -1,0 +1,1 @@
+{"index": 261089, "D": "a fixed allowance of provisions or food, especially for soldiers or sailors or for civilians during a shortage", "S": ["appropriated ", "assigned ", "dispersed ", "scattered ", "shared "], "A": []}

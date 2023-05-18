@@ -1,0 +1,1 @@
+{"index": 263584, "D": "to refresh by means of relaxation and enjoyment, as restore physically or mentally.", "S": ["exhilarate ", "recreate ", "refurbish ", "reinvigorate "], "A": ["break ", "damage ", "destroy ", "finish ", "halt ", "hurt ", "kill ", "leave alone ", "maintain ", "ruin ", "shorten ", "stop "]}

@@ -1,0 +1,1 @@
+{"index": 119004, "D": "such as to cause fright;  dreadful, terrible, or alarming", "S": ["awful ", "calamitous ", "dreadful ", "ghastly ", "hideous ", "horrible ", "lewd ", "shocking ", "terrible ", "terrific ", "unpleasant "], "A": ["beautiful ", "comforting ", "delightful ", "good ", "pleasant ", "pleasing ", "wonderful "]}

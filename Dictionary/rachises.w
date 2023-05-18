@@ -1,0 +1,1 @@
+{"index": 259399, "D": "any of various axial structures.", "S": ["backbone ", "myel ", "rhachis ", "spine ", "vertebrae "], "A": []}

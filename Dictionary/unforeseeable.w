@@ -1,0 +1,1 @@
+{"index": 342524, "D": "not able to be foreseen or known beforehand", "S": ["capricious ", "chance ", "chancy ", "changeable ", "fluky ", "from left field ", "incalculable ", "random ", "uncertain ", "unexpected ", "unknowable "], "A": []}

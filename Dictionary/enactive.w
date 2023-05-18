@@ -1,0 +1,1 @@
+{"index": 98998, "D": "having power to enact  or establish, as a law.", "S": [], "A": []}

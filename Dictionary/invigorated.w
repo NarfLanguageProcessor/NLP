@@ -1,0 +1,1 @@
+{"index": 157223, "D": "to give vigor to; fill with life and energy; energize. ", "S": ["bouncy ", "breezy ", "bright ", "cheerful ", "expansive ", "jaunty ", "jovial ", "joyful ", "lighthearted ", "lively ", "peppy ", "resilient ", "sunny "], "A": ["apathetic ", "cloudy ", "depressed ", "gloomy ", "inactive ", "lethargic ", "lifeless ", "quiet ", "sad ", "unhappy ", "upset "]}

@@ -1,0 +1,1 @@
+{"index": 33575, "D": "of or relating to Byelorussia,  its people, or their language.", "S": [], "A": []}

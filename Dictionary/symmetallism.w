@@ -1,0 +1,1 @@
+{"index": 290867, "D": "the use of an alloy of two or more metals in fixed relative value as the standard of value and currency", "S": [], "A": []}

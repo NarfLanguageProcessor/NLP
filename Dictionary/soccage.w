@@ -1,0 +1,1 @@
+{"index": 296084, "D": "a tenure of land held by the tenant in performance of specified services or by payment of rent, and not requiring military service.", "S": [], "A": []}

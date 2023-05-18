@@ -1,0 +1,1 @@
+{"index": 248961, "D": "a clause in a legal instrument, a law, etc., providing for a particular matter; stipulation; proviso.", "S": [], "A": []}

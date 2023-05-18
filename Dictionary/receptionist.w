@@ -1,0 +1,1 @@
+{"index": 262736, "D": "a person employed to receive and assist callers, clients, etc., as in an office.", "S": ["agent ", "auditor ", "bookkeeper ", "cashier ", "employee ", "operator ", "salesperson ", "secretary ", "teller ", "worker "], "A": []}

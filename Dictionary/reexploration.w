@@ -1,0 +1,1 @@
+{"index": 264888, "D": "an act or instance of exploring  or investigating; examination.", "S": [], "A": []}

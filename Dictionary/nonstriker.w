@@ -1,0 +1,1 @@
+{"index": 207552, "D": "a person or thing that strikes. ", "S": [], "A": []}

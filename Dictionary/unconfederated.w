@@ -1,0 +1,1 @@
+{"index": 337561, "D": "united in a league, alliance, or conspiracy.", "S": [], "A": []}

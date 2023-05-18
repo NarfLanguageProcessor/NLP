@@ -1,0 +1,1 @@
+{"index": 255522, "D": "relating to, characterized by, or exhibiting psychosis", "S": ["maniac ", "psychopath ", "psychotic ", "schizophrenic "], "A": []}

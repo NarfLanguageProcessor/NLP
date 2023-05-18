@@ -1,0 +1,1 @@
+{"index": 145095, "D": "a variant of Homs", "S": ["croon ", "moan ", "mumble ", "murmur ", "purr ", "sing ", "strum ", "throb ", "trill ", "warble ", "whisper "], "A": []}

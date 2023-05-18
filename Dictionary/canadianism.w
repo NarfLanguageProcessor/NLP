@@ -1,0 +1,1 @@
+{"index": 45979, "D": "allegiance to or pride in Canada and its institutions.", "S": [], "A": []}

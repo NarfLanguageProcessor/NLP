@@ -1,0 +1,1 @@
+{"index": 221672, "D": "an act or manner of treating. ", "S": [], "A": []}

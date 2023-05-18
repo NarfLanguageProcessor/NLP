@@ -1,0 +1,1 @@
+{"index": 337530, "D": "reduced in volume, area, length, or scope; shortened", "S": ["entire ", "exhaustive ", "full ", "outright ", "thorough "], "A": ["incomplete "]}

@@ -1,0 +1,1 @@
+{"index": 306323, "D": "stringent  character or condition", "S": ["acerbity ", "austerity ", "cruelty ", "grimness ", "hardheartedness ", "hardness ", "harshness ", "rigidity ", "rigor ", "rigorousness ", "sharpness ", "sternness ", "strictness ", "toughness ", "unkindness "], "A": ["gentility ", "kindness ", "mildness "]}

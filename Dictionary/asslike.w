@@ -1,0 +1,1 @@
+{"index": 21853, "D": "a long-eared, slow, patient, sure-footed domesticated mammal, Equus asinus, related to the horse, used chiefly as a beast of burden.", "S": [], "A": []}

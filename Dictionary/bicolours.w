@@ -1,0 +1,1 @@
+{"index": 33450, "D": "having two colors", "S": [], "A": []}

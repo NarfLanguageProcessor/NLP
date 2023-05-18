@@ -1,0 +1,1 @@
+{"index": 321449, "D": "an instrument for measuring temperature, often a sealed glass tube that contains a column of liquid, as mercury, that expands and contracts, or rises and falls, with temperature changes, the temperature being read where the top of the column coincides with a calibrated scale marked on the tube or its frame.", "S": [], "A": []}

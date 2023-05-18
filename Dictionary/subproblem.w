@@ -1,0 +1,1 @@
+{"index": 308892, "D": "any question or matter involving doubt, uncertainty, or difficulty.", "S": [], "A": []}

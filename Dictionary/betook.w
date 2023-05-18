@@ -1,0 +1,1 @@
+{"index": 32784, "D": "the simple past tense of betake. ", "S": [], "A": []}

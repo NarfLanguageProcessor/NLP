@@ -1,0 +1,1 @@
+{"index": 292764, "D": "having size  as specified (often used in combination)", "S": ["apprize ", "assess ", "audit ", "calculate ", "check out ", "evaluate ", "examine ", "gauge ", "inspect ", "peg "], "A": ["ignore ", "neglect "]}

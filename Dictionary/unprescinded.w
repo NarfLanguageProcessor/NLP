@@ -1,0 +1,1 @@
+{"index": 348400, "D": "to separate or single out in thought; abstract.", "S": [], "A": []}

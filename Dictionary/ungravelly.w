@@ -1,0 +1,1 @@
+{"index": 343265, "D": "of, like, or abounding in gravel. ", "S": [], "A": []}

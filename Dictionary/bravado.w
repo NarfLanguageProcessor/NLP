@@ -1,0 +1,1 @@
+{"index": 40083, "D": "a pretentious, swaggering display of courage.", "S": ["bluster "], "A": ["cowardice ", "fear ", "fearfulness ", "modesty ", "restraint "]}

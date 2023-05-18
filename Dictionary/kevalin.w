@@ -1,0 +1,1 @@
+{"index": 164179, "D": "a person who is free of karmic matter, detached, and omniscient; Tirthankara.", "S": [], "A": []}

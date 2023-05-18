@@ -1,0 +1,1 @@
+{"index": 257711, "D": "four-handed; having all four feet adapted for use as hands, as monkeys.", "S": [], "A": []}

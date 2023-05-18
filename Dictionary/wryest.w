@@ -1,0 +1,1 @@
+{"index": 367963, "D": [], "S": ["droll ", "ironic ", "mocking ", "sardonic ", "warped "], "A": ["straight ", "straightforward "]}

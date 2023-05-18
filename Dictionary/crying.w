@@ -1,0 +1,1 @@
+{"index": 72936, "D": "demanding attention or remedy; critical; severe", "S": ["mourning ", "sobbing ", "sorrowing "], "A": []}

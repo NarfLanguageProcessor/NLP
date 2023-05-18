@@ -1,0 +1,1 @@
+{"index": 90282, "D": "a blind, tubular sac or process branching off from a canal or cavity, especially an abnormal, saclike herniation of the mucosal layer through the muscular wall of the colon.", "S": [], "A": []}

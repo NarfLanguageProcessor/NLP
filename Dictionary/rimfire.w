@@ -1,0 +1,1 @@
+{"index": 272957, "D": "Compare center-fire (def. 1). ", "S": [], "A": []}

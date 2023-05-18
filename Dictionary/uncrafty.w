@@ -1,0 +1,1 @@
+{"index": 338128, "D": "skillful in underhand or evil schemes; cunning; deceitful; sly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110292, "D": "impossible to measure the depth of; bottomless.", "S": [], "A": []}

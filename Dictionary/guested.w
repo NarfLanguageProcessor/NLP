@@ -1,0 +1,1 @@
+{"index": 130957, "D": "a person who spends some time at another person's home in some social activity, as a visit, dinner, or party.", "S": [], "A": []}

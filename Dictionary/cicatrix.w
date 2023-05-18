@@ -1,0 +1,1 @@
+{"index": 57020, "D": "new tissue that forms over a wound and later contracts into a scar.", "S": ["blot ", "blotch ", "bruise ", "discoloration ", "freckle ", "imperfection ", "pimple ", "scar ", "smudge ", "snag ", "stain ", "stigma ", "wart "], "A": ["cleanliness ", "perfection ", "advantage ", "beauty ", "benefit ", "esteem ", "honor "]}

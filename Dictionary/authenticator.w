@@ -1,0 +1,1 @@
+{"index": 23799, "D": "a person or thing that authenticates. ", "S": [], "A": []}

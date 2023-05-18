@@ -1,0 +1,1 @@
+{"index": 62162, "D": "(of a vault, ceiling, or soffit) having coffers. ", "S": [], "A": []}

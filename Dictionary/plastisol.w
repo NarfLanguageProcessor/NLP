@@ -1,0 +1,1 @@
+{"index": 239268, "D": "a dispersion of resin in a plasticizer, forming a liquid or paste that gels when heated.", "S": [], "A": []}

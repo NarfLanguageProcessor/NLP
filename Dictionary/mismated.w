@@ -1,0 +1,1 @@
+{"index": 189627, "D": "to mate unsuitably or wrongly.", "S": ["contrasting ", "disparate ", "distant ", "distinct ", "distinctive ", "divergent ", "diverse ", "offbeat ", "other ", "particular ", "peculiar ", "various "], "A": ["alike ", "common ", "like ", "normal ", "ordinary ", "resembling ", "same ", "similar ", "standard ", "uniform ", "usual "]}

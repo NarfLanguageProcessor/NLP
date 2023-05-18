@@ -1,0 +1,1 @@
+{"index": 144438, "D": "a succulent plant, Sempervivum tectorum, of the stonecrop family, native to Europe, having reddish flowers and leaves forming dense basal rosettes.", "S": [], "A": []}

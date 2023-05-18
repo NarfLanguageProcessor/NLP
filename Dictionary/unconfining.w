@@ -1,0 +1,1 @@
+{"index": 337579, "D": "to enclose within bounds; limit or restrict", "S": [], "A": []}

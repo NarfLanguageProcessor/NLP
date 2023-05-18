@@ -1,0 +1,1 @@
+{"index": 206738, "D": "the act or process of reproducing. ", "S": [], "A": []}

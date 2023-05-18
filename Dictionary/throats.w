@@ -1,0 +1,1 @@
+{"index": 322744, "D": "the passage from the mouth to the stomach or to the lungs, including the pharynx, esophagus, larynx, and trachea.", "S": ["esophagus ", "larynx "], "A": []}

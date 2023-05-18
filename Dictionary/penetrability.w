@@ -1,0 +1,1 @@
+{"index": 229600, "D": "capable of being penetrated. ", "S": ["accuracy ", "brightness ", "certainty ", "directness ", "lucidity ", "precision ", "purity ", "simplicity ", "transparency "], "A": ["inaccuracy ", "unintelligibility "]}

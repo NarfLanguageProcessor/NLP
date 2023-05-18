@@ -1,0 +1,1 @@
+{"index": 25798, "D": "a game for two persons played on a board having two tables or parts, each marked with 12 points, and with both players having 15 pieces that are moved in accordance with throws of the dice.", "S": [], "A": []}

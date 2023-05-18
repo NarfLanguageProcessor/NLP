@@ -1,0 +1,1 @@
+{"index": 116828, "D": "to ordain or appoint beforehand.", "S": ["coming ", "designed ", "doomed ", "intended "], "A": ["distant ", "remote ", "unsettled "]}

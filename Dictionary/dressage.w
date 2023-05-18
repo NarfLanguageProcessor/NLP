@@ -1,0 +1,1 @@
+{"index": 92978, "D": "haute \u00e9cole (def. 1). ", "S": [], "A": []}

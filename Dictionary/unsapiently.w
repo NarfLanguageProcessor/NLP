@@ -1,0 +1,1 @@
+{"index": 350333, "D": "having or showing great wisdom or sound judgment.", "S": [], "A": []}

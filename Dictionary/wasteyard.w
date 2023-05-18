@@ -1,0 +1,1 @@
+{"index": 362988, "D": [], "S": ["dump ", "dumpsite ", "junkheap ", "junkpile ", "junkyard ", "landfill ", "midden ", "scrap heap ", "toxic waste dump "], "A": []}

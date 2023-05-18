@@ -1,0 +1,1 @@
+{"index": 288273, "D": "a member of an Indigenous Berber people primarily inhabiting the central mountains and southern Atlantic coast of Morocco.", "S": [], "A": []}

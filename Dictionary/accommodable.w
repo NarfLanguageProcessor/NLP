@@ -1,0 +1,1 @@
+{"index": 1634, "D": "to do a kindness or a favor to; oblige", "S": [], "A": []}

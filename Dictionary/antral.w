@@ -1,0 +1,1 @@
+{"index": 16484, "D": "a cavity in a body organ, especially a bone.", "S": [], "A": []}

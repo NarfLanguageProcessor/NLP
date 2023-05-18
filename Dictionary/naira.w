@@ -1,0 +1,1 @@
+{"index": 196611, "D": "a paper money and monetary unit of Nigeria, equal to 100 kobo", "S": [], "A": []}

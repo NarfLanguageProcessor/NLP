@@ -1,0 +1,1 @@
+{"index": 249675, "D": "the act of storing;  state or fact of being stored", "S": [], "A": []}

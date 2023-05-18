@@ -1,0 +1,1 @@
+{"index": 231407, "D": "of or noting the phase intermediate between a solid and the liquid that results from the melting of the solid.", "S": [], "A": []}

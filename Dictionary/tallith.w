@@ -1,0 +1,1 @@
+{"index": 315704, "D": "a shawllike garment of wool, silk, or the like, with fringes, or zizith, at the four corners, worn around the shoulders by Orthodox and Conservative (sometimes also Reform) Jews, as during the morning service.", "S": ["cloth ", "scarf ", "stole "], "A": []}

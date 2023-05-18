@@ -1,0 +1,1 @@
+{"index": 50186, "D": "a cave dweller, especially of the Stone Age.", "S": ["macho ", "male ", "manful ", "manlike ", "manly ", "virile "], "A": ["feminine ", "weak "]}

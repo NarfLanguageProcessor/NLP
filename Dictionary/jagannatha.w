@@ -1,0 +1,1 @@
+{"index": 160076, "D": "a name of Krishna or Vishnu.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226459, "D": "a thin coat of plaster or mortar for giving a relatively smooth surface to rough masonry or for sealing it against moisture.", "S": [], "A": []}

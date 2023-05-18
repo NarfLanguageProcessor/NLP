@@ -1,0 +1,1 @@
+{"index": 113496, "D": "a narrow passage or duct formed by disease or injury, as one leading from an abscess to a free surface, or from one cavity to another.", "S": [], "A": []}

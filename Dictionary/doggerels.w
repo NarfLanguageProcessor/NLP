@@ -1,0 +1,1 @@
+{"index": 90900, "D": "rude; crude; poor.", "S": ["verse "], "A": ["prose "]}

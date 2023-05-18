@@ -1,0 +1,1 @@
+{"index": 192065, "D": "a plant belonging to the genus Aconitum, of the buttercup family, especially A. napellus, the flowers of which have a large, hood-shaped sepal.", "S": [], "A": []}

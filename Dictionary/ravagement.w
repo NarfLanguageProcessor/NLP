@@ -1,0 +1,1 @@
+{"index": 261229, "D": "to work havoc upon; damage or mar by ruinous or destructive action", "S": [], "A": []}

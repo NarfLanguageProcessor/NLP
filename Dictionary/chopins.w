@@ -1,0 +1,1 @@
+{"index": 55685, "D": "an old Scottish unit of liquid measure equivalent to about a quart.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149977, "D": "being part of the whole; contained; covered", "S": [], "A": []}

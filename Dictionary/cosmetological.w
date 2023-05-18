@@ -1,0 +1,1 @@
+{"index": 70017, "D": "the art or profession of applying cosmetics.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 61788, "D": "an untarred cord of hemp or cotton, used for fishing and for various purposes aboard a ship.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165204, "D": "to make known by action; show; demonstrate; prove. ", "S": [], "A": []}

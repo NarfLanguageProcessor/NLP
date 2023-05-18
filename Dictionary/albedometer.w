@@ -1,0 +1,1 @@
+{"index": 7411, "D": "an instrument that measures the albedo  of a surface.", "S": [], "A": []}

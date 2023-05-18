@@ -1,0 +1,1 @@
+{"index": 88974, "D": "the fertilization of an ovum by two spermatozoa.", "S": [], "A": []}

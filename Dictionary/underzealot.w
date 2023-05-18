@@ -1,0 +1,1 @@
+{"index": 340137, "D": "a person who shows zeal. ", "S": [], "A": []}

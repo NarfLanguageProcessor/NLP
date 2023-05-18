@@ -1,0 +1,1 @@
+{"index": 338124, "D": "frightened by threats, violence, superior strength or ability, etc.; intimidated or overawed", "S": [], "A": []}

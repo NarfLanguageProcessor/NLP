@@ -1,0 +1,1 @@
+{"index": 130715, "D": "a potent adrenergic neuron blocking agent, C10H22N4, used in the treatment of hypertension.", "S": [], "A": []}

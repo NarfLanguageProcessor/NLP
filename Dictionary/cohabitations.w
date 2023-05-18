@@ -1,0 +1,1 @@
+{"index": 62340, "D": "to live together as if married, usually without legal or religious sanction.", "S": ["living as man and wife "], "A": []}

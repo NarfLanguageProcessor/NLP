@@ -1,0 +1,1 @@
+{"index": 266287, "D": "the act or process of infiltrating.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214620, "D": "something from which anything arises or is derived; source; fountainhead", "S": ["ancestor ", "ancestry ", "connection ", "element ", "influence ", "motive ", "provenance ", "root ", "source "], "A": ["conclusion ", "effect ", "end ", "ending ", "result "]}

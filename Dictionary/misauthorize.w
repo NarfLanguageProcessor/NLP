@@ -1,0 +1,1 @@
+{"index": 188747, "D": "to give authority  or official power to; empower", "S": [], "A": []}

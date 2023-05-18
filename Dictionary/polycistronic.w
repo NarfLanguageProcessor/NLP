@@ -1,0 +1,1 @@
+{"index": 241756, "D": "of or relating to the transcription of two or more adjacent cistrons  into a single messenger RNA molecule.", "S": [], "A": []}

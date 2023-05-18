@@ -1,0 +1,1 @@
+{"index": 89971, "D": "marked by symptoms of mental illness", "S": ["confused "], "A": ["methodical ", "neat ", "ordered ", "organized ", "systematic ", "systematized "]}

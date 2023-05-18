@@ -1,0 +1,1 @@
+{"index": 286821, "D": "pertaining to or based upon the number 60.", "S": [], "A": []}

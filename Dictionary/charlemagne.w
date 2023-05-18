@@ -1,0 +1,1 @@
+{"index": 52885, "D": "king of the Franks 768\u2013814; as Charles I, emperor of the Holy Roman Empire 800\u2013814.", "S": [], "A": []}

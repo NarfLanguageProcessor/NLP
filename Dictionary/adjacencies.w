@@ -1,0 +1,1 @@
+{"index": 3989, "D": "the state of being adjacent;  nearness.", "S": ["intimacy ", "proximity "], "A": ["openness "]}

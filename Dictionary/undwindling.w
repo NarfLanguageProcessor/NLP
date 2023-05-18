@@ -1,0 +1,1 @@
+{"index": 340945, "D": "to become smaller and smaller; shrink; waste away", "S": [], "A": []}

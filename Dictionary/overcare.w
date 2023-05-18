@@ -1,0 +1,1 @@
+{"index": 218513, "D": "a state of mind in which one is troubled; worry, anxiety, or concern", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230265, "D": "any of the class of enzymes that catalyze the hydrolysis of peptides  or peptones to amino acids.", "S": [], "A": []}

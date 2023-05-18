@@ -1,0 +1,1 @@
+{"index": 68971, "D": "a cotton-filling pile fabric with lengthwise cords or ridges.", "S": [], "A": []}

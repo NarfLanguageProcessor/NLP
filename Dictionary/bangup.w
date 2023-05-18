@@ -1,0 +1,1 @@
+{"index": 27444, "D": "excellent; extraordinary.", "S": ["beat up ", "corrupt ", "harm ", "impair ", "maltreat ", "mistreat ", "misuse ", "molest ", "persecute ", "victimize ", "violate "], "A": ["aid ", "assist ", "help ", "improve ", "please ", "protect ", "treat well ", "clean ", "grow ", "honor ", "purify ", "sanctify "]}

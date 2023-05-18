@@ -1,0 +1,1 @@
+{"index": 167285, "D": "to fail to maintain a desired pace or to keep up; fall or stay behind", "S": ["decrease ", "diminish ", "fail ", "fall off ", "falter ", "slacken ", "slow ", "trail ", "wane "], "A": ["advance ", "complete ", "do ", "finish ", "go ", "hasten ", "hurry ", "rise ", "run ", "rush "]}

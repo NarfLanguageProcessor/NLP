@@ -1,0 +1,1 @@
+{"index": 197083, "D": "the federal agency that institutes and administers the civilian programs of the U.S. government that deal with aeronautical research and the development of launch vehicles and spacecraft. ", "S": [], "A": []}

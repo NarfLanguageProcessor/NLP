@@ -1,0 +1,1 @@
+{"index": 192046, "D": "the mode of life, behavior, etc., of monks;  monastic life.", "S": [], "A": []}

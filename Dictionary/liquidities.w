@@ -1,0 +1,1 @@
+{"index": 173315, "D": "a liquid  state or quality.", "S": [], "A": []}

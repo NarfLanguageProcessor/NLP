@@ -1,0 +1,1 @@
+{"index": 219682, "D": "a group of things placed, thrown, or lying one on another; pile", "S": [], "A": []}

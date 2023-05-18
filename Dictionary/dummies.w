@@ -1,0 +1,1 @@
+{"index": 94075, "D": "a representation or copy of something, as for displaying to indicate appearance", "S": ["idiot "], "A": ["brain ", "genius "]}

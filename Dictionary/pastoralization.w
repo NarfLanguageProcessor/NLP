@@ -1,0 +1,1 @@
+{"index": 227489, "D": "to make pastoral  or rural.", "S": [], "A": []}

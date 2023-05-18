@@ -1,0 +1,1 @@
+{"index": 64210, "D": "to move violently; agitate; excite.", "S": ["appealing ", "astonishing ", "breathtaking ", "dangerous ", "dramatic ", "flashy ", "hectic ", "impressive ", "interesting ", "intriguing ", "lively ", "moving ", "provocative ", "stimulating ", "thrilling "], "A": ["boring ", "dull ", "unexciting ", "unmoving ", "unstimulating "]}

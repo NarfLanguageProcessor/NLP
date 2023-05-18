@@ -1,0 +1,1 @@
+{"index": 338866, "D": "the inclination that one line or surface makes with another when not at right angles.", "S": [], "A": []}

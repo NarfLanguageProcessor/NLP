@@ -1,0 +1,1 @@
+{"index": 358793, "D": "changeable in color", "S": ["checkered ", "dappled ", "flecked ", "kaleidoscopic ", "marbled ", "motley ", "mottled ", "multicolored ", "particolored ", "piebald ", "pied ", "polychromatic ", "polychrome ", "polychromic ", "polychromous ", "prismatic ", "speckled ", "spotted ", "streaked ", "varicolored ", "variegated ", "versicolored "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252806, "D": "the act of offering or suggesting something to be considered, accepted, adopted, or done.", "S": ["hypothesis ", "invitation ", "motion ", "premise ", "proposal ", "recommendation "], "A": ["reality ", "truth "]}

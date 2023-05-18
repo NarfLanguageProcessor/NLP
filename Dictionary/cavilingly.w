@@ -1,0 +1,1 @@
+{"index": 50226, "D": "to raise irritating and trivial objections; find fault with unnecessarily (usually followed by at or about)", "S": [], "A": []}

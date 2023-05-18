@@ -1,0 +1,1 @@
+{"index": 368016, "D": "having wrinkles  or tending to wrinkle; creased; puckery", "S": ["bumpy ", "choppy ", "coarse ", "fuzzy ", "harsh ", "rocky ", "rugged "], "A": ["calm ", "courteous ", "easy ", "flat ", "gentle ", "mild ", "nice ", "polite ", "refined ", "smooth ", "soft ", "sophisticated ", "neat ", "ordered ", "unwrinkled "]}

@@ -1,0 +1,1 @@
+{"index": 53618, "D": "(in decapod crustaceans) either of the pair of appendages bearing a chela.", "S": [], "A": []}

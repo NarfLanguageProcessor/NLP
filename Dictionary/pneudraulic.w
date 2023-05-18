@@ -1,0 +1,1 @@
+{"index": 240716, "D": "of or relating to a mechanism involving both pneumatic  and hydraulic  action.", "S": [], "A": []}

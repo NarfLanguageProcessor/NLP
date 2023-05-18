@@ -1,0 +1,1 @@
+{"index": 60618, "D": "fit to be a member of a social club;  sociable.", "S": [], "A": []}

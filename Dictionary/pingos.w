@@ -1,0 +1,1 @@
+{"index": 237028, "D": "a hill of soil-covered ice pushed up by hydrostatic pressure in an area of permafrost.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107628, "D": "to eject or expel matter, as phlegm, from the throat or lungs by coughing or hawking and spitting; spit.", "S": [], "A": []}

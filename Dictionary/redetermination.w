@@ -1,0 +1,1 @@
+{"index": 264119, "D": "the act of coming to a decision or of fixing or settling a purpose.", "S": [], "A": []}

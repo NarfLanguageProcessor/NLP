@@ -1,0 +1,1 @@
+{"index": 166810, "D": "of or derived from the North American fox grape, Vitis labrusca.", "S": [], "A": []}

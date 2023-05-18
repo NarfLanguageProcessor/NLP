@@ -1,0 +1,1 @@
+{"index": 49617, "D": "a strong cord made by twisting the dried intestines of animals, as sheep, used in stringing musical instruments and tennis rackets, for surgical sutures, etc.", "S": [], "A": []}

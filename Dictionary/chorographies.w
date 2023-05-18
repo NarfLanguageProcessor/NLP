@@ -1,0 +1,1 @@
+{"index": 55868, "D": "a systematic, detailed description and analysis of a region or regions.", "S": ["earth science ", "geology ", "geopolitics ", "topography "], "A": []}

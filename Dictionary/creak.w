@@ -1,0 +1,1 @@
+{"index": 72362, "D": "to make a sharp, harsh, grating, or squeaking sound.", "S": ["groan ", "screech ", "squeak "], "A": []}

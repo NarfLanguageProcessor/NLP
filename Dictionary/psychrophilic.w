@@ -1,0 +1,1 @@
+{"index": 255539, "D": "(esp of bacteria) showing optimum growth at low temperatures", "S": [], "A": []}

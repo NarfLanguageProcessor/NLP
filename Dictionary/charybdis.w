@@ -1,0 +1,1 @@
+{"index": 52820, "D": "a whirlpool in the Strait of Messina off the NE coast of Sicily.", "S": [], "A": []}

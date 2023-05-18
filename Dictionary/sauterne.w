@@ -1,0 +1,1 @@
+{"index": 279019, "D": "a semisweet white wine of California, commonly sold as a jug wine.", "S": [], "A": []}

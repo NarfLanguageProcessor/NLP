@@ -1,0 +1,1 @@
+{"index": 161088, "D": "a cut and polished precious stone; gem.", "S": ["baroque ", "beautiful ", "elegant ", "embroidered ", "fancy ", "gaudy ", "gilded ", "glamorous ", "lavish ", "magnificent ", "opulent ", "rococo ", "sparkling ", "sumptuous "], "A": ["dull ", "offensive ", "plain ", "poor ", "ugly ", "unsophisticated "]}

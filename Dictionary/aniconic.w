@@ -1,0 +1,1 @@
+{"index": 13095, "D": "not employing or permitting images, idols, etc.", "S": [], "A": []}

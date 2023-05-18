@@ -1,0 +1,1 @@
+{"index": 235074, "D": "the dissociation  or breakdown of a chemical compound by radiant energy.", "S": [], "A": []}

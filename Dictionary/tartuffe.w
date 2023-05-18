@@ -1,0 +1,1 @@
+{"index": 316835, "D": "a comedy (1664\u201369) by Moli\u00e8re.", "S": ["deceiver ", "hypocrite ", "pretender "], "A": []}

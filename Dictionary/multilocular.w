@@ -1,0 +1,1 @@
+{"index": 195172, "D": "having or consisting of many cells or vesicles.", "S": [], "A": []}

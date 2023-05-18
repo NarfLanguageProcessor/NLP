@@ -1,0 +1,1 @@
+{"index": 94834, "D": "of or relating to the earth,  especially as opposed to heaven; worldly.", "S": [], "A": []}

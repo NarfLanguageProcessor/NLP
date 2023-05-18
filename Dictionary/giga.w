@@ -1,0 +1,1 @@
+{"index": 124771, "D": "a combining form meaning \u201cbillion,\u201d used in the formation of compound words", "S": [], "A": []}

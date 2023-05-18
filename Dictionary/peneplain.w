@@ -1,0 +1,1 @@
+{"index": 229593, "D": "an area reduced almost to a plain  by erosion.", "S": [], "A": []}

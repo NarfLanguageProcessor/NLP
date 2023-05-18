@@ -1,0 +1,1 @@
+{"index": 40659, "D": "a young woman who attends the bride  at a wedding ceremony.", "S": [], "A": []}

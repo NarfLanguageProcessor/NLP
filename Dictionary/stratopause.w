@@ -1,0 +1,1 @@
+{"index": 305895, "D": "the boundary or transition layer between the stratosphere and mesosphere.", "S": [], "A": []}

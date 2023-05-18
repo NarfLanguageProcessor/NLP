@@ -1,0 +1,1 @@
+{"index": 219510, "D": "liberal in giving or sharing; unselfish", "S": [], "A": []}

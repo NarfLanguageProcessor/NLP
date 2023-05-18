@@ -1,0 +1,1 @@
+{"index": 190681, "D": "any of the collection of 613 commandments or precepts in the Bible and additional ones of rabbinic origin that relate chiefly to the religious and moral conduct of Jews.", "S": ["edict ", "precept "], "A": []}

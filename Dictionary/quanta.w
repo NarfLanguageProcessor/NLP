@@ -1,0 +1,1 @@
+{"index": 257914, "D": "the plural of quantum. ", "S": ["amount ", "measure ", "portion ", "sum ", "total ", "unit "], "A": ["part ", "whole "]}

@@ -1,0 +1,1 @@
+{"index": 245205, "D": "of or relating to a practical point of view or practical considerations.", "S": ["businesslike ", "down-to-earth ", "efficient ", "hardheaded ", "logical ", "practical ", "realistic ", "sober "], "A": ["excited ", "impractical ", "inefficient ", "irrational ", "unrealistic ", "unreasonable "]}

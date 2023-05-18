@@ -1,0 +1,1 @@
+{"index": 307095, "D": "the management of any office, business, or organization; direction. ", "S": [], "A": []}

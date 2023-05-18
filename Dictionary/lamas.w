@@ -1,0 +1,1 @@
+{"index": 167559, "D": "Saavedra Lamas, Carlos. ", "S": ["cleric ", "elder ", "father ", "friar ", "monk ", "preacher ", "rector "], "A": []}

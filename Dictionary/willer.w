@@ -1,0 +1,1 @@
+{"index": 365773, "D": "am (is, are, etc.) about or going to", "S": [], "A": []}

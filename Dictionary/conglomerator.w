@@ -1,0 +1,1 @@
+{"index": 66203, "D": "a person who forms a corporate conglomerate by acquiring a group of companies, services, etc.", "S": [], "A": []}

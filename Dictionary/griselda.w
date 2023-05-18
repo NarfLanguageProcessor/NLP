@@ -1,0 +1,1 @@
+{"index": 130028, "D": "a woman of exemplary meekness and patience.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191042, "D": "a standard or example for imitation or comparison.", "S": ["exemplary ", "miniature "], "A": ["abnormal ", "different ", "irregular ", "uncharacteristic "]}

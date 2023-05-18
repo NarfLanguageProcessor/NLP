@@ -1,0 +1,1 @@
+{"index": 356187, "D": "to put to use; turn to profitable account", "S": ["absorbing ", "attracting ", "drawing ", "engaging ", "engrossing ", "exacting ", "exciting ", "focusing ", "interesting ", "monopolizing ", "requiring "], "A": ["boring ", "repulsive ", "unexciting ", "unstimulating "]}

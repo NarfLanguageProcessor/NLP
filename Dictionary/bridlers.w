@@ -1,0 +1,1 @@
+{"index": 40707, "D": "part of the tack or harness of a horse, consisting usually of a headstall, bit, and reins.", "S": [], "A": []}

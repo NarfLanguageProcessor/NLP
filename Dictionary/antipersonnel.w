@@ -1,0 +1,1 @@
+{"index": 15828, "D": "used against enemy personnel  rather than against mechanized vehicles, mat\u00e9riel, etc.", "S": [], "A": []}

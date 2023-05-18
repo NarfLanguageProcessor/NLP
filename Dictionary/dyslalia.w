@@ -1,0 +1,1 @@
+{"index": 88553, "D": "an inability to speak due to a defect of the organs of speech.", "S": [], "A": []}

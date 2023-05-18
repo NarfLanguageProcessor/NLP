@@ -1,0 +1,1 @@
+{"index": 253652, "D": "a chief deacon  in the Greek Church.", "S": [], "A": []}

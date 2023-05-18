@@ -1,0 +1,1 @@
+{"index": 166571, "D": "a cupronickel coin, paper money, and monetary unit of Malawi, equal to 100 tambala. Abbreviation", "S": [], "A": []}

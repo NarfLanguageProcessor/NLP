@@ -1,0 +1,1 @@
+{"index": 279257, "D": "a musical wind instrument consisting of a conical, usually brass tube with keys or valves and a mouthpiece with one reed.", "S": [], "A": []}

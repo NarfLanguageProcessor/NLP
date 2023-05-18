@@ -1,0 +1,1 @@
+{"index": 298731, "D": "Britney (\u02c8br\u026atn\u026a). born 1981, US pop singer; records include the single \"Baby One More Time\" (1998) and the album Britney (2001)", "S": ["bayonet "], "A": []}

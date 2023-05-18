@@ -1,0 +1,1 @@
+{"index": 70250, "D": "material for costumes. ", "S": ["deck out "], "A": ["bare ", "disrobe ", "unclothe "]}

@@ -1,0 +1,1 @@
+{"index": 42596, "D": "gold or silver considered in mass rather than in value.", "S": [], "A": []}

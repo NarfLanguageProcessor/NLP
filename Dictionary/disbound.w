@@ -1,0 +1,1 @@
+{"index": 87192, "D": "(of a book) having the binding torn or loose.", "S": [], "A": []}

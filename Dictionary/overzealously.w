@@ -1,0 +1,1 @@
+{"index": 221905, "D": "too zealous", "S": ["excitedly ", "madly ", "passionately ", "violently "], "A": ["calmly ", "indifferently "]}

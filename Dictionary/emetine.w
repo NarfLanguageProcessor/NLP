@@ -1,0 +1,1 @@
+{"index": 98498, "D": "a crystalline or white powdery substance, C29H40N2O4, the active principle of ipecac", "S": [], "A": []}

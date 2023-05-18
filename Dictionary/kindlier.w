@@ -1,0 +1,1 @@
+{"index": 164777, "D": "having, showing, or proceeding from a benevolent disposition or spirit; kindhearted", "S": ["attentive ", "benevolent ", "genial ", "gentle ", "good-hearted ", "gracious ", "polite ", "sympathetic ", "thoughtful "], "A": ["cold ", "heedless ", "inattentive ", "inconsiderate ", "mean ", "rude ", "uncaring ", "unfriendly ", "unkind "]}

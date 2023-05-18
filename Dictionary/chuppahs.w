@@ -1,0 +1,1 @@
+{"index": 56659, "D": "a canopy under which the Jewish marriage ceremony is performed.", "S": [], "A": []}

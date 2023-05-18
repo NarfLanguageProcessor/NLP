@@ -1,0 +1,1 @@
+{"index": 69258, "D": "U.S. capitalist and philanthropist.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 286760, "D": "separated from the whole or divided into parts, as by cutting or the like", "S": ["busted ", "collapsed ", "cracked ", "crippled ", "crumbled ", "crushed ", "damaged ", "defective ", "demolished ", "fractured ", "fragmented ", "injured ", "mangled ", "mutilated ", "ruptured ", "shattered ", "smashed "], "A": ["perfect ", "unbroken "]}

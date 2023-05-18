@@ -1,0 +1,1 @@
+{"index": 76223, "D": "one of a series of decorative scallops or foliations along the edge of a garment, cloth, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109299, "D": "lacking brightness, vividness, clearness, loudness, strength, etc.", "S": ["decrepitude ", "disease ", "enervation ", "enfeeblement ", "exhaustion ", "feebleness ", "frailty ", "infirmity ", "languor ", "malaise ", "unhealthiness "], "A": ["good health ", "health ", "healthiness ", "soundness ", "strength "]}

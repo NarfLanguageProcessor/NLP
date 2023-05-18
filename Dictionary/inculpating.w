@@ -1,0 +1,1 @@
+{"index": 150558, "D": "to charge with fault; blame; accuse. ", "S": ["accuse ", "charge ", "implicate ", "incriminate ", "involve "], "A": ["exculpate ", "exonerate ", "free "]}

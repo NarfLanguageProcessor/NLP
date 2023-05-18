@@ -1,0 +1,1 @@
+{"index": 278797, "D": "to choose or adopt the first satisfactory option that one comes across", "S": [], "A": []}

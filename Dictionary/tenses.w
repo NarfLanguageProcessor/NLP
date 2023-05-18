@@ -1,0 +1,1 @@
+{"index": 318977, "D": "stretched tight, as a cord, fiber, etc.; drawn taut; rigid. ", "S": ["reinforce ", "solidify ", "stabilize ", "strengthen "], "A": ["weaken ", "dilute ", "dissolve ", "heat ", "liquefy ", "melt ", "separate ", "soften ", "thin ", "unfix "]}

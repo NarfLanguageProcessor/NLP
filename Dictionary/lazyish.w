@@ -1,0 +1,1 @@
+{"index": 169459, "D": "averse or disinclined to work, activity, or exertion; indolent. ", "S": [], "A": []}

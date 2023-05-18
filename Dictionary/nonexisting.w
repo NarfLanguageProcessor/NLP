@@ -1,0 +1,1 @@
+{"index": 203786, "D": "already or previously in place, before being replaced, altered, or added to", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16729, "D": "having a mild purgative or laxative effect.", "S": ["cathartic ", "eliminatory ", "evacuant ", "evacuative ", "excretory ", "expulsive ", "purgative "], "A": []}

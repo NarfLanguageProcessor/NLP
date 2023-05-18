@@ -1,0 +1,1 @@
+{"index": 237482, "D": "any of numerous insectivorous bats of the genus Pipistrellus, especially P. pipistrellus of Europe and Asia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97602, "D": "of, relating to, or resembling Elysium.", "S": ["angelic ", "divine ", "ethereal ", "immortal ", "otherworldly ", "spiritual ", "sublime ", "supernatural "], "A": ["earthly "]}

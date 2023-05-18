@@ -1,0 +1,1 @@
+{"index": 77868, "D": "to expose or excoriate (a claim, assertion, sentiment, etc.) as being pretentious, false, or exaggerated", "S": [], "A": []}

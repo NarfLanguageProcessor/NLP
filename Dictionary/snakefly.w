@@ -1,0 +1,1 @@
+{"index": 295242, "D": "any neuropterous insect of the family Raphidiidae, of western North America, having an elongated prothorax resembling a neck.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118820, "D": "newly made or obtained", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15929, "D": "a person who is elected or claims to be pope in opposition to another held to be canonically chosen.", "S": [], "A": []}

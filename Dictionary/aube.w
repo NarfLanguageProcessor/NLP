@@ -1,0 +1,1 @@
+{"index": 23219, "D": "a river in N France, flowing NW to the Seine. 125 miles (200 km) long.", "S": [], "A": []}

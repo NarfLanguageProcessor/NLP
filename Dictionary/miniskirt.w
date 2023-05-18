@@ -1,0 +1,1 @@
+{"index": 187922, "D": "a very short skirt  or skirt  part, as of a coat or dress, ending several inches above the knee.", "S": [], "A": []}

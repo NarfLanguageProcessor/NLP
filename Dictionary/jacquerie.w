@@ -1,0 +1,1 @@
+{"index": 160018, "D": "the revolt of the peasants of northern France against the nobles in 1358.", "S": [], "A": []}

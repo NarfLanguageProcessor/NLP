@@ -1,0 +1,1 @@
+{"index": 259080, "D": "an informal test or examination of a student or class.", "S": ["appraiser ", "auditor ", "inspector ", "investigator "], "A": []}

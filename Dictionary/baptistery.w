@@ -1,0 +1,1 @@
+{"index": 27643, "D": "a building or a part of a church in which baptism  is administered.", "S": [], "A": []}

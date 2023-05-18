@@ -1,0 +1,1 @@
+{"index": 316172, "D": "a place where tanning  is carried on.", "S": [], "A": []}

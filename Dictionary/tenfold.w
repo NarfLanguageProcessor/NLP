@@ -1,0 +1,1 @@
+{"index": 318857, "D": "comprising ten parts or members.", "S": ["decimal "], "A": []}

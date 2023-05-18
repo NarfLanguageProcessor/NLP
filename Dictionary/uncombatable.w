@@ -1,0 +1,1 @@
+{"index": 337247, "D": "to fight or contend against; oppose vigorously", "S": [], "A": []}

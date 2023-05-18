@@ -1,0 +1,1 @@
+{"index": 302070, "D": "to eject liquid in a jet from a narrow orifice", "S": ["pour ", "spatter ", "spit ", "splash ", "spray ", "sprinkle "], "A": ["collect ", "gather "]}

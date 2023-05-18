@@ -1,0 +1,1 @@
+{"index": 2330, "D": "the colorless or white variety of tourmaline, often used as a gem.", "S": [], "A": []}

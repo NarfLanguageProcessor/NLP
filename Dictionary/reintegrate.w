@@ -1,0 +1,1 @@
+{"index": 266422, "D": "to reintegrate inner divisions", "S": ["fix up ", "improve ", "mend ", "rebuild ", "reclaim ", "reconstruct ", "recover ", "reestablish ", "refurbish ", "reinvigorate ", "rejuvenate ", "restore ", "save "], "A": ["break ", "damage ", "decline ", "destroy ", "harm ", "hurt ", "ruin ", "weaken ", "hold ", "keep ", "persist ", "remain ", "stay "]}

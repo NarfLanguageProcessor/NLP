@@ -1,0 +1,1 @@
+{"index": 261745, "D": "the state or quality of being real.", "S": ["existence ", "matter ", "phenomenon ", "real world ", "realism ", "sensibility ", "truth "], "A": ["abstract ", "concept ", "falseness ", "idea "]}

@@ -1,0 +1,1 @@
+{"index": 240112, "D": "a seaport in SW Devonshire, in SW England, on the English Channel", "S": [], "A": []}

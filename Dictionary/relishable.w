@@ -1,0 +1,1 @@
+{"index": 266993, "D": "liking or enjoyment of the taste of something.", "S": ["amusing ", "delicious ", "delightful ", "entertaining ", "fun ", "gratifying ", "likable ", "pleasant ", "pleasurable ", "satisfying "], "A": ["bad ", "boring ", "disagreeable ", "hateful ", "horrible ", "sad ", "tiring ", "unamusing ", "unhappy ", "unpleasant "]}

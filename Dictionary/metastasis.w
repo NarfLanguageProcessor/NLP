@@ -1,0 +1,1 @@
+{"index": 185006, "D": "the condition produced by this.", "S": ["changeover ", "conversion ", "development ", "evolution ", "growth ", "passage ", "progress ", "progression ", "shift ", "transformation ", "upheaval "], "A": ["decline ", "decrease ", "idleness ", "sameness ", "stagnation ", "stoppage "]}

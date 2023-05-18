@@ -1,0 +1,1 @@
+{"index": 334353, "D": "to wear off or down by scraping or rubbing.", "S": [], "A": []}

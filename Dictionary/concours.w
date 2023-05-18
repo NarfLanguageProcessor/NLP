@@ -1,0 +1,1 @@
+{"index": 65433, "D": "a public contest or competition.", "S": ["championship ", "clash ", "event ", "fight ", "game ", "match ", "meeting ", "race ", "rivalry ", "sport ", "struggle ", "tournament ", "trial "], "A": ["peace ", "accord ", "agreement ", "harmony ", "surrender ", "sympathy "]}

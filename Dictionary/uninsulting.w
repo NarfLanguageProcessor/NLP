@@ -1,0 +1,1 @@
+{"index": 344680, "D": "giving or causing insult;  characterized by affronting rudeness, insolence, etc.", "S": [], "A": []}

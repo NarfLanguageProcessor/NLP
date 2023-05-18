@@ -1,0 +1,1 @@
+{"index": 183926, "D": "(in the Iliad) a Percosian augur who foresaw and unsuccessfully tried to prevent the death of his sons in the Trojan War.", "S": [], "A": []}

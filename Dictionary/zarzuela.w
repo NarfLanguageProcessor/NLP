@@ -1,0 +1,1 @@
+{"index": 368919, "D": "a Spanish opera having spoken dialogue and often a satirically treated, topical theme.", "S": [], "A": []}

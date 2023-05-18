@@ -1,0 +1,1 @@
+{"index": 233379, "D": "a salt of phenol, as sodium phenolate, C6H5ONa.", "S": [], "A": []}

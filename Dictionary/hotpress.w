@@ -1,0 +1,1 @@
+{"index": 144302, "D": "a machine applying heat in conjunction with mechanical pressure, as for producing a smooth surface on paper or for expressing oil.", "S": [], "A": []}

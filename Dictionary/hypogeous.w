@@ -1,0 +1,1 @@
+{"index": 140954, "D": "another word for hypogeal", "S": ["below ground ", "buried ", "covered ", "hypogeal ", "hypogean ", "in the recesses ", "subterranean ", "subterrestrial ", "sunken ", "underfoot "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66877, "D": "singular of consols. ", "S": [], "A": []}

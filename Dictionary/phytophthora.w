@@ -1,0 +1,1 @@
+{"index": 234361, "D": "any of a group of fungi of the genus Phytophthora, which cause a serious plant disease, especially affecting apple and pear trees and potatoes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152522, "D": "going  in; entering.", "S": ["acerbic ", "barbed ", "biting ", "caustic ", "piercing ", "pointed ", "sarcastic ", "sardonic ", "scathing ", "stinging ", "trenchant "], "A": ["calm ", "gentle ", "kind ", "mild ", "nice ", "soothing ", "bland "]}

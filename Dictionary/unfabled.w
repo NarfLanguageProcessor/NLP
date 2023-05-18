@@ -1,0 +1,1 @@
+{"index": 341904, "D": "celebrated in fables", "S": ["absolute ", "evident ", "irrefutable ", "unassailable ", "undeniable ", "unquestionable "], "A": ["disputable ", "doubtful ", "indefinite ", "questionable ", "uncertain ", "unsure "]}

@@ -1,0 +1,1 @@
+{"index": 64249, "D": "the act or process of communicating; fact of being communicated.", "S": ["means ", "media ", "publicity ", "route ", "telecommunications ", "transport ", "travel "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225682, "D": "the suggestion, by deliberately concise treatment of a topic, that much of significance is being omitted, as in \u201cnot to mention other faults.\u201d", "S": [], "A": []}

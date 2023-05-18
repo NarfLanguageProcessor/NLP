@@ -1,0 +1,1 @@
+{"index": 174816, "D": "to loll; lounge.", "S": ["blow ", "jab ", "shot ", "slap ", "stroke "], "A": ["compliment ", "flattery ", "praise "]}

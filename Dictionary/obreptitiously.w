@@ -1,0 +1,1 @@
+{"index": 210312, "D": "Compare subreption (def. 1). ", "S": [], "A": []}

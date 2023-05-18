@@ -1,0 +1,1 @@
+{"index": 112962, "D": "a young or small fish, especially a very small salmon or trout.", "S": [], "A": []}

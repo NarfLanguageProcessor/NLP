@@ -1,0 +1,1 @@
+{"index": 268091, "D": "(in cycling and rowing) a last-chance qualifying heat in which the runners-up in earlier heats race each other, with the winner advancing to the finals.", "S": [], "A": []}

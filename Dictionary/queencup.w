@@ -1,0 +1,1 @@
+{"index": 258249, "D": "a North American plant, Clintonia uniflora, of the lily family, having solitary, white flowers and blue berries.", "S": [], "A": []}

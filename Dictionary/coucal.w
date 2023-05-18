@@ -1,0 +1,1 @@
+{"index": 70474, "D": "any of several Old World cuckoos of the genus Centropus, having harsh-textured plumage and a long, daggerlike hind claw.", "S": [], "A": []}

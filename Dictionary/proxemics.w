@@ -1,0 +1,1 @@
+{"index": 254173, "D": "the study of the spatial requirements of humans and animals and the effects of population density  on behavior, communication, and social interaction.", "S": [], "A": []}

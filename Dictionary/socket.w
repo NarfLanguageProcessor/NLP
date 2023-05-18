@@ -1,0 +1,1 @@
+{"index": 296225, "D": "a hollow part or piece for receiving and holding some part or thing.", "S": ["crater "], "A": ["bulge ", "closure ", "mountain ", "solid "]}

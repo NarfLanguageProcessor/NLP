@@ -1,0 +1,1 @@
+{"index": 296323, "D": "at all; in any case; of any kind; in any way (used with generalizing force after who, what, when, where, how, any, all, etc., sometimes separated by intervening words)", "S": [], "A": []}

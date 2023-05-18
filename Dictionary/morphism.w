@@ -1,0 +1,1 @@
+{"index": 193585, "D": "a combining form occurring in nouns that correspond to adjectives ending in -morphic  or -morphous", "S": [], "A": []}

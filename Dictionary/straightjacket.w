@@ -1,0 +1,1 @@
+{"index": 305671, "D": "a less common spelling of straitjacket", "S": [], "A": []}

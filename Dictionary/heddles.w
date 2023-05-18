@@ -1,0 +1,1 @@
+{"index": 135180, "D": "one of the sets of vertical cords or wires in a loom, forming the principal part of the harness that guides the warp threads.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70135, "D": "(especially in czarist Russia) a person belonging to any of certain groups of Slavs living chiefly in the southern part of Russia in Europe and forming an elite corps of horsemen.", "S": [], "A": []}

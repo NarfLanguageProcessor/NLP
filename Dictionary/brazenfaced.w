@@ -1,0 +1,1 @@
+{"index": 40153, "D": "openly shameless; impudent.", "S": ["audacious ", "barefaced ", "boldfaced ", "brassy ", "brazen ", "impudent ", "saucy ", "unabashed ", "unblushing "], "A": []}

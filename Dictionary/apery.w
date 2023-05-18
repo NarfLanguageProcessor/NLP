@@ -1,0 +1,1 @@
+{"index": 16728, "D": "apish behavior; mimicry.", "S": ["caricature ", "parody "], "A": []}

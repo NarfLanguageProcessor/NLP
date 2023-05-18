@@ -1,0 +1,1 @@
+{"index": 231561, "D": "(of a cloud) having transparent spaces between the elements.", "S": [], "A": []}

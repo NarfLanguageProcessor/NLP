@@ -1,0 +1,1 @@
+{"index": 178481, "D": "Indonesian politician and diplomat.", "S": [], "A": []}

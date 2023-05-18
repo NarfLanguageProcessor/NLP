@@ -1,0 +1,1 @@
+{"index": 146819, "D": "either of two American shorebirds having yellow legs, Tringa melanoleuca(greater yellowlegs ) or T. flavipes(lesser yellowlegs ).", "S": [], "A": []}

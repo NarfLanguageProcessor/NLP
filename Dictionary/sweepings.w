@@ -1,0 +1,1 @@
+{"index": 314261, "D": "debris, litter, or refuse", "S": ["debris ", "detritus ", "dreck ", "dregs ", "dross ", "filth ", "junk ", "muck ", "offal ", "rubbish ", "rubble ", "scrap ", "scrapings ", "sewage ", "slop ", "swill ", "trash ", "waste "], "A": ["cleanliness ", "possessions ", "purity ", "sense "]}

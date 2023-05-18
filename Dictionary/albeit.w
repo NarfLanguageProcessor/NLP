@@ -1,0 +1,1 @@
+{"index": 7414, "D": "although; even if", "S": ["admitting ", "even if ", "even though ", "notwithstanding "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112466, "D": "exhibiting or produced by figuration; florid or decorative", "S": [], "A": []}

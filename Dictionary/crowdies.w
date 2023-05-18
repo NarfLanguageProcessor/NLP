@@ -1,0 +1,1 @@
+{"index": 73997, "D": "a dish of meal, especially oatmeal and water, or sometimes milk, stirred together; gruel; brose; porridge.", "S": ["gruel ", "oatmeal ", "polenta "], "A": []}

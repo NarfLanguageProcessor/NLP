@@ -1,0 +1,1 @@
+{"index": 62620, "D": "(among social insects) life in which one species lives as a parasite in the community of another species.", "S": [], "A": []}

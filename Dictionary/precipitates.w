@@ -1,0 +1,1 @@
+{"index": 246117, "D": "to hasten the occurrence of; bring about prematurely, hastily, or suddenly", "S": ["accelerate ", "expedite ", "hasten ", "trigger "], "A": ["block ", "check ", "halt ", "hinder ", "stop ", "catch ", "cease ", "hold ", "keep ", "receive "]}

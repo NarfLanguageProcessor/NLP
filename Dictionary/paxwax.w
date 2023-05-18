@@ -1,0 +1,1 @@
+{"index": 228301, "D": "the neck ligament; nuchal ligament.", "S": [], "A": []}

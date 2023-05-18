@@ -1,0 +1,1 @@
+{"index": 88619, "D": "false to one's obligations or allegiances; not loyal; faithless; treacherous.", "S": [], "A": []}

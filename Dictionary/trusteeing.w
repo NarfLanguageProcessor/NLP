@@ -1,0 +1,1 @@
+{"index": 331675, "D": "a person, usually one of a body of persons, appointed to administer the affairs of a company, institution, etc.", "S": [], "A": []}

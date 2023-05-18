@@ -1,0 +1,1 @@
+{"index": 161561, "D": "a sterile solution prepared from the growth products of the bacillus Mycobacterium paratuberculosis, used chiefly in the diagnosis of Johne's disease.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216607, "D": "a numerical symbol, especially an Arabic numeral.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279301, "D": "destructive to the organisms causing scabies. ", "S": [], "A": []}

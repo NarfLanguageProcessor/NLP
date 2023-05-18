@@ -1,0 +1,1 @@
+{"index": 112018, "D": "a globulin occurring in blood and yielding fibrin in blood coagulation.", "S": [], "A": []}

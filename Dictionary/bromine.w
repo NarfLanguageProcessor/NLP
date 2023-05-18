@@ -1,0 +1,1 @@
+{"index": 41275, "D": "an element that is a dark-reddish, fuming, toxic liquid and a member of the halogen family", "S": [], "A": []}

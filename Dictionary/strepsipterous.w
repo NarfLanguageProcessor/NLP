@@ -1,0 +1,1 @@
+{"index": 306093, "D": "belonging or pertaining to the order Strepsiptera, comprising minute insects that are closely related to the beetles, the twisted-winged male being free-living and the wingless female parasitic in various insect hosts.", "S": [], "A": []}

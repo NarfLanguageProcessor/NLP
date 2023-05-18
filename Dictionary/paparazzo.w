@@ -1,0 +1,1 @@
+{"index": 225126, "D": "a freelance photographer, especially one who takes candid pictures of celebrities for publication.", "S": ["shutterbug "], "A": []}

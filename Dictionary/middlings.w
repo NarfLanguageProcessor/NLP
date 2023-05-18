@@ -1,0 +1,1 @@
+{"index": 186720, "D": "the poorer or coarser part of flour or other products", "S": [], "A": []}

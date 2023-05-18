@@ -1,0 +1,1 @@
+{"index": 212292, "D": "a mineral, basic copper arsenate, Cu4As2O8(OH)2, occurring in crystals and in masses, usually olive-green in color.", "S": [], "A": []}

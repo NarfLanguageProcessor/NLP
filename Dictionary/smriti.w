@@ -1,0 +1,1 @@
+{"index": 295114, "D": "writings containing traditions concerning law, rituals, teachings of the sages, the epics, and the Puranas.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18146, "D": "inclined; disposed; given; prone", "S": ["aptitude ", "capacity ", "docility ", "expertise ", "faculty ", "flair ", "forte ", "genius ", "gift ", "instinct ", "knack ", "proficiency ", "smarts "], "A": ["inability ", "incapacity ", "incompetence ", "ineptitude ", "ineptness ", "lack "]}

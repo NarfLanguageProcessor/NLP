@@ -1,0 +1,1 @@
+{"index": 210308, "D": "inversely pear-shaped; pear-shaped with the narrow end at the base.", "S": [], "A": []}

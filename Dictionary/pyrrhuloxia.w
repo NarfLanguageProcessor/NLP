@@ -1,0 +1,1 @@
+{"index": 238018, "D": "a cardinallike grosbeak, Cardinalis (Pyrrhuloxia) sinuatus, of the southwestern U.S. and Mexico, having a bill superficially resembling that of a parrot.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339117, "D": "to clothe oneself less completely or formally than is usual or fitting for the circumstances.", "S": [], "A": []}

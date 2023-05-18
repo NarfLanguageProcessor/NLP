@@ -1,0 +1,1 @@
+{"index": 266549, "D": "real-estate investment trust.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98431, "D": "a correction or change, as of a text.", "S": ["change ", "correction ", "editing ", "revisal "], "A": []}

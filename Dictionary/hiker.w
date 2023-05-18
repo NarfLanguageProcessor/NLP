@@ -1,0 +1,1 @@
+{"index": 139389, "D": "to walk or march a great distance, especially through rural areas, for pleasure, exercise, military training, or the like.", "S": ["climber "], "A": []}

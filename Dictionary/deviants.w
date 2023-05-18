@@ -1,0 +1,1 @@
+{"index": 83523, "D": "deviating  or departing from the norm; characterized by deviation", "S": ["alteration ", "anomaly ", "variation "], "A": ["sameness ", "stagnation "]}

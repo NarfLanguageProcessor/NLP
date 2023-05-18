@@ -1,0 +1,1 @@
+{"index": 235880, "D": "any of several small species of pike, as Esox niger(chain pickerel ) and E. americanus americanus(redfin pickerel ), of eastern North America.", "S": [], "A": []}

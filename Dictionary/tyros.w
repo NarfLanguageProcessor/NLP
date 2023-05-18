@@ -1,0 +1,1 @@
+{"index": 324552, "D": "a beginner in learning anything; novice.", "S": ["abecedarian ", "amateur ", "apprentice ", "cadet ", "colt ", "greenhorn ", "learner ", "neophyte ", "newcomer ", "novice ", "novitiate ", "pupil ", "recruit ", "rookie ", "starter ", "student ", "tenderfoot ", "trainee "], "A": ["expert ", "professional ", "professor ", "teacher "]}

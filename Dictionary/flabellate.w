@@ -1,0 +1,1 @@
+{"index": 113671, "D": "being in the shape of a fan;  fan-shaped.", "S": [], "A": []}

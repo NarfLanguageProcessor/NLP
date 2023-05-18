@@ -1,0 +1,1 @@
+{"index": 189243, "D": "a room in a monastery set apart for those monks permitted relaxation of the monastic rule.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200205, "D": "the ancient capital of Assyria", "S": [], "A": []}

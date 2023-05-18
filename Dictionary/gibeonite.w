@@ -1,0 +1,1 @@
+{"index": 124693, "D": "one of the inhabitants of Gibeon,  who were condemned by Joshua to be hewers of wood and drawers of water for the Israelites. Joshua 9.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206608, "D": "an act of refuting  a statement, charge, etc.; disproof.", "S": [], "A": []}

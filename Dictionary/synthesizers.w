@@ -1,0 +1,1 @@
+{"index": 292045, "D": "a person or thing that synthesizes. ", "S": [], "A": []}

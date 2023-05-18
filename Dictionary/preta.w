@@ -1,0 +1,1 @@
+{"index": 249821, "D": "a wandering or disturbed ghost.", "S": [], "A": []}

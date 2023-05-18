@@ -1,0 +1,1 @@
+{"index": 337922, "D": "to tend to meet in a point or line; incline toward each other, as lines that are not parallel.", "S": [], "A": []}

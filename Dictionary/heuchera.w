@@ -1,0 +1,1 @@
+{"index": 137843, "D": "any of various North American plants belonging to the genus Heuchera, of the saxifrage family, having clusters of small, cup-shaped flowers, especially the alumroots.", "S": [], "A": []}

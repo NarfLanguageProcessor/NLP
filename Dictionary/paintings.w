@@ -1,0 +1,1 @@
+{"index": 223191, "D": "a picture or design executed in paints. ", "S": ["art ", "canvas ", "composition ", "depiction ", "landscape ", "mural ", "oil painting ", "picture ", "portrait ", "sketch "], "A": []}

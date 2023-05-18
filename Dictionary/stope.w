@@ -1,0 +1,1 @@
+{"index": 305329, "D": "any excavation made in a mine, especially from a steeply inclined vein, to remove the ore that has been rendered accessible by the shafts and drifts.", "S": [], "A": []}

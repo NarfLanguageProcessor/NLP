@@ -1,0 +1,1 @@
+{"index": 315542, "D": "a small, yellowish guenon monkey, Micropithecus (Cercopithecus) talapoin, of western Africa.", "S": [], "A": []}

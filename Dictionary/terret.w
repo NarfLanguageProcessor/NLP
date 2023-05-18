@@ -1,0 +1,1 @@
+{"index": 319556, "D": "one of the round loops or rings on the saddle of a harness, through which the driving reins pass.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15106, "D": "a sequence of rulers from the same family, stock, or group", "S": [], "A": []}

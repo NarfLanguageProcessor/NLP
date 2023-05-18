@@ -1,0 +1,1 @@
+{"index": 155154, "D": "referring to a lamella  or lamellae. ", "S": [], "A": []}

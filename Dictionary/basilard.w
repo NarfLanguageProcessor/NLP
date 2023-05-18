@@ -1,0 +1,1 @@
+{"index": 28622, "D": "a medieval dagger having a tapering blade with straight transverse quillons and a T-shaped pommel.", "S": [], "A": []}

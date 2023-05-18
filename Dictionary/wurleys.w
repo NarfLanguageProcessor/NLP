@@ -1,0 +1,1 @@
+{"index": 368172, "D": "an Aboriginal person's shelter, made of branches and leaves.", "S": [], "A": []}

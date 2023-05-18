@@ -1,0 +1,1 @@
+{"index": 146897, "D": "variant of -er1  after w", "S": [], "A": []}

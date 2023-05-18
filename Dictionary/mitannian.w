@@ -1,0 +1,1 @@
+{"index": 190460, "D": "a native or inhabitant of the Mitanni  kingdom.", "S": [], "A": []}

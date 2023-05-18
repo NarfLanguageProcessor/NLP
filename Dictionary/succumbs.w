@@ -1,0 +1,1 @@
+{"index": 309921, "D": "to give way to superior force; yield", "S": ["bow ", "break down ", "buckle ", "capitulate ", "cave in ", "cease ", "defer ", "give in ", "give way ", "go down ", "pass away ", "perish ", "quit ", "wilt ", "yield "], "A": ["continue ", "defend ", "fight ", "ascend ", "be born ", "bear ", "deny ", "refuse ", "rise ", "stay "]}

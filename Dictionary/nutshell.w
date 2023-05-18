@@ -1,0 +1,1 @@
+{"index": 209825, "D": "the shell of a nut.", "S": ["rehash ", "rundown ", "summation ", "synopsis "], "A": ["enlargement ", "expansion ", "extension ", "increase "]}

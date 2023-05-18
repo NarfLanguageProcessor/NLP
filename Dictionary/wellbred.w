@@ -1,0 +1,1 @@
+{"index": 364018, "D": "well brought up; properly trained and educated", "S": ["courtly ", "dignified ", "elegant ", "haughty ", "noble ", "patrician ", "silk-stocking ", "stylish ", "well-bred "], "A": ["ignoble ", "indecorous ", "inelegant ", "rough ", "undignified ", "unfashionable ", "unrefined ", "unsophisticated "]}

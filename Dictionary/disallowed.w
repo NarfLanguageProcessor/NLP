@@ -1,0 +1,1 @@
+{"index": 86988, "D": "to refuse to allow; reject; veto", "S": ["banned ", "forbidden ", "prohibited ", "taboo "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 285504, "D": "an attitude toward something; regard; opinion. ", "S": ["affections ", "center ", "circle ", "conscience ", "emotions ", "feelings ", "inside ", "interior ", "soul ", "spirit ", "sympathies "], "A": ["exterior ", "exteriority ", "outside "]}

@@ -1,0 +1,1 @@
+{"index": 128039, "D": "a short-horned goat antelope, Naemorhedus goral, of the mountainous regions of southeastern Asia", "S": [], "A": []}

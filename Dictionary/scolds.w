@@ -1,0 +1,1 @@
+{"index": 281077, "D": "to find fault with angrily; chide; reprimand", "S": ["admonish ", "berate ", "blame ", "castigate ", "censure ", "chide ", "criticize ", "denounce ", "rebuke ", "reprimand ", "reproach ", "taunt ", "upbraid ", "vilify "], "A": ["applaud ", "approve ", "commend ", "compliment ", "exonerate ", "flatter ", "laud ", "praise ", "help ", "honor "]}

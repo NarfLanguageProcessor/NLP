@@ -1,0 +1,1 @@
+{"index": 143919, "D": "of or relating to horology. ", "S": ["historical ", "sequential "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260599, "D": "senior or superior in rank,  position, etc.", "S": ["food chain ", "hierarchy ", "power structure ", "social structure "], "A": []}

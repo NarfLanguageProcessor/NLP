@@ -1,0 +1,1 @@
+{"index": 77283, "D": "the eldest son of a king of France, used as a title from 1349 to 1830.", "S": [], "A": []}

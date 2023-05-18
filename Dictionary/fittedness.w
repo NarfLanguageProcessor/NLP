@@ -1,0 +1,1 @@
+{"index": 113548, "D": "made so as to follow closely the contours of a form, shape, or space", "S": [], "A": []}

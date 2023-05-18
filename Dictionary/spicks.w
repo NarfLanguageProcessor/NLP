@@ -1,0 +1,1 @@
+{"index": 299667, "D": "a contemptuous term used to refer to a Spanish American person.", "S": [], "A": []}

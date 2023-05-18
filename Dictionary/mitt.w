@@ -1,0 +1,1 @@
+{"index": 190664, "D": "Compare baseball glove. ", "S": ["capture ", "detention ", "imprisonment ", "incarceration ", "jailing "], "A": ["freedom ", "release ", "liberation ", "refusal ", "rise "]}

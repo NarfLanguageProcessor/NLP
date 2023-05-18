@@ -1,0 +1,1 @@
+{"index": 310227, "D": "a small round candy made of sugar with various flavoring and coloring ingredients; a bonbon. ", "S": ["candy ", "chocolate ", "confection ", "dessert ", "snack "], "A": []}

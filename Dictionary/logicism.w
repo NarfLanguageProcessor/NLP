@@ -1,0 +1,1 @@
+{"index": 174619, "D": "the doctrine, developed chiefly by Gottlob Frege and Bertrand Russell, that mathematics can be reduced to logic. ", "S": [], "A": []}

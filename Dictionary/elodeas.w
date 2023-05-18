@@ -1,0 +1,1 @@
+{"index": 97726, "D": "any of several New World submersed aquatic plants of the genus Elodea, having numerous, usually whorled leaves.", "S": [], "A": []}

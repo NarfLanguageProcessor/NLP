@@ -1,0 +1,1 @@
+{"index": 339791, "D": "one of the counties of Great Britain.", "S": [], "A": []}

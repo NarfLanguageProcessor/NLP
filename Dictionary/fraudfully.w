@@ -1,0 +1,1 @@
+{"index": 118487, "D": "deceit, trickery, sharp practice, or breach of confidence, perpetrated for profit or to gain some unfair or dishonest advantage.", "S": [], "A": []}

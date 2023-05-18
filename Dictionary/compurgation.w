@@ -1,0 +1,1 @@
+{"index": 64964, "D": "an early common-law method of trial in which the defendant is acquitted on the sworn endorsement of a specified number of friends or neighbors.", "S": ["forgiveness "], "A": []}

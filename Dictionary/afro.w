@@ -1,0 +1,1 @@
+{"index": 5605, "D": "a hairstyle originating with Black people, in which naturally curly or frizzy hair is cut into a full, bushy shape all over the head.", "S": ["curly hair ", "fro "], "A": []}

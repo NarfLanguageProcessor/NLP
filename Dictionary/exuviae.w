@@ -1,0 +1,1 @@
+{"index": 108851, "D": "the cast skins, shells, or other coverings of animals.", "S": [], "A": []}

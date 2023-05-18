@@ -1,0 +1,1 @@
+{"index": 138416, "D": "any shrub belonging to the genus Hydrangea, of the saxifrage family, several species of which are cultivated for their large, showy flower clusters of white, pink, or blue.", "S": [], "A": []}

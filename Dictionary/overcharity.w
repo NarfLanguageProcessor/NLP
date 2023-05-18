@@ -1,0 +1,1 @@
+{"index": 218566, "D": "generous actions or donations to aid people who are poor, ill, or needy", "S": [], "A": []}

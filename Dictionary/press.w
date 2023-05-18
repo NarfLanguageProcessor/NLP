@@ -1,0 +1,1 @@
+{"index": 249564, "D": "to act upon with steadily applied weight or force.", "S": ["journalist ", "magazine ", "media ", "newsperson ", "publisher ", "reporter ", "writer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 131812, "D": "customary condition or character", "S": [], "A": []}

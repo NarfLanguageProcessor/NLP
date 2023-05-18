@@ -1,0 +1,1 @@
+{"index": 302141, "D": "penetrating; piercing", "S": ["acuminate ", "barbed ", "edged ", "fine ", "gnawing ", "honed ", "horned ", "jagged ", "keen ", "peaked ", "piercing ", "pointed ", "serrated ", "sharpened ", "shooting ", "spiked ", "stinging ", "tapered ", "tapering ", "tined ", "tipped ", "whetted "], "A": ["blunt ", "dull ", "smooth "]}

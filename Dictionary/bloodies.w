@@ -1,0 +1,1 @@
+{"index": 36443, "D": "stained or covered with blood", "S": ["blood-soaked ", "bloodstained ", "gory ", "grisly "], "A": ["pleasing ", "closed ", "shut "]}

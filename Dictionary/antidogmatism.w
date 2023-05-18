@@ -1,0 +1,1 @@
+{"index": 15127, "D": "dogmatic  character; unfounded positiveness in matters of opinion; arrogant assertion of opinions as truths.", "S": [], "A": []}

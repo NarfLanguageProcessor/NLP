@@ -1,0 +1,1 @@
+{"index": 38482, "D": "any of the class of compounds containing the group BH4\u2212, as sodium borohydride, used chiefly as reducing agents.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8455, "D": "a condition of the blood and other body fluids in which the bicarbonate concentration is above normal, tending toward alkalemia.", "S": [], "A": []}

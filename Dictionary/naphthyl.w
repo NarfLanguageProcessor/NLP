@@ -1,0 +1,1 @@
+{"index": 196851, "D": "containing the naphthyl group. ", "S": [], "A": []}

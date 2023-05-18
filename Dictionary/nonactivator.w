@@ -1,0 +1,1 @@
+{"index": 201074, "D": "a person or thing that activates. ", "S": [], "A": []}

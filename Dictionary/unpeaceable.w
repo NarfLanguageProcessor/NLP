@@ -1,0 +1,1 @@
+{"index": 347580, "D": "inclined or disposed to avoid strife or dissension; not argumentative or hostile", "S": [], "A": []}

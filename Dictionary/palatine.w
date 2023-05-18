@@ -1,0 +1,1 @@
+{"index": 223564, "D": "having royal privileges", "S": ["empowered "], "A": ["disadvantageous ", "prevented "]}

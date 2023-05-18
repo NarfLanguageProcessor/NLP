@@ -1,0 +1,1 @@
+{"index": 245564, "D": "the period preceding adolescence,  usually designated as the years from 10 to 13.", "S": ["adolescence "], "A": ["adulthood "]}

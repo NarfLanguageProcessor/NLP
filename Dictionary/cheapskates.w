@@ -1,0 +1,1 @@
+{"index": 53281, "D": "a person who is stingy and miserly.", "S": ["Scrooge ", "skinflint ", "tightwad "], "A": []}

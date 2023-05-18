@@ -1,0 +1,1 @@
+{"index": 285470, "D": "pertaining to or of the nature of a sentence. ", "S": [], "A": []}

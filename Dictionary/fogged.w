@@ -1,0 +1,1 @@
+{"index": 115763, "D": "affected or obscured by fog", "S": ["cloud ", "gloom ", "smog ", "smoke ", "steam ", "vapor "], "A": []}

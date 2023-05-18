@@ -1,0 +1,1 @@
+{"index": 275273, "D": "(of a boat, ship, or aircraft) lacking a rudder,  the device or structure used to change direction and steer", "S": [], "A": []}

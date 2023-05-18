@@ -1,0 +1,1 @@
+{"index": 288792, "D": "to hit, wound, damage, kill, or destroy with a missile discharged from a weapon.", "S": ["blast ", "execute ", "explode ", "fire ", "hit ", "hurl ", "kill ", "launch ", "murder ", "open fire "], "A": ["bear ", "create ", "fail ", "conceal ", "hold ", "keep ", "withhold "]}

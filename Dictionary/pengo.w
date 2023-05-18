@@ -1,0 +1,1 @@
+{"index": 229633, "D": "a former silver coin and monetary unit of Hungary, equal to 100 fill\u00e9r", "S": [], "A": []}

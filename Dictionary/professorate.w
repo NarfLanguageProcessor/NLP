@@ -1,0 +1,1 @@
+{"index": 251723, "D": "the office or the period of service of a professor. ", "S": ["captain ", "chairperson ", "director ", "fellowship ", "helm ", "instructorship ", "leader ", "monitor ", "principal ", "professorship ", "throne ", "tutor ", "tutorship "], "A": []}

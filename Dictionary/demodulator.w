@@ -1,0 +1,1 @@
+{"index": 80749, "D": "to extract the original information-bearing signal from a modulated  carrier wave or signal; detect.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307970, "D": "sickle-shaped; falcate.", "S": [], "A": []}

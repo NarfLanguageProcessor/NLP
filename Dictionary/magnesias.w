@@ -1,0 +1,1 @@
+{"index": 177485, "D": "a white, tasteless substance, magnesium oxide,  MgO, used in medicine as an antacid and laxative.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 220454, "D": "a road, pedestrian walkway, railroad, bridge, etc., crossing over some barrier, as another road or walkway.", "S": ["bypass ", "discard ", "disregard ", "overlook "], "A": ["attend ", "regard ", "respect ", "advance ", "complete ", "continue ", "do ", "expedite ", "face ", "finish ", "forward ", "maintain ", "meet ", "take on "]}

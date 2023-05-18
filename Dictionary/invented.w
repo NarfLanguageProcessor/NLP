@@ -1,0 +1,1 @@
+{"index": 157088, "D": "to originate or create as a product of one's own ingenuity, experimentation, or contrivance", "S": ["assumed ", "created ", "fabricated ", "fanciful ", "fictional ", "imaginary ", "imagined ", "made-up ", "simulated ", "unreal "], "A": ["genuine ", "real ", "true ", "truthful "]}

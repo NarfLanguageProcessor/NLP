@@ -1,0 +1,1 @@
+{"index": 285208, "D": "a Latin verse of six feet, especially an iambic trimeter.", "S": [], "A": []}

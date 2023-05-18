@@ -1,0 +1,1 @@
+{"index": 74167, "D": "a small particle of bread, cake, etc., that has broken off.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125341, "D": "the elongated stalk of a pistil.", "S": [], "A": []}

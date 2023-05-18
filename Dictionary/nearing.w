@@ -1,0 +1,1 @@
+{"index": 197609, "D": "close; to a point or place not far away", "S": ["advancing ", "approximating ", "coming ", "impending ", "threatening "], "A": ["departing ", "gone ", "leaving ", "past "]}

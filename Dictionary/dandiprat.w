@@ -1,0 +1,1 @@
+{"index": 76720, "D": "a silver coin of 16th-century England, equal to about twopence.", "S": [], "A": []}

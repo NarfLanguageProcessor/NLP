@@ -1,0 +1,1 @@
+{"index": 78079, "D": "to remove carbon from (molten steel, automobile cylinders, etc.).", "S": [], "A": []}

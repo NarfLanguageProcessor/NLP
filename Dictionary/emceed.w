@@ -1,0 +1,1 @@
+{"index": 98408, "D": "master of ceremonies. ", "S": ["preside "], "A": ["cease ", "follow ", "halt ", "idle ", "mismanage ", "neglect ", "obey ", "refrain ", "stop "]}

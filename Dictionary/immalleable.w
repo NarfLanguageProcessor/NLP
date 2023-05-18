@@ -1,0 +1,1 @@
+{"index": 147836, "D": [], "S": ["rigid "], "A": ["bendable ", "elastic ", "flexible ", "pliable ", "pliant ", "reasonable ", "resilient ", "soft ", "willing ", "yielding "]}

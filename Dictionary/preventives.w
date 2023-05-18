@@ -1,0 +1,1 @@
+{"index": 250171, "D": "of or noting a drug, vaccine, etc., for preventing  disease; prophylactic.", "S": ["difficulty ", "drawback ", "handicap ", "hindrance ", "hurdle ", "impediment ", "obstacle ", "restraint ", "restriction ", "stumbling block "], "A": ["advantage ", "aid ", "assistance ", "benefit ", "freedom ", "help "]}

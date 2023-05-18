@@ -1,0 +1,1 @@
+{"index": 306132, "D": "an activity, event, or other stimulus that causes stress. ", "S": ["aggravation ", "annoyance "], "A": ["convenience ", "pleasure "]}

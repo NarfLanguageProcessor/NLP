@@ -1,0 +1,1 @@
+{"index": 175852, "D": "having no luck;  unfortunate; hapless; ill-fated; turning out or ending disastrously", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152822, "D": "an introductory act or step; leading action", "S": [], "A": []}

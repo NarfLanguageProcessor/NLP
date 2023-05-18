@@ -1,0 +1,1 @@
+{"index": 58357, "D": "a cloud of a class characterized by a composition of ice crystals and often by the production of halo phenomena and appearing as a whitish and usually somewhat fibrous veil, often covering the whole sky and sometimes so thin as to be hardly discernible", "S": [], "A": []}

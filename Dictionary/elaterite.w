@@ -1,0 +1,1 @@
+{"index": 96787, "D": "an elastic, rubbery, brownish natural asphalt.", "S": [], "A": []}

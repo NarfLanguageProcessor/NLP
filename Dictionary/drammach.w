@@ -1,0 +1,1 @@
+{"index": 92684, "D": "an uncooked mixture of meal, usually oatmeal, and cold water.", "S": [], "A": []}

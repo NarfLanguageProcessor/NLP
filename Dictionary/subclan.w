@@ -1,0 +1,1 @@
+{"index": 307447, "D": "a group of families or households, as among the Scottish Highlanders, the heads of which claim descent from a common ancestor", "S": [], "A": []}

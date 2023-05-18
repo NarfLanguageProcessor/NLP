@@ -1,0 +1,1 @@
+{"index": 195787, "D": "a mineral or stone used in ancient Rome for making fine vases, cups, etc.", "S": [], "A": []}

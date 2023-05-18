@@ -1,0 +1,1 @@
+{"index": 78842, "D": "extending down the stem below the place of insertion, as certain leaves.", "S": [], "A": []}

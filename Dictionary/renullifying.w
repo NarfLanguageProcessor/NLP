@@ -1,0 +1,1 @@
+{"index": 267787, "D": "to render or declare legally void or inoperative", "S": [], "A": []}

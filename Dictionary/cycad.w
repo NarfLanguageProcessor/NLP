@@ -1,0 +1,1 @@
+{"index": 56973, "D": "any gymnospermous plant of the order Cycadales, intermediate in appearance between ferns and the palms, many species having a thick, unbranched, columnar trunk bearing a crown of large, leathery, pinnate leaves.", "S": [], "A": []}

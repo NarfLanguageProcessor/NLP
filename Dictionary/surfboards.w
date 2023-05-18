@@ -1,0 +1,1 @@
+{"index": 313400, "D": "a long, narrow board  on which a person stands or lies prone in surfboarding. ", "S": [], "A": []}

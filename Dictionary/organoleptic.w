@@ -1,0 +1,1 @@
+{"index": 214431, "D": "perceived by a sense organ.", "S": [], "A": []}

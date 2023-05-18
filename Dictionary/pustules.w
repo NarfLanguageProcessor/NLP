@@ -1,0 +1,1 @@
+{"index": 257256, "D": "a small elevation of the skin containing pus.", "S": ["blackheads ", "pimples ", "rosacea ", "whiteheads ", "zits "], "A": []}

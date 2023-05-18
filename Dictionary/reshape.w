@@ -1,0 +1,1 @@
+{"index": 269280, "D": "to shape  again or into different form.", "S": ["adjust ", "amend ", "change ", "develop ", "modify ", "revamp ", "revise ", "shift ", "transform ", "vary "], "A": ["leave alone ", "remain ", "stagnate ", "stay "]}

@@ -1,0 +1,1 @@
+{"index": 352746, "D": "to irritate or provoke with persistent petty distractions, trifling jests, or other annoyances, often in a playful way", "S": [], "A": []}

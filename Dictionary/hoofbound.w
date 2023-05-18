@@ -1,0 +1,1 @@
+{"index": 143515, "D": "(of horses and other hoofed animals) having the heels of the hoofs  dry and contracted, causing lameness.", "S": [], "A": []}

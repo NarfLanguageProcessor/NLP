@@ -1,0 +1,1 @@
+{"index": 321645, "D": "the possessive case of thou (used as an attributive adjective before a noun beginning with a consonant sound)", "S": [], "A": []}

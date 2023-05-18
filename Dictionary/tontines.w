@@ -1,0 +1,1 @@
+{"index": 325678, "D": "an annuity scheme in which subscribers share a common fund with the benefit of survivorship, the survivors' shares being increased as the subscribers die, until the whole goes to the last survivor.", "S": ["grab barrel ", "grab box ", "mixed bag ", "ragbag "], "A": []}

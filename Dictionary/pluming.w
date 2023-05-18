@@ -1,0 +1,1 @@
+{"index": 240450, "D": "a feather.", "S": ["boast ", "brag ", "congratulate ", "crow ", "exult ", "felicitate ", "gasconade ", "overbear ", "pique ", "prance ", "preen ", "presume ", "strut ", "swagger ", "swell ", "vaunt "], "A": ["deprecate "]}

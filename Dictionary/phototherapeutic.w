@@ -1,0 +1,1 @@
+{"index": 235425, "D": "the branch of therapeutics  that deals with the curative use of light rays.", "S": [], "A": []}

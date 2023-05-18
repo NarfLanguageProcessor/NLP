@@ -1,0 +1,1 @@
+{"index": 275704, "D": "an animal that is small or stunted as compared with others of its kind.", "S": ["dwarf ", "dwarfed ", "scrub ", "short ", "shot ", "shrimp ", "wee "], "A": ["large "]}

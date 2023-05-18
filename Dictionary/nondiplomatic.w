@@ -1,0 +1,1 @@
+{"index": 203117, "D": "of, relating to, or engaged in diplomacy", "S": [], "A": []}

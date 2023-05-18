@@ -1,0 +1,1 @@
+{"index": 177732, "D": "any of several trees of the genus Madhuca, of the sapodilla family, native to India, the Malay Peninsula, and southeastern Asia, especially M. latifolia, the flowers of which are used, fresh or dried, for food or are fermented to prepare an intoxicating drink.", "S": [], "A": []}

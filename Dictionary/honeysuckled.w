@@ -1,0 +1,1 @@
+{"index": 143380, "D": "any of numerous North American and Eurasian shrubs or twining vines of the honeysuckle family  (Caprifoliaceae), many species of which are hardy climbers known for their highly fragrant tubular flowers, especially those of genus Lonicera.", "S": [], "A": []}

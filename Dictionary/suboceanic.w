@@ -1,0 +1,1 @@
+{"index": 308659, "D": "occurring or existing below the floor of the ocean", "S": [], "A": []}

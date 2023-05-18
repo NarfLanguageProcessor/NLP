@@ -1,0 +1,1 @@
+{"index": 27287, "D": "a headband, especially one worn about the forehead.", "S": ["line ", "ring ", "tape "], "A": ["whole "]}

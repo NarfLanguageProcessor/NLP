@@ -1,0 +1,1 @@
+{"index": 211657, "D": "a license permitting the sale of sealed bottles of alcoholic beverages to be taken away from the premises by the purchaser.", "S": [], "A": []}

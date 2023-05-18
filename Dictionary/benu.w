@@ -1,0 +1,1 @@
+{"index": 31712, "D": "the sacred bird of ancient Egypt, corresponding to the phoenix.", "S": [], "A": []}

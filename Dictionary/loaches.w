@@ -1,0 +1,1 @@
+{"index": 174068, "D": "any of several slender European and Asian fishes of the family Cobitidae and related families, having several barbels around the mouth.", "S": [], "A": []}

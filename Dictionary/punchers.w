@@ -1,0 +1,1 @@
+{"index": 256561, "D": "a thrusting blow, especially with the fist.", "S": [], "A": []}

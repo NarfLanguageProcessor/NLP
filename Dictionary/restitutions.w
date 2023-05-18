@@ -1,0 +1,1 @@
+{"index": 269954, "D": "reparation made by giving an equivalent or compensation for loss, damage, or injury caused; indemnification.", "S": ["indemnity ", "payment ", "rebate ", "redress ", "refund ", "reimbursement ", "reparation ", "restoration "], "A": ["dissatisfaction ", "fee ", "penalty ", "taking "]}

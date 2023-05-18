@@ -1,0 +1,1 @@
+{"index": 205545, "D": "bound by law or regulation, moral principle, duty, etc.; obliged", "S": [], "A": []}

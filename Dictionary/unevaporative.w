@@ -1,0 +1,1 @@
+{"index": 341565, "D": "the act or process of evaporating. ", "S": [], "A": []}

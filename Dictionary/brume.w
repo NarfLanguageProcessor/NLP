@@ -1,0 +1,1 @@
+{"index": 41752, "D": "mist; fog.", "S": ["mist ", "vapors "], "A": []}

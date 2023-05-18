@@ -1,0 +1,1 @@
+{"index": 326541, "D": "people, esp women, collectively considered as sexual objects", "S": [], "A": []}

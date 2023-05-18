@@ -1,0 +1,1 @@
+{"index": 92037, "D": "an American infantryman, especially in World War I.", "S": ["GI Joe ", "army personnel ", "enlisted person ", "serviceperson "], "A": []}

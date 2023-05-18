@@ -1,0 +1,1 @@
+{"index": 33163, "D": "having two ringlike bands, as of color.", "S": [], "A": []}

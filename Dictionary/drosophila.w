@@ -1,0 +1,1 @@
+{"index": 93400, "D": "a fly of the genus Drosophila, especially D. melanogaster, used in laboratory studies of genetics and development.", "S": [], "A": []}

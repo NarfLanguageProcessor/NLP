@@ -1,0 +1,1 @@
+{"index": 272723, "D": "the vine bearing this grape, grown in Europe and California.", "S": ["Gewurztraminer ", "Liebfraumilch ", "Moselle ", "Orvieto ", "Rhine ", "asti spumante ", "chablis ", "chardonnay ", "chenin blanc ", "osso buco "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336403, "D": "the quality of being insensitive, indifferent, or unsympathetic; hardness of heart", "S": [], "A": []}

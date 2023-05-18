@@ -1,0 +1,1 @@
+{"index": 130703, "D": "a wild South American ruminant, Lama guanicoe, of which the llama and alpaca are believed to be domesticated varieties", "S": [], "A": []}

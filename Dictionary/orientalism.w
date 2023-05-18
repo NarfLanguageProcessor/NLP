@@ -1,0 +1,1 @@
+{"index": 214544, "D": "a peculiarity or idiosyncrasy of the peoples of Asia, especially the East.", "S": [], "A": []}

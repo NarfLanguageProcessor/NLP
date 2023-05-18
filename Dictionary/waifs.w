@@ -1,0 +1,1 @@
+{"index": 361968, "D": "a person, especially a child, who has no home or friends.", "S": ["castaway ", "dogie ", "drop ", "fetch ", "flotsam ", "foundling ", "jetsam ", "orphan ", "ragamuffin ", "stray ", "urchin "], "A": []}

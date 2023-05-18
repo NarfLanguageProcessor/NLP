@@ -1,0 +1,1 @@
+{"index": 51440, "D": "Compare somatotonia, viscerotonia", "S": [], "A": []}

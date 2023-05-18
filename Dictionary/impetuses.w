@@ -1,0 +1,1 @@
+{"index": 148685, "D": "a moving force; impulse; stimulus", "S": ["catalyst ", "impulse ", "incentive ", "momentum ", "motivation ", "stimulant "], "A": ["block ", "discouragement "]}

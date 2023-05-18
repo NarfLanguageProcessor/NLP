@@ -1,0 +1,1 @@
+{"index": 109576, "D": "a person who destroys another's reputation; a defamer or slanderer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310359, "D": "having long, narrow grooves or channels, as plant stems, or being furrowed or cleft, as hoofs.", "S": [], "A": []}

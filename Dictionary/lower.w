@@ -1,0 +1,1 @@
+{"index": 175623, "D": "to cause to descend; let or put down", "S": ["curtailed ", "decreased ", "diminished ", "junior ", "lessened ", "low ", "minor ", "reduced ", "secondary ", "subordinate "], "A": ["elevated ", "important ", "increased ", "major ", "superior "]}

@@ -1,0 +1,1 @@
+{"index": 64794, "D": "the act of combining parts or elements to form a whole.", "S": ["architecture ", "balance ", "beauty ", "configuration ", "content ", "design ", "distribution ", "formation ", "harmony ", "layout ", "rhythm ", "style "], "A": ["disproportion ", "imbalance ", "disagreement ", "discord ", "unevenness "]}

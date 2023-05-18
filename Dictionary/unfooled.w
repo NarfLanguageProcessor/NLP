@@ -1,0 +1,1 @@
+{"index": 342481, "D": "a silly or stupid person; a person who lacks judgment or sense.", "S": [], "A": []}

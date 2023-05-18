@@ -1,0 +1,1 @@
+{"index": 231049, "D": "the border or outer boundary of a two-dimensional figure.", "S": [], "A": []}

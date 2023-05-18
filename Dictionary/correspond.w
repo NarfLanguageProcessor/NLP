@@ -1,0 +1,1 @@
+{"index": 69656, "D": "to be in agreement or conformity (often followed by with or to)", "S": ["coincide ", "compare ", "conform ", "correlate ", "dovetail ", "harmonize ", "resemble ", "tally "], "A": ["clash ", "deviate ", "differ ", "disagree ", "disconnect ", "fight ", "mismatch ", "deny ", "refuse "]}

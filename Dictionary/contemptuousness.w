@@ -1,0 +1,1 @@
+{"index": 67357, "D": "showing or expressing contempt  or disdain; scornful; disrespectful.", "S": ["aloofness ", "chutzpah ", "disdain ", "ego ", "egotism ", "hubris ", "pretension ", "pride ", "smugness ", "vanity "], "A": ["humility ", "modesty ", "carefulness ", "caution ", "meekness ", "shyness ", "timidity "]}

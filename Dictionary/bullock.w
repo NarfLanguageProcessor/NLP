@@ -1,0 +1,1 @@
+{"index": 42618, "D": "a castrated bull; steer. ", "S": [], "A": []}

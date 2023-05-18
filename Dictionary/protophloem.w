@@ -1,0 +1,1 @@
+{"index": 253790, "D": "the part of the primary phloem  that develops first, consisting of narrow, thin-walled cells.", "S": [], "A": []}

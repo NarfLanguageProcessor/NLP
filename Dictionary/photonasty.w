@@ -1,0 +1,1 @@
+{"index": 235272, "D": "a nastic movement in response to a change in light intensity", "S": [], "A": []}

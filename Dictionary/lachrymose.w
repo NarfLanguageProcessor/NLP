@@ -1,0 +1,1 @@
+{"index": 166912, "D": "suggestive of or tending to cause tears; mournful. ", "S": ["sad ", "tearful ", "teary ", "weeping ", "weepy "], "A": []}

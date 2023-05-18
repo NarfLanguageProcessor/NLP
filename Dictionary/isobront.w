@@ -1,0 +1,1 @@
+{"index": 158794, "D": "a line on a weather map or chart connecting various points where a given phase of thunderstorm activity occurred simultaneously.", "S": [], "A": []}

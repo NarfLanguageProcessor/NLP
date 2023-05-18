@@ -1,0 +1,1 @@
+{"index": 168868, "D": "a reddish ferruginous soil formed in tropical regions by the decomposition of the underlying rocks.", "S": [], "A": []}

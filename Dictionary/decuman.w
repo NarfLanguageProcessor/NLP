@@ -1,0 +1,1 @@
+{"index": 78816, "D": "large or immense, as a wave.", "S": [], "A": []}

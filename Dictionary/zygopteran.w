@@ -1,0 +1,1 @@
+{"index": 369268, "D": "belonging or pertaining to the suborder Zygoptera, comprising the damselflies.", "S": [], "A": []}

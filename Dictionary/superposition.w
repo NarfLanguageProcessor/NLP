@@ -1,0 +1,1 @@
+{"index": 312439, "D": "the order in which sedimentary strata are superposed  one above another.", "S": [], "A": []}

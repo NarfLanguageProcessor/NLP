@@ -1,0 +1,1 @@
+{"index": 258789, "D": "a colorless, crystalline, water-soluble powder, C8H6N2, used chiefly in organic synthesis.", "S": [], "A": []}

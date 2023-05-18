@@ -1,0 +1,1 @@
+{"index": 114693, "D": "frivolously disrespectful, shallow, or lacking in seriousness; characterized by levity", "S": [], "A": []}

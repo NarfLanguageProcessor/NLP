@@ -1,0 +1,1 @@
+{"index": 244559, "D": "of, relating to, or caused by vaccine or vaccination.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139375, "D": "a present participle of hie. ", "S": ["expedite ", "hurry ", "rush ", "scurry ", "speed "], "A": ["dawdle ", "delay ", "halt ", "slow "]}

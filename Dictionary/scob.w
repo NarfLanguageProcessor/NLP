@@ -1,0 +1,1 @@
+{"index": 281041, "D": [], "S": ["dregs ", "impurity ", "lees ", "refuse ", "scoria ", "scum ", "sediment ", "slag ", "trash ", "waste "], "A": ["assets ", "possessions "]}

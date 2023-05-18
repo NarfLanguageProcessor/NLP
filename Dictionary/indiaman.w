@@ -1,0 +1,1 @@
+{"index": 150875, "D": "(formerly) a large merchant ship engaged in trade with India", "S": [], "A": []}

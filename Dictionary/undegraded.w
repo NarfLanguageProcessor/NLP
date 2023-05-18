@@ -1,0 +1,1 @@
+{"index": 338634, "D": "reduced in rank, position, reputation, etc.", "S": [], "A": []}

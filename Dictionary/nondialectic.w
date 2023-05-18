@@ -1,0 +1,1 @@
+{"index": 203042, "D": "of, relating to, or of the nature of logical argumentation.", "S": [], "A": []}

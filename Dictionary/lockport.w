@@ -1,0 +1,1 @@
+{"index": 174384, "D": "a city in W New York, on the New York State Barge Canal.", "S": [], "A": []}

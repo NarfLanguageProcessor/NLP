@@ -1,0 +1,1 @@
+{"index": 259416, "D": "to impose a racial interpretation on; place in a racial context.", "S": [], "A": []}

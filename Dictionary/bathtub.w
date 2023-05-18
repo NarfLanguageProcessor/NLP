@@ -1,0 +1,1 @@
+{"index": 29008, "D": "a tub  to bathe in, especially one that is a permanent fixture in a bathroom.", "S": [], "A": []}

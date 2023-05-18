@@ -1,0 +1,1 @@
+{"index": 226935, "D": "to take or have a part or share along with others; participate (usually followed by in)", "S": ["caller ", "client ", "companion ", "customer ", "inmate ", "patron ", "recipient ", "tenant ", "vacationer ", "visitor "], "A": ["enemy ", "manager ", "opponent ", "owner "]}

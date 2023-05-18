@@ -1,0 +1,1 @@
+{"index": 297082, "D": "any of the longitudinal series of segments or parts into which the body of certain animals is divided; a metamere.", "S": [], "A": []}

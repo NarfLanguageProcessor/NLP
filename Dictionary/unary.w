@@ -1,0 +1,1 @@
+{"index": 335209, "D": "pertaining to a function whose domain is a given set and whose range is contained in that set.", "S": [], "A": []}

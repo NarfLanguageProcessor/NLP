@@ -1,0 +1,1 @@
+{"index": 175357, "D": "(of a material or transmission line) causing appreciable loss  or dissipation of energy.", "S": [], "A": []}

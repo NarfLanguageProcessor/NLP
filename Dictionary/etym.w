@@ -1,0 +1,1 @@
+{"index": 105157, "D": "etymological.", "S": [], "A": []}

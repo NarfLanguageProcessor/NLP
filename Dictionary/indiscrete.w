@@ -1,0 +1,1 @@
+{"index": 151074, "D": "not discrete; not divided into parts.", "S": ["flawless ", "perfect ", "unblemished ", "unbroken ", "unharmed ", "unhurt ", "unscathed ", "untouched "], "A": ["broken ", "damaged ", "flawed ", "harmed ", "hurt ", "imperfect ", "injured "]}

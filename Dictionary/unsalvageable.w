@@ -1,0 +1,1 @@
+{"index": 350288, "D": "able to be saved from ruin or failure; recoverable or redeemable", "S": [], "A": []}

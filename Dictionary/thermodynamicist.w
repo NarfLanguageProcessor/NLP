@@ -1,0 +1,1 @@
+{"index": 321391, "D": "the science concerned with the relations between heat and mechanical energy or work, and the conversion of one into the other", "S": [], "A": []}

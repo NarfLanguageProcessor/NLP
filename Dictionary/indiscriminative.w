@@ -1,0 +1,1 @@
+{"index": 151088, "D": "an act or instance of not discriminating.", "S": [], "A": []}

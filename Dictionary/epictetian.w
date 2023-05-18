@@ -1,0 +1,1 @@
+{"index": 102330, "D": "Greek Stoic philosopher and teacher, mainly in Rome.", "S": [], "A": []}

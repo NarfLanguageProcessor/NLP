@@ -1,0 +1,1 @@
+{"index": 2806, "D": "sharp or biting to the taste or smell; bitterly pungent; irritating to the eyes, nose, etc.", "S": ["pungent ", "stinging "], "A": ["complimentary ", "delicious ", "kind ", "nice ", "savory ", "sweet "]}

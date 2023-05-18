@@ -1,0 +1,1 @@
+{"index": 151623, "D": "noting a case, as in Finnish, whose distinctive function is to indicate place in or within which.", "S": [], "A": []}

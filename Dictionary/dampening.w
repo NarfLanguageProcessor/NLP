@@ -1,0 +1,1 @@
+{"index": 76626, "D": "to make damp; moisten", "S": ["bleak ", "depressing ", "disappointing ", "disheartening ", "dismal ", "dispiriting ", "dreary ", "gloomy "], "A": ["bright ", "cheerful ", "encouraging ", "happy ", "light ", "pleasant ", "sunny "]}

@@ -1,0 +1,1 @@
+{"index": 184727, "D": "to provide (a metal or alloy) with a diffused coating of a metal or metalloid by electrolysis at high temperature in order to impart a particular surface property to the base metal.", "S": [], "A": []}

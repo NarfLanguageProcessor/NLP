@@ -1,0 +1,1 @@
+{"index": 49241, "D": "an enzyme that decomposes hydrogen peroxide into oxygen and water.", "S": [], "A": []}

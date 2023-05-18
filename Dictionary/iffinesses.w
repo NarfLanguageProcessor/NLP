@@ -1,0 +1,1 @@
+{"index": 146991, "D": "full of unresolved points or questions", "S": ["doubt ", "hesitancy ", "hesitation ", "indecision ", "uncertainty "], "A": ["certainty ", "sureness "]}

@@ -1,0 +1,1 @@
+{"index": 229852, "D": "a pipe conducting water from a head gate to a waterwheel.", "S": [], "A": []}

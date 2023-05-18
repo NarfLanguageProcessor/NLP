@@ -1,0 +1,1 @@
+{"index": 238765, "D": "an area used for recreation or amusement; playground or amusement park.", "S": [], "A": []}

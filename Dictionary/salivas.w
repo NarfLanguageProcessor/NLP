@@ -1,0 +1,1 @@
+{"index": 277097, "D": "a viscid, watery fluid, secreted into the mouth by the salivary glands, that functions in the tasting, chewing, and swallowing of food, moistens the mouth, and starts the digestion of starches.", "S": ["dribble ", "drool ", "froth ", "slaver ", "slobber ", "spittle ", "sputum "], "A": []}

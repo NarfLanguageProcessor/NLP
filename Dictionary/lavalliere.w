@@ -1,0 +1,1 @@
+{"index": 169263, "D": "French noblewoman and mistress of Louis XIV of France", "S": ["choker ", "jewelry ", "pendant ", "strand "], "A": []}

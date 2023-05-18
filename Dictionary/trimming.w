@@ -1,0 +1,1 @@
+{"index": 330074, "D": "anything used or serving to decorate or complete", "S": ["decoration ", "frill ", "ornamentation "], "A": ["plainness "]}

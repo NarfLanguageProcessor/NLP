@@ -1,0 +1,1 @@
+{"index": 51470, "D": "a pre-Roman goddess of agriculture under whose name the Romans adopted the worship of the Greek goddess Demeter.", "S": [], "A": []}

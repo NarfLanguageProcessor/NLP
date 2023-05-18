@@ -1,0 +1,1 @@
+{"index": 83913, "D": "a meeting of dervishes at which a phrase containing a name of God is chanted rhythmically to induce a state of ecstasy.", "S": [], "A": []}

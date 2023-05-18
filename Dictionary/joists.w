@@ -1,0 +1,1 @@
+{"index": 161664, "D": "any of a number of small, parallel beams of timber, steel, reinforced concrete, etc., for supporting floors, ceilings, or the like.", "S": ["stud "], "A": []}

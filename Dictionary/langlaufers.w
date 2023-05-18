@@ -1,0 +1,1 @@
+{"index": 168086, "D": "a participant in cross-country skiing.", "S": [], "A": []}

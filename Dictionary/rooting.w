@@ -1,0 +1,1 @@
+{"index": 274322, "D": "a small or newly growing root  of a plant, especially as used in plant propagation", "S": ["acclaim ", "accolade ", "kudos ", "ovation ", "praise ", "standing ovation "], "A": ["blame ", "criticism ", "disapproval "]}

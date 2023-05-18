@@ -1,0 +1,1 @@
+{"index": 347434, "D": "an object, article, container, or quantity of something wrapped or packed up; small package; bundle. ", "S": [], "A": []}

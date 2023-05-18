@@ -1,0 +1,1 @@
+{"index": 9627, "D": "any naturally occurring or synthetically produced aluminum silicate  containing alkali-metal or alkaline-earth-metal ions, as a feldspar, zeolite, or beryl.", "S": [], "A": []}

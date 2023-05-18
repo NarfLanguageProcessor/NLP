@@ -1,0 +1,1 @@
+{"index": 213152, "D": "exuding moisture.", "S": [], "A": []}

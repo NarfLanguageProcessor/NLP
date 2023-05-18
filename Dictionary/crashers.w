@@ -1,0 +1,1 @@
+{"index": 72207, "D": "to make a loud, clattering noise, as of something dashed to pieces.", "S": [], "A": []}

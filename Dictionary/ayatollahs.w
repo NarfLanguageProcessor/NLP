@@ -1,0 +1,1 @@
+{"index": 6695, "D": "(among Shi\u02bfites) a title in the religious hierarchy achieved by scholars who have demonstrated highly advanced knowledge of Islamic law and religion.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82587, "D": "intentionally; purposely; deliberately. ", "S": ["deliberately ", "purposely "], "A": ["unintentionally "]}

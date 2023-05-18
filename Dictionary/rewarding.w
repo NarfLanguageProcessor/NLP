@@ -1,0 +1,1 @@
+{"index": 271577, "D": "affording satisfaction, valuable experience, or the like; worthwhile.", "S": ["advantageous ", "fruitful ", "gratifying ", "productive ", "profitable ", "satisfying ", "valuable ", "worthwhile "], "A": ["impotent ", "unfruitful ", "unproductive ", "valueless ", "worthless "]}

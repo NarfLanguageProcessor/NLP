@@ -1,0 +1,1 @@
+{"index": 166186, "D": "a wild ox, Bos sauveli, weighing as much as 2,000 pounds (907 kilograms), with long legs, a humped back, and distinctive horns that arch forward on the male and spiral upward on the female", "S": [], "A": []}

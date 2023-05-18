@@ -1,0 +1,1 @@
+{"index": 64833, "D": "(formerly in China) a local agent or factotum, as of a foreign business house.", "S": [], "A": []}

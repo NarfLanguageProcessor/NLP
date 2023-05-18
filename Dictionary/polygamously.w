@@ -1,0 +1,1 @@
+{"index": 241879, "D": "of, pertaining to, characterized by, or practicing polygamy;  polygamic.", "S": [], "A": []}

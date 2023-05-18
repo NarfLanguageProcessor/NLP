@@ -1,0 +1,1 @@
+{"index": 321409, "D": "a thermoammeter for measuring small currents, consisting of a thermocouple connected to a direct-current galvanometer. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68225, "D": "to prepare (food) by the use of heat, as by boiling, baking, or roasting.", "S": ["corrected ", "modified ", "transformed ", "updated "], "A": ["unqualified "]}

@@ -1,0 +1,1 @@
+{"index": 223929, "D": "of or containing palladium,  especially in the tetravalent state.", "S": [], "A": []}

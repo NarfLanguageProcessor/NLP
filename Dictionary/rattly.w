@@ -1,0 +1,1 @@
+{"index": 261181, "D": "tending to rattle;  making or having a rattling  sound.", "S": [], "A": []}

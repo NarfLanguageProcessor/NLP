@@ -1,0 +1,1 @@
+{"index": 277720, "D": "a bag  filled with sand,  used in fortification, as ballast, etc.", "S": ["bandit ", "burglar ", "con artist ", "crook ", "looter ", "marauder ", "mugger ", "pickpocket ", "pirate ", "raider ", "rustler ", "shoplifter ", "swindler ", "thief ", "thug "], "A": ["law ", "police "]}

@@ -1,0 +1,1 @@
+{"index": 144844, "D": "characterized by tenderness, compassion, and sympathy for people and animals, especially for the suffering or distressed", "S": ["affectionately ", "delicately ", "generously ", "genially ", "graciously ", "helpfully ", "politely ", "sympathetically ", "tenderly ", "thoughtfully "], "A": ["inconsiderately ", "unkindly "]}

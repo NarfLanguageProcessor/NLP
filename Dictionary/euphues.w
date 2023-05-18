@@ -1,0 +1,1 @@
+{"index": 105677, "D": "the main character in John Lyly's works Euphues, the Anatomy of Wit (1579), and Euphues and His England (1580).", "S": [], "A": []}

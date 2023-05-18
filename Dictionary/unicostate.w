@@ -1,0 +1,1 @@
+{"index": 344034, "D": "having only one costa, rib, or ridge.", "S": [], "A": []}

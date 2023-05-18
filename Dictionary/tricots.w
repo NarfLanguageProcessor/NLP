@@ -1,0 +1,1 @@
+{"index": 329628, "D": "a warp-knit fabric of various natural or synthetic fibers, as wool, silk, or nylon, having fine vertical ribs on the face and horizontal ribs on the back, used especially for making garments.", "S": [], "A": []}

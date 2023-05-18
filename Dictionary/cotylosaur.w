@@ -1,0 +1,1 @@
+{"index": 70354, "D": "any member of the extinct order Cotylosauria, comprising heavy-bodied, splay-limbed, plant-eating reptiles that arose during the Carboniferous Period and that are considered to include the ancestors of all other reptiles.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237769, "D": "pertaining to or producing chemical  change at high temperatures.", "S": [], "A": []}

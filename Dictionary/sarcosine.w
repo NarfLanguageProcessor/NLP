@@ -1,0 +1,1 @@
+{"index": 278418, "D": "a crystalline compound, C3H7NO2, with a sweet taste, soluble in water, slightly soluble in alcohol", "S": [], "A": []}

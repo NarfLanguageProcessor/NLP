@@ -1,0 +1,1 @@
+{"index": 79272, "D": "an agent or device for arresting fibrillation  of the atrial or ventricular muscles of the heart.", "S": [], "A": []}

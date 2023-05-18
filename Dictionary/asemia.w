@@ -1,0 +1,1 @@
+{"index": 21085, "D": "inability to comprehend or use communicative symbols, as words or gestures.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 142150, "D": "Rolf (r\u0254lf). born 1933, Swiss dramatist. His best-known works are the controversial documentary drama The Representative (1963), on the papacy's attitude to the Jews in World War II, Soldiers (1967), German Love Story (1980), and Wessis in Weimar (1992)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 193404, "D": "a small spotted owl, Ninox novaeseelandiae, of Australia and New Zealand", "S": [], "A": []}

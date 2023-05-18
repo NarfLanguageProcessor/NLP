@@ -1,0 +1,1 @@
+{"index": 229049, "D": "a wedgelike, spherical, or other striking end of a hammer head opposite the face.", "S": [], "A": []}

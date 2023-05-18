@@ -1,0 +1,1 @@
+{"index": 225778, "D": "argument violating principles of valid reasoning.", "S": ["ambiguity ", "casuistry ", "fallacy ", "inconsistency ", "trickery "], "A": ["certainty "]}

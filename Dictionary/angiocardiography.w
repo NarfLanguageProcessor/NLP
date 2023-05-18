@@ -1,0 +1,1 @@
+{"index": 12744, "D": "x-ray examination of the heart and its blood vessels following intravenous injection of radiopaque fluid; coronary angiography.", "S": [], "A": []}

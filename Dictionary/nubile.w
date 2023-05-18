@@ -1,0 +1,1 @@
+{"index": 209283, "D": "(of a young woman) suitable for marriage, especially in regard to age or physical development; marriageable. ", "S": ["espousal ", "hymeneal ", "nuptial ", "spousal "], "A": ["divorce "]}

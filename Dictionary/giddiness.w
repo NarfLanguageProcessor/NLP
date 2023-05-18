@@ -1,0 +1,1 @@
+{"index": 124730, "D": "unrestrained high spirits", "S": ["disequilibrium ", "lightheadedness ", "shakiness ", "unsteadiness ", "vertigo "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237492, "D": "the center of the reticule of a gunsight.", "S": [], "A": []}

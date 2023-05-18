@@ -1,0 +1,1 @@
+{"index": 96725, "D": "any of numerous cosmopolitan snakes of the family Elapidae, having permanently erect fangs in the front of the upper jaw and including the New World coral snakes, the cobras, and most Australian snakes.", "S": [], "A": []}

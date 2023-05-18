@@ -1,0 +1,1 @@
+{"index": 148440, "D": "impending. ", "S": ["blackmail ", "hazard ", "intimidation ", "menace ", "peril ", "risk "], "A": ["certainty ", "safety ", "surety "]}

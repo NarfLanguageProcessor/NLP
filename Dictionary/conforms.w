@@ -1,0 +1,1 @@
+{"index": 66036, "D": "to act in accordance or harmony; comply (usually followed by to)", "S": ["accommodate ", "attune ", "comply ", "coordinate ", "fit ", "harmonize ", "integrate ", "reconcile ", "tailor ", "yield "], "A": ["deny ", "disagree ", "oppose ", "prevent ", "refuse ", "reject ", "disobey ", "disregard ", "forget ", "ignore ", "neglect "]}

@@ -1,0 +1,1 @@
+{"index": 98992, "D": "conferring additional legal powers or capacities, especially by removing a barrier to action, suspending required permission, or relaxing oversight", "S": ["permissive "], "A": ["disabling "]}

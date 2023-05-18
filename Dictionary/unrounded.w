@@ -1,0 +1,1 @@
+{"index": 350089, "D": "Compare rounded (def. 2), spread (def. 40). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82865, "D": "feeling or showing profound hopelessness, dejection, discouragement, or gloom", "S": ["desperately ", "sadly "], "A": ["confidently ", "expectantly ", "hopefully "]}

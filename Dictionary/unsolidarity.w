@@ -1,0 +1,1 @@
+{"index": 351550, "D": "union or fellowship arising from common responsibilities and interests, as between members of a group or between classes, peoples, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 56212, "D": "the science of colors.", "S": [], "A": []}

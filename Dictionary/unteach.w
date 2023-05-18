@@ -1,0 +1,1 @@
+{"index": 352734, "D": "to cause to be forgotten or disbelieved, as by contrary teaching. ", "S": [], "A": []}

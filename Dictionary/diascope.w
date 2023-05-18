@@ -1,0 +1,1 @@
+{"index": 84519, "D": "an optical projector used to display transparencies", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52123, "D": "a fibrous variety of cuprite.", "S": [], "A": []}

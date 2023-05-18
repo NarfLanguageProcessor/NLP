@@ -1,0 +1,1 @@
+{"index": 206686, "D": "to pay back or refund, as money.", "S": [], "A": []}

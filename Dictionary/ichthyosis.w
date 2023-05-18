@@ -1,0 +1,1 @@
+{"index": 146141, "D": "a hereditary skin disease in which the epidermis continuously flakes off in large scales or plates.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336647, "D": "controlled from one place", "S": [], "A": []}

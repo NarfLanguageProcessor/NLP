@@ -1,0 +1,1 @@
+{"index": 334355, "D": "any material or substance used for grinding, polishing, etc., as emery, pumice, or sandpaper.", "S": [], "A": []}

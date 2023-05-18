@@ -1,0 +1,1 @@
+{"index": 93309, "D": "the male of the honeybee and other bees, stingless and making no honey.", "S": ["dull ", "slow "], "A": ["active ", "intelligent ", "quick ", "smart "]}

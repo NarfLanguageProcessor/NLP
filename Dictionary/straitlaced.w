@@ -1,0 +1,1 @@
+{"index": 305716, "D": "excessively strict in conduct or morality; puritanical; prudish", "S": ["Victorian ", "austere ", "goody-two-shoes ", "old-maidish ", "priggish ", "prim ", "prissy ", "proper ", "prudish ", "puritanical ", "rigid ", "square ", "starchy ", "stiff ", "strict ", "stuffy ", "uptight "], "A": ["permissive "]}

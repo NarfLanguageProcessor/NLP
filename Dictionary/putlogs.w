@@ -1,0 +1,1 @@
+{"index": 257289, "D": "any of a number of short pieces of lumber supporting a scaffold's floor.", "S": [], "A": []}

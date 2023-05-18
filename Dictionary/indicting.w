@@ -1,0 +1,1 @@
+{"index": 150942, "D": "(of a grand jury) to bring a formal accusation against (someone) as a means of bringing a case to trial after ascertaining that there is enough evidence", "S": ["arraign ", "censure ", "charge ", "impeach ", "incriminate ", "prosecute ", "summon "], "A": ["exonerate ", "free "]}

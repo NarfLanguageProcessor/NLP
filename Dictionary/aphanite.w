@@ -1,0 +1,1 @@
+{"index": 16787, "D": "a fine-grained igneous rock having such compact texture that the constituent minerals cannot be detected with the naked eye.", "S": [], "A": []}

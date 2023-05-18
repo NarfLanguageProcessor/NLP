@@ -1,0 +1,1 @@
+{"index": 157139, "D": "noting, pertaining to, or characterized by inversion. ", "S": [], "A": []}

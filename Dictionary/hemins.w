@@ -1,0 +1,1 @@
+{"index": 136220, "D": "the typical, microscopic reddish-brown crystals, C34H32N4O4FeCl, resulting when a sodium chloride crystal, a drop of glacial acetic acid, and some blood are heated on a slide", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 63784, "D": "deserved reward or just deserts, usually unpleasant", "S": ["retribution "], "A": []}

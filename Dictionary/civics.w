@@ -1,0 +1,1 @@
+{"index": 58909, "D": "the study or science of the privileges and obligations of citizens.", "S": ["art of the possible ", "governance ", "government ", "poli-sci ", "political theory ", "politics ", "realpolitik ", "statesmanship "], "A": []}

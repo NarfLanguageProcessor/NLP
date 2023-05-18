@@ -1,0 +1,1 @@
+{"index": 198451, "D": "the theory and practice of thede Stijl  school, chiefly characterized by an emphasis on the formal structure of a work of art, and restriction of spatial or linear relations to vertical and horizontal movements as well as restriction of the artist's palette to black, white, and the primary colors.", "S": [], "A": []}

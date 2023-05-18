@@ -1,0 +1,1 @@
+{"index": 17285, "D": "the point in a lunar orbit that is farthest from the moon.", "S": [], "A": []}

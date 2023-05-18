@@ -1,0 +1,1 @@
+{"index": 355313, "D": "the branch of astronomy concerned with the description and mapping of the heavens, and especially of the fixed stars.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 296996, "D": "(of humans) physical type; physique.", "S": [], "A": []}

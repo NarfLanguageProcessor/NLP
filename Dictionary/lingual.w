@@ -1,0 +1,1 @@
+{"index": 172861, "D": "of or relating to the tongue or some tonguelike part.", "S": ["grammatical "], "A": []}

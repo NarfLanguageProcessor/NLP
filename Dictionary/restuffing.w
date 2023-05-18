@@ -1,0 +1,1 @@
+{"index": 270071, "D": "the material of which anything is made", "S": [], "A": []}

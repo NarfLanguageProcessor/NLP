@@ -1,0 +1,1 @@
+{"index": 196963, "D": "characterized by stupor; stuporous.", "S": [], "A": []}

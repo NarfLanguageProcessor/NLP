@@ -1,0 +1,1 @@
+{"index": 75357, "D": "a person whose hair is curly. ", "S": [], "A": []}

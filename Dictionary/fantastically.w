@@ -1,0 +1,1 @@
+{"index": 109798, "D": "in a fantastic manner", "S": ["abnormally ", "amazingly ", "curiously ", "peculiarly ", "rarely ", "remarkably ", "startlingly ", "strikingly ", "surprisingly ", "uncommonly ", "uniquely ", "unusually "], "A": ["frequently "]}

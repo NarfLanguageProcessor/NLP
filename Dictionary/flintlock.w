@@ -1,0 +1,1 @@
+{"index": 114666, "D": "an outmoded gunlock in which a piece of flint  striking against steel produces sparks that ignite the priming.", "S": ["cannon ", "handgun ", "hardware ", "mortar ", "piece ", "pistol ", "revolver ", "rifle ", "shotgun "], "A": []}

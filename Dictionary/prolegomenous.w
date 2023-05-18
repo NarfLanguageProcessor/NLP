@@ -1,0 +1,1 @@
+{"index": 252074, "D": "prefatory; preliminary; introductory.", "S": ["basic ", "elemental ", "elementary ", "exploratory ", "first ", "fundamental ", "inductive ", "initiatory ", "introductory ", "opening ", "pilot ", "preceding ", "precursory ", "prefatory ", "preparatory ", "preparing ", "primal ", "primary ", "prior ", "qualifying ", "readying ", "test ", "trial "], "A": []}

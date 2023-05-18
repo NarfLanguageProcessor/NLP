@@ -1,0 +1,1 @@
+{"index": 235277, "D": "a neutron  emitted from a nucleus during photodisintegration.", "S": [], "A": []}

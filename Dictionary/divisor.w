@@ -1,0 +1,1 @@
+{"index": 90397, "D": "a number by which another number, the dividend, is divided.", "S": [], "A": []}

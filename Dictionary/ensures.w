@@ -1,0 +1,1 @@
+{"index": 101135, "D": "to secure or guarantee", "S": ["assure ", "establish ", "insure ", "protect ", "provide ", "safeguard ", "secure "], "A": ["endanger ", "harm ", "hurt ", "injure ", "contradict ", "deny ", "forget ", "ignore ", "invalidate ", "neglect ", "reject ", "repudiate ", "veto "]}

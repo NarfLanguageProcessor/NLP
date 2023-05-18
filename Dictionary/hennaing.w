@@ -1,0 +1,1 @@
+{"index": 136588, "D": "an Asian shrub or small tree, Lawsonia inermis, of the loosestrife family, having elliptic leaves and fragrant flowers.", "S": [], "A": []}

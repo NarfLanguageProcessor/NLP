@@ -1,0 +1,1 @@
+{"index": 14477, "D": "a mineral coal containing little of the volatile hydrocarbons and burning almost without flame; hard coal.", "S": [], "A": []}

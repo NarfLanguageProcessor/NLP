@@ -1,0 +1,1 @@
+{"index": 84863, "D": "having the perianth arranged in two whorls; having separate petals and sepals", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229536, "D": "a slender tube of wood, metal, plastic, etc., containing a core or strip of graphite, a solid coloring material, or the like, used for writing or drawing.", "S": ["address ", "compose ", "create ", "draft ", "note ", "pen ", "print ", "record ", "rewrite ", "scrawl ", "scribble ", "sign ", "tell "], "A": ["destroy ", "ignore ", "ruin ", "keep ", "stop "]}

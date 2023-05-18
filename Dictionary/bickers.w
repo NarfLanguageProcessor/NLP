@@ -1,0 +1,1 @@
+{"index": 33434, "D": "to engage in petulant or peevish argument; wrangle", "S": ["disagree ", "quarrel ", "quibble ", "spar ", "squabble ", "wrangle "], "A": ["agree ", "concur ", "make peace "]}

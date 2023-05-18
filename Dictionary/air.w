@@ -1,0 +1,1 @@
+{"index": 6839, "D": "a mixture of nitrogen, oxygen, and minute amounts of other gases that surrounds the earth and forms its atmosphere.", "S": ["atmosphere ", "breeze ", "wind "], "A": []}

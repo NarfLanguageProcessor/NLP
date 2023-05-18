@@ -1,0 +1,1 @@
+{"index": 249243, "D": "(in the early Christian church) an office bearer who exercised teaching, priestly, and administrative functions.", "S": [], "A": []}

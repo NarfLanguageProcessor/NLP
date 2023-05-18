@@ -1,0 +1,1 @@
+{"index": 144887, "D": "of, relating to, characteristic of, or having the nature of people", "S": ["anthropoid ", "anthropomorphous ", "humanoid "], "A": []}

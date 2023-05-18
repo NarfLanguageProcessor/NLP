@@ -1,0 +1,1 @@
+{"index": 290242, "D": "a kingdom in NE India, in the Himalayas between Nepal and Bhutan. 2,740 sq. mi. (7,096 sq. km). Capital", "S": [], "A": []}

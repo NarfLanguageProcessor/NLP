@@ -1,0 +1,1 @@
+{"index": 69918, "D": "a game fish, Menticirrhus undulatus, of the croaker  family, inhabiting Pacific coastal waters of North America. ", "S": [], "A": []}

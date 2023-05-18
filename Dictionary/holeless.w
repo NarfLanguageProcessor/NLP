@@ -1,0 +1,1 @@
+{"index": 142422, "D": "an opening through something; gap; aperture", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35723, "D": "blankets", "S": ["bury ", "coat ", "envelop ", "obscure ", "surround "], "A": ["free ", "let go ", "release ", "reveal ", "uncover ", "clear ", "disclose ", "divulge ", "explain ", "expose ", "lay bare ", "let out ", "open ", "show ", "tell ", "unmask "]}

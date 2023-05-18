@@ -1,0 +1,1 @@
+{"index": 170638, "D": "covered with scurfy scales or scaly spots.", "S": ["blotchy ", "coarse ", "encrusted ", "notched ", "scabby ", "scaly ", "unsmooth "], "A": []}

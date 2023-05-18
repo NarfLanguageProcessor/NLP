@@ -1,0 +1,1 @@
+{"index": 190877, "D": "the process or technique of improving or developing the memory.", "S": ["fantasy ", "image ", "memoir ", "picture ", "reminder ", "thought ", "vision "], "A": ["concrete ", "reality "]}

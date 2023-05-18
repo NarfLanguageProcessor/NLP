@@ -1,0 +1,1 @@
+{"index": 43162, "D": "a loose garment covering the entire body and having a veiled opening for the eyes, worn by Muslim women.", "S": [], "A": []}

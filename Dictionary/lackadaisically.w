@@ -1,0 +1,1 @@
+{"index": 166946, "D": "without interest, vigor, or determination; listless; halfhearted", "S": ["carelessly ", "coolly ", "indifferently ", "informally "], "A": []}

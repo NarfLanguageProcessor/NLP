@@ -1,0 +1,1 @@
+{"index": 204916, "D": "noting or pertaining to a substance or system exhibiting uniform elasticity throughout.", "S": [], "A": []}

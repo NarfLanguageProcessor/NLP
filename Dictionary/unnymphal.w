@@ -1,0 +1,1 @@
+{"index": 346903, "D": "one of a numerous class of lesser deities of mythology, conceived of as beautiful maidens inhabiting the sea, rivers, woods, trees, mountains, meadows, etc., and frequently mentioned as attending a superior deity.", "S": [], "A": []}

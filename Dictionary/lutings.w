@@ -1,0 +1,1 @@
+{"index": 176524, "D": "any of various readily molded substances for sealing joints, cementing objects together, or waterproofing surfaces.", "S": [], "A": []}

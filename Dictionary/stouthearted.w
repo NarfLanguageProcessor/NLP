@@ -1,0 +1,1 @@
+{"index": 305522, "D": "brave and resolute; dauntless.", "S": ["adventurous ", "bold ", "daring ", "dashing ", "fearless ", "gallant ", "game ", "gritty ", "gutsy ", "hardy ", "heroic ", "lionhearted ", "plucky ", "spunky ", "stalwart ", "unafraid ", "undaunted ", "unfearful ", "valiant "], "A": []}

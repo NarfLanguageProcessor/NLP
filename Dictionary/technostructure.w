@@ -1,0 +1,1 @@
+{"index": 317696, "D": "the group or class of technically skilled administrators, scientists, and engineers who manage and influence business, the economy, and government affairs.", "S": [], "A": []}

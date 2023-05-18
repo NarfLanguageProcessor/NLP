@@ -1,0 +1,1 @@
+{"index": 266766, "D": "of or relating to relativity or relativism.", "S": [], "A": []}

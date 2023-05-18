@@ -1,0 +1,1 @@
+{"index": 267540, "D": "Renaissance. ", "S": ["awakening ", "cheering ", "consolation ", "invigoration ", "quickening ", "rebirth ", "recovery ", "recrudescence ", "regeneration ", "rejuvenation ", "renaissance ", "renewal ", "restoration ", "resurgence ", "resurrection ", "resuscitation ", "revitalization ", "revivification "], "A": []}

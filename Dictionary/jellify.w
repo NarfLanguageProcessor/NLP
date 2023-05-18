@@ -1,0 +1,1 @@
+{"index": 160818, "D": "to make into a jelly;  reduce to a gelatinous state.", "S": ["congeal ", "curdle ", "thicken "], "A": ["melt ", "thin "]}

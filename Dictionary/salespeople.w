@@ -1,0 +1,1 @@
+{"index": 276996, "D": "people  engaged in selling.", "S": ["clerk "], "A": ["customer "]}

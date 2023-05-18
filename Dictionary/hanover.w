@@ -1,0 +1,1 @@
+{"index": 133403, "D": "a member of the royal family that ruled Great Britain under that name from 1714 to 1901.", "S": [], "A": []}

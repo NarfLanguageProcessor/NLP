@@ -1,0 +1,1 @@
+{"index": 149385, "D": "not admissible;  not allowable", "S": ["immaterial ", "improper ", "inappropriate ", "irrelevant ", "objectionable ", "unacceptable ", "undesirable ", "unreasonable "], "A": ["OK ", "acceptable ", "appropriate ", "desirable ", "fitting ", "good ", "proper ", "relevant ", "suitable "]}

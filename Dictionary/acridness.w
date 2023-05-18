@@ -1,0 +1,1 @@
+{"index": 2827, "D": "sharp or biting to the taste or smell; bitterly pungent; irritating to the eyes, nose, etc.", "S": ["acerbity ", "astringency ", "pungency ", "sourness ", "tartness "], "A": []}

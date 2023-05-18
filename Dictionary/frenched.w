@@ -1,0 +1,1 @@
+{"index": 118736, "D": "of, relating to, or characteristic of France or its inhabitants, language, or culture", "S": ["brush ", "glance ", "graze ", "greet ", "salute "], "A": []}

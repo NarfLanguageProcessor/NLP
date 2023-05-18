@@ -1,0 +1,1 @@
+{"index": 27809, "D": "any of a group of barbituric acid  derivatives, used in medicine as sedatives and hypnotics.", "S": ["medication ", "narcotic ", "opiate ", "sleeping pill "], "A": []}

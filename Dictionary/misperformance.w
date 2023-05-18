@@ -1,0 +1,1 @@
+{"index": 189785, "D": "a musical, dramatic, or other entertainment presented before an audience.", "S": [], "A": []}

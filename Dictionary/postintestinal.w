@@ -1,0 +1,1 @@
+{"index": 244232, "D": "occurring in or affecting the intestines. ", "S": [], "A": []}

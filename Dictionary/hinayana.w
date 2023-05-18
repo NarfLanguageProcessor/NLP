@@ -1,0 +1,1 @@
+{"index": 139646, "D": "earlier of the two great schools of Buddhism, still prevalent in Sri Lanka, Myanmar (Burma), Thailand, and Cambodia, emphasizing personal salvation through one's own efforts.", "S": [], "A": []}

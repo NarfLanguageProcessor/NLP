@@ -1,0 +1,1 @@
+{"index": 54079, "D": "a variety of the mineral andalusite having cruciform carbonaceous inclusions.", "S": [], "A": []}

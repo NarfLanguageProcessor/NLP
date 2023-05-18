@@ -1,0 +1,1 @@
+{"index": 336052, "D": "attacked or battered with artillery fire or bombs", "S": [], "A": []}

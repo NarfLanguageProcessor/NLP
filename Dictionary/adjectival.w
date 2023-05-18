@@ -1,0 +1,1 @@
+{"index": 3997, "D": "of, relating to, or used as an adjective. ", "S": [], "A": []}

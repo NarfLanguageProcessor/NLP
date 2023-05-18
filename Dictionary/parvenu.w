@@ -1,0 +1,1 @@
+{"index": 227153, "D": "a person who has recently or suddenly acquired wealth, importance, position, or the like, but has not yet developed the conventionally appropriate manners, dress, surroundings, etc.", "S": ["upstart "], "A": []}

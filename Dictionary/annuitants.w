@@ -1,0 +1,1 @@
+{"index": 13627, "D": "a person who receives an annuity. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212956, "D": "the doctrine that the human intellect has an immediate cognition of God as its proper object and the principle of all its cognitions.", "S": ["cabala ", "cabalism ", "kabala ", "kabbalism ", "pietism ", "quietism ", "spiritualism "], "A": []}

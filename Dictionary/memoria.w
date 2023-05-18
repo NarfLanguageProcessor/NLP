@@ -1,0 +1,1 @@
+{"index": 183184, "D": "a formal note used in diplomacy as a record of a subject that has been discussed.", "S": [], "A": []}

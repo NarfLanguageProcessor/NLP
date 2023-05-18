@@ -1,0 +1,1 @@
+{"index": 344305, "D": "to put in pawn;  pledge.", "S": [], "A": []}

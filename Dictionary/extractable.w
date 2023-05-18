@@ -1,0 +1,1 @@
+{"index": 108458, "D": "to get, pull, or draw out, usually with special effort, skill, or force", "S": ["a priori ", "attributable ", "available ", "determinable ", "dogmatic ", "inferable ", "likely ", "obtainable ", "reasoned ", "resultant ", "traceable "], "A": []}

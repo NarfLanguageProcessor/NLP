@@ -1,0 +1,1 @@
+{"index": 240538, "D": "designating a tense or other verb formation or construction with such meaning, as Latin port\u0101veram \u201cI had carried.\u201d", "S": [], "A": []}

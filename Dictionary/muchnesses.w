@@ -1,0 +1,1 @@
+{"index": 194519, "D": "greatness, as in quantity, measure, or degree.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 31293, "D": "a prince of Babylon, son of Nabonidus and co-regent with him, referred to in the Bible as a king of Babylon and son of Nebuchadnezzar. Daniel 5.", "S": [], "A": []}

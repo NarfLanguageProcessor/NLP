@@ -1,0 +1,1 @@
+{"index": 45840, "D": "a person who camps out for recreation, especially in the wilderness.", "S": ["cavalcade ", "convoy ", "expedition ", "procession "], "A": ["individual "]}

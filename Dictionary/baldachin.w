@@ -1,0 +1,1 @@
+{"index": 26770, "D": "a silk brocade interwoven with gold or silver threads, used chiefly for ceremonial purposes.", "S": ["awning ", "cover ", "marquee ", "shade ", "sunshade ", "umbrella "], "A": []}

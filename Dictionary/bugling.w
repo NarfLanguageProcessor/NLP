@@ -1,0 +1,1 @@
+{"index": 42329, "D": "a brass wind instrument resembling a cornet and sometimes having keys or valves, used typically for sounding military signals.", "S": [], "A": []}

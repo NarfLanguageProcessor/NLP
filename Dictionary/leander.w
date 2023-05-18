@@ -1,0 +1,1 @@
+{"index": 169625, "D": "a Greek youth, the lover of Hero, who swam the Hellespont every night to visit her until he was drowned in a storm.", "S": [], "A": []}

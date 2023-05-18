@@ -1,0 +1,1 @@
+{"index": 46408, "D": "a person who eats human flesh, especially for magical or religious purposes, as among certain tribal peoples.", "S": ["anthropophaginian ", "anthropophagite ", "anthropophagus ", "man-eater ", "people-eater "], "A": []}

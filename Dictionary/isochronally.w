@@ -1,0 +1,1 @@
+{"index": 158847, "D": "equal or uniform in time.", "S": [], "A": []}

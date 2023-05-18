@@ -1,0 +1,1 @@
+{"index": 205730, "D": "of or relating to the pope  or the papacy", "S": [], "A": []}

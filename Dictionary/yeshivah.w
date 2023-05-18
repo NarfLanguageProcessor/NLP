@@ -1,0 +1,1 @@
+{"index": 146923, "D": "an Orthodox Jewish school for the religious and secular education of children of elementary school age.", "S": [], "A": []}

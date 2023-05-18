@@ -1,0 +1,1 @@
+{"index": 249335, "D": "a special school providing education in theology, religious history, etc., primarily to prepare students for the priesthood, ministry, or rabbinate.", "S": [], "A": []}

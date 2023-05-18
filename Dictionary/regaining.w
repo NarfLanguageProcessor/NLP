@@ -1,0 +1,1 @@
+{"index": 265496, "D": "to get again; recover", "S": ["achieve ", "attain ", "gain ", "reach ", "recapture ", "reclaim ", "recoup ", "recover ", "retake ", "return to ", "take back ", "win back "], "A": ["abandon ", "fail ", "forfeit ", "lose ", "miss "]}

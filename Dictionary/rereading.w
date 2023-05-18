@@ -1,0 +1,1 @@
+{"index": 268930, "D": "to read (something) again.", "S": ["go over "], "A": []}

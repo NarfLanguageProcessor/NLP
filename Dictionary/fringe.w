@@ -1,0 +1,1 @@
+{"index": 119062, "D": "a decorative border of thread, cord, or the like, usually hanging loosely from a raveled edge or separate strip.", "S": ["brink ", "edge ", "hem ", "outskirts ", "perimeter ", "periphery ", "skirt ", "verge "], "A": ["center ", "inside ", "interior ", "middle "]}

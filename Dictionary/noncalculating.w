@@ -1,0 +1,1 @@
+{"index": 201768, "D": "capable of or made for performing calculations,  especially arithmetical calculations", "S": [], "A": []}

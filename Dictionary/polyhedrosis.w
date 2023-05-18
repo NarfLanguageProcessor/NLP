@@ -1,0 +1,1 @@
+{"index": 241983, "D": "an often fatal disease of certain insect larvae or decapod crustaceans, caused by viruses containing double-stranded DNA.", "S": [], "A": []}

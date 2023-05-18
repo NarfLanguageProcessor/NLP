@@ -1,0 +1,1 @@
+{"index": 46484, "D": "pertaining to, established by, or conforming to a canon  or canons. ", "S": ["approved ", "authoritative ", "authorized ", "lawful ", "legal ", "official ", "orthodox ", "received ", "sanctioned ", "sound ", "statutory "], "A": ["unacceptable ", "unauthorized ", "unorthodox ", "unrecognized ", "unsanctioned "]}

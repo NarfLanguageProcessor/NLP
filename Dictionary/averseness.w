@@ -1,0 +1,1 @@
+{"index": 24703, "D": "having a strong feeling of opposition, antipathy, repugnance, etc.; opposed (often used in combination)", "S": ["aversion ", "disinclination ", "dislike ", "distaste ", "indisposition ", "loathing ", "loathness ", "opposition ", "reluctance ", "repugnance "], "A": []}

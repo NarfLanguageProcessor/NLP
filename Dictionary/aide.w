@@ -1,0 +1,1 @@
+{"index": 6703, "D": "an assistant or helper, especially a paid employee", "S": ["assistant ", "deputy ", "supporter "], "A": ["boss ", "leader ", "superior "]}

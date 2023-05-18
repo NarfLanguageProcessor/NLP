@@ -1,0 +1,1 @@
+{"index": 342836, "D": "to spread or shake out from a furled  state, as a sail or a flag; unfold.", "S": ["unfold ", "unwind "], "A": ["fold up ", "roll up "]}

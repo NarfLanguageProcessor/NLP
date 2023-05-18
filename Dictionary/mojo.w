@@ -1,0 +1,1 @@
+{"index": 191372, "D": "an object, as an amulet or charm, that is believed to carry a magic spell.", "S": ["coke ", "crack ", "dope ", "poison ", "stimulant "], "A": []}

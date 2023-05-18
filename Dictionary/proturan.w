@@ -1,0 +1,1 @@
+{"index": 253978, "D": "a proturan insect; telsontail.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246366, "D": "to condemn  beforehand, as before a legitimate trial.", "S": [], "A": []}

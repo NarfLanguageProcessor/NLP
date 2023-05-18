@@ -1,0 +1,1 @@
+{"index": 229774, "D": "any of several plants having round or roundish leaves, as the navelwort.", "S": [], "A": []}

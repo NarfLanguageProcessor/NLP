@@ -1,0 +1,1 @@
+{"index": 110067, "D": "a former bronze coin of Great Britain, equal to one-fourth of a British penny", "S": ["cent ", "copper penny ", "hill of beans ", "penny "], "A": []}

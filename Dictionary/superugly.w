@@ -1,0 +1,1 @@
+{"index": 312834, "D": "very unattractive or unpleasant to look at; offensive to the sense of beauty; displeasing in appearance.", "S": [], "A": []}

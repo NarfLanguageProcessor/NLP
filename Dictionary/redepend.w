@@ -1,0 +1,1 @@
+{"index": 264077, "D": "to rely; place trust (usually followed by on or upon)", "S": [], "A": []}

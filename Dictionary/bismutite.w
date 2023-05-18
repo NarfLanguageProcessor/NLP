@@ -1,0 +1,1 @@
+{"index": 35072, "D": "a mineral, bismuth carbonate, resulting from the alteration of bismuth minerals", "S": [], "A": []}

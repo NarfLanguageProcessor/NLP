@@ -1,0 +1,1 @@
+{"index": 280722, "D": "a phosphor capable of producing scintillations.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 263162, "D": "to present as worthy of confidence, acceptance, use, etc.; commend; mention favorably", "S": [], "A": []}

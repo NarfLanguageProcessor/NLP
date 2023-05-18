@@ -1,0 +1,1 @@
+{"index": 302938, "D": "abounding with stars", "S": ["glittering ", "luminous ", "sparkling ", "stellar "], "A": ["dull "]}

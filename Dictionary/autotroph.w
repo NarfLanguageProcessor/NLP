@@ -1,0 +1,1 @@
+{"index": 24471, "D": "any organism capable of self-nourishment by using inorganic materials as a source of nutrients and using photosynthesis or chemosynthesis as a source of energy, as most plants and certain bacteria and protists.", "S": [], "A": []}

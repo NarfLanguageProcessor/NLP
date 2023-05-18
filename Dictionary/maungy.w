@@ -1,0 +1,1 @@
+{"index": 181438, "D": "(esp of a child) sulky, bad-tempered, or peevish", "S": [], "A": []}

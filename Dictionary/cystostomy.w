@@ -1,0 +1,1 @@
+{"index": 58571, "D": "the construction of an artificial opening from the bladder through the abdominal wall, permitting the drainage of urine.", "S": [], "A": []}

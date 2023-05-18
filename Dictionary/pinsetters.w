@@ -1,0 +1,1 @@
+{"index": 237245, "D": "a mechanical apparatus in a bowling alley that places all of the pins  into position at one time and removes pins  that have been knocked down.", "S": [], "A": []}

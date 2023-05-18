@@ -1,0 +1,1 @@
+{"index": 244882, "D": "a dealer in poultry, hares, and game; poultryman.", "S": [], "A": []}

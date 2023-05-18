@@ -1,0 +1,1 @@
+{"index": 150626, "D": "hammered or stamped in, as a figure on a coin.", "S": [], "A": []}

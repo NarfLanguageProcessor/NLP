@@ -1,0 +1,1 @@
+{"index": 257745, "D": "a set of four associated positive and negative electric charges or two associated magnetic dipoles", "S": [], "A": []}

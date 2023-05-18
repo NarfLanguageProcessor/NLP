@@ -1,0 +1,1 @@
+{"index": 24985, "D": "wearied  or tired; fatigued.", "S": [], "A": []}

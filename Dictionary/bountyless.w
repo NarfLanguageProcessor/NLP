@@ -1,0 +1,1 @@
+{"index": 38995, "D": "a premium or reward, especially one offered by a government", "S": [], "A": []}

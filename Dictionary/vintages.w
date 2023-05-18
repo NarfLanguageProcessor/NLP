@@ -1,0 +1,1 @@
+{"index": 359973, "D": "the wine from a particular harvest or crop.", "S": ["best ", "choice ", "classic ", "classical ", "old ", "prime "], "A": ["modern ", "worst "]}

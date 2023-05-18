@@ -1,0 +1,1 @@
+{"index": 198959, "D": "venation, as of an insect's wings.", "S": [], "A": []}

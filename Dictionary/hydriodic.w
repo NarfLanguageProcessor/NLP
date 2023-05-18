@@ -1,0 +1,1 @@
+{"index": 138497, "D": "of or derived from hydriodic acid. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203822, "D": "expiration  of breath.", "S": [], "A": []}

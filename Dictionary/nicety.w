@@ -1,0 +1,1 @@
+{"index": 199591, "D": "a delicate or fine point; punctilio", "S": ["nuance ", "refinement ", "rigor ", "subtlety "], "A": ["imprecision ", "inaccuracy ", "inexactness "]}

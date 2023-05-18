@@ -1,0 +1,1 @@
+{"index": 165855, "D": "a powder, as finely powdered antimony sulfide, used as a cosmetic to darken the eyelids, eyebrows, etc.", "S": [], "A": []}

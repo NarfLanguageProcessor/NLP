@@ -1,0 +1,1 @@
+{"index": 333035, "D": "a tuft or clump of growing grass or the like.", "S": ["bunch ", "cluster ", "collection ", "cowlick ", "feathers ", "group ", "knot ", "plumage ", "ruff ", "shock ", "topknot "], "A": ["individual ", "one "]}

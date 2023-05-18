@@ -1,0 +1,1 @@
+{"index": 289209, "D": "any of several fishes  of the family Centriscidae, inhabiting shallow waters from eastern Africa to Hawaii, having a compressed body covered with transparent plates.", "S": [], "A": []}

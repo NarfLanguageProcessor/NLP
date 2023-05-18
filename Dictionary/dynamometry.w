@@ -1,0 +1,1 @@
+{"index": 86036, "D": "the act, method, or process of using a dynamometer.", "S": [], "A": []}

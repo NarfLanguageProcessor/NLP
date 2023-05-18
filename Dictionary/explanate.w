@@ -1,0 +1,1 @@
+{"index": 107813, "D": "flattened; spread out.", "S": [], "A": []}

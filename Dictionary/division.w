@@ -1,0 +1,1 @@
+{"index": 90386, "D": "the act or process of dividing; state of being divided.", "S": ["distribution "], "A": ["attachment ", "combination ", "connection ", "union "]}

@@ -1,0 +1,1 @@
+{"index": 11058, "D": "the free-swimming larva of certain sponges, which consists of a hollow spherical mass of cells some of which have flagella", "S": [], "A": []}

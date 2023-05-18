@@ -1,0 +1,1 @@
+{"index": 879, "D": "sudden or unexpected", "S": ["blunt ", "brusque ", "crude ", "crusty ", "curt ", "direct ", "discourteous ", "gruff ", "impetuous ", "impolite ", "matter-of-fact ", "rough ", "short ", "snappy ", "snippy ", "uncivil ", "ungracious "], "A": ["at ease ", "calm ", "deliberate ", "expansive ", "gradual ", "kind ", "leisurely ", "nice "]}

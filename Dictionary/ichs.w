@@ -1,0 +1,1 @@
+{"index": 146052, "D": "a disease of tropical fishes, characterized by small, white nodules on the fins, skin, and eyes, caused by a ciliate protozoan, Ichthyophthirius multifiliis.", "S": [], "A": []}

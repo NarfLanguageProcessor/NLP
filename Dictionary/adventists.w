@@ -1,0 +1,1 @@
+{"index": 4596, "D": "a member of any of certain Christian denominations that maintain that the Second Advent of Christ is imminent.", "S": [], "A": []}

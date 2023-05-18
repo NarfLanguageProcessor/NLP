@@ -1,0 +1,1 @@
+{"index": 59602, "D": "a sharp, usually curved, nail on the foot of an animal, as on a cat, dog, or bird.", "S": [], "A": []}

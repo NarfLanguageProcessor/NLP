@@ -1,0 +1,1 @@
+{"index": 362792, "D": "a person engaged or experienced in warfare; soldier.", "S": ["champion ", "fighter ", "hero ", "soldier "], "A": []}

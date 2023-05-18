@@ -1,0 +1,1 @@
+{"index": 170450, "D": "softening, soothing, or mitigating, as medicines or applications.", "S": [], "A": []}

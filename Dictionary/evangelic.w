@@ -1,0 +1,1 @@
+{"index": 105986, "D": "pertaining to or in keeping with the gospel and its teachings.", "S": ["pious ", "religious "], "A": ["irreligious "]}

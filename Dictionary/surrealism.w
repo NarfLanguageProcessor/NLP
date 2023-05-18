@@ -1,0 +1,1 @@
+{"index": 313575, "D": "a style of art and literature developed principally in the 20th century, stressing the subconscious or nonrational significance of imagery arrived at by automatism or the exploitation of chance effects, unexpected juxtapositions, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 145817, "D": "a Turkish saber having a doubly curved blade, concave toward the hilt, and a hilt with a prominent pommel and no guard.", "S": [], "A": []}

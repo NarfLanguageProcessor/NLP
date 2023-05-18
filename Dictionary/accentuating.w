@@ -1,0 +1,1 @@
+{"index": 1465, "D": "to give emphasis or prominence to.", "S": ["accelerating ", "deepening ", "escalating ", "growing ", "intensifying "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 255241, "D": "(used to express impatience, contempt, disbelief, etc.)", "S": [], "A": []}

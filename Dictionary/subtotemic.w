@@ -1,0 +1,1 @@
+{"index": 309560, "D": "of, being, or relating to a natural object or animate being, as an animal or bird, assumed as the emblem of a clan, family, or group", "S": [], "A": []}

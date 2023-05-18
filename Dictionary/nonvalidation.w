@@ -1,0 +1,1 @@
+{"index": 208164, "D": "the act of confirming something as true or correct", "S": [], "A": []}

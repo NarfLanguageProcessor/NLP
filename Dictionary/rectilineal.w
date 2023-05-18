@@ -1,0 +1,1 @@
+{"index": 263692, "D": "forming a straight line.", "S": ["consecutive ", "nonstop ", "short ", "smooth ", "solid ", "straightforward ", "successive ", "true "], "A": ["broken ", "intermittent ", "level ", "uneven ", "varying "]}

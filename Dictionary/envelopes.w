@@ -1,0 +1,1 @@
+{"index": 101792, "D": "a flat paper container, as for a letter or thin package, usually having a gummed flap or other means of closure.", "S": ["letterhead "], "A": []}

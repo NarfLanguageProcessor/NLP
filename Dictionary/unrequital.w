@@ -1,0 +1,1 @@
+{"index": 349669, "D": "the act of requiting. ", "S": [], "A": []}

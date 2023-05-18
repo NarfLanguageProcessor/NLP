@@ -1,0 +1,1 @@
+{"index": 331103, "D": "a large pair of scales, a spring balance, or other weighing device located in a town or marketplace to weigh goods and merchandise.", "S": [], "A": []}

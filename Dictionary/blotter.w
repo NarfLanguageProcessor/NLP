@@ -1,0 +1,1 @@
+{"index": 36567, "D": "a piece of blotting paper  used to absorb excess ink, to protect a desk top, etc.", "S": ["candy ", "cubes ", "dot ", "hallucinogen ", "microdots ", "mushrooms ", "peyote "], "A": []}

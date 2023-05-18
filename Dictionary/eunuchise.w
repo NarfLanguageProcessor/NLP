@@ -1,0 +1,1 @@
+{"index": 105553, "D": "to castrate; emasculate.", "S": [], "A": []}

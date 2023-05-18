@@ -1,0 +1,1 @@
+{"index": 353842, "D": "acting with or characterized by uncontrolled, strong, rough force", "S": [], "A": []}

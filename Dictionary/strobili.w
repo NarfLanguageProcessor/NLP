@@ -1,0 +1,1 @@
+{"index": 306425, "D": "a reproductive structure characterized by overlapping scalelike parts, as a pine cone or the fruit of the hop.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233924, "D": "a person who has only a superficial knowledge of philosophy or who feigns a knowledge they do not possess.", "S": [], "A": []}

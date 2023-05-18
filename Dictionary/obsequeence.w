@@ -1,0 +1,1 @@
+{"index": 210362, "D": "willingness or eagerness to comply, please, serve, etc.; obsequiousness.", "S": [], "A": []}

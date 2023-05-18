@@ -1,0 +1,1 @@
+{"index": 138068, "D": "to bewitch; practice witchcraft on", "S": ["bedeviled ", "condemned ", "damned ", "doomed "], "A": []}

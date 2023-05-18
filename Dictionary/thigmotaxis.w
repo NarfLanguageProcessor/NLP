@@ -1,0 +1,1 @@
+{"index": 321763, "D": "movement of an organism toward or away from any object that provides a mechanical stimulus.", "S": [], "A": []}

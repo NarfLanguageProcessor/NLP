@@ -1,0 +1,1 @@
+{"index": 280356, "D": "(in Europe) any strong, dry spirit, as slivovitz, aquavit, or kirsch.", "S": [], "A": []}

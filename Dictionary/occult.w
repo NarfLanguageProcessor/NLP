@@ -1,0 +1,1 @@
+{"index": 210722, "D": "of or relating to magic, astrology, or any system claiming use or knowledge of secret or supernatural powers or agencies.", "S": ["concealed ", "deep ", "hidden ", "magic ", "mystic ", "obscure ", "psychic ", "unknown ", "veiled ", "weird "], "A": ["bare ", "clear ", "exposed ", "known ", "obvious ", "open ", "uncovered "]}

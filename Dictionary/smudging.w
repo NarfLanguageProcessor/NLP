@@ -1,0 +1,1 @@
+{"index": 295129, "D": "a traditional Native American method of using smoke from burning herbs to purify a space", "S": ["blemish ", "blot "], "A": ["cleanliness "]}

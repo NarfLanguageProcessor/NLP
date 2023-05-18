@@ -1,0 +1,1 @@
+{"index": 227260, "D": "a forward thrust with the weapon while advancing with one foot.", "S": [], "A": []}

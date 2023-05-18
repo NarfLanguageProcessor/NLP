@@ -1,0 +1,1 @@
+{"index": 1218, "D": "the campus activity, life, and interests of a college or university; the academic  world.", "S": ["academicians ", "college ", "savants ", "school "], "A": []}

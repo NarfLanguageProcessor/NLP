@@ -1,0 +1,1 @@
+{"index": 325931, "D": "the study of reactions that only occur at specific regions in a system", "S": [], "A": []}

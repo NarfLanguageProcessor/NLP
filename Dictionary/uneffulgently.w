@@ -1,0 +1,1 @@
+{"index": 341057, "D": "shining forth brilliantly; radiant. ", "S": [], "A": []}

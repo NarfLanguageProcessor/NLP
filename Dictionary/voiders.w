@@ -1,0 +1,1 @@
+{"index": 361003, "D": "a person or thing that voids. ", "S": [], "A": []}

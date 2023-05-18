@@ -1,0 +1,1 @@
+{"index": 145166, "D": "to crouch or squat on one's heels", "S": [], "A": []}

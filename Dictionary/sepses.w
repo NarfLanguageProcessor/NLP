@@ -1,0 +1,1 @@
+{"index": 285620, "D": "local or generalized invasion of the body by pathogenic microorganisms or their toxins", "S": ["pyemia ", "septic infection ", "septic poisoning ", "septicemia ", "septicopyemia ", "toxaemia ", "toxemia "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 368715, "D": "a foamy, custardlike mixture of egg yolks, sugar, and Marsala wine, usually served hot or chilled as a dessert.", "S": [], "A": []}

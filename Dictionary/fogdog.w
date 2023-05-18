@@ -1,0 +1,1 @@
+{"index": 115751, "D": "a bright spot sometimes seen in a fog bank. ", "S": [], "A": []}

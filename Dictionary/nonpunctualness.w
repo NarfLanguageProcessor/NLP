@@ -1,0 +1,1 @@
+{"index": 206382, "D": "strictly observant of an appointed or regular time; not late; prompt.", "S": [], "A": []}

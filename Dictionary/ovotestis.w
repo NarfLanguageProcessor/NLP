@@ -1,0 +1,1 @@
+{"index": 222000, "D": "the hermaphroditic reproductive organ of some gastropods, containing both an ovary and a testis.", "S": [], "A": []}

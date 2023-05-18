@@ -1,0 +1,1 @@
+{"index": 120583, "D": "capable of being fused  or melted.", "S": ["damp ", "melted ", "running ", "smooth ", "solvent ", "splashing ", "succulent ", "wet "], "A": ["broken ", "dry ", "intermittent "]}

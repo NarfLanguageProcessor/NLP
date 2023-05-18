@@ -1,0 +1,1 @@
+{"index": 78252, "D": "the act of deceiving;  the state of being deceived. ", "S": ["betrayal ", "deceit ", "disinformation ", "duplicity ", "falsehood ", "fraud ", "hypocrisy ", "lying ", "mendacity ", "treachery ", "trickery ", "untruth "], "A": ["faithfulness ", "forthrightness ", "honesty ", "loyalty ", "sincerity ", "truth ", "openness "]}

@@ -1,0 +1,1 @@
+{"index": 85887, "D": "an extinct carnivorous mammallike reptile, of the genus Dimetrodon, dominant in North America during the Permian Period, up to 10 feet (3.1 meters long and usually bearing spinal sails.", "S": [], "A": []}

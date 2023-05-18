@@ -1,0 +1,1 @@
+{"index": 296788, "D": "to utter a soliloquy;  talk to oneself.", "S": [], "A": []}

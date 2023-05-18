@@ -1,0 +1,1 @@
+{"index": 368213, "D": "a water-soluble natural gum produced by the fermentation of sugar with certain microorganisms and used as a binder, extender, or stabilizer in foods and other products.", "S": [], "A": []}

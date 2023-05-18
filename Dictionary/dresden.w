@@ -1,0 +1,1 @@
+{"index": 92976, "D": "the capital of Saxony in E Germany, on the Elbe River.", "S": [], "A": []}

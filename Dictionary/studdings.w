@@ -1,0 +1,1 @@
+{"index": 306778, "D": "a number of studs,  as in a wall or partition.", "S": [], "A": []}

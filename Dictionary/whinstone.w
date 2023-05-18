@@ -1,0 +1,1 @@
+{"index": 364887, "D": "any of the dark-colored, fine-grained rocks, especially igneous rocks, as dolerite and basalt.", "S": [], "A": []}

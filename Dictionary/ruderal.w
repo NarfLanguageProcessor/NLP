@@ -1,0 +1,1 @@
+{"index": 275304, "D": "(of a plant) growing in waste places, along roadsides or in rubbish.", "S": [], "A": []}

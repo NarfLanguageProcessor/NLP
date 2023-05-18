@@ -1,0 +1,1 @@
+{"index": 207922, "D": "inclined or disposed to tolerate; showing tolerance; forbearing", "S": [], "A": []}

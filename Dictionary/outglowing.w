@@ -1,0 +1,1 @@
+{"index": 216730, "D": "a light emitted by or as if by a substance heated to luminosity; incandescence.", "S": [], "A": []}

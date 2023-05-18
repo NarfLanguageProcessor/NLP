@@ -1,0 +1,1 @@
+{"index": 116257, "D": "having sore  or tender feet,  as from much walking.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253236, "D": "(in a classical temple) a pronaos or prostas before a cella.", "S": [], "A": []}

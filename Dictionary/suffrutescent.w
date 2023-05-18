@@ -1,0 +1,1 @@
+{"index": 310173, "D": "partially or slightly woody; subshrubby.", "S": [], "A": []}

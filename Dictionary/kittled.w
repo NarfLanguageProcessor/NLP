@@ -1,0 +1,1 @@
+{"index": 165258, "D": "to tickle with the fingers; agitate or stir, as with a spoon.", "S": [], "A": []}

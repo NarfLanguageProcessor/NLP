@@ -1,0 +1,1 @@
+{"index": 87202, "D": "to break or cut (a branch) off a tree or shrub.", "S": [], "A": []}

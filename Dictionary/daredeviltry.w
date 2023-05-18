@@ -1,0 +1,1 @@
+{"index": 76911, "D": "reckless daring; venturesome boldness.", "S": ["adventurousness ", "audaciousness ", "audacity ", "boldness ", "bravery ", "daredevilry ", "recklessness ", "venturesomeness "], "A": ["carefulness ", "cowardice ", "humility ", "timidity "]}

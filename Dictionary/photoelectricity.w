@@ -1,0 +1,1 @@
+{"index": 235092, "D": "electricity induced by electromagnetic radiation,  as in certain processes, as the photoelectric and photovoltaic effects, photoconductivity, and photoionization.", "S": [], "A": []}

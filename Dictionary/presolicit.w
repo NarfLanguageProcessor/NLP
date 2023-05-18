@@ -1,0 +1,1 @@
+{"index": 249520, "D": "to seek for (something) by entreaty, earnest or respectful request, formal application, etc.", "S": [], "A": []}

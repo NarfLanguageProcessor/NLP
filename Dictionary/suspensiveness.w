@@ -1,0 +1,1 @@
+{"index": 313750, "D": "pertaining to or characterized by suspension. ", "S": [], "A": []}

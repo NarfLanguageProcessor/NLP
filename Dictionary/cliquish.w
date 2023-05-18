@@ -1,0 +1,1 @@
+{"index": 60163, "D": "associating exclusively with the members of one's own clique;  clannish.", "S": ["akin ", "alike ", "associative ", "close ", "insular ", "like ", "narrow ", "related ", "reserved ", "restricting ", "restrictive ", "sectarian ", "unfriendly ", "unreceptive "], "A": ["friendly ", "open ", "welcoming "]}

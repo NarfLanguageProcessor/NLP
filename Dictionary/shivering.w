@@ -1,0 +1,1 @@
+{"index": 288585, "D": "to shake or tremble with cold, fear, excitement, etc.", "S": ["crumbling ", "crunching ", "crushing ", "disintegrating ", "eroding ", "grating ", "milling ", "powdering ", "rubbing ", "scraping ", "smashing "], "A": []}

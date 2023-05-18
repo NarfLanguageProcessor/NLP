@@ -1,0 +1,1 @@
+{"index": 119058, "D": "a trimming, as a strip of cloth or lace, gathered at one edge and left loose at the other; ruffle.", "S": ["additions ", "adornments ", "attachments ", "decorations ", "doodads ", "embellishments ", "extras ", "ornaments ", "trimmings "], "A": []}

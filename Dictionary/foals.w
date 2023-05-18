@@ -1,0 +1,1 @@
+{"index": 115644, "D": "a young horse, mule, or related animal, especially one that is not yet one year of age.", "S": ["colt ", "horse "], "A": []}

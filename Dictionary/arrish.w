@@ -1,0 +1,1 @@
+{"index": 20266, "D": "corn stubble", "S": [], "A": []}

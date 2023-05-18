@@ -1,0 +1,1 @@
+{"index": 44742, "D": "a pink, water-insoluble powder consisting of zinc oxide and about 0.5 percent ferric oxide, used in ointments, lotions, or the like, for the treatment of inflammatory conditions of the skin.", "S": [], "A": []}

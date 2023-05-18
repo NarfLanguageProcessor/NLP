@@ -1,0 +1,1 @@
+{"index": 69545, "D": "of the nature of the physical body; bodily.", "S": [], "A": []}

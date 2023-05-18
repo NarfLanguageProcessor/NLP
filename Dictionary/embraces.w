@@ -1,0 +1,1 @@
+{"index": 98250, "D": "to take or clasp in the arms; press to the bosom; hug. ", "S": ["grasp "], "A": ["free ", "give ", "let go ", "loose ", "push away ", "release ", "uncover ", "unfasten ", "unwrap "]}

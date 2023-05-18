@@ -1,0 +1,1 @@
+{"index": 130237, "D": "a commercial production, as a motion picture or record, that generates a large amount of income.", "S": [], "A": []}

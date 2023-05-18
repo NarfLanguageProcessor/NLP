@@ -1,0 +1,1 @@
+{"index": 90496, "D": "(chiefly in Arabic-speaking countries) a mountain", "S": [], "A": []}

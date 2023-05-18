@@ -1,0 +1,1 @@
+{"index": 275244, "D": "material for making a ruche. ", "S": ["bend ", "crimp ", "curl ", "knit ", "tuck "], "A": ["straighten ", "divide ", "open ", "smooth "]}

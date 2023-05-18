@@ -1,0 +1,1 @@
+{"index": 152041, "D": "to free from limitations of space, time, circumstance, etc.; cause to becomeinfinite. ", "S": [], "A": []}

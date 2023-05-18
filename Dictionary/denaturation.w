@@ -1,0 +1,1 @@
+{"index": 80996, "D": "the act or process of rendering an alcohol unfit for drinking by adding an unwholesome substance that does not alter its usefulness for other purposes", "S": [], "A": []}

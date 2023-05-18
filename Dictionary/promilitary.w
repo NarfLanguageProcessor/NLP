@@ -1,0 +1,1 @@
+{"index": 252252, "D": "in favour of or supporting military organizations, operations, or action", "S": [], "A": []}

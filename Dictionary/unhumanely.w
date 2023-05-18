@@ -1,0 +1,1 @@
+{"index": 343907, "D": "characterized by tenderness, compassion, and sympathy for people and animals, especially for the suffering or distressed", "S": [], "A": []}

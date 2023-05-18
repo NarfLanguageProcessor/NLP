@@ -1,0 +1,1 @@
+{"index": 151342, "D": "a coil used to introduce inductance into an electric circuit.", "S": [], "A": []}

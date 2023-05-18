@@ -1,0 +1,1 @@
+{"index": 337019, "D": "the act of a person or thing that clears;  the process of becoming clear. ", "S": [], "A": []}

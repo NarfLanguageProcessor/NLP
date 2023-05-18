@@ -1,0 +1,1 @@
+{"index": 109240, "D": "the iron end member of the olivine group, Fe2SiO4.", "S": [], "A": []}

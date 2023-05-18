@@ -1,0 +1,1 @@
+{"index": 192475, "D": "the presence of an abnormally large number of mononuclear  leukocytes, or monocytes, in the blood.", "S": ["EB virus ", "EBV ", "Epstein-Barr syndrome ", "HHV-4 ", "Human herpesvirus 4 ", "glandular fever "], "A": []}

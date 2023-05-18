@@ -1,0 +1,1 @@
+{"index": 247523, "D": "the office, jurisdiction, territory, or official residence of a prefect.", "S": [], "A": []}

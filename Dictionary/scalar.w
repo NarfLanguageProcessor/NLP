@@ -1,0 +1,1 @@
+{"index": 279369, "D": "representable by position on a scale  or line; having only magnitude", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77715, "D": "to reduce in quality or value; adulterate", "S": ["beneath one ", "beneath one's dignity ", "degrading ", "demeaning ", "inexpedient ", "infra indignitatem ", "unbecoming ", "unworthy of one "], "A": []}

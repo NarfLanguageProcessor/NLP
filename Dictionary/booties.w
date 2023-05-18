@@ -1,0 +1,1 @@
+{"index": 38249, "D": "a baby's socklike shoe, usually knitted or crocheted, and calf-length or shorter.", "S": ["spoils "], "A": []}

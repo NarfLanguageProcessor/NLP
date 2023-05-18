@@ -1,0 +1,1 @@
+{"index": 323502, "D": "any plant of the bulbous genus Tigridia, native to subtropical and tropical America, esp T. pavonia, the tiger flower or peacock tiger flower, grown for its large strikingly marked red, white, or yellow concave flowers", "S": [], "A": []}

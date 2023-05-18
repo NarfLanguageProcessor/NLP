@@ -1,0 +1,1 @@
+{"index": 13593, "D": "to supply with critical or explanatory notes;  comment upon in notes", "S": ["comment ", "commentate ", "construe ", "define ", "elucidate ", "explain ", "expound ", "footnote ", "gloss ", "illustrate ", "interpret ", "note ", "remark "], "A": ["confuse ", "mystify ", "obscure "]}

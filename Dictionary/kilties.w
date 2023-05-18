@@ -1,0 +1,1 @@
+{"index": 164697, "D": "a person who wears a kilt,  especially a member of a regiment in which the kilt  is worn as part of the dress uniform.", "S": [], "A": []}

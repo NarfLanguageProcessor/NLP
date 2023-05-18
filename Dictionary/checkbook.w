@@ -1,0 +1,1 @@
+{"index": 53320, "D": "a book  containing blank checks  or orders on a bank.", "S": [], "A": []}

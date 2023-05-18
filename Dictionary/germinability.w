@@ -1,0 +1,1 @@
+{"index": 124239, "D": "the degree of ability of a seed to germinate  or sprout.", "S": [], "A": []}

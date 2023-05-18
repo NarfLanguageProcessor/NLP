@@ -1,0 +1,1 @@
+{"index": 97283, "D": "the study or science of practical and industrial applications of electricity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 261726, "D": "the act or instance of restoring or changing to a previous or different position", "S": ["renewal ", "reorganization ", "transformation "], "A": ["worsening "]}

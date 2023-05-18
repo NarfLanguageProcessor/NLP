@@ -1,0 +1,1 @@
+{"index": 80068, "D": "highly pleasing to the senses, especially to taste or smell", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335319, "D": "constant in application or effort; working diligently at a task; persevering; industrious; meticulous", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125088, "D": "one of a group of Jainist philosophers, existing from ancient times to c1000, characterized by refusal to wear clothes and the abandonment of caste marks; a member of the Digambara sect.", "S": [], "A": []}

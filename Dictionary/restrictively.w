@@ -1,0 +1,1 @@
+{"index": 270037, "D": "tending or serving to restrict. ", "S": ["brutally ", "hard ", "harshly ", "tyrannically "], "A": []}

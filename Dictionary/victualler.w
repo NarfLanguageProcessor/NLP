@@ -1,0 +1,1 @@
+{"index": 359486, "D": "a supplier of victuals, as to an army; sutler", "S": [], "A": []}

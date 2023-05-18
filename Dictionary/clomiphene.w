@@ -1,0 +1,1 @@
+{"index": 60386, "D": "a substance, C26H28ClNO, used for inducing ovulation in certain infertile women.", "S": [], "A": []}

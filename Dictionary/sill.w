@@ -1,0 +1,1 @@
+{"index": 290439, "D": "a horizontal timber, block, or the like serving as a foundation of a wall, house, etc.", "S": ["girder ", "joist ", "piling ", "pillar ", "plank ", "pole ", "shaft ", "timber "], "A": []}

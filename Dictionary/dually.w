@@ -1,0 +1,1 @@
+{"index": 93659, "D": "in a way that relates to or involves two people, items, parts, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175625, "D": "(of an alphabetic letter) of a particular form often different from and smaller than its corresponding capital letter,  and occurring after the initial letter of a proper noun,  of the first word in a sentence, etc. The lowercase letters a, b, q, and r have more distinctive shapes than their uppercase counterparts, A, B, Q, and R.", "S": [], "A": []}

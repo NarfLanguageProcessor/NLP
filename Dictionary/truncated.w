@@ -1,0 +1,1 @@
+{"index": 331599, "D": "shortened by or as if by having a part cut off; cut short", "S": ["insufficient ", "limited ", "meager ", "scant ", "slight "], "A": ["adequate ", "big ", "fat ", "large ", "sufficient ", "giant ", "huge ", "lengthy ", "long ", "older ", "substantial ", "tall "]}

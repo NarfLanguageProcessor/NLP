@@ -1,0 +1,1 @@
+{"index": 11452, "D": "any of the freshwater algae of the genus Anabaena, commonly occurring in masses and often contaminating drinking water, giving it a fishy odor and taste.", "S": [], "A": []}

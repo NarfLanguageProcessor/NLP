@@ -1,0 +1,1 @@
+{"index": 273602, "D": "to turn (someone) into a robot. ", "S": ["automate ", "brutalize "], "A": ["humanize "]}

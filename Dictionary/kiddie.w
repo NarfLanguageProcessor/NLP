@@ -1,0 +1,1 @@
+{"index": 164459, "D": "a child.", "S": ["juvenile ", "kid ", "minor ", "offspring ", "youngster ", "youth "], "A": ["adult ", "parent "]}

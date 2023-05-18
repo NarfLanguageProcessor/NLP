@@ -1,0 +1,1 @@
+{"index": 102549, "D": "(of plants) growing on stones.", "S": [], "A": []}

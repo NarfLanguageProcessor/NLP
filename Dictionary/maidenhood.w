@@ -1,0 +1,1 @@
+{"index": 177776, "D": "the state or time of being a maiden  or virgin.", "S": ["chastity "], "A": []}

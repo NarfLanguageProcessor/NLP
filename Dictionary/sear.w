@@ -1,0 +1,1 @@
+{"index": 282532, "D": "to burn or char the surface of", "S": ["blight ", "scorch ", "sizzle ", "toast "], "A": ["bloom ", "grow ", "moisten ", "wet "]}

@@ -1,0 +1,1 @@
+{"index": 221688, "D": "full of trust;  free of distrust, suspicion, or the like; confiding", "S": [], "A": []}

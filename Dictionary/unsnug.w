@@ -1,0 +1,1 @@
+{"index": 351476, "D": "warmly comfortable or cozy, as a place, accommodations, etc.", "S": [], "A": []}

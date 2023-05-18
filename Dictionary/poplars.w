@@ -1,0 +1,1 @@
+{"index": 243237, "D": "any of the rapidly growing, salicaceous trees of the genus Populus, usually characterized by the columnar or spirelike manner of growth of its branches.", "S": [], "A": []}

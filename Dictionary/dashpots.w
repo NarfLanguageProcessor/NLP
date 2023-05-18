@@ -1,0 +1,1 @@
+{"index": 77089, "D": "a device for cushioning, damping, or reversing the motion of a piece of machinery, consisting of a cylinder in which a piston operates to create a pressure or vacuum on an enclosed gas or to force a fluid in or out of the chamber through narrow openings.", "S": [], "A": []}

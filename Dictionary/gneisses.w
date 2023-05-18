@@ -1,0 +1,1 @@
+{"index": 127095, "D": "a metamorphic rock, generally made up of bands that differ in color and composition, some bands being rich in feldspar and quartz, others rich in hornblende or mica.", "S": [], "A": []}

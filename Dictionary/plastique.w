@@ -1,0 +1,1 @@
+{"index": 239265, "D": "a ballet technique for mastering the art of slow, controlled movement and statuelike posing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15954, "D": "the condition or office of a priest. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113080, "D": "a variant of fjord. ", "S": ["anchorage ", "arm ", "basin ", "bayou ", "bight ", "cove ", "estuary ", "firth ", "gulf ", "harbor ", "inlet ", "lagoon ", "loch ", "mouth ", "narrows ", "sound ", "strait "], "A": []}

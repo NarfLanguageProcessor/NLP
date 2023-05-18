@@ -1,0 +1,1 @@
+{"index": 22468, "D": "a form of infantilism caused by pituitary malfunction, characterized by a childish face and voice and associated physical underdevelopment, but not affecting intelligence.", "S": [], "A": []}

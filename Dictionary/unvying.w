@@ -1,0 +1,1 @@
+{"index": 353822, "D": "competing; contending", "S": [], "A": []}

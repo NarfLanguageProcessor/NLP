@@ -1,0 +1,1 @@
+{"index": 239645, "D": "the state or feeling of being pleased. ", "S": [], "A": []}

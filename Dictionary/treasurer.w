@@ -1,0 +1,1 @@
+{"index": 328702, "D": "a person in charge of treasure  or a treasury.", "S": ["officer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167296, "D": "shaped like a flask; having an enlarged base tapering to a narrow neck.", "S": [], "A": []}

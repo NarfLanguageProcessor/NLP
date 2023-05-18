@@ -1,0 +1,1 @@
+{"index": 300176, "D": "a disease caused by infection with a spirochete. ", "S": [], "A": []}

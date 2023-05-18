@@ -1,0 +1,1 @@
+{"index": 76777, "D": "a member of a New Guinea people living in the central highlands of West Irian", "S": [], "A": []}

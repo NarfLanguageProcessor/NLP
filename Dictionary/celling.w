@@ -1,0 +1,1 @@
+{"index": 50578, "D": "a small room, as in a convent or prison.", "S": [], "A": []}

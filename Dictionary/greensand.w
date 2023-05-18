@@ -1,0 +1,1 @@
+{"index": 129589, "D": "a sandstone containing much glauconite, which gives it a greenish hue.", "S": [], "A": []}

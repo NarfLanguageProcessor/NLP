@@ -1,0 +1,1 @@
+{"index": 24597, "D": "the advance group in any field, especially in the visual, literary, or musical arts, whose works are characterized chiefly by unorthodox and experimental methods.", "S": ["contemporary ", "ingenious ", "inventive ", "new ", "original "], "A": ["old ", "old-fashioned ", "worn "]}

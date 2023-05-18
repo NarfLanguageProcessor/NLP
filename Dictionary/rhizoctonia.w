@@ -1,0 +1,1 @@
+{"index": 272188, "D": "any of various soil-inhabiting fungi of the genus Rhizoctonia, some species of which are destructive to cultivated plants, causing damping off of seedlings, foliage blight, root and stem cankers, and rot of storage organs.", "S": [], "A": []}

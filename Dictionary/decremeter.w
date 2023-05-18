@@ -1,0 +1,1 @@
+{"index": 78752, "D": "an instrument for measuring the damping of an electromagnetic wave train.", "S": [], "A": []}

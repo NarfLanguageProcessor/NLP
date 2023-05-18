@@ -1,0 +1,1 @@
+{"index": 92728, "D": "checkerboard (def. 1). ", "S": [], "A": []}

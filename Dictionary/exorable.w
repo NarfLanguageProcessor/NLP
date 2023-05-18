@@ -1,0 +1,1 @@
+{"index": 107430, "D": "susceptible of being persuaded or moved by entreaty.", "S": [], "A": []}

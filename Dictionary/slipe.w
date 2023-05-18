@@ -1,0 +1,1 @@
+{"index": 294156, "D": "a sledge, drag, or sleigh.", "S": [], "A": []}

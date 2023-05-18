@@ -1,0 +1,1 @@
+{"index": 48795, "D": "a book  in which detailed records of a case  are kept and from which illustrative material can be taken in the presentation of a thesis, lecture, or the like.", "S": [], "A": []}

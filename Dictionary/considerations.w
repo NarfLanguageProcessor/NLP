@@ -1,0 +1,1 @@
+{"index": 66806, "D": "the act of considering; careful thought; meditation; deliberation", "S": ["application ", "attention ", "debate ", "deliberation ", "discussion ", "examination ", "review ", "scrutiny ", "study "], "A": ["disregard ", "ignorance ", "neglect ", "thoughtlessness "]}

@@ -1,0 +1,1 @@
+{"index": 222994, "D": "an elaborate public spectacle illustrative of the history of a place, institution, or the like, often given in dramatic form or as a procession of colorful floats.", "S": [], "A": []}

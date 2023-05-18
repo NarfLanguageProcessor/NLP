@@ -1,0 +1,1 @@
+{"index": 325617, "D": "the capacity of a merchant vessel, expressed either in units of weight, as deadweight tons,  or of volume, as gross tons. ", "S": ["consignment ", "freight ", "goods ", "load ", "merchandise ", "payload ", "shipment "], "A": []}

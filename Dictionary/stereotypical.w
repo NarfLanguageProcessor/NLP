@@ -1,0 +1,1 @@
+{"index": 303994, "D": "portraying a simplified and standardized conception or image, often one that is construed as derogatory", "S": ["archetypal ", "characteristic ", "common ", "customary ", "ordinary ", "prototypical ", "stereotypic ", "stock ", "traditional ", "typical ", "usual "], "A": []}

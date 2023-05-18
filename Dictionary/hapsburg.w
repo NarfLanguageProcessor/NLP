@@ -1,0 +1,1 @@
+{"index": 133522, "D": "a German princely family, prominent since the 13th century, that has furnished sovereigns to the Holy Roman Empire, Austria, Spain, etc.", "S": [], "A": []}

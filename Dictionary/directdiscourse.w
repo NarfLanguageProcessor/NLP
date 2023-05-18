@@ -1,0 +1,1 @@
+{"index": 86759, "D": [], "S": ["direct quotation ", "direct speech ", "oratio directa "], "A": []}

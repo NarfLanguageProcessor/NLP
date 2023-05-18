@@ -1,0 +1,1 @@
+{"index": 236519, "D": "any of several large, slender, voracious freshwater fishes of the genus Esox, having a long, flat snout.", "S": [], "A": []}

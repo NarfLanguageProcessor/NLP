@@ -1,0 +1,1 @@
+{"index": 140484, "D": "to treat (a film or emulsion) so as to increase its speed.", "S": [], "A": []}

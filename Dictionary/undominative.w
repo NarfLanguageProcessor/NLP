@@ -1,0 +1,1 @@
+{"index": 340756, "D": "dominating; controlling.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 44632, "D": "a horse, especially an Indian pony.", "S": ["crib ", "glass ", "mustang ", "nag ", "pinto ", "racehorse ", "trot "], "A": []}

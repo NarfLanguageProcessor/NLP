@@ -1,0 +1,1 @@
+{"index": 146285, "D": "a state in the northwestern United States. 83,557 sq. mi. (216,415 sq. km). Capital", "S": [], "A": []}

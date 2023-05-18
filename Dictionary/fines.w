@@ -1,0 +1,1 @@
+{"index": 112917, "D": "of superior or best quality; of high or highest grade", "S": ["punishment "], "A": ["award ", "compensation ", "reimbursement ", "reward "]}

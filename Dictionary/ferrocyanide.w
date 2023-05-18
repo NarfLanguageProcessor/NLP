@@ -1,0 +1,1 @@
+{"index": 111532, "D": "a salt of ferrocyanic acid, as potassium ferrocyanide,  K4Fe(CN)6.", "S": [], "A": []}

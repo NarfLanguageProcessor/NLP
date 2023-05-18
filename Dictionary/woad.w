@@ -1,0 +1,1 @@
+{"index": 366800, "D": "a European plant, Isatis tinctoria, of the mustard family, formerly cultivated for a blue dye extracted from its leaves.", "S": [], "A": []}

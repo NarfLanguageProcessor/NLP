@@ -1,0 +1,1 @@
+{"index": 246297, "D": "the act of conforming, acquiescing, or yielding.", "S": [], "A": []}

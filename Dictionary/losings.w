@@ -1,0 +1,1 @@
+{"index": 175350, "D": "losses, esp money lost in gambling", "S": ["going belly up ", "law of diminishing returns ", "losses "], "A": []}

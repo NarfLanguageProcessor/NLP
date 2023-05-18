@@ -1,0 +1,1 @@
+{"index": 217858, "D": "to ramble without a definite purpose or objective; roam, rove, or stray", "S": [], "A": []}

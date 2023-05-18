@@ -1,0 +1,1 @@
+{"index": 281198, "D": [], "S": ["comprehensive ", "expansive ", "extensive ", "far-reaching ", "sweeping ", "universal ", "wide ", "wide-ranging "], "A": ["exclusive ", "narrow ", "particular "]}

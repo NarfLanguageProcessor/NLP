@@ -1,0 +1,1 @@
+{"index": 73144, "D": "treatment by means of applications of cold.", "S": [], "A": []}

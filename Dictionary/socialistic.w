@@ -1,0 +1,1 @@
+{"index": 296106, "D": "of or relating to socialists or socialism. ", "S": ["accepted ", "popular ", "prevailing ", "prevalent ", "shared ", "universal "], "A": ["uncommon ", "individual ", "particular ", "private ", "separate ", "singular ", "specific "]}

@@ -1,0 +1,1 @@
+{"index": 98451, "D": "a sudden, urgent, usually unexpected occurrence or occasion requiring immediate action.", "S": ["accident ", "crunch ", "difficulty ", "necessity ", "tension "], "A": ["calmness ", "ease ", "peace ", "advantage ", "benefit ", "blessing ", "closure ", "good fortune ", "happiness ", "solution ", "success "]}

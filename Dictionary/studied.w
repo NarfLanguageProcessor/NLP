@@ -1,0 +1,1 @@
+{"index": 306798, "D": "marked by or suggestive of conscious effort; not spontaneous or natural; affected", "S": ["calculated ", "considered ", "designed ", "planned ", "prepared ", "thoughtful "], "A": ["natural ", "spontaneous ", "unintentional ", "unplanned "]}

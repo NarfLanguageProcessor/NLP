@@ -1,0 +1,1 @@
+{"index": 342688, "D": "to cause to thaw; melt.", "S": [], "A": []}

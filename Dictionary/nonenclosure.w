@@ -1,0 +1,1 @@
+{"index": 203496, "D": "something that encloses,  as a fence or wall.", "S": [], "A": []}

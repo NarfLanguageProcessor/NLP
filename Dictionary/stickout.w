@@ -1,0 +1,1 @@
+{"index": 304323, "D": "a person who is outstanding or conspicuous, usually for superior endowments, talents, etc.", "S": ["blue flu ", "industrial action ", "sick-in ", "slowdown ", "strike ", "tie up ", "walkout "], "A": []}

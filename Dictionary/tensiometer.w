@@ -1,0 +1,1 @@
+{"index": 318990, "D": "an instrument for measuring longitudinal stress in wires, structural beams, etc.", "S": [], "A": []}

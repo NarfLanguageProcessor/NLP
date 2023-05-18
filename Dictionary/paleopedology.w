@@ -1,0 +1,1 @@
+{"index": 223772, "D": "the branch of pedology  dealing with the soils of past geologic ages.", "S": [], "A": []}

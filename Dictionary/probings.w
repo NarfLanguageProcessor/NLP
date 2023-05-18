@@ -1,0 +1,1 @@
+{"index": 251064, "D": [], "S": ["inquisition "], "A": ["conclusion ", "findings "]}

@@ -1,0 +1,1 @@
+{"index": 280307, "D": "streaks or irregularly shaped masses in an igneous rock that differ in texture or composition from the main mass.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336458, "D": "a covering, usually of fabric, supported on poles or suspended above a bed, throne, exalted personage, or sacred object.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248589, "D": "something that one's efforts or actions are intended to attain or accomplish; purpose; goal; target", "S": [], "A": []}

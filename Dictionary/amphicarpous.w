@@ -1,0 +1,1 @@
+{"index": 11087, "D": "producing two kinds of fruit that differ either in form or in time of ripening.", "S": [], "A": []}

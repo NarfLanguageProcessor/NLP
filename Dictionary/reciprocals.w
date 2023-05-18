@@ -1,0 +1,1 @@
+{"index": 262876, "D": "given or felt by each toward the other; mutual", "S": ["acquaintance ", "bride ", "buddy ", "classmate ", "companion ", "comrade ", "coworker ", "playmate ", "roommate ", "schoolmate ", "spouse "], "A": ["enemy ", "foe ", "opponent ", "stranger ", "antagonist ", "detractor "]}

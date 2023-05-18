@@ -1,0 +1,1 @@
+{"index": 144428, "D": "to keep or maintain a house.", "S": [], "A": []}

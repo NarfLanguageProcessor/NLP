@@ -1,0 +1,1 @@
+{"index": 56167, "D": "the annual festival of the Christian church commemorating the birth of Jesus", "S": ["Christmastide ", "Noel ", "Xmas ", "Yule ", "Yuletide "], "A": []}

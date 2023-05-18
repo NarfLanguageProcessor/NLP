@@ -1,0 +1,1 @@
+{"index": 83197, "D": "to discourage or restrain from acting or proceeding", "S": ["discouraging ", "hampering ", "impeding "], "A": []}

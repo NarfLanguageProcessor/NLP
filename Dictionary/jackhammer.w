@@ -1,0 +1,1 @@
+{"index": 159912, "D": "a portable drill operated by compressed air and used to drill rock, break up pavement, etc.", "S": ["auger ", "awl ", "bit ", "borer ", "corkscrew ", "countersink ", "dibble ", "gimlet ", "implement ", "punch ", "riveter ", "trepan ", "trephine ", "wimble "], "A": []}

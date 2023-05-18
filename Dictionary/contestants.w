@@ -1,0 +1,1 @@
+{"index": 67408, "D": "a person who takes part in a contest  or competition.", "S": ["competition "], "A": []}

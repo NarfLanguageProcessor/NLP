@@ -1,0 +1,1 @@
+{"index": 348014, "D": "characterized by or given to platitudes. ", "S": [], "A": []}

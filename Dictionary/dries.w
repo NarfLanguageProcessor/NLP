@@ -1,0 +1,1 @@
+{"index": 93052, "D": "free from moisture or excess moisture; not moist; not wet", "S": ["arid ", "bare ", "barren ", "dehydrated ", "dusty ", "parched ", "stale ", "torrid "], "A": ["damp ", "full ", "moist ", "wet "]}

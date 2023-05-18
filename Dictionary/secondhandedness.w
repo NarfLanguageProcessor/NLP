@@ -1,0 +1,1 @@
+{"index": 282767, "D": "not directly known or experienced; obtained from others or from books", "S": [], "A": []}

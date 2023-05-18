@@ -1,0 +1,1 @@
+{"index": 67191, "D": "to destroy or expend by use; use up.", "S": ["captivated ", "engaged ", "engrossed ", "fascinated ", "involved ", "preoccupied "], "A": ["bored ", "disenthralled ", "disinterested ", "uninterested ", "unoccupied ", "existing "]}

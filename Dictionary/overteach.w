@@ -1,0 +1,1 @@
+{"index": 221534, "D": "to impart knowledge of or skill in; give instruction in", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151297, "D": "a large Madagascan arboreal lemuroid primate, Indri indri, with thick silky fur patterned in black, white, and fawn", "S": [], "A": []}

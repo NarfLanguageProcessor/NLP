@@ -1,0 +1,1 @@
+{"index": 125898, "D": "full of glamour; charmingly or fascinatingly attractive, especially in a mysterious or magical way.", "S": [], "A": []}

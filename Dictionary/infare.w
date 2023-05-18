@@ -1,0 +1,1 @@
+{"index": 151838, "D": "a party or reception for a newly married couple.", "S": [], "A": []}

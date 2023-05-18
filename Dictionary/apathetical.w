@@ -1,0 +1,1 @@
+{"index": 16683, "D": "having or showing little or no emotion", "S": [], "A": []}

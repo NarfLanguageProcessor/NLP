@@ -1,0 +1,1 @@
+{"index": 167733, "D": "inflammation of sensitive laminae  in the hoof of a horse, caused by stressful events, as trauma, infection, or parturition.", "S": [], "A": []}

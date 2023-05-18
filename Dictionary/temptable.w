@@ -1,0 +1,1 @@
+{"index": 318635, "D": "to entice or allure to do something often regarded as unwise, wrong, or immoral.", "S": [], "A": []}

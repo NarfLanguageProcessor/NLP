@@ -1,0 +1,1 @@
+{"index": 193626, "D": "the study of the relations between morphemes and their phonological realizations, components, or mappings.", "S": [], "A": []}

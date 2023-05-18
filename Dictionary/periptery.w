@@ -1,0 +1,1 @@
+{"index": 231270, "D": "a peripteral building.", "S": [], "A": []}

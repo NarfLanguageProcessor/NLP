@@ -1,0 +1,1 @@
+{"index": 362700, "D": "a freshwater sunfish, Lepomis gulosus, of the eastern U.S., having a patch of small teeth on its tongue.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137764, "D": "the production of both microspores and megaspores.", "S": [], "A": []}

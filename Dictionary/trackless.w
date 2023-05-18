@@ -1,0 +1,1 @@
+{"index": 327176, "D": "without a track,  as a snow-covered meadow.", "S": ["impenetrable ", "insurmountable "], "A": ["open ", "passable ", "traveled "]}

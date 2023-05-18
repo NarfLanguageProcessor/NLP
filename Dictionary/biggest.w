@@ -1,0 +1,1 @@
+{"index": 33728, "D": "large, as in size, height, width, or amount", "S": ["bulkiest ", "greatest ", "largest "], "A": ["fewest ", "least ", "worst "]}

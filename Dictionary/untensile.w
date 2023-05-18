@@ -1,0 +1,1 @@
+{"index": 352822, "D": "of or relating to tension", "S": [], "A": []}

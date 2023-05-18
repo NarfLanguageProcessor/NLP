@@ -1,0 +1,1 @@
+{"index": 357207, "D": "a varicose condition of the spermatic veins of the scrotum.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60193, "D": "a ring or saddle-shaped region of glandular tissue in the body wall of certain annelids, as earthworms and some leeches, that after copulation secretes a cocoon in which the eggs and sperm are deposited for fertilization and development.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 44474, "D": "a kind of coffeepot in which boiling water is poured onto ground coffee and a plunger fitted with a metal filter is pressed down, forcing the grounds to the bottom", "S": [], "A": []}

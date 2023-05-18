@@ -1,0 +1,1 @@
+{"index": 204643, "D": "a disposition or bent, especially of the mind or will; a liking or preference", "S": [], "A": []}

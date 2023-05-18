@@ -1,0 +1,1 @@
+{"index": 211552, "D": "variant of offense. ", "S": [], "A": []}

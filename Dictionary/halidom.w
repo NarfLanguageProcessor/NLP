@@ -1,0 +1,1 @@
+{"index": 132651, "D": "a holy place, as a church or sanctuary.", "S": [], "A": []}

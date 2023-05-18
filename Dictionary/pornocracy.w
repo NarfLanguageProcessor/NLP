@@ -1,0 +1,1 @@
+{"index": 243462, "D": "government or domination of government by whores", "S": [], "A": []}

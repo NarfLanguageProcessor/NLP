@@ -1,0 +1,1 @@
+{"index": 58458, "D": "a member of an order of monks and nuns founded in 1098 at Citeaux, near Dijon, France, under the rule of St. Benedict.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78050, "D": "to remove carbon dioxide from.", "S": [], "A": []}

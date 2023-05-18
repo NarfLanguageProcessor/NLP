@@ -1,0 +1,1 @@
+{"index": 284413, "D": "disposed to cause harm, suffering, or distress deliberately; feeling or showing ill will or hatred.", "S": [], "A": []}

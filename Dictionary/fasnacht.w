@@ -1,0 +1,1 @@
+{"index": 110174, "D": "a deep-fried raised doughnut; originally served on Shrove Tuesday  as the last sweet treat before Lent.", "S": [], "A": []}

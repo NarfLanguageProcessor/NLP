@@ -1,0 +1,1 @@
+{"index": 277436, "D": "any plant of the genus Salvia, comprising the sages, having opposite leaves and whorled flowers.", "S": [], "A": []}

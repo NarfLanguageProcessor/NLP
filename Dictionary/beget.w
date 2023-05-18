@@ -1,0 +1,1 @@
+{"index": 30599, "D": "(especially of a male parent) to procreate or generate (offspring).", "S": ["bring about ", "engender ", "sire "], "A": ["halt ", "kill ", "stop ", "destroy ", "fail ", "leave "]}

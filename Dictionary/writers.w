@@ -1,0 +1,1 @@
+{"index": 368051, "D": "a person engaged in writing  books, articles, stories, etc., especially as an occupation or profession; an author or journalist.", "S": ["author ", "biographer ", "columnist ", "correspondent ", "critic ", "dramatist ", "editor ", "essayist ", "journalist ", "novelist ", "poet ", "reporter ", "screenwriter "], "A": ["reader "]}

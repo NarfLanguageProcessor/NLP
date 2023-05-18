@@ -1,0 +1,1 @@
+{"index": 31191, "D": "a warlike or aggressively hostile nature, condition, or attitude.", "S": ["aggressiveness ", "antagonism "], "A": []}

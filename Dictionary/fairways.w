@@ -1,0 +1,1 @@
+{"index": 109352, "D": "an unobstructed passage, way, or area.", "S": ["back nine ", "front nine ", "green ", "links "], "A": []}

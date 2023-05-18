@@ -1,0 +1,1 @@
+{"index": 6855, "D": "a ceramic or metal unit the size of a brick, open at the sides for admitting air to a building interior.", "S": [], "A": []}

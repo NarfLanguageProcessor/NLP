@@ -1,0 +1,1 @@
+{"index": 299876, "D": "any of a group of minerals composed principally of oxides of magnesium, aluminum, iron, manganese, chromium, etc., characterized by their hardness and octahedral crystals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171828, "D": "a feudal lord entitled to allegiance and service.", "S": ["case ", "patient "], "A": ["manager ", "owner "]}

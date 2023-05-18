@@ -1,0 +1,1 @@
+{"index": 109959, "D": "a shrub or small tree, Vaccinium arboreum, of the heath family, native to the southern U.S., bearing small, waxy, white flowers and black, many-seeded berries.", "S": [], "A": []}

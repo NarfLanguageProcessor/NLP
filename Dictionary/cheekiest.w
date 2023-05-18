@@ -1,0 +1,1 @@
+{"index": 53422, "D": "impudent; insolent", "S": ["bold ", "brash ", "saucy "], "A": ["courteous ", "polite ", "well-behaved "]}

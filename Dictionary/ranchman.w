@@ -1,0 +1,1 @@
+{"index": 260478, "D": "a rancher.", "S": ["breeder ", "herder ", "herdsman "], "A": []}

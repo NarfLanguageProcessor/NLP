@@ -1,0 +1,1 @@
+{"index": 258235, "D": "any of several tropical American trees of the genus Schinopsis, having very hard wood, especially S. lorentzii, the wood and bark of which are important in tanning and dyeing.", "S": [], "A": []}

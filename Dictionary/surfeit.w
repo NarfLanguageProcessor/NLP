@@ -1,0 +1,1 @@
+{"index": 313407, "D": "excess; an excessive amount", "S": ["glut ", "plethora ", "profusion "], "A": ["lack ", "need ", "want "]}

@@ -1,0 +1,1 @@
+{"index": 81634, "D": "to remove the hair from (hides, skin, etc.).", "S": [], "A": []}

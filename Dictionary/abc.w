@@ -1,0 +1,1 @@
+{"index": 234, "D": "ABC's (defs. 1, 3). ", "S": ["article ", "case ", "circumstance ", "fact ", "specific "], "A": ["generality "]}

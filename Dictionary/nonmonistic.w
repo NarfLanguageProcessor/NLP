@@ -1,0 +1,1 @@
+{"index": 205358, "D": "Compare pluralism (def. 1b). ", "S": [], "A": []}

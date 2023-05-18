@@ -1,0 +1,1 @@
+{"index": 186547, "D": "one of the mother cells that produce four microspores  by meiosis.", "S": [], "A": []}

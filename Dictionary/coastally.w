@@ -1,0 +1,1 @@
+{"index": 61088, "D": "of, relating to, bordering on, or located near a coast", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 320491, "D": "oceanography, especially that branch dealing with smaller bodies of water, as bays, sounds, and gulfs.", "S": [], "A": []}

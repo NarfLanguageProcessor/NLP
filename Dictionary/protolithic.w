@@ -1,0 +1,1 @@
+{"index": 253709, "D": "noting or pertaining to stone implements selected according to suitability of the form to a particular purpose without definite shaping on the part of the user.", "S": [], "A": []}

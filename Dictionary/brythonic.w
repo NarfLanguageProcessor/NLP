@@ -1,0 +1,1 @@
+{"index": 40995, "D": "P-Celtic, especially that part either spoken in Britain, as Welsh and Cornish, or descended from the P-Celtic speech of Britain, as Breton.", "S": [], "A": []}

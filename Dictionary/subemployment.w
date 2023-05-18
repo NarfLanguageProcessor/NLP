@@ -1,0 +1,1 @@
+{"index": 307877, "D": "insufficient employment  in the labor force of a country, area, or industry, including unemployment and underemployment.", "S": [], "A": []}

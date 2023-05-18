@@ -1,0 +1,1 @@
+{"index": 270357, "D": "a new, and often updated or retranslated, version of a story.", "S": ["drill ", "practice session ", "reading ", "recital ", "tryout ", "workout "], "A": ["cold turkey "]}

@@ -1,0 +1,1 @@
+{"index": 230414, "D": "a person or thing that perches. ", "S": [], "A": []}

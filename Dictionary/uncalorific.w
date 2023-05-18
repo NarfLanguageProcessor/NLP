@@ -1,0 +1,1 @@
+{"index": 336412, "D": "pertaining to conversion into heat.", "S": [], "A": []}

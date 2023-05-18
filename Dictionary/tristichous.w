@@ -1,0 +1,1 @@
+{"index": 330639, "D": "arranged in three rows.", "S": [], "A": []}

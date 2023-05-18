@@ -1,0 +1,1 @@
+{"index": 181695, "D": "deficient in quantity or quality; lacking fullness or richness; scanty; inadequate", "S": ["aridity ", "need ", "poverty ", "scantiness ", "scarcity "], "A": ["abundance ", "luxury ", "wealth "]}

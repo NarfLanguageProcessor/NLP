@@ -1,0 +1,1 @@
+{"index": 112082, "D": "a tumor consisting essentially of fibrous tissue.", "S": [], "A": []}

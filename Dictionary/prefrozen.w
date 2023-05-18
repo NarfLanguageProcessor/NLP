@@ -1,0 +1,1 @@
+{"index": 247677, "D": "past participle of freeze. ", "S": [], "A": []}

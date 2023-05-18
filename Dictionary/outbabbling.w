@@ -1,0 +1,1 @@
+{"index": 216139, "D": "to utter sounds or words imperfectly, indistinctly, or without meaning.", "S": [], "A": []}

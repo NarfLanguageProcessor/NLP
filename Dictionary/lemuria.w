@@ -1,0 +1,1 @@
+{"index": 170367, "D": "a hypothetical continent said to be submerged under the Indian Ocean, originally posited to explain the presence of lemur fossils only in India and Madagascar and then suggested as the origin of the human race", "S": [], "A": []}

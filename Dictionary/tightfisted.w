@@ -1,0 +1,1 @@
+{"index": 323468, "D": "parsimonious; stingy; tight.", "S": ["frugal ", "greedy ", "thrifty "], "A": ["extravagant ", "generous ", "uneconomical ", "wasteful "]}

@@ -1,0 +1,1 @@
+{"index": 362687, "D": "having or showing sympathy, affection, kindness, cordiality, etc.", "S": ["cordial ", "gentle ", "good-hearted ", "gracious ", "kindhearted ", "neighborly ", "polite ", "sympathetic ", "thoughtful "], "A": ["cold ", "cool ", "disagreeable ", "nasty ", "rude ", "uncaring ", "unfriendly ", "unkind ", "unsociable ", "unsympathetic "]}

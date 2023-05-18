@@ -1,0 +1,1 @@
+{"index": 37555, "D": "a coin and monetary unit of Venezuela, equal to 100 centimos. Abbreviation", "S": [], "A": []}

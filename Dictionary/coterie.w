@@ -1,0 +1,1 @@
+{"index": 70299, "D": "a group of people who associate closely.", "S": ["cadre "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351021, "D": "causing intense surprise, disgust, horror, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293817, "D": "of or relating to Slavonia  or its inhabitants.", "S": [], "A": []}

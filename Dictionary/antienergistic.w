@@ -1,0 +1,1 @@
+{"index": 15188, "D": "opposing or resisting applied energy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219819, "D": "having a mental tendency in a certain direction.", "S": [], "A": []}

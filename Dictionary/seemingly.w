@@ -1,0 +1,1 @@
+{"index": 283135, "D": "with seemingly effortless ease", "S": ["ostensibly ", "professedly "], "A": []}

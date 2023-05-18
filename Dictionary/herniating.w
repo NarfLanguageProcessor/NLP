@@ -1,0 +1,1 @@
+{"index": 137211, "D": "to protrude abnormally from an enclosed cavity or from the body so as to constitute a hernia. ", "S": [], "A": []}

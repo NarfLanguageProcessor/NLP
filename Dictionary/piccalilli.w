@@ -1,0 +1,1 @@
+{"index": 235816, "D": "a pungent relish of East Indian origin, made of chopped vegetables, mustard, vinegar, and hot spices.", "S": [], "A": []}

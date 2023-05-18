@@ -1,0 +1,1 @@
+{"index": 74643, "D": "one of a pair of linked ornamental buttons or buttonlike devices for fastening a shirt cuff.", "S": [], "A": []}

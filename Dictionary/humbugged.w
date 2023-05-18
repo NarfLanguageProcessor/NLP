@@ -1,0 +1,1 @@
+{"index": 144919, "D": "something intended to delude or deceive.", "S": ["alter ", "shuffle "], "A": ["leave alone ", "neglect ", "reveal "]}

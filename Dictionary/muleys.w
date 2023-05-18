@@ -1,0 +1,1 @@
+{"index": 194896, "D": "(of cattle or deer) hornless; polled.", "S": [], "A": []}

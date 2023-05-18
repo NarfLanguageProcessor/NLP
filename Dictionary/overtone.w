@@ -1,0 +1,1 @@
+{"index": 221644, "D": "an acoustical frequency that is higher in frequency than the fundamental.", "S": ["connotation ", "flavor ", "meaning ", "nuance ", "tone ", "undercurrent ", "undertone "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352308, "D": "being that which follows; subsequent; ensuing", "S": [], "A": []}

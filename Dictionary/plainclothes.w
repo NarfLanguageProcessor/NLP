@@ -1,0 +1,1 @@
+{"index": 238782, "D": "clothing other than one's uniform, especially civilian clothes worn on duty by a police officer.", "S": [], "A": []}

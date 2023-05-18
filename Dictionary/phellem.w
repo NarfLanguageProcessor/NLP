@@ -1,0 +1,1 @@
+{"index": 233258, "D": "cork (def. 6). ", "S": ["bobber ", "close ", "float ", "oak ", "plug ", "seal ", "spike ", "stop ", "stopper ", "stopple "], "A": ["beginning ", "opening ", "start "]}

@@ -1,0 +1,1 @@
+{"index": 108269, "D": "the state or fact of being exterior. ", "S": ["coating ", "facade ", "skin ", "surface "], "A": ["core ", "interior ", "middle ", "center ", "inside "]}

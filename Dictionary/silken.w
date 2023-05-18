@@ -1,0 +1,1 @@
+{"index": 290404, "D": "made of silk.", "S": ["lustrous ", "satin ", "satiny ", "silky "], "A": []}

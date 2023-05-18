@@ -1,0 +1,1 @@
+{"index": 51395, "D": "to use the mind; think or think about.", "S": [], "A": []}

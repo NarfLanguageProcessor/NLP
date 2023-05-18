@@ -1,0 +1,1 @@
+{"index": 151956, "D": "The inability to achieve conception after persistent attempts over a given period of time, usually one year in humans.", "S": ["impotence "], "A": []}

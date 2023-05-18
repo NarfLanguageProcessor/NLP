@@ -1,0 +1,1 @@
+{"index": 266449, "D": "the act of interrogating;  questioning.", "S": [], "A": []}

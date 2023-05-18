@@ -1,0 +1,1 @@
+{"index": 53156, "D": "of, relating to, or characteristic of Chaucer's  writings", "S": [], "A": []}

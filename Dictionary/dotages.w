@@ -1,0 +1,1 @@
+{"index": 91880, "D": "a decline of mental faculties, especially as associated with old age; senility.", "S": ["decrepitude ", "fatuity ", "imbecility ", "infirmity ", "senility ", "weakness "], "A": ["strength "]}

@@ -1,0 +1,1 @@
+{"index": 351403, "D": "to spread or daub (an oily, greasy, viscous, or wet substance) on or over something", "S": [], "A": []}

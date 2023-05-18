@@ -1,0 +1,1 @@
+{"index": 260145, "D": "a grape of any of various sweet varieties dried in the sun or by artificial means, often used in cooking.", "S": [], "A": []}

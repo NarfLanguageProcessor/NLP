@@ -1,0 +1,1 @@
+{"index": 64711, "D": "a person, group, etc., that complies. ", "S": [], "A": []}

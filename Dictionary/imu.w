@@ -1,0 +1,1 @@
+{"index": 149311, "D": "a usually large, covered cooking pit in which food is cooked by means of heated stones.", "S": [], "A": []}

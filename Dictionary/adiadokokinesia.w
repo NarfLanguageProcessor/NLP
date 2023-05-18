@@ -1,0 +1,1 @@
+{"index": 3879, "D": "the inability to perform rapidly alternating muscular movements, as flexion and extension.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84923, "D": "belonging or pertaining to the Dicotyledoneae; having two cotyledons.", "S": [], "A": []}

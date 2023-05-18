@@ -1,0 +1,1 @@
+{"index": 307148, "D": "a person whose function or duty is the distribution of alms on behalf of an institution, a royal personage, a monastery, etc.", "S": [], "A": []}

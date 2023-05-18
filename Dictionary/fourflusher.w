@@ -1,0 +1,1 @@
+{"index": 117979, "D": "a person who makes false or pretentious claims; bluffer.", "S": ["counterfeit ", "deception ", "fabrication ", "forgery ", "hoax ", "phony ", "scam ", "sham ", "trick "], "A": ["original "]}

@@ -1,0 +1,1 @@
+{"index": 222118, "D": "any plant of the genus Oxalis, comprising the wood sorrels.", "S": [], "A": []}

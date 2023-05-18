@@ -1,0 +1,1 @@
+{"index": 261290, "D": "marked or furrowed with ravines. ", "S": [], "A": []}

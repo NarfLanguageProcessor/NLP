@@ -1,0 +1,1 @@
+{"index": 264704, "D": "to inspire with courage, spirit, or confidence", "S": [], "A": []}

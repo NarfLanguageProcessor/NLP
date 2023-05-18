@@ -1,0 +1,1 @@
+{"index": 67782, "D": "caused by or showing sincere remorse.", "S": [], "A": []}

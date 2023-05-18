@@ -1,0 +1,1 @@
+{"index": 1194, "D": "the boundary lines of a piece of land in relation to adjacent lands.", "S": ["barrier ", "border ", "borderline ", "bounds ", "confines ", "edge ", "frontier ", "horizon ", "line ", "perimeter "], "A": ["center ", "inside ", "interior ", "middle ", "opening ", "start "]}

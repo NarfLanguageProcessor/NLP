@@ -1,0 +1,1 @@
+{"index": 362529, "D": "a proteaceous shrub, Telopea speciosissima, the floral emblem of New South Wales, having dark green leaves and large clusters of crimson flowers", "S": [], "A": []}

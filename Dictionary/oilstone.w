@@ -1,0 +1,1 @@
+{"index": 211877, "D": "a block of fine-grained stone,  usually oiled,  for putting the final edge on certain cutting tools by abrasion.", "S": [], "A": []}

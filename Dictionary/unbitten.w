@@ -1,0 +1,1 @@
+{"index": 335922, "D": "a past participle of bite. ", "S": [], "A": []}

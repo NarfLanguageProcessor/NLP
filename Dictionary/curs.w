@@ -1,0 +1,1 @@
+{"index": 75444, "D": "a mongrel dog, especially a worthless or unfriendly one.", "S": ["dregs ", "rabble ", "riffraff ", "rubbish ", "trash ", "vermin "], "A": []}

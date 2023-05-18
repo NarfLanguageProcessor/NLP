@@ -1,0 +1,1 @@
+{"index": 160863, "D": "a female donkey; a jenny donkey.", "S": ["burro ", "horse ", "mule "], "A": []}

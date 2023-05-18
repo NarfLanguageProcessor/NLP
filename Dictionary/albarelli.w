@@ -1,0 +1,1 @@
+{"index": 7396, "D": "a majolica jar of the 15th and 16th centuries, cylindrical with a waist slightly narrower than the ends, used in Spain and Italy for keeping dry drugs.", "S": [], "A": []}

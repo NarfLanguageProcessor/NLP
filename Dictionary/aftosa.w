@@ -1,0 +1,1 @@
+{"index": 5807, "D": "foot-and-mouth disease. ", "S": [], "A": []}

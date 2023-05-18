@@ -1,0 +1,1 @@
+{"index": 288793, "D": "a retail store, especially a small one.", "S": ["boutique ", "chain ", "deli ", "department store ", "emporium ", "market ", "mill ", "outlet ", "showroom ", "stand ", "store ", "supermarket "], "A": []}

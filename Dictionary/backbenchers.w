@@ -1,0 +1,1 @@
+{"index": 25723, "D": "any of the members of a legislature, especially of the House of Commons of Great Britain, but not including the leaders of the parties.", "S": [], "A": []}

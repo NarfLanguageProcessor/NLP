@@ -1,0 +1,1 @@
+{"index": 192154, "D": "a person who perceives all colours as a single hue", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156771, "D": "serving or used to introduce;  preliminary; beginning", "S": ["inaugural ", "preparatory "], "A": ["concluding ", "ending ", "final ", "finishing ", "last "]}

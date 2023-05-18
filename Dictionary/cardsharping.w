@@ -1,0 +1,1 @@
+{"index": 47894, "D": "a person, especially a professional gambler, who cheats at card  games.", "S": [], "A": []}

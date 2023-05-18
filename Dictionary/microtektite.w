@@ -1,0 +1,1 @@
+{"index": 186583, "D": "a microscopic tektite  found in ocean sediments and polar ice.", "S": [], "A": []}

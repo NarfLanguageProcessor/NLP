@@ -1,0 +1,1 @@
+{"index": 170883, "D": "of, relating to, or causing death; deadly; fatal", "S": ["dangerous ", "destructive ", "devastating ", "fatal ", "harmful ", "malignant ", "mortal ", "murderous ", "noxious ", "pernicious ", "poisonous ", "virulent "], "A": ["harmless ", "healthy ", "helpful ", "kind ", "wholesome "]}

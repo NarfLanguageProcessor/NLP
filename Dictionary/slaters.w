@@ -1,0 +1,1 @@
+{"index": 293718, "D": "a person who lays slates,  as for roofing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77171, "D": "having or showing a date", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16240, "D": "an adherent of spiritualism. ", "S": [], "A": []}

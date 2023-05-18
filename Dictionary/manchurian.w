@@ -1,0 +1,1 @@
+{"index": 178941, "D": "of or relating to Manchuria, a region of NE China, or its inhabitants", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192507, "D": "a person who maintains that Christ has one, wholly divine nature, or in certain interpretations that this one divine nature is inclusive of Christ\u2019s subordinate humanity; an adherent ofMonophysitism. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 135437, "D": "a unit of capacity equal to 100 steres, or 131 cubic yards.", "S": [], "A": []}

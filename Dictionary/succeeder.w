@@ -1,0 +1,1 @@
+{"index": 309797, "D": "to happen or terminate according to desire; turn out successfully; have the desired result", "S": [], "A": []}

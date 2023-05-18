@@ -1,0 +1,1 @@
+{"index": 233464, "D": "any chemical substance released by an animal that serves to influence the physiology or behavior of other members of the same species.", "S": [], "A": []}

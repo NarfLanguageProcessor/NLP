@@ -1,0 +1,1 @@
+{"index": 54077, "D": "a reversal in the order of words in two otherwise parallel phrases, as in \u201cHe went to the country, to the town went she.\u201d", "S": [], "A": []}

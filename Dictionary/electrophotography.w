@@ -1,0 +1,1 @@
+{"index": 97215, "D": "photography  using electric rather than chemical processes to transfer an image onto paper, as in xerography.", "S": [], "A": []}

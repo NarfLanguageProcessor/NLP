@@ -1,0 +1,1 @@
+{"index": 198739, "D": "without nervousness, as in emergencies; calm; collected.", "S": [], "A": []}

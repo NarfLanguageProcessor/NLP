@@ -1,0 +1,1 @@
+{"index": 228226, "D": "a large oblong shield of the late 14th through the early 16th centuries, often covering the entire body and used especially by archers and soldiers of the infantry.", "S": [], "A": []}

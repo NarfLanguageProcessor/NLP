@@ -1,0 +1,1 @@
+{"index": 48472, "D": "any of several freshwater suckers  of the genus Carpiodes, as the quillback and the river carpsucker. ", "S": [], "A": []}

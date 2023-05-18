@@ -1,0 +1,1 @@
+{"index": 267150, "D": "to say casually, as in making a comment", "S": ["recorded "], "A": []}

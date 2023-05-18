@@ -1,0 +1,1 @@
+{"index": 324257, "D": "an infectious, often fatal, febrile disease, usually of the summer months, characterized by intestinal inflammation and ulceration, caused by the typhoid bacillus,  which is usually introduced with food or drink.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 255348, "D": "having origin in the mind or in a mental condition or process", "S": ["mental ", "metaphysical ", "psychological ", "spiritual ", "supernatural "], "A": ["body ", "physical ", "real "]}

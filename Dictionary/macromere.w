@@ -1,0 +1,1 @@
+{"index": 176988, "D": "one of the large blastomeres that form toward the vegetal pole in embryos undergoing unequal cleavage.", "S": [], "A": []}

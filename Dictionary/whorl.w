@@ -1,0 +1,1 @@
+{"index": 365377, "D": "a circular arrangement of like parts, as leaves or flowers, around a point on an axis; verticil.", "S": ["coil ", "corkscrew ", "curl ", "eddy ", "helix ", "swirl ", "twirl ", "twist ", "vortex ", "whirlpool "], "A": []}

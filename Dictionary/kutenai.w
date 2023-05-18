@@ -1,0 +1,1 @@
+{"index": 166544, "D": "a member of a North American Indian people of British Columbia, Montana, and Idaho.", "S": [], "A": []}

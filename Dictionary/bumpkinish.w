@@ -1,0 +1,1 @@
+{"index": 42769, "D": "an awkward, simple, unsophisticated person from a rural area; yokel.", "S": [], "A": []}

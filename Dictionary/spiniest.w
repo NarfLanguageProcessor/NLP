@@ -1,0 +1,1 @@
+{"index": 299898, "D": "abounding in or having spines;  thorny, as a plant.", "S": ["barbed ", "pointy ", "sharp ", "spiked ", "spiky ", "spinous ", "thorny "], "A": []}

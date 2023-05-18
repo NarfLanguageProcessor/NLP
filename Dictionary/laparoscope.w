@@ -1,0 +1,1 @@
+{"index": 168292, "D": "a flexible fiberoptic instrument, passed through a small incision in the abdominal wall and equipped with biopsy forceps, an obturator, scissors or the like, with which to examine the abdominal cavity or perform minor surgery.", "S": [], "A": []}

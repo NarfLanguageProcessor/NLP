@@ -1,0 +1,1 @@
+{"index": 109198, "D": "of or resembling a gay man.", "S": [], "A": []}

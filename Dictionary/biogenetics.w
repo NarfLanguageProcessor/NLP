@@ -1,0 +1,1 @@
+{"index": 34371, "D": "genetic engineering. ", "S": ["DNA fingerprinting ", "GM ", "genetic fingerprinting ", "genetic modification ", "recombinant DNA technology "], "A": []}

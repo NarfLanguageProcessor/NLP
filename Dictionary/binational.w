@@ -1,0 +1,1 @@
+{"index": 34164, "D": "of or relating to two nations.", "S": [], "A": []}

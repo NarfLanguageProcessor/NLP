@@ -1,0 +1,1 @@
+{"index": 196850, "D": "any of a group of hydrocarbon ring compounds of the general formula, CnH2n, derivatives of cyclopentane and cyclohexane, found in certain petroleums.", "S": [], "A": []}

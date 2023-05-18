@@ -1,0 +1,1 @@
+{"index": 232470, "D": "the act or process of petrifying;  the state of being petrified.", "S": [], "A": []}

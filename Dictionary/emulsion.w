@@ -1,0 +1,1 @@
+{"index": 98965, "D": "any colloidal suspension of a liquid in another liquid.", "S": ["jelly ", "ointment ", "paste "], "A": []}

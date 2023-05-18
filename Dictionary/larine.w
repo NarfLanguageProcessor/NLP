@@ -1,0 +1,1 @@
+{"index": 168542, "D": "characteristic of or resembling a gull.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16211, "D": "opposed to or promoting the discontinuance of the smoking of tobacco", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 281696, "D": "a long discourse or essay, especially a diatribe.", "S": [], "A": []}

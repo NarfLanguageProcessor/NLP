@@ -1,0 +1,1 @@
+{"index": 361691, "D": "odd or irrational; crazy", "S": ["absurd ", "crazy ", "eccentric ", "foolish ", "loony ", "nutty ", "odd ", "silly ", "unpredictable ", "whacky ", "zany "], "A": ["reasonable ", "sane ", "sensible ", "serious ", "wise "]}

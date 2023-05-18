@@ -1,0 +1,1 @@
+{"index": 319489, "D": "a raised level with a vertical or sloping front or sides faced with masonry, turf, or the like, especially one of a series of levels rising one above another.", "S": ["balcony ", "deck ", "gallery ", "patio ", "platform ", "porch ", "promenade ", "roof "], "A": []}

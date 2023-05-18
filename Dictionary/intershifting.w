@@ -1,0 +1,1 @@
+{"index": 155918, "D": "to put (something) aside and replace it by another or others; change or exchange", "S": [], "A": []}

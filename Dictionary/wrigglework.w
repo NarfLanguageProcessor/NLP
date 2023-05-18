@@ -1,0 +1,1 @@
+{"index": 367971, "D": "decorative engraving of a metal surface with repeated zigzags.", "S": [], "A": []}

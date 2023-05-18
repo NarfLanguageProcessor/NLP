@@ -1,0 +1,1 @@
+{"index": 152380, "D": "one of the two embroidered lappets of the miter of a bishop.", "S": [], "A": []}

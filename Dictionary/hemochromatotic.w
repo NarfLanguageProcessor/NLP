@@ -1,0 +1,1 @@
+{"index": 136337, "D": "a rare metabolic disorder characterized by a bronzed skin, cirrhosis, and severe diabetes, caused by the deposit in tissue, especially of the liver and pancreas, of hemosiderin and other pigments containing iron.", "S": [], "A": []}

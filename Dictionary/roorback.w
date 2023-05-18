@@ -1,0 +1,1 @@
+{"index": 274281, "D": "a false and more or less damaging report circulated for political effect, usually about a candidate seeking an office.", "S": [], "A": []}

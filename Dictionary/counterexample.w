@@ -1,0 +1,1 @@
+{"index": 70787, "D": "an example  that refutes an assertion or claim.", "S": [], "A": []}

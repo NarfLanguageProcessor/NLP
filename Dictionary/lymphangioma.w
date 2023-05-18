@@ -1,0 +1,1 @@
+{"index": 172525, "D": "a benign tumor composed of dilated and newly formed lymph vessels.", "S": [], "A": []}

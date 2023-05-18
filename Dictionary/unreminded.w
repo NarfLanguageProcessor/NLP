@@ -1,0 +1,1 @@
+{"index": 349476, "D": "to cause (a person) to remember; cause (a person) to think (of someone or something)", "S": [], "A": []}

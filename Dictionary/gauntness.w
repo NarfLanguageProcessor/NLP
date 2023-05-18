@@ -1,0 +1,1 @@
+{"index": 122863, "D": "extremely thin and bony; haggard and drawn, as from great hunger, weariness, or torture; emaciated. ", "S": ["emaciation ", "lankiness ", "leanness ", "scrawniness ", "skinniness ", "slenderness "], "A": ["avoirdupois ", "fatness ", "solidity ", "thickness "]}

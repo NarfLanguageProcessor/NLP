@@ -1,0 +1,1 @@
+{"index": 197277, "D": "of, relating to, or maintained by a nation  as an organized whole or independent political unit", "S": ["citizen ", "inhabitant ", "national "], "A": ["alien ", "foreigner ", "immigrant ", "stranger "]}

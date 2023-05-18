@@ -1,0 +1,1 @@
+{"index": 193067, "D": "the light of the moon.", "S": ["effulgence ", "luminescence ", "radiance "], "A": []}

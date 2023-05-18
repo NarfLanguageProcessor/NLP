@@ -1,0 +1,1 @@
+{"index": 274890, "D": "small pieces of timber (about 5\u201315 cm, or 2\u20136 in.) in diameter; small logs", "S": [], "A": []}

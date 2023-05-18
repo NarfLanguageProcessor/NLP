@@ -1,0 +1,1 @@
+{"index": 145441, "D": "(used as an exclamation of joy, applause, appreciation, etc.) hurrah!", "S": [], "A": []}

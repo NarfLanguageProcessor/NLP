@@ -1,0 +1,1 @@
+{"index": 76509, "D": "causing or capable of causing damages;  harmful; injurious.", "S": ["detrimental ", "harmful ", "injurious ", "prejudicial ", "ruinous "], "A": ["advantageous ", "assisting ", "beneficial ", "helpful "]}

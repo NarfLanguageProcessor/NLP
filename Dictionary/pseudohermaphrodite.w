@@ -1,0 +1,1 @@
+{"index": 254790, "D": "(no longer in common use; now considered offensive) an individual having reproductive organs of one sex and other sexual characteristics resembling those of a different sex or being ambiguous in nature. ", "S": [], "A": []}

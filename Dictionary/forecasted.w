@@ -1,0 +1,1 @@
+{"index": 116542, "D": "to predict (a future condition or occurrence); calculate in advance", "S": ["budget ", "calculation ", "estimate ", "outlook ", "prognosis ", "projection "], "A": ["hindsight ", "ignorance ", "thoughtlessness "]}

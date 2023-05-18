@@ -1,0 +1,1 @@
+{"index": 367433, "D": "speechless, silent, or mute.", "S": ["calmly ", "quietly "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66563, "D": "the fact or state of being a connoisseur, a person who is especially competent to make discerning judgments in the fine arts or, often, in some other field; critical expertise, or the qualities of a connoisseur generally", "S": [], "A": []}

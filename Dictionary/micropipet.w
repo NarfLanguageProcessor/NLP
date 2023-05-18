@@ -1,0 +1,1 @@
+{"index": 186393, "D": "a very slender pipette  for transferring or measuring minute amounts of fluid, microorganisms, etc.", "S": [], "A": []}

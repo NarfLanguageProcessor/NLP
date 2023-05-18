@@ -1,0 +1,1 @@
+{"index": 242479, "D": "a clear plastic or stiff foam, a polymer of styrene,  used chiefly as an insulator in refrigerators and air conditioners.", "S": [], "A": []}

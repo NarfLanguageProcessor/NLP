@@ -1,0 +1,1 @@
+{"index": 142341, "D": "a heavy barge used in harbors.", "S": [], "A": []}

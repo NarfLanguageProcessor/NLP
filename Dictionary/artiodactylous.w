@@ -1,0 +1,1 @@
+{"index": 20744, "D": "having an even number of toes or digits on each foot.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 161163, "D": "to be in harmony or accord; agree", "S": ["conform ", "correspond ", "dovetail ", "harmonize "], "A": ["differ ", "disagree ", "fight "]}

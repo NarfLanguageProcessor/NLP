@@ -1,0 +1,1 @@
+{"index": 343498, "D": "a scolding or a long or intense verbal attack; diatribe.", "S": [], "A": []}

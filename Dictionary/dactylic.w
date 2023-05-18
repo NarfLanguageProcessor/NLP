@@ -1,0 +1,1 @@
+{"index": 76037, "D": "of, containing, or characterized by dactyls", "S": ["anapestic ", "dramatic ", "elegiac ", "epic ", "epical ", "epodic ", "iambic ", "idyllic ", "imaginative ", "lyric ", "lyrical ", "melodious ", "metrical ", "odic ", "rhythmical ", "romantic ", "songlike ", "tuneful "], "A": ["prosaic "]}

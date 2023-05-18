@@ -1,0 +1,1 @@
+{"index": 195444, "D": "having a wall  or casing composed of layers of material, often pressed closely together", "S": [], "A": []}

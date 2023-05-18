@@ -1,0 +1,1 @@
+{"index": 235117, "D": "a finish of a race in which two or more contestants are so close to the finish line that reference to a photograph of the finish is necessary to determine the winner.", "S": ["cliffhanger "], "A": []}

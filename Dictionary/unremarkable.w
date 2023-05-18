@@ -1,0 +1,1 @@
+{"index": 349464, "D": "not worthy of note or attention", "S": ["humdrum ", "mediocre ", "undistinguished ", "unexceptional "], "A": ["unusual "]}

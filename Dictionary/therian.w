@@ -1,0 +1,1 @@
+{"index": 321291, "D": "(in some classification systems) belonging or pertaining to the group Theria, comprising the marsupial and placental mammals and their extinct ancestors.", "S": [], "A": []}

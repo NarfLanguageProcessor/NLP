@@ -1,0 +1,1 @@
+{"index": 315909, "D": "a worsted cloth mesh constructed in open weave and having a corded face, used as a sieve or strainer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80755, "D": "of or relating to demography, the science of vital and social statistics.", "S": ["analytical ", "numerical "], "A": []}

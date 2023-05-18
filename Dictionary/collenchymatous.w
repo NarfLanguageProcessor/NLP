@@ -1,0 +1,1 @@
+{"index": 62962, "D": "a layer of modified tissue consisting of cells that are thickened at the angles and usually elongated.", "S": [], "A": []}

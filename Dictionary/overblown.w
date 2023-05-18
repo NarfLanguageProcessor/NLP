@@ -1,0 +1,1 @@
+{"index": 218366, "D": "overdone or excessive", "S": ["disproportionate ", "inflated ", "pretentious ", "superfluous "], "A": ["underrated ", "undervalued "]}

@@ -1,0 +1,1 @@
+{"index": 165156, "D": "a variant of Swahili (def. 2). ", "S": [], "A": []}

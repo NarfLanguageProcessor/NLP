@@ -1,0 +1,1 @@
+{"index": 335586, "D": "acceptable for processing by a bank", "S": [], "A": []}

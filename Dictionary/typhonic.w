@@ -1,0 +1,1 @@
+{"index": 324265, "D": "Compare hurricane (def. 1). ", "S": [], "A": []}

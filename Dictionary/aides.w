@@ -1,0 +1,1 @@
+{"index": 6709, "D": "an assistant or helper, especially a paid employee", "S": ["abettor ", "adjutant ", "aide-de-camp ", "assistant ", "attendant ", "coadjutant ", "coadjutor ", "crew ", "crewman ", "deputy ", "helper ", "lieutenant ", "second ", "supporter "], "A": []}

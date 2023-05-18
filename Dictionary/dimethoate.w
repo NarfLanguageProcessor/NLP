@@ -1,0 +1,1 @@
+{"index": 85880, "D": "a highly toxic crystalline compound, C5H12NO3PS2, used as an insecticide.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189059, "D": "prepared and used for raising crops; tilled", "S": [], "A": []}

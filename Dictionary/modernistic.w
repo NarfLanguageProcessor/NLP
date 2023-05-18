@@ -1,0 +1,1 @@
+{"index": 191099, "D": "modern. ", "S": ["fashionable ", "futuristic ", "high-style ", "mod ", "surrealistic ", "ultramodern "], "A": []}

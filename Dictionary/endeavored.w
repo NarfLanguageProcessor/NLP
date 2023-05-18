@@ -1,0 +1,1 @@
+{"index": 99626, "D": "to exert oneself to do or effect something; make an effort; strive", "S": ["aspire ", "bid for ", "strive ", "take pains ", "undertake "], "A": ["forget ", "conceal ", "hide ", "idle ", "ignore ", "laze ", "neglect ", "overlook ", "pass ", "rest ", "withhold "]}

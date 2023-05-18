@@ -1,0 +1,1 @@
+{"index": 135120, "D": "a dismount, as from the horizontal bar, in which a gymnast releases the apparatus at the height of a backswing, sails forward with outstretched arms and legs, and lands upright on the feet.", "S": [], "A": []}

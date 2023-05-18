@@ -1,0 +1,1 @@
+{"index": 34404, "D": "the study of language functions as they relate to or derive from the biological characteristics of an organism.", "S": [], "A": []}

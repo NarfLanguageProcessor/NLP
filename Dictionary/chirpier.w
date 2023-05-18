@@ -1,0 +1,1 @@
+{"index": 54835, "D": "chirping  or tending to chirp", "S": ["carefree ", "jaunty ", "jovial ", "lighthearted ", "sprightly "], "A": ["depressed ", "lethargic ", "troubled ", "worried "]}

@@ -1,0 +1,1 @@
+{"index": 121730, "D": "a variant of gamy. ", "S": ["fetid ", "foul ", "malodorous ", "pungent ", "rancid ", "rank ", "reeking ", "seamy ", "sordid ", "strong-flavored ", "strong-smelling ", "strong-tasting ", "tainted "], "A": []}

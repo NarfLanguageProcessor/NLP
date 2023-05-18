@@ -1,0 +1,1 @@
+{"index": 149118, "D": "rapid learning that occurs during a brief receptive period, typically soon after birth or hatching, and establishes a long-lasting behavioral response to a specific individual or object, as attachment to parent, offspring, or site.", "S": ["signature "], "A": []}

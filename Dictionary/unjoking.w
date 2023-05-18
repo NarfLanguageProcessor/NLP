@@ -1,0 +1,1 @@
+{"index": 345217, "D": "something said or done to provoke laughter or cause amusement, as a witticism, a short and amusing anecdote, or a prankish act", "S": [], "A": []}

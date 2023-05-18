@@ -1,0 +1,1 @@
+{"index": 129627, "D": "the act or words of a person who greets. ", "S": ["bonjour ", "buenos dias ", "good morrow "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27197, "D": "a small child or baby.", "S": ["babe ", "child ", "infant ", "neonate ", "newborn ", "nipper ", "tad ", "toddler ", "tot ", "tyke "], "A": ["adult "]}

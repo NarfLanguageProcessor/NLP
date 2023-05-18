@@ -1,0 +1,1 @@
+{"index": 318413, "D": "pertaining to the transmission of mechanical power over considerable distances, as by means of endless cables on pulleys.", "S": [], "A": []}

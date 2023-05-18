@@ -1,0 +1,1 @@
+{"index": 300840, "D": "a ghost; specter. ", "S": ["alarm ", "discomfort ", "horrify ", "panic ", "petrify ", "startle ", "terrify ", "unnerve "], "A": ["calm ", "comfort ", "delight ", "please ", "soothe "]}

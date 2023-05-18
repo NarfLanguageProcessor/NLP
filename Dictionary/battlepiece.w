@@ -1,0 +1,1 @@
+{"index": 29149, "D": "a painting, relief, mosaic, etc, depicting a battle, usually commemorating an actual event", "S": [], "A": []}

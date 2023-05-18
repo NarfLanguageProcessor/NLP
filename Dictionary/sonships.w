@@ -1,0 +1,1 @@
+{"index": 297311, "D": "the state, fact, or relation of being a son. ", "S": [], "A": []}

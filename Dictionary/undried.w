@@ -1,0 +1,1 @@
+{"index": 340842, "D": "simple past tense and past participle of dry. ", "S": ["fresh ", "grassy ", "leafy ", "lush ", "raw ", "tender ", "verdant "], "A": ["healthy ", "adult ", "dying ", "mature ", "old ", "shrinking ", "withering "]}

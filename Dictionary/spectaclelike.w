@@ -1,0 +1,1 @@
+{"index": 298848, "D": "anything presented to the sight or view, especially something of a striking or impressive kind", "S": [], "A": []}

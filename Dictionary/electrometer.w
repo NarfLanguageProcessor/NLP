@@ -1,0 +1,1 @@
+{"index": 97141, "D": "a calibrated device used for measuring extremely low voltages.", "S": [], "A": []}

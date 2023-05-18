@@ -1,0 +1,1 @@
+{"index": 152796, "D": "to set (variables, counters, switches, etc.) to their starting values at the beginning of a program or subprogram.", "S": [], "A": []}

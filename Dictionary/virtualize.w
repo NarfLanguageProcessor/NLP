@@ -1,0 +1,1 @@
+{"index": 360242, "D": "to create a virtual version of (a computer, operating system, data storage device, etc.), which is not itself an independent device but both works and appears to the user as a single, physical entity", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333692, "D": "any hoofed North American mammal of the extinct genus Dinoceras, of the Eocene Epoch, having a massive body and three pairs of horns.", "S": [], "A": []}

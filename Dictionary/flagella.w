@@ -1,0 +1,1 @@
+{"index": 113707, "D": "a long, lashlike appendage serving as an organ of locomotion in protozoa, sperm cells, etc.", "S": [], "A": []}

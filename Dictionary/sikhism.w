@@ -1,0 +1,1 @@
+{"index": 290237, "D": "the religion and practices of the Sikhs. ", "S": [], "A": []}

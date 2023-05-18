@@ -1,0 +1,1 @@
+{"index": 62369, "D": "logically connected; consistent", "S": ["comprehensible ", "consistent ", "intelligible ", "logical ", "lucid ", "meaningful ", "orderly ", "rational ", "reasoned ", "systematic "], "A": ["confused ", "disorderly ", "irrational ", "obscure ", "unintelligible ", "unmethodical ", "unreasonable ", "unsystematic "]}

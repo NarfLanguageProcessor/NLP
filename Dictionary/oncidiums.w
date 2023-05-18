@@ -1,0 +1,1 @@
+{"index": 212673, "D": "any of numerous tropical American orchids of the genus Oncidium, having clusters of flowers showing great variety in size, form, and color.", "S": [], "A": []}

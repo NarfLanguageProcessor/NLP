@@ -1,0 +1,1 @@
+{"index": 330819, "D": "having a valence of three.", "S": [], "A": []}

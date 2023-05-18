@@ -1,0 +1,1 @@
+{"index": 180557, "D": "the branch of knowledge dealing with the lives of martyrs.", "S": [], "A": []}

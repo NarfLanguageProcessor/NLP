@@ -1,0 +1,1 @@
+{"index": 173107, "D": "noting a colloid the particles of which have little or no affinity for the liquid in which they are dispersed.", "S": [], "A": []}

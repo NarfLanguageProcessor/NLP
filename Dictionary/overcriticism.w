@@ -1,0 +1,1 @@
+{"index": 218791, "D": "the act of passing judgment as to the merits of anything.", "S": [], "A": []}

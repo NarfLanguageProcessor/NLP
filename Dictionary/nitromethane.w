@@ -1,0 +1,1 @@
+{"index": 200437, "D": "a colorless, oily, slightly water-soluble, poisonous liquid, CH3NO2, used chiefly as a solvent, rocket fuel, and gasoline additive and in organic synthesis.", "S": [], "A": []}

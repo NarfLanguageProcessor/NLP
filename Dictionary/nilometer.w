@@ -1,0 +1,1 @@
+{"index": 200073, "D": "a graduated pillar by which the rise and fall of the Nile can be measured", "S": ["hygrometry ", "pluviometer ", "udometer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 182076, "D": "a healing substance; medicine; remedy.", "S": [], "A": []}

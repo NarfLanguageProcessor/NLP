@@ -1,0 +1,1 @@
+{"index": 13825, "D": "a manuscript, parchment, or book having writing on only one side of the leaves.", "S": [], "A": []}

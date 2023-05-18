@@ -1,0 +1,1 @@
+{"index": 282056, "D": "to steal (apples) from an orchard or garden", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73832, "D": "the act of a person or thing that crosses. ", "S": ["bridge ", "crossroad ", "intersection ", "junction ", "overpass ", "passage "], "A": []}

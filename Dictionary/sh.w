@@ -1,0 +1,1 @@
+{"index": 286989, "D": "(used to urge silence.)", "S": ["bloom ", "complexion ", "constitution ", "energy ", "euphoria ", "fettle ", "fitness ", "form ", "haleness ", "hardihood ", "hardiness ", "healthfulness ", "heartiness ", "lustiness ", "pink ", "prime ", "robustness ", "salubriousness ", "salubrity "], "A": ["poor health "]}

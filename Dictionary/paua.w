@@ -1,0 +1,1 @@
+{"index": 228055, "D": "a large, edible abalone of New Zealand, Haliotis iris, the shell of which is used in making jewelry.", "S": [], "A": []}

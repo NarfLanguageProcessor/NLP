@@ -1,0 +1,1 @@
+{"index": 318543, "D": "a violent windstorm, especially one with rain, hail, or snow.", "S": ["cyclone ", "furor ", "hurricane ", "squall ", "tornado ", "tumult ", "upheaval ", "uproar ", "windstorm "], "A": ["calm ", "peace ", "harmony ", "order ", "quiet "]}

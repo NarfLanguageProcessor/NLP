@@ -1,0 +1,1 @@
+{"index": 170103, "D": "in a way that is capable of being easily read, deciphered, or discerned", "S": [], "A": []}

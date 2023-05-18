@@ -1,0 +1,1 @@
+{"index": 212536, "D": "almighty or infinite in power, as God.", "S": [], "A": []}

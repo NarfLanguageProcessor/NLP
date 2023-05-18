@@ -1,0 +1,1 @@
+{"index": 6213, "D": "to move or force into violent, irregular action", "S": ["demonstrative ", "fidgety ", "fiery ", "high-strung ", "hysterical ", "impulsive ", "restless ", "skittish ", "temperamental "], "A": ["calm ", "cold ", "cool ", "laid-back "]}

@@ -1,0 +1,1 @@
+{"index": 119279, "D": "an attitude of haughty aloofness; cold superiority.", "S": [], "A": []}

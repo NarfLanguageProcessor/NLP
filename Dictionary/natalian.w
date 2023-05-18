@@ -1,0 +1,1 @@
+{"index": 197210, "D": "of or relating to a person's birth", "S": [], "A": []}

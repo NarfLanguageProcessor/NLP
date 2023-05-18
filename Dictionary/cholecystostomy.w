@@ -1,0 +1,1 @@
+{"index": 55413, "D": "formation of an opening through the abdominal wall into the gallbladder, usually done for drainage and to remove gallstones.", "S": [], "A": []}

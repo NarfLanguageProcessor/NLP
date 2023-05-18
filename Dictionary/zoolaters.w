@@ -1,0 +1,1 @@
+{"index": 369816, "D": "the worship of or excessive attention to animals.", "S": [], "A": []}

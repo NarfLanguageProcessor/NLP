@@ -1,0 +1,1 @@
+{"index": 290950, "D": "to be in sympathy  or agreement of feeling; share in a feeling (often followed by with).", "S": [], "A": []}

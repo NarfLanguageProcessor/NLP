@@ -1,0 +1,1 @@
+{"index": 339400, "D": "(in liverworts) any of the leaves forming a row on the underside of the stem", "S": [], "A": []}

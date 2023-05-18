@@ -1,0 +1,1 @@
+{"index": 258102, "D": "a granular metamorphic rock consisting essentially of quartz  in interlocking grains.", "S": [], "A": []}

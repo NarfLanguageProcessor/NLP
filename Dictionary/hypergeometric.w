@@ -1,0 +1,1 @@
+{"index": 140154, "D": "of or relating to operations or series that transcend ordinary geometrical operations or series", "S": [], "A": []}

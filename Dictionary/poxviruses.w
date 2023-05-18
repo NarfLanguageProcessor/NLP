@@ -1,0 +1,1 @@
+{"index": 245045, "D": "any of a group of large, brick-shaped DNA-containing viruses  that infect humans and other animals, including the viruses  of smallpox and various other poxes. ", "S": [], "A": []}

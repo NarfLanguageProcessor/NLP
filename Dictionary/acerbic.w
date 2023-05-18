@@ -1,0 +1,1 @@
+{"index": 1954, "D": "sour or astringent in taste", "S": ["caustic ", "harsh ", "sharp "], "A": ["calm ", "kind ", "mild ", "nice "]}

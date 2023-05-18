@@ -1,0 +1,1 @@
+{"index": 285232, "D": "the person to whom something is sent. ", "S": [], "A": []}

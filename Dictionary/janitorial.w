@@ -1,0 +1,1 @@
+{"index": 160325, "D": "of or relating to a janitor,  a person employed in an apartment, office, school building, etc., to clean public areas, remove garbage, and do minor repairs", "S": [], "A": []}

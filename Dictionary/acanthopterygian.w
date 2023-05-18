@@ -1,0 +1,1 @@
+{"index": 1324, "D": "belonging or pertaining to the Acanthopterygii (Acanthopteri), the group of spiny-finned fishes, including the bass and perch.", "S": [], "A": []}

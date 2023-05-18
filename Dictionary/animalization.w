@@ -1,0 +1,1 @@
+{"index": 13185, "D": "to excite the animal  passions of; brutalize; sensualize.", "S": [], "A": []}

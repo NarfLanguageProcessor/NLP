@@ -1,0 +1,1 @@
+{"index": 196711, "D": "a seaport in southwestern British Columbia, Canada, on the southeast coast of Vancouver Island,  on the Strait of Georgia  across from the port city of Vancouver on mainland British Columbia.", "S": [], "A": []}

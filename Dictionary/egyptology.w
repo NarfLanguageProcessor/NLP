@@ -1,0 +1,1 @@
+{"index": 96217, "D": "the scientific study of Egyptian antiquities.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310835, "D": "the sovereign of an Islamic country.", "S": ["czar ", "dictator ", "empress ", "king ", "monarch "], "A": []}

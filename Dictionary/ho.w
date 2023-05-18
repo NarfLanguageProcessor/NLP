@@ -1,0 +1,1 @@
+{"index": 142018, "D": "(used as a call to attract attention, sometimes specially used after a word denoting a destination)", "S": [], "A": []}

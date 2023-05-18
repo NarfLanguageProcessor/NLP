@@ -1,0 +1,1 @@
+{"index": 265853, "D": "the act or process, or a manner of growing;  development; gradual increase.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188052, "D": "very small.", "S": ["diminutive ", "dwarf ", "infinitesimal ", "little ", "midget ", "mini ", "miniature ", "minimum ", "minuscule ", "minute ", "petite ", "pocket ", "pygmy ", "slight ", "trifling ", "wee "], "A": ["big ", "giant ", "great ", "huge ", "important ", "large ", "significant ", "substantial ", "tall "]}

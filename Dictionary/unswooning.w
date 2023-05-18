@@ -1,0 +1,1 @@
+{"index": 352604, "D": "to faint; lose consciousness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36175, "D": "an edible saprotroph agaricaceous fungus, Tricholoma saevum, having a pale brown cap and bluish stalk", "S": [], "A": []}

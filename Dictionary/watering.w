@@ -1,0 +1,1 @@
+{"index": 363170, "D": "the act of a person or thing that waters. ", "S": ["bathe ", "dilute ", "flood ", "inundate ", "irrigate ", "moisten ", "soak ", "spray ", "sprinkle ", "thin ", "wash ", "wet "], "A": ["collect ", "dehydrate ", "dirty ", "dry ", "gather ", "thicken "]}

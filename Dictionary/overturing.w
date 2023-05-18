@@ -1,0 +1,1 @@
+{"index": 221699, "D": "an opening or initiating move toward negotiations, a new relationship, an agreement, etc.; a formal or informal proposal or offer", "S": [], "A": []}

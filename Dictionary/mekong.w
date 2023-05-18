@@ -1,0 +1,1 @@
+{"index": 182629, "D": "a river whose source is in SW China, flowing SE along most of the boundary between Thailand and Laos to the South China Sea. 2,600 miles (4,200 km) long.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181360, "D": "complete in natural growth or development, as plant and animal forms", "S": ["bloom ", "blossom ", "develop ", "evolve ", "grow ", "grow up ", "mellow ", "mushroom ", "ripen "], "A": ["decrease ", "halt ", "lessen ", "shrink ", "shrivel ", "stop ", "wither ", "retreat ", "retrogress "]}

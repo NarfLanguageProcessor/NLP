@@ -1,0 +1,1 @@
+{"index": 274139, "D": "a short poem of fixed form, consisting of 13 or 10 lines on two rhymes and having the opening words or phrase used in two places as an unrhymed refrain.", "S": [], "A": []}

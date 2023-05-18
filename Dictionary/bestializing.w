@@ -1,0 +1,1 @@
+{"index": 32582, "D": "to make bestial  or beastlike", "S": ["abuse ", "animalize ", "bastardize ", "corrupt ", "debase ", "debauch ", "degrade ", "demoralize ", "deprave "], "A": ["approve ", "clean ", "cleanse ", "elevate ", "honor ", "improve ", "moralize ", "praise ", "purify ", "upgrade ", "value "]}

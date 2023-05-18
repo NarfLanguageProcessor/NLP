@@ -1,0 +1,1 @@
+{"index": 156339, "D": "to give a title to (a legislative act, etc.); entitle.", "S": [], "A": []}

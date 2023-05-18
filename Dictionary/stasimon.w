@@ -1,0 +1,1 @@
+{"index": 303012, "D": "(in ancient Greek drama) a choral ode, especially in tragedy, divided into strophe and antistrophe", "S": [], "A": []}

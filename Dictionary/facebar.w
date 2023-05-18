@@ -1,0 +1,1 @@
+{"index": 108934, "D": "a wrestling hold in which a wrestler stretches the skin on his opponent's face backwards", "S": [], "A": []}

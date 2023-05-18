@@ -1,0 +1,1 @@
+{"index": 280400, "D": "a learned or erudite person, especially one who has profound knowledge of a particular subject.", "S": ["department ", "institute ", "personnel ", "staff ", "university "], "A": ["inability ", "incompetence ", "ineptness ", "lack ", "need ", "students "]}

@@ -1,0 +1,1 @@
+{"index": 153627, "D": "not sincere; not honest in the expression of actual feeling; hypocritical.", "S": [], "A": []}

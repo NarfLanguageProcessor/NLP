@@ -1,0 +1,1 @@
+{"index": 240642, "D": "of or relating to the biographer Plutarch.", "S": [], "A": []}

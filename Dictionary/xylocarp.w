@@ -1,0 +1,1 @@
+{"index": 368551, "D": "a fruit, such as a coconut, having a hard woody pericarp", "S": [], "A": []}

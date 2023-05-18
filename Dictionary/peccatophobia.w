@@ -1,0 +1,1 @@
+{"index": 228568, "D": "an irrational or disproportionate fear of committing a sin or crime.", "S": [], "A": []}

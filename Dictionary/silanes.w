@@ -1,0 +1,1 @@
+{"index": 290252, "D": "a gas with an unpleasant odor, SiH4, soluble in water", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72838, "D": "(especially of an aircraft, ship, or spacecraft) carrying or operated by a person or people on board.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39456, "D": "a huge sauropod dinosaur of the genus Brachiosaurus, having a small head with nostrils on a knob above the eyes, long forelegs, and a sloping, massive body, and reaching a length of about 80 feet (24 meters).", "S": [], "A": []}

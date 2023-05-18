@@ -1,0 +1,1 @@
+{"index": 104129, "D": "to slip or get away, as from confinement or restraint; gain or regain liberty", "S": ["breakout ", "departure ", "desertion ", "disappearance ", "flight ", "freedom ", "liberation ", "outbreak ", "rescue ", "withdrawal "], "A": ["arrival ", "coming ", "entrance ", "stay ", "staying ", "directness ", "meeting "]}

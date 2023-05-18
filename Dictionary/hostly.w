@@ -1,0 +1,1 @@
+{"index": 144234, "D": "of or proper to a host", "S": [], "A": []}

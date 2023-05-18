@@ -1,0 +1,1 @@
+{"index": 323050, "D": "a stroke  of lightning accompanied by thunder. ", "S": ["arrow ", "missile ", "shaft ", "thunderbolt "], "A": []}

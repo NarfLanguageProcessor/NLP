@@ -1,0 +1,1 @@
+{"index": 5112, "D": "a portable device filled with compressed air and used in cases of asphyxia or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262564, "D": "the reopening of a previously occluded passageway within a blood vessel.", "S": [], "A": []}

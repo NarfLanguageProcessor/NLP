@@ -1,0 +1,1 @@
+{"index": 233453, "D": "a tumor of the sympathetic nervous system or adrenal medulla, that produces excess norepinephrine and epinephrine and causes hypertension, headaches, nausea, etc.", "S": [], "A": []}

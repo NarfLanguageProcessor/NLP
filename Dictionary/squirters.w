@@ -1,0 +1,1 @@
+{"index": 302072, "D": "to eject liquid in a jet from a narrow orifice", "S": [], "A": []}

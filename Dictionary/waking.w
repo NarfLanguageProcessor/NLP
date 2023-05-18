@@ -1,0 +1,1 @@
+{"index": 362150, "D": "to become roused from sleep; awake; awaken; waken (often followed by up).", "S": ["alert ", "arising ", "awake ", "rising ", "stirring ", "wakened "], "A": ["asleep "]}

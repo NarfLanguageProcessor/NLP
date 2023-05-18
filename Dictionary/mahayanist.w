@@ -1,0 +1,1 @@
+{"index": 177650, "D": "the later of the two great schools of Buddhism, chiefly in China, Tibet, and Japan, characterized by eclecticism and a general belief in a common search for salvation, sometimes thought to be attainable through faith alone.", "S": [], "A": []}

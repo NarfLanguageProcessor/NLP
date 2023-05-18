@@ -1,0 +1,1 @@
+{"index": 82652, "D": "to wish or long for; crave; want. ", "S": ["needing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 79330, "D": "the plural of definition. ", "S": ["answer ", "explanation ", "interpretation ", "rationale ", "solution ", "translation "], "A": ["question "]}

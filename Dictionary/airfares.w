@@ -1,0 +1,1 @@
+{"index": 6900, "D": "the price charged for transportation by airplane.", "S": [], "A": []}

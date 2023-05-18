@@ -1,0 +1,1 @@
+{"index": 207925, "D": "to allow the existence, presence, practice, or act of without prohibition or hindrance; permit.", "S": [], "A": []}

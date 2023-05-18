@@ -1,0 +1,1 @@
+{"index": 274289, "D": "U.S. diplomat, author, and lecturer (wife of Franklin Delano Roosevelt).", "S": [], "A": []}

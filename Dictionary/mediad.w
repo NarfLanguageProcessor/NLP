@@ -1,0 +1,1 @@
+{"index": 181997, "D": "toward the middle line or plane.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117667, "D": "a cardinal number, ten times four.", "S": ["quadragenarian ", "quadragesimal "], "A": []}

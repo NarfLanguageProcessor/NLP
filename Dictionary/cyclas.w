@@ -1,0 +1,1 @@
+{"index": 57085, "D": "a tunic or surcoat, longer in back than in front, worn over armor in the Middle Ages.", "S": [], "A": []}

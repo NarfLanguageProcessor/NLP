@@ -1,0 +1,1 @@
+{"index": 107251, "D": "of or relating to existence", "S": ["experiential "], "A": ["unobserved "]}

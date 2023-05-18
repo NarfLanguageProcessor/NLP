@@ -1,0 +1,1 @@
+{"index": 253338, "D": "a defect of vision characterized by a diminished response of the retina to red.", "S": [], "A": []}

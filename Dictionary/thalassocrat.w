@@ -1,0 +1,1 @@
+{"index": 320487, "D": "a nation that has dominion over the seas.", "S": [], "A": []}

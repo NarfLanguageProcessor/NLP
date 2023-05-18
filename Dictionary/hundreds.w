@@ -1,0 +1,1 @@
+{"index": 145127, "D": "a cardinal number, ten times ten.", "S": ["army ", "cloud ", "crowd ", "drove ", "flock ", "host ", "hundred ", "legion ", "lot ", "mass ", "million ", "multitude ", "myriad ", "rout ", "swarm ", "throng ", "very many "], "A": ["none "]}

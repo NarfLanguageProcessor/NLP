@@ -1,0 +1,1 @@
+{"index": 59498, "D": "a rare mineral, lead selenide, PbSe, occurring in grayish, granular crystals that have a metallic luster.", "S": [], "A": []}

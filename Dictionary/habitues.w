@@ -1,0 +1,1 @@
+{"index": 131814, "D": "a frequent or habitual visitor to a place", "S": ["client ", "customer ", "frequenter ", "patron ", "regular "], "A": []}

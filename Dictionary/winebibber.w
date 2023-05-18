@@ -1,0 +1,1 @@
+{"index": 366075, "D": "a person who drinks much wine. ", "S": ["alcoholic ", "bacchanal ", "boozer ", "carouser ", "debauchee ", "dipsomaniac ", "drinker ", "drunk ", "inebriate ", "lush ", "soak ", "sot ", "souse ", "sponge ", "stiff ", "tippler ", "toper ", "wino "], "A": ["abstainer ", "ascetic ", "nephalist ", "teetotaler "]}

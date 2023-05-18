@@ -1,0 +1,1 @@
+{"index": 15701, "D": "a person who maintains that Christians, by virtue of divine grace, are freed not only from biblical law and church-prescribed behavioral norms, but also from all moral law.", "S": [], "A": []}

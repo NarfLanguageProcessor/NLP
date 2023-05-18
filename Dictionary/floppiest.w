@@ -1,0 +1,1 @@
+{"index": 114974, "D": "tending to flop.", "S": ["slack "], "A": ["erect ", "stiff "]}

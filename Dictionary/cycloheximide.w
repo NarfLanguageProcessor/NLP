@@ -1,0 +1,1 @@
+{"index": 57158, "D": "an antibiotic substance, C15H23NO4, isolated from the bacterium Streptomyces griseus, used experimentally to block protein synthesis.", "S": [], "A": []}

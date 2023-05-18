@@ -1,0 +1,1 @@
+{"index": 80227, "D": "a native or inhabitant of Delphi. ", "S": ["ambiguous ", "arcane ", "enigmatic ", "equivocal ", "incomprehensible ", "mysterious ", "strange ", "vague ", "veiled "], "A": ["certain ", "clear ", "common ", "definite ", "known ", "normal ", "obvious ", "plain ", "sure "]}

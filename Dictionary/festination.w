@@ -1,0 +1,1 @@
+{"index": 111689, "D": "a gait marked by an involuntary hurrying in walking, observed in certain nerve diseases.", "S": [], "A": []}

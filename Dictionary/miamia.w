@@ -1,0 +1,1 @@
+{"index": 185633, "D": "a temporary, hutlike shelter built by Aboriginal tribes in Australia.", "S": [], "A": []}

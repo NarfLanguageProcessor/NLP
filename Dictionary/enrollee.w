@@ -1,0 +1,1 @@
+{"index": 100926, "D": "a person enrolled,  in a class, school, course of study, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 240157, "D": "a material used for various building purposes, consisting usually of an odd number of veneers glued over each other, usually at right angles.", "S": [], "A": []}

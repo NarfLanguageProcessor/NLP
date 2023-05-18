@@ -1,0 +1,1 @@
+{"index": 52972, "D": "a Carthusian monastery.", "S": [], "A": []}

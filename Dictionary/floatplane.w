@@ -1,0 +1,1 @@
+{"index": 114818, "D": "a seaplane having landing gear consisting of one or more floats. ", "S": [], "A": []}

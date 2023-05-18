@@ -1,0 +1,1 @@
+{"index": 179855, "D": "any of several trees having wood  somewhat resembling marble  in graining or texture, as Diospyros marmorata, of southern Asia, or Olea paniculata, of Australia.", "S": [], "A": []}

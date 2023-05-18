@@ -1,0 +1,1 @@
+{"index": 61911, "D": "an apparatus consisting of a mirror driven by clockwork, used to enable a fixed telescope to keep the same area of sky in its field of view by compensating for the apparent rotation of the celestial sphere.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129343, "D": "any of various tools for chasing, engraving, etc., as a burin.", "S": [], "A": []}

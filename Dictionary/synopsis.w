@@ -1,0 +1,1 @@
+{"index": 291959, "D": "a brief or condensed statement giving a general view of some subject.", "S": ["recap ", "rundown "], "A": ["expansion "]}

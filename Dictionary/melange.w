@@ -1,0 +1,1 @@
+{"index": 182692, "D": "a mixture; medley.", "S": ["assortment ", "hodgepodge ", "mishmash "], "A": []}

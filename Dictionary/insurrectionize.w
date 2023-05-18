@@ -1,0 +1,1 @@
+{"index": 154150, "D": "to cause insurrection  in (a country or the like).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 244514, "D": "immediately following a stressed syllable", "S": [], "A": []}

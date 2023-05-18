@@ -1,0 +1,1 @@
+{"index": 186412, "D": "a tiny opening, as in specialized biological filters or in the shells of some animals.", "S": [], "A": []}

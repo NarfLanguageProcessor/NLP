@@ -1,0 +1,1 @@
+{"index": 293079, "D": "a winter-sport vehicle for riding downhill over snow, often used at mountain resorts, that runs on a fixed ski  and has a much shorter, pivoting front ski  steered by handlebars, with the rider sitting as on a bicycle and usually wearing miniskis to assist in balancing the vehicle.", "S": [], "A": []}

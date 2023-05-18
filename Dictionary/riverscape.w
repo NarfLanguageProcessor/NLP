@@ -1,0 +1,1 @@
+{"index": 273405, "D": "a view, painting, etc., of a river  and the land surrounding or adjacent to it.", "S": [], "A": []}

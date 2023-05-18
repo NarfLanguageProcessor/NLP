@@ -1,0 +1,1 @@
+{"index": 72190, "D": "anything unpredictable, risky, or problematical; gamble.", "S": [], "A": []}

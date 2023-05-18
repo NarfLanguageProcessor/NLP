@@ -1,0 +1,1 @@
+{"index": 36484, "D": "racehorses of Thoroughbred breeding, taken as a whole.", "S": [], "A": []}

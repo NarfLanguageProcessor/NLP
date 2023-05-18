@@ -1,0 +1,1 @@
+{"index": 276109, "D": "a person born in Israel.", "S": [], "A": []}

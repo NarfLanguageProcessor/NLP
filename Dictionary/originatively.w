@@ -1,0 +1,1 @@
+{"index": 214614, "D": "having or characterized by the power of originating;  creative.", "S": [], "A": []}

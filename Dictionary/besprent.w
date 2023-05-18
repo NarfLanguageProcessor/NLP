@@ -1,0 +1,1 @@
+{"index": 32522, "D": "besprinkled; bestrewn.", "S": [], "A": []}

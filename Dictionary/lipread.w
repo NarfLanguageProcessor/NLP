@@ -1,0 +1,1 @@
+{"index": 173256, "D": "to understand spoken words by interpreting the movements of a speaker's lips without hearing the sounds made.", "S": [], "A": []}

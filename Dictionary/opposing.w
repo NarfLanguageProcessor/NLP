@@ -1,0 +1,1 @@
+{"index": 213681, "D": "fighting or acting against something or someone", "S": ["antagonistic ", "conflicting "], "A": ["agreeable "]}

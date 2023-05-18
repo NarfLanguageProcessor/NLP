@@ -1,0 +1,1 @@
+{"index": 151481, "D": "not effectual;  without satisfactory or decisive effect", "S": ["futile ", "impotent ", "inadequate ", "ineffective ", "inefficient ", "insufficient ", "unproductive "], "A": ["able ", "adequate ", "capable ", "competent ", "enough ", "productive ", "sufficient "]}

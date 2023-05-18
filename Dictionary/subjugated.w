@@ -1,0 +1,1 @@
+{"index": 308323, "D": "to bring under complete control or subjection; conquer; master.", "S": ["humbled ", "overpowered ", "overwhelmed ", "routed "], "A": []}

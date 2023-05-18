@@ -1,0 +1,1 @@
+{"index": 163822, "D": "Arthur Edwin. 1861\u20131939, US electrical engineer", "S": [], "A": []}

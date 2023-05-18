@@ -1,0 +1,1 @@
+{"index": 101809, "D": "worthy of envy;  very desirable", "S": ["advantageous ", "desirable ", "excellent ", "privileged "], "A": ["bad ", "disadvantageous ", "poor "]}

@@ -1,0 +1,1 @@
+{"index": 278638, "D": "a variant spelling of shastra", "S": [], "A": []}

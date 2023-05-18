@@ -1,0 +1,1 @@
+{"index": 102029, "D": "(in modern Greece) one of the administrative subdivisions of a province.", "S": [], "A": []}

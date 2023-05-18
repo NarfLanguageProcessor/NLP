@@ -1,0 +1,1 @@
+{"index": 212407, "D": "anything perceived or happening that is believed to portend a good or evil event or circumstance in the future; portent.", "S": ["harbinger ", "indication ", "portent ", "premonition "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62817, "D": "a person who works or cooperates with another on something; a coauthor, coproducer, etc.", "S": ["assistant ", "associate ", "co-worker ", "colleague "], "A": ["antagonist ", "enemy ", "opponent "]}

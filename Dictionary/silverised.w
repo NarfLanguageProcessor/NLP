@@ -1,0 +1,1 @@
+{"index": 290641, "D": "to cover, plate, or treat with silver. ", "S": [], "A": []}

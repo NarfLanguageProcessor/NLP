@@ -1,0 +1,1 @@
+{"index": 111740, "D": "concerned with declarations of war and treaties of peace", "S": [], "A": []}

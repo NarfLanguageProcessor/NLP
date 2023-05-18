@@ -1,0 +1,1 @@
+{"index": 108292, "D": "to exterminate.", "S": [], "A": []}

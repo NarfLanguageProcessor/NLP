@@ -1,0 +1,1 @@
+{"index": 61687, "D": "to treat tenderly; nurse or tend indulgently; pamper", "S": ["extravagance ", "kindness ", "leniency ", "permissiveness ", "privilege "], "A": ["disapproval ", "disfavor ", "disregard ", "dissatisfaction ", "frustration ", "intolerance ", "need ", "want "]}

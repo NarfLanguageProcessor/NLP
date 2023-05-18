@@ -1,0 +1,1 @@
+{"index": 116281, "D": "to bungle;  play clumsily", "S": ["bungler ", "clod ", "dolt ", "duffer ", "fumbler ", "klutz ", "lummox ", "schlep "], "A": []}

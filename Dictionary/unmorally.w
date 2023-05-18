@@ -1,0 +1,1 @@
+{"index": 346574, "D": "neither moral  nor immoral; amoral; nonmoral", "S": [], "A": []}

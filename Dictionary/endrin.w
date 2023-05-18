@@ -1,0 +1,1 @@
+{"index": 100072, "D": "a highly toxic, chlorinated hydrocarbon, C12H8OCl6, formerly used as an insecticide.", "S": [], "A": []}

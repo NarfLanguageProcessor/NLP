@@ -1,0 +1,1 @@
+{"index": 200118, "D": "a room or area having a fountain, statues, flowers, etc.", "S": [], "A": []}

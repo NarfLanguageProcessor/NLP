@@ -1,0 +1,1 @@
+{"index": 319345, "D": "a violent, turbulent, or brawling woman.", "S": ["disruptive ", "fractious ", "raucous ", "rebellious ", "rowdy ", "unruly "], "A": ["calm ", "compliant ", "obedient ", "quiet "]}

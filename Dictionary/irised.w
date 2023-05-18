@@ -1,0 +1,1 @@
+{"index": 158014, "D": "the contractile, circular diaphragm forming the colored portion of the eye and containing a circular opening, the pupil, in its center.", "S": ["lustrous ", "pearly ", "shimmering "], "A": []}

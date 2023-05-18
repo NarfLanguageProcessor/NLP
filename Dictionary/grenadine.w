@@ -1,0 +1,1 @@
+{"index": 129731, "D": "a thin fabric of leno weave in silk, nylon, rayon, or wool.", "S": [], "A": []}

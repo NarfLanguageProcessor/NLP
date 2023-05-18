@@ -1,0 +1,1 @@
+{"index": 265641, "D": "a unit of ground forces, consisting of two or more battalions or battle groups, a headquarters unit, and certain supporting units.", "S": ["disciplined ", "orderly "], "A": ["free ", "varied "]}

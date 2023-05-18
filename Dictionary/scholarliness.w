@@ -1,0 +1,1 @@
+{"index": 280399, "D": "of, like, or befitting a scholar", "S": ["refinement "], "A": ["ignorance "]}

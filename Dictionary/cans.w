@@ -1,0 +1,1 @@
+{"index": 46541, "D": "an informal name for headphones", "S": ["bottle ", "bucket ", "canister ", "jar ", "package "], "A": []}

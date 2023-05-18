@@ -1,0 +1,1 @@
+{"index": 303517, "D": "any extinct elephantlike mammal of the genus Stegodon, from the late Pliocene and Pleistocene epochs, usually considered to be directly ancestral to the modern elephant.", "S": [], "A": []}

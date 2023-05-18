@@ -1,0 +1,1 @@
+{"index": 140022, "D": "criticism  that is carping or unduly harsh.", "S": [], "A": []}

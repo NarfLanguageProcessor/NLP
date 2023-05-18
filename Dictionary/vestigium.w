@@ -1,0 +1,1 @@
+{"index": 359086, "D": "a vestigial structure of any kind; vestige.", "S": [], "A": []}

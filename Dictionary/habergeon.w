@@ -1,0 +1,1 @@
+{"index": 131749, "D": "a light sleeveless coat of mail worn in the 14th century under the plated hauberk", "S": [], "A": []}

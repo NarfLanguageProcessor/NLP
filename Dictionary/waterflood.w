@@ -1,0 +1,1 @@
+{"index": 363152, "D": "(in the petroleum industry) a method of secondary recovery whereby water  is pumped into reservoir rock to force out oil that has ceased to flow under its own pressure.", "S": ["deluge ", "torrent "], "A": []}

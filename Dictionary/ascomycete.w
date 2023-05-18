@@ -1,0 +1,1 @@
+{"index": 21028, "D": "any fungus of the phylum Ascomycota (or class Ascomycetes), including the molds and truffles, characterized by bearing the sexual spores in a sac (as distinguished from basidiomycete).", "S": [], "A": []}

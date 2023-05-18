@@ -1,0 +1,1 @@
+{"index": 208096, "D": "the quality of being unlike anything else of its kind or of being solitary in type or characteristics", "S": [], "A": []}

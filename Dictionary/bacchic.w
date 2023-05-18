@@ -1,0 +1,1 @@
+{"index": 25639, "D": "of, relating to, or honoring Bacchus.", "S": [], "A": []}

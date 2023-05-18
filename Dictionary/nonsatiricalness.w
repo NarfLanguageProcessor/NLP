@@ -1,0 +1,1 @@
+{"index": 207016, "D": "of, pertaining to, containing, or characterized by satire", "S": [], "A": []}

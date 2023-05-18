@@ -1,0 +1,1 @@
+{"index": 187040, "D": "to go from one country, region, or place to another.", "S": ["ephemeral ", "fleeting ", "short-term ", "transitory "], "A": ["enduring ", "lasting ", "lengthy ", "long ", "long-lived ", "permanent ", "perpetual "]}

@@ -1,0 +1,1 @@
+{"index": 93410, "D": "containing dross. ", "S": ["barren ", "base ", "empty ", "good-for-nothing ", "inferior ", "nothing ", "poor ", "trifling ", "waste "], "A": ["fertile ", "filled ", "full ", "productive ", "sufficient ", "superior ", "useful "]}

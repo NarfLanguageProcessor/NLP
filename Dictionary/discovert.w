@@ -1,0 +1,1 @@
+{"index": 87676, "D": "(of a woman) not covert; not under the protection of a husband.", "S": [], "A": []}

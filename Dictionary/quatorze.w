@@ -1,0 +1,1 @@
+{"index": 258162, "D": "a set of four cards of the same denomination, aces, kings, queens, jacks, or tens, scoring 14 points.", "S": [], "A": []}

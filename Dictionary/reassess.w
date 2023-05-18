@@ -1,0 +1,1 @@
+{"index": 262062, "D": "to assess (something) again; re-evaluate", "S": ["amend ", "reevaluate ", "reexamine ", "rethink ", "review ", "revise "], "A": ["spoil "]}

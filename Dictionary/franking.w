@@ -1,0 +1,1 @@
+{"index": 118391, "D": "direct and unreserved in speech; straightforward; sincere", "S": [], "A": []}

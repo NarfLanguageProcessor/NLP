@@ -1,0 +1,1 @@
+{"index": 204182, "D": "a person who is free;  a person who enjoys personal, civil, or political liberty.", "S": [], "A": []}

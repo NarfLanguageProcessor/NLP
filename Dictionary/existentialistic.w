@@ -1,0 +1,1 @@
+{"index": 107254, "D": "a philosophical movement that stresses the individual's unique position as a self-determining agent responsible for making meaningful, authentic choices in a universe seen as purposeless or irrational", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 267821, "D": "something by which a person is bound or obliged to do certain things, and which arises out of a sense of duty or results from custom, law, etc.", "S": [], "A": []}

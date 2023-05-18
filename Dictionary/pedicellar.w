@@ -1,0 +1,1 @@
+{"index": 228869, "D": "one of the subordinate stalks in a branched inflorescence, bearing a single flower.", "S": [], "A": []}

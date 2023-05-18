@@ -1,0 +1,1 @@
+{"index": 247229, "D": "a sudden, urgent, usually unexpected occurrence or occasion requiring immediate action.", "S": [], "A": []}

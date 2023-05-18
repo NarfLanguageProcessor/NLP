@@ -1,0 +1,1 @@
+{"index": 205145, "D": "in a way that can be readily seen by the eye or the understanding; plainly or obviously; evidently", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225568, "D": "a white or colorless, tasteless, odorless, water-insoluble, solid substance not easily acted upon by reagents, consisting of a mixture of hydrocarbons chiefly of the alkane series, obtained from crude petroleum", "S": [], "A": []}

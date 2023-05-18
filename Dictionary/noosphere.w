@@ -1,0 +1,1 @@
+{"index": 208473, "D": "the biosphere including and modified by such human activities as agriculture, forestry, animal husbandry, urbanization, and industrialization.", "S": [], "A": []}

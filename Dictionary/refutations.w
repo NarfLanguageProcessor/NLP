@@ -1,0 +1,1 @@
+{"index": 265481, "D": "an act of refuting  a statement, charge, etc.; disproof.", "S": ["confutation ", "contradiction ", "denial ", "disproof ", "refusal ", "refutal "], "A": ["OK ", "agreement ", "approval ", "corroboration "]}

@@ -1,0 +1,1 @@
+{"index": 121462, "D": "at a gallop;  running or moving quickly.", "S": ["darting ", "dashing ", "fast ", "flying ", "hastening ", "hurrying ", "running ", "rushing ", "sailing ", "swift ", "tearing ", "whisking ", "whizzing ", "zooming "], "A": ["slow "]}

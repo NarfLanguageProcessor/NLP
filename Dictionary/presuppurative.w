@@ -1,0 +1,1 @@
+{"index": 249795, "D": "noting or pertaining to the stage of inflammation before the formation of pus.", "S": [], "A": []}

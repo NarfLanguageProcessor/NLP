@@ -1,0 +1,1 @@
+{"index": 93829, "D": "British statesman and favorite of Queen Elizabeth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68983, "D": "one of two or more recipients,  as of an award.", "S": [], "A": []}

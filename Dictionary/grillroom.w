@@ -1,0 +1,1 @@
+{"index": 129878, "D": "a restaurant or dining room,  as in a hotel, that specializes in serving grilled  meat and fish.", "S": [], "A": []}

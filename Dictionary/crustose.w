@@ -1,0 +1,1 @@
+{"index": 74314, "D": "forming a crusty, tenaciously fixed mass that covers the surface on which it grows, as certain lichens.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62707, "D": "(in grasses) the first leaf above the ground, forming a sheath around the stem tip.", "S": [], "A": []}

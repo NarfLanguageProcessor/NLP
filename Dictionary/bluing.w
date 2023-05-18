@@ -1,0 +1,1 @@
+{"index": 36815, "D": "a substance, as indigo, used to whiten clothes or give them a bluish tinge.", "S": [], "A": []}

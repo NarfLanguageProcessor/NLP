@@ -1,0 +1,1 @@
+{"index": 66493, "D": "a province in the NW Republic of Ireland. 6,610 sq. mi. (17,120 sq. km).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309247, "D": "a lesser or minor specialty", "S": [], "A": []}

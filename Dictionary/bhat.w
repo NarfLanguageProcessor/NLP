@@ -1,0 +1,1 @@
+{"index": 33092, "D": "the standard monetary unit of Thailand", "S": [], "A": []}

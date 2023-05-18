@@ -1,0 +1,1 @@
+{"index": 269704, "D": "full of, characterized by, or showing politeness or deference", "S": ["attentively ", "politely "], "A": ["disrespectfully ", "impudently ", "rudely "]}

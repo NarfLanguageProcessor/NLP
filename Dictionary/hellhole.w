@@ -1,0 +1,1 @@
+{"index": 135709, "D": "a place totally lacking in comfort, cleanliness, order, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43194, "D": "large in bodily size; stout; sturdy.", "S": [], "A": []}

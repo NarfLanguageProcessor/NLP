@@ -1,0 +1,1 @@
+{"index": 112210, "D": "a stout bar of wood or metal placed across a lower spar so as to support a higher one.", "S": [], "A": []}

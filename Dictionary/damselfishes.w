@@ -1,0 +1,1 @@
+{"index": 76647, "D": "any of several chiefly tropical, brilliantly colored, marine fishes  of the family Pomacentridae, living among coral reefs.", "S": [], "A": []}

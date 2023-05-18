@@ -1,0 +1,1 @@
+{"index": 34224, "D": "a stand or enclosure of wood or nonmagnetic metal for supporting and housing a compass.", "S": [], "A": []}

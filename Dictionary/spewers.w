@@ -1,0 +1,1 @@
+{"index": 299337, "D": "to discharge the contents of the stomach through the mouth; vomit.", "S": [], "A": []}

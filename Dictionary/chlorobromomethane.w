@@ -1,0 +1,1 @@
+{"index": 55134, "D": "a clear, colorless, volatile, nonflammable liquid, CH2ClBr, used chiefly as an extinguishing agent in fire extinguishers and as a solvent in organic synthesis.", "S": [], "A": []}

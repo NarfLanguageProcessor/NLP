@@ -1,0 +1,1 @@
+{"index": 329984, "D": "a person whose assets are worth over a trillion of the monetary units of his or her country", "S": [], "A": []}

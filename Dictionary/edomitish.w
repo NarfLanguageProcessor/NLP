@@ -1,0 +1,1 @@
+{"index": 95806, "D": "a descendant of Esau or Edom.  Numbers 20", "S": [], "A": []}

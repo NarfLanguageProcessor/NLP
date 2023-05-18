@@ -1,0 +1,1 @@
+{"index": 268225, "D": "a score of 30 points made from the cards held by a player before play begins", "S": [], "A": []}

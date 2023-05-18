@@ -1,0 +1,1 @@
+{"index": 132830, "D": "any organism, most commonly a species of archaea,  that requires a salt-rich environment for its growth and survival.", "S": [], "A": []}

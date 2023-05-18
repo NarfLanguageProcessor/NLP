@@ -1,0 +1,1 @@
+{"index": 59119, "D": "clamorous; noisy. ", "S": ["blatant ", "dire ", "imperative ", "pressing ", "urgent "], "A": []}

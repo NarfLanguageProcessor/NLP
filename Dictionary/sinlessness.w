@@ -1,0 +1,1 @@
+{"index": 291846, "D": "free from or without sin.", "S": ["abstinence ", "decency ", "monogamy ", "virginity "], "A": ["badness ", "corruption ", "disgrace ", "dishonesty ", "dishonor ", "evil ", "immorality ", "wildness "]}

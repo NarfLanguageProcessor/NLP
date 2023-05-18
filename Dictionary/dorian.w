@@ -1,0 +1,1 @@
+{"index": 91664, "D": "of or relating to the ancient Greek region of Doris or to the Dorians.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96991, "D": "the coagulation of a tumor or other diseased tissue by means of diathermy.", "S": [], "A": []}

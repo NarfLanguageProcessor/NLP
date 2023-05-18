@@ -1,0 +1,1 @@
+{"index": 145535, "D": "(an exclamation used to express joy, excitement, etc.)", "S": [], "A": []}

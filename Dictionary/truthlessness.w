@@ -1,0 +1,1 @@
+{"index": 331727, "D": "the true  or actual state of a matter", "S": ["canard ", "deceit ", "distortion ", "falsehood ", "inveracity ", "lie ", "mendacity ", "misrepresentation ", "perjury ", "prevarication ", "untruthfulness ", "whopper "], "A": []}

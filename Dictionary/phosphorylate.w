@@ -1,0 +1,1 @@
+{"index": 234919, "D": "to introduce the phosphoryl group into (an organic compound).", "S": [], "A": []}

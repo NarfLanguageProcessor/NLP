@@ -1,0 +1,1 @@
+{"index": 331600, "D": "to shorten by cutting off a part; cut short", "S": [], "A": []}

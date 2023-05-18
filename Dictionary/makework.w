@@ -1,0 +1,1 @@
+{"index": 178113, "D": "work, usually of little importance, created to keep a person from being idle or unemployed.", "S": [], "A": []}

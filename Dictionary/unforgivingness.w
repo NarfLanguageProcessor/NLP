@@ -1,0 +1,1 @@
+{"index": 342568, "D": "not disposed to forgive or show mercy; unrelenting.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77282, "D": "to overcome with fear; intimidate", "S": ["appall ", "baffle ", "deter ", "discourage ", "dishearten ", "dismay ", "dispirit ", "horrify ", "intimidate ", "scare ", "subdue ", "terrify "], "A": ["assist ", "calm ", "comfort ", "delight ", "encourage ", "hearten ", "help ", "inspirit ", "make happy ", "please ", "support ", "aid "]}

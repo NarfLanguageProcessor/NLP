@@ -1,0 +1,1 @@
+{"index": 22568, "D": "a common form of arteriosclerosis in which fatty substances form a deposit of plaque on the inner lining of arterial walls.", "S": [], "A": []}

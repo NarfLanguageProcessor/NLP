@@ -1,0 +1,1 @@
+{"index": 332643, "D": "the quality or state of being turbulent;  violent disorder or commotion.", "S": [], "A": []}

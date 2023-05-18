@@ -1,0 +1,1 @@
+{"index": 350594, "D": "to go or look through (a place, area, etc.) carefully in order to find something missing or lost", "S": [], "A": []}

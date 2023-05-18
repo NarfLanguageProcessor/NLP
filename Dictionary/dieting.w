@@ -1,0 +1,1 @@
+{"index": 85240, "D": "food and drink considered in terms of its qualities, composition, and its effects on health", "S": ["abbreviating ", "compressing ", "condensing ", "contracting ", "contraction ", "decreasing ", "diminishing ", "discounting ", "downsizing ", "lessening ", "reduction ", "shortening ", "shrinking "], "A": ["enlargement ", "increase "]}

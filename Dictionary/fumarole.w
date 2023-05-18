@@ -1,0 +1,1 @@
+{"index": 120035, "D": "a hole in or near a volcano, from which vapor rises.", "S": [], "A": []}

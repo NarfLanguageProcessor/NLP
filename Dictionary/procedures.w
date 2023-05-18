@@ -1,0 +1,1 @@
+{"index": 251157, "D": "an act or a manner of proceeding in any action or process; conduct. ", "S": ["logistics ", "mechanism ", "nitty-gritty ", "workings "], "A": []}

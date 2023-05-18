@@ -1,0 +1,1 @@
+{"index": 194346, "D": "the amount a mouth  can hold.", "S": ["bite ", "gulp ", "morsel ", "piece ", "taste "], "A": []}

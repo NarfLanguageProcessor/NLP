@@ -1,0 +1,1 @@
+{"index": 294082, "D": "thin, glutinous mud.", "S": ["goo ", "gunk ", "mucus ", "mud ", "sludge "], "A": []}

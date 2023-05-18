@@ -1,0 +1,1 @@
+{"index": 195230, "D": "of or relating to more than two political parties. ", "S": [], "A": []}

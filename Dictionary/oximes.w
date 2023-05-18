@@ -1,0 +1,1 @@
+{"index": 222360, "D": "any of a group of compounds containing the group >C=NOH, produced by the condensation of ketones or aldehydes with hydroxylamine.", "S": [], "A": []}

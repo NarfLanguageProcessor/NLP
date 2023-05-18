@@ -1,0 +1,1 @@
+{"index": 79652, "D": "pertaining to a form of taxation in which the rate diminishes gradually on sums below a certain fixed amount.", "S": [], "A": []}

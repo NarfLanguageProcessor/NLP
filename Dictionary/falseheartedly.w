@@ -1,0 +1,1 @@
+{"index": 109523, "D": "having a false or treacherous heart; deceitful; perfidious.", "S": ["maliciously "], "A": ["honestly ", "truthfully "]}

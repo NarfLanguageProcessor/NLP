@@ -1,0 +1,1 @@
+{"index": 9529, "D": "an altimeter equipped with a device for recording its measurements on a graph.", "S": [], "A": []}

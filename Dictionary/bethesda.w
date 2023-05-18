@@ -1,0 +1,1 @@
+{"index": 32725, "D": "a pool in Biblical Jerusalem, believed to have healing powers. John 5", "S": [], "A": []}

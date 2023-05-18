@@ -1,0 +1,1 @@
+{"index": 163302, "D": "of, relating to, or characteristic of Kashmir  or the Kashmiri.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66140, "D": "the shattering or splitting of rock or frozen soil due to the action of frost.", "S": [], "A": []}

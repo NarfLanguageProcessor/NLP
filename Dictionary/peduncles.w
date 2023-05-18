@@ -1,0 +1,1 @@
+{"index": 229010, "D": "the stalk bearing the fruiting body in fungi.", "S": ["branch ", "trunk "], "A": ["root "]}

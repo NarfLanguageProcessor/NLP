@@ -1,0 +1,1 @@
+{"index": 271292, "D": "to return to a former habit, practice, belief, condition, etc.", "S": ["confiscated ", "returned ", "seized "], "A": []}

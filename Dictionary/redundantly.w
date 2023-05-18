@@ -1,0 +1,1 @@
+{"index": 264502, "D": "characterized by verbosity or unnecessary repetition in expressing ideas; prolix", "S": ["always ", "constantly ", "continually ", "daily ", "exactly ", "incessantly ", "normally ", "periodically ", "steadily ", "typically "], "A": ["never "]}

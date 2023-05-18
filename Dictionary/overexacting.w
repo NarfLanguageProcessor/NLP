@@ -1,0 +1,1 @@
+{"index": 219220, "D": "rigid or severe in demands or requirements", "S": [], "A": []}

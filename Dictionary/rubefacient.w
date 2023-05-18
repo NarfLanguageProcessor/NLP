@@ -1,0 +1,1 @@
+{"index": 275144, "D": "causing redness of the skin, as a medicinal application.", "S": [], "A": []}

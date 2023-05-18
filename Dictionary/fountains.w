@@ -1,0 +1,1 @@
+{"index": 117956, "D": "a spring or source of water; the source or head of a stream.", "S": ["geyser ", "reservoir ", "stream "], "A": ["conclusion ", "consequence ", "effect ", "end ", "outcome ", "outgrowth ", "result "]}

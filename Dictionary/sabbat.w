@@ -1,0 +1,1 @@
+{"index": 276007, "D": "(in the 14th\u201316th centuries) a secret rendezvous of witches and sorcerers for worshiping the Devil, characterized by orgiastic rites, dances, feasting, etc.", "S": [], "A": []}

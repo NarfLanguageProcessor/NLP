@@ -1,0 +1,1 @@
+{"index": 58382, "D": "any abnormal curvature of the spine or of the extremities.", "S": [], "A": []}

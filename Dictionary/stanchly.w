@@ -1,0 +1,1 @@
+{"index": 302650, "D": "in a way that shows firmness or steadfast adherence to principle, loyalty, etc.", "S": [], "A": []}

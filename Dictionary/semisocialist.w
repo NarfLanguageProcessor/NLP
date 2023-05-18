@@ -1,0 +1,1 @@
+{"index": 284967, "D": "an advocate or supporter of socialism. ", "S": [], "A": []}

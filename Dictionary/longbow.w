@@ -1,0 +1,1 @@
+{"index": 174898, "D": "a large bow  drawn by hand, as that used by English archers from the 12th to the 16th centuries.", "S": [], "A": []}

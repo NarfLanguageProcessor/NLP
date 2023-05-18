@@ -1,0 +1,1 @@
+{"index": 340033, "D": "a trick  that a declarer failed to win in relation to the number of tricks  necessary to make the contract.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 245696, "D": "a device in the amplifier  circuit of a radio or phonograph that increases the strength of a weak signal for detection and further amplification.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287030, "D": "a ring or other fastening, as of iron, for securing the wrist, ankle, etc.; fetter.", "S": [], "A": []}

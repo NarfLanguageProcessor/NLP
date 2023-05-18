@@ -1,0 +1,1 @@
+{"index": 321820, "D": "any of numerous plants belonging to the genus Thymus, of the mint family, including the common garden herb T. vulgaris, a low subshrub having narrow, aromatic leaves used for seasoning.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 2389, "D": "a suffix of nouns of quality, state, office, etc., many of which accompany adjectives ending in -acious or nouns or adjectives ending in -ate", "S": [], "A": []}

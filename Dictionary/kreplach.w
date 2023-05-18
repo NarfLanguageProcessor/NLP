@@ -1,0 +1,1 @@
+{"index": 166280, "D": "turnovers or pockets of noodle dough filled with any of several mixtures, as kasha or chopped chicken livers, usually boiled, and served in soup.", "S": [], "A": []}

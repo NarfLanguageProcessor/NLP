@@ -1,0 +1,1 @@
+{"index": 95459, "D": "external; outer; on the surface of.", "S": [], "A": []}

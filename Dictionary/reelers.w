@@ -1,0 +1,1 @@
+{"index": 264623, "D": "a person or thing that reels. ", "S": [], "A": []}

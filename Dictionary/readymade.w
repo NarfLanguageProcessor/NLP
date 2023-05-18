@@ -1,0 +1,1 @@
+{"index": 261594, "D": "an everyday manufactured object, as a bottle rack, a snow shovel, a urinal, or a comb, that may by the creative act of selection and designation by an artist attain status as a work of art", "S": ["banal ", "corny ", "dull ", "hackneyed "], "A": ["fresh ", "new ", "original "]}

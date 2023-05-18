@@ -1,0 +1,1 @@
+{"index": 20131, "D": "any of several small-caliber long guns operated by a matchlock or wheel-lock mechanism, dating from about 1400.", "S": [], "A": []}

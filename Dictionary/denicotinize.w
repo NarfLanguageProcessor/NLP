@@ -1,0 +1,1 @@
+{"index": 81106, "D": "to drug or impregnate with nicotine. ", "S": [], "A": []}

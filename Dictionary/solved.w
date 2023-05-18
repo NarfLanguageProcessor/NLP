@@ -1,0 +1,1 @@
+{"index": 296926, "D": "to find the answer or explanation for; clear up; explain", "S": ["bare ", "defined ", "disclosed ", "discovered ", "naked ", "resolved ", "uncovered ", "unprotected "], "A": ["clothed ", "hidden ", "ambiguous ", "blocked ", "closed ", "concealed ", "obscure ", "unclear ", "vague "]}

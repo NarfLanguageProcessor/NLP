@@ -1,0 +1,1 @@
+{"index": 29993, "D": "a flat, wingless, bloodsucking hemipterous insect, Cimex lectularius, that infests houses and especially beds. ", "S": ["ant ", "aphid ", "bee ", "beetle ", "butterfly ", "cockroach ", "dragonfly ", "flea ", "fruit fly ", "gnat ", "grasshopper ", "ladybug ", "mite ", "mosquito ", "moth ", "pest ", "spider ", "termite ", "tick "], "A": []}

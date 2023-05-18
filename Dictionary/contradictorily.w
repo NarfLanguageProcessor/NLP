@@ -1,0 +1,1 @@
+{"index": 67617, "D": "asserting the contrary or opposite; contradicting;  inconsistent; logically opposite", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}

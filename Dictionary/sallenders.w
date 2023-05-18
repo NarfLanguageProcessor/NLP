@@ -1,0 +1,1 @@
+{"index": 277113, "D": "an eruption on the hind leg of a horse, on the inside of a hock.", "S": [], "A": []}

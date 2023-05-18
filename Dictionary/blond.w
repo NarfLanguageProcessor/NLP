@@ -1,0 +1,1 @@
+{"index": 36406, "D": "(of hair, skin, etc.) light-colored", "S": ["bleached ", "blonde ", "golden "], "A": ["dark "]}

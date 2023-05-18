@@ -1,0 +1,1 @@
+{"index": 107147, "D": "a student who receives an exhibition. ", "S": [], "A": []}

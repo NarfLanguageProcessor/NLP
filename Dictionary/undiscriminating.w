@@ -1,0 +1,1 @@
+{"index": 340495, "D": "able to distinguish differences or distinctions; differentiating; analytic. ", "S": ["barnyard ", "callous ", "foul ", "low ", "offensive ", "rank ", "raw ", "ribald ", "rough "], "A": ["clean ", "decent ", "good ", "honest ", "kind ", "nice ", "pleasing ", "polite ", "sensitive ", "sophisticated "]}

@@ -1,0 +1,1 @@
+{"index": 239152, "D": "any of the class of phosphatides that contain an aldehyde of a fatty acid, found in heart and skeletal muscle, the brain, the liver, and in eggs.", "S": [], "A": []}

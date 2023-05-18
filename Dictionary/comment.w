@@ -1,0 +1,1 @@
+{"index": 63981, "D": "a remark, observation, or criticism", "S": ["commentary ", "criticism ", "discussion ", "judgment ", "mention ", "note ", "observation ", "opinion ", "remark ", "report ", "review "], "A": ["silence "]}

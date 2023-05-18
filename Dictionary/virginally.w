@@ -1,0 +1,1 @@
+{"index": 360147, "D": "of, pertaining to, characteristic of, or befitting a virgin", "S": [], "A": []}

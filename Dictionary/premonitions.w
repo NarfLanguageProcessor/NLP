@@ -1,0 +1,1 @@
+{"index": 248458, "D": "a feeling of anticipation of or anxiety over a future event; presentiment", "S": ["foreboding ", "hunch ", "omen ", "portent "], "A": ["knowledge ", "trust "]}

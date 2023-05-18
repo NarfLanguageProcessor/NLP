@@ -1,0 +1,1 @@
+{"index": 361677, "D": "a member of the Women's Army Corps, formerly an auxiliary of the U.S. Army.", "S": [], "A": []}

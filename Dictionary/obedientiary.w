@@ -1,0 +1,1 @@
+{"index": 210002, "D": "the holder of any monastic office under the superior", "S": [], "A": []}

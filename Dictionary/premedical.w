@@ -1,0 +1,1 @@
+{"index": 248335, "D": "of or relating to studies in preparation for the formal study of medicine", "S": [], "A": []}

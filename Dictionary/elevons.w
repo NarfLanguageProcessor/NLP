@@ -1,0 +1,1 @@
+{"index": 97513, "D": "a control surface functioning both as an elevator  and as an aileron. ", "S": [], "A": []}

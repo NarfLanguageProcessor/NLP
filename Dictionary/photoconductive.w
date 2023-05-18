@@ -1,0 +1,1 @@
+{"index": 235048, "D": "of, relating to, or exhibiting photoconductivity. ", "S": [], "A": []}

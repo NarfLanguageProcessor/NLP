@@ -1,0 +1,1 @@
+{"index": 134538, "D": "any shrub or small tree belonging to the genus Corylus, of the birch family, having toothed, ovate leaves and bearing edible nuts, as C. avellana, of Europe, or C. americana and C. cornuta, of the Western Hemisphere.", "S": [], "A": []}

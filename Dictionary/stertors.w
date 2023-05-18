@@ -1,0 +1,1 @@
+{"index": 304146, "D": "a heavy snoring sound accompanying respiration in certain diseases.", "S": [], "A": []}

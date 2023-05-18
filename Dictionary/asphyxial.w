@@ -1,0 +1,1 @@
+{"index": 21465, "D": "the extreme condition caused by lack of oxygen and excess of carbon dioxide in the blood, produced by interference with respiration or insufficient oxygen in the air; suffocation. ", "S": [], "A": []}

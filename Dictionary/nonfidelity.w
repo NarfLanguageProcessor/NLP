@@ -1,0 +1,1 @@
+{"index": 204042, "D": "strict observance of promises, duties, etc.", "S": [], "A": []}

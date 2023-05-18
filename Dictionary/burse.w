@@ -1,0 +1,1 @@
+{"index": 43319, "D": "a pouch or case for some special purpose.", "S": [], "A": []}

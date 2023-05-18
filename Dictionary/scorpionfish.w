@@ -1,0 +1,1 @@
+{"index": 281321, "D": "any of several tropical and temperate marine scorpaenid fishes,  especially members of the genus Scorpaena, many having venomous dorsal spines.", "S": [], "A": []}

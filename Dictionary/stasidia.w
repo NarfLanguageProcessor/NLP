@@ -1,0 +1,1 @@
+{"index": 303008, "D": "a choir stall in an Orthodox church.", "S": [], "A": []}

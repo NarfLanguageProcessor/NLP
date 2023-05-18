@@ -1,0 +1,1 @@
+{"index": 84310, "D": "of or relating to a class of substances, as bismuth and copper, whose permeability is less than that of a vacuum", "S": [], "A": []}

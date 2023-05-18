@@ -1,0 +1,1 @@
+{"index": 321773, "D": "a flattened sac or vesicle lined with a pigmented membrane that is the site of photosynthesis, in plants and algae occurring in interconnected stacks constituting a granum of the chloroplast, and in other photosynthesizing organisms occurring either singly or as part of the cell membrane or other structure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208356, "D": "to become volatile;  pass off as vapor.", "S": [], "A": []}

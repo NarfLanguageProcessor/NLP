@@ -1,0 +1,1 @@
+{"index": 338919, "D": "furnished with an insufficient budget;  not having sufficient funds made available.", "S": [], "A": []}

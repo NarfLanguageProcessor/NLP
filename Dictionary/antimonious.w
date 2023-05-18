@@ -1,0 +1,1 @@
+{"index": 15628, "D": "of or containing antimony,  especially in the trivalent state.", "S": [], "A": []}

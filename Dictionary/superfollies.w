@@ -1,0 +1,1 @@
+{"index": 311891, "D": "the state or quality of being foolish; lack of understanding or sense.", "S": [], "A": []}

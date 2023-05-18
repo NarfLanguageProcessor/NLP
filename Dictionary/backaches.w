@@ -1,0 +1,1 @@
+{"index": 25708, "D": "a pain, especially in the lumbar region of the back,  usually caused by the strain of a muscle or ligament.", "S": [], "A": []}

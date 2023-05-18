@@ -1,0 +1,1 @@
+{"index": 150886, "D": "U.S. painter of pop art.", "S": [], "A": []}

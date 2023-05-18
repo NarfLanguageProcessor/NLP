@@ -1,0 +1,1 @@
+{"index": 363865, "D": "any of various shrubby, eastern Asian plants belonging to the genus Weigela, of the honeysuckle family, having funnel-shaped white, pink, or crimson flowers.", "S": [], "A": []}

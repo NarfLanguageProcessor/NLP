@@ -1,0 +1,1 @@
+{"index": 278484, "D": "isopropyl methylphosphono-fluoridate", "S": [], "A": []}

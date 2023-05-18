@@ -1,0 +1,1 @@
+{"index": 243926, "D": "a temporary suspension of hostilities by agreement of the warring parties; truce", "S": [], "A": []}

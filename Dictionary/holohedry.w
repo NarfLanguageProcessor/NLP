@@ -1,0 +1,1 @@
+{"index": 142604, "D": "(of a crystal) having all the planes or faces required by the maximum symmetry of the system to which it belongs.", "S": [], "A": []}

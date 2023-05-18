@@ -1,0 +1,1 @@
+{"index": 312807, "D": "pertaining to, consisting of, or representing the earth as distinct from other planets.", "S": [], "A": []}

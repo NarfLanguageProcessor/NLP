@@ -1,0 +1,1 @@
+{"index": 367642, "D": "to torment oneself with or suffer from disturbing thoughts; fret. ", "S": ["concerned ", "nervous ", "pessimistic "], "A": ["unworried "]}

@@ -1,0 +1,1 @@
+{"index": 34726, "D": "a member, advocate, or follower of the John Birch Society and its principles.", "S": [], "A": []}

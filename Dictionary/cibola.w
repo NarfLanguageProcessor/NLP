@@ -1,0 +1,1 @@
+{"index": 56957, "D": "legendary cities of great wealth believed by earlier Spanish explorers to exist in the SW United States.", "S": [], "A": []}

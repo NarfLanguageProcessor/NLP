@@ -1,0 +1,1 @@
+{"index": 48842, "D": "an instance of the occurrence, existence, etc., of something", "S": ["basic facts ", "basics ", "essential facts ", "essentials ", "facts ", "nitty-gritty ", "realities ", "the dope ", "the scoop ", "the whole story ", "truth of the matter "], "A": []}

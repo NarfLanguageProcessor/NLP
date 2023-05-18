@@ -1,0 +1,1 @@
+{"index": 175233, "D": "a system of long-range navigation whereby the latitude and longitude of a ship or airplane are determined from the time displacement between radio signals from two or more fixed transmitters.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7434, "D": "becoming white; whitish.", "S": [], "A": []}

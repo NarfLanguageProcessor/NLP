@@ -1,0 +1,1 @@
+{"index": 100324, "D": "to produce, cause, or give rise to", "S": ["bred "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111669, "D": "a feast, festival, or holiday.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309662, "D": "of, relating to, or characteristic of all or the whole", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259283, "D": "irrationally extreme in opinion or practice", "S": ["crazed ", "delirious ", "enthusiastic ", "fanatical ", "fervent ", "frenzied ", "furious ", "virulent ", "zealous "], "A": ["apathetic ", "calm ", "disinterested ", "dispassionate ", "indifferent ", "lethargic ", "sane ", "unenthusiastic ", "unexcited "]}

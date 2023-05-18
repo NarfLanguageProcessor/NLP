@@ -1,0 +1,1 @@
+{"index": 309153, "D": "a plant consisting of a woody, perennial base with annual, herbaceous shoots.", "S": [], "A": []}

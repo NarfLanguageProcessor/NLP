@@ -1,0 +1,1 @@
+{"index": 93595, "D": "a device for measuring the amount of alcohol in a person's breath to determine the amount of alcohol in the bloodstream.", "S": [], "A": []}

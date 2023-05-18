@@ -1,0 +1,1 @@
+{"index": 351963, "D": "a numerical fact or datum, especially one computed from a sample.", "S": [], "A": []}

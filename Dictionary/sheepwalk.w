@@ -1,0 +1,1 @@
+{"index": 287851, "D": "a tract of land on which sheep  are pastured.", "S": [], "A": []}

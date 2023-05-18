@@ -1,0 +1,1 @@
+{"index": 239440, "D": "to coat or plate with metallic platinum. ", "S": [], "A": []}

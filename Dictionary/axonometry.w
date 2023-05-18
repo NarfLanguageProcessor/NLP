@@ -1,0 +1,1 @@
+{"index": 25192, "D": "the branch of crystallography concerned with measurement of the axes of crystals", "S": [], "A": []}

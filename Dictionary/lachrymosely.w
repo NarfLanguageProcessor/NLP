@@ -1,0 +1,1 @@
+{"index": 166913, "D": "suggestive of or tending to cause tears; mournful. ", "S": [], "A": []}

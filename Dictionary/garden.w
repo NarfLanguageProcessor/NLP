@@ -1,0 +1,1 @@
+{"index": 122096, "D": "a plot of ground, usually near a house, where flowers, shrubs, vegetables, fruits, or herbs are cultivated.", "S": ["back yard ", "bed ", "field ", "greenhouse ", "nursery ", "patio ", "terrace "], "A": []}

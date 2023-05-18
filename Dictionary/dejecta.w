@@ -1,0 +1,1 @@
+{"index": 79867, "D": "waste discharged from the body; excrement.", "S": [], "A": []}

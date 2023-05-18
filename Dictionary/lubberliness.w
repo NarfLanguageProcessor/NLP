@@ -1,0 +1,1 @@
+{"index": 175735, "D": "of or resembling a lubber. ", "S": [], "A": []}

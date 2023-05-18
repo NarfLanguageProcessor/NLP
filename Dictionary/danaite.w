@@ -1,0 +1,1 @@
+{"index": 76668, "D": "a variety of arsenopyrite having cobalt in place of some of the iron.", "S": [], "A": []}

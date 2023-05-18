@@ -1,0 +1,1 @@
+{"index": 368309, "D": "a mineral, hydrous iron oxide, Fe2O3\u22c52H2O.", "S": [], "A": []}

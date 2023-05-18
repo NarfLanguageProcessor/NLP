@@ -1,0 +1,1 @@
+{"index": 115650, "D": "a North American plant, Tiarella cordifolia, having a cluster of small, usually white flowers. ", "S": [], "A": []}

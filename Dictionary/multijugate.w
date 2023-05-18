@@ -1,0 +1,1 @@
+{"index": 195135, "D": "having the leaflets in pairs, as a pinnate leaf.", "S": [], "A": []}

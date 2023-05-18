@@ -1,0 +1,1 @@
+{"index": 134801, "D": "the faculty or sense by which sound is perceived.", "S": ["audition ", "detecting ", "distinguishing ", "ear ", "earshot ", "effect ", "extent ", "faculty ", "listening ", "perception ", "range ", "reach ", "recording ", "sense "], "A": []}

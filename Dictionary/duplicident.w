@@ -1,0 +1,1 @@
+{"index": 94366, "D": "(of certain animals, such as rabbits) having two pairs of incisors in the upper jaw", "S": [], "A": []}

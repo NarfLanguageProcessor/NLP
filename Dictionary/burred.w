@@ -1,0 +1,1 @@
+{"index": 43267, "D": "prickly or rough in texture.", "S": ["boycott ", "disregard ", "humiliate ", "ignore ", "neglect ", "ostracize ", "pass up ", "rebuff ", "scold ", "scorn ", "shun "], "A": ["note ", "pay attention ", "praise ", "regard ", "welcome ", "approve ", "compliment ", "flatter ", "heat ", "respect ", "warm "]}

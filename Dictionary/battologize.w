@@ -1,0 +1,1 @@
+{"index": 29168, "D": "to repeat (a word, phrase, mannerism, etc.) excessively.", "S": [], "A": []}

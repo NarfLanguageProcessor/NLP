@@ -1,0 +1,1 @@
+{"index": 111977, "D": "an optical instrument consisting of a fiber bundle  with an objective lens at one end and an eyepiece at the other, for viewing objects not accessible to direct viewing.", "S": [], "A": []}

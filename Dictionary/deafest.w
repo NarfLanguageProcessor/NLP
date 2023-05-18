@@ -1,0 +1,1 @@
+{"index": 77522, "D": "partially or wholly lacking or deprived of the sense of hearing; unable to hear.", "S": ["earless ", "hard of hearing ", "stone-deaf ", "unable to hear "], "A": ["attentive ", "aware ", "conscious ", "hearing ", "listening ", "willing "]}

@@ -1,0 +1,1 @@
+{"index": 137651, "D": "undergoing development in which the young are born adultlike in form, often maturing without a pupal stage.", "S": [], "A": []}

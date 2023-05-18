@@ -1,0 +1,1 @@
+{"index": 85068, "D": "(in Britain) one of a group of caravan-dwelling roadside people who live like Gypsies but are not true Romanies", "S": [], "A": []}

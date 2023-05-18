@@ -1,0 +1,1 @@
+{"index": 137624, "D": "having an unequal distribution of yolk, as certain eggs or ova.", "S": [], "A": []}

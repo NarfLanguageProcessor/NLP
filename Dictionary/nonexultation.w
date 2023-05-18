@@ -1,0 +1,1 @@
+{"index": 203905, "D": "the act of exulting;  lively or triumphant joy, as over success or victory.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340503, "D": "having been talked or written about, especially in order to debate or explore solutions", "S": [], "A": []}

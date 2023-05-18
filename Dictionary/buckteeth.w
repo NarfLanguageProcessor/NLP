@@ -1,0 +1,1 @@
+{"index": 42110, "D": "a projecting tooth,  especially an upper front tooth. ", "S": [], "A": []}

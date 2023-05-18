@@ -1,0 +1,1 @@
+{"index": 161626, "D": "without a joint;  lacking a joint. ", "S": [], "A": []}

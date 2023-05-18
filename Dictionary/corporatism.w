@@ -1,0 +1,1 @@
+{"index": 69531, "D": "the principles, doctrine, or system of corporative organization of a political unit, as a city or state.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 245637, "D": "the act of agreeing or of coming to a mutual arrangement.", "S": [], "A": []}

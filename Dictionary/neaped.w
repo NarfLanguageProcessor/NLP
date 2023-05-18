@@ -1,0 +1,1 @@
+{"index": 197592, "D": "grounded until the next cycle of spring tides.", "S": [], "A": []}

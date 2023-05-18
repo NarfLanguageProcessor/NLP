@@ -1,0 +1,1 @@
+{"index": 94726, "D": "an outpouring of oral information or advice, especially when given without solicitation.", "S": ["buzz ", "chatter ", "chitchat ", "conversation ", "hearsay ", "news ", "scandal ", "slander ", "tale "], "A": ["quiet ", "silence "]}

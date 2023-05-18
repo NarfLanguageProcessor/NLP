@@ -1,0 +1,1 @@
+{"index": 126606, "D": "the response Gloria tibi, Domine, \u201cGlory be to Thee, O Lord.\u201d", "S": [], "A": []}

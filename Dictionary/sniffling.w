@@ -1,0 +1,1 @@
+{"index": 295528, "D": "to sniff  repeatedly, as from a head cold or in repressing tears", "S": ["choke ", "snort ", "whoop "], "A": []}

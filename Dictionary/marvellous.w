@@ -1,0 +1,1 @@
+{"index": 180577, "D": "causing great wonder, surprise, etc; extraordinary", "S": ["alien ", "ethereal ", "extraterrestrial ", "ghostly ", "heavenly ", "otherworldly ", "strange ", "superb ", "supernatural ", "unearthly ", "weird ", "wonderful "], "A": []}

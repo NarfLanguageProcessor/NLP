@@ -1,0 +1,1 @@
+{"index": 260843, "D": "something rare,  unusual, or uncommon", "S": ["infrequency ", "rareness ", "uncommonness "], "A": ["commonness ", "commonplaceness ", "ordinariness ", "usualness "]}

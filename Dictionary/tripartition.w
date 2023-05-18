@@ -1,0 +1,1 @@
+{"index": 330305, "D": "division into three parts.", "S": ["ternary ", "ternion ", "third ", "triad ", "trichotomy ", "trilogy ", "trinity ", "trio ", "triplet ", "triplets ", "triplicate ", "triplicity ", "triumvirate ", "trivium ", "troika "], "A": []}

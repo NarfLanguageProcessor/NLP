@@ -1,0 +1,1 @@
+{"index": 331577, "D": "any of several fishes  of the family Aulostomidae, having a long, tubular snout, as the slender, brown-flecked Aulostomus maculatus, inhabiting waters on both sides of the tropical Atlantic Ocean, having the habit of orienting vertically in the water and capturing its prey from that position.", "S": [], "A": []}

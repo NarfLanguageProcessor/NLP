@@ -1,0 +1,1 @@
+{"index": 299680, "D": "a small or minute, slender, sharp-pointed body or part; a small, needlelike crystal, process, or the like.", "S": [], "A": []}

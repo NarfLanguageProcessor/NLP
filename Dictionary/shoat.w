@@ -1,0 +1,1 @@
+{"index": 288637, "D": "a young, weaned pig.", "S": ["boar ", "pig ", "piglet ", "swine "], "A": []}

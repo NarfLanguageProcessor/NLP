@@ -1,0 +1,1 @@
+{"index": 319120, "D": "a ceremonial structure of the Aztecs, consisting of a truncated terraced pyramid supporting a temple.", "S": [], "A": []}

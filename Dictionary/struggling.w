@@ -1,0 +1,1 @@
+{"index": 306646, "D": "to contend with an adversary or opposing force.", "S": ["excruciating ", "harrowing ", "intense ", "tortuous "], "A": ["pleasant ", "pleasing "]}

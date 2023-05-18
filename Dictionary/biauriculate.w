@@ -1,0 +1,1 @@
+{"index": 33190, "D": "having two auricles or earlike parts.", "S": [], "A": []}

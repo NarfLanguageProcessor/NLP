@@ -1,0 +1,1 @@
+{"index": 121237, "D": "a group of people having a common interest, esp a coterie of undesirable people", "S": [], "A": []}

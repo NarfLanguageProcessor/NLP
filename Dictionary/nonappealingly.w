@@ -1,0 +1,1 @@
+{"index": 201368, "D": "evoking or attracting interest, desire, curiosity, sympathy, or the like; attractive.", "S": [], "A": []}

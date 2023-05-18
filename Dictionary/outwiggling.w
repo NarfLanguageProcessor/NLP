@@ -1,0 +1,1 @@
+{"index": 217916, "D": "to move or go with short, quick, irregular movements from side to side", "S": [], "A": []}

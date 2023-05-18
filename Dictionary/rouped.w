@@ -1,0 +1,1 @@
+{"index": 274897, "D": "any catarrhal inflammation of the eyes and nasal passages of poultry.", "S": [], "A": []}

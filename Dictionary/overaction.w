@@ -1,0 +1,1 @@
+{"index": 218138, "D": "to act  in an exaggerated manner.", "S": [], "A": []}

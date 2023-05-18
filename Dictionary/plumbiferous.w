@@ -1,0 +1,1 @@
+{"index": 240399, "D": "yielding or containing lead.", "S": ["galena ", "lead ", "pewter ", "plumbean ", "plumbic ", "plumbous "], "A": []}

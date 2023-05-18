@@ -1,0 +1,1 @@
+{"index": 216485, "D": "characteristic of, located, occurring, or belonging outdoors", "S": ["rustic "], "A": []}

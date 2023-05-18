@@ -1,0 +1,1 @@
+{"index": 97690, "D": "an instrument that measures the ellipticity of polarized light, used for determining the thickness of thin films.", "S": [], "A": []}

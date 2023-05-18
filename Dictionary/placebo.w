@@ -1,0 +1,1 @@
+{"index": 238541, "D": "Compare nocebo (def. 1). ", "S": ["inactive drug ", "inactive medicine ", "inactive substance ", "sugar pill ", "test substance "], "A": []}

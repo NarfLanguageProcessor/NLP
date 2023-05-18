@@ -1,0 +1,1 @@
+{"index": 208241, "D": "(of language) native to a place (opposed to literary).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167546, "D": "the Buddhism of Tibet and Mongolia, a Mahayana form including non-Buddhist Indian elements as well as elements of the preexisting B\u00f6n shamanism.", "S": [], "A": []}

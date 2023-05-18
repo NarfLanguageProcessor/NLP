@@ -1,0 +1,1 @@
+{"index": 193682, "D": "subject to death; having a transitory life", "S": ["dire ", "fatal ", "grievous ", "grim ", "lethal ", "malignant ", "terrible "], "A": ["good ", "harmless ", "life-giving ", "nice ", "trivial ", "unimportant ", "beginning ", "initial ", "mild ", "starting "]}

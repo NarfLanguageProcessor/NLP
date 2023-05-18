@@ -1,0 +1,1 @@
+{"index": 219596, "D": "the quality or feeling of being grateful or thankful", "S": [], "A": []}

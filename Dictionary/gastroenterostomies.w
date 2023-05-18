@@ -1,0 +1,1 @@
+{"index": 122572, "D": "the making of a new passage between the stomach and the duodenum (gastroduodenostomy ) or, especially, the jejunum (gastrojejunostomy ).", "S": [], "A": []}

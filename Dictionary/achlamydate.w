@@ -1,0 +1,1 @@
+{"index": 2293, "D": "not chlamydate;  having neither mantle nor pallium.", "S": [], "A": []}

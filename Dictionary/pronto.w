@@ -1,0 +1,1 @@
+{"index": 252448, "D": "promptly; quickly.", "S": ["promptly "], "A": []}

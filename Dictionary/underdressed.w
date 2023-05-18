@@ -1,0 +1,1 @@
+{"index": 339118, "D": "wearing clothes that are not elaborate or formal enough for a particular occasion", "S": [], "A": []}

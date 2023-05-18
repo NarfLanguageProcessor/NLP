@@ -1,0 +1,1 @@
+{"index": 180688, "D": "a covering for all or part of the face, worn to conceal one's identity.", "S": ["camouflage ", "cloak ", "veil "], "A": ["reality ", "truth "]}

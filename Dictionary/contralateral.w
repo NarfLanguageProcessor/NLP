@@ -1,0 +1,1 @@
+{"index": 67652, "D": "(of the body) pertaining to, situated on, or coordinated with the opposite side.", "S": [], "A": []}

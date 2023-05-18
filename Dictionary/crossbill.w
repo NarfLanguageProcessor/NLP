@@ -1,0 +1,1 @@
+{"index": 73777, "D": "any bird belonging to the genus Loxia, of the finch family, characterized by mandibles curved so that the tips cross each other when the bill  is closed.", "S": [], "A": []}

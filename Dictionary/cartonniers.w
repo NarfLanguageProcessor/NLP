@@ -1,0 +1,1 @@
+{"index": 48660, "D": "an ornamental box for papers, usually for placing on a desk.", "S": [], "A": []}

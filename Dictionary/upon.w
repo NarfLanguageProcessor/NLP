@@ -1,0 +1,1 @@
+{"index": 354852, "D": "up and on; upward so as to get or be on", "S": ["beginning with ", "consequent to ", "simultaneous "], "A": []}

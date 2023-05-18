@@ -1,0 +1,1 @@
+{"index": 154652, "D": "a visible collection of particles of water or ice suspended in the air, usually at an elevation above the earth's surface.", "S": [], "A": []}

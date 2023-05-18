@@ -1,0 +1,1 @@
+{"index": 106731, "D": "exclamation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128972, "D": "to bestow or confer, especially by a formal act", "S": [], "A": []}

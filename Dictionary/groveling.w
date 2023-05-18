@@ -1,0 +1,1 @@
+{"index": 130398, "D": "to humble oneself or act in an abject manner, as in great fear or utter servility.", "S": ["cringing ", "fawning ", "humble "], "A": ["proud "]}

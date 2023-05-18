@@ -1,0 +1,1 @@
+{"index": 256400, "D": "the regular throbbing of the arteries, caused by the successive contractions of the heart, especially as may be felt at an artery, as at the wrist.", "S": ["vibration "], "A": []}

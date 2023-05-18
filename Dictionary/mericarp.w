@@ -1,0 +1,1 @@
+{"index": 183782, "D": "one of the carpels of a schizocarp.", "S": [], "A": []}

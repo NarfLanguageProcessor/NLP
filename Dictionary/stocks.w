@@ -1,0 +1,1 @@
+{"index": 304976, "D": "an instrument of punishment consisting of a heavy wooden frame with holes in which the feet, hands, or head of an offender were locked", "S": ["assets ", "capital ", "estate ", "land "], "A": []}

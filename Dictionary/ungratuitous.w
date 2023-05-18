@@ -1,0 +1,1 @@
+{"index": 343257, "D": "being without apparent reason, cause, or justification", "S": [], "A": []}

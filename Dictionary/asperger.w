@@ -1,0 +1,1 @@
+{"index": 21390, "D": "(no longer in clinical use) a developmental disorder characterized by severely impaired social skills, repetitive behaviors, and often, a narrow set of interests, but not involving delayed development of linguistic and cognitive abilities", "S": [], "A": []}

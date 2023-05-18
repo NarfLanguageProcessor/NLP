@@ -1,0 +1,1 @@
+{"index": 110466, "D": "artificial or imitation; fake", "S": ["ersatz ", "fake ", "false ", "imitation ", "imitative ", "unreal "], "A": ["authentic ", "genuine ", "real "]}

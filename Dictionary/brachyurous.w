@@ -1,0 +1,1 @@
+{"index": 39499, "D": "shorttailed, as a crab (opposed to macrurous).", "S": [], "A": []}

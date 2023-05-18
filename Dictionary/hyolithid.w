@@ -1,0 +1,1 @@
+{"index": 139759, "D": "any invertebrate of the extinct genus Hyolithes, most common in the Cambrian Period, having a limy, univalve shell, and thought to be related to the pteropods.", "S": [], "A": []}

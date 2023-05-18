@@ -1,0 +1,1 @@
+{"index": 53040, "D": "a breechloading rifle, closed with a sliding bolt, introduced into the French army after 1866.", "S": [], "A": []}

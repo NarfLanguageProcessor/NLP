@@ -1,0 +1,1 @@
+{"index": 324713, "D": "any of various small reddish or grayish monkeys of the genus Callicebus, of South America.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216928, "D": "to make longer; make greater in length. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 217756, "D": "to thrust  out or extend.", "S": ["lump ", "nodule ", "wart "], "A": ["depression "]}

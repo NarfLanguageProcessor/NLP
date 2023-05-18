@@ -1,0 +1,1 @@
+{"index": 354968, "D": "to pull out by or as if by the roots", "S": ["biting ", "cropping ", "eating ", "feeding ", "foraging ", "gnawing ", "masticating ", "munching ", "nibbling ", "pasturing ", "ruminating "], "A": []}

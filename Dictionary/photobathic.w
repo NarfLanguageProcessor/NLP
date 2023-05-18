@@ -1,0 +1,1 @@
+{"index": 234989, "D": "another word for photic (def. 3)", "S": [], "A": []}

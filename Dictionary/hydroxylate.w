@@ -1,0 +1,1 @@
+{"index": 139044, "D": "to introduce hydroxyl into (a compound).", "S": [], "A": []}

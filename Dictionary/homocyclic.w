@@ -1,0 +1,1 @@
+{"index": 142992, "D": "of or noting a cyclic  compound having atoms of only one element, usually carbon, in the ring (contrasted with heterocyclic).", "S": [], "A": []}

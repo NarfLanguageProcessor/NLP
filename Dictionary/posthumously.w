@@ -1,0 +1,1 @@
+{"index": 244195, "D": "after a person\u2019s death, typically the death of the author or other artist", "S": [], "A": []}

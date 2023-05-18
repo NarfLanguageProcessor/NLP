@@ -1,0 +1,1 @@
+{"index": 297681, "D": "the process or result of sorting things, especially computationally or mechanically.", "S": [], "A": []}

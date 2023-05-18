@@ -1,0 +1,1 @@
+{"index": 90450, "D": "a variant of dewan, divan (def. 2), divan (def. 3), divan (def. 4), divan (def. 5)", "S": [], "A": []}

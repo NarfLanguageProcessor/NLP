@@ -1,0 +1,1 @@
+{"index": 156226, "D": "to wind  together; intertwine.", "S": ["convolute ", "entwine ", "interlace ", "interweave ", "mesh ", "tangle ", "weave "], "A": ["untangle ", "untwist ", "disconnect ", "dissociate ", "divide ", "part ", "separate "]}

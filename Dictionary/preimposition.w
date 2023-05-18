@@ -1,0 +1,1 @@
+{"index": 247899, "D": "the laying on of something as a burden or obligation.", "S": [], "A": []}

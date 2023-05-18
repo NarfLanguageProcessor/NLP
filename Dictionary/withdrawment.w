@@ -1,0 +1,1 @@
+{"index": 366594, "D": "the act or condition of withdrawing. ", "S": [], "A": []}

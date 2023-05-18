@@ -1,0 +1,1 @@
+{"index": 42600, "D": "to bully; harass", "S": [], "A": []}

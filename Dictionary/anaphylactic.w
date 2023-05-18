@@ -1,0 +1,1 @@
+{"index": 11894, "D": "exaggerated allergic reaction to a foreign protein resulting from previous exposure to it.", "S": [], "A": []}

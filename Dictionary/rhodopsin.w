@@ -1,0 +1,1 @@
+{"index": 272305, "D": "a bright-red photosensitive pigment found in the rod-shaped cells of the retina of certain fishes and most higher vertebrates", "S": [], "A": []}

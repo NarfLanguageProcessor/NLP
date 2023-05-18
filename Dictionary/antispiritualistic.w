@@ -1,0 +1,1 @@
+{"index": 16241, "D": "the belief or doctrine that the spirits  of the dead, surviving after the mortal life, can and do communicate with the living, especially through a person (a medium) particularly susceptible to their influence.", "S": [], "A": []}

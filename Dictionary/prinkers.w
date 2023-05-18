@@ -1,0 +1,1 @@
+{"index": 250677, "D": "to deck or dress for show.", "S": [], "A": []}

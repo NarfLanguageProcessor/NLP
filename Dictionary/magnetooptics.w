@@ -1,0 +1,1 @@
+{"index": 177560, "D": "the branch of physics that deals with magnetooptic phenomena.", "S": [], "A": []}

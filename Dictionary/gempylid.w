@@ -1,0 +1,1 @@
+{"index": 123377, "D": "any of several fishes of the family Gempylidae, comprising the snake mackerels.", "S": [], "A": []}

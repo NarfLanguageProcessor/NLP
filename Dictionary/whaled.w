@@ -1,0 +1,1 @@
+{"index": 364352, "D": "any of the larger marine mammals of the order Cetacea, especially as distinguished from the smaller dolphins and porpoises, having a fishlike body, forelimbs modified into flippers, and a head that is horizontally flattened.", "S": ["batter ", "buffet ", "chastise ", "knock ", "pummel ", "smack "], "A": ["compliment ", "lose "]}

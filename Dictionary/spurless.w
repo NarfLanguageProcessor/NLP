@@ -1,0 +1,1 @@
+{"index": 301513, "D": "a U-shaped device that slips over and straps to the heel of a boot and has a blunt, pointed, or roweled projection at the back for use by a mounted rider to urge a horse forward.", "S": [], "A": []}

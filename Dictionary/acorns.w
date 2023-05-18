@@ -1,0 +1,1 @@
+{"index": 2674, "D": "the typically ovoid fruit or nut of an oak, enclosed at the base by a cupule.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189789, "D": "(in English) a sequence of two or more words that does not contain a finite verb and its subject or that does not consist of clause elements such as subject, verb, object, or complement, as a preposition and a noun or pronoun, an adjective and noun, or an adverb and verb.", "S": [], "A": []}

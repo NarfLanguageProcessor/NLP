@@ -1,0 +1,1 @@
+{"index": 126147, "D": "a mottled soil in which iron compounds have been oxidized and reduced by intermittent water saturation.", "S": [], "A": []}

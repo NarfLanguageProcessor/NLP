@@ -1,0 +1,1 @@
+{"index": 83842, "D": "Compare laevorotation", "S": [], "A": []}

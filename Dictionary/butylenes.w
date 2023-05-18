@@ -1,0 +1,1 @@
+{"index": 43602, "D": "any of three isomeric, gaseous hydrocarbons having the formula C4H8, of the alkene series.", "S": [], "A": []}

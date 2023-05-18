@@ -1,0 +1,1 @@
+{"index": 145019, "D": "a person or thing that hums. ", "S": [], "A": []}

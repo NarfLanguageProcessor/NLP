@@ -1,0 +1,1 @@
+{"index": 236398, "D": "any of various structures or regions at the caudal end of the body in certain invertebrates.", "S": [], "A": []}

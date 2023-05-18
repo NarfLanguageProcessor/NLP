@@ -1,0 +1,1 @@
+{"index": 24640, "D": [], "S": ["retaliation ", "retribution ", "vengeance "], "A": ["forgiveness ", "pardon "]}

@@ -1,0 +1,1 @@
+{"index": 287983, "D": "protected against the explosive effect of shells  or bombs.", "S": [], "A": []}

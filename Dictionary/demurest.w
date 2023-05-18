@@ -1,0 +1,1 @@
+{"index": 80945, "D": "characterized by shyness and modesty; reserved.", "S": [], "A": []}

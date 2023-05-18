@@ -1,0 +1,1 @@
+{"index": 160442, "D": "(in the Book of Mormon) the eponymous ancestor of the Jaredites. ", "S": ["basin ", "bottle ", "can ", "flask ", "jug ", "pot ", "urn ", "vase ", "vessel "], "A": []}

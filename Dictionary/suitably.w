@@ -1,0 +1,1 @@
+{"index": 310318, "D": "such as to suit;  appropriate; fitting; becoming.", "S": ["appropriately ", "pleasantly "], "A": []}

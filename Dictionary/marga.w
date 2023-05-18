@@ -1,0 +1,1 @@
+{"index": 179963, "D": "any of the three ways to salvation, which are those of devotion to certain gods(bhakti-marga ), of study (jnana-marga ), and of actions (karma-marga ).", "S": [], "A": []}

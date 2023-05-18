@@ -1,0 +1,1 @@
+{"index": 219527, "D": "having great special talent or ability", "S": [], "A": []}

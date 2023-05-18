@@ -1,0 +1,1 @@
+{"index": 280508, "D": "the profession of a schoolteacher.", "S": [], "A": []}

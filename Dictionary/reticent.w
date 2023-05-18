@@ -1,0 +1,1 @@
+{"index": 270430, "D": "disposed to be silent or not to speak freely; reserved. ", "S": ["bashful ", "hesitant ", "mum ", "reserved ", "restrained ", "shy ", "silent ", "taciturn "], "A": ["communicative ", "confident ", "extroverted ", "outgoing ", "talkative ", "unreserved "]}

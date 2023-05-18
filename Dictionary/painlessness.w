@@ -1,0 +1,1 @@
+{"index": 223160, "D": "without pain;  causing little or no pain", "S": [], "A": []}

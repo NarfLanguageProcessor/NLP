@@ -1,0 +1,1 @@
+{"index": 316269, "D": "a variety of zoisite valued as a gem for its purplish-blue color and strong pleochroism.", "S": [], "A": []}

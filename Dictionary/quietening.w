@@ -1,0 +1,1 @@
+{"index": 258562, "D": "to become quiet  (often followed by down).", "S": ["anesthetic ", "calming ", "deadening ", "hypnotic ", "narcotic ", "opiate ", "sedative "], "A": ["upsetting "]}

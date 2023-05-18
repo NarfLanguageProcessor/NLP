@@ -1,0 +1,1 @@
+{"index": 16670, "D": "into pieces or parts; to pieces", "S": [], "A": []}

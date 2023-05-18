@@ -1,0 +1,1 @@
+{"index": 15272, "D": "a chemical that prevents or minimizes fogging.", "S": [], "A": []}

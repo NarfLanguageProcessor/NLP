@@ -1,0 +1,1 @@
+{"index": 255181, "D": "disposed or given to diligent study", "S": [], "A": []}

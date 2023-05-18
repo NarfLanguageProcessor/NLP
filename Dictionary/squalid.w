@@ -1,0 +1,1 @@
+{"index": 301623, "D": "foul and repulsive, as from lack of care or cleanliness; neglected and filthy.", "S": ["dingy ", "fetid ", "filthy ", "grimy ", "muddy ", "musty ", "ramshackle ", "seedy ", "shabby ", "sordid ", "wretched "], "A": ["bright ", "clean ", "clear ", "good ", "honorable ", "nice ", "pure ", "sterile "]}

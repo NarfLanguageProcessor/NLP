@@ -1,0 +1,1 @@
+{"index": 256155, "D": "a city in and the capital of Haute-Loire, in central France", "S": [], "A": []}

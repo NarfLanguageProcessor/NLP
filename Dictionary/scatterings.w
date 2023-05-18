@@ -1,0 +1,1 @@
+{"index": 279884, "D": "distributed or occurring here and there at irregular intervals; scattered. ", "S": ["clutter ", "junk ", "muck ", "rubbish ", "trash "], "A": ["possessions ", "sense ", "arrangement ", "method ", "order ", "orderliness ", "organization ", "system "]}

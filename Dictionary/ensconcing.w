@@ -1,0 +1,1 @@
+{"index": 100965, "D": "to settle securely or snugly", "S": ["situate ", "stash "], "A": ["confuse ", "depart ", "destroy ", "disarrange ", "disestablish ", "disorder ", "disorganize ", "displace ", "forget ", "ignore ", "lay bare ", "leave ", "lose ", "move ", "open ", "remove ", "reveal ", "tell ", "uncover ", "unsettle ", "upset "]}

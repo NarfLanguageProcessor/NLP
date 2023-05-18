@@ -1,0 +1,1 @@
+{"index": 339886, "D": "capable of being understood;  comprehensible.", "S": ["coherent ", "intelligible ", "logical ", "obvious ", "recognizable "], "A": ["ambiguous ", "irrational ", "obscure ", "unintelligible "]}

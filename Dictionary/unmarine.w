@@ -1,0 +1,1 @@
+{"index": 346025, "D": "of or relating to the sea; existing in or produced by the sea", "S": [], "A": []}

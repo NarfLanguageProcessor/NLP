@@ -1,0 +1,1 @@
+{"index": 208725, "D": "unduly curious about the affairs of others; prying; meddlesome.", "S": [], "A": []}

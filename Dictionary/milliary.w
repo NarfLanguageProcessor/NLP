@@ -1,0 +1,1 @@
+{"index": 187351, "D": "of, relating to, or designating the ancient Roman mile of a thousand paces.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 13375, "D": "at any time; regardless of hour, date, etc.; whenever.", "S": ["at all ", "at any moment ", "at one's convenience ", "every-time ", "no matter when ", "when one will ", "whenever "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335804, "D": "kind, especially to inferiors; gracious", "S": [], "A": []}

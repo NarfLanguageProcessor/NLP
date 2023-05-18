@@ -1,0 +1,1 @@
+{"index": 39451, "D": "any mollusklike, marine animal of the phylum Brachiopoda, having a dorsal and ventral shell; a lamp shell.", "S": [], "A": []}

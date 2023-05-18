@@ -1,0 +1,1 @@
+{"index": 121642, "D": "a gum resin from various Asian trees of the genus Garcinia, especially G. hanburyi, used as a yellow pigment and as a cathartic.", "S": [], "A": []}

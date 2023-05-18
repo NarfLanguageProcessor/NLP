@@ -1,0 +1,1 @@
+{"index": 133631, "D": "the permanent, dedicated, and completely faithful nucleus of a group or movement, as of a political party.", "S": ["addicted ", "habitual ", "hard-core ", "hardened ", "incurable ", "lifelong "], "A": ["short-lived "]}

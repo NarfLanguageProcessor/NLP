@@ -1,0 +1,1 @@
+{"index": 231239, "D": "circumlocutory; roundabout.", "S": ["bombastic ", "chatty ", "diffuse ", "discursive ", "flatulent ", "gabby ", "garrulous ", "inflated ", "lengthy ", "long-winded ", "loquacious ", "palaverous ", "pleonastic ", "prolix ", "rambling ", "redundant ", "rhetorical ", "tedious ", "turgid ", "verbose ", "voluble ", "windy "], "A": []}

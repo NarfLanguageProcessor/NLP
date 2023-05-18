@@ -1,0 +1,1 @@
+{"index": 345675, "D": "to give attention with the ear; attend closely for the purpose of hearing; give ear.", "S": [], "A": []}

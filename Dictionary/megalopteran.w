@@ -1,0 +1,1 @@
+{"index": 182449, "D": "Any of various relatively large carnivorous insects of the order Megaloptera, having biting mouthparts and two pairs of large wings. Megalopterans include the alderflies and dobsonflies, and used to be classified as neuropterans.", "S": [], "A": []}

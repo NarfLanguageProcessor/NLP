@@ -1,0 +1,1 @@
+{"index": 150819, "D": "not describable; too extraordinary for description", "S": ["newness ", "weirdness "], "A": ["normality ", "standard ", "usualness "]}

@@ -1,0 +1,1 @@
+{"index": 119545, "D": "a person or thing that fructifies", "S": [], "A": []}

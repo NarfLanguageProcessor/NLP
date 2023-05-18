@@ -1,0 +1,1 @@
+{"index": 326086, "D": "simple past tense of tear2. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91012, "D": "(used to express dismay when one has said or done something stupid or when something has gone wrong.)", "S": [], "A": []}

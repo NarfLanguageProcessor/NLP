@@ -1,0 +1,1 @@
+{"index": 300616, "D": "to talk rapidly and somewhat incoherently, as when confused, excited, or embarrassed", "S": [], "A": []}

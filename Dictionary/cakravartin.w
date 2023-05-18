@@ -1,0 +1,1 @@
+{"index": 44692, "D": "(in Indian philosophy, politics, etc.) an ideal, universal, enlightened ruler, under whom the world exists in justice and peace.", "S": [], "A": []}

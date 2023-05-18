@@ -1,0 +1,1 @@
+{"index": 24712, "D": "to turn away or aside", "S": ["needless ", "unnecessary "], "A": ["necessary ", "needed "]}

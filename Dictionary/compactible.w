@@ -1,0 +1,1 @@
+{"index": 64341, "D": "capable of being compacted", "S": [], "A": []}

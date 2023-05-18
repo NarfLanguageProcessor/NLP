@@ -1,0 +1,1 @@
+{"index": 170532, "D": "of, relating to, or suggesting Leonardo da Vinci  or the style of his paintings.", "S": [], "A": []}

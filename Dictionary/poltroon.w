@@ -1,0 +1,1 @@
+{"index": 242804, "D": "a wretched coward; craven.", "S": ["coward ", "craven ", "dastard ", "milksop ", "varlet ", "weakling "], "A": []}

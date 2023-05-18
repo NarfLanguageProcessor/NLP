@@ -1,0 +1,1 @@
+{"index": 159453, "D": "of or relating to Italy,  its people, or their language.", "S": ["Catalan ", "Continental ", "French ", "Indo-European language ", "Italian ", "Italic language ", "Latin ", "Portuguese ", "Provencal ", "Spanish ", "insular "], "A": []}

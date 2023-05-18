@@ -1,0 +1,1 @@
+{"index": 329374, "D": "the point of intersection of the normal hairline and the middle line of the forehead.", "S": [], "A": []}

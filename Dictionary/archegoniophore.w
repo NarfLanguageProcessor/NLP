@@ -1,0 +1,1 @@
+{"index": 18818, "D": "A structure that bears the archegonia in some liverworts. See more at  liverwort.", "S": [], "A": []}

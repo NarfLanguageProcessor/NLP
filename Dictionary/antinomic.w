@@ -1,0 +1,1 @@
+{"index": 15702, "D": "opposition between one law, principle, rule, etc., and another.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160314, "D": "to produce a harsh, discordant sound, as two comparatively small, thin, or hollow pieces of metal hitting together", "S": ["discordant ", "noisy ", "raucous "], "A": ["quiet "]}

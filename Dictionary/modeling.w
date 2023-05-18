@@ -1,0 +1,1 @@
+{"index": 191048, "D": "the act, art, or profession of a person who models. ", "S": ["design ", "painting "], "A": ["lack ", "science "]}

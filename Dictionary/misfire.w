@@ -1,0 +1,1 @@
+{"index": 189304, "D": "(of a rifle or gun or of a bullet or shell) to fail to fire  or explode.", "S": ["backfire ", "fall flat ", "fizzle ", "flop "], "A": ["correct ", "do well ", "succeed "]}

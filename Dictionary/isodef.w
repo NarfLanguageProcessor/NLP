@@ -1,0 +1,1 @@
+{"index": 158905, "D": "uniform deficiency,  especially a line connecting points of equal deviation from a mean, as on a chart or graph.", "S": [], "A": []}

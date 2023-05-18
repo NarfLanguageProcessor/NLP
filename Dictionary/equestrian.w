@@ -1,0 +1,1 @@
+{"index": 103212, "D": "of or relating to horseback riding or horseback riders", "S": ["horseman ", "horsewoman ", "rider "], "A": []}

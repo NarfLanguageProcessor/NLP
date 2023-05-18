@@ -1,0 +1,1 @@
+{"index": 67359, "D": "to struggle in opposition", "S": ["contentious ", "disputed ", "dubious ", "questionable "], "A": ["certain ", "definite ", "sure "]}

@@ -1,0 +1,1 @@
+{"index": 3165, "D": "a device for measuring intensity of radiation, especially that of the sun.", "S": [], "A": []}

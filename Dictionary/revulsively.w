@@ -1,0 +1,1 @@
+{"index": 271548, "D": "tending to alter the distribution of blood by revulsion.", "S": [], "A": []}

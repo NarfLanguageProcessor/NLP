@@ -1,0 +1,1 @@
+{"index": 249626, "D": "to strike or beat with a forcible, downward thrust of the foot.", "S": [], "A": []}

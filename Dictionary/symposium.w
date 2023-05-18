@@ -1,0 +1,1 @@
+{"index": 291129, "D": "a meeting or conference for the discussion of some subject, especially a meeting at which several speakers talk on or discuss a topic before an audience.", "S": ["convention ", "discussion ", "forum ", "meeting ", "panel discussion ", "round table ", "seminar "], "A": []}

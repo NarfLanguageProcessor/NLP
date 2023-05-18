@@ -1,0 +1,1 @@
+{"index": 351260, "D": "a small device consisting of a glass, metal, or hard rubber tube, narrowed at its outlet, and fitted with either a piston or a rubber bulb for drawing in a quantity of fluid or for ejecting fluid in a stream, for cleaning wounds, injecting fluids into the body, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195517, "D": "German soldier, adventurer, and teller of tales.", "S": [], "A": []}

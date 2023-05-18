@@ -1,0 +1,1 @@
+{"index": 64841, "D": "to understand the nature or meaning of; grasp with the mind; perceive", "S": ["affectionate ", "amicable ", "cordial ", "fraternal ", "neighborly ", "selfless "], "A": ["cold ", "cool ", "hostile ", "unfriendly ", "unsociable "]}

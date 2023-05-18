@@ -1,0 +1,1 @@
+{"index": 23588, "D": "to cause to appear golden; gild", "S": ["adorn ", "bedeck "], "A": ["decrease ", "harm ", "reduce ", "reveal ", "strip "]}

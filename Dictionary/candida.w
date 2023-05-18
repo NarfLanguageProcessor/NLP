@@ -1,0 +1,1 @@
+{"index": 46158, "D": "any of the yeastlike fungi constituting the genus Candida, members of which may cause athlete's foot, vaginitis, thrush, or other infections.", "S": [], "A": []}

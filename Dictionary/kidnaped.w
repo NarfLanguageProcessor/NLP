@@ -1,0 +1,1 @@
+{"index": 164478, "D": "to steal, carry off, or abduct by force or fraud, especially for use as a hostage or to extract ransom.", "S": ["capture ", "hijack ", "seize ", "snatch ", "steal "], "A": ["free ", "give ", "let go ", "liberate ", "release ", "allow "]}

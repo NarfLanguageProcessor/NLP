@@ -1,0 +1,1 @@
+{"index": 274944, "D": "march in which a unit retains its column formation but individuals are allowed to break step.", "S": [], "A": []}

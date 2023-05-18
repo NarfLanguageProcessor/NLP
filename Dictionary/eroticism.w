@@ -1,0 +1,1 @@
+{"index": 103927, "D": "the sexual or erotic  quality or character of something.", "S": ["arousal ", "libido ", "lust ", "stimulation ", "titillation "], "A": []}

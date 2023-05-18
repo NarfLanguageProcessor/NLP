@@ -1,0 +1,1 @@
+{"index": 72318, "D": "a person or thing that crawls. ", "S": ["babe ", "chick ", "child ", "kid ", "toddler ", "youngster "], "A": ["adult "]}

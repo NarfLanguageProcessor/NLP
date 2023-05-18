@@ -1,0 +1,1 @@
+{"index": 59164, "D": "a loud uproar, as from a crowd of people", "S": ["agitation ", "brouhaha ", "buzz ", "ferment ", "hubbub ", "noise ", "outcry ", "ruckus ", "tumult ", "upheaval ", "uproar "], "A": ["calm ", "order ", "peace ", "silence ", "harmony "]}

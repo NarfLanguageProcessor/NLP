@@ -1,0 +1,1 @@
+{"index": 38462, "D": "an island in the Malay Archipelago, politically divided among Indonesia, Malaysia, and the British-protected sultanate of Brunei. 290,000 sq. mi. (750,000 sq. km).", "S": [], "A": []}

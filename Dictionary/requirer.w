@@ -1,0 +1,1 @@
+{"index": 268874, "D": "to have need of; need", "S": [], "A": []}

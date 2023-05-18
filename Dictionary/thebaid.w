@@ -1,0 +1,1 @@
+{"index": 320762, "D": "the ancient region surrounding Thebes, in Egypt.", "S": [], "A": []}

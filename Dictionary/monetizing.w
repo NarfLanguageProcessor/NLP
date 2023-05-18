@@ -1,0 +1,1 @@
+{"index": 191904, "D": "to legalize as money.", "S": ["cast ", "construct ", "devise ", "fabricate ", "fashion ", "forge ", "invent ", "issue ", "make ", "mold ", "produce ", "provide ", "punch ", "stamp ", "strike "], "A": ["break ", "demolish ", "destroy ", "dismantle ", "lose ", "raze ", "ruin ", "take ", "tell the truth "]}

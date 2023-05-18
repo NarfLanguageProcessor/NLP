@@ -1,0 +1,1 @@
+{"index": 171737, "D": "a red crystalline substance, C40H56, that is the main pigment of certain fruits, as the tomato and paprika, and is a precursor to carotene in plant biosynthesis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322758, "D": "a violent spasm or pang; paroxysm.", "S": ["agony "], "A": ["comfort ", "health ", "order "]}

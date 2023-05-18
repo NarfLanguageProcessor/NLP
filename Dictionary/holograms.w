@@ -1,0 +1,1 @@
+{"index": 142595, "D": "a negative produced by exposing a high-resolution photographic plate, without camera or lens, near a subject illuminated by monochromatic, coherent radiation, as from a laser", "S": [], "A": []}

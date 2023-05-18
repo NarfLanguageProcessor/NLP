@@ -1,0 +1,1 @@
+{"index": 109001, "D": "to make easier or less difficult; help forward (an action, a process, etc.)", "S": [], "A": []}

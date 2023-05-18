@@ -1,0 +1,1 @@
+{"index": 26137, "D": "of or relating to Bactria,", "S": [], "A": []}

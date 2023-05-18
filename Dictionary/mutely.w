@@ -1,0 +1,1 @@
+{"index": 196248, "D": "silent; refraining from speech or utterance.", "S": ["calmly ", "quietly "], "A": []}

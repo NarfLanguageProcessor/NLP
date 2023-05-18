@@ -1,0 +1,1 @@
+{"index": 179128, "D": "a salt of manganic acid", "S": [], "A": []}

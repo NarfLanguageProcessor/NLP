@@ -1,0 +1,1 @@
+{"index": 211246, "D": "the polytheistic religion of ancient Scandinavia, in which Odin was the chief of the gods.", "S": [], "A": []}

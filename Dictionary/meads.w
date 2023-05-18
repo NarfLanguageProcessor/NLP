@@ -1,0 +1,1 @@
+{"index": 181689, "D": "Sir Colin. born 1936, New Zealand Rugby Union footballer. A forward, he played for the All Blacks (1957\u201371)", "S": ["farmland ", "garden ", "grassland ", "green ", "ground ", "meadow ", "pasture ", "range ", "terrain ", "territory "], "A": ["sky "]}

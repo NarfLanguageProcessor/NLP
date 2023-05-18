@@ -1,0 +1,1 @@
+{"index": 173510, "D": "to give attention with the ear; attend closely for the purpose of hearing; give ear.", "S": ["accepting ", "attending ", "concentrating ", "hearkening ", "heeding ", "interested ", "receiving "], "A": ["inattentive ", "indifferent "]}

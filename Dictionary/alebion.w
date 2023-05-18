@@ -1,0 +1,1 @@
+{"index": 7809, "D": "a son of Poseidon who, with his brother Dercynus, was killed by Hercules while attempting to steal the cattle that Hercules had taken from Geryon.", "S": [], "A": []}

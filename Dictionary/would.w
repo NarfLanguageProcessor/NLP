@@ -1,0 +1,1 @@
+{"index": 367741, "D": "a simple past tense and past participle of will1. ", "S": ["authorize ", "bid ", "command ", "decree ", "demand ", "determine ", "direct ", "effect ", "enjoin ", "exert ", "insist ", "intend ", "ordain ", "order ", "request ", "resolve "], "A": ["disallow ", "forget ", "neglect ", "overlook ", "reply ", "waver "]}

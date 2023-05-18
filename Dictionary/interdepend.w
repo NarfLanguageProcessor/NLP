@@ -1,0 +1,1 @@
+{"index": 154816, "D": "to rely; place trust (usually followed by on or upon)", "S": ["affect ", "apply ", "ascribe ", "assign ", "associate ", "compare ", "concern ", "connect ", "link ", "pertain ", "refer "], "A": ["disconnect ", "divide ", "separate ", "disjoin "]}

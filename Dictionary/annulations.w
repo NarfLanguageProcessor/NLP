@@ -1,0 +1,1 @@
+{"index": 13641, "D": "formed of ringlike segments, as an annelid worm.", "S": [], "A": []}

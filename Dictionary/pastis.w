@@ -1,0 +1,1 @@
+{"index": 227468, "D": "a yellowish, anise-based liqueur originally made in Marseilles and similar to absinthe but containing no wormwood.", "S": [], "A": []}

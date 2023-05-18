@@ -1,0 +1,1 @@
+{"index": 148597, "D": "to make impersonal", "S": [], "A": []}

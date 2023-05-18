@@ -1,0 +1,1 @@
+{"index": 353059, "D": "a slender or pointed end or extremity, especially of anything long or tapered", "S": [], "A": []}

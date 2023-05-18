@@ -1,0 +1,1 @@
+{"index": 292663, "D": "located; placed.", "S": ["parked ", "placed ", "planted "], "A": ["indefinite ", "unfixed "]}

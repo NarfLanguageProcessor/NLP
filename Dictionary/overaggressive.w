@@ -1,0 +1,1 @@
+{"index": 218173, "D": "excessively quarrelsome or belligerent", "S": [], "A": []}

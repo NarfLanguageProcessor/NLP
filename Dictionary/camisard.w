@@ -1,0 +1,1 @@
+{"index": 45724, "D": "any French Protestant, living in the region of the C\u00e9vennes Mountains, who carried on a revolt against Louis XIV in the early part of the 18th century.", "S": [], "A": []}

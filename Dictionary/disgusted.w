@@ -1,0 +1,1 @@
+{"index": 88201, "D": "to cause loathing or nausea in.", "S": ["appalled ", "outraged ", "queasy ", "tired ", "unhappy ", "weary "], "A": ["activated ", "fresh "]}

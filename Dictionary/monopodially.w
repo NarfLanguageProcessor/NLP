@@ -1,0 +1,1 @@
+{"index": 192555, "D": "a single main axis that continues to extend at the apex in the original line of growth, giving off lateral branches beneath in acropetal succession.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78669, "D": "to make (an object or area) safe for unprotected personnel by removing, neutralizing, or destroying any harmful substance, as radioactive material or poisonous gas.", "S": [], "A": []}

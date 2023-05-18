@@ -1,0 +1,1 @@
+{"index": 292482, "D": "any of several small, cardueline finches, especially Carduelis spinus, of Europe.", "S": [], "A": []}

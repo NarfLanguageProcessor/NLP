@@ -1,0 +1,1 @@
+{"index": 277048, "D": "containing or producing salt", "S": ["alkaline ", "briny ", "pungent ", "saline ", "salted ", "sour "], "A": ["blah ", "bland ", "dull "]}

@@ -1,0 +1,1 @@
+{"index": 272205, "D": "a rootlike subterranean stem, commonly horizontal in position, that usually produces roots below and sends up shoots progressively from the upper surface.", "S": [], "A": []}

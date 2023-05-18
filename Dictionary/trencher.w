@@ -1,0 +1,1 @@
+{"index": 328918, "D": "a person or thing that digs trenches. ", "S": ["bowl ", "platter ", "serving "], "A": []}

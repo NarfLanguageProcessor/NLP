@@ -1,0 +1,1 @@
+{"index": 201192, "D": "the act of affiliating;  state of being affiliated  or associated.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223229, "D": "an aluminum coin and monetary unit, one 100th of the rupee of India, Nepal, and Pakistan.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201611, "D": "without civilizing influences; uncivilized; primitive", "S": [], "A": []}

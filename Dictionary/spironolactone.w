@@ -1,0 +1,1 @@
+{"index": 300206, "D": "a steroid, C24H32O4S, used in combination with other drugs as a diuretic and antihypertensive.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232498, "D": "the branch of petrology dealing with the origin and formation of rocks.", "S": [], "A": []}

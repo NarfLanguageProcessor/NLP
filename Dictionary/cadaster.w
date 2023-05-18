@@ -1,0 +1,1 @@
+{"index": 44261, "D": "an official register showing details of ownership, boundaries, and value of real property in a district, made for taxation purposes", "S": [], "A": []}

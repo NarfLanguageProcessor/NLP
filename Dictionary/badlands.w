@@ -1,0 +1,1 @@
+{"index": 26216, "D": "a barren area in which soft rock strata are eroded into varied, fantastic forms.", "S": ["barren ", "barrens ", "desert ", "waste ", "wasteland "], "A": []}

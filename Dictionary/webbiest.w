@@ -1,0 +1,1 @@
+{"index": 363660, "D": "pertaining to, of the nature of, or resembling a web. ", "S": [], "A": []}

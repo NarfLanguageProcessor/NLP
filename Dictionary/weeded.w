@@ -1,0 +1,1 @@
+{"index": 363738, "D": "a valueless plant growing wild, especially one that grows on cultivated ground to the exclusion or injury of the desired crop.", "S": ["eclectic ", "exclusive ", "preferred ", "privileged ", "selected ", "selective "], "A": ["open ", "least ", "unpopular "]}

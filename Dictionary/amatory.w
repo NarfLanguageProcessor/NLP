@@ -1,0 +1,1 @@
+{"index": 9881, "D": "of or relating to lovers or lovemaking; expressive of love", "S": ["admiring ", "amorous ", "aphrodisiac ", "ardent ", "attracted ", "devoted ", "doting ", "erotic ", "fervent ", "fond ", "languishing ", "lovesick ", "loving ", "passionate ", "rapturous ", "romantic ", "sentimental ", "tender ", "wooing ", "yearning "], "A": ["hateful ", "unfriendly "]}

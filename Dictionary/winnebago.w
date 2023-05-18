@@ -1,0 +1,1 @@
+{"index": 366199, "D": "a member of a North American Indian tribe speaking a Siouan language closely related to Assiniboin, Teton, and Mandan, formerly located in Green Bay, Wis., now living in Green Bay and NE Nebraska.", "S": ["RV "], "A": []}

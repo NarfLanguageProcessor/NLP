@@ -1,0 +1,1 @@
+{"index": 253991, "D": "the state or quality of being uniform;  overall sameness, homogeneity, or regularity", "S": [], "A": []}

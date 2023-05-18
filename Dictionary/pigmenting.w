@@ -1,0 +1,1 @@
+{"index": 236422, "D": "a dry insoluble substance, usually pulverized, which when suspended in a liquid vehicle becomes a paint, ink, etc.", "S": ["darken ", "dye ", "embellish ", "enliven ", "illuminate ", "infuse ", "paint ", "stain ", "tint ", "wash "], "A": ["discolor ", "fade ", "lighten ", "pale ", "whiten "]}

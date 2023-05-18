@@ -1,0 +1,1 @@
+{"index": 326358, "D": "full of twists, turns, or bends; twisting, winding, or crooked", "S": ["coil ", "complexity ", "contortion ", "curlicue ", "gyration ", "helix ", "intricacy ", "involution ", "sinuosity ", "sinuousness ", "swirl ", "twist ", "undulation ", "winding "], "A": ["line ", "straightness "]}

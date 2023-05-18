@@ -1,0 +1,1 @@
+{"index": 361181, "D": "French philosopher, historian, satirist, dramatist, and essayist.", "S": [], "A": []}

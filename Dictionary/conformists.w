@@ -1,0 +1,1 @@
+{"index": 66033, "D": "a person who conforms,  especially unquestioningly, to the usual practices or standards of a group, society, etc.", "S": ["bourgeois ", "emulator ", "follower ", "sheep ", "traditionalist "], "A": []}

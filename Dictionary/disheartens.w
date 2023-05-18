@@ -1,0 +1,1 @@
+{"index": 88250, "D": "to depress the hope, courage, or spirits of; discourage. ", "S": ["daunt ", "deject ", "demoralize ", "deter ", "discourage ", "dismay ", "dispirit ", "humble ", "humiliate "], "A": ["build up ", "encourage ", "hearten ", "inspirit ", "praise ", "promote ", "stimulate ", "urge ", "compliment "]}

@@ -1,0 +1,1 @@
+{"index": 137007, "D": "French poet, born in Cuba.", "S": [], "A": []}

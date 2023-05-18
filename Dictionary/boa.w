@@ -1,0 +1,1 @@
+{"index": 36922, "D": "any of several nonvenomous, chiefly tropical constrictors of the family Boidae, having vestigial hind limbs at the base of the tail.", "S": ["bandanna ", "shawl ", "stole "], "A": []}

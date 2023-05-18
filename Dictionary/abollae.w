@@ -1,0 +1,1 @@
+{"index": 680, "D": "a woolen cloak worn by men in ancient Rome.", "S": [], "A": []}

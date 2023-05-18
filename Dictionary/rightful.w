@@ -1,0 +1,1 @@
+{"index": 272818, "D": "having a valid or just claim, as to some property or position; legitimate", "S": ["deserved ", "lawful ", "proper "], "A": ["illegal ", "illegitimate ", "incorrect ", "wrongful "]}

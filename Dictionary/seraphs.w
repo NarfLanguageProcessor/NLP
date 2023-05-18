@@ -1,0 +1,1 @@
+{"index": 285923, "D": "one of the celestial beings hovering above God's throne in Isaiah's vision. Isaiah 6.", "S": ["baby ", "seraph "], "A": []}

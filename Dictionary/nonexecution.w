@@ -1,0 +1,1 @@
+{"index": 203755, "D": "the act or process of executing. ", "S": [], "A": []}

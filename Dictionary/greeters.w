@@ -1,0 +1,1 @@
+{"index": 129623, "D": "to address with some form of salutation; welcome.", "S": [], "A": []}

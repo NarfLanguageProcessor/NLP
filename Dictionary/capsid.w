@@ -1,0 +1,1 @@
+{"index": 47131, "D": "the coiled or polyhedral structure, composed of proteins, that encloses the nucleic acid of a virus.", "S": [], "A": []}

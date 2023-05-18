@@ -1,0 +1,1 @@
+{"index": 256247, "D": "to draw or haul toward oneself or itself, in a particular direction, or into a particular position", "S": [], "A": []}

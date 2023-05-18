@@ -1,0 +1,1 @@
+{"index": 68666, "D": "something produced jointly with another product. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 106276, "D": "to remove the entrails from; disembowel", "S": [], "A": []}

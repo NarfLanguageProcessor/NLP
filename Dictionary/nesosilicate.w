@@ -1,0 +1,1 @@
+{"index": 198797, "D": "any silicate, as olivine, in which the SiO4 tetrahedra are not interlinked.", "S": [], "A": []}

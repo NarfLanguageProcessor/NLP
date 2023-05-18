@@ -1,0 +1,1 @@
+{"index": 245160, "D": "a writ charging the offense of resorting to a foreign court or authority, as that of the pope, and thus calling in question the supremacy of the English crown.", "S": [], "A": []}

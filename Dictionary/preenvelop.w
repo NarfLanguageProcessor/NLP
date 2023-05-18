@@ -1,0 +1,1 @@
+{"index": 247323, "D": "to wrap up in or as in a covering", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114463, "D": "the practice of chewing food until it is reduced to a finely divided, liquefied mass", "S": ["bite ", "chewing ", "deglutition "], "A": []}

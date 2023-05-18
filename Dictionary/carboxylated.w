@@ -1,0 +1,1 @@
+{"index": 47575, "D": "to introduce the carboxyl group  into (an organic compound).", "S": [], "A": []}

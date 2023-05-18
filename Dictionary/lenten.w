@@ -1,0 +1,1 @@
+{"index": 170474, "D": "of, relating to, or suitable for Lent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311749, "D": "equal in value, measure, force, effect, significance, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 369942, "D": "the aggregate of animal or animallike organisms in plankton,  as protozoans.", "S": [], "A": []}

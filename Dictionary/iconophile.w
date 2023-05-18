@@ -1,0 +1,1 @@
+{"index": 146228, "D": "a connoisseur of icons or images.", "S": [], "A": []}

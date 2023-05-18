@@ -1,0 +1,1 @@
+{"index": 117096, "D": "full of or having forethought;  provident.", "S": [], "A": []}

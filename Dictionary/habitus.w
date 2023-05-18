@@ -1,0 +1,1 @@
+{"index": 131816, "D": "the physical characteristics of a person, especially appearance and constitution as related to disease.", "S": ["body ", "build ", "conformation ", "figure ", "frame ", "habit ", "physique ", "shape "], "A": ["mind "]}

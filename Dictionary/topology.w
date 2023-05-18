@@ -1,0 +1,1 @@
+{"index": 325950, "D": "the study of those properties of geometric forms that remain invariant under certain transformations, as bending or stretching.", "S": ["earth science ", "geology ", "geopolitics ", "topography "], "A": []}

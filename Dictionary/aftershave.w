@@ -1,0 +1,1 @@
+{"index": 5751, "D": "a scented, astringent lotion for applying to the face after shaving.", "S": [], "A": []}

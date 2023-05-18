@@ -1,0 +1,1 @@
+{"index": 52032, "D": "a woman  who presides over a meeting, committee, department, etc.", "S": ["administrator ", "chairperson ", "director ", "leader ", "spokesman "], "A": []}

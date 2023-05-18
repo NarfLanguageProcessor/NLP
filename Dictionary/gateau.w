@@ -1,0 +1,1 @@
+{"index": 122719, "D": "a cake, especially a very light sponge cake with a rich icing or filling.", "S": [], "A": []}

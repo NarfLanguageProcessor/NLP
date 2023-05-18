@@ -1,0 +1,1 @@
+{"index": 157489, "D": "a combining form representing iodine  in compound words", "S": [], "A": []}

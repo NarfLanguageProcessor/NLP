@@ -1,0 +1,1 @@
+{"index": 165465, "D": "an unprincipled, untrustworthy, or dishonest person.", "S": ["bastard ", "blackguard ", "fraud ", "heel ", "lowlife ", "miscreant ", "rapscallion ", "reprobate ", "rogue ", "scallywag ", "scamp ", "scoundrel ", "swindler ", "villain "], "A": []}

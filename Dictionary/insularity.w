@@ -1,0 +1,1 @@
+{"index": 154058, "D": "the state or condition of being an island", "S": ["bias ", "bigotry ", "intolerance ", "prejudice "], "A": ["fairness ", "tolerance "]}

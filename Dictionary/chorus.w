@@ -1,0 +1,1 @@
+{"index": 55897, "D": "a part of a song that recurs at intervals, usually following each verse; refrain.", "S": ["choir ", "ensemble "], "A": []}

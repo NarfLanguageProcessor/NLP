@@ -1,0 +1,1 @@
+{"index": 83175, "D": "resolute; staunch", "S": ["clearly ", "distinctly ", "downright ", "positively ", "really ", "terribly ", "unmistakably "], "A": ["doubtfully "]}

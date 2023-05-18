@@ -1,0 +1,1 @@
+{"index": 552, "D": "(in some inflected languages) noting a case that has among its functions the indication of place from which or, as in Latin, place in which, manner, means, instrument, or agent.", "S": [], "A": []}

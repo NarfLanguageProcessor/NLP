@@ -1,0 +1,1 @@
+{"index": 317083, "D": "shaped like a bull or the head or horns of a bull.", "S": [], "A": []}

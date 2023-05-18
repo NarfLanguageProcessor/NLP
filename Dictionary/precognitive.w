@@ -1,0 +1,1 @@
+{"index": 246215, "D": "knowledge of a future event or situation, especially through extrasensory means.", "S": [], "A": []}

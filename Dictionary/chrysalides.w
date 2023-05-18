@@ -1,0 +1,1 @@
+{"index": 55990, "D": "the hard-shelled pupa of a moth or butterfly; an obtect pupa.", "S": ["advancement ", "evolution ", "expansion ", "improvement ", "increase ", "progress "], "A": ["decline ", "decrease ", "halt ", "retreat ", "retrogression ", "stoppage ", "lessening ", "reduction ", "shrinkage ", "stagnation ", "withdrawal "]}

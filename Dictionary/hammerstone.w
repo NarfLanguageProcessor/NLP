@@ -1,0 +1,1 @@
+{"index": 133019, "D": "an ancient stone tool used as a hammer, as for chipping flint, processing food, or breaking up bones.", "S": [], "A": []}

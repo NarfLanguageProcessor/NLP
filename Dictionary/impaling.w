@@ -1,0 +1,1 @@
+{"index": 148248, "D": "to fasten, stick, or fix upon a sharpened stake or the like.", "S": ["prick ", "transfix "], "A": ["close "]}

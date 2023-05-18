@@ -1,0 +1,1 @@
+{"index": 89565, "D": "absence or lack of symmetry. ", "S": [], "A": []}

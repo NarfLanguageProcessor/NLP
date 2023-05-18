@@ -1,0 +1,1 @@
+{"index": 167705, "D": "capable of being laminated. ", "S": [], "A": []}

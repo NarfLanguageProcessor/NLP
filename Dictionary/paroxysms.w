@@ -1,0 +1,1 @@
+{"index": 226802, "D": "any sudden, uncontrollable outburst; a fit of emotion or action", "S": ["convulsion ", "flare-up "], "A": ["calm ", "calmness ", "happiness ", "peace ", "peacefulness "]}

@@ -1,0 +1,1 @@
+{"index": 173788, "D": "surgery to remove one or more stones from an organ or duct.", "S": [], "A": []}

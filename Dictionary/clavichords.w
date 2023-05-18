@@ -1,0 +1,1 @@
+{"index": 59551, "D": "an early keyboard instrument producing a soft sound by means of metal blades attached to the inner ends of the keys gently striking the strings.", "S": ["grand piano ", "instrument ", "keyboard "], "A": []}

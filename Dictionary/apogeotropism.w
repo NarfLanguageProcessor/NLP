@@ -1,0 +1,1 @@
+{"index": 17211, "D": "growth or orientation away from the earth; negative geotropism. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236183, "D": "a coin or pattern struck on a blank thicker than that used for the regular issue.", "S": [], "A": []}

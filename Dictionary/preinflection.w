@@ -1,0 +1,1 @@
+{"index": 247971, "D": "modulation of the voice; change in pitch or tone of voice.", "S": [], "A": []}

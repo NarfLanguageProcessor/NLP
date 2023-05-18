@@ -1,0 +1,1 @@
+{"index": 31502, "D": "a person or thing that bends,  as a pair of pliers or a powered machine.", "S": ["spree ", "toot "], "A": []}

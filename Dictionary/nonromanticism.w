@@ -1,0 +1,1 @@
+{"index": 206920, "D": "romantic  spirit or tendency.", "S": [], "A": []}

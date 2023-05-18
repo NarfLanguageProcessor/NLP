@@ -1,0 +1,1 @@
+{"index": 296116, "D": "to make social;  make fit for life in companionship with others.", "S": ["entertain ", "get around ", "mingle "], "A": ["disagree ", "disassociate ", "disconnect ", "disjoin ", "dissociate ", "divide ", "separate ", "sever "]}

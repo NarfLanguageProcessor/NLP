@@ -1,0 +1,1 @@
+{"index": 181112, "D": "to come into perceptible existence; appear; become actual or real; be realized or carried out", "S": ["embodied ", "manifested ", "personified ", "substantiated ", "typified "], "A": []}

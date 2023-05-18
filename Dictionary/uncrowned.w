@@ -1,0 +1,1 @@
+{"index": 338236, "D": "not crowned; not having yet assumed the crown.", "S": ["demote ", "dethrone ", "dismiss ", "impeach ", "overthrow ", "unseat "], "A": ["allow ", "obey ", "promote ", "upgrade "]}

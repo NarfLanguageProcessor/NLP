@@ -1,0 +1,1 @@
+{"index": 214000, "D": "a person who delivers an oration;  a public speaker, especially one of great eloquence", "S": ["lecturer ", "preacher ", "public speaker "], "A": []}

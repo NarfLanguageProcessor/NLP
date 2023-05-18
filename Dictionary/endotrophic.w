@@ -1,0 +1,1 @@
+{"index": 100045, "D": "(of a mycorrhiza) growing inside the cells of the root.", "S": [], "A": []}

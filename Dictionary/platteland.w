@@ -1,0 +1,1 @@
+{"index": 239559, "D": "(in South Africa) the country districts or rural areas", "S": [], "A": []}

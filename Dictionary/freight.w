@@ -1,0 +1,1 @@
+{"index": 118701, "D": "goods, cargo, or lading transported for pay, whether by water, land, or air.", "S": ["carriage ", "consignment ", "merchandise ", "payload ", "shipment ", "shipping ", "transportation "], "A": ["benefit "]}

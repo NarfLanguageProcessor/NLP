@@ -1,0 +1,1 @@
+{"index": 142444, "D": "a day fixed by law or custom on which ordinary business is suspended in commemoration of some event or in honor of some person.", "S": ["anniversary ", "break ", "celebration ", "feast ", "festival ", "festivity ", "gala ", "layoff ", "recess ", "vacation "], "A": ["continuation "]}

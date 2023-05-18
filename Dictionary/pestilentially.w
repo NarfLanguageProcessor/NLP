@@ -1,0 +1,1 @@
+{"index": 232299, "D": "producing or tending to produce pestilence. ", "S": [], "A": []}

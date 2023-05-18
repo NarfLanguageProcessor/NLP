@@ -1,0 +1,1 @@
+{"index": 104946, "D": "a local-area network protocol featuring a bus topology and a 10 megabit per second data transfer rate.", "S": [], "A": []}

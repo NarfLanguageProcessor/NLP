@@ -1,0 +1,1 @@
+{"index": 220568, "D": "of great weight; heavy; massive.", "S": [], "A": []}

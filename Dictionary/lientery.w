@@ -1,0 +1,1 @@
+{"index": 171855, "D": "a form of diarrhea in which the food is discharged undigested or only partly digested.", "S": [], "A": []}

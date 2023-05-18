@@ -1,0 +1,1 @@
+{"index": 140271, "D": "a verse or line containing additional syllables after those proper to the meter.", "S": [], "A": []}

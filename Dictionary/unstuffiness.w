@@ -1,0 +1,1 @@
+{"index": 352213, "D": "close; poorly ventilated", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95939, "D": "the act of wiping out, erasing, or doing away with something", "S": [], "A": []}

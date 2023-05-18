@@ -1,0 +1,1 @@
+{"index": 107984, "D": "expostulating;  conveying expostulation.", "S": [], "A": []}

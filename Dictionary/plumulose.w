@@ -1,0 +1,1 @@
+{"index": 240501, "D": "shaped like a downy feather or plumule.", "S": [], "A": []}

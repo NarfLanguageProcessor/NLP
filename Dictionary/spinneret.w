@@ -1,0 +1,1 @@
+{"index": 299920, "D": "an organ or part by means of which a spider, insect larva, or the like spins a silky thread for its web or cocoon.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 264952, "D": "a dining hall in a religious house, a college, or other institution.", "S": ["amphitheater ", "arena ", "auditorium ", "ballroom ", "chamber ", "church ", "gallery ", "gym ", "gymnasium ", "lounge ", "theater "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196602, "D": "and his two brothers Louis  [lwee]  /lwi/  (\u201cthe Roman\u201d), 1593?\u20131648, and Ma\u00b7thieu  [ma-ty\u0153],  /ma\u02c8ty\u0153/,  1607\u201377, French painters.", "S": [], "A": []}

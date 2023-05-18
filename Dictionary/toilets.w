@@ -1,0 +1,1 @@
+{"index": 325148, "D": "a bathroom fixture consisting of a bowl, usually with a detachable, hinged seat and lid, and a device for flushing with water, used for defecation and urination.", "S": ["ablutions ", "attire ", "dressing ", "grooming ", "makeup ", "toilette "], "A": []}

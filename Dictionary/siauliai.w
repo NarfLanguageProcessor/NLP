@@ -1,0 +1,1 @@
+{"index": 289483, "D": "a city in N Lithuania, N of Kaunas.", "S": [], "A": []}

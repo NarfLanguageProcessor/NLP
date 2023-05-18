@@ -1,0 +1,1 @@
+{"index": 129040, "D": "a large, roundish, yellow-skinned, edible citrus fruit having a juicy, acid pulp.", "S": [], "A": []}

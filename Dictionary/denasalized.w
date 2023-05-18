@@ -1,0 +1,1 @@
+{"index": 80974, "D": "to diminish the nasal  resonance of (speech or a speech sound).", "S": [], "A": []}

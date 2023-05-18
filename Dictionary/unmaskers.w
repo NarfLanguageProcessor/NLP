@@ -1,0 +1,1 @@
+{"index": 346059, "D": "to strip a mask  or disguise from.", "S": [], "A": []}

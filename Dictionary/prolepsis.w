@@ -1,0 +1,1 @@
+{"index": 252078, "D": "the anticipation of possible objections in order to answer them in advance.", "S": ["misplacement ", "solecism "], "A": []}

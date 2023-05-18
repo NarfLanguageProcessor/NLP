@@ -1,0 +1,1 @@
+{"index": 264407, "D": "the setting right of what is wrong", "S": ["amends ", "atonement ", "indemnity ", "rectification ", "remedy ", "reparation ", "reprisal ", "restitution ", "retribution "], "A": ["penalty ", "sympathy ", "damage ", "destruction ", "hindrance ", "hurt ", "injury ", "worsening "]}

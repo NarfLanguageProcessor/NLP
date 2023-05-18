@@ -1,0 +1,1 @@
+{"index": 258047, "D": "the act of a person or thing that quarters.", "S": ["cleave ", "cut ", "dismember ", "fourth "], "A": ["join "]}

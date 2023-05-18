@@ -1,0 +1,1 @@
+{"index": 184553, "D": "the ability of some cells, esp protozoans, to alter their shape", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43139, "D": "the act or ceremony of burying. ", "S": ["funeral ", "interment "], "A": []}

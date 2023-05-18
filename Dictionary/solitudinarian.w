@@ -1,0 +1,1 @@
+{"index": 296821, "D": "a person who seeks solitude; recluse.", "S": [], "A": []}

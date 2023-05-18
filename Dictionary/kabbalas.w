@@ -1,0 +1,1 @@
+{"index": 162662, "D": "a system of esoteric theosophy and theurgy developed by rabbis, reaching its peak about the 12th and 13th centuries, and influencing certain medieval and Renaissance Christian thinkers. It was based on a mystical method of interpreting Scripture by which initiates claimed to penetrate sacred mysteries. Among its central doctrines are", "S": [], "A": []}

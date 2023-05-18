@@ -1,0 +1,1 @@
+{"index": 105817, "D": "centered on Europe and Europeans", "S": [], "A": []}

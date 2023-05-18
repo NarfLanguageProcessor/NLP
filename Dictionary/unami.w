@@ -1,0 +1,1 @@
+{"index": 334911, "D": "a member of a North American Indian people, one of the Delaware group.", "S": [], "A": []}

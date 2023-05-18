@@ -1,0 +1,1 @@
+{"index": 53398, "D": "an explosive for blasting, composed of a chlorate or perchlorate mixed with a fatty substance, as castor oil.", "S": [], "A": []}

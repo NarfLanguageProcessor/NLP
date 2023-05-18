@@ -1,0 +1,1 @@
+{"index": 114599, "D": "given to flights  of fancy; capricious; frivolous.", "S": [], "A": []}

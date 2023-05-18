@@ -1,0 +1,1 @@
+{"index": 276149, "D": "characterized by discontinuous or sporadic movement; jerky.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164965, "D": "a mixture of bark, dried leaves, and sometimes tobacco, formerly smoked by the Indians and pioneers in the Ohio valley.", "S": [], "A": []}

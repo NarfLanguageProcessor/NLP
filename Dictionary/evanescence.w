@@ -1,0 +1,1 @@
+{"index": 105970, "D": "the quality of being fleeting or vanishing quickly; impermanence", "S": ["disappearance ", "evaporation ", "vanishing "], "A": ["appearance "]}

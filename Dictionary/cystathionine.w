@@ -1,0 +1,1 @@
+{"index": 58437, "D": "an amino acid, C7H14O4N2S, that is an intermediate in the transfer of sulfur from methionine to cysteine.", "S": [], "A": []}

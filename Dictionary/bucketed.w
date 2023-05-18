@@ -1,0 +1,1 @@
+{"index": 42045, "D": "a deep, cylindrical vessel, usually of metal, plastic, or wood, with a flat bottom and a semicircular bail, for collecting, carrying, or holding water, sand, fruit, etc.; pail.", "S": ["bestow ", "bucket ", "deposit ", "drizzle ", "fall ", "hail ", "lavish ", "mist ", "patter ", "pour ", "shower ", "sleet ", "sprinkle ", "storm "], "A": []}

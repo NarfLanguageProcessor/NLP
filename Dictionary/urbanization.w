@@ -1,0 +1,1 @@
+{"index": 355396, "D": "the act or fact of urbanizing,  or taking on the characteristics of a city", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108513, "D": "outside the Milky Way system.", "S": [], "A": []}

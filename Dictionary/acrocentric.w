@@ -1,0 +1,1 @@
+{"index": 2889, "D": "Compare acentric (def. 2), metacentric (def. 2), telocentric. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334728, "D": "offered or made available; provided", "S": [], "A": []}

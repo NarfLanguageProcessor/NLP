@@ -1,0 +1,1 @@
+{"index": 112817, "D": "fimbriate or fringed condition.", "S": [], "A": []}

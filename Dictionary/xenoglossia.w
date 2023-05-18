@@ -1,0 +1,1 @@
+{"index": 368383, "D": "an ability claimed by some mediums, clairvoyants, etc, to speak a language with which they are unfamiliar", "S": [], "A": []}

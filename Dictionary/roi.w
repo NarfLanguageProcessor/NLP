@@ -1,0 +1,1 @@
+{"index": 273861, "D": "return on investment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 13695, "D": "the electrode or terminal by which current enters an electrolytic cell, voltaic cell, battery, etc.", "S": [], "A": []}

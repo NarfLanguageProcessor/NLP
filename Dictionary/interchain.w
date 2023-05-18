@@ -1,0 +1,1 @@
+{"index": 154601, "D": "a series of objects connected one after the other, usually in the form of a series of metal rings passing through one another, used either for various purposes requiring a flexible tie with high tensile strength, as for hauling, supporting, or confining, or in various ornamental and decorative forms.", "S": [], "A": []}

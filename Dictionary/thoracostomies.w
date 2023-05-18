@@ -1,0 +1,1 @@
+{"index": 322376, "D": "the construction of an artificial opening through the chest wall, usually for the drainage of fluid or the release of an abnormal accumulation of air.", "S": [], "A": []}

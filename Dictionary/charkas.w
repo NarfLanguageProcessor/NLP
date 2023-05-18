@@ -1,0 +1,1 @@
+{"index": 52862, "D": "(in India and the East Indies) a cotton gin or spinning wheel.", "S": [], "A": []}

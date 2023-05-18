@@ -1,0 +1,1 @@
+{"index": 248202, "D": "a nonhistorical or unverifiable story handed down by tradition from earlier times and popularly accepted as historical.", "S": [], "A": []}

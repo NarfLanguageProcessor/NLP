@@ -1,0 +1,1 @@
+{"index": 911, "D": "(in plane Cartesian coordinates) the x-coordinate of a point", "S": [], "A": []}

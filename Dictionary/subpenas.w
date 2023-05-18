@@ -1,0 +1,1 @@
+{"index": 308796, "D": "the usual writ for the summoning of witnesses or the submission of evidence, as records or documents, before a court or other deliberative body.", "S": [], "A": []}

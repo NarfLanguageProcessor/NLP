@@ -1,0 +1,1 @@
+{"index": 74274, "D": "to press or squeeze with a force that destroys or deforms.", "S": ["altercation ", "bickering ", "brawl ", "clash ", "controversy ", "debate ", "disagreement ", "dispute ", "exchange ", "feud ", "quarrel ", "squabble "], "A": ["agreement ", "harmony ", "peace ", "calm "]}

@@ -1,0 +1,1 @@
+{"index": 210642, "D": "a particular time, especially as marked by certain circumstances or occurrences", "S": ["incident ", "moment ", "opening ", "opportunity ", "possibility ", "time "], "A": ["misfortune "]}

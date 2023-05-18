@@ -1,0 +1,1 @@
+{"index": 291109, "D": "the simultaneous use of anaphora and epistrophe.", "S": [], "A": []}

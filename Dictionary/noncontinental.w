@@ -1,0 +1,1 @@
+{"index": 202442, "D": "of or of the nature of a continent. ", "S": [], "A": []}

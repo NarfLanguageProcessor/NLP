@@ -1,0 +1,1 @@
+{"index": 35498, "D": "any of the minute, black gnats of the dipterous family Simuliidae, having aquatic larvae.", "S": [], "A": []}

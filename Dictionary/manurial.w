@@ -1,0 +1,1 @@
+{"index": 179684, "D": "excrement, especially of animals, or other refuse used as fertilizer.", "S": [], "A": []}

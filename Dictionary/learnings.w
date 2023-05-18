@@ -1,0 +1,1 @@
+{"index": 169668, "D": "the act or process of acquiring knowledge or skill", "S": ["culture ", "information ", "literature ", "research ", "schooling ", "science ", "study ", "training "], "A": ["ignorance "]}

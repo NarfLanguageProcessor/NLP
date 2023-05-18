@@ -1,0 +1,1 @@
+{"index": 78512, "D": "sloping downward.", "S": ["pitched ", "tilted "], "A": ["level ", "straight "]}

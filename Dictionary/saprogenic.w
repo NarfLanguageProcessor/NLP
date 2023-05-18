@@ -1,0 +1,1 @@
+{"index": 278220, "D": "producing putrefaction or decay, as certain bacteria.", "S": [], "A": []}

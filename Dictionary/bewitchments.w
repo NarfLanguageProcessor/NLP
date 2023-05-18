@@ -1,0 +1,1 @@
+{"index": 32996, "D": "to affect by witchcraft or magic; cast a spell over.", "S": ["allure ", "beauty ", "charisma ", "charm ", "color ", "prestige "], "A": ["boredom ", "disinterest ", "repulsion "]}

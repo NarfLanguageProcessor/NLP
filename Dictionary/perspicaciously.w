@@ -1,0 +1,1 @@
+{"index": 232022, "D": "having keen mental perception and understanding; discerning", "S": ["brilliantly ", "judiciously ", "logically ", "prudently ", "rationally ", "reasonably ", "sensibly ", "shrewdly ", "skillfully ", "wisely "], "A": ["badly ", "foolishly ", "stupidly ", "unintelligently "]}

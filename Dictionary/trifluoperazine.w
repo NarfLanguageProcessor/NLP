@@ -1,0 +1,1 @@
+{"index": 329751, "D": "a compound, C21H24F3N3S, used as an antipsychotic.", "S": [], "A": []}

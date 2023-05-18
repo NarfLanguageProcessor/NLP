@@ -1,0 +1,1 @@
+{"index": 235348, "D": "the oxidation of carbohydrates in many higher plants in which they get oxygen from light and then release carbon dioxide, somewhat different from photosynthesis.", "S": [], "A": []}

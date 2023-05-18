@@ -1,0 +1,1 @@
+{"index": 113472, "D": "a fight  using bare fists. ", "S": ["brawl ", "fisticuffs ", "run-in ", "scuffle ", "skirmish ", "slugfest ", "tussle "], "A": ["agreement ", "peace "]}

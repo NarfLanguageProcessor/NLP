@@ -1,0 +1,1 @@
+{"index": 246994, "D": "a calamitous event, especially one occurring suddenly and causing great loss of life, damage, or hardship, as a flood, airplane crash, or business failure.", "S": [], "A": []}

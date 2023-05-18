@@ -1,0 +1,1 @@
+{"index": 84721, "D": "a compound, C20H29N3O2, used as a local and spinal anesthetic.", "S": [], "A": []}

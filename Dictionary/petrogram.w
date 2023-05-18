@@ -1,0 +1,1 @@
+{"index": 232503, "D": "a drawing or painting on rock, especially one made by a member of a prehistoric people.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 274481, "D": "any of several large, colorful parakeets of the genus Platycercus, of Australia.", "S": [], "A": []}

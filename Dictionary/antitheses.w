@@ -1,0 +1,1 @@
+{"index": 16321, "D": "opposition; contrast", "S": ["antipode ", "contra ", "contradictory ", "contrary ", "contrast ", "converse ", "counter ", "inverse ", "reverse "], "A": ["same ", "similarity "]}

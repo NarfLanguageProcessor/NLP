@@ -1,0 +1,1 @@
+{"index": 218526, "D": "overspread or covered with clouds; cloudy", "S": ["darkness ", "fog ", "gloom ", "mist ", "puff ", "smog ", "smoke ", "steam ", "vapor ", "veil "], "A": ["brightness ", "cognizance ", "light ", "understanding "]}

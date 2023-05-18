@@ -1,0 +1,1 @@
+{"index": 223075, "D": "a bank check  given as salary or wages.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225488, "D": "a white, crystalline, volatile, water-insoluble solid, C6H4Cl2, of the benzene series,  having a penetrating odor", "S": [], "A": []}

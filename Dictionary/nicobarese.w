@@ -1,0 +1,1 @@
+{"index": 199669, "D": "a member of a people or group of peoples inhabiting the Nicobar Islands.", "S": [], "A": []}

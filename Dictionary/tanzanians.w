@@ -1,0 +1,1 @@
+{"index": 316268, "D": "a republic in eastern Africa formed in 1964 by the merger of the republic of Tanganyika and the former island sultanate of Zanzibar (including Pemba and adjacent small islands). 364,881 sq. mi. (945,037 sq. km). Capital", "S": [], "A": []}

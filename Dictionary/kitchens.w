@@ -1,0 +1,1 @@
+{"index": 165180, "D": "a room or place equipped for cooking.", "S": ["gallery "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 51043, "D": "the protoplasm around a centrosome; the central portion of an aster, containing the centrosome.", "S": [], "A": []}

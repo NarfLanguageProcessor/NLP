@@ -1,0 +1,1 @@
+{"index": 174501, "D": "a person who lives in rented quarters in another's house; roomer.", "S": ["boarder ", "lessee ", "renter ", "resident ", "roomer ", "tenant "], "A": ["landlord "]}

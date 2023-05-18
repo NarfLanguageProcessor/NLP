@@ -1,0 +1,1 @@
+{"index": 249352, "D": "a style of production in which the audience is addressed directly with songs, skits, exposition, etc., and no attempt is made at realism.", "S": [], "A": []}

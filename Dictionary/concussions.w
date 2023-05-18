@@ -1,0 +1,1 @@
+{"index": 65513, "D": "injury to the brain or spinal cord due to jarring from a blow, fall, or the like.", "S": ["bump ", "injury ", "shock ", "trauma "], "A": ["help "]}

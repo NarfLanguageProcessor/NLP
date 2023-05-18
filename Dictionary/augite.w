@@ -1,0 +1,1 @@
+{"index": 23369, "D": "a silicate mineral, chiefly of calcium, magnesium, iron, and aluminum", "S": [], "A": []}

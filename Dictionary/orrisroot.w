@@ -1,0 +1,1 @@
+{"index": 214912, "D": "the rootstock of the orris,  used in perfumery, medicine, etc.", "S": [], "A": []}

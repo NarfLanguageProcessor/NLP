@@ -1,0 +1,1 @@
+{"index": 74219, "D": "to crush with the teeth; chew with a crushing noise.", "S": ["crisis ", "difficulty ", "trouble "], "A": ["calm ", "contentment ", "peace "]}

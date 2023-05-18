@@ -1,0 +1,1 @@
+{"index": 359254, "D": "the Eucharist or Communion as given to a person dying or in danger of death.", "S": ["last rites ", "sacrament of the sick ", "the holy oil of the sick ", "the unction of God "], "A": []}

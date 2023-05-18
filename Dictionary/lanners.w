@@ -1,0 +1,1 @@
+{"index": 168189, "D": "a falcon, Falco biarmicus, of southern Europe, northern Africa, and southern Asia.", "S": [], "A": []}

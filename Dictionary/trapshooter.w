@@ -1,0 +1,1 @@
+{"index": 328507, "D": "the sport of shooting at clay pigeons hurled into the air from a trap.", "S": [], "A": []}

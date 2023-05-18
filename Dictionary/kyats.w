@@ -1,0 +1,1 @@
+{"index": 164378, "D": "a paper money, cupronickel coin, and monetary unit of Myanmar (Burma), equal to 100 pyas.", "S": [], "A": []}

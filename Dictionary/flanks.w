@@ -1,0 +1,1 @@
+{"index": 113945, "D": "the side of an animal or a person between the ribs and hip.", "S": ["ham ", "hand ", "hip ", "loin ", "quarter ", "side ", "thigh ", "wing "], "A": []}

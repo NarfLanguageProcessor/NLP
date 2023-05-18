@@ -1,0 +1,1 @@
+{"index": 267759, "D": "a white or yellow compact variety of talc, used for ornaments", "S": [], "A": []}

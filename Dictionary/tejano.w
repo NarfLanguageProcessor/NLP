@@ -1,0 +1,1 @@
+{"index": 317935, "D": "a Texas native or resident of Mexican or Mexican American birth or descent", "S": [], "A": []}

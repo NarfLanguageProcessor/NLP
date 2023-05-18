@@ -1,0 +1,1 @@
+{"index": 108735, "D": "the act of freeing a trapped or entangled person or thing", "S": ["emancipation ", "salvation "], "A": ["hold "]}

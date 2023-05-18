@@ -1,0 +1,1 @@
+{"index": 72695, "D": "(especially of the skin) having a wrinkled surface", "S": [], "A": []}

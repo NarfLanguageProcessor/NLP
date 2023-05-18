@@ -1,0 +1,1 @@
+{"index": 266100, "D": "to supply or brighten with light; light up.", "S": [], "A": []}

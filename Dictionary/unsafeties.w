@@ -1,0 +1,1 @@
+{"index": 350225, "D": "unsafe state or condition; exposure to danger or risk; insecurity.", "S": [], "A": []}

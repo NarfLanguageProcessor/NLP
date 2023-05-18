@@ -1,0 +1,1 @@
+{"index": 157561, "D": "an alkaloid, C21H26N2O3, extracted from the bark of Corynanthe johimbe or Rauwolfia serpentina, used as a selective alpha-adrenergic receptor antagonist", "S": [], "A": []}

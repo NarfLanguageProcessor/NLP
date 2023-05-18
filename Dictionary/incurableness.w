@@ -1,0 +1,1 @@
+{"index": 150593, "D": "not curable; that cannot be cured, remedied, or corrected", "S": [], "A": []}

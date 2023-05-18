@@ -1,0 +1,1 @@
+{"index": 354259, "D": "to undo or loosen from or as if from a coiled condition", "S": ["crashed ", "dozing ", "dreaming ", "drowsing ", "lounging ", "napping ", "quiet ", "reclining ", "relaxing ", "reposing ", "sleeping ", "snoozing "], "A": ["active "]}

@@ -1,0 +1,1 @@
+{"index": 275448, "D": "the remains of a building, city, etc., that has been destroyed or that is in disrepair or a state of decay", "S": ["bad ", "destroying ", "destructive ", "detrimental ", "hurtful ", "injurious ", "mischievous ", "nocent ", "nocuous ", "pernicious ", "prejudicial ", "prejudicious ", "ruinous "], "A": ["aiding ", "assisting ", "helpful "]}

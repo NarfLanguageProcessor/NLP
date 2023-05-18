@@ -1,0 +1,1 @@
+{"index": 246579, "D": "advice; opinion or instruction given in directing the judgment or conduct of another.", "S": [], "A": []}

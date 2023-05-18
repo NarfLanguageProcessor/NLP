@@ -1,0 +1,1 @@
+{"index": 306540, "D": "any nematode of the family Strongylidae, parasitic as an adult in the intestine of mammals, especially horses.", "S": [], "A": []}

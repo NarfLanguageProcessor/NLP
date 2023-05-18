@@ -1,0 +1,1 @@
+{"index": 276777, "D": "aboat  having sails  as its principal means of propulsion.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309237, "D": "a monarch; a king, queen, or other supreme ruler.", "S": [], "A": []}

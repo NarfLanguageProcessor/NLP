@@ -1,0 +1,1 @@
+{"index": 44853, "D": "a plural of calx. ", "S": [], "A": []}

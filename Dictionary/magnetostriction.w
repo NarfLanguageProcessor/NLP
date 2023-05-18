@@ -1,0 +1,1 @@
+{"index": 177574, "D": "a change in dimensions exhibited by ferromagnetic materials when subjected to a magnetic field.", "S": [], "A": []}

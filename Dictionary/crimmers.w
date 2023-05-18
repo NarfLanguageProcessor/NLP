@@ -1,0 +1,1 @@
+{"index": 72990, "D": "a lambskin from the Crimean region, dressed as a fur, with wool in loose soft curls, usually whitish or pale gray.", "S": [], "A": []}

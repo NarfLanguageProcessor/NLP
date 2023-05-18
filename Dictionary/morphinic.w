@@ -1,0 +1,1 @@
+{"index": 193575, "D": "a white, bitter, crystalline alkaloid, C17H19NO3\u22c5H2O, the most important narcotic and addictive principle of opium, obtained by extraction and crystallization and used chiefly in medicine as a pain reliever and sedative.", "S": [], "A": []}

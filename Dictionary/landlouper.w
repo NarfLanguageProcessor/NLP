@@ -1,0 +1,1 @@
+{"index": 167979, "D": "a wanderer, vagrant, or adventurer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 190342, "D": "to translate  incorrectly.", "S": ["distort ", "exaggerate ", "misinterpret ", "misread ", "misunderstand ", "pervert "], "A": ["comprehend ", "understand "]}

@@ -1,0 +1,1 @@
+{"index": 261718, "D": "objects, as coins, tools, etc., used by a teacher to illustrate everyday living.", "S": [], "A": []}

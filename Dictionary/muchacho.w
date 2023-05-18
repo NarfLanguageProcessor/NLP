@@ -1,0 +1,1 @@
+{"index": 194512, "D": "a boy or young man (often used as a form of address)", "S": [], "A": []}

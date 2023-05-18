@@ -1,0 +1,1 @@
+{"index": 220697, "D": "to draw out or lengthen, especially in time; extend the duration of; prolong.", "S": [], "A": []}

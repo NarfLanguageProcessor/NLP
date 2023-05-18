@@ -1,0 +1,1 @@
+{"index": 163098, "D": "of, relating to, or resembling the philosophy of Kant. ", "S": [], "A": []}

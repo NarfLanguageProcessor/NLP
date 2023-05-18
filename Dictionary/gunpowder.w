@@ -1,0 +1,1 @@
+{"index": 131417, "D": "an explosive mixture, as of potassium nitrate, sulfur, and charcoal, used in shells and cartridges, in fireworks, for blasting, etc.", "S": ["ammo ", "armament ", "bomb ", "bullet ", "cartridge ", "chemical ", "explosive ", "materiel ", "missile ", "munition ", "napalm ", "rocket ", "shrapnel ", "torpedo "], "A": []}

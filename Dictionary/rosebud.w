@@ -1,0 +1,1 @@
+{"index": 274463, "D": "the bud  of a rose. ", "S": [], "A": []}

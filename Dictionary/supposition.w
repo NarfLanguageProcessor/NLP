@@ -1,0 +1,1 @@
+{"index": 313053, "D": "the act of supposing. ", "S": ["conjecture ", "guesswork ", "hunch ", "hypothesis ", "presumption ", "thesis "], "A": ["fact ", "proof ", "reality ", "truth ", "certainty ", "information ", "knowledge ", "trust "]}

@@ -1,0 +1,1 @@
+{"index": 33466, "D": "having two horns or hornlike parts.", "S": [], "A": []}

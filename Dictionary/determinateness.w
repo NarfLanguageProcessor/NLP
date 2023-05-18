@@ -1,0 +1,1 @@
+{"index": 83165, "D": "having defined limits; definite.", "S": [], "A": []}

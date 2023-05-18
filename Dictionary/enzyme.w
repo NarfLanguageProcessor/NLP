@@ -1,0 +1,1 @@
+{"index": 101904, "D": "any of various proteins, as pepsin, originating from living cells and capable of producing certain chemical changes in organic substances by catalytic action, as in digestion.", "S": ["impetus ", "incentive ", "motivation ", "stimulant "], "A": ["block ", "hindrance "]}

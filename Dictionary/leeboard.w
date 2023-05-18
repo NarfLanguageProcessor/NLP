@@ -1,0 +1,1 @@
+{"index": 169912, "D": "either of two broad, flat objects attached to the sides of a sailing ship amidships, the one on the lee  side being lowered into the water to prevent the ship from making leeway.", "S": [], "A": []}

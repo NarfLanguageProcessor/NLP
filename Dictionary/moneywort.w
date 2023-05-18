@@ -1,0 +1,1 @@
+{"index": 191860, "D": "a creeping plant, Lysimachia nummularia, of the primrose family, having roundish leaves and solitary yellow flowers.", "S": [], "A": []}

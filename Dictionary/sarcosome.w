@@ -1,0 +1,1 @@
+{"index": 278422, "D": "a mitochondrion occurring in a muscle fiber.", "S": [], "A": []}

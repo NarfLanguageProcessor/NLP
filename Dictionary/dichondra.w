@@ -1,0 +1,1 @@
+{"index": 84801, "D": "any of several prostrate, creeping, tropical vines belonging to the genus Dichondra, of the morning glory family, especially D. micrantha, often used as a grass substitute for lawns.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191713, "D": "being or relating to a monad", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35057, "D": "in the name of Allah.", "S": [], "A": []}

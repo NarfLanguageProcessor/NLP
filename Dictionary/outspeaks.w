@@ -1,0 +1,1 @@
+{"index": 217540, "D": "to outdo or excel in speaking. ", "S": [], "A": []}

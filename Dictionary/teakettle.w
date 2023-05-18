@@ -1,0 +1,1 @@
+{"index": 317468, "D": "a portable kettle  with a cover, spout, and handle, used for boiling water.", "S": ["boiler ", "cauldron ", "pot ", "steamer "], "A": []}

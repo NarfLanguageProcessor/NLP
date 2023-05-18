@@ -1,0 +1,1 @@
+{"index": 103467, "D": "capable of being eradicated. ", "S": [], "A": []}

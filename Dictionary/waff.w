@@ -1,0 +1,1 @@
+{"index": 361783, "D": "a puff or blast of air, wind, etc.", "S": [], "A": []}

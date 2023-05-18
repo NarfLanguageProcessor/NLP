@@ -1,0 +1,1 @@
+{"index": 296899, "D": "the substance dissolved in a given solution. ", "S": [], "A": []}

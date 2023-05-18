@@ -1,0 +1,1 @@
+{"index": 185855, "D": "a substance or preparation that prevents or inhibits the growth of molds.", "S": [], "A": []}

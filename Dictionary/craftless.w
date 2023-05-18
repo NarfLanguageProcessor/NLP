@@ -1,0 +1,1 @@
+{"index": 71901, "D": "an art, trade, or occupation requiring special skill, especially manual skill", "S": [], "A": []}

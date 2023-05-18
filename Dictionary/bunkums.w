@@ -1,0 +1,1 @@
+{"index": 42904, "D": "insincere speechmaking by a politician intended merely to please local constituents.", "S": ["balderdash ", "baloney ", "bilge ", "claptrap ", "crap ", "hogwash ", "rubbish ", "trash "], "A": ["sense ", "truth "]}

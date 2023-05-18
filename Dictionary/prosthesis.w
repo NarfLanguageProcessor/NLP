@@ -1,0 +1,1 @@
+{"index": 253272, "D": "a device, either external or implanted, that substitutes for or supplements a missing or defective part of the body.", "S": ["artificial arm ", "artificial leg ", "fake limb ", "pegleg ", "wooden leg "], "A": []}

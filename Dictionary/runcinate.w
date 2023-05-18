@@ -1,0 +1,1 @@
+{"index": 275627, "D": "(of a leaf) pinnately incised, with the lobes or teeth curved backward.", "S": [], "A": []}

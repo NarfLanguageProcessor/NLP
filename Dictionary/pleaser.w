@@ -1,0 +1,1 @@
+{"index": 239628, "D": "a person or thing that is pleasing or appealing, often to a specified group", "S": [], "A": []}

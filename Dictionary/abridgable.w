@@ -1,0 +1,1 @@
+{"index": 838, "D": "to shorten by omissions while retaining the basic contents", "S": [], "A": []}

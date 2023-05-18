@@ -1,0 +1,1 @@
+{"index": 295619, "D": "characterized by or given to sniveling. ", "S": [], "A": []}

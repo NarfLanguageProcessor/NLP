@@ -1,0 +1,1 @@
+{"index": 114040, "D": "a disruptive discharge around or over the surface of a solid or liquid insulator.", "S": [], "A": []}

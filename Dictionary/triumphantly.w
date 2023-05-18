@@ -1,0 +1,1 @@
+{"index": 330788, "D": "in a way that symbolizes victory or success", "S": ["admirably ", "attractively ", "beautifully ", "finely ", "happily ", "perfectly ", "pleasantly "], "A": ["badly ", "incorrectly ", "mistakenly ", "unfortunately ", "unsuccessfully ", "wrongly "]}

@@ -1,0 +1,1 @@
+{"index": 206292, "D": "(in Britain and other parliamentary jurisdictions) the act of proroguing,  or discontinuing, a session of Parliament or other legislature", "S": [], "A": []}

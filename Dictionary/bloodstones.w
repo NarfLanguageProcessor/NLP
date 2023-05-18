@@ -1,0 +1,1 @@
+{"index": 36486, "D": "a greenish variety of chalcedony with small bloodlike spots of red jasper scattered through it.", "S": [], "A": []}

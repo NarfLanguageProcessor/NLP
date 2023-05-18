@@ -1,0 +1,1 @@
+{"index": 306548, "D": "a fortified defensive position; stronghold.", "S": ["ability ", "ableness ", "aptitude ", "competence ", "eminency ", "faculty ", "gift ", "long suit ", "medium ", "metier ", "m\u00e9tier ", "oyster ", "speciality ", "specialty ", "strength ", "strong suit ", "talent ", "thing "], "A": []}

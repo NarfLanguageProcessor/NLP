@@ -1,0 +1,1 @@
+{"index": 232617, "D": "(of cardinals whom the pope appoints but does not disclose in consistory) not disclosed.", "S": [], "A": []}

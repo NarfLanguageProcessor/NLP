@@ -1,0 +1,1 @@
+{"index": 298630, "D": "any of various water lilies of the genus Nuphar, having globular yellow flowers and growing in lakes or sluggish streams, especially N. advena, of the eastern U.S.", "S": [], "A": []}

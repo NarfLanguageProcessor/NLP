@@ -1,0 +1,1 @@
+{"index": 244580, "D": "one of the four processes of a vertebra, occurring in pairs that interlock each vertebra with the vertebrae above and below.", "S": [], "A": []}

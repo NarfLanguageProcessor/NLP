@@ -1,0 +1,1 @@
+{"index": 324168, "D": "to cast  (a performer) in a role that requires characteristics of physique, manner, personality, etc., similar to those possessed by the performer.", "S": ["allocation ", "allotment ", "analysis ", "arrangement ", "coordination ", "designation ", "distribution ", "grade ", "regulation "], "A": ["disorganization ", "keeping ", "retention "]}

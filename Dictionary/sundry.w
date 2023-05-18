@@ -1,0 +1,1 @@
+{"index": 311105, "D": "various or diverse", "S": ["assorted ", "various "], "A": ["same "]}

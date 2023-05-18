@@ -1,0 +1,1 @@
+{"index": 295312, "D": "apt to snap  or bite, as a dog.", "S": ["angry ", "cantankerous ", "crabby ", "cranky ", "curt ", "irritable ", "touchy "], "A": ["good-natured "]}

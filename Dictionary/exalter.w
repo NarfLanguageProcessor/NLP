@@ -1,0 +1,1 @@
+{"index": 106439, "D": "to raise in rank, honor, power, character, quality, etc.; elevate", "S": [], "A": []}

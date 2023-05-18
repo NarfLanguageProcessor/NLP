@@ -1,0 +1,1 @@
+{"index": 58187, "D": "another name for nutation (def. 3)", "S": [], "A": []}

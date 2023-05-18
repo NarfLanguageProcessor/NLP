@@ -1,0 +1,1 @@
+{"index": 322248, "D": "filled with or having many thistles. ", "S": ["barbed ", "briery ", "bristling ", "bristly ", "echinate ", "prickly ", "pricky ", "spiked ", "spiky ", "spinous ", "spiny ", "stinging "], "A": []}

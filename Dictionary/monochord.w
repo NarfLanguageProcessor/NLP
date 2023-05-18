@@ -1,0 +1,1 @@
+{"index": 192149, "D": "an acoustical instrument dating from antiquity, consisting of an oblong wooden sounding box, usually with a single string, used for the mathematical determination of musical intervals.", "S": [], "A": []}

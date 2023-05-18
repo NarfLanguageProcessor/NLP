@@ -1,0 +1,1 @@
+{"index": 267120, "D": "the magnetic flux that remains  in a magnetic circuit after an applied magnetomotive force has been removed.", "S": [], "A": []}

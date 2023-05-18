@@ -1,0 +1,1 @@
+{"index": 368359, "D": "a crystal that forms in metamorphic rock and gets its outline from neighboring crystals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89812, "D": "(of a woman) having an air of distinction; distinguished.", "S": [], "A": []}

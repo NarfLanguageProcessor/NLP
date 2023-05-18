@@ -1,0 +1,1 @@
+{"index": 169352, "D": "the practice of law; the duties, functions, or skills of a lawyer. ", "S": [], "A": []}

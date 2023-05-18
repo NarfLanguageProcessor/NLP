@@ -1,0 +1,1 @@
+{"index": 116706, "D": "(in a blast furnace or cupola) a reservoir for iron or slag, accessible through a door at hearth  level.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208474, "D": "former name of the Nuu-chah-nulth. ", "S": [], "A": []}

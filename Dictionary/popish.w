@@ -1,0 +1,1 @@
+{"index": 243231, "D": "of, relating to, or characteristic of the Roman Catholic Church.", "S": ["pontiff "], "A": []}

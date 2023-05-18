@@ -1,0 +1,1 @@
+{"index": 91076, "D": [], "S": ["boredom ", "despair ", "desperation ", "despondency ", "ennui ", "gloom ", "grief ", "sorrow ", "wistfulness "], "A": ["cheer ", "confidence ", "excitement ", "happiness ", "joy ", "advantage ", "benefit ", "blessing ", "boon ", "gladness ", "joyousness "]}

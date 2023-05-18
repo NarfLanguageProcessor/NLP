@@ -1,0 +1,1 @@
+{"index": 101764, "D": "to utter or pronounce (words, sentences, etc.), especially in an articulate or a particular manner", "S": [], "A": []}

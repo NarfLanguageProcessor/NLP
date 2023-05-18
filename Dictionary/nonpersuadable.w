@@ -1,0 +1,1 @@
+{"index": 205913, "D": "to prevail on (a person) to do something, as by advising or urging", "S": [], "A": []}

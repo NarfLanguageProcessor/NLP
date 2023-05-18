@@ -1,0 +1,1 @@
+{"index": 90848, "D": "the berry  or fruit of any of various plants, as the European dogwood, Cornus sanguinea, the chokeberry, Aronia arbutifolia, or the mountain ash, Sorbus americana.", "S": [], "A": []}

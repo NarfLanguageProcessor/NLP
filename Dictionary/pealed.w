@@ -1,0 +1,1 @@
+{"index": 228424, "D": "a loud, prolonged ringing of bells.", "S": ["bell ", "bong ", "crack ", "crash ", "knell ", "resonate ", "resound ", "reverberate ", "ring ", "roar ", "roll ", "rumble ", "sound ", "strike ", "thunder ", "tintinnabulate ", "toll "], "A": []}

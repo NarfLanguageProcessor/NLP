@@ -1,0 +1,1 @@
+{"index": 220123, "D": "the state or quality of being loyal;  faithfulness to commitments or obligations.", "S": [], "A": []}

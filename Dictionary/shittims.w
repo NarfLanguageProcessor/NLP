@@ -1,0 +1,1 @@
+{"index": 288559, "D": "the wood, probably acacia, of which the ark of the covenant  and various parts of the tabernacle were made. Exodus 25, 26.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78862, "D": "a process of becoming or condition of being crossed in the form of an X.", "S": ["bridge ", "crossroad ", "intersection ", "junction ", "overpass ", "passage "], "A": []}

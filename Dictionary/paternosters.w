@@ -1,0 +1,1 @@
+{"index": 227672, "D": "the Lord's Prayer, especially in the Latin form.", "S": ["abracadabra ", "abraxas ", "access ", "key ", "keyword ", "magic formula ", "opener ", "password ", "secret sign ", "watchword "], "A": []}

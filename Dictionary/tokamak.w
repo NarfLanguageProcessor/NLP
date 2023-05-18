@@ -1,0 +1,1 @@
+{"index": 325199, "D": "a type of experimental nuclear fusion reactor in which a plasma of atoms circulates in a toroidal tube and is confined to a narrow beam by an electromagnetic field.", "S": [], "A": []}

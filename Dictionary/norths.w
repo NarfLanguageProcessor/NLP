@@ -1,0 +1,1 @@
+{"index": 208645, "D": "a cardinal point of the compass, lying in the plane of the meridian and to the left of a person facing the rising sun. Abbreviation", "S": ["northward "], "A": []}

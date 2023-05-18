@@ -1,0 +1,1 @@
+{"index": 350550, "D": "to draw or loosen a screw  from (a hinge, bracket, etc.).", "S": ["baffled ", "befuddled ", "bewildered ", "dazed ", "disorganized ", "distracted ", "muddled ", "perplexed ", "perturbed ", "puzzled "], "A": ["clear ", "composed "]}

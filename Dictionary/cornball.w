@@ -1,0 +1,1 @@
+{"index": 69221, "D": "popcorn rolled into a ball and flavored with molasses or caramel.", "S": ["bland ", "corny ", "dumb ", "hackneyed ", "mundane ", "stupid ", "trite ", "vapid "], "A": ["intelligent ", "new ", "original ", "sharp ", "smart ", "uncommon "]}

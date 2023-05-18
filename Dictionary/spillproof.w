@@ -1,0 +1,1 @@
+{"index": 299817, "D": "(of a container) designed to prevent spilling. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361090, "D": "a vent in the earth's crust through which lava, steam, ashes, etc., are expelled, either continuously or at irregular intervals.", "S": ["alp ", "bluff ", "butte ", "cliff ", "crag ", "elevation ", "eminence ", "height ", "mesa ", "mount ", "palisade ", "peak ", "pike ", "precipice ", "range ", "ridge ", "sierra ", "tor "], "A": ["depression "]}

@@ -1,0 +1,1 @@
+{"index": 323241, "D": "to touch or stroke lightly with the fingers, a feather, etc., so as to excite a tingling or itching sensation in; titillate.", "S": ["amuse ", "delight ", "enchant ", "excite ", "gratify ", "pat ", "please ", "thrill ", "titillate "], "A": ["anger ", "annoy ", "bore ", "depress ", "disappoint ", "disenchant ", "disturb ", "pain ", "repulse ", "upset "]}

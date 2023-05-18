@@ -1,0 +1,1 @@
+{"index": 3352, "D": "keen insight; shrewdness", "S": ["acicular ", "aciculate ", "acuminate ", "cuspate ", "cuspidate ", "knifelike ", "needle-shaped ", "peaked ", "piked ", "pointed ", "sharpened ", "spiked "], "A": ["blunt ", "dense ", "dull ", "imperceptive ", "insensitive ", "not serious ", "obtuse ", "slow ", "stupid ", "unimportant "]}

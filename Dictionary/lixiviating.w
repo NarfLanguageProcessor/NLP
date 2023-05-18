@@ -1,0 +1,1 @@
+{"index": 174026, "D": "to treat with a solvent; leach.", "S": ["extract ", "filter ", "filtrate ", "percolate ", "seep ", "strain "], "A": []}

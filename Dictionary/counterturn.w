@@ -1,0 +1,1 @@
+{"index": 71173, "D": "a turn  in an opposing or contrary direction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 85681, "D": "a phenomenon caused by the nature of the stacking or fitting together of particles or granules in a heterogeneous system, such as the solidification of certain sols under pressure, and the thixotropy of certain gels", "S": [], "A": []}

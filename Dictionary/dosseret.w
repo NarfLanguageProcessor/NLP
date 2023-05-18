@@ -1,0 +1,1 @@
+{"index": 91861, "D": "a supplementary capital or thickened abacus, as in Byzantine architecture.", "S": [], "A": []}

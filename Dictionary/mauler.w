@@ -1,0 +1,1 @@
+{"index": 181412, "D": "a heavy hammer, as for driving stakes or wedges.", "S": [], "A": []}

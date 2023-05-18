@@ -1,0 +1,1 @@
+{"index": 46579, "D": "a professional female singer especially of opera.", "S": [], "A": []}

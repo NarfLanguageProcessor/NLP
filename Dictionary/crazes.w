@@ -1,0 +1,1 @@
+{"index": 72341, "D": "to derange or impair the mind of; make insane", "S": ["enthusiasm ", "fever ", "furor ", "mania ", "passion ", "rage ", "trend "], "A": []}

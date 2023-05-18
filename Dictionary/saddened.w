@@ -1,0 +1,1 @@
+{"index": 276447, "D": "to make or become sad. ", "S": ["disturbed ", "grieving ", "oppressed ", "persecuted ", "wronged "], "A": ["comforted "]}

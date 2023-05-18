@@ -1,0 +1,1 @@
+{"index": 34548, "D": "the study of the evolution of social forms and the development of social behavior in terms analogous to or correlated with biological studies.", "S": [], "A": []}

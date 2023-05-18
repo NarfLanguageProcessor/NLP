@@ -1,0 +1,1 @@
+{"index": 163387, "D": "an instrument used for the analysis of gases by measurement of thermal conductivity", "S": [], "A": []}

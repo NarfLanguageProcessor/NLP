@@ -1,0 +1,1 @@
+{"index": 228666, "D": "either of two muscles on each side of the upper and anterior part of the thorax, the action of the larger (pectoralis major ) assisting in drawing the shoulder forward and rotating the arm inward, and the action of the smaller (pectoralis minor ) assisting in drawing the shoulder downward and forward.", "S": [], "A": []}

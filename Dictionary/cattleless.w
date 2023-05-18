@@ -1,0 +1,1 @@
+{"index": 49880, "D": "bovine animals, especially domesticated members of the genus Bos.", "S": [], "A": []}

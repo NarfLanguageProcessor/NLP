@@ -1,0 +1,1 @@
+{"index": 69334, "D": "the formation of a horny layer of skin, or horny skin structures, as hair, nails, or scales, from squamous epithelial cells.", "S": [], "A": []}

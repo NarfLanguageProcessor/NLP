@@ -1,0 +1,1 @@
+{"index": 284302, "D": "of, relating to, or characteristic of heretics or heresy. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132765, "D": "a corridor or passageway in a building.", "S": ["entrance ", "foyer ", "gallery ", "hallway ", "lobby ", "room ", "rotunda "], "A": ["denial ", "refusal ", "veto "]}

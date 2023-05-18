@@ -1,0 +1,1 @@
+{"index": 313061, "D": "fraudulently substituted or pretended; spurious; not genuine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92776, "D": "a lowering of water surface level, as in a well.", "S": [], "A": []}

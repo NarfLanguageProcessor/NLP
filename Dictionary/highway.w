@@ -1,0 +1,1 @@
+{"index": 139310, "D": "a main road, especially one between towns or cities", "S": ["artery ", "avenue ", "boulevard ", "freeway ", "interstate ", "parking lot ", "path ", "roadway ", "street ", "superhighway ", "thoroughfare ", "track ", "turnpike "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291567, "D": "any adhesion of parts of the body, as of the iris to the cornea.", "S": [], "A": []}

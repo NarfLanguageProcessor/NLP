@@ -1,0 +1,1 @@
+{"index": 330251, "D": "a musical composition for three voices or instruments.", "S": ["leash ", "set of three ", "ternion ", "threesome ", "trey ", "triad ", "triangle ", "trilogy ", "trine ", "trinity ", "triplet ", "triplicate ", "triptych ", "triumvirate ", "triune ", "troika "], "A": []}

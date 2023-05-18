@@ -1,0 +1,1 @@
+{"index": 83145, "D": "the act or process of deteriorating. ", "S": ["decline ", "degradation ", "depreciation ", "devaluation ", "disintegration ", "dislocation ", "downturn ", "slump ", "worsening "], "A": ["increase ", "ascent ", "development ", "growth ", "improvement ", "rise ", "success ", "upgrade "]}

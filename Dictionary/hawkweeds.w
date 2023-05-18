@@ -1,0 +1,1 @@
+{"index": 134491, "D": "any composite plant of the genus Hieracium, usually bearing yellow flowers.", "S": [], "A": []}

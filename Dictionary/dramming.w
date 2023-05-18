@@ -1,0 +1,1 @@
+{"index": 92689, "D": "1/16 (0.0625) ounce, avoirdupois weight (27.34 grains; 1.77 grams). Abbreviation", "S": [], "A": []}

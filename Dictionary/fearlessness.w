@@ -1,0 +1,1 @@
+{"index": 110608, "D": "without fear; bold or brave; intrepid.", "S": ["boldness ", "bravery ", "fortitude ", "heroism ", "mettle ", "valor "], "A": ["cowardice ", "fear ", "timidity ", "weakness "]}

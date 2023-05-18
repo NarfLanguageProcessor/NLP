@@ -1,0 +1,1 @@
+{"index": 225642, "D": "a distinct portion of written or printed matter dealing with a particular idea, usually beginning with an indentation on a new line.", "S": [], "A": []}

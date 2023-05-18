@@ -1,0 +1,1 @@
+{"index": 48693, "D": "an old English unit of land-area measurement, varying from 60 to 160 acres.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69238, "D": "a contemptuous term used to refer to a member of a class of poor white people in the southern U.S.", "S": [], "A": []}

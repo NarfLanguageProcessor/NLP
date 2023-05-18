@@ -1,0 +1,1 @@
+{"index": 302261, "D": "an instrument for determining the distance between an observer and an object of known height by measurement of the angle subtended by the object.", "S": [], "A": []}

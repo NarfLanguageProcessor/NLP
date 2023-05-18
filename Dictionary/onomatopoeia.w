@@ -1,0 +1,1 @@
+{"index": 212886, "D": "the formation of a word, as cuckoo, meow, honk, or boom, by imitation of a sound made by or associated with its referent.", "S": ["imitation ", "parallel ", "reflection ", "repetition ", "reverberation "], "A": ["difference ", "opposite ", "reverse ", "question "]}

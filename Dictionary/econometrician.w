@@ -1,0 +1,1 @@
+{"index": 95372, "D": "the application of statistical and mathematical techniques in solving problems as well as in testing and demonstrating theories.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25863, "D": "to retard the forward motion by pressing backward on the pedal, especially of a bicycle with coaster brakes.", "S": ["fall back ", "retract "], "A": ["advance ", "meet ", "remain ", "stay "]}

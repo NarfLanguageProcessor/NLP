@@ -1,0 +1,1 @@
+{"index": 191031, "D": "very modern; up-to-date; being in the vanguard in style, dress, etc.", "S": ["fashionable ", "stylish "], "A": ["old-fashioned ", "unfashionable "]}

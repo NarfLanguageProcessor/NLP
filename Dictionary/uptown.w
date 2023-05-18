@@ -1,0 +1,1 @@
+{"index": 355181, "D": "to, toward, or in the upper part of a town  or city", "S": ["chic ", "elegant ", "fashionable ", "high-class ", "posh "], "A": ["old-fashioned ", "unfashionable "]}

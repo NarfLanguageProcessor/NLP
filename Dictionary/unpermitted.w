@@ -1,0 +1,1 @@
+{"index": 347752, "D": "allowed or tolerated", "S": [], "A": []}

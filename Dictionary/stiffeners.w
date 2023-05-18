@@ -1,0 +1,1 @@
+{"index": 304357, "D": "a person or thing that stiffens. ", "S": ["backing "], "A": ["disapproval ", "discouragement ", "frustration ", "opposition ", "stop "]}

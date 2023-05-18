@@ -1,0 +1,1 @@
+{"index": 319136, "D": "(in Turkey, Iran, and Iraq) tell2.", "S": [], "A": []}

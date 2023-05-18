@@ -1,0 +1,1 @@
+{"index": 257474, "D": "a quadrangle  as on a college campus", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351893, "D": "(of a woman) having a voluptuous figure.", "S": [], "A": []}

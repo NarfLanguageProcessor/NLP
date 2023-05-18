@@ -1,0 +1,1 @@
+{"index": 133867, "D": "to bring into harmony,  accord, or agreement", "S": ["balanced ", "coordinated ", "paired "], "A": ["different ", "mismatched ", "unequal ", "unlike "]}

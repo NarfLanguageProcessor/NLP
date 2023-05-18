@@ -1,0 +1,1 @@
+{"index": 295499, "D": "derogatory in a nasty, insinuating manner", "S": [], "A": []}

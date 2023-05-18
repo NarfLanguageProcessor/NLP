@@ -1,0 +1,1 @@
+{"index": 30904, "D": "a nonvenereal syphilis occurring mainly among children in certain subtropical areas of southern Africa and southeastern Asia, caused by the spirochete strain Treponema pallidum endemicum.", "S": [], "A": []}

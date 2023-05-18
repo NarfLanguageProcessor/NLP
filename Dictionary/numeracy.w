@@ -1,0 +1,1 @@
+{"index": 209548, "D": "the ability to use numbers, esp in arithmetical operations", "S": [], "A": []}

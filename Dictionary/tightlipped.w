@@ -1,0 +1,1 @@
+{"index": 323477, "D": "speaking very little; taciturn; close-mouthed.", "S": ["aloof ", "dour ", "mum ", "reticent ", "silent "], "A": ["communicative "]}

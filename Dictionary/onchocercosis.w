@@ -1,0 +1,1 @@
+{"index": 212670, "D": "an infestation with filarial worms of the genus Onchocerca, common in tropical America and Africa, transmitted by black flies, and characterized by nodules under the skin, an itchy rash, eye lesions, and in severe cases, elephantiasis.", "S": [], "A": []}

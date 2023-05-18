@@ -1,0 +1,1 @@
+{"index": 176463, "D": "a trivalent rare-earth element. Symbol", "S": [], "A": []}

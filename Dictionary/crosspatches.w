@@ -1,0 +1,1 @@
+{"index": 73858, "D": "a bad-tempered or irritable person.", "S": ["bear ", "bellyacher ", "bug ", "complainer ", "crab ", "crank ", "curmudgeon ", "faultfinder ", "grouser ", "growler ", "grumbler ", "grump ", "kicker ", "malcontent ", "moaner ", "murmurer ", "mutterer ", "sorehead ", "sourpuss ", "whiner "], "A": []}

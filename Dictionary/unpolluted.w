@@ -1,0 +1,1 @@
+{"index": 348143, "D": "not affected or contaminated by pollution", "S": ["hygienic ", "sterile "], "A": ["dirty "]}

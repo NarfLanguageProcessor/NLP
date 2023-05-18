@@ -1,0 +1,1 @@
+{"index": 141945, "D": "dramatic representation; theatricals; acting.", "S": ["dramatics ", "dramatization ", "performance ", "performing "], "A": []}

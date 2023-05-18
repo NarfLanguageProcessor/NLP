@@ -1,0 +1,1 @@
+{"index": 34182, "D": "a bundle, usually of bedding and other possessions, carried by a hobo.", "S": ["derelict "], "A": []}

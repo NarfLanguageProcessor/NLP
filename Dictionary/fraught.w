@@ -1,0 +1,1 @@
+{"index": 118500, "D": "full of, accompanied by, or involving something specified, usually something unpleasant (often followed by with)", "S": ["charged ", "filled ", "replete "], "A": ["empty "]}

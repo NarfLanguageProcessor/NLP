@@ -1,0 +1,1 @@
+{"index": 61641, "D": "a high-class female prostitute in the second half of the 19th century and the very early 20th century; demimondaine. ", "S": [], "A": []}

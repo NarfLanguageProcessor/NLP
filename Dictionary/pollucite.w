@@ -1,0 +1,1 @@
+{"index": 242751, "D": "a colourless rare mineral consisting of a hydrated caesium aluminium silicate, often containing some rubidium. It occurs in coarse granite, esp in Manitoba, and is an important source of caesium. Formula", "S": [], "A": []}

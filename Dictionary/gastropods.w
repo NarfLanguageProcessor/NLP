@@ -1,0 +1,1 @@
+{"index": 122656, "D": "any mollusk of the class Gastropoda, comprising the snails, whelks, slugs, etc.", "S": [], "A": []}

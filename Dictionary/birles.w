@@ -1,0 +1,1 @@
+{"index": 34848, "D": "to pour (a drink) or pour a drink for.", "S": [], "A": []}

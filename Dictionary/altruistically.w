@@ -1,0 +1,1 @@
+{"index": 9573, "D": "unselfishly concerned for or devoted to the welfare of others (opposed to egoistic).", "S": ["enthusiastically ", "graciously ", "liberally ", "warmly ", "wholeheartedly "], "A": ["coldly ", "grudgingly ", "heartlessly ", "selfishly ", "sparingly ", "stingily "]}

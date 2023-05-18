@@ -1,0 +1,1 @@
+{"index": 81028, "D": "formed or marked like a dendrite. ", "S": [], "A": []}

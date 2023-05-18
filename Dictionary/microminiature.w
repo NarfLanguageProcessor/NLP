@@ -1,0 +1,1 @@
+{"index": 186292, "D": "built on an extremely small scale, smaller than subminiature, especially of electronic equipment with small solid-state components in the place of vacuum tubes.", "S": [], "A": []}

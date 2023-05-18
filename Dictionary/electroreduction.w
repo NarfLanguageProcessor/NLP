@@ -1,0 +1,1 @@
+{"index": 97245, "D": "the process in which electrons are added to a substance near the cathode of an electrolytic cell.", "S": [], "A": []}

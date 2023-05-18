@@ -1,0 +1,1 @@
+{"index": 98116, "D": "to serve as an emblem  of; represent by an emblem.", "S": ["demonstrate ", "epitomize ", "exemplify ", "exhibit ", "express ", "illustrate ", "incorporate ", "manifest ", "mirror ", "personify ", "realize ", "stand for ", "symbolize ", "typify "], "A": ["conceal ", "cover ", "hide ", "obscure "]}

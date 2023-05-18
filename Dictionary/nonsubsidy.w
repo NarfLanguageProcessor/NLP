@@ -1,0 +1,1 @@
+{"index": 207603, "D": "a direct pecuniary aid furnished by a government to a private industrial undertaking, a charity organization, or the like.", "S": [], "A": []}

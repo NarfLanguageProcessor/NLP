@@ -1,0 +1,1 @@
+{"index": 28849, "D": "sewing with long, loose stitches to hold material in place until the final sewing.", "S": [], "A": []}

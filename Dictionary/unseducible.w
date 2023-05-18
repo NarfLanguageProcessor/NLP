@@ -1,0 +1,1 @@
+{"index": 350668, "D": "to lead astray, as from duty, rectitude, or the like; corrupt.", "S": [], "A": []}

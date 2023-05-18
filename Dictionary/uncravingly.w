@@ -1,0 +1,1 @@
+{"index": 338145, "D": "great or eager desire; yearning.", "S": [], "A": []}

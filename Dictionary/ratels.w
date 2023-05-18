@@ -1,0 +1,1 @@
+{"index": 260992, "D": "a badgerlike carnivore, Mellivora capensis, of Africa and India.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118522, "D": "to wear to threads or shreds; fray.", "S": ["collapse ", "enervation ", "lassitude ", "prostration ", "rag ", "remnant ", "shred "], "A": []}

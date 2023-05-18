@@ -1,0 +1,1 @@
+{"index": 240520, "D": "a pistonlike reciprocating part moving within the cylinder of a pump or hydraulic device.", "S": ["gambler "], "A": []}

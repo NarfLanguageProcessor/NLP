@@ -1,0 +1,1 @@
+{"index": 353422, "D": "reliance on the integrity, strength, ability, surety, etc., of a person or thing; confidence.", "S": [], "A": []}

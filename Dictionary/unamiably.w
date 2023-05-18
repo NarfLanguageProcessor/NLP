@@ -1,0 +1,1 @@
+{"index": 334915, "D": "having or showing pleasant, good-natured personal qualities; affable", "S": [], "A": []}

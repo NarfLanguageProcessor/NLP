@@ -1,0 +1,1 @@
+{"index": 161705, "D": "to make or become jolly  or merry.", "S": [], "A": []}

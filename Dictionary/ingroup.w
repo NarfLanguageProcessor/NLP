@@ -1,0 +1,1 @@
+{"index": 152582, "D": "Compare out-group. ", "S": ["band ", "camp ", "cartel ", "circle ", "gang ", "organization ", "pool ", "racket ", "syndicate "], "A": ["disassociation ", "disunion ", "division ", "separation "]}

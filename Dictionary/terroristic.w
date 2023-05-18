@@ -1,0 +1,1 @@
+{"index": 319628, "D": "a person, usually a member of a group, who uses or advocates terrorism. ", "S": [], "A": []}

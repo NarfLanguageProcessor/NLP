@@ -1,0 +1,1 @@
+{"index": 37936, "D": "a hammerhead shark, Sphyrna tiburo, found in shallow waters from Brazil to Massachusetts, having a spade-shaped head. ", "S": [], "A": []}

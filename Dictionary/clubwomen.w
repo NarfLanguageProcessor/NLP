@@ -1,0 +1,1 @@
+{"index": 60667, "D": "a woman who engages in club  activities, especially one prominent in social or civic organizations.", "S": ["cosmopolitan ", "fashionable woman ", "mondaine ", "socialite ", "woman about town "], "A": []}

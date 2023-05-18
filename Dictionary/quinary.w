@@ -1,0 +1,1 @@
+{"index": 258655, "D": "pertaining to or consisting of five.", "S": ["quinquennial ", "quintan "], "A": []}

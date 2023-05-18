@@ -1,0 +1,1 @@
+{"index": 139522, "D": "(of a substance) capable of undergoing a change in phase, as from a liquid to a gas, with no change in the original proportions of its constituents.", "S": [], "A": []}

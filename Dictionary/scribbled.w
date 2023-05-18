@@ -1,0 +1,1 @@
+{"index": 281787, "D": "to write hastily or carelessly", "S": ["jot ", "scratch ", "scrawl "], "A": []}

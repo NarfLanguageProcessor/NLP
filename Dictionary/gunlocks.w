@@ -1,0 +1,1 @@
+{"index": 131378, "D": "the mechanism of a firearm by which the charge is exploded.", "S": [], "A": []}

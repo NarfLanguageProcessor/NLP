@@ -1,0 +1,1 @@
+{"index": 296025, "D": "to fly upward, as a bird.", "S": ["ascend ", "escalate ", "lift ", "mount ", "rise ", "rocket ", "sail ", "shoot ", "shoot up ", "skyrocket ", "top "], "A": ["decline ", "decrease ", "descend ", "drop ", "fall ", "lessen ", "lower ", "slump ", "weaken "]}

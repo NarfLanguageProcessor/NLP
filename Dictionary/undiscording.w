@@ -1,0 +1,1 @@
+{"index": 340475, "D": "lack of concord or harmony between persons or things", "S": [], "A": []}

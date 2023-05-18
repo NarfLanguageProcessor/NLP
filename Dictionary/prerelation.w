@@ -1,0 +1,1 @@
+{"index": 249096, "D": "an existing connection; a significant association between or among things", "S": [], "A": []}

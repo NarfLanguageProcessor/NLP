@@ -1,0 +1,1 @@
+{"index": 279564, "D": "scandium oxide. ", "S": [], "A": []}

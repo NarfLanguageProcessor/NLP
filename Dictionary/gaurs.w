@@ -1,0 +1,1 @@
+{"index": 122876, "D": "a massive wild ox, Bibos gaurus, of southeastern Asia and the Malay Archipelago, growing to a height of 6 feet (1.8 meters) at the shoulder", "S": [], "A": []}

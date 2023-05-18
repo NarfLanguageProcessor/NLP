@@ -1,0 +1,1 @@
+{"index": 348024, "D": "to appeal or entreat earnestly", "S": [], "A": []}

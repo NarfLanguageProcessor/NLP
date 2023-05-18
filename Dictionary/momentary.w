@@ -1,0 +1,1 @@
+{"index": 191640, "D": "lasting but a moment;  very brief; fleeting", "S": ["short-lived ", "temporary ", "transitory "], "A": ["lasting ", "lengthy ", "long-lived ", "permanent "]}

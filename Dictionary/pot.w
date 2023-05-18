@@ -1,0 +1,1 @@
+{"index": 244583, "D": "a container of earthenware, metal, etc., usually round and deep and having a handle or handles and often a lid, used for cooking, serving, and other purposes.", "S": ["basin ", "bowl ", "bucket ", "can ", "cup ", "jar ", "jug ", "kettle ", "mug ", "pan ", "saucepan ", "urn ", "vessel "], "A": []}

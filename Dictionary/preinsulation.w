@@ -1,0 +1,1 @@
+{"index": 248036, "D": "material used for insulating. ", "S": [], "A": []}

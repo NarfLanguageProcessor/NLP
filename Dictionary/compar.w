@@ -1,0 +1,1 @@
+{"index": 64393, "D": "comparative.", "S": [], "A": []}

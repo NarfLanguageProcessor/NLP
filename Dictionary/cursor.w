@@ -1,0 +1,1 @@
+{"index": 75468, "D": "a movable, sometimes blinking, marker that indicates the position on a display screen where the next character entered from the keyboard will appear, or where user action is possible.", "S": ["dart ", "missile ", "projectile "], "A": []}

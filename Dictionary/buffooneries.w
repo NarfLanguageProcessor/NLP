@@ -1,0 +1,1 @@
+{"index": 42261, "D": "amusement by means of usually physical or visual tricks, jokes, etc.", "S": ["facetiousness ", "foolishness ", "jest ", "pleasantry ", "raillery ", "waggery ", "whimsicality ", "whimsy "], "A": ["seriousness "]}

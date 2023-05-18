@@ -1,0 +1,1 @@
+{"index": 159164, "D": "a line on a diagram or image of a galaxy, nebula, or other celestial object joining points of equal surface brightness", "S": [], "A": []}

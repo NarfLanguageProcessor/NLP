@@ -1,0 +1,1 @@
+{"index": 23618, "D": "a physician specializing in the treatment of ear diseases; otologist.", "S": [], "A": []}

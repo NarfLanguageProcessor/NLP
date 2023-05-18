@@ -1,0 +1,1 @@
+{"index": 159103, "D": "equality of measure.", "S": [], "A": []}

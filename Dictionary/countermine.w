@@ -1,0 +1,1 @@
+{"index": 70915, "D": "a mine  intended to intercept or destroy an enemy mine.", "S": ["plot ", "scheme ", "sedition ", "treason "], "A": ["faithfulness ", "honesty ", "ignorance ", "loyalty "]}

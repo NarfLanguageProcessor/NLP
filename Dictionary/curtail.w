@@ -1,0 +1,1 @@
+{"index": 75487, "D": "to cut short; cut off a part of; abridge; reduce; diminish. ", "S": ["cut back ", "decrease ", "diminish ", "downsize ", "halt ", "lessen ", "reduce ", "shorten ", "slash ", "trim "], "A": ["develop ", "enlarge ", "expand ", "extend ", "grow ", "increase ", "lengthen ", "raise ", "strengthen ", "amplify ", "stretch "]}

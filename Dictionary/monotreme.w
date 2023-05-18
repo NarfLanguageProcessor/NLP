@@ -1,0 +1,1 @@
+{"index": 192768, "D": "any animal of the Monotremata, the most primitive order of mammals, characterized by certain birdlike and reptilian features, as hatching young from eggs, and having a single opening for the digestive, urinary, and genital organs, comprising only the duckbill and the echidnas of Australia and New Guinea.", "S": [], "A": []}

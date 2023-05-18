@@ -1,0 +1,1 @@
+{"index": 290667, "D": "a person of affluence or influence.", "S": [], "A": []}

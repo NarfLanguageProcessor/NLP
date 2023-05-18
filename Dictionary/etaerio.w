@@ -1,0 +1,1 @@
+{"index": 104792, "D": "an aggregate fruit, as one consisting of drupes (raspberry) or achenes (traveller's joy)", "S": [], "A": []}

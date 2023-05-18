@@ -1,0 +1,1 @@
+{"index": 290112, "D": "a detailed description, especially of distinctive features, of a person for identification, usually for police purposes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156393, "D": "being in  the central or metropolitan area of a city or town", "S": [], "A": []}

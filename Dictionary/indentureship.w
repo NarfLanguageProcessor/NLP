@@ -1,0 +1,1 @@
+{"index": 150798, "D": "a deed or agreement executed in two or more copies with edges correspondingly indented  as a means of identification.", "S": [], "A": []}

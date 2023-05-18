@@ -1,0 +1,1 @@
+{"index": 85628, "D": "any antelope of the genus Madoqua or Rhynchotragus, of eastern and southwestern Africa, growing only to 14 inches (36 centimeters) high at the shoulder.", "S": [], "A": []}

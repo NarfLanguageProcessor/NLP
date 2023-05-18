@@ -1,0 +1,1 @@
+{"index": 193603, "D": "a colorless, hygroscopic liquid, C4H9NO, used chiefly as a solvent for dyes, resins, and waxes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 6860, "D": "the explosion of a bomb or shell in midair.", "S": [], "A": []}

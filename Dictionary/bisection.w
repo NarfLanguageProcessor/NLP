@@ -1,0 +1,1 @@
+{"index": 34968, "D": "to cut or divide into two equal or nearly equal parts.", "S": ["distribution "], "A": ["attachment ", "combination ", "connection ", "union "]}

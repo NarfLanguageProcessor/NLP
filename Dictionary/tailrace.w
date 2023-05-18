@@ -1,0 +1,1 @@
+{"index": 315405, "D": "the race,  flume, or channel leading away from a waterwheel or the like.", "S": [], "A": []}

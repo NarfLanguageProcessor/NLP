@@ -1,0 +1,1 @@
+{"index": 309306, "D": "evidence sufficient to establish a thing as true, valid, or real; proof", "S": ["approval ", "confirmation ", "proof ", "validation ", "verification ", "vindication "], "A": ["opposition "]}

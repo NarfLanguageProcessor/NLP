@@ -1,0 +1,1 @@
+{"index": 285521, "D": "simple past tense and past participle of send1. ", "S": [], "A": []}

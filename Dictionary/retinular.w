@@ -1,0 +1,1 @@
+{"index": 270540, "D": "a group of elongate neural receptor cells forming part of an arthropod compound eye", "S": [], "A": []}

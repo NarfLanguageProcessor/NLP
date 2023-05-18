@@ -1,0 +1,1 @@
+{"index": 222224, "D": "pertaining to or produced by oxygen and calcium. ", "S": [], "A": []}

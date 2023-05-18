@@ -1,0 +1,1 @@
+{"index": 308082, "D": "having a surface devoid of hair or pubescence.", "S": [], "A": []}

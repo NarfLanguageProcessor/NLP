@@ -1,0 +1,1 @@
+{"index": 46045, "D": "a thin piece of bread or toast or a cracker spread or topped with cheese, caviar, anchovies, or other savory food.", "S": ["bit ", "bite ", "touch "], "A": ["lot "]}

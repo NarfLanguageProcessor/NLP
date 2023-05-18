@@ -1,0 +1,1 @@
+{"index": 275271, "D": "the upper end of a rudderpost, to which a tiller, quadrant, or yoke is attached.", "S": [], "A": []}

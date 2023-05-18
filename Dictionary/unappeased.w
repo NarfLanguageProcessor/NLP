@@ -1,0 +1,1 @@
+{"index": 335090, "D": "to bring to a state of peace, quiet, ease, calm, or contentment; pacify; soothe", "S": ["discontented "], "A": ["contented ", "happy ", "pleased ", "satisfied "]}

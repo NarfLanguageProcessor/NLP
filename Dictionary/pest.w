@@ -1,0 +1,1 @@
+{"index": 232266, "D": "an annoying or troublesome person, animal, or thing; nuisance.", "S": ["blight ", "bug ", "contagion ", "epidemic ", "infection ", "plague ", "scourge ", "virus "], "A": ["advantage ", "blessing ", "boon ", "aid ", "comfort ", "delight ", "good health ", "happiness ", "help ", "joy ", "peace ", "pleasure "]}

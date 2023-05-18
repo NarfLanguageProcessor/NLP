@@ -1,0 +1,1 @@
+{"index": 321769, "D": "a wolflike marsupial, Thylacinus cynocephalus, of Tasmania, tan-colored with black stripes across the back", "S": [], "A": []}

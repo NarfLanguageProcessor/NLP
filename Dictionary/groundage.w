@@ -1,0 +1,1 @@
+{"index": 130299, "D": "a tax levied on ships that anchor in a port.", "S": [], "A": []}

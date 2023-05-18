@@ -1,0 +1,1 @@
+{"index": 325661, "D": "inflammation of a tonsil  or the tonsils. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39094, "D": "a contest or trial of strength, as of boxing.", "S": ["round ", "session ", "spell ", "tour "], "A": ["stagnation "]}

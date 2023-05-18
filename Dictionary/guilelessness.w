@@ -1,0 +1,1 @@
+{"index": 131077, "D": "free from guile;  sincere; honest; straightforward; frank.", "S": ["directness ", "fairness ", "frankness ", "honesty ", "outspokenness ", "probity ", "simplicity ", "sincerity ", "truthfulness "], "A": ["deceit ", "dishonesty ", "lying ", "unfairness "]}

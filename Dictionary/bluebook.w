@@ -1,0 +1,1 @@
+{"index": 36713, "D": "a register or directory of socially prominent persons.", "S": ["almanac ", "catalogue ", "list ", "yellow pages "], "A": []}

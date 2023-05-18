@@ -1,0 +1,1 @@
+{"index": 176276, "D": "a member of a people living mainly in southwest Kenya.", "S": [], "A": []}

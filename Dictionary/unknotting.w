@@ -1,0 +1,1 @@
+{"index": 345354, "D": "to untie by or as if by undoing a knot", "S": ["undo "], "A": ["twist ", "wind "]}

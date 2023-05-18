@@ -1,0 +1,1 @@
+{"index": 47930, "D": "cautious in one's actions", "S": ["care ", "cautiousness ", "chariness ", "heedfulness ", "mindfulness ", "precaution ", "wariness ", "watchfulness "], "A": ["carelessness "]}

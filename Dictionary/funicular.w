@@ -1,0 +1,1 @@
+{"index": 120271, "D": "of or relating to a rope or cord, or its tension.", "S": [], "A": []}

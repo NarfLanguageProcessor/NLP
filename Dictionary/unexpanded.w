@@ -1,0 +1,1 @@
+{"index": 341746, "D": "increased in area, bulk, or volume; enlarged", "S": [], "A": []}

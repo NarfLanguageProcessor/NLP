@@ -1,0 +1,1 @@
+{"index": 343453, "D": "pertaining to or characterized by hallucination", "S": [], "A": []}

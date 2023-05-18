@@ -1,0 +1,1 @@
+{"index": 331818, "D": "a member of a numerous people of Botswana and neighboring parts of South Africa.", "S": [], "A": []}

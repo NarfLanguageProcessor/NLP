@@ -1,0 +1,1 @@
+{"index": 134681, "D": "to situate in headquarters.", "S": ["command post ", "main office ", "nerve center "], "A": []}

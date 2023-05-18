@@ -1,0 +1,1 @@
+{"index": 344704, "D": "to make intense  or more intense.", "S": [], "A": []}

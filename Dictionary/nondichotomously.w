@@ -1,0 +1,1 @@
+{"index": 203060, "D": "divided or dividing into two parts.", "S": [], "A": []}

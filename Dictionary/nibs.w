@@ -1,0 +1,1 @@
+{"index": 199566, "D": "a person in authority, especially one who is demanding and tyrannical", "S": ["snout "], "A": []}

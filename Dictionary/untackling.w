@@ -1,0 +1,1 @@
+{"index": 352621, "D": "equipment; tackle. ", "S": [], "A": []}

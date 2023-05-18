@@ -1,0 +1,1 @@
+{"index": 29560, "D": "a small, almost round snowshoe used on steep or rocky terrain.", "S": [], "A": []}

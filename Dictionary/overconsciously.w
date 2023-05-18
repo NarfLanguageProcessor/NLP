@@ -1,0 +1,1 @@
+{"index": 218707, "D": "with knowledge or awareness of one's own existence, sensations, thoughts, surroundings, etc.", "S": [], "A": []}

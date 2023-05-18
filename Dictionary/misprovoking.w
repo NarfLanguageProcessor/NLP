@@ -1,0 +1,1 @@
+{"index": 189876, "D": "to anger, enrage, exasperate, or vex.", "S": [], "A": []}

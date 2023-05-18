@@ -1,0 +1,1 @@
+{"index": 132847, "D": "a mineral, iron alum, isomorphous with pickeringite, occurring in the form of yellowish fibers.", "S": [], "A": []}

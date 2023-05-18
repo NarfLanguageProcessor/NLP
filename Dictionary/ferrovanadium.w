@@ -1,0 +1,1 @@
+{"index": 111566, "D": "a ferroalloy containing up to 55 percent vanadium. ", "S": [], "A": []}

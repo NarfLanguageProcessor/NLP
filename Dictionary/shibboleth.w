@@ -1,0 +1,1 @@
+{"index": 288166, "D": "a peculiarity of pronunciation, behavior, mode of dress, etc., that distinguishes a particular class or set of persons.", "S": ["catchword ", "custom ", "password ", "phrase ", "practice ", "saying ", "truism ", "watchword "], "A": []}

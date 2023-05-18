@@ -1,0 +1,1 @@
+{"index": 313624, "D": "the conditions, scenery, etc, around a person, place, or thing; environment", "S": ["ambience ", "atmosphere ", "background ", "climate ", "environment ", "environs ", "location ", "milieu ", "mise en sc\u00e8ne ", "neighborhood ", "setting "], "A": []}

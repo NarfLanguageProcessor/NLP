@@ -1,0 +1,1 @@
+{"index": 291556, "D": "a group of symptoms that together are characteristic of a specific disorder, disease, or the like.", "S": [], "A": []}

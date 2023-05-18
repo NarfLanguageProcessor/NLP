@@ -1,0 +1,1 @@
+{"index": 139266, "D": "a less common spelling of hijack", "S": ["annex ", "preempt ", "supplant ", "wrest "], "A": ["give ", "keep ", "leave ", "let go ", "offer ", "refuse ", "reject ", "release "]}

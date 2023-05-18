@@ -1,0 +1,1 @@
+{"index": 292992, "D": [], "S": ["distrust ", "hesitate ", "impugn ", "suspect "], "A": ["trust ", "agree ", "answer ", "believe ", "go along ", "remain ", "stay "]}

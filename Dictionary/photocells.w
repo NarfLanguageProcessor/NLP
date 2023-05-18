@@ -1,0 +1,1 @@
+{"index": 235004, "D": "a solid-state device that converts light into electrical energy by producing a voltage, as in a photovoltaic cell,  or uses light to regulate the flow of current, as in a photoconductive cell", "S": [], "A": []}

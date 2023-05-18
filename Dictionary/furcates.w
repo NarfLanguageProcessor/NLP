@@ -1,0 +1,1 @@
+{"index": 120361, "D": "forked; branching.", "S": ["cut across "], "A": ["combine ", "join ", "unite "]}

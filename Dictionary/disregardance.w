@@ -1,0 +1,1 @@
+{"index": 89310, "D": [], "S": ["carelessness ", "disrespect ", "indifference ", "oversight "], "A": ["regard ", "praise ", "respect "]}

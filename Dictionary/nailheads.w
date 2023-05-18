@@ -1,0 +1,1 @@
+{"index": 196585, "D": "the enlarged top of a nail,  usually flattened but sometimes rounded.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235176, "D": "any of various processes, based on photography, by which an intaglio engraving is formed on a metal plate, from which ink reproductions are made.", "S": ["etching ", "illustration ", "inscription ", "lithograph ", "woodcut "], "A": []}

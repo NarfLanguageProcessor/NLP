@@ -1,0 +1,1 @@
+{"index": 293457, "D": "a Coloured hooligan, usually one of a gang", "S": [], "A": []}

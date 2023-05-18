@@ -1,0 +1,1 @@
+{"index": 208740, "D": "the study of the geographical causes and distribution of diseases.", "S": [], "A": []}

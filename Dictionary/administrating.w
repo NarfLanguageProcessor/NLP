@@ -1,0 +1,1 @@
+{"index": 4148, "D": "to administer. ", "S": ["allocate ", "apportion ", "dispense ", "distribute ", "execute "], "A": ["hold ", "keep "]}

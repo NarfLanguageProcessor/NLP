@@ -1,0 +1,1 @@
+{"index": 81428, "D": "(of an ethical theory) regarding obligation as deriving from reason or as residing primarily in certain specific rules of conduct rather than in the maximization of some good", "S": [], "A": []}

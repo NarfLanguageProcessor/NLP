@@ -1,0 +1,1 @@
+{"index": 62556, "D": "one of two or more joint inventors. ", "S": [], "A": []}

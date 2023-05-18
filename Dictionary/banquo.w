@@ -1,0 +1,1 @@
+{"index": 27580, "D": "(in Shakespeare's Macbeth) a murdered thane whose ghost appears to Macbeth.", "S": [], "A": []}

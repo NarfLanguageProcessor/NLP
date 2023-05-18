@@ -1,0 +1,1 @@
+{"index": 78414, "D": [], "S": ["attire ", "bedeck ", "clothe ", "deck ", "decorate ", "drape ", "dud ", "fit ", "garb ", "outfit ", "tog ", "wrap "], "A": ["disrobe ", "unclothe ", "uncover "]}

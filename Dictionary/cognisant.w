@@ -1,0 +1,1 @@
+{"index": 62266, "D": "a frequent misspelling of cognizant. ", "S": [], "A": []}

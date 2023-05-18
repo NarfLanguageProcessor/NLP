@@ -1,0 +1,1 @@
+{"index": 277209, "D": "inflammation of a salpinx.", "S": [], "A": []}

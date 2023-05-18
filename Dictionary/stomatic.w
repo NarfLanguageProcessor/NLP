@@ -1,0 +1,1 @@
+{"index": 305116, "D": "pertaining to the mouth.", "S": [], "A": []}

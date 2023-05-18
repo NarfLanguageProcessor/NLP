@@ -1,0 +1,1 @@
+{"index": 129430, "D": "the melted or rendered fat of animals, especially when in a soft state.", "S": [], "A": []}

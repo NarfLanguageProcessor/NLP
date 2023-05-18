@@ -1,0 +1,1 @@
+{"index": 242054, "D": "a compound of high molecular weight derived either by the addition of many smaller molecules, as polyethylene, or by the condensation of many smaller molecules with the elimination of water, alcohol, or the like, as nylon.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38889, "D": "any of several shrubs or vines of the genus Bougainvillea, native to South America, having small flowers with showy, variously colored bracts, and often cultivated in warm regions.", "S": [], "A": []}

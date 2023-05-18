@@ -1,0 +1,1 @@
+{"index": 13614, "D": "of, for, or pertaining to a year; yearly", "S": ["anniversary "], "A": []}

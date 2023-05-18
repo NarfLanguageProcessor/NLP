@@ -1,0 +1,1 @@
+{"index": 55689, "D": "a person or thing that chops. ", "S": ["axe ", "dicer ", "mincer ", "molar "], "A": []}

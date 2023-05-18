@@ -1,0 +1,1 @@
+{"index": 61113, "D": "a close-fitting short coat,  especially one with tails or skirts.", "S": [], "A": []}

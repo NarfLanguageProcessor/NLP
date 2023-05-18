@@ -1,0 +1,1 @@
+{"index": 132801, "D": "any of a class of compounds containing carbon,  one or more halogens, and sometimes hydrogen.", "S": [], "A": []}

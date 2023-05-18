@@ -1,0 +1,1 @@
+{"index": 21635, "D": "the slender javelin or spear of the Bantu-speaking people of southern Africa.", "S": [], "A": []}

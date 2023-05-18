@@ -1,0 +1,1 @@
+{"index": 14797, "D": "resistant or antagonistic to Black  people or their values or objectives", "S": [], "A": []}

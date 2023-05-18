@@ -1,0 +1,1 @@
+{"index": 337201, "D": "characterized or accomplished by collaboration", "S": [], "A": []}

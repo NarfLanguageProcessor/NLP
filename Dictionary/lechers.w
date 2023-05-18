@@ -1,0 +1,1 @@
+{"index": 169813, "D": "a man given to excessive sexual indulgence; a lascivious or licentious man.", "S": ["Casanova ", "Lothario ", "Romeo ", "debaucher ", "gigolo ", "lech ", "libertine ", "philanderer ", "playboy ", "rake ", "reprobate ", "roue ", "satyr ", "stud ", "swinger ", "womanizer "], "A": []}

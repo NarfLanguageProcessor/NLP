@@ -1,0 +1,1 @@
+{"index": 217824, "D": "to strive in competition or rivalry with another; contend for superiority", "S": ["follow suit ", "imitate ", "mimic ", "mirror "], "A": ["neglect "]}

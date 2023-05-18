@@ -1,0 +1,1 @@
+{"index": 324726, "D": "having a title,  especially of nobility", "S": ["aristocratic ", "blue-blooded ", "elite ", "gentle ", "highbred ", "imperial ", "kingly ", "patrician ", "queenly ", "silk-stocking ", "thoroughbred ", "upper-class ", "wellborn "], "A": []}

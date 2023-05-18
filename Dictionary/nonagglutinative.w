@@ -1,0 +1,1 @@
+{"index": 201211, "D": "tending or having power to agglutinate  or unite", "S": [], "A": []}

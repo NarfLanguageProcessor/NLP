@@ -1,0 +1,1 @@
+{"index": 43062, "D": "a hamburger.", "S": ["chopped steak ", "ground round ", "ground sirloin ", "hamburger ", "hamburger patty ", "hamburger sandwich ", "hamburger steak "], "A": []}

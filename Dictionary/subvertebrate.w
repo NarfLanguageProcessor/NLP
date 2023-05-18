@@ -1,0 +1,1 @@
+{"index": 309734, "D": "having vertebrae; having a backbone or spinal column.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27514, "D": "the state of being or becoming bankrupt. ", "S": ["default ", "disaster ", "failure ", "insolvency ", "liquidation ", "loss "], "A": ["accomplishment ", "achievement ", "success ", "win "]}

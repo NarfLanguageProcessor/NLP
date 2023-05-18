@@ -1,0 +1,1 @@
+{"index": 161776, "D": "chamber pot. ", "S": ["bedpan ", "chamber ", "jerry ", "pisspot ", "potty ", "thunder mug "], "A": []}

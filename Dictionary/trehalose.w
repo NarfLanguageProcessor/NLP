@@ -1,0 +1,1 @@
+{"index": 328821, "D": "a white, crystalline disaccharide, C12H22O11, occurring in yeast, certain fungi, etc., and used to identify certain bacteria.", "S": [], "A": []}

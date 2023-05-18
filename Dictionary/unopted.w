@@ -1,0 +1,1 @@
+{"index": 347189, "D": "to make a choice; choose (usually followed by for).", "S": [], "A": []}

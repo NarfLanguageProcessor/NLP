@@ -1,0 +1,1 @@
+{"index": 231370, "D": "of, relating to, or resembling peristalsis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8877, "D": "growth of a part of an organism in relation to the growth of the whole organism or some part of it.", "S": [], "A": []}

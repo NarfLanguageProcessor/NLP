@@ -1,0 +1,1 @@
+{"index": 100189, "D": "to make feeble; weaken", "S": ["attenuation ", "debility ", "depletion ", "devitalization ", "enervation ", "exhaustion ", "feebleness ", "frailness ", "frailty ", "weakening ", "weakness "], "A": ["ability ", "health ", "strength ", "vigor "]}

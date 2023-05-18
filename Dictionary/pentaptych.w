@@ -1,0 +1,1 @@
+{"index": 229996, "D": "a work of art consisting of five panels or sections.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315070, "D": "a short, sharp-pointed nail, usually with a flat, broad head.", "S": [], "A": []}

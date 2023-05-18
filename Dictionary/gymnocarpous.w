@@ -1,0 +1,1 @@
+{"index": 125053, "D": "(of a fungus or lichen) having the apothecium open and attached to the surface of the thallus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266296, "D": "a persistent, substantial rise in the general level of prices related to an increase in the volume of money and resulting in the loss of value of currency (opposed to deflation).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303025, "D": "the electrostatic unit of a quantity of electricity, equivalent to 3.3356 \u00d7 10\u221210 coulomb and equal to the quantity of charge transferred in one second across a conductor in which there is a constant current of one statampere.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172293, "D": "an African tree, Terminalia superba, having yellowish-brown wood.", "S": [], "A": []}

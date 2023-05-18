@@ -1,0 +1,1 @@
+{"index": 102458, "D": "a thin, valvelike, cartilaginous structure that covers the glottis during swallowing, preventing the entrance of food and drink into the larynx.", "S": [], "A": []}

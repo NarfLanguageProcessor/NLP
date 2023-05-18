@@ -1,0 +1,1 @@
+{"index": 171231, "D": "a sea monster.", "S": ["colossal ", "enormous ", "gigantic ", "huge ", "humongous ", "immense ", "mammoth ", "massive ", "monstrous ", "monumental ", "prodigious ", "towering ", "tremendous ", "vast "], "A": ["common ", "dwarfed ", "insignificant ", "little ", "miniature ", "minute ", "ordinary ", "small ", "teeny ", "tiny ", "unimportant "]}

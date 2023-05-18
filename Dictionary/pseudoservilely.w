@@ -1,0 +1,1 @@
+{"index": 255127, "D": "slavishly submissive or obsequious; fawning", "S": [], "A": []}

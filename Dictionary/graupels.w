@@ -1,0 +1,1 @@
+{"index": 129290, "D": "snow pellets. ", "S": ["blizzard ", "snowstorm "], "A": []}

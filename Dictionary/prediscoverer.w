@@ -1,0 +1,1 @@
+{"index": 247023, "D": "a person who discovers. ", "S": [], "A": []}

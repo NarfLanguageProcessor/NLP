@@ -1,0 +1,1 @@
+{"index": 136465, "D": "a profuse discharge of blood, as from a ruptured blood vessel; bleeding.", "S": [], "A": []}

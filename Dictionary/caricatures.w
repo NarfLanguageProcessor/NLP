@@ -1,0 +1,1 @@
+{"index": 48025, "D": "a picture, description, etc., ludicrously exaggerating the peculiarities or defects of persons or things", "S": ["cartoons ", "comic section ", "comics ", "funnies ", "funny book ", "funny magazine ", "funny paper "], "A": []}

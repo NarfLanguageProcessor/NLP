@@ -1,0 +1,1 @@
+{"index": 131404, "D": "the act, practice, or art of shooting withguns;  gunnery.", "S": ["firing ", "gunfire "], "A": []}

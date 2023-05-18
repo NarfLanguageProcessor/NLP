@@ -1,0 +1,1 @@
+{"index": 96089, "D": "a breaking into a house, store, etc., by force; forcible entry.", "S": [], "A": []}

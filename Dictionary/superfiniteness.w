@@ -1,0 +1,1 @@
+{"index": 311869, "D": "having bounds or limits; not infinite; measurable.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311220, "D": "a sudden and sometimes fatal affection due to exposure to the sun's  rays or to excessive heat, marked by prostration with or without fever, convulsion, and coma.", "S": [], "A": []}

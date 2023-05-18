@@ -1,0 +1,1 @@
+{"index": 130026, "D": "either of two small, usually solitary antelopes of southern Africa, Raphicerus melanotis, or R. sharpei(Sharpe's grysbok ), having a light to dark reddish-brown coat speckled with white.", "S": [], "A": []}

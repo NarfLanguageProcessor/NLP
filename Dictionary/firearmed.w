@@ -1,0 +1,1 @@
+{"index": 113103, "D": "a small arms  weapon, as a rifle or pistol, from which a projectile is fired  by gunpowder.", "S": [], "A": []}

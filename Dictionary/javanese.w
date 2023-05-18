@@ -1,0 +1,1 @@
+{"index": 160620, "D": "of or relating to the island of Java,  its people, or their language.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 10812, "D": "the material fired, scattered, dropped, or detonated from any weapon, as bombs or rockets, and especially shot, shrapnel, bullets, or shells fired by guns.", "S": ["ammo ", "armament ", "bomb ", "bullet ", "cartridge ", "chemical ", "explosive ", "gunpowder ", "materiel ", "missile ", "munition ", "napalm ", "rocket ", "shrapnel ", "torpedo "], "A": []}

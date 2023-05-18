@@ -1,0 +1,1 @@
+{"index": 159160, "D": "an isogloss marking off an area in which a particular feature of pronunciation is found", "S": [], "A": []}

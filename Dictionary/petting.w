@@ -1,0 +1,1 @@
+{"index": 232606, "D": "the act of fondling or caressing", "S": ["cuddle ", "embrace ", "endearment ", "feel ", "fondling ", "hug ", "kiss ", "pat ", "pet ", "snuggle ", "squeeze ", "stroke "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40269, "D": "to smash, split, or divide into parts violently; reduce to pieces or fragments", "S": ["circumstance ", "future ", "inevitability ", "intention ", "objective ", "prospect "], "A": ["concept ", "continuity ", "misfortune ", "theory ", "whole "]}

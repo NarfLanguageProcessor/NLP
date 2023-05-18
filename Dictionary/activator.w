@@ -1,0 +1,1 @@
+{"index": 3252, "D": "a person or thing that activates. ", "S": ["catalyst "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205865, "D": "not subject to rapid deterioration or decay", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9291, "D": "with the normal tone and volume of the speaking voice, as distinguished from whisperingly", "S": ["loudly "], "A": ["inaudibly ", "silently "]}

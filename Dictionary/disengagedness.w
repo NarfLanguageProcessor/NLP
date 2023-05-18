@@ -1,0 +1,1 @@
+{"index": 87953, "D": "to release from attachment or connection; loosen; unfasten", "S": [], "A": []}

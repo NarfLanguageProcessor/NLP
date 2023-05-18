@@ -1,0 +1,1 @@
+{"index": 157844, "D": "inches per revolution.", "S": [], "A": []}

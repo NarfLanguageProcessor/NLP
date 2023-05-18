@@ -1,0 +1,1 @@
+{"index": 239823, "D": "existing in great plenty", "S": ["ample ", "bountiful ", "fertile ", "generous ", "productive ", "prolific ", "sufficient ", "unlimited "], "A": ["barren ", "fruitless ", "impotent ", "insufficient ", "lacking ", "unfruitful ", "unproductive ", "wanting "]}

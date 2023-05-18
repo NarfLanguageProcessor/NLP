@@ -1,0 +1,1 @@
+{"index": 246706, "D": "a formal and authoritative order, especially one having the force of law", "S": [], "A": []}

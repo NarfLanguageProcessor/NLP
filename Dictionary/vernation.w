@@ -1,0 +1,1 @@
+{"index": 358690, "D": "the arrangement of the foliage leaves within the bud.", "S": [], "A": []}

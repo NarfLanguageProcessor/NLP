@@ -1,0 +1,1 @@
+{"index": 202857, "D": "the carrying and turning over of letters, goods, etc., to a designated recipient or recipients.", "S": [], "A": []}

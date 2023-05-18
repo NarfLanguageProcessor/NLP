@@ -1,0 +1,1 @@
+{"index": 238736, "D": "a play-off.", "S": ["belittle ", "deemphasize ", "gloss over ", "minimize ", "mute ", "soft pedal ", "soften ", "underplay "], "A": ["blow up ", "build up ", "explode ", "play up "]}

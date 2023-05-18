@@ -1,0 +1,1 @@
+{"index": 84293, "D": "rhodochrosite. ", "S": [], "A": []}

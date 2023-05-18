@@ -1,0 +1,1 @@
+{"index": 250318, "D": "of or relating to Priapus;  phallic.", "S": [], "A": []}

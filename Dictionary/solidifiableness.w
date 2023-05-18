@@ -1,0 +1,1 @@
+{"index": 296738, "D": "to make solid;  make into a hard or compact mass; change from a liquid or gaseous to a solid  form.", "S": [], "A": []}

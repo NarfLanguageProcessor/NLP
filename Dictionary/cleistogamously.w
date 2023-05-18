@@ -1,0 +1,1 @@
+{"index": 59740, "D": "pertaining to or having pollination occurring in unopened flowers.", "S": [], "A": []}

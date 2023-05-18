@@ -1,0 +1,1 @@
+{"index": 81882, "D": "to remove or withhold something from the enjoyment or possession of (a person or persons)", "S": ["denial ", "disadvantage ", "dispossession ", "hardship ", "lack ", "privation ", "want "], "A": []}

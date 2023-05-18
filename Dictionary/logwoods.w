@@ -1,0 +1,1 @@
+{"index": 174724, "D": "the heavy, brownish-red heartwood of a West Indian and Central American tree, Haematoxylon campechianum, of the legume family, used in dyeing.", "S": [], "A": []}

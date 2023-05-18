@@ -1,0 +1,1 @@
+{"index": 348428, "D": "insincerely or falsely professed", "S": ["blunt ", "forthright ", "impartial ", "outspoken ", "sincere ", "straightforward ", "truthful ", "unbiased ", "unequivocal "], "A": ["biased ", "devious ", "dishonest ", "prejudiced ", "tactful ", "untruthful "]}

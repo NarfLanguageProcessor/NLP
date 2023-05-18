@@ -1,0 +1,1 @@
+{"index": 253629, "D": "the customs and regulations dealing with diplomatic formality, precedence, and etiquette.", "S": ["agreement ", "code ", "contract ", "covenant ", "custom ", "obligation ", "pact "], "A": ["disagreement ", "bad manners ", "impoliteness ", "rudeness "]}

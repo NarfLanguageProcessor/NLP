@@ -1,0 +1,1 @@
+{"index": 24571, "D": "the fact or quality of being close at hand and ready for use", "S": [], "A": []}

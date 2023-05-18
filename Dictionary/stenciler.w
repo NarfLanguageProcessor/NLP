@@ -1,0 +1,1 @@
+{"index": 303634, "D": "a device for applying a pattern, design, words, etc., to a surface, consisting of a thin sheet of cardboard, metal, or other material from which figures or letters have been cut out, a coloring substance, ink, etc., being rubbed, brushed, or pressed over the sheet, passing through the perforations and onto the surface.", "S": [], "A": []}

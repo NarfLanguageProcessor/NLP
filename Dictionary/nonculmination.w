@@ -1,0 +1,1 @@
+{"index": 202631, "D": "the act or fact of culminating. ", "S": [], "A": []}

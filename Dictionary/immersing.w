@@ -1,0 +1,1 @@
+{"index": 147953, "D": "to plunge into or place under a liquid; dip; sink.", "S": ["dropping ", "drowning ", "fading ", "falling ", "submerging "], "A": []}

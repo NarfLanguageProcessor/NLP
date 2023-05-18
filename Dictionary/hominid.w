@@ -1,0 +1,1 @@
+{"index": 142943, "D": "See also hominin. ", "S": ["animal ", "anthropoid ", "biped ", "humanoid ", "mortal "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225899, "D": "of, like, or experiencing paranoia. ", "S": ["maniac ", "psychopath ", "psychotic ", "schizophrenic "], "A": []}

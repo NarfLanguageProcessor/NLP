@@ -1,0 +1,1 @@
+{"index": 166177, "D": "a variant spelling of kumiss", "S": [], "A": []}

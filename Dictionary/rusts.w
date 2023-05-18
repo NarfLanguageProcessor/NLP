@@ -1,0 +1,1 @@
+{"index": 275903, "D": "the red or orange coating that forms on the surface of iron when exposed to air and moisture, consisting chiefly of ferric hydroxide and ferric oxide formed by oxidation.", "S": ["decay "], "A": ["development ", "growth "]}

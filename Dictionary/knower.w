@@ -1,0 +1,1 @@
+{"index": 165707, "D": "to perceive or understand as fact or truth; to apprehend clearly and with certainty", "S": [], "A": []}

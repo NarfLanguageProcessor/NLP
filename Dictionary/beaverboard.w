@@ -1,0 +1,1 @@
+{"index": 29685, "D": "a light, stiff sheeting made of wood fiber and used in building, especially for partitions or temporary structures.", "S": [], "A": []}

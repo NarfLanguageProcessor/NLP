@@ -1,0 +1,1 @@
+{"index": 4200, "D": "permission or right to enter", "S": ["access ", "entrance ", "entry ", "ingress ", "pass ", "passage ", "reception "], "A": ["conclusion ", "denial ", "egress ", "exit ", "refusal ", "veto "]}

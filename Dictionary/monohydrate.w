@@ -1,0 +1,1 @@
+{"index": 192367, "D": "a hydrate  that contains one molecule of water, as ammonium carbonate, (NH4)2CO3\u00b7H2O.", "S": [], "A": []}

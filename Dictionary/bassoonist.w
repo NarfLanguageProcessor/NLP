@@ -1,0 +1,1 @@
+{"index": 28793, "D": "a large woodwind instrument of low range, with a doubled tube and a curved metal crook to which a double reed is attached.", "S": [], "A": []}

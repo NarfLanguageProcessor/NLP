@@ -1,0 +1,1 @@
+{"index": 227400, "D": "a stiff, firm board  made of sheets of paper pasted  or layers of paper pulp pressed together.", "S": [], "A": []}

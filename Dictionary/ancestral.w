@@ -1,0 +1,1 @@
+{"index": 12149, "D": "pertaining to ancestors;  descending or claimed from ancestors", "S": ["familial ", "tribal "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342466, "D": "to bring out of a folded state; spread or open out", "S": ["spread ", "stretch out ", "unfurl ", "unravel "], "A": ["abridge ", "close ", "contract ", "cover ", "hide ", "hold ", "keep ", "lessen ", "lower ", "maintain ", "shorten ", "shrink ", "twist ", "wind "]}

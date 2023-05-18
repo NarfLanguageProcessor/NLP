@@ -1,0 +1,1 @@
+{"index": 137770, "D": "(of a plant) having styles of different forms or lengths in the flowers.", "S": [], "A": []}

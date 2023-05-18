@@ -1,0 +1,1 @@
+{"index": 108129, "D": "to cut out.", "S": ["carve ", "delete ", "eliminate ", "extract ", "pull out ", "sever "], "A": ["add ", "put in "]}

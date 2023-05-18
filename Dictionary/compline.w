@@ -1,0 +1,1 @@
+{"index": 64733, "D": "the last of the seven canonical hours, or the service for it, originally occurring after the evening meal but now usually following immediately upon vespers.", "S": [], "A": []}

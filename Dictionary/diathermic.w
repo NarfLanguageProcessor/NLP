@@ -1,0 +1,1 @@
+{"index": 84586, "D": "of or relating to diathermy.", "S": [], "A": []}

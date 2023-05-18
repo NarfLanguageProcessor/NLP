@@ -1,0 +1,1 @@
+{"index": 359322, "D": "a device for recording mechanical vibrations.", "S": [], "A": []}

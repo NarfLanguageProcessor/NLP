@@ -1,0 +1,1 @@
+{"index": 142380, "D": "belonging or pertaining to a geographical division comprising the Nearctic and Palearctic regions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310393, "D": "a white, crystalline amide  of sulfanilic acid,  C6H8N2O2S, formerly used in the treatment of bacterial infections", "S": [], "A": []}

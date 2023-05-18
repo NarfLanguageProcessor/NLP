@@ -1,0 +1,1 @@
+{"index": 217448, "D": "a person not belonging to a particular group, set, party, etc.", "S": ["alien ", "foreigner ", "interloper ", "newcomer ", "stranger "], "A": ["citizen ", "local ", "national ", "native "]}

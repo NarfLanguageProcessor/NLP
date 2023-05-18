@@ -1,0 +1,1 @@
+{"index": 264737, "D": "the act of enjoying. ", "S": [], "A": []}

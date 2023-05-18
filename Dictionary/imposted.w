@@ -1,0 +1,1 @@
+{"index": 148935, "D": "a tax; tribute; duty.", "S": [], "A": []}

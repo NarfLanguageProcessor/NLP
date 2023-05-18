@@ -1,0 +1,1 @@
+{"index": 86081, "D": "to eat the principal meal of the day; have dinner. ", "S": ["consume ", "eat out ", "feast ", "lunch "], "A": ["fast "]}

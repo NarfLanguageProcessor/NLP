@@ -1,0 +1,1 @@
+{"index": 10410, "D": "to convert into an amide.", "S": [], "A": []}

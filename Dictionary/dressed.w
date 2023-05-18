@@ -1,0 +1,1 @@
+{"index": 92980, "D": "an outer garment for women and girls, consisting of bodice and skirt in one piece.", "S": ["arrayed ", "attired ", "clothed ", "covered ", "face ", "garbed ", "robed ", "sheathed "], "A": ["exposed "]}

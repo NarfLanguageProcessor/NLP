@@ -1,0 +1,1 @@
+{"index": 352304, "D": "to overthrow (something established or existing).", "S": [], "A": []}

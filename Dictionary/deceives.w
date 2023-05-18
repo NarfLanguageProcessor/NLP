@@ -1,0 +1,1 @@
+{"index": 78158, "D": "to mislead by a false appearance or statement; delude", "S": ["betray ", "cheat ", "circumvent ", "defraud ", "delude ", "disappoint ", "dupe ", "entrap ", "falsify ", "fool ", "hoodwink ", "swindle ", "trick ", "victimize "], "A": ["aid ", "assist ", "help ", "protect ", "support ", "give ", "let go ", "offer ", "release "]}

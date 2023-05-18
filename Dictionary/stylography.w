@@ -1,0 +1,1 @@
+{"index": 304547, "D": "the art of writing, tracing, drawing, etc., with a style.", "S": [], "A": []}

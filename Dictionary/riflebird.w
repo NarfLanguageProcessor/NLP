@@ -1,0 +1,1 @@
+{"index": 272754, "D": "any of several birds of paradise of Australia, having a long bill, dark plumage, and elaborate courtship displays.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 193503, "D": [], "S": ["Phosphor ", "Phosphorus ", "Venus ", "daystar ", "lucifer "], "A": ["Hesperus ", "evening star "]}

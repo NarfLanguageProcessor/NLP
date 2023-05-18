@@ -1,0 +1,1 @@
+{"index": 163773, "D": "an impetuous or roguish young man.", "S": [], "A": []}

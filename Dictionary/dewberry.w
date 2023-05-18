@@ -1,0 +1,1 @@
+{"index": 83741, "D": "(in North America) the fruit of any of several trailing blackberries of the genus Rubus.", "S": [], "A": []}

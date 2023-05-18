@@ -1,0 +1,1 @@
+{"index": 47304, "D": "a variant of Karakul. ", "S": [], "A": []}

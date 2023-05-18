@@ -1,0 +1,1 @@
+{"index": 124501, "D": "a small cleft in a hill through which a rivulet runs down to the sea", "S": [], "A": []}

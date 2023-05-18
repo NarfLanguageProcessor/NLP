@@ -1,0 +1,1 @@
+{"index": 34176, "D": "a decorative dot worn in the middle of the forehead, esp by Hindu women", "S": [], "A": []}

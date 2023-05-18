@@ -1,0 +1,1 @@
+{"index": 189713, "D": "hatred or dislike of what is new or represents change.", "S": [], "A": []}

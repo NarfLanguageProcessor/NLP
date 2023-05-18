@@ -1,0 +1,1 @@
+{"index": 180537, "D": "a shrine, chapel, or the like, erected in honor of a martyr.", "S": [], "A": []}

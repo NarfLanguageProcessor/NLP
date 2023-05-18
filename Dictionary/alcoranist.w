@@ -1,0 +1,1 @@
+{"index": 7714, "D": "a person who believes in an absolutely literal interpretation of the Quran. ", "S": [], "A": []}

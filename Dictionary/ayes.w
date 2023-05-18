@@ -1,0 +1,1 @@
+{"index": 6726, "D": "yes. ", "S": ["affirmative ", "always ", "continually ", "okay ", "vote "], "A": ["nay ", "negative "]}

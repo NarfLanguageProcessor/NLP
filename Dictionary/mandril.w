@@ -1,0 +1,1 @@
+{"index": 179067, "D": "a shaft or bar the end of which is inserted into a workpiece to hold it during machining.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232407, "D": "a small petiole, as of a leaflet in a compound leaf.", "S": [], "A": []}

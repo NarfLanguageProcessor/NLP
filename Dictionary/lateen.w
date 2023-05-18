@@ -1,0 +1,1 @@
+{"index": 168817, "D": "relating to, being, or having a triangular sail or sails on a long yard that is attached to the mast at an angle", "S": [], "A": []}

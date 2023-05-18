@@ -1,0 +1,1 @@
+{"index": 195310, "D": "to divide or spread out into branches or branchlike parts; extend into subdivisions.", "S": [], "A": []}

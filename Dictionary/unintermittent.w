@@ -1,0 +1,1 @@
+{"index": 344745, "D": "stopping or ceasing for a time; alternately ceasing and beginning again", "S": [], "A": []}

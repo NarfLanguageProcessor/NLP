@@ -1,0 +1,1 @@
+{"index": 165904, "D": "a Japanese unit of dry measure equivalent to 5.12 bushels (1.8 hectoliters).", "S": [], "A": []}

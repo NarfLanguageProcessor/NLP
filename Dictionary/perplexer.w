@@ -1,0 +1,1 @@
+{"index": 231821, "D": "to cause to be puzzled or bewildered over what is not understood or certain; confuse mentally", "S": [], "A": []}

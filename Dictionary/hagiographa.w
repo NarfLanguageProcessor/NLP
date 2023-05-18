@@ -1,0 +1,1 @@
+{"index": 132230, "D": "the third of the three Jewish divisions of the Old Testament, variously arranged, but usually comprising the Psalms, Proverbs, Job, Song of Solomon, Ruth, Lamentations, Ecclesiastes, Esther, Daniel, Ezra, Nehemiah, and Chronicles.", "S": [], "A": []}

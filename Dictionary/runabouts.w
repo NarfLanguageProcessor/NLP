@@ -1,0 +1,1 @@
+{"index": 275614, "D": "a small, light automobile or other vehicle, usually with an open top; roadster.", "S": [], "A": []}

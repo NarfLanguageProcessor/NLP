@@ -1,0 +1,1 @@
+{"index": 327655, "D": "to make or become calm or calmer", "S": [], "A": []}

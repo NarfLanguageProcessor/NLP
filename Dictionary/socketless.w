@@ -1,0 +1,1 @@
+{"index": 296229, "D": "a hollow part or piece for receiving and holding some part or thing.", "S": [], "A": []}

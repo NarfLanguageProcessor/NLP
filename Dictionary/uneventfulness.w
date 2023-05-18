@@ -1,0 +1,1 @@
+{"index": 341576, "D": "not eventful;  lacking in important or striking occurrences", "S": [], "A": []}

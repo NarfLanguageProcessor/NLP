@@ -1,0 +1,1 @@
+{"index": 144468, "D": "an ornamental plant  that is grown indoors or adapts well to indoor culture.", "S": [], "A": []}

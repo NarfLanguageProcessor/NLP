@@ -1,0 +1,1 @@
+{"index": 46304, "D": "(formerly in China) a large wooden collar worn by petty criminals as a punishment", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259737, "D": "a dowsing technique using a pendulum to detect the energy fields that are emitted by all forms of matter", "S": ["transmission ", "wireless "], "A": []}

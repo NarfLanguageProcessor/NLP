@@ -1,0 +1,1 @@
+{"index": 209966, "D": "compressed or flattened in a way opposite to the usual, as back to front instead of side to side.", "S": [], "A": []}

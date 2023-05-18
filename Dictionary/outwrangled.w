@@ -1,0 +1,1 @@
+{"index": 217960, "D": "to argue or dispute, especially in a noisy or angry manner.", "S": [], "A": []}

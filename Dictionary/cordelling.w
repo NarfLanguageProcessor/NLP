@@ -1,0 +1,1 @@
+{"index": 68915, "D": "a heavy rope formerly used for towing boats on rivers in Canada and the U.S.", "S": [], "A": []}

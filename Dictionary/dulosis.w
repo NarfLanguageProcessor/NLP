@@ -1,0 +1,1 @@
+{"index": 94016, "D": "the enslavement of an ant colony or its members by ants of a different species.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64774, "D": "to make or form by combining things, parts, or elements", "S": ["belong to ", "build ", "comprise ", "consist of ", "constitute ", "construct ", "form "], "A": ["break ", "demolish ", "destroy ", "dismantle ", "raze ", "ruin "]}

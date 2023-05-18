@@ -1,0 +1,1 @@
+{"index": 207887, "D": "a person who thinks,  as in a specified way or manner", "S": [], "A": []}

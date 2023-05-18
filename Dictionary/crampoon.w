@@ -1,0 +1,1 @@
+{"index": 72007, "D": "a spiked iron plate worn on boots or shoes for aid in climbing or to prevent slipping on ice, snow, etc.", "S": [], "A": []}

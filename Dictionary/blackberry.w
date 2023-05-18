@@ -1,0 +1,1 @@
+{"index": 35447, "D": "the fruit, black or very dark purple when ripe, of certain species of the genus Rubus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228818, "D": "a person who engages in pederasty.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37015, "D": "a person skilled in the use of small craft.", "S": ["ferryman ", "gondolier ", "oar "], "A": []}

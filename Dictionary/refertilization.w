@@ -1,0 +1,1 @@
+{"index": 265018, "D": "an act, process, or instance of fertilizing.", "S": [], "A": []}

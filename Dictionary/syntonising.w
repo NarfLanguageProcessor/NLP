@@ -1,0 +1,1 @@
+{"index": 292090, "D": "to render syntonic; tune to the same frequency.", "S": [], "A": []}

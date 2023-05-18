@@ -1,0 +1,1 @@
+{"index": 89126, "D": "to divert or amuse (oneself).", "S": [], "A": []}

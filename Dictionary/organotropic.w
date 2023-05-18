@@ -1,0 +1,1 @@
+{"index": 214473, "D": "the attraction of microorganisms or chemical substances to particular organs or tissues of the body.", "S": [], "A": []}

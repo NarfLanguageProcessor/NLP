@@ -1,0 +1,1 @@
+{"index": 39493, "D": "the part of the arm from the shoulder to the elbow.", "S": [], "A": []}

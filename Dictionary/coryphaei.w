@@ -1,0 +1,1 @@
+{"index": 69147, "D": "the leader of the chorus in the ancient Greek drama.", "S": [], "A": []}

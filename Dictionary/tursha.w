@@ -1,0 +1,1 @@
+{"index": 332944, "D": "an ancient people of the Mediterranean region, variously identified with the Lydians, Etruscans, or Trojans.", "S": [], "A": []}

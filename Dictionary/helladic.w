@@ -1,0 +1,1 @@
+{"index": 135650, "D": "of or relating to the Bronze Age culture on the mainland of ancient Greece c2900\u20131100 b.c.", "S": [], "A": []}

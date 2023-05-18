@@ -1,0 +1,1 @@
+{"index": 30897, "D": "(used as a mild oath expressing astonishment, dismay, disbelief, or the like).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186757, "D": "a skirt, dress, or coat, of mid-calf length.", "S": ["dress ", "kilt ", "petticoat ", "sarong "], "A": ["center ", "inside ", "interior ", "middle "]}

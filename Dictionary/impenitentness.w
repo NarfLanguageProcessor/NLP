@@ -1,0 +1,1 @@
+{"index": 148457, "D": "not feeling regret about one's sin or sins; obdurate.", "S": [], "A": []}

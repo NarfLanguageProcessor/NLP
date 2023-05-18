@@ -1,0 +1,1 @@
+{"index": 91858, "D": "an ornamental hanging placed at the back of an altar or at the sides of the chancel.", "S": [], "A": []}

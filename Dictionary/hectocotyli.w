@@ -1,0 +1,1 @@
+{"index": 135146, "D": "a modified arm of the male of certain cephalopods that is used to transfer sperm to the female.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257553, "D": "of, relating to, or marking the completion of a period of four hundred years.", "S": [], "A": []}

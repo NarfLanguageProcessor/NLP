@@ -1,0 +1,1 @@
+{"index": 103248, "D": "equal distance. ", "S": ["heart ", "hub ", "place "], "A": ["exterior ", "exteriority ", "outside "]}

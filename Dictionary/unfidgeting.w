@@ -1,0 +1,1 @@
+{"index": 342236, "D": "to move about restlessly, nervously, or impatiently.", "S": [], "A": []}

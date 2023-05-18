@@ -1,0 +1,1 @@
+{"index": 10954, "D": "to write off a cost of (an asset) gradually.", "S": [], "A": []}

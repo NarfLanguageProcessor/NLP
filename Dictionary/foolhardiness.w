@@ -1,0 +1,1 @@
+{"index": 116107, "D": "recklessly or thoughtlessly bold; foolishly rash or venturesome.", "S": ["brashness ", "carelessness ", "heedlessness ", "impetuousness ", "incautiousness ", "rashness ", "temerity "], "A": ["caution "]}

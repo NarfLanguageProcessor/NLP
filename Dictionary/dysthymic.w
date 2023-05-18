@@ -1,0 +1,1 @@
+{"index": 89754, "D": "depression; despondency or a tendency to be despondent.", "S": [], "A": []}

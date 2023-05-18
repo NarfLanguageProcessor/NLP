@@ -1,0 +1,1 @@
+{"index": 21128, "D": "a former native kingdom and British colony in western Africa", "S": [], "A": []}

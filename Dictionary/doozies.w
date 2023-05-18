@@ -1,0 +1,1 @@
+{"index": 91593, "D": "something that is extraordinary or outstanding of its kind", "S": ["beauty ", "humdinger ", "killer ", "lulu ", "smash hit ", "something "], "A": []}

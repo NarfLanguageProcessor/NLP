@@ -1,0 +1,1 @@
+{"index": 47842, "D": "of, relating to, or affecting the heart and lungs", "S": [], "A": []}

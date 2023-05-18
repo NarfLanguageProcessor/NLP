@@ -1,0 +1,1 @@
+{"index": 1675, "D": "to bring to its goal or conclusion; carry out; perform; finish", "S": ["feasible ", "obtainable ", "practicable ", "reachable "], "A": ["impossible ", "unreasonable "]}

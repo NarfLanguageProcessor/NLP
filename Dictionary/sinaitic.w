@@ -1,0 +1,1 @@
+{"index": 291230, "D": "of or relating to the Sinai Peninsula", "S": [], "A": []}

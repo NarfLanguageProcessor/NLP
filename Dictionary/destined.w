@@ -1,0 +1,1 @@
+{"index": 82939, "D": "bound for a certain destination", "S": ["coming ", "designed ", "doomed ", "intended "], "A": ["distant ", "remote ", "unsettled "]}

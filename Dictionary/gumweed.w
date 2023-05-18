@@ -1,0 +1,1 @@
+{"index": 131315, "D": "any of various New World composite plants of the genus Grindelia, having yellow flower heads and covered with a viscid secretion.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62251, "D": "the brandy distilled in and shipped from the legally delimited area surrounding the town of Cognac, in W central France.", "S": ["whiskey "], "A": []}

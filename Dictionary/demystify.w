@@ -1,0 +1,1 @@
+{"index": 80649, "D": "to rid of mystery or obscurity; clarify", "S": ["disparage ", "mock ", "puncture "], "A": ["flatter ", "praise "]}

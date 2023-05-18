@@ -1,0 +1,1 @@
+{"index": 9667, "D": "(in southern India) a holy person of the Vaishnava  sect.", "S": [], "A": []}

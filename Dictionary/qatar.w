@@ -1,0 +1,1 @@
+{"index": 257410, "D": "an independent emirate on the Persian Gulf; under British protection until 1971. 8,500 sq. mi. (22,000 sq. km). Capital", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203602, "D": "equivalence (defs. 1, 2). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139053, "D": "a synthetic compound, CH4N2O2, used in cancer therapy.", "S": [], "A": []}

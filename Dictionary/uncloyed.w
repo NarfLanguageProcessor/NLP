@@ -1,0 +1,1 @@
+{"index": 337080, "D": "to weary by an excess of food, sweetness, pleasure, etc.; surfeit; satiate.", "S": [], "A": []}

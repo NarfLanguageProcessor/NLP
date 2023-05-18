@@ -1,0 +1,1 @@
+{"index": 207112, "D": "(of a school, education system, etc) admitting all pupils regardless of ability; inclusive", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206515, "D": "to take into one's possession (something offered or delivered)", "S": [], "A": []}

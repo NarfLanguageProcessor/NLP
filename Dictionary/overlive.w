@@ -1,0 +1,1 @@
+{"index": 220098, "D": "to live longer than (another person)", "S": [], "A": []}

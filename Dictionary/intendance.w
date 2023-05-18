@@ -1,0 +1,1 @@
+{"index": 154332, "D": "an administrative department, especially one in the government system introduced by the French statesman Richelieu during the 17th century, or the officials in charge of it.", "S": ["conduct "], "A": ["mismanagement ", "neglect "]}

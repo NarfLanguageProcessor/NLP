@@ -1,0 +1,1 @@
+{"index": 160376, "D": "to make Japanese or Japaneselike, as in design, culture, or usability; imbue with Japanese characteristics", "S": [], "A": []}

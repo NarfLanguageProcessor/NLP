@@ -1,0 +1,1 @@
+{"index": 353369, "D": "lacking in freshness or effectiveness because of constant use or excessive repetition; hackneyed; stale", "S": [], "A": []}

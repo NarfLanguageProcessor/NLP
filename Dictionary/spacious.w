@@ -1,0 +1,1 @@
+{"index": 298182, "D": "containing much space,  as a house, room, or vehicle; amply large.", "S": ["cavernous ", "comfortable ", "roomy ", "vast "], "A": ["narrow "]}

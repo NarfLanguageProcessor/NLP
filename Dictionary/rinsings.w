@@ -1,0 +1,1 @@
+{"index": 273107, "D": "an act or instance of rinsing. ", "S": ["bath ", "bathing ", "laundry ", "soaking "], "A": []}

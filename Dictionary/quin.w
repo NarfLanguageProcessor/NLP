@@ -1,0 +1,1 @@
+{"index": 258636, "D": "variant of quino-  before a vowel.", "S": [], "A": []}

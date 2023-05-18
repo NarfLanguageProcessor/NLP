@@ -1,0 +1,1 @@
+{"index": 73762, "D": "a band  or stripe that encircles horizontally.", "S": [], "A": []}

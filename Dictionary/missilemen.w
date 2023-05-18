@@ -1,0 +1,1 @@
+{"index": 190049, "D": "a person who builds, designs, launches, or operates guided missiles. ", "S": ["missile engineer ", "rocket engineer ", "rocket man ", "rocket technician ", "rocketeer ", "rocketer "], "A": []}

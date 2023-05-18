@@ -1,0 +1,1 @@
+{"index": 154902, "D": "the feeling of a person whose attention, concern, or curiosity is particularly engaged by something", "S": ["business ", "cash ", "financing ", "investment ", "money "], "A": ["debt "]}

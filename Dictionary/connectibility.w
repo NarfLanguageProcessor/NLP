@@ -1,0 +1,1 @@
+{"index": 66502, "D": "to join, link, or fasten together; unite or bind", "S": [], "A": []}

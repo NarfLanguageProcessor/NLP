@@ -1,0 +1,1 @@
+{"index": 365881, "D": "a plain-weave cotton fabric with slightly raised two-sided nap", "S": [], "A": []}

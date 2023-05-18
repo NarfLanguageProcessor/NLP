@@ -1,0 +1,1 @@
+{"index": 14875, "D": "an enzyme or drug that blocks the action of acetylcholinesterase, thereby increasing the stimulating effect of acetylcholine on the muscles.", "S": [], "A": []}

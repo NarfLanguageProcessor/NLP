@@ -1,0 +1,1 @@
+{"index": 365768, "D": "having a will  (usually used in combination)", "S": ["genetic ", "inborn ", "transmitted "], "A": ["acquired "]}

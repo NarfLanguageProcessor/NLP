@@ -1,0 +1,1 @@
+{"index": 191953, "D": "a dog of mixed or indeterminate breed.", "S": [], "A": []}

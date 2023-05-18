@@ -1,0 +1,1 @@
+{"index": 213200, "D": "not transparent or translucent; impenetrable to light; not allowing light to pass through.", "S": ["blurred ", "cloudy ", "dirty ", "dull ", "frosty ", "gloomy ", "hazy ", "impenetrable ", "murky ", "thick "], "A": ["bright ", "clear ", "intelligent ", "light ", "luminous ", "smart ", "sparkling ", "sunny ", "thin ", "vivacious "]}

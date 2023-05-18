@@ -1,0 +1,1 @@
+{"index": 313614, "D": "a person appointed to act for another; deputy.", "S": [], "A": []}

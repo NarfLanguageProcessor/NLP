@@ -1,0 +1,1 @@
+{"index": 158369, "D": "not resistible; incapable of being resisted or withstood", "S": [], "A": []}

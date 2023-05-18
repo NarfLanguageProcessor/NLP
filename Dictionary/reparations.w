@@ -1,0 +1,1 @@
+{"index": 268017, "D": "compensation in money, material, labor, etc., payable by a defeated country to another country or to an individual for loss suffered during or as a result of war", "S": ["costs ", "damages ", "outlay ", "overhead "], "A": []}

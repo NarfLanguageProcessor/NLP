@@ -1,0 +1,1 @@
+{"index": 336859, "D": "happening constantly or habitually", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 115297, "D": [], "S": ["soften "], "A": ["appear ", "assemble ", "coagulate ", "concentrate ", "continue ", "integrate ", "marry ", "put together ", "resolve ", "solidify ", "unite "]}

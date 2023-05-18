@@ -1,0 +1,1 @@
+{"index": 51999, "D": "any decorative product, handiwork, etc., in which parts are looped or woven together, like the links of a chain. ", "S": [], "A": []}

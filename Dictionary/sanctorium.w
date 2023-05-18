@@ -1,0 +1,1 @@
+{"index": 277691, "D": [], "S": ["altar ", "chancel ", "holy place ", "sacrarium ", "sanctum ", "shrine ", "temple "], "A": []}

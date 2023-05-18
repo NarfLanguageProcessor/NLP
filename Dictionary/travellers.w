@@ -1,0 +1,1 @@
+{"index": 328596, "D": "a person or thing that travels. ", "S": ["caravan ", "crew ", "cruise ", "crusade ", "excursion ", "exploration ", "jaunt ", "outing ", "patrol ", "quest ", "safari ", "squadron ", "tour ", "travel ", "trek ", "trip ", "undertaking "], "A": ["blockage ", "delay ", "halt ", "hindrance ", "slowing ", "stoppage "]}

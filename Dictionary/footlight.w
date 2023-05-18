@@ -1,0 +1,1 @@
+{"index": 116198, "D": "the lights  at the front of a stage that are nearly on a level with the feet  of the performers.", "S": ["comedy ", "farce ", "melodrama ", "play ", "production ", "scene ", "show ", "theater ", "tragedy "], "A": ["tragedy "]}

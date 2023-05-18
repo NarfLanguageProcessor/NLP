@@ -1,0 +1,1 @@
+{"index": 206632, "D": "the act of reinforcing.", "S": [], "A": []}

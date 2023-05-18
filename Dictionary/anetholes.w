@@ -1,0 +1,1 @@
+{"index": 12606, "D": "a white, crystalline powder, C10H12O, having a sweet taste, obtained from anise or fennel oils or synthesized", "S": [], "A": []}

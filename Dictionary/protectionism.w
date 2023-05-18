@@ -1,0 +1,1 @@
+{"index": 253382, "D": "the theory, practice, or system of fostering or developing domestic industries by protecting them from foreign competition through duties or quotas imposed on importations.", "S": [], "A": []}

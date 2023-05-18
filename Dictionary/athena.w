@@ -1,0 +1,1 @@
+{"index": 22532, "D": "Compare Minerva. ", "S": [], "A": []}

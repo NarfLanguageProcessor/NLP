@@ -1,0 +1,1 @@
+{"index": 202588, "D": "belief as to the truth of something", "S": [], "A": []}

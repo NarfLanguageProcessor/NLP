@@ -1,0 +1,1 @@
+{"index": 265973, "D": "to perceive by the ear", "S": [], "A": []}

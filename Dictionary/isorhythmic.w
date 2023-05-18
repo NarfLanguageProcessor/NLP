@@ -1,0 +1,1 @@
+{"index": 159225, "D": "(of medieval motets) having a cantus firmus that is repeated according to a strict system of internal reiterated note values", "S": [], "A": []}

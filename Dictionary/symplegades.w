@@ -1,0 +1,1 @@
+{"index": 291051, "D": "a pair of rocky islands, at the entrance to the Black Sea, that often clashed together", "S": [], "A": []}

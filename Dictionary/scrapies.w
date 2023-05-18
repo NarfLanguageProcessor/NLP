@@ -1,0 +1,1 @@
+{"index": 281582, "D": "a usually fatal brain disease of sheep, characterized by twitching of the neck and head, grinding of the teeth, and scraping of itching portions of skin against fixed objects with a subsequent loss of wool", "S": [], "A": []}

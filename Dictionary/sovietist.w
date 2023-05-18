@@ -1,0 +1,1 @@
+{"index": 298070, "D": "a soviet  system of government.", "S": [], "A": []}

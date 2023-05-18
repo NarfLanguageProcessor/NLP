@@ -1,0 +1,1 @@
+{"index": 347545, "D": "a person who is under medical care or treatment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308681, "D": "situated, placed, or lying face to face with something else or each other, or in corresponding positions with relation to an intervening line, space, or thing", "S": [], "A": []}

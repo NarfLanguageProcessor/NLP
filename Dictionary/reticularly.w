@@ -1,0 +1,1 @@
+{"index": 270440, "D": "having the form of a net; netlike.", "S": [], "A": []}

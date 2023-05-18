@@ -1,0 +1,1 @@
+{"index": 229132, "D": "another name for aid climbing", "S": ["fix "], "A": ["detach ", "let go ", "loose ", "loosen ", "release ", "unfasten "]}

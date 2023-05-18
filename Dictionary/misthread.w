@@ -1,0 +1,1 @@
+{"index": 190248, "D": "a fine cord of flax, cotton, or other fibrous material spun out to considerable length, especially when composed of two or more filaments twisted together.", "S": [], "A": []}

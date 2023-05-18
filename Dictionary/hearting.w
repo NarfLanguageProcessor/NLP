@@ -1,0 +1,1 @@
+{"index": 134874, "D": "a hollow, pumplike organ of blood circulation, composed mainly of rhythmically contractile smooth muscle, located in the chest between the lungs and slightly to the left and consisting of four chambers", "S": [], "A": []}

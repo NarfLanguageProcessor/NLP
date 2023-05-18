@@ -1,0 +1,1 @@
+{"index": 174523, "D": "a mineral, iron arsenide, FeAs2, occurring in steel-gray prismatic crystals.", "S": [], "A": []}

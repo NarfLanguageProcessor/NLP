@@ -1,0 +1,1 @@
+{"index": 162340, "D": "the sixth month of the year, containing 30 days. Abbreviation", "S": [], "A": []}

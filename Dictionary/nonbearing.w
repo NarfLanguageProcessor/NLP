@@ -1,0 +1,1 @@
+{"index": 201622, "D": "(of a wall or partition) supporting no load other than its own weight.", "S": [], "A": []}

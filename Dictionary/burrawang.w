@@ -1,0 +1,1 @@
+{"index": 43265, "D": "any of several Australian cycads of the genus Macrozamia, having an edible nut", "S": [], "A": []}

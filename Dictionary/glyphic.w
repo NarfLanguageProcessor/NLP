@@ -1,0 +1,1 @@
+{"index": 126376, "D": "a pictograph or hieroglyph.", "S": [], "A": []}

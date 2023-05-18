@@ -1,0 +1,1 @@
+{"index": 341793, "D": "to atone for; make amends or reparation for", "S": [], "A": []}

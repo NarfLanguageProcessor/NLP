@@ -1,0 +1,1 @@
+{"index": 157704, "D": "a member of a numerous West African coastal people.", "S": [], "A": []}

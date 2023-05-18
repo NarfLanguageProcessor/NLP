@@ -1,0 +1,1 @@
+{"index": 303452, "D": "a horse race over a turf course furnished with artificial ditches, hedges, and other obstacles over which the horses must jump.", "S": ["exploration ", "hunting ", "inquiry ", "interrogation ", "investigation ", "probe ", "prosecution ", "pursuit ", "quest ", "race ", "raid "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208158, "D": "the state or condition of being a vagrant", "S": [], "A": []}

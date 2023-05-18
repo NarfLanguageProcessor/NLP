@@ -1,0 +1,1 @@
+{"index": 29111, "D": "a person or thing that batters. ", "S": [], "A": []}

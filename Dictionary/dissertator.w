@@ -1,0 +1,1 @@
+{"index": 89500, "D": "to discuss a subject fully and learnedly; discourse.", "S": [], "A": []}

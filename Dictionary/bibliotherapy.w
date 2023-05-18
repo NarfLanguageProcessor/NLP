@@ -1,0 +1,1 @@
+{"index": 33329, "D": "the use of reading as an ameliorative adjunct to therapy. ", "S": [], "A": []}

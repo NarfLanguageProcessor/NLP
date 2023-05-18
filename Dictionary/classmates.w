@@ -1,0 +1,1 @@
+{"index": 59439, "D": "a member of the same class  at a school or college.", "S": ["acquaintance ", "ally ", "associate ", "buddy ", "colleague ", "companion ", "cousin ", "partner ", "roommate "], "A": ["antagonist ", "enemy ", "foe ", "opponent ", "stranger "]}

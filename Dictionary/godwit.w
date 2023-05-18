@@ -1,0 +1,1 @@
+{"index": 127391, "D": "any of several large, widely distributed shorebirds of the genus Limosa, as the New World L. haemastica(Hudsonian godwit ), having a long bill that curves upward slightly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 805, "D": "a scraped spot or area; the result of rubbing or abrading", "S": ["scrape "], "A": []}

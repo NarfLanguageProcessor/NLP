@@ -1,0 +1,1 @@
+{"index": 64366, "D": "(in the southwestern U.S.) a male companion or partner.", "S": [], "A": []}

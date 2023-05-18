@@ -1,0 +1,1 @@
+{"index": 52288, "D": "any of numerous Old World lizards of the family Chamaeleontidae, characterized by the ability to change the color of their skin, very slow locomotion, and a projectile tongue.", "S": ["opportunist ", "pretender ", "timeserver ", "trimmer "], "A": []}

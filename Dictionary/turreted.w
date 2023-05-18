@@ -1,0 +1,1 @@
+{"index": 332914, "D": "furnished with a turret  or turrets. ", "S": [], "A": []}

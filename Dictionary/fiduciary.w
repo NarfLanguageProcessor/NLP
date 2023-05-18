@@ -1,0 +1,1 @@
+{"index": 112307, "D": "a person to whom property or power is entrusted for the benefit of another", "S": ["curator ", "depositary ", "guardian ", "trustee "], "A": []}

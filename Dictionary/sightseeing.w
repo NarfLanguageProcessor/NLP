@@ -1,0 +1,1 @@
+{"index": 290023, "D": "the act of visiting and seeing  places and objects of interest.", "S": ["driving ", "excursion ", "flying ", "movement ", "navigation ", "ride ", "sailing ", "tour ", "transit ", "trek ", "trip "], "A": []}

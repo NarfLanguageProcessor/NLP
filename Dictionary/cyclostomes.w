@@ -1,0 +1,1 @@
+{"index": 57260, "D": "belonging or pertaining to the Cyclostomata, a subclass of jawless, eellike, marine vertebrates of the class Agnatha, comprising the lampreys and hagfishes.", "S": [], "A": []}

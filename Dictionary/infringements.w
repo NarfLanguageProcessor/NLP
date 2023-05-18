@@ -1,0 +1,1 @@
+{"index": 152365, "D": "a breach or infraction, as of a law, right, or obligation; violation; transgression.", "S": ["infraction ", "invasion ", "transgression ", "violation "], "A": ["obedience "]}

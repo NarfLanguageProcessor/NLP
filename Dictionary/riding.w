@@ -1,0 +1,1 @@
+{"index": 272698, "D": "the act of a person or thing that rides. ", "S": ["seated "], "A": ["afoot ", "dismounted "]}

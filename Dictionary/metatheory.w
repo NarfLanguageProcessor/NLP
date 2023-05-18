@@ -1,0 +1,1 @@
+{"index": 185043, "D": "a theory devised to analyze a theory.", "S": [], "A": []}

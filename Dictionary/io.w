@@ -1,0 +1,1 @@
+{"index": 157405, "D": "a small, solitary hawk, Buteo solitarius, having two plumage phases and breeding only on the Island of Hawaii, where it is a rare species and the only indigenous bird of prey", "S": [], "A": []}

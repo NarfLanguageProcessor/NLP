@@ -1,0 +1,1 @@
+{"index": 44985, "D": "a Hebrew leader, sent as a spy into the land of Canaan. Numbers 13", "S": [], "A": []}

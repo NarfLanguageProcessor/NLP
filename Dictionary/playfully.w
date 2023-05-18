@@ -1,0 +1,1 @@
+{"index": 238751, "D": "full of play or fun; sportive; frolicsome.", "S": ["blithely ", "brightly ", "gaily ", "genially ", "gladly ", "gleefully ", "happily ", "joyfully ", "merrily ", "optimistically ", "pleasantly ", "readily ", "willingly "], "A": ["sadly ", "unhappily "]}

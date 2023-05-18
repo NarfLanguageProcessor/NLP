@@ -1,0 +1,1 @@
+{"index": 174149, "D": "causing feelings of loathing;  disgusting; revolting; repulsive", "S": ["abhorrent ", "deplorable ", "disgusting ", "horrible ", "obnoxious ", "odious ", "repugnant ", "revolting ", "slimy ", "vile "], "A": ["agreeable ", "delightful ", "good ", "kind ", "likeable ", "nice ", "pleasant ", "pleasing "]}

@@ -1,0 +1,1 @@
+{"index": 358889, "D": "an inflorescence in which the flowers are arranged in a seeming whorl, consisting in fact of a pair of opposite axillary, usually sessile, cymes, as in many mints.", "S": [], "A": []}

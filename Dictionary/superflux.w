@@ -1,0 +1,1 @@
+{"index": 311887, "D": "a flowing or flow.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236493, "D": "any goosefoot of the genus Chenopodium, especially C. album.", "S": [], "A": []}

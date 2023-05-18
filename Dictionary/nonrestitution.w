@@ -1,0 +1,1 @@
+{"index": 206810, "D": "reparation made by giving an equivalent or compensation for loss, damage, or injury caused; indemnification.", "S": [], "A": []}

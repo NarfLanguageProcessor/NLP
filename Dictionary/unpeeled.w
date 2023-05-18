@@ -1,0 +1,1 @@
+{"index": 347609, "D": "to strip (something) of its skin, rind, bark, etc.", "S": [], "A": []}

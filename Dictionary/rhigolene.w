@@ -1,0 +1,1 @@
+{"index": 271949, "D": "a petroleum distillate intermediate between cymogene and gasoline, formerly used to produce local anesthesia by freezing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262596, "D": "the act of recapitulating  or the state of being recapitulated. ", "S": ["peroration ", "summary "], "A": []}

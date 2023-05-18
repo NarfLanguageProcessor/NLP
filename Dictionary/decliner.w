@@ -1,0 +1,1 @@
+{"index": 78499, "D": "to withhold or deny consent to do, enter into or upon, etc.; refuse", "S": [], "A": []}

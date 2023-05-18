@@ -1,0 +1,1 @@
+{"index": 279074, "D": "to rescue from danger or possible harm, injury, or loss", "S": ["accumulator ", "collector ", "gatherer ", "hoarder ", "magpie ", "squirrel "], "A": []}

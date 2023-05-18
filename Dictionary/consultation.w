@@ -1,0 +1,1 @@
+{"index": 67169, "D": "the act of consulting;  conference.", "S": ["appointment ", "conference ", "deliberation ", "dialogue ", "discussion ", "examination ", "hearing ", "interview ", "meeting ", "session "], "A": []}

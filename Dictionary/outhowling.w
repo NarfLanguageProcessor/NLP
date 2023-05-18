@@ -1,0 +1,1 @@
+{"index": 216807, "D": "to utter a loud, prolonged, mournful cry, as that of a dog or wolf.", "S": [], "A": []}

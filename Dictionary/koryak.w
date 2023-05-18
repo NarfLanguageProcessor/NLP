@@ -1,0 +1,1 @@
+{"index": 166097, "D": "a member of a Paleo-Asiatic people of northeastern Siberia.", "S": [], "A": []}

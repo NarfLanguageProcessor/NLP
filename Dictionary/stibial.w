@@ -1,0 +1,1 @@
+{"index": 304235, "D": "of or resembling antimony.", "S": [], "A": []}

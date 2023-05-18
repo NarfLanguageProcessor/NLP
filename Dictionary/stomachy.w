@@ -1,0 +1,1 @@
+{"index": 305094, "D": "paunchy; having a prominent stomach. ", "S": [], "A": []}

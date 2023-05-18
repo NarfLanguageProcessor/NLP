@@ -1,0 +1,1 @@
+{"index": 52277, "D": "(of wine) at room temperature", "S": [], "A": []}

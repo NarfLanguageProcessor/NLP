@@ -1,0 +1,1 @@
+{"index": 279239, "D": "a powerful neurotoxin, C10H17N7O4, produced by the dinoflagellate Gonyaulax catenella, the causative agent of red tide.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43526, "D": "a person who breaks up something", "S": ["bankrupt ", "destitute ", "insolvent ", "penniless "], "A": ["rich ", "solvent ", "wealthy "]}

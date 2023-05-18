@@ -1,0 +1,1 @@
+{"index": 167226, "D": "the form used in speaking of or to a woman having the title of Lady (usually preceded by her or your).", "S": ["excellency ", "grace ", "honor ", "lordship ", "majesty ", "reverence ", "royalty ", "sire ", "worship "], "A": ["disrespect "]}

@@ -1,0 +1,1 @@
+{"index": 303608, "D": "the ascending axis of a plant, whether above or below ground, which ordinarily grows in an opposite direction to the root or descending axis.", "S": ["appearing ", "deriving ", "emanating ", "emerging ", "ensuing ", "flowing ", "following ", "issuing ", "originating ", "proceeding ", "resulting ", "springing "], "A": []}

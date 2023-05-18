@@ -1,0 +1,1 @@
+{"index": 88131, "D": "defective development of an organ, as of the gonads in Klinefelter's syndrome.", "S": [], "A": []}

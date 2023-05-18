@@ -1,0 +1,1 @@
+{"index": 81321, "D": "the calcified tissue surrounding the pulp cavity of a tooth and comprising the bulk of the tooth", "S": [], "A": []}

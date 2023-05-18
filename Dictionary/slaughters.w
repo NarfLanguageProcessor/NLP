@@ -1,0 +1,1 @@
+{"index": 293763, "D": "the killing or butchering of cattle, sheep, etc., especially for food.", "S": ["annihilation ", "bloodbath ", "bloodshed ", "butchery ", "carnage ", "destruction ", "extermination ", "liquidation ", "massacre ", "murder ", "slaying "], "A": ["birth "]}

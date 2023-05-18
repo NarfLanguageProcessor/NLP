@@ -1,0 +1,1 @@
+{"index": 94560, "D": "impervious to or free of dust. ", "S": [], "A": []}

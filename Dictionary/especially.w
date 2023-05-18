@@ -1,0 +1,1 @@
+{"index": 104403, "D": "particularly; exceptionally;  markedly", "S": ["chiefly ", "exclusively ", "notably ", "principally ", "specially ", "specifically "], "A": ["broadly "]}

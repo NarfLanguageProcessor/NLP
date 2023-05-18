@@ -1,0 +1,1 @@
+{"index": 215801, "D": "designated by a presidential commission to be the lone assassin of John F. Kennedy.", "S": [], "A": []}

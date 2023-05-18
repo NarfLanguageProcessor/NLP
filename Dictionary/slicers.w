@@ -1,0 +1,1 @@
+{"index": 294002, "D": "a thin-bladed knife or implement used for slicing,  especially food", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 56425, "D": "the science or study of the effect of time, especially rhythms, on living systems.", "S": [], "A": []}

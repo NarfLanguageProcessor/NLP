@@ -1,0 +1,1 @@
+{"index": 197207, "D": "of or relating to a person's birth", "S": ["endemic ", "indigenous ", "natural "], "A": ["auxiliary ", "minor ", "secondary ", "unimportant "]}

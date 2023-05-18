@@ -1,0 +1,1 @@
+{"index": 296761, "D": "having a single, undivided hoof on each foot, as a horse.", "S": [], "A": []}

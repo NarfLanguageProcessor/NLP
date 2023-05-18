@@ -1,0 +1,1 @@
+{"index": 6154, "D": "to oppress or wrong grievously; injure by injustice.", "S": ["oppress "], "A": ["help "]}

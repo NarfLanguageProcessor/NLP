@@ -1,0 +1,1 @@
+{"index": 12228, "D": "of or in time long past, especially before the end of the Western Roman Empire a.d. 476", "S": ["age ", "archaicism ", "archaism ", "hoariness ", "venerableness "], "A": ["convention ", "modernity ", "newness ", "now "]}

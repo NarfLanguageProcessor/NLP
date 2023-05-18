@@ -1,0 +1,1 @@
+{"index": 12291, "D": "a region in S Spain, bordering on the Atlantic Ocean and the Mediterranean Sea. 33,712 sq. mi. (87,314 sq. km).", "S": [], "A": []}

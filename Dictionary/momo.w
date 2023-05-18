@@ -1,0 +1,1 @@
+{"index": 191667, "D": "a steamed or fried dumpling, typical of South Asian cuisine.", "S": [], "A": []}

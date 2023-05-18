@@ -1,0 +1,1 @@
+{"index": 94041, "D": "to make speechless with amazement; astonish.", "S": [], "A": []}

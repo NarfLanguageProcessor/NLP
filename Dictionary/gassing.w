@@ -1,0 +1,1 @@
+{"index": 122443, "D": "an affecting, overcoming, or poisoning with gas  or fumes.", "S": ["beheading ", "crucifixion ", "decapitation ", "electrocution ", "hanging ", "hit ", "impalement ", "punishment ", "shooting ", "strangulation "], "A": ["abandoning ", "disregard ", "failure ", "forgetting ", "ignorance ", "leaving ", "neglect "]}

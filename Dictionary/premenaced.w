@@ -1,0 +1,1 @@
+{"index": 248363, "D": "something that threatens to cause evil, harm, injury, etc.; a threat", "S": [], "A": []}

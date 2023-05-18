@@ -1,0 +1,1 @@
+{"index": 326803, "D": "a house in the city, especially as distinguished from a house in the country owned by the same person.", "S": ["apartment ", "co-op ", "condo "], "A": []}

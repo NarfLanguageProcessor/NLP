@@ -1,0 +1,1 @@
+{"index": 279871, "D": "a person incapable of serious, connected thought.", "S": ["clodpoll "], "A": ["brain ", "genius "]}

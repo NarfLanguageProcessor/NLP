@@ -1,0 +1,1 @@
+{"index": 123331, "D": "having buds; increasing by budding.", "S": [], "A": []}

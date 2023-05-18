@@ -1,0 +1,1 @@
+{"index": 109768, "D": "a tail, end, or part shaped like a fan.", "S": [], "A": []}

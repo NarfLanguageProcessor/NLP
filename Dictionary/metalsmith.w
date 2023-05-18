@@ -1,0 +1,1 @@
+{"index": 184787, "D": "a person skilled in making articles of metal.", "S": [], "A": []}

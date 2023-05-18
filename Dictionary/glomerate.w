@@ -1,0 +1,1 @@
+{"index": 126562, "D": "compactly clustered.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 280994, "D": "a brand name for a sclerometer that determines the hardness of a material by measuring the rebound of a standard ball dropped on the material from a fixed height.", "S": [], "A": []}

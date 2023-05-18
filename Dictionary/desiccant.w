@@ -1,0 +1,1 @@
+{"index": 82545, "D": "desiccating  or drying, as a medicine.", "S": ["arid ", "bare ", "barren ", "dehydrated ", "dusty ", "parched ", "stale ", "torrid "], "A": ["damp ", "full ", "moist ", "wet "]}

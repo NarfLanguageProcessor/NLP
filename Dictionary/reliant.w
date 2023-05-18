@@ -1,0 +1,1 @@
+{"index": 266880, "D": "having or showing dependence", "S": ["relying ", "subservient ", "susceptible "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45501, "D": "a device for separating isotopes by atomic mass, operating in a manner similar to a mass spectrograph.", "S": [], "A": []}

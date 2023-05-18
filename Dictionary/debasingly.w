@@ -1,0 +1,1 @@
+{"index": 77716, "D": "to reduce in quality or value; adulterate", "S": [], "A": []}

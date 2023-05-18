@@ -1,0 +1,1 @@
+{"index": 84003, "D": "a game in which a toplike object is spun, thrown, and caught by or balanced on and whirled along a string the ends of which are fastened to the ends of two sticks that are manipulated by hand.", "S": [], "A": []}

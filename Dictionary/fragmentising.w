@@ -1,0 +1,1 @@
+{"index": 118225, "D": "to break (something) into fragments;  break (something) apart.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352129, "D": "unusual, extraordinary, or curious; odd; queer", "S": [], "A": []}

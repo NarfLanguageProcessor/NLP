@@ -1,0 +1,1 @@
+{"index": 114636, "D": "splinters; small pieces or fragments.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17587, "D": "(in ancient Rome) a subordinate official of a magistrate or of the court.", "S": [], "A": []}

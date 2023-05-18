@@ -1,0 +1,1 @@
+{"index": 133223, "D": "to load  (cartridges or other ammunition) by hand. ", "S": [], "A": []}

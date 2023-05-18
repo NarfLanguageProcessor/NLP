@@ -1,0 +1,1 @@
+{"index": 194536, "D": "any of a class of glycoproteins found in saliva, gastric juice, etc., that form viscous solutions and act as lubricants or protectants on external and internal surfaces of the body.", "S": [], "A": []}

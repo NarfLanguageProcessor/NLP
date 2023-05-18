@@ -1,0 +1,1 @@
+{"index": 131606, "D": "resembling a drop; having droplike markings.", "S": [], "A": []}

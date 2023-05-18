@@ -1,0 +1,1 @@
+{"index": 172390, "D": "a person who regards salvation as limited to only a part of mankind", "S": [], "A": []}

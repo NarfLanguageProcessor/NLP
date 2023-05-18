@@ -1,0 +1,1 @@
+{"index": 67825, "D": [], "S": ["disapproval ", "rebuttal ", "rejection ", "repudiation ", "retraction ", "veto "], "A": ["allowance ", "approval ", "confirmation ", "ratification ", "sanction ", "agreement ", "permission "]}

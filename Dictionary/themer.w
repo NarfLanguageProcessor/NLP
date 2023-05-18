@@ -1,0 +1,1 @@
+{"index": 320896, "D": "the objective case of plural they,  used as a direct or indirect object", "S": [], "A": []}

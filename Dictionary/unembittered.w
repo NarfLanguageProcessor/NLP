@@ -1,0 +1,1 @@
+{"index": 341158, "D": "to make bitter;  cause to feel bitterness", "S": [], "A": []}

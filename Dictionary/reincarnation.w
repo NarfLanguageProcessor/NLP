@@ -1,0 +1,1 @@
+{"index": 266190, "D": "the belief that the soul, upon death of the body, comes back to earth in another body or form.", "S": ["metempsychosis ", "transmigration "], "A": []}

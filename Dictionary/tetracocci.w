@@ -1,0 +1,1 @@
+{"index": 319971, "D": "a spherical bacterium occurring in square groups of four.", "S": [], "A": []}

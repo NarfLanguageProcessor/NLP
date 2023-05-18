@@ -1,0 +1,1 @@
+{"index": 350673, "D": "tending to seduce; enticing; beguiling; captivating", "S": [], "A": []}

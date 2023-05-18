@@ -1,0 +1,1 @@
+{"index": 353081, "D": "to excite or arouse agreeably, often in a sexually suggestive way", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202999, "D": "serving or tending to deter. ", "S": [], "A": []}

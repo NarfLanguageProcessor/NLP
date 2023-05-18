@@ -1,0 +1,1 @@
+{"index": 119020, "D": "very cold in temperature", "S": [], "A": []}

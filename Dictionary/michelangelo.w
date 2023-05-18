@@ -1,0 +1,1 @@
+{"index": 185764, "D": "Italian sculptor, painter, architect, and poet.", "S": [], "A": []}

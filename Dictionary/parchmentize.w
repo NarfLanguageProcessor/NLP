@@ -1,0 +1,1 @@
+{"index": 226277, "D": "to treat (paper or the like) so that it resembles parchment. ", "S": [], "A": []}

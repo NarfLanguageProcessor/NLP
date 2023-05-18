@@ -1,0 +1,1 @@
+{"index": 123798, "D": "having or representing the earth as a center", "S": [], "A": []}

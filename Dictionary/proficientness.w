@@ -1,0 +1,1 @@
+{"index": 251750, "D": "well-advanced or competent in any art, science, or subject; skilled", "S": [], "A": []}

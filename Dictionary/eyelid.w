@@ -1,0 +1,1 @@
+{"index": 96409, "D": "the movable lid  of skin that serves to cover and uncover the eyeball.", "S": [], "A": []}

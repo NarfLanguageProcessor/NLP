@@ -1,0 +1,1 @@
+{"index": 22305, "D": "the science of or technology involved in travel beyond the earth's atmosphere, including interplanetary and interstellar flight.", "S": [], "A": []}

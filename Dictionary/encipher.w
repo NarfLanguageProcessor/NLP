@@ -1,0 +1,1 @@
+{"index": 99360, "D": "to convert (a message, communication, etc.) into cipher. ", "S": ["analyze ", "break down ", "decode ", "deduce ", "elucidate ", "interpret ", "solve ", "translate ", "unravel "], "A": ["conceal ", "confuse ", "fix ", "hide ", "mend ", "obscure ", "suppress "]}

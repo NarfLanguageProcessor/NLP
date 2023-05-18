@@ -1,0 +1,1 @@
+{"index": 166790, "D": "a feldspar mineral of the plagioclase group, often characterized by a brilliant change of colors, with blue and green most common.", "S": [], "A": []}

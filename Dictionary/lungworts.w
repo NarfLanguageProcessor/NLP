@@ -1,0 +1,1 @@
+{"index": 176239, "D": "a European plant, Pulmonaria officinalis, of the borage family,  having blue flowers.", "S": [], "A": []}

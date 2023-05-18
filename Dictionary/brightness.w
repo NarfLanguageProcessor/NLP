@@ -1,0 +1,1 @@
+{"index": 40779, "D": "the quality of being bright. ", "S": ["brilliance ", "illumination ", "luster "], "A": ["darkness ", "dullness "]}

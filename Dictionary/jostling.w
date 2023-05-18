@@ -1,0 +1,1 @@
+{"index": 161828, "D": "to bump, push, shove, brush against, or elbow roughly or rudely.", "S": ["hustle ", "scramble ", "shove "], "A": ["leave alone ", "pull ", "repress "]}

@@ -1,0 +1,1 @@
+{"index": 170448, "D": "a phonological process that weakens consonant articulation at the ends of syllables or between vowels, causing the consonant to become voiced, spirantized, or deleted.", "S": [], "A": []}

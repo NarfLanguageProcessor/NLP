@@ -1,0 +1,1 @@
+{"index": 152217, "D": "knowledge communicated or received concerning a particular fact or circumstance; news", "S": ["academic ", "cultural ", "scholarly "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 182095, "D": "of, relating to, or having the properties of a medicine;  curative; remedial", "S": ["aesculapian ", "curing ", "healing ", "medical ", "medicative ", "pharmaceutic ", "remedial ", "salutary ", "therapeutic "], "A": []}

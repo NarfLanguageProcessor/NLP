@@ -1,0 +1,1 @@
+{"index": 181405, "D": "in spite of; notwithstanding.", "S": [], "A": []}

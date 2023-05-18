@@ -1,0 +1,1 @@
+{"index": 213800, "D": "a person engaged in the fields of theoretical or applied optics. ", "S": [], "A": []}

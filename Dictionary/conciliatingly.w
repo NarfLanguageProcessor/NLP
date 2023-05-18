@@ -1,0 +1,1 @@
+{"index": 65318, "D": "to overcome the distrust or hostility of; placate; win over", "S": ["harmoniously "], "A": ["angrily ", "hostilely "]}

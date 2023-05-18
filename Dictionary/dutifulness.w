@@ -1,0 +1,1 @@
+{"index": 94592, "D": [], "S": ["exactitude ", "faithfulness ", "honesty ", "honor ", "incorruptibility ", "mindfulness ", "pains ", "punctiliousness ", "steadfastness ", "uprightness ", "veracity "], "A": ["dishonesty ", "falsehood ", "treachery "]}

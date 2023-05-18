@@ -1,0 +1,1 @@
+{"index": 76995, "D": "any of several grasses of the genus Lolium, having simple stems, flat leaves, and terminal spikes.", "S": [], "A": []}

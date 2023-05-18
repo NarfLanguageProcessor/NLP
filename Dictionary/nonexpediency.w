@@ -1,0 +1,1 @@
+{"index": 203803, "D": "the quality of being expedient;  advantageousness; advisability.", "S": [], "A": []}

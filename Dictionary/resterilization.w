@@ -1,0 +1,1 @@
+{"index": 269896, "D": "the act of sterilizing. ", "S": [], "A": []}

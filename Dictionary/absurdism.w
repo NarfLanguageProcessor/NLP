@@ -1,0 +1,1 @@
+{"index": 1126, "D": "the philosophical and literary doctrine that human beings live in essential isolation in a meaningless and irrational world.", "S": [], "A": []}

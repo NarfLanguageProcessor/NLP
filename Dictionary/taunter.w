@@ -1,0 +1,1 @@
+{"index": 317060, "D": "to reproach in a sarcastic, insulting, or jeering manner; mock. ", "S": [], "A": []}

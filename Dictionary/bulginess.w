@@ -1,0 +1,1 @@
+{"index": 42452, "D": "tending to bulge;  having a bulge", "S": [], "A": []}

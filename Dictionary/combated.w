@@ -1,0 +1,1 @@
+{"index": 63624, "D": "to fight or contend against; oppose vigorously", "S": ["cope ", "fight ", "oppose ", "repel ", "resist ", "withstand "], "A": ["support ", "surrender ", "yield ", "agree ", "give in ", "give up ", "make peace "]}

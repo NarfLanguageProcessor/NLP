@@ -1,0 +1,1 @@
+{"index": 145432, "D": "of, relating to, or characteristic or suggestive of Aldous Huxley  or his writings.", "S": [], "A": []}

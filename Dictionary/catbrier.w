@@ -1,0 +1,1 @@
+{"index": 49429, "D": "any prickly vine of the genus Smilax, especially S. rotundifolia, of eastern North America, growing in tangled masses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 355387, "D": "the way of life of people who live in a large city.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314136, "D": "darkness of the skin or complexion", "S": [], "A": []}

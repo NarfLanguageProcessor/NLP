@@ -1,0 +1,1 @@
+{"index": 62729, "D": "any of several tropical Asian or African plants belonging to the genus Coleus, of the mint family, certain species of which are cultivated for their showy, colored foliage and blue flowers.", "S": [], "A": []}

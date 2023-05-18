@@ -1,0 +1,1 @@
+{"index": 103147, "D": "educational quotient.", "S": [], "A": []}

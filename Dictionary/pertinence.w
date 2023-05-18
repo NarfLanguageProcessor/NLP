@@ -1,0 +1,1 @@
+{"index": 232102, "D": "the fact or quality of being directly and significantly related to the matter at hand; relevance", "S": ["applicability ", "congruity ", "importance ", "purpose ", "relevance "], "A": []}

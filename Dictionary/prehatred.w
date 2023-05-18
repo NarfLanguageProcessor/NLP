@@ -1,0 +1,1 @@
+{"index": 247788, "D": "the feeling of one who hates;  intense dislike or extreme aversion or hostility.", "S": [], "A": []}

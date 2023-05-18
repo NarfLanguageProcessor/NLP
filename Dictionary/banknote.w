@@ -1,0 +1,1 @@
+{"index": 27503, "D": "a promissory note, payable on demand, issued by an authorized bank and intended to circulate as money.", "S": ["buck ", "currency ", "investment ", "note ", "payment ", "refund ", "reserve ", "security ", "stock ", "supply "], "A": ["debt "]}

@@ -1,0 +1,1 @@
+{"index": 232194, "D": "the act of perverting. ", "S": ["aberration ", "anomaly ", "corruption ", "debauchery ", "deviance ", "fetish ", "immorality ", "kink "], "A": ["conformity ", "normality ", "regularity "]}

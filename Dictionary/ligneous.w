@@ -1,0 +1,1 @@
+{"index": 172093, "D": "of the nature of or resembling wood; woody.", "S": ["board ", "clapboard ", "frame ", "log ", "peg ", "plant ", "slab ", "timber ", "timbered ", "woody "], "A": ["bending ", "flexible ", "pliable "]}

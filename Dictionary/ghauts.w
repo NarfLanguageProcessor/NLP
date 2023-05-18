@@ -1,0 +1,1 @@
+{"index": 124502, "D": "a wide set of steps descending to a river, especially a river used for bathing.", "S": [], "A": []}

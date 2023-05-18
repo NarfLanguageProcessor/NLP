@@ -1,0 +1,1 @@
+{"index": 295029, "D": "a rest period during work.", "S": [], "A": []}

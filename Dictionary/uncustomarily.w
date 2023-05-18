@@ -1,0 +1,1 @@
+{"index": 338349, "D": "according to or depending on custom;  usual; habitual.", "S": ["chiefly ", "exclusively ", "notably ", "principally ", "specially ", "specifically "], "A": ["broadly "]}

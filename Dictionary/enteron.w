@@ -1,0 +1,1 @@
+{"index": 101303, "D": "the alimentary canal; the digestive tract.", "S": ["begin ", "enter upon ", "take up "], "A": []}

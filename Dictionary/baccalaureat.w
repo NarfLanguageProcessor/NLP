@@ -1,0 +1,1 @@
+{"index": 25605, "D": "(esp in France) a school-leaving examination that qualifies the successful candidates for entrance to university", "S": [], "A": []}

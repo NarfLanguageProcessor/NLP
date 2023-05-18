@@ -1,0 +1,1 @@
+{"index": 367006, "D": "the uterus of the human female and certain higher mammals.", "S": ["void "], "A": ["fullness ", "solid "]}

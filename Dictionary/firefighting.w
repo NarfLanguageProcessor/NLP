@@ -1,0 +1,1 @@
+{"index": 113160, "D": "firefighting equipment", "S": [], "A": []}

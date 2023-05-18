@@ -1,0 +1,1 @@
+{"index": 286455, "D": "a member of the armed forces of a country.", "S": ["armed forces ", "army ", "contingent ", "crew ", "delegation ", "gang ", "military ", "party ", "squad ", "team ", "unit "], "A": ["individual ", "one "]}

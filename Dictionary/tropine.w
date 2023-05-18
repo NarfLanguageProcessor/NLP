@@ -1,0 +1,1 @@
+{"index": 331240, "D": "a white, crystalline, hygroscopic, water-soluble, poisonous alkaloid, C8H15NO, obtained chiefly by the hydrolysis of atropine or hyoscyamine.", "S": [], "A": []}

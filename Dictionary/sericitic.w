@@ -1,0 +1,1 @@
+{"index": 286080, "D": "a fine-grained variety of muscovite produced by the alteration of feldspar.", "S": [], "A": []}

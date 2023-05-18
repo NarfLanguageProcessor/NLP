@@ -1,0 +1,1 @@
+{"index": 213742, "D": "a combining form occurring in compound words denoting a medical examination or inspection", "S": [], "A": []}

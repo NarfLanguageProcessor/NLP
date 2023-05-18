@@ -1,0 +1,1 @@
+{"index": 212661, "D": "at one time in the past; formerly", "S": ["already ", "before ", "earlier ", "formerly ", "previously "], "A": []}

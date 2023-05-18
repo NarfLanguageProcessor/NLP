@@ -1,0 +1,1 @@
+{"index": 6553, "D": "the science of soil management and the production of field crops. ", "S": ["cultivation ", "culture ", "horticulture ", "husbandry "], "A": []}

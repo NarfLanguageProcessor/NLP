@@ -1,0 +1,1 @@
+{"index": 341070, "D": "pertaining to or characterized by egotism. ", "S": [], "A": []}

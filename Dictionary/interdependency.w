@@ -1,0 +1,1 @@
+{"index": 154820, "D": "the quality or condition of being interdependent,  or mutually reliant on each other", "S": ["dependence "], "A": ["disbelief ", "distrust ", "doubt ", "misgiving "]}

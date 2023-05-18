@@ -1,0 +1,1 @@
+{"index": 175046, "D": "a card game in which forfeits are paid into a pool.", "S": [], "A": []}

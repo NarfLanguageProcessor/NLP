@@ -1,0 +1,1 @@
+{"index": 283491, "D": "the branch of astronomy that deals with the charting of the moon's surface.", "S": [], "A": []}

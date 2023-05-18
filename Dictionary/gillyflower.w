@@ -1,0 +1,1 @@
+{"index": 124941, "D": "any of several fragrant flowers of the genus Dianthus, as the carnation or clove pink.", "S": [], "A": []}

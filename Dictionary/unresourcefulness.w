@@ -1,0 +1,1 @@
+{"index": 349734, "D": "able to deal skillfully and promptly with new situations, difficulties, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351775, "D": "full of spite  or malice; showing spite; malicious; malevolent; venomous", "S": [], "A": []}

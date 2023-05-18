@@ -1,0 +1,1 @@
+{"index": 181352, "D": "the act or process of maturating. ", "S": ["advancement ", "evolution ", "expansion ", "improvement ", "increase ", "progress "], "A": ["decline ", "decrease ", "halt ", "retreat ", "retrogression ", "stoppage ", "lessening ", "reduction ", "shrinkage ", "stagnation ", "withdrawal "]}

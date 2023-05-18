@@ -1,0 +1,1 @@
+{"index": 103556, "D": "any of several hardy perennial herbs of the genus Eremurus, of the lily family,  cultivated for their tall, colorful, bell-shaped flowers.", "S": [], "A": []}

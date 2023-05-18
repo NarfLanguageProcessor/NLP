@@ -1,0 +1,1 @@
+{"index": 369651, "D": "an orthorhombic dimorph of clinozoisite. ", "S": [], "A": []}

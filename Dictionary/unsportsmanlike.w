@@ -1,0 +1,1 @@
+{"index": 351822, "D": "lacking in sportsmanship", "S": ["cheating ", "ungentlemanly "], "A": []}

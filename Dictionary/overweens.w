@@ -1,0 +1,1 @@
+{"index": 221813, "D": "to be conceited or arrogant.", "S": [], "A": []}

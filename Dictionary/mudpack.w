@@ -1,0 +1,1 @@
+{"index": 194713, "D": "a pastelike preparation, as one consisting of fuller's earth, astringents, etc., used on the face as a cosmetic restorative.", "S": [], "A": []}

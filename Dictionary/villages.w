@@ -1,0 +1,1 @@
+{"index": 359718, "D": "a small community or group of houses in a rural area, larger than a hamlet and usually smaller than a town, and sometimes (as in parts of the U.S.) incorporated as a municipality.", "S": ["center ", "suburb "], "A": []}

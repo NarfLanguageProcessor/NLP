@@ -1,0 +1,1 @@
+{"index": 182659, "D": "the first seer and healer", "S": [], "A": []}

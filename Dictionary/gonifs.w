@@ -1,0 +1,1 @@
+{"index": 127765, "D": "a variant of ganef. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77829, "D": "an act or instance of debouching. ", "S": [], "A": []}

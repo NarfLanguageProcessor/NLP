@@ -1,0 +1,1 @@
+{"index": 182079, "D": "Compare Medicaid. ", "S": ["Medicaid ", "comprehensive medical insurance ", "group medical insurance ", "health plan ", "major medical ", "managed care "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 87229, "D": "a phonograph record.", "S": ["ring ", "sphere "], "A": []}

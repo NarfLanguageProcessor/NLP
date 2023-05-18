@@ -1,0 +1,1 @@
+{"index": 106854, "D": "to inflict severe pain upon; torture", "S": ["agonize "], "A": ["aid ", "assist ", "calm ", "help ", "make happy ", "please ", "relieve ", "soothe "]}

@@ -1,0 +1,1 @@
+{"index": 151120, "D": "not dissoluble; incapable of being dissolved, decomposed, undone, or destroyed.", "S": [], "A": []}

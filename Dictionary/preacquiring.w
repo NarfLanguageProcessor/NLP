@@ -1,0 +1,1 @@
+{"index": 245491, "D": "to come into possession or ownership of; get as one's own", "S": [], "A": []}

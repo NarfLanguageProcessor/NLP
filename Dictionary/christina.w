@@ -1,0 +1,1 @@
+{"index": 56157, "D": "queen of Sweden 1632\u201354 (daughter of Gustavus Adolphus).", "S": [], "A": []}

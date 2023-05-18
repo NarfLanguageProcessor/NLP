@@ -1,0 +1,1 @@
+{"index": 197169, "D": "Compare oropharynx (def. 2). ", "S": [], "A": []}

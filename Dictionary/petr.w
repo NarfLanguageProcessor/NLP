@@ -1,0 +1,1 @@
+{"index": 232442, "D": "variant of petro-1  before a vowel", "S": [], "A": []}

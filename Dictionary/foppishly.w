@@ -1,0 +1,1 @@
+{"index": 116297, "D": "resembling or befitting a fop;  excessively refined and fastidious in taste and manner.", "S": [], "A": []}

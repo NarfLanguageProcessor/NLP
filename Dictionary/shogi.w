@@ -1,0 +1,1 @@
+{"index": 288734, "D": "the Japanese version of chess.", "S": [], "A": []}

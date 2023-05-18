@@ -1,0 +1,1 @@
+{"index": 350164, "D": "the act of breaking or bursting", "S": [], "A": []}

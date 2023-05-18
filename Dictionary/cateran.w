@@ -1,0 +1,1 @@
+{"index": 49575, "D": "(formerly) a freebooter or marauder of the Scottish Highlands.", "S": [], "A": []}

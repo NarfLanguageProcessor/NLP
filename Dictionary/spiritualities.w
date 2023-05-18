@@ -1,0 +1,1 @@
+{"index": 300138, "D": "the quality or fact of being spiritual", "S": ["incorporeality ", "otherworldliness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303699, "D": "a narrowing or stricture of a passage or vessel.", "S": ["narrowing "], "A": ["enlargement ", "expansion ", "freedom ", "increase ", "release "]}

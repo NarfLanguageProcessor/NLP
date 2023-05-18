@@ -1,0 +1,1 @@
+{"index": 129963, "D": "the act of grasping; a seizing and holding fast; firm grasp.", "S": ["constraint ", "grasp ", "restraint "], "A": ["release "]}

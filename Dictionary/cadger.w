@@ -1,0 +1,1 @@
+{"index": 44336, "D": "a person who cadges", "S": ["bum ", "freeloader ", "mendicant ", "mooch ", "moocher ", "scrounger ", "sponge ", "sponger "], "A": []}

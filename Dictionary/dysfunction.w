@@ -1,0 +1,1 @@
+{"index": 88110, "D": "malfunctioning, as of an organ or structure of the body.", "S": [], "A": []}

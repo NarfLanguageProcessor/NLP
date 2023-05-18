@@ -1,0 +1,1 @@
+{"index": 30828, "D": "to observe; look at; see.", "S": [], "A": []}

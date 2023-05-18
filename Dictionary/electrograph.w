@@ -1,0 +1,1 @@
+{"index": 97071, "D": "a curve or plot automatically traced by the action of an electric device, as an electrometer or an electrically controlled pen.", "S": [], "A": []}

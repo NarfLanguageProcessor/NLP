@@ -1,0 +1,1 @@
+{"index": 311637, "D": "a god or goddess.", "S": [], "A": []}

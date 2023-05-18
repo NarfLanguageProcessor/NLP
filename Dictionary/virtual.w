@@ -1,0 +1,1 @@
+{"index": 360238, "D": "being such in power, force, or effect, though not actually or expressly such", "S": ["basic ", "constructive ", "essential ", "fundamental ", "implicit ", "implied ", "in all but name ", "in conduct ", "in effect ", "in practice ", "indirect ", "potential ", "practical ", "pragmatic ", "tacit ", "unacknowledged "], "A": ["actual ", "authentic ", "real "]}

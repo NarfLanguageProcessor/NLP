@@ -1,0 +1,1 @@
+{"index": 104470, "D": "an unofficial title of respect, having no precise significance, sometimes placed, especially in its abbreviated form, after a man's surname in formal written address", "S": ["Esquire ", "man ", "monsieur ", "signor ", "sir "], "A": []}

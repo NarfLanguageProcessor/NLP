@@ -1,0 +1,1 @@
+{"index": 339438, "D": "to mark with a line or lines underneath; underscore.", "S": ["accentuate ", "highlight ", "indicate ", "point up ", "stress ", "underscore "], "A": []}

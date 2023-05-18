@@ -1,0 +1,1 @@
+{"index": 126945, "D": "a crystalline amino acid, HOOCCH(NH2)CH2CH2CONH2, related to glutamic acid. Abbreviation", "S": [], "A": []}

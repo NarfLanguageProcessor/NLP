@@ -1,0 +1,1 @@
+{"index": 320932, "D": "a white, crystalline, water-insoluble, poisonous powder, C7H8N4O2, an isomer of theophylline and lower homologue of caffeine, occurring in tea and obtained from the cacao bean", "S": [], "A": []}

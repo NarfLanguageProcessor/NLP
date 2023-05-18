@@ -1,0 +1,1 @@
+{"index": 72040, "D": "the skull of a vertebrate.", "S": [], "A": []}

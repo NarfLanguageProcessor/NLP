@@ -1,0 +1,1 @@
+{"index": 132433, "D": "a toupee.", "S": ["periwig ", "peruke ", "postiche ", "rug "], "A": []}

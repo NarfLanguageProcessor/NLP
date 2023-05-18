@@ -1,0 +1,1 @@
+{"index": 42778, "D": "offensively self-assertive", "S": ["impertinence ", "presumptuousness ", "rudeness "], "A": ["politeness "]}

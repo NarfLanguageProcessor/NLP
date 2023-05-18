@@ -1,0 +1,1 @@
+{"index": 194246, "D": "a person or thing that mounts. ", "S": [], "A": []}

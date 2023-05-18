@@ -1,0 +1,1 @@
+{"index": 5027, "D": "the study of the air or atmosphere.", "S": [], "A": []}

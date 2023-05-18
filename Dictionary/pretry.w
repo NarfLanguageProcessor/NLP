@@ -1,0 +1,1 @@
+{"index": 250043, "D": "to attempt to do or accomplish", "S": [], "A": []}

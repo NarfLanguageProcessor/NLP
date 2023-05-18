@@ -1,0 +1,1 @@
+{"index": 240602, "D": "presence in more than one place at the same time", "S": [], "A": []}

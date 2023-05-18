@@ -1,0 +1,1 @@
+{"index": 357268, "D": "a shallow pit or depression like the mark left by a smallpox pustule; foveola.", "S": [], "A": []}

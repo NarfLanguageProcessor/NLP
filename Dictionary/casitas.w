@@ -1,0 +1,1 @@
+{"index": 48908, "D": "a small crude dwelling forming part of a shantytown inhabited by Mexican laborers in the southwestern United States.", "S": [], "A": []}

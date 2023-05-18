@@ -1,0 +1,1 @@
+{"index": 76255, "D": "an evergreen shrub, Ilex cassine, of the southern U.S., having flat, leathery, dark green leaves and red or yellow fruits in large clusters.", "S": [], "A": []}

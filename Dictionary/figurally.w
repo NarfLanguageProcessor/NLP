@@ -1,0 +1,1 @@
+{"index": 112462, "D": "consisting of figures,  especially human or animal figures", "S": [], "A": []}

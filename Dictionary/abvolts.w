@@ -1,0 +1,1 @@
+{"index": 1203, "D": "the centimeter-gram-second unit of electromotive force, equivalent to 10\u22128 volt.", "S": [], "A": []}

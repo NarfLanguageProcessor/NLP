@@ -1,0 +1,1 @@
+{"index": 308260, "D": [], "S": ["abrupt ", "cursory ", "hasty ", "headlong ", "hectic ", "precipitous ", "speedy ", "sudden "], "A": ["calm ", "delayed ", "gradual ", "leisurely ", "slow ", "unhurried ", "lengthy ", "long "]}

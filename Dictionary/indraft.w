@@ -1,0 +1,1 @@
+{"index": 151288, "D": "an inward flow or current, as of air or water.", "S": [], "A": []}

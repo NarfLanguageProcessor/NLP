@@ -1,0 +1,1 @@
+{"index": 147772, "D": "permeated or inspired, as with an ideal, meaning, characteristic, etc.", "S": ["absorbed ", "accustomed ", "attached ", "devoted ", "hooked ", "inclined ", "obsessed "], "A": ["indifferent ", "unwilling "]}

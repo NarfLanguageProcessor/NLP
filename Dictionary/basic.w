@@ -1,0 +1,1 @@
+{"index": 28571, "D": "of, relating to, or forming a base; fundamental", "S": ["elemental ", "essential ", "key ", "main ", "necessary ", "primary ", "primitive ", "underlying ", "vital "], "A": ["auxiliary ", "inessential ", "insignificant ", "minor ", "nonessential ", "secondary ", "unimportant ", "unnecessary ", "extra "]}

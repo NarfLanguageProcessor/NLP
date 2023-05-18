@@ -1,0 +1,1 @@
+{"index": 33529, "D": "having two small teeth or toothlike processes.", "S": [], "A": []}

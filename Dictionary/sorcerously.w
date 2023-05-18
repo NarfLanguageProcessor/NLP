@@ -1,0 +1,1 @@
+{"index": 297539, "D": "of the nature of or involving sorcery. ", "S": [], "A": []}

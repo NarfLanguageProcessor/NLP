@@ -1,0 +1,1 @@
+{"index": 213995, "D": "to deliver an oration;  speak pompously; declaim.", "S": ["articulating ", "chattering ", "conversing ", "discussing ", "echoing ", "expressing ", "mouthing ", "ranting ", "repeating ", "spouting ", "vocalizing "], "A": ["hearing ", "listening ", "witnessing "]}

@@ -1,0 +1,1 @@
+{"index": 298747, "D": "devotion or restriction to a particular pursuit, branch of study, etc.", "S": [], "A": []}

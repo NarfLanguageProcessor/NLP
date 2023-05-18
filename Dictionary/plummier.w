@@ -1,0 +1,1 @@
+{"index": 240465, "D": "containing or resembling plums. ", "S": ["mellow ", "pleasant "], "A": []}

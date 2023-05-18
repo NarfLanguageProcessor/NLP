@@ -1,0 +1,1 @@
+{"index": 357291, "D": "a resistor  whose resistance automatically varies in proportion to the voltage of the current through it.", "S": [], "A": []}

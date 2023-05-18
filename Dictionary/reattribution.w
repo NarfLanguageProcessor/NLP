@@ -1,0 +1,1 @@
+{"index": 262148, "D": "the act of attributing;  ascription.", "S": [], "A": []}

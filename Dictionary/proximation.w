@@ -1,0 +1,1 @@
+{"index": 254192, "D": "next; nearest; immediately before or after in order, place, occurrence, etc.", "S": [], "A": []}

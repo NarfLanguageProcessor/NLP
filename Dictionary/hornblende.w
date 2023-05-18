@@ -1,0 +1,1 @@
+{"index": 143839, "D": "a dark-green to black mineral of the amphibole group, calcium magnesium iron and hydroxyl aluminosilicate.", "S": [], "A": []}

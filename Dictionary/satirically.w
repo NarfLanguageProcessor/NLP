@@ -1,0 +1,1 @@
+{"index": 278751, "D": "of, pertaining to, containing, or characterized by satire", "S": ["amusingly ", "jokingly "], "A": []}

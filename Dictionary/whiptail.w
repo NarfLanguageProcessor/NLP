@@ -1,0 +1,1 @@
+{"index": 364958, "D": "any of numerous New World lizards of the family Teiidae, especially of the genus Cnemidophorus, characterized by great agility and alertness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95713, "D": "a line or border at which a surface terminates", "S": ["boundary ", "brink ", "corner ", "end ", "fringe ", "line ", "lip ", "margin ", "mouth ", "outskirt ", "peak ", "perimeter ", "point ", "rim ", "shore ", "side ", "threshold ", "tip ", "verge "], "A": ["bottom ", "center ", "inside ", "interior ", "middle ", "nadir "]}

@@ -1,0 +1,1 @@
+{"index": 201241, "D": "the loyalty of a citizen to their government or of a subject to their sovereign.", "S": [], "A": []}

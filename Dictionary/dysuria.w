@@ -1,0 +1,1 @@
+{"index": 90022, "D": "difficult or painful urination.", "S": [], "A": []}

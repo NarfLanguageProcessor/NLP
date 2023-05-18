@@ -1,0 +1,1 @@
+{"index": 132402, "D": "having hair  of a specified kind (usually used in combination)", "S": [], "A": []}

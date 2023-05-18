@@ -1,0 +1,1 @@
+{"index": 334887, "D": "not ambiguous,  or unclear; distinct; unequivocal", "S": ["actually ", "categorically ", "definitely ", "doubtless ", "exactly ", "positively ", "precisely ", "really ", "surely ", "truly ", "unconditionally ", "unquestionably "], "A": ["doubtfully ", "dubiously ", "questionably ", "uncertain "]}

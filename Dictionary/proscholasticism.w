@@ -1,0 +1,1 @@
+{"index": 252993, "D": "the system of theological and philosophical teaching predominant in the Middle Ages, based chiefly upon the authority of the church fathers and of Aristotle and his commentators.", "S": [], "A": []}

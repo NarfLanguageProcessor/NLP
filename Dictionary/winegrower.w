@@ -1,0 +1,1 @@
+{"index": 366086, "D": "a person who owns or works in a vineyard and winery.", "S": [], "A": []}

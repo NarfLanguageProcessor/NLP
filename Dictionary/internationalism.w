@@ -1,0 +1,1 @@
+{"index": 155468, "D": "the principle of cooperation among nations, for the promotion of their common good, sometimes as contrasted with nationalism, or devotion to the interests of a particular nation.", "S": [], "A": []}

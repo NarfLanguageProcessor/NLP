@@ -1,0 +1,1 @@
+{"index": 131019, "D": "a book  of directions, advice, and information, especially for travelers or tourists.", "S": [], "A": []}

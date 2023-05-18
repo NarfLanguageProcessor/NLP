@@ -1,0 +1,1 @@
+{"index": 150394, "D": "not correct as to fact; inaccurate; wrong", "S": ["blunder ", "error ", "inaccuracy ", "mistake "], "A": ["accuracy ", "certainty ", "correction ", "correctness ", "right ", "truth "]}

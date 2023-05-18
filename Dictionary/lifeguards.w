@@ -1,0 +1,1 @@
+{"index": 171903, "D": "an expert swimmer employed, as at a beach or pool, to protect bathers from drowning or other accidents and dangers.", "S": [], "A": []}

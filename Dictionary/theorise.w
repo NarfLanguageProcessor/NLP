@@ -1,0 +1,1 @@
+{"index": 321141, "D": "to form a theory  or theories. ", "S": [], "A": []}

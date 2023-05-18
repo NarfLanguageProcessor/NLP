@@ -1,0 +1,1 @@
+{"index": 151945, "D": "derived by reasoning or concluded from evidence, or provisionally identified through either of these methods", "S": ["complete ", "contained ", "firm ", "fixed ", "full ", "implied ", "total ", "understood ", "unsaid "], "A": ["changeable ", "expressed ", "incomplete ", "indefinite ", "irresolute ", "needy ", "stated ", "unfinished "]}

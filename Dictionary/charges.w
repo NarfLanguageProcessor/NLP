@@ -1,0 +1,1 @@
+{"index": 52814, "D": "to impose or ask as a price or fee", "S": ["ante ", "assessment ", "charge ", "collection ", "contribution ", "custom ", "debit ", "debt ", "duty ", "fee ", "kickback ", "levy ", "liability ", "obligation ", "pay ", "protection ", "rates ", "tax ", "toll "], "A": ["asset ", "credit ", "irresponsibility "]}

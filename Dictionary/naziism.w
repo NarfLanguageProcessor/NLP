@@ -1,0 +1,1 @@
+{"index": 197566, "D": "the principles or methods of the Nazis. ", "S": [], "A": []}

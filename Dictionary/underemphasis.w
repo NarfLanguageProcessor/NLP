@@ -1,0 +1,1 @@
+{"index": 339144, "D": "inadequate emphasis. ", "S": [], "A": []}

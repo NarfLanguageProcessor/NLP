@@ -1,0 +1,1 @@
+{"index": 358763, "D": "the state or quality of being useful for or easily adapted to various tasks, styles, fields of endeavor, etc.", "S": ["adaptability "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29390, "D": "beadlike; small, globular, and glittering", "S": [], "A": []}

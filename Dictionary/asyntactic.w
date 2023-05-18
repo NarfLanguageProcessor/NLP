@@ -1,0 +1,1 @@
+{"index": 21285, "D": "consisting of morphemes that are combined differently from their mode of combination as separate words in a phrase, as bookstore, which is an asyntactic compound, while the same elements are combined syntactically in store for books.", "S": [], "A": []}

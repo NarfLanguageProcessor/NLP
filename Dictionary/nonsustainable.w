@@ -1,0 +1,1 @@
+{"index": 207729, "D": "capable of being supported or upheld, as by having its weight borne from below.", "S": [], "A": []}

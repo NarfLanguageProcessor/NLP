@@ -1,0 +1,1 @@
+{"index": 220787, "D": "to react  or respond more strongly than is necessary or appropriate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367644, "D": "to torment oneself with or suffer from disturbing thoughts; fret. ", "S": [], "A": []}

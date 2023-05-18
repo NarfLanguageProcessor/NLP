@@ -1,0 +1,1 @@
+{"index": 272984, "D": "rock  forming the natural boundary of a plateau or other rise.", "S": [], "A": []}

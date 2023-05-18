@@ -1,0 +1,1 @@
+{"index": 30596, "D": "to cover with gems. ", "S": [], "A": []}

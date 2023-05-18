@@ -1,0 +1,1 @@
+{"index": 134211, "D": "a square tablet, set diagonally, bearing the coat of arms of a deceased person.", "S": [], "A": []}

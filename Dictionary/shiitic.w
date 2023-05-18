@@ -1,0 +1,1 @@
+{"index": 288244, "D": "a member of one of the two great religious divisions of Islam that regards Ali, the son-in-law of Muhammad, as the legitimate successor of Muhammad, and disregards the three caliphs who succeeded him.", "S": [], "A": []}

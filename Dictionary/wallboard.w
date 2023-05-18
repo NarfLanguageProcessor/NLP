@@ -1,0 +1,1 @@
+{"index": 362235, "D": "material manufactured in large sheets for use in making or covering walls,  ceilings, etc., as a substitute for wooden boards  or plaster.", "S": ["Sheetrock ", "drywall ", "gyp board ", "plasterboard "], "A": []}

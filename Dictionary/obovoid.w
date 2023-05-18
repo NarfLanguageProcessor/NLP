@@ -1,0 +1,1 @@
+{"index": 210306, "D": "inversely ovoid; ovoid  with the narrow end at the base, as certain fruits.", "S": [], "A": []}

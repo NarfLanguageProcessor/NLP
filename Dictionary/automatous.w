@@ -1,0 +1,1 @@
+{"index": 24214, "D": "a mechanical figure or contrivance constructed to act as if by its own motive power; robot.", "S": ["ascetic ", "automatic "], "A": ["other "]}

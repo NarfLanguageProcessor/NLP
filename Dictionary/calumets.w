@@ -1,0 +1,1 @@
+{"index": 45480, "D": "a long-stemmed, ornamented tobacco pipe used by North American Indians on ceremonial occasions, especially in token of peace.", "S": [], "A": []}

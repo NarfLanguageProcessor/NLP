@@ -1,0 +1,1 @@
+{"index": 253122, "D": "prothesis (def. 2a). ", "S": [], "A": []}

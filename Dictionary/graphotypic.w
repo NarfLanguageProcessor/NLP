@@ -1,0 +1,1 @@
+{"index": 129125, "D": "a typewriterlike machine for embossing letters upon thin sheets of metal, as for use in an addressing machine.", "S": [], "A": []}

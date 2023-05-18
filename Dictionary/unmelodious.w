@@ -1,0 +1,1 @@
+{"index": 346184, "D": "of the nature of or characterized by melody;  tuneful.", "S": ["cacophonous ", "clashing ", "dissonant ", "divergent ", "jarring ", "strident "], "A": ["similar "]}

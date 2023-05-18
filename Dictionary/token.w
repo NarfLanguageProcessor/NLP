@@ -1,0 +1,1 @@
+{"index": 325203, "D": "something serving to represent or indicate some fact, event, feeling, etc.; sign", "S": ["badge ", "expression ", "manifestation ", "memento ", "proof ", "souvenir ", "symbol "], "A": ["break "]}

@@ -1,0 +1,1 @@
+{"index": 310146, "D": "the act of killing by preventing air from getting to the blood through the lungs or gills; strangulation", "S": [], "A": []}

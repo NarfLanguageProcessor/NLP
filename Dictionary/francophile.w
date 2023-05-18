@@ -1,0 +1,1 @@
+{"index": 118341, "D": "friendly to or having a strong liking for France or the French.", "S": [], "A": []}

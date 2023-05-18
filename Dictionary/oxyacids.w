@@ -1,0 +1,1 @@
+{"index": 222202, "D": "an inorganic acid  containing oxygen.", "S": [], "A": []}

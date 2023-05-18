@@ -1,0 +1,1 @@
+{"index": 251131, "D": "in favour of or supporting capitalist policies and ideologies", "S": [], "A": []}

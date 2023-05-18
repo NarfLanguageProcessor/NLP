@@ -1,0 +1,1 @@
+{"index": 266515, "D": "to call for with earnest desire; make supplication or pray for", "S": [], "A": []}

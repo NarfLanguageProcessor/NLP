@@ -1,0 +1,1 @@
+{"index": 351352, "D": "slender, as in girth or form; slight in build or structure.", "S": [], "A": []}

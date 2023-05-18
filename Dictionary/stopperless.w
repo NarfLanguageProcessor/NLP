@@ -1,0 +1,1 @@
+{"index": 305356, "D": "a person or thing that stops. ", "S": [], "A": []}

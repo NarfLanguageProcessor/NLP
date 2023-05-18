@@ -1,0 +1,1 @@
+{"index": 65826, "D": "a variant of conferee. ", "S": ["beneficiary "], "A": ["donor ", "giver "]}

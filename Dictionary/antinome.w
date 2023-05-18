@@ -1,0 +1,1 @@
+{"index": 15697, "D": "something that is contradictory or opposite to another; a logical contradiction.", "S": [], "A": []}

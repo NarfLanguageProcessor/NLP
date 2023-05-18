@@ -1,0 +1,1 @@
+{"index": 62984, "D": "to blacken as with coal dust; begrime.", "S": [], "A": []}

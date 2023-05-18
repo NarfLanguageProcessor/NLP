@@ -1,0 +1,1 @@
+{"index": 93376, "D": "of, like, or affected with dropsy. ", "S": ["bloated ", "magnified ", "overblown ", "swollen "], "A": ["shrunken ", "abbreviated ", "abridged ", "compressed ", "contracted ", "reduced "]}

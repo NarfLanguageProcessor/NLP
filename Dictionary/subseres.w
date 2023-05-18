@@ -1,0 +1,1 @@
+{"index": 309125, "D": "a secondary stage of ecological succession after a community is interfered with or destroyed by fire, flood, grazing, etc.; a secondary sere.", "S": [], "A": []}

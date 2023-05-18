@@ -1,0 +1,1 @@
+{"index": 316809, "D": "sharp to the taste; sour or acid", "S": ["acidity ", "acridity ", "bitterness ", "sour "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110650, "D": "a substitute for whalebone, made from the quills of domestic fowls.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16221, "D": "(on the celestial sphere) opposite the sun.", "S": [], "A": []}

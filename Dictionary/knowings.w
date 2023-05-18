@@ -1,0 +1,1 @@
+{"index": 165717, "D": [], "S": ["analysis ", "clarification ", "explanation ", "judgment ", "meaning ", "perception ", "reading ", "translation "], "A": ["complication ", "ignorance ", "misconception ", "misunderstanding ", "release "]}

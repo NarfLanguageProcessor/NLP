@@ -1,0 +1,1 @@
+{"index": 176018, "D": "to put to sleep or rest by soothing means", "S": [], "A": []}

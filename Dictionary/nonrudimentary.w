@@ -1,0 +1,1 @@
+{"index": 206931, "D": "pertaining to rudiments  or first principles; elementary", "S": [], "A": []}

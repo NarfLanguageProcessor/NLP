@@ -1,0 +1,1 @@
+{"index": 293796, "D": "a branch of the Indo-European family of languages, usually divided into East Slavic (Russian, Ukrainian, Byelorussian), West Slavic (Polish, Czech, Slovak, Sorbian), and South Slavic (Old Church Slavonic, Macedonian, Bulgarian, Serbo-Croatian, Slovenian). Abbreviations", "S": [], "A": []}

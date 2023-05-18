@@ -1,0 +1,1 @@
+{"index": 58885, "D": "an amino acid, NH2CONH(CH2)3CHNH2COOH, abundant in watermelons and an intermediate compound in the urea cycle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206027, "D": "possessing the qualities or charm of poetry", "S": [], "A": []}

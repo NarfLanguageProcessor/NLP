@@ -1,0 +1,1 @@
+{"index": 59813, "D": "the distinctive dress of a member of the clergy", "S": ["clergy ", "clergymen ", "clerics ", "ecclesiastics ", "prelacy ", "priesthood ", "vicarage "], "A": []}

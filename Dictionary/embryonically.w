@@ -1,0 +1,1 @@
+{"index": 98317, "D": "pertaining to or in the state of an embryo. ", "S": [], "A": []}

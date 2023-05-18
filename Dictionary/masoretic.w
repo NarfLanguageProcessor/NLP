@@ -1,0 +1,1 @@
+{"index": 180738, "D": "of or relating to the Masorah  or the Masoretes.", "S": [], "A": []}

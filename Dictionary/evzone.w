@@ -1,0 +1,1 @@
+{"index": 106348, "D": "a member of an elite infantry corps in the Greek army.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42533, "D": "a head  considered similar in shape to a bullet,  as that of a person with a high, domelike forehead and cranium and short hair.", "S": [], "A": []}

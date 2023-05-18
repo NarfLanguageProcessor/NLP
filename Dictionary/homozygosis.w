@@ -1,0 +1,1 @@
+{"index": 143293, "D": "the state of being a homozygote.", "S": [], "A": []}

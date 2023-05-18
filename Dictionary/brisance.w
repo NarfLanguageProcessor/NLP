@@ -1,0 +1,1 @@
+{"index": 40928, "D": "the shattering effect of a high explosive.", "S": [], "A": []}

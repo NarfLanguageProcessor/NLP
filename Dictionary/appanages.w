@@ -1,0 +1,1 @@
+{"index": 17553, "D": "land or some other source of revenue assigned for the maintenance of a member of the family of a ruling house.", "S": ["adjunct ", "perquisite ", "prerogative ", "privilege ", "right "], "A": ["detriment "]}

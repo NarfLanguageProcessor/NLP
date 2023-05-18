@@ -1,0 +1,1 @@
+{"index": 25663, "D": "an unmarried young woman, often one who is seeking or preparing to get married.", "S": [], "A": []}

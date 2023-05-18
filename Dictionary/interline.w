@@ -1,0 +1,1 @@
+{"index": 155192, "D": "to write or insert (words, phrases, etc.) between the lines  of writing or print.", "S": ["cover ", "fill ", "stuff "], "A": ["strip "]}

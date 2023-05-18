@@ -1,0 +1,1 @@
+{"index": 10794, "D": "any cephalopod mollusk of the extinct order Ammonoidea, from the Devonian to the Cretaceous periods, having a coiled, chambered shell.", "S": [], "A": []}

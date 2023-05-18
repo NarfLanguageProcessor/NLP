@@ -1,0 +1,1 @@
+{"index": 137713, "D": "the simultaneous performance of the same melodic line, with slight individual variations, by two or more performers.", "S": [], "A": []}

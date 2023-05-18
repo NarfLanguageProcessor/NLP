@@ -1,0 +1,1 @@
+{"index": 149692, "D": "the act of incarcerating,  or putting in prison or another enclosure", "S": ["captivity ", "confinement "], "A": ["freedom "]}

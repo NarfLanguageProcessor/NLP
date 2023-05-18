@@ -1,0 +1,1 @@
+{"index": 65499, "D": "to accord in opinion; agree", "S": ["affirmatory ", "approving ", "positive ", "supporting "], "A": ["dissenting ", "negative "]}

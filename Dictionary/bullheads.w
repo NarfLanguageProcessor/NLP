@@ -1,0 +1,1 @@
+{"index": 42571, "D": "any of several North American, freshwater catfishes of the genus Ictalurus, having a rounded or truncate caudal fin.", "S": [], "A": []}

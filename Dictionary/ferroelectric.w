@@ -1,0 +1,1 @@
+{"index": 111536, "D": "pertaining to a substance that possesses spontaneous electric polarization such that the polarization can be reversed by an electric field.", "S": [], "A": []}

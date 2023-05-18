@@ -1,0 +1,1 @@
+{"index": 364181, "D": "contraction of were not", "S": [], "A": []}

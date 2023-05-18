@@ -1,0 +1,1 @@
+{"index": 304114, "D": "a bone or series of bones extending along the middle line of the ventral portion of the body of most vertebrates, consisting in humans of a flat, narrow bone connected with the clavicles and the true ribs; breastbone.", "S": [], "A": []}

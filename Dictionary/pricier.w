@@ -1,0 +1,1 @@
+{"index": 250350, "D": "expensive or unduly expensive", "S": ["valuable "], "A": ["aiding ", "cheap ", "helpful ", "inexpensive ", "poor ", "reasonable "]}

@@ -1,0 +1,1 @@
+{"index": 103360, "D": "of the same or exhibiting uniform potential  at every point", "S": [], "A": []}

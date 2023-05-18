@@ -1,0 +1,1 @@
+{"index": 179442, "D": "a white, crystalline, sweetish, water-soluble, carbohydrate alcohol, C6H8(OH)6, occurring in three optically different forms, the common one being found in the manna of the ash Fraxinus ornus and in other plants", "S": [], "A": []}

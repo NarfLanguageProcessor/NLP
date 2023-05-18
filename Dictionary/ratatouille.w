@@ -1,0 +1,1 @@
+{"index": 260966, "D": "a vegetable stew of Provence, typically consisting of eggplant, zucchini, onions, green peppers, tomatoes, and garlic, served hot or cold.", "S": [], "A": []}

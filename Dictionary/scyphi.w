@@ -1,0 +1,1 @@
+{"index": 280772, "D": "a cup-shaped part, as of a flower.", "S": [], "A": []}

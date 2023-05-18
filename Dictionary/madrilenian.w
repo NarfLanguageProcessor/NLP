@@ -1,0 +1,1 @@
+{"index": 177263, "D": "a city in and the capital of Spain, in the central part.", "S": [], "A": []}

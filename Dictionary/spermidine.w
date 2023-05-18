@@ -1,0 +1,1 @@
+{"index": 299268, "D": "a biogenic polyamine, H2N(CH2)4NH(CH2)3NH2, formed from putrescine, occurring widely in nature and first identified in semen.", "S": [], "A": []}

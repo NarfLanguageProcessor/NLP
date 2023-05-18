@@ -1,0 +1,1 @@
+{"index": 4265, "D": "sun-dried brick made of clay and straw, in common use in countries having little rainfall.", "S": ["brick ", "clay ", "house ", "tile "], "A": []}

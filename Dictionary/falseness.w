@@ -1,0 +1,1 @@
+{"index": 109529, "D": "not true or correct; erroneous", "S": ["erroneousness ", "error ", "falsehood ", "falsity ", "inaccuracy ", "incorrectness ", "misconception ", "misinterpretation ", "misunderstanding ", "untruth ", "untruthfulness "], "A": ["accuracy ", "comprehension ", "right ", "truth ", "understanding "]}

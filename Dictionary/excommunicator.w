@@ -1,0 +1,1 @@
+{"index": 106797, "D": "to cut off from communion with a church or exclude from the sacraments of a church by ecclesiastical sentence.", "S": [], "A": []}

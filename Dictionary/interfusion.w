@@ -1,0 +1,1 @@
+{"index": 154992, "D": "to intersperse, intermingle, or permeate with something.", "S": ["amalgam ", "brew ", "combination ", "concoction ", "fusion ", "mixture ", "synthesis "], "A": ["division ", "separation "]}

@@ -1,0 +1,1 @@
+{"index": 133330, "D": "a shed or shelter.", "S": [], "A": []}

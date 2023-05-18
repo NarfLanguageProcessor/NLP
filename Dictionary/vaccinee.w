@@ -1,0 +1,1 @@
+{"index": 356377, "D": "a person who receives a vaccination.", "S": [], "A": []}

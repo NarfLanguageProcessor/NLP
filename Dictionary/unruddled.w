@@ -1,0 +1,1 @@
+{"index": 350118, "D": "a red variety of ocher, used for marking sheep, coloring, etc.", "S": [], "A": []}

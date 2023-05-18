@@ -1,0 +1,1 @@
+{"index": 146321, "D": "the act or process of idealizing  something.", "S": ["ennoblement ", "honor ", "magnification "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362239, "D": "a large game fish, Stizostedion vitreum, inhabiting the lakes and rivers of northeastern North America; pikeperch. ", "S": [], "A": []}

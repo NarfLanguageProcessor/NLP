@@ -1,0 +1,1 @@
+{"index": 68367, "D": "a person or thing that coordinates. ", "S": ["administrator ", "adviser ", "organizer ", "supervisor "], "A": ["employee ", "worker "]}

@@ -1,0 +1,1 @@
+{"index": 132525, "D": "a variant of halakhist. ", "S": [], "A": []}

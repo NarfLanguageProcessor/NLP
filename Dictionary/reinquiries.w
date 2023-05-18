@@ -1,0 +1,1 @@
+{"index": 266354, "D": "a seeking or request for truth, information, or knowledge.", "S": [], "A": []}

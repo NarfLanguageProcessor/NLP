@@ -1,0 +1,1 @@
+{"index": 40345, "D": "thrillingly beautiful, remarkable, astonishing, exciting, or the like", "S": [], "A": []}

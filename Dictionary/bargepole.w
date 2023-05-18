@@ -1,0 +1,1 @@
+{"index": 27967, "D": "a long pole used to propel a barge", "S": [], "A": []}

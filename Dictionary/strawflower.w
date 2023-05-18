@@ -1,0 +1,1 @@
+{"index": 305935, "D": "any of several everlasting flowers,  especially an Australian composite plant, Helichrysum bracteatum, having heads of chaffy yellow, orange, red, or white flowers. ", "S": [], "A": []}

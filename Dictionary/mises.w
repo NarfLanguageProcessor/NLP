@@ -1,0 +1,1 @@
+{"index": 189251, "D": "a settlement or agreement.", "S": ["arrangement ", "bargain ", "bond ", "commitment ", "guarantee ", "obligation ", "pact ", "pledge ", "record ", "settlement "], "A": ["disagreement "]}

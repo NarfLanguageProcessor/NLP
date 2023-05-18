@@ -1,0 +1,1 @@
+{"index": 52242, "D": "a plant having dormant vegetative buds at, or slightly above, ground level.", "S": [], "A": []}

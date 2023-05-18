@@ -1,0 +1,1 @@
+{"index": 224063, "D": "Compare anthemion, lotus (def. 5). ", "S": [], "A": []}

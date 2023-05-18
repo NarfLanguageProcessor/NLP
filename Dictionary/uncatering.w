@@ -1,0 +1,1 @@
+{"index": 336577, "D": "to provide food, service, etc., as for a party or wedding", "S": [], "A": []}

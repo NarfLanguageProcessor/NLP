@@ -1,0 +1,1 @@
+{"index": 207138, "D": "endowed with sensation;  having perception through the senses. ", "S": [], "A": []}

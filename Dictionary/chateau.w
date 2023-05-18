@@ -1,0 +1,1 @@
+{"index": 53086, "D": "(in France) a castle or fortress.", "S": ["castle ", "estate ", "manor ", "mansion ", "villa "], "A": []}

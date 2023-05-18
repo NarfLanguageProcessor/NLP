@@ -1,0 +1,1 @@
+{"index": 288817, "D": "a retail merchant or tradesman; a person who owns or operates a small store or shop. ", "S": [], "A": []}

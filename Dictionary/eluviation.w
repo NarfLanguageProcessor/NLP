@@ -1,0 +1,1 @@
+{"index": 97861, "D": "the movement through the soil of materials brought into suspension or dissolved by the action of water.", "S": [], "A": []}

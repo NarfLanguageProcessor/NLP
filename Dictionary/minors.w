@@ -1,0 +1,1 @@
+{"index": 188005, "D": "lesser, as in size, extent, or importance, or being or noting the lesser of two", "S": ["amateur ", "nothing to brag about ", "second rate ", "small potatoes ", "the bushes ", "triple-A "], "A": []}

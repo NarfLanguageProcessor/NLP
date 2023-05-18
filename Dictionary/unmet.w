@@ -1,0 +1,1 @@
+{"index": 346273, "D": "simple past tense and past participle of meet1. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183526, "D": "the systematic effort to undermine and destroy a person's values and beliefs, as by the use of prolonged interrogation, drugs, torture, etc., and to induce radically different ideas.", "S": [], "A": []}

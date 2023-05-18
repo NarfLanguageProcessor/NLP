@@ -1,0 +1,1 @@
+{"index": 131996, "D": "a dark purple water-insoluble crystalline substance obtained from logwood and used as an indicator and biological stain. Formula", "S": [], "A": []}

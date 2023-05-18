@@ -1,0 +1,1 @@
+{"index": 42120, "D": [], "S": ["learner ", "neophyte ", "newcomer ", "novice "], "A": ["expert ", "professional ", "teacher "]}

@@ -1,0 +1,1 @@
+{"index": 137529, "D": "(of the feet of certain birds) having the first and second toes directed backwards and the third and fourth forwards", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43544, "D": "moving or acting with a great show of energy", "S": [], "A": []}

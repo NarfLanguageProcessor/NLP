@@ -1,0 +1,1 @@
+{"index": 131087, "D": "a black or brown-speckled seabird of the genus Cepphus, of northern seas, having a sharply pointed black bill, red legs, and white wing patches, as C. grylle(black guillemot ), of the North Atlantic Ocean  and the similar C. columba(pigeon guillemot ) of the North Pacific Ocean. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166051, "D": "a metal ring welded to the nose of a bomb to reduce its penetration in earth or water.", "S": [], "A": []}

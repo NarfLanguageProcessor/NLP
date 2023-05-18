@@ -1,0 +1,1 @@
+{"index": 190122, "D": "to spend wrongly or unwisely; squander; waste.", "S": ["blow ", "exhaust ", "lavish ", "waste "], "A": ["hoard ", "save "]}

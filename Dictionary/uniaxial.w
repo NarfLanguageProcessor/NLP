@@ -1,0 +1,1 @@
+{"index": 343983, "D": "having one axis.", "S": [], "A": []}

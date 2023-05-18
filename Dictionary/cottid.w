@@ -1,0 +1,1 @@
+{"index": 70425, "D": "any fish of the scorpaenoid family Cottidae, typically possessing a large head, tapering body, and spiny fins, including the pogge, sea scorpion, bullhead, father lasher, and cottus", "S": [], "A": []}

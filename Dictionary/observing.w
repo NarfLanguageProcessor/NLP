@@ -1,0 +1,1 @@
+{"index": 210407, "D": "to see, watch, perceive, or notice", "S": ["alert ", "keen ", "penetrating "], "A": ["blunt ", "dull ", "idiotic ", "stupid "]}

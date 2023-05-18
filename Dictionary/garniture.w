@@ -1,0 +1,1 @@
+{"index": 122238, "D": "something that garnishes; decoration; adornment.", "S": ["beautification ", "decoration ", "embellishment ", "garnishment ", "gilding ", "ornament ", "ornamentation ", "trim ", "trimming "], "A": []}

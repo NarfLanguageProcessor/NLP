@@ -1,0 +1,1 @@
+{"index": 245880, "D": "the act of one who borrows. ", "S": [], "A": []}

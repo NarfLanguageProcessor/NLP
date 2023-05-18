@@ -1,0 +1,1 @@
+{"index": 81781, "D": "a person or thing that deposits. ", "S": [], "A": []}

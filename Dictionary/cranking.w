@@ -1,0 +1,1 @@
+{"index": 72124, "D": "any of several types of arms or levers for imparting rotary or oscillatory motion to a rotating shaft, one end of the crank being fixed to the shaft and the other end receiving reciprocating motion from a hand, connecting rod, etc.", "S": [], "A": []}

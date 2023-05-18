@@ -1,0 +1,1 @@
+{"index": 14357, "D": "the period or act of expansion in flowers, especially the maturing of the stamens.", "S": ["developing ", "flowering ", "folding ", "rash ", "redness ", "sprouting "], "A": []}

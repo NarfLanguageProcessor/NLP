@@ -1,0 +1,1 @@
+{"index": 180821, "D": "treatment by massage. ", "S": [], "A": []}

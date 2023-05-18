@@ -1,0 +1,1 @@
+{"index": 305839, "D": "the science or art of combining and employing the means of war in planning and directing large military movements and operations.", "S": ["action ", "approach ", "blueprint ", "design ", "game plan ", "method ", "plan ", "planning ", "policy ", "procedure ", "program ", "project ", "scenario ", "scheme ", "system "], "A": ["honesty ", "openness "]}

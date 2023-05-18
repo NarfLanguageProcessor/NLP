@@ -1,0 +1,1 @@
+{"index": 122025, "D": "a break or opening, as in a fence, wall, or military line; breach", "S": [], "A": []}

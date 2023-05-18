@@ -1,0 +1,1 @@
+{"index": 182091, "D": "of or relating to the Medici, the Italian family of bankers, merchants, and rulers of Florence and Tuscany, prominent in Italian political and cultural history in the 15th, 16th, and 17th centuries", "S": [], "A": []}

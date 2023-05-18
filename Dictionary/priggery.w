@@ -1,0 +1,1 @@
+{"index": 250447, "D": "the conduct or character of a prig. ", "S": [], "A": []}

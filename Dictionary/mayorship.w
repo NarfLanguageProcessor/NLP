@@ -1,0 +1,1 @@
+{"index": 177973, "D": "the chief executive official, usually elected, of a city, village, or town.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 190065, "D": "a group or committee of persons sent to a foreign country to conduct negotiations, establish relations, provide scientific and technical assistance, or the like.", "S": [], "A": []}

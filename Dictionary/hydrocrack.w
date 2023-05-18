@@ -1,0 +1,1 @@
+{"index": 138612, "D": "to crack (petroleum or the like) in the presence of hydrogen.", "S": [], "A": []}

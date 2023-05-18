@@ -1,0 +1,1 @@
+{"index": 298895, "D": "an instrument in which the spectrum of secondarily emitted fluorescent light is used to identify chemical compounds.", "S": [], "A": []}

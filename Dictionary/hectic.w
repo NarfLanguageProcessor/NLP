@@ -1,0 +1,1 @@
+{"index": 135137, "D": "characterized by intense agitation, excitement, confused and rapid movement, etc.", "S": ["boisterous ", "chaotic ", "exciting ", "frenetic ", "frenzied ", "heated ", "tumultuous ", "unsettled "], "A": ["calm ", "peaceful ", "quiet "]}

@@ -1,0 +1,1 @@
+{"index": 244621, "D": "a silvery-white metallic element that oxidizes rapidly in the air and whose compounds are used as fertilizer and in special hard glasses.Symbol", "S": [], "A": []}

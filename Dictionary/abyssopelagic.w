@@ -1,0 +1,1 @@
+{"index": 492, "D": "referring to or occurring in the region of deep water above the floor of the ocean", "S": [], "A": []}

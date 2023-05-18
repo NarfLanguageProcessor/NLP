@@ -1,0 +1,1 @@
+{"index": 65580, "D": "well-deserved; fitting; adequate", "S": ["deserved ", "earned "], "A": ["immoral ", "inadequate ", "inappropriate ", "incorrect ", "unfair ", "unfitting ", "unjust ", "unsuitable ", "unsuited "]}

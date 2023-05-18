@@ -1,0 +1,1 @@
+{"index": 261530, "D": "a reverse movement or tendency; an action in a reverse direction or manner.", "S": ["answer ", "attitude ", "backlash ", "feedback ", "feeling ", "opinion ", "reception ", "reply ", "return "], "A": ["question ", "request ", "failure ", "loss "]}

@@ -1,0 +1,1 @@
+{"index": 341459, "D": "upright in position or posture", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 59645, "D": "free from darkness, obscurity, or cloudiness; light", "S": ["fair ", "sunny "], "A": ["cloudy ", "rainy ", "stormy ", "dark ", "gloomy "]}

@@ -1,0 +1,1 @@
+{"index": 191211, "D": "a noxious emanation, consisting chiefly of carbon dioxide, escaping from the earth in regions of nearly extinct volcanic activity.", "S": [], "A": []}

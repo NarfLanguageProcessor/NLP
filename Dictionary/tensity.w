@@ -1,0 +1,1 @@
+{"index": 319000, "D": "the state of being tense;  tenseness.", "S": ["ache ", "anxiety ", "bruise ", "burden ", "injury ", "pressure ", "sprain ", "stress ", "tension "], "A": ["aid ", "calmness ", "ease ", "health ", "help ", "peace ", "relaxation ", "relief ", "idleness ", "laziness "]}

@@ -1,0 +1,1 @@
+{"index": 159061, "D": "an isogloss marking off the area in which a particular item of vocabulary is found", "S": [], "A": []}

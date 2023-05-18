@@ -1,0 +1,1 @@
+{"index": 218122, "D": "an act or instance of accentuating. ", "S": [], "A": []}

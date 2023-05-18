@@ -1,0 +1,1 @@
+{"index": 166573, "D": "a member of one of the First Nations  of Vancouver Island  and the adjacent coast of mainland British Columbia.", "S": [], "A": []}

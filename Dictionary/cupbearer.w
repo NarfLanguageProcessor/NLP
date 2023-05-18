@@ -1,0 +1,1 @@
+{"index": 75056, "D": "a servant who fills and serves wine cups, as in a royal palace or at an elaborate banquet.", "S": [], "A": []}

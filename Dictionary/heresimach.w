@@ -1,0 +1,1 @@
+{"index": 137065, "D": "a person engaged in combating heresy and heretics.", "S": [], "A": []}

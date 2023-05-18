@@ -1,0 +1,1 @@
+{"index": 313769, "D": "tending to cause or excite suspicion;  questionable", "S": ["skeptically "], "A": []}

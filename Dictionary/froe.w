@@ -1,0 +1,1 @@
+{"index": 119229, "D": "a cutting tool with handle and blade at right angles, used for stripping young trees, etc", "S": [], "A": []}

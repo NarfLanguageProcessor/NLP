@@ -1,0 +1,1 @@
+{"index": 343200, "D": "lacking charm or elegance; awkward.", "S": ["clumsily ", "stiffly "], "A": ["adroitly ", "gracefully ", "skillfully "]}

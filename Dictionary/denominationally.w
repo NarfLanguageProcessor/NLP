@@ -1,0 +1,1 @@
+{"index": 81173, "D": "of or relating to a denomination  or denominations. ", "S": [], "A": []}

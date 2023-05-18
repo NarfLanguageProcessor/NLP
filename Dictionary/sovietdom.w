@@ -1,0 +1,1 @@
+{"index": 298067, "D": "(after the revolution) a higher council elected by a local council, being part of a hierarchy of soviets culminating in the Supreme Soviet.", "S": [], "A": []}

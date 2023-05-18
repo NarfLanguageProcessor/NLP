@@ -1,0 +1,1 @@
+{"index": 196138, "D": "silent movement of the lips in simulation of the movements made in audible speech.", "S": [], "A": []}

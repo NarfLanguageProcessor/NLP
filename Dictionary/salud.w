@@ -1,0 +1,1 @@
+{"index": 277364, "D": "(used after a person has sneezed or as a toast.)", "S": [], "A": []}

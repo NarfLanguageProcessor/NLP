@@ -1,0 +1,1 @@
+{"index": 123486, "D": "to bring into existence; cause to be; produce.", "S": ["achieve ", "bring about ", "cause ", "develop ", "engender ", "make ", "provoke ", "set up ", "spawn "], "A": ["destroy ", "end ", "fail ", "finish ", "halt ", "kill ", "lose ", "prevent ", "stop ", "close ", "divide ", "ignore ", "neglect ", "terminate ", "throw away "]}

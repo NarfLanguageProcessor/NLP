@@ -1,0 +1,1 @@
+{"index": 305719, "D": "to bind, confine, or restrain with or as if with laces.", "S": [], "A": []}

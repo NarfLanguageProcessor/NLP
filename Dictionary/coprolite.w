@@ -1,0 +1,1 @@
+{"index": 68674, "D": "a stony mass consisting of fossilized fecal matter of animals.", "S": [], "A": []}

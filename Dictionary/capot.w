@@ -1,0 +1,1 @@
+{"index": 47011, "D": "the taking by one player of all the tricks of a deal, as in piquet.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107565, "D": "tending toward expansion", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36140, "D": "a large antelope, Damaliscus albifrons, of southern Africa, having a blaze on the face.", "S": [], "A": []}

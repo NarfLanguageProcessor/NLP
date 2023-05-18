@@ -1,0 +1,1 @@
+{"index": 357297, "D": "a permanent abnormal dilation and lengthening of a vein, usually accompanied by some tortuosity; a varicose vein.", "S": [], "A": []}

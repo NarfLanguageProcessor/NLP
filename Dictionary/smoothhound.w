@@ -1,0 +1,1 @@
+{"index": 295069, "D": "a smooth dogfish,  especially Mustelus mustelus, inhabiting waters along the coast of Europe.", "S": [], "A": []}

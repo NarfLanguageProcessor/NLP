@@ -1,0 +1,1 @@
+{"index": 246387, "D": "acknowledgment; avowal; admission", "S": [], "A": []}

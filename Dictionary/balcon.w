@@ -1,0 +1,1 @@
+{"index": 26760, "D": "Sir Michael . 1896\u20131977, British film producer; his films made at Ealing Studios include the comedies Kind Hearts and Coronets (1949) and The Lavender Hill Mob (1951)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110511, "D": "a person or thing regarded with special favor  or preference", "S": ["choice ", "darling ", "front-runner ", "idol ", "number one ", "pick "], "A": ["dislike ", "hate ", "hatred "]}

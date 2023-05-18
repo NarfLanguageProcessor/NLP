@@ -1,0 +1,1 @@
+{"index": 222290, "D": "to convert (an element) into an oxide;  combine with oxygen.", "S": ["powdery ", "soft "], "A": ["flexible ", "pliable "]}

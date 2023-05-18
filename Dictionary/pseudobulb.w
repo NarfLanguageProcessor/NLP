@@ -1,0 +1,1 @@
+{"index": 254567, "D": "an enlarged, aboveground portion of stem, present in many tropical orchids, in which moisture is stored.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 123417, "D": "the basic physical unit of heredity; a linear sequence of nucleotides along a segment of DNA that provides the coded instructions for synthesis of RNA, which, when translated into protein, leads to the expression of hereditary character.", "S": ["RNA ", "chromosome ", "heredity "], "A": []}

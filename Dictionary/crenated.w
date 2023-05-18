@@ -1,0 +1,1 @@
+{"index": 72621, "D": "having the margin notched or scalloped so as to form rounded teeth, as a leaf.", "S": ["incised ", "serrate ", "serrated "], "A": []}

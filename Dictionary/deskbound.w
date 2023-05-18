@@ -1,0 +1,1 @@
+{"index": 82668, "D": "doing sedentary work; working exclusively at a desk. ", "S": ["inactive "], "A": ["activated ", "active ", "energetic ", "mobile ", "moving "]}

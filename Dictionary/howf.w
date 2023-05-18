@@ -1,0 +1,1 @@
+{"index": 144556, "D": "a haunt, esp a public house", "S": [], "A": []}

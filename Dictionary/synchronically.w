@@ -1,0 +1,1 @@
+{"index": 291397, "D": "having reference to the facts of a linguistic system as it exists at one point in time without reference to its history", "S": ["accordingly ", "collectively ", "cooperatively ", "in tandem ", "mutually ", "simultaneously ", "together ", "unitedly "], "A": ["singly "]}

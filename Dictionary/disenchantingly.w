@@ -1,0 +1,1 @@
+{"index": 87924, "D": "to rid of or free from enchantment, illusion, credulity, etc.; disillusion", "S": [], "A": []}

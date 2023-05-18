@@ -1,0 +1,1 @@
+{"index": 34979, "D": "an ancient Roman seat of honor for two persons.", "S": [], "A": []}

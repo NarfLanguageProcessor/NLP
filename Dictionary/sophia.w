@@ -1,0 +1,1 @@
+{"index": 297409, "D": "1630\u20131714, electress of Hanover (1658\u20131714), in whom the Act of Settlement (1701) vested the English Crown. She was a granddaughter of James I of England and her son became George I of Great Britain and Ireland", "S": [], "A": []}

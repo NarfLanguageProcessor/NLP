@@ -1,0 +1,1 @@
+{"index": 171065, "D": "a type of sponge having a thick body wall with a highly branched canal system leading into the spongocoel.", "S": [], "A": []}

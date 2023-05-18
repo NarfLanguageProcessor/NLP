@@ -1,0 +1,1 @@
+{"index": 38468, "D": "a common mineral and important ore of copper, copper iron sulfide, Cu5FeS4, occurring in masses, of brownish color when first exposed to the air; peacock ore.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 140581, "D": "increased rigidity, tension, and spasticity of the muscles.", "S": [], "A": []}

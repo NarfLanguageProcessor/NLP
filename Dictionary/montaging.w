@@ -1,0 +1,1 @@
+{"index": 192860, "D": "Compare collage (def. 1). ", "S": [], "A": []}

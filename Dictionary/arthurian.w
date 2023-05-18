@@ -1,0 +1,1 @@
+{"index": 20668, "D": "of or relating to King Arthur,  who, with his knights, formed the subject of a large part of medieval romance", "S": [], "A": []}

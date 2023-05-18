@@ -1,0 +1,1 @@
+{"index": 264853, "D": "to make hollow by removing the inner part; make a hole or cavity in; form into a hollow, as by digging", "S": [], "A": []}

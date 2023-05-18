@@ -1,0 +1,1 @@
+{"index": 358274, "D": "an undertaking involving uncertainty as to the outcome, especially a risky or dangerous one", "S": ["deal ", "endeavor ", "enterprise ", "experiment ", "investment ", "project ", "undertaking "], "A": ["idleness ", "assurance ", "certainty ", "fact ", "inaction ", "protection ", "reality ", "safety ", "surety "]}

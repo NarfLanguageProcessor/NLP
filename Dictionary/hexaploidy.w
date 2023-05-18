@@ -1,0 +1,1 @@
+{"index": 138022, "D": "having a chromosome number that is six times the haploid number.", "S": [], "A": []}

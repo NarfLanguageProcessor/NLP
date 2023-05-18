@@ -1,0 +1,1 @@
+{"index": 369308, "D": "a person or thing that zigzags. ", "S": [], "A": []}

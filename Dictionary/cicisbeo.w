@@ -1,0 +1,1 @@
+{"index": 57065, "D": "an escort or lover of a married woman.", "S": [], "A": []}

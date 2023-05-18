@@ -1,0 +1,1 @@
+{"index": 56400, "D": "variant of chrono-  before a vowel", "S": [], "A": []}

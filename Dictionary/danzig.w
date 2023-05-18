@@ -1,0 +1,1 @@
+{"index": 76837, "D": "German name of Gda\u0144sk. ", "S": [], "A": []}

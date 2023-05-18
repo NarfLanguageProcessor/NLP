@@ -1,0 +1,1 @@
+{"index": 295903, "D": [], "S": ["amber ", "bay ", "beige ", "bister ", "brick ", "bronze ", "buff ", "chestnut ", "chocolate ", "cinnamon ", "cocoa ", "coffee ", "copper ", "drab ", "dust ", "ecru ", "fawn ", "ginger ", "hazel ", "henna ", "khaki ", "mahogany ", "nut brown ", "ochre ", "puce ", "russet ", "rust ", "sepia ", "sorrel ", "tan ", "toast ", "umber "], "A": []}

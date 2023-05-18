@@ -1,0 +1,1 @@
+{"index": 358679, "D": "to shorten the growth period of (a plant) by chilling or other special treatment of it, its seeds, or its bulbs.", "S": [], "A": []}

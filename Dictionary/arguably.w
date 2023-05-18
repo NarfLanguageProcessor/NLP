@@ -1,0 +1,1 @@
+{"index": 19578, "D": "it can be argued that", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72843, "D": "decorative embroidery done with crewel  yarn on cotton or linen, using simple stitches traditionally worked  in floral or pastoral designs.", "S": [], "A": []}

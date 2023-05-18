@@ -1,0 +1,1 @@
+{"index": 213877, "D": "an electronic device that scans ordinary printed characters and produces combinations of sounds, enabling a blind reader to recognize the characters.", "S": [], "A": []}

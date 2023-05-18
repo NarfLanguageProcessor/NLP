@@ -1,0 +1,1 @@
+{"index": 255295, "D": "of or relating to a substance having a profound or significant effect on mental processes", "S": ["hallucinatory ", "kaleidoscopic ", "multicolored "], "A": ["monochrome "]}

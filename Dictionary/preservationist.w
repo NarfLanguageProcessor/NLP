@@ -1,0 +1,1 @@
+{"index": 249396, "D": "a person who advocates or promotes preservation, especially of wildlife, natural areas, or historical places", "S": ["environmentalist "], "A": []}

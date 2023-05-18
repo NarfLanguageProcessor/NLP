@@ -1,0 +1,1 @@
+{"index": 185725, "D": "of or relating to the ancient city of Mycenae. ", "S": [], "A": []}

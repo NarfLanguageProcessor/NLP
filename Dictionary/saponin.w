@@ -1,0 +1,1 @@
+{"index": 278153, "D": "any of a group of amorphous glycosides of terpenes and steroids, occurring in many plants, characterized by an ability to form emulsions and to foam in aqueous solutions, and used as detergents.", "S": [], "A": []}

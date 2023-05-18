@@ -1,0 +1,1 @@
+{"index": 226471, "D": "an outcast.", "S": ["leper ", "outsider ", "persona non grata ", "vagabond "], "A": []}

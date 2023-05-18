@@ -1,0 +1,1 @@
+{"index": 232721, "D": "a colorless variety of chabazite.", "S": [], "A": []}

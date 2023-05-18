@@ -1,0 +1,1 @@
+{"index": 219580, "D": "in a benevolent, courteous, or helpful manner; kindly", "S": [], "A": []}

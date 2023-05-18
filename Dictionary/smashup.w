@@ -1,0 +1,1 @@
+{"index": 294762, "D": "a complete smash, especially a wreck of one or more vehicles.", "S": ["accident ", "collision ", "crack-up ", "crash ", "fender bender ", "impact ", "jolt ", "mess ", "pile-up ", "rear-ender ", "sideswipe ", "total ", "wreckage "], "A": []}

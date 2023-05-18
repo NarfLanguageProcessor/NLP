@@ -1,0 +1,1 @@
+{"index": 70590, "D": "a person who counsels; adviser. ", "S": [], "A": []}

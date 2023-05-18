@@ -1,0 +1,1 @@
+{"index": 220595, "D": "having or exerting great power  or force.", "S": [], "A": []}

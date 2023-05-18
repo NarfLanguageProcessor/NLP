@@ -1,0 +1,1 @@
+{"index": 357906, "D": "suggestive of or resembling velvet;  smooth; soft", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262593, "D": "to review by a brief summary, as at the end of a speech or discussion; summarize.", "S": ["echoed ", "paraphrased ", "quoted ", "recited ", "rehashed ", "reiterated ", "restated ", "retold "], "A": []}

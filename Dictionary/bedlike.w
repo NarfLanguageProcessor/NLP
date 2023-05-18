@@ -1,0 +1,1 @@
+{"index": 30126, "D": "a piece of furniture upon which or within which a person sleeps, rests, or stays when not well.", "S": [], "A": []}

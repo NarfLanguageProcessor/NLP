@@ -1,0 +1,1 @@
+{"index": 263858, "D": "a V-shaped work, usually projecting from a fortified line.", "S": [], "A": []}

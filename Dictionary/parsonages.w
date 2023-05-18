@@ -1,0 +1,1 @@
+{"index": 226904, "D": "the residence of a member of the clergy, as provided by the parish or church.", "S": ["benefice ", "manse ", "presbytery ", "vicarage "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20904, "D": "a liquid, C10H16O2, constituting the active principle of chenopodium oil, used chiefly as a catalyst in polymerization reactions.", "S": [], "A": []}

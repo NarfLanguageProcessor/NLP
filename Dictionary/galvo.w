@@ -1,0 +1,1 @@
+{"index": 121587, "D": "an informal name for a galvanometer", "S": [], "A": []}

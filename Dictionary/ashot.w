@@ -1,0 +1,1 @@
+{"index": 21178, "D": [], "S": ["all ", "individually ", "respectively ", "separately "], "A": ["together "]}

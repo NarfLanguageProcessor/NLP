@@ -1,0 +1,1 @@
+{"index": 40536, "D": "Pilgrim settler", "S": [], "A": []}

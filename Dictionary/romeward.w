@@ -1,0 +1,1 @@
+{"index": 274098, "D": "to or toward Rome or the Roman Catholic Church.", "S": [], "A": []}

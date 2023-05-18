@@ -1,0 +1,1 @@
+{"index": 15781, "D": "Compare antimatter, annihilation (def. 3). ", "S": [], "A": []}

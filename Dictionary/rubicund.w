@@ -1,0 +1,1 @@
+{"index": 275180, "D": "red or reddish; ruddy", "S": ["colored ", "florid ", "healthy ", "red ", "reddish ", "rosy ", "rubescent ", "ruddy "], "A": []}

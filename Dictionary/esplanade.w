@@ -1,0 +1,1 @@
+{"index": 104436, "D": "any open, level space, especially one serving for public walks or drives.", "S": ["avenue ", "boardwalk ", "path ", "walk ", "walkway "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55910, "D": "simple past tense of choose. ", "S": [], "A": []}

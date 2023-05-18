@@ -1,0 +1,1 @@
+{"index": 195695, "D": "a reddish-purple, crystalline, sparingly water-soluble solid, C8H8N6O6, having a green luster, formerly used as a dye.", "S": [], "A": []}

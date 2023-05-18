@@ -1,0 +1,1 @@
+{"index": 19225, "D": "any moth of the family Arctiidae, which includes the footman, ermine, and tiger moths", "S": [], "A": []}

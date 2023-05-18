@@ -1,0 +1,1 @@
+{"index": 254266, "D": "a small mass of glass fused to the body of a glass piece.", "S": [], "A": []}

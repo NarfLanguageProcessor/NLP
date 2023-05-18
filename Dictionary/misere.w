@@ -1,0 +1,1 @@
+{"index": 189237, "D": "a call in solo whist and other card games declaring a hand that will win no tricks", "S": [], "A": []}

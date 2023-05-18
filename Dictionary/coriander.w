@@ -1,0 +1,1 @@
+{"index": 69068, "D": "an herb, Coriandrum sativum, of the parsley family, native to Europe, having strong-scented leaves used in cooking and aromatic seeds used as a seasoning and in medicine.", "S": [], "A": []}

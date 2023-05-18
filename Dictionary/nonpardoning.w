@@ -1,0 +1,1 @@
+{"index": 205751, "D": "kind indulgence, as in forgiveness of an offense or discourtesy or in tolerance of a distraction or inconvenience", "S": [], "A": []}

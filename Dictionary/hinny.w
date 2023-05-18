@@ -1,0 +1,1 @@
+{"index": 139715, "D": "the sterile offspring of a male horse and a female donkey, similar in appearance and behavior to a mule, but usually smaller and with a more horselike head.", "S": [], "A": []}

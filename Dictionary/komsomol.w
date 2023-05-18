@@ -1,0 +1,1 @@
+{"index": 165975, "D": "a communist organization in the Soviet Union for youths 16 years of age and older.", "S": [], "A": []}

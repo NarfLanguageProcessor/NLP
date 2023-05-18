@@ -1,0 +1,1 @@
+{"index": 244270, "D": "a postal employee who carries and delivers mail; mail carrier. ", "S": ["mailman "], "A": []}

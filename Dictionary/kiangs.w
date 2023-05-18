@@ -1,0 +1,1 @@
+{"index": 164360, "D": "the largest species of wild ass, Equus kiang", "S": [], "A": []}

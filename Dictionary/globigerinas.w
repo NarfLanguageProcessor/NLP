@@ -1,0 +1,1 @@
+{"index": 126485, "D": "any marine foraminifer of the genus Globigerina, having a calcareous shell, occurring either near the surface of the sea or in the mud at the bottom.", "S": [], "A": []}

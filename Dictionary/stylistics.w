@@ -1,0 +1,1 @@
+{"index": 304495, "D": "the study and description of the choices of linguistic expression that are characteristic of a group or an individual in specific communicative settings, especially in literary works.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194659, "D": "a racehorse able to perform well on a wet, muddy track.", "S": ["dirt ", "fictile ", "made of earth ", "mud ", "rock ", "stone "], "A": []}

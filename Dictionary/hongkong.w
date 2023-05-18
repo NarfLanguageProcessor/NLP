@@ -1,0 +1,1 @@
+{"index": 143401, "D": "a special administrative region of China, formerly a British colony, comprising Hong Kong Island (29 sq. mi.; 75 sq. km), the southern part of Kowloon peninsula, nearby islands, and the New Territories  in adjacent mainland southeast China", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 105908, "D": "a place in which human society, natural conditions, etc., are so ideally perfect that there is complete contentment.", "S": [], "A": []}

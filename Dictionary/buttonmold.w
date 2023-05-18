@@ -1,0 +1,1 @@
+{"index": 43757, "D": "a small disk or knob of wood, metal, plastic, etc., to be covered with fabric to form an ornamental button. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322787, "D": "the presence of a thrombus in a vein accompanied by inflammation of the vessel wall.", "S": [], "A": []}

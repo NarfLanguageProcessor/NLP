@@ -1,0 +1,1 @@
+{"index": 163528, "D": "a variant of kef (def. 2). ", "S": [], "A": []}

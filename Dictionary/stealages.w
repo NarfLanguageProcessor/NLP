@@ -1,0 +1,1 @@
+{"index": 303258, "D": "the act of stealing. ", "S": [], "A": []}

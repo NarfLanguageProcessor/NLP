@@ -1,0 +1,1 @@
+{"index": 353192, "D": "to speak maliciously and falsely of; slander; defame", "S": [], "A": []}

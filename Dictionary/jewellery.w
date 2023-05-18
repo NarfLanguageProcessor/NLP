@@ -1,0 +1,1 @@
+{"index": 161098, "D": "objects that are worn for personal adornment, such as bracelets, rings, necklaces, etc, considered collectively", "S": [], "A": []}

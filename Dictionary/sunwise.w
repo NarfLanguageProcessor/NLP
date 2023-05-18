@@ -1,0 +1,1 @@
+{"index": 311238, "D": "in the direction of the sun's  apparent daily motion.", "S": [], "A": []}

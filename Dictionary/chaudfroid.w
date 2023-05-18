@@ -1,0 +1,1 @@
+{"index": 53161, "D": "a cooked dish of fowl or game, served cold with aspic, jelly, or a sauce.", "S": [], "A": []}

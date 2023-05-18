@@ -1,0 +1,1 @@
+{"index": 178820, "D": "an x-ray photograph obtained by mammography.", "S": [], "A": []}

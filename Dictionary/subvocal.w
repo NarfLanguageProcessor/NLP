@@ -1,0 +1,1 @@
+{"index": 309765, "D": "mentally formulated as words, especially without vocalization.", "S": [], "A": []}

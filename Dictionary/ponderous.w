@@ -1,0 +1,1 @@
+{"index": 242987, "D": "of great weight; heavy; massive.", "S": ["awkward ", "bulky ", "clumsy ", "unwieldy ", "weighty "], "A": ["adroit ", "clever ", "convenient ", "dexterous ", "easy ", "graceful ", "handy ", "small ", "thin "]}

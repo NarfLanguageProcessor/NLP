@@ -1,0 +1,1 @@
+{"index": 62765, "D": "a state in southwestern Mexico, on the Pacific Coast. 2,010 square miles (5,205 square kilometers).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143652, "D": "a social gathering or informal concert featuring folk singing and, sometimes, dancing.", "S": [], "A": []}

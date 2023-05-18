@@ -1,0 +1,1 @@
+{"index": 117337, "D": "desolate or dreary; unhappy or miserable, as in feeling, condition, or appearance.", "S": ["bleakness ", "devastation ", "isolation ", "loneliness ", "solitude "], "A": ["construction ", "creation ", "development "]}

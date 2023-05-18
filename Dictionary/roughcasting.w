@@ -1,0 +1,1 @@
+{"index": 274757, "D": "Compare pebble dash. ", "S": ["build overnight ", "jerrybuild ", "knock together ", "patch ", "put together ", "roughcast ", "roughhew ", "run up ", "slap together ", "throw together "], "A": ["destroy ", "raze ", "tear down "]}

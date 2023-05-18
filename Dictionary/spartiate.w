@@ -1,0 +1,1 @@
+{"index": 298531, "D": "Compare Helot (def. 1), Perioeci. ", "S": [], "A": []}

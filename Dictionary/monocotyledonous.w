@@ -1,0 +1,1 @@
+{"index": 192216, "D": "belonging or pertaining to the monocotyledons. ", "S": [], "A": []}

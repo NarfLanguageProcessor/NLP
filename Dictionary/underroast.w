@@ -1,0 +1,1 @@
+{"index": 339701, "D": "to bake (meat or other food) uncovered, especially in an oven.", "S": [], "A": []}

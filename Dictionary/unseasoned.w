@@ -1,0 +1,1 @@
+{"index": 350603, "D": "(of things) not seasoned;  not matured, dried, etc., by due seasoning", "S": ["bland ", "callow ", "green ", "immature ", "raw ", "untrained "], "A": ["experienced "]}

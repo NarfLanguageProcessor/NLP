@@ -1,0 +1,1 @@
+{"index": 312003, "D": "to furnish (a book, magazine, etc.) with drawings, pictures, or other artwork intended for explanation, elucidation, or adornment.", "S": [], "A": []}

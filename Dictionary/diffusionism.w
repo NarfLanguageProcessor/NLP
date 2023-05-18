@@ -1,0 +1,1 @@
+{"index": 85364, "D": "the theory or principle that diffusion  is the main force in cultural innovation and change.", "S": [], "A": []}

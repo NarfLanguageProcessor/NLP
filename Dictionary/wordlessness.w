@@ -1,0 +1,1 @@
+{"index": 367434, "D": "speechless, silent, or mute.", "S": ["muteness ", "soundlessness ", "speechlessness ", "voicelessness "], "A": []}

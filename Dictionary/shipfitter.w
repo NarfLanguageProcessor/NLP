@@ -1,0 +1,1 @@
+{"index": 288417, "D": "a person who forms plates, shapes, etc., of ship  according to plans, patterns, or molds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227750, "D": "of or relating to pathology. ", "S": ["medicinal ", "pharmaceutical ", "preventive ", "therapeutic "], "A": []}

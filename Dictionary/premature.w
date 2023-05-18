@@ -1,0 +1,1 @@
+{"index": 248317, "D": "occurring, coming, or done too soon", "S": ["immature ", "incomplete ", "untimely "], "A": ["backward ", "careful ", "cautious ", "delayed ", "late ", "mature ", "overdue ", "prepared ", "slow "]}

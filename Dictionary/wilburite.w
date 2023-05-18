@@ -1,0 +1,1 @@
+{"index": 365678, "D": "a supporter of John Wilbur (1774\u20131856), an American Quaker  who preached against the evangelicalism of the Gurneyites. The Wilburites eventually joined a similar and still existing fellowship known as Conservative Friends .", "S": [], "A": []}

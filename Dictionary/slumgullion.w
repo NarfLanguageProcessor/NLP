@@ -1,0 +1,1 @@
+{"index": 294574, "D": "a stew of meat, vegetables, potatoes, etc.", "S": [], "A": []}

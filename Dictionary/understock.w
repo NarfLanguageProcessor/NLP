@@ -1,0 +1,1 @@
+{"index": 339909, "D": "to provide an insufficient quantity, as of merchandise, supplies, or livestock.", "S": [], "A": []}

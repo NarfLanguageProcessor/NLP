@@ -1,0 +1,1 @@
+{"index": 206814, "D": "absence or lack of restraint. ", "S": [], "A": []}

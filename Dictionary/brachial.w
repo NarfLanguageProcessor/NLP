@@ -1,0 +1,1 @@
+{"index": 39373, "D": "belonging to the arm, foreleg, wing, pectoral fin, or other forelimb of a vertebrate.", "S": [], "A": []}

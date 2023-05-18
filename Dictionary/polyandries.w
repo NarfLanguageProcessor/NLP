@@ -1,0 +1,1 @@
+{"index": 241613, "D": "Compare monandry (def. 1). ", "S": ["bigamy ", "polygyny "], "A": []}

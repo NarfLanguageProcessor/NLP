@@ -1,0 +1,1 @@
+{"index": 357812, "D": "a brand name for a type of fastening tape consisting of opposing pieces of fabric, one piece with a dense arrangement of tiny nylon hooks and the other with a dense nylon pile, that interlock when pressed together, used as a closure on garments, luggage, etc., in place of buttons, zippers, and the like.", "S": [], "A": []}

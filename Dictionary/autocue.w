@@ -1,0 +1,1 @@
+{"index": 23994, "D": "US and Canadian name (trademark)", "S": [], "A": []}

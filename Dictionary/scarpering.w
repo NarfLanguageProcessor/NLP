@@ -1,0 +1,1 @@
+{"index": 279797, "D": "to flee or depart suddenly, especially without having paid one's bills.", "S": [], "A": []}

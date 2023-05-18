@@ -1,0 +1,1 @@
+{"index": 99553, "D": "something that encumbers;  something burdensome, useless, or superfluous; burden; hindrance", "S": ["accessory ", "apparatus ", "harness ", "instrument ", "kit ", "luggage ", "machinery ", "material ", "paraphernalia ", "stuff ", "supply "], "A": []}

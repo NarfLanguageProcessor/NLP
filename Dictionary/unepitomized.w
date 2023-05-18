@@ -1,0 +1,1 @@
+{"index": 341411, "D": "to contain or represent in small compass; serve as a typical example of; typify", "S": [], "A": []}

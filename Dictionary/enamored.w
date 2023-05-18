@@ -1,0 +1,1 @@
+{"index": 99047, "D": "charmed or captivated (usually followed by of, with, or sometimes by)", "S": ["captivated ", "enchanted ", "fascinated ", "hooked "], "A": ["disenchanted ", "hating "]}

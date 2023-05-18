@@ -1,0 +1,1 @@
+{"index": 160585, "D": "to dally; dawdle.", "S": [], "A": []}

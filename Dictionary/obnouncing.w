@@ -1,0 +1,1 @@
+{"index": 210278, "D": "(in ancient Rome) to announce an unfavorable omen.", "S": [], "A": []}

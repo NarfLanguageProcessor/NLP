@@ -1,0 +1,1 @@
+{"index": 171356, "D": "a system of writing in which each word is represented by a sign", "S": [], "A": []}

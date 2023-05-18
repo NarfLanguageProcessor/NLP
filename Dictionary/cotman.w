@@ -1,0 +1,1 @@
+{"index": 70372, "D": "John Sell. 1782\u20131842, English landscape watercolourist and etcher", "S": [], "A": []}

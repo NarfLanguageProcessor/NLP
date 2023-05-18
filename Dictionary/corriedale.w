@@ -1,0 +1,1 @@
+{"index": 69682, "D": "one of a breed of sheep raised originally in New Zealand and noted for their high-quality wool and good market lambs.", "S": [], "A": []}

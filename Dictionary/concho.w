@@ -1,0 +1,1 @@
+{"index": 65281, "D": "a combining form meaning \u201cshell; shell-like structure\u201d, used in the formation of compound words", "S": [], "A": []}

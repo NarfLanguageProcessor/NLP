@@ -1,0 +1,1 @@
+{"index": 364809, "D": "(used as an intensive after gee or golly gee to express astonishment, delight, etc.)", "S": [], "A": []}

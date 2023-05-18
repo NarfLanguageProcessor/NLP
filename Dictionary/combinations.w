@@ -1,0 +1,1 @@
+{"index": 63656, "D": "Often shortened to", "S": ["combo ", "consolidation ", "merger ", "mix ", "sequence ", "solution "], "A": ["division ", "parting ", "separation ", "disconnection "]}

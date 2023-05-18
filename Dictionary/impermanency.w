@@ -1,0 +1,1 @@
+{"index": 148570, "D": "the fact or quality of being temporary or short-lived", "S": [], "A": []}

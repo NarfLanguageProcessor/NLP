@@ -1,0 +1,1 @@
+{"index": 48532, "D": "takeout (defs. 2, 3). ", "S": ["breakfast ", "brunch ", "dessert ", "dinner ", "fare ", "feast ", "lunch ", "luncheon ", "picnic ", "refreshment ", "snack ", "supper ", "table ", "tea "], "A": ["snack "]}

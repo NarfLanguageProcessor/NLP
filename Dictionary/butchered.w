@@ -1,0 +1,1 @@
+{"index": 43572, "D": "a retail or wholesale dealer in meat.", "S": ["slaughter "], "A": []}

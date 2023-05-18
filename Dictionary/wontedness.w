@@ -1,0 +1,1 @@
+{"index": 367084, "D": "accustomed; habituated; used.", "S": [], "A": []}

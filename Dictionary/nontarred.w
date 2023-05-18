@@ -1,0 +1,1 @@
+{"index": 207765, "D": "any of various dark-colored viscid products obtained by the destructive distillation of certain organic substances, as coal or wood.", "S": [], "A": []}

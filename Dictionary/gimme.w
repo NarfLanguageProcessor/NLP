@@ -1,0 +1,1 @@
+{"index": 125009, "D": "give me.", "S": ["complimentariness ", "free ticket ", "freebie ", "something for nothing "], "A": []}

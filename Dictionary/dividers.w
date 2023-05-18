@@ -1,0 +1,1 @@
+{"index": 90329, "D": "a type of compass with two pointed arms, used for measuring lines or dividing them", "S": ["affiliate ", "branch ", "category ", "class ", "department ", "section ", "sector ", "segment ", "share ", "split "], "A": ["whole ", "cause ", "entirety ", "inside ", "interior ", "origin ", "total "]}

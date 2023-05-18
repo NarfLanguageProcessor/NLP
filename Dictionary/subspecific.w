@@ -1,0 +1,1 @@
+{"index": 309249, "D": "of, relating to, or of the nature of a subspecies.", "S": [], "A": []}

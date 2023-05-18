@@ -1,0 +1,1 @@
+{"index": 250655, "D": "a principle.", "S": ["bottom line ", "component ", "cornerstone ", "element ", "factor ", "foundation ", "law ", "principle "], "A": ["cowardice ", "fear "]}

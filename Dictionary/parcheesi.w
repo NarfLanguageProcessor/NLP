@@ -1,0 +1,1 @@
+{"index": 226265, "D": "a brand of the game pachisi.", "S": [], "A": []}

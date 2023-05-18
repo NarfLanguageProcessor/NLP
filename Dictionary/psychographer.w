@@ -1,0 +1,1 @@
+{"index": 255359, "D": "a person who writes a psychograph;  a psychological or psychographic biographer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 215658, "D": "a medical discipline with an emphasis on the health and drug-free treatment of the musculoskeletal system and on the diagnostic significance of patient lifestyle and environment", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303118, "D": "(in certain invertebrates) a sense organ consisting of a sac enclosing sensory hairs and particles of sand, lime, etc., that functions in maintaining equilibrium, serving to indicate position in space.", "S": [], "A": []}

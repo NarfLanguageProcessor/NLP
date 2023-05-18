@@ -1,0 +1,1 @@
+{"index": 207817, "D": "only for a while or for the time being; not permanently", "S": [], "A": []}

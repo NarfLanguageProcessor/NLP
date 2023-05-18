@@ -1,0 +1,1 @@
+{"index": 187793, "D": "a South Caucasian language spoken near the extreme eastern end of the Black Sea.", "S": [], "A": []}

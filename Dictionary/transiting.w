@@ -1,0 +1,1 @@
+{"index": 327987, "D": "the act or fact of passing across or through; passage from one place to another.", "S": [], "A": []}

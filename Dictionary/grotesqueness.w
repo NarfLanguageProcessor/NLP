@@ -1,0 +1,1 @@
+{"index": 130264, "D": "odd or unnatural in shape, appearance, or character; fantastically ugly or absurd; bizarre.", "S": ["abnormality ", "atrocity ", "deformity ", "dreadfulness ", "enormity ", "eyesore ", "freakishness ", "frightfulness ", "heinousness ", "hideousness ", "horror ", "monster ", "mutant ", "mutation "], "A": ["beauty "]}

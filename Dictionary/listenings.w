@@ -1,0 +1,1 @@
+{"index": 173511, "D": [], "S": ["accepting ", "attending ", "concentrating ", "hearkening ", "heeding ", "interested ", "receiving "], "A": ["inattentive ", "indifferent "]}

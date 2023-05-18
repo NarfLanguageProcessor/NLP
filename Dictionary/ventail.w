@@ -1,0 +1,1 @@
+{"index": 358150, "D": "the pivoted middle element of a face defense of a close helmet.", "S": [], "A": []}

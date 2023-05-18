@@ -1,0 +1,1 @@
+{"index": 171675, "D": "any complex organism of the group Lichenes, composed of a fungus in symbiotic union with an alga and having a greenish, gray, yellow, brown, or blackish thallus that grows in leaflike, crustlike, or branching forms on rocks, trees, etc.", "S": [], "A": []}

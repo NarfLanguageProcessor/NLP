@@ -1,0 +1,1 @@
+{"index": 364625, "D": "the young of a carnivore, as a dog, bear, lion, seal, etc.", "S": [], "A": []}

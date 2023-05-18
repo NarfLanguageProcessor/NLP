@@ -1,0 +1,1 @@
+{"index": 333588, "D": "existing or being everywhere, especially at the same time; omnipresent", "S": ["everywhere ", "omnipresent ", "pervasive ", "universal "], "A": ["rare ", "scarce "]}

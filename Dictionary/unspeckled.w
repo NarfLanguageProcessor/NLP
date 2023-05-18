@@ -1,0 +1,1 @@
+{"index": 351704, "D": "a small speck,  spot, or mark, as on skin.", "S": [], "A": []}

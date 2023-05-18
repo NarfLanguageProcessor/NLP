@@ -1,0 +1,1 @@
+{"index": 230547, "D": "an alkaloid, C19H24ON2, obtained from pereira bark  and formerly used as a quinine substitute.", "S": [], "A": []}

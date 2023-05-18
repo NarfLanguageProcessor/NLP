@@ -1,0 +1,1 @@
+{"index": 324459, "D": "to exercise absolute power or control, especially cruelly or oppressively (often followed by over).", "S": ["dictate ", "dominate ", "domineer ", "persecute ", "trample "], "A": ["follow ", "submit ", "surrender ", "yield "]}

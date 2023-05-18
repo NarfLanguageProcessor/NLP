@@ -1,0 +1,1 @@
+{"index": 255635, "D": "a disease of citrus trees, characterized by a scaly, rough bark, yellow-flecked leaves, and stunting, caused by a virus.", "S": [], "A": []}

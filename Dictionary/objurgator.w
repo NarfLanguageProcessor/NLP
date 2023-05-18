@@ -1,0 +1,1 @@
+{"index": 210151, "D": "to reproach or denounce vehemently; upbraid harshly; berate sharply.", "S": [], "A": []}

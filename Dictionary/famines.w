@@ -1,0 +1,1 @@
+{"index": 109627, "D": "extreme and general scarcity of food, as in a country or a large geographical area.", "S": ["drought ", "misery ", "poverty ", "scarcity ", "starvation "], "A": ["abundance ", "plenty "]}

@@ -1,0 +1,1 @@
+{"index": 200304, "D": "a congenital or acquired persistent, rapid, involuntary, and oscillatory movement of the eyeball, usually from side to side.", "S": [], "A": []}

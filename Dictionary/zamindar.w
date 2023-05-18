@@ -1,0 +1,1 @@
+{"index": 368808, "D": "(in British India) a landlord required to pay a land tax to the government.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 123286, "D": "the section of the Talmud consisting essentially of commentary on the Mishnah.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225806, "D": "a decoration for a room, as a tapestry.", "S": [], "A": []}

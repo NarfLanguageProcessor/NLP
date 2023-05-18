@@ -1,0 +1,1 @@
+{"index": 360300, "D": "a mask or visor.", "S": [], "A": []}

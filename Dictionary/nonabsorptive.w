@@ -1,0 +1,1 @@
+{"index": 200981, "D": "able or tending to absorb; absorbent. ", "S": [], "A": []}

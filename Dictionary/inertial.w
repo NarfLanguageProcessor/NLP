@@ -1,0 +1,1 @@
+{"index": 151602, "D": "inertness, especially with regard to effort, motion, action, and the like; inactivity; sluggishness.", "S": [], "A": []}

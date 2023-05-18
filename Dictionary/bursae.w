@@ -1,0 +1,1 @@
+{"index": 43305, "D": "a pouch, sac, or vesicle, especially a sac containing synovia, to facilitate motion, as between a tendon and a bone.", "S": ["crater "], "A": ["bulge ", "closure ", "mountain ", "solid "]}

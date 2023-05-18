@@ -1,0 +1,1 @@
+{"index": 332179, "D": "an aluminum-bronze or cupronickel coin and monetary unit of the Mongolian People's Republic,  equal to 100 mongo.", "S": [], "A": []}

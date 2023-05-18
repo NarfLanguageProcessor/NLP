@@ -1,0 +1,1 @@
+{"index": 148664, "D": "a contagious skin disease, especially of children, usually caused by streptococcal bacteria, marked by a superficial pustular eruption, particularly on the face.", "S": [], "A": []}

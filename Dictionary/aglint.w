@@ -1,0 +1,1 @@
+{"index": 6258, "D": "displaying bright points of light, as by reflection; glittering", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94684, "D": "a tidal bore or flood.", "S": ["deluge ", "downpour ", "flow ", "glut ", "spate ", "stream ", "surge ", "tide ", "torrent ", "tsunami ", "wave "], "A": ["trickle ", "dearth ", "lack "]}

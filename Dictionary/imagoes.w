@@ -1,0 +1,1 @@
+{"index": 147620, "D": "an adult insect.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187379, "D": "a unit of luminance equal to one thousandth of a lambert. Abbreviation", "S": [], "A": []}

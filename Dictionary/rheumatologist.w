@@ -1,0 +1,1 @@
+{"index": 271935, "D": "a specialist in rheumatology,  especially a physician who specializes in the treatment of rheumatic diseases, as arthritis, lupus erythematosus, and scleroderma.", "S": [], "A": []}

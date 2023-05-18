@@ -1,0 +1,1 @@
+{"index": 49423, "D": "a Siouan language of North and South Carolina.", "S": [], "A": []}

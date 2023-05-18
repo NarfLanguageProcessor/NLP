@@ -1,0 +1,1 @@
+{"index": 95412, "D": "a subspecies or race that is especially adapted to a particular set of environmental conditions.", "S": [], "A": []}

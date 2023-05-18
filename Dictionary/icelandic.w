@@ -1,0 +1,1 @@
+{"index": 145994, "D": "of or relating to Iceland,  its inhabitants, or their language.", "S": [], "A": []}

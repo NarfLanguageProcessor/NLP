@@ -1,0 +1,1 @@
+{"index": 156901, "D": "the doctrine that moral values and duties can be discerned directly.", "S": ["ESP ", "clairvoyance ", "intuition ", "intuitivism ", "keen intuition ", "precognition ", "presentiment ", "psychic powers ", "second sight ", "sixth sense ", "telepathy ", "vision "], "A": []}

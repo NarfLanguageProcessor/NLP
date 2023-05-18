@@ -1,0 +1,1 @@
+{"index": 93470, "D": "half-asleep; sleepy.", "S": ["languidly ", "slowly ", "sluggishly ", "tiredly "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53013, "D": "to pursue in order to seize, overtake, etc.", "S": ["hunt ", "quest ", "race "], "A": ["escape ", "retreat "]}

@@ -1,0 +1,1 @@
+{"index": 95398, "D": "the branch of physiology  that deals with the physiological processes of organisms with respect to their environment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18311, "D": "a tree, Coffea arabica, of the madder family,  the principal species of coffee cultivated in Latin America and the chief coffee tree of commerce.", "S": [], "A": []}

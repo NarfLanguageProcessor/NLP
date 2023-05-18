@@ -1,0 +1,1 @@
+{"index": 93836, "D": "the 13th century, with reference to Italy, especially to its art or literature.", "S": [], "A": []}

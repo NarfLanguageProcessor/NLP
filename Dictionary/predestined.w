@@ -1,0 +1,1 @@
+{"index": 246854, "D": "destined in advance; foreordained; predetermined", "S": ["absolute ", "clear ", "definite ", "genuine ", "positive ", "real ", "safe ", "sure ", "true ", "undeniable "], "A": ["counterfeit ", "doubted ", "doubtful ", "false ", "invalid ", "uncertain ", "unreal ", "unsure ", "vague "]}

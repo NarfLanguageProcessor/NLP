@@ -1,0 +1,1 @@
+{"index": 65759, "D": "a large, heavy, broad-wheeled covered wagon, used especially for transporting pioneers and freight across North America during the early westward migration.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 284296, "D": "partially hardy;  able to survive moderately low temperatures", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279980, "D": "the art of representing objects in accordance with the rules of perspective.", "S": ["landscape painter ", "scenewright ", "scenic artist "], "A": []}

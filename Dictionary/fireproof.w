@@ -1,0 +1,1 @@
+{"index": 113194, "D": "resistant to destruction by fire. ", "S": ["concrete "], "A": ["waterproof "]}

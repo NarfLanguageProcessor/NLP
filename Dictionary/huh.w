@@ -1,0 +1,1 @@
+{"index": 144767, "D": "(used as an exclamation of surprise, bewilderment, disbelief, contempt, or interrogation.)", "S": ["ahem ", "alas ", "amen ", "boo ", "er ", "exclamation ", "hello ", "hooray ", "hurrah ", "oh ", "shucks ", "whoopee ", "wow "], "A": []}

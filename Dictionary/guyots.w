@@ -1,0 +1,1 @@
+{"index": 131126, "D": "a flat-topped seamount, found chiefly in the Pacific Ocean.", "S": [], "A": []}

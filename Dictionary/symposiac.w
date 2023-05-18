@@ -1,0 +1,1 @@
+{"index": 291120, "D": "of, relating to, or suitable for a symposium.", "S": [], "A": []}

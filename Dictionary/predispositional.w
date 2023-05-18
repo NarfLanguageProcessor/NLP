@@ -1,0 +1,1 @@
+{"index": 247072, "D": "the fact or condition of being predisposed", "S": [], "A": []}

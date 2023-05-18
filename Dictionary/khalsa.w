@@ -1,0 +1,1 @@
+{"index": 164231, "D": "a martial fraternity originated in 1699 and remaining as one of the closely knit communities of the Sikhs.", "S": [], "A": []}

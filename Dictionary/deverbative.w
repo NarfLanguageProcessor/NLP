@@ -1,0 +1,1 @@
+{"index": 83507, "D": "(especially of nouns) derived from a verb, as the noun driver from the verb drive.", "S": [], "A": []}

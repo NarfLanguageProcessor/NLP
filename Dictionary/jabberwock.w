@@ -1,0 +1,1 @@
+{"index": 159814, "D": "a playful imitation of language consisting of invented, meaningless words; nonsense; gibberish.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 65858, "D": "advocacy of the maintenance of a confession of faith.", "S": [], "A": []}

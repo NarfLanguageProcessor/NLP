@@ -1,0 +1,1 @@
+{"index": 101680, "D": "to place in a position of strength; establish firmly or solidly", "S": ["define ", "embed ", "ensconce ", "fortify ", "ingrain ", "strengthen "], "A": ["discourage ", "dissuade ", "hurt ", "weaken ", "destroy ", "disorganize ", "displace ", "end ", "leave ", "let go ", "move ", "remove ", "unsettle ", "upset "]}

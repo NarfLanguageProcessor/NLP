@@ -1,0 +1,1 @@
+{"index": 206242, "D": "of or relating to projection.", "S": [], "A": []}

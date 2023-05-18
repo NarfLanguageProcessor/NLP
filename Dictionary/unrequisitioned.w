@@ -1,0 +1,1 @@
+{"index": 349667, "D": "the act of requiring  or demanding.", "S": [], "A": []}

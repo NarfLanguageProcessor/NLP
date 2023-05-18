@@ -1,0 +1,1 @@
+{"index": 24258, "D": "independence or freedom, as of the will or one's actions", "S": ["freedom ", "self-determination ", "self-government ", "self-rule ", "sovereignty "], "A": ["dependence "]}

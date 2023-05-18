@@ -1,0 +1,1 @@
+{"index": 215455, "D": "the structure or framework supporting a building or sculpture.", "S": [], "A": []}

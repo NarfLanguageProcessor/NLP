@@ -1,0 +1,1 @@
+{"index": 280550, "D": "variants of shtick. ", "S": ["distinctiveness ", "eccentricity ", "foible ", "idiosyncrasy ", "particularity ", "quirk ", "trait "], "A": ["simplicity "]}

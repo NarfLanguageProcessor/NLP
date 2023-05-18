@@ -1,0 +1,1 @@
+{"index": 274452, "D": "of, relating to, or involving acting.", "S": [], "A": []}

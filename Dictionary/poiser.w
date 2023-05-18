@@ -1,0 +1,1 @@
+{"index": 241370, "D": "a person or thing that poises. ", "S": [], "A": []}

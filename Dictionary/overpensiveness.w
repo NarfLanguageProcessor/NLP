@@ -1,0 +1,1 @@
+{"index": 220471, "D": "dreamily or wistfully thoughtful", "S": [], "A": []}

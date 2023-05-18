@@ -1,0 +1,1 @@
+{"index": 258957, "D": "a clever or witty remark or comment.", "S": ["hoot ", "quip ", "ridicule ", "scoff ", "sneer ", "snipe ", "taunt "], "A": ["compliment ", "praise ", "commend ", "flatter "]}

@@ -1,0 +1,1 @@
+{"index": 214899, "D": "a plant, Sedum telephium, of the stonecrop family, having purplish flowers.", "S": [], "A": []}

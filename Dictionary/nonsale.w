@@ -1,0 +1,1 @@
+{"index": 206974, "D": "the act of selling. ", "S": [], "A": []}

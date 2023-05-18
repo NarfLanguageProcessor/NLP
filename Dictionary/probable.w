@@ -1,0 +1,1 @@
+{"index": 251011, "D": "likely to occur or prove true", "S": ["apparent ", "credible ", "feasible ", "plausible ", "possible ", "presumed ", "reasonable "], "A": ["implausible ", "impossible ", "improbable ", "inconceivable ", "unbelievable ", "unlikely ", "unreasonable "]}

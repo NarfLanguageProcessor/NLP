@@ -1,0 +1,1 @@
+{"index": 260007, "D": "a person or thing that raids. ", "S": ["pirate "], "A": []}

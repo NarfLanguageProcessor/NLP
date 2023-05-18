@@ -1,0 +1,1 @@
+{"index": 295307, "D": "apt to snap  or bite; snappish, as a dog.", "S": ["cross ", "disagreeable ", "edgy ", "fractious ", "hasty ", "huffy ", "petulant ", "quick-tempered ", "snappish ", "tart ", "testy ", "touchy ", "waspish "], "A": ["happy ", "nice ", "pleasant "]}

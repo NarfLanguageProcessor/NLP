@@ -1,0 +1,1 @@
+{"index": 133633, "D": "a book bound in cloth, leather, or the like, over stiff material", "S": [], "A": []}

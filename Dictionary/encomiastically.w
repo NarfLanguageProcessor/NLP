@@ -1,0 +1,1 @@
+{"index": 99444, "D": "a person who utters or writes an encomium; eulogist.", "S": [], "A": []}

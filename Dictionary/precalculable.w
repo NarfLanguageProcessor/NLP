@@ -1,0 +1,1 @@
+{"index": 245901, "D": "determinable by calculation;  ascertainable", "S": [], "A": []}

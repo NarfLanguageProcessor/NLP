@@ -1,0 +1,1 @@
+{"index": 23235, "D": "a reddish-brown or golden-brown color.", "S": ["brown ", "chestnut ", "copper ", "hazel ", "henna ", "russet ", "rust ", "titian "], "A": []}

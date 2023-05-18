@@ -1,0 +1,1 @@
+{"index": 282590, "D": "pertaining to, dependent on, or accompanying the seasons  of the year or some particular season;  periodical", "S": ["periodic ", "repetitive "], "A": []}

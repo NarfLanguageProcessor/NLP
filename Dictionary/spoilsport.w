@@ -1,0 +1,1 @@
+{"index": 300657, "D": "a person whose selfish or unsportsmanlike attitudes or actions spoil the pleasure of others, as in a game or social gathering.", "S": ["drip ", "fuddy-duddy ", "grinch ", "grouch ", "killjoy ", "malcontent ", "sourpuss ", "stick-in-the-mud ", "wet blanket "], "A": ["life of the party ", "live wire "]}

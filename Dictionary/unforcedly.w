@@ -1,0 +1,1 @@
+{"index": 342501, "D": "enforced or compulsory", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189714, "D": "hatred of children, especially one's own.", "S": [], "A": []}

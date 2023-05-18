@@ -1,0 +1,1 @@
+{"index": 216262, "D": "a boxlike tray, basket, or the like, as on a desk, for holding outgoing mail, messages, or work.", "S": [], "A": []}

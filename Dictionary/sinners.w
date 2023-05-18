@@ -1,0 +1,1 @@
+{"index": 291856, "D": "a person who sins;  transgressor.", "S": ["transgressor ", "trespasser "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365530, "D": "any of several common freshwater ducks  related to the mallards and teals in the genus Anas, having metallic green flight feathers, a white wing patch, and a buff or white forehead, including A. penelope of Eurasia and North Africa, A. sibilatrix of South America, and the baldpate, A. americana, of North America.", "S": [], "A": []}

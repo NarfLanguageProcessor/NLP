@@ -1,0 +1,1 @@
+{"index": 266056, "D": "an act or instance of humiliating  or being humiliated. ", "S": [], "A": []}

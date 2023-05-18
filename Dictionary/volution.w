@@ -1,0 +1,1 @@
+{"index": 361285, "D": "a rolling, revolving, or spiral form or motion", "S": ["involution ", "rotation ", "wheeling "], "A": []}

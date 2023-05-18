@@ -1,0 +1,1 @@
+{"index": 55453, "D": "extremely irritable or easily angered; irascible", "S": ["irascible ", "peevish ", "quick-tempered "], "A": []}

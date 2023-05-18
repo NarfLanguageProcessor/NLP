@@ -1,0 +1,1 @@
+{"index": 100154, "D": "to give energy  to; rouse into activity", "S": ["animate ", "electrify ", "empower ", "excite ", "invigorate ", "motivate ", "reinforce ", "stimulate ", "strengthen ", "trigger "], "A": ["bore ", "calm ", "deaden ", "depress ", "discourage ", "dishearten ", "dissuade ", "dull ", "weaken ", "halt ", "stop "]}

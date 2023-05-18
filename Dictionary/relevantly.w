@@ -1,0 +1,1 @@
+{"index": 266859, "D": "bearing upon or connected with the matter in hand; pertinent", "S": ["accordingly ", "aptly ", "duly ", "judiciously ", "justly ", "properly "], "A": ["unsuitably "]}

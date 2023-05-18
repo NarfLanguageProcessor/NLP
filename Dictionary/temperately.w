@@ -1,0 +1,1 @@
+{"index": 318519, "D": "moderate or self-restrained; not extreme in opinion, statement, etc.", "S": ["accurately ", "correctly ", "decently ", "duly ", "equally ", "equitably ", "honestly ", "honorably ", "impartially ", "lawfully ", "legally ", "legitimately ", "properly ", "reasonably ", "rightfully ", "rightly "], "A": ["wrongly "]}

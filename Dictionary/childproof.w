@@ -1,0 +1,1 @@
+{"index": 54315, "D": "resistant to being opened, tampered with, or operated by a child", "S": [], "A": []}

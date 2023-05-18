@@ -1,0 +1,1 @@
+{"index": 62465, "D": "to wind into continuous, regularly spaced rings one above the other", "S": ["artful ", "circuitous ", "convoluted ", "curved ", "meandering ", "sinuous ", "twisting "], "A": ["straight "]}

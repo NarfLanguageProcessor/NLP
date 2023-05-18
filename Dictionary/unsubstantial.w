@@ -1,0 +1,1 @@
+{"index": 352277, "D": "not substantial;  having no foundation in fact; fanciful; insubstantial", "S": ["fragile ", "frail ", "thin "], "A": ["undeniable ", "well-founded "]}

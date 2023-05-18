@@ -1,0 +1,1 @@
+{"index": 22152, "D": "U.S. capitalist and fur merchant.", "S": [], "A": []}

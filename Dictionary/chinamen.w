@@ -1,0 +1,1 @@
+{"index": 54549, "D": "a term used to refer to a Chinese person or a person of Chinese descent.", "S": [], "A": []}

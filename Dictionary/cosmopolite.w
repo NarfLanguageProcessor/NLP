@@ -1,0 +1,1 @@
+{"index": 70096, "D": "a person who is cosmopolitan  in their ideas, life, etc.; citizen of the world.", "S": ["autochthon ", "inhabitant ", "national ", "native ", "resident ", "taxpayer ", "townswoman "], "A": ["alien ", "foreigner "]}

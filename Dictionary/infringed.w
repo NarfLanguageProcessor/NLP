@@ -1,0 +1,1 @@
+{"index": 152363, "D": "violated, transgressed, or encroached upon, as a regulation, restriction, or right", "S": ["breach ", "contravene ", "disobey ", "encroach ", "impose ", "intrude ", "meddle ", "offend ", "trespass "], "A": ["give ", "obey ", "receive "]}

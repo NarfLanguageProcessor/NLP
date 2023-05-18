@@ -1,0 +1,1 @@
+{"index": 235449, "D": "a transistor  that amplifies current induced by photoconductivity.", "S": [], "A": []}

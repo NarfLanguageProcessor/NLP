@@ -1,0 +1,1 @@
+{"index": 38902, "D": "a large vase or pot  for cut flowers or small branches.", "S": [], "A": []}

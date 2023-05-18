@@ -1,0 +1,1 @@
+{"index": 349299, "D": "not reflecting;  unthinking", "S": ["ardent ", "impulsive "], "A": ["calm ", "cautious ", "circumspect ", "considerate ", "reflective ", "sensible ", "thoughtful ", "wise "]}

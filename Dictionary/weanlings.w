@@ -1,0 +1,1 @@
+{"index": 363515, "D": "a child or animal newly weaned. ", "S": ["calf ", "colt "], "A": []}

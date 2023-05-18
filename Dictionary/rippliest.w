@@ -1,0 +1,1 @@
+{"index": 273202, "D": "characterized by ripples; rippling. ", "S": ["rough ", "uneven "], "A": ["even ", "level ", "smooth "]}

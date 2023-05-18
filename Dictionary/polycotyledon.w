@@ -1,0 +1,1 @@
+{"index": 241783, "D": "a plant having more than two cotyledons,  as certain gymnosperms.", "S": [], "A": []}

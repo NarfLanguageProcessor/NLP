@@ -1,0 +1,1 @@
+{"index": 287563, "D": "having a thin cutting edge or a fine point; well-adapted for cutting or piercing", "S": ["clearly ", "strongly "], "A": []}

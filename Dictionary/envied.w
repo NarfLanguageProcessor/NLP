@@ -1,0 +1,1 @@
+{"index": 101812, "D": "a feeling of discontent or covetousness with regard to another's advantages, success, possessions, etc.", "S": ["begrudge ", "covet ", "crave ", "resent ", "yearn "], "A": ["abjure ", "dislike ", "hate ", "despise "]}

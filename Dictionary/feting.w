@@ -1,0 +1,1 @@
+{"index": 111762, "D": "a day of celebration; holiday", "S": ["ball ", "banquet ", "bazaar ", "do ", "fair ", "festival ", "fiesta ", "gala "], "A": []}

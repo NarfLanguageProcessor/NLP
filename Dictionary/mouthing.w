@@ -1,0 +1,1 @@
+{"index": 194353, "D": "the action of speaking in a meaningless, bombastic, or hypocritical manner.", "S": ["articulating ", "chattering ", "conversing ", "discussing ", "echoing ", "expressing ", "orating ", "ranting ", "repeating ", "spouting ", "vocalizing "], "A": ["hearing ", "listening ", "witnessing "]}

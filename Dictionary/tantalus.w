@@ -1,0 +1,1 @@
+{"index": 316240, "D": "a Phrygian king who was condemned to remain in Tartarus, chin deep in water, with fruit-laden branches hanging above his head", "S": [], "A": []}

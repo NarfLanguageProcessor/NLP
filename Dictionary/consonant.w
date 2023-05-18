@@ -1,0 +1,1 @@
+{"index": 66922, "D": "(in linguistic function) a concept empirically determined as a phonological element in structural contrast with vowel, as the b of be, the w of we, the y, s, and t of yeast, etc.", "S": ["agnate ", "blending ", "correspondent ", "like ", "parallel ", "uniform "], "A": ["different ", "dissimilar ", "divergent ", "unlike "]}

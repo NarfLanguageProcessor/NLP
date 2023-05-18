@@ -1,0 +1,1 @@
+{"index": 84681, "D": "a small gazelle, Ammodorcas clarkei, of Somaliland, having a long neck", "S": [], "A": []}

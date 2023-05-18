@@ -1,0 +1,1 @@
+{"index": 94918, "D": "an annual Christian festival in commemoration of the resurrection of Jesus Christ, observed on the first Sunday after the first full moon after the vernal equinox, as calculated according to tables based in Western churches on the Gregorian calendar and in Orthodox churches on the Julian calendar.", "S": [], "A": []}

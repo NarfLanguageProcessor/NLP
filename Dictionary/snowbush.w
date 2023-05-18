@@ -1,0 +1,1 @@
+{"index": 295796, "D": "any of several ornamental shrubs having a profusion of white flowers, as Ceanothus cordulatus, of the buckthorn family, native to western North America.", "S": [], "A": []}

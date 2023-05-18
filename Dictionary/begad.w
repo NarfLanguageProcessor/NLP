@@ -1,0 +1,1 @@
+{"index": 30569, "D": "an emphatic exclamation", "S": [], "A": []}

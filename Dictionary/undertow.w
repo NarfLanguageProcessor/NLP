@@ -1,0 +1,1 @@
+{"index": 340021, "D": "the seaward, subsurface flow or draft of water from waves breaking on a beach.", "S": ["undercurrent "], "A": []}

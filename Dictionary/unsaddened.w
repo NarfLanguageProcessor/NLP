@@ -1,0 +1,1 @@
+{"index": 350208, "D": "to make or become sad. ", "S": [], "A": []}

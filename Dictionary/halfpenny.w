@@ -1,0 +1,1 @@
+{"index": 132617, "D": "a bronze coin of the United Kingdom, equal to half a penny", "S": [], "A": []}

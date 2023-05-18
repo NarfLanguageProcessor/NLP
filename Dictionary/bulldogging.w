@@ -1,0 +1,1 @@
+{"index": 42515, "D": "one of an English breed of medium-sized, short-haired, muscular dogs  with prominent, undershot jaws, usually having a white and tan or brindled coat, raised originally for bullbaiting.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211786, "D": "an instrument for measuring electric resistance in ohms. ", "S": [], "A": []}

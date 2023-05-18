@@ -1,0 +1,1 @@
+{"index": 92322, "D": "down  the stairs. ", "S": ["basement ", "canvas ", "carpet ", "deck ", "flooring ", "ground ", "mat ", "rug ", "stage "], "A": ["ceiling "]}

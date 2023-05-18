@@ -1,0 +1,1 @@
+{"index": 365189, "D": "a rubber tire for an automobile, bicycle, etc., whose sidewall  is colored white. ", "S": [], "A": []}

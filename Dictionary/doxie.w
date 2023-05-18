@@ -1,0 +1,1 @@
+{"index": 92387, "D": "opinion; doctrine.", "S": [], "A": []}

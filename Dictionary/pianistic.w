@@ -1,0 +1,1 @@
+{"index": 235713, "D": "relating to, characteristic of, or adaptable for the piano. ", "S": [], "A": []}

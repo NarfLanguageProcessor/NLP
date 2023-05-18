@@ -1,0 +1,1 @@
+{"index": 292653, "D": "a person who sits. ", "S": ["curator ", "custodian ", "janitor ", "keeper ", "superintendent ", "supervisor ", "warden "], "A": []}

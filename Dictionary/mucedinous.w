@@ -1,0 +1,1 @@
+{"index": 194509, "D": "of or resembling mold or mildew.", "S": [], "A": []}

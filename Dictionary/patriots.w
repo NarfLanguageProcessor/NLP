@@ -1,0 +1,1 @@
+{"index": 227911, "D": "a person who loves, supports, and defends their country and its interests with devotion.", "S": ["flag-waver ", "jingoist ", "loyalist ", "nationalist ", "partisan ", "patrioteer ", "volunteer "], "A": ["traitor "]}

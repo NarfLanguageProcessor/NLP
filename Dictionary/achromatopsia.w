@@ -1,0 +1,1 @@
+{"index": 2362, "D": "color blindness (def. 2). ", "S": ["achromatic vision ", "color vision deficiency ", "daltonism ", "dichromatic vision "], "A": []}

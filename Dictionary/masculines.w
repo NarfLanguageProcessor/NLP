@@ -1,0 +1,1 @@
+{"index": 180636, "D": "pertaining to or characteristic of a man or men", "S": ["andric ", "gender ", "macho ", "male ", "manful ", "mannish ", "potent ", "virile "], "A": ["feminine "]}

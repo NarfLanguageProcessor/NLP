@@ -1,0 +1,1 @@
+{"index": 120954, "D": "a variant spelling of gauger", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234006, "D": "a nodule, swelling, or small, rounded tumor of the skin.", "S": [], "A": []}

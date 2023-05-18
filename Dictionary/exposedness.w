@@ -1,0 +1,1 @@
+{"index": 107951, "D": "left or being without shelter or protection", "S": ["danger ", "exposure ", "hazard ", "liability ", "opportunity ", "peril ", "possibility ", "prospect ", "uncertainty "], "A": ["certainty ", "safety ", "security ", "misfortune ", "plan ", "protection ", "reality ", "truth "]}

@@ -1,0 +1,1 @@
+{"index": 15801, "D": [], "S": ["abhor ", "avoid ", "condemn ", "deplore ", "despise ", "detest ", "disapprove ", "loathe ", "regret ", "resent ", "scorn ", "shun "], "A": ["admire ", "adore ", "approve ", "be happy ", "cherish ", "face ", "like ", "love ", "meet "]}

@@ -1,0 +1,1 @@
+{"index": 126249, "D": "the formation of glycogen from monosaccharides in the body, especially glucose.", "S": [], "A": []}

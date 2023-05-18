@@ -1,0 +1,1 @@
+{"index": 107727, "D": "to engage in experiments", "S": ["analyze ", "assess ", "check ", "confirm ", "demonstrate ", "investigate ", "prove ", "question ", "try ", "verify "], "A": ["discredit ", "disprove ", "invalidate "]}

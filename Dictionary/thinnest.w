@@ -1,0 +1,1 @@
+{"index": 321915, "D": "having relatively little extent from one surface or side to the opposite; not thick", "S": ["delicate ", "fragile ", "gaunt ", "lean ", "meager ", "narrow ", "skinny ", "slim ", "small "], "A": ["big ", "broad-minded ", "fat ", "generous ", "heavy ", "large ", "liberal ", "plump ", "strong ", "thick ", "wide ", "colorful ", "flushed "]}

@@ -1,0 +1,1 @@
+{"index": 342645, "D": "having a pleasant scent or aroma; sweet-smelling; sweet-scented", "S": ["inodorous "], "A": ["aromatic ", "odorous ", "perfumed ", "scented ", "smelly "]}

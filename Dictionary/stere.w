@@ -1,0 +1,1 @@
+{"index": 303858, "D": "a cubic meter equivalent to 35.315 cubic feet or 1.3080 cubic yards, used to measure cordwood. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8210, "D": "capable of being sold or transferred.", "S": [], "A": []}

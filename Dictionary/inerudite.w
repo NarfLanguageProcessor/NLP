@@ -1,0 +1,1 @@
+{"index": 151610, "D": [], "S": ["ignorant ", "uneducated "], "A": ["educated ", "intelligent "]}

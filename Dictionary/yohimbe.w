@@ -1,0 +1,1 @@
+{"index": 157557, "D": "a tropical African tree, Corynanthe johimbe, whose bark is a source of the alkaloid yohimbine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172040, "D": "carefree; cheerful; merry", "S": ["blithely ", "brightly ", "gaily ", "genially ", "gladly ", "gleefully ", "happily ", "joyfully ", "merrily ", "optimistically ", "playfully ", "pleasantly ", "readily ", "willingly "], "A": ["sadly ", "unhappily "]}

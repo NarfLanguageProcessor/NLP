@@ -1,0 +1,1 @@
+{"index": 251072, "D": "of the nature of a problem; doubtful; uncertain; questionable", "S": ["ambiguous ", "dubious ", "moot ", "precarious ", "puzzling ", "questionable ", "tricky ", "uncertain ", "unsettled "], "A": ["certain ", "clear ", "decided ", "definite ", "proven ", "sure ", "undoubted "]}

@@ -1,0 +1,1 @@
+{"index": 34366, "D": "the production of living organisms from other living organisms.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 319044, "D": "one of the hooks  or bent nails that hold cloth stretched on a tenter. ", "S": [], "A": []}

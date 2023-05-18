@@ -1,0 +1,1 @@
+{"index": 217180, "D": "the act of turning out; production", "S": [], "A": []}

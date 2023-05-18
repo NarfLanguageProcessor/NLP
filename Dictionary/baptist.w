@@ -1,0 +1,1 @@
+{"index": 27642, "D": "a member of a Christian denomination that baptizes believers by immersion and that is usually Calvinistic in doctrine.", "S": [], "A": []}

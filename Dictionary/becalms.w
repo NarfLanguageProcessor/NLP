@@ -1,0 +1,1 @@
+{"index": 29765, "D": "to deprive (a sailing vessel) of the wind necessary to move it; subject to a calm", "S": ["allay ", "compose ", "lull ", "pacify ", "placate ", "quiet ", "relax ", "settle ", "soothe ", "steady ", "still "], "A": ["agitate ", "distress ", "excite ", "irritate ", "move ", "upset ", "worry "]}

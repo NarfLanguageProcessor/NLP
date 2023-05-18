@@ -1,0 +1,1 @@
+{"index": 273530, "D": "to utter a loud, deep cry or howl, as in excitement, distress, or anger.", "S": ["bark ", "blast ", "boom ", "crash ", "explode ", "holler ", "rebound ", "resound ", "rumble ", "shout ", "thunder ", "yell "], "A": []}

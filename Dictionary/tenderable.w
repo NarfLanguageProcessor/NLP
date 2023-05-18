@@ -1,0 +1,1 @@
+{"index": 318732, "D": "capable of being tendered  or offered in payment, as money or goods.", "S": [], "A": []}

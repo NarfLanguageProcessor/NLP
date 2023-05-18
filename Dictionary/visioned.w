@@ -1,0 +1,1 @@
+{"index": 360408, "D": "pertaining to, seen in, or arising from a vision", "S": ["calculate ", "envisage ", "estimate ", "forecast ", "predict ", "propose ", "see "], "A": ["destroy ", "disbelieve ", "disorder ", "disorganize ", "disregard ", "forget ", "ignore ", "neglect "]}

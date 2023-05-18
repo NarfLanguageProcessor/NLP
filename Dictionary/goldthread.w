@@ -1,0 +1,1 @@
+{"index": 127560, "D": "a white-flowered plant, Coptis trifolia, of the buttercup family, having a slender, yellow root that is sometimes used as a tonic.", "S": [], "A": []}

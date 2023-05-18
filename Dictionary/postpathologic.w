@@ -1,0 +1,1 @@
+{"index": 244382, "D": "of or relating to pathology. ", "S": [], "A": []}

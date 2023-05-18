@@ -1,0 +1,1 @@
+{"index": 124546, "D": "a hot dust-bearing wind of the North African desert.", "S": [], "A": []}

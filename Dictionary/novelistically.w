@@ -1,0 +1,1 @@
+{"index": 209126, "D": "of, relating to, or characteristic of novels. ", "S": [], "A": []}

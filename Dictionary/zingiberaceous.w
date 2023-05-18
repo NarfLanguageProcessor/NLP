@@ -1,0 +1,1 @@
+{"index": 369461, "D": "belonging to the Zingiberaceae, the ginger family of plants.", "S": [], "A": []}

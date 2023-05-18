@@ -1,0 +1,1 @@
+{"index": 302123, "D": "the Vedas and some of the Upanishads, regarded as divinely revealed.", "S": [], "A": []}

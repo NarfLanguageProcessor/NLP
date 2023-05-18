@@ -1,0 +1,1 @@
+{"index": 223118, "D": "a sheet of thin metallic foil used decoratively in enameling and gilding.", "S": [], "A": []}

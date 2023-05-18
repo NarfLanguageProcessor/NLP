@@ -1,0 +1,1 @@
+{"index": 367125, "D": "either of two plump, short-legged migratory game birds of variegated brown plumage, the Eurasian Scolopax rusticola and the smaller American Philohela minor.", "S": ["curlew ", "grouse ", "partridge ", "pheasant ", "plover ", "quail ", "sandpiper ", "snipe ", "wild turkey ", "wildfowl "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 31238, "D": "bell-bottom (def. 2). ", "S": ["admiration ", "approval ", "consent ", "endorsement ", "esteem ", "favor ", "go ahead ", "okay ", "permission ", "recognition ", "sanction ", "support "], "A": ["denial ", "disagreement ", "disapproval ", "disfavor ", "dislike ", "hatred ", "opposition ", "refusal ", "rejection ", "veto "]}

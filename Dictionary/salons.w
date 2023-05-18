@@ -1,0 +1,1 @@
+{"index": 277180, "D": "a drawing room or reception room in a large house.", "S": ["gallery ", "hall ", "parlor ", "room ", "shop ", "showroom "], "A": []}

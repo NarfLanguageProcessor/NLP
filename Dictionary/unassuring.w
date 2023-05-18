@@ -1,0 +1,1 @@
+{"index": 335354, "D": "to declare earnestly to; inform or tell positively; state with confidence to", "S": [], "A": []}

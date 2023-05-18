@@ -1,0 +1,1 @@
+{"index": 53342, "D": "a pile of loosely stacked bricks in the regenerator of a regenerative furnace.", "S": [], "A": []}

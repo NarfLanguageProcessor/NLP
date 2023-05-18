@@ -1,0 +1,1 @@
+{"index": 333923, "D": "a filter  for purifying sols, having a membrane with pores sufficiently small to prevent the passage of the suspended particles.", "S": [], "A": []}

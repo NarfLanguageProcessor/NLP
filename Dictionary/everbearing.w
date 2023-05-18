@@ -1,0 +1,1 @@
+{"index": 106146, "D": "continuously producing or bringing forth, as a tree or shrub.", "S": [], "A": []}

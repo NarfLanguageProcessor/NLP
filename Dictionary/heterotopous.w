@@ -1,0 +1,1 @@
+{"index": 137802, "D": "misplacement or displacement, as of an organ.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303900, "D": "pertaining to or exhibiting stereoisomerism. ", "S": [], "A": []}

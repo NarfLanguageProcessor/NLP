@@ -1,0 +1,1 @@
+{"index": 127477, "D": "a ruined city in S India, near the modern city of Hyderabad", "S": ["Eldorado ", "bonanza ", "cash cow ", "golden goose ", "goose that laid the golden egg ", "gravy train ", "license to print money ", "mother lode ", "rich lode ", "source of supply ", "vein ", "very profitable venture "], "A": []}

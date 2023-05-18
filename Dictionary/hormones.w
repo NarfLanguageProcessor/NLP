@@ -1,0 +1,1 @@
+{"index": 143822, "D": [], "S": ["condom ", "diaphragm ", "pill "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152671, "D": "as a natural, necessary, or inseparable element or quality", "S": ["constitutionally ", "genetically ", "intrinsically ", "naturally "], "A": []}

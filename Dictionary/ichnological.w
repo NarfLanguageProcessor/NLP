@@ -1,0 +1,1 @@
+{"index": 146041, "D": "the branch of paleontology concerned with the study of fossilized tracks, trails, burrows, borings, or other trace fossils as evidence of the occurrence or behavior of the organisms that produced them.", "S": [], "A": []}

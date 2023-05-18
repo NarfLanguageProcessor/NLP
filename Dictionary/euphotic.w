@@ -1,0 +1,1 @@
+{"index": 105667, "D": "noting or pertaining to the layer or zone of sea water that receives enough sunlight for photosynthesis to occur, varying greatly with season and latitude, from 0 to 1,200 feet (0\u2013360 meters).", "S": [], "A": []}

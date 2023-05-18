@@ -1,0 +1,1 @@
+{"index": 314110, "D": "the grassy surface of land; turf.", "S": ["pasture ", "plain ", "prairie ", "savanna ", "steppe "], "A": []}

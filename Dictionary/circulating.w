@@ -1,0 +1,1 @@
+{"index": 58033, "D": "to move in a circle  or circuit; move or pass through a circuit back to the starting point", "S": ["circling ", "moving ", "rotating "], "A": ["motionless ", "stationary ", "still "]}

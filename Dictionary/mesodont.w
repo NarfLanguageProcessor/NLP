@@ -1,0 +1,1 @@
+{"index": 184222, "D": "having medium-sized teeth.", "S": [], "A": []}

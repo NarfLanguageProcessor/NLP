@@ -1,0 +1,1 @@
+{"index": 162294, "D": "subject to sudden, involuntary starts, especially from nervousness, fear, excitement, etc.", "S": [], "A": []}

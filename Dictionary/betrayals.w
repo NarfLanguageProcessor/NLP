@@ -1,0 +1,1 @@
+{"index": 32794, "D": "the act of exposing or delivering someone to an enemy through treachery or disloyalty", "S": ["deception ", "dishonesty ", "sellout ", "treachery ", "treason "], "A": ["devotion ", "faithfulness ", "fidelity ", "frankness ", "honesty ", "loyalty ", "openness ", "truthfulness ", "forthrightness "]}

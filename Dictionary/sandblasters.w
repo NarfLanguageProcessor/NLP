@@ -1,0 +1,1 @@
+{"index": 277732, "D": "a blast  of air or steam laden with sand,  used to clean, grind, cut, or decorate hard surfaces, as of glass, stone, or metal.", "S": [], "A": []}

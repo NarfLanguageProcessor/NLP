@@ -1,0 +1,1 @@
+{"index": 121571, "D": "pertaining to reproduction by electrotypy.", "S": [], "A": []}

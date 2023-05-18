@@ -1,0 +1,1 @@
+{"index": 218247, "D": "artificial  quality.", "S": [], "A": []}

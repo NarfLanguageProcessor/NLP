@@ -1,0 +1,1 @@
+{"index": 194086, "D": "a person who operates or drives an electrically operated vehicle, as a streetcar or subway train.", "S": [], "A": []}

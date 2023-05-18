@@ -1,0 +1,1 @@
+{"index": 226213, "D": "an underwater defensive device against mines, consisting of a pair of torpedo-shaped vanes  towed at the bow of a ship, usually a minesweeper, by cables that can cut the cable of a moored mine, causing the mine to rise to the surface, where it can be destroyed or removed from the water.", "S": [], "A": []}

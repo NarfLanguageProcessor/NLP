@@ -1,0 +1,1 @@
+{"index": 282049, "D": "the nape or back of the neck.", "S": ["collar "], "A": []}

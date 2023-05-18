@@ -1,0 +1,1 @@
+{"index": 197460, "D": "an electrically operated horn for giving fog warnings.", "S": [], "A": []}

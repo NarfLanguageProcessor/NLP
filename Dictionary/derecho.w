@@ -1,0 +1,1 @@
+{"index": 82028, "D": "a widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.", "S": [], "A": []}

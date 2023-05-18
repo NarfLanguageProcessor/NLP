@@ -1,0 +1,1 @@
+{"index": 31163, "D": "a pain in the abdomen or bowels.", "S": ["bemoan ", "bitch ", "fuss ", "gripe ", "groan ", "grumble ", "protest ", "whine "], "A": ["compliment ", "praise "]}

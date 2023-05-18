@@ -1,0 +1,1 @@
+{"index": 286893, "D": "(of a fever) characterized by paroxysms that recur every sixth day.", "S": [], "A": []}

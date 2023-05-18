@@ -1,0 +1,1 @@
+{"index": 117056, "D": "the science of planting and taking care of trees and forests. ", "S": ["afforestation "], "A": []}

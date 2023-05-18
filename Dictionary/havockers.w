@@ -1,0 +1,1 @@
+{"index": 134440, "D": "great destruction or devastation; ruinous damage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 276256, "D": "having the form of a sac.", "S": [], "A": []}

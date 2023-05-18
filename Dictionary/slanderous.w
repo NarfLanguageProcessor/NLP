@@ -1,0 +1,1 @@
+{"index": 293633, "D": "relating to or being a false, malicious, and defamatory statement or report", "S": ["defamatory ", "disparaging ", "malicious "], "A": ["complimentary "]}

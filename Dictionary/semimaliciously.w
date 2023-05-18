@@ -1,0 +1,1 @@
+{"index": 284411, "D": "full of, characterized by, or showing malice;  intentionally harmful; spiteful", "S": [], "A": []}

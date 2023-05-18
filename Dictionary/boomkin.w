@@ -1,0 +1,1 @@
+{"index": 38169, "D": "a short boom projecting from the deck of a ship, used to secure the main-brace blocks or to extend the lower edge of the foresail", "S": [], "A": []}

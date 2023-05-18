@@ -1,0 +1,1 @@
+{"index": 185266, "D": "an ergot alkaloid derivative, C21H27N3O2, used in the prophylaxis and treatment of migraine and cluster headaches.", "S": [], "A": []}

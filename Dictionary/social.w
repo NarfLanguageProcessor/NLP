@@ -1,0 +1,1 @@
+{"index": 296098, "D": "relating to, devoted to, or characterized by friendly companionship or relations", "S": ["civil ", "communal "], "A": ["abnormal ", "aloof ", "cool ", "disagreeable ", "extraordinary ", "rare ", "uncommon ", "unfriendly ", "unpleasant ", "unsociable ", "unusual "]}

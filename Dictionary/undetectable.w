@@ -1,0 +1,1 @@
+{"index": 340219, "D": "to discover or catch (a person) in the performance of some act", "S": ["gradual ", "inaudible ", "indistinguishable ", "insignificant ", "invisible ", "microscopic ", "subtle "], "A": ["apparent ", "conspicuous ", "distinct ", "evident ", "noticeable ", "obvious ", "perceptible ", "seeable ", "striking ", "unobscured "]}

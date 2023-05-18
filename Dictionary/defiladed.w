@@ -1,0 +1,1 @@
+{"index": 79294, "D": "protection or shielding from hostile ground observation and flat projecting fire provided by an artificial or natural obstacle, as a hill.", "S": [], "A": []}

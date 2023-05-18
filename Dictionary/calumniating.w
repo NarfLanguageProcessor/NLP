@@ -1,0 +1,1 @@
+{"index": 45486, "D": "to make false and malicious statements about; slander.", "S": ["insulting ", "offensive ", "rude "], "A": ["kind ", "nice ", "respectful "]}

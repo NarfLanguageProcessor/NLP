@@ -1,0 +1,1 @@
+{"index": 238461, "D": "of, relating to, or serving as a pivot. ", "S": [], "A": []}

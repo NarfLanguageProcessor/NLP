@@ -1,0 +1,1 @@
+{"index": 284184, "D": "of or relating to the outside or outer part; outer", "S": [], "A": []}

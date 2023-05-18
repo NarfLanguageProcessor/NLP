@@ -1,0 +1,1 @@
+{"index": 114137, "D": "generating gas in the alimentary canal, as food.", "S": [], "A": []}

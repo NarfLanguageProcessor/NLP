@@ -1,0 +1,1 @@
+{"index": 362950, "D": "any of numerous social or solitary hymenopterous insects of the Vespidae, Sphecidae, and allied families, generally having a long, slender body and narrow waist and, in the female, a stinger.", "S": [], "A": []}

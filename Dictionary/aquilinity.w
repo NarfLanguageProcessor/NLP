@@ -1,0 +1,1 @@
+{"index": 18271, "D": "(of the nose) shaped like an eagle's beak; hooked.", "S": [], "A": []}

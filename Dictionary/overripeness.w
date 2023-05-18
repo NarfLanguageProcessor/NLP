@@ -1,0 +1,1 @@
+{"index": 220892, "D": "too ripe;  more than ripe", "S": [], "A": []}

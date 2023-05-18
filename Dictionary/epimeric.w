@@ -1,0 +1,1 @@
+{"index": 102585, "D": "either of a pair of isomeric aldose compounds, especially of certain sugars, that differ from each other in the positions of the H and OH at the second atom from the end of the carbon chain, as d-glucose and d-mannose.", "S": [], "A": []}

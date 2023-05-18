@@ -1,0 +1,1 @@
+{"index": 32358, "D": "to lay siege to.", "S": ["attack ", "beleaguerment ", "besieging ", "blockade "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97379, "D": "a writ of execution against a judgment debtor's goods, property, or land, held by the judgment creditor until payment of the debt, as from rents on the land.", "S": [], "A": []}

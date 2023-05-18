@@ -1,0 +1,1 @@
+{"index": 201186, "D": "moving or exciting the feelings or emotions.", "S": [], "A": []}

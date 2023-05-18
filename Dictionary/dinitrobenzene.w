@@ -1,0 +1,1 @@
+{"index": 86148, "D": "any of three isomeric benzene derivatives having the formula C6H4NO2, made by nitration of benzene or nitrobenzene,  the most important of which is the meta form", "S": [], "A": []}

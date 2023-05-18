@@ -1,0 +1,1 @@
+{"index": 212652, "D": "a near threatened  wild ass, Equus hemionus, inhabiting southwestern Asia and formerly distributed also through the Middle East and eastern Asia", "S": [], "A": []}

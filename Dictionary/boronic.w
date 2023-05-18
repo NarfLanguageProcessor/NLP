@@ -1,0 +1,1 @@
+{"index": 38487, "D": "a nonmetallic element occurring naturally only in combination, as in borax  or boric acid,  and obtained in either an amorphous or a crystalline form when reduced from its compounds. Symbol", "S": [], "A": []}

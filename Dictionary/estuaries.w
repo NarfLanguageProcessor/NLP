@@ -1,0 +1,1 @@
+{"index": 104770, "D": "that part of the mouth or lower course of a river in which the river's current meets the sea's tide.", "S": ["inlet ", "waterway "], "A": []}

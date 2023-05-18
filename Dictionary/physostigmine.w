@@ -1,0 +1,1 @@
+{"index": 234220, "D": "an alkaloid, C15H21N3O2, used in the treatment of Alzheimer's disease to raise the level of the neurotransmitter acetylcholine and also as a miotic in glaucoma.", "S": [], "A": []}

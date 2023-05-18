@@ -1,0 +1,1 @@
+{"index": 357409, "D": "Dilation of a blood vessel, as by the action of a nerve or drug.", "S": [], "A": []}

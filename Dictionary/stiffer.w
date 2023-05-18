@@ -1,0 +1,1 @@
+{"index": 304360, "D": "rigid or firm; difficult or impossible to bend or flex", "S": ["arthritic ", "creaky ", "rigid ", "solid ", "stark ", "tense ", "thick ", "tight ", "wooden "], "A": ["bending ", "flexible ", "loose ", "pliable ", "slack ", "soft ", "indefinite ", "supple "]}

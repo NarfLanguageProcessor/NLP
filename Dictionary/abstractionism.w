@@ -1,0 +1,1 @@
+{"index": 1092, "D": "the practice and theory of abstract art.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169517, "D": "inertly heavy like lead;  hard to lift or move", "S": [], "A": []}

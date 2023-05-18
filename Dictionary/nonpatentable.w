@@ -1,0 +1,1 @@
+{"index": 205789, "D": "the exclusive right granted by a government to an inventor to manufacture, use, or sell an invention for a certain number of years.", "S": [], "A": []}

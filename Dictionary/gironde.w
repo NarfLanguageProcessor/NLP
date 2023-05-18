@@ -1,0 +1,1 @@
+{"index": 125579, "D": "an estuary in SW France, formed by the junction of the Garonne and Dordogne rivers. 45 miles (72 km) long.", "S": [], "A": []}

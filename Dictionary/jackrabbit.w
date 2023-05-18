@@ -1,0 +1,1 @@
+{"index": 159944, "D": "resembling a jack rabbit,  as in suddenness or rapidity of movement", "S": [], "A": []}

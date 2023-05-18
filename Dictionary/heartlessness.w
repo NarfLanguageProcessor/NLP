@@ -1,0 +1,1 @@
+{"index": 134880, "D": "unfeeling; unkind; unsympathetic; harsh; cruel", "S": ["barbarism ", "barbarity ", "inhumanity ", "malice ", "persecution ", "savagery ", "torture "], "A": ["kindness ", "love "]}

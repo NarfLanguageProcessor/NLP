@@ -1,0 +1,1 @@
+{"index": 329660, "D": "having three teeth or toothlike parts or processes.", "S": [], "A": []}

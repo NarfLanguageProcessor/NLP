@@ -1,0 +1,1 @@
+{"index": 363882, "D": "the act or an instance of weighing in", "S": ["enroll ", "file ", "join ", "list ", "record ", "sign up "], "A": ["eradicate ", "erase "]}

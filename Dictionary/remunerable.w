@@ -1,0 +1,1 @@
+{"index": 267507, "D": "to pay, recompense, or reward for work, trouble, etc.", "S": [], "A": []}

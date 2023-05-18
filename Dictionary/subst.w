@@ -1,0 +1,1 @@
+{"index": 309267, "D": "substantive.", "S": [], "A": []}

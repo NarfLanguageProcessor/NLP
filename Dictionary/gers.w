@@ -1,0 +1,1 @@
+{"index": 124315, "D": "a department in SW France. 2,429 sq. mi. (6,290 sq. km). Capital", "S": [], "A": []}

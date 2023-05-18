@@ -1,0 +1,1 @@
+{"index": 262444, "D": "an estimate, often itemized, of expected income and expense for a given period in the future.", "S": ["amused ", "averted ", "changed ", "entertained ", "preempted ", "reclassified ", "redirected ", "sidetracked ", "used "], "A": ["bored ", "depressed "]}

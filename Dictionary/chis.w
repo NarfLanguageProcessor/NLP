@@ -1,0 +1,1 @@
+{"index": 54864, "D": "the twenty-second letter of the Greek alphabet (X, \u03c7).", "S": ["Chi "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316126, "D": "a Japanese poem consisting of 31 syllables in 5 lines, with 5 syllables in the first and third lines and 7 in the others.", "S": [], "A": []}

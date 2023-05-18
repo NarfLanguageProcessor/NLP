@@ -1,0 +1,1 @@
+{"index": 202587, "D": "the state or quality of being creative. ", "S": [], "A": []}

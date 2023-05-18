@@ -1,0 +1,1 @@
+{"index": 319050, "D": "in the tenth  place; tenth. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 174138, "D": "to feel disgust or intense aversion for; abhor", "S": ["abhor ", "despise ", "detest ", "hate "], "A": ["admire ", "adore ", "cherish ", "like ", "love ", "accept ", "allow ", "approve ", "sanction "]}

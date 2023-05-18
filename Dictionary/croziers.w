@@ -1,0 +1,1 @@
+{"index": 74053, "D": "a variant of crosier. ", "S": [], "A": []}

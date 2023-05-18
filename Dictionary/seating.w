@@ -1,0 +1,1 @@
+{"index": 282613, "D": "an act or instance of furnishing with, assigning, or escorting to a seat. ", "S": ["accommodation "], "A": []}

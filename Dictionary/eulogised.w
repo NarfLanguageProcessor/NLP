@@ -1,0 +1,1 @@
+{"index": 105496, "D": "to praise highly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127728, "D": "a large bronze disk, of Asian origin, having an upturned rim, that produces a vibrant, hollow tone when struck, usually with a stick or hammer that has a padded head.", "S": [], "A": []}

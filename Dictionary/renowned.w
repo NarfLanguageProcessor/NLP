@@ -1,0 +1,1 @@
+{"index": 267751, "D": "celebrated; famous.", "S": ["acclaimed ", "distinguished ", "eminent ", "esteemed ", "famed ", "great ", "illustrious ", "notable ", "noted ", "outstanding ", "prominent ", "well-known "], "A": ["common ", "inconspicuous ", "infamous ", "inferior ", "insignificant ", "ordinary ", "poor ", "unimportant ", "unknown ", "unnoticeable ", "unremarkable "]}

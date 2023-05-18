@@ -1,0 +1,1 @@
+{"index": 311854, "D": "the fact or quality of being at or near, or relating to, the surface", "S": [], "A": []}

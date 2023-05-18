@@ -1,0 +1,1 @@
+{"index": 114410, "D": "of or relating to Flanders, its people, or their language.", "S": [], "A": []}

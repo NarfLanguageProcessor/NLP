@@ -1,0 +1,1 @@
+{"index": 306344, "D": "resembling a string  or strings;  consisting of strings  or stringlike pieces", "S": [], "A": []}

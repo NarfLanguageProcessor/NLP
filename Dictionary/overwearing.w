@@ -1,0 +1,1 @@
+{"index": 221802, "D": "to use or wear  excessively; wear  out; exhaust; tax", "S": [], "A": []}

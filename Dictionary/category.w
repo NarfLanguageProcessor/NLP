@@ -1,0 +1,1 @@
+{"index": 49531, "D": "any general or comprehensive division; a class.", "S": ["class ", "division ", "grade ", "group ", "kind ", "league ", "level ", "list ", "rank ", "section ", "tier "], "A": ["whole "]}

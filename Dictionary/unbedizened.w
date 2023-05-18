@@ -1,0 +1,1 @@
+{"index": 335702, "D": "to dress or adorn in a showy, gaudy, or tasteless manner", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155096, "D": "to insert between other things", "S": ["add ", "implant ", "import ", "include ", "infiltrate ", "infuse ", "ingrain ", "inject ", "insert ", "insinuate ", "intercalate ", "interpolate ", "interpose ", "intersperse ", "introduce ", "intrude ", "splice "], "A": ["erase ", "leave alone ", "remove ", "subtract ", "take out ", "withdraw "]}

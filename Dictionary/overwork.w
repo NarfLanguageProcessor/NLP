@@ -1,0 +1,1 @@
+{"index": 221880, "D": "to cause to work too hard, too much, or too long; weary or exhaust with work (often used reflexively)", "S": ["exhaust ", "tire ", "weary "], "A": ["activate ", "energize ", "invigorate ", "refresh "]}

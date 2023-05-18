@@ -1,0 +1,1 @@
+{"index": 250735, "D": "Compare a posteriori (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268505, "D": "a person or thing that represents  another or others.", "S": ["classic ", "classical ", "ideal ", "model ", "rep "], "A": ["imperfect "]}

@@ -1,0 +1,1 @@
+{"index": 247477, "D": "to fabricate  or construct beforehand.", "S": ["assemble ", "erect ", "evolve ", "form ", "make ", "manufacture ", "produce ", "raise ", "reconstruct ", "set up "], "A": ["conclude ", "decrease ", "destroy ", "finish ", "halt ", "neglect ", "raze ", "ruin ", "stop ", "demolish ", "disperse ", "scatter ", "separate ", "wreck "]}

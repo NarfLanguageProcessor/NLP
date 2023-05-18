@@ -1,0 +1,1 @@
+{"index": 22844, "D": "the father of Plisthenes, Agamemnon, Menelaus, and Anaxibia upon whose house Thyestes pronounced a curse.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 278052, "D": "a city in and the capital of Chile, in the central part.", "S": [], "A": []}

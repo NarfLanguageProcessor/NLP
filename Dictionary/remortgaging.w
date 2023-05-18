@@ -1,0 +1,1 @@
+{"index": 267464, "D": "a conveyance of an interest in real property as security for the repayment of money borrowed to buy the property; a lien or claim on property such that the lender can take possession if the loan is not repaid.", "S": [], "A": []}

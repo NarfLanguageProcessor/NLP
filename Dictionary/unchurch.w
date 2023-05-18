@@ -1,0 +1,1 @@
+{"index": 336863, "D": "to expel (a person) from a church;  excommunicate.", "S": ["anathematize ", "ban ", "curse ", "denounce ", "dismiss ", "eject ", "exclude ", "expel ", "oust ", "proscribe ", "remove ", "repudiate "], "A": ["accept ", "admit ", "allow ", "approve ", "hold ", "include ", "keep ", "permit ", "praise ", "take in ", "welcome "]}

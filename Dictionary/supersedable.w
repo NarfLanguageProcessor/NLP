@@ -1,0 +1,1 @@
+{"index": 312590, "D": "to replace in power, authority, effectiveness, acceptance, use, etc., as by another person or thing.", "S": [], "A": []}

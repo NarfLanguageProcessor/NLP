@@ -1,0 +1,1 @@
+{"index": 300365, "D": "making a splash  or splashes. ", "S": ["flashy ", "gaudy ", "opulent ", "ostentatious ", "sensational ", "snazzy ", "spectacular "], "A": ["modest ", "ordinary ", "plain ", "poor ", "simple ", "usual "]}

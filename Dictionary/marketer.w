@@ -1,0 +1,1 @@
+{"index": 180165, "D": "an open place or a covered building where buyers and sellers convene for the sale of goods; a marketplace", "S": ["banker ", "merchant ", "retailer ", "trader ", "trafficker ", "vendor ", "wholesaler "], "A": ["customer "]}

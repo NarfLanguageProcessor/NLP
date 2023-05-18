@@ -1,0 +1,1 @@
+{"index": 26166, "D": "(of a person) difficult to deal with; mean-tempered and sometimes violent.", "S": ["agitator ", "rebel "], "A": []}

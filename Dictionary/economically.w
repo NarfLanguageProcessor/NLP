@@ -1,0 +1,1 @@
+{"index": 95378, "D": "in a thrifty or frugal manner; with economy.", "S": [], "A": []}

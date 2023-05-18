@@ -1,0 +1,1 @@
+{"index": 36800, "D": "a shrub or small tree, Condalia obovata, of the buckthorn family, of western Texas and northern Mexico, often forming dense chaparral.", "S": [], "A": []}

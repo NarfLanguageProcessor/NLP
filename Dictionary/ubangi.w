@@ -1,0 +1,1 @@
+{"index": 333558, "D": "a river in W central Africa, forming part of the boundary between the Democratic Republic of the Congo and the Central African Republic, flowing W and S into the Congo (Zaire) River. 700 miles (1,125 km) long.", "S": [], "A": []}

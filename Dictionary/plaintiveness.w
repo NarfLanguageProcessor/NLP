@@ -1,0 +1,1 @@
+{"index": 238820, "D": "expressing sorrow or melancholy; mournful", "S": ["emotion ", "passion ", "poignancy "], "A": ["cheer ", "glee ", "happiness ", "joy "]}

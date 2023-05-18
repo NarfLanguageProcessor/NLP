@@ -1,0 +1,1 @@
+{"index": 257100, "D": "an archaic variant of purr. ", "S": ["babble ", "burble ", "growl ", "gurgle ", "hum ", "moan ", "mumble ", "mutter ", "purr ", "stammer ", "utter ", "whisper "], "A": ["be quiet "]}

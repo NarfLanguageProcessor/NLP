@@ -1,0 +1,1 @@
+{"index": 111693, "D": "a day or time of religious or other celebration, marked by feasting, ceremonies, or other observances", "S": ["anniversary ", "commemoration ", "competition ", "fair ", "feast ", "gala ", "holiday "], "A": []}

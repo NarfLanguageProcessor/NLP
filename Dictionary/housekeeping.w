@@ -1,0 +1,1 @@
+{"index": 144433, "D": "the maintenance of a house  or domestic establishment.", "S": ["housework "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20863, "D": "(in ancient Roman architecture) a painted pavement.", "S": [], "A": []}

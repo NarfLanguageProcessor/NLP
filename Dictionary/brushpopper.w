@@ -1,0 +1,1 @@
+{"index": 41829, "D": "a cowboy, especially one who works in the brush. ", "S": [], "A": []}

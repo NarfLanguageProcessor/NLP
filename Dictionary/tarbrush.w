@@ -1,0 +1,1 @@
+{"index": 316523, "D": "a brush for applying tar.", "S": [], "A": []}

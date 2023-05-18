@@ -1,0 +1,1 @@
+{"index": 115817, "D": "to prevent the success of; frustrate; balk", "S": ["antithesis ", "background ", "complement ", "counterblow ", "defense ", "guard ", "setting "], "A": []}

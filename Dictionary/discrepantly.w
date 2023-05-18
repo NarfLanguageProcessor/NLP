@@ -1,0 +1,1 @@
+{"index": 87711, "D": "(usually of two or more objects, accounts, findings etc.) differing; disagreeing; inconsistent", "S": [], "A": []}

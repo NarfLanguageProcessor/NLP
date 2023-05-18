@@ -1,0 +1,1 @@
+{"index": 85144, "D": "to cease to live; undergo the complete and permanent cessation of all vital functions; become dead.", "S": [], "A": []}

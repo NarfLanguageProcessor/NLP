@@ -1,0 +1,1 @@
+{"index": 84536, "D": "the scattering of the Jews to countries outside of Palestine after the Babylonian captivity.", "S": ["exodus "], "A": []}

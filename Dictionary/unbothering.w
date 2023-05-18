@@ -1,0 +1,1 @@
+{"index": 336092, "D": "to annoy; give trouble to; pester", "S": [], "A": []}

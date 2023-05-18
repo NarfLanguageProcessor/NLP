@@ -1,0 +1,1 @@
+{"index": 220661, "D": "the state or quality of being unnecessarily or tediously wordy; verbosity", "S": [], "A": []}

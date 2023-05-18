@@ -1,0 +1,1 @@
+{"index": 115665, "D": "of or relating to a focus. ", "S": ["central ", "important ", "main ", "nucleus ", "principal "], "A": []}

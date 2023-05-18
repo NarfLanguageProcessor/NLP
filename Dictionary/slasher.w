@@ -1,0 +1,1 @@
+{"index": 293699, "D": "a person or thing that slashes. ", "S": [], "A": []}

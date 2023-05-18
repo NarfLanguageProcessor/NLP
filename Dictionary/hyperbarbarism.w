@@ -1,0 +1,1 @@
+{"index": 139891, "D": "a barbarous  or uncivilized state or condition.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237723, "D": "a heterocyclic compound, C4H4N2, that is the basis of several important biochemical substances.", "S": [], "A": []}

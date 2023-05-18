@@ -1,0 +1,1 @@
+{"index": 200492, "D": "of or growing in snow", "S": ["stormy ", "wintry "], "A": []}

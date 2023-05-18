@@ -1,0 +1,1 @@
+{"index": 364814, "D": "former; erstwhile", "S": ["departed ", "erstwhile ", "old "], "A": ["after ", "modern ", "new "]}

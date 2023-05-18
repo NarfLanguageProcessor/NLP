@@ -1,0 +1,1 @@
+{"index": 327345, "D": "an actress especially noted for performing tragic roles.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83515, "D": "a mother goddess of which Durga, Kali, etc., are particular forms.", "S": [], "A": []}

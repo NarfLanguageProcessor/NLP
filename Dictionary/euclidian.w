@@ -1,0 +1,1 @@
+{"index": 105333, "D": "of or relating to Euclid, or adopting his postulates.", "S": [], "A": []}

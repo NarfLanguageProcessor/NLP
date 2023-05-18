@@ -1,0 +1,1 @@
+{"index": 99440, "D": "a formal expression of high praise; eulogy", "S": [], "A": []}

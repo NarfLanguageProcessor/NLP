@@ -1,0 +1,1 @@
+{"index": 316679, "D": "tarpaulin (def. 1). ", "S": ["tarpaulin "], "A": []}

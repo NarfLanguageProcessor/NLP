@@ -1,0 +1,1 @@
+{"index": 75124, "D": "of or containing copper,  especially in the bivalent state, as cupric oxide, CuO.", "S": [], "A": []}

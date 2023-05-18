@@ -1,0 +1,1 @@
+{"index": 46291, "D": "strips of cane  that are interlaced and used in cane  chairs or the like.", "S": [], "A": []}

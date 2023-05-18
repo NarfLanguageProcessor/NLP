@@ -1,0 +1,1 @@
+{"index": 318975, "D": "stretched tight, as a cord, fiber, etc.; drawn taut; rigid. ", "S": ["anxiety ", "dither ", "fidget ", "fidgets ", "jump ", "jumps ", "nerves ", "shakes ", "shiver ", "shivers ", "tremble ", "willies "], "A": []}

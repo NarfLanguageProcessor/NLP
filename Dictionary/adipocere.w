@@ -1,0 +1,1 @@
+{"index": 3943, "D": "a waxy substance produced by the decomposition of dead animal bodies in moist burial places or under water.", "S": [], "A": []}

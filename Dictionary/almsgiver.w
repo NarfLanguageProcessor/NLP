@@ -1,0 +1,1 @@
+{"index": 9164, "D": "a person who gives alms. ", "S": ["backer ", "benefactor ", "contributor ", "patron "], "A": ["antagonist ", "opponent ", "opposer "]}

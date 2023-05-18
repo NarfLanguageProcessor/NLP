@@ -1,0 +1,1 @@
+{"index": 231869, "D": "of a very deep shade of blue or purple.", "S": ["color ", "lavender ", "lilac ", "mauve ", "periwinkle ", "plum ", "violet "], "A": []}

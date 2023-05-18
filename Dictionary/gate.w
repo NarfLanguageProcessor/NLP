@@ -1,0 +1,1 @@
+{"index": 122716, "D": "a movable barrier, usually on hinges, closing an opening in a fence, wall, or other enclosure.", "S": ["bar ", "door ", "doorway ", "exit ", "fence ", "port "], "A": []}

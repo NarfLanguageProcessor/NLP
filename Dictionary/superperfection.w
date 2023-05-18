@@ -1,0 +1,1 @@
+{"index": 312396, "D": "the state or quality of being or becoming perfect. ", "S": [], "A": []}

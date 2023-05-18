@@ -1,0 +1,1 @@
+{"index": 269376, "D": "in a residual  manner.", "S": [], "A": []}

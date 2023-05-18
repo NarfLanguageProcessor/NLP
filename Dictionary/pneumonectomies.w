@@ -1,0 +1,1 @@
+{"index": 240823, "D": "excision of part or all of a lung.", "S": [], "A": []}

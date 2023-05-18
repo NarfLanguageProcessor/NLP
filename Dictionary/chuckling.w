@@ -1,0 +1,1 @@
+{"index": 56537, "D": "to laugh softly or amusedly, usually with satisfaction", "S": ["babbling ", "bubbling ", "burbling ", "cackle ", "chortle ", "chuckle ", "crow ", "fit ", "gesture ", "giggle ", "giggling ", "guffaw ", "howling ", "peal ", "rejoicing ", "rippling ", "roar ", "shout ", "shriek ", "snicker "], "A": []}

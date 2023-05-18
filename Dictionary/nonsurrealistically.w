@@ -1,0 +1,1 @@
+{"index": 207711, "D": "of, relating to, or characteristic of surrealism;  surreal.", "S": [], "A": []}

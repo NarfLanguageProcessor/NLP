@@ -1,0 +1,1 @@
+{"index": 256399, "D": "something that pulsates, beats, or throbs.", "S": [], "A": []}

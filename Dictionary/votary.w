@@ -1,0 +1,1 @@
+{"index": 361400, "D": "a person who is bound by solemn religious vows, as a monk or a nun.", "S": ["addict ", "adherent ", "admirer ", "aficionado ", "amateur ", "buff ", "devotee ", "disciple ", "enthusiast ", "fanatic ", "follower ", "zealot "], "A": ["critic ", "detractor ", "enemy ", "opponent "]}

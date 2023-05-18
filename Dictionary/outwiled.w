@@ -1,0 +1,1 @@
+{"index": 217918, "D": "a trick, artifice, or stratagem meant to fool, trap, or entice; device.", "S": [], "A": []}

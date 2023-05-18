@@ -1,0 +1,1 @@
+{"index": 238848, "D": "a braid, especially of hair or straw.", "S": ["crease ", "flute ", "fold ", "interweave ", "knit ", "pigtail ", "plat ", "pleach ", "pleat ", "tress ", "tuck ", "twine ", "weave "], "A": []}

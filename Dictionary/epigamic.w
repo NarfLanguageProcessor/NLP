@@ -1,0 +1,1 @@
+{"index": 102422, "D": "serving to attract a mate, as the colors of certain birds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 355484, "D": "any tropical plant or shrub belonging to the genus Urena, of the mallow family, having clusters of small, yellow flowers, especially U. lobata, which yields a useful bast fiber.", "S": [], "A": []}

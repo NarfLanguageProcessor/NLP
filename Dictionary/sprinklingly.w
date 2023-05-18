@@ -1,0 +1,1 @@
+{"index": 301351, "D": "a small quantity or number scattered here and there.", "S": [], "A": []}

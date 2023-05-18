@@ -1,0 +1,1 @@
+{"index": 263265, "D": "reconcile. ", "S": ["accommodate ", "attune ", "comply ", "coordinate ", "fit ", "harmonize ", "integrate ", "reconcile ", "tailor ", "yield "], "A": ["deny ", "disagree ", "oppose ", "prevent ", "refuse ", "reject ", "disobey ", "disregard ", "forget ", "ignore ", "neglect "]}

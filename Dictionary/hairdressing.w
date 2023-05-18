@@ -1,0 +1,1 @@
+{"index": 132398, "D": "the act or process of cutting, combing out, doing up, or styling hair. ", "S": ["haircut ", "hairstyle "], "A": []}

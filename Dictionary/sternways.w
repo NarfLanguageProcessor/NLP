@@ -1,0 +1,1 @@
+{"index": 304122, "D": "the movement of a vessel backward, or stern  foremost.", "S": [], "A": []}

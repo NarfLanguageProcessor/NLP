@@ -1,0 +1,1 @@
+{"index": 79554, "D": "to demagnetize (a ship's hull, electrical equipment, etc.) by means of electric coils.", "S": [], "A": []}

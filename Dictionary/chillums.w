@@ -1,0 +1,1 @@
+{"index": 54405, "D": "the part of a hookah that contains the tobacco, marijuana, or other substance being smoked.", "S": [], "A": []}

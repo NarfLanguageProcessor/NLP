@@ -1,0 +1,1 @@
+{"index": 330521, "D": "having three rays or raylike processes.", "S": [], "A": []}

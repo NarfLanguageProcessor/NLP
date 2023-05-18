@@ -1,0 +1,1 @@
+{"index": 254019, "D": "place or source of origin", "S": ["origin "], "A": ["conclusion ", "effect ", "end ", "result "]}

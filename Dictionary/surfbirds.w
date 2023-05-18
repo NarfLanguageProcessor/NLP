@@ -1,0 +1,1 @@
+{"index": 313396, "D": "a sandpiperlike shorebird, Aphriza virgata,of the Pacific coast, breeding in Alaska and wintering inSouth America. ", "S": [], "A": []}

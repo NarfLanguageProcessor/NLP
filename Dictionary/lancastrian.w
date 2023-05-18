@@ -1,0 +1,1 @@
+{"index": 167864, "D": "of or relating to the royal family of Lancaster. ", "S": [], "A": []}

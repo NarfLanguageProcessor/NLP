@@ -1,0 +1,1 @@
+{"index": 367550, "D": "a table  with a work  surface, often with drawers.", "S": ["board ", "counter ", "desk ", "shelf "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 210133, "D": "anything that is visible or tangible and is relatively stable in form.", "S": ["bellyacher ", "crab ", "crybaby ", "faultfinder ", "growler ", "grumbler ", "grump ", "moaner ", "nagger ", "nitpicker ", "protester ", "troublemaker "], "A": []}

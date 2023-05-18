@@ -1,0 +1,1 @@
+{"index": 156041, "D": "existing between territories", "S": [], "A": []}

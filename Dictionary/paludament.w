@@ -1,0 +1,1 @@
+{"index": 224213, "D": "a cloak worn by officials and military officers of ancient Rome, especially during wartime.", "S": [], "A": []}

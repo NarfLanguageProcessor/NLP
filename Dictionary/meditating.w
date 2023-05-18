@@ -1,0 +1,1 @@
+{"index": 182197, "D": "to engage in thought or contemplation; reflect.", "S": ["contemplating ", "contemplative ", "deliberative ", "excogitative ", "meditative ", "probing ", "reasoning ", "reflective ", "ruminative ", "thinking "], "A": []}

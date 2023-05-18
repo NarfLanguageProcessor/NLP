@@ -1,0 +1,1 @@
+{"index": 193266, "D": "a ridge, mound, or irregular mass of unstratified glacial drift, chiefly boulders, gravel, sand, and clay.", "S": [], "A": []}

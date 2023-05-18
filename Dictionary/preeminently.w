@@ -1,0 +1,1 @@
+{"index": 247235, "D": "eminent above or before others; superior; surpassing", "S": ["exceptionally ", "incomparably ", "notably ", "supremely ", "very "], "A": []}

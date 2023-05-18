@@ -1,0 +1,1 @@
+{"index": 229388, "D": "regularity of structure occurring abnormally in flowers normally irregular.", "S": [], "A": []}

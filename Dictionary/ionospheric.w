@@ -1,0 +1,1 @@
+{"index": 157679, "D": "the region of the earth's atmosphere between the stratosphere and the exosphere, consisting of several ionized layers and extending from about 50 to 250 miles (80 to 400 km) above the surface of the earth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360397, "D": "a member of the westerly division of the Goths, which formed a monarchy about a.d. 418, maintaining it in southern France until 507 and in Spain until 711.", "S": [], "A": []}

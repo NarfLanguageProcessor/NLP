@@ -1,0 +1,1 @@
+{"index": 200982, "D": "a person who abstains  from something regarded as improper or unhealthy, especially the drinking of alcoholic beverages.", "S": [], "A": []}

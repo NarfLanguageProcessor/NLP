@@ -1,0 +1,1 @@
+{"index": 86944, "D": "to sever affiliation with; disassociate", "S": ["breakaway ", "breakup ", "separation "], "A": ["agreement ", "closing ", "closure ", "juncture ", "peace "]}

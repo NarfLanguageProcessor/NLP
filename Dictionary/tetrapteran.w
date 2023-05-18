@@ -1,0 +1,1 @@
+{"index": 320171, "D": "having four wings or winglike appendages.", "S": [], "A": []}

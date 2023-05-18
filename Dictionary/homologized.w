@@ -1,0 +1,1 @@
+{"index": 143147, "D": "to make or show to be homologous. ", "S": ["alike ", "analogous ", "autologous ", "correspondent ", "corresponding ", "related "], "A": ["dissimilar ", "unrelated "]}

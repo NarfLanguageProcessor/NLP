@@ -1,0 +1,1 @@
+{"index": 53947, "D": "having a well-developed chest  or bosom.", "S": ["bold ", "cocky ", "confident ", "courageous ", "daring ", "gutsy ", "heroic ", "intrepid ", "smart ", "spunky "], "A": ["afraid ", "cowardly ", "fearful ", "meek ", "shy ", "timid ", "uncertain ", "unsure ", "weak "]}

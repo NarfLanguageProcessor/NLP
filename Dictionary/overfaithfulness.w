@@ -1,0 +1,1 @@
+{"index": 219302, "D": "lasting loyalty and trustworthiness in relationships, especially marriage and friendship", "S": [], "A": []}

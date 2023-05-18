@@ -1,0 +1,1 @@
+{"index": 255732, "D": "the craniometric point at the side of the sphenoidal fontanelle.", "S": [], "A": []}

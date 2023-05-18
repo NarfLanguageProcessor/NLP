@@ -1,0 +1,1 @@
+{"index": 243815, "D": "the state or character of being positive", "S": ["alacrity ", "eagerness ", "positiveness ", "readiness ", "zeal "], "A": ["negativity ", "adversity ", "deprecation ", "disapproval ", "dubiousness ", "hostility "]}

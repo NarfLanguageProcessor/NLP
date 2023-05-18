@@ -1,0 +1,1 @@
+{"index": 9270, "D": "at a distance, especially in feeling or interest; apart", "S": [], "A": []}

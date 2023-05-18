@@ -1,0 +1,1 @@
+{"index": 88381, "D": "to release from imprisonment.", "S": ["acquit ", "dismiss ", "exonerate ", "expel ", "oust ", "pardon ", "release "], "A": ["blame ", "condemn ", "damn ", "hold ", "keep ", "maintain ", "sentence ", "welcome "]}

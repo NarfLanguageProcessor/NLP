@@ -1,0 +1,1 @@
+{"index": 297367, "D": "truth, reality, or fact.", "S": [], "A": []}

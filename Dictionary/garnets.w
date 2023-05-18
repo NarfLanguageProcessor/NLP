@@ -1,0 +1,1 @@
+{"index": 122213, "D": "any of a group of hard, vitreous minerals, silicates of calcium, magnesium, iron, or manganese with aluminum or iron, varying in color", "S": ["cardinal ", "coral ", "crimson ", "flaming ", "glowing ", "maroon ", "rose ", "wine "], "A": []}

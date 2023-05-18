@@ -1,0 +1,1 @@
+{"index": 161059, "D": "a stream of a liquid, gas, or small solid particles forcefully shooting forth from a nozzle, orifice, etc.", "S": ["zoom "], "A": ["land ", "remain ", "stay ", "walk "]}

@@ -1,0 +1,1 @@
+{"index": 347565, "D": "a decorative design, as for wallpaper, china, or textile fabrics, etc.", "S": [], "A": []}

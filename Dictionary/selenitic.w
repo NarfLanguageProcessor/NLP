@@ -1,0 +1,1 @@
+{"index": 283477, "D": "a variety of gypsum, found in transparent crystals and foliated masses.", "S": [], "A": []}

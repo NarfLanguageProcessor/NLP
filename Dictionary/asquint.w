@@ -1,0 +1,1 @@
+{"index": 21555, "D": "with an oblique glance or squint; askance; slyly; dubiously.", "S": [], "A": []}

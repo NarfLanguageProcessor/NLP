@@ -1,0 +1,1 @@
+{"index": 251452, "D": "examination by means of a proctoscope.", "S": [], "A": []}

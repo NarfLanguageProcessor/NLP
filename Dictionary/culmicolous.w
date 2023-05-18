@@ -1,0 +1,1 @@
+{"index": 74758, "D": "(of a fungus) growing on grass culms. ", "S": [], "A": []}

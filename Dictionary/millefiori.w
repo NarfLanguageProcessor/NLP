@@ -1,0 +1,1 @@
+{"index": 187287, "D": "decorative glass made by fusing multicolored glass canes together, cutting them crosswise, joining them into new groups, embedding the groups in transparent glass, and blowing the resultant mass into a desired shape.", "S": [], "A": []}

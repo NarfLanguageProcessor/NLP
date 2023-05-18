@@ -1,0 +1,1 @@
+{"index": 259636, "D": "a radioactive isotope of carbon  with mass number 14 and a half-life of about 5730 years", "S": [], "A": []}

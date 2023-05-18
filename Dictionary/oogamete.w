@@ -1,0 +1,1 @@
+{"index": 212994, "D": "one of a pair of structurally dissimilar gametes,  the female gamete  being large and nonmotile and the male gamete  being small and motile.", "S": [], "A": []}

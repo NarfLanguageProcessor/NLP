@@ -1,0 +1,1 @@
+{"index": 8601, "D": "a representation of an abstract or spiritual meaning through concrete or material forms; figurative treatment of one subject under the guise of another.", "S": ["apologue ", "emblem ", "fable ", "figuration ", "moral ", "myth ", "parable ", "story ", "symbol ", "symbolism ", "symbolization ", "tale ", "typification "], "A": ["nonfiction ", "truth "]}

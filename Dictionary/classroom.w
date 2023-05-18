@@ -1,0 +1,1 @@
+{"index": 59441, "D": "a room,  as in a school or college, in which classes  are held.", "S": ["hall ", "homeroom ", "study hall "], "A": []}

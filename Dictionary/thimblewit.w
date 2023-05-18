@@ -1,0 +1,1 @@
+{"index": 321803, "D": "a silly or dimwitted person; dunce", "S": [], "A": []}

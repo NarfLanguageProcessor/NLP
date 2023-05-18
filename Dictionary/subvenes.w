@@ -1,0 +1,1 @@
+{"index": 309705, "D": "to arrive or occur as a support or relief.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9801, "D": "a person employed to write what another dictates or to copy what has been written by another; secretary.", "S": ["agent ", "auditor ", "bookkeeper ", "cashier ", "employee ", "operator ", "receptionist ", "salesperson ", "secretary ", "teller ", "worker "], "A": []}

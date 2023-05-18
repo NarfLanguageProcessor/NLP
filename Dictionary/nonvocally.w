@@ -1,0 +1,1 @@
+{"index": 208345, "D": "of, relating to, or uttered with the voice", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208281, "D": "the collective characteristics of a wine, especially its distinctive taste.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91603, "D": "an amino acid, C9H11NO4, formed from tyrosine in the liver during melanin and epinephrine biosynthesis", "S": [], "A": []}

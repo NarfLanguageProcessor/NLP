@@ -1,0 +1,1 @@
+{"index": 152721, "D": "not inclined to, or characterized by, hospitality, as persons or actions; unfriendly.", "S": ["hostile ", "unfavorable "], "A": ["friendly ", "nice "]}

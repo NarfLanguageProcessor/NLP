@@ -1,0 +1,1 @@
+{"index": 303556, "D": "an experimental plasma-physics device in which magnetic fields confine the plasma within a tube shaped like a figure eight.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279350, "D": "a scaffold  or system of scaffolds. ", "S": ["scaffold "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309262, "D": "(of a plant species, such as rhododendron) spreading naturally after having originally been introduced", "S": [], "A": []}

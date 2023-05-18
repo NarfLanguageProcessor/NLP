@@ -1,0 +1,1 @@
+{"index": 293382, "D": "a quick, oblique blow or stroke; a chopping blow.", "S": [], "A": []}

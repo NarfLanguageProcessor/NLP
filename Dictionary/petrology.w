@@ -1,0 +1,1 @@
+{"index": 232533, "D": "the scientific study of rocks, including petrography and petrogenesis.", "S": [], "A": []}

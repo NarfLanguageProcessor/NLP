@@ -1,0 +1,1 @@
+{"index": 255085, "D": "of or relating to residence  or to residences", "S": [], "A": []}

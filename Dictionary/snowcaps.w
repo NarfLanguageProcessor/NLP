@@ -1,0 +1,1 @@
+{"index": 295800, "D": "a layer of snow  forming a cap  on or covering the top of something, as a mountain peak or ridge.", "S": [], "A": []}

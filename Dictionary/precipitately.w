@@ -1,0 +1,1 @@
+{"index": 246115, "D": "to hasten the occurrence of; bring about prematurely, hastily, or suddenly", "S": ["carelessly ", "hurriedly ", "nimbly ", "prematurely ", "promptly ", "quickly ", "speedily ", "suddenly ", "swiftly "], "A": ["slowly "]}

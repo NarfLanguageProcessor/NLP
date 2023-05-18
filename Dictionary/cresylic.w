@@ -1,0 +1,1 @@
+{"index": 72747, "D": "of, concerned with, or containing creosote or cresol", "S": [], "A": []}

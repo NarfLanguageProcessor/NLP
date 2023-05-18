@@ -1,0 +1,1 @@
+{"index": 188274, "D": "any segment of embryonic mesoderm that develops into skeletal muscle in the adult", "S": [], "A": []}

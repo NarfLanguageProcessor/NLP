@@ -1,0 +1,1 @@
+{"index": 319141, "D": "to make or become tepid", "S": ["bake ", "boil ", "broil ", "grill ", "ignite ", "melt ", "reheat ", "roast ", "sear ", "steam ", "thaw ", "toast ", "warm "], "A": ["freeze ", "put out "]}

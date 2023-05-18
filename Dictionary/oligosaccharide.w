@@ -1,0 +1,1 @@
+{"index": 212232, "D": "any carbohydrate yielding few monosaccharides on hydrolysis, as two, three, or four.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52983, "D": "a specialist in the stock market who studies and draws charts  of trading actions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339689, "D": "to give inadequate representation to; represent in numbers that are disproportionately low.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 261773, "D": "the act or process of reassigning or reapportioning something", "S": [], "A": []}

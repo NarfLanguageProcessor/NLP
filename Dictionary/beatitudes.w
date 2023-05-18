@@ -1,0 +1,1 @@
+{"index": 29619, "D": [], "S": ["bliss ", "ecstasy ", "felicity ", "happiness ", "peace ", "serenity "], "A": ["agitation ", "misery ", "sorrow ", "trouble ", "unhappiness ", "upset "]}

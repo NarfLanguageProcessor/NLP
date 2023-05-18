@@ -1,0 +1,1 @@
+{"index": 4118, "D": "to measure off or out; apportion.", "S": [], "A": []}

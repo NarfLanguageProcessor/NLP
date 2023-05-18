@@ -1,0 +1,1 @@
+{"index": 362190, "D": "capable of being traveled, crossed, or covered by walking", "S": [], "A": []}

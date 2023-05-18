@@ -1,0 +1,1 @@
+{"index": 198148, "D": "having or showing qualities befitting a neighbor;  friendly.", "S": ["amicableness ", "benevolence ", "comity ", "concord ", "cordiality ", "friendliness ", "goodwill ", "harmony ", "kindliness ", "togetherness "], "A": ["aloofness ", "disagreement ", "discord ", "hostility ", "ill will "]}

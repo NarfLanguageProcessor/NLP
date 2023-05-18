@@ -1,0 +1,1 @@
+{"index": 160642, "D": "a bone  of either jaw;  a maxilla or mandible.", "S": ["button ", "jaw ", "mandible ", "mentum ", "point "], "A": []}

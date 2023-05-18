@@ -1,0 +1,1 @@
+{"index": 266193, "D": "the belief that the soul, upon death of the body, comes back to earth in another body or form.", "S": [], "A": []}

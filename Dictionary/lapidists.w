@@ -1,0 +1,1 @@
+{"index": 168345, "D": "a worker who cuts, polishes, and engraves precious stones.", "S": [], "A": []}

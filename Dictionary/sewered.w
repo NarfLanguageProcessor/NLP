@@ -1,0 +1,1 @@
+{"index": 286798, "D": "an artificial conduit, usually underground, for carrying off waste water and refuse, as in a town or city.", "S": [], "A": []}

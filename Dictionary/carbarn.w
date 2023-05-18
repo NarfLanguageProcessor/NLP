@@ -1,0 +1,1 @@
+{"index": 47425, "D": "a large building for the housing and maintenance of streetcars, railroad cars,  or buses.", "S": [], "A": []}

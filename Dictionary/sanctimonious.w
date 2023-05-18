@@ -1,0 +1,1 @@
+{"index": 277669, "D": "making a hypocritical show of religious devotion, piety, righteousness, etc.", "S": ["hypocritical ", "insincere ", "pious ", "self-satisfied ", "smug ", "stuffy "], "A": ["forthright ", "honest ", "open ", "sincere ", "unsure "]}

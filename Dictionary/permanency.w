@@ -1,0 +1,1 @@
+{"index": 231569, "D": "permanence. ", "S": ["perpetuation "], "A": []}

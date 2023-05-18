@@ -1,0 +1,1 @@
+{"index": 314564, "D": "a highway, as in a mountainous area, having many hairpin curves.", "S": [], "A": []}

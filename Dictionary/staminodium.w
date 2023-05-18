@@ -1,0 +1,1 @@
+{"index": 302588, "D": "a sterile or abortive stamen.", "S": [], "A": []}

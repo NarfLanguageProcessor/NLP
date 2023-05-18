@@ -1,0 +1,1 @@
+{"index": 339641, "D": "to prop  underneath; support; uphold.", "S": ["brace "], "A": ["discourage ", "dissuade ", "halt ", "hinder ", "let down ", "neglect ", "refuse ", "reject ", "weaken "]}

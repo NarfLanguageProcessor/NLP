@@ -1,0 +1,1 @@
+{"index": 325406, "D": "an energetic, sometimes boisterous girl whose behavior and pursuits, especially in games and sports, are considered more typical of boys  than of girls.", "S": [], "A": []}

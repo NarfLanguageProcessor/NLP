@@ -1,0 +1,1 @@
+{"index": 304012, "D": "of or relating to the spatial relationships of atoms in a molecule.", "S": [], "A": []}

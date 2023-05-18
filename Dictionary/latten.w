@@ -1,0 +1,1 @@
+{"index": 169058, "D": "a brasslike alloy commonly made in thin sheets and formerly much used for church utensils.", "S": [], "A": []}

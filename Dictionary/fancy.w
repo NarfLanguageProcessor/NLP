@@ -1,0 +1,1 @@
+{"index": 109667, "D": "ornamental; decorative;  not plain", "S": ["complicated ", "decorative ", "deluxe ", "elegant ", "frilly ", "gaudy ", "lavish ", "ornate ", "special ", "sumptuous "], "A": ["plain ", "poor ", "simple ", "ugly ", "unadorned "]}

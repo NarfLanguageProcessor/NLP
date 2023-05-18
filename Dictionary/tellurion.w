@@ -1,0 +1,1 @@
+{"index": 318393, "D": "an apparatus for showing the manner in which the diurnal rotation and annual revolution of the earth and the obliquity of its axis produce the alternation of day and night and the changes of the seasons.", "S": [], "A": []}

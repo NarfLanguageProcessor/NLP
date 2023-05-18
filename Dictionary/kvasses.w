@@ -1,0 +1,1 @@
+{"index": 166560, "D": "a Russian beer made from fermenting rye or barley and having a dark color and sour taste.", "S": [], "A": []}

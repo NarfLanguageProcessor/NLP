@@ -1,0 +1,1 @@
+{"index": 283171, "D": "a person who sees;  observer.", "S": ["forecaster ", "prophet ", "soothsayer "], "A": []}

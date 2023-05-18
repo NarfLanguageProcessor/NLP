@@ -1,0 +1,1 @@
+{"index": 232784, "D": "a severe, destructive, eroding ulcer.", "S": [], "A": []}

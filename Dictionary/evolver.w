@@ -1,0 +1,1 @@
+{"index": 106332, "D": "to develop gradually", "S": [], "A": []}

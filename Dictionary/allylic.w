@@ -1,0 +1,1 @@
+{"index": 8743, "D": "of, relating to, or characteristic of the allyl group. ", "S": [], "A": []}

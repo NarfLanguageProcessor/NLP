@@ -1,0 +1,1 @@
+{"index": 78450, "D": "a person who declares  or makes a declaration or statement.", "S": [], "A": []}

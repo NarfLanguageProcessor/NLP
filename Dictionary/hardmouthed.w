@@ -1,0 +1,1 @@
+{"index": 133687, "D": "of or relating to a horse not sensitive to the pressure of a bit.", "S": [], "A": []}

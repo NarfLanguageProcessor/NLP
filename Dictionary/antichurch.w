@@ -1,0 +1,1 @@
+{"index": 14893, "D": "a building for public Christian worship.", "S": [], "A": []}

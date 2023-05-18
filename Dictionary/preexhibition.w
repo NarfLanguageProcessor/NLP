@@ -1,0 +1,1 @@
+{"index": 247416, "D": "an exhibiting,  showing, or presenting to view.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25259, "D": "not being one of a pair; single.", "S": [], "A": []}

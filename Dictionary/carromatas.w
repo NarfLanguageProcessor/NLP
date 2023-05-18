@@ -1,0 +1,1 @@
+{"index": 48550, "D": "(in the Philippines) a light, two-wheeled covered vehicle, usually drawn by one horse.", "S": [], "A": []}

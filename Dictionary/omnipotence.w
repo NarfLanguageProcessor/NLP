@@ -1,0 +1,1 @@
+{"index": 212532, "D": "the quality or state of being omnipotent. ", "S": ["authority ", "control ", "dominion ", "mastery ", "power "], "A": ["inefficiency ", "weakness "]}

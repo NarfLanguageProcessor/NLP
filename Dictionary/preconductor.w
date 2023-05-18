@@ -1,0 +1,1 @@
+{"index": 246381, "D": "a person who conducts;  a leader, guide, director, or manager.", "S": [], "A": []}

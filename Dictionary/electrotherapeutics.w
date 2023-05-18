@@ -1,0 +1,1 @@
+{"index": 97298, "D": "therapeutics  based on the curative effects of electricity.", "S": [], "A": []}

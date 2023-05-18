@@ -1,0 +1,1 @@
+{"index": 143210, "D": "identical in pronunciation.", "S": [], "A": []}

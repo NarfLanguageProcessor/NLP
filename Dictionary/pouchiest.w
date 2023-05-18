@@ -1,0 +1,1 @@
+{"index": 244850, "D": "possessing or resembling a pouch", "S": [], "A": []}

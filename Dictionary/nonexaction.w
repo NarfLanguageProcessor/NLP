@@ -1,0 +1,1 @@
+{"index": 203719, "D": "the act of exacting;  extortion", "S": [], "A": []}

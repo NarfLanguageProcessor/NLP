@@ -1,0 +1,1 @@
+{"index": 81460, "D": "to remove oxygen from, especially by reducing an oxide. ", "S": [], "A": []}

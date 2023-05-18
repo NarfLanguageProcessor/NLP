@@ -1,0 +1,1 @@
+{"index": 104610, "D": "any enzyme that hydrolyzes an ester  into an alcohol and an acid.", "S": [], "A": []}

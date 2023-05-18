@@ -1,0 +1,1 @@
+{"index": 68150, "D": "to coil up; form into a twisted shape.", "S": ["cloud ", "coil ", "contort ", "loop ", "snaking ", "spiral ", "tangle ", "twist ", "wind "], "A": ["explain ", "explicate ", "straighten ", "untwist "]}

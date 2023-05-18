@@ -1,0 +1,1 @@
+{"index": 228912, "D": "in the form of a foot; footlike.", "S": [], "A": []}

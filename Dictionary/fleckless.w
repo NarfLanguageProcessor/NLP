@@ -1,0 +1,1 @@
+{"index": 114327, "D": "a speck; a small bit", "S": ["exquisite ", "immaculate ", "precise ", "unblemished "], "A": ["flawed ", "imperfect "]}

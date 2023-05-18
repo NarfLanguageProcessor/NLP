@@ -1,0 +1,1 @@
+{"index": 176666, "D": "a member of a Muslim people of southwestern Sulawesi, near Ujung Pandang, closely related to the Buginese.", "S": [], "A": []}

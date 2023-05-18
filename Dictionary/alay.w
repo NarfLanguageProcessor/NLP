@@ -1,0 +1,1 @@
+{"index": 7268, "D": "a mountain range in SW Kyrgyzstan, part of the Tien Shan. To 19,280 feet (5,880 meters).", "S": [], "A": []}

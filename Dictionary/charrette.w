@@ -1,0 +1,1 @@
+{"index": 52947, "D": "a final, intensive effort to finish a project, especially an architectural design project, before a deadline.", "S": [], "A": []}

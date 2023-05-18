@@ -1,0 +1,1 @@
+{"index": 97225, "D": "to plate  or coat with a metal by electrolysis.", "S": ["anodize ", "bronze ", "chrome ", "cover ", "enamel ", "encrust ", "face ", "flake ", "foil ", "gild ", "laminate ", "layer ", "nickel ", "overlay ", "platinize ", "scale ", "silver ", "stratify "], "A": []}

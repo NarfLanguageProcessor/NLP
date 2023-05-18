@@ -1,0 +1,1 @@
+{"index": 233671, "D": "one of the bracts forming the involucre or the head or inflorescence of a composite plant.", "S": [], "A": []}

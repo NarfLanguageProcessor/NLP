@@ -1,0 +1,1 @@
+{"index": 175884, "D": "to work, write, or study laboriously, especially at night.", "S": [], "A": []}

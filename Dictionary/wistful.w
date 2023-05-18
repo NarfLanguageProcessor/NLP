@@ -1,0 +1,1 @@
+{"index": 366514, "D": "characterized by melancholy or longing.", "S": ["contemplative ", "dreamy ", "forlorn ", "melancholy ", "mournful ", "nostalgic ", "pensive ", "plaintive ", "sad ", "thoughtful "], "A": ["cheerful ", "happy ", "joyful ", "negligent ", "shallow "]}

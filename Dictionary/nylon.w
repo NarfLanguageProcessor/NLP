@@ -1,0 +1,1 @@
+{"index": 200075, "D": "any of a class of thermoplastic polyamides capable of extrusion when molten into fibers, sheets, etc., of extreme toughness, strength, and elasticity, synthesized by the interaction of a dicarboxylic acid with a diamine", "S": ["hose ", "hosiery ", "tights "], "A": []}

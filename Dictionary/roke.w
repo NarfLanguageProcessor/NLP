@@ -1,0 +1,1 @@
+{"index": 273925, "D": "a seam or scratch filled with scale or slag on the surface of an ingot or bar.", "S": [], "A": []}

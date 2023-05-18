@@ -1,0 +1,1 @@
+{"index": 351012, "D": "to evade (work, duty, responsibility, etc.).", "S": [], "A": []}

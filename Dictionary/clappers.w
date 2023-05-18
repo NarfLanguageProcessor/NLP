@@ -1,0 +1,1 @@
+{"index": 59264, "D": "a person who applauds.", "S": ["Vesper ", "alarm ", "buzz ", "buzzer ", "carillon ", "chime ", "curfew ", "ding-dong ", "gong ", "peal ", "ringer ", "siren ", "tocsin ", "toll "], "A": []}

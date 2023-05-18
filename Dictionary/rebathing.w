@@ -1,0 +1,1 @@
+{"index": 262251, "D": "to immerse (all or part of the body) in water or some other liquid, for cleansing, refreshment, etc.", "S": [], "A": []}

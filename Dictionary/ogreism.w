@@ -1,0 +1,1 @@
+{"index": 211760, "D": "a monster in fairy tales and popular legend, usually represented as a hideous giant who feeds on human flesh.", "S": [], "A": []}

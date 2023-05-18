@@ -1,0 +1,1 @@
+{"index": 36303, "D": "without thought or regard; carefree; heedless", "S": ["babble ", "chatter ", "nonsense "], "A": ["sense "]}

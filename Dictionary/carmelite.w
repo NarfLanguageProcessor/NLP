@@ -1,0 +1,1 @@
+{"index": 48166, "D": "a mendicant friar belonging to a religious order founded at Mt. Carmel, Palestine, in the 12th century; White Friar.", "S": [], "A": []}

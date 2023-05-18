@@ -1,0 +1,1 @@
+{"index": 355305, "D": "any of the uranium phosphates, as autunite or torbernite.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363225, "D": "U.S. singer and actress.", "S": ["footwear "], "A": []}

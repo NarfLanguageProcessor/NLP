@@ -1,0 +1,1 @@
+{"index": 110074, "D": "a training technique, used especially among runners, consisting of bursts of intense effort loosely alternating with less strenuous activity.", "S": [], "A": []}

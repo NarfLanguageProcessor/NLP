@@ -1,0 +1,1 @@
+{"index": 52492, "D": "a small pocket  or compartment for holding coins.", "S": [], "A": []}

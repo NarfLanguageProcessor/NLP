@@ -1,0 +1,1 @@
+{"index": 229824, "D": "a small pennon, as at the head of a lance.", "S": [], "A": []}

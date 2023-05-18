@@ -1,0 +1,1 @@
+{"index": 270771, "D": "operative with respect to past occurrences, as a statute; retrospective", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322401, "D": "any of various shrubs or bushes having spines or thorns.", "S": [], "A": []}

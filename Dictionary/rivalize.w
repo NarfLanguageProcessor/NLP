@@ -1,0 +1,1 @@
+{"index": 273360, "D": [], "S": ["follow suit ", "imitate ", "mimic ", "mirror "], "A": ["neglect "]}

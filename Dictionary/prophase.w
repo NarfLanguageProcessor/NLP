@@ -1,0 +1,1 @@
+{"index": 252610, "D": "the first stage of mitosis or meiosis in eukaryotic cell division, during which the nuclear envelope breaks down and strands of chromatin form into chromosomes.", "S": [], "A": []}

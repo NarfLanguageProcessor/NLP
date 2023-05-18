@@ -1,0 +1,1 @@
+{"index": 332237, "D": "(in 17th-century Holland) a widespread obsession with tulips,  especially of highly prized varieties, as those of a streaked, variegated, or unusual color.", "S": [], "A": []}

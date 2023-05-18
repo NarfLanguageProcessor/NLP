@@ -1,0 +1,1 @@
+{"index": 167298, "D": "a beer stored from six weeks to six months for aging before use.", "S": ["ale "], "A": []}

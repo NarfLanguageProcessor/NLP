@@ -1,0 +1,1 @@
+{"index": 108636, "D": "outside, or originating outside, the sun or the solar system. ", "S": [], "A": []}

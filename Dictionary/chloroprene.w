@@ -1,0 +1,1 @@
+{"index": 55220, "D": "a colorless, slightly water-soluble liquid, C4H5Cl, usually produced by the reaction of vinylacetylene with hydrochloric acid, that polymerizes to neoprene. ", "S": [], "A": []}

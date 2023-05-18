@@ -1,0 +1,1 @@
+{"index": 95127, "D": "a member of the clergy or other person in religious orders.", "S": ["abbot ", "chaplain ", "cleric ", "divine ", "minister ", "parson ", "pastor ", "preacher ", "prelate ", "priest ", "reverend "], "A": []}

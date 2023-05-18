@@ -1,0 +1,1 @@
+{"index": 154218, "D": [], "S": ["everyone ", "everything ", "group ", "total "], "A": ["none ", "zero ", "zilch ", "zip "]}

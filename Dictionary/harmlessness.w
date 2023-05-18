@@ -1,0 +1,1 @@
+{"index": 133828, "D": "without the power or desire to do harm; innocuous", "S": [], "A": []}

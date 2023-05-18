@@ -1,0 +1,1 @@
+{"index": 303030, "D": "fixed or settled", "S": [], "A": []}

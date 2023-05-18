@@ -1,0 +1,1 @@
+{"index": 70164, "D": "a performer, especially an actor or actress, who shares star  billing with another.", "S": [], "A": []}

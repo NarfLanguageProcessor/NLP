@@ -1,0 +1,1 @@
+{"index": 47611, "D": "Informal term", "S": [], "A": []}

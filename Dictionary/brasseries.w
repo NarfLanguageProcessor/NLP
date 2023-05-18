@@ -1,0 +1,1 @@
+{"index": 40020, "D": "an unpretentious restaurant, tavern, or the like, that serves drinks, especially beer, and simple or hearty food.", "S": [], "A": []}

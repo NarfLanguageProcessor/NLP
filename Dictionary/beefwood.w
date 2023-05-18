@@ -1,0 +1,1 @@
+{"index": 30324, "D": "any of several chiefly Australian trees of the genus Casuarina, having feathery branches that lack true foliage leaves.", "S": [], "A": []}

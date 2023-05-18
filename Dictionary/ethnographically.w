@@ -1,0 +1,1 @@
+{"index": 105095, "D": "of or relating to ethnography,  the branch of anthropology dealing with the scientific description of individual cultures", "S": [], "A": []}

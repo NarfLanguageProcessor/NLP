@@ -1,0 +1,1 @@
+{"index": 284893, "D": "having one surface that is round  and another that is flat.", "S": [], "A": []}

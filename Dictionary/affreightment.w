@@ -1,0 +1,1 @@
+{"index": 5483, "D": "a contract hiring a ship to carry goods", "S": [], "A": []}

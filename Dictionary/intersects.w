@@ -1,0 +1,1 @@
+{"index": 155890, "D": "to cut or divide by passing through or across", "S": ["converge ", "cross "], "A": ["combine ", "disjoin ", "unite "]}

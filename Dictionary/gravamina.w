@@ -1,0 +1,1 @@
+{"index": 129297, "D": "the part of an accusation that weighs most heavily against the accused; the substantial part of a charge or complaint.", "S": [], "A": []}

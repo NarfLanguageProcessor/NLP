@@ -1,0 +1,1 @@
+{"index": 283395, "D": "the cella of a temple.", "S": [], "A": []}

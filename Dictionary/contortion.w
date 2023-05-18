@@ -1,0 +1,1 @@
+{"index": 67523, "D": "the act or process of contorting. ", "S": ["deformation ", "deformity "], "A": ["grin ", "smile "]}

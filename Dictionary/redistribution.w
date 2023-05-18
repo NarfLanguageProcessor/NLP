@@ -1,0 +1,1 @@
+{"index": 264298, "D": "a distribution  performed again or anew.", "S": [], "A": []}

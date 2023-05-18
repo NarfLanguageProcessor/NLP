@@ -1,0 +1,1 @@
+{"index": 18525, "D": "to decide as arbitrator  or arbiter;  determine.", "S": ["adjudicate ", "interpose ", "intervene ", "mediate ", "straighten out "], "A": ["ignore ", "agitate ", "confuse ", "hesitate ", "upset ", "worry "]}

@@ -1,0 +1,1 @@
+{"index": 258610, "D": "a carpsucker, Carpiodes cyprinus, inhabiting waters in the central and eastern U.S., having one ray of the dorsal fin greatly elongated.", "S": [], "A": []}

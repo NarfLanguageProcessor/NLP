@@ -1,0 +1,1 @@
+{"index": 105911, "D": "relating to or being in a condition of eutrophy,  or healthy or adequate nutrition or development.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366382, "D": "an establishment where wire is made or put to some industrial use.", "S": [], "A": []}

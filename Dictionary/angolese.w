@@ -1,0 +1,1 @@
+{"index": 12934, "D": "a member of any of the tribes residing in Angola. ", "S": [], "A": []}

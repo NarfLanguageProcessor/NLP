@@ -1,0 +1,1 @@
+{"index": 116103, "D": "recklessly or thoughtlessly bold; foolishly rash or venturesome.", "S": [], "A": []}

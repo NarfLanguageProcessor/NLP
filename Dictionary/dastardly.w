@@ -1,0 +1,1 @@
+{"index": 77131, "D": "cowardly; meanly base; sneaking", "S": ["contemptible ", "cowardly ", "despicable ", "underhanded ", "vile "], "A": ["honorable ", "respectable ", "worthy "]}

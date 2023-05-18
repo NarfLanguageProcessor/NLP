@@ -1,0 +1,1 @@
+{"index": 272695, "D": "causing or worthy of ridicule  or derision; absurd; preposterous; laughable", "S": ["comically ", "extremely ", "insanely ", "laughably "], "A": []}

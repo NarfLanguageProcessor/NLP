@@ -1,0 +1,1 @@
+{"index": 359791, "D": "a silk veil falling over the shoulders and extending down the arms and over the hands, worn by acolytes who carry the miter and crosier at a Pontifical Mass.", "S": [], "A": []}

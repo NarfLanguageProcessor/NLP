@@ -1,0 +1,1 @@
+{"index": 233220, "D": "a tonal sweep achieved by varying the phase relationship of two similar audio signals by mechanical or electronic means", "S": [], "A": []}

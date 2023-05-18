@@ -1,0 +1,1 @@
+{"index": 347443, "D": "not excusable; disgraceful", "S": ["indefensible ", "inexcusable ", "inexpiable ", "intolerable ", "reprehensible ", "unjustifiable "], "A": ["forgivable ", "pardonable ", "understandable "]}

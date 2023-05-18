@@ -1,0 +1,1 @@
+{"index": 270011, "D": "a restraining  action or influence", "S": ["caution ", "constraint ", "control ", "moderation ", "restriction ", "self-discipline ", "self-restraint "], "A": ["aid ", "assistance ", "freedom ", "help ", "indulgence ", "liberty ", "release ", "self-indulgence "]}

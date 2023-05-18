@@ -1,0 +1,1 @@
+{"index": 110656, "D": "an edge  that thins out like a feather. ", "S": [], "A": []}

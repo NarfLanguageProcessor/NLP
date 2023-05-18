@@ -1,0 +1,1 @@
+{"index": 242121, "D": "a son of Oedipus and Jocasta and brother of Eteocles and Antigone on whose behalf the Seven against Thebes were organized.", "S": [], "A": []}

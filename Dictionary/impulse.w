@@ -1,0 +1,1 @@
+{"index": 149254, "D": "the influence of a particular feeling, mental state, etc.", "S": ["desire ", "feeling ", "inclination ", "influence ", "instinct ", "motivation ", "motive ", "notion ", "passion ", "thought ", "whim ", "wish "], "A": ["concrete ", "discouragement ", "dislike ", "hate ", "hatred ", "thing ", "reality ", "truth "]}

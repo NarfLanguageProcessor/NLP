@@ -1,0 +1,1 @@
+{"index": 96859, "D": "of or relating to Elea.", "S": [], "A": []}

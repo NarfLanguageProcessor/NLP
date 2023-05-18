@@ -1,0 +1,1 @@
+{"index": 367308, "D": "the skin of a wool-bearing animal with the fleece still on it.", "S": [], "A": []}

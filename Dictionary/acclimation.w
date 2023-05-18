@@ -1,0 +1,1 @@
+{"index": 1597, "D": [], "S": ["acclimatization ", "adjustment "], "A": []}

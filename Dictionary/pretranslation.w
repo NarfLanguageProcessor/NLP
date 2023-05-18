@@ -1,0 +1,1 @@
+{"index": 250028, "D": "the rendering of something into another language or into one's own from another language.", "S": [], "A": []}

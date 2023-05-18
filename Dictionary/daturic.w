@@ -1,0 +1,1 @@
+{"index": 77214, "D": "any of several plants belonging to the genus Datura, of the nightshade family, including some species grown as ornamentals and usually having funnel-shaped flowers and prickly pods", "S": [], "A": []}

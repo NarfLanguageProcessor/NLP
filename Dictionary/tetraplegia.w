@@ -1,0 +1,1 @@
+{"index": 320149, "D": "quadriplegia. ", "S": [], "A": []}

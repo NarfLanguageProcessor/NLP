@@ -1,0 +1,1 @@
+{"index": 145612, "D": "consisting of or employing an iamb or iambs.", "S": [], "A": []}

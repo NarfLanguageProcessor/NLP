@@ -1,0 +1,1 @@
+{"index": 180508, "D": "a strict disciplinarian, especially a military one.", "S": [], "A": []}

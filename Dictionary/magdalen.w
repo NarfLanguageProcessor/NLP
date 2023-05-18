@@ -1,0 +1,1 @@
+{"index": 177367, "D": "a reformed prostitute", "S": ["lost lamb ", "penitent ", "prodigal ", "prodigal returned ", "returnee "], "A": []}

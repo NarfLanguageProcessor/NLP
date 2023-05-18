@@ -1,0 +1,1 @@
+{"index": 229518, "D": "a plural of penny;  used in referring to a sum of money rather than to the coins themselves (often used in combination)", "S": ["cent ", "copper penny ", "farthing ", "hill of beans ", "penny "], "A": []}

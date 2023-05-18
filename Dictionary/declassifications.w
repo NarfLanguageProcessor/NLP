@@ -1,0 +1,1 @@
+{"index": 78476, "D": "Compare classification (def. 5). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211560, "D": "feeling or expressing hurt, indignation, or irritation because of a perceived wrong or insult", "S": [], "A": []}

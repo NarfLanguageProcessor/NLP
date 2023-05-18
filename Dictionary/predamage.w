@@ -1,0 +1,1 @@
+{"index": 246642, "D": "injury or harm that reduces value or usefulness", "S": [], "A": []}

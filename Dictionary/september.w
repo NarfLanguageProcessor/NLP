@@ -1,0 +1,1 @@
+{"index": 285650, "D": "the ninth month of the year, containing 30 days. Abbreviations", "S": [], "A": []}

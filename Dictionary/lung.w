@@ -1,0 +1,1 @@
+{"index": 176209, "D": "either of the two saclike respiratory organs in the thorax of humans and the higher vertebrates.", "S": ["alveolus ", "bronchi ", "pleura "], "A": []}

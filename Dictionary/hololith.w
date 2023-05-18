@@ -1,0 +1,1 @@
+{"index": 142611, "D": "a ring made from a single piece of stone.", "S": [], "A": []}

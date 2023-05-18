@@ -1,0 +1,1 @@
+{"index": 277251, "D": "(of a performance with a stringed instrument) playing each note staccato by bouncing the bow on the strings.", "S": [], "A": []}

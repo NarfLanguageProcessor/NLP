@@ -1,0 +1,1 @@
+{"index": 288229, "D": "lacking in resourcefulness; inefficient; lazy.", "S": [], "A": []}

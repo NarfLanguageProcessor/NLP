@@ -1,0 +1,1 @@
+{"index": 242989, "D": "of great weight; heavy; massive.", "S": ["denseness ", "density ", "heftiness ", "mass ", "massiveness ", "ponderosity ", "thickness ", "weight ", "weightiness "], "A": ["thinness "]}

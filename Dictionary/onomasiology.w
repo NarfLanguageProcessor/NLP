@@ -1,0 +1,1 @@
+{"index": 212868, "D": "the study of the means of expressing a given concept.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160993, "D": "the father of David. 1 Samuel 16.", "S": [], "A": []}

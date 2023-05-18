@@ -1,0 +1,1 @@
+{"index": 218681, "D": "the state or quality of being complex;  intricacy", "S": [], "A": []}

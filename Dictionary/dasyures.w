@@ -1,0 +1,1 @@
+{"index": 77116, "D": "any of several nocturnal, carnivorous marsupials of the genus Dasyurus and related genera, of Australia, Tasmania, and nearby islands, typically having a reddish or olive-brown coat marked with white spots.", "S": [], "A": []}

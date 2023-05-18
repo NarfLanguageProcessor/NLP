@@ -1,0 +1,1 @@
+{"index": 187475, "D": "the channel in which the current of water driving a mill wheel  flows to the mill. ", "S": [], "A": []}

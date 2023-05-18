@@ -1,0 +1,1 @@
+{"index": 161887, "D": "a person who practices the occupation or profession of journalism. ", "S": ["broadcast journalism ", "electronic journalism ", "journalism ", "news media ", "press ", "press corps ", "print journalism ", "public press ", "public print "], "A": []}

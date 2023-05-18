@@ -1,0 +1,1 @@
+{"index": 125519, "D": "a female child, from birth to full growth.", "S": ["adolescent ", "daughter ", "lady ", "schoolgirl ", "teenager ", "young woman "], "A": ["boy "]}

@@ -1,0 +1,1 @@
+{"index": 95956, "D": "in a way that accomplishes a purpose or produces the intended or expected results", "S": ["adequately ", "completely ", "definitely ", "dramatically ", "energetically ", "finally ", "forcefully ", "productively "], "A": ["doubtfully ", "dubiously "]}

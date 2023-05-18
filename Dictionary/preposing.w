@@ -1,0 +1,1 @@
+{"index": 248876, "D": "to place (a grammatical form) before a related grammatical form", "S": [], "A": []}

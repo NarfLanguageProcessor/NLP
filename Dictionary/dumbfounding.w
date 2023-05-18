@@ -1,0 +1,1 @@
+{"index": 94043, "D": "to make speechless with amazement; astonish.", "S": ["bewilderment ", "disorientation ", "distraction ", "embarrassment ", "turbulence ", "turmoil "], "A": ["calm ", "peace ", "calmness ", "happiness "]}

@@ -1,0 +1,1 @@
+{"index": 334554, "D": "the ability to adjust to different conditions or circumstances", "S": [], "A": []}

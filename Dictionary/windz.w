@@ -1,0 +1,1 @@
+{"index": 366069, "D": "a vertical or inclined shaft driven downward from a drift into an orebody.", "S": [], "A": []}

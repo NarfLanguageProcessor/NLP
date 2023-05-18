@@ -1,0 +1,1 @@
+{"index": 205733, "D": "of or relating to the Roman Catholic Church.", "S": [], "A": []}

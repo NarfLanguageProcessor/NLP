@@ -1,0 +1,1 @@
+{"index": 262902, "D": "an act of canceling or voiding; cancellation.", "S": ["cancellation ", "withdrawal "], "A": ["enactment ", "validation "]}

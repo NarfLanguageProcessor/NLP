@@ -1,0 +1,1 @@
+{"index": 92821, "D": "a narrow sheet,  often used on hospital beds, placed under a patient's buttocks and often over a rubber sheet,  that can easily be removed if soiled.", "S": [], "A": []}

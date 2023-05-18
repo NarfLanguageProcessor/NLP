@@ -1,0 +1,1 @@
+{"index": 287990, "D": "a private language, based in part on Irish, used among Travelers in the British Isles.", "S": [], "A": []}

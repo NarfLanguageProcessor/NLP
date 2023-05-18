@@ -1,0 +1,1 @@
+{"index": 117821, "D": "to convert into a fossil;  replace organic with mineral substances in the remains of an organism.", "S": ["calcification ", "coagulation ", "concretion ", "crystallization ", "freezing ", "ossification ", "petrification ", "setting ", "solidifying ", "stiffening "], "A": []}

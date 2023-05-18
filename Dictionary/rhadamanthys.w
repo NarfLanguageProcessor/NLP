@@ -1,0 +1,1 @@
+{"index": 271755, "D": "a son of Zeus and Europa, rewarded for the justice he exemplified on earth by being made, after his death, a judge in the Underworld, where he served with his brothers Minos and Aeacus.", "S": [], "A": []}

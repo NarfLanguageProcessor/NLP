@@ -1,0 +1,1 @@
+{"index": 357632, "D": "the entire body of Hindu sacred writings, chief among which are four books, the Rig-Veda, the Sama-Veda, the Atharva-Veda, and the Yajur-Veda.", "S": [], "A": []}

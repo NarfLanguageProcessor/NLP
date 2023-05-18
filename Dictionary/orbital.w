@@ -1,0 +1,1 @@
+{"index": 214050, "D": "of or relating to an orbit. ", "S": ["annual ", "intermittent ", "monthly ", "occasional ", "recurrent ", "recurring ", "regular ", "repeated ", "routine ", "seasonal ", "sporadic ", "weekly ", "yearly "], "A": ["constant ", "infrequent ", "unusual "]}

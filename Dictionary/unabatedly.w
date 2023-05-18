@@ -1,0 +1,1 @@
+{"index": 334318, "D": "with undiminished force, power, or vigor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188179, "D": "(in E Africa) a dry wooded area with sparse deciduous growth", "S": [], "A": []}

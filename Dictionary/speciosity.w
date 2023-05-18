@@ -1,0 +1,1 @@
+{"index": 298810, "D": "the quality or state of being specious.", "S": [], "A": []}

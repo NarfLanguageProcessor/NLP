@@ -1,0 +1,1 @@
+{"index": 144394, "D": "(of a pet) trained to avoid excreting inside the house  or in improper places.", "S": ["tamed ", "trained "], "A": []}

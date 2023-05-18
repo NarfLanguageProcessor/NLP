@@ -1,0 +1,1 @@
+{"index": 181715, "D": "avoiding the use of direct and plain language, as from timidity, excessive delicacy, or hypocrisy; inclined to mince words; insincere, devious, or compromising", "S": ["affected ", "deceptive ", "devious ", "disingenuous ", "equivocal ", "hypocritical ", "insincere "], "A": []}

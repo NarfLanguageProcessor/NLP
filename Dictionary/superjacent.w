@@ -1,0 +1,1 @@
+{"index": 312157, "D": "lying above or upon something else.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253992, "D": "in favour of or supporting the constitutional union between two or more countries", "S": [], "A": []}

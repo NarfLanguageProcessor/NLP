@@ -1,0 +1,1 @@
+{"index": 243282, "D": "a finial or other ornament, often richly carved, as the top of the upright end of a bench or pew.", "S": [], "A": []}

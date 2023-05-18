@@ -1,0 +1,1 @@
+{"index": 230559, "D": "to survive from season to season for an indefinite number of years.", "S": [], "A": []}

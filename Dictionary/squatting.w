@@ -1,0 +1,1 @@
+{"index": 301805, "D": "to sit in a low or crouching position with the legs drawn up closely beneath or in front of the body; sit on one's haunches or heels.", "S": ["clearing ", "establishment ", "expansion ", "founding ", "immigration ", "migration ", "settlement ", "settling ", "transplanting "], "A": []}

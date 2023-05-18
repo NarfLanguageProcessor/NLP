@@ -1,0 +1,1 @@
+{"index": 249150, "D": "a restraining  action or influence", "S": [], "A": []}

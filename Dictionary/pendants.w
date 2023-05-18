@@ -1,0 +1,1 @@
+{"index": 229548, "D": "a hanging ornament, as an earring or the main piece suspended from a necklace.", "S": ["bracelet ", "brooch ", "costume ", "earring ", "gem ", "glass ", "gold ", "jewel ", "knickknack ", "necklace ", "ornament ", "pendant ", "silver ", "tiara ", "treasure ", "trinket "], "A": ["plainness "]}

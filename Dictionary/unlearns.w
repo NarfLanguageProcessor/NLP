@@ -1,0 +1,1 @@
+{"index": 345505, "D": "to forget or lose knowledge of.", "S": [], "A": []}

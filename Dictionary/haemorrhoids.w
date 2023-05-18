@@ -1,0 +1,1 @@
+{"index": 132109, "D": "Nontechnical name", "S": [], "A": []}

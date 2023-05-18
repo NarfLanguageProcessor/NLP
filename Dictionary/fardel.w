@@ -1,0 +1,1 @@
+{"index": 109910, "D": "a bundle; burden.", "S": ["carriage ", "consignment ", "merchandise ", "payload ", "shipment ", "shipping ", "transportation "], "A": ["benefit "]}

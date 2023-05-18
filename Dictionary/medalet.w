@@ -1,0 +1,1 @@
+{"index": 181957, "D": "a small medal,  usually no larger than 1 inch (2.5 centimeters) in diameter.", "S": [], "A": []}

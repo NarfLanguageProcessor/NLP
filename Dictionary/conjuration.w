@@ -1,0 +1,1 @@
+{"index": 66449, "D": "the act of calling on or invoking a sacred name.", "S": ["appeal ", "beauty ", "charisma ", "glamour ", "grace ", "magic "], "A": ["ugliness ", "repulsion "]}

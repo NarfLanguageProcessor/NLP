@@ -1,0 +1,1 @@
+{"index": 83482, "D": "to bring out the capabilities or possibilities of; bring to a more advanced or effective state", "S": [], "A": []}

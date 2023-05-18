@@ -1,0 +1,1 @@
+{"index": 206891, "D": "of, pertaining to, characterized by, or of the nature of a revolution,  or a sudden, complete, or marked change", "S": [], "A": []}

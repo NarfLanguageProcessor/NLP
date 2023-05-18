@@ -1,0 +1,1 @@
+{"index": 203592, "D": "the act of equating  or making equal; equalization", "S": [], "A": []}

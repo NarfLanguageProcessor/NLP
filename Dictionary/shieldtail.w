@@ -1,0 +1,1 @@
+{"index": 288200, "D": "any of several burrowing snakes of the family Uropeltidae, of the Indian peninsula and Sri Lanka, having a tail that ends in a flat disk.", "S": [], "A": []}

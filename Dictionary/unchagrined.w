@@ -1,0 +1,1 @@
+{"index": 336686, "D": "a feeling of vexation, marked by disappointment or humiliation.", "S": [], "A": []}

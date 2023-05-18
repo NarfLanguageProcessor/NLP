@@ -1,0 +1,1 @@
+{"index": 350116, "D": "(in ancient manuscripts, early printed books, etc.) having titles, catchwords, etc., distinctively colored.", "S": [], "A": []}

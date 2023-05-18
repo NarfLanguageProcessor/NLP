@@ -1,0 +1,1 @@
+{"index": 80926, "D": "soothing or mollifying, as a medicinal substance.", "S": ["balm ", "cosmetic ", "cream ", "ointment ", "salve "], "A": []}

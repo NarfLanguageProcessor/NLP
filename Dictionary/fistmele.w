@@ -1,0 +1,1 @@
+{"index": 113490, "D": "a measure of the width of a hand and the extended thumb, used to calculate the approximate height of the string of a braced bow", "S": [], "A": []}

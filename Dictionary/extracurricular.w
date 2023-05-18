@@ -1,0 +1,1 @@
+{"index": 108475, "D": "outside the regular curriculum or program of courses", "S": ["cheating ", "illicit "], "A": ["chaste ", "clean ", "pure ", "virginal "]}

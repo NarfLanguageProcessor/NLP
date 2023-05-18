@@ -1,0 +1,1 @@
+{"index": 54408, "D": "having fleshy stems.", "S": [], "A": []}

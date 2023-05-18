@@ -1,0 +1,1 @@
+{"index": 266559, "D": "reiterating or repeating, especially to an intensified degree", "S": [], "A": []}

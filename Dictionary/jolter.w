@@ -1,0 +1,1 @@
+{"index": 161722, "D": "to jar, shake, or cause to move by or as if by a sudden rough thrust; shake up roughly", "S": [], "A": []}

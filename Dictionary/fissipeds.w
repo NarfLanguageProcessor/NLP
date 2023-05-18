@@ -1,0 +1,1 @@
+{"index": 113450, "D": "any member of the suborder Fissipedia, carnivorous mammals that have separate toes, as bears, badgers, dogs, cats, and raccoons.", "S": [], "A": []}

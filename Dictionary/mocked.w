@@ -1,0 +1,1 @@
+{"index": 191005, "D": "to attack or treat with ridicule, contempt, or derision.", "S": ["humiliated "], "A": ["honored ", "in favor ", "restored "]}

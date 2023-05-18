@@ -1,0 +1,1 @@
+{"index": 89859, "D": "an act or instance of distorting. ", "S": ["bias ", "exaggeration ", "lie ", "misinterpretation ", "misrepresentation ", "misstatement ", "misuse "], "A": ["beauty ", "clarity ", "perfection "]}

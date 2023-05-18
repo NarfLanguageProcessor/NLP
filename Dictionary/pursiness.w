@@ -1,0 +1,1 @@
+{"index": 257120, "D": "short-winded, especially from corpulence or fatness.", "S": [], "A": []}

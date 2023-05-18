@@ -1,0 +1,1 @@
+{"index": 175963, "D": "a quadrilateral sail bent upon a yard that crosses the mast obliquely.", "S": ["square rig "], "A": []}

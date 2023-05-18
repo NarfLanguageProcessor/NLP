@@ -1,0 +1,1 @@
+{"index": 8272, "D": "the act of proceeding to the reading table in a synagogue for the reading of a portion from the Torah.", "S": [], "A": []}

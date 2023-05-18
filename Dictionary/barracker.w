@@ -1,0 +1,1 @@
+{"index": 28274, "D": "a building or group of buildings for lodging soldiers, especially in garrison.", "S": [], "A": []}

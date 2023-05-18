@@ -1,0 +1,1 @@
+{"index": 40580, "D": "British diplomat, historian, and jurist", "S": [], "A": []}

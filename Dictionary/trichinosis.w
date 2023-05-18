@@ -1,0 +1,1 @@
+{"index": 329371, "D": "a disease resulting from infestation with Trichinella spiralis, occurring in humans, caused by ingestion of infested, undercooked pork, and characterized by fever, muscle weakness, and diarrhea.", "S": [], "A": []}

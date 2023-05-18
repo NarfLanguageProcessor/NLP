@@ -1,0 +1,1 @@
+{"index": 298310, "D": "a synthetic fiber composed of a long-chain polymer, used chiefly in the manufacture of garments to add elasticity.", "S": [], "A": []}

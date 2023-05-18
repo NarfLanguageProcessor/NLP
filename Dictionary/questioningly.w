@@ -1,0 +1,1 @@
+{"index": 258428, "D": "indicating or implying a question", "S": ["askance ", "doubtfully ", "doubtingly ", "dubiously ", "suspiciously ", "with a grain of salt "], "A": []}

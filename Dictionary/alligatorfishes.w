@@ -1,0 +1,1 @@
+{"index": 8733, "D": "a slender marine fish, Aspidophoroides monopterygius, of Atlantic seas, having overlapping plates covering the body.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239744, "D": "a person who deposits personal property as a pledge. ", "S": [], "A": []}

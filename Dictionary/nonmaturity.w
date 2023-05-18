@@ -1,0 +1,1 @@
+{"index": 205202, "D": "the state of being mature; ripeness", "S": [], "A": []}

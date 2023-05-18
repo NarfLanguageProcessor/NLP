@@ -1,0 +1,1 @@
+{"index": 137738, "D": "belonging or pertaining to the Heteroptera, in some classifications a suborder of hemipterous insects comprising the true bugs.", "S": [], "A": []}

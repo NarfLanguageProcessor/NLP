@@ -1,0 +1,1 @@
+{"index": 27578, "D": "a long bench with an upholstered seat, especially one along a wall, as in a restaurant.", "S": [], "A": []}

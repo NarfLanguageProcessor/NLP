@@ -1,0 +1,1 @@
+{"index": 105195, "D": "the cause or origin of a disease.", "S": ["analysis ", "biology ", "cytology ", "diagnosis ", "dissection ", "division ", "embryology ", "examination ", "genetics ", "histology ", "inquiry ", "investigation ", "medicine ", "morphology ", "physiology ", "zoology "], "A": ["connection "]}

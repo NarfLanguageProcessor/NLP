@@ -1,0 +1,1 @@
+{"index": 189228, "D": "the quality of seeming to enjoy being depressed, or the type of gloomy music, art, etc, that evokes this", "S": [], "A": []}

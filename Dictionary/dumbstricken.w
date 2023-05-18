@@ -1,0 +1,1 @@
+{"index": 94055, "D": "temporarily deprived of the power of speech, as by surprise or confusion; dumbfounded. ", "S": [], "A": []}

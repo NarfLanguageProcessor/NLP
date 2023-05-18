@@ -1,0 +1,1 @@
+{"index": 36268, "D": "(loosely) any small spot of light on a display screen.", "S": ["blip ", "blow ", "pat ", "punch ", "whack "], "A": []}

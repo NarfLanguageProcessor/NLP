@@ -1,0 +1,1 @@
+{"index": 152861, "D": "a judicial process or order requiring the person or persons to whom it is directed to do a particular act or to refrain from doing a particular act.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348794, "D": "a short, quick blast, as of wind or breath.", "S": [], "A": []}

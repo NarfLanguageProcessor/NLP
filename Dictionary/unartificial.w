@@ -1,0 +1,1 @@
+{"index": 335260, "D": "made by human skill; produced by humans (opposed to natural)", "S": ["artless "], "A": ["deceitful ", "dishonest ", "sly "]}

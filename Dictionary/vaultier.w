@@ -1,0 +1,1 @@
+{"index": 357548, "D": "having the appearance or characteristics of a vault;  arching", "S": [], "A": []}

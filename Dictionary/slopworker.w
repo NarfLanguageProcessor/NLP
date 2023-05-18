@@ -1,0 +1,1 @@
+{"index": 294373, "D": "the manufacture of cheap clothing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 369279, "D": "Compare homozygous, heterozygous. ", "S": [], "A": []}

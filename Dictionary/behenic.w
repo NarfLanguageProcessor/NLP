@@ -1,0 +1,1 @@
+{"index": 30812, "D": "of or derived from behenic acid; docosanoic.", "S": [], "A": []}

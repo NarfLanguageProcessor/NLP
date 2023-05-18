@@ -1,0 +1,1 @@
+{"index": 125019, "D": "an ingenious or novel device, scheme, or stratagem, especially one designed to attract attention or increase appeal.", "S": ["artifice ", "device ", "fun ", "gadget ", "gizmo ", "instrument ", "maneuver ", "method ", "ploy ", "ruse ", "stratagem ", "stunt ", "trick "], "A": ["frankness ", "honesty ", "reality ", "truth "]}

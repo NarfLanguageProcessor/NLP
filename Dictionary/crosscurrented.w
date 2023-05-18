@@ -1,0 +1,1 @@
+{"index": 73796, "D": "a current,  as in a stream, moving across the main current. ", "S": [], "A": []}

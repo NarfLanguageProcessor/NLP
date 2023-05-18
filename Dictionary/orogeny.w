@@ -1,0 +1,1 @@
+{"index": 214821, "D": "the process of mountain making or upheaval.", "S": [], "A": []}

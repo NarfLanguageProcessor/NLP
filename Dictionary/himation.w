@@ -1,0 +1,1 @@
+{"index": 139546, "D": "a garment consisting of a rectangular piece of cloth thrown over the left shoulder and wrapped about the body.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 274269, "D": "a portion of space within a building or other structure, separated by walls or partitions from other parts", "S": ["apartment ", "board ", "boardinghouse ", "crib ", "digs ", "hotel ", "house ", "housing ", "lodging ", "motel ", "pad ", "quarters ", "roof ", "shelter "], "A": []}

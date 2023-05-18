@@ -1,0 +1,1 @@
+{"index": 38983, "D": "a limit; boundary (esp in the phrase know no bounds)", "S": ["constrained ", "enslaved ", "obligated ", "restrained "], "A": ["irresolute "]}

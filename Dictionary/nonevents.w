@@ -1,0 +1,1 @@
+{"index": 203700, "D": "an event  or situation that is anticipated but does not occur or occurs with much less than the expected impact, especially one that has been widely publicized; anticlimax.", "S": ["photo op ", "photo opportunity ", "pseudo-event "], "A": []}

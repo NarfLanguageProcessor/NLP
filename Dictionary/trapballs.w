@@ -1,0 +1,1 @@
+{"index": 328438, "D": "an old game in which a ball  placed on the hollowed end of a trap  is thrown into the air by striking the other end of the trap  with a bat and then driven to a distance with the bat.", "S": [], "A": []}

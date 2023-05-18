@@ -1,0 +1,1 @@
+{"index": 204850, "D": "of or relating to intoxicants or intoxication.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334113, "D": " to howl,  as a coyote or wolf, or to hoot,  as an owl.", "S": ["bark ", "bawl ", "bay ", "bellow ", "blubber ", "clamor ", "groan ", "growl ", "hoot ", "keen ", "lament ", "moan ", "outcry ", "quest ", "roar ", "scream ", "shout ", "shriek ", "wail ", "weep ", "whimper ", "whine ", "yell ", "yelp ", "yip ", "yowl "], "A": ["be quiet ", "whimper "]}

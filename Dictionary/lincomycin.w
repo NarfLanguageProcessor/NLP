@@ -1,0 +1,1 @@
+{"index": 172697, "D": "a toxic antibiotic, C18H34N2O6S, isolated from Streptomyces lincolnensis, used in its hydrochloride form for the treatment of serious Gram-positive penicillin-resistant infections.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259037, "D": "on equal terms by repayment or retaliation.", "S": ["depart ", "drop ", "drop out ", "give up ", "go ", "pull out ", "relinquish ", "renounce ", "retire ", "surrender ", "vacate ", "withdraw "], "A": ["allow ", "begin ", "continue ", "enter ", "join ", "stay ", "arrive ", "come in "]}

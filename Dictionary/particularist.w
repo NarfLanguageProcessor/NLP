@@ -1,0 +1,1 @@
+{"index": 227045, "D": "exclusive attention or devotion to one's own particular  interests, party, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203466, "D": "coming into view or notice; issuing.", "S": [], "A": []}

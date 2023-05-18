@@ -1,0 +1,1 @@
+{"index": 64082, "D": "a uniformed attendant, as a doorkeeper or usher.", "S": ["courier ", "emissary ", "go-between ", "mediator ", "prophet "], "A": ["receiver "]}

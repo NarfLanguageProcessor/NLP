@@ -1,0 +1,1 @@
+{"index": 127042, "D": "the lowest point on the anterior margin of the lower jaw in the midsaggital plane.", "S": [], "A": []}

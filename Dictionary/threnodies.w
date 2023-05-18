@@ -1,0 +1,1 @@
+{"index": 322638, "D": "a poem, speech, or song of lamentation, especially for the dead; dirge; funeral song.", "S": ["dirge ", "elegy ", "poem ", "requiem "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162751, "D": "a traditional Inuit or Yupik canoe with a skin cover on a light framework, made watertight by flexible closure around the waist of the occupant and propelled with a double-bladed paddle.", "S": [], "A": []}

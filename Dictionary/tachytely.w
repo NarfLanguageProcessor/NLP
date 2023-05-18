@@ -1,0 +1,1 @@
+{"index": 315042, "D": "of or relating to evolution at a rate faster than the standard for a given group of plants or animals.", "S": [], "A": []}

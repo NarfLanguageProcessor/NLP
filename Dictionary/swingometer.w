@@ -1,0 +1,1 @@
+{"index": 314510, "D": "a device used in television broadcasting during a general election to indicate the swing of votes from one political party to another", "S": [], "A": []}

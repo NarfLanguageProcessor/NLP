@@ -1,0 +1,1 @@
+{"index": 118779, "D": "the state or fact of being frequent; frequent occurrence", "S": ["density ", "number ", "prevalence ", "recurrence ", "regularity ", "repetition "], "A": ["infrequency ", "irregularity ", "uncommonness "]}

@@ -1,0 +1,1 @@
+{"index": 340758, "D": "of or relating to Jesus Christ as Lord.", "S": [], "A": []}

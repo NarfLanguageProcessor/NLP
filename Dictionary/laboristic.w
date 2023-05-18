@@ -1,0 +1,1 @@
+{"index": 166751, "D": "a political theory favoring the dominance of labor  in the economic and political life of a country.", "S": [], "A": []}

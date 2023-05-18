@@ -1,0 +1,1 @@
+{"index": 149069, "D": "easily impressed  or influenced; susceptible", "S": ["affectability ", "emotionality ", "flexibility ", "perceptivity ", "plasticity ", "pliancy ", "sensibility ", "sensitiveness ", "sensitivity ", "sentimentality ", "susceptibleness ", "tenderness "], "A": []}

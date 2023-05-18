@@ -1,0 +1,1 @@
+{"index": 249271, "D": "of, relating to, or intended for a child between infancy and school age", "S": ["day-care center ", "kindergarten "], "A": []}

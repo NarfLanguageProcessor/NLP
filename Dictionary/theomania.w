@@ -1,0 +1,1 @@
+{"index": 321043, "D": "a delusional mental illness in which a person believes that they are to be God or specially chosen by God, as to found a religious order.", "S": [], "A": []}

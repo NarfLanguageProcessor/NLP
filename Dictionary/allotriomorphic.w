@@ -1,0 +1,1 @@
+{"index": 8980, "D": "xenomorphic (def. 1). ", "S": [], "A": []}

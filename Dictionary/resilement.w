@@ -1,0 +1,1 @@
+{"index": 269413, "D": "to spring back; rebound; resume the original form or position, as an elastic body.", "S": [], "A": []}

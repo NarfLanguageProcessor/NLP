@@ -1,0 +1,1 @@
+{"index": 8259, "D": "arranged in a straight line", "S": ["even ", "flush ", "level ", "parallel ", "plane ", "regular ", "smooth ", "straight ", "uniform "], "A": ["broken ", "changing ", "different ", "disorderly ", "dissimilar ", "divergent ", "inconsistent ", "irregular ", "rough ", "uneven ", "unfair "]}

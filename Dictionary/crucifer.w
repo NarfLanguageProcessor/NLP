@@ -1,0 +1,1 @@
+{"index": 74083, "D": "a person who carries a cross, as in ecclesiastical processions.", "S": [], "A": []}

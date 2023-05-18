@@ -1,0 +1,1 @@
+{"index": 33991, "D": "a carved ornamental scroll or volute terminating a stem or cutwater at its upper end in place of a figurehead.", "S": [], "A": []}

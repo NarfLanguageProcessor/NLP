@@ -1,0 +1,1 @@
+{"index": 24963, "D": "the recipient of an award. ", "S": ["beneficiary "], "A": ["donor ", "giver "]}

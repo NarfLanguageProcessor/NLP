@@ -1,0 +1,1 @@
+{"index": 45324, "D": "a nymph attendant on Artemis, punished for a love affair with Zeus by being changed into a bear and then transformed into stars as the constellation Ursa Major.", "S": [], "A": []}

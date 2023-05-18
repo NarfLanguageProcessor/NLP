@@ -1,0 +1,1 @@
+{"index": 366209, "D": "the act of a person or thing that wins. ", "S": [], "A": []}

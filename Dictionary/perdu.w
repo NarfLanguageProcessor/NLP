@@ -1,0 +1,1 @@
+{"index": 230511, "D": "hidden; concealed; obscured.", "S": ["buried ", "camouflaged ", "covered ", "planted ", "veiled "], "A": ["bare ", "clear ", "disclosed ", "exposed ", "obvious ", "open ", "plain ", "revealed ", "shown ", "told ", "uncovered "]}

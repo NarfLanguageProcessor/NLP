@@ -1,0 +1,1 @@
+{"index": 152856, "D": "American Indian; Native American.", "S": [], "A": []}

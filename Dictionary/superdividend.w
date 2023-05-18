@@ -1,0 +1,1 @@
+{"index": 311670, "D": "a number that is to be divided by a divisor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94670, "D": "the Akkadian god of wisdom, the son of Apsu and father of Marduk", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247379, "D": "the act of examining;  inspection; inquiry; investigation.", "S": [], "A": []}

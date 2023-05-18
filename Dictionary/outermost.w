@@ -1,0 +1,1 @@
+{"index": 216551, "D": "farthest out; remotest from the interior or center", "S": ["beyond ", "distant ", "fringe ", "furthermost ", "outlying ", "outmost ", "outward ", "peripheral ", "remote "], "A": []}

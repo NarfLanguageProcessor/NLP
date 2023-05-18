@@ -1,0 +1,1 @@
+{"index": 351374, "D": "a narrow, elongated depression, groove, notch, slit, or aperture, especially a narrow opening for receiving or admitting something, as a coin or a letter.", "S": [], "A": []}

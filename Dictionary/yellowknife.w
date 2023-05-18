@@ -1,0 +1,1 @@
+{"index": 146818, "D": "a city in and the capital of the Northwest Territories, in N central Canada, on Great Slave Lake.", "S": [], "A": []}

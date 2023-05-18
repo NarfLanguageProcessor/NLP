@@ -1,0 +1,1 @@
+{"index": 367297, "D": "any cloth of carded wool  yarn of which the fibers vary in length", "S": ["fleecy ", "lanate ", "laniferous ", "lanose "], "A": []}

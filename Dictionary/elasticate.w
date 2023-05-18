@@ -1,0 +1,1 @@
+{"index": 96752, "D": "an elasticated waistband", "S": [], "A": []}

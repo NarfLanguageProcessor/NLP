@@ -1,0 +1,1 @@
+{"index": 323217, "D": "a telegraphic receiving instrument that automatically prints stock prices, market reports, etc., on a paper tape.", "S": ["device ", "explosive ", "mine ", "missile ", "projectile ", "rocket ", "torpedo "], "A": []}

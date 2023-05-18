@@ -1,0 +1,1 @@
+{"index": 114862, "D": "a number of animals of one kind, especially sheep, goats, or birds, that keep or feed together or are herded together.", "S": [], "A": []}

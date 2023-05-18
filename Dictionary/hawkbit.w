@@ -1,0 +1,1 @@
+{"index": 134461, "D": "any of three composite perennial plants of the genus Leontodon, with yellow dandelion-like flowers and lobed leaves in a rosette, erect or prostrate", "S": [], "A": []}

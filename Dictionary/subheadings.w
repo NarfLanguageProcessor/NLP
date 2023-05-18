@@ -1,0 +1,1 @@
+{"index": 308129, "D": "a title or heading  of a subdivision, as in a chapter, essay, or newspaper article.", "S": [], "A": []}

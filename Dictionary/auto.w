@@ -1,0 +1,1 @@
+{"index": 23854, "D": "automobile. ", "S": ["car ", "passenger car ", "vehicle "], "A": []}

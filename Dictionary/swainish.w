@@ -1,0 +1,1 @@
+{"index": 313995, "D": "a male admirer or lover.", "S": [], "A": []}

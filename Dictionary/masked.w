@@ -1,0 +1,1 @@
+{"index": 180694, "D": "using or wearing a mask  or masks", "S": ["disguised "], "A": ["unmasked "]}

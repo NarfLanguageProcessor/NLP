@@ -1,0 +1,1 @@
+{"index": 69092, "D": "any of the erect or climbing plants constituting the genus Corydalis, of the poppy family, having divided leaves, tuberous or fibrous roots, and clusters of irregular spurred flowers.", "S": [], "A": []}

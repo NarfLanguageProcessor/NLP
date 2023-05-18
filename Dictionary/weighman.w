@@ -1,0 +1,1 @@
+{"index": 363886, "D": "a person whose occupation is weighing  goods, produce, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 240871, "D": "the presence of air or gas in the pleural cavity.", "S": [], "A": []}

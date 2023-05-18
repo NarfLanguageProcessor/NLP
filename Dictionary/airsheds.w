@@ -1,0 +1,1 @@
+{"index": 6987, "D": "a geographical area within which the air frequently is confined or channeled, with all parts of the area thus being subject to similar conditions of air pollution.", "S": [], "A": []}

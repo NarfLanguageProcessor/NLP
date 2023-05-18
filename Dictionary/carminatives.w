@@ -1,0 +1,1 @@
+{"index": 48173, "D": "a drug causing expulsion of gas from the stomach or bowel.", "S": [], "A": []}

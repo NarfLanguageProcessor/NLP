@@ -1,0 +1,1 @@
+{"index": 262130, "D": "to reach, achieve, or accomplish; gain; obtain", "S": ["achieve ", "attain ", "gain ", "reach ", "recapture ", "reclaim ", "recoup ", "recover ", "retake ", "return to ", "take back ", "win back "], "A": ["abandon ", "fail ", "forfeit ", "lose ", "miss "]}

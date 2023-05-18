@@ -1,0 +1,1 @@
+{"index": 366285, "D": "U.S. poet and critic.", "S": ["cold "], "A": ["heat "]}

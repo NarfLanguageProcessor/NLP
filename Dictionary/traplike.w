@@ -1,0 +1,1 @@
+{"index": 328476, "D": "a contrivance used for catching game or other animals, as a mechanical device that springs shut suddenly.", "S": [], "A": []}

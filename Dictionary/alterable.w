@@ -1,0 +1,1 @@
+{"index": 9447, "D": "capable of being altered. ", "S": ["adaptable ", "adjustable ", "flexible ", "fluid ", "malleable ", "modifiable ", "mutable ", "reversible. transformable ", "variable ", "variant "], "A": []}

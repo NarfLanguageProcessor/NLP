@@ -1,0 +1,1 @@
+{"index": 165472, "D": "any of several plants belonging to the genus Scleranthus, of the pink family, native to Eurasia, especially S. annuus, a common, low-growing weed that forms dense mats.", "S": [], "A": []}

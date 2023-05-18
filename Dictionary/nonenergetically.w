@@ -1,0 +1,1 @@
+{"index": 203508, "D": "possessing or exhibiting energy,  especially in abundance; vigorous", "S": [], "A": []}

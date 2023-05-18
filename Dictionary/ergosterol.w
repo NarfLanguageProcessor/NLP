@@ -1,0 +1,1 @@
+{"index": 103632, "D": "a colorless, crystalline, water-insoluble sterol,  C28H43OH, that occurs in ergot and yeast and that, when irradiated with ultraviolet light, is converted to vitamin D.", "S": [], "A": []}

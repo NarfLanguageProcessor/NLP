@@ -1,0 +1,1 @@
+{"index": 112070, "D": "resembling fiber or fibrous tissue.", "S": ["hairy "], "A": []}

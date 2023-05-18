@@ -1,0 +1,1 @@
+{"index": 40628, "D": "of, for, or pertaining to a bride  or a wedding", "S": ["espousal ", "hymeneal ", "nuptial ", "spousal "], "A": ["divorce "]}

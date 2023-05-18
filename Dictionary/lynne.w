@@ -1,0 +1,1 @@
+{"index": 172969, "D": "U.S. figure skater.", "S": [], "A": []}

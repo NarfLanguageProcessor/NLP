@@ -1,0 +1,1 @@
+{"index": 174513, "D": "one of the specialized scales at the base of the ovary of certain grass flowers.", "S": [], "A": []}

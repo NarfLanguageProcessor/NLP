@@ -1,0 +1,1 @@
+{"index": 201907, "D": "generous in donations or gifts to relieve the needs of indigent, ill, or helpless people, or of animals", "S": [], "A": []}

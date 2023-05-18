@@ -1,0 +1,1 @@
+{"index": 115446, "D": "to treat, impregnate, or affect with a fluoride. ", "S": [], "A": []}

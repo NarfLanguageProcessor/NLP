@@ -1,0 +1,1 @@
+{"index": 219622, "D": "to grow over; cover with a growth of something.", "S": ["beset ", "choke ", "deluge ", "inundate ", "invade ", "overflow ", "overwhelm ", "ravage "], "A": ["underwhelm "]}

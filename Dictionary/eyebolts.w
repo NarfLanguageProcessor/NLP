@@ -1,0 +1,1 @@
+{"index": 96366, "D": "a bolt  having a ring-shaped head.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 357440, "D": "pertaining to or regulating the tone of the blood vessels.", "S": [], "A": []}

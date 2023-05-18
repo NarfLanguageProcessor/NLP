@@ -1,0 +1,1 @@
+{"index": 350148, "D": "not submissive or conforming to rule; ungovernable; turbulent; intractable; refractory; lawless", "S": [], "A": []}

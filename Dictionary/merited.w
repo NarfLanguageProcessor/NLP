@@ -1,0 +1,1 @@
+{"index": 183832, "D": "claim to respect and praise; excellence; worth.", "S": ["deserved ", "fit ", "fitting ", "justified ", "warranted "], "A": ["inappropriate ", "incorrect ", "unsuitable "]}

@@ -1,0 +1,1 @@
+{"index": 106310, "D": "Compare involute (def. 5). ", "S": [], "A": []}

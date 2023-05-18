@@ -1,0 +1,1 @@
+{"index": 138218, "D": "of or relating to winter; wintry. ", "S": ["bleak ", "chilly ", "desolate ", "freezing ", "frigid ", "frosty ", "frozen ", "icy "], "A": ["cheerful ", "friendly ", "heated ", "hot ", "responsive ", "warm "]}

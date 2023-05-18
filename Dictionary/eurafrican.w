@@ -1,0 +1,1 @@
+{"index": 105725, "D": "of mixed European and African descent.", "S": [], "A": []}

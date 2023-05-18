@@ -1,0 +1,1 @@
+{"index": 301735, "D": "in a square  shape, form, or manner.", "S": ["justly ", "objectively "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351879, "D": "to pierce or wound with or as if with a pointed weapon", "S": [], "A": []}

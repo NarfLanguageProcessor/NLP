@@ -1,0 +1,1 @@
+{"index": 32978, "D": "bewildered  state.", "S": ["confusion ", "disorientation ", "perplexity "], "A": ["expectation "]}

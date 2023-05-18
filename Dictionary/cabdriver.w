@@ -1,0 +1,1 @@
+{"index": 43912, "D": "a driver  of a taxicab or horse-drawn carriage.", "S": ["licensed operator "], "A": []}

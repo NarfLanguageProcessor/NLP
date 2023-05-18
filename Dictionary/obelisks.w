@@ -1,0 +1,1 @@
+{"index": 210037, "D": "a tapering, four-sided shaft of stone, usually monolithic and having a pyramidal apex.", "S": ["column ", "dagger ", "mark ", "monolith ", "monument ", "needle ", "pillar ", "pylon ", "shaft ", "tower "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 244507, "D": "pertaining to, of the nature of, or characterized by tetanus.", "S": [], "A": []}

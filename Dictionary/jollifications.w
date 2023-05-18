@@ -1,0 +1,1 @@
+{"index": 161704, "D": "jolly  merrymaking; jolly  festivity.", "S": ["bacchanal ", "carousal ", "circus ", "conviviality ", "exposition ", "fair ", "feasting ", "festival ", "fete ", "fiesta ", "frolic ", "gala ", "heyday ", "jamboree ", "jubilee ", "masquerade ", "merrymaking ", "orgy ", "ragbag ", "revelry ", "rout ", "saturnalia ", "spree "], "A": []}

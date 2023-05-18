@@ -1,0 +1,1 @@
+{"index": 350151, "D": "not submissive or conforming to rule; ungovernable; turbulent; intractable; refractory; lawless", "S": ["carelessness ", "fractiousness ", "impulsiveness ", "intractability ", "intractableness ", "obstinacy ", "obstreperousness ", "recalcitrance ", "recalcitrancy ", "refractoriness ", "wildness "], "A": []}

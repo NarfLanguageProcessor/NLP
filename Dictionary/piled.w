@@ -1,0 +1,1 @@
+{"index": 236581, "D": "having a pile,  as velvet and other fabrics.", "S": ["accumulated ", "combined ", "corporate ", "cumulative "], "A": ["uncombined "]}

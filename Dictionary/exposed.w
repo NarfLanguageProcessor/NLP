@@ -1,0 +1,1 @@
+{"index": 107950, "D": "left or being without shelter or protection", "S": ["bare ", "defined ", "disclosed ", "discovered ", "naked ", "resolved ", "solved ", "uncovered ", "unprotected "], "A": ["clothed ", "hidden ", "ambiguous ", "blocked ", "closed ", "concealed ", "obscure ", "unclear ", "vague "]}

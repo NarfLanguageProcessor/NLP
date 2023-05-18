@@ -1,0 +1,1 @@
+{"index": 121348, "D": "any of various insects that deposit their eggs in plants, causing the formation of galls. ", "S": [], "A": []}

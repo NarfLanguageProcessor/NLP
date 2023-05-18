@@ -1,0 +1,1 @@
+{"index": 113028, "D": "Compare intuitionism", "S": [], "A": []}

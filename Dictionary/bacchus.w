@@ -1,0 +1,1 @@
+{"index": 25645, "D": "the god of wine; Dionysus.", "S": [], "A": []}

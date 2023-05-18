@@ -1,0 +1,1 @@
+{"index": 38160, "D": "a bent or curved piece of tough wood used by Australian Aboriginal peoples as a throwing club, one form of which can be thrown so as to return to the thrower.", "S": ["backlash ", "react ", "rebound ", "recoil ", "return ", "reverse ", "ricochet "], "A": ["meet "]}

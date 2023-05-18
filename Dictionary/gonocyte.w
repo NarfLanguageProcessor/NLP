@@ -1,0 +1,1 @@
+{"index": 127814, "D": "an oocyte or spermatocyte", "S": [], "A": []}

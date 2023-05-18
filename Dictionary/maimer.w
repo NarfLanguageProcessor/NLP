@@ -1,0 +1,1 @@
+{"index": 177874, "D": "to deprive of the use of some part of the body by wounding or the like; cripple", "S": [], "A": []}

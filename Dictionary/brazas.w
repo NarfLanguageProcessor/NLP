@@ -1,0 +1,1 @@
+{"index": 40146, "D": "a unit of length in some Spanish-speaking countries, representing the reach of outspread arms, officially 5.48 U.S. ft. (1.67 meters) in Spain and 5.68 U.S. ft. (1.73 meters) in Argentina.", "S": [], "A": []}

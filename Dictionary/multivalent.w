@@ -1,0 +1,1 @@
+{"index": 195412, "D": "having a valence of three or higher.", "S": [], "A": []}

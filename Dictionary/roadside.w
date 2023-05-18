@@ -1,0 +1,1 @@
+{"index": 273499, "D": "the side  or border of the road;  wayside.", "S": [], "A": []}

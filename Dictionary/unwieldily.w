@@ -1,0 +1,1 @@
+{"index": 354217, "D": "not wieldy; wielded with difficulty; not readily handled or managed in use or action, as from size, shape, or weight; awkward; ungainly.", "S": ["badly ", "vigorously "], "A": ["easily "]}

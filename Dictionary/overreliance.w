@@ -1,0 +1,1 @@
+{"index": 220828, "D": "the state or fact of being too reliant on someone or something", "S": [], "A": []}

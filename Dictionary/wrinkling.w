@@ -1,0 +1,1 @@
+{"index": 368017, "D": "a small furrow or crease in the skin, especially of the face, as from aging or frowning.", "S": ["contraction ", "corrugation ", "crease ", "crumple ", "depression ", "furrow ", "gather ", "line ", "pleat ", "plica ", "pucker ", "ridge ", "rumple ", "tuck "], "A": ["smoothness "]}

@@ -1,0 +1,1 @@
+{"index": 174507, "D": "a rented room or rooms in which to live, esp in another person's house", "S": ["apartment ", "hostel ", "hotel ", "inn ", "lodge ", "motel ", "resort ", "shelter "], "A": ["office "]}

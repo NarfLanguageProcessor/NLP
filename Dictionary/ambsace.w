@@ -1,0 +1,1 @@
+{"index": 10126, "D": "the lowest throw at dice, the double ace.", "S": [], "A": []}

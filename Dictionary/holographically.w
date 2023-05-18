@@ -1,0 +1,1 @@
+{"index": 142600, "D": "wholly written by the person in whose name it appears", "S": [], "A": []}

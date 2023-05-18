@@ -1,0 +1,1 @@
+{"index": 338390, "D": "to make dark or darker.", "S": [], "A": []}

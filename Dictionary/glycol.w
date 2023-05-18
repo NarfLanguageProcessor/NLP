@@ -1,0 +1,1 @@
+{"index": 126259, "D": "a colorless, sweet liquid, C2H6O2, used chiefly as an automobile antifreeze and as a solvent.", "S": [], "A": []}

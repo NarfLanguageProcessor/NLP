@@ -1,0 +1,1 @@
+{"index": 70376, "D": "any of various shrubs or small trees belonging to the genus Cotoneaster, of the rose family, having white or pink flowers and bearing a red or black, berrylike fruit, grown as an ornamental.", "S": [], "A": []}

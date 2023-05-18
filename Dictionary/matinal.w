@@ -1,0 +1,1 @@
+{"index": 181179, "D": "the service of public prayer, said in the morning, in the Anglican Church.", "S": ["dawn "], "A": ["darkness ", "sunset "]}

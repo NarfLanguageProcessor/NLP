@@ -1,0 +1,1 @@
+{"index": 55683, "D": "a shoe having a thick sole, usually of cork, suggesting a short stilt, worn especially by women in 18th-century Europe after its introduction from Turkey.", "S": [], "A": []}

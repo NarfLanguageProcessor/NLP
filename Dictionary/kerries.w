@@ -1,0 +1,1 @@
+{"index": 164069, "D": "one of an Irish breed of small, black dairy cattle.", "S": [], "A": []}

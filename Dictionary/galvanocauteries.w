@@ -1,0 +1,1 @@
+{"index": 121547, "D": "a cautery  heated by a galvanic current.", "S": [], "A": []}

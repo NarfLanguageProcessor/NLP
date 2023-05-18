@@ -1,0 +1,1 @@
+{"index": 76392, "D": "a batted or served ball that skims along near the ground.", "S": [], "A": []}

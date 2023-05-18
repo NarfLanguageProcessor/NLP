@@ -1,0 +1,1 @@
+{"index": 17259, "D": "containing an apology  or excuse for a fault, failure, insult, injury, etc.", "S": [], "A": []}

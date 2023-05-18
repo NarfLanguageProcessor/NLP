@@ -1,0 +1,1 @@
+{"index": 88322, "D": "a dishcloth.", "S": ["dustcloth ", "patch ", "remnant ", "scrap ", "shred ", "tatter ", "wiper "], "A": []}

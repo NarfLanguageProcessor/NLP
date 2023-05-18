@@ -1,0 +1,1 @@
+{"index": 284703, "D": "admitting of passage or entrance; permeable", "S": [], "A": []}

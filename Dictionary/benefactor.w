@@ -1,0 +1,1 @@
+{"index": 31541, "D": "a person who confers a benefit; kindly helper.", "S": ["backer ", "contributor ", "patron ", "philanthropist ", "promoter ", "protector ", "supporter "], "A": ["opponent "]}

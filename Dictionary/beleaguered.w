@@ -1,0 +1,1 @@
+{"index": 31018, "D": "surrounded by military forces; besieged", "S": ["abandoned ", "blockaded ", "cloistered ", "close ", "closet ", "deserted ", "hidden ", "isolate ", "quarantined ", "quiet ", "removed ", "reserved ", "retired ", "segregated ", "sequestered ", "shy ", "withdrawn "], "A": ["extroverted ", "friendly ", "open ", "outgoing ", "seen ", "sociable ", "unreserved "]}

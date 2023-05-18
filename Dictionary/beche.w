@@ -1,0 +1,1 @@
+{"index": 29808, "D": "a grab for retrieving tools used in drilling a well.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83745, "D": "a functionless claw of some dogs, not reaching the ground in walking.", "S": [], "A": []}

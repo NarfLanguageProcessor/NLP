@@ -1,0 +1,1 @@
+{"index": 153245, "D": "any silicate having a structure consisting of paired parallel chains of tetrahedral silicate groups, every other of which shares an oxygen atom with a group of the other chain, the ratio of silicon to oxygen being 4 to 11.", "S": [], "A": []}

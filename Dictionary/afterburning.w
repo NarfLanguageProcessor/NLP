@@ -1,0 +1,1 @@
+{"index": 5633, "D": "combustion in an afterburner that results from the injection of fuel into the exhaust gases of a jet engine to produce additional thrust with more efficient fuel consumption.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 281883, "D": "the letters or characters used in writing by hand; handwriting, especially cursive writing.", "S": ["writing "], "A": []}

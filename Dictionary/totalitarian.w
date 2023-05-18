@@ -1,0 +1,1 @@
+{"index": 326453, "D": "of or relating to a centralized government that does not tolerate parties of differing opinion and that exercises dictatorial control over many aspects of life.", "S": ["authoritarian ", "autocratic ", "monolithic ", "oppressive ", "tyrannical ", "undemocratic "], "A": ["democratic ", "partial "]}

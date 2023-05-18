@@ -1,0 +1,1 @@
+{"index": 40521, "D": "to make (beer, ale, etc.) by steeping, boiling, and fermenting malt and hops.", "S": ["fermented "], "A": []}

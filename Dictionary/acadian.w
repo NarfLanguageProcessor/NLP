@@ -1,0 +1,1 @@
+{"index": 1249, "D": "of or relating to Acadia  or its inhabitants.", "S": [], "A": []}

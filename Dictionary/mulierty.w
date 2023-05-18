@@ -1,0 +1,1 @@
+{"index": 194919, "D": "the state of being of legitimate birth.", "S": [], "A": []}

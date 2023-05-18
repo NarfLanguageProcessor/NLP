@@ -1,0 +1,1 @@
+{"index": 242737, "D": "hay fever. ", "S": ["allergic rhinitis ", "rose cold ", "rose fever "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47433, "D": "a white, crystalline, water-insoluble compound, C12H9N, usually found along with anthracene in coal tar, or synthesized", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 193120, "D": "an exploratory walk by an astronaut on the surface of the moon. ", "S": [], "A": []}

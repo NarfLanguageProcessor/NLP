@@ -1,0 +1,1 @@
+{"index": 279864, "D": "to go off hastily (often used in the imperative).", "S": ["git ", "scoot ", "scram ", "shoo "], "A": []}

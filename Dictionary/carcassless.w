@@ -1,0 +1,1 @@
+{"index": 47640, "D": "the dead body of an animal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249612, "D": "brought to and maintained at an atmospheric pressure  higher than that of the surroundings", "S": ["browbeat ", "bully ", "intimidate ", "repress ", "strong-arm ", "suppress ", "terrorize "], "A": ["allow ", "encourage ", "help ", "let go ", "aid ", "assist ", "discourage ", "dissuade ", "free ", "halt ", "release ", "repress ", "stop ", "suppress "]}

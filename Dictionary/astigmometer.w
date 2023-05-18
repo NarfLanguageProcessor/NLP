@@ -1,0 +1,1 @@
+{"index": 22116, "D": "an apparatus for measuring the degree of astigmatism. ", "S": [], "A": []}

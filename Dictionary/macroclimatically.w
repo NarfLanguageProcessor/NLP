@@ -1,0 +1,1 @@
+{"index": 176920, "D": "the general climate  of a large area, as of a continent or country.", "S": [], "A": []}

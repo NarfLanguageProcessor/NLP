@@ -1,0 +1,1 @@
+{"index": 308217, "D": "an organism that has a lesser effect than an influent  on the ecological processes within a community.", "S": [], "A": []}

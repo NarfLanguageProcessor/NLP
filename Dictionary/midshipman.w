@@ -1,0 +1,1 @@
+{"index": 186814, "D": "Compare cadet (def. 2). ", "S": ["student ", "youth "], "A": []}

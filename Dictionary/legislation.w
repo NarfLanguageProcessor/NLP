@@ -1,0 +1,1 @@
+{"index": 170120, "D": "the act of making or enacting laws.", "S": ["act ", "bill ", "charter ", "constitution ", "measure ", "regulation ", "ruling ", "statute "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20486, "D": "pertaining to the blood in the pulmonary vein, in the left side of the heart, and in most arteries,  having been oxygenated during its passage through the lungs and being normally bright red.", "S": [], "A": []}

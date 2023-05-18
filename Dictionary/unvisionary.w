@@ -1,0 +1,1 @@
+{"index": 353861, "D": "given to or characterized by fanciful, not presently workable, or unpractical ideas, views, or schemes", "S": [], "A": []}

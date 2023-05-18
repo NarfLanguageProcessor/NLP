@@ -1,0 +1,1 @@
+{"index": 78465, "D": "a person or thing that declares. ", "S": [], "A": []}

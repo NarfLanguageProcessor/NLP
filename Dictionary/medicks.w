@@ -1,0 +1,1 @@
+{"index": 182107, "D": "a member of a military medical  corps; corpsman.", "S": [], "A": []}

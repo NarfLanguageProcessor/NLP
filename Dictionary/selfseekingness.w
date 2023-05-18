@@ -1,0 +1,1 @@
+{"index": 283558, "D": "the seeking of one's own interest or selfish ends.", "S": [], "A": []}

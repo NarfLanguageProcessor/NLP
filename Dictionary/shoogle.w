@@ -1,0 +1,1 @@
+{"index": 288763, "D": "to shake, sway, or rock back and forth", "S": [], "A": []}

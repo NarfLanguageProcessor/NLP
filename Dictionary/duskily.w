@@ -1,0 +1,1 @@
+{"index": 94510, "D": "somewhat dark; having little light; dim; shadowy.", "S": ["covertly ", "darkly ", "dingily ", "dully ", "gloomily ", "hazily ", "indecisively ", "indefinably ", "indefinitely ", "indistinctly ", "nebulously ", "secretly ", "tenebrously ", "thickly ", "unobtrusively ", "vaguely "], "A": []}

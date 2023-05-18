@@ -1,0 +1,1 @@
+{"index": 211245, "D": "the ruler of the Aesir and god of war, poetry, knowledge, and wisdom; Wotan", "S": [], "A": []}

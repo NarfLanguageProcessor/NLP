@@ -1,0 +1,1 @@
+{"index": 262641, "D": "to cast  again or anew.", "S": [], "A": []}

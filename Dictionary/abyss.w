@@ -1,0 +1,1 @@
+{"index": 483, "D": "a deep, immeasurable space, gulf, or cavity; vast chasm.", "S": ["chasm ", "crevasse ", "depth ", "void "], "A": []}

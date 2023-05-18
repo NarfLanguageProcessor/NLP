@@ -1,0 +1,1 @@
+{"index": 13306, "D": "reproducing by the fusion of dissimilar gametes or individuals, usually differing in size.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 215111, "D": "difficult or painful breathing except in an erect sitting or standing position.", "S": [], "A": []}

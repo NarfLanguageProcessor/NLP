@@ -1,0 +1,1 @@
+{"index": 277470, "D": "an indehiscent, usually one-seeded, winged fruit, as of the elm or maple.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256696, "D": "a passive or submissive male inmate, especially one who is used for sex by another male inmate.", "S": ["bully ", "thug "], "A": []}

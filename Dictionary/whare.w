@@ -1,0 +1,1 @@
+{"index": 364412, "D": "a M\u0101ori hut or dwelling place", "S": [], "A": []}

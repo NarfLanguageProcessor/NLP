@@ -1,0 +1,1 @@
+{"index": 161654, "D": "a pleasure ride  in an automobile, especially when the vehicle is driven recklessly or used without the owner's permission.", "S": [], "A": []}

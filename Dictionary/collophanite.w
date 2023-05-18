@@ -1,0 +1,1 @@
+{"index": 63106, "D": "a massive, cryptocrystalline variety of apatite that is the principal component of phosphate rock and fossil bone.", "S": [], "A": []}

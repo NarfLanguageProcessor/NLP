@@ -1,0 +1,1 @@
+{"index": 328428, "D": "a contrivance used for catching game or other animals, as a mechanical device that springs shut suddenly.", "S": ["ambush ", "bait ", "booby trap ", "device ", "net ", "pitfall ", "ploy ", "quagmire ", "ruse "], "A": ["frankness ", "honesty ", "honor ", "openness ", "truth ", "truthfulness "]}

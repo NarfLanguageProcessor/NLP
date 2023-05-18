@@ -1,0 +1,1 @@
+{"index": 333603, "D": "a form of freehold possession of land existing in northern Europe before the introduction of the feudal system and still used in Orkney and Shetland", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351072, "D": "a past participle of shrive. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21145, "D": "a rain of airborne ash resulting from a volcanic eruption.", "S": [], "A": []}

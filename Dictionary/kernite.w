@@ -1,0 +1,1 @@
+{"index": 164049, "D": "a mineral, hydrated sodium borate, Na2B4O7\u22c54H2O, occurring in transparent colorless crystals", "S": [], "A": []}

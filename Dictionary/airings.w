@@ -1,0 +1,1 @@
+{"index": 6927, "D": "an exposure to the air, as for drying.", "S": ["excursion ", "jog ", "journey ", "junket ", "picnic ", "ramble ", "safari ", "stroll ", "trek "], "A": []}

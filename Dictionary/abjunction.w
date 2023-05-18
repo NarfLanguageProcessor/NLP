@@ -1,0 +1,1 @@
+{"index": 516, "D": "abstriction. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81891, "D": "to remove or withhold something from the enjoyment or possession of (a person or persons)", "S": [], "A": []}

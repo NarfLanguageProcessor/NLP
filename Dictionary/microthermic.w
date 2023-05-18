@@ -1,0 +1,1 @@
+{"index": 186589, "D": "a plant requiring a minimum of heat for growth.", "S": [], "A": []}

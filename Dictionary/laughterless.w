@@ -1,0 +1,1 @@
+{"index": 169139, "D": "the action or sound of laughing. ", "S": [], "A": []}

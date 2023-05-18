@@ -1,0 +1,1 @@
+{"index": 163718, "D": "a stinging ant, Ectatomma tuberculatum, introduced into the U.S. from Guatemala, that preys on the boll weevil.", "S": [], "A": []}

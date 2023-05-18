@@ -1,0 +1,1 @@
+{"index": 251924, "D": "the act or process of planning or writing a program. ", "S": ["artificial intelligence ", "computer technology ", "data processing ", "information technology ", "robotics "], "A": []}

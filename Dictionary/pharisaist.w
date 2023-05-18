@@ -1,0 +1,1 @@
+{"index": 233097, "D": "the principles and practices of the Pharisees.", "S": [], "A": []}

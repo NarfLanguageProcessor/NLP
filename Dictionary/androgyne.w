@@ -1,0 +1,1 @@
+{"index": 12399, "D": "an androgynous  person, as one whose appearance is neither clearly masculine nor clearly feminine.", "S": [], "A": []}

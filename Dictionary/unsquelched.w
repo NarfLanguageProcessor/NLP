@@ -1,0 +1,1 @@
+{"index": 351872, "D": "to strike or press with crushing force; crush down; squash.", "S": [], "A": []}

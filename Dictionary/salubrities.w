@@ -1,0 +1,1 @@
+{"index": 277363, "D": "favorable to or promoting health; healthful", "S": ["bloom ", "complexion ", "constitution ", "energy ", "euphoria ", "fettle ", "fitness ", "form ", "hardihood ", "hardiness ", "healthfulness ", "healthiness ", "heartiness ", "lustiness ", "pink ", "prime ", "robustness ", "salubriousness "], "A": ["poor health "]}

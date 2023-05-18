@@ -1,0 +1,1 @@
+{"index": 352967, "D": "prospering or doing well; highly successful", "S": ["declining ", "defeated ", "faint ", "scant ", "scanty ", "short ", "shy ", "wanting "], "A": ["adequate ", "enough ", "sufficient "]}

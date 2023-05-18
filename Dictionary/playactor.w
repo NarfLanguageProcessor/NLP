@@ -1,0 +1,1 @@
+{"index": 238708, "D": "to engage in make-believe.", "S": ["artist ", "character ", "clown ", "comedian ", "entertainer ", "performer ", "player ", "star ", "villain "], "A": ["audience ", "fan "]}

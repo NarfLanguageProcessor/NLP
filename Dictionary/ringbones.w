@@ -1,0 +1,1 @@
+{"index": 273025, "D": "a morbid bony growth on the pastern bones  of a horse, often resulting in lameness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197766, "D": "a scarf, especially one of fur.", "S": [], "A": []}

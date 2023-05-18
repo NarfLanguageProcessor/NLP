@@ -1,0 +1,1 @@
+{"index": 79434, "D": "a preparation for defoliating  plants.", "S": ["Agent Blue ", "Agent Purple ", "Agent White ", "herbicide "], "A": []}

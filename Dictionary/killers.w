@@ -1,0 +1,1 @@
+{"index": 164594, "D": "a person or thing that kills. ", "S": ["assassin ", "butcher ", "executioner ", "exterminator ", "hunter ", "slayer ", "soldier "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151427, "D": "stocks, shares, and bonds of industrial enterprises", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17112, "D": "a female element of a flower having separate carpels.", "S": [], "A": []}

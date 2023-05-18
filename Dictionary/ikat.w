@@ -1,0 +1,1 @@
+{"index": 147194, "D": "a method of printing woven fabric by tie-dyeing the warp yarns (warp ikat ), the weft yarns (weft ikat ), or both (double ikat ) before weaving.", "S": [], "A": []}

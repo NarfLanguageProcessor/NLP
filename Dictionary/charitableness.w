@@ -1,0 +1,1 @@
+{"index": 52848, "D": "generous in donations or gifts to relieve the needs of indigent, ill, or helpless people, or of animals", "S": ["altruism ", "beneficence ", "benignity ", "charity ", "compassion ", "generosity ", "generousness ", "goodwill ", "humanitarianism ", "kindheartedness ", "kindliness ", "kindness ", "philanthropy "], "A": ["cruelty ", "harshness ", "meanness "]}

@@ -1,0 +1,1 @@
+{"index": 283277, "D": "the power or authority of a seignior.", "S": [], "A": []}

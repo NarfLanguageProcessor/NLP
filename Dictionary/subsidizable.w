@@ -1,0 +1,1 @@
+{"index": 309180, "D": "to furnish or aid with a subsidy. ", "S": [], "A": []}

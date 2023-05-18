@@ -1,0 +1,1 @@
+{"index": 136704, "D": "an abnormal enlargement of the liver, usually associated with liver disease or heart failure.", "S": [], "A": []}

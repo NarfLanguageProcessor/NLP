@@ -1,0 +1,1 @@
+{"index": 5343, "D": "bringing to or leading toward an organ or part, as a nerve or arteriole (opposed to efferent).", "S": [], "A": []}

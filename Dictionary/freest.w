@@ -1,0 +1,1 @@
+{"index": 118657, "D": "enjoying personal rights or liberty, as a person who is not in slavery", "S": ["complimentary "], "A": ["barred ", "bound ", "busy ", "confined ", "costly ", "enslaved ", "expensive ", "high-priced ", "hindered ", "limited ", "mean ", "occupied ", "prevented ", "priced ", "restrained ", "scheduled ", "suppressed ", "tied-up ", "tight-fisted "]}

@@ -1,0 +1,1 @@
+{"index": 315494, "D": "made or constructed so as to be easily dismantled or disassembled.", "S": ["appraisal ", "assessment ", "comment ", "commentary ", "criticism ", "editorial ", "examination ", "judgment "], "A": ["compliment ", "flattery ", "praise "]}

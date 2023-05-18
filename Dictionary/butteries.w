@@ -1,0 +1,1 @@
+{"index": 43693, "D": "like, containing, or spread with butter. ", "S": ["cellar ", "closet ", "cupboard "], "A": []}

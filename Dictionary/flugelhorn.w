@@ -1,0 +1,1 @@
+{"index": 115280, "D": "a brass wind instrument with three valves, usually pitched in B flat and used especially in military bands.", "S": [], "A": []}

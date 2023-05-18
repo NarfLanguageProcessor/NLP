@@ -1,0 +1,1 @@
+{"index": 357428, "D": "a peptide hormone, synthesized in the hypothalamus and released by the posterior pituitary gland, that stimulates capillary muscles and reduces the flow of urine and increases its concentration.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 193934, "D": "Compare board (def. 14). ", "S": ["board ", "card ", "circuit card "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 292899, "D": "a projection supporting a rudder at its lower end, located abaft a sternpost or rudderpost.", "S": [], "A": []}

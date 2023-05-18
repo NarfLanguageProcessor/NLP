@@ -1,0 +1,1 @@
+{"index": 42977, "D": "to make a bubbling sound; bubble.", "S": ["babble "], "A": []}

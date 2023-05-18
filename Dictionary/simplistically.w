@@ -1,0 +1,1 @@
+{"index": 291105, "D": "characterized by extreme simplism;  oversimplified", "S": [], "A": []}

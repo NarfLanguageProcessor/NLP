@@ -1,0 +1,1 @@
+{"index": 335305, "D": "a sudden, violent attack; onslaught", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35524, "D": "being a color that lacks hue and brightness and absorbs light without reflecting any of the rays composing it", "S": [], "A": []}

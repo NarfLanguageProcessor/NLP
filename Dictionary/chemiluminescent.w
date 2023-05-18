@@ -1,0 +1,1 @@
+{"index": 53682, "D": "(in chemical reactions) the emission of light by an atom or molecule that is in an excited state.", "S": [], "A": []}

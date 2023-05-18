@@ -1,0 +1,1 @@
+{"index": 149126, "D": "the act of confining in or as if in a prison;  the state of being so confined", "S": ["captivity ", "confinement ", "custody ", "incarceration ", "isolation "], "A": ["freedom ", "liberation ", "liberty "]}

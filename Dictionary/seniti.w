@@ -1,0 +1,1 @@
+{"index": 285292, "D": "a bronze or brass coin and monetary unit of Tonga, one 100th of a pa'anga.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235530, "D": "noting or pertaining to groundwater.", "S": [], "A": []}

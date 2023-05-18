@@ -1,0 +1,1 @@
+{"index": 186737, "D": "an abnormally small person having normal physical proportions.", "S": ["diminutive "], "A": ["big ", "giant ", "huge ", "large "]}

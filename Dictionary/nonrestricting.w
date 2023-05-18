@@ -1,0 +1,1 @@
+{"index": 206817, "D": "to confine or keep within limits, as of space, action, choice, intensity, or quantity.", "S": [], "A": []}

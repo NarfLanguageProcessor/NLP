@@ -1,0 +1,1 @@
+{"index": 218270, "D": "excessively careful to fulfil the needs and wants (of)", "S": [], "A": []}

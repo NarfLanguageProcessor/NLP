@@ -1,0 +1,1 @@
+{"index": 225353, "D": "the nutritive yolk of a meroblastic ovum or egg.", "S": [], "A": []}

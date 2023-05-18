@@ -1,0 +1,1 @@
+{"index": 21971, "D": "curving upward, as leaves; ascendant.", "S": ["ascending ", "climbing ", "mounting ", "moving up ", "rising ", "soaring "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 106763, "D": "the principle, policy, or practice of exclusion,  as from rights or privileges.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 269804, "D": "an anthem sung after a lection by a soloist and choir alternately.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237288, "D": "a child's toy consisting of a wheel  or leaflike curls of paper or plastic loosely attached by a pin  to a stick, designed to revolve when blown by or as by the wind.", "S": [], "A": []}

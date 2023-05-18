@@ -1,0 +1,1 @@
+{"index": 202185, "D": "a settlement of differences by mutual concessions; an agreement reached by adjustment of conflicting or opposing claims, principles, etc., by reciprocal modification of demands.", "S": [], "A": []}

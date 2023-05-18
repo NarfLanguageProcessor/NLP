@@ -1,0 +1,1 @@
+{"index": 172039, "D": "carefree; cheerful; merry", "S": ["buoyant ", "jolly ", "jovial ", "joyous ", "laid-back ", "lively ", "playful ", "upbeat "], "A": ["depressed ", "down ", "sad ", "unhappy "]}

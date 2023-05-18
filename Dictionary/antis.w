@@ -1,0 +1,1 @@
+{"index": 16116, "D": "a person who is opposed to a particular practice, party, policy, action, etc.", "S": ["adversary ", "aspirant ", "candidate ", "challenger ", "competitor ", "enemy ", "foe ", "opposition ", "player ", "rival "], "A": ["ally ", "assistant ", "friend ", "helper "]}

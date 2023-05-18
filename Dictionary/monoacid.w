@@ -1,0 +1,1 @@
+{"index": 192075, "D": "having one replaceable hydrogen atom or hydroxyl radical.", "S": [], "A": []}

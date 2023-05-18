@@ -1,0 +1,1 @@
+{"index": 155883, "D": "intersecting", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 123769, "D": "to bend the knee or touch one knee to the floor in reverence or worship.", "S": ["bow ", "curtsy ", "stoop "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 157084, "D": "he invented it; she invented it. Abbreviation", "S": [], "A": []}

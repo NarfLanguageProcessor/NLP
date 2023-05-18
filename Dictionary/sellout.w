@@ -1,0 +1,1 @@
+{"index": 283590, "D": "a person who compromises their personal values, integrity, talent, etc., for money or personal advancement.", "S": ["giveaway "], "A": ["devotion ", "faithfulness ", "fidelity ", "forthrightness ", "frankness ", "honesty ", "loyalty ", "openness ", "trustworthiness ", "truthfulness "]}

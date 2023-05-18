@@ -1,0 +1,1 @@
+{"index": 41068, "D": "a flat, triangular, steel arrowhead with sharp edges.", "S": [], "A": []}

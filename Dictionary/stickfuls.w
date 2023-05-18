@@ -1,0 +1,1 @@
+{"index": 304298, "D": "as much set type as a composing stick  will hold, usually about two column inches.", "S": [], "A": []}

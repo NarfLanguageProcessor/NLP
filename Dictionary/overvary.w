@@ -1,0 +1,1 @@
+{"index": 221739, "D": "to change or alter, as in form, appearance, character, or substance", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335320, "D": "with careful and consistent effort; diligently or tirelessly", "S": [], "A": []}

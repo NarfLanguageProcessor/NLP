@@ -1,0 +1,1 @@
+{"index": 41004, "D": "a native or inhabitant of Great Britain, especially of England.", "S": [], "A": []}

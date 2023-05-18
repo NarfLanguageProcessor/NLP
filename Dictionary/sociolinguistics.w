@@ -1,0 +1,1 @@
+{"index": 296177, "D": "the study of language as it functions in society; the study of the interaction between linguistic and social variables.", "S": [], "A": []}

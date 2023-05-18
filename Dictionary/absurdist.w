@@ -1,0 +1,1 @@
+{"index": 1127, "D": "of, relating to, or dealing with absurdism or the absurd. ", "S": [], "A": []}

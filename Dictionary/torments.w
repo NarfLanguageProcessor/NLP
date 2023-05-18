@@ -1,0 +1,1 @@
+{"index": 326142, "D": "to afflict with great bodily or mental suffering; pain", "S": ["affliction ", "agony ", "anguish ", "misery ", "pain ", "persecution ", "suffering ", "torture "], "A": ["cheer ", "comfort ", "contentment ", "happiness ", "health ", "help ", "joy ", "pleasure ", "relief ", "advantage ", "aid ", "assistance ", "blessing ", "delight ", "good luck "]}

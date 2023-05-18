@@ -1,0 +1,1 @@
+{"index": 138016, "D": "an edition of a book, especially the Old Testament, containing six versions or texts in parallel columns, especially the edition compiled by Origen.", "S": [], "A": []}

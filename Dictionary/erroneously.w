@@ -1,0 +1,1 @@
+{"index": 103997, "D": "incorrectly; wrongly", "S": ["afield ", "afoul ", "badly ", "erringly ", "faultily ", "improperly ", "inappropriately ", "incorrectly ", "mistakenly ", "out of turn ", "unfavorably ", "unsuitably "], "A": ["good ", "right ", "well "]}

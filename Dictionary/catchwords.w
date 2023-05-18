@@ -1,0 +1,1 @@
+{"index": 49479, "D": "a memorable or effective word or phrase that is repeated so often that it becomes a slogan, as in a political campaign or in advertising a product.", "S": ["byword ", "catchphrase ", "maxim ", "password ", "refrain ", "shibboleth ", "slogan ", "watchword "], "A": []}

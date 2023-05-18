@@ -1,0 +1,1 @@
+{"index": 88108, "D": "to unfrock.", "S": ["depose ", "discharge ", "disqualify ", "fire ", "impeach ", "let go ", "oust ", "recall ", "retire ", "sack ", "suspend ", "terminate "], "A": ["begin ", "employ ", "hire ", "hold ", "keep ", "do "]}

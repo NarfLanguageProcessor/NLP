@@ -1,0 +1,1 @@
+{"index": 197618, "D": "extending from or occurring along a shore. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303628, "D": [], "S": ["noxious ", "putrid ", "revolting ", "smelly ", "stinking ", "stinky "], "A": ["good ", "perfumed "]}

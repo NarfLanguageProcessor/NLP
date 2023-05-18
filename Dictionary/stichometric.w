@@ -1,0 +1,1 @@
+{"index": 304271, "D": "the practice of writing a prose text in lines, often of slightly differing lengths, that correspond to units of sense and indicate phrasal rhythms.", "S": [], "A": []}

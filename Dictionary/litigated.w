@@ -1,0 +1,1 @@
+{"index": 173826, "D": "to make the subject of a lawsuit; contest at law.", "S": ["prosecute "], "A": ["agree "]}

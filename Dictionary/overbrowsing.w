@@ -1,0 +1,1 @@
+{"index": 218444, "D": "to eat, nibble at, or feed on (leaves, tender shoots, or other soft vegetation).", "S": [], "A": []}

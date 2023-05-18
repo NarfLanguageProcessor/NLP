@@ -1,0 +1,1 @@
+{"index": 287287, "D": "of little depth; not deep", "S": ["bayou ", "pond ", "pool "], "A": []}

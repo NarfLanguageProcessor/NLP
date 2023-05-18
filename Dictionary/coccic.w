@@ -1,0 +1,1 @@
+{"index": 61309, "D": "a spherical bacterium.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 140036, "D": "fine in texture, quality, construction, etc.", "S": [], "A": []}

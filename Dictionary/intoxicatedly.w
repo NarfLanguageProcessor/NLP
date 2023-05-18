@@ -1,0 +1,1 @@
+{"index": 156401, "D": "affected by a substance that intoxicates; drunk; inebriated. ", "S": [], "A": []}

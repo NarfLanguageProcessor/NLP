@@ -1,0 +1,1 @@
+{"index": 119182, "D": "to behave frivolously;  trifle.", "S": ["be insincere with ", "carry on ", "cosset ", "fool around ", "frolic ", "gambol ", "have a fling ", "lead on ", "play around ", "rollick ", "romp ", "tamper ", "wanton "], "A": []}

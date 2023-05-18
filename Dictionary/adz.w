@@ -1,0 +1,1 @@
+{"index": 4744, "D": "a variant of adze. ", "S": ["chopper ", "hatchet ", "tomahawk "], "A": []}

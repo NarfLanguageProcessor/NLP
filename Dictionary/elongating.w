@@ -1,0 +1,1 @@
+{"index": 97757, "D": "to draw out to greater length; lengthen; extend.", "S": ["draw out ", "lengthen "], "A": ["shorten ", "abbreviate ", "curtail "]}

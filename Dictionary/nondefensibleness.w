@@ -1,0 +1,1 @@
+{"index": 202773, "D": "capable of being defended  against assault or injury", "S": [], "A": []}

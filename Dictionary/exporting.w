@@ -1,0 +1,1 @@
+{"index": 107943, "D": "to ship (commodities) to other countries or places for sale, exchange, etc.", "S": ["dump ", "ship ", "smuggle ", "transport "], "A": ["hold ", "keep ", "retain "]}

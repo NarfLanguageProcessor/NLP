@@ -1,0 +1,1 @@
+{"index": 147127, "D": "a Germanic language of Ashkenazi Jews, based on Middle High German dialects with an admixture of vocabulary from Hebrew, Aramaic, the Slavic languages, and Old French and Old Italian, written in Hebrew letters, and spoken mainly in eastern and central Europe and by Jewish emigrants from these regions and their descendants.", "S": [], "A": []}

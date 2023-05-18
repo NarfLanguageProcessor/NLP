@@ -1,0 +1,1 @@
+{"index": 231741, "D": "an acid  derived from hydrogen peroxide and containing the \u2013O\u2013O\u2013 group, as peroxysulfuric acid,  H2S2O8.", "S": [], "A": []}

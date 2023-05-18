@@ -1,0 +1,1 @@
+{"index": 207713, "D": "the act or fact of surviving,  especially under adverse or unusual circumstances.", "S": [], "A": []}

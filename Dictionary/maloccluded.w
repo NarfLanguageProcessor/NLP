@@ -1,0 +1,1 @@
+{"index": 178604, "D": "faulty occlusion;  irregular contact of opposing teeth in the upper and lower jaws.", "S": [], "A": []}

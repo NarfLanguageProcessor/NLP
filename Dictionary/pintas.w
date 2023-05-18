@@ -1,0 +1,1 @@
+{"index": 237266, "D": "a nonvenereal treponematosis occurring chiefly in Central and South America, caused by Treponema carateum, characterized by spots of various colors on the skin.", "S": [], "A": []}

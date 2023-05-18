@@ -1,0 +1,1 @@
+{"index": 211947, "D": "a variant of OK1. ", "S": ["all right "], "A": ["bad ", "cloudy ", "dark ", "rainy ", "refused ", "stormy ", "unsuitable "]}

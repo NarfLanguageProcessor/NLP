@@ -1,0 +1,1 @@
+{"index": 242630, "D": "pertaining to or derived from a polymer of a vinylidene compound.", "S": [], "A": []}

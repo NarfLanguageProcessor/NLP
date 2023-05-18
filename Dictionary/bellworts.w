@@ -1,0 +1,1 @@
+{"index": 31254, "D": "a plant of the genus Uvularia, of the lily family, having a delicate, bell-shaped yellow flower.", "S": [], "A": []}

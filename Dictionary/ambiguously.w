@@ -1,0 +1,1 @@
+{"index": 9996, "D": "open to or having several possible meanings or interpretations; equivocal", "S": ["dubiously "], "A": []}

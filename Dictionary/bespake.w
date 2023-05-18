@@ -1,0 +1,1 @@
+{"index": 32466, "D": "simple past tense of bespeak. ", "S": ["imply "], "A": ["answer ", "avoid ", "be quiet ", "conceal ", "deny ", "hide ", "ignore ", "let go ", "overlook ", "refuse ", "reply ", "shun "]}

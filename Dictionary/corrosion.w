@@ -1,0 +1,1 @@
+{"index": 69741, "D": "the act or process of corroding;  condition of being corroded. ", "S": ["decay ", "decomposition ", "deterioration ", "erosion ", "rust "], "A": ["building ", "construction ", "development ", "growth ", "improvement ", "strengthening "]}

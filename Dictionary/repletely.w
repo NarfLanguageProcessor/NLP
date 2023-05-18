@@ -1,0 +1,1 @@
+{"index": 268283, "D": "abundantly supplied or provided; filled (usually followed by with)", "S": [], "A": []}

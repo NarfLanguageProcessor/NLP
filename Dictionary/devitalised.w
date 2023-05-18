@@ -1,0 +1,1 @@
+{"index": 83610, "D": "to deprive of vitality or vital properties; make lifeless; weaken.", "S": [], "A": []}

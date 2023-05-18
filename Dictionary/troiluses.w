@@ -1,0 +1,1 @@
+{"index": 331013, "D": "a warrior son of Priam, mentioned by Homer and Vergil and later represented as the lover of Cressida.", "S": [], "A": []}

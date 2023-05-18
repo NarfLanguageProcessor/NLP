@@ -1,0 +1,1 @@
+{"index": 185607, "D": "milligal; milligals.", "S": [], "A": []}

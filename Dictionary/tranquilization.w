@@ -1,0 +1,1 @@
+{"index": 327640, "D": "to make or become tranquil. ", "S": ["conciliation ", "easing ", "moderation "], "A": ["difference ", "disagreement "]}

@@ -1,0 +1,1 @@
+{"index": 302698, "D": "something or someone, as a person, performance, etc., remarkably superior to others", "S": [], "A": []}

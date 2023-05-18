@@ -1,0 +1,1 @@
+{"index": 285861, "D": "any substance used to bring about sequestration, often by chelation. They are used in horticulture to counteract lime in the soil", "S": [], "A": []}

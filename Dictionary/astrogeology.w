@@ -1,0 +1,1 @@
+{"index": 22254, "D": "the science dealing with the structure and composition of planets and other bodies in the solar system.", "S": [], "A": []}

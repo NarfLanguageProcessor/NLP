@@ -1,0 +1,1 @@
+{"index": 235065, "D": "the science dealing with light and its effects on living organisms.", "S": [], "A": []}

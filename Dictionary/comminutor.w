@@ -1,0 +1,1 @@
+{"index": 64057, "D": "a machine that pulverizes solids, as in waste treatment.", "S": [], "A": []}

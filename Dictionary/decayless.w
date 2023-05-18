@@ -1,0 +1,1 @@
+{"index": 77949, "D": "to become decomposed; rot", "S": [], "A": []}

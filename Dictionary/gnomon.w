@@ -1,0 +1,1 @@
+{"index": 127128, "D": "the raised part of a sundial that casts the shadow; a style.", "S": ["calendar ", "chronograph ", "chronometer ", "chronoscope ", "clepsydra ", "clock ", "dial ", "horologe ", "hourglass ", "metronome ", "pendulum ", "repeater ", "stopwatch ", "sundial ", "watch "], "A": []}

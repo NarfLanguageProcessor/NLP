@@ -1,0 +1,1 @@
+{"index": 286910, "D": "noting or pertaining to the aspect or position of two heavenly bodies when 60\u00b0 distant from each other.", "S": [], "A": []}

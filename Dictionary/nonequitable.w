@@ -1,0 +1,1 @@
+{"index": 203599, "D": "characterized by equity or fairness; just and right; fair", "S": [], "A": []}

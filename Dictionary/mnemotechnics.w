@@ -1,0 +1,1 @@
+{"index": 190888, "D": "the process or technique of improving or developing the memory.", "S": [], "A": []}

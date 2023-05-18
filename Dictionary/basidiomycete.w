@@ -1,0 +1,1 @@
+{"index": 28592, "D": "any of a group of fungi constituting the phylum Basidiomycota of the kingdom Fungi (or, in older classification schemes, the class Basidiomycetes of the kingdom Plantae), characterized by bearing the spores on a basidium, including the smuts, rust, mushrooms, and puffballs.", "S": [], "A": []}

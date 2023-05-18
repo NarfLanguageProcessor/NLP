@@ -1,0 +1,1 @@
+{"index": 165319, "D": "any of several rod-shaped, aerobic bacteria of the genus Klebsiella, certain species of which, as K. pneumoniae, are found in the respiratory, intestinal, and genitourinary tracts of humans and animals and are sometimes pathogenic.", "S": [], "A": []}

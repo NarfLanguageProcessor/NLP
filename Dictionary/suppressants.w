@@ -1,0 +1,1 @@
+{"index": 313075, "D": "a substance that suppresses an undesirable action or condition", "S": [], "A": []}

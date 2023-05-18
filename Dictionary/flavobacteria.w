@@ -1,0 +1,1 @@
+{"index": 114205, "D": "rod-shaped, aerobic to facultatively anaerobic bacteria  of the genus Flavobacterium, inhabiting soil and water.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 364104, "D": "a boxer or other contestant intermediate in weight between a lightweight  and a middleweight,  especially a professional boxer weighing up to 147 pounds (67 kilograms).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165240, "D": "coyly playful.", "S": ["bashfulness ", "demureness ", "diffidence ", "modesty ", "reserve ", "sheepishness ", "timidity "], "A": ["boldness ", "confidence ", "pride "]}

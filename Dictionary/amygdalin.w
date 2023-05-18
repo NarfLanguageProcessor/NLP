@@ -1,0 +1,1 @@
+{"index": 10493, "D": "a white, bitter-tasting, water-soluble, glycosidic powder, C20H27NO11, usually obtained from bitter almond seeds and the leaves of plants of the genus Prunus and related genera", "S": [], "A": []}

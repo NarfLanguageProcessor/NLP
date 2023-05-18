@@ -1,0 +1,1 @@
+{"index": 27509, "D": "money in one's possession; monetary resources.", "S": ["finance ", "subsidize "], "A": []}

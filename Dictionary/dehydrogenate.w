@@ -1,0 +1,1 @@
+{"index": 79700, "D": "to remove hydrogen from (a compound).", "S": [], "A": []}

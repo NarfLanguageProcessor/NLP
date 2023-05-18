@@ -1,0 +1,1 @@
+{"index": 353605, "D": "pertaining to or consisting in utility. ", "S": [], "A": []}

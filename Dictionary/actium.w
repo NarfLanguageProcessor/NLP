@@ -1,0 +1,1 @@
+{"index": 3244, "D": "a promontory in NW ancient Greece", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332028, "D": "the principal active alkaloid of curare, C38H44Cl2N2O, used as a muscle relaxant, especially as an adjunct to anesthesia.", "S": [], "A": []}

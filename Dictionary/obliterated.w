@@ -1,0 +1,1 @@
+{"index": 210233, "D": "to remove or destroy all traces of; do away with; destroy completely.", "S": ["annihilated ", "destroyed ", "erased ", "removed "], "A": []}

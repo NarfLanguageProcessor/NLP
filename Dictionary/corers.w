@@ -1,0 +1,1 @@
+{"index": 69042, "D": "a person or thing that cores. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162572, "D": "guided by truth, reason, justice, and fairness", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 897, "D": "a localized collection of pus in the tissues of the body, often accompanied by swelling and inflammation and frequently caused by bacteria.", "S": ["ulcer "], "A": []}

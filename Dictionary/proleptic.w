@@ -1,0 +1,1 @@
+{"index": 252079, "D": "(of a date) retroactively calculated using a later calendar than the one used at the time", "S": [], "A": []}

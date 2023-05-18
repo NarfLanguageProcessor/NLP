@@ -1,0 +1,1 @@
+{"index": 80793, "D": "of, relating to, or like a demon; demonic", "S": ["maniac ", "psychopath ", "psychotic ", "schizophrenic "], "A": []}

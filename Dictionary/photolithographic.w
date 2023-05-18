@@ -1,0 +1,1 @@
+{"index": 235212, "D": "the technique or art of making photolithographs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37337, "D": "an offer to a customer to buy an item and receive a second item at a discount.", "S": [], "A": []}

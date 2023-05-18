@@ -1,0 +1,1 @@
+{"index": 131505, "D": "a supporter of Joseph John Gurney (1788\u20131847), an English Quaker,  who, on a preaching tour of America, advocated Christian evangelical principles, which was perceived by many Quakers of the time as an unacceptable act of dissent.", "S": [], "A": []}

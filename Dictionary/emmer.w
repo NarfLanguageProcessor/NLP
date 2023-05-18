@@ -1,0 +1,1 @@
+{"index": 98605, "D": "one of the earliest cultivated forms of wheat, Triticum turgidum dicoccon, having a two-grained spikelet, now grown in limited areas of Europe, Asia, and the western U.S.", "S": [], "A": []}

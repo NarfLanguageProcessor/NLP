@@ -1,0 +1,1 @@
+{"index": 323812, "D": "the state or quality of lacking in self-assurance, courage, or bravery", "S": ["bashfulness ", "quiet ", "reserve ", "timidness "], "A": ["audacity ", "boldness ", "guts ", "nerve ", "stoutheartedness "]}

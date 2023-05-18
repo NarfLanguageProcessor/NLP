@@ -1,0 +1,1 @@
+{"index": 52311, "D": "chamois (defs. 2-4, 6, 7). ", "S": ["antelope ", "cloth ", "leather ", "shammy ", "skin "], "A": []}

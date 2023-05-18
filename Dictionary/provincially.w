@@ -1,0 +1,1 @@
+{"index": 254083, "D": "belonging or peculiar to some particular province;  local", "S": ["narrowly "], "A": ["nationally ", "widespread "]}

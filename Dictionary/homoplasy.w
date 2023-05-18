@@ -1,0 +1,1 @@
+{"index": 143213, "D": "correspondence in form or structure, owing to a similar environment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361363, "D": "a position in which a skier leans forward but keeps the heels in contact with the skis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253081, "D": "the tissue characteristic of the woody and bast portions of plants, consisting typically of long, narrow cells with pointed ends.", "S": [], "A": []}

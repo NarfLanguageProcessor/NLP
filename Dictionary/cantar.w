@@ -1,0 +1,1 @@
+{"index": 46568, "D": "a poem consisting of four-line stanzas, each line having eight syllables.", "S": [], "A": []}

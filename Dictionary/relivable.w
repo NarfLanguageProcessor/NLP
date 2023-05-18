@@ -1,0 +1,1 @@
+{"index": 267011, "D": "to experience again, as an emotion.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108024, "D": "the quality or state of being expressive.", "S": ["articulacy ", "articulateness ", "articulation ", "diction ", "eloquentness ", "expressiveness ", "facundity ", "fluency ", "loquacity ", "oration ", "oratory ", "rhetoric "], "A": []}

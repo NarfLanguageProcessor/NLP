@@ -1,0 +1,1 @@
+{"index": 24307, "D": "having more than two haploid sets of chromosomes that are derived from the same ancestral species.", "S": [], "A": []}

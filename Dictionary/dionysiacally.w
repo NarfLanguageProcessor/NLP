@@ -1,0 +1,1 @@
+{"index": 86285, "D": "of or relating to the Dionysia or to Dionysus; Bacchic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3701, "D": "a malignant tumor arising from secretory epithelium.", "S": [], "A": []}

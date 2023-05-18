@@ -1,0 +1,1 @@
+{"index": 13432, "D": "the talus.", "S": ["bone "], "A": []}

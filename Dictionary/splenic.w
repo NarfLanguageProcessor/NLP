@@ -1,0 +1,1 @@
+{"index": 300467, "D": "of, pertaining to, connected with, or affecting the spleen", "S": [], "A": []}

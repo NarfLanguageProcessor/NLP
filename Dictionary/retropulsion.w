@@ -1,0 +1,1 @@
+{"index": 270889, "D": "an abnormal tendency to walk backwards", "S": [], "A": []}

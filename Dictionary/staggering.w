@@ -1,0 +1,1 @@
+{"index": 302333, "D": "tending to stagger  or overwhelm", "S": ["amazing ", "astonishing ", "astounding ", "mind-boggling ", "shocking ", "stunning "], "A": []}

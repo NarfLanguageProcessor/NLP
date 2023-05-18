@@ -1,0 +1,1 @@
+{"index": 335493, "D": "unable to be avoided; inevitable", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114530, "D": "the return to its starting point of the electron beam in a cathode ray tube, as after the completion of a line in a television picture or of a trace in an oscilloscope.", "S": ["bound ", "bump ", "carom ", "hop ", "jump ", "leap ", "rebound ", "ricochet "], "A": []}

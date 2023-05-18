@@ -1,0 +1,1 @@
+{"index": 313059, "D": "formed from or growing out of supposition", "S": ["alleged ", "apparent ", "asserted ", "conjectural ", "hypothetic ", "hypothetical ", "inferential ", "likely ", "presumed ", "presumptive ", "presupposed ", "purported ", "suppositional ", "supposititious ", "suppositive "], "A": []}

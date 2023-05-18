@@ -1,0 +1,1 @@
+{"index": 154258, "D": "intelligence (defs. 4, 6). ", "S": [], "A": []}

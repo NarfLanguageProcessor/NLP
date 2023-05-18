@@ -1,0 +1,1 @@
+{"index": 293436, "D": "the act or technique of writing  against the sky  with chemically produced smoke released from a maneuvering airplane.", "S": ["advertise ", "announce ", "boost ", "broadcast ", "promulgate ", "tout ", "trumpet "], "A": ["conceal ", "hide ", "keep secret "]}

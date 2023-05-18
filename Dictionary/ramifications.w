@@ -1,0 +1,1 @@
+{"index": 260314, "D": "the act or process of ramifying.", "S": ["complication ", "consequence ", "upshot "], "A": ["cause ", "origin ", "source ", "juncture ", "union ", "unity ", "whole "]}

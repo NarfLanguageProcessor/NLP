@@ -1,0 +1,1 @@
+{"index": 138175, "D": "the technique of writing or engraving on glass.", "S": [], "A": []}

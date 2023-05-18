@@ -1,0 +1,1 @@
+{"index": 240422, "D": "having or appearing to have a plume  or plumes. ", "S": ["boast ", "brag ", "congratulate ", "crow ", "exult ", "felicitate ", "gasconade ", "overbear ", "pique ", "prance ", "preen ", "presume ", "strut ", "swagger ", "swell ", "vaunt "], "A": ["deprecate "]}

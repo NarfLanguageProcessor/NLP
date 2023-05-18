@@ -1,0 +1,1 @@
+{"index": 60613, "D": "a semisynthetic penicillin, C19H17ClN3NaO5S, used chiefly against penicillin-resistant staphylococcal infections.", "S": [], "A": []}

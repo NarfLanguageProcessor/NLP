@@ -1,0 +1,1 @@
+{"index": 309967, "D": "an animal that suckles  its young; mammal.", "S": [], "A": []}

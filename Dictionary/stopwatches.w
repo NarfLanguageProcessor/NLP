@@ -1,0 +1,1 @@
+{"index": 305370, "D": "a watch  with a hand or hands that can be stopped  or started at any instant, used for precise timing, as in races.", "S": ["timer "], "A": []}

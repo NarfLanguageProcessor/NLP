@@ -1,0 +1,1 @@
+{"index": 49244, "D": "(of a line of verse) lacking part of the last foot; metrically incomplete, as the second line of One more unfortunate,/Weary of breath.", "S": [], "A": []}

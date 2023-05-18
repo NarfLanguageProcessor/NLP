@@ -1,0 +1,1 @@
+{"index": 94569, "D": "a quarrel; argument; row.", "S": ["altercation ", "bickering ", "brawl ", "clash ", "controversy ", "debate ", "disagreement ", "dispute ", "exchange ", "feud ", "quarrel ", "squabble "], "A": ["agreement ", "harmony ", "peace ", "calm "]}

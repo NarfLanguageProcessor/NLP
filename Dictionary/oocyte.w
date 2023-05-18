@@ -1,0 +1,1 @@
+{"index": 212980, "D": "an immature egg cell of the animal ovary; in humans, one oocyte matures during the menstrual cycle, becoming an ootid and then an ovum, while several others partially mature and then disintegrate.", "S": [], "A": []}

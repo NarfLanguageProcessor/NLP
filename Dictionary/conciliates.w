@@ -1,0 +1,1 @@
+{"index": 65316, "D": "to overcome the distrust or hostility of; placate; win over", "S": ["appease ", "pacify ", "satisfy "], "A": ["incite ", "irritate ", "upset "]}

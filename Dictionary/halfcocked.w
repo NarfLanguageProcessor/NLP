@@ -1,0 +1,1 @@
+{"index": 132593, "D": "(of a firearm) at the position of half cock.", "S": ["hasty ", "ill-considered ", "untimely "], "A": ["backward ", "careful ", "cautious ", "delayed ", "late ", "mature ", "overdue ", "prepared ", "slow "]}

@@ -1,0 +1,1 @@
+{"index": 256740, "D": "a person who makes puns  frequently.", "S": ["actor ", "banana ", "buffoon ", "card ", "clown ", "comedian ", "comic ", "fool ", "gagster ", "humorist ", "jester ", "jokester ", "prankster ", "stooge ", "trickster ", "wag ", "wit "], "A": []}

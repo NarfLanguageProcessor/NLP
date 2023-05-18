@@ -1,0 +1,1 @@
+{"index": 216134, "D": "an overwhelming feeling of reverence, admiration, fear, etc., produced by that which is grand, sublime, extremely powerful, or the like", "S": [], "A": []}

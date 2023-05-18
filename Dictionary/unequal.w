@@ -1,0 +1,1 @@
+{"index": 341417, "D": "not equal;  not of the same quantity, quality, value, rank, ability, etc.", "S": ["differing ", "uneven "], "A": ["balanced ", "equal ", "even ", "identical ", "level ", "matched ", "same ", "similar "]}

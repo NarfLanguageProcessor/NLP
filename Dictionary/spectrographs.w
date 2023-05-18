@@ -1,0 +1,1 @@
+{"index": 298907, "D": "a spectroscope for photographing or producing a representation of a spectrum.", "S": [], "A": []}

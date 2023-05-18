@@ -1,0 +1,1 @@
+{"index": 34897, "D": "a short hair of the beard or body; a bristle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22741, "D": "of, pertaining to, resulting from, or using atoms, atomic energy,  or atomic bombs", "S": [], "A": []}

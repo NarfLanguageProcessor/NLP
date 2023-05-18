@@ -1,0 +1,1 @@
+{"index": 77035, "D": "a rocky plateau in SW England, in Devonshire. About 20 miles (30 km) long.", "S": [], "A": []}

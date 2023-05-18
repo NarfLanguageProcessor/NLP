@@ -1,0 +1,1 @@
+{"index": 165045, "D": "the hide of a young or small beast.", "S": ["devastate ", "liberate ", "loot ", "pillage ", "ransack ", "requisition ", "rob ", "salvage "], "A": ["give ", "aid ", "guard ", "help ", "protect ", "receive "]}

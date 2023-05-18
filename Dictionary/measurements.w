@@ -1,0 +1,1 @@
+{"index": 181808, "D": "the act of measuring. ", "S": ["dossier ", "evidence ", "goods ", "info ", "input ", "knowledge ", "picture ", "statistics ", "testimony "], "A": []}

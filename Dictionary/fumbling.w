@@ -1,0 +1,1 @@
+{"index": 120049, "D": "to feel or grope about clumsily", "S": ["doubt ", "equivocation ", "hesitancy ", "indecision ", "misgiving ", "mistrust ", "pause ", "procrastination ", "qualm ", "reluctance ", "skepticism ", "unwillingness ", "vacillation "], "A": ["belief ", "certainty ", "confidence ", "faith ", "trust "]}

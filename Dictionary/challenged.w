@@ -1,0 +1,1 @@
+{"index": 52189, "D": "a euphemism for disabled (usually preceded by an adverb).", "S": ["debated "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361170, "D": "turn; time (used in phrases)", "S": [], "A": []}

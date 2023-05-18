@@ -1,0 +1,1 @@
+{"index": 62915, "D": "collective  character.", "S": ["absoluteness ", "aggregate ", "completeness ", "complex ", "comprehensiveness ", "ensemble ", "entireness ", "fullness ", "gross ", "intactness ", "integrality ", "integrity ", "oneness ", "perfection ", "plenitude ", "sum ", "total ", "totality ", "unity ", "universality "], "A": ["fraction ", "incompleteness ", "part "]}

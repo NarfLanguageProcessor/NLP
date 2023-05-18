@@ -1,0 +1,1 @@
+{"index": 361855, "D": "to wobble or shake, especially while in motion", "S": [], "A": []}

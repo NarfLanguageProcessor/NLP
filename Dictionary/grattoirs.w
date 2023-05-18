@@ -1,0 +1,1 @@
+{"index": 129272, "D": "a flaked stone implement, usually Upper Paleolithic, retouched at the end and used probably for working wood or cleaning hides; scraper.", "S": [], "A": []}

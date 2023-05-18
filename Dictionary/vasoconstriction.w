@@ -1,0 +1,1 @@
+{"index": 357398, "D": "constriction  of the blood vessels, as by the action of a nerve.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11200, "D": "another word for amphoteric", "S": [], "A": []}

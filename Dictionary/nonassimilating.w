@@ -1,0 +1,1 @@
+{"index": 201509, "D": "to take in and incorporate as one's own; absorb", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143676, "D": "full of hope;  expressing hope", "S": ["buoyant ", "cheerful ", "comfortable ", "confident ", "eager ", "enthusiastic ", "rosy ", "sanguine ", "trusting ", "upbeat "], "A": ["apathetic ", "depressed ", "down ", "pessimistic ", "sad ", "unenthusiastic ", "unhappy "]}

@@ -1,0 +1,1 @@
+{"index": 53528, "D": "a member of a North American Indian people of the western plains, formerly in central Minnesota and North and South Dakota, and now divided between Montana and Oklahoma.", "S": [], "A": []}

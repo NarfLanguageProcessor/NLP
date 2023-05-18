@@ -1,0 +1,1 @@
+{"index": 327795, "D": "the transfer of genetic material from one cell to another by means of a virus.", "S": [], "A": []}

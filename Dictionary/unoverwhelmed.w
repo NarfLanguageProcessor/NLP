@@ -1,0 +1,1 @@
+{"index": 347307, "D": "completely overcome in mind or feeling", "S": [], "A": []}

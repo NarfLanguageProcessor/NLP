@@ -1,0 +1,1 @@
+{"index": 221587, "D": "to depose, as from a position of power; overcome, defeat, or vanquish", "S": ["incendiary ", "riotous "], "A": ["loyal ", "obedient "]}

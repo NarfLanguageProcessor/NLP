@@ -1,0 +1,1 @@
+{"index": 73529, "D": "a person or thing that croaks. ", "S": ["toad "], "A": []}

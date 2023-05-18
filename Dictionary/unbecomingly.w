@@ -1,0 +1,1 @@
+{"index": 335690, "D": "detracting from one's appearance, character, or reputation; unattractive or unseemly", "S": [], "A": []}

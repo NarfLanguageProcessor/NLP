@@ -1,0 +1,1 @@
+{"index": 333070, "D": "(in Roman Catholic moral theology) the doctrine that in cases of moral doubt it is best to follow the safer course or that in agreement with the law", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 28811, "D": "to lower in condition or worth; debase", "S": [], "A": []}

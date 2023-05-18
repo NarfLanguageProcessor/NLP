@@ -1,0 +1,1 @@
+{"index": 84651, "D": "any diazo compound having the general formula R2CN2, where R is hydrogen or any saturated organic group, as diazomethane, CH2N2.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198517, "D": "the unit used to express the ratio of two amplitudes as a natural logarithm", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133719, "D": "the hard,  compact wood  or timber of various trees, as the oak, cherry, maple, or mahogany.", "S": ["forest ", "log "], "A": []}

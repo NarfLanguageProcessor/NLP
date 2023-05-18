@@ -1,0 +1,1 @@
+{"index": 57658, "D": "a wide-screen process using anamorphic lenses in photographing and projecting the film.", "S": [], "A": []}

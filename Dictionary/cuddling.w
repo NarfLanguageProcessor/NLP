@@ -1,0 +1,1 @@
+{"index": 74601, "D": "to hold close in an affectionate manner; hug tenderly; fondle.", "S": ["kissing "], "A": []}

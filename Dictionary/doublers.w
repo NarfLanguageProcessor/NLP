@@ -1,0 +1,1 @@
+{"index": 91972, "D": "twice as large, heavy, strong, etc.; twofold in size, amount, number, extent, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127186, "D": "the area between the goalposts directly in front of the goal  in certain games, as soccer, lacrosse, and hockey.", "S": [], "A": []}

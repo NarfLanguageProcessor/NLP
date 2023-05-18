@@ -1,0 +1,1 @@
+{"index": 72818, "D": "a heavy cotton material in colorfully printed designs, used especially for drapery and slipcovers.", "S": [], "A": []}

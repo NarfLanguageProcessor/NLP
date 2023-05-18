@@ -1,0 +1,1 @@
+{"index": 170102, "D": "the state or quality of being legible. ", "S": [], "A": []}

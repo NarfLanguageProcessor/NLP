@@ -1,0 +1,1 @@
+{"index": 223713, "D": "the science of representing geologic conditions of some given time in past earth history.", "S": [], "A": []}

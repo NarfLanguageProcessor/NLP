@@ -1,0 +1,1 @@
+{"index": 345394, "D": "to tear roughly; mangle", "S": [], "A": []}

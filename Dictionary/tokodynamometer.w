@@ -1,0 +1,1 @@
+{"index": 325219, "D": "a pressure gauge strapped to the mother's abdomen during labor to measure uterine contractions.", "S": [], "A": []}

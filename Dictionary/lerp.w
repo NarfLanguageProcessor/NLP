@@ -1,0 +1,1 @@
+{"index": 170817, "D": "a hardened, sweet secretion produced by the nymphs of some genera of Australian jumping plant lice  and traditionally eaten by Australian Aboriginal peoples.", "S": [], "A": []}

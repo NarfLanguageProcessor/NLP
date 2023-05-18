@@ -1,0 +1,1 @@
+{"index": 11279, "D": "an ampholytic  substance.", "S": [], "A": []}

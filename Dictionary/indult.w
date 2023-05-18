@@ -1,0 +1,1 @@
+{"index": 151381, "D": "a dispensation granted often temporarily by the pope, permitting a deviation from church law.", "S": [], "A": []}

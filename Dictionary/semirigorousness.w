@@ -1,0 +1,1 @@
+{"index": 284881, "D": "characterized by rigor;  rigidly severe or harsh, as people, rules, or discipline", "S": [], "A": []}

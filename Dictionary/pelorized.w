@@ -1,0 +1,1 @@
+{"index": 229394, "D": "to affect with peloria. ", "S": [], "A": []}

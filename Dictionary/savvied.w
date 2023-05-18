@@ -1,0 +1,1 @@
+{"index": 279143, "D": "experienced, knowledgable, and well-informed; shrewd (often used in combination)", "S": ["acknowledge ", "comprehend ", "fathom ", "grasp ", "know ", "perceive ", "read ", "realize ", "recognize ", "sympathize with ", "understand "], "A": ["ignore ", "misinterpret ", "miss ", "mistake ", "misunderstand ", "neglect "]}

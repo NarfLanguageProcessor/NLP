@@ -1,0 +1,1 @@
+{"index": 358978, "D": "of or relating to a vesicle  or vesicles. ", "S": [], "A": []}

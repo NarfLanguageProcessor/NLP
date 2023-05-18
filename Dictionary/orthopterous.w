@@ -1,0 +1,1 @@
+{"index": 215136, "D": "belonging or pertaining to the Orthoptera, an order of insects, including the cockroaches, mantids, walking sticks, crickets, grasshoppers, and katydids, characterized by leathery forewings, membranous hind wings, and chewing mouthparts.", "S": [], "A": []}

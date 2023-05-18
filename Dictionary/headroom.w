@@ -1,0 +1,1 @@
+{"index": 134695, "D": "the clear space between two decks.", "S": ["allowance ", "expanse ", "gap ", "margin ", "opening "], "A": ["closure "]}

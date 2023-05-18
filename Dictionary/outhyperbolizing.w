@@ -1,0 +1,1 @@
+{"index": 216791, "D": "to use hyperbole;  exaggerate.", "S": [], "A": []}

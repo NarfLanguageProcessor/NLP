@@ -1,0 +1,1 @@
+{"index": 342149, "D": "relating to or being a woman or girl.", "S": [], "A": []}

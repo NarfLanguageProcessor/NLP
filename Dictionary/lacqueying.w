@@ -1,0 +1,1 @@
+{"index": 166999, "D": "a variant of lackey. ", "S": [], "A": []}

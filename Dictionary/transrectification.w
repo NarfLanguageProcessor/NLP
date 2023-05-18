@@ -1,0 +1,1 @@
+{"index": 328310, "D": "rectification  occurring in one circuit as a result of the application of an alternating voltage to another circuit.", "S": [], "A": []}

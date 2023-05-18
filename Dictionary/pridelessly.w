@@ -1,0 +1,1 @@
+{"index": 250397, "D": "a high or inordinate opinion of one's own dignity, importance, merit, or superiority, whether as cherished in the mind or as displayed in bearing, conduct, etc.", "S": [], "A": []}

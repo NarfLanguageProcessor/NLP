@@ -1,0 +1,1 @@
+{"index": 245080, "D": "devotion to practical  matters.", "S": [], "A": []}

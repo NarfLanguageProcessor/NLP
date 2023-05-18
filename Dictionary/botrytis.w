@@ -1,0 +1,1 @@
+{"index": 38784, "D": "any imperfect fungus of the genus Botrytis, having the conidia in grapelike bunches", "S": [], "A": []}

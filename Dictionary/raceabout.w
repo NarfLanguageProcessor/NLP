@@ -1,0 +1,1 @@
+{"index": 259310, "D": "a small, sloop-rigged racing yacht with a short bowsprit.", "S": [], "A": []}

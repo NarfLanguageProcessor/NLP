@@ -1,0 +1,1 @@
+{"index": 21180, "D": "a receptacle in the bottom of a fireplace, under a barbecue, or the like, for the accumulation of ashes. ", "S": [], "A": []}

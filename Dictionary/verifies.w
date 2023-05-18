@@ -1,0 +1,1 @@
+{"index": 358534, "D": "to prove the truth of, as by evidence or testimony; confirm; substantiate", "S": ["authenticate ", "certify ", "check ", "corroborate ", "demonstrate ", "double-check ", "establish ", "find out ", "justify ", "prove ", "substantiate "], "A": ["conceal ", "confuse ", "contradict ", "deny ", "discredit ", "disprove ", "hide ", "invalidate ", "reject "]}

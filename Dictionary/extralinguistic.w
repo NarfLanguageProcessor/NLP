@@ -1,0 +1,1 @@
+{"index": 108525, "D": "not included within the realm of language or linguistics.", "S": [], "A": []}

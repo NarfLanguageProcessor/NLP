@@ -1,0 +1,1 @@
+{"index": 173105, "D": "(of tissue, blood, serum, or the like) to dry by freezing in a high vacuum.", "S": [], "A": []}

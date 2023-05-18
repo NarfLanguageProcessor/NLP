@@ -1,0 +1,1 @@
+{"index": 155113, "D": "characterized by interjection; interjectional.", "S": [], "A": []}

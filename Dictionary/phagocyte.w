@@ -1,0 +1,1 @@
+{"index": 232791, "D": "any cell, as a macrophage, that ingests and destroys foreign particles, bacteria, and cell debris.", "S": [], "A": []}

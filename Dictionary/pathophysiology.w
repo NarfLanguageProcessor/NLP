@@ -1,0 +1,1 @@
+{"index": 227771, "D": "the physiology  of abnormal or diseased organisms or their parts; the functional changes associated with a disease or syndrome.", "S": [], "A": []}

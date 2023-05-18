@@ -1,0 +1,1 @@
+{"index": 1472, "D": "capable or worthy of being accepted. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173595, "D": [], "S": ["Einstein ", "academic ", "academician ", "bluestocking ", "brain ", "egghead ", "genius ", "intelligentsia ", "philosopher ", "sage ", "savant ", "scholar ", "thinker ", "whiz "], "A": ["ignoramus ", "imbecile "]}

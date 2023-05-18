@@ -1,0 +1,1 @@
+{"index": 36285, "D": "causing a blister  or blisters. ", "S": [], "A": []}

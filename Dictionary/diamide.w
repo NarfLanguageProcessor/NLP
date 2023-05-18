@@ -1,0 +1,1 @@
+{"index": 84333, "D": "a compound containing two amide  groups.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 145892, "D": "being or standing wide open; gaping", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173083, "D": "to treat (a person) as a celebrity", "S": ["acclaimed ", "revered "], "A": ["inglorious ", "obscure ", "plain ", "unknown "]}

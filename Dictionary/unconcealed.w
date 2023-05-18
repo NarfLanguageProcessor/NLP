@@ -1,0 +1,1 @@
+{"index": 337464, "D": "(of feelings, attitudes, etc) not hidden or concealed; open", "S": ["aboveboard ", "apparent ", "bare ", "evident ", "exposed ", "obvious ", "open ", "overt ", "plain ", "revealed ", "visible "], "A": ["concealed "]}

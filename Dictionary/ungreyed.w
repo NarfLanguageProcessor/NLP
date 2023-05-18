@@ -1,0 +1,1 @@
+{"index": 343285, "D": "a variant of gray1. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363474, "D": "a person who is physically or morally weak. ", "S": ["wimp "], "A": ["strongman "]}

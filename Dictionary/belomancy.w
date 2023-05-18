@@ -1,0 +1,1 @@
+{"index": 31259, "D": "divination using arrows drawn at random from a quiver or other holder.", "S": [], "A": []}

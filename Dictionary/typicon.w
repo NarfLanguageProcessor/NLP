@@ -1,0 +1,1 @@
+{"index": 324287, "D": "the instructions for the orders of the services during the ecclesiastical year, contained in a manual.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 10573, "D": "the inability to express ideas by means of gestures or signs.", "S": [], "A": []}

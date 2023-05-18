@@ -1,0 +1,1 @@
+{"index": 7940, "D": "a member of a people native to the Aleutian Islands and the western Alaska Peninsula who are related to the Inuit and Yupik.", "S": [], "A": []}

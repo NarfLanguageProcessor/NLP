@@ -1,0 +1,1 @@
+{"index": 261006, "D": "(in India) a four-wheeled carriage drawn by horses or bullocks; chariot", "S": [], "A": []}

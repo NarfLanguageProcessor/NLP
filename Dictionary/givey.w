@@ -1,0 +1,1 @@
+{"index": 125698, "D": "(especially of soil) moist, soft, or spongy.", "S": [], "A": []}

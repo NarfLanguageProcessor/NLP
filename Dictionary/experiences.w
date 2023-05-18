@@ -1,0 +1,1 @@
+{"index": 107713, "D": "a particular instance of personally encountering or undergoing something", "S": ["autobiography ", "diary ", "journal ", "life ", "life story ", "memoir ", "picture ", "profile ", "sketch "], "A": []}

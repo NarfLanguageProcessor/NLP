@@ -1,0 +1,1 @@
+{"index": 44601, "D": "a single-masted sailing vessel used on the eastern Mediterranean Sea, having a sprit mainsail, a square topsail, and two or more other sails.", "S": [], "A": []}

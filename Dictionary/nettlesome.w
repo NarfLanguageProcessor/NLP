@@ -1,0 +1,1 @@
+{"index": 198909, "D": "causing irritation, vexation, or annoyance", "S": ["annoying ", "distressing ", "irksome ", "nagging ", "troublesome ", "vexing "], "A": []}

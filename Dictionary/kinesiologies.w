@@ -1,0 +1,1 @@
+{"index": 164825, "D": "the science dealing with the interrelationship of the physiological processes and anatomy of the human body with respect to movement.", "S": [], "A": []}

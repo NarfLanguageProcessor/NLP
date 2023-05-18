@@ -1,0 +1,1 @@
+{"index": 78989, "D": "to make or become deep  or deeper", "S": [], "A": []}

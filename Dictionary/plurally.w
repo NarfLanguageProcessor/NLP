@@ -1,0 +1,1 @@
+{"index": 240559, "D": "as a plural; in a plural sense.", "S": [], "A": []}

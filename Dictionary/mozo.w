@@ -1,0 +1,1 @@
+{"index": 194459, "D": "a waiter or male household servant.", "S": [], "A": []}

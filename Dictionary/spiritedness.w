@@ -1,0 +1,1 @@
+{"index": 300102, "D": "having or showing mettle, courage, vigor, liveliness, etc.", "S": ["liveliness ", "verve "], "A": ["apathy ", "dullness ", "enervation ", "idleness ", "inactivity ", "laziness ", "lethargy "]}

@@ -1,0 +1,1 @@
+{"index": 305258, "D": "any of a plantlike group of green algae constituting the class Charophyceae, having a jointed body frequently encrusted with lime and usually attached to the bottom in fresh water.", "S": [], "A": []}

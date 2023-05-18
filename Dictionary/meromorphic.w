@@ -1,0 +1,1 @@
+{"index": 183913, "D": "of or relating to a function that is analytic, except for poles, in a given domain.", "S": [], "A": []}

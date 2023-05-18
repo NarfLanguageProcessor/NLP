@@ -1,0 +1,1 @@
+{"index": 167681, "D": "speaking of something with sorrow, regret, or disappointment; evoking feelings of this kind", "S": [], "A": []}

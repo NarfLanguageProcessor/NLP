@@ -1,0 +1,1 @@
+{"index": 249446, "D": "to occupy the place of authority or control, as in an assembly or meeting; act as president  or chairperson.", "S": ["administer ", "chair ", "govern ", "officiate ", "ordain ", "oversee ", "supervise "], "A": ["follow ", "obey ", "abandon ", "give up ", "let go ", "mismanage ", "neglect "]}

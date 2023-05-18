@@ -1,0 +1,1 @@
+{"index": 115174, "D": "a detailed diagram or chart of the operations and equipment through which material passes, as in a manufacturing process.", "S": ["flow diagram ", "flow sheet "], "A": []}

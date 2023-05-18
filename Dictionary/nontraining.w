@@ -1,0 +1,1 @@
+{"index": 207962, "D": "the education, instruction, or discipline of a person or thing that is being trained", "S": [], "A": []}

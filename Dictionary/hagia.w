@@ -1,0 +1,1 @@
+{"index": 132224, "D": "the Eucharistic elements before or after the consecration.", "S": [], "A": []}

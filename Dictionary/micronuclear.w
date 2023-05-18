@@ -1,0 +1,1 @@
+{"index": 186317, "D": "the smaller of the two types of nuclei  occurring in ciliate protozoans.", "S": [], "A": []}

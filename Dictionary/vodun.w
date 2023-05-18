@@ -1,0 +1,1 @@
+{"index": 360946, "D": "a polytheistic religion practiced chiefly in coastal West Africa, the practice of which includes worship of spirits tied to the natural world or embodied in fetish objects of worship, and a belief that ancestral spirits share the physical world along with the living.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 231936, "D": "the act or fact of persisting. ", "S": ["endurance ", "grit ", "perseverance ", "stamina ", "tenacity "], "A": ["apathy ", "laziness ", "lethargy ", "weakness "]}

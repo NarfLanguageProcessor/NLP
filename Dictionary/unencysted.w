@@ -1,0 +1,1 @@
+{"index": 341231, "D": "to enclose or become enclosed in a cyst. ", "S": [], "A": []}

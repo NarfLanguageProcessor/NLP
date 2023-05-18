@@ -1,0 +1,1 @@
+{"index": 67320, "D": "to look at or view with continued attention; observe or study thoughtfully", "S": ["aim ", "consider ", "envisage ", "foresee ", "intend ", "mean ", "mull over ", "ponder ", "propose ", "think of ", "weigh "], "A": ["forget ", "ignore ", "neglect ", "reject ", "disregard "]}

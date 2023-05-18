@@ -1,0 +1,1 @@
+{"index": 33266, "D": "excessive reverence for the Bible as literally interpreted.", "S": [], "A": []}

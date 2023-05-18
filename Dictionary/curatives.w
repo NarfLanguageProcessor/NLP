@@ -1,0 +1,1 @@
+{"index": 75203, "D": "serving to cure  or heal; pertaining to curing  or remedial treatment; remedial.", "S": ["consolation ", "palliative ", "solace "], "A": ["disease ", "hurt ", "injury ", "pain "]}

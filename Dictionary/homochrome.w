@@ -1,0 +1,1 @@
+{"index": 142985, "D": "homochromatic. ", "S": [], "A": []}

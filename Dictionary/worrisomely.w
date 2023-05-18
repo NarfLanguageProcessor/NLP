@@ -1,0 +1,1 @@
+{"index": 367649, "D": "worrying,  annoying, or disturbing; causing worry", "S": [], "A": []}

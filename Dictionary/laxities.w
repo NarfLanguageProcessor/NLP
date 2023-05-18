@@ -1,0 +1,1 @@
+{"index": 169423, "D": "the state or quality of being lax;  looseness.", "S": ["indecision ", "indifference ", "leniency "], "A": []}

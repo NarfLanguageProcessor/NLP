@@ -1,0 +1,1 @@
+{"index": 22334, "D": "the measurement of the intensity of light of celestial objects.", "S": [], "A": []}

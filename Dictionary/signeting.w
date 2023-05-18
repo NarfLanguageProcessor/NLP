@@ -1,0 +1,1 @@
+{"index": 290137, "D": "a small seal, as on a finger ring.", "S": [], "A": []}

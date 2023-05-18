@@ -1,0 +1,1 @@
+{"index": 343560, "D": "to dislike intensely or passionately; feel extreme aversion for or extreme hostility toward; detest", "S": [], "A": []}

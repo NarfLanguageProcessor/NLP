@@ -1,0 +1,1 @@
+{"index": 164402, "D": "a spectator at a card game who looks at the players' cards over their shoulders, especially one who gives unsolicited advice.", "S": ["busybody ", "butt-in ", "buttinsky ", "snoop ", "spectator "], "A": []}

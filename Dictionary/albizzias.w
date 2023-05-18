@@ -1,0 +1,1 @@
+{"index": 7483, "D": "any of several trees and shrubs belonging to the genus Albizia, of the legume family, native to warm regions of the Old World, having feathery pinnate leaves, densely clustered flowers, and flat pods.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175813, "D": "an adherent of Luciferianism. ", "S": [], "A": []}

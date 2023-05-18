@@ -1,0 +1,1 @@
+{"index": 189878, "D": "to issue (printed or otherwise reproduced textual or graphic material, computer software, etc.) for sale or distribution to the public. ", "S": [], "A": []}

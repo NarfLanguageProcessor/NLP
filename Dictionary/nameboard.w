@@ -1,0 +1,1 @@
+{"index": 196689, "D": "a signboard that identifies a place or object.", "S": [], "A": []}

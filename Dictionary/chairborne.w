@@ -1,0 +1,1 @@
+{"index": 52004, "D": "(of military, especially Air Force, personnel) having a desk job rather than a field or combat assignment.", "S": [], "A": []}

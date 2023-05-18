@@ -1,0 +1,1 @@
+{"index": 292870, "D": "a person or thing that skedaddles. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78605, "D": "to remove or retire (a ship, airplane, etc.) from active service.", "S": ["deactivate ", "demilitarize ", "retire "], "A": []}

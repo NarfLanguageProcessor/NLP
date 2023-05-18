@@ -1,0 +1,1 @@
+{"index": 244023, "D": "resembling or containing chalk.", "S": [], "A": []}

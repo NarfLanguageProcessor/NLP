@@ -1,0 +1,1 @@
+{"index": 315135, "D": "touch; contact.", "S": ["connection ", "relation ", "touch "], "A": ["difference ", "distance ", "remoteness "]}

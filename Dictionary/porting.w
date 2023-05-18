@@ -1,0 +1,1 @@
+{"index": 243663, "D": "the process of rewriting the source code of a program in a different programming language, or modifying it to run on a different hardware platform or operating system.", "S": [], "A": []}

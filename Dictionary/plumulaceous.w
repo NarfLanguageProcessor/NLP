@@ -1,0 +1,1 @@
+{"index": 240492, "D": "having the texture of down.", "S": [], "A": []}

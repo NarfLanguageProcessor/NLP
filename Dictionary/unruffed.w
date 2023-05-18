@@ -1,0 +1,1 @@
+{"index": 350127, "D": "displaying or wearing a ruff. ", "S": [], "A": []}

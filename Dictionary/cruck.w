@@ -1,0 +1,1 @@
+{"index": 74107, "D": "(in old English building) one of a pair of naturally curved timbers forming one of several rigid arched frames supporting the roof of a cottage or farm building.", "S": [], "A": []}

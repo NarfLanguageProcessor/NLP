@@ -1,0 +1,1 @@
+{"index": 33863, "D": [], "S": ["couple ", "double ", "pair ", "team "], "A": []}

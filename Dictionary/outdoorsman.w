@@ -1,0 +1,1 @@
+{"index": 216489, "D": "a person devoted to outdoor sports and recreational activities, as hiking, hunting, fishing, or camping.", "S": [], "A": []}

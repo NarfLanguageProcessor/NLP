@@ -1,0 +1,1 @@
+{"index": 11959, "D": "of, like, or tending to anarchy. ", "S": ["revolutionary "], "A": ["obedient ", "subordinate "]}

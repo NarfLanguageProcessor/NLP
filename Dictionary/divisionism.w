@@ -1,0 +1,1 @@
+{"index": 90390, "D": "pointillism. ", "S": [], "A": []}

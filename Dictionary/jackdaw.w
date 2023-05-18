@@ -1,0 +1,1 @@
+{"index": 159890, "D": "a glossy, black, European bird, Corvus monedula, of the crow family, that nests in towers, ruins, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 326473, "D": "wholly; entirely; completely", "S": ["absolutely ", "altogether ", "completely ", "entirely ", "exactly ", "fully ", "perfectly ", "quite ", "thoroughly ", "unconditionally ", "utterly ", "wholeheartedly ", "wholly "], "A": ["inadequately ", "incompletely ", "partially ", "partly "]}

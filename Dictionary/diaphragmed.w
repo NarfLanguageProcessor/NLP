@@ -1,0 +1,1 @@
+{"index": 84453, "D": "the partition separating the thoracic cavity from the abdominal cavity in mammals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129310, "D": "a burial ground, often associated with smaller rural churches, as distinct from a larger urban or public cemetery.", "S": ["burial ground ", "cemetery "], "A": []}

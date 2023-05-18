@@ -1,0 +1,1 @@
+{"index": 205189, "D": "of, pertaining to, having the qualities of, or befitting a mother", "S": [], "A": []}

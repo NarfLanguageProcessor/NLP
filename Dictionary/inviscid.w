@@ -1,0 +1,1 @@
+{"index": 157259, "D": "(of a fluid) having no viscosity.", "S": [], "A": []}

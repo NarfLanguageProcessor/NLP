@@ -1,0 +1,1 @@
+{"index": 172694, "D": "of or relating to Abraham Lincoln,  his character, or his political principles.", "S": [], "A": []}

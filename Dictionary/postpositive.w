@@ -1,0 +1,1 @@
+{"index": 244419, "D": "(of a word, particle, or affix) placed after a word to modify it or to show its relation to other elements of a sentence.", "S": [], "A": []}

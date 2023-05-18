@@ -1,0 +1,1 @@
+{"index": 172370, "D": "shore-inhabiting; of or pertaining to numerous birds of the families Charadriidae, comprising the plovers, and Scolopacidae, comprising the sandpipers.", "S": [], "A": []}

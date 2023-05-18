@@ -1,0 +1,1 @@
+{"index": 205079, "D": "faithful to one's sovereign, government, or state", "S": [], "A": []}

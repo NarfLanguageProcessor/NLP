@@ -1,0 +1,1 @@
+{"index": 85461, "D": "walking on the toes, as most quadruped mammals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141043, "D": "Compare superordinate (def. 4). ", "S": [], "A": []}

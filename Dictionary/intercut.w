@@ -1,0 +1,1 @@
+{"index": 154798, "D": "to cut  from one type of shot to another, as from a long shot to a closeup.", "S": [], "A": []}

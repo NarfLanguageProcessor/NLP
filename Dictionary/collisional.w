@@ -1,0 +1,1 @@
+{"index": 63057, "D": "the act of colliding;  a coming violently into contact; crash", "S": [], "A": []}

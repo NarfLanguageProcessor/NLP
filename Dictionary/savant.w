@@ -1,0 +1,1 @@
+{"index": 279058, "D": "a person of profound or extensive learning; learned scholar.", "S": ["academic ", "bookworm ", "brain ", "egghead ", "expert ", "intellect ", "intellectual ", "learner ", "master ", "philosopher ", "pundit ", "sage "], "A": ["amateur ", "ignoramus "]}

@@ -1,0 +1,1 @@
+{"index": 294264, "D": "a small, slender, often sharp piece, as of wood or glass, split, broken, or cut off, usually lengthwise or with the grain; splinter.", "S": [], "A": []}

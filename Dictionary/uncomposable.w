@@ -1,0 +1,1 @@
+{"index": 337418, "D": "to make or form by combining things, parts, or elements", "S": [], "A": []}

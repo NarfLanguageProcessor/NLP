@@ -1,0 +1,1 @@
+{"index": 305095, "D": "of or relating to the stomach;  gastric.", "S": ["intestinal ", "visceral "], "A": []}

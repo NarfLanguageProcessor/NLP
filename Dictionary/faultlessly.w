@@ -1,0 +1,1 @@
+{"index": 110415, "D": "without fault, flaw, or defect; perfect.", "S": ["absolutely ", "altogether ", "carefully ", "completely ", "correctly ", "definitely ", "explicitly ", "indeed ", "literally ", "precisely ", "quite ", "specifically ", "strictly ", "totally ", "truly "], "A": ["doubtfully ", "dubiously ", "incompletely ", "indefinite ", "partially ", "questionably "]}

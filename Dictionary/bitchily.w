@@ -1,0 +1,1 @@
+{"index": 35175, "D": "characteristic of a bitch;  spiteful; malicious.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293998, "D": "a thin, flat piece cut from something", "S": ["portion ", "sliver ", "wedge "], "A": ["whole "]}

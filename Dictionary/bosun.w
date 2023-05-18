@@ -1,0 +1,1 @@
+{"index": 38646, "D": "a variant of boatswain. ", "S": [], "A": []}

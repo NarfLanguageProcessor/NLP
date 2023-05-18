@@ -1,0 +1,1 @@
+{"index": 54136, "D": "any of several North American birds of the genus Parus, of the titmouse family, especially P. atricapillus(black-capped chickadee ), having the throat and top of the head black.", "S": [], "A": []}

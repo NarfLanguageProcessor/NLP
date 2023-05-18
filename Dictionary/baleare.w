@@ -1,0 +1,1 @@
+{"index": 26817, "D": "a group of islands including Ibiza, Majorca, and Minorca, and constituting a province of Spain in the W Mediterranean Sea. 1,936 sq. mi. (5,015 sq. km). Capital", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139190, "D": "of or relating to rain or rainfall.", "S": ["damp ", "moist ", "stormy ", "wet "], "A": ["dry "]}

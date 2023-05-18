@@ -1,0 +1,1 @@
+{"index": 224585, "D": "to fry in a small amount of fat, as in a skillet or shallow pan; saut\u00e9.", "S": ["frizz ", "frizzle ", "fry ", "griddle ", "pan ", "sear "], "A": []}

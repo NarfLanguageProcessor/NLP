@@ -1,0 +1,1 @@
+{"index": 349155, "D": "to withdraw or disavow (a statement, opinion, etc.), especially formally; retract.", "S": [], "A": []}

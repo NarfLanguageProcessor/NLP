@@ -1,0 +1,1 @@
+{"index": 201249, "D": "pertaining to or characterized by alliteration", "S": [], "A": []}

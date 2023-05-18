@@ -1,0 +1,1 @@
+{"index": 118350, "D": "easily broken; breakable", "S": ["firmness ", "flexibility ", "texture "], "A": ["incongruity ", "inconsistency ", "inconstancy ", "irregularity ", "variation "]}

@@ -1,0 +1,1 @@
+{"index": 368609, "D": "the felted, blackish stroma  of some species of wood-destroying fungi.", "S": [], "A": []}

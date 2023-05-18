@@ -1,0 +1,1 @@
+{"index": 92553, "D": "a net  to be drawn along the bottom of a river, pond, etc., or along the ground, to catch fish, small game, etc.", "S": ["chase ", "pursuit ", "search "], "A": ["retreat "]}

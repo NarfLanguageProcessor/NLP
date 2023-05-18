@@ -1,0 +1,1 @@
+{"index": 175541, "D": "held in deep affection; cherished", "S": ["adored ", "beloved ", "cherished "], "A": []}

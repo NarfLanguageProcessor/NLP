@@ -1,0 +1,1 @@
+{"index": 195691, "D": "any marine gastropod of the genus Murex, common in tropical seas, certain species of which yield the royal purple dye valued by the ancients.", "S": [], "A": []}

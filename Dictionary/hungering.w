@@ -1,0 +1,1 @@
+{"index": 145145, "D": "a compelling need or desire for food.", "S": ["empty ", "hollow ", "ravening ", "starved "], "A": ["full "]}

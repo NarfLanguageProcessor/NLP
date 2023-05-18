@@ -1,0 +1,1 @@
+{"index": 154265, "D": "having power to understand; intelligent; cognitive.", "S": [], "A": []}

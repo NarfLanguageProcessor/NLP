@@ -1,0 +1,1 @@
+{"index": 323229, "D": "a strong cotton fabric, usually twilled, used especially in making cloth ticks. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187340, "D": "an instrument for measuring small electric currents, calibrated in milliamperes. ", "S": [], "A": []}

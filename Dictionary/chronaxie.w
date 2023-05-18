@@ -1,0 +1,1 @@
+{"index": 56405, "D": "the minimum time that an electric current of twice the threshold strength must flow in order to excite a tissue.", "S": [], "A": []}

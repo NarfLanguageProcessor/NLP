@@ -1,0 +1,1 @@
+{"index": 187670, "D": "any of several Asian birds of the starling family Sturnidae, especially those of the genera Acridotheres and Gracula, certain species of which have the ability to mimic speech and are kept as pets.", "S": [], "A": []}

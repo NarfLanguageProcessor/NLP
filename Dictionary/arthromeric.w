@@ -1,0 +1,1 @@
+{"index": 20614, "D": "any of the segments or parts of a jointed animal.", "S": [], "A": []}

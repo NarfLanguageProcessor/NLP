@@ -1,0 +1,1 @@
+{"index": 265238, "D": "an act of forfeiting. ", "S": [], "A": []}

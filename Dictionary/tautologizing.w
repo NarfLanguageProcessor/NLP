@@ -1,0 +1,1 @@
+{"index": 317157, "D": "to use tautology. ", "S": [], "A": []}

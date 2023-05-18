@@ -1,0 +1,1 @@
+{"index": 249917, "D": "a tense of verbs used to relate past action, formed in English by inflection of the verb, as jumped, swam", "S": [], "A": []}

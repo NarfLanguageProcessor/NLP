@@ -1,0 +1,1 @@
+{"index": 116862, "D": "the aggregate of pleasurable sensations that lead to a heightened physical or emotional response, as of those aroused in sexual intercourse that lead to an orgasm.", "S": [], "A": []}

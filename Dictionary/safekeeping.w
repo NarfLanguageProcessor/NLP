@@ -1,0 +1,1 @@
+{"index": 276563, "D": "the act of keeping safe or the state of being kept safe; protection; care; custody.", "S": ["aegis ", "assurance ", "care ", "certainty ", "cover ", "custody ", "guardianship ", "insurance ", "preservation ", "reassurance ", "refuge ", "safeguard ", "security ", "shelter ", "supervision ", "trust "], "A": ["distrust ", "doubt ", "uncertainty "]}

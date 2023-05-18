@@ -1,0 +1,1 @@
+{"index": 129535, "D": "green  foliage or vegetation; verdure.", "S": ["flower ", "grass ", "herb ", "seedling ", "shrub ", "tree ", "vine ", "weed "], "A": []}

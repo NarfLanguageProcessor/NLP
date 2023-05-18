@@ -1,0 +1,1 @@
+{"index": 291874, "D": "an assembly of ecclesiastics or other church delegates, convoked pursuant to the law of the church, for the discussion and decision of ecclesiastical affairs; ecclesiastical council.", "S": ["assembly ", "body ", "committee ", "conclave ", "convocation ", "meeting "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172700, "D": "a syrupy medicinal formulation taken to relieve coughs and sore throats", "S": [], "A": []}

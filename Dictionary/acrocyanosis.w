@@ -1,0 +1,1 @@
+{"index": 2901, "D": "cyanosis  of the extremities, characterized by blueness and coldness of the fingers and toes.", "S": [], "A": []}

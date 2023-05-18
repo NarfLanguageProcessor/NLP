@@ -1,0 +1,1 @@
+{"index": 8836, "D": "land owned absolutely; land owned and not subject to any rent, service, or other tenurial right of an overlord.", "S": [], "A": []}

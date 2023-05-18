@@ -1,0 +1,1 @@
+{"index": 222728, "D": "a bundle of something, usually of small or medium size, that is packed  and wrapped or boxed; parcel.", "S": ["carriage ", "consignment ", "merchandise ", "payload ", "shipment ", "shipping ", "transportation "], "A": ["benefit "]}

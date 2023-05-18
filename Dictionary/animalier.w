@@ -1,0 +1,1 @@
+{"index": 13170, "D": "an animalier bronze", "S": [], "A": []}

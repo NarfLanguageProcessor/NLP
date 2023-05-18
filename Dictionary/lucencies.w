@@ -1,0 +1,1 @@
+{"index": 175782, "D": "the quality or degree of clarity or translucence", "S": [], "A": []}

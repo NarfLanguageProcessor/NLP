@@ -1,0 +1,1 @@
+{"index": 319605, "D": "a principle or system that gives predominance to the landed classes.", "S": [], "A": []}

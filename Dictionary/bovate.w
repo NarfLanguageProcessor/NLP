@@ -1,0 +1,1 @@
+{"index": 39106, "D": "an old English unit of land area measurement equivalent to one-eighth of a carucate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309871, "D": "help; relief; aid; assistance.", "S": ["accommodate ", "administer ", "aid ", "answer ", "attend ", "cure ", "doctor ", "foster ", "heal ", "nurse ", "pander ", "remedy ", "succor ", "tend ", "treat "], "A": ["block ", "deny ", "frustrate ", "harm ", "hinder ", "hurt ", "ignore ", "impede ", "injure ", "neglect ", "obstruct ", "refuse "]}

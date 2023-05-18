@@ -1,0 +1,1 @@
+{"index": 109688, "D": "a lively Spanish or Spanish American dance in triple time, performed by a man and woman playing castanets.", "S": [], "A": []}

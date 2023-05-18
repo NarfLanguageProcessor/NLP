@@ -1,0 +1,1 @@
+{"index": 87623, "D": "to disconcert, embarrass, or abash", "S": ["condemn ", "deprecate ", "disapprove ", "discourage ", "disesteem ", "disfavor ", "dispute ", "resist "], "A": ["agree ", "approve ", "endorse ", "go along "]}

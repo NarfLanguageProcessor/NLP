@@ -1,0 +1,1 @@
+{"index": 335710, "D": "to make friends  or become friendly with; act as a friend  to; help; aid", "S": ["deserted ", "desolate ", "destitute ", "empty ", "homeless ", "isolated ", "lonesome ", "reclusive ", "solitary "], "A": ["populated ", "sociable "]}

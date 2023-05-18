@@ -1,0 +1,1 @@
+{"index": 236182, "D": "having patches of two or more colors, as various birds and other animals", "S": ["checkered ", "discolored ", "flecked ", "motley ", "parti-colored ", "speckled ", "spotted ", "stippled ", "variegated "], "A": ["uncolored ", "unspotted "]}

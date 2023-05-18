@@ -1,0 +1,1 @@
+{"index": 246609, "D": "the quality in a person or society that arises from a concern for what is regarded as excellent in arts, letters, manners, scholarly pursuits, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158473, "D": "easily irritated  or annoyed; readily excited to impatience or anger.", "S": ["annoyed ", "contentious ", "exasperated ", "fractious ", "petulant ", "prickly ", "resentful ", "surly ", "testy "], "A": ["happy ", "pleasant "]}

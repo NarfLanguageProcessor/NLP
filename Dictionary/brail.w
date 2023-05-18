@@ -1,0 +1,1 @@
+{"index": 39714, "D": "any of several horizontal lines fastened to the edge of a fore-and-aft sail or lateen sail, for gathering in the sail.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 101630, "D": "to hamper or obstruct by entangling", "S": ["choke ", "congest ", "fill ", "hamper ", "impede ", "obstruct ", "plug ", "seal "], "A": ["aid ", "assist ", "help ", "promote ", "support ", "free ", "let go ", "loose ", "loosen ", "release "]}

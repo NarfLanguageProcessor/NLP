@@ -1,0 +1,1 @@
+{"index": 110112, "D": "a person or thing that fascinates. ", "S": [], "A": []}

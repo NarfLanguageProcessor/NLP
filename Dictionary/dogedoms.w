@@ -1,0 +1,1 @@
+{"index": 90868, "D": "the chief magistrate in the former republics of Venice and Genoa.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64175, "D": "belonging equally to, or shared alike by, two or more or all in question", "S": ["everydayness ", "habitualness ", "normalcy ", "normality ", "ordinariness ", "regularity ", "routineness "], "A": []}

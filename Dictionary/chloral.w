@@ -1,0 +1,1 @@
+{"index": 55023, "D": "a colorless, oily liquid, C2Cl3HO, having a pungent odor, usually derived by the chlorination of ethyl alcohol or of acetaldehyde and combining with water to form chloral hydrate.", "S": [], "A": []}

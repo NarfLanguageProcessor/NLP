@@ -1,0 +1,1 @@
+{"index": 292823, "D": "one of the ancient Scandinavian poets.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 274580, "D": "a chipped flint with a beaklike shape found in the late Tertiary sediments of Suffolk, England, once thought to have been worked by humans but now known to have been shaped by natural nonhuman agencies.", "S": [], "A": []}

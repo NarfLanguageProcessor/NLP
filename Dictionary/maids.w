@@ -1,0 +1,1 @@
+{"index": 177798, "D": "a female domestic employee who cleans tourist accommodations or does cleaning or other housework in a home", "S": ["au pair ", "chambermaid ", "girl ", "housemaid "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 2560, "D": "widely recognized; generally accepted", "S": [], "A": []}

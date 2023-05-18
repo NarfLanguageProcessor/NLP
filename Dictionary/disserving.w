@@ -1,0 +1,1 @@
+{"index": 89512, "D": "to be a disservice  to; serve  harmfully or injuriously.", "S": ["blemish ", "damage ", "harm ", "hurt ", "impair ", "mar ", "spoil ", "tarnish ", "vitiate ", "wrong "], "A": []}

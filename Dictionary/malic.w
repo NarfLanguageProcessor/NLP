@@ -1,0 +1,1 @@
+{"index": 178446, "D": "pertaining to or derived from apples.", "S": [], "A": []}

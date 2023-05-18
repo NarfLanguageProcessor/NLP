@@ -1,0 +1,1 @@
+{"index": 95785, "D": "to set forth one's position or opinion on some subject in, or as if in, an editorial. ", "S": [], "A": []}

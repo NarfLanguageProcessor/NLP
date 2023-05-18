@@ -1,0 +1,1 @@
+{"index": 179939, "D": "grumpy or moody; sulky", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109882, "D": "a light, humorous play in which the plot depends upon a skillfully exploited situation rather than upon the development of character.", "S": ["absurdity ", "burlesque ", "caricature ", "comedy ", "joke ", "mockery ", "parody ", "sham ", "skit ", "slapstick ", "travesty "], "A": ["seriousness ", "solemnity "]}

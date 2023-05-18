@@ -1,0 +1,1 @@
+{"index": 274835, "D": "a variant of Romanian", "S": [], "A": []}

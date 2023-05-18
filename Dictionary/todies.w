@@ -1,0 +1,1 @@
+{"index": 325025, "D": "any of several small West Indian birds of the family Todidae, related to the motmots and kingfishers, having brightly colored green and red plumage.", "S": [], "A": []}

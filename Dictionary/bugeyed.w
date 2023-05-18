@@ -1,0 +1,1 @@
+{"index": 42294, "D": "with bulging eyes, as from fright, surprise, or wonderment; wide-eyed. ", "S": [], "A": []}

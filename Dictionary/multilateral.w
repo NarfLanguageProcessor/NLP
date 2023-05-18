@@ -1,0 +1,1 @@
+{"index": 195148, "D": "having several or many sides; many-sided.", "S": [], "A": []}

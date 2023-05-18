@@ -1,0 +1,1 @@
+{"index": 340730, "D": "to elude or evade by a sudden shift of position or by strategy", "S": [], "A": []}

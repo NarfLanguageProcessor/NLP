@@ -1,0 +1,1 @@
+{"index": 348027, "D": "not pleasant;  displeasing; disagreeable; offensive", "S": ["disagreeable ", "distasteful ", "nasty ", "obnoxious ", "sour ", "troublesome ", "undesirable ", "unpalatable "], "A": ["acceptable ", "agreeable ", "delicious ", "friendly ", "good ", "happy ", "helpful ", "kind ", "nice ", "palatable ", "pleasant ", "pleasing ", "tasty "]}

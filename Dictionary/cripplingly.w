@@ -1,0 +1,1 @@
+{"index": 73161, "D": "a person who is disabled or impaired in any way.", "S": [], "A": []}

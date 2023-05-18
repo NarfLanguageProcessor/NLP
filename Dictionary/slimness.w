@@ -1,0 +1,1 @@
+{"index": 294104, "D": "slender, as in girth or form; slight in build or structure.", "S": ["barrier ", "confinement ", "impediment ", "restriction ", "thinness "], "A": ["freedom "]}

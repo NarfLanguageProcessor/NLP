@@ -1,0 +1,1 @@
+{"index": 61062, "D": "to make or become coarse. ", "S": ["dehumanize ", "demoralize "], "A": ["clean ", "improve ", "purify ", "straighten ", "upgrade "]}

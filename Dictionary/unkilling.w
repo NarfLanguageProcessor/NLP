@@ -1,0 +1,1 @@
+{"index": 345303, "D": "the act of a person or thing that kills. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 105288, "D": "the sacrament of Holy Communion; the sacrifice of the Mass; the Lord's Supper.", "S": [], "A": []}

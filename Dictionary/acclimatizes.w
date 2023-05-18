@@ -1,0 +1,1 @@
+{"index": 1609, "D": "to acclimate. ", "S": ["acclimate ", "accommodate ", "adjust ", "conform ", "fit ", "reconcile ", "shape ", "tailor "], "A": ["disarrange ", "refuse "]}

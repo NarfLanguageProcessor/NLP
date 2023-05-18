@@ -1,0 +1,1 @@
+{"index": 324938, "D": "a dealer in tobacco,  especially the owner of a store that sells pipe tobaccos,  cigarettes, and cigars.", "S": [], "A": []}

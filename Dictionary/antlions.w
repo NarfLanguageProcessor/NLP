@@ -1,0 +1,1 @@
+{"index": 16450, "D": "any of several insects belonging to the family Myrmeleontidae, of the order Neuroptera, the larvae of which dig a pit in sand where they lie in wait to prey upon ants or other insects that lose their footing.", "S": [], "A": []}

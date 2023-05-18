@@ -1,0 +1,1 @@
+{"index": 270166, "D": "to provide (with something) again", "S": [], "A": []}

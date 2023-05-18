@@ -1,0 +1,1 @@
+{"index": 187114, "D": "to make or become mild  or milder. ", "S": ["soften ", "sweeten "], "A": ["trouble ", "worry ", "decline ", "decrease ", "diminish ", "lessen "]}

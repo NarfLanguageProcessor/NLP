@@ -1,0 +1,1 @@
+{"index": 157976, "D": "inflammation of the iris and the capsule  of the lens.", "S": [], "A": []}

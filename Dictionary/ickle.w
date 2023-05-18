@@ -1,0 +1,1 @@
+{"index": 146175, "D": "British informal an ironically childish word for little", "S": [], "A": []}

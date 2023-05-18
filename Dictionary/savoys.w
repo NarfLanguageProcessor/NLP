@@ -1,0 +1,1 @@
+{"index": 279104, "D": "a member of the royal house of Italy that ruled from 1861 to 1946.", "S": ["sauerkraut "], "A": []}

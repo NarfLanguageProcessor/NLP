@@ -1,0 +1,1 @@
+{"index": 126337, "D": "a faint or unsteady light; glimmer. ", "S": ["brilliant ", "dazzling ", "exciting ", "lively ", "sparkling "], "A": ["dull "]}

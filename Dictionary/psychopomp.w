@@ -1,0 +1,1 @@
+{"index": 255460, "D": "a person who conducts spirits or souls to the other world, as Hermes or Charon.", "S": [], "A": []}

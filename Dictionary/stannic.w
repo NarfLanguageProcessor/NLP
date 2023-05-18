@@ -1,0 +1,1 @@
+{"index": 302746, "D": "of or containing tin, especially in the tetravalent state.", "S": ["golden ", "silvery "], "A": []}

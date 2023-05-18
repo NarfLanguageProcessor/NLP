@@ -1,0 +1,1 @@
+{"index": 27194, "D": "a Mande language that is used as a trade language in the upper Niger drainage basin in Africa.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 120672, "D": "(in the spinneret of a spider) the terminal tube of a silk gland.", "S": [], "A": []}

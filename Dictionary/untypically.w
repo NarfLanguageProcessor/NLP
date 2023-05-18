@@ -1,0 +1,1 @@
+{"index": 353058, "D": "in a way that serves as or conforms to a type", "S": [], "A": []}

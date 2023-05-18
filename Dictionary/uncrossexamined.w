@@ -1,0 +1,1 @@
+{"index": 338231, "D": "to examine by questions intended to check a previous examination; examine closely or minutely.", "S": [], "A": []}

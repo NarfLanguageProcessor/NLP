@@ -1,0 +1,1 @@
+{"index": 212952, "D": "the branch of metaphysics that studies the nature of existence or being as such.", "S": ["attitude ", "doctrine ", "idea ", "ideology ", "logic ", "outlook ", "reasoning ", "system ", "tenet ", "theory ", "thinking ", "thought ", "truth ", "view ", "viewpoint ", "wisdom "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42267, "D": "(in opera) a comedy part, usually bass.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202889, "D": "the state or quality of being dense; compactness; closely set or crowded condition.", "S": [], "A": []}

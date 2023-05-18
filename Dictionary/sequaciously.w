@@ -1,0 +1,1 @@
+{"index": 285821, "D": "following with smooth or logical regularity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159650, "D": "a native or inhabitant of the former country of Yugoslavia.", "S": [], "A": []}

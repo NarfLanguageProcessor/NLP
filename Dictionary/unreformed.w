@@ -1,0 +1,1 @@
+{"index": 349306, "D": "amended by removal of faults, abuses, etc.", "S": ["hardened "], "A": ["good ", "manageable ", "nice ", "obedient "]}

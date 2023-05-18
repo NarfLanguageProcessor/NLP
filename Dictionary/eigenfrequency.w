@@ -1,0 +1,1 @@
+{"index": 96471, "D": "a resonance frequency of a system", "S": [], "A": []}

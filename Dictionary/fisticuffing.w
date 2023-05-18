@@ -1,0 +1,1 @@
+{"index": 113482, "D": "a cuff or blow with the fist.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151470, "D": "incapable of being expressed or described in words; inexpressible", "S": ["ethereal ", "heavenly ", "indescribable ", "transcendent ", "unspeakable "], "A": ["definable ", "describable "]}

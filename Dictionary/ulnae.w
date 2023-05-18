@@ -1,0 +1,1 @@
+{"index": 333786, "D": "Compare radius (def. 7). ", "S": ["radius "], "A": []}

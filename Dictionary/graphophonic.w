@@ -1,0 +1,1 @@
+{"index": 129117, "D": "a phonograph for recording and reproducing sounds on wax records.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 306379, "D": "a row of lamps, provided with a reflector for floodlighting the stage, used as border lights,  footlights, backing lights,  etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164734, "D": "a cupronickel coin and monetary unit of Papua New Guinea, equal to 100 toea.", "S": [], "A": []}

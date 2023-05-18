@@ -1,0 +1,1 @@
+{"index": 158978, "D": "a polygon having all angles equal.", "S": [], "A": []}

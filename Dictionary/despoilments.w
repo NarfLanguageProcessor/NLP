@@ -1,0 +1,1 @@
+{"index": 82855, "D": "to strip of possessions, things of value, etc.; rob; plunder; pillage.", "S": ["abduction ", "abuse ", "maltreatment ", "molestation ", "violation "], "A": []}

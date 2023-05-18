@@ -1,0 +1,1 @@
+{"index": 21075, "D": "existence originating from and having no source other than itself.", "S": [], "A": []}

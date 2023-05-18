@@ -1,0 +1,1 @@
+{"index": 52713, "D": "the use of characters  or symbols for the expression of meaning.", "S": [], "A": []}

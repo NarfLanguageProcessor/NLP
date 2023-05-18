@@ -1,0 +1,1 @@
+{"index": 34568, "D": "the use of living organisms or other biological systems in the manufacture of drugs or other products or for environmental management, as in waste recycling", "S": [], "A": []}

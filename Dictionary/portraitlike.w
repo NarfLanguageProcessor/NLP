@@ -1,0 +1,1 @@
+{"index": 243723, "D": "a likeness of a person, especially of the face, as a painting, drawing, or photograph", "S": [], "A": []}

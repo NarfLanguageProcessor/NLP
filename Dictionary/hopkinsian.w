@@ -1,0 +1,1 @@
+{"index": 143694, "D": "a modified Calvinism taught by Samuel Hopkins (1721\u20131803), that emphasized the sovereignty of God, the importance of His decrees, and the necessity of submitting to His will, accepting even damnation, if required, for His glory, and holding that ethics is merely disinterested benevolence.", "S": [], "A": []}

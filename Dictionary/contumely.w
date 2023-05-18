@@ -1,0 +1,1 @@
+{"index": 67851, "D": "insulting display of contempt in words or actions; contemptuous or humiliating treatment.", "S": ["abuse ", "arrogance ", "contempt ", "disdain ", "humiliation ", "insolence ", "insult ", "remark ", "reproach ", "rudeness ", "scorn "], "A": ["admiration ", "approval ", "humility ", "love ", "politeness ", "praise ", "respect "]}

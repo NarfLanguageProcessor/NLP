@@ -1,0 +1,1 @@
+{"index": 43610, "D": "of the nature of, resembling, or containing butter. ", "S": ["rancid "], "A": []}

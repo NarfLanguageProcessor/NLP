@@ -1,0 +1,1 @@
+{"index": 352618, "D": "to unfasten (something tacked).", "S": [], "A": []}

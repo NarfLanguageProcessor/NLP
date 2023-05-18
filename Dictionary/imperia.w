@@ -1,0 +1,1 @@
+{"index": 148526, "D": "a seaport in NW Italy.", "S": ["authority ", "clout ", "influence ", "jurisdiction ", "law ", "leadership ", "management ", "prestige ", "privilege ", "right ", "rule ", "sovereignty ", "strength ", "weight "], "A": ["inferiority ", "subordination ", "subservience "]}

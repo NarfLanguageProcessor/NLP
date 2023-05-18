@@ -1,0 +1,1 @@
+{"index": 309562, "D": "to withdraw or take away, as a part from a whole.", "S": ["deduct ", "withhold "], "A": ["add ", "develop ", "enlarge ", "expand ", "grow ", "increase ", "raise ", "remain ", "stay "]}

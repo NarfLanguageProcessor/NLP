@@ -1,0 +1,1 @@
+{"index": 196695, "D": "that is to say; explicitly; specifically; to wit", "S": ["especially ", "i.e. ", "particularly ", "specially ", "specifically "], "A": ["broadly ", "commonly ", "generally ", "usually "]}

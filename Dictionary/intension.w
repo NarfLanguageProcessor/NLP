@@ -1,0 +1,1 @@
+{"index": 154378, "D": "intensification; increase in degree.", "S": [], "A": []}

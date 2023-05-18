@@ -1,0 +1,1 @@
+{"index": 90866, "D": [], "S": ["crinkle ", "pleat ", "pucker ", "wrinkle "], "A": ["smooth ", "straighten "]}

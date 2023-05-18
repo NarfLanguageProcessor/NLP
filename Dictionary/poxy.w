@@ -1,0 +1,1 @@
+{"index": 245042, "D": "having or having had syphilis", "S": [], "A": []}

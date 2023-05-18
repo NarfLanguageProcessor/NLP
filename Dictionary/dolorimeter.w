@@ -1,0 +1,1 @@
+{"index": 91204, "D": "an instrument used in dolorimetry.", "S": [], "A": []}

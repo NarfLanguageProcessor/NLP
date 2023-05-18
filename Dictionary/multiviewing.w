@@ -1,0 +1,1 @@
+{"index": 195429, "D": "an act, ceremony, or occasion of seeing, watching, or inspecting", "S": [], "A": []}

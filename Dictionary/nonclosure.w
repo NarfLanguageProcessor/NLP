@@ -1,0 +1,1 @@
+{"index": 201997, "D": "the act of closing; the state of being closed.", "S": [], "A": []}

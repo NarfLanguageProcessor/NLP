@@ -1,0 +1,1 @@
+{"index": 33486, "D": "the presence of two different cultures in the same country or region", "S": [], "A": []}

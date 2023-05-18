@@ -1,0 +1,1 @@
+{"index": 326045, "D": "a mineral, hydrated copper uranium phosphate, CuU2P2O12\u22c512H2O, occurring in square tabular crystals of a bright-green color", "S": [], "A": []}

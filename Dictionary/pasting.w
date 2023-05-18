@@ -1,0 +1,1 @@
+{"index": 227467, "D": "a thrashing; heavy defeat", "S": ["flogging ", "licking ", "pounding ", "spanking ", "thrashing ", "trouncing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212069, "D": "giving rise to oil, as certain seeds or hypha.", "S": [], "A": []}

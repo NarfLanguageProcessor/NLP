@@ -1,0 +1,1 @@
+{"index": 233762, "D": "any silicate  mineral having the tetrahedral silicate  groups linked in sheets, each group containing four oxygen atoms, three of which are shared with other groups so that the ratio of silicon atoms to oxygen atoms is two to five.", "S": [], "A": []}

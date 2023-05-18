@@ -1,0 +1,1 @@
+{"index": 252015, "D": "a projecting or protruding part.", "S": ["bump ", "bunch ", "eaves ", "extension ", "hook ", "jut ", "knob ", "ledge ", "outthrust ", "point ", "prolongation ", "prominence ", "protrusion ", "protuberance ", "ridge ", "rim ", "shelf ", "sill ", "spine ", "spur ", "step ", "swelling "], "A": ["depression "]}

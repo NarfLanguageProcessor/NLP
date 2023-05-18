@@ -1,0 +1,1 @@
+{"index": 16376, "D": "a person who opposes business trusts and favors unrestrained competition among businesses.", "S": [], "A": []}

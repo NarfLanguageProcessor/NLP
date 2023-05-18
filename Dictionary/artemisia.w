@@ -1,0 +1,1 @@
+{"index": 20465, "D": "any of several composite plants of the genus Artemisia, having aromatic foliage and small disk flowers, including the sagebrush, wormwood, and mugwort.", "S": [], "A": []}

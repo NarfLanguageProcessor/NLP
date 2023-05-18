@@ -1,0 +1,1 @@
+{"index": 236993, "D": "a liquid terpene, C10H16, the principal constituent of oil of turpentine, found in other essential oils", "S": [], "A": []}

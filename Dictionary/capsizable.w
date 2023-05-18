@@ -1,0 +1,1 @@
+{"index": 47135, "D": "to turn bottom up; overturn", "S": [], "A": []}

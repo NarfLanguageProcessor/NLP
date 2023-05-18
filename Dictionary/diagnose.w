@@ -1,0 +1,1 @@
+{"index": 84128, "D": "to determine the identity of (a disease, illness, etc.) by a medical examination", "S": ["analyze ", "determine ", "investigate ", "pinpoint ", "pronounce ", "recognize "], "A": ["miss ", "overlook "]}

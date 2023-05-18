@@ -1,0 +1,1 @@
+{"index": 271268, "D": "the ability to become the opposite in position, direction, order, or character", "S": [], "A": []}

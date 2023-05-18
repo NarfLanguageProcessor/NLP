@@ -1,0 +1,1 @@
+{"index": 161982, "D": "a long outer garment with long sleeves, worn in Muslim countries.", "S": [], "A": []}

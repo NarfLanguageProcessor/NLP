@@ -1,0 +1,1 @@
+{"index": 125069, "D": "having a naked ovary.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353453, "D": "swollen, or affected with swelling, as a part of the body.", "S": [], "A": []}

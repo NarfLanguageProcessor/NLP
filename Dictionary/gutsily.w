@@ -1,0 +1,1 @@
+{"index": 131599, "D": [], "S": ["boldly ", "fearlessly ", "gallantly ", "gamely ", "heroically ", "valiantly "], "A": ["fearfully ", "timidly "]}

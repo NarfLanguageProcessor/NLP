@@ -1,0 +1,1 @@
+{"index": 227759, "D": "the science or the study of the origin, nature, and course of diseases.", "S": [], "A": []}

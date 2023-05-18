@@ -1,0 +1,1 @@
+{"index": 207130, "D": "(of words or language) having little or no meaning; making little or no sense", "S": ["ridiculous ", "senseless ", "silly ", "stupid "], "A": ["intelligent ", "reasonable ", "sensible ", "serious ", "wise "]}

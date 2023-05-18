@@ -1,0 +1,1 @@
+{"index": 353816, "D": "an instance of seeing or beholding; visual inspection.", "S": [], "A": []}

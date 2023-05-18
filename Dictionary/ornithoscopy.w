@@ -1,0 +1,1 @@
+{"index": 214791, "D": "divination from the observation of birds", "S": [], "A": []}

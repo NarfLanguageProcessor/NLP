@@ -1,0 +1,1 @@
+{"index": 268190, "D": "pertaining to or characterized by repetition. ", "S": ["at length ", "boringly ", "endlessly ", "in detail ", "lengthily ", "long-windedly ", "more than one can stomach ", "repeatedly ", "to an excessive degree ", "to nauseating extremes ", "to the point of queasiness ", "too much "], "A": []}

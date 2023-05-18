@@ -1,0 +1,1 @@
+{"index": 126967, "D": "a nematocyst that discharges a thread covered with a sticky secretion.", "S": [], "A": []}

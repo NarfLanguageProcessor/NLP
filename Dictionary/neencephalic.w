@@ -1,0 +1,1 @@
+{"index": 197980, "D": "the more recent part of the brain in the evolutionary development of animals, including the cerebral cortex and its related structures.", "S": [], "A": []}

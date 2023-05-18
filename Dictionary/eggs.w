@@ -1,0 +1,1 @@
+{"index": 96203, "D": "the roundish reproductive body produced by the female of certain animals, as birds and most reptiles, consisting of an ovum and its envelope of albumen, jelly, membranes, egg case,  or shell, according to species.", "S": ["delicacy ", "relish ", "roe "], "A": []}

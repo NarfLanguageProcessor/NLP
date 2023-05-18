@@ -1,0 +1,1 @@
+{"index": 362040, "D": "Scot a variant spelling of wersh", "S": [], "A": []}

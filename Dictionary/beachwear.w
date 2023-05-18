@@ -1,0 +1,1 @@
+{"index": 29374, "D": "clothing for wear  at a beach,  swimming pool, or the like.", "S": ["bathing suit ", "bikini ", "maillot ", "one-piece suit ", "swim trunks ", "swimming trunks ", "swimsuit ", "swimwear ", "two-piece suit "], "A": []}

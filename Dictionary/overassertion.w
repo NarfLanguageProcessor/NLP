@@ -1,0 +1,1 @@
+{"index": 218251, "D": "a positive statement or declaration, often without support or reason", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158436, "D": "not reversible;  incapable of being changed", "S": [], "A": []}

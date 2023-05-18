@@ -1,0 +1,1 @@
+{"index": 323037, "D": "a loud, explosive, resounding noise produced by the explosive expansion of air heated by a lightning discharge.", "S": ["detonation ", "explosion ", "roar ", "rumble "], "A": ["peace "]}

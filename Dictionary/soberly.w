@@ -1,0 +1,1 @@
+{"index": 296054, "D": "not intoxicated or drunk.", "S": ["calmly ", "coolly ", "solemnly "], "A": ["cheerfully ", "drunkenly ", "excitedly ", "hilariously "]}

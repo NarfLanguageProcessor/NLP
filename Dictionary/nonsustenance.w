@@ -1,0 +1,1 @@
+{"index": 207732, "D": "means of sustaining  or supporting life or health; nourishment, especially food and drink", "S": [], "A": []}

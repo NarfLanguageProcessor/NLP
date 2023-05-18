@@ -1,0 +1,1 @@
+{"index": 83734, "D": "to remove the water  from; drain; dehydrate.", "S": [], "A": []}

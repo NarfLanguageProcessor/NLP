@@ -1,0 +1,1 @@
+{"index": 38416, "D": "a hole  drilled in the earth, as for the purpose of extracting a core, releasing gas, oil, water, etc.", "S": [], "A": []}

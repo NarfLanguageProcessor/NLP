@@ -1,0 +1,1 @@
+{"index": 248339, "D": "any drugs administered to sedate and otherwise prepare a patient for general anaesthesia", "S": [], "A": []}

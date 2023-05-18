@@ -1,0 +1,1 @@
+{"index": 289153, "D": "the quality of being astute or sharp in practical matters; the ability to find and pursue the most advantageous course of action, sometimes at the cost of moral compromise", "S": ["acumen ", "sharpness "], "A": ["ignorance ", "stupidity "]}

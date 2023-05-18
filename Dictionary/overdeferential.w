@@ -1,0 +1,1 @@
+{"index": 218889, "D": "showing deference; deferent;  respectful.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 50302, "D": "to stop; discontinue", "S": ["break off ", "desist ", "discontinue ", "fail ", "halt ", "quit ", "refrain ", "terminate "], "A": ["begin ", "carry on ", "complete ", "continue ", "do ", "persevere ", "restart ", "start ", "bear ", "commence ", "create ", "open "]}

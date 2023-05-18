@@ -1,0 +1,1 @@
+{"index": 17816, "D": "a simple device, as a rod, spatula, or the like, for applying  medication, cosmetics, glue, or any other substance not usually touched with the fingers.", "S": [], "A": []}

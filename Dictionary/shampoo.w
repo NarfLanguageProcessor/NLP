@@ -1,0 +1,1 @@
+{"index": 287373, "D": "to wash (the head or hair), especially with a cleaning preparation that does not leave a soap film.", "S": ["cleaning ", "washing "], "A": []}

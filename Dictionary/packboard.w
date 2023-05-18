@@ -1,0 +1,1 @@
+{"index": 222732, "D": "a rigid wooden or metal frame, covered with fabric and having shoulder straps, to which equipment can be strapped for carrying.", "S": [], "A": []}

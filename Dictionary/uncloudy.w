@@ -1,0 +1,1 @@
+{"index": 337104, "D": "full of or overcast by clouds", "S": [], "A": []}

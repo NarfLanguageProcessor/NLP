@@ -1,0 +1,1 @@
+{"index": 175466, "D": "a person or thing that lounges. ", "S": ["TV viewer ", "bystander ", "drone ", "goof-off ", "idler ", "inactive person ", "laggard ", "lazy person ", "lazybones ", "loafer ", "lotuseater ", "observer ", "slouch ", "sluggard ", "sofa spud ", "spectator ", "televiewer ", "television viewer ", "video-gazer ", "viewer "], "A": []}

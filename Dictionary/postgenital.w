@@ -1,0 +1,1 @@
+{"index": 244157, "D": "of, relating to, or noting reproduction.", "S": [], "A": []}

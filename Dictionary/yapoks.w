@@ -1,0 +1,1 @@
+{"index": 145701, "D": "an aquatic Central and South American opossum, Chironectes variegatus (or minimus), having webbed hind feet and a grayish coat.", "S": [], "A": []}

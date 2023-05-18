@@ -1,0 +1,1 @@
+{"index": 315943, "D": "very angry", "S": ["crowd ", "load ", "overcrowd ", "pack ", "ram ", "shove ", "squeeze ", "stuff ", "wedge "], "A": ["abstain ", "diet ", "fast ", "let go ", "nibble ", "pull ", "release ", "surrender ", "yield "]}

@@ -1,0 +1,1 @@
+{"index": 290035, "D": "a pictorial symbol used in ritualistic magic and supposed to have supernatural power", "S": [], "A": []}

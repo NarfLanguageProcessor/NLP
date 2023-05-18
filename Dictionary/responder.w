@@ -1,0 +1,1 @@
+{"index": 269777, "D": "a person or thing that responds. ", "S": [], "A": []}

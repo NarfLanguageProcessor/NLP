@@ -1,0 +1,1 @@
+{"index": 130463, "D": "dirty; slovenly", "S": ["decay ", "destitution ", "filth ", "filthiness ", "foulness ", "griminess ", "impoverishment ", "indigence ", "poorness ", "seediness ", "smuttiness ", "squalor ", "starvation ", "uncleanliness ", "uncleanness ", "wretchedness "], "A": []}

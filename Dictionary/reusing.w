@@ -1,0 +1,1 @@
+{"index": 271046, "D": "to employ for some purpose; put into service; make use of", "S": ["restate "], "A": ["deny ", "refuse "]}

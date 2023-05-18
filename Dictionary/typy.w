@@ -1,0 +1,1 @@
+{"index": 324280, "D": "(of a domestic animal) embodying the ideal characteristics of its variety or breed.", "S": [], "A": []}

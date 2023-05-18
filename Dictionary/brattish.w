@@ -1,0 +1,1 @@
+{"index": 40065, "D": "a child, especially an annoying, spoiled, or impolite child (usually used in contempt or irritation).", "S": [], "A": []}

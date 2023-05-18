@@ -1,0 +1,1 @@
+{"index": 171712, "D": "legal; lawful; legitimate; permissible.", "S": ["authorized ", "lawful ", "licensed ", "permissible ", "sanctioned "], "A": ["forbidden ", "illicit "]}

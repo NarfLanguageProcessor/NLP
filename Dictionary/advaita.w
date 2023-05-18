@@ -1,0 +1,1 @@
+{"index": 4559, "D": "Compare dvaita (def. 2). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68256, "D": "any of several Australian gum trees of the genus Eucalyptus, especially E. microtheca, abundant along riverbanks and having sickle-shaped leaves and wrinkled, cracked bark.", "S": [], "A": []}

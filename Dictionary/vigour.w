@@ -1,0 +1,1 @@
+{"index": 359646, "D": "exuberant and resilient strength of body or mind; vitality", "S": [], "A": []}

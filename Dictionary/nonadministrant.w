@@ -1,0 +1,1 @@
+{"index": 201141, "D": "to manage (affairs, a government, etc.); have executive charge of", "S": [], "A": []}

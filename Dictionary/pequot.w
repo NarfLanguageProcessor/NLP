@@ -1,0 +1,1 @@
+{"index": 230310, "D": "a member of a powerful tribe of Algonquian-speaking Indians of Connecticut that was essentially destroyed in the Pequot War.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315104, "D": "another name for osculation (def. 1)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271359, "D": "someone who speaks abusively or contemptuously to or of another person or thing", "S": ["attacker ", "carper ", "caviler ", "censor ", "complainant ", "complainer ", "defamer ", "disparager ", "doubter ", "maligner ", "muckraker ", "nagger ", "quibbler ", "scolder ", "slanderer ", "vilifier ", "worrier ", "zapper "], "A": []}

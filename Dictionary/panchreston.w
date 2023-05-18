@@ -1,0 +1,1 @@
+{"index": 224381, "D": "a proposed explanation intended to address a complex problem by trying to account for all possible contingencies but typically proving to be too broadly conceived and therefore oversimplified to be of any practical use.", "S": [], "A": []}

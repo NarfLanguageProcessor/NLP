@@ -1,0 +1,1 @@
+{"index": 38269, "D": "to seek the favor or goodwill of in a servile, degraded way; toady to.", "S": ["fawn ", "grovel ", "toady "], "A": []}

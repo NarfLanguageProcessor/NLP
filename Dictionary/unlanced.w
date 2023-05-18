@@ -1,0 +1,1 @@
+{"index": 345420, "D": "a long wooden shaft with a pointed metal head, used as a weapon by knights and cavalry soldiers in charging.", "S": [], "A": []}

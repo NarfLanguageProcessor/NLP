@@ -1,0 +1,1 @@
+{"index": 83943, "D": "any of various types of sailing vessels used by Arabs on the east African, Arabian, and Indian coasts, generally lateen-rigged on two or three masts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141985, "D": "an advocate or a follower of Hitlerism.", "S": [], "A": []}

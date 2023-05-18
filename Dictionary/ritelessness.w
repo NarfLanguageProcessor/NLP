@@ -1,0 +1,1 @@
+{"index": 273300, "D": "a formal or ceremonial act or procedure prescribed or customary in religious or other solemn use", "S": [], "A": []}

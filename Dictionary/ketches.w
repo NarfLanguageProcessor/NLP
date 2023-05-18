@@ -1,0 +1,1 @@
+{"index": 164103, "D": "a sailing vessel rigged fore and aft on two masts, the larger, forward one being the mainmast and the after one, stepped forward of the rudderpost, being the mizzen or jigger.", "S": ["barge ", "canoe ", "catamaran ", "craft ", "dinghy ", "gondola ", "raft ", "sailboat ", "schooner ", "ship ", "yacht "], "A": []}

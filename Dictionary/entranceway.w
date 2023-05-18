@@ -1,0 +1,1 @@
+{"index": 101638, "D": "an entryway. ", "S": ["aisle ", "foyer ", "hall ", "lobby ", "passage ", "passageway "], "A": []}

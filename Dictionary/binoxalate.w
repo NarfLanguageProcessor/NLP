@@ -1,0 +1,1 @@
+{"index": 34257, "D": "an acid containing the group HC2O4\u2013, as ammonium binoxalate,  C2H5NO4\u22c5H2O.", "S": [], "A": []}

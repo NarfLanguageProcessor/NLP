@@ -1,0 +1,1 @@
+{"index": 265984, "D": "to reheat yesterday's soup", "S": ["bake ", "boil ", "broil ", "grill ", "ignite ", "melt ", "roast ", "sear ", "steam ", "thaw ", "toast ", "warm "], "A": ["freeze ", "put out "]}

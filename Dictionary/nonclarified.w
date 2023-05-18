@@ -1,0 +1,1 @@
+{"index": 201970, "D": "to make (an idea, statement, etc.) clear or intelligible; to free from ambiguity.", "S": [], "A": []}

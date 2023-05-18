@@ -1,0 +1,1 @@
+{"index": 366570, "D": "the assembly of the witan; the national council attended by the king, aldermen, bishops, and nobles.", "S": [], "A": []}

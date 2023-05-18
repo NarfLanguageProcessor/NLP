@@ -1,0 +1,1 @@
+{"index": 343482, "D": "lacking good looks; not attractive in physical appearance; plain or ugly.", "S": ["indecent ", "unflattering ", "unseemly ", "untoward "], "A": ["proper "]}

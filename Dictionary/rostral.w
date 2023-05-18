@@ -1,0 +1,1 @@
+{"index": 274572, "D": "of or relating to a rostrum.", "S": [], "A": []}

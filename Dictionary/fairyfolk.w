@@ -1,0 +1,1 @@
+{"index": 109319, "D": [], "S": ["dwarfs ", "elfenfolk ", "elves ", "fairies ", "laborers ", "leprechauns ", "midgets ", "the unremarkable "], "A": []}

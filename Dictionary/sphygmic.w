@@ -1,0 +1,1 @@
+{"index": 299552, "D": "of or relating to the pulse.", "S": [], "A": []}

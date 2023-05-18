@@ -1,0 +1,1 @@
+{"index": 268601, "D": "a depraved, unprincipled, or wicked person", "S": [], "A": []}

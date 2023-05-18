@@ -1,0 +1,1 @@
+{"index": 352445, "D": "of the nature of or forming a supplement;  additional.", "S": [], "A": []}

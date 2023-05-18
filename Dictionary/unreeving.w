@@ -1,0 +1,1 @@
+{"index": 349287, "D": "to withdraw (a rope) from a block, thimble, etc.", "S": [], "A": []}

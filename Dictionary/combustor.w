@@ -1,0 +1,1 @@
+{"index": 63713, "D": "the apparatus in a ramjet or other jet engine for initiating and sustaining combustion,  consisting of the igniter, fuel-injection system, combustion chamber,  and flameholder.", "S": [], "A": []}

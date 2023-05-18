@@ -1,0 +1,1 @@
+{"index": 5167, "D": "bluish-green; like verdigris.", "S": [], "A": []}

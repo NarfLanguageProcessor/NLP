@@ -1,0 +1,1 @@
+{"index": 281922, "D": "scribe1 (defs. 1, 2). ", "S": ["broadcaster ", "columnist ", "commentator ", "correspondent ", "editor ", "press ", "reporter ", "writer "], "A": []}

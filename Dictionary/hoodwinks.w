@@ -1,0 +1,1 @@
+{"index": 143507, "D": "to deceive or trick.", "S": ["bamboozle ", "bilk ", "defraud ", "dupe ", "mislead ", "swindle ", "victimize "], "A": ["give ", "help ", "protect ", "offer "]}

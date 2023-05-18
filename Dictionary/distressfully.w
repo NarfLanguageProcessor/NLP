@@ -1,0 +1,1 @@
+{"index": 89905, "D": "causing or involving distress", "S": ["acutely ", "badly ", "greatly ", "sadly ", "severely ", "woefully "], "A": []}

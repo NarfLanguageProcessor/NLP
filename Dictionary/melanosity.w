@@ -1,0 +1,1 @@
+{"index": 182765, "D": "having a dark, swarthy complexion and dark-colored hair.", "S": [], "A": []}

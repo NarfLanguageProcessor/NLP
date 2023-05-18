@@ -1,0 +1,1 @@
+{"index": 257660, "D": "having quadriplegia;  paralyzed from the neck down or in all four limbs as a result of disease or injury.", "S": ["disabled ", "lame ", "paraplegic "], "A": ["able "]}

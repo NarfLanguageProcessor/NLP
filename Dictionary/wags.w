@@ -1,0 +1,1 @@
+{"index": 361913, "D": "to move from side to side, forward and backward, or up and down, especially rapidly and repeatedly", "S": ["card ", "clown ", "comedian ", "comic ", "humorist ", "jester ", "joker ", "jokester ", "kibitzer ", "prankster ", "punster ", "show-off ", "trickster ", "wit ", "zany "], "A": []}

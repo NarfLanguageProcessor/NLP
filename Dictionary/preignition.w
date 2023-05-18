@@ -1,0 +1,1 @@
+{"index": 247858, "D": "ignition  of the charge in an internal-combustion engine earlier in the cycle than is compatible with proper operation.", "S": [], "A": []}

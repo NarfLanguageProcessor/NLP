@@ -1,0 +1,1 @@
+{"index": 311134, "D": "that which exists absolutely and without predication.", "S": [], "A": []}

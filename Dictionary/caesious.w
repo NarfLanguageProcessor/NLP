@@ -1,0 +1,1 @@
+{"index": 44452, "D": "having a waxy bluish-grey coating", "S": [], "A": []}

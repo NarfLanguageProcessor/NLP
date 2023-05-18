@@ -1,0 +1,1 @@
+{"index": 17008, "D": "the scientific study of bees, especially honeybees.", "S": [], "A": []}

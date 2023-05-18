@@ -1,0 +1,1 @@
+{"index": 203282, "D": "an act or instance of dominating. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291152, "D": "any phenomenon or circumstance accompanying something and serving as evidence of it.", "S": ["ailment ", "disorder ", "malady ", "problem ", "sickness "], "A": ["health "]}

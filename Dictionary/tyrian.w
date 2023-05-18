@@ -1,0 +1,1 @@
+{"index": 324514, "D": "of or relating to ancient Tyre or its people.", "S": [], "A": []}

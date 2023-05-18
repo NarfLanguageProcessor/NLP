@@ -1,0 +1,1 @@
+{"index": 272991, "D": "a money of account of Japan, the thousandth part of a yen or the tenth part of a sen.", "S": [], "A": []}

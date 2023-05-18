@@ -1,0 +1,1 @@
+{"index": 27045, "D": "a physical diagnostic technique used to detect solid objects surrounded by fluid, as abdominal organs or tumors, performed by suddenly compressing the fluid with the hand, causing the solid object to abut against the hand.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247805, "D": "able to be seized or grasped.", "S": [], "A": []}

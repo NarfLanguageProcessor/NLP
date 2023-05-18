@@ -1,0 +1,1 @@
+{"index": 343738, "D": "having no hinge or hinges, or with the hinges removed", "S": ["deranged ", "disturbed ", "manic ", "unbalanced "], "A": ["balanced ", "sane "]}

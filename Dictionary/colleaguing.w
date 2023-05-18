@@ -1,0 +1,1 @@
+{"index": 62887, "D": [], "S": ["cooperate ", "tend "], "A": ["divide ", "separate ", "withdraw "]}

@@ -1,0 +1,1 @@
+{"index": 299036, "D": "an increasing of speed.", "S": ["advance ", "expedite ", "further ", "hasten ", "open up ", "quicken ", "spur ", "step up ", "stimulate "], "A": ["block ", "cease ", "check ", "delay ", "discourage ", "halt ", "hinder ", "slow ", "stop ", "dissuade ", "repress ", "wait "]}

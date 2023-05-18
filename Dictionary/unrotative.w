@@ -1,0 +1,1 @@
+{"index": 350079, "D": "rotating or pertaining to rotation.", "S": [], "A": []}

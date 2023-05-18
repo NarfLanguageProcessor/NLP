@@ -1,0 +1,1 @@
+{"index": 140069, "D": "the veneration offered to the Virgin Mary as the most exalted of creatures.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 629, "D": "not normal, average, typical, or usual; deviating from a standard", "S": [], "A": []}

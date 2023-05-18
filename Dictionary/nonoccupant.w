@@ -1,0 +1,1 @@
+{"index": 205581, "D": "a person, family, group, or organization that lives in, occupies, or has quarters or space in or on something", "S": [], "A": []}

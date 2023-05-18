@@ -1,0 +1,1 @@
+{"index": 199671, "D": "a Pharisee and member of the Sanhedrin who became a secret follower of Jesus. John 3", "S": [], "A": []}

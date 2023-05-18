@@ -1,0 +1,1 @@
+{"index": 352454, "D": "to furnish or provide (a person, establishment, place, etc.) with what is lacking or requisite", "S": [], "A": []}

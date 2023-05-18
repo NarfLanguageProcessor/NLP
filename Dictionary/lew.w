@@ -1,0 +1,1 @@
+{"index": 171303, "D": "a male given name, form of Lewis, Llewellyn,  or Louis. ", "S": [], "A": []}

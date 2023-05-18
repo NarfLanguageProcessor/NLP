@@ -1,0 +1,1 @@
+{"index": 216990, "D": "to march  faster or farther than.", "S": [], "A": []}

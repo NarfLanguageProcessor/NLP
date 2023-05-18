@@ -1,0 +1,1 @@
+{"index": 293583, "D": "to kill by violence.", "S": [], "A": []}

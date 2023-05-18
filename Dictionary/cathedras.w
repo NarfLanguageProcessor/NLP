@@ -1,0 +1,1 @@
+{"index": 49668, "D": [], "S": ["armchair ", "bench ", "recliner "], "A": []}

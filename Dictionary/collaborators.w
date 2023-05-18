@@ -1,0 +1,1 @@
+{"index": 62818, "D": "a person who works or cooperates with another on something; a coauthor, coproducer, etc.", "S": ["Trojan horse ", "collaborators of enemy ", "infiltrators ", "saboteurs ", "subversives ", "underground "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234745, "D": "of or relating to phonology, the study of the distribution and patterning of speech sounds in languages generally", "S": [], "A": []}

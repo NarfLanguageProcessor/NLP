@@ -1,0 +1,1 @@
+{"index": 359303, "D": "instinctive feelings supposedly influencing human communication", "S": ["atmosphere ", "aura ", "fate ", "feeling ", "kismet ", "power "], "A": []}

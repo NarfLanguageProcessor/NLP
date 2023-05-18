@@ -1,0 +1,1 @@
+{"index": 168632, "D": "any of numerous, chiefly Old World oscine birds, of the family Alaudidae, characterized by an unusually long, straight hind claw, especially the skylark, Alauda arvensis.", "S": [], "A": []}

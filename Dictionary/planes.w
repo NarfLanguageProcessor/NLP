@@ -1,0 +1,1 @@
+{"index": 238915, "D": "a flat or level surface.", "S": ["even ", "flat ", "flush ", "plain ", "regular ", "smooth ", "uniform "], "A": ["abnormal ", "broken ", "changing ", "different ", "extraordinary ", "inconsistent ", "irregular ", "rough ", "uncommon ", "uneven "]}

@@ -1,0 +1,1 @@
+{"index": 344692, "D": "the quality or state of being intellectual.", "S": [], "A": []}

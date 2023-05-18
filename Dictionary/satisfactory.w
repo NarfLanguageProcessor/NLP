@@ -1,0 +1,1 @@
+{"index": 278790, "D": "giving or affording satisfaction; fulfilling all demands or requirements", "S": ["adequate ", "decent ", "fair ", "good ", "gratifying ", "satisfying ", "solid ", "suitable ", "tolerable ", "valid "], "A": ["bad ", "inadequate ", "inappropriate ", "insufficient ", "intolerable ", "unacceptable ", "unreal ", "unreliable ", "unsuitable "]}

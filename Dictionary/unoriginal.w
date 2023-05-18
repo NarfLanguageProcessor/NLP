@@ -1,0 +1,1 @@
+{"index": 347239, "D": "not fresh and unusual", "S": ["conventional ", "counterfeit ", "derivative ", "imitative ", "musty ", "predictable ", "shopworn ", "stereotype ", "timeworn ", "trite ", "unimaginative "], "A": ["original "]}

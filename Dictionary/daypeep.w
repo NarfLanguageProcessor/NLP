@@ -1,0 +1,1 @@
+{"index": 76363, "D": [], "S": ["dawning ", "daybreak ", "daylight ", "morning "], "A": ["darkness ", "sunset "]}

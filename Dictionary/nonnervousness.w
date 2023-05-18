@@ -1,0 +1,1 @@
+{"index": 205480, "D": "the state or condition of being highly, acutely, or unnaturally uneasy or excitable", "S": [], "A": []}

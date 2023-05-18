@@ -1,0 +1,1 @@
+{"index": 138488, "D": "pertaining to or containing hydrogen.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172814, "D": "a Bantu language used as a lingua franca in the N Democratic Republic of the Congo.", "S": [], "A": []}

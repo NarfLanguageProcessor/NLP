@@ -1,0 +1,1 @@
+{"index": 222585, "D": "a person, group, or organization that is the most progressive or successful and serves as a model to be imitated.", "S": [], "A": []}

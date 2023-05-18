@@ -1,0 +1,1 @@
+{"index": 351696, "D": "having a special application, bearing, or reference; specifying, explicit, or definite", "S": [], "A": []}

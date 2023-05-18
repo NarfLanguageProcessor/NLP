@@ -1,0 +1,1 @@
+{"index": 272285, "D": "a mineral, manganese carbonate, MnCO3, commonly containing some iron and calcium, and usually rose-red in color", "S": [], "A": []}

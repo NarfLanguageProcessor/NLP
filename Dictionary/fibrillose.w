@@ -1,0 +1,1 @@
+{"index": 112008, "D": "a small or fine fiber or filament.", "S": [], "A": []}

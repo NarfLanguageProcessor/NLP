@@ -1,0 +1,1 @@
+{"index": 202915, "D": "to expel (an alien) from a country; banish.", "S": [], "A": []}

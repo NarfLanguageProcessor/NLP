@@ -1,0 +1,1 @@
+{"index": 145707, "D": "to bark sharply, shrilly, or snappishly; yelp.", "S": ["babbler ", "blabber ", "blowhard ", "chatterbox ", "chatterer ", "gasbag ", "gossiper ", "gossipmonger ", "jabberer ", "loudmouth ", "squealer ", "tattletale ", "windbag "], "A": []}

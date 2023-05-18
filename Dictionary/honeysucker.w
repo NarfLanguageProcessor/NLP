@@ -1,0 +1,1 @@
+{"index": 143378, "D": "a bird that feeds on the nectar of flowers.", "S": [], "A": []}

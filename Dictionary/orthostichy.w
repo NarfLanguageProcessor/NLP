@@ -1,0 +1,1 @@
+{"index": 215166, "D": "a vertical rank or row.", "S": [], "A": []}

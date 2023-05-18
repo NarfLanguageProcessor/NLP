@@ -1,0 +1,1 @@
+{"index": 244571, "D": "immediately following a vowel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 54967, "D": "a small bulbous plant, Allium schoenoprasum, related to the leek and onion, having long, slender leaves that are used as a seasoning.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344394, "D": "estimated to have a certain cash value, although no money has been received or credited.", "S": [], "A": []}

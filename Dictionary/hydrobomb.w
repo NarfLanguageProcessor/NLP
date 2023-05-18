@@ -1,0 +1,1 @@
+{"index": 138522, "D": "an aerial torpedo equipped with a rocket engine that propels it after the torpedo has entered the water.", "S": [], "A": []}

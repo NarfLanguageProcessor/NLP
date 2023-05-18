@@ -1,0 +1,1 @@
+{"index": 28281, "D": "any of several elongated, predaceous, tropical and subtropical marine fishes of the genus Sphyraena, certain species of which are used for food.", "S": [], "A": []}

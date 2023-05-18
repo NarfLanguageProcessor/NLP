@@ -1,0 +1,1 @@
+{"index": 137505, "D": "a genetic shift in timing of the development of a tissue or anatomical part, or in the onset of a physiological process, relative to an ancestor.", "S": [], "A": []}

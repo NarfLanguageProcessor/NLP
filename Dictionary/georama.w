@@ -1,0 +1,1 @@
+{"index": 124028, "D": "an encompassingly large, hollow globe on the inside of which is depicted a map of the earth's surface, to be viewed by a spectator within the globe.", "S": [], "A": []}

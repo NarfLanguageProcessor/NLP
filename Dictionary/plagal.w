@@ -1,0 +1,1 @@
+{"index": 238631, "D": "Compare authentic (def. 6a). ", "S": [], "A": []}

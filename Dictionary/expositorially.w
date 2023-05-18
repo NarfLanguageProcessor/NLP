@@ -1,0 +1,1 @@
+{"index": 107968, "D": "a person who expounds or gives an exposition.", "S": [], "A": []}

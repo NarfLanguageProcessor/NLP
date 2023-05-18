@@ -1,0 +1,1 @@
+{"index": 83540, "D": "a thing made for a particular purpose; an invention or contrivance, especially a mechanical or electrical one.", "S": ["gifted ", "ingenious ", "innovative ", "inventive ", "original ", "productive ", "prolific ", "visionary "], "A": ["fruitless ", "impotent ", "inept ", "old ", "uncreative ", "unfruitful ", "unproductive "]}

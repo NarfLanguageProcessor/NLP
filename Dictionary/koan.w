@@ -1,0 +1,1 @@
+{"index": 165789, "D": "a nonsensical or paradoxical question to a student for which an answer is demanded, the stress of meditation on the question often being illuminating.", "S": [], "A": []}

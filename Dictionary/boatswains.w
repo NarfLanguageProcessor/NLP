@@ -1,0 +1,1 @@
+{"index": 37029, "D": "a warrant officer on a warship, or a petty officer on a merchant vessel, in charge of rigging, anchors, cables, etc.", "S": [], "A": []}

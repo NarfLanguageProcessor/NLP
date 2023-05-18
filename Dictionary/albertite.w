@@ -1,0 +1,1 @@
+{"index": 7430, "D": "a black solid variety of bitumen that has a conchoidal fracture and occurs in veins in oil-bearing strata", "S": [], "A": []}

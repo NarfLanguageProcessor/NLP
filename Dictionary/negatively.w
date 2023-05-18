@@ -1,0 +1,1 @@
+{"index": 198020, "D": "expressing or containing negation or denial", "S": ["skeptically "], "A": []}

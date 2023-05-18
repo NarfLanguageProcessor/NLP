@@ -1,0 +1,1 @@
+{"index": 135555, "D": "a device for signaling by means of a movable mirror that reflects beams of light, especially sunlight, to a distance.", "S": [], "A": []}

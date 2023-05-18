@@ -1,0 +1,1 @@
+{"index": 253425, "D": "any of a group of enzymes that are capable of hydrolyzing proteins. ", "S": [], "A": []}

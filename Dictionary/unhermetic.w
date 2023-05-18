@@ -1,0 +1,1 @@
+{"index": 343674, "D": "made airtight by fusion or sealing.", "S": [], "A": []}

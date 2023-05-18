@@ -1,0 +1,1 @@
+{"index": 24837, "D": "something a person does in addition to a principal occupation, especially for pleasure; hobby", "S": ["pastime "], "A": ["boredom ", "work "]}

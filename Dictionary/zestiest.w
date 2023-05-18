@@ -1,0 +1,1 @@
+{"index": 369126, "D": "full of zest;  piquant", "S": ["effervescent ", "energetic ", "lively ", "peppy ", "perky "], "A": ["apathetic ", "inactive ", "lethargic ", "lifeless ", "tired ", "dull "]}

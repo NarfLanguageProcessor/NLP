@@ -1,0 +1,1 @@
+{"index": 110079, "D": "a bundle of rods containing an ax with the blade projecting, borne before Roman magistrates as an emblem of official power.", "S": [], "A": []}

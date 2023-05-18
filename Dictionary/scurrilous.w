@@ -1,0 +1,1 @@
+{"index": 282285, "D": "grossly or obscenely abusive", "S": ["defamatory ", "indecent ", "insulting ", "lewd ", "obscene ", "offending ", "outrageous ", "salacious ", "scandalous ", "slanderous "], "A": ["clean ", "decent ", "moral ", "pure "]}

@@ -1,0 +1,1 @@
+{"index": 28927, "D": "a structure, as at the seaside, containing dressing rooms for bathers. ", "S": [], "A": []}

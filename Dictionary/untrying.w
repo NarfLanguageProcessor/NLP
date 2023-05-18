@@ -1,0 +1,1 @@
+{"index": 353353, "D": "extremely annoying, difficult, or the like; straining one's patience and goodwill to the limit", "S": [], "A": []}

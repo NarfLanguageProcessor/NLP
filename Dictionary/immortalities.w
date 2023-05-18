@@ -1,0 +1,1 @@
+{"index": 148082, "D": "immortal  condition or quality; unending life.", "S": ["endurance ", "eternity ", "perpetuity ", "timelessness "], "A": []}

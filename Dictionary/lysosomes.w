@@ -1,0 +1,1 @@
+{"index": 173463, "D": "a cell organelle containing enzymes that digest particles and that disintegrate the cell after its death.", "S": [], "A": []}

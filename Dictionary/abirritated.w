@@ -1,0 +1,1 @@
+{"index": 474, "D": "to make less irritable; soothe.", "S": [], "A": []}

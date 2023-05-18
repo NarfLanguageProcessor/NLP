@@ -1,0 +1,1 @@
+{"index": 53846, "D": "to hold or treat as dear; feel love for", "S": [], "A": []}

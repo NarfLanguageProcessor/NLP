@@ -1,0 +1,1 @@
+{"index": 169701, "D": "at least;  at any rate.", "S": [], "A": []}

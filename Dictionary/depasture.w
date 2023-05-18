@@ -1,0 +1,1 @@
+{"index": 81529, "D": "to graze or denude by grazing (a pasture, esp a meadow specially grown for the purpose)", "S": [], "A": []}

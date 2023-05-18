@@ -1,0 +1,1 @@
+{"index": 305023, "D": "of or relating to stoichiometry. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 254366, "D": "a sere originating on sand or sandy soil.", "S": [], "A": []}

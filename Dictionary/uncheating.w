@@ -1,0 +1,1 @@
+{"index": 336781, "D": "to defraud; swindle", "S": [], "A": []}

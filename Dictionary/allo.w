@@ -1,0 +1,1 @@
+{"index": 8773, "D": "a combining form meaning \u201cother,\u201d used in the formation of compound words (allotrope) and in chemistry to denote the more stable of two geometric isomers.", "S": [], "A": []}

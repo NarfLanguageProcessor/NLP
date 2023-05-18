@@ -1,0 +1,1 @@
+{"index": 329716, "D": "a person or thing that tries  or tests; tester.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 337488, "D": "not involved or interested; disinterested. ", "S": ["haphazardly ", "hastily ", "irresponsibly ", "negligently ", "nonchalantly ", "sloppily "], "A": []}

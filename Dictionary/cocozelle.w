@@ -1,0 +1,1 @@
+{"index": 61646, "D": "a variety of summer squash having a dark-green skin that is usually striped with light green or yellow.", "S": [], "A": []}

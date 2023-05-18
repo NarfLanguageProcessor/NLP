@@ -1,0 +1,1 @@
+{"index": 199346, "D": "granular snow accumulated on high mountains and subsequently compacted into glacial ice.", "S": [], "A": []}

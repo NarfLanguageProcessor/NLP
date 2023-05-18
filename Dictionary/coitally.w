@@ -1,0 +1,1 @@
+{"index": 62583, "D": "of, by means of, or relating to sexual intercourse,  especially between a man and a woman", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 135094, "D": "a book of the New Testament. Abbreviation", "S": [], "A": []}

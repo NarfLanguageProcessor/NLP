@@ -1,0 +1,1 @@
+{"index": 367875, "D": "to inflict or execute (punishment, vengeance, etc.)", "S": [], "A": []}

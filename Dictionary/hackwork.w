@@ -1,0 +1,1 @@
+{"index": 131912, "D": "writing, painting, or any professional work  done for hire and usually following a formula rather than being motivated by any creative impulse.", "S": [], "A": []}

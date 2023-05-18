@@ -1,0 +1,1 @@
+{"index": 118142, "D": "broken; having a part displaced.", "S": [], "A": []}

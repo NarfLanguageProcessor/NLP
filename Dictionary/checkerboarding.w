@@ -1,0 +1,1 @@
+{"index": 53332, "D": "a board  marked off into 64 squares of two alternating colors, arranged in eight vertical and eight horizontal rows, on which checkers  or chess is played.", "S": [], "A": []}

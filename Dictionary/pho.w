@@ -1,0 +1,1 @@
+{"index": 234549, "D": "a N Vietnamese soup made of beef or chicken stock with rice noodles and thin slices of beef or chicken.", "S": [], "A": []}

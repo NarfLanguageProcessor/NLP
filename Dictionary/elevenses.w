@@ -1,0 +1,1 @@
+{"index": 97507, "D": "a midmorning break for refreshments", "S": [], "A": []}

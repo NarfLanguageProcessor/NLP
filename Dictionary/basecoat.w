@@ -1,0 +1,1 @@
+{"index": 28496, "D": "a first coat  of a surfacing material, as paint.", "S": ["skim coat "], "A": []}

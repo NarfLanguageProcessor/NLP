@@ -1,0 +1,1 @@
+{"index": 216108, "D": "away from, or not in, the normal or usual place, position, state, etc.", "S": ["away ", "outside "], "A": ["animated ", "existing ", "incomplete ", "interested ", "modern ", "new ", "saved ", "stored ", "unfinished ", "warm "]}

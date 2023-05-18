@@ -1,0 +1,1 @@
+{"index": 231588, "D": "any of the proteins that mediate the transport of various molecules across biological membranes.", "S": [], "A": []}

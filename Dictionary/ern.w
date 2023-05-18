@@ -1,0 +1,1 @@
+{"index": 103878, "D": "an adjective suffix occurring with names of directions", "S": [], "A": []}

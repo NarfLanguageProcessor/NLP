@@ -1,0 +1,1 @@
+{"index": 212538, "D": "present everywhere at the same time", "S": ["existence "], "A": ["absence ", "agitation ", "confusion ", "distance ", "distress ", "reality ", "upset "]}

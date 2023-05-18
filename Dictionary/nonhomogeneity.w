@@ -1,0 +1,1 @@
+{"index": 204470, "D": "composition from like parts, elements, or characteristics; state or quality of being homogeneous. ", "S": [], "A": []}

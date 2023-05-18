@@ -1,0 +1,1 @@
+{"index": 95402, "D": "an anatomical model of part or all of the human body with the skin removed, to allow study of the underlying musculature.", "S": [], "A": []}

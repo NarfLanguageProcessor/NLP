@@ -1,0 +1,1 @@
+{"index": 168647, "D": "a hoe with a perforated blade for mixing mortar or plaster.", "S": [], "A": []}

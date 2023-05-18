@@ -1,0 +1,1 @@
+{"index": 269561, "D": "a tetrode with the grid connected to form a drift space for the electrons, formerly used to generate high power at very high frequency.", "S": [], "A": []}

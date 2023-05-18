@@ -1,0 +1,1 @@
+{"index": 149689, "D": [], "S": ["caged ", "enslaved ", "imprisoned ", "incommunicado "], "A": ["disillusioned ", "free ", "independent ", "loose ", "uninterested "]}

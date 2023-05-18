@@ -1,0 +1,1 @@
+{"index": 187046, "D": "to go from one country, region, or place to another.", "S": ["alien ", "colonist ", "displaced person ", "evacuee ", "expatriate ", "migrant ", "pilgrim ", "refugee ", "traveler "], "A": ["nationalist ", "native "]}

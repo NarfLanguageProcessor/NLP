@@ -1,0 +1,1 @@
+{"index": 22744, "D": "the number of atoms in a molecule of a gas.", "S": [], "A": []}

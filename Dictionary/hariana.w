@@ -1,0 +1,1 @@
+{"index": 133752, "D": "a state in NW India, formed in 1966 from the S part of Punjab. 17,074 sq. mi. (44,222 sq. km). Capital", "S": [], "A": []}

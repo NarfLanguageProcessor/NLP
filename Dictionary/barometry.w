@@ -1,0 +1,1 @@
+{"index": 28177, "D": "the process of measuring atmospheric pressure.", "S": [], "A": []}

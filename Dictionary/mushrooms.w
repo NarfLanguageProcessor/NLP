@@ -1,0 +1,1 @@
+{"index": 195978, "D": "any of various fleshy fungi including the toadstools, puffballs, coral fungi, morels, etc.", "S": ["blotter ", "candy ", "cubes ", "dot ", "hallucinogen ", "microdots ", "peyote "], "A": []}

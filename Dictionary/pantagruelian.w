@@ -1,0 +1,1 @@
+{"index": 224867, "D": "(in Rabelais' Pantagruel) the huge son of Gargantua, represented as dealing with serious matters in a spirit of broad and somewhat cynical good humor.", "S": [], "A": []}

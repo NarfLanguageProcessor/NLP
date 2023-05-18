@@ -1,0 +1,1 @@
+{"index": 238891, "D": "the process whereby an irregular land surface is made flat or level by erosion.", "S": [], "A": []}

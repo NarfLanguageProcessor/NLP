@@ -1,0 +1,1 @@
+{"index": 283181, "D": "to surge or foam as if boiling.", "S": ["boil ", "bristle ", "flare ", "fume ", "simmer ", "smolder "], "A": ["be happy ", "freeze "]}

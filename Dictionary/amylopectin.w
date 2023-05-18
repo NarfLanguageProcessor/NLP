@@ -1,0 +1,1 @@
+{"index": 10555, "D": "the insoluble or gel component of starch that forms a paste with water, but does not solidify, and that turns red in iodine.", "S": [], "A": []}

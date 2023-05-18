@@ -1,0 +1,1 @@
+{"index": 262717, "D": "to draw to or gather about a center. ", "S": [], "A": []}

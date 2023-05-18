@@ -1,0 +1,1 @@
+{"index": 287260, "D": "a rock of fissile or laminated structure formed by the consolidation of clay or argillaceous material.", "S": [], "A": []}

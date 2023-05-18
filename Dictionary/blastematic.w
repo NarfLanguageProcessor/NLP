@@ -1,0 +1,1 @@
+{"index": 35785, "D": "an aggregation of cells in an early embryo, capable of differentiation into specialized tissue and organs.", "S": [], "A": []}

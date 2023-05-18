@@ -1,0 +1,1 @@
+{"index": 52149, "D": "a horselike fossil of the genus Chalicotherium and related genera, common in Europe, Asia, and Africa during the Tertiary Period, having a sloping back and three-toed, clawed feet.", "S": [], "A": []}

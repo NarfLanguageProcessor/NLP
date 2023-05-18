@@ -1,0 +1,1 @@
+{"index": 114825, "D": "a tuftlike mass, as in a chemical precipitate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353255, "D": "having the nature of a transitive verb. ", "S": [], "A": []}

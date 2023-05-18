@@ -1,0 +1,1 @@
+{"index": 125389, "D": "of or relating to gypsum.", "S": [], "A": []}

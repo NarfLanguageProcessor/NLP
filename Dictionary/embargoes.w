@@ -1,0 +1,1 @@
+{"index": 97986, "D": "any restriction imposed upon commerce by edict, especially against a certain country as a penalty or to induce compliance with demands or legal obligations", "S": [], "A": []}

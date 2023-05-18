@@ -1,0 +1,1 @@
+{"index": 295263, "D": "any of various plants whose roots  have been regarded as a remedy for snakebites, as the herb Aristolochia serpentaria(Virginia snakeroot ), having a medicinal rhizome and rootlets, and the white-flowered Polygala senega(Seneca snakeroot ), having a medicinal root. ", "S": [], "A": []}

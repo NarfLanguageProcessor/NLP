@@ -1,0 +1,1 @@
+{"index": 271389, "D": "the act or work of revising. ", "S": ["alteration ", "amendment ", "improvement ", "modification ", "reconsideration ", "reexamination ", "review "], "A": ["worsening "]}

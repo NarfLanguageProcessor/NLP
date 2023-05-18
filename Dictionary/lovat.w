@@ -1,0 +1,1 @@
+{"index": 175533, "D": "a grayish blend of colors, especially of green, used in textiles, as for plaids.", "S": [], "A": []}

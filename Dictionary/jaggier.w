@@ -1,0 +1,1 @@
+{"index": 160100, "D": "jagged;  notched.", "S": [], "A": []}

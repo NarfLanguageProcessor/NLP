@@ -1,0 +1,1 @@
+{"index": 308029, "D": "below the freezing point. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 2403, "D": "having aciculae. ", "S": ["acerate ", "acerose ", "acicular ", "aciculate ", "acuminate ", "acute ", "cuspated ", "cuspidated ", "mucronate ", "needle-shaped ", "pointy ", "sharp "], "A": []}

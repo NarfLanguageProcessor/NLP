@@ -1,0 +1,1 @@
+{"index": 207591, "D": "an act or instance of submitting,  or yielding control to a more powerful or authoritative entity", "S": [], "A": []}

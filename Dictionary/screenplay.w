@@ -1,0 +1,1 @@
+{"index": 281718, "D": "a motion-picture or television scenario.", "S": ["cinema ", "feature ", "film ", "flick ", "motion picture ", "picture ", "show ", "videotape "], "A": []}

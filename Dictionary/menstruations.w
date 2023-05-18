@@ -1,0 +1,1 @@
+{"index": 183471, "D": "the periodic discharge of blood and mucosal tissue from the uterus, occurring approximately monthly from puberty to menopause in nonpregnant women and females of other primate species.", "S": ["bleeding ", "discharge ", "menses ", "monthlies "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71638, "D": "an arrangement by which freelancers or remote employees working for various companies share an office or other workspace (often used attributively)", "S": [], "A": []}

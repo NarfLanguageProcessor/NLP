@@ -1,0 +1,1 @@
+{"index": 82067, "D": "to render or leave free from restriction, esp a road from speed limits", "S": [], "A": []}

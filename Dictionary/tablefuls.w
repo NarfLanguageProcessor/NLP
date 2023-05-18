@@ -1,0 +1,1 @@
+{"index": 314835, "D": "the number of persons that can be seated at a table. ", "S": [], "A": []}

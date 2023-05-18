@@ -1,0 +1,1 @@
+{"index": 269046, "D": "to schedule  for another or later time", "S": ["adjourn ", "hold off ", "postpone ", "shelve ", "suspend "], "A": ["carry out ", "continue ", "do "]}

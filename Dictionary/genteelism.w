@@ -1,0 +1,1 @@
+{"index": 123677, "D": "a word or phrase used in place of another, supposedly less genteel  term", "S": [], "A": []}

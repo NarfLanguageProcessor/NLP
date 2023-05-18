@@ -1,0 +1,1 @@
+{"index": 330134, "D": "believing in or adhering to the doctrine of the Trinity.", "S": [], "A": []}

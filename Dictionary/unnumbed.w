@@ -1,0 +1,1 @@
+{"index": 346967, "D": "deprived of physical sensation or the ability to move", "S": [], "A": []}

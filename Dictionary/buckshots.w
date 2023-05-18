@@ -1,0 +1,1 @@
+{"index": 42101, "D": "a large size of lead shot  used in shotgun shells for hunting game, as pheasants or ducks.", "S": ["ammo ", "armament ", "bomb ", "bullet ", "cartridge ", "chemical ", "explosive ", "gunpowder ", "materiel ", "missile ", "munition ", "napalm ", "rocket ", "shrapnel ", "torpedo "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237293, "D": "a small nematode worm, Enterobius vermicularis, infesting the intestine and migrating to the rectum and anus, especially in children.", "S": [], "A": []}

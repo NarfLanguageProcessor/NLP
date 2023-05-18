@@ -1,0 +1,1 @@
+{"index": 42976, "D": "a brand of raincoat made of a waterproof, mercerized cotton fabric.", "S": [], "A": []}

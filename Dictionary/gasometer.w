@@ -1,0 +1,1 @@
+{"index": 122411, "D": "an apparatus for measuring and storing gas in a laboratory.", "S": [], "A": []}

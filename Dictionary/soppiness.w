@@ -1,0 +1,1 @@
+{"index": 297478, "D": "soaked, drenched, or very wet, as ground.", "S": [], "A": []}

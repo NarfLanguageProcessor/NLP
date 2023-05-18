@@ -1,0 +1,1 @@
+{"index": 151322, "D": "Compare inductive coupling, mutual inductance, self-inductance. ", "S": [], "A": []}

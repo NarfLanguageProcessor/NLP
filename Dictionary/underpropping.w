@@ -1,0 +1,1 @@
+{"index": 339647, "D": "to prop  underneath; support; uphold.", "S": ["brace ", "buttress ", "column ", "hold ", "prop ", "reinforcement ", "shore ", "stanchion ", "truss "], "A": ["abet ", "advance ", "assist ", "go ", "help ", "leave "]}

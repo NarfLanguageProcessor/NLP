@@ -1,0 +1,1 @@
+{"index": 111651, "D": "great intensity of feeling or belief; ardour; zeal", "S": [], "A": []}

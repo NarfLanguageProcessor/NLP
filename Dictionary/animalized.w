@@ -1,0 +1,1 @@
+{"index": 13187, "D": "to excite the animal  passions of; brutalize; sensualize.", "S": ["bastardize ", "bestialize ", "brutalize ", "debase ", "debauch ", "degrade ", "dehumanize ", "demoralize ", "deprave ", "stain ", "vitiate "], "A": ["clean ", "elevate ", "honor ", "improve ", "moralize ", "praise ", "purify ", "upgrade ", "value "]}

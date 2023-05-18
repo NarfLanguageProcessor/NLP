@@ -1,0 +1,1 @@
+{"index": 276635, "D": "a profoundly wise person; a person famed for wisdom.", "S": ["contemplative ", "cunning ", "enlightened ", "knowing ", "sharp ", "smart ", "sound ", "understanding "], "A": ["dull ", "kind ", "slow ", "stupid ", "unintelligent ", "unstylish "]}

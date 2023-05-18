@@ -1,0 +1,1 @@
+{"index": 291406, "D": "coincidence in time; contemporaneousness; simultaneousness.", "S": [], "A": []}

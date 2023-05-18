@@ -1,0 +1,1 @@
+{"index": 293240, "D": "the external covering or integument of an animal body, especially when soft and flexible.", "S": ["bark ", "coating ", "crust ", "fur ", "husk ", "jacket ", "membrane ", "rind ", "sheath ", "surface "], "A": ["core ", "center ", "inside ", "interior ", "middle "]}

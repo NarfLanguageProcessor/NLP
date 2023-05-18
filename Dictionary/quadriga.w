@@ -1,0 +1,1 @@
+{"index": 257598, "D": "a two-wheeled chariot drawn by four horses harnessed abreast.", "S": [], "A": []}

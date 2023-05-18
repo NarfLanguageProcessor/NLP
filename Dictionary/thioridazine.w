@@ -1,0 +1,1 @@
+{"index": 322019, "D": "a phenothiazine, C21H26N2S2, used as an antipsychotic chiefly in the treatment of acute psychoses and schizophrenia.", "S": [], "A": []}

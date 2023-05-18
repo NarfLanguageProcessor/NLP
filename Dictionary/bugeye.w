@@ -1,0 +1,1 @@
+{"index": 42293, "D": "a ketch-rigged sailing vessel used on Chesapeake Bay.", "S": [], "A": []}

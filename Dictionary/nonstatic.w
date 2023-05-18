@@ -1,0 +1,1 @@
+{"index": 207501, "D": "pertaining to or characterized by a fixed or stationary condition.", "S": [], "A": []}

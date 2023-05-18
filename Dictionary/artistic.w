@@ -1,0 +1,1 @@
+{"index": 20756, "D": "conforming to the standards of art;  satisfying aesthetic requirements", "S": ["aesthetic ", "creative ", "decorative ", "dramatic ", "imaginative ", "musical "], "A": ["ugly ", "uncreative ", "unimaginative "]}

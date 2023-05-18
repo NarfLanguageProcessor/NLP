@@ -1,0 +1,1 @@
+{"index": 342315, "D": "to render no longer fixed;  unfasten; detach; loosen; free.", "S": ["disassemble ", "disengage ", "disentangle ", "dissociate ", "isolate ", "segregate ", "separate ", "sever "], "A": ["associate ", "attach ", "combine ", "desegregate ", "join ", "unite ", "connect ", "couple ", "fasten ", "fix ", "hold ", "remain ", "stay "]}

@@ -1,0 +1,1 @@
+{"index": 298876, "D": "a plural of spectrum. ", "S": ["rainbow "], "A": []}

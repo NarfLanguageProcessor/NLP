@@ -1,0 +1,1 @@
+{"index": 70357, "D": "a shelter, coop, or small shed for sheep, pigs, pigeons, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304534, "D": "(in a large house) a room  for distilling or for the preparation of special foods and drinks.", "S": [], "A": []}

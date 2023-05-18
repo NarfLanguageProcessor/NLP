@@ -1,0 +1,1 @@
+{"index": 33763, "D": "the fact or condition of being large in size, extent, amount, etc.", "S": ["immensity "], "A": ["insignificance ", "smallness ", "tininess ", "unimportance "]}

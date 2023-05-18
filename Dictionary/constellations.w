@@ -1,0 +1,1 @@
+{"index": 67027, "D": "the section of the heavens occupied by such a group.", "S": ["circumstance ", "future ", "inevitability ", "intention ", "objective ", "prospect "], "A": ["concept ", "continuity ", "misfortune ", "theory ", "whole "]}

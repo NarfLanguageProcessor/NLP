@@ -1,0 +1,1 @@
+{"index": 167974, "D": "the practice under which privately owned property is leased or rented to others for occupancy or cultivation.", "S": [], "A": []}

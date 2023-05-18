@@ -1,0 +1,1 @@
+{"index": 210137, "D": "an object of artistic worth or curiosity, especially a small object.", "S": [], "A": []}

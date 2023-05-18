@@ -1,0 +1,1 @@
+{"index": 257855, "D": "a quaking bog; quaking sands", "S": ["active ", "animated ", "beating ", "bouncing ", "bounding ", "dynamic ", "hopping ", "hurdling ", "irregular ", "leaping ", "pulsating ", "quivering ", "shaking ", "skipping ", "springing ", "throbbing ", "trembling "], "A": ["inactive "]}

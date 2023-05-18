@@ -1,0 +1,1 @@
+{"index": 70750, "D": "a person or thing that demonstrates. ", "S": [], "A": []}

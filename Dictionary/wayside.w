@@ -1,0 +1,1 @@
+{"index": 362043, "D": "the side  of the way;  land immediately adjacent to a road, highway, path, etc.; roadside.", "S": ["at the curb ", "on the road "], "A": []}

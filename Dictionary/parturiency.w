@@ -1,0 +1,1 @@
+{"index": 227135, "D": "bearing or about to bear young; travailing.", "S": ["fertilization ", "germination ", "gestation ", "gravidity ", "gravidness ", "impregnation ", "propagation "], "A": []}

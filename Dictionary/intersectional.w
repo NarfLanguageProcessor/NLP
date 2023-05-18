@@ -1,0 +1,1 @@
+{"index": 155887, "D": "of or relating to to an intersection,  or a place where two or more roads, lines, or elements meet", "S": [], "A": []}

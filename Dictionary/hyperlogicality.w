@@ -1,0 +1,1 @@
+{"index": 140248, "D": "according to or agreeing with the principles of logic", "S": [], "A": []}

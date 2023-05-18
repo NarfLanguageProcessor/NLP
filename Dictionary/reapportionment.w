@@ -1,0 +1,1 @@
+{"index": 261910, "D": "the act of redistributing or changing the apportionment of something.", "S": [], "A": []}

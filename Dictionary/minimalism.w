@@ -1,0 +1,1 @@
+{"index": 187866, "D": "a reductive style or school of modern music utilizing only simple sonorities, rhythms, and patterns, with minimal  embellishment or orchestrational complexity, and characterized by protracted repetition of figurations, obsessive structural rigor, and often a pulsing, hypnotic effect.", "S": [], "A": []}

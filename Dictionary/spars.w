@@ -1,0 +1,1 @@
+{"index": 298500, "D": "a stout pole such as those used for masts, etc.; a mast, yard, boom, gaff, or the like.", "S": ["argue ", "quarrel "], "A": ["agree "]}

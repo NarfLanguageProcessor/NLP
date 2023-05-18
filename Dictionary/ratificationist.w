@@ -1,0 +1,1 @@
+{"index": 261032, "D": "the act of ratifying;  confirmation; sanction.", "S": [], "A": []}

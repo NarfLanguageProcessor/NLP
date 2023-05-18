@@ -1,0 +1,1 @@
+{"index": 131666, "D": "pronounced with guttural coarticulation.", "S": [], "A": []}

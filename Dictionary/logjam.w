@@ -1,0 +1,1 @@
+{"index": 174646, "D": "an immovable pileup or tangle of logs,  as in a river, causing a blockage.", "S": ["lag ", "moratorium ", "postponement ", "problem ", "setback ", "stoppage ", "suspension ", "wait "], "A": ["continuation ", "advance ", "aid ", "assistance ", "beginning ", "go ", "help ", "liberation ", "promotion ", "support "]}

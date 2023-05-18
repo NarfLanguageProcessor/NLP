@@ -1,0 +1,1 @@
+{"index": 210995, "D": "a series of tones, or of keys of an instrument, extending through this interval.", "S": [], "A": []}

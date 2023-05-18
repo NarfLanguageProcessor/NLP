@@ -1,0 +1,1 @@
+{"index": 32610, "D": "presented as a gift or privilege; given or conferred", "S": ["advanced ", "entrusted ", "given ", "granted ", "intrusted ", "leased ", "let "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 241990, "D": "containing two or more hydroxyl groups. ", "S": [], "A": []}

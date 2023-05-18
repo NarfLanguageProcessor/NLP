@@ -1,0 +1,1 @@
+{"index": 98935, "D": "effort or desire to equal or excel others.", "S": ["simulation "], "A": []}

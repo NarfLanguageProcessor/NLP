@@ -1,0 +1,1 @@
+{"index": 312028, "D": "something that incites or tends to incite to action or greater effort, as a reward offered for increased productivity.", "S": [], "A": []}

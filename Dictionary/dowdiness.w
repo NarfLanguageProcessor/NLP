@@ -1,0 +1,1 @@
+{"index": 92162, "D": "not stylish; drab; old-fashioned", "S": ["blandness ", "boringness ", "colorlessness ", "dinginess ", "dreariness ", "dryness ", "flatness ", "flavorlessness ", "gloominess ", "insipidity ", "insipidness ", "jejuneness ", "lifelessness ", "stodginess ", "vapidity ", "vapidness "], "A": []}

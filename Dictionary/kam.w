@@ -1,0 +1,1 @@
+{"index": 162952, "D": "a Kam-Tai language spoken in southern China.", "S": [], "A": []}

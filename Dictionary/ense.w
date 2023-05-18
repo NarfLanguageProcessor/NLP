@@ -1,0 +1,1 @@
+{"index": 100971, "D": "by the sword she seeks quiet peace under liberty", "S": [], "A": []}

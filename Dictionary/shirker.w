@@ -1,0 +1,1 @@
+{"index": 288496, "D": "a person who evades work, duty, responsibility, etc.", "S": ["deadbeat ", "goldbrick ", "good-for-nothing ", "goof-off ", "idler ", "loafer ", "quitter ", "slouch "], "A": ["hard worker "]}

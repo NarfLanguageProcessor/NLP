@@ -1,0 +1,1 @@
+{"index": 234742, "D": "the study of the distribution and patterning of speech sounds in a language and of the tacit rules governing pronunciation.", "S": ["accent ", "diction ", "utterance "], "A": []}

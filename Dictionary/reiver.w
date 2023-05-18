@@ -1,0 +1,1 @@
+{"index": 266574, "D": "to rob; plunder.", "S": [], "A": []}

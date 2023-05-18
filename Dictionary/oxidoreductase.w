@@ -1,0 +1,1 @@
+{"index": 222296, "D": "any of a class of enzymes that act as a catalyst, some of them conjointly, causing the oxidation and reduction of compounds.", "S": [], "A": []}

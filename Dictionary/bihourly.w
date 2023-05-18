@@ -1,0 +1,1 @@
+{"index": 33806, "D": "occurring every two hours.", "S": [], "A": []}

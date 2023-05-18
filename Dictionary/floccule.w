@@ -1,0 +1,1 @@
+{"index": 114842, "D": "something resembling a small flock or tuft of wool.", "S": [], "A": []}

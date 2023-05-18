@@ -1,0 +1,1 @@
+{"index": 16789, "D": "Of or relating to an igneous rock in which the crystals are so fine that individual minerals cannot be distinguished with the naked eye. Aphanitic rocks are extrusive rocks that cooled so quickly that crystal growth was inhibited. Compare  phaneritic.", "S": [], "A": []}

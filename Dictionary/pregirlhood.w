@@ -1,0 +1,1 @@
+{"index": 247714, "D": "the state or time of being a girl. ", "S": [], "A": []}

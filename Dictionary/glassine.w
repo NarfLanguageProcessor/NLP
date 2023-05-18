@@ -1,0 +1,1 @@
+{"index": 125981, "D": "a strong, thin, glazed, semitransparent paper, often made into small bags, used for packaging foods, for book jackets, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195684, "D": "the killing of a human being in a secret manner.", "S": [], "A": []}

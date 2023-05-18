@@ -1,0 +1,1 @@
+{"index": 343463, "D": "shaped, formed, or ornamented by a metalworker's hammer", "S": [], "A": []}

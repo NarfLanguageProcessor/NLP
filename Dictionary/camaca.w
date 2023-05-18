@@ -1,0 +1,1 @@
+{"index": 45539, "D": "a heavy fabric of silk or mixed fibers, much used in the Middle Ages.", "S": [], "A": []}

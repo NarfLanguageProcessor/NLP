@@ -1,0 +1,1 @@
+{"index": 186012, "D": "a mineral of the feldspar group, potassium aluminum silicate, KAlSi3O8, identical in composition with orthoclase but having triclinic instead of monoclinic crystals, used in making porcelain.", "S": [], "A": []}

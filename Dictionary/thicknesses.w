@@ -1,0 +1,1 @@
+{"index": 321708, "D": "the state or quality of being thick. ", "S": ["density "], "A": ["slenderness ", "slimness ", "thinness "]}

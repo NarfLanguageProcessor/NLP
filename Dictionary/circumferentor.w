@@ -1,0 +1,1 @@
+{"index": 58121, "D": "an alidade equipped with a compass and two diametrically opposed vertical arms with slits for sighting through.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200241, "D": "a palm, Nypa fruticans, of India, the Philippines, etc., whose foliage is used for thatching, basketry, etc.", "S": [], "A": []}

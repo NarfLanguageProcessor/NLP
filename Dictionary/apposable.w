@@ -1,0 +1,1 @@
+{"index": 17870, "D": "capable of being apposed or brought into apposition", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20146, "D": "(used as an expression of surprise or excitement.)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272376, "D": "to change (a sound) to an (r); subject to rhotacism. ", "S": [], "A": []}

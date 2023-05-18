@@ -1,0 +1,1 @@
+{"index": 19935, "D": "a person entitled to armorial bearings.", "S": [], "A": []}

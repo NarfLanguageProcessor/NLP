@@ -1,0 +1,1 @@
+{"index": 325224, "D": "(in Japanese architecture) a shallow alcove for the display of kakemonos or flower arrangements.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283993, "D": "conventional  quality or character.", "S": [], "A": []}

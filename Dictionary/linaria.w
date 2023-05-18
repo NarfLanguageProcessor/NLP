@@ -1,0 +1,1 @@
+{"index": 172670, "D": "any of various plants belonging to the genus Linaria, of the figwort family, especially of the cultivated species, as L. maroccana or L. aeruginea, having slender clusters of spurred flowers in a variety of colors.", "S": [], "A": []}

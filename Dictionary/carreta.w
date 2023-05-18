@@ -1,0 +1,1 @@
+{"index": 48496, "D": "a simple two-wheeled oxcart.", "S": [], "A": []}

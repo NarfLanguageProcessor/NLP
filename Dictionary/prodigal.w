@@ -1,0 +1,1 @@
+{"index": 251527, "D": "wastefully or recklessly extravagant", "S": ["profligate ", "spendthrift ", "squandering ", "wanton "], "A": ["careful ", "moral ", "nice "]}

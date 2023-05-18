@@ -1,0 +1,1 @@
+{"index": 15677, "D": "the policy or advocacy of maintaining strict neutrality  in foreign affairs.", "S": [], "A": []}

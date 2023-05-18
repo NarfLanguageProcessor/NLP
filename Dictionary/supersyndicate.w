@@ -1,0 +1,1 @@
+{"index": 312670, "D": "a group of individuals or organizations combined or making a joint effort to undertake some specific duty or carry out specific transactions or negotiations", "S": [], "A": []}

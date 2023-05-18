@@ -1,0 +1,1 @@
+{"index": 9845, "D": "a Japanese diver, usually a woman, who tends underwater oyster beds used in the cultivation of pearls.", "S": [], "A": []}

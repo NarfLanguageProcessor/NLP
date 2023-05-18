@@ -1,0 +1,1 @@
+{"index": 237645, "D": "a mountain range between Spain and France. Highest peak, Pic de N\u00e9thou, 11,165 feet (3,400 meters).", "S": [], "A": []}

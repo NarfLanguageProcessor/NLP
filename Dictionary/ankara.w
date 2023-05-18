@@ -1,0 +1,1 @@
+{"index": 13392, "D": "a city in and the capital of Turkey, in the central part.", "S": [], "A": []}

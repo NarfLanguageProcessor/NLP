@@ -1,0 +1,1 @@
+{"index": 77372, "D": "stunned or stupefied, as by a blow or shock", "S": ["bewildered ", "disoriented ", "stunned "], "A": ["oriented ", "understanding "]}

@@ -1,0 +1,1 @@
+{"index": 308459, "D": "a partial dislocation, as of a joint; sprain.", "S": [], "A": []}

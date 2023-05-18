@@ -1,0 +1,1 @@
+{"index": 269214, "D": "to keep apart or divide, as by an intervening barrier or space", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37867, "D": "a person who treats or sets fractures, broken or dislocated bones,  or the like, especially one who is not a regular physician or surgeon; healer.", "S": [], "A": []}

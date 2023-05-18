@@ -1,0 +1,1 @@
+{"index": 195690, "D": "a river in SE central Europe, flowing W from the Carpathian Mountains in central Romania to the Tisza River in S Hungary. 400 miles (645 km) long.", "S": ["block off ", "encase ", "encircle ", "encompass ", "hem in ", "insert ", "wrap "], "A": ["exclude ", "face ", "free ", "let go ", "liberate ", "meet ", "reject ", "release ", "reveal ", "set free "]}

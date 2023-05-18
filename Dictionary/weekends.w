@@ -1,0 +1,1 @@
+{"index": 363767, "D": "every weekend;  on or during weekends", "S": ["appointment ", "call ", "evening ", "holiday ", "interview ", "sojourn ", "stay ", "stop ", "stopover ", "talk ", "tarriance ", "vacation ", "visitation "], "A": []}

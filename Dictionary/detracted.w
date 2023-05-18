@@ -1,0 +1,1 @@
+{"index": 83272, "D": "to take away a part, as from quality, value, or reputation (usually followed by from).", "S": ["draw away "], "A": ["commend ", "compliment ", "develop ", "enlarge ", "exaggerate ", "exalt ", "expand ", "extend ", "grow ", "increase ", "laud ", "overestimate ", "overrate ", "overvalue ", "praise ", "raise ", "upgrade ", "value "]}

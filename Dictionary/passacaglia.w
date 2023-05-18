@@ -1,0 +1,1 @@
+{"index": 227254, "D": "a slow, dignified dance of Spanish origin.", "S": [], "A": []}

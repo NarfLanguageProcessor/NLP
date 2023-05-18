@@ -1,0 +1,1 @@
+{"index": 311408, "D": "providing pleasure or delight, especially in appearance or manner; pleasing; charming; alluring", "S": [], "A": []}

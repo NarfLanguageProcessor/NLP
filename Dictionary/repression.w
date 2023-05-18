@@ -1,0 +1,1 @@
+{"index": 268529, "D": "the act of repressing;  state of being repressed. ", "S": ["oppression ", "suppression "], "A": ["freedom ", "liberty "]}

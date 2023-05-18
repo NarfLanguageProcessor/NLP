@@ -1,0 +1,1 @@
+{"index": 109603, "D": "thorough knowledge or mastery of a thing, subject, etc.", "S": ["boldness ", "closeness ", "freshness ", "intimacy "], "A": ["difficulty ", "imprisonment ", "incarceration ", "restraint ", "restriction "]}

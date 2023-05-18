@@ -1,0 +1,1 @@
+{"index": 135633, "D": "a takeoff and landing area for helicopters, usually without commercial facilities.", "S": ["airfield ", "airstrip ", "installation ", "runway "], "A": []}

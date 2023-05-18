@@ -1,0 +1,1 @@
+{"index": 100027, "D": "noting or pertaining to a chemical change that is accompanied by an absorption of heat (opposed to exothermic).", "S": [], "A": []}

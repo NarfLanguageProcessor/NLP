@@ -1,0 +1,1 @@
+{"index": 269056, "D": "the act of rescinding. ", "S": ["U-turn ", "annulment ", "cancellation ", "recall ", "repeal ", "retraction ", "revocation ", "switch ", "turnabout ", "turnaround ", "volte-face "], "A": ["approval ", "enactment ", "restoration ", "validation "]}

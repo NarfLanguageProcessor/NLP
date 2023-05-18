@@ -1,0 +1,1 @@
+{"index": 181535, "D": "of or being a maximum;  greatest possible; highest.", "S": ["best ", "biggest ", "greatest ", "largest ", "most ", "mostest ", "outside ", "paramount ", "superlative ", "supreme ", "top ", "topmost ", "ultimate ", "utmost ", "uttermost "], "A": []}

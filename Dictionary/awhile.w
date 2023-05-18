@@ -1,0 +1,1 @@
+{"index": 25019, "D": "for a short time or period", "S": ["briefly ", "for a bit ", "for a little while ", "for a moment ", "for a spell ", "for a while ", "for the moment ", "momentarily ", "not for long ", "temporarily ", "transiently "], "A": []}

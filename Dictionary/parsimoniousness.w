@@ -1,0 +1,1 @@
+{"index": 226892, "D": "characterized by or showing parsimony;  frugal or stingy.", "S": ["moderation ", "prudence ", "thrift "], "A": ["spending ", "squandering "]}

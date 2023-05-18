@@ -1,0 +1,1 @@
+{"index": 348663, "D": "adjusted to proper proportion  or relation.", "S": [], "A": []}

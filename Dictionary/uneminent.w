@@ -1,0 +1,1 @@
+{"index": 341179, "D": "high in station, rank, or repute; prominent; distinguished", "S": [], "A": []}

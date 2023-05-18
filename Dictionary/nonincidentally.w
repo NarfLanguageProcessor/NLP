@@ -1,0 +1,1 @@
+{"index": 204640, "D": "happening or likely to happen in an unplanned or subordinate conjunction with something else.", "S": [], "A": []}

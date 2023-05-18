@@ -1,0 +1,1 @@
+{"index": 75223, "D": "the material forming a curb,  as along a street.", "S": ["check ", "confinement ", "constraint ", "curb ", "curbing ", "fetter ", "fetters ", "limit ", "limitation ", "restraint ", "trammel ", "trammels "], "A": ["allowance ", "freedom ", "infinity ", "liberation ", "permission "]}

@@ -1,0 +1,1 @@
+{"index": 155828, "D": "the act of interrogating;  questioning.", "S": ["cross-examination ", "examination ", "inquiry ", "investigation "], "A": []}

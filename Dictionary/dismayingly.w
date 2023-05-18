@@ -1,0 +1,1 @@
+{"index": 88639, "D": "to break down the courage of completely, as by sudden danger or trouble; dishearten thoroughly; daunt", "S": [], "A": []}

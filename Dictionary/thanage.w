@@ -1,0 +1,1 @@
+{"index": 320565, "D": "the tenure by which lands were held by a thane.", "S": [], "A": []}

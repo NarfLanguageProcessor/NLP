@@ -1,0 +1,1 @@
+{"index": 242775, "D": "a slow dance of Polish origin, in triple meter, consisting chiefly of a march or promenade in couples.", "S": [], "A": []}

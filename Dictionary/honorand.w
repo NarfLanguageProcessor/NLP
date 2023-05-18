@@ -1,0 +1,1 @@
+{"index": 143429, "D": "the recipient of an honor, especially an honorary university degree.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309487, "D": "(of a malarial fever, etc.) characterized by paroxysms that recur every other day.", "S": [], "A": []}

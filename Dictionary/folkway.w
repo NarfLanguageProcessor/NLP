@@ -1,0 +1,1 @@
+{"index": 115960, "D": "the ways of living, thinking, and acting in a human group, built up without conscious design but serving as compelling guides of conduct.", "S": ["civilization ", "development ", "folklore ", "habit ", "knowledge ", "lifestyle ", "society ", "way of life "], "A": []}

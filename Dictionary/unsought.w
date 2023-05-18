@@ -1,0 +1,1 @@
+{"index": 351627, "D": "simple past tense and past participle of seek. ", "S": ["undesirable ", "undesired ", "unrequested ", "unsolicited "], "A": []}

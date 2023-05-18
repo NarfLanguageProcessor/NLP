@@ -1,0 +1,1 @@
+{"index": 172930, "D": "one of the rings or separate pieces of which a chain is composed.", "S": ["association ", "channel ", "contact ", "element ", "hookup ", "network ", "relationship ", "tie "], "A": ["line ", "whole "]}

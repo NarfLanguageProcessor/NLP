@@ -1,0 +1,1 @@
+{"index": 144566, "D": "to dig (out or up)", "S": [], "A": []}

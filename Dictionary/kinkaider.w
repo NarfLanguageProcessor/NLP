@@ -1,0 +1,1 @@
+{"index": 164939, "D": "a person who received free land under the provisions of the Kinkaid Act.", "S": [], "A": []}

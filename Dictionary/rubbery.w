@@ -1,0 +1,1 @@
+{"index": 275095, "D": "like rubber;  elastic; tough.", "S": ["buoyant ", "strong ", "supple ", "tough ", "volatile "], "A": ["delicate ", "weak "]}

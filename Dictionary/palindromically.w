@@ -1,0 +1,1 @@
+{"index": 223871, "D": "a word, line, verse, number, sentence, etc., reading the same backward as forward, as Madam, I'm Adam or Poor Dan is in a droop.", "S": [], "A": []}

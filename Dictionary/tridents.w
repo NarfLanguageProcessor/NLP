@@ -1,0 +1,1 @@
+{"index": 329666, "D": "a three-pronged instrument or weapon.", "S": ["bayonet ", "blade ", "dart ", "harpoon ", "skewer "], "A": []}

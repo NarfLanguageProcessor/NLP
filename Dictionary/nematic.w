@@ -1,0 +1,1 @@
+{"index": 198214, "D": "noting a mesomorphic state in which the arrangement of the molecules is linear.", "S": [], "A": []}

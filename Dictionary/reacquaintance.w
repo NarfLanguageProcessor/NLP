@@ -1,0 +1,1 @@
+{"index": 261503, "D": "a person known to one, but usually not a close friend.", "S": [], "A": []}

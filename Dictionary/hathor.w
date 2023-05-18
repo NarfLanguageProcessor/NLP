@@ -1,0 +1,1 @@
+{"index": 134235, "D": "the goddess of love and joy, often represented with the head, horns, or ears of a cow.", "S": [], "A": []}

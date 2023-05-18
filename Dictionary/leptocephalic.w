@@ -1,0 +1,1 @@
+{"index": 170724, "D": "having a narrow skull", "S": [], "A": []}

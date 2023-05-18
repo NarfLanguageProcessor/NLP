@@ -1,0 +1,1 @@
+{"index": 301287, "D": "active; nimble; agile; energetic; brisk.", "S": ["cleverness ", "dexterity ", "quickness ", "sharpness ", "swiftness "], "A": ["slowing ", "slowness ", "sluggishness "]}

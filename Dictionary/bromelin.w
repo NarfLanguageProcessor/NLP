@@ -1,0 +1,1 @@
+{"index": 41248, "D": "a protein-digesting enzyme (see endopeptidase) found in pineapple and extracted for use in treating joint pain and inflammation, hay fever, and various other conditions", "S": [], "A": []}

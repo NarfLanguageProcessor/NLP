@@ -1,0 +1,1 @@
+{"index": 97120, "D": "a device consisting of an iron or steel core that is magnetized by electric current in a coil that surrounds it.", "S": [], "A": []}

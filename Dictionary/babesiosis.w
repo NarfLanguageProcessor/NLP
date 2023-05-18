@@ -1,0 +1,1 @@
+{"index": 25501, "D": "any of several tick-borne diseases of cattle, dogs, horses, sheep, and swine, caused by a babesia  protozoan and characterized by fever and languor.", "S": [], "A": []}

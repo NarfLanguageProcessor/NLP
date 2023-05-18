@@ -1,0 +1,1 @@
+{"index": 49250, "D": "a physical condition usually associated with catatonic schizophrenia, characterized by suspension of sensation, muscular rigidity, fixity of posture, and often by loss of contact with environment.", "S": [], "A": []}

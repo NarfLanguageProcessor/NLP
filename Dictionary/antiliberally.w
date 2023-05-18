@@ -1,0 +1,1 @@
+{"index": 15437, "D": "in a way that is favorable to progress or reform, or that reflects the views of a political party advocating this", "S": [], "A": []}

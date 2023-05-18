@@ -1,0 +1,1 @@
+{"index": 135538, "D": "a brand of photograph reproducing directly the natural colors of a subject.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29719, "D": "an alkaloid resembling quinine, obtained from the bark of the greenheart and other plants.", "S": [], "A": []}

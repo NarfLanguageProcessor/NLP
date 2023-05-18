@@ -1,0 +1,1 @@
+{"index": 325611, "D": "a breed of medium-sized cat with almond-shaped aqua-coloured eyes and a soft silky coat", "S": [], "A": []}

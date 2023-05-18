@@ -1,0 +1,1 @@
+{"index": 89985, "D": "(in inorganic chemistry) a sulfide  containing two atoms of sulfur, as carbon disulfide,  CS2.", "S": [], "A": []}

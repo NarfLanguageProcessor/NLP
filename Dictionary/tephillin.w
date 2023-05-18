@@ -1,0 +1,1 @@
+{"index": 319150, "D": "the phylacteries.", "S": [], "A": []}

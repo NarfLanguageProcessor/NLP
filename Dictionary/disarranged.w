@@ -1,0 +1,1 @@
+{"index": 87081, "D": "to disturb the arrangement of; disorder; unsettle.", "S": ["chaotic ", "disorganized ", "messy "], "A": ["ordered ", "organized ", "systematic "]}

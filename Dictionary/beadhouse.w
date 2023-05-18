@@ -1,0 +1,1 @@
+{"index": 29388, "D": "(formerly) an almshouse in which the residents were required to pray for the founder.", "S": [], "A": []}

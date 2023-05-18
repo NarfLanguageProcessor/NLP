@@ -1,0 +1,1 @@
+{"index": 152625, "D": "having inhabitants;  occupied; lived in or on", "S": ["developed ", "owned ", "populated ", "populous ", "settled "], "A": []}

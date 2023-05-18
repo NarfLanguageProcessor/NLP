@@ -1,0 +1,1 @@
+{"index": 369427, "D": "(formerly) a zinc  plate produced by zincography. ", "S": [], "A": []}

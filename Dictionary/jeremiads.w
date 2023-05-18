@@ -1,0 +1,1 @@
+{"index": 160910, "D": "a prolonged lamentation or mournful complaint.", "S": ["diatribe ", "screed "], "A": ["approval ", "compliment ", "flattery ", "praise "]}

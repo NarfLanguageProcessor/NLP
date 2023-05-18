@@ -1,0 +1,1 @@
+{"index": 151179, "D": "to make individual  or distinctive; give an individual  or distinctive character to.", "S": ["character ", "ego ", "identity ", "individuality ", "myself ", "person ", "personality "], "A": ["other "]}

@@ -1,0 +1,1 @@
+{"index": 147760, "D": "to stain", "S": ["cast ", "color ", "dye ", "elixir ", "extract ", "imbue ", "pigment ", "shade ", "stain ", "taint ", "tinge ", "tint ", "trace ", "vestige "], "A": ["cleanliness ", "white "]}

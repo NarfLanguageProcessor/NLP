@@ -1,0 +1,1 @@
+{"index": 110941, "D": "a movement made in order to deceive an adversary; an attack aimed at one place or point merely as a distraction from the real place or point of attack", "S": ["ruse "], "A": ["frankness ", "honesty ", "openness ", "reality ", "truth ", "truthfulness "]}

@@ -1,0 +1,1 @@
+{"index": 332135, "D": "the third day of the week, following Monday.", "S": [], "A": []}

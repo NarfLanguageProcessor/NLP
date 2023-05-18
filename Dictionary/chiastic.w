@@ -1,0 +1,1 @@
+{"index": 54078, "D": "characterized by chiasmus.", "S": [], "A": []}

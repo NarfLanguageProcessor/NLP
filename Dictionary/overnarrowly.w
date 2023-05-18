@@ -1,0 +1,1 @@
+{"index": 220320, "D": "of little breadth or width; not broad or wide; not as wide as usual or expected", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195369, "D": "(of a building) having several or many stories. ", "S": [], "A": []}

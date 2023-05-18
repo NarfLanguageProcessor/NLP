@@ -1,0 +1,1 @@
+{"index": 319109, "D": "the holding or possessing of anything", "S": ["administration ", "occupation ", "ownership ", "regime ", "reign ", "term "], "A": ["misconception ", "misunderstanding ", "release "]}

@@ -1,0 +1,1 @@
+{"index": 230867, "D": "of or relating to Pericles or to the period (Periclean Age ) when Athens was intellectually, artistically, and materially preeminent.", "S": [], "A": []}

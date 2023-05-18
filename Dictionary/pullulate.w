@@ -1,0 +1,1 @@
+{"index": 256286, "D": "to send forth sprouts, buds, etc.; germinate; sprout.", "S": ["abound ", "bear ", "brim ", "bristle ", "burst ", "bustle ", "crawl ", "crowd ", "flow ", "grow ", "jam ", "overflow ", "overrun ", "pack ", "pour ", "produce ", "prosper ", "rain ", "shower ", "swarm ", "swell "], "A": ["fail ", "lose ", "retreat "]}

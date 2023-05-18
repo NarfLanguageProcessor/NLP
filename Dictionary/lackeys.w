@@ -1,0 +1,1 @@
+{"index": 166956, "D": "a servile follower; toady.", "S": ["attendant ", "butler ", "domestic ", "drudge ", "factotum ", "flunky ", "retainer ", "steward ", "subordinate ", "underling ", "valet "], "A": ["boss ", "master "]}

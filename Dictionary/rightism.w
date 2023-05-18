@@ -1,0 +1,1 @@
+{"index": 272828, "D": "conservatism, especially in politics.", "S": [], "A": []}

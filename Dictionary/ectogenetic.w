@@ -1,0 +1,1 @@
+{"index": 95522, "D": "development outside the body, as of an embryo in an artificial environment.", "S": [], "A": []}

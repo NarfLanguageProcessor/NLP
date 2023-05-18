@@ -1,0 +1,1 @@
+{"index": 113279, "D": "the process by which snow changes into n\u00e9v\u00e9.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96545, "D": "a circuit made by an itinerant judge (justice in eyre ) in medieval England.", "S": [], "A": []}

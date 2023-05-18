@@ -1,0 +1,1 @@
+{"index": 181213, "D": "a family, society, community, or state governed by women.", "S": [], "A": []}

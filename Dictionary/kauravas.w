@@ -1,0 +1,1 @@
+{"index": 163434, "D": "(in the Mahabharata) the cousins and enemies of the Pandavas.", "S": [], "A": []}

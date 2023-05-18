@@ -1,0 +1,1 @@
+{"index": 250108, "D": "predominant", "S": ["current ", "predominant ", "prevalent ", "rampant ", "universal ", "usual "], "A": ["limited ", "uncommon ", "unfixed "]}

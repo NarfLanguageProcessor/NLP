@@ -1,0 +1,1 @@
+{"index": 163660, "D": "the note  or tone on which a key  or system of tones is founded; the tonic.", "S": [], "A": []}

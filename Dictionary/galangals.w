@@ -1,0 +1,1 @@
+{"index": 121151, "D": "the aromatic rhizome of certain eastern Asian plants belonging to the genus Alpinia, of the ginger family, used medicinally and in Southeast Asian cuisine.", "S": [], "A": []}

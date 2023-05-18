@@ -1,0 +1,1 @@
+{"index": 169273, "D": "a whitefish, Coregonus lavaretus, found in the lakes of central Europe.", "S": [], "A": []}

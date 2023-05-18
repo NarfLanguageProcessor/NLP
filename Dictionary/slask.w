@@ -1,0 +1,1 @@
+{"index": 293706, "D": "Polish name of Silesia. ", "S": [], "A": []}

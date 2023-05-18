@@ -1,0 +1,1 @@
+{"index": 295806, "D": "a mound or bank of snow  driven together by the wind.", "S": ["sleet "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107532, "D": "tendency to adopt what is exotic. ", "S": [], "A": []}

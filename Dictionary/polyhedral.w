@@ -1,0 +1,1 @@
+{"index": 241976, "D": "of, relating to, or having the shape of a polyhedron. ", "S": [], "A": []}

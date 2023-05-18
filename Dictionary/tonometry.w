@@ -1,0 +1,1 @@
+{"index": 325637, "D": "an instrument for measuring the frequencies of tones, as a tuning fork or a graduated set of tuning forks.", "S": [], "A": []}

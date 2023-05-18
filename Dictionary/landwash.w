@@ -1,0 +1,1 @@
+{"index": 168056, "D": "the foreshore, especially that part between high and low tidemarks.", "S": [], "A": []}

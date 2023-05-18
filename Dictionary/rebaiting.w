@@ -1,0 +1,1 @@
+{"index": 262200, "D": "food, or some substitute, used as a lure in fishing, trapping, etc.", "S": [], "A": []}

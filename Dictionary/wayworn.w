@@ -1,0 +1,1 @@
+{"index": 362108, "D": "worn  or wearied by travel", "S": [], "A": []}

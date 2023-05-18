@@ -1,0 +1,1 @@
+{"index": 114087, "D": "a region that lacks appreciable topographic relief.", "S": [], "A": []}

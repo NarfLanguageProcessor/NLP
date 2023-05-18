@@ -1,0 +1,1 @@
+{"index": 321520, "D": "capable of being subjected to a moderate degree of heat without loss of characteristic properties, as certain toxins and enzymes (opposed to thermolabile).", "S": [], "A": []}

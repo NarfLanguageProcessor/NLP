@@ -1,0 +1,1 @@
+{"index": 330440, "D": "a stool, table, pedestal, etc., with three legs.", "S": ["frame ", "mount "], "A": []}

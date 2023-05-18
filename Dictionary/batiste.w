@@ -1,0 +1,1 @@
+{"index": 29029, "D": "a fine, often sheer fabric, constructed in either a plain or figured weave and made of any of various natural or synthetic fibers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195197, "D": "having more than one mode.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46065, "D": "a city in and the capital of Australia, in the SE part, in the Australian Capital Territory.", "S": [], "A": []}

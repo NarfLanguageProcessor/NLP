@@ -1,0 +1,1 @@
+{"index": 280196, "D": "an infection caused by parasitic flukes of the genus Schistosoma, occurring commonly in eastern Asia and in tropical regions and transmitted to humans through feces-contaminated fresh water or snails", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213056, "D": "any of various algaelike fungi constituting the phylum Oomycota of the kingdom Fungi (or the class Oomycetes of the kingdom Plantae), characterized by the formation of oospores.", "S": [], "A": []}

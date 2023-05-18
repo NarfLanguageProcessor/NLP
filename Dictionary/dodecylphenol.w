@@ -1,0 +1,1 @@
+{"index": 90775, "D": "a thick, straw-colored, water-insoluble liquid mixture of isomers having the formula C18H30O, used chiefly as a solvent and as an intermediate for surface-active agents.", "S": [], "A": []}

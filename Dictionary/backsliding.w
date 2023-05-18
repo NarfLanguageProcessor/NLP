@@ -1,0 +1,1 @@
+{"index": 25917, "D": "to relapse into bad habits, sinful behavior, or undesirable activities.", "S": ["backslide ", "lapse ", "lapsing ", "regression ", "relapsing ", "reversion ", "reverting "], "A": []}

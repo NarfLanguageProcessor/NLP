@@ -1,0 +1,1 @@
+{"index": 296515, "D": "the interpretation of myths by reference to the sun, especially such interpretation carried to an extreme.", "S": [], "A": []}

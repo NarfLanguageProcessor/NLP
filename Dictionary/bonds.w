@@ -1,0 +1,1 @@
+{"index": 37823, "D": "Barry  (Lamar). born 1964, US baseball player", "S": ["custody ", "detention ", "incarceration ", "internment ", "jail ", "repression "], "A": ["freedom ", "liberation ", "liberty ", "allowance ", "permission "]}

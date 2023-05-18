@@ -1,0 +1,1 @@
+{"index": 173546, "D": "a former silver coin and monetary unit of Lithuania, equal to 100 centai.", "S": [], "A": []}

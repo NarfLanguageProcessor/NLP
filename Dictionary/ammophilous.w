@@ -1,0 +1,1 @@
+{"index": 10806, "D": "living or growing in sand.", "S": ["arenaceous "], "A": []}

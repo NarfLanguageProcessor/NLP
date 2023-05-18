@@ -1,0 +1,1 @@
+{"index": 215285, "D": "a device that gives a visual graph of amplitude versus time of a measured signal, as voltage or current.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 193770, "D": "the mass of cells resulting from the cleavage of the ovum before the formation of a blastula.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110245, "D": "the fat  and fat meat  from the upper part of a side of pork, usually cured by salt.", "S": [], "A": []}

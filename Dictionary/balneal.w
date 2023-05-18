@@ -1,0 +1,1 @@
+{"index": 27085, "D": "of or relating to baths or bathing.", "S": [], "A": []}

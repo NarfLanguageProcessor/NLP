@@ -1,0 +1,1 @@
+{"index": 91470, "D": "somewhat sick, weak, or lacking in vitality; not completely well.", "S": [], "A": []}

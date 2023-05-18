@@ -1,0 +1,1 @@
+{"index": 79988, "D": "a person designated to act for or represent another or others; deputy; representative, as in a political convention.", "S": ["adjutant ", "alternate ", "assistant ", "deputy ", "interim ", "surrogate ", "temporary "], "A": ["permanent "]}

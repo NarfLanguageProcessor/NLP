@@ -1,0 +1,1 @@
+{"index": 136842, "D": "any monosaccharide containing seven carbon atoms.", "S": [], "A": []}

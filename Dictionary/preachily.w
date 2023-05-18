@@ -1,0 +1,1 @@
+{"index": 245469, "D": "tediously or pretentiously didactic.", "S": [], "A": []}

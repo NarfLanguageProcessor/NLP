@@ -1,0 +1,1 @@
+{"index": 70130, "D": "a joint sponsor,  as of a legislative bill.", "S": [], "A": []}

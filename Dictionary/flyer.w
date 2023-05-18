@@ -1,0 +1,1 @@
+{"index": 114580, "D": "a similar device for adding twist to yarn.", "S": ["flier "], "A": []}

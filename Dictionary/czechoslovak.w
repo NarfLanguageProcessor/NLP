@@ -1,0 +1,1 @@
+{"index": 75929, "D": "a member of the branch of the Slavic peoples comprising the Czechs proper, the Moravians, and the Slovaks.", "S": [], "A": []}

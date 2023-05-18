@@ -1,0 +1,1 @@
+{"index": 155819, "D": "to ask questions of (a person), sometimes to seek answers or information that the person questioned considers personal or secret.", "S": ["examine ", "grill ", "investigate ", "query ", "quiz "], "A": ["answer ", "reply "]}

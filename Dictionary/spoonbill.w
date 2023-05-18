@@ -1,0 +1,1 @@
+{"index": 300872, "D": "any of several wading birds of the family Plataleidae, related to the ibises, having a long, flat bill  with a spoonlike tip.", "S": [], "A": []}

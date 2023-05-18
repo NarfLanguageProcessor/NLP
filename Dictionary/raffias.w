@@ -1,0 +1,1 @@
+{"index": 259865, "D": "a fiber obtained from the leaves of the raffia palm, used for tying plants and other objects and for making mats, baskets, hats, and the like.", "S": [], "A": []}

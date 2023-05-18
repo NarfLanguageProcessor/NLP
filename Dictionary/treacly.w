@@ -1,0 +1,1 @@
+{"index": 328662, "D": "sentimental in a contrived or unrestrained way", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 270199, "D": "a person who brings something to life or view again.", "S": [], "A": []}

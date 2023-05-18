@@ -1,0 +1,1 @@
+{"index": 240051, "D": "a small hammer with a soft rubber head or the like, used in percussion for diagnostic purposes.", "S": [], "A": []}

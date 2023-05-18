@@ -1,0 +1,1 @@
+{"index": 296689, "D": "pertaining to alternation between the sol  and gel  states, as in the pseudopodia of amebas.", "S": [], "A": []}

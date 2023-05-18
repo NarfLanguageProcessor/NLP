@@ -1,0 +1,1 @@
+{"index": 45741, "D": "a durable, waterproof cloth, especially for outerwear.", "S": [], "A": []}

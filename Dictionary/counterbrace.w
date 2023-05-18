@@ -1,0 +1,1 @@
+{"index": 70688, "D": "a web member of a truss subject to tension or compression under varying conditions.", "S": [], "A": []}

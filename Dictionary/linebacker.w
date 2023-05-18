@@ -1,0 +1,1 @@
+{"index": 172758, "D": "a player on defense who takes a position close behind the linemen.", "S": [], "A": []}

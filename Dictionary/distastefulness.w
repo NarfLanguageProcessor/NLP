@@ -1,0 +1,1 @@
+{"index": 89705, "D": "unpleasant, offensive, or causing dislike", "S": ["nastiness "], "A": ["agreement ", "friendliness ", "kindness ", "pleasantness ", "sweetness "]}

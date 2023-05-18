@@ -1,0 +1,1 @@
+{"index": 100062, "D": "(of a plant) living within an animal", "S": [], "A": []}

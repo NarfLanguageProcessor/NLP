@@ -1,0 +1,1 @@
+{"index": 336, "D": "a sudden or unexpected failure in a software program, application, or operating system, usually causing it to crash.", "S": ["abort ", "crash ", "loss "], "A": []}

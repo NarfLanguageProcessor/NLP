@@ -1,0 +1,1 @@
+{"index": 13199, "D": "full of life, action, or spirit; lively; vigorous", "S": ["energetic ", "spirited ", "vivid "], "A": ["lazy ", "lethargic ", "sluggish "]}

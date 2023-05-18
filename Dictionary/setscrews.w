@@ -1,0 +1,1 @@
+{"index": 286664, "D": "a screw  passing through a threaded hole in a part to tighten the contact of that part with another, as of a collar with the shaft on which it fits.", "S": [], "A": []}

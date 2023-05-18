@@ -1,0 +1,1 @@
+{"index": 24556, "D": "Compare prototroph (def. 1). ", "S": [], "A": []}

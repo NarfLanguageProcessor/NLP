@@ -1,0 +1,1 @@
+{"index": 60290, "D": [], "S": ["bum ", "deadbeat ", "good-for-nothing ", "goof off ", "idler ", "laggard ", "layabout ", "lazybones ", "loafer ", "lounger ", "malingerer ", "moocher ", "shirker ", "slacker ", "sloth ", "sponger "], "A": ["hard worker "]}

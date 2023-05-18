@@ -1,0 +1,1 @@
+{"index": 49215, "D": "an underground cemetery, especially one consisting of tunnels and rooms with recesses dug out for coffins and tombs.", "S": [], "A": []}

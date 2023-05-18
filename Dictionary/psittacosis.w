@@ -1,0 +1,1 @@
+{"index": 255601, "D": "a rickettsial disease affecting birds of the parrot family, pigeons, and domestic fowl, caused by the chlamydia Chlamydia psittaci and transmissible to humans.", "S": [], "A": []}

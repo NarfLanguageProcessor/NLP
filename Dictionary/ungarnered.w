@@ -1,0 +1,1 @@
+{"index": 342919, "D": "gathered, deposited, or stored in or as if in a granary or other storage place", "S": [], "A": []}

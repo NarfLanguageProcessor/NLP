@@ -1,0 +1,1 @@
+{"index": 246564, "D": "to be in agreement or conformity (often followed by with or to)", "S": [], "A": []}

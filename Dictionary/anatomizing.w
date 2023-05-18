@@ -1,0 +1,1 @@
+{"index": 12107, "D": "to cut apart (an animal or plant) to show or examine the position, structure, and relation of the parts; display the anatomy  of; dissect.", "S": ["dissect ", "evaluate ", "examine ", "inspect ", "investigate ", "scrutinize "], "A": ["ignore "]}

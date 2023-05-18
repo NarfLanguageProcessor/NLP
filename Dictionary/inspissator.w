@@ -1,0 +1,1 @@
+{"index": 153817, "D": "to thicken, as by evaporation; make or become dense.", "S": [], "A": []}

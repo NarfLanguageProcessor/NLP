@@ -1,0 +1,1 @@
+{"index": 150013, "D": "having one's identity concealed, as under an assumed name, especially to avoid notice or formal attentions.", "S": ["alias ", "stage name "], "A": ["name "]}

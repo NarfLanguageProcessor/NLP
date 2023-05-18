@@ -1,0 +1,1 @@
+{"index": 339767, "D": "the following of one thing after another; succession.", "S": [], "A": []}

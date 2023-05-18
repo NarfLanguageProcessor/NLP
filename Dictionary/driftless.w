@@ -1,0 +1,1 @@
+{"index": 93075, "D": "a driving movement or force; impulse; impetus; pressure. ", "S": ["accidental ", "aimless ", "arbitrary ", "incidental ", "indiscriminate ", "irregular ", "odd ", "unplanned "], "A": ["essential ", "methodical ", "planned ", "systematic "]}

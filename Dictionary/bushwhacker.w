@@ -1,0 +1,1 @@
+{"index": 43458, "D": "a person or thing that bushwhacks. ", "S": ["aggressor ", "mugger "], "A": ["ally ", "friend "]}

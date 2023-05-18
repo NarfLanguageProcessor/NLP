@@ -1,0 +1,1 @@
+{"index": 268995, "D": "a seat for a rider on the back of a horse or other animal.", "S": [], "A": []}

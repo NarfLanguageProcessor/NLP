@@ -1,0 +1,1 @@
+{"index": 287161, "D": "(formerly, in Iran) king; sovereign.", "S": [], "A": []}

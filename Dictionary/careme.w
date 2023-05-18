@@ -1,0 +1,1 @@
+{"index": 47936, "D": "Marie Antonin. 1784\u20131833, French chef, regarded as the founder of haute cuisine .", "S": [], "A": []}

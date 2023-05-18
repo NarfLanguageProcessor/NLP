@@ -1,0 +1,1 @@
+{"index": 106516, "D": "feeling or expressing extreme annoyance or irritation", "S": [], "A": []}

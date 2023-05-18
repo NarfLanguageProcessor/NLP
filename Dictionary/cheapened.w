@@ -1,0 +1,1 @@
+{"index": 53261, "D": "to make cheap or cheaper.", "S": ["destitute ", "devalued ", "disadvantaged ", "distressed ", "needy ", "poor ", "poverty-stricken ", "underprivileged "], "A": ["affluent ", "lucky ", "rich ", "wealthy "]}

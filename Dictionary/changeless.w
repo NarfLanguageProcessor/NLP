@@ -1,0 +1,1 @@
+{"index": 52483, "D": "unchanging; constant; steadfast.", "S": ["constant ", "enduring ", "perpetual ", "regular ", "unchanging "], "A": []}

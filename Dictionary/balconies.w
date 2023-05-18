@@ -1,0 +1,1 @@
+{"index": 26766, "D": "a balustraded or railed elevated platform projecting from the wall of a building.", "S": ["box ", "gallery ", "mezzanine ", "platform ", "porch ", "stoop ", "terrace ", "veranda "], "A": []}

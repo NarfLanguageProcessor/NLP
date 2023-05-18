@@ -1,0 +1,1 @@
+{"index": 321704, "D": "having relatively great extent from one surface or side to the opposite; not thin", "S": ["densely ", "massively "], "A": ["easily ", "gently ", "lightly "]}

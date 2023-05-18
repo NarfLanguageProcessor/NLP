@@ -1,0 +1,1 @@
+{"index": 243729, "D": "a woman who has charge of a door or gate; a female doorkeeper.", "S": [], "A": []}

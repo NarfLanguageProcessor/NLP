@@ -1,0 +1,1 @@
+{"index": 192774, "D": "(in the Doric order) any intercolumniation having one whole triglyph.", "S": [], "A": []}

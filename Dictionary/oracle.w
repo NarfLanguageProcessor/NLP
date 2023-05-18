@@ -1,0 +1,1 @@
+{"index": 213911, "D": "(especially in ancient Greece) an utterance, often ambiguous or obscure, given by a priest or priestess at a shrine as the response of a god to an inquiry.", "S": ["answer ", "apocalypse ", "augury ", "canon ", "commandment ", "divination ", "edict ", "fortune ", "law ", "prediction ", "prognostication ", "revelation ", "vision "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358035, "D": "the branch of medicine dealing with the study and treatment of venereal, or sexually transmitted, disease.", "S": [], "A": []}

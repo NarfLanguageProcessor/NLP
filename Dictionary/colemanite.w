@@ -1,0 +1,1 @@
+{"index": 62688, "D": "a mineral, hydrous calcium borate, Ca2B6O11\u22c55H2O, occurring in colorless or milky-white crystals.", "S": [], "A": []}

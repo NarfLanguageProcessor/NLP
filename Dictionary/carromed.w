@@ -1,0 +1,1 @@
+{"index": 48551, "D": "a shot in which the cue ball hits two balls in succession.", "S": [], "A": []}

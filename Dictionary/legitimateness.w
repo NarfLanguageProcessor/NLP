@@ -1,0 +1,1 @@
+{"index": 170147, "D": "according to law; lawful", "S": ["authority ", "constitutionality ", "defendability ", "justice ", "lawfulness ", "legitimacy ", "licitness ", "permissibility ", "right ", "validity "], "A": []}

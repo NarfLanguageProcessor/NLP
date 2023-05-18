@@ -1,0 +1,1 @@
+{"index": 25428, "D": "the worship of Baal. ", "S": [], "A": []}

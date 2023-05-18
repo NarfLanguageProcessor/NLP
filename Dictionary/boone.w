@@ -1,0 +1,1 @@
+{"index": 38191, "D": "American pioneer, especially in Kentucky.", "S": [], "A": []}

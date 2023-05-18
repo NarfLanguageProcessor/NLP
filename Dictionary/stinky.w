@@ -1,0 +1,1 @@
+{"index": 304695, "D": "foul smelling; stinking. ", "S": ["noxious ", "putrid ", "revolting ", "smelly ", "stinking "], "A": ["good ", "perfumed "]}

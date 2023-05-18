@@ -1,0 +1,1 @@
+{"index": 141557, "D": "Usual US word", "S": ["free spirit ", "hippie "], "A": []}

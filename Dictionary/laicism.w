@@ -1,0 +1,1 @@
+{"index": 167387, "D": "the nonclerical, or secular, control of political and social institutions in a society (distinguished from clericalism).", "S": [], "A": []}

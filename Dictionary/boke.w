@@ -1,0 +1,1 @@
+{"index": 37483, "D": "to retch or vomit", "S": [], "A": []}

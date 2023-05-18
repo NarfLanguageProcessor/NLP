@@ -1,0 +1,1 @@
+{"index": 170267, "D": "any infection caused by a protozoan of the genus Leishmania.", "S": [], "A": []}

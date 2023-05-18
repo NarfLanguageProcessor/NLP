@@ -1,0 +1,1 @@
+{"index": 239586, "D": "a public square or open space in a city or town.", "S": ["park ", "square "], "A": []}

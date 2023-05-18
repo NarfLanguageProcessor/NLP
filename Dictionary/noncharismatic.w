@@ -1,0 +1,1 @@
+{"index": 201904, "D": "of, having, or characteristic of charisma", "S": [], "A": []}

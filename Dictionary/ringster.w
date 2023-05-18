@@ -1,0 +1,1 @@
+{"index": 273073, "D": "a member of a ring,  especially a political or price-fixing ring. ", "S": [], "A": []}

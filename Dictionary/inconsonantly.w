@@ -1,0 +1,1 @@
+{"index": 150280, "D": "not consonant  or in accord.", "S": [], "A": []}

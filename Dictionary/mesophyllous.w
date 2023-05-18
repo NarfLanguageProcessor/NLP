@@ -1,0 +1,1 @@
+{"index": 184301, "D": "the parenchyma, usually containing chlorophyll, that forms the interior parts of a leaf.", "S": [], "A": []}

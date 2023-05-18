@@ -1,0 +1,1 @@
+{"index": 29124, "D": "insane; crazy; eccentric.", "S": ["nuts ", "wacky "], "A": ["sane "]}

@@ -1,0 +1,1 @@
+{"index": 335133, "D": "not given or shown thanks or gratitude", "S": ["careless ", "cruel ", "heedless ", "inappreciative ", "rude ", "self-centered ", "thoughtless ", "ungracious ", "ungrateful ", "unmindful ", "unthankful "], "A": []}

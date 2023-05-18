@@ -1,0 +1,1 @@
+{"index": 323937, "D": "resembling tinder;  highly inflammable or inflammatory.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176745, "D": "to provide with machicolations. ", "S": [], "A": []}

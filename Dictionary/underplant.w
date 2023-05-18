@@ -1,0 +1,1 @@
+{"index": 339589, "D": "to plant smaller plants around (a larger plant)", "S": [], "A": []}

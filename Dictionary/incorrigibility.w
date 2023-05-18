@@ -1,0 +1,1 @@
+{"index": 150399, "D": "not corrigible; bad beyond correction or reform", "S": ["bigotry ", "extremism ", "hatred ", "intolerance ", "zeal ", "zealotry "], "A": ["apathy ", "calmness ", "dislike ", "doubt ", "fairness ", "impartiality ", "indifference ", "irresolution ", "justice ", "peace ", "peacefulness "]}

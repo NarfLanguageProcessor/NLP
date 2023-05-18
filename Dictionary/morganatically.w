@@ -1,0 +1,1 @@
+{"index": 193420, "D": "of or relating to a form of marriage in which a person of high rank, as a member of the nobility, marries someone of lower station with the stipulation that neither the low-ranking spouse nor their children, if any, will have any claim to the titles or entailed property of the high-ranking partner.", "S": [], "A": []}

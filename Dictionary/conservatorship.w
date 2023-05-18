@@ -1,0 +1,1 @@
+{"index": 66787, "D": "the position of being a conservator,  especially a person who repairs, restores, or maintains the condition of objects in a museum, library, etc.", "S": [], "A": []}

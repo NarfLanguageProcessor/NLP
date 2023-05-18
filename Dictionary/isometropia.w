@@ -1,0 +1,1 @@
+{"index": 159105, "D": "equality of refraction in the two eyes of an individual.", "S": [], "A": []}

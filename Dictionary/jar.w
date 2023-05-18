@@ -1,0 +1,1 @@
+{"index": 160426, "D": "a broad-mouthed container, usually cylindrical and of glass or earthenware", "S": ["basin ", "bottle ", "can ", "flask ", "jug ", "pot ", "urn ", "vase ", "vessel "], "A": []}

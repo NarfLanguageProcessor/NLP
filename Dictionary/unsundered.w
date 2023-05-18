@@ -1,0 +1,1 @@
+{"index": 352403, "D": "separated or divided into parts or broken to pieces", "S": [], "A": []}

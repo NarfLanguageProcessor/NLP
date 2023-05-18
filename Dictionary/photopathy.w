@@ -1,0 +1,1 @@
+{"index": 235284, "D": "movement of an organism in response to the intensity of light, especially away from the source of light.", "S": [], "A": []}

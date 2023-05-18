@@ -1,0 +1,1 @@
+{"index": 94985, "D": "to listen secretly to a private conversation.", "S": ["auditor ", "hearer ", "monitor ", "sleuth ", "snoop ", "wiretapper "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260260, "D": "aimlessly wandering.", "S": ["circuitous ", "disjointed ", "incoherent ", "long-winded "], "A": ["coherent "]}

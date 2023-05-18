@@ -1,0 +1,1 @@
+{"index": 90561, "D": "a former gold coin of Spain.", "S": [], "A": []}

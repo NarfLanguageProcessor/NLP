@@ -1,0 +1,1 @@
+{"index": 281074, "D": "the action of a person who scolds;  a rebuke; reproof", "S": ["berating ", "chiding ", "rating ", "rebuke ", "reprehension ", "reprimand "], "A": ["praise "]}

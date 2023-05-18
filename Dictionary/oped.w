@@ -1,0 +1,1 @@
+{"index": 213213, "D": "a newspaper page devoted to signed articles by commentators, essayists, humorists, etc., of varying viewpoints", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 59510, "D": "an ornamented cadence especially in early Renaissance music.", "S": [], "A": []}

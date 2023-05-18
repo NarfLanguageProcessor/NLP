@@ -1,0 +1,1 @@
+{"index": 52442, "D": "an abrupt climbing turn in which an aircraft almost stalls while using its momentum to gain a higher rate of climb.", "S": [], "A": []}

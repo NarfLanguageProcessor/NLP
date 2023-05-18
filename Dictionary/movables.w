@@ -1,0 +1,1 @@
+{"index": 194380, "D": "capable of being moved; not fixed in one place, position, or posture.", "S": ["appliance ", "bed ", "bookcase ", "chair ", "couch ", "desk ", "equipment ", "goods ", "sofa ", "table "], "A": []}

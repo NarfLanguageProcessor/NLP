@@ -1,0 +1,1 @@
+{"index": 148015, "D": "to mix in; mingle. ", "S": ["admix ", "amalgamate ", "blend ", "combine ", "commingle ", "fuse ", "intermingle ", "intermix ", "mingle "], "A": ["disconnect ", "divide ", "separate "]}

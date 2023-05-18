@@ -1,0 +1,1 @@
+{"index": 303023, "D": "(of an animal) represented as standing with all feet on the ground", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62244, "D": "I think, therefore I am (stated by Descartes as the first principle in resolving universal doubt).", "S": [], "A": []}

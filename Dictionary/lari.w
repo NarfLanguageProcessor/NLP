@@ -1,0 +1,1 @@
+{"index": 168525, "D": "an aluminum coin and monetary unit of the Maldives, one 100th of a rupee.", "S": [], "A": []}

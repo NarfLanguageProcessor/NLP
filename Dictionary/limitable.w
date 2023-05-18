@@ -1,0 +1,1 @@
+{"index": 172384, "D": "the final, utmost, or furthest boundary or point as to extent, amount, continuance, procedure, etc.", "S": [], "A": []}

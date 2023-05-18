@@ -1,0 +1,1 @@
+{"index": 268244, "D": "to play  again, as a record or tape.", "S": ["repetition ", "rerun "], "A": ["original "]}

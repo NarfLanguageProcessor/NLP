@@ -1,0 +1,1 @@
+{"index": 243177, "D": "in a poor manner or way", "S": ["ill "], "A": ["healthy ", "well "]}

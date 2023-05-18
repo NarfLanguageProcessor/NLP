@@ -1,0 +1,1 @@
+{"index": 95258, "D": "any plant of the Eurasian and African genus Echium with bell-shaped flowers sometimes borne on single-sided spikes in a wide variety of colours; E. vulgare is viper's bugloss", "S": [], "A": []}

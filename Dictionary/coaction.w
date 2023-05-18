@@ -1,0 +1,1 @@
+{"index": 60838, "D": "force or compulsion, either in restraining or in impelling.", "S": ["collaboration ", "synergy ", "teamwork "], "A": []}

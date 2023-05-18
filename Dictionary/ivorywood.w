@@ -1,0 +1,1 @@
+{"index": 159743, "D": "the yellowish-white wood of an Australian tree, Siphonodon australe, used for engraving, inlaying, and turnery", "S": [], "A": []}

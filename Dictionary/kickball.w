@@ -1,0 +1,1 @@
+{"index": 164420, "D": "a children's game, similar to baseball, in which a large inflated ball,  as a soccer ball,  is kicked  instead of being batted.", "S": [], "A": []}

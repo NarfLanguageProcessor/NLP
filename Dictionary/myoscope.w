@@ -1,0 +1,1 @@
+{"index": 188241, "D": "an instrument for observing muscular contraction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 269959, "D": "impatient of control, restraint, or delay, as persons; restless; uneasy.", "S": [], "A": []}

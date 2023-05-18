@@ -1,0 +1,1 @@
+{"index": 219669, "D": "disdainfully proud; scornfully arrogant; snobbish; supercilious", "S": [], "A": []}

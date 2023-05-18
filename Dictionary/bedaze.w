@@ -1,0 +1,1 @@
+{"index": 29983, "D": [], "S": ["amaze ", "bemuse ", "bewilder ", "confuse ", "shock ", "stagger ", "stun ", "stupefy "], "A": ["clear up ", "enlighten ", "explain "]}

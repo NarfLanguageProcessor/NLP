@@ -1,0 +1,1 @@
+{"index": 29127, "D": "a variant spelling of batik", "S": [], "A": []}

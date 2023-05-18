@@ -1,0 +1,1 @@
+{"index": 114209, "D": "any of a group of water-soluble, principally yellow polyphenols  present in plants and having a structure similar to flavone", "S": [], "A": []}

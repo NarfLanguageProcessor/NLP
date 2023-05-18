@@ -1,0 +1,1 @@
+{"index": 99784, "D": "a specialized tissue in the roots and stems of vascular plants, composed of a single layer of modified parenchyma cells forming the inner boundary of the cortex.", "S": [], "A": []}

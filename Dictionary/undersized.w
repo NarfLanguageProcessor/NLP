@@ -1,0 +1,1 @@
+{"index": 339826, "D": "smaller than the usual or normal size. ", "S": ["miniature ", "petite ", "puny ", "short ", "small "], "A": ["enormous ", "oversized "]}

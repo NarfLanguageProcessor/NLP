@@ -1,0 +1,1 @@
+{"index": 55206, "D": "of or containing chlorophyll. ", "S": [], "A": []}

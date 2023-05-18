@@ -1,0 +1,1 @@
+{"index": 295607, "D": "to snatch or steal; pilfer.", "S": ["betrayer ", "blabbermouth ", "canary ", "double-crosser ", "fink ", "informant ", "narc ", "nark ", "rat ", "sneak ", "snitcher ", "source ", "squealer ", "stoolie ", "tattler ", "tattletale ", "tipster ", "turncoat ", "weasel ", "whistle-blower "], "A": []}

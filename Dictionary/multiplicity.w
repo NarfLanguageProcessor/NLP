@@ -1,0 +1,1 @@
+{"index": 195278, "D": "a large number or variety", "S": ["jumble ", "profusion "], "A": ["debt ", "ditch ", "individual ", "lack ", "little ", "need ", "one ", "part ", "valley ", "want "]}

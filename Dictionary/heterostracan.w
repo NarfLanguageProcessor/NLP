@@ -1,0 +1,1 @@
+{"index": 137775, "D": "any of several ostracoderms of the order Heterostraci, from the Silurian and Devonian Periods, having the anterior part of the body enclosed in bony plates.", "S": [], "A": []}

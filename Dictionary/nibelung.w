@@ -1,0 +1,1 @@
+{"index": 199560, "D": "any of a race of dwarfs who possessed a treasure captured by Siegfried.", "S": [], "A": []}

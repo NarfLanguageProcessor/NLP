@@ -1,0 +1,1 @@
+{"index": 327978, "D": "to equip with or convert to a circuit employing transistors. ", "S": [], "A": []}

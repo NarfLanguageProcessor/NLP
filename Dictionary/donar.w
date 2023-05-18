@@ -1,0 +1,1 @@
+{"index": 91373, "D": "the god of thunder, corresponding to Thor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 157230, "D": "to give vigor to; fill with life and energy; energize. ", "S": ["animate ", "animated ", "breathing ", "generative ", "life-giving ", "live ", "living ", "quickening "], "A": ["dead ", "dull ", "inessential ", "sluggish ", "trivial ", "unimportant "]}

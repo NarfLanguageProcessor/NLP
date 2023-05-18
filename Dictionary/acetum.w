@@ -1,0 +1,1 @@
+{"index": 2181, "D": "a preparation having vinegar or dilute acetic acid as the solvent.", "S": [], "A": []}

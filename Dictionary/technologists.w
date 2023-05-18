@@ -1,0 +1,1 @@
+{"index": 317690, "D": "a person who specializes in technology. ", "S": [], "A": []}

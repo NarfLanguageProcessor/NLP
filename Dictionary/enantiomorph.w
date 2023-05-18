@@ -1,0 +1,1 @@
+{"index": 99069, "D": "either of two crystals exhibiting enantiomorphism. ", "S": [], "A": []}

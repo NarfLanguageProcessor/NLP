@@ -1,0 +1,1 @@
+{"index": 83062, "D": "to unfasten and separate; disengage; disunite.", "S": ["disassemble ", "disengage ", "disentangle ", "dissociate ", "isolate ", "segregate ", "separate ", "sever "], "A": ["associate ", "attach ", "combine ", "desegregate ", "join ", "unite ", "connect ", "couple ", "fasten ", "fix ", "hold ", "remain ", "stay "]}

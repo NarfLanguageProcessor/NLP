@@ -1,0 +1,1 @@
+{"index": 89257, "D": "to deprive of qualification or fitness; render unfit; incapacitate.", "S": [], "A": []}

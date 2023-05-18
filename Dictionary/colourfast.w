@@ -1,0 +1,1 @@
+{"index": 63415, "D": "(of a fabric) having a colour that does not run or change when washed or worn", "S": [], "A": []}

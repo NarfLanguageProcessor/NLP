@@ -1,0 +1,1 @@
+{"index": 244717, "D": "a deep hole;  pit.", "S": ["crater "], "A": ["closing ", "closure ", "mountain "]}

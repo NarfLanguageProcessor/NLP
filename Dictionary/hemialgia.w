@@ -1,0 +1,1 @@
+{"index": 136072, "D": "pain or neuralgia involving only one side of the body or head.", "S": [], "A": []}

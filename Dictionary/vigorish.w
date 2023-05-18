@@ -1,0 +1,1 @@
+{"index": 359637, "D": "a charge paid on a bet, as to a bookie.", "S": ["fee "], "A": ["increase ", "whole "]}

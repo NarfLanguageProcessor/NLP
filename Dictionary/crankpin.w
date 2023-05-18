@@ -1,0 +1,1 @@
+{"index": 72136, "D": "a short cylindrical pin  at the outer end of a crank,  held by and moving with a connecting rod or link.", "S": [], "A": []}

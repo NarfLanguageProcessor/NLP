@@ -1,0 +1,1 @@
+{"index": 104023, "D": "becoming red or reddish; blushing.", "S": ["blooming ", "cerise ", "claret ", "crimson "], "A": []}

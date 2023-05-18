@@ -1,0 +1,1 @@
+{"index": 94743, "D": "in or during the first part of a period of time, a course of action, a series of events, etc.", "S": ["former ", "past ", "previous ", "prior "], "A": ["later "]}

@@ -1,0 +1,1 @@
+{"index": 93129, "D": "suitable or safe to drink", "S": ["bashed ", "blitzed ", "bombed ", "buzzed ", "crocked ", "flushed ", "flying ", "fried ", "gone ", "inebriated ", "lit ", "loaded ", "pissed ", "polluted ", "potted ", "sauced ", "sloshed ", "stewed ", "stoned ", "tanked ", "totaled ", "wasted "], "A": []}

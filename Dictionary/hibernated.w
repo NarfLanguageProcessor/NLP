@@ -1,0 +1,1 @@
+{"index": 138220, "D": "Compare estivate (def. 2). ", "S": ["hole up "], "A": []}

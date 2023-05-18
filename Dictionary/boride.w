@@ -1,0 +1,1 @@
+{"index": 38439, "D": "a compound consisting of two elements of which boron  is the more electronegative one.", "S": [], "A": []}

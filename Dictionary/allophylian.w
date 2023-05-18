@@ -1,0 +1,1 @@
+{"index": 8913, "D": "(of languages, especially those of Europe and Asia) neither Indo-European nor Semitic.", "S": [], "A": []}

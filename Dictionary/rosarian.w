@@ -1,0 +1,1 @@
+{"index": 274440, "D": "a person who is fond of, develops, or cultivates roses. ", "S": [], "A": []}

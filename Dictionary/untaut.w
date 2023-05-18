@@ -1,0 +1,1 @@
+{"index": 352722, "D": "tightly drawn; tense; not slack.", "S": [], "A": []}

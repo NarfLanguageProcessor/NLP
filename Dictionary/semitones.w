@@ -1,0 +1,1 @@
+{"index": 285079, "D": "a pitch interval halfway between two whole tones. ", "S": [], "A": []}

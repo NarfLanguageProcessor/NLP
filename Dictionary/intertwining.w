@@ -1,0 +1,1 @@
+{"index": 156113, "D": "to twine  together.", "S": ["associating ", "attaching ", "bridging ", "combining ", "coupling ", "fastening ", "fusing ", "interlacing ", "joined ", "linking ", "mingling ", "mixing ", "pairing ", "relating ", "uniting ", "welding "], "A": []}

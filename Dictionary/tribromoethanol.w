@@ -1,0 +1,1 @@
+{"index": 329255, "D": "a white, crystalline powder, C2H3Br3O, used as a basal anesthetic.", "S": [], "A": []}

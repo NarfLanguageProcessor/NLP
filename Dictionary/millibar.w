@@ -1,0 +1,1 @@
+{"index": 187353, "D": "a centimeter-gram-second unit of pressure equal to one thousandth of a bar  or 1000 dynes per square centimeter, used to measure air pressure. Abbreviation", "S": [], "A": []}

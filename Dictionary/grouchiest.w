@@ -1,0 +1,1 @@
+{"index": 130288, "D": "sullenly discontented; sulky; morose; ill-tempered.", "S": ["cantankerous ", "crusty ", "grumpy ", "irascible ", "petulant ", "surly ", "testy "], "A": ["cheerful ", "good-natured ", "happy ", "nice ", "pleasant "]}

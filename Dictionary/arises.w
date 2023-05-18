@@ -1,0 +1,1 @@
+{"index": 19736, "D": "to get up from sitting, lying, or kneeling; rise", "S": ["appear ", "begin ", "crop up ", "derive ", "emanate ", "emerge ", "ensue ", "happen ", "occur ", "originate ", "result ", "rise ", "set in ", "stem "], "A": ["cause ", "disappear ", "end ", "finish ", "complete ", "stop "]}

@@ -1,0 +1,1 @@
+{"index": 35520, "D": "any preparation for producing a black  coating or finish, as on shoes or stoves.", "S": ["bang up ", "batter ", "blacken ", "crush ", "injure ", "mar ", "wound "], "A": ["aid ", "compliment ", "cure ", "heal ", "help ", "praise ", "adorn ", "beautify ", "decorate ", "embellish ", "fix ", "mend ", "ornament ", "repair "]}

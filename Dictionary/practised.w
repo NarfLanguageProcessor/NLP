@@ -1,0 +1,1 @@
+{"index": 245102, "D": "expert; skilled; proficient", "S": [], "A": []}

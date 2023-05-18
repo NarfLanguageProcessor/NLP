@@ -1,0 +1,1 @@
+{"index": 134574, "D": "the male person or animal being discussed or last mentioned; that male.", "S": ["I ", "it ", "she ", "sie ", "they ", "ve ", "xe ", "you ", "ze ", "zie "], "A": []}

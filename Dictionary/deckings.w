@@ -1,0 +1,1 @@
+{"index": 78427, "D": "material, as paper or fiberboard, treated in various ways as a waterproof covering for a deck  or roof.", "S": ["adorning ", "appareling ", "decking ", "robing "], "A": []}

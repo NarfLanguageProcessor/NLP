@@ -1,0 +1,1 @@
+{"index": 170536, "D": "a paper money, cupronickel or silver coin, and monetary unit of Sierra Leone, equal to 100 cents.", "S": [], "A": []}

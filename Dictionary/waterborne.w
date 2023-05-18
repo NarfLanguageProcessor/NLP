@@ -1,0 +1,1 @@
+{"index": 363115, "D": "floating or moving on water;  supported by water", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26828, "D": "full of menacing or malign influences; pernicious.", "S": [], "A": []}

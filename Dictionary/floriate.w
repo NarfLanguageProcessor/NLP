@@ -1,0 +1,1 @@
+{"index": 115019, "D": "made of or decorated with floral ornamentation", "S": [], "A": []}

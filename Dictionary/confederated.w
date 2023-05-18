@@ -1,0 +1,1 @@
+{"index": 65801, "D": "united in a league, alliance, or conspiracy.", "S": ["involved ", "married ", "merged ", "united "], "A": ["disconnected ", "uncombined ", "unrelated "]}

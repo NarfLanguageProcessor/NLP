@@ -1,0 +1,1 @@
+{"index": 276201, "D": "of or causing the hydrolysis of sugars.", "S": [], "A": []}

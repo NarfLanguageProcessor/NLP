@@ -1,0 +1,1 @@
+{"index": 48279, "D": "(in the 17th century) a luxurious or stately coach or carriage.", "S": [], "A": []}

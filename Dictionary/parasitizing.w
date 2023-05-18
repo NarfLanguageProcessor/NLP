@@ -1,0 +1,1 @@
+{"index": 226104, "D": "to live on (a host) as a parasite. ", "S": [], "A": []}

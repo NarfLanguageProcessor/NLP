@@ -1,0 +1,1 @@
+{"index": 66384, "D": "the formation or expression of an opinion or theory without sufficient evidence for proof.", "S": ["guesswork ", "hunch ", "hypothesis ", "inference ", "supposition "], "A": ["proof ", "reality ", "truth ", "calculation ", "certainty ", "fact ", "measurement "]}

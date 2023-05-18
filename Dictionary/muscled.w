@@ -1,0 +1,1 @@
+{"index": 195864, "D": "a tissue composed of cells or fibers, the contraction of which produces movement in the body.", "S": ["able-bodied ", "competent ", "robust ", "slim ", "strapping ", "toned "], "A": ["infirm ", "weak ", "sick ", "unhealthy "]}

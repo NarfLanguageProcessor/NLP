@@ -1,0 +1,1 @@
+{"index": 187028, "D": "small and pretty; delicately pretty.", "S": [], "A": []}

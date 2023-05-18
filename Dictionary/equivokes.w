@@ -1,0 +1,1 @@
+{"index": 103448, "D": "an equivocal term; an ambiguous expression.", "S": [], "A": []}

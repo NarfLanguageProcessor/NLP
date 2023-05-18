@@ -1,0 +1,1 @@
+{"index": 156958, "D": "to flood; cover or overspread with water; deluge. ", "S": ["deluge ", "engulf ", "flood ", "overflow ", "overrun ", "submerge ", "swamp "], "A": ["underwhelm "]}

@@ -1,0 +1,1 @@
+{"index": 180897, "D": "of, relating to, or used in or for mastication.", "S": [], "A": []}

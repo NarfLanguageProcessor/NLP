@@ -1,0 +1,1 @@
+{"index": 312402, "D": "petrous;  hard or stony.", "S": [], "A": []}

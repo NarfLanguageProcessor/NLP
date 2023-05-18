@@ -1,0 +1,1 @@
+{"index": 339363, "D": "a person employed in an apartment house, office building, school, etc., to clean the public areas, remove garbage, and do minor repairs; caretaker. ", "S": [], "A": []}

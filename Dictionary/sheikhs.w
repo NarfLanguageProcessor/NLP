@@ -1,0 +1,1 @@
+{"index": 287899, "D": "(in Islamic countries) the patriarch of a tribe or family; chief", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43549, "D": "a long garment with short sleeves and a square neckline, worn by Ugandan women, esp in S Uganda", "S": [], "A": []}

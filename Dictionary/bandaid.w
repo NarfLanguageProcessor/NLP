@@ -1,0 +1,1 @@
+{"index": 27267, "D": "a brand of adhesive bandage with a gauze pad in the center, used to cover minor abrasions and cuts.", "S": ["impromptu ", "makeshift ", "spontaneous "], "A": ["designed ", "planned ", "rehearsed "]}

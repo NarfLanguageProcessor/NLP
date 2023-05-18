@@ -1,0 +1,1 @@
+{"index": 51336, "D": "one of a pair of appendages at the rear of the abdomen of certain insects and other arthropods, serving as tactile organs.", "S": [], "A": []}

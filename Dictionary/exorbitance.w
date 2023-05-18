@@ -1,0 +1,1 @@
+{"index": 107434, "D": "the quality of being exorbitant;  excessiveness.", "S": ["costliness ", "excess ", "excessiveness ", "luxury "], "A": ["economy ", "frugality "]}

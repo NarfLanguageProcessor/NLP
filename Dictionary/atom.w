@@ -1,0 +1,1 @@
+{"index": 22734, "D": "an atom with one of the electrons replaced by some other particle", "S": ["bit ", "crumb ", "dot ", "fragment ", "grain ", "iota ", "jot ", "minimum ", "mite ", "modicum ", "molecule ", "morsel ", "mote ", "ounce ", "particle ", "scintilla ", "scrap ", "shred ", "smidgen ", "speck ", "spot ", "tittle ", "trace ", "whit "], "A": ["lot ", "whole "]}

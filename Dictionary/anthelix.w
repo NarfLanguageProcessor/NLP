@@ -1,0 +1,1 @@
+{"index": 14318, "D": "a prominent curved fold of cartilage just inside the outer rim of the external ear", "S": [], "A": []}

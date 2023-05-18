@@ -1,0 +1,1 @@
+{"index": 352874, "D": "not thankful;  ungrateful.", "S": ["boorishness ", "callousness ", "disloyalty ", "inconsiderateness ", "rudeness ", "thoughtlessness "], "A": ["appreciation ", "consideration ", "gratitude "]}

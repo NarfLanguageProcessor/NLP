@@ -1,0 +1,1 @@
+{"index": 183621, "D": "a yellow, crystalline, water-insoluble powder, C5H4N4S, used in the treatment of leukemia.", "S": [], "A": []}

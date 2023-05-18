@@ -1,0 +1,1 @@
+{"index": 219127, "D": "to eat  too much", "S": ["binge ", "feast ", "gluttonize ", "gorge ", "gourmandize ", "overindulge ", "pig ", "scarf ", "surfeit "], "A": ["abstain ", "fast "]}

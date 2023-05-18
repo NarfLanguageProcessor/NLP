@@ -1,0 +1,1 @@
+{"index": 49734, "D": "the faith, system, and practice of the Catholic Church,  especially the Roman Catholic Church. ", "S": ["Catholicity ", "Church of Rome ", "Romanism ", "papistry ", "popery "], "A": []}

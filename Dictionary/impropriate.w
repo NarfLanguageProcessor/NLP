@@ -1,0 +1,1 @@
+{"index": 149166, "D": "to transfer (property, rights, etc) from the Church into lay hands", "S": [], "A": []}

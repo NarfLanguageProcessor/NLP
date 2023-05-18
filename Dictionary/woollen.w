@@ -1,0 +1,1 @@
+{"index": 367322, "D": "relating to or consisting partly or wholly of wool", "S": [], "A": []}

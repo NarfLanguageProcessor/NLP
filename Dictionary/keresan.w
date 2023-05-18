@@ -1,0 +1,1 @@
+{"index": 164003, "D": "a family of languages spoken by Pueblo tribes of the Rio Grande valley and neighboring areas.", "S": [], "A": []}

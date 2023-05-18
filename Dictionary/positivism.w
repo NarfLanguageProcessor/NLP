@@ -1,0 +1,1 @@
+{"index": 243811, "D": "the state or quality of being positive;  definiteness; assurance.", "S": ["confidence ", "inevitability ", "trust "], "A": ["distrust ", "disbelief "]}

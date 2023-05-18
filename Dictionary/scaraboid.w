@@ -1,0 +1,1 @@
+{"index": 279707, "D": "resembling a scarab.", "S": [], "A": []}

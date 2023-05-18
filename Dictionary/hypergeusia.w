@@ -1,0 +1,1 @@
+{"index": 140157, "D": "a condition in which the sense of taste is abnormally acute", "S": [], "A": []}

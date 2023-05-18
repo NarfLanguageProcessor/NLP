@@ -1,0 +1,1 @@
+{"index": 324490, "D": "without becoming tired or weary and without slackening one\u2019s effort", "S": ["endlessly ", "forever ", "incessantly ", "interminably ", "on and on ", "relentlessly ", "repeatedly ", "unremittingly ", "without break ", "without end ", "without rest ", "without stopping "], "A": []}

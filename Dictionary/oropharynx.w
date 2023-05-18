@@ -1,0 +1,1 @@
+{"index": 214855, "D": "the part of the pharynx  between the soft palate and the upper edge of the epiglottis.", "S": [], "A": []}

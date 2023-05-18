@@ -1,0 +1,1 @@
+{"index": 358229, "D": "a person who performs or is skilled in ventriloquism. ", "S": ["artist ", "character ", "clown ", "comedian ", "entertainer ", "performer ", "player ", "star ", "villain "], "A": ["audience ", "fan "]}

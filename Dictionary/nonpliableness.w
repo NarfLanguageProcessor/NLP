@@ -1,0 +1,1 @@
+{"index": 206003, "D": "the quality of being easily bent without breaking; flexibility", "S": [], "A": []}

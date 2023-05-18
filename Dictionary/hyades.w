@@ -1,0 +1,1 @@
+{"index": 138138, "D": "a group of stars comprising a moving cluster in the constellation Taurus, supposed by the ancients to indicate the approach of rain when they rose with the sun.", "S": [], "A": []}

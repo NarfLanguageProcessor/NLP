@@ -1,0 +1,1 @@
+{"index": 126656, "D": "surgical removal of all or part of the tongue", "S": [], "A": []}

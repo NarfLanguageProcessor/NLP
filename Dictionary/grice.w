@@ -1,0 +1,1 @@
+{"index": 129768, "D": "a pig, especially a young or suckling pig.", "S": [], "A": []}

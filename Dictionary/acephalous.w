@@ -1,0 +1,1 @@
+{"index": 1929, "D": "headless; lacking a distinct head.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352875, "D": "to express gratitude, appreciation, or acknowledgment to", "S": ["careless ", "cruel ", "heedless ", "inappreciative ", "rude ", "self-centered ", "thoughtless ", "unappreciative ", "ungracious ", "ungrateful ", "unmindful ", "unthankful "], "A": []}

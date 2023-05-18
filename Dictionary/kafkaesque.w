@@ -1,0 +1,1 @@
+{"index": 162728, "D": "relating to, characteristic of, or resembling the literary work of Franz Kafka; marked by a senseless, disorienting, often menacing complexity", "S": [], "A": []}

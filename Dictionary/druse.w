@@ -1,0 +1,1 @@
+{"index": 93612, "D": "an incrustation of small crystals on the surface of a rock or mineral.", "S": [], "A": []}

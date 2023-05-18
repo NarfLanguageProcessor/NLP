@@ -1,0 +1,1 @@
+{"index": 29516, "D": "any of several prostrate shrubs belonging to the genus Arctostaphylos, of the heath family, especially A. uva-ursi, having tonic, astringent leaves and bright-red berries. ", "S": [], "A": []}

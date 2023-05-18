@@ -1,0 +1,1 @@
+{"index": 72112, "D": "(in an internal-combustion engine) the housing that encloses the crankshaft, connecting rods, and allied parts.", "S": [], "A": []}

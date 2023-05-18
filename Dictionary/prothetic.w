@@ -1,0 +1,1 @@
+{"index": 253539, "D": "the addition of a sound or syllable at the beginning of a word, as in Spanish escala \u201cladder\u201d from Latin scala.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332805, "D": "(formerly) an official employed to turn on the water for the mains supply", "S": [], "A": []}

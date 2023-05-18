@@ -1,0 +1,1 @@
+{"index": 67475, "D": "Compare stop (def. 34). ", "S": [], "A": []}

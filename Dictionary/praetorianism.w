@@ -1,0 +1,1 @@
+{"index": 245198, "D": "the control of a society by force or fraud, especially when exercised through titular officials and by a powerful minority.", "S": [], "A": []}

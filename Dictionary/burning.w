@@ -1,0 +1,1 @@
+{"index": 43224, "D": "aflame; on fire.", "S": ["fiery ", "flaming ", "gleaming ", "glowing ", "hot ", "scorching ", "searing "], "A": ["cold ", "cool "]}

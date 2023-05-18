@@ -1,0 +1,1 @@
+{"index": 140704, "D": "induction of the hypnotic state.", "S": [], "A": []}

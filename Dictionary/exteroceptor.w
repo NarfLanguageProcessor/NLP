@@ -1,0 +1,1 @@
+{"index": 108328, "D": "a receptor responding to stimuli originating outside the body.", "S": [], "A": []}

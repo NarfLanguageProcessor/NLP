@@ -1,0 +1,1 @@
+{"index": 280659, "D": "to wit; namely (used especially on legal documents, as an affidavit, pleading, etc., to verify the place of action).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265109, "D": "restoration of economic activity, consumer prices, etc., to higher levels by manipulating monetary policy.", "S": [], "A": []}

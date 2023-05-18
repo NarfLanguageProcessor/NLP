@@ -1,0 +1,1 @@
+{"index": 41842, "D": "abrupt in manner; blunt; rough", "S": ["contumely ", "impoliteness ", "incivility ", "profanation ", "rudeness "], "A": ["courtesy ", "politeness "]}

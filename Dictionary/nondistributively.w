@@ -1,0 +1,1 @@
+{"index": 203238, "D": "serving to distribute, assign, allot, or divide; characterized by or pertaining to distribution.", "S": [], "A": []}

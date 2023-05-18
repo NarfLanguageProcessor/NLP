@@ -1,0 +1,1 @@
+{"index": 277000, "D": "a room  in which goods are sold or displayed.", "S": [], "A": []}

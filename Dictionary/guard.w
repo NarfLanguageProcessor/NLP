@@ -1,0 +1,1 @@
+{"index": 130774, "D": "to keep safe from harm or danger; protect; watch over", "S": ["defender ", "escort ", "warden "], "A": []}

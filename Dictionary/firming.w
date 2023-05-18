@@ -1,0 +1,1 @@
+{"index": 113264, "D": "not soft or yielding when pressed; comparatively solid, hard, stiff, or rigid", "S": ["cement ", "crystallize ", "stiffen ", "strengthen "], "A": ["dilute ", "dissolve ", "divide ", "liquefy ", "melt ", "separate ", "soften ", "thin "]}

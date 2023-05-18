@@ -1,0 +1,1 @@
+{"index": 251225, "D": "a dark green member of the chlorite  group, usually foliated.", "S": [], "A": []}

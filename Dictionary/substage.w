@@ -1,0 +1,1 @@
+{"index": 309268, "D": "the component part of a microscope below the stage,  for supporting a condenser, mirror, or other accessories.", "S": [], "A": []}

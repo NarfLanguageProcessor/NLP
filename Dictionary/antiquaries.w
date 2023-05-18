@@ -1,0 +1,1 @@
+{"index": 15999, "D": "an expert on or student of antiquities.", "S": ["antiquarian ", "antique collector "], "A": []}

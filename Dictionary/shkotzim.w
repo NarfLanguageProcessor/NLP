@@ -1,0 +1,1 @@
+{"index": 288599, "D": "a term used especially by a Jew to refer to a boy or man who is not Jewish.", "S": [], "A": []}

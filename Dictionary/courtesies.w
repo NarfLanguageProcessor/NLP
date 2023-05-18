@@ -1,0 +1,1 @@
+{"index": 71344, "D": "excellence of manners or social conduct; polite behavior", "S": ["compliments ", "deference ", "devoirs ", "greetings ", "regards ", "salaam ", "salutations "], "A": []}

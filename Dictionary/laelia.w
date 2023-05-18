@@ -1,0 +1,1 @@
+{"index": 167248, "D": "any of several epiphytic tropical American orchids of the genus Laelia, having fleshy leaves and showy flowers.", "S": [], "A": []}

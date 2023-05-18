@@ -1,0 +1,1 @@
+{"index": 40182, "D": "the act or a result of breaking; break or rupture.", "S": [], "A": []}

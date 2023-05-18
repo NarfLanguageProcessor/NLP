@@ -1,0 +1,1 @@
+{"index": 243101, "D": "an officer or soldier in charge of bridge equipment or the construction of pontoon bridges.", "S": [], "A": []}

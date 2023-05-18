@@ -1,0 +1,1 @@
+{"index": 103132, "D": "the natural form of Epsom salt, Mg2SO4\u22c57H2O, found as a crust in caves and lake deposits.", "S": [], "A": []}

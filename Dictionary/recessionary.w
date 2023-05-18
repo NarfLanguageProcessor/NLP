@@ -1,0 +1,1 @@
+{"index": 262767, "D": "of, relating to, or causing recession,  especially economic recession", "S": [], "A": []}

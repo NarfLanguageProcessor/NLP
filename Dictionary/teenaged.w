@@ -1,0 +1,1 @@
+{"index": 317782, "D": "of, relating to, or characteristic of a teenager. ", "S": [], "A": []}

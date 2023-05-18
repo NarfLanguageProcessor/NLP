@@ -1,0 +1,1 @@
+{"index": 190512, "D": "a destroyer or debunker of myths.", "S": [], "A": []}

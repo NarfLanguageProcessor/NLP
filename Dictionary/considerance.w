@@ -1,0 +1,1 @@
+{"index": 66801, "D": "consideration. ", "S": [], "A": []}

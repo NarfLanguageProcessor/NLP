@@ -1,0 +1,1 @@
+{"index": 105075, "D": "demonstrating a belief in the inherent superiority of one\u2019s own ethnic group or culture", "S": [], "A": []}

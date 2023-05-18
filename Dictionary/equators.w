@@ -1,0 +1,1 @@
+{"index": 103204, "D": "the great circle on a sphere or heavenly body whose plane is perpendicular to the axis, equidistant everywhere from the two poles of the sphere or heavenly body.", "S": ["equinoctial ", "equinoctial circle ", "equinoctial line "], "A": []}

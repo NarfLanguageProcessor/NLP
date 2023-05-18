@@ -1,0 +1,1 @@
+{"index": 340604, "D": "to differ in sentiment or opinion, especially from the majority; withhold assent; disagree (often followed by from)", "S": [], "A": []}

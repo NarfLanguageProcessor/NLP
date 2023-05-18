@@ -1,0 +1,1 @@
+{"index": 145254, "D": "(used as an exclamation of joy, exultation, appreciation, encouragement, or the like.)", "S": ["acclaim ", "accolade ", "kudos ", "ovation ", "praise ", "standing ovation "], "A": ["blame ", "criticism ", "disapproval "]}

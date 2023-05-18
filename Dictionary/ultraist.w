@@ -1,0 +1,1 @@
+{"index": 333954, "D": "extremism. ", "S": ["crazed ", "delirious ", "enthusiastic ", "fanatical ", "fervent ", "frenzied ", "furious ", "virulent ", "zealous "], "A": ["apathetic ", "calm ", "disinterested ", "dispassionate ", "indifferent ", "lethargic ", "sane ", "unenthusiastic ", "unexcited "]}

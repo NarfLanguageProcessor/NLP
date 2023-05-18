@@ -1,0 +1,1 @@
+{"index": 347355, "D": "affected with, causing, or characterized by pain", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201102, "D": "not of, relating to, or causing addiction", "S": [], "A": []}

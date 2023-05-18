@@ -1,0 +1,1 @@
+{"index": 287094, "D": "resembling a shadow  in faintness, slightness, etc.", "S": ["dark ", "ghostly ", "shady "], "A": ["bright ", "light "]}

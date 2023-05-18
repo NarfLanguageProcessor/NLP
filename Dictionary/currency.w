@@ -1,0 +1,1 @@
+{"index": 75403, "D": "something that is used as a medium of exchange; money.", "S": ["cash "], "A": []}

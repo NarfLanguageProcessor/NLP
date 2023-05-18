@@ -1,0 +1,1 @@
+{"index": 366691, "D": "lacking wit or intelligence; stupid; foolish.", "S": ["dumb ", "half-baked ", "kooky ", "moronic ", "wacky ", "zany "], "A": ["intelligent ", "smart "]}

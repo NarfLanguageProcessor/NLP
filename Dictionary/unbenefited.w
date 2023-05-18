@@ -1,0 +1,1 @@
+{"index": 335794, "D": "something that is advantageous or good; an advantage", "S": [], "A": []}

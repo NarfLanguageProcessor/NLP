@@ -1,0 +1,1 @@
+{"index": 130330, "D": "any composite plant of the genus Senecio, especially S. vulgaris, a common weed having clusters of small yellow disk flowers without rays.", "S": [], "A": []}

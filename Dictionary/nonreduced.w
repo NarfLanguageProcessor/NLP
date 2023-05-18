@@ -1,0 +1,1 @@
+{"index": 206576, "D": "made smaller, lower, or less; diminished", "S": [], "A": []}

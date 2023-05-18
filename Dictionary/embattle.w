@@ -1,0 +1,1 @@
+{"index": 98027, "D": "to arrange in order of battle; prepare for battle; arm.", "S": ["arm ", "array ", "equip ", "fortify ", "furnish ", "militarize ", "mobilize ", "strengthen ", "supply "], "A": ["discourage ", "dissuade ", "hurt ", "weaken "]}

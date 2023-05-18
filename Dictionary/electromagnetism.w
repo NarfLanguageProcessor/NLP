@@ -1,0 +1,1 @@
+{"index": 97125, "D": "the phenomena associated with electric and magnetic fields and their interactions with each other and with electric charges and currents.", "S": [], "A": []}

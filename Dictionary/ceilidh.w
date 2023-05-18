@@ -1,0 +1,1 @@
+{"index": 50409, "D": "a party, gathering, or the like, at which dancing, singing, and storytelling are the usual forms of entertainment.", "S": [], "A": []}

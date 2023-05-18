@@ -1,0 +1,1 @@
+{"index": 302370, "D": "to cease to run or flow, as water, air, etc.", "S": ["fester ", "hibernate ", "languish ", "stall ", "stand still "], "A": ["build ", "flourish ", "grow ", "help ", "improve "]}

@@ -1,0 +1,1 @@
+{"index": 197498, "D": "a gem, usually not a diamond, cut as a marquise.", "S": [], "A": []}

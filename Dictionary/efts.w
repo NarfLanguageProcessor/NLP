@@ -1,0 +1,1 @@
+{"index": 96136, "D": "electronic funds transfer system.", "S": [], "A": []}

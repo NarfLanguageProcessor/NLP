@@ -1,0 +1,1 @@
+{"index": 229261, "D": "any mollusk of the class Pelecypoda (Lamellibranchiata), characterized by a bivalve shell enclosing the headless body and lamellate gills, comprising the oysters, clams, mussels, and scallops.", "S": [], "A": []}

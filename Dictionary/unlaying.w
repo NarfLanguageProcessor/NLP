@@ -1,0 +1,1 @@
+{"index": 345412, "D": "to separate (a strand) from a rope.", "S": [], "A": []}

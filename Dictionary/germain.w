@@ -1,0 +1,1 @@
+{"index": 124177, "D": "French mathematician who made significant advances in theoretical mathematics. Her researches into number theory in particular provided the first partial solution to Fermat's last theorem (1820).", "S": [], "A": []}

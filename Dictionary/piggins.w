@@ -1,0 +1,1 @@
+{"index": 236380, "D": "a small wooden pail or tub with a handle formed by continuing one of the staves above the rim.", "S": ["bucket "], "A": []}

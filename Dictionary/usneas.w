@@ -1,0 +1,1 @@
+{"index": 356008, "D": "any pale-green or gray, mosslike lichen of the genus Usnea, common on rocks and trees.", "S": [], "A": []}

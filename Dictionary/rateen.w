@@ -1,0 +1,1 @@
+{"index": 260989, "D": "a variant spelling of ratine", "S": [], "A": []}

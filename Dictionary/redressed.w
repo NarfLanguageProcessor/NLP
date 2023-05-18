@@ -1,0 +1,1 @@
+{"index": 264410, "D": "the setting right of what is wrong", "S": ["amend ", "correct ", "counteract ", "even out ", "mend ", "neutralize ", "regulate ", "remedy ", "restore ", "vindicate "], "A": ["break ", "destroy ", "harm ", "hurt ", "injure ", "worsen ", "allow ", "approve ", "damage ", "permit ", "upset "]}

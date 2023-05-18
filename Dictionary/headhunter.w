@@ -1,0 +1,1 @@
+{"index": 134616, "D": "a person who engages in headhunting.", "S": ["anthropophaginian ", "anthropophagite ", "anthropophagus ", "man-eater ", "people-eater "], "A": []}

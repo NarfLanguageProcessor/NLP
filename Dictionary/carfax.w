@@ -1,0 +1,1 @@
+{"index": 47969, "D": "a place where principal roads or streets intersect, esp a place in a town where four roads meet", "S": [], "A": []}

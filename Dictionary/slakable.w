@@ -1,0 +1,1 @@
+{"index": 293594, "D": "to allay (thirst, desire, wrath, etc.) by satisfying.", "S": [], "A": []}

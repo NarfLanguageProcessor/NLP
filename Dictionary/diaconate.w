@@ -1,0 +1,1 @@
+{"index": 84054, "D": "the office or dignity of a deacon.", "S": ["priesthood "], "A": []}

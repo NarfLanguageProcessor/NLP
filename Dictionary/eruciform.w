@@ -1,0 +1,1 @@
+{"index": 104028, "D": "having the physical characteristics of a caterpillar. ", "S": [], "A": []}

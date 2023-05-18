@@ -1,0 +1,1 @@
+{"index": 63594, "D": "a member of a Shoshonean tribe, the only tribe of the group living entirely on the Plains, formerly ranging from Wyoming to Texas, now in Oklahoma.", "S": [], "A": []}

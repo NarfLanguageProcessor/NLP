@@ -1,0 +1,1 @@
+{"index": 133527, "D": "a substance having a single antigenic determinant that can react with a previously existing antibody but cannot stimulate more antibody production unless combined with other molecules; a partial antigen.", "S": [], "A": []}

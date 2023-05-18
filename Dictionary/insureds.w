@@ -1,0 +1,1 @@
+{"index": 154117, "D": "the person, group, or organization whose life or property is covered by aninsurance  policy.", "S": [], "A": []}

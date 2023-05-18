@@ -1,0 +1,1 @@
+{"index": 304503, "D": "to design in or cause to conform to a particular style,  as of representation or treatment in art; conventionalize.", "S": ["liturgical ", "solemn ", "stately "], "A": ["unimpressive "]}

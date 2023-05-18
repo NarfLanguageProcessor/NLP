@@ -1,0 +1,1 @@
+{"index": 58026, "D": "the state or quality of being in the shape or form of a circle", "S": [], "A": []}

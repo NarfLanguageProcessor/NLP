@@ -1,0 +1,1 @@
+{"index": 308137, "D": "having the form of a hemisphere. ", "S": [], "A": []}

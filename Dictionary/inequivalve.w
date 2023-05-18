@@ -1,0 +1,1 @@
+{"index": 151569, "D": "(of a bivalve mollusk) having the valves  of the shell unequal in shape and size.", "S": [], "A": []}

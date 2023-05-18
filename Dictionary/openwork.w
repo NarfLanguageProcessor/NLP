@@ -1,0 +1,1 @@
+{"index": 213253, "D": "any kind of work,  especially ornamental, as of embroidery, lace, metal, stone, or wood, having a latticelike nature or showing openings through its substance.", "S": ["mesh ", "ornament "], "A": []}

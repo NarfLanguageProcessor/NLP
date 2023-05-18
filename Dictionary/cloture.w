@@ -1,0 +1,1 @@
+{"index": 60528, "D": "a method of closing  a debate and causing an immediate vote to be taken on the question.", "S": [], "A": []}

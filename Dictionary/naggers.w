@@ -1,0 +1,1 @@
+{"index": 196510, "D": "nag1 (def. 5). ", "S": ["caviler ", "caviller ", "faultfinder ", "nag ", "niggler ", "nitpicker ", "quibbler ", "scold "], "A": []}

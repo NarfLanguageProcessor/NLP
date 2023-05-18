@@ -1,0 +1,1 @@
+{"index": 148919, "D": "very impressive because of great size, stately appearance, dignity, elegance, etc.", "S": [], "A": []}

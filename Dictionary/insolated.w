@@ -1,0 +1,1 @@
+{"index": 153692, "D": "to expose to the sun's rays; treat by exposure to the sun's rays.", "S": [], "A": []}

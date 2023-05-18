@@ -1,0 +1,1 @@
+{"index": 110420, "D": "one of a class of rural deities represented as men with the ears, horns, tail, and later also the hind legs of a goat.", "S": [], "A": []}

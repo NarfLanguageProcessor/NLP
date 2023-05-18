@@ -1,0 +1,1 @@
+{"index": 328162, "D": "going beyond national  boundaries or interests", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 204589, "D": "the impeaching  of a public official before an appropriate tribunal.", "S": [], "A": []}

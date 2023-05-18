@@ -1,0 +1,1 @@
+{"index": 115439, "D": "a salt of hydrofluoric acid consisting of two elements, one of which is fluorine, as sodium fluoride,  NaF.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249549, "D": "a breathing hole; an opening by which a confined space has communication with the outer air; air hole.", "S": [], "A": []}

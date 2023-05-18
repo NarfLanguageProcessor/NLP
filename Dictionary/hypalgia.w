@@ -1,0 +1,1 @@
+{"index": 139795, "D": "decreased sensitivity to pain (opposed to hyperalgesia).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287073, "D": "a slight variation or difference of color, character, etc.", "S": ["complexion "], "A": []}

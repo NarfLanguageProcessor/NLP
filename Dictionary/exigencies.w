@@ -1,0 +1,1 @@
+{"index": 107206, "D": "exigent  state or character; urgency.", "S": ["demands ", "exigency ", "necessity ", "need ", "needs ", "requirement ", "requirements ", "want "], "A": []}

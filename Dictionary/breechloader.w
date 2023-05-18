@@ -1,0 +1,1 @@
+{"index": 40383, "D": "a firearm loaded at the breech. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234324, "D": "the smallest part of a stem, root, or leaf, that, when removed from a plant, may grow into a new plant.", "S": [], "A": []}

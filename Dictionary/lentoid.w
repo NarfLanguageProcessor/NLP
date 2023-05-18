@@ -1,0 +1,1 @@
+{"index": 170521, "D": "having the shape of a biconvex lens.", "S": [], "A": []}

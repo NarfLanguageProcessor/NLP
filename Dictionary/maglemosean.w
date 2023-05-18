@@ -1,0 +1,1 @@
+{"index": 177455, "D": "of, relating to, or characteristic of the first Mesolithic culture of the northern European plain, adapted to forest and waterside habitats and characterized by flint axes, microliths, and bone and antler equipment used in hunting and fishing.", "S": [], "A": []}

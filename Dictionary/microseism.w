@@ -1,0 +1,1 @@
+{"index": 186489, "D": "a feeble, recurrent vibration of the ground recorded by seismographs and believed to be due to an earthquake or a storm at sea.", "S": ["shock ", "temblor ", "upheaval "], "A": ["perfection "]}

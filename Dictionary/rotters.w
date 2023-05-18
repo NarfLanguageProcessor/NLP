@@ -1,0 +1,1 @@
+{"index": 274697, "D": "a thoroughly bad, worthless, or objectionable person.", "S": ["boor ", "bounder ", "clown ", "creep ", "cur ", "dog ", "heel ", "louse ", "lout ", "rake ", "rascal ", "rat ", "rounder ", "scoundrel ", "stinker ", "worm "], "A": ["gentleman ", "helper "]}

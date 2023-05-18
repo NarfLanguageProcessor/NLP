@@ -1,0 +1,1 @@
+{"index": 275350, "D": "somewhat reddish; tinged with red; rufous.", "S": [], "A": []}

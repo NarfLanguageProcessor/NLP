@@ -1,0 +1,1 @@
+{"index": 216910, "D": "the act or process of outlawing. ", "S": [], "A": []}

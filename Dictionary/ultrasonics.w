@@ -1,0 +1,1 @@
+{"index": 334063, "D": "the branch of science that deals with the effects of sound waves above human perception.", "S": [], "A": []}

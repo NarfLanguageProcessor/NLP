@@ -1,0 +1,1 @@
+{"index": 7291, "D": "a lightweight, glossy silk fabric used in the manufacture of scarfs, hoods, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164920, "D": "the side of the board on which the king is positioned at the start of the game, left for black and right for white.", "S": [], "A": []}

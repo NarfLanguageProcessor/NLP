@@ -1,0 +1,1 @@
+{"index": 300952, "D": "the young individual developed from a spore.", "S": [], "A": []}

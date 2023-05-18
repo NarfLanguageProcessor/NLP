@@ -1,0 +1,1 @@
+{"index": 125708, "D": "to present voluntarily and without expecting compensation; bestow", "S": ["offering "], "A": ["appropriating ", "getting ", "taking "]}

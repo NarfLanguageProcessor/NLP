@@ -1,0 +1,1 @@
+{"index": 339156, "D": "to estimate  at too low a value, rate, or the like.", "S": ["decayed ", "deserted ", "ignored ", "overlooked ", "spurned ", "undervalued ", "unused ", "unwanted "], "A": ["cared for ", "considered ", "heeded ", "used "]}

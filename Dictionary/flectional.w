@@ -1,0 +1,1 @@
+{"index": 114334, "D": "the act of bending.", "S": [], "A": []}

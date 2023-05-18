@@ -1,0 +1,1 @@
+{"index": 187642, "D": "prim, underwhelming, and ineffectual", "S": [], "A": []}

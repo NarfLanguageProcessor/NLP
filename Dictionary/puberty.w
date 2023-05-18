@@ -1,0 +1,1 @@
+{"index": 255887, "D": "the period or age at which a person is first capable of sexual reproduction of offspring", "S": ["adolescence "], "A": ["adulthood "]}

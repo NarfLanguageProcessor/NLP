@@ -1,0 +1,1 @@
+{"index": 257228, "D": "a cat; pussy.", "S": ["kitten ", "kitty ", "tabby "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 157297, "D": "the act of invoking  or calling upon a deity, spirit, etc., for aid, protection, inspiration, or the like; supplication.", "S": ["abracadabra ", "appeal ", "calling ", "command ", "conjuration ", "entreaty ", "hocus-pocus ", "hoodoo ", "petition ", "rune ", "summons ", "supplication ", "voodoo "], "A": ["revocation "]}

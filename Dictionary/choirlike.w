@@ -1,0 +1,1 @@
+{"index": 55327, "D": "a company of singers, especially an organized group employed in church service.", "S": [], "A": []}

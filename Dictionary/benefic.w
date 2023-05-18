@@ -1,0 +1,1 @@
+{"index": 31550, "D": "doing or promoting some good; beneficent", "S": ["altruistic ", "beneficial ", "benevolent ", "benign ", "benignant ", "big-hearted ", "charitable ", "favorable ", "generous ", "good ", "helpful ", "humanitarian ", "kind ", "propitious ", "useful "], "A": []}

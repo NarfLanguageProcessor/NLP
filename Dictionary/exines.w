@@ -1,0 +1,1 @@
+{"index": 107238, "D": "the outer coat of a spore, especially a pollen grain.", "S": [], "A": []}

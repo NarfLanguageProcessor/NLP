@@ -1,0 +1,1 @@
+{"index": 319709, "D": "of, relating to, or like a mosaic.", "S": [], "A": []}

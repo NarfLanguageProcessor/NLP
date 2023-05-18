@@ -1,0 +1,1 @@
+{"index": 159813, "D": "to talk or utter rapidly, indistinctly, incoherently, or nonsensically; chatter.", "S": ["babble ", "blather ", "chatter ", "drivel ", "gab ", "jaw ", "mumble ", "murmur ", "mutter ", "prate ", "ramble ", "talk ", "tattle ", "utter ", "yak ", "yap "], "A": ["be quiet ", "conceal ", "hide "]}

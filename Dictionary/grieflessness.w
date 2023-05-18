@@ -1,0 +1,1 @@
+{"index": 129798, "D": "keen mental suffering or distress over affliction or loss; sharp sorrow; painful regret.", "S": [], "A": []}

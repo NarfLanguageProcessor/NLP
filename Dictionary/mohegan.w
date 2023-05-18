@@ -1,0 +1,1 @@
+{"index": 191273, "D": "a member of a group of Pequot Indians that broke with the Pequot and then fought against them in the Pequot War.", "S": [], "A": []}

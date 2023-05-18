@@ -1,0 +1,1 @@
+{"index": 183218, "D": "a native or inhabitant of the ancient Egyptian  city of Memphis. ", "S": [], "A": []}

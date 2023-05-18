@@ -1,0 +1,1 @@
+{"index": 74670, "D": "a male cook or chef.", "S": ["cook ", "culinary artist ", "gourmet chef ", "hash slinger ", "sous chef "], "A": []}

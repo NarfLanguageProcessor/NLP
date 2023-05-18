@@ -1,0 +1,1 @@
+{"index": 232775, "D": "any of various light, four-wheeled carriages, with or without a top, having one or two seats facing forward, used in the 19th century.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166659, "D": "the fact or quality of being likely to change", "S": [], "A": []}

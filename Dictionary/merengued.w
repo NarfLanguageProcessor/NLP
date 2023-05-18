@@ -1,0 +1,1 @@
+{"index": 183750, "D": "a ballroom dance of Dominican and Haitian origin, characterized by a stiff-legged, limping step.", "S": [], "A": []}

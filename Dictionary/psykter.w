@@ -1,0 +1,1 @@
+{"index": 255550, "D": "a wine jar with an ovoid body tapering at the neck, set on a high foot", "S": [], "A": []}

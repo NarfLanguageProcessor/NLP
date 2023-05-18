@@ -1,0 +1,1 @@
+{"index": 6592, "D": "a type of brandy made in Spain and Portugal.", "S": [], "A": []}

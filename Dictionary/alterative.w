@@ -1,0 +1,1 @@
+{"index": 9455, "D": "tending to alter. ", "S": [], "A": []}

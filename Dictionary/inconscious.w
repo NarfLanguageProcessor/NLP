@@ -1,0 +1,1 @@
+{"index": 150242, "D": [], "S": ["senseless "], "A": ["alert ", "awake ", "conscious "]}

@@ -1,0 +1,1 @@
+{"index": 154301, "D": "the quality or condition of being intelligible;  capability of being understood.", "S": ["accuracy ", "brightness ", "certainty ", "directness ", "lucidity ", "precision ", "purity ", "simplicity ", "transparency "], "A": ["inaccuracy ", "unintelligibility "]}

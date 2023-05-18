@@ -1,0 +1,1 @@
+{"index": 28594, "D": "belonging or pertaining to the basidiomycetes. ", "S": [], "A": []}

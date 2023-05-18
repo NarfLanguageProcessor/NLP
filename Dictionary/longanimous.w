@@ -1,0 +1,1 @@
+{"index": 174890, "D": "patient endurance of hardship, injuries, or offense; forbearance. ", "S": ["forgiving ", "gentle ", "moderate "], "A": ["violent ", "wild "]}

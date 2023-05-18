@@ -1,0 +1,1 @@
+{"index": 18683, "D": "a reptilelike fossil bird of the genus Archaeopteryx, from the late Jurassic Period, having teeth and a long, feathered, vertebrate tail.", "S": [], "A": []}

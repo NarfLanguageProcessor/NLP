@@ -1,0 +1,1 @@
+{"index": 186423, "D": "a set of microinstructions that defines the individual operations that a computer carries out in response to a machine-language instruction.", "S": [], "A": []}

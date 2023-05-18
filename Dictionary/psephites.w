@@ -1,0 +1,1 @@
+{"index": 254383, "D": "any coarse rock, as breccia or conglomerate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233101, "D": [], "S": ["bigot ", "charlatan ", "crook ", "impostor ", "phony ", "trickster "], "A": []}

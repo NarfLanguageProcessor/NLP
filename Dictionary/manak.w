@@ -1,0 +1,1 @@
+{"index": 178895, "D": "a wooden ball fitted with hooks and attached to a rope, used by the Inuit and Yupik in the Arctic to secure and haul in seals killed offshore.", "S": [], "A": []}

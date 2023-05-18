@@ -1,0 +1,1 @@
+{"index": 352181, "D": "rigorously binding or exacting; strict; severe", "S": [], "A": []}

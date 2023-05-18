@@ -1,0 +1,1 @@
+{"index": 148417, "D": "obstruction; hindrance; obstacle. ", "S": ["gear ", "machinery ", "regalia "], "A": []}

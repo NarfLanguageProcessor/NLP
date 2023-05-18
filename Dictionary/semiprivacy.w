@@ -1,0 +1,1 @@
+{"index": 284759, "D": "having some degree of privacy but not fully private,  as a hospital room with fewer beds than a ward.", "S": [], "A": []}

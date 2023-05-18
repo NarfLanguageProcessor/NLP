@@ -1,0 +1,1 @@
+{"index": 285804, "D": "of, relating to, or serving as a tomb.", "S": [], "A": []}

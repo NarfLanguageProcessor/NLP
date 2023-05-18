@@ -1,0 +1,1 @@
+{"index": 325876, "D": "a calcareous concretion formed in the soft tissue about a joint, in the pinna of the ear, etc., especially in gout; a gouty deposit.", "S": [], "A": []}

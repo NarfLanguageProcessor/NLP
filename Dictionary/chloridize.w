@@ -1,0 +1,1 @@
+{"index": 55085, "D": "to convert (the metal of an ore) into a chloride  by treating with chlorine or hydrochloric acid.", "S": [], "A": []}

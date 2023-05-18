@@ -1,0 +1,1 @@
+{"index": 291770, "D": "something characteristic of or peculiar to the Chinese; a Chinese method, custom, or usage.", "S": [], "A": []}

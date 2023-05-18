@@ -1,0 +1,1 @@
+{"index": 171532, "D": "the part of N Africa W of Egypt.", "S": [], "A": []}

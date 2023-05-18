@@ -1,0 +1,1 @@
+{"index": 33657, "D": "having two pores or perforations.", "S": [], "A": []}

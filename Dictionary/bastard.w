@@ -1,0 +1,1 @@
+{"index": 28805, "D": "a person born of unmarried parents; an illegitimate child.", "S": ["counterfeit ", "fake ", "imperfect ", "inferior ", "irregular ", "mongrel ", "natural ", "phony ", "sham "], "A": ["genuine ", "real ", "true "]}

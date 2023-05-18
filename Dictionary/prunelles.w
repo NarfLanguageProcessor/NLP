@@ -1,0 +1,1 @@
+{"index": 254252, "D": "a sweet, brown, French liqueur distilled from plums.", "S": [], "A": []}

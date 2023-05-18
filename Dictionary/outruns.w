@@ -1,0 +1,1 @@
+{"index": 217334, "D": "to run  faster or farther than.", "S": ["elude ", "surpass "], "A": ["aid ", "help ", "lose ", "surrender "]}

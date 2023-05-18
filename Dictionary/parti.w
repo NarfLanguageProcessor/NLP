@@ -1,0 +1,1 @@
+{"index": 226987, "D": "the basic scheme or concept of an architectural design.", "S": [], "A": []}

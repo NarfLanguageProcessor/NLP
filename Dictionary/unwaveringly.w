@@ -1,0 +1,1 @@
+{"index": 354089, "D": "fluttering, swaying to and fro, tottering, or reeling", "S": ["adamantly ", "decisively ", "doggedly ", "persistently ", "resolutely ", "staunchly ", "steadfastly ", "strictly ", "stubbornly ", "tenaciously "], "A": ["indefinitely ", "weakly "]}

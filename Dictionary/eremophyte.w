@@ -1,0 +1,1 @@
+{"index": 103553, "D": "a plant that grows in desert conditions.", "S": [], "A": []}

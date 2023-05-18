@@ -1,0 +1,1 @@
+{"index": 350440, "D": "an unscrupulous and often mischievous person; rascal; rogue; scalawag.", "S": [], "A": []}

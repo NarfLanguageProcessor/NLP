@@ -1,0 +1,1 @@
+{"index": 301294, "D": "a flexible board,  projecting over water, from which divers leap or spring. ", "S": ["beginning of venture ", "beginning point ", "jumping-off point ", "springboard ", "starting blocks ", "starting gate ", "starting line ", "starting post "], "A": []}

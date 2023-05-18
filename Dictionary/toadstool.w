@@ -1,0 +1,1 @@
+{"index": 324897, "D": "any of various mushrooms having a stalk with an umbrellalike cap, especially the agarics.", "S": [], "A": []}

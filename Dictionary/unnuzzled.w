@@ -1,0 +1,1 @@
+{"index": 346984, "D": "to burrow or root with the nose, snout, etc., as an animal does", "S": [], "A": []}

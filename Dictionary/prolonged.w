@@ -1,0 +1,1 @@
+{"index": 252202, "D": "lasting a long time; lengthy", "S": ["dull ", "lengthened ", "protracted "], "A": ["shortened "]}

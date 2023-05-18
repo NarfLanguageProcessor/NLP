@@ -1,0 +1,1 @@
+{"index": 65645, "D": "expression of sympathy with a person who is suffering sorrow, misfortune, or grief.", "S": ["compassion ", "consolation ", "solace "], "A": []}

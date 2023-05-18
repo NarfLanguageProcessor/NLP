@@ -1,0 +1,1 @@
+{"index": 247802, "D": [], "S": ["apprehend ", "arrest ", "catch ", "conquer ", "grab ", "occupy ", "pick up ", "round up ", "secure ", "seize ", "snatch ", "take ", "trap "], "A": ["forfeit ", "free ", "give up ", "let go ", "lose ", "offer ", "receive ", "release ", "surrender ", "yield ", "liberate "]}

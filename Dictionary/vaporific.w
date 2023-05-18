@@ -1,0 +1,1 @@
+{"index": 357065, "D": "producing vapor;  tending to form vapor. ", "S": [], "A": []}

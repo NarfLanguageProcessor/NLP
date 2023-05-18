@@ -1,0 +1,1 @@
+{"index": 4728, "D": "of or relating to an advocate,  a person who pleads for or on behalf of another, or to the functions of an advocate.", "S": [], "A": []}

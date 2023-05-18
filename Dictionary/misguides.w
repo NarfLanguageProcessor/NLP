@@ -1,0 +1,1 @@
+{"index": 189390, "D": "to guide wrongly; misdirect.", "S": ["dupe ", "hoodwink ", "mislead "], "A": []}

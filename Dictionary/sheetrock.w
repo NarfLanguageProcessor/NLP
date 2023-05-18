@@ -1,0 +1,1 @@
+{"index": 287878, "D": "a brand name for a plasterboard of gypsum between paper.", "S": ["drywall ", "gyp board ", "plasterboard ", "wallboard "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68249, "D": "a simple structure, as on a ranch or at a camp, where food is cooked. ", "S": ["cookhouse ", "lunch wagon "], "A": []}

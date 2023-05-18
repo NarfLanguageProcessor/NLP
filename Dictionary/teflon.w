@@ -1,0 +1,1 @@
+{"index": 317870, "D": "a fluorocarbon polymer with slippery, nonsticking properties; polytetrafluoroethylene.", "S": [], "A": []}

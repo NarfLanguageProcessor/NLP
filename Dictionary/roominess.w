@@ -1,0 +1,1 @@
+{"index": 274262, "D": "affording ample room;  spacious; large.", "S": ["vastness "], "A": []}

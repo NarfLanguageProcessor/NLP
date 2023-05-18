@@ -1,0 +1,1 @@
+{"index": 227619, "D": "having the form of a patella;  shaped like a saucer, kneecap, or limpet shell.", "S": [], "A": []}

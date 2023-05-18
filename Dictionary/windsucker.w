@@ -1,0 +1,1 @@
+{"index": 366054, "D": "a horse afflicted with cribbing.", "S": [], "A": []}

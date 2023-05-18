@@ -1,0 +1,1 @@
+{"index": 349466, "D": "to say casually, as in making a comment", "S": ["overlooked ", "undiscovered ", "unrecognized ", "unseen "], "A": ["noted ", "noticed ", "seen "]}

@@ -1,0 +1,1 @@
+{"index": 185606, "D": "milligram; milligrams.", "S": ["submachine gun "], "A": []}

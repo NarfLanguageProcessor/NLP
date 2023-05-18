@@ -1,0 +1,1 @@
+{"index": 159060, "D": "a crystalline amino acid, C6H13O2, occurring in proteins, that is essential to the nutrition of humans and animals. Abbreviation", "S": [], "A": []}

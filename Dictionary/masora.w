@@ -1,0 +1,1 @@
+{"index": 180735, "D": "the text of the Hebrew Bible as officially revised by the Masoretes from the 6th to the 10th centuries ad, with critical notes and commentary", "S": [], "A": []}

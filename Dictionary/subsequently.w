@@ -1,0 +1,1 @@
+{"index": 309122, "D": "later in time; afterward", "S": ["afterwards ", "finally ", "later "], "A": ["earlier ", "former ", "prior "]}

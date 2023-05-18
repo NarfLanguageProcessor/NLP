@@ -1,0 +1,1 @@
+{"index": 170186, "D": "an amusing hoax, practical joke, or the like", "S": [], "A": []}

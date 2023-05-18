@@ -1,0 +1,1 @@
+{"index": 267724, "D": "to give up or put aside voluntarily", "S": [], "A": []}

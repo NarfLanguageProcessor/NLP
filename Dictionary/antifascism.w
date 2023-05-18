@@ -1,0 +1,1 @@
+{"index": 15234, "D": "a governmental system led by a dictator having complete power, forcibly suppressing opposition and criticism, regimenting all industry, commerce, etc., and emphasizing an aggressive nationalism and often racism.", "S": [], "A": []}

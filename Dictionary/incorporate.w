@@ -1,0 +1,1 @@
+{"index": 150365, "D": "to form into a legal corporation. ", "S": ["absorb ", "assimilate ", "blend ", "consolidate ", "cover ", "embody ", "fuse ", "integrate ", "merge ", "mix ", "organize "], "A": ["disconnect ", "disperse ", "divide ", "exclude ", "misunderstand ", "part ", "separate ", "disjoin "]}

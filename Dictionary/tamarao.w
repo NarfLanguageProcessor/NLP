@@ -1,0 +1,1 @@
+{"index": 315823, "D": "a variant of tamarau. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 270419, "D": "a pierced plate on an astrolabe, having projections whose points correspond to the fixed stars.", "S": [], "A": []}

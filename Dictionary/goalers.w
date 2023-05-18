@@ -1,0 +1,1 @@
+{"index": 127178, "D": "goalkeeper in the game of ice hockey.", "S": [], "A": []}

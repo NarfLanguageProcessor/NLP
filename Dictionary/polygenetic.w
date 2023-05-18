@@ -1,0 +1,1 @@
+{"index": 241891, "D": "relating to or exhibiting polygenesis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118648, "D": "enjoying personal rights or liberty, as a person who is not in slavery", "S": ["complimentary "], "A": ["costly ", "expensive ", "high-priced ", "priced "]}

@@ -1,0 +1,1 @@
+{"index": 40549, "D": "one of a French breed of dogs having a long, slightly wavy coat, raised originally for herding sheep.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225823, "D": "one of the independent variables in a set of parametric equations.", "S": ["bounds ", "confines ", "domain "], "A": ["extreme ", "height ", "insignificance ", "limitation "]}

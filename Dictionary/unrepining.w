@@ -1,0 +1,1 @@
+{"index": 349566, "D": "to be fretfully discontented; fret; complain.", "S": [], "A": []}

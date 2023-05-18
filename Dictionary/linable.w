@@ -1,0 +1,1 @@
+{"index": 172653, "D": "a mark or stroke long in proportion to its breadth, made with a pen, pencil, tool, etc., on a surface", "S": [], "A": []}

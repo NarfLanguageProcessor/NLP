@@ -1,0 +1,1 @@
+{"index": 42231, "D": "plate armor for the lower part of the face and the throat, used with a burgonet.", "S": [], "A": []}

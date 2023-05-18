@@ -1,0 +1,1 @@
+{"index": 349953, "D": "in accordance with what is good, proper, or just", "S": [], "A": []}

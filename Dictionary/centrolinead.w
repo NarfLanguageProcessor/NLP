@@ -1,0 +1,1 @@
+{"index": 51026, "D": "a drafting instrument for drawing lines converging on a vanishing point outside the drawing.", "S": [], "A": []}

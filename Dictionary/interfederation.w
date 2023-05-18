@@ -1,0 +1,1 @@
+{"index": 154917, "D": "the act of federating  or uniting in a league.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360525, "D": "of or relating to life", "S": ["case of emergency ", "case of need ", "emergency ", "exigency ", "grave affair ", "matter of necessity ", "necessitude ", "urgency "], "A": []}

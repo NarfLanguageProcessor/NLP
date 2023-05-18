@@ -1,0 +1,1 @@
+{"index": 167932, "D": "a specific geomorphic feature on the surface of the earth, ranging from large-scale features such as plains, plateaus, and mountains to minor features such as hills, valleys, and alluvial fans.", "S": [], "A": []}

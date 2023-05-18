@@ -1,0 +1,1 @@
+{"index": 357983, "D": "the process, act, or craft of applying veneers. ", "S": ["coating ", "exterior ", "facade ", "gloss ", "layer ", "mask ", "semblance "], "A": ["reality "]}

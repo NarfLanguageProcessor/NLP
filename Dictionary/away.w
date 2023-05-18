@@ -1,0 +1,1 @@
+{"index": 24924, "D": "from this or that place; off", "S": ["abroad ", "absent ", "aside ", "distant ", "elsewhere ", "off ", "over "], "A": []}

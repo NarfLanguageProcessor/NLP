@@ -1,0 +1,1 @@
+{"index": 176054, "D": "timber sawed or split into planks, boards, etc.", "S": ["plod ", "shuffle ", "slog ", "trudge ", "trundle ", "waddle "], "A": ["tiptoe "]}

@@ -1,0 +1,1 @@
+{"index": 352932, "D": "the quality of being painstakingly and comprehensively executed, without errors or omissions; the act or practice of executing tasks in this way", "S": [], "A": []}

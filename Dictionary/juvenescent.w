@@ -1,0 +1,1 @@
+{"index": 162599, "D": "being or becoming youthful; young.", "S": [], "A": []}

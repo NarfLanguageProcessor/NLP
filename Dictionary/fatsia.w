@@ -1,0 +1,1 @@
+{"index": 110336, "D": "a shrub or small tree, Fatsia japonica, of the ginseng family, having large, glossy, palmately compound leaves and often grown as a houseplant.", "S": [], "A": []}

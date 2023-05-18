@@ -1,0 +1,1 @@
+{"index": 63327, "D": "inability to distinguish one or several chromatic colors, independent of the capacity for distinguishing light and shade.", "S": ["achromatic vision ", "achromatopsia ", "color vision deficiency ", "daltonism ", "dichromatic vision "], "A": []}

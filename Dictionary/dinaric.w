@@ -1,0 +1,1 @@
+{"index": 86053, "D": "of or relating to the Alpine region of the Balkan Peninsula, from Slovenia to northern Albania and extending across western Coatia, and most of Bosnia and Herzegovna, and Montenegro.", "S": [], "A": []}

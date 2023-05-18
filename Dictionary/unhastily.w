@@ -1,0 +1,1 @@
+{"index": 343551, "D": "with haste; rapidly;  speedily", "S": [], "A": []}

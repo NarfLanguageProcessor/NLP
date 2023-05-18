@@ -1,0 +1,1 @@
+{"index": 44825, "D": "having a calcar  or calcaria;  spurred.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 317855, "D": "of or relating to, advocating, or pledged to total abstinence from intoxicating drink.", "S": ["abstemiously "], "A": ["cheerfully ", "drunkenly ", "excitedly ", "hilariously "]}

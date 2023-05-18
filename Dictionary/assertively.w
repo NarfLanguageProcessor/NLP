@@ -1,0 +1,1 @@
+{"index": 21695, "D": "confidently aggressive or self-assured; positive", "S": [], "A": []}

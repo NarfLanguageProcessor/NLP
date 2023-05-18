@@ -1,0 +1,1 @@
+{"index": 35365, "D": "a word or phrase associated with some person or thing; a characteristic expression, typical greeting, or the like.", "S": ["adage ", "aphorism ", "apophthegm ", "axiom ", "catchphrase ", "catchword ", "dictum ", "epithet ", "gnome ", "handle ", "maxim ", "motto ", "nickname ", "precept ", "proverb ", "saw ", "shibboleth ", "slogan "], "A": []}

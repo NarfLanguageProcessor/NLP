@@ -1,0 +1,1 @@
+{"index": 8560, "D": "a vascular, extraembryonic membrane of birds, reptiles, and certain mammals that develops as a sac or diverticulum from the ventral wall of the hindgut.", "S": [], "A": []}

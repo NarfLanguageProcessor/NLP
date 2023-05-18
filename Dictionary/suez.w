@@ -1,0 +1,1 @@
+{"index": 310083, "D": "a seaport in NE Egypt, near the S end of the Suez Canal.", "S": [], "A": []}

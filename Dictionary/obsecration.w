@@ -1,0 +1,1 @@
+{"index": 210358, "D": "to entreat solemnly; beseech; supplicate.", "S": ["entreaty ", "litany ", "petition ", "plea ", "prayer ", "request ", "rogation ", "solicitation "], "A": ["answer ", "reply "]}

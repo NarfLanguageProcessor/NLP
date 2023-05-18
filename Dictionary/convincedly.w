@@ -1,0 +1,1 @@
+{"index": 68106, "D": "moved by argument or evidence to belief, agreement, consent, or a course of action", "S": [], "A": []}

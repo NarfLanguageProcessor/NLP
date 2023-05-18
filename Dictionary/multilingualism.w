@@ -1,0 +1,1 @@
+{"index": 195158, "D": "using or able to speak several or many languages with some facility.", "S": [], "A": []}

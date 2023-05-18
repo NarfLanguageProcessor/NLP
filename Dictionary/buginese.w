@@ -1,0 +1,1 @@
+{"index": 42319, "D": "a member of a Muslim people inhabiting the southern part of Sulawesi.", "S": [], "A": []}

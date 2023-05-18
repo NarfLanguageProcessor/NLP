@@ -1,0 +1,1 @@
+{"index": 273243, "D": "advancing, ascending, or mounting", "S": ["coup ", "insurgency ", "mutiny ", "revolt ", "revolution ", "riot ", "sedition ", "uprising "], "A": ["calm ", "peace "]}

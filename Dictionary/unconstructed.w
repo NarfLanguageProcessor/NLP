@@ -1,0 +1,1 @@
+{"index": 337760, "D": "(of clothing) made with little or no padding, interfacing, or lining, so as to fit loosely or softly on the body.", "S": [], "A": []}

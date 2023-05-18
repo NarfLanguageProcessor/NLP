@@ -1,0 +1,1 @@
+{"index": 144769, "D": "an apparently extinct, crowlike bird, Heteralocha acutirostris, of New Zealand, noted for the completely different bill shapes of the male and female.", "S": [], "A": []}

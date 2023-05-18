@@ -1,0 +1,1 @@
+{"index": 83705, "D": "to swallow or eat up hungrily, voraciously, or ravenously.", "S": ["absorb ", "destroy ", "eat ", "exhaust ", "feed on ", "go through ", "gobble ", "ingest ", "inhale ", "ravage ", "use up ", "wipe out "], "A": ["build ", "create ", "abstain ", "dislike ", "hate ", "hold ", "keep ", "nibble ", "open ", "preserve ", "receive ", "save "]}

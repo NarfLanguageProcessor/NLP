@@ -1,0 +1,1 @@
+{"index": 360623, "D": "the quality or condition of being or becoming vitreous", "S": [], "A": []}

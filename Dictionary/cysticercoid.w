@@ -1,0 +1,1 @@
+{"index": 58471, "D": "the larva of any of certain tapeworms, which resembles a cysticercus but has a smaller bladder", "S": [], "A": []}

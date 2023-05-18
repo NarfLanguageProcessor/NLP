@@ -1,0 +1,1 @@
+{"index": 118379, "D": "a city in and the capital of Kentucky, in the N part.", "S": [], "A": []}

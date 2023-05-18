@@ -1,0 +1,1 @@
+{"index": 124116, "D": "a colorless or pale-yellow terpene alcohol, C10H18O, with a geraniumlike odor, found in rose oil, soluble in alcohol and ether, insoluble in water", "S": [], "A": []}

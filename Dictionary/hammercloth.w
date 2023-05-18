@@ -1,0 +1,1 @@
+{"index": 132999, "D": "a cloth covering for the driver's seat on a horse-drawn carriage.", "S": [], "A": []}

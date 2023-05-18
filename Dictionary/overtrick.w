@@ -1,0 +1,1 @@
+{"index": 221673, "D": "a trick  won by declarer in excess of the number of tricks  necessary to make the contract.", "S": [], "A": []}

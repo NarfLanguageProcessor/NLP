@@ -1,0 +1,1 @@
+{"index": 27622, "D": "any large tree belonging to the genus Adansonia, of the bombax family, especially A. digitata, which is native to tropical Africa, has an exceedingly thick trunk, and bears a gourdlike fruit.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132608, "D": "(in fantasy stories, shows, or games) a member of a race of imaginary beings resembling humans but about half human size.", "S": [], "A": []}

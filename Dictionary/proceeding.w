@@ -1,0 +1,1 @@
+{"index": 251163, "D": "a particular action or course or manner of action.", "S": ["action ", "course of action ", "exercise ", "experiment ", "incident ", "measure ", "operation ", "procedure ", "process ", "transaction "], "A": ["idleness ", "inaction ", "cessation ", "inactivity ", "inertia ", "stoppage "]}

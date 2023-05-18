@@ -1,0 +1,1 @@
+{"index": 139952, "D": "the purging of the emotions or relieving of emotional tensions, especially through certain kinds of art, as tragedy or music.", "S": [], "A": []}

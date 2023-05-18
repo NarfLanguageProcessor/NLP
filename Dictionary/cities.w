@@ -1,0 +1,1 @@
+{"index": 58643, "D": "a large or important town.", "S": ["capital ", "center ", "downtown ", "metropolis ", "municipality ", "place ", "port "], "A": []}

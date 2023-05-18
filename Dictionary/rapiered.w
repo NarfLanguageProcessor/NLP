@@ -1,0 +1,1 @@
+{"index": 260737, "D": "a small sword, especially of the 18th century, having a narrow blade and used for thrusting.", "S": [], "A": []}

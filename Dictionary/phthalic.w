@@ -1,0 +1,1 @@
+{"index": 235630, "D": "of or derived from phthalic acid. ", "S": [], "A": []}

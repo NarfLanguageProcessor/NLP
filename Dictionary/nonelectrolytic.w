@@ -1,0 +1,1 @@
+{"index": 203422, "D": "pertaining to or derived by electrolysis. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307260, "D": "the act of attenuating  or the state of being attenuated. ", "S": [], "A": []}

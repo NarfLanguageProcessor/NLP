@@ -1,0 +1,1 @@
+{"index": 116233, "D": "a mark left by the shod or unshod foot, as in earth or sand.", "S": ["aisle ", "pathway ", "road ", "route ", "stream ", "train "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202492, "D": "an act or instance of converging. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367070, "D": "a student who spends much time studying and has little or no social life; grind.", "S": ["geek ", "nerd "], "A": []}

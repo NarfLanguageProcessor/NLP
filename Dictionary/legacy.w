@@ -1,0 +1,1 @@
+{"index": 170005, "D": "a gift of property, especially personal property, such as money, by will; a bequest.", "S": ["estate ", "gift ", "tradition "], "A": []}

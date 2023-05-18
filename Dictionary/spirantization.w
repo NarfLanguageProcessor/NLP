@@ -1,0 +1,1 @@
+{"index": 300050, "D": "to change into or pronounce as a spirant. ", "S": [], "A": []}

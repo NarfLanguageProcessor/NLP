@@ -1,0 +1,1 @@
+{"index": 1386, "D": "not catalectic; complete.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277042, "D": "prominent or conspicuous", "S": ["arresting ", "conspicuous ", "pertinent ", "weighty "], "A": ["unimportant ", "insignificant ", "unimpressive "]}

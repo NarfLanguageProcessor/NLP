@@ -1,0 +1,1 @@
+{"index": 151588, "D": "less common words for infallible", "S": ["authoritative ", "flawless ", "foolproof ", "unbeatable "], "A": ["erring ", "fallible ", "faulty ", "imperfect "]}

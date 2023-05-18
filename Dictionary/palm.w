@@ -1,0 +1,1 @@
+{"index": 224023, "D": "the part of the inner surface of the hand that extends from the wrist to the bases of the fingers.", "S": ["wreath "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98398, "D": "to get or put on a bus. ", "S": ["catch ", "climb on ", "enter ", "get on ", "hop on "], "A": ["disembark ", "get off ", "leave "]}

@@ -1,0 +1,1 @@
+{"index": 255451, "D": "the branch of psychology that deals with the relationships between physical stimuli and resulting sensations and mental states.", "S": [], "A": []}

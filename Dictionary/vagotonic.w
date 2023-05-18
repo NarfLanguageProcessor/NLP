@@ -1,0 +1,1 @@
+{"index": 356553, "D": "hyperexcitability of the vagus nerve, producing bradycardia, decreased heart output, and faintness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68714, "D": "an Afroasiatic language of Egypt descended from ancient Egyptian, largely extinct as a spoken language since the 16th century but surviving as the liturgical language of the Coptic Church. ", "S": [], "A": []}

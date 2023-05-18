@@ -1,0 +1,1 @@
+{"index": 207432, "D": "apparently good or right though lacking real merit; superficially pleasing or plausible", "S": [], "A": []}

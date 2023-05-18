@@ -1,0 +1,1 @@
+{"index": 309059, "D": "a plan, design, or program of action to be followed; project. ", "S": [], "A": []}

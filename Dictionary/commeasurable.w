@@ -1,0 +1,1 @@
+{"index": 63909, "D": "having the same measure or extent; commensurate.", "S": [], "A": []}

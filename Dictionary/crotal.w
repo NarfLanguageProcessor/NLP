@@ -1,0 +1,1 @@
+{"index": 73896, "D": "any of various lichens used in dyeing wool, esp for the manufacture of tweeds", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 76036, "D": "a foot of three syllables, one long followed by two short in quantitative meter, or one stressed followed by two unstressed in accentual meter, as in gently and humanly.Symbol", "S": [], "A": []}

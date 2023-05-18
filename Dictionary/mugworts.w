@@ -1,0 +1,1 @@
+{"index": 194821, "D": "any of certain weedy composite plants of the genus Artemisia, especially A. vulgaris, having aromatic leaves and small, greenish flower heads.", "S": [], "A": []}

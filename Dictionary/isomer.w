@@ -1,0 +1,1 @@
+{"index": 159081, "D": "a compound displaying isomerism with one or more other compounds.", "S": [], "A": []}

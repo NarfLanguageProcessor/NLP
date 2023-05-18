@@ -1,0 +1,1 @@
+{"index": 329766, "D": "(in a church) the wall at the side of the nave, choir, or transept, corresponding to the space between the vaulting or ceiling and the roof of an aisle, often having a blind arcade or an opening in a gallery.", "S": [], "A": []}

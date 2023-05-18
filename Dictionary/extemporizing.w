@@ -1,0 +1,1 @@
+{"index": 108209, "D": "to speak extemporaneously", "S": ["ad-lib ", "devise ", "invent "], "A": ["plan ", "prepare ", "read ", "rehearse "]}

@@ -1,0 +1,1 @@
+{"index": 327968, "D": "a region and former province in central Romania", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37679, "D": "an alto wind instrument similar to the oboe or medieval shawm, used mainly in Breton traditional music", "S": [], "A": []}

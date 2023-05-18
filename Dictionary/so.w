@@ -1,0 +1,1 @@
+{"index": 295959, "D": "in the way or manner indicated, described, or implied", "S": ["extremely ", "remarkably ", "unusually ", "very "], "A": []}

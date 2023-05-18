@@ -1,0 +1,1 @@
+{"index": 57507, "D": "a colorless, pleasant-smelling benzene derivative, C10H14, occurring in the volatile oil of the common cumin, Cuminum cyminum, and existing in three forms, the ortho, meta, and para isomers.", "S": [], "A": []}

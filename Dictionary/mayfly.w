@@ -1,0 +1,1 @@
+{"index": 177816, "D": "any insect of the order Ephemeroptera, having delicate, membranous wings with the front pair much larger than the rear and having an aquatic larval stage and a terrestrial adult stage usually lasting less than two days.", "S": [], "A": []}

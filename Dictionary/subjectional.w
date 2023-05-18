@@ -1,0 +1,1 @@
+{"index": 308288, "D": "the act of subjecting. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 147764, "D": "to stain", "S": ["drench ", "fertilize ", "inseminate ", "permeate ", "saturate ", "suffuse "], "A": ["dry ", "abort ", "dehydrate ", "destroy ", "kill "]}

@@ -1,0 +1,1 @@
+{"index": 125456, "D": "a rotating and radiating firework.", "S": [], "A": []}

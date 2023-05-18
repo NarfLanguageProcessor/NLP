@@ -1,0 +1,1 @@
+{"index": 144418, "D": "a person staying with a household as a guest  for one night or longer.", "S": [], "A": []}

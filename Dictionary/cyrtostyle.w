@@ -1,0 +1,1 @@
+{"index": 58383, "D": "a convex portico, as at an entrance.", "S": [], "A": []}

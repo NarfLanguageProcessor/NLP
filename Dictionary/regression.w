@@ -1,0 +1,1 @@
+{"index": 265804, "D": "the act of going back to a previous place or state; return or reversion.", "S": ["backsliding ", "relapse "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4562, "D": "placed ahead or forward", "S": ["leading ", "progressive ", "state-of-the-art "], "A": ["after ", "behind "]}

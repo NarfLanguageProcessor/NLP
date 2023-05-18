@@ -1,0 +1,1 @@
+{"index": 7813, "D": "having little or no yolk in the cytoplasm of the egg or ovum.", "S": [], "A": []}

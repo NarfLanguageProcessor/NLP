@@ -1,0 +1,1 @@
+{"index": 90637, "D": "a person employed on the docks  of a port, as in loading and unloading vessels.", "S": [], "A": []}

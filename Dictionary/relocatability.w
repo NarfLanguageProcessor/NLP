@@ -1,0 +1,1 @@
+{"index": 267031, "D": "constructed so as to be movable; portable, prefabricated, or modular", "S": [], "A": []}

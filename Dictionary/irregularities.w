@@ -1,0 +1,1 @@
+{"index": 158256, "D": "the quality or state of being irregular. ", "S": ["distortion ", "flaw ", "inconsistency "], "A": ["perfection ", "conformity ", "continuation ", "regularity ", "sameness "]}

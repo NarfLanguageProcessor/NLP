@@ -1,0 +1,1 @@
+{"index": 25958, "D": "a wall, wire screen, or the like, serving to prevent a ball from going too far beyond the normal playing area.", "S": [], "A": []}

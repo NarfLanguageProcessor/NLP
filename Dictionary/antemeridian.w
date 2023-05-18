@@ -1,0 +1,1 @@
+{"index": 14160, "D": "occurring before noon.", "S": [], "A": []}

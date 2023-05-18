@@ -1,0 +1,1 @@
+{"index": 144485, "D": "a party to celebrate a person's or family's move to a new home.", "S": ["at-home ", "houseparty ", "weekend party "], "A": []}

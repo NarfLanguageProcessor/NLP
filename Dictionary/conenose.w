@@ -1,0 +1,1 @@
+{"index": 65750, "D": "any of several bloodsucking assassin bugs of the genus Triatoma, some of which inflict a painful bite and serve as vectors of Chagas' disease.", "S": [], "A": []}

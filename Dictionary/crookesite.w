@@ -1,0 +1,1 @@
+{"index": 73689, "D": "a rare mineral, selenide of copper, thallium, and silver, (Cu, Tl, Ag)2Se, occurring in steel-gray, compact masses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21016, "D": "of, relating to, or producing asci.", "S": [], "A": []}

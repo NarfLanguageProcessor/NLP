@@ -1,0 +1,1 @@
+{"index": 318215, "D": "a navigational aid that uses radar to map the sky above an airfield, which, together with a map of the airfield itself, is transmitted by television to aircraft approaching the field.", "S": [], "A": []}

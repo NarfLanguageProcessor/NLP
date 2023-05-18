@@ -1,0 +1,1 @@
+{"index": 3123, "D": "an infectious disease of cattle, domestic animals, and occasionally humans, resembling actinomycosis and caused by the bacterium Actinobacillus lignieresii.", "S": [], "A": []}

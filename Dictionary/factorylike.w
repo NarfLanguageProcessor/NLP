@@ -1,0 +1,1 @@
+{"index": 109078, "D": "a building or group of buildings with facilities for the manufacture of goods.", "S": [], "A": []}

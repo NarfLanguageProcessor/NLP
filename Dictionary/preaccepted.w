@@ -1,0 +1,1 @@
+{"index": 245416, "D": "to take or receive (something offered); receive with approval or favor", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359652, "D": "competing; contending", "S": ["provisional "], "A": ["different ", "dissimilar ", "separate ", "unequal ", "unlike "]}

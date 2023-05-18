@@ -1,0 +1,1 @@
+{"index": 309730, "D": "tending or intending to subvert  or overthrow, destroy, or undermine an established or existing system, especially a legally constituted government or a set of beliefs.", "S": ["Trojan horse ", "collaborators ", "collaborators of enemy ", "infiltrators ", "saboteurs ", "underground "], "A": []}

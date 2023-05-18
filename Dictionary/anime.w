@@ -1,0 +1,1 @@
+{"index": 13218, "D": "a genre of film and television animation created in or influenced by the traditional style of Japanese 2D animation  and characterized by highly stylized, colorful art, fantastic settings, and mature themes.", "S": [], "A": []}

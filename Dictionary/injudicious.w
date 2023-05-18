@@ -1,0 +1,1 @@
+{"index": 152853, "D": "not judicious;  showing lack of judgment; unwise; imprudent; indiscreet", "S": ["foolish ", "impulsive ", "indiscreet ", "rash ", "unwise "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 170319, "D": "a subsidiary proposition introduced in proving some other proposition; a helping theorem.", "S": ["caption ", "description ", "descriptor ", "headline ", "label ", "legend ", "rubric "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249159, "D": "an act or instance of reversing. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 244996, "D": "a soft, feathery ball or pad, as of cotton or down, for applying powder to the skin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226985, "D": "a spore developed without fertilization.", "S": [], "A": []}

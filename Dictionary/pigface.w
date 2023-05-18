@@ -1,0 +1,1 @@
+{"index": 236359, "D": "a creeping succulent plant of the genus Carpobrotus, having bright-coloured flowers and red fruits and often grown for ornament", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256289, "D": "to send forth sprouts, buds, etc.; germinate; sprout.", "S": [], "A": []}

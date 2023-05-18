@@ -1,0 +1,1 @@
+{"index": 241730, "D": "having an affinity for more than one kind of stain, especially for acid, neutral, and basic stains, as polychromatophilic erythroblasts characteristic of pernicious anemia.", "S": [], "A": []}

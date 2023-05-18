@@ -1,0 +1,1 @@
+{"index": 249629, "D": "something considered by an authority or by general consent as a basis of comparison; an approved model.", "S": [], "A": []}

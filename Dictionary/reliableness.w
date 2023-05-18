@@ -1,0 +1,1 @@
+{"index": 266876, "D": "the ability to be relied  on or depended on, as for accuracy, honesty, or achievement.", "S": ["believability ", "credibility ", "plausibility ", "plausibleness ", "reliability ", "trustworthiness ", "validity ", "validness ", "verisimilitude "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29309, "D": "a tube-shaped, portable rocket launcher that fires a rocket capable of penetrating several inches of armor plate, as of a tank or other armored military vehicle.", "S": ["battery ", "cannon ", "ordnance "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104091, "D": "a scaling or mounting by means of ladders, especially in an assault upon a fortified place.", "S": [], "A": []}

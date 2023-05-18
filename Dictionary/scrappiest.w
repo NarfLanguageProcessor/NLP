@@ -1,0 +1,1 @@
+{"index": 281599, "D": "made up of scraps  or of odds and ends; fragmentary; disconnected.", "S": ["aggressive ", "combative ", "fierce ", "ornery "], "A": ["calm ", "peaceful "]}

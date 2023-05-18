@@ -1,0 +1,1 @@
+{"index": 106996, "D": "of or relating to exegesis; expository", "S": ["exegetical "], "A": []}

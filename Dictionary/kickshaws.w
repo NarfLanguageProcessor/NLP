@@ -1,0 +1,1 @@
+{"index": 164440, "D": "a tidbit or delicacy, especially one served as an appetizer or hors d'oeuvre.", "S": [], "A": []}

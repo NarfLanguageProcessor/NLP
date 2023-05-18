@@ -1,0 +1,1 @@
+{"index": 85368, "D": "tending to diffuse;  characterized by diffusion. ", "S": [], "A": []}

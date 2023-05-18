@@ -1,0 +1,1 @@
+{"index": 117892, "D": "a soft, lightweight silk, rayon, or cotton of plain or twill weave with printed design, for neckties, scarves, trimmings, etc.", "S": [], "A": []}

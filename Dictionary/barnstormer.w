@@ -1,0 +1,1 @@
+{"index": 28150, "D": "to conduct a campaign or speaking tour in rural areas by making brief stops in many small towns.", "S": ["artist ", "character ", "clown ", "comedian ", "entertainer ", "performer ", "player ", "star ", "villain "], "A": ["audience ", "fan "]}

@@ -1,0 +1,1 @@
+{"index": 164765, "D": "having or showing sympathy or kindness", "S": ["amiably ", "attentively ", "cordially ", "gently ", "graciously ", "kindly ", "respectfully ", "tactfully "], "A": []}

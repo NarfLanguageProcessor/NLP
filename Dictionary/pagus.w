@@ -1,0 +1,1 @@
+{"index": 223047, "D": "a combining form used in the names of severely malformed, usually nonviable, conjoined twins, with the site of attachment specified by the initial element", "S": [], "A": []}

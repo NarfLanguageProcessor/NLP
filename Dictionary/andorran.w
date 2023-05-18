@@ -1,0 +1,1 @@
+{"index": 12341, "D": "of or relating to Andorra or its inhabitants", "S": [], "A": []}

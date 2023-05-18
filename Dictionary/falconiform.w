@@ -1,0 +1,1 @@
+{"index": 109432, "D": "of, relating to, or belonging to the order Falconiformes, comprising the vultures, hawks, eagles, ospreys, falcons, caracaras, etc.", "S": [], "A": []}

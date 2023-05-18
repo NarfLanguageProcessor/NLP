@@ -1,0 +1,1 @@
+{"index": 137207, "D": "the protrusion of an organ or tissue through an opening in its surrounding walls, especially in the abdominal region.", "S": ["breach ", "fissure ", "fracture ", "schism "], "A": ["agreement ", "closing ", "closure ", "harmony ", "peace "]}

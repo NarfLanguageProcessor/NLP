@@ -1,0 +1,1 @@
+{"index": 360214, "D": "the infectious form of a virus as it exists outside the host cell, consisting of a nucleic acid core, a protein coat, and, in some species, an external envelope.", "S": [], "A": []}

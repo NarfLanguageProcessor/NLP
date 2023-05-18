@@ -1,0 +1,1 @@
+{"index": 197922, "D": "in a condition of need or want; extremely poor and not having the basic necessities", "S": ["destitute ", "disadvantaged ", "indigent ", "penniless ", "poor ", "poverty-stricken ", "underprivileged "], "A": ["affluent ", "lucky ", "privileged ", "prosperous ", "rich ", "wealthy "]}

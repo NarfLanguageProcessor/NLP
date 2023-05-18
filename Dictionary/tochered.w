@@ -1,0 +1,1 @@
+{"index": 324975, "D": "a dowry; marriage settlement given to the groom by the bride or her family.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124015, "D": "of or relating to geopolitics; involving geographical and political elements", "S": [], "A": []}

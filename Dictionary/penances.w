@@ -1,0 +1,1 @@
+{"index": 229508, "D": "a punishment undergone in token of penitence for sin.", "S": ["absolution ", "atonement ", "contrition ", "forgiveness ", "penitence ", "remorse ", "repentance ", "retribution "], "A": ["happiness ", "joy ", "reward "]}

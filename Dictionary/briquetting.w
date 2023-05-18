@@ -1,0 +1,1 @@
+{"index": 40926, "D": "a small block of compressed coal dust or charcoal used for fuel, especially in barbecuing.", "S": [], "A": []}

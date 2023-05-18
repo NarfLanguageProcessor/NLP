@@ -1,0 +1,1 @@
+{"index": 287591, "D": "an action in accordance with the principles of the shastras.", "S": [], "A": []}

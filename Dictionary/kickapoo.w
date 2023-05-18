@@ -1,0 +1,1 @@
+{"index": 164417, "D": "a member of an Algonquian tribe of North American Indians that originally lived in the upper Midwest and now reside in Coahuila, Mexico, and in Kansas and Oklahoma.", "S": [], "A": []}

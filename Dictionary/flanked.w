@@ -1,0 +1,1 @@
+{"index": 113939, "D": "the side of an animal or a person between the ribs and hip.", "S": ["belted ", "bordered ", "surrounded "], "A": ["free ", "loose ", "unbounded ", "unconfined ", "unlimited "]}

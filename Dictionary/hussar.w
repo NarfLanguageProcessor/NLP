@@ -1,0 +1,1 @@
+{"index": 145371, "D": "(originally) one of a body of Hungarian light cavalry formed during the 15th century.", "S": ["squadron "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 295783, "D": "a region of annual or heavy snowfall.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 174547, "D": "a person who prepares molds and patterns.", "S": [], "A": []}

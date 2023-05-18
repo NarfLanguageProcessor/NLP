@@ -1,0 +1,1 @@
+{"index": 364071, "D": "the head or source of a spring, stream, river, etc.; fountainhead. ", "S": ["aquifer ", "beginning ", "fountainhead ", "origin ", "root ", "source "], "A": ["completion ", "conclusion ", "effect ", "end ", "goal ", "outcome ", "result ", "termination "]}

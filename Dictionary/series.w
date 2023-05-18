@@ -1,0 +1,1 @@
+{"index": 286094, "D": "a group or a number of related or similar things, events, etc., arranged or occurring in temporal, spatial, or other order or succession; sequence.", "S": ["array ", "course ", "list ", "run ", "sequence ", "set ", "streak ", "string "], "A": ["individual "]}

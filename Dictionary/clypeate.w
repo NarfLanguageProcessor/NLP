@@ -1,0 +1,1 @@
+{"index": 60124, "D": "shaped like a round shield or buckler.", "S": [], "A": []}

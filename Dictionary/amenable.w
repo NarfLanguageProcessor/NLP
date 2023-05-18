@@ -1,0 +1,1 @@
+{"index": 10241, "D": "ready or willing to answer, act, agree, or yield; open to influence, persuasion, or advice; agreeable; submissive; tractable tractable", "S": ["agreeable ", "responsive ", "susceptible "], "A": ["unsusceptible "]}

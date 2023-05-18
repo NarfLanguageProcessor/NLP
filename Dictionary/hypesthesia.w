@@ -1,0 +1,1 @@
+{"index": 140627, "D": "an abnormally weak sense of pain, heat, cold, or touch.", "S": [], "A": []}

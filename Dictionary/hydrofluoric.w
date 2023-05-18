@@ -1,0 +1,1 @@
+{"index": 138643, "D": "of or derived from hydrofluoric acid.", "S": [], "A": []}

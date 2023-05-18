@@ -1,0 +1,1 @@
+{"index": 97550, "D": "to draw or bring out or forth; educe; evoke", "S": ["bring out ", "evoke ", "extort ", "extract ", "obtain ", "wrest ", "wring "], "A": ["give ", "placate ", "soothe "]}

@@ -1,0 +1,1 @@
+{"index": 109138, "D": "having lost brightness, intensity, volume, etc., as of light, color, or sound", "S": [], "A": []}

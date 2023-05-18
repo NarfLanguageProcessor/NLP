@@ -1,0 +1,1 @@
+{"index": 90380, "D": "divided; separated (used as a musical direction for two or more performers reading a part to begin reading two or more parts).", "S": [], "A": []}

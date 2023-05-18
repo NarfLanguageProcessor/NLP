@@ -1,0 +1,1 @@
+{"index": 298802, "D": "to mention or name specifically  or definitely; state in detail", "S": ["descriptive ", "emblematic ", "figurative ", "revealing "], "A": ["atypical ", "complicated ", "confusing ", "involved "]}

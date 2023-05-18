@@ -1,0 +1,1 @@
+{"index": 321695, "D": "a thick or dense growth of shrubs, bushes, or small trees; a thick coppice.", "S": ["underbrush "], "A": []}

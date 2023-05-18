@@ -1,0 +1,1 @@
+{"index": 228793, "D": "(of a plant leaf) pedately divided, with the divisions less deep than in a pedate leaf", "S": [], "A": []}

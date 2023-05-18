@@ -1,0 +1,1 @@
+{"index": 276688, "D": "a centaur with a bow, as Chiron.", "S": [], "A": []}

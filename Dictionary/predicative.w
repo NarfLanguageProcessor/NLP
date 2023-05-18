@@ -1,0 +1,1 @@
+{"index": 246923, "D": "a predicative adjective Compare attributive", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111505, "D": "See also antiferromagnetism", "S": [], "A": []}

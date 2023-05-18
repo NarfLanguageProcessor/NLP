@@ -1,0 +1,1 @@
+{"index": 124203, "D": "a scarce, metallic, grayish-white element, normally tetravalent, used chiefly in transistors. Symbol", "S": [], "A": []}

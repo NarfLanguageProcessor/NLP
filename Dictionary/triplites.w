@@ -1,0 +1,1 @@
+{"index": 330416, "D": "a dark-brown, massive mineral, fluorophosphate of iron and manganese.", "S": [], "A": []}

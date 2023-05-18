@@ -1,0 +1,1 @@
+{"index": 255277, "D": "a physician who practices psychiatry. ", "S": ["clinician ", "doctor ", "psychoanalyst ", "psychologist ", "psychotherapist ", "therapist "], "A": []}

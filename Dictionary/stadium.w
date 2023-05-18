@@ -1,0 +1,1 @@
+{"index": 302264, "D": "a sports arena, usually oval or horseshoe-shaped, with tiers of seats for spectators.", "S": ["amphitheater ", "field ", "garden ", "gymnasium "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 220106, "D": "to load  to excess; overburden", "S": ["active ", "unavailable ", "working "], "A": ["idle ", "inactive ", "unoccupied "]}

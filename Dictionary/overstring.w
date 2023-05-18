@@ -1,0 +1,1 @@
+{"index": 221418, "D": "to arrange the strings  of (a piano) so that the bass strings  cross over the treble.", "S": [], "A": []}

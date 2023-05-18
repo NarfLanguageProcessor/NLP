@@ -1,0 +1,1 @@
+{"index": 96083, "D": "requiring or involving no effort;  displaying no signs of effort;  easy", "S": ["offhand ", "painless ", "uncomplicated "], "A": ["complicated ", "demanding ", "difficult ", "effortful ", "hard ", "labored "]}

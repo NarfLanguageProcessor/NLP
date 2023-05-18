@@ -1,0 +1,1 @@
+{"index": 335299, "D": "not open to attack or assault, as by military force or argument", "S": ["absolute ", "conclusive ", "indisputable ", "infallible ", "irrefutable ", "undeniable ", "unequivocal "], "A": ["disputable ", "doubtful ", "dubious ", "imperfect ", "indefinite ", "questionable ", "refutable ", "uncertain ", "unsure ", "vague "]}

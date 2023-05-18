@@ -1,0 +1,1 @@
+{"index": 225644, "D": "a person who writes very short pieces or fillers for a newspaper.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304845, "D": "one complete movement of a threaded needle through a fabric or material such as to leave behind it a single loop or portion of thread, as in sewing, embroidery, or the surgical closing of wounds.", "S": ["fasten ", "sew "], "A": []}

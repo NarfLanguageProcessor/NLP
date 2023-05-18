@@ -1,0 +1,1 @@
+{"index": 322428, "D": "of pure or unmixed breed, stock, or lineage, as a horse or other animal; bred  from the purest and best blood.", "S": [], "A": []}

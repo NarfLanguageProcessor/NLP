@@ -1,0 +1,1 @@
+{"index": 315919, "D": "a small scrub wallaby, Macropus eugenii, of Australia, having a thick dark-coloured coat", "S": [], "A": []}

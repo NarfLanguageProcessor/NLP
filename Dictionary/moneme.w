@@ -1,0 +1,1 @@
+{"index": 191865, "D": "linguistics a less common word for morpheme", "S": [], "A": []}

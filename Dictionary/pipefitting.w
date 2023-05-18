@@ -1,0 +1,1 @@
+{"index": 237409, "D": "a joint or connector, as an elbow, union, or tee, used in a pipe system.", "S": [], "A": []}

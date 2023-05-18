@@ -1,0 +1,1 @@
+{"index": 34639, "D": "a private path or an indirect or secondary course or means; byway.", "S": ["deviation ", "diversion "], "A": []}

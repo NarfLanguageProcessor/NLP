@@ -1,0 +1,1 @@
+{"index": 226158, "D": "a deep-brown to yellow, poisonous liquid, C10H14NO5PS, used as an insecticide.", "S": [], "A": []}

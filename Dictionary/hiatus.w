@@ -1,0 +1,1 @@
+{"index": 138206, "D": "a break or interruption in the continuity of a work, series, action, etc.", "S": ["interval ", "lapse "], "A": ["closing ", "closure ", "continuation ", "juncture ", "misfortune "]}

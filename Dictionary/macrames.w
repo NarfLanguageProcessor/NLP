@@ -1,0 +1,1 @@
+{"index": 176858, "D": "an elaborately patterned lacelike webbing made of hand-knotted cord, yarn, or the like, and used for wall decorations, hanging baskets, garments, accessories, etc.", "S": [], "A": []}

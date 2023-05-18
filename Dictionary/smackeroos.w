@@ -1,0 +1,1 @@
+{"index": 294665, "D": "a hard slap or swat", "S": [], "A": []}

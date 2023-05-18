@@ -1,0 +1,1 @@
+{"index": 97519, "D": "of or like an elf.", "S": ["delicate ", "devilish ", "disobedient ", "elfish ", "frolicsome ", "impish ", "little ", "minute ", "misbehaving ", "naughty ", "petite ", "playful ", "prankish ", "puckish ", "puny ", "rascally ", "slight ", "sprightly ", "tiny "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 224060, "D": "the larva of a tineid moth, Dichomeris ligulella, of the eastern U.S., that feeds on the leaves of apple and other fruit trees.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 74970, "D": "a cloud of a class indicative of thunderstorm conditions, characterized by large, dense towers that often reach altitudes of 30,000 feet (9,000 meters) or more, cumuliform except for their tops, which appear fibrous because of the presence of ice crystals", "S": [], "A": []}

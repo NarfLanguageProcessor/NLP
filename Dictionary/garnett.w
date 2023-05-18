@@ -1,0 +1,1 @@
+{"index": 122214, "D": "to reduce (waste material) to its fibrous state for reuse in textile manufacturing.", "S": [], "A": []}

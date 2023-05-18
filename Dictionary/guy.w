@@ -1,0 +1,1 @@
+{"index": 131001, "D": "a man or boy; fellow", "S": ["boy ", "brother ", "buddy ", "dude ", "fellow ", "gentleman ", "individual ", "male ", "person "], "A": ["enemy "]}

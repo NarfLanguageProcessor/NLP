@@ -1,0 +1,1 @@
+{"index": 112894, "D": "the act of a person or thing that finds;  discovery.", "S": ["allegation ", "arraignment ", "bill ", "charge ", "citation ", "detention ", "impeachment ", "prosecution ", "statement ", "summons ", "warrant "], "A": ["praise "]}

@@ -1,0 +1,1 @@
+{"index": 304006, "D": "a tropism  determined by contact with a solid.", "S": [], "A": []}

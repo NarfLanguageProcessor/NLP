@@ -1,0 +1,1 @@
+{"index": 161777, "D": "of or relating to Jordan or its inhabitants", "S": [], "A": []}

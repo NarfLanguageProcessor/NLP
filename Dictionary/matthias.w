@@ -1,0 +1,1 @@
+{"index": 181324, "D": "a disciple chosen to take the place of Judas Iscariot as one of the apostles. Acts 1", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25938, "D": "to attempt to discredit (a person) by underhanded means, as innuendo, accusation, or the like.", "S": ["backbite ", "betray ", "double-cross ", "play Judas ", "sell down the river ", "slander ", "smear "], "A": []}

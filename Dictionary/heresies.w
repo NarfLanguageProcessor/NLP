@@ -1,0 +1,1 @@
+{"index": 137064, "D": "opinion or doctrine at variance with the orthodox or accepted doctrine, especially of a church or religious system.", "S": ["blasphemy ", "fallacy "], "A": ["agreement ", "belief ", "harmony "]}

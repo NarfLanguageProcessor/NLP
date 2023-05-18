@@ -1,0 +1,1 @@
+{"index": 75476, "D": "going rapidly over something, without noticing details; hasty; superficial", "S": [], "A": []}

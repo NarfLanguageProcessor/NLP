@@ -1,0 +1,1 @@
+{"index": 80174, "D": "to delete from a list,  as one that indicates acceptability, legitimacy, or the like.", "S": [], "A": []}

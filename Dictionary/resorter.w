@@ -1,0 +1,1 @@
+{"index": 269650, "D": "a person who frequently goes to recreation resorts. ", "S": [], "A": []}

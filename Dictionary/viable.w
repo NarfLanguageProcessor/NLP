@@ -1,0 +1,1 @@
+{"index": 359223, "D": "capable of living.", "S": ["applicable ", "feasible ", "possible ", "usable ", "workable "], "A": ["impossible ", "unfeasible ", "unlikely "]}

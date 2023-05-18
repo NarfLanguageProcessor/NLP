@@ -1,0 +1,1 @@
+{"index": 229585, "D": "formed during or shortly after the formation of the containing rock stratum", "S": [], "A": []}

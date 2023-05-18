@@ -1,0 +1,1 @@
+{"index": 140696, "D": "a method of psychoanalysis in which a patient is put into hypnosis in an attempt to secure analytic data, free associations, and early emotional reactions.", "S": [], "A": []}

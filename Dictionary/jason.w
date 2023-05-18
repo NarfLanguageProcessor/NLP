@@ -1,0 +1,1 @@
+{"index": 160534, "D": "a hero, the leader of the Argonauts, who at the request of his uncle Pelias retrieved the Golden Fleece from King Ae\u00ebtes of Colchis with the help of Medea.", "S": [], "A": []}

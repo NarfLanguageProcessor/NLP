@@ -1,0 +1,1 @@
+{"index": 202786, "D": "with daring or bold resistance to authority", "S": [], "A": []}

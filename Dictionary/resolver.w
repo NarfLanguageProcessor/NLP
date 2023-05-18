@@ -1,0 +1,1 @@
+{"index": 269609, "D": "to come to a definite or earnest decision about; determine (to do something)", "S": [], "A": []}

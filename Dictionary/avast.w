@@ -1,0 +1,1 @@
+{"index": 24615, "D": "(used as a command to stop or cease)", "S": [], "A": []}

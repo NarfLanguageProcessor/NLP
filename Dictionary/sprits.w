@@ -1,0 +1,1 @@
+{"index": 301368, "D": "a small pole or spar crossing a fore-and-aft sail diagonally from the mast to the upper aftermost corner, serving to extend the sail.", "S": [], "A": []}

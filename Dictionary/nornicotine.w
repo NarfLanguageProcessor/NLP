@@ -1,0 +1,1 @@
+{"index": 208585, "D": "an alkaloid, C9H12N2, extracted from tobacco and related to nicotine  but having a lower toxicity", "S": [], "A": []}

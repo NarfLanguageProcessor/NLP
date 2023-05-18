@@ -1,0 +1,1 @@
+{"index": 22565, "D": "a sebaceous cyst.", "S": [], "A": []}

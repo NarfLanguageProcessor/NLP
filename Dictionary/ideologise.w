@@ -1,0 +1,1 @@
+{"index": 146410, "D": "to explain or express ideologically", "S": [], "A": []}

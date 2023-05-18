@@ -1,0 +1,1 @@
+{"index": 298765, "D": "to form or develop into a new biological species", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238147, "D": "the nut of a Eurasian tree, Pistacia vera, of the cashew family, containing an edible, greenish kernel.", "S": [], "A": []}

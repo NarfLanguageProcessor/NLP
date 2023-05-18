@@ -1,0 +1,1 @@
+{"index": 309308, "D": "to establish by proof or competent evidence", "S": [], "A": []}

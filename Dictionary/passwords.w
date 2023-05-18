@@ -1,0 +1,1 @@
+{"index": 227392, "D": "a secret word or expression used by authorized persons to prove their right to access, information, etc.", "S": ["identification "], "A": ["question "]}

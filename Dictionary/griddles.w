@@ -1,0 +1,1 @@
+{"index": 129778, "D": "a frying pan with a handle and a slightly raised edge, for cooking pancakes, bacon, etc., over direct heat.", "S": ["broiler ", "skillet ", "spider "], "A": []}

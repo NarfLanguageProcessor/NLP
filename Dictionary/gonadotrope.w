@@ -1,0 +1,1 @@
+{"index": 127672, "D": "a gonadotropic substance.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110882, "D": "water  to be supplied to a boiler from a tank or condenser for conversion into steam.", "S": [], "A": []}

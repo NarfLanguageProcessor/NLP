@@ -1,0 +1,1 @@
+{"index": 240105, "D": "a condition, state, or situation, especially an unfavorable or unfortunate one", "S": ["contract ", "covenant ", "engage ", "hock ", "hook ", "mortgage ", "pawn ", "plight ", "promise ", "soak ", "swear ", "undertake ", "vouch ", "vow "], "A": ["break ", "break off ", "disagree ", "disavow ", "let go ", "reject ", "release "]}

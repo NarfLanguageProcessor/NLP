@@ -1,0 +1,1 @@
+{"index": 263021, "D": "a person who lives in seclusion or apart from society, often for religious meditation.", "S": ["cloistered ", "isolated "], "A": ["gregarious ", "sociable "]}

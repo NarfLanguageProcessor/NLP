@@ -1,0 +1,1 @@
+{"index": 18797, "D": "an archduchy.", "S": [], "A": []}

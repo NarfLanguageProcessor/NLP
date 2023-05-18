@@ -1,0 +1,1 @@
+{"index": 139104, "D": "any system of persons or things ranked one above another.", "S": ["pecking order ", "ranking "], "A": []}

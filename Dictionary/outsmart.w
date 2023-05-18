@@ -1,0 +1,1 @@
+{"index": 217490, "D": "to get the better of (someone); outwit.", "S": ["baffle ", "bamboozle ", "circumvent ", "deceive ", "outdo ", "outfox ", "outmaneuver "], "A": ["aid ", "assist ", "help ", "clear up ", "explain ", "give ", "guard ", "lose ", "protect ", "surrender "]}

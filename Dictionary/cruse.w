@@ -1,0 +1,1 @@
+{"index": 74264, "D": "an earthen pot, bottle, etc., for liquids.", "S": [], "A": []}

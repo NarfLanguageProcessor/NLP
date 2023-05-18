@@ -1,0 +1,1 @@
+{"index": 342961, "D": "to bring into existence; cause to be; produce.", "S": [], "A": []}

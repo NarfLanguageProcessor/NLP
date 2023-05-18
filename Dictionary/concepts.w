@@ -1,0 +1,1 @@
+{"index": 65161, "D": "a general notion or idea; conception.", "S": ["approach ", "conception ", "image ", "notion ", "perception ", "theory ", "thought ", "view "], "A": ["concrete ", "proof ", "reality "]}

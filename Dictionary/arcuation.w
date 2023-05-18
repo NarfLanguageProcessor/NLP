@@ -1,0 +1,1 @@
+{"index": 19249, "D": "the state of being bent or curved.", "S": [], "A": []}

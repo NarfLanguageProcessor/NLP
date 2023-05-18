@@ -1,0 +1,1 @@
+{"index": 7223, "D": "of or relating to Alabama or its inhabitants", "S": [], "A": []}

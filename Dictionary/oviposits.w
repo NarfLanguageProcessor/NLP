@@ -1,0 +1,1 @@
+{"index": 221960, "D": "to deposit or lay eggs, especially by means of an ovipositor. ", "S": [], "A": []}

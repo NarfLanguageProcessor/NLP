@@ -1,0 +1,1 @@
+{"index": 362717, "D": "the act or utterance of one who warns  or the existence, appearance, sound, etc., of a thing that warns.", "S": [], "A": []}

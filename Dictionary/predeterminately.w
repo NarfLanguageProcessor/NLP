@@ -1,0 +1,1 @@
+{"index": 246874, "D": "determined beforehand; predetermined.", "S": [], "A": []}

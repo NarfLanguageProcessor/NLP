@@ -1,0 +1,1 @@
+{"index": 107940, "D": "to ship (commodities) to other countries or places for sale, exchange, etc.", "S": ["carried ", "delivered ", "expressed ", "sent ", "transported ", "trucked "], "A": []}

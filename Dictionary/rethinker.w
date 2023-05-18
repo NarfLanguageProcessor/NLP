@@ -1,0 +1,1 @@
+{"index": 270400, "D": "to reconsider, especially profoundly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 356041, "D": "the act of scorching or burning.", "S": [], "A": []}

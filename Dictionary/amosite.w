@@ -1,0 +1,1 @@
+{"index": 10969, "D": "an asbestine variety of anthophyllite, rich in iron, formerly used as a heat-resistant material.", "S": [], "A": []}

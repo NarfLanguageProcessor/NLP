@@ -1,0 +1,1 @@
+{"index": 21030, "D": "belonging or pertaining to the Ascomycota.", "S": [], "A": []}

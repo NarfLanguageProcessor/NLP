@@ -1,0 +1,1 @@
+{"index": 189510, "D": "to judge,  estimate, or value wrongly or unjustly.", "S": [], "A": []}

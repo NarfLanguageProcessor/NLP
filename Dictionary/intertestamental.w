@@ -1,0 +1,1 @@
+{"index": 156043, "D": "of or relating to the period between the close of the Old Testament and the beginning of the New Testament.", "S": [], "A": []}

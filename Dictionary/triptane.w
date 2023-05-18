@@ -1,0 +1,1 @@
+{"index": 330481, "D": "a colorless liquid, C7H17, having high antiknock properties as a fuel", "S": [], "A": []}

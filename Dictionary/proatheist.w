@@ -1,0 +1,1 @@
+{"index": 250983, "D": "a person who denies or disbelieves the existence of a supreme being  or beings.", "S": [], "A": []}

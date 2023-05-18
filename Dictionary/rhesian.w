@@ -1,0 +1,1 @@
+{"index": 271900, "D": "a macaque, Macaca mulatta, of India, used in experimental medicine.", "S": [], "A": []}

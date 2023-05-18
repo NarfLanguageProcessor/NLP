@@ -1,0 +1,1 @@
+{"index": 109645, "D": "any device for producing a current of air by the movement of a broad surface or a number of such surfaces.", "S": ["blade ", "draft ", "leaf ", "propeller ", "vane ", "ventilator ", "windmill "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307645, "D": "situated or occurring below the crust of the earth.", "S": [], "A": []}

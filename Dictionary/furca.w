@@ -1,0 +1,1 @@
+{"index": 120355, "D": "any forklike structure, esp in insects", "S": [], "A": []}

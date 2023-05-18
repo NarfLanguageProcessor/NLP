@@ -1,0 +1,1 @@
+{"index": 239781, "D": "full; complete; entire; absolute; unqualified", "S": [], "A": []}

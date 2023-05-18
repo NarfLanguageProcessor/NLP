@@ -1,0 +1,1 @@
+{"index": 6647, "D": "a member of the Ahmadiya.", "S": [], "A": []}

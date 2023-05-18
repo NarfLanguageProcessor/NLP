@@ -1,0 +1,1 @@
+{"index": 304727, "D": "a stalk or slender support, as the petiole of a fern frond, the stem supporting the pileus of a mushroom, or a stalklike elongation of the receptacle of a flower.", "S": [], "A": []}

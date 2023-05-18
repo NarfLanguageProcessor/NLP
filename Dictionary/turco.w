@@ -1,0 +1,1 @@
+{"index": 332652, "D": "a combining form representing Turkish  or Turkic  in compound words.", "S": [], "A": []}

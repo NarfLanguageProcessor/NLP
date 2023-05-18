@@ -1,0 +1,1 @@
+{"index": 19013, "D": "the science of planning and constructing buildings.", "S": ["building ", "construction ", "engineering ", "planning "], "A": []}

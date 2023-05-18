@@ -1,0 +1,1 @@
+{"index": 243044, "D": "an instrument for graphically recording pain or muscular fatigue.", "S": [], "A": []}

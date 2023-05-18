@@ -1,0 +1,1 @@
+{"index": 10139, "D": "a portable tea table, used in 18th-century France.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49747, "D": "(in some autocephalous churches) a primate subject to a patriarch and having authority over metropolitans.", "S": [], "A": []}

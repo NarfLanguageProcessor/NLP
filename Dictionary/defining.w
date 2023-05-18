@@ -1,0 +1,1 @@
+{"index": 79322, "D": "decisive; critically important", "S": ["acute ", "key "], "A": ["unimportant "]}

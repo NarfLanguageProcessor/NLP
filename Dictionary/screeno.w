@@ -1,0 +1,1 @@
+{"index": 281717, "D": "(formerly) bingo  played in a movie theater.", "S": [], "A": []}

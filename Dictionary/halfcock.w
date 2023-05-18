@@ -1,0 +1,1 @@
+{"index": 132592, "D": "the position of the hammer of a firearm when held halfway between the firing and retracted positions by a mechanism so that it will not operate.", "S": [], "A": []}

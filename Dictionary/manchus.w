@@ -1,0 +1,1 @@
+{"index": 178943, "D": "a member of a Tungusic people of Manchuria who conquered China in the 17th century and established a dynasty there (Manchu dynasty,  or Ch'ing dynasty  1644\u20131912).", "S": [], "A": []}

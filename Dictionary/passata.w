@@ -1,0 +1,1 @@
+{"index": 227283, "D": "a sauce made from sieved tomatoes, often used in Italian cookery", "S": [], "A": []}

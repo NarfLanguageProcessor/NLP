@@ -1,0 +1,1 @@
+{"index": 140937, "D": "the lower and median part of the abdomen.", "S": [], "A": []}

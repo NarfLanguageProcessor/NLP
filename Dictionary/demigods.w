@@ -1,0 +1,1 @@
+{"index": 80527, "D": "a mythological being who is partly divine and partly human; an inferior deity.", "S": ["Allah ", "Father ", "Jehovah ", "Lord ", "Yahweh ", "daemon ", "deity ", "divinity ", "idol ", "master ", "numen ", "power ", "providence ", "spirit ", "the Almighty ", "the Creator ", "the Maker "], "A": ["Satan ", "devil ", "demon "]}

@@ -1,0 +1,1 @@
+{"index": 341574, "D": "not eventful;  lacking in important or striking occurrences", "S": ["boring ", "humdrum ", "inconclusive ", "tedious ", "unexciting ", "unremarkable "], "A": ["exciting ", "interesting "]}

@@ -1,0 +1,1 @@
+{"index": 29691, "D": "a large, amphibious rodent of the genus Castor, having sharp incisors, webbed hind feet, and a flattened tail, noted for its ability to dam streams with trees, branches, etc.", "S": [], "A": []}

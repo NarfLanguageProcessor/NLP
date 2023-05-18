@@ -1,0 +1,1 @@
+{"index": 45530, "D": "(of a cumulonimbus cloud) having its upper portion changing from a rounded, cumuliform shape to a diffuse, whitish, cirriform mass with vertical striations.", "S": [], "A": []}

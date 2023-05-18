@@ -1,0 +1,1 @@
+{"index": 189993, "D": "to say or speak ill of; vilify; slander.", "S": [], "A": []}

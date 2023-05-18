@@ -1,0 +1,1 @@
+{"index": 253203, "D": "the outlook for the future", "S": ["miner "], "A": []}

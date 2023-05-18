@@ -1,0 +1,1 @@
+{"index": 206407, "D": "having, showing, or acting with a purpose,  intention, or design.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19255, "D": "a dense, horizontal, roll-shaped cloud sometimes occurring at the lower front portion of a cumulonimbus.", "S": [], "A": []}

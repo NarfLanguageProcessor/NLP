@@ -1,0 +1,1 @@
+{"index": 206377, "D": "the act of pulsating;  beating or throbbing.", "S": [], "A": []}

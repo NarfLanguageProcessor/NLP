@@ -1,0 +1,1 @@
+{"index": 317984, "D": "nine dog-headed monsters, inhabiting the sea, who as great artisans crafted the sickle of Cronus and the trident of Poseidon.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340554, "D": "free from or unaffected by passion; devoid of personal feeling or bias; impartial; calm", "S": [], "A": []}

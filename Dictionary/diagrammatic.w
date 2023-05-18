@@ -1,0 +1,1 @@
+{"index": 84159, "D": "in the form of a diagram;  graphic; outlined.", "S": ["analytical ", "informative ", "interpretive ", "supplementary "], "A": ["confusing ", "mysterious ", "obscure ", "perplexing ", "puzzling ", "vague "]}

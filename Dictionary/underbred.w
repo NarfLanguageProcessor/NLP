@@ -1,0 +1,1 @@
+{"index": 338904, "D": "having inferior breeding or manners; vulgar.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334557, "D": "to make suitable to requirements or conditions; adjust or modify fittingly", "S": ["conflicting ", "inappropriate ", "incongruous ", "inconsistent ", "irreconcilable ", "unsuitable ", "unsuited "], "A": ["appropriate ", "consistent ", "fitting ", "harmonious ", "proper ", "suitable "]}

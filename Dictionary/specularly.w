@@ -1,0 +1,1 @@
+{"index": 298961, "D": "pertaining to or having the properties of a mirror.", "S": [], "A": []}

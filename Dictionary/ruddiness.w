@@ -1,0 +1,1 @@
+{"index": 275285, "D": "of or having a fresh, healthy red color", "S": ["bloom ", "blossom ", "burning ", "color ", "flush ", "flushing ", "glow ", "glowing ", "mantling ", "reddening ", "redness ", "rosiness ", "scarlet "], "A": ["paleness ", "pallidity ", "whiteness "]}

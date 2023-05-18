@@ -1,0 +1,1 @@
+{"index": 301245, "D": "a bulbous plant, Sprekelia formosissima, from Mexico and Guatemala, related to hippeastrum and grown for its striking crimson or white pendent flowers, in the form of a cross", "S": [], "A": []}

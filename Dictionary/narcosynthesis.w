@@ -1,0 +1,1 @@
+{"index": 196965, "D": "a treatment for psychiatric disturbances that uses narcotics.", "S": [], "A": []}

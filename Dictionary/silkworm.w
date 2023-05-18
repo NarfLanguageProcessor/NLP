@@ -1,0 +1,1 @@
+{"index": 290437, "D": "the larva of the Chinese silkworm moth, Bombyx mori, which spins a cocoon of commercially valuable silk.", "S": [], "A": []}

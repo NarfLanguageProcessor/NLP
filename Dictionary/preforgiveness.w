@@ -1,0 +1,1 @@
+{"index": 247631, "D": "act of forgiving;  state of being forgiven. ", "S": [], "A": []}

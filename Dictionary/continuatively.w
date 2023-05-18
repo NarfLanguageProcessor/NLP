@@ -1,0 +1,1 @@
+{"index": 67483, "D": "tending or serving to continue; causing continuation or prolongation.", "S": [], "A": []}

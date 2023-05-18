@@ -1,0 +1,1 @@
+{"index": 264750, "D": "to give intellectual or spiritual light to; instruct; impart knowledge to", "S": [], "A": []}

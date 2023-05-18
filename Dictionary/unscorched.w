@@ -1,0 +1,1 @@
+{"index": 350513, "D": "to affect the color, taste, etc., of by burning slightly", "S": [], "A": []}

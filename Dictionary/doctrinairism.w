@@ -1,0 +1,1 @@
+{"index": 90671, "D": "a person who tries to apply some doctrine  or theory without sufficient regard for practical considerations; an impractical theorist.", "S": [], "A": []}

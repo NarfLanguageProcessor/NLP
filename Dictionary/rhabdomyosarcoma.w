@@ -1,0 +1,1 @@
+{"index": 271731, "D": "a malignant tumor made up of striated muscle tissue.", "S": [], "A": []}

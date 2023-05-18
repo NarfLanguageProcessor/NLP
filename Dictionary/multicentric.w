@@ -1,0 +1,1 @@
+{"index": 195017, "D": "pertaining to or situated at the center; central. ", "S": [], "A": []}

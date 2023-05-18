@@ -1,0 +1,1 @@
+{"index": 345551, "D": "of, relating to, or affected with lethargy;  drowsy; sluggish; apathetic.", "S": [], "A": []}

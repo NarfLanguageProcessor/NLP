@@ -1,0 +1,1 @@
+{"index": 283620, "D": "one of the minimum elements of lexical meaning in a language.", "S": [], "A": []}

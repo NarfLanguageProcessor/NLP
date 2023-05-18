@@ -1,0 +1,1 @@
+{"index": 233603, "D": "an Epistle written by Paul. Abbreviation", "S": [], "A": []}

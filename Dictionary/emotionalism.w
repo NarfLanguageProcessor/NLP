@@ -1,0 +1,1 @@
+{"index": 98651, "D": "excessively emotional  character", "S": ["attitude ", "bias ", "feeling ", "idea ", "opinion ", "passion ", "position ", "tendency ", "thought ", "view "], "A": ["concrete ", "thing ", "antipathy ", "disbelief ", "disinclination ", "disinterest ", "dislike ", "hate ", "hatred ", "indifference "]}

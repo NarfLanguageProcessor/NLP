@@ -1,0 +1,1 @@
+{"index": 161036, "D": "an extension of the exhaust nozzle of a rocket, for controlling the direction of the exhaust gases.", "S": [], "A": []}

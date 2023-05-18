@@ -1,0 +1,1 @@
+{"index": 288031, "D": "deceit; trickery.", "S": ["antics ", "capers ", "frolicsomeness ", "gag ", "horseplay ", "misbehavior ", "mischievousness ", "naughtiness ", "nonsense ", "prank ", "trouble ", "vandalism "], "A": []}

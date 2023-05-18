@@ -1,0 +1,1 @@
+{"index": 143276, "D": "of or relating to a homotype. ", "S": [], "A": []}

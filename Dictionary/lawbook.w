@@ -1,0 +1,1 @@
+{"index": 169331, "D": "a book consisting or treating of laws, legal issues, or cases that have been adjudicated.", "S": ["codification ", "codified law ", "legal code ", "statute law ", "written law "], "A": []}

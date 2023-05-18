@@ -1,0 +1,1 @@
+{"index": 299163, "D": "simple past tense and past participle of spend. ", "S": ["dead ", "finished ", "lost ", "used ", "wasted "], "A": ["active ", "animated ", "energetic ", "energized ", "fresh ", "invigorated ", "lively ", "restored ", "strong ", "unused "]}

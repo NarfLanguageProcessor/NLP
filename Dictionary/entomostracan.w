@@ -1,0 +1,1 @@
+{"index": 101552, "D": "any crustacean belonging to the former subclass Entomostraca.", "S": [], "A": []}

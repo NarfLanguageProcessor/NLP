@@ -1,0 +1,1 @@
+{"index": 316774, "D": "the historical name of a region of indefinite extent in E Europe and Asia", "S": [], "A": []}

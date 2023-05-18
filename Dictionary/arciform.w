@@ -1,0 +1,1 @@
+{"index": 19186, "D": "resembling an arch in appearance.", "S": ["arced ", "arched ", "arching ", "arcuate ", "arcuated ", "bending ", "bowed ", "curved ", "rounded ", "vaulted "], "A": []}

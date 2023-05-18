@@ -1,0 +1,1 @@
+{"index": 15691, "D": "of or believing in nihilism,  or the total rejection of established laws and institutions", "S": [], "A": []}

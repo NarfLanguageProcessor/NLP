@@ -1,0 +1,1 @@
+{"index": 206693, "D": "the act or process of returning a person or thing to the country of origin", "S": [], "A": []}

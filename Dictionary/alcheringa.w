@@ -1,0 +1,1 @@
+{"index": 7641, "D": "(in Australian Aboriginal mythology) dreamtime. ", "S": [], "A": []}

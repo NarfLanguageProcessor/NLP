@@ -1,0 +1,1 @@
+{"index": 196164, "D": "a pungent powder or paste prepared from the seeds of certain mustard plants, used as a food seasoning or condiment, and medicinally in plasters, poultices, etc.", "S": ["dressing ", "gravy ", "horseradish ", "ketchup ", "pepper ", "relish ", "salsa ", "salt ", "sauce ", "seasoning ", "spice "], "A": []}

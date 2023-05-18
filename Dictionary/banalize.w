@@ -1,0 +1,1 @@
+{"index": 27232, "D": "to render or make banal;  trivialize", "S": [], "A": []}

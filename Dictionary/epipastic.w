@@ -1,0 +1,1 @@
+{"index": 102648, "D": "suitable for use as a dusting powder.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 320739, "D": "of or relating to the theater  or dramatic presentations", "S": ["aloud ", "emphatically ", "noisily ", "powerfully ", "vehemently ", "vociferously "], "A": ["inaudibly ", "quietly ", "silently "]}

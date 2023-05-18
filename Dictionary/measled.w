@@ -1,0 +1,1 @@
+{"index": 181785, "D": "(of swine or other livestock) affected with measles.", "S": [], "A": []}

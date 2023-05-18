@@ -1,0 +1,1 @@
+{"index": 159287, "D": "occurring at constant temperature.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 121165, "D": "of or relating to Galatia or its inhabitants", "S": [], "A": []}

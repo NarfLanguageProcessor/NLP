@@ -1,0 +1,1 @@
+{"index": 17800, "D": "an instrument, apparatus, or device for a particular purpose or use.", "S": ["device ", "gadget ", "instrument ", "tool "], "A": []}

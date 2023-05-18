@@ -1,0 +1,1 @@
+{"index": 91445, "D": "put on, applied, or assumed", "S": ["dress ", "put on ", "wear "], "A": ["disrobe "]}

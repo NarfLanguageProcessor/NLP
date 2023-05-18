@@ -1,0 +1,1 @@
+{"index": 200647, "D": "a frame used to aid the blind in writing.", "S": [], "A": []}

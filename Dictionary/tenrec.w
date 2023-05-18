@@ -1,0 +1,1 @@
+{"index": 318962, "D": "any of several insectivorous mammals of the family Tenrecidae, of Madagascar, having a long, pointed snout, certain species of which are spiny and tailless.", "S": [], "A": []}

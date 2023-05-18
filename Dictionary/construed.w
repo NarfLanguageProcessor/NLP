@@ -1,0 +1,1 @@
+{"index": 67123, "D": "interpreted or understood", "S": ["define ", "infer ", "interpret ", "parse ", "translate "], "A": ["misunderstand ", "cloud ", "confuse ", "fail ", "obscure "]}

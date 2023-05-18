@@ -1,0 +1,1 @@
+{"index": 301790, "D": "to sit in a low or crouching position with the legs drawn up closely beneath or in front of the body; sit on one's haunches or heels.", "S": ["cower ", "crouch ", "hunch ", "perch ", "sit ", "stoop "], "A": ["stand ", "straighten "]}

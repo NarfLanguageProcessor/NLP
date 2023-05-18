@@ -1,0 +1,1 @@
+{"index": 24204, "D": "to make automatic. ", "S": ["automate ", "brutalize "], "A": ["humanize "]}

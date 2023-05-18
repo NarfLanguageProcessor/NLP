@@ -1,0 +1,1 @@
+{"index": 169022, "D": "having latitude, scope, range, breadth, etc., especially of ideas, interests, interpretations, or the like", "S": ["deep ", "expansive ", "full ", "large ", "vast "], "A": ["narrow ", "thin "]}

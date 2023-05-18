@@ -1,0 +1,1 @@
+{"index": 163000, "D": "(during World War II) a member of a special corps in the Japanese air force charged with the suicidal mission of crashing an aircraft laden with explosives into an enemy target, especially a warship.", "S": [], "A": []}

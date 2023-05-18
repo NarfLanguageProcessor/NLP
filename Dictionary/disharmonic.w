@@ -1,0 +1,1 @@
+{"index": 88225, "D": "lacking harmony; disharmonious; discordant.", "S": ["discordant ", "noisy ", "raucous "], "A": ["quiet "]}

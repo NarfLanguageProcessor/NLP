@@ -1,0 +1,1 @@
+{"index": 63647, "D": "capable of combining  or being combined. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279522, "D": "a large shrimp or prawn.", "S": [], "A": []}

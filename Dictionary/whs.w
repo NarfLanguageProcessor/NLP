@@ -1,0 +1,1 @@
+{"index": 365403, "D": "watt-hour; watt-hours.", "S": [], "A": []}

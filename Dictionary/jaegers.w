@@ -1,0 +1,1 @@
+{"index": 160071, "D": "any of several rapacious seabirds of the family Stercorariidae that pursue weaker birds to make them drop their prey.", "S": [], "A": []}

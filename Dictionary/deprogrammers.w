@@ -1,0 +1,1 @@
+{"index": 81899, "D": "to free (a convert) from the influence of a religious cult, political indoctrination, etc., by intensive persuasion or reeducation.", "S": [], "A": []}

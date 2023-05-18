@@ -1,0 +1,1 @@
+{"index": 10152, "D": "of, relating to, or capable of walking", "S": [], "A": []}

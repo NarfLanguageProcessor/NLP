@@ -1,0 +1,1 @@
+{"index": 733, "D": "a person who performs or induces abortions,  especially illegally.", "S": [], "A": []}

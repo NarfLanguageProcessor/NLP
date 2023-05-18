@@ -1,0 +1,1 @@
+{"index": 240089, "D": "the act or procedure of folding.", "S": ["pleat "], "A": ["line "]}

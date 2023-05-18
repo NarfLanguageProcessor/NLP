@@ -1,0 +1,1 @@
+{"index": 149335, "D": "not accurate;  incorrect or untrue.", "S": ["defective ", "false ", "faulty ", "imprecise ", "incorrect ", "mistaken ", "unreliable ", "untrue ", "wrong "], "A": ["accurate ", "correct ", "honest ", "just ", "perfect ", "precise ", "reliable ", "right ", "sound ", "true "]}

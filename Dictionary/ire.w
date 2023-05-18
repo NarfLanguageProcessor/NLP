@@ -1,0 +1,1 @@
+{"index": 157895, "D": "intense anger; wrath.", "S": ["annoyance ", "displeasure ", "exasperation ", "fury ", "indignation ", "passion "], "A": ["calm ", "calmness ", "comfort ", "delight ", "happiness ", "joy ", "pleasure "]}

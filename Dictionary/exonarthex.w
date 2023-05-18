@@ -1,0 +1,1 @@
+{"index": 107388, "D": "a covered walk, vestibule, or narthex  situated before a narthex;  an outer narthex. ", "S": [], "A": []}

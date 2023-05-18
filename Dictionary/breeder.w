@@ -1,0 +1,1 @@
+{"index": 40388, "D": "an animal, plant, or person that produces offspring or reproduces.", "S": ["grower ", "laborer ", "peasant ", "producer ", "rancher "], "A": []}

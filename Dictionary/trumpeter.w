@@ -1,0 +1,1 @@
+{"index": 331575, "D": "a person who plays a trumpet; trumpet  player.", "S": ["blowhard ", "braggart ", "bragger ", "egomaniac ", "egotist ", "know-it-all ", "show-off "], "A": []}

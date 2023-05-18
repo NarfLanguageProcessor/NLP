@@ -1,0 +1,1 @@
+{"index": 159137, "D": "having the same thickness.", "S": [], "A": []}

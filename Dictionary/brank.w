@@ -1,0 +1,1 @@
+{"index": 39941, "D": "to hold up and toss the head, as a horse when spurning the bit or prancing.", "S": [], "A": []}

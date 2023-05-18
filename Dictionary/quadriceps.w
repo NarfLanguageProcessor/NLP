@@ -1,0 +1,1 @@
+{"index": 257554, "D": "a large muscle in front of the thigh, the action of which extends the leg or bends the hip joint.", "S": [], "A": []}

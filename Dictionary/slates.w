@@ -1,0 +1,1 @@
+{"index": 293719, "D": "a fine-grained rock formed by the metamorphosis of clay, shale, etc., that tends to split along parallel cleavage planes, usually at an angle to the planes of stratification.", "S": ["ballot ", "roster "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186111, "D": "the process of enclosing chemical substances in microcapsules.", "S": [], "A": []}

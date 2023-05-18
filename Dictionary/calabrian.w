@@ -1,0 +1,1 @@
+{"index": 44707, "D": "of or relating to Calabria or its inhabitants", "S": [], "A": []}

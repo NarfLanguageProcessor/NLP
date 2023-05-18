@@ -1,0 +1,1 @@
+{"index": 69791, "D": "a fox, Vulpes corsac, of central Asia", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307829, "D": "to take away; subtract. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 331622, "D": "to cause (a circular object) to roll along; roll.", "S": ["plod ", "shuffle ", "slog ", "trudge ", "trundle ", "waddle "], "A": ["tiptoe "]}

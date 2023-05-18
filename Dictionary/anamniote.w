@@ -1,0 +1,1 @@
+{"index": 11836, "D": "any of the vertebrates of the group Anamnia (Anamniota), comprising the cyclostomes, fishes, and amphibians, characterized by the absence of an amnion during the embryonic stage.", "S": [], "A": []}

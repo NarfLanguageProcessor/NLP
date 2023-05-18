@@ -1,0 +1,1 @@
+{"index": 63399, "D": "a yellowish liquid, especially rich in immune factors, secreted by the mammary gland of female mammals a few days before and after the birth of their young.", "S": [], "A": []}

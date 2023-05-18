@@ -1,0 +1,1 @@
+{"index": 367904, "D": "extremely drunk or high on drugs", "S": ["broken ", "demolished ", "dismantled ", "ruined ", "shattered ", "smashed "], "A": ["fixed ", "rebuilt ", "repaired ", "temperate "]}

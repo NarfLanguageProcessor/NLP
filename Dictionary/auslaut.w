@@ -1,0 +1,1 @@
+{"index": 23673, "D": "final position in a word, especially as a conditioning environment in sound change.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341891, "D": "to force out from the proper vessels, as blood, especially so as to diffuse through the surrounding tissues.", "S": [], "A": []}

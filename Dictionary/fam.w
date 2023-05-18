@@ -1,0 +1,1 @@
+{"index": 109574, "D": "a close friend or group of friends thought of as family", "S": [], "A": []}

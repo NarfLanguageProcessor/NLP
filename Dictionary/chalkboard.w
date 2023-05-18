@@ -1,0 +1,1 @@
+{"index": 52159, "D": "a blackboard, especially a green or other light-colored one.", "S": [], "A": []}

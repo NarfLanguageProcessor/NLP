@@ -1,0 +1,1 @@
+{"index": 51818, "D": "centigram; centigrams.", "S": [], "A": []}

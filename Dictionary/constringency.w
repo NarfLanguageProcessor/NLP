@@ -1,0 +1,1 @@
+{"index": 67092, "D": "constricting. ", "S": [], "A": []}

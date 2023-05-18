@@ -1,0 +1,1 @@
+{"index": 167458, "D": "an auxiliary shaft in a gearbox, running parallel to the main shaft, to and from which drive is transferred to enable varying ratios to be obtained", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 51007, "D": "adherence to moderate political views or policies; careful avoidance of any political position that could be construed as too far right or left", "S": ["center ", "golden mean ", "happy medium ", "interface ", "meeting ground ", "middle of the road ", "neutral territory ", "straddling the fence "], "A": []}

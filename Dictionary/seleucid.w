@@ -1,0 +1,1 @@
+{"index": 283517, "D": "a member of a Macedonian dynasty, 312\u201364 b.c., that ruled an empire that included much of Asia Minor, Syria, Persia, Bactria, and Babylonia.", "S": [], "A": []}

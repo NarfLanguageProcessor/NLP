@@ -1,0 +1,1 @@
+{"index": 72653, "D": "minutely crenate,  as the margin of certain leaves.", "S": [], "A": []}

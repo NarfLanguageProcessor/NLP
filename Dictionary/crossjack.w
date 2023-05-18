@@ -1,0 +1,1 @@
+{"index": 73834, "D": "the lowermost square sail set on the mizzenmast of a ship or of a bark with four or more masts; mizzen course.", "S": [], "A": []}

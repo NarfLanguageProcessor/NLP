@@ -1,0 +1,1 @@
+{"index": 288658, "D": "the loss of lift and increase of drag experienced by transonic aircraft when strong shock waves on the wings cause the airflow to separate from the wing surfaces", "S": [], "A": []}

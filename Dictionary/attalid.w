@@ -1,0 +1,1 @@
+{"index": 22973, "D": "any of a line of kings, usually named Attalus orEumenes, that ruled Pergamum, in Asia Minor, 282\u2013133 b.c.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226893, "D": "the act or process of analyzing sentences or their elements grammatically", "S": ["determine ", "dissect ", "resolve "], "A": ["waver ", "combine ", "connect ", "join ", "marry ", "put together ", "unite "]}

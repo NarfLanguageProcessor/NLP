@@ -1,0 +1,1 @@
+{"index": 87100, "D": "a computer program that translates machine code into assembly language", "S": [], "A": []}

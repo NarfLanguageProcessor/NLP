@@ -1,0 +1,1 @@
+{"index": 187240, "D": "a woman who milks  cows or is employed in a dairy; dairymaid.", "S": [], "A": []}

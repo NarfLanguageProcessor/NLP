@@ -1,0 +1,1 @@
+{"index": 261615, "D": "an act of readjusting  or the state of being readjusted. ", "S": ["adjustment ", "reconstruction ", "rehabilitation "], "A": []}

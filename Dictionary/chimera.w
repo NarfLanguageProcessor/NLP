@@ -1,0 +1,1 @@
+{"index": 54482, "D": "a mythological, fire-breathing monster, commonly represented with a lion's head, a goat's body, and a serpent's tail.", "S": ["bogy ", "delusion ", "fabrication ", "fancy ", "figment ", "hallucination ", "illusion ", "mirage ", "monster ", "monstrosity ", "snare ", "specter "], "A": ["certainty ", "fact ", "reality ", "truth "]}

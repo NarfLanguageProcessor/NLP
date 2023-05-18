@@ -1,0 +1,1 @@
+{"index": 118598, "D": "a shape having an irregular contour, chiefly used in nonrepresentational art and industrial design.", "S": [], "A": []}

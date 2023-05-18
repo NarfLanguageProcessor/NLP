@@ -1,0 +1,1 @@
+{"index": 59325, "D": "a valveless trumpet used in the 17th and 18th centuries for playing rapid passages in the high register.", "S": [], "A": []}

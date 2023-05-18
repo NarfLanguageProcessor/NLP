@@ -1,0 +1,1 @@
+{"index": 365892, "D": "the crank or handle of a revolving machine.", "S": [], "A": []}

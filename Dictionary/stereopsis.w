@@ -1,0 +1,1 @@
+{"index": 303945, "D": "stereoscopic vision; the ability to perceive depth.", "S": [], "A": []}

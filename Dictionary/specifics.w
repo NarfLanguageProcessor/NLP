@@ -1,0 +1,1 @@
+{"index": 298797, "D": "having a special application, bearing, or reference; specifying, explicit, or definite", "S": ["minutiae "], "A": []}

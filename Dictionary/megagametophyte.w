@@ -1,0 +1,1 @@
+{"index": 182364, "D": "the female gametophyte  in seed plants.", "S": [], "A": []}

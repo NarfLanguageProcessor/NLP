@@ -1,0 +1,1 @@
+{"index": 143488, "D": "a thug or gangster.", "S": ["criminal ", "delinquent ", "gangster ", "goon ", "hooligan ", "mobster ", "punk ", "rioter ", "rowdy ", "ruffian ", "thug ", "troublemaker "], "A": []}

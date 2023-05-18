@@ -1,0 +1,1 @@
+{"index": 307938, "D": "of the nature of cork; corklike; corky. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 328071, "D": "being on or coming from the opposite side of the sea or ocean.", "S": ["over the water ", "oversea ", "transatlantic "], "A": []}

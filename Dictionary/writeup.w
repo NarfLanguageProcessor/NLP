@@ -1,0 +1,1 @@
+{"index": 368054, "D": "a written description or account, as in a newspaper or magazine", "S": ["component ", "element ", "feature ", "information ", "piece ", "thing "], "A": ["whole ", "heedlessness ", "ignorance ", "neglect "]}

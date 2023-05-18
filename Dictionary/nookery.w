@@ -1,0 +1,1 @@
+{"index": 208432, "D": "a snug, secure, or cozy nook. ", "S": [], "A": []}

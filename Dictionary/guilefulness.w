@@ -1,0 +1,1 @@
+{"index": 131074, "D": "insidiously cunning; artfully deceptive; wily.", "S": [], "A": []}

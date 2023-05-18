@@ -1,0 +1,1 @@
+{"index": 327050, "D": "(of an arthropod) having tracheae.", "S": [], "A": []}

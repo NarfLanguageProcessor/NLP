@@ -1,0 +1,1 @@
+{"index": 105893, "D": "producing or creating heat or warmth.", "S": [], "A": []}

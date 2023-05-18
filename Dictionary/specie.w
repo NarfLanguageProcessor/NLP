@@ -1,0 +1,1 @@
+{"index": 298771, "D": "coined money; coin.", "S": ["bread ", "cash ", "change ", "chips ", "coinage ", "copper ", "currency ", "doubloon ", "dough ", "gold ", "jack ", "mintage ", "money ", "piece ", "scratch ", "silver "], "A": ["bill ", "dollar "]}

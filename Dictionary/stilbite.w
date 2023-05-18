@@ -1,0 +1,1 @@
+{"index": 304437, "D": "a white-to-brown or red zeolite mineral, a hydrous silicate of calcium and aluminum, occurring in sheaflike aggregates of crystals and in radiated masses.", "S": [], "A": []}

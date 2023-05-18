@@ -1,0 +1,1 @@
+{"index": 197243, "D": "a disciple of Jesus, possibly Bartholomew. John 1", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 23309, "D": "designating an electronic apparatus using audio frequencies", "S": ["TV set ", "audio ", "box ", "station ", "video "], "A": []}

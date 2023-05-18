@@ -1,0 +1,1 @@
+{"index": 18190, "D": "a board that skims over water when towed at high speed by a motorboat, used to carry a rider in aquatic sports.", "S": [], "A": []}

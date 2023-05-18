@@ -1,0 +1,1 @@
+{"index": 207155, "D": "in the manner of a pithy saying or aphorism", "S": [], "A": []}

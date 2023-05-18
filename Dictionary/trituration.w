@@ -1,0 +1,1 @@
+{"index": 330774, "D": "the act of triturating.", "S": ["agitation ", "erosion ", "irritation ", "resistance "], "A": ["agreement ", "harmony ", "peace "]}

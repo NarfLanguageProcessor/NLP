@@ -1,0 +1,1 @@
+{"index": 96404, "D": "a small hole, usually round and finished along the edge, as in cloth or leather for the passage of a lace or cord or as in embroidery for ornamental effect.", "S": [], "A": []}

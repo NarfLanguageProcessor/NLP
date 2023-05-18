@@ -1,0 +1,1 @@
+{"index": 201185, "D": "an effort to appear to have a quality not really or fully possessed; the pretense of actual possession", "S": [], "A": []}

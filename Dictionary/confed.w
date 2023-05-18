@@ -1,0 +1,1 @@
+{"index": 65794, "D": "confederacy.", "S": [], "A": []}

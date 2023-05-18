@@ -1,0 +1,1 @@
+{"index": 2463, "D": "to make somewhat acid. ", "S": ["acid ", "acidic ", "acrid ", "biting ", "bitter ", "briny ", "caustic ", "fermented ", "musty ", "peppery ", "piquant ", "pungent ", "rancid ", "sharp ", "soured ", "unpleasant "], "A": ["agreeable ", "blah ", "bland ", "calm ", "dull ", "good ", "kind ", "mild ", "nice ", "pleasant ", "sweet ", "tasteless ", "wonderful "]}

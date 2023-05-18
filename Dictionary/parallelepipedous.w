@@ -1,0 +1,1 @@
+{"index": 225732, "D": "a prism with six faces, all parallelograms.", "S": [], "A": []}

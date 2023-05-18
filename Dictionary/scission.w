@@ -1,0 +1,1 @@
+{"index": 280822, "D": "a cutting, dividing, or splitting; division; separation.", "S": [], "A": []}

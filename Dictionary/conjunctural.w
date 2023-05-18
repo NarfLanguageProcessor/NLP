@@ -1,0 +1,1 @@
+{"index": 66446, "D": "a combination of circumstances; a particular state of affairs.", "S": [], "A": []}

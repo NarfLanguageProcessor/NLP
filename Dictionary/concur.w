@@ -1,0 +1,1 @@
+{"index": 65489, "D": "to accord in opinion; agree", "S": ["acquiesce ", "coincide ", "jibe "], "A": ["clash ", "disagree ", "deny ", "disallow ", "disapprove ", "disconnect ", "disjoin ", "dissent ", "divide ", "oppose ", "part ", "protest ", "refuse ", "reject ", "separate "]}

@@ -1,0 +1,1 @@
+{"index": 322399, "D": "a skate, Raja clavata, of European waters, having short spines on the back  and tail.", "S": [], "A": []}

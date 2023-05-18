@@ -1,0 +1,1 @@
+{"index": 88925, "D": "capable of being dispensed  with or done without; not necessary or essential.", "S": ["disposable ", "excessive ", "expendable ", "minor ", "needless ", "nonessential ", "removable ", "superfluous ", "trivial ", "unimportant ", "unnecessary ", "unrequired ", "useless "], "A": ["indispensable ", "irreplaceable ", "necessary ", "needed ", "useful "]}

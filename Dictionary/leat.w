@@ -1,0 +1,1 @@
+{"index": 169702, "D": "a trench or ditch that conveys water to a mill wheel", "S": [], "A": []}

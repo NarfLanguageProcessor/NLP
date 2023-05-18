@@ -1,0 +1,1 @@
+{"index": 312856, "D": "to take place or occur as something additional or extraneous (sometimes followed by on or upon).", "S": [], "A": []}

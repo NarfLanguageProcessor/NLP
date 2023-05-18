@@ -1,0 +1,1 @@
+{"index": 19505, "D": "argilliferous rocks", "S": [], "A": []}

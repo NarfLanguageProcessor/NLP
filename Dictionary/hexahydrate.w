@@ -1,0 +1,1 @@
+{"index": 137958, "D": "a hydrate  that contains six molecules of water, as magnesium chloride, MgCl2\u22c56H2O.", "S": [], "A": []}

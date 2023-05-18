@@ -1,0 +1,1 @@
+{"index": 173136, "D": "the surgical removal of fatty tissue.", "S": [], "A": []}

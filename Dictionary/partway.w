@@ -1,0 +1,1 @@
+{"index": 227141, "D": "at or to a part  of the way  or distance", "S": [], "A": []}

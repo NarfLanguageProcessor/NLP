@@ -1,0 +1,1 @@
+{"index": 112342, "D": "unfinished stone  as found in fields,  especially when used for building purposes.", "S": [], "A": []}

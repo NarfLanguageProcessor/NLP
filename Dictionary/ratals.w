@@ -1,0 +1,1 @@
+{"index": 260954, "D": "the amount on which rates  or taxes are assessed.", "S": [], "A": []}

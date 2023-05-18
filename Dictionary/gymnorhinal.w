@@ -1,0 +1,1 @@
+{"index": 125083, "D": "(of a bird) having the nostrils exposed, not covered by feathers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363143, "D": "any of several large salamanders, as a mudpuppy or hellbender.", "S": ["bluejacket ", "boater ", "cadet ", "diver ", "jack-tar ", "lascar ", "marine ", "mariner ", "mate ", "middy ", "navigator ", "pilot ", "pirate ", "salt ", "seafarer ", "seaman ", "shipmate ", "swab ", "tar ", "tarpaulin ", "windjammer "], "A": []}

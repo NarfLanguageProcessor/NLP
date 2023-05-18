@@ -1,0 +1,1 @@
+{"index": 239973, "D": "fused or attached to the inner edge of the jaw, as a tooth.", "S": [], "A": []}

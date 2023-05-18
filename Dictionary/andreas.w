@@ -1,0 +1,1 @@
+{"index": 12354, "D": "a male or female given name, Latinized form of Andrew. ", "S": [], "A": []}

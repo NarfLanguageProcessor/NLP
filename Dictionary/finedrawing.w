@@ -1,0 +1,1 @@
+{"index": 112905, "D": "to sew together so finely that the joining is not noticeable.", "S": [], "A": []}

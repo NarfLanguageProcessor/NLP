@@ -1,0 +1,1 @@
+{"index": 90800, "D": "a city in and the capital of Tanzania, in the central part.", "S": [], "A": []}

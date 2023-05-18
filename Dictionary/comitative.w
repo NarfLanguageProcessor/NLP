@@ -1,0 +1,1 @@
+{"index": 63850, "D": "noting a case whose distinctive function is to indicate accompaniment.", "S": [], "A": []}

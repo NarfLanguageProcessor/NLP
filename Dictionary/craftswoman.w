@@ -1,0 +1,1 @@
+{"index": 71913, "D": "a woman who practices or is highly skilled in a craft; artisan.", "S": [], "A": []}

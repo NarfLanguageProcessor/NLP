@@ -1,0 +1,1 @@
+{"index": 295132, "D": "the condition or an instance of being smug; smugness", "S": [], "A": []}

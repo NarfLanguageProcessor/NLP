@@ -1,0 +1,1 @@
+{"index": 74458, "D": "having three dimensions; solid.", "S": [], "A": []}

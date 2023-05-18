@@ -1,0 +1,1 @@
+{"index": 215141, "D": "noting or pertaining to a system of crystallization characterized by three unequal axes intersecting at right angles; rhombic;  trimetric.", "S": [], "A": []}

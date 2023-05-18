@@ -1,0 +1,1 @@
+{"index": 329233, "D": "the study of the effects of friction on moving machine parts and of methods, as lubrication, of obviating them.", "S": [], "A": []}

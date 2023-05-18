@@ -1,0 +1,1 @@
+{"index": 203664, "D": "in a way that relates to morals, the principles of morality, or right and wrong conduct", "S": [], "A": []}

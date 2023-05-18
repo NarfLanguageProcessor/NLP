@@ -1,0 +1,1 @@
+{"index": 53106, "D": "changing in luster or color", "S": ["bright ", "gleaming ", "glistening ", "lustrous ", "polished ", "silky ", "sleek ", "slick "], "A": ["dark ", "dull ", "rough ", "stupid ", "unintelligent ", "unpolished "]}

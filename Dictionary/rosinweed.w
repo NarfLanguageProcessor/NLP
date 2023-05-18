@@ -1,0 +1,1 @@
+{"index": 274545, "D": "any coarse, North American, composite plant of the genus Silphium, having a resinous juice and stalkless, paired leaves.", "S": [], "A": []}

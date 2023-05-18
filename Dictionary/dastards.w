@@ -1,0 +1,1 @@
+{"index": 77133, "D": "a mean, sneaking coward.", "S": ["cad ", "chicken ", "craven ", "poltroon ", "recreant ", "sneak ", "wimp "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273535, "D": "the act of a person, animal, or thing that roars. ", "S": ["amusement ", "chuckle ", "giggle ", "glee ", "guffaw ", "hilarity ", "laugh ", "mirth ", "roar ", "shout ", "shriek ", "snicker "], "A": ["crying ", "sadness ", "unhappiness "]}

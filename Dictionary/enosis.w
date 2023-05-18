@@ -1,0 +1,1 @@
+{"index": 100827, "D": "a movement for securing the political union of Greece and Cyprus.", "S": [], "A": []}

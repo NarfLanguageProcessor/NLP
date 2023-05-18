@@ -1,0 +1,1 @@
+{"index": 235638, "D": "a blue-green pigment, C32H18N8, derived from phthalic anhydride.", "S": [], "A": []}

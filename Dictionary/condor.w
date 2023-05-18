@@ -1,0 +1,1 @@
+{"index": 65673, "D": "either of two large, New World vultures of the family Cathartidae, Gymnogyps californianus(California condor ) or Vultur gryphus(Andean condor ), the largest flying birds in the Western Hemisphere", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201634, "D": "the state or status of not participating in a war.", "S": [], "A": []}

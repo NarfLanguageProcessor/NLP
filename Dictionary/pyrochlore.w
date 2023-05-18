@@ -1,0 +1,1 @@
+{"index": 237771, "D": "a mineral, chiefly composed of niobates of the cerium metals, occurring in syenites in the form of brown crystals.", "S": [], "A": []}

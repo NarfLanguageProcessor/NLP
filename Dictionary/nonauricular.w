@@ -1,0 +1,1 @@
+{"index": 201574, "D": "of or relating to the ear or to the sense of hearing; aural.", "S": [], "A": []}

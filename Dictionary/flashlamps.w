@@ -1,0 +1,1 @@
+{"index": 114034, "D": "a lamp for providing momentary illumination of the subject of a photograph.", "S": [], "A": []}

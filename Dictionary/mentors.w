@@ -1,0 +1,1 @@
+{"index": 183557, "D": "a wise and trusted counselor or teacher.", "S": ["department ", "institute ", "personnel ", "staff ", "university "], "A": ["inability ", "incompetence ", "ineptness ", "lack ", "need ", "students "]}

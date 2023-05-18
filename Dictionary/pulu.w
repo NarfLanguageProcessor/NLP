@@ -1,0 +1,1 @@
+{"index": 256429, "D": "a soft, elastic vegetable fiber of yellow-brown hue obtained from the young fronds of Hawaiian tree ferns, used for mattress and pillow stuffing.", "S": [], "A": []}

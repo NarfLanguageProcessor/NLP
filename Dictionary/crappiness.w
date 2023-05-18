@@ -1,0 +1,1 @@
+{"index": 72183, "D": "extremely bad, unpleasant, or inferior; lousy", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234856, "D": "a luminous image produced by mechanical stimulation of the retina, as by pressure applied to the eyeball by the finger when the lid is closed.", "S": [], "A": []}

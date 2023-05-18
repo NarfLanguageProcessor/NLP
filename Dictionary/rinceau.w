@@ -1,0 +1,1 @@
+{"index": 272993, "D": "an ornamental foliate or floral motif.", "S": [], "A": []}

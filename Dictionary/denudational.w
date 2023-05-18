@@ -1,0 +1,1 @@
+{"index": 81367, "D": "the act of denuding. ", "S": [], "A": []}

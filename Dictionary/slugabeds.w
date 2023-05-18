@@ -1,0 +1,1 @@
+{"index": 294518, "D": "a lazy person who stays in bed long after the usual time for arising.", "S": ["beachcomber ", "deadbeat ", "do-nothing ", "good-for-nothing ", "goof-off ", "idler ", "lazybones ", "loafer ", "lounger ", "malingerer ", "ne'er-do-well ", "shirker ", "slacker ", "slouch ", "sluggard ", "sponger ", "wanderer ", "waster ", "wastrel "], "A": ["hard worker "]}

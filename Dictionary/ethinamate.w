@@ -1,0 +1,1 @@
+{"index": 105008, "D": "a crystalline, slightly water-soluble powder, C9H13NO2, used as a hypnotic.", "S": [], "A": []}

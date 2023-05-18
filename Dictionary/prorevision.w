@@ -1,0 +1,1 @@
+{"index": 252938, "D": "the act or work of revising. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358070, "D": "infliction of injury, harm, humiliation, or the like, on a person by another who has been harmed by that person; violent revenge", "S": ["reprisal ", "retribution ", "revenge "], "A": ["forgiveness ", "pardon ", "sympathy "]}

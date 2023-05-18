@@ -1,0 +1,1 @@
+{"index": 287466, "D": "a round, slightly tapered, brimless fur hat worn especially in Russia.", "S": [], "A": []}

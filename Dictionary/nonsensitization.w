@@ -1,0 +1,1 @@
+{"index": 207141, "D": "the state or process of being sensitized.", "S": [], "A": []}

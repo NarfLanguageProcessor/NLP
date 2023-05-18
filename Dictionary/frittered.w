@@ -1,0 +1,1 @@
+{"index": 119159, "D": "to squander or disperse piecemeal; waste little by little (usually followed by away)", "S": ["dissipate ", "lavish ", "misspend ", "squander "], "A": ["hoard ", "save "]}

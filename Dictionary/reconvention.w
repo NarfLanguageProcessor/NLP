@@ -1,0 +1,1 @@
+{"index": 263458, "D": "an action brought by the defendant in pending litigation against the plaintiff", "S": [], "A": []}

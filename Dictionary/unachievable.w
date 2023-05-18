@@ -1,0 +1,1 @@
+{"index": 334493, "D": "to bring to a successful end; carry through; accomplish", "S": ["desperate ", "forlorn ", "helpless ", "impossible ", "pointless ", "sad ", "tragic ", "useless "], "A": ["cheerful ", "good ", "happy ", "hopeful ", "joyful "]}

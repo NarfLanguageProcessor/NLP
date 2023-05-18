@@ -1,0 +1,1 @@
+{"index": 310969, "D": "the highest point or part, as of a hill, a line of travel, or any object; top; apex.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91873, "D": "a place to sleep, especially in a cheap lodging house. ", "S": [], "A": []}

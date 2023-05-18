@@ -1,0 +1,1 @@
+{"index": 144495, "D": "a married woman who manages her own household, especially as her principal occupation.", "S": ["homemaker "], "A": []}

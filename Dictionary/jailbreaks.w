@@ -1,0 +1,1 @@
+{"index": 160153, "D": "an escape from prison, especially by forcible means.", "S": ["decampment ", "escapement ", "flight ", "getaway "], "A": []}

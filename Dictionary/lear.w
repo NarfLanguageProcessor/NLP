@@ -1,0 +1,1 @@
+{"index": 169654, "D": "learning; instruction; lesson.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70460, "D": "any of several American poplars, as Populus deltoides, having toothed, triangular leaves and cottonlike tufts on the seeds.", "S": [], "A": []}

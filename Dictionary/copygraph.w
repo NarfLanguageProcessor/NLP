@@ -1,0 +1,1 @@
+{"index": 68515, "D": "another name for hectograph", "S": [], "A": []}

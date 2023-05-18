@@ -1,0 +1,1 @@
+{"index": 146637, "D": "to regard with blind adoration, devotion, etc.", "S": [], "A": []}

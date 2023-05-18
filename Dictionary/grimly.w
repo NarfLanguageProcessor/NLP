@@ -1,0 +1,1 @@
+{"index": 129906, "D": "in a stern, sinister, fierce, or forbidding way", "S": ["brutally ", "firmly ", "powerfully "], "A": ["weakly "]}

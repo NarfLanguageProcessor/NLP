@@ -1,0 +1,1 @@
+{"index": 139113, "D": "hierarchical principles, rule, or influence.", "S": [], "A": []}

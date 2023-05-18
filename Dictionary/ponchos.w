@@ -1,0 +1,1 @@
+{"index": 242958, "D": "a blanketlike cloak with a hole in the center to admit the head, originating in South America, now often worn as a raincoat.", "S": ["cape ", "capote ", "coat ", "mantle ", "raincoat ", "shawl ", "wrap "], "A": []}

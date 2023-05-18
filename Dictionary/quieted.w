@@ -1,0 +1,1 @@
+{"index": 258558, "D": "making no noise or sound, especially no disturbing sound", "S": ["confident ", "easygoing ", "levelheaded ", "poised ", "relaxed ", "self-assured ", "serene ", "tranquil ", "unflappable ", "unruffled "], "A": ["agitated ", "nervous ", "upset ", "worried ", "excited "]}

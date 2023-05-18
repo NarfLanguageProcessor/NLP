@@ -1,0 +1,1 @@
+{"index": 224483, "D": "to cater to or profit from the weaknesses or vices of others", "S": [], "A": []}

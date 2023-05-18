@@ -1,0 +1,1 @@
+{"index": 49336, "D": "a simplified leaf form, as a bud scale or a scale on a cotyledon or rhizome.", "S": [], "A": []}

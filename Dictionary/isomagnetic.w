@@ -1,0 +1,1 @@
+{"index": 159076, "D": "noting or pertaining to points of equal magnetic  force.", "S": [], "A": []}

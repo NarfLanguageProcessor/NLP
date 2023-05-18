@@ -1,0 +1,1 @@
+{"index": 356907, "D": "a metal plate mounted on a lance in front of the grip to protect the hand.", "S": [], "A": []}

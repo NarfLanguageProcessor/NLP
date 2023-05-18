@@ -1,0 +1,1 @@
+{"index": 325717, "D": "an implement, especially one held in the hand, as a hammer, saw, or file, for performing or facilitating mechanical operations.", "S": ["appliance ", "device ", "gear ", "gizmo ", "machine ", "machinery ", "means ", "mechanism "], "A": []}

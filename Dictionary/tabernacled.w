@@ -1,0 +1,1 @@
+{"index": 314791, "D": "any place or house of worship, especially one designed for a large congregation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41407, "D": "a form of pneumonia  centering on bronchial passages.", "S": [], "A": []}

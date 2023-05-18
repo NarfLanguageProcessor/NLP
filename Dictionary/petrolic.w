@@ -1,0 +1,1 @@
+{"index": 232521, "D": "of, relating to, or produced from petroleum. ", "S": [], "A": []}

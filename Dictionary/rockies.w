@@ -1,0 +1,1 @@
+{"index": 273697, "D": "Rocky Mountains. ", "S": ["sierra "], "A": []}

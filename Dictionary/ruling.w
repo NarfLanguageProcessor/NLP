@@ -1,0 +1,1 @@
+{"index": 275469, "D": "an authoritative decision, as one by a judge on a debated point of law.", "S": ["cardinal ", "central ", "commanding ", "controlling ", "leading ", "overriding ", "overruling ", "reigning ", "sovereign ", "upper "], "A": ["inferior ", "insignificant ", "minor ", "secondary ", "unimportant "]}

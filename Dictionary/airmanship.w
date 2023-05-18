@@ -1,0 +1,1 @@
+{"index": 6950, "D": "the knowledge and ability needed to control and navigate an aircraft.", "S": [], "A": []}

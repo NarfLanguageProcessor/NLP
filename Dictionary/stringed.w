@@ -1,0 +1,1 @@
+{"index": 306322, "D": "fitted with strings  (often used in combination)", "S": ["accommodate ", "adapt ", "adjust ", "attune ", "conform ", "coordinate ", "dial ", "fix ", "harmonize ", "integrate ", "modulate ", "pitch ", "proportion ", "reconcile ", "regulate ", "set ", "string ", "tighten "], "A": ["break ", "destroy ", "harm ", "hurt "]}

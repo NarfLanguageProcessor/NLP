@@ -1,0 +1,1 @@
+{"index": 348139, "D": "a tree cut back nearly to the trunk, so as to produce a dense mass of branches.", "S": [], "A": []}

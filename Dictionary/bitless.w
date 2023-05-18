@@ -1,0 +1,1 @@
+{"index": 35206, "D": "a device for drilling oil wells or the like, consisting of a horizontally rotating blade or an assembly of rotating toothed wheels.", "S": [], "A": []}

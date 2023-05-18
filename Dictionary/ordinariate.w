@@ -1,0 +1,1 @@
+{"index": 214245, "D": "(formerly) a province in which the faithful of an Eastern rite were under the rule of a prelate of their rite who had no territorial jurisdiction.", "S": [], "A": []}

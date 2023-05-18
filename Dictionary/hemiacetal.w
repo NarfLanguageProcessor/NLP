@@ -1,0 +1,1 @@
+{"index": 136065, "D": "any of the class of organic chemical compounds having the general formula RCH(OH)OR, where R is an organic group.", "S": [], "A": []}

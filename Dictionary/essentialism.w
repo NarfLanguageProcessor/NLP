@@ -1,0 +1,1 @@
+{"index": 104521, "D": "a doctrine that the inward, or essential,  nature of most things is invariable, as opposed to the properties that are accidental, phenomenal, illusory, etc. ", "S": [], "A": []}

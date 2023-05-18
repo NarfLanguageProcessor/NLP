@@ -1,0 +1,1 @@
+{"index": 330456, "D": "(of a deer or the like) represented in the act of walking", "S": [], "A": []}

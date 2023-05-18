@@ -1,0 +1,1 @@
+{"index": 300610, "D": "to indulge oneself in some luxury or pleasure, especially a costly one", "S": [], "A": []}

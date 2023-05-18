@@ -1,0 +1,1 @@
+{"index": 77769, "D": "to make weak or feeble; enfeeble", "S": ["attenuate ", "cripple ", "disable ", "eviscerate "], "A": ["aid ", "assist ", "enable ", "help ", "strengthen ", "animate ", "assuage ", "cure ", "fix ", "grow ", "heal ", "increase ", "invigorate ", "mend ", "please ", "soothe "]}

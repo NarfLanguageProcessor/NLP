@@ -1,0 +1,1 @@
+{"index": 306702, "D": "resembling or related to the ostriches or other ratite birds.", "S": [], "A": []}

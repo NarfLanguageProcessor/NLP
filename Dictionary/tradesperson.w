@@ -1,0 +1,1 @@
+{"index": 327261, "D": "those persons who are engaged in trade; tradesmen.", "S": ["baron ", "businessman ", "businesswoman ", "capitalist ", "dealer ", "employer ", "entrepreneur ", "executive ", "financier ", "industrialist ", "manager ", "merchandiser ", "merchant ", "operator ", "storekeeper ", "suit ", "trafficker ", "tycoon "], "A": ["customer "]}

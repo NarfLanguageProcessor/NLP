@@ -1,0 +1,1 @@
+{"index": 49335, "D": "the use of affirmative statements to discuss a subject; affirmation through positive statements.", "S": [], "A": []}

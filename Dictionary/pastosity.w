@@ -1,0 +1,1 @@
+{"index": 227516, "D": "having a heavy impasto.", "S": [], "A": []}

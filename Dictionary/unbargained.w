@@ -1,0 +1,1 @@
+{"index": 335613, "D": "an advantageous purchase, especially one acquired at less than the usual cost", "S": [], "A": []}

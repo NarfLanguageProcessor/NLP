@@ -1,0 +1,1 @@
+{"index": 86133, "D": "to cause to make a ringing sound.", "S": ["beat ", "clang ", "dash ", "dent ", "drive ", "knock ", "nick ", "pound ", "ring ", "stroke ", "thrust ", "thump "], "A": ["aid ", "assist ", "help "]}

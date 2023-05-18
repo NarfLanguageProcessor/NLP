@@ -1,0 +1,1 @@
+{"index": 243133, "D": "(in folklore) an Irish spirit, mischievous but not malevolent, corresponding to the English Puck. ", "S": [], "A": []}

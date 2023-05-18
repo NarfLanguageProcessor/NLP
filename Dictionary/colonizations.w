@@ -1,0 +1,1 @@
+{"index": 63263, "D": "to establish a colony  in; settle", "S": ["clearing ", "establishment ", "expansion ", "founding ", "immigration ", "migration ", "settlement ", "settling ", "squatting ", "transplanting "], "A": []}

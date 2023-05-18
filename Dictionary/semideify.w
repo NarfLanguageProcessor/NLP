@@ -1,0 +1,1 @@
+{"index": 284056, "D": "to elevate (a person, object, or nature) to the status of a demigod.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 123672, "D": "a highly toxic broad-spectrum antibiotic mixture of related aminoglycoside  substances derived from the actinomycete  bacterium Micromonospora purpurea, used in its sulfate form in the treatment of severe Gram-negative  infections.", "S": [], "A": []}

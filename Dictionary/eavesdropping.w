@@ -1,0 +1,1 @@
+{"index": 94986, "D": "to listen secretly to a private conversation.", "S": ["inquisitive ", "intrusive ", "meddlesome "], "A": ["incurious "]}

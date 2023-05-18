@@ -1,0 +1,1 @@
+{"index": 188152, "D": "hemoglobin of muscle, weighing less and carrying more oxygen and less carbon monoxide than blood hemoglobin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235901, "D": "the act of a person or thing that picks.", "S": ["culling ", "deciding ", "electing ", "separating "], "A": []}

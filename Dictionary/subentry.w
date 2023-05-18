@@ -1,0 +1,1 @@
+{"index": 307893, "D": "an item shown or listed under a main entry,  as in bookkeeping.", "S": [], "A": []}

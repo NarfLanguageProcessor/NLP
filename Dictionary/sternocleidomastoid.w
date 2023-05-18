@@ -1,0 +1,1 @@
+{"index": 304084, "D": "of, relating to, or involving the sternum, the clavicle, and the mastoid process.", "S": [], "A": []}

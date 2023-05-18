@@ -1,0 +1,1 @@
+{"index": 342949, "D": "to castrate (an animal, especially a horse).", "S": [], "A": []}

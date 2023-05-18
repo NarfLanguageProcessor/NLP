@@ -1,0 +1,1 @@
+{"index": 80906, "D": "of or relating to the ordinary, everyday, current form of a language; vernacular", "S": ["conversational ", "vernacular "], "A": ["correct ", "formal ", "standard ", "stilted "]}

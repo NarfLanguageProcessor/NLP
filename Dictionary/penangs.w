@@ -1,0 +1,1 @@
+{"index": 229512, "D": "an island in SE Asia, off the W coast of the Malay Peninsula. 110 sq. mi. (285 sq. km).", "S": [], "A": []}

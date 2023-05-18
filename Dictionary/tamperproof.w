@@ -1,0 +1,1 @@
+{"index": 315940, "D": "that cannot be tampered  with; impervious to tampering", "S": [], "A": []}

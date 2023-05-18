@@ -1,0 +1,1 @@
+{"index": 235069, "D": "a photosensitive semiconductor diode. ", "S": [], "A": []}

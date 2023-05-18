@@ -1,0 +1,1 @@
+{"index": 276110, "D": "saber. ", "S": ["bayonet ", "blade ", "cutter ", "dagger ", "machete ", "scalpel ", "sickle ", "skewer ", "sword "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333116, "D": "all; all the voices or instruments together.", "S": [], "A": []}

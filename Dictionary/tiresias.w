@@ -1,0 +1,1 @@
+{"index": 324504, "D": "a blind prophet, usually said to have been blinded because he saw Athena bathing, and then to have been awarded the gift of prophecy as a consolation for his blindness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 329938, "D": "a method of determining the relative positions of three or more points by treating these points as vertices of a triangle or triangles of which the angles and sides can be measured.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95688, "D": "belonging or pertaining to the Edentata, an order of New World mammals characterized by the absence of incisors and canines in the arrangement of teeth and comprising the armadillos, the sloths, and the South American anteaters.", "S": ["aardvark ", "anteater ", "armadillo ", "sloth "], "A": []}

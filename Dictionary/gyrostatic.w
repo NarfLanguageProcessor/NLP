@@ -1,0 +1,1 @@
+{"index": 125609, "D": "of or concerned with the gyroscope or with gyrostatics", "S": [], "A": []}

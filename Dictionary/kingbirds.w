@@ -1,0 +1,1 @@
+{"index": 164872, "D": "any of several American tyrant flycatchers of the genus Tyrannus, especially T. tyrannus(eastern kingbird ), of North America, known for their pugnacious disposition toward predators.", "S": [], "A": []}

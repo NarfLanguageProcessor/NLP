@@ -1,0 +1,1 @@
+{"index": 58829, "D": "(of cells or groups of cells) growing or moving toward or away from each other.", "S": [], "A": []}

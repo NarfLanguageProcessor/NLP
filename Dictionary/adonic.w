@@ -1,0 +1,1 @@
+{"index": 4286, "D": "noting a verse consisting of a dactyl (\ue014) followed by a spondee (\ue023) or trochee (\ue028).", "S": [], "A": []}

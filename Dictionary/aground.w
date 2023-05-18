@@ -1,0 +1,1 @@
+{"index": 6576, "D": "on or into the ground; in a stranded condition or state", "S": ["ashore ", "marooned ", "stranded ", "wrecked "], "A": ["afloat "]}

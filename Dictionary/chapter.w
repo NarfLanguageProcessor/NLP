@@ -1,0 +1,1 @@
+{"index": 52681, "D": "a main division of a book, treatise, or the like, usually bearing a number or title.", "S": ["affiliate ", "branch ", "division ", "episode ", "member ", "phase ", "stage ", "unit "], "A": ["whole "]}

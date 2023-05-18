@@ -1,0 +1,1 @@
+{"index": 358271, "D": "an undertaking involving uncertainty as to the outcome, especially a risky or dangerous one", "S": ["adventured ", "attempted ", "dared ", "experimented ", "gambled ", "tested ", "tried "], "A": []}

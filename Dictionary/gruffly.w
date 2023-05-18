@@ -1,0 +1,1 @@
+{"index": 130528, "D": "in a low, harsh, gravelly voice; hoarsely", "S": [], "A": []}

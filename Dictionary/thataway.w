@@ -1,0 +1,1 @@
+{"index": 320637, "D": "in or toward the direction pointed out", "S": ["alternative ", "approach ", "course ", "line ", "path ", "progress ", "road ", "trend "], "A": []}

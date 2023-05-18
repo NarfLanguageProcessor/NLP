@@ -1,0 +1,1 @@
+{"index": 213330, "D": "industrious, as a person.", "S": ["arduous ", "diligent ", "hard ", "industrious ", "laborious "], "A": []}

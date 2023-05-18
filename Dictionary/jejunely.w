@@ -1,0 +1,1 @@
+{"index": 160786, "D": "without interest or significance; dull; insipid", "S": [], "A": []}

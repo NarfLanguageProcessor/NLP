@@ -1,0 +1,1 @@
+{"index": 346211, "D": "telling lies, especially habitually; dishonest; lying; untruthful", "S": [], "A": []}

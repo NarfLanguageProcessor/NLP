@@ -1,0 +1,1 @@
+{"index": 56919, "D": "an inflorescence consisting of a cup-shaped involucre enclosing an apetalous, pistillate flower surrounded by several staminate flowers.", "S": [], "A": []}

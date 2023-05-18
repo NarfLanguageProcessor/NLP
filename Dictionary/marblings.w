@@ -1,0 +1,1 @@
+{"index": 179860, "D": "the act, process, or art of coloring or staining in imitation of variegated marble. ", "S": [], "A": []}

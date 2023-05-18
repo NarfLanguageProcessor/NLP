@@ -1,0 +1,1 @@
+{"index": 62837, "D": "to fall or cave in; crumble suddenly", "S": ["cracking ", "crumbling ", "fracturing ", "shattering ", "smashing ", "splintering ", "splitting ", "tearing "], "A": ["enduring ", "strong "]}

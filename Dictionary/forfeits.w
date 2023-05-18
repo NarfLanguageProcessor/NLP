@@ -1,0 +1,1 @@
+{"index": 117179, "D": "a fine; penalty. ", "S": ["cost ", "damages ", "fine ", "loss ", "mulct ", "penalty ", "relinquishment "], "A": ["award ", "reward "]}

@@ -1,0 +1,1 @@
+{"index": 158050, "D": "any of the various Australian eucalyptuses having a hard, solid bark. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312950, "D": "to take the place of (another), as through force, scheming, strategy, or the like.", "S": [], "A": []}

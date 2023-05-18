@@ -1,0 +1,1 @@
+{"index": 65885, "D": "a sofa or settee, especially of the 18th century, having a triangular seat at each end divided from the greater part of the seat by an armrest.", "S": [], "A": []}

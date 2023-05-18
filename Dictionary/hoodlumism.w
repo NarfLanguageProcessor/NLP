@@ -1,0 +1,1 @@
+{"index": 143486, "D": "a thug or gangster.", "S": ["hooliganism "], "A": []}

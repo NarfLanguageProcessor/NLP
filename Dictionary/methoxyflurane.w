@@ -1,0 +1,1 @@
+{"index": 185312, "D": "a potent substance, C3H4Cl2F2O, used as an analgesic in minor surgical procedures and less frequently as a general anesthetic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 121847, "D": "a series of acts of often forcible sexual intercourse engaged in by several persons successively with one passive partner.", "S": [], "A": []}

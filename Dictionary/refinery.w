@@ -1,0 +1,1 @@
+{"index": 265071, "D": "an establishment for refining  something, as metal, sugar, or petroleum.", "S": ["refiner "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 370000, "D": "the anatomy, especially the comparative anatomy, of animals.", "S": [], "A": []}

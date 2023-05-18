@@ -1,0 +1,1 @@
+{"index": 183929, "D": "(in the Doric order) a flat surface between two channels of a triglyph.", "S": [], "A": []}

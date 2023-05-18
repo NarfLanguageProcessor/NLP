@@ -1,0 +1,1 @@
+{"index": 159096, "D": "having an equal number of parts, markings, etc.", "S": [], "A": []}

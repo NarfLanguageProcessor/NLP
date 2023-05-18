@@ -1,0 +1,1 @@
+{"index": 105922, "D": "a rare, brownish-black mineral of complex composition, an oxide of calcium, cerium, yttrium, columbium, titanium, and uranium.", "S": [], "A": []}

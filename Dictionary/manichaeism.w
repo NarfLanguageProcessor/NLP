@@ -1,0 +1,1 @@
+{"index": 179243, "D": "the system of religious doctrines, including elements of Gnosticism, Zoroastrianism, Christianity, Buddhism, etc, taught by the Persian prophet Mani about the 3rd century ad . It was based on a supposed primordial conflict between light and darkness or goodness and evil", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 254682, "D": "having an arrangement of columns suggesting a dipteral structure but without the inner colonnade.", "S": [], "A": []}

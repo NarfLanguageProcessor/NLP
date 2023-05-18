@@ -1,0 +1,1 @@
+{"index": 126025, "D": "abnormally high fluid pressure in the eye, most commonly caused either by blockage of the channel through which aqueous humor drains (open-angle glaucoma,  or chronic glaucoma ) or by pressure of the iris against the lens, which traps the aqueous humor (angle-closure glaucoma,  or acute glaucoma ).", "S": [], "A": []}

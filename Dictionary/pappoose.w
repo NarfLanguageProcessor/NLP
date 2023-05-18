@@ -1,0 +1,1 @@
+{"index": 225299, "D": "a North American Indian baby or young child.", "S": [], "A": []}

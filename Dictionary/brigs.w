@@ -1,0 +1,1 @@
+{"index": 40788, "D": "the compartment of a ship where prisoners are confined.", "S": ["guardhouse ", "prison ", "slammer ", "stockade "], "A": []}

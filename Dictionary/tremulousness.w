@@ -1,0 +1,1 @@
+{"index": 328907, "D": "(of persons, the body, etc.) characterized by trembling, as from fear, nervousness, or weakness.", "S": ["anger ", "stage fright ", "tension ", "turbulence ", "uneasiness ", "worry "], "A": ["calmness ", "peace ", "calm ", "discouragement ", "ease "]}

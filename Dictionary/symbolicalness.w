@@ -1,0 +1,1 @@
+{"index": 290773, "D": "serving as a symbol  of something (often followed by of).", "S": [], "A": []}

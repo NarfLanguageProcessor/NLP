@@ -1,0 +1,1 @@
+{"index": 241304, "D": "any of several other tropical trees of the legume family, with showy flowers, as Caesalpina pulcherrima(dwarf poinciana ) or Peltophorum pterocarpum(yellow poinciana ).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305089, "D": "a richly ornamented garment covering the stomach  and chest, worn in the 15th and 16th centuries, and later worn under a bodice by women.", "S": [], "A": []}

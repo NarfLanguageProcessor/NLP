@@ -1,0 +1,1 @@
+{"index": 269789, "D": "the state or fact of being responsible,  answerable, or accountable for something within one's power, control, or management.", "S": ["authority ", "burden ", "duty ", "guilt ", "importance ", "liability ", "obligation ", "power ", "restraint ", "trust "], "A": ["irresponsibility ", "benefit ", "blessing "]}

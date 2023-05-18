@@ -1,0 +1,1 @@
+{"index": 277724, "D": "a large mass of sand,  as on a shoal or hillside.", "S": ["sandbar ", "shoal ", "tombolo "], "A": []}

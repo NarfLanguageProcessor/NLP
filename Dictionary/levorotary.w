@@ -1,0 +1,1 @@
+{"index": 171291, "D": "turning to the left, as the rotation to the left of the plane of polarization of light in certain crystals and compounds. Symbol", "S": [], "A": []}

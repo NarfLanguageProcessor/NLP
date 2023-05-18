@@ -1,0 +1,1 @@
+{"index": 267566, "D": "to separate into parts with force or violence", "S": ["rive "], "A": ["agree ", "attach ", "close ", "combine ", "join ", "mend ", "sew ", "unite "]}

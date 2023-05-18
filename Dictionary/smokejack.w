@@ -1,0 +1,1 @@
+{"index": 294999, "D": "an apparatus for turning a roasting spit, set in motion by the current of ascending gases in a chimney.", "S": [], "A": []}

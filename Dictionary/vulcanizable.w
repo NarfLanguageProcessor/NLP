@@ -1,0 +1,1 @@
+{"index": 361534, "D": "to treat (rubber) with sulfur and heat, thereby imparting strength, greater elasticity, durability, etc.", "S": [], "A": []}

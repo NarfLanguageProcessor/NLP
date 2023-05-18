@@ -1,0 +1,1 @@
+{"index": 294477, "D": "mentally slow or dull; slow in comprehension and thinking.", "S": [], "A": []}

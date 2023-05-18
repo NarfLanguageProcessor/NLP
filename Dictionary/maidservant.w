@@ -1,0 +1,1 @@
+{"index": 177799, "D": "a female servant. ", "S": ["charwoman ", "cleaning lady ", "cleaning service ", "daily ", "daily woman ", "housecleaner ", "household help ", "housekeeper ", "housemaid ", "maid "], "A": []}

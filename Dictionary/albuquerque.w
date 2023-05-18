@@ -1,0 +1,1 @@
+{"index": 7566, "D": "founder of the Portuguese empire in the East.", "S": [], "A": []}

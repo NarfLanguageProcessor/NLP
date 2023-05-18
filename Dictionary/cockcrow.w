@@ -1,0 +1,1 @@
+{"index": 61477, "D": "the time at which a cock  characteristically crows;  daybreak; dawn", "S": ["dawning ", "daybreak ", "morn ", "morning ", "sunrise ", "sunup "], "A": ["sunset "]}

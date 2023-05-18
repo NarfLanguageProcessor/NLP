@@ -1,0 +1,1 @@
+{"index": 191892, "D": "a doctrine holding that changes in the money supply determine the direction of a nation's economy.", "S": [], "A": []}

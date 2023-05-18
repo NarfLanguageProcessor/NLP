@@ -1,0 +1,1 @@
+{"index": 23667, "D": "to subject (steel or other metals) to a hardening process that increases its strength and improves its wear properties.", "S": [], "A": []}

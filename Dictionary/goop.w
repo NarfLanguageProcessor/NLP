@@ -1,0 +1,1 @@
+{"index": 127970, "D": "a bad-mannered or inconsiderate person; clod; boor.", "S": ["broth ", "juice ", "vapor "], "A": ["solid "]}

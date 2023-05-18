@@ -1,0 +1,1 @@
+{"index": 133219, "D": "a touching, grasping, or using with the hands.", "S": ["administration ", "approach ", "care ", "conduct ", "manipulation ", "supervision ", "treatment "], "A": ["mismanagement "]}

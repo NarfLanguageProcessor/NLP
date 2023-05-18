@@ -1,0 +1,1 @@
+{"index": 62844, "D": "a variety of kale, Brassica oleracea acephala, grown in the southern U.S., having a rosette of green leaves.", "S": ["sauerkraut "], "A": []}

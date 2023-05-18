@@ -1,0 +1,1 @@
+{"index": 322766, "D": "an enzyme of the blood plasma that catalyzes the conversion of fibrinogen to fibrin, the last step of the blood clotting process.", "S": [], "A": []}

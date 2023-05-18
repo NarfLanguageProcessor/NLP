@@ -1,0 +1,1 @@
+{"index": 163819, "D": "a house or shelter for a dog or a cat.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361733, "D": "to walk in water, when partially immersed", "S": ["bathe ", "paddle ", "splash ", "stumble ", "trek "], "A": ["avoid ", "be lazy ", "conclude ", "dodge ", "end ", "finish ", "idle ", "ignore ", "laze ", "neglect ", "stop "]}

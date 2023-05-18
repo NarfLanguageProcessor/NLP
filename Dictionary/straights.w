@@ -1,0 +1,1 @@
+{"index": 305675, "D": "without a bend, angle, or curve; not curved; direct", "S": ["freedom ", "independence ", "integrity "], "A": ["subordination ", "dishonesty ", "dishonor ", "evil ", "immorality ", "impropriety ", "unsuitableness ", "wickedness ", "wrong "]}

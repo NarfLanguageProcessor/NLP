@@ -1,0 +1,1 @@
+{"index": 336010, "D": "showing no shame or remorse; shameless", "S": [], "A": []}

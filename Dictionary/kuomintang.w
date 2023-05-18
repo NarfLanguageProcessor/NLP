@@ -1,0 +1,1 @@
+{"index": 166480, "D": "the dominant political party of China from 1928 to 1949, founded chiefly by Sun Yat-sen in 1912 and led from 1925 to 1975 by Chiang Kai-shek; the dominant party of the Republic of China (Taiwan) since 1949.", "S": [], "A": []}

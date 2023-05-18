@@ -1,0 +1,1 @@
+{"index": 114378, "D": "to grin or laugh coarsely or mockingly.", "S": ["grimace ", "grin ", "jeer ", "laugh ", "mock ", "scoff ", "sneer ", "taunt "], "A": []}

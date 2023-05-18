@@ -1,0 +1,1 @@
+{"index": 87691, "D": "to reduce to nothing; annihilate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 85474, "D": "to convert (data) to digital  form for use in a computer.", "S": ["load ", "log in "], "A": []}

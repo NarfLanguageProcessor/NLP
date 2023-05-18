@@ -1,0 +1,1 @@
+{"index": 350016, "D": "to tear or rend apart", "S": [], "A": []}

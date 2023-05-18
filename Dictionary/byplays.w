@@ -1,0 +1,1 @@
+{"index": 34678, "D": [], "S": ["accomplishment ", "act ", "action ", "adventure ", "fact ", "feat ", "reality ", "truth "], "A": ["cessation ", "failure ", "idleness ", "inaction ", "inactivity ", "inertia ", "lie ", "repose ", "rest ", "stoppage "]}

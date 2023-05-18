@@ -1,0 +1,1 @@
+{"index": 326675, "D": "a tournament.", "S": ["tournament "], "A": ["accord ", "agreement ", "calm ", "harmony ", "peace ", "retreat ", "surrender "]}

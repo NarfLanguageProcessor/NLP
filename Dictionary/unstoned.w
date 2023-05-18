@@ -1,0 +1,1 @@
+{"index": 352085, "D": "intoxicated or dazed from drugs; high (sometimes followed by out)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36397, "D": "a group of persons, businesses, etc., united for a particular purpose.", "S": ["association ", "faction "], "A": []}

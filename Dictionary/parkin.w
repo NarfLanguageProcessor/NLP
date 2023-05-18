@@ -1,0 +1,1 @@
+{"index": 226564, "D": "(in Britain and New Zealand) a moist spicy ginger cake usually containing oatmeal", "S": [], "A": []}

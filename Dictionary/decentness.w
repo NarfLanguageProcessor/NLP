@@ -1,0 +1,1 @@
+{"index": 78227, "D": "conforming to the recognized standard of propriety, good taste, modesty, etc., as in behavior or speech.", "S": ["civility ", "decorousness ", "decorum ", "dignity ", "modesty ", "properness ", "propriety ", "respectability ", "respectableness "], "A": []}

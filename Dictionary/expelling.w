@@ -1,0 +1,1 @@
+{"index": 107676, "D": "to drive or force out or away; discharge or eject", "S": ["defecation ", "discharge ", "ejection ", "elimination ", "evacuation ", "expulsion ", "exudation ", "leaving ", "perspiration ", "secretion ", "sweating ", "urination ", "voiding "], "A": ["accretion ", "eating ", "receiving "]}

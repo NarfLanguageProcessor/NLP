@@ -1,0 +1,1 @@
+{"index": 258007, "D": "inclined to quarrel;  argumentative; contentious.", "S": ["belligerent ", "cantankerous ", "combative ", "contentious ", "fractious ", "litigious ", "petulant ", "tempestuous ", "turbulent ", "unruly "], "A": ["agreeable ", "calm ", "good-natured ", "happy ", "mild ", "moderate ", "nice ", "obedient ", "pleasant "]}

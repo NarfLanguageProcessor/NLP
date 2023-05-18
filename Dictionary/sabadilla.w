@@ -1,0 +1,1 @@
+{"index": 275980, "D": "a Mexican plant, Schoenocaulon officinale, of the lily family,  having long, grasslike leaves and bitter seeds.", "S": [], "A": []}

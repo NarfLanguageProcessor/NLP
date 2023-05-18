@@ -1,0 +1,1 @@
+{"index": 238680, "D": "growing more or less divergent from the vertical.", "S": [], "A": []}

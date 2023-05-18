@@ -1,0 +1,1 @@
+{"index": 69300, "D": "a field in which corn is grown.", "S": [], "A": []}

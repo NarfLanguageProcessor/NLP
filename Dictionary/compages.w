@@ -1,0 +1,1 @@
+{"index": 64357, "D": "a structure or framework", "S": [], "A": []}

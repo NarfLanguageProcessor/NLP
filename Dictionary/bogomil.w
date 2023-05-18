@@ -1,0 +1,1 @@
+{"index": 37338, "D": "a member of a dualistic sect, flourishing chiefly in Bulgaria in the Middle Ages, that rejected most of the Old Testament and was strongly anticlerical in polity.", "S": [], "A": []}

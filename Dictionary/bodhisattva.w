@@ -1,0 +1,1 @@
+{"index": 37180, "D": "a person who has attained prajna, or Enlightenment, but who postpones Nirvana in order to help others to attain Enlightenment", "S": [], "A": []}

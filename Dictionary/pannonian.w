@@ -1,0 +1,1 @@
+{"index": 224753, "D": "an ancient country and Roman province in central Europe, S and W of the Danube, the territory of which is now occupied by Hungary, E Austria, N Croatia, NW Serbia, Slovenia, W Slovakia, and N Bosnia and Herzegovina.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 59189, "D": "characterized by, done in, or executed with secrecy or concealment, especially for purposes of subversion or deception; private or surreptitious", "S": ["covert ", "fraudulent ", "furtive ", "hidden ", "hush-hush ", "illicit ", "surreptitious ", "underground "], "A": ["aboveboard ", "authorized ", "honest ", "known ", "legal ", "open ", "public "]}

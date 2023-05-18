@@ -1,0 +1,1 @@
+{"index": 187261, "D": "toast, usually buttered, served in hot milk with sugar or with salt and pepper.", "S": [], "A": []}

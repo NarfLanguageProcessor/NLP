@@ -1,0 +1,1 @@
+{"index": 281269, "D": "an official of a sports contest who keeps record of the score. ", "S": [], "A": []}

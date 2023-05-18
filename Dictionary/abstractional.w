@@ -1,0 +1,1 @@
+{"index": 1091, "D": "an abstract or general idea or term.", "S": [], "A": []}

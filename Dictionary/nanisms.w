@@ -1,0 +1,1 @@
+{"index": 196736, "D": "the condition of being unusually or abnormally small in size or stature; dwarfism.", "S": [], "A": []}

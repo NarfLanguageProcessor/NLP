@@ -1,0 +1,1 @@
+{"index": 93952, "D": "pleasant to the ear; melodious", "S": ["agreeable ", "musical ", "pleasing to the ear ", "pleasurable ", "sweet ", "sweet-sounding "], "A": []}

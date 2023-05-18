@@ -1,0 +1,1 @@
+{"index": 22583, "D": "a condition, chiefly in children, of slow, involuntary, wormlike movements of the fingers, toes, hands, and feet, usually resulting from a brain lesion.", "S": [], "A": []}

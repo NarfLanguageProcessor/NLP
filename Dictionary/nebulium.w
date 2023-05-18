@@ -1,0 +1,1 @@
+{"index": 197688, "D": "a hypothetical element once thought to be present in emission nebulae  because of certain unidentified spectral lines, now known to be forbidden transitions of oxygen and nitrogen ions.", "S": [], "A": []}

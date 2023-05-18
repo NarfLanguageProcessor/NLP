@@ -1,0 +1,1 @@
+{"index": 248860, "D": "superior in weight, force, influence, numbers, etc.; prevailing", "S": [], "A": []}

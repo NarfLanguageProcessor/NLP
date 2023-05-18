@@ -1,0 +1,1 @@
+{"index": 246876, "D": "to settle or decide in advance", "S": ["circumstance ", "future ", "inevitability ", "intention ", "objective ", "prospect "], "A": ["concept ", "continuity ", "misfortune ", "theory ", "whole "]}

@@ -1,0 +1,1 @@
+{"index": 24461, "D": "a toxin  or poisonous chemical formed within the body and acting against it.", "S": [], "A": []}

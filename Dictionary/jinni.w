@@ -1,0 +1,1 @@
+{"index": 161330, "D": "a being or spirit in Muslim belief who could assume human or animal form and influence man by supernatural powers", "S": ["demon ", "djinni ", "jinnee ", "spirit ", "wizard "], "A": []}

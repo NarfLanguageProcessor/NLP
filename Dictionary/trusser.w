@@ -1,0 +1,1 @@
+{"index": 331656, "D": "to tie, bind, or fasten.", "S": [], "A": []}

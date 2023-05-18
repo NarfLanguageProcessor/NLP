@@ -1,0 +1,1 @@
+{"index": 66143, "D": [], "S": ["analog ", "analogue ", "correspondent ", "counterpart ", "match ", "relative "], "A": []}

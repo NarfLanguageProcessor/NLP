@@ -1,0 +1,1 @@
+{"index": 14919, "D": "to realize beforehand; foretaste or foresee", "S": [], "A": []}

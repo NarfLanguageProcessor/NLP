@@ -1,0 +1,1 @@
+{"index": 216454, "D": "to surpass in daring. ", "S": ["confront ", "defy ", "go through ", "withstand "], "A": ["surrender ", "yield ", "refuse ", "reject "]}

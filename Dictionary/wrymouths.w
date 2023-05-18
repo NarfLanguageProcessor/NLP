@@ -1,0 +1,1 @@
+{"index": 367986, "D": "any blennioid fish of the family Stichaeidae, having a large, upturned mouth,  especially Cryptacanthodes maculatus, a bottom fish of the Atlantic Ocean.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198852, "D": "lying or believed to lie beneath the earth's surface; infernal", "S": ["below ", "beneath ", "lower ", "under "], "A": []}

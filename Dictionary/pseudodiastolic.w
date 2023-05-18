@@ -1,0 +1,1 @@
+{"index": 254677, "D": "pertaining to or produced by diastole. ", "S": [], "A": []}

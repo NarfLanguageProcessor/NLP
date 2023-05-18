@@ -1,0 +1,1 @@
+{"index": 358130, "D": "(of an animal) having a gland or glands for secreting venom;  able to inflict a poisoned bite, sting, or wound", "S": ["destructive ", "malicious ", "noxious ", "rancorous ", "spiteful ", "vicious ", "virulent "], "A": ["friendly ", "gentle ", "good ", "healthy ", "helpful ", "kind ", "nice "]}

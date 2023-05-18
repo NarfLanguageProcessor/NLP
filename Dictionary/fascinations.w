@@ -1,0 +1,1 @@
+{"index": 110110, "D": "the power or action of fascinating. ", "S": ["allure ", "attraction ", "charm ", "enchantment ", "magic ", "obsession "], "A": ["repulsion ", "ugliness "]}

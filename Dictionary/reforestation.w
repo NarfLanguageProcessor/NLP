@@ -1,0 +1,1 @@
+{"index": 265229, "D": "to replant trees on (land denuded by cutting or fire).", "S": [], "A": []}

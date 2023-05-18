@@ -1,0 +1,1 @@
+{"index": 83079, "D": "to keep from proceeding; keep waiting; delay. ", "S": [], "A": []}

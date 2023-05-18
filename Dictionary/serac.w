@@ -1,0 +1,1 @@
+{"index": 285888, "D": "a large irregularity of glacial ice, as a pinnacle found in glacial crevasses and formed by melting or movement of the ice.", "S": [], "A": []}

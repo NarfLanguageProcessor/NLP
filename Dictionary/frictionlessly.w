@@ -1,0 +1,1 @@
+{"index": 118931, "D": "surface resistance to relative motion, as of a body sliding or rolling.", "S": [], "A": []}

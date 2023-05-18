@@ -1,0 +1,1 @@
+{"index": 53479, "D": "a cake having a firm custardlike texture, made with cream cheese, cottage cheese, or both, and sometimes topped with a jamlike fruit mixture.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266536, "D": "an act or instance of isolating. ", "S": [], "A": []}

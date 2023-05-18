@@ -1,0 +1,1 @@
+{"index": 206682, "D": "nonrenewable resources", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349133, "D": "cut off or abridged in some way, as a cross potent formed as a swastika.", "S": [], "A": []}

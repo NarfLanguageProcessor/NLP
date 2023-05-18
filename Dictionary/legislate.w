@@ -1,0 +1,1 @@
+{"index": 170116, "D": "to exercise the function of legislation;  make or enact laws.", "S": ["enact "], "A": ["deny ", "refuse "]}

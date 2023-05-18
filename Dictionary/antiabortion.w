@@ -1,0 +1,1 @@
+{"index": 14688, "D": "opposed to abortion  or the legalization of abortion. ", "S": [], "A": []}

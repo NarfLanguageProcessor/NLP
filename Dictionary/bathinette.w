@@ -1,0 +1,1 @@
+{"index": 28954, "D": "a folding bathtub for babies, usually of rubberized cloth.", "S": [], "A": []}

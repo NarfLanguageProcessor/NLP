@@ -1,0 +1,1 @@
+{"index": 341528, "D": "lacking moral principles; unwilling to adhere to proper rules of conduct.", "S": [], "A": []}

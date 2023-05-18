@@ -1,0 +1,1 @@
+{"index": 88002, "D": "to remove from the tomb; disinter.", "S": [], "A": []}

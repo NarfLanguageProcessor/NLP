@@ -1,0 +1,1 @@
+{"index": 80434, "D": "to make mad or insane.", "S": ["fruitcake ", "head case ", "lunatic ", "madman ", "madwoman ", "maniac ", "mental defective ", "neurotic ", "non compos ", "nutter ", "raving lunatic "], "A": []}

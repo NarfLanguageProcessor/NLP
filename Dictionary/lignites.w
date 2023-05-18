@@ -1,0 +1,1 @@
+{"index": 172112, "D": "a soft coal, usually dark brown, often having a distinct woodlike texture, and intermediate in density and carbon content between peat and bituminous coal.", "S": [], "A": []}

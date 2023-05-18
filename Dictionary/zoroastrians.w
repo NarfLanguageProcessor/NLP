@@ -1,0 +1,1 @@
+{"index": 370033, "D": "of or relating to Zoroaster  or to Zoroastrianism. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246794, "D": "to deposit beforehand or for future use", "S": [], "A": []}

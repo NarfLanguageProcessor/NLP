@@ -1,0 +1,1 @@
+{"index": 117127, "D": "without ever ending; eternally", "S": ["eternity "], "A": []}

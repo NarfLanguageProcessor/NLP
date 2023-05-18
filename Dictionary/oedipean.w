@@ -1,0 +1,1 @@
+{"index": 211446, "D": "of, relating to, or characteristic of Oedipus or the Oedipus complex.", "S": [], "A": []}

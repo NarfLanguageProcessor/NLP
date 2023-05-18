@@ -1,0 +1,1 @@
+{"index": 228049, "D": "open; gaping; expanded.", "S": [], "A": []}

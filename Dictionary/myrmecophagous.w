@@ -1,0 +1,1 @@
+{"index": 188476, "D": "(of jaws) specialized for feeding on ants", "S": [], "A": []}

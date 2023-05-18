@@ -1,0 +1,1 @@
+{"index": 147740, "D": "a convex tile, used especially in ancient Rome to cover joints in a tile roof.", "S": [], "A": []}

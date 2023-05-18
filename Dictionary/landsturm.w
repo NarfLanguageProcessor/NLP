@@ -1,0 +1,1 @@
+{"index": 168047, "D": "a general draft of people in time of war.", "S": [], "A": []}

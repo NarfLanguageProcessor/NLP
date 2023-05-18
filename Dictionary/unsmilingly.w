@@ -1,0 +1,1 @@
+{"index": 351409, "D": "to assume a facial expression indicating pleasure, favor, or amusement, but sometimes derision or scorn, characterized by an upturning of the corners of the mouth.", "S": [], "A": []}

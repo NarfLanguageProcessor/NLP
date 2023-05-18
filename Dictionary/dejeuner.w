@@ -1,0 +1,1 @@
+{"index": 79883, "D": "lunch; luncheon.", "S": [], "A": []}

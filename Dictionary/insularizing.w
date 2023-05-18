@@ -1,0 +1,1 @@
+{"index": 154061, "D": "to make into an island or represent as insular. ", "S": [], "A": []}

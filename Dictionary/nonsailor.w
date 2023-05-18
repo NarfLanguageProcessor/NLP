@@ -1,0 +1,1 @@
+{"index": 206969, "D": "a person whose occupation is sailing  or navigation; mariner.", "S": [], "A": []}

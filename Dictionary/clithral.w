@@ -1,0 +1,1 @@
+{"index": 60198, "D": "Compare hypethral. ", "S": [], "A": []}

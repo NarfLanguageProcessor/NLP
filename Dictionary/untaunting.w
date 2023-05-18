@@ -1,0 +1,1 @@
+{"index": 352720, "D": "reproaching or challenging someone in a sarcastic, insulting, or scornful way", "S": [], "A": []}

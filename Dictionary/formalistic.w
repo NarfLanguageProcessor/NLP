@@ -1,0 +1,1 @@
+{"index": 117363, "D": "strict adherence to, or observance of, prescribed or traditional forms, as in music, poetry, and art.", "S": ["abstract ", "hypothetical ", "theoretical "], "A": ["factual ", "proven ", "real "]}

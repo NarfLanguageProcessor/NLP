@@ -1,0 +1,1 @@
+{"index": 27802, "D": "a barbiturate compound, C7O3N2H12, formerly used as a hypnotic.", "S": [], "A": []}

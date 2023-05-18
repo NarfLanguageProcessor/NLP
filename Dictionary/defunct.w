@@ -1,0 +1,1 @@
+{"index": 79519, "D": "no longer in effect or use; not operating or functioning", "S": ["nonexistent ", "obsolete ", "vanished "], "A": ["alive ", "existent ", "existing ", "functioning ", "live ", "operating ", "operative ", "valid ", "working "]}

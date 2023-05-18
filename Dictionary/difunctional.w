@@ -1,0 +1,1 @@
+{"index": 85376, "D": "(of a compound) having two sites in the molecule that are highly reactive", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124424, "D": "a traditional Japanese wooden clog that is worn outdoors, with a thong that passes between the first two toes and with two transverse supports on the bottom of the sole.", "S": [], "A": []}

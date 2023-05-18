@@ -1,0 +1,1 @@
+{"index": 231991, "D": "to attribute human nature or character to (an inanimate object or an abstraction), as in speech or writing.", "S": ["act out ", "embody ", "epitomize ", "exemplify ", "illustrate ", "incarnate ", "manifest ", "symbolize ", "typify "], "A": ["obscure ", "differ ", "oppose ", "reverse "]}

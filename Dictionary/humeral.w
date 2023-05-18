@@ -1,0 +1,1 @@
+{"index": 144943, "D": "of or relating to the humerus or brachium.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148211, "D": "having or manifesting a great impact or effect", "S": ["impressive ", "poignant ", "stunning "], "A": ["uninteresting ", "unmoving ", "unemotional ", "unimpressive "]}

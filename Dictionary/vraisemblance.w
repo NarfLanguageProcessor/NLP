@@ -1,0 +1,1 @@
+{"index": 361488, "D": "verisimilitude; appearance of truth", "S": ["episode of actual experience ", "faithful rendering ", "graphic account ", "lifelikeness ", "naturalistic description ", "photographic realism ", "realism ", "realistic description ", "realistic representation ", "tranche de vie "], "A": []}

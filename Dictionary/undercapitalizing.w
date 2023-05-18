@@ -1,0 +1,1 @@
+{"index": 338943, "D": "to provide an insufficient amount of capital for (a business enterprise).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 185967, "D": "having a head with a small braincase.", "S": [], "A": []}

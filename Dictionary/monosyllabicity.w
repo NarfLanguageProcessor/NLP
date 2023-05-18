@@ -1,0 +1,1 @@
+{"index": 192647, "D": "having only one syllable, as the word no.", "S": [], "A": []}

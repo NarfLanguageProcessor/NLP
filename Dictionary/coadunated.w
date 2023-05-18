@@ -1,0 +1,1 @@
+{"index": 60892, "D": [], "S": ["accompany ", "marry ", "tie "], "A": ["abstain ", "condense ", "detach ", "disconnect ", "disjoin ", "disperse ", "dissociate ", "disunite ", "divide ", "divorce ", "let go ", "loose ", "loosen ", "open ", "part ", "release ", "remove ", "separate ", "sever ", "subtract ", "take away ", "unbuckle ", "uncouple ", "unfasten ", "unlink ", "unlock "]}

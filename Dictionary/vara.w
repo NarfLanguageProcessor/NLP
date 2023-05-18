@@ -1,0 +1,1 @@
+{"index": 357138, "D": "a unit of length in Spanish- and Portuguese-speaking countries, varying from about 32 inches (81 centimeters) to about 43 inches (109 centimeters).", "S": [], "A": []}

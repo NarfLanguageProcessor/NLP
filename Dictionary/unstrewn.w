@@ -1,0 +1,1 @@
+{"index": 352164, "D": "covered or overspread with something scattered or sprinkled (used in combination)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 245889, "D": "the act of transmitting speech, music, visual images, etc., as by radio or television.", "S": [], "A": []}

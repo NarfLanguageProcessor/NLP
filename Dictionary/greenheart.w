@@ -1,0 +1,1 @@
+{"index": 129550, "D": "a South American tree, Ocotea (or Nectandra) rodiei, of the laurel family, yielding a hard, durable wood often used for wharves and bridges and in shipbuilding.", "S": [], "A": []}

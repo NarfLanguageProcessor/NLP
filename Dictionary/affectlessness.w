@@ -1,0 +1,1 @@
+{"index": 5326, "D": "lacking feeling or emotion; indifferent to the suffering of others", "S": [], "A": []}

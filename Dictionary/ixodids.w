@@ -1,0 +1,1 @@
+{"index": 159775, "D": "any of numerous ticks of the family Ixodidae, comprising the hard ticks.", "S": [], "A": []}

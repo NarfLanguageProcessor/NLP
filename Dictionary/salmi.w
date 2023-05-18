@@ -1,0 +1,1 @@
+{"index": 277143, "D": "a ragout of partially cooked game, as pheasant or woodcock, stewed in wine and butter.", "S": [], "A": []}

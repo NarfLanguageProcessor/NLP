@@ -1,0 +1,1 @@
+{"index": 348276, "D": "of the nature of or expressing a precept; mandatory.", "S": [], "A": []}

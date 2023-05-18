@@ -1,0 +1,1 @@
+{"index": 363763, "D": "the end  of a week,  especially the period of time between Friday evening and Monday morning", "S": ["appointment ", "call ", "evening ", "holiday ", "interview ", "sojourn ", "stay ", "stop ", "stopover ", "talk ", "tarriance ", "vacation ", "visitation "], "A": []}

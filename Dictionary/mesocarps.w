@@ -1,0 +1,1 @@
+{"index": 184186, "D": "the middle layer of pericarp, as the fleshy part of certain fruits.", "S": [], "A": []}

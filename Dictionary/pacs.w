@@ -1,0 +1,1 @@
+{"index": 222785, "D": "pack1 (def. 1). ", "S": ["PAC ", "political action committee ", "pressure group ", "single-issue group ", "special interests "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316285, "D": "(especially in Spain) a snack or appetizer, typically served with wine or beer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208688, "D": "a plunge of an aircraft with the forward part pointing downward.", "S": ["descent ", "dive ", "duck ", "dunk ", "fall ", "immersion ", "investment ", "jump ", "pitch ", "spill ", "spree ", "submergence ", "submersion ", "swoop ", "tumble ", "venture "], "A": ["ascent ", "rise "]}

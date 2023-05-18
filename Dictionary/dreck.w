@@ -1,0 +1,1 @@
+{"index": 92909, "D": "anything regarded as worthless or of low quality; junk", "S": ["excrement ", "ground ", "muck ", "mud ", "soil ", "stain "], "A": ["cleanliness "]}

@@ -1,0 +1,1 @@
+{"index": 348386, "D": [], "S": ["detached ", "disinterested ", "dispassionate ", "equitable ", "evenhanded ", "nonpartisan ", "open-minded ", "unbiased "], "A": ["biased ", "interested ", "involved ", "partial ", "passionate ", "prejudiced ", "subjective ", "excited ", "friendly ", "hot ", "warm "]}

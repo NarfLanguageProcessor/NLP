@@ -1,0 +1,1 @@
+{"index": 203510, "D": "to deprive of force or strength; destroy the vigor of; weaken. ", "S": [], "A": []}

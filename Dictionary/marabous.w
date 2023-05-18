@@ -1,0 +1,1 @@
+{"index": 179767, "D": "any of three large storks of the genus Leptoptilus, of Africa or the East Indies, having soft, downy feathers under the wings and tail that are used for making a furlike trimming for women's hats and garments.", "S": [], "A": []}

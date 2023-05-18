@@ -1,0 +1,1 @@
+{"index": 321042, "D": "divination or prophecy by an oracle or by people directly inspired by a god", "S": [], "A": []}

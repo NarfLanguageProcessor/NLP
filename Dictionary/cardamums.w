@@ -1,0 +1,1 @@
+{"index": 47697, "D": "the aromatic seed capsules of a tropical Asian plant, Elettaria cardamomum, of the ginger family, used as a spice or condiment and in medicine.", "S": [], "A": []}

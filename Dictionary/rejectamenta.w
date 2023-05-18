@@ -1,0 +1,1 @@
+{"index": 266584, "D": "things or matter rejected as useless or worthless.", "S": ["debris ", "rubbish ", "trash ", "waste "], "A": ["possessions ", "sense ", "cleanliness "]}

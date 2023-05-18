@@ -1,0 +1,1 @@
+{"index": 319327, "D": "to change repeatedly one's attitude or opinions with respect to a cause, subject, etc.; equivocate. ", "S": [], "A": []}

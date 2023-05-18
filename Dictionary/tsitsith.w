@@ -1,0 +1,1 @@
+{"index": 331788, "D": "the tassels or fringes of thread attached to the four corners of the tallith", "S": [], "A": []}

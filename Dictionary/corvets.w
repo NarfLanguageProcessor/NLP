@@ -1,0 +1,1 @@
+{"index": 69909, "D": "a warship of the old sailing class, having a flush deck and usually one tier of guns.", "S": [], "A": []}

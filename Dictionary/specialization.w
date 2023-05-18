@@ -1,0 +1,1 @@
+{"index": 298753, "D": "the act of specializing,  or pursuing a particular line of study or work", "S": ["adeptness ", "adroitness ", "art ", "craft ", "expertise ", "facility ", "gift ", "knack ", "know-how ", "mastery ", "proficiency ", "savvy ", "skill ", "skillfulness "], "A": ["ignorance ", "inability ", "lack ", "want "]}

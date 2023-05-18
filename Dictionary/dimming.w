@@ -1,0 +1,1 @@
+{"index": 85949, "D": "not bright; obscure from lack of light or emitted light", "S": ["concealment ", "decline ", "diminution ", "extinction ", "obliteration ", "occultation ", "penumbra ", "shading ", "shroud ", "veil "], "A": ["increase "]}

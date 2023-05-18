@@ -1,0 +1,1 @@
+{"index": 322870, "D": "an informal, simplified spelling of through. ", "S": [], "A": []}

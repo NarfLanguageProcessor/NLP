@@ -1,0 +1,1 @@
+{"index": 161843, "D": "any of a race of giants frequently in conflict with the gods.", "S": [], "A": []}

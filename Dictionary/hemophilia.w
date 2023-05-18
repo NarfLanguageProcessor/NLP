@@ -1,0 +1,1 @@
+{"index": 136441, "D": "any of several X-linked genetic disorders, symptomatic chiefly in males, in which excessive bleeding occurs owing to the absence or abnormality of a clotting factor in the blood.", "S": [], "A": []}

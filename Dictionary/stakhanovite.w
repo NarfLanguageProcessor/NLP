@@ -1,0 +1,1 @@
+{"index": 302471, "D": "a worker in the Soviet Union who regularly surpassed production quotas and was specially honored and rewarded.", "S": [], "A": []}

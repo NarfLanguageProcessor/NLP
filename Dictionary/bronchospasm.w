@@ -1,0 +1,1 @@
+{"index": 41418, "D": "spasmodic contraction of the muscular lining of the bronchi, as in asthma, causing difficulty in breathing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 368064, "D": "to twist the body about or squirm, as in pain, violent effort, uncontrolled passion, etc.", "S": [], "A": []}

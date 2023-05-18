@@ -1,0 +1,1 @@
+{"index": 330255, "D": "a trial or test to ascertain fitness for some purpose.", "S": ["audition ", "examination "], "A": []}

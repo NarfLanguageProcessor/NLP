@@ -1,0 +1,1 @@
+{"index": 355225, "D": "an act or instance of welling up", "S": [], "A": []}

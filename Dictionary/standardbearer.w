@@ -1,0 +1,1 @@
+{"index": 302655, "D": "an officer or soldier of an army or military unit who bears a standard.", "S": ["backer ", "crusader ", "enthusiast ", "leader ", "upholder "], "A": []}

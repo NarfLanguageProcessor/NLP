@@ -1,0 +1,1 @@
+{"index": 174031, "D": "the solution, containing alkaline salts, obtained by leaching wood ashes with water; lye.", "S": [], "A": []}

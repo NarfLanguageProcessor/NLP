@@ -1,0 +1,1 @@
+{"index": 347757, "D": "vertical; straight up and down; upright.", "S": [], "A": []}

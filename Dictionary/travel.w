@@ -1,0 +1,1 @@
+{"index": 328581, "D": "to go from one place to another, as by car, train, plane, or ship; take a trip; journey", "S": ["driving ", "excursion ", "flying ", "movement ", "navigation ", "ride ", "sailing ", "sightseeing ", "tour ", "transit ", "trek ", "trip "], "A": []}

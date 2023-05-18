@@ -1,0 +1,1 @@
+{"index": 341173, "D": "to edit or change (a text).", "S": [], "A": []}

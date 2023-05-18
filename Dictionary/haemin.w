@@ -1,0 +1,1 @@
+{"index": 132057, "D": "haematin chloride; insoluble reddish-brown crystals formed by the action of hydrochloric acid on haematin in a test for the presence of blood", "S": [], "A": []}

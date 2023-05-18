@@ -1,0 +1,1 @@
+{"index": 237000, "D": "either of two parasitic or saprophytic plants of the genus Monotropa, especially the tawny or reddish M. hypopithys(false beechdrops ), of eastern North America.", "S": [], "A": []}

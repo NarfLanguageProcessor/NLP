@@ -1,0 +1,1 @@
+{"index": 1511, "D": "reached, contacted, entered, or visited", "S": ["penetrate ", "permeate ", "pervade "], "A": []}

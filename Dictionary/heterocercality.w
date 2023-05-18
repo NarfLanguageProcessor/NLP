@@ -1,0 +1,1 @@
+{"index": 137488, "D": "having an unequally divided tail, characteristic of sharks, rays, and skates.", "S": [], "A": []}

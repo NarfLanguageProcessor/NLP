@@ -1,0 +1,1 @@
+{"index": 42913, "D": "having molar teeth with crowns in the form of rounded or conical cusps.", "S": [], "A": []}

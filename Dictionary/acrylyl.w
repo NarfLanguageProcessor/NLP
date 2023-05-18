@@ -1,0 +1,1 @@
+{"index": 2839, "D": "containing the acrylyl group. ", "S": [], "A": []}

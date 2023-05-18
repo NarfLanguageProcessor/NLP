@@ -1,0 +1,1 @@
+{"index": 43124, "D": "of or relating to Burgundy  or its people.", "S": [], "A": []}

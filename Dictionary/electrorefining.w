@@ -1,0 +1,1 @@
+{"index": 97247, "D": "the process for refining a metal in an electrolytic cell, in which the impure metal is used as the anode and the refined metal is deposited on the cathode.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311005, "D": "adherence to or persistence in using a strictly correct term, holding to a precise practice, etc., as a rejection of an erroneous but more common form (opposed to mumpsimus).", "S": [], "A": []}

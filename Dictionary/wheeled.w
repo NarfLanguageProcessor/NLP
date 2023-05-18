@@ -1,0 +1,1 @@
+{"index": 364525, "D": "equipped with or having wheels  (often used in combination)", "S": ["pivot ", "spin ", "trundle ", "twirl ", "whirl "], "A": []}

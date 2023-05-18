@@ -1,0 +1,1 @@
+{"index": 37188, "D": "a usually fitted vest or wide, lace-up girdle worn by women over a dress or blouse, especially a cross-laced, sleeveless outer garment covering the waist and bust, common in peasant dress.", "S": ["pullover ", "turtleneck "], "A": []}

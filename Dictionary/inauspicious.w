@@ -1,0 +1,1 @@
+{"index": 149570, "D": "not auspicious;  boding ill; ill-omened; unfavorable.", "S": ["unfortunate "], "A": ["auspicious ", "favorable ", "fortunate ", "lucky ", "promising "]}

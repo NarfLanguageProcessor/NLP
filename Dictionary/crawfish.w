@@ -1,0 +1,1 @@
+{"index": 72307, "D": "crayfish. ", "S": ["clam ", "conch ", "crustacean ", "lobster ", "mollusk ", "mussel ", "oyster ", "prawn ", "scallop ", "shrimp ", "snail "], "A": []}

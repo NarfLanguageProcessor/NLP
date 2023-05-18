@@ -1,0 +1,1 @@
+{"index": 353982, "D": "to carry lightly and smoothly through the air or over water", "S": [], "A": []}

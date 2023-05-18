@@ -1,0 +1,1 @@
+{"index": 308155, "D": "an uncontrollable outburst of emotion or fear, often characterized by irrationality, laughter, weeping, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339243, "D": "a person employed, as on an estate or game  preserve, to prevent poaching and provide a natural environment conducive to the propagation of game,  as by thinning brush, scattering food after a snowstorm, and the like.", "S": [], "A": []}

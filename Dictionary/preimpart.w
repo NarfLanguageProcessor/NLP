@@ -1,0 +1,1 @@
+{"index": 247888, "D": "to make known; tell; relate; disclose", "S": [], "A": []}

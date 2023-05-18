@@ -1,0 +1,1 @@
+{"index": 208224, "D": "habitually speaking the truth; truthful; honest", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226983, "D": "an epithet of Athena, meaning \u201cvirgin.\u201d", "S": [], "A": []}

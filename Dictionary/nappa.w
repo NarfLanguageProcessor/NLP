@@ -1,0 +1,1 @@
+{"index": 196895, "D": "a very soft glove leather made from the skin of a sheep, kid, or goat.", "S": [], "A": []}

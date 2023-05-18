@@ -1,0 +1,1 @@
+{"index": 71188, "D": "an opposing or contrasting opinion.", "S": [], "A": []}

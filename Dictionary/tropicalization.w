@@ -1,0 +1,1 @@
+{"index": 331228, "D": "to make tropical,  as in character or appearance.", "S": [], "A": []}

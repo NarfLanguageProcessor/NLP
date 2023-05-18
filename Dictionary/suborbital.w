@@ -1,0 +1,1 @@
+{"index": 308698, "D": "(of a spacecraft) not in orbit; not achieving an altitude and velocity resulting in a ballistic trajectory circling the earth at least once.", "S": [], "A": []}

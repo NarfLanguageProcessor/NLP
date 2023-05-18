@@ -1,0 +1,1 @@
+{"index": 66864, "D": "any of various ecclesiastical councils or tribunals.", "S": [], "A": []}

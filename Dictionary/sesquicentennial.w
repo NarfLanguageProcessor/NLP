@@ -1,0 +1,1 @@
+{"index": 286538, "D": "pertaining to or marking the completion of a period of 150 years.", "S": [], "A": []}

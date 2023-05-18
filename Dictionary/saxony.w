@@ -1,0 +1,1 @@
+{"index": 279242, "D": "a fine, three-ply woolen yarn.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38373, "D": "a person who dwells on or near the border  of a country, region, etc.", "S": [], "A": []}

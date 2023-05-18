@@ -1,0 +1,1 @@
+{"index": 134910, "D": "a rapid beat or pulsation of the heart. ", "S": ["sweetheart "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19650, "D": "an oil jar, characterized by a spherical body, flat-rimmed mouth, and often a single handle extending from the lip to the shoulder of the jar, used chiefly for fragrant ointments.", "S": [], "A": []}

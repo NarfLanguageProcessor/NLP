@@ -1,0 +1,1 @@
+{"index": 79389, "D": "the act or state of deflecting  or the state of being deflected. ", "S": [], "A": []}

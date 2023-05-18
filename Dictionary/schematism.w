@@ -1,0 +1,1 @@
+{"index": 280093, "D": "the particular form or disposition of a thing.", "S": [], "A": []}

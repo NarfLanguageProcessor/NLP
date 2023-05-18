@@ -1,0 +1,1 @@
+{"index": 95363, "D": "a scientist or researcher whose field of study involves the relationships and interactions between organisms and their environment", "S": ["naturalist ", "preservationist "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207787, "D": "not relating to, characteristic of, or skilled in a particular field of activity and its terminology", "S": [], "A": []}

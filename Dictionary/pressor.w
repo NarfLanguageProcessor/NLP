@@ -1,0 +1,1 @@
+{"index": 249593, "D": "causing an increase in blood pressure; causing vasoconstriction.", "S": [], "A": []}

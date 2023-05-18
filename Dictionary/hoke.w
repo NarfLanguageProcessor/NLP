@@ -1,0 +1,1 @@
+{"index": 142358, "D": "to alter or manipulate so as to give a deceptively or superficially improved quality or value (usually followed by up)", "S": ["imitate ", "lampoon ", "parody ", "satirize "], "A": ["exalt ", "flatter ", "praise ", "tell the truth "]}

@@ -1,0 +1,1 @@
+{"index": 213259, "D": "Compare inoperable (def. 2). ", "S": ["achievable ", "conceivable ", "doable ", "feasible ", "obtainable ", "practicable ", "realizable ", "serviceable ", "viable ", "workable "], "A": []}

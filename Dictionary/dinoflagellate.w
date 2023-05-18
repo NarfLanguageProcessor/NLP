@@ -1,0 +1,1 @@
+{"index": 86187, "D": "any of numerous chiefly marine plankton of the phylum Pyrrophyta (or, in some classification schemes, the order Dinoflagellata), usually having two flagella, one in a groove around the body and the other extending from its center.", "S": [], "A": []}

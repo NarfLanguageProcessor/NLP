@@ -1,0 +1,1 @@
+{"index": 247251, "D": "before or in preference to other buyers, claimants, candidates, etc.", "S": [], "A": []}

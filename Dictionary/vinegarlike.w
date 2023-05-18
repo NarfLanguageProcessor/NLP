@@ -1,0 +1,1 @@
+{"index": 359887, "D": "a sour liquid consisting of dilute and impure acetic acid, obtained by acetous fermentation from wine, cider, beer, ale, or the like", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234995, "D": "living or thriving only in the presence of light.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 190967, "D": "to wrap the head of, as in a hood.", "S": [], "A": []}

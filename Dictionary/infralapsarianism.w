@@ -1,0 +1,1 @@
+{"index": 152280, "D": "the doctrine, held by Augustinians and by many Calvinists, that God planned the Creation, permitted the Fall, elected a chosen number, planned their redemption, and suffered the remainder to be eternally punished (opposed to supralapsarianism).", "S": [], "A": []}

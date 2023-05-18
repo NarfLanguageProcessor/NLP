@@ -1,0 +1,1 @@
+{"index": 84931, "D": "a synthetic coumarin  derivative, C19H12O6, used chiefly to prevent blood coagulation and in the treatment of arterial thrombosis.", "S": [], "A": []}

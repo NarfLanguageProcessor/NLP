@@ -1,0 +1,1 @@
+{"index": 107108, "D": "to emit breath or vapor; breathe out.", "S": ["breathe ", "emit ", "give off ", "let out "], "A": ["hold ", "keep ", "take in "]}

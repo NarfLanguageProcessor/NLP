@@ -1,0 +1,1 @@
+{"index": 35558, "D": "a disease of red and white clover, caused by an unidentified fungus and characterized by brown or blackish lesions on the plant.", "S": [], "A": []}

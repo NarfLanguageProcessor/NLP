@@ -1,0 +1,1 @@
+{"index": 127695, "D": "a member of an aboriginal people of Dravidian descent, in central India and the Deccan.", "S": [], "A": []}

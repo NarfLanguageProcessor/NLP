@@ -1,0 +1,1 @@
+{"index": 257205, "D": "throwaway (def. 5). ", "S": ["extend "], "A": ["abbreviate ", "shorten "]}

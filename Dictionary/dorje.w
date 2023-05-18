@@ -1,0 +1,1 @@
+{"index": 91683, "D": "a small trident symbolizing power.", "S": [], "A": []}

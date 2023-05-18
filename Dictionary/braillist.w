@@ -1,0 +1,1 @@
+{"index": 39723, "D": "an expert at writing Braille. ", "S": [], "A": []}

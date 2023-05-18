@@ -1,0 +1,1 @@
+{"index": 339379, "D": "a state or government having a king  or queen as its head.", "S": [], "A": []}

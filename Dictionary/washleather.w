@@ -1,0 +1,1 @@
+{"index": 362917, "D": "a soft leather, usually sheepskin, dressed in imitation of chamois.", "S": [], "A": []}

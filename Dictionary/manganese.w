@@ -1,0 +1,1 @@
+{"index": 179132, "D": "a hard, brittle, grayish-white, metallic element, an oxide of which, MnO2(manganese dioxide ), is a valuable oxidizing agent", "S": [], "A": []}

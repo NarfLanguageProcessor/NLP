@@ -1,0 +1,1 @@
+{"index": 26497, "D": "a person who gives bail or acts as surety.", "S": ["bondswoman "], "A": []}

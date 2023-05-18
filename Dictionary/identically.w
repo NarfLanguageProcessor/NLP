@@ -1,0 +1,1 @@
+{"index": 146363, "D": "similar or alike in every way", "S": ["likewise "], "A": ["differently ", "dissimilarly ", "unequally ", "unevenly "]}

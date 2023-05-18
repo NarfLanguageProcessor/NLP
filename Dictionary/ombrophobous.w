@@ -1,0 +1,1 @@
+{"index": 212394, "D": "(of plants) not able to tolerate wet conditions", "S": [], "A": []}

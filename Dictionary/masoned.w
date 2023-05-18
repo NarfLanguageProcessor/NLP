@@ -1,0 +1,1 @@
+{"index": 180721, "D": "a person whose trade is building with units of various natural or artificial mineral products, as stones, bricks, cinder blocks, or tiles, usually with the use of mortar or cement as a bonding agent.", "S": [], "A": []}

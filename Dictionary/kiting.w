@@ -1,0 +1,1 @@
+{"index": 165213, "D": "kiteflying. ", "S": ["beat it ", "begone ", "decamp ", "depart ", "go ", "hightail ", "kite ", "make oneself scarce ", "remove oneself ", "retire ", "scram ", "skedaddle ", "split ", "take a hike ", "take off ", "vamoose ", "withdraw "], "A": ["arrive ", "fill ", "fill up ", "put ", "rush in "]}

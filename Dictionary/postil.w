@@ -1,0 +1,1 @@
+{"index": 244209, "D": "a commentary or marginal note, as in a Bible", "S": [], "A": []}

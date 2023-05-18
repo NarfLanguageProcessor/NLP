@@ -1,0 +1,1 @@
+{"index": 343132, "D": "to explain away; extenuate; gloss over (usually followed by over).", "S": [], "A": []}

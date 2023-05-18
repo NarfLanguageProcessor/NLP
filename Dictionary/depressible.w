@@ -1,0 +1,1 @@
+{"index": 81856, "D": "to make sad or gloomy; lower in spirits; deject; dispirit.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141819, "D": "a region in a plant in which tissues differentiate.", "S": [], "A": []}

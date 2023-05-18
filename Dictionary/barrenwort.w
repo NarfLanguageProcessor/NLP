@@ -1,0 +1,1 @@
+{"index": 28341, "D": "a herbaceous European berberidaceous plant, Epimedium alpinum, having red-and-yellow star-shaped flowers", "S": [], "A": []}

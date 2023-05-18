@@ -1,0 +1,1 @@
+{"index": 243146, "D": "an establishment or room  for the playing of pool  or billiards.", "S": ["family room ", "game room ", "playroom ", "rec room "], "A": []}

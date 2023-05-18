@@ -1,0 +1,1 @@
+{"index": 324405, "D": "the extreme top  or summit.", "S": ["apical ", "highest ", "supreme ", "uppermost "], "A": ["bottom ", "bottommost ", "lowest "]}

@@ -1,0 +1,1 @@
+{"index": 179507, "D": "a combination of -man  and -ship,  used as an independent suffix with the meaning \u201cskill in a particular activity, especially of a competitive nature\u201d", "S": [], "A": []}

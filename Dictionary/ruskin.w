@@ -1,0 +1,1 @@
+{"index": 275802, "D": "English author, art critic, and social reformer.", "S": [], "A": []}

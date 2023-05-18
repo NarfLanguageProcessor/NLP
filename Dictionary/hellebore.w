@@ -1,0 +1,1 @@
+{"index": 135668, "D": "any of numerous plants of the genus Helleborus in the buttercup family,  several of which, as the Christmas rose,  are cultivated for their foliage and clusters of flowers as well as their tolerance of shade", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134738, "D": "a cliff or steep slope rising at one end of a glaciated valley.", "S": [], "A": []}

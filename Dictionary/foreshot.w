@@ -1,0 +1,1 @@
+{"index": 116970, "D": "the weak spirits that come over in the initial phase in distilling whiskey.", "S": [], "A": []}

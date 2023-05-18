@@ -1,0 +1,1 @@
+{"index": 318372, "D": "having force or effect; effective; striking", "S": ["adequately ", "completely ", "definitely ", "dramatically ", "energetically ", "finally ", "forcefully ", "productively "], "A": ["doubtfully ", "dubiously "]}

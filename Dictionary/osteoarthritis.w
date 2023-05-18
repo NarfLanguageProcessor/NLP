@@ -1,0 +1,1 @@
+{"index": 215562, "D": "the most common form of arthritis,  usually occurring after middle age, marked by chronic breakdown of cartilage in the joints leading to pain, stiffness, and swelling.", "S": [], "A": []}

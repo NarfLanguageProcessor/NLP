@@ -1,0 +1,1 @@
+{"index": 190179, "D": "someone who instructs others before initiation into religious mysteries or before participation in the sacraments.", "S": [], "A": []}

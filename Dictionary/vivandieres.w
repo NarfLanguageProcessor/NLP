@@ -1,0 +1,1 @@
+{"index": 360717, "D": "a woman who formerly followed an army or maintained a store on an army post to sell provisions to the soldiers.", "S": [], "A": []}

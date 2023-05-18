@@ -1,0 +1,1 @@
+{"index": 235797, "D": "a woman who is a rogue or vagabond.", "S": [], "A": []}

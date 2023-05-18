@@ -1,0 +1,1 @@
+{"index": 236253, "D": "loud or shrill, as the quality of a voice.", "S": ["biting ", "blaring ", "earsplitting ", "fierce ", "high-pitched ", "painful ", "penetrating ", "shrill "], "A": ["calm ", "kind ", "pleasant "]}

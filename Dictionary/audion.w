@@ -1,0 +1,1 @@
+{"index": 23306, "D": "an early type of triode.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162166, "D": "a large container usually made of earthenware, metal, or glass, commonly having a handle, a narrow neck, and sometimes a cap or cork.", "S": ["beaker ", "bottle ", "bucket ", "carafe ", "decanter ", "flask ", "jar ", "pot ", "tub ", "urn ", "vase "], "A": []}

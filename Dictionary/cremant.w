@@ -1,0 +1,1 @@
+{"index": 72582, "D": "(of a wine) moderately sparkling", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89010, "D": "inability to speak or understand words because of a brain lesion.", "S": [], "A": []}

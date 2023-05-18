@@ -1,0 +1,1 @@
+{"index": 180575, "D": "something that causes wonder, admiration, or astonishment; a wonderful thing; a wonder or prodigy", "S": ["gape ", "stare "], "A": ["expect "]}

@@ -1,0 +1,1 @@
+{"index": 171660, "D": "a leathery hardening of the skin, usually caused by chronic irritation.", "S": [], "A": []}

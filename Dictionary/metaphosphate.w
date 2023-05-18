@@ -1,0 +1,1 @@
+{"index": 184907, "D": "a salt or ester of metaphosphoric acid.", "S": [], "A": []}

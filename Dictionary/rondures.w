@@ -1,0 +1,1 @@
+{"index": 274156, "D": "a circle or sphere.", "S": ["arc ", "arch ", "contour ", "loop ", "trajectory "], "A": ["line "]}

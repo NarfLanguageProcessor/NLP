@@ -1,0 +1,1 @@
+{"index": 158175, "D": "incapable of being reclaimed  or rehabilitated", "S": [], "A": []}

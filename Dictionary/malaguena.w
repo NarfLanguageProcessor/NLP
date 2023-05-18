@@ -1,0 +1,1 @@
+{"index": 178225, "D": "a Spanish dance similar to the fandango, originating in M\u00e1laga.", "S": [], "A": []}

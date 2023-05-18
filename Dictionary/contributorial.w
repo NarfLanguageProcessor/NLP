@@ -1,0 +1,1 @@
+{"index": 67775, "D": "a person who contributes  money, assistance, etc.", "S": [], "A": []}

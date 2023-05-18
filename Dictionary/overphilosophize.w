@@ -1,0 +1,1 @@
+{"index": 220493, "D": "to speculate or theorize, usually in a superficial or imprecise manner.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 131943, "D": [], "S": ["nonexistent ", "obsolete ", "vanished "], "A": ["alive ", "existent ", "existing ", "functioning ", "live ", "operating ", "operative ", "valid ", "working "]}

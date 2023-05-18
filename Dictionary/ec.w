@@ -1,0 +1,1 @@
+{"index": 95071, "D": "European Community.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266378, "D": "an inspiring or animating action or influence", "S": [], "A": []}

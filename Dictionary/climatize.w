@@ -1,0 +1,1 @@
+{"index": 59972, "D": "to acclimate to a new environment.", "S": ["accustom "], "A": ["soften "]}

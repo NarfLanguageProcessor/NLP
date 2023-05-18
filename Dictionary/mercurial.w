@@ -1,0 +1,1 @@
+{"index": 183703, "D": "changeable; volatile; fickle; flighty; erratic", "S": ["changeable ", "effervescent ", "erratic ", "impulsive ", "resilient ", "unpredictable ", "volatile "], "A": ["certain ", "constant ", "predictable ", "reliable ", "stable ", "steady ", "sure ", "unchanging "]}

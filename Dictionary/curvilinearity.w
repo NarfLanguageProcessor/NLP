@@ -1,0 +1,1 @@
+{"index": 75588, "D": "consisting of or bounded by curved lines", "S": [], "A": []}

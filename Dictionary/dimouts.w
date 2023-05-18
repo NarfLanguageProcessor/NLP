@@ -1,0 +1,1 @@
+{"index": 85967, "D": [], "S": ["blackout ", "brownout ", "disruption ", "interruption "], "A": []}

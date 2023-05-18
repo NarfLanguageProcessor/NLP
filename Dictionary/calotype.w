@@ -1,0 +1,1 @@
+{"index": 45451, "D": "an early negative-positive photographic process, patented by William Henry Talbot in 1841, in which a paper negative is produced and then used to make a positive contact print in sunlight.", "S": [], "A": []}

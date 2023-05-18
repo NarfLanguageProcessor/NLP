@@ -1,0 +1,1 @@
+{"index": 308121, "D": "a halide  containing a relatively small proportion of the halogen, as mercurous chloride.", "S": [], "A": []}

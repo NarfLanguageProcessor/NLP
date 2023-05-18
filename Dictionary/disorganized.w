@@ -1,0 +1,1 @@
+{"index": 88819, "D": "functioning without adequate order, systemization, or planning; uncoordinated", "S": ["chaotic ", "confused ", "haphazard ", "muddled "], "A": ["methodical ", "ordered ", "organized ", "systematic "]}

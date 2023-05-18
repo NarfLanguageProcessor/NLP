@@ -1,0 +1,1 @@
+{"index": 95171, "D": "a ballet movement in which the dancer jumps from the fifth position and lands on the toes or the balls of the feet in the second position.", "S": [], "A": []}

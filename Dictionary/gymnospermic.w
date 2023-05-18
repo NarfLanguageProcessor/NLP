@@ -1,0 +1,1 @@
+{"index": 125093, "D": "of or relating to a gymnosperm;  having exposed or naked seeds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227486, "D": "the practice of herding as the primary economic activity of a society.", "S": [], "A": []}

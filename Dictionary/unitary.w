@@ -1,0 +1,1 @@
+{"index": 345049, "D": "of or relating to a unit  or units. ", "S": ["entire ", "exhaustive ", "full ", "outright ", "thorough "], "A": ["incomplete "]}

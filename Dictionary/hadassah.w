@@ -1,0 +1,1 @@
+{"index": 131919, "D": "a benevolent organization of Jewish women founded in New York City in 1912 by Henrietta Szold and concerned chiefly with bettering medical and educational facilities in Israel, forwarding Zionist activities in the U.S., and promoting world peace.", "S": [], "A": []}

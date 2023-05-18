@@ -1,0 +1,1 @@
+{"index": 350726, "D": "not self-conscious;  without affectation or pretense", "S": [], "A": []}

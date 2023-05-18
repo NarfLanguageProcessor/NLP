@@ -1,0 +1,1 @@
+{"index": 37071, "D": "a North American wildcat, Lynx rufus, ranging from southern Canada to central Mexico, having a brownish coat with black spots.", "S": ["kitten ", "kitty ", "tabby "], "A": []}

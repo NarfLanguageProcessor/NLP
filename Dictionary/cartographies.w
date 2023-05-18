@@ -1,0 +1,1 @@
+{"index": 48650, "D": "the production of maps, including construction of projections, design, compilation, drafting, and reproduction.", "S": ["earth science ", "geology ", "geopolitics ", "topography "], "A": []}

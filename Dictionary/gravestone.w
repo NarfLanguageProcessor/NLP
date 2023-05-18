@@ -1,0 +1,1 @@
+{"index": 129349, "D": "a stone  marking a grave,  usually giving the name, date of death, etc., of the person buried there.", "S": ["flag ", "indicator ", "pole ", "stone ", "tombstone "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253228, "D": "to exhibit pride or haughtiness; put on airs.", "S": [], "A": []}

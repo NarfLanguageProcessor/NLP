@@ -1,0 +1,1 @@
+{"index": 114536, "D": "an area having a large number of tsetse flies. ", "S": [], "A": []}

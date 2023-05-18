@@ -1,0 +1,1 @@
+{"index": 19262, "D": "a unit of capacity used for dry measure in Egypt and neighboring countries, officially equivalent in Egypt to 5.62 U.S. bushels, but varying greatly in different localities.", "S": [], "A": []}

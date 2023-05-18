@@ -1,0 +1,1 @@
+{"index": 66731, "D": "to permit, approve, or agree; comply or yield (often followed by to or an infinitive)", "S": ["acceptable ", "allowable ", "allowed ", "approved ", "authorized ", "licensed ", "sanctioned "], "A": ["denied ", "prohibited ", "refused ", "unacceptable "]}

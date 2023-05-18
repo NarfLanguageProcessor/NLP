@@ -1,0 +1,1 @@
+{"index": 163965, "D": "any horny growth of keratin  on the skin, as a wart.", "S": [], "A": []}

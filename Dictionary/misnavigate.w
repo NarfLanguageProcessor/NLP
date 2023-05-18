@@ -1,0 +1,1 @@
+{"index": 189660, "D": "to move on, over, or through (water, air, or land) in a ship or aircraft", "S": [], "A": []}

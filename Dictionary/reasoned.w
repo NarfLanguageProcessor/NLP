@@ -1,0 +1,1 @@
+{"index": 262027, "D": "based on reason", "S": ["comprehensible ", "consistent ", "intelligible ", "logical ", "lucid ", "meaningful ", "orderly ", "rational ", "systematic "], "A": ["confused ", "disorderly ", "irrational ", "obscure ", "unintelligible ", "unmethodical ", "unreasonable ", "unsystematic "]}

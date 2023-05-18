@@ -1,0 +1,1 @@
+{"index": 188018, "D": "a church actually or originally connected with a monastic establishment.", "S": ["basilica ", "chancel ", "sanctuary ", "temple "], "A": []}

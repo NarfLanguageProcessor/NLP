@@ -1,0 +1,1 @@
+{"index": 129456, "D": "having or showing a generous heart; magnanimous.", "S": ["altruism ", "benevolence ", "bounteousness ", "bountifulness ", "charitableness ", "charity ", "generousness ", "great-heartedness ", "liberality ", "magnanimity ", "magnanimousness ", "munificence ", "openhandedness ", "philanthropy ", "unselfishness "], "A": []}

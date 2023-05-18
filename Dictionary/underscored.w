@@ -1,0 +1,1 @@
+{"index": 339736, "D": "to mark with a line or lines underneath; underline, as for emphasis.", "S": ["accentuate ", "highlight ", "indicate ", "mark ", "stress "], "A": []}

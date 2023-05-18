@@ -1,0 +1,1 @@
+{"index": 101943, "D": "a variant of aeolipile. ", "S": [], "A": []}

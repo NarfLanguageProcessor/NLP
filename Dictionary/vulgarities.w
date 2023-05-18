@@ -1,0 +1,1 @@
+{"index": 361564, "D": "the state or quality of being vulgar", "S": ["obscenity ", "profanity "], "A": ["decency ", "modesty ", "politeness "]}

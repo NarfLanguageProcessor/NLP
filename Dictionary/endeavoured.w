@@ -1,0 +1,1 @@
+{"index": 99631, "D": "to exert oneself to do or effect something; make an effort; strive", "S": ["aim ", "effort ", "enterprise ", "struggle ", "undertaking ", "venture "], "A": ["idleness ", "inactivity ", "passivity ", "entertainment ", "fun ", "pastime ", "peace "]}

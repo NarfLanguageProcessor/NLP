@@ -1,0 +1,1 @@
+{"index": 325397, "D": "an excavation in earth or rock for the burial of a corpse; grave.", "S": ["entomb ", "inhume "], "A": ["dig up ", "exhume "]}

@@ -1,0 +1,1 @@
+{"index": 280855, "D": "an agricultural implement consisting of a long, curving blade fastened at an angle to a handle, for cutting grass, grain, etc., by hand.", "S": [], "A": []}

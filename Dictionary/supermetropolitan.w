@@ -1,0 +1,1 @@
+{"index": 312244, "D": "of, noting, or characteristic of a metropolis  or its inhabitants, especially in culture, sophistication, or in accepting and combining a wide variety of people, ideas, etc.", "S": [], "A": []}

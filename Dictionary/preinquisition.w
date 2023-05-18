@@ -1,0 +1,1 @@
+{"index": 247998, "D": "an official investigation, especially one of a political or religious nature, characterized by lack of regard for individual rights, prejudice on the part of the examiners, and recklessly cruel punishments.", "S": [], "A": []}

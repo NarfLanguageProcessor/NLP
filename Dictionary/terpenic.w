@@ -1,0 +1,1 @@
+{"index": 319464, "D": "(originally) any of a class of monocyclic hydrocarbons of the formula C10H16, obtained from plants.", "S": [], "A": []}

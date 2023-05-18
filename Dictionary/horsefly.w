@@ -1,0 +1,1 @@
+{"index": 144017, "D": "any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc.", "S": [], "A": []}

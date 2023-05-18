@@ -1,0 +1,1 @@
+{"index": 166443, "D": "formerly, a complex of related cultural traits assumed to diffuse or radiate outward as a unit in concentric waves or circles.", "S": [], "A": []}

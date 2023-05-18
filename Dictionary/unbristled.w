@@ -1,0 +1,1 @@
+{"index": 336217, "D": "one of the short, stiff, coarse hairs of certain animals, especially hogs, used extensively in making brushes.", "S": [], "A": []}

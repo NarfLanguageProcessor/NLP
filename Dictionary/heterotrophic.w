@@ -1,0 +1,1 @@
+{"index": 137814, "D": "capable of utilizing only organic materials as a source of food.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107209, "D": "requiring immediate action or aid; urgent; pressing.", "S": ["automatically ", "naturally ", "no doubt ", "undoubtedly ", "unquestionably "], "A": ["doubtfully ", "questionably "]}

@@ -1,0 +1,1 @@
+{"index": 56036, "D": "a receptacle for chrism.", "S": [], "A": []}

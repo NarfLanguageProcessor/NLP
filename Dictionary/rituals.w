@@ -1,0 +1,1 @@
+{"index": 273339, "D": "an established or prescribed procedure for a religious or other rite. ", "S": ["attitude ", "codes ", "etiquette ", "formalities ", "manners ", "morals ", "policies ", "practices ", "principles ", "protocol ", "rites ", "routines ", "rules ", "standards "], "A": ["bad manners "]}

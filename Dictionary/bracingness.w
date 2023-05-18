@@ -1,0 +1,1 @@
+{"index": 39505, "D": "strengthening; invigorating", "S": [], "A": []}

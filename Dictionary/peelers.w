@@ -1,0 +1,1 @@
+{"index": 229038, "D": "a person or thing that peels. ", "S": ["bump-and-grinder ", "burlesque queen ", "ecdysiast ", "exotic dancer ", "lap dancer ", "stripper ", "striptease artist ", "striptease dancer ", "stripteaser ", "stripteuse "], "A": []}

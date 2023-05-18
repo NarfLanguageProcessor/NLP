@@ -1,0 +1,1 @@
+{"index": 12841, "D": "any of three oligopeptides occurring in plasma, an inactive form (angiotensin I ) and two varieties (angiotensin II  and angiotensin III ) that elevate blood pressure and stimulate the adrenal cortex to secrete aldosterone.", "S": [], "A": []}

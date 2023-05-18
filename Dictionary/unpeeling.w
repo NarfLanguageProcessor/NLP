@@ -1,0 +1,1 @@
+{"index": 347610, "D": "the act of a person or thing that peels. ", "S": [], "A": []}

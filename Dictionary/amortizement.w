@@ -1,0 +1,1 @@
+{"index": 10964, "D": "a sloping top on a buttress, pillar, etc.", "S": [], "A": []}

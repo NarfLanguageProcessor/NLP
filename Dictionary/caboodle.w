@@ -1,0 +1,1 @@
+{"index": 43993, "D": "the lot, pack, or crowd", "S": ["assemblage ", "assortment ", "band ", "batch ", "bevy ", "bundle ", "chunk ", "cluster ", "crew ", "crowd ", "flock ", "gang ", "group ", "lot ", "mess ", "mob ", "multitude ", "number ", "pack ", "pile ", "stack "], "A": ["individual ", "one "]}

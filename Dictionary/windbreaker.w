@@ -1,0 +1,1 @@
+{"index": 365918, "D": "a brand name for a jacket of wind-resistant material with close-fitting elastic hip band and cuffs.", "S": ["cloak ", "frock ", "jacket ", "overcoat ", "raincoat ", "suit ", "tuxedo ", "wrap "], "A": []}

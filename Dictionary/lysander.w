@@ -1,0 +1,1 @@
+{"index": 173414, "D": "Spartan naval commander and statesman.", "S": [], "A": []}

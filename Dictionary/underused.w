@@ -1,0 +1,1 @@
+{"index": 340048, "D": "not completely or sufficiently used", "S": [], "A": []}

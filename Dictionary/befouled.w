@@ -1,0 +1,1 @@
+{"index": 30522, "D": "to make dirty or filthy; soil; defile; sully", "S": ["corrupt ", "defile ", "dirty ", "malign ", "pollute ", "slander ", "soil ", "stain "], "A": ["clean ", "cleanse ", "praise ", "purify "]}

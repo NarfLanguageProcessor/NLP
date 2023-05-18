@@ -1,0 +1,1 @@
+{"index": 297880, "D": "the narrow band on one or both sides of a motion-picture film on which sound  is recorded.", "S": ["movie album ", "movie music ", "soundstripe "], "A": []}

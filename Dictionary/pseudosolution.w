@@ -1,0 +1,1 @@
+{"index": 255146, "D": "a colloidal suspension in which the finely divided particles appear to be dissolved because they are so widely dispersed in the surrounding medium.", "S": [], "A": []}

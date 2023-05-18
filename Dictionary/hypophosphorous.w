@@ -1,0 +1,1 @@
+{"index": 141102, "D": "of or derived from hypophosphorous acid. ", "S": [], "A": []}

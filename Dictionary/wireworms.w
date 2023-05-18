@@ -1,0 +1,1 @@
+{"index": 366386, "D": "any of the slender, hard-bodied larvae of click beetles, many of which live underground and feed on the roots of plants.", "S": [], "A": []}

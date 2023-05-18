@@ -1,0 +1,1 @@
+{"index": 348303, "D": "unusually advanced or mature in development, especially mental development", "S": [], "A": []}

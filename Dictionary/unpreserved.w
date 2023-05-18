@@ -1,0 +1,1 @@
+{"index": 348409, "D": "(of food or any perishable substance) prepared by canning, pickling, salting, or the like, or treated by some process to prevent decomposition or fermentation", "S": [], "A": []}

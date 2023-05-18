@@ -1,0 +1,1 @@
+{"index": 14666, "D": "a philosophy based on the teachings of Rudolf Steiner (1861\u20131925) which maintains that, by virtue of a prescribed method of self-discipline, cognitional experience of the spiritual world can be achieved.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107517, "D": "noting or pertaining to a chemical change that is accompanied by a liberation of heat (opposed to endothermic).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 2913, "D": "having rootless teeth fastened to the alveolar ridge of the jaws.", "S": [], "A": []}

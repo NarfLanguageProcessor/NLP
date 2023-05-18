@@ -1,0 +1,1 @@
+{"index": 94150, "D": "long, full sideburns or muttonchop whiskers.", "S": [], "A": []}

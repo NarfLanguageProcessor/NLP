@@ -1,0 +1,1 @@
+{"index": 237510, "D": "a contemptibly small or unimportant person; a twerp.", "S": ["nobody ", "runt ", "shrimp ", "squirt ", "twerp ", "whippersnapper "], "A": []}

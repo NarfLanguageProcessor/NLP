@@ -1,0 +1,1 @@
+{"index": 40505, "D": "speaking or expressed in a concise or terse style; using brevity of speech", "S": [], "A": []}

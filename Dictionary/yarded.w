@@ -1,0 +1,1 @@
+{"index": 145731, "D": "a common unit of linear measure in English-speaking countries, equal to 3 feet or 36 inches, and equivalent to 0.9144 meter.", "S": [], "A": []}

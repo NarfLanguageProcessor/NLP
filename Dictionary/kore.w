@@ -1,0 +1,1 @@
+{"index": 166082, "D": "a sculptured representation of a young woman, especially one produced prior to the 5th century b.c.", "S": [], "A": []}

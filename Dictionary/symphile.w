@@ -1,0 +1,1 @@
+{"index": 290989, "D": "Compare synoekete", "S": [], "A": []}

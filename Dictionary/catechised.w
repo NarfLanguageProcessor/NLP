@@ -1,0 +1,1 @@
+{"index": 49494, "D": "to instruct orally by means of questions and answers, especially in Christian doctrine.", "S": [], "A": []}

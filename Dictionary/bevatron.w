@@ -1,0 +1,1 @@
+{"index": 32886, "D": "an accelerator in which protons are raised to energies of several billion electron-volts by modulating the frequency of the accelerating voltage.", "S": [], "A": []}

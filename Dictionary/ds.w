@@ -1,0 +1,1 @@
+{"index": 93625, "D": "decistere; decisteres.", "S": [], "A": []}

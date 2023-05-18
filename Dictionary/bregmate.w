@@ -1,0 +1,1 @@
+{"index": 40419, "D": "the junction point of the sagittal and coronal sutures of the skull.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200028, "D": "total rejection of established laws and institutions.", "S": ["anarchist ", "cynic ", "insurgent ", "radical ", "rebel ", "revolutionary "], "A": []}

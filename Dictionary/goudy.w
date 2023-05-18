@@ -1,0 +1,1 @@
+{"index": 128298, "D": "U.S. designer of printing types.", "S": [], "A": []}

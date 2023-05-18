@@ -1,0 +1,1 @@
+{"index": 258942, "D": "fivefold; consisting of five parts.", "S": [], "A": []}

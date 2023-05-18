@@ -1,0 +1,1 @@
+{"index": 206152, "D": "the act or process of keeping something in existence", "S": [], "A": []}

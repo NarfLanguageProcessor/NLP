@@ -1,0 +1,1 @@
+{"index": 122721, "D": "a person who attends or enters a social function without an invitation, a theater without a ticket, etc.", "S": ["burglar ", "criminal ", "infiltrator ", "interloper ", "invader ", "raider ", "squatter ", "thief ", "trespasser "], "A": []}

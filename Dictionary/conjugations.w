@@ -1,0 +1,1 @@
+{"index": 66422, "D": "a class of verbs having similar sets of inflected forms", "S": ["amalgamation ", "fusion ", "unification ", "union ", "unity "], "A": ["division ", "separation "]}

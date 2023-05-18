@@ -1,0 +1,1 @@
+{"index": 238976, "D": "the measurement of plane areas.", "S": [], "A": []}

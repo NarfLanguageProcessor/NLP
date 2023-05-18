@@ -1,0 +1,1 @@
+{"index": 174385, "D": "a rough-textured linen cloth.", "S": [], "A": []}

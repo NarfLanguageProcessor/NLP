@@ -1,0 +1,1 @@
+{"index": 105820, "D": "a U.S. dollar  deposited in or credited to a European bank.", "S": [], "A": []}

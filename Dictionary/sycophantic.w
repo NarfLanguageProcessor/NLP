@@ -1,0 +1,1 @@
+{"index": 289688, "D": "using flattery to win favour from individuals wielding influence; toadyish; obsequious", "S": ["appreciative ", "congratulatory ", "polite ", "respectful "], "A": ["unmannerly "]}

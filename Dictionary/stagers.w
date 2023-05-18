@@ -1,0 +1,1 @@
+{"index": 302313, "D": "a person of experience in some profession, way of life, etc.", "S": [], "A": []}

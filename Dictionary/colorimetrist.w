@@ -1,0 +1,1 @@
+{"index": 63354, "D": "a device that analyzes color  by measuring a given color  in terms of a standard color,  a scale of colors,  or certain primary colors. ", "S": [], "A": []}

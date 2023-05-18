@@ -1,0 +1,1 @@
+{"index": 41201, "D": "an agent who buys or sells for a principal on a commission basis without having title to the property.", "S": ["agent ", "dealer ", "entrepreneur ", "financier ", "intermediary ", "mediator ", "merchant ", "stockbroker "], "A": ["customer "]}

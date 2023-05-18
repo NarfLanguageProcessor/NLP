@@ -1,0 +1,1 @@
+{"index": 25706, "D": "the rear part of the human body, extending from the neck to the lower end of the spine.", "S": ["backward "], "A": ["beginning ", "first ", "front ", "preceding "]}

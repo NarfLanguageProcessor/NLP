@@ -1,0 +1,1 @@
+{"index": 362959, "D": "like or suggesting a wasp,  especially in behavior.", "S": [], "A": []}

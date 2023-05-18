@@ -1,0 +1,1 @@
+{"index": 114202, "D": "a complex heterocyclic ketone that is common to the nonprotein part of several important yellow enzymes, the flavoproteins.", "S": [], "A": []}

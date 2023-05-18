@@ -1,0 +1,1 @@
+{"index": 350842, "D": "not set;  not solidified or made firm, as concrete or asphalt.", "S": [], "A": []}

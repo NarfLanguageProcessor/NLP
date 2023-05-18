@@ -1,0 +1,1 @@
+{"index": 47660, "D": "any substance or agent that tends to produce a cancer.", "S": ["poison ", "toxin "], "A": []}

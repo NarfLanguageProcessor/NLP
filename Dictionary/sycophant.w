@@ -1,0 +1,1 @@
+{"index": 289687, "D": "a self-seeking, servile flatterer; fawning parasite.", "S": ["groupie ", "lackey "], "A": []}

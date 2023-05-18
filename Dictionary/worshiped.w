@@ -1,0 +1,1 @@
+{"index": 367674, "D": "reverent honor and homage paid to God or a sacred personage, or to any object regarded as sacred.", "S": ["admired ", "cherished ", "dear ", "esteemed ", "favorite ", "hallowed ", "loved ", "popular ", "prized ", "respected ", "revered ", "treasured ", "venerated ", "well-liked "], "A": ["disliked "]}

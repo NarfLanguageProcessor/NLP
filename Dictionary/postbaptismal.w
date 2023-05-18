@@ -1,0 +1,1 @@
+{"index": 243942, "D": "a ceremonial immersion in water, or application of water, as an initiatory rite or sacrament of the Christian church.", "S": [], "A": []}

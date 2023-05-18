@@ -1,0 +1,1 @@
+{"index": 98243, "D": "an uncommon variant of embrace1. ", "S": ["caress ", "clutch ", "cuddle ", "hold ", "hug ", "snuggle ", "squeeze "], "A": ["release "]}

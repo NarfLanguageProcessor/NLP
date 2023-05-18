@@ -1,0 +1,1 @@
+{"index": 36159, "D": "a state of softness or decay in certain fruits, such as the medlar, brought about by overripening", "S": [], "A": []}

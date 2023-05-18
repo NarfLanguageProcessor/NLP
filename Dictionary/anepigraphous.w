@@ -1,0 +1,1 @@
+{"index": 12558, "D": "(of a coin, artifact, etc.) without a legend or inscription.", "S": [], "A": []}

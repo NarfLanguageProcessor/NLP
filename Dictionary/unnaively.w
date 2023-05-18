@@ -1,0 +1,1 @@
+{"index": 346740, "D": "in a way that shows a lack of experience, judgment, or information", "S": [], "A": []}

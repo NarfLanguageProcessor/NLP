@@ -1,0 +1,1 @@
+{"index": 6378, "D": "involving or accompanied by agony  or severe struggle", "S": [], "A": []}

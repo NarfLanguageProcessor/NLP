@@ -1,0 +1,1 @@
+{"index": 211647, "D": "objectionably aggressive in offering one's unrequested and unwanted services, help, or advice; meddlesome", "S": ["busy ", "forward ", "impertinent ", "inquisitive ", "interfering ", "intrusive ", "meddlesome ", "meddling ", "obtrusive ", "opinionated ", "overzealous ", "pragmatic ", "pushy ", "rude "], "A": ["modest ", "shy ", "timid "]}

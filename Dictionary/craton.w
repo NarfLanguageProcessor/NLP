@@ -1,0 +1,1 @@
+{"index": 72272, "D": "a relatively rigid and immobile region of continental portions of the earth's crust.", "S": [], "A": []}

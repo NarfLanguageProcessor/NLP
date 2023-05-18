@@ -1,0 +1,1 @@
+{"index": 343866, "D": "having horns  (often used in combination)", "S": [], "A": []}

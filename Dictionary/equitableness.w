@@ -1,0 +1,1 @@
+{"index": 103399, "D": "characterized by equity or fairness; just and right; fair", "S": ["equity ", "fair-mindedness ", "honesty ", "impartiality ", "impartialness ", "justice ", "justness ", "nonpartisanship ", "objectiveness ", "objectivity ", "righteousness ", "rightfulness ", "rightness "], "A": []}

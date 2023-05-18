@@ -1,0 +1,1 @@
+{"index": 167316, "D": "the staves at the bottom of a barrel, cask, or other hooped vessel.", "S": [], "A": []}

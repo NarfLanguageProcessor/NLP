@@ -1,0 +1,1 @@
+{"index": 306235, "D": "a person who takes long, swift steps", "S": [], "A": []}

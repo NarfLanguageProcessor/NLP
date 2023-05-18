@@ -1,0 +1,1 @@
+{"index": 363232, "D": "the margin, bank, or shore of a river, lake, ocean, etc.", "S": [], "A": []}

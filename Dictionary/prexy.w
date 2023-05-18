@@ -1,0 +1,1 @@
+{"index": 250301, "D": "a president, especially of a college or university.", "S": [], "A": []}

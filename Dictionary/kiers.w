@@ -1,0 +1,1 @@
+{"index": 164516, "D": "a large vat in which fibers, yarns, or fabrics are boiled, bleached, or dyed.", "S": [], "A": []}

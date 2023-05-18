@@ -1,0 +1,1 @@
+{"index": 342227, "D": "(of plaster) having an admixture of hair or fiber. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60836, "D": "to do or act  together.", "S": ["collude ", "conspire ", "cooperate ", "hook up ", "participate "], "A": ["disagree ", "divorce ", "part "]}

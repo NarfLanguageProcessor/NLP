@@ -1,0 +1,1 @@
+{"index": 229846, "D": "dreamily or wistfully thoughtful", "S": ["absorption ", "aloofness ", "brooding ", "cogitation ", "consideration ", "contemplation ", "daydreaming ", "detachment ", "engrossment ", "entrancement ", "musing ", "preoccupation ", "reflection ", "remoteness ", "reverie ", "thinking ", "trance "], "A": ["disdain ", "disregard ", "ignorance ", "neglect "]}

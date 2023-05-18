@@ -1,0 +1,1 @@
+{"index": 192320, "D": "the hypothetical descent of the human race from a single pair of individuals.", "S": [], "A": []}

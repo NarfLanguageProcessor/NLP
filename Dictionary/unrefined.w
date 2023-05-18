@@ -1,0 +1,1 @@
+{"index": 349292, "D": "not refined;  not purified, as substances", "S": ["crude "], "A": ["cultured ", "refined "]}

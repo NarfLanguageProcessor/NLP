@@ -1,0 +1,1 @@
+{"index": 367472, "D": "a person who works  compulsively at the expense of other pursuits.", "S": [], "A": []}

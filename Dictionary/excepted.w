@@ -1,0 +1,1 @@
+{"index": 106599, "D": "excluded from or left out of a particular category", "S": ["immune "], "A": ["hindered ", "prevented "]}

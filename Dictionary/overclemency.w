@@ -1,0 +1,1 @@
+{"index": 218603, "D": "the quality of being clement;  disposition to show forbearance, compassion, or forgiveness in judging or punishing; leniency; mercy.", "S": [], "A": []}

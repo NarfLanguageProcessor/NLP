@@ -1,0 +1,1 @@
+{"index": 273849, "D": "a dishonest, knavish person; scoundrel.", "S": ["con artist ", "crook ", "rascal ", "swindler ", "villain "], "A": []}

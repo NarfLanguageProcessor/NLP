@@ -1,0 +1,1 @@
+{"index": 238046, "D": "an ester or salt of pyruvic acid. ", "S": [], "A": []}

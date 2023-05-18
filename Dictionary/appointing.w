@@ -1,0 +1,1 @@
+{"index": 17849, "D": "to name or assign to a position, an office, or the like; designate", "S": ["elective "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41132, "D": "a defect or fault imposed on a coin during its minting.", "S": [], "A": []}

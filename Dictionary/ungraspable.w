@@ -1,0 +1,1 @@
+{"index": 343241, "D": "to seize and hold by or as if by clasping with the fingers or arms.", "S": ["arcane ", "baffling ", "inexplicable ", "inscrutable ", "mysterious ", "unaccountable ", "unfathomable ", "unintelligible "], "A": ["clear ", "comprehensible ", "explainable ", "explicable ", "intelligible ", "known ", "obvious ", "plain "]}

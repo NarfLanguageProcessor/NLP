@@ -1,0 +1,1 @@
+{"index": 143921, "D": "the art or science of making timepieces or of measuring time.", "S": [], "A": []}

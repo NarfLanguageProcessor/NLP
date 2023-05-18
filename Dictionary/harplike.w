@@ -1,0 +1,1 @@
+{"index": 133924, "D": "a musical instrument consisting of a triangular frame formed by a soundbox, a pillar, and a curved neck, and having strings stretched between the soundbox and the neck that are plucked with the fingers.", "S": [], "A": []}

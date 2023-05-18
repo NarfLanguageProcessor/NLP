@@ -1,0 +1,1 @@
+{"index": 246051, "D": "the act or fact of preceding; precedence.", "S": ["antecedence ", "earliness ", "lead ", "precedency ", "preeminence ", "preexistence ", "preference ", "primary ", "priority ", "rank ", "seniority ", "superiority ", "supremacy "], "A": ["subservience "]}

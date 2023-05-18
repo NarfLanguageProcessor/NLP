@@ -1,0 +1,1 @@
+{"index": 64237, "D": "capable of being easily communicated  or transmitted", "S": ["catching ", "communicative ", "contagious ", "expansive ", "infectious ", "pandemic ", "taking ", "transferable ", "transmittable "], "A": []}

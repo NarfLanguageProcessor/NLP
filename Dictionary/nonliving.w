@@ -1,0 +1,1 @@
+{"index": 205062, "D": "having life; being alive; not dead", "S": [], "A": []}

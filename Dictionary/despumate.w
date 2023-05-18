@@ -1,0 +1,1 @@
+{"index": 82890, "D": "to clarify or purify (a liquid) by skimming a scum from its surface", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305903, "D": "a layer of material, naturally or artificially formed, often one of a number of parallel layers one upon another", "S": [], "A": []}

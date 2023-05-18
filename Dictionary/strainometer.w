@@ -1,0 +1,1 @@
+{"index": 305702, "D": "a type of extensometer designed for geophysical use.", "S": [], "A": []}

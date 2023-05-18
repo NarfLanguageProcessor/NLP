@@ -1,0 +1,1 @@
+{"index": 145670, "D": "to pull or remove abruptly and vigorously", "S": ["jerk ", "snap ", "snatch ", "tear ", "tug ", "wrench "], "A": ["fix ", "put in "]}

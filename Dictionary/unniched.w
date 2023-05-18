@@ -1,0 +1,1 @@
+{"index": 346890, "D": "an ornamental recess in a wall or the like, usually semicircular in plan and arched, as for a statue or other decorative object.", "S": [], "A": []}

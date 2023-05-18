@@ -1,0 +1,1 @@
+{"index": 348976, "D": "extravagantly chivalrous or romantic; visionary, impractical, or impracticable.", "S": [], "A": []}

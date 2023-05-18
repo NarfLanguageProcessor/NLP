@@ -1,0 +1,1 @@
+{"index": 164268, "D": "a traditionally matrilineal Indigenous people of Meghalaya in northeastern India, now also residing in Assam and in parts of Bangladesh.", "S": [], "A": []}

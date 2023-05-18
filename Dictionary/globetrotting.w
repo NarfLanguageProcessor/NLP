@@ -1,0 +1,1 @@
+{"index": 126478, "D": "to travel throughout the world, especially regularly or frequently.", "S": ["travel "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84123, "D": "diageotropic tendency or growth.", "S": [], "A": []}

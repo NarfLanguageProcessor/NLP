@@ -1,0 +1,1 @@
+{"index": 232508, "D": "the branch of petrology dealing with the description and classification of rocks, especially by microscopic examination.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158913, "D": "isomorphism between the forms of two dimorphous substances.", "S": [], "A": []}

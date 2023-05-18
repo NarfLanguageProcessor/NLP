@@ -1,0 +1,1 @@
+{"index": 341977, "D": "able to be altered or represented falsely", "S": [], "A": []}

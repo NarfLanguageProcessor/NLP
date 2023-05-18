@@ -1,0 +1,1 @@
+{"index": 276956, "D": "the class of workers in an economy who receive salaries.", "S": [], "A": []}

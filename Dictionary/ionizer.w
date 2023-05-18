@@ -1,0 +1,1 @@
+{"index": 157659, "D": "a person or thing that ionizes, esp an electrical device used within a room to refresh its atmosphere by restoring negative ions", "S": [], "A": []}

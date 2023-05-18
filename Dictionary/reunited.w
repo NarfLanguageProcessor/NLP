@@ -1,0 +1,1 @@
+{"index": 271017, "D": "to unite again, as after separation.", "S": ["accumulated ", "collected ", "concentrated ", "huddled ", "massed "], "A": ["separated "]}

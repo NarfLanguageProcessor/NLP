@@ -1,0 +1,1 @@
+{"index": 205741, "D": "a disease characterized by this, especially palsy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156652, "D": "intraspecific competition", "S": [], "A": []}

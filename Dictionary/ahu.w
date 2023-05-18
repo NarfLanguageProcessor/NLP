@@ -1,0 +1,1 @@
+{"index": 6670, "D": "a stone heap or platform used by the Polynesians as a marker or memorial.", "S": [], "A": []}

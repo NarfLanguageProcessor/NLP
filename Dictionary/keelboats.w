@@ -1,0 +1,1 @@
+{"index": 163545, "D": "a roughly built, shallow freight boat, having a keel to permit sailing into the wind.", "S": [], "A": []}

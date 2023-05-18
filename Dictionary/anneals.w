@@ -1,0 +1,1 @@
+{"index": 13495, "D": "to heat (glass, earthenware, metals, etc.) to remove or prevent internal stress.", "S": ["harden ", "temper ", "thicken ", "toughen "], "A": ["flex ", "liquefy ", "melt ", "soften "]}

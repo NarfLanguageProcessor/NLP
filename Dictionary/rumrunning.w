@@ -1,0 +1,1 @@
+{"index": 275607, "D": "a person or ship engaged in smuggling liquor.", "S": ["piracy ", "smuggling ", "trafficking "], "A": []}

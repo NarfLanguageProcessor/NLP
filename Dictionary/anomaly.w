@@ -1,0 +1,1 @@
+{"index": 13744, "D": "a deviation from the common rule, type, arrangement, or form.", "S": ["aberration ", "abnormality ", "deviation ", "inconsistency ", "irregularity ", "oddity ", "rarity "], "A": ["conformity ", "normality ", "regularity ", "sameness ", "standard ", "usualness "]}

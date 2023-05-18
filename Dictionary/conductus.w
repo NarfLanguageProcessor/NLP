@@ -1,0 +1,1 @@
+{"index": 65723, "D": "any of various forms of medieval song with a Latin text.", "S": [], "A": []}

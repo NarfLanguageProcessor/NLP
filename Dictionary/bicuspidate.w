@@ -1,0 +1,1 @@
+{"index": 33490, "D": "having or terminating in two cusps or points, as certain teeth.", "S": [], "A": []}

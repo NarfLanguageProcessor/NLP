@@ -1,0 +1,1 @@
+{"index": 315957, "D": "to force in or down by repeated, rather light, strokes", "S": ["crowd ", "load ", "overcrowd ", "pack ", "ram ", "shove ", "squeeze ", "stuff ", "wedge "], "A": ["abstain ", "diet ", "fast ", "let go ", "nibble ", "pull ", "release ", "surrender ", "yield "]}

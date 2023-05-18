@@ -1,0 +1,1 @@
+{"index": 75917, "D": "of, relating to, or characteristic of a czar  or the system and principles of government under a czar.", "S": [], "A": []}

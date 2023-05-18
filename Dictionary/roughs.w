@@ -1,0 +1,1 @@
+{"index": 274808, "D": "having a coarse or uneven surface, as from projections, irregularities, or breaks; not smooth", "S": ["account ", "blueprint ", "cartoon ", "chart ", "copy ", "depiction ", "description ", "illustration ", "likeness ", "painting ", "picture ", "piece ", "portrayal ", "summary ", "version ", "vignette "], "A": []}

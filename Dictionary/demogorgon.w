@@ -1,0 +1,1 @@
+{"index": 80751, "D": "a vague, mysterious, infernal power or divinity mistakenly thought to belong to ancient mythology.", "S": [], "A": []}

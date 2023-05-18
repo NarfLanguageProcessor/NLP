@@ -1,0 +1,1 @@
+{"index": 53127, "D": "a movable article of personal property.", "S": ["accouterments ", "appurtenances ", "assets ", "effects ", "gear ", "goods ", "paraphernalia ", "property ", "stuff ", "things "], "A": []}

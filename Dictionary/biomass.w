@@ -1,0 +1,1 @@
+{"index": 34427, "D": "the amount of living matter in a given habitat, expressed either as the weight of organisms per unit area or as the volume of organisms per unit volume of habitat.", "S": [], "A": []}

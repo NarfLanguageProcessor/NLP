@@ -1,0 +1,1 @@
+{"index": 143904, "D": "the larva of any of several hawk moths, having a hornlike process at the rear of the abdomen.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183488, "D": "the branch of geometry that deals with the measurement of length, area, or volume.", "S": [], "A": []}

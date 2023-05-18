@@ -1,0 +1,1 @@
+{"index": 19807, "D": "an expert in arithmetic. ", "S": [], "A": []}

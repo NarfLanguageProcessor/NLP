@@ -1,0 +1,1 @@
+{"index": 162763, "D": "NZ the South Island dialect word for kainga", "S": [], "A": []}

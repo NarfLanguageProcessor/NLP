@@ -1,0 +1,1 @@
+{"index": 322446, "D": "an abnormal swelling just above the hock of a horse, usually appearing on both sides of the leg and sometimes causing lameness.", "S": [], "A": []}

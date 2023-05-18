@@ -1,0 +1,1 @@
+{"index": 131379, "D": "a person or company that makes guns. ", "S": [], "A": []}

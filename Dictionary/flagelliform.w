@@ -1,0 +1,1 @@
+{"index": 113728, "D": "long, slender, and flexible, like the lash of a whip.", "S": [], "A": []}

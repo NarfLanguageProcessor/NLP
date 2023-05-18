@@ -1,0 +1,1 @@
+{"index": 309014, "D": "to put into the place of another; substitute for another.", "S": [], "A": []}

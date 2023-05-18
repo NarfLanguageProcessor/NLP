@@ -1,0 +1,1 @@
+{"index": 100891, "D": "to register; record.", "S": [], "A": []}

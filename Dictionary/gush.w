@@ -1,0 +1,1 @@
+{"index": 131527, "D": "to flow out or issue suddenly, copiously, or forcibly, as a fluid from confinement", "S": ["burst ", "cascade ", "flood ", "flow ", "flush ", "issue ", "jet ", "run ", "rush ", "spate ", "spout ", "spring ", "spurt ", "stream ", "surge "], "A": []}

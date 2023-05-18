@@ -1,0 +1,1 @@
+{"index": 19567, "D": "another name for inert gas (def. 1)", "S": [], "A": []}

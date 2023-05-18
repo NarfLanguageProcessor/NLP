@@ -1,0 +1,1 @@
+{"index": 71551, "D": "lacking courage; contemptibly timid.", "S": ["dastardly "], "A": ["bold ", "brave ", "courageous ", "daring ", "dauntless ", "unafraid ", "undaunted ", "unfearful "]}

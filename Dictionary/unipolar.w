@@ -1,0 +1,1 @@
+{"index": 344951, "D": "having or pertaining to a single magnetic or electric pole.", "S": [], "A": []}

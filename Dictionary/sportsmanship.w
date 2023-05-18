@@ -1,0 +1,1 @@
+{"index": 301066, "D": "the character, practice, or skill of a sportsman. ", "S": ["fairness ", "honesty ", "sincerity ", "virtue "], "A": ["dishonesty "]}

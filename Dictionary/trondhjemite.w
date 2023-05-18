@@ -1,0 +1,1 @@
+{"index": 331100, "D": "a coarse-grained igneous rock composed of quartz, plagioclase feldspar, and a small amount of biotite.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18631, "D": "Compare colonnade. ", "S": [], "A": []}

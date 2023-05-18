@@ -1,0 +1,1 @@
+{"index": 52080, "D": "an ancient city in NW Asia Minor, on the Bosporus, opposite Byzantium.", "S": [], "A": []}

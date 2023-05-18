@@ -1,0 +1,1 @@
+{"index": 268631, "D": "able to be copied, duplicated, represented, or closely imitated", "S": [], "A": []}

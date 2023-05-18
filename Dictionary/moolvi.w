@@ -1,0 +1,1 @@
+{"index": 193017, "D": "(in India) an expert in Islamic law", "S": [], "A": []}

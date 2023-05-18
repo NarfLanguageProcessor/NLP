@@ -1,0 +1,1 @@
+{"index": 132872, "D": "faltering or hesitating, especially in speech.", "S": ["awkward ", "clumsy ", "labored ", "stumbling ", "tentative "], "A": ["adroit ", "clever ", "dexterous ", "easy ", "graceful "]}

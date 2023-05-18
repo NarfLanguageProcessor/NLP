@@ -1,0 +1,1 @@
+{"index": 134030, "D": "(in ancient Rome) one of a class of minor priests who practiced divination, especially from the entrails of animals killed in sacrifice.", "S": ["augur ", "diviner ", "medium ", "oracle ", "prophet ", "seer ", "sibyl ", "soothsayer ", "telepathist ", "visionary "], "A": []}

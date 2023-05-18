@@ -1,0 +1,1 @@
+{"index": 109891, "D": [], "S": ["amplify ", "exaggerate ", "overstate "], "A": ["reduce ", "abandon ", "fail ", "halt ", "ignore ", "neglect ", "prevent ", "refrain ", "refuse ", "stop ", "veto "]}

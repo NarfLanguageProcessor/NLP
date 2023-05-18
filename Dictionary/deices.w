@@ -1,0 +1,1 @@
+{"index": 79774, "D": "to free of ice;  prevent or remove ice  formation on, as the wing of an airplane.", "S": [], "A": []}

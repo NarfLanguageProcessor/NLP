@@ -1,0 +1,1 @@
+{"index": 352458, "D": "unable to sit up unsupported", "S": ["flimsy ", "gratuitous ", "groundless ", "unfounded ", "unjustifiable ", "unjustified ", "unsubstantiated ", "untenable ", "unwarranted "], "A": ["called-for ", "justified ", "proven ", "reasonable ", "warranted "]}

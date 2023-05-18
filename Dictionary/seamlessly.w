@@ -1,0 +1,1 @@
+{"index": 282504, "D": "without seams  or joints", "S": [], "A": []}

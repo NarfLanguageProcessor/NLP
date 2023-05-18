@@ -1,0 +1,1 @@
+{"index": 344050, "D": "of or relating to idealism  or idealists. ", "S": ["hardheaded ", "no-nonsense ", "plainspoken ", "pragmatic ", "realistic ", "sensible ", "sober "], "A": ["irrational ", "unrealistic ", "unreasonable "]}

@@ -1,0 +1,1 @@
+{"index": 343887, "D": "having or giving off heat; having a high temperature", "S": [], "A": []}

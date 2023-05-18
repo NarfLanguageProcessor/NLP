@@ -1,0 +1,1 @@
+{"index": 257129, "D": "the following or carrying out of some plan, course, injunction, or the like.", "S": ["aftermath ", "consequence ", "development ", "event ", "fallout ", "issue ", "outcome ", "ramification ", "reaction ", "repercussion ", "response ", "side effect "], "A": ["beginning ", "cause ", "origin ", "question ", "source ", "commencement ", "start "]}

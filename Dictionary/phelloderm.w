@@ -1,0 +1,1 @@
+{"index": 233261, "D": "a layer of parenchyma produced inwardly by the cork cambium; an inner secondary cortex of the cork cambium.", "S": [], "A": []}

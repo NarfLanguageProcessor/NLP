@@ -1,0 +1,1 @@
+{"index": 140779, "D": "a condition produced in high altitudes, caused by diminished air pressure and reduced oxygen intake; mountain sickness.", "S": [], "A": []}

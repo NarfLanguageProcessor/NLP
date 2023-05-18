@@ -1,0 +1,1 @@
+{"index": 110769, "D": "fecal matter, especially of insects.", "S": [], "A": []}

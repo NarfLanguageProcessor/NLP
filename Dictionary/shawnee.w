@@ -1,0 +1,1 @@
+{"index": 287668, "D": "a member of an Algonquian-speaking tribe formerly in the east-central U.S., now in Oklahoma.", "S": [], "A": []}

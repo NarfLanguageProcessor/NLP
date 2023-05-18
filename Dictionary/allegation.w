@@ -1,0 +1,1 @@
+{"index": 8575, "D": "the act of alleging;  affirmation.", "S": ["accusation ", "charge ", "claim ", "plea ", "statement "], "A": ["exculpation ", "denial "]}

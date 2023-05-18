@@ -1,0 +1,1 @@
+{"index": 235049, "D": "the increase in the electrical conductivity  of a substance, often nonmetallic, caused by the absorption of electromagnetic radiation. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19196, "D": "an instrument for drawing arcs,  having a flexible arc-shaped part adjusted by an extensible straight bar connecting its sides.", "S": [], "A": []}

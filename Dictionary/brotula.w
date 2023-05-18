@@ -1,0 +1,1 @@
+{"index": 41598, "D": "any of several chiefly deep-sea fishes of the family Brotulidae.", "S": [], "A": []}

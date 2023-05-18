@@ -1,0 +1,1 @@
+{"index": 52168, "D": "a soft, white, powdery limestone consisting chiefly of fossil shells of foraminifers.", "S": ["impress ", "seal "], "A": ["mend ", "smooth "]}

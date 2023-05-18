@@ -1,0 +1,1 @@
+{"index": 174044, "D": "a woolly-haired South American ruminant  of the genus Lama, believed to be a domesticated variety of the guanaco", "S": ["buffalo ", "camel ", "cattle ", "cow ", "deer ", "elephant ", "giraffe ", "hippopotamus ", "hog ", "horse ", "pig ", "rhinoceros ", "swine ", "tapir "], "A": []}

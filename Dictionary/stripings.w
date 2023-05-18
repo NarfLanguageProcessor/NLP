@@ -1,0 +1,1 @@
+{"index": 306377, "D": "the act of decorating or otherwise providing with stripes", "S": [], "A": []}

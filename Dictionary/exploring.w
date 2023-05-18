@@ -1,0 +1,1 @@
+{"index": 107904, "D": "to traverse or range over (a region, area, etc.) for the purpose of discovery", "S": ["backpacking ", "marching ", "rambling ", "walking ", "wandering "], "A": []}

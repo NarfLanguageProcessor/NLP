@@ -1,0 +1,1 @@
+{"index": 290412, "D": "of or like silk;  smooth, lustrous, soft, or delicate", "S": [], "A": []}

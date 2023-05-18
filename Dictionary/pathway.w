@@ -1,0 +1,1 @@
+{"index": 227792, "D": "a path,  course, route, or way. ", "S": ["alleyway ", "lane ", "passageway ", "path ", "walk "], "A": []}

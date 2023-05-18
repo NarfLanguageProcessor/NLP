@@ -1,0 +1,1 @@
+{"index": 47896, "D": "paper stock  stiff enough for the printing of business cards  and similar uses.", "S": [], "A": []}

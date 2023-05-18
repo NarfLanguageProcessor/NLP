@@ -1,0 +1,1 @@
+{"index": 47104, "D": "a native or inhabitant of Capri.", "S": [], "A": []}

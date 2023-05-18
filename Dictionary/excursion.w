@@ -1,0 +1,1 @@
+{"index": 106884, "D": "a short trip or outing to some place, usually for a special purpose and with the intention of a prompt return", "S": ["cruise ", "expedition ", "jaunt ", "junket ", "outing ", "picnic ", "round trip ", "safari ", "tour ", "trek ", "trip "], "A": []}

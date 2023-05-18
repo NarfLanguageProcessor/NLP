@@ -1,0 +1,1 @@
+{"index": 46313, "D": "another name for Sirius", "S": ["Sirius ", "Sothis "], "A": []}

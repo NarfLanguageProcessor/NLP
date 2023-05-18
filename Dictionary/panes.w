@@ -1,0 +1,1 @@
+{"index": 224571, "D": "one of the divisions of a window or the like, consisting of a single plate of glass in a frame.", "S": ["blanket ", "coat ", "foil ", "layer ", "leaf ", "piece ", "plate ", "slab ", "surface "], "A": []}

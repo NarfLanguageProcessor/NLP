@@ -1,0 +1,1 @@
+{"index": 127119, "D": "of, relating to, or resembling a gnome. ", "S": [], "A": []}

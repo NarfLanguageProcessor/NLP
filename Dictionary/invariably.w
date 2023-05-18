@@ -1,0 +1,1 @@
+{"index": 157039, "D": "always; without exception", "S": ["always ", "constantly ", "customarily ", "habitually ", "regularly ", "unfailingly "], "A": []}

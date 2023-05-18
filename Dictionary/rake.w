@@ -1,0 +1,1 @@
+{"index": 260171, "D": "an agricultural implement with teeth or tines for gathering cut grass, hay, or the like or for smoothing the surface of the ground.", "S": ["comb ", "scour ", "scrape "], "A": ["disperse ", "distribute ", "divide ", "plant ", "scatter "]}

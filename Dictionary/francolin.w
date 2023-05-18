@@ -1,0 +1,1 @@
+{"index": 118336, "D": "any of numerous Eurasian and African partridges of the genus Francolinus, having sharply spurred legs.", "S": [], "A": []}

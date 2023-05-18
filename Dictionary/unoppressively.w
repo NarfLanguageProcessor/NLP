@@ -1,0 +1,1 @@
+{"index": 347182, "D": "burdensome, unjustly harsh, or tyrannical", "S": [], "A": []}

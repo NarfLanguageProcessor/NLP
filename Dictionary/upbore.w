@@ -1,0 +1,1 @@
+{"index": 354506, "D": "to bear up; raise aloft; sustain or support.", "S": ["bolster ", "brace ", "bulwark ", "buttress ", "carry ", "hold ", "prop ", "strengthen ", "support ", "sustain ", "underpin ", "uphold "], "A": ["drop ", "halt ", "let down ", "let go ", "release ", "stop ", "weaken "]}

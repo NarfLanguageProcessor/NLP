@@ -1,0 +1,1 @@
+{"index": 286990, "D": "sidereal hour angle.", "S": [], "A": []}

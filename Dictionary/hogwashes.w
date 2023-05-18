@@ -1,0 +1,1 @@
+{"index": 142305, "D": "refuse given to hogs; swill.", "S": ["BS ", "absurdity ", "balderdash ", "baloney ", "bull ", "bunk ", "debris ", "drivel ", "foolishness ", "hokum ", "hooey ", "poppycock ", "refuse ", "ridiculousness ", "rot ", "rubbish ", "trash ", "twaddle "], "A": ["assets ", "possessions ", "property ", "sense ", "truth "]}

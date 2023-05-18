@@ -1,0 +1,1 @@
+{"index": 219101, "D": "to push or carry to excess; overwork.", "S": [], "A": []}

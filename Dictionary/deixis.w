@@ -1,0 +1,1 @@
+{"index": 79864, "D": "the operation or function of deictic  elements.", "S": [], "A": []}

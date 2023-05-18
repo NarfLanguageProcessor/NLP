@@ -1,0 +1,1 @@
+{"index": 339896, "D": "to state  or represent less strongly or strikingly than the facts would bear out; set forth in restrained, moderate, or weak terms", "S": ["downplay ", "lessen ", "minimize ", "underrate ", "undervalue "], "A": ["enlarge ", "overestimate ", "overrate ", "overvalue "]}

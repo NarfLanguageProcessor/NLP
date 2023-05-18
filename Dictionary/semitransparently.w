@@ -1,0 +1,1 @@
+{"index": 285095, "D": "imperfectly or almost transparent. ", "S": [], "A": []}

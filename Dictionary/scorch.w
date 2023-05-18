@@ -1,0 +1,1 @@
+{"index": 281247, "D": "to affect the color, taste, etc., of by burning slightly", "S": ["bake ", "blacken ", "char ", "melt ", "parch ", "sear "], "A": ["freeze ", "grow "]}

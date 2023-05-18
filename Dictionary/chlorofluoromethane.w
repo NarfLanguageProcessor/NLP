@@ -1,0 +1,1 @@
+{"index": 55154, "D": "any of a series of gaseous or volatile methanes  substituted with chlorine and fluorine and containing little or no hydrogen", "S": [], "A": []}

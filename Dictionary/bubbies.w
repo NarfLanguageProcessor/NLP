@@ -1,0 +1,1 @@
+{"index": 41925, "D": "(used as an affectionate term of address) a young child.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365452, "D": "the quality or state of being wicked. ", "S": ["depravity ", "sinfulness "], "A": ["good ", "goodness ", "kindness ", "morality ", "virtue "]}

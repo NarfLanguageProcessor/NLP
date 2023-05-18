@@ -1,0 +1,1 @@
+{"index": 119310, "D": "an often large, finely divided leaf, especially as applied to the ferns and certain palms.", "S": [], "A": []}

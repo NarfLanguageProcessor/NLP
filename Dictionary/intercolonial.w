@@ -1,0 +1,1 @@
+{"index": 154664, "D": "between colonies, as of one country.", "S": [], "A": []}

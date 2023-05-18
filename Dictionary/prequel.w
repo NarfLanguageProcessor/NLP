@@ -1,0 +1,1 @@
+{"index": 249012, "D": "a literary, dramatic, or filmic work that prefigures a later work, as by portraying the same characters at a younger age.", "S": ["avant-garde ", "creator ", "discoverer ", "groundbreaker ", "pioneer ", "trailblazer ", "vanguard "], "A": []}

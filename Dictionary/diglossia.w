@@ -1,0 +1,1 @@
+{"index": 85495, "D": "the widespread existence within a society of sharply divergent formal and informal varieties of a language each used in different social contexts or for performing different functions, as the existence of Katharevusa and Demotic in modern Greece.", "S": [], "A": []}

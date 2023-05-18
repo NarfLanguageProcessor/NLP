@@ -1,0 +1,1 @@
+{"index": 155910, "D": "existing between the sexes; done or used by both male and female sexes", "S": ["androgynous ", "bi ", "double-gaited ", "gynandrous ", "hermaphroditic ", "hits both ways ", "monoclinous ", "swings both ways ", "switch-hitting "], "A": []}

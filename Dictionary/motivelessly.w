@@ -1,0 +1,1 @@
+{"index": 194007, "D": "something that causes a person to act in a certain way, do a certain thing, etc.; incentive.", "S": [], "A": []}

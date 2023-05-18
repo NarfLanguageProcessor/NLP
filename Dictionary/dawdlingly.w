@@ -1,0 +1,1 @@
+{"index": 77336, "D": "to waste time; idle; trifle; loiter", "S": [], "A": []}

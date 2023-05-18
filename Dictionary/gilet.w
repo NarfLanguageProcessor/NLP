@@ -1,0 +1,1 @@
+{"index": 124912, "D": "a waist- or hip-length garment, usually sleeveless, fastening up the front; sometimes made from a quilted fabric, and designed to be worn over a blouse, shirt, etc", "S": [], "A": []}

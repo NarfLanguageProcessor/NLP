@@ -1,0 +1,1 @@
+{"index": 101675, "D": "a decorative border of interlaced garlands and leaves.", "S": [], "A": []}

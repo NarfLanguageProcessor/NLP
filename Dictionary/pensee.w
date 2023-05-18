@@ -1,0 +1,1 @@
+{"index": 229813, "D": "a reflection or thought.", "S": [], "A": []}

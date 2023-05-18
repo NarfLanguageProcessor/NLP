@@ -1,0 +1,1 @@
+{"index": 350893, "D": [], "S": ["absolutely ", "assuredly ", "certainly ", "clearly ", "definitely ", "evidently ", "indeed ", "inevitably ", "inexorably ", "plainly ", "undoubtedly ", "unquestionably "], "A": ["doubtfully ", "dubiously ", "indefinite ", "indefinitely ", "questionably ", "vaguely "]}

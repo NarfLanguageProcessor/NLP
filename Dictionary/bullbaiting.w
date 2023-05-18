@@ -1,0 +1,1 @@
+{"index": 42501, "D": "the action or sport of setting dogs upon a bull in a pen or arena.", "S": [], "A": []}

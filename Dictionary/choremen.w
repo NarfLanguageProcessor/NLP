@@ -1,0 +1,1 @@
+{"index": 55766, "D": "a menial worker, as in a logging camp.", "S": [], "A": []}

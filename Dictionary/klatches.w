@@ -1,0 +1,1 @@
+{"index": 165307, "D": "a casual gathering of people, especially for refreshments and informal conversation", "S": [], "A": []}

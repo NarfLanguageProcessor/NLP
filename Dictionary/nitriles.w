@@ -1,0 +1,1 @@
+{"index": 200380, "D": "any of a class of organic compounds with the general formula RC\u2261N.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343209, "D": "by small degrees or little by little", "S": [], "A": []}

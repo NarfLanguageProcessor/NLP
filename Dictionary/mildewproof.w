@@ -1,0 +1,1 @@
+{"index": 187125, "D": "able to withstand or repel the effect of mildew. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155621, "D": "the period of the cell cycle  during which the nucleus is not undergoing division, typically occurring between mitotic or meiotic divisions.", "S": [], "A": []}

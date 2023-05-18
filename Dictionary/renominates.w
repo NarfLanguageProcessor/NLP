@@ -1,0 +1,1 @@
+{"index": 267698, "D": "to propose (someone) for appointment or election to an office.", "S": [], "A": []}

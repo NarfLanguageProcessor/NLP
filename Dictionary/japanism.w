@@ -1,0 +1,1 @@
+{"index": 160373, "D": "a custom, trait, or other feature peculiar to or characteristic of Japan or its people.", "S": [], "A": []}

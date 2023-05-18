@@ -1,0 +1,1 @@
+{"index": 362906, "D": "a warp in an airfoil that gives an increase in the angle of attack toward the tip.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 338374, "D": "not damped  or dampened; undiminished, as in energy, vigor, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249590, "D": "a symbol indicating the location of a book in the library.", "S": ["call mark ", "shelf mark "], "A": []}

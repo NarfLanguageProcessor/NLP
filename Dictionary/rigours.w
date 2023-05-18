@@ -1,0 +1,1 @@
+{"index": 272886, "D": "a variant of rigor. ", "S": [], "A": []}

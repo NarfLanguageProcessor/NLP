@@ -1,0 +1,1 @@
+{"index": 48389, "D": "a heavy fabric, commonly of wool or nylon, for covering floors.", "S": [], "A": []}

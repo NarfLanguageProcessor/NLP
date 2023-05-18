@@ -1,0 +1,1 @@
+{"index": 42579, "D": "a ruffian or hired hoodlum, especially one working for or associated with a political group.", "S": [], "A": []}

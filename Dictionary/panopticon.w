@@ -1,0 +1,1 @@
+{"index": 224781, "D": "a building, as a prison, hospital, library, or the like, so arranged that all parts of the interior are visible from a single point.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60837, "D": "to do or act  together.", "S": ["collegial ", "concerted ", "coordinated ", "harmonious ", "interdependent ", "reciprocal ", "symbiotic ", "united "], "A": ["disjoint ", "disobliging ", "disunited ", "divided ", "encumbering ", "hindering ", "hurting ", "preventing ", "separate ", "uncooperative ", "uncoordinated ", "unhelpful ", "unsupportive "]}

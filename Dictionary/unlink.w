@@ -1,0 +1,1 @@
+{"index": 345651, "D": "to separate the links  of (a chain, linked  bracelet, watchband, etc.); unfasten.", "S": ["break up ", "divorce ", "estrange ", "leave ", "part company ", "split "], "A": ["marry ", "come ", "connect ", "engage ", "join ", "link "]}

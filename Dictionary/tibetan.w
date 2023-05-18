@@ -1,0 +1,1 @@
+{"index": 323158, "D": "of or relating to Tibet,  its inhabitants, or their language.", "S": [], "A": []}

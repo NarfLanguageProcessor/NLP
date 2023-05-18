@@ -1,0 +1,1 @@
+{"index": 346045, "D": "a person who willingly suffers death rather than renounce their religion.", "S": [], "A": []}

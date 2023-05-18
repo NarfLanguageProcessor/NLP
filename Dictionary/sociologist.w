@@ -1,0 +1,1 @@
+{"index": 296186, "D": "the science or study of the origin, development, organization, and functioning of human society; the science of the fundamental laws of social relations, institutions, etc.", "S": [], "A": []}

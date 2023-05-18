@@ -1,0 +1,1 @@
+{"index": 222674, "D": "the third stage of prophase in meiosis, during which each chromosome pair separates into sister chromatids with some breakage and crossing over of genes.", "S": [], "A": []}

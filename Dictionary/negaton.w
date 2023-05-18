@@ -1,0 +1,1 @@
+{"index": 198029, "D": "(not in technical use) electron (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 87251, "D": "to cast aside or dispose of; get rid of", "S": ["canceling ", "disregarding ", "excepting ", "excluding ", "ignoring ", "missing ", "neglecting ", "overlooking ", "precluding ", "repudiating ", "slighting ", "withholding "], "A": ["including ", "inserting ", "mentioning "]}

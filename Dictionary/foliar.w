@@ -1,0 +1,1 @@
+{"index": 115884, "D": "of, relating to, or having the nature of a leaf or leaves.", "S": [], "A": []}

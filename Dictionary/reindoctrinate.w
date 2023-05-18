@@ -1,0 +1,1 @@
+{"index": 266242, "D": "to instruct in a doctrine,  principle, ideology, etc., especially to imbue with a specific partisan or biased belief or point of view.", "S": [], "A": []}

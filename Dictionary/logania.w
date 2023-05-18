@@ -1,0 +1,1 @@
+{"index": 174553, "D": "any of several plants or shrubs of the genus Logania, native chiefly to Australia, having small white or pink flowers.", "S": [], "A": []}

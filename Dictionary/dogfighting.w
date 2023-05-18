@@ -1,0 +1,1 @@
+{"index": 90880, "D": "a violent fight  between dogs. ", "S": [], "A": []}

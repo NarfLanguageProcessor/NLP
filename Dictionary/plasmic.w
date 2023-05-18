@@ -1,0 +1,1 @@
+{"index": 239165, "D": "the liquid part of blood or lymph, as distinguished from the suspended elements.", "S": ["biological ", "nuclear "], "A": ["accessory ", "auxiliary ", "extra ", "inessential ", "minor ", "secondary ", "trivial ", "unimportant ", "unnecessary "]}

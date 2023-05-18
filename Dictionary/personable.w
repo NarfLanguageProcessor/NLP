@@ -1,0 +1,1 @@
+{"index": 231953, "D": "having an agreeable or pleasing personality;affable; amiable; sociable. ", "S": ["affable ", "amiable ", "attractive ", "charming ", "easygoing ", "gregarious ", "likable ", "pleasant "], "A": ["disagreeable ", "hateful ", "mean ", "repellent ", "repulsive ", "surly ", "unfriendly ", "unpleasant "]}

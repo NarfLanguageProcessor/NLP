@@ -1,0 +1,1 @@
+{"index": 268466, "D": "to reprove or find fault with; rebuke; censure; blame.", "S": ["admonish ", "berate ", "censure ", "chide ", "criticize ", "denounce ", "rebuke ", "reprimand ", "reprove ", "scold "], "A": ["approve ", "commend ", "compliment ", "flatter ", "laud ", "praise "]}

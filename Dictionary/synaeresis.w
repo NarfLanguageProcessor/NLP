@@ -1,0 +1,1 @@
+{"index": 291215, "D": "the contraction of two syllables or two vowels into one, especially the contraction of two vowels so as to form a diphthong.", "S": [], "A": []}

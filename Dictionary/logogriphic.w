@@ -1,0 +1,1 @@
+{"index": 174673, "D": "an anagram,  or a puzzle involving anagrams.", "S": [], "A": []}

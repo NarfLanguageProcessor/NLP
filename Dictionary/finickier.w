@@ -1,0 +1,1 @@
+{"index": 112997, "D": "excessively particular or fastidious; difficult to please; fussy.", "S": [], "A": []}

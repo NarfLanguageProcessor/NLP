@@ -1,0 +1,1 @@
+{"index": 327720, "D": "to cause to become transcendent.", "S": [], "A": []}

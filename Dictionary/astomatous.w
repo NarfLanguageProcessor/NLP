@@ -1,0 +1,1 @@
+{"index": 22131, "D": "having no mouth, stoma, or stomata.", "S": [], "A": []}

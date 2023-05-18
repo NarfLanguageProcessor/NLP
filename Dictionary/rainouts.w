@@ -1,0 +1,1 @@
+{"index": 260109, "D": "a contest, performance, or the like, that has been rained out.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108232, "D": "the principle that sets are definable in terms of their elements alone, whatever way they may have been selected. Thus {a, b}={b, a}={first two letters of the alphabet}", "S": [], "A": []}

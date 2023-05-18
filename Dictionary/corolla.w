@@ -1,0 +1,1 @@
+{"index": 69410, "D": "the inner envelope of floral leaves of a flower, usually of delicate texture and of some color other than green; the petals considered collectively.", "S": [], "A": []}

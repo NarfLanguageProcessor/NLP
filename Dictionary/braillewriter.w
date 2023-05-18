@@ -1,0 +1,1 @@
+{"index": 39721, "D": "a machine, similar to a typewriter,  for writing texts in Braille. ", "S": [], "A": []}

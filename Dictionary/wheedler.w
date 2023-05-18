@@ -1,0 +1,1 @@
+{"index": 364502, "D": "to endeavor to influence (a person) by smooth, flattering, or beguiling words or acts", "S": ["allurer ", "charmer ", "coaxer ", "lurer ", "persuader ", "siren ", "tempter "], "A": []}

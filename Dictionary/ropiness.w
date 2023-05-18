@@ -1,0 +1,1 @@
+{"index": 274378, "D": "resembling a rope  or ropes", "S": [], "A": []}

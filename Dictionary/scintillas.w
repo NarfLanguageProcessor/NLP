@@ -1,0 +1,1 @@
+{"index": 280714, "D": "a minute particle; spark; trace", "S": ["atom ", "crumb ", "dab ", "dash ", "drop ", "flash ", "hint ", "iota ", "particle ", "pinch ", "ray ", "shade ", "shred ", "smidgen ", "sparkle ", "speck ", "spot ", "whiff ", "whisper "], "A": ["dullness ", "glob ", "lot "]}

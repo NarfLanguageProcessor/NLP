@@ -1,0 +1,1 @@
+{"index": 153792, "D": "to fill with an animating, quickening, or exalting influence", "S": ["inspiriting "], "A": ["sad "]}

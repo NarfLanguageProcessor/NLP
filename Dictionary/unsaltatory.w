@@ -1,0 +1,1 @@
+{"index": 350271, "D": "pertaining to or adapted for saltation.", "S": [], "A": []}

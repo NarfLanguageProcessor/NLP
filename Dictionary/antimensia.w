@@ -1,0 +1,1 @@
+{"index": 15540, "D": "a consecrated linen or silk cloth, kept on an altar, to which is sewn a linen or silk bag containing relics of saints.", "S": [], "A": []}

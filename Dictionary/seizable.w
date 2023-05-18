@@ -1,0 +1,1 @@
+{"index": 283362, "D": "to take hold of suddenly or forcibly; grasp", "S": [], "A": []}

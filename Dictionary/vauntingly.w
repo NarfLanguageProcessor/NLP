@@ -1,0 +1,1 @@
+{"index": 357567, "D": "to speak vaingloriously of; boast of", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95531, "D": "any of the blastomeres that participate in the development of the ectoderm.", "S": [], "A": []}

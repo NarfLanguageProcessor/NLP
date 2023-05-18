@@ -1,0 +1,1 @@
+{"index": 150058, "D": "not commensurate;  disproportionate; inadequate", "S": ["bias ", "difference ", "discrimination ", "disparity ", "diversity ", "injustice ", "unfairness "], "A": ["alikeness ", "equality ", "fairness ", "impartiality ", "likeness ", "sameness ", "similarity ", "uniformity ", "agreement ", "evenness ", "kindness ", "regularity "]}

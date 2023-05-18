@@ -1,0 +1,1 @@
+{"index": 281616, "D": "a card or ticket having one or more sections coated with an opaque substance that can be scratched off to reveal a possible prize.", "S": [], "A": []}

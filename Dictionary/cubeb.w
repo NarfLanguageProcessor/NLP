@@ -1,0 +1,1 @@
+{"index": 74441, "D": "the spicy fruit or drupe of an East Indian climbing shrub, Piper cubeba, of the pepper family.", "S": ["smoke "], "A": []}

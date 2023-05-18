@@ -1,0 +1,1 @@
+{"index": 184902, "D": "in a way that constitutes a metaphor,  a figure of speech that refers to one thing in terms of another, suggesting a resemblance between the two", "S": [], "A": []}

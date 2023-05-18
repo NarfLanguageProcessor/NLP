@@ -1,0 +1,1 @@
+{"index": 360594, "D": "a skin disorder characterized by smooth, white patches on various parts of the body, caused by the loss of the natural pigment.", "S": [], "A": []}

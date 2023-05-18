@@ -1,0 +1,1 @@
+{"index": 347301, "D": "to overcome, master, or subdue by superior force", "S": [], "A": []}

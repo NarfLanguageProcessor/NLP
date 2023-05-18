@@ -1,0 +1,1 @@
+{"index": 216144, "D": "to cook by dry heat in an oven or on heated metal or stones.", "S": [], "A": []}

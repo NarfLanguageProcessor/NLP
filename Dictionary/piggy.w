@@ -1,0 +1,1 @@
+{"index": 236369, "D": "a small or young pig. ", "S": ["covetous ", "devouring ", "edacious ", "gorging ", "gourmandizing ", "greedy ", "gross ", "hoggish ", "insatiable ", "never full ", "omnivorous ", "piggish ", "prodigious ", "rapacious ", "ravening ", "ravenous ", "sating ", "starved ", "starving ", "unquenchable ", "wolfish "], "A": []}

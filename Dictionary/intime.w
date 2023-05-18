@@ -1,0 +1,1 @@
+{"index": 156310, "D": "intimate; cozy.", "S": ["accessory ", "adjuvant ", "attendant ", "attending ", "belonging ", "coefficient ", "coeval ", "collateral ", "complementary ", "contemporary ", "coordinate ", "corollary ", "fellow ", "incident ", "joint ", "satellite "], "A": ["accidental ", "chance ", "unrelated "]}

@@ -1,0 +1,1 @@
+{"index": 191780, "D": "a house or place of residence occupied by a community of persons, especially monks, living in seclusion under religious vows.", "S": [], "A": []}

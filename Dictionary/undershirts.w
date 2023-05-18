@@ -1,0 +1,1 @@
+{"index": 339793, "D": "a collarless, usually pullover undergarment for the torso, usually of cotton and either sleeveless and low-cut or with sleeves, worn chiefly by men and children.", "S": ["bikini ", "bra ", "corset ", "lingerie ", "shorts ", "undergarment ", "underpants "], "A": []}

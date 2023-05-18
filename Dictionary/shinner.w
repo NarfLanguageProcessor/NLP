@@ -1,0 +1,1 @@
+{"index": 288379, "D": "a supporter or member of Sinn F\u00e9in", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311058, "D": "a burst  of sunlight; a sudden shining of the sun  through rifted clouds.", "S": [], "A": []}

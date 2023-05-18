@@ -1,0 +1,1 @@
+{"index": 124241, "D": "being in the earliest stage of development", "S": ["burgeoning ", "fledgling ", "growing ", "incipient ", "nascent ", "promising "], "A": ["dying ", "shrinking ", "withering "]}

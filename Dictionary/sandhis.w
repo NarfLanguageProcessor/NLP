@@ -1,0 +1,1 @@
+{"index": 277769, "D": "morphophonemic alternation, especially as determined by phonetic environment, as in dontcha for don't you.", "S": [], "A": []}

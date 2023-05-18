@@ -1,0 +1,1 @@
+{"index": 221311, "D": "to provide an excessive number of staff for (a factory, hotel, etc)", "S": [], "A": []}

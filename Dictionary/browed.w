@@ -1,0 +1,1 @@
+{"index": 41628, "D": "having a brow  of a specified kind (usually used in combination)", "S": [], "A": []}

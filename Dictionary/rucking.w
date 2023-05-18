@@ -1,0 +1,1 @@
+{"index": 275250, "D": "a large number or quantity; mass.", "S": ["crease ", "crumple ", "pucker ", "rumple ", "screw up ", "scrunch "], "A": ["smooth ", "expand ", "grow ", "straighten "]}

@@ -1,0 +1,1 @@
+{"index": 230457, "D": "the act or state of percolating  or of being percolated. ", "S": ["crack ", "exposure ", "flow ", "leakage "], "A": []}

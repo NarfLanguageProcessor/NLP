@@ -1,0 +1,1 @@
+{"index": 113372, "D": "like a fish  in shape, smell, taste, or the like.", "S": [], "A": []}

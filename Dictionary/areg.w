@@ -1,0 +1,1 @@
+{"index": 19336, "D": "a plural of erg 2", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 357256, "D": "a combining form representing various, variable,  and variety  in compound words", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294549, "D": "a channel controlled by a sluice  gate.", "S": [], "A": []}

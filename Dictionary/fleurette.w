@@ -1,0 +1,1 @@
+{"index": 114474, "D": "an ornament formed like a small conventionalized flower.", "S": [], "A": []}

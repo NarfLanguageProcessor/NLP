@@ -1,0 +1,1 @@
+{"index": 250049, "D": "pleasing or attractive to the eye, as by delicacy or gracefulness", "S": ["attractive ", "beautiful ", "charming ", "cute ", "elegant ", "good-looking ", "graceful ", "handsome ", "lovely ", "neat ", "pleasant "], "A": ["homely ", "repulsive ", "ugly ", "unattractive "]}

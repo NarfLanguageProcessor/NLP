@@ -1,0 +1,1 @@
+{"index": 44958, "D": "the act or process of calculating;  computation.", "S": ["arithmetic ", "computation ", "counting ", "estimate ", "estimation ", "forecast ", "judgment ", "prediction "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169381, "D": "a stretch of open, grass-covered land, especially one closely mowed, as near a house, on an estate, or in a park.", "S": [], "A": []}

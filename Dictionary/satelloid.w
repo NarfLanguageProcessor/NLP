@@ -1,0 +1,1 @@
+{"index": 278692, "D": "a low-altitude satellite  using engines with small thrust to maintain its orbit.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199110, "D": "a semiconscious nonreactive state induced by certain drug combinations, as fentanyl with droperidol.", "S": [], "A": []}

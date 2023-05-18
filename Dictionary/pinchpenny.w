@@ -1,0 +1,1 @@
+{"index": 236952, "D": "a stingy person; miser.", "S": ["avaricious ", "cheap ", "chintzy ", "close-fisted ", "costive ", "curmudgeonly ", "economical ", "frugal ", "greedy ", "hoarding ", "miserly ", "parsimonious ", "penny-pinching ", "pennywise ", "saving ", "scrimping ", "sparing ", "thrifty ", "tightfisted ", "uncharitable ", "ungenerous ", "ungiving "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159189, "D": "any freshwater, marine, or terrestrial crustacean of the order or suborder Isopoda, having seven pairs of legs typically adapted for crawling, and a dorsoventrally flattened body, and including wood lice, several aquatic parasites of crabs and shrimps, and numerous swimming or bottom-dwelling species.", "S": [], "A": []}

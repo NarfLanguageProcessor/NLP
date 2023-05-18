@@ -1,0 +1,1 @@
+{"index": 142756, "D": "bred  or raised at home;  native; indigenous; domestic.", "S": [], "A": []}

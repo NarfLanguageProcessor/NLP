@@ -1,0 +1,1 @@
+{"index": 277767, "D": "a ritual of worship and meditation performed three times a day by Hindus of the higher castes.", "S": [], "A": []}

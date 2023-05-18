@@ -1,0 +1,1 @@
+{"index": 184794, "D": "the act or technique of making metal  objects.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62215, "D": "to wobble or rock; be unsteady", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219862, "D": "the act or fact of insisting. ", "S": [], "A": []}

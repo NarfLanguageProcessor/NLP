@@ -1,0 +1,1 @@
+{"index": 325095, "D": "warm fellowship, as among members of a family.", "S": ["affection ", "closeness ", "intimacy "], "A": ["disaffection ", "discord ", "estrangement ", "unfriendliness "]}

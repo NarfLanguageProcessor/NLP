@@ -1,0 +1,1 @@
+{"index": 105383, "D": "the doctrine that the basis of moral obligations is to be found in the tendency of right actions to produce happiness.", "S": [], "A": []}

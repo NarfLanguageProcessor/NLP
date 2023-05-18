@@ -1,0 +1,1 @@
+{"index": 20511, "D": "any of the smallest branches of an artery, terminating in capillaries.", "S": ["artery ", "capillary ", "vein "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64217, "D": "to make communal;  to make (land, a business, etc.) the property of the community", "S": [], "A": []}

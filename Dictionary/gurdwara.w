@@ -1,0 +1,1 @@
+{"index": 131469, "D": "a Sikh temple in India.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189663, "D": "the act or process of navigating. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239421, "D": "a native alloy of platinum with palladium, iridium, osmium, etc.", "S": [], "A": []}

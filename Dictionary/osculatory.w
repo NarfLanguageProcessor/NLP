@@ -1,0 +1,1 @@
+{"index": 215313, "D": "to come into close contact or union.", "S": [], "A": []}

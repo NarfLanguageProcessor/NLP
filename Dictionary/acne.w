@@ -1,0 +1,1 @@
+{"index": 2594, "D": "an inflammatory disease of the sebaceous glands, characterized by comedones and pimples, especially on the face, back, and chest, and, in severe cases, by cysts and nodules resulting in scarring.", "S": ["blackheads ", "pimples ", "pustules ", "rosacea ", "whiteheads ", "zits "], "A": []}

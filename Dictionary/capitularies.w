@@ -1,0 +1,1 @@
+{"index": 46949, "D": "pertaining to a chapter, especially to an ecclesiastical one.", "S": [], "A": []}

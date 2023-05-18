@@ -1,0 +1,1 @@
+{"index": 323951, "D": "a moth of the family Tineidae, comprising the clothes moths.", "S": [], "A": []}

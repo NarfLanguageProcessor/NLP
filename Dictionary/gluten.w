@@ -1,0 +1,1 @@
+{"index": 126955, "D": "the tough, viscid, nitrogenous substance remaining when the flour of wheat or other grain is washed to remove the starch.", "S": ["cereal ", "grass "], "A": []}

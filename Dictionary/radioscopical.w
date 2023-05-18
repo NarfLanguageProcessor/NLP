@@ -1,0 +1,1 @@
+{"index": 259766, "D": "the examination of objects opaque to light by means of another form of radiation, usually x-rays.", "S": [], "A": []}

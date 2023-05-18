@@ -1,0 +1,1 @@
+{"index": 345483, "D": "(of gasoline) containing no tetraethyllead; lead-free.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253961, "D": "projecting or protuberant; thrusting forward, upward, or outward.", "S": [], "A": []}

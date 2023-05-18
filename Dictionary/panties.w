@@ -1,0 +1,1 @@
+{"index": 224951, "D": "underpants or undershorts for women and children.", "S": ["bikini ", "briefs ", "lingerie ", "underclothes ", "undergarment ", "underpants ", "undies "], "A": []}

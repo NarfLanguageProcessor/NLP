@@ -1,0 +1,1 @@
+{"index": 363097, "D": "a word or short phrase to be communicated, on challenge, to a sentinel or guard; password or countersign.", "S": ["countersign ", "cry ", "parole ", "password ", "shibboleth ", "sign ", "signal ", "slogan "], "A": []}

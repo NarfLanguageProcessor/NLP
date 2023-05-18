@@ -1,0 +1,1 @@
+{"index": 63062, "D": "intestinal cramps or other intestinal disturbances.", "S": ["dithers ", "heart skipping a beat ", "heebie-jeebies "], "A": []}

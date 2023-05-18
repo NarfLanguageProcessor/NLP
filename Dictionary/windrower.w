@@ -1,0 +1,1 @@
+{"index": 366032, "D": "a farm implement used to mow a field and arrange the mown crop in windrows. ", "S": [], "A": []}

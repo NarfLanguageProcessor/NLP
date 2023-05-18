@@ -1,0 +1,1 @@
+{"index": 114078, "D": "a foot  with such an arch.", "S": ["bobby ", "constable ", "cop ", "detective ", "officer ", "patrolman ", "policeman ", "policewoman "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 44772, "D": "a cylindrical vessel through which vertical tubes pass, esp one forming part of an evaporator, heat exchanger, or nuclear reactor", "S": [], "A": []}

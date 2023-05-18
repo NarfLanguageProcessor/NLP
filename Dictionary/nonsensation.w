@@ -1,0 +1,1 @@
+{"index": 207121, "D": "the operation or function of the senses;  perception or awareness of stimuli through the senses.", "S": [], "A": []}

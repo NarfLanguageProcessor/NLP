@@ -1,0 +1,1 @@
+{"index": 281579, "D": "a pile of old, discarded material, as metal.", "S": ["dump ", "duskheap ", "garbage dump ", "junkheap ", "junkpile ", "kitchen midden ", "landfill ", "midden ", "toxic waste dump "], "A": []}

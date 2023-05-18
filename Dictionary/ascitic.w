@@ -1,0 +1,1 @@
+{"index": 20994, "D": "accumulation of serous fluid in the peritoneal cavity; dropsy of the peritoneum.", "S": [], "A": []}

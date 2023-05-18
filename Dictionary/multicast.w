@@ -1,0 +1,1 @@
+{"index": 195009, "D": "a broadcast from one source simultaneously to several receivers on a network", "S": [], "A": []}

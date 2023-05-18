@@ -1,0 +1,1 @@
+{"index": 43189, "D": "(in the 18th and 19th centuries) a musical drama containing rhymed lyrics and resembling comic opera or a comic play containing songs.", "S": [], "A": []}

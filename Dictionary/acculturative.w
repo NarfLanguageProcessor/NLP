@@ -1,0 +1,1 @@
+{"index": 1810, "D": "to alter by acculturation,  through sharing and learning the cultural traits or social patterns of another group", "S": [], "A": []}

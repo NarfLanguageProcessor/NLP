@@ -1,0 +1,1 @@
+{"index": 364049, "D": "clearly or fully known", "S": ["accepted ", "acknowledged ", "admitted ", "common ", "established ", "familiar ", "noted ", "notorious ", "obvious ", "recognized ", "well-known "], "A": ["uncommon ", "unfamiliar ", "unknown ", "ambiguous ", "concealed ", "hidden ", "obscure ", "unclear ", "vague "]}

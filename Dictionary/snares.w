@@ -1,0 +1,1 @@
+{"index": 295335, "D": "a device, often consisting of a noose, for capturing small game.", "S": ["allurement ", "bait ", "catch ", "come-on ", "deception ", "decoy ", "enticement ", "entrapment ", "lure ", "net ", "noose ", "pitfall ", "quicksand ", "temptation ", "trick ", "wire "], "A": ["frankness ", "honesty ", "repulsion "]}

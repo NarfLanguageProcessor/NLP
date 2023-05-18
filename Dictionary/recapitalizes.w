@@ -1,0 +1,1 @@
+{"index": 262590, "D": "to renew or change the capital of.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98755, "D": "with emphasis or force", "S": ["absolutely ", "assuredly ", "certainly ", "decisively ", "distinctly ", "flatly ", "unequivocally "], "A": ["doubtfully ", "questionably "]}

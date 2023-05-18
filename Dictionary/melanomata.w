@@ -1,0 +1,1 @@
+{"index": 182750, "D": "any of several types of skin tumors characterized by the malignant growth of melanocytes. ", "S": [], "A": []}

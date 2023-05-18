@@ -1,0 +1,1 @@
+{"index": 35201, "D": "nipping; smarting; keen", "S": ["bitter ", "bleak ", "harsh ", "penetrating "], "A": ["kind ", "mild ", "nice ", "pleasant "]}

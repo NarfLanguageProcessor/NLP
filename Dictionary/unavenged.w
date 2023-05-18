@@ -1,0 +1,1 @@
+{"index": 335474, "D": "to take vengeance  or exact satisfaction for", "S": [], "A": []}

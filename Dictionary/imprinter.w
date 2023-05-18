@@ -1,0 +1,1 @@
+{"index": 149116, "D": "a person or thing that imprints. ", "S": [], "A": []}

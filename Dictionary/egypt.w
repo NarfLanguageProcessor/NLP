@@ -1,0 +1,1 @@
+{"index": 96208, "D": "Arabic Misr  [mis-ruh]  /\u02c8m\u026as r\u0259/ .Formerly United Arab Republic .", "S": [], "A": []}

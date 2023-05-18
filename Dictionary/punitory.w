@@ -1,0 +1,1 @@
+{"index": 256692, "D": "serving for, concerned with, or inflicting punishment", "S": ["castigating ", "correctional ", "disciplinary ", "in reprisal ", "in retaliation ", "penal ", "retaliative ", "retaliatory ", "revengeful ", "vindictive "], "A": []}

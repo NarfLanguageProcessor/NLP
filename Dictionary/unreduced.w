@@ -1,0 +1,1 @@
+{"index": 349271, "D": "made smaller, lower, or less; diminished", "S": ["entire ", "exhaustive ", "full ", "outright ", "thorough "], "A": ["incomplete "]}

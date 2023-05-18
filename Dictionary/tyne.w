@@ -1,0 +1,1 @@
+{"index": 323943, "D": "a river in NE England, in Northumberland, flowing E into the North Sea. About 30 miles (48 km) long.", "S": [], "A": []}

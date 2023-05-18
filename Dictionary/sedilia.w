@@ -1,0 +1,1 @@
+{"index": 282995, "D": "the group of three seats, each called a sedile (s\u025b\u02c8da\u026al\u026a), often recessed, on the south side of a sanctuary where the celebrant and ministers sit at certain points during High Mass", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 31131, "D": "a blue-white giant star in the constellation Orion, with apparent magnitude +1.63.", "S": [], "A": []}

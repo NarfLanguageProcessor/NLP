@@ -1,0 +1,1 @@
+{"index": 217329, "D": "to surpass in rowing; row  faster than.", "S": [], "A": []}

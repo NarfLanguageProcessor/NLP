@@ -1,0 +1,1 @@
+{"index": 106674, "D": "subject to excise  duty.", "S": [], "A": []}

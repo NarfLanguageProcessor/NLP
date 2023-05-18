@@ -1,0 +1,1 @@
+{"index": 117444, "D": "a tactile hallucination involving the belief that something is crawling on the body or under the skin.", "S": ["deadness ", "numbness ", "paraesthesia ", "paresthesia ", "prickling ", "sensation ", "tingle ", "tingling "], "A": []}

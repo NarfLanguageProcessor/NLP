@@ -1,0 +1,1 @@
+{"index": 65415, "D": "agreeing; harmonious.", "S": ["amiable ", "civil ", "cordial ", "courteous ", "harmonious ", "neighborly ", "peaceful ", "polite "], "A": ["disagreeable ", "impolite ", "rude ", "uncivil ", "unfriendly ", "unmannerly ", "unrefined ", "unsociable "]}

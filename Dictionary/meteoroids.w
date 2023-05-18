@@ -1,0 +1,1 @@
+{"index": 185142, "D": "any of the small bodies, often remnants of comets, traveling through space", "S": ["bolide ", "comet ", "falling star ", "fireball ", "meteorite "], "A": []}

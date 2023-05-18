@@ -1,0 +1,1 @@
+{"index": 248570, "D": "a preconception.", "S": ["apprehension ", "dread ", "premonition "], "A": ["fortune ", "good omen ", "luck ", "providence "]}

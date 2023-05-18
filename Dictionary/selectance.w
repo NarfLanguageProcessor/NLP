@@ -1,0 +1,1 @@
+{"index": 283434, "D": "a measure of the drop in response of a radio receiving set or the like to a given frequency differing from the resonant frequency of the device, expressed as the ratio of the amplitude of the response at the resonant frequency to the amplitude of the response at the given frequency.", "S": [], "A": []}

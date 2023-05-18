@@ -1,0 +1,1 @@
+{"index": 285697, "D": "the north.", "S": ["arctic ", "hyperborean ", "north ", "northerly "], "A": ["southern "]}

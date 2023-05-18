@@ -1,0 +1,1 @@
+{"index": 311350, "D": "an alloy,  often with a nickel, nickel-iron, or cobalt base, capable of withstanding very high temperatures, used in jet engines, rockets, etc.", "S": [], "A": []}

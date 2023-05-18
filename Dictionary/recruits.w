@@ -1,0 +1,1 @@
+{"index": 263656, "D": "a newly enlisted or drafted member of the armed forces.", "S": ["draftee ", "newcomer ", "rookie ", "sailor ", "soldier ", "trainee ", "volunteer "], "A": ["expert ", "professional "]}

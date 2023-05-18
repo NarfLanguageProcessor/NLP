@@ -1,0 +1,1 @@
+{"index": 226323, "D": "to cut off the outer coating, layer, or part of.", "S": ["cut back ", "cut down ", "decrease ", "lower ", "mark down ", "prune ", "reduce ", "scrape ", "shave ", "slash "], "A": ["expand ", "grow ", "increase ", "raise ", "spend ", "squander ", "waste ", "cover "]}

@@ -1,0 +1,1 @@
+{"index": 157173, "D": "to examine, study, or inquire into systematically; search or examine into the particulars of; examine in detail.", "S": ["checked ", "considered ", "explored ", "inspected ", "measured ", "questioned ", "researched ", "reviewed ", "scrutinized ", "searched ", "studied ", "tested ", "tried "], "A": ["unplanned "]}

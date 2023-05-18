@@ -1,0 +1,1 @@
+{"index": 177230, "D": "a school or college, especially a school attached to a mosque where young men study theology.", "S": [], "A": []}

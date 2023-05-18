@@ -1,0 +1,1 @@
+{"index": 108870, "D": "fabulous (def. 1). ", "S": ["big ", "significant ", "substantial "], "A": ["insignificant ", "little ", "minor ", "small ", "unimportant "]}

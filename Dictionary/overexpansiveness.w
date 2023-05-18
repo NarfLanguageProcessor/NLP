@@ -1,0 +1,1 @@
+{"index": 219251, "D": "having a wide range or extent; comprehensive; extensive", "S": [], "A": []}

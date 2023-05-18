@@ -1,0 +1,1 @@
+{"index": 223193, "D": "a container, as a jar, pail, or bucket, for holding paint while it is being applied.", "S": [], "A": []}

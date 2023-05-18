@@ -1,0 +1,1 @@
+{"index": 67006, "D": "a lake in W Europe, bounded by Germany, Austria, and Switzerland. 46 miles (74 km) long; 207 sq. mi. (536 sq. km).", "S": [], "A": []}

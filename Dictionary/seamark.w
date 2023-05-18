@@ -1,0 +1,1 @@
+{"index": 282489, "D": "a conspicuous object on land, visible from the sea,  serving to guide or warn mariners, as a beacon.", "S": [], "A": []}

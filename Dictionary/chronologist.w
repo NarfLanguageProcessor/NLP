@@ -1,0 +1,1 @@
+{"index": 56455, "D": "a person versed in chronology. ", "S": [], "A": []}

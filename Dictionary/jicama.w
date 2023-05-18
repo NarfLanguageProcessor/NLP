@@ -1,0 +1,1 @@
+{"index": 161178, "D": "the large, edible, tuberous root of a tropical American plant, Pachyrhizus erosus, of the legume family, eaten as a vegetable either raw or boiled.", "S": [], "A": []}

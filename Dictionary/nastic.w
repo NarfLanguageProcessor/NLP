@@ -1,0 +1,1 @@
+{"index": 197189, "D": "of or showing sufficiently greater cellular force or growth on one side of an axis to change the form or position of the axis.", "S": [], "A": []}

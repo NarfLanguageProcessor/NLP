@@ -1,0 +1,1 @@
+{"index": 295859, "D": "a structure, as over an extent of railroad track on a mountainside, for protection against snow. ", "S": [], "A": []}

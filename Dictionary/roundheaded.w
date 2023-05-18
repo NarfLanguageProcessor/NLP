@@ -1,0 +1,1 @@
+{"index": 274859, "D": "(of a person) possessing a round  head; brachycephalic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257840, "D": "the beliefs, principles, and practices of Quakers. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309603, "D": "of, relating to, or shaped like a triangle; having three angles; triangular.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82906, "D": "a spoon  intermediate in size between a tablespoon and a teaspoon, used in eating certain desserts. ", "S": [], "A": []}

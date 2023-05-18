@@ -1,0 +1,1 @@
+{"index": 92302, "D": "to shift  an automotive transmission or vehicle into a lower gear.", "S": [], "A": []}

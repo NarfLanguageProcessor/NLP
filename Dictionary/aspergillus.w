@@ -1,0 +1,1 @@
+{"index": 21406, "D": "any fungus of the genus Aspergillus, having sporophores with a bristly, knoblike top.", "S": [], "A": []}

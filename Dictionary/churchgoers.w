@@ -1,0 +1,1 @@
+{"index": 56674, "D": "a person who goes  to church,  especially habitually.", "S": ["audience ", "crowd ", "flock ", "gathering ", "parish ", "throng "], "A": ["division ", "separation "]}

@@ -1,0 +1,1 @@
+{"index": 221885, "D": "past participle of overwear. ", "S": [], "A": []}

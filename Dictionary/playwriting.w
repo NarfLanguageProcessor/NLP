@@ -1,0 +1,1 @@
+{"index": 238874, "D": "the art or technique of writing  theatrical plays;  the work or profession of a playwright.", "S": [], "A": []}

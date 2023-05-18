@@ -1,0 +1,1 @@
+{"index": 312691, "D": "greater than the speed of sound waves through air.", "S": [], "A": []}

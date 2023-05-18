@@ -1,0 +1,1 @@
+{"index": 56123, "D": "to receive into the Christian church by baptism; baptize.", "S": [], "A": []}

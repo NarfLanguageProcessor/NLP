@@ -1,0 +1,1 @@
+{"index": 50035, "D": "the doctrine or theory that every event is the result of a prior and adequate cause.", "S": [], "A": []}

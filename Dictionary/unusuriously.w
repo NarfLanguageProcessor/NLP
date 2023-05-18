@@ -1,0 +1,1 @@
+{"index": 353601, "D": "practicing usury;  charging illegal or exorbitant rates of interest for the use of money", "S": [], "A": []}

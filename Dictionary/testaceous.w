@@ -1,0 +1,1 @@
+{"index": 319746, "D": "of, relating to, or derived from shells.", "S": [], "A": []}

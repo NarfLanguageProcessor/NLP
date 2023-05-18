@@ -1,0 +1,1 @@
+{"index": 124176, "D": "a microorganism, especially when disease-producing; microbe.", "S": ["antibody ", "bacterium ", "bug ", "disease ", "microbe ", "microorganism ", "pathogen ", "virus "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49349, "D": "the use of a word or phrase to refer to a following word or group of words, as the use of the phrase as follows.", "S": [], "A": []}

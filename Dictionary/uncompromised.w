@@ -1,0 +1,1 @@
+{"index": 337446, "D": "unable to function optimally, especially with regard to immune response, owing to underlying disease, harmful environmental exposure, or the side effects of a course of treatment.", "S": [], "A": []}

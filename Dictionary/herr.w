@@ -1,0 +1,1 @@
+{"index": 137316, "D": "the conventional German title of respect and term of address for a man, corresponding to Mr. or in direct address to sir.", "S": [], "A": []}

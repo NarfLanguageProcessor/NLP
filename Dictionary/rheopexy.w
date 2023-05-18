@@ -1,0 +1,1 @@
+{"index": 271879, "D": "the property exhibited by certain slow-gelling, thixotropic sols of gelling more rapidly when the containing vessel is shaken gently.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 280207, "D": "any of several plants of the genus Schizanthus, native to Chile, having numerous variously colored flowers resembling small orchids.", "S": [], "A": []}

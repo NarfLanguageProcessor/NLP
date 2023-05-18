@@ -1,0 +1,1 @@
+{"index": 121870, "D": "any of certain masses of gray matter in the brain, as the basal ganglia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312484, "D": "beyond the scope or range of reason; intuitional.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335300, "D": "not open to attack or assault, as by military force or argument", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73856, "D": "a bridge or other structure for crossing over a river, highway, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26621, "D": [], "S": ["cooking ", "melting ", "warming "], "A": ["cooling ", "freezing ", "refrigeration "]}

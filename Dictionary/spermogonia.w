@@ -1,0 +1,1 @@
+{"index": 299287, "D": "one of the cup-shaped or flask-shaped receptacles in which the spermatia of certain fungi and red algae are produced.", "S": [], "A": []}

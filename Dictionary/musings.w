@@ -1,0 +1,1 @@
+{"index": 196033, "D": "absorbed in thought; meditative.", "S": ["introspection ", "meditation ", "pensiveness ", "pondering ", "reflection ", "reverie "], "A": []}

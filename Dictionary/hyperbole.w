@@ -1,0 +1,1 @@
+{"index": 139908, "D": "obvious and intentional exaggeration.", "S": ["hype ", "metaphor ", "overstatement "], "A": ["compression ", "decrease ", "lessening "]}

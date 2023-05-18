@@ -1,0 +1,1 @@
+{"index": 294065, "D": "small in amount, degree, etc.", "S": ["early "], "A": ["last ", "ending ", "extra ", "final ", "following ", "second "]}

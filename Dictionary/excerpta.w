@@ -1,0 +1,1 @@
+{"index": 106630, "D": "short selections or pieces of writing, especially summary statements or parts of a longer work.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64961, "D": "causing or feeling compunction;  regretful.", "S": [], "A": []}

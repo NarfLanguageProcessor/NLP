@@ -1,0 +1,1 @@
+{"index": 222314, "D": "an apparatus that oxygenates the blood, esp while a patient is undergoing an operation", "S": [], "A": []}

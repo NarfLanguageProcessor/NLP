@@ -1,0 +1,1 @@
+{"index": 187743, "D": "any of various gases dissolved in magma that affect the crystallization of igneous rocks and the formation of minerals when the magma cools", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310314, "D": "a set of clothing, armor, or the like, intended for wear together.", "S": ["costume ", "dress ", "ensemble ", "tuxedo ", "uniform ", "wardrobe "], "A": []}

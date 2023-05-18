@@ -1,0 +1,1 @@
+{"index": 298209, "D": "preliminary or initial work,  such as the gathering of data, on which further activity is to be based.", "S": [], "A": []}

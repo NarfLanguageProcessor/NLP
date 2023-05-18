@@ -1,0 +1,1 @@
+{"index": 59847, "D": "any of numerous tropical trees or shrubs of the genus Clerodendrum, having clusters of variously colored flowers.", "S": [], "A": []}

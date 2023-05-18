@@ -1,0 +1,1 @@
+{"index": 232071, "D": "a salt of persulfuric acid, as potassium persulfate, K2S2O5 or K2S2O8.", "S": [], "A": []}

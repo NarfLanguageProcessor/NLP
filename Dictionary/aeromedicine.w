@@ -1,0 +1,1 @@
+{"index": 5064, "D": "aviation medicine. ", "S": ["aviation medicine ", "space medicine "], "A": []}

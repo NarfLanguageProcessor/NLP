@@ -1,0 +1,1 @@
+{"index": 62771, "D": "any of several American quails, especially the bobwhite.", "S": [], "A": []}

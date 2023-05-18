@@ -1,0 +1,1 @@
+{"index": 39360, "D": "a Mexican laborer admitted legally into the U.S. for a short period to perform seasonal, usually agricultural, labor.", "S": [], "A": []}

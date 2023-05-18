@@ -1,0 +1,1 @@
+{"index": 78886, "D": "wholly committed to something, as to an ideal, political cause, or personal goal", "S": [], "A": []}

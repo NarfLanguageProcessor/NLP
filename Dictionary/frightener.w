@@ -1,0 +1,1 @@
+{"index": 118998, "D": "a person or thing that causes fear", "S": [], "A": []}

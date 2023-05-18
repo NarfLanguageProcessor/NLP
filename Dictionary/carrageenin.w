@@ -1,0 +1,1 @@
+{"index": 48481, "D": "a colloidal substance extracted from seaweed, chiefly used as an emulsifying and stabilizing ingredient in foods, cosmetics, and pharmaceuticals.", "S": [], "A": []}

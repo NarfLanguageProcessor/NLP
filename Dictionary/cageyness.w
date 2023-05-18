@@ -1,0 +1,1 @@
+{"index": 44516, "D": "cautious, wary, or shrewd", "S": ["art "], "A": ["artlessness ", "frankness ", "honesty ", "openness ", "sincerity "]}

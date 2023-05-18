@@ -1,0 +1,1 @@
+{"index": 337494, "D": "contrived or arranged by agreement; planned or devised together", "S": [], "A": []}

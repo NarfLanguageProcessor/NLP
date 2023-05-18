@@ -1,0 +1,1 @@
+{"index": 239266, "D": "a person, especially a terrorist, who makes, places, or detonates plastic bombs.", "S": [], "A": []}

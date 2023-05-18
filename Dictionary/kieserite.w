@@ -1,0 +1,1 @@
+{"index": 164519, "D": "a mineral, hydrous magnesium sulfate, MgSO4\u22c5H2O, having a white or yellowish color and found with salt deposits.", "S": [], "A": []}

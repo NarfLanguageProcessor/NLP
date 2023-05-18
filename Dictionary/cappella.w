@@ -1,0 +1,1 @@
+{"index": 47029, "D": " without instrumental accompaniment.", "S": [], "A": []}

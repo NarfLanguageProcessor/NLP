@@ -1,0 +1,1 @@
+{"index": 201428, "D": "fond of or given to argument  and dispute; disputatious; contentious", "S": [], "A": []}

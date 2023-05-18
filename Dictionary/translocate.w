@@ -1,0 +1,1 @@
+{"index": 328049, "D": "to move or transfer from one place to another; cause to change location; displace; dislocate.", "S": [], "A": []}

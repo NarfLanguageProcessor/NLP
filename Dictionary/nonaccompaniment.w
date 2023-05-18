@@ -1,0 +1,1 @@
+{"index": 201030, "D": "something incidental or added for ornament, symmetry, etc.", "S": [], "A": []}

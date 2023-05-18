@@ -1,0 +1,1 @@
+{"index": 370057, "D": "a small, round skullcap worn by Roman Catholic ecclesiastics, a priest's being black, a bishop's violet, a cardinal's red, and the pope's white; calotte.", "S": [], "A": []}

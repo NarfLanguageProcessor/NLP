@@ -1,0 +1,1 @@
+{"index": 140436, "D": "an increase in the breathing rate or in the depth of breathing, as after strenuous exercise", "S": [], "A": []}

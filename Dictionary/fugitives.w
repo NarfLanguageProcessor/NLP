@@ -1,0 +1,1 @@
+{"index": 119833, "D": "a person who is fleeing, as from prosecution, intolerable circumstances, etc.; a runaway", "S": ["elusive ", "wanted "], "A": ["enduring ", "lasting ", "lengthy ", "long ", "permanent "]}

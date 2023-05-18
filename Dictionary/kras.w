@@ -1,0 +1,1 @@
+{"index": 166240, "D": "the narrowest part of the Malay Peninsula, between the Bay of Bengal and the Gulf of Siam. 35 miles (56 km) wide.", "S": [], "A": []}

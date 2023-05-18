@@ -1,0 +1,1 @@
+{"index": 280538, "D": "a mineral, iron-nickel phosphide, (Fe, Ni)3P, found only in meteorites.", "S": [], "A": []}

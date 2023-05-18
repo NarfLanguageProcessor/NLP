@@ -1,0 +1,1 @@
+{"index": 298162, "D": "a sealed and pressurized suit  designed to allow the wearer to leave a pressurized cabin in outer space  or at extremely high altitudes within the atmosphere.", "S": [], "A": []}

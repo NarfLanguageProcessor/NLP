@@ -1,0 +1,1 @@
+{"index": 181859, "D": "a city in and the capital of Hejaz, in western Saudi Arabia", "S": ["aim ", "capital ", "destination ", "focus ", "heart ", "hub ", "objective ", "purpose "], "A": ["exterior ", "exteriority ", "outside "]}

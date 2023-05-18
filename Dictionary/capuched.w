@@ -1,0 +1,1 @@
+{"index": 47233, "D": "a hood or cowl, especially the long, pointed cowl of the Capuchins.", "S": [], "A": []}

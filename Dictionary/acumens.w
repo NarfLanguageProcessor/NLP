@@ -1,0 +1,1 @@
+{"index": 3346, "D": "keen insight; shrewdness", "S": ["acuity ", "awareness ", "brilliance ", "guile ", "ingenuity ", "insight ", "intellect ", "intelligence ", "intuition ", "judgment ", "sensitivity ", "shrewdness ", "vision ", "wisdom ", "wit "], "A": ["ignorance ", "insensitivity ", "stupidity ", "misinterpretation ", "mistake ", "misunderstanding "]}

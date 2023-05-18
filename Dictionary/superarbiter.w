@@ -1,0 +1,1 @@
+{"index": 311379, "D": "a person empowered to decide matters at issue; judge; umpire.", "S": [], "A": []}

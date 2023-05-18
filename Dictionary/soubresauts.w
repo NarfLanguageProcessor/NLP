@@ -1,0 +1,1 @@
+{"index": 297774, "D": "a jump performed with the legs held together and the body erect but slightly curved to the side.", "S": [], "A": []}

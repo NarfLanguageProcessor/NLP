@@ -1,0 +1,1 @@
+{"index": 270432, "D": "a slip, usually of paper or cardboard, serving as evidence that the holder has paid a fare or admission or is entitled to some service, right, or the like", "S": [], "A": []}

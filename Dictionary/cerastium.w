@@ -1,0 +1,1 @@
+{"index": 51249, "D": "any of various low-growing plants of the genus Cerastium, having leaves covered with whitish or grayish down and small white flowers, and including mouse-ear chickweed and snow-in-summer.", "S": [], "A": []}

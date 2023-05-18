@@ -1,0 +1,1 @@
+{"index": 122836, "D": "a stiff compact clay or thick heavy clayey soil", "S": [], "A": []}

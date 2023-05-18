@@ -1,0 +1,1 @@
+{"index": 319296, "D": "a salt or ester of terephthalic acid. ", "S": [], "A": []}

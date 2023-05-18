@@ -1,0 +1,1 @@
+{"index": 200761, "D": "a shave for shaping dowels and handles.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 135129, "D": "a person who harasses a public speaker or performer with impertinent questions, insults, etc.", "S": ["botherers ", "cheap seats ", "interrupters ", "paradise ", "second balcony ", "the gods ", "upper balcony "], "A": []}

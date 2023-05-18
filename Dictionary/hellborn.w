@@ -1,0 +1,1 @@
+{"index": 135657, "D": [], "S": ["demonic ", "diabolical "], "A": ["angelic ", "godlike ", "good ", "moral "]}

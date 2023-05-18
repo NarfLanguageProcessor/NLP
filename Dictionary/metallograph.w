@@ -1,0 +1,1 @@
+{"index": 184756, "D": "a microscope for observing the microstructure of metals.", "S": [], "A": []}

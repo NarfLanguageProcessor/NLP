@@ -1,0 +1,1 @@
+{"index": 124183, "D": "closely or significantly related; relevant; pertinent", "S": ["applicability ", "application ", "appositeness ", "aptness ", "bearing ", "fitness ", "materiality ", "pertinence ", "pertinency ", "propriety ", "relevancy ", "suitability ", "suitableness ", "usefulness "], "A": ["inappropriateness "]}

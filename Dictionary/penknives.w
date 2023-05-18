@@ -1,0 +1,1 @@
+{"index": 229687, "D": "a small pocketknife, formerly one used for making and sharpening quill pens. ", "S": ["Swiss Army knife ", "flick knife ", "pocketknife ", "switchblade "], "A": []}

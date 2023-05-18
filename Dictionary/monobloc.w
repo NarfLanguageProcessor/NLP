@@ -1,0 +1,1 @@
+{"index": 192096, "D": "denoting or pertaining to the casting of a complex metal object as a single piece rather than in separate parts.", "S": [], "A": []}

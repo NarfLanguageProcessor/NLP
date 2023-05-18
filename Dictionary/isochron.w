@@ -1,0 +1,1 @@
+{"index": 158845, "D": "a line on an isotope ratio diagram denoting a suite of rock or mineral samples all formed at the same time. The slope of the line is related to the age of the rock or mineral suite", "S": [], "A": []}

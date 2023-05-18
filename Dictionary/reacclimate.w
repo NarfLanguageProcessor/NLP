@@ -1,0 +1,1 @@
+{"index": 261439, "D": "to accustom or become accustomed to a new climate  or environment; adapt. ", "S": ["adapt ", "adjust ", "alter ", "regulate "], "A": ["disarrange ", "disorder ", "disorganize ", "unfit "]}

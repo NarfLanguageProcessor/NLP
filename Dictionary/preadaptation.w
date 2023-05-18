@@ -1,0 +1,1 @@
+{"index": 245519, "D": "a structure or property that developed in an ancestral stock and was useful in a descendant in a changed environment.", "S": [], "A": []}

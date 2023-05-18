@@ -1,0 +1,1 @@
+{"index": 84526, "D": "a linguistic system  forming a common denominator for a group or set of dialects. ", "S": [], "A": []}

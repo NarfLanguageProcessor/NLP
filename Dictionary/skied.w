@@ -1,0 +1,1 @@
+{"index": 293124, "D": "simple past tense of ski. ", "S": ["bounce ", "bound ", "dive ", "drop ", "fall ", "hop ", "plummet ", "skip ", "surge ", "take ", "top ", "vault "], "A": ["lose ", "retreat "]}

@@ -1,0 +1,1 @@
+{"index": 207205, "D": "the act of severing  or the state of being severed. ", "S": [], "A": []}

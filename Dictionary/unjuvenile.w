@@ -1,0 +1,1 @@
+{"index": 345266, "D": "of, pertaining to, characteristic of, or suitable or intended for young persons", "S": [], "A": []}

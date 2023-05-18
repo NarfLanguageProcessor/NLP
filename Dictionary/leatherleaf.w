@@ -1,0 +1,1 @@
+{"index": 169724, "D": "an evergreen shrub, Chamaedaphne calyculata, of the heath family, having leathery leaves  and one-sided clusters of white, bell-shaped flowers, occurring in bogs in North America.", "S": [], "A": []}

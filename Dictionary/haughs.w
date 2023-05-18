@@ -1,0 +1,1 @@
+{"index": 134287, "D": "a stretch of alluvial land forming part of a river valley; bottom land.", "S": [], "A": []}

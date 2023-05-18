@@ -1,0 +1,1 @@
+{"index": 124772, "D": "a measure of storage capacity and data transfer equal to 1 billion (109) bits. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 204962, "D": "becoming or being milky.", "S": [], "A": []}

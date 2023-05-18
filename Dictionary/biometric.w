@@ -1,0 +1,1 @@
+{"index": 34440, "D": "pertaining to biometry.", "S": [], "A": []}

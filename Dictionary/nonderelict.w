@@ -1,0 +1,1 @@
+{"index": 202942, "D": "left or deserted, as by the owner or guardian; abandoned", "S": [], "A": []}

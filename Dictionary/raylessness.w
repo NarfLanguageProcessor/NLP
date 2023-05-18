@@ -1,0 +1,1 @@
+{"index": 260031, "D": "lacking rays  or raylike parts.", "S": [], "A": []}

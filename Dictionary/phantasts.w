@@ -1,0 +1,1 @@
+{"index": 232996, "D": "a visionary or dreamer.", "S": [], "A": []}

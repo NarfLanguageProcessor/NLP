@@ -1,0 +1,1 @@
+{"index": 32696, "D": "an accelerator in which electrons are accelerated to high energies by an electric field produced by a changing magnetic field.", "S": [], "A": []}

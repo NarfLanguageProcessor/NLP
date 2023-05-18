@@ -1,0 +1,1 @@
+{"index": 293238, "D": "to scrimp.", "S": ["scrimp "], "A": ["release ", "spend ", "squander ", "waste "]}

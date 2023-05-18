@@ -1,0 +1,1 @@
+{"index": 121904, "D": "any of a class of glycolipids, found chiefly in nerve ganglia,  that upon hydrolysis yield sphingosine, neuraminic acid, a fatty acid, and a monosaccharide.", "S": [], "A": []}

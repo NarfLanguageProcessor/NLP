@@ -1,0 +1,1 @@
+{"index": 20964, "D": "plural of ascus. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 225740, "D": "to make parallel;  place so as to be parallel. ", "S": [], "A": []}

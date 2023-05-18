@@ -1,0 +1,1 @@
+{"index": 50874, "D": "divided into 100 degrees, as a scale.", "S": [], "A": []}

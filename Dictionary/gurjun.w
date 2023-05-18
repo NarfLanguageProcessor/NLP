@@ -1,0 +1,1 @@
+{"index": 131494, "D": "any of several S or SE Asian dipterocarpaceous trees of the genus Dipterocarpus that yield a resin", "S": [], "A": []}

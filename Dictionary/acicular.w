@@ -1,0 +1,1 @@
+{"index": 2398, "D": "shaped like a needle.", "S": ["acerate ", "acerose ", "acerous ", "aciculated ", "acuminate ", "acute ", "cuspated ", "cuspidated ", "mucronate ", "needle-shaped ", "pointy ", "sharp "], "A": []}

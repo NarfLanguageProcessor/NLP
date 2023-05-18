@@ -1,0 +1,1 @@
+{"index": 298938, "D": "an instrument for determining the extent to which plane-polarized light of various wavelengths is rotated by certain solutions, consisting of a combination of a spectroscope and a polarimeter. ", "S": [], "A": []}

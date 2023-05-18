@@ -1,0 +1,1 @@
+{"index": 89259, "D": "an act or instance of disqualifying. ", "S": ["elimination ", "exclusion "], "A": ["ability ", "aptitude ", "capability "]}

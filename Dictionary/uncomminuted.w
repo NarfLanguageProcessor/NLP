@@ -1,0 +1,1 @@
+{"index": 337303, "D": "to pulverize; triturate.", "S": [], "A": []}

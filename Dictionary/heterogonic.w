@@ -1,0 +1,1 @@
+{"index": 137599, "D": "of or relating to monoclinous flowers of two or more kinds occurring on different individuals of the same species, the kinds differing in the relative length of stamens and pistils (opposed to homogonous).", "S": [], "A": []}

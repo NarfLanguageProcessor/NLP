@@ -1,0 +1,1 @@
+{"index": 7378, "D": "a linen vestment with narrow sleeves, worn chiefly by priests, now invariably white in the Western Church but can be in a color in the Eastern Church.", "S": ["frock ", "garb ", "robe ", "stole ", "tunic "], "A": []}

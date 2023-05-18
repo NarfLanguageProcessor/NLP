@@ -1,0 +1,1 @@
+{"index": 291623, "D": "one of two small cells that lie inside the embryo sac of a flowering plant and nourish the ovum.", "S": [], "A": []}

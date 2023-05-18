@@ -1,0 +1,1 @@
+{"index": 308758, "D": "the legislature of Great Britain, historically the assembly of the three estates, now composed of Lords Spiritual and Lords Temporal, forming together the House of Lords, and representatives of the counties, cities, boroughs, and universities, forming the House of Commons.", "S": [], "A": []}

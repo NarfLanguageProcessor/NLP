@@ -1,0 +1,1 @@
+{"index": 27739, "D": "a shrub or small tree, Jacquinia barbasco, of tropical America, the source of a substance used to stun fish so they can be caught easily.", "S": [], "A": []}

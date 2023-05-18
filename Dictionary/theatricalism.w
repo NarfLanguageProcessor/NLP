@@ -1,0 +1,1 @@
+{"index": 320733, "D": "conduct suggesting theatrical  actions or mannerisms, especially of an extravagant or exhibitionist sort.", "S": ["acting ", "exhibitionism ", "histrionics ", "stagecraft ", "staginess ", "theatricality ", "theatricalness ", "theatrics "], "A": []}

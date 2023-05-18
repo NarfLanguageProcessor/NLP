@@ -1,0 +1,1 @@
+{"index": 130022, "D": "monochromatic painting in shades of gray.", "S": [], "A": []}

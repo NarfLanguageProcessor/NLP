@@ -1,0 +1,1 @@
+{"index": 327593, "D": "a sheet, usually of canvas, attached by resilient cords or springs to a horizontal frame several feet above the floor, used by acrobats and gymnasts as a springboard in tumbling.", "S": ["aerobatics ", "bars ", "calisthenics ", "gym ", "horse ", "rings ", "trampoline ", "trapeze ", "tumbling ", "vaulting ", "workout "], "A": []}

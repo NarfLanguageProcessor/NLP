@@ -1,0 +1,1 @@
+{"index": 189139, "D": "to direct  or address wrongly or incorrectly", "S": ["botch ", "bungle ", "err ", "flub ", "fumble ", "mistreat ", "misuse ", "muff "], "A": ["do well ", "succeed ", "benefit ", "fix ", "help ", "honor ", "respect "]}

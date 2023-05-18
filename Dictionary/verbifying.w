@@ -1,0 +1,1 @@
+{"index": 358409, "D": "to change into or employ as a verb,  as a noun.", "S": [], "A": []}

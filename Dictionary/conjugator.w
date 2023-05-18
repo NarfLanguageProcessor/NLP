@@ -1,0 +1,1 @@
+{"index": 66424, "D": "to recite or display all or some subsets of the inflected forms of (a verb), in a fixed order", "S": [], "A": []}

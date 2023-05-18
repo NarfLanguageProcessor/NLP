@@ -1,0 +1,1 @@
+{"index": 162296, "D": "to spring clear of the ground or other support by a sudden muscular effort; leap", "S": ["active ", "animated ", "beating ", "bouncing ", "bounding ", "dynamic ", "hopping ", "hurdling ", "irregular ", "leaping ", "pulsating ", "quaking ", "quivering ", "shaking ", "skipping ", "springing ", "throbbing ", "trembling "], "A": ["inactive "]}

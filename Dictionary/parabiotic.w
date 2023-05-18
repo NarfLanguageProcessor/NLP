@@ -1,0 +1,1 @@
+{"index": 225351, "D": "experimental or natural union of two individuals with exchange of blood.", "S": [], "A": []}

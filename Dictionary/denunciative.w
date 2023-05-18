@@ -1,0 +1,1 @@
+{"index": 81394, "D": "characterized by or given to denunciation.", "S": ["accusatory ", "comminative ", "comminatory ", "denunciatory "], "A": []}

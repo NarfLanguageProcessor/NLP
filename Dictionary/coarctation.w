@@ -1,0 +1,1 @@
+{"index": 61051, "D": "a congenital anomaly of the heart in which there is a narrowing of the aorta, resulting in abnormal blood flow.", "S": [], "A": []}

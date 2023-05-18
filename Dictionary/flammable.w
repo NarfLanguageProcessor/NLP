@@ -1,0 +1,1 @@
+{"index": 113895, "D": "easily set on fire; combustible; inflammable. ", "S": ["combustible ", "incendiary "], "A": ["fireproof ", "incombustible "]}

@@ -1,0 +1,1 @@
+{"index": 220476, "D": "leaving no opportunity for denial or refusal; imperative", "S": [], "A": []}

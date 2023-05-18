@@ -1,0 +1,1 @@
+{"index": 354812, "D": "inspirational; offering or providing hope, encouragement, salvation, etc.", "S": ["inspiriting "], "A": ["sad "]}

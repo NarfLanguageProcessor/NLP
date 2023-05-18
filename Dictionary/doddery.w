@@ -1,0 +1,1 @@
+{"index": 90723, "D": "shaky or trembling, as from old age; tottering", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323115, "D": "to oppose successfully; prevent from accomplishing a purpose.", "S": ["opposing "], "A": ["unwary ", "unwatchful "]}

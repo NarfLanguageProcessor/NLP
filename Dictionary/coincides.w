@@ -1,0 +1,1 @@
+{"index": 62489, "D": "to occupy the same place in space, the same point or period in time, or the same relative position", "S": ["concur ", "correspond ", "jibe "], "A": ["differ ", "disagree ", "dissent ", "oppose ", "protest ", "refuse "]}

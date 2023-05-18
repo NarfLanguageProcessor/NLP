@@ -1,0 +1,1 @@
+{"index": 205494, "D": "to combine with nitrogen  or add nitrogenous  material to.", "S": [], "A": []}

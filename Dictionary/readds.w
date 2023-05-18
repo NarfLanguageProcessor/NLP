@@ -1,0 +1,1 @@
+{"index": 261578, "D": "to unite or join so as to increase the number, quantity, size, or importance", "S": [], "A": []}

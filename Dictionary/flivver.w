@@ -1,0 +1,1 @@
+{"index": 114777, "D": "an automobile, especially one that is small, inexpensive, and old.", "S": [], "A": []}

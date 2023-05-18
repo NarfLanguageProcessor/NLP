@@ -1,0 +1,1 @@
+{"index": 326701, "D": "to persistently solicit business, employment, votes, or the like.", "S": ["laud ", "praise ", "proclaim ", "promote ", "publicize ", "trumpet "], "A": ["blame ", "conceal ", "condemn ", "hide ", "discourage "]}

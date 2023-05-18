@@ -1,0 +1,1 @@
+{"index": 261791, "D": "to make different in some particular, as size, style, course, or the like; modify", "S": [], "A": []}

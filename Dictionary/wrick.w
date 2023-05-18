@@ -1,0 +1,1 @@
+{"index": 367956, "D": "wrench; strain.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68556, "D": "a writer  of copy,  especially for advertisements or publicity releases.", "S": [], "A": []}

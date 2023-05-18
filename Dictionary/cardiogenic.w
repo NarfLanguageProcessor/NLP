@@ -1,0 +1,1 @@
+{"index": 47790, "D": "originating in the heart.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 242232, "D": "a Cyclops who was blinded by Odysseus.", "S": [], "A": []}

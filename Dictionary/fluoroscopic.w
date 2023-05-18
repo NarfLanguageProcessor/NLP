@@ -1,0 +1,1 @@
+{"index": 115488, "D": "of or relating to the fluoroscope  or fluoroscopy.", "S": [], "A": []}

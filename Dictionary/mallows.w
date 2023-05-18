@@ -1,0 +1,1 @@
+{"index": 178575, "D": "any of various plants of the genus Malva, including several popular garden plants, as the musk mallow.", "S": [], "A": []}

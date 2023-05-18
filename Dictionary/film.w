@@ -1,0 +1,1 @@
+{"index": 112722, "D": "a thin layer or coating", "S": ["blur ", "cloud ", "coat ", "covering ", "dusting ", "fabric ", "foil ", "fold ", "gauze ", "haze ", "haziness ", "integument ", "layer ", "leaf ", "membrane ", "mistiness ", "nebula ", "opacity ", "partition ", "pellicle ", "scum ", "sheet ", "skin ", "transparency ", "veil ", "web "], "A": []}

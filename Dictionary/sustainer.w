@@ -1,0 +1,1 @@
+{"index": 313793, "D": "a person or thing that sustains.", "S": ["clamp ", "splint "], "A": []}

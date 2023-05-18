@@ -1,0 +1,1 @@
+{"index": 58208, "D": "the radius  of the circle circumscribed around a triangle.", "S": [], "A": []}

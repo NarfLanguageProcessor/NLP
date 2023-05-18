@@ -1,0 +1,1 @@
+{"index": 159138, "D": "a line drawn on a map connecting all points where ice exists at approximately the same period during winter.", "S": [], "A": []}

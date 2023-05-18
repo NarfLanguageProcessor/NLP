@@ -1,0 +1,1 @@
+{"index": 61587, "D": "perfectly sure  or certain; completely confident in one's own mind", "S": [], "A": []}

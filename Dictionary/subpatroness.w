@@ -1,0 +1,1 @@
+{"index": 308774, "D": "a woman who protects, supports, or sponsors someone or something.", "S": [], "A": []}

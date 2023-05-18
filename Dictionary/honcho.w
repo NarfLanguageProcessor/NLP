@@ -1,0 +1,1 @@
+{"index": 143311, "D": "a leader, especially an assertive leader; chief. ", "S": ["boss ", "chief ", "manager "], "A": ["employee ", "worker "]}

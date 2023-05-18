@@ -1,0 +1,1 @@
+{"index": 186033, "D": "a compact computer, with less capacity and capability than a minicomputer, consisting of a microprocessor  and other components.", "S": ["CPU ", "PC ", "abacus ", "analog ", "brain ", "calculator ", "clone ", "laptop ", "mac ", "mainframe ", "mini ", "minicomputer "], "A": []}

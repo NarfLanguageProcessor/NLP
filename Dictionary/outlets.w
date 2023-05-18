@@ -1,0 +1,1 @@
+{"index": 216931, "D": "an opening or passage by which anything is let out; vent; exit.", "S": ["channel "], "A": ["closure ", "entrance "]}

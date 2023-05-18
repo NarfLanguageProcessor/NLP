@@ -1,0 +1,1 @@
+{"index": 149846, "D": "happening or likely to happen in an unplanned or subordinate conjunction with something else.", "S": ["accidental ", "ancillary ", "casual ", "coincidental ", "random ", "secondary "], "A": ["decided ", "deliberate ", "designed ", "planned ", "premeditated ", "chief ", "important ", "necessary "]}

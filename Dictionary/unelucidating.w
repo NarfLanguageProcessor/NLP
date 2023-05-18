@@ -1,0 +1,1 @@
+{"index": 341127, "D": "to make lucid  or clear; throw light upon; explain", "S": [], "A": []}

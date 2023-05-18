@@ -1,0 +1,1 @@
+{"index": 74854, "D": "a branch of anthropology concerned with the study of cultural institutions as distinct from the people who are involved in them.", "S": [], "A": []}

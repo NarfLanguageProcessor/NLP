@@ -1,0 +1,1 @@
+{"index": 213766, "D": "to increase the susceptibility of (bacteria) to ingestion by phagocytes.", "S": [], "A": []}

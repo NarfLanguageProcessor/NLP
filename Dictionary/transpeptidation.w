@@ -1,0 +1,1 @@
+{"index": 328205, "D": "the process of transferring an amino acid or group of amino acids from one compound to another.", "S": [], "A": []}

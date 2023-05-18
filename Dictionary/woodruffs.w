@@ -1,0 +1,1 @@
+{"index": 367228, "D": "any of several plants belonging to the genus Asperula or Galium, of the madder family, as G. odoratum(sweet woodruff ), a fragrant plant with small white flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304117, "D": "the act of sneezing.", "S": ["gesundheit "], "A": []}

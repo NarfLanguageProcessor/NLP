@@ -1,0 +1,1 @@
+{"index": 221367, "D": "simple past tense and past participle of overstand. ", "S": [], "A": []}

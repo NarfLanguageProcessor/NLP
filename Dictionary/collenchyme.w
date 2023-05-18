@@ -1,0 +1,1 @@
+{"index": 62963, "D": "a gelatinous, thickened, and usually elongated cell that is part of a layer of modified tissue in some plants.", "S": [], "A": []}

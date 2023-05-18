@@ -1,0 +1,1 @@
+{"index": 26884, "D": "to stop, as at an obstacle, and refuse to proceed or to do something specified (usually followed by at)", "S": ["opposing "], "A": ["unwary ", "unwatchful "]}

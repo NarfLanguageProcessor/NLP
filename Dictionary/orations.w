@@ -1,0 +1,1 @@
+{"index": 213999, "D": "a formal public speech, especially one delivered on a special occasion, as on an anniversary, at a funeral, or at academic exercises.", "S": ["harangue ", "homily ", "sermon ", "spiel "], "A": ["print ", "writing "]}

@@ -1,0 +1,1 @@
+{"index": 45481, "D": "a false and malicious statement designed to injure the reputation of someone or something", "S": ["defamation ", "lie "], "A": []}

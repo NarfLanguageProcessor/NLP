@@ -1,0 +1,1 @@
+{"index": 125382, "D": "to defraud or rob by some sharp practice; swindle; cheat.", "S": ["bamboozle ", "bilk ", "cheat ", "deceive ", "defraud ", "dupe ", "fleece ", "flimflam ", "gip ", "gull ", "hoodwink ", "hustle ", "rook ", "scam ", "swindle ", "trick "], "A": ["give "]}

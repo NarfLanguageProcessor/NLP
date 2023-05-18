@@ -1,0 +1,1 @@
+{"index": 209115, "D": "characteristic of a novelette; trite or sentimental", "S": [], "A": []}

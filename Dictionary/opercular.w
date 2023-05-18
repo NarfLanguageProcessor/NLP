@@ -1,0 +1,1 @@
+{"index": 213311, "D": "a part or organ serving as a lid or cover, as a covering flap on a seed vessel.", "S": [], "A": []}

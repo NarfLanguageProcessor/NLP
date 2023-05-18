@@ -1,0 +1,1 @@
+{"index": 270497, "D": "the aldehyde form of the polyene retinol (vitamin A) that associates with the protein opsin to form the visual purple pigment rhodopsin", "S": [], "A": []}

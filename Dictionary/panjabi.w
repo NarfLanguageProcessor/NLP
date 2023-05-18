@@ -1,0 +1,1 @@
+{"index": 224702, "D": "a variant of Punjabi. ", "S": [], "A": []}

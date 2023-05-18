@@ -1,0 +1,1 @@
+{"index": 2819, "D": "a colorless, crystalline solid, C13H9N, usually obtained from the anthracine fraction of coal tar", "S": [], "A": []}

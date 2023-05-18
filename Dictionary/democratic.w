@@ -1,0 +1,1 @@
+{"index": 80718, "D": "pertaining to or of the nature of democracy  or a democracy.", "S": ["autonomous ", "constitutional ", "egalitarian ", "free ", "orderly ", "popular "], "A": []}

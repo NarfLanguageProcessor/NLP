@@ -1,0 +1,1 @@
+{"index": 48670, "D": "a rounded, convex surface, usually surrounded with carved ornamental scrollwork, for receiving a painted or low-relief decoration, as an escutcheon.", "S": [], "A": []}

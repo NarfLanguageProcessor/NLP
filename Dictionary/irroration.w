@@ -1,0 +1,1 @@
+{"index": 158500, "D": "marked with small spots of color; speckled.", "S": [], "A": []}

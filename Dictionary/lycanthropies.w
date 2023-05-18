@@ -1,0 +1,1 @@
+{"index": 171600, "D": "a delusion in which one imagines oneself to be a wolf or other wild animal.", "S": [], "A": []}

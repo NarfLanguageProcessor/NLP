@@ -1,0 +1,1 @@
+{"index": 59719, "D": "a space or opening made by cleavage; a split.", "S": ["broken ", "cloven ", "cracked ", "crenelated ", "parted ", "perforated ", "pierced ", "rent ", "riven ", "ruptured ", "separated ", "sundered ", "torn "], "A": ["connected ", "fixed ", "whole "]}

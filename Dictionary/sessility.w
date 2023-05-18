@@ -1,0 +1,1 @@
+{"index": 286583, "D": "attached by the base, or without any distinct projecting support, as a leaf issuing directly from the stem.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146391, "D": "a written symbol that represents an idea or object directly rather than a particular word or speech sound, as a Chinese character.", "S": [], "A": []}

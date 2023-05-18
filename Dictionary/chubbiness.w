@@ -1,0 +1,1 @@
+{"index": 56511, "D": "round and plump", "S": ["bulk ", "fatness ", "overweight ", "paunchiness ", "plumpness ", "rotundness ", "stoutness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 33982, "D": "any of several weevils, especially of the genera Calendra and Sitophilus, that feed on various grasses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81447, "D": "a steroid hormone, C21H30O3, secreted by the adrenal cortex, related to corticosterone  and involved in regulating the water and electrolyte balance.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 163155, "D": "a member of a sect, founded in Persia in the 8th century a.d. by the religious leader Anan ben David, that rejected the Talmud and the teachings of the rabbis in favor of strict adherence to the Bible as the only source of Jewish law and practice.", "S": [], "A": []}

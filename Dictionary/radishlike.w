@@ -1,0 +1,1 @@
+{"index": 259827, "D": "the crisp, pungent, edible root of the plant, Raphanus sativus, of the mustard family, usually eaten raw.", "S": [], "A": []}

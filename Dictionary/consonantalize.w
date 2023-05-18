@@ -1,0 +1,1 @@
+{"index": 66924, "D": "to change into or become changed into a consonant (contrasted with vocalize).", "S": [], "A": []}

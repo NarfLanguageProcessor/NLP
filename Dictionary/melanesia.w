@@ -1,0 +1,1 @@
+{"index": 182689, "D": "one of the three principal divisions of Oceania, comprising the island groups in the South Pacific northeast of Australia.", "S": [], "A": []}

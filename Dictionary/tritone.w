@@ -1,0 +1,1 @@
+{"index": 330743, "D": "an interval consisting of three whole tones; an augmented fourth.", "S": [], "A": []}

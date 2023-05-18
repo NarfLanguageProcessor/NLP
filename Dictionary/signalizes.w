@@ -1,0 +1,1 @@
+{"index": 290104, "D": "to make notable or conspicuous.", "S": ["flag ", "gesticulate ", "indicate ", "mime ", "motion ", "pantomime ", "sign ", "signal ", "wave "], "A": []}

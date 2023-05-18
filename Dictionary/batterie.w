@@ -1,0 +1,1 @@
+{"index": 29114, "D": "a beating together of the calves or feet during a leap.", "S": [], "A": []}

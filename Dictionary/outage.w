@@ -1,0 +1,1 @@
+{"index": 216119, "D": "an interruption or failure in the supply of power, especially electricity.", "S": ["blackout ", "brownout ", "disruption ", "interruption "], "A": []}

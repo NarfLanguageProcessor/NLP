@@ -1,0 +1,1 @@
+{"index": 24554, "D": "(of muscle contraction) occurring against increasing force", "S": [], "A": []}

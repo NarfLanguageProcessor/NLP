@@ -1,0 +1,1 @@
+{"index": 272949, "D": "Compare frost (def. 3), glaze (def. 17). ", "S": [], "A": []}

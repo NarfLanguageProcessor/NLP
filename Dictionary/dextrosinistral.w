@@ -1,0 +1,1 @@
+{"index": 83850, "D": "passing or extending from the right to the left.", "S": [], "A": []}

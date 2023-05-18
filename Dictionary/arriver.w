@@ -1,0 +1,1 @@
+{"index": 20281, "D": "to come to a certain point in the course of travel; reach one's destination", "S": ["delivery ", "passenger ", "shipment ", "tourist ", "visitor "], "A": ["departure ", "disappearance ", "leave "]}

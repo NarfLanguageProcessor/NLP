@@ -1,0 +1,1 @@
+{"index": 104522, "D": "someone who follows the principles of essentialism,  believing that the inward, or essential, nature of most things is invariable, as opposed to the properties that are accidental, phenomenal, illusory, etc.", "S": [], "A": []}

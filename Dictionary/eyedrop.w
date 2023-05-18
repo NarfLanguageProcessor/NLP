@@ -1,0 +1,1 @@
+{"index": 96378, "D": "drops for use in the eyes, as to relieve discomfort or to dilate the pupils before an eye examination.", "S": [], "A": []}

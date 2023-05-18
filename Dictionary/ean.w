@@ -1,0 +1,1 @@
+{"index": 94703, "D": "an element used to form adjectives from nouns ending in -ea", "S": [], "A": []}

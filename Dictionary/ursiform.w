@@ -1,0 +1,1 @@
+{"index": 355883, "D": "having the form of a bear; bear-shaped", "S": [], "A": []}

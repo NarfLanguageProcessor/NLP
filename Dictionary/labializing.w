@@ -1,0 +1,1 @@
+{"index": 166644, "D": "to give a labial  character to (a sound), for example, to round (a vowel).", "S": [], "A": []}

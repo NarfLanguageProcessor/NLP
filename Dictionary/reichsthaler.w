@@ -1,0 +1,1 @@
+{"index": 266069, "D": "a silver thaler of Germany, originally issued in 1566; rix-dollar.", "S": [], "A": []}

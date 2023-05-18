@@ -1,0 +1,1 @@
+{"index": 40172, "D": "a mineral, sodium aluminum phosphate, Na2Al6P4O16(OH)8, occurring in yellow-green crystals with a vitreous luster", "S": [], "A": []}

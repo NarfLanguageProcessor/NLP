@@ -1,0 +1,1 @@
+{"index": 125190, "D": "the branch of medical science that deals with the health maintenance and diseases of women, especially of the reproductive organs. Abbreviation", "S": [], "A": []}

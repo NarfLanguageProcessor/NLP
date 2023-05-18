@@ -1,0 +1,1 @@
+{"index": 273613, "D": "strong and healthy; hardy; vigorous", "S": ["booming ", "hearty ", "hefty ", "potent ", "powerful ", "prosperous ", "sturdy ", "tough ", "vigorous "], "A": ["fragile ", "impotent ", "incapable ", "ineffective ", "lethargic ", "small ", "unstable ", "weak ", "wobbly "]}

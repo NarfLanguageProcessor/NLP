@@ -1,0 +1,1 @@
+{"index": 130590, "D": "a prudish adherence to conventionality, especially in personal behavior.", "S": [], "A": []}

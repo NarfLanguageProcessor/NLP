@@ -1,0 +1,1 @@
+{"index": 15762, "D": "either of two chapels at the west end of an Armenian or Byzantine church.", "S": [], "A": []}

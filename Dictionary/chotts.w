@@ -1,0 +1,1 @@
+{"index": 55913, "D": "a shallow brackish or saline marsh or lake in N Africa, usually dry during the summer.", "S": [], "A": []}

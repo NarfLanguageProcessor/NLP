@@ -1,0 +1,1 @@
+{"index": 206646, "D": "the state or fact of being relative. ", "S": [], "A": []}

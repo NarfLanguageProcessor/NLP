@@ -1,0 +1,1 @@
+{"index": 6305, "D": "a gold coin of France of the 13th\u201316th centuries, bearing the figure of a lamb.", "S": [], "A": []}

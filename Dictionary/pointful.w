@@ -1,0 +1,1 @@
+{"index": 241329, "D": [], "S": ["considerable ", "meaningful ", "serious ", "significant ", "substantial "], "A": ["insignificant ", "little ", "meaningless ", "minor ", "small ", "trivial ", "unimportant ", "auxiliary ", "inessential ", "nonessential ", "secondary "]}

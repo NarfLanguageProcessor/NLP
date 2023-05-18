@@ -1,0 +1,1 @@
+{"index": 97030, "D": "the branch of physics that deals with the interactions of electric, magnetic, and mechanical phenomena.", "S": [], "A": []}

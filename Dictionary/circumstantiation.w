@@ -1,0 +1,1 @@
+{"index": 58261, "D": "to set forth or support with circumstances  or particulars", "S": [], "A": []}

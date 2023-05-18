@@ -1,0 +1,1 @@
+{"index": 326631, "D": "Also called (esp US)", "S": ["globetrotter ", "sightseer ", "traveler ", "vacationer ", "voyager ", "wayfarer "], "A": []}

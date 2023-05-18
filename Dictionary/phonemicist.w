@@ -1,0 +1,1 @@
+{"index": 234669, "D": "the study of phonemes  and phonemic  systems.", "S": [], "A": []}

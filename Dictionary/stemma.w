@@ -1,0 +1,1 @@
+{"index": 303595, "D": "ocellus (def. 1). ", "S": ["ancestral tree ", "ancestry ", "bloodline ", "descent ", "family history ", "genealogical chart ", "genealogical tree ", "genealogy ", "heredity ", "line ", "lineage ", "pedigree ", "tree "], "A": []}

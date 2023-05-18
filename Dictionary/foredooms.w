@@ -1,0 +1,1 @@
+{"index": 116631, "D": "to doom  beforehand; destine.", "S": ["destine ", "foreshadow ", "foretell ", "prearrange ", "predestine ", "predetermine ", "preform ", "preordain ", "reserve "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250067, "D": "pleasing or attractive to the eye, as by delicacy or gracefulness", "S": ["beauteousness ", "beauty ", "elegance ", "fairness ", "handsomeness ", "loveliness "], "A": ["ugliness "]}

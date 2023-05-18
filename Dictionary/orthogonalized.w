@@ -1,0 +1,1 @@
+{"index": 215043, "D": "to make (vectors, functions, etc.) orthogonal. ", "S": [], "A": []}

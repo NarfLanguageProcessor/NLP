@@ -1,0 +1,1 @@
+{"index": 362581, "D": "the area serving as the living quarters for all commissioned officers except the commanding officer.", "S": [], "A": []}

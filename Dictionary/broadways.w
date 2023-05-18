@@ -1,0 +1,1 @@
+{"index": 41098, "D": "a street in New York City, famous for its theaters, restaurants, and bright lights.", "S": ["entertainment industry ", "movie industry ", "show biz "], "A": []}

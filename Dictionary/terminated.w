@@ -1,0 +1,1 @@
+{"index": 319375, "D": "to bring to an end; put an end to", "S": ["entire ", "full ", "perfect ", "sweeping "], "A": ["incomplete ", "part ", "unfinished "]}

@@ -1,0 +1,1 @@
+{"index": 196615, "D": "and not only so but; not only that but also; indeed", "S": ["denial ", "negative "], "A": ["yeah "]}

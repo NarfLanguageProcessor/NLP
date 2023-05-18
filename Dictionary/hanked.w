@@ -1,0 +1,1 @@
+{"index": 133377, "D": "a skein, as of thread or yarn.", "S": [], "A": []}

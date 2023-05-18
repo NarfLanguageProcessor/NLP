@@ -1,0 +1,1 @@
+{"index": 217706, "D": "a ball that when bowled veers from leg side to off side.", "S": [], "A": []}

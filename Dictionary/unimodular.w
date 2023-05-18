@@ -1,0 +1,1 @@
+{"index": 344286, "D": "(of a matrix) having its determinant equal to 1.", "S": [], "A": []}

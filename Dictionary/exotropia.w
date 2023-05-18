@@ -1,0 +1,1 @@
+{"index": 107538, "D": "strabismus in which one or both eyes turn outward.", "S": [], "A": []}

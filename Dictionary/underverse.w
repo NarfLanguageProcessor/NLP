@@ -1,0 +1,1 @@
+{"index": 340070, "D": "(not in technical use) a stanza.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109116, "D": [], "S": ["articulacy ", "articulateness ", "articulation ", "eloquentness ", "expressiveness ", "expressivity ", "fluency ", "gift of gab ", "oration ", "oratory ", "persuasiveness ", "rhetoric "], "A": []}

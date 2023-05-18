@@ -1,0 +1,1 @@
+{"index": 346858, "D": "to lie close and snug, like a bird in a nest; snuggle or cuddle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1495, "D": "inclined to receive or accept;  receptive", "S": ["accepting ", "amenable ", "open ", "open-minded "], "A": []}

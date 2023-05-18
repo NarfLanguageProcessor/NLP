@@ -1,0 +1,1 @@
+{"index": 90062, "D": "an apocynaceous shrub, Alstonia scholaris, of tropical Africa and Asia, having large shiny whorled leaves and medicinal bark", "S": [], "A": []}

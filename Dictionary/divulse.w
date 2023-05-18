@@ -1,0 +1,1 @@
+{"index": 90438, "D": "to tear away or apart, as distinguished from cut or dissect.", "S": [], "A": []}

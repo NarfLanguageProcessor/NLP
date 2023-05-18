@@ -1,0 +1,1 @@
+{"index": 200546, "D": "fashionable or elegant; stylish; chic.", "S": [], "A": []}

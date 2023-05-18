@@ -1,0 +1,1 @@
+{"index": 14633, "D": "ascription of human passions or feelings to a being or beings not human, especially to a deity.", "S": [], "A": []}

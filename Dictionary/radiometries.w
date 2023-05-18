@@ -1,0 +1,1 @@
+{"index": 259726, "D": "an instrument for demonstrating the transformation of radiant energy into mechanical work, consisting of an exhausted glass vessel containing vanes that revolve about an axis when exposed to light.", "S": [], "A": []}

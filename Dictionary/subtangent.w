@@ -1,0 +1,1 @@
+{"index": 309410, "D": "the part of the x-axis cut off between the ordinate of a given point of a curve and the tangent  at that point.", "S": [], "A": []}

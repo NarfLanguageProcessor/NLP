@@ -1,0 +1,1 @@
+{"index": 69235, "D": "the elongated woody core in which the grains of an ear of corn are embedded.", "S": [], "A": []}

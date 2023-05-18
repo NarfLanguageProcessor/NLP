@@ -1,0 +1,1 @@
+{"index": 241248, "D": "an ice fog that forms in the mountain valleys of the western U.S.", "S": [], "A": []}

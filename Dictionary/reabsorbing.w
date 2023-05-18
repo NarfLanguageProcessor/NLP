@@ -1,0 +1,1 @@
+{"index": 261413, "D": "to suck up or drink in (a liquid); soak up", "S": [], "A": []}

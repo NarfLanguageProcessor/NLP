@@ -1,0 +1,1 @@
+{"index": 137063, "D": "a leader in heresy; the leader of a heretical sect.", "S": [], "A": []}

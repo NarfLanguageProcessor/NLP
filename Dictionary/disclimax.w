@@ -1,0 +1,1 @@
+{"index": 87373, "D": "a stable community that has replaced the normal climax  in a given area, owing to disturbance by humans or domestic animals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 136508, "D": "mischievous; often in trouble for mischief.", "S": [], "A": []}

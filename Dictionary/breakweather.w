@@ -1,0 +1,1 @@
+{"index": 40279, "D": "any makeshift shelter.", "S": [], "A": []}

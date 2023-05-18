@@ -1,0 +1,1 @@
+{"index": 365055, "D": "to speak with soft, hushed sounds, using the breath, lips, etc., but with no vibration of the vocal cords.", "S": ["buzz ", "gossip ", "hint ", "innuendo ", "murmur ", "sigh "], "A": ["silence "]}

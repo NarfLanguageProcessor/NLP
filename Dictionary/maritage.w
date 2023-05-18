@@ -1,0 +1,1 @@
+{"index": 180125, "D": "the right of a lord to choose the spouses of his wards", "S": [], "A": []}

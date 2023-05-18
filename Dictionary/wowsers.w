@@ -1,0 +1,1 @@
+{"index": 367782, "D": "an excessively puritanical person.", "S": [], "A": []}

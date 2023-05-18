@@ -1,0 +1,1 @@
+{"index": 46186, "D": "any of a variety of confections made with sugar, syrup, etc., often combined with chocolate, fruit, nuts, etc.", "S": [], "A": []}

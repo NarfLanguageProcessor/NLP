@@ -1,0 +1,1 @@
+{"index": 66242, "D": "to come together; assemble, especially in large numbers", "S": ["accumulated ", "collected ", "concentrated ", "huddled ", "massed ", "reunited "], "A": ["separated "]}

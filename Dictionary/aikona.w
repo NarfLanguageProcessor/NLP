@@ -1,0 +1,1 @@
+{"index": 6757, "D": "an informal word expressing strong negation", "S": [], "A": []}

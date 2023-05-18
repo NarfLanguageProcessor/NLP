@@ -1,0 +1,1 @@
+{"index": 50635, "D": "Compare cockscomb (def. 3). ", "S": [], "A": []}

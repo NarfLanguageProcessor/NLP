@@ -1,0 +1,1 @@
+{"index": 74754, "D": "coal dust; slack.", "S": ["anthracite ", "ash ", "carbon ", "char ", "charcoal ", "cinder ", "ember ", "fuel ", "scoria ", "slack ", "smut ", "spark ", "stoke "], "A": []}

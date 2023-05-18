@@ -1,0 +1,1 @@
+{"index": 358634, "D": "of the nature of or resembling vermin. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66022, "D": "manner of formation; structure; form, as of a physical entity.", "S": [], "A": []}

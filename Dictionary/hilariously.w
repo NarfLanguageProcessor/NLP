@@ -1,0 +1,1 @@
+{"index": 139406, "D": "arousing great merriment; extremely funny", "S": ["blissfully ", "blithely ", "cheerfully ", "contentedly ", "enthusiastically ", "freely ", "gladly ", "gleefully ", "graciously ", "heartily ", "joyfully ", "joyously ", "lovingly ", "merrily ", "peacefully ", "playfully ", "willingly "], "A": ["unhappily ", "unluckily ", "unsuccessfully "]}

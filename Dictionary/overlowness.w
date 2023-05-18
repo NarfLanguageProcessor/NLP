@@ -1,0 +1,1 @@
+{"index": 220148, "D": "situated, placed, or occurring not far above the ground, floor, or base", "S": [], "A": []}

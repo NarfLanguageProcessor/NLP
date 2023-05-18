@@ -1,0 +1,1 @@
+{"index": 220276, "D": "reflecting a moderate or humble estimate of one\u2019s merits, importance, etc.; not boastfully", "S": [], "A": []}

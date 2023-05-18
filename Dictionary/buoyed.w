@@ -1,0 +1,1 @@
+{"index": 42947, "D": "marked with buoys,  or distinctively marked floats", "S": ["bolster ", "boost ", "buck up ", "cheer ", "cheer up ", "encourage ", "hearten ", "keep afloat ", "lift ", "prop ", "raise ", "support ", "sustain ", "uphold "], "A": ["bring down ", "depress "]}

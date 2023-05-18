@@ -1,0 +1,1 @@
+{"index": 50503, "D": "abstention from sexual relations.", "S": ["chastity "], "A": []}

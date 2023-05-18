@@ -1,0 +1,1 @@
+{"index": 191063, "D": "a manner of acting or doing; method; way", "S": [], "A": []}

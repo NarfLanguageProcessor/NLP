@@ -1,0 +1,1 @@
+{"index": 221649, "D": "to rise over or above the top  of", "S": ["brew ", "come on ", "dominate ", "emerge ", "hover ", "mount ", "overshadow ", "portend ", "soar ", "stand out ", "threaten "], "A": ["decline ", "fall ", "leave ", "abandon ", "descend ", "drop ", "neglect "]}

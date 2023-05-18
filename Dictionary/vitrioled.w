@@ -1,0 +1,1 @@
+{"index": 360653, "D": "any of certain metallic sulfates of glassy appearance, as copper sulfate or blue vitriol,  iron sulfate or green vitriol,  zinc sulfate or white vitriol,  etc.", "S": [], "A": []}

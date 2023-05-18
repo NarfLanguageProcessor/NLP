@@ -1,0 +1,1 @@
+{"index": 155181, "D": "a method for making data retrieval more efficient by rearranging or renumbering the sectors on a hard disk or by splitting a computer's main memory into sections so that the sectors or sections can be read in alternating cycles.", "S": [], "A": []}

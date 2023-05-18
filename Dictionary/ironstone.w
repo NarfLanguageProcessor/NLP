@@ -1,0 +1,1 @@
+{"index": 158108, "D": "any iron-bearing mineral or rock with siliceous impurities.", "S": [], "A": []}

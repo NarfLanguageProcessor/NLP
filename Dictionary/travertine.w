@@ -1,0 +1,1 @@
+{"index": 328619, "D": "a form of limestone deposited by springs, especially hot springs, used in Italy for building.", "S": [], "A": []}

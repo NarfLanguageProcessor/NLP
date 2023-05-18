@@ -1,0 +1,1 @@
+{"index": 84885, "D": "devil; deuce  (often used in exclamations and as a mild oath)", "S": ["impish ", "malicious ", "naughty ", "playful ", "rude ", "sly "], "A": ["good ", "kind "]}

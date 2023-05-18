@@ -1,0 +1,1 @@
+{"index": 235927, "D": "a person who steals money, wallets, etc., from the pockets  of people, as in crowded public places.", "S": ["thief "], "A": []}

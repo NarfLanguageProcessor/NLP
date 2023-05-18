@@ -1,0 +1,1 @@
+{"index": 276319, "D": [], "S": ["lights out ", "sleep time ", "sleepy time ", "slumbertime ", "time to hit the hay ", "time to hit the sack ", "time to retire ", "time to turn in "], "A": []}

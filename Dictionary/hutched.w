@@ -1,0 +1,1 @@
+{"index": 145395, "D": [], "S": ["accumulate ", "bury ", "deposit ", "freeze ", "hide ", "hoard ", "keep ", "lock away ", "pack ", "put ", "save ", "stash ", "stockpile "], "A": ["disperse ", "spend ", "squander ", "throw away ", "uncover ", "waste ", "disburse ", "dissipate ", "divide "]}

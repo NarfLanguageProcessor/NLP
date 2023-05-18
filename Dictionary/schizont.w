@@ -1,0 +1,1 @@
+{"index": 280257, "D": "(in the asexual reproduction of certain sporozoans) a cell developed from a trophozoite, which undergoes multiple fission to form merozoites.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82227, "D": "any beetle of the family Dermestidae, whose members are destructive at both larval and adult stages to a wide range of stored organic materials such as wool, fur, feathers, and meat. They include the bacon (or larder), cabinet, carpet, leather, and museum beetles", "S": [], "A": []}

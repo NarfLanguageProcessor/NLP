@@ -1,0 +1,1 @@
+{"index": 17301, "D": "an alkaloid, C17H17NO2, derived from morphine  and used as a fast-acting emetic.", "S": [], "A": []}

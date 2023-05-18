@@ -1,0 +1,1 @@
+{"index": 122315, "D": "an open courtyard enclosed by a cloister.", "S": [], "A": []}

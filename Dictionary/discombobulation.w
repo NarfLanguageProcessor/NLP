@@ -1,0 +1,1 @@
+{"index": 87441, "D": "to confuse or disconcert; confound; bewilder", "S": ["befuddlement ", "bewilderment ", "daze ", "discomposure ", "disconcertment ", "fog ", "muddle ", "perplexity ", "puzzlement ", "stupefaction ", "stupor "], "A": ["understanding "]}

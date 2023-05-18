@@ -1,0 +1,1 @@
+{"index": 14900, "D": "a circulation of winds around a central region of high atmospheric pressure, clockwise in the Northern Hemisphere, counterclockwise in the Southern Hemisphere.", "S": [], "A": []}

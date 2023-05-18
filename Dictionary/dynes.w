@@ -1,0 +1,1 @@
+{"index": 86090, "D": "the standard centimeter-gram-second unit of force, equal to the force that produces an acceleration of one centimeter per second per second on a mass of one gram. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133385, "D": "to have a restless or incessant longing (often followed by after, for, or an infinitive).", "S": ["crave ", "itch ", "yearn "], "A": ["dislike ", "hate ", "despise "]}

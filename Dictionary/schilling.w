@@ -1,0 +1,1 @@
+{"index": 280144, "D": "a copper and aluminum coin and monetary unit of Austria until the euro  was adopted, equal to 100 groschen. Abbreviation", "S": [], "A": []}

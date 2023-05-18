@@ -1,0 +1,1 @@
+{"index": 300643, "D": [], "S": ["blight ", "corrosion ", "decomposition ", "degeneration ", "deterioration ", "disintegration ", "disrepair ", "extinction ", "impairment ", "rot "], "A": ["building ", "development ", "growth ", "improvement ", "ascent ", "construction ", "increase ", "morality ", "rise "]}

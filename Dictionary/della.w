@@ -1,0 +1,1 @@
+{"index": 80201, "D": "(in names of Italian derivation) a contraction of di and the article la", "S": [], "A": []}

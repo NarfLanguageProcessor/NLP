@@ -1,0 +1,1 @@
+{"index": 41942, "D": "a nearly spherical body of gas contained in a liquid.", "S": ["carbonated "], "A": ["dull "]}

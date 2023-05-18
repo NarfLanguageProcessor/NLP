@@ -1,0 +1,1 @@
+{"index": 37563, "D": "a rounded seed vessel or pod of a plant, as of flax or cotton.", "S": [], "A": []}

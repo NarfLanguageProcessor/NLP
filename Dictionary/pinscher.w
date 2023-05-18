@@ -1,0 +1,1 @@
+{"index": 237242, "D": "one of a group of related dogs including the Doberman pinscher, miniature pinscher, and affenpinscher.", "S": [], "A": []}

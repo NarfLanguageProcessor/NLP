@@ -1,0 +1,1 @@
+{"index": 227730, "D": "the disease-producing capacity of a pathogen.", "S": [], "A": []}

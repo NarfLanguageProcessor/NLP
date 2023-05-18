@@ -1,0 +1,1 @@
+{"index": 272815, "D": "a person who rights  or redresses", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160806, "D": "a loose-fitting hooded gown or robe worn by men in North Africa.", "S": [], "A": []}

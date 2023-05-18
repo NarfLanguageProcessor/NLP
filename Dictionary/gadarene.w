@@ -1,0 +1,1 @@
+{"index": 120845, "D": "relating to or engaged in a headlong rush", "S": [], "A": []}

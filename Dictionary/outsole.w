@@ -1,0 +1,1 @@
+{"index": 217513, "D": "the outer sole  of a shoe.", "S": [], "A": []}

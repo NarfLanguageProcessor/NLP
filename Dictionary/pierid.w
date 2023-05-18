@@ -1,0 +1,1 @@
+{"index": 236260, "D": "belonging or pertaining to the Pieridae, a family of butterflies comprising the whites, sulfurs, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212510, "D": "a device for converting Morse Code signals that are punched on a tape into audio signals, used in the training of telegraph operators.", "S": [], "A": []}

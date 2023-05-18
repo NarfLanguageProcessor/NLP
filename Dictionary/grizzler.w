@@ -1,0 +1,1 @@
+{"index": 130099, "D": "to make or become gray or partly gray.", "S": [], "A": []}

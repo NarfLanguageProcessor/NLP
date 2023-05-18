@@ -1,0 +1,1 @@
+{"index": 35611, "D": "a small, blade-shaped, sometimes retouched piece of stone used as the cutting edge of a weapon or tool by late Stone Age peoples.", "S": [], "A": []}

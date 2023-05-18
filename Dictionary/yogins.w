@@ -1,0 +1,1 @@
+{"index": 157550, "D": "a person who practices yoga.", "S": [], "A": []}

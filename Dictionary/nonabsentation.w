@@ -1,0 +1,1 @@
+{"index": 200966, "D": "not in a certain place at a given time; away, missing (opposed to present)", "S": [], "A": []}

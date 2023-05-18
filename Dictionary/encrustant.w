@@ -1,0 +1,1 @@
+{"index": 99532, "D": "to cover or line with a crust or hard coating.", "S": [], "A": []}

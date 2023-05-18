@@ -1,0 +1,1 @@
+{"index": 130014, "D": "the act of grasping; a seizing and holding fast; firm grasp.", "S": ["close range ", "place of confinement "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 244532, "D": "to ask, demand, or claim.", "S": ["guesswork ", "hunch "], "A": ["fact ", "knowledge ", "reality ", "truth "]}

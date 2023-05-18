@@ -1,0 +1,1 @@
+{"index": 6541, "D": "an abnormal desire to live alone, especially in an isolated area.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 306456, "D": "the act or an instance of striking, as with the fist, a weapon, or a hammer; a blow. ", "S": ["brush ", "caress ", "rub "], "A": ["aggravate ", "agitate ", "distress ", "irritate ", "upset "]}

@@ -1,0 +1,1 @@
+{"index": 48729, "D": "a place or structure having special equipment for washing automobiles.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173354, "D": "(of a pinnate leaf) divided transversely into several lobes, the smallest at the base.", "S": [], "A": []}

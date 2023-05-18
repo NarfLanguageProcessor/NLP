@@ -1,0 +1,1 @@
+{"index": 159929, "D": "a portable cresset, oil-burning lantern, or electric light  used as a lure in hunting or fishing at night.", "S": [], "A": []}

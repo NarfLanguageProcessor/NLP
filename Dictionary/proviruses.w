@@ -1,0 +1,1 @@
+{"index": 254092, "D": "a viral form that is incorporated into the genetic material of a host cell.", "S": [], "A": []}

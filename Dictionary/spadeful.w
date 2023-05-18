@@ -1,0 +1,1 @@
+{"index": 298199, "D": "the amount that can be dug out with or carried on a spade. ", "S": [], "A": []}

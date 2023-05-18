@@ -1,0 +1,1 @@
+{"index": 95266, "D": "a graphic record produced by an echocardiograph.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 121129, "D": "an inherited disorder characterized by the inability to metabolize galactose  and requiring a galactose-free diet to avoid consequent intellectual disability and eye, spleen, and liver abnormalities.", "S": [], "A": []}

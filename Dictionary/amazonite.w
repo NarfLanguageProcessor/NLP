@@ -1,0 +1,1 @@
+{"index": 9911, "D": "a green feldspar, a variety of microcline, used as an ornamental material.", "S": [], "A": []}

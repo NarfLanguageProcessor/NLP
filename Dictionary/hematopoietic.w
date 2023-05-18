@@ -1,0 +1,1 @@
+{"index": 136000, "D": "of or relating to hematopoiesis,  the formation of blood or blood cells", "S": [], "A": []}

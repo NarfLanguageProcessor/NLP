@@ -1,0 +1,1 @@
+{"index": 146488, "D": "pertaining to or involving the study or explication of individual cases or events (opposed to nomothetic).", "S": [], "A": []}

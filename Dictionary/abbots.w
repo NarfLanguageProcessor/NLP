@@ -1,0 +1,1 @@
+{"index": 214, "D": "a man who is the head or superior, usually elected, of a monastery.", "S": ["monk "], "A": []}

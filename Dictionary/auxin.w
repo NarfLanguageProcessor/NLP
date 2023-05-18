@@ -1,0 +1,1 @@
+{"index": 24531, "D": "a class of substances that in minute amounts regulate or modify the growth of plants, especially root formation, bud growth, and fruit and leaf drop.", "S": [], "A": []}

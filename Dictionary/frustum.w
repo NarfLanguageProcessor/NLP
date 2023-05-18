@@ -1,0 +1,1 @@
+{"index": 119682, "D": "the part of a conical solid left after cutting off a top portion with a plane parallel to the base.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68579, "D": "to subject to or undergo a change analogous to polymerization but with a union of two or more different monomers.", "S": [], "A": []}

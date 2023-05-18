@@ -1,0 +1,1 @@
+{"index": 6216, "D": "excited; disturbed.", "S": ["aroused ", "excited "], "A": []}

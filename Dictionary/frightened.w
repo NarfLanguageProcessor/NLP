@@ -1,0 +1,1 @@
+{"index": 118995, "D": "thrown into a fright; afraid; scared;  terrified", "S": ["afraid ", "anxious ", "fearful ", "panicky ", "spooked ", "startled ", "unnerved "], "A": ["bold ", "brave ", "cool ", "courageous ", "happy ", "unafraid "]}

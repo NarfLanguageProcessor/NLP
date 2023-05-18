@@ -1,0 +1,1 @@
+{"index": 304867, "D": "a former nickel coin of the Netherlands, equal to five Dutch cents.", "S": [], "A": []}

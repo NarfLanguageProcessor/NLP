@@ -1,0 +1,1 @@
+{"index": 323358, "D": "a composite plant, Layia platyglossa, of California, having flower heads with bright yellow, white-tipped rays.", "S": [], "A": []}

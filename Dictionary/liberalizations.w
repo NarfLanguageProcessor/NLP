@@ -1,0 +1,1 @@
+{"index": 171486, "D": "the state of being or becoming more favorable to progress or reform, as in political or religious affairs", "S": [], "A": []}

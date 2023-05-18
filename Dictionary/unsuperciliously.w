@@ -1,0 +1,1 @@
+{"index": 352412, "D": "haughtily disdainful or contemptuous, as a person or a facial expression.", "S": [], "A": []}

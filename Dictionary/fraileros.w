@@ -1,0 +1,1 @@
+{"index": 118258, "D": "an armchair of the Renaissance, having a leather seat and a leather back stretched between plain wooden members and having a broad front stretcher.", "S": [], "A": []}

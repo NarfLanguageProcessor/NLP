@@ -1,0 +1,1 @@
+{"index": 361372, "D": "of or relating to a vortex.", "S": [], "A": []}

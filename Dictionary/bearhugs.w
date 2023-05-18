@@ -1,0 +1,1 @@
+{"index": 29549, "D": [], "S": ["embrace ", "enfoldment ", "hug ", "scissors ", "squeeze ", "tight embrace "], "A": []}

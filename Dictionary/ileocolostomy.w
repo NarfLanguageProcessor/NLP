@@ -1,0 +1,1 @@
+{"index": 147223, "D": "the surgical formation of an artificial opening between the ileum and the colon.", "S": [], "A": []}

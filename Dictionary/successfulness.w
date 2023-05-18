@@ -1,0 +1,1 @@
+{"index": 309813, "D": "achieving or having achieved success. ", "S": ["accomplishment ", "benefit ", "boom ", "expansion ", "growth ", "inflation ", "interest ", "riches ", "success ", "wealth ", "welfare ", "well-being "], "A": ["decrease ", "disadvantage ", "failure ", "lessening ", "loss ", "shrinkage ", "stagnation ", "lack ", "restriction "]}

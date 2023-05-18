@@ -1,0 +1,1 @@
+{"index": 185619, "D": "(a form of the possessive case of I  used as an attributive adjective)", "S": ["her ", "hir ", "his ", "its ", "our ", "their ", "vis ", "xyr ", "your ", "zir "], "A": []}

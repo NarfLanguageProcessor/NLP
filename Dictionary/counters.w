@@ -1,0 +1,1 @@
+{"index": 71064, "D": "a table or display case on which goods can be shown, business transacted, etc.", "S": ["bones ", "craps ", "ivories ", "shakers ", "tombstones "], "A": []}

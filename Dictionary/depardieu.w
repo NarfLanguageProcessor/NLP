@@ -1,0 +1,1 @@
+{"index": 81493, "D": "G\u00e9rard. born 1948, French film actor, granted Russian citizenship in 2013. His films include Jean de Florette (1986), Cyrano de Bergerac (1990), Green Card (1991), The Man in the Iron Mask (1997), and Tais-toi (2003)", "S": [], "A": []}

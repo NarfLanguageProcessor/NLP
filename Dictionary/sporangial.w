@@ -1,0 +1,1 @@
+{"index": 300933, "D": "the case or sac in which spores are produced.", "S": [], "A": []}

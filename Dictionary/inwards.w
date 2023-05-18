@@ -1,0 +1,1 @@
+{"index": 157371, "D": "towards the interior or middle of something", "S": [], "A": []}

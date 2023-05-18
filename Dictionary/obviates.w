@@ -1,0 +1,1 @@
+{"index": 210615, "D": "to anticipate and prevent or eliminate (difficulties, disadvantages, etc.) by effective measures; render unnecessary", "S": ["counteract ", "forestall ", "preclude "], "A": ["support ", "aid ", "allow ", "assist ", "encourage ", "help ", "let go ", "promote "]}

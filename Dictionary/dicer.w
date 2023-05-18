@@ -1,0 +1,1 @@
+{"index": 84765, "D": "small cubes of plastic, ivory, bone, or wood, marked on each side with one to six spots, usually used in pairs in games of chance or in gambling.", "S": ["axe ", "mincer ", "molar "], "A": []}

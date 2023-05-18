@@ -1,0 +1,1 @@
+{"index": 278719, "D": "a satin-weave fabric made with cotton warp and wool filling, fulled and finished to resemble wool.", "S": [], "A": []}

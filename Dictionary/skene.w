@@ -1,0 +1,1 @@
+{"index": 292974, "D": "(in the ancient Greek theater) a structure facing the audience and forming the background before which performances were given.", "S": [], "A": []}

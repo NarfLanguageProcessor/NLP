@@ -1,0 +1,1 @@
+{"index": 28765, "D": "any carnivorous mammal of the genus Bassariscus, comprising the cacomistles and ringtails.", "S": [], "A": []}

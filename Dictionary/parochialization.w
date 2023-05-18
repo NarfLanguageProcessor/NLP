@@ -1,0 +1,1 @@
+{"index": 226676, "D": "a parochial  character, spirit, or tendency; excessive narrowness of interests or view; provincialism.", "S": [], "A": []}

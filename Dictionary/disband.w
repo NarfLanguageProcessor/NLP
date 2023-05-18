@@ -1,0 +1,1 @@
+{"index": 87150, "D": "to break up or dissolve (an organization)", "S": ["demobilize ", "destroy ", "disperse ", "dissolve "], "A": ["assemble "]}

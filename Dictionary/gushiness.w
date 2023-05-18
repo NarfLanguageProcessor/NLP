@@ -1,0 +1,1 @@
+{"index": 131537, "D": "given to or marked by excessively effusive talk, behavior, etc.", "S": ["bathos ", "emotionalness ", "maudlinness ", "mawkishness ", "melodrama ", "melodramatics ", "mushiness ", "nostalgia ", "reminiscence ", "sentiment ", "sentimentalism ", "triteness "], "A": []}

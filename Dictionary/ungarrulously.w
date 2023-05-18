@@ -1,0 +1,1 @@
+{"index": 342925, "D": "excessively talkative in a rambling, roundabout manner, especially about trivial matters.", "S": [], "A": []}

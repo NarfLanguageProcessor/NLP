@@ -1,0 +1,1 @@
+{"index": 12935, "D": "extreme distress or mental anguish, usually of physical origin.", "S": [], "A": []}

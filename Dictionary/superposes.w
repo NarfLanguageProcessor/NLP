@@ -1,0 +1,1 @@
+{"index": 312437, "D": "to place above or upon something else, or one upon another.", "S": ["blanket ", "bury ", "coat ", "dress ", "enclose ", "protect ", "shroud "], "A": ["lay bare ", "reveal ", "uncover ", "expose ", "let go ", "open ", "show ", "take out ", "tell ", "unmask "]}

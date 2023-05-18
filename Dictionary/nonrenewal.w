@@ -1,0 +1,1 @@
+{"index": 206683, "D": "the act of renewing. ", "S": [], "A": []}

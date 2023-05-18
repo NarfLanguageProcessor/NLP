@@ -1,0 +1,1 @@
+{"index": 87073, "D": "removing or capable of removing hostility, suspicion, etc., as by being charming", "S": ["convincing ", "ingratiating ", "irresistible ", "persuasive ", "seductive "], "A": ["despicable ", "disgusting "]}

@@ -1,0 +1,1 @@
+{"index": 271192, "D": "an agent of the U.S. Treasury Department, especially one whose responsibility is to enforce laws against illegal distilling or bootlegging of alcoholic liquor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97012, "D": "a deposit,  usually of metal, produced by electrolysis.", "S": [], "A": []}

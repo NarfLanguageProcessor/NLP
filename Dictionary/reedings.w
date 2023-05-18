@@ -1,0 +1,1 @@
+{"index": 264561, "D": "a set of moldings, as on a column, resembling small convex fluting.", "S": [], "A": []}

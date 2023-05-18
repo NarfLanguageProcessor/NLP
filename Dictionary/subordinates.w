@@ -1,0 +1,1 @@
+{"index": 308712, "D": "placed in or belonging to a lower order or rank.", "S": ["aide ", "assistant ", "deputy ", "servant ", "underling "], "A": ["boss ", "chief ", "leader ", "major ", "manager ", "master ", "superior "]}

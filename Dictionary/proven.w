@@ -1,0 +1,1 @@
+{"index": 254018, "D": "a past participle of prove", "S": ["accepted ", "allowed ", "authorized ", "backed ", "endorsed ", "passed ", "permitted ", "ratified ", "recognized ", "sanctioned ", "supported "], "A": ["disapproved ", "refused ", "uncertain "]}

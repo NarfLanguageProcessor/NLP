@@ -1,0 +1,1 @@
+{"index": 118815, "D": "newly made or obtained", "S": ["crisp ", "different ", "green ", "hot ", "late ", "natural ", "original ", "raw ", "recent ", "unusual "], "A": ["experienced ", "normal ", "old ", "old-fashioned ", "standard "]}

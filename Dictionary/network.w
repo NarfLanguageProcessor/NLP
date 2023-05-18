@@ -1,0 +1,1 @@
+{"index": 198917, "D": "any netlike combination of filaments, lines, veins, passages, or the like", "S": ["chain ", "grid ", "net ", "organization ", "structure ", "system ", "web "], "A": []}

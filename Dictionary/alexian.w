@@ -1,0 +1,1 @@
+{"index": 7965, "D": "a member of a congregation of brothers founded for the care of the sick at Mechlin, Brabant, in the 15th century.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 106121, "D": "something that happens or is regarded as happening; an occurrence, especially one of some importance.", "S": [], "A": []}

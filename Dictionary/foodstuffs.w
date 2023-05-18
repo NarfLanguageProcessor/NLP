@@ -1,0 +1,1 @@
+{"index": 116087, "D": "a substance used or capable of being used as nutriment.", "S": ["comestibles ", "edibles ", "perishables ", "produce ", "staples ", "vegetables ", "viands "], "A": []}

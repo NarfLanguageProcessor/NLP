@@ -1,0 +1,1 @@
+{"index": 90116, "D": "of, relating to, or of the nature of a dithyramb,  or an impassioned oration.", "S": ["boisterous ", "elevated ", "euphoric ", "wild "], "A": []}

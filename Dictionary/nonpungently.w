@@ -1,0 +1,1 @@
+{"index": 206388, "D": "sharply affecting the organs of taste or smell, as if by a penetrating power; biting; acrid.", "S": [], "A": []}

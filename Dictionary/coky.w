@@ -1,0 +1,1 @@
+{"index": 62611, "D": "the solid product resulting from the destructive distillation of coal in an oven or closed chamber or by imperfect combustion, consisting principally of carbon", "S": [], "A": []}

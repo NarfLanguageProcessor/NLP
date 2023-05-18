@@ -1,0 +1,1 @@
+{"index": 340165, "D": "qualified for or having a claim to reward, assistance, etc., because of one's actions, qualities, or situation", "S": ["inappropriate ", "ineligible ", "shameful ", "unfit ", "unsuitable "], "A": ["appropriate ", "proper ", "qualified ", "suitable "]}

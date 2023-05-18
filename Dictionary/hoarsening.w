@@ -1,0 +1,1 @@
+{"index": 142055, "D": "to make or become hoarse. ", "S": [], "A": []}

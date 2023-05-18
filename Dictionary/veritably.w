@@ -1,0 +1,1 @@
+{"index": 358555, "D": "being truly or very much so", "S": ["absolutely ", "for real ", "genuinely ", "in fact ", "indeed ", "literally ", "really ", "truly ", "verily "], "A": []}

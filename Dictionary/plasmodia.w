@@ -1,0 +1,1 @@
+{"index": 239181, "D": "an ameboid, multinucleate mass or sheet of cytoplasm characteristic of some stages of organisms, as of myxomycetes or slime molds.", "S": ["ameba ", "amoeba ", "cell ", "ciliate ", "euglena ", "flagellate ", "organism ", "paramecium ", "sporozoan ", "stentor "], "A": []}

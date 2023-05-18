@@ -1,0 +1,1 @@
+{"index": 285754, "D": "having a valence of seven; heptavalent.", "S": [], "A": []}

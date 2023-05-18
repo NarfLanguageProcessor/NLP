@@ -1,0 +1,1 @@
+{"index": 209969, "D": "heart-shaped, with the attachment at the pointed end, as a leaf.", "S": [], "A": []}

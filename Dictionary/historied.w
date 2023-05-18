@@ -1,0 +1,1 @@
+{"index": 141892, "D": "abounding in notable history;  having an illustrious past; storied", "S": [], "A": []}

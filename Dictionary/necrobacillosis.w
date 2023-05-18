@@ -1,0 +1,1 @@
+{"index": 197781, "D": "any disease of cattle, horses, sheep, and swine marked by necrotic areas in which a bacillus, Fusobacterium necrophorum, is found.", "S": [], "A": []}

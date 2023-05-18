@@ -1,0 +1,1 @@
+{"index": 5393, "D": "affirmation. ", "S": [], "A": []}

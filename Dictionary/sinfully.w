@@ -1,0 +1,1 @@
+{"index": 291660, "D": "characterized by, guilty of, or full of sin;  wicked", "S": ["immorally ", "unjustly ", "wickedly ", "wrongly "], "A": []}

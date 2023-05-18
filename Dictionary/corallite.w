@@ -1,0 +1,1 @@
+{"index": 68836, "D": "the skeleton of a single coral polyp.", "S": [], "A": []}

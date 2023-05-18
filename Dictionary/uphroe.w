@@ -1,0 +1,1 @@
+{"index": 354771, "D": "nautical a variant spelling of euphroe", "S": [], "A": []}

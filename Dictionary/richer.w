@@ -1,0 +1,1 @@
+{"index": 272533, "D": "having wealth or great possessions; abundantly supplied with resources, means, or funds; wealthy", "S": ["affluent ", "easy ", "fat ", "prosperous ", "wealthy ", "well-heeled ", "well-off ", "well-to-do "], "A": ["destitute ", "failing ", "impoverished ", "lacking ", "needy ", "poor ", "unsuccessful ", "wanting "]}

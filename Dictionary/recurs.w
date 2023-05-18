@@ -1,0 +1,1 @@
+{"index": 263794, "D": "to occur again, as an event, experience, etc.", "S": ["persist ", "reappear "], "A": ["halt ", "stop "]}

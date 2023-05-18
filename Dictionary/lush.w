@@ -1,0 +1,1 @@
+{"index": 176373, "D": "(of vegetation, plants, grasses, etc.) luxuriant; succulent; tender and juicy.", "S": ["abundant ", "dense ", "green ", "lavish ", "luscious ", "luxuriant ", "luxurious ", "opulent ", "ornate ", "overgrown ", "plush ", "rich ", "sensuous ", "sumptuous ", "verdant "], "A": ["barren ", "scarce ", "sparse "]}

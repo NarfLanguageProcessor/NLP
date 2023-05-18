@@ -1,0 +1,1 @@
+{"index": 251740, "D": "to put before a person for acceptance; offer. ", "S": [], "A": []}

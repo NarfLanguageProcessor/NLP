@@ -1,0 +1,1 @@
+{"index": 82477, "D": "to eliminate racial segregation in", "S": ["integrate "], "A": []}

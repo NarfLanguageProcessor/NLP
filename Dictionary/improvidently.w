@@ -1,0 +1,1 @@
+{"index": 149194, "D": "not provident;  lacking foresight; incautious; unwary.", "S": ["carelessly ", "foolishly ", "heedlessly ", "imprudently ", "rashly ", "thoughtlessly ", "unwisely "], "A": []}

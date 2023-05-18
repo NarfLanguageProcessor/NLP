@@ -1,0 +1,1 @@
+{"index": 158981, "D": "equiangular; isogonic.", "S": [], "A": []}

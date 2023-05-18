@@ -1,0 +1,1 @@
+{"index": 335959, "D": "excluded from or lacking a blessing.", "S": [], "A": []}

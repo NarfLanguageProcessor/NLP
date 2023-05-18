@@ -1,0 +1,1 @@
+{"index": 90375, "D": "to make divine;  deify.", "S": [], "A": []}

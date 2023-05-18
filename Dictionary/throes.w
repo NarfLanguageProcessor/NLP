@@ -1,0 +1,1 @@
+{"index": 322761, "D": "death throes", "S": ["anguish ", "misery ", "passion ", "torment ", "torture ", "woe "], "A": ["contentment ", "happiness ", "joy ", "comfort ", "health "]}

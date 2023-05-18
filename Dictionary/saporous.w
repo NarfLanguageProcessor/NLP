@@ -1,0 +1,1 @@
+{"index": 278166, "D": "full of flavor or taste; flavorful.", "S": ["appealing ", "delectable ", "delicious ", "heavenly ", "inviting ", "savory ", "tantalizing ", "tasty ", "tempting ", "yummy "], "A": ["disagreeable ", "distasteful ", "horrible ", "offensive ", "repulsive ", "tasteless ", "unappetizing ", "unpleasant "]}

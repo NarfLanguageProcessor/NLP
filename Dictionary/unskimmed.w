@@ -1,0 +1,1 @@
+{"index": 351303, "D": "to take up or remove (floating matter) from the surface of a liquid, as with a spoon or ladle", "S": [], "A": []}

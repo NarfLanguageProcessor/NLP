@@ -1,0 +1,1 @@
+{"index": 198016, "D": "the act of denying", "S": ["antithesis ", "renunciation ", "repudiation "], "A": ["OK ", "allowance ", "approval ", "permission ", "ratification ", "same ", "sanction ", "similarity "]}

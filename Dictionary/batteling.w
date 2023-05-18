@@ -1,0 +1,1 @@
+{"index": 29096, "D": "an account with or terminal bill from a college of Oxford University for board, kitchen, and buttery expenses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311466, "D": "of or like a dog; relating to or characteristic of dogs", "S": [], "A": []}

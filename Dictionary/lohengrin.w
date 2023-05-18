@@ -1,0 +1,1 @@
+{"index": 174729, "D": "the son of Parzival (the German name of Percival), and a knight of the Holy Grail. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316816, "D": "formed into a tartrate;  combined with tartaric acid.", "S": [], "A": []}

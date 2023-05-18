@@ -1,0 +1,1 @@
+{"index": 21932, "D": "capable of being assumed,  as an office or an obligation", "S": [], "A": []}

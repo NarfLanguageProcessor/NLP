@@ -1,0 +1,1 @@
+{"index": 101109, "D": "a yellow-green fibrous magnesium silicate, an orthorhombic pyroxene found in norites containing less than five percent ferrous oxide.", "S": [], "A": []}

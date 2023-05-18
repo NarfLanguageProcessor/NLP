@@ -1,0 +1,1 @@
+{"index": 271021, "D": "to unite again, as after separation.", "S": ["join ", "reconcile ", "reconvene ", "rejoin ", "reunify "], "A": ["estrange ", "go separate ways ", "separate "]}

@@ -1,0 +1,1 @@
+{"index": 359649, "D": "an obsolete plucked stringed instrument of Spain, related to the guitar", "S": [], "A": []}

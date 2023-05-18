@@ -1,0 +1,1 @@
+{"index": 200251, "D": "a person or thing that nips.", "S": ["biter ", "boy ", "child ", "lad ", "youngster "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 347704, "D": "tending to make perfect;  conducive to perfection. ", "S": [], "A": []}

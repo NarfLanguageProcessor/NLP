@@ -1,0 +1,1 @@
+{"index": 253546, "D": "a chief clerk or official in certain courts of law.", "S": [], "A": []}

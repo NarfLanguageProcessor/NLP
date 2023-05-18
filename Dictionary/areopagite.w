@@ -1,0 +1,1 @@
+{"index": 19398, "D": "a member of the council of the Areopagus.", "S": [], "A": []}

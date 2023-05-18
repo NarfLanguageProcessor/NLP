@@ -1,0 +1,1 @@
+{"index": 206698, "D": "a person or thing that repeats. ", "S": [], "A": []}

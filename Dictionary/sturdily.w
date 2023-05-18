@@ -1,0 +1,1 @@
+{"index": 306981, "D": "strongly built; stalwart; robust", "S": ["actively ", "energetically ", "firmly ", "fully ", "greatly ", "heartily ", "heavily ", "resolutely ", "robustly ", "solidly ", "staunchly ", "steadily ", "vigorously "], "A": []}

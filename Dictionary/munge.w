@@ -1,0 +1,1 @@
+{"index": 195558, "D": "to manipulate (raw data), especially to convert (data) from one format to another", "S": [], "A": []}

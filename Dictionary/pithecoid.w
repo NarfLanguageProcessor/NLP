@@ -1,0 +1,1 @@
+{"index": 238299, "D": "belonging or pertaining to the genus Pithecia and related genera, including the saki monkeys.", "S": [], "A": []}

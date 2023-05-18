@@ -1,0 +1,1 @@
+{"index": 267096, "D": "something that remains or is left", "S": ["rest "], "A": ["lack ", "lot ", "need ", "possessions ", "want ", "whole "]}

@@ -1,0 +1,1 @@
+{"index": 41713, "D": "a bear, especially a European brown bear.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8301, "D": "an allowance paid to a person by that person's spouse or former spouse for maintenance, granted by a court upon a legal separation or a divorce or while action is pending.", "S": ["keep ", "livelihood ", "living ", "maintenance ", "provision ", "remittance ", "subsistence ", "sustenance ", "upkeep "], "A": ["entertainment ", "fun ", "neglect "]}

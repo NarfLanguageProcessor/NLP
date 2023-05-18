@@ -1,0 +1,1 @@
+{"index": 161185, "D": "a very short time; moment", "S": ["breath ", "crack ", "flash ", "minute ", "moment ", "second ", "shake ", "trice ", "twinkling "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307632, "D": "a shape resembling a segment of a ring tapering to points at the ends.", "S": [], "A": []}

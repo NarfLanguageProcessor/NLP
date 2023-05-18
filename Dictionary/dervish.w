@@ -1,0 +1,1 @@
+{"index": 82344, "D": "a member of any of various Muslim ascetic orders, as the Sufis, some of which carry on ecstatic observances, such as energetic dancing and whirling or vociferous chanting or shouting.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359519, "D": "a telephone  that transmits and receives both voice and video,  in the form of sequenced still images, between dedicated hardware devices.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1148, "D": "a symptom of mental disorder involving impairment or loss of volition.", "S": [], "A": []}

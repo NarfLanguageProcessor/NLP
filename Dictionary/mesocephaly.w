@@ -1,0 +1,1 @@
+{"index": 184189, "D": "having a head with a cephalic index between that of dolichocephaly and brachycephaly.", "S": [], "A": []}

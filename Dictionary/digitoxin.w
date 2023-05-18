@@ -1,0 +1,1 @@
+{"index": 85481, "D": "a white, crystalline, water-insoluble cardiac glycoside, C41H64O13, or a mixture of cardiac glycosides of which this is the chief constituent, obtained from digitalis  and used in the treatment of congestive heart failure.", "S": [], "A": []}

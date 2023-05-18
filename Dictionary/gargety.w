@@ -1,0 +1,1 @@
+{"index": 122148, "D": "inflammation of the udder of a cow; bovine mastitis.", "S": [], "A": []}

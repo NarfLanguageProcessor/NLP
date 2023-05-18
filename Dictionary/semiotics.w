@@ -1,0 +1,1 @@
+{"index": 284623, "D": "the study of signs and symbols as elements of communicative behavior; the analysis of systems of communication, as language, gestures, or clothing.", "S": ["parole ", "pragmatics ", "semantics ", "symbolism "], "A": []}

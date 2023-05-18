@@ -1,0 +1,1 @@
+{"index": 67339, "D": "existing, occurring, or living at the same time; belonging to the same time", "S": ["breed ", "crop ", "time "], "A": ["destruction "]}

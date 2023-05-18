@@ -1,0 +1,1 @@
+{"index": 112037, "D": "a combining form meaning \u201cfiber,\u201d used in the formation of compound words", "S": [], "A": []}

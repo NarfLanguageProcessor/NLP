@@ -1,0 +1,1 @@
+{"index": 308106, "D": "the duties, term in office, etc., of a governor. ", "S": [], "A": []}

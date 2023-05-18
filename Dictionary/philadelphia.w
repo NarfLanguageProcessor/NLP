@@ -1,0 +1,1 @@
+{"index": 233540, "D": "a city in SE Pennsylvania, on the Delaware River", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27927, "D": "the sense or perception of pressure.", "S": [], "A": []}

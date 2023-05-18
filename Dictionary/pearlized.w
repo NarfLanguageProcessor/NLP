@@ -1,0 +1,1 @@
+{"index": 228470, "D": "resembling or made to resemble mother-of-pearl; iridescent", "S": [], "A": []}

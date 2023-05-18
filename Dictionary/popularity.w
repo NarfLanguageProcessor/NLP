@@ -1,0 +1,1 @@
+{"index": 243308, "D": "the quality or fact of being popular. ", "S": ["acceptance ", "acclaim ", "demand ", "fame ", "following ", "reputation "], "A": ["disapproval ", "disfavor ", "dislike ", "disrespect ", "hate "]}

@@ -1,0 +1,1 @@
+{"index": 265807, "D": "regressing  or tending to regress; retrogressive. ", "S": ["Tory ", "counterrevolutionary ", "die-hard ", "old-line ", "orthodox ", "retrogressive ", "right ", "rightist ", "rigid ", "standpat ", "traditional ", "traditionalistic ", "ultraconservative/ultra-conservative "], "A": []}

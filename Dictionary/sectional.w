@@ -1,0 +1,1 @@
+{"index": 282852, "D": "pertaining or limited to a particular section;  local or regional", "S": ["factional "], "A": ["unrestricted "]}

@@ -1,0 +1,1 @@
+{"index": 243655, "D": "a structure consisting of a roof supported by columns or piers, usually attached to a building as a porch.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236080, "D": "the creation or use of pictures or visual images, especially of recognizable or realistic representations.", "S": [], "A": []}

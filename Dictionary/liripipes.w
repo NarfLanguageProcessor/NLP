@@ -1,0 +1,1 @@
+{"index": 173401, "D": "a hood with a long, hanging peak, worn originally by medieval academics and later adopted for general wear in the 14th and 15th centuries.", "S": [], "A": []}

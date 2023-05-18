@@ -1,0 +1,1 @@
+{"index": 240173, "D": "to walk heavily or move laboriously; trudge", "S": [], "A": []}

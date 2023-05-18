@@ -1,0 +1,1 @@
+{"index": 291004, "D": "of, relating to, or noting a symphysis. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 317576, "D": "a person or thing that teases. ", "S": ["decoy ", "inducement ", "lure ", "seduction ", "temptation "], "A": ["discouragement "]}

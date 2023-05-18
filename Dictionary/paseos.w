@@ -1,0 +1,1 @@
+{"index": 227198, "D": "a usually tree-lined thoroughfare; avenue.", "S": [], "A": []}

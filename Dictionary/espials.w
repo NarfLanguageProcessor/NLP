@@ -1,0 +1,1 @@
+{"index": 104416, "D": "the act of spying.", "S": ["attention ", "beholding ", "cognizance ", "detection ", "discovery ", "finding ", "note ", "notice ", "observance ", "spotting "], "A": ["heedlessness ", "ignorance ", "miss ", "neglect "]}

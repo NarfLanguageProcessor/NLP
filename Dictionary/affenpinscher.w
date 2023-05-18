@@ -1,0 +1,1 @@
+{"index": 5339, "D": "one of a breed of toy dogs having a dense, wiry, red or gray coat with tufts of hair around the eyes, nose, and chin, cropped ears, and a docked tail.", "S": [], "A": []}

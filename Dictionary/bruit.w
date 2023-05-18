@@ -1,0 +1,1 @@
+{"index": 41722, "D": "to voice abroad; rumor (used chiefly in the passive and often followed by about)", "S": ["advertise ", "blazon ", "broadcast ", "circulate ", "disseminate ", "gossip ", "noise ", "promulgate ", "propagate ", "report ", "spread ", "whisper "], "A": ["collect ", "conceal ", "gather ", "hide "]}

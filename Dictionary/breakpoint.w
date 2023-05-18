@@ -1,0 +1,1 @@
+{"index": 40267, "D": "a convenient point  at which to make a change, interruption, etc.", "S": [], "A": []}

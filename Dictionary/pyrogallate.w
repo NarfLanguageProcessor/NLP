@@ -1,0 +1,1 @@
+{"index": 237789, "D": "a salt or ether of pyrogallol. ", "S": [], "A": []}

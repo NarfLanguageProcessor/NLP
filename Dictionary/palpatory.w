@@ -1,0 +1,1 @@
+{"index": 224151, "D": "to examine by touch, especially for the purpose of diagnosing disease or illness.", "S": [], "A": []}

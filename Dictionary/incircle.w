@@ -1,0 +1,1 @@
+{"index": 149872, "D": "a circle  inscribed within a triangle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213577, "D": "any gastropod mollusk of the order Opisthobranchia, as the sea slugs, sea butterflies, and sea hares, characterized by a vestigial or absent mantle and shell and two pairs of tentacles.", "S": [], "A": []}

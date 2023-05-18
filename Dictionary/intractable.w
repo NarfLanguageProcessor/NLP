@@ -1,0 +1,1 @@
+{"index": 156462, "D": "not easily controlled or directed; not docile or manageable; stubborn; obstinate", "S": ["incurable ", "intransigent ", "stubborn ", "uncompromising ", "unmanageable "], "A": ["willing "]}

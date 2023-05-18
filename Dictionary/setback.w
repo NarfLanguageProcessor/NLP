@@ -1,0 +1,1 @@
+{"index": 286624, "D": "a check to progress; a reverse or defeat", "S": ["blow ", "defeat ", "delay ", "difficulty ", "hindrance ", "impediment ", "misfortune ", "obstacle ", "reversal ", "set-back ", "slowdown ", "stumbling block ", "trouble "], "A": ["advance ", "advantage ", "aid ", "assistance ", "blessing ", "expedition ", "furtherance ", "help "]}

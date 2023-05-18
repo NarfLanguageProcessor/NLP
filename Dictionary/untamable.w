@@ -1,0 +1,1 @@
+{"index": 352657, "D": "(of an animal or person) not capable of being tamed, subdued, or made obedient", "S": [], "A": []}

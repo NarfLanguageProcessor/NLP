@@ -1,0 +1,1 @@
+{"index": 236028, "D": "one of a number of ornamental loops in embroidery, or along the edge of lace, ribbon, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 116151, "D": "a unit of illuminance or illumination, equivalent to the illumination produced by a source of one candle at a distance of one foot and equal to one lumen incident per square foot. Abbreviation", "S": [], "A": []}

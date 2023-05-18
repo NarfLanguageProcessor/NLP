@@ -1,0 +1,1 @@
+{"index": 212816, "D": "an uncontrollable desire to buy things.", "S": [], "A": []}

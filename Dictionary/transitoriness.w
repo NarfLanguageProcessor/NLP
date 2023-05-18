@@ -1,0 +1,1 @@
+{"index": 328007, "D": "not lasting, enduring, permanent, or eternal.", "S": ["conciseness ", "concision ", "condensation ", "crispness ", "curtness ", "economy ", "ephemerality ", "impermanence ", "pithiness ", "pointedness ", "succinctness ", "terseness ", "transience "], "A": ["lengthiness ", "longevity ", "permanence "]}

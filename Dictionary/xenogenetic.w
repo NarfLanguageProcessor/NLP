@@ -1,0 +1,1 @@
+{"index": 368378, "D": "heterogenesis (def. 1). ", "S": ["ancestral ", "hereditary ", "historical "], "A": ["acquired "]}

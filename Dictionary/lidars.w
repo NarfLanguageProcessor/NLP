@@ -1,0 +1,1 @@
+{"index": 171779, "D": "a device similar to radar in principle and operation but using infrared laser light instead of radio waves and capable of detecting particles, distant objects, and varying physical conditions in the atmosphere.", "S": [], "A": []}

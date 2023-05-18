@@ -1,0 +1,1 @@
+{"index": 224701, "D": "subsisting on bread; bread-eating.", "S": [], "A": []}

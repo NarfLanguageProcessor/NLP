@@ -1,0 +1,1 @@
+{"index": 260000, "D": "a Christian subject of an Ottoman ruler.", "S": [], "A": []}

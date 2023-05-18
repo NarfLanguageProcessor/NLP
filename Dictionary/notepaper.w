@@ -1,0 +1,1 @@
+{"index": 208884, "D": "writing paper,  especially that used in writing notes or personal correspondence and usually less than 8\u00bd \u00d7 11 inches (21.6 \u00d7 27.9 centimeters) in size.", "S": ["recycled paper ", "stationery ", "wove paper ", "writing pad "], "A": []}

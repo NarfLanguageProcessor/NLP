@@ -1,0 +1,1 @@
+{"index": 204434, "D": "hesitating;  undecided, doubtful, or disinclined.", "S": [], "A": []}

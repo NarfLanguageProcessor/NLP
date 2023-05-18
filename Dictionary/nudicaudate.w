@@ -1,0 +1,1 @@
+{"index": 209414, "D": "(of such animals as rats) having a hairless tail", "S": [], "A": []}

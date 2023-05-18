@@ -1,0 +1,1 @@
+{"index": 202657, "D": "eager to learn or know; inquisitive.", "S": [], "A": []}

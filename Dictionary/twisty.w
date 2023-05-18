@@ -1,0 +1,1 @@
+{"index": 333435, "D": "(especially of a road) twisting  or winding", "S": ["arched ", "crooked ", "curvaceous ", "elliptical ", "rounded ", "serpentine ", "twisted ", "twisting "], "A": ["straight "]}

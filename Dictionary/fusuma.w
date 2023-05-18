@@ -1,0 +1,1 @@
+{"index": 120676, "D": "a sliding door in a Japanese house, especially one serving as a room partition.", "S": [], "A": []}

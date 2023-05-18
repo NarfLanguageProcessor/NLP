@@ -1,0 +1,1 @@
+{"index": 245948, "D": "of, pertaining to, characterized by, or expressing entreaty or supplication", "S": [], "A": []}

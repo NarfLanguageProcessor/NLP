@@ -1,0 +1,1 @@
+{"index": 354703, "D": "an incline going up in the direction of movement.", "S": [], "A": []}

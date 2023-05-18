@@ -1,0 +1,1 @@
+{"index": 105612, "D": "to refer to by means of euphemism. ", "S": [], "A": []}

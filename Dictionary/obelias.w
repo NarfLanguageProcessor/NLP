@@ -1,0 +1,1 @@
+{"index": 210025, "D": "a colonial hydroid of the genus Obelia, common in temperate seas and appearing as a delicate, mosslike growth on rocks, pilings, etc.", "S": [], "A": []}

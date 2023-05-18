@@ -1,0 +1,1 @@
+{"index": 215193, "D": "orthotropic tendency or growth.", "S": [], "A": []}

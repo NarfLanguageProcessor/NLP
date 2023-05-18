@@ -1,0 +1,1 @@
+{"index": 84117, "D": "diagonal; diagonally.", "S": [], "A": []}

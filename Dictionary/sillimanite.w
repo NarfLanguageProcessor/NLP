@@ -1,0 +1,1 @@
+{"index": 290517, "D": "a mineral, aluminum silicate, Al2SiO5, occurring in the form of long, slender, and often fibrous crystals.", "S": [], "A": []}

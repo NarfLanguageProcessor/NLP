@@ -1,0 +1,1 @@
+{"index": 13998, "D": "to make hostile or unfriendly; make an enemy or antagonist  of", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268071, "D": "to revoke or withdraw formally or officially", "S": [], "A": []}

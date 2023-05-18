@@ -1,0 +1,1 @@
+{"index": 50854, "D": "hundredth; pertaining to division into hundredths.", "S": [], "A": []}

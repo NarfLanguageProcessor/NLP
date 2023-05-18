@@ -1,0 +1,1 @@
+{"index": 252766, "D": "comparative relation between things or magnitudes as to size, quantity, number, etc.; ratio.", "S": ["bulk ", "capacity ", "dimension ", "distribution ", "fraction ", "magnitude ", "percentage ", "portion ", "rate ", "ratio ", "scale ", "scope ", "share ", "volume "], "A": ["entirety ", "whole "]}

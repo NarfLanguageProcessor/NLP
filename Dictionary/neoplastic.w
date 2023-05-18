@@ -1,0 +1,1 @@
+{"index": 198449, "D": "being or relating to the new, often uncontrolled growth of abnormal tissue", "S": [], "A": []}

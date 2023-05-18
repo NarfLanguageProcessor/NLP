@@ -1,0 +1,1 @@
+{"index": 186674, "D": "the middle of the three primary divisions of the brain  in the embryo of a vertebrate or the part of the adult brain  derived from this tissue; mesencephalon.", "S": [], "A": []}

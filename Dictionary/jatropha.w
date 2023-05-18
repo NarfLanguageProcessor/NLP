@@ -1,0 +1,1 @@
+{"index": 160578, "D": "any plant of the genus Jatropha, esp the poisonous shrub Jatropha curcas, originating in Central America but also found in Asia and Africa; used mainly as a component for biofuel", "S": [], "A": []}

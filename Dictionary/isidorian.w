@@ -1,0 +1,1 @@
+{"index": 158674, "D": "Spanish archbishop, historian, and encyclopedist.", "S": [], "A": []}

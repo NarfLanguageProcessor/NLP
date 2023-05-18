@@ -1,0 +1,1 @@
+{"index": 303930, "D": "the state or condition of being stereophonic. ", "S": [], "A": []}

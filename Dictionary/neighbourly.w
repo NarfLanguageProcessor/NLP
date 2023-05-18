@@ -1,0 +1,1 @@
+{"index": 198159, "D": "kind, friendly, or sociable, as befits a neighbour", "S": [], "A": []}

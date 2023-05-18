@@ -1,0 +1,1 @@
+{"index": 1284, "D": "Compare acanthus family. ", "S": [], "A": []}

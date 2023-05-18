@@ -1,0 +1,1 @@
+{"index": 260852, "D": "any of several minnows of the genus Rasbora, inhabiting fresh waters of southeastern Asia and the Malay Archipelago, especially the silvery R. heteromorpha, that has a black triangular marking near the tail and is often kept in aquariums.", "S": [], "A": []}

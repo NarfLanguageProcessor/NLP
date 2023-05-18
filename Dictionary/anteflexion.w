@@ -1,0 +1,1 @@
+{"index": 14129, "D": "a bending forward of an organ, especially of the body of the uterus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293708, "D": "a relatively smooth interval between heavy seas.", "S": [], "A": []}

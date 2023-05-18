@@ -1,0 +1,1 @@
+{"index": 123970, "D": "of or relating to the form of the earth or the forms of its surface.", "S": [], "A": []}

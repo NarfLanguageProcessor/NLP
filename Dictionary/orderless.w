@@ -1,0 +1,1 @@
+{"index": 214226, "D": "an authoritative direction or instruction; command; mandate. ", "S": ["aimless ", "chaotic ", "erratic ", "haphazard "], "A": ["organized ", "systematic "]}

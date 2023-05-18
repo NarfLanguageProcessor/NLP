@@ -1,0 +1,1 @@
+{"index": 121674, "D": "a variant of gamy. ", "S": [], "A": []}

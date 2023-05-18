@@ -1,0 +1,1 @@
+{"index": 133638, "D": "any vine or shrub belonging to the genus Hardenbergia, of the legume family, native to Australia, having evergreen foliage and long clusters of usually purplish flowers.", "S": [], "A": []}

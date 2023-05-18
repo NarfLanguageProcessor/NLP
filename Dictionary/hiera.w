@@ -1,0 +1,1 @@
+{"index": 139094, "D": "(in ancient Greece) a temple or a sacred place.", "S": [], "A": []}

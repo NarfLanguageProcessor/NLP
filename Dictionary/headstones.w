@@ -1,0 +1,1 @@
+{"index": 134728, "D": "a stone  marker set at the head  of a grave; gravestone.", "S": ["marker ", "monument ", "tombstone "], "A": []}

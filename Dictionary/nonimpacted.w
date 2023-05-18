@@ -1,0 +1,1 @@
+{"index": 204582, "D": "tightly or immovably wedged in.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53698, "D": "to take up by chemisorption. ", "S": [], "A": []}

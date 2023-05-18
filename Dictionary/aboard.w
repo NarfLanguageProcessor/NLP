@@ -1,0 +1,1 @@
+{"index": 636, "D": "on board; on, in, or into a ship, train, airplane, bus, etc.", "S": ["boarded ", "consigned ", "embarked ", "en route ", "in transit ", "loaded ", "on ", "on board ", "traveling "], "A": ["not on ", "off "]}

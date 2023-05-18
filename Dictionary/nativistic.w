@@ -1,0 +1,1 @@
+{"index": 197290, "D": "a person who urges the promotion of the interests of inhabitants born in a country over those of immigrants", "S": [], "A": []}

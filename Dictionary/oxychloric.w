@@ -1,0 +1,1 @@
+{"index": 222235, "D": "a compound having oxygen and chlorine atoms bonded to another element, as bismuth oxychloride,  BiOCl.", "S": [], "A": []}

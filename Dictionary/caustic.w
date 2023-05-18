@@ -1,0 +1,1 @@
+{"index": 50071, "D": "capable of burning, corroding, or destroying living tissue.", "S": ["abrasive ", "acerbic ", "acid ", "biting ", "mordant ", "pungent "], "A": ["bland ", "kind ", "mild ", "nice ", "sweet "]}

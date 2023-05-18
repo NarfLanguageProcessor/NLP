@@ -1,0 +1,1 @@
+{"index": 88001, "D": "to remove from the tomb; disinter.", "S": ["expose ", "unearth "], "A": []}

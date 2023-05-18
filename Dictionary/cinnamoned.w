@@ -1,0 +1,1 @@
+{"index": 57764, "D": "the aromatic inner bark of any of several East Indian trees belonging to the genus Cinnamonum, of the laurel family, especially the bark of C. zeylanicum(Ceylon cinnamon ), used as a spice, or that of C. loureirii(Saigon cinnamon ), used in medicine as a cordial and carminative.", "S": [], "A": []}

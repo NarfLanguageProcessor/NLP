@@ -1,0 +1,1 @@
+{"index": 343586, "D": "to make healthy, whole, or sound; restore to health; free from ailment.", "S": [], "A": []}

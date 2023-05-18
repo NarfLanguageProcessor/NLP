@@ -1,0 +1,1 @@
+{"index": 328851, "D": "any parasitic platyhelminth or flatworm of the class Trematoda,  having one or more external suckers; fluke.", "S": [], "A": []}

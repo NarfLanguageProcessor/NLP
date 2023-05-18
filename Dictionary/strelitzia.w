@@ -1,0 +1,1 @@
+{"index": 306042, "D": "any southern African perennial herbaceous plant of the genus Strelitzia, cultivated for its showy flowers", "S": [], "A": []}

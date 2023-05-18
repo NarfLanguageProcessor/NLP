@@ -1,0 +1,1 @@
+{"index": 119162, "D": "to squander or disperse piecemeal; waste little by little (usually followed by away)", "S": ["delay ", "idling ", "loafing ", "playing ", "poking ", "procrastination ", "toying ", "trifling "], "A": ["hastening ", "hurrying ", "push ", "rush "]}

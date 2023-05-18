@@ -1,0 +1,1 @@
+{"index": 61164, "D": "having a common axis or coincident axes.", "S": ["coextensive ", "coordinated ", "parallel ", "side-by-side "], "A": ["off-center "]}

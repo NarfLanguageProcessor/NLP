@@ -1,0 +1,1 @@
+{"index": 117368, "D": "condition or quality of being formal;  accordance with required or traditional rules, procedures, etc.; conventionality.", "S": ["custom ", "guideline ", "protocol "], "A": []}

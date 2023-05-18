@@ -1,0 +1,1 @@
+{"index": 68187, "D": "of or affected with convulsion. ", "S": [], "A": []}

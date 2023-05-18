@@ -1,0 +1,1 @@
+{"index": 150860, "D": "the automatic adjustment of wages, taxes, pension benefits, interest rates, etc., according to changes in the cost of living or another economic indicator, especially to compensate for inflation.", "S": [], "A": []}

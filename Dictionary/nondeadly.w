@@ -1,0 +1,1 @@
+{"index": 202685, "D": "causing or tending to cause death; fatal; lethal", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227193, "D": "(in bullfighting) a maneuver by a bullfighter with the capa or muleta to gain the attention of the bull and to guide the course of its attack.", "S": [], "A": []}

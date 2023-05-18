@@ -1,0 +1,1 @@
+{"index": 135792, "D": "Compare Perioeci, Spartiate. ", "S": [], "A": []}

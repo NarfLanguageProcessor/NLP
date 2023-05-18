@@ -1,0 +1,1 @@
+{"index": 34914, "D": "a minor disfigurement or blemish on a person's skin at birth;  nevus.", "S": ["angioma ", "hemangioma ", "mole ", "nevus "], "A": []}

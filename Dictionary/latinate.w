@@ -1,0 +1,1 @@
+{"index": 168970, "D": "of, like, pertaining to, or derived from Latin.", "S": [], "A": []}

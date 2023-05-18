@@ -1,0 +1,1 @@
+{"index": 288648, "D": "a person or thing that shocks. ", "S": ["close call "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66251, "D": "of or relating to a congregation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148436, "D": "to drive or urge forward; press on; incite or constrain to action.", "S": ["compel ", "induce ", "oblige "], "A": ["hinder ", "calm ", "check ", "depress ", "discourage ", "dissuade ", "end ", "halt ", "leave alone ", "let go ", "prevent ", "pull ", "repress ", "stop "]}

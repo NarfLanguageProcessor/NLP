@@ -1,0 +1,1 @@
+{"index": 355289, "D": "the bivalent ion UO2+2, or the group UO2, which forms salts with acids.", "S": [], "A": []}

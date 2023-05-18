@@ -1,0 +1,1 @@
+{"index": 289736, "D": "a small car  attached on one side  to a motorcycle and supported on the other side  by a wheel of its own, used for a passenger, parcels, etc.", "S": [], "A": []}

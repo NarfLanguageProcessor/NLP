@@ -1,0 +1,1 @@
+{"index": 110455, "D": "an upholstered armchair, especially one with open sides.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127407, "D": "a very common mineral, iron hydroxide, HFeO2, occurring in crystals, but more commonly in yellow or brown earthy masses", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 254111, "D": "containing a proviso or condition; conditional.", "S": [], "A": []}

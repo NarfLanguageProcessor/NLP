@@ -1,0 +1,1 @@
+{"index": 87220, "D": "to pay out (money), especially for expenses; expend.", "S": ["contribute ", "dispense ", "distribute ", "expend ", "pony up "], "A": ["hold ", "keep ", "take ", "attach ", "collect ", "combine ", "gather ", "join ", "unite "]}

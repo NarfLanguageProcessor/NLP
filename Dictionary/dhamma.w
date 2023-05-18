@@ -1,0 +1,1 @@
+{"index": 83886, "D": "Buddhism a variant of dharma", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 318279, "D": "a brand name for an apparatus, actuated by punched paper tape, that fits over the keyboard of a slugcasting machine, as the Linotype, for operating it automatically. Abbreviation", "S": [], "A": []}

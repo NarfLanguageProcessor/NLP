@@ -1,0 +1,1 @@
+{"index": 63745, "D": "a thickened secretion plugging a duct of the skin, especially of a sebaceous gland; blackhead.", "S": [], "A": []}

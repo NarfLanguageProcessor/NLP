@@ -1,0 +1,1 @@
+{"index": 84398, "D": "a period of hormonally controlled quiescence, especially in immature insects, characterized by cessation of growth and reduction of metabolic activity, often occurring seasonally or when environmental conditions are unfavorable.", "S": [], "A": []}

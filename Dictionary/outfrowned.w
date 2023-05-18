@@ -1,0 +1,1 @@
+{"index": 216681, "D": "to outdo in frowning;  silence, abash, or subdue by frowning. ", "S": [], "A": []}

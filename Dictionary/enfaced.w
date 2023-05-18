@@ -1,0 +1,1 @@
+{"index": 100173, "D": "to write, print, or stamp something on the face  of (a note, draft, etc.).", "S": [], "A": []}

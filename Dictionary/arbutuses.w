@@ -1,0 +1,1 @@
+{"index": 18615, "D": "any of the evergreen shrubs or trees belonging to the genus Arbutus, of the heath family, especially A. unedo, of southern Europe, with scarlet berries, cultivated for ornament and food.", "S": [], "A": []}

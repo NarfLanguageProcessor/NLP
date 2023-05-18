@@ -1,0 +1,1 @@
+{"index": 307491, "D": "almost or imperfectly columnar. ", "S": [], "A": []}

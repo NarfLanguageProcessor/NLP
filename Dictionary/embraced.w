@@ -1,0 +1,1 @@
+{"index": 98242, "D": "to take or clasp in the arms; press to the bosom; hug. ", "S": ["accessible ", "familiar ", "prevalent ", "public ", "rampant ", "ubiquitous ", "universal "], "A": ["limited ", "particular ", "uncommon "]}

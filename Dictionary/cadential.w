@@ -1,0 +1,1 @@
+{"index": 44319, "D": "of, relating to, or constituting a musical cadence.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183796, "D": "a short sofa of the Empire period, having arms of unequal height connected by a back with a sloping top.", "S": [], "A": []}

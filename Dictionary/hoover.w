@@ -1,0 +1,1 @@
+{"index": 143663, "D": "to clean with a vacuum cleaner.", "S": ["vacuum sweeper "], "A": []}

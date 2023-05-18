@@ -1,0 +1,1 @@
+{"index": 245325, "D": "a mischievous or malicious person who plays tricks, practical jokes, etc., at the expense of another.", "S": ["prank ", "rascal ", "rogue "], "A": ["advantage ", "aid ", "assistance ", "behavior ", "benefit ", "blessing ", "favor ", "good ", "goodness ", "happiness ", "help ", "kindness ", "manners ", "obedience ", "right ", "virtue "]}

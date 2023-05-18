@@ -1,0 +1,1 @@
+{"index": 207882, "D": "of or relating to the treating or curing of disease; curative.", "S": [], "A": []}

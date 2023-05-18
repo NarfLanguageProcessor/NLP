@@ -1,0 +1,1 @@
+{"index": 202666, "D": "the act of cutting something short or cutting it back; reduction", "S": [], "A": []}

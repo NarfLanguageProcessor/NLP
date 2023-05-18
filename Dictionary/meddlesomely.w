@@ -1,0 +1,1 @@
+{"index": 181982, "D": "given to meddling;  interfering; intrusive.", "S": [], "A": []}

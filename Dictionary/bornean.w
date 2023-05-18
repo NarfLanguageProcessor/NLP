@@ -1,0 +1,1 @@
+{"index": 38461, "D": "of or relating to Borneo or its inhabitants", "S": [], "A": []}

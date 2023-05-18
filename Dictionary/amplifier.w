@@ -1,0 +1,1 @@
+{"index": 11337, "D": "a person or thing that amplifies  or enlarges.", "S": ["amp ", "loudspeaker "], "A": []}

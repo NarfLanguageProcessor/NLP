@@ -1,0 +1,1 @@
+{"index": 58135, "D": "to pour around; diffuse.", "S": [], "A": []}

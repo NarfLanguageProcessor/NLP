@@ -1,0 +1,1 @@
+{"index": 351226, "D": "slightly or superficially burned; scorched", "S": [], "A": []}

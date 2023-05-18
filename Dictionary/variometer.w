@@ -1,0 +1,1 @@
+{"index": 357280, "D": "an instrument for measuring inductance, consisting essentially of an inductor with two or more coils whose relative position may be changed to vary the inductance.", "S": [], "A": []}

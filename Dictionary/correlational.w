@@ -1,0 +1,1 @@
+{"index": 69639, "D": "mutual relation of two or more things, parts, etc.", "S": [], "A": []}

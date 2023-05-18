@@ -1,0 +1,1 @@
+{"index": 75840, "D": "Computer Users' Tape System", "S": ["laceration ", "wound "], "A": []}

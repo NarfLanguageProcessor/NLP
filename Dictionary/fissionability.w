@@ -1,0 +1,1 @@
+{"index": 113430, "D": "capable of or possessing a nucleus or nuclei capable of undergoing fission", "S": [], "A": []}

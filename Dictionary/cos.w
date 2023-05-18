@@ -1,0 +1,1 @@
+{"index": 69927, "D": "romaine. ", "S": ["carbon monoxide gas ", "exhaust fumes "], "A": []}

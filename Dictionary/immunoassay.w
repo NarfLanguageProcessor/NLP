@@ -1,0 +1,1 @@
+{"index": 148137, "D": "any laboratory method for detecting a substance by using an antibody reactive with it.", "S": [], "A": []}

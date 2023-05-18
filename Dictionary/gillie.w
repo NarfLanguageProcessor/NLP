@@ -1,0 +1,1 @@
+{"index": 124936, "D": "a male attendant or personal servant to a Highland chieftain.", "S": [], "A": []}

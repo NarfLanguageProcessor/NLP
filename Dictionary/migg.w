@@ -1,0 +1,1 @@
+{"index": 186998, "D": "a playing marble, especially one that is not used as a shooter.", "S": [], "A": []}

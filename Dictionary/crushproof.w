@@ -1,0 +1,1 @@
+{"index": 74278, "D": "resistant to being crushed", "S": [], "A": []}

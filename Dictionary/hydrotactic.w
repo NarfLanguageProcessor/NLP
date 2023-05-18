@@ -1,0 +1,1 @@
+{"index": 138986, "D": "oriented movement toward or away from water.", "S": [], "A": []}

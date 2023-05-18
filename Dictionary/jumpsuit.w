@@ -1,0 +1,1 @@
+{"index": 162308, "D": "a one-piece suit  worn by parachutists for jumping. ", "S": ["maillot ", "maillot de bain ", "swimsuit ", "tank suit "], "A": []}

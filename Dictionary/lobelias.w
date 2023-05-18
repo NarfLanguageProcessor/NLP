@@ -1,0 +1,1 @@
+{"index": 174203, "D": "any herbaceous or woody plant of the genus Lobelia, having long clusters of blue, red, yellow, or white flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100795, "D": "an organic compound containing a hydroxyl group attached to a doubly linked carbon atom, as in >C=C(OH)\u2212.", "S": [], "A": []}

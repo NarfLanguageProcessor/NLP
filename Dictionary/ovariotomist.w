@@ -1,0 +1,1 @@
+{"index": 218042, "D": "incision into or removal of an ovary.", "S": [], "A": []}

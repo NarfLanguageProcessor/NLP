@@ -1,0 +1,1 @@
+{"index": 38960, "D": "tending characteristically to bounce  or bounce  well", "S": [], "A": []}

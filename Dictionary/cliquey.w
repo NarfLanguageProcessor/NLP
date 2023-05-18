@@ -1,0 +1,1 @@
+{"index": 60153, "D": "exclusive, confined to a small group; forming cliques", "S": ["cabalistic ", "elite ", "exclusive ", "select "], "A": []}

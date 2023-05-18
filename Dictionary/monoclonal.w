@@ -1,0 +1,1 @@
+{"index": 192200, "D": "pertaining to cells or cell products derived from a single clone. ", "S": [], "A": []}

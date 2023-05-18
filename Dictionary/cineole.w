@@ -1,0 +1,1 @@
+{"index": 57687, "D": "a colorless, oily, slightly water-soluble liquid terpene ether, C10H18O, having a camphorlike odor and a pungent, spicy, cooling taste, found in eucalyptus, cajeput, and other essential oils", "S": [], "A": []}

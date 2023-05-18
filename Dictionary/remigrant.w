@@ -1,0 +1,1 @@
+{"index": 267279, "D": "a person or thing that returns.", "S": [], "A": []}

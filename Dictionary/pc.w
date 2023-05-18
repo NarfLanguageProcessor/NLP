@@ -1,0 +1,1 @@
+{"index": 228307, "D": "picocurie; picocuries.", "S": ["Victorian ", "moral ", "nice ", "puritan ", "strait-laced "], "A": ["bad "]}

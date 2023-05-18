@@ -1,0 +1,1 @@
+{"index": 52210, "D": "an endocrine secretion that depresses or inhibits physiological activity.", "S": [], "A": []}

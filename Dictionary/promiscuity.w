@@ -1,0 +1,1 @@
+{"index": 252264, "D": "the state of being promiscuous. ", "S": ["lewdness ", "looseness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 368901, "D": "the Avestan name for Zoroastrian", "S": [], "A": []}

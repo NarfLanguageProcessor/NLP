@@ -1,0 +1,1 @@
+{"index": 100092, "D": "capable of being endured;  bearable; tolerable.", "S": ["bearable ", "livable ", "sufferable ", "supportable ", "sustainable "], "A": ["changeable ", "intolerable ", "tiring ", "unendurable "]}

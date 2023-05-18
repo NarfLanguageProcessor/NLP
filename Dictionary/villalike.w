@@ -1,0 +1,1 @@
+{"index": 359740, "D": "a country residence or estate.", "S": [], "A": []}

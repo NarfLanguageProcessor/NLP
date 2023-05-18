@@ -1,0 +1,1 @@
+{"index": 24744, "D": "the design, development, production, operation, and use of aircraft, especially heavier-than-air aircraft.", "S": [], "A": []}

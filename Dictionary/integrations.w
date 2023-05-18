@@ -1,0 +1,1 @@
+{"index": 154236, "D": "an act or instance of combining into an integral  whole.", "S": ["assimilation "], "A": ["disunion ", "division ", "divorce ", "separation "]}

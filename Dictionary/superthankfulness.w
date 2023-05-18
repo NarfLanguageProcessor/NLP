@@ -1,0 +1,1 @@
+{"index": 312810, "D": "feeling or expressing gratitude; appreciative. ", "S": [], "A": []}

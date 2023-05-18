@@ -1,0 +1,1 @@
+{"index": 92834, "D": "to fear greatly; be in extreme apprehension of", "S": ["abhorrent ", "appalling ", "atrocious ", "awful ", "dire ", "disastrous ", "dreadful ", "extreme ", "frightful ", "ghastly ", "gruesome ", "harrowing ", "hideous ", "horrible ", "horrid "], "A": ["beautiful ", "delightful ", "fortunate ", "good ", "nice ", "pleasant ", "pleasing ", "wonderful "]}

@@ -1,0 +1,1 @@
+{"index": 206321, "D": "the act of protruding  or the state of being protruded. ", "S": [], "A": []}

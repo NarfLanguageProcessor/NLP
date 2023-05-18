@@ -1,0 +1,1 @@
+{"index": 297029, "D": "being an undetermined or unspecified one", "S": ["a few ", "any "], "A": []}

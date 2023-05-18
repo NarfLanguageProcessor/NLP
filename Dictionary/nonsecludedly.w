@@ -1,0 +1,1 @@
+{"index": 207067, "D": "sheltered or screened from general activity, view, etc.", "S": [], "A": []}

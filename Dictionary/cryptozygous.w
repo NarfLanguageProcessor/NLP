@@ -1,0 +1,1 @@
+{"index": 73325, "D": "having the skull broad and the face narrow.", "S": [], "A": []}

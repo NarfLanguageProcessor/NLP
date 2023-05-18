@@ -1,0 +1,1 @@
+{"index": 320547, "D": "a small deer, Cervus eldi, of southeastern Asia, having long, curved antlers", "S": [], "A": []}

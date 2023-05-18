@@ -1,0 +1,1 @@
+{"index": 289916, "D": "of or relating to Siena  or its people.", "S": [], "A": []}

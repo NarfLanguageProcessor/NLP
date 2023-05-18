@@ -1,0 +1,1 @@
+{"index": 292198, "D": "a tumour or gumma caused by infection with syphilis", "S": [], "A": []}

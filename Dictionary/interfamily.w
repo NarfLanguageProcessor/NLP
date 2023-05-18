@@ -1,0 +1,1 @@
+{"index": 154913, "D": "a social unit consisting of one or more adults together with the children they care for", "S": [], "A": []}

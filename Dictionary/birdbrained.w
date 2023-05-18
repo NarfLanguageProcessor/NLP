@@ -1,0 +1,1 @@
+{"index": 34740, "D": "silly; stupid", "S": ["careless ", "dizzy ", "empty-headed ", "featherbrained ", "flighty ", "forgetful ", "frivolous ", "giddy ", "harebrained ", "illogical ", "inattentive ", "irrational ", "irresponsible ", "madcap ", "silly ", "slaphappy ", "stupid ", "thoughtless "], "A": ["aware ", "careful ", "sensible ", "thoughtful "]}

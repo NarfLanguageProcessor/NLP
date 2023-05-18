@@ -1,0 +1,1 @@
+{"index": 301159, "D": "a pole or bar hinged to the rear axle of a cart or the like in such a way that it can brace the vehicle against a road to prevent it from rolling downhill.", "S": [], "A": []}

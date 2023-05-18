@@ -1,0 +1,1 @@
+{"index": 266013, "D": "a jointed device or flexible piece on which a door, gate, shutter, lid, or other attached part turns, swings, or moves.", "S": [], "A": []}

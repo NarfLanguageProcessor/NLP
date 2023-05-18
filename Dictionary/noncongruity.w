@@ -1,0 +1,1 @@
+{"index": 202310, "D": "the state or quality of being congruous;  harmony; appropriateness", "S": [], "A": []}

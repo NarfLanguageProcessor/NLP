@@ -1,0 +1,1 @@
+{"index": 153919, "D": "in a way that is innate, unlearned, or not under conscious control", "S": [], "A": []}

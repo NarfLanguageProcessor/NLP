@@ -1,0 +1,1 @@
+{"index": 12460, "D": "a dwarf from whom Loki extorted a treasure, including a magic ring, to give to Hreidmar as wergild for the killing of Otter", "S": [], "A": []}

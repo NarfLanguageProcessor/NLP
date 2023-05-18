@@ -1,0 +1,1 @@
+{"index": 136269, "D": "belonging or pertaining to the Hemiptera,  an order of insects having forewings that are thickened and leathery at the base and membranous at the apex, comprising the true bugs.", "S": [], "A": []}

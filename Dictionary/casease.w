@@ -1,0 +1,1 @@
+{"index": 48786, "D": "a proteolytic enzyme formed by certain bacteria that activates the solution of albumin and casein in milk and cheese", "S": [], "A": []}

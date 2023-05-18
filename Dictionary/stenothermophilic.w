@@ -1,0 +1,1 @@
+{"index": 303708, "D": "growing best within a narrow temperature range.", "S": [], "A": []}

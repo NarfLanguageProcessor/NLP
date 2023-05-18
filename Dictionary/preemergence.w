@@ -1,0 +1,1 @@
+{"index": 247227, "D": "occurring or applied before the emergence  of a plant from the soil", "S": [], "A": []}

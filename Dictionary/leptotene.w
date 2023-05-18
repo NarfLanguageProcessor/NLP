@@ -1,0 +1,1 @@
+{"index": 170799, "D": "a stage of cell division during the prophase of meiosis, in which the chromosomes are not distinct but appear as a mass of entangled threads.", "S": [], "A": []}

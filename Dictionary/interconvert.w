@@ -1,0 +1,1 @@
+{"index": 154741, "D": "to subject to interconversion; interchange.", "S": [], "A": []}

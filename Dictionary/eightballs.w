@@ -1,0 +1,1 @@
+{"index": 96483, "D": "a game in which one player or side must pocket all of either the solid-color balls or the striped ones before being permitted to attempt the pocketing of the eightball, which wins.", "S": [], "A": []}

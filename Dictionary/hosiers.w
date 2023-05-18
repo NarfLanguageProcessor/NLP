@@ -1,0 +1,1 @@
+{"index": 144153, "D": "a person who makes or deals in hose or stockings or goods knitted or woven like hose.", "S": [], "A": []}

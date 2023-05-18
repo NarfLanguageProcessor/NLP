@@ -1,0 +1,1 @@
+{"index": 81475, "D": "any of a class of nucleoproteins that yield DNA upon partial hydrolysis.", "S": [], "A": []}

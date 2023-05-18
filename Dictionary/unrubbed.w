@@ -1,0 +1,1 @@
+{"index": 350111, "D": "to subject the surface of (a thing or person) to pressure and friction, as in cleaning, smoothing, polishing, coating, massaging, or soothing", "S": [], "A": []}

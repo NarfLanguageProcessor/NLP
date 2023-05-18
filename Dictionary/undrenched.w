@@ -1,0 +1,1 @@
+{"index": 340833, "D": "to wet thoroughly; soak.", "S": [], "A": []}

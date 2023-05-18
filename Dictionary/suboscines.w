@@ -1,0 +1,1 @@
+{"index": 308732, "D": "of or relating to birds of the suborder Suboscines, of the order Passeriformes, comprising the supposedly more primitive members of the order, with less well developed vocal organs than the oscine  birds.", "S": [], "A": []}

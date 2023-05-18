@@ -1,0 +1,1 @@
+{"index": 73507, "D": "an article or essay criticizing  a literary or other work; detailed evaluation; review.", "S": ["appraisal ", "assessment ", "comment ", "commentary ", "criticism ", "editorial ", "examination ", "judgment "], "A": ["compliment ", "flattery ", "praise "]}

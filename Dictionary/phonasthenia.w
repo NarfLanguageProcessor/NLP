@@ -1,0 +1,1 @@
+{"index": 234643, "D": "difficult or abnormal voice production; vocal weakness.", "S": [], "A": []}

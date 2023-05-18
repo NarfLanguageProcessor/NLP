@@ -1,0 +1,1 @@
+{"index": 261851, "D": "a critical or explanatory note or body of notes added to a text.", "S": [], "A": []}

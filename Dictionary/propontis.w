@@ -1,0 +1,1 @@
+{"index": 252762, "D": "the ancient name for (the Sea of) Marmara", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 87071, "D": "to deprive of a weapon or weapons.", "S": [], "A": []}

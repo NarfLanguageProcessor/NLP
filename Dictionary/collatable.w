@@ -1,0 +1,1 @@
+{"index": 62857, "D": "to gather or arrange in their proper sequence (the pages of a report, the sheets of a book, the pages of several sets of copies, etc.).", "S": [], "A": []}

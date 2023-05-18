@@ -1,0 +1,1 @@
+{"index": 174696, "D": "the study and treatment of speech disorders; speech-language pathology. ", "S": [], "A": []}

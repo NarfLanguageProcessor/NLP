@@ -1,0 +1,1 @@
+{"index": 252488, "D": "evidence sufficient to establish a thing as true, or to produce belief in its truth.", "S": ["argument ", "clue ", "confirmation ", "criterion ", "data ", "demonstration ", "information ", "picture ", "reason ", "testament ", "testimony ", "validation ", "verification "], "A": ["hypothesis ", "theory "]}

@@ -1,0 +1,1 @@
+{"index": 165942, "D": "Andrei Nikolaevich (an\u02c8drjej nika\u02c8laj\u0259vit\u0283). (1903\u201387), Soviet mathematician, who made important contributions to the theoretical foundations of probability", "S": [], "A": []}

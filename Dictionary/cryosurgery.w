@@ -1,0 +1,1 @@
+{"index": 73142, "D": "the use of extreme cold to destroy tissue for therapeutic purposes.", "S": [], "A": []}

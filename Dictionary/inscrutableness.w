@@ -1,0 +1,1 @@
+{"index": 153451, "D": "incapable of being investigated, analyzed, or scrutinized; impenetrable.", "S": ["conundrum ", "enigma ", "problem ", "question ", "riddle ", "secrecy ", "subtlety ", "thriller "], "A": ["known ", "understanding "]}

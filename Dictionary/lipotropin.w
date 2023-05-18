@@ -1,0 +1,1 @@
+{"index": 173230, "D": "a large polypeptide of the pituitary gland from which endorphins and other endogenous opiates are thought to derive.", "S": [], "A": []}

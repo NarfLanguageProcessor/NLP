@@ -1,0 +1,1 @@
+{"index": 274657, "D": "any microscopic animal of the phylum (or class) Rotifera,  found in fresh and salt waters, having one or more rings of cilia on the anterior end.", "S": [], "A": []}

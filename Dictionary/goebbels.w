@@ -1,0 +1,1 @@
+{"index": 127393, "D": "German propaganda director for the Nazis.", "S": [], "A": []}

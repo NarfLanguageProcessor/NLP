@@ -1,0 +1,1 @@
+{"index": 198035, "D": "an elementary particle that is a fundamental constituent of matter, having a negative charge of 1.602 \u00d7 10\u221219 coulombs, a mass of 9.108 \u00d7 10\u221231 kilograms, and spin of \u00bd, and existing independently or as the component outside the nucleus of an atom.", "S": [], "A": []}

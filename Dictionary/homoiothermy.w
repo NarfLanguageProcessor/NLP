@@ -1,0 +1,1 @@
+{"index": 143116, "D": "having a body temperature that is relatively constant and mostly independent of the temperature of the environment; warm-blooded (opposed to poikilothermic).", "S": [], "A": []}

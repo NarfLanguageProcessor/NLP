@@ -1,0 +1,1 @@
+{"index": 197538, "D": "a viceroy or deputy governor under the former Mogul empire in India.", "S": ["deputy ", "dignitary ", "governor ", "magnate ", "notable ", "tycoon ", "viceroy "], "A": []}

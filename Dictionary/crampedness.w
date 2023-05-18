@@ -1,0 +1,1 @@
+{"index": 71992, "D": "affected with a cramp  in a muscle or muscles.", "S": [], "A": []}

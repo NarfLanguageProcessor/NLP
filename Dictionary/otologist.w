@@ -1,0 +1,1 @@
+{"index": 215947, "D": "the science of the ear and its diseases.", "S": [], "A": []}

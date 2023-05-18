@@ -1,0 +1,1 @@
+{"index": 81212, "D": "having the component parts closely compacted together; crowded or compact", "S": ["closeness ", "concentration ", "density ", "solidity ", "solidness ", "tightness "], "A": []}

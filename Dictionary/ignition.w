@@ -1,0 +1,1 @@
+{"index": 147055, "D": "the act or fact of igniting;  state of being ignited. ", "S": ["agitation ", "disturbance ", "flaming ", "kindling ", "oxidization ", "tumult ", "turmoil "], "A": ["calm ", "order ", "peace "]}

@@ -1,0 +1,1 @@
+{"index": 45440, "D": "to alloy (carbon steel or alloy steel) by impregnation with aluminum.", "S": [], "A": []}

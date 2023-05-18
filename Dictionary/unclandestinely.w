@@ -1,0 +1,1 @@
+{"index": 336972, "D": "characterized by, done in, or executed with secrecy or concealment, especially for purposes of subversion or deception; private or surreptitious", "S": [], "A": []}

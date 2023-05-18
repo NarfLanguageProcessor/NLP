@@ -1,0 +1,1 @@
+{"index": 116380, "D": "grim; unfriendly; hostile; sinister", "S": [], "A": []}

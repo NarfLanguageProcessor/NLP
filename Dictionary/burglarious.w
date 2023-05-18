@@ -1,0 +1,1 @@
+{"index": 43089, "D": "pertaining to or involving burglary. ", "S": [], "A": []}

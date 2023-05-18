@@ -1,0 +1,1 @@
+{"index": 166102, "D": "any of a variety of Indian dishes consisting of meat or vegetables braised with water, stock, yogurt, or cream", "S": [], "A": []}

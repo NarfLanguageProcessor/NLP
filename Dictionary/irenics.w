@@ -1,0 +1,1 @@
+{"index": 157913, "D": "Compare polemics (def. 2). ", "S": ["dove of peace ", "expiatory offering ", "expiatory sacrifice ", "hand of friendship ", "heave offering ", "olive branch ", "outstretched hand ", "piacular offering ", "piaculum ", "present ", "sacramental offering ", "sacrifice ", "sin offering ", "whole offering "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48345, "D": "to engage in a drunken revel", "S": ["alcoholic ", "boozer ", "debauchee ", "dipsomaniac ", "drinker ", "guzzler ", "inebriate ", "lush ", "soak ", "sot ", "souse ", "sponge ", "stiff ", "tippler ", "toper ", "wino "], "A": ["abstainer ", "ascetic ", "nephalist ", "teetotaler "]}

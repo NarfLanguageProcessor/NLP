@@ -1,0 +1,1 @@
+{"index": 95317, "D": "the use or advocacy of an eclectic  method.", "S": [], "A": []}

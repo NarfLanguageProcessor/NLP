@@ -1,0 +1,1 @@
+{"index": 102698, "D": "a sentence that is an exclamation, a general or striking comment, or a succinct summary of what has previously been said.", "S": [], "A": []}

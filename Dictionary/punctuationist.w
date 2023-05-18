@@ -1,0 +1,1 @@
+{"index": 256605, "D": "punctuated equilibrium. ", "S": [], "A": []}

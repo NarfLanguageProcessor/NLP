@@ -1,0 +1,1 @@
+{"index": 119485, "D": "willfully contrary; not easily managed", "S": [], "A": []}

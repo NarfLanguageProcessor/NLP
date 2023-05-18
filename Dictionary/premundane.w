@@ -1,0 +1,1 @@
+{"index": 248502, "D": "before the creation of the world; antemundane.", "S": [], "A": []}

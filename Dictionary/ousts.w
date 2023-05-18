@@ -1,0 +1,1 @@
+{"index": 216107, "D": "to expel or remove from a place or position occupied", "S": ["depose ", "dethrone ", "dislodge ", "drive out ", "eject ", "evict ", "fire ", "force out ", "let go ", "lose ", "remove ", "sack ", "topple ", "unseat "], "A": ["hire ", "place ", "take in ", "allow ", "give ", "hold ", "keep ", "offer ", "welcome "]}

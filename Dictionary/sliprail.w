@@ -1,0 +1,1 @@
+{"index": 294203, "D": "one of a horizontal set of fence rails that can be removed easily to leave a gateway.", "S": [], "A": []}

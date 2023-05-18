@@ -1,0 +1,1 @@
+{"index": 253064, "D": "the act or fact of becoming a proselyte;  conversion.", "S": ["culture ", "discipline ", "improvement ", "information ", "learning ", "literacy ", "scholarship ", "schooling ", "science ", "study ", "teaching ", "training "], "A": ["ignorance ", "destruction ", "neglect "]}

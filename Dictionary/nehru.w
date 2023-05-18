@@ -1,0 +1,1 @@
+{"index": 198131, "D": "Hindu political leader in India", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214518, "D": "a small tan-colored antelope, Ourebia ourebi, of south and east Africa, with spikelike horns.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314820, "D": "a small drum or pair of drums of India tuned to different pitches and played with the hands.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 63002, "D": "a coal mine, including all buildings and equipment.", "S": [], "A": []}

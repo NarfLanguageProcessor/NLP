@@ -1,0 +1,1 @@
+{"index": 5094, "D": "swallowing of air, sometimes due to nervousness or anxiety.", "S": [], "A": []}

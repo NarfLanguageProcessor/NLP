@@ -1,0 +1,1 @@
+{"index": 172003, "D": "something that makes things visible or affords illumination", "S": ["bright ", "luminous ", "rich ", "shiny ", "sunny "], "A": ["dark ", "dull ", "obscure "]}

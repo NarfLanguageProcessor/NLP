@@ -1,0 +1,1 @@
+{"index": 145795, "D": "a composite plant, Achillea millefolium, of Eurasia, having fernlike leaves and flat-topped clusters of whitish flowers, naturalized in North America.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175655, "D": "lowly state; lowliness.", "S": [], "A": []}

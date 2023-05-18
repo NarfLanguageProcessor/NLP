@@ -1,0 +1,1 @@
+{"index": 1703, "D": "a portable wind instrument having a large bellows for forcing air through small metal reeds, a keyboard for the right hand, and buttons for sounding single bass notes or chords for the left hand.", "S": ["concertina "], "A": []}

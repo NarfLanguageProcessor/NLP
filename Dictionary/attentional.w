@@ -1,0 +1,1 @@
+{"index": 23028, "D": "the act or faculty of attending, especially by directing the mind to an object.", "S": [], "A": []}

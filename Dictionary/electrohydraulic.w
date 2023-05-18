@@ -1,0 +1,1 @@
+{"index": 97078, "D": "(of a mechanism) combining electrical and hydraulic  components.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 28436, "D": "U.S. philanthropist who organized the American Red Cross in 1881.", "S": [], "A": []}

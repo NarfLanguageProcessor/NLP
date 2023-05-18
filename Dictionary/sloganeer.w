@@ -1,0 +1,1 @@
+{"index": 294304, "D": "a person who creates and uses slogans  frequently.", "S": [], "A": []}

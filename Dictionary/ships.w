@@ -1,0 +1,1 @@
+{"index": 288461, "D": "a vessel, especially a large oceangoing one propelled by sails or engines.", "S": ["dispatch ", "export ", "haul ", "move ", "shift ", "smuggle ", "transfer ", "transmit "], "A": ["hold ", "keep ", "remain "]}

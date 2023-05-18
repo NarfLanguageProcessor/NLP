@@ -1,0 +1,1 @@
+{"index": 221397, "D": "to stretch excessively.", "S": [], "A": []}

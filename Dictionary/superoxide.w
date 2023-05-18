@@ -1,0 +1,1 @@
+{"index": 312375, "D": "a compound containing the univalent ion O2\u2212.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86917, "D": "lacking the normal or usual necessities and comforts of life, as proper housing, educational opportunities, job security, adequate medical care, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124323, "D": "See also gerundive (def. 1). ", "S": ["deponent ", "infinitive ", "participle "], "A": []}

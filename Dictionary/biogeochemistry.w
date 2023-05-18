@@ -1,0 +1,1 @@
+{"index": 34378, "D": "the science dealing with the relationship between the geochemistry  of a given region and its flora and fauna, including the circulation of such elements as carbon and nitrogen between the environment and the cells of living organisms.", "S": [], "A": []}

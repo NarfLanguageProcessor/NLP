@@ -1,0 +1,1 @@
+{"index": 191032, "D": "of or relating to mode, manner, or form.", "S": [], "A": []}

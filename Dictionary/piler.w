@@ -1,0 +1,1 @@
+{"index": 236593, "D": [], "S": ["accumulation ", "assortment ", "chunk ", "hill ", "hunk ", "jumble ", "lump ", "mass ", "mountain ", "ocean ", "pyramid ", "quantity ", "stack ", "stockpile "], "A": ["ditch ", "hole ", "poverty "]}

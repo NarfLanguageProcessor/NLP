@@ -1,0 +1,1 @@
+{"index": 145163, "D": "to crouch or squat on one's heels", "S": ["bend ", "bow ", "cower ", "dip ", "duck ", "grovel ", "huddle ", "hunch ", "kneel ", "quail ", "squat ", "stoop ", "wince "], "A": ["face ", "meet ", "straighten "]}

@@ -1,0 +1,1 @@
+{"index": 44898, "D": "an abnormal condition characterized by the deposit of calcium salts in various tissues of the body.", "S": [], "A": []}

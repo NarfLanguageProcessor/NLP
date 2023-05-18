@@ -1,0 +1,1 @@
+{"index": 97847, "D": "The process of extracting a substance that is adsorbed to another by washing it with a solvent.\u2666 The substance used as a solvent in elution is called an eluent. \u2666 The solution of the solvent and the substance that was adsorbed to another is called the eluate.", "S": [], "A": []}

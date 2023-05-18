@@ -1,0 +1,1 @@
+{"index": 208076, "D": "mental process of a person who comprehends; comprehension; personal interpretation", "S": [], "A": []}

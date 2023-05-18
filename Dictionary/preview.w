@@ -1,0 +1,1 @@
+{"index": 250200, "D": "an earlier or previous view. ", "S": ["examination ", "viewing "], "A": ["ignorance "]}

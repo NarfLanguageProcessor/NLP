@@ -1,0 +1,1 @@
+{"index": 369575, "D": "a short sleep; nap", "S": ["blanket drill ", "catnap ", "crash ", "nap ", "power nap ", "rack time ", "sack time ", "siesta ", "snooze ", "some Zs ", "spot of sleep ", "wink ", "wink of sleep "], "A": []}

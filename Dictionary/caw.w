@@ -1,0 +1,1 @@
+{"index": 50263, "D": "the harsh, grating cry of the crow, raven, etc.", "S": ["chatter ", "cheer ", "clamor ", "groan ", "grunt ", "howl ", "outcry ", "roar ", "scream ", "shout ", "shriek ", "wail ", "whine ", "whistle "], "A": ["quiet ", "seriousness ", "silence ", "calm ", "peace "]}

@@ -1,0 +1,1 @@
+{"index": 291931, "D": "a specialist in the study or compiling of synonyms. ", "S": [], "A": []}

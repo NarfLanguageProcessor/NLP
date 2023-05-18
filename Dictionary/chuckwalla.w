@@ -1,0 +1,1 @@
+{"index": 56543, "D": "an iguanid lizard, Sauromalis obesus, of arid parts of the southwestern U.S. and Mexico, that feeds on desert plants.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 106783, "D": "to think out; devise; invent. ", "S": ["concoction ", "contrivance ", "design ", "formation ", "formulation ", "invention ", "thought "], "A": []}

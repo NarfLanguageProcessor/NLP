@@ -1,0 +1,1 @@
+{"index": 144977, "D": "containing a high amount of water or water vapor; noticeably moist", "S": [], "A": []}

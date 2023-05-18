@@ -1,0 +1,1 @@
+{"index": 290257, "D": "(in Scandinavia) any of numerous species of herring.", "S": [], "A": []}

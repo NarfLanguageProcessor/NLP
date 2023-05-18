@@ -1,0 +1,1 @@
+{"index": 133027, "D": "resembling ham  in taste, flavor, appearance, etc.", "S": ["assumed ", "contrived ", "counterfeit ", "counterfeited ", "faked ", "feigned ", "imitated ", "overdone ", "playacting ", "pretended ", "shallow ", "sham ", "simulated ", "studied ", "unnatural "], "A": ["genuine ", "natural ", "real ", "sincere ", "true "]}

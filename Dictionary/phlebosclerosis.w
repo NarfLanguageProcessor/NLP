@@ -1,0 +1,1 @@
+{"index": 234451, "D": "sclerosis,  or hardening, of the walls of veins.", "S": [], "A": []}

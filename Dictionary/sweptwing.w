@@ -1,0 +1,1 @@
+{"index": 314373, "D": "(of an aircraft, winged missile, etc.) having sweptback  wings.", "S": [], "A": []}

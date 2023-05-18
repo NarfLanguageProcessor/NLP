@@ -1,0 +1,1 @@
+{"index": 172672, "D": "of or relating to a lynx; lynxlike.", "S": [], "A": []}

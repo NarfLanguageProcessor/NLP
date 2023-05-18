@@ -1,0 +1,1 @@
+{"index": 320875, "D": "pertaining to or produced by thelytoky.", "S": [], "A": []}

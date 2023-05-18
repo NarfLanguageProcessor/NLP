@@ -1,0 +1,1 @@
+{"index": 287400, "D": "a Chinese dynasty whose dates are usually given as 1766\u20131122 b.c. and sometimes as 1523\u20131027 b.c.", "S": [], "A": []}

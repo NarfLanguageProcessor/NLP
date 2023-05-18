@@ -1,0 +1,1 @@
+{"index": 195879, "D": "an oily, very slightly water-soluble, large cyclic ketone containing a 15-membered ring, C16H30O, obtained from musk", "S": [], "A": []}

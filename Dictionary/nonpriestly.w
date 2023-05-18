@@ -1,0 +1,1 @@
+{"index": 206169, "D": "of or relating to a priest;  sacerdotal", "S": [], "A": []}

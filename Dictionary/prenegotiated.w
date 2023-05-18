@@ -1,0 +1,1 @@
+{"index": 248542, "D": "to deal or bargain with another or others, as in the preparation of a treaty or contract or in preliminaries to a business deal.", "S": [], "A": []}

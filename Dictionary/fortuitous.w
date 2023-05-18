@@ -1,0 +1,1 @@
+{"index": 117716, "D": "happening or produced by chance; accidental", "S": ["fortunate ", "odd ", "random ", "serendipitous ", "unforeseen "], "A": ["calculated ", "deliberate ", "designed ", "intentional ", "planned ", "unlucky "]}

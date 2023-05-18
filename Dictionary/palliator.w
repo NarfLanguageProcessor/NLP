@@ -1,0 +1,1 @@
+{"index": 223987, "D": "to relieve or lessen without curing; mitigate; alleviate. ", "S": [], "A": []}

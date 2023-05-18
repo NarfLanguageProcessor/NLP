@@ -1,0 +1,1 @@
+{"index": 106970, "D": "a person or group of persons having administrative or supervisory authority in an organization.", "S": [], "A": []}

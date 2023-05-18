@@ -1,0 +1,1 @@
+{"index": 13885, "D": "a granular plutonic rock composed largely of labradorite or a more calcic feldspar.", "S": [], "A": []}

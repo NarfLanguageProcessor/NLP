@@ -1,0 +1,1 @@
+{"index": 76196, "D": "a removable board  on a small sailboat, typically of small dimension fore and aft, lowered into the water through a trunk to serve as a keel.", "S": [], "A": []}

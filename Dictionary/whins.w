@@ -1,0 +1,1 @@
+{"index": 364886, "D": "any thorny or prickly shrub, especially gorse.", "S": [], "A": []}

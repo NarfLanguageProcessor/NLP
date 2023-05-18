@@ -1,0 +1,1 @@
+{"index": 96633, "D": "of or relating to ekistics. ", "S": [], "A": []}

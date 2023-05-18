@@ -1,0 +1,1 @@
+{"index": 330054, "D": "a synthetic, white, crystalline powder, C6H9NO3, used as an anticonvulsant to control petit mal epileptic seizures.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 79845, "D": "a conceptual framework that promotes the fair treatment and full participation of all people, especially in the workplace, including populations who have historically been underrepresented or subject to discrimination because of their background, identity, disability, etc.", "S": [], "A": []}

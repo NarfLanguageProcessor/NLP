@@ -1,0 +1,1 @@
+{"index": 300071, "D": "another name for Speyer. ", "S": ["steeple "], "A": ["base ", "bottom ", "nadir "]}

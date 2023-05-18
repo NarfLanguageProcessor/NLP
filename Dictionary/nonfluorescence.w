@@ -1,0 +1,1 @@
+{"index": 204117, "D": "Compare phosphorescence (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351992, "D": "done, characterized, or acting by stealth; furtive", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229244, "D": "Compare geranium (def. 2). ", "S": [], "A": []}

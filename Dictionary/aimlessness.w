@@ -1,0 +1,1 @@
+{"index": 6814, "D": "without aim; purposeless. ", "S": [], "A": []}

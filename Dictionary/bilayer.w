@@ -1,0 +1,1 @@
+{"index": 33846, "D": "a structure composed of two molecular layers,  especially of phospholipids in cellular membranes.", "S": [], "A": []}

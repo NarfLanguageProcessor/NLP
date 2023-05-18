@@ -1,0 +1,1 @@
+{"index": 316424, "D": "the act of a person or thing that taps  or strikes lightly.", "S": ["drilling "], "A": []}

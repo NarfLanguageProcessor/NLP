@@ -1,0 +1,1 @@
+{"index": 224209, "D": "ridiculously or insultingly small", "S": ["insignificant ", "meager ", "measly ", "miserable ", "pitiful ", "puny ", "trivial "], "A": ["big ", "consequential ", "happy ", "important ", "large ", "plenty ", "significant ", "substantial ", "sufficient ", "valuable ", "worthwhile "]}

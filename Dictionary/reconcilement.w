@@ -1,0 +1,1 @@
+{"index": 263257, "D": "to cause (a person) to accept or be resigned to something not desired", "S": ["accord ", "agreement ", "compromise ", "conciliation ", "harmony ", "rapprochement ", "settlement "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 28110, "D": "a former city in W Germany, now incorporated into Wuppertal.", "S": [], "A": []}

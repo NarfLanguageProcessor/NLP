@@ -1,0 +1,1 @@
+{"index": 236488, "D": "a braid of hair hanging down the back of the head.", "S": ["ponytail "], "A": []}

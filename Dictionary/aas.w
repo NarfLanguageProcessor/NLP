@@ -1,0 +1,1 @@
+{"index": 26, "D": "Fellow of the American Academy.", "S": ["12-step group ", "AA ", "Alcoholics Anonymous ", "Weight Watchers ", "encounter group ", "family ", "friends ", "morale boosters ", "safety net ", "self-help group ", "support system ", "therapy "], "A": []}

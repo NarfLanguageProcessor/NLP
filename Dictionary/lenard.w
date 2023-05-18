@@ -1,0 +1,1 @@
+{"index": 170387, "D": "German physicist, born in Austria-Hungary", "S": [], "A": []}

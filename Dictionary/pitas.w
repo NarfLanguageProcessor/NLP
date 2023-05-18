@@ -1,0 +1,1 @@
+{"index": 238219, "D": "a round Middle Eastern flatbread that is often filled with meat, peppers, etc., to make a sandwich.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27052, "D": "a person who plays ball professionally, especially baseball.", "S": [], "A": []}

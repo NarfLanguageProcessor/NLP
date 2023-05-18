@@ -1,0 +1,1 @@
+{"index": 349075, "D": "to separate or disentangle the threads of (a woven or knitted fabric, a rope, etc.).", "S": ["conclusion ", "decision ", "finding ", "motion ", "outcome ", "proposal ", "proposition ", "recommendation ", "settlement ", "solution ", "verdict "], "A": ["beginning ", "condemnation ", "indecision ", "cause ", "denial ", "origin ", "start "]}

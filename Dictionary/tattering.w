@@ -1,0 +1,1 @@
+{"index": 317002, "D": "a torn piece hanging loose from the main part, as of a garment or flag.", "S": ["shave ", "sliver ", "tear "], "A": ["mend ", "sew "]}

@@ -1,0 +1,1 @@
+{"index": 311994, "D": "a vessel used for private cruising, racing, or other noncommercial purposes.", "S": [], "A": []}

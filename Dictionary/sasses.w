@@ -1,0 +1,1 @@
+{"index": 278622, "D": "stewed fruit; fruit sauce.", "S": ["answer ", "cheek ", "guff ", "lip ", "mouth ", "retort ", "sauce "], "A": ["question "]}

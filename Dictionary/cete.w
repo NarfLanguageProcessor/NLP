@@ -1,0 +1,1 @@
+{"index": 51763, "D": "a number of badgers together.", "S": ["beluga ", "dolphin ", "grampus ", "mammal ", "narwal ", "orca ", "porpoise ", "whale "], "A": []}

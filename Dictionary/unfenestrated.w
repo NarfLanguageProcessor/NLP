@@ -1,0 +1,1 @@
+{"index": 342168, "D": "having windows; windowed; characterized by windows.", "S": [], "A": []}

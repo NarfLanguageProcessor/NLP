@@ -1,0 +1,1 @@
+{"index": 310207, "D": "to cover with sugar", "S": ["cajoling ", "candied ", "flattering ", "ingratiating "], "A": []}

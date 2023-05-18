@@ -1,0 +1,1 @@
+{"index": 115784, "D": "Compare ice fog, mist (def. 1), smog (def. 1). ", "S": [], "A": []}

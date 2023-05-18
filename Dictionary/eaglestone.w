@@ -1,0 +1,1 @@
+{"index": 94691, "D": "a concretionary lump of ironstone about the size of a walnut, formerly believed to be carried by eagles  to their nests as a magical aid in laying eggs.", "S": [], "A": []}

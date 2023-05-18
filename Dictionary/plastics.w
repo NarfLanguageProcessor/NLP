@@ -1,0 +1,1 @@
+{"index": 239253, "D": "of or relating to a plastic  or plastics", "S": ["bank card "], "A": []}

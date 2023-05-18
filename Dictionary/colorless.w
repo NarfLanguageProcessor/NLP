@@ -1,0 +1,1 @@
+{"index": 63366, "D": "without color", "S": ["drab ", "dull "], "A": ["bright "]}

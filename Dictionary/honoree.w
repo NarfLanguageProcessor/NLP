@@ -1,0 +1,1 @@
+{"index": 143439, "D": "a person who receives an honor,  award, or special recognition.", "S": ["important invitee "], "A": []}

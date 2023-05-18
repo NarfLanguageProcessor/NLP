@@ -1,0 +1,1 @@
+{"index": 272234, "D": "any zygomycetous fungus of the genus Rhizopus, esp R. nigricans, a bread mould", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 138265, "D": "to cause to produce hybrids;  cross.", "S": ["bud ", "implant ", "jointure ", "scion ", "shoot ", "slip ", "splice ", "sprout ", "union "], "A": []}

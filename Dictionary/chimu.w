@@ -1,0 +1,1 @@
+{"index": 54538, "D": "a member of an Amerindian people inhabiting the northern coast of Peru and having a highly developed urban culture that lasted until its destruction by the Incas.", "S": [], "A": []}

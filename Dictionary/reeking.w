@@ -1,0 +1,1 @@
+{"index": 264607, "D": "a strong, unpleasant smell.", "S": ["biting ", "caustic ", "irritating ", "piercing ", "prickling ", "sharp ", "smarting ", "tingling "], "A": ["bland ", "calm ", "kind ", "mild ", "nice "]}

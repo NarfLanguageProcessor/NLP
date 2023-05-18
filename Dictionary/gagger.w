@@ -1,0 +1,1 @@
+{"index": 120959, "D": "a person or thing that gags. ", "S": [], "A": []}

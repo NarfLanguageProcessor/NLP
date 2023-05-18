@@ -1,0 +1,1 @@
+{"index": 287384, "D": "a curved Persian saber having one edge on the convex side.", "S": [], "A": []}

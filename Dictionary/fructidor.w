@@ -1,0 +1,1 @@
+{"index": 119537, "D": "(in the French Revolutionary calendar) the twelfth month of the year, extending from August 18 to September 16.", "S": [], "A": []}

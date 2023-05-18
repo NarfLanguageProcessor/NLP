@@ -1,0 +1,1 @@
+{"index": 220793, "D": "completely prepared or in fit condition for immediate action or use", "S": [], "A": []}

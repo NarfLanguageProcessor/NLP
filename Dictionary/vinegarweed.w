@@ -1,0 +1,1 @@
+{"index": 359890, "D": "a plant, Trichostema lanceolatum, of the mint family, native to the western coast of the U.S., having clusters of blue flowers with long, protruding filaments and growing in dry, sandy soil.", "S": [], "A": []}

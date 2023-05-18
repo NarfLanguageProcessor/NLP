@@ -1,0 +1,1 @@
+{"index": 94354, "D": "a copy exactly like an original.", "S": ["photocopied ", "transcribed "], "A": []}

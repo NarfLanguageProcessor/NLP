@@ -1,0 +1,1 @@
+{"index": 255867, "D": "any of a class of foul-smelling nitrogenous substances produced by bacteria during putrefaction of animal or plant protein", "S": [], "A": []}

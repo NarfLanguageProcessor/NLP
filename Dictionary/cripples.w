@@ -1,0 +1,1 @@
+{"index": 73158, "D": "a person who is disabled or impaired in any way.", "S": ["debilitate ", "hamstring ", "hurt ", "immobilize ", "incapacitate ", "injure ", "paralyze ", "sap ", "stifle ", "undermine ", "weaken "], "A": ["aid ", "assist ", "cure ", "heal ", "help ", "mend ", "mobilize ", "strengthen ", "repair "]}

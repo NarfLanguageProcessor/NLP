@@ -1,0 +1,1 @@
+{"index": 134994, "D": "the abode of God, the angels, and the spirits of the righteous after death; the place or state of existence of the blessed after the mortal life.", "S": ["Promised Land ", "immortality ", "nirvana ", "paradise "], "A": ["hell ", "misery ", "sorrow ", "unhappiness "]}

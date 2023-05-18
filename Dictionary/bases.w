@@ -1,0 +1,1 @@
+{"index": 28531, "D": "plural of basis. ", "S": ["paltry "], "A": ["aristocratic ", "clean ", "good ", "high ", "honest ", "honorable ", "just ", "kind ", "moral ", "nice ", "noble ", "pleasing ", "pure ", "rich ", "superior ", "uncorrupt ", "upright ", "wealthy "]}

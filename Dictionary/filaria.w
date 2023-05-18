@@ -1,0 +1,1 @@
+{"index": 112539, "D": "any small, threadlike roundworm of the family Filariidae and related families, carried as a larva by mosquitoes and parasitic when adult in the blood or tissues of vertebrates.", "S": [], "A": []}

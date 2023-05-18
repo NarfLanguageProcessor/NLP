@@ -1,0 +1,1 @@
+{"index": 181981, "D": "given to meddling;  interfering; intrusive.", "S": ["intrusive ", "meddling ", "nosy ", "pushy "], "A": ["avoiding ", "dodging ", "ignorant "]}

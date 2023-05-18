@@ -1,0 +1,1 @@
+{"index": 236254, "D": "loud or shrill, as the quality of a voice.", "S": ["aloud ", "emphatically ", "noisily ", "powerfully ", "vehemently ", "vociferously "], "A": ["inaudibly ", "quietly ", "silently "]}

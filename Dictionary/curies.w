@@ -1,0 +1,1 @@
+{"index": 75303, "D": "a unit of activity of radioactive substances equivalent to 3.70 \u00d7 1010 disintegrations per second", "S": [], "A": []}

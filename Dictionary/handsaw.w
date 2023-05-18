@@ -1,0 +1,1 @@
+{"index": 133256, "D": "any common saw  with a handle at one end for manual operation with one hand. ", "S": [], "A": []}

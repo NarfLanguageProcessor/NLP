@@ -1,0 +1,1 @@
+{"index": 364895, "D": "a cotton, woolen, or worsted fabric with a steep, diagonally ribbed surface.", "S": [], "A": []}

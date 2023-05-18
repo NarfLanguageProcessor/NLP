@@ -1,0 +1,1 @@
+{"index": 234737, "D": "any sound-reproducing machine using records in the form of cylinders or discs.", "S": ["stereo "], "A": []}

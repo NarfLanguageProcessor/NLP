@@ -1,0 +1,1 @@
+{"index": 247945, "D": "to indicate  in advance; presage", "S": ["advertise ", "announce ", "ballyhoo ", "broadcast ", "declare ", "foretoken ", "harbinger ", "indicate ", "portend ", "precede ", "presage ", "proclaim ", "promise ", "publicize ", "publish ", "show ", "tout ", "trumpet "], "A": ["conceal ", "deny ", "hide ", "keep secret ", "secret "]}

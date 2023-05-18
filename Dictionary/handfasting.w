@@ -1,0 +1,1 @@
+{"index": 133143, "D": "an archaic word for betrothal", "S": [], "A": []}

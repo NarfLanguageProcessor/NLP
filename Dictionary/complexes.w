@@ -1,0 +1,1 @@
+{"index": 64658, "D": "composed of many interconnected parts; compound; composite", "S": ["compound ", "network ", "structure ", "system "], "A": ["division ", "separation "]}

@@ -1,0 +1,1 @@
+{"index": 346943, "D": "worthy of note or notice; noteworthy", "S": ["frivolous ", "fruitless ", "petty ", "trivial "], "A": ["consequential ", "important ", "significant ", "useful "]}

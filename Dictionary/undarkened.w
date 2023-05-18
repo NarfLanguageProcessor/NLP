@@ -1,0 +1,1 @@
+{"index": 338391, "D": "to make dark or darker.", "S": ["fair ", "sunny "], "A": ["cloudy ", "rainy ", "stormy ", "dark ", "gloomy "]}

@@ -1,0 +1,1 @@
+{"index": 263608, "D": "the act of recriminating,  or countercharging", "S": ["allegation ", "complaint ", "denunciation ", "impeachment ", "indictment "], "A": ["approval ", "commendation ", "praise ", "compliment ", "flattery "]}

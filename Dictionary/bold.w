@@ -1,0 +1,1 @@
+{"index": 37499, "D": "not hesitating or fearful in the face of actual or possible danger or rebuff; courageous and daring", "S": ["adventurous ", "audacious ", "courageous ", "daring ", "fearless ", "heroic ", "resolute "], "A": ["afraid ", "cautious ", "cowardly ", "fearful ", "meek ", "shy ", "timid ", "unadventurous ", "undaring ", "weak "]}

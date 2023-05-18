@@ -1,0 +1,1 @@
+{"index": 134719, "D": "(on a sailing vessel) a stay  leading forward from the head  of the foremost mast to the stem head  or the end of the bowsprit.", "S": [], "A": []}

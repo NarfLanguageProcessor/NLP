@@ -1,0 +1,1 @@
+{"index": 88395, "D": "to make or be averse or unwilling", "S": ["curb ", "frighten ", "hinder ", "impede ", "inhibit ", "prevent ", "scare "], "A": ["advance ", "aid ", "allow ", "assist ", "calm ", "comfort ", "encourage ", "facilitate ", "forward ", "help ", "approve ", "let go ", "permit ", "support "]}

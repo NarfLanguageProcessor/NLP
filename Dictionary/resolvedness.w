@@ -1,0 +1,1 @@
+{"index": 269606, "D": "firm in purpose or intent; determined.", "S": [], "A": []}

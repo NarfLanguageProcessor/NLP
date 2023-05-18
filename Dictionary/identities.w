@@ -1,0 +1,1 @@
+{"index": 146384, "D": "the state or fact of remaining the same one or ones, as under varying aspects or conditions", "S": ["character ", "existence ", "identification ", "integrity ", "name ", "personality ", "status "], "A": ["difference ", "dissimilarity ", "opposition "]}

@@ -1,0 +1,1 @@
+{"index": 227642, "D": "he was patently bored", "S": ["clearly ", "evidently ", "officially ", "plainly "], "A": ["vaguely "]}

@@ -1,0 +1,1 @@
+{"index": 33586, "D": "every two years", "S": [], "A": []}

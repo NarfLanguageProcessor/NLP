@@ -1,0 +1,1 @@
+{"index": 206373, "D": "the state or quality of being a child.", "S": [], "A": []}

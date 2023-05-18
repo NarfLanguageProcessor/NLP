@@ -1,0 +1,1 @@
+{"index": 177008, "D": "any of the nutritional components of the diet that are required in relatively large amounts", "S": [], "A": []}

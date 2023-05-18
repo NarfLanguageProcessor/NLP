@@ -1,0 +1,1 @@
+{"index": 214541, "D": "(formerly) the countries to the east of the Mediterranean.", "S": ["adapt ", "adjust ", "align ", "conform "], "A": ["disarrange ", "disorder ", "unfit ", "miss "]}

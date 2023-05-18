@@ -1,0 +1,1 @@
+{"index": 303234, "D": "firmly placed or fixed; stable in position or equilibrium", "S": ["hover ", "wait "], "A": ["let go ", "refuse ", "reject ", "release "]}

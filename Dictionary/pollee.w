@@ -1,0 +1,1 @@
+{"index": 242673, "D": "a person who is asked questions in a poll. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82565, "D": "something wanted or needed.", "S": ["ambition ", "aspiration ", "desire ", "direction ", "intent ", "intention ", "objective ", "plan ", "purpose ", "target ", "wish "], "A": ["dislike ", "hate ", "hatred "]}

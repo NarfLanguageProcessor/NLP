@@ -1,0 +1,1 @@
+{"index": 312562, "D": "disgraceful; shameful or shocking; improper", "S": [], "A": []}

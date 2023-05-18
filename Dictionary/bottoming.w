@@ -1,0 +1,1 @@
+{"index": 38826, "D": "the lowest level of foundation material for a road or other structure", "S": ["hang ", "lie ", "reside ", "stay "], "A": ["destroy "]}

@@ -1,0 +1,1 @@
+{"index": 160650, "D": "having a jaw  or jaws,  especially of a specified kind (often used in combination)", "S": ["bone ", "mouth "], "A": []}

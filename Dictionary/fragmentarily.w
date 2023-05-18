@@ -1,0 +1,1 @@
+{"index": 118216, "D": "consisting of or reduced to fragments;  broken; disconnected; incomplete", "S": [], "A": []}

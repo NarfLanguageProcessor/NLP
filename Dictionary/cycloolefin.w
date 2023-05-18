@@ -1,0 +1,1 @@
+{"index": 57191, "D": "any of the homologous series of unsaturated, alicyclic hydrocarbons, as cyclooctatetraene and cyclopentadiene, containing one double bond in the ring and having the general formula C11H2n\u22122.", "S": [], "A": []}

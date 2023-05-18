@@ -1,0 +1,1 @@
+{"index": 208514, "D": "a device consisting of a series of buckets on a wheel, used in Spain and the East for raising water.", "S": [], "A": []}

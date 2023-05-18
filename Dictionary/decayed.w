@@ -1,0 +1,1 @@
+{"index": 77944, "D": "to become decomposed; rot", "S": ["addled ", "ruined ", "withered "], "A": ["developing ", "flourishing ", "germinating ", "growing ", "improving ", "ripening "]}

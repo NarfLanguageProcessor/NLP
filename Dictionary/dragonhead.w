@@ -1,0 +1,1 @@
+{"index": 92571, "D": "any of several mints of the genus Dracocephalum having spikes of double-lipped flowers.", "S": [], "A": []}

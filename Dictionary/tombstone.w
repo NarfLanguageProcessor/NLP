@@ -1,0 +1,1 @@
+{"index": 325414, "D": "a stone  marker, usually inscribed, on a tomb  or grave.", "S": ["gravestone ", "marker ", "memorial ", "monument "], "A": []}

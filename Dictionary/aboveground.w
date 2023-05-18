@@ -1,0 +1,1 @@
+{"index": 761, "D": "situated on or above  the ground. ", "S": [], "A": []}

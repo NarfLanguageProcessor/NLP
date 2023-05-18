@@ -1,0 +1,1 @@
+{"index": 341391, "D": "a feeling of discontent or covetousness with regard to another's advantages, success, possessions, etc.", "S": [], "A": []}

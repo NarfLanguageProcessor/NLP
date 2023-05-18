@@ -1,0 +1,1 @@
+{"index": 75681, "D": "the act or practice of cursing or swearing", "S": ["desecration ", "heresy "], "A": ["respect "]}

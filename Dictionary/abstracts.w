@@ -1,0 +1,1 @@
+{"index": 1104, "D": "thought of apart from concrete realities, specific objects, or actual instances", "S": ["dossier ", "evidence ", "goods ", "info ", "input ", "knowledge ", "picture ", "statistics ", "testimony "], "A": []}

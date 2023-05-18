@@ -1,0 +1,1 @@
+{"index": 127703, "D": "a person who rows or poles a gondola.", "S": ["boatman ", "ferryman ", "oar "], "A": []}

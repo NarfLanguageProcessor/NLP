@@ -1,0 +1,1 @@
+{"index": 121653, "D": "to skip about, as in dancing or playing; frolic.", "S": ["cavort ", "frolic ", "prance "], "A": ["face "]}

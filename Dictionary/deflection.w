@@ -1,0 +1,1 @@
+{"index": 79373, "D": "the act or state of deflecting  or the state of being deflected. ", "S": ["angle ", "arc ", "bending ", "bow ", "corner ", "crook ", "curvature ", "deviation ", "flection ", "flexure ", "hook ", "lean ", "loop ", "round ", "sag ", "shift ", "tack ", "tilt ", "turn ", "twist ", "yaw ", "zigzag "], "A": ["stagnation "]}

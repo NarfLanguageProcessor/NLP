@@ -1,0 +1,1 @@
+{"index": 141164, "D": "a hypodermic syringe  or injection.", "S": [], "A": []}

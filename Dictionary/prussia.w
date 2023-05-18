@@ -1,0 +1,1 @@
+{"index": 254280, "D": "a former state in N Europe", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38344, "D": "a salt or ester of boric acid.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 347984, "D": "full of play or fun; sportive; frolicsome.", "S": [], "A": []}

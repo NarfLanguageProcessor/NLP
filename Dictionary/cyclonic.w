@@ -1,0 +1,1 @@
+{"index": 57182, "D": "of or relating to a cyclone", "S": ["lightning ", "quick ", "rapid ", "rash ", "short ", "swift "], "A": ["slow ", "sluggish "]}

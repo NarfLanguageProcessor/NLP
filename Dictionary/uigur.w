@@ -1,0 +1,1 @@
+{"index": 333683, "D": "a member of a Mongoloid people of NW China, Uzbekistan, Kyrgyzstan, and Kazakhstan", "S": [], "A": []}

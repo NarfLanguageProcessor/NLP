@@ -1,0 +1,1 @@
+{"index": 74221, "D": "a person or thing that crunches. ", "S": [], "A": []}

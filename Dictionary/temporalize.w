@@ -1,0 +1,1 @@
+{"index": 318582, "D": "to make temporal  in time; place in time.", "S": [], "A": []}

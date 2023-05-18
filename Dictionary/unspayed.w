@@ -1,0 +1,1 @@
+{"index": 351655, "D": "to remove the ovaries of (an animal).", "S": [], "A": []}

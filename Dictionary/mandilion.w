@@ -1,0 +1,1 @@
+{"index": 179036, "D": "a short cloak, with full hanging sleeves, often open or slit under the arms, worn by soldiers in the 16th and 17th centuries.", "S": [], "A": []}

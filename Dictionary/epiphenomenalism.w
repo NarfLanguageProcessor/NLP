@@ -1,0 +1,1 @@
+{"index": 102668, "D": "the doctrine that consciousness is merely an epiphenomenon of physiological processes, and that it has no power to affect these processes.", "S": [], "A": []}

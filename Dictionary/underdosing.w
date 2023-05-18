@@ -1,0 +1,1 @@
+{"index": 339102, "D": "a quantity of medicine prescribed to be taken at one time.", "S": [], "A": []}

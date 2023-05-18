@@ -1,0 +1,1 @@
+{"index": 44866, "D": "a fat-soluble, crystalline, unsaturated alcohol, C28H43OH, occurring in milk, fish-liver oils, etc., produced by ultraviolet irradiation of ergosterol,  and used as a dietary supplement, as in fortified milk.", "S": [], "A": []}

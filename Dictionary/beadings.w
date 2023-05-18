@@ -1,0 +1,1 @@
+{"index": 29396, "D": "material composed of or adorned with beads.", "S": [], "A": []}

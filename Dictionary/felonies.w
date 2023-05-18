@@ -1,0 +1,1 @@
+{"index": 111079, "D": "an offense, as murder or burglary, of graver character than those called misdemeanors, especially those commonly punished in the U.S. by imprisonment for more than a year.", "S": ["arson ", "assault ", "burglary ", "murder ", "offense ", "rape ", "robbery ", "violation ", "wrongdoing "], "A": ["obedience "]}

@@ -1,0 +1,1 @@
+{"index": 212010, "D": "far advanced in the years of one's or its life", "S": ["earliest ", "first ", "original ", "primeval "], "A": []}

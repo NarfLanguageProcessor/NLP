@@ -1,0 +1,1 @@
+{"index": 1046, "D": "the property of a body that determines the fraction of incident radiation absorbed  or absorbable  by the body.", "S": [], "A": []}

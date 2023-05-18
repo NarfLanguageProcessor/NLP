@@ -1,0 +1,1 @@
+{"index": 201969, "D": "the act or an instance of making an idea or statement clear", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189233, "D": "wretchedly unhappy, uneasy, or uncomfortable", "S": ["boredom ", "despair ", "desperation ", "despondency ", "ennui ", "gloom ", "grief ", "sorrow ", "wistfulness "], "A": ["cheer ", "confidence ", "excitement ", "happiness ", "joy ", "advantage ", "benefit ", "blessing ", "boon ", "gladness ", "joyousness "]}

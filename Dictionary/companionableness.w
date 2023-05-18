@@ -1,0 +1,1 @@
+{"index": 64379, "D": "possessing the qualities of a good companion;  pleasant to be with; congenial.", "S": [], "A": []}

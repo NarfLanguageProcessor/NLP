@@ -1,0 +1,1 @@
+{"index": 161194, "D": "a person or thing that jigs.", "S": ["apparatus ", "appliance ", "business ", "concern ", "contraption ", "contrivance ", "doodad ", "doohickey ", "gimmick ", "gizmo ", "invention ", "object ", "thing ", "thingamajig ", "tool ", "utensil ", "whatchamacallit ", "widget "], "A": []}

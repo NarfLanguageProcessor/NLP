@@ -1,0 +1,1 @@
+{"index": 177153, "D": "a polite term of address to a woman, originally used only to a woman of rank or authority", "S": ["madame "], "A": ["sir "]}

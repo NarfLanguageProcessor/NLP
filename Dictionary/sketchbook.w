@@ -1,0 +1,1 @@
+{"index": 293009, "D": "a book  or pad of drawing paper for sketches. ", "S": [], "A": []}

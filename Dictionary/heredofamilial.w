@@ -1,0 +1,1 @@
+{"index": 137031, "D": "denoting a condition or disease that may be passed from generation to generation and to several members of one family", "S": [], "A": []}

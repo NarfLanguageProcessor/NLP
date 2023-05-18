@@ -1,0 +1,1 @@
+{"index": 12939, "D": "a city in W France, NNE of Bordeaux on the Charente River.", "S": [], "A": []}

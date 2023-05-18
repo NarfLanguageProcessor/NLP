@@ -1,0 +1,1 @@
+{"index": 298570, "D": "pertaining to, of the nature of, or characterized by spasm, especially tonic spasm.", "S": ["a bundle of nerves ", "nervous wreck ", "ninnyhammer "], "A": []}

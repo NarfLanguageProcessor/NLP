@@ -1,0 +1,1 @@
+{"index": 13470, "D": "a chronicler of events, especially yearly ones; historian.", "S": [], "A": []}

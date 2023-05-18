@@ -1,0 +1,1 @@
+{"index": 112209, "D": "any of numerous chiefly tropical trees, shrubs, and vines belonging to the genus Ficus, of the mulberry family, having milky sap and large, thick or stiff leaves, including the edible fig, the banyan, and many species grown as ornamentals.", "S": [], "A": []}

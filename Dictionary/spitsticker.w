@@ -1,0 +1,1 @@
+{"index": 300268, "D": "a wood-engraving tool with a fine prow-shaped point for cutting curved lines", "S": [], "A": []}

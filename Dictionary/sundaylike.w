@@ -1,0 +1,1 @@
+{"index": 311069, "D": "the first day of the week, observed as the Sabbath by most Christian sects.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 354484, "D": "an unaccented beat,  especially immediately preceding a downbeat.", "S": ["buoyant ", "cheery ", "encouraging ", "happy ", "hopeful ", "optimistic ", "positive ", "rosy ", "sanguine "], "A": ["depressed ", "discouraged ", "doubtful ", "gloomy ", "hopeless ", "pessimistic ", "sad ", "sorrowful ", "unhappy "]}

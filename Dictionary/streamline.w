@@ -1,0 +1,1 @@
+{"index": 305990, "D": "a teardrop line  of contour offering the least possible resistance to a current of air, water, etc.", "S": ["consolidate ", "integrate ", "rationalize ", "unify "], "A": ["divide ", "separate ", "disorder ", "disorganize ", "disperse ", "enlarge ", "scatter ", "spread "]}

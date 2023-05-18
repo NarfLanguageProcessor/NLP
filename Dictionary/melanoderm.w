@@ -1,0 +1,1 @@
+{"index": 182737, "D": "a person with dark pigmentation of the skin.", "S": [], "A": []}

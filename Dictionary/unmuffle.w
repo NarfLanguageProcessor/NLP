@@ -1,0 +1,1 @@
+{"index": 346657, "D": "to strip of or free from something that muffles. ", "S": [], "A": []}

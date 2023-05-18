@@ -1,0 +1,1 @@
+{"index": 1246, "D": "an Arcadian whose estate became a meeting place for Athenian philosophers.", "S": [], "A": []}

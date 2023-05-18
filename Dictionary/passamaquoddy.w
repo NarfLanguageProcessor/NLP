@@ -1,0 +1,1 @@
+{"index": 227277, "D": "a member of a small tribe of North American Indians formerly of coastal Maine and New Brunswick and now living in Maine.", "S": [], "A": []}

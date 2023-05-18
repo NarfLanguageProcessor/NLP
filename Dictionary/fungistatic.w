@@ -1,0 +1,1 @@
+{"index": 120245, "D": "(of a substance or preparation) inhibiting the growth of a fungus.", "S": [], "A": []}

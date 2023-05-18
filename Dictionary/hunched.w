@@ -1,0 +1,1 @@
+{"index": 145112, "D": "to thrust out or up in a hump; arch", "S": ["angled ", "arced ", "arched ", "bowed ", "contorted ", "crooked ", "drooping ", "hooked ", "humped ", "inclined ", "limp ", "looped ", "round ", "rounded ", "slumped ", "stooped ", "twined ", "twisted ", "warped ", "wilted "], "A": ["straight "]}

@@ -1,0 +1,1 @@
+{"index": 154172, "D": "tapering or narrowing at the front or tip, as an airplane wing.", "S": [], "A": []}

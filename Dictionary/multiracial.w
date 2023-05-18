@@ -1,0 +1,1 @@
+{"index": 195302, "D": "consisting of, representing, or combining members of more than one racial  group", "S": ["multicultural "], "A": []}

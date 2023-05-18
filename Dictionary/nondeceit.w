@@ -1,0 +1,1 @@
+{"index": 202711, "D": "the act or practice of deceiving;  concealment or distortion of the truth for the purpose of misleading; duplicity; fraud; cheating", "S": [], "A": []}

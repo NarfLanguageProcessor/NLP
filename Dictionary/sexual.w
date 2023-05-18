@@ -1,0 +1,1 @@
+{"index": 286951, "D": "of, relating to, or for sex", "S": ["carnal ", "erotic ", "intimate ", "passionate ", "reproductive ", "sensual "], "A": ["chaste ", "cold ", "cool ", "dull ", "frigid "]}

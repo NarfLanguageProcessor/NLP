@@ -1,0 +1,1 @@
+{"index": 45860, "D": "an archaic name for henna (def. 1), henna (def. 2)", "S": [], "A": []}

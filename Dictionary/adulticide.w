@@ -1,0 +1,1 @@
+{"index": 4527, "D": "an insecticide  that kills adult insects. ", "S": [], "A": []}

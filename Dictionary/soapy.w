@@ -1,0 +1,1 @@
+{"index": 295994, "D": "containing or impregnated with soap", "S": ["saponaceous "], "A": []}

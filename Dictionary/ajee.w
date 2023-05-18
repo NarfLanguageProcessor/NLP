@@ -1,0 +1,1 @@
+{"index": 7090, "D": "to one side; awry.", "S": [], "A": []}

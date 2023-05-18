@@ -1,0 +1,1 @@
+{"index": 116696, "D": "forehand (def. 1). ", "S": ["carefulness ", "caution ", "circumspection ", "discretion ", "foresight ", "foresightfulness ", "forethought ", "judgment ", "planning ", "precaution ", "preparedness ", "providence ", "sagacity ", "wisdom "], "A": ["carelessness ", "hindsight ", "ignorance ", "indiscretion ", "stupidity ", "thoughtlessness "]}

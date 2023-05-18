@@ -1,0 +1,1 @@
+{"index": 351066, "D": "to draw back, as in retreat or avoidance", "S": ["fearless ", "indomitable ", "steadfast ", "undeterred "], "A": ["cowardly ", "shrinking "]}

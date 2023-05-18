@@ -1,0 +1,1 @@
+{"index": 320419, "D": "the fourth letter of the Arabic alphabet.", "S": [], "A": []}

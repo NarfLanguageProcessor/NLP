@@ -1,0 +1,1 @@
+{"index": 148862, "D": "a person who imposes a duty, etc", "S": [], "A": []}

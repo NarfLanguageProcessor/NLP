@@ -1,0 +1,1 @@
+{"index": 5743, "D": "biochemical or physical changes that occur in a dormant seed to ensure germination and in fruits after harvesting.", "S": [], "A": []}

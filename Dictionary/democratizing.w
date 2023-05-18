@@ -1,0 +1,1 @@
+{"index": 80733, "D": "to make or become democratic. ", "S": ["adjust ", "even up "], "A": ["aid ", "assist ", "differ ", "disagree ", "help ", "imbalance ", "roughen ", "vary "]}

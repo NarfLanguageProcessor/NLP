@@ -1,0 +1,1 @@
+{"index": 72836, "D": "Compare buzzcut. ", "S": ["braid ", "dreadlocks ", "haircut ", "hairdo ", "headdress ", "ponytail "], "A": []}

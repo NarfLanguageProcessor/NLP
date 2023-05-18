@@ -1,0 +1,1 @@
+{"index": 311215, "D": "any starfish of the genus Solaster, inhabiting cold and temperate waters off both U.S. coasts.", "S": [], "A": []}

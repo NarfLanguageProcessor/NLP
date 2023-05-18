@@ -1,0 +1,1 @@
+{"index": 2843, "D": "caustic, stinging, or bitter in nature, speech, behavior, etc.", "S": ["belligerent ", "bitter ", "caustic ", "petulant ", "rancorous ", "testy "], "A": ["happy ", "helping ", "kind ", "mild ", "nice ", "pleasant "]}

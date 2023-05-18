@@ -1,0 +1,1 @@
+{"index": 18593, "D": "furnished with an arbor. ", "S": [], "A": []}

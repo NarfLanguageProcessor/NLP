@@ -1,0 +1,1 @@
+{"index": 306353, "D": [], "S": ["ability ", "authority ", "control ", "expertise ", "government ", "grasp ", "jurisdiction ", "leadership ", "management ", "skill ", "supervision "], "A": ["ignorance ", "inability ", "weakness ", "freedom ", "release ", "submission "]}

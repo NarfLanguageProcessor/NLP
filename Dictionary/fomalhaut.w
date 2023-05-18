@@ -1,0 +1,1 @@
+{"index": 116002, "D": "a star of the first magnitude and the brightest star in the constellation Piscis Austrinus.", "S": [], "A": []}

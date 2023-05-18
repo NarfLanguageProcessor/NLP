@@ -1,0 +1,1 @@
+{"index": 236410, "D": "a sculptor and king of Cyprus who carved an ivory statue of a maiden and fell in love with it. It was brought to life, in response to his prayer, by Aphrodite.", "S": [], "A": []}

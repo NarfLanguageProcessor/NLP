@@ -1,0 +1,1 @@
+{"index": 340489, "D": "to injure the credit  or reputation of; defame", "S": [], "A": []}

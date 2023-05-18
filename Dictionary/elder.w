@@ -1,0 +1,1 @@
+{"index": 96823, "D": "of greater age; older. ", "S": ["older "], "A": ["younger ", "youngest "]}

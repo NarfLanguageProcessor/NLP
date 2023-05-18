@@ -1,0 +1,1 @@
+{"index": 131920, "D": "an exclamation urging the hearer to refrain from delay in the execution of a task", "S": [], "A": []}

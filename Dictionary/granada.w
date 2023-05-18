@@ -1,0 +1,1 @@
+{"index": 128777, "D": "a medieval kingdom along the Mediterranean coast of S Spain.", "S": [], "A": []}

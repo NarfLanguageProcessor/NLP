@@ -1,0 +1,1 @@
+{"index": 81175, "D": "conferring or constituting a distinctive designation or name.", "S": [], "A": []}

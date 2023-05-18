@@ -1,0 +1,1 @@
+{"index": 286368, "D": "serrated  condition or form.", "S": [], "A": []}

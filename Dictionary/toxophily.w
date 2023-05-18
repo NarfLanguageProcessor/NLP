@@ -1,0 +1,1 @@
+{"index": 326960, "D": "a devotee of archery; archer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82473, "D": "another word for seed (def. 15)", "S": [], "A": []}

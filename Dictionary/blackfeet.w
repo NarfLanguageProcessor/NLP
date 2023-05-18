@@ -1,0 +1,1 @@
+{"index": 35487, "D": "a member of a North American tribe of Indians of Algonquian stock.", "S": [], "A": []}

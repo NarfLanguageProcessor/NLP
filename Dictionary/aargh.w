@@ -1,0 +1,1 @@
+{"index": 17, "D": "(used as an exclamation of frustration, annoyance, etc.) ", "S": [], "A": []}

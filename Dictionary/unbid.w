@@ -1,0 +1,1 @@
+{"index": 335886, "D": "not ordered or commanded; spontaneous.", "S": [], "A": []}

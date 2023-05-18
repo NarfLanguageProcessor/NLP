@@ -1,0 +1,1 @@
+{"index": 353649, "D": "having considerable monetary worth; costing or bringing a high price", "S": [], "A": []}

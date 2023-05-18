@@ -1,0 +1,1 @@
+{"index": 197296, "D": "a political and military alliance established in 1949 in Washington, D.C., by 12 countries in Europe and North America for the purpose of collective defense against aggression, now comprising 30 member nations", "S": [], "A": []}

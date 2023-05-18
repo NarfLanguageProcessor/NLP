@@ -1,0 +1,1 @@
+{"index": 179476, "D": "(in England) a landed estate or territorial unit, originally of the nature of a feudal lordship, consisting of a lord's demesne and of lands within which he has the right to exercise certain privileges, exact certain fees, etc.", "S": ["mansion "], "A": []}

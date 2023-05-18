@@ -1,0 +1,1 @@
+{"index": 215510, "D": "a place or receptacle for the bones of the dead.", "S": ["container ", "receptacle ", "vault ", "vessel "], "A": []}

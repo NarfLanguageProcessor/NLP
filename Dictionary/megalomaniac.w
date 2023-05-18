@@ -1,0 +1,1 @@
+{"index": 182418, "D": "a person who has megalomania. ", "S": ["individualistic ", "narcissistic ", "pompous ", "self-absorbed ", "self-centered ", "self-serving ", "selfish "], "A": ["unselfish "]}

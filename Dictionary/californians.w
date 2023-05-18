@@ -1,0 +1,1 @@
+{"index": 45148, "D": "a state in the western United States, on the Pacific coast. 158,693 square miles (411,015 square kilometers). Capital", "S": [], "A": []}

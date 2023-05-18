@@ -1,0 +1,1 @@
+{"index": 242107, "D": "one of the three principal divisions of Oceania, comprising those island groups in the Pacific Ocean  lying east of Melanesia and Micronesia and extending from the Hawaiian Islands  south to New Zealand. ", "S": [], "A": []}

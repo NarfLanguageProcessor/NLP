@@ -1,0 +1,1 @@
+{"index": 178157, "D": "softening, or loss of consistency, of an organ or tissue.", "S": [], "A": []}

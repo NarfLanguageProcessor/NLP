@@ -1,0 +1,1 @@
+{"index": 200584, "D": "in a noble manner.", "S": ["magnificently ", "splendidly "], "A": []}

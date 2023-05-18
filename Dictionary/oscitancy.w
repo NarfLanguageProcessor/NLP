@@ -1,0 +1,1 @@
+{"index": 215295, "D": "the state of being drowsy, lazy, or inattentive", "S": ["apathy ", "laziness ", "paralysis ", "passivity ", "sluggishness "], "A": ["action ", "busyness ", "liveliness "]}

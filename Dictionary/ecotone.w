@@ -1,0 +1,1 @@
+{"index": 95418, "D": "the transition zone between two different plant communities, as that between forest and prairie.", "S": [], "A": []}

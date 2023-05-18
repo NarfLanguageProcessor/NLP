@@ -1,0 +1,1 @@
+{"index": 348396, "D": "a presentiment or foreboding.", "S": [], "A": []}

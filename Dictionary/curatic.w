@@ -1,0 +1,1 @@
+{"index": 75197, "D": "a member of the clergy employed to assist a rector or vicar.", "S": [], "A": []}

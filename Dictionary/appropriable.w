@@ -1,0 +1,1 @@
+{"index": 17997, "D": "capable of being appropriated;  liable to be appropriated. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43200, "D": "a member of the dominant ethnic group of Myanmar (Burma), living mainly in the lowlands of the Irrawaddy and Chindwin River drainages and the southern panhandle.", "S": [], "A": []}

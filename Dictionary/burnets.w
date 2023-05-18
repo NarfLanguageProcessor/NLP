@@ -1,0 +1,1 @@
+{"index": 43214, "D": "any of several plants belonging to the genera Sanguisorba and Poterium, of the rose family, having pinnate leaves and dense heads of small flowers.", "S": [], "A": []}

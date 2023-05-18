@@ -1,0 +1,1 @@
+{"index": 302481, "D": "a deposit, usually of calcium carbonate, shaped like an icicle, hanging from the roof of a cave or the like, and formed by the dripping of percolating calcareous water.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1094, "D": "a person who produces abstract works of art.", "S": [], "A": []}

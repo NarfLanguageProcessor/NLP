@@ -1,0 +1,1 @@
+{"index": 42299, "D": "a fellow or lad (used affectionately or abusively)", "S": [], "A": []}

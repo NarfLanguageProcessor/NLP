@@ -1,0 +1,1 @@
+{"index": 200255, "D": "chilly or cold", "S": ["biting ", "brisk ", "cold ", "crisp ", "cutting ", "freezing ", "sharp "], "A": ["warm "]}

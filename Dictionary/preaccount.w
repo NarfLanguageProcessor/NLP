@@ -1,0 +1,1 @@
+{"index": 245432, "D": "an oral or written description of particular events or situations; narrative", "S": [], "A": []}

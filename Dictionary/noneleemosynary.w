@@ -1,0 +1,1 @@
+{"index": 203423, "D": "of or relating to alms, charity, or charitable donations; charitable.", "S": [], "A": []}

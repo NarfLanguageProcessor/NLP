@@ -1,0 +1,1 @@
+{"index": 120993, "D": "the state of being joyous, vivacious, or cheerful.", "S": ["good humor ", "hilarity ", "joie de vivre "], "A": ["depression ", "discouragement ", "dullness ", "gloom ", "sadness ", "seriousness ", "sorrow ", "unhappiness ", "work "]}

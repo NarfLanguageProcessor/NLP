@@ -1,0 +1,1 @@
+{"index": 110378, "D": "pertaining to the fauces or opening of the throat.", "S": [], "A": []}

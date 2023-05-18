@@ -1,0 +1,1 @@
+{"index": 336473, "D": "to leap or skip about in a sprightly manner; prance; frisk; gambol. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307061, "D": "of or relating to a college, academy, school, or other educational institution", "S": [], "A": []}

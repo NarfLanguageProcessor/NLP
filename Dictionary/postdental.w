@@ -1,0 +1,1 @@
+{"index": 244033, "D": "of or relating to the teeth.", "S": [], "A": []}

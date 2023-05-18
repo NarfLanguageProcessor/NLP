@@ -1,0 +1,1 @@
+{"index": 283705, "D": "pertaining to, derived from, or producing vinegar or acetic acid. ", "S": [], "A": []}

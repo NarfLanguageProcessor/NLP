@@ -1,0 +1,1 @@
+{"index": 331978, "D": "a slender, marine fish, Aulorhynchus flavidus, inhabiting coastal waters from southern California to Alaska, having a long, tubelike snout. ", "S": [], "A": []}

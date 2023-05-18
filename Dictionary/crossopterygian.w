@@ -1,0 +1,1 @@
+{"index": 73850, "D": "any fish of the group Crossopterygii, extinct except for the coelacanth, regarded as being ancestral to amphibians and other land vertebrates.", "S": [], "A": []}

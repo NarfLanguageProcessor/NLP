@@ -1,0 +1,1 @@
+{"index": 293019, "D": "like a sketch;  giving only outlines or essentials.", "S": [], "A": []}

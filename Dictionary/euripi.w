@@ -1,0 +1,1 @@
+{"index": 105774, "D": "a strait, especially one in which the flow of water is violent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340629, "D": "obtained or produced by distillation.", "S": [], "A": []}

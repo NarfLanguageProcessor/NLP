@@ -1,0 +1,1 @@
+{"index": 130785, "D": "to keep safe from harm or danger; protect; watch over", "S": [], "A": []}

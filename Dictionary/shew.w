@@ -1,0 +1,1 @@
+{"index": 288143, "D": "an archaic spelling of show. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 951, "D": "so lost in thought that one does not realize what one is doing, what is happening, etc.; preoccupied to the extent of being unaware of one's immediate surroundings.", "S": ["absorption ", "abstraction ", "distraction ", "dreaminess ", "forgetfulness ", "heedlessness ", "inattention "], "A": []}

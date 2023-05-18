@@ -1,0 +1,1 @@
+{"index": 348843, "D": "purging  or cleansing, especially by causing evacuation of the bowels.", "S": [], "A": []}

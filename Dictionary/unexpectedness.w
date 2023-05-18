@@ -1,0 +1,1 @@
+{"index": 341760, "D": "not expected; unforeseen; surprising", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316251, "D": "at full gallop", "S": [], "A": []}

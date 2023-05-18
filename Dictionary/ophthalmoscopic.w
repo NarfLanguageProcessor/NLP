@@ -1,0 +1,1 @@
+{"index": 213485, "D": "an instrument for viewing the interior of the eye or examining the retina.", "S": [], "A": []}

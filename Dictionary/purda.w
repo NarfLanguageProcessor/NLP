@@ -1,0 +1,1 @@
+{"index": 256888, "D": "the seclusion of women from the sight of men or strangers, practiced by some Muslims and Hindus.", "S": [], "A": []}

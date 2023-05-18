@@ -1,0 +1,1 @@
+{"index": 121839, "D": "a thief, swindler, crook, or rascal.", "S": [], "A": []}

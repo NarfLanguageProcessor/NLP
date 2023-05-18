@@ -1,0 +1,1 @@
+{"index": 89722, "D": "a distempered or disordered condition; disturbance of health, mind, or temper.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 318974, "D": "stretched tight, as a cord, fiber, etc.; drawn taut; rigid. ", "S": ["breathlessly ", "eagerly ", "frantically ", "furiously ", "heatedly ", "madly ", "passionately ", "wildly "], "A": []}

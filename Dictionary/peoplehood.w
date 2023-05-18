@@ -1,0 +1,1 @@
+{"index": 230165, "D": "the state or condition of being a people. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 101358, "D": "to come or go in", "S": ["arrive ", "come in ", "get in ", "go in ", "infiltrate ", "introduce ", "invade ", "penetrate "], "A": ["depart ", "exit ", "go ", "leave ", "leave alone ", "withdraw "]}

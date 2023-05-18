@@ -1,0 +1,1 @@
+{"index": 67048, "D": "to compose; form", "S": ["basic ", "combining ", "composing ", "division ", "essential ", "factor ", "fraction ", "fundamental ", "ingredient ", "integral ", "portion "], "A": ["accessory ", "additional ", "auxiliary ", "extra ", "inessential ", "minor ", "nonessential ", "secondary ", "unimportant "]}

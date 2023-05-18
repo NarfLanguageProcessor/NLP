@@ -1,0 +1,1 @@
+{"index": 187288, "D": "having a background sprinkled with representations of flowers, as certain tapestries or pieces of glasswork.", "S": [], "A": []}

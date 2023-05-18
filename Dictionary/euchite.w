@@ -1,0 +1,1 @@
+{"index": 105298, "D": "a member of a mendicant, ascetic sect living chiefly in Syria and Mesopotamia in the 4th\u20137th centuries a.d., and holding a belief that the demon in each person can be expelled only by ceaseless prayer.", "S": [], "A": []}

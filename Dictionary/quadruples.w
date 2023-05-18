@@ -1,0 +1,1 @@
+{"index": 257731, "D": "fourfold; consisting of four parts", "S": ["quadrivium ", "quadrumvirate ", "quadruple ", "quadruplet ", "quadruplets ", "quartet ", "quartette ", "quaternary ", "quaternion ", "quaternity ", "tetrad ", "tetralogy "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246483, "D": "a person or thing that consumes. ", "S": [], "A": []}

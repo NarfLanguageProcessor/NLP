@@ -1,0 +1,1 @@
+{"index": 234684, "D": "a specialist in phonetics  or in some aspect of phonetics. ", "S": ["linguist ", "wordsmith "], "A": []}

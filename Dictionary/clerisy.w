@@ -1,0 +1,1 @@
+{"index": 59825, "D": "learned persons as a class; literati; intelligentsia.", "S": [], "A": []}

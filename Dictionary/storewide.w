@@ -1,0 +1,1 @@
+{"index": 305406, "D": "applying to all the merchandise or all the departments within a store", "S": [], "A": []}

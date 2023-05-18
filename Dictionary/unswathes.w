@@ -1,0 +1,1 @@
+{"index": 352570, "D": "to free from something that swathes", "S": [], "A": []}

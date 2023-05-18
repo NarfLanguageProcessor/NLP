@@ -1,0 +1,1 @@
+{"index": 224049, "D": "having a palm  or palms  of a specified kind (often used in combination)", "S": ["eject ", "foist ", "make a pretense of ", "palm ", "palm off ", "send forth ", "work off "], "A": ["keep ", "maintain "]}

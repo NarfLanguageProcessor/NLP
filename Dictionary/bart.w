@@ -1,0 +1,1 @@
+{"index": 28407, "D": "a male given name, form of Bartholomew, Bartlett,  or Bartram. ", "S": [], "A": []}

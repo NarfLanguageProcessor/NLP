@@ -1,0 +1,1 @@
+{"index": 152818, "D": "to begin, set going, or originate", "S": ["beginning ", "building ", "chartering ", "constituting ", "endowing ", "fixing ", "founding ", "implementing ", "instituting ", "organizing ", "originating ", "regulating ", "settling ", "stabilizing ", "starting ", "subsidizing "], "A": ["dissolving ", "ending ", "tearing down "]}

@@ -1,0 +1,1 @@
+{"index": 1856, "D": "pertaining to the accusative  case.", "S": [], "A": []}

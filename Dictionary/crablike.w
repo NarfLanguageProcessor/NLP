@@ -1,0 +1,1 @@
+{"index": 71801, "D": "any decapod crustacean of the suborder Brachyura, having the eyes on short stalks and a short, broad, more or less flattened body, the abdomen being small and folded under the thorax.", "S": [], "A": []}

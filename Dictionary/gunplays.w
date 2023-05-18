@@ -1,0 +1,1 @@
+{"index": 131413, "D": "the exchange of gunshots, usually with intent to wound or kill.", "S": [], "A": []}

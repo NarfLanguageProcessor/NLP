@@ -1,0 +1,1 @@
+{"index": 181769, "D": "the state or quality of being mean. ", "S": ["avarice ", "greed ", "malice "], "A": ["benevolence ", "generosity ", "goodness ", "honor ", "morality ", "virtue "]}

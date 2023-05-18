@@ -1,0 +1,1 @@
+{"index": 202136, "D": "to recompense for something", "S": [], "A": []}

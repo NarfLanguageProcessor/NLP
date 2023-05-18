@@ -1,0 +1,1 @@
+{"index": 154133, "D": "incapable of being surmounted, passed over, or overcome; insuperable", "S": [], "A": []}

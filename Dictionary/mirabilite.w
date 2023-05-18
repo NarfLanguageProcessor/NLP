@@ -1,0 +1,1 @@
+{"index": 188304, "D": "a decahydrate form of sodium sulfate, Na2SO4\u22c510H2O.", "S": [], "A": []}

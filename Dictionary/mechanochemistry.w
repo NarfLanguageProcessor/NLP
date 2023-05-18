@@ -1,0 +1,1 @@
+{"index": 181898, "D": "the field of chemistry  that deals with the direct conversion of chemical into mechanical energy.", "S": [], "A": []}

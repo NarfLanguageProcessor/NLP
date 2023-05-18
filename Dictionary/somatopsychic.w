@@ -1,0 +1,1 @@
+{"index": 296993, "D": "of or relating to the effects of the body on the mind.", "S": [], "A": []}

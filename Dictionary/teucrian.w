@@ -1,0 +1,1 @@
+{"index": 320319, "D": "of or relating to the ancient Trojans.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152971, "D": "to restore (an outlaw) to the benefits and protection of the law.", "S": [], "A": []}

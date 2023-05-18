@@ -1,0 +1,1 @@
+{"index": 110716, "D": "a prominent or conspicuous part or characteristic", "S": ["displaying ", "headlining ", "highlighting ", "presenting ", "promoting ", "pushing ", "recommending ", "showing ", "starring ", "turning "], "A": []}

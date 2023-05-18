@@ -1,0 +1,1 @@
+{"index": 164202, "D": "a handloomed plain-weave cotton fabric produced in India.", "S": [], "A": []}

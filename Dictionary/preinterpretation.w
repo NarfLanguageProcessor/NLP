@@ -1,0 +1,1 @@
+{"index": 248059, "D": "the act of interpreting;  elucidation; explication", "S": [], "A": []}

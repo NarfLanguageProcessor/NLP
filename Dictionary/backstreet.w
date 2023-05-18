@@ -1,0 +1,1 @@
+{"index": 25962, "D": "a street apart from the main or business area of a town.", "S": ["alley ", "by-street ", "bylane ", "bypath ", "byroad ", "bystreet ", "byway ", "side road "], "A": []}

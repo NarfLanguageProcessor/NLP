@@ -1,0 +1,1 @@
+{"index": 107832, "D": "the quantity by which an angle or an arc falls short of 360\u00b0 or a circle.", "S": [], "A": []}

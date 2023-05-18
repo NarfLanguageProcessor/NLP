@@ -1,0 +1,1 @@
+{"index": 120942, "D": "See under gaff1 (def. 3). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228431, "D": "a variant of paean. ", "S": ["hymn "], "A": []}

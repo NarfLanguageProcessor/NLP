@@ -1,0 +1,1 @@
+{"index": 308234, "D": "an act or instance of determining mentally upon some action or result.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94716, "D": "an earring with a pendant.", "S": [], "A": []}

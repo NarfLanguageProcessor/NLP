@@ -1,0 +1,1 @@
+{"index": 302759, "D": "(of the duration of the binding force treaty) for as long as the relevant facts and circumstances remain basically the same.", "S": [], "A": []}

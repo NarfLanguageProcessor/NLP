@@ -1,0 +1,1 @@
+{"index": 203409, "D": "the selection of a person or persons for office by vote", "S": [], "A": []}

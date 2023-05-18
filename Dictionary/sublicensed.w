@@ -1,0 +1,1 @@
+{"index": 308393, "D": "a license  or contract granted to a third party by a licensee for specified rights or uses of a product, brand name, logo, etc.", "S": [], "A": []}

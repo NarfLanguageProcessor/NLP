@@ -1,0 +1,1 @@
+{"index": 345195, "D": "(of a lover or spouse) rejected or cast aside, especially abruptly or heartlessly", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230704, "D": "to overspread with moisture, color, etc.; suffuse.", "S": [], "A": []}

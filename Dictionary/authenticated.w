@@ -1,0 +1,1 @@
+{"index": 23794, "D": "to establish as genuine.", "S": ["accurate ", "authentic ", "definitive ", "dependable ", "factual ", "reliable ", "scholarly ", "trustworthy ", "truthful "], "A": ["dishonest ", "false ", "inaccurate ", "irresponsible ", "undependable ", "unreliable ", "untrustworthy ", "untruthful "]}

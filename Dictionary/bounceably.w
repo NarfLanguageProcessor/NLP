@@ -1,0 +1,1 @@
+{"index": 38951, "D": "to spring back from a surface in a lively manner", "S": [], "A": []}

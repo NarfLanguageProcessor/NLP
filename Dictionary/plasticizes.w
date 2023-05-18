@@ -1,0 +1,1 @@
+{"index": 239250, "D": "to render or become plastic. ", "S": [], "A": []}

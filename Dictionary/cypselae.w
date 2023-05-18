@@ -1,0 +1,1 @@
+{"index": 57938, "D": "an achene with an adherent calyx, as in the composite plants.", "S": [], "A": []}

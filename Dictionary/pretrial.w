@@ -1,0 +1,1 @@
+{"index": 250044, "D": "a proceeding held by a judge, arbitrator, etc., before a trial  to simplify the issues of law and fact and stipulate certain matters between the parties, in order to expedite justice and curtail costs at the trial. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259746, "D": "any of a number of radioactive drugs used diagnostically or therapeutically.", "S": [], "A": []}

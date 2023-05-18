@@ -1,0 +1,1 @@
+{"index": 227586, "D": "a small piece of material used to mend a tear or break, to cover a hole, or to strengthen a weak place", "S": [], "A": []}

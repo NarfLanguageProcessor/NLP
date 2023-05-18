@@ -1,0 +1,1 @@
+{"index": 187247, "D": "a frothy drink made of cold milk, flavoring, and usually ice cream, shaken together or blended in a mixer.", "S": [], "A": []}

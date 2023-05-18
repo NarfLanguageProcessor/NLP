@@ -1,0 +1,1 @@
+{"index": 368972, "D": "any of several trees, especially Connarus guianensis, of tropical America, yielding a striped, hard wood  used for making furniture.", "S": [], "A": []}

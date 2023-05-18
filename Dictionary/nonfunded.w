@@ -1,0 +1,1 @@
+{"index": 204219, "D": "a supply of money or pecuniary resources, as for some purpose", "S": [], "A": []}

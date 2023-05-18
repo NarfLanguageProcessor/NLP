@@ -1,0 +1,1 @@
+{"index": 294456, "D": "moving or proceeding with little or less than usual speed or velocity", "S": ["deferred ", "postponed "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 328819, "D": "an edible, sugary substance secreted by certain Asiatic beetles of the genus Larinus, forming their pupal covering.", "S": [], "A": []}

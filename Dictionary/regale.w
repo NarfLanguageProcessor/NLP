@@ -1,0 +1,1 @@
+{"index": 265502, "D": "to entertain lavishly or agreeably; delight. ", "S": ["amuse ", "entertain "], "A": ["bore ", "tire ", "anger ", "annoy ", "depress ", "disappoint ", "disturb ", "frustrate ", "pain ", "refuse ", "upset "]}

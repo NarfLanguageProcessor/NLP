@@ -1,0 +1,1 @@
+{"index": 25439, "D": "(formerly in South Africa) control by White people of non-White people", "S": [], "A": []}

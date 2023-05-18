@@ -1,0 +1,1 @@
+{"index": 131347, "D": "a person highly skilled in the use of a gun  and a veteran of many gunfights, especially one living during the frontier days of the American West.", "S": [], "A": []}

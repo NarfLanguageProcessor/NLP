@@ -1,0 +1,1 @@
+{"index": 71283, "D": "possessing or characterized by courage;  brave", "S": ["adventurous ", "audacious ", "daring ", "fearless ", "gallant ", "gutsy ", "heroic ", "resolute ", "strong ", "tenacious ", "tough ", "valiant "], "A": ["afraid ", "cautious ", "cowardly ", "fearful ", "irresolute ", "meek ", "shy ", "timid ", "unadventurous ", "weak ", "yielding "]}

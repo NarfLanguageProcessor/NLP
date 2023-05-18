@@ -1,0 +1,1 @@
+{"index": 365225, "D": "U.S. missionary and pioneer.", "S": [], "A": []}

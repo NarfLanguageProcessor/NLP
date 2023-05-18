@@ -1,0 +1,1 @@
+{"index": 19990, "D": "of or relating to Armorica. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316499, "D": "a member of an Indigenous people of Michoac\u00e1n state, in southwestern Mexico.", "S": [], "A": []}

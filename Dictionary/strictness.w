@@ -1,0 +1,1 @@
+{"index": 306220, "D": "characterized by or acting in close conformity to requirements or principles", "S": ["acerbity ", "austerity ", "cruelty ", "grimness ", "hardheartedness ", "hardness ", "harshness ", "rigidity ", "rigor ", "rigorousness ", "sharpness ", "sternness ", "stringency ", "toughness ", "unkindness "], "A": ["gentility ", "kindness ", "mildness "]}

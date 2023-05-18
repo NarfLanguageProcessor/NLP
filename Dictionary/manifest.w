@@ -1,0 +1,1 @@
+{"index": 179267, "D": "readily perceived by the eye or the understanding; evident; obvious; apparent; plain", "S": ["glaring ", "palpable ", "unambiguous ", "unmistakable "], "A": ["hidden ", "ambiguous ", "concealed ", "unclear ", "vague "]}

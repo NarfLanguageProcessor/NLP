@@ -1,0 +1,1 @@
+{"index": 163692, "D": "a native or inhabitant of Pennsylvania (used as a nickname).", "S": [], "A": []}

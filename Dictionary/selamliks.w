@@ -1,0 +1,1 @@
+{"index": 283416, "D": "the portion of a Turkish palace or house reserved for men.", "S": [], "A": []}

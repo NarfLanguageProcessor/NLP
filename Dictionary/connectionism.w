@@ -1,0 +1,1 @@
+{"index": 66509, "D": "the theory that all mental processes can be described as the operation of inherited or acquired bonds between stimulus and response.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 185690, "D": "variant of myco-  before a vowel", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132781, "D": "a substance that produces hallucinations. ", "S": ["dope ", "narcotic ", "opiate ", "poison ", "potion "], "A": []}

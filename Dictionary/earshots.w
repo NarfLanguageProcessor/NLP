@@ -1,0 +1,1 @@
+{"index": 94797, "D": "the range or distance within which a sound, voice, etc., can be heard.", "S": ["audition ", "detecting ", "distinguishing ", "ear ", "effect ", "extent ", "faculty ", "listening ", "perception ", "range ", "reach ", "recording ", "sense "], "A": []}

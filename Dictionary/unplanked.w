@@ -1,0 +1,1 @@
+{"index": 347999, "D": "a long, flat piece of timber, thicker than a board.", "S": [], "A": []}

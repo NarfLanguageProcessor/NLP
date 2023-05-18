@@ -1,0 +1,1 @@
+{"index": 244518, "D": "occurring after physical or psychological trauma.", "S": [], "A": []}

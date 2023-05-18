@@ -1,0 +1,1 @@
+{"index": 181361, "D": [], "S": ["ability ", "capability ", "experience ", "manhood ", "maturation ", "sophistication ", "wisdom "], "A": ["ignorance ", "impotence ", "inability ", "incompetence ", "stupidity ", "decline ", "downfall ", "imperfection ", "incompleteness ", "stoppage "]}

@@ -1,0 +1,1 @@
+{"index": 285774, "D": "of the age of 70 years or between 70 and 80 years old.", "S": [], "A": []}

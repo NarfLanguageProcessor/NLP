@@ -1,0 +1,1 @@
+{"index": 42239, "D": "a restaurant where food is presented in this way", "S": ["cafeteria ", "smorgasbord "], "A": []}

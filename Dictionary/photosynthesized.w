@@ -1,0 +1,1 @@
+{"index": 235376, "D": "to produce carbohydrates by photosynthesis", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36845, "D": "to mix (clay or the like) with water, so as to form a liquid suspension.", "S": [], "A": []}

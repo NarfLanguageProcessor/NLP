@@ -1,0 +1,1 @@
+{"index": 292061, "D": "the symbolism of Gauguin and the Nabis, who reacted against the impressionists and realists by seeking to produce brightly coloured abstractions of their inner experience", "S": [], "A": []}

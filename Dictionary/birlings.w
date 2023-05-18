@@ -1,0 +1,1 @@
+{"index": 34853, "D": "a game played by lumberjacks, in which each tries to balance longest on a floating log while rotating the log with the feet.", "S": [], "A": []}

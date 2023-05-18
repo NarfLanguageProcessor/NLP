@@ -1,0 +1,1 @@
+{"index": 271726, "D": "divination by means of a rod or wand, especially in discovering ores, springs of water, etc.", "S": [], "A": []}

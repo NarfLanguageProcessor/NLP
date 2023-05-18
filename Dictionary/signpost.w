@@ -1,0 +1,1 @@
+{"index": 290211, "D": "a post  bearing a sign  that gives information or guidance.", "S": ["catalog ", "clue ", "directory ", "guidebook ", "handbook ", "key ", "manual "], "A": []}

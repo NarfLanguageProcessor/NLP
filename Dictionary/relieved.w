@@ -1,0 +1,1 @@
+{"index": 266912, "D": "experiencing relief, esp from worry or anxiety", "S": ["reassured ", "relaxed ", "satisfied "], "A": ["distraught ", "sad ", "worried "]}

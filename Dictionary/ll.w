@@ -1,0 +1,1 @@
+{"index": 174043, "D": "a contraction of will", "S": [], "A": []}

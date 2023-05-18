@@ -1,0 +1,1 @@
+{"index": 86122, "D": "a small clot of dung, as clinging to the hindquarters of an animal.", "S": [], "A": []}

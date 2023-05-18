@@ -1,0 +1,1 @@
+{"index": 207355, "D": "having restrictions against the smoking of tobacco", "S": [], "A": []}

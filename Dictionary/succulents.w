@@ -1,0 +1,1 @@
+{"index": 309911, "D": "full of juice; juicy.", "S": [], "A": []}

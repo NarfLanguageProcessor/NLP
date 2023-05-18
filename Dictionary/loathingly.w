@@ -1,0 +1,1 @@
+{"index": 174144, "D": "strong dislike or disgust; intense aversion.", "S": [], "A": []}

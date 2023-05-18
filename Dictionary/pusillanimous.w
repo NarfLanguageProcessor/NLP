@@ -1,0 +1,1 @@
+{"index": 257218, "D": "lacking courage or resolution; cowardly; faint-hearted; timid.", "S": ["afraid ", "chicken ", "cowardly ", "gutless ", "tame ", "timid ", "timorous "], "A": []}

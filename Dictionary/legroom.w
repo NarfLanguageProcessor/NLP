@@ -1,0 +1,1 @@
+{"index": 170190, "D": "space sufficient for keeping one's legs  in a comfortable position, as in an automobile.", "S": [], "A": []}

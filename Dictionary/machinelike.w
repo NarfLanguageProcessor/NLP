@@ -1,0 +1,1 @@
+{"index": 176771, "D": "like a machine,  as in regular movement or uniform pattern of operation", "S": [], "A": []}

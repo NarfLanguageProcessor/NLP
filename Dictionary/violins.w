@@ -1,0 +1,1 @@
+{"index": 360048, "D": "the treble instrument of the family of modern bowed instruments, held nearly horizontal by the player's arm with the lower part supported against the collarbone or shoulder.", "S": ["fiddle "], "A": []}

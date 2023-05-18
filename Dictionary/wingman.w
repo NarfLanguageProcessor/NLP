@@ -1,0 +1,1 @@
+{"index": 366151, "D": "a pilot in a plane that flies just outside and behind the right wing of the leading aircraft in a flight formation, in order to provide protective support.", "S": [], "A": []}

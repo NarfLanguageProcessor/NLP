@@ -1,0 +1,1 @@
+{"index": 235063, "D": "photosensor. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250698, "D": "making, retaining, or showing no print  or impression.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27035, "D": "a movement similar to a croupade except that the horse draws in its hind legs so that the iron of the shoes is visible.", "S": [], "A": []}

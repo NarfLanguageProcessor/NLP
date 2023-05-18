@@ -1,0 +1,1 @@
+{"index": 299757, "D": "a small hole in a door, etc through which one may watch secretly; peephole", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358501, "D": "pertaining to or characteristic of the poet Vergil.", "S": [], "A": []}

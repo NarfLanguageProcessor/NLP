@@ -1,0 +1,1 @@
+{"index": 39841, "D": "variant of branchio-  before a vowel.", "S": [], "A": []}

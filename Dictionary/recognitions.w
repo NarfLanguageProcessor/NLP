@@ -1,0 +1,1 @@
+{"index": 263059, "D": "an act of recognizing or the state of being recognized.", "S": ["acceptance ", "admission ", "appreciation ", "awareness ", "concession ", "perception ", "realization ", "respect ", "understanding "], "A": ["denial ", "disagreement ", "disbelief ", "refusal ", "repudiation ", "forgetfulness ", "ignorance ", "miss "]}

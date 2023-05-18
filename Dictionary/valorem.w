@@ -1,0 +1,1 @@
+{"index": 356793, "D": "in proportion to the value (used especially of duties on imports that are fixed at a percentage of the value as stated on the invoice).", "S": [], "A": []}

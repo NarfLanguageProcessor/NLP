@@ -1,0 +1,1 @@
+{"index": 209530, "D": "an electric ray, so called from its power of numbing  its prey by means of electric shocks.", "S": [], "A": []}

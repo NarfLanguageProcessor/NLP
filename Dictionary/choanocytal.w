@@ -1,0 +1,1 @@
+{"index": 55254, "D": "one of the flagellated cells lining the inner cavity of a sponge, having a collar of protoplasm encircling the base of the flagellum.", "S": [], "A": []}

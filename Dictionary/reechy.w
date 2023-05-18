@@ -1,0 +1,1 @@
+{"index": 264536, "D": "smoky or sooty.", "S": [], "A": []}

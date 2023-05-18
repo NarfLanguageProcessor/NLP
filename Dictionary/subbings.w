@@ -1,0 +1,1 @@
+{"index": 307307, "D": "the act or process of applying a substratum.", "S": [], "A": []}

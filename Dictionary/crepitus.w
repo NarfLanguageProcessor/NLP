@@ -1,0 +1,1 @@
+{"index": 72709, "D": "a crackling chest sound heard in pneumonia and other lung diseases", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 135047, "D": "any of various shrubs and trees belonging to the genus Hebe, of the figwort family, native mostly to New Zealand, having evergreen leaves and clusters or spikes of white, pink, or purple flowers.", "S": [], "A": []}

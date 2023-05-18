@@ -1,0 +1,1 @@
+{"index": 79401, "D": "the act of deflowering. ", "S": [], "A": []}

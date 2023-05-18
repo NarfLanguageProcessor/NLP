@@ -1,0 +1,1 @@
+{"index": 279459, "D": "any of the bivalve mollusks of the genus Argopecten (Pecten) and related genera that swim by rapidly clapping the fluted shell valves together.", "S": ["bash ", "cut ", "dent ", "depress ", "dint ", "hollow ", "jag ", "mark ", "nick ", "notch ", "pink ", "pit ", "rabbet ", "rut ", "scallop ", "score ", "serrate "], "A": ["raise "]}

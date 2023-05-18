@@ -1,0 +1,1 @@
+{"index": 340815, "D": "to strip of drapery; uncover.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 338777, "D": "spoken or written about with disapproval", "S": [], "A": []}

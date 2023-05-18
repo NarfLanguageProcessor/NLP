@@ -1,0 +1,1 @@
+{"index": 10833, "D": "a surgical procedure for obtaining a sample of amniotic fluid from the amniotic sac in the uterus of a pregnant woman by inserting a hollow needle through the abdominal wall, used in diagnosing certain genetic defects or possible obstetric complications.", "S": [], "A": []}

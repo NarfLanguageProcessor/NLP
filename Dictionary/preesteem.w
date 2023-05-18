@@ -1,0 +1,1 @@
+{"index": 247352, "D": "to regard highly or favorably; regard with respect or admiration", "S": [], "A": []}

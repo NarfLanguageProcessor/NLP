@@ -1,0 +1,1 @@
+{"index": 298580, "D": " a dressed fowl that has had its backbone removed and has been split open and flattened so that it cooks more evenly when grilled, broiled, or roasted. ", "S": [], "A": []}

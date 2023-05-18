@@ -1,0 +1,1 @@
+{"index": 140973, "D": "having the lower jaw or mandible longer than the upper.", "S": [], "A": []}

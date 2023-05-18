@@ -1,0 +1,1 @@
+{"index": 188301, "D": "marvels; miracles.", "S": [], "A": []}

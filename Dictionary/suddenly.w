@@ -1,0 +1,1 @@
+{"index": 310024, "D": "quickly and without warning; unexpectedly", "S": ["abruptly ", "all of a sudden ", "quickly ", "swiftly "], "A": ["expectedly ", "slowly "]}

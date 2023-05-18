@@ -1,0 +1,1 @@
+{"index": 56753, "D": "to make a characteristic shrill, trilling sound, as a grasshopper.", "S": ["hoot "], "A": []}

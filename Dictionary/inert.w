@@ -1,0 +1,1 @@
+{"index": 151598, "D": "having no inherent power of action, motion, or resistance (opposed to active)", "S": ["dormant ", "immobile ", "impotent ", "inactive ", "listless ", "motionless ", "paralyzed ", "passive ", "powerless "], "A": ["able ", "active ", "busy ", "lively ", "mobile ", "moving ", "potent ", "strong "]}

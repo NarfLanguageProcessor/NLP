@@ -1,0 +1,1 @@
+{"index": 216309, "D": "to construct (especially something complex) by assembling and joining parts or materials", "S": [], "A": []}

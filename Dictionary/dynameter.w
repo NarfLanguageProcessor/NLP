@@ -1,0 +1,1 @@
+{"index": 85991, "D": "an instrument for determining the magnifying power of telescopes.", "S": [], "A": []}

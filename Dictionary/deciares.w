@@ -1,0 +1,1 @@
+{"index": 78302, "D": "a unit of surface measure equal to one-tenth of an are, or 10 square meters", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95472, "D": "a contagious viral disease of sheep and goats and occasionally of humans, marked by vesicular and pustular lesions on the lips.", "S": [], "A": []}

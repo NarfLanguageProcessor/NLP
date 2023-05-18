@@ -1,0 +1,1 @@
+{"index": 101465, "D": "the act of giving, or the state of having, a title, right, or claim to something", "S": ["privilege ", "request ", "rights "], "A": []}

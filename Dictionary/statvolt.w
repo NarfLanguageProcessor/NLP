@@ -1,0 +1,1 @@
+{"index": 303166, "D": "the electrostatic unit of electromotive force or potential difference, approximately equivalent to 300 volts and equal to the electromotive force or potential difference that will cause a current of one statampere to flow through a conductor with a resistance of one statohm.", "S": [], "A": []}

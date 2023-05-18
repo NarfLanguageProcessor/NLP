@@ -1,0 +1,1 @@
+{"index": 287908, "D": "a wig worn by certain Orthodox Jewish married women in keeping with an old rabbinical precept that forbids a woman to leave her hair uncovered in the sight of a man other than her husband.", "S": [], "A": []}

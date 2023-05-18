@@ -1,0 +1,1 @@
+{"index": 265152, "D": "British a less common spelling of reflection", "S": [], "A": []}

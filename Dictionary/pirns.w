@@ -1,0 +1,1 @@
+{"index": 237746, "D": "a weaver's bobbin, spool, or reel.", "S": [], "A": []}

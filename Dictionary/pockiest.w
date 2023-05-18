@@ -1,0 +1,1 @@
+{"index": 240948, "D": "of, pertaining to, characterized by, or covered with pocks.", "S": [], "A": []}

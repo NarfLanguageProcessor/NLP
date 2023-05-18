@@ -1,0 +1,1 @@
+{"index": 60235, "D": "a similar cavity in invertebrates.", "S": ["culvert ", "ditch ", "duct ", "pipe ", "sewer "], "A": []}

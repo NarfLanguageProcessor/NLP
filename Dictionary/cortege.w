@@ -1,0 +1,1 @@
+{"index": 69831, "D": "a procession, especially a ceremonial one", "S": ["caravan "], "A": []}

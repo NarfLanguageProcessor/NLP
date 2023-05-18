@@ -1,0 +1,1 @@
+{"index": 44889, "D": "to convert into calx by heating or burning.", "S": [], "A": []}

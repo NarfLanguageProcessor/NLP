@@ -1,0 +1,1 @@
+{"index": 194944, "D": "an implement of stone or other substance with a flat base for grinding paints, powders, etc., on a slab of stone or the like.", "S": [], "A": []}

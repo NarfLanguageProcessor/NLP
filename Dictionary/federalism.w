@@ -1,0 +1,1 @@
+{"index": 110803, "D": "the federal principle of government.", "S": [], "A": []}

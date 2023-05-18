@@ -1,0 +1,1 @@
+{"index": 299915, "D": "a large, usually triangular sail carried by a yacht as a headsail when running before the wind or when the wind is abaft the beam.", "S": [], "A": []}

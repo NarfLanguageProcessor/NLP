@@ -1,0 +1,1 @@
+{"index": 315215, "D": "a chewy candy made of sugar or corn syrup boiled down with butter or oil, pulled or stretched back and forth to incorporate air bubbles, then rolled, twisted, and cut into pieces. ", "S": [], "A": []}

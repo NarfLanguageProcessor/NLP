@@ -1,0 +1,1 @@
+{"index": 314230, "D": "a shop, small factory, or other workplace employing workers at low wages, for long hours, and under poor conditions.", "S": ["branch ", "cooperative ", "firm ", "industry ", "laboratory ", "mill ", "shop ", "workshop "], "A": []}

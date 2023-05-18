@@ -1,0 +1,1 @@
+{"index": 112858, "D": "the management of revenues; the conduct or transaction of money matters generally, especially those affecting the public, as in the fields of banking and investment.", "S": ["banking ", "business ", "commerce ", "economics ", "investment "], "A": []}

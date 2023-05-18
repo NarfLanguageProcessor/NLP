@@ -1,0 +1,1 @@
+{"index": 38723, "D": "to annoy; give trouble to; pester", "S": ["aggravation "], "A": ["advantage ", "calm ", "calmness ", "comfort ", "contentment ", "delight ", "ease ", "good health ", "happiness ", "health ", "joy ", "peace ", "pleasure ", "tranquility "]}

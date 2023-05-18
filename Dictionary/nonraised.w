@@ -1,0 +1,1 @@
+{"index": 206450, "D": "fashioned or made as a surface design in relief.", "S": [], "A": []}

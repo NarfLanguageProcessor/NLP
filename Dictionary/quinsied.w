@@ -1,0 +1,1 @@
+{"index": 258870, "D": "a suppurative inflammation of the tonsils; suppurative tonsillitis; tonsillar abscess.", "S": [], "A": []}

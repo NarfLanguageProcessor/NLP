@@ -1,0 +1,1 @@
+{"index": 348561, "D": "put before someone for acceptance; offered", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 370047, "D": "one of a former body of infantry in the French army, composed originally of Algerians, distinguished for their dash, hardiness, and picturesque uniform.", "S": [], "A": []}

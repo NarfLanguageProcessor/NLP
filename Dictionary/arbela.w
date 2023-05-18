@@ -1,0 +1,1 @@
+{"index": 18505, "D": "an ancient city of Assyria, E of the Tigris, on the site of modern Erbil", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 120558, "D": "any fungus of the genus Fusarium, occurring primarily in temperate regions and causing a variety of diseases in plants and animals, producing in humans a loss of fingernails and sometimes blindness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16739, "D": "aperient. ", "S": ["appealing ", "delectable ", "delicious ", "heavenly ", "inviting ", "savory ", "tantalizing ", "tasty ", "tempting ", "yummy "], "A": ["disagreeable ", "distasteful ", "horrible ", "offensive ", "repulsive ", "tasteless ", "unappetizing ", "unpleasant "]}

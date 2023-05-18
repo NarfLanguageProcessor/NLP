@@ -1,0 +1,1 @@
+{"index": 62859, "D": "(of pages or folios of a book) gathered into proper sequence", "S": ["concerted ", "corporate ", "cumulative ", "mutual ", "shared ", "unified "], "A": ["separate ", "unshared ", "disjoint "]}

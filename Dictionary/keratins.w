@@ -1,0 +1,1 @@
+{"index": 163916, "D": "a fibrous, structural protein that is the principal constituent of hoofs, nails, claws, talons, bills, horn, hair, feathers, etc., and that is found in the outermost layers of skin.", "S": [], "A": []}

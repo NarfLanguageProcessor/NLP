@@ -1,0 +1,1 @@
+{"index": 47674, "D": "a malignant and invasive epithelial tumor that spreads by metastasis and often recurs after excision; cancer.", "S": ["corruption ", "disease ", "malignancy ", "sickness ", "tumor "], "A": ["health ", "wholesomeness "]}

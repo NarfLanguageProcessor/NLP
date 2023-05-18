@@ -1,0 +1,1 @@
+{"index": 65694, "D": "personal behavior; way of acting; bearing or deportment.", "S": ["charge ", "handling ", "management ", "manipulation ", "oversight ", "plan ", "policy ", "strategy ", "transaction ", "treatment "], "A": ["mismanagement ", "disorganization ", "disregard ", "ignorance ", "neglect "]}

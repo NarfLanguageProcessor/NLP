@@ -1,0 +1,1 @@
+{"index": 333681, "D": "unemployment insurance.", "S": ["command-line interface ", "graphical user interface ", "menu-driven interface "], "A": []}

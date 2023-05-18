@@ -1,0 +1,1 @@
+{"index": 158186, "D": "incapable of being brought into harmony or adjustment; incompatible", "S": [], "A": []}

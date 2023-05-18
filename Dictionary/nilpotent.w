@@ -1,0 +1,1 @@
+{"index": 200081, "D": "equal to zero when raised to a certain power.", "S": [], "A": []}

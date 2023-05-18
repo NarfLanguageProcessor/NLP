@@ -1,0 +1,1 @@
+{"index": 114614, "D": "a trick or deception, especially a swindle or confidence game involving skillful persuasion or clever manipulation of the victim.", "S": ["burn ", "cheat ", "chisel ", "con ", "dupe ", "fleece ", "fool ", "gull ", "gyp ", "hose ", "rook ", "sandbag ", "scam ", "shaft ", "steal ", "trick "], "A": []}

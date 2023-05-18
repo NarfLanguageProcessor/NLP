@@ -1,0 +1,1 @@
+{"index": 137332, "D": "a form of the possessive case of she  used as a predicate adjective", "S": ["his ", "its ", "mine ", "theirs ", "yours "], "A": []}

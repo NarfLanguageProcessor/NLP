@@ -1,0 +1,1 @@
+{"index": 126088, "D": "to gather slowly and laboriously, bit by bit.", "S": [], "A": []}

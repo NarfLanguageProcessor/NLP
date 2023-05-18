@@ -1,0 +1,1 @@
+{"index": 186550, "D": "a leaflike organ bearing microsporangia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 221166, "D": "to pass over or disregard (a person) by giving a promotion, position, etc., to another instead.", "S": [], "A": []}

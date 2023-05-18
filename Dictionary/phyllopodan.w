@@ -1,0 +1,1 @@
+{"index": 233749, "D": "any crustacean of the order Phyllopoda, having leaflike swimming appendages.", "S": [], "A": []}

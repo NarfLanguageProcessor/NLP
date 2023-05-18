@@ -1,0 +1,1 @@
+{"index": 118877, "D": "easily crumbled or reduced to powder; crumbly", "S": ["breakable ", "crumbly ", "fragile "], "A": []}

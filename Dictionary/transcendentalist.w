@@ -1,0 +1,1 @@
+{"index": 327714, "D": "transcendental  character, thought, or language.", "S": ["dreamer ", "optimist ", "visionary "], "A": ["pragmatist ", "realist "]}

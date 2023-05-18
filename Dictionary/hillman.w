@@ -1,0 +1,1 @@
+{"index": 139463, "D": "U.S. labor leader, born in Lithuania.", "S": [], "A": []}

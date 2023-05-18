@@ -1,0 +1,1 @@
+{"index": 130218, "D": "moving or going about clumsily or hesitantly; stumbling.", "S": [], "A": []}

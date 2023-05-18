@@ -1,0 +1,1 @@
+{"index": 170922, "D": "educated or learned.", "S": ["educated ", "knowing ", "learned "], "A": ["ignorant ", "inexperienced ", "stupid "]}

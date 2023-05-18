@@ -1,0 +1,1 @@
+{"index": 288774, "D": "a plural of shoe. ", "S": [], "A": []}

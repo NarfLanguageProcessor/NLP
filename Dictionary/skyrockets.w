@@ -1,0 +1,1 @@
+{"index": 293344, "D": "a rocket  firework that ascends into the air and explodes at a height, usually in a brilliant array of sparks of one or more colors.", "S": ["catapult ", "escalate ", "rise ", "rocket ", "shoot up ", "zoom "], "A": ["decrease ", "lessen ", "lower ", "descend "]}

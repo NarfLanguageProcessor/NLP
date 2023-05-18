@@ -1,0 +1,1 @@
+{"index": 237939, "D": "a thermostat for high temperatures.", "S": [], "A": []}

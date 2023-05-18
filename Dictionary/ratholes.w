@@ -1,0 +1,1 @@
+{"index": 261021, "D": "a hole  made by a rat,  as into a room, barn, etc.", "S": ["cottage ", "hut ", "lean-to ", "shack ", "shanty "], "A": []}

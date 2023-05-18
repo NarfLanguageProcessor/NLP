@@ -1,0 +1,1 @@
+{"index": 82505, "D": "living or growing in a desert. ", "S": [], "A": []}

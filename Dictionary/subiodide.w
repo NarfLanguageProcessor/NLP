@@ -1,0 +1,1 @@
+{"index": 308254, "D": "a salt of hydriodic acid consisting of two elements, one of which is iodine, as sodium iodide,  NaI.", "S": [], "A": []}

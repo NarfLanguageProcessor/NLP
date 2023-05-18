@@ -1,0 +1,1 @@
+{"index": 17677, "D": "a plural of appendix. ", "S": ["addendum ", "postscript "], "A": ["lessening ", "subtraction "]}

@@ -1,0 +1,1 @@
+{"index": 307352, "D": "a title or explanation for a picture or illustration, as in a magazine, newspaper, or book.", "S": [], "A": []}

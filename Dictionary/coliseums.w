@@ -1,0 +1,1 @@
+{"index": 62787, "D": "an amphitheater, stadium, large theater, or other special building for public meetings, sporting events, exhibitions, etc.", "S": ["amphitheater ", "bowl ", "hippodrome ", "stadium ", "theater "], "A": []}

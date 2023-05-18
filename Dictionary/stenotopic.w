@@ -1,0 +1,1 @@
+{"index": 303715, "D": "(of an animal or plant) able to tolerate only small environmental changes.", "S": [], "A": []}

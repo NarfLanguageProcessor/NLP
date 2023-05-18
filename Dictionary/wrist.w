@@ -1,0 +1,1 @@
+{"index": 368018, "D": "the carpus or lower part of the forearm where it joins the hand.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315607, "D": "walking on the outer side of the foot.", "S": [], "A": []}

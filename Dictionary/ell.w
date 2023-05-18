@@ -1,0 +1,1 @@
+{"index": 97662, "D": "an extension usually at right angles to one end of a building.", "S": ["addendum ", "appendix "], "A": ["base ", "lessening ", "subtraction "]}

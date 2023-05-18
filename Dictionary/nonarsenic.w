@@ -1,0 +1,1 @@
+{"index": 201447, "D": "a grayish-white element having a metallic luster, vaporizing when heated, and forming poisonous compounds. Symbol", "S": [], "A": []}

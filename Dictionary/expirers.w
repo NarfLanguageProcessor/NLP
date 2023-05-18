@@ -1,0 +1,1 @@
+{"index": 107790, "D": "to come to an end; terminate, as a contract, guarantee, or offer.", "S": [], "A": []}

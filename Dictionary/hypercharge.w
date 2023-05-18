@@ -1,0 +1,1 @@
+{"index": 139957, "D": "a quantum number assigned to baryons and mesons, equal to B + S, where B is the baryon number and S is the strangeness.", "S": [], "A": []}

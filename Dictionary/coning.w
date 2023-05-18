@@ -1,0 +1,1 @@
+{"index": 66348, "D": "a plane surface resembling the cross section of a solid cone.", "S": [], "A": []}

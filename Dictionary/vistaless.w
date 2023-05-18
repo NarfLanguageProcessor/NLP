@@ -1,0 +1,1 @@
+{"index": 360464, "D": "a view or prospect, especially one seen through a long, narrow avenue or passage, as between rows of trees or houses.", "S": [], "A": []}

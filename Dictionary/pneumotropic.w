@@ -1,0 +1,1 @@
+{"index": 240876, "D": "directed toward or having an affinity for lung tissue.", "S": [], "A": []}

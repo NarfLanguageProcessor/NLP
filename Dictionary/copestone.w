@@ -1,0 +1,1 @@
+{"index": 68487, "D": "the top stone  of a building or other structure.", "S": [], "A": []}

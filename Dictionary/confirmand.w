@@ -1,0 +1,1 @@
+{"index": 65932, "D": "a candidate for or recipient of religious confirmation.", "S": [], "A": []}

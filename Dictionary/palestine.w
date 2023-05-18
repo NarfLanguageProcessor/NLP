@@ -1,0 +1,1 @@
+{"index": 223812, "D": "an ancient country in southwest Asia, on the east coast of the Mediterranean.", "S": [], "A": []}

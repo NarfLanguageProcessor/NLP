@@ -1,0 +1,1 @@
+{"index": 126513, "D": "a small spherical body.", "S": ["bead ", "blob ", "drop "], "A": []}

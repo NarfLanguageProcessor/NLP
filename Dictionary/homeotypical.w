@@ -1,0 +1,1 @@
+{"index": 142856, "D": "of or relating to the second division in meiosis.", "S": [], "A": []}

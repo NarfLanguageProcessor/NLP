@@ -1,0 +1,1 @@
+{"index": 264611, "D": "a cylinder, frame, or other device that turns on an axis and is used to wind up or pay out something.", "S": [], "A": []}

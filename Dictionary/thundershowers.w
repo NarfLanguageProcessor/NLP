@@ -1,0 +1,1 @@
+{"index": 323039, "D": "a shower  accompanied by thunder  and lightning.", "S": [], "A": []}

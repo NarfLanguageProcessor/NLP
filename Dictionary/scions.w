@@ -1,0 +1,1 @@
+{"index": 280750, "D": "a descendant.", "S": ["offspring "], "A": ["parent "]}

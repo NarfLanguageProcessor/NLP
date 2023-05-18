@@ -1,0 +1,1 @@
+{"index": 285876, "D": "a small shining disk or spangle used for ornamentation, as on clothing, accessories, or theatrical costumes.", "S": ["adorn ", "decorate ", "dot ", "garnish ", "light ", "sprinkle ", "star ", "stud ", "trim "], "A": ["hurt "]}

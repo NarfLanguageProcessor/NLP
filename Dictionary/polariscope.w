@@ -1,0 +1,1 @@
+{"index": 241472, "D": "an instrument for measuring or exhibiting the polarization of light or for examining substances in polarized light, often to determine stress and strain in glass and other substances.", "S": [], "A": []}

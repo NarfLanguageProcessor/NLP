@@ -1,0 +1,1 @@
+{"index": 114921, "D": "a great flowing or overflowing of water, especially over land not usually submerged.", "S": ["deluge ", "downpour ", "flow ", "glut ", "spate ", "stream ", "surge ", "tide ", "torrent ", "tsunami ", "wave "], "A": ["trickle ", "dearth ", "lack "]}

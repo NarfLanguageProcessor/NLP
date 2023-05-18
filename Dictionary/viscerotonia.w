@@ -1,0 +1,1 @@
+{"index": 360328, "D": "Compare cerebrotonia, somatotonia", "S": [], "A": []}

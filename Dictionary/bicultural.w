@@ -1,0 +1,1 @@
+{"index": 33485, "D": "of, relating to, or combining two cultures.", "S": [], "A": []}

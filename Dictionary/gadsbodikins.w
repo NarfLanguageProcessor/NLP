@@ -1,0 +1,1 @@
+{"index": 120899, "D": "(a euphemistic form of God's body, used as a mild oath.)", "S": [], "A": []}

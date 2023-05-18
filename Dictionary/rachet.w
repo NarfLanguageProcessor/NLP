@@ -1,0 +1,1 @@
+{"index": 259364, "D": "a toothed bar with which a pawl engages.", "S": [], "A": []}

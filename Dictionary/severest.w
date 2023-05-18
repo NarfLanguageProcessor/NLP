@@ -1,0 +1,1 @@
+{"index": 286766, "D": "harsh; unnecessarily extreme", "S": [], "A": []}

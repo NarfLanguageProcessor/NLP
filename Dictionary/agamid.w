@@ -1,0 +1,1 @@
+{"index": 5864, "D": "any of numerous Old World lizards of the family Agamidae, related to the iguanids.", "S": [], "A": []}

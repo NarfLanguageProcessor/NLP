@@ -1,0 +1,1 @@
+{"index": 171395, "D": "a Chinese unit of weight, equal to 1/16 (0.0625) catty, and equivalent to about 1.33 ounces (38 grams).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109549, "D": "to make false  or incorrect, especially so as to deceive", "S": ["contradict ", "contravene ", "counterfeit ", "deceive ", "distort ", "exaggerate ", "fake ", "forge ", "misstate ", "pervert ", "tamper with "], "A": ["agree ", "approve ", "clean ", "explain ", "hurt ", "purify ", "represent ", "straighten "]}

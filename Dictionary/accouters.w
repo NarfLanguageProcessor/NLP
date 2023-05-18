@@ -1,0 +1,1 @@
+{"index": 1745, "D": "to equip or outfit, especially with military clothes, equipment, etc.", "S": ["accoutre ", "array ", "attire ", "clothe ", "equip ", "fit ", "gear ", "outfit ", "rig ", "supply "], "A": ["unclothe "]}

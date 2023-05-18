@@ -1,0 +1,1 @@
+{"index": 257664, "D": "an electric circuit with two input and two output terminals", "S": [], "A": []}

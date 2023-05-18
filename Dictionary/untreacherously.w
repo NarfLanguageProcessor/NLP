@@ -1,0 +1,1 @@
+{"index": 353300, "D": "in a way characterized by faithlessness or betrayal; traitorously", "S": [], "A": []}

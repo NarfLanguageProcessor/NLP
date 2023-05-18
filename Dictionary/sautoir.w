@@ -1,0 +1,1 @@
+{"index": 279024, "D": "a ribbon, chain, scarf, or the like, tied around the neck in such a manner that the ends cross over each other.", "S": [], "A": []}

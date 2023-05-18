@@ -1,0 +1,1 @@
+{"index": 67634, "D": "two-way traffic on one carriageway of a motorway, esp to allow maintenance work to be carried out or an accident to be cleared", "S": [], "A": []}

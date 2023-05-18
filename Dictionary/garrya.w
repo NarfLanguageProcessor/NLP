@@ -1,0 +1,1 @@
+{"index": 122267, "D": "any ornamental catkin-bearing evergreen shrub of the North American genus Garrya", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 215374, "D": "a hard, heavy, metallic element having the greatest density of the known elements and forming octavalent compounds, as OsO4 and OsF8", "S": [], "A": []}

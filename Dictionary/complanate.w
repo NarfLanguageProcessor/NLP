@@ -1,0 +1,1 @@
+{"index": 64606, "D": "made level; put into or on one plane.", "S": ["empty ", "horizontal ", "low ", "unbroken "], "A": ["upright ", "rough ", "uneven "]}

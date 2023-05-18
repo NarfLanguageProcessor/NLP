@@ -1,0 +1,1 @@
+{"index": 318670, "D": "a sequence of two high cards of the same suit that lack an intervening card to be in consecutive order, as the ace and queen.", "S": [], "A": []}

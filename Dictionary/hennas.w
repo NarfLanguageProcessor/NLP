@@ -1,0 +1,1 @@
+{"index": 136589, "D": "an Asian shrub or small tree, Lawsonia inermis, of the loosestrife family, having elliptic leaves and fragrant flowers.", "S": ["brown ", "chestnut ", "copper ", "hazel ", "henna ", "russet ", "rust ", "titian "], "A": []}

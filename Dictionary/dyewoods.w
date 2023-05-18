@@ -1,0 +1,1 @@
+{"index": 85258, "D": "any wood  yielding a coloring matter used for dyeing. ", "S": [], "A": []}

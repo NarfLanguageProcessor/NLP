@@ -1,0 +1,1 @@
+{"index": 18929, "D": "of or relating to an archdeacon  or to the office of an archdeacon. ", "S": [], "A": []}

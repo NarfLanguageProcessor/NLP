@@ -1,0 +1,1 @@
+{"index": 255105, "D": "of or relating to schools,  scholars, or education", "S": [], "A": []}

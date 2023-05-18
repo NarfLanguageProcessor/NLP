@@ -1,0 +1,1 @@
+{"index": 200554, "D": "Swedish engineer, manufacturer, and philanthropist", "S": [], "A": []}

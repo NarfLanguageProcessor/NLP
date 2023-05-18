@@ -1,0 +1,1 @@
+{"index": 175620, "D": "situated, placed, or occurring not far above the ground, floor, or base", "S": ["bark ", "bawl ", "bay ", "blare ", "bluster ", "bray ", "call ", "clamor ", "cry ", "howl ", "low ", "roar ", "rout ", "scream ", "shout ", "shriek ", "wail ", "whoop ", "yawp ", "yell ", "yelp "], "A": ["be quiet ", "whimper "]}

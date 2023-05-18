@@ -1,0 +1,1 @@
+{"index": 287984, "D": "a hard outer covering of an animal, as the hard case of a mollusk, or either half of the case of a bivalve mollusk.", "S": ["penne ", "spaghetti ", "tortellini "], "A": []}

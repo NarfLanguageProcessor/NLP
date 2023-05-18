@@ -1,0 +1,1 @@
+{"index": 9127, "D": "having unlimited power; omnipotent, as God. ", "S": [], "A": []}

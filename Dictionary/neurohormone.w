@@ -1,0 +1,1 @@
+{"index": 199102, "D": "any of various substances, as antidiuretic hormone,  formed in the nervous system and delivered to an effector organ through blood circulation.", "S": [], "A": []}

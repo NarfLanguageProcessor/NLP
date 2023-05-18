@@ -1,0 +1,1 @@
+{"index": 15598, "D": "modern character, tendencies, or values; adherence to or sympathy with what is modern.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107939, "D": "the act of exporting;  the sending of commodities out of a country, typically in trade.", "S": [], "A": []}

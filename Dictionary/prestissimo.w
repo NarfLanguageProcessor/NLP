@@ -1,0 +1,1 @@
+{"index": 249669, "D": "(a musical direction) in the most rapid tempo.", "S": [], "A": []}

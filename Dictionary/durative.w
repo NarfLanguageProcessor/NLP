@@ -1,0 +1,1 @@
+{"index": 94425, "D": "noting or pertaining to a verb aspect expressing incomplete or continued action. Beat and walk are durative in contrast to strike and step.", "S": [], "A": []}

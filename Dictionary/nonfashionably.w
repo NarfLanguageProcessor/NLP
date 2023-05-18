@@ -1,0 +1,1 @@
+{"index": 203955, "D": "observant of or conforming to the fashion;  stylish", "S": [], "A": []}

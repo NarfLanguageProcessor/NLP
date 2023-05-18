@@ -1,0 +1,1 @@
+{"index": 184092, "D": "(in Islamic countries) an oriel screened by latticework.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 14794, "D": "any of a large group of chemical substances, as penicillin or streptomycin, produced by various microorganisms and fungi, having the capacity in dilute solutions to inhibit the growth of or to destroy bacteria and other microorganisms, used chiefly in the treatment of infectious diseases.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73958, "D": "a movement in which a horse jumps up from a pesade with all four legs drawn up under it and lands on four legs in the same place.", "S": [], "A": []}

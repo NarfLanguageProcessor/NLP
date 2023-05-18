@@ -1,0 +1,1 @@
+{"index": 179999, "D": "pertaining to a margin. ", "S": ["insignificant ", "minimal ", "minor ", "negligible "], "A": ["important ", "major ", "significant "]}

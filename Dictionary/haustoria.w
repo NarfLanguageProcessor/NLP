@@ -1,0 +1,1 @@
+{"index": 134364, "D": "a projection from the hypha of a fungus into the organic matter from which it absorbs nutrients.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53499, "D": "the curd of milk separated from the whey and prepared in many ways as a food.", "S": ["confuse ", "cover up ", "disguise ", "distort ", "exaggerate ", "falsify ", "misinterpret ", "misstate ", "overstate ", "skew "], "A": ["leave alone ", "represent ", "reveal ", "straighten ", "uncover "]}

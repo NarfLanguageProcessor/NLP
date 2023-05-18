@@ -1,0 +1,1 @@
+{"index": 29481, "D": "a cheap, usually inferior, restaurant.", "S": ["bean wagon ", "cheap restaurant ", "diner ", "dog wagon ", "dump ", "eatery ", "grease pit ", "hash house ", "hashery ", "hashhouse ", "inexpensive restaurant "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187386, "D": "a unit of illumination, equal to one thousandth of a lux. Abbreviation", "S": [], "A": []}

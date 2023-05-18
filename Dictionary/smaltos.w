@@ -1,0 +1,1 @@
+{"index": 294713, "D": "colored glass or similar vitreous material used in mosaic.", "S": [], "A": []}

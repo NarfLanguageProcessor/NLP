@@ -1,0 +1,1 @@
+{"index": 9175, "D": "a furred hood or hooded cape with long ends hanging down in front, formerly worn by the clergy.", "S": [], "A": []}

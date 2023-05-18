@@ -1,0 +1,1 @@
+{"index": 122940, "D": "to stare stupidly; gape", "S": ["gape ", "glare ", "ogle "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29611, "D": "being or relating to a deceased person declared to be among the blessed, and therefore entitled to local but not universal veneration", "S": ["adored ", "consecrated ", "divine ", "enthroned ", "exalted ", "glorified ", "hallowed ", "redeemed ", "resurrected ", "revered ", "rewarded ", "saved "], "A": ["cursed "]}

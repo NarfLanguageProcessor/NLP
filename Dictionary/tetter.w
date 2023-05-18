@@ -1,0 +1,1 @@
+{"index": 320299, "D": "(not in technical use) any of various eruptive skin diseases, as herpes, eczema, and impetigo.", "S": ["dermatitis ", "inflammation ", "rash "], "A": []}

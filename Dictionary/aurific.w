@@ -1,0 +1,1 @@
+{"index": 23585, "D": "to cause to appear golden; gild", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5080, "D": "a functional disorder of aeroplane pilots characterized by anxiety and various psychosomatic disturbances, caused by insufficient oxygen at high altitudes and the emotional tension of flying", "S": [], "A": []}

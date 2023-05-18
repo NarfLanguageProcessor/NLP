@@ -1,0 +1,1 @@
+{"index": 93362, "D": "an amount dropped  or wasted during application, installation, etc.", "S": [], "A": []}

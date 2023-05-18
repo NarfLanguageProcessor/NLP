@@ -1,0 +1,1 @@
+{"index": 137791, "D": "Compare homothallic (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196808, "D": "to sleep for a short time; doze. ", "S": ["break ", "catnap ", "doze ", "interlude ", "intermission ", "nod ", "pause ", "respite ", "rest ", "shuteye ", "siesta ", "snooze ", "spot "], "A": ["continuation "]}

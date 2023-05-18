@@ -1,0 +1,1 @@
+{"index": 352761, "D": "expressing end or purpose", "S": [], "A": []}

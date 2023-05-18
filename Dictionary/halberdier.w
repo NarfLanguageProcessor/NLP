@@ -1,0 +1,1 @@
+{"index": 132550, "D": "a soldier, guard, or attendant armed with a halberd.", "S": [], "A": []}

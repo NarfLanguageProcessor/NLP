@@ -1,0 +1,1 @@
+{"index": 348938, "D": "in a way that is beyond question or doubt; certainly", "S": ["absolutely ", "definitely ", "surely ", "undeniably ", "undoubtedly "], "A": ["doubtfully ", "indefinite ", "questionably "]}

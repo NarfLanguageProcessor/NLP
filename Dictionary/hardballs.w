@@ -1,0 +1,1 @@
+{"index": 133620, "D": "baseball, as distinguished from softball.", "S": [], "A": []}

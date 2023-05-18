@@ -1,0 +1,1 @@
+{"index": 94752, "D": "a lock  of hair worn near or in front of the ear. ", "S": [], "A": []}

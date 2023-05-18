@@ -1,0 +1,1 @@
+{"index": 246648, "D": "the state or quality of being dark", "S": [], "A": []}

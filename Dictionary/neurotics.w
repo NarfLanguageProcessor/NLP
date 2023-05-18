@@ -1,0 +1,1 @@
+{"index": 199258, "D": "of, relating to, or characteristic of neurosis. ", "S": ["maniac ", "psychopath ", "psychotic ", "schizophrenic "], "A": []}

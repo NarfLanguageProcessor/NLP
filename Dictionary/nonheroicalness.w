@@ -1,0 +1,1 @@
+{"index": 204432, "D": "of, relating to, or characteristic of a hero or heroine.", "S": [], "A": []}

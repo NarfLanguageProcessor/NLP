@@ -1,0 +1,1 @@
+{"index": 222852, "D": "great king; emperor (a title applied especially formerly to the shah of Iran, the sultan of Turkey, and to the British sovereign as emperor in India).", "S": [], "A": []}

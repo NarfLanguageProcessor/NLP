@@ -1,0 +1,1 @@
+{"index": 166371, "D": "a member of the Hindu royal and warrior class above the Vaisyas and below the Brahmans.", "S": [], "A": []}

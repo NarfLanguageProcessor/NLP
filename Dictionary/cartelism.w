@@ -1,0 +1,1 @@
+{"index": 48598, "D": "an international syndicate, combine, or trust formed especially to regulate prices and output in some field of business.", "S": [], "A": []}

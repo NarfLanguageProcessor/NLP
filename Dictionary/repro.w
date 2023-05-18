@@ -1,0 +1,1 @@
+{"index": 268581, "D": "reproduction (def. 3). ", "S": ["carbon copy ", "duplication ", "photocopy ", "replica ", "replication "], "A": ["difference ", "dissimilarity ", "enemy ", "opposite ", "original ", "reality ", "reverse ", "unlikeness "]}

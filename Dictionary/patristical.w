@@ -1,0 +1,1 @@
+{"index": 227921, "D": "of or relating to the fathers of the Christian church or their writings.", "S": [], "A": []}

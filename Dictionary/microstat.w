@@ -1,0 +1,1 @@
+{"index": 186555, "D": "a negative of a microphotograph made directly from a negative by a copy camera.", "S": [], "A": []}

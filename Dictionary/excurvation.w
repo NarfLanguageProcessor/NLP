@@ -1,0 +1,1 @@
+{"index": 106901, "D": "the condition of being curved outward or away from the center.", "S": ["convexity ", "ear ", "fold ", "lap ", "node ", "portion ", "projection ", "protuberance ", "section ", "wattle "], "A": ["depression ", "whole "]}

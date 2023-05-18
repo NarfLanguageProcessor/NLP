@@ -1,0 +1,1 @@
+{"index": 238548, "D": "Compare drop kick, punt1 (def. 1). ", "S": [], "A": []}

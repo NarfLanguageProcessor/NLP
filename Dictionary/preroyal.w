@@ -1,0 +1,1 @@
+{"index": 249181, "D": "of or relating to a king, queen, or other sovereign", "S": [], "A": []}

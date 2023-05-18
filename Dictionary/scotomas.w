@@ -1,0 +1,1 @@
+{"index": 281380, "D": "loss of vision in a part of the visual field; blind spot.", "S": [], "A": []}

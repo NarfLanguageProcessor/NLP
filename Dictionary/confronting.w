@@ -1,0 +1,1 @@
+{"index": 66076, "D": "to face in hostility or defiance; oppose", "S": ["encountering ", "face-to-face ", "meeting ", "opposing "], "A": []}

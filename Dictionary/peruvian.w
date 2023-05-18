@@ -1,0 +1,1 @@
+{"index": 232169, "D": "of or relating to Peru or its inhabitants", "S": [], "A": []}

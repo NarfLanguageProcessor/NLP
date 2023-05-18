@@ -1,0 +1,1 @@
+{"index": 257861, "D": "capable of being qualified", "S": [], "A": []}

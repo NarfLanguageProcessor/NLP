@@ -1,0 +1,1 @@
+{"index": 297290, "D": "a voiced sound that is less sonorous  than a vowel but more sonorous  than a stop or fricative and that may occur as either a sonant or a consonant, as (l, r, m, n, y, w).", "S": [], "A": []}

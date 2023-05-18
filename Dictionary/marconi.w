@@ -1,0 +1,1 @@
+{"index": 179928, "D": "Italian electrical engineer and inventor, especially in the field of wireless telegraphy", "S": ["transmission ", "wireless "], "A": []}

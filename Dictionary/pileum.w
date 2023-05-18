@@ -1,0 +1,1 @@
+{"index": 236598, "D": "the top of the head of a bird, from the base of the bill to the nape.", "S": [], "A": []}

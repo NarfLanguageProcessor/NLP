@@ -1,0 +1,1 @@
+{"index": 11533, "D": "pertaining to or containing an anachronism. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 218252, "D": "confidently aggressive or self-assured; positive", "S": ["assuming ", "bantam ", "bold ", "brazen ", "familiar ", "presuming ", "pushing ", "smart ", "wise "], "A": ["ignorant ", "meek ", "shy ", "stupid ", "timid ", "unintelligent "]}

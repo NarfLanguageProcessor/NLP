@@ -1,0 +1,1 @@
+{"index": 199505, "D": "to, at, or in the next house on the street, especially if it is very close by, or the adjacent apartment, office, room, or the like", "S": ["adjoining ", "bordering ", "contiguous ", "neighboring "], "A": ["divided ", "separate "]}

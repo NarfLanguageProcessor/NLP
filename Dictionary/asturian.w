@@ -1,0 +1,1 @@
+{"index": 22350, "D": "of or relating to Asturias, its people, or their language.", "S": [], "A": []}

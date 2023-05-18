@@ -1,0 +1,1 @@
+{"index": 224516, "D": "a member of a local militia in Croatia, formed as a regiment in the Austrian army in the 18th century and noted for its ruthlessness and cruelty.", "S": [], "A": []}

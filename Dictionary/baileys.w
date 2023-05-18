@@ -1,0 +1,1 @@
+{"index": 26462, "D": "the defensive wall surrounding an outer court of a castle.", "S": [], "A": []}

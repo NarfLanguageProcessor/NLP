@@ -1,0 +1,1 @@
+{"index": 359260, "D": "a wayfarer; traveler. ", "S": [], "A": []}

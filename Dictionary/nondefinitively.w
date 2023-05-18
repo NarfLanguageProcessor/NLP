@@ -1,0 +1,1 @@
+{"index": 202805, "D": "in a way that is definite, complete, final, or absolute", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291691, "D": "to burn superficially or slightly; scorch. ", "S": ["blacken ", "blaze ", "brand ", "brown ", "cauterize ", "char ", "cook ", "flame ", "ignite ", "incinerate ", "parch ", "scald ", "scorch ", "sear ", "toast ", "torch "], "A": ["freeze "]}

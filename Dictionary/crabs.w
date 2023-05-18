@@ -1,0 +1,1 @@
+{"index": 71805, "D": "the lowest throw in a game of chance, esp two aces in dice", "S": ["AIDS ", "acquired immune deficiency syndrome ", "gonorrhea ", "herpes ", "syphilis ", "the clap ", "venereal disease "], "A": []}

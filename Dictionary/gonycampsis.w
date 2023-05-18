@@ -1,0 +1,1 @@
+{"index": 127749, "D": "abnormal curvature of the knee.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175198, "D": "a mass of igneous rock similar to a laccolith but concave downward rather than upward.", "S": [], "A": []}

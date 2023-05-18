@@ -1,0 +1,1 @@
+{"index": 295316, "D": "to make a sudden, sharp, distinct sound; crack, as a whip; crackle. ", "S": ["bracelets ", "braces ", "chains ", "clamps ", "cuffs ", "fetters ", "shackles ", "wristlets "], "A": []}

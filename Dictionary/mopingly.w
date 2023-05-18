@@ -1,0 +1,1 @@
+{"index": 193231, "D": "to be sunk in dejection or listless apathy; sulk; brood.", "S": [], "A": []}

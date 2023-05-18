@@ -1,0 +1,1 @@
+{"index": 368489, "D": "abnormal dryness of the eyeball characterized by conjunctivitis, caused by a deficiency of tears and attributed to a lack of vitamin A.", "S": [], "A": []}

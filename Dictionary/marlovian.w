@@ -1,0 +1,1 @@
+{"index": 180238, "D": "of, relating to, or characteristic of Christopher Marlowe or his writings, especially his plays.", "S": [], "A": []}

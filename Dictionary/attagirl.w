@@ -1,0 +1,1 @@
+{"index": 22948, "D": "(used as an enthusiastic expression of encouragement or approval to a girl,  woman, or female animal.)", "S": [], "A": []}

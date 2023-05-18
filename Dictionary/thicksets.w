@@ -1,0 +1,1 @@
+{"index": 321712, "D": "set thickly or in close arrangement; dense", "S": [], "A": []}

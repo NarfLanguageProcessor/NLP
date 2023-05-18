@@ -1,0 +1,1 @@
+{"index": 63890, "D": "Compare ranger (def. 3). ", "S": ["mercenary ", "terrorist "], "A": []}

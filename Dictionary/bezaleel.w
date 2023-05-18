@@ -1,0 +1,1 @@
+{"index": 33033, "D": "the chief architect of the tabernacle. Exodus 31", "S": [], "A": []}

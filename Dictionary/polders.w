@@ -1,0 +1,1 @@
+{"index": 241518, "D": "a tract of low land, especially in the Netherlands, reclaimed from the sea or other body of water and protected by dikes.", "S": ["bog ", "glade "], "A": []}

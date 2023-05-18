@@ -1,0 +1,1 @@
+{"index": 54170, "D": "a widely cultivated plant, Cicer arietinum, of the legume family, bearing pods containing pealike seeds.", "S": [], "A": []}

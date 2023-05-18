@@ -1,0 +1,1 @@
+{"index": 53078, "D": "a sleeveless outer vestment worn by the celebrant at Mass.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277432, "D": "(of the corolla of the phlox and certain other flowers) consisting of a narrow tube with flat spreading terminal petals", "S": [], "A": []}

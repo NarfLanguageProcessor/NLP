@@ -1,0 +1,1 @@
+{"index": 21704, "D": "stated positively; affirmative", "S": [], "A": []}

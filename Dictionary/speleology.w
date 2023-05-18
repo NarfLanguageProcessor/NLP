@@ -1,0 +1,1 @@
+{"index": 299083, "D": "the exploration and study of caves.", "S": [], "A": []}

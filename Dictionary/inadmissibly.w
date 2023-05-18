@@ -1,0 +1,1 @@
+{"index": 149386, "D": "not admissible;  not allowable", "S": [], "A": []}

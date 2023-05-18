@@ -1,0 +1,1 @@
+{"index": 289397, "D": "to put (a door, cover, etc.) in position to close or obstruct.", "S": ["bar ", "lock ", "push ", "seal "], "A": ["loosen ", "open ", "unfasten ", "free ", "let go ", "let out ", "loose ", "release "]}

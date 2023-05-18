@@ -1,0 +1,1 @@
+{"index": 367321, "D": "(of animals) having wool", "S": [], "A": []}

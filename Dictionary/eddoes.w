@@ -1,0 +1,1 @@
+{"index": 95667, "D": "the edible root of the taro or of any of several related plants.", "S": [], "A": []}

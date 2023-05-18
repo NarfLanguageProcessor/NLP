@@ -1,0 +1,1 @@
+{"index": 283258, "D": "an occasional and sudden oscillation of the water of a lake, bay, estuary, etc., producing fluctuations in the water level and caused by wind, earthquakes, changes in barometric pressure, etc.", "S": ["tsunami "], "A": []}

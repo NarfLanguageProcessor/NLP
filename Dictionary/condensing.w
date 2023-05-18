@@ -1,0 +1,1 @@
+{"index": 65556, "D": "to make more dense or compact; reduce the volume or extent of; concentrate.", "S": ["decrease ", "deflation ", "recession ", "reduction ", "shrinkage "], "A": ["enlargement ", "increase ", "expansion ", "opening "]}

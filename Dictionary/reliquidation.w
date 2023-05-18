@@ -1,0 +1,1 @@
+{"index": 266990, "D": "the process of realizing upon assets and of discharging liabilities in concluding the affairs of a business, estate, etc.", "S": [], "A": []}

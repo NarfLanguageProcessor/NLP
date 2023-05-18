@@ -1,0 +1,1 @@
+{"index": 55283, "D": "a stone securely jammed in a crack. It may vary in size from a pebble to a large boulder", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 210477, "D": "firmly or stubbornly adhering to one's purpose, opinion, etc.; not yielding to argument, persuasion, or entreaty.", "S": ["mulishly ", "obdurately "], "A": ["graciously ", "obediently "]}

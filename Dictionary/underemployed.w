@@ -1,0 +1,1 @@
+{"index": 339149, "D": "employed  at a job that does not fully use one's skills or abilities.", "S": ["idle ", "inactive ", "jobless "], "A": ["active ", "busy ", "working "]}

@@ -1,0 +1,1 @@
+{"index": 161108, "D": "any of several plants of the genus Impatiens, especially I. capensis, having orange-yellow flowers spotted with reddish brown, or I. pallida, having yellow flowers sometimes spotted with brownish red.", "S": [], "A": []}

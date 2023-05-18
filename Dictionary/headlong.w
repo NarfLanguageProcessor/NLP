@@ -1,0 +1,1 @@
+{"index": 134652, "D": "with the head foremost; headfirst", "S": ["breakneck ", "hurried ", "sudden "], "A": ["slow "]}

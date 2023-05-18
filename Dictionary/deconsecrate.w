@@ -1,0 +1,1 @@
+{"index": 78657, "D": "to transfer (a church) to secular use", "S": [], "A": []}

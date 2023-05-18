@@ -1,0 +1,1 @@
+{"index": 303160, "D": "the document in which such an enactment is expressed.", "S": ["act ", "bill ", "decree ", "edict ", "measure ", "regulation "], "A": []}

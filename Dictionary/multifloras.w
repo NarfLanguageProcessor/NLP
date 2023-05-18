@@ -1,0 +1,1 @@
+{"index": 195099, "D": "any of several plant varieties or hybrids characterized by many single, relatively small flowers, as certain kinds of petunias or roses.", "S": [], "A": []}

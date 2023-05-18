@@ -1,0 +1,1 @@
+{"index": 265818, "D": "full of regret;  sorrowful because of what is lost, gone, or done.", "S": [], "A": []}

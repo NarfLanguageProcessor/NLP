@@ -1,0 +1,1 @@
+{"index": 170288, "D": "acting, proceeding, or done without haste; unhurried; deliberate", "S": [], "A": []}

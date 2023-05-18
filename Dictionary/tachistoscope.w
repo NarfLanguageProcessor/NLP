@@ -1,0 +1,1 @@
+{"index": 315038, "D": "an apparatus for use in exposing visual stimuli, as pictures, letters, or words, for an extremely brief period, used chiefly to assess visual perception or to increase reading speed.", "S": [], "A": []}

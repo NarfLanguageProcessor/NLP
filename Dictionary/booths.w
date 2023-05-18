@@ -1,0 +1,1 @@
+{"index": 38244, "D": "a stall, compartment, or light structure for the sale of goods or for display purposes, as at a market, exhibition, or fair.", "S": ["box ", "corner ", "counter ", "cubicle ", "hut ", "pew ", "stall "], "A": []}

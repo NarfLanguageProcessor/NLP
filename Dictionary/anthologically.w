@@ -1,0 +1,1 @@
+{"index": 14406, "D": "a book or other collection of selected writings by various authors, usually in the same literary form, of the same period, or on the same subject", "S": [], "A": []}

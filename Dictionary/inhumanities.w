@@ -1,0 +1,1 @@
+{"index": 152731, "D": "the state or quality of being inhuman  or inhumane;  cruelty.", "S": ["atrocity ", "barbarism ", "brutality ", "callousness ", "cruelty ", "ruthlessness ", "savagery ", "viciousness "], "A": ["kindness ", "niceness "]}

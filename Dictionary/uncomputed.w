@@ -1,0 +1,1 @@
+{"index": 337457, "D": "to determine by calculation; reckon; calculate", "S": [], "A": []}

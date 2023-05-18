@@ -1,0 +1,1 @@
+{"index": 210293, "D": "a silver-alloy coin of France issued during the Middle Ages, the 24th part of a sol, or one-half denier.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100197, "D": "to invest with a freehold estate in land.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 136819, "D": "a strophe, stanza, or poem consisting of seven lines or verses.", "S": [], "A": []}

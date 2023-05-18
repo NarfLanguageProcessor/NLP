@@ -1,0 +1,1 @@
+{"index": 134389, "D": "a religious ceremony, observed by Jews at the conclusion of the Sabbath or a festival, that consists of blessings over wine, spices, and the light of a candle.", "S": [], "A": []}

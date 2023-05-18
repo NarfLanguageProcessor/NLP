@@ -1,0 +1,1 @@
+{"index": 340156, "D": "to divest of sacred or hallowed character or office.", "S": [], "A": []}

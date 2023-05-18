@@ -1,0 +1,1 @@
+{"index": 181445, "D": "of or relating to Mauretania, an ancient region of N Africa, or its inhabitants", "S": [], "A": []}

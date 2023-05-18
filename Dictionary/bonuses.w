@@ -1,0 +1,1 @@
+{"index": 37983, "D": "something given or paid over and above what is due.", "S": ["benefit ", "bounty ", "dividend ", "gift ", "gratuity ", "perk ", "premium ", "prize ", "reward "], "A": ["disadvantage ", "loss ", "penalty ", "punishment "]}

@@ -1,0 +1,1 @@
+{"index": 227081, "D": "partisan  action or spirit.", "S": [], "A": []}

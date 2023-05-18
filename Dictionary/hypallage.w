@@ -1,0 +1,1 @@
+{"index": 139798, "D": "the reversal of the expected syntactic relation between two words, as in \u201cher beauty's face\u201d for \u201cher face's beauty.\u201d", "S": [], "A": []}

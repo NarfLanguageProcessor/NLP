@@ -1,0 +1,1 @@
+{"index": 178889, "D": "pertaining to management or a manager", "S": [], "A": []}

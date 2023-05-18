@@ -1,0 +1,1 @@
+{"index": 252515, "D": "(of an organism) multiplied by any process of reproduction from the parent stock", "S": ["cultivated ", "cultured ", "produced ", "raised ", "trained "], "A": ["inexperienced ", "uncultured ", "unsophisticated "]}

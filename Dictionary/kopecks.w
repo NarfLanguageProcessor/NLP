@@ -1,0 +1,1 @@
+{"index": 166048, "D": "an aluminum-bronze coin of Russia, the Soviet Union, and its successor states, one 100th of a ruble.", "S": [], "A": []}

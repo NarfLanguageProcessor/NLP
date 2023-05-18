@@ -1,0 +1,1 @@
+{"index": 108530, "D": "pertaining to sexual relations with someone other than one's spouse", "S": [], "A": []}

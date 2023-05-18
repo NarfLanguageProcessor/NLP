@@ -1,0 +1,1 @@
+{"index": 341903, "D": "exulting;  highly elated; jubilant; triumphant.", "S": [], "A": []}

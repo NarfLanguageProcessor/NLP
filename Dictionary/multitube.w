@@ -1,0 +1,1 @@
+{"index": 195389, "D": "a hollow, usually cylindrical body of metal, glass, rubber, or other material, used especially for conveying or containing liquids or gases.", "S": [], "A": []}

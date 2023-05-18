@@ -1,0 +1,1 @@
+{"index": 15242, "D": "a member or supporter of the Antifederal party.", "S": [], "A": []}

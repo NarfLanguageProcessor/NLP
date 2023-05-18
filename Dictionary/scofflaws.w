@@ -1,0 +1,1 @@
+{"index": 281056, "D": "a person who flouts the law,  especially one who fails to pay fines owed.", "S": ["convict ", "crook ", "culprit ", "felon ", "fugitive ", "gangster ", "hoodlum ", "hooligan ", "lawbreaker ", "mobster ", "offender ", "thug "], "A": ["police "]}

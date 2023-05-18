@@ -1,0 +1,1 @@
+{"index": 66790, "D": "to prevent injury, decay, waste, or loss of", "S": ["bottled "], "A": []}

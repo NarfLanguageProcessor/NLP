@@ -1,0 +1,1 @@
+{"index": 147977, "D": "a person who migrates to another country, usually for permanent residence.", "S": ["alien ", "foreigner ", "migrant ", "newcomer ", "settler "], "A": ["citizen ", "national ", "native "]}

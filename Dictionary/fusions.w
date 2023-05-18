@@ -1,0 +1,1 @@
+{"index": 120614, "D": "the act or process of fusing; the state of being fused.", "S": ["amalgam ", "blend ", "blending ", "synthesis "], "A": ["division ", "separation "]}

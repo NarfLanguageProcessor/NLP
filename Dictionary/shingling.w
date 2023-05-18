@@ -1,0 +1,1 @@
+{"index": 288360, "D": "the covering of a roof or wall with thin overlapping pieces of wood, slate, etc.", "S": ["crew cut ", "hairdo ", "hairstyle "], "A": []}

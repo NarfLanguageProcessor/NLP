@@ -1,0 +1,1 @@
+{"index": 225629, "D": "a mica, similar in composition and appearance to muscovite but containing sodium instead of potassium.", "S": [], "A": []}

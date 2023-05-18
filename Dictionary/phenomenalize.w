@@ -1,0 +1,1 @@
+{"index": 233410, "D": "to regard or interpret as a phenomenon.", "S": [], "A": []}

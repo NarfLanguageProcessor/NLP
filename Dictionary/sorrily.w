@@ -1,0 +1,1 @@
+{"index": 297658, "D": "feeling regret, compunction, sympathy, pity, etc.", "S": [], "A": []}

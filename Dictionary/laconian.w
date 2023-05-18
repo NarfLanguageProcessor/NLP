@@ -1,0 +1,1 @@
+{"index": 166980, "D": "a native or inhabitant of Laconia, the ancient Greek country of which Sparta was the capital", "S": [], "A": []}

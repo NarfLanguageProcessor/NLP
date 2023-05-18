@@ -1,0 +1,1 @@
+{"index": 28944, "D": "(of an organism) living in the depths of lakes and marshes", "S": [], "A": []}

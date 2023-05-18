@@ -1,0 +1,1 @@
+{"index": 106085, "D": "level; flat; smooth;  without surface irregularities", "S": [], "A": []}

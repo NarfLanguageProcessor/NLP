@@ -1,0 +1,1 @@
+{"index": 368324, "D": "Spanish Jesuit missionary, especially in India and Japan.", "S": [], "A": []}

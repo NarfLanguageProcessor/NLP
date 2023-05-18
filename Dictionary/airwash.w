@@ -1,0 +1,1 @@
+{"index": 7022, "D": "to cool (a roof or the like) with a current of air.", "S": [], "A": []}

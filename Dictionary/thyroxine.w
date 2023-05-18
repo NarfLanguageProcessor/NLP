@@ -1,0 +1,1 @@
+{"index": 322168, "D": "the thyroid gland hormone that regulates the metabolic rate of the body.", "S": [], "A": []}

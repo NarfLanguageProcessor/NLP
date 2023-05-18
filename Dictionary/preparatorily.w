@@ -1,0 +1,1 @@
+{"index": 248750, "D": "serving or designed to prepare", "S": [], "A": []}

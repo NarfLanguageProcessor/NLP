@@ -1,0 +1,1 @@
+{"index": 304537, "D": "a part of a stream that is level or where the level of inclination is so slight that no current is visible.", "S": [], "A": []}

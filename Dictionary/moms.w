@@ -1,0 +1,1 @@
+{"index": 191672, "D": "a person\u2019s mother or one\u2019s mother.", "S": ["grandmother ", "mommy ", "parent "], "A": []}

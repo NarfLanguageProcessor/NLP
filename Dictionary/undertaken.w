@@ -1,0 +1,1 @@
+{"index": 339966, "D": "to take upon oneself, as a task, performance, etc.; attempt", "S": ["attempted ", "begun ", "initiated ", "launched ", "started ", "tackled ", "tried ", "ventured "], "A": []}

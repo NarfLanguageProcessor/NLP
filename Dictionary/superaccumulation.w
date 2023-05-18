@@ -1,0 +1,1 @@
+{"index": 311285, "D": "act or state of accumulating;  state of being accumulated. ", "S": [], "A": []}

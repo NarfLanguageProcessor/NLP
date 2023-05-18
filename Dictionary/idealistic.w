@@ -1,0 +1,1 @@
+{"index": 146315, "D": "of or relating to idealism  or idealists. ", "S": ["idealized ", "optimistic ", "radical ", "romantic ", "utopian "], "A": []}

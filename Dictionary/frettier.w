@@ -1,0 +1,1 @@
+{"index": 118859, "D": "fretful; irritable; peevish.", "S": [], "A": []}

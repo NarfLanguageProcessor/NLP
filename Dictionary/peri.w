@@ -1,0 +1,1 @@
+{"index": 230734, "D": "one of a large group of beautiful, fairylike beings of Persian mythology, represented as descended from fallen angels and excluded from paradise until their penance is accomplished.", "S": [], "A": []}

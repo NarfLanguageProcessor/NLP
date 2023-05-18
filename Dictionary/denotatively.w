@@ -1,0 +1,1 @@
+{"index": 81187, "D": "having power to denote. ", "S": [], "A": []}

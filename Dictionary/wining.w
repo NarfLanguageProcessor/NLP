@@ -1,0 +1,1 @@
+{"index": 366170, "D": "the fermented juice of grapes, made in many varieties, such as red, white, sweet, dry, still, and sparkling, for use as a beverage, in cooking, in religious rites, etc., and usually having an alcoholic content of 14 percent or less.", "S": [], "A": []}

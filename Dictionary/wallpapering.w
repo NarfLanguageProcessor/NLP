@@ -1,0 +1,1 @@
+{"index": 362279, "D": "paper, usually with printed decorative patterns in color, for pasting on and covering the walls or ceilings of rooms, hallways, etc.", "S": ["cover ", "hang ", "plaster "], "A": ["peel ", "strip "]}

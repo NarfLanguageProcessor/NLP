@@ -1,0 +1,1 @@
+{"index": 188303, "D": "year of wonders; wonderful year.", "S": [], "A": []}

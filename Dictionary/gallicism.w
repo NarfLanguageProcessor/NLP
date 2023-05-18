@@ -1,0 +1,1 @@
+{"index": 121369, "D": "a French idiom or expression used in another language, as Je ne sais quoi when used in English.", "S": [], "A": []}

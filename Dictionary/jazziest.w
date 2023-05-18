@@ -1,0 +1,1 @@
+{"index": 160686, "D": "pertaining to or suggestive of jazz  music.", "S": ["flashy ", "lively ", "sexy ", "zippy "], "A": ["conservative ", "simple "]}

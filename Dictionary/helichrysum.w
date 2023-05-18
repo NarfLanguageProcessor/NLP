@@ -1,0 +1,1 @@
+{"index": 135490, "D": "any of the numerous composite plants of the genus Helichrysum, having alternate leaves and solitary or clustered flower heads, including the strawflower.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341588, "D": "having the entrails or guts removed; disemboweled", "S": [], "A": []}

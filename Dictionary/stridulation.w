@@ -1,0 +1,1 @@
+{"index": 306252, "D": "to produce a shrill, grating sound, as a cricket does, by rubbing together certain parts of the body; shrill.", "S": [], "A": []}

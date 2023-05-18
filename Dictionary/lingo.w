@@ -1,0 +1,1 @@
+{"index": 172844, "D": "the language and speech, especially the jargon, slang, or argot, of a particular field, group, or individual", "S": ["argot ", "jargon ", "patois ", "slang ", "vernacular ", "vocabulary "], "A": ["standard ", "listening ", "quiet ", "silence "]}

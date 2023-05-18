@@ -1,0 +1,1 @@
+{"index": 105923, "D": "of or relating to the Black Sea.", "S": [], "A": []}

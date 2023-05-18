@@ -1,0 +1,1 @@
+{"index": 119274, "D": "a mass of fertilized frogs' eggs or developing tadpoles, each egg being surrounded by a protective nutrient jelly", "S": [], "A": []}

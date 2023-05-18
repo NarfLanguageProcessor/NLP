@@ -1,0 +1,1 @@
+{"index": 132580, "D": "free from disease or infirmity; robust; vigorous", "S": ["draw ", "lug ", "move ", "pull ", "tow ", "transport ", "yank "], "A": ["push ", "remain "]}

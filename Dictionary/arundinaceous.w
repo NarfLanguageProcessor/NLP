@@ -1,0 +1,1 @@
+{"index": 20807, "D": "pertaining to or like a reed or cane; reedlike; reedy.", "S": [], "A": []}

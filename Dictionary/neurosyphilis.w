@@ -1,0 +1,1 @@
+{"index": 199233, "D": "a syphilitic infection affecting the central nervous system", "S": [], "A": []}

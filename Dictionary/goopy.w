@@ -1,0 +1,1 @@
+{"index": 127971, "D": "characteristic of goop;  sticky, viscous.", "S": ["creamed ", "fluffy ", "gooey ", "greasy ", "luscious ", "lush ", "milky ", "oily ", "rich ", "soft ", "velvety "], "A": ["dry ", "poor ", "rough "]}

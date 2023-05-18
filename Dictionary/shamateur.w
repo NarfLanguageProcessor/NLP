@@ -1,0 +1,1 @@
+{"index": 287308, "D": "a sportsperson who is officially an amateur but accepts payment", "S": [], "A": []}

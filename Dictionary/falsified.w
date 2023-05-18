@@ -1,0 +1,1 @@
+{"index": 109546, "D": "to make false  or incorrect, especially so as to deceive", "S": ["apocryphal ", "pseudepigraphic ", "pseudological "], "A": []}

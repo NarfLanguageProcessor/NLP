@@ -1,0 +1,1 @@
+{"index": 40212, "D": "the edible starchy root  of Psoralea esculenta, a leguminous plant of central North America.", "S": [], "A": []}

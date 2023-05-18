@@ -1,0 +1,1 @@
+{"index": 115042, "D": "reddish; ruddy; rosy", "S": ["circumlocution ", "delicacy ", "grandiloquence ", "inflation ", "pomposity ", "pretense ", "purism "], "A": []}

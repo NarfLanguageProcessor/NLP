@@ -1,0 +1,1 @@
+{"index": 188973, "D": "faultily or wrongly planned or based", "S": ["mistaken ", "wrong "], "A": ["correct ", "right "]}

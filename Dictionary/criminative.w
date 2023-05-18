@@ -1,0 +1,1 @@
+{"index": 72968, "D": "involving crimination;  accusatory.", "S": [], "A": []}

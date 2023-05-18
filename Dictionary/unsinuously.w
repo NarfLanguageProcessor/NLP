@@ -1,0 +1,1 @@
+{"index": 351256, "D": "having many curves, bends, or turns; winding", "S": [], "A": []}

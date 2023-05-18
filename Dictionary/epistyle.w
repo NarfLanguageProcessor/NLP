@@ -1,0 +1,1 @@
+{"index": 102861, "D": "the architrave of a classical building.", "S": [], "A": []}

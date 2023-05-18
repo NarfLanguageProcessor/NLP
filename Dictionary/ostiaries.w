@@ -1,0 +1,1 @@
+{"index": 215715, "D": "Compare acolyte (def. 2), exorcist (def. 2), lector (def. 2). ", "S": [], "A": []}

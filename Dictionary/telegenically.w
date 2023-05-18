@@ -1,0 +1,1 @@
+{"index": 318028, "D": "having physical qualities or characteristics that televise well; videogenic.", "S": [], "A": []}

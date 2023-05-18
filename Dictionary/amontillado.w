@@ -1,0 +1,1 @@
+{"index": 10901, "D": "a pale, dry Spanish sherry.", "S": [], "A": []}

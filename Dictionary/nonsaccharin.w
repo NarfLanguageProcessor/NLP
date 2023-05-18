@@ -1,0 +1,1 @@
+{"index": 206954, "D": "a white, crystalline, slightly water-soluble powder, C7H5NO3S, produced synthetically, which in dilute solution is 500 times as sweet as sugar", "S": [], "A": []}

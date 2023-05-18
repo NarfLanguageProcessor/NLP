@@ -1,0 +1,1 @@
+{"index": 70540, "D": "a sharp blade or wheel attached to the beam of a plow, used to cut the ground in advance of the plowshare.", "S": [], "A": []}

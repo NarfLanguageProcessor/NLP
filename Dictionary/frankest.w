@@ -1,0 +1,1 @@
+{"index": 118377, "D": "direct and unreserved in speech; straightforward; sincere", "S": ["blunt ", "bold ", "brazen ", "direct ", "familiar ", "free ", "heart-to-heart ", "natural ", "open ", "plain ", "real ", "straight ", "upright "], "A": ["abnormal ", "ambiguous ", "different ", "dishonest ", "indirect ", "lying ", "unclear ", "uncommon ", "vague "]}

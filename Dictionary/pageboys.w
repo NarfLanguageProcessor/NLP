@@ -1,0 +1,1 @@
+{"index": 222999, "D": "a hairstyle in which the hair is rolled under, usually at shoulder-length.", "S": ["braid ", "dreadlocks ", "haircut ", "hairdo ", "headdress ", "ponytail "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192688, "D": "a poem or epigram consisting of a single metrical line.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243943, "D": "occurring after a war, especially after the American Civil War", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114517, "D": "full of bends or curves; sinuous. ", "S": ["bending ", "crooked ", "curved ", "curving ", "meandering ", "meandrous ", "serpentine ", "sinuous ", "snaky ", "tortuous ", "turning ", "wavering "], "A": []}

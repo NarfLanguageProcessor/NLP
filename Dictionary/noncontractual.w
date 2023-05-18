@@ -1,0 +1,1 @@
+{"index": 202457, "D": "of, relating to, or secured by a contract. ", "S": [], "A": []}

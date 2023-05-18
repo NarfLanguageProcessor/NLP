@@ -1,0 +1,1 @@
+{"index": 296254, "D": "of or relating to Socrates  or his philosophy, followers, etc., or to the Socratic method. ", "S": ["examining ", "heuristic ", "interested ", "interrogative ", "probing ", "prying ", "questioning ", "searching "], "A": ["disinterested ", "incurious ", "unskeptical "]}

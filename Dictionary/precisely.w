@@ -1,0 +1,1 @@
+{"index": 246137, "D": "in a precise manner", "S": ["absolutely ", "accurately ", "as well ", "correctly ", "literally ", "specifically ", "squarely ", "strictly "], "A": ["questionably ", "unsure "]}

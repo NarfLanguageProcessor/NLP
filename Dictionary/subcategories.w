@@ -1,0 +1,1 @@
+{"index": 307373, "D": "a subordinate category  or a division of a category. ", "S": [], "A": []}

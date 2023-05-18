@@ -1,0 +1,1 @@
+{"index": 320433, "D": "of or relating to Thailand, its people, or their language.", "S": [], "A": []}

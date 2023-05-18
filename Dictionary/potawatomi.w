@@ -1,0 +1,1 @@
+{"index": 244631, "D": "a member of an Algonquian people originally of Michigan and Wisconsin.", "S": [], "A": []}

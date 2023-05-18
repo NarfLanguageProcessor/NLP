@@ -1,0 +1,1 @@
+{"index": 197242, "D": "a prophet during the reigns of David and Solomon. 2 Samuel 12; 1 Kings 1", "S": [], "A": []}

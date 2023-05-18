@@ -1,0 +1,1 @@
+{"index": 322973, "D": "a lever over the hinge on the lid of a tankard, pressed by the thumb  to raise the lid.", "S": [], "A": []}

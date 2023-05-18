@@ -1,0 +1,1 @@
+{"index": 127154, "D": "(of germfree animals) inoculated with microorganisms of a given type.", "S": [], "A": []}

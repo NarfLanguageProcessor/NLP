@@ -1,0 +1,1 @@
+{"index": 224497, "D": "a stroke on the palm of the hand with a cane or strap given as a punishment in school.", "S": [], "A": []}

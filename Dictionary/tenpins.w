@@ -1,0 +1,1 @@
+{"index": 318960, "D": "a form of bowling, played with ten  wooden pins  at which a ball is bowled to knock them down.", "S": [], "A": []}

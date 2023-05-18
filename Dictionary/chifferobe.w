@@ -1,0 +1,1 @@
+{"index": 54241, "D": "a piece of furniture having both drawers and space for hanging clothes.", "S": [], "A": []}

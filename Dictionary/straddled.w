@@ -1,0 +1,1 @@
+{"index": 305602, "D": "to walk, stand, or sit with the legs wide apart; stand or sit astride.", "S": ["mount ", "ride "], "A": []}

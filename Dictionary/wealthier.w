@@ -1,0 +1,1 @@
+{"index": 363493, "D": "having great wealth;  rich; affluent", "S": ["affluent ", "independent ", "moneyed ", "prosperous ", "upscale ", "well-heeled ", "well-off ", "well-to-do "], "A": ["destitute ", "poor "]}

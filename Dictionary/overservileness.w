@@ -1,0 +1,1 @@
+{"index": 221066, "D": "the quality of being slavishly submissive or fawning", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179776, "D": "a gourd or a gourd-shaped rattle filled with seeds or pebbles and used, often in a pair, as a rhythm instrument.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118764, "D": "a fold of membrane that checks or restrains the motion of a part, as the fold on the underside of the tongue.", "S": [], "A": []}

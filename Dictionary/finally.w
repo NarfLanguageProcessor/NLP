@@ -1,0 +1,1 @@
+{"index": 112856, "D": "at the final  point or moment; in the end.", "S": ["certainly ", "completely ", "decisively ", "definitely ", "permanently "], "A": ["doubtfully ", "dubiously ", "questionably "]}

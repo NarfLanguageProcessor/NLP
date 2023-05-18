@@ -1,0 +1,1 @@
+{"index": 273549, "D": "a short piece of spun yarn or other material, used to secure a sail to a yard, gaff, or the like.", "S": [], "A": []}

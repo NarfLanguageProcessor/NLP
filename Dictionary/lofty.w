@@ -1,0 +1,1 @@
+{"index": 174537, "D": "extending high in the air; of imposing height; towering", "S": ["soaring ", "towering "], "A": ["below ", "beneath ", "humble ", "low ", "modest ", "unobtrusive "]}

@@ -1,0 +1,1 @@
+{"index": 102176, "D": "one of a body of magistrates in various ancient Dorian states, especially at Sparta, where a body of five was elected annually by the people.", "S": [], "A": []}

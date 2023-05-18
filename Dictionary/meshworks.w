@@ -1,0 +1,1 @@
+{"index": 184103, "D": "meshed  material or a structure of meshes; a network.", "S": ["net ", "network ", "screen "], "A": ["ease ", "order ", "organization ", "simplicity "]}

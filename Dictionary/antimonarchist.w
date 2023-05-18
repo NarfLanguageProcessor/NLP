@@ -1,0 +1,1 @@
+{"index": 15614, "D": "opposed to a monarchy", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156187, "D": "a formal meeting in which one or more persons question, consult, or evaluate another person", "S": ["consult ", "examine ", "interrogate ", "question ", "quiz ", "talk "], "A": ["answer ", "reply "]}

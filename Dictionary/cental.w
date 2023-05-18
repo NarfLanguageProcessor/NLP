@@ -1,0 +1,1 @@
+{"index": 50792, "D": "hundredweight (def. 1). ", "S": [], "A": []}

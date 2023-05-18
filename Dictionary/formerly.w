@@ -1,0 +1,1 @@
+{"index": 117419, "D": "in time past; in an earlier period or age; previously", "S": ["already ", "earlier ", "heretofore ", "once "], "A": ["currently ", "future ", "presently ", "subsequently "]}

@@ -1,0 +1,1 @@
+{"index": 262505, "D": "an act of rebutting,  as in a debate.", "S": ["rejoinder ", "reply "], "A": []}

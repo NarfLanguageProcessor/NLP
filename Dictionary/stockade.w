@@ -1,0 +1,1 @@
+{"index": 304899, "D": "a defensive barrier consisting of strong posts or timbers fixed upright in the ground.", "S": ["barrier ", "cage ", "camp ", "can ", "cell ", "clink ", "cooler ", "coop ", "corral ", "dungeon ", "fence ", "jailhouse ", "joint ", "pen ", "penitentiary ", "pound ", "prison ", "protection ", "slammer ", "sty "], "A": []}

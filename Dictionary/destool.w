@@ -1,0 +1,1 @@
+{"index": 82955, "D": "to remove (a West African ruler) from office.", "S": [], "A": []}

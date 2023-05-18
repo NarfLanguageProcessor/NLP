@@ -1,0 +1,1 @@
+{"index": 220693, "D": "to defend or guard from attack, invasion, loss, annoyance, insult, etc.; cover or shield from injury or danger.", "S": ["baby ", "caress ", "coddle ", "cosset ", "dandle ", "fondle ", "indulge ", "overindulge ", "pet ", "spoil "], "A": ["ignore "]}

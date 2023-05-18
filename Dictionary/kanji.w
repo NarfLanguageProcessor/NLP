@@ -1,0 +1,1 @@
+{"index": 163067, "D": "a system of Japanese writing using Chinese-derived characters.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198688, "D": "pertaining to Neptune or the sea.", "S": ["aquatic ", "coastal ", "deep-sea ", "maritime ", "naval ", "saltwater ", "seagoing "], "A": []}

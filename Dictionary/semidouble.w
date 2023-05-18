@@ -1,0 +1,1 @@
+{"index": 284123, "D": "having more petals than those of a single flower but fewer than those of a double  flower.", "S": [], "A": []}

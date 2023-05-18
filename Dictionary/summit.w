@@ -1,0 +1,1 @@
+{"index": 310966, "D": "the highest point or part, as of a hill, a line of travel, or any object; top; apex.", "S": ["acme ", "apex ", "apogee ", "capstone ", "climax ", "crest ", "crown ", "culmination ", "head ", "height ", "max ", "meridian ", "peak ", "pinnacle ", "roof ", "vertex ", "zenith "], "A": ["base ", "bottom ", "nadir "]}

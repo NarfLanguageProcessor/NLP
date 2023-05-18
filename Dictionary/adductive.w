@@ -1,0 +1,1 @@
+{"index": 3620, "D": "to move or draw toward the axis of the body or one of its parts (opposed to abduct).", "S": [], "A": []}

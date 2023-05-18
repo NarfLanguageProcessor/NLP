@@ -1,0 +1,1 @@
+{"index": 358427, "D": "forbidden, as by law; prohibited. ", "S": ["banned ", "disallowed ", "forbidden ", "prohibited ", "taboo "], "A": []}

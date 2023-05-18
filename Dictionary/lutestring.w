@@ -1,0 +1,1 @@
+{"index": 176496, "D": "a silk fabric of high sheen, formerly used in the manufacture of dresses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146160, "D": "a pendent, tapering mass of ice formed by the freezing of dripping water.", "S": ["chilly ", "frigid ", "glacial ", "icy ", "wintry "], "A": ["amicable ", "friendly ", "hot ", "responsive ", "warm "]}

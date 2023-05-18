@@ -1,0 +1,1 @@
+{"index": 85355, "D": "capable of being diffused. ", "S": [], "A": []}

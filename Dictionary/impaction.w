@@ -1,0 +1,1 @@
+{"index": 148213, "D": "an act or instance of impacting. ", "S": [], "A": []}

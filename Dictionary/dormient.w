@@ -1,0 +1,1 @@
+{"index": 91700, "D": "sleeping; dormant.", "S": [], "A": []}

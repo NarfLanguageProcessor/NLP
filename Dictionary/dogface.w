@@ -1,0 +1,1 @@
+{"index": 90875, "D": "an enlisted man in the U.S. Army, especially an infantryman in World War II.", "S": ["infantrymen "], "A": []}

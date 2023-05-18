@@ -1,0 +1,1 @@
+{"index": 92419, "D": "to sleep lightly or fitfully.", "S": ["comatose ", "dormant "], "A": ["attentive ", "awake ", "conscious "]}

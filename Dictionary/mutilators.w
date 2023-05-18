@@ -1,0 +1,1 @@
+{"index": 196273, "D": "to injure, disfigure, or make imperfect by removing or irreparably damaging parts", "S": [], "A": []}

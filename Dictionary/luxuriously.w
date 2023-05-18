@@ -1,0 +1,1 @@
+{"index": 176574, "D": "characterized by luxury;  ministering or conducive to luxury", "S": ["sumptuously "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 319371, "D": "in a way that leads or is expected to lead shortly to death; fatally or lethally", "S": [], "A": []}

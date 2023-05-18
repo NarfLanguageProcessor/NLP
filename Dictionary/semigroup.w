@@ -1,0 +1,1 @@
+{"index": 284289, "D": "an algebraic system closed under an associative binary operation.", "S": [], "A": []}

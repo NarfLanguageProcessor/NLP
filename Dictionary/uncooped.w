@@ -1,0 +1,1 @@
+{"index": 337966, "D": "an enclosure, cage, or pen, usually with bars or wires, in which fowls or other small animals are confined for fattening, transportation, etc.", "S": [], "A": []}

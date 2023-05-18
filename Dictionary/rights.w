@@ -1,0 +1,1 @@
+{"index": 272839, "D": "civil rights. ", "S": ["civil rights ", "freedom ", "freedom of religion ", "freedom of speech "], "A": []}

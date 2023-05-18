@@ -1,0 +1,1 @@
+{"index": 333966, "D": "of the color ultramarine.", "S": ["blue-green "], "A": []}

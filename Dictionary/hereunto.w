@@ -1,0 +1,1 @@
+{"index": 137095, "D": "an archaic word for hereto (def. 1)", "S": [], "A": []}

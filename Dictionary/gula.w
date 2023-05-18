@@ -1,0 +1,1 @@
+{"index": 131158, "D": "the front or forward part of the neck.", "S": [], "A": []}

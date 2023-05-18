@@ -1,0 +1,1 @@
+{"index": 295690, "D": "a device that displays on a fluorescent screen reflected infrared radiation, enabling the user to see objects obscured by darkness.", "S": [], "A": []}

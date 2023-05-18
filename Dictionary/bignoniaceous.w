@@ -1,0 +1,1 @@
+{"index": 33766, "D": "Compare bignonia (def. 2). ", "S": [], "A": []}

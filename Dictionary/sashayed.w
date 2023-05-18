@@ -1,0 +1,1 @@
+{"index": 278587, "D": "to glide, move, or proceed easily or nonchalantly", "S": ["attitudinize ", "flounce ", "posture ", "prance ", "sashay ", "strut "], "A": ["reveal ", "tell all "]}

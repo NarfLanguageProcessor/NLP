@@ -1,0 +1,1 @@
+{"index": 16136, "D": "opposed to the principles, methods, or aims of science", "S": [], "A": []}

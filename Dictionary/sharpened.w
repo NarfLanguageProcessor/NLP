@@ -1,0 +1,1 @@
+{"index": 287549, "D": "to make or become sharp  or sharper. ", "S": ["acicular ", "aciculate ", "acuminate ", "acuminous ", "cuspate ", "cuspidate ", "knifelike ", "needle-shaped ", "peaked ", "piked ", "pointed ", "spiked "], "A": ["blunt ", "dense ", "dull ", "imperceptive ", "insensitive ", "not serious ", "obtuse ", "slow ", "stupid ", "unimportant "]}

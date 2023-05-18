@@ -1,0 +1,1 @@
+{"index": 211892, "D": "a wine pitcher or jug, characterized by a curved handle extending from the lip to the shoulder, and a round or trefoil mouth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 241621, "D": "a variety of pyrolusite, MnO2, having well-developed crystals.", "S": [], "A": []}

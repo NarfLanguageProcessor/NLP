@@ -1,0 +1,1 @@
+{"index": 23330, "D": "pertaining to hearing, to the sense of hearing, or to the organs of hearing.", "S": [], "A": []}

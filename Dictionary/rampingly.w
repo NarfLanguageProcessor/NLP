@@ -1,0 +1,1 @@
+{"index": 260404, "D": "a sloping surface connecting two levels; incline. ", "S": [], "A": []}

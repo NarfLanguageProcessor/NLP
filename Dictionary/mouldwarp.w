@@ -1,0 +1,1 @@
+{"index": 194178, "D": "an archaic or dialect name for a mole 1 (def. 1)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 185127, "D": "a mass of stone or metal that has reached the earth from outer space; a fallen meteoroid.", "S": [], "A": []}

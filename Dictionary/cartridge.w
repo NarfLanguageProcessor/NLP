@@ -1,0 +1,1 @@
+{"index": 48673, "D": "a cylindrical case of pasteboard, metal, or the like, for holding a complete charge of powder, and often also the bullet or the shot for a rifle, machine gun, or other small arm.", "S": ["bullet ", "cassette ", "cylinder ", "tube "], "A": []}

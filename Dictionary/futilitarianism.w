@@ -1,0 +1,1 @@
+{"index": 120697, "D": "believing that human hopes are vain, and human strivings unjustified.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104549, "D": "a variety of grossularite garnet.", "S": [], "A": []}

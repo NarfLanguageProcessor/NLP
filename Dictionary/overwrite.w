@@ -1,0 +1,1 @@
+{"index": 221895, "D": "to write  in too elaborate, burdensome, diffuse, or prolix a style", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158860, "D": "having the same color throughout.", "S": [], "A": []}

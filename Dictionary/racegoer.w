@@ -1,0 +1,1 @@
+{"index": 259316, "D": "one who attends a race meeting, esp a habitual frequenter of race meetings", "S": [], "A": []}

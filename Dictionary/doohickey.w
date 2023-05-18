@@ -1,0 +1,1 @@
+{"index": 91497, "D": "a gadget; dingus; thingamajig. ", "S": ["contraption ", "contrivance ", "doodad ", "gismo ", "object ", "thing ", "thingamabob ", "thingamajig ", "whatchamacallit ", "widget "], "A": []}

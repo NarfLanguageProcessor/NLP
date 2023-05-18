@@ -1,0 +1,1 @@
+{"index": 127903, "D": "of good or substantial size, amount, etc.", "S": [], "A": []}

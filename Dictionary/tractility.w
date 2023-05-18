@@ -1,0 +1,1 @@
+{"index": 327212, "D": "capable of being drawn out in length; ductile.", "S": [], "A": []}

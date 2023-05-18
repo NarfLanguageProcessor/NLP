@@ -1,0 +1,1 @@
+{"index": 355710, "D": "a large or decorative vase, especially one with an ornamental foot or pedestal.", "S": [], "A": []}

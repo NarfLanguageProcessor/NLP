@@ -1,0 +1,1 @@
+{"index": 63176, "D": "a structural defect of the eye, esp in the choroid, retina, or iris", "S": [], "A": []}

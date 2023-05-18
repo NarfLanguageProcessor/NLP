@@ -1,0 +1,1 @@
+{"index": 203499, "D": "approval or sanction", "S": [], "A": []}

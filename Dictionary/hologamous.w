@@ -1,0 +1,1 @@
+{"index": 142583, "D": "of or relating to an organism having reproductive cells similar in size and structure to the somatic cells.", "S": [], "A": []}

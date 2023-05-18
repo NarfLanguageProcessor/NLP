@@ -1,0 +1,1 @@
+{"index": 333476, "D": "given to or characterized by twittering. ", "S": ["aquiver ", "palpitating ", "quaky ", "quavering ", "quivering ", "quivery ", "shaky ", "shivering ", "shivery ", "trembling ", "tremulant ", "wobbly "], "A": []}

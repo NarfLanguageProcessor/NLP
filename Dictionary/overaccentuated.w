@@ -1,0 +1,1 @@
+{"index": 218120, "D": "to give emphasis or prominence to.", "S": [], "A": []}

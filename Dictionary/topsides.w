@@ -1,0 +1,1 @@
+{"index": 326005, "D": "the upper side. ", "S": ["front ", "surface "], "A": ["character ", "personality "]}

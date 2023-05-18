@@ -1,0 +1,1 @@
+{"index": 94882, "D": "any of numerous elongate, nocturnal insects of the order Dermaptera, having a pair of large, movable pincers at the rear of the abdomen.", "S": [], "A": []}

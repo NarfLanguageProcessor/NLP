@@ -1,0 +1,1 @@
+{"index": 56832, "D": "any of several groups of dyes that make silver halide photographic plates sensitive to a wider color range.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 58980, "D": "a small village or hamlet.", "S": [], "A": []}

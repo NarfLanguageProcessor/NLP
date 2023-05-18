@@ -1,0 +1,1 @@
+{"index": 337220, "D": "as a whole group rather than as individual persons or things", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 292450, "D": "any of various thick, sweet liquids prepared for table use from molasses, glucose, etc., water, and often a flavoring agent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214093, "D": "the killer whale, Orcinus orca.", "S": ["beluga ", "dolphin ", "grampus ", "mammal ", "narwal ", "porpoise ", "whale "], "A": []}

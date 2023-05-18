@@ -1,0 +1,1 @@
+{"index": 57210, "D": "a colorless, water-insoluble liquid, C5H10, obtained from petroleum and used chiefly as a solvent.", "S": [], "A": []}

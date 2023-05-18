@@ -1,0 +1,1 @@
+{"index": 228616, "D": "a salt or ester of pectic acid. ", "S": [], "A": []}

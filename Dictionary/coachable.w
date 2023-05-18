@@ -1,0 +1,1 @@
+{"index": 60806, "D": "a large, horse-drawn, four-wheeled carriage, usually enclosed.", "S": [], "A": []}

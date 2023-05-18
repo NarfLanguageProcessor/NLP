@@ -1,0 +1,1 @@
+{"index": 11889, "D": "the stage in mitosis or meiosis following metaphase in which the daughter chromosomes move away from each other to opposite ends of the cell.", "S": [], "A": []}

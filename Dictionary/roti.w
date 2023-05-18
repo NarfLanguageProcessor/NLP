@@ -1,0 +1,1 @@
+{"index": 274651, "D": "any of various unleavened, usually whole wheat flatbreads common in South and Southeast Asia and the Caribbean.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93978, "D": "a water-soluble sugar alcohol, C6H14O6, isomeric with sorbitol, that is found in many plant species and is prepared in the laboratory by galactose reduction.", "S": [], "A": []}

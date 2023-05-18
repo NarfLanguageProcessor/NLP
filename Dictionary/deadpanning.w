@@ -1,0 +1,1 @@
+{"index": 77497, "D": "marked by or accomplished with a careful pretense of seriousness or calm detachment; impassive or expressionless", "S": [], "A": []}

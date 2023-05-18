@@ -1,0 +1,1 @@
+{"index": 138829, "D": "a partly translucent variety of opal, which becomes more translucent or transparent when immersed in water.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243867, "D": "jealously opposed to the personal independence of, or to any influence other than one's own upon, a child, spouse, etc.", "S": [], "A": []}

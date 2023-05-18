@@ -1,0 +1,1 @@
+{"index": 111485, "D": "a boat used to transport passengers, vehicles, etc., across a river or the like.", "S": ["barge "], "A": []}

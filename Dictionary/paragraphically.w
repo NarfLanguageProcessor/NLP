@@ -1,0 +1,1 @@
+{"index": 225641, "D": "of, relating to, or forming a paragraph. ", "S": [], "A": []}

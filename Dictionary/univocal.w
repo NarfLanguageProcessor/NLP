@@ -1,0 +1,1 @@
+{"index": 345155, "D": "having only one meaning; unambiguous.", "S": ["explicit ", "obvious "], "A": ["ambiguous ", "indefinite ", "obscure ", "vague "]}

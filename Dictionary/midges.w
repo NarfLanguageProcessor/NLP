@@ -1,0 +1,1 @@
+{"index": 186736, "D": "Compare gnat (def. 1). ", "S": ["Lilliputian ", "half-pint ", "homunculus ", "midget ", "peewee ", "punk ", "shrimp "], "A": []}

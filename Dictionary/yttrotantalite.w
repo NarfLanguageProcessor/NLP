@@ -1,0 +1,1 @@
+{"index": 159615, "D": "a mineral, tantalite and niobate of yttrium and various elements, as iron, and cerium, occurring in the form of brown-black crystals.", "S": [], "A": []}

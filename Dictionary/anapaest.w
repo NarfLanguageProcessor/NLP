@@ -1,0 +1,1 @@
+{"index": 11873, "D": "a metrical foot of three syllables, the first two short, the last long (\u25e1 \u25e1 \u2013)", "S": [], "A": []}

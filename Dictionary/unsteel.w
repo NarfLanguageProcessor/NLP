@@ -1,0 +1,1 @@
+{"index": 351998, "D": "to bring out of a steeled  condition; soften.", "S": [], "A": []}

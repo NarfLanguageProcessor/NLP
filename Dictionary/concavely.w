@@ -1,0 +1,1 @@
+{"index": 65070, "D": "Compare convex (def. 1). ", "S": [], "A": []}

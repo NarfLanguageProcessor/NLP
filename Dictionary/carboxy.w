@@ -1,0 +1,1 @@
+{"index": 47568, "D": "a combining form representing carboxyl  in compound words", "S": [], "A": []}

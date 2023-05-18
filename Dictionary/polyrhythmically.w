@@ -1,0 +1,1 @@
+{"index": 242358, "D": "the simultaneous occurrence of sharply contrasting rhythms  within a composition.", "S": [], "A": []}

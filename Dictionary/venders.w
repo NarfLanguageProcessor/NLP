@@ -1,0 +1,1 @@
+{"index": 357952, "D": "vendor. ", "S": ["agent ", "auctioneer ", "businessperson ", "clerk ", "dealer ", "marketer ", "merchant ", "peddler ", "representative ", "retailer ", "salesclerk ", "salesgirl ", "salesman ", "salesperson ", "saleswoman ", "shopkeeper ", "storekeeper ", "trader ", "vendor "], "A": ["customer "]}

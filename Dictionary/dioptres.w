@@ -1,0 +1,1 @@
+{"index": 86317, "D": "a unit of measure of the refractive power of a lens, having the dimension of the reciprocal of length and a unit equal to the reciprocal of one meter. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3921, "D": "an autonomous region in the Russian Federation, part of the Krasnodar territory, in the northwestern Caucasus Mountains. 1,505 sq. mi. (3,903 sq. km). Capital", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230573, "D": "Israeli political leader, born in Poland", "S": [], "A": []}

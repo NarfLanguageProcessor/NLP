@@ -1,0 +1,1 @@
+{"index": 234588, "D": "any of several small American flycatchers of the genus Sayornis, especially S. phoebe, of eastern North America.", "S": [], "A": []}

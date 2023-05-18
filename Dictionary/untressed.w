@@ -1,0 +1,1 @@
+{"index": 353334, "D": "(of the hair) arranged or formed into tresses;  braided; plaited.", "S": [], "A": []}

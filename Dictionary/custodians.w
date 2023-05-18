@@ -1,0 +1,1 @@
+{"index": 75698, "D": "a person who has custody; keeper; guardian.", "S": ["curator ", "keeper ", "overseer ", "protector ", "steward ", "superintendent ", "supervisor ", "warden ", "watchdog "], "A": []}

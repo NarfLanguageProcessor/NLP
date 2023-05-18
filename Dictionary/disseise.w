@@ -1,0 +1,1 @@
+{"index": 89427, "D": "to deprive (a person) of seizin, or of the possession, of a freehold interest in land, especially wrongfully or by force; oust.", "S": [], "A": []}

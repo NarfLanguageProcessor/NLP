@@ -1,0 +1,1 @@
+{"index": 363875, "D": "a platform scale that stands flush with a road and is used for weighing  trucks, livestock, etc.", "S": [], "A": []}

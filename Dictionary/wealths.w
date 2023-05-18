@@ -1,0 +1,1 @@
+{"index": 363501, "D": "a great quantity or store of money, valuable possessions, property, or other riches", "S": ["abundance ", "affluence ", "cash ", "property ", "prosperity ", "revenue ", "riches ", "richness ", "security ", "treasure ", "worth "], "A": ["debt ", "lack ", "need ", "poorness ", "poverty ", "scarcity ", "want "]}
