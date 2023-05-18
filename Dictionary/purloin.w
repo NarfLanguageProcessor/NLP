@@ -1,0 +1,1 @@
+{"index": 257001, "D": "to take dishonestly; steal; filch; pilfer.", "S": ["embezzle ", "filch ", "misappropriate ", "pilfer "], "A": ["give ", "keep ", "offer ", "receive ", "refuse ", "reject "]}

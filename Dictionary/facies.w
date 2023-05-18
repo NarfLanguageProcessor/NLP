@@ -1,0 +1,1 @@
+{"index": 108989, "D": "general appearance, as of an animal or vegetable group.", "S": [], "A": []}

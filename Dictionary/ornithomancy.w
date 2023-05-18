@@ -1,0 +1,1 @@
+{"index": 214759, "D": "divination from the flight and cries of birds", "S": [], "A": []}

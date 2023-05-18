@@ -1,0 +1,1 @@
+{"index": 289651, "D": "not strong; unhealthy; ailing.", "S": ["ailing ", "cranky ", "feeble ", "infirm ", "lackluster "], "A": ["healthy ", "hearty ", "sound ", "strong "]}

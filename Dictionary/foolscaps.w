@@ -1,0 +1,1 @@
+{"index": 116126, "D": "a type of inexpensive writing paper, especially legal-size, lined, yellow sheets, bound in tablet form.", "S": [], "A": []}

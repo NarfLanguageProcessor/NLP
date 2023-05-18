@@ -1,0 +1,1 @@
+{"index": 131127, "D": "any of various laces, often heavy, made of linen, silk, etc., with the pattern connected by brides rather than by a net ground.", "S": [], "A": []}

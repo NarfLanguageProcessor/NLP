@@ -1,0 +1,1 @@
+{"index": 58983, "D": "to make a quick, sharp sound, or a succession of such sounds, as by striking or cracking", "S": ["babble ", "blab ", "cackle ", "chatter ", "cluck ", "gossip ", "jaw ", "prate ", "prattle ", "rattle ", "yak "], "A": ["be quiet "]}

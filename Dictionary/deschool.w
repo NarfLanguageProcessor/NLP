@@ -1,0 +1,1 @@
+{"index": 82425, "D": "to abolish or phase out traditional schools  from, so as to replace them with alternative methods and forms of education.", "S": [], "A": []}

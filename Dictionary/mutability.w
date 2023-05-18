@@ -1,0 +1,1 @@
+{"index": 196202, "D": "the quality of being liable to undergo change or alteration", "S": ["alteration ", "change ", "flow ", "fluctuation ", "fluidity ", "instability ", "modification ", "motion ", "mutation ", "transition ", "unrest "], "A": ["rest ", "stagnation "]}

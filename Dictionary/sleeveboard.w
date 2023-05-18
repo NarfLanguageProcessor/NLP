@@ -1,0 +1,1 @@
+{"index": 293934, "D": "a small-scale ironing board  for pressing sleeves,  especially a narrow board  that fits inside a coat sleeve. ", "S": [], "A": []}

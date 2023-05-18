@@ -1,0 +1,1 @@
+{"index": 267157, "D": "a distinguishing mark or peculiarity indicating a particular stage of a plate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 2473, "D": "(of bacteria) capable of growth in an acid environment.", "S": [], "A": []}

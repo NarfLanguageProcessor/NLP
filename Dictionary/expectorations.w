@@ -1,0 +1,1 @@
+{"index": 107625, "D": "the act of expectorating. ", "S": ["drivel ", "salivation ", "slaver ", "slobber ", "spit ", "spittle "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39907, "D": "to apply furring to (a surface).", "S": [], "A": []}

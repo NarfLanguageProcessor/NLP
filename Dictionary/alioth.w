@@ -1,0 +1,1 @@
+{"index": 8322, "D": "a star of the second magnitude in the constellation Ursa Major.", "S": [], "A": []}

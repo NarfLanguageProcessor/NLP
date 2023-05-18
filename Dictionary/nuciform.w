@@ -1,0 +1,1 @@
+{"index": 209304, "D": "having the shape of a nut;  nut-shaped.", "S": [], "A": []}

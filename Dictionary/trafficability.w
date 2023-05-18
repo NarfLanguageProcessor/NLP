@@ -1,0 +1,1 @@
+{"index": 327317, "D": "the condition of soil or terrain with regard to its being traveled over, as by people, vehicles, or machinery.", "S": [], "A": []}

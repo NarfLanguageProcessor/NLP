@@ -1,0 +1,1 @@
+{"index": 188631, "D": "an improper or incompatible association, especially in marriage; m\u00e9salliance.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212916, "D": "not offside; being within the prescribed line or area at the beginning of or during play or a play.", "S": [], "A": []}

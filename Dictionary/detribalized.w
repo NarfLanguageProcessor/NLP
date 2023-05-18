@@ -1,0 +1,1 @@
+{"index": 83297, "D": "to cause to lose tribal  allegiances and customs, chiefly through contact with another culture.", "S": [], "A": []}

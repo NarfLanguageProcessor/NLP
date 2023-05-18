@@ -1,0 +1,1 @@
+{"index": 230083, "D": "the presence or emergence of earlier images, forms, or strokes that have been changed and painted over.", "S": [], "A": []}

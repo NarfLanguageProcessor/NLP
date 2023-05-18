@@ -1,0 +1,1 @@
+{"index": 369102, "D": "a large dirigible balloon consisting of a long, cylindrical, covered framework containing compartments or cells filled with gas, and of various structures for holding the engines, passengers, etc.", "S": ["airliner ", "balloon ", "chopper ", "helicopter ", "jet "], "A": []}

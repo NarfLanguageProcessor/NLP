@@ -1,0 +1,1 @@
+{"index": 17935, "D": "uneasy or fearful about something that might happen", "S": ["anguish ", "apprehension ", "concern ", "disquiet ", "disquietude ", "distress ", "fearfulness ", "nervousness ", "solicitude ", "unease ", "uneasiness ", "worry "], "A": ["calm ", "calmness ", "collectedness ", "comfort ", "ease ", "happiness "]}

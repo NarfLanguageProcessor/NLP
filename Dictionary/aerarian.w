@@ -1,0 +1,1 @@
+{"index": 4897, "D": "of or relating to the aerarium.", "S": [], "A": []}

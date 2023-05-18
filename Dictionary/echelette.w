@@ -1,0 +1,1 @@
+{"index": 95179, "D": "a diffraction grating designed to reflect infrared radiation.", "S": [], "A": []}

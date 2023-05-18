@@ -1,0 +1,1 @@
+{"index": 71499, "D": "the versed sine of the complement of an angle or arc.", "S": [], "A": []}

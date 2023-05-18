@@ -1,0 +1,1 @@
+{"index": 123520, "D": "an origin, creation, or beginning.", "S": [], "A": []}

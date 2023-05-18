@@ -1,0 +1,1 @@
+{"index": 366929, "D": "any of several plants in the aconite genus Aconitum, including A. lycoctonum, bearing stalks of hood-shaped purplish-blue flowers, the monkshood A. napellus, which yields a poisonous alkaloid used medicinally, and numerous garden varieties in various colors.", "S": [], "A": []}

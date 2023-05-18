@@ -1,0 +1,1 @@
+{"index": 289025, "D": "the amount held by a shovel. ", "S": [], "A": []}

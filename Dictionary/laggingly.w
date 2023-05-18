@@ -1,0 +1,1 @@
+{"index": 167318, "D": "the act of falling or staying behind.", "S": [], "A": []}

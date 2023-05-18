@@ -1,0 +1,1 @@
+{"index": 254373, "D": "picosecond; picoseconds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346364, "D": "not mindful; unaware; heedless; forgetful; careless; neglectful", "S": ["apathy ", "contempt ", "disdain ", "disrespect ", "inattention ", "indifference ", "neglect ", "negligence ", "scorn "], "A": ["admiration ", "approval ", "care ", "concern ", "esteem ", "feeling ", "interest ", "love ", "regard ", "respect ", "sympathy ", "remembrance "]}

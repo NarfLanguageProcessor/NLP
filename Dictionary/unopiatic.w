@@ -1,0 +1,1 @@
+{"index": 347163, "D": "of, relating to, or resembling opiates. ", "S": [], "A": []}

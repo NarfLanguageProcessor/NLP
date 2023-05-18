@@ -1,0 +1,1 @@
+{"index": 202594, "D": "(of academic courses) carrying or conferring no official academic credit  in a particular program or toward a particular degree or diploma.", "S": [], "A": []}

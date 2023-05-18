@@ -1,0 +1,1 @@
+{"index": 122763, "D": "the act or process of controlling the passage or pathway of something.", "S": ["assemblage ", "assembly ", "audience ", "company ", "congregation ", "crowd ", "draw ", "gate ", "gathering ", "gross ", "house ", "observers ", "onlookers ", "patrons ", "public ", "spectators ", "turnout ", "witnesses "], "A": []}

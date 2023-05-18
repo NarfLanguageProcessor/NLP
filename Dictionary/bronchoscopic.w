@@ -1,0 +1,1 @@
+{"index": 41415, "D": "a lighted, flexible tubular instrument that is inserted into the trachea for diagnosis and for removing inhaled objects.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 10515, "D": "of the nature of starch; starchy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 276565, "D": "a darkroom light  with a filter that transmits only those rays of the spectrum to which films, printing paper, etc., are not sensitive.", "S": [], "A": []}

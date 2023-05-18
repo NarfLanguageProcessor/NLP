@@ -1,0 +1,1 @@
+{"index": 279054, "D": "a plain characterized by coarse grasses and scattered tree growth, especially on the margins of the tropics where the rainfall is seasonal, as in eastern Africa.", "S": ["grassland "], "A": []}

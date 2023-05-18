@@ -1,0 +1,1 @@
+{"index": 103944, "D": "the arousal of erotic impulses.", "S": [], "A": []}

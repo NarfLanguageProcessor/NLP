@@ -1,0 +1,1 @@
+{"index": 365110, "D": "a white cloth waistband worn by a beginner in one of the martial arts, as judo or karate.", "S": [], "A": []}

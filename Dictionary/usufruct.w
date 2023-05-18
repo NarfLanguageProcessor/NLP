@@ -1,0 +1,1 @@
+{"index": 356058, "D": "the right of enjoying all the advantages derivable from the use of something that belongs to another, as far as is compatible with the substance of the thing not being destroyed or injured.", "S": [], "A": []}

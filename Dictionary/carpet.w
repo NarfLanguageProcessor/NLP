@@ -1,0 +1,1 @@
+{"index": 48375, "D": "a heavy fabric, commonly of wool or nylon, for covering floors.", "S": ["carpeting ", "rug ", "tapestry "], "A": []}

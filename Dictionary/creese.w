@@ -1,0 +1,1 @@
+{"index": 72571, "D": "a rare spelling of kris", "S": ["blade ", "dagger ", "saber "], "A": []}

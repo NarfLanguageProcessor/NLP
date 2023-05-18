@@ -1,0 +1,1 @@
+{"index": 73525, "D": "cathode-ray oscilloscope", "S": [], "A": []}

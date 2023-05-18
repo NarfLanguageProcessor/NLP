@@ -1,0 +1,1 @@
+{"index": 204803, "D": "in a way that allows swapping or exchanging one for the other; in place of each other or in place of something else (sometimes followed by with)", "S": [], "A": []}

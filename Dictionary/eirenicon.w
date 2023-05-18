@@ -1,0 +1,1 @@
+{"index": 96551, "D": "a proposition that attempts to harmonize conflicting viewpoints", "S": [], "A": []}

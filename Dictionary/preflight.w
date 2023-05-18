@@ -1,0 +1,1 @@
+{"index": 247613, "D": "occurring or done before a flight", "S": [], "A": []}

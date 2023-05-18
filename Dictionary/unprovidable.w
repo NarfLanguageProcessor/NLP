@@ -1,0 +1,1 @@
+{"index": 348734, "D": "to make available; furnish", "S": [], "A": []}

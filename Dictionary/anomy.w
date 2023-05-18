@@ -1,0 +1,1 @@
+{"index": 13771, "D": "a state or condition of individuals or society characterized by a breakdown or absence of social norms and values, as in the case of uprooted people.", "S": [], "A": []}

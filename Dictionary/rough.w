@@ -1,0 +1,1 @@
+{"index": 274752, "D": "having a coarse or uneven surface, as from projections, irregularities, or breaks; not smooth", "S": ["bumpy ", "choppy ", "coarse ", "fuzzy ", "harsh ", "rocky ", "rugged "], "A": ["calm ", "courteous ", "easy ", "flat ", "gentle ", "mild ", "nice ", "polite ", "refined ", "smooth ", "soft ", "sophisticated ", "neat ", "ordered ", "unwrinkled "]}

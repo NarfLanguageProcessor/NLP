@@ -1,0 +1,1 @@
+{"index": 184494, "D": "the plural of monsieur. ", "S": ["Esquire ", "man ", "signor ", "sir "], "A": []}

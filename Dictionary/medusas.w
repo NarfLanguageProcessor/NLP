@@ -1,0 +1,1 @@
+{"index": 182266, "D": "a saucer-shaped or dome-shaped, free-swimming jellyfish or hydra.", "S": ["Medusa ", "bag ", "battle-ax ", "beldam ", "biddy ", "crone ", "fishwife ", "fury ", "gorgon ", "harpy ", "harridan ", "jezebel ", "ogress ", "shrew ", "slattern ", "sorceress ", "termagant ", "virago ", "vixen ", "witch "], "A": []}

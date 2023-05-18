@@ -1,0 +1,1 @@
+{"index": 144044, "D": "a large leech, as Haemopis marmoratis, that infests the mouth and nasal passages of horses.", "S": [], "A": []}

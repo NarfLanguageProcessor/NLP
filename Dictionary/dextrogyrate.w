@@ -1,0 +1,1 @@
+{"index": 83829, "D": "having dextrorotation", "S": [], "A": []}

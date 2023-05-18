@@ -1,0 +1,1 @@
+{"index": 276460, "D": "having the back or upper surface curved like a saddle.", "S": [], "A": []}

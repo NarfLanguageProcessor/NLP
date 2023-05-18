@@ -1,0 +1,1 @@
+{"index": 248693, "D": "an authoritative rule or law; a decree or command.", "S": [], "A": []}

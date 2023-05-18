@@ -1,0 +1,1 @@
+{"index": 337084, "D": "of, relating to, or living in a cloister. ", "S": [], "A": []}

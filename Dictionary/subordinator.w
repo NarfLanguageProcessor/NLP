@@ -1,0 +1,1 @@
+{"index": 308720, "D": "a conjunction introducing a subordinate clause,  as when in They were glad when I finished.", "S": [], "A": []}

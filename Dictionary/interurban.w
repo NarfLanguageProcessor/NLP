@@ -1,0 +1,1 @@
+{"index": 156123, "D": "of, located in, or operating between two or more cities or towns.", "S": ["burghal ", "citified ", "civic ", "civil ", "intraurban ", "megalopolitan ", "municipal ", "urban "], "A": ["rural "]}

@@ -1,0 +1,1 @@
+{"index": 261138, "D": "a person, animal, or thing that catches rats,  as a terrier or a cat.", "S": [], "A": []}

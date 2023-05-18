@@ -1,0 +1,1 @@
+{"index": 223263, "D": "a republic in S Asia, between India and Afghanistan", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 185197, "D": "a colorless, odorless, flammable gas, CH4, the main constituent of marsh gas and the firedamp of coal mines, obtained commercially from natural gas", "S": ["swamp gas "], "A": []}

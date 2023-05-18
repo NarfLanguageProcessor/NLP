@@ -1,0 +1,1 @@
+{"index": 54240, "D": [], "S": ["Arabic ", "cipher ", "figure ", "integer ", "notation ", "numeral ", "symbol "], "A": ["letter "]}

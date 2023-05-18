@@ -1,0 +1,1 @@
+{"index": 5490, "D": "the act or process of changing a stop sound to an affricate. ", "S": [], "A": []}

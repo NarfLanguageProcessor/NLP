@@ -1,0 +1,1 @@
+{"index": 271365, "D": "to clear, as from an accusation, imputation, suspicion, or the like", "S": [], "A": []}

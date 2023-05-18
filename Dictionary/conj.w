@@ -1,0 +1,1 @@
+{"index": 66371, "D": "conjugation.", "S": [], "A": []}

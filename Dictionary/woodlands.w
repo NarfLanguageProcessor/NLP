@@ -1,0 +1,1 @@
+{"index": 367184, "D": "land covered with woods or trees.", "S": ["province "], "A": ["city ", "metropolis ", "urbanity "]}

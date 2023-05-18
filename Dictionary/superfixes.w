@@ -1,0 +1,1 @@
+{"index": 311875, "D": "a suprasegmental  feature having an identifiable meaning or grammatical function, such as the stress pattern that distinguishes the noun record from the verb record or the parallel falling stress patterns of blackbird and chalkboard, reflecting a parallel relationship between the elements.", "S": [], "A": []}

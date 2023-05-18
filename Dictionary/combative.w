@@ -1,0 +1,1 @@
+{"index": 63628, "D": "ready or inclined to fight; pugnacious", "S": ["antagonistic ", "bellicose ", "belligerent ", "cantankerous ", "contentious ", "energetic "], "A": ["kind ", "nice "]}

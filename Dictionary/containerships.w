@@ -1,0 +1,1 @@
+{"index": 67267, "D": "a large ship that transports its cargo in truck-size containers that can be transferred from ship to train to truck without unloading and reloading the contents", "S": [], "A": []}

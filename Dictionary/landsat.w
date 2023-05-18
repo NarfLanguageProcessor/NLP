@@ -1,0 +1,1 @@
+{"index": 168011, "D": "a U.S. scientific satellite that studies and photographs the earth's surface by using remote-sensing techniques.", "S": [], "A": []}

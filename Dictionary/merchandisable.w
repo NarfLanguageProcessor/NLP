@@ -1,0 +1,1 @@
+{"index": 183653, "D": "the manufactured goods bought and sold in any business.", "S": ["bankable ", "profitable "], "A": []}

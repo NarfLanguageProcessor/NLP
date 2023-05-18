@@ -1,0 +1,1 @@
+{"index": 143513, "D": "the sound made by an animal's hoof  in walking, running, etc.", "S": [], "A": []}

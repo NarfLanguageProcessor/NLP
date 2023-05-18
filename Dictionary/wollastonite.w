@@ -1,0 +1,1 @@
+{"index": 366935, "D": "a mineral, calcium silicate, CaSiO3, occurring usually in fibrous white masses.", "S": [], "A": []}

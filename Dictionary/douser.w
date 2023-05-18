@@ -1,0 +1,1 @@
+{"index": 92096, "D": "a person or thing that douses. ", "S": [], "A": []}

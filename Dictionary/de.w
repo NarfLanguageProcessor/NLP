@@ -1,0 +1,1 @@
+{"index": 77405, "D": "from; of (used in French, Spanish, and Portuguese personal names, originally to indicate place of origin)", "S": [], "A": []}

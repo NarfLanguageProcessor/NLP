@@ -1,0 +1,1 @@
+{"index": 97850, "D": "to purify by washing and straining or decanting.", "S": ["bathe ", "brush ", "cleanse ", "clear up ", "disinfect ", "dredge ", "dust ", "mop ", "pick ", "pick up ", "rinse ", "scrape ", "scrub ", "soak ", "spruce up ", "sweep ", "vacuum ", "wash ", "wipe "], "A": ["dirty ", "worsen "]}

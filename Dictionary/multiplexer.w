@@ -1,0 +1,1 @@
+{"index": 195256, "D": "a device that enables the simultaneous transmission of several messages or signals over one communications channel", "S": [], "A": []}

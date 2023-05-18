@@ -1,0 +1,1 @@
+{"index": 40409, "D": "a porch or roofed passageway open on the sides, for connecting two buildings, as a house and a garage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 10302, "D": "a custom, trait, belief, etc., peculiar to the United States of America or its citizens.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78172, "D": "the twelfth month of the year, containing 31 days. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259569, "D": "to make radical  or more radical, as in politics", "S": [], "A": []}

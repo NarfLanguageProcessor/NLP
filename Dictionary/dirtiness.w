@@ -1,0 +1,1 @@
+{"index": 86859, "D": "soiled with dirt; foul; unclean", "S": ["contamination ", "defilement ", "dirt ", "filth ", "filthiness ", "foulness ", "griminess ", "grubbiness ", "impureness ", "impurity ", "pollution ", "squalor ", "uncleanliness ", "uncleanness ", "unwholesomeness "], "A": ["cleanliness ", "purification ", "purity ", "sterility "]}

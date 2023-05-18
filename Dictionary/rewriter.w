@@ -1,0 +1,1 @@
+{"index": 271672, "D": "to write  in a different form or manner; revise", "S": ["copyholder ", "copyreader ", "deskman ", "newspaperman ", "newspaperwoman ", "proofreader ", "reviser "], "A": []}

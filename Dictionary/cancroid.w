@@ -1,0 +1,1 @@
+{"index": 46136, "D": "resembling a cancer, as certain tumors.", "S": ["Cancer ", "excrescence ", "fibrousness ", "fungus ", "lump ", "mole ", "outgrowth ", "parasite ", "polyp ", "swelling ", "thickening ", "wen "], "A": ["abatement ", "decrease ", "diminishment ", "failure ", "lessening ", "reduction ", "stagnation ", "underdevelopment "]}

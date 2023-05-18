@@ -1,0 +1,1 @@
+{"index": 153983, "D": "a person who instructs;  teacher.", "S": [], "A": []}

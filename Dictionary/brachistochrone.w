@@ -1,0 +1,1 @@
+{"index": 39483, "D": "the curve between two points that in the shortest time by a body moving under an external force without friction; the curve of quickest descent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189416, "D": "a member of a Mongoloid hill people of the Brahmaputra area of NE India", "S": [], "A": []}

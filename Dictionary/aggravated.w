@@ -1,0 +1,1 @@
+{"index": 6107, "D": "annoyed; irritated", "S": ["angry ", "exasperated ", "incensed ", "infuriated ", "irate "], "A": ["calm ", "cheerful ", "happy ", "joyous ", "pleased "]}

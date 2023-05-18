@@ -1,0 +1,1 @@
+{"index": 164526, "D": "the capital of Ukraine, on the Dnieper River", "S": [], "A": []}

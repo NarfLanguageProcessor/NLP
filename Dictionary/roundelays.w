@@ -1,0 +1,1 @@
+{"index": 274851, "D": "a song in which a phrase, line, or the like, is continually repeated.", "S": [], "A": []}

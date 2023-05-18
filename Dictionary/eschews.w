@@ -1,0 +1,1 @@
+{"index": 104204, "D": "to abstain or keep away from; shun; avoid", "S": ["abandon ", "avoid ", "forgo ", "forswear ", "renounce ", "shun ", "shy away from ", "swear off "], "A": ["face ", "keep ", "meet ", "take on "]}

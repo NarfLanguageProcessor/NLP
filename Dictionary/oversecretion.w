@@ -1,0 +1,1 @@
+{"index": 221013, "D": "(in a cell or gland) the act or process of separating, elaborating, and releasing a substance that fulfills some function within the organism or undergoes excretion.", "S": [], "A": []}

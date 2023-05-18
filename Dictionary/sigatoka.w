@@ -1,0 +1,1 @@
+{"index": 289979, "D": "a disease of bananas, characterized by discolored spots on the leaves, caused by a fungus, Mycosphaerella musicola.", "S": [], "A": []}

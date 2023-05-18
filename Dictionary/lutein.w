@@ -1,0 +1,1 @@
+{"index": 176466, "D": "a yellow-red, water-insoluble, crystalline, carotenoid alcohol, C40H56O2, found in the petals of marigold and certain other flowers, egg yolk, algae, and corpora lutea", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82193, "D": "See athlete's foot", "S": [], "A": []}

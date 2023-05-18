@@ -1,0 +1,1 @@
+{"index": 221696, "D": "an opening or initiating move toward negotiations, a new relationship, an agreement, etc.; a formal or informal proposal or offer", "S": ["bid ", "invitation ", "presentation ", "proposal ", "proposition ", "signal ", "suggestion "], "A": ["conclusion ", "ending ", "epilogue ", "finish ", "withdrawal "]}

@@ -1,0 +1,1 @@
+{"index": 340117, "D": "to do less work  on than is necessary or required", "S": [], "A": []}

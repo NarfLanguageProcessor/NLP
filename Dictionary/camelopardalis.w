@@ -1,0 +1,1 @@
+{"index": 45657, "D": "the Giraffe, a northern constellation between Ursa Major and Perseus.", "S": [], "A": []}

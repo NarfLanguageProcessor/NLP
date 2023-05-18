@@ -1,0 +1,1 @@
+{"index": 265543, "D": "having or showing no regard; heedless; unmindful  (often followed by of).", "S": [], "A": []}

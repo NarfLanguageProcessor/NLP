@@ -1,0 +1,1 @@
+{"index": 163935, "D": "resembling horn; horny.", "S": [], "A": []}

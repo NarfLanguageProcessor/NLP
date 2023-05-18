@@ -1,0 +1,1 @@
+{"index": 11718, "D": "selected passages from the writings of an author or of different authors.", "S": [], "A": []}

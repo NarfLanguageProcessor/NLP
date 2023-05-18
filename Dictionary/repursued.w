@@ -1,0 +1,1 @@
+{"index": 268823, "D": "to follow in order to overtake, capture, kill, etc.; chase. ", "S": [], "A": []}

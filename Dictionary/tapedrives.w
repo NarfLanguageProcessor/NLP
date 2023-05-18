@@ -1,0 +1,1 @@
+{"index": 316308, "D": [], "S": ["disk drive ", "hardware ", "modem ", "personal computer ", "supercomputer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219951, "D": "in a way that shows good judgment or discernment; wisely or prudently", "S": [], "A": []}

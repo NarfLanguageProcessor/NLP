@@ -1,0 +1,1 @@
+{"index": 298817, "D": "a small spot differing in color or substance from that of the surface or material upon which it appears or lies", "S": [], "A": []}

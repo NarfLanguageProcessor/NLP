@@ -1,0 +1,1 @@
+{"index": 30320, "D": "the flesh of a cow, steer, or bull raised and killed for its meat.", "S": ["meat "], "A": ["enervation ", "impotence ", "inability ", "incompetence ", "lethargy ", "powerlessness ", "weakness "]}

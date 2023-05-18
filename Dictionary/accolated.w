@@ -1,0 +1,1 @@
+{"index": 1627, "D": "(of portraits on a coin, medal, or escutcheon) overlapping and facing in the same direction; conjoined.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133791, "D": "a pantomime, farce, or similar play in which Harlequin plays the principal part.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83994, "D": "to make diabolic  or devilish.", "S": [], "A": []}

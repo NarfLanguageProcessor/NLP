@@ -1,0 +1,1 @@
+{"index": 152403, "D": "darkened with a fuscous or brownish tinge.", "S": [], "A": []}

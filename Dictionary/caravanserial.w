@@ -1,0 +1,1 @@
+{"index": 47400, "D": "(in the Middle East and North Africa) an inn, usually with a large courtyard, for the overnight accommodation of caravans.", "S": [], "A": []}

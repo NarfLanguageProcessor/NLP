@@ -1,0 +1,1 @@
+{"index": 348669, "D": "to put forward or offer for consideration, acceptance, or adoption; set forth; propose", "S": [], "A": []}

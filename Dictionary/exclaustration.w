@@ -1,0 +1,1 @@
+{"index": 106747, "D": "the return of a monk or nun to the outside world after being released from his or her religious vows", "S": [], "A": []}

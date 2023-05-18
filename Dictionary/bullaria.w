@@ -1,0 +1,1 @@
+{"index": 42494, "D": "a collection of papal bulls.", "S": [], "A": []}

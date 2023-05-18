@@ -1,0 +1,1 @@
+{"index": 299774, "D": "an aromatic, Indian plant, Nardostachys jatamansi, of the valerian family, believed to be the nard of the ancients.", "S": [], "A": []}

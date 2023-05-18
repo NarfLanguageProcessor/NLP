@@ -1,0 +1,1 @@
+{"index": 69638, "D": "mutual relation of two or more things, parts, etc.", "S": ["interaction ", "interrelationship ", "parallel "], "A": ["difference "]}

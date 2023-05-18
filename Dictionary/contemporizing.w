@@ -1,0 +1,1 @@
+{"index": 67347, "D": "to place in or regard as belonging to the same age or time.", "S": [], "A": []}

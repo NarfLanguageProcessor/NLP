@@ -1,0 +1,1 @@
+{"index": 259307, "D": "a nocturnal omnivore, Procyon lotor, the largest member of the family Procyonidae, having a masklike black stripe across the eyes, a sharp snout, a bushy, ringed tail, and very dexterous front paws, native to North and Central America and introduced elsewhere for its valuable fur", "S": [], "A": []}

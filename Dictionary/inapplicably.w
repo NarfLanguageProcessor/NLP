@@ -1,0 +1,1 @@
+{"index": 149478, "D": "not applicable;  unsuitable.", "S": [], "A": []}

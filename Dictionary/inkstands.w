@@ -1,0 +1,1 @@
+{"index": 152937, "D": "a small stand,  usually on a desk, for holding ink,  pens, etc.", "S": [], "A": []}

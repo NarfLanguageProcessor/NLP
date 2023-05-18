@@ -1,0 +1,1 @@
+{"index": 300822, "D": "the position or function of a person or group who vouches for, supports, advises, or helps fund another person or an organization or project", "S": ["aegis ", "aid ", "auspices ", "backing ", "patronage ", "sponsor "], "A": ["opposition ", "opponent "]}

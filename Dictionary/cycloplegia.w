@@ -1,0 +1,1 @@
+{"index": 57224, "D": "paralysis of the intraocular muscles.", "S": [], "A": []}

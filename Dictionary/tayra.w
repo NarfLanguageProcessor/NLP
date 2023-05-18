@@ -1,0 +1,1 @@
+{"index": 315455, "D": "a small animal, Eira barbara, of the weasel family, ranging from Mexico to tropical South America.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266874, "D": "the ability to be relied  on or depended on, as for accuracy, honesty, or achievement.", "S": ["accuracy ", "authenticity ", "honesty ", "loyalty ", "safety ", "security ", "soundness ", "trustworthiness "], "A": ["danger ", "falsehood ", "disloyalty ", "inconstancy ", "treachery ", "unsteadiness "]}

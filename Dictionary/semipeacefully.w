@@ -1,0 +1,1 @@
+{"index": 284673, "D": "characterized by peace;  free from war, strife, commotion, violence, or disorder", "S": [], "A": []}

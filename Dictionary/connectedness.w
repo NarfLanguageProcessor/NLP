@@ -1,0 +1,1 @@
+{"index": 66499, "D": "the fact of being or feeling socially, emotionally, spiritually, or professionally linked with others or with another, or the robustness of such relationships", "S": ["connectivity ", "relatedness "], "A": ["detachment ", "disconnectedness ", "disjunction "]}

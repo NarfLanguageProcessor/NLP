@@ -1,0 +1,1 @@
+{"index": 37846, "D": "a marine game fish, Albula vulpes, found in shallow tropical waters, having a skeleton composed of numerous small, fine bones.", "S": [], "A": []}

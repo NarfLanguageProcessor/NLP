@@ -1,0 +1,1 @@
+{"index": 296656, "D": "of or relating to a solenoid. ", "S": [], "A": []}

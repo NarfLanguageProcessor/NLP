@@ -1,0 +1,1 @@
+{"index": 118211, "D": "a part broken off or detached", "S": ["bit ", "chunk ", "hunk ", "lump ", "particle ", "piece ", "portion ", "remnant ", "scrap ", "shred ", "sliver "], "A": ["lot ", "whole "]}

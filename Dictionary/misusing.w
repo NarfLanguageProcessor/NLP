@@ -1,0 +1,1 @@
+{"index": 190411, "D": "wrong or improper use;  misapplication.", "S": ["corruption ", "exploitation ", "harm ", "maltreatment ", "mistreatment ", "prostitution ", "squandering ", "waste "], "A": ["praise "]}

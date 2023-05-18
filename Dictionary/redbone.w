@@ -1,0 +1,1 @@
+{"index": 263892, "D": "an American hound having a red  coat, used in hunting raccoons, bears, cougars, and wildcats.", "S": [], "A": []}

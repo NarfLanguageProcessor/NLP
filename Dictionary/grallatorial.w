@@ -1,0 +1,1 @@
+{"index": 128693, "D": "belonging or pertaining to the wading birds, as the snipes, cranes, storks, and herons, many species of which have very long legs.", "S": [], "A": []}

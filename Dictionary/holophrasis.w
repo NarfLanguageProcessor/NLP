@@ -1,0 +1,1 @@
+{"index": 142639, "D": "the expression of the ideas of a phrase or sentence in one word; polysynthesis", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94787, "D": "a plug  of soft, pliable material inserted into the opening of the outer ear,  especially to keep out water or noise.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91601, "D": "an impurity added intentionally in a very small, controlled amount to a pure semiconductor to change its electrical properties", "S": [], "A": []}

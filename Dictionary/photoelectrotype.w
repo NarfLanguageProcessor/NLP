@@ -1,0 +1,1 @@
+{"index": 235096, "D": "an electrotype  made by photographic means.", "S": [], "A": []}

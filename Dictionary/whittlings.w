@@ -1,0 +1,1 @@
+{"index": 365254, "D": "chips or shavings whittled off from an object", "S": [], "A": []}

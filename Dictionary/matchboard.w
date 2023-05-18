@@ -1,0 +1,1 @@
+{"index": 181039, "D": "a board  having a tongue formed on one edge and a groove of the same dimensions cut into the other, used with similar boards  to compose floors, dados, etc.", "S": [], "A": []}

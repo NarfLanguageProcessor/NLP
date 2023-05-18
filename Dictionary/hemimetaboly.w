@@ -1,0 +1,1 @@
+{"index": 136201, "D": "having the developmental stages of an incomplete metamorphosis", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117630, "D": "a piano of the late 18th and early 19th centuries with greater clarity but less volume, resonance, and dynamic range than a modern grand, revived in the late 20th century for the performance of the music of its period.", "S": [], "A": []}

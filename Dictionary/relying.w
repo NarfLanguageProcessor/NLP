@@ -1,0 +1,1 @@
+{"index": 266956, "D": "to depend confidently; put trust in (usually followed by on or upon)", "S": ["conditional ", "reliant ", "susceptible "], "A": ["free ", "independent ", "mature ", "strong "]}

@@ -1,0 +1,1 @@
+{"index": 1743, "D": "a clothing accessory or an accessory piece of equipment", "S": ["accessory ", "accoutrement ", "trappings "], "A": []}

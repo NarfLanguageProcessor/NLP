@@ -1,0 +1,1 @@
+{"index": 350222, "D": "secure from liability to harm, injury, danger, or risk", "S": ["hazardous ", "perilous ", "risky ", "treacherous ", "uncertain ", "unreliable ", "unsound ", "unstable ", "untrustworthy "], "A": ["certain ", "honest ", "reliable ", "safe ", "secure ", "stable ", "strong ", "sure ", "true ", "trustworthy "]}

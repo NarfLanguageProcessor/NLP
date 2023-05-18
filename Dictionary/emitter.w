@@ -1,0 +1,1 @@
+{"index": 98584, "D": "a person or thing that emits. ", "S": [], "A": []}

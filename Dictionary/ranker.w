@@ -1,0 +1,1 @@
+{"index": 260592, "D": "a person who ranks. ", "S": ["musty ", "noxious ", "putrid "], "A": ["clean ", "fresh ", "good ", "nice ", "pleasant ", "pleasing "]}

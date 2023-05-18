@@ -1,0 +1,1 @@
+{"index": 60384, "D": "simple past tense and past participle of climb. ", "S": [], "A": []}

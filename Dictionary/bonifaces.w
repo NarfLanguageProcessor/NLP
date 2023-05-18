@@ -1,0 +1,1 @@
+{"index": 37903, "D": "English monk who became a missionary in Germany.", "S": [], "A": []}

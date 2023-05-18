@@ -1,0 +1,1 @@
+{"index": 91414, "D": "the condition of being cooked to a desired degree", "S": [], "A": []}

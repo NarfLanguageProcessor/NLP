@@ -1,0 +1,1 @@
+{"index": 117601, "D": "(now used in derision or to express disbelief) in truth; in fact; indeed.", "S": [], "A": []}

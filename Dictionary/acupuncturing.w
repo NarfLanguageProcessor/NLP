@@ -1,0 +1,1 @@
+{"index": 3362, "D": "a Chinese medical practice or procedure that treats illness or provides local anesthesia by the insertion of needles at specified sites of the body.", "S": [], "A": []}

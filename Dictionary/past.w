@@ -1,0 +1,1 @@
+{"index": 227394, "D": "gone by or elapsed in time", "S": ["completed ", "former ", "previous ", "prior ", "spent "], "A": ["after ", "current ", "future ", "later ", "present "]}

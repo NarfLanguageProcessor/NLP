@@ -1,0 +1,1 @@
+{"index": 233431, "D": "a phenomenon, especially a young prodigy", "S": ["artist ", "expert ", "pro ", "specialist "], "A": ["amateur ", "rookie "]}

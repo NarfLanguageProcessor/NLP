@@ -1,0 +1,1 @@
+{"index": 51776, "D": "a white, crystalline, water-insoluble fat, C32H64O2, obtained from spermaceti by extraction with ether", "S": [], "A": []}

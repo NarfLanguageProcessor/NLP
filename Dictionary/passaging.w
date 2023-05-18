@@ -1,0 +1,1 @@
+{"index": 227271, "D": "a portion or section of a written work; a paragraph, verse, etc.", "S": [], "A": []}

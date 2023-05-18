@@ -1,0 +1,1 @@
+{"index": 340128, "D": "to write under or at the foot of, especially under other written matter.", "S": ["approve ", "bankroll ", "finance ", "guarantee ", "provide ", "secure ", "sponsor ", "subsidize "], "A": ["disapprove ", "hurt ", "take ", "deny ", "disagree ", "oppose ", "protest ", "refuse ", "reject ", "veto "]}

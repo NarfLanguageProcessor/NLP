@@ -1,0 +1,1 @@
+{"index": 196959, "D": "stupor produced by narcotics.", "S": [], "A": []}

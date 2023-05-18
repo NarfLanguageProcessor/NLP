@@ -1,0 +1,1 @@
+{"index": 151473, "D": "not effaceable or eradicable; indelible", "S": [], "A": []}

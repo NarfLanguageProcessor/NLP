@@ -1,0 +1,1 @@
+{"index": 29402, "D": "a parish officer having various subordinate duties, as keeping order during services, waiting on the rector, etc.", "S": [], "A": []}

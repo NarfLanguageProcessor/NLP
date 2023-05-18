@@ -1,0 +1,1 @@
+{"index": 78201, "D": "of or relating to a tithing", "S": [], "A": []}

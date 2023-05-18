@@ -1,0 +1,1 @@
+{"index": 25193, "D": "Compare cabinet (def. 19), isometric (def. 5), oblique (def. 13). ", "S": [], "A": []}

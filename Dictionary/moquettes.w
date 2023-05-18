@@ -1,0 +1,1 @@
+{"index": 193255, "D": "a type of fabric with a thick, velvety pile, used for carpets and in upholstering.", "S": [], "A": []}

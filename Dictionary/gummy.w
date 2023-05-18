@@ -1,0 +1,1 @@
+{"index": 131284, "D": "of, resembling, or of the consistency of gum;  viscid; mucilaginous.", "S": ["adhesive ", "cohesive ", "gluey ", "mucilaginous ", "viscid "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 222108, "D": "any salt or ester of oxalic acid,  occurring in plants, especially spinach, rhubarb, and certain other vegetables and nuts, and capable of forming an insoluble salt with calcium and interfering with its absorption by the body.", "S": [], "A": []}

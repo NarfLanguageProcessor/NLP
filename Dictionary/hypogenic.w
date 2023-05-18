@@ -1,0 +1,1 @@
+{"index": 140951, "D": "formed beneath the earth's surface, as granite (opposed to epigene).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205433, "D": "neatly or trimly smart in dress or appearance; spruce", "S": [], "A": []}

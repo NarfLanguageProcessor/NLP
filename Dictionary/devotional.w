@@ -1,0 +1,1 @@
+{"index": 83684, "D": "characterized by devotion. ", "S": ["holy ", "religious "], "A": ["irreligious "]}

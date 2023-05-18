@@ -1,0 +1,1 @@
+{"index": 237497, "D": "any of numerous roundish or oblate varieties of apple.", "S": [], "A": []}

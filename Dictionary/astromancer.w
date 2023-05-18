@@ -1,0 +1,1 @@
+{"index": 22289, "D": "divination by means of the stars.", "S": ["fortuneteller ", "soothsayer "], "A": []}

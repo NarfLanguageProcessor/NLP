@@ -1,0 +1,1 @@
+{"index": 140555, "D": "an arterial disease characterized by this condition.", "S": [], "A": []}

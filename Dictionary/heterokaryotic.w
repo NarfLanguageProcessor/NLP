@@ -1,0 +1,1 @@
+{"index": 137616, "D": "condition in which a binucleate or multinucleate cell contains genetically dissimilar nuclei.", "S": [], "A": []}

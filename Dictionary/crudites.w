@@ -1,0 +1,1 @@
+{"index": 74121, "D": "an appetizer consisting of a variety of raw vegetables, usually cut into strips or bite-size pieces, and served with a dip.", "S": ["starter "], "A": []}

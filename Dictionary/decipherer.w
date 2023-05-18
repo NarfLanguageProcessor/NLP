@@ -1,0 +1,1 @@
+{"index": 78390, "D": "to make out the meaning of (poor or partially obliterated writing, etc.)", "S": [], "A": []}

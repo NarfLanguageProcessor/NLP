@@ -1,0 +1,1 @@
+{"index": 147626, "D": "a building, rooms, etc., used by Shi\u02bfites for ceremonies, especially during the first 10 days of Muharram.", "S": [], "A": []}

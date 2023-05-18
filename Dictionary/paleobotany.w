@@ -1,0 +1,1 @@
+{"index": 223661, "D": "the branch of paleontology dealing with fossil plants.", "S": ["anatomy ", "cytology ", "ecology ", "genetics ", "horticulture ", "morphology ", "pathology ", "physiology ", "phytology ", "pomology ", "taxonomy "], "A": []}

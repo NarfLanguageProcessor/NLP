@@ -1,0 +1,1 @@
+{"index": 98032, "D": "one of a breed of large, white domestic geese having orange shanks, toes, and bill.", "S": [], "A": []}

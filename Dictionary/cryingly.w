@@ -1,0 +1,1 @@
+{"index": 72937, "D": "demanding attention or remedy; critical; severe", "S": [], "A": []}

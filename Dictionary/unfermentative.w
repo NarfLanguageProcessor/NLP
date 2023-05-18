@@ -1,0 +1,1 @@
+{"index": 342173, "D": "tending to produce or undergo fermentation.", "S": [], "A": []}

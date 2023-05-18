@@ -1,0 +1,1 @@
+{"index": 29848, "D": "to clasp  all around or on all sides.", "S": [], "A": []}

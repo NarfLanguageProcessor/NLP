@@ -1,0 +1,1 @@
+{"index": 89814, "D": "able to be recognized as different, usually by means of some readily noticed feature or characteristic", "S": [], "A": []}

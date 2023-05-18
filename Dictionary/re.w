@@ -1,0 +1,1 @@
+{"index": 261391, "D": "the syllable used for the second tone of a diatonic scale.", "S": ["regarding ", "respecting ", "touching "], "A": []}

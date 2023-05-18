@@ -1,0 +1,1 @@
+{"index": 2295, "D": "not chlamydeous;  having neither calyx nor corolla.", "S": [], "A": []}

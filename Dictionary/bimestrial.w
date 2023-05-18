@@ -1,0 +1,1 @@
+{"index": 34113, "D": "occurring every two months; bimonthly.", "S": [], "A": []}

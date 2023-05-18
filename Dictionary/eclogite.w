@@ -1,0 +1,1 @@
+{"index": 95341, "D": "a rock consisting of a granular aggregate of green pyroxene and red garnet, often containing kyanite, silvery mica, quartz, and pyrite.", "S": [], "A": []}

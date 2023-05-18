@@ -1,0 +1,1 @@
+{"index": 50996, "D": "directed toward the center (opposed to centrifugal).", "S": ["combining ", "integrable "], "A": []}

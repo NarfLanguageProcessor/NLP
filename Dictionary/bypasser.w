@@ -1,0 +1,1 @@
+{"index": 34634, "D": "a road enabling motorists to avoid a city or other heavy traffic points or to drive around an obstruction.", "S": [], "A": []}

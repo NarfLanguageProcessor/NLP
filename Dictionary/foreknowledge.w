@@ -1,0 +1,1 @@
+{"index": 116757, "D": "knowledge  of something before it exists or happens; prescience", "S": ["anticipation ", "hunch ", "precognition ", "premonition ", "prescience "], "A": []}

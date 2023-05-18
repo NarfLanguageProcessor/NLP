@@ -1,0 +1,1 @@
+{"index": 117039, "D": "a person who is expert in forestry. ", "S": ["forest manager ", "ranger "], "A": []}

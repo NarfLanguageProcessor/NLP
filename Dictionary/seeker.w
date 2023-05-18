@@ -1,0 +1,1 @@
+{"index": 283115, "D": "a person or thing that seeks.", "S": ["claimant "], "A": []}

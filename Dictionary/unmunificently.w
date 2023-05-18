@@ -1,0 +1,1 @@
+{"index": 346685, "D": "extremely liberal in giving; very generous.", "S": [], "A": []}

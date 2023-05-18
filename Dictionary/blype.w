@@ -1,0 +1,1 @@
+{"index": 36266, "D": "a thin skin or membrane, especially a small piece of skin.", "S": [], "A": []}

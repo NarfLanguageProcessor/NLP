@@ -1,0 +1,1 @@
+{"index": 291389, "D": "Compare Orphism (def. 2). ", "S": [], "A": []}

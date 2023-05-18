@@ -1,0 +1,1 @@
+{"index": 61581, "D": "a North American hawthorn, Crataegus crus-galli, having leathery, toothed leaves and red fruit, cultivated as a small ornamental tree.", "S": [], "A": []}

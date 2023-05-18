@@ -1,0 +1,1 @@
+{"index": 79054, "D": "a representation in Byzantine art of Christ enthroned and flanked by the Virgin Mary and St. John the Baptist, often found on an iconostasis.", "S": [], "A": []}

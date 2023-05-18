@@ -1,0 +1,1 @@
+{"index": 163140, "D": "the tenth letter of the Greek alphabet (K, k).", "S": [], "A": []}

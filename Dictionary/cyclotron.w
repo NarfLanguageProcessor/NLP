@@ -1,0 +1,1 @@
+{"index": 57280, "D": "an accelerator in which particles are propelled in spiral paths by the use of a constant magnetic field.", "S": ["accelerator "], "A": []}

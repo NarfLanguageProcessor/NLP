@@ -1,0 +1,1 @@
+{"index": 221474, "D": "state or character of being susceptible", "S": [], "A": []}

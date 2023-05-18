@@ -1,0 +1,1 @@
+{"index": 307212, "D": "of, pertaining to, similar to, or being the region immediately south of the Arctic Circle; subpolar.", "S": [], "A": []}

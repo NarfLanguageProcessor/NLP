@@ -1,0 +1,1 @@
+{"index": 55168, "D": "any of a class of organic chemical compounds containing a chlorine atom and a hydroxyl group, usually on adjacent carbon atoms.", "S": [], "A": []}

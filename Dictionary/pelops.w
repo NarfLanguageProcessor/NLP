@@ -1,0 +1,1 @@
+{"index": 229385, "D": "a son of Tantalus and Dione, slaughtered by his father and served to the Olympians as food; Hermes restored him to life and he later ruled over southern Greece, which was called Peloponnesus after him.", "S": [], "A": []}

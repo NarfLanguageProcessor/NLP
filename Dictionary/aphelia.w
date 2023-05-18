@@ -1,0 +1,1 @@
+{"index": 16804, "D": "the point in the orbit of a planet or a comet at which it is farthest from the sun.", "S": [], "A": []}

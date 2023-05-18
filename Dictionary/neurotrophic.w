@@ -1,0 +1,1 @@
+{"index": 199275, "D": "of or relating to the effect of nerves on the nutritive processes.", "S": [], "A": []}

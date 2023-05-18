@@ -1,0 +1,1 @@
+{"index": 42660, "D": "(especially in the early 19th century) the driver of a team of oxen.", "S": [], "A": []}

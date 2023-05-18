@@ -1,0 +1,1 @@
+{"index": 234882, "D": "any of a group of enzymes that catalyze the breaking down of phospholipids. ", "S": [], "A": []}

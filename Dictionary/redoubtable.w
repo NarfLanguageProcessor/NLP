@@ -1,0 +1,1 @@
+{"index": 264374, "D": "that is to be feared; formidable. ", "S": ["awesome ", "brave ", "courageous ", "fearful ", "fearsome ", "formidable ", "frightening ", "illustrious ", "imminent ", "terrible ", "valiant "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367701, "D": "good or important enough to justify (what is specified)", "S": [], "A": []}

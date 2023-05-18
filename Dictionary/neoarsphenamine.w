@@ -1,0 +1,1 @@
+{"index": 198295, "D": "a derivative of arsenic formerly used in treating syphilis", "S": [], "A": []}

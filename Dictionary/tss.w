@@ -1,0 +1,1 @@
+{"index": 331801, "D": "toxic shock syndrome.", "S": [], "A": []}

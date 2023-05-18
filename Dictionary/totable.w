@@ -1,0 +1,1 @@
+{"index": 326441, "D": "to carry, as on one's back or in one's arms", "S": [], "A": []}

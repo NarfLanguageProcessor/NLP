@@ -1,0 +1,1 @@
+{"index": 254927, "D": "an irregular or unclassifiable form.", "S": [], "A": []}

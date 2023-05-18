@@ -1,0 +1,1 @@
+{"index": 195986, "D": "the fact or quality of resembling music; melodious or harmonious quality", "S": ["chant ", "lyric ", "music ", "refrain ", "theme "], "A": ["discord "]}

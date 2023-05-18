@@ -1,0 +1,1 @@
+{"index": 258573, "D": "a form of religious mysticism taught by Molinos, a Spanish priest, in the latter part of the 17th century, requiring extinction of the will, withdrawal from worldly interests, and passive meditation on God and divine things; Molinism.", "S": [], "A": []}

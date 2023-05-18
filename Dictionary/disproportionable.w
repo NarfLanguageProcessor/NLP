@@ -1,0 +1,1 @@
+{"index": 89197, "D": "lack of proportion; lack of proper relationship in size, number, etc.", "S": [], "A": []}

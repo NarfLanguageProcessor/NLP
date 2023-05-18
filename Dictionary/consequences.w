@@ -1,0 +1,1 @@
+{"index": 66747, "D": "a game in which each player writes down a part of a story, folds over the paper, and passes it on to another player who continues the story. After several stages, the resulting (nonsensical) stories are read out", "S": ["corollary ", "emanation ", "importance ", "ramification ", "residual ", "residue ", "residuum ", "sequela ", "weight "], "A": ["causes "]}

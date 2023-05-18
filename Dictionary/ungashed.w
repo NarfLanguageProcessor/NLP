@@ -1,0 +1,1 @@
+{"index": 342929, "D": "a long, deep wound or cut; slash. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 54242, "D": "a sheer fabric of silk, nylon, or rayon in plain weave.", "S": ["clear ", "cobweblike ", "delicate ", "filmy ", "flimsy ", "gauzy ", "gossamer ", "light ", "pellucid ", "pure ", "sheer ", "thin ", "translucent ", "transparent "], "A": ["opaque ", "thick "]}

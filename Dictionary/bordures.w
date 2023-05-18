@@ -1,0 +1,1 @@
+{"index": 38396, "D": "the area adjacent to the outer edges of an escutcheon.", "S": [], "A": []}

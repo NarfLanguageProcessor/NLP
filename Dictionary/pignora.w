@@ -1,0 +1,1 @@
+{"index": 236444, "D": "property held as security for a debt.", "S": [], "A": []}

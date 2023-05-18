@@ -1,0 +1,1 @@
+{"index": 265499, "D": "of or relating to a king; royal", "S": ["august ", "glorious ", "imposing ", "kingly ", "magnificent ", "majestic ", "monarchial ", "monarchical ", "noble ", "proud ", "queenly ", "resplendent ", "royal ", "sovereign ", "splendid ", "stately ", "sublime "], "A": ["common "]}

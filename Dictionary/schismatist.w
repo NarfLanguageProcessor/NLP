@@ -1,0 +1,1 @@
+{"index": 280163, "D": "schismatic (def. 2). ", "S": ["protester ", "rebel ", "separatist "], "A": ["yes-man "]}

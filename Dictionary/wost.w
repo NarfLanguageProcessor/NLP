@@ -1,0 +1,1 @@
+{"index": 367726, "D": "the keen perception and cleverly apt expression of those connections between ideas that awaken amusement and pleasure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108910, "D": "a cloth made by weaving, knitting, or felting fibers", "S": ["fiber ", "goods ", "textile ", "texture "], "A": []}

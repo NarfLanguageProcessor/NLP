@@ -1,0 +1,1 @@
+{"index": 86008, "D": "a high explosive, originally consisting of nitroglycerin mixed with an absorbent substance, now with ammonium nitrate usually replacing the nitroglycerin.", "S": [], "A": []}

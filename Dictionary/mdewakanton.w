@@ -1,0 +1,1 @@
+{"index": 181661, "D": "a member of a North American Indian people belonging to the Santee branch of the Dakota.", "S": [], "A": []}

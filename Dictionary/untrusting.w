@@ -1,0 +1,1 @@
+{"index": 353427, "D": "inclined to trust;  confiding; trustful", "S": ["been hit before ", "cagey ", "cautious ", "chary ", "cynical ", "doubtful ", "doubting ", "dubious ", "fearful ", "jealous ", "leery ", "mistrustful ", "skeptical ", "suspicious ", "uneasy ", "uptight ", "wary "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 44837, "D": "bearing a spur or spurs.", "S": [], "A": []}

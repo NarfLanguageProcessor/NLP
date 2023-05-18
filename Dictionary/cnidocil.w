@@ -1,0 +1,1 @@
+{"index": 60785, "D": "a hairlike sensory process projecting from the surface of a cnidoblast, believed to trigger the discharge of the nematocyst.", "S": [], "A": []}

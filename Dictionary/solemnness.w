@@ -1,0 +1,1 @@
+{"index": 296629, "D": "grave, sober, or mirthless, as a person, the face, speech, tone, or mood", "S": ["acuteness ", "concern ", "consequence ", "exigency ", "graveness ", "hazardousness ", "momentousness ", "perilousness ", "sedateness ", "severity ", "significance ", "sobriety ", "solemnity ", "staidness ", "urgency ", "weightiness "], "A": []}

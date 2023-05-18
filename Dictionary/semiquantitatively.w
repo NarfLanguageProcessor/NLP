@@ -1,0 +1,1 @@
+{"index": 284812, "D": "partially quantitative. ", "S": [], "A": []}

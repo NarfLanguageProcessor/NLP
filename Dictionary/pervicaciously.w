@@ -1,0 +1,1 @@
+{"index": 232215, "D": "extremely willful; obstinate; stubborn.", "S": [], "A": []}

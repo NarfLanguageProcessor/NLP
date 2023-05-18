@@ -1,0 +1,1 @@
+{"index": 296111, "D": "social  nature or tendencies as shown in the assembling of individuals in communities.", "S": [], "A": []}

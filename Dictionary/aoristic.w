@@ -1,0 +1,1 @@
+{"index": 16576, "D": "pertaining to the aorist. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12213, "D": "any plant of the genus Anchusa, of the borage family, several species of which are cultivated for their blue or purplish flowers that resemble forget-me-nots.", "S": [], "A": []}

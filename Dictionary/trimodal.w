@@ -1,0 +1,1 @@
+{"index": 330079, "D": "(of a distribution) having three modes.", "S": [], "A": []}

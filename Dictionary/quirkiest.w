@@ -1,0 +1,1 @@
+{"index": 258987, "D": "having or full of quirks. ", "S": ["bizarre ", "idiosyncratic ", "odd ", "off-the-wall ", "peculiar ", "strange ", "unconventional ", "unusual ", "wacky ", "weird "], "A": ["common ", "familiar ", "normal ", "regular ", "standard ", "usual "]}

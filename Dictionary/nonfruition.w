@@ -1,0 +1,1 @@
+{"index": 204205, "D": "attainment of anything desired; realization; accomplishment", "S": [], "A": []}

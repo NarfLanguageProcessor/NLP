@@ -1,0 +1,1 @@
+{"index": 248196, "D": "a speech read or delivered before an audience or class, especially for instruction or to set forth some subject", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194378, "D": "capable of being moved; not fixed in one place, position, or posture.", "S": ["ambulatory ", "mobile ", "motile ", "portable "], "A": ["fixed ", "immovable ", "permanent ", "unmovable "]}

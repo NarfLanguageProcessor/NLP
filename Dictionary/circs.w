@@ -1,0 +1,1 @@
+{"index": 57985, "D": "See circumstance (def. 1)", "S": [], "A": []}

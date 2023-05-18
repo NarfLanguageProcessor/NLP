@@ -1,0 +1,1 @@
+{"index": 291419, "D": "synchroscope. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 286692, "D": "the act of a person or thing that settles. ", "S": ["adjusting ", "atoning ", "balanced ", "balancing "], "A": []}

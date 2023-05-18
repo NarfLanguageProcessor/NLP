@@ -1,0 +1,1 @@
+{"index": 112732, "D": "a person who attends motion-picture showings.", "S": [], "A": []}

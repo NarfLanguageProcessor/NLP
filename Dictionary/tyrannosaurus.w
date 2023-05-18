@@ -1,0 +1,1 @@
+{"index": 324465, "D": "any large carnivorous bipedal dinosaur of the genus Tyrannosaurus, common in North America in upper Jurassic and Cretaceous times", "S": [], "A": []}

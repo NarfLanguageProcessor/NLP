@@ -1,0 +1,1 @@
+{"index": 199864, "D": "reluctant to give or spend; stingy; miserly.", "S": [], "A": []}

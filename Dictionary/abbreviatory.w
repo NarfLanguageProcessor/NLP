@@ -1,0 +1,1 @@
+{"index": 230, "D": "serving to abbreviate  or shorten", "S": [], "A": []}

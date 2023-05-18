@@ -1,0 +1,1 @@
+{"index": 123289, "D": "a cabbalistic system of interpretation of the Scriptures by substituting for a particular word another word whose letters give the same numerical sum.", "S": [], "A": []}

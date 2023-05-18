@@ -1,0 +1,1 @@
+{"index": 315792, "D": "a variant spelling of thalweg", "S": [], "A": []}

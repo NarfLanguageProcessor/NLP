@@ -1,0 +1,1 @@
+{"index": 67705, "D": "the quality or state of being contrary.", "S": ["antithesis ", "contradiction ", "contradistinction ", "contrariness ", "contrast ", "oppositeness ", "polarity "], "A": ["agreement "]}

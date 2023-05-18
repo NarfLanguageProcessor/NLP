@@ -1,0 +1,1 @@
+{"index": 366101, "D": "a machine in which the juice from grapes is pressed for wine.", "S": [], "A": []}

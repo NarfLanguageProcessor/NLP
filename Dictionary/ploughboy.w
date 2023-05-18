@@ -1,0 +1,1 @@
+{"index": 240236, "D": "a boy who guides the animals drawing a plough", "S": [], "A": []}

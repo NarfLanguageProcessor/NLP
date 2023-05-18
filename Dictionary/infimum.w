@@ -1,0 +1,1 @@
+{"index": 152012, "D": "greatest lower bound. Abbreviation", "S": [], "A": []}

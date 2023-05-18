@@ -1,0 +1,1 @@
+{"index": 289745, "D": "to fertilize (growing plants) by mixing fertilizer into the soil along each row.", "S": [], "A": []}

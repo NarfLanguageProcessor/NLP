@@ -1,0 +1,1 @@
+{"index": 90606, "D": [], "S": ["easygoing ", "gentle ", "laid-back ", "meek ", "obedient ", "pliable ", "pliant ", "well-behaved "], "A": ["determined ", "headstrong ", "inflexible ", "intractable ", "obstinate ", "opinionated ", "stubborn ", "uncooperative ", "unyielding "]}

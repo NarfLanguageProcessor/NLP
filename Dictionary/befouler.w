@@ -1,0 +1,1 @@
+{"index": 30523, "D": "to make dirty or filthy; soil; defile; sully", "S": [], "A": []}

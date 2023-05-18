@@ -1,0 +1,1 @@
+{"index": 28924, "D": "displaying or characterized by bathos", "S": [], "A": []}

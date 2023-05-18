@@ -1,0 +1,1 @@
+{"index": 130676, "D": "any of several tropical American trees or shrubs belonging to the genus Guaiacum of the caltrop family; lignum vitae. ", "S": [], "A": []}

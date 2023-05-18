@@ -1,0 +1,1 @@
+{"index": 27835, "D": "a steel helmet of the 15th century completely enclosing the head and having a T-shaped face slit", "S": [], "A": []}

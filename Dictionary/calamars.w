@@ -1,0 +1,1 @@
+{"index": 44733, "D": "a squid, especially of the genus Loligo.", "S": [], "A": []}

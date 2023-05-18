@@ -1,0 +1,1 @@
+{"index": 247094, "D": "great pain, anxiety, or sorrow; acute physical or mental suffering; affliction; trouble", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344007, "D": "having or consisting of a single cell.", "S": [], "A": []}

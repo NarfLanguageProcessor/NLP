@@ -1,0 +1,1 @@
+{"index": 262862, "D": "the act of receiving", "S": ["acceptance ", "accession ", "acquiring ", "acquisition ", "admission ", "admitting ", "arrival ", "getting ", "receiving ", "reception ", "taking "], "A": ["disagreement ", "refusal ", "repudiation "]}

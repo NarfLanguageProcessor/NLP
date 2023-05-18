@@ -1,0 +1,1 @@
+{"index": 39989, "D": "the quality or condition of being tactless, rash, or offensively bold", "S": ["boldness "], "A": ["humility ", "manners ", "meekness ", "modesty ", "politeness ", "respect ", "shyness ", "timidity "]}

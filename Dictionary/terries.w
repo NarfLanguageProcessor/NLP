@@ -1,0 +1,1 @@
+{"index": 319575, "D": "the loop formed by the pile of a fabric when left uncut.", "S": [], "A": []}

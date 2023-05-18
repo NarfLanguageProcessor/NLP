@@ -1,0 +1,1 @@
+{"index": 256907, "D": "in a pure  manner; without admixture.", "S": ["altogether ", "completely ", "entirely ", "essentially ", "exactly ", "exclusively ", "merely ", "plainly ", "quite ", "solely ", "totally ", "utterly ", "wholly "], "A": ["incompletely ", "partially ", "partly "]}

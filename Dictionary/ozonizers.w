@@ -1,0 +1,1 @@
+{"index": 222519, "D": "an apparatus for converting oxygen into ozone.", "S": [], "A": []}

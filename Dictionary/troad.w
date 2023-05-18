@@ -1,0 +1,1 @@
+{"index": 330867, "D": "a region in NW Asia Minor surrounding ancient Troy.", "S": [], "A": []}

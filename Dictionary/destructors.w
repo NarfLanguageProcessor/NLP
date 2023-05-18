@@ -1,0 +1,1 @@
+{"index": 82990, "D": "a furnace for the burning of refuse; incinerator.", "S": [], "A": []}

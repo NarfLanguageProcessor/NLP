@@ -1,0 +1,1 @@
+{"index": 221862, "D": "to pass, spend, or survive the winter", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202448, "D": "an act or instance of continuing; continuation", "S": [], "A": []}

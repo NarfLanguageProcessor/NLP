@@ -1,0 +1,1 @@
+{"index": 126855, "D": "any of a number of polysaccharides that yield glucose upon hydrolysis.", "S": [], "A": []}

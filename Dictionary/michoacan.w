@@ -1,0 +1,1 @@
+{"index": 185775, "D": "a state in SW Mexico. 23,196 sq. mi. (60,080 sq. km). Capital", "S": [], "A": []}

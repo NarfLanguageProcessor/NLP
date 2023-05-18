@@ -1,0 +1,1 @@
+{"index": 266238, "D": "anything serving to indicate  or point out, as a sign or token.", "S": [], "A": []}

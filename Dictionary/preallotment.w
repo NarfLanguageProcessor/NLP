@@ -1,0 +1,1 @@
+{"index": 245661, "D": "an allotment  given in advance.", "S": [], "A": []}

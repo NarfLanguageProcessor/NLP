@@ -1,0 +1,1 @@
+{"index": 241429, "D": "any of numerous and usually toxic plants of the genus Phytolacca, including P. americana, of North America, having juicy purple berries and a purple root used in folk medicine, and young shoots resembling asparagus", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 329942, "D": "a situation, analogous to a dilemma,  in which there are three almost equally undesirable alternatives", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144440, "D": "without a house or houses", "S": [], "A": []}

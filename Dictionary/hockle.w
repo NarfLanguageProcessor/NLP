@@ -1,0 +1,1 @@
+{"index": 142163, "D": "(of a rope) to have the yarns spread and kinked through twisting in use.", "S": [], "A": []}

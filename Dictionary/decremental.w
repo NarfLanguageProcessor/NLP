@@ -1,0 +1,1 @@
+{"index": 78747, "D": "the act or process of decreasing; gradual reduction.", "S": [], "A": []}

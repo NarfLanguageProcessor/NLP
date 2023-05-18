@@ -1,0 +1,1 @@
+{"index": 20906, "D": "any parasitic roundworm of the genus Ascaris, found in the human small intestine and causing colic and diarrhea.", "S": [], "A": []}

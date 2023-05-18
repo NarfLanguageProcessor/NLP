@@ -1,0 +1,1 @@
+{"index": 328984, "D": [], "S": ["alarm ", "amazement ", "anxiety ", "awe ", "bewilderment ", "confusion ", "dread ", "fright ", "horror ", "panic ", "perplexity ", "terror ", "trepidation "], "A": ["assurance ", "beauty ", "calm ", "calmness ", "composure ", "confidence ", "contentment ", "coolness ", "happiness ", "peace ", "security ", "expectation "]}

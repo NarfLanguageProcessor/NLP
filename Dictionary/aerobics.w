@@ -1,0 +1,1 @@
+{"index": 4957, "D": "any of various sustained exercises, as jogging, rowing, swimming, or cycling, that stimulate and strengthen the heart and lungs, thereby improving the body's utilization of oxygen.", "S": ["aquarobics ", "dance workout ", "drill ", "exercise ", "high impact ", "low impact ", "slimnastics ", "step ", "warm-up ", "workout "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75172, "D": "a variant spelling of currach", "S": [], "A": []}

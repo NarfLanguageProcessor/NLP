@@ -1,0 +1,1 @@
+{"index": 87599, "D": "being at variance; disagreeing; incongruous", "S": ["cacophonous ", "clashing ", "dissonant ", "divergent ", "jarring ", "strident "], "A": ["similar "]}

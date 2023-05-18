@@ -1,0 +1,1 @@
+{"index": 98882, "D": "display of cordiality.", "S": ["affection ", "compassion ", "enthusiasm ", "fervor ", "glow ", "hospitality ", "kindness ", "passion ", "spirit "], "A": ["apathy ", "coolness ", "cruelty ", "dislike ", "harshness ", "hate ", "hatred ", "indifference ", "meanness "]}

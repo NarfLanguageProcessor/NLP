@@ -1,0 +1,1 @@
+{"index": 244736, "D": "a vase or jar, as of porcelain, with a rounded or polygonal body narrowing at the top.", "S": [], "A": []}

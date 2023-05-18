@@ -1,0 +1,1 @@
+{"index": 226375, "D": "of or relating to a parent. ", "S": [], "A": []}

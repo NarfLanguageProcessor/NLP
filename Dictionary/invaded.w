@@ -1,0 +1,1 @@
+{"index": 156998, "D": "to enter forcefully as an enemy; go into with hostile intent", "S": ["assailed ", "bombarded ", "bombed ", "stormed "], "A": []}

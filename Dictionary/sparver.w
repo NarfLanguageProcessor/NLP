@@ -1,0 +1,1 @@
+{"index": 298538, "D": "a tentlike bed curtain or canopy.", "S": [], "A": []}

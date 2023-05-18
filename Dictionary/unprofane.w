@@ -1,0 +1,1 @@
+{"index": 348549, "D": "characterized by irreverence or contempt for God or sacred principles or things; irreligious.", "S": ["adored ", "beatified ", "consecrated ", "divine ", "enthroned ", "exalted ", "glorified ", "hallowed ", "redeemed ", "resurrected ", "revered ", "rewarded ", "saved "], "A": ["cursed "]}

@@ -1,0 +1,1 @@
+{"index": 165284, "D": "any of several flightless, ratite birds of the genus Apteryx, of New Zealand, allied to the extinct moas.", "S": [], "A": []}

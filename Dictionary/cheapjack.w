@@ -1,0 +1,1 @@
+{"index": 53273, "D": "a peddler, especially of inferior articles.", "S": [], "A": []}

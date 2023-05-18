@@ -1,0 +1,1 @@
+{"index": 31158, "D": "a person who is employed, especially by a hotel, to carry guests' luggage, run errands, etc.", "S": ["attendant ", "bellboy ", "bellman ", "porter ", "steward "], "A": []}

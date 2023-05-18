@@ -1,0 +1,1 @@
+{"index": 325864, "D": "the light upper sails and their gear and spars, sometimes used to refer to all spars and gear above the deck.", "S": [], "A": []}

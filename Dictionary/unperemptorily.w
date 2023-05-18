@@ -1,0 +1,1 @@
+{"index": 347694, "D": "in a way that leaves no opportunity for denial or refusal", "S": [], "A": []}

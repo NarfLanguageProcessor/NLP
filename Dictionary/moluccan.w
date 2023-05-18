@@ -1,0 +1,1 @@
+{"index": 191621, "D": "a group of islands in Indonesia, between Sulawesi (Celebes) and New Guinea. About 30,000 sq. mi. (78,000 sq. km).", "S": [], "A": []}

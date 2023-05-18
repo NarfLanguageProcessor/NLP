@@ -1,0 +1,1 @@
+{"index": 337745, "D": "having a condition of the bowels in which the feces are dry and hardened and evacuation is difficult and infrequent", "S": [], "A": []}

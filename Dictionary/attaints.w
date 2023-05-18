@@ -1,0 +1,1 @@
+{"index": 22968, "D": "to condemn by a sentence or a bill or act of attainder.", "S": ["blemish ", "blot ", "disgrace ", "dishonor ", "shame ", "spot ", "taint ", "tarnish "], "A": ["esteem ", "honor ", "respect "]}

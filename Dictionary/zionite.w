@@ -1,0 +1,1 @@
+{"index": 369495, "D": "a worldwide Jewish movement that resulted in the establishment and development of the state of Israel and that now supports the state of Israel as a Jewish homeland.", "S": [], "A": []}

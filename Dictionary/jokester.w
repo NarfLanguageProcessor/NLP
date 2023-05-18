@@ -1,0 +1,1 @@
+{"index": 161681, "D": "a joker, especially a practical joker.", "S": ["jester ", "prankster ", "trickster "], "A": []}

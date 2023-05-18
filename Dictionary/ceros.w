@@ -1,0 +1,1 @@
+{"index": 51544, "D": "a large Atlantic and Gulf Coast game fish, Scomberomorus regalis, of the mackerel family.", "S": [], "A": []}

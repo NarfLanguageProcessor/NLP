@@ -1,0 +1,1 @@
+{"index": 342344, "D": "not easily upset or confused, especially in a crisis; imperturbable.", "S": ["aplomb ", "collectedness ", "composure ", "coolness ", "equanimity ", "imperturbability ", "imperturbableness ", "nonchalance ", "poise ", "sang-froid ", "self-control ", "self-possession ", "stability ", "steadfastness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80192, "D": "the carrying and turning over of letters, goods, etc., to a designated recipient or recipients.", "S": ["consignment ", "distribution ", "shipment ", "transmission "], "A": ["capture ", "confinement ", "hold ", "imprisonment ", "keeping ", "quiet ", "restraint ", "retention ", "secrecy "]}

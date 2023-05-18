@@ -1,0 +1,1 @@
+{"index": 319383, "D": "a person or thing that terminates. ", "S": [], "A": []}

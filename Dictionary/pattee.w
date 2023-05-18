@@ -1,0 +1,1 @@
+{"index": 228007, "D": "(of a cross) having triangular arms widening outwards", "S": [], "A": []}

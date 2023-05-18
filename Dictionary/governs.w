@@ -1,0 +1,1 @@
+{"index": 128404, "D": "to rule over by right of authority", "S": ["administer ", "carry out ", "conduct ", "control ", "dictate ", "guide ", "manage ", "oversee ", "regulate ", "supervise "], "A": ["abandon ", "leave ", "mismanage ", "neglect ", "fail ", "follow ", "obey ", "serve "]}

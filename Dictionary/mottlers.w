@@ -1,0 +1,1 @@
+{"index": 194114, "D": "to mark or diversify with spots or blotches of a different color or shade.", "S": [], "A": []}

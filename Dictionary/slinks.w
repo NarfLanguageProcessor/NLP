@@ -1,0 +1,1 @@
+{"index": 294139, "D": "to move or go in a furtive, abject manner, as from fear, cowardice, or shame.", "S": ["coast ", "cower ", "glide ", "glissade ", "go stealthily ", "gumshoe ", "lurk ", "meander ", "pass quietly ", "prowl ", "pussyfoot ", "shirk ", "sidle ", "skitter ", "skulk ", "slick ", "slide ", "slip ", "snake ", "sneak ", "steal ", "undulate "], "A": []}

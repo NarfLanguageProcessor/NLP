@@ -1,0 +1,1 @@
+{"index": 250732, "D": "the office, rank, or term of office of a prior.", "S": ["nunnery "], "A": []}

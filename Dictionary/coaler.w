@@ -1,0 +1,1 @@
+{"index": 60962, "D": "a railroad, ship, etc., used mainly to haul or supply coal. ", "S": ["brunet ", "charcoal ", "coal ", "ebony ", "jet ", "jetty ", "obsidian ", "pitch ", "raven ", "sable ", "slate ", "sloe "], "A": ["white "]}

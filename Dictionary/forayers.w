@@ -1,0 +1,1 @@
+{"index": 116313, "D": "a quick raid, usually for the purpose of taking plunder", "S": [], "A": []}

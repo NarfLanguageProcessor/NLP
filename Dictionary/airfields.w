@@ -1,0 +1,1 @@
+{"index": 6902, "D": "a level area, usually equipped with hard-surfaced runways, on which airplanes take off and land.", "S": ["airstrip ", "installation ", "runway "], "A": []}

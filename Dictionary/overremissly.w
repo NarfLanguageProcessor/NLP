@@ -1,0 +1,1 @@
+{"index": 220836, "D": "negligent, careless, or slow in performing one's duty, business, etc.", "S": [], "A": []}

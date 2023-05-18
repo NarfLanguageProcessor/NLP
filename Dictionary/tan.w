@@ -1,0 +1,1 @@
+{"index": 315967, "D": "to convert (a hide) into leather, especially by soaking or steeping in a bath prepared from tanbark  or synthetically.", "S": ["beige ", "brownish ", "drab ", "khaki "], "A": []}

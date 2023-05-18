@@ -1,0 +1,1 @@
+{"index": 90126, "D": "producing two young or laying two eggs at a time.", "S": [], "A": []}

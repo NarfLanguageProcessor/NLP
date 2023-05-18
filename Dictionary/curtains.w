@@ -1,0 +1,1 @@
+{"index": 75499, "D": "if the enemy see us it will be curtains for us", "S": ["death ", "exit ", "extinction ", "taps "], "A": []}

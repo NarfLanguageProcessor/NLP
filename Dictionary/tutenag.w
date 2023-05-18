@@ -1,0 +1,1 @@
+{"index": 333066, "D": "a nickel silver containing about 45 percent copper, with varying proportions of nickel and zinc and often smaller amounts of other metals.", "S": [], "A": []}

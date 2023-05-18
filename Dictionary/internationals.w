@@ -1,0 +1,1 @@
+{"index": 155479, "D": "between or among nations; involving two or more nations", "S": [], "A": []}

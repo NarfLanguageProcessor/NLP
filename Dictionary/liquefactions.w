@@ -1,0 +1,1 @@
+{"index": 173277, "D": "the act or process of liquefying  or making liquid. ", "S": ["condensate "], "A": ["dryness "]}

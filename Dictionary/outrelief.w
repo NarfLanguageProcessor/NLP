@@ -1,0 +1,1 @@
+{"index": 217263, "D": "public relief administered to people residing in a poorhouse or similar institution.", "S": [], "A": []}

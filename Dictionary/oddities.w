@@ -1,0 +1,1 @@
+{"index": 211205, "D": "an odd  or remarkably unusual person, thing, or event.", "S": ["anomaly ", "characteristic ", "curiosity ", "idiosyncrasy ", "incongruity ", "irregularity ", "peculiarity ", "phenomenon ", "quirk ", "rarity "], "A": ["normality ", "regularity ", "usualness ", "commonality ", "normalcy "]}

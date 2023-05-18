@@ -1,0 +1,1 @@
+{"index": 82522, "D": "justly or rightly earned; merited", "S": [], "A": []}

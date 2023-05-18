@@ -1,0 +1,1 @@
+{"index": 216779, "D": "a rope used for hauling  out a sail on a boom, yard, etc.", "S": [], "A": []}

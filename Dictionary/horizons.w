@@ -1,0 +1,1 @@
+{"index": 143790, "D": "the line or circle that forms the apparent boundary between earth and sky.", "S": ["boundary ", "perspective ", "prospect ", "scope "], "A": []}

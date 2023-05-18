@@ -1,0 +1,1 @@
+{"index": 326816, "D": "a thickly populated area, usually smaller than a city and larger than a village, having fixed boundaries and certain local powers of government.", "S": [], "A": []}

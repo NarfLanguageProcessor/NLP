@@ -1,0 +1,1 @@
+{"index": 157527, "D": "containing iodine, especially in the trivalent state.", "S": [], "A": []}

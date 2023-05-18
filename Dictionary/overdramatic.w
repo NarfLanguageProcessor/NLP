@@ -1,0 +1,1 @@
+{"index": 219065, "D": "of or relating to the drama. ", "S": ["theatrical "], "A": ["calm ", "normal "]}

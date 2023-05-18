@@ -1,0 +1,1 @@
+{"index": 255505, "D": "the use of psychological techniques for controlling and modifying human behavior, especially for practical ends.", "S": [], "A": []}

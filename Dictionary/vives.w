@@ -1,0 +1,1 @@
+{"index": 360747, "D": "inflammation and swelling of the submaxillary gland in horses.", "S": [], "A": []}

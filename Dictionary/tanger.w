@@ -1,0 +1,1 @@
+{"index": 316036, "D": "a seaport in N Morocco, on the W Strait of Gibraltar", "S": [], "A": []}

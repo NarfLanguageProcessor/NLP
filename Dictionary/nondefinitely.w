@@ -1,0 +1,1 @@
+{"index": 202801, "D": "clearly defined  or determined; not vague or general; fixed; precise; exact", "S": [], "A": []}

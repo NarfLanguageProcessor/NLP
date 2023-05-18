@@ -1,0 +1,1 @@
+{"index": 345072, "D": "the state of being one; oneness.", "S": ["agreement ", "consensus ", "harmony ", "identity ", "integrity ", "peace ", "solidarity ", "unanimity ", "unification "], "A": ["disagreement ", "fighting ", "antagonism ", "denial ", "difference ", "discord ", "dissension ", "disunion ", "division ", "divorce ", "opposition ", "refusal ", "separation "]}

@@ -1,0 +1,1 @@
+{"index": 313015, "D": "to furnish or provide (a person, establishment, place, etc.) with what is lacking or requisite", "S": ["economic ", "financial ", "monetary ", "profit-making ", "profitable ", "wholesale "], "A": ["not-for-profit "]}

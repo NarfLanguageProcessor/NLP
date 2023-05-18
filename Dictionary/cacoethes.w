@@ -1,0 +1,1 @@
+{"index": 44170, "D": "an irresistible urge; mania. ", "S": [], "A": []}

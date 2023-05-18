@@ -1,0 +1,1 @@
+{"index": 67975, "D": "adherence to or advocacy of conventional  attitudes or practices.", "S": ["method ", "policy ", "practice ", "rite ", "rule ", "style ", "system "], "A": ["disorganization ", "heedlessness ", "neglect ", "thoughtlessness "]}

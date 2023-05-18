@@ -1,0 +1,1 @@
+{"index": 306554, "D": "a mineral, strontium carbonate, SrCO3, occurring in radiating, fibrous, or granular aggregates and crystals, varying from white to yellow and pale green", "S": [], "A": []}

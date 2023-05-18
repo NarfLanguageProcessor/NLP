@@ -1,0 +1,1 @@
+{"index": 27936, "D": "a person who frequents barrooms.", "S": ["substance abuser "], "A": []}

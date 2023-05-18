@@ -1,0 +1,1 @@
+{"index": 140556, "D": "characterized by or causing high blood pressure.", "S": [], "A": []}

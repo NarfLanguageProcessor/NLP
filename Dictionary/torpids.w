@@ -1,0 +1,1 @@
+{"index": 326216, "D": "inactive or sluggish.", "S": [], "A": []}

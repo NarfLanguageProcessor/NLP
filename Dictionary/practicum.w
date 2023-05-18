@@ -1,0 +1,1 @@
+{"index": 245099, "D": "(in a college or university) the part of a course consisting of practical work in a particular field.", "S": [], "A": []}

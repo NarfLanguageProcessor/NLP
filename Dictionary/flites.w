@@ -1,0 +1,1 @@
+{"index": 114750, "D": "to dispute; wrangle; scold; jeer. ", "S": [], "A": []}

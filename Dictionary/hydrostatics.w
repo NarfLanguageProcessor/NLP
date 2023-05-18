@@ -1,0 +1,1 @@
+{"index": 138969, "D": "the branch of hydrodynamics that deals with the statics of fluids, usually confined to the equilibrium and pressure of liquids.", "S": [], "A": []}

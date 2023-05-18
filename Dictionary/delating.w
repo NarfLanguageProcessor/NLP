@@ -1,0 +1,1 @@
+{"index": 79945, "D": "to inform against; denounce or accuse.", "S": [], "A": []}

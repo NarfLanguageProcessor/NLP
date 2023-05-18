@@ -1,0 +1,1 @@
+{"index": 343479, "D": "to take the hand  or hands  from; release from a grasp; let go", "S": [], "A": []}

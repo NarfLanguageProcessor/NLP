@@ -1,0 +1,1 @@
+{"index": 8149, "D": "a set of rules for solving a problem in a finite number of steps, such as the Euclidean algorithm  for finding the greatest common divisor.", "S": ["analytical ", "numerical ", "scientific "], "A": []}

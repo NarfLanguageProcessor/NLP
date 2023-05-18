@@ -1,0 +1,1 @@
+{"index": 288089, "D": "a variant spelling of sharia", "S": [], "A": []}

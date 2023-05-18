@@ -1,0 +1,1 @@
+{"index": 286940, "D": "consisting of six parts; sexpartite.", "S": [], "A": []}

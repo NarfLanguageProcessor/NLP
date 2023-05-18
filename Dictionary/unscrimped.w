@@ -1,0 +1,1 @@
+{"index": 350556, "D": "to be sparing or frugal; economize (often followed by on)", "S": [], "A": []}

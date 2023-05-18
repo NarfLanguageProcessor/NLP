@@ -1,0 +1,1 @@
+{"index": 84843, "D": "pertaining to or involving two colors only", "S": [], "A": []}

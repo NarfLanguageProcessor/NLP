@@ -1,0 +1,1 @@
+{"index": 355410, "D": "the way of life characteristic of cities.", "S": [], "A": []}

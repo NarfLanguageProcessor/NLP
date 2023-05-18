@@ -1,0 +1,1 @@
+{"index": 362565, "D": "a person who guards something, as a doorkeeper or caretaker.", "S": [], "A": []}

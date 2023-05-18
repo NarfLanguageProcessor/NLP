@@ -1,0 +1,1 @@
+{"index": 275403, "D": "wrinkle; rugose.", "S": [], "A": []}

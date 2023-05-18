@@ -1,0 +1,1 @@
+{"index": 73538, "D": "a native or inhabitant of Croatia; Croatian.", "S": [], "A": []}

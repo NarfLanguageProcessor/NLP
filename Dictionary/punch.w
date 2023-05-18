@@ -1,0 +1,1 @@
+{"index": 256551, "D": "a thrusting blow, especially with the fist.", "S": ["blow ", "jab ", "shot ", "slap ", "stroke "], "A": ["compliment ", "flattery ", "praise "]}

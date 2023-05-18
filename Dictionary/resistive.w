@@ -1,0 +1,1 @@
+{"index": 269519, "D": "capable of or inclined to resistance;  resisting.", "S": ["immune ", "impervious ", "insusceptible ", "invulnerable ", "proof ", "protected ", "renitent ", "repellent ", "resisting ", "unsusceptible "], "A": []}

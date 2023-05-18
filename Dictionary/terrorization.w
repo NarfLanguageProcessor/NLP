@@ -1,0 +1,1 @@
+{"index": 319631, "D": "to fill or overcome with terror. ", "S": ["ambush ", "arm-twisting ", "bullying ", "coercion ", "duress ", "force ", "intimidation ", "persuasion ", "pressure ", "reign of terror ", "strong-arm tactics ", "terrorism ", "threat "], "A": []}

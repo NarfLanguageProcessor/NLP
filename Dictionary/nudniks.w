@@ -1,0 +1,1 @@
+{"index": 209433, "D": "a persistently dull, boring pest.", "S": ["headache ", "nuisance ", "pain in the butt ", "pain in the rear ", "pest ", "schmo "], "A": []}

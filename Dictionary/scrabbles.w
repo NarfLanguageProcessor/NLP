@@ -1,0 +1,1 @@
+{"index": 281502, "D": "to scratch or scrape, as with the claws or hands.", "S": ["scuffle ", "skirmish "], "A": ["peace "]}

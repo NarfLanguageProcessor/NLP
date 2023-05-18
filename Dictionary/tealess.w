@@ -1,0 +1,1 @@
+{"index": 317476, "D": "the dried and prepared leaves of a shrub, Camellia sinensis, from which a somewhat bitter, aromatic beverage is prepared by infusion in hot water.", "S": [], "A": []}

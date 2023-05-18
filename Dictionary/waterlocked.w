@@ -1,0 +1,1 @@
+{"index": 363191, "D": "enclosed entirely, or almost entirely, by water", "S": [], "A": []}

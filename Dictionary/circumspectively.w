@@ -1,0 +1,1 @@
+{"index": 58240, "D": "given to or marked by circumspection; watchful; cautious", "S": [], "A": []}

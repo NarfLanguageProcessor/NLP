@@ -1,0 +1,1 @@
+{"index": 53787, "D": "a division of applied chemistry concerned with the industrial use of organic substances, especially substances obtained from farm produce, as soybeans or peanuts.", "S": [], "A": []}

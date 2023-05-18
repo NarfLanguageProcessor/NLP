@@ -1,0 +1,1 @@
+{"index": 11335, "D": "of the nature of enlargement or extension, as of a statement, narrative, etc.", "S": [], "A": []}

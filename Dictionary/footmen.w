@@ -1,0 +1,1 @@
+{"index": 116215, "D": "a liveried servant who attends the door or carriage, waits on table, etc.", "S": ["drudge ", "gofer ", "lackey ", "servant ", "steward "], "A": []}

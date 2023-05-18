@@ -1,0 +1,1 @@
+{"index": 276358, "D": "devoted or dedicated to a deity or to some religious purpose; consecrated. ", "S": ["cherished ", "divine ", "hallowed ", "religious ", "revered ", "solemn ", "spiritual "], "A": ["irreligious "]}

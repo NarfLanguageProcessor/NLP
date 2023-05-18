@@ -1,0 +1,1 @@
+{"index": 344402, "D": "embodied in flesh; given a bodily, especially a human, form", "S": [], "A": []}

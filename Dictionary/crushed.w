@@ -1,0 +1,1 @@
+{"index": 74272, "D": "to press or squeeze with a force that destroys or deforms.", "S": ["bewildered ", "bugged ", "chagrined ", "confounded ", "confused ", "discombobulated ", "disconcerted ", "embarrassed ", "fazed ", "fuddled ", "humbled ", "humiliated ", "mortified ", "rattled ", "shamed "], "A": ["clear ", "oriented ", "understanding "]}

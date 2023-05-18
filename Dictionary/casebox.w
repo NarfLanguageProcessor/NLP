@@ -1,0 +1,1 @@
+{"index": 48797, "D": "a device, similar to an abacus, for recording the cards as they are drawn from the dealing box. ", "S": [], "A": []}

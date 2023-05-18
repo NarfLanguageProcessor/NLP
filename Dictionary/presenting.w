@@ -1,0 +1,1 @@
+{"index": 249375, "D": "being, existing, or occurring at this time or now; current", "S": ["displaying ", "headlining ", "highlighting ", "promoting ", "pushing ", "recommending ", "showing ", "starring ", "turning "], "A": []}

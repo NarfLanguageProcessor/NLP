@@ -1,0 +1,1 @@
+{"index": 200557, "D": "a transuranic element in the actinium series. Symbol", "S": [], "A": []}

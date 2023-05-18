@@ -1,0 +1,1 @@
+{"index": 10769, "D": "to combine or impregnate with ammonia. ", "S": [], "A": []}

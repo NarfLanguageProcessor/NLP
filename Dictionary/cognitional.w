@@ -1,0 +1,1 @@
+{"index": 62273, "D": "the act or process of knowing; perception.", "S": [], "A": []}

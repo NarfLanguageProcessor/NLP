@@ -1,0 +1,1 @@
+{"index": 246926, "D": "of or relating to preaching.", "S": [], "A": []}

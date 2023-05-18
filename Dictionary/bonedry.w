@@ -1,0 +1,1 @@
+{"index": 37844, "D": "very dry. ", "S": ["barren ", "bone-dry ", "desert ", "dusty ", "parched "], "A": ["fertile ", "productive "]}

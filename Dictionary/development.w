@@ -1,0 +1,1 @@
+{"index": 83493, "D": "the act or process of developing;  growth; progress", "S": ["advancement ", "evolution ", "expansion ", "improvement ", "increase ", "progress "], "A": ["decline ", "decrease ", "halt ", "retreat ", "retrogression ", "stoppage ", "lessening ", "reduction ", "shrinkage ", "stagnation ", "withdrawal "]}

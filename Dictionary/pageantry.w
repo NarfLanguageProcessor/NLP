@@ -1,0 +1,1 @@
+{"index": 222995, "D": "spectacular display; pomp", "S": ["grandeur ", "magnificence ", "pageant ", "pomp ", "spectacle ", "splendor "], "A": ["dullness ", "insignificance ", "ordinariness ", "simplicity "]}

@@ -1,0 +1,1 @@
+{"index": 302314, "D": "a single step or degree in a process; a particular phase, period, position, etc., in a process, development, or series.", "S": ["lap ", "leg ", "moment ", "phase ", "point ", "standing ", "step "], "A": []}

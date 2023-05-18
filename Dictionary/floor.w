@@ -1,0 +1,1 @@
+{"index": 114931, "D": "that part of a room, hallway, or the like, that forms its lower enclosing surface and upon which one walks.", "S": ["basement ", "canvas ", "carpet ", "deck ", "flooring ", "ground ", "mat ", "rug ", "stage "], "A": ["ceiling "]}

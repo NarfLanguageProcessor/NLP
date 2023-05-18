@@ -1,0 +1,1 @@
+{"index": 60552, "D": "having no clouds; clear", "S": [], "A": []}

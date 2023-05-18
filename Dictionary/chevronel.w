@@ -1,0 +1,1 @@
+{"index": 54017, "D": "a narrow chevron, one-half the usual breadth or less.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55496, "D": "capable of blocking the action of acetylcholine and related compounds.", "S": [], "A": []}

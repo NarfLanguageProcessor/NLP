@@ -1,0 +1,1 @@
+{"index": 316175, "D": "a German lyric poet of the 13th century", "S": [], "A": []}

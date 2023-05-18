@@ -1,0 +1,1 @@
+{"index": 127982, "D": "the edible, acid, globular, sometimes spiny fruit of certain prickly shrubs belonging to the genus Ribes, of the saxifrage family, especially R. uva-crispa (or R. grossularia).", "S": [], "A": []}

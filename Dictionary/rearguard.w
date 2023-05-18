@@ -1,0 +1,1 @@
+{"index": 261949, "D": "of or relating to a rear guard.", "S": ["back ", "back door ", "back end ", "backside ", "bottom ", "butt ", "rear end ", "tail "], "A": ["front "]}

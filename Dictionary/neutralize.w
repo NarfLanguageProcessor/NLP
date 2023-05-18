@@ -1,0 +1,1 @@
+{"index": 199310, "D": "to make neutral;  cause to undergo neutralization. ", "S": ["compensate for ", "counterbalance ", "negate ", "nullify ", "offset ", "overcome ", "redress ", "subdue "], "A": ["aid ", "approve ", "encourage ", "establish ", "give up ", "help ", "lose ", "permit ", "support ", "surrender ", "validate "]}

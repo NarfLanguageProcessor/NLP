@@ -1,0 +1,1 @@
+{"index": 196616, "D": "to say nay to; deny; reject; oppose.", "S": [], "A": []}

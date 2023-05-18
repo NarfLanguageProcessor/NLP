@@ -1,0 +1,1 @@
+{"index": 228717, "D": [], "S": ["affluent ", "independent ", "moneyed ", "prosperous ", "upscale ", "well-heeled ", "well-off ", "well-to-do "], "A": ["destitute ", "poor "]}

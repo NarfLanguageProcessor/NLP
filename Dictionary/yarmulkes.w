@@ -1,0 +1,1 @@
+{"index": 145771, "D": "a skullcap worn by Orthodox Jewish males, also worn by most Conservative and some Reform Jewish males during prayer.", "S": [], "A": []}

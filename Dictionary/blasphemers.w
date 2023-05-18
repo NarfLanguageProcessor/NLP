@@ -1,0 +1,1 @@
+{"index": 35770, "D": "a person who speaks irreverently of God or sacred things", "S": [], "A": []}

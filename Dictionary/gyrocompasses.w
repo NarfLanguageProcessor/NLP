@@ -1,0 +1,1 @@
+{"index": 125557, "D": "a navigational compass  containing a gyroscope  rotor, that, when adjusted for the latitude and speed of the vessel or aircraft, indicates the direction of true north along the surface of the earth or communicates this information to one or more gyro repeaters.", "S": [], "A": []}

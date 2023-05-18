@@ -1,0 +1,1 @@
+{"index": 50257, "D": "to prance or caper about.", "S": [], "A": []}

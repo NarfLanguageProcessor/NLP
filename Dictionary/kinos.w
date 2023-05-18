@@ -1,0 +1,1 @@
+{"index": 164976, "D": "(in Europe) a movie theater; cinema. ", "S": [], "A": []}

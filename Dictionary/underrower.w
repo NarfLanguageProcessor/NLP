@@ -1,0 +1,1 @@
+{"index": 339710, "D": "a number of persons or things arranged in a line, especially a straight line", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35150, "D": "a salt of sulfuric acid, containing the HSO4\u2212 group; an acid sulfate;  a hydrogen sulfate,  as sodium bisulfate,  NaHSO4.", "S": [], "A": []}

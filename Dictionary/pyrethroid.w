@@ -1,0 +1,1 @@
+{"index": 237669, "D": "any of several synthetic compounds that are similar to but more persistent than natural pyrethrins. ", "S": [], "A": []}

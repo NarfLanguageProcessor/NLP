@@ -1,0 +1,1 @@
+{"index": 215302, "D": "a small mouthlike aperture, as of a sponge.", "S": [], "A": []}

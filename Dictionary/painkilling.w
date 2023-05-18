@@ -1,0 +1,1 @@
+{"index": 223157, "D": "a drug, treatment, or anything else that relieves pain,  especially an analgesic.", "S": [], "A": []}

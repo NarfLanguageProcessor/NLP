@@ -1,0 +1,1 @@
+{"index": 144871, "D": "humanitarian principles or practices.", "S": [], "A": []}

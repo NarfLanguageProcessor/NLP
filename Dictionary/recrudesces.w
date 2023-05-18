@@ -1,0 +1,1 @@
+{"index": 263641, "D": "to break out afresh, as a sore, a disease, or anything else that has been quiescent.", "S": ["react ", "reappear ", "rebound ", "recoil ", "reconsider ", "recur ", "repair ", "repeat ", "retreat ", "revert ", "revisit ", "revolve "], "A": ["disappear ", "stay "]}

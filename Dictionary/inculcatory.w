@@ -1,0 +1,1 @@
+{"index": 150548, "D": "to implant by repeated statement or admonition; teach persistently and earnestly (usually followed by upon or in)", "S": [], "A": []}

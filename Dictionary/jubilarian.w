@@ -1,0 +1,1 @@
+{"index": 161995, "D": "a person who celebrates or has celebrated a jubilee, as a nun observing 25 or more years of religious life.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 245643, "D": "the branch of mathematics that deals with general statements of relations, utilizing letters and other symbols to represent specific sets of numbers, values, vectors, etc., in the description of such relations.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216772, "D": "to flow out or issue suddenly, copiously, or forcibly, as a fluid from confinement", "S": [], "A": []}

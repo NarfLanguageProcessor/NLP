@@ -1,0 +1,1 @@
+{"index": 305034, "D": "exhilarated; excited.", "S": ["animated ", "aroused ", "elated ", "electrified ", "excited ", "inspired ", "moved ", "stirred ", "touched "], "A": []}

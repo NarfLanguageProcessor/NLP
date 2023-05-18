@@ -1,0 +1,1 @@
+{"index": 237782, "D": "conductivity  brought about by the application of heat, especially in solids that are not conductors at normal temperatures.", "S": [], "A": []}

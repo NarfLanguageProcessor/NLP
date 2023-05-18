@@ -1,0 +1,1 @@
+{"index": 88786, "D": "having an extra chromosome in the haploid state that is homologous to an existing chromosome in this set", "S": [], "A": []}

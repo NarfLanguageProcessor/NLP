@@ -1,0 +1,1 @@
+{"index": 88767, "D": "to refuse or neglect to oblige; act contrary to the desire or convenience of; fail to accommodate.", "S": [], "A": []}

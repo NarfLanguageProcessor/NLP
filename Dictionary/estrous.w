@@ -1,0 +1,1 @@
+{"index": 104758, "D": "pertaining to or involving the estrus. ", "S": [], "A": []}

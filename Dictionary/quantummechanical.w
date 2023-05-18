@@ -1,0 +1,1 @@
+{"index": 257964, "D": "a theory of the mechanics of atoms, molecules, and other physical systems that are subject to the uncertainty principle. Abbreviation", "S": [], "A": []}

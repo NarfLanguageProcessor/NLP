@@ -1,0 +1,1 @@
+{"index": 240803, "D": "of or relating to the lungs and stomach.", "S": [], "A": []}

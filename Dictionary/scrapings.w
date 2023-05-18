@@ -1,0 +1,1 @@
+{"index": 281586, "D": "the act of a person or thing that scrapes. ", "S": ["debris ", "detritus ", "dreck ", "dregs ", "dross ", "filth ", "junk ", "muck ", "offal ", "rubbish ", "rubble ", "scrap ", "sewage ", "slop ", "sweepings ", "swill ", "trash ", "waste "], "A": ["cleanliness ", "possessions ", "purity ", "sense "]}

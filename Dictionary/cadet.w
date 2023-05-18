@@ -1,0 +1,1 @@
+{"index": 44327, "D": "a student in a national service academy or private military school or on a training ship.", "S": ["student ", "youth "], "A": []}

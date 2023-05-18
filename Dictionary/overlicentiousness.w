@@ -1,0 +1,1 @@
+{"index": 220070, "D": "a throwing off of sexual restraint; lewd character or behavior", "S": [], "A": []}

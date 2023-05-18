@@ -1,0 +1,1 @@
+{"index": 317419, "D": "a small cake,  cookie, tart, or the like, for serving with tea  or punch.", "S": [], "A": []}

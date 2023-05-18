@@ -1,0 +1,1 @@
+{"index": 106597, "D": "with the exclusion of; excluding; save; but", "S": ["save "], "A": []}

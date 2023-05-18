@@ -1,0 +1,1 @@
+{"index": 27700, "D": "of or relating to Barbados or its inhabitants", "S": [], "A": []}

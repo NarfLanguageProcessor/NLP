@@ -1,0 +1,1 @@
+{"index": 129435, "D": "a shrub, Sarcobatus vermiculatus, of the amaranth family, growing in alkaline regions of the western U.S., containing a small amount of oil.", "S": [], "A": []}

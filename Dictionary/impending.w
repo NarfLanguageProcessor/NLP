@@ -1,0 +1,1 @@
+{"index": 148443, "D": "about to happen; imminent", "S": ["approaching ", "brewing ", "imminent ", "looming "], "A": ["gone ", "past "]}

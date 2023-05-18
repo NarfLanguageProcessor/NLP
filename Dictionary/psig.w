@@ -1,0 +1,1 @@
+{"index": 255549, "D": "pounds per square inch, gauge.", "S": [], "A": []}

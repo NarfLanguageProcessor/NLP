@@ -1,0 +1,1 @@
+{"index": 347085, "D": "of, living in, or produced by the ocean", "S": [], "A": []}

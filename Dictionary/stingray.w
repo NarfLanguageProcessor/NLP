@@ -1,0 +1,1 @@
+{"index": 304673, "D": "any of the rays,  especially of the family Dasyatidae, having a long, flexible tail armed near the base with a strong, serrated bony spine with which they can inflict painful wounds.", "S": [], "A": []}

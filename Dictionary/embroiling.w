@@ -1,0 +1,1 @@
+{"index": 98373, "D": "to bring into discord or conflict; involve in contention or strife.", "S": ["enmesh ", "ensnare ", "entangle ", "implicate ", "involve ", "mire ", "tangle "], "A": ["exclude ", "free ", "untangle ", "untwist ", "aid ", "arrange ", "assist ", "calm ", "clarify ", "clear up ", "comfort ", "enlighten ", "explain ", "help ", "order ", "organize "]}

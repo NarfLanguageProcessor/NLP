@@ -1,0 +1,1 @@
+{"index": 158796, "D": "a colorless, flammable gas, C4H10, used as a fuel, as a refrigerant, and in the manufacture of gasoline by alkylation.", "S": [], "A": []}

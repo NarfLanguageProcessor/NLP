@@ -1,0 +1,1 @@
+{"index": 242877, "D": "a dry, red wine from the Pommard parish in Burgundy.", "S": [], "A": []}

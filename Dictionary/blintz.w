@@ -1,0 +1,1 @@
+{"index": 36262, "D": "a thin pancake folded or rolled around a filling, as of cheese or fruit, and fried or baked.", "S": [], "A": []}

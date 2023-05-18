@@ -1,0 +1,1 @@
+{"index": 46673, "D": "a small territorial district, especially one of the states of the Swiss confederation.", "S": ["abide ", "reside "], "A": ["depart ", "go ", "leave ", "turn away ", "turn out "]}

@@ -1,0 +1,1 @@
+{"index": 203715, "D": "strictly accurate or correct", "S": [], "A": []}

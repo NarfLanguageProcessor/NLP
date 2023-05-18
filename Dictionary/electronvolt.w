@@ -1,0 +1,1 @@
+{"index": 97174, "D": "a unit of energy, equal to the energy acquired by an electron accelerating through a potential difference of one volt and equivalent to 1.602 \u00d7 10\u221219 joules. Abbreviations", "S": [], "A": []}

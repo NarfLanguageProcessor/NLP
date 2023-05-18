@@ -1,0 +1,1 @@
+{"index": 40571, "D": "the act or practice of giving or accepting a bribe", "S": ["bribe ", "extortion "], "A": []}

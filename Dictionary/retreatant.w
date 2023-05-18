@@ -1,0 +1,1 @@
+{"index": 270705, "D": "a person who takes part in a religious retreat. ", "S": [], "A": []}

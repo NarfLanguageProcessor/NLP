@@ -1,0 +1,1 @@
+{"index": 230362, "D": "capable of being perceived; perceptible. ", "S": [], "A": []}

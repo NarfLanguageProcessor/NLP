@@ -1,0 +1,1 @@
+{"index": 246326, "D": "to acknowledge as true, just, or proper; admit", "S": [], "A": []}

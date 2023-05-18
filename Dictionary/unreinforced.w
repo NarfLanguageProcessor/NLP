@@ -1,0 +1,1 @@
+{"index": 349391, "D": "to strengthen with some added piece, support, or material", "S": [], "A": []}

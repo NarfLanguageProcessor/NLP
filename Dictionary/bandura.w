@@ -1,0 +1,1 @@
+{"index": 27392, "D": "a Ukrainian stringed instrument of the lute family.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248881, "D": "(of a word) placed before another word to modify it or to show its relation to other parts of the sentence. In red book, red is a prepositive adjective. John's in John's book is a prepositive genitive.", "S": [], "A": []}

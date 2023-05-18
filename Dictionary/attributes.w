@@ -1,0 +1,1 @@
+{"index": 23167, "D": "the plural of attribute. ", "S": ["description ", "essence ", "humor ", "mood ", "personality ", "quality ", "type "], "A": ["exterior ", "exteriority ", "outside "]}

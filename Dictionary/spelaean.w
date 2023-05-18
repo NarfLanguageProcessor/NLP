@@ -1,0 +1,1 @@
+{"index": 299074, "D": "of, relating to, or inhabiting a cave or caves.", "S": [], "A": []}

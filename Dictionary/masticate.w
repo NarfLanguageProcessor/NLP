@@ -1,0 +1,1 @@
+{"index": 180890, "D": "to chew.", "S": ["chomp ", "crunch ", "crush ", "gnash ", "grind ", "knead "], "A": []}

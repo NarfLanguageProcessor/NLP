@@ -1,0 +1,1 @@
+{"index": 199414, "D": "an adherent of John Henry Newman. ", "S": [], "A": []}

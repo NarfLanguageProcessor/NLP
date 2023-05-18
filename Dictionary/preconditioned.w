@@ -1,0 +1,1 @@
+{"index": 246376, "D": "something that must come before or is necessary to a subsequent result; condition", "S": [], "A": []}

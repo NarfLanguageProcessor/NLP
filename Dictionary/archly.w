@@ -1,0 +1,1 @@
+{"index": 19051, "D": "in an arch  or roguish manner.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257584, "D": "cleft into four parts or lobes.", "S": [], "A": []}

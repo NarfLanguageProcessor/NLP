@@ -1,0 +1,1 @@
+{"index": 318260, "D": "a poem in which the last letters of successive lines form a word, a phrase, or the consecutive letters of the alphabet.", "S": [], "A": []}

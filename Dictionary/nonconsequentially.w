@@ -1,0 +1,1 @@
+{"index": 202355, "D": "following as an effect, result, or outcome; resultant; consequent. ", "S": [], "A": []}

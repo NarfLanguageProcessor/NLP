@@ -1,0 +1,1 @@
+{"index": 135811, "D": "the act of a person or thing that helps. ", "S": ["allowance ", "course ", "dollop ", "meal ", "order ", "piece ", "plateful ", "ration ", "serving ", "share "], "A": ["whole "]}

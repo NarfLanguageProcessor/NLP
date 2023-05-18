@@ -1,0 +1,1 @@
+{"index": 129855, "D": "a solution fissure, a vertical crack about 0.5 m wide formed by the dissolving of limestone by water, that divides an exposed limestone surface into sections or clints", "S": [], "A": []}

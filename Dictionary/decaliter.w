@@ -1,0 +1,1 @@
+{"index": 77966, "D": "a unit of capacity equal to 10 liters (9.08 quarts U.S. dry measure or 2.64 gallons U.S. liquid measure). Abbreviation", "S": [], "A": []}

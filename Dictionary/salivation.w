@@ -1,0 +1,1 @@
+{"index": 277102, "D": "the act or process of salivating. ", "S": ["drivel ", "expectoration ", "slaver ", "slobber ", "spit ", "spittle "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 99992, "D": "a ciliated groove or pair of grooves in the pharynx of various lower chordates, as tunicates, cephalochordates, and larval cyclostomes, serving to accumulate food particles and pass them along the digestive tract.", "S": [], "A": []}

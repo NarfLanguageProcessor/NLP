@@ -1,0 +1,1 @@
+{"index": 146381, "D": "to recognize or establish as being a particular person or thing; verify the identity  of", "S": ["definitive ", "detailed ", "eloquent ", "expressive ", "illuminating ", "pictorial ", "revealing ", "vivid "], "A": ["dull "]}

@@ -1,0 +1,1 @@
+{"index": 212971, "D": "a primordial cell from which the ovum is developed.", "S": [], "A": []}

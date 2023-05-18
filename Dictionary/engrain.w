@@ -1,0 +1,1 @@
+{"index": 100451, "D": "a variant spelling of ingrain", "S": [], "A": []}

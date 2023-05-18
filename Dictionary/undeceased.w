@@ -1,0 +1,1 @@
+{"index": 338449, "D": "no longer living; dead.", "S": [], "A": []}

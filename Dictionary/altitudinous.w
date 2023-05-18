@@ -1,0 +1,1 @@
+{"index": 9555, "D": "the height of anything above a given planetary reference plane, especially above sea level on earth.", "S": ["big ", "great ", "huge ", "immense ", "large ", "lofty ", "long ", "soaring ", "steep ", "tremendous "], "A": ["little ", "low ", "miniature ", "minute ", "short ", "small ", "teeny ", "tiny "]}

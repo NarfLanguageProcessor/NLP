@@ -1,0 +1,1 @@
+{"index": 20769, "D": "a truck trailer outfitted to transport and exhibit works of art  in areas without access to museums.", "S": [], "A": []}

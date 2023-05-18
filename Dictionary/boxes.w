@@ -1,0 +1,1 @@
+{"index": 39281, "D": "a container, case, or receptacle, usually rectangular, of wood, metal, cardboard, etc., and often with a lid or removable cover.", "S": ["benches ", "grandstand ", "seats ", "stands "], "A": []}

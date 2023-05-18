@@ -1,0 +1,1 @@
+{"index": 1120, "D": "the quality or state of being abstruse. ", "S": [], "A": []}

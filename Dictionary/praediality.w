@@ -1,0 +1,1 @@
+{"index": 245135, "D": "of, relating to, or consisting of land or its products; real; landed.", "S": [], "A": []}

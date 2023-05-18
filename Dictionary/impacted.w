@@ -1,0 +1,1 @@
+{"index": 148208, "D": "tightly or immovably wedged in.", "S": ["fixed ", "ingrained ", "installed ", "planted "], "A": []}

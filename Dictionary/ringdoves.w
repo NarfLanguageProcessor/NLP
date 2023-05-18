@@ -1,0 +1,1 @@
+{"index": 273028, "D": "a small Old World dove, Streptopelia risoria, having a black half ring  around the nape of the neck.", "S": [], "A": []}

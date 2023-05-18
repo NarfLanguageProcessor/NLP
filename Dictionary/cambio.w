@@ -1,0 +1,1 @@
+{"index": 45599, "D": "a currency exchange.", "S": [], "A": []}

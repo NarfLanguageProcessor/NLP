@@ -1,0 +1,1 @@
+{"index": 47283, "D": "a merchant vessel having various rigs, used especially by Mediterranean countries in the 15th and 16th centuries; galleon.", "S": [], "A": []}

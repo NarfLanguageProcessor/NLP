@@ -1,0 +1,1 @@
+{"index": 201506, "D": "something assigned, as a particular task or duty", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205023, "D": "not of, in, along, or relating to a line", "S": [], "A": []}

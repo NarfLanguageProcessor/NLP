@@ -1,0 +1,1 @@
+{"index": 267129, "D": "to man  again; furnish with a fresh supply of personnel.", "S": [], "A": []}

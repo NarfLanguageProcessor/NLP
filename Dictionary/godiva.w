@@ -1,0 +1,1 @@
+{"index": 127347, "D": "wife of Leofric. According to legend, she rode naked through the streets of Coventry, England, to win relief for the people from a burdensome tax.", "S": [], "A": []}

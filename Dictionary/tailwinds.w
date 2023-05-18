@@ -1,0 +1,1 @@
+{"index": 315421, "D": "a wind  coming from directly behind a moving object, especially an aircraft or other vehicle (opposed to headwind).", "S": [], "A": []}

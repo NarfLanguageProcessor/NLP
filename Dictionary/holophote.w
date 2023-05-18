@@ -1,0 +1,1 @@
+{"index": 142635, "D": "an apparatus by which practically all the light from a lighthouse lamp or the like is thrown in a desired direction.", "S": [], "A": []}

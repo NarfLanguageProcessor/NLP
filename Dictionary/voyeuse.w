@@ -1,0 +1,1 @@
+{"index": 361015, "D": "a chair of the 18th century used at game tables, having a padded top rail on which spectators could lean.", "S": [], "A": []}

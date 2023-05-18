@@ -1,0 +1,1 @@
+{"index": 50993, "D": "a temporary structure, esp one made of timber, used to support an arch during construction", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 184961, "D": "speculative thought dealing systematically with concepts extending beyond the limits of psychology  as an empirical science.", "S": [], "A": []}

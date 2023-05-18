@@ -1,0 +1,1 @@
+{"index": 152511, "D": "shameful; disgraceful", "S": ["blameworthy ", "contemptible ", "degrading ", "detestable ", "dishonorable ", "disreputable ", "ignoble ", "ignominious ", "offensive ", "reprehensible ", "shameful ", "unrespectable ", "unworthy "], "A": []}

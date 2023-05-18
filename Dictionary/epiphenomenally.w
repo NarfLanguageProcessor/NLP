@@ -1,0 +1,1 @@
+{"index": 102670, "D": "a secondary or additional symptom or complication arising during the course of a disease.", "S": [], "A": []}

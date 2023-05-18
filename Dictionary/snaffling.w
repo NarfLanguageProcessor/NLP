@@ -1,0 +1,1 @@
+{"index": 295196, "D": "a bit, usually jointed in the middle and without a curb, with a large ring at each end to which a rein and cheek strap are attached.", "S": [], "A": []}

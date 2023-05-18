@@ -1,0 +1,1 @@
+{"index": 347367, "D": "two identical, similar, or corresponding things that are matched for use together", "S": ["unmatched "], "A": ["matched "]}

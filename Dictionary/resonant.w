@@ -1,0 +1,1 @@
+{"index": 269618, "D": "resounding  or echoing, as sounds", "S": ["mellow ", "profound ", "rich ", "ringing ", "sonorous ", "thrilling "], "A": ["faint ", "quiet "]}

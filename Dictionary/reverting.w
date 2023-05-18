@@ -1,0 +1,1 @@
+{"index": 271298, "D": "to return to a former habit, practice, belief, condition, etc.", "S": ["backslide ", "lapse ", "lapsing ", "regression ", "relapsing ", "reversion "], "A": []}

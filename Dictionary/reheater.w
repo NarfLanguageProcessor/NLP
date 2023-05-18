@@ -1,0 +1,1 @@
+{"index": 265986, "D": "any of various apparatus for heating,  especially for heating  water or the air in a room.", "S": [], "A": []}

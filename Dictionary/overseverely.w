@@ -1,0 +1,1 @@
+{"index": 221077, "D": "in a very stern, strict, or harsh way", "S": [], "A": []}

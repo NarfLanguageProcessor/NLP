@@ -1,0 +1,1 @@
+{"index": 289317, "D": "the Confucian principle of refraining from actions toward others that would be disagreeable if done to oneself.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162987, "D": "a tall, black, brimless, flat-topped hat, worn by the clergy of the Eastern Church.", "S": [], "A": []}

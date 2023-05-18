@@ -1,0 +1,1 @@
+{"index": 63919, "D": "to serve as a memorial or reminder of", "S": ["celebrate ", "memorialize ", "observe ", "remember ", "salute "], "A": ["disregard ", "forget ", "ignore ", "overlook "]}

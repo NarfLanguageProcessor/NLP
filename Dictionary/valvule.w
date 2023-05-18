@@ -1,0 +1,1 @@
+{"index": 356868, "D": "a small valve or a part resembling a valve.", "S": [], "A": []}

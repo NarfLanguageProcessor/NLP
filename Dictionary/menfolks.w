@@ -1,0 +1,1 @@
+{"index": 183309, "D": "men,  especially those belonging to a family or community", "S": [], "A": []}

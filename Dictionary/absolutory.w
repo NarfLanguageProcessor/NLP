@@ -1,0 +1,1 @@
+{"index": 1001, "D": "giving absolution.", "S": [], "A": []}

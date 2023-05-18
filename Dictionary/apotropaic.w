@@ -1,0 +1,1 @@
+{"index": 17518, "D": "intended to ward off evil.", "S": [], "A": []}

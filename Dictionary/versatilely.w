@@ -1,0 +1,1 @@
+{"index": 358762, "D": "capable of or adapted for turning easily from one to another of various tasks, fields of endeavor, etc.", "S": [], "A": []}

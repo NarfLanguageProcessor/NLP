@@ -1,0 +1,1 @@
+{"index": 314248, "D": "the shape of, or the angle formed by, an airplane wing or other airfoil the leading or trailing edge of which slopes backward from the fuselage.", "S": [], "A": []}

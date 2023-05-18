@@ -1,0 +1,1 @@
+{"index": 328175, "D": "a crosspiece separating a door or the like from a window or fanlight above it.", "S": [], "A": []}

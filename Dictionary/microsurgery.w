@@ -1,0 +1,1 @@
+{"index": 186576, "D": "any of various surgical procedures performed under magnification and with small specialized instruments, permitting very delicate operations, as the reconnection of severed blood vessels and nerves.", "S": [], "A": []}

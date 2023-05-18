@@ -1,0 +1,1 @@
+{"index": 53862, "D": "a soil common in cool or temperate semiarid climates, very black and rich in humus and carbonates.", "S": [], "A": []}

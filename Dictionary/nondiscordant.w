@@ -1,0 +1,1 @@
+{"index": 203144, "D": "being at variance; disagreeing; incongruous", "S": [], "A": []}

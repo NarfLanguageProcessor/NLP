@@ -1,0 +1,1 @@
+{"index": 5777, "D": "a later or second thought;  reconsideration.", "S": ["reconsideration ", "review "], "A": ["forethought "]}

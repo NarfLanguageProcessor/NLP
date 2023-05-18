@@ -1,0 +1,1 @@
+{"index": 175495, "D": "any small, wingless insect of the order Anoplura (sucking louse ), parasitic on humans and other mammals and having mouthparts adapted for sucking, as Pediculus humanus humanus(body louse ) or Pediculus humanus capitis(head louse ) and Phthirius pubis(crab louse,  or pubic louse ).", "S": ["cad ", "cootie ", "knave ", "rat ", "scoundrel "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334389, "D": "having the power of abstracting. ", "S": [], "A": []}

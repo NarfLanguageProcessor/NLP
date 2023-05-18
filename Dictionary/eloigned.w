@@ -1,0 +1,1 @@
+{"index": 97737, "D": "to remove to a distance, especially to take beyond the jurisdiction of a law court.", "S": [], "A": []}

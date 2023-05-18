@@ -1,0 +1,1 @@
+{"index": 15811, "D": "of, like, suitable for, or characteristic of a patriot. ", "S": [], "A": []}

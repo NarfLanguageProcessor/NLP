@@ -1,0 +1,1 @@
+{"index": 102693, "D": "(of a disease) destroying a large number of plants in an area at the same time.", "S": [], "A": []}

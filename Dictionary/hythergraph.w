@@ -1,0 +1,1 @@
+{"index": 141974, "D": "a climatic graph showing relationships between temperature and humidity or temperature and precipitation.", "S": [], "A": []}

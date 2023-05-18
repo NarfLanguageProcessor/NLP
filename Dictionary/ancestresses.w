@@ -1,0 +1,1 @@
+{"index": 12152, "D": "a woman from whom a person is descended.", "S": [], "A": []}

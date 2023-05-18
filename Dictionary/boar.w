@@ -1,0 +1,1 @@
+{"index": 36930, "D": "the uncastrated male swine.", "S": ["pig ", "piglet ", "swine "], "A": []}

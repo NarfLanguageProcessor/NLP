@@ -1,0 +1,1 @@
+{"index": 169474, "D": "a mineral, sodium aluminum silicate and sulfide, Na5Al3Si3O12S3, occurring in deep-blue crystals, used for ornamental purposes.", "S": [], "A": []}

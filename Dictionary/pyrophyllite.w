@@ -1,0 +1,1 @@
+{"index": 237900, "D": "a phyllosilicate, AlSi2O5(OH), usually having a white or greenish color, and occurring in either foliated or compact masses, the latter variety being used like soapstone.", "S": [], "A": []}

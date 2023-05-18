@@ -1,0 +1,1 @@
+{"index": 267034, "D": "to move (a building, company, etc.) to a different location", "S": ["removed "], "A": ["remaining ", "resident "]}

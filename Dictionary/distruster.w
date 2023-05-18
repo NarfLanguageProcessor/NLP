@@ -1,0 +1,1 @@
+{"index": 89957, "D": "to regard with doubt or suspicion; have no trust  in.", "S": [], "A": []}

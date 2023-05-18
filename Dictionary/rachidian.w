@@ -1,0 +1,1 @@
+{"index": 259377, "D": "any of various axial structures.", "S": [], "A": []}

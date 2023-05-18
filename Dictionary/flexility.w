@@ -1,0 +1,1 @@
+{"index": 114497, "D": "flexible; pliant; tractable; adaptable.", "S": [], "A": []}

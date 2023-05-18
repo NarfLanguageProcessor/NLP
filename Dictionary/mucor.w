@@ -1,0 +1,1 @@
+{"index": 194605, "D": "any phycomycetous fungus of the genus Mucor, that forms a furry coating on foodstuffs and dead and decaying vegetable matter.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 85391, "D": "(of a muscle) having two bellies with an intermediate tendon.", "S": [], "A": []}

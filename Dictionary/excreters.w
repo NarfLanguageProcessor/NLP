@@ -1,0 +1,1 @@
+{"index": 106842, "D": "to separate and eliminate from an organic body; separate and expel from the blood or tissues, as waste or harmful matter.", "S": [], "A": []}

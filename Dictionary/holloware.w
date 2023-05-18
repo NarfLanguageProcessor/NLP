@@ -1,0 +1,1 @@
+{"index": 142518, "D": "silver dishes, as serving dishes, having some depth (distinguished from flatware).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112809, "D": "the male or staminate plant of hemp, which is harvested before the female or pistillate plant.", "S": [], "A": []}

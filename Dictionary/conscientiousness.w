@@ -1,0 +1,1 @@
+{"index": 66676, "D": "governed by conscience;  controlled by or done according to one's inner sense of what is right; principled", "S": ["dutifulness ", "exactitude ", "faithfulness ", "honesty ", "honor ", "incorruptibility ", "mindfulness ", "pains ", "punctiliousness ", "steadfastness ", "uprightness ", "veracity "], "A": ["dishonesty ", "falsehood ", "treachery "]}

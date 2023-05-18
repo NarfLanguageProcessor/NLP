@@ -1,0 +1,1 @@
+{"index": 8940, "D": "a carnivorous dinosaur of the genus Antrodemus (formerly Allosaurus), from the late Jurassic Period of North America, that was about 30 feet (9 meters) long.", "S": [], "A": []}

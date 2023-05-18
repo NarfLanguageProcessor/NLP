@@ -1,0 +1,1 @@
+{"index": 367556, "D": "the total number of regular working  hours or days in a week. ", "S": [], "A": []}

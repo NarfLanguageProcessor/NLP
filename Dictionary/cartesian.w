@@ -1,0 +1,1 @@
+{"index": 48611, "D": "of or relating to Descartes,  his mathematical methods, or his philosophy, especially with regard to its emphasis on logical analysis and its mechanistic interpretation of physical nature.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358933, "D": "any of a number of staples riveted along the base of a basinet to hold an aventail.", "S": [], "A": []}

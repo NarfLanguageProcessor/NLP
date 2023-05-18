@@ -1,0 +1,1 @@
+{"index": 44876, "D": "any plant incapable of thriving in calcareous soil.", "S": [], "A": []}

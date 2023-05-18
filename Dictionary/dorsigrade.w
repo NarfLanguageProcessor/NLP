@@ -1,0 +1,1 @@
+{"index": 91769, "D": "(of animals such as certain armadillos) walking on the backs of the toes", "S": [], "A": []}

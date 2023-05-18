@@ -1,0 +1,1 @@
+{"index": 201960, "D": "a native or naturalized member of a state or nation who owes allegiance to its government and is entitled to its protection (distinguished from alien).", "S": ["foreigner ", "immigrant ", "intruder ", "migrant ", "outsider ", "refugee ", "settler ", "stranger ", "visitor "], "A": ["local ", "national ", "native "]}

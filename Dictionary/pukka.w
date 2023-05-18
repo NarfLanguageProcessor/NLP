@@ -1,0 +1,1 @@
+{"index": 256191, "D": "genuine, reliable, or good; proper.", "S": [], "A": []}

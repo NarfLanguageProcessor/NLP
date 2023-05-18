@@ -1,0 +1,1 @@
+{"index": 182960, "D": "a marching or military band brass instrument similar in appearance and range to the French horn but slightly smaller and simpler to play.", "S": [], "A": []}

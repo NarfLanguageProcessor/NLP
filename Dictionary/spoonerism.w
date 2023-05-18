@@ -1,0 +1,1 @@
+{"index": 300883, "D": "the transposition of initial or other sounds of words, usually by accident, as in a blushing crow for a crushing blow.", "S": ["lapsus linguae ", "mistake ", "slip of the pen ", "solecism ", "sus linguae "], "A": []}

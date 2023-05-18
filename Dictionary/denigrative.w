@@ -1,0 +1,1 @@
+{"index": 81123, "D": "to speak damagingly of; criticize in a derogatory manner; sully; defame", "S": [], "A": []}

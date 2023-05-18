@@ -1,0 +1,1 @@
+{"index": 300756, "D": "earthenware decorated with color applied with a sponge. ", "S": [], "A": []}

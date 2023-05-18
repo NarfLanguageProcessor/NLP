@@ -1,0 +1,1 @@
+{"index": 278775, "D": "to attack or ridicule with satire. ", "S": ["lampoon ", "mock ", "parody ", "spoof "], "A": ["praise "]}

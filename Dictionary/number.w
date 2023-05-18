@@ -1,0 +1,1 @@
+{"index": 209515, "D": "a numeral or group of numerals.", "S": ["figure ", "statistic ", "sum ", "total "], "A": ["part "]}

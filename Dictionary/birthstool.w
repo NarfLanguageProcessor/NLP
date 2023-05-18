@@ -1,0 +1,1 @@
+{"index": 34928, "D": "a specially shaped seat formerly used in childbirth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310562, "D": "in a way that shows irritation, ill humor, or gloom; morosely", "S": [], "A": []}

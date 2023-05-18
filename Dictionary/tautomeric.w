@@ -1,0 +1,1 @@
+{"index": 317163, "D": "the ability of certain organic compounds to react in isomeric structures that differ from each other in the position of a hydrogen atom and a double bond.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118344, "D": "fearing or hating France, the French people, and French culture, products, etc.", "S": [], "A": []}

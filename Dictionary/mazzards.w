@@ -1,0 +1,1 @@
+{"index": 181636, "D": "a wild sweet cherry, Prunus avium, used as a rootstock for cultivated varieties of cherries.", "S": [], "A": []}

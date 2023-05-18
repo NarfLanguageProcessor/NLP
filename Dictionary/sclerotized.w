@@ -1,0 +1,1 @@
+{"index": 281028, "D": "(especially of the cuticle of an arthropod) hardened by the presence of substances other than chitin, as by scleroproteins, waxes, or calcium salts.", "S": [], "A": []}

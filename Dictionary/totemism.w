@@ -1,0 +1,1 @@
+{"index": 326491, "D": "the practice of having totems. ", "S": [], "A": []}

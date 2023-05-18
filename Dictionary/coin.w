@@ -1,0 +1,1 @@
+{"index": 62473, "D": "a piece of metal stamped and issued by the authority of a government for use as money.", "S": ["bread ", "cash ", "change ", "chips ", "coinage ", "copper ", "currency ", "doubloon ", "dough ", "gold ", "jack ", "mintage ", "money ", "piece ", "scratch ", "silver ", "specie "], "A": ["bill ", "dollar "]}

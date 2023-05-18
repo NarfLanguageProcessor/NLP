@@ -1,0 +1,1 @@
+{"index": 203927, "D": "an act or instance of failing  or proving unsuccessful; lack of success", "S": [], "A": []}

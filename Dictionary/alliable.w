@@ -1,0 +1,1 @@
+{"index": 8702, "D": "to unite formally, as by treaty, league, marriage, or the like (usually followed by with or to)", "S": [], "A": []}

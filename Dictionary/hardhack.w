@@ -1,0 +1,1 @@
+{"index": 133653, "D": "a woolly-leaved North American shrub, Spiraea tomentosa, of the rose family, having short, spikelike clusters of rose-colored flowers.", "S": [], "A": []}

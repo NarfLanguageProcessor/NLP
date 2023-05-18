@@ -1,0 +1,1 @@
+{"index": 10392, "D": "an oblong vestment, usually of white linen, worn about the neck and shoulders and partly under the alb.", "S": ["frock ", "garb ", "robe ", "stole ", "tunic "], "A": []}

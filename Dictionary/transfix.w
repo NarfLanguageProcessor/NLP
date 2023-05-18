@@ -1,0 +1,1 @@
+{"index": 327871, "D": "to make or hold motionless with amazement, awe, terror, etc.", "S": ["captivate ", "enchant ", "engross ", "fascinate ", "hypnotize ", "mesmerize ", "petrify ", "rivet ", "stun "], "A": ["disenchant ", "disgust ", "repel ", "repulse ", "turn off "]}

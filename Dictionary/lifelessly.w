@@ -1,0 +1,1 @@
+{"index": 171910, "D": "not endowed with life; having no life; inanimate", "S": ["blandly "], "A": []}

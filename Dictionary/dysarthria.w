@@ -1,0 +1,1 @@
+{"index": 87088, "D": "any of certain disorders of articulation, as stammering or stuttering, caused by a nerve defect.", "S": [], "A": []}

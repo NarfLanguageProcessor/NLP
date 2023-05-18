@@ -1,0 +1,1 @@
+{"index": 161202, "D": "nervous; active; excitedly energetic.", "S": [], "A": []}

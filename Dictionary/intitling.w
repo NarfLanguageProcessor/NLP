@@ -1,0 +1,1 @@
+{"index": 156335, "D": "a less common variant of entitle. ", "S": [], "A": []}

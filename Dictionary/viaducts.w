@@ -1,0 +1,1 @@
+{"index": 359227, "D": "a bridge for carrying a road, railroad, etc., over a valley or the like, consisting of a number of short spans.", "S": ["overpass "], "A": []}

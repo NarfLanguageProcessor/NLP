@@ -1,0 +1,1 @@
+{"index": 175984, "D": "of or relating to the Evangelist Luke or to the Gospel of Luke.", "S": [], "A": []}

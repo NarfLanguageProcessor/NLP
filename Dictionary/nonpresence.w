@@ -1,0 +1,1 @@
+{"index": 206144, "D": "the state or fact of being present,  as with others or in a place.", "S": [], "A": []}

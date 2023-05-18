@@ -1,0 +1,1 @@
+{"index": 159360, "D": "a descendant of Jacob, especially a member of the Hebrew people who inhabited the ancient kingdom of Israel. ", "S": [], "A": []}

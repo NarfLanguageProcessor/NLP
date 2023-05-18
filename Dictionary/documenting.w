@@ -1,0 +1,1 @@
+{"index": 90710, "D": "a written or printed paper furnishing information or evidence, as a passport, deed, bill of sale, or bill of lading; a legal or official paper", "S": ["chronicle ", "cite ", "detail "], "A": ["hide "]}

@@ -1,0 +1,1 @@
+{"index": 221794, "D": "not strong; liable to yield, break, or collapse under pressure or strain; fragile; frail", "S": [], "A": []}

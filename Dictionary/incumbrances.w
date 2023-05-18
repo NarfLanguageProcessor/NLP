@@ -1,0 +1,1 @@
+{"index": 150582, "D": "something that encumbers;  something burdensome, useless, or superfluous; burden; hindrance", "S": ["charge ", "claim ", "encumbrance ", "mortgage ", "right "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 90683, "D": "a particular principle, position, or policy taught or advocated, as of a religion or government", "S": ["attitude ", "axiom ", "belief ", "concept ", "creed ", "dogma ", "precept ", "proposition ", "regulation ", "rule ", "statement ", "teaching ", "tenet ", "tradition "], "A": ["ambiguity "]}

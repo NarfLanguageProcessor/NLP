@@ -1,0 +1,1 @@
+{"index": 151451, "D": "drunk or intoxicated, or exhilarated or stupefied in a way that suggests intoxication", "S": ["bombed ", "inebriate ", "intoxicated ", "loaded ", "plastered ", "smashed ", "wasted "], "A": ["sober "]}

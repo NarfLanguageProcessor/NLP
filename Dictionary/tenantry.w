@@ -1,0 +1,1 @@
+{"index": 318702, "D": "tenants  collectively; the body of tenants  on an estate.", "S": [], "A": []}

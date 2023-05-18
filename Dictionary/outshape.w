@@ -1,0 +1,1 @@
+{"index": 217411, "D": "the quality of a distinct object or body in having an external surface or outline of specific form or figure.", "S": [], "A": []}

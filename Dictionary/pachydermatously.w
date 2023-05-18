@@ -1,0 +1,1 @@
+{"index": 222620, "D": "of, relating to, or characteristic of pachyderms. ", "S": [], "A": []}

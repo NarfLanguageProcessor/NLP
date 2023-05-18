@@ -1,0 +1,1 @@
+{"index": 78791, "D": "to eliminate criminal  penalties for or remove legal restrictions against", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247431, "D": "an excursion, journey, or voyage made for some specific purpose, as of war or exploration.", "S": [], "A": []}

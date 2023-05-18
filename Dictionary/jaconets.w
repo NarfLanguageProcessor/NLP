@@ -1,0 +1,1 @@
+{"index": 160011, "D": "a cotton fabric of light weight, usually finished as cambric, lawn, organdy, voile, etc., used in the manufacture of clothing and bandages.", "S": [], "A": []}

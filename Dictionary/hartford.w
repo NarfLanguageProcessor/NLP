@@ -1,0 +1,1 @@
+{"index": 134015, "D": "U.S. businessman and patron of the arts.", "S": [], "A": []}

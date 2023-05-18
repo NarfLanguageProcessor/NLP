@@ -1,0 +1,1 @@
+{"index": 142130, "D": "to associate on very friendly terms (usually followed by with)", "S": ["consort ", "fraternize ", "mingle ", "mix ", "pal ", "socialize "], "A": ["disagree "]}

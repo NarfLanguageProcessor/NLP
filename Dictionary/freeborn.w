@@ -1,0 +1,1 @@
+{"index": 118586, "D": "born free, rather than in slavery, bondage, or vassalage.", "S": [], "A": []}

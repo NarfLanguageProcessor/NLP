@@ -1,0 +1,1 @@
+{"index": 282310, "D": "to dress (flax) by beating.", "S": [], "A": []}

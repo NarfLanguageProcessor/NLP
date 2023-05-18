@@ -1,0 +1,1 @@
+{"index": 178815, "D": "a fragment; scrap.", "S": [], "A": []}

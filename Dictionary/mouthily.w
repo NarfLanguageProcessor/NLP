@@ -1,0 +1,1 @@
+{"index": 194351, "D": "rude, disrespectful, or given to back talk; insolent", "S": [], "A": []}

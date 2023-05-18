@@ -1,0 +1,1 @@
+{"index": 203525, "D": "informative, instructive, or eye-opening; giving intellectual or spiritual light", "S": [], "A": []}

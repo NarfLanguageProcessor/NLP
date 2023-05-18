@@ -1,0 +1,1 @@
+{"index": 318052, "D": "of or relating to the telegraph. ", "S": [], "A": []}

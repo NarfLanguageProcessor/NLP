@@ -1,0 +1,1 @@
+{"index": 61612, "D": "either of two food plants of West Africa, the taro or the yantia, both of which have edible underground stems", "S": [], "A": []}

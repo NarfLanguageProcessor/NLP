@@ -1,0 +1,1 @@
+{"index": 221721, "D": "to push or force along; impel with force or vigor", "S": [], "A": []}

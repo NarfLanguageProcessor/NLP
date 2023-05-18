@@ -1,0 +1,1 @@
+{"index": 125259, "D": "yarn-dyed, plain-weave cotton fabric, usually striped or checked.", "S": [], "A": []}

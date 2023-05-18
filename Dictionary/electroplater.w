@@ -1,0 +1,1 @@
+{"index": 97227, "D": "to plate  or coat with a metal by electrolysis.", "S": [], "A": []}

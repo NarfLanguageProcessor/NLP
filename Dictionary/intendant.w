@@ -1,0 +1,1 @@
+{"index": 154335, "D": "a person who has the direction or management of some public business, the affairs of an establishment, etc.; a superintendent.", "S": [], "A": []}

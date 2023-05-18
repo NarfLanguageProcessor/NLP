@@ -1,0 +1,1 @@
+{"index": 57332, "D": "used by a seller to indicate that the price quoted includes the cost of the merchandise, packing, and freight to a specified destination plus insurance charges.", "S": [], "A": []}

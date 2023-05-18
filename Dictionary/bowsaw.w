@@ -1,0 +1,1 @@
+{"index": 39238, "D": "a saw having a narrow blade held at both ends by a bowed handle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315440, "D": "free from or without taint; pure; innocent.", "S": [], "A": []}

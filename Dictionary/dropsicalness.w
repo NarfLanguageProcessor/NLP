@@ -1,0 +1,1 @@
+{"index": 93378, "D": "of, like, or affected with dropsy. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358546, "D": "the use of everyday life and actions in artistic works", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252559, "D": "the financial support or business provided to a store, hotel, or the like, by customers, clients, or paying guests.", "S": [], "A": []}

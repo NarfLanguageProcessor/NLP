@@ -1,0 +1,1 @@
+{"index": 22709, "D": "(of a chemical element in the earth) having an affinity for the atmosphere, as neon or helium.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201737, "D": "bulb-shaped; bulging.", "S": [], "A": []}

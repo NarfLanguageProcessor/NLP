@@ -1,0 +1,1 @@
+{"index": 89444, "D": "to give a false or misleading appearance to; conceal the truth or real nature of", "S": ["hidden ", "surreptitious ", "undercover "], "A": ["open ", "known ", "public ", "revealed ", "unconcealed "]}

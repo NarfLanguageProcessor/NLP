@@ -1,0 +1,1 @@
+{"index": 256752, "D": "an iron rod used in glassmaking for handling the hot glass.", "S": [], "A": []}

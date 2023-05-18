@@ -1,0 +1,1 @@
+{"index": 117377, "D": "in a formal  manner", "S": ["correctly ", "properly ", "regularly "], "A": ["casually ", "informally "]}

@@ -1,0 +1,1 @@
+{"index": 119780, "D": "of or belonging to Tierra del Fuego or its Indigenous Indians.", "S": [], "A": []}

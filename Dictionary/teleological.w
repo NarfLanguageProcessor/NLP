@@ -1,0 +1,1 @@
+{"index": 318130, "D": "of or relating to teleology,  the philosophical doctrine that final causes, design, and purpose exist in nature.", "S": [], "A": []}

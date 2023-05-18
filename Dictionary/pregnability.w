@@ -1,0 +1,1 @@
+{"index": 247721, "D": "capable of being taken or won by force", "S": [], "A": []}

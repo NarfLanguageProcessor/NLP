@@ -1,0 +1,1 @@
+{"index": 321378, "D": "a phenomenon in which certain dyes made from liquid crystals change colour reversibly when their temperature is changed", "S": [], "A": []}

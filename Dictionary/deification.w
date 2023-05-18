@@ -1,0 +1,1 @@
+{"index": 79787, "D": "the act of deifying. ", "S": ["elevation ", "idolization "], "A": []}

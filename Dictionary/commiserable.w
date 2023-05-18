@@ -1,0 +1,1 @@
+{"index": 64062, "D": "to sympathize (usually followed by with)", "S": ["deplorable ", "feeble ", "heartbreaking ", "miserable ", "pitiful ", "poignant ", "sorry ", "woeful "], "A": ["cheerful ", "excellent ", "glad ", "good ", "happy ", "joyful ", "wonderful "]}

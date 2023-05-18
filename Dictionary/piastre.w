@@ -1,0 +1,1 @@
+{"index": 235754, "D": "(formerly) the standard monetary unit of South Vietnam, divided into 100 cents", "S": [], "A": []}

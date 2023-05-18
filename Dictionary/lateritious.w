@@ -1,0 +1,1 @@
+{"index": 168871, "D": "of the color of brick; brick-red.", "S": [], "A": []}

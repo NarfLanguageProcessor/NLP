@@ -1,0 +1,1 @@
+{"index": 97169, "D": "of or relating to electronics  or to devices, circuits, or systems developed through electronics. ", "S": [], "A": []}

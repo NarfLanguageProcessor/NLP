@@ -1,0 +1,1 @@
+{"index": 47497, "D": "of, like, or containing carbon. ", "S": [], "A": []}

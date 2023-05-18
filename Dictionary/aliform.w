@@ -1,0 +1,1 @@
+{"index": 8249, "D": "wing-shaped; wing-like; alar.", "S": [], "A": []}

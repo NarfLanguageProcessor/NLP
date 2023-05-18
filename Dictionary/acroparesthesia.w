@@ -1,0 +1,1 @@
+{"index": 3001, "D": "a form of paresthesia  that affects the hands or feet, especially in the fingers or toes, with numbness or with prickling or burning sensations, the cause of which is often uncertain but can be the result of compressed nerves", "S": [], "A": []}

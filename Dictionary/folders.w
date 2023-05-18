@@ -1,0 +1,1 @@
+{"index": 115861, "D": "a person or thing that folds. ", "S": ["binder ", "file ", "pocket "], "A": []}

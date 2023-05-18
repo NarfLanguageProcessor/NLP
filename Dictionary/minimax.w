@@ -1,0 +1,1 @@
+{"index": 187872, "D": "a strategy of game theory employed to minimize a player's maximum  possible loss.", "S": [], "A": []}

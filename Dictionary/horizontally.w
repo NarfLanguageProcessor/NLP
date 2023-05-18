@@ -1,0 +1,1 @@
+{"index": 143796, "D": "at right angles to the vertical; parallel to level ground.", "S": ["reclining "], "A": ["erect ", "upright ", "vertical "]}

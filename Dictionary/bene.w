@@ -1,0 +1,1 @@
+{"index": 31513, "D": "a combining form occurring in loanwords from Latin, where it meant \u201cwell\u201d", "S": [], "A": []}

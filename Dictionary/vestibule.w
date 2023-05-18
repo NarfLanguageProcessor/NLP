@@ -1,0 +1,1 @@
+{"index": 359072, "D": "a passage, hall, or antechamber between the outer door and the interior parts of a house or building.", "S": ["doorway ", "foyer ", "hallway ", "porch "], "A": ["conclusion ", "exit "]}

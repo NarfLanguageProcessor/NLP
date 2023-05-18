@@ -1,0 +1,1 @@
+{"index": 21298, "D": "with suspicion, mistrust, or disapproval", "S": ["awry ", "off-center "], "A": []}

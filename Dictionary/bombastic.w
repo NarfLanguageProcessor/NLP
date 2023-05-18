@@ -1,0 +1,1 @@
+{"index": 37696, "D": "(of speech, writing, etc.) high-sounding; high-flown; inflated; pretentious.", "S": ["grandiose ", "histrionic ", "histrionical ", "rhapsodic "], "A": ["humble ", "quiet ", "reserved ", "restrained "]}

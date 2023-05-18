@@ -1,0 +1,1 @@
+{"index": 354074, "D": "(of an automatic device, such as a beacon) not manned", "S": ["decayed ", "deserted ", "ignored ", "overlooked ", "spurned ", "undervalued ", "unused ", "unwanted "], "A": ["cared for ", "considered ", "heeded ", "used "]}

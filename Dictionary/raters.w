@@ -1,0 +1,1 @@
+{"index": 260999, "D": "a person who makes rates  or ratings.", "S": [], "A": []}

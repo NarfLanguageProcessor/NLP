@@ -1,0 +1,1 @@
+{"index": 69576, "D": "an unattached cell, especially of a kind that floats freely, as a blood or lymph cell.", "S": [], "A": []}

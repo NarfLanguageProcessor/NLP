@@ -1,0 +1,1 @@
+{"index": 219254, "D": "having expectations; expecting", "S": [], "A": []}

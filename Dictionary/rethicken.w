@@ -1,0 +1,1 @@
+{"index": 270398, "D": "to make or become thick or thicker.", "S": [], "A": []}

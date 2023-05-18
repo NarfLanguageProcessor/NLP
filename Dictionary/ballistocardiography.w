@@ -1,0 +1,1 @@
+{"index": 26996, "D": "a device that determines cardiac output by recording the movements of the body caused by contraction of the heart and ejection of blood into the aorta.", "S": [], "A": []}

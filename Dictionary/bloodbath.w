@@ -1,0 +1,1 @@
+{"index": 36419, "D": "a ruthless slaughter of a great number of people; massacre.", "S": ["carnage ", "purge ", "slaughter "], "A": []}

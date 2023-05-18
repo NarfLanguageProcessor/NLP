@@ -1,0 +1,1 @@
+{"index": 66017, "D": "of, relating to, or noting a map or transformation in which angles and scale are preserved.", "S": [], "A": []}

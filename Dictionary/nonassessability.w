@@ -1,0 +1,1 @@
+{"index": 201498, "D": "(of stock) exempting the investor from any expense or liability beyond the amount of the investment.", "S": [], "A": []}

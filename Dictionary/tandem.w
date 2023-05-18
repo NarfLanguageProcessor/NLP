@@ -1,0 +1,1 @@
+{"index": 315996, "D": "one following or behind the other", "S": ["bike "], "A": []}

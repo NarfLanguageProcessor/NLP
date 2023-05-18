@@ -1,0 +1,1 @@
+{"index": 126563, "D": "a glomerate  condition; conglomeration.", "S": [], "A": []}

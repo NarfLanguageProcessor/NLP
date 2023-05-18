@@ -1,0 +1,1 @@
+{"index": 156787, "D": "a part of a psalm with antiphon recited by the celebrant of the Mass at the foot of the altar and, at High Mass, sung by the choir when the priest begins the Mass.", "S": [], "A": []}

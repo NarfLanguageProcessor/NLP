@@ -1,0 +1,1 @@
+{"index": 179319, "D": "(in ancient Rome) a subdivision of a legion, consisting of 60 or 120 men.", "S": [], "A": []}

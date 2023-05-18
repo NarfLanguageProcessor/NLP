@@ -1,0 +1,1 @@
+{"index": 343573, "D": "an unavoidable danger or risk, even though often foreseeable", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86760, "D": "guided, regulated, or managed", "S": ["conducted "], "A": ["vagrant ", "wandering "]}

@@ -1,0 +1,1 @@
+{"index": 21838, "D": "to give support or aid to; help", "S": ["ancillary ", "assistant ", "auxiliary ", "subsidiary "], "A": ["impeding "]}

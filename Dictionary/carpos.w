@@ -1,0 +1,1 @@
+{"index": 48462, "D": "an ancient Greek goddess of summer fruit, considered by Athenians as one of the Horae.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348298, "D": "prevented or made impossible; disallowed or ruled out", "S": [], "A": []}

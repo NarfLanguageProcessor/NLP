@@ -1,0 +1,1 @@
+{"index": 145381, "D": "(before 1872) the temporary platform on which candidates for the British Parliament stood when nominated and from which they addressed the electors.", "S": [], "A": []}

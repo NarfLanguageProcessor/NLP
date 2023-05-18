@@ -1,0 +1,1 @@
+{"index": 178938, "D": "a tropical American tree or shrub, Hippomane mancinella, of the spurge family, having a milky, highly caustic, poisonous sap.", "S": [], "A": []}

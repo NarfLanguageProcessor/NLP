@@ -1,0 +1,1 @@
+{"index": 307464, "D": "situated or extending beneath the clavicle, as certain arteries or veins.", "S": [], "A": []}

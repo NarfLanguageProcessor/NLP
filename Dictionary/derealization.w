@@ -1,0 +1,1 @@
+{"index": 82027, "D": "an alteration in perception leading to the feeling that the reality of the world has been changed or lost.", "S": [], "A": []}

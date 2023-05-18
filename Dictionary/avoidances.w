@@ -1,0 +1,1 @@
+{"index": 24852, "D": "the act of avoiding  or keeping away from", "S": ["evasion ", "prevention ", "restraint "], "A": ["advance ", "arrival ", "coming ", "continuation ", "stay "]}

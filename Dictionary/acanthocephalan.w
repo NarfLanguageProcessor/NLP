@@ -1,0 +1,1 @@
+{"index": 1293, "D": "any parasitic worm of the phylum or class Acanthocephala, having a proboscis covered with recurved hooks.", "S": [], "A": []}

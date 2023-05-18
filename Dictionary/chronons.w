@@ -1,0 +1,1 @@
+{"index": 56470, "D": "a hypothetical unit of time, taken as a ratio between the diameter of the electron and the velocity of light, equivalent to approximately 10\u221224 second.", "S": [], "A": []}

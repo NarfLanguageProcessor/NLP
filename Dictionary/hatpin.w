@@ -1,0 +1,1 @@
+{"index": 134247, "D": "a long pin  for securing a woman's hat  to her hair, often having a bulbous decorative head of colored glass, simulated pearl, or the like.", "S": [], "A": []}

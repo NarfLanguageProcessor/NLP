@@ -1,0 +1,1 @@
+{"index": 203579, "D": "pertaining to or of the nature of an episode. ", "S": [], "A": []}

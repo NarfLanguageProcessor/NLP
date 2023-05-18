@@ -1,0 +1,1 @@
+{"index": 24892, "D": "an open statement of affirmation; frank acknowledgment or admission.", "S": ["admission ", "affirmation ", "announcement ", "assertion ", "confession ", "declaration ", "oath ", "proclamation ", "testimony "], "A": ["denial ", "disavowal ", "secret "]}

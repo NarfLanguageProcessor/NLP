@@ -1,0 +1,1 @@
+{"index": 188976, "D": "to conceive  or interpret wrongly; misunderstand.", "S": ["confound ", "confuse ", "fail ", "misapply ", "misapprehend ", "miscalculate ", "misconstrue ", "misinterpret ", "misjudge ", "misread ", "miss ", "mistake "], "A": ["clarify ", "clear up ", "comprehend ", "enlighten ", "explain ", "get ", "perceive ", "succeed ", "understand "]}

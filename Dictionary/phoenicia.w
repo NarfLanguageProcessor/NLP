@@ -1,0 +1,1 @@
+{"index": 234596, "D": "an ancient kingdom on the Mediterranean, in the region of modern Syria, Lebanon, and Israel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 299028, "D": "rapidity in moving, going, traveling, proceeding, or performing; swiftness; celerity", "S": [], "A": []}

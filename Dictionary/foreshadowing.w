@@ -1,0 +1,1 @@
+{"index": 116953, "D": "an indication of something that will happen in the future, often used as a literary device to hint at or allude to future plot developments", "S": ["divinatory ", "fatidic ", "fatidical ", "mantic ", "ominous ", "oracular ", "predictive ", "presaging ", "prophetical ", "sibylline ", "telling ", "vatic ", "vatical ", "visionary "], "A": []}

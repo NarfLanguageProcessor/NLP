@@ -1,0 +1,1 @@
+{"index": 107870, "D": "to expand with force and noise because of rapid chemical change or decomposition, as gunpowder or nitroglycerine (opposed to implode).", "S": ["breaking "], "A": ["calm ", "peaceful ", "stable "]}

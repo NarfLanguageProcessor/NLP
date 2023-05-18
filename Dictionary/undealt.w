@@ -1,0 +1,1 @@
+{"index": 338423, "D": "simple past tense and past participle of deal1. ", "S": [], "A": []}

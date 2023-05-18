@@ -1,0 +1,1 @@
+{"index": 203935, "D": "of, relating to, or characteristic of a family", "S": [], "A": []}

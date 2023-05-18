@@ -1,0 +1,1 @@
+{"index": 132399, "D": "a hand-held electric device that blows out hot air and is used to dry and, sometimes, assist in styling the hair, as in blow-drying", "S": [], "A": []}

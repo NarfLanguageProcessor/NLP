@@ -1,0 +1,1 @@
+{"index": 346160, "D": "given to, characterized by, or indicative of meditation;  contemplative.", "S": [], "A": []}

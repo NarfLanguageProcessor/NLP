@@ -1,0 +1,1 @@
+{"index": 84944, "D": "a plural of dictum. ", "S": [], "A": []}

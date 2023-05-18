@@ -1,0 +1,1 @@
+{"index": 68808, "D": "the hard, variously colored, calcareous skeleton secreted by certain marine polyps.", "S": ["glowing ", "rose-colored "], "A": ["depressing ", "hopeless ", "pale ", "sad "]}

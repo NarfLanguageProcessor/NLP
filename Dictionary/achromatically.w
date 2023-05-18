@@ -1,0 +1,1 @@
+{"index": 2338, "D": "able to emit, transmit, or receive light without separating it into colors.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 302803, "D": "any of several spherical bacteria of the genus Staphylococcus, occurring in pairs, tetrads, and irregular clusters, certain species of which, as S. aureus, can be pathogenic for humans.", "S": [], "A": []}

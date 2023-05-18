@@ -1,0 +1,1 @@
+{"index": 80162, "D": "a more or less temporary disorder of the mental faculties, as in fevers, disturbances of consciousness, or intoxication, characterized by restlessness, excitement, delusions, hallucinations, etc.", "S": [], "A": []}

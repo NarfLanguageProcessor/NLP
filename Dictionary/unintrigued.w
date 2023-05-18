@@ -1,0 +1,1 @@
+{"index": 344808, "D": "curious about or fascinated by something unusual or mysterious", "S": [], "A": []}

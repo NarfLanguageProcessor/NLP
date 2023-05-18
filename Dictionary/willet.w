@@ -1,0 +1,1 @@
+{"index": 365776, "D": "a large, eastern North American shorebird, Catoptrophorus semipalmatus, having a striking black and white wing pattern.", "S": [], "A": []}

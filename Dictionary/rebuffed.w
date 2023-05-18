@@ -1,0 +1,1 @@
+{"index": 262449, "D": "a blunt or abrupt rejection, as of a person making advances.", "S": ["banned ", "blocked ", "denied ", "dismissed ", "disowned ", "forbidden ", "forsaken ", "prohibited ", "rejected ", "repelled ", "repudiated ", "spurned ", "vetoed "], "A": ["allowed ", "permitted "]}

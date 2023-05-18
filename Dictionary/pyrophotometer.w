@@ -1,0 +1,1 @@
+{"index": 237914, "D": "a form of pyrometer that measures temperature by optical or photometric means.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265140, "D": "to cast back (light, heat, sound, etc.) from a surface", "S": ["echo ", "follow ", "mirror ", "reverse "], "A": ["request ", "take "]}

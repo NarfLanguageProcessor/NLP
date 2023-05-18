@@ -1,0 +1,1 @@
+{"index": 40970, "D": "any of various wingless insects of the order Thysanura, having long, bristlelike, caudal appendages, comprising the firebrats, silverfish, and machilids.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149917, "D": "to stir, encourage, or urge on; stimulate or prompt to action", "S": ["challenging ", "disturbing ", "exciting ", "inspirational ", "insulting ", "offensive ", "outrageous "], "A": ["pleasing "]}

@@ -1,0 +1,1 @@
+{"index": 5976, "D": "a variant of aging. ", "S": ["deteriorate ", "develop ", "get along ", "grow ", "grow up ", "mature "], "A": ["cease ", "decrease ", "halt ", "lessen ", "stop ", "increase ", "rise "]}

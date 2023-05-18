@@ -1,0 +1,1 @@
+{"index": 144260, "D": "a frankfurter.", "S": ["alarm ", "appall ", "astonish ", "daunt ", "dazzle ", "flabbergast ", "frighten ", "horrify ", "impress ", "intimidate ", "scare ", "startle ", "stun ", "stupefy ", "terrify "], "A": ["assist ", "bore ", "calm ", "comfort ", "delight ", "embolden ", "encourage ", "expect ", "gladden ", "help ", "please ", "reassure ", "soothe "]}

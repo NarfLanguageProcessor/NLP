@@ -1,0 +1,1 @@
+{"index": 80903, "D": "to reduce to a lower grade, rank, class, or position (opposed to promote)", "S": ["humiliated "], "A": ["honored ", "in favor ", "restored "]}

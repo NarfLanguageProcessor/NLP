@@ -1,0 +1,1 @@
+{"index": 369633, "D": "(of a woman) having a pleasantly plump figure.", "S": [], "A": []}

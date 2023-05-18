@@ -1,0 +1,1 @@
+{"index": 189041, "D": "depraved, villainous, or base.", "S": ["criminal ", "degenerate ", "reprobate "], "A": ["moral "]}

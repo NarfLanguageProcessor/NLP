@@ -1,0 +1,1 @@
+{"index": 185138, "D": "an instrument for automatically recording various meteorological conditions, as barometric pressure and temperature, at the same time.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66486, "D": "existing in a person or thing from birth or origin; inborn", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133241, "D": "to pick  by hand. ", "S": ["super "], "A": ["inept ", "inferior ", "poor ", "unskilled ", "worst "]}

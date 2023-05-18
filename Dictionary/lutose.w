@@ -1,0 +1,1 @@
+{"index": 176529, "D": "covered with a powdery substance resembling mud, as certain insects.", "S": [], "A": []}

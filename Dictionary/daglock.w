@@ -1,0 +1,1 @@
+{"index": 76213, "D": "a dangling, matted lock  of wool on a sheep.", "S": [], "A": []}

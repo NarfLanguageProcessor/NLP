@@ -1,0 +1,1 @@
+{"index": 24136, "D": "Auger effect. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165371, "D": "(in Thailand) a canal.", "S": [], "A": []}

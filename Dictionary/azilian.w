@@ -1,0 +1,1 @@
+{"index": 25260, "D": "of, relating to, or characteristic of an early Mesolithic culture of southern France and northern Spain.", "S": [], "A": []}

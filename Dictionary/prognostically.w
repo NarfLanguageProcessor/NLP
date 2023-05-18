@@ -1,0 +1,1 @@
+{"index": 251886, "D": "of or relating to prognosis. ", "S": [], "A": []}

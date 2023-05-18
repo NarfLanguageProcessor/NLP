@@ -1,0 +1,1 @@
+{"index": 23417, "D": "pertaining to St. Augustine  of Hippo, to his doctrines, or to any religious order following his rule.", "S": [], "A": []}

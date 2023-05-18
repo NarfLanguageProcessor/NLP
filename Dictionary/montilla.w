@@ -1,0 +1,1 @@
+{"index": 192934, "D": "a dry, rather bitter wine of Spain.", "S": [], "A": []}

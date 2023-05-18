@@ -1,0 +1,1 @@
+{"index": 52380, "D": "an archaic variant of khan1. ", "S": [], "A": []}

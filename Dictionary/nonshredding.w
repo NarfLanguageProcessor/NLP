@@ -1,0 +1,1 @@
+{"index": 207221, "D": "furring attached to the undersides of rafters.", "S": [], "A": []}

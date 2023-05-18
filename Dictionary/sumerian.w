@@ -1,0 +1,1 @@
+{"index": 310882, "D": "of or relating to Sumer,  its people, or their language.", "S": [], "A": []}

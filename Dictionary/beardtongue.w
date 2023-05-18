@@ -1,0 +1,1 @@
+{"index": 29538, "D": "any plant belonging to the genus Penstemon, of the figwort family.", "S": [], "A": []}

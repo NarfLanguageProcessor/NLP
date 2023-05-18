@@ -1,0 +1,1 @@
+{"index": 173956, "D": "to put life into; rouse; enliven; cheer (often followed by up)", "S": ["energize ", "enliven ", "exalt ", "excite ", "hearten ", "inspire "], "A": ["bore ", "discourage ", "tire ", "calm ", "delay ", "depress ", "deter ", "disenchant ", "dishearten ", "dissuade ", "dull ", "halt ", "slow ", "stop ", "suppress "]}

@@ -1,0 +1,1 @@
+{"index": 123801, "D": "Compare heliocentrism. ", "S": [], "A": []}

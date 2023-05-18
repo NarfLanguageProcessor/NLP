@@ -1,0 +1,1 @@
+{"index": 237438, "D": "a colorless, water-soluble liquid, C5H11N, obtained from the alkaloid piperine or from pyridine", "S": [], "A": []}

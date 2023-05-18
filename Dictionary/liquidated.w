@@ -1,0 +1,1 @@
+{"index": 173302, "D": "to settle or pay (a debt)", "S": ["buried ", "deceased ", "late ", "lifeless "], "A": ["alive ", "living "]}

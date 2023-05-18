@@ -1,0 +1,1 @@
+{"index": 118578, "D": "to act as a freebooter; plunder; loot.", "S": [], "A": []}

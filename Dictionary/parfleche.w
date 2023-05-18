@@ -1,0 +1,1 @@
+{"index": 226435, "D": "a rawhide that has been dried after having been soaked in a solution of lye and water to remove the hair.", "S": [], "A": []}

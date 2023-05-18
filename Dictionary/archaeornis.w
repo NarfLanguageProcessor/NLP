@@ -1,0 +1,1 @@
+{"index": 18684, "D": "an extinct primitive Jurassic bird, formerly placed in the genus Archaeornis but now thought to be a species of archaeopteryx", "S": [], "A": []}

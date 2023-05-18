@@ -1,0 +1,1 @@
+{"index": 64465, "D": "capable of existing or living together in harmony", "S": [], "A": []}

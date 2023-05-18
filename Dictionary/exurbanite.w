@@ -1,0 +1,1 @@
+{"index": 108840, "D": "a person who lives in an exurb, especially one who has moved there from a city.", "S": [], "A": []}

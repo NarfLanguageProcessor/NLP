@@ -1,0 +1,1 @@
+{"index": 154182, "D": "not altered, broken, or impaired; remaining uninjured, sound, or whole; untouched; unblemished", "S": [], "A": []}

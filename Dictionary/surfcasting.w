@@ -1,0 +1,1 @@
+{"index": 313405, "D": "the act, technique, or sport of fishing by casting from the shoreline into the sea, usually using heavy-duty tackle.", "S": [], "A": []}

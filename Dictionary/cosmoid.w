@@ -1,0 +1,1 @@
+{"index": 70057, "D": "(of the scales of coelacanths and lungfish) consisting of two inner bony layers and an outer layer of cosmine", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 327814, "D": "any major transverse part of the body of a church, usually crossing the nave, at right angles, at the entrance to the choir.", "S": [], "A": []}

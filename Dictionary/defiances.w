@@ -1,0 +1,1 @@
+{"index": 79261, "D": "a daring or bold resistance to authority or to any opposing force.", "S": ["confrontation ", "contempt ", "opposition ", "provocation ", "rebellion ", "spite "], "A": ["calm ", "harmony ", "love ", "peace ", "answer ", "care ", "caution ", "cowardice ", "fear ", "humility ", "modesty ", "timidity "]}

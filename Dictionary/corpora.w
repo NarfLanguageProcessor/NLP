@@ -1,0 +1,1 @@
+{"index": 69509, "D": "a plural of corpus. ", "S": ["bulk ", "collection ", "compilation ", "core ", "entirety ", "mass ", "oeuvre ", "staple ", "substance ", "whole "], "A": ["part "]}

@@ -1,0 +1,1 @@
+{"index": 365395, "D": "a variant of whoosis. ", "S": ["appliance ", "device ", "gear ", "gizmo ", "machine ", "machinery ", "means ", "mechanism "], "A": []}

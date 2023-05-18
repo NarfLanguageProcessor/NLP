@@ -1,0 +1,1 @@
+{"index": 117800, "D": "to undermine another's digging; search for waste gold in relinquished workings, washing places, etc.", "S": [], "A": []}

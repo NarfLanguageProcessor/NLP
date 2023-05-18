@@ -1,0 +1,1 @@
+{"index": 227257, "D": "a turn or course of a horse backward or forward on the same ground.", "S": [], "A": []}

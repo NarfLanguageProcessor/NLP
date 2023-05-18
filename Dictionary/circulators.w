@@ -1,0 +1,1 @@
+{"index": 58040, "D": "a person who moves from place to place.", "S": ["blabbermouth ", "busybody ", "chatterbox ", "chatterer ", "flibbertigibbet ", "gossipmonger ", "informer ", "meddler ", "newsmonger ", "parrot ", "prattler ", "rumormonger ", "scandalmonger ", "snoop ", "talebearer ", "tattler ", "telltale "], "A": ["fact "]}

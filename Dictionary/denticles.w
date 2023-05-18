@@ -1,0 +1,1 @@
+{"index": 81292, "D": "a small tooth or toothlike part.", "S": ["cog ", "dent ", "peg ", "point ", "projection ", "prong ", "serration ", "stub "], "A": []}

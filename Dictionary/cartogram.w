@@ -1,0 +1,1 @@
+{"index": 48642, "D": "a diagrammatic presentation in highly abstracted or simplified form, commonly of statistical data, on a map base or distorted map base.", "S": [], "A": []}

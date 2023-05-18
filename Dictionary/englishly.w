@@ -1,0 +1,1 @@
+{"index": 100398, "D": "in the manner or style of the English people.", "S": [], "A": []}

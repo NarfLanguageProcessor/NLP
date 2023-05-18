@@ -1,0 +1,1 @@
+{"index": 255961, "D": "any of certain plants that yield a red dye, as the bloodroot and certain plants belonging to the genus Lithospermum, of the borage family.", "S": [], "A": []}

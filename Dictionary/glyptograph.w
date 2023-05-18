@@ -1,0 +1,1 @@
+{"index": 126391, "D": "an engraved or carved design, as on a gem.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 215029, "D": "a theory that the evolution of a species in a continuous, nonbranching manner is due to a predetermined series of alterations intrinsic to the species and not subject to natural selection.", "S": [], "A": []}

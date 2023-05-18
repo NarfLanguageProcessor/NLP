@@ -1,0 +1,1 @@
+{"index": 285798, "D": "a tomb, grave, or burial place.", "S": ["burial ", "catacomb ", "crypt ", "necropolis ", "repository ", "tomb ", "vault "], "A": []}

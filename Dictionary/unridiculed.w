@@ -1,0 +1,1 @@
+{"index": 349940, "D": "speech or action intended to cause contemptuous laughter at a person or thing; derision.", "S": [], "A": []}

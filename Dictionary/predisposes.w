@@ -1,0 +1,1 @@
+{"index": 247069, "D": "to give an inclination or tendency to beforehand; make susceptible", "S": ["dispose ", "incline "], "A": ["comply ", "consent ", "discourage ", "dissuade ", "halt ", "ignore ", "leave alone ", "lose ", "neglect ", "obey ", "prevent ", "stop "]}

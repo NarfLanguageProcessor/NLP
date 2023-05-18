@@ -1,0 +1,1 @@
+{"index": 360378, "D": "any of various devices, usually having two jaws that may be brought together or separated by means of a screw, lever, or the like, used to hold an object firmly while work is being done on it.", "S": [], "A": []}

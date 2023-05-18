@@ -1,0 +1,1 @@
+{"index": 130928, "D": "a wicker chair having a tall back arched over the seat to form a hood.", "S": [], "A": []}

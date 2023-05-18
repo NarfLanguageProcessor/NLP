@@ -1,0 +1,1 @@
+{"index": 56953, "D": "the study of automatic control and communication functions in both living organisms and mechanical and electronic systems, involving the application of statistical mechanics to feedback", "S": ["automation "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348949, "D": "to make more rapid; accelerate; hasten", "S": [], "A": []}

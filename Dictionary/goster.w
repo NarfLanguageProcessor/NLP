@@ -1,0 +1,1 @@
+{"index": 128256, "D": "to laugh uncontrollably", "S": [], "A": []}

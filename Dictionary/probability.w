@@ -1,0 +1,1 @@
+{"index": 251007, "D": "the quality or fact of being probable.", "S": ["anticipation ", "chance ", "contingency ", "expectation ", "feasibility ", "odds ", "possibility ", "prospect "], "A": ["certainty ", "unlikelihood ", "reality "]}

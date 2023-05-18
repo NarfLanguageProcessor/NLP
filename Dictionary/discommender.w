@@ -1,0 +1,1 @@
+{"index": 87468, "D": "to express disapproval of; belittle; disparage. The diners discommended the wine.", "S": [], "A": []}

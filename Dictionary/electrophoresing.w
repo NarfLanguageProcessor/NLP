@@ -1,0 +1,1 @@
+{"index": 97206, "D": "to subject (a colloidal solution) to electrophoresis.", "S": [], "A": []}

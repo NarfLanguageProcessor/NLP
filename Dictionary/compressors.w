@@ -1,0 +1,1 @@
+{"index": 64878, "D": "a person or thing that compresses. ", "S": [], "A": []}

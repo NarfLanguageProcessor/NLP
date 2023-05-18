@@ -1,0 +1,1 @@
+{"index": 260039, "D": "good-humored ridicule; banter.", "S": ["badinage ", "fun ", "ribbing ", "ridicule ", "teasing "], "A": []}

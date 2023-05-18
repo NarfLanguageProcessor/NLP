@@ -1,0 +1,1 @@
+{"index": 200745, "D": "the science of the intellect or of pure thought; reasoning.", "S": [], "A": []}

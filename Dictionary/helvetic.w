@@ -1,0 +1,1 @@
+{"index": 135838, "D": "a Swiss Protestant; Zwinglian.", "S": [], "A": []}

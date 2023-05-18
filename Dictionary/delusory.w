@@ -1,0 +1,1 @@
+{"index": 80305, "D": "tending to delude;  misleading; deceptive", "S": ["chimeric ", "chimerical ", "deceitful ", "deceiving ", "deluding ", "delusive ", "fallacious ", "false ", "illusive ", "illusory ", "imaginary ", "misleading "], "A": []}

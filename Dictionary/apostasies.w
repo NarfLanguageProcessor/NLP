@@ -1,0 +1,1 @@
+{"index": 17412, "D": "a total desertion of or departure from one's religion, principles, party, cause, etc.", "S": ["abandonment ", "dereliction ", "disaffection ", "estrangement ", "tergiversation "], "A": []}

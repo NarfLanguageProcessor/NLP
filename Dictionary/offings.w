@@ -1,0 +1,1 @@
+{"index": 211651, "D": "the more distant part of the sea seen from the shore, beyond the anchoring ground.", "S": ["assassination ", "bloodshed ", "crime ", "destruction ", "felony ", "homicide ", "lynching ", "manslaughter ", "massacre ", "shooting ", "slaying ", "terrorism "], "A": []}

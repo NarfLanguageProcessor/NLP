@@ -1,0 +1,1 @@
+{"index": 6470, "D": "rural; rustic.", "S": ["agrarian ", "bucolic ", "homey ", "provincial ", "rustic "], "A": ["metropolitan "]}

@@ -1,0 +1,1 @@
+{"index": 365684, "D": "a card having its value decided by the wishes of the players.", "S": [], "A": []}

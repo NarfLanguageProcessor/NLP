@@ -1,0 +1,1 @@
+{"index": 347127, "D": "lubricated or smeared with or as if with oil. ", "S": [], "A": []}

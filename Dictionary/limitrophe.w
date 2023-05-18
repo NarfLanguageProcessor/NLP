@@ -1,0 +1,1 @@
+{"index": 172412, "D": "(of a country or region) on or near a frontier", "S": [], "A": []}

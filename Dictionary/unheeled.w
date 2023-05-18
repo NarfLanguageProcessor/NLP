@@ -1,0 +1,1 @@
+{"index": 343639, "D": "provided with a heel  or heels. ", "S": [], "A": []}

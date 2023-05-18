@@ -1,0 +1,1 @@
+{"index": 192498, "D": "consisting of organisms descended from a single taxon.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349737, "D": "worthy of respect  or esteem; estimable; worthy", "S": ["contemptible ", "degrading ", "ignominious ", "scandalous ", "shocking "], "A": ["exalted ", "honorable ", "respectable "]}

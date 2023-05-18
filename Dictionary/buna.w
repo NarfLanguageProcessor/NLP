@@ -1,0 +1,1 @@
+{"index": 42784, "D": "a brand of synthetic rubber made by polymerizing or copolymerizing butadiene with another material, as acrylonitrile, styrene, or sodium.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68878, "D": "any of a series of steplike portions of a masonry gable that terminate the gable above the surface of the roof.", "S": [], "A": []}

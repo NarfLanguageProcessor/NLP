@@ -1,0 +1,1 @@
+{"index": 279805, "D": "a line of cliffs formed by the faulting or fracturing of the earth's crust; an escarpment.", "S": [], "A": []}

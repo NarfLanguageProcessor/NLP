@@ -1,0 +1,1 @@
+{"index": 346350, "D": "simple past tense and past participle of mill1. ", "S": ["amateurish ", "coarse ", "harsh ", "homemade ", "makeshift ", "primitive ", "raw ", "rude ", "rudimentary ", "simple ", "unprocessed "], "A": ["refined ", "smooth ", "sophisticated ", "polished "]}

@@ -1,0 +1,1 @@
+{"index": 287930, "D": "a thin slab of wood, metal, etc., fixed horizontally to a wall or in a frame, for supporting objects.", "S": [], "A": []}

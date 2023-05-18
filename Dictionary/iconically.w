@@ -1,0 +1,1 @@
+{"index": 146186, "D": "of, relating to, or characteristic of an icon. ", "S": [], "A": []}

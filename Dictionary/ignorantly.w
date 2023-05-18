@@ -1,0 +1,1 @@
+{"index": 147084, "D": "lacking in knowledge or training; unlearned", "S": ["outwardly "], "A": ["carefully ", "deeply ", "thoroughly "]}

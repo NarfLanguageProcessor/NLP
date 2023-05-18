@@ -1,0 +1,1 @@
+{"index": 361386, "D": "a measure of the circulation of a fluid", "S": [], "A": []}

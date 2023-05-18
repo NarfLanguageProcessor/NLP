@@ -1,0 +1,1 @@
+{"index": 131539, "D": "flowing out suddenly, forcefully, or in large volume, as fluid that has been confined", "S": [], "A": []}

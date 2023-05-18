@@ -1,0 +1,1 @@
+{"index": 162138, "D": "Compare mugging. ", "S": [], "A": []}

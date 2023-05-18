@@ -1,0 +1,1 @@
+{"index": 294195, "D": "any of several tropical American plants belonging to the genus Calceolaria, of the figwort family, having opposite or whorled leaves and slipper-shaped flowers.", "S": [], "A": []}

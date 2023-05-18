@@ -1,0 +1,1 @@
+{"index": 123454, "D": "to infer (a general  principle, trend, etc.) from particular facts, statistics, or the like.", "S": [], "A": []}

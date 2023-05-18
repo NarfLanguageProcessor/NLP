@@ -1,0 +1,1 @@
+{"index": 38397, "D": "to weary by dullness, tedious repetition, unwelcome attentions, etc.", "S": ["pain in the neck ", "wimp "], "A": ["charmer ", "pleasure "]}

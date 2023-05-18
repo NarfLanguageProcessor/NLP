@@ -1,0 +1,1 @@
+{"index": 357139, "D": "a semiconductor diode whose capacitance changes to match applied voltage, used to tune circuits by varying the reactance.", "S": [], "A": []}

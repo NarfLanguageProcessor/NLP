@@ -1,0 +1,1 @@
+{"index": 191905, "D": "mongrel, especially a mongrel dog.", "S": [], "A": []}

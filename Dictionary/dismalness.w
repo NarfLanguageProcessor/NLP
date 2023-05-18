@@ -1,0 +1,1 @@
+{"index": 88651, "D": "causing gloom or dejection; gloomy; dreary; cheerless; melancholy", "S": [], "A": []}

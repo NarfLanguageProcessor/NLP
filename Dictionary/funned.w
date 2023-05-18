@@ -1,0 +1,1 @@
+{"index": 120298, "D": "something that provides mirth or amusement", "S": ["banter ", "chaff ", "deride ", "flout ", "fool ", "fun ", "gibe ", "gird ", "jeer ", "jive ", "jolly ", "josh ", "kid ", "mock ", "needle ", "quip ", "rag ", "razz ", "rib ", "roast ", "scoff ", "sneer ", "spoof ", "tease "], "A": ["commend ", "compliment ", "flatter ", "praise "]}

@@ -1,0 +1,1 @@
+{"index": 149785, "D": "to take in; ingest.", "S": [], "A": []}

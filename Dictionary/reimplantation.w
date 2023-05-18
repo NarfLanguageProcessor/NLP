@@ -1,0 +1,1 @@
+{"index": 266143, "D": "the surgical restoration of a tooth, organ, limb, or other structure to its original site.", "S": [], "A": []}

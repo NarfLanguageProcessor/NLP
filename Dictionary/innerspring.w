@@ -1,0 +1,1 @@
+{"index": 153031, "D": "having or characterized by a large number of enclosed coil springs  within an overall padding", "S": ["bed ", "cushion ", "pallet "], "A": []}

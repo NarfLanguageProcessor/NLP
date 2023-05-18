@@ -1,0 +1,1 @@
+{"index": 364293, "D": "any of various wingless insects of the family Stenopelmatidae of New Zealand, with long spiny legs", "S": [], "A": []}

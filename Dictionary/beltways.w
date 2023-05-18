@@ -1,0 +1,1 @@
+{"index": 31320, "D": "a highway around the perimeter of an urban area.", "S": ["artery ", "highway ", "interstate ", "road ", "superhighway ", "thoroughfare "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 138935, "D": "an optical device for viewing objects below the surface of water.", "S": [], "A": []}

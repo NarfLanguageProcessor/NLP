@@ -1,0 +1,1 @@
+{"index": 50888, "D": "a monetary unit of various nations and territories, as Lichtenstein, Martinique, Senegal, Switzerland, and Tahiti, one 100th of a franc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 319660, "D": "(in the Jesuit order) a period of strict discipline before the taking of final vows, beginning one or two years after ordination.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 319637, "D": "intense, sharp, overmastering fear", "S": [], "A": []}

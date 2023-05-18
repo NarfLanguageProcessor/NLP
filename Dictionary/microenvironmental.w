@@ -1,0 +1,1 @@
+{"index": 186113, "D": "the environment  of a small area or of a particular organism; microhabitat.", "S": [], "A": []}

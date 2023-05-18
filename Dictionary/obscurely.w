@@ -1,0 +1,1 @@
+{"index": 210343, "D": "in a way that is not expressed clearly or plainly; ambiguously or vaguely", "S": ["covertly ", "darkly ", "dingily ", "dully ", "duskily ", "gloomily ", "hazily ", "indecisively ", "indefinably ", "indefinitely ", "indistinctly ", "nebulously ", "secretly ", "tenebrously ", "thickly ", "unobtrusively ", "vaguely "], "A": []}

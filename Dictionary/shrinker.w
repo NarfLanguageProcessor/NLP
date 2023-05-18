@@ -1,0 +1,1 @@
+{"index": 289235, "D": "a person or thing that shrinks. ", "S": [], "A": []}

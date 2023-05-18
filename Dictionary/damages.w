@@ -1,0 +1,1 @@
+{"index": 76508, "D": "money to be paid as compensation to a person for injury, loss, etc", "S": ["amends ", "bill ", "charge ", "compensation ", "expense ", "fine ", "forfeit ", "indemnity ", "reimbursement ", "reparation ", "satisfaction ", "total "], "A": ["award ", "profit ", "recompense ", "reward "]}

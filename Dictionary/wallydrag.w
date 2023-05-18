@@ -1,0 +1,1 @@
+{"index": 362250, "D": "a feeble, dwarfed animal or person.", "S": [], "A": []}

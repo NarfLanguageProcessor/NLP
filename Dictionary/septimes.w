@@ -1,0 +1,1 @@
+{"index": 285747, "D": "the seventh of eight defensive positions.", "S": [], "A": []}

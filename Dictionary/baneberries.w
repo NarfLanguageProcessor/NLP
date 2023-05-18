@@ -1,0 +1,1 @@
+{"index": 27405, "D": "any plant belonging to the genus Actaea, of the buttercup family, having large compound leaves, spikes of small white flowers, and poisonous red or white berries. ", "S": [], "A": []}

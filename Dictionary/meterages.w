@@ -1,0 +1,1 @@
+{"index": 185171, "D": "the practice of measuring; measurement.", "S": [], "A": []}

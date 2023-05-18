@@ -1,0 +1,1 @@
+{"index": 184917, "D": "a literal translation.", "S": ["convert ", "decipher ", "put ", "render ", "spell out ", "transcribe ", "turn "], "A": ["remove ", "take ", "complicate ", "confuse ", "mystify ", "obscure "]}

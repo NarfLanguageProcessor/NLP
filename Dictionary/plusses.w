@@ -1,0 +1,1 @@
+{"index": 240639, "D": "more by the addition of; increased by", "S": [], "A": []}

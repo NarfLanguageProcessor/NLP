@@ -1,0 +1,1 @@
+{"index": 206494, "D": "the state or quality of being real.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 32443, "D": "a broom,  especially one of brush or twigs.", "S": ["mop "], "A": []}

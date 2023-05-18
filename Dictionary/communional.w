@@ -1,0 +1,1 @@
+{"index": 64259, "D": "the antiphon sung at a Eucharistic service.", "S": [], "A": []}

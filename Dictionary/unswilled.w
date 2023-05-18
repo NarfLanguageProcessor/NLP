@@ -1,0 +1,1 @@
+{"index": 352596, "D": "liquid or partly liquid food for animals, especially kitchen refuse given to swine; hogwash.", "S": [], "A": []}

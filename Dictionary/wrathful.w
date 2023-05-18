@@ -1,0 +1,1 @@
+{"index": 367854, "D": "very angry; ireful; full of wrath", "S": ["angered ", "angry ", "enraged ", "furious ", "incensed ", "infuriated ", "livid ", "mad "], "A": ["happy ", "pleased "]}

@@ -1,0 +1,1 @@
+{"index": 188292, "D": "(in the Peninsular War) a Spanish guerrilla who fought against the French.", "S": [], "A": []}

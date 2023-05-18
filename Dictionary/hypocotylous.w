@@ -1,0 +1,1 @@
+{"index": 140874, "D": "the part of a plant embryo directly below the cotyledons,  forming a connection with the radicle.", "S": [], "A": []}

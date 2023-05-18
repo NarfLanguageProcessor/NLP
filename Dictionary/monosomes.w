@@ -1,0 +1,1 @@
+{"index": 192668, "D": "a chromosome having no homologue, especially an unpaired X chromosome.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70458, "D": "any of various plants having stems and leaves covered with a soft, hoary pubescence.", "S": [], "A": []}

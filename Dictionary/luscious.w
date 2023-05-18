@@ -1,0 +1,1 @@
+{"index": 176369, "D": "highly pleasing to the taste or smell", "S": ["appetizing ", "distinctive ", "exquisite ", "heavenly ", "juicy ", "lush ", "luxurious ", "opulent ", "piquant ", "savory ", "succulent ", "sumptuous ", "sweet ", "yummy "], "A": ["austere ", "bland ", "distasteful ", "dry ", "dull ", "mean ", "poor ", "ugly ", "unappetizing "]}

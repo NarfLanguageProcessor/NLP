@@ -1,0 +1,1 @@
+{"index": 298870, "D": "a visible incorporeal spirit, especially one of a terrifying nature; ghost; phantom; apparition.", "S": ["demon ", "shadow "], "A": ["absence ", "being ", "reality "]}

@@ -1,0 +1,1 @@
+{"index": 42327, "D": "a plant belonging to the genus Lycopus, of the mint family, especially L. virginicus, reputed to have medicinal properties.", "S": [], "A": []}

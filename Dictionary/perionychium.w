@@ -1,0 +1,1 @@
+{"index": 231140, "D": "the epidermis surrounding the base and sides of a fingernail or toenail.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94815, "D": "pottery of baked or hardened clay, especially any of the coarse, opaque varieties.", "S": ["ceramics ", "stoneware ", "terra cotta "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 281500, "D": "to scratch or scrape, as with the claws or hands.", "S": [], "A": []}

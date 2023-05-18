@@ -1,0 +1,1 @@
+{"index": 88527, "D": "serving or tending to disjoin; separating; dividing; distinguishing.", "S": [], "A": []}

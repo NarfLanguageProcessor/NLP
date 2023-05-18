@@ -1,0 +1,1 @@
+{"index": 164198, "D": "kilogram; kilograms.", "S": [], "A": []}

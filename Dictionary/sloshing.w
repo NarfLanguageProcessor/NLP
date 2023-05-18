@@ -1,0 +1,1 @@
+{"index": 294385, "D": "to splash or move through water, mud, or slush.", "S": ["flounder ", "wade ", "wallow "], "A": []}

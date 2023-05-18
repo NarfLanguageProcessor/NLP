@@ -1,0 +1,1 @@
+{"index": 216671, "D": "a battle or combat.", "S": [], "A": []}

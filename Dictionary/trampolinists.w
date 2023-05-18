@@ -1,0 +1,1 @@
+{"index": 327596, "D": "a sheet, usually of canvas, attached by resilient cords or springs to a horizontal frame several feet above the floor, used by acrobats and gymnasts as a springboard in tumbling.", "S": [], "A": []}

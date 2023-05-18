@@ -1,0 +1,1 @@
+{"index": 369630, "D": [], "S": ["awake ", "conscious ", "viable "], "A": ["dead ", "deceased ", "inanimate ", "lifeless "]}

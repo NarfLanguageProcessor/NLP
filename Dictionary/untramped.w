@@ -1,0 +1,1 @@
+{"index": 353216, "D": "to tread or walk with a firm, heavy, resounding step.", "S": [], "A": []}

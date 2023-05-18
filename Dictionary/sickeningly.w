@@ -1,0 +1,1 @@
+{"index": 289620, "D": "causing or capable of causing sickness, especially nausea, disgust, or loathing", "S": [], "A": []}

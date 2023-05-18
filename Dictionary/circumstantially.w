@@ -1,0 +1,1 @@
+{"index": 58255, "D": "relating to or derived from circumstances", "S": ["accidentally "], "A": ["advisedly ", "deliberately ", "intentionally ", "normally ", "obviously ", "regularly "]}

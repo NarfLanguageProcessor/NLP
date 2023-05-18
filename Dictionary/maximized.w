@@ -1,0 +1,1 @@
+{"index": 181555, "D": "to increase to the greatest possible amount or degree", "S": ["augment ", "bloat ", "boost ", "enlarge ", "escalate ", "exaggerate ", "expand ", "magnify ", "overestimate ", "pad ", "widen "], "A": ["abridge ", "decrease ", "diminish ", "lessen ", "lower ", "play down ", "reduce ", "shrink ", "weaken ", "compress ", "contract ", "debase ", "depress "]}

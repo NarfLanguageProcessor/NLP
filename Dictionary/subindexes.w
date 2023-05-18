@@ -1,0 +1,1 @@
+{"index": 308194, "D": "an index  to a part or subdivision of a larger category.", "S": [], "A": []}

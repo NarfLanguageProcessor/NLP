@@ -1,0 +1,1 @@
+{"index": 192697, "D": "having a single mouth, pore, or stoma.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141217, "D": "having many columns carrying the roof or ceiling", "S": [], "A": []}

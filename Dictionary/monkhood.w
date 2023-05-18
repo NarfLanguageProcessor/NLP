@@ -1,0 +1,1 @@
+{"index": 192053, "D": "the condition or profession of a monk.", "S": ["confinement ", "desolation ", "remoteness ", "segregation ", "solitude "], "A": []}

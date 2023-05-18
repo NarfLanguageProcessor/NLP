@@ -1,0 +1,1 @@
+{"index": 142031, "D": "the act of a person or animal that hoards", "S": ["covetous ", "gluttonous ", "money-grubbing ", "pleonectic ", "predatory ", "rapacious ", "selfish ", "tight "], "A": []}

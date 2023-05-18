@@ -1,0 +1,1 @@
+{"index": 94085, "D": "a mineral, aluminum borosilicate.", "S": [], "A": []}

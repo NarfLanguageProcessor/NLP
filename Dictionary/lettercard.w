@@ -1,0 +1,1 @@
+{"index": 170921, "D": "a large postal card, with gummed edges, that can be folded lengthwise and sealed with the message inside.", "S": [], "A": []}

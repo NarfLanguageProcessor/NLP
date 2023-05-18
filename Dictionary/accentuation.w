@@ -1,0 +1,1 @@
+{"index": 1466, "D": "an act or instance of accentuating. ", "S": ["accent ", "attention ", "emphasizing ", "stress "], "A": ["ignorance ", "unimportance "]}

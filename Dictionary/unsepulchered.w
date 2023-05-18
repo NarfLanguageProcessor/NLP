@@ -1,0 +1,1 @@
+{"index": 350800, "D": "a tomb, grave, or burial place.", "S": [], "A": []}

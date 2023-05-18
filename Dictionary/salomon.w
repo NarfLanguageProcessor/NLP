@@ -1,0 +1,1 @@
+{"index": 277174, "D": "American financier and patriot, born in Poland.", "S": [], "A": []}

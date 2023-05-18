@@ -1,0 +1,1 @@
+{"index": 192405, "D": "a form of dramatic entertainment, comedic solo, or the like by a single speaker", "S": [], "A": []}

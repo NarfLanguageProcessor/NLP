@@ -1,0 +1,1 @@
+{"index": 327481, "D": "to walk or go aimlessly or idly or without finding or reaching one's goal", "S": ["amble ", "lumber ", "meander ", "plod ", "prance ", "roam ", "stroll ", "strut ", "trudge ", "wander "], "A": ["run ", "tiptoe ", "stay "]}

@@ -1,0 +1,1 @@
+{"index": 95424, "D": "the use of an exclamatory phrase, as in \u201cO tempore! O mores!\u201d", "S": [], "A": []}

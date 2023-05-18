@@ -1,0 +1,1 @@
+{"index": 1063, "D": "an act or instance of abstaining. ", "S": ["abstinent ", "ascetic ", "celibate "], "A": ["impure ", "incontinent ", "unchaste "]}

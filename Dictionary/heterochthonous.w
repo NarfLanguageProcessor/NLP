@@ -1,0 +1,1 @@
+{"index": 137512, "D": "not indigenous; foreign (opposed to autochthonous)", "S": [], "A": []}

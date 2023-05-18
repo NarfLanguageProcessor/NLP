@@ -1,0 +1,1 @@
+{"index": 56313, "D": "a colored compound that, though not a dye itself, can be converted into a dye.", "S": [], "A": []}

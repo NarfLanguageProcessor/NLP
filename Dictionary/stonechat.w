@@ -1,0 +1,1 @@
+{"index": 305197, "D": "any of several small Old World birds, especially of the genus Saxicola, as S. torquata.", "S": [], "A": []}

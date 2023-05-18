@@ -1,0 +1,1 @@
+{"index": 79406, "D": "to deprive (a woman) of virginity.", "S": ["assault ", "defile ", "desecrate ", "despoil ", "devour ", "force ", "harm ", "have ", "mar ", "molest ", "outrage ", "possess ", "ravage ", "ravish ", "ruin ", "seduce ", "spoil ", "violate "], "A": ["aid ", "assist ", "help ", "honor ", "improve ", "protect ", "sanctify "]}

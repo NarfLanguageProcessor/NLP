@@ -1,0 +1,1 @@
+{"index": 53214, "D": "a person who is aggressively and blindly patriotic, especially one devoted to military glory.", "S": ["bigot ", "jingoist "], "A": []}

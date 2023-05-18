@@ -1,0 +1,1 @@
+{"index": 278138, "D": "resembling soap; soapy. ", "S": [], "A": []}

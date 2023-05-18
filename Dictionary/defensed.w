@@ -1,0 +1,1 @@
+{"index": 79204, "D": "resistance against attack; protection", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362775, "D": "authorization, sanction, or justification.", "S": ["accreditation ", "certificate ", "credential ", "license ", "passport ", "permission ", "permit ", "pledge ", "sanction ", "subpoena ", "summons ", "ticket "], "A": ["prohibition ", "refusal ", "veto ", "breach ", "break ", "denial ", "uncertainty "]}

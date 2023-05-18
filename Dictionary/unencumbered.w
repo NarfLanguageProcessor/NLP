@@ -1,0 +1,1 @@
+{"index": 341243, "D": "not impeded, slowed down, or retarded; free to move, advance, or go forward.", "S": ["free ", "free as a bird "], "A": []}

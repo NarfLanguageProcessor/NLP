@@ -1,0 +1,1 @@
+{"index": 298801, "D": "to mention or name specifically  or definitely; state in detail", "S": ["cite ", "define ", "determine ", "enumerate ", "establish ", "fix ", "indicate ", "lay out ", "limit ", "mention ", "point out ", "spell out ", "stipulate "], "A": ["confuse ", "destroy ", "neglect ", "unsettle ", "discourage ", "dissuade ", "halt ", "ignore "]}

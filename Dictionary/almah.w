@@ -1,0 +1,1 @@
+{"index": 9094, "D": "(in Egypt) a woman or girl who dances or sings professionally.", "S": [], "A": []}

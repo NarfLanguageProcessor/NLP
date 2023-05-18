@@ -1,0 +1,1 @@
+{"index": 86257, "D": "a period of sexual inactivity between periods of oestrus in animals that have several oestrous cycles in one breeding season", "S": [], "A": []}

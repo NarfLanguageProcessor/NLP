@@ -1,0 +1,1 @@
+{"index": 39357, "D": "a person or thing that braces,  binds, or makes firm.", "S": ["pick-me-up ", "refresher ", "restorative "], "A": []}

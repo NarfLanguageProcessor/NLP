@@ -1,0 +1,1 @@
+{"index": 289527, "D": "of, resembling, or characteristic of a sibyl;  prophetic; oracular.", "S": [], "A": []}

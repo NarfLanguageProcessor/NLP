@@ -1,0 +1,1 @@
+{"index": 315436, "D": "infected, contaminated, corrupted, or spoiled", "S": ["contaminated ", "corrupted ", "dirty ", "infected ", "polluted ", "rotten "], "A": ["moral ", "nice "]}

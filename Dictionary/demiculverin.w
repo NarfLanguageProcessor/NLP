@@ -1,0 +1,1 @@
+{"index": 80499, "D": "a culverin having a bore of about 4\u00bd inches (11 centimeters) and firing a shot of about 10 pounds (5 kilograms).", "S": [], "A": []}

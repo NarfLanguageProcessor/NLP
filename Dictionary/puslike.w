@@ -1,0 +1,1 @@
+{"index": 257223, "D": "a yellow-white, more or less viscid substance produced by suppuration and found in abscesses, sores, etc., consisting of a liquid plasma in which white blood cells are suspended.", "S": [], "A": []}

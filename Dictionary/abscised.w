@@ -1,0 +1,1 @@
+{"index": 903, "D": "to separate by abscission,  as a leaf from a stem.", "S": [], "A": []}

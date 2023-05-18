@@ -1,0 +1,1 @@
+{"index": 322465, "D": "(used in introducing a subordinate clause, which is often marked by ellipsis) notwithstanding that; in spite of the fact that; although", "S": ["nevertheless ", "still "], "A": []}

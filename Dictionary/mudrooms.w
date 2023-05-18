@@ -1,0 +1,1 @@
+{"index": 194722, "D": "a vestibule or other area in a house, in which wet and muddy clothes or footwear are removed.", "S": ["laundry room ", "sewing room "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 138465, "D": "any of a class of chemical compounds that result when hydrogen in hydrazine or any of its derivatives is replaced by an acid radical", "S": [], "A": []}

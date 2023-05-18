@@ -1,0 +1,1 @@
+{"index": 53014, "D": "to pursue in order to seize, overtake, etc.", "S": [], "A": []}

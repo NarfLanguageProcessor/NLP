@@ -1,0 +1,1 @@
+{"index": 221963, "D": "a sac  or capsule containing an ovum or ova.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 76095, "D": "damned (used as a euphemism in expressions of surprise, disgust, anger, etc.)", "S": [], "A": []}

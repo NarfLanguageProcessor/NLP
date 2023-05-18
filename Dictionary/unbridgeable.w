@@ -1,0 +1,1 @@
+{"index": 336196, "D": "a structure spanning and providing passage over a river, chasm, road, or the like.", "S": [], "A": []}

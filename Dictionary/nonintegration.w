@@ -1,0 +1,1 @@
+{"index": 204785, "D": "an act or instance of combining into an integral  whole.", "S": [], "A": []}

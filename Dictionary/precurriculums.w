@@ -1,0 +1,1 @@
+{"index": 246622, "D": "the aggregate of courses of study given in a school, college, university, etc.", "S": [], "A": []}

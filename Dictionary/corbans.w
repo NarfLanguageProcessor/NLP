@@ -1,0 +1,1 @@
+{"index": 68856, "D": "a sacrifice or offering made to God, especially among the ancient Hebrews in fulfillment of a vow.", "S": [], "A": []}

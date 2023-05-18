@@ -1,0 +1,1 @@
+{"index": 319865, "D": "a state marked by severe, intermittent tonic contractions and muscular pain, due to abnormal calcium metabolism.", "S": [], "A": []}

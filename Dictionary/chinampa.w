@@ -1,0 +1,1 @@
+{"index": 54550, "D": "(in Mesoamerica) a long and narrow floating field on a shallow lake bed, artificially built up by layering soil, sediment, and decaying vegetation and used, especially by the Aztecs, to grow crops.", "S": [], "A": []}

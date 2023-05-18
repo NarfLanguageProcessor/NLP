@@ -1,0 +1,1 @@
+{"index": 47403, "D": "a small Spanish or Portuguese sailing vessel of the Middle Ages and later, usually lateen-rigged on two or three masts.", "S": [], "A": []}

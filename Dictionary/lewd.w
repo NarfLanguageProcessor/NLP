@@ -1,0 +1,1 @@
+{"index": 171305, "D": "inclined to, characterized by, or inciting to lust or lechery; lascivious. ", "S": ["bawdy ", "coarse ", "erotic ", "lascivious ", "naughty ", "obscene ", "off-color ", "pornographic ", "racy ", "ribald ", "salacious ", "suggestive ", "vile "], "A": ["chaste ", "clean ", "decent ", "dull ", "gentle ", "moral ", "nice ", "pure ", "upright "]}

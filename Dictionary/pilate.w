@@ -1,0 +1,1 @@
+{"index": 236562, "D": "Pontius (\u02c8p\u0252n\u0283\u0259s, \u02c8p\u0252nt\u026a\u0259s). Roman procurator of Judaea (?26\u2013?36 ad), who ordered the crucifixion of Jesus, allegedly against his better judgment", "S": ["furry ", "hairy "], "A": ["smooth "]}

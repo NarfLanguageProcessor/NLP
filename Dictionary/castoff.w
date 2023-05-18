@@ -1,0 +1,1 @@
+{"index": 49102, "D": "thrown away; rejected; discarded", "S": ["discarded "], "A": []}

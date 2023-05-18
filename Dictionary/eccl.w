@@ -1,0 +1,1 @@
+{"index": 95118, "D": "ecclesiastic(al)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134693, "D": "a beneficial interest for each member of an Indian tribe in the tribal trust fund accruing from the lease of tribal oil, gas, and mineral rights,  the sale of tribal lands, etc.", "S": [], "A": []}

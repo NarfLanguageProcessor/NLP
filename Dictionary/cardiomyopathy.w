@@ -1,0 +1,1 @@
+{"index": 47820, "D": "any disease of the heart muscle, leading to decreased function", "S": [], "A": []}

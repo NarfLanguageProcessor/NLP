@@ -1,0 +1,1 @@
+{"index": 350088, "D": "to articulate (an ordinarily rounded  vowel) without rounding the lips; delabialize.", "S": [], "A": []}

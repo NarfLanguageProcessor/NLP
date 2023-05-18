@@ -1,0 +1,1 @@
+{"index": 282998, "D": "of, relating to, or of the nature of sediment. ", "S": [], "A": []}

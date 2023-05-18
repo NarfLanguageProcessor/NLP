@@ -1,0 +1,1 @@
+{"index": 134269, "D": "of or relating to the Hatti.", "S": [], "A": []}

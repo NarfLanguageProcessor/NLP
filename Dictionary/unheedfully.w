@@ -1,0 +1,1 @@
+{"index": 343634, "D": "taking heed;  attentive; mindful; thoughtful; careful", "S": [], "A": []}

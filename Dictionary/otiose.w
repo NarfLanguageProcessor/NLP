@@ -1,0 +1,1 @@
+{"index": 215889, "D": "being at leisure; idle; indolent. ", "S": ["idle ", "indolent ", "listless ", "slothful "], "A": []}

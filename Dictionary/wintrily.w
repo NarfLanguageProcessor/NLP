@@ -1,0 +1,1 @@
+{"index": 366301, "D": "of or characteristic of winter", "S": [], "A": []}

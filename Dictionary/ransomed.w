@@ -1,0 +1,1 @@
+{"index": 260638, "D": "the redemption of a prisoner or kidnapped person, of captured goods, etc., for a price.", "S": ["bribe ", "compensation ", "deliverance ", "expiation ", "payment ", "payoff ", "price ", "redemption ", "release ", "rescue "], "A": []}

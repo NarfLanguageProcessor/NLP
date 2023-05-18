@@ -1,0 +1,1 @@
+{"index": 282851, "D": "a part that is cut off or separated.", "S": ["area ", "branch ", "category ", "chunk ", "department ", "district ", "field ", "part ", "passage ", "piece ", "region ", "sector ", "segment ", "zone "], "A": ["whole ", "entirety ", "total "]}

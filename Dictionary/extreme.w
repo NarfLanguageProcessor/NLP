@@ -1,0 +1,1 @@
+{"index": 108711, "D": "of a character or kind farthest removed from the ordinary or average", "S": ["acute ", "intense ", "severe ", "utmost "], "A": ["calm ", "dull ", "mild ", "moderate ", "inferior ", "least ", "low ", "lowest ", "unimportant "]}

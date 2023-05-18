@@ -1,0 +1,1 @@
+{"index": 237777, "D": "composed chiefly of fragments of volcanic origin, as agglomerate, tuff, and certain other rocks; volcaniclastic.", "S": [], "A": []}

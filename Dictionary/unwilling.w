@@ -1,0 +1,1 @@
+{"index": 354245, "D": "not willing; reluctant; loath; averse", "S": ["afraid ", "averse ", "compelled ", "evasive ", "forced ", "loath ", "reluctant ", "resistant ", "unenthusiastic "], "A": ["eager ", "enthusiastic ", "ready ", "willing "]}

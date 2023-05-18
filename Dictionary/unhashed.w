@@ -1,0 +1,1 @@
+{"index": 343544, "D": "a dish of diced or chopped meat and often vegetables, as of leftover corned beef or veal and potatoes, saut\u00e9ed in a frying pan, or of meat, potatoes, and carrots cooked together in gravy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111879, "D": "an abnormal condition of the body, characterized by undue rise in temperature, quickening of the pulse, and disturbance of various body functions.", "S": ["agitated ", "frenzied ", "heated ", "restless ", "zealous "], "A": ["calm "]}

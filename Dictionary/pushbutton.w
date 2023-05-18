@@ -1,0 +1,1 @@
+{"index": 257181, "D": "a device designed to close or open an electric circuit when a button or knob is depressed, and to return to a normal position when it is released.", "S": ["control ", "switch "], "A": []}

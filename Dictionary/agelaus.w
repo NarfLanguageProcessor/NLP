@@ -1,0 +1,1 @@
+{"index": 5986, "D": "the herdsman of Priam who raised Paris.", "S": [], "A": []}

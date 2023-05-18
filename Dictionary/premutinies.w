@@ -1,0 +1,1 @@
+{"index": 248514, "D": "revolt or rebellion against constituted authority, especially by sailors against their officers.", "S": [], "A": []}

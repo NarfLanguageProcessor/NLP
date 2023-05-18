@@ -1,0 +1,1 @@
+{"index": 145100, "D": "a bitter constituent of hops, C21H30O5, having antibiotic properties.", "S": [], "A": []}

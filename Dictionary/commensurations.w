@@ -1,0 +1,1 @@
+{"index": 63980, "D": "corresponding in amount, magnitude, or degree", "S": [], "A": []}

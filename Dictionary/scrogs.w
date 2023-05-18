@@ -1,0 +1,1 @@
+{"index": 281966, "D": "any naturally short or stunted tree or bush, as a crab apple tree or blackthorn bush.", "S": [], "A": []}

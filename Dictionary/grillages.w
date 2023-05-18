@@ -1,0 +1,1 @@
+{"index": 129862, "D": "a framework of crossing beams used for spreading heavy loads over large areas.", "S": [], "A": []}

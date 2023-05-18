@@ -1,0 +1,1 @@
+{"index": 276608, "D": "a colorless or faintly yellow liquid, C10H10O2, obtained from sassafras oil  or the like", "S": [], "A": []}

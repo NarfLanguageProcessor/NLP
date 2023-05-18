@@ -1,0 +1,1 @@
+{"index": 1636, "D": "to do a kindness or a favor to; oblige", "S": ["contain ", "entertain ", "hold ", "rent ", "shelter ", "take in ", "welcome "], "A": ["reject ", "turn away "]}

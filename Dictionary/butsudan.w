@@ -1,0 +1,1 @@
+{"index": 43653, "D": "(in Buddhism) a small household altar", "S": [], "A": []}

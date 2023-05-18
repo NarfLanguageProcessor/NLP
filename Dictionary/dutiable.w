@@ -1,0 +1,1 @@
+{"index": 94587, "D": "subject to customs duty,  as imported goods.", "S": ["payable "], "A": ["deductible ", "exempt ", "free "]}

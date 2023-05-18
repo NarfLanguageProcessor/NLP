@@ -1,0 +1,1 @@
+{"index": 233241, "D": "a vector  that represents a sinusoidally varying quantity, as a current or voltage, by means of a line rotating about a point in a plane, the magnitude of the quantity being proportional to the length of the line and the phase  of the quantity being equal to the angle between the line and a reference line.", "S": [], "A": []}

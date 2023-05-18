@@ -1,0 +1,1 @@
+{"index": 162472, "D": "the science or philosophy of law.", "S": ["act ", "case ", "charge ", "charter ", "code ", "constitution ", "decision ", "decree ", "legislation ", "mandate ", "measure ", "order ", "precedent ", "regulation ", "requirement ", "ruling ", "statute "], "A": ["disorganization ", "lawlessness "]}

@@ -1,0 +1,1 @@
+{"index": 180156, "D": "a person or thing that marks.", "S": ["coin ", "currency ", "scratch "], "A": []}

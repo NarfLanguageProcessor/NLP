@@ -1,0 +1,1 @@
+{"index": 169646, "D": "a game in which players take turns in leaping  over another player bent over from the waist.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34773, "D": "any warm-blooded vertebrate of the class Aves, having a body covered with feathers, forelimbs modified into wings, scaly legs, a beak, and no teeth, and bearing young in a hard-shelled egg.", "S": [], "A": []}

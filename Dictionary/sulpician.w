@@ -1,0 +1,1 @@
+{"index": 310833, "D": "a member of a society of secular priests founded in France in 1642, engaged chiefly in training men to teach in seminaries.", "S": [], "A": []}

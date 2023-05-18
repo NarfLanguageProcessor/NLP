@@ -1,0 +1,1 @@
+{"index": 15019, "D": "the principles of constitutional  government or adherence to them.", "S": [], "A": []}

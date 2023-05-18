@@ -1,0 +1,1 @@
+{"index": 318565, "D": "an edifice or place dedicated to the service or worship of a deity or deities.", "S": ["front "], "A": []}

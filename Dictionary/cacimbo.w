@@ -1,0 +1,1 @@
+{"index": 44119, "D": "the dry, cool season in the Congo Basin that occurs from May to September", "S": [], "A": []}

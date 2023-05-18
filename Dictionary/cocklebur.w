@@ -1,0 +1,1 @@
+{"index": 61523, "D": "any composite plant of the genus Xanthium, comprising coarse weeds with spiny burs. ", "S": [], "A": []}

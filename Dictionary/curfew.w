@@ -1,0 +1,1 @@
+{"index": 75281, "D": "an order establishing a specific time in the evening after which certain regulations apply, especially that no civilians or other specified group of unauthorized persons may be outdoors or that places of public assembly must be closed.", "S": ["time limit "], "A": []}

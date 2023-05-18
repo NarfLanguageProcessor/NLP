@@ -1,0 +1,1 @@
+{"index": 151428, "D": "the aggregate of manufacturing or technically productive enterprises in a particular field, often named after its principal product", "S": ["business ", "commerce ", "corporation ", "management ", "production ", "trade "], "A": ["idleness ", "indolence ", "laziness ", "lethargy ", "unemployment ", "worthlessness "]}

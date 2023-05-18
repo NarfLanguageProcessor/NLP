@@ -1,0 +1,1 @@
+{"index": 21457, "D": "(of a reflecting surface or lens) deviating slightly from a perfectly spherical 1  shape and relatively free from aberrations.", "S": [], "A": []}

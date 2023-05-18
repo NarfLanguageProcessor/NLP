@@ -1,0 +1,1 @@
+{"index": 247256, "D": "to make able;  give power, means, competence, or ability to", "S": [], "A": []}

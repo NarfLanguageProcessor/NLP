@@ -1,0 +1,1 @@
+{"index": 205868, "D": "the willful giving of false testimony under oath or affirmation, before a competent tribunal, upon a point material to a legal inquiry.", "S": [], "A": []}

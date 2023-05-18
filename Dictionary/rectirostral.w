@@ -1,0 +1,1 @@
+{"index": 263703, "D": "(of a bird) having a straight bill.", "S": [], "A": []}

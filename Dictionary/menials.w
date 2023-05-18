@@ -1,0 +1,1 @@
+{"index": 183323, "D": "lowly and sometimes degrading", "S": ["adherent ", "attendant ", "auxiliary ", "deputy ", "disciple ", "follower ", "hanger-on ", "hireling ", "junior ", "menial ", "minion ", "minor ", "peon ", "satellite ", "subaltern ", "subject ", "subordinate ", "sycophant ", "underling "], "A": ["boss ", "chief ", "leader ", "manager ", "master "]}

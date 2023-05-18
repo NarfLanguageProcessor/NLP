@@ -1,0 +1,1 @@
+{"index": 76374, "D": "an owner or manager of a dairy. ", "S": [], "A": []}

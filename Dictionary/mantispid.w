@@ -1,0 +1,1 @@
+{"index": 179576, "D": "any neuropterous, mantislike insect of the family Mantispidae, the larvae of which are parasites in the nests of spiders or wasps.", "S": [], "A": []}

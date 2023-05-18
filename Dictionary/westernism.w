@@ -1,0 +1,1 @@
+{"index": 364250, "D": "a word, idiom, or practice characteristic of people of the Occident or of the western  U.S.", "S": [], "A": []}

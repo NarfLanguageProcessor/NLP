@@ -1,0 +1,1 @@
+{"index": 326777, "D": "of the nature of or resembling the fiber tow. ", "S": [], "A": []}

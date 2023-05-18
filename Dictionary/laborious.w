@@ -1,0 +1,1 @@
+{"index": 166746, "D": "requiring much work, exertion, or perseverance", "S": ["arduous ", "backbreaking ", "burdensome ", "onerous ", "strenuous ", "tiresome "], "A": ["easy ", "facile "]}

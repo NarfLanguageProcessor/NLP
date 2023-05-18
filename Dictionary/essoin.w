@@ -1,0 +1,1 @@
+{"index": 104542, "D": "(in England) an excuse for nonappearance in a court of law at the prescribed time.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109461, "D": "(especially of a wine celebrated by Horace) of, coming from, or made in a district of Campania, Italy.", "S": [], "A": []}

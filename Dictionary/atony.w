@@ -1,0 +1,1 @@
+{"index": 22787, "D": "lack of tone or energy; muscular weakness, especially in a contractile organ.", "S": [], "A": []}

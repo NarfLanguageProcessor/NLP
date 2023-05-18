@@ -1,0 +1,1 @@
+{"index": 203072, "D": "capable of being differentiated. ", "S": [], "A": []}

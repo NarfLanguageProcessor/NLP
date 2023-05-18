@@ -1,0 +1,1 @@
+{"index": 370011, "D": "a frieze having representations of people or animals.", "S": [], "A": []}

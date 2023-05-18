@@ -1,0 +1,1 @@
+{"index": 77145, "D": [], "S": ["ASCII file ", "data set ", "file ", "text ", "word processing file "], "A": []}

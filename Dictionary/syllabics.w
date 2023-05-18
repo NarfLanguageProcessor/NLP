@@ -1,0 +1,1 @@
+{"index": 290459, "D": "of, relating to, or consisting of a syllable or syllables.", "S": [], "A": []}

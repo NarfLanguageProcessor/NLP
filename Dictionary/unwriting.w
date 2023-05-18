@@ -1,0 +1,1 @@
+{"index": 354428, "D": "the act of a person or thing that writes. ", "S": [], "A": []}

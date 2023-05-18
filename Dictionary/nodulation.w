@@ -1,0 +1,1 @@
+{"index": 200716, "D": [], "S": ["lump ", "nodule ", "wart "], "A": ["depression "]}

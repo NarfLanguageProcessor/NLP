@@ -1,0 +1,1 @@
+{"index": 171960, "D": "the instant when such action occurs.", "S": ["launch "], "A": ["crash ", "landing ", "splashdown "]}

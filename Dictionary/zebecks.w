@@ -1,0 +1,1 @@
+{"index": 368961, "D": "a small, three-masted vessel of the Mediterranean, formerly much used by corsairs, now employed to some extent in commerce.", "S": [], "A": []}

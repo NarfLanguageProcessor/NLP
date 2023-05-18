@@ -1,0 +1,1 @@
+{"index": 57252, "D": "a manifolding device consisting of a kind of pen with a small toothed wheel at the end that cuts minute holes in a specially prepared paper stretched over a smooth surface", "S": [], "A": []}

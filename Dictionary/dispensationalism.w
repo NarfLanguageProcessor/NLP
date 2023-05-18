@@ -1,0 +1,1 @@
+{"index": 88934, "D": "the interpreting of history as a series of divine dispensations.", "S": [], "A": []}

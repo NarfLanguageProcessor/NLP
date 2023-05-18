@@ -1,0 +1,1 @@
+{"index": 33360, "D": "divided into two capsules.", "S": [], "A": []}

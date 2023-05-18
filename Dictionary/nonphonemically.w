@@ -1,0 +1,1 @@
+{"index": 205962, "D": "of or relating to phonemes", "S": [], "A": []}

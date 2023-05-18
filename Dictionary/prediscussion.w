@@ -1,0 +1,1 @@
+{"index": 247035, "D": "an act or instance of discussing;  consideration or examination by argument, comment, etc., especially to explore solutions; informal debate.", "S": [], "A": []}

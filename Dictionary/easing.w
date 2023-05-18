@@ -1,0 +1,1 @@
+{"index": 94912, "D": "freedom from labor, pain, or physical annoyance; tranquil rest; comfort", "S": ["calming ", "reassuring "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196568, "D": "a naive or inexperienced person.", "S": ["amateur ", "apprentice ", "babe ", "beginner ", "colt ", "hayseed ", "learner ", "neophyte ", "newcomer ", "novice ", "recruit ", "rube ", "simpleton ", "tenderfoot ", "tyro ", "virgin "], "A": ["expert ", "professional "]}

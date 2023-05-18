@@ -1,0 +1,1 @@
+{"index": 297863, "D": "emitting or producing a sound  or sounds. ", "S": ["deafening ", "detectable ", "discernible ", "distinct ", "loud ", "perceptible ", "resounding "], "A": ["ambiguous ", "indistinct ", "invisible ", "obscure ", "unnoticeable ", "vague ", "obscured ", "unclear "]}

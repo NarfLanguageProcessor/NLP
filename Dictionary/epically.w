@@ -1,0 +1,1 @@
+{"index": 102218, "D": "in a way typical of or suggesting an epic, a long poetic narrative centered upon the great achievements of a hero or heroes", "S": [], "A": []}

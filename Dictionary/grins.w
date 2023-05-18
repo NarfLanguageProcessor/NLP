@@ -1,0 +1,1 @@
+{"index": 129956, "D": "to smile broadly, especially as an indication of pleasure, amusement, or the like.", "S": ["delight ", "diversion ", "enjoyment ", "hilarity ", "laughter ", "pleasure "], "A": ["gloom ", "melancholy ", "misery ", "pain ", "sorrow ", "trouble ", "unhappiness ", "depression ", "drudgery ", "sadness ", "work "]}

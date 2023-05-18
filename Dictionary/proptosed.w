@@ -1,0 +1,1 @@
+{"index": 252869, "D": "the forward displacement of an organ.", "S": [], "A": []}

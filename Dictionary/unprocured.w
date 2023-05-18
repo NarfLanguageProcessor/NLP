@@ -1,0 +1,1 @@
+{"index": 348530, "D": "to obtain or get by care, effort, or the use of special means", "S": [], "A": []}

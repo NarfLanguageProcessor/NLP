@@ -1,0 +1,1 @@
+{"index": 317549, "D": "a mark or wet streak left by tears.", "S": [], "A": []}

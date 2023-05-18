@@ -1,0 +1,1 @@
+{"index": 4696, "D": "considered (usually used in combination)", "S": [], "A": []}

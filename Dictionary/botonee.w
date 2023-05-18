@@ -1,0 +1,1 @@
+{"index": 38757, "D": "(of a cross) having arms terminating in the form of a trefoil", "S": [], "A": []}

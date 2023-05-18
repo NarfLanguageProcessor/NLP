@@ -1,0 +1,1 @@
+{"index": 235674, "D": "an aluminum coin of Myanmar (Burma), one 100th of a kyat.", "S": [], "A": []}

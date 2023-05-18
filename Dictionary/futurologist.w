@@ -1,0 +1,1 @@
+{"index": 120730, "D": "a follower of futurism,  especially an artist or writer.", "S": [], "A": []}

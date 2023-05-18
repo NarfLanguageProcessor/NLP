@@ -1,0 +1,1 @@
+{"index": 302949, "D": "a spaceship designed for intergalactic travel.", "S": [], "A": []}

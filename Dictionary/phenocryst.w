@@ -1,0 +1,1 @@
+{"index": 233373, "D": "any of the conspicuous crystals  in a porphyritic rock.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246452, "D": "to think carefully about, especially in order to make a decision; contemplate; reflect on", "S": [], "A": []}

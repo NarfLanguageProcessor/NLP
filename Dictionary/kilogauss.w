@@ -1,0 +1,1 @@
+{"index": 164649, "D": "a unit of magnetic induction, equal to 1000 gauss. Abbreviation", "S": [], "A": []}

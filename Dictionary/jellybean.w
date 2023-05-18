@@ -1,0 +1,1 @@
+{"index": 160810, "D": "a small, bean-shaped, usually brightly colored candy with a hard sugar coating and a firm gelatinous filling.", "S": ["inexperienced "], "A": ["experienced ", "initiated ", "mature ", "sophisticated "]}

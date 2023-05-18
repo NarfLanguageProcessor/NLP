@@ -1,0 +1,1 @@
+{"index": 145128, "D": "next after the ninety-ninth; being the ordinal number for 100.", "S": ["centenary ", "centennial ", "century "], "A": []}

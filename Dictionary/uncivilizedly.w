@@ -1,0 +1,1 @@
+{"index": 336955, "D": "not civilized  or cultured; barbarous.", "S": [], "A": []}

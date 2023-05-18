@@ -1,0 +1,1 @@
+{"index": 275068, "D": "variant of rhizo-  as second element of compounds", "S": [], "A": []}

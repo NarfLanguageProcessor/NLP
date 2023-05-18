@@ -1,0 +1,1 @@
+{"index": 178978, "D": "a member of a Siouan people of North Dakota.", "S": [], "A": []}

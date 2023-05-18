@@ -1,0 +1,1 @@
+{"index": 155014, "D": "idle talk or rumor, especially about the personal or private affairs of others", "S": [], "A": []}

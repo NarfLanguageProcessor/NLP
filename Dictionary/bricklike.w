@@ -1,0 +1,1 @@
+{"index": 40610, "D": "a block of clay hardened by drying in the sun or burning in a kiln, and used for building, paving, etc.", "S": [], "A": []}

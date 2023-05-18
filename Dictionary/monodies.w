@@ -1,0 +1,1 @@
+{"index": 192252, "D": "a Greek ode sung by a single voice, as in a tragedy; lament.", "S": ["elegy ", "hymn "], "A": []}

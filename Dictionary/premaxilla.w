@@ -1,0 +1,1 @@
+{"index": 248322, "D": "one of a pair of bones of the upper jaw of vertebrates, situated in front of and between the maxillary bones.", "S": [], "A": []}

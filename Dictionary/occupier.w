@@ -1,0 +1,1 @@
+{"index": 210751, "D": "a person who is in possession or occupation of a house or land", "S": ["citizen ", "colonist ", "dweller ", "inmate ", "occupant ", "settler "], "A": ["alien ", "foreigner ", "immigrant ", "landlord "]}

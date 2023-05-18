@@ -1,0 +1,1 @@
+{"index": 170496, "D": "one of many tiny cylindrical or spherical lens segments embossed on the surface of a film used in stereoscopic and color photography.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 32308, "D": "to attack on all sides; assail. ", "S": ["aggravation ", "bother ", "difficulty ", "harassment ", "irritant ", "irritation ", "nuisance ", "torment ", "trouble ", "vexation "], "A": []}

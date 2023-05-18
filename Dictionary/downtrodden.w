@@ -1,0 +1,1 @@
+{"index": 92347, "D": "tyrannized over; oppressed", "S": ["destitute ", "distressed ", "exploited ", "needy ", "oppressed ", "persecuted "], "A": ["rich ", "wealthy "]}

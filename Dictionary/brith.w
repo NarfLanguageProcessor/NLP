@@ -1,0 +1,1 @@
+{"index": 40992, "D": "the Jewish rite of circumcising a male child eight days after his birth.", "S": [], "A": []}

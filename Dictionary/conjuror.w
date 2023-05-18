@@ -1,0 +1,1 @@
+{"index": 66462, "D": "a person who practises conjuring, esp for people's entertainment", "S": ["conjurer "], "A": []}

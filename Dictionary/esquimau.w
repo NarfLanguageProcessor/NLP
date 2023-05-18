@@ -1,0 +1,1 @@
+{"index": 104465, "D": "a former spelling of Eskimo. ", "S": [], "A": []}

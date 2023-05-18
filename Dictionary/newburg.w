@@ -1,0 +1,1 @@
+{"index": 199375, "D": "(of seafood) cooked with a cream sauce containing sherry", "S": [], "A": []}

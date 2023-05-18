@@ -1,0 +1,1 @@
+{"index": 44325, "D": "a juniper, Juniperus oxycedrus, of the Mediterranean area, whose wood on destructive distillation yields an oily liquid (oil of cade ), used in treating skin diseases.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268397, "D": "full of or suggesting repose;  calm; quiet.", "S": [], "A": []}

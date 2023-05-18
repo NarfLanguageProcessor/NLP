@@ -1,0 +1,1 @@
+{"index": 56719, "D": "an object carved from wood or stone by Aboriginal tribes in central Australia and held by them to be sacred.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 324652, "D": "a variant of tidbit. ", "S": ["bit ", "bite ", "touch "], "A": ["lot "]}

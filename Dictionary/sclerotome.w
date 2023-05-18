@@ -1,0 +1,1 @@
+{"index": 281030, "D": "the part of a mesodermal somite contributing to the development of the vertebrae and ribs.", "S": [], "A": []}

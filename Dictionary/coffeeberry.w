@@ -1,0 +1,1 @@
+{"index": 62138, "D": "an evergreen shrub, Rhamnus californica, of the buckthorn family, common in the western U.S., having small, greenish flowers and red fruit that turns black, grown as a bee plant.", "S": [], "A": []}

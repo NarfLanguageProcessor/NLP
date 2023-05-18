@@ -1,0 +1,1 @@
+{"index": 342053, "D": "having too much flabby tissue; corpulent; obese", "S": [], "A": []}

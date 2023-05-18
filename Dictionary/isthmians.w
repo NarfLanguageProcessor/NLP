@@ -1,0 +1,1 @@
+{"index": 159398, "D": "of or relating to an isthmus. ", "S": [], "A": []}

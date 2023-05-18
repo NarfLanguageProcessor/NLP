@@ -1,0 +1,1 @@
+{"index": 90541, "D": "to bestow or express excessive love or fondness habitually (usually followed by on or upon)", "S": [], "A": []}

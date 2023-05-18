@@ -1,0 +1,1 @@
+{"index": 280534, "D": "(in Pennsylvania Dutch furniture) a two-door clothes cabinet one side of which has drawers and shelves and the other side an open space for hanging clothes.", "S": [], "A": []}

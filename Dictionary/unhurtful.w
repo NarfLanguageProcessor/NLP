@@ -1,0 +1,1 @@
+{"index": 343950, "D": "causing hurt  or injury; injurious; harmful.", "S": ["childlike ", "gullible ", "ignorant ", "innocuous ", "wide-eyed "], "A": ["knowledgeable ", "untrusting ", "wise ", "dishonest ", "sophisticated ", "unclear "]}

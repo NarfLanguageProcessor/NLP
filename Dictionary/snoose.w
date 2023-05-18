@@ -1,0 +1,1 @@
+{"index": 295697, "D": "finely powdered tobacco; snuff.", "S": [], "A": []}

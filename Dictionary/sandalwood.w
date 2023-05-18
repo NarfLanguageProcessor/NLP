@@ -1,0 +1,1 @@
+{"index": 277708, "D": "the fragrant heartwood of any of certain Asian trees of the genus Santalum, used for ornamental carving and burned as incense.", "S": [], "A": []}

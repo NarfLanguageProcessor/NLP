@@ -1,0 +1,1 @@
+{"index": 54307, "D": "a person between birth and puberty or full growth", "S": ["fruitlessness ", "impotence ", "infertility ", "unproductiveness "], "A": ["fecundity ", "fertility ", "fruitfulness "]}

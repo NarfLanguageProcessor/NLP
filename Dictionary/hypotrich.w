@@ -1,0 +1,1 @@
+{"index": 141327, "D": "any ciliate of the suborder Hypotricha, having cilia chiefly on the ventral surface.", "S": [], "A": []}

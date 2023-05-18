@@ -1,0 +1,1 @@
+{"index": 203121, "D": "functioning equally well in all directions; omnidirectional.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178984, "D": "the status or position of a mandarin. ", "S": [], "A": []}

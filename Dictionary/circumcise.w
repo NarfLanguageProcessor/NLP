@@ -1,0 +1,1 @@
+{"index": 58089, "D": "to remove the prepuce of (a male), especially as a religious rite.", "S": [], "A": []}

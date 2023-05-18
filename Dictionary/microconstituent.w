@@ -1,0 +1,1 @@
+{"index": 186039, "D": "a microscopically small constituent  of a metal or alloy.", "S": [], "A": []}

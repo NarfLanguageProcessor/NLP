@@ -1,0 +1,1 @@
+{"index": 321322, "D": "of, relating to, or caused by heat or temperature", "S": ["melting ", "roasting ", "snug ", "thermic "], "A": []}

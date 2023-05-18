@@ -1,0 +1,1 @@
+{"index": 351031, "D": "a past participle of shear. ", "S": ["furry ", "fuzzy ", "shaggy ", "unshaven ", "woolly "], "A": ["smooth "]}

@@ -1,0 +1,1 @@
+{"index": 223905, "D": "(in Hawaii) a steep slope or cliff.", "S": [], "A": []}

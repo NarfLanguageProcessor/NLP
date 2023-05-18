@@ -1,0 +1,1 @@
+{"index": 154229, "D": "integrator (def. 2). ", "S": [], "A": []}

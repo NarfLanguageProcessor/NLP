@@ -1,0 +1,1 @@
+{"index": 197142, "D": "the cursive variety of Arabic script from which was derived the variety used in modern printed works.", "S": [], "A": []}

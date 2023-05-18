@@ -1,0 +1,1 @@
+{"index": 252720, "D": "an airplane equipped with turboprops.", "S": [], "A": []}

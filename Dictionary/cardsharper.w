@@ -1,0 +1,1 @@
+{"index": 47893, "D": "a person, especially a professional gambler, who cheats at card  games.", "S": ["bandit ", "burglar ", "con artist ", "crook ", "looter ", "marauder ", "mugger ", "pickpocket ", "pirate ", "raider ", "rustler ", "shoplifter ", "swindler ", "thief ", "thug "], "A": ["law ", "police "]}

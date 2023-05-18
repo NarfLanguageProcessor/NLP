@@ -1,0 +1,1 @@
+{"index": 34917, "D": "the night  of a person's birth,  especially a birthday celebration for royalty.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305402, "D": "a room  in which stores  are kept.", "S": ["cellar ", "granary ", "silo ", "storehouse "], "A": []}

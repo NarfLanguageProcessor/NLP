@@ -1,0 +1,1 @@
+{"index": 72193, "D": [], "S": ["inebriation ", "inebriety ", "insobriety ", "intemperance ", "intoxication "], "A": []}

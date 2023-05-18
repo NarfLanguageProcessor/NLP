@@ -1,0 +1,1 @@
+{"index": 296097, "D": "inclined to associate with or be in the company of others.", "S": ["amiably ", "attentively ", "cordially ", "gently ", "graciously ", "kindly ", "respectfully ", "tactfully "], "A": []}

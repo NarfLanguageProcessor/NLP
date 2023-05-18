@@ -1,0 +1,1 @@
+{"index": 307430, "D": "an embroidered silk vestment resembling, but somewhat broader than, a maniple, worn by the pope on solemn occasions.", "S": [], "A": []}

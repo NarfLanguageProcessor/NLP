@@ -1,0 +1,1 @@
+{"index": 130041, "D": "causing a shudder or feeling of horror; horrible; gruesome", "S": [], "A": []}

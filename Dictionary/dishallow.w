@@ -1,0 +1,1 @@
+{"index": 88222, "D": "to profane; desecrate.", "S": [], "A": []}

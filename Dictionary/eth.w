@@ -1,0 +1,1 @@
+{"index": 104860, "D": "a letter in the form of a crossed d, written \u0111 or \u00f0, used in Old English writing to represent both voiced and unvoiced th and in modern Icelandic and in phonetic alphabets to represent voiced th.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265936, "D": "a part of a thing made specifically to be grasped or held by the hand.", "S": [], "A": []}

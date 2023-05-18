@@ -1,0 +1,1 @@
+{"index": 30746, "D": "having the power to charm or divert the attention; intriguing", "S": [], "A": []}

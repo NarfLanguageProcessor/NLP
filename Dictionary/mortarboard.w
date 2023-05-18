@@ -1,0 +1,1 @@
+{"index": 193697, "D": "a board,  usually square, used by masons to hold mortar. ", "S": [], "A": []}

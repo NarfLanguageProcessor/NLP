@@ -1,0 +1,1 @@
+{"index": 334765, "D": "the science, art, or occupation concerned with cultivating land, raising crops, and feeding, breeding, and raising livestock; farming.", "S": [], "A": []}

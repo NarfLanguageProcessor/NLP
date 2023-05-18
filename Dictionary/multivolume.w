@@ -1,0 +1,1 @@
+{"index": 195440, "D": "consisting of or encompassing several volumes", "S": [], "A": []}

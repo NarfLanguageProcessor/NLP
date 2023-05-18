@@ -1,0 +1,1 @@
+{"index": 147688, "D": "to consume (liquids) by drinking; drink", "S": ["absorptive ", "dry "], "A": ["impermeable "]}

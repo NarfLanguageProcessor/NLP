@@ -1,0 +1,1 @@
+{"index": 64080, "D": "the head of any of the major governmental divisions of the U.S.S.R.", "S": [], "A": []}

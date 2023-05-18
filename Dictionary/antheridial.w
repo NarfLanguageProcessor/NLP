@@ -1,0 +1,1 @@
+{"index": 14341, "D": "a male reproductive structure producing gametes, occurring in ferns, mosses, fungi, and algae.", "S": [], "A": []}

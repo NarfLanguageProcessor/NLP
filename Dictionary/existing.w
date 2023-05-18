@@ -1,0 +1,1 @@
+{"index": 107265, "D": "already or previously in place, before being replaced, altered, or added to", "S": ["actual ", "current ", "extant "], "A": ["past "]}

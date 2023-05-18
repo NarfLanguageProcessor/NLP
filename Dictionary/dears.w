@@ -1,0 +1,1 @@
+{"index": 77617, "D": "beloved or loved", "S": ["close ", "darling ", "familiar ", "intimate ", "pet "], "A": ["cool ", "unfriendly "]}

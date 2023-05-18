@@ -1,0 +1,1 @@
+{"index": 24426, "D": "(of an entity or event) having within itself the purpose of its existence or happening.", "S": [], "A": []}

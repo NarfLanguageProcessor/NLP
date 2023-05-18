@@ -1,0 +1,1 @@
+{"index": 187164, "D": "an inflammatory disease of the skin, located about the sweat glands, marked by the formation of vesicles or papules resembling millet seeds; prickly heat.", "S": [], "A": []}

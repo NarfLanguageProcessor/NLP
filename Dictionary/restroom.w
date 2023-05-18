@@ -1,0 +1,1 @@
+{"index": 270056, "D": "rooms or a room having a sink, toilet, and other facilities for use by employees, visitors, etc., as in a store, theater, or office.", "S": ["bathroom ", "lavatory ", "sauna ", "shower ", "toilet "], "A": []}

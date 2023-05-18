@@ -1,0 +1,1 @@
+{"index": 297895, "D": "silk from which only a portion of the sericin has been removed.", "S": [], "A": []}

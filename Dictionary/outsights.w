@@ -1,0 +1,1 @@
+{"index": 217455, "D": "the ability to see and understand external things clearly.", "S": [], "A": []}

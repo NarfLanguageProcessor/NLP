@@ -1,0 +1,1 @@
+{"index": 250751, "D": "the right of the king to take a certain quantity of every cargo of wine imported.", "S": [], "A": []}

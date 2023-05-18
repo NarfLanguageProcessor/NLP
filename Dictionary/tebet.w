@@ -1,0 +1,1 @@
+{"index": 317623, "D": "a variant spelling of Tevet", "S": [], "A": []}

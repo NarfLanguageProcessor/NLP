@@ -1,0 +1,1 @@
+{"index": 349081, "D": "to tear down; demolish; level to the ground", "S": [], "A": []}

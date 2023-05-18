@@ -1,0 +1,1 @@
+{"index": 159002, "D": "a line on a map or chart connecting points of uniform grid variation.", "S": [], "A": []}

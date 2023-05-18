@@ -1,0 +1,1 @@
+{"index": 108115, "D": "to cut out or off.", "S": ["abridge ", "black out ", "blacklist ", "delete ", "edit ", "excise ", "restrict ", "sanitize ", "suppress ", "withhold "], "A": ["add ", "enlarge ", "expand ", "let go ", "put in ", "release ", "allow ", "approve ", "dirty ", "ignore ", "neglect ", "permit ", "praise "]}

@@ -1,0 +1,1 @@
+{"index": 346318, "D": "to set free (something mewed  up); release, as from confinement.", "S": [], "A": []}

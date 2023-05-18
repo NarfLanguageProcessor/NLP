@@ -1,0 +1,1 @@
+{"index": 285531, "D": "a city in and the capital of South Korea, in the W part.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159384, "D": "the act of sending out or putting forth; promulgation; distribution", "S": ["affair ", "argument ", "concern ", "controversy ", "matter ", "point ", "problem ", "question ", "subject ", "topic "], "A": ["agreement ", "harmony "]}

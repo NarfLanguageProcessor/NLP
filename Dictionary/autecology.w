@@ -1,0 +1,1 @@
+{"index": 23777, "D": "a branch of ecology  dealing with the individual organism or species in relation to its environment.", "S": [], "A": []}

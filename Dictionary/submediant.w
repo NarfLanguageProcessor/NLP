@@ -1,0 +1,1 @@
+{"index": 308500, "D": "the sixth tone of a diatonic scale, being midway between the subdominant and the upper tonic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305993, "D": "something that is streamlined,  especially a locomotive or passenger train.", "S": [], "A": []}

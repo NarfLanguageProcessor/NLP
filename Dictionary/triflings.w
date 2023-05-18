@@ -1,0 +1,1 @@
+{"index": 329747, "D": "of very little importance; trivial; insignificant", "S": ["frivolity ", "giddiness ", "hilarity ", "mirth ", "repartee "], "A": ["depression ", "gloom ", "sense ", "seriousness "]}

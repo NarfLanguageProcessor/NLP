@@ -1,0 +1,1 @@
+{"index": 342637, "D": "foxlike; cunning or crafty; slyly clever.", "S": [], "A": []}

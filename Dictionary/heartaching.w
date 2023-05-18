@@ -1,0 +1,1 @@
+{"index": 134820, "D": "emotional pain or distress; sorrow; grief; anguish.", "S": [], "A": []}

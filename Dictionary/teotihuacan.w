@@ -1,0 +1,1 @@
+{"index": 319127, "D": "the ruins of an ancient Mesoamerican city in central Mexico, near Mexico City, that flourished a.d. c200\u2013c750 and is the site of the pyramids of the Sun and Moon and of many temples, palaces, and dwellings.", "S": [], "A": []}

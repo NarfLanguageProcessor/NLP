@@ -1,0 +1,1 @@
+{"index": 150686, "D": "characterized by indecision,  as persons; irresolute; undecided. ", "S": ["doubtingly ", "suspiciously "], "A": []}

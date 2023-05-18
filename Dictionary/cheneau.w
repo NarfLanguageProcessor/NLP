@@ -1,0 +1,1 @@
+{"index": 53792, "D": "an ornamented cresting on a cornice or coping.", "S": [], "A": []}

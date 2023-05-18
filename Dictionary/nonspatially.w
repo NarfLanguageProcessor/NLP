@@ -1,0 +1,1 @@
+{"index": 207415, "D": "in a way that relates to space  or to the location or extent of objects in three-dimensional space", "S": [], "A": []}

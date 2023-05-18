@@ -1,0 +1,1 @@
+{"index": 239619, "D": "good-humored teasing; banter.", "S": ["repartee ", "witticism "], "A": ["seriousness "]}

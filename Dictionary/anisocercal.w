@@ -1,0 +1,1 @@
+{"index": 13286, "D": "(of fish) having unequal tail-fin lobes", "S": [], "A": []}

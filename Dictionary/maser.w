@@ -1,0 +1,1 @@
+{"index": 180651, "D": "a device for amplifying electromagnetic waves by stimulated emission of radiation.", "S": [], "A": []}

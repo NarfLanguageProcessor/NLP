@@ -1,0 +1,1 @@
+{"index": 142396, "D": "a past participle of hold1. ", "S": [], "A": []}

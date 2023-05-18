@@ -1,0 +1,1 @@
+{"index": 31224, "D": "to emit a hollow, loud, animal cry, as a bull or cow.", "S": ["bark ", "bawl ", "bay ", "blare ", "bluster ", "bray ", "call ", "clamor ", "cry ", "howl ", "low ", "roar ", "rout ", "scream ", "shout ", "shriek ", "wail ", "whoop ", "yawp ", "yell ", "yelp "], "A": ["be quiet ", "whimper "]}

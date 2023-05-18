@@ -1,0 +1,1 @@
+{"index": 252415, "D": "one of the pointed tines of a fork.", "S": ["hurt ", "injure ", "jab ", "prick ", "punch ", "stick ", "wound "], "A": ["aid ", "assist ", "cure ", "heal ", "help "]}

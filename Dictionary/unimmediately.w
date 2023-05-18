@@ -1,0 +1,1 @@
+{"index": 344269, "D": "without lapse of time; without delay; instantly;  at once", "S": [], "A": []}

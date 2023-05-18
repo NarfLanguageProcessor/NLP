@@ -1,0 +1,1 @@
+{"index": 338985, "D": "a grey or whitish clay rock containing fossilized plant roots and occurring beneath coal seams. When used as a refractory, it is known as fireclay", "S": [], "A": []}

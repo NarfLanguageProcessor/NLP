@@ -1,0 +1,1 @@
+{"index": 11101, "D": "(of the vertebrae of most fishes and some amphibians) concave at the anterior and posterior ends", "S": [], "A": []}

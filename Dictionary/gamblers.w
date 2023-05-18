@@ -1,0 +1,1 @@
+{"index": 121636, "D": "to play at any game of chance for money or other stakes.", "S": ["bettor ", "bookie ", "bookmaker "], "A": []}

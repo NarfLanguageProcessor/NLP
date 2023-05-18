@@ -1,0 +1,1 @@
+{"index": 154759, "D": "pertaining to muscles, parts, or intervals between the ribs.", "S": [], "A": []}

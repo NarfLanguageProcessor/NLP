@@ -1,0 +1,1 @@
+{"index": 110499, "D": "characterized by approval or support; positive", "S": ["agreeable ", "benign ", "encouraging ", "positive ", "supportive ", "sympathetic "], "A": ["disadvantageous ", "disagreeable ", "hateful "]}

@@ -1,0 +1,1 @@
+{"index": 366665, "D": "with the absence, omission, or avoidance of; not with; with no or none of; lacking", "S": ["garden "], "A": ["indoors "]}

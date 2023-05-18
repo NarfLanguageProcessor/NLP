@@ -1,0 +1,1 @@
+{"index": 166614, "D": "a shaking or weakening; overthrow or downfall.", "S": [], "A": []}

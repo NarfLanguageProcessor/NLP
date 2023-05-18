@@ -1,0 +1,1 @@
+{"index": 318397, "D": "a rare, lustrous, brittle, crystalline, silver-white element resembling sulfur in its properties, and usually occurring in nature combined with gold, silver, or other metals of high atomic weight", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235988, "D": "a container used for determining the density of a liquid or powder, having a specific volume and often provided with a thermometer to indicate the temperature of the contained substance.", "S": [], "A": []}

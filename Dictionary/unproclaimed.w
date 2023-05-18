@@ -1,0 +1,1 @@
+{"index": 348521, "D": "to announce or declare in an official or formal manner", "S": [], "A": []}

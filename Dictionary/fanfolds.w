@@ -1,0 +1,1 @@
+{"index": 109709, "D": "a pad or tablet of invoices, bills, blank sheets, etc., interleaved with carbon paper for making a copy or copies of the writing or typing on the uppermost leaf.", "S": [], "A": []}

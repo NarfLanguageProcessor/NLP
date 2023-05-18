@@ -1,0 +1,1 @@
+{"index": 266040, "D": "the act, process, or state of being hospitalized. ", "S": [], "A": []}

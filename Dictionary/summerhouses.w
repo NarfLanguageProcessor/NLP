@@ -1,0 +1,1 @@
+{"index": 310935, "D": "a simple, often rustic structure in a park or garden, intended to provide shade in the summer.", "S": ["cottage "], "A": []}

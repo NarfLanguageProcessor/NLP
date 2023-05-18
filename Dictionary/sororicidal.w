@@ -1,0 +1,1 @@
+{"index": 297630, "D": "the act of killing one's own sister.", "S": [], "A": []}

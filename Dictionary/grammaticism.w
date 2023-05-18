@@ -1,0 +1,1 @@
+{"index": 128746, "D": "a point or principle of grammar.", "S": [], "A": []}

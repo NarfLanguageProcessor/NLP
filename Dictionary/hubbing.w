@@ -1,0 +1,1 @@
+{"index": 144634, "D": "the central part of a wheel, as that part into which the spokes are inserted.", "S": [], "A": []}

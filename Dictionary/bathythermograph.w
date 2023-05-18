@@ -1,0 +1,1 @@
+{"index": 28970, "D": "an instrument that makes a record of the temperature at various depths in the ocean.", "S": [], "A": []}

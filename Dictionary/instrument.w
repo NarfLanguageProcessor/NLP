@@ -1,0 +1,1 @@
+{"index": 153990, "D": "a mechanical tool or implement, especially one used for delicate or precision work", "S": ["apparatus ", "appliance ", "device ", "equipment ", "gadget ", "gear ", "gizmo ", "machine ", "machinery ", "mechanism "], "A": ["end "]}

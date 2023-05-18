@@ -1,0 +1,1 @@
+{"index": 25089, "D": "plural of axis1. ", "S": ["adz ", "chopper ", "hatchet ", "tomahawk "], "A": []}

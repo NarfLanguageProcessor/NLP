@@ -1,0 +1,1 @@
+{"index": 337755, "D": "to force, compel, or oblige", "S": [], "A": []}

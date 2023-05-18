@@ -1,0 +1,1 @@
+{"index": 262704, "D": "an editorial revision of a literary work, especially on the basis of critical examination of the text and the sources used.", "S": ["alteration ", "amendment ", "improvement ", "modification ", "reconsideration ", "reexamination ", "review "], "A": ["worsening "]}

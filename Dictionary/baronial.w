@@ -1,0 +1,1 @@
+{"index": 28212, "D": "pertaining to a baron  or barony  or to the order of barons. ", "S": ["ample ", "august ", "distinguished ", "fancy ", "grandiose ", "great ", "imposing ", "impressive ", "lofty ", "lordly ", "magnificent ", "majestic ", "noble ", "palatial ", "princely ", "regal ", "royal ", "showy ", "splendid ", "stately ", "sumptuous ", "superb "], "A": []}

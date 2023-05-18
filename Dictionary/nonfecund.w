@@ -1,0 +1,1 @@
+{"index": 203984, "D": "producing or capable of producing offspring, fruit, vegetation, etc., in abundance; prolific; fruitful", "S": [], "A": []}

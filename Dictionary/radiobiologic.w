@@ -1,0 +1,1 @@
+{"index": 259625, "D": "the branch of biology  dealing with the effects of radiation on living matter.", "S": [], "A": []}

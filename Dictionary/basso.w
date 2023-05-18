@@ -1,0 +1,1 @@
+{"index": 28790, "D": "a person who sings bass; a bass.", "S": [], "A": []}

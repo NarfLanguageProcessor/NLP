@@ -1,0 +1,1 @@
+{"index": 295664, "D": "to kiss and cuddle.", "S": ["osculate ", "peck ", "smack ", "smooch ", "spoon "], "A": []}

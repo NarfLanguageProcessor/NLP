@@ -1,0 +1,1 @@
+{"index": 23640, "D": "belonging to the dawn; auroral.", "S": [], "A": []}

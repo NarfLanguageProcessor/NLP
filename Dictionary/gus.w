@@ -1,0 +1,1 @@
+{"index": 131523, "D": "a male given name, form of Augustus  or Gustave. ", "S": [], "A": []}

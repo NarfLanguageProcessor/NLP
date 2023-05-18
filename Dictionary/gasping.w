@@ -1,0 +1,1 @@
+{"index": 122429, "D": "a sudden, short intake of breath, as in shock or surprise.", "S": ["respiratory "], "A": ["breathless ", "dead ", "deceased ", "lifeless "]}

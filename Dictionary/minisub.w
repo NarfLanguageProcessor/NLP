@@ -1,0 +1,1 @@
+{"index": 187954, "D": "a small submarine, holding only one or a few persons, used in naval operations, underwater exploration, or conducting underwater experiments.", "S": [], "A": []}

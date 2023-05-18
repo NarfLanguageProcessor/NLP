@@ -1,0 +1,1 @@
+{"index": 369484, "D": "a yellow-brown variety of mica containing iron, found with tin ores.", "S": [], "A": []}

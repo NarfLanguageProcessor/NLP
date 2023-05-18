@@ -1,0 +1,1 @@
+{"index": 345502, "D": "not learned; not scholarly or erudite.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134188, "D": "a place for hatching  eggs of hens, fish, etc., especially a large, commercial or government site where the young are hatched,  cared for, and sold or distributed.", "S": ["incubator "], "A": []}

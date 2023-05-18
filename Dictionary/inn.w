@@ -1,0 +1,1 @@
+{"index": 153006, "D": "a commercial establishment that provides lodging, food, etc., for the public, especially travelers; small hotel.", "S": ["hostel ", "hotel ", "lodge ", "motel ", "resort ", "saloon ", "tavern "], "A": []}

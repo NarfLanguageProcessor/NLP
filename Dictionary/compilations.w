@@ -1,0 +1,1 @@
+{"index": 64562, "D": "the act of compiling", "S": ["dossier ", "evidence ", "goods ", "info ", "input ", "knowledge ", "picture ", "statistics ", "testimony "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 88300, "D": "showing lack of honor  or integrity; ignoble; base; disgraceful; shameful", "S": ["disgracefulness ", "disreputableness ", "ignominiousness ", "unscrupulousness ", "unworthiness "], "A": []}

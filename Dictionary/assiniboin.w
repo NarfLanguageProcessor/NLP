@@ -1,0 +1,1 @@
+{"index": 21805, "D": "a member of a Siouan people of northeastern Montana and adjacent parts of Canada.", "S": [], "A": []}

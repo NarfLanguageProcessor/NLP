@@ -1,0 +1,1 @@
+{"index": 356756, "D": "bordered by a ridge, raised edge, or the like.", "S": [], "A": []}

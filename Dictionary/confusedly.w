@@ -1,0 +1,1 @@
+{"index": 66089, "D": "not thinking coherently or rationally; bewildered; perplexed", "S": ["helter-skelter ", "pell-mell "], "A": ["clearly "]}

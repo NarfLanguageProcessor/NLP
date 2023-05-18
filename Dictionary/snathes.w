@@ -1,0 +1,1 @@
+{"index": 295374, "D": "the shaft or handle of a scythe.", "S": [], "A": []}

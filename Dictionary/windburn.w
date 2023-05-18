@@ -1,0 +1,1 @@
+{"index": 365921, "D": "an inflammation of the skin, especially that of the face and hands, caused by overexposure to the wind. ", "S": [], "A": []}

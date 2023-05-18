@@ -1,0 +1,1 @@
+{"index": 8817, "D": "a formal speech, especially one of an incontrovertible or hortatory nature.", "S": ["address ", "lecture ", "lesson ", "oration ", "speech ", "talk "], "A": ["listening ", "silence "]}

@@ -1,0 +1,1 @@
+{"index": 324471, "D": "a sovereign or other ruler who uses power oppressively or unjustly.", "S": ["autocrat ", "bully ", "despot ", "dictator ", "oppressor "], "A": ["democrat "]}

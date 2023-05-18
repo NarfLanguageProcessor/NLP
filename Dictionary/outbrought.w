@@ -1,0 +1,1 @@
+{"index": 216300, "D": "to carry, convey, conduct, or cause (someone or something) to come with, to, or toward the speaker", "S": [], "A": []}

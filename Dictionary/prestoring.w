@@ -1,0 +1,1 @@
+{"index": 249678, "D": "to fix an opening value for (the address of an operand or of a cycle index).", "S": [], "A": []}

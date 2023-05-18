@@ -1,0 +1,1 @@
+{"index": 338665, "D": "having the function of deliberating,  as a legislative assembly", "S": [], "A": []}

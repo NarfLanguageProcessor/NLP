@@ -1,0 +1,1 @@
+{"index": 44320, "D": "an elaborate flourish or showy solo passage, sometimes improvised, introduced near the end of an aria or a movement of a concerto.", "S": [], "A": []}

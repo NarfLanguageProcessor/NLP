@@ -1,0 +1,1 @@
+{"index": 133566, "D": " to disturb or bother persistently; torment, as with troubles or cares; pester", "S": [], "A": []}

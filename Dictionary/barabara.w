@@ -1,0 +1,1 @@
+{"index": 27661, "D": "an Alaskan or north Siberian semisubterranean house built of sod or turf.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 131478, "D": "to flow in a broken, irregular, noisy current", "S": ["babble ", "bubble ", "crow ", "lap ", "plash ", "purl ", "ripple ", "slosh ", "splash ", "wash "], "A": []}

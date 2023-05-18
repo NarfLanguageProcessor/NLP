@@ -1,0 +1,1 @@
+{"index": 200362, "D": "a compound, containing two elements only, of which the more electronegative one is nitrogen.", "S": [], "A": []}

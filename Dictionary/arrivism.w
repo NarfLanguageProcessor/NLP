@@ -1,0 +1,1 @@
+{"index": 20285, "D": "the conduct or condition of an arriviste.", "S": [], "A": []}

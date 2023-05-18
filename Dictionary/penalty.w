@@ -1,0 +1,1 @@
+{"index": 229502, "D": "a punishment imposed or incurred for a violation of law or rule.", "S": ["cost ", "discipline ", "fine ", "forfeiture "], "A": ["award ", "reward ", "advantage ", "benefit ", "gain "]}

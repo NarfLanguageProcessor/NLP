@@ -1,0 +1,1 @@
+{"index": 193095, "D": "any climbing plant of the genus Menispermum, having greenish-white flowers and crescent-shaped seeds. ", "S": [], "A": []}

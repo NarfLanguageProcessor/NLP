@@ -1,0 +1,1 @@
+{"index": 24111, "D": "having the male and female organs on the same plant.", "S": [], "A": []}

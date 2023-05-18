@@ -1,0 +1,1 @@
+{"index": 185318, "D": "taking or showing extreme care about minute details; precise; thorough", "S": [], "A": []}

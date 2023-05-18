@@ -1,0 +1,1 @@
+{"index": 25223, "D": "any of numerous shrubs belonging to a particular group (Azalea) of the genus Rhododendron, of the heath family, comprising species with handsome flower clusters of various colors, some of which are familiar in cultivation", "S": [], "A": []}

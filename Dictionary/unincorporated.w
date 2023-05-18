@@ -1,0 +1,1 @@
+{"index": 344429, "D": "not chartered as a corporation; lacking the powers and immunities of a corporate enterprise", "S": [], "A": []}

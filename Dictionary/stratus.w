@@ -1,0 +1,1 @@
+{"index": 305907, "D": "a cloud of a class characterized by a gray, horizontal layer with a uniform base, found at a lower altitude than altostratus,  usually below 8,000 feet (2,400 meters).", "S": [], "A": []}

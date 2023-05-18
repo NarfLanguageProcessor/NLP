@@ -1,0 +1,1 @@
+{"index": 48595, "D": "Compare \u00e0 la carte. ", "S": ["card ", "carte du jour "], "A": []}

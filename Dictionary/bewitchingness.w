@@ -1,0 +1,1 @@
+{"index": 32994, "D": "to affect by witchcraft or magic; cast a spell over.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 264356, "D": "the quality of having a pleasant odor; fragrance", "S": ["aroma ", "aura ", "balm ", "bouquet ", "incense ", "perfume ", "scent ", "smell ", "spice "], "A": ["odor ", "stench ", "stink "]}

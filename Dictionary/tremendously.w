@@ -1,0 +1,1 @@
+{"index": 328878, "D": "to an extraordinary degree", "S": ["exceedingly ", "excessively ", "extremely ", "hugely ", "staggeringly "], "A": []}

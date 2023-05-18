@@ -1,0 +1,1 @@
+{"index": 121539, "D": "to stimulate by or as if by a galvanic  current.", "S": ["elation ", "euphoria ", "high spirits ", "hilarity ", "joy "], "A": ["depression ", "sadness ", "sorrow ", "unhappiness ", "woe ", "discouragement ", "misery "]}

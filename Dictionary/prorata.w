@@ -1,0 +1,1 @@
+{"index": 252898, "D": "in proportion; according to a certain rate.", "S": ["according to the calculated share ", "ad valorem ", "correlatively ", "in proportion ", "proportionately ", "prorate ", "prorated ", "respectively "], "A": []}

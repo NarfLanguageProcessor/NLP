@@ -1,0 +1,1 @@
+{"index": 168314, "D": "either of the two parts of a garment folded back on the chest, especially a continuation of a coat collar.", "S": ["accessory ", "adjunct ", "appendage ", "apron ", "cover ", "drop ", "fold ", "lobe ", "pendant ", "queue ", "skirt ", "strip ", "tab ", "tag ", "tail ", "tippet "], "A": []}

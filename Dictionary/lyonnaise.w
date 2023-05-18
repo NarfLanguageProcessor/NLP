@@ -1,0 +1,1 @@
+{"index": 173091, "D": "(of food, especially fried potatoes) cooked with pieces of onion.", "S": [], "A": []}

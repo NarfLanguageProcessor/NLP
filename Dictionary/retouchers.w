@@ -1,0 +1,1 @@
+{"index": 270609, "D": "to improve with new touches, highlights, or the like; touch up or rework, as a painting or makeup.", "S": [], "A": []}

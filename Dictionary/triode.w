@@ -1,0 +1,1 @@
+{"index": 330203, "D": "a vacuum tube containing three elements, usually anode, cathode, and control grid.", "S": [], "A": []}

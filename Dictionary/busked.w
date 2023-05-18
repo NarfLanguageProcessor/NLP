@@ -1,0 +1,1 @@
+{"index": 43498, "D": "to entertain by dancing, singing, reciting, juggling, etc., on the street or in a public place.", "S": [], "A": []}

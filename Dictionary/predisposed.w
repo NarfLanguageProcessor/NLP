@@ -1,0 +1,1 @@
+{"index": 247066, "D": "having or showing an inclination or tendency toward a specified condition, opinion, behavior, etc., beforehand", "S": ["biased ", "minded ", "ready ", "subject "], "A": ["disinclined ", "unwilling "]}

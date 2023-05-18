@@ -1,0 +1,1 @@
+{"index": 87354, "D": "a person who is a pupil or an adherent of the doctrines of another; follower", "S": [], "A": []}

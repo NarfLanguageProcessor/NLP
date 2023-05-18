@@ -1,0 +1,1 @@
+{"index": 127715, "D": "a person or thing that is dead, lost, or past recovery.", "S": [], "A": []}

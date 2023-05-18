@@ -1,0 +1,1 @@
+{"index": 280232, "D": "(in the asexual reproduction of certain sporozoans) the multiple fission of a trophozoite or schizont into merozoites.", "S": [], "A": []}

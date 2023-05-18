@@ -1,0 +1,1 @@
+{"index": 306421, "D": [], "S": ["cone-shaped ", "tapered "], "A": []}

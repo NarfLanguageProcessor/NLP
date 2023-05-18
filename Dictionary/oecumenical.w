@@ -1,0 +1,1 @@
+{"index": 211432, "D": "a less common spelling of ecumenical", "S": [], "A": []}

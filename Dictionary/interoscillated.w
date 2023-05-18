@@ -1,0 +1,1 @@
+{"index": 155551, "D": "to swing or move to and fro, as a pendulum does.", "S": [], "A": []}

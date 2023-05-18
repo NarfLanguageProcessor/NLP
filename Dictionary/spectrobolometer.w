@@ -1,0 +1,1 @@
+{"index": 298888, "D": "an instrument consisting of a spectroscope and a bolometer,  for determining the distribution of radiant energy in a spectrum.", "S": [], "A": []}

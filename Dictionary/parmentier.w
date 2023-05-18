@@ -1,0 +1,1 @@
+{"index": 226644, "D": "(of food) prepared or served with potatoes", "S": [], "A": []}

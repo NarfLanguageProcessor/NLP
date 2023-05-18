@@ -1,0 +1,1 @@
+{"index": 146385, "D": "a combining form representing idea  in compound words", "S": [], "A": []}

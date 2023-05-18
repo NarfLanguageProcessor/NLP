@@ -1,0 +1,1 @@
+{"index": 206420, "D": "a quality, accomplishment, etc., that fits a person for some function, office, or the like.", "S": [], "A": []}

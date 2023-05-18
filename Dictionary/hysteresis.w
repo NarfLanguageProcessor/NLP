@@ -1,0 +1,1 @@
+{"index": 141734, "D": "Compare magnetic hysteresis. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235947, "D": "of, relating to, or characteristic of Mr. Pickwick, central character of The Pickwick Papers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273934, "D": "the greatest of the paladins in the Charlemagne cycle of the chansons de geste, renowned for his prowess and the manner of his death in the battle of Roncesvalles (a.d. 778), also for his five days' combat with Oliver in which neither was the victor.", "S": [], "A": []}

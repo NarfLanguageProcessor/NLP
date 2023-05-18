@@ -1,0 +1,1 @@
+{"index": 185398, "D": "to convert (a measuring system, instrument, etc) from nonmetric to metric units", "S": [], "A": []}

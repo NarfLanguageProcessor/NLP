@@ -1,0 +1,1 @@
+{"index": 125471, "D": "to move in a circle or spiral, or around a fixed point; whirl.", "S": [], "A": []}

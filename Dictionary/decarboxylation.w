@@ -1,0 +1,1 @@
+{"index": 78070, "D": "the removal or loss of a carboxyl group from an organic compound", "S": [], "A": []}

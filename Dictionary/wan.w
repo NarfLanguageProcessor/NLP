@@ -1,0 +1,1 @@
+{"index": 362353, "D": "of an unnatural or sickly pallor; pallid; lacking color", "S": ["blanched ", "bleached ", "dim ", "discolored ", "faint ", "haggard ", "pale ", "pasty ", "peaked ", "white ", "worn "], "A": ["blushing ", "bright ", "clear ", "colorful ", "distinct ", "flushed ", "fresh ", "healthy ", "strong "]}

@@ -1,0 +1,1 @@
+{"index": 58998, "D": "the act or process of bonding one metal to another, usually to protect the inner metal from corrosion.", "S": ["cladding ", "covering "], "A": []}

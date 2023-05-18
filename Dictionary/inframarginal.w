@@ -1,0 +1,1 @@
+{"index": 152286, "D": "below the margin; submarginal.", "S": [], "A": []}

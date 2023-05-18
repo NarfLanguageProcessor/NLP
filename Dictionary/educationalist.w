@@ -1,0 +1,1 @@
+{"index": 95840, "D": "a specialist in educational theory or administration", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 210658, "D": "needs; necessities", "S": ["incident ", "moment ", "opening ", "opportunity ", "possibility ", "time "], "A": ["misfortune "]}

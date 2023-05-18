@@ -1,0 +1,1 @@
+{"index": 132468, "D": "U.S. lawyer, politician, and official of the motion-picture industry.", "S": ["fodder ", "grass "], "A": []}

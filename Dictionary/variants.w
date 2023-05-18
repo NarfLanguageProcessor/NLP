@@ -1,0 +1,1 @@
+{"index": 357180, "D": "tending to change or alter; exhibiting variety or diversity; varying", "S": ["modification ", "variation "], "A": ["regularity "]}

@@ -1,0 +1,1 @@
+{"index": 337128, "D": "to change from a fluid into a thickened mass; curdle; congeal", "S": [], "A": []}

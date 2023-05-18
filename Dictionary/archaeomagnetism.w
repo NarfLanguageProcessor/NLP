@@ -1,0 +1,1 @@
+{"index": 18679, "D": "an archaeological technique for dating certain clay objects by measuring the extent to which they have been magnetized by the earth's magnetic field", "S": [], "A": []}

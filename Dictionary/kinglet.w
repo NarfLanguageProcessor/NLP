@@ -1,0 +1,1 @@
+{"index": 164899, "D": "a king  ruling over a small country or territory.", "S": [], "A": []}

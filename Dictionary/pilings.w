@@ -1,0 +1,1 @@
+{"index": 236656, "D": "a mass of building piles  considered collectively.", "S": ["dam ", "dock ", "jetty ", "promenade ", "wharf "], "A": []}

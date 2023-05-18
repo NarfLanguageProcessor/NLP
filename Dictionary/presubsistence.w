@@ -1,0 +1,1 @@
+{"index": 249718, "D": "the state or fact of subsisting.", "S": [], "A": []}

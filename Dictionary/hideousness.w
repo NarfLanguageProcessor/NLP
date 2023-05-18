@@ -1,0 +1,1 @@
+{"index": 138367, "D": "horrible or frightful to the senses; repulsive; very ugly", "S": ["disfigurement ", "homeliness ", "offensiveness ", "plainness ", "repulsiveness ", "unseemliness ", "unsightliness "], "A": []}

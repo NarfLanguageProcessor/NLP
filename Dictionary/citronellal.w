@@ -1,0 +1,1 @@
+{"index": 58872, "D": "a colorless, slightly water-soluble liquid mixture of isometric aldehydes having the formula C10H18O, with a strong lemonlike odor, occurring in many essential oils, usually derived from lemon, citronella oil,  and other oils", "S": [], "A": []}

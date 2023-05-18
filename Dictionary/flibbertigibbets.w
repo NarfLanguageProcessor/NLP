@@ -1,0 +1,1 @@
+{"index": 114535, "D": "a chattering or flighty, light-headed person.", "S": ["blabbermouth ", "busybody ", "chatterbox ", "chatterer ", "gossipmonger ", "informer ", "meddler ", "newsmonger ", "parrot ", "prattler ", "rumormonger ", "scandalmonger ", "snoop ", "talebearer ", "tattler ", "telltale "], "A": ["fact "]}

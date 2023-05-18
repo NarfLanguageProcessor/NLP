@@ -1,0 +1,1 @@
+{"index": 220981, "D": "to score  over, as with strokes or lines.", "S": [], "A": []}

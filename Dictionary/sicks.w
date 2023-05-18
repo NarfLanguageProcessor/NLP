@@ -1,0 +1,1 @@
+{"index": 289665, "D": "affected with ill health, disease, or illness; ailing. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362872, "D": "a basin or bowl for washing the face and hands", "S": ["bowl ", "lagoon ", "pan ", "pool ", "pot ", "tub ", "valley ", "watershed "], "A": ["increase ", "rise ", "solid "]}

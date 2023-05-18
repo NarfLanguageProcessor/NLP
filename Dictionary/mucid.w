@@ -1,0 +1,1 @@
+{"index": 194522, "D": "moldy; musty.", "S": ["close ", "dank ", "drizzly ", "moist ", "mucous ", "muculent ", "pasty ", "slimy ", "soggy ", "sticky ", "sweating ", "sweaty ", "wet "], "A": ["dry "]}

@@ -1,0 +1,1 @@
+{"index": 342038, "D": "having no father;  fatherless.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223259, "D": "a type of Chinese cabbage, Brassica rapa chinensis, with long, broad, dark green leaves and pale stalks that form a cluster rather than a head, grown throughout East Asia and cultivated elsewhere, especially northern Europe, as the plant can withstand a cold climate.", "S": [], "A": []}

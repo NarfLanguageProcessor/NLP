@@ -1,0 +1,1 @@
+{"index": 113470, "D": "the hand closed tightly, with the fingers doubled into the palm.", "S": [], "A": []}

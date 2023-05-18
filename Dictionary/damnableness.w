@@ -1,0 +1,1 @@
+{"index": 76573, "D": "worthy of condemnation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55044, "D": "a yellow, crystalline, water-insoluble solid, C6Cl4O2, used chiefly as a fungicide and as an intermediate in the manufacture of dyes.", "S": [], "A": []}

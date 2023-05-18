@@ -1,0 +1,1 @@
+{"index": 89713, "D": "a doctrine denying the existence of a final cause or purpose.", "S": [], "A": []}

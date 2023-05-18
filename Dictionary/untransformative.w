@@ -1,0 +1,1 @@
+{"index": 353243, "D": "causing a radical and typically positive change in outlook, character, form, or condition", "S": [], "A": []}

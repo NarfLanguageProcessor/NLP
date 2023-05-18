@@ -1,0 +1,1 @@
+{"index": 295007, "D": "that cannot be penetrated by smoke", "S": [], "A": []}

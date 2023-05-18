@@ -1,0 +1,1 @@
+{"index": 171165, "D": "a coin and monetary unit of Bulgaria, equal to 100 stotinki. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67722, "D": "(of a subject, photograph, or film stock) having or producing a preponderance of dark and light tones with few intermediate shades.", "S": [], "A": []}

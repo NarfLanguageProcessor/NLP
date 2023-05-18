@@ -1,0 +1,1 @@
+{"index": 241391, "D": "full of or containing poison", "S": ["despitefulness ", "enmity ", "evil ", "hate ", "hatred ", "ill will ", "indignity ", "malice ", "maliciousness ", "malignancy ", "malignity ", "meanness ", "nastiness ", "spite ", "spitefulness ", "venomousness ", "viciousness "], "A": []}

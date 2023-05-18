@@ -1,0 +1,1 @@
+{"index": 61503, "D": "a fight  between specially bred gamecocks usually fitted with spurs.", "S": [], "A": []}

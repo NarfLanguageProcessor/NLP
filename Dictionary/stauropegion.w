@@ -1,0 +1,1 @@
+{"index": 303197, "D": "(in an autocephalous church) a monastery subject directly to the primate.", "S": [], "A": []}

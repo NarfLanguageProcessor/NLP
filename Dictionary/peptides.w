@@ -1,0 +1,1 @@
+{"index": 230267, "D": "a compound containing two or more amino acids in which the carboxyl group of one acid is linked to the amino group of the other.", "S": [], "A": []}

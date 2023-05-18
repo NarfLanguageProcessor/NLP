@@ -1,0 +1,1 @@
+{"index": 125762, "D": "the branch of geology that deals with the nature, distribution, and action of glaciers  and with their effect on the earth's topography.", "S": [], "A": []}

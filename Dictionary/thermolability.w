@@ -1,0 +1,1 @@
+{"index": 321430, "D": "subject to destruction or loss of characteristic properties by the action of moderate heat, as certain toxins and enzymes (opposed to thermostable).", "S": [], "A": []}

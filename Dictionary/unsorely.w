@@ -1,0 +1,1 @@
+{"index": 351615, "D": "physically painful or sensitive, as a wound, hurt, or diseased part", "S": [], "A": []}

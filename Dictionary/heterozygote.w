@@ -1,0 +1,1 @@
+{"index": 137824, "D": "a person, animal, or other organism with a pair of differing alleles,  one dominant and one recessive, of a particular gene.", "S": [], "A": []}

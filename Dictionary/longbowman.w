@@ -1,0 +1,1 @@
+{"index": 174899, "D": "an archer who uses a longbow. ", "S": [], "A": []}

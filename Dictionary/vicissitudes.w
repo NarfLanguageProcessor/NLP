@@ -1,0 +1,1 @@
+{"index": 359416, "D": "a change or variation occurring in the course of something.", "S": ["behavior ", "development ", "growth ", "lifestyle ", "personality ", "way of life ", "world "], "A": []}

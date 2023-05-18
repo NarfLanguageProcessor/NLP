@@ -1,0 +1,1 @@
+{"index": 229728, "D": "any of various instruments for writing or drawing with ink or a similar substance.", "S": ["caged ", "enslaved ", "imprisoned ", "incommunicado "], "A": ["disillusioned ", "free ", "independent ", "loose ", "uninterested "]}

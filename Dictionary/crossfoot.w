@@ -1,0 +1,1 @@
+{"index": 73817, "D": "to total figures horizontally across columns instead of vertically.", "S": [], "A": []}

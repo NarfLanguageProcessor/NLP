@@ -1,0 +1,1 @@
+{"index": 343641, "D": "weight; heaviness", "S": [], "A": []}

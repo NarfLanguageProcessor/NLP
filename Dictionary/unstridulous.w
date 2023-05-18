@@ -1,0 +1,1 @@
+{"index": 352175, "D": "making or having a harsh or grating sound.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367728, "D": "first and third person singular present tense of wit2. ", "S": [], "A": []}

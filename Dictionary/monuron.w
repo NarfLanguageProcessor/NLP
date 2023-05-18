@@ -1,0 +1,1 @@
+{"index": 192971, "D": "a white crystalline solid, C9H11ClN2O, used as a herbicide, especially for broad-leaved plants.", "S": [], "A": []}

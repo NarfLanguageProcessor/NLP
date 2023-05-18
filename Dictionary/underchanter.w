@@ -1,0 +1,1 @@
+{"index": 338966, "D": "a person who chants;  singer.", "S": [], "A": []}

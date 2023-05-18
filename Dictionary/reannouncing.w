@@ -1,0 +1,1 @@
+{"index": 261855, "D": "to make known publicly or officially; proclaim; give notice of", "S": [], "A": []}

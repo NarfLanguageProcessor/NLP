@@ -1,0 +1,1 @@
+{"index": 186640, "D": "a microscopic animal, especially a protozoan.", "S": [], "A": []}

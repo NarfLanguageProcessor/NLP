@@ -1,0 +1,1 @@
+{"index": 247088, "D": "to deter by advice or persuasion; persuade not to do something (often followed by from)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 263586, "D": "of or relating to recreation", "S": ["competitive "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96374, "D": "having an eye  or eyes", "S": ["feeling ", "mind ", "taste ", "view "], "A": []}

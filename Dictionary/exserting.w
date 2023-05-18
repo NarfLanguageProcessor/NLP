@@ -1,0 +1,1 @@
+{"index": 108137, "D": "to thrust out.", "S": [], "A": []}

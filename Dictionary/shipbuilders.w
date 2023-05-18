@@ -1,0 +1,1 @@
+{"index": 288412, "D": "a person whose occupation is the designing or constructing of ship. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 231567, "D": "a brand name for any of a class of alloys of high magnetic permeability, containing from 30 to 90 percent nickel.", "S": [], "A": []}

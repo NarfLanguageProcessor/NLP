@@ -1,0 +1,1 @@
+{"index": 76368, "D": "an establishment, as a room, building, or buildings, where milk and cream are kept and butter and cheese are made.", "S": ["dairy farm "], "A": []}

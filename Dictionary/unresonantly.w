@@ -1,0 +1,1 @@
+{"index": 349728, "D": "resounding  or echoing, as sounds", "S": [], "A": []}

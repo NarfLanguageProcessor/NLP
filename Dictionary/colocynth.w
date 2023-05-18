@@ -1,0 +1,1 @@
+{"index": 63186, "D": "a plant, Citrullus colocynthis, belonging to the gourd family, of the warmer parts of Asia, the Mediterranean region, etc., bearing a round, yellow or green fruit with a bitter pulp.", "S": [], "A": []}

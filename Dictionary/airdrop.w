@@ -1,0 +1,1 @@
+{"index": 6887, "D": "to drop (persons, equipment, etc.) by parachute from an aircraft in flight.", "S": ["fly "], "A": []}

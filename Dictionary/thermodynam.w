@@ -1,0 +1,1 @@
+{"index": 321386, "D": "thermodynamics.", "S": [], "A": []}

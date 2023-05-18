@@ -1,0 +1,1 @@
+{"index": 323656, "D": "the act or operation of tilling land; tillage.", "S": [], "A": []}

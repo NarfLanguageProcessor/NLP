@@ -1,0 +1,1 @@
+{"index": 70610, "D": "a table or display case on which goods can be shown, business transacted, etc.", "S": ["antithetical "], "A": ["agreeing ", "harmonious ", "similar "]}

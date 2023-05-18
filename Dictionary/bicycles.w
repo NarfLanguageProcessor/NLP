@@ -1,0 +1,1 @@
+{"index": 33410, "D": "a vehicle with two wheels in tandem, usually propelled by pedals connected to the rear wheel by a chain, and having handlebars for steering and a saddlelike seat.", "S": ["bike "], "A": []}

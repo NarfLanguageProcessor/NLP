@@ -1,0 +1,1 @@
+{"index": 192428, "D": "the use of one metal only, as gold or silver, as a monetary standard.", "S": [], "A": []}

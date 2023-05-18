@@ -1,0 +1,1 @@
+{"index": 345932, "D": "wishing evil or harm to another or others; showing ill will; ill-disposed; malicious", "S": [], "A": []}

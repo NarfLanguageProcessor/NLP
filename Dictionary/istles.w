@@ -1,0 +1,1 @@
+{"index": 159413, "D": "a fiber from any of several tropical American plants of the genus Agave or Yucca, used in making bagging, carpets, etc.", "S": [], "A": []}

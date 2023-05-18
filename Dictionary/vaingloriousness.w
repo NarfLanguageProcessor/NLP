@@ -1,0 +1,1 @@
+{"index": 356598, "D": "filled with or given to vainglory", "S": ["arrogance ", "cockiness ", "egotism ", "grandiosity ", "immodesty ", "ostentation ", "pomposity ", "pompousness ", "pretension ", "smugness ", "vanity "], "A": ["humility ", "modesty "]}

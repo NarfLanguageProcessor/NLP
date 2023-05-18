@@ -1,0 +1,1 @@
+{"index": 144431, "D": "a person, often hired, who does or directs the domestic work and planning necessary for a home, as cleaning or buying food.", "S": [], "A": []}

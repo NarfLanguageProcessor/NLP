@@ -1,0 +1,1 @@
+{"index": 213690, "D": "the action of opposing, resisting, or combating.", "S": ["action ", "hostility ", "resistance ", "struggle "], "A": ["accord ", "affection ", "agreement ", "calm ", "harmony ", "kindness ", "liking ", "love ", "obedience ", "peace ", "retreat ", "surrender ", "sympathy ", "yielding "]}

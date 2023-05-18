@@ -1,0 +1,1 @@
+{"index": 344622, "D": "given to inquiry,  research, or asking questions; eager for knowledge; intellectually curious", "S": [], "A": []}

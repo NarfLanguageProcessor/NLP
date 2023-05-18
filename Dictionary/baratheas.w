@@ -1,0 +1,1 @@
+{"index": 27686, "D": "a closely woven fabric of silk, rayon, cotton, or wool, having a pebbled surface.", "S": [], "A": []}

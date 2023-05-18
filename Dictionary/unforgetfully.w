@@ -1,0 +1,1 @@
+{"index": 342552, "D": "apt to forget;  that forgets", "S": [], "A": []}

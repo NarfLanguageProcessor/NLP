@@ -1,0 +1,1 @@
+{"index": 362143, "D": "an act or instance of waking up.", "S": ["mount ", "rise ", "soar "], "A": ["decline ", "decrease ", "drop ", "fall ", "slump ", "descend ", "go down "]}

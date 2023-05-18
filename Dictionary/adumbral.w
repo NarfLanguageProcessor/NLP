@@ -1,0 +1,1 @@
+{"index": 4534, "D": "shadowy; shady.", "S": ["black ", "tan "], "A": ["apparent ", "bright ", "brilliant ", "cheerful ", "distinct ", "encouraging ", "evident ", "good ", "happy ", "hopeful ", "illuminated ", "light ", "lucid ", "luminous ", "manifest ", "moral ", "plain ", "pleased ", "radiant ", "shining ", "visible ", "vivid "]}

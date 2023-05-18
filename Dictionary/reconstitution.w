@@ -1,0 +1,1 @@
+{"index": 263400, "D": "the act, process, or result of putting the elements of something back together into a whole; reconstruction", "S": ["restructuring "], "A": []}

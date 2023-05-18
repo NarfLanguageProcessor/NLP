@@ -1,0 +1,1 @@
+{"index": 129992, "D": "a worker on a cable car who operates the grip,  which, by grasping or releasing the moving cable, starts or stops the car.", "S": [], "A": []}

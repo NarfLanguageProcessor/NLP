@@ -1,0 +1,1 @@
+{"index": 42335, "D": "a hasty retreat from combat, especially in defiance of orders.", "S": ["bloat ", "protrude ", "swell "], "A": ["shrink ", "tighten ", "abridge ", "compress ", "contract ", "lessen ", "lower ", "reduce "]}

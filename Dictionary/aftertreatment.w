@@ -1,0 +1,1 @@
+{"index": 5784, "D": "a chemical treatment  to which a fabric is subjected immediately after  being dyed, for increasing the fastness of the color.", "S": [], "A": []}

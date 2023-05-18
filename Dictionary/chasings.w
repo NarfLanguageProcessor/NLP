@@ -1,0 +1,1 @@
+{"index": 53023, "D": "a design chased  on metal.", "S": ["etching ", "illustration ", "inscription ", "lithograph ", "woodcut "], "A": []}

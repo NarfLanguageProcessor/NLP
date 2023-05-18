@@ -1,0 +1,1 @@
+{"index": 270073, "D": "to prick or wound with a sharp-pointed, often venom-bearing organ.", "S": [], "A": []}

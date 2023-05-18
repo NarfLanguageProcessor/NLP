@@ -1,0 +1,1 @@
+{"index": 57220, "D": "a congenital defect characterized by fusion of the orbits into a single cavity containing one eye.", "S": [], "A": []}

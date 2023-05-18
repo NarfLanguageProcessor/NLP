@@ -1,0 +1,1 @@
+{"index": 12480, "D": "a collector or teller of anecdotes. ", "S": ["storyteller "], "A": []}

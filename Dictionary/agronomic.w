@@ -1,0 +1,1 @@
+{"index": 6549, "D": "the science of soil management and the production of field crops. ", "S": ["agrarian ", "agricultural ", "back-country ", "backwoods ", "bucolic ", "idyllic ", "pastoral ", "provincial ", "rustic "], "A": ["metropolitan ", "urban "]}

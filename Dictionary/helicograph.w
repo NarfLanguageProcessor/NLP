@@ -1,0 +1,1 @@
+{"index": 135503, "D": "an instrument for drawing helices.", "S": [], "A": []}

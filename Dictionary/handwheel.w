@@ -1,0 +1,1 @@
+{"index": 133306, "D": "a wheel,  as a valve wheel,  turned by hand. ", "S": [], "A": []}

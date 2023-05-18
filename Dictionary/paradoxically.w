@@ -1,0 +1,1 @@
+{"index": 225536, "D": "in a self-contradictory or seemingly self-contradictory way", "S": [], "A": []}

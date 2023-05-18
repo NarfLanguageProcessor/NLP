@@ -1,0 +1,1 @@
+{"index": 279748, "D": "a long, broad strip of wool, silk, lace, or other material worn about the neck, shoulders, or head, for ornament or protection against cold, drafts, etc. ", "S": ["binge ", "feast ", "gluttonize ", "gorge ", "gourmandize ", "overindulge ", "pig ", "scarf ", "surfeit "], "A": ["abstain ", "fast "]}

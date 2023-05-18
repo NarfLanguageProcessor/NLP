@@ -1,0 +1,1 @@
+{"index": 330526, "D": "a Y-shaped group of ridges on the palm of the hand at the base of each finger.", "S": [], "A": []}

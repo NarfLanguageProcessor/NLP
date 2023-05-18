@@ -1,0 +1,1 @@
+{"index": 326262, "D": "subject to parching or burning heat, especially of the sun, as a geographical area", "S": [], "A": []}

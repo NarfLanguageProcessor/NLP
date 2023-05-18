@@ -1,0 +1,1 @@
+{"index": 256383, "D": "one of several hundred known celestial objects, generally believed to be rapidly rotating neutron stars, that emit pulses of radiation, especially radio waves, with a high degree of regularity.", "S": [], "A": []}

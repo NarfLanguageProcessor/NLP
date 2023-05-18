@@ -1,0 +1,1 @@
+{"index": 75274, "D": "the process of curetting.", "S": [], "A": []}

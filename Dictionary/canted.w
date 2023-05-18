@@ -1,0 +1,1 @@
+{"index": 46585, "D": "insincere, especially conventional expressions of enthusiasm for high ideals, goodness, or piety.", "S": ["absurd ", "askance ", "askant ", "asymmetrical ", "awry ", "cam ", "crazy ", "crooked ", "cross-eyed ", "lopsided ", "ludicrous ", "nonsensical ", "preposterous ", "squint ", "strabismic "], "A": ["level ", "straight "]}

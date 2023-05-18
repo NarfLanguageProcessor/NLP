@@ -1,0 +1,1 @@
+{"index": 331118, "D": "a ship  for the conveyance of military troops;  transport.", "S": [], "A": []}

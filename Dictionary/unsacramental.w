@@ -1,0 +1,1 @@
+{"index": 350191, "D": "of, relating to, or of the nature of a sacrament,  especially the sacrament  of the Eucharist.", "S": [], "A": []}

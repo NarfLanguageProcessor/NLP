@@ -1,0 +1,1 @@
+{"index": 124252, "D": "to begin to grow or develop.", "S": ["fertilization ", "origin "], "A": ["conclusion ", "end ", "ending ", "finish "]}

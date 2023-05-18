@@ -1,0 +1,1 @@
+{"index": 280500, "D": "a room  in which a class is conducted or pupils are taught.", "S": [], "A": []}

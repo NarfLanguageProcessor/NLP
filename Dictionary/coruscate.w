@@ -1,0 +1,1 @@
+{"index": 69893, "D": "to emit vivid flashes of light; sparkle; scintillate; gleam. ", "S": ["beam ", "blaze ", "flash ", "glint ", "glisten ", "glitter ", "radiate ", "sparkle "], "A": []}

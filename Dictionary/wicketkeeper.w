@@ -1,0 +1,1 @@
+{"index": 365463, "D": "the player on the fielding side who stands immediately behind the wicket  to stop balls that pass it.", "S": [], "A": []}

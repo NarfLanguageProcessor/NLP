@@ -1,0 +1,1 @@
+{"index": 351945, "D": "to begin or set out, as on a journey or activity.", "S": [], "A": []}

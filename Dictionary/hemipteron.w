@@ -1,0 +1,1 @@
+{"index": 136268, "D": "a hemipterous insect.", "S": [], "A": []}

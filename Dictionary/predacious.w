@@ -1,0 +1,1 @@
+{"index": 246636, "D": "predatory; rapacious. ", "S": ["cannibalistic ", "flesh-eating ", "omophagous "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 180199, "D": "a person who is skilled in shooting at a mark; a person who shoots well.", "S": [], "A": []}

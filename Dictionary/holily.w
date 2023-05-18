@@ -1,0 +1,1 @@
+{"index": 142450, "D": "in a pious, devout, or sacred manner.", "S": [], "A": []}

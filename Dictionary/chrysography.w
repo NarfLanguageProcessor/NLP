@@ -1,0 +1,1 @@
+{"index": 56059, "D": "the art of writing in ink made of powdered gold suspended in a small amount of glair or gum.", "S": [], "A": []}

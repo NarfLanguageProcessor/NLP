@@ -1,0 +1,1 @@
+{"index": 140331, "D": "having or showing a disposition to obtrude,  as by imposing oneself or one's opinions on others.", "S": [], "A": []}

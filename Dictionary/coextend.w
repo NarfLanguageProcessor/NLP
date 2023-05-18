@@ -1,0 +1,1 @@
+{"index": 62115, "D": "to extend  equally through the same space or duration.", "S": [], "A": []}

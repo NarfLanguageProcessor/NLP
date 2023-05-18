@@ -1,0 +1,1 @@
+{"index": 126685, "D": "an instrument for measuring the reflectivity of a surface.", "S": [], "A": []}

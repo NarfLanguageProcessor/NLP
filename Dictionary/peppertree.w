@@ -1,0 +1,1 @@
+{"index": 230234, "D": "any of several chiefly South American, evergreen trees belonging to the genus Schinus, of the cashew family, cultivated in subtropical regions as an ornamental.", "S": [], "A": []}

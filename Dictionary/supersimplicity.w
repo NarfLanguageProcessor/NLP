@@ -1,0 +1,1 @@
+{"index": 312665, "D": "the state, quality, or an instance of being simple. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293927, "D": "of, relating to, or like sleet. ", "S": ["bitter ", "bleak ", "brisk ", "chilled ", "cool ", "crisp ", "frigid ", "frosty ", "frozen ", "icy ", "intense ", "raw ", "snowy ", "wintry "], "A": ["hot ", "mild ", "nice ", "pleasant ", "temperate ", "warm "]}

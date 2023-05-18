@@ -1,0 +1,1 @@
+{"index": 280213, "D": "a dry, dehiscent fruit that at maturity splits into two or more one-seeded carpels.", "S": [], "A": []}

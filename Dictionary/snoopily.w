@@ -1,0 +1,1 @@
+{"index": 295694, "D": "characterized by meddlesome curiosity; prying.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293248, "D": "a mean, stingy person; miser.", "S": ["Scrooge ", "hoarder ", "miser ", "moneygrubber ", "tightwad "], "A": []}

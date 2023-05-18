@@ -1,0 +1,1 @@
+{"index": 90426, "D": "to make publicly known; publish.", "S": ["acknowledgment ", "admission ", "confession ", "discovery ", "exposure ", "leak ", "publication "], "A": ["concealment ", "denial "]}

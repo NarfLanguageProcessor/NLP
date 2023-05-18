@@ -1,0 +1,1 @@
+{"index": 195651, "D": "a toll or tax for the repair or construction of the walls or fortifications of a town.", "S": [], "A": []}

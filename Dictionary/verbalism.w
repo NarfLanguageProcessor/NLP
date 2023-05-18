@@ -1,0 +1,1 @@
+{"index": 358359, "D": "a verbal  expression, as a word or phrase.", "S": ["diction ", "language ", "locution ", "manner ", "mode ", "parlance ", "phrase ", "phraseology ", "phrasing ", "style ", "terminology ", "words "], "A": []}

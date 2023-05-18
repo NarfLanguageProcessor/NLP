@@ -1,0 +1,1 @@
+{"index": 145923, "D": "any plant of the annual or perennial Eurasian genus Iberis, 12 to 25 cm (6\u201312 in.) in height, with white or purple flowers. I. amara and I. umbellata are the garden candytuft Family Brassicaceae (crucifers)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213117, "D": "an unfertilized egg within an oogonium.", "S": ["egg ", "gamete ", "seed ", "spore "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52271, "D": "a dry, red wine from the Gevrey-Chambertin commune of the Burgundy region in France.", "S": [], "A": []}

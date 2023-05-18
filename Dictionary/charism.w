@@ -1,0 +1,1 @@
+{"index": 52839, "D": "a divinely conferred gift or power.", "S": [], "A": []}

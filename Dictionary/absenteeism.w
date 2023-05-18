@@ -1,0 +1,1 @@
+{"index": 940, "D": "frequent or habitual absence  from work, school, etc.", "S": ["absence ", "defection ", "desertion ", "truancy "], "A": ["attendance ", "presence "]}

@@ -1,0 +1,1 @@
+{"index": 193140, "D": "(of a ship, boat, dirigible, buoy, etc.) secured in a particular place, as by ropes, cables, or anchors", "S": ["immobile ", "motionless ", "parked ", "stagnant ", "static "], "A": ["active ", "mobile ", "moving "]}

@@ -1,0 +1,1 @@
+{"index": 319803, "D": "the act of testifying  or giving testimony.", "S": ["affidavit ", "authentication ", "authorization ", "certification ", "coupon ", "credential ", "deed ", "diploma ", "documentation ", "guarantee ", "license ", "paper ", "permit ", "receipt ", "ticket ", "voucher ", "warrant ", "warranty "], "A": ["breach ", "break ", "prohibition ", "denial ", "veto "]}

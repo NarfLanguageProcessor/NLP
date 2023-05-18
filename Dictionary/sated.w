@@ -1,0 +1,1 @@
+{"index": 278674, "D": "fully satisfied", "S": ["annoyed ", "blas\u00e9 ", "blue ", "bored ", "depressed ", "discontented ", "dismal ", "dissatisfied ", "down ", "gloomy ", "glum ", "jaded ", "satiated ", "sick and tired ", "surfeited ", "tired ", "up to here ", "weary "], "A": ["happy ", "overjoyed ", "pleased "]}

@@ -1,0 +1,1 @@
+{"index": 97094, "D": "to decompose (a chemical compound) by electrolysis", "S": [], "A": []}

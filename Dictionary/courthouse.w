@@ -1,0 +1,1 @@
+{"index": 71349, "D": "a building in which courts  of law are held.", "S": ["bench ", "courtroom ", "tribunal "], "A": []}

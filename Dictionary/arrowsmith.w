@@ -1,0 +1,1 @@
+{"index": 20336, "D": "a novel (1925) by Sinclair Lewis.", "S": [], "A": []}

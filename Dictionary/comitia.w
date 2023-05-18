@@ -1,0 +1,1 @@
+{"index": 63855, "D": "an assembly of the people convened to pass on laws, nominate magistrates, etc.", "S": [], "A": []}

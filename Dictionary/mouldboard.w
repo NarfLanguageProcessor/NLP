@@ -1,0 +1,1 @@
+{"index": 194162, "D": "the curved blade of a plough, which turns over the furrow", "S": [], "A": []}

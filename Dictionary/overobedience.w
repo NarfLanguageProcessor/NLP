@@ -1,0 +1,1 @@
+{"index": 220384, "D": "the state or quality of being obedient.", "S": [], "A": []}

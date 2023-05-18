@@ -1,0 +1,1 @@
+{"index": 125094, "D": "a vascular plant having seeds that are not enclosed in an ovary; a conifer or cycad.", "S": [], "A": []}

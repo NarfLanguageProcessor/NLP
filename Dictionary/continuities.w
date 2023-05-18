@@ -1,0 +1,1 @@
+{"index": 67497, "D": "the state or quality of being continuous. ", "S": ["cohesion ", "constancy ", "continuum ", "durability ", "persistence ", "stability ", "stamina ", "survival ", "unity ", "vitality "], "A": ["apathy ", "instability ", "lethargy ", "unsteadiness ", "weakness ", "end "]}

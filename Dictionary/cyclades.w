@@ -1,0 +1,1 @@
+{"index": 57067, "D": "a group of Greek islands in the S Aegean. 1,023 sq. mi. (2,650 sq. km).", "S": [], "A": []}

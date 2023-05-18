@@ -1,0 +1,1 @@
+{"index": 255863, "D": "an adherent or advocate of the Ptolemaic system  of astronomy.", "S": [], "A": []}

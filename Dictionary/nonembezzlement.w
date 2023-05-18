@@ -1,0 +1,1 @@
+{"index": 203459, "D": "to appropriate fraudulently to one's own use, as money or property entrusted to one's care.", "S": [], "A": []}

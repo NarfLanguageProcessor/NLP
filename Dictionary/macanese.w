@@ -1,0 +1,1 @@
+{"index": 176641, "D": "a native or inhabitant of Macao.", "S": [], "A": []}

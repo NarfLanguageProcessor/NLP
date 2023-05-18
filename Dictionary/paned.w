@@ -1,0 +1,1 @@
+{"index": 224530, "D": "having panes  (usually used in combination)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7008, "D": "preventing the entrance or escape of air or gas.", "S": ["impenetrable "], "A": ["loose ", "open ", "penetrable ", "permeable ", "possible ", "questionable ", "uncertain ", "unclosed ", "unsealed "]}

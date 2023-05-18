@@ -1,0 +1,1 @@
+{"index": 108399, "D": "serving or tending to extort", "S": [], "A": []}

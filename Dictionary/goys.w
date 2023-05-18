@@ -1,0 +1,1 @@
+{"index": 127456, "D": "a term used by a Jew to refer to someone who is not Jewish.", "S": [], "A": []}

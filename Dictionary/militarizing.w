@@ -1,0 +1,1 @@
+{"index": 187207, "D": "to equip with armed forces, military  supplies, or the like.", "S": ["impel "], "A": ["check ", "discourage ", "disorganize ", "disperse ", "divide ", "halt ", "hold back ", "retard ", "scatter ", "separate ", "stop "]}

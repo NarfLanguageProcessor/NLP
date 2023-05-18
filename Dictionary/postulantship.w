@@ -1,0 +1,1 @@
+{"index": 244527, "D": "a candidate, especially for admission into a religious order.", "S": [], "A": []}

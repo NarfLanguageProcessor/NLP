@@ -1,0 +1,1 @@
+{"index": 246461, "D": "immediately preceding a consonant.", "S": [], "A": []}

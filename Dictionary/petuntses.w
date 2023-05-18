@@ -1,0 +1,1 @@
+{"index": 232629, "D": "a type of feldspar, used in certain porcelains.", "S": [], "A": []}

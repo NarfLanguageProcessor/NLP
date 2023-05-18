@@ -1,0 +1,1 @@
+{"index": 352004, "D": "an ornamental construction, usually ending in a spire, erected on a roof or tower of a church, public building, etc.", "S": [], "A": []}

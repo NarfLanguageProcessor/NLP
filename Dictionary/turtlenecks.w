@@ -1,0 +1,1 @@
+{"index": 332961, "D": "a high, close-fitting collar, often rolled or turned down, appearing especially on pullover sweaters.", "S": ["bodice ", "pullover "], "A": []}

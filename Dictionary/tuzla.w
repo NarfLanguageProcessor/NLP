@@ -1,0 +1,1 @@
+{"index": 333133, "D": "a city in NE Bosnia and Herzegovina.", "S": [], "A": []}

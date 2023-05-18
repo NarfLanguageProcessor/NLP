@@ -1,0 +1,1 @@
+{"index": 34502, "D": "of, relating to, or comprising psychological and biological phenomena.", "S": [], "A": []}

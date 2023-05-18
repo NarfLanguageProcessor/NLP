@@ -1,0 +1,1 @@
+{"index": 141873, "D": "of, pertaining to, treating, or characteristic of history  or past events", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 23129, "D": "to acknowledge the relation of a tenant to a new landlord.", "S": [], "A": []}

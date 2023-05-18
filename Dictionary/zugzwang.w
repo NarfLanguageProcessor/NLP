@@ -1,0 +1,1 @@
+{"index": 370067, "D": "a situation in which a player is limited to moves that cost pieces or have a damaging positional effect.", "S": [], "A": []}

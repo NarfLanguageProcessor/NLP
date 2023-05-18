@@ -1,0 +1,1 @@
+{"index": 134692, "D": "(in a sawmill) the carriage and saw used in cutting a log into slabs.", "S": [], "A": []}

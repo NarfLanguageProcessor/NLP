@@ -1,0 +1,1 @@
+{"index": 79904, "D": "to deceive (an opponent) by a fake.", "S": [], "A": []}

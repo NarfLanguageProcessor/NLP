@@ -1,0 +1,1 @@
+{"index": 90301, "D": "to turn aside or from a path or course; deflect.", "S": ["alter ", "deflect ", "redirect ", "switch "], "A": ["stay ", "straighten "]}

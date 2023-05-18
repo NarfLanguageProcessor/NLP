@@ -1,0 +1,1 @@
+{"index": 342595, "D": "adherence to or reliance on formulas. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 298737, "D": "specification (def. 2). ", "S": ["bet ", "long shot ", "venture ", "wager "], "A": ["certainty ", "sureness "]}

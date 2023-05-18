@@ -1,0 +1,1 @@
+{"index": 357239, "D": "the state of being varied or diversified", "S": ["array ", "assortment ", "change ", "collection ", "diversity ", "mixture ", "range ", "soup ", "variation "], "A": ["similarity ", "agreement "]}

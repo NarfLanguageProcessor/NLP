@@ -1,0 +1,1 @@
+{"index": 176317, "D": "lupus vulgaris. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352956, "D": "practicing thrift  or economical management; frugal", "S": ["extravagant ", "heedless ", "imprudent ", "inconsiderate ", "lavish ", "negligent ", "prodigal ", "profligate ", "profuse ", "reckless ", "shiftless ", "shortsighted ", "thoughtless ", "thriftless ", "uneconomical ", "wasteful "], "A": []}

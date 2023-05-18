@@ -1,0 +1,1 @@
+{"index": 328770, "D": "a rockfish, Sebastes serriceps, of waters off southern California, marked with black bands.", "S": [], "A": []}

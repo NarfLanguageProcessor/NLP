@@ -1,0 +1,1 @@
+{"index": 33714, "D": "the occurrence of premature atrial or ventricular heartbeats in pairs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126517, "D": "containing or producing globules. ", "S": [], "A": []}

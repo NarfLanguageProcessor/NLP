@@ -1,0 +1,1 @@
+{"index": 39637, "D": "a person who brags.", "S": ["blowhard ", "boaster ", "brag ", "braggadocio ", "show-off ", "windbag "], "A": []}

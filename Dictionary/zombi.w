@@ -1,0 +1,1 @@
+{"index": 369670, "D": "the supernatural force itself.", "S": [], "A": []}

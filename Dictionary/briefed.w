@@ -1,0 +1,1 @@
+{"index": 40717, "D": "lasting or taking a short time; of short duration", "S": ["abreast ", "knowledgeable ", "learned "], "A": ["ignorant ", "uninformed "]}

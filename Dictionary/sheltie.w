@@ -1,0 +1,1 @@
+{"index": 288004, "D": "another name for Shetland pony, Shetland sheepdog", "S": [], "A": []}

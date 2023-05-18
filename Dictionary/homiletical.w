@@ -1,0 +1,1 @@
+{"index": 142923, "D": "of or relating to preaching or to homilies. ", "S": ["didactic ", "donnish ", "homiletic ", "lecturelike ", "moralizing ", "pedantic ", "pedantical ", "preachy "], "A": []}

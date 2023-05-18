@@ -1,0 +1,1 @@
+{"index": 62235, "D": "to think hard; ponder; meditate", "S": [], "A": []}

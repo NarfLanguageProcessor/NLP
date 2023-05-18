@@ -1,0 +1,1 @@
+{"index": 119451, "D": "of, like, or having froth;  foamy.", "S": [], "A": []}

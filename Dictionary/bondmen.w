@@ -1,0 +1,1 @@
+{"index": 37819, "D": "a male slave.", "S": ["detainee ", "hostage ", "prisoner ", "prisoner of war ", "slave "], "A": ["independent "]}

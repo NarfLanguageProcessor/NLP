@@ -1,0 +1,1 @@
+{"index": 287153, "D": "an untanned leather with a granular surface, prepared from the hide of a horse, shark, seal, etc.", "S": ["shiny leather "], "A": []}

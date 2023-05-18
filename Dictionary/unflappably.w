@@ -1,0 +1,1 @@
+{"index": 342346, "D": "not easily upset or confused, especially in a crisis; imperturbable.", "S": [], "A": []}

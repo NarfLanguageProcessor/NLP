@@ -1,0 +1,1 @@
+{"index": 323352, "D": "neat, orderly, or trim, as in appearance or dress", "S": ["cleanliness ", "orderliness ", "spruceness ", "uniformity "], "A": ["messiness ", "uncleanliness ", "untidiness "]}

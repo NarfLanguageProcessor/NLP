@@ -1,0 +1,1 @@
+{"index": 120422, "D": "to gather into a compact roll and bind securely, as a sail against a spar or a flag against its staff.", "S": ["curl ", "fold ", "roll "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 76394, "D": "the day shift  of a newspaper.", "S": [], "A": []}

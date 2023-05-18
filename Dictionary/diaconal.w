@@ -1,0 +1,1 @@
+{"index": 84053, "D": "pertaining to a deacon.", "S": ["clerical ", "sectarian "], "A": []}

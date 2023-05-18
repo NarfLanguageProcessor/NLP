@@ -1,0 +1,1 @@
+{"index": 215414, "D": "any fern of the genus Osmunda, especially the royal fern.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304741, "D": [], "S": ["allowance ", "compensation ", "fee ", "income ", "payment ", "profit ", "reimbursement ", "remuneration ", "reward ", "salary ", "stipend ", "wage "], "A": ["debt ", "loss ", "penalty "]}

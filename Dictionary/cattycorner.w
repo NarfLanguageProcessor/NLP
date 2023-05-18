@@ -1,0 +1,1 @@
+{"index": 49857, "D": "cater-cornered. ", "S": ["catty-corner ", "crosswise ", "oblique ", "slanted "], "A": []}

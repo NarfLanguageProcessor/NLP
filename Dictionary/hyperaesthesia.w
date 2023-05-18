@@ -1,0 +1,1 @@
+{"index": 139854, "D": "increased sensitivity of any of the sense organs, esp of the skin to cold, heat, pain, etc", "S": [], "A": []}

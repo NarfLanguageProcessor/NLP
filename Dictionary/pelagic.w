@@ -1,0 +1,1 @@
+{"index": 229229, "D": "of or relating to the open seas or oceans.", "S": ["aquatic ", "marine ", "thalassic "], "A": []}

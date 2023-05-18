@@ -1,0 +1,1 @@
+{"index": 109499, "D": "(of persons) liable to err, especially in being deceived or mistaken.", "S": [], "A": []}

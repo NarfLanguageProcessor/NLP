@@ -1,0 +1,1 @@
+{"index": 205634, "D": "the action of opposing, resisting, or combating.", "S": [], "A": []}

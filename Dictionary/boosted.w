@@ -1,0 +1,1 @@
+{"index": 38215, "D": "to lift or raise by pushing from behind or below.", "S": ["approved ", "assisted ", "endorsed ", "favored "], "A": ["disapproved "]}

@@ -1,0 +1,1 @@
+{"index": 407, "D": "the act or state of abiding. ", "S": [], "A": []}

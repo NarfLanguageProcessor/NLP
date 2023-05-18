@@ -1,0 +1,1 @@
+{"index": 245951, "D": "of, at, or near the tail or the posterior end of the body.", "S": [], "A": []}

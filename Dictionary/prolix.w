@@ -1,0 +1,1 @@
+{"index": 252149, "D": "extended to great, unnecessary, or tedious length; long and wordy.", "S": ["diffuse ", "lengthy ", "rambling ", "tedious ", "verbose ", "windy "], "A": []}

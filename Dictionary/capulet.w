@@ -1,0 +1,1 @@
+{"index": 47238, "D": "Compare Montague (def. 1). ", "S": [], "A": []}

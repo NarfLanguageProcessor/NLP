@@ -1,0 +1,1 @@
+{"index": 286361, "D": "serrated  condition or form.", "S": ["bicuspid ", "canine ", "cuspid ", "denticle ", "eyetooth ", "fang ", "grinder ", "incisor ", "ivory ", "molar ", "premolar ", "tusk "], "A": []}

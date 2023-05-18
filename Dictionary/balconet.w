@@ -1,0 +1,1 @@
+{"index": 26762, "D": "a railing or balustrade before a window, giving the effect of a balcony. ", "S": [], "A": []}

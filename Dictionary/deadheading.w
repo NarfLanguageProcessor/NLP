@@ -1,0 +1,1 @@
+{"index": 77462, "D": "a person who attends a performance, sports event, etc., or travels on a train, airplane, etc., without having paid for a ticket, especially a person using a complimentary ticket or free pass.", "S": [], "A": []}

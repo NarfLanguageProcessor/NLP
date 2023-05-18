@@ -1,0 +1,1 @@
+{"index": 86641, "D": "belonging or pertaining to the order Dipnoi, comprising the lungfishes.", "S": [], "A": []}

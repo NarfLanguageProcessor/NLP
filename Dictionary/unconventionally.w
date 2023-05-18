@@ -1,0 +1,1 @@
+{"index": 337920, "D": "not conventional;  not bound by or conforming to convention, rule, or precedent; free from conventionality", "S": [], "A": []}

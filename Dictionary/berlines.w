@@ -1,0 +1,1 @@
+{"index": 32136, "D": "an automobile with the front and rear compartments separated by a glass partition, as some limousines.", "S": [], "A": []}

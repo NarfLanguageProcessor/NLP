@@ -1,0 +1,1 @@
+{"index": 146804, "D": "a processed oxide of uranium, U3O8, extracted and concentrated from uranium ore", "S": [], "A": []}

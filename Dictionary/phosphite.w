@@ -1,0 +1,1 @@
+{"index": 234867, "D": "(loosely) a salt of phosphorous acid.", "S": [], "A": []}

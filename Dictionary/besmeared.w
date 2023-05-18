@@ -1,0 +1,1 @@
+{"index": 32392, "D": "to smear all over; bedaub.", "S": ["befoul ", "besmirch ", "blacken ", "cloud ", "denigrate ", "dirty ", "disgrace ", "smear ", "smudge ", "soil ", "stain ", "sully ", "taint ", "tarnish "], "A": ["clean ", "compliment ", "honor ", "praise "]}

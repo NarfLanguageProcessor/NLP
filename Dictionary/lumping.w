@@ -1,0 +1,1 @@
+{"index": 176142, "D": "a piece or mass of solid matter without regular shape or of no particular shape", "S": ["bulge ", "bump ", "chunk ", "hunk ", "knot ", "pile ", "swelling ", "tumor ", "wad "], "A": ["depression ", "individual ", "little ", "one ", "whole "]}

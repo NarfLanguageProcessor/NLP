@@ -1,0 +1,1 @@
+{"index": 108242, "D": "an instrument for measuring minute degrees of expansion, contraction, or deformation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96920, "D": "electric charge. ", "S": ["heat ", "service "], "A": []}

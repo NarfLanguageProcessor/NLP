@@ -1,0 +1,1 @@
+{"index": 206051, "D": "by the people as a whole; generally; widely", "S": [], "A": []}

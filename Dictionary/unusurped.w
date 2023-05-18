@@ -1,0 +1,1 @@
+{"index": 353603, "D": "seized by force or without legal right", "S": [], "A": []}

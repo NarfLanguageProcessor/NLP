@@ -1,0 +1,1 @@
+{"index": 304193, "D": "to cook (food) by simmering or slow boiling.", "S": [], "A": []}

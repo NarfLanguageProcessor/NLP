@@ -1,0 +1,1 @@
+{"index": 285873, "D": "a fragment of bone that has become necrotic as a result of disease or injury and has separated from the normal bone structure.", "S": [], "A": []}

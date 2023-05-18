@@ -1,0 +1,1 @@
+{"index": 220025, "D": "expended, bestowed, or occurring in profusion", "S": [], "A": []}

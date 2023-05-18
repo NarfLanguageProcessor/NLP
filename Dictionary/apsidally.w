@@ -1,0 +1,1 @@
+{"index": 18106, "D": "a semicircular or polygonal termination or recess in a building, usually vaulted and used especially at the end of a choir in a church.", "S": [], "A": []}

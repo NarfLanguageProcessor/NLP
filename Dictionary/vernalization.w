@@ -1,0 +1,1 @@
+{"index": 358683, "D": "The subjection of seeds or seedlings to low temperature in order to hasten plant development and flowering. Vernalization is commonly used for crop plants such as winter rye and is possible because the seeds and buds of many plants require cold in order to break dormancy.", "S": [], "A": []}

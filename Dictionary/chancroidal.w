@@ -1,0 +1,1 @@
+{"index": 52433, "D": "an infectious venereal ulcer with a soft base.", "S": [], "A": []}

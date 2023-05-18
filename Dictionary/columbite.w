@@ -1,0 +1,1 @@
+{"index": 63522, "D": "a black, crystalline mineral, iron niobate, (Fe, Mn)Nb2O6, the principal ore of niobium, an end member of a series of solid solutions in which manganese and tantalum combine to form tantalite.", "S": [], "A": []}

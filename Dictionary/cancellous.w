@@ -1,0 +1,1 @@
+{"index": 46092, "D": "cancellate (def. 1). ", "S": [], "A": []}

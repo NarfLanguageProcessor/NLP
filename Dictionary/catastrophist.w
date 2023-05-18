@@ -1,0 +1,1 @@
+{"index": 49409, "D": "the doctrine that certain vast geological changes in the earth's history were caused by catastrophes  rather than gradual evolutionary processes.", "S": [], "A": []}

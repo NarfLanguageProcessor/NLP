@@ -1,0 +1,1 @@
+{"index": 90470, "D": "to deck with clothes or finery; bedizen. ", "S": [], "A": []}

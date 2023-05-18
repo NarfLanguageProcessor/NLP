@@ -1,0 +1,1 @@
+{"index": 235462, "D": "of or relating to the photovoltaic effect. ", "S": [], "A": []}

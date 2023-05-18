@@ -1,0 +1,1 @@
+{"index": 35774, "D": "to speak impiously or irreverently of (God or sacred things).", "S": ["cuss ", "revile ", "swear "], "A": []}

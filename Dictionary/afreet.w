@@ -1,0 +1,1 @@
+{"index": 5577, "D": "a powerful evil demon or monster.", "S": [], "A": []}

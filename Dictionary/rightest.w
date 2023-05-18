@@ -1,0 +1,1 @@
+{"index": 272816, "D": "in accordance with what is good, proper, or just", "S": ["appropriate ", "good ", "honest ", "honorable ", "legal ", "legitimate ", "proper ", "suitable ", "true "], "A": ["dishonest ", "inequitable ", "unfair ", "unjust ", "illegal ", "illegitimate ", "improper ", "unlawful ", "wrong "]}

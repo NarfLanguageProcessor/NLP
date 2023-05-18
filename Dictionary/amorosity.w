@@ -1,0 +1,1 @@
+{"index": 10931, "D": "inclined or disposed to love, especially sexual love", "S": [], "A": []}

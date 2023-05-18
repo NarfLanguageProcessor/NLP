@@ -1,0 +1,1 @@
+{"index": 273233, "D": "an inspired sage or poet.", "S": [], "A": []}

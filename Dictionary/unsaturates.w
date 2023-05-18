@@ -1,0 +1,1 @@
+{"index": 350395, "D": "not saturated;  having the power to dissolve still more of a substance.", "S": [], "A": []}

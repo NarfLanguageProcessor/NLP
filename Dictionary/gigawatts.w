@@ -1,0 +1,1 @@
+{"index": 124818, "D": "one billion watts. Abbreviation", "S": [], "A": []}

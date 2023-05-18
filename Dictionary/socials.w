@@ -1,0 +1,1 @@
+{"index": 296124, "D": "relating to, devoted to, or characterized by friendly companionship or relations", "S": ["celebration ", "dinner "], "A": ["chore ", "task ", "work "]}

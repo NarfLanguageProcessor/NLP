@@ -1,0 +1,1 @@
+{"index": 47972, "D": "informal, mainly British a variant spelling of kerfuffle", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144175, "D": "to place in a hospital  for medical care or observation", "S": ["beat up ", "confine ", "disable ", "harm ", "injure "], "A": ["heal ", "help "]}

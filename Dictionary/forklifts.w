@@ -1,0 +1,1 @@
+{"index": 117307, "D": "a small vehicle with two power-operated prongs at the front that can be slid under heavy loads and then raised for moving and stacking materials in warehouses, shipping depots, etc.", "S": [], "A": []}

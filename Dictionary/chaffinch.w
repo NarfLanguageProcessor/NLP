@@ -1,0 +1,1 @@
+{"index": 51935, "D": "a common finch, Fringilla coelebs, of the Old World, often kept as a pet.", "S": [], "A": []}

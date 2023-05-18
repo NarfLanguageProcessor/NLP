@@ -1,0 +1,1 @@
+{"index": 310291, "D": "the study of the causes and prevention of suicide. ", "S": [], "A": []}

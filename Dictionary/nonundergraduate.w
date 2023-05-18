@@ -1,0 +1,1 @@
+{"index": 208073, "D": "a student in a university or college who has not received a first, especially a bachelor's, degree.", "S": [], "A": []}

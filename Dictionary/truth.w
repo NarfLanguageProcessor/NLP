@@ -1,0 +1,1 @@
+{"index": 331717, "D": "the true  or actual state of a matter", "S": ["accuracy ", "authenticity ", "certainty ", "fact ", "legitimacy ", "principle ", "truthfulness ", "veracity "], "A": ["falsehood ", "falseness ", "flaw ", "imperfection ", "imprecision ", "inaccuracy ", "inexactness "]}

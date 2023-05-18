@@ -1,0 +1,1 @@
+{"index": 104994, "D": "containing the ethylene group. ", "S": [], "A": []}

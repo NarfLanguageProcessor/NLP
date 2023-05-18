@@ -1,0 +1,1 @@
+{"index": 43659, "D": "the fatty portion of milk, separating as a soft whitish or yellowish solid when milk or cream is agitated or churned.", "S": ["margarine ", "oil ", "shortening "], "A": []}

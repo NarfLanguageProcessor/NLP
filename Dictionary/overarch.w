@@ -1,0 +1,1 @@
+{"index": 218235, "D": "to span with or like an arch", "S": [], "A": []}

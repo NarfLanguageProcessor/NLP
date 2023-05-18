@@ -1,0 +1,1 @@
+{"index": 91328, "D": "a polygonal vault, ceiling, or roof.", "S": [], "A": []}

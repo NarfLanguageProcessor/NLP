@@ -1,0 +1,1 @@
+{"index": 237805, "D": "a small dough envelope filled with mashed potato, meat, cheese, or vegetables, crimped to seal the edge and then boiled or fried, typically served with sour cream or onions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151883, "D": "not fecund; unfruitful; barren.", "S": ["arid ", "desolate ", "empty ", "impoverished ", "infertile ", "parched ", "sterile "], "A": ["damp ", "fruitful ", "full ", "moist ", "productive ", "wet ", "cultivated "]}

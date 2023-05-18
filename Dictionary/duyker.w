@@ -1,0 +1,1 @@
+{"index": 93918, "D": "a variant spelling of duiker", "S": [], "A": []}

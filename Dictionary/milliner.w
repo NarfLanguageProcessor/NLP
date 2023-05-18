@@ -1,0 +1,1 @@
+{"index": 187406, "D": "a person who designs, makes, or sells hats for women.", "S": [], "A": []}

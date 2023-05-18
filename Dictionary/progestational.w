@@ -1,0 +1,1 @@
+{"index": 251854, "D": "prepared for pregnancy, as the lining of the uterus prior to menstruation or in the early stages of gestation itself; progravid.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 357353, "D": "pertaining to, composed of, or provided with vessels or ducts that convey fluids, as blood, lymph, or sap.", "S": [], "A": []}

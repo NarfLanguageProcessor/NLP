@@ -1,0 +1,1 @@
+{"index": 10527, "D": "of, relating to, or characterized by the amyl group. ", "S": [], "A": []}

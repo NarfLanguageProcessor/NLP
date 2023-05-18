@@ -1,0 +1,1 @@
+{"index": 255331, "D": "any clinical approach to personality, as Freud's, that sees personality as the result of a dynamic interplay of conscious and unconscious factors.", "S": [], "A": []}

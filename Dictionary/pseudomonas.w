@@ -1,0 +1,1 @@
+{"index": 254915, "D": "any of several rod-shaped bacteria of the genus Pseudomonas, certain species of which are pathogenic for plants and animals.", "S": [], "A": []}

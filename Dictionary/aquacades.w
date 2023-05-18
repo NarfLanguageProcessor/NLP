@@ -1,0 +1,1 @@
+{"index": 18162, "D": "an elaborate aquatic performance or exhibition consisting of swimming, diving, etc., usually accompanied by music", "S": [], "A": []}

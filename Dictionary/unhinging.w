@@ -1,0 +1,1 @@
+{"index": 343741, "D": "to remove (a door or the like) from hinges. ", "S": ["confusion ", "disarray ", "disconnection ", "disorder ", "disruption ", "disturbance "], "A": ["arrangement ", "calm ", "method ", "order ", "orderliness ", "organization ", "system ", "juncture "]}

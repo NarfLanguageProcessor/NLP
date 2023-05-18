@@ -1,0 +1,1 @@
+{"index": 116241, "D": "the portion of the boltrope to which the lower edge of a sail is sewn.", "S": [], "A": []}

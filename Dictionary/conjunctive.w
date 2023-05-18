@@ -1,0 +1,1 @@
+{"index": 66438, "D": "serving to connect; connective", "S": ["concerted ", "consolidated ", "cooperative ", "homogeneous ", "integrated ", "linked ", "unanimous ", "undivided ", "unified "], "A": ["divided ", "separate ", "uncoordinated "]}

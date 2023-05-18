@@ -1,0 +1,1 @@
+{"index": 280134, "D": "U.S. pediatrician, born in Hungary.", "S": [], "A": []}

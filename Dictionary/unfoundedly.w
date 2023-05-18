@@ -1,0 +1,1 @@
+{"index": 342630, "D": "without foundation; not based on fact, realistic considerations, or the like", "S": [], "A": []}

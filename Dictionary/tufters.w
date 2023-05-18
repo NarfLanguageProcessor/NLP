@@ -1,0 +1,1 @@
+{"index": 332153, "D": "a bunch or cluster of small, usually soft and flexible parts, as feathers or hairs, attached or fixed closely together at the base and loose at the upper ends.", "S": [], "A": []}

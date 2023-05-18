@@ -1,0 +1,1 @@
+{"index": 235882, "D": "any American plant of the genus Pontederia, especially P. cordata, having spikes of blue flowers, common in shallow fresh water.", "S": [], "A": []}

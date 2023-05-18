@@ -1,0 +1,1 @@
+{"index": 237710, "D": "a naturally occurring derivative of pyridoxine that is a precursor of a coenzyme (pyridoxal phosphate) involved in several enzymic reactions. Formula", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97258, "D": "sensitive  to electric current.", "S": [], "A": []}

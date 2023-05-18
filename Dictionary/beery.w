@@ -1,0 +1,1 @@
+{"index": 30372, "D": "of, like, or abounding in beer", "S": [], "A": []}

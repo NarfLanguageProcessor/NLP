@@ -1,0 +1,1 @@
+{"index": 289868, "D": "Compare stern-wheeler", "S": [], "A": []}

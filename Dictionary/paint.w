@@ -1,0 +1,1 @@
+{"index": 223168, "D": "a substance composed of solid coloring matter suspended in a liquid medium and applied as a protective or decorative coating to various surfaces, or to canvas or other materials in producing a work of art.", "S": ["acrylic ", "color ", "cosmetic ", "dye ", "enamel ", "latex ", "makeup ", "oil ", "pigment ", "stain ", "varnish ", "wax "], "A": []}

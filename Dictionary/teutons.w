@@ -1,0 +1,1 @@
+{"index": 320345, "D": "a member of a Germanic people or tribe first mentioned in the 4th century b.c. and supposed to have dwelt in Jutland.", "S": [], "A": []}

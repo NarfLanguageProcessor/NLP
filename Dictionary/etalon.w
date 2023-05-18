@@ -1,0 +1,1 @@
+{"index": 104797, "D": "an interferometer consisting of two glass plates that reflect approximately half of each ray of light incident upon them and that are separated by a small, fixed distance", "S": [], "A": []}

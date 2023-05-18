@@ -1,0 +1,1 @@
+{"index": 139341, "D": "the record made by a hygrograph.", "S": [], "A": []}

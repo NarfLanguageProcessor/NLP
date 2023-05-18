@@ -1,0 +1,1 @@
+{"index": 83061, "D": "to unfasten and separate; disengage; disunite.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134716, "D": "mental state; state of mind", "S": [], "A": []}

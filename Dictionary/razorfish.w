@@ -1,0 +1,1 @@
+{"index": 261359, "D": "any of several wrasses of the genus Hemipteronatus having a compressed, sharp-edged head, as H. novacula(pearly razorfish ), of the West Indies and the Mediterranean Sea.", "S": [], "A": []}

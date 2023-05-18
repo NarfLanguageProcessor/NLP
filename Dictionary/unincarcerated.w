@@ -1,0 +1,1 @@
+{"index": 344400, "D": "to imprison; confine. ", "S": [], "A": []}

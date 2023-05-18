@@ -1,0 +1,1 @@
+{"index": 117018, "D": "a stay leading aft and upward from the stem or knightheads of a vessel to the head of the fore lower mast; the lowermost stay of a foremast.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5756, "D": "a small earthquake or tremor that follows a major earthquake.", "S": ["aftermath ", "consequence ", "fallout ", "followup ", "hangover ", "offshoot ", "trail ", "wake "], "A": []}

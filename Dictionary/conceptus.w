@@ -1,0 +1,1 @@
+{"index": 65181, "D": "the embryo and associated membranes of humans and other highly developed animals.", "S": [], "A": []}

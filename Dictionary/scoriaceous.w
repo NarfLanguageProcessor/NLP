@@ -1,0 +1,1 @@
+{"index": 281279, "D": "the refuse, dross, or slag left after melting or smelting metal; scum.", "S": [], "A": []}

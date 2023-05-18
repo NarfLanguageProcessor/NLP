@@ -1,0 +1,1 @@
+{"index": 286686, "D": "the act or state of settling or the state of being settled.", "S": ["agreement ", "arrangement ", "compensation ", "contract ", "deal ", "establishment ", "payment ", "resolution "], "A": ["disagreement ", "misunderstanding ", "beginning ", "denial ", "introduction ", "start ", "veto "]}

@@ -1,0 +1,1 @@
+{"index": 21783, "D": "to give or allocate; allot", "S": ["approval ", "certification ", "choice ", "designation ", "election ", "nomination ", "selection "], "A": ["refusal ", "rejection "]}

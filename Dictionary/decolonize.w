@@ -1,0 +1,1 @@
+{"index": 78566, "D": "to release (a country or region) from the status of a colony,  or to allow (a colony) to become self-governing or independent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159019, "D": "a line on a weather map or chart connecting points of equal relative humidity.", "S": [], "A": []}

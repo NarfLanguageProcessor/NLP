@@ -1,0 +1,1 @@
+{"index": 366125, "D": "an offensive back  who lines up outside an end.", "S": ["fullback ", "halfback ", "tailback "], "A": []}

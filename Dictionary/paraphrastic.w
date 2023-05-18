@@ -1,0 +1,1 @@
+{"index": 225974, "D": "having the nature of a paraphrase. ", "S": [], "A": []}

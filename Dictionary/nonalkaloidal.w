@@ -1,0 +1,1 @@
+{"index": 201239, "D": "of, relating to, or derived from alkaloids. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48663, "D": "a sketch or drawing, usually humorous, as in a newspaper or periodical, symbolizing, satirizing, or caricaturing some action, subject, or person of popular interest.", "S": ["deride ", "humiliate ", "lampoon ", "mock ", "scoff ", "scorn ", "taunt "], "A": ["approve ", "compliment ", "flatter ", "praise "]}

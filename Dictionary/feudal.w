@@ -1,0 +1,1 @@
+{"index": 111825, "D": "of, relating to, or like the feudal system,  or its political, military, social, and economic structure.", "S": ["Gothic ", "antique ", "archaic ", "primitive "], "A": ["current ", "modern ", "new ", "present "]}

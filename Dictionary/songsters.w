@@ -1,0 +1,1 @@
+{"index": 297225, "D": "a person who sings; a singer.", "S": ["caroler ", "chorister ", "singer ", "songstress ", "voice "], "A": []}

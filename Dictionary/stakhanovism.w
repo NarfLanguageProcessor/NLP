@@ -1,0 +1,1 @@
+{"index": 302470, "D": "a method for increasing production by rewarding individual initiative, developed in the Soviet Union in 1935.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71841, "D": "Compare catalytic cracking. ", "S": ["detonation ", "explosion ", "roar ", "rumble "], "A": ["peace "]}

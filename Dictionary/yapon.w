@@ -1,0 +1,1 @@
+{"index": 145702, "D": "a variant spelling of yaupon", "S": [], "A": []}

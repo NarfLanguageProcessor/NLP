@@ -1,0 +1,1 @@
+{"index": 132641, "D": "of or relating to the ancient Greek city of Halicarnassus", "S": [], "A": []}

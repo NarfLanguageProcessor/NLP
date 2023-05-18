@@ -1,0 +1,1 @@
+{"index": 187867, "D": "a person who favors a moderate approach to the achievement of a set of goals or who holds minimal expectations for the success of a program.", "S": ["essential ", "minimal "], "A": ["embellished ", "lavish ", "ornate ", "outlandish "]}

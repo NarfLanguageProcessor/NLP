@@ -1,0 +1,1 @@
+{"index": 326452, "D": "totalitarian. ", "S": ["authoritarian ", "autocratic ", "monolithic ", "oppressive ", "tyrannical ", "undemocratic "], "A": ["democratic ", "partial "]}

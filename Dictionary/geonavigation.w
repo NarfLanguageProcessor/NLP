@@ -1,0 +1,1 @@
+{"index": 123981, "D": "navigation  by means of observations of terrestrial features.", "S": [], "A": []}

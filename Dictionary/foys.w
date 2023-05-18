@@ -1,0 +1,1 @@
+{"index": 115825, "D": "a farewell gift, feast, or drink.", "S": [], "A": []}

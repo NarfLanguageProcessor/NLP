@@ -1,0 +1,1 @@
+{"index": 26149, "D": "pertaining to the rod or its use in punishing", "S": [], "A": []}

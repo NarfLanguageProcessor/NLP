@@ -1,0 +1,1 @@
+{"index": 64238, "D": "capable of being easily communicated  or transmitted", "S": [], "A": []}

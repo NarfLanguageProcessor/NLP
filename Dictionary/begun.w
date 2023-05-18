@@ -1,0 +1,1 @@
+{"index": 30759, "D": "past participle of begin. ", "S": ["going ", "happening ", "initiated ", "proceeding ", "working "], "A": ["latent ", "prospective "]}

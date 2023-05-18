@@ -1,0 +1,1 @@
+{"index": 302631, "D": "an overly enthusiastic fan, especially of a celebrity.", "S": [], "A": []}

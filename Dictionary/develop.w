@@ -1,0 +1,1 @@
+{"index": 83481, "D": "to bring out the capabilities or possibilities of; bring to a more advanced or effective state", "S": ["advance ", "establish ", "evolve ", "expand ", "flourish ", "grow ", "progress ", "promote "], "A": ["decline ", "decrease ", "halt ", "lessen ", "retreat ", "retrogress ", "stop ", "stunt "]}

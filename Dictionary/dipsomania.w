@@ -1,0 +1,1 @@
+{"index": 86701, "D": "(no longer in technical use) an irresistible, typically periodic craving for alcoholic drinks.", "S": ["drinking ", "substance abuse "], "A": []}

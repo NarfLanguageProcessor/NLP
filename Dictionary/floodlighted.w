@@ -1,0 +1,1 @@
+{"index": 114911, "D": "an artificial light  so directed or diffused as to give a comparatively uniform illumination over a rather large given area.", "S": ["brighten ", "ignite ", "kindle ", "light up ", "put on ", "shine ", "turn on "], "A": ["dull ", "extinguish ", "put out ", "turn off "]}

@@ -1,0 +1,1 @@
+{"index": 176718, "D": "(in the western Highlands of Scotland) a strip of sandy, grassy, often lime-rich land just above the high-water mark at a sandy shore", "S": [], "A": []}

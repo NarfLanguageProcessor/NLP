@@ -1,0 +1,1 @@
+{"index": 17036, "D": "an interactive programming language having concise notations for operations on entire arrays of numbers and characters.", "S": [], "A": []}

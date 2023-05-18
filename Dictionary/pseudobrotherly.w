@@ -1,0 +1,1 @@
+{"index": 254566, "D": "of, like, or befitting a brother;  affectionate and loyal; fraternal", "S": [], "A": []}

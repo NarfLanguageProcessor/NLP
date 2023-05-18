@@ -1,0 +1,1 @@
+{"index": 310434, "D": "containing the sulfinyl group;  thionyl.", "S": [], "A": []}

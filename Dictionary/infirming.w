@@ -1,0 +1,1 @@
+{"index": 152058, "D": "feeble or weak in body or health, especially because of age; ailing.", "S": [], "A": []}

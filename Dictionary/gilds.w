@@ -1,0 +1,1 @@
+{"index": 124901, "D": "to coat with gold, gold leaf, or a gold-colored substance.", "S": ["adorn ", "bedeck "], "A": ["decrease ", "harm ", "reduce ", "reveal ", "strip "]}

@@ -1,0 +1,1 @@
+{"index": 43387, "D": "skill in anything pertaining to bush  country, as in finding one's way, hunting, or finding water.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 54045, "D": "the twenty-second letter of the Greek alphabet (X, \u03c7).", "S": ["Chi-town ", "City by the Lake ", "City of the Lakes and Prairies ", "Fort Dearborn ", "Second City ", "the Loop ", "the Windy City "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339428, "D": "having a specified number or kind of limbs  (often used in combination)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247525, "D": "to make prolific or fruitful.", "S": [], "A": []}

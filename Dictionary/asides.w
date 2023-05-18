@@ -1,0 +1,1 @@
+{"index": 21218, "D": "on or to one side;  to or at a short distance apart; away from some position or direction", "S": ["alone ", "away ", "out ", "separately "], "A": ["middle "]}

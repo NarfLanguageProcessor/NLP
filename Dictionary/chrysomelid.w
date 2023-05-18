@@ -1,0 +1,1 @@
+{"index": 56068, "D": "any beetle of the family Chrysomelidae, comprising the leaf beetles.", "S": [], "A": []}

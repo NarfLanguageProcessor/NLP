@@ -1,0 +1,1 @@
+{"index": 243025, "D": "any member of the formerly designated primate family Pongidae, which comprised gorillas, chimpanzees, and orangutans.", "S": [], "A": []}

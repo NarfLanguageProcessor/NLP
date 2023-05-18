@@ -1,0 +1,1 @@
+{"index": 102200, "D": "the primordial outer layer of a young embryo before the segregation of the germ layers, capable of becoming the ectoderm and containing cells capable of becoming the mesoderm and endoderm.", "S": [], "A": []}

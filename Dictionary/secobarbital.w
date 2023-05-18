@@ -1,0 +1,1 @@
+{"index": 282748, "D": "a white, odorless, slightly bitter powder, C12H18N2O3, used as a sedative and hypnotic.", "S": [], "A": []}

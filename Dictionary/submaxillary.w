@@ -1,0 +1,1 @@
+{"index": 308493, "D": "of or relating to the lower jaw or lower jawbone.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4194, "D": "tending to admit. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92846, "D": "a hairstyle, especially among Rastafarians, in which the hair is worn in long, ropelike locks. ", "S": ["DA ", "afro ", "beehive ", "braids ", "dreads ", "flip ", "hair ", "haircut ", "hairdo ", "permanent ", "pigtails ", "plait ", "ponytail ", "tail ", "tease ", "trim ", "wave "], "A": []}

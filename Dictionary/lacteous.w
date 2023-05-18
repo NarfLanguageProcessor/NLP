@@ -1,0 +1,1 @@
+{"index": 167048, "D": "milky; of the color of milk.", "S": ["frosted ", "opaque ", "pearly "], "A": ["black ", "blackish ", "dark "]}

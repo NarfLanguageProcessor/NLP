@@ -1,0 +1,1 @@
+{"index": 311185, "D": "a room  designed to admit a large amount of sunlight; sun parlor  or sun porch. ", "S": ["conservatory ", "lounge ", "solarium ", "sun lounge ", "sunporch "], "A": []}

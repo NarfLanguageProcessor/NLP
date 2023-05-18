@@ -1,0 +1,1 @@
+{"index": 142310, "D": "a member of the royal family that ruled in Germany from 1138 to 1208 and from 1215 to 1254, and in Sicily from 1194 to 1266.", "S": [], "A": []}

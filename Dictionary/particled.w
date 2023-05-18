@@ -1,0 +1,1 @@
+{"index": 227036, "D": "a minute portion, piece, fragment, or amount; a tiny or very small bit", "S": [], "A": []}

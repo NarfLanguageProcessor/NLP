@@ -1,0 +1,1 @@
+{"index": 195166, "D": "a roundish projection or division, as of an organ or a leaf.", "S": [], "A": []}

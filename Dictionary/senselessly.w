@@ -1,0 +1,1 @@
+{"index": 285354, "D": "destitute or deprived of sensation; unconscious.", "S": ["crazily ", "desperately ", "energetically ", "excitedly ", "foolishly ", "frantically ", "furiously ", "hastily ", "hysterically ", "intensely ", "passionately ", "recklessly ", "violently "], "A": ["calmly ", "normally "]}

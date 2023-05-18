@@ -1,0 +1,1 @@
+{"index": 147503, "D": "something that deceives by producing a false or misleading impression of reality.", "S": ["confusion ", "deception ", "delusion ", "fantasy ", "hallucination ", "image ", "misconception ", "myth ", "pipe dream ", "semblance "], "A": ["fact ", "reality ", "truth ", "being ", "certainty ", "correction ", "right "]}

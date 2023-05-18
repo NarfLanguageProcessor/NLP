@@ -1,0 +1,1 @@
+{"index": 283437, "D": "one selected  by draft for service in one of the armed forces.", "S": ["draftee ", "newcomer ", "rookie ", "sailor ", "soldier ", "trainee ", "volunteer "], "A": ["expert ", "professional "]}

@@ -1,0 +1,1 @@
+{"index": 356507, "D": "having a vagina or sheath; sheathed.", "S": [], "A": []}

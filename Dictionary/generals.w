@@ -1,0 +1,1 @@
+{"index": 123481, "D": "of or relating to all persons or things belonging to a group or category", "S": ["chief ", "commander ", "director ", "head ", "manager ", "officer ", "ruler "], "A": ["employee ", "follower "]}

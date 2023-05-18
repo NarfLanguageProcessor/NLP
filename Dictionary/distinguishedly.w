@@ -1,0 +1,1 @@
+{"index": 89819, "D": "made conspicuous by excellence; noted; eminent; famous", "S": [], "A": []}

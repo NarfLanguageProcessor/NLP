@@ -1,0 +1,1 @@
+{"index": 359812, "D": "an alkaloid, C46H58N4O9, derived from the periwinkle Vinca rosea, used in the treatment of various malignant conditions, especially in the management of lymphomas.", "S": [], "A": []}

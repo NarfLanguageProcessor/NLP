@@ -1,0 +1,1 @@
+{"index": 303287, "D": "something propelled or operated by steam,  as a steamship.", "S": ["boiler ", "cauldron ", "pot "], "A": []}

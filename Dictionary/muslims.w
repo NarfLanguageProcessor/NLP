@@ -1,0 +1,1 @@
+{"index": 196090, "D": "of or relating to the religion, law, or civilization of Islam.", "S": [], "A": []}

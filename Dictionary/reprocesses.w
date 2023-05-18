@@ -1,0 +1,1 @@
+{"index": 268619, "D": "a systematic series of actions directed to some end", "S": ["convert "], "A": ["endanger ", "harm ", "hurt ", "lose ", "waste "]}

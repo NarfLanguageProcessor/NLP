@@ -1,0 +1,1 @@
+{"index": 366160, "D": "the distance between the wing  tips of an airplane.", "S": [], "A": []}

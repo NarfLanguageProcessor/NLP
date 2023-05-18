@@ -1,0 +1,1 @@
+{"index": 223, "D": "shortened; made briefer", "S": ["breviloquent ", "brief ", "close ", "compact ", "compendiary ", "comprehensive ", "concise ", "condensed ", "contracted ", "curt ", "inclusive ", "laconic ", "short ", "short and sweet ", "succinct ", "summarized ", "summary ", "synoptic "], "A": ["enlarged ", "lengthened ", "unabridged "]}

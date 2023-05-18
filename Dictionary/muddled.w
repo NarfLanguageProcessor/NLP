@@ -1,0 +1,1 @@
+{"index": 194677, "D": "mixed up, confused, or disordered", "S": ["blurred ", "chaotic ", "convoluted ", "disorganized ", "jumbled ", "messy "], "A": ["ordered ", "organized ", "systematic ", "clear ", "understanding "]}

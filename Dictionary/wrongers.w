@@ -1,0 +1,1 @@
+{"index": 368094, "D": "not in accordance with what is morally right or good", "S": [], "A": []}

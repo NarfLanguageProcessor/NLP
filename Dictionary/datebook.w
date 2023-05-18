@@ -1,0 +1,1 @@
+{"index": 77168, "D": "a printed notebook for listing appointments, making entries of events, etc., often with printed headings or lines for each day of the year and for the hours of the day.", "S": ["album ", "diary ", "ledger ", "log ", "logbook ", "notebook ", "record ", "scrapbook "], "A": []}

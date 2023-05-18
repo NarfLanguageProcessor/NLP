@@ -1,0 +1,1 @@
+{"index": 277892, "D": "conveying blood, as a blood vessel.", "S": [], "A": []}

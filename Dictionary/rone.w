@@ -1,0 +1,1 @@
+{"index": 274157, "D": "a drainpipe or gutter for carrying rainwater from a roof", "S": [], "A": []}

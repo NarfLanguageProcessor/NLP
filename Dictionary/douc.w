@@ -1,0 +1,1 @@
+{"index": 92016, "D": "an Old World monkey, Pygathrix nemaeus, of SE Asia, with a bright yellow face surrounded by tufts of reddish-brown fur, a white tail, and white hindquarters", "S": [], "A": []}

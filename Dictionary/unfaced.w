@@ -1,0 +1,1 @@
+{"index": 341912, "D": "without crystal faces.", "S": [], "A": []}

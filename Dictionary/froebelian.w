@@ -1,0 +1,1 @@
+{"index": 119230, "D": "German educational reformer", "S": [], "A": []}

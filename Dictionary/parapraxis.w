@@ -1,0 +1,1 @@
+{"index": 226003, "D": "a slip of the tongue or pen, forgetfulness, misplacement of objects, or other error thought to reveal unconscious wishes or attitudes.", "S": [], "A": []}

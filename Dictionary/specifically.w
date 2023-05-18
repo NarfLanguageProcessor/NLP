@@ -1,0 +1,1 @@
+{"index": 298781, "D": "in a definite or precise manner", "S": ["categorically ", "clearly ", "correctly ", "definitely ", "especially ", "exactly ", "explicitly ", "individually ", "pointedly ", "precisely ", "respectively ", "specially "], "A": ["inaccurately ", "indefinitely ", "questionably "]}

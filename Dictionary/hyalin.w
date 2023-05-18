@@ -1,0 +1,1 @@
+{"index": 138153, "D": "glassy translucent substance, such as occurs in certain degenerative skin conditions or in hyaline cartilage", "S": [], "A": []}

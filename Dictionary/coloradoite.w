@@ -1,0 +1,1 @@
+{"index": 63313, "D": "a mineral, mercury telluride, HgTe, occurring in the form of grayish-black masses.", "S": [], "A": []}

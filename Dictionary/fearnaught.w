@@ -1,0 +1,1 @@
+{"index": 110609, "D": "a stout woolen cloth for overcoats.", "S": [], "A": []}

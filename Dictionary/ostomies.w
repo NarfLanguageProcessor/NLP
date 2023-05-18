@@ -1,0 +1,1 @@
+{"index": 215737, "D": "any of various surgical procedures, as a colostomy, in which an artificial opening is made so as to permit the drainage of waste products either into an appropriate organ or to the outside of the body.", "S": [], "A": []}

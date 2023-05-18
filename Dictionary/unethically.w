@@ -1,0 +1,1 @@
+{"index": 341527, "D": "lacking moral principles; unwilling to adhere to proper rules of conduct.", "S": ["naughtily "], "A": ["adequately ", "calmly ", "little ", "mildly ", "morally "]}

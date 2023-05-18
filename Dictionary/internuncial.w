@@ -1,0 +1,1 @@
+{"index": 155526, "D": "serving to announce or connect.", "S": [], "A": []}

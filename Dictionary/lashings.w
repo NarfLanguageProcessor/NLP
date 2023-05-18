@@ -1,0 +1,1 @@
+{"index": 168726, "D": "the act of a person or thing that lashes. ", "S": ["whipping "], "A": []}

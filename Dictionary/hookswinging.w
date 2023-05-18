@@ -1,0 +1,1 @@
+{"index": 143570, "D": "a ritualistic torture, practiced among the Mandan Indians, in which a voluntary victim was suspended from hooks  attached to the flesh of the back.", "S": [], "A": []}

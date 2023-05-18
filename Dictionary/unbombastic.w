@@ -1,0 +1,1 @@
+{"index": 336054, "D": "(of speech, writing, etc.) high-sounding; high-flown; inflated; pretentious.", "S": [], "A": []}

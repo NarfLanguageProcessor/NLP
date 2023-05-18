@@ -1,0 +1,1 @@
+{"index": 121899, "D": "of, relating to, or consisting of ganglia. ", "S": [], "A": []}

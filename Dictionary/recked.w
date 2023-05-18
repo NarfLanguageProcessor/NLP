@@ -1,0 +1,1 @@
+{"index": 262935, "D": "to have care, concern, or regard (often followed by of, with, or a clause).", "S": [], "A": []}

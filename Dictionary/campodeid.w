@@ -1,0 +1,1 @@
+{"index": 45917, "D": "any eyeless, wingless, primitive insect of the family Campodeidae, having two long, many-segmented appendages at the rear of its abdomen.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346981, "D": "providing nourishment, especially to a high degree; nourishing; healthful", "S": ["contaminated ", "dangerous ", "deleterious ", "destructive ", "harmful ", "lethal ", "noxious ", "pernicious ", "poisonous ", "rotten ", "septic ", "spoiled ", "toxic ", "unhealthy ", "unsalutary ", "venomous ", "virulent "], "A": []}

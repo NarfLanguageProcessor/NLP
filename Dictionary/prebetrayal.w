@@ -1,0 +1,1 @@
+{"index": 245850, "D": "the act of exposing or delivering someone to an enemy through treachery or disloyalty", "S": [], "A": []}

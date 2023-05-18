@@ -1,0 +1,1 @@
+{"index": 314317, "D": "(in the Caribbean) a man kept by a woman", "S": [], "A": []}

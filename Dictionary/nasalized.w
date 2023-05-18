@@ -1,0 +1,1 @@
+{"index": 197096, "D": "to pronounce as a nasal  sound.", "S": ["chant ", "drone ", "extend ", "intone ", "prolong ", "protract ", "utter "], "A": ["abbreviate ", "curtail ", "shorten "]}

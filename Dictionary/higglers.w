@@ -1,0 +1,1 @@
+{"index": 139221, "D": "a peddler or huckster.", "S": ["contender ", "fanatic ", "haggler ", "zealot "], "A": []}

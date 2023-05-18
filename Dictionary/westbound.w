@@ -1,0 +1,1 @@
+{"index": 364233, "D": "proceeding or headed west. ", "S": ["westerly ", "westward "], "A": ["easterly ", "eastern "]}

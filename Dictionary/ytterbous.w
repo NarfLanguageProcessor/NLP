@@ -1,0 +1,1 @@
+{"index": 159599, "D": "a rare metallic element found in gadolinite and forming compounds resembling those of yttrium. Symbol", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114539, "D": "the flight of a spacecraft close enough to a celestial object, as a planet, to gather scientific data.", "S": [], "A": []}

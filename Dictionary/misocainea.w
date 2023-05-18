@@ -1,0 +1,1 @@
+{"index": 189680, "D": "an abnormal aversion to anything new.", "S": [], "A": []}

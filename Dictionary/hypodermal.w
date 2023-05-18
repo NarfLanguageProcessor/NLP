@@ -1,0 +1,1 @@
+{"index": 140898, "D": "an underlayer of epithelial cells in arthropods and certain other invertebrates that secretes substances for the overlying cuticle or exoskeleton.", "S": [], "A": []}

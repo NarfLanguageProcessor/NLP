@@ -1,0 +1,1 @@
+{"index": 321367, "D": "a device that simultaneously records the temperature and pressure of the atmosphere", "S": [], "A": []}

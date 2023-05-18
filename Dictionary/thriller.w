@@ -1,0 +1,1 @@
+{"index": 322684, "D": "a person or thing that thrills. ", "S": ["close call ", "shocker "], "A": []}

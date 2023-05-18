@@ -1,0 +1,1 @@
+{"index": 354080, "D": "having rivers or streams", "S": [], "A": []}

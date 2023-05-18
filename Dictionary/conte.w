@@ -1,0 +1,1 @@
+{"index": 67294, "D": "count2. ", "S": ["adventure ", "anecdote ", "article ", "autobiography ", "biography ", "book ", "comedy ", "description ", "drama ", "fable ", "fantasy ", "feature ", "fiction ", "history ", "information ", "legend ", "memoir ", "myth ", "narrative ", "novel ", "record ", "report ", "tale ", "tragedy ", "version "], "A": []}

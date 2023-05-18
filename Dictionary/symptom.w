@@ -1,0 +1,1 @@
+{"index": 291135, "D": "any phenomenon or circumstance accompanying something and serving as evidence of it.", "S": ["manifestation ", "syndrome "], "A": []}

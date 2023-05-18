@@ -1,0 +1,1 @@
+{"index": 29370, "D": "a bull fur seal having its own territory in the breeding grounds.", "S": [], "A": []}

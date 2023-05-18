@@ -1,0 +1,1 @@
+{"index": 22925, "D": "joined; connected; bound.", "S": ["absorbed ", "accustomed ", "devoted ", "hooked ", "inclined ", "obsessed "], "A": ["indifferent ", "unwilling "]}

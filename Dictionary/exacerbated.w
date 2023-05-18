@@ -1,0 +1,1 @@
+{"index": 106368, "D": "made worse, more severe, or more bitter; aggravated", "S": ["annoyed ", "bitter ", "enraged ", "exasperated ", "furious ", "heated ", "impassioned ", "indignant ", "irate ", "irritable ", "irritated ", "offended ", "outraged ", "resentful ", "sullen ", "uptight "], "A": ["calm ", "happy ", "mild ", "peaceful ", "pleased "]}

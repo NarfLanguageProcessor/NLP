@@ -1,0 +1,1 @@
+{"index": 247820, "D": "to be reluctant or wait to act because of fear, indecision, or disinclination", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67089, "D": "to draw or press in; cause to contract or shrink; compress.", "S": ["circumscribe ", "compress ", "cramp "], "A": ["enlarge ", "expand ", "free ", "give ", "increase ", "lengthen ", "let go ", "liberate ", "loose ", "loosen ", "release ", "stretch "]}

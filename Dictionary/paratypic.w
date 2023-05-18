@@ -1,0 +1,1 @@
+{"index": 226175, "D": "a specimen other than a type specimen that is used for the original description of a taxonomic group and specifically stated to be the one on which the original description of the taxon was based.", "S": [], "A": []}

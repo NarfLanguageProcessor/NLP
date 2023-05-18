@@ -1,0 +1,1 @@
+{"index": 368931, "D": "meditation in a prescribed, cross-legged posture.", "S": [], "A": []}

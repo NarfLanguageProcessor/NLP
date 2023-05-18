@@ -1,0 +1,1 @@
+{"index": 15968, "D": "a person who favors or advocates prohibition. ", "S": [], "A": []}

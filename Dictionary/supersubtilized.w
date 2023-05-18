@@ -1,0 +1,1 @@
+{"index": 312760, "D": "to elevate in character; sublimate.", "S": [], "A": []}

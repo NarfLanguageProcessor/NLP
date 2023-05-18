@@ -1,0 +1,1 @@
+{"index": 336117, "D": "not bowed or bent.", "S": ["determined ", "resisting ", "resolved ", "stubborn ", "triumphant ", "unyielding "], "A": ["defeated "]}

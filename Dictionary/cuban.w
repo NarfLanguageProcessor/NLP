@@ -1,0 +1,1 @@
+{"index": 74417, "D": "of or relating to Cuba or its inhabitants", "S": [], "A": []}

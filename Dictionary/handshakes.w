@@ -1,0 +1,1 @@
+{"index": 133279, "D": "a gripping and shaking  of right hands  by two individuals, as to symbolize greeting, congratulation, agreement, or farewell.", "S": ["arrangement ", "bargain ", "bond ", "commitment ", "guarantee ", "obligation ", "pact ", "pledge ", "record ", "settlement "], "A": ["disagreement "]}

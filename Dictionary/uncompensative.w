@@ -1,0 +1,1 @@
+{"index": 337372, "D": "serving to compensate,  as for loss, lack, or injury.", "S": [], "A": []}

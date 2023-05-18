@@ -1,0 +1,1 @@
+{"index": 72329, "D": "(in a building) an area accessible by crawling,  having a clearance less than human height, for access to plumbing or wiring, storage, etc.", "S": ["channel ", "hole ", "mine ", "pit ", "shaft ", "subway ", "underpass "], "A": []}

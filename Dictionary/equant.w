@@ -1,0 +1,1 @@
+{"index": 103186, "D": "(of a crystal) having all axes of the same length (opposed to anisometric).", "S": [], "A": []}

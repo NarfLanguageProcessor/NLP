@@ -1,0 +1,1 @@
+{"index": 164079, "D": "a heavy overcoating of wool or wool and cotton, similar to beaver and melton.", "S": [], "A": []}

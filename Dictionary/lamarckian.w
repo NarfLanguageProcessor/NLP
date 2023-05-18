@@ -1,0 +1,1 @@
+{"index": 167556, "D": "of or relating to Jean de Lamarck  or his theory of organic evolution.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203773, "D": "a tendency to display one's abilities or to behave in such a way as to attract attention.", "S": [], "A": []}

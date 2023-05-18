@@ -1,0 +1,1 @@
+{"index": 115971, "D": "pertaining to, consisting of, or resembling a follicle  or follicles;  provided with follicles. ", "S": [], "A": []}

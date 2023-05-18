@@ -1,0 +1,1 @@
+{"index": 366423, "D": "a smart or facetious remark.", "S": ["banter ", "laugh ", "quip "], "A": ["compliment ", "flatter ", "praise "]}

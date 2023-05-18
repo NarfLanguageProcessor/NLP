@@ -1,0 +1,1 @@
+{"index": 279334, "D": "any carangid fish of the genus Decapterus, inhabiting tropical and subtropical shore waters.", "S": ["abundance ", "great deal ", "lots ", "oodles ", "profusion ", "ream "], "A": ["debt ", "ditch ", "individual ", "little ", "need ", "one ", "part ", "valley ", "want "]}

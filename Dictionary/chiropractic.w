@@ -1,0 +1,1 @@
+{"index": 54806, "D": "a therapeutic system based primarily upon the interactions of the spine and nervous system, the method of treatment usually being to adjust the segments of the spinal column.", "S": [], "A": []}

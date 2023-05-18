@@ -1,0 +1,1 @@
+{"index": 229128, "D": "expected to do or be something, based on an assumption or stereotype or past behavior (followed by for or an infinitive)", "S": ["called ", "conscript ", "elect ", "exclusive ", "named ", "pick ", "picked ", "select ", "selected "], "A": ["ignored ", "inferior "]}

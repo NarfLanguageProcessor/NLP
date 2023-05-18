@@ -1,0 +1,1 @@
+{"index": 285722, "D": "pertaining to or of the nature of sepsis;  infected.", "S": ["bug ", "disease ", "epidemic ", "flu ", "pollution ", "virus "], "A": ["sanitation ", "sterility "]}

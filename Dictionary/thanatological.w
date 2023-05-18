@@ -1,0 +1,1 @@
+{"index": 320577, "D": "the study of death and its surrounding circumstances, as in forensic medicine.", "S": [], "A": []}

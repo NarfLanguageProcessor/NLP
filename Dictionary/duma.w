@@ -1,0 +1,1 @@
+{"index": 94026, "D": "(in Russia prior to 1917) a council or official assembly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359091, "D": "cloth that is usually of medium or heavy weight and has figures or ridges, as piqu\u00e9, jacquard, dobby silk, or Bedford cord, originally used for decorative vests  and now also for a variety of other garments.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268692, "D": "to criticize or correct, especially gently", "S": [], "A": []}

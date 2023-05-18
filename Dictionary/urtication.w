@@ -1,0 +1,1 @@
+{"index": 355911, "D": "the development or eruption of urticaria.", "S": [], "A": []}

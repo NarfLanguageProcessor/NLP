@@ -1,0 +1,1 @@
+{"index": 15590, "D": "the beliefs, ideas, or mode of thought of mystics. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62700, "D": "belonging or pertaining to the order Coleoptera. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 298449, "D": "a person or thing that sparkles. ", "S": ["hardware ", "jewel ", "jewelry ", "masterpiece ", "ornament ", "stone "], "A": []}

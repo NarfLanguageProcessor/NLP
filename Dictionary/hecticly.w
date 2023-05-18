@@ -1,0 +1,1 @@
+{"index": 135140, "D": "characterized by intense agitation, excitement, confused and rapid movement, etc.", "S": [], "A": []}

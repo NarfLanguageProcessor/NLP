@@ -1,0 +1,1 @@
+{"index": 284154, "D": "derived from or guided by direct experience or by experiment, rather than abstract principles or theory", "S": [], "A": []}

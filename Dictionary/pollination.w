@@ -1,0 +1,1 @@
+{"index": 242715, "D": "the transfer of pollen  from the anther to the stigma.", "S": ["breeding ", "implantation ", "procreation ", "propagation "], "A": []}

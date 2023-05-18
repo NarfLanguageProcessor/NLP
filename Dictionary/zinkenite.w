@@ -1,0 +1,1 @@
+{"index": 369475, "D": "a steel-gray mineral with metallic luster, lead antimony sulfide, Pb6Sb14S27.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3155, "D": "a variety of amphibole, occurring in greenish bladed crystals or in masses.", "S": [], "A": []}

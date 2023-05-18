@@ -1,0 +1,1 @@
+{"index": 39101, "D": "a long-necked, fretted lute of modern Greece.", "S": [], "A": []}

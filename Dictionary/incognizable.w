@@ -1,0 +1,1 @@
+{"index": 150015, "D": [], "S": ["arcane ", "baffling ", "inexplicable ", "inscrutable ", "mysterious ", "unaccountable ", "unfathomable ", "unintelligible "], "A": ["clear ", "comprehensible ", "explainable ", "explicable ", "intelligible ", "known ", "obvious ", "plain "]}

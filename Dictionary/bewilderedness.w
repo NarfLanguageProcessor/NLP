@@ -1,0 +1,1 @@
+{"index": 32975, "D": "completely puzzled or confused; perplexed.", "S": ["bafflement ", "befuddlement ", "bewilderment ", "confusion ", "discombobulation ", "fog ", "muddle ", "perplexity ", "puzzlement ", "stupefaction ", "stupor "], "A": []}

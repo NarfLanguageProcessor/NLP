@@ -1,0 +1,1 @@
+{"index": 34225, "D": "a box or enclosed place for storing grain, coal, or the like.", "S": ["accumulate ", "bury ", "deposit ", "freeze ", "hide ", "hoard ", "keep ", "lock away ", "pack ", "put ", "save ", "stash ", "stockpile "], "A": ["disperse ", "spend ", "squander ", "throw away ", "uncover ", "waste ", "disburse ", "dissipate ", "divide "]}

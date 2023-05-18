@@ -1,0 +1,1 @@
+{"index": 243802, "D": "condition with reference to place; location; situation.", "S": [], "A": []}

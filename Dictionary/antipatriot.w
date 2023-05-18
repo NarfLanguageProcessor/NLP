@@ -1,0 +1,1 @@
+{"index": 15809, "D": "a person who loves, supports, and defends their country and its interests with devotion.", "S": [], "A": []}

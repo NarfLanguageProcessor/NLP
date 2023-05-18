@@ -1,0 +1,1 @@
+{"index": 145952, "D": "immediate constituent. ", "S": ["chip ", "circuitry ", "microchip ", "microprocessor ", "silicon chip "], "A": []}

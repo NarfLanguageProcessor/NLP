@@ -1,0 +1,1 @@
+{"index": 84587, "D": "the production of heat in body tissues by electric currents, for therapeutic purposes.", "S": [], "A": []}

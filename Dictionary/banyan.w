@@ -1,0 +1,1 @@
+{"index": 27451, "D": "an East Indian fig tree, Ficus benghalensis, of the mulberry family, having branches that send out adventitious roots to the ground and sometimes cause the tree to spread over a wide area.", "S": [], "A": []}

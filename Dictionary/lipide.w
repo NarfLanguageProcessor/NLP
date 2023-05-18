@@ -1,0 +1,1 @@
+{"index": 173145, "D": "any of a group of organic compounds that are greasy to the touch, insoluble in water, and soluble in alcohol and ether", "S": [], "A": []}

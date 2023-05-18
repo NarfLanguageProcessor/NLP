@@ -1,0 +1,1 @@
+{"index": 290493, "D": "Compare zeugma. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 121918, "D": "necrosis or death of soft tissue due to obstructed circulation, usually followed by decomposition and putrefaction.", "S": [], "A": []}

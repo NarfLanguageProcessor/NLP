@@ -1,0 +1,1 @@
+{"index": 205250, "D": "containing or yielding metal.", "S": [], "A": []}

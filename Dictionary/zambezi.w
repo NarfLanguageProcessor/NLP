@@ -1,0 +1,1 @@
+{"index": 368794, "D": "a river in S Africa, flowing S and W from Zambia through E Angola and Zambia and then E along the border between Zambia and Zimbabwe into and through central Mozambique to the Indian Ocean. 1,650 miles (2,657 km) long.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208563, "D": "to make or become Norman  in customs, language, etc.", "S": [], "A": []}

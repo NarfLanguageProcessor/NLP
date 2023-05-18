@@ -1,0 +1,1 @@
+{"index": 74363, "D": "a spider of the family Ctenizidae, comprising the trap-door spiders.", "S": [], "A": []}

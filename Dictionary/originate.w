@@ -1,0 +1,1 @@
+{"index": 214608, "D": "to take its origin  or rise; begin; start; arise", "S": ["arise ", "come from ", "derive ", "emanate ", "emerge ", "stem "], "A": ["cease ", "complete ", "end ", "finish ", "recede ", "stop "]}

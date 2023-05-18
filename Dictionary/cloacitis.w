@@ -1,0 +1,1 @@
+{"index": 60242, "D": "inflammation of the cloaca in birds, including domestic fowl, and other animals with a common opening of the urinary and gastrointestinal tracts", "S": [], "A": []}

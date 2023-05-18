@@ -1,0 +1,1 @@
+{"index": 102837, "D": "a form of interaction between nonallelic genes in which one combination of such genes has a dominant effect over other combinations.", "S": [], "A": []}

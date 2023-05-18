@@ -1,0 +1,1 @@
+{"index": 369991, "D": "characteristic of a zoot suiter; extreme or flamboyant in style or appearance", "S": [], "A": []}

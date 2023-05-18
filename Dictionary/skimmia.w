@@ -1,0 +1,1 @@
+{"index": 293220, "D": "any Asian evergreen shrub belonging to the genus Skimmia, of the rue family, having simple, alternate leaves, clusters of small, white flowers, and a red, berrylike fruit, grown as an ornamental.", "S": [], "A": []}

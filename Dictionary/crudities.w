@@ -1,0 +1,1 @@
+{"index": 74123, "D": "the state or quality of being crude. ", "S": ["bawdiness ", "boorishness ", "callousness ", "crassness ", "harshness ", "indelicacy ", "offensiveness ", "rawness ", "ribaldry ", "roughness ", "smut ", "smuttiness ", "uncouthness ", "unevenness "], "A": ["delicacy ", "manners ", "politeness ", "refinement ", "sophistication "]}

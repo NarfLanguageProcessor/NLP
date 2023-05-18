@@ -1,0 +1,1 @@
+{"index": 176956, "D": "a fossil  large enough to be studied and identified without the use of a microscope.", "S": [], "A": []}

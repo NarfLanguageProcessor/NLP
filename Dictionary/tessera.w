@@ -1,0 +1,1 @@
+{"index": 319722, "D": "one of the small pieces used in mosaic work.", "S": [], "A": []}

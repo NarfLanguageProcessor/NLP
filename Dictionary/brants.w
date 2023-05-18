@@ -1,0 +1,1 @@
+{"index": 39971, "D": "any of several species of small, dark-colored geese of the genus Branta, especially B. bernicla, breeding in high northern latitudes and migrating south in the autumn.", "S": [], "A": []}

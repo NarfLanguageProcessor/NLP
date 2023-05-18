@@ -1,0 +1,1 @@
+{"index": 324599, "D": "an aggregate of similar cells and cell products forming a definite kind of structural material with a specific function, in a multicellular organism.", "S": ["cotton ", "goods ", "material ", "stuff "], "A": []}

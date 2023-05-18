@@ -1,0 +1,1 @@
+{"index": 29074, "D": "a batter, especially in cricket.", "S": [], "A": []}

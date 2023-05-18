@@ -1,0 +1,1 @@
+{"index": 121627, "D": "an astringent extract obtained from the leaves and young shoots of a tropical Asian shrub, Uncaria gambir, of the madder family, used in medicine, dyeing, tanning, etc.", "S": [], "A": []}

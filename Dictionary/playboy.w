@@ -1,0 +1,1 @@
+{"index": 238715, "D": "a man who pursues a life of pleasure without responsibility or attachments, especially one who is of comfortable means.", "S": ["cat ", "chaser ", "killer ", "operator ", "philanderer ", "player ", "rake ", "rounder ", "speed ", "sport ", "swinger ", "tomcat ", "wolf ", "womanizer "], "A": []}

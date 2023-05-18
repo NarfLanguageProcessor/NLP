@@ -1,0 +1,1 @@
+{"index": 120, "D": "to reduce or lower, as in rank, office, reputation, or estimation; humble; degrade. ", "S": [], "A": []}

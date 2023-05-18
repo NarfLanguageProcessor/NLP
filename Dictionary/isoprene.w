@@ -1,0 +1,1 @@
+{"index": 159202, "D": "a colorless, volatile, water-insoluble liquid, C5H8, of the terpene class, usually obtained from rubber or from oil of turpentine by pyrolysis", "S": [], "A": []}

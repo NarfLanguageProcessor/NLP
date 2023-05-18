@@ -1,0 +1,1 @@
+{"index": 183269, "D": "of or relating to Gregor Mendel  or to his laws of heredity.", "S": [], "A": []}

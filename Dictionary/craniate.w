@@ -1,0 +1,1 @@
+{"index": 72047, "D": "having a cranium  or skull.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 215682, "D": "of, relating to, or caused by osteoporosis. ", "S": [], "A": []}

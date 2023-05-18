@@ -1,0 +1,1 @@
+{"index": 98995, "D": "to make into an act or statute", "S": ["authorized ", "constitutional ", "justifiable ", "legal ", "permissible ", "proper ", "rightful ", "statutory ", "valid "], "A": ["illegal ", "illegitimate ", "incorrect ", "unacceptable ", "wrong "]}

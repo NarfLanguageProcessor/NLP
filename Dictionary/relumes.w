@@ -1,0 +1,1 @@
+{"index": 267069, "D": "to light or illuminate again; relumine.", "S": [], "A": []}

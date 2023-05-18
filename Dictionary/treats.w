@@ -1,0 +1,1 @@
+{"index": 328734, "D": "to act or behave toward (a person) in some specified way", "S": ["delicacy ", "delight ", "feast ", "fun ", "gift ", "goody ", "pleasure ", "refreshment ", "sweet ", "thrill ", "tidbit "], "A": ["depression ", "melancholy ", "pain ", "sadness ", "sorrow ", "trouble ", "unhappiness ", "dissatisfaction ", "need ", "want ", "woe ", "work "]}

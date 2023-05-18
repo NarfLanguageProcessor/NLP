@@ -1,0 +1,1 @@
+{"index": 124681, "D": "(of a heavenly body) convex at both edges, as the moon when more than half full.", "S": ["awry ", "crooked ", "disproportional ", "lacking correspondence ", "not proportionate ", "not uniform ", "unbalanced ", "unequal ", "unsymmetrical "], "A": []}

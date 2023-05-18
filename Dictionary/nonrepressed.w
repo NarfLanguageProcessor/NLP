@@ -1,0 +1,1 @@
+{"index": 206730, "D": "subjected to, affected by, or characteristic of psychological repression", "S": [], "A": []}

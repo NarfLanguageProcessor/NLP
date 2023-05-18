@@ -1,0 +1,1 @@
+{"index": 37604, "D": "a device for measuring minute amounts of radiant energy by determining the changes of resistance in an electric conductor caused by changes in its temperature.", "S": [], "A": []}

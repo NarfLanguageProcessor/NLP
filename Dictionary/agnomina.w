@@ -1,0 +1,1 @@
+{"index": 6322, "D": "Compare cognomen (def. 3). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55604, "D": "degeneration of cartilage in the knee, usually caused by excessive wear between the patella and lower end of the femur.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114486, "D": "to bend, as a part of the body", "S": ["lean ", "tighten ", "tilt "], "A": ["straighten "]}

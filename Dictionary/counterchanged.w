@@ -1,0 +1,1 @@
+{"index": 70700, "D": "to cause to change  places, qualities, etc.; interchange.", "S": [], "A": []}

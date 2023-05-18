@@ -1,0 +1,1 @@
+{"index": 63097, "D": "pertaining to or of the nature of a colloid", "S": [], "A": []}

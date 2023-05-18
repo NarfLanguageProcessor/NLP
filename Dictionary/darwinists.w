@@ -1,0 +1,1 @@
+{"index": 77055, "D": "the Darwinian theory that species originate by descent, with variation, from parent forms, through the natural selection of those individuals best adapted for the reproductive success of their kind.", "S": [], "A": []}

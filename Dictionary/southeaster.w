@@ -1,0 +1,1 @@
+{"index": 297986, "D": "a wind or storm from the southeast. ", "S": [], "A": []}

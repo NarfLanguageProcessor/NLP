@@ -1,0 +1,1 @@
+{"index": 234785, "D": "(an exclamation indicating rejection, contempt, or disgust)", "S": ["ahem ", "alas ", "amen ", "boo ", "er ", "exclamation ", "hello ", "hooray ", "hurrah ", "oh ", "shucks ", "whoopee ", "wow "], "A": []}

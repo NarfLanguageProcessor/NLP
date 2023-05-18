@@ -1,0 +1,1 @@
+{"index": 2928, "D": "having the female reproductive organ arising from the apical cell of the stem, thereby terminating its growth, as certain liverworts.", "S": [], "A": []}

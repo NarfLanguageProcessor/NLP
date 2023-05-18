@@ -1,0 +1,1 @@
+{"index": 58917, "D": "to assign to civilians  or place under civilian  direction or control", "S": [], "A": []}

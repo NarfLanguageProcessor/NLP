@@ -1,0 +1,1 @@
+{"index": 200049, "D": "any of the combinations of dots and lines sometimes placed above or below Hebrew consonant symbols to indicate the pronunciation of vowels accompanying and usually following the consonants; vowel point.", "S": [], "A": []}

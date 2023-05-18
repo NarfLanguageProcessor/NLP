@@ -1,0 +1,1 @@
+{"index": 103492, "D": "a device, as a piece of rubber or cloth, for erasing  marks made with pen, pencil, chalk, etc.", "S": [], "A": []}

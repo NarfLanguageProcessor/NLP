@@ -1,0 +1,1 @@
+{"index": 181340, "D": "a large pad for supporting the reclining body, used as or on a bed, consisting of a quilted or similarly fastened case, usually of heavy cloth, that contains hair, straw, cotton, foam rubber, etc., or a framework of metal springs.", "S": ["bed ", "cushion ", "pallet "], "A": []}

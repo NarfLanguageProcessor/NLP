@@ -1,0 +1,1 @@
+{"index": 288340, "D": "an elaborate or large dance, party, or other celebration.", "S": ["gala "], "A": []}

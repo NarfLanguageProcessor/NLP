@@ -1,0 +1,1 @@
+{"index": 49789, "D": "a short, light nap  or doze.", "S": ["catnap ", "doze ", "drowse ", "nod ", "rack ", "relax ", "rest ", "sleep ", "snooze "], "A": []}

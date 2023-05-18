@@ -1,0 +1,1 @@
+{"index": 105113, "D": "a branch of anthropology that analyzes cultures, especially in regard to their historical development and the similarities and dissimilarities between them.", "S": [], "A": []}

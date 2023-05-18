@@ -1,0 +1,1 @@
+{"index": 297708, "D": "one of the clusters of sporangia on the back of the fronds of ferns.", "S": [], "A": []}

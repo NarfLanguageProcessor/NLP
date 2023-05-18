@@ -1,0 +1,1 @@
+{"index": 71437, "D": "the number of electron pairs that an atom can share with other atoms.", "S": [], "A": []}

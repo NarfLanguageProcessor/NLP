@@ -1,0 +1,1 @@
+{"index": 193009, "D": "money. ", "S": ["bread ", "clams ", "gelt ", "gravy ", "greenbacks ", "kale "], "A": []}

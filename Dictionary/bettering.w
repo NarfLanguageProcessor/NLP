@@ -1,0 +1,1 @@
+{"index": 32835, "D": "of superior quality or excellence", "S": ["emendatory ", "improving ", "rectifying ", "reformative ", "reformatory ", "reparative ", "restorative "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 369059, "D": "the meditation room of a Zen monastery.", "S": [], "A": []}

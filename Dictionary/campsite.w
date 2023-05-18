@@ -1,0 +1,1 @@
+{"index": 45936, "D": "a place used or suitable for camping. ", "S": ["campground "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89549, "D": "not similar;  unlike; different.", "S": ["antithetical ", "contradictory ", "disparate ", "divergent ", "diverse ", "offbeat "], "A": ["agreeing ", "alike ", "like ", "similar ", "same "]}

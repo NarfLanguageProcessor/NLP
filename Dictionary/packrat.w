@@ -1,0 +1,1 @@
+{"index": 222760, "D": "a large, bushy-tailed rodent, Neotoma cinerea, of North America, noted for carrying off small articles to store in its nest.", "S": ["accumulator ", "collector ", "gatherer "], "A": []}

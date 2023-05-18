@@ -1,0 +1,1 @@
+{"index": 167472, "D": "a shot with one hand from a point close to the basket, in which a player shoots the ball toward the basket, often off the backboard.", "S": ["beat up ", "confine ", "disable ", "harm ", "hospitalize ", "injure "], "A": ["heal ", "help "]}

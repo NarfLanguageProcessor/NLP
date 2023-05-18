@@ -1,0 +1,1 @@
+{"index": 217224, "D": "simple past tense of outring. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227009, "D": "capable of being shared.", "S": [], "A": []}

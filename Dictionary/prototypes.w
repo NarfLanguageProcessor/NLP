@@ -1,0 +1,1 @@
+{"index": 253872, "D": "the original or model on which something is based or formed.", "S": ["mock-up ", "model ", "precursor "], "A": ["descendant "]}

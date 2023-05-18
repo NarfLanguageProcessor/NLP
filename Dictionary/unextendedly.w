@@ -1,0 +1,1 @@
+{"index": 341856, "D": "stretched out", "S": [], "A": []}

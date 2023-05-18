@@ -1,0 +1,1 @@
+{"index": 155612, "D": "to become spread throughout all parts of", "S": [], "A": []}

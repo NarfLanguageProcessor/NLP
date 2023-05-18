@@ -1,0 +1,1 @@
+{"index": 94334, "D": "a cocoon formed jointly by two silkworms.", "S": [], "A": []}

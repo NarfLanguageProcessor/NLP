@@ -1,0 +1,1 @@
+{"index": 151007, "D": "feeling, characterized by, or expressing strong displeasure at something considered unjust, offensive, insulting, or base", "S": ["annoyed ", "furious ", "heated ", "incensed ", "irate ", "livid ", "mad ", "miffed ", "resentful ", "scornful "], "A": ["calm ", "cheerful ", "happy ", "peaceful ", "pleased "]}

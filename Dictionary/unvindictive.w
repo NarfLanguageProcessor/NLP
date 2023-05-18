@@ -1,0 +1,1 @@
+{"index": 353830, "D": "disposed or inclined to revenge; vengeful", "S": [], "A": []}

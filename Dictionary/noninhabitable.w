@@ -1,0 +1,1 @@
+{"index": 204731, "D": "able or fit to be lived in", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108302, "D": "attention to externals,  especially excessive attention to externals,  as in religion.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 326423, "D": "to throw, pitch, or fling, especially to throw lightly or carelessly", "S": [], "A": []}

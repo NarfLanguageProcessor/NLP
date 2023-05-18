@@ -1,0 +1,1 @@
+{"index": 162555, "D": "guided by truth, reason, justice, and fairness", "S": ["equitable "], "A": ["imprecise ", "inaccurate ", "inappropriate ", "inequitable ", "partial ", "unfair ", "unfitting ", "unjust ", "unjustified ", "unsuitable ", "unsuited ", "wrong "]}

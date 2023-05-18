@@ -1,0 +1,1 @@
+{"index": 212943, "D": "the development or developmental history of an individual organism.", "S": [], "A": []}

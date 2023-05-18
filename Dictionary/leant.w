@@ -1,0 +1,1 @@
+{"index": 169638, "D": "a past participle and simple past tense of lean1. ", "S": ["bow ", "cock ", "drift ", "incline ", "nod ", "prop ", "recline ", "slant ", "tilt ", "tip ", "twist ", "veer "], "A": ["straighten ", "ascend ", "energize ", "forget ", "increase ", "rise "]}

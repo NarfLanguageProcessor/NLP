@@ -1,0 +1,1 @@
+{"index": 92750, "D": "a family of languages, wholly distinct from Indo-European, spoken mostly in southern India and Sri Lanka and including Tamil, Telugu, Kannada, Malayalam, and, in Pakistan, Brahui.", "S": [], "A": []}

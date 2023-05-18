@@ -1,0 +1,1 @@
+{"index": 238627, "D": "a ceiling, whether flat or arched, especially one of decorative character.", "S": ["beam ", "plaster ", "roof "], "A": ["floor ", "minimum "]}

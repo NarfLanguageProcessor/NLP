@@ -1,0 +1,1 @@
+{"index": 332866, "D": "any of several plants regarded as turning with the movement of the sun.", "S": [], "A": []}

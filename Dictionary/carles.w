@@ -1,0 +1,1 @@
+{"index": 48121, "D": "a miser; an extremely thrifty person.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129943, "D": "a term used in Latin America or Spain to refer to a foreigner, especially one of U.S. or British descent (often used facetiously).", "S": [], "A": []}

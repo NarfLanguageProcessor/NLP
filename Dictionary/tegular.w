@@ -1,0 +1,1 @@
+{"index": 317892, "D": "pertaining to or resembling a tile.", "S": [], "A": []}

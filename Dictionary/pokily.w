@@ -1,0 +1,1 @@
+{"index": 241435, "D": "moving or acting slowly or ineffectively; slow; dull", "S": [], "A": []}

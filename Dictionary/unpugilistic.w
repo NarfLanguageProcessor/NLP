@@ -1,0 +1,1 @@
+{"index": 348795, "D": "relating to or involving fighting with the fists, especially professional boxing", "S": [], "A": []}

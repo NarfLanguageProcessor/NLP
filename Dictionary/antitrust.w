@@ -1,0 +1,1 @@
+{"index": 16375, "D": "opposing or intended to restrain trusts,  monopolies, or other large combinations of business and capital, especially with a view to maintaining and promoting competition", "S": [], "A": []}

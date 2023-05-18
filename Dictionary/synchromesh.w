@@ -1,0 +1,1 @@
+{"index": 291388, "D": "noting or pertaining to a synchronized shifting mechanism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 30311, "D": "of or like beef. ", "S": ["burly ", "hulking ", "muscular "], "A": ["frail ", "skinny ", "slight ", "slim ", "thin ", "tiny ", "weak "]}

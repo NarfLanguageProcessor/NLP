@@ -1,0 +1,1 @@
+{"index": 193460, "D": "an open helmet of the 16th and early 17th centuries, worn by common soldiers and usually having a flat or turned-down brim and a crest from front to back.", "S": [], "A": []}

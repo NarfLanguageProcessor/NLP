@@ -1,0 +1,1 @@
+{"index": 190303, "D": "abounding in or clouded by mist. ", "S": ["blur ", "cloud ", "coat ", "covering ", "dusting ", "fabric ", "foil ", "fold ", "gauze ", "haze ", "haziness ", "integument ", "layer ", "leaf ", "membrane ", "nebula ", "opacity ", "partition ", "pellicle ", "scum ", "sheet ", "skin ", "transparency ", "veil ", "web "], "A": []}

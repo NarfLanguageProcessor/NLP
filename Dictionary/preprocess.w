@@ -1,0 +1,1 @@
+{"index": 248932, "D": "a systematic series of actions directed to some end", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8873, "D": "to undergo allomerism.", "S": [], "A": []}

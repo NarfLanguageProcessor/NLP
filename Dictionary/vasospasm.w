@@ -1,0 +1,1 @@
+{"index": 357434, "D": "sudden constriction of an artery, leading to a decrease in its diameter and in the amount of blood it can deliver.", "S": [], "A": []}

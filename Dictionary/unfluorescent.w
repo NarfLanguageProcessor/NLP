@@ -1,0 +1,1 @@
+{"index": 342433, "D": "possessing the property of fluorescence;  exhibiting fluorescence.", "S": [], "A": []}

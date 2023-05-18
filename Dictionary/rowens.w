@@ -1,0 +1,1 @@
+{"index": 275025, "D": "the second crop of grass or hay in a season; aftermath.", "S": [], "A": []}

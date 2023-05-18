@@ -1,0 +1,1 @@
+{"index": 98389, "D": "to degrade or sink to the level of a brute. ", "S": [], "A": []}

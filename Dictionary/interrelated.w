@@ -1,0 +1,1 @@
+{"index": 155781, "D": "reciprocally or mutually related", "S": ["integral ", "interdependent ", "reciprocal "], "A": ["different ", "dissimilar "]}

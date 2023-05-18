@@ -1,0 +1,1 @@
+{"index": 200527, "D": "nanometer; nanometers.", "S": ["international nautical mile ", "knot ", "naut mi "], "A": []}

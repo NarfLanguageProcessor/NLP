@@ -1,0 +1,1 @@
+{"index": 266283, "D": "the act of infesting;  state of being infested. ", "S": [], "A": []}

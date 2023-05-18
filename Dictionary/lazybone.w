@@ -1,0 +1,1 @@
+{"index": 169450, "D": [], "S": ["beachcomber ", "deadbeat ", "do-nothing ", "good-for-nothing ", "goof-off ", "idler ", "layabout ", "loafer ", "lounger ", "malingerer ", "ne'er-do-well ", "shirker ", "slacker ", "slouch ", "slugabed ", "sluggard ", "sponger ", "wanderer ", "waster ", "wastrel "], "A": ["hard worker "]}

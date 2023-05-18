@@ -1,0 +1,1 @@
+{"index": 158281, "D": "lack of religion.", "S": ["nihilism "], "A": ["belief ", "trust "]}

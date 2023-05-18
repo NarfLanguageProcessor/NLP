@@ -1,0 +1,1 @@
+{"index": 49352, "D": "covered with an armor of horny or bony plates or scales.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211388, "D": "to make odorous;  add scent to", "S": [], "A": []}

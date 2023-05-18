@@ -1,0 +1,1 @@
+{"index": 89531, "D": [], "S": ["discordant ", "dissenting "], "A": ["agreeing ", "conforming "]}

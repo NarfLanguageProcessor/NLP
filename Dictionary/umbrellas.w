@@ -1,0 +1,1 @@
+{"index": 334231, "D": "a light, small, portable, usually circular cover for protection from rain or sun, consisting of a fabric held on a collapsible frame of thin ribs radiating from the top of a carrying stick or handle.", "S": ["brolly ", "canopy ", "gamp ", "sunshade "], "A": []}

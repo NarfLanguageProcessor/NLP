@@ -1,0 +1,1 @@
+{"index": 312057, "D": "to bring in or induce as an added feature, circumstance, etc.; superimpose.", "S": [], "A": []}

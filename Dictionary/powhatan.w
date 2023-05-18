@@ -1,0 +1,1 @@
+{"index": 245022, "D": "a member of any of the Indian tribes belonging to the Powhatan Confederacy.", "S": [], "A": []}

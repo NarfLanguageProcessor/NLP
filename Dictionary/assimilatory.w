@@ -1,0 +1,1 @@
+{"index": 21802, "D": "characterized by assimilation; assimilating. ", "S": ["absorptive ", "assimilating ", "bibulous ", "permeable "], "A": []}

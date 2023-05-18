@@ -1,0 +1,1 @@
+{"index": 154420, "D": "a person or thing that interacts. ", "S": [], "A": []}

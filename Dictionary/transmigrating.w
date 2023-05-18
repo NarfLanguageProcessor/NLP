@@ -1,0 +1,1 @@
+{"index": 328089, "D": "to move or pass from one place to another.", "S": ["depart ", "immigrate ", "migrate ", "quit ", "remove "], "A": ["come ", "continue ", "remain ", "stay "]}

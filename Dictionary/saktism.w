@@ -1,0 +1,1 @@
+{"index": 276895, "D": "the worship of Shakti  as the wife of Shiva.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 63177, "D": "any of several large, slender African monkeys of the genus Colobus, lacking thumbs and having long silky fur of black and white (C. polykomos), black and reddish-brown (C. badius), or olive (C. verus)", "S": [], "A": []}

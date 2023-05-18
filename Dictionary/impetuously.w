@@ -1,0 +1,1 @@
+{"index": 148681, "D": "of, relating to, or characterized by sudden or rash action, emotion, etc.; impulsive", "S": ["impulsively "], "A": []}

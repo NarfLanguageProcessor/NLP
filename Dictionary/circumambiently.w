@@ -1,0 +1,1 @@
+{"index": 58057, "D": "encompassing; surrounding;  enveloping", "S": [], "A": []}

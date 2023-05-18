@@ -1,0 +1,1 @@
+{"index": 41079, "D": "free from prejudice or bigotry; unbiased; liberal; tolerant.", "S": [], "A": []}

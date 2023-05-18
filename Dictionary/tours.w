@@ -1,0 +1,1 @@
+{"index": 326683, "D": "a city in and the capital of Indre-et-Loire, in W France, on the Loire River", "S": ["circuit ", "course ", "cruise ", "excursion ", "expedition ", "outing ", "road ", "round ", "swing ", "travel ", "trek ", "trip "], "A": ["stagnation "]}

@@ -1,0 +1,1 @@
+{"index": 227314, "D": "a person passing by.", "S": ["hiker ", "passerby ", "stroller ", "walker "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 119118, "D": "a mask of thin paper laid over an illustration to shield certain areas when using an airbrush.", "S": [], "A": []}

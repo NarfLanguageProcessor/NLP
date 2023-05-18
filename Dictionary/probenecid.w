@@ -1,0 +1,1 @@
+{"index": 251058, "D": "a white, crystalline, water-insoluble powder, C13H19NO4S, used chiefly in the treatment of gout.", "S": [], "A": []}

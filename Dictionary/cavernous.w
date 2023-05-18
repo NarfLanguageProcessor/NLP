@@ -1,0 +1,1 @@
+{"index": 50198, "D": "being, resembling, or suggestive of a cavern", "S": ["gaping ", "huge ", "roomy ", "spacious ", "vast ", "yawning "], "A": ["cramped ", "little ", "narrow ", "small "]}

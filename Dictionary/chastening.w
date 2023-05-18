@@ -1,0 +1,1 @@
+{"index": 53056, "D": "to inflict suffering upon for purposes of moral improvement; chastise. ", "S": ["acute ", "agonizing ", "exquisite ", "grueling ", "harrowing ", "intense ", "searing ", "severe ", "unbearable "], "A": ["calm ", "dull ", "easy ", "facile ", "mild "]}

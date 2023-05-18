@@ -1,0 +1,1 @@
+{"index": 285894, "D": "(in Eastern countries) a caravansary.", "S": ["hostelry ", "hotel ", "inn ", "khan ", "lodge "], "A": []}

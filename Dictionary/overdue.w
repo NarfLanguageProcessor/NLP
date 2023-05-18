@@ -1,0 +1,1 @@
+{"index": 219108, "D": "past due,  as a delayed train or a bill not paid by the assigned date; late", "S": ["belated ", "delinquent ", "outstanding ", "tardy ", "unpaid "], "A": ["early ", "on time ", "paid ", "punctual ", "settled "]}

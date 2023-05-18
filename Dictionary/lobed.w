@@ -1,0 +1,1 @@
+{"index": 174192, "D": "having a lobe  or lobes;  lobate.", "S": [], "A": []}

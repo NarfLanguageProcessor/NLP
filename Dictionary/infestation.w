@@ -1,0 +1,1 @@
+{"index": 151959, "D": "the act of infesting;  state of being infested. ", "S": ["affliction ", "canker ", "decay ", "eyesore ", "fungus ", "mildew ", "pest ", "scourge "], "A": ["cleanliness ", "goodness ", "purification "]}

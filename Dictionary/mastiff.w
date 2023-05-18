@@ -1,0 +1,1 @@
+{"index": 180906, "D": "one of a breed of large, powerful, short-haired dogs having an apricot, fawn, or brindled coat.", "S": [], "A": []}

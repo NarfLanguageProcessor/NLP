@@ -1,0 +1,1 @@
+{"index": 365535, "D": "rather wide;  tending to be wide", "S": [], "A": []}

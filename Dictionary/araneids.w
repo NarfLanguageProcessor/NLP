@@ -1,0 +1,1 @@
+{"index": 18435, "D": "a member of the order Araneae (Araneida), comprising the spiders.", "S": [], "A": []}

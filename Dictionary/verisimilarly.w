@@ -1,0 +1,1 @@
+{"index": 358541, "D": "having the appearance of truth; likely; probable", "S": [], "A": []}

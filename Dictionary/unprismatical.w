@@ -1,0 +1,1 @@
+{"index": 348497, "D": "of, relating to, or like a prism. ", "S": [], "A": []}

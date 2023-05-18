@@ -1,0 +1,1 @@
+{"index": 76657, "D": "a daughter of the king of Argos and mother, by Zeus disguised as a shower of gold, of Perseus.", "S": [], "A": []}

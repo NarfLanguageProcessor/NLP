@@ -1,0 +1,1 @@
+{"index": 228552, "D": "a tall hickory tree, Carya illinoinensis, of the southern U.S. and Mexico, cultivated for its oval, smooth-shelled, edible nuts", "S": [], "A": []}

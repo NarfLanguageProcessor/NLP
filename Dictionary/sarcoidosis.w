@@ -1,0 +1,1 @@
+{"index": 278359, "D": "a disease of unknown cause, characterized by granulomatous tubercles of the skin, lymph nodes, lungs, eyes, and other structures.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73214, "D": "the study of climates of small, confined spaces such as caves or houses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125644, "D": "a long-shafted battle-axe with a sharp point on the back of the axe head", "S": [], "A": []}

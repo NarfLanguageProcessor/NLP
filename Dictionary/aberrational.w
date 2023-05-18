@@ -1,0 +1,1 @@
+{"index": 358, "D": "the act of departing from the right, normal, or usual course.", "S": ["aberrant ", "aberrative ", "errant "], "A": []}

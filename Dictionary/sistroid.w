@@ -1,0 +1,1 @@
+{"index": 292599, "D": "Compare cissoid (def. 2)", "S": [], "A": []}

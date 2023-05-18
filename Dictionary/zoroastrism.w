@@ -1,0 +1,1 @@
+{"index": 370034, "D": "an Iranian religion, founded c600 b.c. by Zoroaster, the principal beliefs of which are in the existence of a supreme deity, Ahura Mazda, and in a cosmic struggle between a spirit of good, Spenta Mainyu, and a spirit of evil, Angra Mainyu.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 275098, "D": "to coat or impregnate with rubber  or some preparation of it.", "S": [], "A": []}

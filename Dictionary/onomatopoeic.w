@@ -1,0 +1,1 @@
+{"index": 212889, "D": "the formation of a word, as cuckoo, meow, honk, or boom, by imitation of a sound made by or associated with its referent.", "S": ["imitative ", "onomatopoetic "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198539, "D": "an apparatus containing a series of barium chloride standards used to determine the number of bacteria in a suspension.", "S": [], "A": []}

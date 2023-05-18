@@ -1,0 +1,1 @@
+{"index": 6611, "D": "producing, resembling, or resulting from ague.", "S": [], "A": []}

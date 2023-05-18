@@ -1,0 +1,1 @@
+{"index": 134898, "D": "extremely depressed or unhappy.", "S": ["all torn up ", "blue ", "bummed out ", "dejected ", "depressed ", "despairing ", "disappointed ", "disconsolate ", "disheartened ", "down ", "forlorn ", "grieving ", "heavy-hearted ", "inconsolable ", "low ", "melancholy ", "mournful ", "sad ", "unhappy ", "woebegone "], "A": []}

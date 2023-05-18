@@ -1,0 +1,1 @@
+{"index": 220408, "D": "excessive hopefulness or confidence", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17369, "D": "the expression of a simulated or real doubt, as about where to begin or what to do or say.", "S": [], "A": []}

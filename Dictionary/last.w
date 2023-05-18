@@ -1,0 +1,1 @@
+{"index": 168771, "D": "occurring or coming after all others, as in time, order, or place", "S": ["antipodal ", "closing ", "concluding ", "crowning ", "curtains ", "determinative ", "end ", "ending ", "extreme ", "far ", "finishing ", "lag ", "latest ", "least ", "terminal ", "ultimate ", "utmost ", "uttermost "], "A": ["beginning ", "middle ", "moderate ", "opening "]}

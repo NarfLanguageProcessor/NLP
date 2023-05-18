@@ -1,0 +1,1 @@
+{"index": 21325, "D": "at a slant; slantingly; obliquely.", "S": ["awry ", "off-center "], "A": []}

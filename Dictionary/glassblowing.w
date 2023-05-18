@@ -1,0 +1,1 @@
+{"index": 125963, "D": "the art or process of forming or shaping a mass of molten or heat-softened glass  into ware by blowing  air into it through a tube.", "S": [], "A": []}

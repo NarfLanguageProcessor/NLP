@@ -1,0 +1,1 @@
+{"index": 45184, "D": "the part of a turtle next to the lower shield, consisting of a yellowish gelatinous substance, considered a delicacy.", "S": [], "A": []}

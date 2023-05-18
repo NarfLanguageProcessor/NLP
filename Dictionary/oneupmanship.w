@@ -1,0 +1,1 @@
+{"index": 212766, "D": "the art or practice of achieving, demonstrating, or assuming superiority in one's rivalry with a friend or opponent by obtaining privilege, status, status symbols, etc.", "S": ["gamesmanship "], "A": []}

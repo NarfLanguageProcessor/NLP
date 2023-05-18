@@ -1,0 +1,1 @@
+{"index": 39659, "D": "a student of the Vedas, especially one committed to brahmacharya.", "S": [], "A": []}

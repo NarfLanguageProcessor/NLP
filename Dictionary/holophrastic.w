@@ -1,0 +1,1 @@
+{"index": 142641, "D": "using or consisting of a single word that functions as a phrase or sentence.", "S": [], "A": []}

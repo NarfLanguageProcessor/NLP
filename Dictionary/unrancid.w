@@ -1,0 +1,1 @@
+{"index": 349024, "D": "having a rank, unpleasant, stale smell or taste, as through decomposition, especially of fats or oils", "S": [], "A": []}

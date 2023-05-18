@@ -1,0 +1,1 @@
+{"index": 191195, "D": "a coefficient pertaining to a physical property.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309242, "D": "the act of specializing,  or pursuing a particular line of study or work", "S": [], "A": []}

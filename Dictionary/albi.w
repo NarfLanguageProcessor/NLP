@@ -1,0 +1,1 @@
+{"index": 7440, "D": "a city in and the capital of Tarn, in S France", "S": [], "A": []}

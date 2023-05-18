@@ -1,0 +1,1 @@
+{"index": 327899, "D": "the doctrine of gradual transformation of one species into another by descent with modification through many generations.", "S": [], "A": []}

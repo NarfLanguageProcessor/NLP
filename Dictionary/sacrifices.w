@@ -1,0 +1,1 @@
+{"index": 276376, "D": "the offering of animal, plant, or human life or of some material possession to a deity, as in propitiation or homage.", "S": ["atonement ", "deduction ", "discount ", "libation ", "oblation ", "offering ", "penance ", "reduction ", "reparation "], "A": ["increase ", "rise "]}

@@ -1,0 +1,1 @@
+{"index": 177734, "D": "a Chinese shrub, Ephedra sinica, that is a source of ephedrine.", "S": [], "A": []}

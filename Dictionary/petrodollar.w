@@ -1,0 +1,1 @@
+{"index": 232492, "D": "money, paid in dollars, earned by a country for the exporting of petroleum", "S": [], "A": []}

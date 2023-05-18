@@ -1,0 +1,1 @@
+{"index": 260671, "D": "any ranunculaceous plant of the genus Ranunculus, having finely divided leaves and typically yellow five-petalled flowers. The genus includes buttercup, crowfoot, spearwort, and lesser celandine", "S": [], "A": []}

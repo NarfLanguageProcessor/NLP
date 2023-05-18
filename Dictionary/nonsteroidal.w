@@ -1,0 +1,1 @@
+{"index": 207519, "D": "of or relating to a substance that is not a steroid but has certain similar physiological effects.", "S": [], "A": []}

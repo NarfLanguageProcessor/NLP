@@ -1,0 +1,1 @@
+{"index": 115686, "D": "a central point, as of attraction, attention, or activity", "S": ["focal point ", "spotlight ", "target "], "A": ["exterior ", "exteriority ", "outside ", "periphery ", "surface "]}

@@ -1,0 +1,1 @@
+{"index": 170180, "D": "either of the two lower limbs of a biped, as a human being, or any of the paired limbs of an animal, arthropod, etc., that support and move the body.", "S": [], "A": []}

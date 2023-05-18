@@ -1,0 +1,1 @@
+{"index": 138693, "D": "a graph of the water level or rate of flow of a body of water as a function of time, showing the seasonal change.", "S": [], "A": []}

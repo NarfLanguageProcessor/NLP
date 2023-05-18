@@ -1,0 +1,1 @@
+{"index": 155798, "D": "to withstand, strive against, or oppose", "S": [], "A": []}

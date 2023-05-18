@@ -1,0 +1,1 @@
+{"index": 195108, "D": "having many leaves or leaflets.", "S": [], "A": []}

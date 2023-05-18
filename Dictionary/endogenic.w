@@ -1,0 +1,1 @@
+{"index": 99814, "D": "arising from or relating to the interior of the earth (opposed to exogenetic).", "S": [], "A": []}

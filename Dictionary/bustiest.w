@@ -1,0 +1,1 @@
+{"index": 43536, "D": "having a large bust;  bosomy.", "S": ["stacked "], "A": ["flat ", "puny ", "skinny ", "weak "]}

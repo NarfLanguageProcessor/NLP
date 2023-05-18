@@ -1,0 +1,1 @@
+{"index": 258543, "D": "a person who is eager to know the latest news and gossip; a gossip or busybody.", "S": ["busybody ", "gossip ", "rumormonger "], "A": []}

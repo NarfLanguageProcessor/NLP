@@ -1,0 +1,1 @@
+{"index": 132640, "D": "an ancient city of Caria, in SW Asia Minor", "S": [], "A": []}

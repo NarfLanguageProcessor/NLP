@@ -1,0 +1,1 @@
+{"index": 150597, "D": "not curious; not inquisitive or observant; inattentive; indifferent.", "S": [], "A": []}

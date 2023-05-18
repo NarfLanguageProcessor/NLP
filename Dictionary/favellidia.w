@@ -1,0 +1,1 @@
+{"index": 110475, "D": "(in certain red algae) a cystocarp wholly or partly immersed in a frond.", "S": [], "A": []}

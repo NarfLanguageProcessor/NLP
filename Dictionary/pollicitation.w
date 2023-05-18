@@ -1,0 +1,1 @@
+{"index": 242706, "D": "an offer or promise not yet accepted by the person to whom it was made.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46162, "D": "a person who seeks an office, honor, etc.", "S": ["applicant ", "aspirant ", "bidder ", "competitor ", "contender ", "contestant ", "nominee ", "successor "], "A": []}

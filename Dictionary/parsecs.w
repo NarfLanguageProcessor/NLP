@@ -1,0 +1,1 @@
+{"index": 226876, "D": "a unit of distance equal to that required to cause a heliocentric parallax  of one second  of an arc, equivalent to 206,265 times the distance from the earth to the sun, or 3.26 light-years.", "S": [], "A": []}

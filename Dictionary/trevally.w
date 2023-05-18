@@ -1,0 +1,1 @@
+{"index": 329048, "D": "any of several popular Australian food fish of the genus Caranx, especially Caranx georgianus.", "S": [], "A": []}

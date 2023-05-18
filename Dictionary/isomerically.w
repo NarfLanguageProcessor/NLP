@@ -1,0 +1,1 @@
+{"index": 159088, "D": "of, relating to, or displaying isomerism. ", "S": [], "A": []}

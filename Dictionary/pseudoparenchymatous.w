@@ -1,0 +1,1 @@
+{"index": 254991, "D": "(in certain fungi and red algae) a compact mass of tissue, made up of interwoven hyphae or filaments, that superficially resembles plant tissue.", "S": [], "A": []}

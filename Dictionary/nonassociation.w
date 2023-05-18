@@ -1,0 +1,1 @@
+{"index": 201519, "D": "an organization of people with a common purpose and having a formal structure.", "S": [], "A": []}

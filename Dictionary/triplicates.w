@@ -1,0 +1,1 @@
+{"index": 330401, "D": "one of three identical items, especially copies of typewritten material.", "S": ["ternary ", "ternion ", "third ", "triad ", "trichotomy ", "trilogy ", "trinity ", "trio ", "triplet ", "triplets ", "triplicity ", "triumvirate ", "trivium ", "troika "], "A": []}

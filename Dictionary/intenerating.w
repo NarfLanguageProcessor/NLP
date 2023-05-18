@@ -1,0 +1,1 @@
+{"index": 154358, "D": "to make soft or tender; soften.", "S": [], "A": []}

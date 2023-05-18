@@ -1,0 +1,1 @@
+{"index": 311402, "D": "an act of attaching  or the state of being attached. ", "S": [], "A": []}

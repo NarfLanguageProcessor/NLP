@@ -1,0 +1,1 @@
+{"index": 48960, "D": "a baking dish of glass, pottery, etc., usually with a cover.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 170322, "D": "to sort (the words in a list or text) in order to determine the headword, under which other words are then listed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68969, "D": "a cotton-filling pile fabric with lengthwise cords or ridges.", "S": ["knickers ", "shorts ", "slacks ", "trousers ", "underpants "], "A": []}

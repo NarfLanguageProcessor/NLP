@@ -1,0 +1,1 @@
+{"index": 141990, "D": "a boxer who has a hard punch rather than skill or finesse", "S": [], "A": []}

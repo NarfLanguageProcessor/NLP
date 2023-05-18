@@ -1,0 +1,1 @@
+{"index": 330712, "D": "to replace normal hydrogen atoms in (a compound) by those of tritium", "S": [], "A": []}

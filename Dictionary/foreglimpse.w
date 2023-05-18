@@ -1,0 +1,1 @@
+{"index": 116674, "D": "a revelation or glimpse  of the future.", "S": [], "A": []}

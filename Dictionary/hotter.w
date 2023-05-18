@@ -1,0 +1,1 @@
+{"index": 144322, "D": "to vibrate up and down; shake, totter, or rattle, as a plate on a shelf.", "S": ["blazing ", "boiling ", "heated ", "humid ", "red ", "scorching ", "sizzling ", "sultry ", "sweltering ", "torrid ", "tropical ", "warm ", "white "], "A": ["arctic ", "cold ", "cool ", "dry ", "freezing ", "frigid "]}

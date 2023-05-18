@@ -1,0 +1,1 @@
+{"index": 65704, "D": "personal behavior; way of acting; bearing or deportment.", "S": ["administrative ", "dominant ", "guiding ", "ruling "], "A": ["inferior ", "subordinate "]}

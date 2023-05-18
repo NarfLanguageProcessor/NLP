@@ -1,0 +1,1 @@
+{"index": 288621, "D": "the Holocaust.", "S": [], "A": []}

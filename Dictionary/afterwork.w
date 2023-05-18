@@ -1,0 +1,1 @@
+{"index": 5799, "D": "outside work hours; taking place or done after one's regular job is finished.", "S": [], "A": []}

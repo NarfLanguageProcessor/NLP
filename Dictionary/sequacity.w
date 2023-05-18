@@ -1,0 +1,1 @@
+{"index": 285823, "D": "following with smooth or logical regularity.", "S": ["cycle ", "progression ", "series ", "string "], "A": []}

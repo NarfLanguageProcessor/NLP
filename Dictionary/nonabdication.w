@@ -1,0 +1,1 @@
+{"index": 200947, "D": "the act or state of abdicating;  renunciation.", "S": [], "A": []}

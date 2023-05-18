@@ -1,0 +1,1 @@
+{"index": 315122, "D": "of or relating to tactics,  especially the placement of military or naval forces in battle or at the front line of a battle.", "S": ["diplomatic "], "A": []}

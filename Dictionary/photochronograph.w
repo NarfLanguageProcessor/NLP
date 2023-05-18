@@ -1,0 +1,1 @@
+{"index": 235029, "D": "a device formerly used for taking a series of instantaneous photographs of a rapidly moving object.", "S": [], "A": []}

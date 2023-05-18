@@ -1,0 +1,1 @@
+{"index": 50701, "D": "of or relating to a cemetery  or to burial.", "S": [], "A": []}

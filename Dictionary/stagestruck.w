@@ -1,0 +1,1 @@
+{"index": 302316, "D": "obsessed with the desire to become an actor or actress.", "S": [], "A": []}

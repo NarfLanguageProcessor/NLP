@@ -1,0 +1,1 @@
+{"index": 173591, "D": "people engaged in literary pursuits, especially professional writers", "S": ["department ", "institute ", "personnel ", "staff ", "university "], "A": ["inability ", "incompetence ", "ineptness ", "lack ", "need ", "students "]}

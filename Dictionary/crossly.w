@@ -1,0 +1,1 @@
+{"index": 73841, "D": "in a cross  or angry manner.", "S": ["bitterly ", "fiercely ", "furiously ", "heatedly ", "hotly ", "indignantly ", "madly ", "savagely ", "sharply ", "violently "], "A": ["gently ", "mildly ", "quietly "]}

@@ -1,0 +1,1 @@
+{"index": 278059, "D": "a carved figure of a saint, usually of wood, as from Puerto Rico, Mexico, or the southwestern United States.", "S": [], "A": []}

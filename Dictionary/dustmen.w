@@ -1,0 +1,1 @@
+{"index": 94553, "D": "a person employed to remove or cart away garbage, refuse, ashes, etc.; garbage collector.", "S": [], "A": []}

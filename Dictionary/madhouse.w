@@ -1,0 +1,1 @@
+{"index": 177201, "D": "a hospital for the confinement and treatment of mentally disturbed persons.", "S": ["asylum ", "bedlam ", "chaos ", "pandemonium ", "sanitarium ", "turmoil ", "uproar "], "A": ["calm ", "harmony ", "order ", "peace ", "quiet "]}

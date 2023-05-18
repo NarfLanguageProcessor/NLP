@@ -1,0 +1,1 @@
+{"index": 291324, "D": "immovable articulation; a fixed or immovable joint; suture.", "S": [], "A": []}

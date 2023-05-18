@@ -1,0 +1,1 @@
+{"index": 28625, "D": "the variety of language in a creole continuum that is most distinct from the acrolect.", "S": [], "A": []}

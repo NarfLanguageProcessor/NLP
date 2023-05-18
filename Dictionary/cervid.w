@@ -1,0 +1,1 @@
+{"index": 51668, "D": "any member of the deer family, Cervidae, comprising deer, caribou, elk, and moose, characterized by the bearing of antlers in the male or in both sexes.", "S": [], "A": []}

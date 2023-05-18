@@ -1,0 +1,1 @@
+{"index": 9248, "D": "an intensely bitter, crystalline, water-soluble powder composed of the active principles of and obtained from aloe,  used chiefly as a purgative.", "S": [], "A": []}

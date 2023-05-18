@@ -1,0 +1,1 @@
+{"index": 333766, "D": "the amount by which the contents fall short of filling a container, as a cask or bottle.", "S": [], "A": []}

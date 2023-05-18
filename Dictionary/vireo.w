@@ -1,0 +1,1 @@
+{"index": 360122, "D": "any of several small, insectivorous American birds of the family Vireonidae, having the plumage usually olive-green or gray above and white or yellow below.", "S": ["canary ", "lark ", "oscine ", "pipit ", "serin ", "wren "], "A": []}

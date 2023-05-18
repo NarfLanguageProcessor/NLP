@@ -1,0 +1,1 @@
+{"index": 38590, "D": "having a specified type of bosom  (usually used in combination)", "S": [], "A": []}

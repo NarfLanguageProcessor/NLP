@@ -1,0 +1,1 @@
+{"index": 306442, "D": "a glow lamp, used in stroboscopes, that gives very bright flashes of light in response to voltage pulses.", "S": [], "A": []}

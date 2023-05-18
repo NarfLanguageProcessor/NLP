@@ -1,0 +1,1 @@
+{"index": 211655, "D": "the retreat of a sea from its former shore.", "S": [], "A": []}

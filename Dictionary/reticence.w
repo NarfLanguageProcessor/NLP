@@ -1,0 +1,1 @@
+{"index": 270427, "D": "the state of being reticent,  or reserved, especially with regard to speaking freely; restraint", "S": ["hesitation ", "shyness "], "A": []}

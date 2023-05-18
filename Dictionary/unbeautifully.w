@@ -1,0 +1,1 @@
+{"index": 335682, "D": "having beauty;  possessing qualities that give great pleasure or satisfaction to see, hear, think about, etc.; delighting the senses or mind", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7399, "D": "a stucco used in ancient times, made from powdered marble and lime mortar and often polished.", "S": [], "A": []}

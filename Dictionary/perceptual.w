@@ -1,0 +1,1 @@
+{"index": 230402, "D": "of, relating to, or involving perception. ", "S": ["emotional ", "emotive ", "feeling ", "intuitive ", "noncognitive ", "visceral "], "A": []}

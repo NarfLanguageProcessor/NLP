@@ -1,0 +1,1 @@
+{"index": 78689, "D": "to furnish or adorn with something ornamental or becoming; embellish", "S": ["exquisite ", "ornate ", "showy "], "A": ["plain ", "unembellished "]}

@@ -1,0 +1,1 @@
+{"index": 40902, "D": "any Old World vine or climbing plant belonging to the genus Bryonia, of the gourd family, yielding acrid juice having emetic and purgative properties.", "S": [], "A": []}

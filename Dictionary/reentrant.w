@@ -1,0 +1,1 @@
+{"index": 264772, "D": "reentering or pointing inward", "S": [], "A": []}

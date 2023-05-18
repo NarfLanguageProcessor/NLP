@@ -1,0 +1,1 @@
+{"index": 182067, "D": "of or relating to the science or practice of medicine", "S": ["medicinal ", "pharmaceutical ", "preventive ", "therapeutic "], "A": []}

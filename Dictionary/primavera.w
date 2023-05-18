@@ -1,0 +1,1 @@
+{"index": 250499, "D": "a central American tree, Cybistax donnell-smithii, of the bignonia family, having showy, tubular yellow flowers.", "S": [], "A": []}

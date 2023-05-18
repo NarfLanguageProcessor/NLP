@@ -1,0 +1,1 @@
+{"index": 196358, "D": "a projecting flat block under the corona of the Doric cornice, corresponding to the modillion of other orders.", "S": [], "A": []}

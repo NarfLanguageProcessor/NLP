@@ -1,0 +1,1 @@
+{"index": 45374, "D": "without rough motion; still or nearly still", "S": ["confident ", "easygoing ", "levelheaded ", "poised ", "relaxed ", "self-assured ", "serene ", "tranquil ", "unflappable ", "unruffled "], "A": ["agitated ", "nervous ", "upset ", "worried ", "excited "]}

@@ -1,0 +1,1 @@
+{"index": 292085, "D": "the state or condition of being syntonic.", "S": [], "A": []}

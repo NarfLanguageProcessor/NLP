@@ -1,0 +1,1 @@
+{"index": 238999, "D": "a map of half or more of the celestial sphere with a device for indicating the part of a given location visible at a given time.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21072, "D": "free from earthquakes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293085, "D": "a porter who carries passenger baggage at an airport or airline terminal.", "S": ["hostess ", "stewardess "], "A": []}

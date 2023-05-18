@@ -1,0 +1,1 @@
+{"index": 37280, "D": "to take an unfair share of (something); keep for oneself instead of sharing", "S": [], "A": []}

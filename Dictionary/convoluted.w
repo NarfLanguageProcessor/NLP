@@ -1,0 +1,1 @@
+{"index": 68151, "D": "twisted; coiled.", "S": ["intricate ", "labyrinthine ", "perplexing ", "puzzling ", "tangled ", "tortuous "], "A": ["direct ", "simple ", "straight ", "straightforward ", "understandable ", "clear ", "uncomplicated "]}

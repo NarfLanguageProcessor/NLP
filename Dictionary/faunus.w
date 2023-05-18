@@ -1,0 +1,1 @@
+{"index": 110440, "D": "an ancient Italian woodland deity, later identified with Pan.", "S": [], "A": []}

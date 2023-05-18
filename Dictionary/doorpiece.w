@@ -1,0 +1,1 @@
+{"index": 91569, "D": "an architecturally treated doorframe.", "S": [], "A": []}

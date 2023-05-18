@@ -1,0 +1,1 @@
+{"index": 337416, "D": "an expression of praise, commendation, or admiration", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100613, "D": "to prescribe (a course of action) with authority or emphasis", "S": [], "A": []}

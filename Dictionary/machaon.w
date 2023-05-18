@@ -1,0 +1,1 @@
+{"index": 176725, "D": "a son of Asclepius who was famed as a healer and who served as physician of the Greeks in the Trojan War.", "S": [], "A": []}

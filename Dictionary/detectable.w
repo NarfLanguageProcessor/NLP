@@ -1,0 +1,1 @@
+{"index": 83098, "D": "to discover or catch (a person) in the performance of some act", "S": ["appreciable ", "discernible ", "distinguishable ", "evident ", "measurable ", "noticeable ", "observable ", "palpable ", "visible "], "A": ["hidden ", "imperceptible ", "invisible ", "obscure ", "obscured ", "unclear ", "unnoticeable ", "unrecognizable ", "vague "]}

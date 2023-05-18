@@ -1,0 +1,1 @@
+{"index": 93812, "D": "ragged; tattered.", "S": [], "A": []}

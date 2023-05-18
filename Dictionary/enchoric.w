@@ -1,0 +1,1 @@
+{"index": 99315, "D": "(especially of demotic writing) belonging to or used in a particular country.", "S": [], "A": []}

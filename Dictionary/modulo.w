@@ -1,0 +1,1 @@
+{"index": 191194, "D": "with respect to a modulus", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 23089, "D": "touching; in contact.", "S": [], "A": []}

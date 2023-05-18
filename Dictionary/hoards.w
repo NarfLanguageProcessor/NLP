@@ -1,0 +1,1 @@
+{"index": 142033, "D": "a supply or accumulation that is hidden or carefully guarded for preservation, future use, etc.", "S": ["accumulation ", "backlog ", "cache ", "nest egg ", "trove "], "A": ["debt ", "lack ", "need ", "poverty "]}

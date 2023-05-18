@@ -1,0 +1,1 @@
+{"index": 48324, "D": "any of a group of red and yellow pigments, chemically similar to carotene,  contained in animal fat and some plants.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367048, "D": "to think or speculate curiously", "S": ["admiration ", "astonishment ", "awe ", "bewilderment ", "confusion ", "curiosity ", "doubt ", "fascination ", "fear ", "reverence ", "shock ", "skepticism ", "surprise ", "uncertainty "], "A": ["certainty ", "disinterest ", "disregard ", "expectation "]}

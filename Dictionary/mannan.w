@@ -1,0 +1,1 @@
+{"index": 179396, "D": "any of a group of polysaccharides, found in the ivory nut, carob bean, and the like, that yield mannose  upon hydrolysis.", "S": [], "A": []}

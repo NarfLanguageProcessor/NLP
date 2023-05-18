@@ -1,0 +1,1 @@
+{"index": 145814, "D": "a part of the Avesta including the Gathas and other liturgical texts.", "S": [], "A": []}

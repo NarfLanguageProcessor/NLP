@@ -1,0 +1,1 @@
+{"index": 106105, "D": "level; flat; smooth;  without surface irregularities", "S": ["equality ", "likeness ", "regularity ", "uniformity "], "A": ["difference ", "dissimilarity "]}

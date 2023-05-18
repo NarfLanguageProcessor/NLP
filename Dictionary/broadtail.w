@@ -1,0 +1,1 @@
+{"index": 41094, "D": "Compare Karakul (def. 1), Persian lamb (def. 2). ", "S": [], "A": []}

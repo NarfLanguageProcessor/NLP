@@ -1,0 +1,1 @@
+{"index": 66661, "D": "having the same ancestry or descent; related by blood.", "S": [], "A": []}

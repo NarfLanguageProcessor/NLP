@@ -1,0 +1,1 @@
+{"index": 295472, "D": "a bolt, catch, lock, or fastening on a door or window.", "S": [], "A": []}

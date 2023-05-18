@@ -1,0 +1,1 @@
+{"index": 335912, "D": "having the appearance or characteristics of a bird,  as quickness, lightness, fragility, etc.", "S": [], "A": []}

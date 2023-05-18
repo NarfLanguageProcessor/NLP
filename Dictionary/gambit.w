@@ -1,0 +1,1 @@
+{"index": 121631, "D": "an opening in which a player seeks to obtain some advantage by sacrificing a pawn or piece.", "S": ["artifice ", "design ", "device ", "gimmick ", "jig ", "maneuver ", "play ", "ploy ", "ruse ", "trick "], "A": ["frankness ", "honesty "]}

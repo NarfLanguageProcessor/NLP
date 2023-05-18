@@ -1,0 +1,1 @@
+{"index": 235521, "D": "the act of forming phrases. ", "S": ["diction ", "phrase ", "terminology "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 289047, "D": "a boat,  especially a paddle-wheel steamer, used as a traveling theater.", "S": ["act ", "array ", "demonstration ", "example ", "exhibit ", "parade ", "presentation "], "A": ["concealment ", "hiding ", "dullness ", "modesty ", "plainness ", "simplicity "]}

@@ -1,0 +1,1 @@
+{"index": 181770, "D": "a means of communication", "S": ["aid ", "channel ", "equipment ", "factor ", "instrument ", "measure ", "mechanism ", "medium ", "mode ", "power ", "process ", "route ", "step ", "system ", "tactic ", "technique ", "vehicle "], "A": ["end "]}

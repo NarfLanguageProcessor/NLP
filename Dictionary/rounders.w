@@ -1,0 +1,1 @@
+{"index": 274855, "D": "a ball game in which players run between posts after hitting the ball, scoring a 'rounder' if they run round all four before the ball is retrieved", "S": ["cat ", "chaser ", "killer ", "operator ", "philanderer ", "player ", "rake ", "rounder ", "speed ", "sport ", "swinger ", "tomcat ", "wolf ", "womanizer "], "A": []}

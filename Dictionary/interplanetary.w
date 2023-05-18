@@ -1,0 +1,1 @@
+{"index": 155633, "D": "being or occurring between the planets or between a planet and the sun.", "S": [], "A": []}

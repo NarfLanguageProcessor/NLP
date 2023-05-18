@@ -1,0 +1,1 @@
+{"index": 337068, "D": "a person or thing that clips  or cuts.", "S": [], "A": []}

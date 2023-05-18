@@ -1,0 +1,1 @@
+{"index": 286257, "D": "late in occurring, developing, or flowering.", "S": [], "A": []}

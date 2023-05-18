@@ -1,0 +1,1 @@
+{"index": 107485, "D": "the highest region of the atmosphere, where the air density is so low that a fast-moving air molecule is more than 50 percent likely to escape from the atmosphere instead of hitting other molecules.", "S": [], "A": []}

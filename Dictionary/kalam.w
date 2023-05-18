@@ -1,0 +1,1 @@
+{"index": 162852, "D": "a school of philosophical theology originating in the 9th century a.d., asserting the existence of God as a prime mover and the freedom of the will.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344309, "D": "above suspicion; impossible to discredit; impeccable", "S": ["absolutely ", "definitely ", "surely ", "undeniably ", "undoubtedly "], "A": ["doubtfully ", "indefinite ", "questionably "]}

@@ -1,0 +1,1 @@
+{"index": 161231, "D": "a giddy or flirtatious girl or young woman.", "S": [], "A": []}

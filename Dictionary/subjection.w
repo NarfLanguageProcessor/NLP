@@ -1,0 +1,1 @@
+{"index": 308287, "D": "the act of subjecting. ", "S": ["enslavement ", "serfdom ", "servitude ", "subjugation ", "yoke "], "A": ["freedom ", "independence "]}

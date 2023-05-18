@@ -1,0 +1,1 @@
+{"index": 229384, "D": "of or relating to the Peloponnese or its inhabitants", "S": [], "A": []}

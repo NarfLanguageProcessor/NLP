@@ -1,0 +1,1 @@
+{"index": 54391, "D": "mildly cold or producing a sensation of cold; causing shivering; chill", "S": ["chill ", "coldness ", "coolness ", "frigidness ", "frostiness ", "iciness "], "A": []}

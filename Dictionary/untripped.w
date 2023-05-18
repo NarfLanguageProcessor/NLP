@@ -1,0 +1,1 @@
+{"index": 353364, "D": "a journey or voyage", "S": [], "A": []}

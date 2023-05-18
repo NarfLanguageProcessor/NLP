@@ -1,0 +1,1 @@
+{"index": 257418, "D": "a brand of lightweight, lustrous, silklike, synthetic fiber chemically classed as nylon.", "S": [], "A": []}

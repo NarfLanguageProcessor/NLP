@@ -1,0 +1,1 @@
+{"index": 275719, "D": "an aluminum coin, paper money, and monetary unit of Indonesia, equal to 100 sen. Abbreviation", "S": [], "A": []}

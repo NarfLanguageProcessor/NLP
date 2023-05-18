@@ -1,0 +1,1 @@
+{"index": 40376, "D": "a cloth  worn about the breech  and loins; loincloth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169123, "D": "such as to cause laughter; funny; amusing; ludicrous.", "S": ["comically ", "extremely ", "insanely "], "A": []}

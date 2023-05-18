@@ -1,0 +1,1 @@
+{"index": 44275, "D": "of or like a corpse.", "S": ["colorlessness ", "etiolation ", "pallidity ", "sallowness ", "wanness ", "whiteness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166855, "D": "the result of lacerating;  a rough, jagged tear.", "S": ["lesion "], "A": ["closure "]}

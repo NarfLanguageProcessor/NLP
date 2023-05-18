@@ -1,0 +1,1 @@
+{"index": 21753, "D": "a member of a sect, characterized by its religious zeal and piety, that flourished in the 2nd century b.c. during the time of the Maccabees and vigorously resisted the Hellenization of Jewish culture and religion.", "S": [], "A": []}

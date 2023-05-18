@@ -1,0 +1,1 @@
+{"index": 275876, "D": "the state or quality of being rustic. ", "S": [], "A": []}

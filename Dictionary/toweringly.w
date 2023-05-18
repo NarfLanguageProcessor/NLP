@@ -1,0 +1,1 @@
+{"index": 326759, "D": "very high or tall; lofty", "S": [], "A": []}

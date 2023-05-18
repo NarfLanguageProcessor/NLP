@@ -1,0 +1,1 @@
+{"index": 187767, "D": "a thick vegetable soup, often containing herbs, beans, bits of pasta, etc., and served with Parmesan cheese.", "S": [], "A": []}

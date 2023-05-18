@@ -1,0 +1,1 @@
+{"index": 167707, "D": "(of a speech sound) articulated using the blade of the tongue.", "S": [], "A": []}

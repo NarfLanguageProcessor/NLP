@@ -1,0 +1,1 @@
+{"index": 325172, "D": "an evergreen, rosaceous shrub or small tree, Heteromeles arbutifolia (or Photinia arbutifolia), of California and northern Mexico, having clusters of small, white flowers and bright red berries.", "S": [], "A": []}

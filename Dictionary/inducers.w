@@ -1,0 +1,1 @@
+{"index": 151314, "D": "a substance that has the capability of activating genes within a cell.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179102, "D": "a planned and regulated movement or evolution of troops, warships, etc.", "S": ["exploit ", "jockey ", "manipulate ", "navigate ", "operate "], "A": ["destroy ", "disorganize ", "forget ", "neglect ", "remain ", "stop "]}

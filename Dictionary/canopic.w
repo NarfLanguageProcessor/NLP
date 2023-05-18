@@ -1,0 +1,1 @@
+{"index": 46526, "D": "pertaining to Canopus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312153, "D": "higher in station, rank, degree, importance, etc.", "S": ["boss ", "manager ", "principal ", "ruler ", "supervisor "], "A": ["employee ", "worker ", "follower ", "junior "]}

@@ -1,0 +1,1 @@
+{"index": 213783, "D": "designating or pertaining to a verb mood, as in Greek, that has among its functions the expression of a wish, as Greek \u00edoimen \u201cmay we go, we wish we might go.\u201d", "S": [], "A": []}

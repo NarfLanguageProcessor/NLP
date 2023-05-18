@@ -1,0 +1,1 @@
+{"index": 97649, "D": "of or relating to the reign of Elizabeth I,  queen of England, or to her times", "S": [], "A": []}

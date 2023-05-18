@@ -1,0 +1,1 @@
+{"index": 325513, "D": "a phoneme consisting of a contrastive feature of tone  in a tone language", "S": [], "A": []}

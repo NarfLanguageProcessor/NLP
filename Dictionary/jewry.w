@@ -1,0 +1,1 @@
+{"index": 161124, "D": "the Jewish people collectively.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67032, "D": "to dismay, confuse, or terrify.", "S": ["alarm ", "confuse ", "daunt ", "frighten ", "horrify ", "scare ", "shock ", "terrify ", "unnerve "], "A": ["calm ", "comfort ", "delight ", "encourage ", "gladden ", "please ", "reassure ", "soothe "]}

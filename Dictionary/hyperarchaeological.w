@@ -1,0 +1,1 @@
+{"index": 139886, "D": "of or relating to archaeology. ", "S": [], "A": []}

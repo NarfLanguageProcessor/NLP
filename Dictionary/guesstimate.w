@@ -1,0 +1,1 @@
+{"index": 130949, "D": "to estimate without substantial basis in facts or statistics.", "S": ["basically ", "essentially ", "nearly ", "practically "], "A": []}

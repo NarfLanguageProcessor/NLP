@@ -1,0 +1,1 @@
+{"index": 257319, "D": "in a state of foul decay or decomposition, as animal or vegetable matter; rotten.", "S": ["contaminated ", "fetid ", "rancid ", "rotting "], "A": ["sweet "]}

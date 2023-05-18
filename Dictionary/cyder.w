@@ -1,0 +1,1 @@
+{"index": 57307, "D": "a variant spelling (esp Brit) of cider", "S": [], "A": []}

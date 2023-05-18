@@ -1,0 +1,1 @@
+{"index": 59970, "D": "of or relating to climate. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68602, "D": "of, resembling, or containing copper. ", "S": [], "A": []}

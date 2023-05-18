@@ -1,0 +1,1 @@
+{"index": 217102, "D": "to excel in number of points,  as in a competition or contest.", "S": [], "A": []}

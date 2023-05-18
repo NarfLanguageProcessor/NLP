@@ -1,0 +1,1 @@
+{"index": 283544, "D": "having little or no concern for oneself, especially with regard to fame, position, money, etc.; unselfish. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141585, "D": "the cursive and more widely used of the two Japanese syllabaries.", "S": [], "A": []}

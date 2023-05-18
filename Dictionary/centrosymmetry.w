@@ -1,0 +1,1 @@
+{"index": 51036, "D": "symmetric  in relation to a center. ", "S": [], "A": []}

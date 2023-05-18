@@ -1,0 +1,1 @@
+{"index": 12904, "D": "the study of the English language and of literature written in English.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 115983, "D": "the state or quality of being foolish; lack of understanding or sense.", "S": ["absurdity ", "craziness ", "foolishness ", "idiocy ", "indiscretion ", "lunacy ", "madness ", "recklessness ", "silliness ", "stupidity "], "A": ["care ", "carefulness ", "intelligence ", "sense "]}

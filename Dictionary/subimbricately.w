@@ -1,0 +1,1 @@
+{"index": 308184, "D": "overlapping in sequence, as tiles or shingles on a roof.", "S": [], "A": []}

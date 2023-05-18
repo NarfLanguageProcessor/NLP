@@ -1,0 +1,1 @@
+{"index": 228119, "D": "a large and protruding belly; potbelly.", "S": [], "A": []}

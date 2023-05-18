@@ -1,0 +1,1 @@
+{"index": 369965, "D": "a sporangium  or spore case in which zoospores are produced.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305346, "D": "capable of being stopped. ", "S": ["needless ", "unnecessary "], "A": ["necessary ", "needed "]}

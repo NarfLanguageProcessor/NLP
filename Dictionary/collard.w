@@ -1,0 +1,1 @@
+{"index": 62843, "D": "a variety of kale, Brassica oleracea acephala, grown in the southern U.S., having a rosette of green leaves.", "S": ["cabbage ", "cole ", "colewort "], "A": []}

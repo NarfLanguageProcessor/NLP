@@ -1,0 +1,1 @@
+{"index": 233237, "D": "any insect of the order Phasmida, comprising the walking sticks and leaf insects.", "S": [], "A": []}

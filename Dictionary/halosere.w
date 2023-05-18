@@ -1,0 +1,1 @@
+{"index": 132844, "D": "a plant community that originates and develops in conditions of high salinity", "S": [], "A": []}

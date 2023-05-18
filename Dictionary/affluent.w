@@ -1,0 +1,1 @@
+{"index": 5444, "D": "having an abundance of wealth, property, or other material goods; prosperous; rich", "S": ["moneyed ", "prosperous ", "rich ", "upscale ", "well-off ", "well-to-do "], "A": ["destitute ", "poor "]}

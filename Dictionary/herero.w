@@ -1,0 +1,1 @@
+{"index": 137060, "D": "a member of an Indigenous people of Namibia, Botswana, and Angola.", "S": [], "A": []}

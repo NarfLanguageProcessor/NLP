@@ -1,0 +1,1 @@
+{"index": 53869, "D": "the fruit of any of various trees belonging to the genus Prunus, of the rose family, consisting of a pulpy, globular drupe enclosing a one-seeded smooth stone.", "S": ["blooming ", "cerise ", "claret ", "crimson "], "A": []}

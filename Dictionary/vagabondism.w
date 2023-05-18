@@ -1,0 +1,1 @@
+{"index": 356464, "D": "the state or condition of being a vagabond;  idle wandering.", "S": [], "A": []}

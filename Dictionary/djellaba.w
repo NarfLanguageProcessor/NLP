@@ -1,0 +1,1 @@
+{"index": 90501, "D": "a kind of loose cloak with a hood, worn by men esp in North Africa and the Middle East", "S": [], "A": []}

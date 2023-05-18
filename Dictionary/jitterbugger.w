@@ -1,0 +1,1 @@
+{"index": 161380, "D": "a strenuously acrobatic dance consisting of a few standardized steps augmented by twirls, splits, somersaults, etc., popular especially in the early 1940s and performed chiefly to boogie-woogie and swing.", "S": [], "A": []}

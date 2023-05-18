@@ -1,0 +1,1 @@
+{"index": 294120, "D": "a person or thing that slings. ", "S": [], "A": []}

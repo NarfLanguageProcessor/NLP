@@ -1,0 +1,1 @@
+{"index": 247754, "D": "the act or function of guiding;  leadership; direction.", "S": [], "A": []}

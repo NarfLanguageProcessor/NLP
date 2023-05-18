@@ -1,0 +1,1 @@
+{"index": 78347, "D": "a unit of capacity equal to 1/10 (0.1) liter (about 3.38 U.S. fluid ounces). Abbreviation", "S": [], "A": []}

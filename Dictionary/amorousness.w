@@ -1,0 +1,1 @@
+{"index": 10935, "D": "inclined or disposed to love, especially sexual love", "S": ["affection ", "amativeness ", "enamoredness ", "fancy ", "fondness ", "lovingness ", "passion ", "romance "], "A": ["dislike ", "hate ", "hatred "]}

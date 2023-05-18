@@ -1,0 +1,1 @@
+{"index": 169532, "D": "something that leads in or introduces; introduction; opening.", "S": ["addition ", "debut ", "establishment ", "inauguration ", "influx ", "initiation ", "installation ", "launch ", "opening ", "preface ", "presentation "], "A": ["close ", "closing ", "conclusion ", "end ", "ending ", "finish ", "completion ", "epilogue "]}

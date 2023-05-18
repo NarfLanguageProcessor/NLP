@@ -1,0 +1,1 @@
+{"index": 229201, "D": "having a disparaging, derogatory, or belittling effect or force", "S": ["debasing ", "deprecatory ", "depreciatory ", "derisive ", "derogatory ", "detracting ", "detractive ", "detractory ", "disadvantageous ", "disparaging ", "irreverent ", "rude ", "slighting ", "uncomplimentary ", "unpleasant "], "A": ["complimentary ", "positive ", "praising "]}

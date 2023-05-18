@@ -1,0 +1,1 @@
+{"index": 186471, "D": "an optical instrument having a magnifying lens or a combination of lenses for inspecting objects too small to be seen or too small to be seen distinctly and in detail by the unaided eye.", "S": [], "A": []}

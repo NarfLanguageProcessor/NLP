@@ -1,0 +1,1 @@
+{"index": 203454, "D": "to free from restraint, influence, or the like.", "S": [], "A": []}

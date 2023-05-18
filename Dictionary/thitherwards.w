@@ -1,0 +1,1 @@
+{"index": 322254, "D": "to or toward that place or point; there.", "S": [], "A": []}

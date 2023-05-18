@@ -1,0 +1,1 @@
+{"index": 165673, "D": "a ruined city on N central Crete; capital of the ancient Minoan civilization.", "S": [], "A": []}

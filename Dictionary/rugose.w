@@ -1,0 +1,1 @@
+{"index": 275426, "D": "having wrinkles; wrinkled; ridged.", "S": [], "A": []}

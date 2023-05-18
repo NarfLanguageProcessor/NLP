@@ -1,0 +1,1 @@
+{"index": 232937, "D": "a tree or shrub that bears its perennating buds more than 25 cm above the level of the soil", "S": [], "A": []}

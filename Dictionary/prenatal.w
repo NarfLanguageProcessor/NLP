@@ -1,0 +1,1 @@
+{"index": 248524, "D": "previous to birth or to giving birth", "S": ["fetal "], "A": []}

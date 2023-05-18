@@ -1,0 +1,1 @@
+{"index": 304467, "D": "a short dagger with a blade that is thick in proportion to its width.", "S": ["pumps "], "A": []}

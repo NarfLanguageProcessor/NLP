@@ -1,0 +1,1 @@
+{"index": 164985, "D": "the state or fact of being of kin;  family relationship.", "S": ["affinity "], "A": []}

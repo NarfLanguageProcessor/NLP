@@ -1,0 +1,1 @@
+{"index": 10104, "D": "a recessed cupboard in the wall of a church near the altar, used to store sacred vessels, etc", "S": ["cabinet ", "container ", "locker ", "room ", "vault ", "wardrobe "], "A": []}

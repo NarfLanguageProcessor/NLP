@@ -1,0 +1,1 @@
+{"index": 234014, "D": "constriction of the orifice of the prepuce so as to prevent the foreskin from being drawn back to uncover the glans penis.", "S": [], "A": []}

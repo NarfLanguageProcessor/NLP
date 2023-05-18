@@ -1,0 +1,1 @@
+{"index": 208470, "D": "a loop with a running knot, as in a snare, lasso, or hangman's halter, that tightens as the rope is pulled.", "S": [], "A": []}

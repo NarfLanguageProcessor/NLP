@@ -1,0 +1,1 @@
+{"index": 153644, "D": "to suggest or hint slyly", "S": ["charming ", "crawling ", "deferential ", "disarming ", "flattering ", "humble ", "insinuative ", "obsequious ", "saccharine ", "serving ", "silken ", "smarmy ", "soft ", "suggestive ", "sycophantic ", "toadying ", "unctuous "], "A": []}

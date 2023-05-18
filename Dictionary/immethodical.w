@@ -1,0 +1,1 @@
+{"index": 147964, "D": "not methodical;  without method or system.", "S": [], "A": []}

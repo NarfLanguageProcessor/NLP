@@ -1,0 +1,1 @@
+{"index": 350939, "D": "to make or become sharp  or sharper. ", "S": ["dull ", "dulled ", "round ", "rounded "], "A": ["needled ", "pointed ", "polite ", "sharp ", "subtle ", "tactful "]}

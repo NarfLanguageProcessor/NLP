@@ -1,0 +1,1 @@
+{"index": 56948, "D": "of or relating to cybernetics,  the study of automatic control and communication functions in both living organisms and mechanical and electronic systems", "S": [], "A": []}

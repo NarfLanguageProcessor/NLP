@@ -1,0 +1,1 @@
+{"index": 292374, "D": "of, relating to, or connected with the syrinx.", "S": [], "A": []}

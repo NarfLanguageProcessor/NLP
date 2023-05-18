@@ -1,0 +1,1 @@
+{"index": 65534, "D": "capable of being condensed. ", "S": [], "A": []}

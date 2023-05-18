@@ -1,0 +1,1 @@
+{"index": 359790, "D": "of, like, or producing long, flexible shoots.", "S": [], "A": []}

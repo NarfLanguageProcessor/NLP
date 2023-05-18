@@ -1,0 +1,1 @@
+{"index": 271379, "D": "the act of revising; revision. ", "S": ["alteration ", "amelioration ", "amendment ", "editing ", "emendation ", "improvement ", "indemnification ", "mending ", "modification ", "rectification ", "redress ", "reexamination ", "repair ", "reparation "], "A": ["damage ", "harm ", "hurt ", "injury ", "worsening "]}

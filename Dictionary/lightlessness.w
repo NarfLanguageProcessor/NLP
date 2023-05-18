@@ -1,0 +1,1 @@
+{"index": 172052, "D": "without light or lights; receiving no light; dark.", "S": ["blackness ", "dark ", "dusk ", "gloom ", "obscurity ", "twilight "], "A": ["brightness ", "light ", "lightness "]}

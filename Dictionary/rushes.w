@@ -1,0 +1,1 @@
+{"index": 275782, "D": "(in film-making) the initial prints of a scene or scenes before editing, usually prepared daily", "S": ["cinema ", "flick ", "footage ", "motion picture ", "picture ", "show "], "A": []}

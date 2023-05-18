@@ -1,0 +1,1 @@
+{"index": 248893, "D": "the state of being prepossessed. ", "S": [], "A": []}

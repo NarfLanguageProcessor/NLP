@@ -1,0 +1,1 @@
+{"index": 329887, "D": "the figure determined by three planes meeting in a point.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 74023, "D": "a person or thing that crowns. ", "S": [], "A": []}

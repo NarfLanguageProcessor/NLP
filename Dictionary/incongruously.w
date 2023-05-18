@@ -1,0 +1,1 @@
+{"index": 150226, "D": "out of keeping or place; inappropriate; unbecoming", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}

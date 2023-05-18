@@ -1,0 +1,1 @@
+{"index": 194860, "D": "the blubber and skin of a whale when eaten as a food, raw or cooked.", "S": [], "A": []}

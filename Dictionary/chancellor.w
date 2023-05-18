@@ -1,0 +1,1 @@
+{"index": 52399, "D": "the chief minister of state in certain parliamentary governments, as in Germany; prime minister; premier.", "S": ["authority ", "court ", "critic ", "expert ", "inspector ", "justice ", "referee "], "A": []}

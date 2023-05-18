@@ -1,0 +1,1 @@
+{"index": 140504, "D": "unusually or excessively active sexually, or overly concerned with sexual  matters.", "S": [], "A": []}

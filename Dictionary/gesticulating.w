@@ -1,0 +1,1 @@
+{"index": 124394, "D": "to make or use gestures,  especially in an animated or excited manner with or instead of speech.", "S": ["act out ", "flag ", "indicate ", "mime ", "pantomime ", "signal ", "signalize ", "use one's hands ", "use sign language ", "wave "], "A": ["speak "]}

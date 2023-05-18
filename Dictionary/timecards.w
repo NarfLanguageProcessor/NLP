@@ -1,0 +1,1 @@
+{"index": 323747, "D": "a card for recording the time at which an employee arrives at and departs from a job.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148288, "D": "to enclose or shut up, as in a park.", "S": [], "A": []}

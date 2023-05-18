@@ -1,0 +1,1 @@
+{"index": 332617, "D": "a supercharger  that is driven by a turbine turned by exhaust gases from the engine.", "S": [], "A": []}

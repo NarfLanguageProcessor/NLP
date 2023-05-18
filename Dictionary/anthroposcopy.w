@@ -1,0 +1,1 @@
+{"index": 14661, "D": "physiognomy (def. 2). ", "S": [], "A": []}

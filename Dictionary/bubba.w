@@ -1,0 +1,1 @@
+{"index": 41921, "D": "brother (usually used as an affectionate term of address).", "S": [], "A": []}

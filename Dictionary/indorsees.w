@@ -1,0 +1,1 @@
+{"index": 151271, "D": "a person to whom a negotiable document is endorsed. ", "S": [], "A": []}

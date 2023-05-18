@@ -1,0 +1,1 @@
+{"index": 258510, "D": "a bed of soft or loose sand saturated with water and having considerable depth, yielding under weight and therefore tending to suck down any object resting on its surface.", "S": ["quagmire "], "A": []}

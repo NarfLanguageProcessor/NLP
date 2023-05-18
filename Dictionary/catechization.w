@@ -1,0 +1,1 @@
+{"index": 49506, "D": "to instruct orally by means of questions and answers, especially in Christian doctrine.", "S": ["catechism ", "exam ", "examination ", "questioning "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41445, "D": "a rumbling noise heard occasionally in some parts of the world, probably caused by seismic  activity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1229, "D": "a member of an association or institution for the advancement of arts, sciences, or letters.", "S": ["lecturer ", "professor ", "scholar ", "student "], "A": ["ignoramus "]}

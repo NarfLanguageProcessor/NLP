@@ -1,0 +1,1 @@
+{"index": 292904, "D": "a wheel on which diamonds and other gems are ground or polished.", "S": [], "A": []}

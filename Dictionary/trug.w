@@ -1,0 +1,1 @@
+{"index": 331541, "D": "a shallow basket for carrying flowers, vegetables, etc., made from strips of wood.", "S": [], "A": []}

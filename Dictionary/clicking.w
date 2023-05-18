@@ -1,0 +1,1 @@
+{"index": 59899, "D": "a slight, sharp sound", "S": ["beat ", "blow ", "clack ", "click ", "flash ", "instant ", "minute ", "moment ", "pulsation ", "pulse ", "rap ", "second ", "shake ", "tap ", "tapping ", "throb ", "ticktock ", "twinkling ", "wink "], "A": []}

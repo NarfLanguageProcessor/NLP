@@ -1,0 +1,1 @@
+{"index": 208380, "D": "considered as a person who can or does walk or something that walks", "S": [], "A": []}

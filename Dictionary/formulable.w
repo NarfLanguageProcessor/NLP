@@ -1,0 +1,1 @@
+{"index": 117490, "D": "to express in precise form; state definitely or systematically", "S": [], "A": []}

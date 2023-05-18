@@ -1,0 +1,1 @@
+{"index": 10497, "D": "a volcanic rock in which rounded cavities formed by the expansion of gas or steam have later become filled with deposits of various minerals.", "S": [], "A": []}

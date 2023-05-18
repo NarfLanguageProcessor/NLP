@@ -1,0 +1,1 @@
+{"index": 192435, "D": "a line of verse of one measure or foot.", "S": [], "A": []}

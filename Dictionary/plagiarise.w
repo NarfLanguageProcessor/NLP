@@ -1,0 +1,1 @@
+{"index": 238640, "D": "to take and use by plagiarism. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26365, "D": "a wig  with the back hair enclosed in a fabric bag, much used in the 18th century.", "S": [], "A": []}

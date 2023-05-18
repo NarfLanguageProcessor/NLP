@@ -1,0 +1,1 @@
+{"index": 134424, "D": "to possess; own; hold for use; contain", "S": ["upper class "], "A": ["poor "]}

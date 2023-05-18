@@ -1,0 +1,1 @@
+{"index": 153725, "D": "a person who has or experiences insomnia,  the inability, especially when chronic, to obtain sufficient sleep, through difficulty in falling or staying asleep", "S": [], "A": []}

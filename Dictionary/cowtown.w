@@ -1,0 +1,1 @@
+{"index": 71679, "D": "a small town, especially one in a cattle-raising district in the western U.S. or Canada.", "S": [], "A": []}

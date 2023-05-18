@@ -1,0 +1,1 @@
+{"index": 92611, "D": "a hook with a lead-covered shank used in trolling.", "S": [], "A": []}

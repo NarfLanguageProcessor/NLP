@@ -1,0 +1,1 @@
+{"index": 216525, "D": "a person who dwells away from or is remote from a particular place.", "S": [], "A": []}

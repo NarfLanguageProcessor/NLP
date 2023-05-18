@@ -1,0 +1,1 @@
+{"index": 55428, "D": "formation of a temporary opening through the abdominal wall into the common bile duct, usually to remove stones.", "S": [], "A": []}

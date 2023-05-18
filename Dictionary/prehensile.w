@@ -1,0 +1,1 @@
+{"index": 247806, "D": "adapted for seizing, grasping, or taking hold of something", "S": ["rapacious "], "A": []}

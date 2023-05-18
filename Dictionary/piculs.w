@@ -1,0 +1,1 @@
+{"index": 236130, "D": "(in China and Southeast Asia) a weight equal to 100 catties, or from about 133 to about 143 pounds avoirdupois (60\u201364 kilograms).", "S": [], "A": []}

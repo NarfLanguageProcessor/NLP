@@ -1,0 +1,1 @@
+{"index": 25159, "D": "an instrument with a bladed head on a handle or helve, used for hewing, cleaving, chopping, etc.", "S": [], "A": []}

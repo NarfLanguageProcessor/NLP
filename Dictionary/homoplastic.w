@@ -1,0 +1,1 @@
+{"index": 143219, "D": "(of a tissue graft) derived from an individual of the same species as the recipient", "S": [], "A": []}

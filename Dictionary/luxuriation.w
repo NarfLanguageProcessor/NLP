@@ -1,0 +1,1 @@
+{"index": 176569, "D": "to enjoy oneself without stint; revel", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365626, "D": "wigs  or a wig;  false hair.", "S": [], "A": []}

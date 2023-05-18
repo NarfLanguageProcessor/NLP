@@ -1,0 +1,1 @@
+{"index": 37447, "D": "having reached the boiling point;  steaming or bubbling up under the action of heat", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199234, "D": "a functional disorder in which feelings of anxiety, obsessional thoughts, compulsive acts, and physical complaints without objective evidence of disease, in various degrees and patterns, dominate the personality.", "S": ["inhibition "], "A": ["balance ", "conformity ", "normality ", "sameness ", "soundness "]}

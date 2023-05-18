@@ -1,0 +1,1 @@
+{"index": 233109, "D": "a person licensed to prepare and dispense drugs and medicines; druggist; apothecary; pharmaceutical chemist.", "S": [], "A": []}

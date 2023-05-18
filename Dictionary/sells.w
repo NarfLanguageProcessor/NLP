@@ -1,0 +1,1 @@
+{"index": 283592, "D": "to transfer (goods) to or render (services) for another in exchange for money; dispose of to a purchaser for a price", "S": ["advertise ", "auction ", "close ", "handle ", "hawk ", "market ", "move ", "peddle ", "trade "], "A": ["buy ", "conceal ", "discourage ", "dissuade ", "hide ", "hold ", "keep "]}

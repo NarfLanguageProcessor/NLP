@@ -1,0 +1,1 @@
+{"index": 223262, "D": "a people of eastern and southern Afghanistan and neighboring regions of northwest Pakistan; the dominant ethnic group in Afghanistan.", "S": [], "A": []}

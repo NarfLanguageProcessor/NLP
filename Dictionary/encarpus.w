@@ -1,0 +1,1 @@
+{"index": 99152, "D": "an ornament having draperies, weapons, etc., arranged in the manner of a festoon.", "S": [], "A": []}

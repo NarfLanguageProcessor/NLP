@@ -1,0 +1,1 @@
+{"index": 296867, "D": "a musical composition or a passage or section in a musical composition written for performance by one singer or instrumentalist, with or without accompaniment", "S": ["belt out ", "chant ", "croon ", "hum ", "intone ", "serenade ", "shout ", "wait ", "warble ", "whistle "], "A": ["be quiet "]}

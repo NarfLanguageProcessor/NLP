@@ -1,0 +1,1 @@
+{"index": 311021, "D": "(of a garment) cut low to expose the back  for sunbathing or coolness.", "S": [], "A": []}

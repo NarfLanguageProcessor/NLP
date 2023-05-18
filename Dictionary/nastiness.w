@@ -1,0 +1,1 @@
+{"index": 197194, "D": "physically filthy; disgustingly unclean", "S": ["disagreeableness ", "ill humor ", "ill temper ", "meanness ", "unkindness ", "unpleasantness "], "A": ["agreeableness ", "amiability ", "benevolence ", "benignity ", "charitableness ", "charity ", "good-naturedness ", "pleasantness ", "kindliness ", "kindness "]}

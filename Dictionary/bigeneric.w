@@ -1,0 +1,1 @@
+{"index": 33718, "D": "of, relating to, or involving two genera.", "S": [], "A": []}

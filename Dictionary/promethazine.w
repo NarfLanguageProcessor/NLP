@@ -1,0 +1,1 @@
+{"index": 252243, "D": "a phenothiaxine derivative, C17H20N2S, used for the symptomatic relief of allergies and in the management of motion sickness.", "S": [], "A": []}

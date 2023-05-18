@@ -1,0 +1,1 @@
+{"index": 72388, "D": "containing cream.", "S": ["creamed ", "fluffy ", "gooey ", "greasy ", "luscious ", "lush ", "milky ", "oily ", "rich ", "soft ", "velvety "], "A": ["dry ", "poor ", "rough "]}

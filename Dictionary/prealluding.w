@@ -1,0 +1,1 @@
+{"index": 245671, "D": "to refer casually or indirectly; make an allusion  (usually followed by to)", "S": [], "A": []}

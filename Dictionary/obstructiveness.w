@@ -1,0 +1,1 @@
+{"index": 210508, "D": [], "S": ["action ", "hostility ", "resistance ", "struggle "], "A": ["accord ", "affection ", "agreement ", "calm ", "harmony ", "kindness ", "liking ", "love ", "obedience ", "peace ", "retreat ", "surrender ", "sympathy ", "yielding "]}

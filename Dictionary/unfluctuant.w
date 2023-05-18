@@ -1,0 +1,1 @@
+{"index": 342424, "D": "fluctuating; varying; unstable.", "S": [], "A": []}

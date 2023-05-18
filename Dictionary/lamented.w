@@ -1,0 +1,1 @@
+{"index": 167675, "D": "mourned for, as a person who is dead", "S": ["bemoan ", "deplore ", "regret "], "A": ["be happy ", "relieve "]}

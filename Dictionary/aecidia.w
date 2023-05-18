@@ -1,0 +1,1 @@
+{"index": 4756, "D": "an aecium  in which the spores are always formed in chains and enclosed in a cup-shaped peridium.", "S": [], "A": []}

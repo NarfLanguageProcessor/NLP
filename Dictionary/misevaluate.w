@@ -1,0 +1,1 @@
+{"index": 189259, "D": "to determine or set the value  or amount of; appraise", "S": [], "A": []}

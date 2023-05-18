@@ -1,0 +1,1 @@
+{"index": 306641, "D": "to contend with an adversary or opposing force.", "S": ["attempt ", "battle ", "clash ", "combat ", "conflict ", "contest ", "effort ", "encounter ", "endeavor ", "skirmish ", "strife ", "trial ", "work "], "A": ["accord ", "agreement ", "calm ", "idleness ", "laziness ", "peace ", "retreat ", "success ", "surrender ", "truce ", "entertainment ", "fun "]}

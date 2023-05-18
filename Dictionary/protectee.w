@@ -1,0 +1,1 @@
+{"index": 253373, "D": "a person, as a head of state, for whom official protection is provided.", "S": [], "A": []}

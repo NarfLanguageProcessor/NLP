@@ -1,0 +1,1 @@
+{"index": 120814, "D": "a row of gabions submerged in a waterway, stream, river, etc, to control the flow of water", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260679, "D": "given to seizing for plunder or the satisfaction of greed.", "S": ["ferocious ", "greedy ", "marauding ", "predatory ", "ravenous ", "voracious "], "A": ["satisfied "]}

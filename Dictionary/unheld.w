@@ -1,0 +1,1 @@
+{"index": 343644, "D": "simple past tense and a past participle of hold1. ", "S": [], "A": []}

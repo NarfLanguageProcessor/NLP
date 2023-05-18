@@ -1,0 +1,1 @@
+{"index": 48873, "D": "a tree, Anacardium occidentale, native to tropical America, having milky juice, simple, leathery leaves, and yellowish-pink flowers in open clusters.", "S": [], "A": []}

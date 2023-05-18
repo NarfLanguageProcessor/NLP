@@ -1,0 +1,1 @@
+{"index": 41988, "D": "a combining form meaning \u201ccheek,\u201d \u201cmouth,\u201d used in the formation of compound words", "S": [], "A": []}

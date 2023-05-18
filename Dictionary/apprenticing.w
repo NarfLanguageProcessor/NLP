@@ -1,0 +1,1 @@
+{"index": 17945, "D": "a person who works for another in order to learn a trade", "S": ["determine ", "enroll ", "gain ", "get ", "grasp ", "master ", "pick up ", "read ", "receive ", "review ", "study "], "A": ["ignore ", "lose ", "miss ", "misunderstand ", "neglect ", "pass ", "release ", "spend "]}

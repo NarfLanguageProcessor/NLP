@@ -1,0 +1,1 @@
+{"index": 365442, "D": "a bundle or loose twist or braid of soft threads, or a woven strip or tube, as of cotton or asbestos, which in a candle, lamp, oil stove, cigarette lighter, or the like, serves to draw up the melted tallow or wax or the oil or other flammable liquid to be burned.", "S": [], "A": []}

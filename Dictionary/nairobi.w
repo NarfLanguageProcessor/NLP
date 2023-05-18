@@ -1,0 +1,1 @@
+{"index": 196613, "D": "a city in and the capital of Kenya, in the SW part.", "S": [], "A": []}

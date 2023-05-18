@@ -1,0 +1,1 @@
+{"index": 263955, "D": "the act or process of deciding;  determination, as of a question or doubt, by making a judgment", "S": [], "A": []}

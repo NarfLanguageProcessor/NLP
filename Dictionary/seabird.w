@@ -1,0 +1,1 @@
+{"index": 282396, "D": "a bird  frequenting the sea  or coast.", "S": [], "A": []}

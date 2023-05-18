@@ -1,0 +1,1 @@
+{"index": 66390, "D": "joined together, united, or linked.", "S": ["accessory ", "adjuvant ", "attendant ", "attending ", "belonging ", "coefficient ", "coeval ", "collateral ", "complementary ", "contemporary ", "coordinate ", "corollary ", "fellow ", "incident ", "joint ", "satellite "], "A": ["accidental ", "chance ", "unrelated "]}

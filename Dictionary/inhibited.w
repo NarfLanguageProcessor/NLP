@@ -1,0 +1,1 @@
+{"index": 152700, "D": "overly restrained.", "S": ["constrained ", "frustrated ", "guarded ", "repressed ", "reserved ", "subdued ", "withdrawn "], "A": ["extroverted ", "friendly ", "outgoing ", "sociable "]}

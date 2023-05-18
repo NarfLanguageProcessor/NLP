@@ -1,0 +1,1 @@
+{"index": 213624, "D": "the addictive use of opium  as a stimulant or intoxicant.", "S": [], "A": []}

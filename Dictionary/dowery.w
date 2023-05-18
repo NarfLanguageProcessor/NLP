@@ -1,0 +1,1 @@
+{"index": 92174, "D": "the money, goods, or estate that a wife brings to her husband at marriage.", "S": [], "A": []}

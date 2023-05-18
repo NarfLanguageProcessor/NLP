@@ -1,0 +1,1 @@
+{"index": 258657, "D": "pertaining to or consisting of five.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233938, "D": "of or relating to philosophy", "S": ["abstract ", "logical ", "metaphysical ", "profound ", "rational ", "thoughtful "], "A": ["concrete ", "irrational ", "material ", "objective ", "physical ", "real ", "stupid ", "unreasonable "]}

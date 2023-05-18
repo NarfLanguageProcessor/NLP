@@ -1,0 +1,1 @@
+{"index": 239470, "D": "having a broad foot, as certain gastropod mollusks.", "S": [], "A": []}

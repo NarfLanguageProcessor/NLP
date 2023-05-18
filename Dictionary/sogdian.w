@@ -1,0 +1,1 @@
+{"index": 296387, "D": "a native or inhabitant of Sogdiana.", "S": [], "A": []}

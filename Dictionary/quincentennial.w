@@ -1,0 +1,1 @@
+{"index": 258670, "D": "pertaining to or marking a period of 500 years.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 87258, "D": "to take the case  or covering from; uncase.", "S": [], "A": []}

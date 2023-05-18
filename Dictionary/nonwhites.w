@@ -1,0 +1,1 @@
+{"index": 208396, "D": "of or relating to a person or people who are not members of the sociocultural classification marked by slight pigmentation of the skin and associated with European descent", "S": [], "A": []}

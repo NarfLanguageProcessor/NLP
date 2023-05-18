@@ -1,0 +1,1 @@
+{"index": 33811, "D": "a map or function that is one-to-one and onto.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84790, "D": "any of three isomers consisting of benzene  in which two of the hydrogen atoms are replaced by chlorine atoms", "S": [], "A": []}

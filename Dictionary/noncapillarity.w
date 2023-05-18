@@ -1,0 +1,1 @@
+{"index": 201791, "D": "a manifestation of surface tension by which the portion of the surface of a liquid coming in contact with a solid is elevated or depressed, depending on the adhesive or cohesive properties of the liquid.", "S": [], "A": []}

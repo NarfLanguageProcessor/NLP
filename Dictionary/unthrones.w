@@ -1,0 +1,1 @@
+{"index": 352976, "D": "to dethrone or remove as if by dethroning.", "S": [], "A": []}

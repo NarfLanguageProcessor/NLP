@@ -1,0 +1,1 @@
+{"index": 78996, "D": "a state or period of halted or suspended activity or progress", "S": [], "A": []}

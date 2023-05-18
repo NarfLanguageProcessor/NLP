@@ -1,0 +1,1 @@
+{"index": 179172, "D": "having, caused by, or like the mange. ", "S": ["decrepit ", "dirty ", "impoverished ", "indigent ", "mean ", "moth-eaten ", "poor ", "ragtag ", "shabby ", "shoddy ", "sick ", "sleazy ", "squalid ", "tattered "], "A": ["neat "]}

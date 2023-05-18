@@ -1,0 +1,1 @@
+{"index": 338245, "D": "willfully or knowingly causing pain or distress to others.", "S": [], "A": []}

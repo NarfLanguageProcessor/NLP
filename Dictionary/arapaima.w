@@ -1,0 +1,1 @@
+{"index": 18455, "D": "a large freshwater fish, Arapaima gigas, of Brazil and Guiana, reputed to reach a length of 15 feet (4.5 meters) and a weight of 500 pounds (225 kilograms).", "S": [], "A": []}

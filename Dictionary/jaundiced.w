@@ -1,0 +1,1 @@
+{"index": 160595, "D": "affected with or colored by or as if by jaundice", "S": ["biased ", "bitter ", "colored ", "disapproving ", "distorted ", "grudging ", "preconceived ", "prepossessed ", "warped ", "yellow "], "A": ["clean ", "fresh ", "unbiased ", "unprejudiced "]}

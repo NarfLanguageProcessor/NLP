@@ -1,0 +1,1 @@
+{"index": 46815, "D": "to leap or skip about in a sprightly manner; prance; frisk; gambol. ", "S": ["bounce ", "bound ", "dance ", "frisk ", "gambol ", "hop ", "jump ", "leap ", "play ", "rollick ", "romp ", "skip ", "spring "], "A": ["allow ", "face ", "permit "]}

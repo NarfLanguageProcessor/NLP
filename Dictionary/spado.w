@@ -1,0 +1,1 @@
+{"index": 298226, "D": "an impotent person; someone unable to procreate.", "S": [], "A": []}

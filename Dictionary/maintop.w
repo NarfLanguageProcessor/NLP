@@ -1,0 +1,1 @@
+{"index": 177948, "D": "a platform at the head of the lower mainmast.", "S": [], "A": []}

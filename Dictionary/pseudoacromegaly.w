@@ -1,0 +1,1 @@
+{"index": 254455, "D": "a chronic disease characterized by enlargement of the bones of the head, the soft parts of the feet and hands, and sometimes other structures, due to excessive secretion of growth hormone by the pituitary gland.", "S": [], "A": []}

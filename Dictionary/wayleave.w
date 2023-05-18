@@ -1,0 +1,1 @@
+{"index": 361993, "D": "a right of way over or under another's ground or property, as for transporting minerals from a mine.", "S": [], "A": []}

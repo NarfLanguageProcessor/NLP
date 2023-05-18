@@ -1,0 +1,1 @@
+{"index": 198225, "D": "an organ in coelenterates consisting of a minute capsule containing an ejectable thread that causes a sting.", "S": [], "A": []}

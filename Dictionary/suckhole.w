@@ -1,0 +1,1 @@
+{"index": 309961, "D": "a sycophant; toady", "S": [], "A": []}

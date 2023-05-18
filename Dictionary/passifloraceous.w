@@ -1,0 +1,1 @@
+{"index": 227323, "D": "of, relating to, or belonging to the Passifloraceae, a tropical and subtropical family of climbing plants including the passionflowers", "S": [], "A": []}

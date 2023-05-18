@@ -1,0 +1,1 @@
+{"index": 206160, "D": "the condition of being prevalent,  or widespread", "S": [], "A": []}

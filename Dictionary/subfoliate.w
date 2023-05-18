@@ -1,0 +1,1 @@
+{"index": 308010, "D": "covered with or having leaves.", "S": [], "A": []}

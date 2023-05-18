@@ -1,0 +1,1 @@
+{"index": 220202, "D": "to gain mastery over; conquer; overpower", "S": ["crush ", "overthrow ", "quell ", "rout ", "subdue ", "subjugate ", "surmount ", "vanquish "], "A": ["give in ", "lose ", "release ", "surrender ", "win ", "yield ", "aid ", "assist ", "encourage ", "fail ", "help ", "relinquish "]}

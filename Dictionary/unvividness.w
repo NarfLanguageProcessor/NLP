@@ -1,0 +1,1 @@
+{"index": 353902, "D": "strikingly bright or intense, as color, light, etc.", "S": [], "A": []}

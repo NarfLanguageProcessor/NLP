@@ -1,0 +1,1 @@
+{"index": 318414, "D": "the end term of a goal-directed process; especially, the Aristotelian final cause.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 347850, "D": "moved to or showing sudden, impatient irritation, especially over some trifling annoyance", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70731, "D": "to utter inarticulate sounds, especially of lamentation, grief, or suffering, usually with tears.", "S": [], "A": []}

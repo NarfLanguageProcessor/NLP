@@ -1,0 +1,1 @@
+{"index": 330030, "D": "a molecule composed of three identical, simpler molecules.", "S": ["compact ", "dapper ", "snug ", "streamlined ", "tidy ", "well-groomed "], "A": ["dirty ", "sloppy ", "untidy "]}

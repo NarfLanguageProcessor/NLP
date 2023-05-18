@@ -1,0 +1,1 @@
+{"index": 174379, "D": "a nut specially constructed to prevent its coming loose, usually having a means of providing extra friction between itself and the screw.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 6790, "D": "a person who likes cats; cat fancier.", "S": [], "A": []}

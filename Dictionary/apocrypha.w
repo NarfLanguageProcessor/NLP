@@ -1,0 +1,1 @@
+{"index": 17146, "D": "a group of 14 books, not considered canonical, included in the Septuagint and the Vulgate as part of the Old Testament, but usually omitted from Protestant editions of the Bible.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 300086, "D": "any of several spirally twisted, aerobic bacteria of the genus Spirillum, certain species of which are pathogenic for humans.", "S": [], "A": []}

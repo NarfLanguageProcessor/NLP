@@ -1,0 +1,1 @@
+{"index": 296079, "D": "sociology or a class or course in sociology.", "S": [], "A": []}

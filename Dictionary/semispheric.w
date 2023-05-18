@@ -1,0 +1,1 @@
+{"index": 284993, "D": "shaped like half a sphere; hemispheric.", "S": [], "A": []}

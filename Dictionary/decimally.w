@@ -1,0 +1,1 @@
+{"index": 78364, "D": "pertaining to tenths or to the number 10.", "S": [], "A": []}

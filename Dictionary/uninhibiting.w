@@ -1,0 +1,1 @@
+{"index": 344575, "D": "to restrain, hinder, arrest, or check (an action, impulse, etc.).", "S": [], "A": []}

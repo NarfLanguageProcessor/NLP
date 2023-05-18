@@ -1,0 +1,1 @@
+{"index": 83457, "D": "laid waste; made desolate", "S": ["broken ", "demolished ", "lost ", "ravaged ", "ruined ", "shattered ", "smashed ", "wrecked "], "A": ["fixed ", "repaired ", "sober ", "successful "]}

@@ -1,0 +1,1 @@
+{"index": 138964, "D": "an electrical device for detecting the presence of water, as from overflow or leakage.", "S": [], "A": []}

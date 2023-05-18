@@ -1,0 +1,1 @@
+{"index": 49619, "D": "variant of cata-  before an aspirate", "S": [], "A": []}

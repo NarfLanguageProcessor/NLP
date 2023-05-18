@@ -1,0 +1,1 @@
+{"index": 52011, "D": "a series of chairs  suspended from an endless cable driven by motors, for conveying skiers up the side of a slope.", "S": ["J-bar ", "T-bar ", "lift ", "poma ", "rope tow ", "ski lift "], "A": []}

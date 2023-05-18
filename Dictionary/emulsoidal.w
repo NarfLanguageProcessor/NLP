@@ -1,0 +1,1 @@
+{"index": 98970, "D": "a sol having a liquid disperse phase.", "S": [], "A": []}

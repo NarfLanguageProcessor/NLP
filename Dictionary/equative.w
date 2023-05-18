@@ -1,0 +1,1 @@
+{"index": 103199, "D": "belonging to or noting a degree of comparison of adjectives or adverbs that indicates an equality of the quality, quantity, etc., expressed by the adjective or adverb.", "S": [], "A": []}

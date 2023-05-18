@@ -1,0 +1,1 @@
+{"index": 131201, "D": "any of numerous long-winged, web-toed, aquatic birds of the family Laridae, having usually white plumage with a gray back and wings.", "S": ["bamboozle ", "deceive ", "defraud ", "dupe ", "fool ", "gyp ", "hoodwink ", "mislead ", "trick "], "A": []}

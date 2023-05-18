@@ -1,0 +1,1 @@
+{"index": 316180, "D": "containing much tannin;  yielding tannin.", "S": [], "A": []}

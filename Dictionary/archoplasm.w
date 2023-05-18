@@ -1,0 +1,1 @@
+{"index": 19085, "D": "the protoplasmic material surrounding the centrosome, formerly thought to be involved in the formation of the asters and spindle during mitosis", "S": [], "A": []}

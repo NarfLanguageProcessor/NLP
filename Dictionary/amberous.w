@@ -1,0 +1,1 @@
+{"index": 9969, "D": "a pale yellow, sometimes reddish or brownish, fossil resin of vegetable origin, translucent, brittle, and capable of gaining a negative electrical charge by friction and of being an excellent insulator", "S": [], "A": []}

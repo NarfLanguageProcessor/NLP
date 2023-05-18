@@ -1,0 +1,1 @@
+{"index": 4443, "D": "added or derived from an external source; additional.", "S": ["additional ", "adventitious ", "incidental "], "A": []}

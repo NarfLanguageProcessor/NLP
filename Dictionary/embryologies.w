@@ -1,0 +1,1 @@
+{"index": 98303, "D": "the science dealing with the formation, development, structure, and functional activities of embryos.", "S": ["analysis ", "biology ", "cytology ", "diagnosis ", "dissection ", "division ", "etiology ", "examination ", "genetics ", "histology ", "inquiry ", "investigation ", "medicine ", "morphology ", "physiology ", "zoology "], "A": ["connection "]}

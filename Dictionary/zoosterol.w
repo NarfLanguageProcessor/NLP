@@ -1,0 +1,1 @@
+{"index": 369974, "D": "any of a group of animal sterols, such as cholesterol", "S": [], "A": []}

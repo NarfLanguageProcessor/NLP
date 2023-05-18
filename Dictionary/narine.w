@@ -1,0 +1,1 @@
+{"index": 197020, "D": "of or relating to the nares  or nostrils.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110451, "D": "of, relating to, or characteristic of Faust", "S": [], "A": []}

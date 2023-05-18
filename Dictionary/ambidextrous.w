@@ -1,0 +1,1 @@
+{"index": 9980, "D": "able to use both hands equally well", "S": ["deceitful ", "deceptive ", "disingenuous ", "double-dealing ", "hypocritical ", "left-handed "], "A": []}

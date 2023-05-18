@@ -1,0 +1,1 @@
+{"index": 167574, "D": "to beat or whip severely.", "S": [], "A": []}

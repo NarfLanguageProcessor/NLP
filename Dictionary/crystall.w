@@ -1,0 +1,1 @@
+{"index": 73381, "D": "variant of crystallo-  before a vowel", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291232, "D": "a white, crystalline, water-soluble glucoside, C30H42N2O15S2, found in the seeds of the white mustard.", "S": [], "A": []}

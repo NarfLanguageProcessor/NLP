@@ -1,0 +1,1 @@
+{"index": 368506, "D": "a brand name for a copying machine for reproducing printed, written, or pictorial matter by xerography.", "S": ["Photostat ", "carbon ", "clone ", "counterfeit ", "ditto ", "duplicate ", "forge ", "mimeograph ", "photocopy ", "replicate ", "reprint ", "reproduce ", "trace "], "A": []}

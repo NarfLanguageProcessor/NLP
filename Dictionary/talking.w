@@ -1,0 +1,1 @@
+{"index": 315655, "D": "to communicate or exchange ideas, information, etc., by speaking", "S": ["articulating ", "chattering ", "conversing ", "discussing ", "echoing ", "expressing ", "mouthing ", "orating ", "ranting ", "repeating ", "spouting ", "vocalizing "], "A": ["hearing ", "listening ", "witnessing "]}

@@ -1,0 +1,1 @@
+{"index": 251858, "D": "to search or prowl about, as for plunder or food; forage.", "S": [], "A": []}

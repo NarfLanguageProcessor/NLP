@@ -1,0 +1,1 @@
+{"index": 348587, "D": "forbidden by authority or law", "S": ["acceptable ", "admissible ", "bearable ", "lawful ", "legitimate ", "permitted ", "proper ", "tolerable "], "A": ["illegal ", "illegitimate ", "intolerable ", "prohibited ", "unacceptable ", "unbearable ", "unlawful ", "unsuitable "]}

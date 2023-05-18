@@ -1,0 +1,1 @@
+{"index": 115609, "D": "a flowing or flow.", "S": ["disappear ", "disintegrate ", "evaporate ", "fade ", "heat ", "soften ", "thaw ", "vanish ", "warm "], "A": ["appear ", "arrive ", "cool ", "freeze ", "divide ", "separate ", "stop "]}

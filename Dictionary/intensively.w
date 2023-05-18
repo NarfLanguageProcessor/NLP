@@ -1,0 +1,1 @@
+{"index": 154386, "D": "of, relating to, or characterized by intensity", "S": ["competently ", "comprehensively ", "effectively ", "exclusively ", "exhaustively ", "extensively ", "fully ", "thoroughly "], "A": ["inadequately ", "incompletely ", "partially "]}

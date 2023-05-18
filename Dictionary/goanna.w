@@ -1,0 +1,1 @@
+{"index": 127195, "D": "any of the several large monitor lizards of the family Varanidae, of Australia, especially Varanus varius and V. giganteus, both sometimes growing to 6 feet (1.8 meters).", "S": [], "A": []}

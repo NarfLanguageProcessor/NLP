@@ -1,0 +1,1 @@
+{"index": 356047, "D": "habitual or customary", "S": ["averageness ", "commonality ", "commonness ", "commonplaceness ", "normalcy ", "ordinariness ", "prevalence ", "regularity ", "uniformity "], "A": []}

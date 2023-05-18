@@ -1,0 +1,1 @@
+{"index": 163050, "D": "rent paid in kind, especially a percentage of a farm crop.", "S": [], "A": []}

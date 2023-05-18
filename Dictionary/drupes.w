@@ -1,0 +1,1 @@
+{"index": 93607, "D": "any fruit, as a peach, cherry, plum, etc., consisting of an outer skin, a usually pulpy and succulent middle layer, and a hard and woody inner shell usually enclosing a single seed.", "S": ["bean ", "grain ", "kernel "], "A": []}

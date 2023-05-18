@@ -1,0 +1,1 @@
+{"index": 352491, "D": "(of a problem, etc) not capable of being solved or overcome", "S": ["bulletproof ", "impassable ", "impregnable ", "indomitable ", "invulnerable ", "irresistible ", "unassailable ", "unbeatable ", "untouchable "], "A": ["beatable "]}

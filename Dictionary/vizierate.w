@@ -1,0 +1,1 @@
+{"index": 360822, "D": "the position, rank, or authority of a vizier", "S": [], "A": []}

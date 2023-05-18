@@ -1,0 +1,1 @@
+{"index": 192233, "D": "the use of land for growing only one type of crop.", "S": [], "A": []}

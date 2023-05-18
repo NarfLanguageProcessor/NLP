@@ -1,0 +1,1 @@
+{"index": 196396, "D": "neutron.", "S": ["animalcule ", "animalculum "], "A": []}

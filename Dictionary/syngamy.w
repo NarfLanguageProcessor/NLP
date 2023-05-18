@@ -1,0 +1,1 @@
+{"index": 291667, "D": "union of gametes, as in fertilization or conjugation; sexual reproduction.", "S": [], "A": []}

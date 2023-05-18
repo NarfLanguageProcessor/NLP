@@ -1,0 +1,1 @@
+{"index": 52762, "D": "a small South American guitar made from the shell of an armadillo or similar animal and having two to five strings.", "S": [], "A": []}

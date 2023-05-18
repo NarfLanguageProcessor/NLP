@@ -1,0 +1,1 @@
+{"index": 49452, "D": "tending to be transmitted from one person to another; contagious or infectious", "S": ["endemic ", "epidemic ", "pandemic ", "taking "], "A": []}

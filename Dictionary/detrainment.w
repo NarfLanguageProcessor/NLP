@@ -1,0 +1,1 @@
+{"index": 83290, "D": "to alight from a railway train;  arrive by train.", "S": [], "A": []}

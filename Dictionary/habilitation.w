@@ -1,0 +1,1 @@
+{"index": 131765, "D": "the act or process of becoming fit or of making fit for a particular purpose", "S": ["ability ", "competence ", "quality ", "stature ", "talent "], "A": ["inability ", "inadequacy ", "incompetence ", "weakness ", "disadvantage ", "impotence ", "ineptness ", "lack ", "lowliness "]}

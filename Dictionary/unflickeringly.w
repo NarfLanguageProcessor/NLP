@@ -1,0 +1,1 @@
+{"index": 342389, "D": "to burn unsteadily; shine with a wavering light; blink on and off", "S": [], "A": []}

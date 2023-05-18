@@ -1,0 +1,1 @@
+{"index": 317479, "D": "a number of persons forming one of the sides in a game or contest", "S": ["club ", "company ", "lineup ", "organization ", "party ", "side ", "squad ", "unit "], "A": ["individual ", "one ", "single "]}

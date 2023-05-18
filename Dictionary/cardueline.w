@@ -1,0 +1,1 @@
+{"index": 47899, "D": "of or relating to the passerine subfamily Carduelinae, including the goldfinches, siskins, canaries and crossbills.", "S": [], "A": []}

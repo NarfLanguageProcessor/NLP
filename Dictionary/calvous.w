@@ -1,0 +1,1 @@
+{"index": 45529, "D": "lacking all or most of the hair on the head; bald.", "S": [], "A": []}

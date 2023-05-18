@@ -1,0 +1,1 @@
+{"index": 97124, "D": "electromagnetism (def. 2). ", "S": [], "A": []}

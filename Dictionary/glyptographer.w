@@ -1,0 +1,1 @@
+{"index": 126392, "D": "the description or study of engraved gems or other stones.", "S": [], "A": []}

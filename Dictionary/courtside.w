@@ -1,0 +1,1 @@
+{"index": 71379, "D": "(in sports) the area adjoining the official playing area of a court,  as in basketball, tennis, or volleyball.", "S": [], "A": []}

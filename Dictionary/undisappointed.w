@@ -1,0 +1,1 @@
+{"index": 340431, "D": "depressed or discouraged by the failure of one's hopes or expectations", "S": [], "A": []}

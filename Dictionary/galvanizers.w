@@ -1,0 +1,1 @@
+{"index": 121543, "D": "to stimulate by or as if by a galvanic  current.", "S": [], "A": []}

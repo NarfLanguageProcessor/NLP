@@ -1,0 +1,1 @@
+{"index": 163432, "D": "the discomfort and illness experienced as the aftereffects of excessive drinking; hangover.", "S": [], "A": []}

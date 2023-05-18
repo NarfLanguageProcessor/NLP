@@ -1,0 +1,1 @@
+{"index": 182603, "D": "a group or suite of attendants, followers, dependents, etc.", "S": [], "A": []}

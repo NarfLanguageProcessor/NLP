@@ -1,0 +1,1 @@
+{"index": 235806, "D": "a rogue, vagabond, thief, or brigand.", "S": ["adventurer ", "buccaneer ", "freebooter ", "knave ", "rogue "], "A": []}

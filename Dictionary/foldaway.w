@@ -1,0 +1,1 @@
+{"index": 115849, "D": "designed to be folded  out of the way when not in use", "S": [], "A": []}

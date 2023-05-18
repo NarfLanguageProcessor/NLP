@@ -1,0 +1,1 @@
+{"index": 11228, "D": "(of certain animals, such as leeches) having a sucker at either end of the body", "S": [], "A": []}

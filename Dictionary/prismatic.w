@@ -1,0 +1,1 @@
+{"index": 250770, "D": "of, relating to, or like a prism. ", "S": ["bright ", "flashy ", "gaudy ", "hued ", "multicolored ", "rich ", "splashy ", "vibrant ", "vivid "], "A": ["dull ", "pale ", "plain ", "simple ", "weak "]}

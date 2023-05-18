@@ -1,0 +1,1 @@
+{"index": 291158, "D": "U.S. admiral, born in Canada.", "S": [], "A": []}

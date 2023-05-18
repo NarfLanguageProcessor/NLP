@@ -1,0 +1,1 @@
+{"index": 206668, "D": "something that cures or relieves a disease or bodily disorder; a healing medicine, application, or treatment.", "S": [], "A": []}

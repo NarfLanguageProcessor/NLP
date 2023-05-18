@@ -1,0 +1,1 @@
+{"index": 179723, "D": "a member of the Native Polynesian population of New Zealand.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234119, "D": "one of a school of political economists who followed Quesnay in holding that an inherent natural order properly governed society, regarding land as the basis of wealth and taxation, and advocating a laissez-faire economy.", "S": [], "A": []}

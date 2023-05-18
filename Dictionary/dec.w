@@ -1,0 +1,1 @@
+{"index": 77891, "D": "variant of deca-  before a vowel", "S": [], "A": []}

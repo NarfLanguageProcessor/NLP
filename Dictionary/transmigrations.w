@@ -1,0 +1,1 @@
+{"index": 328093, "D": "the act of transmigrating. ", "S": ["metempsychosis ", "reincarnation "], "A": []}

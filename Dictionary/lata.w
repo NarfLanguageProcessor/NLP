@@ -1,0 +1,1 @@
+{"index": 168789, "D": "a pattern of neurotic behavior, usually induced by a startle, first discovered in Malaya, and characterized by the compulsive imitation of the actions and words of others.", "S": [], "A": []}

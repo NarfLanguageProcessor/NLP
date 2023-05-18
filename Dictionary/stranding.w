@@ -1,0 +1,1 @@
+{"index": 305750, "D": "to drive or leave (a ship, fish, etc.) aground or ashore", "S": ["isolate ", "strand "], "A": ["care ", "help ", "maintain ", "rescue ", "save ", "take care "]}

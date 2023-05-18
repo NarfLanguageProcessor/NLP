@@ -1,0 +1,1 @@
+{"index": 245938, "D": "in an unstable, uncertain, or insecure way", "S": ["alarmingly ", "critically ", "desperately ", "perilously ", "recklessly ", "seriously ", "severely "], "A": ["lightly "]}

@@ -1,0 +1,1 @@
+{"index": 274913, "D": "to bring out of a state of sleep, unconsciousness, inactivity, fancied security, apathy, depression, etc.", "S": ["alive ", "attentive ", "aware ", "cognizant ", "vigilant "], "A": ["ignorant ", "inattentive ", "unaware "]}

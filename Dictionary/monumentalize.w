@@ -1,0 +1,1 @@
+{"index": 192961, "D": "to establish an enduring memorial or record of.", "S": ["celebrate ", "memorialize ", "observe ", "remember ", "salute "], "A": ["disregard ", "forget ", "ignore ", "overlook "]}

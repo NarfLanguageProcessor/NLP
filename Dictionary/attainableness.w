@@ -1,0 +1,1 @@
+{"index": 22952, "D": "capable of being attained. ", "S": ["action ", "circumstance ", "hazard ", "hope ", "incident ", "opportunity ", "probability ", "prospect ", "risk "], "A": ["certainty ", "safety ", "surety ", "plan "]}

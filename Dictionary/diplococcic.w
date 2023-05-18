@@ -1,0 +1,1 @@
+{"index": 86531, "D": "any of several spherical bacteria occurring in pairs, as Diplococcus pneumoniae.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232517, "D": "an oily, thick, flammable, usually dark-colored liquid that is a form of bitumen or a mixture of various hydrocarbons, occurring naturally in various parts of the world and commonly obtained by drilling", "S": [], "A": []}

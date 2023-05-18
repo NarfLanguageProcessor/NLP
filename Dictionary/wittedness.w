@@ -1,0 +1,1 @@
+{"index": 366722, "D": "having wit  or wits  (usually used in combination)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316435, "D": "a signal by bugle or drum, sounded at night as an order to extinguish all lights, and sometimes performed as a postlude to a military funeral.", "S": ["death ", "exit ", "extinction "], "A": []}

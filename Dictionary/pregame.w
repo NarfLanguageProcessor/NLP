@@ -1,0 +1,1 @@
+{"index": 247694, "D": "of, relating to, or happening in the period just before a sports game", "S": [], "A": []}

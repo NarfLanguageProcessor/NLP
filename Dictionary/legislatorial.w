@@ -1,0 +1,1 @@
+{"index": 170126, "D": "of or relating to a legislator,  legislature, or legislation; legislative.", "S": ["congressional ", "parliamentary ", "senatorial "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82386, "D": "an extreme liberal of the Spanish revolution 1820\u201323.", "S": [], "A": []}

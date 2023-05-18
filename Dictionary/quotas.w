@@ -1,0 +1,1 @@
+{"index": 259149, "D": "the share or proportional part of a total that is required from, or is due or belongs to, a particular district, state, person, group, etc.", "S": ["allocation ", "allotment ", "allowance ", "measure "], "A": ["juncture ", "whole "]}

@@ -1,0 +1,1 @@
+{"index": 164194, "D": "a brand name for a small, very plump doll with a topknot, usually made of plaster or celluloid.", "S": [], "A": []}

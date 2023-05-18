@@ -1,0 +1,1 @@
+{"index": 79560, "D": "to free from any association with or dependence on gender", "S": [], "A": []}

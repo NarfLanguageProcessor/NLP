@@ -1,0 +1,1 @@
+{"index": 124133, "D": "the study of the diminution or decline of life, as in an individual animal or a species approaching extinction.", "S": [], "A": []}

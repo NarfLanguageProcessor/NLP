@@ -1,0 +1,1 @@
+{"index": 138436, "D": "any of the class of enzymes that catalyze the addition of a water molecule into a compound without causing hydrolysis.", "S": [], "A": []}

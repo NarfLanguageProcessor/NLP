@@ -1,0 +1,1 @@
+{"index": 137166, "D": "the daughter of Menelaus and Helen.", "S": [], "A": []}

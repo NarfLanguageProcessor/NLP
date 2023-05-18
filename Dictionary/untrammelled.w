@@ -1,0 +1,1 @@
+{"index": 353215, "D": "not hindered or restricted in thought or action", "S": [], "A": []}

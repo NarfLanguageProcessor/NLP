@@ -1,0 +1,1 @@
+{"index": 291293, "D": "of or relating to a synapse", "S": [], "A": []}

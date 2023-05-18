@@ -1,0 +1,1 @@
+{"index": 261979, "D": "to rearrange the lighting", "S": ["readjust ", "reconstruct ", "reorganize ", "reposition ", "reshuffle ", "revamp ", "rework "], "A": ["remain "]}

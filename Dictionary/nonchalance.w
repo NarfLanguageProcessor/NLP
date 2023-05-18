@@ -1,0 +1,1 @@
+{"index": 201884, "D": "the state or quality of being nonchalant;  cool indifference or lack of concern; casualness.", "S": ["casualness ", "indifference ", "insouciance "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358987, "D": "characterized by or covered with vesicles.", "S": [], "A": []}

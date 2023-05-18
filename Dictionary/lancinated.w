@@ -1,0 +1,1 @@
+{"index": 167903, "D": "to stab or pierce.", "S": [], "A": []}

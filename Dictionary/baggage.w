@@ -1,0 +1,1 @@
+{"index": 26288, "D": "trunks, suitcases, etc., used in traveling; luggage.", "S": ["equipment ", "gear ", "luggage ", "paraphernalia "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 242726, "D": "an agglutinated mass or body of pollen grains, characteristic of plants of the orchid and milkweed families.", "S": [], "A": []}

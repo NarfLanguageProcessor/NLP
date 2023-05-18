@@ -1,0 +1,1 @@
+{"index": 226867, "D": "any of numerous hook-billed, often brilliantly colored birds of the order Psittaciformes, as the cockatoo, lory, macaw, or parakeet, having the ability to mimic speech and often kept as pets.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334030, "D": "extremely pure,  especially without impurities", "S": [], "A": []}

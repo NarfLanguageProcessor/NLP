@@ -1,0 +1,1 @@
+{"index": 347765, "D": "puzzling or bewildering; hard to understand, figure out, or solve", "S": [], "A": []}

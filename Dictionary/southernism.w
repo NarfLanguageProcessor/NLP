@@ -1,0 +1,1 @@
+{"index": 298006, "D": "a pronunciation, expression, or behavioral trait characteristic of the U.S. South.", "S": [], "A": []}

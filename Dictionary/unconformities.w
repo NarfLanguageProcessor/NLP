@@ -1,0 +1,1 @@
+{"index": 337605, "D": "lack of conformity; incongruity; inconsistency.", "S": ["aberration ", "abnormality ", "deviation ", "inconsistency ", "irregularity ", "oddity ", "rarity "], "A": ["conformity ", "normality ", "regularity ", "sameness ", "standard ", "usualness "]}

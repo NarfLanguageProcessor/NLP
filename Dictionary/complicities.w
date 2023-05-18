@@ -1,0 +1,1 @@
+{"index": 64708, "D": "the state of being an accomplice; partnership or involvement in wrongdoing", "S": ["collaboration ", "collusion ", "connivance ", "guilt ", "involvement ", "manipulation "], "A": ["ignorance ", "innocence ", "noninvolvement ", "refusal "]}

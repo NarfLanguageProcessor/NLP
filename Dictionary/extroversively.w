@@ -1,0 +1,1 @@
+{"index": 108754, "D": "a disposition that is energized through social engagement and languishes or chafes in solitude, resulting in a personality that is gregarious, outgoing, and sociable.", "S": [], "A": []}

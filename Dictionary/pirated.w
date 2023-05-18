@@ -1,0 +1,1 @@
+{"index": 237618, "D": "a person who robs or commits illegal violence at sea or on the shores of the sea.", "S": ["contraband ", "illicit ", "smuggled ", "unauthorized "], "A": ["legal ", "permitted "]}

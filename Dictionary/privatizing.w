@@ -1,0 +1,1 @@
+{"index": 250858, "D": "to transfer from public or government control or ownership to private enterprise", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 99857, "D": "a change brought about within the mass of an intrusive igneous rock.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178432, "D": "failure to function  properly", "S": ["break ", "break down ", "conk out ", "fail ", "function go on the blink ", "improperly ", "jam ", "malfunction ", "not work ", "stall ", "stop running "], "A": []}

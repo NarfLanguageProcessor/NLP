@@ -1,0 +1,1 @@
+{"index": 38917, "D": "a bluish lead-gray mineral, lead antimony sulfide, Pb5Sb4S11, a minor ore of lead.", "S": [], "A": []}

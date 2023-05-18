@@ -1,0 +1,1 @@
+{"index": 33086, "D": "an edible preparation of marijuana made by soaking and grinding the young leaves and stems of the Cannabis sativa plant to create a paste, usually mixed with milk or water in traditional Indian beverages, and known for its mild hallucinogenic effects.", "S": ["hashish ", "hemp ", "pot ", "tea "], "A": []}

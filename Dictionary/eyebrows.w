@@ -1,0 +1,1 @@
+{"index": 96371, "D": "the arch or ridge forming the upper part of the orbit of the eye. ", "S": ["countenance ", "face ", "front ", "mien ", "temple ", "top "], "A": ["back ", "rear "]}

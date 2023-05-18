@@ -1,0 +1,1 @@
+{"index": 262929, "D": "to repeat the words of, as from memory, especially in a formal manner", "S": ["lecturer ", "preacher ", "public speaker "], "A": []}

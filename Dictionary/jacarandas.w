@@ -1,0 +1,1 @@
+{"index": 159851, "D": "any of various tropical trees belonging to the genus Jacaranda, of the catalpa family, having showy clusters of usually purplish flowers.", "S": [], "A": []}

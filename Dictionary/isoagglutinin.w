@@ -1,0 +1,1 @@
+{"index": 158752, "D": "an agglutinin  that can effect isoagglutination.", "S": [], "A": []}

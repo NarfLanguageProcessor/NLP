@@ -1,0 +1,1 @@
+{"index": 369826, "D": "the science or branch of biology dealing with animals.", "S": ["analysis ", "biology ", "cytology ", "diagnosis ", "dissection ", "division ", "embryology ", "etiology ", "examination ", "genetics ", "histology ", "inquiry ", "investigation ", "medicine ", "morphology ", "physiology "], "A": ["connection "]}

@@ -1,0 +1,1 @@
+{"index": 8910, "D": "a clay mineral, an amorphous hydrous silicate of aluminum, occurring in blue, green, or yellow, resinous to earthy masses.", "S": [], "A": []}

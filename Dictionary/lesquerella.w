@@ -1,0 +1,1 @@
+{"index": 170841, "D": "any of various plants of the genus Lesquerella, of the mustard family,  having rosettes of simple, hairy leaves, small yellow flowers, and inflated pods, and yielding a seed oil similar to castor oil.", "S": [], "A": []}

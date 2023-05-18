@@ -1,0 +1,1 @@
+{"index": 287203, "D": "an elimination or winnowing out of some competing businesses, products, etc., as a result of intense competition in a market of declining sales or rising standards of quality.", "S": ["bounce ", "chuck ", "culling ", "disdain ", "eviction ", "heave-ho ", "push ", "riddance ", "scorn "], "A": []}

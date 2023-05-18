@@ -1,0 +1,1 @@
+{"index": 346597, "D": "humiliated, ashamed, or deeply embarrassed", "S": [], "A": []}

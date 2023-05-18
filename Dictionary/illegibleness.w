@@ -1,0 +1,1 @@
+{"index": 147341, "D": "not legible;  impossible or hard to read or decipher because of poor handwriting, faded print, etc.", "S": [], "A": []}

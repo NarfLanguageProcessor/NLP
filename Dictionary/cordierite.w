@@ -1,0 +1,1 @@
+{"index": 68933, "D": "a strongly dichroic blue mineral consisting of a silicate of magnesium, aluminum, and iron", "S": [], "A": []}

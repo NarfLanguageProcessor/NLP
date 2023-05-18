@@ -1,0 +1,1 @@
+{"index": 362486, "D": "done, shown, used, etc., maliciously or unjustifiably", "S": ["lewd ", "outrageous ", "promiscuous ", "shameless "], "A": ["decent ", "good ", "moral ", "chaste "]}

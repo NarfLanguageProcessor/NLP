@@ -1,0 +1,1 @@
+{"index": 338621, "D": "having the form changed, especially with loss of beauty; misshapen; disfigured", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 102192, "D": "a prefix occurring in loanwords from Greek, where it meant \u201cupon,\u201d \u201con,\u201d \u201cover,\u201d \u201cnear,\u201d \u201cat,\u201d \u201cbefore,\u201d \u201cafter\u201d (epicedium; epidermis; epigene; epitome); on this model, used in the formation of new compound words (epicardium; epinephrine).", "S": [], "A": []}

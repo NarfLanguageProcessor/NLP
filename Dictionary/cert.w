@@ -1,0 +1,1 @@
+{"index": 51559, "D": "certificate.", "S": ["absolutely ", "assuredly ", "exactly ", "surely "], "A": ["doubtfully ", "questionably "]}

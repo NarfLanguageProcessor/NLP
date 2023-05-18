@@ -1,0 +1,1 @@
+{"index": 52425, "D": "uncertain, hazardous, or risky.", "S": ["peril "], "A": ["safety "]}

@@ -1,0 +1,1 @@
+{"index": 75036, "D": "skill employed in a shrewd or sly manner, as in deceiving; craftiness; guile. ", "S": ["Machiavellian ", "acute ", "deep ", "keen ", "knowing ", "sharp ", "slick ", "smart ", "smarts ", "smooth "], "A": ["aboveboard ", "blunt ", "coarse ", "dull ", "ignorant ", "obtuse ", "rough ", "slow ", "stupid ", "unintelligent ", "unstylish "]}

@@ -1,0 +1,1 @@
+{"index": 178997, "D": "a command or authorization to act in a particular way on a public issue given by the electorate to its representative", "S": ["authorization ", "command ", "decree ", "directive ", "injunction ", "instruction ", "sanction "], "A": ["breach ", "break ", "denial ", "question ", "refusal ", "request ", "veto "]}

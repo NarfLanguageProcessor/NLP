@@ -1,0 +1,1 @@
+{"index": 350927, "D": "not shaped or definitely formed; shapeless; formless; indefinite.", "S": [], "A": []}

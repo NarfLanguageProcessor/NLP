@@ -1,0 +1,1 @@
+{"index": 169572, "D": "having, abounding in, or covered with leaves  or foliage", "S": [], "A": []}

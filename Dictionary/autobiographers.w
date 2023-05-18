@@ -1,0 +1,1 @@
+{"index": 23884, "D": "a history of a person's life written or told by that person.", "S": [], "A": []}

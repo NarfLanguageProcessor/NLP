@@ -1,0 +1,1 @@
+{"index": 75235, "D": "a simple, close-fitting cap worn by women in colonial America.", "S": [], "A": []}

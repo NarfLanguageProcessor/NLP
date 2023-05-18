@@ -1,0 +1,1 @@
+{"index": 311813, "D": "excellently, especially in a way that shows extreme refinement or elegance", "S": [], "A": []}

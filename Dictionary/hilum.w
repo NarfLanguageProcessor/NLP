@@ -1,0 +1,1 @@
+{"index": 139535, "D": "the nucleus of a granule of starch.", "S": [], "A": []}

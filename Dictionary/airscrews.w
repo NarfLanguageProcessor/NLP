@@ -1,0 +1,1 @@
+{"index": 6985, "D": "an airplane propeller.", "S": [], "A": []}

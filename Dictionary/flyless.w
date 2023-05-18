@@ -1,0 +1,1 @@
+{"index": 114611, "D": "any of numerous two-winged insects of the order Diptera, especially of the family Muscidae, as the common housefly. ", "S": [], "A": []}

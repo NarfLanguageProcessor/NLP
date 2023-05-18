@@ -1,0 +1,1 @@
+{"index": 268608, "D": "reprobating;  expressing reprobation.", "S": [], "A": []}

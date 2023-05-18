@@ -1,0 +1,1 @@
+{"index": 262281, "D": "the sister of Laban, wife of Isaac, and mother of Esau and Jacob. Genesis 24\u201327.", "S": [], "A": []}

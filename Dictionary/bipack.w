@@ -1,0 +1,1 @@
+{"index": 34608, "D": "two separate films, each having an emulsion layer sensitive to a different color, held together with their emulsion layers facing for simultaneous exposure through the back of one.", "S": [], "A": []}

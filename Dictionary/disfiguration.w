@@ -1,0 +1,1 @@
+{"index": 88075, "D": "an act or instance of disfiguring. ", "S": [], "A": []}

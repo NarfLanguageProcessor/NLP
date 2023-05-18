@@ -1,0 +1,1 @@
+{"index": 171114, "D": "a vassal or tenant in the early Middle Ages.", "S": [], "A": []}

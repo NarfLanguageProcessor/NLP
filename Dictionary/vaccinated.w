@@ -1,0 +1,1 @@
+{"index": 356367, "D": "to inoculate with the vaccine  of cowpox so as to render the subject immune to smallpox.", "S": ["inoculated "], "A": []}

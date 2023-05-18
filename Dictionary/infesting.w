@@ -1,0 +1,1 @@
+{"index": 151964, "D": "to live in or overrun to an unwanted degree or in a troublesome manner, especially as predatory animals or vermin do", "S": ["breach ", "infect ", "infest ", "loot ", "occupy ", "overrun ", "penetrate ", "pillage ", "plunder ", "raid ", "ravage ", "storm ", "violate "], "A": ["aid ", "assist ", "give ", "help ", "protect ", "receive ", "surrender "]}

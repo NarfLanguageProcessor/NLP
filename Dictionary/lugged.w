@@ -1,0 +1,1 @@
+{"index": 175950, "D": "to pull or carry with force or effort", "S": ["borne ", "drifting ", "toted "], "A": []}

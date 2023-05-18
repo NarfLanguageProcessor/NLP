@@ -1,0 +1,1 @@
+{"index": 85686, "D": "a dilated formation or part.", "S": [], "A": []}

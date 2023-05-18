@@ -1,0 +1,1 @@
+{"index": 348566, "D": "being without profit; not showing or turning a profit", "S": [], "A": []}

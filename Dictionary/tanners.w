@@ -1,0 +1,1 @@
+{"index": 316173, "D": "a person whose occupation it is to tan  hides.", "S": [], "A": []}

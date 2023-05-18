@@ -1,0 +1,1 @@
+{"index": 16275, "D": "the part of an ancient Greek choral ode answering a previous strophe, sung by the chorus when returning from left to right.", "S": [], "A": []}

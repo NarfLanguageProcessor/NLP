@@ -1,0 +1,1 @@
+{"index": 93353, "D": "a little drop. ", "S": ["aerosol ", "sprayer ", "sprinkler "], "A": []}

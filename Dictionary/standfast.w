@@ -1,0 +1,1 @@
+{"index": 302686, "D": "a rigid or unyielding position.", "S": ["combat ", "cope ", "defy ", "hold off ", "repel ", "resist ", "ride out ", "suffer ", "thwart ", "tolerate ", "weather "], "A": ["aid ", "assist ", "disallow ", "help ", "refuse ", "reject ", "surrender ", "agree ", "dodge ", "give up ", "hide ", "loosen ", "support ", "unfasten "]}

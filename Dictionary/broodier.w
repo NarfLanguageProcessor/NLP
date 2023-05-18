@@ -1,0 +1,1 @@
+{"index": 41493, "D": "moody; gloomy.", "S": ["crestfallen ", "despondent ", "discouraged ", "disheartened ", "dispirited ", "gloomy ", "glum ", "morose "], "A": ["cheerful ", "elated ", "encouraged ", "happy ", "heartened ", "inspirited ", "above ", "upright "]}

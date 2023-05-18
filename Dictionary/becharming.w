@@ -1,0 +1,1 @@
+{"index": 29803, "D": "to charm;  bewitch; captivate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268882, "D": "the act of requiring  or demanding.", "S": ["appropriation ", "call ", "commandeering ", "occupation ", "request ", "seizure ", "summons ", "takeover "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175614, "D": "a person who is uninterested, uninvolved, or uneducated in intellectual activities or pursuits.", "S": [], "A": []}

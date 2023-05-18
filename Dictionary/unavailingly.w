@@ -1,0 +1,1 @@
+{"index": 335471, "D": "ineffectual; futile.", "S": ["badly ", "desperately ", "fatally ", "impossibly "], "A": ["calmly "]}

@@ -1,0 +1,1 @@
+{"index": 270489, "D": "the innermost coat of the posterior part of the eyeball that receives the image produced by the lens, is continuous with the optic nerve, and consists of several layers, one of which contains the rods and cones that are sensitive to light.", "S": [], "A": []}

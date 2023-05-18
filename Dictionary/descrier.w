@@ -1,0 +1,1 @@
+{"index": 82441, "D": "to see (something unclear or distant) by looking carefully; discern; espy", "S": [], "A": []}

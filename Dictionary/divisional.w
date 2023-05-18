@@ -1,0 +1,1 @@
+{"index": 90387, "D": "the act or process of dividing; state of being divided.", "S": ["provincial ", "regional "], "A": ["broad ", "broad-minded ", "liberal ", "unrestricted "]}

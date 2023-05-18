@@ -1,0 +1,1 @@
+{"index": 126160, "D": "shallow or slightly cupped, as the articular cavities of the scapula and the temporal bone.", "S": [], "A": []}

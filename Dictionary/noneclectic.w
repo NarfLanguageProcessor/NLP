@@ -1,0 +1,1 @@
+{"index": 203335, "D": "selecting or choosing from various sources.", "S": [], "A": []}

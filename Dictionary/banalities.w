@@ -1,0 +1,1 @@
+{"index": 27231, "D": "the condition or quality of being banal,  or devoid of freshness or originality", "S": ["platitude "], "A": ["coinage ", "nuance "]}

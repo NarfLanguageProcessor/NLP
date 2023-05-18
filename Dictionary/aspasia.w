@@ -1,0 +1,1 @@
+{"index": 21371, "D": "Athenian courtesan, mistress of Pericles.", "S": [], "A": []}

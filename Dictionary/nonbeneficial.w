@@ -1,0 +1,1 @@
+{"index": 201642, "D": "conferring benefit; advantageous; helpful", "S": [], "A": []}

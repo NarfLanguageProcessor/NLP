@@ -1,0 +1,1 @@
+{"index": 49512, "D": "a colorless, crystalline, dihydroxyl derivative of benzene, C6H6O2, the ortho isomer, used chiefly in photography, for dyeing, and as a reagent; pyrocatechol. ", "S": [], "A": []}

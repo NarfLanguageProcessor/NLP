@@ -1,0 +1,1 @@
+{"index": 143782, "D": "an Old World plant, Marrubium vulgare, of the mint family, having downy leaves and small, whitish flowers, and containing a bitter, medicinal juice that is used as an expectorant, vermifuge, and laxative.", "S": ["lozenge ", "pastil ", "pastille ", "throat lozenge ", "troche "], "A": []}

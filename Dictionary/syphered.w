@@ -1,0 +1,1 @@
+{"index": 292170, "D": "to join (boards having beveled edges) so as to make a flush surface.", "S": [], "A": []}

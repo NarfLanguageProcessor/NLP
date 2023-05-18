@@ -1,0 +1,1 @@
+{"index": 274459, "D": "tinged with rose; rosy", "S": ["bright ", "cheerful ", "hopeful ", "optimistic ", "pink ", "promising ", "red "], "A": []}

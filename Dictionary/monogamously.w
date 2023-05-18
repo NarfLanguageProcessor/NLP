@@ -1,0 +1,1 @@
+{"index": 192303, "D": "practicing or advocating monogamy. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91428, "D": "the inner tower, keep, or stronghold of a castle.", "S": ["acropolis ", "alcazar ", "citadel ", "fastness ", "fort ", "fortification ", "fortress ", "hold ", "keep ", "manor ", "mansion ", "palace ", "peel ", "safehold ", "seat ", "stronghold ", "tower ", "villa "], "A": []}

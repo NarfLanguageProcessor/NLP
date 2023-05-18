@@ -1,0 +1,1 @@
+{"index": 149066, "D": "capable of being impressed;  impressionable.", "S": [], "A": []}

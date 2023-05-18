@@ -1,0 +1,1 @@
+{"index": 268711, "D": "any cold-blooded vertebrate of the class Reptilia, comprising the turtles, snakes, lizards, crocodilians, amphisbaenians, tuatara, and various extinct members including the dinosaurs.", "S": [], "A": []}

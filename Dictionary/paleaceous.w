@@ -1,0 +1,1 @@
+{"index": 223612, "D": "a chafflike scale or bract.", "S": [], "A": []}

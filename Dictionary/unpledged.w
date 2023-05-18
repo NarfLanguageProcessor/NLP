@@ -1,0 +1,1 @@
+{"index": 348044, "D": "a solemn promise or agreement to do or refrain from doing something", "S": ["neutral ", "unaffiliated ", "uninvolved "], "A": ["aligned ", "attached ", "committed ", "involved ", "united "]}

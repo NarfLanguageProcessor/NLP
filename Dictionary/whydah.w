@@ -1,0 +1,1 @@
+{"index": 364739, "D": "any of several small African finches of the subfamily Viduinae, the males of which have elongated, drooping tail feathers during the breeding season.", "S": [], "A": []}

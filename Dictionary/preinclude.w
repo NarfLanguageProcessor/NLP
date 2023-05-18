@@ -1,0 +1,1 @@
+{"index": 247920, "D": "to contain, as a whole does parts or any part or element", "S": [], "A": []}

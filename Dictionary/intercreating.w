@@ -1,0 +1,1 @@
+{"index": 154772, "D": "to cause to come into being, as something unique that would not naturally evolve or that is not made by ordinary processes.", "S": [], "A": []}

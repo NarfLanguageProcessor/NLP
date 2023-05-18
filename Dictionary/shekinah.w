@@ -1,0 +1,1 @@
+{"index": 287912, "D": "Judaism a variant spelling of Shechina", "S": [], "A": []}

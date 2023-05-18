@@ -1,0 +1,1 @@
+{"index": 369908, "D": "the state of being zoophilous.", "S": [], "A": []}

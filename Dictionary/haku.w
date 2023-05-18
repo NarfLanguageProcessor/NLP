@@ -1,0 +1,1 @@
+{"index": 132520, "D": "(in Hawaii) a crown of fresh flowers.", "S": [], "A": []}

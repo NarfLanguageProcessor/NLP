@@ -1,0 +1,1 @@
+{"index": 218986, "D": "with conscientious and persistent effort or attention", "S": [], "A": []}

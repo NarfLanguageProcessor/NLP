@@ -1,0 +1,1 @@
+{"index": 123950, "D": "to draw, design, or form in geometrical shapes or patterns.", "S": [], "A": []}

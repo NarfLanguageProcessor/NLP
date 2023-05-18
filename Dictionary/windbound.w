@@ -1,0 +1,1 @@
+{"index": 365915, "D": "(of a sailing ship, sailboat, or the like) kept from sailing by a wind  from the wrong direction or one of too high velocity.", "S": [], "A": []}

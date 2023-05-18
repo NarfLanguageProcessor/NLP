@@ -1,0 +1,1 @@
+{"index": 314954, "D": "an electronic ultrahigh-frequency navigation system for aircraft which gives a continuous indication of bearing and distance from a transmitting station", "S": [], "A": []}

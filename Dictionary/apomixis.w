@@ -1,0 +1,1 @@
+{"index": 17299, "D": "any of several types of asexual reproduction, as apogamy or parthenogenesis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 150440, "D": "to an ever greater degree; more and more", "S": ["more ", "more and more ", "progressively "], "A": ["less "]}

@@ -1,0 +1,1 @@
+{"index": 328823, "D": "latticework; a lattice or trellis.", "S": ["arbor ", "lattice "], "A": []}

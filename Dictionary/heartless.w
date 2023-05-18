@@ -1,0 +1,1 @@
+{"index": 134878, "D": "unfeeling; unkind; unsympathetic; harsh; cruel", "S": ["brutal ", "callous ", "cold-blooded ", "cruel ", "harsh ", "inhuman ", "insensitive ", "merciless ", "ruthless ", "uncaring ", "unkind "], "A": ["compassionate ", "considerate ", "feeling ", "friendly ", "gentle ", "giving ", "kind ", "merciful ", "nice ", "sensitive ", "sympathetic "]}

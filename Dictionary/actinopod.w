@@ -1,0 +1,1 @@
+{"index": 3197, "D": "any protozoan of the subclass Actinopoda, including the heliozoans and radiolarians, having stiff, rodlike, radiating pseudopodia.", "S": [], "A": []}

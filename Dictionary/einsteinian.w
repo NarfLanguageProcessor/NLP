@@ -1,0 +1,1 @@
+{"index": 96533, "D": "pertaining to Albert Einstein  or his theories, especially the theory of relativity.", "S": [], "A": []}

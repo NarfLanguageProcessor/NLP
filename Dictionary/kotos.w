@@ -1,0 +1,1 @@
+{"index": 166158, "D": "a Japanese musical instrument having numerous strings, usually seven or thirteen, that are stretched over a convex wooden sounding board and are plucked with three plectra, worn on the thumb, index finger, and middle finger of one hand.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235389, "D": "a sphere of light or radiance.", "S": [], "A": []}

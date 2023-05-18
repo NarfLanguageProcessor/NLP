@@ -1,0 +1,1 @@
+{"index": 28547, "D": "uncomfortably diffident and easily embarrassed; shy; timid.", "S": ["abashment ", "humility ", "reservation ", "reserve ", "sheepishness ", "shyness ", "timidity "], "A": ["boldness ", "confidence ", "pride "]}

@@ -1,0 +1,1 @@
+{"index": 87980, "D": "to free or become free from entanglement; untangle; extricate (often followed by from).", "S": ["detach ", "disengage ", "emancipate ", "extricate ", "unravel ", "unscramble ", "untangle ", "untie "], "A": ["attach ", "connect ", "tangle ", "tie ", "unite ", "block ", "close ", "combine ", "hide ", "join "]}

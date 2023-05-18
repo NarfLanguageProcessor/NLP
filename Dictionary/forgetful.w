@@ -1,0 +1,1 @@
+{"index": 117221, "D": "apt to forget;  that forgets", "S": ["careless ", "distracted ", "inattentive ", "sloppy "], "A": ["attentive "]}

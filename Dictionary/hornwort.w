@@ -1,0 +1,1 @@
+{"index": 143905, "D": "any aquatic plant of the genus Ceratophyllum, found in ponds and slow streams.", "S": [], "A": []}

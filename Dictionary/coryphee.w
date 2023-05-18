@@ -1,0 +1,1 @@
+{"index": 69154, "D": "a member of a ballet company who dances usually as part of a small group and who ranks below the soloists.", "S": ["dancer "], "A": []}

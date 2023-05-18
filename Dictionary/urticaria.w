@@ -1,0 +1,1 @@
+{"index": 355903, "D": "a transient condition of the skin, usually caused by an allergic reaction, characterized by pale or reddened irregular, elevated patches and severe itching; hives.", "S": [], "A": []}

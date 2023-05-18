@@ -1,0 +1,1 @@
+{"index": 308326, "D": "the act, fact, or process of subjugating,  or bringing under control; enslavement", "S": ["enslavement ", "serfdom ", "servitude ", "yoke "], "A": ["freedom ", "independence "]}

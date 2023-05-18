@@ -1,0 +1,1 @@
+{"index": 63364, "D": "to cause to appear in color;  enhance with color, especially by computer", "S": [], "A": []}

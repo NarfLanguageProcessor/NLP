@@ -1,0 +1,1 @@
+{"index": 229026, "D": "a game played by or with very young children, typically in which one covers the face or hides and then suddenly uncovers the face or reappears, calling \u201cPeekaboo!\u201d", "S": [], "A": []}

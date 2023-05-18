@@ -1,0 +1,1 @@
+{"index": 132148, "D": "a gray, toxic metallic element with a high melting point (over 2000\u00b0C), found in most zirconium minerals. Symbol", "S": [], "A": []}

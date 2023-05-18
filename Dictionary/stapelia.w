@@ -1,0 +1,1 @@
+{"index": 302777, "D": "any of various plants of the genus Stapelia, of the milkweed family, native to southern Africa, having short, fleshy, leafless stems, and flowers that are oddly colored or mottled and in most species emit a fetid, carrionlike odor.", "S": [], "A": []}

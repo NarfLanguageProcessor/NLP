@@ -1,0 +1,1 @@
+{"index": 48807, "D": "to make the outside surface of (an alloy having an iron base) hard by carburizing and heat treatment, leaving the interior tough and ductile.", "S": ["calcification ", "coagulation ", "concretion ", "crystallization ", "fossilization ", "freezing ", "ossification ", "petrification ", "setting ", "solidifying ", "stiffening "], "A": []}

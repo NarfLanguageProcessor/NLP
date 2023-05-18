@@ -1,0 +1,1 @@
+{"index": 204314, "D": "characterized by elegance or beauty of form, manner, movement, or speech; elegant", "S": [], "A": []}

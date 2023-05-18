@@ -1,0 +1,1 @@
+{"index": 195985, "D": "a music program forming the main part of a social occasion.", "S": ["gig ", "musical ", "recital ", "show "], "A": ["disagreement ", "disharmony ", "disunity "]}

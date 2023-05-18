@@ -1,0 +1,1 @@
+{"index": 14462, "D": "a colorless, crystalline powder, C14H12, obtained from coal tar and having a violet fluorescence", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 215467, "D": "composed of, containing, or resembling bone; bony.", "S": ["skeletal "], "A": ["beefy ", "fat ", "heavy ", "overweight ", "plump "]}

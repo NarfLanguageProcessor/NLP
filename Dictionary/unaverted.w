@@ -1,0 +1,1 @@
+{"index": 335482, "D": "turned away or aside", "S": [], "A": []}

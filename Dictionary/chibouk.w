@@ -1,0 +1,1 @@
+{"index": 54093, "D": "a Turkish tobacco pipe with a stiff stem sometimes 4 or 5 feet (1.2 or 1.5 meters) long.", "S": [], "A": []}

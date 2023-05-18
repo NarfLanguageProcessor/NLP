@@ -1,0 +1,1 @@
+{"index": 298548, "D": "in sudden, brief, or sporadic bursts", "S": ["again and again ", "generally ", "intermittently ", "many times ", "often ", "periodically ", "regularly ", "time and again ", "usually "], "A": ["rarely ", "seldom "]}

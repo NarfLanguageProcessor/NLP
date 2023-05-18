@@ -1,0 +1,1 @@
+{"index": 205563, "D": "being, pertaining to, or resembling an obsession", "S": [], "A": []}

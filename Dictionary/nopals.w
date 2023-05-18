@@ -1,0 +1,1 @@
+{"index": 208478, "D": "any of several cacti of the genus Nopalea, resembling the prickly pear.", "S": [], "A": []}

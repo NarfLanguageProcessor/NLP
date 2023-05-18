@@ -1,0 +1,1 @@
+{"index": 142151, "D": "the joint in the hind leg of a horse, cow, etc., above the fetlock joint, corresponding anatomically to the ankle in humans.", "S": ["borrow ", "pledge "], "A": []}

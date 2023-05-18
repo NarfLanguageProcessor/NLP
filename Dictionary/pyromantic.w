@@ -1,0 +1,1 @@
+{"index": 237862, "D": "divination by fire, or by forms appearing in fire.", "S": [], "A": []}

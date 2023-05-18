@@ -1,0 +1,1 @@
+{"index": 266266, "D": "to subject to reindustrialization.", "S": [], "A": []}

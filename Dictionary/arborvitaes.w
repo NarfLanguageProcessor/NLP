@@ -1,0 +1,1 @@
+{"index": 18589, "D": "any of several ornamental or timber-producing evergreen trees belonging to the genus Thuja, of the cypress family, native to North America and eastern Asia, having a scaly bark and scalelike leaves on branchlets.", "S": [], "A": []}

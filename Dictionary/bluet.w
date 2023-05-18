@@ -1,0 +1,1 @@
+{"index": 36788, "D": "any of several North American plants of the genus Houstonia (or Hedyotis), of the madder family, especially H. caerulea, a low-growing plant having four-petaled blue and white flowers.", "S": [], "A": []}

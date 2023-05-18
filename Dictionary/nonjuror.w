@@ -1,0 +1,1 @@
+{"index": 204950, "D": "a person who refuses to take a required oath, as of allegiance.", "S": [], "A": []}

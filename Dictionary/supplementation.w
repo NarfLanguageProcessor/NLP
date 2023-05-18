@@ -1,0 +1,1 @@
+{"index": 312968, "D": "the act or process of supplementing. ", "S": [], "A": []}

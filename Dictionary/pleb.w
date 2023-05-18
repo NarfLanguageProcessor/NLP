@@ -1,0 +1,1 @@
+{"index": 239662, "D": "a member of the plebs; a plebeian  or commoner.", "S": ["bourgeois ", "bourgeoisie ", "citizen ", "civilian ", "common ", "commonality ", "commoner ", "crowd ", "mass ", "mob ", "peasant ", "plebeian ", "populace ", "public ", "ruck "], "A": []}

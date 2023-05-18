@@ -1,0 +1,1 @@
+{"index": 186604, "D": "an instrument for cutting very thin sections, as of organic tissue, for microscopic examination.", "S": [], "A": []}

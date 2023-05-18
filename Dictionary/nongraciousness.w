@@ -1,0 +1,1 @@
+{"index": 204318, "D": "the quality or state of being benevolent, courteous, and kind", "S": [], "A": []}

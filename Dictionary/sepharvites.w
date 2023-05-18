@@ -1,0 +1,1 @@
+{"index": 285582, "D": "people believed to be of the ancient Babylonian city of Sippar, some of whom later settled in Samaria.", "S": [], "A": []}

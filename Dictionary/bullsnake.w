@@ -1,0 +1,1 @@
+{"index": 42650, "D": "any of several large North American constrictors of the genus Pituophis, as the gopher snake  and pine snake,  that feed chiefly upon small rodents.", "S": [], "A": []}

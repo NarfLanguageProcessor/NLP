@@ -1,0 +1,1 @@
+{"index": 160756, "D": "leader; chief; boss.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333772, "D": "a trailing South American perennial herb, Ullucus tuberosus, bearing fleshy tubers.", "S": [], "A": []}

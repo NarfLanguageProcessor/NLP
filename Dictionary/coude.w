@@ -1,0 +1,1 @@
+{"index": 70493, "D": "(of a reflecting telescope) having plane mirrors positioned to reflect light from the primary mirror along the axis onto a detector", "S": [], "A": []}

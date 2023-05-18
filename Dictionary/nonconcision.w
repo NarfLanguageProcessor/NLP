@@ -1,0 +1,1 @@
+{"index": 202214, "D": "concise  quality; brevity; terseness.", "S": [], "A": []}

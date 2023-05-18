@@ -1,0 +1,1 @@
+{"index": 162353, "D": "a wild land overgrown with dense vegetation, often nearly impenetrable, especially tropical vegetation or a tropical rainforest.", "S": ["forest ", "wasteland ", "wood "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202618, "D": "in a judgmental or disapproving manner", "S": [], "A": []}

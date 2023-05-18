@@ -1,0 +1,1 @@
+{"index": 206613, "D": "act of regenerating;  state of being regenerated. ", "S": [], "A": []}

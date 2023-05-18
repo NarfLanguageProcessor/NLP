@@ -1,0 +1,1 @@
+{"index": 207444, "D": "of or relating to a sphere.", "S": [], "A": []}

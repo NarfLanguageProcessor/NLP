@@ -1,0 +1,1 @@
+{"index": 125800, "D": "of or relating to gladiators  or to their combats.", "S": ["antagonistic ", "bellicose ", "belligerent ", "cantankerous ", "contentious ", "energetic "], "A": ["kind ", "nice "]}

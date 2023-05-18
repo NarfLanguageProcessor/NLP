@@ -1,0 +1,1 @@
+{"index": 114072, "D": "any fish  of the order Heterosomata (Pleuronectiformes), including the halibut, sole, flounder, etc., having a greatly compressed body and swimming on one side, with both eyes on the upper side in the adult.", "S": [], "A": []}

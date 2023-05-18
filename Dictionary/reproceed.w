@@ -1,0 +1,1 @@
+{"index": 268616, "D": "to move or go forward or onward, especially after stopping.", "S": [], "A": []}

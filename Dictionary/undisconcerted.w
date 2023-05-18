@@ -1,0 +1,1 @@
+{"index": 340469, "D": "disturbed, as in one's composure or self-possession; perturbed; ruffled", "S": [], "A": []}

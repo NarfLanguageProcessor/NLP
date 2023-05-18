@@ -1,0 +1,1 @@
+{"index": 186702, "D": "midmost. ", "S": ["inside ", "interior ", "intermediary ", "intermediate ", "mean ", "midpoint ", "midway "], "A": ["exterior ", "external ", "extreme ", "outer ", "outside "]}

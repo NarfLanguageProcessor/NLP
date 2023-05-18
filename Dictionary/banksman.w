@@ -1,0 +1,1 @@
+{"index": 27530, "D": "a crane driver's helper, who signals instructions to the driver for the movement of the crane and its jib", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321361, "D": "a mixture of finely-divided metallic aluminum and ferric oxide that when ignited produces extremely high temperatures as the result of the union of the aluminum with the oxygen of the oxide", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25864, "D": "to retard the forward motion by pressing backward on the pedal, especially of a bicycle with coaster brakes.", "S": ["180 ", "about-face ", "apostasy ", "change of mind ", "defection ", "flip-flop ", "reversal ", "second thoughts ", "turnaround ", "volte-face "], "A": []}

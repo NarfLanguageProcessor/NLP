@@ -1,0 +1,1 @@
+{"index": 253404, "D": "a woman who guards or defends someone or something; protector. ", "S": [], "A": []}

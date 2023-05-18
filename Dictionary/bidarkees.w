@@ -1,0 +1,1 @@
+{"index": 33500, "D": "a sealskin boat used by primarily by the Alaskan Aleuts.", "S": [], "A": []}

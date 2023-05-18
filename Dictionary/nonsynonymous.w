@@ -1,0 +1,1 @@
+{"index": 207309, "D": "having the character of synonyms  or a synonym;  equivalent in meaning; expressing or implying the same idea.", "S": [], "A": []}

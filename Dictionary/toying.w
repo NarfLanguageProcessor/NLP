@@ -1,0 +1,1 @@
+{"index": 325130, "D": "an object, often a small representation of something familiar, as an animal or person, for children or others to play with; plaything.", "S": ["fling "], "A": ["hastening ", "hurrying ", "push ", "rush "]}

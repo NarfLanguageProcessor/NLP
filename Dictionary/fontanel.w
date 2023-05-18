@@ -1,0 +1,1 @@
+{"index": 116057, "D": "one of the spaces, covered by membrane, between the bones of the fetal or young skull.", "S": [], "A": []}

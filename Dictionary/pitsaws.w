@@ -1,0 +1,1 @@
+{"index": 238413, "D": "a two-handed saw  used in pit sawing. ", "S": [], "A": []}

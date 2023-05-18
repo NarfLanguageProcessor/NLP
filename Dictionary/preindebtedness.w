@@ -1,0 +1,1 @@
+{"index": 247933, "D": "committed or obligated to repay a monetary loan", "S": [], "A": []}

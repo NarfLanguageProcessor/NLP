@@ -1,0 +1,1 @@
+{"index": 353933, "D": "of, relating to, or characterized by volition. ", "S": [], "A": []}

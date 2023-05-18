@@ -1,0 +1,1 @@
+{"index": 297565, "D": "pertaining to or resembling a soredium. ", "S": [], "A": []}

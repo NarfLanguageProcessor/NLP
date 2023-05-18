@@ -1,0 +1,1 @@
+{"index": 121621, "D": "a river in W Africa, flowing W to the Atlantic. 500 miles (800 km) long.", "S": [], "A": []}

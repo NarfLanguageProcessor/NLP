@@ -1,0 +1,1 @@
+{"index": 256743, "D": "(of performance of a musical passage for a stringed instrument) with the point  of the bow.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 59309, "D": "to make (an idea, statement, etc.) clear or intelligible; to free from ambiguity.", "S": ["annotative ", "exegetic ", "exegetical ", "explanative ", "explicative ", "explicatory ", "hermeneutic ", "hermeneutical ", "illustrative ", "informative ", "informing ", "instructive ", "interpretative ", "interpretive "], "A": []}

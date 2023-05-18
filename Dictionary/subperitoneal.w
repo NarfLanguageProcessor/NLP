@@ -1,0 +1,1 @@
+{"index": 308805, "D": "relating to, by means of, or enclosed by the peritoneum,  the membrane lining the abdominal cavity", "S": [], "A": []}

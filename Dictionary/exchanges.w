@@ -1,0 +1,1 @@
+{"index": 106654, "D": "to give up (something) for something else; part with for some equivalent; change for another.", "S": ["change ", "commerce ", "network ", "swap ", "transaction ", "transfer "], "A": ["stagnation "]}

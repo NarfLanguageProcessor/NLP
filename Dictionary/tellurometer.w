@@ -1,0 +1,1 @@
+{"index": 318401, "D": "a surveying instrument using microwaves to measure distance.", "S": [], "A": []}

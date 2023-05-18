@@ -1,0 +1,1 @@
+{"index": 329990, "D": "any of several plants belonging to the genus Trillium, of the lily family, having a whorl of three leaves from the center of which rises a solitary, three-petalled flower.", "S": [], "A": []}

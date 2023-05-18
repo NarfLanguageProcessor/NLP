@@ -1,0 +1,1 @@
+{"index": 85886, "D": "crystallog another word for tetragonal", "S": [], "A": []}

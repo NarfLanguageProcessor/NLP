@@ -1,0 +1,1 @@
+{"index": 7097, "D": "a member of a former Indian sect originating in the 5th century b.c. as a heretical offshoot of Jainism", "S": [], "A": []}

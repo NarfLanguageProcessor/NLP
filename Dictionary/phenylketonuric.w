@@ -1,0 +1,1 @@
+{"index": 233355, "D": "an inherited disease due to faulty metabolism of phenylalanine,  characterized by phenyl ketones in the urine and usually first noted by signs of intellectual disability in infancy.", "S": [], "A": []}

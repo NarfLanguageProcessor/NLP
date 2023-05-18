@@ -1,0 +1,1 @@
+{"index": 228506, "D": "a plural of pease. ", "S": ["dot ", "pellet ", "stone "], "A": []}

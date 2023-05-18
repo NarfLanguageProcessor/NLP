@@ -1,0 +1,1 @@
+{"index": 66914, "D": "the funded government securities of Great Britain that originated in the consolidation in 1751 of various public securities, chiefly in the form of annuities, into a single debt issue without maturity.", "S": [], "A": []}

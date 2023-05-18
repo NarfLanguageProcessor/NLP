@@ -1,0 +1,1 @@
+{"index": 130355, "D": "a young person, especially a teenage girl, who is an ardent admirer of rock musicians and may follow them on tour.", "S": ["retinue "], "A": ["leader "]}

@@ -1,0 +1,1 @@
+{"index": 250976, "D": "the military forces of a nation, exclusive of the navy and in some countries the air force.", "S": [], "A": []}

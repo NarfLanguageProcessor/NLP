@@ -1,0 +1,1 @@
+{"index": 251794, "D": "utterly and shamelessly immoral or dissipated; thoroughly dissolute.", "S": ["extravagance ", "kindness ", "leniency ", "permissiveness ", "privilege "], "A": ["disapproval ", "disfavor ", "disregard ", "dissatisfaction ", "frustration ", "intolerance ", "need ", "want "]}

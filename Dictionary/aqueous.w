@@ -1,0 +1,1 @@
+{"index": 18246, "D": "of, like, or containing water; watery", "S": ["flowing "], "A": ["inflexible ", "solid ", "stable ", "unchangeable "]}

@@ -1,0 +1,1 @@
+{"index": 120372, "D": "the forked clavicular bone of a bird; wishbone.", "S": [], "A": []}

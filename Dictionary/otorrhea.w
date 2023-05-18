@@ -1,0 +1,1 @@
+{"index": 215975, "D": "a mucopurulent discharge from the ear.", "S": [], "A": []}

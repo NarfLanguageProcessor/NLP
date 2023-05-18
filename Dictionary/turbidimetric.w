@@ -1,0 +1,1 @@
+{"index": 332572, "D": "a device for measuring the turbidity of water or other liquids.", "S": [], "A": []}

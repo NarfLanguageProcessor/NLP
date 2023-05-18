@@ -1,0 +1,1 @@
+{"index": 201599, "D": "pertaining to or of the nature of an axiom; self-evident; obvious. ", "S": [], "A": []}

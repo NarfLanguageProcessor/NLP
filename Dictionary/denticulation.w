@@ -1,0 +1,1 @@
+{"index": 81297, "D": "the state or form of being denticulate. ", "S": [], "A": []}

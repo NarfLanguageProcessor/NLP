@@ -1,0 +1,1 @@
+{"index": 248855, "D": "a rudimentary additional digit on the preaxial side of the thumb of certain amphibians and mammals.", "S": [], "A": []}

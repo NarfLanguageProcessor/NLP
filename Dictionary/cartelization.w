@@ -1,0 +1,1 @@
+{"index": 48601, "D": "to organize into a business cartel. ", "S": [], "A": []}

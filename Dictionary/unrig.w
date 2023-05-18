@@ -1,0 +1,1 @@
+{"index": 349948, "D": "to strip of rigging,  as a ship.", "S": ["break up ", "demolish ", "destroy ", "disassemble ", "raze ", "undo ", "wreck "], "A": ["build ", "construct ", "create ", "repair ", "restore ", "clothe ", "cover "]}

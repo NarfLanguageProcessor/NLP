@@ -1,0 +1,1 @@
+{"index": 284681, "D": "ostentatious in one's learning.", "S": [], "A": []}

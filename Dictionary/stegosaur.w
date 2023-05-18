@@ -1,0 +1,1 @@
+{"index": 303522, "D": "a plant-eating dinosaur of the genus Stegosaurus, from the Jurassic and Cretaceous periods, having a heavy, bony armor and a row of bony plates along its back, and growing to a length of 20 to 40 feet (6\u201312 meters).", "S": [], "A": []}

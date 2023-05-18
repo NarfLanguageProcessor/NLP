@@ -1,0 +1,1 @@
+{"index": 34757, "D": "an aircraft carrier.", "S": [], "A": []}

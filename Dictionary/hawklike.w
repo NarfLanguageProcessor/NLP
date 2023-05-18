@@ -1,0 +1,1 @@
+{"index": 134478, "D": "any of numerous birds of prey of the family Accipitridae, having a short, hooked beak, broad wings, and curved talons, often seen circling or swooping at low altitudes.", "S": [], "A": []}

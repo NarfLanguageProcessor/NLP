@@ -1,0 +1,1 @@
+{"index": 53576, "D": "the pincerlike organ or claw terminating certain limbs of crustaceans and arachnids.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134327, "D": "the hip.", "S": ["buns ", "buttocks ", "hip ", "leg ", "loin ", "posterior ", "rump ", "thigh "], "A": []}

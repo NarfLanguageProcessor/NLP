@@ -1,0 +1,1 @@
+{"index": 51734, "D": "(of worms) ribbonlike.", "S": [], "A": []}

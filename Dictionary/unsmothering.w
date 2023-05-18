@@ -1,0 +1,1 @@
+{"index": 351433, "D": "to stifle or suffocate, as by smoke or other means of preventing free breathing.", "S": [], "A": []}

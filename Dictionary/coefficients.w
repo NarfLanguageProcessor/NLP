@@ -1,0 +1,1 @@
+{"index": 61833, "D": "a number or quantity placed (generally) before and multiplying another quantity, as 3 in the expression 3x.", "S": [], "A": []}

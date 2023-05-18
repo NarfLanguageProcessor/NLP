@@ -1,0 +1,1 @@
+{"index": 99920, "D": "any of a group of peptides occurring in the brain and other tissues of vertebrates, and resembling opiates, that react with the brain's opiate receptors to raise the pain threshold.", "S": [], "A": []}

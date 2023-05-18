@@ -1,0 +1,1 @@
+{"index": 115408, "D": "a crystalline mineral, Ca5(PO4)3F, formed from hydroxyapatite in the presence of fluoride, that has a hardening effect on bones and teeth.", "S": [], "A": []}

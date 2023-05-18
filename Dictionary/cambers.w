@@ -1,0 +1,1 @@
+{"index": 45592, "D": "to arch slightly; bend or curve upward in the middle.", "S": ["arc ", "arch ", "contour ", "loop ", "trajectory "], "A": ["line "]}

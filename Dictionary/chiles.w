@@ -1,0 +1,1 @@
+{"index": 54333, "D": "the pod of any of several species of Capsicum, especially C. annuum longum", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367373, "D": "a notched stick used by Australian Aboriginal peoples to propel spears or darts.", "S": [], "A": []}

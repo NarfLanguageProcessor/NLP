@@ -1,0 +1,1 @@
+{"index": 200606, "D": "a metal or plastic piece at the end of an arrow, having a notch for the bowstring.", "S": ["cleft ", "cut ", "gap ", "gash ", "groove ", "incision ", "indent ", "indenture ", "mark ", "mill ", "nick ", "rabbet ", "rut ", "score ", "scratch "], "A": ["closing ", "closure "]}

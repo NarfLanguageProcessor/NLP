@@ -1,0 +1,1 @@
+{"index": 348804, "D": "capable of being pulverized; pulverizable.", "S": [], "A": []}

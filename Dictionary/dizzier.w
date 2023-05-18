@@ -1,0 +1,1 @@
+{"index": 90481, "D": "having a sensation of whirling and a tendency to fall; giddy; vertiginous. ", "S": ["dazed ", "distracted ", "dumb ", "giddy ", "groggy ", "shaky ", "wobbly ", "woozy "], "A": ["steady ", "clear "]}

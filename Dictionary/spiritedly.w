@@ -1,0 +1,1 @@
+{"index": 300101, "D": "having or showing mettle, courage, vigor, liveliness, etc.", "S": ["ardently ", "assiduously ", "carefully ", "diligently ", "eagerly ", "earnestly ", "energetically ", "enthusiastically ", "hastily ", "hurriedly ", "laboriously ", "nimbly ", "painstakingly ", "purposefully ", "restlessly ", "vigorously "], "A": ["idly ", "inactively ", "quietly "]}

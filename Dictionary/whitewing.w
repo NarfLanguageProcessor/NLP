@@ -1,0 +1,1 @@
+{"index": 365198, "D": "a person who wears a white  uniform, especially a public street cleaner.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149524, "D": [], "S": ["assertive ", "bellicose ", "belligerent ", "militaristic ", "vigorous ", "warring "], "A": ["compliant ", "peaceful ", "submissive ", "tolerant "]}

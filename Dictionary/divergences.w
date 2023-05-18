@@ -1,0 +1,1 @@
+{"index": 90234, "D": "the act, fact, or amount of diverging", "S": ["discrepancy ", "disparity ", "distinction ", "diversity "], "A": ["sameness ", "similarity ", "conformity ", "uniformity "]}

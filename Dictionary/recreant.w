@@ -1,0 +1,1 @@
+{"index": 263575, "D": "cowardly or craven.", "S": ["apostate ", "base ", "craven ", "low ", "skulking ", "timid ", "yellow ", "yielding "], "A": ["bold ", "brave ", "honest ", "moral ", "strong "]}

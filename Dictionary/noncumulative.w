@@ -1,0 +1,1 @@
+{"index": 202648, "D": "of or relating to preferred stock the dividends of which are skipped and not accrued.", "S": [], "A": []}

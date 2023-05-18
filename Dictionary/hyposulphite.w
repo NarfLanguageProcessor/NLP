@@ -1,0 +1,1 @@
+{"index": 141232, "D": "Often shortened to", "S": [], "A": []}

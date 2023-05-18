@@ -1,0 +1,1 @@
+{"index": 155171, "D": "to diversify by adding or interjecting something unique, striking, or contrasting (usually followed by with)", "S": [], "A": []}

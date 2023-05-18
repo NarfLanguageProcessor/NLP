@@ -1,0 +1,1 @@
+{"index": 254026, "D": "dry food, as hay or oats, for livestock or other domestic animals; fodder.", "S": ["chow ", "feed ", "fodder ", "forage ", "grain ", "hay ", "oats ", "provisions ", "straw ", "viands "], "A": []}

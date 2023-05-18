@@ -1,0 +1,1 @@
+{"index": 360018, "D": "swift and intense force", "S": ["assault ", "attack ", "bloodshed ", "brutality ", "clash ", "confusion ", "cruelty ", "disorder ", "disturbance ", "fighting ", "rampage ", "struggle ", "terrorism "], "A": ["calm ", "health ", "kindness ", "method ", "niceness ", "order ", "organization ", "peace ", "surrender ", "system ", "calmness ", "peacefulness "]}

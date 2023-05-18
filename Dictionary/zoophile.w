@@ -1,0 +1,1 @@
+{"index": 369905, "D": "a person who is devoted to animals and their protection from practices such as vivisection", "S": [], "A": []}

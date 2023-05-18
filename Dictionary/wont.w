@@ -1,0 +1,1 @@
+{"index": 367081, "D": "accustomed; used (usually followed by an infinitive)", "S": ["given "], "A": []}

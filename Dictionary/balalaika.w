@@ -1,0 +1,1 @@
+{"index": 26677, "D": "a Russian musical instrument having a triangular body and a neck like that of a guitar.", "S": [], "A": []}

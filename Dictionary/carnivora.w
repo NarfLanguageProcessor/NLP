@@ -1,0 +1,1 @@
+{"index": 48252, "D": "the order of placental mammals comprising the carnivorans  and noted for much diversity in habitats, sizes of species, and diets", "S": [], "A": []}

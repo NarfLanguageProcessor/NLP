@@ -1,0 +1,1 @@
+{"index": 329141, "D": "composed of or marked with triangles. ", "S": [], "A": []}

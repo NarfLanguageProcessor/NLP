@@ -1,0 +1,1 @@
+{"index": 304773, "D": "serving to contract organic tissue; astringent; binding.", "S": [], "A": []}

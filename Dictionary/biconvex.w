@@ -1,0 +1,1 @@
+{"index": 33463, "D": "convex  on both sides, as a lens.", "S": ["bulging "], "A": ["concave ", "depressed ", "sinking "]}

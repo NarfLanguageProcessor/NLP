@@ -1,0 +1,1 @@
+{"index": 269175, "D": "the state or fact of resembling;  similarity.", "S": ["affinity ", "closeness ", "coincidence ", "comparison ", "kinship ", "parallel "], "A": ["difference ", "divergence ", "disagreement ", "dissimilarity ", "unlikeness "]}

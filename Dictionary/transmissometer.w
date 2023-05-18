@@ -1,0 +1,1 @@
+{"index": 328109, "D": "an instrument for measuring visibility or the transmission  of light in the atmosphere.", "S": [], "A": []}

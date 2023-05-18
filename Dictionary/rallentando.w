@@ -1,0 +1,1 @@
+{"index": 260210, "D": "slackening; becoming slower (used as a musical direction).", "S": [], "A": []}

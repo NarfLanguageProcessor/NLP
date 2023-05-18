@@ -1,0 +1,1 @@
+{"index": 53059, "D": "to inflict suffering upon for purposes of moral improvement; chastise. ", "S": ["penalize "], "A": ["aid ", "approve ", "comfort ", "compliment ", "encourage ", "exonerate ", "extol ", "flatter ", "forgive ", "help ", "inspirit ", "laud ", "let go ", "praise ", "promote ", "protect ", "release ", "reward "]}

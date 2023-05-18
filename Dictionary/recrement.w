@@ -1,0 +1,1 @@
+{"index": 263597, "D": "a secretion, as saliva, that is reabsorbed by the body.", "S": ["dregs ", "impurity ", "lees ", "refuse ", "scoria ", "scum ", "sediment ", "slag ", "trash ", "waste "], "A": ["assets ", "possessions "]}

@@ -1,0 +1,1 @@
+{"index": 204040, "D": "fictitious; imaginary.", "S": [], "A": []}

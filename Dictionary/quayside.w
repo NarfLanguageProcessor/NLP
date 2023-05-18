@@ -1,0 +1,1 @@
+{"index": 257823, "D": "the area bordering and around a quay or quays.", "S": [], "A": []}

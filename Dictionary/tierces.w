@@ -1,0 +1,1 @@
+{"index": 323394, "D": "an old measure of capacity equivalent to one third of a pipe, or 42 wine gallons.", "S": [], "A": []}

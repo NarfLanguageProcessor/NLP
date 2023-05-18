@@ -1,0 +1,1 @@
+{"index": 79226, "D": "respectful submission or yielding to the judgment, opinion, will, etc., of another.", "S": ["yielding "], "A": ["fight "]}

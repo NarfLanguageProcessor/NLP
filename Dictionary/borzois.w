@@ -1,0 +1,1 @@
+{"index": 38548, "D": "any of a breed of tall, slender dogs having long, silky hair, raised originally in Russia for hunting wolves.", "S": [], "A": []}

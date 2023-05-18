@@ -1,0 +1,1 @@
+{"index": 68941, "D": "a chain of mountains, usually the principal mountain system or mountain axis of a large landmass.", "S": [], "A": []}

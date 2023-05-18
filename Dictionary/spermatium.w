@@ -1,0 +1,1 @@
+{"index": 299212, "D": "the nonmotile male gamete of a red alga.", "S": [], "A": []}

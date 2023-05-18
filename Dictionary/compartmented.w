@@ -1,0 +1,1 @@
+{"index": 64436, "D": "a part or space marked or partitioned off.", "S": ["apportioned ", "compartmental ", "constituent ", "dismembered ", "dispersed ", "divided ", "fragmentary ", "frationary ", "incomplete ", "parceled ", "part ", "piecemeal ", "sectional ", "segmented "], "A": ["all ", "entire ", "total "]}

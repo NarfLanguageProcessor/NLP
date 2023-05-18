@@ -1,0 +1,1 @@
+{"index": 316022, "D": "a hybrid citrus fruit, Citrus tangelo, that is a cross between the grapefruit and the tangerine  and is cultivated in several varieties.", "S": [], "A": []}

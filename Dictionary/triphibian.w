@@ -1,0 +1,1 @@
+{"index": 330348, "D": "skilled in combat equally on land, sea, and in the air.", "S": [], "A": []}

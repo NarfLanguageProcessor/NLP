@@ -1,0 +1,1 @@
+{"index": 208259, "D": "not capable of living, growing, and developing, as an embryo, seed, or plant.", "S": [], "A": []}

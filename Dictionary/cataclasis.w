@@ -1,0 +1,1 @@
+{"index": 49192, "D": "a process of deformation or metamorphism in which the grains of a rock are fractured and rotated.", "S": [], "A": []}

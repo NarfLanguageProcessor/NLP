@@ -1,0 +1,1 @@
+{"index": 220327, "D": "close; to a point or place not far away", "S": [], "A": []}

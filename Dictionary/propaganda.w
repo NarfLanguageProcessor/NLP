@@ -1,0 +1,1 @@
+{"index": 252500, "D": "information, ideas, or rumors deliberately spread widely to help or harm a person, group, movement, institution, nation, etc.", "S": ["disinformation ", "hype ", "indoctrination ", "publicity "], "A": ["truth "]}

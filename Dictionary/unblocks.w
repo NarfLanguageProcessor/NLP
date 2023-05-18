@@ -1,0 +1,1 @@
+{"index": 335982, "D": "to remove a block  or obstruction from", "S": ["ameliorate ", "disentangle ", "unclog "], "A": ["burden ", "corrupt ", "darken ", "depress ", "dirty ", "dull ", "fill ", "keep ", "load ", "pollute ", "sanction ", "upset "]}

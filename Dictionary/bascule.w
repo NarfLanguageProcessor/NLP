@@ -1,0 +1,1 @@
+{"index": 28482, "D": "a device operating like a balance or seesaw, especially an arrangement of a movable bridge (bascule bridge ) by which the rising floor or section is counterbalanced by a weight.", "S": [], "A": []}

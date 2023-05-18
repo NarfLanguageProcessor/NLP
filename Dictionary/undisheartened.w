@@ -1,0 +1,1 @@
+{"index": 340520, "D": "having one\u2019s hope, courage, or spirits depressed; discouraged or demoralized", "S": [], "A": []}

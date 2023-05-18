@@ -1,0 +1,1 @@
+{"index": 360544, "D": "one of the first motion-picture projectors, developed by Thomas Edison.", "S": [], "A": []}

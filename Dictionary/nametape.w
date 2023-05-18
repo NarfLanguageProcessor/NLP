@@ -1,0 +1,1 @@
+{"index": 196704, "D": "a fabric tape on which a person's name is written, woven, or printed", "S": [], "A": []}

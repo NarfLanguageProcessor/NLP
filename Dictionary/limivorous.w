@@ -1,0 +1,1 @@
+{"index": 172414, "D": "of or relating to animals, usually worms or bivalves, that ingest earth or mud to extract the organic matter from it.", "S": [], "A": []}

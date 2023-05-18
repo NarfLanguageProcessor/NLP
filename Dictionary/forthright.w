@@ -1,0 +1,1 @@
+{"index": 117658, "D": "going straight to the point; frank; direct; outspoken", "S": ["blunt ", "candid ", "categorical ", "outspoken ", "plainspoken ", "sincere "], "A": ["tactful ", "tricky "]}

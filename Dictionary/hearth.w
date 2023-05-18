@@ -1,0 +1,1 @@
+{"index": 134854, "D": "the floor of a fireplace, usually of stone, brick, etc., often extending a short distance into a room.", "S": ["fireplace "], "A": []}

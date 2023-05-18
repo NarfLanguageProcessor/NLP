@@ -1,0 +1,1 @@
+{"index": 338643, "D": "depressed in spirits; disheartened; low-spirited", "S": [], "A": []}

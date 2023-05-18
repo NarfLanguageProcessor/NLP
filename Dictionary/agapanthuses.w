@@ -1,0 +1,1 @@
+{"index": 5889, "D": "any of several plants of the genus Agapanthus, of the amaryllis family, native to Africa, having sword-shaped leaves and umbels of blue or white flowers.", "S": [], "A": []}

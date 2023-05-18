@@ -1,0 +1,1 @@
+{"index": 73058, "D": "any of several species of the toothwort Dentaria, esp D. diphylla of E North America, which has a fleshy pungent rhizome and clusters of white or pinkish flowers", "S": [], "A": []}

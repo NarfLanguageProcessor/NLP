@@ -1,0 +1,1 @@
+{"index": 342990, "D": "a man  of good family, breeding, or social position.", "S": ["crude ", "impolite ", "inconsiderate ", "indecent ", "insensitive ", "loutish ", "rough ", "unchivalrous ", "uncivil ", "unrefined ", "vulgar "], "A": ["gentlemanly ", "polite ", "refined "]}

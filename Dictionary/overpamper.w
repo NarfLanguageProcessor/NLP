@@ -1,0 +1,1 @@
+{"index": 220438, "D": "to treat or gratify with extreme or excessive indulgence, kindness, or care", "S": [], "A": []}

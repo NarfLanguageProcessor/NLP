@@ -1,0 +1,1 @@
+{"index": 287649, "D": "a very thin piece or slice, especially of wood.", "S": ["rubble "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132184, "D": "any of various oceanic birds of the northern Atlantic coasts of Europe and America, especially the greater shearwater. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 345387, "D": "in a way that involves or requires much effort, exertion, care, or attention to detail", "S": [], "A": []}

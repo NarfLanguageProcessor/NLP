@@ -1,0 +1,1 @@
+{"index": 221258, "D": "economical (often followed by in or of).", "S": [], "A": []}

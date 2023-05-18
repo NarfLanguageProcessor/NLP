@@ -1,0 +1,1 @@
+{"index": 284491, "D": "pertaining to, containing, or consisting of semen.", "S": ["influential "], "A": []}

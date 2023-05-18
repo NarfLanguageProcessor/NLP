@@ -1,0 +1,1 @@
+{"index": 341810, "D": "in a way that is clearly expressed, demonstrated, or formulated", "S": [], "A": []}

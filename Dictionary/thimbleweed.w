@@ -1,0 +1,1 @@
+{"index": 321802, "D": "any of several plants having a thimble-shaped fruiting head, especially either of two white-flowered North American plants, Anemone riparia or A. virginiana.", "S": [], "A": []}

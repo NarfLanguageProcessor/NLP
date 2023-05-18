@@ -1,0 +1,1 @@
+{"index": 102790, "D": "a disk with a sector removed that when rotated in front of a light source allows the periodic passage of flashes of light", "S": [], "A": []}

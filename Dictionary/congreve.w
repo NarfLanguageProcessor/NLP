@@ -1,0 +1,1 @@
+{"index": 66275, "D": "English dramatist.", "S": ["Congreve match ", "Vesta ", "fusee ", "locofoco ", "lucifer match ", "safety match ", "vesuvian "], "A": []}

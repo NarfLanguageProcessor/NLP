@@ -1,0 +1,1 @@
+{"index": 6932, "D": "a system for transporting persons or cargo by aircraft, especially in an emergency.", "S": ["air freight "], "A": []}

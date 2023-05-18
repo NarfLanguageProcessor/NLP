@@ -1,0 +1,1 @@
+{"index": 322329, "D": "the god of thunder, rain, and farming, represented as riding a chariot drawn by goats and wielding the hammer Mjolnir", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 368006, "D": "a small furrow or crease in the skin, especially of the face, as from aging or frowning.", "S": ["rumpled ", "unironed "], "A": ["unwrinkled "]}

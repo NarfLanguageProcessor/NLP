@@ -1,0 +1,1 @@
+{"index": 26771, "D": "a silk brocade interwoven with gold or silver threads, used chiefly for ceremonial purposes.", "S": [], "A": []}

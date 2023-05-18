@@ -1,0 +1,1 @@
+{"index": 57733, "D": "cynical  disposition, character, or belief.", "S": ["bitterness ", "distrust ", "doubt ", "pessimism ", "sarcasm "], "A": ["belief ", "certainty ", "confidence ", "faith ", "trust "]}

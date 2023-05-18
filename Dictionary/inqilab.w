@@ -1,0 +1,1 @@
+{"index": 153286, "D": "(in India, Pakistan, etc) revolution (esp in the phrase inqilab zindabad long live the revolution)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294873, "D": "any plant belonging to the genus Smilax, of the lily family, growing in tropical and temperate zones, consisting mostly of vines having woody stems.", "S": [], "A": []}

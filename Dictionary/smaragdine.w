@@ -1,0 +1,1 @@
+{"index": 294720, "D": "of or relating to emeralds.", "S": [], "A": []}

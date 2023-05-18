@@ -1,0 +1,1 @@
+{"index": 64158, "D": "a sharing of features or characteristics in common;  possession or manifestation of common  attributes.", "S": ["common ", "commonalty ", "commoner ", "pleb ", "plebeian ", "populace ", "public "], "A": []}

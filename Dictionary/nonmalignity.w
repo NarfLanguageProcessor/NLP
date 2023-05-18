@@ -1,0 +1,1 @@
+{"index": 205133, "D": "the state or character of being malign;  malevolence; intense ill will; spite.", "S": [], "A": []}

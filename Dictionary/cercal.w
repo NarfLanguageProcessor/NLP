@@ -1,0 +1,1 @@
+{"index": 51328, "D": "of or relating to a tail", "S": [], "A": []}

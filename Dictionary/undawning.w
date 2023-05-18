@@ -1,0 +1,1 @@
+{"index": 338410, "D": "daybreak; dawn. ", "S": [], "A": []}

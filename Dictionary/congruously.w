@@ -1,0 +1,1 @@
+{"index": 66294, "D": "exhibiting harmony of parts.", "S": [], "A": []}

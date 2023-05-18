@@ -1,0 +1,1 @@
+{"index": 283532, "D": "a plant, Prunella vulgaris, of the mint family, having pinnate leaves and tubular violet-blue flowers, formerly believed to have healing properties.", "S": [], "A": []}

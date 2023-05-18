@@ -1,0 +1,1 @@
+{"index": 25154, "D": "the pin, bar, shaft, or the like, on which or by means of which a wheel or pair of wheels rotates.", "S": [], "A": []}

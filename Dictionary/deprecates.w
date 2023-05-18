@@ -1,0 +1,1 @@
+{"index": 81808, "D": "to express earnest disapproval of", "S": ["depreciate ", "derogate ", "detract ", "discountenance ", "disesteem ", "disfavor ", "disparage ", "expostulate ", "frown ", "object ", "pooh-pooh ", "rip "], "A": ["approve ", "commend ", "compliment ", "increase ", "laud ", "praise ", "sanction "]}

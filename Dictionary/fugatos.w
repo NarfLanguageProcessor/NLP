@@ -1,0 +1,1 @@
+{"index": 119812, "D": "a section of a composition that is in fugal style but does not constitute a real fugue. ", "S": [], "A": []}

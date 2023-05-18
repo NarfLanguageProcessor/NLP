@@ -1,0 +1,1 @@
+{"index": 316167, "D": "a salt of tannic acid.", "S": [], "A": []}

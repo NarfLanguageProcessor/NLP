@@ -1,0 +1,1 @@
+{"index": 6905, "D": "any surface, as a wing, aileron, or stabilizer, designed to aid in lifting or controlling an aircraft by making use of the air currents through which it moves.", "S": ["appendage ", "flipper ", "pinna "], "A": []}

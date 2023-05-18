@@ -1,0 +1,1 @@
+{"index": 135264, "D": "careless; thoughtless; unmindful", "S": ["inattentive ", "reckless "], "A": ["attentive ", "careful ", "caring ", "cautious ", "concerned ", "heedful ", "observant ", "thoughtful "]}

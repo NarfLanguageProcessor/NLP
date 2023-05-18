@@ -1,0 +1,1 @@
+{"index": 182369, "D": "a large bone-marrow cell having a lobulate nucleus, regarded as the source of blood platelets.", "S": [], "A": []}

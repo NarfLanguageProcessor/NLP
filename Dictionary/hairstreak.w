@@ -1,0 +1,1 @@
+{"index": 132455, "D": "any small, dark butterfly of the family Lycaenidae, having hairlike tails on the hind wings.", "S": [], "A": []}

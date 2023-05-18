@@ -1,0 +1,1 @@
+{"index": 303978, "D": "magnetic tape  used for recording and reproducing sound stereophonically.", "S": [], "A": []}

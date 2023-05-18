@@ -1,0 +1,1 @@
+{"index": 135220, "D": "a row of bushes or trees forming a hedge.", "S": ["fence ", "shrubbery "], "A": ["opening "]}

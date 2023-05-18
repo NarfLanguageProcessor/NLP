@@ -1,0 +1,1 @@
+{"index": 114635, "D": "to draw back or shrink, as from what is dangerous, difficult, or unpleasant.", "S": [], "A": []}

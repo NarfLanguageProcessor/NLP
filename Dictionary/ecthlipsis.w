@@ -1,0 +1,1 @@
+{"index": 95476, "D": "loss of a consonant, especially, in Latin, loss of a final m before a word beginning with a vowel or h.", "S": [], "A": []}

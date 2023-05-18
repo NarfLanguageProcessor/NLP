@@ -1,0 +1,1 @@
+{"index": 247881, "D": "to follow or endeavor to follow as a model or example", "S": [], "A": []}

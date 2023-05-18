@@ -1,0 +1,1 @@
+{"index": 265113, "D": "to cast back (light, heat, sound, etc.) from a surface", "S": ["echoed ", "emulated ", "imitated ", "repeated ", "reproduced ", "returned "], "A": []}

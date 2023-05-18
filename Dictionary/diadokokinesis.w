@@ -1,0 +1,1 @@
+{"index": 84105, "D": "the normal ability to perform rapidly alternating muscular movements, as flexion and extension.", "S": [], "A": []}

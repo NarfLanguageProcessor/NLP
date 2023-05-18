@@ -1,0 +1,1 @@
+{"index": 330876, "D": "a sharp-pointed instrument enclosed in a cannula, used for withdrawing fluid from a cavity, as the abdominal cavity.", "S": [], "A": []}

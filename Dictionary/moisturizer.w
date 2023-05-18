@@ -1,0 +1,1 @@
+{"index": 191361, "D": "a cosmetic preparation, as a cream or lotion, used to restore moisture to the skin, especially of the face and neck.", "S": ["balm ", "ointment ", "salve "], "A": []}

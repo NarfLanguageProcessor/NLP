@@ -1,0 +1,1 @@
+{"index": 175344, "D": "a person, team, nation, etc., that loses", "S": ["also-ran ", "underdog "], "A": ["success "]}

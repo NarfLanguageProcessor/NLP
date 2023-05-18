@@ -1,0 +1,1 @@
+{"index": 111007, "D": "a peasant or laborer in Arabic-speaking countries, especially Egypt.", "S": [], "A": []}

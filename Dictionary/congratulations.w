@@ -1,0 +1,1 @@
+{"index": 66231, "D": "expressions of pleasure or joy; felicitations", "S": ["compliments ", "felicitations ", "greetings ", "hail "], "A": ["commiseration ", "condolences ", "criticism "]}

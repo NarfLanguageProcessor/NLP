@@ -1,0 +1,1 @@
+{"index": 300819, "D": "a person who vouches or is responsible for a person or thing.", "S": ["allotment ", "allowance ", "donation ", "funding ", "grant ", "provision ", "stipend ", "subsidy "], "A": ["bestowal ", "giving ", "keeping ", "refusal ", "rejection ", "return "]}

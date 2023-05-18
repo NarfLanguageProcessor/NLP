@@ -1,0 +1,1 @@
+{"index": 65180, "D": "in a way that pertains to concepts,  ideas, theories, mental constructs or models, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309422, "D": "a young person approaching the teens  or adolescence.", "S": [], "A": []}

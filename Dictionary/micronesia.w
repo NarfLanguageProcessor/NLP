@@ -1,0 +1,1 @@
+{"index": 186310, "D": "one of the three principal divisions of Oceania, comprising the small Pacific islands north of the equator and east of the Philippines, whose main groups are the Mariana Islands, the Caroline Islands, and the Marshall Islands.", "S": [], "A": []}

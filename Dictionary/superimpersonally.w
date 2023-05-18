@@ -1,0 +1,1 @@
+{"index": 312008, "D": "not personal; without reference or connection to a particular person", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 142219, "D": "a long-handled implement having a thin, flat blade usually set transversely, used to break up the surface of the ground, destroy weeds, etc.", "S": [], "A": []}

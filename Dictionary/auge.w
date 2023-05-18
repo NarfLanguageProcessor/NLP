@@ -1,0 +1,1 @@
+{"index": 23355, "D": "a daughter of King Aleus who became a priestess of Athena. After being raped by Hercules she bore a son, Telephus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62755, "D": "either of two North American plants, Aletris farinosa or A. aurea, of the lily family, having small yellow or white flowers in a spikelike cluster and a root  reputed to relieve colic. ", "S": [], "A": []}

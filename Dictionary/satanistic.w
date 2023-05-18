@@ -1,0 +1,1 @@
+{"index": 278657, "D": "a person who engages in any of a highly diverse group of religious, philosophical, or countercultural practices centered around Satan,  either as a deity or a nontheistic symbol of enlightenment, individualism, or ethical egoism.", "S": [], "A": []}

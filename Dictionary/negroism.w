@@ -1,0 +1,1 @@
+{"index": 198110, "D": "the doctrine or advocacy of equal rights for Black people.", "S": [], "A": []}

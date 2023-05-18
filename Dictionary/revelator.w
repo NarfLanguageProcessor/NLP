@@ -1,0 +1,1 @@
+{"index": 271141, "D": "a person who makes a revelation.", "S": [], "A": []}

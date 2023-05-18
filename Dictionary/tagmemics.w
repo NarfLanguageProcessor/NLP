@@ -1,0 +1,1 @@
+{"index": 315273, "D": "a school of linguistics deriving from American structuralism based on the work of Kenneth Lee Pike and using the tagmeme  as the basic unit of grammatical analysis.", "S": ["alphabet ", "syntax "], "A": []}

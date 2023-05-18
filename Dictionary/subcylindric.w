@@ -1,0 +1,1 @@
+{"index": 307428, "D": "of, relating to, or having the form of a cylinder. ", "S": [], "A": []}

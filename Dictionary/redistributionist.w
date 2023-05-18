@@ -1,0 +1,1 @@
+{"index": 264299, "D": "a person who believes in, advocates, or supports income redistribution. ", "S": [], "A": []}

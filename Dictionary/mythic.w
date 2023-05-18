@@ -1,0 +1,1 @@
+{"index": 190484, "D": "pertaining to, of the nature of, or involving a myth. ", "S": ["allegorical ", "fanciful ", "imaginary ", "legendary ", "whimsical "], "A": ["factual ", "real ", "true "]}

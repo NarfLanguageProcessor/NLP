@@ -1,0 +1,1 @@
+{"index": 97945, "D": [], "S": ["mutilation ", "sterilization "], "A": []}

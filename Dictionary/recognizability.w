@@ -1,0 +1,1 @@
+{"index": 263063, "D": "to identify as something or someone previously seen, known, etc.", "S": [], "A": []}

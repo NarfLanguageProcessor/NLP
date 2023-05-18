@@ -1,0 +1,1 @@
+{"index": 63888, "D": "a command  or mandate.", "S": ["edict ", "precept "], "A": []}

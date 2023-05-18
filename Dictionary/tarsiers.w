@@ -1,0 +1,1 @@
+{"index": 316733, "D": "any member of the three genera (Carlito, Cephalopachus, Tarsius) of the family Tarsiidae, inhabiting Indonesia, the Philippines, and other Southeast Asian islands, characterized as a small, arboreal, nocturnal primate with velvety fur, very large eyes, a long tail, and very long hind limbs", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100066, "D": "any play,  usually near the end  of a contract, that puts one of the opposing players in the lead and forces the opponents to lose one or more tricks that they would have won if their side had not been leading.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307082, "D": "pointed; tapering to a point.", "S": [], "A": []}

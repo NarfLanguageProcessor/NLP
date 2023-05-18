@@ -1,0 +1,1 @@
+{"index": 26407, "D": "a compound noun or adjective consisting of two constituents, the first of which is adjectival and describes the person or object denoted by the second, which is nominal", "S": [], "A": []}

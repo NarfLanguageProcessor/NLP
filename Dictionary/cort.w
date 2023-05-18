@@ -1,0 +1,1 @@
+{"index": 69827, "D": "(in prescriptions) the bark.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152797, "D": "a set of initials representing a name, organization, or the like, with each letter pronounced separately, as FBI for Federal Bureau of Investigation.", "S": [], "A": []}

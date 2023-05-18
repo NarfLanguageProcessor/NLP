@@ -1,0 +1,1 @@
+{"index": 96153, "D": "king of the West Saxons 802\u2013839; 1st king of the English 828\u2013839.", "S": [], "A": []}

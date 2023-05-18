@@ -1,0 +1,1 @@
+{"index": 162378, "D": "any old or discarded material, as metal, paper, or rags.", "S": ["damaged "], "A": ["cherished "]}

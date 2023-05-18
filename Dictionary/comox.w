@@ -1,0 +1,1 @@
+{"index": 64330, "D": "a member of a Salishan Native Canadian people living on Vancouver Island", "S": [], "A": []}

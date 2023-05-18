@@ -1,0 +1,1 @@
+{"index": 303819, "D": [], "S": ["boost ", "escalate ", "hasten ", "improve ", "increase ", "intensify ", "quicken ", "raise ", "speed "], "A": ["decrease ", "diminish ", "halt ", "hurt ", "lessen ", "lower ", "slow ", "weaken "]}

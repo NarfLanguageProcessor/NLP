@@ -1,0 +1,1 @@
+{"index": 43211, "D": "a person or thing that burns. ", "S": ["heater ", "lamp "], "A": []}

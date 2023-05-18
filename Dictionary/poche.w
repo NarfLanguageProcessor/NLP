@@ -1,0 +1,1 @@
+{"index": 240916, "D": "the walls, columns, and other solids of a building or the like, as indicated on an architectural plan, usually in black.", "S": [], "A": []}

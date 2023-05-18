@@ -1,0 +1,1 @@
+{"index": 73877, "D": "situated or traveling in a direction extending across a town  or city", "S": [], "A": []}

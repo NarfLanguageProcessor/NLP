@@ -1,0 +1,1 @@
+{"index": 239410, "D": "(of a frequency distribution) less concentrated about the mean than the corresponding normal distribution.", "S": [], "A": []}

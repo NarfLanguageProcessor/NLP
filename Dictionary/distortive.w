@@ -1,0 +1,1 @@
+{"index": 89864, "D": "to twist awry or out of shape; make crooked or deformed", "S": [], "A": []}

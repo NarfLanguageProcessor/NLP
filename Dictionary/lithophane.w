@@ -1,0 +1,1 @@
+{"index": 173742, "D": "a transparency made of thin porcelain or bone china having an intaglio design.", "S": [], "A": []}

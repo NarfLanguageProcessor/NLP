@@ -1,0 +1,1 @@
+{"index": 218946, "D": "excessively or unduly determined. ", "S": [], "A": []}

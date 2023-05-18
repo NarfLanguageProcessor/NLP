@@ -1,0 +1,1 @@
+{"index": 110339, "D": "a fat person (used as a term of address).", "S": [], "A": []}

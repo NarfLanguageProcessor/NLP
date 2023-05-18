@@ -1,0 +1,1 @@
+{"index": 261319, "D": "uncooked, as articles of food", "S": ["basic ", "coarse ", "crude ", "fresh ", "natural ", "organic ", "rough ", "uncooked ", "undercooked ", "unprocessed ", "untreated "], "A": ["gentle ", "nice ", "polished ", "polite ", "refined ", "smooth ", "sophisticated ", "unnatural "]}

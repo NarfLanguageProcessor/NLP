@@ -1,0 +1,1 @@
+{"index": 329225, "D": "a spindle or mandrel used in making rings, tubes, etc", "S": [], "A": []}

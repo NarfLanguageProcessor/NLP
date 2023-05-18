@@ -1,0 +1,1 @@
+{"index": 257792, "D": "a Scottish drinking cup of the 17th and 18th centuries having a shallow bowl with two or three flat handles.", "S": [], "A": []}

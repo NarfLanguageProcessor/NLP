@@ -1,0 +1,1 @@
+{"index": 126295, "D": "any of the class of compounds that yield a sugar and an aglycon upon hydrolysis.", "S": [], "A": []}

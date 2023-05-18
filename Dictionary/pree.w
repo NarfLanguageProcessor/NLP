@@ -1,0 +1,1 @@
+{"index": 247175, "D": "a test, trial, or taste; a test by sampling.", "S": [], "A": []}

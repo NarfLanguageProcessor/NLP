@@ -1,0 +1,1 @@
+{"index": 48270, "D": "Sir Antony. born 1924, British sculptor, best known for his abstract steel sculptures", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268544, "D": "the sum or amount of money or its equivalent for which anything is bought, sold, or offered for sale.", "S": [], "A": []}

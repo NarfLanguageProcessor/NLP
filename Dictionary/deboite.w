@@ -1,0 +1,1 @@
+{"index": 77802, "D": "a step in which the dancer stands on the toes with legs together and then springs up, swinging one foot out and around to the back of the other.", "S": [], "A": []}

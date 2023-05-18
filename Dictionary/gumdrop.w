@@ -1,0 +1,1 @@
+{"index": 131262, "D": "a small candy made of gum arabic,  gelatin, or the like, sweetened and flavored.", "S": [], "A": []}

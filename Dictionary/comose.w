@@ -1,0 +1,1 @@
+{"index": 64325, "D": "hairy; comate.", "S": ["cespitose ", "feathered ", "wispy "], "A": []}

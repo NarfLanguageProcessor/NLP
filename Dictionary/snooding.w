@@ -1,0 +1,1 @@
+{"index": 295672, "D": "the distinctive headband formerly worn by young unmarried women in Scotland and northern England.", "S": [], "A": []}

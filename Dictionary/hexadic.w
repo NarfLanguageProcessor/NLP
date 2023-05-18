@@ -1,0 +1,1 @@
+{"index": 137926, "D": "the number six.", "S": ["hexagonal ", "semestral ", "senary ", "sextuple "], "A": []}

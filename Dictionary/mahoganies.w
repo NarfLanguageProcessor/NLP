@@ -1,0 +1,1 @@
+{"index": 177707, "D": "any of several tropical American trees of the genus Swietenia, especially S. mahagoni and S. macrophylla, yielding hard, reddish-brown wood used for making furniture.", "S": [], "A": []}

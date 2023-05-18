@@ -1,0 +1,1 @@
+{"index": 220677, "D": "to pronounce  (a word, syllable, etc.) in an exaggerated, affected, or excessively careful manner.", "S": [], "A": []}

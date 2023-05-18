@@ -1,0 +1,1 @@
+{"index": 302646, "D": "an upright bar, beam, post, or support, as in a window, stall, ship, etc.", "S": [], "A": []}

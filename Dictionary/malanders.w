@@ -1,0 +1,1 @@
+{"index": 178253, "D": "a dry, scabby or scurfy eruption or scratch behind the knee in a horse's foreleg.", "S": [], "A": []}

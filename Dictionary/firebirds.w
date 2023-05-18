@@ -1,0 +1,1 @@
+{"index": 113112, "D": "any of several small birds  having bright red or orange plumage, especially the Baltimore oriole.", "S": [], "A": []}

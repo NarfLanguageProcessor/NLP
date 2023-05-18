@@ -1,0 +1,1 @@
+{"index": 58176, "D": "to sail or fly around; make the circuit of by navigation", "S": ["bypass ", "circle ", "circumvent ", "compass ", "skirt "], "A": []}

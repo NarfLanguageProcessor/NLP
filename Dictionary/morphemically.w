@@ -1,0 +1,1 @@
+{"index": 193560, "D": "Compare allomorph (def. 2), morph (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69266, "D": "one of two defensive backs  positioned in the secondary between the linebackers and safeties, responsible for covering the outside areas near the sidelines against end runs and pass plays.", "S": [], "A": []}

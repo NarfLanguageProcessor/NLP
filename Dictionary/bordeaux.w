@@ -1,0 +1,1 @@
+{"index": 38363, "D": "a seaport in and the capital of Gironde, in SW France, on the Garonne River.", "S": [], "A": []}

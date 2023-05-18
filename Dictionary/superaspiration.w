@@ -1,0 +1,1 @@
+{"index": 311392, "D": "a strong desire, longing, or aim; ambition", "S": [], "A": []}

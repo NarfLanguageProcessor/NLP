@@ -1,0 +1,1 @@
+{"index": 282771, "D": "next after the first; being the ordinal number for two.", "S": ["alternative ", "double ", "duplicate ", "extra ", "following ", "further ", "inferior ", "lower ", "place ", "repeated ", "reproduction ", "runner-up ", "secondary ", "succeeding ", "supporting ", "twin "], "A": ["first-class ", "first-rate ", "important ", "superior "]}

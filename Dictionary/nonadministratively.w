@@ -1,0 +1,1 @@
+{"index": 201143, "D": "pertaining to administration;  executive", "S": [], "A": []}

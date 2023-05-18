@@ -1,0 +1,1 @@
+{"index": 271190, "D": "the income of a government from taxation, excise duties, customs, or other sources, appropriated to the payment of the public expenses.", "S": ["credit ", "dividend ", "earnings ", "fund ", "gain ", "interest ", "pay ", "proceeds ", "receipt ", "return ", "salary ", "stock ", "wealth ", "yield "], "A": ["debt ", "loss "]}

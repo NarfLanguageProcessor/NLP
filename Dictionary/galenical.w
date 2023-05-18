@@ -1,0 +1,1 @@
+{"index": 121219, "D": "an herb or other vegetable drug, distinguished from a mineral or chemical drug.", "S": [], "A": []}

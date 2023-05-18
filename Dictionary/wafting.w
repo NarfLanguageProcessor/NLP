@@ -1,0 +1,1 @@
+{"index": 361804, "D": "to carry lightly and smoothly through the air or over water", "S": ["soaring "], "A": ["submerged ", "sunk "]}

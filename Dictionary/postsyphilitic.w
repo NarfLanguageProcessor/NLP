@@ -1,0 +1,1 @@
+{"index": 244488, "D": "pertaining to, noting, or affected with syphilis. ", "S": [], "A": []}

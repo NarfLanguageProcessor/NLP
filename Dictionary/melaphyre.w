@@ -1,0 +1,1 @@
+{"index": 182783, "D": "a type of dark igneous rock embedded with feldspar crystals, related to basalt.", "S": [], "A": []}

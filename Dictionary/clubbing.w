@@ -1,0 +1,1 @@
+{"index": 60629, "D": "the activity of going to nightclubs, especially to dance to popular music, drink, and socialize", "S": ["business ", "staff "], "A": []}

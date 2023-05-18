@@ -1,0 +1,1 @@
+{"index": 188180, "D": "the surgical removal of a myoma,  especially the excision of a fibroid tumor from the uterus.", "S": [], "A": []}

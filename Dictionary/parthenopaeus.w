@@ -1,0 +1,1 @@
+{"index": 226978, "D": "a son of Hippomenes and Atalanta, and one of the Seven against Thebes.", "S": [], "A": []}

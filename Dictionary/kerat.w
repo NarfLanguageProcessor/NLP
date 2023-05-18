@@ -1,0 +1,1 @@
+{"index": 163900, "D": "a combining form meaning \u201chorn,\u201d \u201ccornea,\u201d used in the formation of compound words", "S": [], "A": []}

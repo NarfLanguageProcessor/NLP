@@ -1,0 +1,1 @@
+{"index": 198356, "D": "a member of the Junggrammatiker.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359526, "D": "a means of providing a written or graphical representation of computerized information on a television screen", "S": [], "A": []}

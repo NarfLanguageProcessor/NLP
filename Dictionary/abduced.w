@@ -1,0 +1,1 @@
+{"index": 284, "D": "to draw or take away; abduct.", "S": [], "A": []}

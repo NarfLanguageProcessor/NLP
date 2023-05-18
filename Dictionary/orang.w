@@ -1,0 +1,1 @@
+{"index": 213943, "D": "a variant of orangutan. ", "S": ["chimpanzee ", "gibbon ", "gorilla ", "humanoid ", "monkey ", "orangutan ", "primate "], "A": []}

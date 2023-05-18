@@ -1,0 +1,1 @@
+{"index": 348672, "D": "to discontinue a session of (the British Parliament or a similar body).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41097, "D": "a street in New York City, famous for its theaters, restaurants, and bright lights.", "S": [], "A": []}

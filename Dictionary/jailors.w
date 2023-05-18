@@ -1,0 +1,1 @@
+{"index": 160172, "D": "a person who is in charge of a jail  or section of a jail. ", "S": ["administrator ", "caretaker ", "curator ", "superintendent "], "A": ["prisoner "]}

@@ -1,0 +1,1 @@
+{"index": 212436, "D": "portending evil or harm; foreboding; threatening; inauspicious", "S": [], "A": []}

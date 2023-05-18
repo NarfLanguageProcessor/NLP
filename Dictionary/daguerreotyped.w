@@ -1,0 +1,1 @@
+{"index": 76227, "D": "an obsolete photographic process, invented in 1839, in which a picture made on a silver surface sensitized with iodine was developed by exposure to mercury vapor.", "S": [], "A": []}

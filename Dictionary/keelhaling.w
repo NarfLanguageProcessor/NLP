@@ -1,0 +1,1 @@
+{"index": 163553, "D": "to haul (an offender) under the bottom of a ship and up on the other side as a punishment.", "S": [], "A": []}

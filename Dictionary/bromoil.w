@@ -1,0 +1,1 @@
+{"index": 41319, "D": "an offset reproduction produced by the bromoil process. ", "S": [], "A": []}

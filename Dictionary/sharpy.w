@@ -1,0 +1,1 @@
+{"index": 287557, "D": "a variant of sharpie. ", "S": ["active person ", "aholic ", "ambitious person ", "ball of fire ", "beaver ", "busy bee ", "busy person ", "doer ", "dynamo ", "fireball ", "go-getter ", "hot shot ", "live wire ", "no slouch ", "pistol ", "self-starter ", "spark plug ", "workhorse "], "A": []}

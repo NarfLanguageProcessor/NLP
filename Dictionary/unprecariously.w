@@ -1,0 +1,1 @@
+{"index": 348267, "D": "in an unstable, uncertain, or insecure way", "S": [], "A": []}

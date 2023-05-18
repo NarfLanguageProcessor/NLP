@@ -1,0 +1,1 @@
+{"index": 191726, "D": "any of several S Asian pheasants of the genus Lophophorus, the males of which have a brilliantly coloured plumage", "S": [], "A": []}

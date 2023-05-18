@@ -1,0 +1,1 @@
+{"index": 118221, "D": "a part broken off or detached", "S": ["disintegrate ", "splinter "], "A": ["combine ", "fix ", "join ", "mend ", "unite "]}

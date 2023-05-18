@@ -1,0 +1,1 @@
+{"index": 221218, "D": "simple past tense and past participle of oversell. ", "S": ["exaggerate ", "magnify ", "overestimate ", "overvalue "], "A": ["play down "]}

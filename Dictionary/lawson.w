@@ -1,0 +1,1 @@
+{"index": 169395, "D": "of or relating to a style of overstuffed sofa or chair that is boxy in shape, with square back and seat cushions and broad, square or rounded arms that are lower in height than the back", "S": [], "A": []}

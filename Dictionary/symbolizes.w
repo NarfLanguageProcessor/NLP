@@ -1,0 +1,1 @@
+{"index": 290792, "D": "to be a symbol  of; stand for or represent in the manner of a symbol. ", "S": ["embody ", "epitomize ", "exemplify ", "illustrate ", "indicate ", "mean ", "mirror ", "personify ", "signify ", "suggest ", "typify "], "A": ["hide "]}

@@ -1,0 +1,1 @@
+{"index": 282394, "D": "a member of the construction battalions of the U.S. Navy, established in December, 1941, to build landing facilities, airfields, etc., in combat areas.", "S": [], "A": []}

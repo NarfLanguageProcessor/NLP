@@ -1,0 +1,1 @@
+{"index": 71510, "D": "a small indentation or recess in the shoreline of a sea, lake, or river.", "S": ["anchorage ", "arm ", "bay ", "bayou ", "bight ", "cave ", "cavern ", "creek ", "estuary ", "firth ", "gulf ", "harbor ", "hole ", "lagoon ", "nook ", "retreat ", "slough ", "sound ", "wash "], "A": []}

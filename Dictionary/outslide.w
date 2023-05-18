@@ -1,0 +1,1 @@
+{"index": 217486, "D": "to move along in continuous contact with a smooth or slippery surface", "S": [], "A": []}

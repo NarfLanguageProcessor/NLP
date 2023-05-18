@@ -1,0 +1,1 @@
+{"index": 26404, "D": "a medieval French chest for household goods, originally small and portable.", "S": [], "A": []}

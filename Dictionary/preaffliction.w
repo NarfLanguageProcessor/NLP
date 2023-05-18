@@ -1,0 +1,1 @@
+{"index": 245615, "D": "a state of pain, distress, or grief; misery", "S": [], "A": []}

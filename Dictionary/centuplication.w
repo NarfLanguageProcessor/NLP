@@ -1,0 +1,1 @@
+{"index": 51062, "D": "to increase 100 times; centuple.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205726, "D": "readily or plainly seen, heard, perceived, etc.; obvious; evident", "S": [], "A": []}

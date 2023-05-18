@@ -1,0 +1,1 @@
+{"index": 219288, "D": "something that permits the easier performance of an action, course of conduct, etc.", "S": [], "A": []}

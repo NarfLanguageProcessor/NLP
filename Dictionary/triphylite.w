@@ -1,0 +1,1 @@
+{"index": 330352, "D": "a mineral, a rare phosphate of lithium, iron, and manganese, usually occurring in masses of a bluish or greenish color.", "S": [], "A": []}

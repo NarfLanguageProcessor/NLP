@@ -1,0 +1,1 @@
+{"index": 214974, "D": "representing correctly the relations of colors as found in a subject; isochromatic.", "S": [], "A": []}

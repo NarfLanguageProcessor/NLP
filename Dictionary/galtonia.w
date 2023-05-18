@@ -1,0 +1,1 @@
+{"index": 121512, "D": "any plant of the bulbous genus Galtonia, esp G. candicans, with lanceolate leaves, drooping racemes of waxy white flowers, and a fragrant scent", "S": [], "A": []}

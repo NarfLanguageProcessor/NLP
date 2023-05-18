@@ -1,0 +1,1 @@
+{"index": 94303, "D": "cathedral, especially in Italy.", "S": [], "A": []}

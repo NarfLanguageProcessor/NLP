@@ -1,0 +1,1 @@
+{"index": 350704, "D": "not segregated,  especially not subject to racial division; integrated", "S": [], "A": []}

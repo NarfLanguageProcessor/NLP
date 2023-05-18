@@ -1,0 +1,1 @@
+{"index": 210445, "D": "no longer in general use; fallen into disuse", "S": ["abandonment ", "desuetude ", "disuse ", "neglect "], "A": []}

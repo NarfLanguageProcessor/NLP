@@ -1,0 +1,1 @@
+{"index": 296310, "D": "to subject to sodomy;  commit sodomy  upon.", "S": [], "A": []}

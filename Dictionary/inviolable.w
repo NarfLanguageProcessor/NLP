@@ -1,0 +1,1 @@
+{"index": 157243, "D": "prohibiting violation; secure from destruction, violence, infringement, or desecration", "S": ["sacrosanct "], "A": []}

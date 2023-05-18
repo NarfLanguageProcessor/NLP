@@ -1,0 +1,1 @@
+{"index": 42226, "D": "Compare bison, Cape buffalo, water buffalo. ", "S": ["affect ", "awe ", "excite ", "faze ", "inspire ", "sway ", "thrill ", "touch "], "A": ["discourage ", "bear ", "bore ", "calm ", "create ", "delight ", "depress ", "dissuade ", "fail ", "give birth ", "leave alone ", "lose ", "miss ", "please ", "stop "]}

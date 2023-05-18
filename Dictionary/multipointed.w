@@ -1,0 +1,1 @@
+{"index": 195285, "D": "having a point  or points", "S": [], "A": []}

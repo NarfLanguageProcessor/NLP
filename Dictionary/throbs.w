@@ -1,0 +1,1 @@
+{"index": 322754, "D": "to beat with increased force or rapidity, as the heart under the influence of emotion or excitement; palpitate. ", "S": ["flutter ", "pulse ", "resonate ", "tremble ", "vibrate "], "A": []}

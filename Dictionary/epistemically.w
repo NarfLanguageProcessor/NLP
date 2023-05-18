@@ -1,0 +1,1 @@
+{"index": 102841, "D": "of or relating to knowledge or the conditions for acquiring it.", "S": [], "A": []}

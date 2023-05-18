@@ -1,0 +1,1 @@
+{"index": 204997, "D": "liabilities as detailed on a balance sheet, especially in relation to assets and capital.", "S": ["immunity "], "A": ["denial ", "prohibition ", "veto "]}

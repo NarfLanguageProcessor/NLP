@@ -1,0 +1,1 @@
+{"index": 85010, "D": "a brand name for a telephonic device with a highly sensitive transmitter obviating the necessity of a mouthpiece", "S": [], "A": []}

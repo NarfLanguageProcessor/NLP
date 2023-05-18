@@ -1,0 +1,1 @@
+{"index": 255506, "D": "the body of knowledge, theories, and techniques developed for understanding and influencing individual, group, and societal behavior in specified situations.", "S": [], "A": []}

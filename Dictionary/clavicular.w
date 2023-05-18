@@ -1,0 +1,1 @@
+{"index": 59567, "D": "a bone of the pectoral arch.", "S": [], "A": []}

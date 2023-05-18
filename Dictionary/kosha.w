@@ -1,0 +1,1 @@
+{"index": 166132, "D": "any of the five layers of physical and mental being composing the personal self, Atman being within the innermost layer.", "S": [], "A": []}

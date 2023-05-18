@@ -1,0 +1,1 @@
+{"index": 306216, "D": "characterized by or acting in close conformity to requirements or principles", "S": ["draconian ", "exacting ", "harsh ", "rigid ", "rigorous ", "scrupulous ", "severe ", "stern ", "stringent ", "tough "], "A": ["easy ", "easy-going ", "facile ", "flexible ", "gentle ", "kind ", "lenient ", "mild ", "nice ", "soft ", "tolerant "]}

@@ -1,0 +1,1 @@
+{"index": 143121, "D": "a member of a 4th-century a.d. church party that maintained that the essence of the Son is similar to, but not the same as, that of the Father.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293258, "D": "any of numerous lizards of the family Scincidae, common in many regions of the Old and New World, typically having flat, smooth, overlapping scales and comprising terrestrial, arboreal, and fossorial species.", "S": [], "A": []}

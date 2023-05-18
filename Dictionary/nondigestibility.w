@@ -1,0 +1,1 @@
+{"index": 203088, "D": "capable of being digested;  readily digested. ", "S": [], "A": []}

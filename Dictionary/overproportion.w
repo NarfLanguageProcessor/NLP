@@ -1,0 +1,1 @@
+{"index": 220682, "D": "to make or measure in excess of the correct, normal, or desired proportion. ", "S": [], "A": []}

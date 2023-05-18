@@ -1,0 +1,1 @@
+{"index": 104198, "D": "to abstain or keep away from; shun; avoid", "S": ["abandonment ", "abstinence ", "forbearance ", "refusal ", "rejection ", "relinquishment ", "renunciation ", "sacrifice ", "self-denial ", "surrender ", "temperance "], "A": ["allowance ", "approval ", "excess ", "indulgence ", "intemperance ", "sanction ", "self-indulgence "]}

@@ -1,0 +1,1 @@
+{"index": 288374, "D": "a North American plant, Pyrola elliptica, having leaves  used formerly for shinplasters.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40407, "D": "a wind or current of air, especially a light or moderate one.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67082, "D": "to draw or press in; cause to contract or shrink; compress.", "S": ["cramped ", "definite ", "limited ", "precarious ", "precise ", "slender ", "slim ", "small ", "thin ", "tight "], "A": ["fat ", "free ", "giving ", "imprecise ", "indefinite ", "inexact ", "loose ", "open ", "strong ", "unlimited ", "away ", "far ", "poor ", "thick ", "unfixed "]}

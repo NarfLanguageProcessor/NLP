@@ -1,0 +1,1 @@
+{"index": 120321, "D": "a person who creates or seeks fun,  as a comedian or reveler.", "S": ["buffoon ", "comedian ", "comic ", "fool ", "jester ", "mime ", "prankster "], "A": []}

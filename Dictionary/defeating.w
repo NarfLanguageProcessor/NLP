@@ -1,0 +1,1 @@
+{"index": 79132, "D": "to overcome in a contest, election, battle, etc.; prevail over; vanquish", "S": ["annexation ", "invasion ", "occupation ", "rout ", "subjugation ", "takeover "], "A": ["surrender ", "failure ", "forfeit ", "loss "]}

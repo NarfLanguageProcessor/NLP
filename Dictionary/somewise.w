@@ -1,0 +1,1 @@
+{"index": 297080, "D": "by some  means; somehow.", "S": [], "A": []}

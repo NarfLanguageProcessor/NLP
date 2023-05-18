@@ -1,0 +1,1 @@
+{"index": 359060, "D": "a decorative front piece worn under a woman's jacket or blouse so as to be visible at the neckline.", "S": [], "A": []}

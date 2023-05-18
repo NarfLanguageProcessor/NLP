@@ -1,0 +1,1 @@
+{"index": 239042, "D": "the art or technique of printing from a flat surface directly or by offset.", "S": [], "A": []}

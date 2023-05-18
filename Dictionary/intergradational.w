@@ -1,0 +1,1 @@
+{"index": 155018, "D": "the act or process of intergrading  or the state of being intergraded. ", "S": [], "A": []}

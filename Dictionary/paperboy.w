@@ -1,0 +1,1 @@
+{"index": 225155, "D": "a youth or man who sells newspapers on the street or delivers them to homes; newsboy.", "S": [], "A": []}

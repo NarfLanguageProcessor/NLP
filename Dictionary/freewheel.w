@@ -1,0 +1,1 @@
+{"index": 118673, "D": "a device in the transmission of a motor vehicle that automatically disengages the drive shaft whenever it begins to turn more rapidly than the engine.", "S": ["cruise ", "drift ", "sail ", "skate "], "A": []}

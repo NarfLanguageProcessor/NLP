@@ -1,0 +1,1 @@
+{"index": 188131, "D": "a threadlike filament  of actin or myosin that is a component of a myofibril.", "S": [], "A": []}

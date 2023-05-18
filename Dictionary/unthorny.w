@@ -1,0 +1,1 @@
+{"index": 352929, "D": "abounding in or characterized by thorns;  spiny; prickly.", "S": [], "A": []}

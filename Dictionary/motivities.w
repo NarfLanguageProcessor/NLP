@@ -1,0 +1,1 @@
+{"index": 194014, "D": "the power of initiating or producing motion.", "S": ["driving force ", "electromotive force ", "kinetic energy ", "locomotion ", "means of propulsion ", "prime mover ", "propulsion "], "A": []}

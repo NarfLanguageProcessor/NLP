@@ -1,0 +1,1 @@
+{"index": 26754, "D": "a plain-knit cotton fabric, used especially in hosiery and underwear.", "S": [], "A": []}

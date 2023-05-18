@@ -1,0 +1,1 @@
+{"index": 52039, "D": "a Buddhist shrine in India; stupa.", "S": [], "A": []}

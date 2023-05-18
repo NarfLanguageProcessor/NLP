@@ -1,0 +1,1 @@
+{"index": 258743, "D": "a tall crop plant, Chenopodium quinoa, of the amaranth family, cultivated mainly in Peru, Bolivia, and Chile for its small, ivory-colored seed, which is used as a food staple.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45106, "D": "a cup-shaped structure, as in the coral skeleton", "S": [], "A": []}

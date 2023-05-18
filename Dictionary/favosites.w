@@ -1,0 +1,1 @@
+{"index": 110518, "D": "any of numerous corals of the extinct genus Favosites, most common during the Silurian and Devonian periods, having polygonal cells with rows of pores in the walls.", "S": [], "A": []}

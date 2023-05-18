@@ -1,0 +1,1 @@
+{"index": 253444, "D": "to stretch forth.", "S": ["bulge ", "bulge out ", "jut out ", "poke out ", "protrude ", "stand out "], "A": ["depress "]}

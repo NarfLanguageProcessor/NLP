@@ -1,0 +1,1 @@
+{"index": 340535, "D": "to remove or force out of a particular place", "S": [], "A": []}

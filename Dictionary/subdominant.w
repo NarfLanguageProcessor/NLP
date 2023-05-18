@@ -1,0 +1,1 @@
+{"index": 307810, "D": "the fourth tone of a diatonic scale, next below the dominant. ", "S": [], "A": []}

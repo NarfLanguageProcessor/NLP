@@ -1,0 +1,1 @@
+{"index": 96103, "D": "a brilliant radiance; a shining forth.", "S": ["blaze ", "brilliance ", "dazzle ", "luster ", "radiance ", "splendor "], "A": ["dullness "]}

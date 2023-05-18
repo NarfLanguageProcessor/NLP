@@ -1,0 +1,1 @@
+{"index": 230200, "D": "a variant of peplos. ", "S": [], "A": []}

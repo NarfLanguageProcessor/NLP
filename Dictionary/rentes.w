@@ -1,0 +1,1 @@
+{"index": 267773, "D": "revenue or income, or the instrument evidencing a right to such periodic receipts.", "S": [], "A": []}

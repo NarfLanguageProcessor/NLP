@@ -1,0 +1,1 @@
+{"index": 314866, "D": "a number of sheets of writing paper, business forms, etc., fastened together at the edge; pad.", "S": [], "A": []}

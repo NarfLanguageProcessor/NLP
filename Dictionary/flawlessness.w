@@ -1,0 +1,1 @@
+{"index": 114255, "D": "having no defects or faults, especially none that diminish the value of something", "S": [], "A": []}

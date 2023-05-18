@@ -1,0 +1,1 @@
+{"index": 41664, "D": "a white moth, Nygmia phaerrhoea, having a brown tuft at the end of the abdomen, the larvae of which feed on the foliage of various shade and fruit trees.", "S": [], "A": []}

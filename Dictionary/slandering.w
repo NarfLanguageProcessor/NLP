@@ -1,0 +1,1 @@
+{"index": 293631, "D": "defamation; calumny", "S": ["defamation ", "disparagement ", "libel ", "misrepresentation ", "smear "], "A": ["approval ", "commendation ", "compliment ", "praise ", "flattery "]}

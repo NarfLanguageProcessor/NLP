@@ -1,0 +1,1 @@
+{"index": 165094, "D": "a fragrant, colorless, unaged brandy distilled from a fermented mash of cherries, produced especially in Germany, Switzerland, and Alsace, France.", "S": [], "A": []}

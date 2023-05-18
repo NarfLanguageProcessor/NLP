@@ -1,0 +1,1 @@
+{"index": 33192, "D": "having two axes.", "S": [], "A": []}

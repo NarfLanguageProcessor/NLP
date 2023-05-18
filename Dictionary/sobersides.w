@@ -1,0 +1,1 @@
+{"index": 296062, "D": "a humorless or habitually serious person.", "S": [], "A": []}

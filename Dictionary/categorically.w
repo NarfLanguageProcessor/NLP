@@ -1,0 +1,1 @@
+{"index": 49535, "D": "without exception; unconditionally; absolutely", "S": ["actually ", "definitely ", "doubtless ", "exactly ", "positively ", "precisely ", "really ", "surely ", "truly ", "unconditionally ", "unquestionably "], "A": ["doubtfully ", "dubiously ", "questionably ", "uncertain "]}

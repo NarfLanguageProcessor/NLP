@@ -1,0 +1,1 @@
+{"index": 207264, "D": "characterized by or exhibiting symmetry; well-proportioned, as a body or whole; regular in form or arrangement of corresponding parts.", "S": ["excessive ", "inordinate ", "superfluous ", "unequal ", "unreasonable "], "A": ["moderate ", "reasonable "]}

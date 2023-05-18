@@ -1,0 +1,1 @@
+{"index": 220083, "D": "to lie over or upon, as a covering or stratum.", "S": ["extending ", "projecting ", "protruding "], "A": []}

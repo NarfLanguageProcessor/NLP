@@ -1,0 +1,1 @@
+{"index": 218196, "D": "the separating of any material or abstract entity into its constituent elements (opposed to synthesis).", "S": [], "A": []}

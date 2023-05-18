@@ -1,0 +1,1 @@
+{"index": 239433, "D": "of or containing platinum,  especially in the tetravalent state.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39730, "D": "a product of one's creative work or thought.", "S": ["contrivance ", "creation ", "discovery ", "idea ", "innovation ", "inspiration ", "plan ", "product "], "A": []}

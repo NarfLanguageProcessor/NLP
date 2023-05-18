@@ -1,0 +1,1 @@
+{"index": 54290, "D": "the circumstance or situation of a woman giving birth to a child;  parturition", "S": ["birthing ", "childbearing ", "childbirth ", "delivery ", "labor ", "lying-in ", "parturition "], "A": []}

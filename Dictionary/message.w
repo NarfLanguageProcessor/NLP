@@ -1,0 +1,1 @@
+{"index": 184460, "D": "a communication containing some information, news, advice, request, or the like, sent by messenger, telephone, email, or other means.", "S": ["directive ", "information ", "letter ", "memo ", "memorandum ", "news ", "note ", "notice ", "report ", "word "], "A": ["heedlessness ", "ignorance ", "neglect ", "silence "]}

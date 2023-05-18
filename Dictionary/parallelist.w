@@ -1,0 +1,1 @@
+{"index": 225743, "D": "a person who seeks or makes a comparison.", "S": [], "A": []}

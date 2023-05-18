@@ -1,0 +1,1 @@
+{"index": 130009, "D": "holding the attention or interest intensely; fascinating; enthralling", "S": [], "A": []}

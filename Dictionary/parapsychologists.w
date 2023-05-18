@@ -1,0 +1,1 @@
+{"index": 226016, "D": "the branch of psychology  that deals with the investigation of purportedly psychic phenomena, as clairvoyance, extrasensory perception, telepathy, and the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 31568, "D": "to treat (ore) to make more suitable for smelting.", "S": [], "A": []}

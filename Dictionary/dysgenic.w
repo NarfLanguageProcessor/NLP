@@ -1,0 +1,1 @@
+{"index": 88134, "D": "pertaining to or causing degeneration in the type of offspring produced.", "S": [], "A": []}

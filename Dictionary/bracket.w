@@ -1,0 +1,1 @@
+{"index": 39518, "D": "a support, as of metal or wood, projecting from a wall or the like to hold or bear the weight of a shelf, part of a cornice, etc.", "S": ["brace ", "cantilever ", "girder ", "joint ", "reinforcement ", "strut "], "A": []}

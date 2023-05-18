@@ -1,0 +1,1 @@
+{"index": 88587, "D": "to cause to become dim or indistinct.", "S": [], "A": []}

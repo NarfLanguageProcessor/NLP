@@ -1,0 +1,1 @@
+{"index": 296101, "D": "to make social;  make fit for life in companionship with others.", "S": [], "A": []}

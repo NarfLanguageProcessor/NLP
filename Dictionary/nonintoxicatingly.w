@@ -1,0 +1,1 @@
+{"index": 204849, "D": "causing or capable of causing intoxication", "S": [], "A": []}

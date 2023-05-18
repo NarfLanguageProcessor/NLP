@@ -1,0 +1,1 @@
+{"index": 200363, "D": "a process of casehardening in which nitrogen is introduced into the metal by keeping it at a suitable temperature in the presence of a nitrogen source.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96452, "D": "a small calcareous body, flat on one side and convex on the other, passed between the eye  and the eyelid to bring out cinders or other foreign matter.", "S": [], "A": []}

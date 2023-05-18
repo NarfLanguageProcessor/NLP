@@ -1,0 +1,1 @@
+{"index": 249720, "D": "of ample or considerable amount, quantity, size, etc.", "S": [], "A": []}

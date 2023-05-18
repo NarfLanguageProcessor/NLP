@@ -1,0 +1,1 @@
+{"index": 109620, "D": "a member of the Family of Love, a mystical Christian religious sect of the 16th and 17th centuries based upon love", "S": [], "A": []}

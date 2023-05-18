@@ -1,0 +1,1 @@
+{"index": 162194, "D": "full of juice;  succulent", "S": ["luscious ", "succulent ", "syrupy "], "A": ["dry "]}

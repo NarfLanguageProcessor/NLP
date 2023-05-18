@@ -1,0 +1,1 @@
+{"index": 53450, "D": "full of cheer;  in good spirits", "S": ["blithely ", "brightly ", "gaily ", "genially ", "gladly ", "gleefully ", "happily ", "joyfully ", "merrily ", "optimistically ", "playfully ", "pleasantly ", "readily ", "willingly "], "A": ["sadly ", "unhappily "]}

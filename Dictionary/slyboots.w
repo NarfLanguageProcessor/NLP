@@ -1,0 +1,1 @@
+{"index": 293997, "D": "an engagingly sly or mischievous person.", "S": ["Machiavellian ", "acute ", "deep ", "keen ", "knowing ", "sharp ", "slick ", "smart ", "smarts ", "smooth "], "A": ["aboveboard ", "blunt ", "coarse ", "dull ", "ignorant ", "obtuse ", "rough ", "slow ", "stupid ", "unintelligent ", "unstylish "]}

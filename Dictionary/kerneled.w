@@ -1,0 +1,1 @@
+{"index": 164036, "D": "the softer, usually edible part contained in the shell of a nut or the stone of a fruit.", "S": [], "A": []}

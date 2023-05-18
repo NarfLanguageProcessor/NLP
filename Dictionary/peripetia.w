@@ -1,0 +1,1 @@
+{"index": 231205, "D": "a sudden turn of events or an unexpected reversal, especially in a literary work.", "S": [], "A": []}

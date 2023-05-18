@@ -1,0 +1,1 @@
+{"index": 248205, "D": "denoting or applicable at a stage in the formation of a sentence at which words and phrases have not yet replaced all of the underlying grammatical and semantic material of that sentence in the speaker's mind", "S": [], "A": []}

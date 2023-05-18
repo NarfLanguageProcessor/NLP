@@ -1,0 +1,1 @@
+{"index": 110374, "D": "an Islamic religious decree issued by the \u02bfulama.", "S": [], "A": []}

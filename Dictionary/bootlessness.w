@@ -1,0 +1,1 @@
+{"index": 38268, "D": "without result, gain, or advantage; unavailing; useless.", "S": ["emptiness ", "frivolousness ", "fruitlessness ", "hollowness ", "idleness ", "ineffectiveness ", "ineffectuality ", "meaninglessness ", "pointlessness ", "senselessness ", "unprofitableness ", "uselessness ", "vainness ", "vanity ", "worthlessness "], "A": []}

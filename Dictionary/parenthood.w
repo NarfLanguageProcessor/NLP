@@ -1,0 +1,1 @@
+{"index": 226396, "D": "the state, position, or relation of a parent. ", "S": ["parentage "], "A": []}

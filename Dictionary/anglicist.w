@@ -1,0 +1,1 @@
+{"index": 12891, "D": "an authority on the English language or English literature.", "S": [], "A": []}

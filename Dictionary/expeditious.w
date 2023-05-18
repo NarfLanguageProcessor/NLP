@@ -1,0 +1,1 @@
+{"index": 107662, "D": "characterized by promptness; quick", "S": ["diligent ", "efficient ", "hasty ", "punctual ", "rapid ", "swift "], "A": ["delayed ", "lazy ", "slow "]}

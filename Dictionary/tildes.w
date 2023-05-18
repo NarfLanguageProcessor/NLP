@@ -1,0 +1,1 @@
+{"index": 323552, "D": "a diacritic (~) placed over an n, as in Spanish ma\u00f1ana, to indicate a palatal nasal sound or over a vowel, as in Portuguese s\u00e3o, to indicate nasalization.", "S": [], "A": []}

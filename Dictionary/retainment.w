@@ -1,0 +1,1 @@
+{"index": 270273, "D": "to keep possession of.", "S": ["care ", "conservation ", "preservation ", "supply ", "upkeep "], "A": ["destruction ", "neglect ", "negligence ", "end ", "entertainment ", "finish ", "fun ", "stop "]}

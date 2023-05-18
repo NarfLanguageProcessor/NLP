@@ -1,0 +1,1 @@
+{"index": 7454, "D": "members of a Catharistic sect in the south of France that arose in the 11th century and was exterminated in the 13th century by a crusade (Albigensian Crusade ) and the Inquisition.", "S": [], "A": []}

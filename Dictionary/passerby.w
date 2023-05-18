@@ -1,0 +1,1 @@
+{"index": 227306, "D": "a person passing by.", "S": ["eyewitness ", "observer ", "onlooker ", "spectator "], "A": ["participant "]}

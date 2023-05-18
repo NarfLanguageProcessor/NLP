@@ -1,0 +1,1 @@
+{"index": 101646, "D": "to catch in or as in a trap; ensnare", "S": ["enmesh ", "ensnare ", "entangle ", "entice ", "implicate ", "seduce "], "A": ["exclude ", "turn off ", "discourage ", "disenchant ", "disgust ", "dissuade ", "free ", "let go ", "lose ", "release ", "repulse "]}

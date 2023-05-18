@@ -1,0 +1,1 @@
+{"index": 5688, "D": "the owner of a yacht or his guests.", "S": [], "A": []}

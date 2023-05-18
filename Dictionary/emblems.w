@@ -1,0 +1,1 @@
+{"index": 98130, "D": "an object or its representation, symbolizing a quality, state, class of persons, etc.; symbol", "S": ["badge ", "banner ", "coat of arms ", "flag ", "image ", "insignia ", "logo ", "marker ", "memento ", "motto ", "reminder ", "symbol ", "trademark "], "A": []}

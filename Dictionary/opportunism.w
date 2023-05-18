@@ -1,0 +1,1 @@
+{"index": 213664, "D": "the policy or practice, as in politics, business, or one's personal affairs, of adapting actions, decisions, etc., to expediency or effectiveness regardless of the sacrifice of ethical principles.", "S": ["advantage ", "advantageousness ", "expedience ", "exploitation ", "opportunity ", "timeliness "], "A": []}

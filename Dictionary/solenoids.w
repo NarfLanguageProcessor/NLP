@@ -1,0 +1,1 @@
+{"index": 296657, "D": "an electric conductor wound as a helix with small pitch, or as two or more coaxial helices, so that current through the conductor establishes a magnetic field within the conductor.", "S": [], "A": []}

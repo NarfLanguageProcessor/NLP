@@ -1,0 +1,1 @@
+{"index": 94337, "D": "multiplication by two; doubling.", "S": [], "A": []}

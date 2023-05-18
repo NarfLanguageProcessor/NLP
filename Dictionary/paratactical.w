@@ -1,0 +1,1 @@
+{"index": 226146, "D": "the placing together of sentences, clauses, or phrases without a conjunctive word or words, as Hurry up, it is getting late! I came\u2014I saw\u2014I conquered.", "S": [], "A": []}

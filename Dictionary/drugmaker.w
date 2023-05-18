@@ -1,0 +1,1 @@
+{"index": 93515, "D": "a person or company that manufactures pharmaceutical products.", "S": [], "A": []}

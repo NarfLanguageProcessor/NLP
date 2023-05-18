@@ -1,0 +1,1 @@
+{"index": 341885, "D": "introduced or coming from without; not belonging or proper to a thing; external; foreign", "S": [], "A": []}

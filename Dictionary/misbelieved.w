@@ -1,0 +1,1 @@
+{"index": 188792, "D": "to believe  wrongly; hold an erroneous belief.", "S": ["disbelieve ", "discredit ", "mistrust "], "A": ["believe ", "trust "]}

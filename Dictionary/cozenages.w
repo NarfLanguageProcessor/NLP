@@ -1,0 +1,1 @@
+{"index": 71740, "D": "the practice of cozening. ", "S": ["betrayal ", "deceit ", "disinformation ", "duplicity ", "falsehood ", "fraud ", "hypocrisy ", "lying ", "mendacity ", "treachery ", "trickery ", "untruth "], "A": ["faithfulness ", "forthrightness ", "honesty ", "loyalty ", "sincerity ", "truth ", "openness "]}

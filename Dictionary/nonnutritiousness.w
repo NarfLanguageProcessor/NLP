@@ -1,0 +1,1 @@
+{"index": 205530, "D": "providing nourishment, especially to a high degree; nourishing; healthful", "S": [], "A": []}

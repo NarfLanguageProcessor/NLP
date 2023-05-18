@@ -1,0 +1,1 @@
+{"index": 162372, "D": "any evergreen, coniferous shrub or tree of the genus Juniperus, especially J. communis, having cones that resemble dark-blue or blackish berries used in flavoring gin and in medicine as a diuretic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 267629, "D": "to make neutral;  cause to undergo neutralization. ", "S": [], "A": []}

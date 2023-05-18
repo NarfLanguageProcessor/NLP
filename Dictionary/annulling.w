@@ -1,0 +1,1 @@
+{"index": 13655, "D": "(especially of laws or other established rules, usages, etc.) to make void or null; abolish; cancel; invalidate", "S": [], "A": []}

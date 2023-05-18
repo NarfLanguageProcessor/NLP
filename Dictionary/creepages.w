@@ -1,0 +1,1 @@
+{"index": 72552, "D": "the act or process of creeping. ", "S": [], "A": []}

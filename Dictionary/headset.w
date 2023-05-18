@@ -1,0 +1,1 @@
+{"index": 134703, "D": "a device consisting of one or two earphones with a headband for holding them over the ears and with a microphone attached, used for telephone calls or other spoken communication over distance", "S": ["attitude ", "disposition ", "mentality ", "mind-set ", "mood ", "outlook ", "perspective "], "A": []}

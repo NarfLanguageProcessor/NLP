@@ -1,0 +1,1 @@
+{"index": 354098, "D": "having great wealth;  rich; affluent", "S": [], "A": []}

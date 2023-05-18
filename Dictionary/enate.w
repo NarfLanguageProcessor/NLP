@@ -1,0 +1,1 @@
+{"index": 99098, "D": "Compare agnate, cognate. ", "S": [], "A": []}

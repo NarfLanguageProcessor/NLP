@@ -1,0 +1,1 @@
+{"index": 157625, "D": "being in that place or over there; being that or those over there", "S": ["yon "], "A": ["close ", "near ", "nearby "]}

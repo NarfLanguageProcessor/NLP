@@ -1,0 +1,1 @@
+{"index": 320722, "D": "a person who goes to the theater,  especially often or habitually.", "S": [], "A": []}

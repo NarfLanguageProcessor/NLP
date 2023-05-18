@@ -1,0 +1,1 @@
+{"index": 221932, "D": "bearing eggs.", "S": [], "A": []}

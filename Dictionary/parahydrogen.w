@@ -1,0 +1,1 @@
+{"index": 225657, "D": "the form of molecular hydrogen  in which the nuclei of the two hydrogen  atoms contained in the molecule have spins in opposite directions.", "S": [], "A": []}

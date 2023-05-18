@@ -1,0 +1,1 @@
+{"index": 153222, "D": "not within proper or reasonable limits; immoderate; excessive", "S": ["disproportionate ", "dizzying ", "exorbitant ", "irrational ", "unconscionable ", "undue ", "unreasonable ", "unwarranted "], "A": ["cheap ", "logical ", "low ", "moderate ", "reasonable ", "sensible "]}

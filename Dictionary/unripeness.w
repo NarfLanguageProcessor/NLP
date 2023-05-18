@@ -1,0 +1,1 @@
+{"index": 349987, "D": "not ripe; immature; not fully developed", "S": [], "A": []}

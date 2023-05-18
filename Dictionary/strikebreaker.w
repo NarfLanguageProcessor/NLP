@@ -1,0 +1,1 @@
+{"index": 306302, "D": "a person who takes part in breaking up a strike  of workers, either by working or by furnishing workers.", "S": [], "A": []}

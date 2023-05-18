@@ -1,0 +1,1 @@
+{"index": 204510, "D": "of or relating to ideology. ", "S": [], "A": []}

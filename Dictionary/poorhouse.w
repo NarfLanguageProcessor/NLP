@@ -1,0 +1,1 @@
+{"index": 243172, "D": "(formerly) an institution in which paupers were maintained at public expense.", "S": [], "A": []}

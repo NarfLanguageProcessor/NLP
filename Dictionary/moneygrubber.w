@@ -1,0 +1,1 @@
+{"index": 191841, "D": "a person who is aggressively engaged in or preoccupied with making or saving money.", "S": ["golddigger ", "self-server ", "tufthunter "], "A": []}

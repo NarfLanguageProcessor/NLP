@@ -1,0 +1,1 @@
+{"index": 345418, "D": "formed of or set in thin layers or laminae.", "S": [], "A": []}

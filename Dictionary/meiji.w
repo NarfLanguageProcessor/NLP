@@ -1,0 +1,1 @@
+{"index": 182596, "D": "the designation of the period of the reign of Emperor Mutsuhito from 1868 to 1912.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 275714, "D": "German Royalist general and admiral in the English Civil War (nephew of Charles I of England).", "S": [], "A": []}

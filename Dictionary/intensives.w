@@ -1,0 +1,1 @@
+{"index": 154389, "D": "of, relating to, or characterized by intensity", "S": [], "A": []}

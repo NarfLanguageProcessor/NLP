@@ -1,0 +1,1 @@
+{"index": 9417, "D": "in addition; too; besides; as well", "S": ["again ", "further ", "likewise ", "more ", "still ", "too "], "A": []}

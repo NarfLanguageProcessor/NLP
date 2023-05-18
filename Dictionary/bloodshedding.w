@@ -1,0 +1,1 @@
+{"index": 36474, "D": "destruction of life, as in war or murder; slaughter.", "S": [], "A": []}

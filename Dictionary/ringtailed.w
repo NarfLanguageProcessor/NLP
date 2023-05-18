@@ -1,0 +1,1 @@
+{"index": 273077, "D": "having the tail ringed with alternating colors, as a raccoon.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49695, "D": "(in an Ionic capital) the vertical guideline through the eye of a volute, from which the form of the volute is determined.", "S": [], "A": []}

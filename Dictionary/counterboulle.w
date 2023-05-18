@@ -1,0 +1,1 @@
+{"index": 70687, "D": "contre-partie. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238954, "D": "the outline of an object viewed from above.", "S": [], "A": []}

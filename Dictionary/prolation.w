@@ -1,0 +1,1 @@
+{"index": 252058, "D": "the time relationship between a semibreve and a minim in mensural notation.", "S": [], "A": []}

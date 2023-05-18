@@ -1,0 +1,1 @@
+{"index": 72966, "D": "to charge with a crime. ", "S": ["accuse ", "blame ", "incriminate ", "inculpate ", "recriminate "], "A": ["exculpate ", "exonerate ", "praise "]}

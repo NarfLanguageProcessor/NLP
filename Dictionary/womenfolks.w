@@ -1,0 +1,1 @@
+{"index": 367011, "D": "women  in general; all women.", "S": ["womanhood ", "womankind ", "womenfolk "], "A": []}

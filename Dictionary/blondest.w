@@ -1,0 +1,1 @@
+{"index": 36411, "D": "(of hair, skin, etc.) light-colored", "S": ["albino ", "auricomous ", "bleached ", "champagne ", "fair ", "fair-haired ", "flaxen ", "golden-haired ", "light ", "pale ", "pearly ", "platinum ", "sallow ", "sandy-haired ", "snowy ", "straw ", "strawberry ", "towheaded ", "washed-out ", "yellow-haired "], "A": ["brunet ", "brunette "]}

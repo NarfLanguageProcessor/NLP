@@ -1,0 +1,1 @@
+{"index": 283545, "D": "lack of preoccupation with one\u2019s own interests, advancement, desires, etc., and attentiveness to those of others; unselfishness", "S": ["benevolence ", "humanitarianism ", "kindness "], "A": ["egoism ", "selfishness "]}

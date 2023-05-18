@@ -1,0 +1,1 @@
+{"index": 167369, "D": "a lazy or idle person; loafer.", "S": ["beachcomber ", "deadbeat ", "do-nothing ", "good-for-nothing ", "goof-off ", "idler ", "lazybones ", "loafer ", "lounger ", "malingerer ", "ne'er-do-well ", "shirker ", "slacker ", "slouch ", "slugabed ", "sluggard ", "sponger ", "wanderer ", "waster ", "wastrel "], "A": ["hard worker "]}

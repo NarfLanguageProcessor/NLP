@@ -1,0 +1,1 @@
+{"index": 177060, "D": "a stretch of speech preceded and followed but not interrupted by a pause.", "S": [], "A": []}

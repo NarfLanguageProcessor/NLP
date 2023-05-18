@@ -1,0 +1,1 @@
+{"index": 60493, "D": "a basket  for holding and carrying laundry.", "S": ["hamper ", "laundry hamper "], "A": []}

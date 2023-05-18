@@ -1,0 +1,1 @@
+{"index": 126030, "D": "a greenish micaceous mineral consisting essentially of a hydrous silicate of potassium, aluminum, and iron and occurring in greensand, clays, etc.", "S": [], "A": []}

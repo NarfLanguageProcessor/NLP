@@ -1,0 +1,1 @@
+{"index": 287977, "D": "a hard outer covering of an animal, as the hard case of a mollusk, or either half of the case of a bivalve mollusk.", "S": ["blast ", "bombardment ", "fusillade ", "gunfire ", "hail ", "salvo ", "shower ", "storm ", "volley "], "A": []}

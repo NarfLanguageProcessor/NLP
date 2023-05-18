@@ -1,0 +1,1 @@
+{"index": 165748, "D": "(in humans) any of the bones  forming a knuckle  of a finger.", "S": [], "A": []}

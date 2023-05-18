@@ -1,0 +1,1 @@
+{"index": 142360, "D": "overly sentimental; mawkish", "S": ["banal ", "commonplace ", "dull ", "feeble ", "hackneyed ", "mawkish ", "old hat ", "old-fashioned ", "sentimental ", "shopworn ", "stale ", "trite "], "A": []}

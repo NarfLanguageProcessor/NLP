@@ -1,0 +1,1 @@
+{"index": 39209, "D": "outward curvature of the legs  causing a separation of the knees when the ankles are close or in contact.", "S": [], "A": []}

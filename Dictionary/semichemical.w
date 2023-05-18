@@ -1,0 +1,1 @@
+{"index": 283882, "D": "a substance produced by or used in a chemical process.", "S": [], "A": []}

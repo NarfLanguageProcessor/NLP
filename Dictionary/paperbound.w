@@ -1,0 +1,1 @@
+{"index": 225157, "D": "a book bound in a flexible paper  cover, often a lower-priced edition of a hardcover book.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309056, "D": "a plan of procedure, usually written, for a proposed objective, especially with reference to the sequence of and time allotted for each item or operation necessary to its completion", "S": [], "A": []}

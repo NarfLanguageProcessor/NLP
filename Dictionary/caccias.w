@@ -1,0 +1,1 @@
+{"index": 44058, "D": "a 14th-century Italian vocal form for two voices in canon plus an independent tenor, with a text describing the hunt or the cries and noises of village life.", "S": [], "A": []}

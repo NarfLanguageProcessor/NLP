@@ -1,0 +1,1 @@
+{"index": 57509, "D": "an inflorescence in which the primary axis bears a single central or terminal flower that blooms first.", "S": [], "A": []}

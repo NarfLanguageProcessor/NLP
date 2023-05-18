@@ -1,0 +1,1 @@
+{"index": 100777, "D": "affected with ennui; bored", "S": ["discontented "], "A": ["contented ", "happy ", "pleased ", "satisfied "]}

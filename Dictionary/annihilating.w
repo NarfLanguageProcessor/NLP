@@ -1,0 +1,1 @@
+{"index": 13546, "D": "to reduce to utter ruin or nonexistence; destroy utterly", "S": ["calamitous ", "destructive ", "disastrous ", "overwhelming "], "A": ["blessed ", "fortunate "]}

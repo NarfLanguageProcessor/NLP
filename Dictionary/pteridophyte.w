@@ -1,0 +1,1 @@
+{"index": 255683, "D": "any plant of the division Pteridophyta, characterized by vascular tissue and differentiation into root, stem, and leaves, comprising the ferns, horsetails, and club mosses.", "S": [], "A": []}

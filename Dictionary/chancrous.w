@@ -1,0 +1,1 @@
+{"index": 52435, "D": "the initial lesion of syphilis and certain other infectious diseases, commonly a more or less distinct ulcer or sore with a hard base.", "S": [], "A": []}

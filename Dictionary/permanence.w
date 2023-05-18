@@ -1,0 +1,1 @@
+{"index": 231568, "D": "the condition or quality of being permanent;  perpetual or continued existence.", "S": ["perpetuation "], "A": []}

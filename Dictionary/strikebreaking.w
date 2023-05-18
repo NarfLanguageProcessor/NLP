@@ -1,0 +1,1 @@
+{"index": 306304, "D": "action directed at breaking  up a strike  of workers.", "S": [], "A": []}

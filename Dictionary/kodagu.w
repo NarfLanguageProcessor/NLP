@@ -1,0 +1,1 @@
+{"index": 165809, "D": "a former province in SW India; now part of Karnataka state. 1,593 sq. mi. (4,126 sq. km).", "S": [], "A": []}

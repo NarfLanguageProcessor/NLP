@@ -1,0 +1,1 @@
+{"index": 100922, "D": "variant of enroll. ", "S": [], "A": []}

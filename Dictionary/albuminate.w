@@ -1,0 +1,1 @@
+{"index": 7527, "D": "a compound resulting from the action of an alkali or an acid upon albumin. ", "S": [], "A": []}

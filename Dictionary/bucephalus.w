@@ -1,0 +1,1 @@
+{"index": 42005, "D": "the horse used by Alexander the Great on most of his military campaigns.", "S": [], "A": []}

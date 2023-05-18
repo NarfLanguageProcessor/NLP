@@ -1,0 +1,1 @@
+{"index": 82767, "D": "to remove an absorbate or adsorbate from (an absorbent or adsorbent).", "S": [], "A": []}

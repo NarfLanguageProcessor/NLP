@@ -1,0 +1,1 @@
+{"index": 312065, "D": "characterized by or showing indulgence;  benignly lenient or permissive", "S": [], "A": []}

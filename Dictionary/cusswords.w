@@ -1,0 +1,1 @@
+{"index": 75685, "D": "curse word. ", "S": ["blasphemy ", "curse ", "expletive ", "obscenity "], "A": []}

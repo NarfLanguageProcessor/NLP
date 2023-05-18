@@ -1,0 +1,1 @@
+{"index": 290535, "D": "to argue or reason by syllogism. ", "S": [], "A": []}

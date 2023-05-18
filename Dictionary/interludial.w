@@ -1,0 +1,1 @@
+{"index": 155266, "D": "an intervening episode, period, space, etc.", "S": [], "A": []}

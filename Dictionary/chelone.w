@@ -1,0 +1,1 @@
+{"index": 53626, "D": "any plant of the hardy N American genus Chelone, grown for its white, rose, or purple flower spikes", "S": [], "A": []}

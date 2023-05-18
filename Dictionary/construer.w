@@ -1,0 +1,1 @@
+{"index": 67124, "D": "to give the meaning or intention of; explain; interpret. ", "S": [], "A": []}

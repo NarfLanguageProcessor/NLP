@@ -1,0 +1,1 @@
+{"index": 293771, "D": "an owner of enslaved people in the institution of chattel slavery. ", "S": [], "A": []}

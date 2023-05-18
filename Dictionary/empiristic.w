@@ -1,0 +1,1 @@
+{"index": 98806, "D": "empiricism (def. 2). ", "S": [], "A": []}

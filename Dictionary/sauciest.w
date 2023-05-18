@@ -1,0 +1,1 @@
+{"index": 278910, "D": "impertinent; insolent", "S": ["brash ", "cheeky ", "flippant ", "rude "], "A": ["respectful "]}

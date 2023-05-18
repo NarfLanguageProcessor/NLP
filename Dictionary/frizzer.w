@@ -1,0 +1,1 @@
+{"index": 119203, "D": "to form into small, crisp curls or little tufts.", "S": [], "A": []}

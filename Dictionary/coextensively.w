@@ -1,0 +1,1 @@
+{"index": 62121, "D": "equal or coincident in space, time, or scope.", "S": [], "A": []}

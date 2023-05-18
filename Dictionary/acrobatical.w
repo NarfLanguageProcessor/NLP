@@ -1,0 +1,1 @@
+{"index": 2879, "D": "of, relating to, or like an acrobat  or acrobatics. ", "S": [], "A": []}

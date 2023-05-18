@@ -1,0 +1,1 @@
+{"index": 231707, "D": "any of several muscles on the outer side of the leg, the action of which assists in extending the foot and in turning it outward.", "S": [], "A": []}

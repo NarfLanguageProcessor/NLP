@@ -1,0 +1,1 @@
+{"index": 226457, "D": "the act of a person who pargets. ", "S": [], "A": []}

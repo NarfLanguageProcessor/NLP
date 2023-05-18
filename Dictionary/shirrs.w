@@ -1,0 +1,1 @@
+{"index": 288511, "D": "to draw up or gather (cloth or the like) on three or more parallel threads.", "S": [], "A": []}

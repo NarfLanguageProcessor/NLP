@@ -1,0 +1,1 @@
+{"index": 101070, "D": "to capture in, or involve as in, a snare", "S": ["embranglement ", "embroilment ", "enmeshment ", "entrapment ", "involvement ", "mesh ", "mix up ", "snare ", "tangle ", "trap "], "A": []}

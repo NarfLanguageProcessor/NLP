@@ -1,0 +1,1 @@
+{"index": 65463, "D": "to make concrete,  real, or particular; give tangible or definite form to", "S": ["demonstrate ", "epitomize ", "exemplify ", "exhibit ", "express ", "illustrate ", "incorporate ", "manifest ", "mirror ", "personify ", "realize ", "stand for ", "symbolize ", "typify "], "A": ["conceal ", "cover ", "hide ", "obscure "]}

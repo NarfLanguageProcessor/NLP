@@ -1,0 +1,1 @@
+{"index": 225172, "D": "a small, often decorative, knifelike instrument with a blade of metal, ivory, wood, or the like, for slitting open envelopes, the leaves of books, folded papers, etc.", "S": [], "A": []}

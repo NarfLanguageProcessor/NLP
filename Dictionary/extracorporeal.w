@@ -1,0 +1,1 @@
+{"index": 108449, "D": "occurring or situated outside the body, as a heart-lung machine used to oxygenate the blood during surgery.", "S": [], "A": []}

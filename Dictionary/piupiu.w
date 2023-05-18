@@ -1,0 +1,1 @@
+{"index": 238450, "D": "a skirt made from the leaves of the New Zealand flax, worn by M\u0101oris on ceremonial occasions", "S": [], "A": []}

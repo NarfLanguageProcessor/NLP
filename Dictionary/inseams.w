@@ -1,0 +1,1 @@
+{"index": 153464, "D": "an inside or inner seam  of a garment, especially the seam  of a trouser leg that runs from the crotch down to the bottom of the leg.", "S": [], "A": []}

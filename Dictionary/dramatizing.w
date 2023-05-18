@@ -1,0 +1,1 @@
+{"index": 92675, "D": "to put into a form suitable for acting on a stage.", "S": ["amplify ", "exaggerate ", "overstate "], "A": ["reduce ", "abandon ", "fail ", "halt ", "ignore ", "neglect ", "prevent ", "refrain ", "refuse ", "stop ", "veto "]}

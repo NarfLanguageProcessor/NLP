@@ -1,0 +1,1 @@
+{"index": 263890, "D": "any of various birds having red plumage, especially the northern cardinal. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57657, "D": "movies collectively, as an art", "S": ["film ", "movie house ", "movie theater "], "A": []}

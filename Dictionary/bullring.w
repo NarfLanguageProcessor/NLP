@@ -1,0 +1,1 @@
+{"index": 42636, "D": "an arena for a bullfight.", "S": [], "A": []}

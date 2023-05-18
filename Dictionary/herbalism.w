@@ -1,0 +1,1 @@
+{"index": 136893, "D": "the study or use of the medicinal properties of plants", "S": [], "A": []}

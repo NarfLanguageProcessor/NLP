@@ -1,0 +1,1 @@
+{"index": 147293, "D": "of unsound physical or mental health; unwell; sick", "S": ["afflicted ", "ailing ", "diseased ", "infirm ", "poorly ", "woozy "], "A": ["healthy "]}

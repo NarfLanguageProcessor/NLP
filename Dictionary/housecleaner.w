@@ -1,0 +1,1 @@
+{"index": 144402, "D": "to subject (a house, room, etc.) to housecleaning.", "S": ["charwoman ", "cleaning lady ", "cleaning service ", "daily ", "daily woman ", "household help ", "housekeeper ", "housemaid ", "maid ", "maidservant "], "A": []}

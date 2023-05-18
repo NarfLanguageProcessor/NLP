@@ -1,0 +1,1 @@
+{"index": 142983, "D": "of or relating to one hue; monochromatic.", "S": [], "A": []}

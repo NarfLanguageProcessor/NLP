@@ -1,0 +1,1 @@
+{"index": 108747, "D": "turned or facing outward, as anthers that open toward the perianth.", "S": [], "A": []}

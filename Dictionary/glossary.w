@@ -1,0 +1,1 @@
+{"index": 126644, "D": "a list of terms in a special subject, field, or area of usage, with accompanying definitions.", "S": ["dictionary ", "vocabulary "], "A": []}

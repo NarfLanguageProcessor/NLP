@@ -1,0 +1,1 @@
+{"index": 51869, "D": "a shroud which covers the body from head to foot, usually worn by females in Islamic countries", "S": [], "A": []}

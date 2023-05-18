@@ -1,0 +1,1 @@
+{"index": 170433, "D": "the quality or state of being lenient. ", "S": ["compassion ", "mercy ", "tolerance "], "A": ["cruelty ", "intolerance ", "meanness "]}

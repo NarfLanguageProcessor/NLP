@@ -1,0 +1,1 @@
+{"index": 217468, "D": "an uncommon or irregular size,  especially one larger than average.", "S": [], "A": []}

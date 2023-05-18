@@ -1,0 +1,1 @@
+{"index": 42504, "D": [], "S": ["alarm ", "bogey ", "bogeyman ", "bogy ", "bugbear ", "fright ", "goblin ", "hobgoblin ", "ogre ", "scare ", "scarecrow ", "specter "], "A": ["calmness "]}

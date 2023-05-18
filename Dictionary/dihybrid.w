@@ -1,0 +1,1 @@
+{"index": 85571, "D": "the offspring of parents differing in two specific pairs of genes.", "S": [], "A": []}

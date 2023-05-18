@@ -1,0 +1,1 @@
+{"index": 7030, "D": "(of an aircraft) meeting established standards for safe flight; equipped and maintained in condition to fly.", "S": [], "A": []}

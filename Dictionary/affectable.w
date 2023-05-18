@@ -1,0 +1,1 @@
+{"index": 5298, "D": "to act on; produce an effect or change in", "S": ["susceptible "], "A": ["insusceptible ", "obstinate ", "stubborn ", "unimpressionable ", "unresponsive "]}

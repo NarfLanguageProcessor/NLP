@@ -1,0 +1,1 @@
+{"index": 154334, "D": "the office or function of an intendant. ", "S": [], "A": []}

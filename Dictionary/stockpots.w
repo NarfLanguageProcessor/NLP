@@ -1,0 +1,1 @@
+{"index": 304970, "D": "a pot  in which stock  for soup, sauces, etc., is made and kept.", "S": [], "A": []}

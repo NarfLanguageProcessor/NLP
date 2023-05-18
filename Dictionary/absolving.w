@@ -1,0 +1,1 @@
+{"index": 1010, "D": "to free from guilt or blame or their consequences", "S": ["acquit ", "exempt ", "exonerate ", "forgive ", "pardon ", "relieve ", "vindicate "], "A": ["accuse ", "blame ", "censure ", "charge ", "condemn ", "convict ", "damn ", "punish ", "sentence ", "hold ", "keep ", "limit ", "restrain "]}

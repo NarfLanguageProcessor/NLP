@@ -1,0 +1,1 @@
+{"index": 291464, "D": "to treat (a passage, piece, etc.) in this way.", "S": [], "A": []}

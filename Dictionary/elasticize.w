@@ -1,0 +1,1 @@
+{"index": 96757, "D": "to make elastic,  as by furnishing with elastic bands", "S": [], "A": []}

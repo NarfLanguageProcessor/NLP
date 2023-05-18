@@ -1,0 +1,1 @@
+{"index": 295270, "D": "the heavy, dark-red wood  of a South American tree, Piratinera guianensis, used for decorative veneers, musical instrument bows, etc.", "S": [], "A": []}

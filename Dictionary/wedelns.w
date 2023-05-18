@@ -1,0 +1,1 @@
+{"index": 363708, "D": "a skiing technique first developed in Austria in the 1950s that consists of high-speed turns made in succession with both skis parallel while not noticeably setting the ski edges on a slope.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45141, "D": "a pipe or duct for conveying a heating medium, as hot air or steam.", "S": [], "A": []}

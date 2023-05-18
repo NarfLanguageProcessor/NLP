@@ -1,0 +1,1 @@
+{"index": 7682, "D": "of, relating to, or of the nature of alcohol", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260822, "D": "to make rare or rarer; make less dense", "S": ["attenuate "], "A": ["add ", "develop ", "enlarge ", "extend ", "grow ", "increase ", "praise ", "raise ", "strengthen "]}

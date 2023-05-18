@@ -1,0 +1,1 @@
+{"index": 310657, "D": "any salt or ester of sulphurous acid, containing the ions SO 3 2\u2013 or HSO 3 \u2013 (hydrogen sulphite) or the groups \u2013SO 3 or \u2013HSO 3 . The salts are usually soluble crystalline compounds", "S": [], "A": []}

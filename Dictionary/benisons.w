@@ -1,0 +1,1 @@
+{"index": 31641, "D": "benediction. ", "S": ["invocation "], "A": ["condemnation ", "criticism ", "disapproval ", "disfavor ", "refusal "]}

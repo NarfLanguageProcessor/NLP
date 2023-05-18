@@ -1,0 +1,1 @@
+{"index": 276898, "D": "a large hall, living room, or reception room.", "S": [], "A": []}

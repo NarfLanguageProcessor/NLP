@@ -1,0 +1,1 @@
+{"index": 28833, "D": "a medieval fortified town, planned as a whole and built at one time, especially in southern France, for strategic or commercial purposes.", "S": [], "A": []}

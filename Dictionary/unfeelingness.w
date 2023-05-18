@@ -1,0 +1,1 @@
+{"index": 342118, "D": "not feeling; devoid of feeling; insensible or insensate.", "S": ["atrocity ", "barbarism ", "barbarity ", "cruelty ", "inhumanity ", "savagery "], "A": ["kindness "]}

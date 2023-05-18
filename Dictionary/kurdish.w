@@ -1,0 +1,1 @@
+{"index": 166495, "D": "of or relating to the Kurds  or their language.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47409, "D": "of or derived from carbamic acid. ", "S": [], "A": []}

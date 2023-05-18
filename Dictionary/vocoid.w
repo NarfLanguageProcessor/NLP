@@ -1,0 +1,1 @@
+{"index": 360937, "D": "of or relating to a sound produced without stoppage or obstruction of the flow of air in the vocal tract;  vowellike.", "S": [], "A": []}

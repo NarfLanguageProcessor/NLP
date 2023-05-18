@@ -1,0 +1,1 @@
+{"index": 35830, "D": "any cell produced during cleavage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 364418, "D": "a structure built on the shore of or projecting into a harbor, stream, etc., so that vessels may be moored alongside to load or unload or to lie at rest; quay; pier. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53753, "D": "an apparatus for growing bacterial cultures at a constant rate by controlling the supply of nutrient medium", "S": [], "A": []}

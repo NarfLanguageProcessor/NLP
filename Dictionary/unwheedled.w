@@ -1,0 +1,1 @@
+{"index": 354174, "D": "to endeavor to influence (a person) by smooth, flattering, or beguiling words or acts", "S": [], "A": []}

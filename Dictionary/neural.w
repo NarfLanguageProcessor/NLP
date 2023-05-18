@@ -1,0 +1,1 @@
+{"index": 198936, "D": "of or relating to a nerve or the nervous system.", "S": ["audiovisual ", "auditory ", "aural ", "neurological ", "olfactory ", "sensual ", "sonic ", "tactile ", "visual "], "A": []}

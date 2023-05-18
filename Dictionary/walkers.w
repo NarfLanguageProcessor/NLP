@@ -1,0 +1,1 @@
+{"index": 362198, "D": "an enclosing framework on casters or wheels for supporting a baby who is learning to walk.", "S": ["hiker "], "A": ["runner "]}

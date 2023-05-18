@@ -1,0 +1,1 @@
+{"index": 82580, "D": "an act of designating. ", "S": ["classification ", "description ", "moniker ", "nickname "], "A": []}

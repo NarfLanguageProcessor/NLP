@@ -1,0 +1,1 @@
+{"index": 187376, "D": "a unit of inductance equal to one thousandth of a henry. Abbreviation", "S": [], "A": []}

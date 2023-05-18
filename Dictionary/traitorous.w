@@ -1,0 +1,1 @@
+{"index": 327500, "D": "having the character of a traitor;  treacherous; perfidious.", "S": ["apostate ", "betraying ", "double-crossing ", "faithless ", "perfidious ", "recreant ", "subversive ", "treacherous ", "treasonable ", "treasonous ", "two-faced ", "two-timing ", "undutiful ", "unfaithful ", "unpatriotic ", "untrue ", "wormlike "], "A": []}

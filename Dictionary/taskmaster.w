@@ -1,0 +1,1 @@
+{"index": 316888, "D": "a person whose function it is to assign tasks,  especially burdensome ones, to others.", "S": ["disciplinarian "], "A": ["employee ", "worker "]}

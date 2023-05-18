@@ -1,0 +1,1 @@
+{"index": 44151, "D": "an evil spirit; devil; demon.", "S": [], "A": []}

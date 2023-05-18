@@ -1,0 +1,1 @@
+{"index": 76895, "D": "a unit of permeability, representing the flow, at 1 atmosphere, of 1 cubic centimeter of fluid with 1 centipoise viscosity in 1 second through a 1-square-centimeter cross section of porous medium 1 centimeter long.", "S": [], "A": []}

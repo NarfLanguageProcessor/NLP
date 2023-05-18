@@ -1,0 +1,1 @@
+{"index": 310219, "D": "of, containing, or resembling sugar. ", "S": ["palatableness ", "sweet "], "A": []}

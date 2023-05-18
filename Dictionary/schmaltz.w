@@ -1,0 +1,1 @@
+{"index": 280317, "D": "exaggerated sentimentalism, as in music or soap operas.", "S": ["bathos ", "mawkishness ", "melodrama ", "mushiness ", "nostalgia ", "reminiscence ", "sentiment ", "sentimentalism ", "triteness "], "A": []}

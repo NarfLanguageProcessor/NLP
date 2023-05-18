@@ -1,0 +1,1 @@
+{"index": 200453, "D": "any of a series of compounds with the type formula R2NNO, some of which are carcinogenic, formed in cured meats by the conversion of nitrite.", "S": [], "A": []}

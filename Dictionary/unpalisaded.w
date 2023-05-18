@@ -1,0 +1,1 @@
+{"index": 347379, "D": "a fence of pales or stakes set firmly in the ground, as for enclosure or defense.", "S": [], "A": []}

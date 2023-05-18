@@ -1,0 +1,1 @@
+{"index": 234822, "D": "a poisonous, colorless, very volatile liquid or suffocating gas, COCl2, a chemical-warfare compound", "S": [], "A": []}

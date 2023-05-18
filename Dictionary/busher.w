@@ -1,0 +1,1 @@
+{"index": 43405, "D": "bush leaguer (def. 1). ", "S": ["insignificant ", "minor "], "A": ["significant "]}

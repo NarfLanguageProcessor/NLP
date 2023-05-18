@@ -1,0 +1,1 @@
+{"index": 279249, "D": "an English word or idiom of Anglo-Saxon rather than foreign, as Latin or French, origin.", "S": [], "A": []}

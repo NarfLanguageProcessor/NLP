@@ -1,0 +1,1 @@
+{"index": 314703, "D": "any of several small, brightly colored, viviparous, freshwater fishes of the genus Xiphophorus, native to Central America, having the lower part of the caudal fin elongated into a swordlike structure", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 328549, "D": "of, relating to, or produced by a trauma  or wound.", "S": [], "A": []}

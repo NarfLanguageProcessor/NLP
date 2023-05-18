@@ -1,0 +1,1 @@
+{"index": 299024, "D": "the act or practice of exceeding the speed limit", "S": ["alive ", "effective ", "operating "], "A": ["fixed ", "inoperative ", "unmovable "]}

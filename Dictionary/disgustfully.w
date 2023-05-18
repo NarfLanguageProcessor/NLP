@@ -1,0 +1,1 @@
+{"index": 88206, "D": "causing disgust;  nauseous; offensive.", "S": [], "A": []}

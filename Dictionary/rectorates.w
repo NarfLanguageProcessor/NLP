@@ -1,0 +1,1 @@
+{"index": 263726, "D": "the office, dignity, or term of a rector.", "S": [], "A": []}

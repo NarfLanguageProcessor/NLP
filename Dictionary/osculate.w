@@ -1,0 +1,1 @@
+{"index": 215307, "D": "to come into close contact or union.", "S": ["buss ", "contact ", "peck ", "touch "], "A": []}

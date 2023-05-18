@@ -1,0 +1,1 @@
+{"index": 196318, "D": "the flesh of sheep, especially full-grown or more mature sheep, used as food.", "S": [], "A": []}

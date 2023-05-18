@@ -1,0 +1,1 @@
+{"index": 149971, "D": "enclose. ", "S": ["agree ", "meet "], "A": ["disconnect ", "divide ", "separate ", "unfasten ", "untie "]}

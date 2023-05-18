@@ -1,0 +1,1 @@
+{"index": 202595, "D": "bringing or deserving credit,  honor, reputation, or esteem.", "S": [], "A": []}

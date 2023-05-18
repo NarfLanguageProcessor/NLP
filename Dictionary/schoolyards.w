@@ -1,0 +1,1 @@
+{"index": 280465, "D": "a playground or sports field near a school. ", "S": [], "A": []}

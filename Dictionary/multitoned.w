@@ -1,0 +1,1 @@
+{"index": 195388, "D": "any sound considered with reference to its quality, pitch, strength, source, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348064, "D": "a secret plan or scheme to accomplish some purpose, especially a hostile, unlawful, or evil purpose", "S": [], "A": []}

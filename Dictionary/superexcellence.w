@@ -1,0 +1,1 @@
+{"index": 311784, "D": "the fact or state of excelling;  superiority; eminence", "S": [], "A": []}

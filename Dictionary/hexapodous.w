@@ -1,0 +1,1 @@
+{"index": 138030, "D": "a six-legged arthropod of the class Insecta (formerly Hexapoda); an insect.", "S": [], "A": []}

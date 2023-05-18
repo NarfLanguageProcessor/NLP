@@ -1,0 +1,1 @@
+{"index": 69819, "D": "of or relating to Corsica or its inhabitants", "S": [], "A": []}

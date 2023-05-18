@@ -1,0 +1,1 @@
+{"index": 132875, "D": "to stop; cease moving, operating, etc., either permanently or temporarily", "S": [], "A": []}

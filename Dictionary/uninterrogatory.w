@@ -1,0 +1,1 @@
+{"index": 344769, "D": "conveying or expressing a question; interrogative.", "S": [], "A": []}

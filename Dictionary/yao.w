@@ -1,0 +1,1 @@
+{"index": 145685, "D": "a legendary emperor of China who, with his successor (Shun ), was a paragon of good government.", "S": [], "A": []}

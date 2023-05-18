@@ -1,0 +1,1 @@
+{"index": 35946, "D": "a spectator seated in the bleachers.", "S": [], "A": []}

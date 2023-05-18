@@ -1,0 +1,1 @@
+{"index": 60800, "D": "a reversible aggregation of liquid particles in an emulsion.", "S": [], "A": []}

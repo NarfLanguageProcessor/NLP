@@ -1,0 +1,1 @@
+{"index": 175697, "D": "the technique of navigating according to loxodromes or rhumb lines.", "S": [], "A": []}

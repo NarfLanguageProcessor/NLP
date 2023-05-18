@@ -1,0 +1,1 @@
+{"index": 171577, "D": "a real or apparent oscillatory motion, especially of the moon.", "S": [], "A": []}

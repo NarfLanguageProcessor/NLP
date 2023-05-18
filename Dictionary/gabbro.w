@@ -1,0 +1,1 @@
+{"index": 120789, "D": "a dark granular igneous rock composed essentially of labradorite and augite.", "S": [], "A": []}

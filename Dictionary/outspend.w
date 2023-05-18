@@ -1,0 +1,1 @@
+{"index": 217549, "D": "to outdo in spending; spend  more than", "S": [], "A": []}

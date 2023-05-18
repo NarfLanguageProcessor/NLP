@@ -1,0 +1,1 @@
+{"index": 201146, "D": "that may be allowed or conceded; allowable", "S": [], "A": []}

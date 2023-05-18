@@ -1,0 +1,1 @@
+{"index": 251434, "D": "supervised or monitored by an official watcher", "S": [], "A": []}

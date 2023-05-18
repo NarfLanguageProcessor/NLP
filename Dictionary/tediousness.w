@@ -1,0 +1,1 @@
+{"index": 317757, "D": "marked by monotony or tedium;  long and tiresome", "S": ["boredom ", "dryness ", "dullness ", "monotony ", "sameness ", "tiresomeness "], "A": ["excitement ", "interest ", "liveliness "]}

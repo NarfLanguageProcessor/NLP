@@ -1,0 +1,1 @@
+{"index": 63108, "D": "a small slice of meat, especially a small rasher of bacon.", "S": [], "A": []}

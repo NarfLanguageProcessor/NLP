@@ -1,0 +1,1 @@
+{"index": 321320, "D": "sensitivity to various degrees of heat and cold", "S": [], "A": []}

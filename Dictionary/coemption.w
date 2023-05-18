@@ -1,0 +1,1 @@
+{"index": 61933, "D": "the buying up of the complete supply of a commodity", "S": [], "A": []}

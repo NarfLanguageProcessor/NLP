@@ -1,0 +1,1 @@
+{"index": 346313, "D": "to put into meter; compose in verse.", "S": [], "A": []}

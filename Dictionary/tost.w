@@ -1,0 +1,1 @@
+{"index": 326430, "D": "a simple past tense and past participle of toss. ", "S": ["bung ", "cast ", "chuck ", "chunk ", "fire ", "fling ", "flip ", "heave ", "hurl ", "launch ", "lob ", "peg ", "pitch ", "sling ", "twirl ", "wing "], "A": []}

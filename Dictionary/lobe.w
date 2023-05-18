@@ -1,0 +1,1 @@
+{"index": 174189, "D": "a roundish projection or division, as of an organ or a leaf.", "S": ["convexity ", "ear ", "fold ", "lap ", "node ", "portion ", "projection ", "protuberance ", "section ", "wattle "], "A": ["depression ", "whole "]}

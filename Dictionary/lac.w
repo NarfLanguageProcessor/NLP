@@ -1,0 +1,1 @@
+{"index": 166814, "D": "Compare shellac (def. 1). ", "S": [], "A": []}

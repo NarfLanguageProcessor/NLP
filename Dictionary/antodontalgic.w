@@ -1,0 +1,1 @@
+{"index": 16454, "D": "relieving the pain of a toothache.", "S": [], "A": []}

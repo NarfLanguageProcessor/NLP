@@ -1,0 +1,1 @@
+{"index": 115807, "D": "a minor weakness or failing of character; slight flaw or defect", "S": ["eccentricity ", "failing ", "frailty ", "idiosyncrasy ", "infirmity ", "peculiarity ", "quirk ", "shortcoming ", "weakness "], "A": ["advantage ", "normality ", "strength ", "strong point ", "usualness ", "perfection "]}

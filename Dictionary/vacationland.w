@@ -1,0 +1,1 @@
+{"index": 356353, "D": "an area having recreational facilities, historic or picturesque sights, etc., that attract vacationists.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29267, "D": "a brothel.", "S": ["bordello ", "brothel ", "cathouse ", "den of vice ", "house of ill fame ", "joy house ", "massage parlor ", "whorehouse "], "A": []}

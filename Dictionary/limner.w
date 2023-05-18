@@ -1,0 +1,1 @@
+{"index": 172434, "D": "a person who paints or draws.", "S": [], "A": []}

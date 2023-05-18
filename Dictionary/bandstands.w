@@ -1,0 +1,1 @@
+{"index": 27388, "D": "a platform, often roofed, for outdoor band  performances.", "S": ["arbor "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205136, "D": "the state of being malleable,  or capable of being shaped, as by hammering or pressing", "S": [], "A": []}

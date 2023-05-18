@@ -1,0 +1,1 @@
+{"index": 148141, "D": "any of various analytical techniques that involve antigen and antibody solutions diffusing toward each other in a gel until antibody binds specifically to antigen to form a precipitate.", "S": [], "A": []}

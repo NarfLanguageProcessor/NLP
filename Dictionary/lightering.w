@@ -1,0 +1,1 @@
+{"index": 172020, "D": "a person or thing that lights  or ignites. ", "S": [], "A": []}

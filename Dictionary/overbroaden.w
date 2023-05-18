@@ -1,0 +1,1 @@
+{"index": 218437, "D": "to become or make broad. ", "S": [], "A": []}

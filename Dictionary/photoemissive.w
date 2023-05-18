@@ -1,0 +1,1 @@
+{"index": 235098, "D": "photoelectric effect. ", "S": [], "A": []}

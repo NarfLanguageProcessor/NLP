@@ -1,0 +1,1 @@
+{"index": 194749, "D": "the crier who, from a minaret or other high part of a mosque, at stated hours five times daily, intones aloud the call summoning Muslims to prayer.", "S": [], "A": []}

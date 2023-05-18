@@ -1,0 +1,1 @@
+{"index": 12375, "D": "a slave who was spared in the arena by a lion from whose foot he had long before extracted a thorn.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68730, "D": "serving to unite or couple.", "S": [], "A": []}

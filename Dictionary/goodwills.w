@@ -1,0 +1,1 @@
+{"index": 127926, "D": "friendly disposition; benevolence; kindness.", "S": ["altruism ", "amity ", "benevolence ", "brownie points ", "charity ", "comity ", "cordiality ", "favor ", "friendliness ", "friendship ", "generosity ", "good deed ", "good side of ", "helpfulness ", "rapport ", "right side of ", "sympathy ", "tolerance "], "A": ["meanness "]}

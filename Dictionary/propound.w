@@ -1,0 +1,1 @@
+{"index": 252810, "D": "to put forward or offer for consideration, acceptance, or adoption; set forth; propose", "S": ["broach ", "proffer ", "set forth "], "A": ["answer ", "deny ", "disapprove ", "discourage ", "dissuade ", "ignore ", "refuse ", "reject ", "reply ", "retreat ", "take back ", "tell ", "withdraw ", "withhold "]}

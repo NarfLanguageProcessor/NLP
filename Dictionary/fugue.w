@@ -1,0 +1,1 @@
+{"index": 119846, "D": "a polyphonic composition based upon one, two, or more themes, which are enunciated by several voices or parts in turn, subjected to contrapuntal treatment, and gradually built up into a complex form having somewhat distinct divisions or stages of development and a marked climax at the end.", "S": ["blackout ", "stupor "], "A": []}

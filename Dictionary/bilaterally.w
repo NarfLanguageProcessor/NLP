@@ -1,0 +1,1 @@
+{"index": 33864, "D": "pertaining to, involving, or affecting two or both sides, factions, parties, or the like", "S": [], "A": []}

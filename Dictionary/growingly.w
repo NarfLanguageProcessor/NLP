@@ -1,0 +1,1 @@
+{"index": 130419, "D": "becoming greater in quantity, size, extent, or intensity", "S": [], "A": []}

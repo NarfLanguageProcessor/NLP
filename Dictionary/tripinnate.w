@@ -1,0 +1,1 @@
+{"index": 330367, "D": "bipinnate,  as a leaf, with the divisions also pinnate. ", "S": [], "A": []}

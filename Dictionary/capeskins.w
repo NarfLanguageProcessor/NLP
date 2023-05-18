@@ -1,0 +1,1 @@
+{"index": 46836, "D": "a firm, washable leather used especially for gloves, originally made from the skin  of goats from the Cape of Good Hope, but now from hairy lambskin or sheepskin.", "S": [], "A": []}

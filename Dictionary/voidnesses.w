@@ -1,0 +1,1 @@
+{"index": 361008, "D": "having no legal force or effect; not legally binding or enforceable.", "S": ["gap ", "job ", "vacuum ", "void "], "A": ["fullness ", "unemployment "]}

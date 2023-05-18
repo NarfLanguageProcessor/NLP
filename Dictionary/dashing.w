@@ -1,0 +1,1 @@
+{"index": 77081, "D": "energetic and spirited; lively", "S": ["dapper ", "debonair ", "fearless ", "plucky ", "stylish ", "swashbuckling "], "A": ["apathetic ", "dull ", "lethargic ", "stupid ", "unfashionable ", "unstylish "]}

@@ -1,0 +1,1 @@
+{"index": 173576, "D": "unimaginative; prosaic; matter-of-fact.", "S": [], "A": []}

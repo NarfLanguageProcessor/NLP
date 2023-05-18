@@ -1,0 +1,1 @@
+{"index": 249365, "D": "a person or thing that presents. ", "S": ["backer ", "benefactor ", "contributor ", "patron "], "A": ["antagonist ", "opponent ", "opposer "]}

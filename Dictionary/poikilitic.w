@@ -1,0 +1,1 @@
+{"index": 241286, "D": "(of igneous rocks) having small crystals of one mineral scattered irregularly in larger crystals of another mineral.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340332, "D": "not alike in character or quality; distinct in nature; dissimilar", "S": [], "A": []}

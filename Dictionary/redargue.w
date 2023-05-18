@@ -1,0 +1,1 @@
+{"index": 263862, "D": "to prove wrong or invalid; disprove; refute.", "S": [], "A": []}

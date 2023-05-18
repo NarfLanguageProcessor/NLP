@@ -1,0 +1,1 @@
+{"index": 275190, "D": "to make red; redden", "S": ["bloody ", "color ", "crimson ", "dye ", "flush ", "glow ", "incarnadine ", "mantle ", "paint ", "pink ", "rose ", "rouge ", "rubric ", "rubricate ", "ruddle ", "rust ", "suffuse ", "tint "], "A": ["pale ", "whiten "]}

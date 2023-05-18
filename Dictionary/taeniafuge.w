@@ -1,0 +1,1 @@
+{"index": 315174, "D": "an agent or medicine for expelling tapeworms from the body.", "S": [], "A": []}

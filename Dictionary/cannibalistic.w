@@ -1,0 +1,1 @@
+{"index": 46413, "D": "the eating of human flesh by another human being.", "S": ["anthropophagous ", "primitive ", "savage "], "A": []}

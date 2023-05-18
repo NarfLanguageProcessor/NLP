@@ -1,0 +1,1 @@
+{"index": 237441, "D": "a white, crystalline alkaloid, C17H19NO3, obtained from pepper and other piperaceous plants and also prepared synthetically", "S": [], "A": []}

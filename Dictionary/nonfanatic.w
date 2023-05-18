@@ -1,0 +1,1 @@
+{"index": 203940, "D": "a person with an extreme and uncritical enthusiasm or zeal, as in religion or politics.", "S": [], "A": []}

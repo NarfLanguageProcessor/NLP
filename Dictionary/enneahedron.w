@@ -1,0 +1,1 @@
+{"index": 100739, "D": "a solid figure having nine faces.", "S": [], "A": []}

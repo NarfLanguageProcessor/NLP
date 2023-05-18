@@ -1,0 +1,1 @@
+{"index": 211148, "D": "a group, series, or set of eight identical copies (usually preceded by in).", "S": [], "A": []}

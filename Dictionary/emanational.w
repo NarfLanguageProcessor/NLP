@@ -1,0 +1,1 @@
+{"index": 97903, "D": "an act or instance of emanating. ", "S": [], "A": []}

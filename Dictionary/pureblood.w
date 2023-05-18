@@ -1,0 +1,1 @@
+{"index": 256896, "D": "an individual, especially an animal, whose ancestry consists of a single strain or type unmixed with any other.", "S": ["blood ", "pedigree ", "purebred "], "A": []}

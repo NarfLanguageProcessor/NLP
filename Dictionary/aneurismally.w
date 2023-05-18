@@ -1,0 +1,1 @@
+{"index": 12623, "D": "a permanent cardiac or arterial dilatation usually caused by weakening of the vessel wall.", "S": [], "A": []}

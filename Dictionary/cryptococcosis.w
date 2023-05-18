@@ -1,0 +1,1 @@
+{"index": 73218, "D": "a disease caused by the fungus Cryptococcus neoformans, chiefly found in soil contaminated by pigeon droppings, and characterized by lesions, especially of the nervous system and lungs.", "S": [], "A": []}

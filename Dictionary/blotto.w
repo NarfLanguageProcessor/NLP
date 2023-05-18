@@ -1,0 +1,1 @@
+{"index": 36576, "D": "very drunk; so drunk as to be unconscious or not know what one is doing.", "S": [], "A": []}

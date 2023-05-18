@@ -1,0 +1,1 @@
+{"index": 224030, "D": "of, relating to, or located in or on the palm  of the hand or to the corresponding part of the forefoot of an animal.", "S": [], "A": []}

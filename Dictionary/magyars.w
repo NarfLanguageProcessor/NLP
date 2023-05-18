@@ -1,0 +1,1 @@
+{"index": 177406, "D": "a member of the ethnic group, of Finno-Ugric descent, that constitutes the majority of the population of Hungary.", "S": [], "A": []}

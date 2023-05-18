@@ -1,0 +1,1 @@
+{"index": 80575, "D": "(especially during the last half of the 19th century) a class of women who have lost their standing in respectable society because of indiscreet behavior or sexual promiscuity.", "S": [], "A": []}

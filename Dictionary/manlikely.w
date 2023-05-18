@@ -1,0 +1,1 @@
+{"index": 179387, "D": "resembling a human being; anthropoid.", "S": [], "A": []}

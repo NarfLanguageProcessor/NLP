@@ -1,0 +1,1 @@
+{"index": 7780, "D": "any of several hexoses  in which one carbon atom is part of an aldehyde  structure.", "S": [], "A": []}

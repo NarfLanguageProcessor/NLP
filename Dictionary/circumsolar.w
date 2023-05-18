@@ -1,0 +1,1 @@
+{"index": 58234, "D": "directed, traveling, etc., around the sun", "S": [], "A": []}

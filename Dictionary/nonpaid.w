@@ -1,0 +1,1 @@
+{"index": 205710, "D": "a simple past tense and past participle of pay1. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 292679, "D": "slow-moving warfare marked by repeated stalemate.", "S": [], "A": []}

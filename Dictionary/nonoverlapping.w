@@ -1,0 +1,1 @@
+{"index": 205687, "D": "to lap  over (something else or each other); extend over and cover a part of; imbricate.", "S": [], "A": []}

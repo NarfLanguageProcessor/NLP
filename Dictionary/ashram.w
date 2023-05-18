@@ -1,0 +1,1 @@
+{"index": 21185, "D": "a secluded building, often the residence of a guru, used for religious retreat or instruction in Hinduism.", "S": [], "A": []}

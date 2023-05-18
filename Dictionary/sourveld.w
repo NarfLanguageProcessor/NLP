@@ -1,0 +1,1 @@
+{"index": 297953, "D": "(in South Africa) a type of grazing characterized by long coarse grass", "S": [], "A": []}

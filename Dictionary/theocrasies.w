@@ -1,0 +1,1 @@
+{"index": 320945, "D": "a mixture of religious forms and deities by worshipers.", "S": [], "A": []}

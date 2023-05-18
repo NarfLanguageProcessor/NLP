@@ -1,0 +1,1 @@
+{"index": 240517, "D": "to cast or thrust forcibly or suddenly into something, as a liquid, a penetrable substance, a place, etc.; immerse; submerge", "S": ["soaked "], "A": []}

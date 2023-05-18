@@ -1,0 +1,1 @@
+{"index": 356316, "D": "a member of a town-dwelling Turkic people of Turkestan and Uzbekistan.", "S": [], "A": []}

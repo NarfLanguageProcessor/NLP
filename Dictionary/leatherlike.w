@@ -1,0 +1,1 @@
+{"index": 169726, "D": [], "S": ["rugged ", "wrinkled "], "A": ["smooth "]}

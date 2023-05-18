@@ -1,0 +1,1 @@
+{"index": 87622, "D": "to deduct a certain amount from (a bill, charge, etc.)", "S": ["inexpensive "], "A": ["high-priced "]}

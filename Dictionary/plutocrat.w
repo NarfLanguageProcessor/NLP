@@ -1,0 +1,1 @@
+{"index": 240657, "D": "a member of a plutocracy. ", "S": ["capitalist ", "magnate ", "tycoon "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128407, "D": "any of various yellow or white field flowers, especially the English daisy.", "S": [], "A": []}

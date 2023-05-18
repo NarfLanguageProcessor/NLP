@@ -1,0 +1,1 @@
+{"index": 308741, "D": "the oxide  of an element that contains the smallest proportion of oxygen.", "S": [], "A": []}

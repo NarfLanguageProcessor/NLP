@@ -1,0 +1,1 @@
+{"index": 114467, "D": "to provide (an arrow) with a feather.", "S": [], "A": []}

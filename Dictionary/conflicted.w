@@ -1,0 +1,1 @@
+{"index": 65989, "D": "full of conflicting  emotions or impulses", "S": ["differ ", "disagree ", "disturb ", "vary "], "A": ["agree ", "consent ", "harmonize ", "aid ", "assist ", "give up ", "help ", "make peace ", "retreat ", "support ", "surrender ", "yield "]}

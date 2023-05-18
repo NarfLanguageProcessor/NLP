@@ -1,0 +1,1 @@
+{"index": 343515, "D": "not having sustained physical, moral, or mental injury", "S": ["intact ", "undamaged ", "uninjured ", "unscathed ", "untouched "], "A": ["damaged ", "harmed ", "hurt ", "injured "]}

@@ -1,0 +1,1 @@
+{"index": 94995, "D": "the flowing back of the tide as the water returns to the sea (opposed to flood, flow).", "S": ["decaying ", "doomed ", "fading ", "moribund "], "A": ["permanent "]}

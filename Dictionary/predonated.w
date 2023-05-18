@@ -1,0 +1,1 @@
+{"index": 247137, "D": "to present as a gift, grant, or contribution; make a donation  of, as to a fund or cause", "S": [], "A": []}

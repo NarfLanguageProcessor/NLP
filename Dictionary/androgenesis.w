@@ -1,0 +1,1 @@
+{"index": 12391, "D": "The development of an embryo that contains chromosomes only from the male parent.", "S": [], "A": []}

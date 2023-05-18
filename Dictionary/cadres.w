@@ -1,0 +1,1 @@
+{"index": 44372, "D": "the key group of officers and enlisted personnel necessary to establish and train a new military unit.", "S": ["organization ", "personnel ", "staff "], "A": []}

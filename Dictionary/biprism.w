@@ -1,0 +1,1 @@
+{"index": 34699, "D": "a triangular prism  with an apex angle slightly less than 180\u00b0", "S": [], "A": []}

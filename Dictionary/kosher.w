@@ -1,0 +1,1 @@
+{"index": 166134, "D": "adhering to the laws governing such fitness", "S": ["ritually pure "], "A": ["forbidden ", "proscribed ", "taboo "]}

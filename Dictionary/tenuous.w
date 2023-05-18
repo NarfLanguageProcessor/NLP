@@ -1,0 +1,1 @@
+{"index": 319106, "D": "lacking a sound basis, as reasoning; unsubstantiated; weak", "S": ["delicate ", "dubious ", "flimsy ", "insubstantial ", "nebulous ", "questionable ", "shaky ", "sketchy "], "A": ["certain ", "definite ", "firm ", "heavy ", "strong ", "substantial ", "sure "]}

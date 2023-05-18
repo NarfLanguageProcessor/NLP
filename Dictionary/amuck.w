@@ -1,0 +1,1 @@
+{"index": 11404, "D": "mad with murderous frenzy.", "S": ["murderously "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39146, "D": "to expurgate (a written work) by removing or modifying passages considered vulgar or objectionable.", "S": ["edit ", "expurgate ", "redact "], "A": []}

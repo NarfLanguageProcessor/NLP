@@ -1,0 +1,1 @@
+{"index": 136610, "D": "a fine wool fabric constructed in twill weave, formerly made of silk warp and worsted filling.", "S": [], "A": []}

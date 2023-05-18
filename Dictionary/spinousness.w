@@ -1,0 +1,1 @@
+{"index": 299960, "D": "covered with or having spines;  thorny, as a plant.", "S": [], "A": []}

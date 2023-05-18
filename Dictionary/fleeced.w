@@ -1,0 +1,1 @@
+{"index": 114353, "D": "having a fleece  of a specified kind (usually used in combination)", "S": ["beggared ", "bereaved ", "cut off ", "deprived ", "destitute ", "devoid ", "dispossessed ", "divested ", "impoverished ", "left without ", "minus ", "naked ", "parted from ", "robbed ", "shorn ", "stripped ", "wanting ", "without "], "A": ["full ", "happy "]}

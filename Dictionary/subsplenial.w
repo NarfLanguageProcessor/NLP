@@ -1,0 +1,1 @@
+{"index": 309261, "D": "a broad muscle on each side of the back of the neck and the upper part of the thoracic region, the action of which draws the head backward and assists in turning it to one side.", "S": [], "A": []}

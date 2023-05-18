@@ -1,0 +1,1 @@
+{"index": 234052, "D": "of or relating to the body", "S": ["environmental ", "natural ", "real ", "substantial "], "A": ["immaterial ", "mental ", "psychological ", "spiritual "]}

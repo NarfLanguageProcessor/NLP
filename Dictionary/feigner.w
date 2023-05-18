@@ -1,0 +1,1 @@
+{"index": 110930, "D": "to represent fictitiously; put on an appearance of", "S": [], "A": []}

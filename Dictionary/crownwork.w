@@ -1,0 +1,1 @@
+{"index": 74037, "D": "an outwork containing a central bastion with a curtain and demibastions, usually designed to cover some advantageous position.", "S": [], "A": []}

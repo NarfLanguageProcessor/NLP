@@ -1,0 +1,1 @@
+{"index": 249360, "D": "a person to whom something is presented. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166678, "D": "articulated with the lips and given resonance in the nasal  cavity, as m.", "S": [], "A": []}

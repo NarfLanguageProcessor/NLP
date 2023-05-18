@@ -1,0 +1,1 @@
+{"index": 199743, "D": "a tendency of some plant parts to assume positions at night that are different from their daytime positions", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348109, "D": "(in masonry) mortar used as a finishing touch to brickwork.", "S": [], "A": []}

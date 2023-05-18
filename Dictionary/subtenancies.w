@@ -1,0 +1,1 @@
+{"index": 309430, "D": "a person who rents land, a house, or the like, from a tenant.", "S": [], "A": []}

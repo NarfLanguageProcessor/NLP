@@ -1,0 +1,1 @@
+{"index": 65305, "D": "(especially in France) a person who has charge of the entrance of a building and is often the owner's representative; doorkeeper.", "S": ["attendant ", "doorman ", "janitor "], "A": []}

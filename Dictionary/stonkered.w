@@ -1,0 +1,1 @@
+{"index": 305279, "D": "completely exhausted or beaten; whacked", "S": [], "A": []}

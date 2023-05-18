@@ -1,0 +1,1 @@
+{"index": 4619, "D": "a woman who schemes to win social position, wealth, etc., by unscrupulous or questionable means.", "S": [], "A": []}

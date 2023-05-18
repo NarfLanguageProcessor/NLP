@@ -1,0 +1,1 @@
+{"index": 293890, "D": "to take the rest afforded by a suspension of voluntary bodily functions and the natural suspension, complete or partial, of consciousness; cease being awake.", "S": [], "A": []}

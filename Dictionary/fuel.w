@@ -1,0 +1,1 @@
+{"index": 119783, "D": "combustible matter used to maintain fire, as coal, wood, oil, or gas, in order to create heat or power.", "S": ["ammunition ", "electricity ", "food ", "gas ", "material "], "A": []}

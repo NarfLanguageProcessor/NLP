@@ -1,0 +1,1 @@
+{"index": 361801, "D": "a device that causes a draught", "S": [], "A": []}

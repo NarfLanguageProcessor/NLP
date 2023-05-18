@@ -1,0 +1,1 @@
+{"index": 296043, "D": "if it  be so  that; provided that.", "S": [], "A": []}

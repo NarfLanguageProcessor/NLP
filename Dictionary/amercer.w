@@ -1,0 +1,1 @@
+{"index": 10292, "D": "to punish by imposing a fine not fixed by statute.", "S": [], "A": []}

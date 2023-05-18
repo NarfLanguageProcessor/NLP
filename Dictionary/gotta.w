@@ -1,0 +1,1 @@
+{"index": 128289, "D": "got to; have got to", "S": [], "A": []}

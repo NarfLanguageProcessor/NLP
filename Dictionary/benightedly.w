@@ -1,0 +1,1 @@
+{"index": 31620, "D": "intellectually or morally ignorant; unenlightened", "S": [], "A": []}

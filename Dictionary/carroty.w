@@ -1,0 +1,1 @@
+{"index": 48560, "D": "like a carrot,  as in color, flavor, or shape.", "S": [], "A": []}

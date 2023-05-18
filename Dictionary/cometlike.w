@@ -1,0 +1,1 @@
+{"index": 63775, "D": "a celestial body moving about the sun, usually in a highly eccentric orbit, consisting of a central mass surrounded by an envelope of dust and gas that may form a tail that streams away from the sun.", "S": [], "A": []}

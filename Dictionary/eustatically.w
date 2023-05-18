@@ -1,0 +1,1 @@
+{"index": 105857, "D": "any uniformly global change of sea level that may reflect a change in the quantity of water in the ocean, or a change in the shape and capacity of the ocean basins.", "S": [], "A": []}

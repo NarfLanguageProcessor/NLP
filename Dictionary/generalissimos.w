@@ -1,0 +1,1 @@
+{"index": 123461, "D": "the supreme commander of the armed forces.", "S": ["C in C ", "President ", "U.S. President ", "captain general ", "shogun "], "A": []}

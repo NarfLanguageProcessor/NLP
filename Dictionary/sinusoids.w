@@ -1,0 +1,1 @@
+{"index": 292148, "D": "a curve described by the equation y = a sin x, the ordinate being proportional to the sine of the abscissa.", "S": [], "A": []}

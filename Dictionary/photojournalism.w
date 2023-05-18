@@ -1,0 +1,1 @@
+{"index": 235199, "D": "journalism  in which photography dominates written copy, as in certain magazines.", "S": [], "A": []}

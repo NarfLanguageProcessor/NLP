@@ -1,0 +1,1 @@
+{"index": 174784, "D": "a female given name, form of Charlotte  or Dolores. ", "S": [], "A": []}

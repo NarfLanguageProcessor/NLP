@@ -1,0 +1,1 @@
+{"index": 337627, "D": "the quality of being agreeable, suitable, or pleasant", "S": [], "A": []}

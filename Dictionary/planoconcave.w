@@ -1,0 +1,1 @@
+{"index": 239036, "D": "pertaining to or noting a lens that is plane on one side and concave  on the other.", "S": [], "A": []}

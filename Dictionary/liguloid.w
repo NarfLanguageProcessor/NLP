@@ -1,0 +1,1 @@
+{"index": 172150, "D": "a tonguelike or strap-shaped part or organ.", "S": [], "A": []}

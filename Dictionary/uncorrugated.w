@@ -1,0 +1,1 @@
+{"index": 338037, "D": "shaped into wavy folds or alternating furrows and ridges", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247441, "D": "a coming to an end; termination; close", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37014, "D": "the cargo that a vessel carries or is capable of carrying.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 217464, "D": "to sit  longer than; outwait", "S": [], "A": []}

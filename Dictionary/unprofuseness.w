@@ -1,0 +1,1 @@
+{"index": 348579, "D": "spending or giving freely and in large amount, often to excess; extravagant (often followed by in)", "S": [], "A": []}

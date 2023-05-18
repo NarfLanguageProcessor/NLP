@@ -1,0 +1,1 @@
+{"index": 167133, "D": "full of or having lacunae.", "S": [], "A": []}

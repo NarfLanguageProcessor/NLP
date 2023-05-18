@@ -1,0 +1,1 @@
+{"index": 47879, "D": "a composite plant, Cynara cardunculus, of the Mediterranean area, having a root and leafstalks eaten as a vegetable.", "S": [], "A": []}

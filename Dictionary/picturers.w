@@ -1,0 +1,1 @@
+{"index": 236111, "D": "a visual representation of a person, object, or scene, as a painting, drawing, photograph, etc.", "S": [], "A": []}

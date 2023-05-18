@@ -1,0 +1,1 @@
+{"index": 94759, "D": "any identifying or distinguishing mark  or characteristic", "S": ["allotment ", "allowance ", "donation ", "funding ", "grant ", "provision ", "stipend ", "subsidy "], "A": ["bestowal ", "giving ", "keeping ", "refusal ", "rejection ", "return "]}

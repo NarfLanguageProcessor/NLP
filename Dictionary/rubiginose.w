@@ -1,0 +1,1 @@
+{"index": 275194, "D": "rusty; rust-colored; brownish-red.", "S": [], "A": []}

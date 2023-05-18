@@ -1,0 +1,1 @@
+{"index": 328498, "D": "a member of a branch of the Cistercian order, observing the austere reformed rule established at La Trappe in 1664.", "S": [], "A": []}

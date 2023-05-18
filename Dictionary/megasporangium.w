@@ -1,0 +1,1 @@
+{"index": 182522, "D": "a sporangium  containing megaspores.", "S": [], "A": []}

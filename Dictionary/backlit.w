@@ -1,0 +1,1 @@
+{"index": 25845, "D": "illuminated from behind", "S": [], "A": []}

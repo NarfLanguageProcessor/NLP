@@ -1,0 +1,1 @@
+{"index": 59562, "D": "having club-shaped antennae, as many beetles of the group Clavicornia.", "S": [], "A": []}

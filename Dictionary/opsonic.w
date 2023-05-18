@@ -1,0 +1,1 @@
+{"index": 213752, "D": "of, relating to, or influenced by opsonin;  capable of promoting phagocytosis.", "S": [], "A": []}

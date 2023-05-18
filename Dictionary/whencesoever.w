@@ -1,0 +1,1 @@
+{"index": 364641, "D": "from whatsoever place, source, or cause.", "S": [], "A": []}

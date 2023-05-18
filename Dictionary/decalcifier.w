@@ -1,0 +1,1 @@
+{"index": 77957, "D": "to deprive of lime or calcareous matter, as a bone.", "S": [], "A": []}

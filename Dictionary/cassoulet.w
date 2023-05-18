@@ -1,0 +1,1 @@
+{"index": 49017, "D": "a white-bean stew of French origin, often containing pork, mutton, garlic sausage, and preserved goose or duck.", "S": [], "A": []}

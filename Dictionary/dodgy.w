@@ -1,0 +1,1 @@
+{"index": 90786, "D": "inclined to dodge. ", "S": ["evasive ", "shifty "], "A": ["direct ", "forthright ", "honest ", "straightforward "]}

@@ -1,0 +1,1 @@
+{"index": 169335, "D": "a person who breaks or violates the law.", "S": ["crime ", "offense ", "violation "], "A": []}

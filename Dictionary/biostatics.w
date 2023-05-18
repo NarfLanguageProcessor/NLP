@@ -1,0 +1,1 @@
+{"index": 34556, "D": "Compare biodynamics (def. 1). ", "S": [], "A": []}

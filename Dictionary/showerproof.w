@@ -1,0 +1,1 @@
+{"index": 289073, "D": "(of clothing, fabric, etc.) treated so as to resist rain; rainproof.", "S": [], "A": []}

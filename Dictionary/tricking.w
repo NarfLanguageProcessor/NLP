@@ -1,0 +1,1 @@
+{"index": 329545, "D": "a crafty or underhanded device, maneuver, stratagem, or the like, intended to deceive or cheat; artifice; ruse; wile.", "S": ["bamboozle ", "cheat ", "con ", "deceive ", "defraud ", "delude ", "dupe ", "hoodwink ", "mislead ", "swindle ", "victimize "], "A": ["help ", "protect ", "let go ", "release "]}

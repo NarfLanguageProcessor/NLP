@@ -1,0 +1,1 @@
+{"index": 295309, "D": "apt to snap  or bite; snappish, as a dog.", "S": ["anger ", "annoyance ", "anxiety ", "eagerness ", "edginess ", "excitement ", "nervousness ", "restlessness ", "uneasiness "], "A": ["apathy ", "calm ", "calmness ", "contentment ", "enjoyment ", "happiness ", "joy ", "peace "]}

@@ -1,0 +1,1 @@
+{"index": 256858, "D": "the Stern, a southern constellation", "S": [], "A": []}

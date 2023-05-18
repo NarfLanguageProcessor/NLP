@@ -1,0 +1,1 @@
+{"index": 291671, "D": "an island on the Strait of Singapore, off the S tip of the Malay Peninsula.", "S": [], "A": []}

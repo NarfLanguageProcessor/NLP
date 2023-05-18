@@ -1,0 +1,1 @@
+{"index": 665, "D": "to do away with; put an end to; annul; make void", "S": ["abandonment ", "abolition ", "annulment ", "dissolution ", "elimination ", "repeal ", "retirement ", "reversal ", "revocation "], "A": ["enactment ", "validation ", "confirmation "]}

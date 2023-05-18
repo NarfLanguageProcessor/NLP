@@ -1,0 +1,1 @@
+{"index": 326315, "D": "a condition in which the neck is twisted and the head inclined to one side, caused by spasmodic contraction of the muscles of the neck.", "S": [], "A": []}

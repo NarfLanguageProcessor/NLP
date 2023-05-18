@@ -1,0 +1,1 @@
+{"index": 39022, "D": "a member of the middle class.", "S": ["materialistic "], "A": ["adventurous ", "imaginative ", "inspired ", "nonconforming ", "original ", "untraditional "]}

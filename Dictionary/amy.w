@@ -1,0 +1,1 @@
+{"index": 10367, "D": "a vial of amyl nitrate.", "S": [], "A": []}

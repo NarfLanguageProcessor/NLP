@@ -1,0 +1,1 @@
+{"index": 103300, "D": "containing equal numbers of molecules.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66519, "D": "to join, link, or fasten together; unite or bind", "S": ["associate ", "attach ", "hook up ", "join ", "relate "], "A": ["disconnect ", "disjoin ", "dissociate ", "disunite ", "divide ", "divorce ", "separate ", "sever ", "detach ", "disagree ", "imbalance ", "loosen ", "unlink "]}

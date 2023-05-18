@@ -1,0 +1,1 @@
+{"index": 246507, "D": "a preexisting contract  that legally prevents a person from making another contract  of the same nature.", "S": [], "A": []}

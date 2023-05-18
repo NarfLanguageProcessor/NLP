@@ -1,0 +1,1 @@
+{"index": 225578, "D": "a structure, usually made of a strong yet light fabric, having a shape similar to that of an airplane wing, and used as a kite or a parachute.", "S": [], "A": []}

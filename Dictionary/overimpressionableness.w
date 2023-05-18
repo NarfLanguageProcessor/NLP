@@ -1,0 +1,1 @@
+{"index": 219817, "D": "easily impressed  or influenced; susceptible", "S": [], "A": []}

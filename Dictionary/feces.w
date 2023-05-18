@@ -1,0 +1,1 @@
+{"index": 110752, "D": "waste matter discharged from the intestines through the anus; excrement.", "S": ["dung ", "excrement ", "poo ", "poop ", "shit "], "A": []}

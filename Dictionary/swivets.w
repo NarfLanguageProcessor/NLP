@@ -1,0 +1,1 @@
+{"index": 314617, "D": "a state of nervous excitement, haste, or anxiety; flutter", "S": [], "A": []}

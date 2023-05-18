@@ -1,0 +1,1 @@
+{"index": 348544, "D": "not productive of (anything)", "S": ["fruitless ", "futile ", "ineffective ", "infertile ", "pointless ", "unprofitable ", "useless ", "worthless "], "A": ["beneficial ", "fruitful ", "helpful ", "potent ", "productive ", "profitable ", "successful ", "useful ", "valuable ", "worthwhile "]}

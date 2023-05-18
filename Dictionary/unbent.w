@@ -1,0 +1,1 @@
+{"index": 335809, "D": "simple past tense and past participle of unbend. ", "S": ["consecutive ", "nonstop ", "short ", "smooth ", "solid ", "straightforward ", "successive ", "true "], "A": ["broken ", "intermittent ", "level ", "uneven ", "varying "]}

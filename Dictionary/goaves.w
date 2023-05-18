@@ -1,0 +1,1 @@
+{"index": 127231, "D": "plural of goaf. ", "S": [], "A": []}

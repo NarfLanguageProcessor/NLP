@@ -1,0 +1,1 @@
+{"index": 55497, "D": "any of several spiny treelike cacti  belonging to the genus Opuntia, especially O. fulgida of the southwestern U.S. and Mexico, having knobby outgrowths and yellow spines.", "S": [], "A": []}

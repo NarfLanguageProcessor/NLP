@@ -1,0 +1,1 @@
+{"index": 127454, "D": "the act of leaving or departing; departure", "S": ["bustling ", "flowing ", "functioning ", "impelling ", "mobile ", "movable ", "moving ", "operating ", "operative ", "progressive ", "pushing ", "rapid ", "rolling ", "running ", "rushing ", "rust "], "A": ["fixed ", "immobile ", "permanent ", "stationary ", "unmovable "]}

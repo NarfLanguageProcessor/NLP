@@ -1,0 +1,1 @@
+{"index": 218637, "D": "having a relatively low temperature; having little or no warmth", "S": [], "A": []}

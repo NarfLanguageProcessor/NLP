@@ -1,0 +1,1 @@
+{"index": 183769, "D": "to cause to combine or coalesce; unite.", "S": ["absorb ", "blend ", "combine ", "consolidate ", "fuse ", "incorporate ", "join ", "meld ", "unite "], "A": ["disconnect ", "disjoin ", "disperse ", "divide ", "part ", "separate ", "scatter "]}

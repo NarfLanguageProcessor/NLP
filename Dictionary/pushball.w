@@ -1,0 +1,1 @@
+{"index": 257179, "D": "a game played with a large, heavy ball,  usually about 6 feet (1.8 meters) in diameter, which two sides attempt to push  to opposite goals.", "S": [], "A": []}

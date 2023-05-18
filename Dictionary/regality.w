@@ -1,0 +1,1 @@
+{"index": 265515, "D": "royalty, sovereignty, or kingship.", "S": ["percentage "], "A": []}

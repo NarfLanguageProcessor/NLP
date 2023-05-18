@@ -1,0 +1,1 @@
+{"index": 60843, "D": "to do or act  together.", "S": [], "A": []}

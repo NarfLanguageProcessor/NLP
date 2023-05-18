@@ -1,0 +1,1 @@
+{"index": 38349, "D": "a brand name for a cubic, diamondlike, extremely hard form of boron nitride, obtained at high temperatures and pressures", "S": [], "A": []}

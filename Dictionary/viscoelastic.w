@@ -1,0 +1,1 @@
+{"index": 360341, "D": "pertaining to a substance having both viscous  and elastic  properties.", "S": [], "A": []}

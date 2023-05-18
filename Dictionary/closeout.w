@@ -1,0 +1,1 @@
+{"index": 60453, "D": "a sale on all goods in liquidating a business.", "S": ["deal ", "discount ", "good deal ", "reduction ", "value "], "A": ["increase "]}

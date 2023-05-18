@@ -1,0 +1,1 @@
+{"index": 280446, "D": "a person who attends school,  especially a child (usually used in combination)", "S": [], "A": []}

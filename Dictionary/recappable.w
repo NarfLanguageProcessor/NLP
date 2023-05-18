@@ -1,0 +1,1 @@
+{"index": 262602, "D": "to recondition (a worn automobile tire) by cementing on a strip of prepared rubber and vulcanizing by subjecting to heat and pressure in a mold.", "S": [], "A": []}

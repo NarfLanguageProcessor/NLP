@@ -1,0 +1,1 @@
+{"index": 331065, "D": [], "S": ["demon ", "dwarf ", "giant ", "gnome ", "goblin ", "hobgoblin ", "leprechaun ", "monster ", "ogre "], "A": []}

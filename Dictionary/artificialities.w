@@ -1,0 +1,1 @@
+{"index": 20723, "D": "artificial  quality.", "S": ["deceit ", "deception ", "dishonesty ", "disingenuousness ", "double-dealing ", "hypocrisy ", "unnaturalness "], "A": ["forthrightness ", "frankness ", "honesty ", "openness ", "sincerity ", "truth ", "truthfulness ", "uprightness "]}

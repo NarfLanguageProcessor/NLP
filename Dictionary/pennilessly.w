@@ -1,0 +1,1 @@
+{"index": 229751, "D": "without any money whatsoever; totally impoverished; destitute.", "S": [], "A": []}

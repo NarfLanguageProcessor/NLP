@@ -1,0 +1,1 @@
+{"index": 37778, "D": "an adherent of the Bonapartes or their policies.", "S": [], "A": []}

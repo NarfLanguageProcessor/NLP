@@ -1,0 +1,1 @@
+{"index": 176178, "D": "the period of time from one new moon to the next (about 29\u00bd days); a lunar month.", "S": [], "A": []}

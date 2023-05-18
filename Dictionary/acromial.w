@@ -1,0 +1,1 @@
+{"index": 2951, "D": "the outward end of the spine of the scapula or shoulder blade.", "S": [], "A": []}

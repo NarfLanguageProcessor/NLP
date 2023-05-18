@@ -1,0 +1,1 @@
+{"index": 8653, "D": "British philosophical writer and novelist.", "S": [], "A": []}

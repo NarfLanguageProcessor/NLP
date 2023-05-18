@@ -1,0 +1,1 @@
+{"index": 120038, "D": "of or relating to smoke, especially tobacco smoke, or to a place for smoking.", "S": [], "A": []}

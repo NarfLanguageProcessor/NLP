@@ -1,0 +1,1 @@
+{"index": 68326, "D": "to work or act together or jointly for a common purpose or benefit.", "S": ["agreeing ", "collaborating ", "helping "], "A": []}

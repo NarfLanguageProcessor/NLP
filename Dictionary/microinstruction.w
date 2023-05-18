@@ -1,0 +1,1 @@
+{"index": 186211, "D": "an instruction  that defines part of a machine-language instruction  in terms of simpler operations.", "S": [], "A": []}

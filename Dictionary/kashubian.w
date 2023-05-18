@@ -1,0 +1,1 @@
+{"index": 163310, "D": "a West Slavic language closely related to Polish and spoken in northern Poland near the mouth of the Vistula.", "S": [], "A": []}

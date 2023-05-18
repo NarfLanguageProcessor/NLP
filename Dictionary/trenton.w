@@ -1,0 +1,1 @@
+{"index": 328957, "D": "a city in and the capital of New Jersey, in the W part, on the Delaware River", "S": [], "A": []}

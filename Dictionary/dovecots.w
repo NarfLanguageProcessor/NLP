@@ -1,0 +1,1 @@
+{"index": 92116, "D": "a structure, usually at a height above the ground, for housing domestic pigeons.", "S": [], "A": []}

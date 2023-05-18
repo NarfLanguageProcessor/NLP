@@ -1,0 +1,1 @@
+{"index": 100447, "D": "having an edge of a charge consisting of a number of concave curves.", "S": [], "A": []}

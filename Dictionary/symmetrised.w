@@ -1,0 +1,1 @@
+{"index": 290879, "D": "to reduce to symmetry;  make symmetrical. ", "S": [], "A": []}

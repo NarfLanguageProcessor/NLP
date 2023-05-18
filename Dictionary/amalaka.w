@@ -1,0 +1,1 @@
+{"index": 9749, "D": "the bulbous finial of a sikhara.", "S": [], "A": []}

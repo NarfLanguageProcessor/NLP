@@ -1,0 +1,1 @@
+{"index": 212229, "D": "the market condition that exists when there are few buyers, as a result of which they can greatly influence price and other market factors.", "S": [], "A": []}

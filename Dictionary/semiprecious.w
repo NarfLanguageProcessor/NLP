@@ -1,0 +1,1 @@
+{"index": 284754, "D": "(of a stone) having commercial value as a gem but not classified as precious,  as the amethyst or garnet.", "S": [], "A": []}

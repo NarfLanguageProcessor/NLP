@@ -1,0 +1,1 @@
+{"index": 30270, "D": "a long-handled, covered pan containing hot coals, used for warming beds.", "S": [], "A": []}

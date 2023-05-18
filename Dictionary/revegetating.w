@@ -1,0 +1,1 @@
+{"index": 271125, "D": "to cause vegetation to grow again on", "S": [], "A": []}

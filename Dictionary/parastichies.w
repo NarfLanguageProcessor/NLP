@@ -1,0 +1,1 @@
+{"index": 226139, "D": "one of a number of seemingly secondary spirals or oblique ranks winding around the stem or axis to the right and left in a spiral arrangement of leaves, scales, etc., where the internodes are short and the members closely crowded, as in the houseleek and the pine cone.", "S": [], "A": []}

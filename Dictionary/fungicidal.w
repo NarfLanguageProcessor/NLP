@@ -1,0 +1,1 @@
+{"index": 120232, "D": "a substance or preparation, as a spray or dust, used for destroying fungi. ", "S": [], "A": []}

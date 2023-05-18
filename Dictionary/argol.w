@@ -1,0 +1,1 @@
+{"index": 19553, "D": "a crude tartar, produced as a by-product in casks by the fermentation of wine grapes, used as a mordant in dyeing, in the manufacture of tartaric acid, and in fertilizers.", "S": [], "A": []}

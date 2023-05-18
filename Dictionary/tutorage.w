@@ -1,0 +1,1 @@
+{"index": 333083, "D": "the office, authority, or care of a tutor. ", "S": [], "A": []}

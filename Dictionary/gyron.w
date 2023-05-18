@@ -1,0 +1,1 @@
+{"index": 125578, "D": "a subordinary having the form of a triangle, usually equal to half a quarter of the escutcheon, with its apex at the fess point.", "S": [], "A": []}

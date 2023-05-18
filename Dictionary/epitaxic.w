@@ -1,0 +1,1 @@
+{"index": 102921, "D": "an oriented overgrowth of crystalline material upon the surface of another crystal of different chemical composition but similar structure.", "S": [], "A": []}

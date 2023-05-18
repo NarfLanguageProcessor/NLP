@@ -1,0 +1,1 @@
+{"index": 363556, "D": "physically or mentally exhausted by hard work, exertion, strain, etc.; fatigued; tired", "S": [], "A": []}

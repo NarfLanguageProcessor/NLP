@@ -1,0 +1,1 @@
+{"index": 34894, "D": "a hooded cloak of coarse wool, a common article of apparel in the later Roman Empire.", "S": [], "A": []}

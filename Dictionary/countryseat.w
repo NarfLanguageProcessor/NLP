@@ -1,0 +1,1 @@
+{"index": 71246, "D": "a country  mansion or estate, especially one belonging to a distinguished family and large enough to accommodate house parties, hunt meetings, etc.", "S": [], "A": []}

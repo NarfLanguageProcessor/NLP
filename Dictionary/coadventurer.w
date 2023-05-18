@@ -1,0 +1,1 @@
+{"index": 60900, "D": "adventure  in which two or more share.", "S": [], "A": []}

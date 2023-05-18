@@ -1,0 +1,1 @@
+{"index": 321357, "D": "a resistor  whose action depends upon changes of its resistance material with changes in temperature.", "S": [], "A": []}

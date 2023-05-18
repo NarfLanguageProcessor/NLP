@@ -1,0 +1,1 @@
+{"index": 252314, "D": "a high point of land or rock projecting into the sea or other water beyond the line of coast; a headland.", "S": ["bluff ", "jetty "], "A": []}

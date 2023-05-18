@@ -1,0 +1,1 @@
+{"index": 129246, "D": "the state of being gratified;  great satisfaction.", "S": ["enjoyment ", "fulfillment ", "joy ", "luxury ", "pleasure "], "A": ["dissatisfaction ", "sadness ", "sorrow ", "unhappiness ", "woe ", "depression ", "failure "]}

@@ -1,0 +1,1 @@
+{"index": 271578, "D": "affording satisfaction, valuable experience, or the like; worthwhile.", "S": [], "A": []}

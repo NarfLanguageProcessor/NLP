@@ -1,0 +1,1 @@
+{"index": 198166, "D": "to utter the cry of a horse; whinny.", "S": ["hee-haw ", "yell "], "A": []}

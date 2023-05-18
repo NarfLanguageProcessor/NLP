@@ -1,0 +1,1 @@
+{"index": 27276, "D": "a large, printed handkerchief, typically one with white spots or figures on a red or blue background.", "S": [], "A": []}

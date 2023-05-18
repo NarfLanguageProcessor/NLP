@@ -1,0 +1,1 @@
+{"index": 356883, "D": "let\u2019s go! (used as an exclamation of encouragement or exhortation)", "S": [], "A": []}

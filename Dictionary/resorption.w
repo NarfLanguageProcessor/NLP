@@ -1,0 +1,1 @@
+{"index": 269646, "D": "the destruction, disappearance, or dissolution of a tissue or part by biochemical activity, as the loss of bone or of tooth dentin.", "S": ["suction "], "A": ["slipperiness "]}

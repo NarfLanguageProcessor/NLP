@@ -1,0 +1,1 @@
+{"index": 298679, "D": "the mass of eggs deposited by fishes, amphibians, mollusks, crustaceans, etc.", "S": ["Photostat ", "Xerox ", "breeding ", "clone ", "copy ", "ditto ", "dupe ", "facsimile ", "fake ", "increase ", "mimeo ", "mimeograph ", "photocopy ", "photograph ", "picture ", "print ", "reprinting ", "twin "], "A": ["original "]}

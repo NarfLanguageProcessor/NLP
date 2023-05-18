@@ -1,0 +1,1 @@
+{"index": 31286, "D": "in or toward a lower place", "S": ["down "], "A": ["above ", "higher ", "over "]}

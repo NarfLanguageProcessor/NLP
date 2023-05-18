@@ -1,0 +1,1 @@
+{"index": 17618, "D": "to come into sight; become visible", "S": ["arrive ", "come ", "come out ", "crop up ", "develop ", "emerge ", "materialize ", "occur ", "pop up ", "present ", "show ", "show up ", "surface ", "turn out ", "turn up "], "A": ["abandon ", "conceal ", "depart ", "disappear ", "go ", "hide ", "leave ", "miss "]}

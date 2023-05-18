@@ -1,0 +1,1 @@
+{"index": 347592, "D": "to steal or take dishonestly (money, especially public funds, or property entrusted to one's care); embezzle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29598, "D": "formed or shaped by blows; hammered", "S": ["humbled ", "overpowered ", "overwhelmed ", "routed "], "A": []}

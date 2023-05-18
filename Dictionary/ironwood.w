@@ -1,0 +1,1 @@
+{"index": 158114, "D": "any of various trees yielding a hard, heavy wood,  as the American hornbeam, Carpinus caroliniana, or Lyonothamnus floribundus, found on the islands off the coast of S California.", "S": [], "A": []}

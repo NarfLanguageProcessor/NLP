@@ -1,0 +1,1 @@
+{"index": 206943, "D": "the act of pondering or musing on something", "S": [], "A": []}

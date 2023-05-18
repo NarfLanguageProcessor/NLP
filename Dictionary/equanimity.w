@@ -1,0 +1,1 @@
+{"index": 103182, "D": "mental or emotional stability or composure, especially under tension or strain; calmness; equilibrium. ", "S": ["aplomb ", "calmness ", "composure ", "coolness ", "serenity ", "tranquillity "], "A": ["agitation ", "excitement ", "distrust ", "doubt ", "fear ", "frustration ", "uncertainty "]}

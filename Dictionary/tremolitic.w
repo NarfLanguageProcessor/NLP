@@ -1,0 +1,1 @@
+{"index": 328890, "D": "a white or grayish variety of amphibole, Ca2Mg5Si8O22(OH)2, usually occurring in bladed crystals.", "S": [], "A": []}

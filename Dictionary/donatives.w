@@ -1,0 +1,1 @@
+{"index": 91396, "D": "a gift or donation.", "S": [], "A": []}

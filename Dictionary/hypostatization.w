@@ -1,0 +1,1 @@
+{"index": 141206, "D": "to treat or regard (a concept, idea, etc.) as a distinct substance or reality.", "S": [], "A": []}

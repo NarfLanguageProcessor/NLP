@@ -1,0 +1,1 @@
+{"index": 115556, "D": "fine, clear, and mellow; flutelike", "S": ["crumpled "], "A": ["flat ", "smooth "]}

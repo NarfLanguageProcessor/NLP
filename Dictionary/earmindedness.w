@@ -1,0 +1,1 @@
+{"index": 94762, "D": "tending to perceive one's environment in terms of sound and to recall sounds more vividly than sights, smells, etc.", "S": [], "A": []}

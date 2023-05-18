@@ -1,0 +1,1 @@
+{"index": 106482, "D": "inanimate or lifeless.", "S": [], "A": []}

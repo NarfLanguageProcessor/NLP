@@ -1,0 +1,1 @@
+{"index": 271189, "D": "the income of a government from taxation, excise duties, customs, or other sources, appropriated to the payment of the public expenses.", "S": [], "A": []}

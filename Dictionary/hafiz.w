@@ -1,0 +1,1 @@
+{"index": 132143, "D": "a title of respect for a Muslim who knows the Quran by heart.", "S": [], "A": []}

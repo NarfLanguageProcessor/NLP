@@ -1,0 +1,1 @@
+{"index": 47585, "D": "infected with a carbuncle. ", "S": [], "A": []}

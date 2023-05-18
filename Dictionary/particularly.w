@@ -1,0 +1,1 @@
+{"index": 227056, "D": "in a particular or to an exceptional degree; especially", "S": ["especially ", "exceptionally ", "notably ", "principally ", "specially ", "surprisingly ", "unusually "], "A": ["normally ", "usually "]}

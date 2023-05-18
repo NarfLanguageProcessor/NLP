@@ -1,0 +1,1 @@
+{"index": 327324, "D": "the movement of vehicles, ships, persons, etc., in an area, along a street, through an air lane, over a water route, etc.", "S": ["banker ", "merchant ", "speculator ", "trader ", "vendor ", "wholesaler "], "A": ["customer "]}

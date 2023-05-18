@@ -1,0 +1,1 @@
+{"index": 58911, "D": "See under civvy (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 150848, "D": "the doctrine that human actions, though influenced somewhat by preexisting psychological and other conditions, are not entirely governed by them but retain a certain freedom and spontaneity.", "S": [], "A": []}

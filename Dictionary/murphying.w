@@ -1,0 +1,1 @@
+{"index": 195769, "D": "an Irish or white potato.", "S": ["bamboozle ", "bluff ", "chicane ", "con ", "deceive ", "delude ", "dupe ", "fleece ", "flimflam ", "fool ", "frame ", "gammon ", "gull ", "hoodwink ", "murphy ", "rook ", "sting ", "swindle "], "A": []}

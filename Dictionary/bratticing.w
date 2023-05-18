@@ -1,0 +1,1 @@
+{"index": 40060, "D": "a partition or lining, as of planks or cloth, forming an air passage in a mine.", "S": [], "A": []}

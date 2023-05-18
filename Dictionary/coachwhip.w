@@ -1,0 +1,1 @@
+{"index": 60829, "D": "a whip,  usually having a long lash, used in driving a coach horse. ", "S": [], "A": []}

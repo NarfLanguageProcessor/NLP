@@ -1,0 +1,1 @@
+{"index": 31515, "D": "below; in or to a lower place, position, state, or the like.", "S": ["below "], "A": ["above ", "higher ", "over "]}

@@ -1,0 +1,1 @@
+{"index": 227233, "D": "an Old World plant, Anemone pulsatilla, of the buttercup family, having purple, crocuslike flowers blooming about Easter.", "S": [], "A": []}

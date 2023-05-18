@@ -1,0 +1,1 @@
+{"index": 167365, "D": "a city in NE Pakistan", "S": [], "A": []}

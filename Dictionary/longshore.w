@@ -1,0 +1,1 @@
+{"index": 174996, "D": "existing, found, or employed along the shore, especially at or near a seaport", "S": [], "A": []}

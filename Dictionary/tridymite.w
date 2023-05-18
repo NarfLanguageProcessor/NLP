@@ -1,0 +1,1 @@
+{"index": 329678, "D": "a polymorph of quartz occurring in the form of small crystals, commonly twinned, in siliceous volcanic rocks.", "S": [], "A": []}

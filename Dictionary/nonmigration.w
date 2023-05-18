@@ -1,0 +1,1 @@
+{"index": 205284, "D": "the process or act of migrating. ", "S": [], "A": []}

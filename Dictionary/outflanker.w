@@ -1,0 +1,1 @@
+{"index": 216630, "D": "to go or extend beyond the flank  of (an opposing military unit); turn the flank  of.", "S": [], "A": []}

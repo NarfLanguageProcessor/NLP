@@ -1,0 +1,1 @@
+{"index": 213861, "D": "the branch of electronics  dealing with devices that generate, transform, transmit, or sense optical, infrared, or ultraviolet radiation, as cathode-ray tubes, electroluminescent and liquid crystal displays, lasers, and solar cells.", "S": [], "A": []}

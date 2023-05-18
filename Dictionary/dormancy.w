@@ -1,0 +1,1 @@
+{"index": 91688, "D": "the state of being dormant. ", "S": ["inaction ", "inactivity ", "inertia ", "latency ", "quiescence ", "suspension "], "A": []}

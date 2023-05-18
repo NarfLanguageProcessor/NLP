@@ -1,0 +1,1 @@
+{"index": 223067, "D": "to be paid;  due", "S": ["outstanding ", "owed ", "unpaid "], "A": ["paid ", "settled "]}

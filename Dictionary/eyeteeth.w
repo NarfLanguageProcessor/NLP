@@ -1,0 +1,1 @@
+{"index": 96456, "D": [], "S": ["bicuspid ", "canine ", "cuspid ", "denticle ", "fang ", "grinder ", "incisor ", "ivory ", "molar ", "premolar ", "tusk "], "A": []}

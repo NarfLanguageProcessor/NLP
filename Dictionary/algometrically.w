@@ -1,0 +1,1 @@
+{"index": 8128, "D": "a device for determining sensitiveness to pain caused by pressure.", "S": [], "A": []}

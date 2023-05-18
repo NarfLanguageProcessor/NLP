@@ -1,0 +1,1 @@
+{"index": 157225, "D": "giving or encouraging vigor, liveliness, or energy", "S": ["bracing ", "exhilarating ", "fascinating ", "lively ", "refreshing ", "uplifting "], "A": ["boring "]}

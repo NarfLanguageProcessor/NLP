@@ -1,0 +1,1 @@
+{"index": 118138, "D": "a coping concealing the slopes of the roof, especially one having an ornamental silhouette.", "S": [], "A": []}

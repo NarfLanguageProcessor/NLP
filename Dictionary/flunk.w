@@ -1,0 +1,1 @@
+{"index": 115365, "D": "to fail in a course or examination.", "S": ["drop out "], "A": []}

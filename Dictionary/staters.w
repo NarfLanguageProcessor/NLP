@@ -1,0 +1,1 @@
+{"index": 303054, "D": "any of various gold or silver or electrum coin units or coins of the ancient Greek states  or cities.", "S": [], "A": []}

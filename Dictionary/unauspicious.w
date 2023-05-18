@@ -1,0 +1,1 @@
+{"index": 335433, "D": "promising success; propitious; opportune; favorable", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325237, "D": "a white crystalline substance, C12H18N2O3S, used to augment insulin secretion in the treatment of diabetes mellitus.", "S": [], "A": []}

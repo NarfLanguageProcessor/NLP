@@ -1,0 +1,1 @@
+{"index": 97887, "D": "marked by emaciation. ", "S": ["anorexic ", "bony ", "gaunt ", "scrawny ", "skeletal ", "skinny "], "A": ["chubby ", "fat ", "heavy ", "overweight ", "plump ", "thick ", "full "]}

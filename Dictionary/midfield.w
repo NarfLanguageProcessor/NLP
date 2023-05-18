@@ -1,0 +1,1 @@
+{"index": 186729, "D": "the middle area of a sports field,  especially the area midway between the two goals.", "S": [], "A": []}

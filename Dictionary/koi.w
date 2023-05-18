@@ -1,0 +1,1 @@
+{"index": 165857, "D": "any of various colorful cultivated forms of the common carp, Cyprinus carpio, apparently originating in Japan and other parts of eastern temperate Asia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34457, "D": "the study of how humans and animals perform certain tasks and solve certain problems, and of the application of the findings to the design of electronic devices and mechanical parts.", "S": [], "A": []}

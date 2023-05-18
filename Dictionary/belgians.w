@@ -1,0 +1,1 @@
+{"index": 31056, "D": "a native or an inhabitant of Belgium. ", "S": [], "A": []}

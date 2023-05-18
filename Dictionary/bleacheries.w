@@ -1,0 +1,1 @@
+{"index": 35945, "D": "a place or establishment where bleaching  is carried on.", "S": [], "A": []}

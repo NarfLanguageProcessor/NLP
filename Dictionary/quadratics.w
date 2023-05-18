@@ -1,0 +1,1 @@
+{"index": 257518, "D": "the branch of algebra that deals with quadratic  equations.", "S": [], "A": []}

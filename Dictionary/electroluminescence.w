@@ -1,0 +1,1 @@
+{"index": 97118, "D": "luminescence  produced by the activation of a dielectric phosphor by an alternating current.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 215471, "D": "of, relating to, or characteristic of Ossetia,  a region in Caucasia, or the Ossets,  the people living there.", "S": [], "A": []}

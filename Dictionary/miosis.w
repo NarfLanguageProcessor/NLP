@@ -1,0 +1,1 @@
+{"index": 188251, "D": "excessive constriction of the pupil of the eye, as a result of drugs, disease, or the like.", "S": [], "A": []}

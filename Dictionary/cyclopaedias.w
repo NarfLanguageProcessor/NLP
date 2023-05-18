@@ -1,0 +1,1 @@
+{"index": 57196, "D": "an encyclopedia. ", "S": [], "A": []}

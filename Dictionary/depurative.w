@@ -1,0 +1,1 @@
+{"index": 81930, "D": "serving to depurate;  purifying.", "S": [], "A": []}

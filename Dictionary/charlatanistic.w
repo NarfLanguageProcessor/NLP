@@ -1,0 +1,1 @@
+{"index": 52877, "D": "a person who pretends or claims to have more knowledge or skill than they possess; fraud; quack.", "S": [], "A": []}

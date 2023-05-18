@@ -1,0 +1,1 @@
+{"index": 345515, "D": "having leaves;  leafed.", "S": [], "A": []}

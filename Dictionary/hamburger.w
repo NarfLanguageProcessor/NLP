@@ -1,0 +1,1 @@
+{"index": 132942, "D": "a sandwich consisting of a cooked patty of ground or chopped beef, usually in a roll or bun, variously garnished.", "S": ["beefburger ", "burger ", "cheeseburger "], "A": []}

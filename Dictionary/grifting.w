@@ -1,0 +1,1 @@
+{"index": 129845, "D": "a group of methods for obtaining money falsely through the use of swindles, frauds, dishonest gambling, etc.", "S": [], "A": []}

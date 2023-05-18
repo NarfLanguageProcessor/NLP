@@ -1,0 +1,1 @@
+{"index": 199115, "D": "exhaustion of a nerve by excess stimulation.", "S": [], "A": []}

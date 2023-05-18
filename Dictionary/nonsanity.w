@@ -1,0 +1,1 @@
+{"index": 207005, "D": "the state of being sane;  soundness of mind.", "S": [], "A": []}

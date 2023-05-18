@@ -1,0 +1,1 @@
+{"index": 95443, "D": "very light brown in color, as raw silk, unbleached linen, etc.", "S": ["beige ", "tan "], "A": []}

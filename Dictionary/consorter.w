@@ -1,0 +1,1 @@
+{"index": 66945, "D": "Compare prince consort, queen consort. ", "S": [], "A": []}

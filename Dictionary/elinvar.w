@@ -1,0 +1,1 @@
+{"index": 97589, "D": "an alloy of iron, nickel, chromium, and other constituents, resistant to rust and magnetization and having a low rate of thermal expansion.", "S": [], "A": []}

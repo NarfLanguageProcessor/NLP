@@ -1,0 +1,1 @@
+{"index": 49176, "D": "involving or stimulating the breakdown of complex substances into simpler ones as part of the process of metabolism  in living organisms (opposed to anabolic)", "S": [], "A": []}

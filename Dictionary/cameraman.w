@@ -1,0 +1,1 @@
+{"index": 45683, "D": "a person who operates a camera,  especially a movie or television camera.", "S": [], "A": []}

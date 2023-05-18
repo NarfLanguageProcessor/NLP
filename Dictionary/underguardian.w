@@ -1,0 +1,1 @@
+{"index": 339308, "D": "a person who guards, protects, or preserves.", "S": [], "A": []}

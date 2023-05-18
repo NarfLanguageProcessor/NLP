@@ -1,0 +1,1 @@
+{"index": 280520, "D": "the philosophy of Schopenhauer,  who taught that only the cessation of desire can solve the problems arising from the universal impulse of the will to live.", "S": [], "A": []}

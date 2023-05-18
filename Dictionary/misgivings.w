@@ -1,0 +1,1 @@
+{"index": 189347, "D": "a feeling of doubt, distrust, or apprehension.", "S": ["anxiety ", "apprehension ", "distrust ", "doubt ", "foreboding ", "hesitation ", "mistrust ", "qualm ", "reservation ", "suspicion ", "unease "], "A": ["assurance ", "belief ", "calmness ", "certainty ", "confidence ", "ease ", "faith ", "trust ", "unconcern "]}

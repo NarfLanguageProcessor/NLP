@@ -1,0 +1,1 @@
+{"index": 352711, "D": "having, displaying, or in accordance with good taste", "S": [], "A": []}

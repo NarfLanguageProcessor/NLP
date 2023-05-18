@@ -1,0 +1,1 @@
+{"index": 289495, "D": "a person devoted to luxury and pleasure.", "S": ["revelry ", "seduction "], "A": ["moderation ", "virtue "]}

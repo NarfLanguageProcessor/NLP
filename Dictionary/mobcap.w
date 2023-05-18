@@ -1,0 +1,1 @@
+{"index": 190938, "D": "a soft cloth cap with a full crown, fitting down over the ears and frequently tying beneath the chin, formerly worn indoors by women.", "S": [], "A": []}

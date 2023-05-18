@@ -1,0 +1,1 @@
+{"index": 171407, "D": "any of various enzymes, as decarboxylase, that catalyze reactions involving the formation of or addition to a double bond.", "S": [], "A": []}

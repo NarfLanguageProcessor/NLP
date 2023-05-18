@@ -1,0 +1,1 @@
+{"index": 149725, "D": "any plant of the genus Incarvillea, native to China, of which some species are grown as garden or greenhouse plants for their large usually carmine-coloured trumpet-shaped flowers, esp I. delavayi", "S": [], "A": []}

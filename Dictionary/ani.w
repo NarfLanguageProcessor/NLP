@@ -1,0 +1,1 @@
+{"index": 13086, "D": "any of several black, tropical American cuckoos of the genus Crotophaga, having a compressed, bladelike bill.", "S": [], "A": []}

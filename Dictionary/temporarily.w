@@ -1,0 +1,1 @@
+{"index": 318593, "D": "only for a while or for the time being; not permanently", "S": ["for a time ", "pro tem ", "pro tempore "], "A": ["permanently "]}

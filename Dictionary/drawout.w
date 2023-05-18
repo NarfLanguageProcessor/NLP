@@ -1,0 +1,1 @@
+{"index": 92815, "D": [], "S": ["drag out ", "elongate ", "protract "], "A": ["shorten "]}

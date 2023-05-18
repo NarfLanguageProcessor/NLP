@@ -1,0 +1,1 @@
+{"index": 312167, "D": "superlative.", "S": [], "A": []}

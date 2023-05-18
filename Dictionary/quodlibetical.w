@@ -1,0 +1,1 @@
+{"index": 259108, "D": "a subtle or elaborate argument or point of debate, usually on a theological or scholastic subject.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8595, "D": "to assert without proof.", "S": ["charge ", "cite ", "declare ", "depose ", "maintain ", "plead ", "recount ", "testify "], "A": ["deny ", "take ", "take back ", "withdraw ", "withhold "]}

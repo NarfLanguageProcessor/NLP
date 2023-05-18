@@ -1,0 +1,1 @@
+{"index": 141698, "D": "to make or emit a sharp sound like that of the letter s prolonged, as a snake does, or as steam does when forced under pressure through a small opening.", "S": ["boo ", "hoot ", "jeer ", "seethe ", "shout down ", "spit ", "wheeze ", "whirr ", "whisper ", "whistle "], "A": ["approve ", "commend ", "compliment ", "exalt ", "flatter ", "laud ", "praise "]}

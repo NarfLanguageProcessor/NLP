@@ -1,0 +1,1 @@
+{"index": 294320, "D": "a couplet or distich of Sanskrit verse, especially one with each line containing 16 syllables.", "S": [], "A": []}

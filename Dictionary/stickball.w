@@ -1,0 +1,1 @@
+{"index": 304287, "D": "a form of baseball played in the streets, on playgrounds, etc., in which a rubber ball  and a broomstick  or the like are used in place of a baseball and bat.", "S": [], "A": []}

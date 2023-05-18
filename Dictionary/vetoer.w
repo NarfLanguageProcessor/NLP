@@ -1,0 +1,1 @@
+{"index": 359166, "D": "the power or right vested in one branch of a government to cancel or postpone the decisions, enactments, etc., of another branch, especially the right of a president, governor, or other chief executive to reject bills passed by the legislature.", "S": [], "A": []}

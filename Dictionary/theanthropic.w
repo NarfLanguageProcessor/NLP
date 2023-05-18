@@ -1,0 +1,1 @@
+{"index": 320695, "D": "of or relating to both God or a god and human beings; both divine and human.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18639, "D": "secret or arcane knowledge, acquired or understood by only a few", "S": [], "A": []}

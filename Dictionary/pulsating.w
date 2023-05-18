@@ -1,0 +1,1 @@
+{"index": 256391, "D": "to expand and contract rhythmically, as the heart; beat; throb.", "S": ["active ", "animated ", "beating ", "bouncing ", "bounding ", "dynamic ", "hopping ", "hurdling ", "irregular ", "leaping ", "quaking ", "quivering ", "shaking ", "skipping ", "springing ", "throbbing ", "trembling "], "A": ["inactive "]}

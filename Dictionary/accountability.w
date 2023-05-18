@@ -1,0 +1,1 @@
+{"index": 1721, "D": "the state of being accountable,  liable, or answerable.", "S": ["liability "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188870, "D": "marriage or cohabitation between two people from different racial groups, especially, in the U.S., between a Black person and a white person", "S": ["interfaith marriage ", "intermarriage "], "A": []}

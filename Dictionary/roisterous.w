@@ -1,0 +1,1 @@
+{"index": 273914, "D": "to act in a swaggering, boisterous, or uproarious manner.", "S": [], "A": []}

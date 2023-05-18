@@ -1,0 +1,1 @@
+{"index": 365765, "D": "capable of being willed  or fixed by will. ", "S": [], "A": []}

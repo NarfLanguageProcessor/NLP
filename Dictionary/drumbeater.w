@@ -1,0 +1,1 @@
+{"index": 93535, "D": "a person who vigorously proclaims or publicizes the merits of a product, idea, movie, etc.; press agent.", "S": [], "A": []}

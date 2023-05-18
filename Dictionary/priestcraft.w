@@ -1,0 +1,1 @@
+{"index": 250418, "D": "the training, knowledge, and abilities necessary to a priest. ", "S": [], "A": []}

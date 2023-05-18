@@ -1,0 +1,1 @@
+{"index": 150752, "D": "the quality or condition of being indelicate.", "S": ["barbarism ", "blunder ", "gaffe ", "gaucherie ", "goof ", "immodesty ", "impudence ", "incongruity ", "incorrectness ", "indecency ", "indecorum ", "inelegance ", "rudeness ", "slip ", "solecism ", "unseemliness ", "unsuitability ", "vulgarism ", "vulgarity "], "A": ["correction ", "decency "]}

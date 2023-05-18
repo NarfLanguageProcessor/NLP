@@ -1,0 +1,1 @@
+{"index": 80950, "D": "an act or instance of demurring;  a demur. ", "S": ["lag ", "moratorium ", "postponement ", "problem ", "setback ", "stoppage ", "suspension ", "wait "], "A": ["continuation ", "advance ", "aid ", "assistance ", "beginning ", "go ", "help ", "liberation ", "promotion ", "support "]}

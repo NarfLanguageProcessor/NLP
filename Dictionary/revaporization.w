@@ -1,0 +1,1 @@
+{"index": 271100, "D": "the act of vaporizing. ", "S": [], "A": []}

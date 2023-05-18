@@ -1,0 +1,1 @@
+{"index": 43685, "D": "any tropical marine fish  of the family Chaetodontidae, having large, broad fins or brilliant coloration, or both.", "S": [], "A": []}

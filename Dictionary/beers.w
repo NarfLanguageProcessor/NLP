@@ -1,0 +1,1 @@
+{"index": 30385, "D": "U.S. pioneer in mental hygiene.", "S": ["ale ", "brew ", "chill ", "hops ", "lager ", "malt ", "oil ", "stout ", "suds "], "A": []}

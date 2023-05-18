@@ -1,0 +1,1 @@
+{"index": 144557, "D": "an abode; a familiar shelter or resort.", "S": [], "A": []}

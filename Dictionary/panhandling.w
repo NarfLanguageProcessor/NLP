@@ -1,0 +1,1 @@
+{"index": 224632, "D": "the handle of a pan.", "S": ["bum ", "cadge ", "freeload ", "hustle ", "mooch ", "scrounge ", "sponge "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 106553, "D": "to make hollow by removing the inner part; make a hole or cavity in; form into a hollow, as by digging", "S": ["biconcave ", "cupped ", "dented ", "dimpled ", "dipped ", "hollow ", "hollowed ", "incurvate ", "incurvated ", "incurved ", "indented ", "round ", "rounded ", "sagging ", "sinking ", "sunken "], "A": ["convex ", "distended "]}

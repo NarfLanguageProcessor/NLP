@@ -1,0 +1,1 @@
+{"index": 67384, "D": "in a way that shows content or satisfaction; contentedly", "S": [], "A": []}

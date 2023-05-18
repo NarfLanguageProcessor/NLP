@@ -1,0 +1,1 @@
+{"index": 306588, "D": "bad-tempered or hostile; quick to take offense.", "S": [], "A": []}

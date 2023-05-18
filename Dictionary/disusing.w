@@ -1,0 +1,1 @@
+{"index": 90030, "D": "discontinuance of use or practice", "S": [], "A": []}

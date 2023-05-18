@@ -1,0 +1,1 @@
+{"index": 206881, "D": "restoration to life, consciousness, vigor, strength, etc.", "S": [], "A": []}

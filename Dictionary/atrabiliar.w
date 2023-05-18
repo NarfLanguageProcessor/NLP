@@ -1,0 +1,1 @@
+{"index": 22813, "D": "gloomy; morose; melancholy; morbid.", "S": [], "A": []}

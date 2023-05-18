@@ -1,0 +1,1 @@
+{"index": 310209, "D": "to cover with sugar", "S": ["alleviate ", "mollify ", "pacify ", "soothe "], "A": ["agitate ", "incite ", "upset ", "worry "]}

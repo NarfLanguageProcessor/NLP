@@ -1,0 +1,1 @@
+{"index": 352779, "D": "characterized by or subject to tempests", "S": [], "A": []}

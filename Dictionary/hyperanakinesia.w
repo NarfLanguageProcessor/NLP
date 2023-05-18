@@ -1,0 +1,1 @@
+{"index": 139874, "D": "abnormally active mechanical movement, especially of the stomach or intestine.", "S": [], "A": []}

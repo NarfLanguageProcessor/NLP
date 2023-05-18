@@ -1,0 +1,1 @@
+{"index": 14945, "D": "(of a surface) having principal curvatures of opposite sign at a given point.", "S": [], "A": []}

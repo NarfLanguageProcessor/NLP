@@ -1,0 +1,1 @@
+{"index": 334036, "D": "(not in technical use) infrared.", "S": [], "A": []}

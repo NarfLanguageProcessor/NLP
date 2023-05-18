@@ -1,0 +1,1 @@
+{"index": 203413, "D": "a person who elects  or may elect,  especially a qualified voter.", "S": [], "A": []}

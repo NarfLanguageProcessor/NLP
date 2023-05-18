@@ -1,0 +1,1 @@
+{"index": 126753, "D": "the opening at the upper part of the larynx, between the vocal cords.", "S": [], "A": []}

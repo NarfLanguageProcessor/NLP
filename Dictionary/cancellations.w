@@ -1,0 +1,1 @@
+{"index": 46087, "D": "an act of canceling. ", "S": ["abandonment ", "abolition ", "annulment ", "dissolution ", "elimination ", "repeal ", "retirement ", "reversal ", "revocation "], "A": ["enactment ", "validation ", "confirmation "]}

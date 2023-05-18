@@ -1,0 +1,1 @@
+{"index": 77444, "D": "in or at the exact midpoint", "S": ["center ", "omphalos "], "A": []}

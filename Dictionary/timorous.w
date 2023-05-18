@@ -1,0 +1,1 @@
+{"index": 323836, "D": "full of fear; fearful", "S": ["apprehensive ", "faint ", "fainthearted ", "fearful ", "hesitant ", "meek ", "shrinking ", "shuddering ", "shy ", "tentative ", "timid ", "tremulous ", "unassertive "], "A": ["bold ", "brazen ", "forthcoming "]}

@@ -1,0 +1,1 @@
+{"index": 140191, "D": "See rose of Sharon (def. 1), Saint John's wort", "S": [], "A": []}

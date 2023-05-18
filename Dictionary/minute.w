@@ -1,0 +1,1 @@
+{"index": 188058, "D": "the sixtieth part (1/60) of an hour; sixty seconds.", "S": ["infinitesimal ", "insignificant ", "microscopic ", "minimal ", "minuscule ", "precise ", "tiny "], "A": ["big ", "huge ", "large ", "significant ", "substantial ", "giant "]}

@@ -1,0 +1,1 @@
+{"index": 148110, "D": "incapable of being moved; fixed; stationary.", "S": ["land "], "A": []}

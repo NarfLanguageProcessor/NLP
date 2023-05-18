@@ -1,0 +1,1 @@
+{"index": 201994, "D": "secluded from the world; sheltered", "S": [], "A": []}

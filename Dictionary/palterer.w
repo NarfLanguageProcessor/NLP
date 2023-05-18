@@ -1,0 +1,1 @@
+{"index": 224201, "D": "to talk or act insincerely or deceitfully; lie or use trickery.", "S": [], "A": []}

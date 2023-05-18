@@ -1,0 +1,1 @@
+{"index": 8691, "D": "serving to alleviate;  palliative.", "S": [], "A": []}

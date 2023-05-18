@@ -1,0 +1,1 @@
+{"index": 299653, "D": "seasoned with or containing spice", "S": ["appetizing ", "aromatic ", "distinctive ", "fiery ", "fragrant ", "fresh ", "hot ", "peppery ", "piquant ", "savory ", "seasoned ", "sweet ", "tangy ", "tasty ", "zesty "], "A": ["bland ", "stale ", "tasteless ", "unappetizing ", "unsavory "]}

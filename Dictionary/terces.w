@@ -1,0 +1,1 @@
+{"index": 319239, "D": "a variant of tierce (def. 3). ", "S": [], "A": []}

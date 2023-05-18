@@ -1,0 +1,1 @@
+{"index": 104048, "D": "knowledge acquired by study, research, etc.; learning; scholarship.", "S": ["refinement "], "A": ["ignorance "]}

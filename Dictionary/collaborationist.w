@@ -1,0 +1,1 @@
+{"index": 62811, "D": "a person who collaborates with an enemy; collaborator.", "S": [], "A": []}

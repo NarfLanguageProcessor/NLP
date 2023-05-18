@@ -1,0 +1,1 @@
+{"index": 110483, "D": "a small pit or cavity resembling a cell of a honeycomb; alveola.", "S": [], "A": []}

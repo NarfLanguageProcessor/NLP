@@ -1,0 +1,1 @@
+{"index": 364219, "D": "a vest or waistcoat.", "S": [], "A": []}

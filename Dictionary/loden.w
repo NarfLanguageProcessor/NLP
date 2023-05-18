@@ -1,0 +1,1 @@
+{"index": 174484, "D": "a thick, heavily fulled, waterproof fabric, used in coats and jackets for cold climates.", "S": [], "A": []}

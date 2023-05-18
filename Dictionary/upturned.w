@@ -1,0 +1,1 @@
+{"index": 355200, "D": "turned  or directed upward", "S": ["upside-down "], "A": []}

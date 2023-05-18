@@ -1,0 +1,1 @@
+{"index": 210228, "D": "the state of being oblique. ", "S": ["corner ", "edge ", "intersection ", "slant ", "twist "], "A": []}

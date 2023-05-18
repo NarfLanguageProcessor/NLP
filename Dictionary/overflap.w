@@ -1,0 +1,1 @@
+{"index": 219383, "D": "a protective paper cover for artwork, usually of kraft paper.", "S": [], "A": []}

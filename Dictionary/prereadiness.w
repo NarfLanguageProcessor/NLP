@@ -1,0 +1,1 @@
+{"index": 249026, "D": "the condition of being ready. ", "S": [], "A": []}

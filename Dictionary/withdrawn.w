@@ -1,0 +1,1 @@
+{"index": 366595, "D": "past participle of withdraw. ", "S": ["cool ", "detached ", "introverted ", "quiet ", "reserved ", "restrained ", "retired ", "retiring ", "retreated ", "shrinking ", "shy "], "A": ["agitated ", "bold ", "confident ", "extroverted ", "friendly ", "outgoing ", "unreserved "]}

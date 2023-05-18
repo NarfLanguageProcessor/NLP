@@ -1,0 +1,1 @@
+{"index": 237157, "D": "pinnate  condition or formation.", "S": [], "A": []}

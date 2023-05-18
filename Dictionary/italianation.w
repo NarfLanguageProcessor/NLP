@@ -1,0 +1,1 @@
+{"index": 159442, "D": "Italianized; conforming to the Italian type or style or to Italian customs, manners, etc.", "S": [], "A": []}

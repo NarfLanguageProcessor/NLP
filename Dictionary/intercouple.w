@@ -1,0 +1,1 @@
+{"index": 154764, "D": "two of the same sort considered together; pair.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 14547, "D": "the state or quality of being anthropocentric. ", "S": [], "A": []}

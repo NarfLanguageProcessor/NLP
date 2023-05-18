@@ -1,0 +1,1 @@
+{"index": 168480, "D": "a strip of fat used in larding, especially as drawn through the substance of meat, chicken, etc., with a kind of needle or pin.", "S": [], "A": []}

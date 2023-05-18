@@ -1,0 +1,1 @@
+{"index": 198265, "D": "something that a person cannot conquer, achieve, etc.", "S": ["adversary "], "A": ["advantage ", "associate ", "happiness "]}

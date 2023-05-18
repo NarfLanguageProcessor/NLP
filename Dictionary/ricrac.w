@@ -1,0 +1,1 @@
+{"index": 272614, "D": "a narrow, zigzag braid or ribbon used as a trimming on clothing, linens, etc.", "S": [], "A": []}

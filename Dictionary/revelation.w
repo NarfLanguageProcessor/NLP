@@ -1,0 +1,1 @@
+{"index": 271134, "D": "the act of revealing or disclosing; disclosure. ", "S": ["announcement ", "discovery ", "epiphany ", "leak ", "news "], "A": ["concealment ", "cover ", "hiding ", "quiet ", "secret "]}

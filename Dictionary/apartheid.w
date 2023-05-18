@@ -1,0 +1,1 @@
+{"index": 16665, "D": "(in the Republic of South Africa) a rigid former policy of segregating and economically and politically oppressing the nonwhite population.", "S": ["discrimination ", "racism "], "A": []}

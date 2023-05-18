@@ -1,0 +1,1 @@
+{"index": 264444, "D": "a child held back from starting kindergarten for one year, the practice of which is believed by some parents to give the child academic, athletic, and social advantages.", "S": [], "A": []}

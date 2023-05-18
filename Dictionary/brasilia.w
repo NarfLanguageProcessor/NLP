@@ -1,0 +1,1 @@
+{"index": 39996, "D": "a city in and the capital of Brazil, on the central plateau.", "S": [], "A": []}

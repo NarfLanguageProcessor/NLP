@@ -1,0 +1,1 @@
+{"index": 317755, "D": "marked by monotony or tedium;  long and tiresome", "S": ["annoying ", "banal ", "boring ", "dreary ", "endless ", "exhausting ", "humdrum ", "laborious ", "tiresome ", "tiring ", "uninteresting "], "A": ["easy ", "eventful ", "exciting ", "facile ", "interesting ", "pleasant "]}

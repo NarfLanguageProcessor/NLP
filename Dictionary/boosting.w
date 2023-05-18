@@ -1,0 +1,1 @@
+{"index": 38219, "D": "to lift or raise by pushing from behind or below.", "S": ["elaboration "], "A": ["abridgment ", "compression ", "decrease ", "lessening ", "reduction ", "shrinkage "]}

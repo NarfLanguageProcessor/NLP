@@ -1,0 +1,1 @@
+{"index": 166542, "D": "crude, imperfect, or temporary.", "S": [], "A": []}

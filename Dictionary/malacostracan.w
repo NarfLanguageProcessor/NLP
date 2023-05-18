@@ -1,0 +1,1 @@
+{"index": 178188, "D": "belonging or pertaining to the crustacean subclass Malacostraca, which includes the lobsters, shrimps, crabs, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118947, "D": "a person attached to another by feelings of affection or personal regard.", "S": ["acquaintance ", "ally ", "associate ", "buddy ", "classmate ", "colleague ", "companion ", "cousin ", "partner ", "roommate "], "A": ["antagonist ", "enemy ", "foe ", "opponent ", "stranger "]}

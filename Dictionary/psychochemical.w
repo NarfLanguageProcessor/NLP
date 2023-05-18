@@ -1,0 +1,1 @@
+{"index": 255318, "D": "pertaining to chemicals  or drugs that affect the mind or behavior.", "S": [], "A": []}

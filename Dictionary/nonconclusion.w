@@ -1,0 +1,1 @@
+{"index": 202218, "D": "the end or close; final part.", "S": [], "A": []}

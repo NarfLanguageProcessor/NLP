@@ -1,0 +1,1 @@
+{"index": 75265, "D": "a means of healing or restoring to health; remedy.", "S": ["hopeless ", "irremediable ", "irreparable ", "terminal ", "uncorrectable ", "unfixable "], "A": []}

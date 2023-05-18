@@ -1,0 +1,1 @@
+{"index": 341942, "D": "not failing;  not giving way; not falling short of expectation; completely dependable", "S": ["always ", "constantly ", "customarily ", "habitually ", "regularly "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187666, "D": "a lofty, often slender, tower or turret attached to a mosque, surrounded by or furnished with one or more balconies, from which the muezzin calls the people to prayer.", "S": [], "A": []}

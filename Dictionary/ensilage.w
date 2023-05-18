@@ -1,0 +1,1 @@
+{"index": 101036, "D": "the preservation of green fodder in a silo or pit.", "S": ["fodder ", "silage "], "A": []}

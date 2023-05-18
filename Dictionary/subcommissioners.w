@@ -1,0 +1,1 @@
+{"index": 307504, "D": "a person commissioned  to act officially; member of a commission. ", "S": [], "A": []}

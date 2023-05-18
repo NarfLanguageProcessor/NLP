@@ -1,0 +1,1 @@
+{"index": 15513, "D": "a person who is markedly more concerned with material  things than with spiritual, intellectual, or cultural values.", "S": [], "A": []}

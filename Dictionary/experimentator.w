@@ -1,0 +1,1 @@
+{"index": 107733, "D": "a test, trial, or tentative procedure; an act or operation for the purpose of discovering something unknown or of testing a principle, supposition, etc.", "S": [], "A": []}

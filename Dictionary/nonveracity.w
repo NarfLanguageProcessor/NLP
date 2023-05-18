@@ -1,0 +1,1 @@
+{"index": 208227, "D": "habitual observance of truth in speech or statement; truthfulness", "S": [], "A": []}

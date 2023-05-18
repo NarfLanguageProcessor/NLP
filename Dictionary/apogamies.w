@@ -1,0 +1,1 @@
+{"index": 17199, "D": "the asexual development of a sporophyte from a cell or cells of the gametophyte other than the egg.", "S": [], "A": []}

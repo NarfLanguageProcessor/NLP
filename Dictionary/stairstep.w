@@ -1,0 +1,1 @@
+{"index": 302444, "D": "a step  in a staircase.", "S": [], "A": []}

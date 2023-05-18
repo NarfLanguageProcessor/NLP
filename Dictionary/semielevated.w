@@ -1,0 +1,1 @@
+{"index": 284145, "D": "raised up, especially above the ground or above the normal level", "S": [], "A": []}

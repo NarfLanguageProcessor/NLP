@@ -1,0 +1,1 @@
+{"index": 363013, "D": "to consume, spend, or employ uselessly or without adequate return; use to no avail or profit; squander", "S": ["misuse "], "A": ["building ", "construction ", "creation ", "development ", "growth ", "improvement "]}

@@ -1,0 +1,1 @@
+{"index": 154675, "D": "a communication system within a building, ship, airplane, local area, etc., with a loudspeaker or receiver for listening and a microphone for speaking at each of two or more points.", "S": ["pager "], "A": []}

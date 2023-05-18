@@ -1,0 +1,1 @@
+{"index": 36700, "D": "any of numerous plants of the bellflower family, having blue,  bell-shaped flowers, as a bellflower or harebell.", "S": [], "A": []}

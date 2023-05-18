@@ -1,0 +1,1 @@
+{"index": 302092, "D": "to peer at quickly and closely.", "S": [], "A": []}

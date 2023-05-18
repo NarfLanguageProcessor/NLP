@@ -1,0 +1,1 @@
+{"index": 330149, "D": "a yellow, crystalline compound, C7H5N3O7, used in high explosives.", "S": [], "A": []}

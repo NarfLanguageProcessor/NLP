@@ -1,0 +1,1 @@
+{"index": 367000, "D": "any of several stocky, burrowing, herbivorous marsupials of the family Vombatidae, of Australia, about the size of a badger.", "S": ["X ", "bar ", "baz ", "corge ", "foo ", "fred ", "garply ", "grault ", "plugh ", "quux ", "qux ", "thud ", "waldo ", "whatchamacallit ", "xyzzy "], "A": []}

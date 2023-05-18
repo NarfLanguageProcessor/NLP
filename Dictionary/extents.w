@@ -1,0 +1,1 @@
+{"index": 108250, "D": "the space or degree to which a thing extends; length, area, volume, or scope", "S": ["amount ", "breadth ", "degree ", "duration ", "expansion ", "intensity ", "length ", "matter ", "measure ", "quantity ", "scope ", "size ", "term "], "A": ["extreme "]}

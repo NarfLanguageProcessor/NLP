@@ -1,0 +1,1 @@
+{"index": 278203, "D": "the juice or vital circulating fluid of a plant, especially of a woody plant.", "S": ["exhausting ", "taxing "], "A": []}

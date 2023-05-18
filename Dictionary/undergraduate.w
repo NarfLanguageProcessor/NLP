@@ -1,0 +1,1 @@
+{"index": 339283, "D": "a student in a university or college who has not received a first, especially a bachelor's, degree.", "S": ["freshman ", "junior ", "senior ", "sophomore ", "student "], "A": ["graduate "]}

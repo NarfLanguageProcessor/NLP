@@ -1,0 +1,1 @@
+{"index": 220564, "D": "to convey pollen  to the stigma of (a flower).", "S": [], "A": []}

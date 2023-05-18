@@ -1,0 +1,1 @@
+{"index": 277755, "D": "a person or thing that sands  or sandpapers.", "S": [], "A": []}

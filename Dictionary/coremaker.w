@@ -1,0 +1,1 @@
+{"index": 69028, "D": "a person who makes cores  for foundry molds.", "S": [], "A": []}

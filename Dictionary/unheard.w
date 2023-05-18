@@ -1,0 +1,1 @@
+{"index": 343604, "D": "not heard; not perceived by the ear.", "S": ["inaudible "], "A": ["audible ", "heard ", "noisy ", "talkative "]}

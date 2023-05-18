@@ -1,0 +1,1 @@
+{"index": 206727, "D": "a person or thing that represents  another or others.", "S": ["abstract ", "biased ", "idiosyncratic ", "illusory ", "instinctive ", "intuitive ", "personal "], "A": ["meditated ", "real "]}

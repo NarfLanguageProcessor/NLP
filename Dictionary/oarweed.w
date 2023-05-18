@@ -1,0 +1,1 @@
+{"index": 209916, "D": "any of various brown seaweeds, especially a kelp of the genus Laminaria, with long broad fronds, common below the low-water mark", "S": [], "A": []}

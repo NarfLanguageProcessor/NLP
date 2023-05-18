@@ -1,0 +1,1 @@
+{"index": 313691, "D": [], "S": ["defect ", "deficiency ", "failing ", "fallibility ", "foible ", "imperfection ", "infirmity ", "shortcoming "], "A": ["advantage ", "perfection ", "strength ", "strong point ", "ability ", "health ", "soundness "]}

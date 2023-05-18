@@ -1,0 +1,1 @@
+{"index": 7901, "D": "fully aware and attentive; wide-awake; keen", "S": ["brilliantly ", "judiciously ", "logically ", "prudently ", "rationally ", "reasonably ", "sensibly ", "shrewdly ", "skillfully ", "wisely "], "A": ["badly ", "foolishly ", "stupidly ", "unintelligently "]}

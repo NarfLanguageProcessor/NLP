@@ -1,0 +1,1 @@
+{"index": 163104, "D": "a member of a people living in northeast Nigeria and in Niger.", "S": [], "A": []}

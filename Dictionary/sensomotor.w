@@ -1,0 +1,1 @@
+{"index": 285420, "D": "Compare ideomotor. ", "S": [], "A": []}

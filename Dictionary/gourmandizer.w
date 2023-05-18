@@ -1,0 +1,1 @@
+{"index": 128346, "D": "to enjoy fine food and drink, especially often and in lavish quantity.", "S": [], "A": []}

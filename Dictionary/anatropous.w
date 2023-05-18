@@ -1,0 +1,1 @@
+{"index": 12122, "D": "(of an ovule) inverted at an early stage of growth, so that the micropyle is turned toward the funicle and the embryonic root is at the opposite end.", "S": [], "A": []}

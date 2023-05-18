@@ -1,0 +1,1 @@
+{"index": 140956, "D": "the underground part of a building, as a vault.", "S": [], "A": []}

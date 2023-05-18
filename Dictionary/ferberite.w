@@ -1,0 +1,1 @@
+{"index": 111319, "D": "a mineral, ferrous tungstate, FeWO4, in the wolframite group", "S": [], "A": []}

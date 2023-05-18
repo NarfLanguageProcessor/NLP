@@ -1,0 +1,1 @@
+{"index": 336298, "D": "to come more or less violently in contact with; collide with; strike", "S": [], "A": []}

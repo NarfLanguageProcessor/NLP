@@ -1,0 +1,1 @@
+{"index": 107657, "D": "to speed up the progress of; hasten", "S": ["darting ", "dashing ", "flying ", "hastening ", "propelling ", "racing ", "running ", "rushing ", "scurrying ", "speeding "], "A": ["crawling ", "creeping "]}

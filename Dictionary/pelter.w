@@ -1,0 +1,1 @@
+{"index": 229415, "D": "a person or thing that pelts. ", "S": [], "A": []}

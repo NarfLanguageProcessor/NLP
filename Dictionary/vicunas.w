@@ -1,0 +1,1 @@
+{"index": 359500, "D": "a wild South American ruminant, Vicugna vicugna, of the Andes, related to the guanaco but smaller, and yielding a soft, delicate wool", "S": [], "A": []}

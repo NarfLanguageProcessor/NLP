@@ -1,0 +1,1 @@
+{"index": 19903, "D": "an ancient country in W Asia", "S": [], "A": []}

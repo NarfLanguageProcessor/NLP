@@ -1,0 +1,1 @@
+{"index": 359464, "D": "a silver coin of ancient Rome, first issued in the late 3rd century b.c., having a figure of Victory on the reverse.", "S": [], "A": []}

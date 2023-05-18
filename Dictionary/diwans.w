@@ -1,0 +1,1 @@
+{"index": 90452, "D": "any of certain officials in India, such as a financial minister or prime minister of an Indian state.", "S": [], "A": []}

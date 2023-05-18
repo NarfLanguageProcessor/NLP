@@ -1,0 +1,1 @@
+{"index": 174654, "D": "noting or pertaining to a logarithmic function  with a normal distribution, or the distribution of a random variable for which the logarithm  of the variable has a normal distribution.", "S": [], "A": []}

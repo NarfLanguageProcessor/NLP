@@ -1,0 +1,1 @@
+{"index": 187107, "D": "(of a domestic animal) yielding milk; kept or suitable for milk production.", "S": [], "A": []}

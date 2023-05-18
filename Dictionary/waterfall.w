@@ -1,0 +1,1 @@
+{"index": 363149, "D": "a steep fall or flow of water in a watercourse from a height, as over a precipice; cascade.", "S": ["cataract ", "chute ", "fall ", "rapids ", "shoot ", "weir "], "A": []}

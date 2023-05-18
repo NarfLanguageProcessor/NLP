@@ -1,0 +1,1 @@
+{"index": 16686, "D": "absence or suppression of passion, emotion, or excitement.", "S": [], "A": []}

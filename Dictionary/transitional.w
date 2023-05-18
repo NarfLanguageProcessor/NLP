@@ -1,0 +1,1 @@
+{"index": 327989, "D": "of or relating to a transition  from one position, state, stage, subject, concept, etc., to another", "S": ["capricious ", "fickle ", "fluctuating ", "mercurial ", "protean ", "shifting ", "unpredictable ", "unsettled ", "unstable ", "varying ", "volatile "], "A": ["calm ", "constant ", "stable ", "steadfast ", "steady ", "unvarying "]}

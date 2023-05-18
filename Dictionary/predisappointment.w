@@ -1,0 +1,1 @@
+{"index": 246993, "D": "the act or fact of disappointing", "S": [], "A": []}

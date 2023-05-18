@@ -1,0 +1,1 @@
+{"index": 115906, "D": "pertaining to or consisting of leaflets (often used in combination, as bifoliolate).", "S": [], "A": []}

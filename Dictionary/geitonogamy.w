@@ -1,0 +1,1 @@
+{"index": 123160, "D": "pollination of a flower by pollen from another flower on the same plant.", "S": [], "A": []}

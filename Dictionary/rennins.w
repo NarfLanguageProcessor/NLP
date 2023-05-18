@@ -1,0 +1,1 @@
+{"index": 267684, "D": "a coagulating enzyme occurring in the gastric juice of the calf, forming the active principle of rennet  and able to curdle milk.", "S": [], "A": []}

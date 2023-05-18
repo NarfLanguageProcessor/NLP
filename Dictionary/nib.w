@@ -1,0 +1,1 @@
+{"index": 199544, "D": "the point of a pen, or either of its divisions.", "S": ["snout "], "A": []}

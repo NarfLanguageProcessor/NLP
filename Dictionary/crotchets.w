@@ -1,0 +1,1 @@
+{"index": 73924, "D": "an odd fancy or whimsical notion.", "S": ["caprice ", "eccentricity ", "fancy ", "freak ", "notion ", "peculiarity ", "trait ", "vagary ", "whim "], "A": []}

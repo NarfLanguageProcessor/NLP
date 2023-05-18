@@ -1,0 +1,1 @@
+{"index": 175618, "D": "the real and unadorned facts; the true, secret, or inside information", "S": ["advice ", "clue ", "data ", "info ", "instruction ", "intelligence ", "knowledge ", "material ", "message ", "report ", "science ", "tip ", "word "], "A": []}

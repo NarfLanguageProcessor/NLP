@@ -1,0 +1,1 @@
+{"index": 181394, "D": "tearfully or weakly emotional; foolishly sentimental", "S": ["mawkish ", "mushy ", "romantic ", "sentimental ", "syrupy ", "weepy "], "A": ["pragmatic ", "unemotional ", "unromantic "]}

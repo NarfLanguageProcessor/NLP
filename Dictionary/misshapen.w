@@ -1,0 +1,1 @@
+{"index": 190030, "D": "badly shaped; deformed.", "S": ["contorted ", "twisted "], "A": []}

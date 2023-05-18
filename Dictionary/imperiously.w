@@ -1,0 +1,1 @@
+{"index": 148559, "D": "in a domineering or haughty manner", "S": ["arrogantly ", "boastfully ", "bombastically ", "conceitedly ", "disdainfully ", "egotistically ", "flamboyantly ", "gaudily ", "insolently ", "ostentatiously ", "overbearingly ", "proudly ", "snobbishly ", "spectacularly ", "theatrically "], "A": ["humbly ", "modestly ", "quietly "]}

@@ -1,0 +1,1 @@
+{"index": 156884, "D": "the act or procedure of inserting a tube into the trachea, digestive tract, etc.", "S": [], "A": []}

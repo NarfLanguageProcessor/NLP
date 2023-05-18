@@ -1,0 +1,1 @@
+{"index": 164652, "D": "a unit of mass equal to 1,000 grams", "S": [], "A": []}

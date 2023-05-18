@@ -1,0 +1,1 @@
+{"index": 308074, "D": "being in the earliest stage of development", "S": [], "A": []}

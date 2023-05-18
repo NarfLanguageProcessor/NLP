@@ -1,0 +1,1 @@
+{"index": 317969, "D": "chronic dilatation of the capillaries and other small blood vessels.", "S": [], "A": []}

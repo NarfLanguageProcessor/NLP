@@ -1,0 +1,1 @@
+{"index": 17778, "D": "a pushcart used by a vendor of apples. ", "S": [], "A": []}

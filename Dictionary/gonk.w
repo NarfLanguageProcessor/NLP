@@ -1,0 +1,1 @@
+{"index": 127799, "D": "a stuffed toy, often used as a mascot", "S": [], "A": []}

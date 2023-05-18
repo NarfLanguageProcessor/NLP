@@ -1,0 +1,1 @@
+{"index": 221024, "D": "the fertilized, matured ovule of a flowering plant, containing an embryo or rudimentary plant.", "S": [], "A": []}

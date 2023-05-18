@@ -1,0 +1,1 @@
+{"index": 328745, "D": "a medieval engine of war with a sling for hurling missiles.", "S": [], "A": []}

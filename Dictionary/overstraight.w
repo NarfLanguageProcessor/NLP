@@ -1,0 +1,1 @@
+{"index": 221379, "D": "without a bend, angle, or curve; not curved; direct", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162090, "D": "the administration of justice, as by judges or courts.", "S": ["court of arbitration ", "court of justice ", "law court "], "A": []}

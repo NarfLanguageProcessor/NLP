@@ -1,0 +1,1 @@
+{"index": 99002, "D": "of or relating to an enactment that creates new rights and obligations.", "S": [], "A": []}

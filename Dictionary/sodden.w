@@ -1,0 +1,1 @@
+{"index": 296280, "D": "soaked with liquid or moisture; saturated.", "S": ["soaked ", "soggy "], "A": ["arid ", "dry "]}

@@ -1,0 +1,1 @@
+{"index": 226368, "D": "parentheses", "S": [], "A": []}

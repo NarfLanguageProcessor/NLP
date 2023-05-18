@@ -1,0 +1,1 @@
+{"index": 77288, "D": "a Scot word for dare", "S": [], "A": []}

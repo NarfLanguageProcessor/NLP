@@ -1,0 +1,1 @@
+{"index": 243659, "D": "a curtain hung in a doorway, either to replace the door or for decoration.", "S": [], "A": []}

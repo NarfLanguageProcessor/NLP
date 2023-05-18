@@ -1,0 +1,1 @@
+{"index": 203386, "D": "pertaining to or of the nature of egoism. ", "S": [], "A": []}

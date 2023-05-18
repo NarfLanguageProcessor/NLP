@@ -1,0 +1,1 @@
+{"index": 119066, "D": "any fish of the genus Neoclinus, characterized by a row of fleshy processes on the head,  as N. blanchardi(sarcastic fringehead ), of California coastal waters.", "S": [], "A": []}

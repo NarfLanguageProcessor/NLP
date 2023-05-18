@@ -1,0 +1,1 @@
+{"index": 30234, "D": "a rubiaceous plant, Galium verum, or some allied species, formerly used as straw  for stuffing mattresses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321828, "D": "of, pertaining to, resembling, or characteristic of thyme", "S": [], "A": []}

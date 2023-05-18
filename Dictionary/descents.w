@@ -1,0 +1,1 @@
+{"index": 82423, "D": "the act, process, or fact of moving from a higher to a lower position.", "S": ["plunge ", "slide "], "A": ["ascent ", "evenness ", "increase ", "level ", "rise "]}

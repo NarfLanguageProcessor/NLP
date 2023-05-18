@@ -1,0 +1,1 @@
+{"index": 3868, "D": "management that responds to urgent problems rather than planning to avoid them", "S": [], "A": []}

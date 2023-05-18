@@ -1,0 +1,1 @@
+{"index": 167558, "D": "the Lamarckian theory that characteristics acquired by habit, use, or disuse may be passed on to future generations through inheritance.", "S": [], "A": []}

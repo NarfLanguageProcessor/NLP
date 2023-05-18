@@ -1,0 +1,1 @@
+{"index": 247225, "D": "to give a concrete form to; express, personify, or exemplify in concrete form", "S": [], "A": []}

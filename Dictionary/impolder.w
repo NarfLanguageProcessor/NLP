@@ -1,0 +1,1 @@
+{"index": 148839, "D": "to make into a polder; reclaim (land) from the sea", "S": [], "A": []}

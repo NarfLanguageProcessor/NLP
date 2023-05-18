@@ -1,0 +1,1 @@
+{"index": 328242, "D": "to remove (a plant) from one place and plant it in another.", "S": ["crude ", "dependent ", "dominion ", "emigrant ", "frontier ", "immigrant ", "pilgrim ", "pioneer ", "primitive ", "provincial ", "puritan ", "territorial ", "wild "], "A": ["gentle ", "modern ", "sophisticated "]}

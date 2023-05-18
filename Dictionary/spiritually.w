@@ -1,0 +1,1 @@
+{"index": 300145, "D": "of, relating to, or consisting of spirit;  incorporeal.", "S": ["religiously "], "A": []}

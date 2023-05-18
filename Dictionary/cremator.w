@@ -1,0 +1,1 @@
+{"index": 72594, "D": "a person who cremates.", "S": ["boiler ", "heater ", "heating system ", "incinerator ", "kiln ", "stove "], "A": ["freezer "]}

@@ -1,0 +1,1 @@
+{"index": 327204, "D": "a treatise; essay.", "S": ["communication ", "conversation ", "discussion ", "essay ", "lecture ", "monologue ", "rhetoric ", "speech ", "treatise "], "A": ["quiet ", "silence "]}

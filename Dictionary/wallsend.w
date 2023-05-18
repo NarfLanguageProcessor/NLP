@@ -1,0 +1,1 @@
+{"index": 362283, "D": "a city in Tyne and Wear, NE England, near the mouth of the Tyne River.", "S": [], "A": []}

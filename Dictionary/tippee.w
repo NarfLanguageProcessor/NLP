@@ -1,0 +1,1 @@
+{"index": 324356, "D": "a person who receives a tip, as of money or information.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42368, "D": "a person who builds. ", "S": ["architect ", "artisan ", "contractor ", "inventor ", "maker ", "manufacturer ", "producer "], "A": ["wrecker "]}

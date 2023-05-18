@@ -1,0 +1,1 @@
+{"index": 235747, "D": "a coarse, woody fiber obtained from either of two palms, Leopoldina piassaba or Attalea funifera, of South America, used in making brooms, mats, etc.", "S": [], "A": []}

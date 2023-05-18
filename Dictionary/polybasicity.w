@@ -1,0 +1,1 @@
+{"index": 241651, "D": "(of an acid) having two or more atoms of replaceable hydrogen.", "S": [], "A": []}

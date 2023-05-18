@@ -1,0 +1,1 @@
+{"index": 229798, "D": "the study of the punishment of crime, in both its deterrent and its reformatory aspects.", "S": [], "A": []}

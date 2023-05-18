@@ -1,0 +1,1 @@
+{"index": 348908, "D": "an angry dispute or altercation; a disagreement marked by a temporary or permanent break in friendly relations.", "S": [], "A": []}

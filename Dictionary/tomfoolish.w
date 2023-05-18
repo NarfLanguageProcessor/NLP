@@ -1,0 +1,1 @@
+{"index": 325435, "D": "a grossly foolish or stupid person; a silly fool.", "S": [], "A": []}

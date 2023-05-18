@@ -1,0 +1,1 @@
+{"index": 250889, "D": "a competitor for a prize. ", "S": ["outstanding ", "topnotch "], "A": ["lower ", "poor ", "worst "]}

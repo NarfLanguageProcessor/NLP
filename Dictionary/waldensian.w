@@ -1,0 +1,1 @@
+{"index": 362166, "D": "a Christian sect that arose after 1170 in southern France, under the leadership of Pierre Waldo, a merchant of Lyons, and joined the Reformation movement in the 16th century.", "S": [], "A": []}

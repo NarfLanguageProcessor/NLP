@@ -1,0 +1,1 @@
+{"index": 254334, "D": "an ancient musical instrument consisting of a flat sounding box with numerous strings which are plucked with the fingers or with a plectrum.", "S": [], "A": []}

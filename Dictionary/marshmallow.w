@@ -1,0 +1,1 @@
+{"index": 180423, "D": "a sweetened paste or confection made from the mucilaginous root of the marsh mallow. ", "S": ["amiable ", "cordial ", "even-tempered ", "friendly ", "good-hearted ", "good-humored ", "gracious "], "A": ["aloof ", "cool ", "disagreeable ", "hateful ", "mean ", "rude ", "unfriendly ", "unsociable "]}

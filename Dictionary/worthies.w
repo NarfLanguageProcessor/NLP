@@ -1,0 +1,1 @@
+{"index": 367706, "D": "having adequate or great merit, character, or value", "S": ["celebrity ", "dignitary ", "notable ", "personage ", "superstar "], "A": ["nobody "]}

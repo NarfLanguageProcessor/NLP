@@ -1,0 +1,1 @@
+{"index": 134404, "D": "a harbor or port.", "S": ["harbor ", "hide ", "lodge ", "protect ", "shield ", "surround ", "take care of ", "take in "], "A": ["lay bare ", "let out ", "open ", "uncover ", "abandon ", "disregard ", "endanger ", "forget ", "harm ", "hurt ", "ignore ", "injure ", "lay open ", "let go ", "reveal "]}

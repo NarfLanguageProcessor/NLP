@@ -1,0 +1,1 @@
+{"index": 370029, "D": "Persian religious teacher.", "S": [], "A": []}

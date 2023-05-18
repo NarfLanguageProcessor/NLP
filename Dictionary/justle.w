@@ -1,0 +1,1 @@
+{"index": 162561, "D": "a less common variant of jostle. ", "S": ["cluster ", "congest ", "congregate ", "deluge ", "flock ", "gather ", "huddle ", "overcrowd ", "pack ", "pile ", "squeeze ", "stream ", "swamp ", "swarm ", "throng "], "A": ["disperse ", "distribute ", "divide ", "scatter ", "separate ", "spread ", "pull "]}

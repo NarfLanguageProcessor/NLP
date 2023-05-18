@@ -1,0 +1,1 @@
+{"index": 362076, "D": "a person, especially a man, who waits  on tables, as in a restaurant.", "S": ["attendant ", "servant ", "steward ", "waitress "], "A": []}

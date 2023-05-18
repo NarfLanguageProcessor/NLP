@@ -1,0 +1,1 @@
+{"index": 119735, "D": "a greenish, water-soluble, solid, coal-tar derivative, obtained by the oxidation of a mixture of aniline and the toluidines, that forms deep-red solutions", "S": [], "A": []}

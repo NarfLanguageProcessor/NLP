@@ -1,0 +1,1 @@
+{"index": 258933, "D": "fivefold; consisting of five parts.", "S": ["cinque ", "cinquefoil ", "limerick ", "lustrum ", "pentacle ", "pentad ", "pentagon ", "pentagram ", "pentangle ", "quinquennium ", "quintette ", "quintuple ", "quintuplet "], "A": []}

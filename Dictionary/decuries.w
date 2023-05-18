@@ -1,0 +1,1 @@
+{"index": 78834, "D": "a division, company, or body of ten men.", "S": [], "A": []}

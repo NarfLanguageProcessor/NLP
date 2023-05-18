@@ -1,0 +1,1 @@
+{"index": 42133, "D": "(in classical architecture) an ornament, especially on a frieze, having the form of the skull of an ox.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 281462, "D": "an act or instance of reconnoitering; reconnaissance.", "S": ["aloof ", "arrogant ", "averse ", "contemptuous ", "derisive ", "haughty ", "unsympathetic "], "A": ["humble ", "meek ", "shy ", "sympathetic "]}

@@ -1,0 +1,1 @@
+{"index": 220132, "D": "free or released from fastening or attachment", "S": [], "A": []}

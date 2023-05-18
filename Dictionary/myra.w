@@ -1,0 +1,1 @@
+{"index": 188295, "D": "an ancient city in SW Asia Minor, in Lycia.", "S": [], "A": []}

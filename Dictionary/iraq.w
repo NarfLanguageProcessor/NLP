@@ -1,0 +1,1 @@
+{"index": 157878, "D": "a republic in SW Asia, N of Saudi Arabia and W of Iran, centering in the Tigris-Euphrates basin of Mesopotamia. 172,000 sq. mi. (445,480 sq. km). Capital", "S": [], "A": []}

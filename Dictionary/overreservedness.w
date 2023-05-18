@@ -1,0 +1,1 @@
+{"index": 220852, "D": "kept or set apart for some particular use or purpose.", "S": [], "A": []}

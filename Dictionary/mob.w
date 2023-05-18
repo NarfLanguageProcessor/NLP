@@ -1,0 +1,1 @@
+{"index": 190923, "D": "a disorderly or riotous crowd of people.", "S": ["clan ", "crowd ", "flock ", "gang ", "horde ", "mass ", "riot ", "swarm ", "throng ", "troop "], "A": ["individual ", "single "]}

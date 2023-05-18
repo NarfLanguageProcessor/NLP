@@ -1,0 +1,1 @@
+{"index": 180634, "D": "pertaining to or characteristic of a man or men", "S": [], "A": []}

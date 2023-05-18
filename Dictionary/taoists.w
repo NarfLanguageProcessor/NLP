@@ -1,0 +1,1 @@
+{"index": 316280, "D": "the philosophical system evolved by Lao-tzu and Chuang-tzu, advocating a life of complete simplicity and naturalness and of noninterference with the course of natural events, in order to attain a happy existence in harmony with the Tao. ", "S": [], "A": []}

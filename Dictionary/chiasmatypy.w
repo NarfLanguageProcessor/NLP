@@ -1,0 +1,1 @@
+{"index": 54070, "D": "the process of chiasma  formation, which is the basis for crossing over.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 131426, "D": "the smuggling of guns  or other ammunition into a country.", "S": [], "A": []}

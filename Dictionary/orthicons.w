@@ -1,0 +1,1 @@
+{"index": 214944, "D": "a camera tube, more sensitive than the iconoscope,  in which a beam of low-velocity electrons scans a photoemissive mosaic.", "S": [], "A": []}

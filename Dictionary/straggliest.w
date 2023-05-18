@@ -1,0 +1,1 @@
+{"index": 305636, "D": "straggling;  rambling.", "S": ["contaminated ", "crummy ", "disheveled ", "dusty ", "filthy ", "greasy ", "grimy ", "messy ", "muddy ", "murky ", "nasty ", "polluted ", "sloppy ", "stained ", "unkempt "], "A": ["bright ", "clean ", "clear ", "ordered ", "orderly ", "sterile ", "neat "]}

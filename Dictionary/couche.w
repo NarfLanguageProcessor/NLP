@@ -1,0 +1,1 @@
+{"index": 70479, "D": "(of an escutcheon) depicted in a diagonal position, the sinister chief uppermost.", "S": [], "A": []}

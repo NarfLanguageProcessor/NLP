@@ -1,0 +1,1 @@
+{"index": 177926, "D": "the principal or dominant course, tendency, or trend", "S": ["fashion ", "style "], "A": []}

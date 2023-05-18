@@ -1,0 +1,1 @@
+{"index": 298243, "D": "a dish consisting of lumps or threads made from a batter of flour, milk, eggs, and salt, usually poured through a coarse colander into boiling water, and then either drained and mixed in butter, lightly pan-fried, or added to sauces, stews, etc.", "S": [], "A": []}

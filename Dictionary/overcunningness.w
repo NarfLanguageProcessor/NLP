@@ -1,0 +1,1 @@
+{"index": 218820, "D": "skill employed in a shrewd or sly manner, as in deceiving; craftiness; guile. ", "S": [], "A": []}

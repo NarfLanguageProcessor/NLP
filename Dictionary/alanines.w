@@ -1,0 +1,1 @@
+{"index": 7312, "D": "any of several isomers of a colorless, crystalline, water-soluble amino acid, CH3CH(NH2)COOH, found in many proteins and produced synthetically", "S": [], "A": []}

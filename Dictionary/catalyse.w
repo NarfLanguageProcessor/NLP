@@ -1,0 +1,1 @@
+{"index": 49262, "D": "to influence (a chemical reaction) by catalysis", "S": [], "A": []}

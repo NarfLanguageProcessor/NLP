@@ -1,0 +1,1 @@
+{"index": 220226, "D": "of the nature of or characterized by melody;  tuneful.", "S": [], "A": []}

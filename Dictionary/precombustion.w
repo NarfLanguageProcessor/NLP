@@ -1,0 +1,1 @@
+{"index": 246260, "D": "the act or process of burning.", "S": [], "A": []}

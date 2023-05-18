@@ -1,0 +1,1 @@
+{"index": 173700, "D": "a person who works at lithography. ", "S": ["artist ", "carver ", "cutter ", "etcher ", "lapidary ", "sculptor "], "A": []}

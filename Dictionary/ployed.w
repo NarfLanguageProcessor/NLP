@@ -1,0 +1,1 @@
+{"index": 240180, "D": "a maneuver or stratagem, as in conversation, to gain the advantage.", "S": [], "A": []}

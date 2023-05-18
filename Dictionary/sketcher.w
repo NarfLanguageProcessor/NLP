@@ -1,0 +1,1 @@
+{"index": 293012, "D": "a simply or hastily executed drawing or painting, especially a preliminary one, giving the essential features without the details.", "S": [], "A": []}

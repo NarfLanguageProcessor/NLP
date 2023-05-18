@@ -1,0 +1,1 @@
+{"index": 280588, "D": "of, relating to, or belonging to the Sciaenidae, a family of mainly tropical and subtropical marine percoid fishes that includes the drums, grunts, and croakers", "S": [], "A": []}

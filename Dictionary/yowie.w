@@ -1,0 +1,1 @@
+{"index": 157803, "D": "a large legendary manlike or apelike creature, alleged to inhabit the Australian outback", "S": [], "A": []}

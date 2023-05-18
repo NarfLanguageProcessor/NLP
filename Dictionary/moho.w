@@ -1,0 +1,1 @@
+{"index": 191280, "D": "short for Mohorovi\u010di\u0107 discontinuity", "S": [], "A": []}

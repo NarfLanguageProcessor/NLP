@@ -1,0 +1,1 @@
+{"index": 20424, "D": "Compare thesis (def. 4). ", "S": [], "A": []}

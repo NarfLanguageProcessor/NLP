@@ -1,0 +1,1 @@
+{"index": 298052, "D": "a waterproof hat, often of oilskin, having the brim very broad behind and slanted, worn especially by seamen.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 368678, "D": "a surgical instrument for scraping bones.", "S": [], "A": []}

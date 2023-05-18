@@ -1,0 +1,1 @@
+{"index": 120164, "D": "an adherent of fundamentalism,  a religious movement characterized by a strict belief in the literal interpretation of religious texts", "S": ["fanatic ", "zealot "], "A": []}

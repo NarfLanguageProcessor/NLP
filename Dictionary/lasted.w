@@ -1,0 +1,1 @@
+{"index": 168773, "D": "occurring or coming after all others, as in time, order, or place", "S": ["be steadfast ", "carry on ", "complete ", "drudge ", "finish ", "grind ", "labor ", "last ", "maintain ", "persevere ", "persist ", "remain ", "slave ", "stay ", "stick ", "toil "], "A": ["discontinue ", "give in ", "give up "]}

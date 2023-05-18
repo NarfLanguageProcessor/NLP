@@ -1,0 +1,1 @@
+{"index": 323922, "D": "a solution of alcohol or of alcohol and water, containing animal, vegetable, or chemical drugs.", "S": ["cast ", "color ", "dye ", "elixir ", "extract ", "imbrue ", "imbue ", "pigment ", "shade ", "stain ", "taint ", "tinge ", "tint ", "trace ", "vestige "], "A": ["cleanliness ", "white "]}

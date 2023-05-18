@@ -1,0 +1,1 @@
+{"index": 28710, "D": "a sufficient quantity to fill a basket;  the amount contained in a basket. ", "S": [], "A": []}

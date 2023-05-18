@@ -1,0 +1,1 @@
+{"index": 113567, "D": "either of two plants, Fittonia gigantea or F. verschaffeltii, of the acanthus family, native to South America, having conspicuously veined leaves and often cultivated as a houseplant.", "S": [], "A": []}

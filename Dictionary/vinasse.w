@@ -1,0 +1,1 @@
+{"index": 359809, "D": "the residuum in a still after distillation; slop.", "S": [], "A": []}

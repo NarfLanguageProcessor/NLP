@@ -1,0 +1,1 @@
+{"index": 91551, "D": "either of the two sidepieces of a doorframe.", "S": [], "A": []}

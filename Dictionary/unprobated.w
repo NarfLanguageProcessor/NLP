@@ -1,0 +1,1 @@
+{"index": 348510, "D": "the official proving of a will as authentic or valid in a probate court. ", "S": [], "A": []}

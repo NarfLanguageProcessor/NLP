@@ -1,0 +1,1 @@
+{"index": 7101, "D": "of or relating to objects that are pierced, perforated, or decorated with an openwork pattern.", "S": [], "A": []}

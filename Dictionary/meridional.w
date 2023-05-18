@@ -1,0 +1,1 @@
+{"index": 183799, "D": "of, relating to, or resembling a meridian. ", "S": ["austral ", "midi ", "southerly "], "A": ["northern "]}

@@ -1,0 +1,1 @@
+{"index": 314651, "D": "to sweep through the air, as a bird or a bat, especially down upon prey.", "S": ["dive ", "plummet ", "pounce "], "A": ["ascend ", "rise "]}

@@ -1,0 +1,1 @@
+{"index": 245788, "D": "to bring into accord, harmony, or sympathetic relationship; adjust", "S": [], "A": []}

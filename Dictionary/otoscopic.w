@@ -1,0 +1,1 @@
+{"index": 215982, "D": "an instrument for examining the external canal and tympanic membrane of the ear.", "S": [], "A": []}

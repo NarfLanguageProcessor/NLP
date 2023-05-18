@@ -1,0 +1,1 @@
+{"index": 137326, "D": "a pattern consisting of adjoining vertical rows of slanting lines, any two contiguous lines forming either a V or an inverted V, used in masonry, textiles, embroidery, etc.", "S": [], "A": []}

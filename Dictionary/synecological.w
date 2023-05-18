@@ -1,0 +1,1 @@
+{"index": 291580, "D": "the branch of ecology  dealing with the relations between natural communities and their environments.", "S": [], "A": []}

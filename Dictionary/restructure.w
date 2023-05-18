@@ -1,0 +1,1 @@
+{"index": 270059, "D": "to change, alter, or restore the structure  of", "S": ["reconstruct ", "reshuffle ", "revamp "], "A": []}

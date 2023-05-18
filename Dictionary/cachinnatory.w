@@ -1,0 +1,1 @@
+{"index": 44104, "D": "to laugh loudly or immoderately.", "S": [], "A": []}

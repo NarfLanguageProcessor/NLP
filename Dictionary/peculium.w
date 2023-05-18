@@ -1,0 +1,1 @@
+{"index": 228711, "D": "property that a father or master allowed his child or slave to hold as his own", "S": [], "A": []}

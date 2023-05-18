@@ -1,0 +1,1 @@
+{"index": 103923, "D": "arousing or satisfying sexual desire", "S": ["amorous ", "bawdy ", "carnal ", "lewd ", "obscene ", "romantic ", "seductive ", "sensual ", "sexual ", "steamy ", "suggestive "], "A": ["chaste ", "clean ", "decent ", "moral ", "pure "]}

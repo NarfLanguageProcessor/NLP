@@ -1,0 +1,1 @@
+{"index": 322880, "D": "to play on a stringed instrument, as a guitar, by plucking the strings, especially in an idle, monotonous, or unskillful manner; strum. ", "S": ["cord ", "cotton ", "filament ", "silk ", "strand ", "string ", "wire ", "wool ", "yarn "], "A": []}

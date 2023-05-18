@@ -1,0 +1,1 @@
+{"index": 74039, "D": "any of several large oscine birds of the genus Corvus, of the family Corvidae, having a long, stout bill, lustrous black plumage, and a wedge-shaped tail, as the common C. brachyrhynchos, of North America.", "S": ["boast ", "brag ", "exult ", "gloat ", "squawk ", "strut "], "A": ["fail "]}

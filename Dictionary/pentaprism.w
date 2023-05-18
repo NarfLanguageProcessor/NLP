@@ -1,0 +1,1 @@
+{"index": 229994, "D": "a prism  that has five faces, a pair of which are at 90\u00b0 to each other; a ray entering one of the pair emerges from the other at an angle of 90\u00b0 to its original direction", "S": [], "A": []}

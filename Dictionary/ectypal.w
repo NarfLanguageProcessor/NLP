@@ -1,0 +1,1 @@
+{"index": 95477, "D": "a reproduction; copy (opposed to prototype).", "S": [], "A": []}

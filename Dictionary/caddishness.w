@@ -1,0 +1,1 @@
+{"index": 44300, "D": "of or like a cad;  dishonorable; ungentlemanly", "S": [], "A": []}

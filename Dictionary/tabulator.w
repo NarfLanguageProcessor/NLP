@@ -1,0 +1,1 @@
+{"index": 314943, "D": "a person or thing that tabulates. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 2924, "D": "a flowerless plant growing and producing its reproductive structures at the apex only, as ferns and mosses.", "S": [], "A": []}

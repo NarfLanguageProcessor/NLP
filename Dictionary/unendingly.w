@@ -1,0 +1,1 @@
+{"index": 341255, "D": "a bringing or coming to an end;  termination; close", "S": ["consistently ", "constantly ", "continually ", "forever ", "regularly ", "usually "], "A": []}

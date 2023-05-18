@@ -1,0 +1,1 @@
+{"index": 190267, "D": "the beliefs, ideas, or mode of thought of mystics. ", "S": ["cabala ", "cabalism ", "kabala ", "kabbalism ", "pietism ", "quietism ", "spiritualism "], "A": []}

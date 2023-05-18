@@ -1,0 +1,1 @@
+{"index": 150347, "D": "not convincible; incapable of being convinced.", "S": [], "A": []}

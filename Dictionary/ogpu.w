@@ -1,0 +1,1 @@
+{"index": 211756, "D": "(in the U.S.S.R.) the government's secret-police organization (1923\u20131934).", "S": [], "A": []}

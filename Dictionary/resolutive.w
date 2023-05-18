@@ -1,0 +1,1 @@
+{"index": 269597, "D": "having the ability to dissolve or terminate.", "S": [], "A": []}

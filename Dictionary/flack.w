@@ -1,0 +1,1 @@
+{"index": 113691, "D": "press agent. ", "S": ["grief ", "hardship ", "injustice ", "objection ", "outrage ", "resentment ", "sorrow ", "unhappiness "], "A": ["delight ", "happiness ", "joy ", "advantage ", "aid ", "assistance ", "benefit ", "blessing ", "comfort ", "compliment ", "favor ", "good health ", "health ", "help ", "peace ", "pleasure ", "praise ", "right "]}

@@ -1,0 +1,1 @@
+{"index": 291710, "D": "sincere and undivided in feeling or spirit; dedicated; not reflecting mixed emotions", "S": [], "A": []}

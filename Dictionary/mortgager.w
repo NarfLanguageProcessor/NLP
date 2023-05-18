@@ -1,0 +1,1 @@
+{"index": 193716, "D": "a person who mortgages  property.", "S": [], "A": []}

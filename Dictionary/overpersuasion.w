@@ -1,0 +1,1 @@
+{"index": 220487, "D": "to persuade  (a person) against their own inclination or intention", "S": [], "A": []}

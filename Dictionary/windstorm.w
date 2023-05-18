@@ -1,0 +1,1 @@
+{"index": 366051, "D": "a storm  with heavy wind  but little or no precipitation.", "S": ["cyclone ", "gale ", "squall ", "tornado ", "twister "], "A": []}

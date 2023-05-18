@@ -1,0 +1,1 @@
+{"index": 203316, "D": "not resistant to wear, decay, etc.; not sturdy", "S": [], "A": []}

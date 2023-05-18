@@ -1,0 +1,1 @@
+{"index": 338722, "D": "in a way that can be demonstrated or proved", "S": [], "A": []}

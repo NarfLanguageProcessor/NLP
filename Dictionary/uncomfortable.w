@@ -1,0 +1,1 @@
+{"index": 337271, "D": "causing discomfort or distress; painful; irritating.", "S": ["annoying ", "awkward ", "bitter ", "difficult ", "distressing ", "hard ", "harsh ", "troublesome "], "A": ["agreeable ", "easy ", "kind ", "mild ", "nice ", "pleasant ", "pleasing ", "simple ", "soft ", "straightforward "]}

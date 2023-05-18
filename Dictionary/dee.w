@@ -1,0 +1,1 @@
+{"index": 78948, "D": "a metal loop attached to tack, for fastening gear", "S": [], "A": []}

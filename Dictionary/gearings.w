@@ -1,0 +1,1 @@
+{"index": 123035, "D": "an assembly of parts, especially a train of gears,  for transmitting and modifying motion and torque in a machine.", "S": [], "A": []}

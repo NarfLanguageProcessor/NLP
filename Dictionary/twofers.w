@@ -1,0 +1,1 @@
+{"index": 333494, "D": "a card or ticket entitling the holder to purchase two tickets to a theatrical performance at a reduced price.", "S": [], "A": []}

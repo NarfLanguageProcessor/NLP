@@ -1,0 +1,1 @@
+{"index": 340051, "D": "to fail to make practical or profitable use of", "S": [], "A": []}

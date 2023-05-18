@@ -1,0 +1,1 @@
+{"index": 326694, "D": "to disorder or dishevel", "S": ["clutter ", "disarrange ", "discompose ", "dishevel ", "disorder ", "mess ", "muss ", "rumple "], "A": ["neaten ", "order "]}

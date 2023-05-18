@@ -1,0 +1,1 @@
+{"index": 103430, "D": "allowing the possibility of several different meanings, as a word or phrase, especially with intent to deceive or misguide; susceptible of double interpretation; deliberately ambiguous", "S": ["doubt ", "uncertainty ", "vagueness "], "A": ["certainty "]}

@@ -1,0 +1,1 @@
+{"index": 332800, "D": "a link or sleeve with a swivel at one end and an internal screw thread at the other, or with an internal screw thread at each end, used as a means of uniting or coupling, and of tightening, two parts, as the ends of two rods.", "S": [], "A": []}

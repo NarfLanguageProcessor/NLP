@@ -1,0 +1,1 @@
+{"index": 79194, "D": "to ward off attack from; guard against assault or injury (usually followed by from or against)", "S": ["opposing "], "A": ["unwary ", "unwatchful "]}

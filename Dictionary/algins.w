@@ -1,0 +1,1 @@
+{"index": 8101, "D": "any hydrophilic, colloidal substance found in or obtained from various kelps, as alginic acid  or one of its soluble salts.", "S": [], "A": []}

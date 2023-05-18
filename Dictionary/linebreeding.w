@@ -1,0 +1,1 @@
+{"index": 172763, "D": "a form of inbreeding directed toward keeping the offspring closely related to a superior ancestor.", "S": [], "A": []}

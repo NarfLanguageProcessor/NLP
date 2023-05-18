@@ -1,0 +1,1 @@
+{"index": 50841, "D": "a temporary framework for supporting a masonry arch during construction until it is able to stand by itself.", "S": ["absorption ", "combination ", "consolidation "], "A": ["division ", "parting ", "separation ", "severance "]}

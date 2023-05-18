@@ -1,0 +1,1 @@
+{"index": 207157, "D": "sentient  condition or character; capacity for sensation or feeling.", "S": [], "A": []}

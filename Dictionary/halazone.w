@@ -1,0 +1,1 @@
+{"index": 132548, "D": "a white crystalline powder, C7H5Cl2NO4S, having a strong chlorinelike odor, used to disinfect water.", "S": [], "A": []}

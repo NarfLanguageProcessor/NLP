@@ -1,0 +1,1 @@
+{"index": 236267, "D": "any plant of a genus, Pieris, of American and Asiatic shrubs, esp P. formosa forrestii, grown for the bright red colour of its young foliage", "S": [], "A": []}

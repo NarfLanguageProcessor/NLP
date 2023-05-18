@@ -1,0 +1,1 @@
+{"index": 319781, "D": "a person who is tested,  as by a scholastic examination.", "S": ["rodent "], "A": []}

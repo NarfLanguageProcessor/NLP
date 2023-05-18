@@ -1,0 +1,1 @@
+{"index": 205083, "D": "a person, team, nation, etc., that loses", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171647, "D": "a variant spelling of litchi", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60643, "D": "to force (a sailing vessel) onto a new tack, esp in an emergency, by fastening a lee anchor to the lee quarter, dropping the anchor as the vessel comes about, and hauling in the anchor cable to swing the stern to windward", "S": [], "A": []}

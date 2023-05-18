@@ -1,0 +1,1 @@
+{"index": 230391, "D": "capable of being perceived;  recognizable; appreciable", "S": ["clearly ", "evidently ", "officially ", "plainly "], "A": ["vaguely "]}

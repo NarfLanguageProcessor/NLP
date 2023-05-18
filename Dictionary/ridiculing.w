@@ -1,0 +1,1 @@
+{"index": 272691, "D": "speech or action intended to cause contemptuous laughter at a person or thing; derision.", "S": ["biting ", "degrading ", "derogatory ", "disparaging ", "disrespectful ", "hurtful ", "offensive ", "repulsive ", "rude "], "A": ["complimentary ", "kind ", "mannerly ", "nice ", "pleasing ", "respectful "]}

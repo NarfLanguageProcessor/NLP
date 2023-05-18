@@ -1,0 +1,1 @@
+{"index": 308932, "D": "square or rectangular.", "S": [], "A": []}

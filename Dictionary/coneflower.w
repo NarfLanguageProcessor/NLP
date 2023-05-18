@@ -1,0 +1,1 @@
+{"index": 65736, "D": "any of several composite plants of Rudbeckia,Echinacea, and other genera, having flowers  usually with yellow rays and a brown or black disk.", "S": [], "A": []}

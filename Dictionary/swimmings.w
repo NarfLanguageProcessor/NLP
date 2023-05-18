@@ -1,0 +1,1 @@
+{"index": 314443, "D": "the act of a person or thing that swims. ", "S": ["floating "], "A": []}

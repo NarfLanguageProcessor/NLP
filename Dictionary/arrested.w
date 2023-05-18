@@ -1,0 +1,1 @@
+{"index": 20209, "D": "to seize (a person) by legal authority or warrant; take into custody", "S": ["jailed ", "seized "], "A": []}

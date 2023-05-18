@@ -1,0 +1,1 @@
+{"index": 164865, "D": "an early motion-picture device, invented by Edison, in which the film passed behind a peephole for viewing by a single viewer.", "S": [], "A": []}

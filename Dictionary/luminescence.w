@@ -1,0 +1,1 @@
+{"index": 176099, "D": "the emission of light not caused by incandescence and occurring at a temperature below that of incandescent bodies.", "S": ["effulgence ", "radiance "], "A": []}

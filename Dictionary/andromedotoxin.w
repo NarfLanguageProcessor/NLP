@@ -1,0 +1,1 @@
+{"index": 12430, "D": "a toxin found in the nectar of some species of rhododendron and other plants of the family Ericaceae and in food made from their nectar, as unpasteurized honey, poisonous to humans and animals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100584, "D": "to make an island of.", "S": ["cloister ", "close off ", "insulate ", "segregate "], "A": ["lay bare ", "reveal ", "tell ", "uncover "]}

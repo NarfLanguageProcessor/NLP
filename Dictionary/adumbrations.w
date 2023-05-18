@@ -1,0 +1,1 @@
+{"index": 4541, "D": "a shadow or faint image of something", "S": ["badge ", "banner ", "coat of arms ", "flag ", "image ", "insignia ", "logo ", "marker ", "memento ", "motto ", "reminder ", "symbol ", "trademark "], "A": []}

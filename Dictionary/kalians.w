@@ -1,0 +1,1 @@
+{"index": 162893, "D": "a Persian tobacco pipe in which the smoke is drawn through water; hookah.", "S": ["plumbing ", "water main "], "A": []}

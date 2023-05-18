@@ -1,0 +1,1 @@
+{"index": 242387, "D": "having a calyx of separate or unconnected sepals.", "S": [], "A": []}

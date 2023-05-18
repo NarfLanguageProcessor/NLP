@@ -1,0 +1,1 @@
+{"index": 344741, "D": "of, relating to, or characterized by intermission. ", "S": [], "A": []}

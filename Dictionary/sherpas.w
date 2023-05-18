@@ -1,0 +1,1 @@
+{"index": 288117, "D": "a member of a people of Tibetan descent living in the Nepalese Himalayas, who often serve as porters on mountain-climbing expeditions.", "S": ["chaperon ", "cicerone ", "docent ", "escort ", "guide ", "tour guide "], "A": []}

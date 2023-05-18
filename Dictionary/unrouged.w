@@ -1,0 +1,1 @@
+{"index": 350085, "D": "any of various red cosmetics for coloring the cheeks or lips.", "S": [], "A": []}

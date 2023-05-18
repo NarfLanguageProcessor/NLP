@@ -1,0 +1,1 @@
+{"index": 119148, "D": "(in Anglo-Saxon England) a seat in a church, placed near the altar, for persons who claimed the right of sanctuary.", "S": [], "A": []}

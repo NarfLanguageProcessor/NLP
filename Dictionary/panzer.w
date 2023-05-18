@@ -1,0 +1,1 @@
+{"index": 225077, "D": "(especially in the German army) armored", "S": [], "A": []}

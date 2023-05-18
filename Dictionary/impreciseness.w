@@ -1,0 +1,1 @@
+{"index": 149012, "D": "not precise;  not exact; vague or ill-defined.", "S": [], "A": []}

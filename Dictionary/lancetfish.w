@@ -1,0 +1,1 @@
+{"index": 167892, "D": "any large, marine fish  of the genus Alepisaurus, having daggerlike teeth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46665, "D": "a layer of burnt brick lying directly over a clamp of bricks being fired.", "S": [], "A": []}

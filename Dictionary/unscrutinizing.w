@@ -1,0 +1,1 @@
+{"index": 350572, "D": "to examine in detail with careful or critical attention.", "S": [], "A": []}

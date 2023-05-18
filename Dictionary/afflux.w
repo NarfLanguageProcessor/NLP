@@ -1,0 +1,1 @@
+{"index": 5448, "D": "something that flows to or toward a point", "S": [], "A": []}

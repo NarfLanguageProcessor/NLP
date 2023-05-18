@@ -1,0 +1,1 @@
+{"index": 179006, "D": "authoritatively ordered; obligatory; compulsory", "S": ["binding ", "compulsory ", "de rigueur ", "essential ", "forced ", "imperative ", "indispensable ", "involuntary ", "obligatory "], "A": ["free ", "inessential ", "nonessential ", "optional ", "secondary ", "unforced ", "unnecessary ", "voluntary "]}

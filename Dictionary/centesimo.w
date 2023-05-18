@@ -1,0 +1,1 @@
+{"index": 50858, "D": "a monetary unit of Italy until the euro  was adopted, one 100th of a lira.", "S": [], "A": []}

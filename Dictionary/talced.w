@@ -1,0 +1,1 @@
+{"index": 315553, "D": "a green-to-gray, soft mineral, hydrous magnesium silicate, Mg3(Si4O10)(OH)2, unctuous to the touch, and occurring usually in foliated or compact masses, used in making lubricants, talcum powder,  electrical insulation, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53456, "D": "in good spirits; cheerful; happy.", "S": ["cheerfully ", "cordially ", "enthusiastically ", "freely ", "gleefully ", "gratefully ", "heartily ", "readily ", "warmly ", "willingly "], "A": ["unwillingly "]}

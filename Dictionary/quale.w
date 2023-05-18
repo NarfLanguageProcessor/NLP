@@ -1,0 +1,1 @@
+{"index": 257858, "D": "a quality, as bitterness, regarded as an independent object.", "S": [], "A": []}

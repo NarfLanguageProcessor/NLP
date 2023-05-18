@@ -1,0 +1,1 @@
+{"index": 317196, "D": "the 23rd letter of the Hebrew alphabet.", "S": [], "A": []}

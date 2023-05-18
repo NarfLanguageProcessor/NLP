@@ -1,0 +1,1 @@
+{"index": 302142, "D": "penetrating; piercing", "S": [], "A": []}

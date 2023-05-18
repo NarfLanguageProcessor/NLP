@@ -1,0 +1,1 @@
+{"index": 42862, "D": "to do clumsily and awkwardly; botch", "S": ["clumsily ", "stiffly "], "A": ["adroitly ", "gracefully ", "skillfully "]}

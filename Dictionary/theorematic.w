@@ -1,0 +1,1 @@
+{"index": 321112, "D": "a theoretical proposition, statement, or formula embodying something to be proved from other propositions or formulas.", "S": [], "A": []}

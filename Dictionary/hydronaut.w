@@ -1,0 +1,1 @@
+{"index": 138800, "D": "a person trained to work in deep-sea vessels for research and rescue purposes.", "S": [], "A": []}

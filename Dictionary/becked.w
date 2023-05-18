@@ -1,0 +1,1 @@
+{"index": 29820, "D": "a gesture used to signal, summon, or direct someone.", "S": [], "A": []}

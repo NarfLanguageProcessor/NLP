@@ -1,0 +1,1 @@
+{"index": 40425, "D": "(intr) Southern African informal a variant spelling of brei", "S": [], "A": []}

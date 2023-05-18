@@ -1,0 +1,1 @@
+{"index": 202028, "D": "logically connected; consistent", "S": [], "A": []}

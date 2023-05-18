@@ -1,0 +1,1 @@
+{"index": 337915, "D": "disregard for convention; the state or quality of being inconsistent with customs, rules, etc.; originality.", "S": ["foible ", "idiosyncrasy ", "peculiarity ", "quirk ", "weirdness "], "A": ["conformity ", "normalcy ", "normality ", "regularity ", "sameness ", "standard ", "usualness "]}

@@ -1,0 +1,1 @@
+{"index": 205370, "D": "the ability to move spontaneously, or the rate or degree of such movement", "S": [], "A": []}

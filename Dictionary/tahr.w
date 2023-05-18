@@ -1,0 +1,1 @@
+{"index": 315304, "D": "any of several Old World wild goats of the genus Hemitragus, as H. jemlahicus(Himalayan tahr ), introduced into New Zealand, having a long mane and short, stout, recurving horns", "S": [], "A": []}

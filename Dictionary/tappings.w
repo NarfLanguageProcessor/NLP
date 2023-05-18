@@ -1,0 +1,1 @@
+{"index": 316425, "D": "the act of a person or thing that taps  or strikes lightly.", "S": ["beat ", "blow ", "clack ", "click ", "clicking ", "flash ", "instant ", "minute ", "moment ", "pulsation ", "pulse ", "rap ", "second ", "shake ", "tap ", "tapping ", "throb ", "ticktock ", "twinkling ", "wink "], "A": []}

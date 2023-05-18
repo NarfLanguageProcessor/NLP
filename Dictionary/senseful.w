@@ -1,0 +1,1 @@
+{"index": 285352, "D": "full of reasonable sense;  sound; judicious.", "S": [], "A": []}

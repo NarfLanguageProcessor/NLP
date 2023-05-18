@@ -1,0 +1,1 @@
+{"index": 291630, "D": "a body organ, medicine, etc., that cooperates with another or others to produce or enhance an effect.", "S": ["impetus ", "incentive ", "motivation ", "stimulant "], "A": ["block ", "hindrance "]}

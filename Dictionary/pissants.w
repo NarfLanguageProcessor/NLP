@@ -1,0 +1,1 @@
+{"index": 238135, "D": "a person or thing of no value or consequence; a despicable person or thing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188786, "D": "improper, inappropriate, or bad behavior. ", "S": ["immorality ", "impropriety ", "insubordination ", "misconduct ", "misdeed ", "transgression ", "wrongdoing "], "A": ["behavior ", "obedience "]}

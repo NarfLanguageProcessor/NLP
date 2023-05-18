@@ -1,0 +1,1 @@
+{"index": 171920, "D": "a person sentenced to or serving a term of life  imprisonment.", "S": ["convict ", "delinquent ", "lawbreaker ", "offender "], "A": ["police "]}

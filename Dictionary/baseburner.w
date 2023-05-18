@@ -1,0 +1,1 @@
+{"index": 28495, "D": "a stove or furnace with a self-acting fuel hopper over the fire chamber.", "S": ["runner "], "A": []}

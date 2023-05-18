@@ -1,0 +1,1 @@
+{"index": 296010, "D": "a massive variety of talc with a soapy or greasy feel, used for hearths, washtubs, tabletops, carved ornaments, etc.", "S": [], "A": []}

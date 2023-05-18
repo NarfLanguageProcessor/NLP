@@ -1,0 +1,1 @@
+{"index": 110884, "D": "to perceive or examine by touch.", "S": ["ambience ", "atmosphere ", "aura ", "feeling ", "impression ", "mood ", "quality ", "sense ", "touch "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 354682, "D": "to gather  up or together", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235860, "D": "a variant spelling of picaroon", "S": [], "A": []}

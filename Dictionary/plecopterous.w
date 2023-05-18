@@ -1,0 +1,1 @@
+{"index": 239702, "D": "belonging or pertaining to the insect order Plecoptera, comprising the stoneflies.", "S": [], "A": []}

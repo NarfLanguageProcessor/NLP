@@ -1,0 +1,1 @@
+{"index": 33557, "D": "noting or pertaining to a style of furnishings common in German-speaking areas in the early to middle 19th century, generally existing as a simplification of the French Directoire and Empire styles, usually executed in fruitwood with much use of matched veneers, and often displaying architectural motifs.", "S": [], "A": []}

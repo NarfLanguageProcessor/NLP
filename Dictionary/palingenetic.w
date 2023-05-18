@@ -1,0 +1,1 @@
+{"index": 223879, "D": "rebirth; regeneration.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321553, "D": "any of several units of heat, as one equivalent to 1000 large calories or 100,000 British thermal units.", "S": [], "A": []}

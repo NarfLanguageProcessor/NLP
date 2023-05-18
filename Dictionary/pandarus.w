@@ -1,0 +1,1 @@
+{"index": 224454, "D": "a Trojan who attempted to assassinate Menelaus, thereby violating a truce between the Greeks and the Trojans and prolonging the Trojan War", "S": [], "A": []}

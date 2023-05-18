@@ -1,0 +1,1 @@
+{"index": 21063, "D": "the sac in ascomycetes in which the sexual spores are formed.", "S": [], "A": []}

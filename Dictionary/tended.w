@@ -1,0 +1,1 @@
+{"index": 318715, "D": "to be disposed or inclined in action, operation, or effect to do something", "S": ["intact ", "protected ", "secure "], "A": ["insecure ", "unprotected "]}

@@ -1,0 +1,1 @@
+{"index": 210296, "D": "a modern Greek unit of weight equal to 0.1 gram.", "S": [], "A": []}

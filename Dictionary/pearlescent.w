@@ -1,0 +1,1 @@
+{"index": 228453, "D": "having an iridescent luster resembling that of pearl; nacreous", "S": [], "A": []}

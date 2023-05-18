@@ -1,0 +1,1 @@
+{"index": 134101, "D": "a clasp for a door, lid, etc., especially one passing over a staple and fastened by a pin or a padlock.", "S": ["clasp ", "close ", "gird ", "latch ", "lock "], "A": ["key "]}

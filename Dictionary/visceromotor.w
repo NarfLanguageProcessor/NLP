@@ -1,0 +1,1 @@
+{"index": 360318, "D": "of or relating to the normal movements of the viscera,  especially the digestive tract.", "S": [], "A": []}

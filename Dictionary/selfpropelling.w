@@ -1,0 +1,1 @@
+{"index": 283552, "D": "propelled by itself.", "S": [], "A": []}

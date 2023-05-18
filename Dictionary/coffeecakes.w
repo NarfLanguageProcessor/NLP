@@ -1,0 +1,1 @@
+{"index": 62142, "D": "a cake  or sweetened bread, often flavored with cinnamon and made or topped with nuts, raisins, candied fruit, etc., and glazed with melted sugar, usually served with coffee. ", "S": [], "A": []}

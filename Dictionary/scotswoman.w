@@ -1,0 +1,1 @@
+{"index": 281399, "D": "a woman who is a native or inhabitant of Scotland; Scot.", "S": [], "A": []}

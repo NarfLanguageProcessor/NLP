@@ -1,0 +1,1 @@
+{"index": 107949, "D": "to lay open to danger, attack, harm, etc.", "S": ["bare ", "bring to light ", "disclose ", "display ", "open ", "prove ", "uncover ", "unmask "], "A": ["conceal ", "cover ", "hide ", "secrete ", "withhold ", "be quiet ", "bury ", "keep secret ", "refrain ", "suppress "]}

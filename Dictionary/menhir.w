@@ -1,0 +1,1 @@
+{"index": 183315, "D": "an upright monumental stone standing either alone or with others, as in an alignment, found chiefly in Cornwall and Brittany.", "S": ["block ", "column ", "monument ", "pillar ", "statue ", "stone "], "A": []}

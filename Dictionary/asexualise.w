@@ -1,0 +1,1 @@
+{"index": 21102, "D": "to make incapable of reproduction, as by castrating.", "S": [], "A": []}

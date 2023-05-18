@@ -1,0 +1,1 @@
+{"index": 190475, "D": "(in a canal or the like) a lock gate  having two leaves so made as to close at an angle pointing upstream.", "S": [], "A": []}

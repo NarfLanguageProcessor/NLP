@@ -1,0 +1,1 @@
+{"index": 328322, "D": "a person having a strong desire to assume the physical characteristics and gender role of a different sex.", "S": ["bisexual ", "cross-sexual ", "epicene ", "hermaphrodite ", "trans-sexual ", "unisexual "], "A": []}

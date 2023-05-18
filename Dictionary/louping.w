@@ -1,0 +1,1 @@
+{"index": 175478, "D": "a cloth mask, often of silk or velvet, that covers only half the face.", "S": [], "A": []}

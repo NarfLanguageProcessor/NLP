@@ -1,0 +1,1 @@
+{"index": 25323, "D": "not confined to any particular zone or region; not local.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247976, "D": "to supply with information beforehand", "S": [], "A": []}

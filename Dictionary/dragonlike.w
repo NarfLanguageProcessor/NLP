@@ -1,0 +1,1 @@
+{"index": 92577, "D": "a mythical monster generally represented as a huge, winged reptile with crested head and enormous claws and teeth, and often spouting fire.", "S": [], "A": []}

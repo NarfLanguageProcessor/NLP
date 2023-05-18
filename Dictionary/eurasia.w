@@ -1,0 +1,1 @@
+{"index": 105727, "D": "Europe and Asia  considered together as one continent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 369587, "D": "a nickel coin and monetary unit of Poland, equal to 100 groszy. Abbreviation", "S": [], "A": []}

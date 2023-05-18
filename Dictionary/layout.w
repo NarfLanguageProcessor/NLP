@@ -1,0 +1,1 @@
+{"index": 167433, "D": "an arrangement or plan", "S": ["blueprint ", "chart ", "design ", "geography ", "map "], "A": []}

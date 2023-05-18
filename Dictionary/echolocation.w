@@ -1,0 +1,1 @@
+{"index": 95288, "D": "the general method of locating objects by determining the time for an echo  to return and the direction from which it returns, as by radar or sonar.", "S": [], "A": []}

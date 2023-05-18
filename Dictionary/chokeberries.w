@@ -1,0 +1,1 @@
+{"index": 55341, "D": "the berrylike fruit of any North American shrub of the genus Aronia, of the rose family, especially A. arbutifolia(red chokeberry ),A. melanocarpa(black chokeberry ), or A. prunifolia(purple chokeberry ).", "S": [], "A": []}

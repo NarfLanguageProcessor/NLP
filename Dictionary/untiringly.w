@@ -1,0 +1,1 @@
+{"index": 353076, "D": [], "S": ["closely "], "A": ["easily ", "gently ", "moderately ", "softly ", "tolerantly ", "unenthusiastically ", "yielding "]}

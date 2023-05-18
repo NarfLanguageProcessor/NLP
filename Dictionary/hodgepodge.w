@@ -1,0 +1,1 @@
+{"index": 142195, "D": "a heterogeneous mixture; jumble.", "S": ["jumble ", "mishmash ", "patchwork "], "A": ["singularity "]}

@@ -1,0 +1,1 @@
+{"index": 181696, "D": "deficient in amount, quality, or extent", "S": [], "A": []}

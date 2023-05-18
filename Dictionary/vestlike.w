@@ -1,0 +1,1 @@
+{"index": 359097, "D": "a close-fitting, waist-length, sleeveless garment that buttons down the front, designed to be worn under a jacket.", "S": [], "A": []}

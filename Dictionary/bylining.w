@@ -1,0 +1,1 @@
+{"index": 33942, "D": "a printed line  of text accompanying a news story, article, or the like, giving the author's name.", "S": [], "A": []}

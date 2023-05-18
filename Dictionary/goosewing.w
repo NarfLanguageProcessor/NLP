@@ -1,0 +1,1 @@
+{"index": 128014, "D": "the weather clew of a square sail, held taut when the lee side of the sail is furled.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124891, "D": "to coat with gold, gold leaf, or a gold-colored substance.", "S": [], "A": []}

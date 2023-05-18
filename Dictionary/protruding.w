@@ -1,0 +1,1 @@
+{"index": 253954, "D": "projecting outward, as from a surface", "S": ["invasive ", "nosy "], "A": []}

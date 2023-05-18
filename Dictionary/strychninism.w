@@ -1,0 +1,1 @@
+{"index": 306196, "D": "a condition induced by an overdose or by excessive use of strychnine. ", "S": [], "A": []}

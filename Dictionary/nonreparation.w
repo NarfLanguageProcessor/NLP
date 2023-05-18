@@ -1,0 +1,1 @@
+{"index": 206691, "D": "something done or given to make amends", "S": [], "A": []}

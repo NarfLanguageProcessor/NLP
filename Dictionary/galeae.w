@@ -1,0 +1,1 @@
+{"index": 121195, "D": "a part of the calyx or corolla having the form of a helmet, as the upper lip of the corolla of the monkshood.", "S": [], "A": []}

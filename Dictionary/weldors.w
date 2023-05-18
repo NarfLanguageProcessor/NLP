@@ -1,0 +1,1 @@
+{"index": 363992, "D": "to unite or fuse (as pieces of metal) by hammering, compressing, or the like, especially after rendering soft or pasty by heat, and sometimes with the addition of fusible material like or unlike the pieces to be united.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19570, "D": "a large merchant ship, especially one with a rich cargo.", "S": ["armada ", "flotilla ", "navy ", "squadron "], "A": []}

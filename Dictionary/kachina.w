@@ -1,0 +1,1 @@
+{"index": 162686, "D": "any of various ancestral spirits deified by the Hopi Indians and impersonated in religious rituals by masked dancers.", "S": [], "A": []}

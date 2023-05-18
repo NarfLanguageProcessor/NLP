@@ -1,0 +1,1 @@
+{"index": 20138, "D": "a perennial herb, Arracacia xanthorrhiza, of the parsley family, found in the Andes, having large, fleshy, edible roots.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 282650, "D": "constructed, outfitted, manned, and in all respects fitted for a voyage at sea. ", "S": ["navigable ", "safe ", "secure "], "A": []}

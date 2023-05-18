@@ -1,0 +1,1 @@
+{"index": 200783, "D": "a short fiber of cotton, wool, worsted, etc., separated from the long fibers in combing.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187087, "D": "a ritual bath to which Orthodox Jews are traditionally required to go on certain occasions, as before the Sabbath and after each menstrual period, to cleanse and purify themselves.", "S": [], "A": []}

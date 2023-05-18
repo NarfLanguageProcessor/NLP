@@ -1,0 +1,1 @@
+{"index": 339813, "D": "an under or lower side. ", "S": ["base ", "belly ", "bottom ", "undersurface "], "A": ["top "]}

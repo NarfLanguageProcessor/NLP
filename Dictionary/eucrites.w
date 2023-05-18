@@ -1,0 +1,1 @@
+{"index": 105355, "D": "a basic gabbro consisting mainly of bytownite and augite.", "S": [], "A": []}

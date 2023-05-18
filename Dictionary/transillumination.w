@@ -1,0 +1,1 @@
+{"index": 327966, "D": "to cause light to pass through.", "S": [], "A": []}

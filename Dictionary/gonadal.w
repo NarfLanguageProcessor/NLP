@@ -1,0 +1,1 @@
+{"index": 127665, "D": "a sex gland in which gametes are produced; an ovary or testis.", "S": [], "A": []}

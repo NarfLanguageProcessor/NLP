@@ -1,0 +1,1 @@
+{"index": 123667, "D": "a group of families in ancient Rome claiming descent from a common ancestor and united by a common name and common ancestral religious rites.", "S": [], "A": []}

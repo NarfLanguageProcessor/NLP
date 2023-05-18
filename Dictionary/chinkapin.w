@@ -1,0 +1,1 @@
+{"index": 54609, "D": "a variant spelling of chinquapin", "S": [], "A": []}

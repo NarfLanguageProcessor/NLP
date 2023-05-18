@@ -1,0 +1,1 @@
+{"index": 179175, "D": "having, caused by, or like the mange. ", "S": [], "A": []}

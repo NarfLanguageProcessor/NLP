@@ -1,0 +1,1 @@
+{"index": 317153, "D": "needless repetition of an idea, especially in words other than those of the immediate context, without imparting additional force or clearness, as in \u201cwidow woman.\u201d", "S": [], "A": []}

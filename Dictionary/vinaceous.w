@@ -1,0 +1,1 @@
+{"index": 359795, "D": "of, relating to, or resembling wine  or grapes.", "S": [], "A": []}

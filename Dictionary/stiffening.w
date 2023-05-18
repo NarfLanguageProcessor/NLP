@@ -1,0 +1,1 @@
+{"index": 304358, "D": "to make stiff. ", "S": ["calcification ", "coagulation ", "concretion ", "crystallization ", "fossilization ", "freezing ", "ossification ", "petrification ", "setting ", "solidifying "], "A": []}

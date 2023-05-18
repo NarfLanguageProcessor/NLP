@@ -1,0 +1,1 @@
+{"index": 172765, "D": "the casting of an entire line of type in a slug.", "S": [], "A": []}

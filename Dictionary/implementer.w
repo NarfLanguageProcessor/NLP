@@ -1,0 +1,1 @@
+{"index": 148765, "D": "any article used in some activity, especially an instrument, tool, or utensil", "S": [], "A": []}

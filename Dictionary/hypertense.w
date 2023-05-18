@@ -1,0 +1,1 @@
+{"index": 140549, "D": "extremely or abnormally tense, excitable, or snappish.", "S": [], "A": []}

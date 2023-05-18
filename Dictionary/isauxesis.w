@@ -1,0 +1,1 @@
+{"index": 158579, "D": "growth of a part at the same rate as that of the whole organism.", "S": [], "A": []}

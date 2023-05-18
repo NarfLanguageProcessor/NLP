@@ -1,0 +1,1 @@
+{"index": 105700, "D": "having chromosomes present in an exact multiple of the haploid number", "S": [], "A": []}

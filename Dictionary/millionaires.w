@@ -1,0 +1,1 @@
+{"index": 187424, "D": "a person whose wealth amounts to a million or more in some unit of currency, as dollars.", "S": [], "A": []}

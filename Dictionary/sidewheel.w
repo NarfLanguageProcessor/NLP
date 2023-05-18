@@ -1,0 +1,1 @@
+{"index": 289867, "D": "either of a pair of paddle wheels  on the sides  of a vessel.", "S": [], "A": []}

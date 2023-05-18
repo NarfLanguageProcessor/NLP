@@ -1,0 +1,1 @@
+{"index": 162400, "D": "any old or discarded material, as metal, paper, or rags.", "S": ["clearance ", "demolition ", "destruction ", "disposition ", "dumping ", "removal ", "transfer "], "A": ["building ", "construction "]}

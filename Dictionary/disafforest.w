@@ -1,0 +1,1 @@
+{"index": 86952, "D": "to reduce (land) from the status of a forest to the state of ordinary ground", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89931, "D": "a franchise held by a distributor. ", "S": [], "A": []}

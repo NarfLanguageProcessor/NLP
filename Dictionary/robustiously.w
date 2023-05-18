@@ -1,0 +1,1 @@
+{"index": 273622, "D": "rough, rude, or boisterous.", "S": [], "A": []}

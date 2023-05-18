@@ -1,0 +1,1 @@
+{"index": 333082, "D": "a person employed to instruct another in some branch or branches of learning, especially a private instructor.", "S": ["educator ", "instructor ", "lecturer ", "mentor ", "teacher "], "A": ["pupil ", "student "]}

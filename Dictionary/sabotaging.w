@@ -1,0 +1,1 @@
+{"index": 276101, "D": "any underhand interference with production, work, etc., in a plant, factory, etc., as by enemy agents during wartime or by employees during a trade dispute.", "S": ["alienated ", "disaffected ", "fractious ", "recalcitrant ", "restless ", "turbulent ", "unruly ", "warring "], "A": ["happy ", "obedient "]}

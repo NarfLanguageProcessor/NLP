@@ -1,0 +1,1 @@
+{"index": 152123, "D": "of, relating to, or used in inflection", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201636, "D": "of or relating to a country whose status or policy is one of nonbelligerency.", "S": [], "A": []}

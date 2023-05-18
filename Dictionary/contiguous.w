@@ -1,0 +1,1 @@
+{"index": 67437, "D": "touching; in contact.", "S": ["adjoining ", "neighboring "], "A": ["divided ", "separated "]}

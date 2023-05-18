@@ -1,0 +1,1 @@
+{"index": 115030, "D": "reddish; ruddy; rosy", "S": ["baroque ", "decorative ", "flamboyant ", "ornate ", "sonorous "], "A": ["plain "]}

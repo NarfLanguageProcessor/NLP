@@ -1,0 +1,1 @@
+{"index": 224590, "D": "the hypothetical landmass that existed when all continents were joined, from about 300 to 200 million years ago.", "S": [], "A": []}

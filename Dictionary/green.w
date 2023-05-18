@@ -1,0 +1,1 @@
+{"index": 129512, "D": "of the color of growing foliage, between yellow and blue in the spectrum", "S": ["fresh ", "grassy ", "leafy ", "lush ", "raw ", "tender ", "verdant "], "A": ["healthy ", "adult ", "dying ", "mature ", "old ", "shrinking ", "withering "]}

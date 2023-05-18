@@ -1,0 +1,1 @@
+{"index": 257209, "D": "a short pin having a spool-shaped head of plastic, glass, or metal, used for affixing material to a bulletin board, wall, or the like.", "S": ["brad ", "nail ", "point ", "staple ", "thumbtack "], "A": []}

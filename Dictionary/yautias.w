@@ -1,0 +1,1 @@
+{"index": 145865, "D": "a stemless plant, Xanthosoma sagittifolium, of the arum family,  cultivated in tropical America for its tuberous, starchy root, cooked and eaten like potatoes.", "S": [], "A": []}

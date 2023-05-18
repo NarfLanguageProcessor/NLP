@@ -1,0 +1,1 @@
+{"index": 191002, "D": "a fabric simulating velvet, popular in the 16th and 17th centuries.", "S": [], "A": []}

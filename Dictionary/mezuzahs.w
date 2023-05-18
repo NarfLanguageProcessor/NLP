@@ -1,0 +1,1 @@
+{"index": 185585, "D": "a parchment scroll inscribed on one side with the Biblical passages Deuteronomy 6", "S": [], "A": []}

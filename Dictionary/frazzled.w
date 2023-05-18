@@ -1,0 +1,1 @@
+{"index": 118521, "D": "worn-out; fatigued", "S": ["dead ", "disabled ", "drained ", "weak ", "weakened "], "A": ["able ", "active ", "energized ", "firm ", "strong ", "invigorated "]}

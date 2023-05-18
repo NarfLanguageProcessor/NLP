@@ -1,0 +1,1 @@
+{"index": 50429, "D": "a hydrous silicate of iron and potassium; an iron-rich soft mica.", "S": [], "A": []}

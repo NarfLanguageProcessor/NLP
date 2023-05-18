@@ -1,0 +1,1 @@
+{"index": 175211, "D": "a weedy plant, Phryma leptostachya, of Asia and North America, having spikes of whitish paired flowers.", "S": [], "A": []}

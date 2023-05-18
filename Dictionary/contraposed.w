@@ -1,0 +1,1 @@
+{"index": 67672, "D": "to place in contraposition.", "S": [], "A": []}

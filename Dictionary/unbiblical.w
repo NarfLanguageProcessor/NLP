@@ -1,0 +1,1 @@
+{"index": 335880, "D": "not in accord with or sanctioned by biblical teaching.", "S": [], "A": []}

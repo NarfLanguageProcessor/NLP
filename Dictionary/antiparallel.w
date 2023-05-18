@@ -1,0 +1,1 @@
+{"index": 15767, "D": "(of two vectors) pointing in opposite directions.", "S": [], "A": []}

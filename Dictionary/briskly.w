@@ -1,0 +1,1 @@
+{"index": 40949, "D": "in a quick, active, or vigorous way", "S": ["nimbly ", "rapidly ", "vigorously "], "A": ["listlessly ", "slowly ", "sluggishly "]}

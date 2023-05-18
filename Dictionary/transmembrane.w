@@ -1,0 +1,1 @@
+{"index": 328076, "D": "occurring across a membrane,  as an electric potential or the transport of ions or gases.", "S": [], "A": []}

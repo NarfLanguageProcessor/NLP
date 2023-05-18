@@ -1,0 +1,1 @@
+{"index": 151098, "D": "absolutely necessary, essential, or requisite", "S": ["basic ", "crucial ", "essential ", "fundamental ", "imperative ", "necessary ", "vital "], "A": ["additional ", "auxiliary ", "extra ", "inessential ", "minor ", "nonessential ", "secondary ", "trivial ", "unimportant "]}

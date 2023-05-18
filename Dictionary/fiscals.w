@@ -1,0 +1,1 @@
+{"index": 113310, "D": "of or relating to the public treasury or revenues", "S": [], "A": []}

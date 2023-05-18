@@ -1,0 +1,1 @@
+{"index": 227598, "D": "a plant, Pogostemon cablin, of tropical Asia, that yields a fragrant oil (patchouli oil ) used in the manufacture of perfumes.", "S": [], "A": []}

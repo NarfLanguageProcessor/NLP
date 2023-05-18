@@ -1,0 +1,1 @@
+{"index": 207462, "D": "of the nature of spirit;  immaterial, ethereal, or refined.", "S": [], "A": []}

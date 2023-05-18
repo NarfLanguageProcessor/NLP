@@ -1,0 +1,1 @@
+{"index": 314605, "D": "a fastening device that allows the thing fastened to turn around freely upon it, especially to turn in a full circle.", "S": ["pivot ", "revolve ", "rotate ", "swing around ", "whirl "], "A": []}

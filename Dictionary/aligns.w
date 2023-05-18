@@ -1,0 +1,1 @@
+{"index": 8265, "D": "to arrange in a straight line; adjust according to a line.", "S": ["adjust ", "coordinate ", "regulate "], "A": ["disorganize ", "break ", "disorder "]}

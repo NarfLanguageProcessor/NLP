@@ -1,0 +1,1 @@
+{"index": 128519, "D": "(in prescriptions) by degrees; gradually. ", "S": [], "A": []}

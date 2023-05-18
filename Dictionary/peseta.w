@@ -1,0 +1,1 @@
+{"index": 232235, "D": "a bronze coin and monetary unit of Spain and Andorra until the euro  was adopted, equal to 100 centimos. Abbreviation", "S": [], "A": []}

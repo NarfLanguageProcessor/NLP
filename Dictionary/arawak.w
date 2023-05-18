@@ -1,0 +1,1 @@
+{"index": 18488, "D": "a member of an Indian people once widespread in the Antilles but now living primarily in coastal northeastern South America.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207508, "D": "(of an offense) recognized by statute;  legally punishable.", "S": [], "A": []}

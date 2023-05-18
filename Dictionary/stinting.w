@@ -1,0 +1,1 @@
+{"index": 304718, "D": "to be frugal; get along on a scanty allowance", "S": ["assignment ", "duty ", "job ", "spell ", "stretch ", "tour "], "A": ["entertainment ", "fun ", "pastime "]}

@@ -1,0 +1,1 @@
+{"index": 62186, "D": "of or relating to a subset of a set with a partial order relation, as \u201cgreater than\u201d or \u201cequal to,\u201d in which corresponding to each element in the set is an element in the subset that is in relation to the given element.", "S": [], "A": []}

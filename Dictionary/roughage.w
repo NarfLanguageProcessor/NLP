@@ -1,0 +1,1 @@
+{"index": 274753, "D": "rough  or coarse material.", "S": ["fiber ", "lite food ", "low-calorie food ", "low-fat food ", "natural food ", "nonfat food ", "organic food "], "A": []}

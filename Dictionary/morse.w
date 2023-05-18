@@ -1,0 +1,1 @@
+{"index": 193668, "D": "an ornamented metal clasp or brooch for fastening a cope in front.", "S": [], "A": []}

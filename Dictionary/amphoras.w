@@ -1,0 +1,1 @@
+{"index": 11289, "D": "a large two-handled storage jar having an oval body, usually tapering to a point at the base, with a pair of handles extending from immediately below the lip to the shoulder", "S": ["ornament ", "urn ", "vase "], "A": []}

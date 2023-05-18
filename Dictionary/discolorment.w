@@ -1,0 +1,1 @@
+{"index": 87431, "D": "the act or fact of discoloring  or the state of being discolored. ", "S": [], "A": []}

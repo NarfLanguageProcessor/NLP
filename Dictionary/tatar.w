@@ -1,0 +1,1 @@
+{"index": 316961, "D": "a member of a modern Turkic people living in the Tatar Autonomous Republic and adjacent regions of eastern European Russia and in widely scattered communities in western Siberia and central Asia.", "S": [], "A": []}

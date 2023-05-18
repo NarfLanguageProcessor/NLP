@@ -1,0 +1,1 @@
+{"index": 26681, "D": "a state of equilibrium or equipoise; equal distribution of weight, amount, etc.", "S": [], "A": []}

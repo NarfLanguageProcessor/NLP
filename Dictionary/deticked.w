@@ -1,0 +1,1 @@
+{"index": 83226, "D": "to free (as livestock) of ticks,  as by a chemical dip, spray, or dust.", "S": [], "A": []}

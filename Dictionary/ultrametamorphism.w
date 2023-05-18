@@ -1,0 +1,1 @@
+{"index": 333972, "D": "metamorphism  during which the temperature of a rock exceeds its melting point.", "S": [], "A": []}

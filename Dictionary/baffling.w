@@ -1,0 +1,1 @@
+{"index": 26260, "D": "impossible to understand; perplexing; bewildering; puzzling", "S": ["bewildering ", "confusing ", "enigmatic ", "incomprehensible ", "mystifying ", "perplexing ", "unfathomable "], "A": ["clear ", "comprehensible ", "fathomable "]}

@@ -1,0 +1,1 @@
+{"index": 310522, "D": "of, relating to, or containing sulfur,  especially in the hexavalent state.", "S": [], "A": []}

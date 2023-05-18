@@ -1,0 +1,1 @@
+{"index": 149548, "D": "not attentive; negligent", "S": ["disregard ", "failure ", "forgetfulness ", "heedlessness ", "inattention ", "laxity ", "neglect ", "neglectfulness ", "oversight ", "remissness ", "slackness ", "thoughtlessness "], "A": ["accomplishment ", "achievement ", "attention ", "care ", "regard ", "respect ", "success "]}

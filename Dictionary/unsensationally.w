@@ -1,0 +1,1 @@
+{"index": 350745, "D": "producing or designed to produce a startling effect, strong reaction, intense interest, etc., especially by exaggerated, superficial, or lurid elements", "S": [], "A": []}

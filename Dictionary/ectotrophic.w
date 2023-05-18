@@ -1,0 +1,1 @@
+{"index": 95582, "D": "(of a mycorrhiza) growing outside the root or between the cells.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82553, "D": "to dry thoroughly; dry up.", "S": [], "A": []}

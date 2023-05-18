@@ -1,0 +1,1 @@
+{"index": 112685, "D": "to make full; put as much as can be held into", "S": [], "A": []}

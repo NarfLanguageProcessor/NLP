@@ -1,0 +1,1 @@
+{"index": 176571, "D": "a material object, service, etc., conducive to sumptuous living, usually a delicacy, elegance, or refinement of living rather than a necessity", "S": ["conveniences ", "niceties "], "A": []}

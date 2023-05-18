@@ -1,0 +1,1 @@
+{"index": 12669, "D": "Compare scalare. ", "S": [], "A": []}

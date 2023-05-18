@@ -1,0 +1,1 @@
+{"index": 223607, "D": "an impressive public building or private residence; palace.", "S": [], "A": []}

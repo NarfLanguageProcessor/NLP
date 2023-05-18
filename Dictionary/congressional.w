@@ -1,0 +1,1 @@
+{"index": 66264, "D": "of or relating to a congress. ", "S": ["parliamentary ", "senatorial "], "A": []}

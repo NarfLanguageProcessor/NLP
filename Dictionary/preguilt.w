@@ -1,0 +1,1 @@
+{"index": 247758, "D": "the fact or state of having committed an offense, crime, violation, or wrong, especially against moral or penal law; culpability", "S": [], "A": []}

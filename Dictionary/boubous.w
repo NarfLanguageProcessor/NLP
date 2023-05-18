@@ -1,0 +1,1 @@
+{"index": 38853, "D": "a long, loose-fitting, brightly colored garment worn in parts of Africa.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 131390, "D": "any small eellike blenny of the family Pholididae (Pholidae), especially Pholis gunnellus(rock gunnel,  orbutterfish ), common in shallow waters of the North Atlantic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314559, "D": "of, pertaining to, associated with, or characteristic of Switzerland or its inhabitants.", "S": [], "A": []}

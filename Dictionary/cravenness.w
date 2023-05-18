@@ -1,0 +1,1 @@
+{"index": 72293, "D": "cowardly; contemptibly timid; pusillanimous.", "S": ["cowardliness ", "dastardliness ", "fearfulness ", "pusillanimity ", "pusillanimousness ", "spinelessness ", "timidity ", "unmanliness "], "A": []}

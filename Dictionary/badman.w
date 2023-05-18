@@ -1,0 +1,1 @@
+{"index": 26219, "D": "a bandit, outlaw, desperado, etc., especially in the early history of the western U.S.", "S": [], "A": []}

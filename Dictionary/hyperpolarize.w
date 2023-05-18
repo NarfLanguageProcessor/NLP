@@ -1,0 +1,1 @@
+{"index": 140438, "D": "to increase the difference in electric potential across (a cell membrane).", "S": [], "A": []}

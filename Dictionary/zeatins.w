@@ -1,0 +1,1 @@
+{"index": 368957, "D": "a cytokinin occurring in corn, spinach, and peas.", "S": [], "A": []}

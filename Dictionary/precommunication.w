@@ -1,0 +1,1 @@
+{"index": 246275, "D": "the act or process of communicating; fact of being communicated.", "S": [], "A": []}

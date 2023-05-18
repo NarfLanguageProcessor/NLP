@@ -1,0 +1,1 @@
+{"index": 139248, "D": "having a great or considerable extent or reach upward or vertically; lofty; tall", "S": ["apical ", "best ", "capital ", "chief ", "crown ", "head ", "maximal ", "maximum ", "most ", "paramount ", "preeminent ", "principal ", "superlative ", "supreme ", "tiptop ", "top ", "top-notch ", "uppermost ", "zenithal "], "A": []}

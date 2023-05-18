@@ -1,0 +1,1 @@
+{"index": 182149, "D": "the old Arab quarter of a North African city.", "S": [], "A": []}

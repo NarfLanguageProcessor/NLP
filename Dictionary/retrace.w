@@ -1,0 +1,1 @@
+{"index": 270615, "D": "to trace backward; go back over", "S": ["backtrack ", "perseverate ", "recall ", "recollect ", "reiterate ", "reminisce ", "retell "], "A": ["forget "]}

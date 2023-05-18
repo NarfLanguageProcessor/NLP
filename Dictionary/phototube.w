@@ -1,0 +1,1 @@
+{"index": 235459, "D": "an electron tube  with a photosensitive cathode, used like a photocell.", "S": [], "A": []}

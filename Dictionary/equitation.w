@@ -1,0 +1,1 @@
+{"index": 103403, "D": "the act or art of riding on horseback.", "S": ["equestrian skill "], "A": []}

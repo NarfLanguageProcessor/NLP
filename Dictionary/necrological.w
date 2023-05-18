@@ -1,0 +1,1 @@
+{"index": 197790, "D": "a list of persons who have died within a certain time.", "S": [], "A": []}

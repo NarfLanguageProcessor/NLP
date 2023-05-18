@@ -1,0 +1,1 @@
+{"index": 176399, "D": "a person who puts a lustrous finish or gloss on textiles.", "S": [], "A": []}

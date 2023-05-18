@@ -1,0 +1,1 @@
+{"index": 349063, "D": "in a way that is agreeable to and supported by reason; sensibly or logically", "S": [], "A": []}

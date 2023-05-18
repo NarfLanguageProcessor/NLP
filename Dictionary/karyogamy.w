@@ -1,0 +1,1 @@
+{"index": 163195, "D": "the fusion of the nuclei of cells, as in fertilization.", "S": [], "A": []}

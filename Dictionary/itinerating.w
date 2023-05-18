@@ -1,0 +1,1 @@
+{"index": 159568, "D": "to go from place to place, especially in a regular circuit, as a preacher or judge.", "S": [], "A": []}

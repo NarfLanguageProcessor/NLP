@@ -1,0 +1,1 @@
+{"index": 267064, "D": "to struggle (against something); rebel.", "S": ["bother ", "disenchant ", "displease ", "disturb ", "insult ", "irk ", "nauseate ", "offend ", "outrage ", "revolt ", "shock ", "sicken ", "turn off ", "upset "], "A": ["appease ", "calm ", "compliment ", "delight ", "help ", "make happy ", "order ", "please ", "soothe "]}

@@ -1,0 +1,1 @@
+{"index": 184900, "D": "involving, invoking, or intended to be taken as a metaphor,  something used symbolically to represent something else, suggesting a comparison or resemblance", "S": ["allegorical ", "descriptive ", "fanciful ", "florid ", "metaphorical ", "pictorial "], "A": ["literal ", "real ", "straightforward "]}

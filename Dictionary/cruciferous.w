@@ -1,0 +1,1 @@
+{"index": 74085, "D": "bearing a cross.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21014, "D": "(in ascomycetous fungi) the fruiting body bearing the asci, as an apothecium or perithecium.", "S": [], "A": []}

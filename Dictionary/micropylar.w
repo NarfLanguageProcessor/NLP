@@ -1,0 +1,1 @@
+{"index": 186390, "D": "any minute opening in an ovum through which a spermatozoon can enter, as in many insects.", "S": [], "A": []}

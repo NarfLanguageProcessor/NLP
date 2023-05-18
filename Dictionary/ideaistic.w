@@ -1,0 +1,1 @@
+{"index": 146302, "D": "of ideas,  especially in their abstract or symbolic character.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179139, "D": "a gray to black mineral, hydrous manganese  oxide, MnO(OH); gray manganese ore. ", "S": [], "A": []}

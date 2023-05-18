@@ -1,0 +1,1 @@
+{"index": 185328, "D": "a woman or girl of mixed First Nations  and European ancestry", "S": [], "A": []}

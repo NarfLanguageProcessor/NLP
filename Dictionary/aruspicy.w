@@ -1,0 +1,1 @@
+{"index": 20818, "D": "divination by a haruspex.", "S": [], "A": []}

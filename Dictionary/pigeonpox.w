@@ -1,0 +1,1 @@
+{"index": 236352, "D": "a disease affecting pigeons, similar to fowl pox.", "S": [], "A": []}

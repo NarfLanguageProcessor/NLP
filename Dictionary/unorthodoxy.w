@@ -1,0 +1,1 @@
+{"index": 347265, "D": "orthodox belief or practice.", "S": ["aberration ", "abnormality ", "deviation ", "inconsistency ", "irregularity ", "oddity ", "rarity "], "A": ["conformity ", "normality ", "regularity ", "sameness ", "standard ", "usualness "]}

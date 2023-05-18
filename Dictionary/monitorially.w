@@ -1,0 +1,1 @@
+{"index": 192010, "D": "of or relating to a monitor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11427, "D": "pleasurably entertained, occupied, or diverted.", "S": [], "A": []}

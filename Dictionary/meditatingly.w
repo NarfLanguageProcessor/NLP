@@ -1,0 +1,1 @@
+{"index": 182198, "D": "to engage in thought or contemplation; reflect.", "S": [], "A": []}

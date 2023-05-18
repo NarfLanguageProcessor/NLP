@@ -1,0 +1,1 @@
+{"index": 34574, "D": "the tracking of a free-ranging animal, or the monitoring of one or more of its physiological conditions, by means of electronic equipment that receives signals from a radio transmitter or similar device attached to or embedded in the animal.", "S": [], "A": []}

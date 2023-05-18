@@ -1,0 +1,1 @@
+{"index": 159059, "D": "a brand of incubator for premature or other newborn infants, providing controlled temperature, humidity, and oxygen levels and having armholes through which the infant can be reached with minimum disturbance to the controlled environment.", "S": [], "A": []}

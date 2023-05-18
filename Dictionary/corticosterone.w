@@ -1,0 +1,1 @@
+{"index": 69866, "D": "a steroid hormone, secreted by the adrenal cortex, that is involved in regulation of the water and electrolyte balance of the body.", "S": [], "A": []}

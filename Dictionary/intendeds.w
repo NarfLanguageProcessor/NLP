@@ -1,0 +1,1 @@
+{"index": 154341, "D": "purposed; designed; intentional", "S": ["affianced ", "affianced person ", "betrothed ", "bride-to-be ", "engaged person ", "future mate ", "future wife ", "intended ", "prospective spouse ", "wife-to-be "], "A": []}

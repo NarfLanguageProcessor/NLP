@@ -1,0 +1,1 @@
+{"index": 108587, "D": "pertaining to or involving nerve tracts other than the pyramidal  tracts, especially the corpus striatum and its associated structures.", "S": [], "A": []}

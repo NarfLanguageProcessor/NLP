@@ -1,0 +1,1 @@
+{"index": 259943, "D": "(in the rolls of a rolling mill) corrugations affording a grip on a piece being roughed.", "S": ["admonition ", "censure ", "rebuke "], "A": ["compliment ", "praise ", "commendation "]}

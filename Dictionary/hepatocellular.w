@@ -1,0 +1,1 @@
+{"index": 136675, "D": "pertaining to or affecting liver cells.", "S": [], "A": []}

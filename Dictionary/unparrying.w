@@ -1,0 +1,1 @@
+{"index": 347475, "D": "to ward off (a thrust, stroke, weapon, etc.), as in fencing; avert.", "S": [], "A": []}

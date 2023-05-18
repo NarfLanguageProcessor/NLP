@@ -1,0 +1,1 @@
+{"index": 175778, "D": "a pike, especially when fully grown.", "S": [], "A": []}

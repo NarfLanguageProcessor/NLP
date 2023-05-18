@@ -1,0 +1,1 @@
+{"index": 304072, "D": "a sclerite of the sternum of an insect, especially a ventral sclerite of an abdominal segment.", "S": [], "A": []}

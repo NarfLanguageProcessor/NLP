@@ -1,0 +1,1 @@
+{"index": 176783, "D": "a person who operates machinery,  especially a skilled operator of machine  tools.", "S": ["artisan "], "A": ["apprentice ", "unskilled worker "]}

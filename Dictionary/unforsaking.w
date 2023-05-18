@@ -1,0 +1,1 @@
+{"index": 342597, "D": "to quit or leave entirely; abandon; desert", "S": [], "A": []}

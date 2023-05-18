@@ -1,0 +1,1 @@
+{"index": 110770, "D": "full of dregs or fecal matter; foul, turbid, or muddy.", "S": ["defecation ", "discharge ", "elimination ", "excretion ", "go to the bathroom "], "A": []}

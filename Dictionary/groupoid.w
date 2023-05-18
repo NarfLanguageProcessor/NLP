@@ -1,0 +1,1 @@
+{"index": 130361, "D": "an algebraic system closed under a binary operation.", "S": [], "A": []}

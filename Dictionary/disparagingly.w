@@ -1,0 +1,1 @@
+{"index": 88864, "D": "in a way that belittles or insults someone or something; disdainfully", "S": ["adversely ", "critically "], "A": ["agreeably ", "approvingly ", "favorably ", "positively "]}

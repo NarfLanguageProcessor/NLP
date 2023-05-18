@@ -1,0 +1,1 @@
+{"index": 32287, "D": "to implore urgently", "S": ["implore "], "A": ["answer ", "command ", "refuse ", "reply "]}

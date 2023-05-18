@@ -1,0 +1,1 @@
+{"index": 120725, "D": "future  time", "S": ["hereafter "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 242367, "D": "a carbohydrate, as starch, inulin, or cellulose, containing more than three monosaccharide units per molecule, the units being attached to each other in the manner of acetals, and therefore capable of hydrolysis by acids or enzymes to monosaccharides.", "S": [], "A": []}

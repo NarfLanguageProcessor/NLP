@@ -1,0 +1,1 @@
+{"index": 205429, "D": "of or relating to a language that is not the first language acquired by a person", "S": ["alien ", "different ", "external ", "offshore ", "overseas ", "unfamiliar "], "A": ["characteristic ", "familiar ", "known ", "local ", "national ", "native ", "regular ", "relevant "]}

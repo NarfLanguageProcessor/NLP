@@ -1,0 +1,1 @@
+{"index": 61572, "D": "the act or sport of throwing missiles at a target.", "S": [], "A": []}

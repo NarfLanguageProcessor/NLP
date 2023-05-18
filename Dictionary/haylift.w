@@ -1,0 +1,1 @@
+{"index": 132334, "D": "an airlift  of hay  for animals that have been snowed in.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 13335, "D": "having leaves of different shapes or sizes.", "S": [], "A": []}

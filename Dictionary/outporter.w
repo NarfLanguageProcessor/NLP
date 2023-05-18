@@ -1,0 +1,1 @@
+{"index": 217118, "D": "an inhabitant or native of a Newfoundland outport", "S": [], "A": []}

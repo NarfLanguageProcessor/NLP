@@ -1,0 +1,1 @@
+{"index": 14316, "D": "a luminous, white spot occasionally appearing at the sun's elevation but in the opposite part of the sky.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 101982, "D": "(formerly) noting or pertaining to the Precambrian Era, especially the period including the beginnings of animal life.", "S": [], "A": []}

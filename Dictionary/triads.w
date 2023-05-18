@@ -1,0 +1,1 @@
+{"index": 329090, "D": "a group of three, especially of three closely related persons or things.", "S": ["triumvirate "], "A": []}

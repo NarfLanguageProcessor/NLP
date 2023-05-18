@@ -1,0 +1,1 @@
+{"index": 156260, "D": "the lower part of the alimentary canal, extending from the pylorus to the anus.", "S": ["entrails "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 337762, "D": "helping to improve; promoting further development or advancement (opposed to destructive)", "S": [], "A": []}

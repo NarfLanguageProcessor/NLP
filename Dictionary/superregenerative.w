@@ -1,0 +1,1 @@
+{"index": 312500, "D": "regeneration  in which a signal is alternately amplified and quenched at a frequency slightly above the audible range to achieve high sensitivity with a single tube.", "S": [], "A": []}

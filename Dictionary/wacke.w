@@ -1,0 +1,1 @@
+{"index": 361687, "D": "a poorly sorted sandstone containing fragments of rock and minerals in a clayey matrix.", "S": ["brick ", "earth ", "mud ", "terra cotta "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268309, "D": "folded;  bent back on itself.", "S": ["copied ", "duplicated ", "imitated ", "recast ", "reciprocated ", "redone ", "reduplicated ", "refashioned ", "remade ", "reproduced ", "reworked "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349991, "D": "to cut or tear apart in a rough or vigorous manner", "S": [], "A": []}

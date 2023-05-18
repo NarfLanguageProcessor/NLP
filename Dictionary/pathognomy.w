@@ -1,0 +1,1 @@
+{"index": 227735, "D": "the study of the symptoms or characteristics of a disease; diagnosis.", "S": [], "A": []}

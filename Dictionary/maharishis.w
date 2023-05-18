@@ -1,0 +1,1 @@
+{"index": 177678, "D": "a teacher of spiritual and mystical knowledge; religious sage", "S": ["guru ", "master ", "mentor ", "mystic ", "spiritual guide ", "swami ", "teacher "], "A": []}

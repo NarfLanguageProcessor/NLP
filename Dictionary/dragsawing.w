@@ -1,0 +1,1 @@
+{"index": 92596, "D": "a large power saw  having a reciprocating blade, as a power hacksaw for metals or a lumbermill saw. ", "S": [], "A": []}

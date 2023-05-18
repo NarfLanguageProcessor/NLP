@@ -1,0 +1,1 @@
+{"index": 117882, "D": "simple past tense and past participle of fight. ", "S": ["attack ", "battle ", "challenge ", "clash ", "meet ", "protect ", "resist "], "A": ["agree ", "give in ", "make peace ", "surrender ", "yield "]}

@@ -1,0 +1,1 @@
+{"index": 115422, "D": "possessing the property of fluorescence;  exhibiting fluorescence.", "S": ["beaming ", "blazing ", "bright ", "brilliant ", "dazzling ", "flaming ", "incandescent ", "lambent ", "lucent ", "lustrous ", "radiant ", "resplendent ", "shining ", "splendid ", "vivid "], "A": []}

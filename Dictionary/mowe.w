@@ -1,0 +1,1 @@
+{"index": 194420, "D": "to cut down (grass, grain, etc.) with a scythe or a machine.", "S": [], "A": []}

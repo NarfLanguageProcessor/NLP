@@ -1,0 +1,1 @@
+{"index": 367962, "D": "superlative of wry. ", "S": [], "A": []}

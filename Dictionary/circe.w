@@ -1,0 +1,1 @@
+{"index": 57963, "D": "the enchantress represented by Homer as turning the companions of Odysseus into swine by means of a magic drink.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325776, "D": "a small pointed piece of wood, plastic, etc., for removing substances, especially food particles, from between the teeth. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167579, "D": "having the shape of the Greek capital lambda.", "S": [], "A": []}

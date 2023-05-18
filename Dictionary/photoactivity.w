@@ -1,0 +1,1 @@
+{"index": 234980, "D": "the activation or control of a chemical, chemical reaction, or organism by light, as the activation of chlorophyll by sunlight during photosynthesis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252392, "D": "any of several muscles that permit pronation of the hand, forelimb, or foot.", "S": [], "A": []}

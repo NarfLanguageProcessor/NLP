@@ -1,0 +1,1 @@
+{"index": 205259, "D": "pertaining to or of the nature of metaphysics.", "S": [], "A": []}

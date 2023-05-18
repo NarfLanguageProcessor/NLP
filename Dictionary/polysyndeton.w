@@ -1,0 +1,1 @@
+{"index": 242422, "D": "the use of a number of conjunctions in close succession.", "S": [], "A": []}

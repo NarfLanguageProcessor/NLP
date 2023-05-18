@@ -1,0 +1,1 @@
+{"index": 5588, "D": "something that is characteristic of African  culture or tradition.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 56476, "D": "an electronic instrument for measuring accurately very brief intervals of time, as in determining the velocity of projectiles.", "S": ["calendar ", "chronograph ", "chronometer ", "clepsydra ", "clock ", "dial ", "gnomon ", "horologe ", "hourglass ", "metronome ", "pendulum ", "repeater ", "stopwatch ", "sundial ", "watch "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53881, "D": "a compact rock consisting essentially of microcrystalline quartz.", "S": [], "A": []}

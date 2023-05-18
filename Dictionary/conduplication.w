@@ -1,0 +1,1 @@
+{"index": 65729, "D": "(of a leaf in the bud) folded lengthwise with the upper face of the blade within.", "S": [], "A": []}

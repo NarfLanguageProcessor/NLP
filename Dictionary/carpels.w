@@ -1,0 +1,1 @@
+{"index": 48363, "D": "a simple pistil, or a single member of a compound pistil.", "S": [], "A": []}

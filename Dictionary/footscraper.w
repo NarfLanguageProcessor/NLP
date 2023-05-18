@@ -1,0 +1,1 @@
+{"index": 116245, "D": "a metal bar, set in a small frame and attached to a doorstep, used in cleaning mud from the bottoms of the shoes before entering a house.", "S": [], "A": []}

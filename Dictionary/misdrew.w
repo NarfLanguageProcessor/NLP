@@ -1,0 +1,1 @@
+{"index": 189167, "D": "to cause to move in a particular direction by or as if by a pulling force; pull; drag (often followed by along, away, in, out, or off).", "S": [], "A": []}

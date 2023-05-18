@@ -1,0 +1,1 @@
+{"index": 119373, "D": "the dissipation or decrease of a front or frontal zone.", "S": [], "A": []}

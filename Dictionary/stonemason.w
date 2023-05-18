@@ -1,0 +1,1 @@
+{"index": 305225, "D": "a person who builds with or dresses stone. ", "S": [], "A": []}

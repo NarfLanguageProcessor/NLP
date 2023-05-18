@@ -1,0 +1,1 @@
+{"index": 103967, "D": "the state or an instance of erring. ", "S": ["frailty "], "A": []}

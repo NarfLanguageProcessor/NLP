@@ -1,0 +1,1 @@
+{"index": 129856, "D": "a grated utensil for broiling meat, fish, vegetables, etc., over a fire; gridiron.", "S": ["barbecue ", "roast ", "sear "], "A": []}

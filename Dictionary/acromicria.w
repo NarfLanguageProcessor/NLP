@@ -1,0 +1,1 @@
+{"index": 2952, "D": "abnormal smallness of the head and extremities.", "S": [], "A": []}

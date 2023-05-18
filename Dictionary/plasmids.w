@@ -1,0 +1,1 @@
+{"index": 239167, "D": "a segment of DNA independent of the chromosomes and capable of replication, occurring in bacteria and yeast", "S": [], "A": []}

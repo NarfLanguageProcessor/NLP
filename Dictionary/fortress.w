@@ -1,0 +1,1 @@
+{"index": 117707, "D": "a large fortified place; a fort or group of forts, often including a town; citadel.", "S": ["barrier ", "citadel ", "garrison ", "rampart "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 215333, "D": "any of various willows, as the red osier,  having tough, flexible twigs or branches that are used for wickerwork.", "S": [], "A": []}

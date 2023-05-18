@@ -1,0 +1,1 @@
+{"index": 335381, "D": "reached or achieved, often after considerable time and effort", "S": [], "A": []}

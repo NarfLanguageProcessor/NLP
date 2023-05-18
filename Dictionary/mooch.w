@@ -1,0 +1,1 @@
+{"index": 192980, "D": "to borrow (a small item or amount) without intending to return or repay it.", "S": ["beg ", "borrow ", "bum ", "freeload ", "scrounge ", "sponge "], "A": ["give "]}

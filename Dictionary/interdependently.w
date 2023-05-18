@@ -1,0 +1,1 @@
+{"index": 154823, "D": "mutually dependent;  depending on each other.", "S": [], "A": []}

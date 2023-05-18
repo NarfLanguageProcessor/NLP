@@ -1,0 +1,1 @@
+{"index": 88389, "D": "something that discourages or deters; deterrent", "S": ["deterrence ", "dissuasion ", "obviation ", "preclusion ", "preemption "], "A": []}

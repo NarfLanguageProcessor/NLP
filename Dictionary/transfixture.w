@@ -1,0 +1,1 @@
+{"index": 327878, "D": [], "S": ["coma ", "rapture ", "reverie ", "stupor ", "unconsciousness "], "A": ["consciousness "]}

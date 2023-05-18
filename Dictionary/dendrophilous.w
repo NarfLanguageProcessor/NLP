@@ -1,0 +1,1 @@
+{"index": 81085, "D": "living in or on trees; arboreal.", "S": [], "A": []}

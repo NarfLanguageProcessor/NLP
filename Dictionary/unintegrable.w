@@ -1,0 +1,1 @@
+{"index": 344684, "D": "capable of being integrated,  as a mathematical function or differential equation.", "S": [], "A": []}

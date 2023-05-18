@@ -1,0 +1,1 @@
+{"index": 84329, "D": "of, related to, or along a diameter", "S": ["diametrical "], "A": ["alike ", "coinciding ", "like ", "matching ", "same ", "similar "]}

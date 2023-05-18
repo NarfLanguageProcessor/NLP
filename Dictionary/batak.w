@@ -1,0 +1,1 @@
+{"index": 28870, "D": "a member of a diverse group of Indigenous peoples chiefly inhabiting north-central Sumatra.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 280467, "D": "the process of being taught in a school. ", "S": ["apprenticeship ", "coaching ", "instruction ", "learning ", "literacy ", "scholarship ", "teaching ", "training ", "tutoring "], "A": ["ignorance ", "confusion ", "destruction ", "harm ", "hurt ", "neglect ", "worsening "]}

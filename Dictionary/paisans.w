@@ -1,0 +1,1 @@
+{"index": 223237, "D": "a person who shares one\u2019s place of origin; compatriot. ", "S": [], "A": []}

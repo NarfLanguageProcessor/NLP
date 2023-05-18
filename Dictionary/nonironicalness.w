@@ -1,0 +1,1 @@
+{"index": 204894, "D": "pertaining to, of the nature of, exhibiting, or characterized by irony  or mockery", "S": [], "A": []}

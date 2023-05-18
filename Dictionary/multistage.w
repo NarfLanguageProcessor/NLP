@@ -1,0 +1,1 @@
+{"index": 195363, "D": "(of a rocket or guided missile) having more than one stage. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 255855, "D": "government by the poor", "S": [], "A": []}

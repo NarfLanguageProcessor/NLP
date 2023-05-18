@@ -1,0 +1,1 @@
+{"index": 180790, "D": "a short, thick, masticatory muscle, the action of which assists in closing the jaws by raising the mandible or lower jaw.", "S": [], "A": []}

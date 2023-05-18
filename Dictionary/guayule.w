@@ -1,0 +1,1 @@
+{"index": 130688, "D": "a composite shrub, Parthenium argentatum, of the southwestern U.S. and Mexico, yielding a form of rubber.", "S": [], "A": []}

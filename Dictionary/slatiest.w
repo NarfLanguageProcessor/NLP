@@ -1,0 +1,1 @@
+{"index": 293728, "D": "consisting of, resembling, or pertaining to slate. ", "S": [], "A": []}

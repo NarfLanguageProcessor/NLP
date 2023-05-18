@@ -1,0 +1,1 @@
+{"index": 304425, "D": "a pen or enclosure for swine; pigpen.", "S": [], "A": []}

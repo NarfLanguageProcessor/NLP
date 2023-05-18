@@ -1,0 +1,1 @@
+{"index": 129744, "D": "adapted for walking, as the feet of some birds.", "S": [], "A": []}

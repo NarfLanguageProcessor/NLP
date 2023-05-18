@@ -1,0 +1,1 @@
+{"index": 90944, "D": "an official system of principles or tenets concerning faith, morals, behavior, etc., as of a church.", "S": ["credo ", "creed ", "doctrine ", "gospel ", "precept ", "teachings ", "tenet "], "A": ["ambiguity ", "doubt ", "indecision ", "unbelief ", "uncertainty "]}

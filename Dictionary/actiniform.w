@@ -1,0 +1,1 @@
+{"index": 3111, "D": "having a radiate form.", "S": [], "A": []}

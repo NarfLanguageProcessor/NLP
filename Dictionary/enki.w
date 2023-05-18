@@ -1,0 +1,1 @@
+{"index": 100622, "D": "a Sumerian water god and god of wisdom", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 56329, "D": "a picture produced by chromolithography.", "S": [], "A": []}

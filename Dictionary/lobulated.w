@@ -1,0 +1,1 @@
+{"index": 174249, "D": "consisting of, divided into, or having lobes. ", "S": [], "A": []}

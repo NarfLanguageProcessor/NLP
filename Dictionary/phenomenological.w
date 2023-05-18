@@ -1,0 +1,1 @@
+{"index": 233424, "D": "of, relating to, or based on observed or observable facts", "S": [], "A": []}

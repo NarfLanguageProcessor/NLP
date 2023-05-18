@@ -1,0 +1,1 @@
+{"index": 93197, "D": "saliva flowing from the mouth, or mucus from the nose; slaver.", "S": [], "A": []}

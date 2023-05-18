@@ -1,0 +1,1 @@
+{"index": 363090, "D": "the act of looking out for or anticipating something; lookout", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128080, "D": "(of a beast) represented wearing something about the neck in the manner of a collar", "S": ["choked ", "crowded ", "glutted ", "gridlocked ", "jammed ", "overcrowded ", "teeming "], "A": ["empty "]}

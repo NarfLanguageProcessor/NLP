@@ -1,0 +1,1 @@
+{"index": 185599, "D": "a method of engraving on copper or steel by burnishing or scraping away a uniformly roughened surface.", "S": [], "A": []}

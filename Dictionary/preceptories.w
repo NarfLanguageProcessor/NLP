@@ -1,0 +1,1 @@
+{"index": 246025, "D": "a subordinate house or community of the Knights Templars; commandery.", "S": [], "A": []}

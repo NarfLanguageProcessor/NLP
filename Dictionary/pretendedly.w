@@ -1,0 +1,1 @@
+{"index": 249872, "D": "insincerely or falsely professed", "S": [], "A": []}

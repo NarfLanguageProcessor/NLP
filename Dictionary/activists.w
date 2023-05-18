@@ -1,0 +1,1 @@
+{"index": 3263, "D": "an especially active,  vigorous advocate of a cause, especially a political cause.", "S": ["advocate ", "opponent ", "revolutionary "], "A": []}

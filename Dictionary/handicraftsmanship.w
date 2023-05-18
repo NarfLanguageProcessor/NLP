@@ -1,0 +1,1 @@
+{"index": 133181, "D": "a person skilled in a handicraft;  craftsman.", "S": [], "A": []}

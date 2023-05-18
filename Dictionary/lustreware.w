@@ -1,0 +1,1 @@
+{"index": 176434, "D": "pottery or porcelain ware with lustre decoration", "S": [], "A": []}

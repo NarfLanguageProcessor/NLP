@@ -1,0 +1,1 @@
+{"index": 365294, "D": "the sale of goods in quantity, as to retailers or jobbers, for resale (opposed to retail).", "S": ["banker ", "merchant ", "retailer ", "trader ", "trafficker ", "vendor "], "A": ["customer "]}

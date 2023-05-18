@@ -1,0 +1,1 @@
+{"index": 85539, "D": "to deviate or wander away from the main topic or purpose in speaking or writing; depart from the principal line of argument, plot, study, etc.", "S": ["meander "], "A": ["stay "]}

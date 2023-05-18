@@ -1,0 +1,1 @@
+{"index": 356216, "D": "pertaining to or of the nature of a utricle; baglike.", "S": [], "A": []}

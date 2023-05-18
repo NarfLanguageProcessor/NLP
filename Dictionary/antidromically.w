@@ -1,0 +1,1 @@
+{"index": 15150, "D": "conducting nerve impulses in a direction opposite to the usual one.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153521, "D": "not endowed with sensation; inanimate", "S": [], "A": []}

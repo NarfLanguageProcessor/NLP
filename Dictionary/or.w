@@ -1,0 +1,1 @@
+{"index": 213904, "D": "(used to connect words, phrases, or clauses representing alternatives)", "S": ["as a choice ", "as a substitute ", "as an alternative ", "conversely ", "either ", "in other words ", "in preference to ", "in turn ", "on the other hand ", "or but ", "or else ", "or only ", "preferentially "], "A": ["neither ", "nor "]}

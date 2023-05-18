@@ -1,0 +1,1 @@
+{"index": 196213, "D": "capable of inducing mutation  or increasing its rate.", "S": [], "A": []}

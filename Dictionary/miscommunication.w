@@ -1,0 +1,1 @@
+{"index": 188958, "D": "a failure to communicate accurately", "S": ["accident ", "blunder ", "flounder ", "mishap ", "mistake "], "A": []}

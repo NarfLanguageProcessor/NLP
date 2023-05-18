@@ -1,0 +1,1 @@
+{"index": 250515, "D": "of or relating to the first age or ages, especially of the world", "S": [], "A": []}

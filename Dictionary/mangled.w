@@ -1,0 +1,1 @@
+{"index": 179177, "D": "to injure severely, disfigure, or mutilate by cutting, slashing, or crushing", "S": ["eaten ", "masticated ", "mouthed ", "tasted "], "A": []}

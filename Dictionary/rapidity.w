@@ -1,0 +1,1 @@
+{"index": 260730, "D": "a rapid  state or quality; quickness; celerity.", "S": ["alacrity ", "swiftness ", "velocity "], "A": ["delay ", "hindrance ", "rest ", "retardation ", "slowing ", "slowness "]}

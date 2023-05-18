@@ -1,0 +1,1 @@
+{"index": 112241, "D": "the heavy, hard, durable wood  of various West Indian and other trees.", "S": [], "A": []}

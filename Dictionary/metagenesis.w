@@ -1,0 +1,1 @@
+{"index": 184653, "D": "reproduction characterized by the alternation of a sexual generation and a generation that reproduces asexually; alternation of generations.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219204, "D": "full of or characterized by enthusiasm;  ardent", "S": [], "A": []}

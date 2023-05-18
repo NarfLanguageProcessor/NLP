@@ -1,0 +1,1 @@
+{"index": 7799, "D": "a brown, water-insoluble, toxic solid consisting of more than 95 percent of the chlorinated hydrocarbon C12H8Cl6", "S": [], "A": []}

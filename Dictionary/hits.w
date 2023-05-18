@@ -1,0 +1,1 @@
+{"index": 141988, "D": "to deal a blow or stroke to", "S": ["bestsellers ", "hit parade ", "the charts ", "top of the charts ", "top twenty "], "A": []}

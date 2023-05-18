@@ -1,0 +1,1 @@
+{"index": 188470, "D": "the branch of entomology dealing with ants.", "S": [], "A": []}

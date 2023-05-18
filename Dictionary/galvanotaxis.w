@@ -1,0 +1,1 @@
+{"index": 121580, "D": "movement of an organism or any of its parts in a particular direction in response to an electric current; electrotaxis.", "S": [], "A": []}

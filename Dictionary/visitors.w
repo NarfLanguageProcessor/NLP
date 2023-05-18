@@ -1,0 +1,1 @@
+{"index": 360443, "D": "a person who visits,  as for reasons of friendship, business, duty, travel, or the like.", "S": ["caller ", "company ", "foreigner ", "guest "], "A": ["host "]}

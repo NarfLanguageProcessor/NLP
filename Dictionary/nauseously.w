@@ -1,0 +1,1 @@
+{"index": 197432, "D": "affected with nausea; nauseated", "S": [], "A": []}

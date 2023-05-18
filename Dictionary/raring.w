@@ -1,0 +1,1 @@
+{"index": 260839, "D": "very eager or anxious; enthusiastic", "S": ["champing at the bit ", "enthusiastic ", "itching ", "keen ", "longing ", "ready ", "willing "], "A": ["reluctant "]}

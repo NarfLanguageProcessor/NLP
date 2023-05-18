@@ -1,0 +1,1 @@
+{"index": 2312, "D": "a meteorite containing no chondrules.", "S": [], "A": []}

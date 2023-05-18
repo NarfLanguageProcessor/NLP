@@ -1,0 +1,1 @@
+{"index": 254657, "D": "pertaining to a calculated value or quantity from which corresponding properties of two or more substances can be compared", "S": [], "A": []}

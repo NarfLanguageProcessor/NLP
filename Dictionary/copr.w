@@ -1,0 +1,1 @@
+{"index": 68637, "D": "variant of copro-  before a vowel", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353213, "D": "without restraint or impediment; unhindered", "S": ["able ", "at large ", "clear ", "easy ", "independent ", "loose ", "open ", "unfettered ", "unrestricted "], "A": ["blocked ", "closed ", "repressed ", "restricted ", "strict ", "reserved "]}

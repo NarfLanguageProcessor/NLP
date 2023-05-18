@@ -1,0 +1,1 @@
+{"index": 36793, "D": "a viral disease of sheep and sometimes cattle, transmitted by biting insects and characterized by high fever, excessive salivation, swelling of the face and tongue,  and cyanosis of the tongue. ", "S": [], "A": []}

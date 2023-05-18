@@ -1,0 +1,1 @@
+{"index": 224680, "D": "(of igneous rocks) having well-developed crystals", "S": [], "A": []}

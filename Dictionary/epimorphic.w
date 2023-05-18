@@ -1,0 +1,1 @@
+{"index": 102605, "D": "a form of development in segmented animals in which body segmentation is completed before hatching.", "S": [], "A": []}

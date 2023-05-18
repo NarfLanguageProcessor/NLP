@@ -1,0 +1,1 @@
+{"index": 120250, "D": "feeding on fungi, as certain insects.", "S": [], "A": []}

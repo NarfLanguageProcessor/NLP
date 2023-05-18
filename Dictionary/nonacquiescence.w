@@ -1,0 +1,1 @@
+{"index": 201059, "D": "the act or condition of acquiescing  or giving tacit assent; agreement or consent by silence or without objection; compliance (usually followed by to or in)", "S": [], "A": []}

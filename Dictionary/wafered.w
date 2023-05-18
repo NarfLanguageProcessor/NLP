@@ -1,0 +1,1 @@
+{"index": 361772, "D": "a thin, crisp cake or biscuit, often sweetened and flavored.", "S": [], "A": []}

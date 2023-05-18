@@ -1,0 +1,1 @@
+{"index": 204863, "D": "tending or apt to intrude; coming without invitation or welcome", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55242, "D": "a yellow, crystalline, antibiotic powder, C22H23N2O8Cl, biosynthesized by Streptomyces aureofaciens, used in the treatment of infections.", "S": [], "A": []}

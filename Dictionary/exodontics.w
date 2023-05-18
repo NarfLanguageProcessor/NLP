@@ -1,0 +1,1 @@
+{"index": 107342, "D": "the branch of dentistry dealing with the extraction of teeth.", "S": [], "A": []}

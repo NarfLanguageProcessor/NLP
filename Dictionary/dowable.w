@@ -1,0 +1,1 @@
+{"index": 92147, "D": "subject to the provision of a dower", "S": [], "A": []}

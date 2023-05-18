@@ -1,0 +1,1 @@
+{"index": 48775, "D": "the bitter, aromatic bark of a West Indian shrub, Croton eluteria, of the spurge family, used as a tonic.", "S": [], "A": []}

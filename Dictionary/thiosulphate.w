@@ -1,0 +1,1 @@
+{"index": 322029, "D": "any salt of thiosulphuric acid", "S": [], "A": []}

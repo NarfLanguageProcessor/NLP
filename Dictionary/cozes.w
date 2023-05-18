@@ -1,0 +1,1 @@
+{"index": 71747, "D": "to converse in a friendly way; chat.", "S": [], "A": []}

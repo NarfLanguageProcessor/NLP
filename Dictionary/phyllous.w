@@ -1,0 +1,1 @@
+{"index": 233787, "D": "a combining form meaning \u201chaving leaves\u201d of the kind or number specified by the initial element", "S": [], "A": []}

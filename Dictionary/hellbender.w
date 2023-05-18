@@ -1,0 +1,1 @@
+{"index": 135654, "D": "a large salamander, Cryptobranchus alleganiensis, of rivers and streams in eastern North America, having a flat, stout body and broad head.", "S": [], "A": []}

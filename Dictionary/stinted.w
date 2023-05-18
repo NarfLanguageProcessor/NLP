@@ -1,0 +1,1 @@
+{"index": 304712, "D": "to be frugal; get along on a scanty allowance", "S": ["deficient ", "faulty ", "incompetent ", "incomplete ", "lacking ", "meager ", "poor ", "scarce ", "sketchy ", "skimpy ", "unequal ", "weak "], "A": ["able ", "abundant ", "adequate ", "capable ", "complete ", "enough ", "full ", "perfect ", "potent ", "strong ", "sufficient "]}

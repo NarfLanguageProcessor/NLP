@@ -1,0 +1,1 @@
+{"index": 338454, "D": "to free from deception, fallacy, or mistake.", "S": ["authoritative ", "flawless ", "foolproof ", "unbeatable "], "A": ["erring ", "fallible ", "faulty ", "imperfect "]}

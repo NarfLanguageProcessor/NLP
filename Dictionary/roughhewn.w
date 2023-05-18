@@ -1,0 +1,1 @@
+{"index": 274782, "D": "to hew (timber, stone, etc.) roughly or without smoothing or finishing.", "S": ["hard ", "raw ", "sketchy ", "unpolished "], "A": ["pleasant ", "sophisticated "]}

@@ -1,0 +1,1 @@
+{"index": 193902, "D": "a city in N Iraq, on the Tigris, opposite the ruins of Nineveh.", "S": [], "A": []}

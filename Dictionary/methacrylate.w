@@ -1,0 +1,1 @@
+{"index": 185186, "D": "an ester or salt derived from methacrylic acid.", "S": [], "A": []}

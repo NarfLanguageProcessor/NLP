@@ -1,0 +1,1 @@
+{"index": 142114, "D": "to walk lamely; limp.", "S": ["falter ", "halt ", "shuffle ", "stagger ", "stumble "], "A": ["continue "]}

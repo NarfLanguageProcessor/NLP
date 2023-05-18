@@ -1,0 +1,1 @@
+{"index": 87990, "D": "to free from bondage; liberate", "S": [], "A": []}

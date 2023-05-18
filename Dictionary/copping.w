@@ -1,0 +1,1 @@
+{"index": 68629, "D": "the winding of yarn into a cap from a cone, bobbin, etc.", "S": ["bust ", "capture ", "seize "], "A": ["free ", "let go ", "liberate ", "release ", "lose "]}

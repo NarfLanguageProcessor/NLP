@@ -1,0 +1,1 @@
+{"index": 304427, "D": "having the shape of an ancient style; resembling a pen, pin, or peg.", "S": [], "A": []}

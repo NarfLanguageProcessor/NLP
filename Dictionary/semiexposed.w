@@ -1,0 +1,1 @@
+{"index": 284179, "D": "left or being without shelter or protection", "S": [], "A": []}

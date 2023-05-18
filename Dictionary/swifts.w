@@ -1,0 +1,1 @@
+{"index": 314407, "D": "moving or capable of moving with great speed or velocity; fleet; rapid", "S": [], "A": []}

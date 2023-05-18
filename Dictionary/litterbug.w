@@ -1,0 +1,1 @@
+{"index": 173866, "D": "a person who litters  public places with items of refuse", "S": [], "A": []}

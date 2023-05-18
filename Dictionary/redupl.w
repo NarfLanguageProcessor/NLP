@@ -1,0 +1,1 @@
+{"index": 264503, "D": "reduplication.", "S": [], "A": []}

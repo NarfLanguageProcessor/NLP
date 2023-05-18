@@ -1,0 +1,1 @@
+{"index": 166309, "D": "a short sword or heavy dagger with a wavy blade, used by the Malays.", "S": ["blade ", "dagger ", "saber "], "A": []}

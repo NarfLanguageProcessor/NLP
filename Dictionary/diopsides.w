@@ -1,0 +1,1 @@
+{"index": 86299, "D": "a monoclinic pyroxene mineral, calcium magnesium silicate, CaMg(SiO3)2, occurring in various colors, usually in crystals.", "S": [], "A": []}

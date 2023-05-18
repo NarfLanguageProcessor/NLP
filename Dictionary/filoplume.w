@@ -1,0 +1,1 @@
+{"index": 112767, "D": "a specialized, hairlike feather having a slender shaft with few or no barbs.", "S": [], "A": []}

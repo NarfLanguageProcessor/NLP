@@ -1,0 +1,1 @@
+{"index": 210994, "D": "the first eight books of the Old Testament, consisting of Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, and Ruth, or a volume containing them.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 204584, "D": "the state or process of having been told, given, or granted something", "S": [], "A": []}

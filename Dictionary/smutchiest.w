@@ -1,0 +1,1 @@
+{"index": 295163, "D": "of or relating to smutch;  dirty; grimy; soiled; smudged.", "S": [], "A": []}

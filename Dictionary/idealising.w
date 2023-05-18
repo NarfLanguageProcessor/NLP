@@ -1,0 +1,1 @@
+{"index": 146311, "D": "to make ideal;  represent in an ideal  form or character; exalt to an ideal  perfection or excellence.", "S": [], "A": []}

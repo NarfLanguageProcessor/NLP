@@ -1,0 +1,1 @@
+{"index": 36190, "D": "a contemptible, worthless person, especially a man; scoundrel or rascal.", "S": [], "A": []}

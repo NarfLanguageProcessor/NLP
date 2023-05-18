@@ -1,0 +1,1 @@
+{"index": 142499, "D": "the NW part of Los Angeles, Calif.", "S": ["bogus ", "copied ", "false ", "fictitious ", "forged ", "fraudulent ", "phony ", "spurious "], "A": ["actual ", "authentic ", "factual ", "genuine ", "honest ", "real ", "sincere ", "true ", "truthful ", "valid ", "OK "]}

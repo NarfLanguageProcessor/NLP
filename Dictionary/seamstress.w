@@ -1,0 +1,1 @@
+{"index": 282516, "D": "a woman whose occupation is sewing.", "S": ["tailor "], "A": []}

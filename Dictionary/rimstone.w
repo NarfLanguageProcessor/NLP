@@ -1,0 +1,1 @@
+{"index": 272987, "D": "a calcareous deposit forming a dam at the edge or outlet of an overflowing pool of water, as in a cavern.", "S": [], "A": []}

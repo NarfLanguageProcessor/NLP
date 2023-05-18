@@ -1,0 +1,1 @@
+{"index": 131134, "D": "a shafted weapon having as a head a curved, double-edged blade with a beak at the back.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47146, "D": "a finishing stone of a structure.", "S": ["apogee ", "climax ", "culmination ", "height ", "meridian ", "optimum ", "peak ", "summit ", "top ", "ultimate ", "vertex ", "zenith "], "A": ["base ", "bottom ", "nadir "]}

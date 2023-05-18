@@ -1,0 +1,1 @@
+{"index": 28413, "D": "to serve or work as a bartender. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117263, "D": "a past participle of forget. ", "S": ["abandoned ", "buried ", "erased ", "gone ", "lapsed ", "lost ", "obliterated ", "omitted ", "repressed ", "suppressed "], "A": ["existing "]}

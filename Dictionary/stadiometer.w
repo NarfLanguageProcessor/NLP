@@ -1,0 +1,1 @@
+{"index": 302262, "D": "an instrument that measures the length of curves, dashes, etc, by running a toothed wheel along them", "S": [], "A": []}

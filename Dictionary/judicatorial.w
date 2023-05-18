@@ -1,0 +1,1 @@
+{"index": 162087, "D": "a person who acts as judge or sits in judgment.", "S": [], "A": []}

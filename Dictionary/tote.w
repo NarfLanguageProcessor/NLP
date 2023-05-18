@@ -1,0 +1,1 @@
+{"index": 326484, "D": "to carry, as on one's back or in one's arms", "S": ["fetch ", "haul ", "heft ", "hoist ", "lug "], "A": ["abstain ", "avoid ", "discontinue ", "disenchant ", "dodge ", "drop ", "fix ", "hold ", "keep ", "leave ", "maintain ", "receive ", "refrain ", "refuse ", "remain ", "repulse ", "shun ", "stay ", "stop ", "withhold "]}

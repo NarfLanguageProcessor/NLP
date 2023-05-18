@@ -1,0 +1,1 @@
+{"index": 322785, "D": "causing the break-up of a blood clot", "S": [], "A": []}

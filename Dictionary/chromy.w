@@ -1,0 +1,1 @@
+{"index": 56265, "D": "decorated with or abounding in chrome", "S": [], "A": []}

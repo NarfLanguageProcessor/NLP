@@ -1,0 +1,1 @@
+{"index": 40307, "D": "a cultivator moved forward by a person pressing the chest against a crossbar.", "S": [], "A": []}

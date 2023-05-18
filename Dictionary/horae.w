@@ -1,0 +1,1 @@
+{"index": 143750, "D": "goddesses of the seasons, of cyclical death and rebirth, and sometimes of social order, usually given as three in number, with the names Dike (Justice), Eunomia (Order), and Irene (Peace).", "S": [], "A": []}

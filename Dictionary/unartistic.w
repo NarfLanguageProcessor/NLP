@@ -1,0 +1,1 @@
+{"index": 335264, "D": "not conforming to the standards of art; not aesthetically appealing", "S": [], "A": []}

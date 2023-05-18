@@ -1,0 +1,1 @@
+{"index": 57113, "D": "the act or sport of riding or traveling by bicycle, motorcycle, etc.", "S": [], "A": []}

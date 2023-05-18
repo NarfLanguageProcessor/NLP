@@ -1,0 +1,1 @@
+{"index": 23797, "D": "the act or process of establishing something as genuine or authoritative", "S": ["certification ", "verification "], "A": []}

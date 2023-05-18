@@ -1,0 +1,1 @@
+{"index": 223908, "D": "the line of cliffs in northeastern New Jersey and southeastern New York extending along the western bank of the lower Hudson River.  About 15 miles (24 kilometers) long; 300\u2013500 feet (91\u2013152 meters) high.", "S": ["barrier ", "bluff ", "cliff ", "defense ", "enclosure ", "fence ", "slope ", "stockade "], "A": []}

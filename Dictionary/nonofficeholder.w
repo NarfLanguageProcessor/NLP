@@ -1,0 +1,1 @@
+{"index": 205597, "D": "a person filling a governmental position; public official.", "S": [], "A": []}

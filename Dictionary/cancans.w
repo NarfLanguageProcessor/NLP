@@ -1,0 +1,1 @@
+{"index": 46068, "D": "a lively high kicking dance that came into vogue about 1830 in Paris and after 1844 was used as an exhibition dance.", "S": [], "A": []}

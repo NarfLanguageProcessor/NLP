@@ -1,0 +1,1 @@
+{"index": 212442, "D": "neglecting; leaving out.", "S": [], "A": []}

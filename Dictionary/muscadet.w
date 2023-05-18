@@ -1,0 +1,1 @@
+{"index": 195827, "D": "a white grape grown especially in the lower Loire Valley region of France.", "S": [], "A": []}

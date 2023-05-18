@@ -1,0 +1,1 @@
+{"index": 141236, "D": "dependent relation or construction, as of clauses; syntactic subordination.", "S": [], "A": []}

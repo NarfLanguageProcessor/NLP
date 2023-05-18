@@ -1,0 +1,1 @@
+{"index": 242155, "D": "an alcohol containing three or more hydroxyl groups; a polyhydric alcohol.", "S": [], "A": []}

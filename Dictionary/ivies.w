@@ -1,0 +1,1 @@
+{"index": 159726, "D": "a climbing vine, Hedera helix, having smooth, shiny, evergreen leaves, small, yellowish flowers, and black berries, grown as an ornamental.", "S": [], "A": []}

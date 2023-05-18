@@ -1,0 +1,1 @@
+{"index": 54493, "D": "an apparatus for striking a bell so as to produce a musical sound, as one at the front door of a house by which visitors announce their presence.", "S": ["angelus ", "glockenspiel ", "gong ", "lyra ", "peal ", "tintinnabulation ", "tocsin "], "A": []}

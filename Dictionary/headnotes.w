@@ -1,0 +1,1 @@
+{"index": 134671, "D": "a brief summary, comment, or explanation that precedes a chapter, report, etc.", "S": [], "A": []}

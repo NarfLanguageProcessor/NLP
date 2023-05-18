@@ -1,0 +1,1 @@
+{"index": 132828, "D": "a major antipsychotic agent, C21H23ClFNO2, used in the management of schizophrenia, severe anxiety, and other behavioral disorders.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94215, "D": [], "S": ["black ", "cloudy ", "darkened ", "dim ", "dingy ", "drab ", "dull ", "foggy ", "gloomy ", "misty ", "murky ", "overcast ", "shadowy ", "somber "], "A": ["bright ", "cheerful ", "clean ", "clear ", "distinct ", "good ", "happy ", "intelligent ", "joyful ", "light ", "luminous ", "smart ", "sparkling ", "sunny ", "vivacious "]}

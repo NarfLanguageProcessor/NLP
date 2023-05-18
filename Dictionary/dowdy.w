@@ -1,0 +1,1 @@
+{"index": 92155, "D": "not stylish; drab; old-fashioned", "S": ["antiquated ", "dingy ", "drab ", "frumpy ", "run down ", "shabby ", "unkempt "], "A": ["bright ", "good ", "neat "]}

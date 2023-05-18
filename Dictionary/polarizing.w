@@ -1,0 +1,1 @@
+{"index": 241497, "D": "tending to divide people into sharply opposing factions", "S": ["part ", "separate "], "A": ["combine ", "connect ", "join ", "repair ", "merge ", "mix ", "unite "]}

@@ -1,0 +1,1 @@
+{"index": 142464, "D": "a block of soft sandstone used in scrubbing the decks of a ship.", "S": [], "A": []}

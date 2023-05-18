@@ -1,0 +1,1 @@
+{"index": 52966, "D": "a document, issued by a sovereign or state, outlining the conditions under which a corporation, colony, city, or other corporate body is organized, and defining its rights and privileges.", "S": ["code ", "constitution ", "contract ", "document ", "license ", "pact ", "permit ", "settlement "], "A": ["disagreement ", "prohibition ", "loss "]}

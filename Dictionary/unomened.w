@@ -1,0 +1,1 @@
+{"index": 347131, "D": "anything perceived or happening that is believed to portend a good or evil event or circumstance in the future; portent.", "S": [], "A": []}

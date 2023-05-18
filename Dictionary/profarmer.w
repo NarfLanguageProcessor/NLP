@@ -1,0 +1,1 @@
+{"index": 251680, "D": "a person who farms; person who operates a farm or cultivates land.", "S": [], "A": []}

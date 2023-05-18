@@ -1,0 +1,1 @@
+{"index": 25775, "D": "a fall or throw onto the back.", "S": [], "A": []}

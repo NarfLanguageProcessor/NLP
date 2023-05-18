@@ -1,0 +1,1 @@
+{"index": 241306, "D": "to take (property of a debtor) in execution or by way of distress; distrain", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199217, "D": "belonging or pertaining to the Neuroptera, an order of insects characterized by four membranous wings having netlike venation, comprising the ant lions, lacewings, dobsonflies, alderflies, fishflies, snakeflies, mantispids, and spongillaflies.", "S": [], "A": []}

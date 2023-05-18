@@ -1,0 +1,1 @@
+{"index": 276912, "D": "lustful or lecherous.", "S": ["bawdiness ", "coarseness ", "filthiness ", "foulness ", "indecency ", "lewdness ", "profaneness ", "profanity ", "smuttiness ", "vulgarity "], "A": ["decency ", "modesty "]}

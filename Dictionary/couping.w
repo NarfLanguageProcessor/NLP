@@ -1,0 +1,1 @@
+{"index": 71262, "D": "a highly successful, unexpected stroke, act, or move; a clever action or accomplishment.", "S": [], "A": []}

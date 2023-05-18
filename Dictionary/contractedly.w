@@ -1,0 +1,1 @@
+{"index": 67567, "D": "drawn together; reduced in compass or size; made smaller; shrunken. ", "S": [], "A": []}

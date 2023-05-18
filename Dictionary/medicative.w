@@ -1,0 +1,1 @@
+{"index": 182088, "D": "medicinal. ", "S": ["corrective ", "healthful ", "invigorating ", "medicinal ", "remedial ", "salutary ", "therapeutic "], "A": ["damaging ", "harmful ", "hurtful ", "injurious "]}

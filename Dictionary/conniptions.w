@@ -1,0 +1,1 @@
+{"index": 66541, "D": "a fit of hysterical excitement or anger.", "S": ["blowup ", "fit ", "huff ", "outburst ", "scene ", "tantrum "], "A": ["peace "]}

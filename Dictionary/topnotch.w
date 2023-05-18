@@ -1,0 +1,1 @@
+{"index": 325925, "D": "first-rate", "S": ["excellent ", "finest ", "first-rate ", "outstanding "], "A": ["bad ", "inferior ", "poor "]}

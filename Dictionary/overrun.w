@@ -1,0 +1,1 @@
+{"index": 220925, "D": "to rove over (a country, region, etc.); invade; ravage", "S": ["massacre ", "occupy ", "overwhelm ", "raid ", "rout ", "swamp "], "A": ["underwhelm ", "lose ", "surrender "]}

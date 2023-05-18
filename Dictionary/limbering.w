@@ -1,0 +1,1 @@
+{"index": 172306, "D": "characterized by ease in bending the body; supple; lithe. ", "S": [], "A": []}

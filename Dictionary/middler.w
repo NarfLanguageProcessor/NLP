@@ -1,0 +1,1 @@
+{"index": 186704, "D": [], "S": ["intermediate "], "A": ["exterior ", "extreme ", "outside "]}

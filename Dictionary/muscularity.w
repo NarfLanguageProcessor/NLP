@@ -1,0 +1,1 @@
+{"index": 195898, "D": [], "S": ["beef ", "bulk ", "clout ", "energy ", "flesh ", "kick ", "might ", "moxie ", "muscle ", "power ", "punch ", "robustness ", "sinews ", "sock ", "steam ", "vigor "], "A": ["idleness ", "impotence ", "inability ", "inactivity ", "lethargy ", "powerlessness ", "weakness "]}

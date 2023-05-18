@@ -1,0 +1,1 @@
+{"index": 246689, "D": "a person who precedes  another in an office, position, etc.", "S": ["ancestor ", "forebear "], "A": ["derivative ", "descendant ", "successor "]}

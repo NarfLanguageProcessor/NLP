@@ -1,0 +1,1 @@
+{"index": 129389, "D": "an act or process caused by this force.", "S": ["gravity "], "A": []}

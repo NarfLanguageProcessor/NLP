@@ -1,0 +1,1 @@
+{"index": 205425, "D": "a person devoted to nationalism. ", "S": [], "A": []}

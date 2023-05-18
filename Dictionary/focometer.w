@@ -1,0 +1,1 @@
+{"index": 115683, "D": "an instrument for measuring the focal length of a lens or other optical system.", "S": [], "A": []}

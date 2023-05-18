@@ -1,0 +1,1 @@
+{"index": 362463, "D": "something, as an amount that is lacking, desired, or needed.", "S": [], "A": []}

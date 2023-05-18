@@ -1,0 +1,1 @@
+{"index": 325066, "D": "belonging to or characteristic of the upper class", "S": [], "A": []}

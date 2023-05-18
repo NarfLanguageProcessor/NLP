@@ -1,0 +1,1 @@
+{"index": 118572, "D": "something given without charge or cost, as a ticket to a performance or sports event or a free sample at a store", "S": [], "A": []}

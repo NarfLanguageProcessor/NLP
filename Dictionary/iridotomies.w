@@ -1,0 +1,1 @@
+{"index": 158006, "D": "incision of the iris, especially for the formation of an artificial pupil by transverse division of fibers of the iris.", "S": [], "A": []}

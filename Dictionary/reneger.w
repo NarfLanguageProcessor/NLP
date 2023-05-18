@@ -1,0 +1,1 @@
+{"index": 267611, "D": "to play a card that is not of the suit led when one can follow suit; break a rule of play.", "S": ["absconder ", "apostate ", "deserter ", "rat ", "recreant ", "renegade ", "runaway ", "sellout ", "tergiversator ", "turncoat "], "A": []}

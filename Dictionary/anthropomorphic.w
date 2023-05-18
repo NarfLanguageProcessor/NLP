@@ -1,0 +1,1 @@
+{"index": 14600, "D": "ascribing human form or attributes to a being or thing not human, especially to a deity", "S": ["humanlike "], "A": []}

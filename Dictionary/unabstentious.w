@@ -1,0 +1,1 @@
+{"index": 334383, "D": "an act or instance of abstaining. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67279, "D": "to make impure or unsuitable by contact or mixture with something unclean, bad, etc.", "S": ["corrupt ", "harm ", "infect ", "injure ", "poison ", "pollute ", "stain ", "taint ", "tarnish "], "A": ["aid ", "assist ", "clean ", "cleanse ", "fix ", "help ", "improve ", "mend ", "purify ", "clear ", "honor ", "praise ", "sanctify ", "upgrade "]}

@@ -1,0 +1,1 @@
+{"index": 176378, "D": "lush2 (def. 1). ", "S": ["abundant ", "dense ", "green ", "lavish ", "luscious ", "luxuriant ", "luxurious ", "opulent ", "ornate ", "overgrown ", "plush ", "rich ", "sensuous ", "sumptuous ", "verdant "], "A": ["barren ", "scarce ", "sparse "]}

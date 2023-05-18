@@ -1,0 +1,1 @@
+{"index": 191400, "D": "a soft sediment produced by the erosion of mountain ranges after the final phase of mountain building", "S": [], "A": []}

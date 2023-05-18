@@ -1,0 +1,1 @@
+{"index": 165762, "D": "a joint of a finger, especially one of the articulations of a metacarpal with a phalanx.", "S": ["accept ", "acquiesce ", "bend ", "capitulate ", "comply ", "defer ", "give in ", "kowtow ", "relent ", "succumb ", "surrender ", "yield "], "A": ["conquer ", "decline ", "deny ", "disagree ", "disallow ", "fight ", "oppose ", "refuse ", "reject ", "win "]}

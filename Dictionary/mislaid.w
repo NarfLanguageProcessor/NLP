@@ -1,0 +1,1 @@
+{"index": 189542, "D": "to lose temporarily; misplace", "S": ["disappeared ", "disarranged ", "gone ", "lost ", "missing "], "A": ["existing ", "found ", "present "]}

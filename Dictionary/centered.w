@@ -1,0 +1,1 @@
+{"index": 50835, "D": "having a central  axis", "S": ["intent ", "lost ", "musing ", "set "], "A": ["aboveboard ", "flighty ", "frivolous "]}

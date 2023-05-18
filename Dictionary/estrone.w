@@ -1,0 +1,1 @@
+{"index": 104756, "D": "an estrogenic hormone, C18H22O2, produced by the ovarian follicles and found during pregnancy in urine and placental tissue.", "S": [], "A": []}

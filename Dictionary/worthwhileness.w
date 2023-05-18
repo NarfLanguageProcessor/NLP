@@ -1,0 +1,1 @@
+{"index": 367718, "D": "such as to repay one's time, attention, interest, work, trouble, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 326041, "D": "(in Indian Buddhist and Hindu architecture) a gateway having two or three lintels between two posts.", "S": [], "A": []}

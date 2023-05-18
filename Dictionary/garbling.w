@@ -1,0 +1,1 @@
+{"index": 122076, "D": "to confuse unintentionally or ignorantly; jumble", "S": ["misinterpret ", "misquote "], "A": ["clear up ", "explain ", "leave alone ", "order ", "organize ", "purify ", "straighten "]}

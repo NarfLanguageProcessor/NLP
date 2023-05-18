@@ -1,0 +1,1 @@
+{"index": 282948, "D": [], "S": ["attaining ", "procuring ", "winning "], "A": []}

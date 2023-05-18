@@ -1,0 +1,1 @@
+{"index": 272108, "D": "a fine-grained igneous rock rich in silica", "S": [], "A": []}

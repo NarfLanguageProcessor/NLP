@@ -1,0 +1,1 @@
+{"index": 68035, "D": "to talk informally with another or others; exchange views, opinions, etc., by talking.", "S": ["antipode ", "antithesis ", "contra ", "contrary ", "counter ", "inverse ", "obverse ", "reverse "], "A": ["same "]}

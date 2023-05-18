@@ -1,0 +1,1 @@
+{"index": 56707, "D": "a lay officer who looks after the secular affairs of the church, and who, in England, is the legal representative of the parish.", "S": [], "A": []}

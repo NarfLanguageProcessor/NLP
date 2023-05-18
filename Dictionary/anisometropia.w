@@ -1,0 +1,1 @@
+{"index": 13328, "D": "an imbalance in the power of the two eyes to refract light", "S": [], "A": []}

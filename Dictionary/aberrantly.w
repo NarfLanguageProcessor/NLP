@@ -1,0 +1,1 @@
+{"index": 352, "D": "departing from the right, normal, or usual course.", "S": [], "A": []}

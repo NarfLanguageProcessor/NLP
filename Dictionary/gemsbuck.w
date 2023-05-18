@@ -1,0 +1,1 @@
+{"index": 123381, "D": "a large antelope, Oryx gazella, the largest of the oryxes, found in arid regions of southern Africa, including the Kalahari Desert, having a long black tail and conspicuous black striping on the face and from the chin to the front legs and along each lower flank to the rear legs", "S": [], "A": []}

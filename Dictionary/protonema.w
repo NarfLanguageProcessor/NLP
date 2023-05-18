@@ -1,0 +1,1 @@
+{"index": 253747, "D": "a primary, usually filamentous structure produced by the germination of the spore in mosses and certain related plants, and from which the leafy plant which bears the sexual organs arises as a lateral or terminal shoot.", "S": [], "A": []}

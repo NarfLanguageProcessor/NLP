@@ -1,0 +1,1 @@
+{"index": 41860, "D": "a style of modernist architecture, originating in the 1950s, characterized by exposed structural materials and plain, massive, often steeply angular geometric forms, typically of unfinished concrete. ", "S": [], "A": []}

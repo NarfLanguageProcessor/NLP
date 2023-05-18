@@ -1,0 +1,1 @@
+{"index": 302882, "D": "to gaze fixedly and intently, especially with the eyes wide open.", "S": [], "A": []}

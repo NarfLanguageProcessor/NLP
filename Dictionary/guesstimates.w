@@ -1,0 +1,1 @@
+{"index": 130951, "D": "to estimate without substantial basis in facts or statistics.", "S": ["belief ", "conjecture ", "opinion ", "thought "], "A": ["reality ", "truth ", "disdain ", "disregard ", "ignorance ", "knowledge ", "measurement ", "neglect ", "proof "]}

@@ -1,0 +1,1 @@
+{"index": 321616, "D": "the eighth letter of the Greek alphabet (\u0398, \u03b8).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207581, "D": "the act, fact, or process of subjugating,  or bringing under control; enslavement", "S": [], "A": []}

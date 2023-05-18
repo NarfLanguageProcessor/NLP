@@ -1,0 +1,1 @@
+{"index": 264491, "D": "a tube with a stopcock at one end, usually filled with a metal, for reducing a constituent in a solution.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94829, "D": "of or relating to the earth,  especially as opposed to heaven; worldly.", "S": ["carnal ", "mundane ", "physical ", "temporal ", "terrestrial ", "worldly "], "A": ["heavenly ", "immaterial ", "mental ", "otherworldly ", "spiritual "]}

@@ -1,0 +1,1 @@
+{"index": 246992, "D": "the act, state, or fact of disagreeing. ", "S": [], "A": []}

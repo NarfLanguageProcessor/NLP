@@ -1,0 +1,1 @@
+{"index": 255755, "D": "any of a number of genera of flying reptiles of the extinct order Pterosauria, from the Jurassic and Cretaceous periods, having a highly reduced tail and teeth and a birdlike beak.", "S": [], "A": []}

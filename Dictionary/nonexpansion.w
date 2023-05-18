@@ -1,0 +1,1 @@
+{"index": 203795, "D": "the act or process of expanding.", "S": [], "A": []}

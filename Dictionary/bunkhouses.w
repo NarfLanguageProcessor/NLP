@@ -1,0 +1,1 @@
+{"index": 42892, "D": "a rough building, often with bunk beds,  used for sleeping quarters, as for ranch hands, migratory workers, or campers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 275039, "D": "one of several concentric rings of masonry forming an arch.", "S": [], "A": []}

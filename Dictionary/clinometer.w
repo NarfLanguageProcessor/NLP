@@ -1,0 +1,1 @@
+{"index": 60087, "D": "an instrument for determining angles of inclination or slope.", "S": [], "A": []}

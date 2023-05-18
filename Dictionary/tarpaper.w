@@ -1,0 +1,1 @@
+{"index": 316667, "D": "a heavy, tar-coated paper  used as a waterproofing material in building construction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333043, "D": "Compare Shantung (def. 2a). ", "S": [], "A": []}

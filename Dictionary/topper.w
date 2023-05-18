@@ -1,0 +1,1 @@
+{"index": 325981, "D": "a person or thing that tops. ", "S": ["comment ", "explanation ", "feedback ", "interpretation ", "justification ", "key ", "observation ", "rebuttal ", "remark ", "report ", "resolution ", "response ", "result ", "return ", "sign ", "solution ", "statement "], "A": ["problem ", "question ", "quiet ", "request ", "silence ", "trouble "]}

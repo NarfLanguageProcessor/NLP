@@ -1,0 +1,1 @@
+{"index": 73039, "D": "an eye or grommet formed on the boltrope of a sail to permit the attachment of lines.", "S": [], "A": []}

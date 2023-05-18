@@ -1,0 +1,1 @@
+{"index": 325505, "D": "any sound considered with reference to its quality, pitch, strength, source, etc.", "S": ["able-bodied ", "competent ", "robust ", "slim ", "strapping "], "A": ["infirm ", "weak ", "sick ", "unhealthy "]}

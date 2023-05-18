@@ -1,0 +1,1 @@
+{"index": 78060, "D": "to reduce the amount of carbon dioxide or other carbon compounds emitted into the atmosphere by the activities of (a household, industry, country, etc.)", "S": [], "A": []}

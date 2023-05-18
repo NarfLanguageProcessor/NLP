@@ -1,0 +1,1 @@
+{"index": 162609, "D": "to make juvenile  or immature", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109338, "D": "a pulley, thimble, etc., used to guide a rope forming part of the rigging of a ship, crane, etc., in such a way as to prevent chafing.", "S": [], "A": []}

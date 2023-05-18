@@ -1,0 +1,1 @@
+{"index": 15722, "D": "relieving the pain of a toothache.", "S": ["analgesic ", "anesthetic ", "pain pill ", "pain reliever ", "sedative ", "tranquilizer "], "A": []}

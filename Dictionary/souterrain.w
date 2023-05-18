@@ -1,0 +1,1 @@
+{"index": 297978, "D": "a subterranean passage or structure; grotto.", "S": [], "A": []}

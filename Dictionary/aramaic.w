@@ -1,0 +1,1 @@
+{"index": 18416, "D": "Compare Biblical Aramaic. ", "S": [], "A": []}

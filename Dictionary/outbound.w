@@ -1,0 +1,1 @@
+{"index": 216254, "D": "outward bound", "S": ["departing ", "last ", "retiring ", "withdrawing "], "A": ["incoming "]}

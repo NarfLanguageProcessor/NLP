@@ -1,0 +1,1 @@
+{"index": 359302, "D": "the act of vibrating, or an instance of vibratory motion; oscillation; quiver; tremor. ", "S": [], "A": []}

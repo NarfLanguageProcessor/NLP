@@ -1,0 +1,1 @@
+{"index": 125777, "D": "to make glad. ", "S": ["brighten ", "cheer ", "delight ", "elate ", "hearten ", "warm "], "A": ["bring down ", "depress ", "discourage ", "dishearten "]}

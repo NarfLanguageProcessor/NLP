@@ -1,0 +1,1 @@
+{"index": 143065, "D": "a tendency to be sexually aroused by people of one's own sex or gender.", "S": [], "A": []}

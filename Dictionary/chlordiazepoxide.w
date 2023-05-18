@@ -1,0 +1,1 @@
+{"index": 55059, "D": "a compound, C16H14ClN3O, used as a tranquilizer.", "S": [], "A": []}

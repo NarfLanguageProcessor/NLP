@@ -1,0 +1,1 @@
+{"index": 314038, "D": "of the nature of, resembling, or abounding in swamps. ", "S": ["marshy ", "muddy "], "A": []}

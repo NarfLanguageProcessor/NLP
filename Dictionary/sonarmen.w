@@ -1,0 +1,1 @@
+{"index": 297170, "D": "a petty officer who operates and maintains sonar. ", "S": [], "A": []}

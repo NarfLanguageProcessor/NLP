@@ -1,0 +1,1 @@
+{"index": 172640, "D": "flimsy; limp;  weak; lazy; flaccid.", "S": [], "A": []}

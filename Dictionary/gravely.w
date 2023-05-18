@@ -1,0 +1,1 @@
+{"index": 129316, "D": "U.S. naval officer", "S": ["deeply ", "greatly ", "hard ", "painfully ", "seriously ", "severely "], "A": ["lightly "]}

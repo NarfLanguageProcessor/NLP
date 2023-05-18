@@ -1,0 +1,1 @@
+{"index": 350824, "D": "of, showing, or characterized by deep thought.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 204072, "D": "to whip; scourge; flog; lash.", "S": [], "A": []}

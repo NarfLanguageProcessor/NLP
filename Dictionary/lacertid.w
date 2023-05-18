@@ -1,0 +1,1 @@
+{"index": 166867, "D": "any of numerous Old World lizards of the family Lacertidae.", "S": [], "A": []}

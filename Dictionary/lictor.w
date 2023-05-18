@@ -1,0 +1,1 @@
+{"index": 171768, "D": "(in ancient Rome) one of a body of attendants on chief magistrates, who preceded them carrying the fasces and whose duties included executing the sentences of criminals.", "S": [], "A": []}

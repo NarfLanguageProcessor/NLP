@@ -1,0 +1,1 @@
+{"index": 54259, "D": "the six-legged larva of a mite of the family Trombiculidae, parasitic on humans and other vertebrates, sucking blood and causing severe itching and acting as a vector of scrub typhus and other infectious diseases.", "S": [], "A": []}

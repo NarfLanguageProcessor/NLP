@@ -1,0 +1,1 @@
+{"index": 14902, "D": "of or relating to an anticyclone", "S": [], "A": []}

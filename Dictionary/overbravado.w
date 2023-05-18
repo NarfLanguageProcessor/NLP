@@ -1,0 +1,1 @@
+{"index": 218413, "D": "a pretentious, swaggering display of courage.", "S": [], "A": []}

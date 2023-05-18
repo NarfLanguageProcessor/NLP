@@ -1,0 +1,1 @@
+{"index": 184511, "D": "a dwelling house with its adjacent buildings and the lands appropriated to the use of the household.", "S": [], "A": []}

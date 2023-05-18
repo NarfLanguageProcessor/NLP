@@ -1,0 +1,1 @@
+{"index": 95948, "D": "something that is produced by an agency or cause; result; consequence", "S": ["aftermath ", "consequence ", "development ", "event ", "fallout ", "issue ", "outcome ", "ramification ", "reaction ", "repercussion ", "response ", "side effect "], "A": ["beginning ", "cause ", "origin ", "question ", "source ", "commencement ", "start "]}

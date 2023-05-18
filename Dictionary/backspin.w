@@ -1,0 +1,1 @@
+{"index": 25931, "D": "reverse rotation of a ball causing it to bounce or roll backward or stop short.", "S": [], "A": []}

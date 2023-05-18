@@ -1,0 +1,1 @@
+{"index": 173637, "D": "the formation or presence of stony concretions, as calculi, in the body.", "S": [], "A": []}

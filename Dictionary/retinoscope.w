@@ -1,0 +1,1 @@
+{"index": 270524, "D": "an apparatus that determines the refractive power of the eye by observing the lights and shadows on the pupil when a mirror illumines the retina;  skiascope.", "S": [], "A": []}

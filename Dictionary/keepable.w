@@ -1,0 +1,1 @@
+{"index": 163580, "D": "to hold or retain in one's possession; hold as one's own", "S": [], "A": []}

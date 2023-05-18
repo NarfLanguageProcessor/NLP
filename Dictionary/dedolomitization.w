@@ -1,0 +1,1 @@
+{"index": 78917, "D": "a metamorphic process in which the magnesium in dolomitic rock forms new minerals, as brucite and forsterite, and the calcium forms calcite.", "S": [], "A": []}

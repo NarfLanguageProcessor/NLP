@@ -1,0 +1,1 @@
+{"index": 136966, "D": "requiring the great strength of a Hercules;  very hard to perform", "S": ["almighty ", "backbreaking ", "colossal ", "courageous ", "forceful ", "gargantuan ", "gigantic ", "hard ", "heroic ", "huge ", "impressive ", "laborious ", "mighty ", "strenuous ", "tough ", "vigorous "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 275709, "D": "a way  along which something runs. ", "S": ["airstrip ", "path ", "platform ", "ramp ", "road ", "tarmac "], "A": []}

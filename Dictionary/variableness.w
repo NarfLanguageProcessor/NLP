@@ -1,0 +1,1 @@
+{"index": 357168, "D": "apt or liable to vary  or change; changeable", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97277, "D": "the use in surgery  of an electric instrument, as an acusector, or of an electric current, as in electrocoagulation; surgical diathermy.", "S": [], "A": []}

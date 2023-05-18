@@ -1,0 +1,1 @@
+{"index": 336383, "D": "to make or become calcareous or bony; harden by the deposit of calcium  salts.", "S": [], "A": []}

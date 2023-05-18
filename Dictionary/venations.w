@@ -1,0 +1,1 @@
+{"index": 357935, "D": "the arrangement of veins, as in a leaf or in the wing of an insect.", "S": ["hair ", "lode ", "nerve ", "seam ", "stripe "], "A": []}

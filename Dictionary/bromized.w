@@ -1,0 +1,1 @@
+{"index": 41293, "D": "to treat or combine with bromine or a bromide.", "S": [], "A": []}

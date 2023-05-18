@@ -1,0 +1,1 @@
+{"index": 313028, "D": "a person or thing that supports. ", "S": ["ally ", "defender ", "follower ", "patron ", "proponent ", "support "], "A": ["enemy ", "opponent ", "opposition "]}

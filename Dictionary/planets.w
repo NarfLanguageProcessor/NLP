@@ -1,0 +1,1 @@
+{"index": 238950, "D": "(formerly) a celestial body moving in the sky, as distinguished from a fixed star, applied also to the sun and moon.", "S": ["asteroid ", "earth ", "globe ", "sphere ", "world "], "A": []}

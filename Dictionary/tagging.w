@@ -1,0 +1,1 @@
+{"index": 315255, "D": "a piece or strip of strong paper, plastic, metal, leather, etc., for attaching by one end to something as a mark or label", "S": ["badge ", "button ", "card ", "chip ", "identification ", "insignia ", "logo ", "marker ", "pin ", "stamp ", "sticker "], "A": []}

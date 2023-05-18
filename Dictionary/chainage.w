@@ -1,0 +1,1 @@
+{"index": 51974, "D": "a length as measured by a surveyor's chain  or tape.", "S": [], "A": []}

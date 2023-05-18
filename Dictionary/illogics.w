@@ -1,0 +1,1 @@
+{"index": 147441, "D": "the state or quality of being illogical;  illogicality", "S": [], "A": []}

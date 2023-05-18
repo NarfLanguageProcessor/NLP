@@ -1,0 +1,1 @@
+{"index": 170892, "D": "of, relating to, or affected with lethargy;  drowsy; sluggish; apathetic.", "S": ["densely ", "dimly ", "listlessly ", "obtusely ", "slowly ", "sluggishly "], "A": []}

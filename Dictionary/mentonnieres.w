@@ -1,0 +1,1 @@
+{"index": 183552, "D": "any of various plate pieces for protecting the lower part of the face, as a beaver.", "S": [], "A": []}

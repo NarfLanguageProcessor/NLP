@@ -1,0 +1,1 @@
+{"index": 289273, "D": "a cloth or sheet in which a corpse is wrapped for burial.", "S": [], "A": []}

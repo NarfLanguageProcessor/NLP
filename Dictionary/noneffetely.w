@@ -1,0 +1,1 @@
+{"index": 203371, "D": "lacking in wholesome vigor; degenerate; decadent", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186840, "D": "the middle part of a city or town  between uptown and downtown.", "S": ["central ", "main ", "metropolitan ", "urban "], "A": ["country ", "minor ", "secondary "]}

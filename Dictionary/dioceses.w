@@ -1,0 +1,1 @@
+{"index": 86233, "D": "an ecclesiastical district under the jurisdiction of a bishop.", "S": ["district "], "A": []}

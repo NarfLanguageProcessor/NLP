@@ -1,0 +1,1 @@
+{"index": 91613, "D": "any thick liquid or pasty preparation, as a lubricant, used in preparing a surface.", "S": ["idiot "], "A": ["brain ", "genius "]}

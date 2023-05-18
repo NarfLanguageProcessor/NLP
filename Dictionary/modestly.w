@@ -1,0 +1,1 @@
+{"index": 191120, "D": "reflecting a moderate or humble estimate of one\u2019s merits, importance, etc.; not boastfully", "S": ["humbly ", "plainly ", "quietly ", "simply "], "A": ["boastfully ", "boldly ", "immodestly ", "pretentiously "]}

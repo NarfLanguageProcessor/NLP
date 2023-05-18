@@ -1,0 +1,1 @@
+{"index": 350615, "D": "tending to seclude, especially oneself.", "S": [], "A": []}

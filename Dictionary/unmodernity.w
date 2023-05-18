@@ -1,0 +1,1 @@
+{"index": 346494, "D": "the quality of being modern. ", "S": [], "A": []}

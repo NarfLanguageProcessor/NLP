@@ -1,0 +1,1 @@
+{"index": 260526, "D": "proceeding, made, or occurring without definite aim, reason, or pattern", "S": ["accidental ", "aimless ", "arbitrary ", "incidental ", "indiscriminate ", "irregular ", "odd ", "unplanned "], "A": ["essential ", "methodical ", "planned ", "systematic "]}

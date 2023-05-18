@@ -1,0 +1,1 @@
+{"index": 298690, "D": "a telephone or telephone attachment equipped with both loudspeaker and microphone, thus permitting the instrument to be used without being held.", "S": [], "A": []}

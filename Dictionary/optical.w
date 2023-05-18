@@ -1,0 +1,1 @@
+{"index": 213795, "D": "of, relating to, or applying optics  or the principles of optics.", "S": ["visual "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273765, "D": "a stick, wand, staff, or the like, of wood, metal, or other material.", "S": [], "A": []}

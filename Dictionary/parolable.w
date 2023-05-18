@@ -1,0 +1,1 @@
+{"index": 226721, "D": "an official document authorizing such a release.", "S": [], "A": []}

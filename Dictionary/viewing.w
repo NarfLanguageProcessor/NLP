@@ -1,0 +1,1 @@
+{"index": 359582, "D": "an act, ceremony, or occasion of seeing, watching, or inspecting", "S": ["alert ", "awake ", "inspecting ", "looking ", "noticing ", "perceiving ", "regarding ", "surveying ", "witnessing "], "A": ["asleep "]}

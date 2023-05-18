@@ -1,0 +1,1 @@
+{"index": 112716, "D": "a rabbet or groove, as one on a window sash to hold the glass and putty.", "S": [], "A": []}

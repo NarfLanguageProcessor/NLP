@@ -1,0 +1,1 @@
+{"index": 141827, "D": "a graph of a frequency distribution in which rectangles with bases on the horizontal axis are given widths equal to the class intervals and heights equal to the corresponding frequencies.", "S": ["bar graph ", "diagram "], "A": []}

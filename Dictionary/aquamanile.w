@@ -1,0 +1,1 @@
+{"index": 18181, "D": "a medieval ewer, often made in grotesque animal forms.", "S": [], "A": []}

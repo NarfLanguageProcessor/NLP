@@ -1,0 +1,1 @@
+{"index": 107977, "D": "to reason earnestly with someone against something that person intends to do or has done; remonstrate", "S": ["argue ", "dissuade ", "oppose ", "protest ", "remonstrate "], "A": ["agree "]}

@@ -1,0 +1,1 @@
+{"index": 322979, "D": "a protective sheath of rubber, leather, or the like for the thumb. ", "S": [], "A": []}

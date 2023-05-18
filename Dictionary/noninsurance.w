@@ -1,0 +1,1 @@
+{"index": 204783, "D": "the act, system, or business of insuring  property, life, one's person, etc., against loss or harm arising in specified contingencies, as fire, accident, death, disablement, or the like, in consideration of a payment proportionate to the risk involved.", "S": [], "A": []}

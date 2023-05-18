@@ -1,0 +1,1 @@
+{"index": 351082, "D": "to keep away from (a place, person, object, etc.), from motives of dislike, caution, etc.; take pains to avoid.", "S": [], "A": []}

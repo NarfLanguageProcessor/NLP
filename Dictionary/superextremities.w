@@ -1,0 +1,1 @@
+{"index": 311823, "D": "the extreme  or terminal point, limit, or part of something.", "S": [], "A": []}

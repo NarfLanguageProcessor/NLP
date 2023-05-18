@@ -1,0 +1,1 @@
+{"index": 363355, "D": "a device for measuring the wavelength or frequency of a radio wave. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19313, "D": "a sunken area  leading to a cellar or basement entrance, or in front of basement or cellar windows.", "S": [], "A": []}

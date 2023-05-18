@@ -1,0 +1,1 @@
+{"index": 103185, "D": "having or showing equanimity;  even-tempered", "S": [], "A": []}

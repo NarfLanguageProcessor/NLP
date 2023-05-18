@@ -1,0 +1,1 @@
+{"index": 21634, "D": "the slender javelin or spear of the Bantu-speaking people of southern Africa.", "S": ["ammunition ", "bomb ", "cannon ", "firearm ", "gun ", "knife ", "machete ", "machine gun ", "missile ", "nerve gas ", "pistol ", "revolver ", "rifle ", "shotgun ", "sword ", "tear gas "], "A": []}

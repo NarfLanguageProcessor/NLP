@@ -1,0 +1,1 @@
+{"index": 287855, "D": "transparently thin; diaphanous, as some fabrics", "S": ["bow ", "drift ", "incline ", "nod ", "prop ", "recline ", "slant ", "tilt ", "tip ", "twist ", "veer "], "A": ["straighten ", "ascend ", "rise "]}

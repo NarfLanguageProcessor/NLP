@@ -1,0 +1,1 @@
+{"index": 23693, "D": "a solid solution of carbon or of carbon and other elements in gamma iron, having a face-centered cubic lattice at all temperatures.", "S": [], "A": []}

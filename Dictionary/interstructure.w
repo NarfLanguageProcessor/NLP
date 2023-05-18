@@ -1,0 +1,1 @@
+{"index": 156020, "D": "mode of building, construction, or organization; arrangement of parts, elements, or constituents", "S": [], "A": []}

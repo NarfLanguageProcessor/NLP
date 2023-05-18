@@ -1,0 +1,1 @@
+{"index": 146167, "D": "in an icy  manner", "S": ["chill ", "chilliness ", "coldness ", "coolness ", "frigidity ", "frostiness ", "gelidity "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 347521, "D": "not reacting visibly to something that might be expected to produce manifestations of an emotion or feeling.", "S": [], "A": []}

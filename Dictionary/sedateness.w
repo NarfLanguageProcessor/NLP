@@ -1,0 +1,1 @@
+{"index": 282965, "D": "calm, quiet, or composed; undisturbed by passion or excitement", "S": ["acuteness ", "concern ", "consequence ", "exigency ", "graveness ", "hazardousness ", "momentousness ", "perilousness ", "severity ", "significance ", "sobriety ", "solemnity ", "staidness ", "urgency ", "weightiness "], "A": ["insignificance ", "unimportance "]}

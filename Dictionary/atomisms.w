@@ -1,0 +1,1 @@
+{"index": 22754, "D": "the theory that minute, discrete, finite, and indivisible elements are the ultimate constituents of all matter.", "S": [], "A": []}

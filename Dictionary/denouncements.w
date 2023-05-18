@@ -1,0 +1,1 @@
+{"index": 81201, "D": "to condemn or censure openly or publicly", "S": ["denunciation "], "A": []}

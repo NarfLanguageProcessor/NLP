@@ -1,0 +1,1 @@
+{"index": 165676, "D": "a polygonaceous weedy plant, Polygonum aviculare, whose small green flowers produce numerous seeds", "S": [], "A": []}

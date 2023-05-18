@@ -1,0 +1,1 @@
+{"index": 22639, "D": "(used to indicate a point or place occupied in space); in, on, or near", "S": [], "A": []}

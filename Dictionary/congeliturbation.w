@@ -1,0 +1,1 @@
+{"index": 66142, "D": "the churning, heaving, and thrusting of soil material due to the action of frost.", "S": [], "A": []}

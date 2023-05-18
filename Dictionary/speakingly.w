@@ -1,0 +1,1 @@
+{"index": 298697, "D": "the act, utterance, or discourse of a person who speaks. ", "S": [], "A": []}

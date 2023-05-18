@@ -1,0 +1,1 @@
+{"index": 47230, "D": "to take by force or stratagem; take prisoner; seize", "S": ["appropriating ", "assimilating ", "catching ", "clutching ", "earning ", "gaining ", "grasping ", "mastering ", "obtaining ", "pursuing ", "securing ", "seizing ", "snatching ", "taking ", "winning "], "A": ["abandoning ", "giving up ", "losing ", "refusal ", "rejecting "]}

@@ -1,0 +1,1 @@
+{"index": 366681, "D": "to stand or hold out against; resist or oppose, especially successfully", "S": ["borne ", "encountered ", "endured ", "experienced ", "felt ", "known ", "shared ", "supported "], "A": []}

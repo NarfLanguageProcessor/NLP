@@ -1,0 +1,1 @@
+{"index": 229434, "D": "fur skins; pelts collectively.", "S": ["fur ", "leather ", "skin ", "wool "], "A": []}

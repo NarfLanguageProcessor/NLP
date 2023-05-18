@@ -1,0 +1,1 @@
+{"index": 146693, "D": "Indo-European (def. 1). ", "S": ["especially ", "expressly ", "namely "], "A": []}

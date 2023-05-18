@@ -1,0 +1,1 @@
+{"index": 128680, "D": "a serranid fish, Epinephelus cruentatus, inhabiting warm waters of the western Atlantic Ocean, having a reddish-gray body marked with vermilion spots.", "S": [], "A": []}

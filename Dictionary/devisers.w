@@ -1,0 +1,1 @@
+{"index": 83602, "D": "to contrive, plan, or elaborate; invent from existing principles or ideas", "S": ["architect ", "author ", "engineer ", "fashion designer ", "inventor ", "maker ", "planner ", "producer "], "A": []}

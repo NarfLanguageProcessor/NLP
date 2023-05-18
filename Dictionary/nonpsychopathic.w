@@ -1,0 +1,1 @@
+{"index": 206363, "D": "of, relating to, or affected with psychopathy. ", "S": [], "A": []}

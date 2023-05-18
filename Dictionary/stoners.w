@@ -1,0 +1,1 @@
+{"index": 305236, "D": "a person who is habitually high on drugs, especially marijuana, or alcohol; a person who is usually stoned. ", "S": ["burnout ", "dopehead ", "doper ", "druggie ", "hophead ", "pothead "], "A": []}

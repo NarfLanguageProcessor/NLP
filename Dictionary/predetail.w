@@ -1,0 +1,1 @@
+{"index": 246864, "D": "an individual or minute part; an item or particular.", "S": [], "A": []}

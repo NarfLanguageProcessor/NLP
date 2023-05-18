@@ -1,0 +1,1 @@
+{"index": 65056, "D": "to link together; unite in a series or chain.", "S": ["chain ", "connect ", "couple ", "integrate ", "join ", "string "], "A": ["disconnect ", "disjoin ", "divide ", "separate "]}

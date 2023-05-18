@@ -1,0 +1,1 @@
+{"index": 71701, "D": "a conceited, foolish dandy; pretentious fop.", "S": [], "A": []}

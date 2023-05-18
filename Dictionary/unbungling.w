@@ -1,0 +1,1 @@
+{"index": 336308, "D": "to do clumsily and awkwardly; botch", "S": [], "A": []}

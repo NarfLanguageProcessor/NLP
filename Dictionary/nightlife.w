@@ -1,0 +1,1 @@
+{"index": 199952, "D": "the activity of people seeking nighttime diversion, as at a nightclub, theater, or the like.", "S": [], "A": []}

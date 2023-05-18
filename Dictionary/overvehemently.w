@@ -1,0 +1,1 @@
+{"index": 221747, "D": "in a strongly emotional or zealous manner; ardently", "S": [], "A": []}

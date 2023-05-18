@@ -1,0 +1,1 @@
+{"index": 361745, "D": "a bulky woolen fabric woven of coarse yarn and heavily napped, formerly much used in England and Scandinavia for the manufacture of durable winter garments.", "S": [], "A": []}

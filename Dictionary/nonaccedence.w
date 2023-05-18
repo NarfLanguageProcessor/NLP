@@ -1,0 +1,1 @@
+{"index": 201003, "D": "to give consent, approval, or adherence; agree; assent; to accede to a request; to accede to the terms of a contract.", "S": [], "A": []}

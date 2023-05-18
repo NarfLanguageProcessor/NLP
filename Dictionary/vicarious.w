@@ -1,0 +1,1 @@
+{"index": 359356, "D": "performed, exercised, received, or suffered in place of another", "S": ["by proxy ", "commissioned ", "delegated ", "deputed ", "empathetic ", "eventual ", "imagined ", "indirect ", "pretended ", "secondary ", "substituted ", "substitutional ", "surrogate ", "sympathetic "], "A": []}

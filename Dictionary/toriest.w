@@ -1,0 +1,1 @@
+{"index": 326103, "D": [], "S": ["traditional "], "A": ["incautious ", "changeable ", "inconstant ", "unfixed ", "unstable ", "unsteady ", "untrustworthy ", "wavering "]}

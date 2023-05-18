@@ -1,0 +1,1 @@
+{"index": 76625, "D": "to make damp; moisten", "S": ["complainer ", "grouch ", "moaner ", "pessimist ", "whiner "], "A": []}

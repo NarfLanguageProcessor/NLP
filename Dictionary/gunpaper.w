@@ -1,0 +1,1 @@
+{"index": 131410, "D": "a type of paper  treated with nitric acid so that it has a composition similar to that of guncotton.", "S": [], "A": []}

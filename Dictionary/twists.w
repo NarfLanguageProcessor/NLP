@@ -1,0 +1,1 @@
+{"index": 333447, "D": "to combine, as two or more strands or threads, by winding together; intertwine. ", "S": ["curve ", "flourish "], "A": ["line "]}

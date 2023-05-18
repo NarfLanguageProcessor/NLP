@@ -1,0 +1,1 @@
+{"index": 259929, "D": "clothed in tattered garments", "S": ["battered ", "broken ", "dilapidated ", "disorganized ", "fragmented ", "frayed ", "frazzled ", "jagged ", "mean ", "notched ", "patched ", "rent ", "rough ", "serrated ", "shredded ", "torn "], "A": ["complete ", "even ", "fixed ", "nice ", "polite ", "smooth "]}

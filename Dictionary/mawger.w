@@ -1,0 +1,1 @@
+{"index": 181490, "D": "(of persons or animals) thin or lean", "S": [], "A": []}

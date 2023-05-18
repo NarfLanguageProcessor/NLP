@@ -1,0 +1,1 @@
+{"index": 366305, "D": "a small family of North American Indian languages of Penutian stock spoken in northern California and including Wintu  and Patwin.", "S": [], "A": []}

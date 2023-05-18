@@ -1,0 +1,1 @@
+{"index": 209267, "D": "a small lump or piece.", "S": [], "A": []}

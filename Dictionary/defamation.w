@@ -1,0 +1,1 @@
+{"index": 79089, "D": "the act of defaming;  false or unjustified injury of the good reputation of another, as by slander or libel; calumny", "S": ["denigration ", "disparagement "], "A": ["compliment ", "flattery ", "praise "]}

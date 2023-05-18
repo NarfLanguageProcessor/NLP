@@ -1,0 +1,1 @@
+{"index": 321064, "D": "religious emotion excited by the contemplation of God.", "S": [], "A": []}

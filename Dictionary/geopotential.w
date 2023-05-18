@@ -1,0 +1,1 @@
+{"index": 124026, "D": "the difference between the potential energy  of a mass at a given altitude and the potential energy  of an identical mass at sea level, equivalent to the energy required to move the mass from sea level to the given altitude.", "S": [], "A": []}

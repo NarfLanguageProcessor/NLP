@@ -1,0 +1,1 @@
+{"index": 252522, "D": "a person or thing that propagates", "S": ["gardener ", "green fingers ", "grower ", "horticulturist "], "A": []}

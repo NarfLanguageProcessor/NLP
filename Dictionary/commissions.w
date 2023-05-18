@@ -1,0 +1,1 @@
+{"index": 64094, "D": "the act of committing  or entrusting a person, group, etc., with supervisory power or authority.", "S": ["agency ", "authority ", "delegation ", "office "], "A": []}

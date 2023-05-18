@@ -1,0 +1,1 @@
+{"index": 132976, "D": "(especially formerly) the non-Semitic branches of the Afroasiatic language family.", "S": [], "A": []}

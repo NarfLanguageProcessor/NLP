@@ -1,0 +1,1 @@
+{"index": 298027, "D": "a cardinal point of the compass lying directly opposite north. Abbreviation", "S": [], "A": []}

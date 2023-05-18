@@ -1,0 +1,1 @@
+{"index": 71247, "D": "a particular section of a country,  especially a rural section.", "S": ["environment ", "land ", "landscape ", "scenery ", "surroundings ", "terrain "], "A": ["sky "]}

@@ -1,0 +1,1 @@
+{"index": 247670, "D": "a student in the first year of the course at a university, college, or high school.", "S": [], "A": []}

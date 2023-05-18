@@ -1,0 +1,1 @@
+{"index": 128362, "D": "pertaining to or of the nature of gout. ", "S": [], "A": []}

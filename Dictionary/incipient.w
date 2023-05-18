@@ -1,0 +1,1 @@
+{"index": 149867, "D": "beginning to exist or appear; in an initial stage", "S": ["embryonic ", "nascent "], "A": ["developed ", "grown ", "mature "]}

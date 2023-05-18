@@ -1,0 +1,1 @@
+{"index": 75877, "D": "a vertical timber construction set forward of and following the stem of a wooden vessel below the water line,  usually curving forward above the water line  to support a beak-head or figurehead.", "S": ["drift ", "navigate ", "slop ", "splash ", "wade "], "A": ["discourage "]}

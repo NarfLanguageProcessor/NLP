@@ -1,0 +1,1 @@
+{"index": 131756, "D": "clothes as worn in a particular profession, way of life, etc.", "S": ["apparel ", "attire ", "clothes ", "dress ", "garb ", "gown ", "trappings "], "A": []}

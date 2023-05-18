@@ -1,0 +1,1 @@
+{"index": 17756, "D": "appealing to or stimulating the appetite; savory.", "S": [], "A": []}

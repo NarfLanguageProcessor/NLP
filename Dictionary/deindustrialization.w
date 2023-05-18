@@ -1,0 +1,1 @@
+{"index": 79810, "D": "the decline in importance of manufacturing industry in the economy of a nation or area", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 79982, "D": "to revoke the statutory authorization of.", "S": [], "A": []}

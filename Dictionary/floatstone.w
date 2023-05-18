@@ -1,0 +1,1 @@
+{"index": 114822, "D": "a stone  for rubbing bricks to be gauged.", "S": [], "A": []}

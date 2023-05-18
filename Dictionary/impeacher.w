@@ -1,0 +1,1 @@
+{"index": 148378, "D": "to accuse (a public official) before an appropriate tribunal of misconduct in office.", "S": [], "A": []}

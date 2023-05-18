@@ -1,0 +1,1 @@
+{"index": 111970, "D": "to break or crack into fibers. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367911, "D": "the act, work, or business of a wrecker. ", "S": ["bashing ", "battering ", "breaking ", "ruining ", "shattering ", "smashing ", "splitting "], "A": []}

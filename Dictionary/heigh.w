@@ -1,0 +1,1 @@
+{"index": 135358, "D": "(an exclamation used to call attention, give encouragement, etc.)", "S": [], "A": []}

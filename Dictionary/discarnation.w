@@ -1,0 +1,1 @@
+{"index": 87255, "D": "without a physical body; incorporeal.", "S": [], "A": []}

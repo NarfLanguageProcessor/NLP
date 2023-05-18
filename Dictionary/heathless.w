@@ -1,0 +1,1 @@
+{"index": 134967, "D": "a tract of open and uncultivated land; wasteland overgrown with shrubs.", "S": [], "A": []}

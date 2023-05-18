@@ -1,0 +1,1 @@
+{"index": 319524, "D": "a vivarium for land animals (distinguished from aquarium).", "S": [], "A": []}

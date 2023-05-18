@@ -1,0 +1,1 @@
+{"index": 37541, "D": "any mushroomlike fungus of the genus Boletus, having an easily separable layer of tubes on the underside of the cap or pileus.", "S": [], "A": []}

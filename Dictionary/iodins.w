@@ -1,0 +1,1 @@
+{"index": 157470, "D": "a nonmetallic halogen element occurring at ordinary temperatures as a grayish-black crystalline solid that sublimes to a dense violet vapor when heated", "S": [], "A": []}

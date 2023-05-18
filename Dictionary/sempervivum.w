@@ -1,0 +1,1 @@
+{"index": 285177, "D": "any of various succulent plants belonging to the genus Sempervivum, of the stonecrop family, having leaves in dense basal rosettes and a compact, flat-topped cluster of flowers, and including the houseleek, S. tectorum, and other commonly cultivated species.", "S": [], "A": []}

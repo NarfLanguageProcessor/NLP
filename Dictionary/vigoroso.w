@@ -1,0 +1,1 @@
+{"index": 359641, "D": "(a musical direction) vigorous or spirited in manner.", "S": [], "A": []}

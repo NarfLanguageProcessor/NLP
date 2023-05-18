@@ -1,0 +1,1 @@
+{"index": 133975, "D": "an agricultural implement with spikelike teeth or upright disks, drawn chiefly over plowed land to level it, break up clods, root up weeds, etc.", "S": [], "A": []}

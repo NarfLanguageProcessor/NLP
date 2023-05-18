@@ -1,0 +1,1 @@
+{"index": 267356, "D": "a remission. ", "S": ["allowance ", "benefit ", "bonus ", "coverage ", "earnings ", "fee ", "indemnity ", "pay ", "payment ", "payoff ", "premium ", "profit ", "redress ", "reimbursement ", "remittance ", "remuneration ", "reparation ", "restitution ", "reward ", "salary ", "settlement ", "stipend ", "wage "], "A": ["debt ", "hurt ", "loss ", "penalty "]}

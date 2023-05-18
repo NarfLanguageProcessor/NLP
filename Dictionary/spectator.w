@@ -1,0 +1,1 @@
+{"index": 298862, "D": "a person who looks on or watches; onlooker; observer.", "S": ["bystander ", "fan ", "moviegoer ", "observer ", "onlooker ", "sports fan ", "theatergoer ", "viewer "], "A": ["participant "]}

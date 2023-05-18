@@ -1,0 +1,1 @@
+{"index": 102328, "D": "noting or pertaining to a discriminating responsiveness to small variations in pain or temperature stimuli (opposed to protopathic).", "S": [], "A": []}

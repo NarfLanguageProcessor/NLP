@@ -1,0 +1,1 @@
+{"index": 79234, "D": "marked by or showing deference", "S": [], "A": []}

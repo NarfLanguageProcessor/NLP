@@ -1,0 +1,1 @@
+{"index": 342464, "D": "to bring out of a folded state; spread or open out", "S": ["flowering "], "A": ["decline ", "decrease ", "diminishment ", "failure ", "halt ", "lessening ", "loss ", "reduction ", "retreat ", "retrogression ", "shrinkage ", "stagnation ", "stop ", "stoppage ", "subtraction ", "withdrawal "]}

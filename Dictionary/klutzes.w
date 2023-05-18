@@ -1,0 +1,1 @@
+{"index": 165391, "D": "a clumsy, awkward person.", "S": ["bungler ", "butterfingers ", "dolt ", "dullard ", "lummox ", "oaf "], "A": []}

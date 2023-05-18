@@ -1,0 +1,1 @@
+{"index": 285626, "D": "(in Scotland) a branch of a clan.", "S": [], "A": []}

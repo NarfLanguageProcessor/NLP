@@ -1,0 +1,1 @@
+{"index": 161562, "D": "a familiar term of address for a man or boy.", "S": ["head ", "john ", "latrine ", "lavatory ", "outhouse ", "pot ", "potty ", "privy ", "restroom ", "sandbox ", "throne ", "washroom "], "A": []}

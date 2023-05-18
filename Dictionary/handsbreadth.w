@@ -1,0 +1,1 @@
+{"index": 133260, "D": "a unit of linear measure from 2\u00bd to 4 inches (6.4 to 10 centimeters).", "S": [], "A": []}

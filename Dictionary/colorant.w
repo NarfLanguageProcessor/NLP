@@ -1,0 +1,1 @@
+{"index": 63314, "D": "something used as a coloring matter; pigment; dye.", "S": ["glow ", "hue ", "intensity ", "paint "], "A": ["black ", "white "]}

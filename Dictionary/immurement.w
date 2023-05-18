@@ -1,0 +1,1 @@
+{"index": 148185, "D": "to enclose within walls.", "S": ["arrest ", "custody ", "delay ", "incarceration ", "internment ", "quarantine "], "A": ["aid ", "assistance ", "help "]}

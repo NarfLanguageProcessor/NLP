@@ -1,0 +1,1 @@
+{"index": 83159, "D": "a determining  agent or factor.", "S": ["compelling ", "convincing ", "decisive ", "indisputable ", "irrefutable ", "irrevocable ", "precise ", "unambiguous ", "undeniable ", "unmistakable "], "A": ["ambiguous ", "disputable ", "doubtful ", "dubious ", "indefinite ", "questionable ", "refutable ", "uncertain ", "unsure "]}

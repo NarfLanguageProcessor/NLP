@@ -1,0 +1,1 @@
+{"index": 114542, "D": "to deposit eggs or larvae on (meat or other food).", "S": [], "A": []}

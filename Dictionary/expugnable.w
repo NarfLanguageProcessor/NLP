@@ -1,0 +1,1 @@
+{"index": 108054, "D": "able to be overcome, conquered, defeated, etc.", "S": [], "A": []}

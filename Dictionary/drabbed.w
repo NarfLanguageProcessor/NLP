@@ -1,0 +1,1 @@
+{"index": 92428, "D": "dull; cheerless; lacking in spirit, brightness, etc.", "S": [], "A": []}

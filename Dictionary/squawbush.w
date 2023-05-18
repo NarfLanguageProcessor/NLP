@@ -1,0 +1,1 @@
+{"index": 301815, "D": "a rank-smelling, sprawling shrub, Rhus trilobata malacophylla, of the cashew family, native to California, having spikes of greenish flowers.", "S": [], "A": []}

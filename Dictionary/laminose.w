@@ -1,0 +1,1 @@
+{"index": 167734, "D": "laminate; laminar.", "S": [], "A": []}

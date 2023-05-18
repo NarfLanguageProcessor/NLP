@@ -1,0 +1,1 @@
+{"index": 231729, "D": "to speak at length; make a long, usually grandiloquent speech.", "S": [], "A": []}

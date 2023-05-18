@@ -1,0 +1,1 @@
+{"index": 171378, "D": "liabilities as detailed on a balance sheet, especially in relation to assets and capital.", "S": ["accountability ", "burden ", "culpability ", "debt ", "duty ", "obligation "], "A": ["asset ", "irresponsibility "]}

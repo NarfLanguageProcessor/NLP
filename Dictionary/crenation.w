@@ -1,0 +1,1 @@
+{"index": 72623, "D": "a rounded projection or tooth, as on the margin of a leaf.", "S": [], "A": []}

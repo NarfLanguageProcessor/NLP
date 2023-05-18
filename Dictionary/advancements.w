@@ -1,0 +1,1 @@
+{"index": 4565, "D": "the act or process of moving forward", "S": ["advance ", "growth ", "improvement ", "upgrading "], "A": ["decrease ", "failure ", "stagnation ", "worsening "]}

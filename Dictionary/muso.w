@@ -1,0 +1,1 @@
+{"index": 196098, "D": "a musician, esp a pop musician, regarded as being overconcerned with technique rather than musical content or expression", "S": [], "A": []}

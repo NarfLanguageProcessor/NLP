@@ -1,0 +1,1 @@
+{"index": 177766, "D": "the first day of May, long celebrated with various festivities, as the crowning of the May queen, dancing around the Maypole, and, in recent years, often marked by labor parades and political demonstrations.", "S": ["alarm ", "beacon ", "cue ", "gesture ", "indicator ", "sign "], "A": ["denial ", "refusal ", "veto "]}

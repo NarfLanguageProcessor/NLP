@@ -1,0 +1,1 @@
+{"index": 120869, "D": "a person who invents or is particularly fond of using gadgets. ", "S": [], "A": []}

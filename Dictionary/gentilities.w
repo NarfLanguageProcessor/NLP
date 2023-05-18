@@ -1,0 +1,1 @@
+{"index": 123709, "D": "good breeding or refinement.", "S": ["aristocracy ", "civility ", "decorum ", "elegance ", "politeness ", "propriety ", "respectability "], "A": ["bad manners ", "impoliteness ", "rudeness "]}

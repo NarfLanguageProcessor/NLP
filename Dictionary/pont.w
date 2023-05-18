@@ -1,0 +1,1 @@
+{"index": 243047, "D": "(in South Africa) a river ferry, esp one that is guided by a cable from one bank to the other", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343354, "D": "a reward, recompense, or requital.", "S": [], "A": []}

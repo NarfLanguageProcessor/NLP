@@ -1,0 +1,1 @@
+{"index": 87745, "D": "an act or instance of discriminating,  or of making a distinction.", "S": ["bigotry ", "favoritism ", "hatred ", "inequity ", "injustice ", "intolerance ", "prejudice ", "unfairness "], "A": ["equity ", "fairness ", "impartiality ", "justice ", "tolerance "]}

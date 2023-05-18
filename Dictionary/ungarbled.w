@@ -1,0 +1,1 @@
+{"index": 342912, "D": "to confuse unintentionally or ignorantly; jumble", "S": [], "A": []}

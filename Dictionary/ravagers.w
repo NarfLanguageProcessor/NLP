@@ -1,0 +1,1 @@
+{"index": 261231, "D": "a person or thing that works havoc or does ruinous damage", "S": ["criminal ", "gangster ", "hooligan ", "marauder ", "mobster ", "outlaw ", "pirate ", "raider ", "robber "], "A": ["lawman ", "policeman "]}

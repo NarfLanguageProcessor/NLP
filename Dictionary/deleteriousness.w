@@ -1,0 +1,1 @@
+{"index": 80013, "D": "injurious to health", "S": ["abuse ", "damage ", "disservice ", "impairment ", "loss ", "mischief ", "misuse ", "sabotage ", "vandalism ", "violence ", "wrong "], "A": ["favor ", "help ", "kindness ", "benefit ", "goodness ", "happiness ", "profit ", "virtue "]}

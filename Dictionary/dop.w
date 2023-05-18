@@ -1,0 +1,1 @@
+{"index": 91594, "D": "a tool for holding gemstones for cutting or polishing.", "S": [], "A": []}

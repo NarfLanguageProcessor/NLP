@@ -1,0 +1,1 @@
+{"index": 57970, "D": "the Compasses, a small southern constellation between Triangulum and Centaurus.", "S": [], "A": []}

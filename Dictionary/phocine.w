@@ -1,0 +1,1 @@
+{"index": 234577, "D": "of or relating to seals.", "S": [], "A": []}

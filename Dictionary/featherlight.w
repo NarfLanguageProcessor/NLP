@@ -1,0 +1,1 @@
+{"index": 110674, "D": "extremely light; light  as a feather. ", "S": [], "A": []}

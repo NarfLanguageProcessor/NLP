@@ -1,0 +1,1 @@
+{"index": 60949, "D": "(in a scarf joint) a tenon in one member fitting into a corresponding recess of the other.", "S": [], "A": []}

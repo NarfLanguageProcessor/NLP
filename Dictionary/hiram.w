@@ -1,0 +1,1 @@
+{"index": 141586, "D": "a king of Tyre in the 10th century b.c. 1 Kings 5.", "S": [], "A": []}

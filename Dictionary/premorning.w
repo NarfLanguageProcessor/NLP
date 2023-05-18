@@ -1,0 +1,1 @@
+{"index": 248479, "D": "the first part or period of the day, extending from dawn, or from midnight, to noon.", "S": [], "A": []}

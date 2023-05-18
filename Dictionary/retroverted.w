@@ -1,0 +1,1 @@
+{"index": 270933, "D": "a looking or turning back.", "S": [], "A": []}

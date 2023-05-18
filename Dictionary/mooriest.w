@@ -1,0 +1,1 @@
+{"index": 193149, "D": "a tract of open, peaty, wasteland, often overgrown with heath, common in high latitudes and altitudes where drainage is poor; heath.", "S": ["soggy "], "A": []}

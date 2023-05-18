@@ -1,0 +1,1 @@
+{"index": 123280, "D": "the dried rhizome and root of yellow jasmine, formerly used as a sedative in the form of a powder, tincture, or fluid extract.", "S": [], "A": []}

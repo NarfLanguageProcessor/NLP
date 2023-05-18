@@ -1,0 +1,1 @@
+{"index": 195198, "D": "the quality or state of being modal. ", "S": [], "A": []}

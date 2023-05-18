@@ -1,0 +1,1 @@
+{"index": 319436, "D": "consisting of three; arranged in threes.", "S": ["ternary ", "third ", "treble ", "trilateral ", "trinitarian ", "triple "], "A": []}

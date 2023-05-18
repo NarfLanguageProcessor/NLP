@@ -1,0 +1,1 @@
+{"index": 92700, "D": "to cover or hang with cloth or other fabric, especially in graceful folds; adorn with drapery. ", "S": [], "A": []}

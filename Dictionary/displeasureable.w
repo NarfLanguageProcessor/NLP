@@ -1,0 +1,1 @@
+{"index": 89078, "D": "dissatisfaction, disapproval, or annoyance.", "S": [], "A": []}

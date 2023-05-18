@@ -1,0 +1,1 @@
+{"index": 171537, "D": "relating to the libido,  all of the instinctual energies and desires derived from the id,  an unconscious part of the psyche", "S": [], "A": []}

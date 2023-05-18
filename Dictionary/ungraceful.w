@@ -1,0 +1,1 @@
+{"index": 343199, "D": "lacking charm or elegance; awkward.", "S": ["awkward ", "clumsy ", "coarse ", "gawky ", "inelegant ", "lumbering ", "rusty ", "uncourtly ", "uncouth ", "ungainly ", "vulgar ", "wooden "], "A": ["graceful "]}

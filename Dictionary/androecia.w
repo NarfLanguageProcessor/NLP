@@ -1,0 +1,1 @@
+{"index": 12384, "D": "the stamens of a flower collectively.", "S": [], "A": []}

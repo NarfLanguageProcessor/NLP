@@ -1,0 +1,1 @@
+{"index": 58045, "D": "any of the concentric circles on each scale of a fish, each of which indicates the annual growth of that scale.", "S": [], "A": []}

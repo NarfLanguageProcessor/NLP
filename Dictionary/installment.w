@@ -1,0 +1,1 @@
+{"index": 153835, "D": "any of several parts into which a debt or other sum payable is divided for payment at successive fixed times; the scheduled periodic payment made on an installment loan", "S": ["chapter ", "episode ", "payment ", "portion ", "repayment "], "A": ["whole "]}

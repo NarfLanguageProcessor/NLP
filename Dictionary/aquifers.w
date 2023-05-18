@@ -1,0 +1,1 @@
+{"index": 18257, "D": "any geological formation containing or conducting groundwater, especially one that supplies the water for wells, springs, etc.", "S": ["water level "], "A": []}

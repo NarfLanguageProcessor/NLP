@@ -1,0 +1,1 @@
+{"index": 222030, "D": "to be under obligation to pay or repay", "S": ["overdue ", "payable ", "unpaid ", "unsettled "], "A": ["paid ", "settled "]}

@@ -1,0 +1,1 @@
+{"index": 225013, "D": "a person who acts in pantomime. ", "S": ["artist ", "character ", "clown ", "comedian ", "entertainer ", "performer ", "player ", "star ", "villain "], "A": ["audience ", "fan "]}

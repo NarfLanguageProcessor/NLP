@@ -1,0 +1,1 @@
+{"index": 306157, "D": "the close overlapping of statements of the subject in a fugue, each voice entering immediately after the preceding one.", "S": [], "A": []}

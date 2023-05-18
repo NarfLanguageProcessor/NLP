@@ -1,0 +1,1 @@
+{"index": 368251, "D": "a condition in certain animals, esp aquarium goldfish, in which all skin pigments other than yellow and orange disappear", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133488, "D": "the haploid individual in a life cycle that has a diploid and a haploid phase.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 33148, "D": "a round, flat, leavened, soft roll made of white flour, having a crusty bottom and a depression at the center that is typically filled with an onion and poppy seed mixture.", "S": [], "A": []}

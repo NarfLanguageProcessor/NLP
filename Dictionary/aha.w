@@ -1,0 +1,1 @@
+{"index": 6620, "D": "(used as an exclamation of triumphant discovery, mockery, contempt, irony, surprise, etc., according to the manner of utterance.)", "S": ["apprehension ", "awareness "], "A": ["ignorance ", "inability "]}

@@ -1,0 +1,1 @@
+{"index": 180309, "D": "(in the British Isles) the dignity, rank, or position of a marquess; marquisate", "S": [], "A": []}

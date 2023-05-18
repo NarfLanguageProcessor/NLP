@@ -1,0 +1,1 @@
+{"index": 106472, "D": "one of a number of things, or a part of something, taken to show the character of the whole", "S": ["case ", "illustration ", "lesson ", "object ", "part ", "pattern ", "precedent ", "symbol "], "A": []}

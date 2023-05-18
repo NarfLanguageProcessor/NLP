@@ -1,0 +1,1 @@
+{"index": 95051, "D": "a device used to determine the boiling point of a solution", "S": [], "A": []}

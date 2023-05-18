@@ -1,0 +1,1 @@
+{"index": 340814, "D": "coverings, hangings, clothing, etc., of fabric, especially as arranged in loose, graceful folds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 119670, "D": "to make (plans, efforts, etc.) worthless or of no avail; defeat; nullify", "S": ["opposing "], "A": ["unwary ", "unwatchful "]}

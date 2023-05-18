@@ -1,0 +1,1 @@
+{"index": 177461, "D": "molten material beneath or within the earth's crust, from which igneous rock is formed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129069, "D": "the study of writing systems and of their relation to speech.", "S": [], "A": []}

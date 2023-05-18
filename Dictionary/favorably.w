@@ -1,0 +1,1 @@
+{"index": 110501, "D": "characterized by approval or support; positive", "S": ["approvingly ", "cordially ", "enthusiastically ", "fairly ", "generously ", "positively "], "A": ["unfavorably ", "unfriendly "]}

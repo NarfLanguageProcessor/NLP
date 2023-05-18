@@ -1,0 +1,1 @@
+{"index": 127714, "D": "(in Shakespeare's King Lear) the elder of Lear's two faithless daughters.", "S": [], "A": []}

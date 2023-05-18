@@ -1,0 +1,1 @@
+{"index": 177719, "D": "any of various evergreen shrubs belonging to the genus Mahonia, of the barberry family, including the Oregon grape.", "S": [], "A": []}

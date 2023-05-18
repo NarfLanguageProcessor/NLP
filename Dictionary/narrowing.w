@@ -1,0 +1,1 @@
+{"index": 197063, "D": "of little breadth or width; not broad or wide; not as wide as usual or expected", "S": ["contraction "], "A": ["broadening ", "enlargement ", "opening "]}

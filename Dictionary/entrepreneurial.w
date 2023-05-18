@@ -1,0 +1,1 @@
+{"index": 101692, "D": "of or relating to a business or endeavor, especially one that involves considerable individual initiative and risk", "S": ["ambitious ", "enterprising ", "go-getting ", "gumptious ", "pioneering ", "up-and-coming "], "A": ["denied ", "vetoed "]}

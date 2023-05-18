@@ -1,0 +1,1 @@
+{"index": 236967, "D": "of, relating to, or in the style of Pindar.", "S": [], "A": []}

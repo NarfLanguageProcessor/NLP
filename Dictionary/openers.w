@@ -1,0 +1,1 @@
+{"index": 213234, "D": "a person or thing that opens. ", "S": ["birth ", "creation ", "dawn ", "inauguration ", "inception ", "introduction ", "onset ", "opening ", "outset ", "starting point ", "top "], "A": ["conclusion ", "death ", "end ", "ending ", "finish ", "close ", "completion ", "effect ", "epilogue ", "finale ", "result ", "termination "]}

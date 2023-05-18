@@ -1,0 +1,1 @@
+{"index": 237525, "D": "to affect with sharp irritation and resentment, especially by some wound to pride", "S": ["annoyance ", "displeasure ", "exasperation ", "irritation "], "A": ["contentment ", "delight ", "gratification ", "happiness ", "pleasure ", "satisfaction ", "calm "]}

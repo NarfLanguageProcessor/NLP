@@ -1,0 +1,1 @@
+{"index": 137708, "D": "having different kinds of leaves on the same plant.", "S": [], "A": []}

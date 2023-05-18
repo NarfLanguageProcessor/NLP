@@ -1,0 +1,1 @@
+{"index": 351978, "D": "one of the thin, narrow, shaped pieces of wood that form the sides of a cask, tub, or similar vessel.", "S": [], "A": []}

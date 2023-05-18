@@ -1,0 +1,1 @@
+{"index": 196290, "D": "revolt or rebellion against constituted authority, especially by sailors against their officers.", "S": ["insurrection ", "revolt ", "revolution ", "riot ", "uprising "], "A": ["calm ", "peace "]}

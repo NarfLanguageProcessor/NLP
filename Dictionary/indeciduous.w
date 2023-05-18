@@ -1,0 +1,1 @@
+{"index": 150678, "D": "not deciduous,  as leaves.", "S": [], "A": []}

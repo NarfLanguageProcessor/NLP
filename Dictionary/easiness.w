@@ -1,0 +1,1 @@
+{"index": 94910, "D": "the quality or condition of being easy. ", "S": ["ability ", "ease ", "facility ", "indifference ", "nonchalance "], "A": ["difficulty "]}

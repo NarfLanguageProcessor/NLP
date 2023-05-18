@@ -1,0 +1,1 @@
+{"index": 313653, "D": "a watch kept over a person, group, etc., especially over a suspect, prisoner, or the like", "S": ["care ", "control ", "examination ", "inspection ", "scrutiny ", "supervision ", "vigilance ", "wiretap "], "A": ["carelessness ", "ignorance ", "neglect ", "negligence "]}

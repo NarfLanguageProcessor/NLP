@@ -1,0 +1,1 @@
+{"index": 192856, "D": "one of a breed of white-faced, hornless sheep developed in the U.S. by crossing Cheviot rams and Columbia ewes, noted for their meat and heavy fleece.", "S": [], "A": []}

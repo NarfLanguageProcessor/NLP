@@ -1,0 +1,1 @@
+{"index": 302187, "D": "accommodation for horses or other draft or farm animals in a stable. ", "S": [], "A": []}

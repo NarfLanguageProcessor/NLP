@@ -1,0 +1,1 @@
+{"index": 239616, "D": "pleasing,  agreeable, or enjoyable; giving pleasure", "S": ["charmingly ", "cheerfully ", "happily "], "A": []}

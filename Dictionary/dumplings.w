@@ -1,0 +1,1 @@
+{"index": 94112, "D": "a rounded mass of steamed and seasoned dough, often served in soup or with stewed meat.", "S": ["babe ", "chick ", "child ", "kid ", "toddler ", "youngster "], "A": ["adult "]}

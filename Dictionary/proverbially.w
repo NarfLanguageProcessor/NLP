@@ -1,0 +1,1 @@
+{"index": 254043, "D": "of, relating to, or characteristic of a proverb", "S": [], "A": []}

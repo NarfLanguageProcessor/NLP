@@ -1,0 +1,1 @@
+{"index": 170949, "D": "of or relating to the Letts or their language.", "S": [], "A": []}

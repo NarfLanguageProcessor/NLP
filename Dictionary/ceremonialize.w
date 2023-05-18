@@ -1,0 +1,1 @@
+{"index": 51457, "D": [], "S": ["honor ", "laud ", "observe ", "perform ", "praise ", "proclaim ", "revere "], "A": ["blame ", "denounce ", "reproach ", "be sad ", "castigate ", "condemn ", "criticize ", "debase ", "deny ", "disapprove ", "humiliate ", "refuse "]}

@@ -1,0 +1,1 @@
+{"index": 83191, "D": "the act of deterring,  especially deterring a nuclear attack by the capacity or threat of retaliating.", "S": ["determent ", "disincentive ", "dissuasion ", "obviation ", "preclusion ", "preemption "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314311, "D": "a shrub or small tree, Symplocos tinctoria, of the eastern coast of the U.S., having lance-shaped leaves,  yellowish, fragrant flowers, and orange or brown fruit.", "S": [], "A": []}

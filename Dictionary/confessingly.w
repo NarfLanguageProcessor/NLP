@@ -1,0 +1,1 @@
+{"index": 65855, "D": "to acknowledge or avow (a fault, crime, misdeed, weakness, etc.) by way of revelation.", "S": [], "A": []}

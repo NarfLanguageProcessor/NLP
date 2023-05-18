@@ -1,0 +1,1 @@
+{"index": 15625, "D": "a brittle, lustrous, white metallic element occurring in nature free or combined, used chiefly in alloys and in compounds in medicine. Symbol", "S": [], "A": []}

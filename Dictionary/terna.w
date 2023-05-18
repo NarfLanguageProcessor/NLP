@@ -1,0 +1,1 @@
+{"index": 319429, "D": "a list of three names submitted to the pope as recommended to fill a vacant bishopric or benefice.", "S": [], "A": []}

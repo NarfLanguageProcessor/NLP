@@ -1,0 +1,1 @@
+{"index": 14297, "D": "an earlier form; prototype.", "S": [], "A": []}

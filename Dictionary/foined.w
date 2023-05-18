@@ -1,0 +1,1 @@
+{"index": 115821, "D": "a thrust with a weapon.", "S": [], "A": []}

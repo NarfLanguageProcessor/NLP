@@ -1,0 +1,1 @@
+{"index": 170995, "D": "a whitish or grayish mineral, potassium aluminum silicate, KAlSi2O6, found in alkali volcanic rocks.", "S": [], "A": []}

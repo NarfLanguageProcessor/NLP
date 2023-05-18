@@ -1,0 +1,1 @@
+{"index": 227030, "D": "to form (a word) into a participle; makeparticipial. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69036, "D": "any composite plant of the genus Coreopsis, including familiar garden species having yellow, brownish, or yellow-and-red ray flowers.", "S": [], "A": []}

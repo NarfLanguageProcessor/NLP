@@ -1,0 +1,1 @@
+{"index": 330635, "D": "full of sadness; sorrowful.", "S": [], "A": []}

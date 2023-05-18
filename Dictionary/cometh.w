@@ -1,0 +1,1 @@
+{"index": 63770, "D": "3rd person singular present indicative of come. ", "S": [], "A": []}

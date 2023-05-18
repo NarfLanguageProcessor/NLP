@@ -1,0 +1,1 @@
+{"index": 80442, "D": "a mark against a person for misconduct or deficiency", "S": ["guilty ", "impeachable ", "liable ", "reprehensible ", "responsible "], "A": ["immune ", "irresponsible "]}

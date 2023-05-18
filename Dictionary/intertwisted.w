@@ -1,0 +1,1 @@
+{"index": 156116, "D": "to twist  together", "S": ["convolute ", "entwine ", "interlace ", "interweave ", "mesh ", "tangle ", "weave "], "A": ["untangle ", "untwist ", "disconnect ", "dissociate ", "divide ", "part ", "separate "]}

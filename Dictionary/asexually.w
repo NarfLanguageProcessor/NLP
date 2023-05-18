@@ -1,0 +1,1 @@
+{"index": 21110, "D": "independent of sexual processes, especially not involving the union of male and female germ cells", "S": [], "A": []}

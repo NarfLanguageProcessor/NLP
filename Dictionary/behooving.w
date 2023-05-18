@@ -1,0 +1,1 @@
+{"index": 30845, "D": "to be necessary or proper for, as for moral or ethical considerations; be incumbent on", "S": ["befit ", "beseem ", "suit "], "A": []}

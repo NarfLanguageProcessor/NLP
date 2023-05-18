@@ -1,0 +1,1 @@
+{"index": 352476, "D": "not certain or confident", "S": ["distrustful ", "dubious ", "hesitant ", "indecisive ", "mistrustful ", "shaky ", "skeptical ", "suspicious ", "uncertain ", "unclear ", "unconvinced ", "undecided "], "A": ["believing ", "certain ", "clear ", "definite ", "determined ", "sure ", "trustworthy ", "trusty ", "undoubted ", "unwavering "]}

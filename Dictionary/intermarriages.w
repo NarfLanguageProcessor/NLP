@@ -1,0 +1,1 @@
+{"index": 155283, "D": "marriage between people of different religions, tribes, castes, ethnicities, or racial groups, as between a white person and a Black person or between a Christian and a Muslim.", "S": ["interfaith marriage ", "miscegenation "], "A": []}

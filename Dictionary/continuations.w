@@ -1,0 +1,1 @@
+{"index": 67481, "D": "the act or state of continuing; the state of being continued.", "S": ["continuance ", "continuity ", "extension ", "perpetuation ", "preservation "], "A": ["stoppage "]}

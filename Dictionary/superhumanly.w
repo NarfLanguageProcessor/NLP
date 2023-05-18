@@ -1,0 +1,1 @@
+{"index": 311990, "D": "above or beyond what is human; having a higher nature or greater powers than humans have", "S": [], "A": []}

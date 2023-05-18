@@ -1,0 +1,1 @@
+{"index": 311960, "D": "warm-hearted; affectionate; cordial; jovial", "S": [], "A": []}

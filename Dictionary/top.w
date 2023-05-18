@@ -1,0 +1,1 @@
+{"index": 325807, "D": "the highest or loftiest point or part of anything; apex; summit. ", "S": ["dominant ", "elite ", "excellent ", "finest ", "leading ", "preeminent ", "primary ", "principal "], "A": ["inferior ", "poor ", "secondary ", "subordinate ", "unimportant ", "below ", "least ", "lower ", "minor ", "submissive "]}

@@ -1,0 +1,1 @@
+{"index": 223954, "D": "one of several persons who carry or attend the coffin at a funeral.", "S": ["griever ", "sorrower ", "wailer ", "weeper "], "A": []}

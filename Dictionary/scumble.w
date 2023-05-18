@@ -1,0 +1,1 @@
+{"index": 282220, "D": "to soften (the color or tone of a painted area) by overlaying parts with opaque or semiopaque color applied thinly and lightly with an almost dry brush.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21381, "D": "any of various poplars, as Populus tremula, of Europe, and P. tremuloides(quaking aspen ) or P. alba(white aspen ), of America, having soft wood and alternate ovate leaves that tremble in the slightest breeze.", "S": [], "A": []}

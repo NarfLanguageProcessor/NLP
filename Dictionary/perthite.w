@@ -1,0 +1,1 @@
+{"index": 232090, "D": "a variety of feldspar containing irregular bands of albite in microcline.", "S": [], "A": []}

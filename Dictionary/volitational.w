@@ -1,0 +1,1 @@
+{"index": 361123, "D": "the act or power of flying.", "S": [], "A": []}

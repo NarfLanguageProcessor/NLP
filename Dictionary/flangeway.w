@@ -1,0 +1,1 @@
+{"index": 113935, "D": "an opening, parallel to a rail, made through platforms, pavements, track structures, etc., to permit passage of wheel flanges. ", "S": [], "A": []}

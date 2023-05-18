@@ -1,0 +1,1 @@
+{"index": 310208, "D": "the act or process of covering something with sugar. ", "S": ["alleviate ", "mollify ", "pacify ", "soothe "], "A": ["agitate ", "incite ", "upset ", "worry "]}

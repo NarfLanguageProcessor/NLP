@@ -1,0 +1,1 @@
+{"index": 8406, "D": "(of igneous rock) containing a relatively high percentage of sodium and potassium alkali. ", "S": [], "A": []}

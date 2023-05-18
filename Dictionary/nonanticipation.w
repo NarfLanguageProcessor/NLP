@@ -1,0 +1,1 @@
+{"index": 201343, "D": "the act of anticipating  or the state of being anticipated. ", "S": [], "A": []}

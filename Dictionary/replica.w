@@ -1,0 +1,1 @@
+{"index": 268304, "D": "a copy or reproduction of a work of art produced by the maker of the original or under their supervision.", "S": ["clone ", "copy ", "facsimile ", "imitation ", "likeness ", "miniature ", "model ", "reproduction "], "A": ["difference ", "original "]}

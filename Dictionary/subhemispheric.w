@@ -1,0 +1,1 @@
+{"index": 308135, "D": "of or relating to a hemisphere. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279571, "D": "a rare, trivalent, metallic element obtained from thortveitite. Symbol", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308372, "D": "the act of making or enacting laws.", "S": [], "A": []}

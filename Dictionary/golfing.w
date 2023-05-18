@@ -1,0 +1,1 @@
+{"index": 127580, "D": "a game in which clubs with wooden or metal heads are used to hit a small, white ball into a number of holes, usually 9 or 18, in succession, situated at various distances over a course having natural or artificial obstacles, the object being to get the ball into each hole in as few strokes as possible.", "S": [], "A": []}

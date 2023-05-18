@@ -1,0 +1,1 @@
+{"index": 245953, "D": "a measure taken in advance to avert possible evil or to secure good results.", "S": ["care ", "caution ", "insurance ", "protection ", "provision ", "safeguard ", "safety measure "], "A": ["harm ", "hurt ", "injury ", "neglect ", "negligence ", "thoughtlessness ", "carelessness ", "disregard ", "hindsight ", "ignorance "]}

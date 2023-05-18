@@ -1,0 +1,1 @@
+{"index": 210632, "D": "a wood sorrel, Oxalis tuberosa, of the Andes, cultivated in South America for its edible tubers.", "S": [], "A": []}

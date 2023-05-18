@@ -1,0 +1,1 @@
+{"index": 244286, "D": "of or being a maximum;  greatest possible; highest.", "S": [], "A": []}

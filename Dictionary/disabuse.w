@@ -1,0 +1,1 @@
+{"index": 86877, "D": "to free (a person) from deception or error.", "S": ["debunk ", "disillusion ", "enlighten "], "A": ["limit ", "restrain "]}

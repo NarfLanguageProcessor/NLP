@@ -1,0 +1,1 @@
+{"index": 166773, "D": "a person engaged in physical work, esp of an unskilled kind", "S": [], "A": []}

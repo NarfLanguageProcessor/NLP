@@ -1,0 +1,1 @@
+{"index": 259653, "D": "diagnosis  by means of radiography or radioscopy.", "S": [], "A": []}

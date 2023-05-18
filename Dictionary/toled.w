@@ -1,0 +1,1 @@
+{"index": 325242, "D": "enameled or lacquered metalware, usually with gilt decoration, often used, especially in the 18th century, for trays, lampshades, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17880, "D": "suitable; well-adapted; pertinent; relevant; apt", "S": ["applicability ", "application ", "appropriateness ", "bearing ", "materiality ", "pertinence ", "pertinency ", "relevancy ", "suitability ", "suitableness "], "A": []}

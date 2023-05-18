@@ -1,0 +1,1 @@
+{"index": 108011, "D": "modern art, especially the experimental or nonacademic styles of contemporary art.", "S": [], "A": []}

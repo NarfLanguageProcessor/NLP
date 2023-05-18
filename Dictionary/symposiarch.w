@@ -1,0 +1,1 @@
+{"index": 291123, "D": "the president, director, or master of a symposium.", "S": ["President ", "administrator ", "captain ", "chair ", "director ", "leader ", "moderator ", "monitor ", "principal ", "speaker ", "spokesperson "], "A": []}

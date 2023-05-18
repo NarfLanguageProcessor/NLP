@@ -1,0 +1,1 @@
+{"index": 276872, "D": "a member of a tribal people of Malaya.", "S": [], "A": []}

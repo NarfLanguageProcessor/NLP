@@ -1,0 +1,1 @@
+{"index": 135211, "D": "to fly an airplane at a very low altitude, as for spraying crops or for low-level bombing in warfare.", "S": [], "A": []}

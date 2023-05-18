@@ -1,0 +1,1 @@
+{"index": 82950, "D": "without means of subsistence; lacking food, clothing, and shelter.", "S": [], "A": []}

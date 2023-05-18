@@ -1,0 +1,1 @@
+{"index": 346481, "D": "to attack or treat with ridicule, contempt, or derision.", "S": [], "A": []}

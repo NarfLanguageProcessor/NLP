@@ -1,0 +1,1 @@
+{"index": 269667, "D": "a source of supply, support, or aid, especially one that can be readily drawn upon when needed.", "S": [], "A": []}

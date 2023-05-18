@@ -1,0 +1,1 @@
+{"index": 63266, "D": "to establish a colony  in; settle", "S": ["colonist ", "developer ", "explorer ", "founder ", "guide ", "homesteader ", "immigrant ", "innovator ", "leader ", "pathfinder ", "pilgrim ", "scout ", "settler ", "squatter ", "trailblazer "], "A": []}

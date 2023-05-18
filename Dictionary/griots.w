@@ -1,0 +1,1 @@
+{"index": 129961, "D": "a member of a hereditary caste among the peoples of western Africa whose function is to keep an oral history of the tribe or village and to entertain with stories, poems, songs, dances, etc.", "S": [], "A": []}

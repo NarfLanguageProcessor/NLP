@@ -1,0 +1,1 @@
+{"index": 167735, "D": "laminate; laminose.", "S": ["covered ", "layered ", "stratified "], "A": []}

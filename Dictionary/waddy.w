@@ -1,0 +1,1 @@
+{"index": 361706, "D": "a heavy wooden war club used by Australian Aboriginal peoples.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 190653, "D": "a variant of miter. ", "S": ["administrator ", "cleric ", "director ", "patriarch ", "pontiff ", "pope ", "prelate ", "priest "], "A": []}

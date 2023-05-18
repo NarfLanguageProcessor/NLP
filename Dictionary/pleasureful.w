@@ -1,0 +1,1 @@
+{"index": 239641, "D": "the state or feeling of being pleased. ", "S": ["acceptable ", "delicious ", "delightful ", "enjoyable ", "gratifying ", "mild ", "pleasant ", "satisfying "], "A": ["disagreeable ", "horrible ", "unacceptable ", "unenjoyable ", "unhappy ", "unpleasant "]}

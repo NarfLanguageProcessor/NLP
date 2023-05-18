@@ -1,0 +1,1 @@
+{"index": 73074, "D": "a petticoat of haircloth or other stiff material, worn under a full skirt to keep it belled out.", "S": [], "A": []}

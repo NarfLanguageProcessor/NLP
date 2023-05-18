@@ -1,0 +1,1 @@
+{"index": 223515, "D": "a cotton print woven in India and used for clothing, canopies, etc.", "S": [], "A": []}

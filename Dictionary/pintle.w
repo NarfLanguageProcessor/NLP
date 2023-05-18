@@ -1,0 +1,1 @@
+{"index": 237269, "D": "a pin or bolt, especially one on which something turns, as the gudgeon of a hinge.", "S": [], "A": []}

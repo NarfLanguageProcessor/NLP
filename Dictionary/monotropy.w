@@ -1,0 +1,1 @@
+{"index": 192784, "D": "polymorphism that is irreversible.", "S": [], "A": []}

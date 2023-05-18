@@ -1,0 +1,1 @@
+{"index": 181287, "D": "to cause to become matronly; cause to act as, or fulfill the role of, matron. ", "S": [], "A": []}

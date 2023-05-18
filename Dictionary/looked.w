@@ -1,0 +1,1 @@
+{"index": 175064, "D": "to turn one's eyes toward something or in some direction in order to see", "S": ["consider ", "glance ", "notice ", "peer ", "read ", "see ", "stare ", "study ", "view ", "watch "], "A": ["forget ", "ignore ", "neglect ", "overlook ", "disregard ", "look away ", "scorn "]}

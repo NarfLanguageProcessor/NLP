@@ -1,0 +1,1 @@
+{"index": 225678, "D": "a colorless, liquid, cyclic compound, C6H12O3, having a disagreeable taste but an agreeable odor, produced by the polymerization of acetaldehyde with sulfuric acid", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192184, "D": "a large, circulating white blood cell, formed in bone marrow and in the spleen, that ingests large foreign particles and cell debris.", "S": [], "A": []}

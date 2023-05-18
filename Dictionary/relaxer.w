@@ -1,0 +1,1 @@
+{"index": 266793, "D": "a person or thing that relaxes, esp a substance used to straighten curly hair", "S": [], "A": []}

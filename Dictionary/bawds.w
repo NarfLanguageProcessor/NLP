@@ -1,0 +1,1 @@
+{"index": 29276, "D": "a woman who maintains a brothel; madam.", "S": ["courtesan ", "doxy ", "harlot ", "hussy ", "pro ", "prostitute ", "streetwalker ", "strumpet ", "tart ", "tramp ", "trollop ", "whore "], "A": []}

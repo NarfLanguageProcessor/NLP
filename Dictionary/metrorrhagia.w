@@ -1,0 +1,1 @@
+{"index": 185500, "D": "nonmenstrual discharge of blood from the uterus; uterine hemorrhage.", "S": [], "A": []}

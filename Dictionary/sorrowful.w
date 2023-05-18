@@ -1,0 +1,1 @@
+{"index": 297665, "D": "full of or feeling sorrow;  grieved; sad.", "S": ["affecting ", "distressing ", "heart-wrenching ", "heartrending ", "lugubrious ", "melancholy ", "mournful ", "painful ", "plaintive ", "sad ", "sorry "], "A": ["cheerful ", "glad ", "happy ", "joyful "]}

@@ -1,0 +1,1 @@
+{"index": 4152, "D": "the management of any office, business, or organization; direction. ", "S": ["agency ", "authority ", "control ", "government ", "legislation ", "organization ", "policy ", "rule "], "A": ["disorganization ", "disregard ", "failure ", "ignorance ", "inefficiency ", "lawlessness ", "mismanagement ", "neglect "]}

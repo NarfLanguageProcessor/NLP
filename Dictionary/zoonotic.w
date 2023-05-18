@@ -1,0 +1,1 @@
+{"index": 369883, "D": "any disease of animals communicable to humans.", "S": [], "A": []}

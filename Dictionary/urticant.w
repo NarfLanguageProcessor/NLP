@@ -1,0 +1,1 @@
+{"index": 355901, "D": "producing a stinging or itching sensation.", "S": [], "A": []}

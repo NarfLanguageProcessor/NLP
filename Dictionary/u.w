@@ -1,0 +1,1 @@
+{"index": 333550, "D": "the 21st letter of the English alphabet, a vowel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258880, "D": "a unit of weight equal to 100 kilograms (220.5 avoirdupois pounds).", "S": [], "A": []}

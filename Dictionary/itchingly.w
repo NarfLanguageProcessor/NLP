@@ -1,0 +1,1 @@
+{"index": 159488, "D": "of, relating to, or characterized by an irritating sensation of the skin.", "S": [], "A": []}

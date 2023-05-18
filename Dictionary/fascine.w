@@ -1,0 +1,1 @@
+{"index": 110114, "D": "a long bundle of sticks bound together, used in building earthworks and batteries and in strengthening ramparts.", "S": [], "A": []}

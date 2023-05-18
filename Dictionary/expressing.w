@@ -1,0 +1,1 @@
+{"index": 108005, "D": "to put (thought) into words; utter or state", "S": ["compelling ", "important ", "momentous ", "powerful ", "serious ", "symbolic "], "A": ["insignificant ", "trivial ", "unimportant "]}

@@ -1,0 +1,1 @@
+{"index": 316243, "D": "a blast of a trumpet or horn.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 275787, "D": "a sequence of social events sponsored by a fraternity or sorority for prospective members prior to bidding and pledging.", "S": ["hastening "], "A": []}

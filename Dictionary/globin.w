@@ -1,0 +1,1 @@
+{"index": 126488, "D": "the protein component of hemoglobin, made up of alpha and beta chains.", "S": [], "A": []}

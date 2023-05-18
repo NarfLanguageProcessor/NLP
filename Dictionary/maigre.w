@@ -1,0 +1,1 @@
+{"index": 177821, "D": "containing neither flesh nor its juices, as food permissible on days of religious abstinence.", "S": [], "A": []}

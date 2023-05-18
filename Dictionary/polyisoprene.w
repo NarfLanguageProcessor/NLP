@@ -1,0 +1,1 @@
+{"index": 242002, "D": "a thermoplastic polymer, (C5H8)n, the major constituent of natural rubber and also obtained synthetically.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158124, "D": "a family of North American Indian languages that includes Cherokee, Seneca, Mohawk, and Oneida.", "S": [], "A": []}

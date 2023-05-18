@@ -1,0 +1,1 @@
+{"index": 246128, "D": "of the nature of or characterized by precipices", "S": ["all of a sudden ", "suddenly ", "unexpectedly "], "A": []}

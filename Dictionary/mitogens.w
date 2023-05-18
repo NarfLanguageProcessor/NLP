@@ -1,0 +1,1 @@
+{"index": 190634, "D": "any substance or agent that stimulates mitotic cell division.", "S": [], "A": []}

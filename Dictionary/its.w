@@ -1,0 +1,1 @@
+{"index": 159590, "D": "the possessive form of it1  (used as an attributive adjective)", "S": ["her ", "hir ", "his ", "my ", "our ", "their ", "vis ", "xyr ", "your ", "zir "], "A": []}

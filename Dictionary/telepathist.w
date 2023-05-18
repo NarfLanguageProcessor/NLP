@@ -1,0 +1,1 @@
+{"index": 318166, "D": "a student of or believer in telepathy. ", "S": ["augur ", "diviner ", "medium ", "oracle ", "prophet ", "seer ", "sibyl ", "soothsayer ", "visionary "], "A": []}

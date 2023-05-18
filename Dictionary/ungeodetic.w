@@ -1,0 +1,1 @@
+{"index": 342999, "D": "pertaining to geodesy. ", "S": [], "A": []}

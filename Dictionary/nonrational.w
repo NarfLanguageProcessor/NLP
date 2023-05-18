@@ -1,0 +1,1 @@
+{"index": 206467, "D": "not in accordance with the principles of logic or reason", "S": ["mystical ", "otherworldly ", "supernatural "], "A": ["physical ", "real "]}

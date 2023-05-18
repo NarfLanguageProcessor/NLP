@@ -1,0 +1,1 @@
+{"index": 368197, "D": "(of wind) to blow fiercely.", "S": [], "A": []}

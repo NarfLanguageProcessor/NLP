@@ -1,0 +1,1 @@
+{"index": 108567, "D": "beyond what is usual, ordinary, regular, or established", "S": ["exceptionally ", "extremely ", "unusually ", "very "], "A": []}

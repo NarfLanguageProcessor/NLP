@@ -1,0 +1,1 @@
+{"index": 203196, "D": "having a certain inclination or disposition;  inclined (usually followed by to or an infinitive)", "S": [], "A": []}

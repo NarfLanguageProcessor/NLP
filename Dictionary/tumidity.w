@@ -1,0 +1,1 @@
+{"index": 332304, "D": "swollen, or affected with swelling, as a part of the body.", "S": ["balderdash ", "bluster ", "braggadocio ", "cotton ", "exaggeration ", "fustian ", "gasconade ", "grandiloquence ", "grandiosity ", "magniloquence ", "pad ", "pomposity ", "rage ", "rant ", "rave ", "rhapsody ", "rhetoric ", "rodomontade ", "stuff ", "turgidity "], "A": []}

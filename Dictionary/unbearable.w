@@ -1,0 +1,1 @@
+{"index": 335662, "D": "not bearable;  unendurable; intolerable.", "S": ["a bit much ", "insufferable ", "intolerable ", "oppressive ", "unacceptable "], "A": ["acceptable ", "tolerable "]}

@@ -1,0 +1,1 @@
+{"index": 197056, "D": "to aim a program or programming at a specific, limited audience or sales market.", "S": [], "A": []}

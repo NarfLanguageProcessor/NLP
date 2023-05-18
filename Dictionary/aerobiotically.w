@@ -1,0 +1,1 @@
+{"index": 4968, "D": "life in an environment containing oxygen or air.", "S": [], "A": []}

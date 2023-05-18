@@ -1,0 +1,1 @@
+{"index": 181205, "D": "a rounded, long-necked glass container, formerly used for distilling and dissolving substances.", "S": [], "A": []}

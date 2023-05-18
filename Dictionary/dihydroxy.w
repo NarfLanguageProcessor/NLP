@@ -1,0 +1,1 @@
+{"index": 85592, "D": "(of a molecule) containing two hydroxyl groups.", "S": [], "A": []}

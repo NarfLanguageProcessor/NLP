@@ -1,0 +1,1 @@
+{"index": 31883, "D": "to cover or smear with paint. ", "S": [], "A": []}

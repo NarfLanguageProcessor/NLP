@@ -1,0 +1,1 @@
+{"index": 273534, "D": "the act of a person, animal, or thing that roars. ", "S": [], "A": []}

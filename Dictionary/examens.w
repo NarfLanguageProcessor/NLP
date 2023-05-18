@@ -1,0 +1,1 @@
+{"index": 106446, "D": "an examination, as of conscience.", "S": [], "A": []}

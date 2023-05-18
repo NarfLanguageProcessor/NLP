@@ -1,0 +1,1 @@
+{"index": 278008, "D": "a married American Indian man, especially a younger one; husband.", "S": [], "A": []}

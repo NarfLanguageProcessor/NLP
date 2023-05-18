@@ -1,0 +1,1 @@
+{"index": 349182, "D": "to count, compute, or calculate, as in number or amount.", "S": [], "A": []}

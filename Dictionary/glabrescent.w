@@ -1,0 +1,1 @@
+{"index": 125731, "D": "becoming glabrous.", "S": ["bald ", "clean-shaven "], "A": ["furry ", "hairy ", "hirsute "]}

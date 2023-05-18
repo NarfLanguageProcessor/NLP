@@ -1,0 +1,1 @@
+{"index": 279034, "D": "to rescue from danger or possible harm, injury, or loss", "S": [], "A": []}

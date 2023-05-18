@@ -1,0 +1,1 @@
+{"index": 159171, "D": "of or noting equal pressure; isobaric.", "S": [], "A": []}

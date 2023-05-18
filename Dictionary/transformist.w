@@ -1,0 +1,1 @@
+{"index": 327900, "D": "an adherent of transformism.", "S": [], "A": []}

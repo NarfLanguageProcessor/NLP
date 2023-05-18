@@ -1,0 +1,1 @@
+{"index": 287404, "D": "to enroll or obtain (a sailor) for the crew of a ship by unscrupulous means, as by force or the use of liquor or drugs.", "S": ["captured ", "seized ", "snatched "], "A": ["free ", "released ", "rescued "]}

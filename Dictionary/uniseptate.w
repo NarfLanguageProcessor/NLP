@@ -1,0 +1,1 @@
+{"index": 344999, "D": "having only one septum or partition, as a silicle.", "S": [], "A": []}

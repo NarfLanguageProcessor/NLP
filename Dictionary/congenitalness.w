@@ -1,0 +1,1 @@
+{"index": 66159, "D": "of or relating to a condition present at birth, whether inherited or caused by the environment, especially the uterine environment.", "S": [], "A": []}

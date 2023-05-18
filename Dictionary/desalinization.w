@@ -1,0 +1,1 @@
+{"index": 82360, "D": "The removal of salt or other chemicals from something, such as seawater or soil. Desalinization can be achieved by means of evaporation, freezing, reverse osmosis, ion exchange, and electrodialysis.", "S": [], "A": []}

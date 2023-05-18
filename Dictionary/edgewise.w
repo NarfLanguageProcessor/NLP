@@ -1,0 +1,1 @@
+{"index": 95719, "D": "with the edge  forward; in the direction of the edge. ", "S": [], "A": []}

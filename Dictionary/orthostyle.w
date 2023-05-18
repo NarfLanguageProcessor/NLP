@@ -1,0 +1,1 @@
+{"index": 215169, "D": "(of columns) erected in a straight row.", "S": [], "A": []}

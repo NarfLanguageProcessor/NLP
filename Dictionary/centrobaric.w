@@ -1,0 +1,1 @@
+{"index": 51012, "D": "pertaining to the center of gravity.", "S": [], "A": []}

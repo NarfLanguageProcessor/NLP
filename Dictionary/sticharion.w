@@ -1,0 +1,1 @@
+{"index": 304258, "D": "a white tunic of silk or linen, corresponding to the alb, worn by deacons, priests, and bishops.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312887, "D": "of, relating to, or having supervision.", "S": ["bureaucratic ", "departmental ", "governmental ", "legislative ", "managerial ", "ministerial ", "organizational ", "policy-making ", "regulatory "], "A": []}

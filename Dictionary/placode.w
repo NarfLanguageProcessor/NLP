@@ -1,0 +1,1 @@
+{"index": 238599, "D": "a local thickening of the endoderm in the embryo, that usually constitutes the primordium of a specific structure or organ.", "S": [], "A": []}

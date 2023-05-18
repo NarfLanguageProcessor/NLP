@@ -1,0 +1,1 @@
+{"index": 277707, "D": "a shoe consisting of a sole of leather or other material fastened to the foot by thongs or straps.", "S": ["boot ", "cleat ", "cowboy boot ", "loafer ", "pump ", "running shoe ", "slipper ", "sneaker ", "tennis shoe "], "A": []}

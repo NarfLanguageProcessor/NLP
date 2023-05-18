@@ -1,0 +1,1 @@
+{"index": 268782, "D": "to drive back; repel", "S": ["appalled ", "outraged ", "queasy ", "tired ", "unhappy ", "weary "], "A": ["activated ", "fresh "]}

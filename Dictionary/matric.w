@@ -1,0 +1,1 @@
+{"index": 181219, "D": "British and Southern African short for matriculation (def. 2)", "S": [], "A": []}

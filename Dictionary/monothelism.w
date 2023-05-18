@@ -1,0 +1,1 @@
+{"index": 192731, "D": "a person who maintains that Christ has a single theanthropic will.", "S": [], "A": []}

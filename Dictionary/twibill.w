@@ -1,0 +1,1 @@
+{"index": 333290, "D": "a mattock with one arm like that of an adze and the other like that of an ax.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68459, "D": "an antagonist; opponent.", "S": [], "A": []}

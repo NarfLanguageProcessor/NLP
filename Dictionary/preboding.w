@@ -1,0 +1,1 @@
+{"index": 245873, "D": "a foreboding; omen.", "S": [], "A": []}

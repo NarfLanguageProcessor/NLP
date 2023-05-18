@@ -1,0 +1,1 @@
+{"index": 137247, "D": "blending heroic  and comic  elements", "S": [], "A": []}

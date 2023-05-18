@@ -1,0 +1,1 @@
+{"index": 119831, "D": "a person who is fleeing, as from prosecution, intolerable circumstances, etc.; a runaway", "S": [], "A": []}

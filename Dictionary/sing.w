@@ -1,0 +1,1 @@
+{"index": 291662, "D": "to utter words or sounds in succession with musical modulations of the voice; vocalize melodically.", "S": ["belt out ", "chant ", "croon ", "hum ", "intone ", "serenade ", "shout ", "wait ", "warble ", "whistle "], "A": ["be quiet "]}

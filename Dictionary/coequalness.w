@@ -1,0 +1,1 @@
+{"index": 62027, "D": "equal with another or each other in rank, ability, extent, etc.", "S": [], "A": []}

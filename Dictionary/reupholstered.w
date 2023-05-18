@@ -1,0 +1,1 @@
+{"index": 271028, "D": "to provide (chairs, sofas, etc.) with coverings, cushions, stuffing, springs, etc.", "S": [], "A": []}

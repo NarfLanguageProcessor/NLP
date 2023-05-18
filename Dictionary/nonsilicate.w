@@ -1,0 +1,1 @@
+{"index": 207241, "D": "any of the largest group of mineral compounds, as quartz, beryl, garnet, feldspar, mica, and various kinds of clay, consisting of SiO2 or SiO4 groupings and one or more metallic ions, with some forms containing hydrogen. Silicates constitute well over 90 percent of the rock-forming minerals of the earth's crust.", "S": [], "A": []}

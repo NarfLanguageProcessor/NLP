@@ -1,0 +1,1 @@
+{"index": 237237, "D": "any minute puncture made by a pin  or the like.", "S": [], "A": []}

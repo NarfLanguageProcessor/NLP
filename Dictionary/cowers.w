@@ -1,0 +1,1 @@
+{"index": 71582, "D": "to crouch, as in fear or shame.", "S": ["cringe ", "crouch ", "flinch ", "recoil ", "skulk ", "tremble ", "wince "], "A": ["face ", "meet "]}

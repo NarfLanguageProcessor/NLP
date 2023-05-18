@@ -1,0 +1,1 @@
+{"index": 273947, "D": "an act or instance of rolling back.", "S": ["acknowledgment ", "admission ", "compromise ", "deal ", "grant ", "permit ", "privilege "], "A": ["disagreement ", "denial "]}

@@ -1,0 +1,1 @@
+{"index": 79238, "D": "the act of deferring  or putting something off until later; postponement", "S": ["deferment ", "postponement "], "A": []}

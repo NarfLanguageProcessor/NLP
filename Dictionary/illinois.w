@@ -1,0 +1,1 @@
+{"index": 147399, "D": "a member of a confederacy of North American Indians of Algonquian stock, formerly occupying Illinois and adjoining regions westward.", "S": [], "A": []}

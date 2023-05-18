@@ -1,0 +1,1 @@
+{"index": 321187, "D": "a coarse-grained, phaneritic rock composed of labradorite, nepheline, and augite.", "S": [], "A": []}

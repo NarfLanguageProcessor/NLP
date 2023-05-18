@@ -1,0 +1,1 @@
+{"index": 218669, "D": "a pronounced striving to neutralize and conceal a strong but unacceptable character trait by substituting for it an opposite trait.", "S": [], "A": []}

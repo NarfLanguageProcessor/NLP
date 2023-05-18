@@ -1,0 +1,1 @@
+{"index": 304945, "D": "a close-fitting covering for the foot and part of the leg, usually knitted, of wool, cotton, nylon, silk, or similar material.", "S": ["buskins ", "chaps ", "puttees ", "putts "], "A": []}

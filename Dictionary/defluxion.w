@@ -1,0 +1,1 @@
+{"index": 79416, "D": "a copious discharge of fluid matter, as in catarrh.", "S": [], "A": []}

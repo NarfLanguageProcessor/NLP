@@ -1,0 +1,1 @@
+{"index": 213978, "D": "either of two species of long-armed, arboreal great ape, the only extant members of the subfamily Ponginae, inhabiting Borneo (Pongo pygmaeus) and Sumatra (P. abelii)", "S": ["chimpanzee ", "gibbon ", "gorilla ", "humanoid ", "monkey ", "orang ", "primate "], "A": []}

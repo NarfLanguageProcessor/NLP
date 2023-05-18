@@ -1,0 +1,1 @@
+{"index": 218554, "D": "to wear or abrade by rubbing", "S": [], "A": []}

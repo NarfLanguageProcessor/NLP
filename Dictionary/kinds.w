@@ -1,0 +1,1 @@
+{"index": 164792, "D": "of a good or benevolent nature or disposition, as a person", "S": ["brand ", "set ", "sort ", "type ", "variety "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128116, "D": "to affect as a Gorgon;  hypnotize; petrify", "S": [], "A": []}

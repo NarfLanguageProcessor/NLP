@@ -1,0 +1,1 @@
+{"index": 136474, "D": "an abnormally enlarged vein mainly due to a persistent increase in venous pressure, occurring inside the anal sphincter of the rectum and beneath the mucous membrane (internal hemorrhoid ) or outside the anal sphincter and beneath the surface of the anal skin (external hemorrhoid ).", "S": [], "A": []}

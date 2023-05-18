@@ -1,0 +1,1 @@
+{"index": 297522, "D": "the seat of the faculties of arts and letters of the University of Paris.", "S": [], "A": []}

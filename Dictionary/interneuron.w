@@ -1,0 +1,1 @@
+{"index": 155502, "D": "any neuron  having its cell body, axon, and dendrites entirely within the central nervous system, especially one that conveys impulses between a motor neuron  and a sensory neuron. ", "S": [], "A": []}

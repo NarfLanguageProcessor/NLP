@@ -1,0 +1,1 @@
+{"index": 82788, "D": "given to despair  or hopelessness.", "S": ["grief-stricken ", "melancholic ", "melancholy ", "pessimistic ", "suicidal "], "A": ["cheerful ", "encouraged ", "happy ", "joyous "]}

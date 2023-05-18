@@ -1,0 +1,1 @@
+{"index": 248969, "D": "the science of the mind or of mental states and processes.", "S": [], "A": []}

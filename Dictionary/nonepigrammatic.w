@@ -1,0 +1,1 @@
+{"index": 203572, "D": "of or like an epigram;  terse and ingenious in expression.", "S": [], "A": []}

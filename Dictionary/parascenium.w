@@ -1,0 +1,1 @@
+{"index": 226048, "D": "either of two wings flanking and extending forward from the skene of an ancient Greek theater.", "S": [], "A": []}

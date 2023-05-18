@@ -1,0 +1,1 @@
+{"index": 275977, "D": "a city in W Germany", "S": [], "A": []}

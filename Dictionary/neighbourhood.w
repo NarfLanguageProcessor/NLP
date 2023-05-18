@@ -1,0 +1,1 @@
+{"index": 198156, "D": "Related adjective", "S": [], "A": []}

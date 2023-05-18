@@ -1,0 +1,1 @@
+{"index": 114036, "D": "a small, portable electric lamp powered by dry batteries, LEDs, or a tiny generator.", "S": ["light "], "A": []}

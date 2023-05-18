@@ -1,0 +1,1 @@
+{"index": 339095, "D": "to do  less or in a lesser fashion than is usual or requisite.", "S": [], "A": []}

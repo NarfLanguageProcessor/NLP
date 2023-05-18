@@ -1,0 +1,1 @@
+{"index": 309138, "D": "serving or acting in a subordinate capacity; subordinate. ", "S": ["abjectly ", "dutifully ", "fawningly ", "grovelingly ", "ingratiatingly ", "obediently ", "slavishly ", "sycophantically "], "A": []}

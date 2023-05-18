@@ -1,0 +1,1 @@
+{"index": 350421, "D": "a past participle of saw1. ", "S": [], "A": []}

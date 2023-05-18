@@ -1,0 +1,1 @@
+{"index": 198470, "D": "a synthetic anticholinesterase, C12H19N2O2, used in the treatment of myasthenia gravis, glaucoma, and postoperative urinary bladder distention.", "S": [], "A": []}

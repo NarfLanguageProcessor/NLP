@@ -1,0 +1,1 @@
+{"index": 56417, "D": "either of two books of the Old Testament, 1 Chronicles or 2 Chronicles. Abbreviations", "S": ["annals "], "A": []}

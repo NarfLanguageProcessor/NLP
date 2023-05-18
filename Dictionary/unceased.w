@@ -1,0 +1,1 @@
+{"index": 336618, "D": "stopped or ended; discontinued", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155357, "D": "pertaining to metamerism.", "S": [], "A": []}

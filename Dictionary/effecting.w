@@ -1,0 +1,1 @@
+{"index": 95954, "D": "something that is produced by an agency or cause; result; consequence", "S": ["effective ", "efficacious "], "A": ["incapable ", "unproductive ", "useless "]}

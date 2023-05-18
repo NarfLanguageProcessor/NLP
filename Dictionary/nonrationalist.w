@@ -1,0 +1,1 @@
+{"index": 206469, "D": "the principle or habit of accepting reason as the supreme authority in matters of opinion, belief, or conduct.", "S": [], "A": []}

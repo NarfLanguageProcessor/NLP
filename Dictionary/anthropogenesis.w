@@ -1,0 +1,1 @@
+{"index": 14554, "D": "the genesis  or development of the human race, especially as a subject of scientific study.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8638, "D": "suppression of growth of a plant by a toxin released from a nearby plant of the same or another species.", "S": [], "A": []}

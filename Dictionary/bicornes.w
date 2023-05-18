@@ -1,0 +1,1 @@
+{"index": 33469, "D": "a two-cornered cocked hat worn especially in the 18th and early 19th centuries.", "S": [], "A": []}

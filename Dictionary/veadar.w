@@ -1,0 +1,1 @@
+{"index": 357597, "D": "an intercalary month of the Jewish calendar.", "S": [], "A": []}

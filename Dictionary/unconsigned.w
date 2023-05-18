@@ -1,0 +1,1 @@
+{"index": 337714, "D": "to hand over or deliver formally or officially; commit (often followed by to).", "S": [], "A": []}

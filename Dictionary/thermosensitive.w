@@ -1,0 +1,1 @@
+{"index": 321508, "D": "readily affected by heat or a change in temperature.", "S": [], "A": []}

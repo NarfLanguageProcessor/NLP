@@ -1,0 +1,1 @@
+{"index": 63795, "D": "the quality of being comfortable or of affording ease or comfort, whether physical or emotional", "S": [], "A": []}

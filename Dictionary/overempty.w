@@ -1,0 +1,1 @@
+{"index": 219195, "D": "containing nothing; having none of the usual or appropriate contents", "S": [], "A": []}

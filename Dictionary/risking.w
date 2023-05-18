@@ -1,0 +1,1 @@
+{"index": 273255, "D": "exposure to the chance of injury or loss; a hazard or dangerous chance", "S": ["compromise ", "defy ", "endanger ", "imperil ", "jeopardize "], "A": ["guard ", "protect ", "save ", "avoid ", "be careful ", "design ", "dodge ", "hide ", "neglect ", "plan ", "retreat ", "run away "]}

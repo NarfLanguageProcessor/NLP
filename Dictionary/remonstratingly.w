@@ -1,0 +1,1 @@
+{"index": 267433, "D": "to say or plead in protest, objection, or disapproval.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272583, "D": "a disease of childhood, characterized by softening of the bones as a result of inadequate intake of vitamin D and insufficient exposure to sunlight, also associated with impaired calcium and phosphorus metabolism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 85599, "D": "ceasing to live; approaching death;  expiring", "S": ["decaying ", "doomed ", "fading ", "moribund "], "A": ["permanent "]}

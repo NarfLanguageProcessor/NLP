@@ -1,0 +1,1 @@
+{"index": 320710, "D": "a person who goes to the theater,  especially often or habitually.", "S": ["bystander ", "fan ", "moviegoer ", "observer ", "onlooker ", "sports fan ", "viewer "], "A": ["participant "]}

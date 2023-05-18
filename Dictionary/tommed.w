@@ -1,0 +1,1 @@
+{"index": 325449, "D": "the male of various animals, as the turkey.", "S": [], "A": []}

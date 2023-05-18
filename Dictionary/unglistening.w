@@ -1,0 +1,1 @@
+{"index": 343100, "D": "to reflect a sparkling light or a faint intermittent glow; shine lustrously.", "S": [], "A": []}

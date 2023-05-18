@@ -1,0 +1,1 @@
+{"index": 283374, "D": "the act or an instance of seizing. ", "S": ["breakdown ", "convulsion ", "illness ", "stroke "], "A": ["letting go ", "liberation ", "release "]}

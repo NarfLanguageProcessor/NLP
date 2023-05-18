@@ -1,0 +1,1 @@
+{"index": 17419, "D": "to commit apostasy. ", "S": [], "A": []}

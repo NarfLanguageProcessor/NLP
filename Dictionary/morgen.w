@@ -1,0 +1,1 @@
+{"index": 193424, "D": "a unit of land measure equal to about two acres (0.8 hectare), formerly in use in Holland and the Dutch colonies and still used in South Africa.", "S": [], "A": []}

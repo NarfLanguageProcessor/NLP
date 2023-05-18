@@ -1,0 +1,1 @@
+{"index": 248380, "D": "the middle of summer.", "S": [], "A": []}

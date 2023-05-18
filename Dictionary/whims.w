@@ -1,0 +1,1 @@
+{"index": 364835, "D": "an odd or capricious notion or desire; a sudden or freakish fancy", "S": ["impulse ", "inclination ", "vagary "], "A": ["actuality ", "certainty ", "dislike ", "fact ", "hate ", "reality ", "seriousness ", "truth "]}

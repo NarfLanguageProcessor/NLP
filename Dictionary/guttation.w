@@ -1,0 +1,1 @@
+{"index": 131609, "D": "a process in which water in liquid form is given off by plants.", "S": [], "A": []}

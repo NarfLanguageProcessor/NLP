@@ -1,0 +1,1 @@
+{"index": 294595, "D": "to drop or fall heavily; collapse", "S": ["downward "], "A": ["above ", "cheerful ", "cheery ", "happy ", "heartened ", "higher "]}

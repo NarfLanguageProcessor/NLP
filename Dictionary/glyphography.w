@@ -1,0 +1,1 @@
+{"index": 126379, "D": "a plate-making process in which an electrotype is made from an engraved copper plate", "S": [], "A": []}

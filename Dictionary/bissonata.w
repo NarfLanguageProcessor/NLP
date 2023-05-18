@@ -1,0 +1,1 @@
+{"index": 35110, "D": "a coarse woolen cloth constructed in plain weave and dyed black or brown, used in the manufacture of clerical vestments.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339180, "D": "a covering of feathers;  plumage.", "S": [], "A": []}

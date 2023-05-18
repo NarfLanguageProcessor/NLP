@@ -1,0 +1,1 @@
+{"index": 303320, "D": "the lipase present in pancreatic juice.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353819, "D": "full of or characterized by vigor", "S": [], "A": []}

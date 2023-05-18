@@ -1,0 +1,1 @@
+{"index": 106947, "D": "to detest utterly; abhor; abominate.", "S": [], "A": []}

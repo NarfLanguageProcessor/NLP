@@ -1,0 +1,1 @@
+{"index": 22240, "D": "a navigational instrument for giving directional bearings from the centre of the earth to a particular star. It is carried in long-range aircraft, ships, spacecraft, etc", "S": [], "A": []}

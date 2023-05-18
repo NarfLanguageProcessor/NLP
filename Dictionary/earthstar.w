@@ -1,0 +1,1 @@
+{"index": 94866, "D": "a fungus of the genus Geaster, having an outer covering that splits into the form of a star. ", "S": [], "A": []}

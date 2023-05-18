@@ -1,0 +1,1 @@
+{"index": 313930, "D": "in a state of intoxication, stupor, or euphoria induced by drugs or alcohol", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293429, "D": "activewear designed to be worn  for skiing,  as jackets, sweaters, and pants.", "S": [], "A": []}

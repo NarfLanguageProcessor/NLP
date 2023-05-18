@@ -1,0 +1,1 @@
+{"index": 110395, "D": "a piece below the breastplate, composed of lames and corresponding to the culet in back.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253925, "D": "capable of being protracted,  lengthened, or protruded.", "S": [], "A": []}

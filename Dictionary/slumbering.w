@@ -1,0 +1,1 @@
+{"index": 294562, "D": "to sleep, especially lightly; doze; drowse.", "S": ["comatose ", "dormant "], "A": ["attentive ", "awake ", "conscious "]}

@@ -1,0 +1,1 @@
+{"index": 85431, "D": "a place where digging  is carried on.", "S": ["apartment ", "cabin ", "condo ", "condominium ", "cottage ", "dormitory ", "dwelling ", "farm ", "hospital ", "house ", "hut ", "mansion ", "palace ", "place ", "residence ", "resort ", "shelter ", "trailer "], "A": ["office "]}

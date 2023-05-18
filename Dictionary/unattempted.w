@@ -1,0 +1,1 @@
+{"index": 335389, "D": "to make an effort at; try; undertake; seek", "S": ["immature ", "unproved ", "untested "], "A": ["established ", "tried "]}

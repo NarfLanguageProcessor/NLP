@@ -1,0 +1,1 @@
+{"index": 235239, "D": "a mosaic of aerial photographs marked as amap,  with grid lines, placenames, etc.", "S": [], "A": []}

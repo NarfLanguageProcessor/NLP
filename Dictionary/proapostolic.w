@@ -1,0 +1,1 @@
+{"index": 250963, "D": "of or characteristic of an apostle. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 337950, "D": "not credible or plausible", "S": ["flimsy ", "implausible ", "inconclusive ", "questionable ", "unbelievable "], "A": ["believable ", "certain ", "definite ", "plausible ", "reasonable ", "sure "]}

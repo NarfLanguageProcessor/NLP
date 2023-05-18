@@ -1,0 +1,1 @@
+{"index": 203469, "D": "an act or instance of emitting", "S": [], "A": []}

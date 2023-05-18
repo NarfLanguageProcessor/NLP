@@ -1,0 +1,1 @@
+{"index": 40108, "D": "(used in praising a performer).", "S": [], "A": []}

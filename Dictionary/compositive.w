@@ -1,0 +1,1 @@
+{"index": 64795, "D": "the act of combining parts or elements to form a whole.", "S": [], "A": []}

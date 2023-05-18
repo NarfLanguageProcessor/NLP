@@ -1,0 +1,1 @@
+{"index": 48182, "D": "a heap of stones set up as a landmark, monument, tombstone, etc.", "S": [], "A": []}

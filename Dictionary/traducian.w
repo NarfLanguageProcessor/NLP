@@ -1,0 +1,1 @@
+{"index": 327305, "D": "Compare creationism (def. 3). ", "S": [], "A": []}

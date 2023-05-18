@@ -1,0 +1,1 @@
+{"index": 320660, "D": "the study or description of miracles.", "S": [], "A": []}

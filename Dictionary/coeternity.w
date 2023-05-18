@@ -1,0 +1,1 @@
+{"index": 62079, "D": "existence for, from, or in eternity with another being", "S": [], "A": []}

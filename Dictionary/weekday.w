@@ -1,0 +1,1 @@
+{"index": 363761, "D": "any day of the week except Sunday or, often, Saturday and Sunday.", "S": [], "A": []}

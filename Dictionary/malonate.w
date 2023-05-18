@@ -1,0 +1,1 @@
+{"index": 178616, "D": "A salt or ester of malonic acid.", "S": [], "A": []}

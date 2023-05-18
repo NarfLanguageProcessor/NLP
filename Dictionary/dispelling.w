@@ -1,0 +1,1 @@
+{"index": 88912, "D": "to drive off in various directions; disperse; dissipate", "S": ["dispersal ", "melting "], "A": ["appearance "]}

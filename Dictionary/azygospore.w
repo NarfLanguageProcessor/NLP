@@ -1,0 +1,1 @@
+{"index": 25257, "D": "a reproductive cell formed without the fusion of gametes, as in certain algae and fungi.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 261800, "D": "real property or real estate.", "S": ["acreage ", "area ", "beach ", "continent ", "country ", "countryside ", "district ", "earth ", "estate ", "farmland ", "field ", "ground ", "home ", "homeland ", "nation ", "parcel ", "plot ", "province ", "ranch ", "real estate ", "region ", "shore ", "soil ", "terrain ", "territory ", "tract "], "A": ["sky "]}

@@ -1,0 +1,1 @@
+{"index": 170007, "D": "permitted by law; lawful", "S": ["constitutional ", "contractual ", "fair ", "juridical ", "lawful ", "legitimate ", "proper ", "statutory ", "valid "], "A": ["illegal ", "illegitimate ", "invalid ", "unacceptable ", "unlawful "]}

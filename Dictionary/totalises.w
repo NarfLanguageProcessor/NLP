@@ -1,0 +1,1 @@
+{"index": 326448, "D": "to make total;  combine into a total.", "S": [], "A": []}

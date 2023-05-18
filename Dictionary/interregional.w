@@ -1,0 +1,1 @@
+{"index": 155773, "D": "of, relating to, or conducted between two or more regions", "S": [], "A": []}

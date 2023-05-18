@@ -1,0 +1,1 @@
+{"index": 60256, "D": "made of clay or earthenware", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211748, "D": "to look at amorously, flirtatiously, or impertinently.", "S": ["eyeball ", "gawk "], "A": ["ignore ", "look away ", "neglect ", "overlook "]}

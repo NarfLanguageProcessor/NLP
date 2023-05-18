@@ -1,0 +1,1 @@
+{"index": 243713, "D": "the act of portraying. ", "S": ["description ", "imitation ", "portrait ", "representation "], "A": ["original "]}

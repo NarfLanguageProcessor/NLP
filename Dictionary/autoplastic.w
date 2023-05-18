@@ -1,0 +1,1 @@
+{"index": 24300, "D": "the repair of defects with tissue from another part of the patient's body.", "S": [], "A": []}

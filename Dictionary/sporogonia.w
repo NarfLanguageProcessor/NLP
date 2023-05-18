@@ -1,0 +1,1 @@
+{"index": 300992, "D": "the sporangium of mosses and liverworts.", "S": [], "A": []}

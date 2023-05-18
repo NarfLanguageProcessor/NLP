@@ -1,0 +1,1 @@
+{"index": 182767, "D": "having dark spores, as certain seaweeds.", "S": [], "A": []}

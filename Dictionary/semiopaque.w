@@ -1,0 +1,1 @@
+{"index": 284594, "D": "partly or nearly opaque. ", "S": ["crystalline ", "luminous ", "see-through "], "A": ["blocked ", "cloudy ", "opaque "]}

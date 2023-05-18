@@ -1,0 +1,1 @@
+{"index": 346614, "D": "to provide with a motive,  or a cause or reason to act; incite; impel. ", "S": [], "A": []}

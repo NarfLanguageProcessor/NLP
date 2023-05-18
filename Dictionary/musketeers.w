@@ -1,0 +1,1 @@
+{"index": 196053, "D": "a soldier armed with a musket. ", "S": ["commando ", "fighter ", "guard ", "guerrilla ", "marine ", "mercenary ", "officer ", "paratrooper ", "pilot ", "trooper ", "veteran ", "volunteer "], "A": []}

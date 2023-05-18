@@ -1,0 +1,1 @@
+{"index": 155742, "D": "one of the four equal or equivalent parts into which anything is or may be divided", "S": [], "A": []}

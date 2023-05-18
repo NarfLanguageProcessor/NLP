@@ -1,0 +1,1 @@
+{"index": 55716, "D": "a hymn, especially one with strong harmonization", "S": ["choir ", "ensemble "], "A": []}

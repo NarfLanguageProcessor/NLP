@@ -1,0 +1,1 @@
+{"index": 348857, "D": "reputed or claimed; alleged", "S": [], "A": []}

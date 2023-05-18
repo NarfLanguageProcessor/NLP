@@ -1,0 +1,1 @@
+{"index": 179118, "D": "a Japanese graphic novel, typically intended for adults, characterized by highly stylized art.", "S": ["cartoon ", "comic ", "comic-strip book "], "A": []}

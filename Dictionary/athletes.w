@@ -1,0 +1,1 @@
+{"index": 22601, "D": "a person trained or gifted in exercises or contests involving physical agility, stamina, or strength; a participant in a sport, exercise, or game requiring physical skill.", "S": ["animal ", "competitor ", "contestant ", "jock ", "player ", "professional ", "sport "], "A": []}

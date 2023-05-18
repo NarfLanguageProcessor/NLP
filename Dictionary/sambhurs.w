@@ -1,0 +1,1 @@
+{"index": 277501, "D": "a deer, Cervus unicolor, of India, Sri Lanka, southeastern Asia, the East Indies, and the Philippines, having three-pointed antlers.", "S": [], "A": []}

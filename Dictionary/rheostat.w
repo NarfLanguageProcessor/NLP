@@ -1,0 +1,1 @@
+{"index": 271888, "D": "an adjustable resistor so constructed that its resistance may be changed without opening the circuit in which it is connected, thereby controlling the current in the circuit.", "S": [], "A": []}

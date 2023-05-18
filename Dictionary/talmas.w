@@ -1,0 +1,1 @@
+{"index": 315737, "D": [], "S": ["Vandyke ", "capote ", "cardinal ", "cloak ", "cope ", "dolman ", "fichu ", "gabardine ", "mantilla ", "mantle ", "pelisse ", "poncho ", "shawl ", "tabard ", "tippet ", "wrap ", "wrapper "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 317025, "D": "a person who tattles;  telltale.", "S": ["bigmouth ", "blabberer ", "blabbermouth ", "busybody ", "canary ", "fat mouth ", "fink ", "gossip ", "informer ", "rat ", "rumormonger ", "scandalmonger ", "snitch ", "squealer ", "stool pigeon ", "talebearer ", "taleteller ", "telltale ", "tipster ", "troublemaker ", "whistleblower ", "windbag "], "A": []}

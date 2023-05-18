@@ -1,0 +1,1 @@
+{"index": 88166, "D": "the loss of respect, honor, or esteem; ignominy; shame", "S": ["demeaning ", "embarrassing ", "humbling "], "A": []}

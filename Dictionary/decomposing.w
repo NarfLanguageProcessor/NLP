@@ -1,0 +1,1 @@
+{"index": 78626, "D": "to separate or resolve into constituent parts or elements; disintegrate", "S": ["collapsing ", "crumbling ", "deteriorating "], "A": []}

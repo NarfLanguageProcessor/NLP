@@ -1,0 +1,1 @@
+{"index": 191233, "D": "any speech disorder characterized by difficulty or hesitancy in speech production, as stuttering or stammering; disfluency. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 337655, "D": "not connected;  not joined together or attached", "S": ["detached ", "disconnected ", "divided ", "independent ", "separated ", "unattached "], "A": ["connected ", "joined ", "linked ", "material ", "pertinent ", "relevant "]}

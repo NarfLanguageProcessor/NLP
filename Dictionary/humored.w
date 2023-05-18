@@ -1,0 +1,1 @@
+{"index": 145038, "D": "a comic, absurd, or incongruous quality causing amusement", "S": ["entertain ", "nourish ", "pamper ", "satiate ", "satisfy ", "spoil ", "take care of ", "tickle "], "A": ["deprive ", "dissatisfy ", "ignore ", "neglect ", "annoy ", "deny ", "depress ", "disallow ", "disappoint ", "disapprove ", "disturb ", "pain ", "refuse ", "reject ", "upset "]}

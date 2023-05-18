@@ -1,0 +1,1 @@
+{"index": 357663, "D": "to change direction or turn about or aside; shift, turn, or change from one course, position, inclination, etc., to another", "S": ["bend ", "deflect ", "depart ", "deviate ", "diverge ", "divert ", "drift ", "pivot ", "shift ", "skid ", "swerve ", "swing ", "twist ", "whirl "], "A": ["stay ", "straighten "]}

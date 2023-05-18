@@ -1,0 +1,1 @@
+{"index": 141653, "D": "a gray or white, water-soluble acidic polypeptide obtained from the buccal gland of leeches, used in medicine chiefly as an anticoagulant.", "S": [], "A": []}

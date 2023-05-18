@@ -1,0 +1,1 @@
+{"index": 20847, "D": "any of the postures in a yoga exercise.", "S": [], "A": []}

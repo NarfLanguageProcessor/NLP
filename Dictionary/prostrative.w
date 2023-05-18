@@ -1,0 +1,1 @@
+{"index": 253307, "D": "to cast (oneself) face down on the ground in humility, submission, or adoration.", "S": [], "A": []}

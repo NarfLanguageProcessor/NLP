@@ -1,0 +1,1 @@
+{"index": 197996, "D": "extremely wicked or villainous; iniquitous", "S": [], "A": []}

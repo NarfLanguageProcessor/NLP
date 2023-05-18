@@ -1,0 +1,1 @@
+{"index": 297183, "D": "a rocket, balloon, or rockoon used as a probe for observing phenomena in the atmosphere.", "S": [], "A": []}

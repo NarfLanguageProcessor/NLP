@@ -1,0 +1,1 @@
+{"index": 324734, "D": "lawful claim to title,  especially of property.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246868, "D": "the act of detecting.", "S": [], "A": []}

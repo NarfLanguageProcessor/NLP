@@ -1,0 +1,1 @@
+{"index": 236211, "D": "the science or technique of making photographs of the kidneys, renal pelves, and ureters by means of x-rays, after the injection of an opaque solution or of a radiopaque dye.", "S": [], "A": []}

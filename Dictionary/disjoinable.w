@@ -1,0 +1,1 @@
+{"index": 88509, "D": "to undo or prevent the junction or union of; disunite; separate.", "S": [], "A": []}

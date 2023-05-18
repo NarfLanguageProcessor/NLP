@@ -1,0 +1,1 @@
+{"index": 337748, "D": "not constitutional;  unauthorized by or inconsistent with the constitution, as of a country.", "S": [], "A": []}

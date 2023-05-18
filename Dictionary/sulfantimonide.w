@@ -1,0 +1,1 @@
+{"index": 310396, "D": "any compound containing an antimonide and a sulfide.", "S": [], "A": []}

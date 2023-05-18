@@ -1,0 +1,1 @@
+{"index": 338537, "D": "to take away, as from a sum or amount", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 152824, "D": "a person or thing that initiates", "S": ["assailant ", "intruder ", "invader ", "trespasser "], "A": []}

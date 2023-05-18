@@ -1,0 +1,1 @@
+{"index": 192750, "D": "having equal tone throughout, as sans-serif type.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60747, "D": "to seize with or as with the hands or claws; snatch", "S": ["claws ", "control ", "custody ", "grasp ", "grip ", "hands ", "keeping ", "possession ", "sway "], "A": ["misconception ", "misunderstanding ", "release "]}

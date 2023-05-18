@@ -1,0 +1,1 @@
+{"index": 277382, "D": "(in some U.S. schools and colleges) the student ranking second highest in the graduating class, who delivers the salutatory  at commencement.", "S": [], "A": []}

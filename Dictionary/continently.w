@@ -1,0 +1,1 @@
+{"index": 67452, "D": "in a continent  manner; temperately.", "S": [], "A": []}

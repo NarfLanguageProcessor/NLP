@@ -1,0 +1,1 @@
+{"index": 368022, "D": "paralysis of the extensor muscles of the hand causing it to droop, due to injuries or some poisons, as lead or arsenic.", "S": [], "A": []}

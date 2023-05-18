@@ -1,0 +1,1 @@
+{"index": 286672, "D": "a person or thing that sets. ", "S": [], "A": []}

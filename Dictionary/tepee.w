@@ -1,0 +1,1 @@
+{"index": 319138, "D": "a cone-shaped tent of animal skins used by certain North American Indians", "S": ["encampment ", "tent "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 99178, "D": "pregnant; with child.", "S": ["expecting ", "fortification ", "gestate "], "A": []}

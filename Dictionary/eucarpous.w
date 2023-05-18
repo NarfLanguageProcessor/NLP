@@ -1,0 +1,1 @@
+{"index": 105280, "D": "(of a fungus) having only part of the thallus converted into fruiting bodies.", "S": [], "A": []}

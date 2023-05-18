@@ -1,0 +1,1 @@
+{"index": 281934, "D": "furrowed or pitted.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70685, "D": "a tool for enlarging a drilled hole for a portion of its length, as to permit sinking a screw head.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 56785, "D": "cycle; cycles.", "S": ["fiscal year "], "A": []}

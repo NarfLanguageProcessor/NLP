@@ -1,0 +1,1 @@
+{"index": 84355, "D": "containing or yielding diamonds  for mining.", "S": ["adamantine "], "A": []}

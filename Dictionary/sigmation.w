@@ -1,0 +1,1 @@
+{"index": 290064, "D": "having the form of the Greek sigma  or the letter S.", "S": [], "A": []}

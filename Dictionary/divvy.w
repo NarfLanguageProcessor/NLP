@@ -1,0 +1,1 @@
+{"index": 90446, "D": "to divide; distribute (often followed by up)", "S": ["deal ", "divide ", "ration ", "share ", "split "], "A": ["collect ", "combine ", "gather ", "hold ", "join ", "keep "]}

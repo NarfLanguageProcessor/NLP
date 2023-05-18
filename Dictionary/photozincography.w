@@ -1,0 +1,1 @@
+{"index": 235466, "D": "a type of photoengraving using a sensitized zinc plate.", "S": [], "A": []}

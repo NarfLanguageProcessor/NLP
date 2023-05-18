@@ -1,0 +1,1 @@
+{"index": 46459, "D": "a metal tube for insertion into the body to draw off fluid or to introduce medication.", "S": ["cylinder ", "duct ", "pipe ", "pipeline ", "tunnel "], "A": []}

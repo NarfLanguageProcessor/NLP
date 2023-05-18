@@ -1,0 +1,1 @@
+{"index": 326138, "D": "a person or thing that torments. ", "S": ["bulldozer ", "harasser ", "intimidator ", "ruffian ", "tyrant "], "A": []}

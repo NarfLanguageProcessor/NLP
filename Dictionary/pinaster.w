@@ -1,0 +1,1 @@
+{"index": 236905, "D": "a species of pyramid-shaped pine, Pinus pinaster, growing in southern Europe and having clustered needles.", "S": [], "A": []}

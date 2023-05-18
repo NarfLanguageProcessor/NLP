@@ -1,0 +1,1 @@
+{"index": 317583, "D": "the act of persistently annoying someone, especially playfully and with silly jokes about them", "S": ["irritating ", "joking ", "mocking "], "A": ["comforting ", "praising ", "regaling "]}

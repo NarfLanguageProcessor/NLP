@@ -1,0 +1,1 @@
+{"index": 137420, "D": "the ancient Greek goddess of the hearth.", "S": ["Vesta ", "household effects ", "household possessions "], "A": []}

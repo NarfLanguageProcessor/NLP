@@ -1,0 +1,1 @@
+{"index": 247102, "D": "unable or unwilling to trust; doubtful; suspicious", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360727, "D": "a place, such as a laboratory, where live animals or plants are kept under conditions simulating their natural environment, as for research.", "S": [], "A": []}

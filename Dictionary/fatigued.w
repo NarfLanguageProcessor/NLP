@@ -1,0 +1,1 @@
+{"index": 110311, "D": "tired; wearied.", "S": ["exhausted ", "listless ", "weary "], "A": ["energetic ", "fresh ", "lively ", "untired ", "invigorated ", "unused "]}

@@ -1,0 +1,1 @@
+{"index": 104173, "D": "producing an eschar, as a medicinal substance; caustic.", "S": [], "A": []}

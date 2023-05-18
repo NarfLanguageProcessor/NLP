@@ -1,0 +1,1 @@
+{"index": 177004, "D": "a horizontal line used as a diacritic over a vowel to indicate that it has a long sound or other specified pronunciation, as (\u0101) in fate (f\u0101t).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230185, "D": "lively spirits or energy; vigor; animation.", "S": [], "A": []}

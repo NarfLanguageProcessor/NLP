@@ -1,0 +1,1 @@
+{"index": 123929, "D": "divination by geographic features or by figures or lines.", "S": [], "A": []}

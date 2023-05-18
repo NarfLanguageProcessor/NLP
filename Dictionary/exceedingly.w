@@ -1,0 +1,1 @@
+{"index": 106574, "D": "to an unusual degree; very; extremely", "S": ["awfully ", "enormously ", "excessively ", "extraordinarily ", "extremely ", "highly ", "hugely ", "inordinately ", "really ", "remarkably ", "strikingly ", "terribly ", "unusually ", "vastly "], "A": ["little "]}

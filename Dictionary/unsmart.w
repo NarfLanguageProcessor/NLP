@@ -1,0 +1,1 @@
+{"index": 351398, "D": "to be a source of sharp, local, and usually superficial pain, as a wound.", "S": [], "A": []}

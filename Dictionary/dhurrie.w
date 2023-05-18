@@ -1,0 +1,1 @@
+{"index": 83954, "D": "a thick, nonpile cotton rug of India.", "S": [], "A": []}

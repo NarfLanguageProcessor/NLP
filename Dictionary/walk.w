@@ -1,0 +1,1 @@
+{"index": 362189, "D": "to advance or travel on foot at a moderate speed or pace; proceed by steps; move by advancing the feet alternately so that there is always one foot on the ground in bipedal locomotion and two or more feet on the ground in quadrupedal locomotion.", "S": ["hike ", "jaunt ", "parade ", "step ", "stretch ", "stroll ", "tour "], "A": []}

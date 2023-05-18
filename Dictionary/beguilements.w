@@ -1,0 +1,1 @@
+{"index": 30741, "D": "to influence by trickery, flattery, etc.; mislead; delude.", "S": ["delight ", "diversion ", "enjoyment ", "hilarity ", "laughter ", "pleasure "], "A": ["gloom ", "melancholy ", "misery ", "pain ", "sorrow ", "trouble ", "unhappiness ", "depression ", "drudgery ", "sadness ", "work "]}

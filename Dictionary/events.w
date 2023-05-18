@@ -1,0 +1,1 @@
+{"index": 106128, "D": "something that happens or is regarded as happening; an occurrence, especially one of some importance.", "S": ["contest ", "drill ", "exercises ", "games ", "practice ", "recreation ", "workout "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 289833, "D": "a spinning  motion imparted to a ball that causes it to rotate in course about its vertical axis.", "S": [], "A": []}

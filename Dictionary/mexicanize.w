@@ -1,0 +1,1 @@
+{"index": 185561, "D": "to make or become Mexican or like the Mexican, as in manner, customs, or dress.", "S": [], "A": []}

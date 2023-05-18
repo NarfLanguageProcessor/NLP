@@ -1,0 +1,1 @@
+{"index": 90297, "D": "a diversion or entertainment.", "S": ["bender ", "binge ", "bust ", "celebration ", "circus ", "distraction ", "diversion ", "gratification ", "party ", "recreation ", "self-indulgence ", "tear ", "toot "], "A": ["work "]}

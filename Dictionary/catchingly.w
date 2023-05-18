@@ -1,0 +1,1 @@
+{"index": 49453, "D": "tending to be transmitted from one person to another; contagious or infectious", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139344, "D": "a swelling in the soft tissue that occurs over a joint, usually caused by repeated injury", "S": [], "A": []}

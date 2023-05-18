@@ -1,0 +1,1 @@
+{"index": 85345, "D": "(in dialysis) the solution or the crystalline material that passes into it through the semipermeable membrane; dialyzate.", "S": [], "A": []}

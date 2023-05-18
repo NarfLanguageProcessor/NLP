@@ -1,0 +1,1 @@
+{"index": 255771, "D": "(in a classical temple) a colonnade parallel to, but apart from, the cella.", "S": [], "A": []}

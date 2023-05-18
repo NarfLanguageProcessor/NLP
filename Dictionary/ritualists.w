@@ -1,0 +1,1 @@
+{"index": 273330, "D": "a student of or authority on ritual practices or religious rites.", "S": [], "A": []}

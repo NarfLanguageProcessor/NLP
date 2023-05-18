@@ -1,0 +1,1 @@
+{"index": 187521, "D": "a unit of length equal to 0.001 of an inch (0.0254 millimeters), used in measuring the diameter of wires.", "S": [], "A": []}

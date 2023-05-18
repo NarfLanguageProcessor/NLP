@@ -1,0 +1,1 @@
+{"index": 16746, "D": "an instrument for measuring the angular and numerical aperture  of the objective lens of a microscope.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 147803, "D": "containing the imino group.", "S": [], "A": []}

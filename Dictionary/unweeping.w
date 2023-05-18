@@ -1,0 +1,1 @@
+{"index": 354140, "D": "expressing grief, sorrow, or any overwhelming emotion by shedding tears", "S": [], "A": []}

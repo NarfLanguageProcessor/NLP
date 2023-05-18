@@ -1,0 +1,1 @@
+{"index": 343897, "D": "excessive pride or self-confidence; arrogance.", "S": [], "A": []}

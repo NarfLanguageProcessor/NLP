@@ -1,0 +1,1 @@
+{"index": 333542, "D": "any of various sweetened combinations of vegetables, fruit, and sometimes meat, prepared as a casserole or stew.", "S": [], "A": []}

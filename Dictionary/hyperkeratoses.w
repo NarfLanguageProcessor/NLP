@@ -1,0 +1,1 @@
+{"index": 140226, "D": "a thickening of the horny layer of the skin.", "S": [], "A": []}

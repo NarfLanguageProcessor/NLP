@@ -1,0 +1,1 @@
+{"index": 123028, "D": "a mechanism or group of parts performing one function or serving one purpose in a complex machine", "S": ["accessory ", "apparatus ", "harness ", "instrument ", "kit ", "luggage ", "machinery ", "material ", "paraphernalia ", "stuff ", "supply "], "A": []}

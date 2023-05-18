@@ -1,0 +1,1 @@
+{"index": 209449, "D": "of or resembling a nugget", "S": [], "A": []}

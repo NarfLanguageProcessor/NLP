@@ -1,0 +1,1 @@
+{"index": 308357, "D": "to deny or contradict; negate. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181621, "D": "any disease of the placenta.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226690, "D": "having or of the nature of a parody. ", "S": [], "A": []}

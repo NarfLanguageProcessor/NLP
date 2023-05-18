@@ -1,0 +1,1 @@
+{"index": 74235, "D": "a point at which two branches of a curve intersect, each branch having a distinct tangent; node", "S": [], "A": []}

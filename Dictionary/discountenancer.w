@@ -1,0 +1,1 @@
+{"index": 87625, "D": "to disconcert, embarrass, or abash", "S": [], "A": []}

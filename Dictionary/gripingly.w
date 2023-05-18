@@ -1,0 +1,1 @@
+{"index": 129989, "D": "to complain naggingly or constantly; grumble.", "S": [], "A": []}

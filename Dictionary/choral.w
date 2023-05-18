@@ -1,0 +1,1 @@
+{"index": 55712, "D": "of a chorus  or a choir", "S": ["coloratura "], "A": []}

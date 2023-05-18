@@ -1,0 +1,1 @@
+{"index": 64185, "D": "sound practical judgment that is independent of specialized knowledge, training, or the like; normal native intelligence.", "S": [], "A": []}

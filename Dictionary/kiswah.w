@@ -1,0 +1,1 @@
+{"index": 165155, "D": "a decorative veil draped over the walls of the Ka\u02bfba, now made of black brocade embroidered in gold with inscriptions from the Quran.", "S": [], "A": []}

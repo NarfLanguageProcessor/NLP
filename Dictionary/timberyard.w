@@ -1,0 +1,1 @@
+{"index": 323703, "D": "US and Canadian word", "S": [], "A": []}

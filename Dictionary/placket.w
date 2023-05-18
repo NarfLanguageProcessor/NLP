@@ -1,0 +1,1 @@
+{"index": 238594, "D": "the opening or slit at the top of a skirt, or in a dress or blouse, that facilitates putting it on and taking it off.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149022, "D": "strong enough to resist or withstand attack; not to be taken by force, unconquerable", "S": [], "A": []}

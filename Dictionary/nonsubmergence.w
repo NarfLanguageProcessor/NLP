@@ -1,0 +1,1 @@
+{"index": 207586, "D": "the act of putting or sinking something below the surface of water or any other enveloping medium, or the resulting state", "S": [], "A": []}

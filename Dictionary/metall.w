@@ -1,0 +1,1 @@
+{"index": 184715, "D": "variant of metallo-  especially before a vowel", "S": [], "A": []}

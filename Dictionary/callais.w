@@ -1,0 +1,1 @@
+{"index": 45252, "D": "a green stone found as beads and ornaments in the late Neolithic and early Bronze Age of W Europe", "S": [], "A": []}

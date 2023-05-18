@@ -1,0 +1,1 @@
+{"index": 275480, "D": "a kerchief worn as a headdress by men in India.", "S": [], "A": []}

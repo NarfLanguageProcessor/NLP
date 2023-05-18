@@ -1,0 +1,1 @@
+{"index": 329283, "D": "a stream that flows to a larger stream or other body of water.", "S": ["branch "], "A": ["ocean ", "sea "]}

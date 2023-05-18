@@ -1,0 +1,1 @@
+{"index": 74205, "D": "a round soft unsweetened bread resembling a muffin, cooked on a griddle or the like, and often toasted.", "S": [], "A": []}

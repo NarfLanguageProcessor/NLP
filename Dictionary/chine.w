@@ -1,0 +1,1 @@
+{"index": 54590, "D": "a ravine formed in rock by the action of running water.", "S": ["ridge "], "A": ["bottom ", "nadir "]}

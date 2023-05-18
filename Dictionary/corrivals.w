@@ -1,0 +1,1 @@
+{"index": 69697, "D": "a rival; competitor.", "S": ["adversary ", "challenger ", "competition ", "contestant ", "opponent ", "rival "], "A": []}

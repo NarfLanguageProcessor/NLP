@@ -1,0 +1,1 @@
+{"index": 317148, "D": "needless repetition of an idea, especially in words other than those of the immediate context, without imparting additional force or clearness, as in \u201cwidow woman.\u201d", "S": ["diffuseness ", "discursiveness ", "euphemism ", "indirectness ", "periphrasis ", "pleonasm ", "prolixity ", "roundabout ", "verbiage ", "wordiness "], "A": ["conciseness "]}

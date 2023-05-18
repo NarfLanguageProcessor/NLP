@@ -1,0 +1,1 @@
+{"index": 151303, "D": "in a way that is patently evident or certain; unquestionably; without doubt", "S": ["certainly ", "definitely ", "for sure ", "indeed ", "no question ", "of course ", "positively ", "surely ", "undoubtedly ", "without doubt "], "A": []}

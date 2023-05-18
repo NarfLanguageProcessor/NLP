@@ -1,0 +1,1 @@
+{"index": 260096, "D": "characterized by rain", "S": ["drizzly ", "stormy ", "wet "], "A": ["dry "]}

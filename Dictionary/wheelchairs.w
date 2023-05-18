@@ -1,0 +1,1 @@
+{"index": 364523, "D": "a chair mounted on wheels for use by persons who cannot walk.", "S": [], "A": []}

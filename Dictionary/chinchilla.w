@@ -1,0 +1,1 @@
+{"index": 54578, "D": "a small, South American rodent, Chinchilla laniger, raised for its soft, silvery gray fur", "S": ["bunny ", "hare ", "rodent "], "A": []}

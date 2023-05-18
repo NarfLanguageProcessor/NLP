@@ -1,0 +1,1 @@
+{"index": 328594, "D": "traveled. ", "S": ["carry ", "cross ", "cruise ", "drive ", "fly ", "go ", "migrate ", "move ", "proceed ", "roam ", "sail ", "tour ", "transmit ", "trek ", "vacation ", "visit ", "walk ", "wander "], "A": ["discourage ", "dissuade ", "halt ", "remain ", "stay ", "stop ", "back up ", "ignore "]}

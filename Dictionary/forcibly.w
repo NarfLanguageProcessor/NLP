@@ -1,0 +1,1 @@
+{"index": 116433, "D": "using power or strength, especially violent physical power", "S": ["effectively "], "A": ["weakly "]}

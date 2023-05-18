@@ -1,0 +1,1 @@
+{"index": 35987, "D": "to utter the cry of a sheep, goat, or calf or a sound resembling such a cry.", "S": ["baa ", "blat ", "blather ", "bluster ", "cry ", "fuss ", "gripe ", "whine "], "A": []}

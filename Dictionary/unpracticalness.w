@@ -1,0 +1,1 @@
+{"index": 348240, "D": "not practical;  impractical; lacking practical  usefulness or wisdom.", "S": [], "A": []}

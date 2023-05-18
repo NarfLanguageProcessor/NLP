@@ -1,0 +1,1 @@
+{"index": 78919, "D": "to transform (dolomite or dolomitic limestone) by separating the dolomite  into calcium carbonate and magnesium carbonate.", "S": [], "A": []}

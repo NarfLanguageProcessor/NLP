@@ -1,0 +1,1 @@
+{"index": 323788, "D": "a person who shapes their conduct to conform to the opinions of the time  or of persons in power, especially for selfish ends.", "S": ["carpetbagger "], "A": []}

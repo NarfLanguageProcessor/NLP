@@ -1,0 +1,1 @@
+{"index": 27233, "D": "devoid of freshness or originality; hackneyed; trite", "S": [], "A": []}

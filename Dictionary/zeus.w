@@ -1,0 +1,1 @@
+{"index": 369152, "D": "the supreme deity of the ancient Greeks, a son of Cronus and Rhea, brother of Demeter, Hades, Hera, Hestia, and Poseidon, and father of a number of gods, demigods, and mortals; the god of the heavens, identified by the Romans with Jupiter.", "S": [], "A": []}

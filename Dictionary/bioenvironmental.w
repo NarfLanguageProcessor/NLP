@@ -1,0 +1,1 @@
+{"index": 34352, "D": "pertaining to the environment  of living organisms", "S": [], "A": []}

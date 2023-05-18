@@ -1,0 +1,1 @@
+{"index": 186129, "D": "the embryonic larva of the nematode parasite Filaria or of related genera, especially of those species that cause heartworm in dogs and elephantiasis in humans.", "S": [], "A": []}

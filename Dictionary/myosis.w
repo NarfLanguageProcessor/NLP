@@ -1,0 +1,1 @@
+{"index": 188252, "D": "a variant spelling of miosis", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81616, "D": "to represent by or as if by painting or other visual image; portray; delineate. ", "S": [], "A": []}

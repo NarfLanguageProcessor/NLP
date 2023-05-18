@@ -1,0 +1,1 @@
+{"index": 283268, "D": "the domain of a seigneur.", "S": [], "A": []}

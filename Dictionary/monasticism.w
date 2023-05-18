@@ -1,0 +1,1 @@
+{"index": 191786, "D": "the monastic  system, condition, or mode of life.", "S": [], "A": []}

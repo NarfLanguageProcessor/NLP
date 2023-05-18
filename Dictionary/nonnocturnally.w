@@ -1,0 +1,1 @@
+{"index": 205500, "D": "of or relating to the night (opposed to diurnal).", "S": [], "A": []}

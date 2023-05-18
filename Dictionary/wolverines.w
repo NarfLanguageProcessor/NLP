@@ -1,0 +1,1 @@
+{"index": 366947, "D": "a stocky, carnivorous North American mammal, Gulo luscus, of the weasel family, having blackish, shaggy hair with white markings.", "S": [], "A": []}

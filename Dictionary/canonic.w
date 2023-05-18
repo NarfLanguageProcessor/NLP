@@ -1,0 +1,1 @@
+{"index": 46483, "D": "pertaining to, established by, or conforming to a canon  or canons. ", "S": ["classic ", "humanistic "], "A": ["complicated ", "modern "]}

@@ -1,0 +1,1 @@
+{"index": 295131, "D": "contentedly confident of one's ability, superiority, or correctness; complacent.", "S": ["complacent ", "egotistical ", "pompous ", "self-righteous ", "self-satisfied "], "A": ["humble "]}

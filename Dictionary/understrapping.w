@@ -1,0 +1,1 @@
+{"index": 339917, "D": "a narrow strip of flexible material, especially leather, as for fastening or holding things together.", "S": [], "A": []}

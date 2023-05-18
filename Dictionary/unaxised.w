@@ -1,0 +1,1 @@
+{"index": 335536, "D": "the line about which a rotating body, such as the earth, turns.", "S": [], "A": []}

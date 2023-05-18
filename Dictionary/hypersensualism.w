@@ -1,0 +1,1 @@
+{"index": 140496, "D": "subjection to sensual  appetites; sensuality. ", "S": [], "A": []}

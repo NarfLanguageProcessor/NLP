@@ -1,0 +1,1 @@
+{"index": 214202, "D": "any of several cetaceans, as a grampus.", "S": ["mammal ", "porpoise "], "A": []}

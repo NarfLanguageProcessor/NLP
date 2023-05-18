@@ -1,0 +1,1 @@
+{"index": 338049, "D": "guilty of dishonest practices, as bribery; lacking integrity; crooked", "S": [], "A": []}

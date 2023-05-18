@@ -1,0 +1,1 @@
+{"index": 263988, "D": "(in Christianity) having been saved or delivered from sin or its consequences", "S": ["reclaimed "], "A": []}

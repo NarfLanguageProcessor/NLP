@@ -1,0 +1,1 @@
+{"index": 223743, "D": "the study of antiquities.", "S": [], "A": []}

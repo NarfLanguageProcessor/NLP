@@ -1,0 +1,1 @@
+{"index": 236258, "D": "the outermost end of a pier  or wharf.", "S": [], "A": []}

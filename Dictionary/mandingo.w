@@ -1,0 +1,1 @@
+{"index": 179038, "D": "a member of any of a number of peoples forming an extensive linguistic group in western Africa.", "S": [], "A": []}

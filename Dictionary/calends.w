@@ -1,0 +1,1 @@
+{"index": 45026, "D": "the first day of the month in the ancient Roman calendar, from which the days of the preceding month were counted backward to the ides.", "S": [], "A": []}

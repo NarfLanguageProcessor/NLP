@@ -1,0 +1,1 @@
+{"index": 5313, "D": "relating to or implying affection. ", "S": ["affective ", "heartwarming ", "moving ", "stirring ", "touching "], "A": []}

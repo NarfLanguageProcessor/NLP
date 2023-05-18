@@ -1,0 +1,1 @@
+{"index": 692, "D": "repugnantly hateful; detestable; loathsome", "S": ["awkwardly ", "clumsily ", "poorly "], "A": ["adequately ", "calmly ", "little ", "mildly ", "morally "]}

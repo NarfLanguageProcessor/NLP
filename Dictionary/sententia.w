@@ -1,0 +1,1 @@
+{"index": 285468, "D": "an aphorism; maxim. ", "S": [], "A": []}

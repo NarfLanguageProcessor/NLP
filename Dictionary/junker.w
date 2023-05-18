@@ -1,0 +1,1 @@
+{"index": 162379, "D": "a car that is old, worn out, or in bad enough repair to be scrapped.", "S": ["auto ", "bus ", "convertible ", "limousine ", "passenger car ", "pickup truck ", "sports car ", "station wagon ", "taxi ", "transportation ", "truck ", "van "], "A": []}

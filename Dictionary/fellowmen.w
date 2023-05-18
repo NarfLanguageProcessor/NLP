@@ -1,0 +1,1 @@
+{"index": 111062, "D": "another member of the human race, especially a kindred human being", "S": [], "A": []}

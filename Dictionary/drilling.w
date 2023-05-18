@@ -1,0 +1,1 @@
+{"index": 93104, "D": "the act of a person or thing that drills. ", "S": ["acerbic ", "biting ", "caustic ", "concise ", "mordant ", "penetrating ", "sardonic ", "satirical ", "scathing ", "succinct ", "terse ", "trenchant "], "A": ["calm ", "kind ", "lengthy ", "long-winded ", "mild ", "nice ", "wordy "]}

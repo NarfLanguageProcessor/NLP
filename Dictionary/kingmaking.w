@@ -1,0 +1,1 @@
+{"index": 164910, "D": "a person who has great power and influence in the choice of a ruler, candidate for public office, business leader, or the like.", "S": [], "A": []}

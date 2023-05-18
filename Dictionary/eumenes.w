@@ -1,0 +1,1 @@
+{"index": 105518, "D": "king of Pergamum. 263\u2013241 b.c.", "S": [], "A": []}

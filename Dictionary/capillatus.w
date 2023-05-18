@@ -1,0 +1,1 @@
+{"index": 46876, "D": "(of a cumulonimbus cloud) having a cirriform upper portion that resembles an anvil or a disorderly mass of hair.", "S": [], "A": []}

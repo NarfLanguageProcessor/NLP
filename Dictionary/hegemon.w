@@ -1,0 +1,1 @@
+{"index": 135325, "D": "a person, nation, etc., that has or exercises hegemony.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132450, "D": "a style of cutting, arranging, or combing the hair; hairdo; coiffure. ", "S": ["braid ", "dreadlocks ", "haircut ", "hairdo ", "headdress ", "ponytail "], "A": []}

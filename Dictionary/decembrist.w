@@ -1,0 +1,1 @@
+{"index": 78175, "D": "a participant in the conspiracy and insurrection against Nicholas I on his accession in December, 1825.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89780, "D": "the volatilization or evaporation and subsequent condensation of a liquid, as when water is boiled in a retort and the steam is condensed in a cool receiver.", "S": ["purification "], "A": []}

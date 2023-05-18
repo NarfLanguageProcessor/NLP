@@ -1,0 +1,1 @@
+{"index": 297468, "D": "causing or tending to cause sleep.", "S": ["anesthetic ", "dope ", "hard drug ", "heroin ", "merchandise ", "opiate ", "opium ", "painkiller ", "sedative ", "tranquilizer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71176, "D": "to act or avail against with equal power, force, or effect; counteract.", "S": ["balance ", "counteract ", "counterbalance ", "counterpoise ", "invalidate ", "neutralize ", "nullify ", "undo "], "A": ["approve ", "permit ", "validate "]}

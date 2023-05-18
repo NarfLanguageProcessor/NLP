@@ -1,0 +1,1 @@
+{"index": 277900, "D": "full of or characterized by bloodshed; bloody", "S": ["blood-soaked ", "blood-spattered ", "bloodstained ", "crimson ", "ensanguined ", "gaping ", "gory ", "grisly ", "hematic ", "hemic ", "imbrued ", "open ", "raw ", "sanguine ", "sanguineous ", "unstaunched ", "unstopped ", "wounded "], "A": []}

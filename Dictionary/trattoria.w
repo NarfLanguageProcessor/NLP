@@ -1,0 +1,1 @@
+{"index": 328538, "D": "a usually inexpensive or informal restaurant or cafe specializing in Italian dishes.", "S": [], "A": []}

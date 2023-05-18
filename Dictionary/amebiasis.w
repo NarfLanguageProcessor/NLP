@@ -1,0 +1,1 @@
+{"index": 10188, "D": "infection with Entamoeba histolytica or other pathogenic ameba. ", "S": [], "A": []}

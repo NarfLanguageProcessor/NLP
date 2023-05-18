@@ -1,0 +1,1 @@
+{"index": 297431, "D": "sophisticated  character, ideas, tastes, or ways as the result of education, worldly experience, etc.", "S": ["composure ", "elegance ", "finesse ", "poise ", "refinement ", "tact ", "worldliness "], "A": ["crudeness "]}

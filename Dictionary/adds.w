@@ -1,0 +1,1 @@
+{"index": 3605, "D": "to unite or join so as to increase the number, quantity, size, or importance", "S": ["calculate ", "cast ", "compute ", "count ", "enumerate ", "figure ", "reckon ", "sum ", "summate ", "tally ", "tot ", "total ", "tote "], "A": ["estimate ", "guess ", "subtract "]}

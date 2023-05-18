@@ -1,0 +1,1 @@
+{"index": 164646, "D": "a unit of radioactivity, equal to 1000 curies. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 130191, "D": "a man who attends the bridegroom in a wedding ceremony.", "S": ["bridesman ", "paranymph "], "A": []}

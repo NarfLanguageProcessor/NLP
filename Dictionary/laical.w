@@ -1,0 +1,1 @@
+{"index": 167377, "D": "lay; secular.", "S": ["civil ", "materialistic ", "worldly "], "A": ["mental "]}

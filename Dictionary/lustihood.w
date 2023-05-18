@@ -1,0 +1,1 @@
+{"index": 176413, "D": "lustiness; vigor.", "S": [], "A": []}

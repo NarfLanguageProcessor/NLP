@@ -1,0 +1,1 @@
+{"index": 60500, "D": "a strong, narrow rope, cord, wire, etc., usually stretched between two poles, posts, or buildings, on which clean laundry is hung to dry.", "S": ["best seller ", "book ", "drama ", "fable ", "fantasy ", "imagination ", "legend ", "myth ", "narrative ", "novel ", "tale ", "yarn "], "A": ["nonfiction ", "reality ", "truth "]}

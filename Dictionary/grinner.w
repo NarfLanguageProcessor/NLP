@@ -1,0 +1,1 @@
+{"index": 129950, "D": "to smile broadly, especially as an indication of pleasure, amusement, or the like.", "S": [], "A": []}

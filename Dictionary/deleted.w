@@ -1,0 +1,1 @@
+{"index": 80008, "D": "to strike out or remove (something written or printed); cancel; erase; expunge.", "S": ["absent ", "erased ", "expunged ", "forgotten ", "missing ", "neglected ", "overlooked ", "precluded "], "A": ["present "]}

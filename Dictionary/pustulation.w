@@ -1,0 +1,1 @@
+{"index": 257251, "D": "the formation or breaking out of pustules. ", "S": [], "A": []}

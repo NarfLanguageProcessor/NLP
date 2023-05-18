@@ -1,0 +1,1 @@
+{"index": 90535, "D": "(intr) a variant (now rare) spelling of dote", "S": [], "A": []}

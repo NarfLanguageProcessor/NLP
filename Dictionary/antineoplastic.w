@@ -1,0 +1,1 @@
+{"index": 15670, "D": "destroying, inhibiting, or preventing the growth or spread of neoplasms. ", "S": [], "A": []}

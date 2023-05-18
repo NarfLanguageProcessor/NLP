@@ -1,0 +1,1 @@
+{"index": 226093, "D": "an agent or preparation that destroys parasites. ", "S": [], "A": []}

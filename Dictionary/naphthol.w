@@ -1,0 +1,1 @@
+{"index": 196860, "D": "either of two isomeric hydroxyl derivatives, C10H7OH, of naphthalene (alpha-naphthol,  or 1-naphthol,  and beta-naphthol,  or 2-naphthol ), white or yellowish crystals, with a phenolic odor, that darken on exposure to light", "S": [], "A": []}

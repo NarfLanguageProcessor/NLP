@@ -1,0 +1,1 @@
+{"index": 186800, "D": "pertaining to or producing mydriasis. ", "S": [], "A": []}

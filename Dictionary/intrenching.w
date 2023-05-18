@@ -1,0 +1,1 @@
+{"index": 156708, "D": "entrench. ", "S": ["transgress ", "violate "], "A": ["obey "]}

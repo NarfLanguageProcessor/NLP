@@ -1,0 +1,1 @@
+{"index": 278061, "D": "any plant of the evergreen Mediterranean genus Santolina, esp S. chamaecyparissus, grown for its silvery-grey felted foliage", "S": [], "A": []}

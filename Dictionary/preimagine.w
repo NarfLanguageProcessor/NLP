@@ -1,0 +1,1 @@
+{"index": 247871, "D": "to form a mental image  of (something not actually present to the senses).", "S": [], "A": []}

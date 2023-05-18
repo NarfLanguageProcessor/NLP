@@ -1,0 +1,1 @@
+{"index": 282300, "D": "a short tail, especially that of a hare, rabbit, or deer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27922, "D": "without covering or clothing; naked; nude", "S": ["divulge ", "expose ", "uncover "], "A": ["conceal ", "cover ", "hide "]}

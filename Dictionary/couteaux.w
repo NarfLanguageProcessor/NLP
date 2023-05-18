@@ -1,0 +1,1 @@
+{"index": 71398, "D": "a knife, especially a large double-edged one formerly carried as a weapon.", "S": [], "A": []}

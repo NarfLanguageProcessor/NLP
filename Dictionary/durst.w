@@ -1,0 +1,1 @@
+{"index": 94490, "D": "simple past tense of dare. ", "S": [], "A": []}

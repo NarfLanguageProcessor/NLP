@@ -1,0 +1,1 @@
+{"index": 333160, "D": "any of various orchids, especially of the genera Listera and Liparis, characterized by two nearly opposite broad leaves.", "S": [], "A": []}

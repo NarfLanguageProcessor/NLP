@@ -1,0 +1,1 @@
+{"index": 212718, "D": "having a single part; whole; complete", "S": [], "A": []}

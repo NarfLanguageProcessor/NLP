@@ -1,0 +1,1 @@
+{"index": 335634, "D": "having a specified object or material as its base or foundation or as its primary constituent (often used in combination)", "S": [], "A": []}

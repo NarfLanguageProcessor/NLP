@@ -1,0 +1,1 @@
+{"index": 305200, "D": "a person who cuts or carves stone. ", "S": [], "A": []}

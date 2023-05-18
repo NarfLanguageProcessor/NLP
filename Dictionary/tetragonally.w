@@ -1,0 +1,1 @@
+{"index": 320035, "D": "pertaining to or having the form of a tetragon. ", "S": [], "A": []}

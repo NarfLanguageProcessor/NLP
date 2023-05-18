@@ -1,0 +1,1 @@
+{"index": 125867, "D": "a sword or broadsword.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 170357, "D": "the yellowish, acid fruit of a subtropical citrus tree, Citrus limon.", "S": ["failure ", "flop ", "junk ", "reject "], "A": ["accomplishment ", "achievement ", "success "]}

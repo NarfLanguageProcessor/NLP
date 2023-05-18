@@ -1,0 +1,1 @@
+{"index": 292108, "D": "bent in and out; winding; sinuous. ", "S": ["coast ", "crawl ", "glide ", "glissade ", "move ", "skate ", "skid ", "slink ", "slip ", "snake ", "sneak ", "undulate ", "wriggle "], "A": []}

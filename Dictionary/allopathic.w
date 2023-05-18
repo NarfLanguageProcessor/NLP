@@ -1,0 +1,1 @@
+{"index": 8897, "D": "of, relating to, or used in allopathy", "S": [], "A": []}

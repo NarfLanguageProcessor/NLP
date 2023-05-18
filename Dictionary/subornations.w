@@ -1,0 +1,1 @@
+{"index": 308725, "D": "to bribe or induce (someone) unlawfully or secretly to perform some misdeed or to commit a crime The drug cartel suborned the local police department to turn a blind eye to their trafficking.", "S": [], "A": []}

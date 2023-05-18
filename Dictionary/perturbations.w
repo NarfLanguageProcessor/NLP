@@ -1,0 +1,1 @@
+{"index": 232122, "D": "the act of perturbing. ", "S": ["anxiety ", "commotion ", "confusion ", "disorder ", "disruption ", "disturbance "], "A": ["calm ", "calmness ", "composure ", "method ", "order ", "organization ", "peace ", "quiet ", "system ", "tranquility "]}

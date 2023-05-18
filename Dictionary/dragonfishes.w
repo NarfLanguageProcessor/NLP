@@ -1,0 +1,1 @@
+{"index": 92568, "D": "any marine fish of the family Bathydraconidae, of the Southern Ocean,  having an elongated body and flattened head and being biochemically adapted to extremely low temperatures.", "S": [], "A": []}

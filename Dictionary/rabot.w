@@ -1,0 +1,1 @@
+{"index": 259299, "D": "a hardwood block used for rubbing marble before polishing.", "S": [], "A": []}

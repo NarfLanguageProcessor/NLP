@@ -1,0 +1,1 @@
+{"index": 275000, "D": "a small boat  designed for rowing. ", "S": ["life raft ", "lifeboat ", "skiff "], "A": []}

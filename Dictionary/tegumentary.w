@@ -1,0 +1,1 @@
+{"index": 317899, "D": "a covering or vestment; integument.", "S": [], "A": []}

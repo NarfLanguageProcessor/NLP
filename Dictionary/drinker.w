@@ -1,0 +1,1 @@
+{"index": 93125, "D": "a person who drinks. ", "S": ["alcoholic "], "A": ["abstainer ", "teetotaler "]}

@@ -1,0 +1,1 @@
+{"index": 125563, "D": "the frequency  of rotation of an electron or other charged particle in a magnetic field, directly proportional to the charge of the particle and to the field strength and inversely proportional to the mass of the particle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12143, "D": "African National Congress.", "S": [], "A": []}

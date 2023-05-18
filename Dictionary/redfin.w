@@ -1,0 +1,1 @@
+{"index": 264138, "D": "any of various small freshwater minnows with red fins,  especially a shiner, Notropis umbratilis, of streams in central North America.", "S": [], "A": []}

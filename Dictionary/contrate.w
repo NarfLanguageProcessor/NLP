@@ -1,0 +1,1 @@
+{"index": 67735, "D": "(of a gear) having teeth at right angles to the plane of rotation.", "S": [], "A": []}

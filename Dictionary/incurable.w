@@ -1,0 +1,1 @@
+{"index": 150592, "D": "not curable; that cannot be cured, remedied, or corrected", "S": ["deadly ", "fatal ", "hopeless ", "inoperable "], "A": ["healthful ", "wholesome "]}

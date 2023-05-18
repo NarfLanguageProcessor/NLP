@@ -1,0 +1,1 @@
+{"index": 167656, "D": "having a beak equipped with thin plates or lamellae for straining water and mud from food, as the ducks, geese, swans, and flamingos.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 267343, "D": "the act of remitting.", "S": ["absolution ", "amnesty ", "exemption ", "exoneration ", "forgiveness ", "reprieve "], "A": ["hold "]}

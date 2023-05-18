@@ -1,0 +1,1 @@
+{"index": 228926, "D": "(in classical architecture) a low gable, typically triangular with a horizontal cornice and raking cornices, surmounting a colonnade, an end wall, or a major division of a fa\u00e7ade.", "S": ["basement ", "bed ", "floor ", "ground ", "seat ", "underside "], "A": ["ceiling ", "top "]}

@@ -1,0 +1,1 @@
+{"index": 134308, "D": "to pull or draw with force; move by drawing; drag", "S": ["lifted "], "A": ["kept "]}

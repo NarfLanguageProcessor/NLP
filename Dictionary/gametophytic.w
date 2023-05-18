@@ -1,0 +1,1 @@
+{"index": 121722, "D": "the sexual form of a plant in the alternation of generations.", "S": [], "A": []}

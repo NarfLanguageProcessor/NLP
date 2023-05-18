@@ -1,0 +1,1 @@
+{"index": 318195, "D": "an instrument for measuring the amount of light emanating from a distant object.", "S": [], "A": []}

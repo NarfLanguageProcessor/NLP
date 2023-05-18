@@ -1,0 +1,1 @@
+{"index": 49391, "D": "inflammation of a mucous membrane, especially of the respiratory tract, accompanied by excessive secretions.", "S": ["acute rhinitis ", "acute viral nasopharyngitis ", "cold ", "coryza "], "A": []}

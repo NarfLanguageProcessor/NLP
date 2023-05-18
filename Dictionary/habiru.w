@@ -1,0 +1,1 @@
+{"index": 131770, "D": "a nomadic people mentioned in Assyro-Babylonian literature", "S": [], "A": []}

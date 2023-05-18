@@ -1,0 +1,1 @@
+{"index": 158233, "D": "insusceptible to reforming influences; incorrigible.", "S": [], "A": []}

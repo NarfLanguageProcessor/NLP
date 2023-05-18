@@ -1,0 +1,1 @@
+{"index": 228619, "D": "a pigmented vascular membrane with parallel folds suggesting the teeth of a comb, projecting into the vitreous humor of the eye in birds and reptiles.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201140, "D": "capable of being administered", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126128, "D": "open delight or pleasure; exultant joy; exultation.", "S": ["delight ", "elation ", "exhilaration ", "exuberance ", "joy ", "pleasure ", "verve "], "A": ["depression ", "discouragement ", "melancholy ", "pain ", "sadness ", "sorrow ", "trouble ", "unhappiness ", "worry ", "gloom ", "misery ", "woe "]}

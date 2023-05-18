@@ -1,0 +1,1 @@
+{"index": 245565, "D": "of or relating to preadolescence or a preadolescent.", "S": [], "A": []}

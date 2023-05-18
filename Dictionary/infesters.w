@@ -1,0 +1,1 @@
+{"index": 151963, "D": "to live in or overrun to an unwanted degree or in a troublesome manner, especially as predatory animals or vermin do", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 102199, "D": "of or relating to an organism that lives, usually parasitically, both on the surface and within the body of its host.", "S": [], "A": []}

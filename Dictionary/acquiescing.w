@@ -1,0 +1,1 @@
+{"index": 2732, "D": "to assent tacitly; submit or comply silently or without protest; agree; consent", "S": ["assentive ", "nonresistant ", "resigned ", "submissive ", "unresistant ", "yielding "], "A": []}

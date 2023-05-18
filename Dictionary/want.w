@@ -1,0 +1,1 @@
+{"index": 362461, "D": "to feel a need or a desire for; wish for", "S": ["need ", "wish "], "A": ["dislike ", "distaste ", "hate ", "hatred ", "indifference "]}

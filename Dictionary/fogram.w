@@ -1,0 +1,1 @@
+{"index": 115792, "D": "an old-fashioned or overly conservative person; fogy.", "S": [], "A": []}

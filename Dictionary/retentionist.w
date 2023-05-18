@@ -1,0 +1,1 @@
+{"index": 270370, "D": "a person who advocates the retention of something, esp capital punishment", "S": [], "A": []}

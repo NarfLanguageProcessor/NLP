@@ -1,0 +1,1 @@
+{"index": 315003, "D": "a black, glassy form of basalt, readily fusible and of a high luster.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 131382, "D": "a person armed with or expert in the use of a gun,  especially one ready to use a gun  unlawfully.", "S": [], "A": []}

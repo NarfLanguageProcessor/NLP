@@ -1,0 +1,1 @@
+{"index": 70962, "D": "seeking out a situation that one fears in an attempt to overcome the fear.", "S": [], "A": []}

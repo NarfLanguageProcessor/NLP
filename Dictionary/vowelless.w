@@ -1,0 +1,1 @@
+{"index": 361468, "D": "(in linguistic function) a concept empirically determined as a phonological element in structural contrast with consonant, as the (\u0113) of be (b\u0113), we (w\u0113), and yeast (y\u0113st).", "S": [], "A": []}

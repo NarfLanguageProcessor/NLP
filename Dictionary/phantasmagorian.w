@@ -1,0 +1,1 @@
+{"index": 232965, "D": "a shifting series of phantasms, illusions, or deceptive appearances, as in a dream or as created by the imagination.", "S": [], "A": []}

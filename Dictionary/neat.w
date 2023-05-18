@@ -1,0 +1,1 @@
+{"index": 197626, "D": "in a pleasingly orderly and clean condition", "S": ["accurate ", "elegant ", "immaculate ", "orderly ", "precise ", "sleek ", "slick ", "smart ", "spotless ", "tidy ", "well-kept "], "A": ["careless ", "dirty ", "disorganized ", "rough ", "unfashionable ", "untidy "]}

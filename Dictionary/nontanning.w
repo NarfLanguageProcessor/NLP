@@ -1,0 +1,1 @@
+{"index": 207759, "D": "the process or art of converting hides or skins into leather.", "S": [], "A": []}

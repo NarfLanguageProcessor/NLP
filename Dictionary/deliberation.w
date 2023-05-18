@@ -1,0 +1,1 @@
+{"index": 80042, "D": "careful consideration before decision.", "S": ["conference ", "consideration ", "consultation ", "debate ", "speculation "], "A": ["carelessness ", "disregard ", "heedlessness ", "ignorance ", "imprudence ", "inattention ", "neglect ", "negligence ", "praise ", "thoughtlessness "]}

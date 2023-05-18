@@ -1,0 +1,1 @@
+{"index": 340109, "D": "one of the hind wings  of an insect.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139342, "D": "a self-recording hygrometer.", "S": [], "A": []}

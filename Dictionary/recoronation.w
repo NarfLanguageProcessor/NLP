@@ -1,0 +1,1 @@
+{"index": 263510, "D": "the act or ceremony of crowning a king, queen, or other sovereign.", "S": [], "A": []}

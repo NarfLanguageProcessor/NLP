@@ -1,0 +1,1 @@
+{"index": 116277, "D": "articles to be worn  on the feet,  as shoes, slippers, or boots.", "S": ["brogan ", "galoshes ", "oxford ", "waders ", "waters "], "A": []}

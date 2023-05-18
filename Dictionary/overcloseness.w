@@ -1,0 +1,1 @@
+{"index": 218619, "D": "nearness in space or time", "S": [], "A": []}

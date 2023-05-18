@@ -1,0 +1,1 @@
+{"index": 324455, "D": "to exercise absolute power or control, especially cruelly or oppressively (often followed by over).", "S": ["destitute ", "distressed ", "exploited ", "needy ", "oppressed ", "persecuted "], "A": ["rich ", "wealthy "]}

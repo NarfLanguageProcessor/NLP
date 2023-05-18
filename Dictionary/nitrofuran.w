@@ -1,0 +1,1 @@
+{"index": 200407, "D": "Any of several drugs derived from furan that are used to inhibit bacterial growth.", "S": [], "A": []}

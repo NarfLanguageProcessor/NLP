@@ -1,0 +1,1 @@
+{"index": 78166, "D": "the fact of losing speed, or the act of reducing the speed of something", "S": ["decline ", "delay ", "downtrend ", "downturn ", "drop ", "drop-off ", "falloff ", "slackening ", "stagnation ", "strike "], "A": ["increase ", "rise "]}

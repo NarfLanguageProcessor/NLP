@@ -1,0 +1,1 @@
+{"index": 106051, "D": "the process of transferring moisture from the earth to the atmosphere by evaporation  of water and transpiration  from plants.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262404, "D": "something that holds parts together or in place, as a clasp or clamp.", "S": [], "A": []}

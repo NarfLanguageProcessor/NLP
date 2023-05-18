@@ -1,0 +1,1 @@
+{"index": 203379, "D": "the act of effusing or pouring forth.", "S": [], "A": []}

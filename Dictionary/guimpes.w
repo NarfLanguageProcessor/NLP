@@ -1,0 +1,1 @@
+{"index": 131115, "D": "a chemisette or yoke of lace, embroidery, or other material, worn with a dress cut low at the neck.", "S": [], "A": []}

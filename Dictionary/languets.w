@@ -1,0 +1,1 @@
+{"index": 168128, "D": "any of various small tongue-shaped parts, processes, or projections.", "S": [], "A": []}

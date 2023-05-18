@@ -1,0 +1,1 @@
+{"index": 199935, "D": "a loose gown,  worn in bed by women or children.", "S": ["lingerie ", "pajamas "], "A": []}

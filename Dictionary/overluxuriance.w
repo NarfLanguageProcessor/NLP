@@ -1,0 +1,1 @@
+{"index": 220162, "D": "luxuriant  growth or productiveness; rich abundance; lushness.", "S": [], "A": []}

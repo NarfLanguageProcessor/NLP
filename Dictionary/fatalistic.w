@@ -1,0 +1,1 @@
+{"index": 110235, "D": "demonstrating a belief that all events are inevitable, so one\u2019s choices and actions make no difference", "S": ["bleak ", "depressed ", "despondent ", "discouraged ", "gloomy ", "glum ", "sad "], "A": ["bright ", "cheerful ", "encouraged ", "encouraging ", "happy ", "joyful ", "sunny "]}

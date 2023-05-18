@@ -1,0 +1,1 @@
+{"index": 292511, "D": "a jump in which the dancer lands on one foot, with the other extended to the back, front, or side.", "S": [], "A": []}

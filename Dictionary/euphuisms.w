@@ -1,0 +1,1 @@
+{"index": 105679, "D": "Compare Euphues. ", "S": ["Gongorism ", "bombast ", "delicacy ", "floridness ", "fustian ", "grandiloquence ", "pomposity ", "purism ", "rhetoric ", "wordiness "], "A": ["conciseness "]}

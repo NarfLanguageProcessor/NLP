@@ -1,0 +1,1 @@
+{"index": 41288, "D": "a condition due to excessive use of bromides  and characterized by skin eruptions.", "S": [], "A": []}

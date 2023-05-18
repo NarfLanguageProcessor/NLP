@@ -1,0 +1,1 @@
+{"index": 338970, "D": "to charge  (a purchaser) less than the proper or fair price.", "S": ["cheapen "], "A": ["add ", "build up ", "reinforce ", "strengthen "]}

@@ -1,0 +1,1 @@
+{"index": 318427, "D": "the final stage of meiosis or mitosis, in which the separated chromosomes reach the opposite poles of the dividing cell and the nuclei of the daughter cells form around the two sets of chromosomes.", "S": [], "A": []}

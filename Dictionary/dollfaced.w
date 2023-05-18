@@ -1,0 +1,1 @@
+{"index": 91153, "D": "a person having a smooth, unblemished complexion and small, regular features.", "S": [], "A": []}

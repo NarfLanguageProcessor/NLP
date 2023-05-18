@@ -1,0 +1,1 @@
+{"index": 87116, "D": "to dissociate. ", "S": ["alienation ", "disaffection ", "disunity ", "hostility ", "schism ", "separation "], "A": ["friendliness ", "connection ", "introduction ", "juncture ", "marriage "]}

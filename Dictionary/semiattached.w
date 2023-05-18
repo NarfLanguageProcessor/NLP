@@ -1,0 +1,1 @@
+{"index": 283784, "D": "partially attached; semidetached. ", "S": [], "A": []}

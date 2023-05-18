@@ -1,0 +1,1 @@
+{"index": 203118, "D": "in a way that relates to or makes use of diplomacy,  or negotiations and other relations between nations", "S": [], "A": []}

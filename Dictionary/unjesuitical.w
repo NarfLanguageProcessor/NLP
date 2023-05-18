@@ -1,0 +1,1 @@
+{"index": 345189, "D": "of or relating to Jesuits  or Jesuitism.", "S": [], "A": []}

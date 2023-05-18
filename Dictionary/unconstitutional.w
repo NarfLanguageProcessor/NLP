@@ -1,0 +1,1 @@
+{"index": 337747, "D": "not constitutional;  unauthorized by or inconsistent with the constitution, as of a country.", "S": ["illegitimate ", "unlawful ", "wrongful "], "A": ["authorized ", "ethical ", "legal "]}

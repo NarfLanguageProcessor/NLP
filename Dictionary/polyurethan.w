@@ -1,0 +1,1 @@
+{"index": 242620, "D": "a thermoplastic polymer containing the group NHCOO", "S": [], "A": []}

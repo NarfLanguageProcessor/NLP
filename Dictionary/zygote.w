@@ -1,0 +1,1 @@
+{"index": 369292, "D": "the cell produced by the union of two gametes, before it undergoes cleavage.", "S": [], "A": []}

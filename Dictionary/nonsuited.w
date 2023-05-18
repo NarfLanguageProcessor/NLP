@@ -1,0 +1,1 @@
+{"index": 207675, "D": "a judgment given against a plaintiff who neglects to prosecute, or who fails to show a legal cause of action or to bring sufficient evidence.", "S": [], "A": []}

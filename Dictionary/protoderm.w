@@ -1,0 +1,1 @@
+{"index": 253653, "D": "a thin outer layer of the meristem in embryos and growing points of roots and stems, which gives rise to the epidermis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 157781, "D": "the condition of being young.", "S": [], "A": []}

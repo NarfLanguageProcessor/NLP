@@ -1,0 +1,1 @@
+{"index": 295878, "D": "treated with disdain or contempt, especially by being ignored", "S": ["boycott ", "disregard ", "humiliate ", "ignore ", "neglect ", "ostracize ", "pass up ", "rebuff ", "scold ", "scorn ", "shun "], "A": ["note ", "pay attention ", "praise ", "regard ", "welcome ", "approve ", "compliment ", "flatter ", "heat ", "respect ", "warm "]}

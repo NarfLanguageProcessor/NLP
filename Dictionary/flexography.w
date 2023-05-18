@@ -1,0 +1,1 @@
+{"index": 114507, "D": "a relief printing technique similar to letterpress that employs rubber or soft plastic plates, a simple inking system, and fast-drying inks.", "S": [], "A": []}

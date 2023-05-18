@@ -1,0 +1,1 @@
+{"index": 145872, "D": "to deviate temporarily from a straight course, as a ship.", "S": ["bank ", "curve ", "deviate ", "slue ", "swerve ", "turn ", "veer ", "weave ", "zigzag "], "A": ["stay ", "straighten "]}

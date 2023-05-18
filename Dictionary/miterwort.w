@@ -1,0 +1,1 @@
+{"index": 190478, "D": "any of several plants belonging to the genus Mitella, of the saxifrage family, having a capsule that resembles a bishop's miter. ", "S": [], "A": []}

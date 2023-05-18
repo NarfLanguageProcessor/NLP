@@ -1,0 +1,1 @@
+{"index": 213887, "D": "characterized by or exhibiting opulence", "S": ["sumptuously "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72803, "D": "(no longer in technical use) a person with cretinism. ", "S": ["fool ", "idiot ", "imbecile ", "moron "], "A": ["brain ", "genius "]}

@@ -1,0 +1,1 @@
+{"index": 317231, "D": "(of finery, trappings, etc.) gaudy; showy and cheap.", "S": ["aloud ", "emphatically ", "noisily ", "powerfully ", "vehemently ", "vociferously "], "A": ["inaudibly ", "quietly ", "silently "]}

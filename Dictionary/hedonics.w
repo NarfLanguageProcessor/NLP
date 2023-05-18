@@ -1,0 +1,1 @@
+{"index": 135240, "D": "the branch of psychology that deals with pleasurable and unpleasurable states of consciousness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283981, "D": "disposed to preserve existing conditions, institutions, etc., or to restore traditional ones, and to limit change.", "S": [], "A": []}

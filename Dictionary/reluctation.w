@@ -1,0 +1,1 @@
+{"index": 267062, "D": "to show reluctance.", "S": [], "A": []}

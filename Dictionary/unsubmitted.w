@@ -1,0 +1,1 @@
+{"index": 352259, "D": "presented, sent, or handed in for the consideration, decision, or approval of others, as an application, proposal, report, etc.", "S": [], "A": []}

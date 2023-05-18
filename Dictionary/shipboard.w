@@ -1,0 +1,1 @@
+{"index": 288404, "D": "the situation of being on a ship.", "S": [], "A": []}

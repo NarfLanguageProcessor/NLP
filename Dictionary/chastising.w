@@ -1,0 +1,1 @@
+{"index": 53072, "D": "to discipline, especially by corporal punishment.", "S": ["berate ", "castigate ", "censure ", "flog ", "lash ", "punish ", "upbraid "], "A": ["compliment ", "laud ", "praise ", "aid ", "assist ", "guard ", "help ", "lose ", "protect ", "surrender "]}

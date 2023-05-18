@@ -1,0 +1,1 @@
+{"index": 2346, "D": "freedom from color.", "S": [], "A": []}

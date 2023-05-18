@@ -1,0 +1,1 @@
+{"index": 193561, "D": "the study of the classification, description, and functions of morphemes;  morphology.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109443, "D": "a sharp curved claw, esp of a bird", "S": [], "A": []}

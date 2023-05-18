@@ -1,0 +1,1 @@
+{"index": 69379, "D": "a horn containing food, drink, etc., in endless supply, said to have been a horn of the goat Amalthaea.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 101207, "D": "an arrangement or understanding between two or more nations agreeing to follow a particular policy with regard to affairs of international concern.", "S": ["accord ", "arrangement ", "deal ", "pact ", "settlement ", "treaty ", "understanding "], "A": ["disagreement ", "misunderstanding "]}

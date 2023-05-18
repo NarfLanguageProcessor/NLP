@@ -1,0 +1,1 @@
+{"index": 207102, "D": "division into segments.", "S": [], "A": []}

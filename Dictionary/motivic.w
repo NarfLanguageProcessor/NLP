@@ -1,0 +1,1 @@
+{"index": 194011, "D": "of or relating to a motif.", "S": [], "A": []}

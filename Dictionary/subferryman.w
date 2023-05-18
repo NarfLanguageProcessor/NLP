@@ -1,0 +1,1 @@
+{"index": 307977, "D": "a person who owns or operates a ferry. ", "S": [], "A": []}

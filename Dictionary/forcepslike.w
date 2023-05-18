@@ -1,0 +1,1 @@
+{"index": 116420, "D": "an instrument, as pincers or tongs, for seizing and holding objects, as in surgical operations.", "S": [], "A": []}

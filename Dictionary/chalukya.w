@@ -1,0 +1,1 @@
+{"index": 52218, "D": "a dynasty of central India, ruling a.d. c500\u2013753, and restored a.d. 973\u20131190.", "S": [], "A": []}

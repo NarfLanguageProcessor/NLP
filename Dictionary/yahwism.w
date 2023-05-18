@@ -1,0 +1,1 @@
+{"index": 145544, "D": "the worship of Yahweh  or the religious system based on such worship.", "S": [], "A": []}

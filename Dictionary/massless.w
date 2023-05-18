@@ -1,0 +1,1 @@
+{"index": 180815, "D": "pertaining to an elementary particle having zero rest mass,  as a photon.", "S": [], "A": []}

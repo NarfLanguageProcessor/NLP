@@ -1,0 +1,1 @@
+{"index": 162387, "D": "a person who goes on junkets, especially regularly or habitually", "S": [], "A": []}

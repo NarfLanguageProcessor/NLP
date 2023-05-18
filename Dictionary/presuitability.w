@@ -1,0 +1,1 @@
+{"index": 249737, "D": "the state or quality of being satisfactory or in accord with what is desired or called for; appropriateness", "S": [], "A": []}

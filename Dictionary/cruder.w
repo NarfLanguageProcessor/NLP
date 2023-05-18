@@ -1,0 +1,1 @@
+{"index": 74117, "D": "in a raw or unprepared state; unrefined or natural", "S": ["boorish ", "cheap ", "clumsy ", "coarse ", "crass ", "indecent ", "lewd ", "obscene ", "rude ", "savage "], "A": ["decent ", "delicate ", "kind ", "moral ", "nice ", "polite ", "refined ", "smooth ", "sophisticated "]}

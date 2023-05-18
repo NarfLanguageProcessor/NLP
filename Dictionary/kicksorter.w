@@ -1,0 +1,1 @@
+{"index": 164442, "D": "a multichannel pulse-height analyser used esp to distinguish between isotopes by sorting their characteristic pulses (kicks)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 350157, "D": "to search thoroughly or actively through (a place, receptacle, etc.), especially by moving around, turning over, or looking through contents.", "S": [], "A": []}

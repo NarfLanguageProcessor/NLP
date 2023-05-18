@@ -1,0 +1,1 @@
+{"index": 6639, "D": "the principle of noninjury to living beings.", "S": [], "A": []}

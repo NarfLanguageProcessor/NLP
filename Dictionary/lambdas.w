@@ -1,0 +1,1 @@
+{"index": 167577, "D": "the 11th letter of the Greek alphabet (\u039b, \u03bb).", "S": [], "A": []}

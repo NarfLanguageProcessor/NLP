@@ -1,0 +1,1 @@
+{"index": 90155, "D": "Compare ditto mark. ", "S": ["clone ", "copy ", "double ", "duplicate ", "facsimile ", "reproduction "], "A": ["original "]}

@@ -1,0 +1,1 @@
+{"index": 285073, "D": "an authority on Semitic languages, literature, etc.", "S": [], "A": []}

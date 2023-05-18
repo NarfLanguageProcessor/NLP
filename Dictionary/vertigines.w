@@ -1,0 +1,1 @@
+{"index": 358905, "D": "a dizzying sensation of tilting within stable surroundings or of being in tilting or spinning surroundings.", "S": [], "A": []}

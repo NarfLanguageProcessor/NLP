@@ -1,0 +1,1 @@
+{"index": 210603, "D": "the side of a coin, medal, flag, etc., that bears the principal design (opposed to reverse).", "S": ["complement ", "counterpart ", "face ", "front "], "A": ["back ", "rear "]}

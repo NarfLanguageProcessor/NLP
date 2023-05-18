@@ -1,0 +1,1 @@
+{"index": 162929, "D": "any North American evergreen shrub belonging to the genus Kalmia, of the heath family, having showy flowers, as the mountain laurel.", "S": [], "A": []}

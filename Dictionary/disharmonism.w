@@ -1,0 +1,1 @@
+{"index": 88232, "D": "to make or be inharmonious.", "S": ["clash ", "discrepancy ", "disparity ", "divergence ", "inconsistency "], "A": ["agreement ", "consistency ", "harmony ", "sameness ", "similarity ", "compatibility "]}

@@ -1,0 +1,1 @@
+{"index": 142075, "D": "something intended to deceive or defraud", "S": ["chicanery ", "deception ", "fraud ", "scam ", "swindle ", "trickery "], "A": ["honesty ", "truthfulness ", "frankness ", "openness ", "reality ", "truth "]}

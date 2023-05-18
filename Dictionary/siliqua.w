@@ -1,0 +1,1 @@
+{"index": 290388, "D": "a silver coin of the later Roman Empire, the 24th part of a solidus, first issued by Constantine.", "S": [], "A": []}

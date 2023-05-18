@@ -1,0 +1,1 @@
+{"index": 97425, "D": "Compare deictic (def. 1)", "S": [], "A": []}

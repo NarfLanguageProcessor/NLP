@@ -1,0 +1,1 @@
+{"index": 324197, "D": "a machine for writing mechanically in letters and characters like those produced by printers' types. ", "S": [], "A": []}

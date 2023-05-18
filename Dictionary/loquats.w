@@ -1,0 +1,1 @@
+{"index": 175224, "D": "a small evergreen tree, Eriobotrya japonica, native to China and Japan, cultivated as an ornamental and for its yellow, plumlike fruit.", "S": [], "A": []}

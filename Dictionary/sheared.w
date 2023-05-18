@@ -1,0 +1,1 @@
+{"index": 287694, "D": "shaped or completed by or as if by shearing. ", "S": ["mow ", "prune ", "shave ", "snip ", "trim "], "A": []}

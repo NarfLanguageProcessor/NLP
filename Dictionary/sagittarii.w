@@ -1,0 +1,1 @@
+{"index": 276691, "D": "the Archer, a zodiacal constellation between Scorpius and Capricorn.", "S": [], "A": []}

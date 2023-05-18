@@ -1,0 +1,1 @@
+{"index": 59735, "D": "having cleistothecia.", "S": [], "A": []}

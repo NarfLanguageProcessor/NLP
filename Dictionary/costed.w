@@ -1,0 +1,1 @@
+{"index": 70177, "D": "the price paid to acquire, produce, accomplish, or maintain anything", "S": ["bring in ", "come to ", "require ", "sell for ", "take ", "yield "], "A": ["disallow ", "lose ", "refuse ", "reject "]}

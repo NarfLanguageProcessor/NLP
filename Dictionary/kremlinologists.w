@@ -1,0 +1,1 @@
+{"index": 166272, "D": "the study of the government of the former Soviet Union, especially the study of those factors governing its foreign affairs.", "S": [], "A": []}

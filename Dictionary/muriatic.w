@@ -1,0 +1,1 @@
+{"index": 195702, "D": "(not in scientific use) of or derived from muriatic acid.", "S": [], "A": []}

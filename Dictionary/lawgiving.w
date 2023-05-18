@@ -1,0 +1,1 @@
+{"index": 169347, "D": "a person who promulgates a law or a code of laws.", "S": ["congressional ", "parliamentary ", "senatorial "], "A": []}

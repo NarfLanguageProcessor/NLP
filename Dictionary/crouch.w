@@ -1,0 +1,1 @@
+{"index": 73944, "D": "to stoop or bend low.", "S": ["bend ", "cower ", "grovel ", "huddle ", "hunch ", "kneel ", "squat ", "stoop ", "wince "], "A": ["straighten ", "face ", "meet "]}

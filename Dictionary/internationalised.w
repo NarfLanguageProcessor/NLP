@@ -1,0 +1,1 @@
+{"index": 155466, "D": "to make international,  as in scope or character", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176665, "D": "a variant spelling of Makassar", "S": [], "A": []}

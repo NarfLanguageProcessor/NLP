@@ -1,0 +1,1 @@
+{"index": 281879, "D": "a room, as in a monastery, library, or other institution, where manuscripts are stored, read, or copied.", "S": [], "A": []}

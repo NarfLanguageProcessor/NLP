@@ -1,0 +1,1 @@
+{"index": 327567, "D": "a cold wind from the north or northeast that blows in the western Mediterranean.", "S": [], "A": []}

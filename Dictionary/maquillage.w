@@ -1,0 +1,1 @@
+{"index": 179759, "D": "makeup (defs. 1, 2, 5). ", "S": ["lipstick ", "paint "], "A": []}

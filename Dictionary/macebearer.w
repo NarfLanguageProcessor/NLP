@@ -1,0 +1,1 @@
+{"index": 176690, "D": "an official, as of a city or legislative body, who carries a ceremonial mace  before dignitaries.", "S": [], "A": []}

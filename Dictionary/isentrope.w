@@ -1,0 +1,1 @@
+{"index": 158641, "D": "a line on a map or chart joining points having equal entropy.", "S": [], "A": []}

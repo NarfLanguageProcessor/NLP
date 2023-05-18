@@ -1,0 +1,1 @@
+{"index": 28144, "D": "a building for storing hay, grain, etc., and often for housing livestock.", "S": [], "A": []}

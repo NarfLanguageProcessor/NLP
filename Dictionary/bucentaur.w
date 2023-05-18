@@ -1,0 +1,1 @@
+{"index": 42002, "D": "the state barge of Venice from which the doge and other officials dropped a ring into the sea on Ascension Day to symbolize the ceremonial marriage of the state with the Adriatic", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19971, "D": "any hold in which a wrestler's arm  is rendered immobile, often by the opponent twisting the arm. ", "S": [], "A": []}

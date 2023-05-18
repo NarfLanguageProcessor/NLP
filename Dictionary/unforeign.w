@@ -1,0 +1,1 @@
+{"index": 342517, "D": "of, relating to, or derived from another country or nation; not native", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228436, "D": "the edible fruit, typically rounded but elongated and growing smaller toward the stem, of a tree, Pyrus communis, of the rose family. ", "S": [], "A": []}

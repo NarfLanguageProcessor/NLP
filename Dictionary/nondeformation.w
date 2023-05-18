@@ -1,0 +1,1 @@
+{"index": 202813, "D": "the act of deforming;  distortion; disfigurement.", "S": [], "A": []}

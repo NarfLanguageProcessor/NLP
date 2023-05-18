@@ -1,0 +1,1 @@
+{"index": 71448, "D": "a continuous control variable that is observed rather than manipulated but can affect the outcome of an experiment or study", "S": [], "A": []}

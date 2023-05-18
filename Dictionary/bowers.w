@@ -1,0 +1,1 @@
+{"index": 39173, "D": "U.S. diplomat and historian.", "S": ["alcove ", "arbor ", "gazebo ", "grove ", "thicket "], "A": []}

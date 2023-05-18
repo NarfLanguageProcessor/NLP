@@ -1,0 +1,1 @@
+{"index": 100503, "D": "to swallow up in or as in a gulf; submerge", "S": ["bury ", "consume ", "encompass ", "envelop ", "flood ", "immerse ", "inundate ", "overrun ", "overwhelm ", "plunge ", "submerge ", "swamp "], "A": ["dry ", "neglect ", "uncover ", "underwhelm "]}

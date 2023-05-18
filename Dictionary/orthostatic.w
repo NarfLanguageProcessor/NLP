@@ -1,0 +1,1 @@
+{"index": 215165, "D": "relating to or caused by erect posture.", "S": [], "A": []}

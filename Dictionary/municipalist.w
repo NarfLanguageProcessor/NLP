@@ -1,0 +1,1 @@
+{"index": 195580, "D": "the principle or system of home rule by a municipality.", "S": [], "A": []}

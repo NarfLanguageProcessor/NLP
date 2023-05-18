@@ -1,0 +1,1 @@
+{"index": 43566, "D": "any person who adopts a masculine appearance, manner, or persona.", "S": ["manly ", "masculine "], "A": ["feminine ", "womanish ", "womanlike ", "womanly "]}

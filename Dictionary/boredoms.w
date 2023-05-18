@@ -1,0 +1,1 @@
+{"index": 38410, "D": "the state of being bored;  the feeling of being wearied by dullness, tedious repetition, etc.", "S": ["apathy ", "disgust ", "ennui ", "fatigue ", "indifference ", "lethargy ", "monotony ", "tedium "], "A": ["concern ", "energy ", "excitement ", "feeling ", "interest ", "liveliness ", "sympathy ", "vigor "]}

@@ -1,0 +1,1 @@
+{"index": 235043, "D": "a machine for setting type photographically.", "S": [], "A": []}

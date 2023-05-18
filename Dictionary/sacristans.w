@@ -1,0 +1,1 @@
+{"index": 276393, "D": "an official in charge of the sacred vessels, vestments, etc., of a church or a religious house.", "S": [], "A": []}

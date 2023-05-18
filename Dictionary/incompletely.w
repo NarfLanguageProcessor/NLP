@@ -1,0 +1,1 @@
+{"index": 150123, "D": "not complete; lacking some part.", "S": ["faultily ", "inadequately ", "not completely ", "not entirely "], "A": []}

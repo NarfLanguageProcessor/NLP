@@ -1,0 +1,1 @@
+{"index": 317159, "D": "(of a phrase) needlessly repetitive without adding information or clarity", "S": [], "A": []}

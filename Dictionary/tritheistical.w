@@ -1,0 +1,1 @@
+{"index": 330700, "D": "belief in three Gods, especially in the doctrine that the three persons of the Trinity (Father, Son, and Holy Ghost) are three distinct Gods, each an independent center of consciousness and determination.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192418, "D": "a series of letters or figures to identify goods, personal articles, etc", "S": [], "A": []}

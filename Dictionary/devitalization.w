@@ -1,0 +1,1 @@
+{"index": 83612, "D": "to deprive of vitality or vital properties; make lifeless; weaken.", "S": ["depletion ", "enervation ", "enfeeblement ", "exhaustion "], "A": []}

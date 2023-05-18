@@ -1,0 +1,1 @@
+{"index": 285242, "D": "a member of the largest tribe of the Iroquois Confederacy of North American Indians, formerly inhabiting western New York and being conspicuous in the wars south and west of Lake Erie.", "S": [], "A": []}

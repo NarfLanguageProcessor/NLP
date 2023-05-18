@@ -1,0 +1,1 @@
+{"index": 18377, "D": "a city in W Romania, on the Mures River.", "S": [], "A": []}

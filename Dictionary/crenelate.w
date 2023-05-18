@@ -1,0 +1,1 @@
+{"index": 72626, "D": "to furnish with crenels  or battlements.", "S": ["chisel ", "cleave ", "crimp ", "cut ", "dent ", "gash ", "incise ", "jag ", "mark ", "mill ", "nick ", "scallop ", "score ", "scratch "], "A": ["mend ", "smooth "]}

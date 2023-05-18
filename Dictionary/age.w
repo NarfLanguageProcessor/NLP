@@ -1,0 +1,1 @@
+{"index": 5969, "D": "the length of time during which a being or thing has existed; length of life or existence to the time spoken of or referred to", "S": ["life ", "maturity ", "old age ", "youth "], "A": ["childhood ", "youth ", "adolescence ", "infancy "]}

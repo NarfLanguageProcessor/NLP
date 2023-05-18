@@ -1,0 +1,1 @@
+{"index": 91739, "D": "toward the back or dorsum; dorsally.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40439, "D": "radiation emitted by a charged particle when accelerating, as x-rays emitted by an electron that is scattered by a nucleus.", "S": [], "A": []}

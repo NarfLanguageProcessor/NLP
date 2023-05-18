@@ -1,0 +1,1 @@
+{"index": 319191, "D": "idols or images reverenced by the ancient Hebrews and kindred peoples, apparently as household gods.", "S": [], "A": []}

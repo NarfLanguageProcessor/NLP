@@ -1,0 +1,1 @@
+{"index": 320472, "D": "a hereditary form of anemia, occurring chiefly in people of Mediterranean origin, marked by the abnormal synthesis of hemoglobin and a consequent shortened life span of red blood cells.", "S": [], "A": []}

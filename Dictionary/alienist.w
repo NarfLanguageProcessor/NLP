@@ -1,0 +1,1 @@
+{"index": 8233, "D": "(formerly) a doctor specializing in the treatment of mental illness.", "S": [], "A": []}

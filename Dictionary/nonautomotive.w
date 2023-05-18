@@ -1,0 +1,1 @@
+{"index": 201589, "D": "pertaining to the design, operation, manufacture, or sale of automobiles", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349626, "D": "full of or expressing reproach  or censure", "S": [], "A": []}

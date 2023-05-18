@@ -1,0 +1,1 @@
+{"index": 287194, "D": "to move or sway with short, quick, irregular vibratory movements.", "S": ["convulse ", "disturb ", "jolt ", "rattle ", "rock ", "roil ", "shudder ", "sway ", "swing ", "upset ", "wave "], "A": ["steady "]}

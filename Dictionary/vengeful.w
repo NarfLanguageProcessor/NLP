@@ -1,0 +1,1 @@
+{"index": 358074, "D": "desiring or seeking vengeance;  vindictive", "S": ["antagonistic ", "hostile ", "vindictive "], "A": ["agreeable ", "friendly ", "kind ", "nice "]}

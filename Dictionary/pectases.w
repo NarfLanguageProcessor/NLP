@@ -1,0 +1,1 @@
+{"index": 228615, "D": "an enzyme occurring in various fruits and involved in the formation of pectic acid from pectin. ", "S": [], "A": []}

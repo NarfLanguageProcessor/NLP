@@ -1,0 +1,1 @@
+{"index": 214891, "D": "an ornamental band or border, especially on an ecclesiastical vestment.", "S": [], "A": []}

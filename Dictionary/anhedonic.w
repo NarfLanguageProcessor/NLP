@@ -1,0 +1,1 @@
+{"index": 13039, "D": "lack of pleasure or of the capacity to experience it", "S": [], "A": []}

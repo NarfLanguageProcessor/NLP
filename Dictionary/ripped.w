@@ -1,0 +1,1 @@
+{"index": 273181, "D": "drunk; intoxicated.", "S": ["desolate ", "despondent ", "discouraged ", "miserable ", "morose ", "not happy ", "pessimistic ", "sad ", "unhappy "], "A": ["cheerful ", "glad ", "happy ", "optimistic ", "encouraged ", "gay ", "heartened ", "joyous "]}

@@ -1,0 +1,1 @@
+{"index": 302501, "D": "not fresh; vapid or flat, as beverages; dry or hardened, as bread.", "S": [], "A": []}

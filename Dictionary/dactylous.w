@@ -1,0 +1,1 @@
+{"index": 76079, "D": "a combining form meaning \u201cfingered, possessing fingers,\u201d or \u201ctoed, possessing toes,\u201d used to form compound words in which the initial element specifies the type or number of fingers or toes", "S": [], "A": []}

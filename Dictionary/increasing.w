@@ -1,0 +1,1 @@
+{"index": 150439, "D": "growing larger or greater; enlarging; augmenting.", "S": ["developing ", "expanding ", "growing ", "rising "], "A": []}

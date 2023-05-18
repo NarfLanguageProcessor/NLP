@@ -1,0 +1,1 @@
+{"index": 311268, "D": "the state or quality of being absurd. ", "S": [], "A": []}

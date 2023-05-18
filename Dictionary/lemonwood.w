@@ -1,0 +1,1 @@
+{"index": 170359, "D": "a tropical American tree, Calycophyllum candidissimum, of the madder family, having flowers with conspicuous white calyx lobes.", "S": [], "A": []}

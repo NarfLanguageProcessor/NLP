@@ -1,0 +1,1 @@
+{"index": 85171, "D": "any compound, as 1,3-butadiene, CH2=CH\u2212CH=CH2, that contains two double bonds.", "S": [], "A": []}

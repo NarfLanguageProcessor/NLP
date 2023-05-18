@@ -1,0 +1,1 @@
+{"index": 364766, "D": "to blow in light or shifting gusts or puffs, as the wind; veer or toss about irregularly.", "S": ["flounder ", "hesitate ", "reel ", "waver ", "wobble "], "A": ["calm ", "hold ", "remain ", "stabilize ", "stay ", "steady "]}

@@ -1,0 +1,1 @@
+{"index": 298526, "D": "of or relating to Sparta  or its people.", "S": [], "A": []}

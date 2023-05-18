@@ -1,0 +1,1 @@
+{"index": 105068, "D": "the scientific study of the way plants and animals are treated or used by different human cultures.", "S": [], "A": []}

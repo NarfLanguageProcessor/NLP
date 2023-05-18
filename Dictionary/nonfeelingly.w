@@ -1,0 +1,1 @@
+{"index": 203993, "D": "the function or the power of perceiving by touch.", "S": [], "A": []}

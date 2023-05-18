@@ -1,0 +1,1 @@
+{"index": 98160, "D": "pertaining to an embolus  or to embolism. ", "S": [], "A": []}

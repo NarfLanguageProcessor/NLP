@@ -1,0 +1,1 @@
+{"index": 106114, "D": "full of events  or incidents, especially of a striking character", "S": ["exciting ", "fateful ", "memorable ", "momentous ", "remarkable "], "A": ["insignificant ", "unimportant "]}

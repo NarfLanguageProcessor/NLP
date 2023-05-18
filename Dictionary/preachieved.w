@@ -1,0 +1,1 @@
+{"index": 245464, "D": "to bring to a successful end; carry through; accomplish", "S": [], "A": []}

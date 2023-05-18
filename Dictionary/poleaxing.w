@@ -1,0 +1,1 @@
+{"index": 241528, "D": "variant of poleax. ", "S": [], "A": []}

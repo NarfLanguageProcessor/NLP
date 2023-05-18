@@ -1,0 +1,1 @@
+{"index": 251055, "D": "to search into or examine thoroughly; question closely", "S": [], "A": []}

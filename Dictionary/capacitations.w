@@ -1,0 +1,1 @@
+{"index": 46769, "D": "to make capable; enable.", "S": [], "A": []}

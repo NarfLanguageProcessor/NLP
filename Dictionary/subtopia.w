@@ -1,0 +1,1 @@
+{"index": 309548, "D": "suburban development that encroaches on rural areas yet appears to offer the attractions of country life to suburban dwellers", "S": ["bourgeoisie ", "silent majority ", "suburbia ", "the burbs "], "A": []}

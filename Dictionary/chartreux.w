@@ -1,0 +1,1 @@
+{"index": 53000, "D": "a breed of sturdy cat with short dense woolly fur", "S": [], "A": []}

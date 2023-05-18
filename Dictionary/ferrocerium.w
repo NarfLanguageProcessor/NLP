@@ -1,0 +1,1 @@
+{"index": 111526, "D": "an alloy of 65 percent misch metal and 35 percent iron, used in flints for cigarette lighters.", "S": [], "A": []}

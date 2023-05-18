@@ -1,0 +1,1 @@
+{"index": 333647, "D": "(used as an exclamation expressing disgust, aversion, horror, or the like).", "S": ["ahem ", "alas ", "amen ", "boo ", "er ", "exclamation ", "hello ", "hooray ", "hurrah ", "oh ", "shucks ", "whoopee ", "wow "], "A": []}

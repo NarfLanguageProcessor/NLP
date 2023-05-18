@@ -1,0 +1,1 @@
+{"index": 152327, "D": "noting or pertaining to a sound wave with a frequency below the audio-frequency range.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169903, "D": "having ledges. ", "S": [], "A": []}

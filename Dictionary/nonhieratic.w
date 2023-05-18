@@ -1,0 +1,1 @@
+{"index": 204445, "D": "of or relating to priests or the priesthood; sacerdotal; priestly.", "S": [], "A": []}

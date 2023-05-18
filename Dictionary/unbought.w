@@ -1,0 +1,1 @@
+{"index": 336098, "D": "simple past tense and past participle of buy. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 136897, "D": "of, relating to, or consisting of herbs. ", "S": [], "A": []}

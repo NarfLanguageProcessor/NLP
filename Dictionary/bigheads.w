@@ -1,0 +1,1 @@
+{"index": 33744, "D": "an excessive estimate of one's importance; conceit.", "S": ["blowhard ", "braggart ", "bragger ", "egomaniac ", "egotist ", "know-it-all ", "show-off ", "trumpeter "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 357233, "D": "a person or thing that varies. ", "S": [], "A": []}

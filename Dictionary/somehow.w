@@ -1,0 +1,1 @@
+{"index": 297037, "D": "in some  way not specified, apparent, or known.", "S": ["anyway "], "A": ["no way "]}

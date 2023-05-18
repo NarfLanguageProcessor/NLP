@@ -1,0 +1,1 @@
+{"index": 157336, "D": "an act or instance of involving or entangling; involvement. ", "S": ["braid ", "tendril "], "A": ["line "]}

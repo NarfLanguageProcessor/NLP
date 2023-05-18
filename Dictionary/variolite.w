@@ -1,0 +1,1 @@
+{"index": 357271, "D": "a rock embedded with varioles;  a variolitic rock.", "S": [], "A": []}

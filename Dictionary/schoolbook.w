@@ -1,0 +1,1 @@
+{"index": 280435, "D": "a book  for study in schools. ", "S": ["cookbook ", "guide ", "guidebook ", "handbook ", "reference book ", "text ", "textbook ", "workbook "], "A": []}

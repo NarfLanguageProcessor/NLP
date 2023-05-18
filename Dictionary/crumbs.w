@@ -1,0 +1,1 @@
+{"index": 74184, "D": "an expression of dismay or surprise", "S": ["atom ", "dab ", "dash ", "dram ", "drop ", "grain ", "iota ", "jot ", "mite ", "ounce ", "particle ", "pinch ", "scrap ", "seed ", "shred ", "sliver ", "smidgen ", "snippet ", "speck "], "A": ["glob ", "lot "]}

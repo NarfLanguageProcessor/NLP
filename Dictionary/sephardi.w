@@ -1,0 +1,1 @@
+{"index": 285579, "D": "a member of the diasporic Jewish population that settled in Spain and Portugal, distinguished from the Ashkenazim and from other Jewish communities chiefly by liturgy, religious customs, and pronunciation of Hebrew", "S": [], "A": []}

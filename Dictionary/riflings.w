@@ -1,0 +1,1 @@
+{"index": 272770, "D": "the act or process of cutting spiral grooves in a gun barrel, pipe, etc.", "S": [], "A": []}

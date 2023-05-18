@@ -1,0 +1,1 @@
+{"index": 187761, "D": "the ancient Roman goddess of wisdom and the arts, identified with the Greek goddess Athena.", "S": [], "A": []}

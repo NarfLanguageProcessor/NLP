@@ -1,0 +1,1 @@
+{"index": 212087, "D": "a chromolithograph printed in oil colors on canvas or cloth.", "S": [], "A": []}

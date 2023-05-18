@@ -1,0 +1,1 @@
+{"index": 178427, "D": "faulty or anomalous formation  or structure, especially in a living body", "S": ["abnormality ", "defect ", "disfigurement ", "impairment ", "mutation "], "A": []}

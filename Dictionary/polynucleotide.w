@@ -1,0 +1,1 @@
+{"index": 242139, "D": "a sequence of nucleotides,  as in DNA or RNA, bound into a chain.", "S": [], "A": []}

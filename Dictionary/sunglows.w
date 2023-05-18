@@ -1,0 +1,1 @@
+{"index": 311131, "D": "a diffused, hazy light seen around the sun,  caused by atmospheric dust.", "S": [], "A": []}

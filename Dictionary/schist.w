@@ -1,0 +1,1 @@
+{"index": 280170, "D": "any of a class of crystalline metamorphic rocks whose constituent mineral grains have a more or less parallel or foliated arrangement.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132216, "D": "to bargain in a petty, quibbling, and often contentious manner", "S": ["bargain ", "barter ", "dicker ", "quibble ", "squabble ", "wrangle "], "A": ["agree ", "concur "]}

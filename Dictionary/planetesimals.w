@@ -1,0 +1,1 @@
+{"index": 238931, "D": "one of the small celestial bodies that, according to one theory (planetesimal hypothesis ), were fused together to form the planets  of the solar system.", "S": [], "A": []}

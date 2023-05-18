@@ -1,0 +1,1 @@
+{"index": 171981, "D": "any of a class of enzymes that catalyze the joining of two molecules by formation of a covalent bond accompanied by the hydrolysis of ATP.", "S": [], "A": []}

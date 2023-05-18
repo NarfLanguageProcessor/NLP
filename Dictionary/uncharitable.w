@@ -1,0 +1,1 @@
+{"index": 336750, "D": "deficient in charity; unkind; harsh; unforgiving; censorious; merciless", "S": ["harsh ", "merciless ", "selfish ", "uncaring ", "uncompassionate ", "unfair ", "unforgiving ", "unkind ", "unmerciful ", "unsympathizing "], "A": ["charitable ", "generous "]}

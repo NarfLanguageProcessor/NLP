@@ -1,0 +1,1 @@
+{"index": 266429, "D": "to place (a dead body) in a grave or tomb; bury. ", "S": [], "A": []}

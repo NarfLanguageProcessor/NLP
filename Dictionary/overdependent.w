@@ -1,0 +1,1 @@
+{"index": 218919, "D": "excessively dependent on a person or thing for aid, support, etc", "S": [], "A": []}

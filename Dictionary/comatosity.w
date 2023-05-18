@@ -1,0 +1,1 @@
+{"index": 63612, "D": "affected with or characterized by coma.", "S": [], "A": []}

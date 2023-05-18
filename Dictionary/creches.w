@@ -1,0 +1,1 @@
+{"index": 72470, "D": "a small or large modeled representation or tableau of Mary, Joseph, and others around the crib of Jesus in the stable at Bethlehem, as is displayed in homes or erected for exhibition in a community at Christmas season.", "S": ["Bethlehem ", "cradle ", "stable "], "A": []}

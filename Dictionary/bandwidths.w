@@ -1,0 +1,1 @@
+{"index": 27400, "D": "the smallest range of frequencies constituting a band  within which a particular signal can be transmitted without distortion.", "S": ["high frequency ", "low frequency ", "radio band ", "radio bandwidth ", "transmission capacity "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139962, "D": "to introduce chlorine  atoms into an organic compound by an addition or substitution reaction.", "S": [], "A": []}

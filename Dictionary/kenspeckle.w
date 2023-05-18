@@ -1,0 +1,1 @@
+{"index": 163858, "D": "conspicuous; easily seen or recognized.", "S": [], "A": []}

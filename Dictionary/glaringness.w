@@ -1,0 +1,1 @@
+{"index": 125954, "D": "shining with or reflecting a harshly bright or brilliant light.", "S": ["abomination ", "atrociousness ", "atrocity ", "egregiousness ", "enormity ", "flagrance ", "flagrantness ", "grossness ", "heinousness ", "horror ", "monstrosity ", "monstrousness ", "nefariousness ", "outrage ", "outrageousness ", "rankness "], "A": []}

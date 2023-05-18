@@ -1,0 +1,1 @@
+{"index": 279057, "D": "a plain characterized by coarse grasses and scattered tree growth, especially on the margins of the tropics where the rainfall is seasonal, as in eastern Africa.", "S": ["grassy field ", "llano ", "meadow ", "pasturage ", "pasture ", "plain ", "prairie ", "steppe ", "veldt "], "A": []}

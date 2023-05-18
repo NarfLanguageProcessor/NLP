@@ -1,0 +1,1 @@
+{"index": 15378, "D": "any of certain compounds or medicines that neutralize or inhibit the effect of histamine  in the body, used chiefly in the treatment of allergic disorders and colds.", "S": [], "A": []}

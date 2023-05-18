@@ -1,0 +1,1 @@
+{"index": 89597, "D": "to scatter in various directions; disperse; dispel.", "S": ["profligate ", "spender ", "spendthrift ", "sport ", "squanderer ", "waster ", "wastrel "], "A": []}

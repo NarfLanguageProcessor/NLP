@@ -1,0 +1,1 @@
+{"index": 107436, "D": "exceeding the bounds of custom, propriety, or reason, especially in amount or extent; highly excessive", "S": ["enormous ", "inordinate ", "outrageous ", "pricey ", "steep ", "unconscionable ", "unreasonable ", "unwarranted "], "A": ["cheap ", "good ", "mild ", "moderate ", "reasonable ", "sensible ", "warranted "]}

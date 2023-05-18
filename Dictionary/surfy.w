@@ -1,0 +1,1 @@
+{"index": 313417, "D": "abounding with surf;  forming or like surf. ", "S": [], "A": []}

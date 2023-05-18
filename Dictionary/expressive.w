@@ -1,0 +1,1 @@
+{"index": 108020, "D": "full of expression; meaningful", "S": ["articulate ", "artistic ", "colorful ", "dramatic ", "eloquent ", "energetic ", "passionate ", "poignant ", "striking ", "suggestive ", "thoughtful ", "vivid "], "A": ["dull ", "lifeless ", "ugly ", "uncaring "]}

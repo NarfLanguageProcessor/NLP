@@ -1,0 +1,1 @@
+{"index": 146836, "D": "a type of pottery made from yellowish clay and finished with a transparent, yellow-colored glaze.", "S": [], "A": []}

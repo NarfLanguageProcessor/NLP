@@ -1,0 +1,1 @@
+{"index": 103060, "D": "(of diseases) spreading quickly among animals.", "S": [], "A": []}

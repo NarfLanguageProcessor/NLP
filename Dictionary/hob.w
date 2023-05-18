@@ -1,0 +1,1 @@
+{"index": 142078, "D": "a projection or shelf at the back or side of a fireplace, used for keeping food warm.", "S": ["gnome ", "goblin ", "imp ", "leprechaun "], "A": []}

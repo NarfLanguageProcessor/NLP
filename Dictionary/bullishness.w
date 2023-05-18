@@ -1,0 +1,1 @@
+{"index": 42607, "D": "like a bull.", "S": ["advancing market ", "booming market ", "bullish market ", "expanding economy ", "up market "], "A": ["bear market "]}

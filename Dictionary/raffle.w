@@ -1,0 +1,1 @@
+{"index": 259873, "D": "a form of lottery in which a number of persons buy one or more chances to win a prize.", "S": ["betting ", "game of chance ", "sweepstake "], "A": []}

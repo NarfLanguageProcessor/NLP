@@ -1,0 +1,1 @@
+{"index": 359075, "D": "a passage, hall, or antechamber between the outer door and the interior parts of a house or building.", "S": [], "A": []}

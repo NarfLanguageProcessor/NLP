@@ -1,0 +1,1 @@
+{"index": 85758, "D": [], "S": ["dallier ", "dawdler ", "do-nothing ", "idler ", "lagger ", "lingerer ", "loafer ", "loiterer ", "lounger ", "poke ", "slowpoke ", "straggler "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365822, "D": "pliant; lithe.", "S": ["adroit ", "agile ", "dainty ", "delicate ", "elastic ", "elegant ", "flowing ", "limber ", "lithe ", "lithesome ", "nimble ", "pliant ", "shapely ", "skinny ", "springy ", "svelte ", "thin ", "trim "], "A": []}

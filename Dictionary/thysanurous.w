@@ -1,0 +1,1 @@
+{"index": 322228, "D": "belonging or pertaining to the order Thysanura, comprising the bristletails.", "S": [], "A": []}

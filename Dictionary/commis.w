@@ -1,0 +1,1 @@
+{"index": 64059, "D": "an assistant, especially to a chef.", "S": [], "A": []}

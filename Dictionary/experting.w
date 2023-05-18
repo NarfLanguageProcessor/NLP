@@ -1,0 +1,1 @@
+{"index": 107748, "D": "a person who has special skill or knowledge in some particular field; specialist; authority", "S": [], "A": []}

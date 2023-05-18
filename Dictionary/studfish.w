@@ -1,0 +1,1 @@
+{"index": 306790, "D": "either of two killifishes marked with orange spots, Fundulus catenatus(northern studfish ), of the Tennessee and Cumberland rivers and Ozark Mountains region, or F. stellifer(southern studfish ), of the Alabama River.", "S": [], "A": []}

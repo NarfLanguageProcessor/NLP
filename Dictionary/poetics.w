@@ -1,0 +1,1 @@
+{"index": 241201, "D": "literary criticism treating of the nature and laws of poetry.", "S": [], "A": []}

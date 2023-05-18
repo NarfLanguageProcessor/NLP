@@ -1,0 +1,1 @@
+{"index": 230390, "D": "capable of being perceived;  recognizable; appreciable", "S": [], "A": []}

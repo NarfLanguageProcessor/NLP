@@ -1,0 +1,1 @@
+{"index": 55083, "D": "a salt of hydrochloric acid consisting of two elements, one of which is chlorine, as sodium chloride,  NaCl.", "S": [], "A": []}

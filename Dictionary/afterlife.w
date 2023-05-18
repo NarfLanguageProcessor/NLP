@@ -1,0 +1,1 @@
+{"index": 5706, "D": "life after death.", "S": ["hereafter "], "A": []}

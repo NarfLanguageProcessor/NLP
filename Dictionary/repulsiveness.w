@@ -1,0 +1,1 @@
+{"index": 268793, "D": "causing repugnance or aversion", "S": ["atrocity ", "awfulness ", "dreadfulness ", "frightfulness ", "ghastliness ", "gruesomeness ", "horridness ", "monstrosity ", "rankness "], "A": []}

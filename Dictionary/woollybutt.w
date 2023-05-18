@@ -1,0 +1,1 @@
+{"index": 367326, "D": "any of several Australian trees of the genus Eucalyptus, especially E. longifolia, having rough, often fibrous bark.", "S": [], "A": []}

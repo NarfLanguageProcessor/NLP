@@ -1,0 +1,1 @@
+{"index": 206237, "D": "serving or tending to prohibit  or forbid something", "S": [], "A": []}

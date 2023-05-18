@@ -1,0 +1,1 @@
+{"index": 306668, "D": "to play on (a stringed musical instrument) by running the fingers lightly across the strings.", "S": [], "A": []}

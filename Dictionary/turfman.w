@@ -1,0 +1,1 @@
+{"index": 332683, "D": "a person who is extremely devoted to horse racing.", "S": [], "A": []}

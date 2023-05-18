@@ -1,0 +1,1 @@
+{"index": 162298, "D": "a person who supervises the jumping  of paratroopers or other parachutists.", "S": [], "A": []}

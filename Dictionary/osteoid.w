@@ -1,0 +1,1 @@
+{"index": 215623, "D": "resembling bone; bonelike.", "S": [], "A": []}

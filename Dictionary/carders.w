@@ -1,0 +1,1 @@
+{"index": 47708, "D": "a usually rectangular piece of stiff paper, thin pasteboard, or plastic for various uses, as to write information on or printed as a means of identifying the holder", "S": [], "A": []}

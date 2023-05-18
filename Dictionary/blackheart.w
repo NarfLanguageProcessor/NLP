@@ -1,0 +1,1 @@
+{"index": 35513, "D": "a nonparasitic disease of plants, as of potatoes and various trees, in which internal plant tissues blacken, usually as a result of extremes in temperature.", "S": [], "A": []}

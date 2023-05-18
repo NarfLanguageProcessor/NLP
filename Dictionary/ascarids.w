@@ -1,0 +1,1 @@
+{"index": 20905, "D": "any nematode of the family Ascaridae; roundworm.", "S": [], "A": []}

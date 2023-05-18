@@ -1,0 +1,1 @@
+{"index": 116248, "D": "the act of flirting or sharing a surreptitious intimacy.", "S": [], "A": []}

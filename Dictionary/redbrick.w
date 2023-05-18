@@ -1,0 +1,1 @@
+{"index": 263896, "D": "of, relating to, or associated with a redbrick university. ", "S": [], "A": []}

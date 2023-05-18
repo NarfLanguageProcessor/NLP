@@ -1,0 +1,1 @@
+{"index": 157352, "D": "to include as a necessary circumstance, condition, or consequence; imply; entail", "S": ["compelling ", "demanding ", "exacting ", "forcing ", "necessitating ", "pressing "], "A": ["trivial "]}

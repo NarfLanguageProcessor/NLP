@@ -1,0 +1,1 @@
+{"index": 86082, "D": "a brand of modacrylic fiber used in textiles, characterized chiefly by its strength, rapid drying rate, and noncombustibility.", "S": [], "A": []}

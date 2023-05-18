@@ -1,0 +1,1 @@
+{"index": 289048, "D": "a boat,  especially a paddle-wheel steamer, used as a traveling theater.", "S": [], "A": []}

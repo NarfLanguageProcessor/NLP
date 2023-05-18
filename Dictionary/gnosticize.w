@@ -1,0 +1,1 @@
+{"index": 127147, "D": "to adopt or maintain Gnostic  views.", "S": [], "A": []}

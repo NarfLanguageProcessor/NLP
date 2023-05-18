@@ -1,0 +1,1 @@
+{"index": 264613, "D": "to choose or select by vote, as for an office", "S": ["reestablished ", "reinstalled ", "restored ", "returned "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 301268, "D": "possessing sprigs  or small branches.", "S": [], "A": []}

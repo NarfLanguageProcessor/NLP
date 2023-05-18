@@ -1,0 +1,1 @@
+{"index": 243901, "D": "(in nonmammalian vertebrates) a region of the body corresponding to, but not coincident with, this part or cavity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45965, "D": "to be able to; have the ability, power, or skill to", "S": ["bottle ", "bucket ", "canister ", "jar ", "package "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 300240, "D": "an eel that is split, cut into pieces, and broiled or fried.", "S": [], "A": []}

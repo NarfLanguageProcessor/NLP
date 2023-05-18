@@ -1,0 +1,1 @@
+{"index": 342864, "D": "provided with a gable  or gables", "S": [], "A": []}

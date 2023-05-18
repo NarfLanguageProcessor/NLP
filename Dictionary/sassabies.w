@@ -1,0 +1,1 @@
+{"index": 278606, "D": "a large, blackish-red South African antelope, Damaliscus lunatus, having curved horns.", "S": [], "A": []}

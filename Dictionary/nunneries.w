@@ -1,0 +1,1 @@
+{"index": 209672, "D": "a building or group of buildings for nuns;  convent.", "S": ["cloister "], "A": []}

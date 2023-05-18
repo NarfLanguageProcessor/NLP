@@ -1,0 +1,1 @@
+{"index": 270271, "D": "the condition of being a retainer  or of having retainers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 30869, "D": "a fritter or doughnut.", "S": [], "A": []}

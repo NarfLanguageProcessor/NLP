@@ -1,0 +1,1 @@
+{"index": 60268, "D": [], "S": ["campanile ", "carillon ", "cupola ", "dome ", "head ", "minaret ", "spire ", "steeple ", "turret "], "A": []}

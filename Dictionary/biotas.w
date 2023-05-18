@@ -1,0 +1,1 @@
+{"index": 34564, "D": "the animals, plants, fungi, etc., of a region or period.", "S": [], "A": []}

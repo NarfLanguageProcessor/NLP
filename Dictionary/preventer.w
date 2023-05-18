@@ -1,0 +1,1 @@
+{"index": 250160, "D": "a person or thing that prevents.", "S": [], "A": []}

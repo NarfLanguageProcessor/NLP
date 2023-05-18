@@ -1,0 +1,1 @@
+{"index": 24114, "D": "of or relating to the immune response  of an organism against any of its own tissues, cells, or cell components.", "S": [], "A": []}

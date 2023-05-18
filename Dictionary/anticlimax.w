@@ -1,0 +1,1 @@
+{"index": 14955, "D": "an event, conclusion, statement, etc., that is far less important, powerful, or striking than expected.", "S": ["letdown "], "A": ["ascent ", "boon ", "boost ", "improvement ", "increase ", "rise ", "success "]}

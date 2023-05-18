@@ -1,0 +1,1 @@
+{"index": 68743, "D": "to try to attract the attention and admiration of men for mere self-gratification; flirt.", "S": ["dally ", "flirt ", "fool ", "operate ", "philander ", "titillate ", "toy ", "trifle ", "vamp ", "wanton "], "A": []}

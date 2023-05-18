@@ -1,0 +1,1 @@
+{"index": 344055, "D": "of, relating to, or involving ideas  or concepts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213942, "D": "uttered by the mouth; spoken", "S": ["account ", "conference ", "consultation ", "conversation ", "dialogue ", "examination ", "hearing ", "meeting ", "press conference ", "record ", "statement ", "talk "], "A": ["silence "]}

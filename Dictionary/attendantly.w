@@ -1,0 +1,1 @@
+{"index": 23011, "D": "a person who attends  another, as to perform a service.", "S": [], "A": []}

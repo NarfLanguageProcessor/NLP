@@ -1,0 +1,1 @@
+{"index": 131142, "D": "any sharklike ray of the family Rhinobatidae, of warm seas, resembling a guitar  in shape.", "S": [], "A": []}

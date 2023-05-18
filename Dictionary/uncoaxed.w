@@ -1,0 +1,1 @@
+{"index": 337140, "D": "to attempt to influence by gentle persuasion, flattery, etc.; cajole", "S": [], "A": []}

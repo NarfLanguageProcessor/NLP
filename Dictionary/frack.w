@@ -1,0 +1,1 @@
+{"index": 118136, "D": "hydraulic fracturing. ", "S": [], "A": []}

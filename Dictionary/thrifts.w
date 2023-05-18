@@ -1,0 +1,1 @@
+{"index": 322679, "D": "economical management; economy; frugality.", "S": ["austerity ", "frugality ", "prudence "], "A": ["extravagance ", "spending ", "waste "]}

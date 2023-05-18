@@ -1,0 +1,1 @@
+{"index": 105433, "D": "a former marine zone, bordering an ocean basin, marked by very thick deposits of sediment in which the products of volcanic activity are associated with clastic sediments.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 270221, "D": "a person or thing that resuscitates. ", "S": [], "A": []}

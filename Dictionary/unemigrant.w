@@ -1,0 +1,1 @@
+{"index": 341177, "D": "a person who emigrates,  such as from their native country or region", "S": [], "A": []}

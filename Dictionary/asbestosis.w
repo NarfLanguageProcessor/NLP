@@ -1,0 +1,1 @@
+{"index": 20878, "D": "a lung disease caused by the inhalation of asbestos  dust.", "S": [], "A": []}

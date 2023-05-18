@@ -1,0 +1,1 @@
+{"index": 100500, "D": "the symbol, \u014b, that, in the International Phonetic Alphabet and in the pronunciation alphabets of some dictionaries, represents the voiced velar nasal consonant indicated in English spelling by (ng), as in the pronunciations of cling [kling]  /kl\u026a\u014b/  and clink [klingk].  /kl\u026a\u014bk/. ", "S": [], "A": []}

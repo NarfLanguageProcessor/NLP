@@ -1,0 +1,1 @@
+{"index": 4611, "D": "a person who has, enjoys, or seeks adventures. ", "S": ["charlatan ", "daredevil ", "entrepreneur ", "gambler ", "mercenary ", "swashbuckler ", "traveler "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 180785, "D": "a body of coherent matter, usually of indefinite shape and often of considerable size", "S": ["extensive ", "indiscriminate ", "large-scale ", "sweeping "], "A": ["narrow ", "incomplete ", "particular ", "specific ", "unfinished "]}

@@ -1,0 +1,1 @@
+{"index": 71390, "D": "like or befitting a cousin. ", "S": [], "A": []}

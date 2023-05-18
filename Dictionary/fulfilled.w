@@ -1,0 +1,1 @@
+{"index": 119877, "D": "a variant of fulfill. ", "S": ["realized ", "satisfied "], "A": ["disappointed ", "incomplete ", "unfinished ", "unfulfilled ", "unsatisfied "]}

@@ -1,0 +1,1 @@
+{"index": 225567, "D": "of, noting, or characteristic of paraffin wax  or a paraffin  hydrocarbon.", "S": [], "A": []}

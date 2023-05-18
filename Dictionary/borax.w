@@ -1,0 +1,1 @@
+{"index": 38347, "D": "a white, water-soluble powder or crystals, hydrated sodium borate, Na2B4O7\u22c510H2O, occurring naturally or obtained from naturally occurring borates; tincal", "S": [], "A": []}

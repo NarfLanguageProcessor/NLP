@@ -1,0 +1,1 @@
+{"index": 233724, "D": "of or relating to the development of leaves.", "S": [], "A": []}

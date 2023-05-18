@@ -1,0 +1,1 @@
+{"index": 264061, "D": "an act of redeeming  or atoning for a fault or mistake, or the state of being redeemed. ", "S": [], "A": []}

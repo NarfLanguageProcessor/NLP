@@ -1,0 +1,1 @@
+{"index": 81427, "D": "ethics, especially that branch dealing with duty, moral obligation, and right action.", "S": [], "A": []}

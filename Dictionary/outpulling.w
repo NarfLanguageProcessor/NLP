@@ -1,0 +1,1 @@
+{"index": 217166, "D": "to exceed in ability to attract an audience, attention, etc.; outdraw", "S": [], "A": []}

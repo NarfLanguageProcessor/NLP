@@ -1,0 +1,1 @@
+{"index": 346231, "D": "working or acting merely for money or other reward; venal.", "S": [], "A": []}

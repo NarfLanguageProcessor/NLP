@@ -1,0 +1,1 @@
+{"index": 249609, "D": "the exertion of force upon a surface by an object, fluid, etc., in contact with it", "S": ["aggressive ", "frightening ", "terrifying "], "A": []}

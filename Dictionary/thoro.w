@@ -1,0 +1,1 @@
+{"index": 322419, "D": "an informal, simplified spelling of thorough. ", "S": [], "A": []}

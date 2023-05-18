@@ -1,0 +1,1 @@
+{"index": 327784, "D": "by way of or through the skin.", "S": [], "A": []}

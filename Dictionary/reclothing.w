@@ -1,0 +1,1 @@
+{"index": 263013, "D": "to dress; attire.", "S": [], "A": []}

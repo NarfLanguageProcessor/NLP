@@ -1,0 +1,1 @@
+{"index": 350567, "D": "capable of being understood by careful study or investigation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 154961, "D": "(of sedimentary rocks) to change laterally from one type to another in a zone where the two types form interpenetrating wedges.", "S": [], "A": []}

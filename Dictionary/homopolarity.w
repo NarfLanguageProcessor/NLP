@@ -1,0 +1,1 @@
+{"index": 143222, "D": "of uniform polarity; not separated or changed into ions; not polar  in activity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229558, "D": "any of several spandrels, in the form of spherical triangles, forming a transition between the circular plan of a dome and the polygonal plan of the supporting masonry.", "S": [], "A": []}

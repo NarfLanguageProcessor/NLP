@@ -1,0 +1,1 @@
+{"index": 348042, "D": "a fold of definite, even width made by doubling cloth or the like upon itself and pressing or stitching it in place.", "S": [], "A": []}

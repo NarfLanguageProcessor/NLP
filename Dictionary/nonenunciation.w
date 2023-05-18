@@ -1,0 +1,1 @@
+{"index": 203554, "D": "an act or manner of enunciating. ", "S": [], "A": []}

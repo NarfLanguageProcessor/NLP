@@ -1,0 +1,1 @@
+{"index": 188907, "D": "maliciously or playfully annoying.", "S": ["impish ", "malicious ", "naughty ", "playful ", "rude ", "sly "], "A": ["good ", "kind "]}

@@ -1,0 +1,1 @@
+{"index": 56218, "D": "the column, gel layer, or paper strip on which some or all of the constituents of a mixture have been separated by being adsorbed at different locations.", "S": [], "A": []}

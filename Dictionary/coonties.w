@@ -1,0 +1,1 @@
+{"index": 68315, "D": "either of two arrowroots, Zamia integrifolia or Z. floridana, of Florida, having a short trunk, pinnate leaves, and cones", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11196, "D": "(of certain invertebrates, such as sand hoppers) having both swimming and jumping appendages", "S": [], "A": []}

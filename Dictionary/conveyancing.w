@@ -1,0 +1,1 @@
+{"index": 67923, "D": "the branch of law practice consisting of examining titles, giving opinions as to their validity, and drawing of deeds, etc., for the conveyance  of property from one person to another.", "S": [], "A": []}

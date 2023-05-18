@@ -1,0 +1,1 @@
+{"index": 342998, "D": "the quality of being true, authentic, or valid", "S": [], "A": []}

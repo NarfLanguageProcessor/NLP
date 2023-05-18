@@ -1,0 +1,1 @@
+{"index": 47630, "D": "a woman's ornamental circlet for the hair, often of gold decorated with jewels or pearls.", "S": ["choker ", "jewelry ", "pendant ", "strand "], "A": []}

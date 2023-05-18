@@ -1,0 +1,1 @@
+{"index": 38463, "D": "a white, translucent, lumpy, very slightly water-soluble, solid terpene alcohol, C10H18O, occurring in various isomeric forms, having a burning, mintlike taste, obtained from the trunk of a tree, Dryobalanops aromatica, or by the reduction of camphor", "S": [], "A": []}

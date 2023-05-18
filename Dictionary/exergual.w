@@ -1,0 +1,1 @@
+{"index": 107068, "D": "the space below the device on a coin or medal, sometimes separated from the field by a line.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 33357, "D": "having two branches, chambers, or houses, as a legislative body.", "S": [], "A": []}

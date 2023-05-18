@@ -1,0 +1,1 @@
+{"index": 36258, "D": "(used as an intensifier)", "S": ["glimmer ", "glint ", "glitter ", "luster ", "sheen "], "A": ["darkness ", "dullness "]}

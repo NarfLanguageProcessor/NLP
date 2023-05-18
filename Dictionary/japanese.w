@@ -1,0 +1,1 @@
+{"index": 160366, "D": "of, relating to, or characteristic of Japan,  its people, or their language.", "S": [], "A": []}

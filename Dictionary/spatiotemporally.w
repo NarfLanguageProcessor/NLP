@@ -1,0 +1,1 @@
+{"index": 298617, "D": "pertaining to space-time.", "S": [], "A": []}

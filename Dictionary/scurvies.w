@@ -1,0 +1,1 @@
+{"index": 282291, "D": "a disease marked by swollen and bleeding gums, livid spots on the skin, prostration, etc., due to a diet lacking in vitamin C.", "S": [], "A": []}

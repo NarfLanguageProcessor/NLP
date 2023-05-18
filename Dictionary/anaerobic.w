@@ -1,0 +1,1 @@
+{"index": 11605, "D": "(of an organism or tissue) living in the absence of air or free oxygen.", "S": [], "A": []}

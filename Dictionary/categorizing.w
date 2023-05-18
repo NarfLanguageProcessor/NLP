@@ -1,0 +1,1 @@
+{"index": 49550, "D": "to arrange in categories  or classes; classify.", "S": ["allocation ", "allotment ", "analysis ", "arrangement ", "coordination ", "designation ", "distribution ", "grade ", "regulation "], "A": ["disorganization ", "keeping ", "retention "]}

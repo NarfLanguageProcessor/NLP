@@ -1,0 +1,1 @@
+{"index": 242290, "D": "having a chromosome number that is more than double the basic or haploid number.", "S": [], "A": []}

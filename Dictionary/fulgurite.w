@@ -1,0 +1,1 @@
+{"index": 119915, "D": "a tubelike formation in sand or rock, caused by lightning.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246526, "D": "the act of conveying; transmission; communication.", "S": [], "A": []}

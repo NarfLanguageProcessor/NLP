@@ -1,0 +1,1 @@
+{"index": 342220, "D": "an abnormal condition of the body, characterized by undue rise in temperature, quickening of the pulse, and disturbance of various body functions.", "S": [], "A": []}

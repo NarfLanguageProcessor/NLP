@@ -1,0 +1,1 @@
+{"index": 130018, "D": "(in South Africa) a person of mixed African and European descent, especially a native of Griqualand.", "S": [], "A": []}

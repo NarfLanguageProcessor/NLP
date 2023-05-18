@@ -1,0 +1,1 @@
+{"index": 238597, "D": "a very small copper coin used in Scotland in the 15th and 16th centuries as a four-penny piece.", "S": [], "A": []}

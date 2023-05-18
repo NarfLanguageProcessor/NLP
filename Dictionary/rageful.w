@@ -1,0 +1,1 @@
+{"index": 259916, "D": "angry fury; violent anger (sometimes used in combination)", "S": [], "A": []}

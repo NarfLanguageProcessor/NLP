@@ -1,0 +1,1 @@
+{"index": 199762, "D": "a nest or brood, especially of pheasants.", "S": [], "A": []}

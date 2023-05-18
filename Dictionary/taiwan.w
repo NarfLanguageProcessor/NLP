@@ -1,0 +1,1 @@
+{"index": 315473, "D": "an island separated from the southeast coast of China by the Taiwan Strait", "S": [], "A": []}

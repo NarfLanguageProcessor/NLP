@@ -1,0 +1,1 @@
+{"index": 176693, "D": "a region of the S Balkans, now divided among Greece, Bulgaria, and Macedonia (Former Yugoslav Republic of Macedonia). As a kingdom in the ancient world it achieved prominence under Philip II (359\u2013336 bc) and his son Alexander the Great", "S": [], "A": []}

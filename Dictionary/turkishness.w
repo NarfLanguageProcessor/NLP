@@ -1,0 +1,1 @@
+{"index": 332748, "D": "of, pertaining to, characteristic of, or derived from Turkey  or the Turks. ", "S": [], "A": []}

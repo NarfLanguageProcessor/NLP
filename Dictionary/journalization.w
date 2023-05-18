@@ -1,0 +1,1 @@
+{"index": 161888, "D": "to tell or relate as one would in keeping a journal. ", "S": [], "A": []}

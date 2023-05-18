@@ -1,0 +1,1 @@
+{"index": 241935, "D": "a figure, especially a closed plane figure, having three or more, usually straight, sides.", "S": ["shape "], "A": []}

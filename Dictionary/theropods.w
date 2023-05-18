@@ -1,0 +1,1 @@
+{"index": 321578, "D": "any member of the suborder Theropoda, comprising carnivorous dinosaurs that had short forelimbs and walked or ran on their hind legs.", "S": [], "A": []}

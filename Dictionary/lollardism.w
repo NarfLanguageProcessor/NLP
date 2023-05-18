@@ -1,0 +1,1 @@
+{"index": 174795, "D": "an English or Scottish follower of the religious teachings of John Wycliffe from the 14th to the 16th centuries.", "S": [], "A": []}

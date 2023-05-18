@@ -1,0 +1,1 @@
+{"index": 279696, "D": "belonging or pertaining to the Scarabaeidae, a family of lamellicorn beetles, including the scarabs, dung beetles, June bugs, and cockchafers.", "S": [], "A": []}

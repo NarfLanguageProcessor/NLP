@@ -1,0 +1,1 @@
+{"index": 208350, "D": "having no legal force or effect; not legally binding or enforceable.", "S": [], "A": []}

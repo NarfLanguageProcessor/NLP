@@ -1,0 +1,1 @@
+{"index": 206034, "D": "tending to divide people into sharply opposing factions", "S": [], "A": []}

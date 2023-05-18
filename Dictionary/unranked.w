@@ -1,0 +1,1 @@
+{"index": 349032, "D": "a number of persons forming a separate class in a social hierarchy or in any graded body.", "S": [], "A": []}

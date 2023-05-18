@@ -1,0 +1,1 @@
+{"index": 220694, "D": "the act of protecting or the state of being protected; preservation from injury or harm.", "S": [], "A": []}

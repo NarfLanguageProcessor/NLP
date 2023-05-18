@@ -1,0 +1,1 @@
+{"index": 116262, "D": "the setting down of a foot, or the sound so produced; footfall; tread.", "S": ["aisle ", "pathway ", "road ", "route ", "stream ", "train "], "A": []}

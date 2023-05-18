@@ -1,0 +1,1 @@
+{"index": 149496, "D": "not apprehensive  (often followed by of).", "S": [], "A": []}

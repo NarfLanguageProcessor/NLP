@@ -1,0 +1,1 @@
+{"index": 136708, "D": "a large gland of shrimps, lobsters, and crabs that combines the functions of a liver and pancreas. ", "S": [], "A": []}

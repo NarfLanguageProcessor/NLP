@@ -1,0 +1,1 @@
+{"index": 244861, "D": "a high headdress with the hair rolled in puffs, worn by women in the late 18th century.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27662, "D": "a condemned criminal pardoned by Pilate in order to appease the mob, which demanded that he be freed instead of Jesus. Mark 15", "S": [], "A": []}

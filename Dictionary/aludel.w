@@ -1,0 +1,1 @@
+{"index": 9584, "D": "one of a series of pearshaped vessels of earthenware or glass, open at both ends and fitted one above the other, for recovering the sublimates produced during sublimation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133458, "D": "unlucky; luckless; unfortunate.", "S": ["unlucky ", "woeful "], "A": ["happy "]}

@@ -1,0 +1,1 @@
+{"index": 84036, "D": "of or relating to the changes in a linguistic system between successive points in time; historical", "S": [], "A": []}

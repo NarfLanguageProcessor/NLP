@@ -1,0 +1,1 @@
+{"index": 106203, "D": "a muscle that turns a part toward the outside.", "S": [], "A": []}

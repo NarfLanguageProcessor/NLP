@@ -1,0 +1,1 @@
+{"index": 212768, "D": [], "S": ["commencement ", "dawning ", "onslaught ", "outbreak ", "outset "], "A": ["conclusion ", "end ", "completion ", "death ", "ending ", "finish ", "retreat "]}

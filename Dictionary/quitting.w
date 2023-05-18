@@ -1,0 +1,1 @@
+{"index": 259046, "D": "to stop, cease, or discontinue", "S": ["escape ", "evacuation ", "exit ", "exodus ", "flight ", "passage ", "removal ", "retirement ", "retreat ", "separation ", "takeoff ", "walkout ", "withdrawal "], "A": ["arrival ", "coming ", "entrance ", "stay ", "greeting ", "hello "]}

@@ -1,0 +1,1 @@
+{"index": 43003, "D": "oppressively heavy; onerous.", "S": ["demanding ", "difficult ", "onerous ", "oppressive ", "taxing "], "A": ["calm ", "easy ", "trivial "]}

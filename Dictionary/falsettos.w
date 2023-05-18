@@ -1,0 +1,1 @@
+{"index": 109534, "D": "an unnaturally or artificially high-pitched voice or register, especially in a man.", "S": ["falsetto "], "A": ["bass "]}

@@ -1,0 +1,1 @@
+{"index": 335020, "D": "to reduce to utter ruin or nonexistence; destroy utterly", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 313981, "D": "an excessive downward curvature of the spinal column in the dorsal region, especially of horses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248635, "D": "to absorb or engross to the exclusion of other things.", "S": ["arresting ", "captivating ", "engrossing ", "enthralling ", "fascinating ", "gripping ", "interesting ", "intriguing ", "riveting ", "spellbinding "], "A": ["boring ", "repulsive ", "uninteresting "]}

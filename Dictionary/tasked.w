@@ -1,0 +1,1 @@
+{"index": 316882, "D": "a definite piece of work assigned to, falling to, or expected of a person; duty.", "S": ["charge ", "encumber ", "entrust ", "exhaust ", "lade ", "load ", "oppress ", "overload ", "push ", "saddle ", "strain ", "tax ", "test ", "weary ", "weigh ", "weight "], "A": ["aid ", "assist ", "exonerate ", "help ", "unburden "]}

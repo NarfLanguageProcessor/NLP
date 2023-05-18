@@ -1,0 +1,1 @@
+{"index": 186511, "D": "a small inclusion, consisting of ribosomes and fragments of the endoplasmic reticulum and mitochondria, in the cytoplasm of a cell.", "S": [], "A": []}

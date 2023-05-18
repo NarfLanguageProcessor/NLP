@@ -1,0 +1,1 @@
+{"index": 229513, "D": "having the shape or design of an incomplete circle.", "S": [], "A": []}

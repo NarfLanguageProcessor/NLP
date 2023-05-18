@@ -1,0 +1,1 @@
+{"index": 100592, "D": "the running on of the thought from one line, couplet, or stanza to the next without a syntactical break", "S": [], "A": []}

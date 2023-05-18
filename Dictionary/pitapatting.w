@@ -1,0 +1,1 @@
+{"index": 238217, "D": "with a quick succession of beats or taps", "S": [], "A": []}

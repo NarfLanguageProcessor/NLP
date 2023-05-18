@@ -1,0 +1,1 @@
+{"index": 86664, "D": "to plunge (something, as a cloth or sponge) temporarily into a liquid, so as to moisten it, dye it, or cause it to take up some of the liquid", "S": ["soaked "], "A": []}

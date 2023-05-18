@@ -1,0 +1,1 @@
+{"index": 209560, "D": "an act or instance of or the process or result of numbering or counting.", "S": [], "A": []}

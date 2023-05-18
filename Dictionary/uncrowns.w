@@ -1,0 +1,1 @@
+{"index": 338238, "D": "to deprive or divest of a crown.", "S": ["demote ", "dethrone ", "dismiss ", "impeach ", "overthrow ", "unseat "], "A": ["allow ", "obey ", "promote ", "upgrade "]}

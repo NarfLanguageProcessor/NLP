@@ -1,0 +1,1 @@
+{"index": 63217, "D": "an officer in the U.S. Army, Air Force, or Marine Corps ranking between lieutenant colonel  and brigadier general", "S": [], "A": []}

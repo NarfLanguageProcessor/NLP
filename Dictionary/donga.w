@@ -1,0 +1,1 @@
+{"index": 91417, "D": "(in an ice shelf) a small ravine with steep sides.", "S": [], "A": []}

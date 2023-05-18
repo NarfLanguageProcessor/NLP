@@ -1,0 +1,1 @@
+{"index": 118267, "D": "Michael . born 1933, British playwright, novelist, and translator; his plays include The Two of Us (1970), Noises Off (1982), Copenhagen (1998), and Democracy (2004); novels include A Landing on the Sun (1991) and Spies (2002)", "S": [], "A": []}

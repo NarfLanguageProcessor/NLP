@@ -1,0 +1,1 @@
+{"index": 283553, "D": "restraint imposed on one by oneself; self-control.", "S": ["abstinent ", "ascetic ", "austere ", "continent ", "frugal ", "moderate ", "moderating ", "restrained ", "self-denying ", "self-restrained ", "sober ", "sparing ", "temperate "], "A": ["gluttonous ", "greedy ", "hungry "]}

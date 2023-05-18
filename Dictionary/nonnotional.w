@@ -1,0 +1,1 @@
+{"index": 205515, "D": "pertaining to or expressing a notion or idea.", "S": [], "A": []}

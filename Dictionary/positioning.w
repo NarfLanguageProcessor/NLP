@@ -1,0 +1,1 @@
+{"index": 243801, "D": "the position held by a product brand in the opinion of consumers, in comparison with its competitors' brands", "S": ["adjustment "], "A": []}

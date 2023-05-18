@@ -1,0 +1,1 @@
+{"index": 318366, "D": "any marine bivalve mollusk of the genus Tellina, having a thin, rounded shell of white, yellow, pink, or purple.", "S": [], "A": []}

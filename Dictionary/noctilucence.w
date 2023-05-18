@@ -1,0 +1,1 @@
+{"index": 200633, "D": "(of high-altitude clouds) visible during the short night of the summer.", "S": [], "A": []}

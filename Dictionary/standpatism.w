@@ -1,0 +1,1 @@
+{"index": 302700, "D": "belief in or the practice of resisting or refusing to accept change, especially in politics.", "S": [], "A": []}

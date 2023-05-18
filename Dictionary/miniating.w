@@ -1,0 +1,1 @@
+{"index": 187814, "D": "to illuminate (a manuscript) in red; rubricate.", "S": [], "A": []}

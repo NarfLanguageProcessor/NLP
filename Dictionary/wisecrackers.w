@@ -1,0 +1,1 @@
+{"index": 366426, "D": "a smart or facetious remark.", "S": ["buffoon ", "comedian ", "comic ", "fool ", "jester ", "mime ", "prankster "], "A": []}

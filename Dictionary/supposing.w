@@ -1,0 +1,1 @@
+{"index": 313051, "D": "upon the supposition or premise that; in the event that.", "S": ["assuming ", "presuming ", "presupposing "], "A": []}

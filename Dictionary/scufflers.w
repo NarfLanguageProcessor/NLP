@@ -1,0 +1,1 @@
+{"index": 282147, "D": "to struggle or fight in a rough, confused manner.", "S": [], "A": []}

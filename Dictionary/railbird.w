@@ -1,0 +1,1 @@
+{"index": 260023, "D": "a horse-racing fan who watches races or workouts from the railing along the track.", "S": [], "A": []}

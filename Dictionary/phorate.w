@@ -1,0 +1,1 @@
+{"index": 234790, "D": "a systemic insecticide, C7H17O2PS3, used especially as a soil treatment for the control of numerous crop-damaging insects.", "S": [], "A": []}

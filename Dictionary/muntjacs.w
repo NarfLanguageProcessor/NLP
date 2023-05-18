@@ -1,0 +1,1 @@
+{"index": 195634, "D": "any of various small Asian deer  of the genus Muntiacus, noted for its barking call, especially M. muntjac, of South and Southeast Asia, and M. reevesi, native to China and introduced elsewhere, including England, Belgium, and Japan", "S": [], "A": []}

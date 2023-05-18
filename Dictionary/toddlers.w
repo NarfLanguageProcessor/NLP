@@ -1,0 +1,1 @@
+{"index": 325017, "D": "a person who toddles,  especially a young child learning to walk.", "S": ["child ", "infant ", "kid ", "youngster "], "A": ["adult "]}

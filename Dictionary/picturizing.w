@@ -1,0 +1,1 @@
+{"index": 236122, "D": "to represent in a picture,  especially in a motion picture;  make a picture  of.", "S": [], "A": []}

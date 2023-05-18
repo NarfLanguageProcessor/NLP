@@ -1,0 +1,1 @@
+{"index": 263319, "D": "an act or instance of confirming,  or of establishing someone or something, as by verifying, approving, or corroborating", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309230, "D": "situated beneath the sun or between the earth and the sun.", "S": ["telluric ", "terrene "], "A": ["cosmic ", "heavenly ", "otherworldly "]}

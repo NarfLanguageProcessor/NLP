@@ -1,0 +1,1 @@
+{"index": 15923, "D": "designed to prevent or reduce environmental pollution", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109103, "D": "an irregular, unusually bright patch on the sun's surface.", "S": ["corona ", "solar prominence ", "sun spot ", "tongue ", "tongue of flame "], "A": []}

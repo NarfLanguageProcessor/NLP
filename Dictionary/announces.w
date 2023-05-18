@@ -1,0 +1,1 @@
+{"index": 13612, "D": "to make known publicly or officially; proclaim; give notice of", "S": ["call ", "declare ", "disclose ", "issue ", "publish ", "release ", "report ", "reveal ", "tell "], "A": ["conceal ", "hide ", "hold ", "keep ", "listen ", "suppress ", "keep quiet ", "secret "]}

@@ -1,0 +1,1 @@
+{"index": 10189, "D": "of, relating to, or resembling an ameba. ", "S": [], "A": []}

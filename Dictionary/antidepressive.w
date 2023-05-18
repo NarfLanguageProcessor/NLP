@@ -1,0 +1,1 @@
+{"index": 15095, "D": "of or relating to a substance that is used in the treatment of mood disorders, as characterized by various manic or depressive affects.", "S": [], "A": []}

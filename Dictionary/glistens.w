@@ -1,0 +1,1 @@
+{"index": 126424, "D": "to reflect a sparkling light or a faint intermittent glow; shine lustrously.", "S": ["flicker ", "gleam ", "glimmer ", "glint ", "glitter ", "glow ", "shine ", "sparkle ", "twinkle "], "A": ["dull "]}

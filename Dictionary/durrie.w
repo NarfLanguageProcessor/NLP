@@ -1,0 +1,1 @@
+{"index": 94486, "D": "a cotton carpet made in India, often in rectangular pieces fringed at the ends", "S": [], "A": []}

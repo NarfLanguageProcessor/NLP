@@ -1,0 +1,1 @@
+{"index": 237400, "D": "a fine, white clay used for making tobacco pipes, whitening parts of military or other dress, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 267117, "D": "to send back, remit, or consign again.", "S": ["apprehend ", "commit ", "detain ", "hold ", "incarcerate ", "jail ", "lock up ", "remand "], "A": ["cease ", "free ", "let go ", "liberate ", "release ", "stop ", "aid ", "allow ", "assist ", "help ", "permit "]}

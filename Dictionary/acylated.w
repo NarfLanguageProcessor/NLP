@@ -1,0 +1,1 @@
+{"index": 2493, "D": "to introduce the acyl group  into (a compound).", "S": [], "A": []}

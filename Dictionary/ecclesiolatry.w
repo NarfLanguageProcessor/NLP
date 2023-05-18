@@ -1,0 +1,1 @@
+{"index": 95140, "D": "excessive reverence for churchly forms and traditions.", "S": [], "A": []}

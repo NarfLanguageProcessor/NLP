@@ -1,0 +1,1 @@
+{"index": 289081, "D": "making an imposing display", "S": ["classy ", "garish ", "gaudy ", "ornate ", "ostentatious ", "pretentious ", "sensational ", "splashy "], "A": ["inferior ", "modest ", "plain ", "simple "]}

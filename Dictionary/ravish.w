@@ -1,0 +1,1 @@
+{"index": 261301, "D": "to fill with strong emotion, especially joy.", "S": ["bewitch ", "enthrall ", "spellbind "], "A": ["turn off ", "depress ", "disenchant ", "disgust ", "displease ", "offend ", "repel ", "repulse "]}

@@ -1,0 +1,1 @@
+{"index": 29128, "D": "a technique of hand-dyeing fabrics by using wax as a dye repellent to cover parts of a design, dyeing the uncovered fabric with a color or colors, and dissolving the wax in boiling water.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349966, "D": "in a rigidly consistent or uncompromising way; very strictly", "S": [], "A": []}

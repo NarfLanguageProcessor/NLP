@@ -1,0 +1,1 @@
+{"index": 78274, "D": "to withdraw certification from.", "S": [], "A": []}

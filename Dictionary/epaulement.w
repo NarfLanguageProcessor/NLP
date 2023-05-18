@@ -1,0 +1,1 @@
+{"index": 102036, "D": "a position in which the shoulders are at right angles to the direction of the supporting leg, with one shoulder thrust forward and one back.", "S": [], "A": []}

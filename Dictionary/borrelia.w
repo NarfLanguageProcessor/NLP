@@ -1,0 +1,1 @@
+{"index": 38513, "D": "any of several spiral, parasitic bacteria of the genus Borrelia, certain species of which are pathogenic for humans, other mammals, or birds.", "S": [], "A": []}

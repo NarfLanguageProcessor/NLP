@@ -1,0 +1,1 @@
+{"index": 318812, "D": "the office of matins and lauds for Thursday, Friday, and Saturday of Holy Week, sung respectively on the afternoon of Wednesday, Thursday, and Friday of that week, at which the Crucifixion is commemorated by the gradual extinguishment of candles.", "S": [], "A": []}

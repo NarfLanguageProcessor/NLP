@@ -1,0 +1,1 @@
+{"index": 14617, "D": "to ascribe human form or attributes to (an animal, plant, material object, etc.).", "S": [], "A": []}

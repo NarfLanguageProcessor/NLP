@@ -1,0 +1,1 @@
+{"index": 81476, "D": "an ester of a deoxyribonucleoside and phosphoric acid; a constituent of DNA.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 63839, "D": "approach; arrival; advent", "S": ["anticipated ", "expected ", "forthcoming ", "impending ", "subsequent "], "A": ["distant ", "away ", "far ", "gone ", "past "]}

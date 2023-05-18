@@ -1,0 +1,1 @@
+{"index": 34709, "D": "the fourth power.", "S": [], "A": []}

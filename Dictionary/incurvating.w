@@ -1,0 +1,1 @@
+{"index": 150616, "D": "curved, especially inward.", "S": ["bow ", "buckle ", "crouch ", "curl ", "flex ", "incline ", "lean ", "stoop ", "tilt ", "twist ", "veer "], "A": ["straighten ", "rise "]}

@@ -1,0 +1,1 @@
+{"index": 263560, "D": "to get back or regain (something lost or taken away)", "S": ["improving "], "A": []}

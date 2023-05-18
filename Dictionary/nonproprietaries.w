@@ -1,0 +1,1 @@
+{"index": 206289, "D": "belonging to a proprietor. ", "S": [], "A": []}

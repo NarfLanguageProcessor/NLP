@@ -1,0 +1,1 @@
+{"index": 252091, "D": "the practices, attitudes, or social status of a proletarian. ", "S": [], "A": []}

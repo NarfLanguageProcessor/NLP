@@ -1,0 +1,1 @@
+{"index": 46189, "D": "of or relating to Candia or Crete; Cretan.", "S": [], "A": []}

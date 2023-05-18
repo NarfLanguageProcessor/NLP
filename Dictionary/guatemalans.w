@@ -1,0 +1,1 @@
+{"index": 130830, "D": "a republic in northern Central America. 42,042 sq. mi (108,889 sq km).", "S": [], "A": []}

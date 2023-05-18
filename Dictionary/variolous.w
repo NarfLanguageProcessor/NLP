@@ -1,0 +1,1 @@
+{"index": 357277, "D": "of or relating to smallpox.", "S": [], "A": []}

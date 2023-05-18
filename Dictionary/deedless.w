@@ -1,0 +1,1 @@
+{"index": 78964, "D": "something that is done, performed, or accomplished; an act", "S": [], "A": []}

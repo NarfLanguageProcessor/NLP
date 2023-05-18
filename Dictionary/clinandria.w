@@ -1,0 +1,1 @@
+{"index": 60010, "D": "a cavity in the apex of the column in orchids, in which the anthers rest; the androclinium. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82588, "D": "made or done intentionally; intended; planned.", "S": [], "A": []}

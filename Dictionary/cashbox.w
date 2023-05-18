@@ -1,0 +1,1 @@
+{"index": 48863, "D": "a box  or container for money, especially with compartments for coins and bills of different denominations.", "S": ["coin box ", "money box ", "register ", "sales register ", "till "], "A": []}

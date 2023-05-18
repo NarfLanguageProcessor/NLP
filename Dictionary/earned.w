@@ -1,0 +1,1 @@
+{"index": 94767, "D": "to gain or get in return for one's labor or service", "S": ["captured ", "collected ", "seized "], "A": ["deprived ", "forfeited ", "lost "]}

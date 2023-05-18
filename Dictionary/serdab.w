@@ -1,0 +1,1 @@
+{"index": 285946, "D": "a chamber inside a mastaba containing a statue of the deceased.", "S": [], "A": []}

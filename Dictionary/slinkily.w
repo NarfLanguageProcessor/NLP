@@ -1,0 +1,1 @@
+{"index": 294135, "D": "characterized by or proceeding with slinking  or stealthy movements.", "S": [], "A": []}

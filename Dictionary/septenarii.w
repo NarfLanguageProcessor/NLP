@@ -1,0 +1,1 @@
+{"index": 285678, "D": "a verse consisting of seven feet, usually printed in two lines", "S": [], "A": []}

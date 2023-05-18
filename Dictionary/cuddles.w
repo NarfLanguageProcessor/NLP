@@ -1,0 +1,1 @@
+{"index": 74596, "D": "to hold close in an affectionate manner; hug tenderly; fondle.", "S": ["caress ", "clasp ", "curl up ", "snuggle "], "A": ["let go ", "release "]}

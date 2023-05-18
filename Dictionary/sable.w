@@ -1,0 +1,1 @@
+{"index": 276089, "D": "an Old World  weasellike mammal, Mustela zibellina, of cold regions in Eurasia and the North Pacific Islands, valued for its dark brown fur.", "S": ["black ", "dark ", "ebony ", "jet ", "jetty ", "raven "], "A": ["good ", "happy ", "hopeful ", "white "]}

@@ -1,0 +1,1 @@
+{"index": 261671, "D": "the act or an instance of affirming;  state of being affirmed. ", "S": [], "A": []}

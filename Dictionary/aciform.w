@@ -1,0 +1,1 @@
+{"index": 2485, "D": "needle-shaped; acicular.", "S": [], "A": []}

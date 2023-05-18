@@ -1,0 +1,1 @@
+{"index": 342047, "D": "susceptible to fatigue.", "S": [], "A": []}

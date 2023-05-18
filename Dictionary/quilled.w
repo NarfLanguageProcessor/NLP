@@ -1,0 +1,1 @@
+{"index": 258611, "D": "rolled or incurved into a narrow tubular form.", "S": [], "A": []}

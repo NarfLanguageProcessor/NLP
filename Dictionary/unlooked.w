@@ -1,0 +1,1 @@
+{"index": 345767, "D": "not examined, investigated, or heeded (usually followed by into, on, or at)", "S": [], "A": []}

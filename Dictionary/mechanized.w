@@ -1,0 +1,1 @@
+{"index": 181892, "D": "to make mechanical. ", "S": ["automatic ", "computerized ", "electrical ", "electronic ", "mechanical ", "robotic "], "A": ["by hand ", "manual "]}

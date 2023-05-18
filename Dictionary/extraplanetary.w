@@ -1,0 +1,1 @@
+{"index": 108590, "D": "existing or occurring in outer space beyond a planet, especially away from the planet Earth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 263250, "D": "capable of being reconciled. ", "S": ["adaptable ", "appropriate ", "consistent ", "suitable "], "A": ["improper ", "unfitting ", "unsuitable "]}

@@ -1,0 +1,1 @@
+{"index": 259293, "D": "Israeli military and political leader", "S": [], "A": []}

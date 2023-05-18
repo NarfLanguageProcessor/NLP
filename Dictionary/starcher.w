@@ -1,0 +1,1 @@
+{"index": 302854, "D": [], "S": ["customary ", "mundane ", "normal ", "obvious ", "prevalent ", "typical "], "A": ["abnormal ", "different ", "irregular ", "rare ", "uncommon ", "unconventional ", "unusual ", "exceptional ", "extraordinary "]}

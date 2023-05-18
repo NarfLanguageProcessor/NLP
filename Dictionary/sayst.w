@@ -1,0 +1,1 @@
+{"index": 276860, "D": "2nd person singular of say1. ", "S": [], "A": []}

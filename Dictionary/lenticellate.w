@@ -1,0 +1,1 @@
+{"index": 170482, "D": "a body of cells formed on the periderm of a stem, appearing on the surface of the plant as a lens-shaped spot, and serving as a pore.", "S": [], "A": []}

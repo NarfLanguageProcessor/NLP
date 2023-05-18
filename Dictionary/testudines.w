@@ -1,0 +1,1 @@
+{"index": 319850, "D": "(among the ancient Romans) a movable shelter with a strong and usually fireproof arched roof, used for protection of soldiers in siege operations.", "S": [], "A": []}

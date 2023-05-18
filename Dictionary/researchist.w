@@ -1,0 +1,1 @@
+{"index": 269108, "D": "diligent and systematic inquiry or investigation into a subject in order to discover or revise facts, theories, applications, etc.", "S": ["finder of fact ", "research worker ", "researcher "], "A": []}

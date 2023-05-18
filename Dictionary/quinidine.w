@@ -1,0 +1,1 @@
+{"index": 258714, "D": "a colorless, crystalline alkaloid, C20H24N2O2, isomeric with quinine,  obtained from the bark of certain species of cinchona trees or shrubs, used chiefly to regulate heart rhythm and to treat malaria.", "S": [], "A": []}

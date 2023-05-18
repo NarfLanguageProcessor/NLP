@@ -1,0 +1,1 @@
+{"index": 113295, "D": "being before all others with respect to time, order, rank, importance, etc., used as the ordinal number of one", "S": [], "A": []}

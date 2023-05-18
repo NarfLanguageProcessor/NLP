@@ -1,0 +1,1 @@
+{"index": 259574, "D": "the quantity under a radical sign.", "S": [], "A": []}

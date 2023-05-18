@@ -1,0 +1,1 @@
+{"index": 99419, "D": "to convert (a message, information, etc.) into code. ", "S": [], "A": []}

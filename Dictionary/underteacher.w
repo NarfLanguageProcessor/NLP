@@ -1,0 +1,1 @@
+{"index": 339985, "D": "a person who teaches  or instructs, especially as a profession; instructor.", "S": [], "A": []}

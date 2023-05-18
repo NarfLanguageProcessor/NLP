@@ -1,0 +1,1 @@
+{"index": 44315, "D": "cadence (defs. 1-7). ", "S": ["beat ", "cadence ", "measure ", "meter ", "pulse ", "tempo "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107292, "D": "the study of life beyond the earth's atmosphere, as on other planets.", "S": [], "A": []}

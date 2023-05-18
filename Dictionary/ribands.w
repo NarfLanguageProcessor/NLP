@@ -1,0 +1,1 @@
+{"index": 272420, "D": "a decorative ribbon.", "S": [], "A": []}

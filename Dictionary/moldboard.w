@@ -1,0 +1,1 @@
+{"index": 191413, "D": "the curved metal plate in a plow that turns over the earth from the furrow.", "S": [], "A": []}

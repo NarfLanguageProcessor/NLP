@@ -1,0 +1,1 @@
+{"index": 29498, "D": "a tall pole  for a bean  plant to climb on.", "S": ["beanstalk ", "broomstick ", "hatrack ", "stick ", "string bean "], "A": []}

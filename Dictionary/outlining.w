@@ -1,0 +1,1 @@
+{"index": 216949, "D": "the line  by which a figure or object is defined or bounded; contour.", "S": ["banding ", "bordering ", "bounding ", "circumscribing ", "delimiting ", "girdling ", "marking ", "zoning "], "A": []}

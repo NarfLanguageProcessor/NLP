@@ -1,0 +1,1 @@
+{"index": 35077, "D": "any of several thorny cactuses of the genera Echinocactus, Ferocactus, and Astrophytum of the southwestern U.S.", "S": [], "A": []}

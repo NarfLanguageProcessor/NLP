@@ -1,0 +1,1 @@
+{"index": 223120, "D": "the part of a cargo producing revenue or income, usually expressed in weight.", "S": ["charge ", "haul ", "weight "], "A": []}

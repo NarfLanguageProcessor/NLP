@@ -1,0 +1,1 @@
+{"index": 172254, "D": "an imaginary country inhabited by people about 6 inches (15 centimeters) tall, described in Jonathan Swift's Gulliver's Travels.", "S": [], "A": []}

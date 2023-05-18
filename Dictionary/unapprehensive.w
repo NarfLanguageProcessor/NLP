@@ -1,0 +1,1 @@
+{"index": 335148, "D": "uneasy or fearful about something that might happen", "S": ["fearless ", "indomitable ", "steadfast ", "undeterred "], "A": ["cowardly ", "shrinking "]}

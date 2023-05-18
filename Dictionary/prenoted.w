@@ -1,0 +1,1 @@
+{"index": 248563, "D": "a brief record of something written down to assist the memory or for future reference.", "S": [], "A": []}

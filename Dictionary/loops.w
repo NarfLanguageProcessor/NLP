@@ -1,0 +1,1 @@
+{"index": 175111, "D": "a portion of a cord, ribbon, etc., folded or doubled upon itself so as to leave an opening between the parts.", "S": ["coil ", "curve "], "A": ["line "]}

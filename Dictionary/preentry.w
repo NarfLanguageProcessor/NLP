@@ -1,0 +1,1 @@
+{"index": 247318, "D": "an act of entering; entrance.", "S": [], "A": []}

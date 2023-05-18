@@ -1,0 +1,1 @@
+{"index": 70072, "D": "a Russian or Soviet astronaut.", "S": ["pilot "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 285251, "D": "a republic in western Africa, bordered on the west by the Atlantic Ocean  and on the east by Mali. 76,084 square miles (197,057 square kilometers). Capital", "S": [], "A": []}

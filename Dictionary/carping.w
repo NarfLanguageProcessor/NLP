@@ -1,0 +1,1 @@
+{"index": 48407, "D": "characterized by fussy or petulant faultfinding; querulous", "S": ["bellyaching ", "caviling ", "criticizing ", "disparaging ", "griping ", "grousing ", "grumbling ", "kvetching ", "moaning ", "nagging ", "niggling ", "quibbling ", "whining "], "A": ["complimentary ", "forgiving "]}

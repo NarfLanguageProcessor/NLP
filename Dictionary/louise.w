@@ -1,0 +1,1 @@
+{"index": 175447, "D": "a glacial lake in W Canada, in SW Alberta in the Canadian Rockies", "S": [], "A": []}

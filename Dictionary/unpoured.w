@@ -1,0 +1,1 @@
+{"index": 348226, "D": "to send (a liquid, fluid, or anything in loose particles) flowing or falling, as from one container to another, or into, over, or on something", "S": [], "A": []}

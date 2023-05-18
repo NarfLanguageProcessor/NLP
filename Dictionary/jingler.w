@@ -1,0 +1,1 @@
+{"index": 161295, "D": "to make clinking or tinkling sounds, as do coins, keys, or other light, resonant metal objects when coming into contact or being struck together repeatedly", "S": [], "A": []}

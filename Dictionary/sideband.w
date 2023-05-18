@@ -1,0 +1,1 @@
+{"index": 289725, "D": "the band of frequencies at the sides of the carrier frequency of a modulated signal.", "S": [], "A": []}

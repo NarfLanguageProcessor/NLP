@@ -1,0 +1,1 @@
+{"index": 303071, "D": "the electrostatic unit of capacitance, equivalent to 1.1126 \u00d7 10\u221212 farad and equal to the capacitance of a condenser in which one statcoulomb is transferred from one conductor of the condenser to the other per volt of potential difference between the conductors.", "S": [], "A": []}

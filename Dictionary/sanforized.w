@@ -1,0 +1,1 @@
+{"index": 277853, "D": "(of a fabric) treated to resist shrinking.", "S": [], "A": []}

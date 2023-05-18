@@ -1,0 +1,1 @@
+{"index": 128164, "D": "lacking in vitality or intelligence; stupid, dull, or clumsy.", "S": [], "A": []}

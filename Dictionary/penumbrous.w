@@ -1,0 +1,1 @@
+{"index": 230138, "D": "Compare umbral 2b. ", "S": [], "A": []}

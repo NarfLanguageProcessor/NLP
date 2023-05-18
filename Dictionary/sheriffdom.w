@@ -1,0 +1,1 @@
+{"index": 288098, "D": "the law-enforcement officer of a county or other civil subdivision of a state.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 784, "D": "being or relating to any of the religions in which Abraham  is revered as the first of the patriarchs", "S": [], "A": []}

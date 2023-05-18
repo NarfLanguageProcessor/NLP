@@ -1,0 +1,1 @@
+{"index": 347295, "D": "to draw  upon (an account, allowance, etc.) in excess of the balance standing to one's credit or at one's disposal", "S": [], "A": []}

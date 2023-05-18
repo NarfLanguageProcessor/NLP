@@ -1,0 +1,1 @@
+{"index": 155532, "D": "a papal ambassador ranking next below a nuncio.", "S": ["agent ", "carrier ", "conveyor ", "courier ", "emissary ", "envoy ", "messenger ", "porter ", "runner ", "servant ", "shipper ", "transporter "], "A": ["receiver "]}

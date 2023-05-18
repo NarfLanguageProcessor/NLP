@@ -1,0 +1,1 @@
+{"index": 147874, "D": "the doctrine that there is no material world, but that all things exist only in and for minds.", "S": [], "A": []}

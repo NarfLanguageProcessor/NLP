@@ -1,0 +1,1 @@
+{"index": 329581, "D": "a couch extending along three sides of a table, for reclining on at meals.", "S": [], "A": []}

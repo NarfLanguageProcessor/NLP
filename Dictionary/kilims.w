@@ -1,0 +1,1 @@
+{"index": 164572, "D": "a pileless, tapestry-woven rug or other covering made in various parts of the Middle East, eastern Europe, and Turkestan.", "S": [], "A": []}

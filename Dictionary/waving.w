@@ -1,0 +1,1 @@
+{"index": 363385, "D": "a disturbance on the surface of a liquid body, as the sea or a lake, in the form of a moving ridge or swell.", "S": ["bouncing ", "bouncy ", "bulgy ", "distended ", "ebbing and flowing ", "heaving ", "puffy ", "rippling ", "rising ", "rising and falling ", "rolling ", "swelling ", "swirling ", "swollen ", "undulating ", "wavy "], "A": []}

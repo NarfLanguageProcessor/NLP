@@ -1,0 +1,1 @@
+{"index": 214253, "D": "(in plane Cartesian coordinates) the y-coordinate of a point", "S": ["appoint ", "authorize ", "call for ", "direct ", "require ", "tell "], "A": ["reject ", "aid ", "allow ", "approve ", "ask ", "assist ", "cancel ", "conceal ", "disallow ", "free ", "help ", "hinder ", "liberate ", "permit ", "prevent ", "refuse ", "stop ", "veto "]}

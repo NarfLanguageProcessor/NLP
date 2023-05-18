@@ -1,0 +1,1 @@
+{"index": 121528, "D": "pertaining to or produced by galvanism;  producing or caused by an electric current.", "S": ["propulsive "], "A": ["inactive "]}

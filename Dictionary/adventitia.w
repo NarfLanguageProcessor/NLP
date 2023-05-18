@@ -1,0 +1,1 @@
+{"index": 4597, "D": "the external covering of an organ or other structure, derived from connective tissue, especially the external covering of a blood vessel.", "S": [], "A": []}

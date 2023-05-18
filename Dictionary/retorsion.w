@@ -1,0 +1,1 @@
+{"index": 270590, "D": "retaliation or reprisal by one state identical or similar to an act by an offending state, such as high tariffs or discriminating duties.", "S": [], "A": []}

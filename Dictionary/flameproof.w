@@ -1,0 +1,1 @@
+{"index": 113871, "D": "resisting the effect of flames;  not readily ignited or burned by flames. ", "S": [], "A": []}

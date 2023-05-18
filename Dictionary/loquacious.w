@@ -1,0 +1,1 @@
+{"index": 175218, "D": "talking or tending to talk much or freely; talkative; chattering; babbling; garrulous", "S": ["chatty ", "garrulous ", "long-winded ", "voluble "], "A": ["quiet ", "silent ", "untalkative "]}

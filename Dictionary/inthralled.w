@@ -1,0 +1,1 @@
+{"index": 156271, "D": "captivated or charmed", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 254021, "D": "of or relating to Provence,  its people, or their language.", "S": ["Catalan ", "Continental ", "French ", "Indo-European language ", "Italian ", "Italic language ", "Latin ", "Portuguese ", "Spanish ", "insular "], "A": []}

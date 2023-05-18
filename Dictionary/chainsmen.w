@@ -1,0 +1,1 @@
+{"index": 51995, "D": "a person who stands in the chains to take soundings; leadsman.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 364362, "D": "a person or vessel employed in whaling. ", "S": [], "A": []}

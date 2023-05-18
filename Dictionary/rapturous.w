@@ -1,0 +1,1 @@
+{"index": 260802, "D": "full of, feeling, or manifesting ecstatic joy or delight.", "S": ["delightful ", "euphoric "], "A": []}

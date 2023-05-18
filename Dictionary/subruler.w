@@ -1,0 +1,1 @@
+{"index": 309031, "D": "a person who rules  or governs; sovereign.", "S": [], "A": []}

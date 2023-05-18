@@ -1,0 +1,1 @@
+{"index": 220810, "D": "to refine  excessively, as with oversubtle distinctions.", "S": [], "A": []}

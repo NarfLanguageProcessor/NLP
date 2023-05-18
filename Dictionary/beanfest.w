@@ -1,0 +1,1 @@
+{"index": 29486, "D": "(formerly) an annual dinner or party given by an employer for employees.", "S": [], "A": []}

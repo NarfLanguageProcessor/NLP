@@ -1,0 +1,1 @@
+{"index": 249276, "D": "of or relating to the period before the development of modern science and its methods", "S": [], "A": []}

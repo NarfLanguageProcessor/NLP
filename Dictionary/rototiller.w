@@ -1,0 +1,1 @@
+{"index": 274678, "D": "a motorized device having spinning blades perpendicular to the ground and arranged like spokes, used for tilling soil.", "S": [], "A": []}

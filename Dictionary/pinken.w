@@ -1,0 +1,1 @@
+{"index": 237097, "D": "to grow or turn pink. ", "S": ["darken ", "dye ", "embellish ", "enliven ", "illuminate ", "infuse ", "paint ", "stain ", "tint ", "wash "], "A": ["discolor ", "fade ", "lighten ", "pale ", "whiten "]}

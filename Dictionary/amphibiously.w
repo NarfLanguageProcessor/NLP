@@ -1,0 +1,1 @@
+{"index": 11054, "D": "living or able to live both on land and in water; belonging to both land and water.", "S": [], "A": []}

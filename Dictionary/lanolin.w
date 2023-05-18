@@ -1,0 +1,1 @@
+{"index": 168192, "D": "a fatty substance, extracted from wool, used in ointments, cosmetics, waterproof coatings, etc.", "S": ["face cream ", "hand cream ", "hand lotion ", "vanishing cream "], "A": []}

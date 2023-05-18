@@ -1,0 +1,1 @@
+{"index": 135134, "D": "a unit of surface, or land, measure equal to 100 ares,  or 10,000 square meters", "S": [], "A": []}

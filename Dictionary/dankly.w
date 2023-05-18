@@ -1,0 +1,1 @@
+{"index": 76800, "D": "unpleasantly moist or humid; damp and, often, chilly", "S": [], "A": []}

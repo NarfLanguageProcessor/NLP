@@ -1,0 +1,1 @@
+{"index": 109218, "D": "an openwork decoration of fabric in which thread is drawn in crisscross stitches across an open seam.", "S": [], "A": []}

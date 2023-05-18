@@ -1,0 +1,1 @@
+{"index": 52141, "D": "containing or impregnated with salts of iron, as a mineral spring or medicine.", "S": [], "A": []}

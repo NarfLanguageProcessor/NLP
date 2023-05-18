@@ -1,0 +1,1 @@
+{"index": 240093, "D": "a movement in which the knees are bent while the back is held straight.", "S": [], "A": []}

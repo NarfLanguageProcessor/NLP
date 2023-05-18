@@ -1,0 +1,1 @@
+{"index": 209770, "D": "a nutlike gall  or excrescence, especially one formed on an oak.", "S": [], "A": []}

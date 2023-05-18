@@ -1,0 +1,1 @@
+{"index": 192309, "D": "any trematode of the order Monogenea, mostly ectoparasites on fish, amphibians, and turtles.", "S": [], "A": []}

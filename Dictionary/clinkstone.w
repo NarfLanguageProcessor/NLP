@@ -1,0 +1,1 @@
+{"index": 60065, "D": "a variety of phonolite that makes a metallic sound when struck", "S": [], "A": []}

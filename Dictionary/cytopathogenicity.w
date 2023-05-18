@@ -1,0 +1,1 @@
+{"index": 58776, "D": "of or relating to a substance or microorganism that is pathologic for or destructive to cells.", "S": [], "A": []}

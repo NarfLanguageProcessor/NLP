@@ -1,0 +1,1 @@
+{"index": 343580, "D": "characterized by the presence of haze; misty", "S": [], "A": []}

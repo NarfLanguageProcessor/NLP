@@ -1,0 +1,1 @@
+{"index": 331940, "D": "resembling a tubercle.", "S": [], "A": []}

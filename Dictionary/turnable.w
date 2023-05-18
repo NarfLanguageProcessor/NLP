@@ -1,0 +1,1 @@
+{"index": 332789, "D": "to cause to move around on an axis or about a center; rotate", "S": ["ambulatory ", "mobile ", "motile ", "portable "], "A": ["fixed ", "immovable ", "permanent ", "unmovable "]}

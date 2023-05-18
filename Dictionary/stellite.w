@@ -1,0 +1,1 @@
+{"index": 303582, "D": "any of various alloys containing cobalt, chromium, carbon, tungsten, and molybdenum", "S": [], "A": []}

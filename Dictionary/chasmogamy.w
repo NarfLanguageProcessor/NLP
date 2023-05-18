@@ -1,0 +1,1 @@
+{"index": 53030, "D": "Compare cleistogamy", "S": [], "A": []}

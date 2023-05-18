@@ -1,0 +1,1 @@
+{"index": 41799, "D": "a fastball thrown high and inside to force the batter away from the plate, often to intimidate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8427, "D": "alkaline  condition; the quality that constitutes an alkali. ", "S": [], "A": []}

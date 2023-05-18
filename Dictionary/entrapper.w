@@ -1,0 +1,1 @@
+{"index": 101647, "D": "to catch in or as in a trap; ensnare", "S": [], "A": []}

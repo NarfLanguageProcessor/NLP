@@ -1,0 +1,1 @@
+{"index": 160218, "D": "an old, decrepit, or unpretentious automobile.", "S": ["heap ", "junker ", "wreck "], "A": []}

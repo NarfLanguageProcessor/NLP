@@ -1,0 +1,1 @@
+{"index": 302476, "D": "resembling or shaped like a stalactite. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146731, "D": "deep longing, especially when accompanied by tenderness or sadness", "S": ["ambition ", "appetite ", "aspiration ", "craving ", "eagerness ", "fascination ", "hankering ", "hunger ", "longing ", "passion ", "thirst "], "A": ["apathy ", "disinterest ", "dislike ", "distaste ", "hate ", "hatred ", "indifference ", "satisfaction ", "comfort ", "plenty "]}

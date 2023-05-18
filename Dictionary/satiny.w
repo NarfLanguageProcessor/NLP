@@ -1,0 +1,1 @@
+{"index": 278724, "D": "satinlike; smooth; glossy.", "S": ["lustrous ", "silken "], "A": []}

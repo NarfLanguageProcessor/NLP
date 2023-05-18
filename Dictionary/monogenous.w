@@ -1,0 +1,1 @@
+{"index": 192324, "D": "monogenetic. ", "S": [], "A": []}

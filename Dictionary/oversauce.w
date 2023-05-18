@@ -1,0 +1,1 @@
+{"index": 220966, "D": "any preparation, usually liquid or semiliquid, eaten as a gravy or as a relish accompanying food.", "S": [], "A": []}

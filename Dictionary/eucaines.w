@@ -1,0 +1,1 @@
+{"index": 105262, "D": "a white, crystalline solid, C15H21NO2, formerly a local anesthetic, used in veterinary medicine as a substitute for cocaine.", "S": [], "A": []}

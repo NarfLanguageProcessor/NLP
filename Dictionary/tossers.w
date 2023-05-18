@@ -1,0 +1,1 @@
+{"index": 326417, "D": "to throw, pitch, or fling, especially to throw lightly or carelessly", "S": ["slingshot "], "A": []}

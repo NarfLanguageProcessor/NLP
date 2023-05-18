@@ -1,0 +1,1 @@
+{"index": 106719, "D": "causing an increase of motor  activity", "S": [], "A": []}

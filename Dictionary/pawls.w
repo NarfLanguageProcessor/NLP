@@ -1,0 +1,1 @@
+{"index": 228258, "D": "a pivoted bar adapted to engage with the teeth of a ratchet wheel or the like so as to prevent movement or to impart motion.", "S": [], "A": []}

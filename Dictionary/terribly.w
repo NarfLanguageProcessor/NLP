@@ -1,0 +1,1 @@
+{"index": 319566, "D": "in a terrible  manner.", "S": ["awfully ", "badly ", "decidedly ", "desperately ", "dreadfully ", "exceedingly ", "extremely ", "greatly ", "highly ", "horribly ", "intensely ", "mightily ", "notoriously ", "remarkably ", "seriously ", "thoroughly ", "unbelievably "], "A": ["calmly ", "little ", "mildly "]}

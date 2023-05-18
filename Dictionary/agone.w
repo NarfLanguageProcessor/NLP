@@ -1,0 +1,1 @@
+{"index": 6351, "D": "an archaic variant of ago. ", "S": [], "A": []}

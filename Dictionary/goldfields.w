@@ -1,0 +1,1 @@
+{"index": 127524, "D": "any of several Californian, composite herbs of the genus Lasthenia, having yellow flowers.", "S": [], "A": []}

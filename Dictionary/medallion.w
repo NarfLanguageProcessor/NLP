@@ -1,0 +1,1 @@
+{"index": 181967, "D": "a large medal.", "S": ["emblem ", "jewelry ", "necklace "], "A": []}

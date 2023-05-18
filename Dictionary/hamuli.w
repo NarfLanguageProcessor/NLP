@@ -1,0 +1,1 @@
+{"index": 133066, "D": "a small hook or hooklike process, especially at the end of a bone.", "S": [], "A": []}

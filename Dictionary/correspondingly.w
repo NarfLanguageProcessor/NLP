@@ -1,0 +1,1 @@
+{"index": 69670, "D": "to be in agreement or conformity (often followed by with or to)", "S": ["appropriately ", "properly ", "proportionately ", "respectively ", "subsequently ", "therefore ", "thus "], "A": ["inappropriately ", "unsuitably "]}

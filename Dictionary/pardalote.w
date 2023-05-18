@@ -1,0 +1,1 @@
+{"index": 226292, "D": "any of several tiny, short-tailed Australian songbirds of the genus Pardalotus, having short bills and most having brilliant plumage with gemlike specks on the dark upper parts.", "S": [], "A": []}

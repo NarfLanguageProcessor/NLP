@@ -1,0 +1,1 @@
+{"index": 307256, "D": "of or relating to a process that occurs within an atom.", "S": ["atomic "], "A": []}

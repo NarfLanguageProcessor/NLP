@@ -1,0 +1,1 @@
+{"index": 73943, "D": "a variant spelling of crotal", "S": [], "A": []}

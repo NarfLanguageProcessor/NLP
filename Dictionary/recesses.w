@@ -1,0 +1,1 @@
+{"index": 262762, "D": "temporary withdrawal or cessation from the usual work or activity.", "S": ["belly ", "core ", "deep ", "depths ", "entrails ", "guts ", "hold ", "innards ", "interior ", "intestines ", "penetralia ", "viscera ", "vitals "], "A": ["exterior ", "exteriority ", "outside "]}

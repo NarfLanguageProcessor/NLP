@@ -1,0 +1,1 @@
+{"index": 35135, "D": "a brown pigment extracted from the soot of wood, often used in pen and wash drawings.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277656, "D": "to make holy; set apart as sacred; consecrate.", "S": ["ablution ", "christening ", "debut ", "dedication ", "immersion ", "introduction ", "launching ", "purgation ", "purge ", "purification ", "ritual ", "sprinkling "], "A": []}

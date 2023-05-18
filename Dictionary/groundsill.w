@@ -1,0 +1,1 @@
+{"index": 130332, "D": "the lowermost sill of a framed structure, especially one lying close to the ground.", "S": [], "A": []}

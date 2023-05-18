@@ -1,0 +1,1 @@
+{"index": 225062, "D": "(especially of viruses) attracted to or affecting many types of body tissues.", "S": [], "A": []}

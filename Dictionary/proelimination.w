@@ -1,0 +1,1 @@
+{"index": 251612, "D": "the act of eliminating. ", "S": [], "A": []}

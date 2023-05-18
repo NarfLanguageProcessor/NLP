@@ -1,0 +1,1 @@
+{"index": 305694, "D": "a person or thing that strains. ", "S": ["colander ", "sieve "], "A": []}

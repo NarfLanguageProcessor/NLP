@@ -1,0 +1,1 @@
+{"index": 357984, "D": "a thin layer of wood or other material for facing or inlaying wood.", "S": ["coating ", "exterior ", "facade ", "gloss ", "layer ", "mask ", "semblance "], "A": ["reality "]}

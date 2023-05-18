@@ -1,0 +1,1 @@
+{"index": 219033, "D": "to do to excess; overindulge in", "S": [], "A": []}

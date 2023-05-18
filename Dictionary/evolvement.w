@@ -1,0 +1,1 @@
+{"index": 106329, "D": "to develop gradually", "S": ["evolution ", "growth ", "maturation ", "progress ", "progression ", "transformation ", "unfolding "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70736, "D": "the culture  and lifestyle of those people, especially among the young, who reject or oppose the dominant values and behavior of society.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361296, "D": "any colonial, freshwater green algae of the genus Volvox, forming a hollow, greenish sphere of flagellated cells.", "S": [], "A": []}

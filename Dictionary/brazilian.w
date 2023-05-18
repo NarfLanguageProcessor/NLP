@@ -1,0 +1,1 @@
+{"index": 40171, "D": "of or relating to Brazil or its inhabitants", "S": [], "A": []}

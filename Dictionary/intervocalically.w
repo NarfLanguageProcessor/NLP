@@ -1,0 +1,1 @@
+{"index": 156202, "D": "(usually of a consonant) immediately following a vowel and preceding a vowel, as the v in cover.", "S": [], "A": []}

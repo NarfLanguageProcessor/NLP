@@ -1,0 +1,1 @@
+{"index": 94023, "D": "French trader and explorer in Canada and Great Lakes region.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253996, "D": "of, relating to, or resembling Marcel Proust,  his writings, or the middle-class and aristocratic worlds he described.", "S": [], "A": []}

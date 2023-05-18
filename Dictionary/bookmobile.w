@@ -1,0 +1,1 @@
+{"index": 38104, "D": "an automobile, small truck, or trailer constructed to carry books  and serve as a traveling library, as for communities where libraries are not accessible.", "S": ["circulating library ", "county library ", "mobile library ", "municipal library ", "school library ", "state library ", "town library "], "A": []}

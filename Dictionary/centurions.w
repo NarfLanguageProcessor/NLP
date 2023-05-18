@@ -1,0 +1,1 @@
+{"index": 51074, "D": "(in the ancient Roman army) the commander of a century.", "S": ["captain ", "deputy ", "detective ", "police ", "police officer "], "A": []}

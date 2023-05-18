@@ -1,0 +1,1 @@
+{"index": 277880, "D": "a closely woven fabric made of mohair or worsted, constructed in plain weave, and finished to simulate the coat of a boar.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 185711, "D": "the mass of hyphae that form the vegetative part of a fungus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78965, "D": "something that is done, performed, or accomplished; an act", "S": ["backdrop ", "culture ", "education ", "environment ", "history ", "practice ", "qualification ", "tradition ", "training ", "upbringing "], "A": ["ignorance "]}

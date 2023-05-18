@@ -1,0 +1,1 @@
+{"index": 104445, "D": "embraced or adopted, as an idea, principle, or cause", "S": ["joined ", "marital ", "mated ", "united "], "A": ["separated "]}

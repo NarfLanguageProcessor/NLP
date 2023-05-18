@@ -1,0 +1,1 @@
+{"index": 141299, "D": "assumed by hypothesis; supposed", "S": ["debatable ", "imaginary ", "problematic ", "speculative ", "theoretical ", "vague "], "A": ["certain ", "definite ", "factual ", "real ", "sure "]}

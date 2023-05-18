@@ -1,0 +1,1 @@
+{"index": 264143, "D": "a fatal disease of newborn lambs of unknown cause in which the horny layers of the feet become separated, exposing the red laminae below", "S": [], "A": []}

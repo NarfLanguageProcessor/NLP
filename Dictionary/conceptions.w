@@ -1,0 +1,1 @@
+{"index": 65157, "D": "the act of conceiving;  the state of being conceived. ", "S": ["appreciation ", "conceit ", "concept ", "impression ", "interpretation ", "notion ", "perception ", "realization "], "A": ["concrete ", "fact ", "ignorance ", "misunderstanding ", "reality ", "truth "]}

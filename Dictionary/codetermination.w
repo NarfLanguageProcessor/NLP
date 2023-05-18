@@ -1,0 +1,1 @@
+{"index": 61731, "D": "the determination  of policy through cooperation, as between management and labor.", "S": [], "A": []}

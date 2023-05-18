@@ -1,0 +1,1 @@
+{"index": 210752, "D": "to take or fill up (space, time, etc.)", "S": ["citizen ", "colonist ", "dweller ", "inmate ", "occupant ", "settler "], "A": ["alien ", "foreigner ", "immigrant ", "landlord "]}

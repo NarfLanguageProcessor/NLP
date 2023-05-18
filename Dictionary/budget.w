@@ -1,0 +1,1 @@
+{"index": 42182, "D": "an estimate, often itemized, of expected income and expense for a given period in the future.", "S": ["account ", "allocation ", "cost ", "total "], "A": ["debt "]}

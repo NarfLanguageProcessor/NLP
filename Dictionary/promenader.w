@@ -1,0 +1,1 @@
+{"index": 252230, "D": "a stroll or walk, especially in a public place, as for pleasure or display.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107837, "D": "an interjectory word or expression, frequently profane; an exclamatory oath.", "S": ["four-letter word ", "profanity "], "A": []}

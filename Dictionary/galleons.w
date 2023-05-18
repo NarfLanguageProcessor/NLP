@@ -1,0 +1,1 @@
+{"index": 121330, "D": "a large sailing vessel of the 15th to the 17th centuries used as a fighting or merchant ship, square-rigged on the foremast and mainmast and generally lateen-rigged on one or two after masts.", "S": ["dinghy ", "rowboat ", "tender ", "trireme "], "A": []}

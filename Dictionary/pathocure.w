@@ -1,0 +1,1 @@
+{"index": 227718, "D": "cessation of a neurosis with the appearance of an organic disease.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110010, "D": "a gambling game in which players place bets on a special board or layout, betting on each series of two cards as they are drawn from a box containing the dealer's or banker's pack.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 299135, "D": "a short, close-fitting jacket, frequently trimmed with fur, worn in the 19th century by women and children.", "S": [], "A": []}

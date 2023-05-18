@@ -1,0 +1,1 @@
+{"index": 198694, "D": "a person considered to be socially awkward, boring, unstylish, etc. ", "S": ["geek ", "techie "], "A": []}

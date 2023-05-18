@@ -1,0 +1,1 @@
+{"index": 276940, "D": "any tailed amphibian of the order Caudata, having a soft, moist, scaleless skin, typically aquatic as a larva and semiterrestrial as an adult", "S": [], "A": []}

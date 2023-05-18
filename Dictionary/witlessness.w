@@ -1,0 +1,1 @@
+{"index": 366693, "D": "lacking wit or intelligence; stupid; foolish.", "S": ["absurdity ", "craziness ", "foolishness ", "idiocy ", "indiscretion ", "lunacy ", "madness ", "recklessness ", "silliness ", "stupidity "], "A": ["care ", "carefulness ", "intelligence ", "sense "]}

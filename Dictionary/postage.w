@@ -1,0 +1,1 @@
+{"index": 243908, "D": "the charge for the conveyance of a letter or other matter sent by mail, usually prepaid by means of a stamp or stamps.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43600, "D": "to introduce one or more butyl  groups into (a compound).", "S": [], "A": []}

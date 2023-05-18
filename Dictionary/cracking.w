@@ -1,0 +1,1 @@
+{"index": 71840, "D": "Compare catalytic cracking. ", "S": ["collapsing ", "crumbling ", "fracturing ", "shattering ", "smashing ", "splintering ", "splitting ", "tearing "], "A": ["enduring ", "strong "]}

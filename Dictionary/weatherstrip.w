@@ -1,0 +1,1 @@
+{"index": 363628, "D": "a narrow strip of metal, wood, rubber, or the like placed between a door or window sash and its frame to exclude rain, wind, etc.", "S": [], "A": []}

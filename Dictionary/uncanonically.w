@@ -1,0 +1,1 @@
+{"index": 336447, "D": "not in accordance with canons or rules.", "S": [], "A": []}

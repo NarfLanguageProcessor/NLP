@@ -1,0 +1,1 @@
+{"index": 231135, "D": "Compare Helot (def. 1), Spartiate. ", "S": [], "A": []}

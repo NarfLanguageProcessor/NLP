@@ -1,0 +1,1 @@
+{"index": 71110, "D": "a second stain  of a different color applied to a microscopic specimen and used to color and contrast those parts not retaining the first stain. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248728, "D": "to pay  or arrange to pay  beforehand or before due", "S": [], "A": []}

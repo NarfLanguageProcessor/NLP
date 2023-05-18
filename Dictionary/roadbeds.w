@@ -1,0 +1,1 @@
+{"index": 273474, "D": "the layer of ballast immediately beneath the ties of a railroad track.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234793, "D": "(among insects and arachnids) a nonparasitic relationship in which one species is carried about by another.", "S": [], "A": []}

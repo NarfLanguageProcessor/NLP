@@ -1,0 +1,1 @@
+{"index": 191966, "D": "a variant of moneyed. ", "S": ["upper class "], "A": ["poor "]}

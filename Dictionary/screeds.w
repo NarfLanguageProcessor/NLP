@@ -1,0 +1,1 @@
+{"index": 281697, "D": "a long discourse or essay, especially a diatribe.", "S": ["precept ", "tenet "], "A": ["disorganization ", "lawlessness ", "unbelief "]}

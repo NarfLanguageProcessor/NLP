@@ -1,0 +1,1 @@
+{"index": 334425, "D": "by chance or mistake; in a way that is not planned or intended", "S": [], "A": []}

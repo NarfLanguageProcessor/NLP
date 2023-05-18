@@ -1,0 +1,1 @@
+{"index": 279897, "D": "to go off hastily (often used in the imperative).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62788, "D": "a toxic antibiotic polypeptide, C45H85O10N13, produced by the bacterium Bacillus colistinus, used in sulfate form against a broad spectrum of microorganisms and in the treatment of severe gastroenteritis.", "S": [], "A": []}

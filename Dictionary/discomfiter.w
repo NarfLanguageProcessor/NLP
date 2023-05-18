@@ -1,0 +1,1 @@
+{"index": 87447, "D": "to confuse and deject; disconcert", "S": [], "A": []}

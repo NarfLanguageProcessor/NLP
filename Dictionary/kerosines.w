@@ -1,0 +1,1 @@
+{"index": 164062, "D": "a mixture of liquid hydrocarbons obtained by distilling petroleum, bituminous shale, or the like, and widely used as a fuel, cleaning solvent, etc.", "S": [], "A": []}

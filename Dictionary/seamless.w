@@ -1,0 +1,1 @@
+{"index": 282503, "D": "having no seams", "S": ["logical ", "smooth "], "A": ["intermittent ", "irregular ", "rough ", "uneven ", "defective ", "disjointed ", "faulty ", "imperfect "]}

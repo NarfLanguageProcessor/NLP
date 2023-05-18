@@ -1,0 +1,1 @@
+{"index": 64260, "D": "a person with a particular view or interpretation of communion,  as specified.", "S": [], "A": []}

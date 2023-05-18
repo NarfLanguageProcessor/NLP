@@ -1,0 +1,1 @@
+{"index": 184475, "D": "a person who carries a message or goes on an errand for another, especially as a matter of duty or business.", "S": ["courier ", "emissary ", "go-between ", "mediator ", "prophet "], "A": ["receiver "]}

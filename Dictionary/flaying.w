@@ -1,0 +1,1 @@
+{"index": 113801, "D": "to strip off the skin or outer covering of.", "S": ["excoriate ", "peel ", "scalp ", "skin "], "A": ["cover "]}

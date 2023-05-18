@@ -1,0 +1,1 @@
+{"index": 366589, "D": "the act or condition of withdrawing. ", "S": ["departure ", "disengagement ", "exit ", "exodus ", "resignation ", "retirement "], "A": ["arrival ", "coming ", "entrance "]}

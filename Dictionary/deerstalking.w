@@ -1,0 +1,1 @@
+{"index": 79038, "D": "a person who stalks deer.", "S": [], "A": []}

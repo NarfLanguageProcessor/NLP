@@ -1,0 +1,1 @@
+{"index": 157669, "D": "any substance capable of producing ions,  as an electrolyte.", "S": [], "A": []}

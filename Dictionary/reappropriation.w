@@ -1,0 +1,1 @@
+{"index": 261932, "D": "the act of appropriating  or taking possession of something, often without permission or consent.", "S": ["collage ", "compilation ", "hodgepodge ", "reproduction "], "A": ["original "]}

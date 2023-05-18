@@ -1,0 +1,1 @@
+{"index": 139801, "D": "a cup-shaped or tubular body formed by the conjoined sepals, petals, and stamens.", "S": [], "A": []}

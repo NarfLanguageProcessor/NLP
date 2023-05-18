@@ -1,0 +1,1 @@
+{"index": 184724, "D": "to make (a circuit) thoroughly metallic,  as by replacing a ground return with another wire.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173031, "D": "a horizontal architectural member supporting the weight above an opening, as a window or a door.", "S": [], "A": []}

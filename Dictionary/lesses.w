@@ -1,0 +1,1 @@
+{"index": 170852, "D": "to a smaller extent, amount, or degree", "S": ["fewer "], "A": ["greater ", "higher ", "important ", "major ", "superior "]}

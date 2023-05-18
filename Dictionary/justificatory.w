@@ -1,0 +1,1 @@
+{"index": 162544, "D": "serving to justify;  providing justification.", "S": [], "A": []}

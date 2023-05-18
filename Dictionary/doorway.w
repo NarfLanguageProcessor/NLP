@@ -1,0 +1,1 @@
+{"index": 91583, "D": "the passage or opening into a building, room, etc., commonly closed and opened by a door;  portal.", "S": ["departure ", "emanation ", "emergence ", "escape ", "exit ", "exiting ", "exodus ", "issue ", "opening ", "outlet ", "vent ", "withdrawal "], "A": ["arrival ", "closure ", "coming ", "entrance ", "stay "]}

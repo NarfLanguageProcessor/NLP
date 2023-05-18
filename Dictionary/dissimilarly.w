@@ -1,0 +1,1 @@
+{"index": 89552, "D": "not similar;  unlike; different.", "S": ["individually ", "negatively ", "separately ", "variously "], "A": ["together "]}

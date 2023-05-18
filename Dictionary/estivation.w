@@ -1,0 +1,1 @@
+{"index": 104684, "D": "the act of estivating. ", "S": [], "A": []}

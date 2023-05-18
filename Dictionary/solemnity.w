@@ -1,0 +1,1 @@
+{"index": 296619, "D": "the state or character of being solemn;  earnestness; gravity; impressiveness", "S": ["earnestness ", "gravity ", "seriousness "], "A": ["unimportance "]}

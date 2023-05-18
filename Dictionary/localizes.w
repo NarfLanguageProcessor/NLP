@@ -1,0 +1,1 @@
+{"index": 174291, "D": "to make local;  fix in, or assign or restrict to, a particular place, locality,  etc.", "S": ["center ", "contain ", "limit ", "narrow ", "pinpoint ", "restrain ", "restrict "], "A": ["expand ", "free ", "let go ", "release "]}

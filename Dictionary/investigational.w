@@ -1,0 +1,1 @@
+{"index": 157178, "D": "the act or process of investigating  or the condition of being investigated. ", "S": [], "A": []}

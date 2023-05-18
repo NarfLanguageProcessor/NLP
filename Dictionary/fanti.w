@@ -1,0 +1,1 @@
+{"index": 109812, "D": "a Kwa language spoken in Ghana that is mutually intelligible with Twi.", "S": [], "A": []}

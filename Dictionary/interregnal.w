@@ -1,0 +1,1 @@
+{"index": 155776, "D": "an interval of time between the close of a sovereign's reign and the accession of their normal or legitimate successor.", "S": [], "A": []}

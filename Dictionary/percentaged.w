@@ -1,0 +1,1 @@
+{"index": 230378, "D": "a rate or proportion per hundred.", "S": [], "A": []}

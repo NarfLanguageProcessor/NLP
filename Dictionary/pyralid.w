@@ -1,0 +1,1 @@
+{"index": 237552, "D": "any of numerous slender-bodied moths of the family Pyralidae, having elongated triangular forewings, and in the larval phase including many crop pests.", "S": [], "A": []}

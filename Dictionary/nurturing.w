@@ -1,0 +1,1 @@
+{"index": 209747, "D": "providing food, protection, comfort, or support", "S": ["sustenance "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 131434, "D": "the shooting of a gun", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 85678, "D": "to make wider or larger; cause to expand.", "S": ["abundant ", "broad ", "comfortable ", "commodious ", "comprehensive ", "distensible ", "expandable ", "expansive ", "extended ", "generous ", "liberal ", "plentiful ", "roomy ", "sizable ", "spacious ", "substantial ", "vast ", "voluminous ", "wide "], "A": ["cramped ", "small ", "squeezed ", "tiny "]}

@@ -1,0 +1,1 @@
+{"index": 14766, "D": "an atom  of antimatter.", "S": [], "A": []}

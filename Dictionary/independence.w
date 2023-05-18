@@ -1,0 +1,1 @@
+{"index": 150802, "D": "the state or quality of being independent. ", "S": ["ability ", "autonomy ", "self-determination ", "self-government ", "self-reliance ", "self-rule ", "self-sufficiency ", "separation ", "sovereignty "], "A": ["dependence ", "inaptitude "]}

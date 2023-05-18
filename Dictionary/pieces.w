@@ -1,0 +1,1 @@
+{"index": 236172, "D": "the plural of piece. ", "S": ["detritus ", "junk ", "remains ", "rubbish ", "rubble ", "trash ", "wreck ", "wreckage "], "A": ["belongings ", "possessions "]}

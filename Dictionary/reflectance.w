@@ -1,0 +1,1 @@
+{"index": 265112, "D": "the ratio of the intensity of reflected  radiation to that of the radiation incident on a surface.", "S": [], "A": []}

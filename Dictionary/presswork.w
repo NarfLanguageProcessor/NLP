@@ -1,0 +1,1 @@
+{"index": 249619, "D": "the working  or management of a printing press. ", "S": ["composition ", "typography "], "A": []}

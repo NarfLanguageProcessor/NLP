@@ -1,0 +1,1 @@
+{"index": 151722, "D": "not explicit or clear; not clearly stated.", "S": [], "A": []}

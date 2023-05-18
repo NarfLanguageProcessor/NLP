@@ -1,0 +1,1 @@
+{"index": 310376, "D": "related chemically to sulfanilamide. ", "S": [], "A": []}

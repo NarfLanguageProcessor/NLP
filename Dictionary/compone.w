@@ -1,0 +1,1 @@
+{"index": 64751, "D": "composed of a single row of squares, metal and color alternating; gobony.", "S": [], "A": []}

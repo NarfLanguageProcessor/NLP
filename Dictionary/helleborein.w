@@ -1,0 +1,1 @@
+{"index": 135669, "D": "a yellow, crystalline, water-soluble, poisonous solid, C37H56O18, obtained from the rhizome and root of certain hellebores  of the genus Helleborus, especially the Christmas rose,  and formerly used in medicine chiefly as a heart stimulant.", "S": [], "A": []}

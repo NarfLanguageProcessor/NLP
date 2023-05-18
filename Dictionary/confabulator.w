@@ -1,0 +1,1 @@
+{"index": 65772, "D": "to converse informally; chat. ", "S": ["chatterbox ", "chatterer ", "conversationist ", "speaker ", "talker "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 135718, "D": "a disorderly, troublesome, rowdy, or mischievous person.", "S": ["agitator ", "demon ", "evildoer ", "firebrand ", "heel ", "incendiary ", "inciter ", "instigator ", "mischief-maker ", "punk ", "rabble-rouser ", "rascal ", "recreant ", "rogue ", "rowdy "], "A": []}

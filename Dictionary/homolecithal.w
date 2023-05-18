@@ -1,0 +1,1 @@
+{"index": 143125, "D": "having a fairly uniform distribution of yolk, as certain eggs or ova having relatively little yolk.", "S": [], "A": []}

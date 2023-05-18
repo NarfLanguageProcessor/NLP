@@ -1,0 +1,1 @@
+{"index": 147923, "D": "very much; extremely", "S": ["ever ", "more ", "too "], "A": ["essential ", "necessary "]}

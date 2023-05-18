@@ -1,0 +1,1 @@
+{"index": 236907, "D": "(in Mexico and Central America) colorful papier-m\u00e2ch\u00e9 figure or cheerfully decorated crock filled with toys, candy, etc., and suspended from above, especially during Christmas or birthday festivities, so that children, who are blindfolded, may break it or knock it down with sticks and release the contents.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250378, "D": "full of or armed with prickles. ", "S": [], "A": []}

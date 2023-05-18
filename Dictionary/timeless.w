@@ -1,0 +1,1 @@
+{"index": 323757, "D": "without beginning or end; eternal; everlasting.", "S": ["abiding ", "ageless ", "endless ", "enduring ", "immortal "], "A": ["ephemeral "]}

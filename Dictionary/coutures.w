@@ -1,0 +1,1 @@
+{"index": 71421, "D": "the occupation of a couturier;  dressmaking and designing.", "S": [], "A": []}

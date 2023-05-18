@@ -1,0 +1,1 @@
+{"index": 224019, "D": "a cloth, often of velvet, for spreading over a coffin, bier, or tomb.", "S": ["cloak ", "shroud ", "veil "], "A": ["happiness "]}

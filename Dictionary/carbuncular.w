@@ -1,0 +1,1 @@
+{"index": 47587, "D": "of, relating to, or resembling a carbuncle,  especially having a carbuncle  or a red and inflamed area.", "S": [], "A": []}

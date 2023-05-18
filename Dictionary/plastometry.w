@@ -1,0 +1,1 @@
+{"index": 239280, "D": "an instrument for measuring the plasticity of a substance.", "S": [], "A": []}

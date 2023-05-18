@@ -1,0 +1,1 @@
+{"index": 365028, "D": "an alcoholic liquor distilled from a fermented mash of grain, as barley, rye, or corn, and usually containing from 43 to 50 percent alcohol.", "S": ["alcohol ", "drink ", "liquor ", "spirits "], "A": []}

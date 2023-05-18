@@ -1,0 +1,1 @@
+{"index": 24544, "D": "any cell undergoing meiosis, esp an oocyte or spermatocyte", "S": [], "A": []}

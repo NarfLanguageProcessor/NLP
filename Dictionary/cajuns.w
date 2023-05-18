@@ -1,0 +1,1 @@
+{"index": 44663, "D": "a member of a group of people with an enduring cultural tradition whose French Catholic ancestors established permanent communities in Louisiana and Maine after being expelled from Acadia in the late 18th century.", "S": [], "A": []}

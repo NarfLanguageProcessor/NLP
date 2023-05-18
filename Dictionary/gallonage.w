@@ -1,0 +1,1 @@
+{"index": 121444, "D": "the number of gallons  of something used.", "S": [], "A": []}

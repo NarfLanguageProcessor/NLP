@@ -1,0 +1,1 @@
+{"index": 293886, "D": "a lightweight, knee-length garment for sleep  or lounging, styled like a pajama top and having a sash.", "S": [], "A": []}

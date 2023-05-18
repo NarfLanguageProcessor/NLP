@@ -1,0 +1,1 @@
+{"index": 250143, "D": "diligence in anticipating or catering to the pleasures of others.", "S": [], "A": []}

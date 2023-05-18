@@ -1,0 +1,1 @@
+{"index": 200896, "D": "Compare subjective. ", "S": [], "A": []}

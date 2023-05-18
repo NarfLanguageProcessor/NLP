@@ -1,0 +1,1 @@
+{"index": 300528, "D": "a small pouch, especially for carrying tobacco or money.", "S": [], "A": []}

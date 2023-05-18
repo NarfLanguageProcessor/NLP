@@ -1,0 +1,1 @@
+{"index": 76312, "D": "the light of day", "S": ["dawn ", "daytime ", "sunlight ", "sunshine "], "A": ["darkness ", "night ", "sunset "]}

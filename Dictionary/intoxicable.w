@@ -1,0 +1,1 @@
+{"index": 156395, "D": "to affect temporarily with diminished physical and mental control by means of alcoholic liquor, a drug, or another substance, especially to excite or stupefy with liquor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186984, "D": "petulant displeasure; ill humor.", "S": ["aggrieve ", "bother ", "displease ", "hurt ", "irk ", "irritate ", "nettle ", "offend ", "pester ", "pique ", "provoke ", "resent ", "upset ", "vex "], "A": ["aid ", "appease ", "assist ", "assuage ", "calm ", "delight ", "help ", "make happy ", "please ", "soothe "]}

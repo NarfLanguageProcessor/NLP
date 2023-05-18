@@ -1,0 +1,1 @@
+{"index": 205197, "D": "the act or process of maturating. ", "S": [], "A": []}

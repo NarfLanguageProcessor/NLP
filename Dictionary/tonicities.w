@@ -1,0 +1,1 @@
+{"index": 325578, "D": "tonic  quality or condition.", "S": ["energy ", "fitness ", "strength ", "well-being "], "A": ["lethargy ", "weakness "]}

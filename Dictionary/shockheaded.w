@@ -1,0 +1,1 @@
+{"index": 288650, "D": "having a shock  or thick mass of hair on the head. ", "S": [], "A": []}

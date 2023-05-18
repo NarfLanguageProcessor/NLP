@@ -1,0 +1,1 @@
+{"index": 227606, "D": "a combining form of pate", "S": [], "A": []}

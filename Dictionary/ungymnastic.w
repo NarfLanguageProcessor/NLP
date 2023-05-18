@@ -1,0 +1,1 @@
+{"index": 343044, "D": "of or relating to physical exercises that develop and demonstrate strength, balance, and agility, especially such exercises performed mostly on special equipment.", "S": [], "A": []}

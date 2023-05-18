@@ -1,0 +1,1 @@
+{"index": 132720, "D": "a vigorous, athletic, Norwegian folk dance.", "S": [], "A": []}

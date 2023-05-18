@@ -1,0 +1,1 @@
+{"index": 249218, "D": "(of the Eucharistic elements) consecrated at a previous Mass.", "S": [], "A": []}

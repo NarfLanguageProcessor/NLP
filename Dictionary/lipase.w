@@ -1,0 +1,1 @@
+{"index": 173134, "D": "any of a class of enzymes that break down fats, produced by the liver, pancreas, and other digestive organs or by certain plants.", "S": [], "A": []}

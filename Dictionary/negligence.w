@@ -1,0 +1,1 @@
+{"index": 198059, "D": "the quality, fact, or result of being negligent; neglect", "S": ["disregard ", "failure ", "laxity ", "neglect ", "oversight "], "A": ["accomplishment ", "achievement ", "attention ", "care ", "regard ", "respect ", "success "]}

@@ -1,0 +1,1 @@
+{"index": 140385, "D": "causing or evoking pity, sympathetic sadness, sorrow, etc.; pitiful; pitiable", "S": [], "A": []}

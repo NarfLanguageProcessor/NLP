@@ -1,0 +1,1 @@
+{"index": 138323, "D": "a specialized leaf structure through which water is exuded.", "S": [], "A": []}

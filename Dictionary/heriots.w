@@ -1,0 +1,1 @@
+{"index": 137107, "D": "a feudal service or tribute, originally of borrowed military equipment and later of a chattel, due to the lord on the death of a tenant.", "S": [], "A": []}

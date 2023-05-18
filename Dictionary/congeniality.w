@@ -1,0 +1,1 @@
+{"index": 66153, "D": "the quality of being agreeable, suitable, or pleasant", "S": ["affability ", "agreeability ", "agreeableness ", "amiableness ", "bonhomie ", "congenialness ", "cordiality ", "friendliness ", "geniality ", "niceness ", "pleasantness ", "sociability ", "sociableness ", "sweetness "], "A": ["aloofness ", "coldness ", "coolness "]}

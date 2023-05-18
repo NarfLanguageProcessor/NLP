@@ -1,0 +1,1 @@
+{"index": 231575, "D": "a salt of permanganic acid,  as potassium permanganate. ", "S": [], "A": []}

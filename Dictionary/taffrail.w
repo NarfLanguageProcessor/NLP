@@ -1,0 +1,1 @@
+{"index": 315221, "D": "the upper part of the stern of a ship.", "S": [], "A": []}

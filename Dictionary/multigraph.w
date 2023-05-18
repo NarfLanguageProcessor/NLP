@@ -1,0 +1,1 @@
+{"index": 195124, "D": "a brand name for a rotary typesetting and printing machine, commonly used in making many copies of written matter.", "S": [], "A": []}

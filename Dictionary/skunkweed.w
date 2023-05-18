@@ -1,0 +1,1 @@
+{"index": 293519, "D": "any of various plants having an unpleasant odor, as the skunk cabbage. ", "S": [], "A": []}

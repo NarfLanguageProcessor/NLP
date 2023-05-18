@@ -1,0 +1,1 @@
+{"index": 71467, "D": "a person who makes a covenant. ", "S": [], "A": []}

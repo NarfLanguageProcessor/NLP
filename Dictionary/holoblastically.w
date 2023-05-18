@@ -1,0 +1,1 @@
+{"index": 142547, "D": "(of certain eggs) undergoing total cleavage, resulting in equal blastomeres.", "S": [], "A": []}

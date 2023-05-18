@@ -1,0 +1,1 @@
+{"index": 26940, "D": "the offensive player having the ball and attempting to gain ground.", "S": [], "A": []}

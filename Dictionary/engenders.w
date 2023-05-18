@@ -1,0 +1,1 @@
+{"index": 100328, "D": "to produce, cause, or give rise to", "S": ["arouse ", "beget ", "breed ", "bring about ", "foment ", "generate ", "incite ", "induce ", "instigate ", "lead to ", "precipitate ", "provoke ", "spawn ", "stimulate ", "stir "], "A": ["calm ", "destroy ", "discourage ", "halt ", "prevent ", "stop ", "wait ", "dull ", "kill ", "repress ", "ruin "]}

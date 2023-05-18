@@ -1,0 +1,1 @@
+{"index": 280810, "D": "of a hard, fibrous consistency.", "S": [], "A": []}

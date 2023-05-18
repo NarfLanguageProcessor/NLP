@@ -1,0 +1,1 @@
+{"index": 344956, "D": "having uniform electric potential  throughout, as a hot cathode (unipotential cathode ) indirectly heated by a separate heater circuit so that there is no lateral change of voltage across the cathode due to resistance to a heating current.", "S": [], "A": []}

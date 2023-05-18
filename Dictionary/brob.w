@@ -1,0 +1,1 @@
+{"index": 41102, "D": "a wedge-shaped spike for securing an end of a timber butting against the side of another.", "S": [], "A": []}

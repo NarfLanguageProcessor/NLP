@@ -1,0 +1,1 @@
+{"index": 196623, "D": "(of a beast) having only the forepart shown above a horizontal division of a shield", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309950, "D": "a person or thing that sucks. ", "S": ["chump ", "dupe ", "fool ", "gull ", "patsy ", "sap ", "stooge "], "A": []}

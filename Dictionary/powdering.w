@@ -1,0 +1,1 @@
+{"index": 244990, "D": "any solid substance reduced to a state of fine, loose particles by crushing, grinding, disintegration, etc.", "S": ["crumbling ", "crunching ", "crushing ", "disintegrating ", "eroding ", "grating ", "milling ", "rubbing ", "scraping ", "shivering ", "smashing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 269875, "D": "to state  again or in a new way.", "S": ["digest ", "explanation ", "rehash ", "rendering ", "rendition ", "rephrasing ", "rewording ", "summary ", "translation ", "version "], "A": []}

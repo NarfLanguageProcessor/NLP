@@ -1,0 +1,1 @@
+{"index": 235086, "D": [], "S": ["capture ", "illustrate ", "print ", "reproduce ", "shoot "], "A": ["fail ", "lose ", "misunderstand "]}

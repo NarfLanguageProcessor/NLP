@@ -1,0 +1,1 @@
+{"index": 236619, "D": "a person regarded with mild or pretended contempt or pity.", "S": [], "A": []}

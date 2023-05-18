@@ -1,0 +1,1 @@
+{"index": 63660, "D": "of, relating to, or involving the combination  of elements, as in phonetics or music.", "S": ["combinable ", "combinative ", "combinatory ", "conjunctional ", "connectional ", "connective "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7095, "D": "all in the universe that is not jiva, as space, time, matter, and those things by which rest and motion are possible to objects.", "S": [], "A": []}

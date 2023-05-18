@@ -1,0 +1,1 @@
+{"index": 330099, "D": "(in later Hinduism) a trinity consisting of Brahma the Creator, Vishnu the Preserver, and Shiva the Destroyer.", "S": [], "A": []}

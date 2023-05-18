@@ -1,0 +1,1 @@
+{"index": 40967, "D": "any of several small, deep-sea fishes of the family Gonostomatidae, having numerous sharp, slender teeth covering the jaws.", "S": [], "A": []}

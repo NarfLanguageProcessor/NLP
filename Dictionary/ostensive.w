@@ -1,0 +1,1 @@
+{"index": 215545, "D": "clearly or manifestly demonstrative.", "S": ["credible ", "external ", "illusive ", "illusory ", "likely ", "ostensible ", "outward ", "plausible ", "possible ", "probable ", "seeming ", "semblant ", "specious ", "superficial ", "supposed ", "suppositious "], "A": []}

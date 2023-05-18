@@ -1,0 +1,1 @@
+{"index": 365365, "D": "someone who consorts with prostitutes; a lecher or panderer.", "S": ["hustler "], "A": []}

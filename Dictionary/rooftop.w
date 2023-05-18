@@ -1,0 +1,1 @@
+{"index": 274219, "D": "the roof  of a building, especially the outer surface.", "S": [], "A": []}

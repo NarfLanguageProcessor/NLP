@@ -1,0 +1,1 @@
+{"index": 62255, "D": "related by birth; of the same parentage, descent, etc.", "S": ["aunt ", "cousin ", "father ", "folk ", "mother ", "niece ", "sibling ", "uncle "], "A": []}

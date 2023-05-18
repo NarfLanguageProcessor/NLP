@@ -1,0 +1,1 @@
+{"index": 157590, "D": "an associate or companion, especially at work; partner.", "S": [], "A": []}

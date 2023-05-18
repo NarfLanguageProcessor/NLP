@@ -1,0 +1,1 @@
+{"index": 166880, "D": "any of several insects of the family Chrysopidae, having delicate, lacelike wings  and golden or copper-colored eyes, the larvae of which are predaceous on aphids and other small insects.", "S": [], "A": []}

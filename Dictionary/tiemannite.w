@@ -1,0 +1,1 @@
+{"index": 323380, "D": "a mineral, mercuric selenide, HgSe, occurring in the form of a compact mass of gray crystals.", "S": [], "A": []}

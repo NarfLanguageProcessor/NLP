@@ -1,0 +1,1 @@
+{"index": 273941, "D": "a part or character played by an actor or actress.", "S": ["list ", "troupe "], "A": ["catch ", "keeping ", "retention "]}

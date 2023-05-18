@@ -1,0 +1,1 @@
+{"index": 315740, "D": "of or relating to the Talmud.", "S": [], "A": []}

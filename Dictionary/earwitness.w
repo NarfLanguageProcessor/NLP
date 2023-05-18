@@ -1,0 +1,1 @@
+{"index": 94883, "D": "a person who testifies or can testify to what they have heard.", "S": [], "A": []}

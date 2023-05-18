@@ -1,0 +1,1 @@
+{"index": 344538, "D": "not having knowledge or information about a situation, subject, etc", "S": ["ignorant ", "unacquainted ", "unaware ", "uneducated ", "unfamiliar "], "A": ["educated ", "intelligent "]}

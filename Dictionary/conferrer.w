@@ -1,0 +1,1 @@
+{"index": 65828, "D": "to consult together; compare opinions; carry on a discussion or deliberation.", "S": ["backer ", "benefactor ", "contributor ", "patron "], "A": ["antagonist ", "opponent ", "opposer "]}

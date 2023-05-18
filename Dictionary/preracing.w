@@ -1,0 +1,1 @@
+{"index": 249018, "D": "a contest of speed, as in running, riding, driving, or sailing.", "S": [], "A": []}

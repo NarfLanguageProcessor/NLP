@@ -1,0 +1,1 @@
+{"index": 241279, "D": "the state or condition of being poignant. ", "S": ["passion "], "A": []}

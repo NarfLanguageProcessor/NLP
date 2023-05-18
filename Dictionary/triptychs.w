@@ -1,0 +1,1 @@
+{"index": 330489, "D": "a set of three panels or compartments side by side, bearing pictures, carvings, or the like.", "S": ["triumvirate "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 354194, "D": "having, wearing, or covered with whiskers. ", "S": [], "A": []}

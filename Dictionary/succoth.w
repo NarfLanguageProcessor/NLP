@@ -1,0 +1,1 @@
+{"index": 309884, "D": "a plural of succah. ", "S": [], "A": []}

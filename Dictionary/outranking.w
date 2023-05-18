@@ -1,0 +1,1 @@
+{"index": 217231, "D": "to have a higher rank  than", "S": ["beat ", "dominate ", "eclipse ", "excel ", "outdistance ", "outdo ", "outmatch ", "outpace ", "outperform ", "outplay ", "outrun ", "outshine "], "A": ["fail ", "lose ", "surrender ", "fall behind "]}

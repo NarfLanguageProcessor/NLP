@@ -1,0 +1,1 @@
+{"index": 284246, "D": "partly formal;  containing some formal elements", "S": [], "A": []}

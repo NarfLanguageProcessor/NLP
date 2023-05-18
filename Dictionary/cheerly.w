@@ -1,0 +1,1 @@
+{"index": 53470, "D": "cheerily; cheeringly.", "S": [], "A": []}

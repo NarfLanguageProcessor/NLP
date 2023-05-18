@@ -1,0 +1,1 @@
+{"index": 260888, "D": "acting or tending to act too hastily or without due consideration.", "S": [], "A": []}

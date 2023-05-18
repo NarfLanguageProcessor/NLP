@@ -1,0 +1,1 @@
+{"index": 141209, "D": "to treat or regard (a concept, idea, etc.) as a distinct substance or reality.", "S": ["demonstrate ", "epitomize ", "exemplify ", "exhibit ", "express ", "illustrate ", "incorporate ", "manifest ", "mirror ", "personify ", "realize ", "stand for ", "symbolize ", "typify "], "A": ["conceal ", "cover ", "hide ", "obscure "]}

@@ -1,0 +1,1 @@
+{"index": 16259, "D": "the principle or policy of concentrating extensive economic, political, and related controls in the state  at the cost of individual liberty.", "S": [], "A": []}

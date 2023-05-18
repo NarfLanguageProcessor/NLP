@@ -1,0 +1,1 @@
+{"index": 60574, "D": "a blow, especially with the hand; cuff", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178378, "D": "productive of evil; malign; doing harm; baneful", "S": ["baleful ", "calamitous ", "deadly ", "deleterious ", "destructive ", "disastrous ", "evil ", "fatal ", "harmful ", "hurtful ", "noxious ", "pernicious ", "pestilent ", "pestilential ", "poisonous ", "venomous ", "wicked "], "A": ["advantageous ", "beneficial ", "fortunate ", "helpful ", "lucky "]}

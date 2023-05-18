@@ -1,0 +1,1 @@
+{"index": 246777, "D": "an assertion that something said, believed, alleged, etc., is false", "S": [], "A": []}

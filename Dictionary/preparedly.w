@@ -1,0 +1,1 @@
+{"index": 248754, "D": "properly expectant, organized, or equipped; ready", "S": [], "A": []}

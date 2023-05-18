@@ -1,0 +1,1 @@
+{"index": 7333, "D": "a sudden fear or distressing suspense caused by an awareness of danger; apprehension; fright.", "S": ["demonstrative ", "fidgety ", "fiery ", "high-strung ", "hysterical ", "impulsive ", "restless ", "skittish ", "temperamental "], "A": ["calm ", "cold ", "cool ", "laid-back "]}

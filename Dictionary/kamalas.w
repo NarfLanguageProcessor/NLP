@@ -1,0 +1,1 @@
+{"index": 162962, "D": "a powder from the capsules of an East Indian tree, Mallotus philippinensis, of the spurge family, used as a yellow dye and in medicine as an anthelmintic.", "S": [], "A": []}

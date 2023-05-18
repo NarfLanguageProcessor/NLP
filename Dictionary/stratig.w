@@ -1,0 +1,1 @@
+{"index": 305869, "D": "stratigraphy.", "S": [], "A": []}

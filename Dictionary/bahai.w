@@ -1,0 +1,1 @@
+{"index": 26377, "D": "a religion founded in Iran in 1863 by Husayn \u02bfAl\u012b (called Bahaullah), teaching the essential worth of all religions, the unity of all peoples, and the equality of the sexes.", "S": [], "A": []}

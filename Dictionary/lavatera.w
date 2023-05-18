@@ -1,0 +1,1 @@
+{"index": 169276, "D": "any plant of the genus Lavatera, closely resembling mallow and grown for their purple, white, or rose-coloured flowers", "S": [], "A": []}

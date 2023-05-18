@@ -1,0 +1,1 @@
+{"index": 28296, "D": "a steep-walled ravine or gorge.", "S": [], "A": []}

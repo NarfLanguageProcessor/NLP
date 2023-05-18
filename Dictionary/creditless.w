@@ -1,0 +1,1 @@
+{"index": 72506, "D": "commendation or honor given for some action, quality, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 140836, "D": "produced by an excessive preoccupation with or anxiety about one's health", "S": ["valetudinarian "], "A": []}

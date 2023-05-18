@@ -1,0 +1,1 @@
+{"index": 98266, "D": "(in fortification) an opening, as a loophole or crenel, through which missiles may be discharged.", "S": [], "A": []}

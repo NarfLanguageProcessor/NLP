@@ -1,0 +1,1 @@
+{"index": 35575, "D": "a variety of mule deer having a black tail", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172068, "D": "a lightweight passenger airplane  with relatively limited performance capability.", "S": [], "A": []}

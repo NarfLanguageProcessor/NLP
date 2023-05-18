@@ -1,0 +1,1 @@
+{"index": 267736, "D": "to restore to good condition; make new or as if new again; repair. ", "S": ["modernized ", "remodeled ", "updated "], "A": ["broken "]}

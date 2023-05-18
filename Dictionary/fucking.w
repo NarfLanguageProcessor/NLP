@@ -1,0 +1,1 @@
+{"index": 119745, "D": "damned; confounded; awful; detestable;  (used to express displeasure, anger, or contempt)", "S": ["lay ", "screw ", "shag "], "A": ["abstain "]}

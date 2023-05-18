@@ -1,0 +1,1 @@
+{"index": 208551, "D": "a person or thing that normalizes.", "S": [], "A": []}

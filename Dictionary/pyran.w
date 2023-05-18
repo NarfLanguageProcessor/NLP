@@ -1,0 +1,1 @@
+{"index": 237600, "D": "either of two compounds having the formula C5H6O, containing one oxygen and five carbon atoms arranged in a six-membered ring.", "S": [], "A": []}

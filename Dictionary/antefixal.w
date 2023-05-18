@@ -1,0 +1,1 @@
+{"index": 14125, "D": "an upright ornament at the eaves of a tiled roof, to conceal the foot of a row of convex tiles that cover the joints of the flat tiles.", "S": [], "A": []}

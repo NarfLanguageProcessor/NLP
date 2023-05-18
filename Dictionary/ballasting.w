@@ -1,0 +1,1 @@
+{"index": 26932, "D": "any heavy material carried temporarily or permanently in a vessel to provide desired draft and stability.", "S": ["carry ", "cram ", "fill ", "lade ", "pack ", "pile ", "stack ", "store ", "stuff "], "A": ["use ", "abstain ", "diet ", "disarrange ", "disorder ", "fast ", "lose "]}

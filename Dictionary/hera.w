@@ -1,0 +1,1 @@
+{"index": 136847, "D": "the ancient Greek queen of heaven, a daughter of Cronus and Rhea and the wife and sister of Zeus.", "S": [], "A": []}

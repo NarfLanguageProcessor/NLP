@@ -1,0 +1,1 @@
+{"index": 142337, "D": "English authority and writer on card games.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349462, "D": "to continue in the same state; continue to be as specified", "S": [], "A": []}

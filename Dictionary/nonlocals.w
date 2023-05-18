@@ -1,0 +1,1 @@
+{"index": 205069, "D": "pertaining to or characterized by place or position in space; spatial.", "S": [], "A": []}

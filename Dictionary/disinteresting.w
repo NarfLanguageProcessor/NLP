@@ -1,0 +1,1 @@
+{"index": 88472, "D": "lack of interest; indifference. ", "S": ["alienate ", "bore ", "irritate ", "offend "], "A": ["please "]}

@@ -1,0 +1,1 @@
+{"index": 270551, "D": "the act of retiring from office, one's work, etc; retirement", "S": [], "A": []}

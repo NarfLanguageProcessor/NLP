@@ -1,0 +1,1 @@
+{"index": 345065, "D": "to state by items;  give the particulars of; list the individual units or parts of", "S": [], "A": []}

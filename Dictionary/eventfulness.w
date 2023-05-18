@@ -1,0 +1,1 @@
+{"index": 106116, "D": "full of events  or incidents, especially of a striking character", "S": [], "A": []}

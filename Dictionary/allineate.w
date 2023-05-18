@@ -1,0 +1,1 @@
+{"index": 8746, "D": [], "S": ["adjust ", "coordinate ", "regulate "], "A": ["disorganize ", "break ", "disorder "]}

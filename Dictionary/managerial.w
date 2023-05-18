@@ -1,0 +1,1 @@
+{"index": 178888, "D": "pertaining to management or a manager", "S": ["bureaucratic ", "commanding ", "directorial ", "governmental ", "legislative ", "ministerial ", "organizational ", "policy-making ", "regulatory ", "supervisory "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98999, "D": "the act of enacting. ", "S": ["achievement ", "acting ", "depiction ", "execution ", "impersonation ", "performance ", "personation ", "personification ", "playing ", "portrayal ", "representation "], "A": ["failure ", "neglect "]}

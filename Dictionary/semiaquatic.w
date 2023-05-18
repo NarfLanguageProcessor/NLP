@@ -1,0 +1,1 @@
+{"index": 283771, "D": "partly aquatic;  growing or living in or close to water, or carrying out part of its life cycle in water.", "S": [], "A": []}

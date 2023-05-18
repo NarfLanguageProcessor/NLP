@@ -1,0 +1,1 @@
+{"index": 217428, "D": "to surpass in shooting,  as in accuracy or in number of shots made.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43198, "D": "a small knot or lump in wool, thread, or cloth.", "S": ["bulge ", "bump ", "clot ", "growth ", "knob ", "knot ", "lump ", "nodule ", "protuberance ", "swelling "], "A": ["depression "]}

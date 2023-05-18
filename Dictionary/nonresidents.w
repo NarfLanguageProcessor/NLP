@@ -1,0 +1,1 @@
+{"index": 206771, "D": "not resident  in a particular place.", "S": [], "A": []}

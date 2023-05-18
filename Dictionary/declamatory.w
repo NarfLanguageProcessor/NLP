@@ -1,0 +1,1 @@
+{"index": 78447, "D": "pertaining to or characterized by declamation. ", "S": ["elocutionary ", "fluent ", "formal ", "oratorical ", "rhetorical "], "A": []}

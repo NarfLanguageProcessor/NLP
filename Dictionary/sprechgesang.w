@@ -1,0 +1,1 @@
+{"index": 301237, "D": "a vocal style intermediate between speech and singing but without exact pitch intonation.", "S": [], "A": []}

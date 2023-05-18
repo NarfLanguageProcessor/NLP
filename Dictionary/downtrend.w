@@ -1,0 +1,1 @@
+{"index": 92344, "D": "a downward or decreasing tendency, movement, or shift", "S": ["decrease ", "dip ", "downturn ", "drop ", "drop-off ", "loss ", "slide ", "slump "], "A": ["increase ", "rise ", "success ", "perfection "]}

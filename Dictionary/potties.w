@@ -1,0 +1,1 @@
+{"index": 244823, "D": "slightly insane; eccentric.", "S": ["latrine ", "lavatory ", "outhouse ", "restroom "], "A": []}

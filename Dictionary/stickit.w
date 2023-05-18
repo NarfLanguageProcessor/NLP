@@ -1,0 +1,1 @@
+{"index": 304307, "D": "(of a task or product) imperfect; ruined.", "S": [], "A": []}

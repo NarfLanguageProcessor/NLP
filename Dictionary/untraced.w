@@ -1,0 +1,1 @@
+{"index": 353175, "D": "a surviving mark, sign, or evidence of the former existence, influence, or action of some agent or event; vestige", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 364016, "D": "a good or satisfactory condition of existence; a state characterized by health, happiness, and prosperity; welfare", "S": ["benefit ", "gain ", "profit ", "prosperity ", "well-being "], "A": ["loss "]}

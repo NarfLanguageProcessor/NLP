@@ -1,0 +1,1 @@
+{"index": 226778, "D": "situated about or near the ear.", "S": [], "A": []}

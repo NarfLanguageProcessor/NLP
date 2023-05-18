@@ -1,0 +1,1 @@
+{"index": 98053, "D": "an ornament or decoration.", "S": ["additions ", "adornments ", "attachments ", "decorations ", "doodads ", "extras ", "frills ", "ornaments ", "trimmings "], "A": []}

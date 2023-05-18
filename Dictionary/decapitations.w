@@ -1,0 +1,1 @@
+{"index": 78035, "D": "to cut off the head of; behead", "S": ["beheading ", "crucifixion ", "electrocution ", "gassing ", "hanging ", "hit ", "impalement ", "punishment ", "shooting ", "strangulation "], "A": ["abandoning ", "disregard ", "failure ", "forgetting ", "ignorance ", "leaving ", "neglect "]}

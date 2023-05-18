@@ -1,0 +1,1 @@
+{"index": 15, "D": "a striped, hyenalike mammal, Proteles cristatus, of southern and eastern Africa, that feeds chiefly on insects.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 270255, "D": "the business of selling goods directly to consumers (distinguished from wholesaling).", "S": ["economic ", "financial ", "monetary ", "profit-making ", "profitable ", "wholesale "], "A": ["not-for-profit "]}

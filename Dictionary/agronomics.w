@@ -1,0 +1,1 @@
+{"index": 6552, "D": "the branch of economics dealing with the distribution, management, and productivity of land", "S": ["cultivation ", "culture ", "horticulture ", "husbandry "], "A": []}

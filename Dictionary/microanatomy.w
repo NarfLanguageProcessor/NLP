@@ -1,0 +1,1 @@
+{"index": 185894, "D": "the branch of anatomy  dealing with microscopic structures (distinguished from gross anatomy).", "S": [], "A": []}

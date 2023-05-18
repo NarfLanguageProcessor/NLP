@@ -1,0 +1,1 @@
+{"index": 47049, "D": "having or resembling tendrils.", "S": [], "A": []}

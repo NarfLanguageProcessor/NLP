@@ -1,0 +1,1 @@
+{"index": 341375, "D": "firmly or solidly established; placed in a position of strength", "S": [], "A": []}

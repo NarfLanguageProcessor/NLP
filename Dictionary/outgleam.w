@@ -1,0 +1,1 @@
+{"index": 216725, "D": "a flash or beam of light", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348406, "D": "(of an image, idea, etc.) presented,  known, or capable of being known directly.", "S": [], "A": []}

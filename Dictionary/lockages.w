@@ -1,0 +1,1 @@
+{"index": 174352, "D": "the construction, use, or operation of locks,  as in a canal or stream.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162805, "D": "autocratic rule, like that of a German kaiser. ", "S": [], "A": []}

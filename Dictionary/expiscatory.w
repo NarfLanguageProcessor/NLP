@@ -1,0 +1,1 @@
+{"index": 107801, "D": "to find out by thorough and detailed investigation; discover through scrupulous examination.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219152, "D": "excessively or fussily elaborate,  ornate, detailed, etc.", "S": [], "A": []}

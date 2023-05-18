@@ -1,0 +1,1 @@
+{"index": 76317, "D": "any lily of the genus Hemerocallis, having yellow, orange, or red flowers that commonly last only for a day.", "S": [], "A": []}

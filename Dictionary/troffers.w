@@ -1,0 +1,1 @@
+{"index": 330980, "D": "a trough-shaped reflector holding one or more fluorescent lamps.", "S": [], "A": []}

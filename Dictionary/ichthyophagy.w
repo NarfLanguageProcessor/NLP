@@ -1,0 +1,1 @@
+{"index": 146108, "D": "the practice of eating or subsisting on fish.", "S": [], "A": []}

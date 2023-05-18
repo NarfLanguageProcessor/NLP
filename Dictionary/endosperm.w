@@ -1,0 +1,1 @@
+{"index": 99971, "D": "nutritive matter in seed-plant ovules, derived from the embryo sac.", "S": [], "A": []}

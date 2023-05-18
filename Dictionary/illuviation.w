@@ -1,0 +1,1 @@
+{"index": 147550, "D": "the accumulation in one layer of soil of materials that have been leached out of another layer.", "S": [], "A": []}

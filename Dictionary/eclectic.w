@@ -1,0 +1,1 @@
+{"index": 95314, "D": "selecting or choosing from various sources.", "S": ["broad ", "diverse ", "varied ", "wide-ranging "], "A": ["like ", "similar ", "narrow ", "narrow-minded "]}

@@ -1,0 +1,1 @@
+{"index": 172477, "D": "a liquid terpene, C40H16, occurring in two optically different forms, the dextrorotatory form being present in the essential oils of lemon, orange, etc., and the levorotatory form in Douglas fir needle oil.", "S": [], "A": []}

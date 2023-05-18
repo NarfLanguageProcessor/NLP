@@ -1,0 +1,1 @@
+{"index": 294697, "D": "an acute, highly contagious, febrile disease, caused by the variola virus, and characterized by a pustular eruption that often leaves permanent pits or scars", "S": [], "A": []}

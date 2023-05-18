@@ -1,0 +1,1 @@
+{"index": 343739, "D": "to remove (a door or the like) from hinges. ", "S": [], "A": []}

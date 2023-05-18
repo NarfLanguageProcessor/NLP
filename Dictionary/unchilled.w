@@ -1,0 +1,1 @@
+{"index": 336817, "D": "coldness, especially a moderate but uncomfortably penetrating coldness", "S": [], "A": []}

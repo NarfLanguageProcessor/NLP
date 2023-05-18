@@ -1,0 +1,1 @@
+{"index": 165595, "D": "the act of a person or thing that knits. ", "S": ["crocheting ", "darning ", "embroidery ", "knitting ", "lace ", "quilting ", "sewing ", "stitchery ", "stitching ", "tatting "], "A": []}

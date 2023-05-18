@@ -1,0 +1,1 @@
+{"index": 236371, "D": "on the back or shoulders", "S": ["haul ", "lug ", "ride ", "tote "], "A": ["refuse ", "stay "]}

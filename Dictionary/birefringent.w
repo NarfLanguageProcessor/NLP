@@ -1,0 +1,1 @@
+{"index": 34811, "D": "double refraction. ", "S": [], "A": []}

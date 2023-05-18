@@ -1,0 +1,1 @@
+{"index": 110798, "D": "awkward, evasive, or pretentious prose said to characterize the publications and correspondence of U.S. federal bureaus.", "S": [], "A": []}

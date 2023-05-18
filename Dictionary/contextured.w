@@ -1,0 +1,1 @@
+{"index": 67429, "D": "the arrangement and union of the constituent parts of anything; constitution; structure.", "S": [], "A": []}

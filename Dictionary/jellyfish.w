@@ -1,0 +1,1 @@
+{"index": 160823, "D": "any of various marine coelenterates of a soft, gelatinous structure, especially one with an umbrellalike body and long, trailing tentacles; medusa.", "S": ["wimp "], "A": ["aggressor ", "hero "]}

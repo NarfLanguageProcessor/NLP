@@ -1,0 +1,1 @@
+{"index": 173037, "D": "any of numerous plants of the genus Linum, including flax, L. usitatissimum, and various other species grown as ornamentals.", "S": [], "A": []}

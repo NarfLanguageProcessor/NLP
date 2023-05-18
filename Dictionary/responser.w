@@ -1,0 +1,1 @@
+{"index": 269787, "D": "a radio or radar receiver used in conjunction with an interrogator to receive and display signals from a transponder", "S": [], "A": []}

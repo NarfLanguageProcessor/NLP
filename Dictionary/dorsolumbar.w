@@ -1,0 +1,1 @@
+{"index": 91798, "D": "of, relating to, or affecting the back in the region of the lumbar  vertebrae.", "S": [], "A": []}

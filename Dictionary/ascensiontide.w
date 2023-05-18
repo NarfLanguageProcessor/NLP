@@ -1,0 +1,1 @@
+{"index": 20935, "D": "the ten days from Ascension Day to the day before Whit Sunday", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199571, "D": "of or relating to Nicaragua or its inhabitants", "S": [], "A": []}

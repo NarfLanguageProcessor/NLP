@@ -1,0 +1,1 @@
+{"index": 146511, "D": "(in a rock) noting or pertaining to a mineral constituent having its own characteristic outward crystalline form unaltered by the other constituents of the rock; automorphic.", "S": [], "A": []}

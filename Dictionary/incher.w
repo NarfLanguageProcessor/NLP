@@ -1,0 +1,1 @@
+{"index": 149821, "D": "something that has or is associated with a height or length of an inch or a specified number of inches (often used in combination)", "S": [], "A": []}

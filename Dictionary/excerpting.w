@@ -1,0 +1,1 @@
+{"index": 106634, "D": "a passage or quotation taken or selected from a book, document, film, or the like; extract.", "S": ["extract ", "fragment ", "passage ", "piece ", "portion ", "quotation ", "selection "], "A": ["entirety ", "refusal ", "whole "]}

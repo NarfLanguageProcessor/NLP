@@ -1,0 +1,1 @@
+{"index": 131080, "D": "insidious cunning in attaining a goal; crafty or artful deception; duplicity.", "S": ["trickery "], "A": ["forthrightness ", "frankness ", "honesty ", "honor ", "openness ", "sincerity ", "trustworthiness ", "truth ", "truthfulness ", "uprightness "]}

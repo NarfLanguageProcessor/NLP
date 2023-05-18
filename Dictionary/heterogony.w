@@ -1,0 +1,1 @@
+{"index": 137598, "D": "the alternation of dioecious and hermaphroditic individuals in successive generations, as in certain nematodes.", "S": [], "A": []}

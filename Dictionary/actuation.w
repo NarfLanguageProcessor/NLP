@@ -1,0 +1,1 @@
+{"index": 3312, "D": "the state or condition of being impelled or moved to action", "S": ["desire ", "feeling ", "inclination ", "influence ", "instinct ", "motivation ", "motive ", "notion ", "passion ", "thought ", "whim ", "wish "], "A": ["concrete ", "discouragement ", "dislike ", "hate ", "hatred ", "thing ", "reality ", "truth "]}

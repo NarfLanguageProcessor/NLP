@@ -1,0 +1,1 @@
+{"index": 335255, "D": "uttered clearly in distinct syllables.", "S": ["dumb ", "inarticulate ", "mute ", "silent ", "speechless "], "A": []}

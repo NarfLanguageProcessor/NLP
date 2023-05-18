@@ -1,0 +1,1 @@
+{"index": 258983, "D": "a peculiarity of action, behavior, or personality; mannerism", "S": ["aberration ", "characteristic ", "eccentricity ", "foible ", "habit ", "idiosyncrasy ", "kink ", "mannerism ", "peculiarity ", "trait ", "twist ", "vagary "], "A": ["normality ", "usualness ", "inability "]}

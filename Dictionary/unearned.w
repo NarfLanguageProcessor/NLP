@@ -1,0 +1,1 @@
+{"index": 340952, "D": "not received in exchange for labor or services; not gained by lawful work or employment.", "S": ["not deserved ", "not earned ", "not merited ", "not warranted ", "unmerited ", "unwarranted "], "A": []}

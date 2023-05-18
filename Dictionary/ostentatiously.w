@@ -1,0 +1,1 @@
+{"index": 215556, "D": "characterized by or given to pretentious or conspicuous show in an attempt to impress others", "S": ["showily "], "A": []}

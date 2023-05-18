@@ -1,0 +1,1 @@
+{"index": 106044, "D": "a device in which evaporation takes place, as for thickening syrup.", "S": [], "A": []}

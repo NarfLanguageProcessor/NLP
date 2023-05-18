@@ -1,0 +1,1 @@
+{"index": 61280, "D": "an abnormal condition due to excessive or habitual use of cocaine. ", "S": [], "A": []}

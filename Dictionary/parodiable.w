@@ -1,0 +1,1 @@
+{"index": 226687, "D": "a humorous or satirical imitation of a serious piece of literature or writing", "S": [], "A": []}

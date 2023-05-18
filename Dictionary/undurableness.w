@@ -1,0 +1,1 @@
+{"index": 340928, "D": "the ability to last over time, resisting wear, breakage, deterioration, etc.", "S": [], "A": []}

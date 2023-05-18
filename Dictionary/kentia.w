@@ -1,0 +1,1 @@
+{"index": 163863, "D": "a plant name formerly used to include palms now allotted to several different genera and still used commercially to denote the feather palm genus Howea, native to Lord Howe Island, popular as greenhouse or house plants for their decorative arching foliage", "S": [], "A": []}

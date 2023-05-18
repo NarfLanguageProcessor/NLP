@@ -1,0 +1,1 @@
+{"index": 1006, "D": "to free from guilt or blame or their consequences", "S": [], "A": []}

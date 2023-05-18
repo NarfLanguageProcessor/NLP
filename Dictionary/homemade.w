@@ -1,0 +1,1 @@
+{"index": 142803, "D": "made  or prepared at home,  locally, or by the maker's own efforts", "S": ["handmade "], "A": []}

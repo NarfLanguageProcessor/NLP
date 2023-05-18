@@ -1,0 +1,1 @@
+{"index": 138882, "D": "a seaplane.", "S": ["cigarette boat ", "hydrofoil ", "speedboat "], "A": []}

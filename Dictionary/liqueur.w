@@ -1,0 +1,1 @@
+{"index": 173293, "D": "any of a class of alcoholic liquors,  usually strong, sweet, and highly flavored, as Chartreuse or cura\u00e7ao, generally served after dinner; cordial.", "S": ["alcoholic beverage ", "brandy "], "A": []}

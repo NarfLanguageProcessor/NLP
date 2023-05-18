@@ -1,0 +1,1 @@
+{"index": 349548, "D": "causing distaste or aversion; repulsive. ", "S": [], "A": []}

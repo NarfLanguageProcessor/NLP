@@ -1,0 +1,1 @@
+{"index": 265346, "D": "to abstain from an impulse to say or do something (often followed by from)", "S": ["abstain ", "avoid ", "cease ", "curb ", "desist ", "forgo ", "halt ", "renounce ", "resist ", "restrain "], "A": ["carry on ", "continue ", "indulge ", "keep on ", "use ", "aid ", "allow ", "assist ", "encourage ", "help ", "let go ", "release "]}

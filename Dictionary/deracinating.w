@@ -1,0 +1,1 @@
+{"index": 81974, "D": "to pull up by the roots; uproot; extirpate; eradicate.", "S": ["abolish ", "annihilate ", "eliminate ", "erase ", "expunge ", "exterminate ", "extinguish ", "stamp out ", "uproot ", "weed out ", "wipe out "], "A": ["bear ", "build ", "create ", "ratify ", "construct ", "keep ", "schedule ", "set up "]}

@@ -1,0 +1,1 @@
+{"index": 158073, "D": "using words to convey a meaning that is the opposite of its literal meaning; containing or exemplifying irony", "S": ["arrogant ", "caustic ", "incongruous ", "mocking ", "paradoxical ", "ridiculous ", "sardonic ", "satiric ", "satirical ", "twisted ", "unexpected ", "wry "], "A": ["straight "]}

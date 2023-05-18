@@ -1,0 +1,1 @@
+{"index": 13300, "D": "having the toes unlike, or unequal in number.", "S": [], "A": []}

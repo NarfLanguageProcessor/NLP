@@ -1,0 +1,1 @@
+{"index": 355011, "D": "to shift  an automotive transmission or vehicle into a higher gear.", "S": [], "A": []}

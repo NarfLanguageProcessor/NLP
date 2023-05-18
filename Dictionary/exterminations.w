@@ -1,0 +1,1 @@
+{"index": 108283, "D": "to get rid of by destroying; destroy totally; extirpate", "S": ["destruction ", "elimination ", "eradication ", "extinction ", "genocide ", "liquidation ", "slaughter "], "A": []}

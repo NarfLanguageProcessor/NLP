@@ -1,0 +1,1 @@
+{"index": 53283, "D": "to defraud; swindle", "S": ["charlatan ", "con artist ", "crook ", "hypocrite ", "impostor ", "rascal ", "rogue ", "swindler ", "trickster "], "A": []}

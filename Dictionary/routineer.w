@@ -1,0 +1,1 @@
+{"index": 274960, "D": "a person who follows or adheres to routine  or a routine. ", "S": [], "A": []}

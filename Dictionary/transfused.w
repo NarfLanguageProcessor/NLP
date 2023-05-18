@@ -1,0 +1,1 @@
+{"index": 327910, "D": "to transfer or pass from one to another; transmit; instill", "S": ["suffuse "], "A": ["aid ", "deplete ", "drain ", "help ", "keep ", "open ", "release ", "stop ", "take out ", "unblock "]}

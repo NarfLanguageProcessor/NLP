@@ -1,0 +1,1 @@
+{"index": 113794, "D": "a flat stone  slab used especially for paving.", "S": ["asphalt ", "road ", "sidewalk "], "A": []}

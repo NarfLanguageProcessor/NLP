@@ -1,0 +1,1 @@
+{"index": 114894, "D": "the material of which a stereotype mold is made.", "S": [], "A": []}

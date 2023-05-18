@@ -1,0 +1,1 @@
+{"index": 294819, "D": "emitting a strong or unpleasant odor; reeking.", "S": ["fetid ", "foul-smelling ", "funky ", "rancid ", "stinking "], "A": ["sweet "]}

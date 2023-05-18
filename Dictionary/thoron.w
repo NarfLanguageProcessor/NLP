@@ -1,0 +1,1 @@
+{"index": 322422, "D": "a radioactive isotope of radon, produced by the disintegration of thorium. Symbol", "S": [], "A": []}

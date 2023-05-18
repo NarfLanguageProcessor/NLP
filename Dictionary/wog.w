@@ -1,0 +1,1 @@
+{"index": 366864, "D": "a contemptuous term used to refer to any nonwhite person, especially a dark-skinned person of Middle Eastern or Southeast Asian origin or descent.", "S": [], "A": []}

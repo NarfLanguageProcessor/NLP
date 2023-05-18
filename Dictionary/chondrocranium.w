@@ -1,0 +1,1 @@
+{"index": 55578, "D": "a braincase composed of cartilage rather than bone, as the skull of sharks and of the vertebrate embryo before ossification.", "S": [], "A": []}

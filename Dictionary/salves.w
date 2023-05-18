@@ -1,0 +1,1 @@
+{"index": 277434, "D": "a medicinal ointment for healing or relieving wounds and sores.", "S": ["balm ", "lotion "], "A": ["blockage ", "disease ", "hindrance ", "injury ", "obstruction "]}

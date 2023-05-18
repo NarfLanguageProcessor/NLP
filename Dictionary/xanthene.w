@@ -1,0 +1,1 @@
+{"index": 368222, "D": "a yellow, crystalline substance, C13H10O, soluble in ether and slightly soluble in alcohol, used in organic synthesis and as a fungicide.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323772, "D": "a brief suspension of activity; intermission or break.", "S": ["meantime "], "A": ["continuation ", "continuity "]}

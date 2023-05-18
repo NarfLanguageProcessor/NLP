@@ -1,0 +1,1 @@
+{"index": 175939, "D": "the forward edge of a fore-and-aft sail.", "S": [], "A": []}

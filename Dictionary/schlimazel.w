@@ -1,0 +1,1 @@
+{"index": 280309, "D": "an inept, bungling person who suffers from unremitting bad luck", "S": [], "A": []}

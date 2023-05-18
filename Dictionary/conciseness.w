@@ -1,0 +1,1 @@
+{"index": 65348, "D": "the quality of being concise. ", "S": ["concision ", "condensation ", "crispness ", "curtness ", "economy ", "ephemerality ", "impermanence ", "pithiness ", "pointedness ", "succinctness ", "terseness ", "transience ", "transitoriness "], "A": ["lengthiness ", "longevity ", "permanence "]}

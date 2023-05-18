@@ -1,0 +1,1 @@
+{"index": 94091, "D": "a cart  with a body that can be tilted or a bottom that can be opened downward to discharge the contents.", "S": [], "A": []}

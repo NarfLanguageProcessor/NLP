@@ -1,0 +1,1 @@
+{"index": 118923, "D": "surface resistance to relative motion, as of a body sliding or rolling.", "S": ["agitation ", "erosion ", "irritation ", "resistance "], "A": ["agreement ", "harmony ", "peace "]}

@@ -1,0 +1,1 @@
+{"index": 96003, "D": "effervescing; bubbling.", "S": ["airy ", "bouncy ", "bubbly ", "frothy "], "A": ["flat "]}

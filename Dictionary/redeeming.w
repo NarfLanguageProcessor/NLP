@@ -1,0 +1,1 @@
+{"index": 263994, "D": "offsetting or counterbalancing some fault, defect, or the like", "S": ["compensating ", "extenuating ", "qualifying ", "saving "], "A": []}

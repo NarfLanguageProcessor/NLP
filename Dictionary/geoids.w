@@ -1,0 +1,1 @@
+{"index": 123896, "D": "an imaginary surface that coincides with mean sea level in the ocean and its extension through the continents.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41474, "D": "any of various other alloys having a large copper content.", "S": [], "A": []}

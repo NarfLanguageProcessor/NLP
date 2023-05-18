@@ -1,0 +1,1 @@
+{"index": 311103, "D": "a dress  with a bodice styled to expose the arms, shoulders, and back, for wear during hot weather.", "S": [], "A": []}

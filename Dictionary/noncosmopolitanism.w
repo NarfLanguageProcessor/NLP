@@ -1,0 +1,1 @@
+{"index": 202568, "D": "the fact or condition of belonging to all the world and not just one part, or of being at home all over the world", "S": [], "A": []}

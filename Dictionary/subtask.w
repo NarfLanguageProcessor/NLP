@@ -1,0 +1,1 @@
+{"index": 309414, "D": "a definite piece of work assigned to, falling to, or expected of a person; duty.", "S": [], "A": []}

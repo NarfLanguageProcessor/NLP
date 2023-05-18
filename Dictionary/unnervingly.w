@@ -1,0 +1,1 @@
+{"index": 346851, "D": "depriving a person of courage, strength, determination, or confidence; disconcerting", "S": [], "A": []}

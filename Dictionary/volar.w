@@ -1,0 +1,1 @@
+{"index": 361045, "D": "of or relating to the palm of the hand or the sole of the foot.", "S": ["aerial ", "floating ", "soaring "], "A": []}

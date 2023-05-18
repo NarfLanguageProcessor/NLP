@@ -1,0 +1,1 @@
+{"index": 193237, "D": "a small spotted owl, Ninox novaeseelandiae, of Australia and New Zealand. In Australia the tawny frogmouth, Podargus strigoides, is very often wrongly identified as the mopoke", "S": [], "A": []}

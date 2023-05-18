@@ -1,0 +1,1 @@
+{"index": 17144, "D": "of or relating to certain glands whose secretions are acted upon by bacteria to produce the characteristic odor of perspiration (distinguished from eccrine).", "S": [], "A": []}

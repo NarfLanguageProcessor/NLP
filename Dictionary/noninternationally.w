@@ -1,0 +1,1 @@
+{"index": 204821, "D": "in a way that involves or relates to two or more nations or their citizens or territories", "S": [], "A": []}

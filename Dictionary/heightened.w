@@ -1,0 +1,1 @@
+{"index": 135364, "D": "to increase the height  of; make higher. ", "S": ["fierce ", "intense ", "intensive ", "profound "], "A": ["calm ", "mild ", "moderate ", "easy ", "facile "]}

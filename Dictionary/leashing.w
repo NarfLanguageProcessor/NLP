@@ -1,0 +1,1 @@
+{"index": 169693, "D": "a chain, strap, etc., for controlling or leading a dog or other animal; lead. ", "S": ["cord ", "rope ", "strap ", "tether "], "A": ["encouragement ", "liberation "]}

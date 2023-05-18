@@ -1,0 +1,1 @@
+{"index": 302428, "D": "a discoloration produced by foreign matter having penetrated into or chemically reacted with a material; a spot not easily removed.", "S": ["blemish ", "blotch ", "color ", "dye ", "smudge ", "speck ", "splotch ", "stigma ", "tint "], "A": ["approval ", "benefit ", "esteem ", "honor ", "praise ", "respect "]}

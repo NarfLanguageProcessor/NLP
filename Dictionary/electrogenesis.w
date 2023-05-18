@@ -1,0 +1,1 @@
+{"index": 97064, "D": "the generation of electricity in living organisms or tissue.", "S": [], "A": []}

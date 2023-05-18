@@ -1,0 +1,1 @@
+{"index": 114538, "D": "the flight of a spacecraft close enough to a celestial object, as a planet, to gather scientific data.", "S": ["catch ", "cross ", "develop ", "give ", "go ", "happen ", "leave ", "move ", "occur ", "reach ", "run ", "take place "], "A": ["cease ", "halt ", "hold ", "lose ", "remain ", "stay ", "stop ", "continue ", "rush ", "wait "]}

@@ -1,0 +1,1 @@
+{"index": 287702, "D": "a yearling sheep that has been shorn once.", "S": [], "A": []}

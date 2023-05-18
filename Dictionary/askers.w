@@ -1,0 +1,1 @@
+{"index": 21306, "D": "to put a question to; inquire of", "S": ["bum ", "panhandler ", "vagabond "], "A": []}

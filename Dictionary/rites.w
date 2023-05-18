@@ -1,0 +1,1 @@
+{"index": 273303, "D": "a formal or ceremonial act or procedure prescribed or customary in religious or other solemn use", "S": ["attitude ", "codes ", "etiquette ", "formalities ", "manners ", "morals ", "policies ", "practices ", "principles ", "protocol ", "rituals ", "routines ", "rules ", "standards "], "A": ["bad manners "]}

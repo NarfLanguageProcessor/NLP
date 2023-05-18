@@ -1,0 +1,1 @@
+{"index": 329502, "D": "division into three parts, classes, categories, etc.", "S": [], "A": []}

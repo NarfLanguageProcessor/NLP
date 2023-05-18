@@ -1,0 +1,1 @@
+{"index": 109560, "D": "to hesitate or waver in action, purpose, intent, etc.; give way", "S": ["flounder ", "hesitate ", "reel ", "waver ", "wobble "], "A": ["calm ", "hold ", "remain ", "stabilize ", "stay ", "steady "]}

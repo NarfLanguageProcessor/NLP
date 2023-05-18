@@ -1,0 +1,1 @@
+{"index": 93024, "D": "to fall or flow in drops or small quantities; trickle.", "S": [], "A": []}

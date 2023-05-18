@@ -1,0 +1,1 @@
+{"index": 21713, "D": "to estimate officially the value of (property, income, etc.) as a basis for taxation.", "S": ["appraise ", "check ", "determine ", "estimate ", "fix ", "gauge ", "judge ", "weigh "], "A": ["aid ", "assist ", "help ", "ignore ", "neglect ", "guess "]}

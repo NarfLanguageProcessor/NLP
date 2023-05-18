@@ -1,0 +1,1 @@
+{"index": 97970, "D": "to treat (a dead body) so as to preserve it, as with chemicals, drugs, or balsams.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113826, "D": "of or like flakes. ", "S": ["crazy ", "eccentric ", "goofy ", "nutty ", "odd ", "unconventional ", "wacky ", "whacky "], "A": ["sane "]}

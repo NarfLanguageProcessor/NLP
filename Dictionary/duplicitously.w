@@ -1,0 +1,1 @@
+{"index": 94375, "D": "marked or characterized by duplicity. ", "S": [], "A": []}

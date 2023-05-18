@@ -1,0 +1,1 @@
+{"index": 204013, "D": "a ferocious  quality or state; savage fierceness.", "S": [], "A": []}

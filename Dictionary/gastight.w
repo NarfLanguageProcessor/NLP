@@ -1,0 +1,1 @@
+{"index": 122474, "D": "not penetrable by a gas. ", "S": [], "A": []}

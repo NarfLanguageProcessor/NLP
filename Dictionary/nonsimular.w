@@ -1,0 +1,1 @@
+{"index": 207281, "D": "a person or thing that simulates; pretender.", "S": [], "A": []}

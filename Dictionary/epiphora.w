@@ -1,0 +1,1 @@
+{"index": 102701, "D": "an overflow of tears due to excessive secretion of the lacrimal glands or obstruction of the lacrimal ducts.", "S": [], "A": []}

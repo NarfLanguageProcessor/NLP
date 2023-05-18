@@ -1,0 +1,1 @@
+{"index": 190301, "D": "to time badly; perform, say, propose, etc., at a bad or inappropriate time.", "S": [], "A": []}

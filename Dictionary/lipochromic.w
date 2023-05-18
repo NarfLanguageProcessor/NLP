@@ -1,0 +1,1 @@
+{"index": 173164, "D": "any of the naturally occurring pigments that contain a lipid, as carotene.", "S": [], "A": []}

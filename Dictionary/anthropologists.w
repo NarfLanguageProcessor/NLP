@@ -1,0 +1,1 @@
+{"index": 14587, "D": "a person who specializes in anthropology. ", "S": [], "A": []}

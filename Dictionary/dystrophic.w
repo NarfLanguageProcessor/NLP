@@ -1,0 +1,1 @@
+{"index": 89950, "D": "pertaining to or caused by dystrophy.", "S": [], "A": []}

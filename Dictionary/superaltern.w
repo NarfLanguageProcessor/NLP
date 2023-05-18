@@ -1,0 +1,1 @@
+{"index": 311353, "D": "a universal proposition that is the basis for the immediate inference of a corresponding particular proposition.", "S": [], "A": []}

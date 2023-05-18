@@ -1,0 +1,1 @@
+{"index": 265164, "D": "a system of massaging specific areas of the foot or sometimes the hand in order to promote healing, relieve stress, etc., in other parts of the body.", "S": [], "A": []}

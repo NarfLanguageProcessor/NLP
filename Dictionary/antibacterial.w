@@ -1,0 +1,1 @@
+{"index": 14777, "D": "destructive to or inhibiting the growth of bacteria", "S": ["hygienic ", "sterile "], "A": ["dirty "]}

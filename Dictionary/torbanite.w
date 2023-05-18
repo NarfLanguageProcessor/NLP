@@ -1,0 +1,1 @@
+{"index": 326043, "D": "a dark-brown oil shale containing a large amount of carbonaceous matter.", "S": [], "A": []}

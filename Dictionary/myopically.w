@@ -1,0 +1,1 @@
+{"index": 188220, "D": "pertaining to or having myopia; nearsighted. ", "S": [], "A": []}

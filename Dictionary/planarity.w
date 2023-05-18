@@ -1,0 +1,1 @@
+{"index": 238888, "D": "of or relating to a geometric plane. ", "S": [], "A": []}

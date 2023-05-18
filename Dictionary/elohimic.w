@@ -1,0 +1,1 @@
+{"index": 97732, "D": "God, especially as used in the Hebrew text of the Old Testament.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118396, "D": "(in the 14th and 15th centuries) a freeholder who was not of noble birth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208404, "D": "not employed for a salary, fees, or wages; not producing or generating income", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124092, "D": "oriented growth with respect to the force of gravity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344846, "D": "to entice, lure, or ensnare by flattery or artful talk or inducements (usually followed by into)", "S": [], "A": []}

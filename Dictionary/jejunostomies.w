@@ -1,0 +1,1 @@
+{"index": 160794, "D": "an artificial opening from the jejunum through the abdominal wall, created for the drainage of jejunal contents or for feeding.", "S": [], "A": []}

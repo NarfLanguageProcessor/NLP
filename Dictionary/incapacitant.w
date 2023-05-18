@@ -1,0 +1,1 @@
+{"index": 149674, "D": "something, as a chemical spray, that incapacitates  an individual", "S": [], "A": []}

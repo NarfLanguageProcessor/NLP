@@ -1,0 +1,1 @@
+{"index": 180033, "D": "a member of a Uralic people living in scattered communities north of Cheboksary and Kazan in European Russia, mainly in the Mari Autonomous Soviet Socialist Republic.", "S": [], "A": []}

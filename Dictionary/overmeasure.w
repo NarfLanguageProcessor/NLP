@@ -1,0 +1,1 @@
+{"index": 220215, "D": "an excessive or surplus measure  or amount", "S": [], "A": []}

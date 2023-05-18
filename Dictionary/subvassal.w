@@ -1,0 +1,1 @@
+{"index": 309699, "D": "(in the feudal system) a person granted the use of land, in return for rendering homage, fealty, and usually military service or its equivalent to a lord or other superior; feudal tenant.", "S": [], "A": []}

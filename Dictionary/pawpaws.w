@@ -1,0 +1,1 @@
+{"index": 228284, "D": "a tree, Asimina triloba, of the annona family, native to the eastern United States, having large, oblong leaves and purplish flowers.", "S": [], "A": []}

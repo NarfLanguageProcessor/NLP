@@ -1,0 +1,1 @@
+{"index": 127278, "D": "of or resembling a goby.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176477, "D": "a combining form meaning \u201cgolden yellow,\u201d used in the formation of compound words", "S": [], "A": []}

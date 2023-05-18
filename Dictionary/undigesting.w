@@ -1,0 +1,1 @@
+{"index": 340360, "D": "to convert (food) in the alimentary canal into absorbable form for assimilation into the system.", "S": [], "A": []}

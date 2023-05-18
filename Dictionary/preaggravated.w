@@ -1,0 +1,1 @@
+{"index": 245620, "D": "to make worse or more severe; intensify, as anything evil, disorderly, or troublesome", "S": [], "A": []}

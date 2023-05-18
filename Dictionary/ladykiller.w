@@ -1,0 +1,1 @@
+{"index": 167204, "D": "a man who is irresistible to women or has the reputation for being so.", "S": ["seducer "], "A": []}

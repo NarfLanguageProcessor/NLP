@@ -1,0 +1,1 @@
+{"index": 269236, "D": "kept or set apart for some particular use or purpose.", "S": ["carelessly ", "coolly ", "indifferently ", "informally "], "A": []}

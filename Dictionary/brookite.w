@@ -1,0 +1,1 @@
+{"index": 41515, "D": "a brown, red, or black mineral, titanium dioxide, TiO2, trimorphous with rutile and anatase.", "S": [], "A": []}

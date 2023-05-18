@@ -1,0 +1,1 @@
+{"index": 79489, "D": "payment of some or all charges or expenses.", "S": ["allowance ", "compensation ", "fee ", "income ", "payment ", "profit ", "reimbursement ", "remuneration ", "reward ", "salary ", "stipend ", "wage "], "A": ["debt ", "loss ", "penalty "]}

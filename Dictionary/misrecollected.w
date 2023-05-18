@@ -1,0 +1,1 @@
+{"index": 189925, "D": "to recall to mind; recover knowledge of by memory; remember.", "S": ["blow ", "obliterate "], "A": ["carry ", "learn ", "recall ", "recollect ", "remember ", "take "]}

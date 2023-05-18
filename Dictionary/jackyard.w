@@ -1,0 +1,1 @@
+{"index": 159916, "D": "a small, inclined spar upholding the head of a quadrangular gaff topsail similar in form to a lugsail.", "S": [], "A": []}

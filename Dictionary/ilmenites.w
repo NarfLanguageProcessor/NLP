@@ -1,0 +1,1 @@
+{"index": 147555, "D": "a very common black mineral, iron titanate, FeTiO3, occurring in crystals but more commonly massive.", "S": [], "A": []}

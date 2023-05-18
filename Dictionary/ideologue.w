@@ -1,0 +1,1 @@
+{"index": 146417, "D": "a person who zealously advocates an ideology.", "S": [], "A": []}

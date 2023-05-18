@@ -1,0 +1,1 @@
+{"index": 212499, "D": "creating all things; having unlimited powers of creation.", "S": [], "A": []}

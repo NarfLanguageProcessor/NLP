@@ -1,0 +1,1 @@
+{"index": 116715, "D": "the hoof  of a front leg.", "S": [], "A": []}

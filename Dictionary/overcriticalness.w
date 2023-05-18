@@ -1,0 +1,1 @@
+{"index": 218790, "D": "excessively critical;  hypercritical.", "S": [], "A": []}

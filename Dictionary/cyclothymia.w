@@ -1,0 +1,1 @@
+{"index": 57268, "D": "a mild bipolar disorder characterized by instability of mood and a tendency to swing between mild euphorias and depressions.", "S": [], "A": []}

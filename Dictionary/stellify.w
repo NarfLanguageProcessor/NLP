@@ -1,0 +1,1 @@
+{"index": 303571, "D": "to change or be changed into a star", "S": [], "A": []}

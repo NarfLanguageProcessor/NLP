@@ -1,0 +1,1 @@
+{"index": 134164, "D": "meriting hatred or loathing.", "S": [], "A": []}

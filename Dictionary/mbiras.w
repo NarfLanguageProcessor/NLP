@@ -1,0 +1,1 @@
+{"index": 181646, "D": "a traditional musical instrument of Zimbabwe and Malawi, usually consisting of a resonating box to which vibrating metal or wooden strips are attached for plucking.", "S": [], "A": []}

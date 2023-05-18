@@ -1,0 +1,1 @@
+{"index": 206226, "D": "a person who seeks or exacts exorbitant profits,  especially through the sale of scarce or rationed goods.", "S": [], "A": []}

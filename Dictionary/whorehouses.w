@@ -1,0 +1,1 @@
+{"index": 365358, "D": "a house or apartment in which prostitutes are available for hire; house of prostitution; brothel. ", "S": ["bagnio ", "bordello ", "cathouse "], "A": []}

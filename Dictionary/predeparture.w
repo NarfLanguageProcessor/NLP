@@ -1,0 +1,1 @@
+{"index": 246786, "D": "an act or instance of departing", "S": [], "A": []}

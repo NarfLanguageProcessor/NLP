@@ -1,0 +1,1 @@
+{"index": 274388, "D": "a cloak reaching to the knees, worn by men during the 18th century.", "S": [], "A": []}

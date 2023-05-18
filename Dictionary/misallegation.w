@@ -1,0 +1,1 @@
+{"index": 188626, "D": "the act of alleging;  affirmation.", "S": [], "A": []}

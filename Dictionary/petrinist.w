@@ -1,0 +1,1 @@
+{"index": 232483, "D": "the body of theological doctrine taught by, or attributed to, the apostle Peter.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128652, "D": "having, reduced to, consisting of, or bearing grain  or grains  (usually used in combination)", "S": [], "A": []}

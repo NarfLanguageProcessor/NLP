@@ -1,0 +1,1 @@
+{"index": 21701, "D": "(of a statement) stating a fact, as opposed to expressing an evaluative judgment", "S": [], "A": []}

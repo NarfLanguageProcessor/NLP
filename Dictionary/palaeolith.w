@@ -1,0 +1,1 @@
+{"index": 223391, "D": "a stone tool dating to the Palaeolithic", "S": [], "A": []}

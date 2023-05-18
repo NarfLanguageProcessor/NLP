@@ -1,0 +1,1 @@
+{"index": 9012, "D": "the act of allowing. ", "S": [], "A": []}

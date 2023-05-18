@@ -1,0 +1,1 @@
+{"index": 164922, "D": "larger or longer than the usual size.", "S": ["family size ", "giant size ", "large size ", "queen size ", "very large size "], "A": []}

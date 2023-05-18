@@ -1,0 +1,1 @@
+{"index": 161900, "D": "a traveling from one place to another, usually taking a rather long time; trip", "S": ["sightseer ", "traveler ", "visitor "], "A": ["inhabitant ", "local ", "native "]}

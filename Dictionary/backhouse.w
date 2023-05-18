@@ -1,0 +1,1 @@
+{"index": 25818, "D": "a building behind the main building, often serving a subsidiary purpose.", "S": [], "A": []}

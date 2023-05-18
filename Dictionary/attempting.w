@@ -1,0 +1,1 @@
+{"index": 23002, "D": "to make an effort at; try; undertake; seek", "S": ["pursue ", "seek ", "solicit ", "tackle ", "undertake "], "A": ["forget ", "neglect "]}

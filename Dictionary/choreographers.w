@@ -1,0 +1,1 @@
+{"index": 55771, "D": "a person who creates dance compositions and plans and arranges dance movements and patterns for dances and especially for ballets.", "S": [], "A": []}

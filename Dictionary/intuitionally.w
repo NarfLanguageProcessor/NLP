@@ -1,0 +1,1 @@
+{"index": 156900, "D": "pertaining to or of the nature of intuition. ", "S": [], "A": []}

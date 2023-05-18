@@ -1,0 +1,1 @@
+{"index": 171195, "D": "a person or thing that levels. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117348, "D": "a colorless, toxic, potentially carcinogenic, water-soluble gas, CH2O, having a suffocating odor, usually derived from methyl alcohol by oxidation", "S": ["vinegar "], "A": []}

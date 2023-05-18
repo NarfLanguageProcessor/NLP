@@ -1,0 +1,1 @@
+{"index": 235189, "D": "induced  by light.", "S": [], "A": []}

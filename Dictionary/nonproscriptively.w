@@ -1,0 +1,1 @@
+{"index": 206299, "D": "involving, imposing, or defining limits or prohibitions", "S": [], "A": []}

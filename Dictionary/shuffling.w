@@ -1,0 +1,1 @@
+{"index": 289348, "D": "moving in a dragging or clumsy manner.", "S": ["dragging "], "A": ["standing ", "upright ", "vertical "]}

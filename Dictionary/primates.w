@@ -1,0 +1,1 @@
+{"index": 250491, "D": "the order comprising the primates.", "S": ["ape ", "baboon ", "chimpanzee ", "gorilla ", "human ", "lemur ", "mammal ", "man ", "monkey ", "orangutan "], "A": []}

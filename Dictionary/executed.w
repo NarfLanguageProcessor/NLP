@@ -1,0 +1,1 @@
+{"index": 106956, "D": "carried out or acted on; performed", "S": ["accomplished ", "completed ", "done ", "finished "], "A": ["incomplete ", "unfinished "]}

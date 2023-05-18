@@ -1,0 +1,1 @@
+{"index": 356109, "D": "any of the instruments or vessels commonly used in a kitchen, dairy, etc.", "S": ["appliance ", "equipment ", "fork ", "gadget ", "instrument ", "knife ", "silverware ", "tableware ", "ware "], "A": []}

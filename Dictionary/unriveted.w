@@ -1,0 +1,1 @@
+{"index": 350019, "D": "fixed in place with or as if with rivets,  fastened firmly", "S": [], "A": []}

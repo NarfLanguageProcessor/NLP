@@ -1,0 +1,1 @@
+{"index": 222914, "D": "the branch of medical science concerned with children and their diseases", "S": [], "A": []}

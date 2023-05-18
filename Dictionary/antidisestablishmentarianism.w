@@ -1,0 +1,1 @@
+{"index": 15119, "D": "opposition to the withdrawal of state support or recognition from an established church, especially the Anglican Church in 19th-century England.", "S": [], "A": []}

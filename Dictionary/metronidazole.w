@@ -1,0 +1,1 @@
+{"index": 185465, "D": "a synthetic antimicrobial substance, C6H9N3O3, used chiefly in the treatment of infections, such as Trichomonas vaginalis and certain anaerobic bacterial infections.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 50867, "D": "a combining form meaning \u201chundredth\u201d or \u201chundred,\u201d used in the formation of compound words", "S": ["Fescennine verse ", "Hudibrastic verse ", "macaronicism ", "macaronics "], "A": []}

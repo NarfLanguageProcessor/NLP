@@ -1,0 +1,1 @@
+{"index": 113894, "D": "the quality of burning or igniting easily", "S": [], "A": []}

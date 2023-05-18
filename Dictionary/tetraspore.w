@@ -1,0 +1,1 @@
+{"index": 320210, "D": "one of the four asexual spores  produced within a tetrasporangium.", "S": [], "A": []}

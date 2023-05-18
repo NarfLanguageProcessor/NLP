@@ -1,0 +1,1 @@
+{"index": 157003, "D": "capable of being invaginated;  susceptible of invagination.", "S": [], "A": []}

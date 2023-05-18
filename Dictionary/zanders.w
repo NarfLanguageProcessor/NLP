@@ -1,0 +1,1 @@
+{"index": 368825, "D": "a freshwater pikeperch, Stizostedion (Lucioperca) lucioperca, of central Europe, valued as a food fish.", "S": [], "A": []}

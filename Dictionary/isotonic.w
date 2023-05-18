@@ -1,0 +1,1 @@
+{"index": 159313, "D": "Compare hypertonic (def. 2), hypotonic (def. 2). ", "S": [], "A": []}

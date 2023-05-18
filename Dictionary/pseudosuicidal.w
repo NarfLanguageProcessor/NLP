@@ -1,0 +1,1 @@
+{"index": 255186, "D": "pertaining to, involving, or suggesting suicide. ", "S": [], "A": []}

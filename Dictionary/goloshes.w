@@ -1,0 +1,1 @@
+{"index": 127614, "D": "a less common spelling of galoshes", "S": [], "A": []}

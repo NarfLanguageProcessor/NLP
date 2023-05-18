@@ -1,0 +1,1 @@
+{"index": 293482, "D": "any of several large brown gull-like predatory birds of the genus Catharacta, related to jaegers,  especially C. skua(great skua ), of colder waters of both northern and southern seas.", "S": [], "A": []}

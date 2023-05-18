@@ -1,0 +1,1 @@
+{"index": 108681, "D": "a musical or dramatic composition or production, as comic opera or musical comedy, marked by a loose structure, a frivolous theme, and elaborate costuming and staging.", "S": ["pageant ", "spectacular "], "A": ["hiding ", "reality ", "truth "]}

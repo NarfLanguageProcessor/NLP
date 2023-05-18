@@ -1,0 +1,1 @@
+{"index": 180467, "D": "a hammerlike, shafted weapon having a head with a point at one end and a blunt face at the other.", "S": [], "A": []}

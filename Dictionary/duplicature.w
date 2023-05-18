@@ -1,0 +1,1 @@
+{"index": 94363, "D": "a folding or doubling of a part on itself, as a membrane.", "S": [], "A": []}

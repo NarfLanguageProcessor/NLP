@@ -1,0 +1,1 @@
+{"index": 164509, "D": "the capital of Schleswig-Holstein in N Germany, at the Baltic end of the Kiel Canal.", "S": [], "A": []}

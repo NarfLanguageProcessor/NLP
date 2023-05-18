@@ -1,0 +1,1 @@
+{"index": 114699, "D": "to toss or put in motion with a sudden impulse, as with a snap of a finger and thumb, especially so as to cause to turn over in the air", "S": ["brazen ", "cheeky "], "A": ["humble ", "modest ", "polite ", "retiring "]}

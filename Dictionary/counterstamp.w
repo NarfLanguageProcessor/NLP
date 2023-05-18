@@ -1,0 +1,1 @@
+{"index": 71111, "D": "a stamp  added to a stamped  paper or document as a qualifying mark.", "S": [], "A": []}

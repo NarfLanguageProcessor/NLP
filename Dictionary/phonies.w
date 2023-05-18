@@ -1,0 +1,1 @@
+{"index": 234706, "D": "not real or genuine; fake; counterfeit", "S": ["cheat ", "con artist ", "perjurer ", "phony ", "storyteller "], "A": []}

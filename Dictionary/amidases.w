@@ -1,0 +1,1 @@
+{"index": 10408, "D": "an enzyme that catalyzes the hydrolysis of an acid amide.", "S": [], "A": []}

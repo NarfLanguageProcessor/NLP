@@ -1,0 +1,1 @@
+{"index": 68012, "D": "familiar by use or study (usually followed by with)", "S": ["familiarity "], "A": ["disagreement ", "ignorance ", "misunderstanding "]}

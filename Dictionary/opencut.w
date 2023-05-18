@@ -1,0 +1,1 @@
+{"index": 213230, "D": "noting or pertaining to a type of surface mining in which coal and other flat-lying mineral deposits are removed by the excavation of long, narrow trenches.", "S": [], "A": []}

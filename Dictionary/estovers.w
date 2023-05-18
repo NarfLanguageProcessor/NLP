@@ -1,0 +1,1 @@
+{"index": 104707, "D": "necessaries allowed by law, as wood and timber to a tenant or alimony to a spouse.", "S": [], "A": []}

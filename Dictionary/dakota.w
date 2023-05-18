@@ -1,0 +1,1 @@
+{"index": 76426, "D": "a former territory in the United States", "S": [], "A": []}

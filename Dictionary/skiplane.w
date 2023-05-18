@@ -1,0 +1,1 @@
+{"index": 293299, "D": "an airplane equipped with skis  to enable it to land on and take off from snow.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25434, "D": "a person who works miracles by calling upon the name of God, especially one of the German and Polish Jews of the 16th\u201319th centuries considered to be saintly and to possess magical powers.", "S": [], "A": []}

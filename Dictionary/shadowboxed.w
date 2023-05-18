@@ -1,0 +1,1 @@
+{"index": 287082, "D": "to make the motions of attack and defense, as in boxing,  as a training or conditioning procedure.", "S": [], "A": []}

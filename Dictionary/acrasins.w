@@ -1,0 +1,1 @@
+{"index": 2787, "D": "a chemotactic substance, identical with cAMP, secreted by myxamebas of cellular slime molds and attracting other myxamebas to aggregate and form a pseudoplasmodium.", "S": [], "A": []}

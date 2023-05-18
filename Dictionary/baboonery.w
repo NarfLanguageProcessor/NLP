@@ -1,0 +1,1 @@
+{"index": 25567, "D": "an uncouth, ridiculous, or brutish condition, attitude, or action.", "S": [], "A": []}

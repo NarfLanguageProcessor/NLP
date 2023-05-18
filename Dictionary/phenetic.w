@@ -1,0 +1,1 @@
+{"index": 233307, "D": "pertaining to or based on the observable similarities and differences between organisms without regard to assumed genealogy.", "S": [], "A": []}

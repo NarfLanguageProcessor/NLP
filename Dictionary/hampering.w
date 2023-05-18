@@ -1,0 +1,1 @@
+{"index": 133044, "D": "to hold back; hinder; impede", "S": ["discouraging ", "impeding "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166473, "D": "a member of a San people of the Kalahari desert basin of southern Africa.", "S": [], "A": []}

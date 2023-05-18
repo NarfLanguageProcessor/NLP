@@ -1,0 +1,1 @@
+{"index": 25805, "D": "performed with the hand turned backward, crosswise, or in any oblique direction so that the palm of the hand faces in the direction of the body and the back  of the hand faces in the direction of forward movement.", "S": [], "A": []}

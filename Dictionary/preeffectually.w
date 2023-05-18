@@ -1,0 +1,1 @@
+{"index": 247197, "D": "producing or capable of producing an intended effect; adequate. ", "S": [], "A": []}

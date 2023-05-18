@@ -1,0 +1,1 @@
+{"index": 109613, "D": "commonly or generally known or seen", "S": ["informally ", "personally "], "A": ["openly ", "publicly ", "reservedly "]}

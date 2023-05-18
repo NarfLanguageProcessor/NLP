@@ -1,0 +1,1 @@
+{"index": 366745, "D": "a man who knows of and tolerates his wife's infidelity.", "S": [], "A": []}

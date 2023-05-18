@@ -1,0 +1,1 @@
+{"index": 110966, "D": "of or relating to a group of minerals similar in chemical composition to certain feldspars except for a lower silica content.", "S": [], "A": []}

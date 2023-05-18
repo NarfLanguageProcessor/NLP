@@ -1,0 +1,1 @@
+{"index": 83304, "D": "loss, damage, disadvantage, or injury.", "S": ["damage ", "disability ", "disservice ", "drawback ", "handicap ", "harm ", "hurt ", "impairment ", "injury ", "liability ", "loss ", "mischief ", "prejudice ", "spoiling "], "A": ["advantage ", "aid ", "benefit ", "blessing ", "boon ", "favor ", "good ", "help "]}

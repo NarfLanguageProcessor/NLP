@@ -1,0 +1,1 @@
+{"index": 309567, "D": "an act or instance of subtracting. ", "S": ["decrease ", "diminution ", "discount ", "reduction ", "subduction "], "A": ["development ", "enlargement ", "expansion ", "growth ", "increase "]}

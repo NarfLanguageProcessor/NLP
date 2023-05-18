@@ -1,0 +1,1 @@
+{"index": 239060, "D": "a type of intrazonal soil of humid or subhumid uplands having a strongly leached upper layer overlying a clay hardpan", "S": [], "A": []}

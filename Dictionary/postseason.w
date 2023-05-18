@@ -1,0 +1,1 @@
+{"index": 244478, "D": "a period after the season, especially the period of time in organized sports when teams that did well during the regular season play each other for championship titles", "S": [], "A": []}

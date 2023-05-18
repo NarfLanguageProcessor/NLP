@@ -1,0 +1,1 @@
+{"index": 85664, "D": "the act of dilacerating.", "S": [], "A": []}

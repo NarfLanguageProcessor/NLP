@@ -1,0 +1,1 @@
+{"index": 47860, "D": "having a tonic  effect on the action of the heart.", "S": [], "A": []}

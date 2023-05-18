@@ -1,0 +1,1 @@
+{"index": 312020, "D": "to impose,  place, or set over, above, or on something else.", "S": [], "A": []}

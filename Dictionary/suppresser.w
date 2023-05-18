@@ -1,0 +1,1 @@
+{"index": 313079, "D": "to put an end to the activities of (a person, body of persons, etc.)", "S": [], "A": []}

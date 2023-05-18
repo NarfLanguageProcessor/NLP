@@ -1,0 +1,1 @@
+{"index": 74709, "D": "any of numerous mosquitoes constituting the widespread genus Culex, distinguished by the habit in the adult of holding the body parallel to the feeding or resting surface, as the common house mosquito, C. pipiens.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262141, "D": "to bear witness  to; certify; declare to be correct, true, or genuine; declare the truth of, in words or writing, especially to affirm in an official capacity", "S": [], "A": []}

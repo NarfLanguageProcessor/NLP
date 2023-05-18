@@ -1,0 +1,1 @@
+{"index": 267934, "D": "the process or result of oxidizing. ", "S": [], "A": []}

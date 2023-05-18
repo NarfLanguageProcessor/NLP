@@ -1,0 +1,1 @@
+{"index": 162412, "D": "a self-appointed committee, especially with political aims; cabal.", "S": ["band ", "camp ", "cartel ", "circle ", "gang ", "organization ", "pool ", "racket ", "syndicate "], "A": ["disassociation ", "disunion ", "division ", "separation "]}

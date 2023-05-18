@@ -1,0 +1,1 @@
+{"index": 56162, "D": "like Christ; showing the spirit of Christ.", "S": [], "A": []}

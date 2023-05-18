@@ -1,0 +1,1 @@
+{"index": 273370, "D": "to tear or rend apart", "S": ["divide ", "fray ", "rend "], "A": ["agree ", "aid ", "assist ", "close ", "combine ", "cure ", "fix ", "give ", "heal ", "help ", "insert ", "join ", "let go ", "marry ", "mend ", "obey ", "preserve ", "push ", "release ", "repair ", "sew ", "unite "]}

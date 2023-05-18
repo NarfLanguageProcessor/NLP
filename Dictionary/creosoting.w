@@ -1,0 +1,1 @@
+{"index": 72682, "D": "an oily liquid having a burning taste and a penetrating odor, obtained by the distillation of coal and wood tar, used mainly as a preservative for wood and as an antiseptic.", "S": [], "A": []}

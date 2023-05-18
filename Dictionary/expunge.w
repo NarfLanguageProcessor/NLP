@@ -1,0 +1,1 @@
+{"index": 108068, "D": "to strike or blot out; erase; obliterate.", "S": ["abolish ", "annul ", "delete ", "eradicate ", "erase ", "exterminate ", "extinguish ", "omit ", "wipe out "], "A": ["add ", "bear ", "create ", "establish ", "insert ", "institute ", "put in ", "allow ", "give birth ", "help "]}

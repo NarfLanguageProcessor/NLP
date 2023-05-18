@@ -1,0 +1,1 @@
+{"index": 347303, "D": "open to view or knowledge; not concealed or secret", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 345755, "D": "a portion or length of the trunk or of a large limb of a felled tree.", "S": [], "A": []}

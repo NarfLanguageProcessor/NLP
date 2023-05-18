@@ -1,0 +1,1 @@
+{"index": 82747, "D": "to remove from a customary social  environment", "S": [], "A": []}

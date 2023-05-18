@@ -1,0 +1,1 @@
+{"index": 251077, "D": "to treat (a commonly accepted concept, idea, belief, etc.) as a problem in need of a solution in order to analyze, question, or deconstruct received wisdom or self-evident truths.", "S": [], "A": []}

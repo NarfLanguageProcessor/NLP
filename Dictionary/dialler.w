@@ -1,0 +1,1 @@
+{"index": 84271, "D": "a person or thing that dials. ", "S": [], "A": []}

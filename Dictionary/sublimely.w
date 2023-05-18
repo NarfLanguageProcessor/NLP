@@ -1,0 +1,1 @@
+{"index": 308417, "D": "elevated or lofty in thought, language, etc.", "S": ["appealingly ", "attractively ", "charmingly ", "delightfully ", "elegantly ", "exquisitely ", "gorgeously ", "gracefully ", "handsomely ", "magnificently ", "seductively ", "splendidly ", "superbly ", "tastefully ", "wonderfully "], "A": ["poorly "]}

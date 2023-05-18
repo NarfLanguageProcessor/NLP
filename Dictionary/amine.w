@@ -1,0 +1,1 @@
+{"index": 10582, "D": "any of a class of compounds derived from ammonia by replacement of one or more hydrogen atoms with organic groups.", "S": [], "A": []}

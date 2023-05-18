@@ -1,0 +1,1 @@
+{"index": 265322, "D": "of or relating to refraction. ", "S": [], "A": []}

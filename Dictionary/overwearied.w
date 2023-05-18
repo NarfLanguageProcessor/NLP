@@ -1,0 +1,1 @@
+{"index": 221800, "D": "excessively weary;  tired out.", "S": [], "A": []}

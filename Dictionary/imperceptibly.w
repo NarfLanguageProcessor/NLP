@@ -1,0 +1,1 @@
+{"index": 148495, "D": "very slight, gradual, or subtle", "S": ["gradually ", "hardly ", "just barely ", "scarcely "], "A": []}

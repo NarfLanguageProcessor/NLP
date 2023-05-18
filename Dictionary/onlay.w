@@ -1,0 +1,1 @@
+{"index": 212842, "D": "an overlay, especially one in relief.", "S": [], "A": []}

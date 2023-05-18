@@ -1,0 +1,1 @@
+{"index": 229476, "D": "any of several diseases, often fatal, characterized by blisters on the skin and mucous membranes.", "S": [], "A": []}

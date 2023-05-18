@@ -1,0 +1,1 @@
+{"index": 166311, "D": "an avatar of Vishnu and one of the most popular of Indian deities, who appears in the Bhagavad-Gita as the teacher of Arjuna.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 6208, "D": "the act of agisting. ", "S": [], "A": []}

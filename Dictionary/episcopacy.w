@@ -1,0 +1,1 @@
+{"index": 102762, "D": "government of the church by bishops; church government in which there are three distinct orders of ministers, namely bishops, priests or presbyters, and deacons.", "S": ["diocese ", "episcopate ", "see "], "A": []}

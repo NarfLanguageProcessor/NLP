@@ -1,0 +1,1 @@
+{"index": 82454, "D": "Compare prescriptivism, emotivism", "S": [], "A": []}

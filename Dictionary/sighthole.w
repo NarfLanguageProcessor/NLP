@@ -1,0 +1,1 @@
+{"index": 290006, "D": "a hole,  as on a quadrant, through which to see or to sight. ", "S": [], "A": []}

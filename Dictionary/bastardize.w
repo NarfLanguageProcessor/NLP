@@ -1,0 +1,1 @@
+{"index": 28817, "D": "to lower in condition or worth; debase", "S": ["adulterate ", "bestialize ", "brutalize ", "corrupt ", "debauch ", "degrade ", "demoralize ", "deprave ", "pervert ", "vitiate ", "warp "], "A": ["clean ", "cleanse ", "improve ", "moralize ", "purify ", "straighten ", "upgrade "]}

@@ -1,0 +1,1 @@
+{"index": 183538, "D": "to refer briefly to; name, specify, or speak of", "S": [], "A": []}

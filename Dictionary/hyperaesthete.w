@@ -1,0 +1,1 @@
+{"index": 139855, "D": "a person who has or professes to have refined sensitivity toward the beauties of art or nature.", "S": [], "A": []}

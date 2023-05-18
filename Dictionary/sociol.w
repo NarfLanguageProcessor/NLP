@@ -1,0 +1,1 @@
+{"index": 296173, "D": "sociological.", "S": [], "A": []}

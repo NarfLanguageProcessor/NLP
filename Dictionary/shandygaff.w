@@ -1,0 +1,1 @@
+{"index": 287394, "D": "a mixed drink of beer with ginger beer.", "S": [], "A": []}

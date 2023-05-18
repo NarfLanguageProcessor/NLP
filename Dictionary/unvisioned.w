@@ -1,0 +1,1 @@
+{"index": 353862, "D": "pertaining to, seen in, or arising from a vision", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260863, "D": "a base, dishonest, or unscrupulous person.", "S": [], "A": []}

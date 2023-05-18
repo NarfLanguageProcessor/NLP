@@ -1,0 +1,1 @@
+{"index": 51712, "D": "an assignee or grantee.", "S": [], "A": []}

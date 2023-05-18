@@ -1,0 +1,1 @@
+{"index": 160023, "D": "boasting; bragging.", "S": [], "A": []}

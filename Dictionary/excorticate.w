@@ -1,0 +1,1 @@
+{"index": 106810, "D": "decorticate. ", "S": ["decorticate ", "desquamate ", "exfoliate ", "flake ", "flay ", "pare ", "scale ", "shave ", "skin ", "strip ", "uncover "], "A": ["cover "]}

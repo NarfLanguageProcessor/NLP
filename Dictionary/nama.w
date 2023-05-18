@@ -1,0 +1,1 @@
+{"index": 196671, "D": "a member of a Khoikhoi people of Namaqualand, in SW Africa.", "S": [], "A": []}

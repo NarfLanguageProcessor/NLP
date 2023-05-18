@@ -1,0 +1,1 @@
+{"index": 253153, "D": "the science or study of poetic meters and versification.", "S": ["metrics ", "poem ", "poetry "], "A": ["prose "]}

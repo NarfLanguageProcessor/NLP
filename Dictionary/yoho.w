@@ -1,0 +1,1 @@
+{"index": 157564, "D": "(used as a call or shout to attract attention, accompany effort, etc.)", "S": [], "A": []}

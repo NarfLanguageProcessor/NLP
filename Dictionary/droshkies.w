@@ -1,0 +1,1 @@
+{"index": 93395, "D": "a light, low, four-wheeled, open vehicle used mainly in Russia, in which the passengers sit astride or sideways on a long, narrow bench.", "S": [], "A": []}

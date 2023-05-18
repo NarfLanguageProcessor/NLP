@@ -1,0 +1,1 @@
+{"index": 78889, "D": "to set apart and consecrate to a deity or to a sacred purpose", "S": ["allot ", "apply ", "apportion ", "assign ", "commit ", "devote ", "give ", "restrict "], "A": ["hold ", "keep ", "withhold ", "refuse "]}

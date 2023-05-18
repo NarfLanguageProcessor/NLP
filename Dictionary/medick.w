@@ -1,0 +1,1 @@
+{"index": 182106, "D": "any small leguminous plant of the genus Medicago, such as black medick or sickle medick, having yellow or purple flowers and trifoliate leaves", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92454, "D": "a cupronickel coin and monetary unit of modern Greece until the euro  was adopted, equal to 100 lepta. Abbreviation", "S": [], "A": []}

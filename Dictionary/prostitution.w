@@ -1,0 +1,1 @@
+{"index": 253292, "D": "the act or practice of engaging in sex acts, as sexual intercourse, for money.", "S": ["adultery "], "A": []}

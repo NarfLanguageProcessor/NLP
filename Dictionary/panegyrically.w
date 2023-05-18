@@ -1,0 +1,1 @@
+{"index": 224536, "D": "a lofty oration or writing in praise of a person or thing; eulogy.", "S": [], "A": []}

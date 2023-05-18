@@ -1,0 +1,1 @@
+{"index": 314698, "D": "a person who uses or is skilled in the use of a sword. ", "S": ["dueler ", "fencer ", "gladiator "], "A": []}

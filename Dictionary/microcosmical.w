@@ -1,0 +1,1 @@
+{"index": 186050, "D": "a little world; a world in miniature (opposed to macrocosm).", "S": [], "A": []}

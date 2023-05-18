@@ -1,0 +1,1 @@
+{"index": 86489, "D": "a difference in hearing by the two ears so that one sound is heard as two.", "S": [], "A": []}

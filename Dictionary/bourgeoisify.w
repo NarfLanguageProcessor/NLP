@@ -1,0 +1,1 @@
+{"index": 39026, "D": "to make bourgeois; impose bourgeois or middle-class values on.", "S": [], "A": []}

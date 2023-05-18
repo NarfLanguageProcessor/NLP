@@ -1,0 +1,1 @@
+{"index": 148600, "D": "absence of human character or of the traits associated with the human character", "S": [], "A": []}

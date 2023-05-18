@@ -1,0 +1,1 @@
+{"index": 259096, "D": "said (used with nouns, and with first- and third-person pronouns, and always placed before the subject)", "S": [], "A": []}

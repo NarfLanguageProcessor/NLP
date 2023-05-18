@@ -1,0 +1,1 @@
+{"index": 340524, "D": "to free from or deprive of illusion,  belief, idealism, etc.; disenchant. ", "S": [], "A": []}

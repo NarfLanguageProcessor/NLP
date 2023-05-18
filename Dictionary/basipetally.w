@@ -1,0 +1,1 @@
+{"index": 28681, "D": "growing or moving toward the base of a structure or part.", "S": [], "A": []}

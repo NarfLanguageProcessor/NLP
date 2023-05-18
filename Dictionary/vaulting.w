@@ -1,0 +1,1 @@
+{"index": 357550, "D": "the act or process of constructing vaults. ", "S": ["eager "], "A": []}

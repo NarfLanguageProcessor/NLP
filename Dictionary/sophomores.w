@@ -1,0 +1,1 @@
+{"index": 297442, "D": "a student in the second year of high school or college.", "S": ["graduate student ", "learner ", "senior ", "student ", "undergraduate "], "A": ["expert ", "professional "]}

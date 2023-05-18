@@ -1,0 +1,1 @@
+{"index": 223425, "D": "the study of diseases of ancient man and fossil animals", "S": [], "A": []}

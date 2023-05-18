@@ -1,0 +1,1 @@
+{"index": 365772, "D": "a mineral, a zinc silicate, Zn2SiO4, sometimes containing manganese, occurring in prismatic crystals or granular masses, usually greenish, sometimes white, brown, or red", "S": [], "A": []}

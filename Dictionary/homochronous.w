@@ -1,0 +1,1 @@
+{"index": 142990, "D": "(of a genetic character) occurring at the same age or period in the offspring as in the parent.", "S": [], "A": []}

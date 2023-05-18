@@ -1,0 +1,1 @@
+{"index": 132833, "D": "a plant that thrives in saline soil.", "S": [], "A": []}

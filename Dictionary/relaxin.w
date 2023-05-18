@@ -1,0 +1,1 @@
+{"index": 266796, "D": "a polypeptide hormone produced by the corpus luteum during pregnancy that causes the pelvic ligaments and cervix to relax  during pregnancy and delivery.", "S": [], "A": []}

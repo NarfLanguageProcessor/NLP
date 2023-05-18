@@ -1,0 +1,1 @@
+{"index": 114204, "D": "a combining form meaning \u201cyellow,\u201d used in the formation of compound words (flavopurpurin); in some biochemical terms, specialized in meaning to indicate flavin  (flavoprotein).", "S": [], "A": []}

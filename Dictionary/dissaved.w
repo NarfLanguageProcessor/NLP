@@ -1,0 +1,1 @@
+{"index": 89401, "D": "to withdraw or spend savings, especially to meet increased living expenses.", "S": [], "A": []}

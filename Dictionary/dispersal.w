@@ -1,0 +1,1 @@
+{"index": 88978, "D": "dispersion (def. 1). ", "S": ["diffusion ", "dispersion ", "dissemination ", "scattering "], "A": ["collection "]}

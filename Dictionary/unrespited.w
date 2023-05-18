@@ -1,0 +1,1 @@
+{"index": 349748, "D": "a delay or cessation for a time, especially of anything distressing or trying; an interval of relief", "S": [], "A": []}

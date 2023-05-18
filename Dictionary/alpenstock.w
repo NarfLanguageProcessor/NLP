@@ -1,0 +1,1 @@
+{"index": 9309, "D": "a strong staff with an iron point, used by mountain climbers.", "S": ["cane ", "crutch "], "A": []}

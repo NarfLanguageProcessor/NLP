@@ -1,0 +1,1 @@
+{"index": 237594, "D": [], "S": ["edifice ", "memorial ", "monolith ", "shrine ", "tomb "], "A": []}

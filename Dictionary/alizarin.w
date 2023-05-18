@@ -1,0 +1,1 @@
+{"index": 8383, "D": "a solid appearing reddish-orange as crystals and brownish-yellow as powder, C14H8O4, one of the earliest known dyes, formerly obtained in its natural state from madder and now derived from anthraquinone", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 280157, "D": "of, relating to, or of the nature of schism;  guilty of schism. ", "S": ["apostate ", "dissenter ", "dissident ", "freethinker ", "heretic ", "iconoclast ", "infidel ", "miscreant ", "nonconformist ", "revisionist ", "sectarian ", "sectary ", "separationist ", "skeptic ", "unbeliever "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322424, "D": "executed without negligence or omissions", "S": ["accurate ", "careful ", "complete ", "comprehensive ", "detailed ", "exhaustive ", "full ", "intensive ", "meticulous ", "painstaking ", "profound "], "A": ["careless ", "incomplete ", "needy ", "thoughtless ", "undetailed ", "unfinished "]}

@@ -1,0 +1,1 @@
+{"index": 363146, "D": "having rivers or streams", "S": ["bathed ", "doused ", "drenched ", "flooded ", "hosed ", "irrigated ", "quenched ", "showered ", "sprayed ", "sprinkled ", "washed ", "wet ", "wetted "], "A": ["dry ", "thirsty "]}

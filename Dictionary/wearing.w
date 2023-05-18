@@ -1,0 +1,1 @@
+{"index": 363561, "D": "gradually impairing or wasting", "S": ["draining ", "exhausting "], "A": []}

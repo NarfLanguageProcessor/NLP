@@ -1,0 +1,1 @@
+{"index": 155771, "D": "a person holding supreme authority in a state during an interregnum.", "S": [], "A": []}

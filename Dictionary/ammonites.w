@@ -1,0 +1,1 @@
+{"index": 10776, "D": "a nomadic tribe living east of the Jordan", "S": [], "A": []}

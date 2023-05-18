@@ -1,0 +1,1 @@
+{"index": 214666, "D": "a supporter of the Orl\u00e9ans branch of the former French royal family and of its claim to the throne of France through descent from the younger brother of Louis XIV.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287561, "D": "fairly sharp", "S": [], "A": []}

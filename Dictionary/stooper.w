@@ -1,0 +1,1 @@
+{"index": 305308, "D": "to bend the head and shoulders, or the body generally, forward and downward from an erect position", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81155, "D": "a kingdom in northern Europe, on the Jutland peninsula and adjacent islands. 16,576 sq. mi. (42,930 sq. km). Capital", "S": [], "A": []}

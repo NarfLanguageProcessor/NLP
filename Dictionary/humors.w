@@ -1,0 +1,1 @@
+{"index": 145060, "D": "a comic, absurd, or incongruous quality causing amusement", "S": ["banter ", "farce ", "fun ", "gag ", "joke ", "playfulness ", "whimsy ", "wisecrack ", "wit "], "A": ["sadness ", "seriousness ", "unhappiness "]}

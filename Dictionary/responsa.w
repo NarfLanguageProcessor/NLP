@@ -1,0 +1,1 @@
+{"index": 269781, "D": "the branch of rabbinical literature comprised of authoritative replies in letter form made by noted rabbis or Jewish scholars to questions sent to them concerning Jewish law.", "S": [], "A": []}

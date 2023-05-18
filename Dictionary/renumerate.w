@@ -1,0 +1,1 @@
+{"index": 267792, "D": "to represent numbers by symbols.", "S": [], "A": []}

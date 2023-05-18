@@ -1,0 +1,1 @@
+{"index": 154225, "D": "of, relating to, or belonging as a part of the whole; constituent or component", "S": [], "A": []}

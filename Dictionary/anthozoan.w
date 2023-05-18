@@ -1,0 +1,1 @@
+{"index": 14456, "D": "any marine coelenterate of the class Anthozoa, comprising colonial and solitary polyps and including corals, sea anemones, sea pens, etc.", "S": [], "A": []}

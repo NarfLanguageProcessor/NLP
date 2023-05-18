@@ -1,0 +1,1 @@
+{"index": 127188, "D": "a post supporting a crossbar and, with it, forming the goal  on a playing field in certain sports, as football.", "S": ["crossbar ", "end line ", "goal ", "goal line "], "A": []}

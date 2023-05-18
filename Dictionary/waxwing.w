@@ -1,0 +1,1 @@
+{"index": 363433, "D": "any of several songbirds of the family Bombycillidae, having a showy crest and certain feathers tipped with a red, waxy material, as Bombycilla garrulus(Bohemian waxwing ), of the Northern Hemisphere.", "S": [], "A": []}

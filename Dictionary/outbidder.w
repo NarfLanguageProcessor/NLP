@@ -1,0 +1,1 @@
+{"index": 216198, "D": "to outdo in bidding;  make a higher bid than (another bidder).", "S": [], "A": []}

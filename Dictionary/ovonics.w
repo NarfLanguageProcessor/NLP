@@ -1,0 +1,1 @@
+{"index": 221993, "D": "a branch of electronics using special glassy materials that quickly become electrical conductors upon application of a certain minimum voltage.", "S": [], "A": []}

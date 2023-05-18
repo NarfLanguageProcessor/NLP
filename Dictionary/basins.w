@@ -1,0 +1,1 @@
+{"index": 28669, "D": "a circular container with a greater width than depth, becoming smaller toward the bottom, used chiefly to hold water or other liquid, especially for washing.", "S": ["bowl ", "lagoon ", "pan ", "pool ", "pot ", "tub ", "valley ", "watershed "], "A": ["increase ", "rise ", "solid "]}

@@ -1,0 +1,1 @@
+{"index": 45248, "D": "any of several plants belonging to the genus Zantedeschia, of the arum family, especially Z. aethiopica, having arrow-shaped leaves and a large white spathe enclosing a yellow spike.", "S": [], "A": []}

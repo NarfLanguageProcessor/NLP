@@ -1,0 +1,1 @@
+{"index": 318852, "D": "a straining to urinate or defecate, without the ability to do so.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352352, "D": "that suggests;  referring to other thoughts, persons, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246086, "D": "one of the 17th-century literary women of France who affected an extreme care in the use of language.", "S": [], "A": []}

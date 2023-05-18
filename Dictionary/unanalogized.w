@@ -1,0 +1,1 @@
+{"index": 334960, "D": "to make use of analogy  in reasoning, argument, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223858, "D": "the technique of repeating a word or phrase for emphasis.", "S": [], "A": []}

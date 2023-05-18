@@ -1,0 +1,1 @@
+{"index": 192057, "D": "of, relating to, or resembling a monk", "S": [], "A": []}

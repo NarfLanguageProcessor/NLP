@@ -1,0 +1,1 @@
+{"index": 361384, "D": "a short-lived avant-garde British art movement that was nurtured by Wyndham Lewis, derived from futurism and cubism, and reached its climax in an exhibition in London in 1915, dwindling in influence after World War I.", "S": [], "A": []}

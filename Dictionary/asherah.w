@@ -1,0 +1,1 @@
+{"index": 21137, "D": "an ancient Semitic goddess, sometimes identified with Ashtoreth and Astarte, worshiped by the Phoenicians and Canaanites.", "S": [], "A": []}

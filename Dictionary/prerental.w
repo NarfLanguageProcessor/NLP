@@ -1,0 +1,1 @@
+{"index": 249118, "D": "an amount received or paid as rent. ", "S": [], "A": []}

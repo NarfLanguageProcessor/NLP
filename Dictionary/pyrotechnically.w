@@ -1,0 +1,1 @@
+{"index": 237957, "D": "of or relating to pyrotechnics. ", "S": [], "A": []}

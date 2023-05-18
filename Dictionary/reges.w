@@ -1,0 +1,1 @@
+{"index": 265607, "D": "king. ", "S": ["czar ", "emperor ", "king ", "monarch "], "A": ["commoner "]}

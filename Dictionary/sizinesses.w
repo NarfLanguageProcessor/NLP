@@ -1,0 +1,1 @@
+{"index": 292785, "D": "thick; viscous.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219497, "D": "an outer garment. ", "S": [], "A": []}

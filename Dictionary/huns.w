@@ -1,0 +1,1 @@
+{"index": 145180, "D": [], "S": ["beast ", "bigot ", "boor ", "brute ", "clod ", "hooligan ", "ignoramus ", "lout ", "monster ", "philistine ", "rascal ", "ruffian ", "troglodyte ", "vandal "], "A": ["humanitarian "]}

@@ -1,0 +1,1 @@
+{"index": 325585, "D": "a medicine that invigorates or strengthens", "S": ["analeptic ", "boost ", "bracer ", "conditioner ", "cordial ", "drug ", "fillip ", "invigorator ", "pick-me-up ", "pickup ", "refresher ", "restorative ", "stimulant ", "strengthener "], "A": []}

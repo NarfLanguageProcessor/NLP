@@ -1,0 +1,1 @@
+{"index": 263091, "D": "a piece of metal stamped and issued by the authority of a government for use as money.", "S": [], "A": []}

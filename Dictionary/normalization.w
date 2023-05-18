@@ -1,0 +1,1 @@
+{"index": 208547, "D": "the act or process of normalizing", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 295791, "D": "shut in or immobilized by snow. ", "S": [], "A": []}

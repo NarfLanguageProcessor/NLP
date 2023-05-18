@@ -1,0 +1,1 @@
+{"index": 364517, "D": "a frame or box for conveying a load, supported at one end by a wheel  or wheels,  and lifted and pushed at the other by two horizontal shafts.", "S": ["rickshaw ", "truck ", "wagon "], "A": []}

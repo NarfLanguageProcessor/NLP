@@ -1,0 +1,1 @@
+{"index": 237958, "D": "a specialist in the origin of fires, their nature and control, etc.", "S": [], "A": []}

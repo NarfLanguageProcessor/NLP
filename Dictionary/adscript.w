@@ -1,0 +1,1 @@
+{"index": 4445, "D": "written after (distinguished from subscript).", "S": [], "A": []}

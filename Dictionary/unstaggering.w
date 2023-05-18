@@ -1,0 +1,1 @@
+{"index": 351900, "D": "tending to stagger  or overwhelm", "S": [], "A": []}

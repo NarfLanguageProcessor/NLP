@@ -1,0 +1,1 @@
+{"index": 235088, "D": "the phenomenon of double refraction of polarized light by a transparent substance under elastic stress, used to measure strain in elastic, transparent materials.", "S": [], "A": []}

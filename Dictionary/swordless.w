@@ -1,0 +1,1 @@
+{"index": 314683, "D": "a weapon having various forms but consisting typically of a long, straight or slightly curved blade, sharp-edged on one or both sides, with one end pointed and the other fixed in a hilt or handle.", "S": [], "A": []}

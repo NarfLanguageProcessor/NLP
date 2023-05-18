@@ -1,0 +1,1 @@
+{"index": 117409, "D": "external appearance of a clearly defined area, as distinguished from color or material;configuration", "S": ["hammered ", "milled ", "pounded ", "rolled ", "shaped ", "stamped ", "tamped ", "tramped ", "trodden ", "worked "], "A": []}

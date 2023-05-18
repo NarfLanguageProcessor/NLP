@@ -1,0 +1,1 @@
+{"index": 68398, "D": "an oleoresin obtained from several tropical, chiefly South American trees belonging to the genus Copaifera, of the legume family, used chiefly in varnishes and lacquers, for removing old oil varnish from or for brightening oil paintings, and formerly in medicine in the treatment of certain mucous-membrane conditions.", "S": [], "A": []}

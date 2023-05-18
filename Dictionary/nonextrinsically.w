@@ -1,0 +1,1 @@
+{"index": 203898, "D": "not essential or inherent; not a basic part or quality; extraneous", "S": [], "A": []}

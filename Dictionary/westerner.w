@@ -1,0 +1,1 @@
+{"index": 364244, "D": "a native or inhabitant of the West, especially of the western  U.S.", "S": [], "A": []}

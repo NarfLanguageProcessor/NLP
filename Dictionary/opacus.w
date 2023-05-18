@@ -1,0 +1,1 @@
+{"index": 213172, "D": "(of a cloud) dense enough to obscure the sun or moon.", "S": [], "A": []}

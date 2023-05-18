@@ -1,0 +1,1 @@
+{"index": 344301, "D": "filled with intense feeling or passion; passionate; ardent.", "S": ["calmly ", "coolly ", "solemnly "], "A": ["cheerfully ", "drunkenly ", "excitedly ", "hilariously "]}

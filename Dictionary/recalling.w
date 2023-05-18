@@ -1,0 +1,1 @@
+{"index": 262558, "D": "to bring back from memory; recollect; remember", "S": ["abandonment ", "abolition ", "annulment ", "dissolution ", "elimination ", "repeal ", "retirement ", "reversal ", "revocation "], "A": ["enactment ", "validation ", "confirmation "]}

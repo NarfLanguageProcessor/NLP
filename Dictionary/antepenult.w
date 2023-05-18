@@ -1,0 +1,1 @@
+{"index": 14219, "D": "the third syllable from the end in a word, as te in antepenult.", "S": [], "A": []}

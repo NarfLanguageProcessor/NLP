@@ -1,0 +1,1 @@
+{"index": 336226, "D": "fabric woven with an elaborate design, especially one having a raised overall pattern.", "S": [], "A": []}

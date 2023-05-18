@@ -1,0 +1,1 @@
+{"index": 265535, "D": "to look upon or think of with a particular feeling", "S": ["marked "], "A": ["unknown "]}

@@ -1,0 +1,1 @@
+{"index": 94339, "D": "a pair of electrons shared between two atoms in a covalent bond", "S": [], "A": []}

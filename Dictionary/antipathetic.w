@@ -1,0 +1,1 @@
+{"index": 15792, "D": "opposed, averse, or contrary; having or showing antipathy", "S": ["antagonistic ", "averse ", "contrary ", "hostile ", "nasty ", "unfriendly "], "A": ["agreeable ", "friendly ", "sympathetic "]}

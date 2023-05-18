@@ -1,0 +1,1 @@
+{"index": 365263, "D": "to make or cause to make a loud humming or buzzing sound", "S": [], "A": []}

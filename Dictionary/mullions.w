@@ -1,0 +1,1 @@
+{"index": 194958, "D": "a vertical member, as of stone or wood, between the lights of a window, the panels in wainscoting, or the like.", "S": [], "A": []}

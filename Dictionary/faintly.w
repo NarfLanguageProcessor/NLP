@@ -1,0 +1,1 @@
+{"index": 109297, "D": "lacking brightness, vividness, clearness, loudness, strength, etc.", "S": ["barely ", "comparatively ", "practically ", "rarely ", "seldom ", "simply ", "somewhat "], "A": ["frequently "]}

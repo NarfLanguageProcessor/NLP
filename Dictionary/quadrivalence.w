@@ -1,0 +1,1 @@
+{"index": 257691, "D": "having a valence of four; tetravalent.", "S": [], "A": []}

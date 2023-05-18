@@ -1,0 +1,1 @@
+{"index": 340648, "D": "to draw away or divert, as the mind or attention", "S": [], "A": []}

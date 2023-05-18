@@ -1,0 +1,1 @@
+{"index": 72732, "D": "a shape resembling a segment of a ring tapering to points at the ends.", "S": ["bow-shaped ", "bowed ", "concave ", "convex ", "crescent-shaped ", "crescentiform ", "curved ", "falcate ", "semicircular "], "A": []}

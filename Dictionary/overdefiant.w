@@ -1,0 +1,1 @@
+{"index": 218891, "D": "characterized by defiance;  boldly resistant or challenging", "S": [], "A": []}

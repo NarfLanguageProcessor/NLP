@@ -1,0 +1,1 @@
+{"index": 12872, "D": "any of several nymphalid butterflies, especially of the genus Polygonia, having angular notches on the outer edges of the forewings.", "S": [], "A": []}

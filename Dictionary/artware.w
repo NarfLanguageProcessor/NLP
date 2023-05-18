@@ -1,0 +1,1 @@
+{"index": 20789, "D": "an article of china, porcelain, glass, or the like, prized for its artistry and collected as an art  object", "S": [], "A": []}

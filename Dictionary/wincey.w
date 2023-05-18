@@ -1,0 +1,1 @@
+{"index": 365880, "D": "a plain- or twill-weave cloth, usually having a cotton or linen warp and a wool filling", "S": [], "A": []}

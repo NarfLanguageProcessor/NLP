@@ -1,0 +1,1 @@
+{"index": 357558, "D": "praised boastfully or excessively", "S": ["boast ", "brag ", "crow ", "display ", "flaunt ", "gasconade ", "prate ", "strut "], "A": ["conceal ", "deprecate ", "hide "]}

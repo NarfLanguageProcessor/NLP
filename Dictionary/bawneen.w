@@ -1,0 +1,1 @@
+{"index": 29290, "D": "Irish a variant spelling of b\u00e1in\u00edn", "S": [], "A": []}

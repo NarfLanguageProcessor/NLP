@@ -1,0 +1,1 @@
+{"index": 283717, "D": "coated with glue, paste, mastic, or other sticky substance", "S": [], "A": []}

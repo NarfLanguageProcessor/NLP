@@ -1,0 +1,1 @@
+{"index": 103497, "D": "the act of erasing.", "S": [], "A": []}

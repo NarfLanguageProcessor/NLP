@@ -1,0 +1,1 @@
+{"index": 11197, "D": "any of numerous small, flat-bodied crustaceans of the group Amphipoda, including the beach fleas, sand hoppers, etc.", "S": [], "A": []}

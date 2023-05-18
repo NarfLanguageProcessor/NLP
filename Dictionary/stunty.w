@@ -1,0 +1,1 @@
+{"index": 306917, "D": "to stop, slow down, or hinder the growth or development of; dwarf", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125778, "D": "to make glad. ", "S": ["captivated ", "charmed ", "ecstatic ", "elated ", "enchanted ", "excited ", "jubilant ", "overjoyed ", "pleased ", "thrilled "], "A": ["bored ", "depressed ", "sad ", "sorrowful ", "unhappy "]}

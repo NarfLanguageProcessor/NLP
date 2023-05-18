@@ -1,0 +1,1 @@
+{"index": 239637, "D": "such as to give pleasure;  enjoyable; agreeable; pleasant", "S": [], "A": []}

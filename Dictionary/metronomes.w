@@ -1,0 +1,1 @@
+{"index": 185470, "D": "a mechanical or electrical instrument that makes repeated clicking sounds at an adjustable pace, used for marking rhythm, especially in practicing music.", "S": ["clock ", "hourglass ", "timepiece ", "timer "], "A": []}

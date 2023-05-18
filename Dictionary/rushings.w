@@ -1,0 +1,1 @@
+{"index": 275790, "D": "a sequence of social events sponsored by a fraternity or sorority for prospective members prior to bidding and pledging.", "S": ["competing ", "contest ", "darting ", "dashing ", "flying ", "galloping ", "hurrying ", "running ", "rushing ", "sailing ", "sport ", "sporting ", "tearing ", "track ", "trotting ", "whizzing "], "A": []}

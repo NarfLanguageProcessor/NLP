@@ -1,0 +1,1 @@
+{"index": 194080, "D": "to furnish with a motor,  as a vehicle.", "S": ["industrialize "], "A": []}

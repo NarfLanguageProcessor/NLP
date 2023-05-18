@@ -1,0 +1,1 @@
+{"index": 265360, "D": "to freeze or be frozen again after having defrosted", "S": [], "A": []}

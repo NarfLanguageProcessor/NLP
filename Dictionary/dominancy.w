@@ -1,0 +1,1 @@
+{"index": 91304, "D": "control; authority; rule; supreme influence.", "S": [], "A": []}

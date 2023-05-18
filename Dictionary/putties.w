@@ -1,0 +1,1 @@
+{"index": 257352, "D": "a compound of whiting and linseed oil, of a doughlike consistency when fresh, used to secure windowpanes, patch woodwork defects, etc.", "S": ["adhesive ", "mud ", "plaster ", "sand "], "A": []}

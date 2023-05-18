@@ -1,0 +1,1 @@
+{"index": 232294, "D": "a deadly or virulent epidemic disease.", "S": ["contagion ", "disease ", "endemic ", "infection ", "outbreak ", "plague ", "rash ", "scourge ", "sickness ", "virus "], "A": ["advantage ", "health "]}

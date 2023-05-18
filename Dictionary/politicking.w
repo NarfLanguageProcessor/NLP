@@ -1,0 +1,1 @@
+{"index": 242562, "D": "activity undertaken for political reasons or ends, as campaigning for votes before an election, making speeches, etc., or otherwise promoting oneself or one's policies.", "S": ["campaign trail ", "campaigning ", "candidature ", "canvassing ", "door-to-door ", "stump ", "stump excursion ", "stumping ", "stumping tour "], "A": []}

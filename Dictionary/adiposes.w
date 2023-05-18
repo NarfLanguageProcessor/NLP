@@ -1,0 +1,1 @@
+{"index": 3965, "D": "fatty; consisting of, resembling, or relating to fat.", "S": [], "A": []}

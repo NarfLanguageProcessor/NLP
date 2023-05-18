@@ -1,0 +1,1 @@
+{"index": 319947, "D": "naphthacene. ", "S": [], "A": []}

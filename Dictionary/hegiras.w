@@ -1,0 +1,1 @@
+{"index": 135334, "D": "a variant spelling of Hijra. ", "S": ["escape ", "evacuation ", "exit ", "exodus ", "flight ", "passage ", "removal ", "retirement ", "retreat ", "separation ", "takeoff ", "walkout ", "withdrawal "], "A": ["arrival ", "coming ", "entrance ", "stay ", "greeting ", "hello "]}

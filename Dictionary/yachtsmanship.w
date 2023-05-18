@@ -1,0 +1,1 @@
+{"index": 145494, "D": "a person who owns or sails a yacht,  or who is devoted to yachting. ", "S": [], "A": []}

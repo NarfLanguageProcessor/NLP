@@ -1,0 +1,1 @@
+{"index": 128213, "D": "a flexible speaking tube for communication between separate cockpits or compartments of an aircraft.", "S": [], "A": []}

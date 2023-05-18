@@ -1,0 +1,1 @@
+{"index": 227809, "D": "a person who is under medical care or treatment.", "S": ["fortitude ", "self-control "], "A": ["agitation ", "excess ", "impatience ", "indulgence ", "intemperance ", "intolerance ", "wildness "]}

@@ -1,0 +1,1 @@
+{"index": 167966, "D": "a circuit of wire or cable connecting two ground locations.", "S": [], "A": []}

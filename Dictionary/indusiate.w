@@ -1,0 +1,1 @@
+{"index": 151406, "D": "having an indusium.", "S": [], "A": []}

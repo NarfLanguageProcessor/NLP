@@ -1,0 +1,1 @@
+{"index": 301718, "D": "to spend or use (money, time, etc.) extravagantly or wastefully (often followed by away).", "S": ["profligate ", "spender ", "spendthrift ", "sport ", "waster ", "wastrel "], "A": []}

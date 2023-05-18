@@ -1,0 +1,1 @@
+{"index": 36408, "D": "(of a woman or girl) having fair hair and usually fair skin and light eyes.", "S": [], "A": []}

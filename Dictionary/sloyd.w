@@ -1,0 +1,1 @@
+{"index": 294315, "D": "a system of manual training based on experience gained in woodworking, originally developed in Sweden.", "S": [], "A": []}

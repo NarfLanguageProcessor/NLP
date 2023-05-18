@@ -1,0 +1,1 @@
+{"index": 106586, "D": "to surpass others or be superior in some respect or area; do extremely well", "S": ["exceeding ", "prevailing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205028, "D": "the act of linking;  state or manner of being linked. ", "S": [], "A": []}

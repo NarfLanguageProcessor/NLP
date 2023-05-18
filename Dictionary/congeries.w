@@ -1,0 +1,1 @@
+{"index": 66166, "D": "a collection of items or parts in one mass; assemblage; aggregation, heap", "S": ["aggregation ", "assemblage ", "collection ", "gathering ", "heap ", "hodgepodge ", "pile "], "A": []}

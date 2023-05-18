@@ -1,0 +1,1 @@
+{"index": 49365, "D": "a condition characterized by sudden, brief attacks of muscle weakness sometimes causing the body to fall helplessly, that is usually triggered by strong emotion", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323489, "D": "of or derived from tiglic acid.", "S": [], "A": []}

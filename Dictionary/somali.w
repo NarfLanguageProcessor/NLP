@@ -1,0 +1,1 @@
+{"index": 296950, "D": "a member of a people speaking a Cushitic language and living primarily in Somalia, Somaliland, and adjacent regions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340103, "D": "the simple past tense of undergo. ", "S": ["bear ", "endure ", "experience ", "go through ", "have ", "meet with ", "see ", "suffer ", "sustain ", "withstand "], "A": ["discontinue ", "refuse ", "surrender ", "disallow ", "disapprove ", "let go ", "oppose ", "reject ", "stop ", "veto "]}

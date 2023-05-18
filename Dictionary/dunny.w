@@ -1,0 +1,1 @@
+{"index": 94219, "D": "an outside privy; outhouse.", "S": [], "A": []}

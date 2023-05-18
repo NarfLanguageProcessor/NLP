@@ -1,0 +1,1 @@
+{"index": 107416, "D": "protrusion of the eyeball from the orbit, caused by disease, especially hyperthyroidism, or injury.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69237, "D": "a plant, Agrostemma githago, of the pink family, having magenta-purple flowers and occurring commonly as a weed among crops of grain.", "S": [], "A": []}

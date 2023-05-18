@@ -1,0 +1,1 @@
+{"index": 178872, "D": "a herd of horses.", "S": [], "A": []}

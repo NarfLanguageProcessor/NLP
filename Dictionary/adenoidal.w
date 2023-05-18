@@ -1,0 +1,1 @@
+{"index": 3727, "D": "of or relating to the adenoids; adenoid. ", "S": [], "A": []}

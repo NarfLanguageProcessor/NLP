@@ -1,0 +1,1 @@
+{"index": 308890, "D": "a woman holding a position corresponding to that of a prior, sometimes ranking next below an abbess.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 255113, "D": "an optical instrument for producing an image in which the depth or relief of an object is reversed.", "S": [], "A": []}

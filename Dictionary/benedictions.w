@@ -1,0 +1,1 @@
+{"index": 31530, "D": "an utterance of good wishes.", "S": ["invocation "], "A": ["condemnation ", "criticism ", "disapproval ", "disfavor ", "refusal "]}

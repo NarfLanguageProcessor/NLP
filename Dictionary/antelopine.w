@@ -1,0 +1,1 @@
+{"index": 14152, "D": "any of several ruminants of the family Bovidae, chiefly of Africa and Asia, having permanent, hollow, unbranched horns.", "S": [], "A": []}

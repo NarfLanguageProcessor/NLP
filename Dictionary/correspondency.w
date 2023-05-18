@@ -1,0 +1,1 @@
+{"index": 69660, "D": "correspondence (def. 3). ", "S": [], "A": []}

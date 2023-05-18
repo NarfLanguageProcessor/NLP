@@ -1,0 +1,1 @@
+{"index": 64666, "D": "the natural color, texture, and appearance of the skin, especially of the face", "S": [], "A": []}

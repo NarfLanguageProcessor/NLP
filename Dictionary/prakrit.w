@@ -1,0 +1,1 @@
+{"index": 245277, "D": "any of the vernacular Indic languages of the ancient and medieval periods, as distinguished from Sanskrit.", "S": [], "A": []}

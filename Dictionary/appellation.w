@@ -1,0 +1,1 @@
+{"index": 17639, "D": "a name, title, or designation.", "S": ["moniker ", "sobriquet "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171497, "D": "to set free, as from imprisonment or bondage.", "S": ["emancipate ", "free ", "rescue ", "save "], "A": ["hold ", "incarcerate ", "detain ", "imprison ", "keep "]}

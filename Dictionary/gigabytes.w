@@ -1,0 +1,1 @@
+{"index": 124774, "D": "a measure of storage capacity equal to 230 (1024) bytes. ", "S": [], "A": []}

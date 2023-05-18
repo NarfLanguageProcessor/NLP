@@ -1,0 +1,1 @@
+{"index": 113042, "D": "a small, detached ray of a fin  in certain fishes, as mackerels.", "S": [], "A": []}

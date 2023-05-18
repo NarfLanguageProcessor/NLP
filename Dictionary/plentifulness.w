@@ -1,0 +1,1 @@
+{"index": 239825, "D": "existing in great plenty", "S": ["affluence ", "amplitude ", "bountifulness ", "bounty ", "cornucopia ", "exuberance ", "fullness ", "lavishness ", "luxuriance ", "plenty ", "richness ", "superabundance "], "A": ["lack ", "need ", "want "]}

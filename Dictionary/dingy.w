@@ -1,0 +1,1 @@
+{"index": 86114, "D": "of a dark, dull, or dirty color or aspect; lacking brightness or freshness.", "S": ["dilapidated ", "dirty ", "drab ", "dreary ", "grimy ", "run down ", "seedy ", "shabby "], "A": ["bright ", "clean ", "nice ", "pure ", "sterile "]}

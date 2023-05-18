@@ -1,0 +1,1 @@
+{"index": 211624, "D": "excessive attention to official  regulations and routines.", "S": ["procedure ", "red tape ", "rite ", "ritual "], "A": ["informality "]}

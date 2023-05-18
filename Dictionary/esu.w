@@ -1,0 +1,1 @@
+{"index": 104779, "D": "electrostatic unit. ", "S": [], "A": []}

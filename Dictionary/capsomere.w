@@ -1,0 +1,1 @@
+{"index": 47142, "D": "any of the protein subunits of a capsid.", "S": [], "A": []}

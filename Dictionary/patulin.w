@@ -1,0 +1,1 @@
+{"index": 228047, "D": "a toxic antibiotic, C7H6O4, derived from various fungi, as Penicillium patulum and Aspergillus clavatus.", "S": [], "A": []}

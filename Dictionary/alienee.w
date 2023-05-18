@@ -1,0 +1,1 @@
+{"index": 8223, "D": "a person to whom property is alienated.", "S": [], "A": []}

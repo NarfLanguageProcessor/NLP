@@ -1,0 +1,1 @@
+{"index": 38838, "D": "a conical knob, mounted on a rod, for stopping temporarily the flow of molten metal or slag from a blast furnace or cupola.", "S": [], "A": []}

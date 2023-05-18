@@ -1,0 +1,1 @@
+{"index": 240655, "D": "the rule or power of wealth or of the wealthy.", "S": [], "A": []}

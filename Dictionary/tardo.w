@@ -1,0 +1,1 @@
+{"index": 316550, "D": "slow (used as a musical direction).", "S": [], "A": []}

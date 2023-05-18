@@ -1,0 +1,1 @@
+{"index": 322188, "D": "a sensation of dryness in the mouth and throat caused by need of liquid.", "S": ["bursting ", "craving ", "desiring ", "hankering ", "heated ", "keen ", "longing ", "pining ", "yearning "], "A": ["calm ", "peaceful "]}

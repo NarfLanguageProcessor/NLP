@@ -1,0 +1,1 @@
+{"index": 94010, "D": "not sharp; blunt", "S": ["anesthetic ", "balmy ", "calming ", "deadening ", "dozy ", "drowsy ", "dull ", "hypnotic ", "mesmerizing ", "narcotic ", "nodding ", "numbing ", "opiate ", "quietening ", "sedative ", "slumberous ", "snoozy ", "somniferous ", "somnolent ", "soothing ", "tranquilizing "], "A": []}

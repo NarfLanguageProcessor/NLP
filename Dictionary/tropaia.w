@@ -1,0 +1,1 @@
+{"index": 331135, "D": "a tropaeum, especially in Greece.", "S": [], "A": []}

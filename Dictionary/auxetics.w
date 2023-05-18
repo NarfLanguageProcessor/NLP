@@ -1,0 +1,1 @@
+{"index": 24517, "D": "pertaining to or promoting auxesis. ", "S": [], "A": []}

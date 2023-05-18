@@ -1,0 +1,1 @@
+{"index": 580, "D": "in an able  manner; with skill or ability;  competently.", "S": ["adroitly ", "competently "], "A": []}

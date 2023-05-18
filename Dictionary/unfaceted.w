@@ -1,0 +1,1 @@
+{"index": 341913, "D": "having facets,  or small, polished, flat surfaces, cut on it", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77028, "D": "a small, slender missile that is pointed at one end and usually feathered at the other and is propelled by hand, as in the game of darts, or by a blowgun when used as a weapon.", "S": [], "A": []}

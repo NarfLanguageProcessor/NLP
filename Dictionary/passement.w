@@ -1,0 +1,1 @@
+{"index": 227296, "D": "a garment trimming of gold, silver, linen, or silk thread.", "S": [], "A": []}

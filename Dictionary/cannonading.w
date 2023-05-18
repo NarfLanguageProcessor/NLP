@@ -1,0 +1,1 @@
+{"index": 46439, "D": "a continued discharge of cannon, especially during an attack.", "S": ["attack ", "bombardment ", "bombing ", "explosion ", "shelling "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197585, "D": "of or relating to Neanderthal man. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291973, "D": "of, relating to, or affecting the paranasal sinuses and the respiratory  tract.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 2766, "D": "the act of acquitting. ", "S": ["acquittal ", "excuse ", "exoneration ", "vindication "], "A": ["blame ", "conviction "]}

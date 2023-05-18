@@ -1,0 +1,1 @@
+{"index": 101653, "D": "to lay up in or as in a treasury.", "S": [], "A": []}

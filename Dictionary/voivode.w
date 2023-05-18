@@ -1,0 +1,1 @@
+{"index": 361028, "D": "(in Eastern European history) a local ruler or governor, especially the semi-independent rulers of Transylvania, Wallachia, or Moldova before c1700.", "S": [], "A": []}

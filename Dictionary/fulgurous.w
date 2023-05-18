@@ -1,0 +1,1 @@
+{"index": 119916, "D": "characteristic of or resembling lightning", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 31947, "D": "(of personal property or money) disposed of by a person\u2019s final will", "S": ["accrued ", "endowed ", "given ", "granted ", "inherited ", "transmitted "], "A": ["deprived ", "forfeited ", "lost "]}

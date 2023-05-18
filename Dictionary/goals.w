@@ -1,0 +1,1 @@
+{"index": 127189, "D": "the result or achievement toward which effort is directed; aim; end", "S": ["ethics ", "principles ", "standards ", "values "], "A": []}

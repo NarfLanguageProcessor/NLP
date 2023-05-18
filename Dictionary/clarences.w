@@ -1,0 +1,1 @@
+{"index": 59284, "D": "a closed, four-wheeled carriage, usually with a glass front, with seats inside for four persons.", "S": [], "A": []}

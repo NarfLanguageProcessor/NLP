@@ -1,0 +1,1 @@
+{"index": 306256, "D": "making or having a harsh or grating sound.", "S": ["annoying ", "displeasing ", "dry ", "grinding ", "jarring ", "offensive ", "rasping ", "rough ", "shrill "], "A": ["agreeable ", "nice ", "pleasing ", "smooth "]}

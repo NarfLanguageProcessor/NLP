@@ -1,0 +1,1 @@
+{"index": 243782, "D": "sumptuously furnished or appointed; luxurious", "S": ["chic ", "classy ", "deluxe ", "elegant ", "exclusive ", "fashionable ", "grand ", "high-class ", "luxury ", "opulent ", "ritzy ", "swank ", "swanky ", "trendy "], "A": ["inelegant ", "inferior ", "old-fashioned ", "poor ", "unfashionable ", "unstylish "]}

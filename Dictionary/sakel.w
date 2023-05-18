@@ -1,0 +1,1 @@
+{"index": 276877, "D": "U.S. psychiatrist, born in Austria.", "S": [], "A": []}

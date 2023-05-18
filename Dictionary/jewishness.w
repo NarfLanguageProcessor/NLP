@@ -1,0 +1,1 @@
+{"index": 161119, "D": "the state or quality of being Jewish. ", "S": [], "A": []}

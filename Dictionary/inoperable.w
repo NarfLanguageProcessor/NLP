@@ -1,0 +1,1 @@
+{"index": 153195, "D": "not operable  or practicable.", "S": ["impractical/impracticable ", "infeasible ", "unfeasible ", "unworkable "], "A": ["feasible ", "operable ", "practicable "]}

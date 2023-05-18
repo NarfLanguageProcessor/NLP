@@ -1,0 +1,1 @@
+{"index": 90031, "D": "the quality of causing inconvenience, harm, distress, etc.", "S": [], "A": []}

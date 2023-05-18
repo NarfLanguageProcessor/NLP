@@ -1,0 +1,1 @@
+{"index": 20690, "D": "made clear or distinct", "S": ["choral ", "lyric ", "oral ", "singing ", "sung ", "voiced ", "vowel "], "A": []}

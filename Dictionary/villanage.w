@@ -1,0 +1,1 @@
+{"index": 359742, "D": "the tenure by which a villein held land and tenements from a lord.", "S": [], "A": []}

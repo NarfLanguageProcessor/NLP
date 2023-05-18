@@ -1,0 +1,1 @@
+{"index": 65449, "D": "Compare reinforced concrete. ", "S": ["existence ", "matter ", "phenomenon ", "real world ", "realism ", "sensibility ", "truth "], "A": ["abstract ", "concept ", "falseness ", "idea "]}

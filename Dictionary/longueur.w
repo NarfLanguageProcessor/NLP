@@ -1,0 +1,1 @@
+{"index": 175018, "D": "a long and boring passage in a literary work, drama, musical composition, or the like", "S": [], "A": []}

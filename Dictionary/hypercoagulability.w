@@ -1,0 +1,1 @@
+{"index": 139981, "D": "capable of being coagulated. ", "S": [], "A": []}

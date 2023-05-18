@@ -1,0 +1,1 @@
+{"index": 147558, "D": "a member of a people of Luzon in the Philippines.", "S": [], "A": []}

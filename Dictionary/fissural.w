@@ -1,0 +1,1 @@
+{"index": 113458, "D": "a narrow opening produced by cleavage  or separation of parts.", "S": [], "A": []}

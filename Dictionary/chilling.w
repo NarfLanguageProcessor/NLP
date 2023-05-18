@@ -1,0 +1,1 @@
+{"index": 54392, "D": "causing or likely to cause a chill", "S": ["eerie ", "horrifying ", "shocking ", "thrilling "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365616, "D": "a stiff, canvaslike fabric for stiffening parts of garments.", "S": [], "A": []}

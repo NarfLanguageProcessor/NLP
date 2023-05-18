@@ -1,0 +1,1 @@
+{"index": 213135, "D": "the cell that results from the meiotic divisions of an oocyte and matures into an ovum.", "S": [], "A": []}

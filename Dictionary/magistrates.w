@@ -1,0 +1,1 @@
+{"index": 177446, "D": "a civil officer charged with the administration of the law.", "S": ["bailiff ", "judge ", "justice "], "A": []}

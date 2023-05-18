@@ -1,0 +1,1 @@
+{"index": 199441, "D": "a newspaper reporter, especially one who is energetic and aggressive.", "S": [], "A": []}

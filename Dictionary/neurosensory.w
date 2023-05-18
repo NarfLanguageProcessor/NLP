@@ -1,0 +1,1 @@
+{"index": 199230, "D": "of or relating to the sensory  role of the nervous system.", "S": [], "A": []}

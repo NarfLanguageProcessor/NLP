@@ -1,0 +1,1 @@
+{"index": 161644, "D": "to take a narcotic drug occasionally, but without being addicted to it.", "S": [], "A": []}

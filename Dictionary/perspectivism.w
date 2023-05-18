@@ -1,0 +1,1 @@
+{"index": 232015, "D": "the doctrine that reality is known only in terms of the perspectives of it seen by individuals or groups at particular moments.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 90862, "D": "the category of all dogs. ", "S": [], "A": []}

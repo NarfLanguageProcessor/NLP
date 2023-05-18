@@ -1,0 +1,1 @@
+{"index": 225613, "D": "(of certain vertebrates) having the upper and lower jaws of equal length", "S": [], "A": []}

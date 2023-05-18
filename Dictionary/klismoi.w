@@ -1,0 +1,1 @@
+{"index": 165360, "D": "an ancient Greek chair, having a deep top rail curving forward from the back, and having legs curving upward and inward", "S": [], "A": []}

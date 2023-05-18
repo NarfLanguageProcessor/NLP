@@ -1,0 +1,1 @@
+{"index": 99958, "D": "the internal skeleton  or framework of the body of an animal (opposed to exoskeleton).", "S": [], "A": []}

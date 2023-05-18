@@ -1,0 +1,1 @@
+{"index": 39181, "D": "a fender or pad used to protect the bows of a vessel from ice.", "S": [], "A": []}

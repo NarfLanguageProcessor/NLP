@@ -1,0 +1,1 @@
+{"index": 186662, "D": "the part of the afternoon  centering approximately on three o'clock; the period approximately halfway between noon and sunset.", "S": [], "A": []}

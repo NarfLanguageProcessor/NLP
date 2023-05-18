@@ -1,0 +1,1 @@
+{"index": 329996, "D": "having three lobes.", "S": [], "A": []}

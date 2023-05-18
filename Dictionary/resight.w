@@ -1,0 +1,1 @@
+{"index": 269392, "D": "the power or faculty of seeing; perception of objects by use of the eyes; vision. ", "S": [], "A": []}

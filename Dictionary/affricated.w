@@ -1,0 +1,1 @@
+{"index": 5488, "D": "a speech sound comprising occlusion, plosion, and frication, as either of the ch-sounds in church and the j-sound in joy.", "S": [], "A": []}

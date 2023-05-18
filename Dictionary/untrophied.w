@@ -1,0 +1,1 @@
+{"index": 353382, "D": "adorned with trophies. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179864, "D": "of, relating to, or characteristic of St. Mark or of the second Gospel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201314, "D": "pertaining to ancestors;  descending or claimed from ancestors", "S": [], "A": []}

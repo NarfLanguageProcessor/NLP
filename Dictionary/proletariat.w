@@ -1,0 +1,1 @@
+{"index": 252097, "D": "the class of wage earners, especially those who earn their living by manual labor or who are dependent for support on daily or casual employment; the working class.", "S": ["lower class "], "A": []}

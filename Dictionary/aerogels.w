@@ -1,0 +1,1 @@
+{"index": 5011, "D": "a gel  formed by the dispersion of air in a solidified matrix; a solid foam, as Styrofoam.", "S": [], "A": []}

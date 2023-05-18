@@ -1,0 +1,1 @@
+{"index": 227058, "D": "of or relating to a single or specific person, thing, group, class, occasion, etc., rather than to others or all; special rather than general", "S": ["development ", "difficulty ", "evidence ", "factor ", "idea ", "issue ", "judgment ", "plan ", "problem ", "proposal "], "A": ["peace "]}

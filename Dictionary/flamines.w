@@ -1,0 +1,1 @@
+{"index": 113883, "D": "(in ancient Rome) a priest.", "S": [], "A": []}

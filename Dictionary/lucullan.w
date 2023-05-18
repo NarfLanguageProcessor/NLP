@@ -1,0 +1,1 @@
+{"index": 175889, "D": "(especially of banquets, parties, etc.) marked by lavishness and richness; sumptuous. ", "S": [], "A": []}

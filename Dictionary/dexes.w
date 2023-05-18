@@ -1,0 +1,1 @@
+{"index": 83788, "D": "short for dextromethorphan. ", "S": [], "A": []}

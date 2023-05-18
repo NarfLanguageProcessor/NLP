@@ -1,0 +1,1 @@
+{"index": 75229, "D": "one of the stones,  or a range of stones, forming a curb,  as along a street.", "S": [], "A": []}

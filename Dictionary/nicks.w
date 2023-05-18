@@ -1,0 +1,1 @@
+{"index": 199665, "D": "a small notch, groove, chip, or the like, cut into or existing in something.", "S": ["cut ", "damage ", "dent ", "dint ", "indent ", "jag ", "knock ", "mark ", "mill ", "notch ", "scar ", "score ", "slit "], "A": ["compliment ", "praise "]}

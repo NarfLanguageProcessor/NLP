@@ -1,0 +1,1 @@
+{"index": 35399, "D": "of or relating to two zones in an area", "S": [], "A": []}

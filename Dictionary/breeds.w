@@ -1,0 +1,1 @@
+{"index": 40395, "D": "to produce (offspring); procreate; engender.", "S": ["brand ", "strain ", "type ", "variety "], "A": []}

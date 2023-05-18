@@ -1,0 +1,1 @@
+{"index": 119098, "D": "a brand of plastic concave disk, used for various catching games by sailing it between two or more players and thrown by making it spin as it is released with a flick of the wrist.", "S": [], "A": []}

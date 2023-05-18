@@ -1,0 +1,1 @@
+{"index": 55039, "D": "a colorless, crystalline, slightly water-soluble antibiotic, C11H12Cl2N2O5, obtained from cultures of Streptomyces venezuelae or synthesized", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97689, "D": "a solid figure all plane sections of which are ellipses or circles. Typical equation", "S": [], "A": []}

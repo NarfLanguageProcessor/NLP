@@ -1,0 +1,1 @@
+{"index": 268400, "D": "the state of resting or being at rest; sleep. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342017, "D": "of great interest or attraction; enchanting; charming; captivating", "S": [], "A": []}

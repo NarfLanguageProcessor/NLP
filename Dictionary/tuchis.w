@@ -1,0 +1,1 @@
+{"index": 332096, "D": "the buttocks; tushie. ", "S": ["backside ", "derriere ", "fanny ", "rear end ", "rump "], "A": []}

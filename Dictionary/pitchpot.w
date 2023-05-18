@@ -1,0 +1,1 @@
+{"index": 238258, "D": "a pot  used by sailors for heating pitch. ", "S": [], "A": []}

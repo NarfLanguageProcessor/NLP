@@ -1,0 +1,1 @@
+{"index": 274138, "D": "a typeface imitative of upright, somewhat angular, handwriting.", "S": [], "A": []}

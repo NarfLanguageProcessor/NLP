@@ -1,0 +1,1 @@
+{"index": 101740, "D": "to deprive of the nucleus.", "S": ["amplify ", "elucidate ", "expound ", "untangle "], "A": ["compress ", "conceal ", "confuse ", "hide ", "lessen ", "obscure ", "stop "]}

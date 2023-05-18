@@ -1,0 +1,1 @@
+{"index": 281427, "D": "a person who scours  or cleanses.", "S": ["deodorant ", "detergent ", "purifier ", "soap "], "A": []}

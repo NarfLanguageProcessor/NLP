@@ -1,0 +1,1 @@
+{"index": 53068, "D": "severe criticism; a rebuke or strong reprimand.", "S": ["castigation ", "chastening ", "criticism ", "discipline ", "penalty ", "rebuke ", "reprimand ", "reproof "], "A": ["award ", "compliment ", "forgiveness ", "praise ", "reward "]}

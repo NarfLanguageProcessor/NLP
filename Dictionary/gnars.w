@@ -1,0 +1,1 @@
+{"index": 127026, "D": "to snarl; growl.", "S": [], "A": []}

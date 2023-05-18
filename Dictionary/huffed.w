@@ -1,0 +1,1 @@
+{"index": 144715, "D": "a mood of sulking anger; a fit of resentment", "S": ["heave ", "puff "], "A": ["inhale "]}

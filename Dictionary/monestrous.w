@@ -1,0 +1,1 @@
+{"index": 191888, "D": "of or relating to a mammal that has one estrus period per breeding season, as the dog.", "S": [], "A": []}

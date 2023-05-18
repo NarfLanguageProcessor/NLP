@@ -1,0 +1,1 @@
+{"index": 238010, "D": "the Skeptic doctrines of Pyrrho and his followers.", "S": [], "A": []}

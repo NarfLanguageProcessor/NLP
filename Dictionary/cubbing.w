@@ -1,0 +1,1 @@
+{"index": 74434, "D": "the young of certain animals, as the bear, lion, or tiger.", "S": [], "A": []}

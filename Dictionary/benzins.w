@@ -1,0 +1,1 @@
+{"index": 31786, "D": "a colorless, volatile, flammable, liquid mixture of various hydrocarbons, obtained in the distillation of petroleum, and used in cleaning, dyeing, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172281, "D": "a muddy lagoon, marsh, or lake near the mouth of a river behind part of the delta and more or less protected from open water by a barrier or spit.", "S": [], "A": []}

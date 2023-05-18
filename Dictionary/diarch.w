@@ -1,0 +1,1 @@
+{"index": 84480, "D": "(of a vascular bundle) having two strands of xylem", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134796, "D": "the simple past tense and past participle of hear. ", "S": ["caught ", "heeded ", "noted ", "understood ", "witnessed "], "A": []}

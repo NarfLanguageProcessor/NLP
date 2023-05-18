@@ -1,0 +1,1 @@
+{"index": 3122, "D": "any of several spherical or rod-shaped, aerobic, parasitic bacteria of the genus Actinobacillus, certain species of which, as A. mallei, are pathogenic for animals.", "S": [], "A": []}

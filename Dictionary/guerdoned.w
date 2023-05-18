@@ -1,0 +1,1 @@
+{"index": 130911, "D": "a reward, recompense, or requital.", "S": ["accord ", "award ", "grant ", "indemnify ", "pay ", "post ", "recompense ", "redress ", "reimburse ", "repay ", "requite ", "vouchsafe "], "A": ["deny ", "refuse ", "take ", "withhold "]}

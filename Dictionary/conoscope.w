@@ -1,0 +1,1 @@
+{"index": 66618, "D": "a polarizing microscope for giving interference figures and for determining the principal axis of a crystal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316788, "D": "consisting of or containing tartar. ", "S": [], "A": []}

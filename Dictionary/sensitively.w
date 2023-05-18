@@ -1,0 +1,1 @@
+{"index": 285397, "D": "endowed with sensation;  having perception through the senses. ", "S": ["beautifully ", "cautiously ", "deftly ", "elegantly ", "exquisitely ", "finely ", "gracefully ", "lightly ", "skillfully ", "softly ", "subtly ", "tactfully "], "A": ["strongly "]}

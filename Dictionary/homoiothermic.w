@@ -1,0 +1,1 @@
+{"index": 143117, "D": "Compare poikilothermic", "S": [], "A": []}

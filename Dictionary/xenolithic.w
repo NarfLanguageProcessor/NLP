@@ -1,0 +1,1 @@
+{"index": 368387, "D": "a rock fragment foreign to the igneous rock in which it is embedded.", "S": [], "A": []}

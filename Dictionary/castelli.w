@@ -1,0 +1,1 @@
+{"index": 49061, "D": "a small isolated fortress, or one of a series of such fortresses, of the ancient Romans.", "S": [], "A": []}

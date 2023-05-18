@@ -1,0 +1,1 @@
+{"index": 201640, "D": "doing good or causing good to be done; conferring benefits;  kindly in action or purpose.", "S": [], "A": []}

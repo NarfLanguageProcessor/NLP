@@ -1,0 +1,1 @@
+{"index": 291387, "D": "of or relating to photography employing a device that synchronizes the photoflash with the shutter.", "S": [], "A": []}

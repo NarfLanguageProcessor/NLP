@@ -1,0 +1,1 @@
+{"index": 119110, "D": "of or relating to Friesland,  its inhabitants, or their language.", "S": [], "A": []}

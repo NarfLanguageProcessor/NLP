@@ -1,0 +1,1 @@
+{"index": 326493, "D": "a member of a clan, family, or group distinguished by a totem. ", "S": [], "A": []}

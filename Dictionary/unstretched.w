@@ -1,0 +1,1 @@
+{"index": 352162, "D": "to draw out or extend (oneself, a body, limbs, wings, etc.) to the full length or extent (often followed by out)", "S": [], "A": []}

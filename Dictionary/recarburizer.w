@@ -1,0 +1,1 @@
+{"index": 262624, "D": "to add carbon to (steel), as in an open-hearth furnace, as by adding pig iron.", "S": [], "A": []}

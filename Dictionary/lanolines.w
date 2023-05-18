@@ -1,0 +1,1 @@
+{"index": 168194, "D": "a fatty substance, extracted from wool, used in ointments, cosmetics, waterproof coatings, etc.", "S": [], "A": []}

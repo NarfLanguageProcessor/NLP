@@ -1,0 +1,1 @@
+{"index": 37682, "D": "to attack or batter with artillery fire.", "S": [], "A": []}

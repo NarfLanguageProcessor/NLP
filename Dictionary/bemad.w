@@ -1,0 +1,1 @@
+{"index": 31338, "D": [], "S": ["boil ", "bristle ", "flare ", "fume ", "simmer ", "smolder "], "A": ["be happy ", "freeze "]}

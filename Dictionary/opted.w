@@ -1,0 +1,1 @@
+{"index": 213786, "D": "the simple past tense and past participle of opt. ", "S": ["appointed "], "A": []}

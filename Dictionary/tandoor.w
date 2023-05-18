@@ -1,0 +1,1 @@
+{"index": 316004, "D": "a cylindrical clay oven, fired to a high heat by wood or charcoal, in which foods, especially meats, are cooked and bread is baked.", "S": ["kiln ", "microwave ", "microwave oven ", "stove "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8787, "D": "to set apart for a particular purpose; assign or allot", "S": ["allot ", "apportion ", "appropriate ", "designate ", "earmark ", "give ", "set aside "], "A": ["hold ", "keep ", "withhold "]}

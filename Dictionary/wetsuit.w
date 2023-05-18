@@ -1,0 +1,1 @@
+{"index": 364310, "D": "a close-fitting rubber garment worn by a diver in cold water that allows a thin, insulating layer of water to collect between the diver's skin and the suit in order to retain body heat. ", "S": [], "A": []}

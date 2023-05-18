@@ -1,0 +1,1 @@
+{"index": 282478, "D": "the skin of a seal.", "S": [], "A": []}

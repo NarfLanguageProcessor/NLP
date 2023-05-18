@@ -1,0 +1,1 @@
+{"index": 195100, "D": "bearing many flowers, as a peduncle.", "S": [], "A": []}

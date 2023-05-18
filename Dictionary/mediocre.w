@@ -1,0 +1,1 @@
+{"index": 182159, "D": "of only ordinary or moderate quality; neither good nor bad; barely adequate", "S": ["decent ", "dull ", "inferior ", "middling ", "ordinary ", "second-rate ", "so-so ", "undistinguished ", "uninspired "], "A": ["different ", "excellent ", "exceptional ", "extraordinary ", "first-rate ", "superior "]}

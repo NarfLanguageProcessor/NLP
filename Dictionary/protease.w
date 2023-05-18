@@ -1,0 +1,1 @@
+{"index": 253366, "D": "any of a group of enzymes that catalyze the hydrolytic degradation of proteins  or polypeptides to smaller amino acid polymers.", "S": [], "A": []}

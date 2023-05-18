@@ -1,0 +1,1 @@
+{"index": 250056, "D": "to make pretty,  especially in a small, petty way", "S": [], "A": []}

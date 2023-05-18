@@ -1,0 +1,1 @@
+{"index": 10920, "D": "a putto represented as an infant cupid.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 368766, "D": "a large industrial or financial conglomerate of Japan.", "S": [], "A": []}

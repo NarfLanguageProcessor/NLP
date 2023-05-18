@@ -1,0 +1,1 @@
+{"index": 69162, "D": "a boat resembling a large, woven basket, used by Indians of the southwestern United States.", "S": [], "A": []}

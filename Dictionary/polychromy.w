@@ -1,0 +1,1 @@
+{"index": 241732, "D": "the art of employing many colors in decoration, as in painting or architecture.", "S": [], "A": []}

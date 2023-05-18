@@ -1,0 +1,1 @@
+{"index": 82063, "D": "a freeing of requisitioned  property, especially from military to civilian control.", "S": [], "A": []}

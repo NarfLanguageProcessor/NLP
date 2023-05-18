@@ -1,0 +1,1 @@
+{"index": 9644, "D": "the plural of alumnus. ", "S": ["alum ", "old grad ", "postgraduate "], "A": []}

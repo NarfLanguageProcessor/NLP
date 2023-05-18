@@ -1,0 +1,1 @@
+{"index": 175470, "D": "(of a garment) worn for leisure, as at home", "S": [], "A": []}

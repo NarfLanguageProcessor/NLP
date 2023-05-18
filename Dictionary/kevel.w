@@ -1,0 +1,1 @@
+{"index": 164182, "D": "a sturdy bit, bollard, etc., on which the heavier hawsers of a ship may be secured.", "S": [], "A": []}

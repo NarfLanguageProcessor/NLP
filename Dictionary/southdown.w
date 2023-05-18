@@ -1,0 +1,1 @@
+{"index": 297984, "D": "one of an English breed of sheep, yielding mutton of high quality.", "S": [], "A": []}

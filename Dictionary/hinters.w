@@ -1,0 +1,1 @@
+{"index": 139733, "D": "an indirect, covert, or helpful suggestion; clue", "S": [], "A": []}

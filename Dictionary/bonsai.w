@@ -1,0 +1,1 @@
+{"index": 37966, "D": "a tree or shrub that has been dwarfed, as by pruning the roots and pinching, and is grown in a pot or other container and trained to produce a desired shape or effect.", "S": [], "A": []}

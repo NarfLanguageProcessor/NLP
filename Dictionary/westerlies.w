@@ -1,0 +1,1 @@
+{"index": 364239, "D": "the prevailing winds blowing from the west on the poleward sides of the horse latitudes, often bringing depressions and anticyclones", "S": [], "A": []}

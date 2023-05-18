@@ -1,0 +1,1 @@
+{"index": 207561, "D": "having and manifesting a clearly defined structure  or organization.", "S": [], "A": []}

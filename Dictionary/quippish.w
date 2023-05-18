@@ -1,0 +1,1 @@
+{"index": 258958, "D": "a clever or witty remark or comment.", "S": [], "A": []}

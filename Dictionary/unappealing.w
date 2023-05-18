@@ -1,0 +1,1 @@
+{"index": 335084, "D": "not attractive or pleasing", "S": ["disgusting ", "dreary ", "ugly ", "unappetizing ", "unattractive ", "unpleasant "], "A": ["agreeable ", "attractive ", "good ", "pleasant ", "pleasing "]}

@@ -1,0 +1,1 @@
+{"index": 250136, "D": "a person who speaks falsely; liar.", "S": ["cheat ", "deceiver ", "dissimulator ", "equivocator ", "fabricator ", "fabulist ", "falsifier ", "fibber ", "maligner ", "misleader ", "perjurer ", "phony ", "promoter ", "storyteller ", "trickster "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196968, "D": "an infrequently used method of treating mental disorders by intravenous injection of barbiturates.", "S": [], "A": []}

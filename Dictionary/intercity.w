@@ -1,0 +1,1 @@
+{"index": 154641, "D": "(in Britain) denoting a fast train or passenger rail service, esp between main towns", "S": [], "A": []}

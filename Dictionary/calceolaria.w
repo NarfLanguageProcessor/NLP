@@ -1,0 +1,1 @@
+{"index": 44850, "D": "any plant of the genus Calceolaria, of the figwort family, various species of which are cultivated for their slipperlike flowers.", "S": [], "A": []}

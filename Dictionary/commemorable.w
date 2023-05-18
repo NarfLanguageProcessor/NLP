@@ -1,0 +1,1 @@
+{"index": 63918, "D": "to serve as a memorial or reminder of", "S": [], "A": []}

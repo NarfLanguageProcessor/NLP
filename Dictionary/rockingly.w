@@ -1,0 +1,1 @@
+{"index": 273701, "D": "a large mass of stone forming a hill, cliff, promontory, or the like.", "S": [], "A": []}

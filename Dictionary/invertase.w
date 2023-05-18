@@ -1,0 +1,1 @@
+{"index": 157143, "D": "an enzyme, occurring in yeast and in the digestive juices of animals, that causes the inversion of cane sugar into invert sugar. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323499, "D": "a female tiger. ", "S": ["backbiter ", "battle-ax ", "bitch ", "carper ", "detractor ", "dragon ", "fire-eater ", "fishwife ", "fury ", "harpy ", "harridan ", "hellion ", "muckraker ", "nag ", "ogress ", "porcupine ", "scold ", "she-devil ", "spitfire ", "termagant ", "virago ", "vixen "], "A": []}

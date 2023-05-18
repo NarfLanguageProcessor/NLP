@@ -1,0 +1,1 @@
+{"index": 323756, "D": "a person or thing that keeps time. ", "S": [], "A": []}

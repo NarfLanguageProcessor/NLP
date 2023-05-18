@@ -1,0 +1,1 @@
+{"index": 252088, "D": "to convert or transform into a member or members of the proletariat", "S": [], "A": []}

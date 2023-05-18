@@ -1,0 +1,1 @@
+{"index": 231411, "D": "the fruiting body of ascomycetous fungi, typically a minute, more or less completely closed, globose or flask-shaped body enclosing the asci.", "S": [], "A": []}

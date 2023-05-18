@@ -1,0 +1,1 @@
+{"index": 88234, "D": "to make or be inharmonious.", "S": ["differ "], "A": ["agree "]}

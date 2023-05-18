@@ -1,0 +1,1 @@
+{"index": 142828, "D": "the method of treating disease by drugs, given in minute doses, that would produce in a healthy person symptoms similar to those of the disease (opposed to allopathy).", "S": [], "A": []}

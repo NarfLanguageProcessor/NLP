@@ -1,0 +1,1 @@
+{"index": 305077, "D": "a prostrate stem, at or just below the surface of the ground, that produces new plants from buds at its tips or nodes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 280641, "D": "of or relating to science or the sciences", "S": ["accurately ", "carefully "], "A": []}

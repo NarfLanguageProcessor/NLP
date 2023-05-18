@@ -1,0 +1,1 @@
+{"index": 101612, "D": "(of a parasitic animal) living within the body of its host.", "S": [], "A": []}

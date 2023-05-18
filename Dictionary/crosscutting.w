@@ -1,0 +1,1 @@
+{"index": 73801, "D": "the technique of intercutting a scene with portions of another scene, especially to heighten suspense by showing simultaneous action.", "S": ["crisscross ", "cross ", "intersect ", "traverse "], "A": []}

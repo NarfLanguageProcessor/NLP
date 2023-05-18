@@ -1,0 +1,1 @@
+{"index": 68514, "D": "the determining of the area to be occupied by given copy  when set in type.", "S": [], "A": []}

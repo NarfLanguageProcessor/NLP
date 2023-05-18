@@ -1,0 +1,1 @@
+{"index": 60537, "D": "the orange-yellow edible fruit of a creeping plant, Rubus chamaemorus, of the rose family, related to the raspberries and blackberries and restricted to northern regions.", "S": [], "A": []}

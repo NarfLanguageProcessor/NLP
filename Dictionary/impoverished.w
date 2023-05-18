@@ -1,0 +1,1 @@
+{"index": 148980, "D": "reduced to poverty.", "S": ["barren ", "destitute ", "distressed ", "indigent ", "needy ", "poverty-stricken ", "strapped "], "A": ["rich ", "wealthy ", "enlarged ", "full ", "increased ", "saved ", "solvent "]}

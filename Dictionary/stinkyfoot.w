@@ -1,0 +1,1 @@
+{"index": 304699, "D": "an infection of sheep, causing inflammatory changes in the area of the hoofs and lameness.", "S": [], "A": []}

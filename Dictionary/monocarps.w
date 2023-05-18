@@ -1,0 +1,1 @@
+{"index": 192120, "D": "a plant that dies after having once borne fruit.", "S": [], "A": []}

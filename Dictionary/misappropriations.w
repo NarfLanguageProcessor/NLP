@@ -1,0 +1,1 @@
+{"index": 188709, "D": "wrongful use, especially the dishonest or inappropriate use of others\u2019 money, data, etc.", "S": ["desecration ", "exploitation ", "misconduct ", "misdeed ", "mishandling ", "misuse ", "prostitution ", "wrongdoing "], "A": ["goodness ", "kindness ", "morality "]}

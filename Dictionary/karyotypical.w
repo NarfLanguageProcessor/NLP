@@ -1,0 +1,1 @@
+{"index": 163232, "D": "the chromosomes of a cell, usually displayed as a systematized arrangement of chromosome pairs in descending order of size.", "S": [], "A": []}

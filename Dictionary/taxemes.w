@@ -1,0 +1,1 @@
+{"index": 317290, "D": "a feature of the arrangement of elements in a construction, as selection, order, phonetic modification, or modulation.", "S": [], "A": []}

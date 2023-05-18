@@ -1,0 +1,1 @@
+{"index": 48306, "D": "any of various coins issued under monarchs named Charles, especially the broad of Charles I of England.", "S": [], "A": []}

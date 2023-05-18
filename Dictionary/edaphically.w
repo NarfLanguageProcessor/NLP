@@ -1,0 +1,1 @@
+{"index": 95648, "D": "related to or caused by particular soil conditions, as of texture or drainage, rather than by physiographic or climatic factors.", "S": [], "A": []}

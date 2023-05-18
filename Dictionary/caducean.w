@@ -1,0 +1,1 @@
+{"index": 44378, "D": "the staff carried by Mercury as messenger of the gods.", "S": [], "A": []}

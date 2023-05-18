@@ -1,0 +1,1 @@
+{"index": 109100, "D": "a statement of the facts  in a controversy or legal case.", "S": [], "A": []}

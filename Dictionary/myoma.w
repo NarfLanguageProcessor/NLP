@@ -1,0 +1,1 @@
+{"index": 188172, "D": "a tumor composed of muscular tissue.", "S": [], "A": []}

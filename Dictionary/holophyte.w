@@ -1,0 +1,1 @@
+{"index": 142632, "D": "An organism that produces its own food through photosynthesis.", "S": [], "A": []}

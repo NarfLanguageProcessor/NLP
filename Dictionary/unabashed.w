@@ -1,0 +1,1 @@
+{"index": 334313, "D": "not ashamed, disconcerted, or apologetic; boldly certain of one's position.", "S": ["blatant ", "brazen ", "cheeky "], "A": []}

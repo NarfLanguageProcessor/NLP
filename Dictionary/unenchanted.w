@@ -1,0 +1,1 @@
+{"index": 341228, "D": "to subject to magical influence; bewitch", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 76889, "D": "handcuffs; manacles.", "S": [], "A": []}

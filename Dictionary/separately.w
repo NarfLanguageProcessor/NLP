@@ -1,0 +1,1 @@
+{"index": 285550, "D": "in such a way as to be physically detached, disconnected, or disjoined", "S": ["independently ", "personally ", "solely "], "A": ["together "]}

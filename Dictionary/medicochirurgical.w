@@ -1,0 +1,1 @@
+{"index": 182111, "D": "pertaining to medicine and surgery.", "S": [], "A": []}

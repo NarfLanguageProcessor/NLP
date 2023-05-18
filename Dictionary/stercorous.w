@@ -1,0 +1,1 @@
+{"index": 303852, "D": "consisting of, resembling, or pertaining to dung or feces.", "S": [], "A": []}

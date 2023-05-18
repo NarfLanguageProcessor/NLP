@@ -1,0 +1,1 @@
+{"index": 217278, "D": "to outdo or outstrip in riding. ", "S": [], "A": []}

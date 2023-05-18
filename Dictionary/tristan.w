@@ -1,0 +1,1 @@
+{"index": 330617, "D": "a male given name, form of Tristram. ", "S": [], "A": []}

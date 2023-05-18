@@ -1,0 +1,1 @@
+{"index": 232381, "D": "to diminish gradually and stop; dwindle to nothing; gradually come to an end (usually followed by out or away)", "S": [], "A": []}

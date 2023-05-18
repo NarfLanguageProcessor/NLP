@@ -1,0 +1,1 @@
+{"index": 221780, "D": "the state or quality of being wary. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271318, "D": "to face, as an embankment, with masonry or other material.", "S": [], "A": []}

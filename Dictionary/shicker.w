@@ -1,0 +1,1 @@
+{"index": 288173, "D": "a habitual drinker of alcohol who is frequently intoxicated.", "S": [], "A": []}

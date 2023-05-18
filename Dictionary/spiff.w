@@ -1,0 +1,1 @@
+{"index": 299731, "D": "to make spiffy (usually followed by up)", "S": ["classy ", "dashing ", "rakish ", "spry ", "stylish "], "A": ["plain ", "unstylish "]}

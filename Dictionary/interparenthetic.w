@@ -1,0 +1,1 @@
+{"index": 155570, "D": "of, pertaining to, noting, or of the nature of a parenthesis", "S": [], "A": []}

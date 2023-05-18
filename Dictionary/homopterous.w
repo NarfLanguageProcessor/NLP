@@ -1,0 +1,1 @@
+{"index": 143231, "D": "belonging or pertaining to the Homoptera, an order of insects closely related to the hemipterous insects (in some classifications a suborder of Hemiptera) but having membranous forewings and hind wings, including the aphids, cicadas, leafhoppers, planthoppers, and scale insects.", "S": [], "A": []}

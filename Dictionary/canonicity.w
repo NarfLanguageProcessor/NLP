@@ -1,0 +1,1 @@
+{"index": 46495, "D": "the quality of being canonical.", "S": [], "A": []}

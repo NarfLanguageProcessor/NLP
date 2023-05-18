@@ -1,0 +1,1 @@
+{"index": 370095, "D": "of or relating to Ulrich Zwingli  or his doctrines, largely agreeing with those of Luther and offering a distinctive interpretation of the Lord's Supper.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162886, "D": "a variant spelling of calends", "S": [], "A": []}

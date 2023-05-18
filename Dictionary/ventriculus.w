@@ -1,0 +1,1 @@
+{"index": 358211, "D": "the part of the food tract in which digestion takes place, especially the lower cavity of a compound stomach in insects.", "S": [], "A": []}

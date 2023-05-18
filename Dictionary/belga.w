@@ -1,0 +1,1 @@
+{"index": 31051, "D": "a former Belgian currency unit in foreign exchange, equal to five Belgian francs", "S": [], "A": []}

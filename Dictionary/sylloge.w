@@ -1,0 +1,1 @@
+{"index": 290522, "D": [], "S": ["abstract ", "brief ", "conspectus ", "digest ", "epitome ", "essence ", "guide ", "handbook ", "manual ", "overview ", "sketch ", "summary ", "survey ", "syllabus "], "A": []}

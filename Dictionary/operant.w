@@ -1,0 +1,1 @@
+{"index": 213270, "D": "operating;  producing effects.", "S": ["driver ", "engineer "], "A": []}

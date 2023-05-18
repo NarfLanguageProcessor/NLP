@@ -1,0 +1,1 @@
+{"index": 246300, "D": "to make complex, intricate, involved, or difficult", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 337985, "D": "(of a woman) characteristically flirtatious, especially in a teasing, lighthearted manner.", "S": [], "A": []}

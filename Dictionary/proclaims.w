@@ -1,0 +1,1 @@
+{"index": 251261, "D": "to announce or declare in an official or formal manner", "S": ["affirm ", "announce ", "declare ", "demonstrate ", "indicate ", "profess ", "publish ", "trumpet "], "A": ["conceal ", "deny ", "hide ", "be quiet ", "cover ", "obscure "]}

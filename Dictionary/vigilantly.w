@@ -1,0 +1,1 @@
+{"index": 359615, "D": "keenly watchful to detect danger; wary", "S": ["ardently ", "assiduously ", "carefully ", "diligently ", "eagerly ", "earnestly ", "energetically ", "enthusiastically ", "hastily ", "hurriedly ", "laboriously ", "nimbly ", "painstakingly ", "purposefully ", "restlessly ", "vigorously "], "A": ["idly ", "inactively ", "quietly "]}

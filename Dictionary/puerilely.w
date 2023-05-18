@@ -1,0 +1,1 @@
+{"index": 256069, "D": "of or relating to a child or to childhood.", "S": [], "A": []}

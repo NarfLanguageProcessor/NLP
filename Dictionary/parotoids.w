@@ -1,0 +1,1 @@
+{"index": 226788, "D": "any of certain cutaneous glands forming warty masses near the ear in certain toads.", "S": [], "A": []}

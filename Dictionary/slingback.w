@@ -1,0 +1,1 @@
+{"index": 294117, "D": "a woman's shoe with an open back and a strap or sling encircling the heel of the foot to keep the shoe secure.", "S": [], "A": []}

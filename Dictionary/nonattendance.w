@@ -1,0 +1,1 @@
+{"index": 201561, "D": "failure to attend", "S": ["AWOL ", "absenteeism ", "cut ", "hooky ", "nonappearance ", "truancy ", "vacancy "], "A": ["abundance ", "enough ", "existence ", "plenty ", "presence "]}

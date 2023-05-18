@@ -1,0 +1,1 @@
+{"index": 71422, "D": "a person who designs, makes, and sells fashionable clothes for women.", "S": ["architect ", "author ", "engineer ", "fashion designer ", "inventor ", "maker ", "planner ", "producer "], "A": []}

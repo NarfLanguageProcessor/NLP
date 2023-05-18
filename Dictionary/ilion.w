@@ -1,0 +1,1 @@
+{"index": 147269, "D": "Greek name of ancient Troy. ", "S": [], "A": []}

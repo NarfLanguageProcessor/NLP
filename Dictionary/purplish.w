@@ -1,0 +1,1 @@
+{"index": 257032, "D": "of or having a somewhat purple  hue.", "S": [], "A": []}

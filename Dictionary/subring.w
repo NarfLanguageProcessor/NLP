@@ -1,0 +1,1 @@
+{"index": 309009, "D": "Compare ring1 (def. 22). ", "S": [], "A": []}

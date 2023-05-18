@@ -1,0 +1,1 @@
+{"index": 150625, "D": "Compare malleus, stapes. ", "S": [], "A": []}

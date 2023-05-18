@@ -1,0 +1,1 @@
+{"index": 368996, "D": "an East Indian drug consisting of the rhizome of either of two species of curcuma, Curcuma zedoaria or C. aromatica, used as a stimulant.", "S": [], "A": []}

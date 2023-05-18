@@ -1,0 +1,1 @@
+{"index": 14853, "D": "opposed to a policy or programme of censoring", "S": [], "A": []}

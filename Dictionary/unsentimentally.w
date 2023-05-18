@@ -1,0 +1,1 @@
+{"index": 350785, "D": "expressive of or appealing to sentiment,  especially the tender emotions and feelings, as love, pity, or nostalgia", "S": [], "A": []}

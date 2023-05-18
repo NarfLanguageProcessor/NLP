@@ -1,0 +1,1 @@
+{"index": 147832, "D": "free from spot or stain; spotlessly clean", "S": ["bright ", "exquisite ", "flawless ", "impeccable ", "neat ", "snowy ", "spotless "], "A": ["defective ", "dull ", "flawed ", "horrible ", "imperfect "]}

@@ -1,0 +1,1 @@
+{"index": 286700, "D": "a short, blunt seta.", "S": [], "A": []}

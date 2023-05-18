@@ -1,0 +1,1 @@
+{"index": 253009, "D": "to denounce or condemn (a thing) as dangerous or harmful; prohibit.", "S": ["forbid ", "outlaw ", "prohibit "], "A": ["allow ", "permit ", "approve ", "commend ", "compliment ", "laud ", "praise ", "sanction ", "take in ", "welcome "]}

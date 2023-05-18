@@ -1,0 +1,1 @@
+{"index": 94590, "D": "performing the duties expected or required of one; characterized by doing one's duty", "S": ["conscientious "], "A": ["betraying ", "disobedient ", "faithless ", "irresponsible ", "undutiful ", "unfaithful "]}

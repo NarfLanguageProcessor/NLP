@@ -1,0 +1,1 @@
+{"index": 93788, "D": "capable of being hammered out thin, as certain metals; malleable. ", "S": [], "A": []}

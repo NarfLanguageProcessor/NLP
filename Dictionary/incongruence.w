@@ -1,0 +1,1 @@
+{"index": 150220, "D": "the state or condition of not being in agreement, accordance, or harmony, or the degree to which things are in this state", "S": [], "A": []}

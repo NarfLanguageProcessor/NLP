@@ -1,0 +1,1 @@
+{"index": 90613, "D": "a laborer on shipping docks;  longshoreman.", "S": [], "A": []}

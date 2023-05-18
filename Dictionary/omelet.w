@@ -1,0 +1,1 @@
+{"index": 212402, "D": "eggs beaten until frothy, often combined with other ingredients, as herbs, chopped ham, cheese, or jelly, and cooked until set.", "S": [], "A": []}

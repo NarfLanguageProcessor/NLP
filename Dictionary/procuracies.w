@@ -1,0 +1,1 @@
+{"index": 251474, "D": "the office of a proctor or procurator.", "S": [], "A": []}

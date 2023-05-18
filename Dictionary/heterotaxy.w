@@ -1,0 +1,1 @@
+{"index": 137784, "D": "abnormal or irregular arrangement, as of parts of the body, geological strata, etc.", "S": [], "A": []}

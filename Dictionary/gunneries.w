@@ -1,0 +1,1 @@
+{"index": 131398, "D": "the art and science of constructing and operating guns,  especially large guns. ", "S": ["battery ", "cannon ", "ordnance "], "A": []}

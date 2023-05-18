@@ -1,0 +1,1 @@
+{"index": 24454, "D": "self-amputation of a damaged or trapped appendage.", "S": [], "A": []}

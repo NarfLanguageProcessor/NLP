@@ -1,0 +1,1 @@
+{"index": 269986, "D": "to bring back into existence, use, or the like; reestablish", "S": ["reestablished ", "refreshed ", "renewed ", "repaired ", "replaced ", "returned ", "revived "], "A": []}

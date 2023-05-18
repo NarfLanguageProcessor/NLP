@@ -1,0 +1,1 @@
+{"index": 304823, "D": "the production of special stocks or strains by careful breeding.", "S": [], "A": []}

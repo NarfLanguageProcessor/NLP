@@ -1,0 +1,1 @@
+{"index": 127852, "D": "the individuals, collectively, in a colonial animal that are involved with reproduction", "S": [], "A": []}

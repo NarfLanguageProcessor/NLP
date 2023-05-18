@@ -1,0 +1,1 @@
+{"index": 235071, "D": "the disintegration  of a nucleus, induced by its absorption of a photon.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246995, "D": "causing great distress or injury; ruinous; very unfortunate; calamitous", "S": [], "A": []}

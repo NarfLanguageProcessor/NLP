@@ -1,0 +1,1 @@
+{"index": 174925, "D": "writing of the ordinary kind, in which words are written out in full (distinguished from shorthand).", "S": ["calligraphy ", "chirography ", "script "], "A": []}

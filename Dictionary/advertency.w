@@ -1,0 +1,1 @@
+{"index": 4662, "D": "the state or quality of being advertent. ", "S": [], "A": []}

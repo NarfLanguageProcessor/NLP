@@ -1,0 +1,1 @@
+{"index": 187773, "D": "miner (def. 1). ", "S": ["bloodsucker ", "exploiter ", "forty-niner ", "gold miner ", "gold panner ", "leech ", "parasite ", "sponge ", "user "], "A": []}

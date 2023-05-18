@@ -1,0 +1,1 @@
+{"index": 254755, "D": "of or relating to all persons or things belonging to a group or category", "S": [], "A": []}

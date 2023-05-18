@@ -1,0 +1,1 @@
+{"index": 305591, "D": "the operation of cutting one or more of the muscles of the eye to correct strabismus.", "S": [], "A": []}

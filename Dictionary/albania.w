@@ -1,0 +1,1 @@
+{"index": 7390, "D": "a republic in S Europe, in the Balkan Peninsula, W of Macedonia and NW of Greece. 10,632 sq. mi. (27,535 sq. km). Capital", "S": [], "A": []}

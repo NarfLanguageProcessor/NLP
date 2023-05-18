@@ -1,0 +1,1 @@
+{"index": 312927, "D": "a wrestling hold in which a wrestler grasps his opponent round the waist from behind and carries him backwards", "S": [], "A": []}

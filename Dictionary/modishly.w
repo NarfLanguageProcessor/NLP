@@ -1,0 +1,1 @@
+{"index": 191156, "D": "in the current fashion; stylish. ", "S": [], "A": []}

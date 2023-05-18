@@ -1,0 +1,1 @@
+{"index": 238519, "D": "a thin facing on a building.", "S": [], "A": []}

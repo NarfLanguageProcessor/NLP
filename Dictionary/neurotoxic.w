@@ -1,0 +1,1 @@
+{"index": 199267, "D": "poisonous to nerve tissue, as to the brain or spinal cord.", "S": [], "A": []}

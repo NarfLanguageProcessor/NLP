@@ -1,0 +1,1 @@
+{"index": 342858, "D": "excessively busy with trifles; anxious or particular about petty details.", "S": [], "A": []}

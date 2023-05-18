@@ -1,0 +1,1 @@
+{"index": 110252, "D": "having momentous significance or consequences; decisively important; portentous", "S": ["crucial ", "decisive ", "eventful ", "momentous "], "A": ["insignificant ", "trivial ", "unimportant "]}

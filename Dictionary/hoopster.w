@@ -1,0 +1,1 @@
+{"index": 143621, "D": "a basketball player.", "S": [], "A": []}

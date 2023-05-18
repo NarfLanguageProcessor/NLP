@@ -1,0 +1,1 @@
+{"index": 290653, "D": "a white, ductile metallic element, used for making mirrors, coins, ornaments, table utensils, photographic chemicals, conductors, etc. Symbol", "S": [], "A": []}

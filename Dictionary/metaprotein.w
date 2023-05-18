@@ -1,0 +1,1 @@
+{"index": 184954, "D": "a hydrolytic derivative of protein,  insoluble in water but soluble in dilute acids or alkalis.", "S": [], "A": []}

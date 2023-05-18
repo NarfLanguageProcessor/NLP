@@ -1,0 +1,1 @@
+{"index": 42909, "D": "a rabbit, especially a small or young one.", "S": ["hare ", "rodent "], "A": []}

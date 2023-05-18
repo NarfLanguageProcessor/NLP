@@ -1,0 +1,1 @@
+{"index": 177538, "D": "a recording magnetometer, used especially for recording variations in the earth's magnetic field.", "S": [], "A": []}

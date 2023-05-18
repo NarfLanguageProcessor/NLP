@@ -1,0 +1,1 @@
+{"index": 177890, "D": "a person who lives on a mainland. ", "S": [], "A": []}

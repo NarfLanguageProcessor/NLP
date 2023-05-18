@@ -1,0 +1,1 @@
+{"index": 368447, "D": "(of a sere) originating in a dry habitat.", "S": [], "A": []}

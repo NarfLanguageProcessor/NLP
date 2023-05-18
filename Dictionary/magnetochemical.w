@@ -1,0 +1,1 @@
+{"index": 177523, "D": "the study of magnetic and chemical phenomena in their relation to one another.", "S": [], "A": []}

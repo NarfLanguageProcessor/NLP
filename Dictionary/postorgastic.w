@@ -1,0 +1,1 @@
+{"index": 244363, "D": "of or relating to orgasm,  the physical and emotional sensation experienced at the peak of sexual excitation", "S": [], "A": []}

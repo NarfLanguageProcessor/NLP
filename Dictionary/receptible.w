@@ -1,0 +1,1 @@
+{"index": 262733, "D": "adapted to or suitable for reception.", "S": [], "A": []}

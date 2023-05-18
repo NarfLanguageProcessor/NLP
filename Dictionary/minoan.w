@@ -1,0 +1,1 @@
+{"index": 187987, "D": "of or relating to the ancient civilization of the island of Crete, dating from about 3000 to 1100 b.c.", "S": [], "A": []}

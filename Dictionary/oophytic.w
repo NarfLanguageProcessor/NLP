@@ -1,0 +1,1 @@
+{"index": 213068, "D": "the gametophyte of a moss, fern, or liverwort, resulting from the development of a fertilized egg.", "S": [], "A": []}

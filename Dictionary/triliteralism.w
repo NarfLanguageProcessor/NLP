@@ -1,0 +1,1 @@
+{"index": 329958, "D": "the characteristic presence of triliteral  roots in a language, as in the Semitic languages.", "S": [], "A": []}

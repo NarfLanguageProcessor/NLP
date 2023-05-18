@@ -1,0 +1,1 @@
+{"index": 164258, "D": "a member of an ultraconservative, sometimes fanatical, sect emphasizing the importance of strict adherence to Muslim principles of conduct, and advocating the killing of anyone seriously violating those principles.", "S": [], "A": []}

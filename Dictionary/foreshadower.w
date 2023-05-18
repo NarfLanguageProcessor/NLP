@@ -1,0 +1,1 @@
+{"index": 116952, "D": "to show or indicate beforehand; prefigure", "S": ["ancestor ", "antecedent ", "antecessor ", "forebear ", "foregoer ", "forerunner ", "harbinger ", "herald ", "original ", "originator ", "parent ", "pioneer ", "predecessor ", "prototype "], "A": []}

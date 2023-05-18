@@ -1,0 +1,1 @@
+{"index": 358566, "D": "an acid liquor made from the sour juice of crab apples, unripe grapes, etc., formerly much used for culinary and other purposes.", "S": [], "A": []}

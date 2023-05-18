@@ -1,0 +1,1 @@
+{"index": 28655, "D": "any of several aromatic herbs belonging to the genus Ocimum, of the mint family", "S": [], "A": []}

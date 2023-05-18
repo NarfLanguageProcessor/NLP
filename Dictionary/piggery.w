@@ -1,0 +1,1 @@
+{"index": 236367, "D": "a pigsty or pig  breeder's establishment.", "S": ["pen ", "sty "], "A": []}

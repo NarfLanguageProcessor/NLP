@@ -1,0 +1,1 @@
+{"index": 45146, "D": "of or relating to California or its inhabitants", "S": [], "A": []}

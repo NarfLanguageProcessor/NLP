@@ -1,0 +1,1 @@
+{"index": 270864, "D": "situated behind or near the base of the tongue.", "S": [], "A": []}

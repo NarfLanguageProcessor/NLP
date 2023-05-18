@@ -1,0 +1,1 @@
+{"index": 148330, "D": "incapable of suffering pain.", "S": [], "A": []}

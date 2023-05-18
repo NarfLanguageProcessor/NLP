@@ -1,0 +1,1 @@
+{"index": 125606, "D": "a device for stabilizing a seagoing vessel by counteracting its rolling motion from side to side, consisting essentially of a rotating gyroscope  weighing about 1 percent of the displacement of the vessel.", "S": [], "A": []}

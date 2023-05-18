@@ -1,0 +1,1 @@
+{"index": 220658, "D": "producing offspring, young, fruit, etc., abundantly; highly fruitful", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229241, "D": "of or derived from a pelargonium  or pelargonic acid. ", "S": [], "A": []}

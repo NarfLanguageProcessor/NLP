@@ -1,0 +1,1 @@
+{"index": 327962, "D": "leaping or passing from one thing or state to another.", "S": [], "A": []}

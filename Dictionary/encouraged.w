@@ -1,0 +1,1 @@
+{"index": 99483, "D": "to inspire with courage, spirit, or confidence", "S": ["aided ", "animated ", "cheered ", "determined ", "emboldened ", "enlivened ", "inspired ", "inspirited ", "reassured ", "renewed ", "roused ", "supported "], "A": ["discouraged ", "disheartened ", "dispirited "]}

@@ -1,0 +1,1 @@
+{"index": 297211, "D": "(in Malaysia and Indonesia) a kind of oval brimless hat, resembling a skull", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258208, "D": "a shortened form of barbecue. ", "S": [], "A": []}

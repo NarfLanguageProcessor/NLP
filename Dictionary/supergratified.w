@@ -1,0 +1,1 @@
+{"index": 311945, "D": "to give pleasure to (a person or persons) by satisfying desires or humoring inclinations or feelings", "S": [], "A": []}

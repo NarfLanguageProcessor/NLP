@@ -1,0 +1,1 @@
+{"index": 237484, "D": "any of several small songbirds of the genus Anthus, of the family Motacillidae, resembling the larks in coloration, structure, and habits.", "S": ["canary ", "lark ", "oscine ", "serin ", "vireo ", "wren "], "A": []}

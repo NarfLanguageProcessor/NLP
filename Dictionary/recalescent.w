@@ -1,0 +1,1 @@
+{"index": 262544, "D": "a brightening exhibited by cooling iron as latent heat of transformation is liberated.", "S": ["blazing ", "boiling ", "heated ", "humid ", "red ", "scorching ", "sizzling ", "sultry ", "sweltering ", "torrid ", "tropical ", "warm ", "white "], "A": ["arctic ", "cold ", "cool ", "dry ", "freezing ", "frigid "]}

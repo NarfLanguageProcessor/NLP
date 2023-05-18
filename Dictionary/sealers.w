@@ -1,0 +1,1 @@
+{"index": 282462, "D": "an officer appointed to examine and test weights and measures, and to set a stamp upon such as are true to the standard.", "S": [], "A": []}

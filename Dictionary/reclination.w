@@ -1,0 +1,1 @@
+{"index": 262999, "D": [], "S": ["decubitus "], "A": ["standing "]}

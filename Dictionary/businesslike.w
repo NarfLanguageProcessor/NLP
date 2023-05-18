@@ -1,0 +1,1 @@
+{"index": 43487, "D": "conforming to, attending to, or characteristic of business. ", "S": ["diligent ", "disciplined ", "earnest ", "expeditious ", "matter-of-fact ", "methodical ", "orderly ", "practical ", "purposeful ", "serious ", "thorough "], "A": ["disorganized ", "flippant ", "thoughtless ", "trivial ", "unimportant "]}

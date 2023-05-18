@@ -1,0 +1,1 @@
+{"index": 264361, "D": "to rule over; govern; control. ", "S": [], "A": []}

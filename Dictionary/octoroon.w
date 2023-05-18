@@ -1,0 +1,1 @@
+{"index": 211123, "D": "a person having one-eighth Black ancestry, with one Black great-grandparent; the offspring of a quadroon and a white person.", "S": [], "A": []}

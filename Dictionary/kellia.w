@@ -1,0 +1,1 @@
+{"index": 163729, "D": "a small community of monks.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293033, "D": "a sloping surface against which the end of an arch rests.", "S": [], "A": []}

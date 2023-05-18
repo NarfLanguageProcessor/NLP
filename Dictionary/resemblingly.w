@@ -1,0 +1,1 @@
+{"index": 269183, "D": "to be like or similar to.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183855, "D": "to defeat overwhelmingly, beat up, kill, or eliminate", "S": [], "A": []}

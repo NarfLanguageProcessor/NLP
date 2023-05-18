@@ -1,0 +1,1 @@
+{"index": 275951, "D": "a furrow or track in the ground, especially one made by the passage of a vehicle or vehicles.", "S": ["choppy ", "jarring ", "jerky ", "rugged ", "uneven "], "A": ["calm ", "even ", "level ", "smooth "]}

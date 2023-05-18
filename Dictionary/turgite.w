@@ -1,0 +1,1 @@
+{"index": 332708, "D": "a red or black mineral consisting of hydrated ferric oxide. Formula", "S": [], "A": []}

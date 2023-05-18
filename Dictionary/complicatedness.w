@@ -1,0 +1,1 @@
+{"index": 64697, "D": "composed of elaborately interconnected parts; complex", "S": [], "A": []}

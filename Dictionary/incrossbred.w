@@ -1,0 +1,1 @@
+{"index": 150493, "D": "of or relating to the progeny that result from crossing inbred lines or varieties.", "S": [], "A": []}

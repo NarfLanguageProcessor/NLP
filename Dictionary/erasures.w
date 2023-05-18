@@ -1,0 +1,1 @@
+{"index": 103505, "D": "an act or instance of erasing. ", "S": ["deletion "], "A": []}

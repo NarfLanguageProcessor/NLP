@@ -1,0 +1,1 @@
+{"index": 205780, "D": "a person who is traveling in an automobile, bus, train, airplane, or other conveyance, especially one who is not the driver, pilot, or the like.", "S": [], "A": []}

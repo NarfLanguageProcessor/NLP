@@ -1,0 +1,1 @@
+{"index": 42689, "D": "(formerly) a bailiff  or underbailiff employed in serving writs, making arrests, etc.", "S": [], "A": []}

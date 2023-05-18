@@ -1,0 +1,1 @@
+{"index": 326921, "D": "(especially of microorganisms) producing toxins.", "S": [], "A": []}

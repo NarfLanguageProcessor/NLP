@@ -1,0 +1,1 @@
+{"index": 162783, "D": "a mineral, hydrous sulfate of magnesium and potassium chloride, occurring in granular crystalline masses, a source of potassium salts.", "S": [], "A": []}

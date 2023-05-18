@@ -1,0 +1,1 @@
+{"index": 38677, "D": "to study plants or plant life.", "S": [], "A": []}

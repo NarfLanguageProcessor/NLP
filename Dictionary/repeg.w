@@ -1,0 +1,1 @@
+{"index": 268095, "D": "a pin of wood or other material driven or fitted into something, as to fasten parts together, to hang things on, to make fast a rope or string on, to stop a hole, or to mark some point.", "S": [], "A": []}

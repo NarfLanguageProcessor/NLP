@@ -1,0 +1,1 @@
+{"index": 76290, "D": "a reverie indulged in while awake.", "S": ["pipe dream ", "reverie "], "A": ["actuality ", "certainty ", "dislike ", "existence ", "fact ", "hate ", "reality ", "substance ", "truth "]}

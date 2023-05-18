@@ -1,0 +1,1 @@
+{"index": 353031, "D": "not timely; not occurring at a suitable time or season; ill-timed or inopportune", "S": ["ill-timed ", "improper ", "premature ", "undue ", "unfortunate "], "A": ["appropriate ", "good ", "suitable "]}

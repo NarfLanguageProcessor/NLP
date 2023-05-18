@@ -1,0 +1,1 @@
+{"index": 186195, "D": "an extremely localized, small-scale environment, as a tree stump or a dead animal.", "S": [], "A": []}

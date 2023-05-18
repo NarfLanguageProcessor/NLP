@@ -1,0 +1,1 @@
+{"index": 357429, "D": "a hormone, as epinephrine, or other agent that raises the blood pressure by causing contraction of the arteriole muscles, narrowing the arteriole passage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 313391, "D": "the outer face, outside, or exterior boundary of a thing; outermost or uppermost layer or area.", "S": ["area ", "expanse ", "exterior ", "facade ", "face ", "fa\u00e7ade ", "level ", "side ", "skin ", "top "], "A": ["character ", "core ", "interior ", "middle ", "personality ", "center "]}

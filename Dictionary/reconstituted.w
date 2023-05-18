@@ -1,0 +1,1 @@
+{"index": 263397, "D": "constituted again, especially of a liquid product made by adding water to dry solids from which the water has been evaporated", "S": ["reconstructed ", "transformed "], "A": ["degenerated ", "deteriorated ", "preserved "]}

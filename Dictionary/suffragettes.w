@@ -1,0 +1,1 @@
+{"index": 310161, "D": "a female advocate of the right of women to vote, especially one who participated in protests in the United Kingdom in the early 20th century.", "S": [], "A": []}

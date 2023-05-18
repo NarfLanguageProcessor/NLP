@@ -1,0 +1,1 @@
+{"index": 13733, "D": "to rub or sprinkle on; apply an unguent, ointment, or oily liquid to.", "S": ["bless "], "A": []}

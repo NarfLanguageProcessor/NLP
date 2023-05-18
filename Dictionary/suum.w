@@ -1,0 +1,1 @@
+{"index": 313869, "D": "to each his own; to each what rightfully belongs to him.", "S": [], "A": []}

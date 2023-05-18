@@ -1,0 +1,1 @@
+{"index": 176103, "D": "producing light", "S": [], "A": []}

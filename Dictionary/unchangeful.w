@@ -1,0 +1,1 @@
+{"index": 336717, "D": "full of changes;  variable; inconstant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 103792, "D": "an apparatus used for counting red blood cells.", "S": [], "A": []}

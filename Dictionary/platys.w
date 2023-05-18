@@ -1,0 +1,1 @@
+{"index": 239488, "D": "(of an igneous rock) split into thin, flat sheets, often resembling strata, as a result of uneven cooling.", "S": [], "A": []}

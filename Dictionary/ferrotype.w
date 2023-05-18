@@ -1,0 +1,1 @@
+{"index": 111558, "D": "to put a glossy surface on (a print) by pressing, while wet, on a metal sheet (ferrotype tin ).", "S": [], "A": []}

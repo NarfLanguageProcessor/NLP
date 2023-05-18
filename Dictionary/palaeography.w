@@ -1,0 +1,1 @@
+{"index": 223380, "D": "the study of the handwritings of the past, and often the manuscripts as well, so that they may be dated, read, etc, and may serve as historical and literary sources", "S": [], "A": []}

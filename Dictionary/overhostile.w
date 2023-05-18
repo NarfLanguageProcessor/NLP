@@ -1,0 +1,1 @@
+{"index": 219735, "D": "of, relating to, or characteristic of an enemy", "S": [], "A": []}

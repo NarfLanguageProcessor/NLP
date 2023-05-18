@@ -1,0 +1,1 @@
+{"index": 260053, "D": "the construction or operation of railroads. ", "S": ["confine ", "detain ", "imprison ", "jail ", "lock up "], "A": ["free ", "let go ", "liberate ", "release ", "cancel ", "cease ", "stop "]}

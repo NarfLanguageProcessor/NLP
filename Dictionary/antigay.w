@@ -1,0 +1,1 @@
+{"index": 15291, "D": "opposed or hostile to gay people or to gay rights, communities, organizations, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189039, "D": "a misbelief or false religious faith.", "S": [], "A": []}

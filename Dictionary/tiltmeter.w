@@ -1,0 +1,1 @@
+{"index": 323666, "D": "an instrument used to measure slight changes in the inclination of the earth's surface, usually in connection with volcanology and earthquake seismology.", "S": [], "A": []}

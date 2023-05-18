@@ -1,0 +1,1 @@
+{"index": 16951, "D": "a place in which a colony or colonies of bees are kept, as a stand or shed for beehives or a bee house containing a number of beehives.", "S": ["beehive ", "hive "], "A": []}

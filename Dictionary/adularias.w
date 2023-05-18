@@ -1,0 +1,1 @@
+{"index": 4488, "D": "a sometimes opalescent variety of orthoclase formed at a low temperature.", "S": [], "A": []}

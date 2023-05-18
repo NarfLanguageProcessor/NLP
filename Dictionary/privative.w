@@ -1,0 +1,1 @@
+{"index": 250852, "D": "causing, or tending to cause, deprivation.", "S": ["adverse ", "gloomy ", "pessimistic ", "unfavorable ", "weak "], "A": ["confident ", "favorable "]}

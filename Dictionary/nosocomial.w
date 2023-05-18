@@ -1,0 +1,1 @@
+{"index": 208734, "D": "(of infections) contracted as a result of being hospitalized; hospital-acquired.", "S": [], "A": []}

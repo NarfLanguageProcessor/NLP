@@ -1,0 +1,1 @@
+{"index": 285252, "D": "of or relating to the republic of Senegal. ", "S": [], "A": []}

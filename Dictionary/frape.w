@@ -1,0 +1,1 @@
+{"index": 118418, "D": "tightly bound", "S": [], "A": []}

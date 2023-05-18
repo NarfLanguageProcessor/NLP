@@ -1,0 +1,1 @@
+{"index": 208582, "D": "a standard, model, or pattern.", "S": ["benchmark ", "criterion ", "measure ", "model ", "pattern ", "rule "], "A": ["extreme "]}

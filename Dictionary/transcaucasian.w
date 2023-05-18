@@ -1,0 +1,1 @@
+{"index": 327701, "D": "of or relating to the central Asian region of Transcaucasia or its inhabitants", "S": [], "A": []}

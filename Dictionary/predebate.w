@@ -1,0 +1,1 @@
+{"index": 246671, "D": "a discussion, as of a public question in an assembly, involving opposing viewpoints", "S": [], "A": []}

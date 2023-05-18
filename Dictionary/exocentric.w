@@ -1,0 +1,1 @@
+{"index": 107304, "D": "not having the same syntactic function in the sentence as any one of its immediate constituents. In the garden is an exocentric construction, since it does not function in the same way as the noun garden. The noun bittersweet is an exocentric compound, since it is a noun but its elements are both adjectives.", "S": [], "A": []}

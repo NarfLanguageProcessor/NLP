@@ -1,0 +1,1 @@
+{"index": 162445, "D": "by right; according to law (distinguished from de facto).", "S": [], "A": []}

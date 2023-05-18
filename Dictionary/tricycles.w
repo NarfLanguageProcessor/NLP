@@ -1,0 +1,1 @@
+{"index": 329523, "D": "a vehicle, especially one for children, having one large front wheel and two small rear wheels, propelled by foot pedals.", "S": [], "A": []}

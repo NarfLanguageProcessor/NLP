@@ -1,0 +1,1 @@
+{"index": 366976, "D": "a philanderer.", "S": ["Casanova ", "Lothario ", "Romeo ", "gigolo ", "heartbreaker ", "lecher ", "libertine ", "lover ", "rake ", "seducer ", "stud ", "wolf "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 182722, "D": "an undifferentiated cell that develops into a melanophore or melanocyte.", "S": [], "A": []}

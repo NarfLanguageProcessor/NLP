@@ -1,0 +1,1 @@
+{"index": 286557, "D": "a biplane having one wing with not more than half the surface area of the other wing.", "S": [], "A": []}

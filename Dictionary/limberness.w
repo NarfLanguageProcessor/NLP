@@ -1,0 +1,1 @@
+{"index": 172309, "D": "characterized by ease in bending the body; supple; lithe. ", "S": ["firmness ", "flexibility ", "texture "], "A": ["incongruity ", "inconsistency ", "inconstancy ", "irregularity ", "variation "]}

@@ -1,0 +1,1 @@
+{"index": 206300, "D": "the body of officials by whom such proceedings are instituted and carried on.", "S": ["congressional immunity ", "indemnity ", "legislative immunity ", "privilege ", "special case ", "special privilege "], "A": []}

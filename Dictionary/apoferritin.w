@@ -1,0 +1,1 @@
+{"index": 17192, "D": "a homogeneous protein, found especially in the intestinal mucosa and the liver, that interacts with a ferric hydroxide-ferric phosphate complex to form ferritin. ", "S": [], "A": []}

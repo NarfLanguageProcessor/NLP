@@ -1,0 +1,1 @@
+{"index": 339646, "D": "to prop  underneath; support; uphold.", "S": [], "A": []}

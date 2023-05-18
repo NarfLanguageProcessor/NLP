@@ -1,0 +1,1 @@
+{"index": 318937, "D": "a mineral, cupric oxide, CuO, occurring in veins of copper in black, minute scales.", "S": [], "A": []}

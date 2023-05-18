@@ -1,0 +1,1 @@
+{"index": 127236, "D": "a Japanese game played on a go board with players alternating and attempting to be first to place five counters in a row.", "S": [], "A": []}

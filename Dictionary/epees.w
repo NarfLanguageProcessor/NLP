@@ -1,0 +1,1 @@
+{"index": 102049, "D": "a rapier with a three-sided blade and a guard over the tip.", "S": ["knife ", "sword "], "A": []}

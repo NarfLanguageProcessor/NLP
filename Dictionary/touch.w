@@ -1,0 +1,1 @@
+{"index": 326557, "D": "to put the hand, finger, etc., on or into contact with (something) to feel it", "S": ["communication ", "contact ", "feeling ", "taste "], "A": ["failure ", "loss "]}

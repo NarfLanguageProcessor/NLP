@@ -1,0 +1,1 @@
+{"index": 106881, "D": [], "S": ["abandon ", "deviate ", "stray ", "veer "], "A": ["keep ", "stay ", "accept ", "agree ", "aid ", "approve ", "concur ", "consent ", "harmonize ", "help ", "ratify ", "sanction "]}

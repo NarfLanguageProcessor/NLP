@@ -1,0 +1,1 @@
+{"index": 260770, "D": "a person responsible for compiling reports and presenting them, as to a governing body.", "S": [], "A": []}

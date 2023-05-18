@@ -1,0 +1,1 @@
+{"index": 134771, "D": "conducive to health;  wholesome or salutary", "S": ["healthy ", "wholesome "], "A": ["unhealthy "]}

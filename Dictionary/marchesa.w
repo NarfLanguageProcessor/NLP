@@ -1,0 +1,1 @@
+{"index": 179900, "D": "an Italian noblewoman, equivalent in rank to a marquise.", "S": [], "A": []}

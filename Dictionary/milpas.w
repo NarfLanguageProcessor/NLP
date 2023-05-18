@@ -1,0 +1,1 @@
+{"index": 187516, "D": "(in certain tropical regions) a tract of land cleared from the jungle, usually by burning, farmed for a few seasons, and then abandoned.", "S": [], "A": []}

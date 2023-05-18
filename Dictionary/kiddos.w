@@ -1,0 +1,1 @@
+{"index": 164469, "D": "(used as a familiar form of address.)", "S": [], "A": []}

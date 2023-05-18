@@ -1,0 +1,1 @@
+{"index": 235454, "D": "any organism that uses light as its principal source of energy.", "S": [], "A": []}

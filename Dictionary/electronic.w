@@ -1,0 +1,1 @@
+{"index": 97168, "D": "of or relating to electronics  or to devices, circuits, or systems developed through electronics. ", "S": ["computerized "], "A": []}

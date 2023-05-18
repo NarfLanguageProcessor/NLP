@@ -1,0 +1,1 @@
+{"index": 232014, "D": "Compare aerial perspective, linear perspective. ", "S": ["angle ", "aspect ", "attitude ", "context ", "mindset ", "prospect ", "viewpoint "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 331263, "D": "adapted to a climate characterized by marked environmental changes.", "S": [], "A": []}

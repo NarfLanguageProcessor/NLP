@@ -1,0 +1,1 @@
+{"index": 67538, "D": "a makeup application style in which foundation and bronzer are used to create definition along the natural bone structure of the face.", "S": ["abut ", "adjoin ", "encircle ", "flank ", "neighbor ", "surround "], "A": ["let go ", "center ", "free ", "loose ", "lose ", "release "]}

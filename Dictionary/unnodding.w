@@ -1,0 +1,1 @@
+{"index": 346917, "D": "to make a slight, quick downward bending forward of the head, as in assent, greeting, or command.", "S": [], "A": []}

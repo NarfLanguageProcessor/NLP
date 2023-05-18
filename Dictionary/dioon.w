@@ -1,0 +1,1 @@
+{"index": 86289, "D": "any of several Mexican and Central American palmlike plants belonging to the genus Dioon, of the cycad family, having a crown of stiff, pinnate leaves.", "S": [], "A": []}

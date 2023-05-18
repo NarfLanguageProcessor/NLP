@@ -1,0 +1,1 @@
+{"index": 104163, "D": "the inner slope or wall of the ditch surrounding a rampart.", "S": [], "A": []}

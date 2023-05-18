@@ -1,0 +1,1 @@
+{"index": 180262, "D": "a metal or earthenware cooking pot with a cover, usually large and often having legs.", "S": [], "A": []}

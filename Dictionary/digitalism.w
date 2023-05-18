@@ -1,0 +1,1 @@
+{"index": 85447, "D": "the abnormal condition resulting from an overconsumption of digitalis. ", "S": [], "A": []}

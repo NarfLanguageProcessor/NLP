@@ -1,0 +1,1 @@
+{"index": 330397, "D": "to a triple  number, measure, or degree.", "S": [], "A": []}

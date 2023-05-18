@@ -1,0 +1,1 @@
+{"index": 172071, "D": "the lungs, especially of sheep, pigs, etc.", "S": ["bulb ", "candle ", "daylight ", "flash ", "glare ", "glow ", "lamp ", "lantern ", "radiation ", "ray ", "star ", "sun ", "sunshine ", "window "], "A": ["darkness ", "dimness ", "dullness ", "eventide ", "sundown ", "sunset "]}

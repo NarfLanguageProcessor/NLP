@@ -1,0 +1,1 @@
+{"index": 368804, "D": "any of various plants of the genus Zamia, chiefly of tropical and subtropical America, having a short, tuberous stem and a crown of palmlike pinnate leaves.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257422, "D": "an Albanian monetary unit worth one hundredth of a lek", "S": [], "A": []}

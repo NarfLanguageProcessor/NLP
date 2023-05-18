@@ -1,0 +1,1 @@
+{"index": 100905, "D": "an act of enriching. ", "S": ["enhancement "], "A": ["injury "]}

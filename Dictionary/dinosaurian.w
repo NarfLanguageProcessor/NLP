@@ -1,0 +1,1 @@
+{"index": 86206, "D": "pertaining to or of the nature of a dinosaur.", "S": [], "A": []}

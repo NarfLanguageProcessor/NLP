@@ -1,0 +1,1 @@
+{"index": 27362, "D": "a broad belt worn over the shoulder by soldiers and having a number of small loops or pockets, for holding a cartridge or cartridges.", "S": [], "A": []}

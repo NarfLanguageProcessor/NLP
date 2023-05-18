@@ -1,0 +1,1 @@
+{"index": 234058, "D": "the physical  attributes of a person, especially when overdeveloped or overemphasized.", "S": ["animalism ", "animality ", "carnality ", "hedonism ", "sensuality "], "A": []}

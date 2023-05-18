@@ -1,0 +1,1 @@
+{"index": 168109, "D": "one of a breed of large, black or white, white-skinned Asiatic domestic chickens, having a single comb and feathered shanks and producing dark-brown eggs.", "S": [], "A": []}

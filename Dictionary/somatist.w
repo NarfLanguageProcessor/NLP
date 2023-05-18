@@ -1,0 +1,1 @@
+{"index": 296969, "D": "a psychiatrist who considers all mental illnesses to have physical origins.", "S": [], "A": []}

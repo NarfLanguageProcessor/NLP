@@ -1,0 +1,1 @@
+{"index": 68689, "D": "living or growing on dung, as certain fungi.", "S": [], "A": []}

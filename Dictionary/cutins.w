@@ -1,0 +1,1 @@
+{"index": 75800, "D": "a transparent, waxy substance constituting, together with cellulose, the cuticle of plants.", "S": ["break in ", "move in "], "A": ["allow "]}

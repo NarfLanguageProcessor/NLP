@@ -1,0 +1,1 @@
+{"index": 92138, "D": "a tenon broader at its end than at its base; pin.", "S": ["cohesion ", "constancy ", "continuum ", "durability ", "persistence ", "stability ", "stamina ", "survival ", "unity ", "vitality "], "A": ["apathy ", "instability ", "lethargy ", "unsteadiness ", "weakness ", "end "]}

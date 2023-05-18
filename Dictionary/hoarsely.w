@@ -1,0 +1,1 @@
+{"index": 142051, "D": "having a vocal tone characterized by weakness of intensity and excessive breathiness; husky", "S": [], "A": []}

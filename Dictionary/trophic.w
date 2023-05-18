@@ -1,0 +1,1 @@
+{"index": 331162, "D": "of or relating to nutrition; concerned in nutritive processes.", "S": [], "A": []}

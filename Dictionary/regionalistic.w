@@ -1,0 +1,1 @@
+{"index": 265657, "D": "the principle or system of dividing a city, state, etc., into separate administrative regions.", "S": [], "A": []}

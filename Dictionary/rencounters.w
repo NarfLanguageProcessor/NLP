@@ -1,0 +1,1 @@
+{"index": 267563, "D": "a hostile meeting; battle.", "S": ["challenge ", "discussion ", "game ", "match ", "meeting ", "sport ", "tournament ", "trial "], "A": ["agreement ", "calm ", "peace ", "quiet ", "stillness ", "tranquility "]}

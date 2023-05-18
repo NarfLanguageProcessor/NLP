@@ -1,0 +1,1 @@
+{"index": 38987, "D": "giving or disposed to give freely; generous; liberal. ", "S": ["benevolence ", "bountifulness ", "charitableness ", "charity ", "generousness ", "liberality ", "magnanimity ", "magnanimousness ", "munificence ", "openhandedness ", "philanthropy ", "unselfishness "], "A": ["malevolence ", "meanness ", "selfishness ", "unkindness "]}

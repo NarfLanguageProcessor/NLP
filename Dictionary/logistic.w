@@ -1,0 +1,1 @@
+{"index": 174639, "D": "of or relating to logistics. ", "S": ["coordination ", "engineering ", "planning ", "strategy "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156917, "D": "to swell up, as with heat; become tumid.", "S": [], "A": []}

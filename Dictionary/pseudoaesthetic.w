@@ -1,0 +1,1 @@
+{"index": 254457, "D": "relating to the philosophy of aesthetics;  concerned with notions such as the beautiful and the ugly.", "S": [], "A": []}

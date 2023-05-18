@@ -1,0 +1,1 @@
+{"index": 344572, "D": "not inhibited  or restricted", "S": ["candid ", "relaxed ", "spontaneous ", "unbridled ", "unrestrained ", "unrestricted "], "A": ["careful ", "inhibited ", "modest ", "shy "]}

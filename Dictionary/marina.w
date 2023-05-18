@@ -1,0 +1,1 @@
+{"index": 180078, "D": "a boat basin offering dockage and other service for small craft.", "S": ["berth ", "boatyard ", "harbor ", "landing ", "moorings ", "pier ", "port ", "quay ", "slip ", "wharf "], "A": []}

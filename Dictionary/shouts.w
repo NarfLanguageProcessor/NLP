@@ -1,0 +1,1 @@
+{"index": 289012, "D": "to call or cry out loudly and vigorously.", "S": ["cheer ", "clamor ", "cry ", "howl ", "roar ", "scream ", "screech ", "shriek ", "whoop "], "A": ["seriousness "]}

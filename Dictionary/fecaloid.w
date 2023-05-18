@@ -1,0 +1,1 @@
+{"index": 110749, "D": "like or resembling feces.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 368661, "D": "belonging or pertaining to the order Xiphosura, comprising the horseshoe crabs.", "S": [], "A": []}

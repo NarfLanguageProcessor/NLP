@@ -1,0 +1,1 @@
+{"index": 29070, "D": "a venom, C31H42N2O6, obtained from skin secretions of Colombian frogs of the genus Pyllobates and used experimentally in neurology.", "S": [], "A": []}

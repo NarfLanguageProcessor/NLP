@@ -1,0 +1,1 @@
+{"index": 321711, "D": "set thickly or in close arrangement; dense", "S": ["blocky ", "chunky ", "compact ", "corpulent ", "dumpy ", "fat ", "heavyset ", "plump ", "solid ", "squat ", "stodgy ", "stout ", "stubby ", "stumpy ", "sturdy ", "thick "], "A": []}

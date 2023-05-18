@@ -1,0 +1,1 @@
+{"index": 68009, "D": "easy and pleasant to talk with; agreeable.", "S": ["candid ", "chatty ", "conversational ", "demonstrative ", "expansive ", "talkative "], "A": ["quiet ", "reserved ", "silent ", "uncommunicative "]}

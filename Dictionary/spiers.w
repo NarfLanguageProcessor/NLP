@@ -1,0 +1,1 @@
+{"index": 299727, "D": "a person who spies,  watches, or discovers.", "S": [], "A": []}

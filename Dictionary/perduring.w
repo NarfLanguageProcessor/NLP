@@ -1,0 +1,1 @@
+{"index": 230523, "D": "to continue or last permanently; endure. ", "S": ["dependable ", "enduring ", "lasting ", "permanent ", "reliable ", "stable ", "strong ", "tenacious "], "A": ["ephemeral ", "irresponsible ", "temporary ", "unreliable ", "weak "]}

@@ -1,0 +1,1 @@
+{"index": 107067, "D": "(of a biochemical reaction) liberating energy.", "S": [], "A": []}

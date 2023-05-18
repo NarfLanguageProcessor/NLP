@@ -1,0 +1,1 @@
+{"index": 166003, "D": "an Indic language primarily spoken on the western coast of India that is related to Marathi and is the official language of Goa.", "S": [], "A": []}

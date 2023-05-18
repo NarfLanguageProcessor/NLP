@@ -1,0 +1,1 @@
+{"index": 9300, "D": "a domesticated South American ruminant, Lama pacos, having long, soft, silky fleece, related to the llama and believed to be a variety of the guanaco.", "S": [], "A": []}

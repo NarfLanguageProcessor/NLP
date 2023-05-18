@@ -1,0 +1,1 @@
+{"index": 9731, "D": "a spongy substance prepared from fungi, Polyporus (Fomes) fomentarius and allied species, growing on trees, used as tinder and in surgery.", "S": [], "A": []}

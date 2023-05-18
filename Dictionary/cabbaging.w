@@ -1,0 +1,1 @@
+{"index": 43890, "D": "any of several cultivated varieties of a plant, Brassica oleracea capitata, of the mustard family, having a short stem and leaves formed into a compact, edible head.", "S": [], "A": []}

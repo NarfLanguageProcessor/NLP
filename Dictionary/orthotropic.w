@@ -1,0 +1,1 @@
+{"index": 215191, "D": "noting, pertaining to, or exhibiting a mode of vertical growth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 10218, "D": "the congenital absence of one or more limbs.", "S": [], "A": []}

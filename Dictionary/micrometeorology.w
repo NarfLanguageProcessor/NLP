@@ -1,0 +1,1 @@
+{"index": 186271, "D": "the study of local and small-scale atmospheric phenomena, usually confined to the physical and dynamic occurrences within a shallow stratum of air adjacent to the ground.", "S": [], "A": []}

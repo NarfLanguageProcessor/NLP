@@ -1,0 +1,1 @@
+{"index": 120553, "D": "a fine charcoal used in drawing, made from the wood of the spindle tree.", "S": [], "A": []}

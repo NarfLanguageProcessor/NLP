@@ -1,0 +1,1 @@
+{"index": 329083, "D": "being or relating to a triad,  or group of three, especially a group of three closely related people or things", "S": [], "A": []}

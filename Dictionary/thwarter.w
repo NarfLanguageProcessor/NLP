@@ -1,0 +1,1 @@
+{"index": 323113, "D": "to oppose successfully; prevent from accomplishing a purpose.", "S": ["diagonal "], "A": ["head-on ", "lengthwise ", "longways "]}

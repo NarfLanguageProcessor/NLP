@@ -1,0 +1,1 @@
+{"index": 330738, "D": "any of various plants belonging to the genus Kniphofia, of the lily family, native to Africa, especially K. uvaria, having long, dense clusters of tubular red or yellow flowers.", "S": [], "A": []}

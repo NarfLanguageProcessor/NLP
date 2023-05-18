@@ -1,0 +1,1 @@
+{"index": 318400, "D": "to mix or cause to combine with tellurium. ", "S": [], "A": []}

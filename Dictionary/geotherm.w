@@ -1,0 +1,1 @@
+{"index": 124077, "D": "a line or surface within or on the earth connecting points of equal temperature", "S": [], "A": []}

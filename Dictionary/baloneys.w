@@ -1,0 +1,1 @@
+{"index": 27108, "D": "foolishness; nonsense. ", "S": ["bunk "], "A": ["truth "]}

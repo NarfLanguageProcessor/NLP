@@ -1,0 +1,1 @@
+{"index": 357501, "D": "the doctrine of the absolute supremacy of the pope.", "S": [], "A": []}

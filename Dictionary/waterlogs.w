@@ -1,0 +1,1 @@
+{"index": 363197, "D": "to cause (a boat, ship, etc.) to become uncontrollable as a result of flooding.", "S": ["dampen ", "drench ", "rinse ", "saturate ", "soak ", "sprinkle ", "squirt ", "steam ", "wash ", "wet "], "A": ["dehydrate ", "dry "]}

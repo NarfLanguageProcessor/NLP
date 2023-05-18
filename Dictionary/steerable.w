@@ -1,0 +1,1 @@
+{"index": 303468, "D": "to guide the course of (something in motion) by a rudder, helm, wheel, etc.", "S": [], "A": []}

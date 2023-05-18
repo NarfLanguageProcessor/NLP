@@ -1,0 +1,1 @@
+{"index": 132303, "D": "one of a class of mercenary soldiers in 16th-century Hungary.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 292711, "D": "a cardinal number, five plus one.", "S": ["hexadic ", "hexagonal ", "semestral ", "senary ", "sextuple "], "A": []}

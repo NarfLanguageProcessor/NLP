@@ -1,0 +1,1 @@
+{"index": 273099, "D": "to wash lightly, as by pouring water into or over or by dipping in water", "S": [], "A": []}

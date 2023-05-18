@@ -1,0 +1,1 @@
+{"index": 250455, "D": "priggish character or ideas; priggishness.", "S": [], "A": []}

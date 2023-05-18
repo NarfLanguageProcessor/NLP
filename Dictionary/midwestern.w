@@ -1,0 +1,1 @@
+{"index": 186854, "D": "of or relating to the Midwest of the US or its inhabitants", "S": [], "A": []}

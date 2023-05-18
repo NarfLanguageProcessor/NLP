@@ -1,0 +1,1 @@
+{"index": 191493, "D": "of or containing molybdenum,  especially in its lower valences.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 90917, "D": "to damn", "S": ["accursed ", "bedeviled ", "blasted ", "blighted ", "confounded ", "excommunicate ", "foredoomed ", "voodooed "], "A": ["blessed "]}

@@ -1,0 +1,1 @@
+{"index": 363601, "D": "the state of the atmosphere with respect to wind, temperature, cloudiness, moisture, pressure, etc.", "S": [], "A": []}

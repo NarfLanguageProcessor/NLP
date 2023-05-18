@@ -1,0 +1,1 @@
+{"index": 10145, "D": "the act of walking or moving from place to place", "S": ["airing ", "walk "], "A": []}

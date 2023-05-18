@@ -1,0 +1,1 @@
+{"index": 301476, "D": "pluck; spirit; mettle.", "S": ["fortitude ", "grit ", "gumption ", "guts ", "mettle ", "moxie ", "toughness "], "A": ["cowardice ", "timidity ", "weakness ", "irresolution ", "spinelessness "]}

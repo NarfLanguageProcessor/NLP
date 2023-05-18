@@ -1,0 +1,1 @@
+{"index": 333495, "D": "having two  elements or parts.", "S": ["bifold ", "binal ", "binary ", "diploid ", "double ", "dual ", "duple ", "duplex ", "duplicate ", "paired "], "A": []}

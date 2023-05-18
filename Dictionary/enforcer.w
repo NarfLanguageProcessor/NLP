@@ -1,0 +1,1 @@
+{"index": 100255, "D": "a person or thing that enforces. ", "S": ["butcher ", "dropper ", "eliminator ", "executioner ", "gun ", "killer ", "liquidator ", "plugger ", "slayer ", "torpedo "], "A": ["victim "]}

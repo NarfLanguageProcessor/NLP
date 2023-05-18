@@ -1,0 +1,1 @@
+{"index": 123780, "D": "the quality of being true, authentic, or valid", "S": ["potency "], "A": ["impotence ", "incompetence ", "ineffectiveness ", "inefficiency ", "invalidity ", "lethargy ", "unimportance ", "uselessness ", "weakness "]}

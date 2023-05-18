@@ -1,0 +1,1 @@
+{"index": 141997, "D": "a shelter constructed for housing a colony of honeybees; beehive. ", "S": ["beehive ", "colony ", "swarm "], "A": []}

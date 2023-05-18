@@ -1,0 +1,1 @@
+{"index": 193984, "D": "the action or process of moving or of changing place or position; movement.", "S": [], "A": []}

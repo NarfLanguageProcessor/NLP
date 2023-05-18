@@ -1,0 +1,1 @@
+{"index": 129101, "D": "the study of handwriting, especially when regarded as an expression of the writer's character, personality, abilities, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113847, "D": "(of food) served in flaming liquor, especially brandy", "S": [], "A": []}

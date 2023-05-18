@@ -1,0 +1,1 @@
+{"index": 172143, "D": "having or forming a ligula. ", "S": [], "A": []}

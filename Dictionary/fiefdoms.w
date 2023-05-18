@@ -1,0 +1,1 @@
+{"index": 112316, "D": "the estate or domain of a feudal lord.", "S": [], "A": []}

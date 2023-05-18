@@ -1,0 +1,1 @@
+{"index": 162927, "D": "a seaport in SE Sweden, on Kalmar Sound. ", "S": [], "A": []}

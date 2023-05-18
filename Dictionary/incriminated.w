@@ -1,0 +1,1 @@
+{"index": 150483, "D": "to accuse of or present proof of a crime  or fault", "S": ["arraigned ", "implicated ", "indicted "], "A": ["acquitted ", "clear ", "discharged "]}

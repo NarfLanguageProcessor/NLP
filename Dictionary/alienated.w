@@ -1,0 +1,1 @@
+{"index": 8215, "D": "indifferent or hostile", "S": ["disaffected "], "A": ["united "]}

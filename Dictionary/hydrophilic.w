@@ -1,0 +1,1 @@
+{"index": 138836, "D": "having a strong affinity for water.", "S": [], "A": []}

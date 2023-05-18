@@ -1,0 +1,1 @@
+{"index": 6800, "D": "one of the 18 largest regions into which the Mongolian People's Republic  is divided for administrative purposes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332704, "D": "swollen; distended; tumid.", "S": ["balderdash ", "claptrap ", "fustian ", "grandiloquence ", "histrionics ", "magniloquence ", "pomposity ", "rant "], "A": []}

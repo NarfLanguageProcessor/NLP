@@ -1,0 +1,1 @@
+{"index": 303674, "D": "any of various keyboard instruments, somewhat resembling a typewriter, used for writing in shorthand, as by means of phonetic or arbitrary symbols.", "S": [], "A": []}

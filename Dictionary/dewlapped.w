@@ -1,0 +1,1 @@
+{"index": 83768, "D": "a pendulous fold of skin under the throat of a bovine animal.", "S": [], "A": []}

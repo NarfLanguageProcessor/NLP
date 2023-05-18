@@ -1,0 +1,1 @@
+{"index": 59632, "D": "an act of cleaning out.", "S": ["dispose of ", "get rid of "], "A": ["arrive ", "fill ", "fill up ", "put ", "rush in "]}

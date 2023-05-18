@@ -1,0 +1,1 @@
+{"index": 172542, "D": "destruction of lymphatic  vessels or of lymphoid tissue.", "S": [], "A": []}

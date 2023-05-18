@@ -1,0 +1,1 @@
+{"index": 111196, "D": "a less common variant of finagle. ", "S": [], "A": []}

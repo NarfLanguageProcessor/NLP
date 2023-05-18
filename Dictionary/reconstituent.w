@@ -1,0 +1,1 @@
+{"index": 263395, "D": "to constitute  again; reconstruct; recompose.", "S": [], "A": []}

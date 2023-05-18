@@ -1,0 +1,1 @@
+{"index": 34597, "D": "the series of chemical changes occurring in a compound, especially a drug, as a result of enzymatic or other activity by a living organism.", "S": [], "A": []}

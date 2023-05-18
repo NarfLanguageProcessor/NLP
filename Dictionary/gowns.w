@@ -1,0 +1,1 @@
+{"index": 128432, "D": "a woman's dress or robe, especially one that is full-length.", "S": ["costume ", "frock ", "garb ", "garment "], "A": []}

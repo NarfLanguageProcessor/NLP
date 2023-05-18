@@ -1,0 +1,1 @@
+{"index": 207109, "D": "the act or an instance of seizing. ", "S": [], "A": []}

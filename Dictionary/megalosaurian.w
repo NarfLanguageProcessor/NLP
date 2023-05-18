@@ -1,0 +1,1 @@
+{"index": 182454, "D": "any gigantic carnivorous dinosaur of the genus Megalosaurus, of the Jurassic and early Cretaceous periods.", "S": [], "A": []}

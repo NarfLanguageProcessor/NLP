@@ -1,0 +1,1 @@
+{"index": 14240, "D": "before prohibition. ", "S": [], "A": []}

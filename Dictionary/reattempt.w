@@ -1,0 +1,1 @@
+{"index": 262133, "D": "to make an effort at; try; undertake; seek", "S": [], "A": []}

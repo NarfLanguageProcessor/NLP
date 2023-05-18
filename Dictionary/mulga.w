@@ -1,0 +1,1 @@
+{"index": 194908, "D": "an Australian shrub or small tree, Acacia aneura, forming dense growths in some areas and having foliage used as forage for livestock.", "S": [], "A": []}

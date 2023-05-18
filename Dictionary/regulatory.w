@@ -1,0 +1,1 @@
+{"index": 265893, "D": "of or relating to the control or direction of an activity by a set of rules, laws, etc.", "S": ["administrative ", "managerial "], "A": []}

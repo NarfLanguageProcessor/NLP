@@ -1,0 +1,1 @@
+{"index": 227879, "D": "British missionary and bishop in Ireland", "S": [], "A": []}

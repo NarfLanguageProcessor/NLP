@@ -1,0 +1,1 @@
+{"index": 236915, "D": "the hipbone, especially in a four-footed animal.", "S": [], "A": []}

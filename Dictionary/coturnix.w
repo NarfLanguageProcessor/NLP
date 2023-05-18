@@ -1,0 +1,1 @@
+{"index": 70467, "D": "any of several smalltrue quails  of the genus Coturnix, especially C. coturnix(common quail,  or European quail ), a widespread game bird of Europe and North Africa, and C. japonica(Japanese quail ), breeding mostly in East and Central Asia and widely used as a laboratory animal.", "S": [], "A": []}

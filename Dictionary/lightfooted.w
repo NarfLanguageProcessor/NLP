@@ -1,0 +1,1 @@
+{"index": 172031, "D": "stepping lightly or nimbly; light of foot; nimble.", "S": ["agile ", "airy ", "buoyant ", "delicate ", "fluffy ", "lightweight ", "loose ", "slender ", "slight ", "small ", "thin "], "A": ["big ", "coarse ", "fat ", "heavy ", "large ", "strong ", "thick ", "clumsy "]}

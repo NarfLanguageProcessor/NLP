@@ -1,0 +1,1 @@
+{"index": 1544, "D": "the rudiments or essentials of a subject.", "S": ["alphabet ", "syntax "], "A": []}

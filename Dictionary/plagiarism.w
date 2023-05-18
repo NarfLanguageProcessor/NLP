@@ -1,0 +1,1 @@
+{"index": 238644, "D": "an act or instance of using or closely imitating the language and thoughts of another author without authorization and the representation of that author's work as one's own, as by not crediting the original author", "S": ["falsification ", "infringement ", "piracy "], "A": ["return "]}

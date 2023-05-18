@@ -1,0 +1,1 @@
+{"index": 3569, "D": "having a muddled or confused mind; foolish, silly, or illogical.", "S": ["addle-headed ", "addle-pated ", "airheaded ", "empty-headed ", "featherbrained ", "flighty ", "harebrained ", "rattlebrained ", "rattlepated ", "scatterbrained ", "scatty ", "silly "], "A": []}

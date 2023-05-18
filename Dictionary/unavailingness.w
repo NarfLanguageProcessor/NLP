@@ -1,0 +1,1 @@
+{"index": 335472, "D": [], "S": ["bootlessness ", "emptiness ", "frivolousness ", "fruitlessness ", "hollowness ", "idleness ", "ineffectiveness ", "ineffectuality ", "meaninglessness ", "pointlessness ", "senselessness ", "unprofitableness ", "uselessness ", "vainness ", "vanity ", "worthlessness "], "A": []}

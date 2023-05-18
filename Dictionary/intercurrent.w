@@ -1,0 +1,1 @@
+{"index": 154794, "D": "intervening, as of time or events.", "S": [], "A": []}

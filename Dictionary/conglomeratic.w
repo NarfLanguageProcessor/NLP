@@ -1,0 +1,1 @@
+{"index": 66198, "D": "anything composed of heterogeneous materials or elements.", "S": [], "A": []}

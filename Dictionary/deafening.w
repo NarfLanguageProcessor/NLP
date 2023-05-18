@@ -1,0 +1,1 @@
+{"index": 77518, "D": "overwhelmingly loud; booming; earsplitting", "S": ["blaring ", "noisy ", "ringing ", "roaring ", "rowdy ", "thunderous ", "vociferous "], "A": ["quiet ", "silent "]}

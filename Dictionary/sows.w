@@ -1,0 +1,1 @@
+{"index": 298124, "D": "to scatter (seed) over land, earth, etc., for growth; plant. ", "S": ["grow ", "propagate ", "scatter "], "A": ["destroy ", "raze "]}

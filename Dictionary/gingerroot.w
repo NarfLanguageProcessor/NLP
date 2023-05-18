@@ -1,0 +1,1 @@
+{"index": 125250, "D": "the rhizome of the ginger plant. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 296196, "D": "the measurement of attitudes of social acceptance or rejection through expressed preferences among members of a social grouping.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256529, "D": "a large, edible, orange-yellow fruit borne by a coarse, decumbent vine, Cucurbita pepo, of the gourd family.", "S": ["fruit ", "squash "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 302350, "D": "of, relating to, or suggestive of the stage. ", "S": ["assumed ", "contrived ", "false ", "feigned ", "forced ", "hollow ", "insincere ", "labored ", "mannered ", "meretricious ", "phony ", "put on ", "spurious ", "theatrical ", "unnatural "], "A": ["genuine ", "natural ", "real ", "unaffected ", "unpretentious "]}

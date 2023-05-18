@@ -1,0 +1,1 @@
+{"index": 27110, "D": "a type of stereopticon for projecting images of objects by reflected light.", "S": [], "A": []}

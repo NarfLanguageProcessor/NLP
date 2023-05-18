@@ -1,0 +1,1 @@
+{"index": 307760, "D": "a person or thing that directs. ", "S": [], "A": []}

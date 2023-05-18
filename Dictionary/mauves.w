@@ -1,0 +1,1 @@
+{"index": 181468, "D": "a pale bluish purple.", "S": ["color ", "lavender ", "lilac ", "mauve ", "periwinkle ", "plum ", "violet "], "A": []}

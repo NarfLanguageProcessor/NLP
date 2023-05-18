@@ -1,0 +1,1 @@
+{"index": 193624, "D": "noting or pertaining to morphophonemics  or morphophonemes. ", "S": [], "A": []}

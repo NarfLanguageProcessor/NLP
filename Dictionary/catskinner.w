@@ -1,0 +1,1 @@
+{"index": 49830, "D": "an operator of a vehicle or machine with caterpillar treads.", "S": [], "A": []}

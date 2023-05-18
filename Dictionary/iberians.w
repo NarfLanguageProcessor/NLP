@@ -1,0 +1,1 @@
+{"index": 145921, "D": "of or relating to Iberia  in SW Europe, its inhabitants, or their language.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 284136, "D": "goods, as clothing or furniture, that are neither perishable nor truly durable.", "S": [], "A": []}

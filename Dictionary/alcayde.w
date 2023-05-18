@@ -1,0 +1,1 @@
+{"index": 7587, "D": "a variant of alcaide. ", "S": [], "A": []}

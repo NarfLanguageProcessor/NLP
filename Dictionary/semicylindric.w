@@ -1,0 +1,1 @@
+{"index": 283894, "D": "half of a cylinder  divided lengthwise.", "S": [], "A": []}

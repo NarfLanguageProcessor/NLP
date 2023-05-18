@@ -1,0 +1,1 @@
+{"index": 361941, "D": "producing a muted, bawling sound like that of a trumpet with the hand moved momentarily over the bell", "S": [], "A": []}

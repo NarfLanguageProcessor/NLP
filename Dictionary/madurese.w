@@ -1,0 +1,1 @@
+{"index": 177275, "D": "a member of a people native to the island of Madura and also inhabiting the northeastern coast of Java.", "S": [], "A": []}

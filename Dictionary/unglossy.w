@@ -1,0 +1,1 @@
+{"index": 343122, "D": "having a shiny or lustrous surface.", "S": [], "A": []}

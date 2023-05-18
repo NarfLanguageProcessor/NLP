@@ -1,0 +1,1 @@
+{"index": 57413, "D": "a solid having the form of a cylinder, especially one with an elliptical, as opposed to a circular, cross section.", "S": [], "A": []}

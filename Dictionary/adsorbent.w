@@ -1,0 +1,1 @@
+{"index": 4464, "D": "capable of adsorption", "S": [], "A": []}

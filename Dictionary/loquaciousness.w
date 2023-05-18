@@ -1,0 +1,1 @@
+{"index": 175220, "D": "talking or tending to talk much or freely; talkative; chattering; babbling; garrulous", "S": ["garrulousness ", "glibness ", "grandiloquence ", "logorrhea ", "long-windedness ", "prolixity ", "talkativeness ", "verboseness ", "verbosity ", "volubility ", "wordiness "], "A": []}

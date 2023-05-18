@@ -1,0 +1,1 @@
+{"index": 276782, "D": "a vessel propelled by a sail  or sails. ", "S": [], "A": []}

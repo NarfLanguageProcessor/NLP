@@ -1,0 +1,1 @@
+{"index": 360955, "D": "denoting a sale in which the vendor is freed from all responsibility for the condition of the goods being sold", "S": [], "A": []}

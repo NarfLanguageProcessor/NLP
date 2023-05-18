@@ -1,0 +1,1 @@
+{"index": 306586, "D": "any of several devices for sharpening razors, especially a strip of leather or other flexible material.", "S": ["file ", "grind ", "hone ", "strop ", "whet "], "A": ["blunt ", "dull "]}

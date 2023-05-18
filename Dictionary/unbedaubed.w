@@ -1,0 +1,1 @@
+{"index": 335696, "D": "to smear all over; besmear; soil.", "S": [], "A": []}

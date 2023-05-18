@@ -1,0 +1,1 @@
+{"index": 311458, "D": "actively and attentively engaged in work or a pastime", "S": [], "A": []}

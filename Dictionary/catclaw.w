@@ -1,0 +1,1 @@
+{"index": 49481, "D": "a prickly plant, Schrankia nutallii, of the legume family, native to the midwestern U.S. having pinnate leaves and tiny pink flowers forming a spherical cluster.", "S": [], "A": []}

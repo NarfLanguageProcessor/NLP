@@ -1,0 +1,1 @@
+{"index": 361662, "D": "wobbly. ", "S": ["erratic ", "groggy ", "precarious ", "rickety ", "rocky ", "unstable ", "wobbly "], "A": ["certain ", "definite ", "dependable ", "stable ", "steady ", "strong ", "sure "]}

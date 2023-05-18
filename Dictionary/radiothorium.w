@@ -1,0 +1,1 @@
+{"index": 259812, "D": "a disintegration product of thorium. ", "S": [], "A": []}

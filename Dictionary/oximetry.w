@@ -1,0 +1,1 @@
+{"index": 222363, "D": "the measuring of the percentage of oxygen-saturated hemoglobin in the blood by means of an oximeter.  Readings below 90 percent may be indicative of impaired lung function or infection. In noninvasive pulse oximetry , a small device placed on a fingertip or earlobe uses light waves to measure the oxygen saturation in arterial blood.", "S": [], "A": []}

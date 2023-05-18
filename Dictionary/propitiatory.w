@@ -1,0 +1,1 @@
+{"index": 252714, "D": "serving or intended to propitiate. ", "S": ["conciliatory ", "contrite ", "regretful ", "remorseful ", "repentant ", "sorry "], "A": ["happy ", "unrepentant "]}

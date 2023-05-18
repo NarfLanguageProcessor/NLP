@@ -1,0 +1,1 @@
+{"index": 340003, "D": "(on a cornice) a cove extended outward and downward to form a drip.", "S": [], "A": []}

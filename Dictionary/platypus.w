@@ -1,0 +1,1 @@
+{"index": 239475, "D": "a small, aquatic, egg-laying monotreme, Ornithorhynchus anatinus, of Australia and Tasmania, having webbed feet, a tail like that of a beaver, a sensitive bill resembling that of a duck, and, in adult males, venom-injecting spurs on the ankles of the hind limbs, used primarily for fighting with other males during the breeding season.", "S": [], "A": []}

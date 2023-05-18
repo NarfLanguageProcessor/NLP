@@ -1,0 +1,1 @@
+{"index": 320736, "D": "to put into dramatic or theatrical  form; dramatize.", "S": ["burlesque ", "caricature ", "chew up the scenery ", "emote ", "ham ", "overact ", "travesty "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236514, "D": "any of several tropical American clinid fishes of the genus Chaenopsis, as C. ocellata(bluethroat pikeblenny ), the male of which is noted for its aggressive behavior in defending its territory.", "S": [], "A": []}

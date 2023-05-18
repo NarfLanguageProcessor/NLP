@@ -1,0 +1,1 @@
+{"index": 139693, "D": "Persian name of India, especially the part N of the Deccan.", "S": [], "A": []}

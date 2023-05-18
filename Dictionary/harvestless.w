@@ -1,0 +1,1 @@
+{"index": 134053, "D": "the gathering of crops.", "S": [], "A": []}

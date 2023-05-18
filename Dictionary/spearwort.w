@@ -1,0 +1,1 @@
+{"index": 298735, "D": "any of several buttercups having lance-shaped leaves and small flowers, as Ranunculus ambigens, of the eastern U.S., growing in mud.", "S": [], "A": []}

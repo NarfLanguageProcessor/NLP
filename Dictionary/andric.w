@@ -1,0 +1,1 @@
+{"index": 12364, "D": "Yugoslavian poet, novelist, and short-story writer", "S": ["gender ", "macho ", "male ", "manful ", "mannish ", "potent ", "virile "], "A": ["feminine "]}

@@ -1,0 +1,1 @@
+{"index": 86309, "D": "an instrument for measuring the refraction of the eye.", "S": [], "A": []}

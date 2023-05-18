@@ -1,0 +1,1 @@
+{"index": 156343, "D": "to the inside of; in toward", "S": ["in the direction of "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195257, "D": "having many parts or aspects", "S": [], "A": []}

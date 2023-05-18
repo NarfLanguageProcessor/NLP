@@ -1,0 +1,1 @@
+{"index": 309720, "D": "resembling a worm in shape; long and slender.", "S": [], "A": []}

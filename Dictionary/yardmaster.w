@@ -1,0 +1,1 @@
+{"index": 145740, "D": "a person who superintends all or part of a railroad yard. ", "S": [], "A": []}

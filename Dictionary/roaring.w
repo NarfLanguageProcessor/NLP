@@ -1,0 +1,1 @@
+{"index": 273533, "D": "the act of a person, animal, or thing that roars. ", "S": ["boisterous ", "booming ", "clamorous ", "crashing ", "deafening ", "earsplitting ", "raucous ", "resounding ", "ringing ", "rowdy ", "thundering ", "tumultuous ", "turbulent "], "A": ["calm ", "moderate ", "quiet ", "restrained ", "light ", "soft ", "trivial "]}

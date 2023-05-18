@@ -1,0 +1,1 @@
+{"index": 268423, "D": "to reaffix or replace (a notice, bulletin, sign, etc.)", "S": [], "A": []}

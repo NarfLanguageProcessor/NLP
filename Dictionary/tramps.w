@@ -1,0 +1,1 @@
+{"index": 327600, "D": "to tread or walk with a firm, heavy, resounding step.", "S": ["hobo "], "A": ["tiptoeing "]}

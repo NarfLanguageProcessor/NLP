@@ -1,0 +1,1 @@
+{"index": 67508, "D": "a money of account of Portugal and Cape Verde, equal to 1000 escudos.", "S": [], "A": []}

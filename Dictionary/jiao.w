@@ -1,0 +1,1 @@
+{"index": 161147, "D": "a copper-zinc coin and monetary unit of the People's Republic of China, the 10th part of a yuan, equal to 10 fen.", "S": [], "A": []}

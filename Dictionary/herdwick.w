@@ -1,0 +1,1 @@
+{"index": 136990, "D": "a hardy breed of coarse-woolled sheep from NW England", "S": [], "A": []}

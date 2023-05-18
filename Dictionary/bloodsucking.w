@@ -1,0 +1,1 @@
+{"index": 36493, "D": "any animal that sucks blood,  especially a leech.", "S": ["leechlike ", "parasitical "], "A": []}

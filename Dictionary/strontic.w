@@ -1,0 +1,1 @@
+{"index": 306556, "D": "a bivalent, metallic element whose compounds resemble those of calcium, found in nature only in the combined state, as in strontianite", "S": [], "A": []}

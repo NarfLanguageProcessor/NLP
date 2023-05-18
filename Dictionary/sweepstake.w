@@ -1,0 +1,1 @@
+{"index": 314263, "D": "a sweepstakes.", "S": ["gambling ", "raffle "], "A": []}

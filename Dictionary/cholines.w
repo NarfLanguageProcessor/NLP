@@ -1,0 +1,1 @@
+{"index": 55493, "D": "a quaternary ammonium cation, C5H14N+O, one of the B-complex vitamins, found in the lecithin of many plants and animals.", "S": [], "A": []}

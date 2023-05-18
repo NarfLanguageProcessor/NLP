@@ -1,0 +1,1 @@
+{"index": 285800, "D": "a tomb, grave, or burial place.", "S": ["entomb ", "inhume "], "A": ["dig up ", "exhume "]}

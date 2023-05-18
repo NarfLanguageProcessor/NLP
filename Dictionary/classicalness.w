@@ -1,0 +1,1 @@
+{"index": 59396, "D": "of, relating to, or characteristic of Greek and Roman antiquity", "S": [], "A": []}

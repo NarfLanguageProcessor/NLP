@@ -1,0 +1,1 @@
+{"index": 296057, "D": "Sir Garfield St Auburn, known as Garry. born 1936, West Indian (Barbadian) cricketer", "S": ["dampen ", "dim ", "mitigate ", "modulate ", "play down ", "restrain ", "soften ", "temper "], "A": ["aggravate ", "brighten ", "irritate ", "upset "]}

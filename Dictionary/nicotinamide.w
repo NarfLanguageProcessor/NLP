@@ -1,0 +1,1 @@
+{"index": 199688, "D": "a colorless, crystalline, water-soluble solid, C6H6N2O, the amide  of nicotinic acid, and a component of the vitamin-B complex, found in meat, liver, fish, whole wheat, and eggs", "S": [], "A": []}

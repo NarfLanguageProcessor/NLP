@@ -1,0 +1,1 @@
+{"index": 35066, "D": "the univalent group BiO+, occurring in certain bismuth  salts, as bismuth oxychloride,  BiOCl.", "S": [], "A": []}

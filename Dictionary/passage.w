@@ -1,0 +1,1 @@
+{"index": 227261, "D": "a portion or section of a written work; a paragraph, verse, etc.", "S": ["clause ", "paragraph ", "portion ", "quotation ", "reading ", "section ", "sentence ", "text ", "transition ", "verse "], "A": ["whole "]}

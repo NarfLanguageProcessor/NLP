@@ -1,0 +1,1 @@
+{"index": 20700, "D": "a person or thing that articulates. ", "S": [], "A": []}

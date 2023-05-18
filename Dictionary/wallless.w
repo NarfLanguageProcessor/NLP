@@ -1,0 +1,1 @@
+{"index": 362256, "D": "any of various permanent upright constructions having a length much greater than the thickness and presenting a continuous surface except where pierced by doors, windows, etc.", "S": [], "A": []}

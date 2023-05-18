@@ -1,0 +1,1 @@
+{"index": 28889, "D": "a quantity or number coming at one time or taken together", "S": ["amount ", "array ", "assortment ", "bunch ", "bundle ", "cluster ", "collection ", "lot ", "parcel ", "quantity ", "shipment ", "volume "], "A": ["individual ", "one ", "whole "]}

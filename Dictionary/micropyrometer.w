@@ -1,0 +1,1 @@
+{"index": 186395, "D": "an optical pyrometer  used to measure the temperature of small glowing bodies.", "S": [], "A": []}

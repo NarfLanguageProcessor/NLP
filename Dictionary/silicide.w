@@ -1,0 +1,1 @@
+{"index": 290320, "D": "a compound of two elements, one of which is silicon.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307631, "D": "to make a crackling sound; crackle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144889, "D": "having human  characteristics or form; resembling human  beings.", "S": ["animal ", "anthropoid ", "biped ", "hominid ", "hominoid ", "individual ", "mortal "], "A": []}

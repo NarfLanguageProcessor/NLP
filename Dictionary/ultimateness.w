@@ -1,0 +1,1 @@
+{"index": 333839, "D": "last; furthest or farthest; ending a process or series", "S": [], "A": []}

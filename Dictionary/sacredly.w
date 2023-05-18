@@ -1,0 +1,1 @@
+{"index": 276359, "D": "devoted or dedicated to a deity or to some religious purpose; consecrated. ", "S": [], "A": []}

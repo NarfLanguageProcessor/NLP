@@ -1,0 +1,1 @@
+{"index": 277617, "D": "a member of the hereditary warrior class in feudal Japan.", "S": [], "A": []}

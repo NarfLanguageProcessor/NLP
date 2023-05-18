@@ -1,0 +1,1 @@
+{"index": 338960, "D": "the overhead interior surface of a room.", "S": [], "A": []}

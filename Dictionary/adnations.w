@@ -1,0 +1,1 @@
+{"index": 4246, "D": "the condition of being adnate. ", "S": [], "A": []}

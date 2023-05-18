@@ -1,0 +1,1 @@
+{"index": 272712, "D": "a paper money and monetary unit of Cambodia, equal to 100 sen.", "S": [], "A": []}

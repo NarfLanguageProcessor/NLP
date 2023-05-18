@@ -1,0 +1,1 @@
+{"index": 254310, "D": "a book containing psalms for liturgical or devotional use.", "S": ["Book of Common Prayer ", "Mass book ", "breviary ", "canon ", "lectionary ", "missal book ", "prayers ", "psalter ", "scripture "], "A": []}

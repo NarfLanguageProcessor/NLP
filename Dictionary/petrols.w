@@ -1,0 +1,1 @@
+{"index": 232539, "D": "gasoline. ", "S": ["Texas Tea ", "oil ", "petroleum "], "A": []}

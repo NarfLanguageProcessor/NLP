@@ -1,0 +1,1 @@
+{"index": 58738, "D": "any of a class of plant hormones, produced by the roots and traveling upward through the xylem, that promote tissue growth and budding and, on application, retard plant senescence.", "S": [], "A": []}

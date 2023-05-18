@@ -1,0 +1,1 @@
+{"index": 82859, "D": "to be depressed by loss of hope, confidence, or courage.", "S": ["dishearten ", "sadden ", "surrender "], "A": []}

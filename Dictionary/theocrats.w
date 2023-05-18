@@ -1,0 +1,1 @@
+{"index": 320951, "D": "a person who rules, governs as a representative of God or a deity, or is a member of the ruling group in a theocracy, as a divine king or a high priest.", "S": [], "A": []}

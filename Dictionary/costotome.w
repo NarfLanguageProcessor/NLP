@@ -1,0 +1,1 @@
+{"index": 70225, "D": "an instrument, as shears or a knife, for incising or dividing a rib, as in costotomy.", "S": [], "A": []}

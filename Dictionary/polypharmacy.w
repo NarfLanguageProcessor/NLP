@@ -1,0 +1,1 @@
+{"index": 242220, "D": "the use of two or more drugs together, usually to treat a single condition or disease.", "S": [], "A": []}

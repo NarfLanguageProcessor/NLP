@@ -1,0 +1,1 @@
+{"index": 7953, "D": "a tall plant, Angelica atropurpurea, of the parsley family, having broad clusters of small white flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273713, "D": "any plant of the genus Cistus or some allied genus, as Helianthemum.", "S": [], "A": []}

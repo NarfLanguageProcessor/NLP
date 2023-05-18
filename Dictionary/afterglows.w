@@ -1,0 +1,1 @@
+{"index": 5680, "D": "the glow  frequently seen in the sky after  sunset; afterlight.", "S": ["bloom ", "blossom ", "brilliance ", "glare ", "gleam ", "glimmer ", "glitter ", "intensity ", "light ", "radiance ", "ray ", "warmth "], "A": ["dark ", "dullness "]}

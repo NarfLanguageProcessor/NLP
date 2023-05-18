@@ -1,0 +1,1 @@
+{"index": 134744, "D": "coverings for the head,  especially hats.", "S": [], "A": []}

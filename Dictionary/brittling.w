@@ -1,0 +1,1 @@
+{"index": 41024, "D": "having hardness and rigidity but little tensile strength; breaking readily with a comparatively smooth fracture, as glass.", "S": [], "A": []}

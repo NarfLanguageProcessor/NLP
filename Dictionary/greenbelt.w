@@ -1,0 +1,1 @@
+{"index": 129521, "D": "an area of woods, parks, or open land surrounding a community.", "S": ["province "], "A": ["city ", "metropolis ", "urbanity "]}

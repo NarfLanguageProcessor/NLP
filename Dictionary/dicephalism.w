@@ -1,0 +1,1 @@
+{"index": 84761, "D": "having two heads; two-headed.", "S": [], "A": []}

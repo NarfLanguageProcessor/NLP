@@ -1,0 +1,1 @@
+{"index": 69366, "D": "a starch  or a starchy flour made from corn  and used for thickening gravies and sauces, making puddings, etc.", "S": [], "A": []}

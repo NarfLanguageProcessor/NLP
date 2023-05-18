@@ -1,0 +1,1 @@
+{"index": 353684, "D": "constructed or covered with a vault,  as a building or chamber.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27772, "D": "a red wine grape grown primarily in the Piedmont region of Italy and the Central Valley of California.", "S": [], "A": []}

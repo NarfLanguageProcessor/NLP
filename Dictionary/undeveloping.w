@@ -1,0 +1,1 @@
+{"index": 340261, "D": "undergoing development;  growing; evolving.", "S": [], "A": []}

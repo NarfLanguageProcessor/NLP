@@ -1,0 +1,1 @@
+{"index": 219485, "D": "excessively full", "S": ["glut ", "plethora ", "profusion "], "A": ["lack ", "need ", "want "]}

@@ -1,0 +1,1 @@
+{"index": 60164, "D": "associating exclusively with the members of one's own clique;  clannish.", "S": [], "A": []}

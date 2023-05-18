@@ -1,0 +1,1 @@
+{"index": 157675, "D": "a lipid-soluble substance capable of transporting specific ions through cellular membranes.", "S": [], "A": []}

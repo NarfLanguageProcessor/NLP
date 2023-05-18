@@ -1,0 +1,1 @@
+{"index": 263346, "D": "to join, link, or fasten together; unite or bind", "S": ["reopen ", "restore ", "resume ", "revitalize "], "A": []}

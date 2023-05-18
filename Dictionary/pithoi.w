@@ -1,0 +1,1 @@
+{"index": 238334, "D": "a very large earthenware jar having a wide mouth, used by the ancient Greeks for storing liquids, as wine, or for holding food, as grain, or for the burial of the dead.", "S": [], "A": []}

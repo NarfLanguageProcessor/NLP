@@ -1,0 +1,1 @@
+{"index": 265709, "D": "a groove or channel for guiding a sliding door.", "S": [], "A": []}

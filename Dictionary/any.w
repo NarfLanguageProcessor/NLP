@@ -1,0 +1,1 @@
+{"index": 13087, "D": "one, a, an, or some; one or more without specification or identification", "S": ["all ", "each ", "either ", "several "], "A": []}

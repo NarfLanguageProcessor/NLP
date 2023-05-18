@@ -1,0 +1,1 @@
+{"index": 188495, "D": "one of the warlike people of ancient Thessaly who accompanied Achilles to the Trojan War.", "S": ["companion ", "comrade ", "disciple ", "follower "], "A": ["enemy ", "foe ", "opponent ", "adversary ", "antagonist "]}

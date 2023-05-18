@@ -1,0 +1,1 @@
+{"index": 194657, "D": "wet, soft earth or earthy matter, as on the ground after rain, at the bottom of a pond, or along the banks of a river; mire.", "S": [], "A": []}

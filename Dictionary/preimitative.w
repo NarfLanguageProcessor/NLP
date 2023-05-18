@@ -1,0 +1,1 @@
+{"index": 247884, "D": "imitating;  copying; given to imitation. ", "S": [], "A": []}

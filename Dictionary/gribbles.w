@@ -1,0 +1,1 @@
+{"index": 129767, "D": "a small, marine isopod crustacean of the genus Limnoria that destroys submerged timber by boring into it.", "S": [], "A": []}

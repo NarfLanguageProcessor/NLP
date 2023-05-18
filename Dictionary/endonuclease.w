@@ -1,0 +1,1 @@
+{"index": 99861, "D": "any of a group of enzymes that degrade DNA or RNA molecules by breaking linkages within the polynucleotide chains.", "S": [], "A": []}

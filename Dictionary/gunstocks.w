@@ -1,0 +1,1 @@
+{"index": 131449, "D": "the stock  or support in which the barrel of a shoulder weapon is fixed.", "S": [], "A": []}

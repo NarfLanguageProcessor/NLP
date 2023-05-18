@@ -1,0 +1,1 @@
+{"index": 177395, "D": "the Arabic name for the NW part of Africa, generally including Morocco, Algeria, Tunisia, and sometimes Libya.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20279, "D": "until we see each other again; goodbye for the present.", "S": ["adieu ", "adios ", "bye ", "bye-bye ", "cheerio ", "good day ", "sayonara ", "so long "], "A": ["hello "]}

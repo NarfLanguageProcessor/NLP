@@ -1,0 +1,1 @@
+{"index": 253376, "D": "providing protection  or shelter.", "S": [], "A": []}

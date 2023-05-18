@@ -1,0 +1,1 @@
+{"index": 207525, "D": "Compare depressant (def. 4). ", "S": [], "A": []}

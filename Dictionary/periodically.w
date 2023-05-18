@@ -1,0 +1,1 @@
+{"index": 231103, "D": "at irregular intervals of time; intermittently", "S": ["annually ", "regularly ", "repeatedly ", "systematically "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 280905, "D": "variant of sclero-  before a vowel", "S": [], "A": []}

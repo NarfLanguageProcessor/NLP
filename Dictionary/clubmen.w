@@ -1,0 +1,1 @@
+{"index": 60654, "D": "a man  who belongs to a club,  especially a fashionable club, and is active in club life.", "S": [], "A": []}

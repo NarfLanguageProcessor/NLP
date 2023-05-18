@@ -1,0 +1,1 @@
+{"index": 137771, "D": "the condition in certain plants, such as primroses, of having styles of different lengths, each type of style in flowers on different plants, which promotes cross-pollination", "S": [], "A": []}

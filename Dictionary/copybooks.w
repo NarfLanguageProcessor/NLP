@@ -1,0 +1,1 @@
+{"index": 68501, "D": "a book  containing models, usually of penmanship, for learners to imitate.", "S": [], "A": []}

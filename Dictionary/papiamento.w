@@ -1,0 +1,1 @@
+{"index": 225189, "D": "a creolized language based on Spanish and spoken on Cura\u00e7ao.", "S": [], "A": []}

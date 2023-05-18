@@ -1,0 +1,1 @@
+{"index": 164878, "D": "any of various common buttercups, as Ranunculus bulbosus, having bright-yellow flowers.", "S": [], "A": []}

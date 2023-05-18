@@ -1,0 +1,1 @@
+{"index": 33643, "D": "bent at two places.", "S": [], "A": []}

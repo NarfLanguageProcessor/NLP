@@ -1,0 +1,1 @@
+{"index": 241163, "D": "a variant of penology. ", "S": [], "A": []}

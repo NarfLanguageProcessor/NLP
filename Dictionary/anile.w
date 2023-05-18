@@ -1,0 +1,1 @@
+{"index": 13113, "D": "of or like a foolish, doddering old woman.", "S": ["battered ", "broken-down ", "creaky ", "crippled ", "dilapidated ", "feeble ", "flimsy ", "frail ", "infirm ", "ramshackle ", "rickety ", "run down ", "seedy ", "shabby "], "A": ["firm ", "healthy ", "hearty ", "solid ", "sound ", "stable ", "strong ", "sturdy "]}

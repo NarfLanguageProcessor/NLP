@@ -1,0 +1,1 @@
+{"index": 237611, "D": "any monosaccharide having a pyran  ring structure.", "S": [], "A": []}

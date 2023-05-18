@@ -1,0 +1,1 @@
+{"index": 67918, "D": "to carry, bring, or take from one place to another; transport; bear. ", "S": ["ambulatory ", "mobile ", "motile ", "portable "], "A": ["fixed ", "immovable ", "permanent ", "unmovable "]}

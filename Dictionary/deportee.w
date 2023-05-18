@@ -1,0 +1,1 @@
+{"index": 81749, "D": "a person deported or awaiting deportation", "S": ["displaced person ", "expatriate "], "A": ["citizen ", "national ", "native "]}

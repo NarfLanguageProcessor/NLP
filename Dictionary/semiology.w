@@ -1,0 +1,1 @@
+{"index": 284585, "D": "the study of signs and symbols; semiotics.", "S": ["connotation ", "definition ", "denotation ", "explanation ", "explication ", "exposition ", "interpretation ", "semiotics ", "symbolism "], "A": []}

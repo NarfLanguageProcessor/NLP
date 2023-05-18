@@ -1,0 +1,1 @@
+{"index": 306207, "D": "a straightedge used for sweeping off heaped-up grain to the level of the rim of a measure.", "S": [], "A": []}

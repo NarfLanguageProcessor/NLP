@@ -1,0 +1,1 @@
+{"index": 244451, "D": "pertaining to or of the nature of rheumatism. ", "S": [], "A": []}

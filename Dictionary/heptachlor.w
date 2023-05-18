@@ -1,0 +1,1 @@
+{"index": 136754, "D": "a highly toxic, light-tan, waxy solid, C10H5Cl7, used as an insecticide", "S": [], "A": []}

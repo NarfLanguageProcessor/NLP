@@ -1,0 +1,1 @@
+{"index": 197014, "D": "not any; no; never a", "S": [], "A": []}

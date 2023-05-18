@@ -1,0 +1,1 @@
+{"index": 197606, "D": "close; to a point or place not far away", "S": ["come ", "contact ", "match ", "meet ", "near ", "reach ", "surround ", "threaten "], "A": ["avoid ", "depart ", "go ", "leave ", "miss ", "decrease ", "retreat ", "retrogress ", "stop "]}

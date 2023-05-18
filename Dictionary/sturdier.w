@@ -1,0 +1,1 @@
+{"index": 306977, "D": "strongly built; stalwart; robust", "S": ["bulky ", "hearty ", "hulking ", "muscular ", "powerful ", "robust ", "rugged ", "stiff ", "stout ", "strapping ", "strong "], "A": ["calm ", "delicate ", "easy ", "feeble ", "flabby ", "infirm ", "mild ", "moderate ", "skinny ", "small ", "soft ", "thin ", "tiny ", "unhealthy ", "weak "]}

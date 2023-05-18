@@ -1,0 +1,1 @@
+{"index": 200564, "D": "the noble  class or the body of nobles  in a country.", "S": ["dignity ", "generosity ", "grandeur ", "greatness ", "integrity ", "superiority ", "upper class ", "virtue "], "A": ["dishonor ", "insignificance ", "unimportance ", "condemnation ", "debasement ", "denunciation ", "depression ", "humiliation "]}

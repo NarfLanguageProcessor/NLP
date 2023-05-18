@@ -1,0 +1,1 @@
+{"index": 334509, "D": "not familiar or conversant with (someone or something)", "S": ["ignorant ", "inexperienced ", "strange ", "unadorned ", "unaware ", "unfamiliar ", "unknown "], "A": ["acquainted "]}

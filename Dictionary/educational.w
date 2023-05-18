@@ -1,0 +1,1 @@
+{"index": 95838, "D": "pertaining to education. ", "S": ["academic ", "cultural ", "informational ", "scholarly "], "A": []}

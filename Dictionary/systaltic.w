@@ -1,0 +1,1 @@
+{"index": 292516, "D": "rhythmically contracting.", "S": [], "A": []}

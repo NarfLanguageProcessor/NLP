@@ -1,0 +1,1 @@
+{"index": 121562, "D": "an instrument for detecting the existence of small electric currents and determining their strength.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366057, "D": "so tight  as to prevent passage of wind  or air.", "S": [], "A": []}

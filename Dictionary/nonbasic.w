@@ -1,0 +1,1 @@
+{"index": 201618, "D": "of, relating to, or forming a base; fundamental", "S": [], "A": []}

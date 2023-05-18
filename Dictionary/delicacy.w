@@ -1,0 +1,1 @@
+{"index": 80050, "D": "fineness of texture, quality, etc.; softness; daintiness", "S": ["elegance ", "fragility ", "lightness ", "subtlety ", "tenderness "], "A": ["strength "]}

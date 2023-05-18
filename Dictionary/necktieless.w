@@ -1,0 +1,1 @@
+{"index": 197770, "D": "a band of decorative fabric worn around the neck,  under the collar, and tied  in front to hang down the front of a shirt or to form a small bow.", "S": [], "A": []}

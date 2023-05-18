@@ -1,0 +1,1 @@
+{"index": 63974, "D": "corresponding in amount, magnitude, or degree", "S": ["comparable ", "compatible ", "consistent ", "proportionate ", "sufficient "], "A": ["incompatible ", "unsuitable "]}

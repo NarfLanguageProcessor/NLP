@@ -1,0 +1,1 @@
+{"index": 64886, "D": "included or contained", "S": ["admitted ", "combined ", "constituted ", "counted ", "covered ", "embodied ", "enclosed ", "encompassed ", "entered ", "incorporated ", "inserted ", "involved ", "numbered ", "subsumed "], "A": ["excluded ", "left out ", "rejected "]}

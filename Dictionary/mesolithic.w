@@ -1,0 +1,1 @@
+{"index": 184251, "D": "of, relating to, or characteristic of a transitional period of the Stone Age intermediate between the Paleolithic and the Neolithic periods, characterized by adaptation to a hunting, collecting, and fishing economy based on the use of forest, lakeside, and seashore environments; Epipaleolithic.", "S": [], "A": []}

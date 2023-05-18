@@ -1,0 +1,1 @@
+{"index": 168012, "D": "a section or expanse of rural scenery, usually extensive, that can be seen from a single viewpoint.", "S": ["mural ", "painting ", "photograph ", "scene ", "scenery ", "view "], "A": []}

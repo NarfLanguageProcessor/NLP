@@ -1,0 +1,1 @@
+{"index": 259480, "D": "a person who is skilled in relating stories and anecdotes interestingly.", "S": ["storyteller "], "A": []}

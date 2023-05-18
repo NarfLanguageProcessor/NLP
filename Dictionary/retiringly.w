@@ -1,0 +1,1 @@
+{"index": 270566, "D": "that retires. ", "S": ["humbly ", "plainly ", "quietly ", "simply "], "A": ["boastfully ", "boldly ", "immodestly ", "pretentiously "]}

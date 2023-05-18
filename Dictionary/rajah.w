@@ -1,0 +1,1 @@
+{"index": 260153, "D": "a king or prince in India.", "S": ["emperor ", "monarch ", "sultan "], "A": []}

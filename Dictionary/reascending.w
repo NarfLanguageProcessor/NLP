@@ -1,0 +1,1 @@
+{"index": 262008, "D": "to move, climb, or go upward; mount; rise", "S": [], "A": []}

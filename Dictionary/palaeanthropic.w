@@ -1,0 +1,1 @@
+{"index": 223282, "D": "relating to or denoting the earliest variety of man", "S": [], "A": []}

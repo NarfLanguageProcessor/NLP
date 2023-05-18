@@ -1,0 +1,1 @@
+{"index": 10424, "D": "a combining form used in the names of chemical compounds in which the \u2212NH2 group united with an acid radical is present", "S": [], "A": []}

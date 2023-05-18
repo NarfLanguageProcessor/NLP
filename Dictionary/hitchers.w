@@ -1,0 +1,1 @@
+{"index": 141955, "D": "to fasten or tie, especially temporarily, by means of a hook, rope, strap, etc.; tether", "S": [], "A": []}

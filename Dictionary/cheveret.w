@@ -1,0 +1,1 @@
+{"index": 53988, "D": "a small English table of the 18th century, having an oblong top, one or two rows of drawers, and slender legs joined near the bottom by a shelf.", "S": [], "A": []}

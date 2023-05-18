@@ -1,0 +1,1 @@
+{"index": 316525, "D": "a tasseled cap of cloth or felt, usually red, that is worn by Muslim men either by itself or as the inner part of the turban.", "S": [], "A": []}

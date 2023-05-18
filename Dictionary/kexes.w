@@ -1,0 +1,1 @@
+{"index": 164196, "D": "the dry, usually hollow stem or stalk of various plants, especially of large plants belonging to the parsley family, as cow parsnip or wild chervil.", "S": [], "A": []}

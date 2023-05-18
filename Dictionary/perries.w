@@ -1,0 +1,1 @@
+{"index": 231847, "D": "a fermented beverage similar to cider, made from the juice of pears.", "S": [], "A": []}

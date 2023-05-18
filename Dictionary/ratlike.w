@@ -1,0 +1,1 @@
+{"index": 261100, "D": "any of several long-tailed rodents of the family Muridae, of the genus Rattus and related genera, distinguished from the mouse by being larger.", "S": [], "A": []}

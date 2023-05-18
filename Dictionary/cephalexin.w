@@ -1,0 +1,1 @@
+{"index": 51106, "D": "an oral, antimicrobial drug, C16H7N3O4S, used in treating minor respiratory and urinary tract infections and as a backup or alternative to penicillin treatment.", "S": [], "A": []}

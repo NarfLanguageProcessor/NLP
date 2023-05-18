@@ -1,0 +1,1 @@
+{"index": 110720, "D": "to untwist (the end of a rope).", "S": [], "A": []}

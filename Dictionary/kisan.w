@@ -1,0 +1,1 @@
+{"index": 165106, "D": "(in India) a peasant.", "S": [], "A": []}

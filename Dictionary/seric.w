@@ -1,0 +1,1 @@
+{"index": 286066, "D": "a combining form meaning \u201csilk,\u201d used as a base in English derivatives", "S": [], "A": []}

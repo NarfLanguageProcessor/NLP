@@ -1,0 +1,1 @@
+{"index": 203866, "D": "to represent (a fault, offense, etc.) as less serious", "S": [], "A": []}

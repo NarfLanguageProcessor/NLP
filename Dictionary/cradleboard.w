@@ -1,0 +1,1 @@
+{"index": 71872, "D": "a wooden frame worn on the back, used by North American Indian women for carrying an infant.", "S": [], "A": []}

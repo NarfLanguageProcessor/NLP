@@ -1,0 +1,1 @@
+{"index": 84440, "D": "perspiration, especially when artificially induced.", "S": ["excreta ", "exudation ", "sudation ", "sudor ", "transpiration "], "A": []}

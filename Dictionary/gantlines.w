@@ -1,0 +1,1 @@
+{"index": 121986, "D": "a rope rove through a single block hung from a mast, funnel, etc., as a means of hoisting workers, tools, flags, or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 222725, "D": "a bundle of something, usually of small or medium size, that is packed  and wrapped or boxed; parcel.", "S": ["bind ", "bundle ", "collect ", "gather ", "load ", "store ", "stow "], "A": ["disperse ", "distribute ", "divide ", "scatter ", "separate ", "spread ", "use ", "waste ", "detach ", "disconnect ", "loosen ", "unfasten "]}

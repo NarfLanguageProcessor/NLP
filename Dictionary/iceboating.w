@@ -1,0 +1,1 @@
+{"index": 145970, "D": "a person who races iceboats,  especially as a hobby or in competition.", "S": [], "A": []}

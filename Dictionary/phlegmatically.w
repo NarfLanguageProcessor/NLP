@@ -1,0 +1,1 @@
+{"index": 234481, "D": "not easily excited to action or display of emotion; apathetic; sluggish.", "S": [], "A": []}

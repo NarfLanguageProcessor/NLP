@@ -1,0 +1,1 @@
+{"index": 202949, "D": "the act or process of weakening, lessening, or taking away power or authority", "S": [], "A": []}

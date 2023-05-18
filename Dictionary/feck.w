@@ -1,0 +1,1 @@
+{"index": 110758, "D": "the greater part; the majority", "S": [], "A": []}

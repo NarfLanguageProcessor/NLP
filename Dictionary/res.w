@@ -1,0 +1,1 @@
+{"index": 268990, "D": "an object or thing; matter.", "S": ["depend on ", "rest on "], "A": []}

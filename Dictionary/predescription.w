@@ -1,0 +1,1 @@
+{"index": 246814, "D": "a statement, picture in words, or account that describes; descriptive  representation.", "S": [], "A": []}

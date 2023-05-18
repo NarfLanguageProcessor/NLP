@@ -1,0 +1,1 @@
+{"index": 272870, "D": "a small stream; rivulet.", "S": [], "A": []}

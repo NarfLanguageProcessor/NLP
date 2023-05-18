@@ -1,0 +1,1 @@
+{"index": 148325, "D": "a position or situation from which there is no escape; deadlock.", "S": ["deadlock ", "dilemma ", "gridlock ", "predicament ", "standoff ", "standstill "], "A": ["solution ", "boon "]}

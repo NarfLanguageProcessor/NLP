@@ -1,0 +1,1 @@
+{"index": 340124, "D": "to enclose in something wound or folded about (often followed by up)", "S": [], "A": []}

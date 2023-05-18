@@ -1,0 +1,1 @@
+{"index": 80564, "D": "a crescent.", "S": ["bow ", "curve ", "half-moon ", "meniscus ", "sickle "], "A": []}

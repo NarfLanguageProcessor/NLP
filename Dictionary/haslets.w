@@ -1,0 +1,1 @@
+{"index": 134095, "D": "the heart, liver, etc., of a hog or other animal used for food.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 23408, "D": "of or relating to Augustus  Caesar, the first Roman emperor, or to the age (Augustan Age ) in which he flourished, which marked the golden age of Latin literature.", "S": ["classic ", "humanistic "], "A": ["complicated ", "modern "]}

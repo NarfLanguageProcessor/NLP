@@ -1,0 +1,1 @@
+{"index": 56415, "D": "a chronological record of events; a history.", "S": ["historian "], "A": []}

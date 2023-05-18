@@ -1,0 +1,1 @@
+{"index": 179808, "D": "malnutrition occurring in infants and young children, caused by insufficient intake of calories or protein and characterized by thinness, dry skin, poor muscle development, and irritability.", "S": [], "A": []}

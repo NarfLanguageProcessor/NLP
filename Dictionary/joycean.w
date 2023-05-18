@@ -1,0 +1,1 @@
+{"index": 161583, "D": "of, relating to, or characteristic of James Joyce  or his work.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247965, "D": "of or relating to a society, age, etc, before industrialization", "S": [], "A": []}

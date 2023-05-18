@@ -1,0 +1,1 @@
+{"index": 216874, "D": "to touch or press with the lips slightly pursed, and then often to part them and to emit a smacking sound, in an expression of affection, love, greeting, reverence, etc.", "S": [], "A": []}

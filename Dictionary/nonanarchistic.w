@@ -1,0 +1,1 @@
+{"index": 201310, "D": "a person who advocates or believes in anarchy  or anarchism. ", "S": [], "A": []}

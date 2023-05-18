@@ -1,0 +1,1 @@
+{"index": 279318, "D": "having a rough or scaly surface", "S": [], "A": []}

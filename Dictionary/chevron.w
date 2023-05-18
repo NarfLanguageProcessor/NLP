@@ -1,0 +1,1 @@
+{"index": 54014, "D": "a badge consisting of stripes meeting at an angle, worn on the sleeve by noncommissioned officers, police officers, etc., as an indication of rank, service, or the like.", "S": [], "A": []}

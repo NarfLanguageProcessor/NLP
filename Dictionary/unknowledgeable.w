@@ -1,0 +1,1 @@
+{"index": 345364, "D": "possessing or exhibiting knowledge,  insight, or understanding; intelligent; well-informed; discerning; perceptive.", "S": ["illiterate ", "innocent ", "naive ", "oblivious ", "obtuse ", "uneducated ", "uninformed "], "A": ["educated ", "experienced ", "intelligent ", "learned ", "taught "]}

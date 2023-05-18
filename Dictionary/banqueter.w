@@ -1,0 +1,1 @@
+{"index": 27573, "D": "a lavish meal; feast.", "S": [], "A": []}

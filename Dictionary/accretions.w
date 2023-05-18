@@ -1,0 +1,1 @@
+{"index": 1778, "D": "an increase by natural growth or by gradual external addition; growth in size or extent.", "S": ["accumulation "], "A": ["decline ", "decrease ", "drop ", "fall ", "loss "]}

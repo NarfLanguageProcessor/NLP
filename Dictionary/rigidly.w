@@ -1,0 +1,1 @@
+{"index": 272853, "D": "stiff or unyielding; not pliant or flexible; hard", "S": ["securely ", "solidly ", "soundly ", "strongly ", "thoroughly ", "tightly "], "A": ["indefinitely ", "weakly "]}

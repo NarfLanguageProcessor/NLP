@@ -1,0 +1,1 @@
+{"index": 25906, "D": "the practice of making a loud and effusive display of friendliness, cordiality, etc., as by slapping  persons on the back. ", "S": ["cheerful ", "clubby ", "festive ", "genial ", "hearty ", "jolly ", "jovial ", "lively ", "pleasant ", "sociable "], "A": ["apathetic ", "depressed ", "gloomy ", "lethargic ", "sad ", "unfriendly ", "unhappy "]}

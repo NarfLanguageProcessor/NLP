@@ -1,0 +1,1 @@
+{"index": 301432, "D": "a person who prepares and operates a rig for drilling oil wells.", "S": [], "A": []}

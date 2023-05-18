@@ -1,0 +1,1 @@
+{"index": 92423, "D": "diphtheria, pertussis, and tetanus", "S": [], "A": []}

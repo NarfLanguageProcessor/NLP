@@ -1,0 +1,1 @@
+{"index": 75218, "D": "stopped, restrained, or slowed", "S": ["abstinent ", "ascetic ", "celibate "], "A": ["impure ", "incontinent ", "unchaste "]}

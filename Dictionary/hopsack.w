@@ -1,0 +1,1 @@
+{"index": 143736, "D": "a roughly woven fabric of wool, cotton, etc, used for clothing", "S": [], "A": []}

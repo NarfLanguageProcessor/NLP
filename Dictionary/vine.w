@@ -1,0 +1,1 @@
+{"index": 359872, "D": "any plant having a long, slender stem that trails or creeps on the ground or climbs by winding itself about a support or holding fast with tendrils or claspers.", "S": ["creeper "], "A": []}

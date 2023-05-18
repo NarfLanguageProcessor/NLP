@@ -1,0 +1,1 @@
+{"index": 15749, "D": "an admixture to natural or synthetic rubber for preventing ozonolysis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342816, "D": "to expose to smoke or fumes,  as in disinfecting or exterminating roaches, ants, etc.", "S": [], "A": []}

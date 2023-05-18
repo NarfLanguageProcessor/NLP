@@ -1,0 +1,1 @@
+{"index": 202367, "D": "alleviating or lessening grief, sorrow, or disappointment; giving comfort", "S": [], "A": []}

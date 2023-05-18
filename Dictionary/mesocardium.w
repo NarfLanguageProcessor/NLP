@@ -1,0 +1,1 @@
+{"index": 184183, "D": "the double layer of splanchnic mesoderm supporting the embryonic heart.", "S": [], "A": []}

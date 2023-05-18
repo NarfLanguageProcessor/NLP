@@ -1,0 +1,1 @@
+{"index": 101800, "D": "to impregnate with venom; make poisonous.", "S": ["acerbate ", "alienate ", "anger ", "antagonize ", "contaminate ", "embitter ", "harm ", "impair ", "infect ", "injure ", "rankle ", "taint "], "A": ["aid ", "assist ", "calm ", "clean ", "cure ", "fix ", "heal ", "help ", "make happy ", "mend "]}

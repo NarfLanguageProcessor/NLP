@@ -1,0 +1,1 @@
+{"index": 78880, "D": "Compare addendum (def. 3a). ", "S": [], "A": []}

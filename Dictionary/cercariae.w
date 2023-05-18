@@ -1,0 +1,1 @@
+{"index": 51330, "D": "the disk-shaped larva of flukes of the class Trematoda, having a taillike appendage.", "S": [], "A": []}

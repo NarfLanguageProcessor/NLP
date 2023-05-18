@@ -1,0 +1,1 @@
+{"index": 233351, "D": "a yellow, poisonous liquid or low-melting solid, C6H8N2, used in chemical analysis and organic synthesis.", "S": [], "A": []}

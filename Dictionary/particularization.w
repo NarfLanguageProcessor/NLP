@@ -1,0 +1,1 @@
+{"index": 227050, "D": "to make particular. ", "S": ["account ", "advice ", "announcement ", "broadcast ", "data ", "disclosure ", "message ", "report ", "rumor ", "statement ", "story ", "word "], "A": ["question ", "silence ", "truth ", "concealment ", "ignorance ", "suppression "]}

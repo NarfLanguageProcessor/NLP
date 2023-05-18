@@ -1,0 +1,1 @@
+{"index": 237930, "D": "heartburn (def. 1). ", "S": ["indigestion "], "A": []}

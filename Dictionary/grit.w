@@ -1,0 +1,1 @@
+{"index": 130067, "D": "abrasive particles or granules, as of sand or other small, coarse impurities found in the air, food, water, etc.", "S": ["dust ", "gravel ", "lumps ", "pebbles ", "powder ", "sand "], "A": ["cowardice ", "timidity ", "weakness "]}

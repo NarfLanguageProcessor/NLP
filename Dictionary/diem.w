@@ -1,0 +1,1 @@
+{"index": 85159, "D": "seize the day; enjoy the present, as opposed to placing all hope in the future.", "S": [], "A": []}

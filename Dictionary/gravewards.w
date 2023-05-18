@@ -1,0 +1,1 @@
+{"index": 129353, "D": "an excavation made in the earth in which to bury a dead body.", "S": [], "A": []}

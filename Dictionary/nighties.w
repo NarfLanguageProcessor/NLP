@@ -1,0 +1,1 @@
+{"index": 199940, "D": "a nightgown. ", "S": ["camisole ", "dishabille ", "nightdress ", "peignoir ", "robe ", "teddy ", "wrap ", "wrapper "], "A": []}

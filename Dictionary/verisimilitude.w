@@ -1,0 +1,1 @@
+{"index": 358543, "D": "the appearance or semblance of truth; genuineness; authenticity", "S": ["plausibility ", "realism "], "A": ["difference ", "dissimilarity ", "unlikeness "]}

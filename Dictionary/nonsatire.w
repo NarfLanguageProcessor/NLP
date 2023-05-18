@@ -1,0 +1,1 @@
+{"index": 207012, "D": "the use of irony, sarcasm, ridicule, or the like, to expose, denounce, or deride the folly or corruption of institutions, people, or social structures", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144841, "D": "of, relating to, characteristic of, or having the nature of people", "S": ["animal ", "mortal ", "personal "], "A": ["immortal ", "inhuman ", "unmanly "]}

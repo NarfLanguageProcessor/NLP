@@ -1,0 +1,1 @@
+{"index": 333345, "D": "a fabric constructed in twill weave. ", "S": ["cotton ", "goods ", "material ", "stuff "], "A": []}

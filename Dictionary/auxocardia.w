@@ -1,0 +1,1 @@
+{"index": 24539, "D": "enlargement of the heart, as by hypertrophy or dilatation.", "S": [], "A": []}

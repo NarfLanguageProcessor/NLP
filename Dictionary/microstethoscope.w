@@ -1,0 +1,1 @@
+{"index": 186558, "D": "a stethoscope  containing an apparatus that greatly amplifies the sounds heard.", "S": [], "A": []}

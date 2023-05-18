@@ -1,0 +1,1 @@
+{"index": 350598, "D": "to burn or char the surface of", "S": [], "A": []}

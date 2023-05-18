@@ -1,0 +1,1 @@
+{"index": 348287, "D": "to hasten the occurrence of; bring about prematurely, hastily, or suddenly", "S": [], "A": []}

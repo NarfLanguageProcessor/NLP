@@ -1,0 +1,1 @@
+{"index": 305487, "D": "the process or technique of finishing a facing, collar, or the like, or of mending material with concealed stitching.", "S": [], "A": []}

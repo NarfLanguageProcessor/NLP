@@ -1,0 +1,1 @@
+{"index": 28509, "D": "a player who typically plays near the baseline  using ground strokes, as distinguished from one who typically goes to the net.", "S": [], "A": []}

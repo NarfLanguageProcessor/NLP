@@ -1,0 +1,1 @@
+{"index": 293883, "D": "smooth or glossy, as hair, an animal, etc.", "S": ["appearance ", "brightness ", "brilliance ", "burnish ", "facade ", "finish ", "front ", "glaze ", "gleam ", "glint ", "glossiness ", "luster ", "polish ", "sheen ", "shimmer ", "shine ", "silkiness ", "slickness ", "surface ", "varnish ", "veneer "], "A": ["darkness ", "dullness ", "reality "]}

@@ -1,0 +1,1 @@
+{"index": 158849, "D": "the fact or state of occurrence at the same time; contemporaneity.", "S": [], "A": []}

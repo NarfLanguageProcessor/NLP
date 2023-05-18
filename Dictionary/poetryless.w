@@ -1,0 +1,1 @@
+{"index": 241227, "D": "the art of rhythmical composition, written or spoken, for exciting pleasure by beautiful, imaginative, or elevated thoughts.", "S": [], "A": []}

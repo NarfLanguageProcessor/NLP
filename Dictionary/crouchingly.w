@@ -1,0 +1,1 @@
+{"index": 73953, "D": "to stoop or bend low.", "S": [], "A": []}

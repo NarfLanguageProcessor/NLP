@@ -1,0 +1,1 @@
+{"index": 9587, "D": "the group of three to six small, rather stiff feathers growing on the first digit, pollex, or thumb of a bird's wing.", "S": [], "A": []}

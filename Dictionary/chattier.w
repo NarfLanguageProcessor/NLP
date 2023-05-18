@@ -1,0 +1,1 @@
+{"index": 53147, "D": "characterized by friendly and informal talk or writing, often about minor or personal matters", "S": ["communicative ", "conversational ", "friendly ", "garrulous ", "informal ", "intimate ", "loquacious "], "A": ["cool ", "formal ", "incompatible ", "quiet ", "reserved ", "silent ", "unfriendly ", "unsociable "]}

@@ -1,0 +1,1 @@
+{"index": 297627, "D": "subsequent or concurrent marriage with a wife's sister.", "S": [], "A": []}

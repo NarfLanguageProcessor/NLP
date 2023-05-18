@@ -1,0 +1,1 @@
+{"index": 157048, "D": "a brand of iron alloy containing 35.5 percent nickel and having a very low coefficient of expansion at atmospheric temperatures.", "S": [], "A": []}

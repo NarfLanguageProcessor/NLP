@@ -1,0 +1,1 @@
+{"index": 315407, "D": "Compare heads. ", "S": ["cloak ", "frock ", "jacket ", "overcoat ", "raincoat ", "suit ", "tuxedo ", "windbreaker ", "wrap "], "A": []}

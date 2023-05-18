@@ -1,0 +1,1 @@
+{"index": 311618, "D": "a person who judges, evaluates, or criticizes", "S": [], "A": []}

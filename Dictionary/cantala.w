@@ -1,0 +1,1 @@
+{"index": 46556, "D": "a cordage fiber obtained from the leaves of a tropical plant, Agave cantala.", "S": [], "A": []}

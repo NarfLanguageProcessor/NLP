@@ -1,0 +1,1 @@
+{"index": 103494, "D": "to rub or scrape out, as letters or characters written, engraved, etc.; efface. ", "S": ["abolish ", "delete ", "eliminate ", "expunge ", "negate ", "obliterate ", "wipe out "], "A": ["build ", "construct ", "create ", "ratify ", "allow ", "keep ", "lose ", "permit ", "retain ", "validate "]}

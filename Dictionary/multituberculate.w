@@ -1,0 +1,1 @@
+{"index": 195391, "D": "a rodentlike mammal of the extinct order Multituberculata, which lived from the late Jurassic  Period to the Oligocene  Epoch, reaching the size of a woodchuck and having molars with two or three rows of simple pointed cusps.", "S": [], "A": []}

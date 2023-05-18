@@ -1,0 +1,1 @@
+{"index": 118958, "D": "characteristic of or befitting afriend;  showing friendship", "S": ["camaraderie ", "comity ", "cordiality ", "goodwill ", "kindness ", "neighborliness ", "warmth "], "A": ["hostility ", "hatred "]}

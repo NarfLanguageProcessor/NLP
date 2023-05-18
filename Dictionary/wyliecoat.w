@@ -1,0 +1,1 @@
+{"index": 365751, "D": "a woolen or flannel undergarment, as a warm undershirt.", "S": [], "A": []}

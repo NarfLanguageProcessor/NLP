@@ -1,0 +1,1 @@
+{"index": 357224, "D": "characterized by or exhibiting variety; various;  diverse; diversified", "S": [], "A": []}

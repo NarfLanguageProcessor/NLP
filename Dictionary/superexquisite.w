@@ -1,0 +1,1 @@
+{"index": 311812, "D": "of special beauty or charm, or rare and appealing excellence, as a face, a flower, coloring, music, or poetry.", "S": [], "A": []}

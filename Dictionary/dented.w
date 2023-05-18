@@ -1,0 +1,1 @@
+{"index": 81275, "D": "a hollow or depression in a surface, as from a blow.", "S": ["biconcave ", "cupped ", "dimpled ", "dipped ", "excavated ", "hollow ", "hollowed ", "incurvate ", "incurvated ", "incurved ", "indented ", "round ", "rounded ", "sagging ", "sinking ", "sunken "], "A": ["convex ", "distended "]}

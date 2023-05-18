@@ -1,0 +1,1 @@
+{"index": 334007, "D": "a net  in a topological space that is residually in every set or its complement in the space.", "S": [], "A": []}

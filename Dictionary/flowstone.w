@@ -1,0 +1,1 @@
+{"index": 115217, "D": "a layered deposit of calcium carbonate, CaCO3, left by thin sheets of flowing water, as in a cave.", "S": [], "A": []}

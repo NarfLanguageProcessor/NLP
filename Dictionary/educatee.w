@@ -1,0 +1,1 @@
+{"index": 95833, "D": "a person who receives instruction; student.", "S": [], "A": []}

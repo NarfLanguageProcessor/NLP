@@ -1,0 +1,1 @@
+{"index": 21977, "D": "an obsolete variant of assuaged. ", "S": [], "A": []}

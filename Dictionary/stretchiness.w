@@ -1,0 +1,1 @@
+{"index": 306147, "D": "having a tendency tostretch,  especially excessively or unduly.", "S": [], "A": []}

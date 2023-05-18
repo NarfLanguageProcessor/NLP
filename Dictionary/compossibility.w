@@ -1,0 +1,1 @@
+{"index": 64803, "D": "compatible; potentially consistent, as with another statement, theory, etc.", "S": [], "A": []}

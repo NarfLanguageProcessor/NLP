@@ -1,0 +1,1 @@
+{"index": 92306, "D": "the lower side  or part.", "S": ["disadvantage ", "drawback ", "flaw ", "inconvenience "], "A": ["advantage ", "benefit ", "perfection ", "profit ", "blessing ", "strength "]}

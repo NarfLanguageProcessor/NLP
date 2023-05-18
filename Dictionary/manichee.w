@@ -1,0 +1,1 @@
+{"index": 179245, "D": "an adherent of the dualistic religious system of Manes, a combination of Gnostic Christianity, Buddhism, Zoroastrianism, and various other elements, with a basic doctrine of a conflict between light and dark, matter being regarded as dark and evil.", "S": [], "A": []}

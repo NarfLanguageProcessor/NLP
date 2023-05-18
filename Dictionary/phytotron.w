@@ -1,0 +1,1 @@
+{"index": 234405, "D": "a building in which plants can be grown on a large scale, under controlled conditions", "S": [], "A": []}

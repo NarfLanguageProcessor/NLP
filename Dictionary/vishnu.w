@@ -1,0 +1,1 @@
+{"index": 360385, "D": "(in later Hinduism) \u201cthe Preserver,\u201d the second member of the Trimurti, along with Brahma the Creator and Shiva the Destroyer.", "S": [], "A": []}

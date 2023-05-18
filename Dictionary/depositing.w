@@ -1,0 +1,1 @@
+{"index": 81772, "D": "to place for safekeeping or in trust, especially in a bank account", "S": ["security "], "A": ["break ", "whole "]}

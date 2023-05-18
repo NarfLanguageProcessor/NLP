@@ -1,0 +1,1 @@
+{"index": 232571, "D": "any domesticated or tamed animal that is kept as a companion and cared for affectionately.", "S": [], "A": []}

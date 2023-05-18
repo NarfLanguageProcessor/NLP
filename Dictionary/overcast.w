@@ -1,0 +1,1 @@
+{"index": 218524, "D": "overspread or covered with clouds; cloudy", "S": ["dismal ", "dreary ", "dull ", "hazy ", "leaden ", "murky "], "A": ["bright ", "clear ", "happy ", "light ", "luminous ", "pleasant "]}

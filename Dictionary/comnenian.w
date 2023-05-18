@@ -1,0 +1,1 @@
+{"index": 64313, "D": "a dynasty of Byzantine emperors that ruled at Constantinople, 1057?\u20131185, and at Trebizond in Asia Minor, 1204\u20131461?.", "S": [], "A": []}

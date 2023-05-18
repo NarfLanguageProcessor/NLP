@@ -1,0 +1,1 @@
+{"index": 183522, "D": "a colorless, crystalline, slightly water-soluble alcohol, C10H20O, obtained from peppermint oil or synthesized", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288918, "D": "butter, lard, or other fat, used to make pastry, bread, etc., short.", "S": ["abbreviation ", "contraction ", "curtailment ", "reduction ", "retrenchment "], "A": ["enlargement ", "expansion ", "extension ", "increase "]}

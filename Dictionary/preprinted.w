@@ -1,0 +1,1 @@
+{"index": 248929, "D": "an advance printing,  usually of a portion of a book or of an article in a periodical.", "S": [], "A": []}

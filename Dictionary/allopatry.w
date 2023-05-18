@@ -1,0 +1,1 @@
+{"index": 8902, "D": "originating in or occupying different geographical areas.", "S": [], "A": []}

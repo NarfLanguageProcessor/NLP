@@ -1,0 +1,1 @@
+{"index": 250409, "D": "a piece of furniture for kneeling on during prayer, having a rest above, as for a book.", "S": [], "A": []}

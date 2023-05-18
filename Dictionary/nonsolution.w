@@ -1,0 +1,1 @@
+{"index": 207392, "D": "the act of solving a problem, question, etc.", "S": [], "A": []}

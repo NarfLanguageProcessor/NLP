@@ -1,0 +1,1 @@
+{"index": 137710, "D": "a plant that secures its nutrition directly or indirectly from other organisms; a parasite or saprophyte.", "S": [], "A": []}

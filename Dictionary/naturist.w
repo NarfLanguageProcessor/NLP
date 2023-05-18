@@ -1,0 +1,1 @@
+{"index": 197366, "D": "a person who appreciates the beauty and benefits of nature. ", "S": [], "A": []}

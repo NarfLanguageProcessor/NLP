@@ -1,0 +1,1 @@
+{"index": 218315, "D": "to bear  over or down by weight or force", "S": [], "A": []}

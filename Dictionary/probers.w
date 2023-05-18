@@ -1,0 +1,1 @@
+{"index": 251060, "D": "to search into or examine thoroughly; question closely", "S": ["analyst ", "auditor ", "checker ", "examiner ", "inquisitor ", "investigator ", "querier ", "quester ", "questioner ", "researcher ", "scrutinizer "], "A": []}

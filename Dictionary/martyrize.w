@@ -1,0 +1,1 @@
+{"index": 180546, "D": "to make a martyr  of", "S": ["torment "], "A": ["please ", "soothe "]}

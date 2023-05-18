@@ -1,0 +1,1 @@
+{"index": 273323, "D": "an established or prescribed procedure for a religious or other rite. ", "S": ["act ", "custom ", "formality ", "habit ", "liturgy ", "observance ", "practice ", "procedure ", "rite ", "routine ", "stereotype "], "A": ["difference ", "neglect ", "disagreement ", "discord "]}

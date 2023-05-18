@@ -1,0 +1,1 @@
+{"index": 19980, "D": "a male attendant bearing the armor  or arms of a warrior or knight.", "S": [], "A": []}

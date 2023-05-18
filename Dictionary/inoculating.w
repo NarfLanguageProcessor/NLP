@@ -1,0 +1,1 @@
+{"index": 153155, "D": "to implant (a disease agent or antigen) in a person, animal, or plant to produce a disease for study or to stimulate disease resistance.", "S": ["inject ", "vaccinate "], "A": []}

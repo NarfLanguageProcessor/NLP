@@ -1,0 +1,1 @@
+{"index": 24366, "D": "something that is improvised or extemporized.", "S": [], "A": []}

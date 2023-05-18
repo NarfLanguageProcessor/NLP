@@ -1,0 +1,1 @@
+{"index": 272184, "D": "any parasitic crustacean of the order Rhizocephala, esp Sacculina carcini, which has a saclike body and sends out absorptive processes into the body of its host, the crab", "S": [], "A": []}

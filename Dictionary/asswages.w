@@ -1,0 +1,1 @@
+{"index": 21978, "D": "an obsolete variant of assuage. ", "S": [], "A": []}

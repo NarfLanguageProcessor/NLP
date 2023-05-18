@@ -1,0 +1,1 @@
+{"index": 89788, "D": "a variant of distill. ", "S": ["condense ", "extract ", "infuse ", "refine "], "A": ["dirty ", "pour "]}

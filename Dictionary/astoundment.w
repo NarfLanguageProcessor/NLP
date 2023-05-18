@@ -1,0 +1,1 @@
+{"index": 22159, "D": "to overwhelm with amazement; astonish greatly; shock with wonder or surprise.", "S": ["amazement ", "awe ", "bewilderment ", "confusion ", "consternation ", "wonderment "], "A": ["calm ", "calmness ", "composure ", "coolness ", "expectation "]}

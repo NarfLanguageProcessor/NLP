@@ -1,0 +1,1 @@
+{"index": 83647, "D": "to cause (a vapor) to liquefy.", "S": [], "A": []}

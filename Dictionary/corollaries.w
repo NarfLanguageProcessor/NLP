@@ -1,0 +1,1 @@
+{"index": 69415, "D": "a proposition that is incidentally proved in proving another proposition.", "S": ["analogy ", "upshot "], "A": ["beginning ", "cause ", "commencement ", "foundation ", "opening ", "origin ", "source ", "start "]}

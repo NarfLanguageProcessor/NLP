@@ -1,0 +1,1 @@
+{"index": 312977, "D": "the use in inflection or derivation of an allomorph that is not related in form to the primary allomorph of a morpheme, as the use of better as the comparative of good.", "S": [], "A": []}

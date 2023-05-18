@@ -1,0 +1,1 @@
+{"index": 29988, "D": "to impress forcefully, especially so as to make oblivious to faults or shortcomings", "S": ["beam ", "blaze ", "burst ", "flame ", "flare ", "glare ", "gleam ", "glimmer ", "glint ", "glitter ", "glow ", "radiation ", "ray ", "reflection ", "spark ", "sparkle ", "vision "], "A": ["dullness ", "darkness "]}

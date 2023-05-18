@@ -1,0 +1,1 @@
+{"index": 72434, "D": "the act of producing or causing to exist; the act of creating;  engendering.", "S": ["establishment ", "formation ", "formulation ", "production "], "A": ["being ", "conclusion ", "end ", "finish "]}

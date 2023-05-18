@@ -1,0 +1,1 @@
+{"index": 154309, "D": "inviolate; undefiled; unsullied; pure.", "S": [], "A": []}

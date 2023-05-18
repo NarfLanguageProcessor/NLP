@@ -1,0 +1,1 @@
+{"index": 334001, "D": "extreme devotion to or advocacy of the interests of a nation, especially regardless of the effect on any other nations.", "S": [], "A": []}

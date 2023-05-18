@@ -1,0 +1,1 @@
+{"index": 71562, "D": "any of various bryony plants, esp the white bryony", "S": [], "A": []}

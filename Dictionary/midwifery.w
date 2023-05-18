@@ -1,0 +1,1 @@
+{"index": 186860, "D": "the technique or practice of a midwife. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73290, "D": "a plant that forms its reproductive structures, as corms or bulbs, underground or underwater.", "S": [], "A": []}

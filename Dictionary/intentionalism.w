@@ -1,0 +1,1 @@
+{"index": 154395, "D": "(in literary criticism) an assertion that the intended meaning of the author is not the only or most important meaning; a fallacy involving an assessment of a literary work based on the author's intended meaning rather than on actual response to the work.", "S": [], "A": []}

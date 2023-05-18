@@ -1,0 +1,1 @@
+{"index": 201100, "D": "compulsively committed or helplessly drawn to a practice or habit or to something psychologically or physically habit-forming (often used in combination)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196384, "D": "a person or thing that muzzles. ", "S": [], "A": []}

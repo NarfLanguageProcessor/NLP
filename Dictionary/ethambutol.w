@@ -1,0 +1,1 @@
+{"index": 104863, "D": "an antimicrobial substance, C10H24N2O2, active against susceptible bacteria of the genus Mycobacterium, in the treatment, in combination with other drugs, of tuberculosis.", "S": [], "A": []}

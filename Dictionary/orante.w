@@ -1,0 +1,1 @@
+{"index": 213983, "D": "a representation of a female figure, with outstretched arms and palms up in a gesture of prayer, in ancient and early Christian art.", "S": [], "A": []}

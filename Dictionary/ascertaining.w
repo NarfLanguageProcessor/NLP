@@ -1,0 +1,1 @@
+{"index": 20947, "D": "to find out definitely; learn with certainty or assurance; determine", "S": ["confirm ", "determine ", "divine ", "double-check ", "find out ", "verify "], "A": ["disprove ", "invalidate ", "aid ", "assist ", "confuse ", "destroy ", "help ", "ignore ", "look away ", "miss ", "misunderstand ", "neglect ", "overlook ", "unsettle "]}

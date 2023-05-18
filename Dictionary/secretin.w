@@ -1,0 +1,1 @@
+{"index": 282809, "D": "a polypeptide hormone, produced in the small intestine, that activates the pancreas to secrete  pancreatic juice.", "S": [], "A": []}

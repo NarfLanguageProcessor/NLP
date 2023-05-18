@@ -1,0 +1,1 @@
+{"index": 275703, "D": "stunted; dwarfish", "S": [], "A": []}

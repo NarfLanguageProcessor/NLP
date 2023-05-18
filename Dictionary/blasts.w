@@ -1,0 +1,1 @@
+{"index": 35858, "D": "a sudden and violent gust of wind", "S": ["blow ", "burst ", "roar "], "A": ["quiet ", "stillness "]}

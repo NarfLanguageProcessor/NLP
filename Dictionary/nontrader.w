@@ -1,0 +1,1 @@
+{"index": 207946, "D": "a person who trades;  a merchant or businessperson.", "S": [], "A": []}

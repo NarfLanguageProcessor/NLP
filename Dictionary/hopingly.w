@@ -1,0 +1,1 @@
+{"index": 143692, "D": "the feeling that what is wanted can be had or that events will turn out for the best", "S": [], "A": []}

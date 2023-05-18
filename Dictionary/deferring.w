@@ -1,0 +1,1 @@
+{"index": 79243, "D": "to put off (action, consideration, etc.) to a future time", "S": ["deferment ", "deferral ", "delay ", "delaying ", "putting off "], "A": []}

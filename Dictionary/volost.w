@@ -1,0 +1,1 @@
+{"index": 361153, "D": "(formerly) a small administrative peasant division in Russia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149554, "D": "of or relating to an inauguration", "S": ["inauguration "], "A": ["completion ", "conclusion ", "end ", "ending ", "expulsion ", "finish "]}

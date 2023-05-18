@@ -1,0 +1,1 @@
+{"index": 38261, "D": "bootleg. ", "S": ["contraband ", "illicit ", "pirated ", "smuggled ", "unauthorized "], "A": ["legal ", "permitted "]}

@@ -1,0 +1,1 @@
+{"index": 24465, "D": "infusion of a patient's own blood, either collected and returned to the body during surgery or transfused from a stored supply.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305530, "D": "bulky in figure; heavily built; corpulent; thickset; fat", "S": ["ale ", "brew ", "chill ", "hops ", "lager ", "malt ", "oil ", "stout ", "suds "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353955, "D": "to support as being true, certain, reliable, etc. (usually followed by for)", "S": [], "A": []}

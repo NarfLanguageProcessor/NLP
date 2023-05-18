@@ -1,0 +1,1 @@
+{"index": 202512, "D": "a friendly or agreeable quality", "S": [], "A": []}

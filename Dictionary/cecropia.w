@@ -1,0 +1,1 @@
+{"index": 50353, "D": "a large North American silkworm moth, Hyalophora cecropia, the larvae of which feed on the foliage of forest and other trees.", "S": [], "A": []}

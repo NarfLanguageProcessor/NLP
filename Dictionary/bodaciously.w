@@ -1,0 +1,1 @@
+{"index": 37153, "D": "thorough; blatant; unmistakable", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153590, "D": "close or closer to the shore. ", "S": ["ashore "], "A": []}

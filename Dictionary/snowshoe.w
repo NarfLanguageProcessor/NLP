@@ -1,0 +1,1 @@
+{"index": 295861, "D": "a contrivance that may be attached to the foot to enable the wearer to walk on deep snow  without sinking, especially a light, racket-shaped frame across which is stretched a network of rawhide.", "S": ["footwear "], "A": []}

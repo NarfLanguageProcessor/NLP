@@ -1,0 +1,1 @@
+{"index": 11769, "D": "an uncommon variant of analysis. ", "S": [], "A": []}

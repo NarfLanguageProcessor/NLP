@@ -1,0 +1,1 @@
+{"index": 63081, "D": "a person who talks or engages in conversation with another", "S": [], "A": []}

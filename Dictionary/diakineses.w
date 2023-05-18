@@ -1,0 +1,1 @@
+{"index": 84185, "D": "the last stage in prophase, in which the nucleolus and nuclear envelope disappear, spindle fibers form, and the chromosomes shorten in preparation for anaphase.", "S": [], "A": []}

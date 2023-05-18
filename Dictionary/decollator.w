@@ -1,0 +1,1 @@
+{"index": 78557, "D": "to behead; decapitate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 329043, "D": "a structural system composed of trestles. ", "S": [], "A": []}

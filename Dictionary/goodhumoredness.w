@@ -1,0 +1,1 @@
+{"index": 127884, "D": "having or showing a pleasant, amiable mood", "S": [], "A": []}

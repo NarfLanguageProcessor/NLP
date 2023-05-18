@@ -1,0 +1,1 @@
+{"index": 42365, "D": "to construct (especially something complex) by assembling and joining parts or materials", "S": ["frame ", "physique "], "A": ["mind "]}

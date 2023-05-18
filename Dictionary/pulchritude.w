@@ -1,0 +1,1 @@
+{"index": 256205, "D": "physical beauty; comeliness. ", "S": ["adorableness ", "allure ", "allurement ", "attraction ", "elegance ", "exquisiteness ", "glamor ", "handsomeness ", "loveliness ", "prettiness ", "shapeliness "], "A": []}

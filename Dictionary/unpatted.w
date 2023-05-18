@@ -1,0 +1,1 @@
+{"index": 347564, "D": "to strike lightly or gently with something flat, as with a paddle or the palm of the hand, usually in order to flatten, smooth, or shape", "S": [], "A": []}

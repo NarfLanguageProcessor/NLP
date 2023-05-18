@@ -1,0 +1,1 @@
+{"index": 311515, "D": "to charge  with an abundant or excessive amount, as of energy, emotion, or tension.", "S": [], "A": []}

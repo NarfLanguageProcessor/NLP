@@ -1,0 +1,1 @@
+{"index": 7552, "D": "of, containing, or resembling albumen.", "S": [], "A": []}

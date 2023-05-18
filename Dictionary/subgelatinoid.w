@@ -1,0 +1,1 @@
+{"index": 308055, "D": "resembling gelatin;  gelatinous.", "S": [], "A": []}

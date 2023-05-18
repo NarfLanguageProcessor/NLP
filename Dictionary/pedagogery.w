@@ -1,0 +1,1 @@
+{"index": 228724, "D": "a teacher; schoolteacher.", "S": ["bookishness ", "dogmatism ", "exactness ", "meticulousness ", "precision ", "pretension "], "A": ["imprecision ", "inaccuracy ", "inexactness "]}

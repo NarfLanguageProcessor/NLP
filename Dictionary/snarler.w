@@ -1,0 +1,1 @@
+{"index": 295345, "D": "an animal or a person that snarls", "S": [], "A": []}

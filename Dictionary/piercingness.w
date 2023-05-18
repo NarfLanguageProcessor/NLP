@@ -1,0 +1,1 @@
+{"index": 236255, "D": "loud or shrill, as the quality of a voice.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273736, "D": "made of or fitted with rods. ", "S": [], "A": []}

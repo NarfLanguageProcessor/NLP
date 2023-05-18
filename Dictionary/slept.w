@@ -1,0 +1,1 @@
+{"index": 293978, "D": "simple past tense and past participle of sleep. ", "S": ["bed down ", "doze ", "fall asleep ", "languish ", "relax ", "snooze "], "A": ["grow ", "energize "]}

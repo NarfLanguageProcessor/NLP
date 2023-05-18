@@ -1,0 +1,1 @@
+{"index": 184467, "D": "a thin, soft silk with a twill or satin weave.", "S": [], "A": []}

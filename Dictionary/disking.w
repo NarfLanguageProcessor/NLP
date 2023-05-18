@@ -1,0 +1,1 @@
+{"index": 88543, "D": "any thin, flat, circular plate or object.", "S": [], "A": []}

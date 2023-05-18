@@ -1,0 +1,1 @@
+{"index": 102522, "D": "to remove (hair) from by means of physical, chemical, or radiological agents; depilate.", "S": [], "A": []}

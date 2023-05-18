@@ -1,0 +1,1 @@
+{"index": 304223, "D": "strength; excessive vital force.", "S": [], "A": []}

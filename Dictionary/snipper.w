@@ -1,0 +1,1 @@
+{"index": 295574, "D": "a hairdresser", "S": ["clippers ", "nippers ", "scissors ", "snips "], "A": []}

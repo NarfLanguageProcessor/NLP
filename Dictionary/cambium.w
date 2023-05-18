@@ -1,0 +1,1 @@
+{"index": 45607, "D": "a layer of delicate meristematic tissue between the inner bark or phloem and the wood or xylem, which produces new phloem on the outside and new xylem on the inside in stems, roots, etc., originating all secondary growth in plants and forming the annual rings of wood.", "S": [], "A": []}

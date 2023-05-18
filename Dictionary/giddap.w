@@ -1,0 +1,1 @@
+{"index": 124716, "D": "an exclamation used to make a horse go faster", "S": [], "A": []}

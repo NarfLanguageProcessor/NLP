@@ -1,0 +1,1 @@
+{"index": 176047, "D": "a short, straight, wool plaid jacket or coat, for informal wear, usually belted and having patch pockets.", "S": [], "A": []}

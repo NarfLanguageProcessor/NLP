@@ -1,0 +1,1 @@
+{"index": 293318, "D": "to move in a light, springy manner by bounding forward with alternate hops on each foot.", "S": [], "A": []}

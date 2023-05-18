@@ -1,0 +1,1 @@
+{"index": 96200, "D": "a plant, Solanum melongena esculentum, of the nightshade family, cultivated for its edible, dark-purple or occasionally white or yellow fruit.", "S": [], "A": []}

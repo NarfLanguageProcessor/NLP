@@ -1,0 +1,1 @@
+{"index": 206452, "D": "without definite aim, reason, sense, or pattern", "S": [], "A": []}

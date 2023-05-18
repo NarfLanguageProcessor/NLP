@@ -1,0 +1,1 @@
+{"index": 110227, "D": "having too much flabby tissue; corpulent; obese", "S": ["big ", "bulging ", "bulky ", "chunky ", "heavy ", "hefty ", "inflated ", "large ", "meaty ", "obese ", "plump ", "well-fed "], "A": ["skinny ", "slight ", "thin "]}

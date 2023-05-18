@@ -1,0 +1,1 @@
+{"index": 137582, "D": "alternation of generations, especially the alternation of parthenogenetic and sexual generations.", "S": [], "A": []}

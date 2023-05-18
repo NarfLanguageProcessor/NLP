@@ -1,0 +1,1 @@
+{"index": 89696, "D": "the extent or amount of space between two things, points, lines, etc.", "S": ["break ", "disconnection ", "disengagement ", "disjunction ", "disunion ", "division ", "divorce ", "isolation ", "segregation ", "severance "], "A": ["juncture "]}

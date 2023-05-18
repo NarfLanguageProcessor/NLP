@@ -1,0 +1,1 @@
+{"index": 69691, "D": "capable of being corrected or reformed", "S": [], "A": []}

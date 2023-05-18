@@ -1,0 +1,1 @@
+{"index": 313644, "D": "to take a general or comprehensive view of or appraise, as a situation, area of study, etc.", "S": ["perceptible ", "quantitative ", "significant "], "A": ["imperceptible ", "insignificant ", "unmeasurable "]}

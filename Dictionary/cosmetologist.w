@@ -1,0 +1,1 @@
+{"index": 70018, "D": "a person skilled or trained in the use of cosmetics and beauty treatments", "S": ["beautician ", "coiffeur ", "coiffeuse ", "hairdresser ", "shaver "], "A": []}

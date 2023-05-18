@@ -1,0 +1,1 @@
+{"index": 14300, "D": "a tipping forward of an organ, as the uterus.", "S": [], "A": []}

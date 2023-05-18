@@ -1,0 +1,1 @@
+{"index": 258253, "D": "a silvery and bluish drum, Seriphus politus, inhabiting shallow waters along the coast of California.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104746, "D": "of or relating to the family Estrildidae, comprising the grass finches, waxbills, mannikins, and other small finches.", "S": [], "A": []}

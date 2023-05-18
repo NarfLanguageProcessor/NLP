@@ -1,0 +1,1 @@
+{"index": 266734, "D": "able to be connected or linked", "S": ["engaging "], "A": ["hostile ", "incomprehensible ", "adverse ", "veiled "]}

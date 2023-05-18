@@ -1,0 +1,1 @@
+{"index": 137156, "D": "made airtight by fusion or sealing.", "S": ["completely sealed ", "impervious ", "sealed ", "shut ", "tight ", "waterproof ", "watertight "], "A": []}

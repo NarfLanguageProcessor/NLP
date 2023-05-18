@@ -1,0 +1,1 @@
+{"index": 57903, "D": "early church father, bishop, and martyr.", "S": ["debauchee ", "lecher ", "profligate ", "rake ", "satyr ", "sensualist ", "voluptuary "], "A": ["puritan "]}

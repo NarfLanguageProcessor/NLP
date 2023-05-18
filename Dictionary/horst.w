@@ -1,0 +1,1 @@
+{"index": 144103, "D": "a portion of the earth's crust, bounded on at least two sides by faults, that has risen in relation to adjacent portions.", "S": [], "A": []}

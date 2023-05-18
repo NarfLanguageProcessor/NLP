@@ -1,0 +1,1 @@
+{"index": 347211, "D": "having been invested with ministerial, priestly, or rabbinical functions", "S": [], "A": []}

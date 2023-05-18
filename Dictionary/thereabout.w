@@ -1,0 +1,1 @@
+{"index": 321214, "D": "about or near that place or time", "S": ["almost ", "approximately ", "around ", "close at hand ", "in the neighborhood ", "in the vicinity ", "just about ", "near ", "nearby ", "nearly ", "roughly "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73887, "D": "a wind blowing across the course or path of a ship, aircraft, etc.", "S": [], "A": []}

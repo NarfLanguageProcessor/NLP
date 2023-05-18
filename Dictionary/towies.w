@@ -1,0 +1,1 @@
+{"index": 326779, "D": "a form of contract bridge for three players in which the players bid for the dummy hand after six of its cards have been turned up.", "S": [], "A": []}

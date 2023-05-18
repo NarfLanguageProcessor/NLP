@@ -1,0 +1,1 @@
+{"index": 149097, "D": "an advance of money; loan. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 219455, "D": "the quality or state of being frail. ", "S": [], "A": []}

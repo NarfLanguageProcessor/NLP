@@ -1,0 +1,1 @@
+{"index": 289922, "D": "a granular igneous rock consisting chiefly of orthoclase and oligoclase with hornblende, biotite, or augite.", "S": [], "A": []}

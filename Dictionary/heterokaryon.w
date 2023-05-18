@@ -1,0 +1,1 @@
+{"index": 137614, "D": "a cell containing two or more nuclei of differing genetic constitutions.", "S": [], "A": []}

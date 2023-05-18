@@ -1,0 +1,1 @@
+{"index": 132589, "D": "any of several marine fishes of the family Hemiramphidae, having a greatly elongated lower jaw.", "S": [], "A": []}

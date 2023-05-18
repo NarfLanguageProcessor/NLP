@@ -1,0 +1,1 @@
+{"index": 309187, "D": "to furnish or aid with a subsidy. ", "S": ["beginning ", "building ", "chartering ", "constituting ", "endowing ", "fixing ", "founding ", "implementing ", "initiating ", "instituting ", "organizing ", "originating ", "regulating ", "settling ", "stabilizing ", "starting "], "A": ["dissolving ", "ending ", "tearing down "]}

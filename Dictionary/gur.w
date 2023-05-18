@@ -1,0 +1,1 @@
+{"index": 131464, "D": "a branch of the Niger-Congo subfamily of languages, including Mossi and other languages spoken in Burkina Faso, Ghana, Togo, Ivory Coast, and Mali.", "S": [], "A": []}

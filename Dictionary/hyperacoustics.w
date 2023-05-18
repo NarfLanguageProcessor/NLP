@@ -1,0 +1,1 @@
+{"index": 139832, "D": "the branch of physics that deals with sound and sound waves.", "S": [], "A": []}

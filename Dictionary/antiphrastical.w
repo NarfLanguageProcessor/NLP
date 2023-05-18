@@ -1,0 +1,1 @@
+{"index": 15875, "D": "the use of a word in a sense opposite to its proper meaning.", "S": [], "A": []}

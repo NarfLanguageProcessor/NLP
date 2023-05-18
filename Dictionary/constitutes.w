@@ -1,0 +1,1 @@
+{"index": 67047, "D": "to compose; form", "S": ["create ", "establish "], "A": ["destroy ", "ruin ", "break ", "disarrange ", "disperse ", "divide ", "end ", "exclude ", "fail ", "forget ", "halt ", "ignore ", "neglect ", "prevent ", "raze ", "refuse ", "separate ", "stop ", "veto "]}

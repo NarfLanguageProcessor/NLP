@@ -1,0 +1,1 @@
+{"index": 293110, "D": "the sport of jumping from an airplane at a moderate or high altitude and free-falling and using one's body to control direction or movements before opening one's parachute.", "S": [], "A": []}

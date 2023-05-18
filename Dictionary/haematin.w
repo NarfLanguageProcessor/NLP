@@ -1,0 +1,1 @@
+{"index": 132004, "D": "a dark bluish or brownish pigment containing iron in the ferric state, obtained by the oxidation of haem", "S": [], "A": []}

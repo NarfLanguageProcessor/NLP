@@ -1,0 +1,1 @@
+{"index": 308655, "D": "not quick or alert in perception, feeling, or intellect; not sensitive or observant; dull.", "S": [], "A": []}

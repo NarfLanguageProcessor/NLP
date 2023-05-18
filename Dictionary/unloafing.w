@@ -1,0 +1,1 @@
+{"index": 345720, "D": "a portion of bread or cake baked in a shaped or molded mass, usually oblong with a rounded top", "S": [], "A": []}

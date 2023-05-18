@@ -1,0 +1,1 @@
+{"index": 275187, "D": "a red variety of corundum,  used as a gem.", "S": ["blooming ", "blowsy ", "bronzed ", "crimson ", "florid ", "flush ", "flushed ", "fresh ", "full-blooded ", "glowing ", "healthy ", "pink ", "red ", "red-complexioned ", "reddish ", "roseate ", "rosy ", "rubicund ", "ruby ", "sanguine ", "scarlet "], "A": ["pale "]}

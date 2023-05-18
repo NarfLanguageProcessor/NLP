@@ -1,0 +1,1 @@
+{"index": 42549, "D": "(of vehicles, glass, clothing, etc.) capable of resisting or absorbing the impact of a bullet. ", "S": [], "A": []}

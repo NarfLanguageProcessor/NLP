@@ -1,0 +1,1 @@
+{"index": 26799, "D": "having little or no hair on the scalp", "S": ["bareness ", "economy ", "plainness ", "primitiveness ", "rusticism ", "severity ", "simplicity ", "spareness ", "starkness "], "A": ["blandness ", "calmness ", "elaborateness ", "extravagance ", "gentility ", "indulgence ", "luxuriousness ", "meekness ", "mildness ", "spending "]}

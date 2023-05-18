@@ -1,0 +1,1 @@
+{"index": 154208, "D": "an art or technique of decorating a surface with inlaid patterns, especially of wood mosaic, developed during the Renaissance.", "S": [], "A": []}

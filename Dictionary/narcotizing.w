@@ -1,0 +1,1 @@
+{"index": 196993, "D": "to subject to or treat with a narcotic;  stupefy.", "S": ["anesthetize ", "benumb ", "blunt ", "deaden ", "desensitize ", "dope ", "dose ", "fix ", "hit ", "medicate ", "numb ", "poison ", "relax ", "sedate ", "stupefy ", "treat "], "A": ["enliven ", "ignore ", "increase ", "neglect "]}

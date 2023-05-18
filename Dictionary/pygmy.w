@@ -1,0 +1,1 @@
+{"index": 236430, "D": "a Negrito of southeastern Asia, or of the Andaman or Philippine islands.", "S": ["Lilliputian ", "bantam ", "homunculus ", "manikin ", "peewee ", "pigmy ", "runt ", "shrimp "], "A": ["giant "]}

@@ -1,0 +1,1 @@
+{"index": 187382, "D": "a unit of capacity equal to one thousandth of a liter, and equivalent to 0.033815 fluid ounce, or 0.061025 cubic inch. Abbreviation", "S": [], "A": []}

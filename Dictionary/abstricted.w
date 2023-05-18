@@ -1,0 +1,1 @@
+{"index": 1107, "D": "to undergo abstriction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 241724, "D": "having or exhibiting a variety of colors.", "S": [], "A": []}

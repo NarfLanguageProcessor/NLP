@@ -1,0 +1,1 @@
+{"index": 153091, "D": "tending to innovate,  or introduce something new or different; characterized by innovation. ", "S": ["contemporary ", "ingenious ", "inventive ", "new ", "original "], "A": ["old ", "old-fashioned ", "worn "]}

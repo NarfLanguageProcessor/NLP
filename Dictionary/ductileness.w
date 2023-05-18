@@ -1,0 +1,1 @@
+{"index": 93789, "D": "capable of being hammered out thin, as certain metals; malleable. ", "S": ["compliance ", "elasticity ", "flexibleness ", "give ", "malleability ", "plasticity ", "pliability ", "pliancy ", "pliantness ", "resilience ", "resiliency ", "spring ", "springiness ", "tractability ", "tractableness "], "A": []}

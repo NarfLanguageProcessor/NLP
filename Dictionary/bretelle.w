@@ -1,0 +1,1 @@
+{"index": 40460, "D": "one of a pair of ornamental suspenderlike shoulder straps that attach to the waistband at the front and back of a garment.", "S": [], "A": []}

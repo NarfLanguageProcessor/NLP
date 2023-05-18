@@ -1,0 +1,1 @@
+{"index": 100693, "D": "to make vigorous or active; invigorate", "S": ["energizing ", "exciting ", "invigorating ", "rousing ", "stimulating ", "vitalizing ", "vivifying "], "A": ["boring ", "unstimulating "]}

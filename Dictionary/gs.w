@@ -1,0 +1,1 @@
+{"index": 130630, "D": "General Schedule (referring to the Civil Service job classification system).", "S": ["confinement ", "jail ", "lockup ", "penitentiary "], "A": []}

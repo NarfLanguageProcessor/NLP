@@ -1,0 +1,1 @@
+{"index": 125726, "D": "the flat area of bone between the eyebrows, used as a craniometric point.", "S": [], "A": []}

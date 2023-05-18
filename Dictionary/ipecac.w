@@ -1,0 +1,1 @@
+{"index": 157819, "D": "the dried root of a shrubby South American plant, Cephaelis ipecacuanha, of the madder family.", "S": [], "A": []}

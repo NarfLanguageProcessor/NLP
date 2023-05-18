@@ -1,0 +1,1 @@
+{"index": 97794, "D": "somewhere else; in or to some other place", "S": ["abroad ", "away ", "outside ", "somewhere "], "A": []}

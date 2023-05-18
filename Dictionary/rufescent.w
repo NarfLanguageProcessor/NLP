@@ -1,0 +1,1 @@
+{"index": 275351, "D": "somewhat reddish; tinged with red; rufous.", "S": ["cardinal ", "coral ", "crimson ", "flaming ", "glowing ", "maroon ", "rose ", "wine "], "A": []}

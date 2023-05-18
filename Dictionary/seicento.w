@@ -1,0 +1,1 @@
+{"index": 283255, "D": "the 17th century, with reference to the Italian art or literature of that period.", "S": [], "A": []}

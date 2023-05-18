@@ -1,0 +1,1 @@
+{"index": 177552, "D": "causing a magnetic flux", "S": [], "A": []}

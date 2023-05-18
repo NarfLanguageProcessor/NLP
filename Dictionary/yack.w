@@ -1,0 +1,1 @@
+{"index": 145498, "D": "yak2. ", "S": ["blab ", "boast ", "brag ", "chat ", "chatter ", "clash ", "clatter ", "drivel ", "gab ", "gabble ", "jabber ", "prattle ", "talk ", "tongue ", "utter "], "A": ["be quiet ", "deprecate "]}

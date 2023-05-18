@@ -1,0 +1,1 @@
+{"index": 144849, "D": "the study of the nature or affairs of humankind.", "S": [], "A": []}

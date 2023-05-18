@@ -1,0 +1,1 @@
+{"index": 191257, "D": "of or relating to Muhammad or Islam; Islamic; Muslim.", "S": [], "A": []}

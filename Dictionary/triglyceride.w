@@ -1,0 +1,1 @@
+{"index": 329815, "D": "an ester obtained from glycerol by the esterification of three hydroxyl groups with fatty acids, naturally occurring in animal and vegetable tissues", "S": [], "A": []}

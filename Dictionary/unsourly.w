@@ -1,0 +1,1 @@
+{"index": 351644, "D": "having an acid taste, resembling that of vinegar, lemon juice, etc.; tart. ", "S": [], "A": []}

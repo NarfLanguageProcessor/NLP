@@ -1,0 +1,1 @@
+{"index": 1482, "D": "generally approved; usually regarded as normal, right, etc.", "S": [], "A": []}

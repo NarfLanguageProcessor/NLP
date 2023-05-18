@@ -1,0 +1,1 @@
+{"index": 76094, "D": "the style and techniques of a group of artists, writers, etc., of the early 20th century who exploited accidental and incongruous effects in their work and who programmatically challenged established canons of art, thought, morality, etc.", "S": [], "A": []}

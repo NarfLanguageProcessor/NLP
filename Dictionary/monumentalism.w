@@ -1,0 +1,1 @@
+{"index": 192958, "D": "resembling a monument;  massive or imposing.", "S": [], "A": []}

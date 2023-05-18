@@ -1,0 +1,1 @@
+{"index": 314299, "D": "either of a pair of lovers in relation to the other.", "S": ["boyfriend ", "companion ", "darling ", "girlfriend ", "heartthrob ", "lover "], "A": ["enemy ", "foe "]}

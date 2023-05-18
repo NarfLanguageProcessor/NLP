@@ -1,0 +1,1 @@
+{"index": 284258, "D": "(of an apartment, room, or house) available to be rented with furniture", "S": [], "A": []}

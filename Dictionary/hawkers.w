@@ -1,0 +1,1 @@
+{"index": 134468, "D": "a person who hunts with hawks  or other birds of prey.", "S": ["costermonger ", "huckster ", "salesperson ", "seller "], "A": []}

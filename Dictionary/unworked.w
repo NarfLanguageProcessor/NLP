@@ -1,0 +1,1 @@
+{"index": 354357, "D": "that has undergone work. ", "S": ["amateurish ", "coarse ", "harsh ", "homemade ", "makeshift ", "primitive ", "raw ", "rude ", "rudimentary ", "simple ", "unprocessed "], "A": ["refined ", "smooth ", "sophisticated ", "polished "]}

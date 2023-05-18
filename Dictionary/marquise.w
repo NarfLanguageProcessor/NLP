@@ -1,0 +1,1 @@
+{"index": 180317, "D": "the wife or widow of a marquis.", "S": ["archduchess ", "baroness ", "countess ", "duchess ", "empress ", "gentlewoman ", "lady ", "peeress ", "princess ", "queen "], "A": []}

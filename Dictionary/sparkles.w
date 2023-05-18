@@ -1,0 +1,1 @@
+{"index": 298451, "D": "to issue in or as if in little sparks,  as fire or light", "S": ["gleam ", "glimmer ", "glint ", "glitz ", "glow ", "radiance ", "twinkle ", "vitality "], "A": ["dullness ", "reality "]}

@@ -1,0 +1,1 @@
+{"index": 268877, "D": "to have need of; need", "S": ["compelling ", "demanding ", "exacting ", "forcing ", "involving ", "necessitating ", "pressing "], "A": ["trivial "]}

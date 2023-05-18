@@ -1,0 +1,1 @@
+{"index": 321427, "D": "See also Seebeck effect", "S": [], "A": []}

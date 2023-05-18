@@ -1,0 +1,1 @@
+{"index": 359069, "D": "of, relating to, or resembling a vestibule. ", "S": [], "A": []}

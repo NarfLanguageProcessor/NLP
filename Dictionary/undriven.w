@@ -1,0 +1,1 @@
+{"index": 340854, "D": "past participle of drive. ", "S": [], "A": []}

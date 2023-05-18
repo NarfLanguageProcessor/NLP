@@ -1,0 +1,1 @@
+{"index": 10576, "D": "any of a group of enzymes that catalyze the hydrolysis of amino compounds, releasing the amino group and liberating nitrogen.", "S": [], "A": []}

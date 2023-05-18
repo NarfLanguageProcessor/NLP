@@ -1,0 +1,1 @@
+{"index": 227530, "D": "pasture. ", "S": ["farming ", "ranching "], "A": []}

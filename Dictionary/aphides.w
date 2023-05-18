@@ -1,0 +1,1 @@
+{"index": 16831, "D": "an aphid, especially of the genus Aphis.", "S": [], "A": []}

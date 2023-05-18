@@ -1,0 +1,1 @@
+{"index": 285597, "D": "a brown pigment obtained from the inklike secretion of various cuttlefish and used with brush or pen in drawing.", "S": [], "A": []}

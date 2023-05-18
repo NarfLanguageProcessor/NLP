@@ -1,0 +1,1 @@
+{"index": 91275, "D": [], "S": ["break ", "bridle ", "control ", "cultivate ", "master ", "tame "], "A": ["let go "]}

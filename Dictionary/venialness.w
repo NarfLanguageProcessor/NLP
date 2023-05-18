@@ -1,0 +1,1 @@
+{"index": 358087, "D": "able to be forgiven or pardoned; not seriously wrong, as a sin (opposed to mortal).", "S": [], "A": []}

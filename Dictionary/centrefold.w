@@ -1,0 +1,1 @@
+{"index": 50958, "D": "a large coloured illustration folded so that it forms the central spread of a magazine", "S": [], "A": []}

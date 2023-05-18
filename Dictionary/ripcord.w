@@ -1,0 +1,1 @@
+{"index": 273142, "D": "a cord on a parachute that, when pulled, opens the parachute for descent.", "S": [], "A": []}

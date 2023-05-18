@@ -1,0 +1,1 @@
+{"index": 124029, "D": "a native or inhabitant of Newcastle-upon-Tyne, England, or the surrounding region.", "S": [], "A": []}

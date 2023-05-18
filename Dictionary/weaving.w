@@ -1,0 +1,1 @@
+{"index": 363649, "D": "to interlace (threads, yarns, strips, fibrous material, etc.) so as to form a fabric or material.", "S": ["capricious ", "erratic ", "intermittent ", "jerky ", "sporadic ", "uneven ", "unreliable "], "A": ["constant ", "continuous ", "dependable ", "regular ", "reliable ", "smooth ", "steady ", "normal "]}

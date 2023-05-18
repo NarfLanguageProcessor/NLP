@@ -1,0 +1,1 @@
+{"index": 142863, "D": "a person's birthplace or family home. ", "S": [], "A": []}

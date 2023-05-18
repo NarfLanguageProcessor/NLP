@@ -1,0 +1,1 @@
+{"index": 327239, "D": "the various technologies and practices used in espionage and in the analysis of the resulting intelligence", "S": [], "A": []}

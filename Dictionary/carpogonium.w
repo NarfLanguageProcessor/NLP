@@ -1,0 +1,1 @@
+{"index": 48433, "D": "the one-celled female sex organ of some red algae, that, when fertilized, gives rise to the carpospores.", "S": [], "A": []}

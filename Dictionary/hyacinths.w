@@ -1,0 +1,1 @@
+{"index": 138136, "D": "a bulbous plant, Hyacinthus orientalis, of the lily family, widely cultivated for its cylindrical cluster of fragrant flowers in a variety of colors.", "S": [], "A": []}

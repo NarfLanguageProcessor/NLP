@@ -1,0 +1,1 @@
+{"index": 366358, "D": "a photograph so transmitted.", "S": ["Telephoto ", "Wirephoto ", "facsimile ", "facsimile machine ", "telefacsimile ", "telefax ", "telephotograph machine "], "A": []}

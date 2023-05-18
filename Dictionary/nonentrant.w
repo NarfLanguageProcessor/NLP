@@ -1,0 +1,1 @@
+{"index": 203545, "D": "a competitor in a contest.", "S": [], "A": []}

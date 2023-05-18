@@ -1,0 +1,1 @@
+{"index": 124154, "D": "a ruler or manager.", "S": ["emperor ", "monarch ", "sultan "], "A": []}

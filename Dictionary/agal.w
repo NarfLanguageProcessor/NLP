@@ -1,0 +1,1 @@
+{"index": 5834, "D": "(among Arabs) a cord wound around a kaffiyeh to hold it in place.", "S": [], "A": []}

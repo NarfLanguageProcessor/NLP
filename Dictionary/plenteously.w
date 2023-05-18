@@ -1,0 +1,1 @@
+{"index": 239818, "D": "plentiful;  copious; abundant", "S": ["abundantly ", "adequately ", "extensively ", "generously ", "lavishly ", "liberally ", "properly ", "richly "], "A": ["illiberal ", "inadequately ", "insufficiently "]}

@@ -1,0 +1,1 @@
+{"index": 132977, "D": "exhibiting the characteristics of or influenced by speakers of Hamitic.", "S": [], "A": []}

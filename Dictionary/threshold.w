@@ -1,0 +1,1 @@
+{"index": 322657, "D": "the sill of a doorway.", "S": ["brink ", "verge "], "A": ["middle ", "completion ", "conclusion ", "death ", "disadvantage ", "end ", "ending ", "finish "]}

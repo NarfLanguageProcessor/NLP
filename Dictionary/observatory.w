@@ -1,0 +1,1 @@
+{"index": 210397, "D": "a place or building equipped and used for making observations  of astronomical, meteorological, or other natural phenomena, especially a place equipped with a powerful telescope for observing  the planets and stars.", "S": ["lookout ", "tower "], "A": []}

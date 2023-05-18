@@ -1,0 +1,1 @@
+{"index": 119746, "D": "to have sexual intercourse  with.", "S": ["lay ", "screw ", "shag "], "A": ["abstain "]}

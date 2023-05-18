@@ -1,0 +1,1 @@
+{"index": 269819, "D": "to begin to grow; shoot forth, as a plant from a seed.", "S": [], "A": []}

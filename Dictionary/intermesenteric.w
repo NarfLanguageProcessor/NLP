@@ -1,0 +1,1 @@
+{"index": 155347, "D": "an organ that, as a double fold of peritoneum, loops around the pancreas and the intestines, holding them securely to the abdominal wall.", "S": [], "A": []}

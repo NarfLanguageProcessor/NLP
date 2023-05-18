@@ -1,0 +1,1 @@
+{"index": 236997, "D": "a place in which pineapples are grown.", "S": [], "A": []}

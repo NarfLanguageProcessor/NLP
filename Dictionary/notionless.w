@@ -1,0 +1,1 @@
+{"index": 208959, "D": "a general understanding; vague or imperfect conception or idea of something", "S": [], "A": []}

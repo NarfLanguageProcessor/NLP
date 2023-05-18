@@ -1,0 +1,1 @@
+{"index": 355093, "D": "the part of a state  that is farther north or farther from the chief city, especially the northerly part of New York State.", "S": [], "A": []}

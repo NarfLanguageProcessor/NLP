@@ -1,0 +1,1 @@
+{"index": 142392, "D": "a container for holding  odds and ends.", "S": ["backpack ", "briefcase ", "gear ", "handbag ", "kit ", "pack ", "packet ", "pocket ", "pouch ", "purse ", "sack ", "suitcase "], "A": []}

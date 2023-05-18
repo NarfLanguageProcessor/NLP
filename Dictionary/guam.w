@@ -1,0 +1,1 @@
+{"index": 130695, "D": "an island, belonging to the United States, in the northern Pacific, east of the Philippines", "S": [], "A": []}

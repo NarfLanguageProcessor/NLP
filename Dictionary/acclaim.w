@@ -1,0 +1,1 @@
+{"index": 1579, "D": "to welcome or salute with shouts or sounds of joy and approval; applaud", "S": ["acclamation ", "applause ", "commendation ", "kudos ", "praise ", "rave ", "recognition "], "A": ["blame ", "censure ", "criticism ", "disapproval ", "condemnation ", "debasement ", "denunciation ", "humiliation "]}

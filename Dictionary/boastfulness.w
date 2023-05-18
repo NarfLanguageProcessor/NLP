@@ -1,0 +1,1 @@
+{"index": 36974, "D": "given to or characterized by boasting. ", "S": ["bombast ", "brag ", "bragging ", "gasconade ", "rodomontade ", "vaunt "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312297, "D": "the quality, fact, or result of being negligent; neglect", "S": [], "A": []}

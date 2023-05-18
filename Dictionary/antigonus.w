@@ -1,0 +1,1 @@
+{"index": 15316, "D": "Macedonian general under Alexander the Great.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 296601, "D": "being the only one; only", "S": [], "A": []}

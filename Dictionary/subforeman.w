@@ -1,0 +1,1 @@
+{"index": 308012, "D": "a person in charge of a particular department, group of workers, etc., as in a factory or the like.", "S": [], "A": []}

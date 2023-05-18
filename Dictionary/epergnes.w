@@ -1,0 +1,1 @@
+{"index": 102085, "D": "an ornamental piece for the center of a table, for holding fruit, flowers, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78354, "D": "to reduce to a decimal system. ", "S": [], "A": []}

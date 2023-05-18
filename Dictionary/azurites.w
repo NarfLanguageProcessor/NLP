@@ -1,0 +1,1 @@
+{"index": 25414, "D": "a blue mineral, a hydrous copper carbonate, Cu3(CO3)2(OH)2", "S": [], "A": []}

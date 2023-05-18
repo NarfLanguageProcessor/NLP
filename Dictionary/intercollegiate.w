@@ -1,0 +1,1 @@
+{"index": 154662, "D": "taking place between or participating in activities between different colleges", "S": [], "A": []}

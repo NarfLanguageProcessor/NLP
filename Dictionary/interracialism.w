@@ -1,0 +1,1 @@
+{"index": 155745, "D": "action or policy for establishing equality and cooperation between different racial groups.", "S": [], "A": []}

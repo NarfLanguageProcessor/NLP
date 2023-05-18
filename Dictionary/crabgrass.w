@@ -1,0 +1,1 @@
+{"index": 71796, "D": "an annual grass, Digitaria sanguinalis, common in cultivated and waste grounds and often occurring as a pest weed in lawns.", "S": [], "A": []}

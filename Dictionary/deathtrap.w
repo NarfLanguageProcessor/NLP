@@ -1,0 +1,1 @@
+{"index": 77668, "D": "a structure, place, or situation where there is imminent risk of death", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4712, "D": "of, giving, or containing advice", "S": ["bulletin ", "notice ", "proclamation ", "warning "], "A": ["quiet "]}

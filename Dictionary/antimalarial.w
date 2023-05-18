@@ -1,0 +1,1 @@
+{"index": 15494, "D": "of or relating to a substance that is used in the treatment or prevention of malaria.", "S": [], "A": []}

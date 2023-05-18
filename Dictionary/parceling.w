@@ -1,0 +1,1 @@
+{"index": 226245, "D": "the act of separating or dividing into parts and distributing; allotting or apportioning.", "S": ["distribution "], "A": ["attachment ", "combination ", "connection ", "union "]}

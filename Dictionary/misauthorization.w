@@ -1,0 +1,1 @@
+{"index": 188746, "D": "the act of authorizing. ", "S": [], "A": []}

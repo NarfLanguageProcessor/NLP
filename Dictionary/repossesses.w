@@ -1,0 +1,1 @@
+{"index": 268418, "D": "to regain ownership of; to take back, especially for failure to make due payment", "S": ["retake "], "A": []}

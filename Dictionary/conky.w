@@ -1,0 +1,1 @@
+{"index": 66469, "D": "to hit or strike on the head.", "S": [], "A": []}

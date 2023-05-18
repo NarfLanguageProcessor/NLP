@@ -1,0 +1,1 @@
+{"index": 135583, "D": "a plant that grows best in full sunlight.", "S": [], "A": []}

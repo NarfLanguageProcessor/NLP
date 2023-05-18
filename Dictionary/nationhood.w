@@ -1,0 +1,1 @@
+{"index": 197279, "D": "the state or quality of having status as a separate and independent nation", "S": [], "A": []}

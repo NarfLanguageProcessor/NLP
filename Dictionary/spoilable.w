@@ -1,0 +1,1 @@
+{"index": 300638, "D": "to damage severely or harm (something), especially with reference to its excellence, value, usefulness, etc.", "S": [], "A": []}

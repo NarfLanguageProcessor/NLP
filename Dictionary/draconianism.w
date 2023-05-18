@@ -1,0 +1,1 @@
+{"index": 92465, "D": "of, relating to, or characteristic of the Athenian statesman Draco,  or his severe code of laws.", "S": [], "A": []}

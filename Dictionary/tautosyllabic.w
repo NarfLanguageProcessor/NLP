@@ -1,0 +1,1 @@
+{"index": 317188, "D": "occurring within the same syllable", "S": [], "A": []}

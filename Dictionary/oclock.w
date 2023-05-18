@@ -1,0 +1,1 @@
+{"index": 210894, "D": "of, by, or according to the clock  (used in specifying the hour of the day)", "S": [], "A": []}

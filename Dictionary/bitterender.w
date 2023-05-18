@@ -1,0 +1,1 @@
+{"index": 35244, "D": "a person who persists until the bitter end  without compromising or yielding; diehard.", "S": ["fanatic ", "fundamentalist ", "zealot "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19437, "D": "any of the numerous ticks of the family Argasidae, comprising the soft ticks.", "S": [], "A": []}

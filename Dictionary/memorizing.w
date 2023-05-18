@@ -1,0 +1,1 @@
+{"index": 183216, "D": "to commit to memory;  learn by heart", "S": ["learning ", "memory ", "repetition ", "routine ", "system "], "A": ["ignorance "]}

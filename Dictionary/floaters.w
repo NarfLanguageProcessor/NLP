@@ -1,0 +1,1 @@
+{"index": 114806, "D": [], "S": ["allowance ", "credit ", "investment ", "mortgage "], "A": []}

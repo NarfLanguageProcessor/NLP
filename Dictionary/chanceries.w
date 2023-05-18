@@ -1,0 +1,1 @@
+{"index": 52415, "D": "the office or department of a chancellor; chancellery.", "S": [], "A": []}

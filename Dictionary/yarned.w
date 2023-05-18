@@ -1,0 +1,1 @@
+{"index": 145773, "D": "thread made of natural or synthetic fibers and used for knitting and weaving.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156859, "D": "to thrust or bring in without invitation, permission, or welcome.", "S": ["encroach ", "infringe ", "interfere ", "invade ", "meddle "], "A": ["erase ", "please ", "subtract "]}

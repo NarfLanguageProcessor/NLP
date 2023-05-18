@@ -1,0 +1,1 @@
+{"index": 357645, "D": "a small naval launch used for scouting.", "S": [], "A": []}

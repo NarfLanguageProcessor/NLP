@@ -1,0 +1,1 @@
+{"index": 256034, "D": "modesty; bashfulness; shamefacedness.", "S": ["confusion ", "contempt ", "guilt ", "humiliation ", "irritation ", "remorse ", "scandal ", "stigma "], "A": ["approval ", "esteem ", "honor ", "meanness ", "praise ", "respect "]}

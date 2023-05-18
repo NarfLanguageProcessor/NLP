@@ -1,0 +1,1 @@
+{"index": 179010, "D": "a person who gives a mandate. ", "S": [], "A": []}

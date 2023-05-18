@@ -1,0 +1,1 @@
+{"index": 198120, "D": "an aversion or hostility to, disdain for, or fear of Black people.", "S": [], "A": []}

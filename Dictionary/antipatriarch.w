@@ -1,0 +1,1 @@
+{"index": 15805, "D": "the male head of a family or tribal line.", "S": [], "A": []}

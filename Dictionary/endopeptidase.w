@@ -1,0 +1,1 @@
+{"index": 99869, "D": "an enzyme that catalyzes the cleavage of a polypeptide or protein at interior positions of the amino acid chain.", "S": [], "A": []}

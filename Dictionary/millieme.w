@@ -1,0 +1,1 @@
+{"index": 187360, "D": "a cupronickel coin of Egypt and Sudan, the 1000th part of a pound or the 10th part of a piaster.", "S": [], "A": []}

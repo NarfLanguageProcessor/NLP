@@ -1,0 +1,1 @@
+{"index": 76744, "D": "(in medieval England) an additional tax on land believed to have been levied originally as a tribute to the Danish invaders but later continued for other purposes.", "S": [], "A": []}

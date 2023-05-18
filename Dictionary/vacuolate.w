@@ -1,0 +1,1 @@
+{"index": 356428, "D": "having a vacuole  or vacuoles.", "S": [], "A": []}

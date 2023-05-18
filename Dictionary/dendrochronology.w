@@ -1,0 +1,1 @@
+{"index": 81040, "D": "the science dealing with the study of the annual rings of trees in determining the dates and chronological order of past events.", "S": ["carbon-14 dating ", "dating ", "radioactive carbon dating ", "radiocarbon dating "], "A": []}

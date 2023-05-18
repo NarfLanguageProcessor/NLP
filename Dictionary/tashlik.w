@@ -1,0 +1,1 @@
+{"index": 316871, "D": "a Jewish rite, performed on the afternoon usually of the first day of Rosh Hashanah, in which the participants symbolically cast off their sins by gathering along the banks of a river, stream, or the like and reciting prayers of repentance.", "S": [], "A": []}

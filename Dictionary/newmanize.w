@@ -1,0 +1,1 @@
+{"index": 199415, "D": "to adopt or follow Newmanism.", "S": [], "A": []}

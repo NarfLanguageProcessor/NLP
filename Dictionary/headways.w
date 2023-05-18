@@ -1,0 +1,1 @@
+{"index": 134735, "D": "forward movement; progress in a forward direction", "S": ["advancement "], "A": ["decrease "]}

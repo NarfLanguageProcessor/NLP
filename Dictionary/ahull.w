@@ -1,0 +1,1 @@
+{"index": 6674, "D": "(of a sailing vessel) with all sails furled and the helm lashed to head into the wind, as in heavy weather.", "S": [], "A": []}

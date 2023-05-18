@@ -1,0 +1,1 @@
+{"index": 235694, "D": "a cadenced trot executed on one spot, with a well-elevated leg action.", "S": [], "A": []}

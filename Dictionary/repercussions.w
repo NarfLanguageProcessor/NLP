@@ -1,0 +1,1 @@
+{"index": 268143, "D": "an effect or result, often indirect or remote, of some event or action", "S": ["backlash ", "chain reaction ", "effect ", "fallout ", "impact ", "influence ", "reaction ", "reverberation ", "side effect "], "A": ["cause "]}

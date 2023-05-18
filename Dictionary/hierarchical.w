@@ -1,0 +1,1 @@
+{"index": 139107, "D": "of, belonging to, or characteristic of a hierarchy. ", "S": ["ranked ", "stratified "], "A": ["disordered ", "free-for-all "]}

@@ -1,0 +1,1 @@
+{"index": 17186, "D": "Compare protasis (def. 1). ", "S": [], "A": []}

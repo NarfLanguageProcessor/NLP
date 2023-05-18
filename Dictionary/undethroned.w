@@ -1,0 +1,1 @@
+{"index": 340247, "D": "to remove from a throne;  depose.", "S": [], "A": []}

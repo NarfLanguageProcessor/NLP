@@ -1,0 +1,1 @@
+{"index": 106005, "D": "a book containing passages from the four Gospels to be read at a divine service.", "S": [], "A": []}

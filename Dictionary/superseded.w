@@ -1,0 +1,1 @@
+{"index": 312593, "D": "set aside as void, useless, irrelevant, or obsolete, usually in consideration of something mentioned", "S": ["antiquated ", "outmoded "], "A": ["modern ", "new "]}

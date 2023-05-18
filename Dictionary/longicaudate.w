@@ -1,0 +1,1 @@
+{"index": 174935, "D": "having a long tail; macrutous.", "S": [], "A": []}

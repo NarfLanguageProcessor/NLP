@@ -1,0 +1,1 @@
+{"index": 152359, "D": [], "S": ["air-condition ", "air-cool ", "chill ", "cool down ", "freeze ", "ice ", "refrigerate "], "A": ["heat "]}

@@ -1,0 +1,1 @@
+{"index": 190336, "D": "a cold, dry, northerly wind common in southern France and neighboring regions.", "S": ["cyclone ", "hurricane ", "monsoon ", "squall ", "tornado ", "wind ", "windstorm "], "A": []}

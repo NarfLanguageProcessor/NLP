@@ -1,0 +1,1 @@
+{"index": 360557, "D": "of or relating to the egg yolk.", "S": [], "A": []}

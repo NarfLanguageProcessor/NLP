@@ -1,0 +1,1 @@
+{"index": 181952, "D": "a portion of food, especially meat or poultry, cut or served in a round or oval shape.", "S": [], "A": []}

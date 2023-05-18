@@ -1,0 +1,1 @@
+{"index": 49415, "D": "having catatonia,  a syndrome characterized by muscular rigidity and mental stupor", "S": ["comatose ", "confused ", "hung ", "suspended ", "unconscious ", "wedged "], "A": []}

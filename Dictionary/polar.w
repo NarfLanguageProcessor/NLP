@@ -1,0 +1,1 @@
+{"index": 241456, "D": "of or relating to the North or South Pole.", "S": ["freezing ", "frigid ", "glacial ", "icy "], "A": ["amicable ", "friendly ", "hot ", "warm "]}

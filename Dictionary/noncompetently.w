@@ -1,0 +1,1 @@
+{"index": 202142, "D": "well or with sufficient skill, knowledge, experience, etc.", "S": [], "A": []}

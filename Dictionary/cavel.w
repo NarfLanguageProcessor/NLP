@@ -1,0 +1,1 @@
+{"index": 50183, "D": "a drawing of lots among miners for an easy and profitable place at the coalface", "S": [], "A": []}

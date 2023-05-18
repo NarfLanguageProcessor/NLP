@@ -1,0 +1,1 @@
+{"index": 77807, "D": "courteous, gracious, and having a sophisticated charm", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42184, "D": "an estimate, often itemized, of expected income and expense for a given period in the future.", "S": ["appropriated ", "assigned ", "dispersed ", "scattered ", "shared "], "A": []}

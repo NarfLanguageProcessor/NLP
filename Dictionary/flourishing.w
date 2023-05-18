@@ -1,0 +1,1 @@
+{"index": 115155, "D": "growing vigorously; thriving; prosperous", "S": ["blooming ", "burgeoning ", "expanding ", "growing ", "prosperous ", "thriving "], "A": ["declining ", "failing ", "losing "]}

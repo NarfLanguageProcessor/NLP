@@ -1,0 +1,1 @@
+{"index": 324303, "D": "a person who operates a typewriter.", "S": ["assistant ", "clerk ", "executive secretary "], "A": []}

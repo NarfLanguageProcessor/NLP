@@ -1,0 +1,1 @@
+{"index": 105318, "D": "the part of a chromosome that condenses maximally during metaphase and contains most of the genetically active material.", "S": [], "A": []}

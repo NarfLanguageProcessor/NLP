@@ -1,0 +1,1 @@
+{"index": 54312, "D": "like a child,  as in innocence, frankness, etc.; befitting a child", "S": [], "A": []}

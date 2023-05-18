@@ -1,0 +1,1 @@
+{"index": 2401, "D": [], "S": ["apex ", "mucro ", "mucronation ", "sharp point ", "spike ", "tapering point ", "tip "], "A": []}

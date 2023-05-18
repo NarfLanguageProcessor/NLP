@@ -1,0 +1,1 @@
+{"index": 363611, "D": "to make (a house or other building) secure against cold or stormy weather,  as by adding insulation, siding, and storm windows.", "S": [], "A": []}

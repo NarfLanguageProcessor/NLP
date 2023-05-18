@@ -1,0 +1,1 @@
+{"index": 151774, "D": "the principle of papal infallibility", "S": [], "A": []}

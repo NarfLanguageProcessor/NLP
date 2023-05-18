@@ -1,0 +1,1 @@
+{"index": 149443, "D": "lacking sense, significance, or ideas; silly", "S": [], "A": []}

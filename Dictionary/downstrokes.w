@@ -1,0 +1,1 @@
+{"index": 92329, "D": "a downward stroke,  as of a machine part, piston, or the like.", "S": [], "A": []}

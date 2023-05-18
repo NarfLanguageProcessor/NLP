@@ -1,0 +1,1 @@
+{"index": 361933, "D": "(in Hawaii and Polynesia) a girl or young woman.", "S": [], "A": []}

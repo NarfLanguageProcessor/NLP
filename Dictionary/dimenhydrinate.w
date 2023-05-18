@@ -1,0 +1,1 @@
+{"index": 85827, "D": "a synthetic, crystalline, antihistamine powder, C17H22NO\u22c5C7H6ClN4O2, used in the treatment of allergic disorders and as a preventive for seasickness and airsickness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 44790, "D": "any of various tropical American plants of the genus Calathea, some of which have colorful, variegated leaves and are often cultivated as houseplants.", "S": [], "A": []}

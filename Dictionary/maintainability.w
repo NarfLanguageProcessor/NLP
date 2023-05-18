@@ -1,0 +1,1 @@
+{"index": 177934, "D": "to keep in existence or continuance; preserve; retain", "S": [], "A": []}

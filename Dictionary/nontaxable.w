@@ -1,0 +1,1 @@
+{"index": 207772, "D": "not subject to tax", "S": [], "A": []}

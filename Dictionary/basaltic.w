@@ -1,0 +1,1 @@
+{"index": 28469, "D": "the dark, dense igneous rock of a lava flow or minor intrusion, composed essentially of labradorite and pyroxene and often displaying a columnar structure.", "S": [], "A": []}

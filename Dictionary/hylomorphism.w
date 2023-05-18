@@ -1,0 +1,1 @@
+{"index": 139510, "D": "the theory that every physical object is composed of two principles, an unchanging prime matter and a form deprived of actuality with every substantial change of the object.", "S": [], "A": []}

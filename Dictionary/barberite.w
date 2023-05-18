@@ -1,0 +1,1 @@
+{"index": 27779, "D": "an alloy of about 88 percent copper, 5 percent nickel, 5 percent tin, and 2 percent silicon, resistant to sea water and sulfuric acid.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247516, "D": "of, relating to, or characteristic of a prefect", "S": [], "A": []}

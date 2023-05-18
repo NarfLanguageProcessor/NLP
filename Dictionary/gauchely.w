@@ -1,0 +1,1 @@
+{"index": 122776, "D": "lacking social grace, sensitivity, or acuteness; awkward; crude; tactless", "S": [], "A": []}

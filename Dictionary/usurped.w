@@ -1,0 +1,1 @@
+{"index": 356081, "D": "seized by force or without legal right", "S": ["annex ", "preempt ", "supplant ", "wrest "], "A": ["give ", "keep ", "leave ", "let go ", "offer ", "refuse ", "reject ", "release "]}

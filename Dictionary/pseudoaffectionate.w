@@ -1,0 +1,1 @@
+{"index": 254459, "D": "showing, indicating, or characterized by affection or love; fondly tender", "S": [], "A": []}

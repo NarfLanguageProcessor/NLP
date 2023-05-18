@@ -1,0 +1,1 @@
+{"index": 115378, "D": "a male servant in livery.", "S": ["drudge ", "footman ", "gofer ", "lackey ", "servant ", "snob ", "steward ", "sycophant ", "toady "], "A": []}

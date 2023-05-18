@@ -1,0 +1,1 @@
+{"index": 133250, "D": "a rail  serving as a support or guard at the side of a stairway, platform, etc.", "S": ["post ", "rail "], "A": []}

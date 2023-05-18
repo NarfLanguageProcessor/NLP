@@ -1,0 +1,1 @@
+{"index": 343965, "D": "to proceed or work rapidly or energetically", "S": [], "A": []}

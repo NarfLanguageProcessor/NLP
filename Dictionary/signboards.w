@@ -1,0 +1,1 @@
+{"index": 290130, "D": "a board  bearing a sign. ", "S": ["advertisement ", "placard ", "poster "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127219, "D": "a virus disease of goats  that resembles cowpox and produces lesions inside the thighs and on other hairless skin areas.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 244725, "D": "any of various tropical climbing vines belonging to the genera Pothos and Epipremnum, of the arum family, especially E. aureum, widely cultivated for its variegated foliage.", "S": [], "A": []}

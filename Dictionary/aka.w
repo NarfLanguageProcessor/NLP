@@ -1,0 +1,1 @@
+{"index": 7109, "D": "(used to indicate another name or alias used by a person)", "S": ["assumed name ", "moniker ", "pseudonym ", "stage name "], "A": ["name "]}

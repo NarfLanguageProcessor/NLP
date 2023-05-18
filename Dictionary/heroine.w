@@ -1,0 +1,1 @@
+{"index": 137254, "D": "a woman noted for courageous acts or nobility of character", "S": ["champion ", "conquering hero ", "conqueror ", "hero ", "protector ", "savior ", "victor ", "warrior "], "A": ["coward "]}

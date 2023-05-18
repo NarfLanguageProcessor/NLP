@@ -1,0 +1,1 @@
+{"index": 192587, "D": "Compare duopoly, oligopoly. ", "S": [], "A": []}

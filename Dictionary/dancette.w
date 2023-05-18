@@ -1,0 +1,1 @@
+{"index": 76683, "D": "an ornamental zigzag, as in a molding.", "S": [], "A": []}

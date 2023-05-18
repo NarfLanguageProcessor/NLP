@@ -1,0 +1,1 @@
+{"index": 285613, "D": "(formerly, in India) a soldier, usually an infantryman, in the service of Europeans, especially of the British.", "S": [], "A": []}

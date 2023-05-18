@@ -1,0 +1,1 @@
+{"index": 263747, "D": "one of the tail feathers of a bird controlling direction during flight.", "S": [], "A": []}

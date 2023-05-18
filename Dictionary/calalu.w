@@ -1,0 +1,1 @@
+{"index": 44716, "D": "the edible leaves of various plants, used as greens or in making thick soups", "S": [], "A": []}

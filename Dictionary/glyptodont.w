@@ -1,0 +1,1 @@
+{"index": 126388, "D": "any edentate mammal of the extinct genus Glyptodon, of the Pleistocene Epoch, having the body covered by a horny and bony armor.", "S": [], "A": []}

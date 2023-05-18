@@ -1,0 +1,1 @@
+{"index": 113614, "D": "the act of a person or thing that fixes.", "S": ["adapting ", "adjusting ", "adjustment ", "arranging ", "mending ", "ordering ", "repairing "], "A": []}

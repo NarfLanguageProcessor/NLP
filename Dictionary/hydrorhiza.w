@@ -1,0 +1,1 @@
+{"index": 138921, "D": "the rootlike base of a hydroid colony, by which it is attached to the substratum.", "S": [], "A": []}

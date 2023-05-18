@@ -1,0 +1,1 @@
+{"index": 139019, "D": "turning or tending in a particular direction with reference to moisture.", "S": [], "A": []}

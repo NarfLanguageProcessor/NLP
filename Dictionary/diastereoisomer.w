@@ -1,0 +1,1 @@
+{"index": 84559, "D": "a type of isomer that differs in the spatial arrangement of atoms in the molecule, but is not a mirror image; a stereoisomer that is not an enantiomer", "S": [], "A": []}

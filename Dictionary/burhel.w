@@ -1,0 +1,1 @@
+{"index": 43131, "D": "a variant spelling of bharal", "S": [], "A": []}

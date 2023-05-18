@@ -1,0 +1,1 @@
+{"index": 231618, "D": "to allow to do something", "S": ["allowance ", "charter ", "concession ", "consent ", "go ahead ", "grant ", "license ", "passport ", "patent ", "permission ", "privilege ", "visa ", "warrant "], "A": ["ban ", "denial ", "difference ", "disagreement ", "prohibition ", "protest ", "refusal ", "veto ", "disapproval "]}

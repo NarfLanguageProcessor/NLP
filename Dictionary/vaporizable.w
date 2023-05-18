@@ -1,0 +1,1 @@
+{"index": 357080, "D": "to cause to change into vapor. ", "S": [], "A": []}

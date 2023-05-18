@@ -1,0 +1,1 @@
+{"index": 35158, "D": "to cut, wound, or tear with the teeth", "S": [], "A": []}

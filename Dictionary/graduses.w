@@ -1,0 +1,1 @@
+{"index": 128580, "D": "a work consisting wholly or in part of exercises of increasing difficulty.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169361, "D": "a bill, especially for food or drink in a tavern.", "S": ["arraign ", "indict ", "litigate ", "sue ", "summon ", "try "], "A": ["exonerate "]}

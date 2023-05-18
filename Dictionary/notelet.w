@@ -1,0 +1,1 @@
+{"index": 208876, "D": "a folded card with a printed design on the front, for writing a short informal letter", "S": [], "A": []}

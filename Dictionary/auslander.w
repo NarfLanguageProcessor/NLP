@@ -1,0 +1,1 @@
+{"index": 23672, "D": "foreigner; alien; outlander.", "S": [], "A": []}

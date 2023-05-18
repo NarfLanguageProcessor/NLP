@@ -1,0 +1,1 @@
+{"index": 296153, "D": "the study of social behavior in animals with emphasis on the role of behavior in survival and reproduction, engaging branches of ethology, population genetics, and ecology.", "S": [], "A": []}

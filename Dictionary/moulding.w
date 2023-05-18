@@ -1,0 +1,1 @@
+{"index": 194174, "D": "a shaped strip made of wood, stone, etc", "S": ["chisel ", "divide ", "engrave ", "etch ", "fashion ", "hack ", "mold ", "sculpt ", "shape ", "slice "], "A": ["combine ", "unite ", "increase ", "join ", "mend ", "sew "]}

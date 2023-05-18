@@ -1,0 +1,1 @@
+{"index": 232976, "D": "pertaining to or of the nature of a phantasm;  unreal; illusory; spectral", "S": [], "A": []}

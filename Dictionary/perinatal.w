@@ -1,0 +1,1 @@
+{"index": 231063, "D": "occurring during or pertaining to the phase surrounding the time of birth, from the twentieth week of gestation to the twenty-eighth day of newborn life.", "S": [], "A": []}

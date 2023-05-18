@@ -1,0 +1,1 @@
+{"index": 105505, "D": "a person who eulogizes. ", "S": [], "A": []}

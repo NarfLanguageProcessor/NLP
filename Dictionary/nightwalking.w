@@ -1,0 +1,1 @@
+{"index": 199987, "D": "a person who walks or roves about at night,  especially a thief, prostitute, etc.", "S": [], "A": []}

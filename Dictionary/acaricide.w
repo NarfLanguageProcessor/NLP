@@ -1,0 +1,1 @@
+{"index": 1354, "D": "a substance or preparation for killing acarids.", "S": [], "A": []}

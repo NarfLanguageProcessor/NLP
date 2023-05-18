@@ -1,0 +1,1 @@
+{"index": 126346, "D": "a very brief, passing look, sight, or view.", "S": [], "A": []}

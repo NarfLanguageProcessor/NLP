@@ -1,0 +1,1 @@
+{"index": 323947, "D": "any of several skin diseases caused by fungi; ringworm.", "S": ["tinea pedis "], "A": []}

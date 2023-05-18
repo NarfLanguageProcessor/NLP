@@ -1,0 +1,1 @@
+{"index": 19222, "D": "of, relating to, or located at or near the North Pole", "S": ["Arctic Ocean ", "Artic Circle ", "North Pole ", "arctic "], "A": []}

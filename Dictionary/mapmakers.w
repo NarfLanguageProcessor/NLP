@@ -1,0 +1,1 @@
+{"index": 179737, "D": "a person who makes maps;  cartographer.", "S": ["mapper ", "surveyor ", "topographer "], "A": []}

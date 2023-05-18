@@ -1,0 +1,1 @@
+{"index": 265427, "D": "a person who flees for refuge or safety, especially to a foreign country, as in time of political upheaval, war, etc.", "S": [], "A": []}

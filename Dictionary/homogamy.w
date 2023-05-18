@@ -1,0 +1,1 @@
+{"index": 143068, "D": "the state of being homogamous.", "S": [], "A": []}

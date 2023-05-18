@@ -1,0 +1,1 @@
+{"index": 364897, "D": "a person who cracks a whip.", "S": [], "A": []}

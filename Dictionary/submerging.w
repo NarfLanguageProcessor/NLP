@@ -1,0 +1,1 @@
+{"index": 308521, "D": "to put or sink below the surface of water or any other enveloping medium.", "S": ["dropping ", "drowning ", "fading ", "falling ", "immersing "], "A": []}

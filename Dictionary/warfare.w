@@ -1,0 +1,1 @@
+{"index": 362619, "D": "the process of military struggle between two nations or groups of nations; war.", "S": ["battle ", "campaigning ", "clash ", "combat ", "competition ", "discord ", "fighting ", "rivalry ", "strife ", "struggle ", "war "], "A": ["ceasefire ", "peace ", "surrender ", "truce "]}

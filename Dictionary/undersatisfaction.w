@@ -1,0 +1,1 @@
+{"index": 339724, "D": "an act of satisfying; fulfillment; gratification.", "S": [], "A": []}

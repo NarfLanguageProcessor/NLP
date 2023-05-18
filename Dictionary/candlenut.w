@@ -1,0 +1,1 @@
+{"index": 46215, "D": "the oily fruit or nut  of a southeastern Asian tree, Aleurites moluccana, of the spurge family, the kernels of which when strung together are used locally as candles. ", "S": [], "A": []}

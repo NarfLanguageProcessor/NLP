@@ -1,0 +1,1 @@
+{"index": 268126, "D": "to feel sorry, self-reproachful, or contrite for past conduct; regret or be conscience-stricken about a past action, attitude, etc. (often followed by of)", "S": [], "A": []}

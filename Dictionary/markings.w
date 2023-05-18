@@ -1,0 +1,1 @@
+{"index": 180183, "D": "a mark,  or a number or pattern of marks", "S": ["arrangement "], "A": ["disorder ", "disorganization ", "plainness "]}

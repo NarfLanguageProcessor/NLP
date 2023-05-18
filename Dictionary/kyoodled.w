@@ -1,0 +1,1 @@
+{"index": 165010, "D": "to bark or yelp noisily or foolishly; yap. ", "S": [], "A": []}

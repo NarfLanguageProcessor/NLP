@@ -1,0 +1,1 @@
+{"index": 232622, "D": "in a way that shows impatient irritation, especially over some minor annoyance", "S": [], "A": []}

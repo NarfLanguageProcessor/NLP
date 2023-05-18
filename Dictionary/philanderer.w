@@ -1,0 +1,1 @@
+{"index": 233551, "D": " a person, usually a man, who has many casual sexual encounters or affairs, especially when married or in a committed relationship", "S": ["adulterer ", "chaser ", "cruiser ", "dallier ", "debaucher ", "flirt ", "gallant ", "lover ", "operator ", "swinger "], "A": ["faithful "]}

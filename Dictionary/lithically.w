@@ -1,0 +1,1 @@
+{"index": 173641, "D": "pertaining to or consisting of stone.", "S": [], "A": []}

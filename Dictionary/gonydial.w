@@ -1,0 +1,1 @@
+{"index": 127755, "D": "the ridge along the tip of the lower mandible of a bird's bill at the junction of the two joined halves, especially prominent in gulls.", "S": [], "A": []}

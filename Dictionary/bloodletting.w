@@ -1,0 +1,1 @@
+{"index": 36455, "D": "the act or practice of letting blood by opening a vein; phlebotomy.", "S": ["murderous "], "A": ["mild ", "pleasant ", "pleasing "]}

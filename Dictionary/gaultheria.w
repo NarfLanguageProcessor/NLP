@@ -1,0 +1,1 @@
+{"index": 122839, "D": "any aromatic evergreen shrub of the ericaceous genus Gaultheria, of America, Asia, Australia, and New Zealand, esp the wintergreen", "S": [], "A": []}

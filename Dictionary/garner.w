@@ -1,0 +1,1 @@
+{"index": 122203, "D": "to gather or deposit in or as if in a granary or other storage place.", "S": ["amass ", "pick up ", "reap "], "A": ["spend ", "disperse ", "distribute ", "divide ", "plant ", "scatter ", "separate ", "squander ", "throw away ", "use ", "waste "]}

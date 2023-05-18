@@ -1,0 +1,1 @@
+{"index": 228747, "D": "a soil rich in alumina and iron, with few or no carbonates.", "S": [], "A": []}

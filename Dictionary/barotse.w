@@ -1,0 +1,1 @@
+{"index": 28251, "D": "a member of a Negroid people of central Africa living chiefly in SW Zambia", "S": [], "A": []}

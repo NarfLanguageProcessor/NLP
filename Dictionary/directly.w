@@ -1,0 +1,1 @@
+{"index": 86780, "D": "in a direct line, way, or manner; straight", "S": ["precisely ", "straight "], "A": ["indirectly "]}

@@ -1,0 +1,1 @@
+{"index": 56378, "D": "any of several threadlike bodies, consisting of chromatin, that carry the genes in a linear order", "S": [], "A": []}

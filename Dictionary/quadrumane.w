@@ -1,0 +1,1 @@
+{"index": 257710, "D": "a quadrumanous animal, as a monkey.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258509, "D": "done, proceeding, or occurring with promptness or rapidity, as an action, process, etc.; prompt; immediate", "S": ["bottom ", "core ", "cream ", "essentiality ", "gist ", "kernel ", "meat ", "pith ", "quick ", "quintessence ", "soul ", "spirit ", "stuff ", "substance "], "A": ["exterior ", "exteriority ", "outside "]}

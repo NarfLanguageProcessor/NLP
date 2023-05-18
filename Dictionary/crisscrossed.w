@@ -1,0 +1,1 @@
+{"index": 73368, "D": "to move back and forth over", "S": ["converge ", "cross "], "A": ["combine ", "disjoin ", "unite "]}

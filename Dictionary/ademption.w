@@ -1,0 +1,1 @@
+{"index": 3669, "D": "the failure of a legacy because the subject matter no longer belongs to the testator's estate at death.", "S": [], "A": []}

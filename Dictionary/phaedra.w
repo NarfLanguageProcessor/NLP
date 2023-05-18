@@ -1,0 +1,1 @@
+{"index": 232733, "D": "the wife of Theseus who fell in love with Hippolytus, her stepson, and eventually hanged herself after causing his death.", "S": [], "A": []}

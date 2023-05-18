@@ -1,0 +1,1 @@
+{"index": 204, "D": "of, relating to, or typical of an early Lower Paleolithic industry of the middle Pleistocene Epoch in Europe, characterized by the manufacture of large flakes and hand axes; Chellean.", "S": [], "A": []}

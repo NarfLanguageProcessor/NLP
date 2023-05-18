@@ -1,0 +1,1 @@
+{"index": 298786, "D": "the act of specifying. ", "S": ["blueprint ", "spec ", "stipulation "], "A": ["generalization ", "uncertainty ", "vagueness "]}

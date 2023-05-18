@@ -1,0 +1,1 @@
+{"index": 208243, "D": "of or relating to a vertebra  or the vertebrae;  spinal.", "S": [], "A": []}

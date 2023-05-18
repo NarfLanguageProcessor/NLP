@@ -1,0 +1,1 @@
+{"index": 236174, "D": "denoting that a function has a specified property, as smoothness or continuity, on each of a finite number of pieces  into which its domain is divided", "S": [], "A": []}

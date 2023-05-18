@@ -1,0 +1,1 @@
+{"index": 272468, "D": "any of the class of enzymes that catalyze the hydrolysis of RNA.", "S": [], "A": []}

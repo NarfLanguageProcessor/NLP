@@ -1,0 +1,1 @@
+{"index": 14567, "D": "the branch of anthropology that describes the varieties of humankind and their geographical distribution.", "S": [], "A": []}

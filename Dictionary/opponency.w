@@ -1,0 +1,1 @@
+{"index": 213656, "D": "an act or instance of opposing.", "S": [], "A": []}

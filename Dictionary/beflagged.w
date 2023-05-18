@@ -1,0 +1,1 @@
+{"index": 30476, "D": "to cover or deck with flags. ", "S": [], "A": []}

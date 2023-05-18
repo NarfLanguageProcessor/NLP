@@ -1,0 +1,1 @@
+{"index": 369573, "D": "the fringes or tassels formerly worn at the corners of the outer garment and now worn at the four corners of the tallith and the arba kanfoth.", "S": [], "A": []}

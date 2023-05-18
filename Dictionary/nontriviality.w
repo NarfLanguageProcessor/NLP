@@ -1,0 +1,1 @@
+{"index": 208031, "D": "something trivial;  a trivial  matter, affair, remark, etc.", "S": [], "A": []}

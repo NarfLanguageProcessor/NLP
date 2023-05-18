@@ -1,0 +1,1 @@
+{"index": 325032, "D": "a piece of leather or other material covering the toe  of a shoe.", "S": [], "A": []}

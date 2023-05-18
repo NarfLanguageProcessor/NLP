@@ -1,0 +1,1 @@
+{"index": 39218, "D": "to bend the knee or body or incline the head, as in reverence, submission, salutation, recognition, or acknowledgment.", "S": [], "A": []}

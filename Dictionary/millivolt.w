@@ -1,0 +1,1 @@
+{"index": 187457, "D": "a unit of electromotive force equal to one thousandth of a volt. Abbreviation", "S": [], "A": []}

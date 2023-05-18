@@ -1,0 +1,1 @@
+{"index": 201654, "D": "utterly intolerant of any creed, belief, or opinion that differs from one's own.", "S": [], "A": []}

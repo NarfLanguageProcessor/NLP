@@ -1,0 +1,1 @@
+{"index": 42497, "D": "having the surface covered with irregular and slight elevations, giving a blistered appearance.", "S": [], "A": []}

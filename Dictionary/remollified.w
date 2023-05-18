@@ -1,0 +1,1 @@
+{"index": 267414, "D": "to soften in feeling or temper, as a person; pacify; appease. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334657, "D": "to debase or make impure by adding inferior materials or elements; use cheaper, inferior, or less desirable goods in the production of (any professedly genuine article)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143224, "D": "a polymer  consisting of a single species of monomer, as polyadenylic acid or polyglutamic acid.", "S": [], "A": []}

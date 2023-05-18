@@ -1,0 +1,1 @@
+{"index": 159847, "D": "any of several tropical, ploverlike, aquatic birds of the family Jacanidae, most of them having extremely long toes and claws for walking on floating water plants.", "S": [], "A": []}

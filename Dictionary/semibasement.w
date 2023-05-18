@@ -1,0 +1,1 @@
+{"index": 283809, "D": "a basement  partly above ground, as in a house built on a slope.", "S": [], "A": []}

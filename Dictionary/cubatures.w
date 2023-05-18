@@ -1,0 +1,1 @@
+{"index": 74427, "D": "the determination of the cubic contents of something.", "S": [], "A": []}

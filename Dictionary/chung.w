@@ -1,0 +1,1 @@
+{"index": 56635, "D": "(in Confucianism) conscientiousness in one's dealings with others.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311487, "D": "a person or thing that carries.", "S": [], "A": []}

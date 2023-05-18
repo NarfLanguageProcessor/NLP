@@ -1,0 +1,1 @@
+{"index": 145386, "D": "an enterprising person determined to succeed; go-getter. ", "S": ["call girl ", "swindler ", "whore "], "A": []}

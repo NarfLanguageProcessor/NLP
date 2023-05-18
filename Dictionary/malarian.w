@@ -1,0 +1,1 @@
+{"index": 178280, "D": "any of a group of diseases, usually intermittent or remittent, characterized by attacks of chills, fever, and sweating", "S": [], "A": []}

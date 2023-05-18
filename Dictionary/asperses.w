@@ -1,0 +1,1 @@
+{"index": 21429, "D": "to attack with false, malicious, and damaging charges or insinuations; slander.", "S": ["blacken ", "defame ", "detract ", "disparage ", "malign ", "slander ", "slur ", "smear ", "vilify "], "A": ["approve ", "commend ", "compliment ", "flatter ", "laud ", "praise "]}

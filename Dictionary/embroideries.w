@@ -1,0 +1,1 @@
+{"index": 98367, "D": "the art of working raised and ornamental designs in threads of silk, cotton, gold, silver, or other material, upon any woven fabric, leather, paper, etc., with a needle.", "S": ["brocade ", "decoration ", "lace ", "needlepoint ", "quilting ", "tapestry "], "A": []}

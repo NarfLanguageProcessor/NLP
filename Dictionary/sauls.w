@@ -1,0 +1,1 @@
+{"index": 278932, "D": "the first king of Israel. 1 Samuel 9.", "S": [], "A": []}

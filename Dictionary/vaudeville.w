@@ -1,0 +1,1 @@
+{"index": 357529, "D": "Compare variety (def. 9). ", "S": ["burlesque ", "revue ", "show ", "skit ", "theater "], "A": []}

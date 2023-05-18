@@ -1,0 +1,1 @@
+{"index": 214778, "D": "any herbivorous dinosaur of the suborder Ornithopoda whose members usually walked erect on their hind legs.", "S": [], "A": []}

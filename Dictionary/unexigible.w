@@ -1,0 +1,1 @@
+{"index": 341725, "D": "liable to be exacted; requirable.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164007, "D": "a cut or incision made by a saw or the like in a piece of wood.", "S": [], "A": []}

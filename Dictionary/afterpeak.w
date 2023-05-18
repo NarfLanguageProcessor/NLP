@@ -1,0 +1,1 @@
+{"index": 5733, "D": "the extreme after  part of the interior of a hull, especially that part below the water immediately forward of the sternpost (opposed to forepeak).", "S": [], "A": []}

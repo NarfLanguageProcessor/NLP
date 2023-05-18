@@ -1,0 +1,1 @@
+{"index": 69319, "D": "a winding road cut into the side of a steep hill or along the face of a coastal cliff.", "S": [], "A": []}

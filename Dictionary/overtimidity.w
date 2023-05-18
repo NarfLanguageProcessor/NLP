@@ -1,0 +1,1 @@
+{"index": 221609, "D": "the state or quality of lacking in self-assurance, courage, or bravery", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16733, "D": "not periodic;  irregular.", "S": [], "A": []}

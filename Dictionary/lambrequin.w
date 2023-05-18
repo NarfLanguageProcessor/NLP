@@ -1,0 +1,1 @@
+{"index": 167612, "D": "a woven fabric covering for a helmet in medieval times to protect it from heat, rust, etc.", "S": [], "A": []}

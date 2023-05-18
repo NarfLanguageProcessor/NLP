@@ -1,0 +1,1 @@
+{"index": 141187, "D": "a brand name for an instrument, similar to a hypodermic syringe, but using no needle, for forcing extremely fine jets of a solution through the unbroken skin.", "S": ["bing ", "hypodermal injection ", "hypodermic ", "injection ", "intracutaneous injection ", "intramuscular injection ", "intravenous injection ", "jet injection ", "shot "], "A": []}

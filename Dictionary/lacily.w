@@ -1,0 +1,1 @@
+{"index": 166920, "D": "of or resembling lace;  lacelike", "S": [], "A": []}

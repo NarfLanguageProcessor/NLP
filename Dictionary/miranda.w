@@ -1,0 +1,1 @@
+{"index": 188335, "D": "Venezuelan revolutionist and patriot.", "S": [], "A": []}

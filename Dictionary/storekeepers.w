@@ -1,0 +1,1 @@
+{"index": 305395, "D": "a person who owns a store. ", "S": ["grocer "], "A": ["buyer ", "customer "]}

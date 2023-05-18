@@ -1,0 +1,1 @@
+{"index": 99818, "D": "proceeding from within; derived internally.", "S": [], "A": []}

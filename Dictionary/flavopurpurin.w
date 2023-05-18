@@ -1,0 +1,1 @@
+{"index": 114213, "D": "a yellow, crystalline anthraquinone dye, C14H8O5, isomeric with purpurin. ", "S": [], "A": []}

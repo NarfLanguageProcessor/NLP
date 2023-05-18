@@ -1,0 +1,1 @@
+{"index": 343157, "D": "like or befitting God  or a god; divine.", "S": [], "A": []}

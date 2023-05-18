@@ -1,0 +1,1 @@
+{"index": 206120, "D": "of, relating to, or of the nature of preference", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260571, "D": "(of animals or people) slender and long-limbed.", "S": ["breadth ", "diameter ", "dimension ", "duration ", "height ", "limit ", "magnitude ", "mileage ", "period ", "piece ", "portion ", "quantity ", "radius ", "range ", "section ", "segment ", "space ", "span ", "stretch ", "term ", "width "], "A": ["extreme ", "unimportance ", "whole "]}

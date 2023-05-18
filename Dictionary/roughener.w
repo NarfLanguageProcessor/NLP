@@ -1,0 +1,1 @@
+{"index": 274768, "D": "to make or become rough  or rougher. ", "S": [], "A": []}

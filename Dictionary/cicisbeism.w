@@ -1,0 +1,1 @@
+{"index": 57064, "D": "the social custom of having a cicisbeo, as practiced especially in Italy in the 17th and 18th centuries.", "S": [], "A": []}

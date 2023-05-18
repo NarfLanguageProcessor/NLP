@@ -1,0 +1,1 @@
+{"index": 123029, "D": "a transmission, as in an automobile.", "S": ["broadcast ", "communication ", "delivery "], "A": ["quiet "]}

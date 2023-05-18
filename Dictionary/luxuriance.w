@@ -1,0 +1,1 @@
+{"index": 176560, "D": "luxuriant  growth or productiveness; rich abundance; lushness.", "S": ["affluence ", "amplitude ", "bountifulness ", "bounty ", "cornucopia ", "exuberance ", "fullness ", "lavishness ", "plentifulness ", "plenty ", "richness ", "superabundance "], "A": ["lack ", "need ", "want "]}

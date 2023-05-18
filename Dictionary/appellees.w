@@ -1,0 +1,1 @@
+{"index": 17648, "D": "the defendant or respondent in an appellate proceeding.", "S": [], "A": []}

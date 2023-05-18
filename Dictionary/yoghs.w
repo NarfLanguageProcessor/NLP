@@ -1,0 +1,1 @@
+{"index": 157542, "D": "the letter used in the writing of Middle English to represent a palatal fricative, as in ung (Modern English young) or a velar fricative, as in litliche (Modern English lightly).", "S": [], "A": []}

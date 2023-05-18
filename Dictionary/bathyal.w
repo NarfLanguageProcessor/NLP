@@ -1,0 +1,1 @@
+{"index": 28928, "D": "of or relating to the biogeographic region of the ocean bottom between the sublittoral  and abyssal  zones", "S": [], "A": []}

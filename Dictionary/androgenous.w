@@ -1,0 +1,1 @@
+{"index": 12394, "D": "pertaining to the production of or tending to produce male offspring.", "S": [], "A": []}

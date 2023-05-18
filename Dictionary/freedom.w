@@ -1,0 +1,1 @@
+{"index": 118591, "D": "the state of being free  or at liberty rather than in confinement or under physical restraint", "S": ["ability ", "exemption ", "flexibility ", "immunity ", "opportunity ", "power ", "privilege ", "right "], "A": ["impotence ", "inability ", "incompetence ", "responsibility ", "weakness ", "extreme ", "restraint "]}

@@ -1,0 +1,1 @@
+{"index": 336290, "D": "to demolish (something built); raze.", "S": ["bulldoze ", "demolish ", "destroy ", "dynamite ", "erase ", "extinguish ", "obliterate ", "overthrow ", "scatter ", "smash ", "topple ", "wipe out ", "wreck "], "A": ["build ", "construct ", "create ", "fix ", "repair ", "restore ", "grow ", "place ", "raise ", "win "]}

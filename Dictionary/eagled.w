@@ -1,0 +1,1 @@
+{"index": 94686, "D": "Compare bald eagle, golden eagle. ", "S": [], "A": []}

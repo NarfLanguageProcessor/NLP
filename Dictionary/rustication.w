@@ -1,0 +1,1 @@
+{"index": 275870, "D": "any of various forms of ashlar so dressed and tooled that the visible faces are raised above or otherwise contrasted with the horizontal and usually the vertical joints.", "S": [], "A": []}

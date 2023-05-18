@@ -1,0 +1,1 @@
+{"index": 289760, "D": "a person who is on the sidelines and does not participate in an activity or situation.", "S": [], "A": []}

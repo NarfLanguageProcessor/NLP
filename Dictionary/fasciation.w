@@ -1,0 +1,1 @@
+{"index": 110088, "D": "the act of binding up or bandaging.", "S": [], "A": []}

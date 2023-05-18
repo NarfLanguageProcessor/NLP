@@ -1,0 +1,1 @@
+{"index": 268695, "D": "to criticize or correct, especially gently", "S": ["admonish ", "berate ", "castigate ", "censure ", "chide ", "condemn ", "lambaste ", "lecture ", "reprimand ", "reproach ", "scold ", "upbraid "], "A": ["approve ", "compliment ", "exonerate ", "flatter ", "laud ", "praise "]}

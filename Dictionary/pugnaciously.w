@@ -1,0 +1,1 @@
+{"index": 256149, "D": "inclined to quarrel or fight readily; quarrelsome; belligerent; combative. ", "S": [], "A": []}

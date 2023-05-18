@@ -1,0 +1,1 @@
+{"index": 23851, "D": "(no longer in clinical use) a pervasive developmental disorder that commonly manifests in early childhood, characterized by impaired communication, excessive rigidity, and emotional detachment", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 301001, "D": "(in the sexual reproduction of certain sporozoans) an encysted spore developed from a zygote, which undergoes sporogony to form sporozoites.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67957, "D": "in a way that is well-suited or agreeable to the needs or purpose, or is easy to use", "S": ["calmly ", "comfortably ", "efficiently ", "effortlessly ", "freely ", "handily ", "quickly ", "readily ", "regularly ", "simply ", "smoothly ", "surely ", "well "], "A": ["difficultly ", "insufficiently "]}

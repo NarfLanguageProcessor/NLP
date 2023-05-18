@@ -1,0 +1,1 @@
+{"index": 211645, "D": "Compare magistral (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 301764, "D": "to press into a flat mass or pulp; crush", "S": [], "A": []}

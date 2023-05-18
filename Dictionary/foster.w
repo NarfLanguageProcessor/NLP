@@ -1,0 +1,1 @@
+{"index": 117848, "D": "to promote the growth or development of; further; encourage", "S": ["advance ", "back ", "champion ", "cherish ", "cultivate ", "encourage ", "feed ", "foment ", "forward ", "further ", "harbor ", "nurse ", "nurture ", "serve ", "stimulate ", "uphold "], "A": ["block ", "dampen ", "discourage ", "dissuade ", "halt ", "hinder ", "impede ", "stop "]}

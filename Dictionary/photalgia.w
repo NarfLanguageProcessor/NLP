@@ -1,0 +1,1 @@
+{"index": 234961, "D": "pain, as in an eye, that is caused by intensity of light.", "S": [], "A": []}

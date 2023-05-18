@@ -1,0 +1,1 @@
+{"index": 17585, "D": "a supernatural appearance of a person or thing, especially a ghost; a specter or phantom; wraith", "S": ["eerie ", "ghastly ", "scary ", "shadowy ", "spectral ", "supernatural ", "weird "], "A": ["normal "]}

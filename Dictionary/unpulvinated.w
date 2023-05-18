@@ -1,0 +1,1 @@
+{"index": 348809, "D": "having the shape of a cushion;  resembling a cushion; cushion-shaped.", "S": [], "A": []}

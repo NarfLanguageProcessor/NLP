@@ -1,0 +1,1 @@
+{"index": 186193, "D": "a needle groove  so narrow that over 200 can be cut in an inch of playing surface on a long-playing record.", "S": [], "A": []}

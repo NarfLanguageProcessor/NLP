@@ -1,0 +1,1 @@
+{"index": 146572, "D": "to make a fool of; make idiotic.", "S": [], "A": []}

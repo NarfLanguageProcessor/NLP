@@ -1,0 +1,1 @@
+{"index": 150562, "D": "wild; rude; unrefined. ", "S": ["bawdy ", "boorish ", "crass ", "crude ", "dirty ", "gruff ", "nasty ", "obscene ", "off-color ", "raw ", "ribald ", "rude ", "scatological ", "vulgar "], "A": ["chaste ", "clean ", "decent ", "happy ", "kind ", "moral ", "nice ", "pleasant ", "polished ", "polite ", "pure ", "refined ", "sophisticated ", "upright "]}

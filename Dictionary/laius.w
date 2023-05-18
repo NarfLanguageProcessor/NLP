@@ -1,0 +1,1 @@
+{"index": 167473, "D": "a king of Thebes, the husband of Jocasta and father of Oedipus", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334675, "D": "an exciting or very unusual experience.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 222666, "D": "any plant of the genus Pachysandra, as the Allegheny spurge or Japanese spurge, the leaves of which grow in a rounded clump, widely used as a ground cover in the U.S.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 140848, "D": "an anemic condition due to a deficiency of hemoglobin in the red blood cells.", "S": [], "A": []}

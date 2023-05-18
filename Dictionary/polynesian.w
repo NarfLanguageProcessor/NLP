@@ -1,0 +1,1 @@
+{"index": 242108, "D": "of or relating to Polynesia,  its inhabitants, or their languages.", "S": [], "A": []}

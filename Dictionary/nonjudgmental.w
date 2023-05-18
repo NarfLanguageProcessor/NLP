@@ -1,0 +1,1 @@
+{"index": 204926, "D": "not judged or judging on the basis of one's personal standards or opinions", "S": [], "A": []}

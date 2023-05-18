@@ -1,0 +1,1 @@
+{"index": 91335, "D": "of or relating to St. Dominic or the Dominicans.", "S": [], "A": []}

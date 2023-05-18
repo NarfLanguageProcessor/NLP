@@ -1,0 +1,1 @@
+{"index": 334446, "D": "not accomplished;  incomplete or not carried out", "S": ["green ", "rookie ", "tenderfoot "], "A": ["professional "]}

@@ -1,0 +1,1 @@
+{"index": 120834, "D": "one of the archangels, appearing usually as a divine messenger. Daniel 8", "S": [], "A": []}

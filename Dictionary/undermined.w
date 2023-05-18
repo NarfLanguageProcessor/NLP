@@ -1,0 +1,1 @@
+{"index": 339486, "D": "attacked, weakened, or defeated by underhand or seemingly harmless actions or by imperceptible stages", "S": ["flawed "], "A": []}

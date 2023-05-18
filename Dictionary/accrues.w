@@ -1,0 +1,1 @@
+{"index": 1793, "D": "to happen or result as a natural growth, addition, etc.", "S": ["accumulate ", "amass "], "A": ["disperse ", "dissipate ", "spend ", "decrease ", "diminish ", "distribute ", "divide ", "lessen ", "reduce ", "scatter "]}

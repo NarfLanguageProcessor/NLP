@@ -1,0 +1,1 @@
+{"index": 172975, "D": "a waterfall or torrent of rushing water in a river or stream.", "S": [], "A": []}

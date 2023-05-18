@@ -1,0 +1,1 @@
+{"index": 313571, "D": "an often fatal infectious disease of horses, camels, elephants, and dogs caused by a blood-infecting protozoan parasite, Trypanosoma evansi, transmitted by the bite of horseflies, characterized by fever, anemia, and emaciation.", "S": [], "A": []}

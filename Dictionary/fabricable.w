@@ -1,0 +1,1 @@
+{"index": 108896, "D": "able to be formed or shaped; capable of being constructed or manufactured.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134677, "D": "the pin  standing nearest to the bowler when set up, at the head  or front of the triangle; the number 1 pin. ", "S": [], "A": []}

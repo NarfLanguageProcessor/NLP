@@ -1,0 +1,1 @@
+{"index": 292709, "D": "a stanza or poem of six lines", "S": [], "A": []}

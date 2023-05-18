@@ -1,0 +1,1 @@
+{"index": 59788, "D": "an ecological relationship in which members of one species, as of ants, steal food from another.", "S": [], "A": []}

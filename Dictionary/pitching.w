@@ -1,0 +1,1 @@
+{"index": 238248, "D": "the act of revetting or paving with small stones.", "S": ["bent ", "diagonal ", "inclining ", "sideway ", "sideways ", "sidewise "], "A": []}

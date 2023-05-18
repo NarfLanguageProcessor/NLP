@@ -1,0 +1,1 @@
+{"index": 210756, "D": "having happened or taken place", "S": ["appear ", "arise ", "crop up ", "develop ", "ensue ", "exist ", "follow ", "go ", "materialize ", "result ", "show ", "take place ", "transpire "], "A": ["hide ", "precede ", "stop "]}

@@ -1,0 +1,1 @@
+{"index": 265280, "D": "a doctrine or movement advocating reform, esp political or religious reform, rather than abolition", "S": [], "A": []}

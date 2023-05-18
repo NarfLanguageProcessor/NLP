@@ -1,0 +1,1 @@
+{"index": 29958, "D": "to spatter or soil all over", "S": [], "A": []}

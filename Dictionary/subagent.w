@@ -1,0 +1,1 @@
+{"index": 307117, "D": "a person whose duties as an agent  are delegated by another agent. ", "S": [], "A": []}

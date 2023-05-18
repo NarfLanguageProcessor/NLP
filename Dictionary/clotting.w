@@ -1,0 +1,1 @@
+{"index": 60527, "D": "a mass or lump.", "S": ["clump ", "lump "], "A": ["individual ", "one "]}

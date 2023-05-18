@@ -1,0 +1,1 @@
+{"index": 44, "D": "a person skilled in using an abacus.", "S": [], "A": []}

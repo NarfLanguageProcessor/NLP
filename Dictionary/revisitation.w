@@ -1,0 +1,1 @@
+{"index": 271399, "D": "the act of visiting. ", "S": ["arrival ", "entry ", "rebound ", "recovery ", "restoration "], "A": ["departure ", "exit ", "leaving ", "question "]}

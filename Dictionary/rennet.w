@@ -1,0 +1,1 @@
+{"index": 267679, "D": "the lining membrane of the fourth stomach of a calf or of the stomach of certain other young animals.", "S": [], "A": []}

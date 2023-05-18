@@ -1,0 +1,1 @@
+{"index": 298357, "D": "a designation given to the mast abaft a mizzenmast, usually the aftermost mast in any vessel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205531, "D": "serving to nourish; providing nutriment; nutritious.", "S": [], "A": []}

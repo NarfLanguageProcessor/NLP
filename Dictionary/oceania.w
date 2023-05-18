@@ -1,0 +1,1 @@
+{"index": 210774, "D": "the islands of the central and southern Pacific, including Micronesia, Melanesia, Polynesia, and traditionally Australasia. About 3,450,000 sq. mi. (8,935,500 sq. km).", "S": [], "A": []}

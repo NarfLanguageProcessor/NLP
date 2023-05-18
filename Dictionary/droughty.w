@@ -1,0 +1,1 @@
+{"index": 93422, "D": "dry. ", "S": ["arid ", "dehydrated ", "dry ", "parched "], "A": []}

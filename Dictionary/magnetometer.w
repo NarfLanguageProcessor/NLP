@@ -1,0 +1,1 @@
+{"index": 177546, "D": "an instrument for measuring the intensity of a magnetic field, especially the earth's magnetic field.", "S": [], "A": []}

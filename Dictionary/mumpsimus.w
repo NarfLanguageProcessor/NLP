@@ -1,0 +1,1 @@
+{"index": 195508, "D": "adherence to or persistence in an erroneous use of language, memorization, practice, belief, etc., out of habit or obstinacy (opposed to sumpsimus).", "S": [], "A": []}

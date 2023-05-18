@@ -1,0 +1,1 @@
+{"index": 64135, "D": "the act or process of commixing. ", "S": ["admixture ", "amalgam ", "amalgamation ", "blend ", "combination ", "composite ", "compound ", "fusion ", "intermixture ", "mix "], "A": ["division ", "separation "]}

@@ -1,0 +1,1 @@
+{"index": 230365, "D": "to become aware of, know, or identify by means of the senses", "S": ["discern ", "distinguish ", "feel ", "grasp ", "identify ", "observe ", "realize ", "recognize ", "regard "], "A": ["disbelieve ", "disregard ", "ignore ", "miss ", "misunderstand ", "neglect ", "overlook ", "avoid ", "dodge ", "give ", "lose ", "offer "]}

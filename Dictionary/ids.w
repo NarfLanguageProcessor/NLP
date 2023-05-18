@@ -1,0 +1,1 @@
+{"index": 146690, "D": "the part of the psyche, residing in the unconscious, that is the source of instinctive impulses that seek satisfaction in accordance with the pleasure principle and are modified by the ego and the superego before they are given overt expression.", "S": ["psyche "], "A": []}

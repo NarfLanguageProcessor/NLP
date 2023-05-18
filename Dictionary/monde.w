@@ -1,0 +1,1 @@
+{"index": 191817, "D": "the world; people; society.", "S": [], "A": []}

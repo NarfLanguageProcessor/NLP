@@ -1,0 +1,1 @@
+{"index": 254059, "D": "on the condition or understanding (that); providing", "S": ["conditional ", "contingent ", "controlled by ", "determined by ", "providing ", "regulated by ", "subject to "], "A": []}

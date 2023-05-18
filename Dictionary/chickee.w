@@ -1,0 +1,1 @@
+{"index": 54143, "D": "(among the Seminole Indians) an open-sided structure, usually thatched with palms and serving as a dwelling.", "S": [], "A": []}

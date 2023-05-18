@@ -1,0 +1,1 @@
+{"index": 207802, "D": "of, relating to, or happening by means of a telephone  system.", "S": [], "A": []}

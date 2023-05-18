@@ -1,0 +1,1 @@
+{"index": 258968, "D": "a device consisting of a cord with knotted strings of various colors attached, used by the ancient Peruvians for recording events, keeping accounts, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 63584, "D": "a person who formally undertakes to discharge the duties of the maker  of an instrument, especially a promissory note, in the event of the maker's  default.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 338073, "D": "a weight balancing  another weight; an equal weight, power, or influence acting in opposition; counterpoise.", "S": [], "A": []}

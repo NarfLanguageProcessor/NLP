@@ -1,0 +1,1 @@
+{"index": 39834, "D": "a division or subdivision of the stem or axis of a tree, shrub, or other plant.", "S": ["cleft ", "prorated ", "reft ", "split "], "A": ["undivided "]}

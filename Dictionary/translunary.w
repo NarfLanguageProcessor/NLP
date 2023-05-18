@@ -1,0 +1,1 @@
+{"index": 328065, "D": "situated beyond or above the moon; superlunary.", "S": [], "A": []}

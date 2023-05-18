@@ -1,0 +1,1 @@
+{"index": 322730, "D": "having a throat  of a specified kind (usually used in combination)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107899, "D": "to traverse or range over (a region, area, etc.) for the purpose of discovery", "S": ["marked "], "A": ["unknown "]}

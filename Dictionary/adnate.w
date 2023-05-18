@@ -1,0 +1,1 @@
+{"index": 4244, "D": "grown fast to something; congenitally attached.", "S": [], "A": []}

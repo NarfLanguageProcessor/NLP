@@ -1,0 +1,1 @@
+{"index": 38446, "D": "causing or marked by boredom;  dull and uninteresting; tiresome", "S": ["drilling "], "A": []}

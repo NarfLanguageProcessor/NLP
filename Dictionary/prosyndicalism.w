@@ -1,0 +1,1 @@
+{"index": 253111, "D": "a form or development of trade unionism, originating in France, that aims at the possession of the means of production and distribution, and ultimately at the control of society, by federated bodies of industrial workers, and that seeks to realize its purposes through general strikes, terrorism, sabotage, etc.", "S": [], "A": []}

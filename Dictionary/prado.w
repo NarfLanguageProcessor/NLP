@@ -1,0 +1,1 @@
+{"index": 245114, "D": "an art gallery in Madrid housing an important collection of Spanish paintings", "S": [], "A": []}

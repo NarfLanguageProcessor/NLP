@@ -1,0 +1,1 @@
+{"index": 12346, "D": "the methods or techniques used to teach adults", "S": [], "A": []}

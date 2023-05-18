@@ -1,0 +1,1 @@
+{"index": 202625, "D": "being in the shape of a cross;  cross-shaped.", "S": [], "A": []}

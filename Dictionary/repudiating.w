@@ -1,0 +1,1 @@
+{"index": 268754, "D": "to reject as having no authority or binding force", "S": ["aloof ", "arrogant ", "averse ", "contemptuous ", "derisive ", "haughty ", "unsympathetic "], "A": ["humble ", "meek ", "shy ", "sympathetic "]}

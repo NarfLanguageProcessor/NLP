@@ -1,0 +1,1 @@
+{"index": 52010, "D": "a seat, especially for one person, usually having four legs for support and a rest for the back and often having rests for the arms.", "S": [], "A": []}

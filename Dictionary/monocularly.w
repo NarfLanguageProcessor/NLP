@@ -1,0 +1,1 @@
+{"index": 192228, "D": "having only one eye.", "S": [], "A": []}

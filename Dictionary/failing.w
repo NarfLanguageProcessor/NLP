@@ -1,0 +1,1 @@
+{"index": 109253, "D": "an act or instance of failing; failure", "S": ["declining ", "defeated ", "faint ", "scant ", "scanty ", "short ", "shy ", "wanting "], "A": ["adequate ", "enough ", "sufficient "]}

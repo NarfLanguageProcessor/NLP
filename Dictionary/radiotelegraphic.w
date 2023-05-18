@@ -1,0 +1,1 @@
+{"index": 259789, "D": "a telegraph  in which messages or signals are sent by means of radio waves rather than through wires or cables.", "S": [], "A": []}

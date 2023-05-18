@@ -1,0 +1,1 @@
+{"index": 245770, "D": "an assembling or coming together of a number of persons, usually for a particular purpose", "S": [], "A": []}

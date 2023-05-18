@@ -1,0 +1,1 @@
+{"index": 248758, "D": "someone who puts something into the proper condition or state of readiness", "S": [], "A": []}

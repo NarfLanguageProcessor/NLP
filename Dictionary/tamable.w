@@ -1,0 +1,1 @@
+{"index": 315797, "D": "able to be tamed. ", "S": ["convenient ", "feasible ", "workable "], "A": ["unfeasible "]}

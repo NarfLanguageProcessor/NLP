@@ -1,0 +1,1 @@
+{"index": 260502, "D": "(in shoemaking) a strip of leather set in a shoe at the heel before the lifts are attached.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48301, "D": "a song, especially of joy.", "S": ["belt out ", "chant ", "croon ", "hum ", "intone ", "serenade ", "shout ", "wait ", "warble ", "whistle "], "A": ["be quiet "]}

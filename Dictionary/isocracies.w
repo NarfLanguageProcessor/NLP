@@ -1,0 +1,1 @@
+{"index": 158895, "D": "a government in which all individuals have equal political power.", "S": [], "A": []}

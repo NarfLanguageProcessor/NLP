@@ -1,0 +1,1 @@
+{"index": 73112, "D": "a thermometer for measuring low temperatures.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342016, "D": "having the attention attracted and held by a person or thing having unique power or charm, unusual character, etc.; enthralled or captivated", "S": [], "A": []}

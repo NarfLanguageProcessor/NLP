@@ -1,0 +1,1 @@
+{"index": 64012, "D": "to make commercial  in character, methods, or spirit.", "S": [], "A": []}

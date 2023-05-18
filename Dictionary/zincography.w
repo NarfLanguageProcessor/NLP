@@ -1,0 +1,1 @@
+{"index": 369429, "D": "the art or process of producing a printing surface on a zinc  plate, especially of producing one in relief by etching away unprotected parts with acid.", "S": [], "A": []}

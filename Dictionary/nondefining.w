@@ -1,0 +1,1 @@
+{"index": 202799, "D": "decisive; critically important", "S": [], "A": []}

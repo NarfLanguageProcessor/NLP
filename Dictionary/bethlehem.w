@@ -1,0 +1,1 @@
+{"index": 32733, "D": "a town in NW Jordan, near Jerusalem; occupied by Israel since 1967", "S": ["cradle ", "stable "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248295, "D": "an act of manifesting. ", "S": [], "A": []}

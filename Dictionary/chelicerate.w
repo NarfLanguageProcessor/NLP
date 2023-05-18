@@ -1,0 +1,1 @@
+{"index": 53594, "D": "of, relating to, or belonging to the Chelicerata, a subphylum of arthropods, including arachnids and the horseshoe crab, in which the first pair of limbs are modified as chelicerae", "S": [], "A": []}

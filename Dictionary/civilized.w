@@ -1,0 +1,1 @@
+{"index": 58943, "D": "having an advanced or humane culture, society, etc.", "S": ["civil ", "cultured ", "educated ", "enlightened ", "humane ", "refined ", "sophisticated "], "A": ["ignorant ", "inexperienced ", "stupid ", "uncivilized ", "uncultured ", "uneducated ", "unkind ", "unrefined ", "unsophisticated "]}

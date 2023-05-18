@@ -1,0 +1,1 @@
+{"index": 283540, "D": "the quality or state of caring only for oneself or one\u2019s own interests", "S": ["greed ", "self-indulgence "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273600, "D": "a machine that resembles a human and does mechanical, routine tasks on command.", "S": [], "A": []}

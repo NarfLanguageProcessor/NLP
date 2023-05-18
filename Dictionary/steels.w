@@ -1,0 +1,1 @@
+{"index": 303414, "D": "shares and bonds of steel companies", "S": ["brace ", "fortify ", "gird "], "A": ["weaken ", "discourage ", "dishearten "]}

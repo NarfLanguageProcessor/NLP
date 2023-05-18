@@ -1,0 +1,1 @@
+{"index": 268007, "D": "a substance made from wood pulp, rags, straw, or other fibrous material, usually in thin sheets, used to bear writing or printing, for wrapping things, etc.", "S": [], "A": []}

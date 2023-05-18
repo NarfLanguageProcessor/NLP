@@ -1,0 +1,1 @@
+{"index": 258057, "D": "an officer charged with providing quarters, clothing, fuel, transportation, etc., for a body of troops.", "S": [], "A": []}

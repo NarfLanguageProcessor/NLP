@@ -1,0 +1,1 @@
+{"index": 297689, "D": "a rapid movement of troops from a besieged place to attack the besiegers.", "S": [], "A": []}

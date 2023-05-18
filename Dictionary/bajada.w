@@ -1,0 +1,1 @@
+{"index": 26564, "D": "an alluvial plain formed at the base of a mountain by the coalescing of several alluvial fans.", "S": [], "A": []}

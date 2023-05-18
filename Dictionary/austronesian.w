@@ -1,0 +1,1 @@
+{"index": 23739, "D": "a family of languages spoken in the Malay Peninsula, Indonesia, the Philippines, Vietnam, Taiwan, Madagascar, and Oceania.", "S": [], "A": []}

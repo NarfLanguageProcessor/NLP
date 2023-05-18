@@ -1,0 +1,1 @@
+{"index": 62238, "D": "meditating; contemplating", "S": ["contemplating ", "contemplative ", "deliberative ", "excogitative ", "meditating ", "meditative ", "probing ", "reasoning ", "reflective ", "ruminative ", "thinking "], "A": []}

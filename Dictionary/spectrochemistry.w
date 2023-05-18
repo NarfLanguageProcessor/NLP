@@ -1,0 +1,1 @@
+{"index": 298891, "D": "the branch of chemistry  that deals with the chemical analysis of substances by means of the spectra of light they absorb or emit.", "S": [], "A": []}

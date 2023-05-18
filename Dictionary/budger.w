@@ -1,0 +1,1 @@
+{"index": 42171, "D": "to move slightly; begin to move", "S": [], "A": []}

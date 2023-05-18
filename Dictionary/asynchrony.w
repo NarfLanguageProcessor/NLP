@@ -1,0 +1,1 @@
+{"index": 21264, "D": "a lack of synchronism  or coincidence in time.", "S": [], "A": []}

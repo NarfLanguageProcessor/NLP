@@ -1,0 +1,1 @@
+{"index": 106180, "D": "lasting  forever; eternal", "S": ["abiding ", "eternal ", "immortal ", "lasting ", "perpetual ", "timeless ", "unending "], "A": ["brief ", "ending ", "ephemeral ", "fleeting ", "temporary ", "transient "]}

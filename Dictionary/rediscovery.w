@@ -1,0 +1,1 @@
+{"index": 264236, "D": "the act, process, or an instance of discovering (something) again", "S": [], "A": []}

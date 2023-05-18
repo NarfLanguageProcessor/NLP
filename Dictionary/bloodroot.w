@@ -1,0 +1,1 @@
+{"index": 36469, "D": "a North American plant, Sanguinaria canadensis, of the poppy family, having a red root  and root sap and a solitary white flower.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 65455, "D": "formed by concretion;  consisting of concreted matter or masses.", "S": [], "A": []}

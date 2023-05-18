@@ -1,0 +1,1 @@
+{"index": 91778, "D": "having distinct dorsal and ventral  sides, as most foliage leaves.", "S": [], "A": []}

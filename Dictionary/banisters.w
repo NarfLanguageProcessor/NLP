@@ -1,0 +1,1 @@
+{"index": 27469, "D": "the railing and supporting balusters on a staircase; balustrade", "S": ["baluster ", "balustrade ", "handrail ", "rail ", "support "], "A": []}

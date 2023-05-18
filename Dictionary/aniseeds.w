@@ -1,0 +1,1 @@
+{"index": 13267, "D": "the aromatic seed of anise,  the oil of which (anise oil,  aniseed oil,  oroil of anise ) is used in the manufacture of anethole, in medicine as a carminative and expectorant, and in cooking and liqueurs for its licoricelike flavor.", "S": [], "A": []}

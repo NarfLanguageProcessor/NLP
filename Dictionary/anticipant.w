@@ -1,0 +1,1 @@
+{"index": 14908, "D": "anticipative  (usually followed by of)", "S": ["hopeful "], "A": []}

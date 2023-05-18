@@ -1,0 +1,1 @@
+{"index": 205444, "D": "of or relating to sailors, ships, or navigation", "S": [], "A": []}

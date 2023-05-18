@@ -1,0 +1,1 @@
+{"index": 337601, "D": "to act in accordance or harmony; comply (usually followed by to)", "S": ["abnormal ", "bizarre ", "incredible ", "odd ", "outlandish ", "outrageous ", "perverse ", "preposterous ", "stilted ", "strange ", "unusual "], "A": ["common ", "familiar ", "normal ", "reasonable ", "regular ", "sensible ", "standard ", "usual "]}

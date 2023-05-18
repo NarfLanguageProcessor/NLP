@@ -1,0 +1,1 @@
+{"index": 346532, "D": "a past participle of melt1. ", "S": [], "A": []}

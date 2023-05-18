@@ -1,0 +1,1 @@
+{"index": 150287, "D": "not constant; changeable; fickle; variable", "S": ["aimlessly "], "A": []}

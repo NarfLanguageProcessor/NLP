@@ -1,0 +1,1 @@
+{"index": 185351, "D": "of or relating to the forehead; frontal.", "S": [], "A": []}

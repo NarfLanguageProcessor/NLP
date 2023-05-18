@@ -1,0 +1,1 @@
+{"index": 251360, "D": "to defer action; delay", "S": [], "A": []}

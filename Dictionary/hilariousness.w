@@ -1,0 +1,1 @@
+{"index": 139407, "D": "arousing great merriment; extremely funny", "S": ["comedy ", "comicality ", "comicalness ", "drollery ", "farcicality ", "funniness ", "humorousness ", "jocoseness ", "jocosity ", "jocularity ", "waggery ", "waggishness ", "wittiness "], "A": []}

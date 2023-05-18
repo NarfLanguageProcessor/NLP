@@ -1,0 +1,1 @@
+{"index": 247679, "D": "the act or state of fulfilling", "S": [], "A": []}

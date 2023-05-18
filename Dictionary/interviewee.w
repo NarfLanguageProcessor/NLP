@@ -1,0 +1,1 @@
+{"index": 156188, "D": "a person who is interviewed. ", "S": ["respondent "], "A": ["inquirer ", "interviewer ", "questioner "]}

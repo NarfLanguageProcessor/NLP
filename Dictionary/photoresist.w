@@ -1,0 +1,1 @@
+{"index": 235346, "D": "a photosensitive liquid polymer, used in photolithography to produce integrated circuits.", "S": [], "A": []}

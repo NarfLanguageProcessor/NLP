@@ -1,0 +1,1 @@
+{"index": 292360, "D": "of or relating to Syria  or its inhabitants.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175142, "D": "spoils or plunder taken by pillaging, as in war.", "S": ["break in ", "burglary ", "embezzlement ", "felony ", "heist ", "holdup ", "larceny ", "mugging ", "theft ", "wrongdoing "], "A": ["return "]}

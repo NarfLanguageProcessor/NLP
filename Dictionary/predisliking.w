@@ -1,0 +1,1 @@
+{"index": 247043, "D": "to regard with displeasure, antipathy, or aversion", "S": [], "A": []}

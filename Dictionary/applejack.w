@@ -1,0 +1,1 @@
+{"index": 17783, "D": "a brandy distilled from fermented cider.", "S": [], "A": []}

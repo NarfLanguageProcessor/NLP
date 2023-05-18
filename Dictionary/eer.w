@@ -1,0 +1,1 @@
+{"index": 95920, "D": "contraction of ever. ", "S": [], "A": []}

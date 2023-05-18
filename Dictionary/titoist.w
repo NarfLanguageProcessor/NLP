@@ -1,0 +1,1 @@
+{"index": 324750, "D": "a form of communism associated with Tito,  characterized by the assertion by a satellite state of its national interests in opposition to Soviet rule.", "S": [], "A": []}

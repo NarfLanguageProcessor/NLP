@@ -1,0 +1,1 @@
+{"index": 212120, "D": "any of numerous brown or gray moths of the family Olethreutidae having mottled or banded wings and forewings, each with a truncated tip, including many crop pests, as the codling moth or oriental fruit moth.", "S": [], "A": []}

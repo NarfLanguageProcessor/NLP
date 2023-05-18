@@ -1,0 +1,1 @@
+{"index": 217475, "D": "the outlying district or region, as of a city, metropolitan area, or the like", "S": ["boundary ", "line "], "A": ["center ", "inside ", "interior ", "middle "]}

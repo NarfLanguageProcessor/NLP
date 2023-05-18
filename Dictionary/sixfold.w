@@ -1,0 +1,1 @@
+{"index": 292713, "D": "having six elements or parts.", "S": [], "A": []}

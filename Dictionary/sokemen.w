@@ -1,0 +1,1 @@
+{"index": 296453, "D": "a tenant holding land in socage.", "S": [], "A": []}

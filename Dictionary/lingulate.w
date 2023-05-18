@@ -1,0 +1,1 @@
+{"index": 172895, "D": "formed like a tongue; ligulate.", "S": [], "A": []}

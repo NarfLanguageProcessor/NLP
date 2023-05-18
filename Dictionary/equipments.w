@@ -1,0 +1,1 @@
+{"index": 103338, "D": "anything kept, furnished, or provided for a specific purpose.", "S": ["apparatus ", "furnishings ", "furniture ", "machinery ", "material "], "A": []}

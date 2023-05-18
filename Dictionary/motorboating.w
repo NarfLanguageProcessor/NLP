@@ -1,0 +1,1 @@
+{"index": 194042, "D": "the recreational activity of operating or traveling in a motorboat. ", "S": [], "A": []}

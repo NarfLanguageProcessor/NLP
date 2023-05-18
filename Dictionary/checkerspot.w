@@ -1,0 +1,1 @@
+{"index": 53340, "D": "any of several butterflies of the genus Melitaea, having black wings with yellowish-brown, checkerlike markings.", "S": [], "A": []}

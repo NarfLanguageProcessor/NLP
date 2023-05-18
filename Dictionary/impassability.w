@@ -1,0 +1,1 @@
+{"index": 148321, "D": "not passable;  not allowing passage over, through, along, etc.", "S": [], "A": []}

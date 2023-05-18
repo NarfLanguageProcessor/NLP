@@ -1,0 +1,1 @@
+{"index": 30729, "D": "with or despite feelings of resentment or envy", "S": [], "A": []}

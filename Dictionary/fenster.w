@@ -1,0 +1,1 @@
+{"index": 111279, "D": "an erosional break in an overthrust rock sheet, exposing the rocks that underlie the sheet.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365265, "D": "to make a humming, buzzing, or hissing sound, as an object passing swiftly through the air.", "S": ["flit ", "hurtle ", "whir ", "whoosh "], "A": ["delay ", "slow "]}

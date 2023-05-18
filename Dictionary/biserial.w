@@ -1,0 +1,1 @@
+{"index": 34982, "D": "of or relating to the correlation between two sets of measurements, one set of which is limited to one of two values.", "S": [], "A": []}

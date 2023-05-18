@@ -1,0 +1,1 @@
+{"index": 276009, "D": "a person who observes the seventh day of the week, Saturday, as the Sabbath. ", "S": [], "A": []}

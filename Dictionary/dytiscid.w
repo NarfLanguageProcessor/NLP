@@ -1,0 +1,1 @@
+{"index": 90123, "D": "any carnivorous aquatic beetle of the family Dytiscidae, having large flattened back legs used for swimming", "S": [], "A": []}

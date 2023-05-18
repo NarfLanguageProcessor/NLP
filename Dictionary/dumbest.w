@@ -1,0 +1,1 @@
+{"index": 94037, "D": "lacking intelligence or good judgment; stupid; dull-witted. ", "S": ["speechless "], "A": ["bright ", "intelligent ", "sharp ", "smart ", "speaking "]}

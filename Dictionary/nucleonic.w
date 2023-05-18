@@ -1,0 +1,1 @@
+{"index": 209356, "D": "a proton or neutron, especially when considered as a component of a nucleus. ", "S": ["atom smashing ", "atom-chipping ", "atom-splitting ", "fission ", "fission reaction ", "splitting "], "A": []}

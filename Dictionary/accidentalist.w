@@ -1,0 +1,1 @@
+{"index": 1550, "D": "a system of medicine based on the symptoms of a disease, disregarding its origin or cause.", "S": [], "A": []}

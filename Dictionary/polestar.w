@@ -1,0 +1,1 @@
+{"index": 241571, "D": "Polaris. ", "S": ["heart ", "hub ", "place "], "A": ["exterior ", "exteriority ", "outside "]}

@@ -1,0 +1,1 @@
+{"index": 27151, "D": "a native or inhabitant of Estonia, Latvia, or Lithuania.", "S": [], "A": []}

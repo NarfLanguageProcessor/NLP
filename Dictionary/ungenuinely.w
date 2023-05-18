@@ -1,0 +1,1 @@
+{"index": 342997, "D": "in a way that is real or true; authentically, honestly, or sincerely", "S": [], "A": []}

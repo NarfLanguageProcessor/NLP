@@ -1,0 +1,1 @@
+{"index": 193670, "D": "a bite, mouthful, or small portion of food, candy, etc.", "S": [], "A": []}

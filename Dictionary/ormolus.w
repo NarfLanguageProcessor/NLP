@@ -1,0 +1,1 @@
+{"index": 214684, "D": "an alloy of copper and zinc used to imitate gold.", "S": [], "A": []}

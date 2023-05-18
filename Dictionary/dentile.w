@@ -1,0 +1,1 @@
+{"index": 81309, "D": [], "S": ["cog ", "dent ", "denticle ", "peg ", "point ", "projection ", "prong ", "serration ", "stub "], "A": []}

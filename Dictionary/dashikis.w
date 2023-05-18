@@ -1,0 +1,1 @@
+{"index": 77080, "D": "a loose, usually colorfully patterned, pullover garment originating in Africa and worn chiefly by men.", "S": [], "A": []}

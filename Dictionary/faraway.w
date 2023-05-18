@@ -1,0 +1,1 @@
+{"index": 109874, "D": "distant; remote", "S": ["distant ", "far-flung ", "far-off ", "outlying "], "A": ["close ", "near "]}

@@ -1,0 +1,1 @@
+{"index": 319913, "D": "a game for two persons, in which each player, standing on each side of a post from the top of which a ball  is suspended by a cord, hits the ball  with the hand or a paddle in a direction opposite to that in which the other player hits it, the object being to coil the cord completely around the post.", "S": [], "A": []}

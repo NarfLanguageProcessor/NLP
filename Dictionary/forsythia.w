@@ -1,0 +1,1 @@
+{"index": 117594, "D": "a shrub belonging to the genus Forsythia, of the olive family, native to China and southeastern Europe, species of which are cultivated for their showy yellow flowers, which blossom on the bare branches in early spring.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91, "D": "the party to whom a right or property is abandoned  by another, especially an insurer to whom a property has been relinquished.", "S": [], "A": []}

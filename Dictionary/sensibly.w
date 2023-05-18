@@ -1,0 +1,1 @@
+{"index": 285372, "D": "having, using, or showing good sense  or sound judgment", "S": ["intelligently ", "shrewdly ", "wittily "], "A": ["awkwardly ", "clumsily ", "unskillfully "]}

@@ -1,0 +1,1 @@
+{"index": 70496, "D": "a method of self-help stressing autosuggestion, popular especially in the U.S. c1920 and featuring the slogan \u201cDay by day in every way I am getting better and better.\u201d", "S": [], "A": []}

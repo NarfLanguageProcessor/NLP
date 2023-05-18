@@ -1,0 +1,1 @@
+{"index": 330136, "D": "the union of three persons (Father, Son, and Holy Spirit) in one Godhead, or the threefold personality of the one Supreme Being. ", "S": ["three ", "threesome ", "triad ", "trilogy ", "trine ", "trio "], "A": []}

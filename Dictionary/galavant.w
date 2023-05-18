@@ -1,0 +1,1 @@
+{"index": 121170, "D": "to wander about, seeking pleasure or diversion; gad. ", "S": [], "A": []}

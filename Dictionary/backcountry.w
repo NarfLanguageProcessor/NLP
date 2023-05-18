@@ -1,0 +1,1 @@
+{"index": 25756, "D": "a sparsely populated rural region remote from a settled area.", "S": ["boondocks ", "boonies ", "bush ", "farm ", "hinterlands ", "sticks "], "A": []}

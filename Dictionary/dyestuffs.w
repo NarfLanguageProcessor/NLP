@@ -1,0 +1,1 @@
+{"index": 85204, "D": "a material yielding or used as a dye.", "S": ["pigment ", "stain ", "tint "], "A": ["bleach "]}

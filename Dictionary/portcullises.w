@@ -1,0 +1,1 @@
+{"index": 243603, "D": "(especially in medieval castles) a strong grating, as of iron, made to slide along vertical grooves at the sides of a gateway of a fortified place and let down to prevent passage.", "S": ["bar ", "door ", "doorway ", "exit ", "fence ", "port "], "A": []}

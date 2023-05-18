@@ -1,0 +1,1 @@
+{"index": 357235, "D": "of, pertaining to, designating, or characteristic of a variety. ", "S": ["disparate ", "divergent ", "diverse ", "varied "], "A": ["alike ", "like ", "same ", "similar "]}

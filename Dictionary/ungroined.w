@@ -1,0 +1,1 @@
+{"index": 343301, "D": "the fold or hollow on either side of the front of the body where the thigh joins the abdomen.", "S": [], "A": []}

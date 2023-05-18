@@ -1,0 +1,1 @@
+{"index": 27486, "D": "a book  held by a depositor in which a bank  enters a record of deposits and withdrawals.", "S": [], "A": []}

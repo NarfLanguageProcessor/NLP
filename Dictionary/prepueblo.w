@@ -1,0 +1,1 @@
+{"index": 248985, "D": "a communal structure for multiple dwelling and defensive purposes of certain agricultural Indians of the southwestern United States", "S": [], "A": []}

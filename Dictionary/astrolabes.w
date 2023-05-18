@@ -1,0 +1,1 @@
+{"index": 22269, "D": "an astronomical instrument for taking the altitude of the sun or stars and for the solution of other problems in astronomy and navigation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 30790, "D": "a school of psychology that regards the objective observation of the behaviour of organisms (usually by means of automatic recording devices) as the only proper subject for study and that often refuses to postulate any intervening mechanisms between the stimulus and the response", "S": [], "A": []}

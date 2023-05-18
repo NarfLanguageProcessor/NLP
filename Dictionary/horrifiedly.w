@@ -1,0 +1,1 @@
+{"index": 143970, "D": "showing or indicating great shock or horror", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 136346, "D": "a primordial cell capable of developing into any type of blood cell.", "S": [], "A": []}

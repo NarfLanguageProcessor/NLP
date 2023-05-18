@@ -1,0 +1,1 @@
+{"index": 362625, "D": "a colorless, crystalline, water-insoluble anticoagulant, C19H16O4, used chiefly as a rodenticide.", "S": [], "A": []}

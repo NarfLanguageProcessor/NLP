@@ -1,0 +1,1 @@
+{"index": 328495, "D": "articles of equipment or dress, especially of an ornamental character.", "S": ["abduction ", "apprehension ", "arrest ", "confiscation ", "imprisonment ", "occupation ", "seizure ", "taking "], "A": ["letting go ", "release ", "rise "]}

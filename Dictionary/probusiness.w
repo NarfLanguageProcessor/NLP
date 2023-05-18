@@ -1,0 +1,1 @@
+{"index": 251116, "D": "in favour of or supporting the practices of business", "S": [], "A": []}

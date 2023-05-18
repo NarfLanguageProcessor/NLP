@@ -1,0 +1,1 @@
+{"index": 332012, "D": "a city in Baden-W\u00fcrttemberg, southwestern Germany, between the Neckar and Ammer rivers", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128015, "D": "(of a square sail) having the lee clew furled while the weather clew is held taut.", "S": [], "A": []}

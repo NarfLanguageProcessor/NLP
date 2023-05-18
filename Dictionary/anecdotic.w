@@ -1,0 +1,1 @@
+{"index": 12476, "D": "anecdotal. ", "S": ["definitive ", "detailed ", "eloquent ", "expressive ", "identifying ", "illuminating ", "pictorial ", "revealing ", "vivid "], "A": ["dull "]}

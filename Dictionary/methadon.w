@@ -1,0 +1,1 @@
+{"index": 185188, "D": "a synthetic narcotic, C21H28ClNO, similar to morphine but effective orally, used in the relief of pain and as a heroin substitute in the treatment of heroin addiction.", "S": [], "A": []}

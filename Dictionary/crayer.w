@@ -1,0 +1,1 @@
+{"index": 71935, "D": "a small sailing vessel formerly used in trade along the coasts of western Europe.", "S": [], "A": []}

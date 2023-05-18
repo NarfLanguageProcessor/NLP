@@ -1,0 +1,1 @@
+{"index": 171927, "D": "a person sentenced to or serving a term of life  imprisonment.", "S": ["captive ", "convict ", "detainee ", "hostage "], "A": []}

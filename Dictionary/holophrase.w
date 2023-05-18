@@ -1,0 +1,1 @@
+{"index": 142637, "D": "a word functioning as a phrase  or sentence, as the imperative Go!", "S": [], "A": []}

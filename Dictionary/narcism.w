@@ -1,0 +1,1 @@
+{"index": 196924, "D": "inordinate fascination with oneself; excessive self-love; vanity. ", "S": [], "A": []}

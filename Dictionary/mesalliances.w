@@ -1,0 +1,1 @@
+{"index": 184002, "D": "a marriage with someone who is considered socially inferior; misalliance.", "S": [], "A": []}

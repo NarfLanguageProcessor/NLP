@@ -1,0 +1,1 @@
+{"index": 10270, "D": "absence of the menses.", "S": [], "A": []}

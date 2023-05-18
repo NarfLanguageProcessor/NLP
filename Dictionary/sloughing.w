@@ -1,0 +1,1 @@
+{"index": 294425, "D": "the outer layer of the skin of a snake, which is cast off periodically.", "S": ["bog ", "bottoms ", "fen ", "glade ", "marsh ", "marshland ", "mire ", "moor ", "morass ", "mud ", "polder ", "quag ", "quagmire ", "swale ", "swampland ", "wetland "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203154, "D": "constituting a particular quality, trait, or difference; characteristic; notable.", "S": [], "A": []}

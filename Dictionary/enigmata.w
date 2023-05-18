@@ -1,0 +1,1 @@
+{"index": 100569, "D": "a puzzling or inexplicable occurrence or situation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237720, "D": "a potent substance, C12H13ClN4, used against susceptible plasmodia in the prophylactic treatment of malaria and against Toxoplasma gondi in the treatment of toxoplasmosis.", "S": [], "A": []}

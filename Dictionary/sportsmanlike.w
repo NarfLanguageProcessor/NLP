@@ -1,0 +1,1 @@
+{"index": 301063, "D": "a man who engages in sports,  especially in some open-air sport, as hunting, fishing, racing, etc.", "S": ["clean ", "fair ", "forthright ", "good ", "honest ", "honorable ", "sincere ", "sporting "], "A": []}

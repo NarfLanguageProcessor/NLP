@@ -1,0 +1,1 @@
+{"index": 32361, "D": "to lay siege to.", "S": ["beleaguer ", "beset ", "blockade ", "encircle ", "hem in ", "trap "], "A": ["let go "]}

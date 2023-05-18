@@ -1,0 +1,1 @@
+{"index": 340980, "D": "the flowing back of the tide as the water returns to the sea (opposed to flood, flow).", "S": [], "A": []}

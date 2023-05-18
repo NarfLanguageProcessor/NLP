@@ -1,0 +1,1 @@
+{"index": 264485, "D": "based on or explained by an analysis of the simplest or most basic factors of a complex phenomenon", "S": [], "A": []}

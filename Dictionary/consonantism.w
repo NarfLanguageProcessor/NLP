@@ -1,0 +1,1 @@
+{"index": 66932, "D": "the system of consonants  of a particular language.", "S": [], "A": []}

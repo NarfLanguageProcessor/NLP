@@ -1,0 +1,1 @@
+{"index": 163258, "D": "a vast plateau in the Republic of South Africa,  in Cape of Good Hope  province. 100,000 square miles (260,000 square kilometers); 3000\u20134000 feet (900\u20131200 meters) above sea level.", "S": [], "A": []}

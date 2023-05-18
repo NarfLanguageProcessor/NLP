@@ -1,0 +1,1 @@
+{"index": 247246, "D": "(of land) occupied in order to establish a prior right to buy", "S": ["amused ", "averted ", "changed ", "entertained ", "reclassified ", "redirected ", "sidetracked ", "used "], "A": ["bored ", "depressed "]}

@@ -1,0 +1,1 @@
+{"index": 350639, "D": "a part that is cut off or separated.", "S": [], "A": []}

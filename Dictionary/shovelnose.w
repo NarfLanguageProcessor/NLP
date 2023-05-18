@@ -1,0 +1,1 @@
+{"index": 289034, "D": "any of various animals with a shovellike snout or head, as a guitarfish, Rhinobatos productus, of California.", "S": [], "A": []}

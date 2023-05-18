@@ -1,0 +1,1 @@
+{"index": 339181, "D": "a prominent or conspicuous part or characteristic", "S": [], "A": []}

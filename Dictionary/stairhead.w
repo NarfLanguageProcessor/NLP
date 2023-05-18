@@ -1,0 +1,1 @@
+{"index": 302439, "D": "the top of a staircase; top landing.", "S": [], "A": []}

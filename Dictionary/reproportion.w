@@ -1,0 +1,1 @@
+{"index": 268669, "D": "comparative relation between things or magnitudes as to size, quantity, number, etc.; ratio.", "S": [], "A": []}

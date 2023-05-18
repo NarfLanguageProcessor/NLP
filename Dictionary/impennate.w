@@ -1,0 +1,1 @@
+{"index": 148460, "D": "(of birds) lacking true functional wings or feathers", "S": [], "A": []}

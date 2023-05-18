@@ -1,0 +1,1 @@
+{"index": 82566, "D": "an ardent longing, as for something lost.", "S": [], "A": []}

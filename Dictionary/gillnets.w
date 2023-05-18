@@ -1,0 +1,1 @@
+{"index": 124948, "D": "to catch (a fish) with a gill net.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84617, "D": "the use of diatonic  harmony; composition in a diatonic  idiom.", "S": [], "A": []}

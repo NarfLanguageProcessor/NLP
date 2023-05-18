@@ -1,0 +1,1 @@
+{"index": 205753, "D": "having no equal; peerless. ", "S": ["ideal ", "model "], "A": []}

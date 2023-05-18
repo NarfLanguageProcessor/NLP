@@ -1,0 +1,1 @@
+{"index": 40035, "D": "a club with a wooden head, the brass-plated face of which has more slope than a driver but less than a spoon, for hitting long, low drives on the fairway.", "S": ["driver ", "iron ", "mashie ", "midiron ", "niblick ", "putter ", "spoon ", "stick ", "wedge ", "wood "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 120983, "D": "an ox, Bibos frontalis, of southeastern Asia and the Malay Archipelago, sometimes considered to be a domesticated breed of the gaur.", "S": [], "A": []}

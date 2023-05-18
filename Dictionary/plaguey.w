@@ -1,0 +1,1 @@
+{"index": 238689, "D": "such as to plague,  torment, or annoy; vexatious", "S": [], "A": []}

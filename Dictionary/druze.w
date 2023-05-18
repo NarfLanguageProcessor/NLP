@@ -1,0 +1,1 @@
+{"index": 93624, "D": "a member of an independent religious sect living chiefly in Syria, Lebanon, and Israel, established in the 11th century as a branch of Isma\u02bfili Shi\u02bfism and containing elements of Christianity, Judaism, and Islam, and believing in the transmigration of souls and the ultimate perfection of humankind.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235120, "D": "nuclear fission  induced by the absorption of a high-energy photon.", "S": [], "A": []}

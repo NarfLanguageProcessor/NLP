@@ -1,0 +1,1 @@
+{"index": 309793, "D": "following or succeeding; subsequent.", "S": ["ensuing ", "successive "], "A": ["broken ", "discontinuous ", "infrequent ", "intermittent ", "interrupted "]}

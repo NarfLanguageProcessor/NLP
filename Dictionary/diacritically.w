@@ -1,0 +1,1 @@
+{"index": 84067, "D": "serving to distinguish; distinctive.", "S": [], "A": []}

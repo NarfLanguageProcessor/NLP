@@ -1,0 +1,1 @@
+{"index": 223818, "D": "a public place for training or exercise in wrestling or athletics.", "S": [], "A": []}

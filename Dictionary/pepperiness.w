@@ -1,0 +1,1 @@
+{"index": 230222, "D": "full of or tasting like pepper;  hot; pungent.", "S": [], "A": []}

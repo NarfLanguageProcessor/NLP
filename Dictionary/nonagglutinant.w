@@ -1,0 +1,1 @@
+{"index": 201209, "D": "uniting, as glue; causing adhesion.", "S": [], "A": []}

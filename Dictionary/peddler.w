@@ -1,0 +1,1 @@
+{"index": 228807, "D": "a person who sells from door to door or in the street.", "S": ["vendor "], "A": []}

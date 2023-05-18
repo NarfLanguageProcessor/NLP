@@ -1,0 +1,1 @@
+{"index": 243145, "D": "a small body of standing water; pond. ", "S": ["merge "], "A": ["divide ", "separate "]}

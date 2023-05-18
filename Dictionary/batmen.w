@@ -1,0 +1,1 @@
+{"index": 29039, "D": "a soldier assigned to an officer as a servant.", "S": [], "A": []}

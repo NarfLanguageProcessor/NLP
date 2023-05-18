@@ -1,0 +1,1 @@
+{"index": 15056, "D": "the doctrine that matter and all things were created,  substantially as they now exist, by an omnipotent Creator, and not gradually evolved or developed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229769, "D": "(in troy weight) a unit of 24 grains or 1/20 of an ounce (1.56 grams). Abbreviation", "S": [], "A": []}

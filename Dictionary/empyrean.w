@@ -1,0 +1,1 @@
+{"index": 98782, "D": "the highest heaven, supposed by the ancients to contain the pure element of fire.", "S": ["cosmos ", "ether ", "firmament ", "paradise ", "sky "], "A": []}

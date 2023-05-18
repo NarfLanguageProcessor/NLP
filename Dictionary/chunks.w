@@ -1,0 +1,1 @@
+{"index": 56647, "D": "a thick mass or lump of anything", "S": ["block ", "dollop ", "hunk ", "lump ", "piece ", "portion ", "wad "], "A": ["whole "]}

@@ -1,0 +1,1 @@
+{"index": 215045, "D": "(of a square matrix) defined so that its product with its transpose results in the identity matrix.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365950, "D": "any plant belonging to the genus Anemone, of the buttercup family, having divided leaves and showy, solitary flowers.", "S": [], "A": []}

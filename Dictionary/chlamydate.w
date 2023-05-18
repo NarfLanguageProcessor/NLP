@@ -1,0 +1,1 @@
+{"index": 54990, "D": "having a mantle or pallium, as a mollusk.", "S": [], "A": []}

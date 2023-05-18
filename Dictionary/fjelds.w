@@ -1,0 +1,1 @@
+{"index": 113648, "D": "a rocky, barren plateau of the Scandinavian peninsula.", "S": [], "A": []}

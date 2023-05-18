@@ -1,0 +1,1 @@
+{"index": 2118, "D": "any of several ellipsoidal or rodshaped aerobic bacteria of the genus Acetobacter, certain species of which are used in making vinegar.", "S": [], "A": []}

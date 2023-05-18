@@ -1,0 +1,1 @@
+{"index": 12829, "D": "of or relating to an angiosperm;  having enclosed seeds.", "S": [], "A": []}

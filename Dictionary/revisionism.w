@@ -1,0 +1,1 @@
+{"index": 271392, "D": "advocacy or approval of revision. ", "S": ["blasphemy ", "fallacy "], "A": ["agreement ", "belief ", "harmony "]}

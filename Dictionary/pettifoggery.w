@@ -1,0 +1,1 @@
+{"index": 232597, "D": "to bicker or quibble over trifles or unimportant matters.", "S": [], "A": []}

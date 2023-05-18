@@ -1,0 +1,1 @@
+{"index": 6257, "D": "glimmering;  shining faintly or unsteadily.", "S": [], "A": []}

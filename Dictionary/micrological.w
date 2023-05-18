@@ -1,0 +1,1 @@
+{"index": 186233, "D": "excessive attention to petty details or distinctions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 269230, "D": "a person who makes or takes reservations,  as at an airline office; reservation  clerk.", "S": [], "A": []}

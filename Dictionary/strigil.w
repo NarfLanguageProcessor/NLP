@@ -1,0 +1,1 @@
+{"index": 306280, "D": "an instrument with a curved blade, used especially by the ancient Greeks and Romans for scraping the skin at the bath and in the gymnasium.", "S": [], "A": []}

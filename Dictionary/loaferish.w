@@ -1,0 +1,1 @@
+{"index": 174094, "D": "a person who loafs;  lazy person; idler.", "S": [], "A": []}

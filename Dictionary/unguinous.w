@@ -1,0 +1,1 @@
+{"index": 343385, "D": "resembling, containing, or consisting of fat or oil; greasy; oily.", "S": [], "A": []}

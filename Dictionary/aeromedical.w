@@ -1,0 +1,1 @@
+{"index": 5063, "D": "of or relating to the science or practice of aviation medicine.", "S": [], "A": []}

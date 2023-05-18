@@ -1,0 +1,1 @@
+{"index": 330484, "D": "three-winged; having three wings or winglike expansions.", "S": [], "A": []}

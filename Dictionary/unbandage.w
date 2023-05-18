@@ -1,0 +1,1 @@
+{"index": 335578, "D": "a strip of cloth or other material used to bind up a wound, sore, sprain, etc.", "S": [], "A": []}

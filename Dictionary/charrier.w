@@ -1,0 +1,1 @@
+{"index": 52949, "D": "of, like, or covered with charcoal.", "S": [], "A": []}

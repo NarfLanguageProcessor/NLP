@@ -1,0 +1,1 @@
+{"index": 299869, "D": "long or tall and slender, often disproportionately so.", "S": ["awkward ", "bony ", "gangly ", "gawky ", "lanky ", "leggy ", "long-legged ", "long-limbed ", "lumbering ", "rangy ", "skinny ", "spindly ", "tall ", "thin "], "A": []}

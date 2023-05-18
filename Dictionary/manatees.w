@@ -1,0 +1,1 @@
+{"index": 178907, "D": "any of several plant-eating aquatic mammals of the genus Trichechus, of West Indian, Floridian, and Gulf Coast waters, having two flippers in front and a broad, spoon-shaped tail", "S": [], "A": []}

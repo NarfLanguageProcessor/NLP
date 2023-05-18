@@ -1,0 +1,1 @@
+{"index": 13200, "D": "full of life, action, or spirit; lively; vigorous", "S": ["ardently ", "assiduously ", "carefully ", "diligently ", "eagerly ", "earnestly ", "energetically ", "enthusiastically ", "hastily ", "hurriedly ", "laboriously ", "nimbly ", "painstakingly ", "purposefully ", "restlessly ", "vigorously "], "A": ["idly ", "inactively ", "quietly "]}

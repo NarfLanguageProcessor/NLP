@@ -1,0 +1,1 @@
+{"index": 219833, "D": "to indulge  to excess", "S": ["fat ", "weak "], "A": ["callous ", "firm ", "fit ", "healthy ", "strong ", "well "]}

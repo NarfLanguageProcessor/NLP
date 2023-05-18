@@ -1,0 +1,1 @@
+{"index": 171894, "D": "a sailor qualified to take charge of a lifeboat  or life raft.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9160, "D": "money, food, or other donations given to people in need; anything given as charity", "S": ["aid ", "assistance ", "benefaction ", "charity ", "contribution ", "dole ", "donation ", "offering "], "A": ["hindrance ", "injury "]}

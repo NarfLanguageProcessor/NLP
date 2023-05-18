@@ -1,0 +1,1 @@
+{"index": 79534, "D": "degree; degrees.", "S": [], "A": []}

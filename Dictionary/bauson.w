@@ -1,0 +1,1 @@
+{"index": 29233, "D": "a badger (applied contemptuously to people).", "S": [], "A": []}

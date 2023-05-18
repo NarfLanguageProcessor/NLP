@@ -1,0 +1,1 @@
+{"index": 258638, "D": "an alkaloid, C23H30ClN3O, similar in its properties to pamaquine, used in the treatment of malaria.", "S": [], "A": []}

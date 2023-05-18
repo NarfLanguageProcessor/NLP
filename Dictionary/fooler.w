@@ -1,0 +1,1 @@
+{"index": 116096, "D": [], "S": ["campy ", "comical ", "eccentric ", "goofy ", "kooky ", "loony ", "madcap ", "wacky "], "A": ["serious "]}

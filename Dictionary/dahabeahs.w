@@ -1,0 +1,1 @@
+{"index": 76237, "D": "a large boat used on the Nile as a houseboat or for conveying passengers.", "S": [], "A": []}

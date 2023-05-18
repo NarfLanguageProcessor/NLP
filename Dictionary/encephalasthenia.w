@@ -1,0 +1,1 @@
+{"index": 99187, "D": "mental fatigue caused by emotional stress.", "S": [], "A": []}

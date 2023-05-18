@@ -1,0 +1,1 @@
+{"index": 219670, "D": "scornful pride, snobbishness, or arrogance", "S": [], "A": []}

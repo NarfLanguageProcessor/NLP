@@ -1,0 +1,1 @@
+{"index": 289008, "D": "to call or cry out loudly and vigorously.", "S": [], "A": []}

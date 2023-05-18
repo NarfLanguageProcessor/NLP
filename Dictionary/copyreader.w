@@ -1,0 +1,1 @@
+{"index": 68542, "D": "an editor concerned with the preparation of copy  for the typesetter and printer.", "S": ["copyholder ", "deskman ", "newspaperman ", "newspaperwoman ", "proofreader ", "reviser ", "rewriter "], "A": []}

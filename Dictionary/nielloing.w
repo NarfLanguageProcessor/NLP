@@ -1,0 +1,1 @@
+{"index": 199815, "D": "a black metallic substance, consisting of silver, copper, lead, and sulfur, with which an incised design or ground is filled to produce an ornamental effect on metal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237386, "D": "having or showing a dutiful spirit of reverence for God or an earnest wish to fulfill religious obligations.", "S": ["accurately ", "correctly ", "decently ", "duly ", "equally ", "equitably ", "honestly ", "honorably ", "impartially ", "lawfully ", "legally ", "legitimately ", "properly ", "reasonably ", "rightfully ", "rightly "], "A": ["wrongly "]}

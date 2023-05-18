@@ -1,0 +1,1 @@
+{"index": 267465, "D": "far apart; far distant in space; situated at some distance away", "S": ["distant ", "far-flung ", "far-off ", "faraway ", "inaccessible ", "isolated ", "lonely ", "lonesome ", "obscure ", "outlying ", "private ", "secluded ", "unknown "], "A": ["befriended ", "close ", "known ", "loved ", "mingling ", "near ", "open ", "public ", "sociable "]}

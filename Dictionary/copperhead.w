@@ -1,0 +1,1 @@
+{"index": 68599, "D": "a venomous snake, Agkistrodon (Ancistrodon) contortrix, of the eastern and southern U.S., having a light-brown to copper-red body marked with darker bands.", "S": ["cobra "], "A": []}

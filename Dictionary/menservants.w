@@ -1,0 +1,1 @@
+{"index": 183455, "D": "plural of manservant. ", "S": ["man ", "steward ", "valet "], "A": ["boss ", "master "]}

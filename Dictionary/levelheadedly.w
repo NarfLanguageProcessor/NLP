@@ -1,0 +1,1 @@
+{"index": 171197, "D": "having common sense and sound judgment; sensible.", "S": [], "A": []}

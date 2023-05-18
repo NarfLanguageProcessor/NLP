@@ -1,0 +1,1 @@
+{"index": 274920, "D": "exciting; stirring", "S": ["bouncy ", "chirpy ", "enthusiastic ", "lively ", "spirited ", "zippy "], "A": ["apathetic ", "dispirited ", "lethargic ", "idle ", "inactive ", "lazy ", "quiet ", "sluggish "]}

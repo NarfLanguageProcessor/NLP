@@ -1,0 +1,1 @@
+{"index": 57932, "D": "an epithet of Aphrodite, meaning \u201cLady of Cyprus.\u201d", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323393, "D": "(in a ribbed vault) a diagonal rib, other than an ogive, springing from a point of support.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 88078, "D": "to mar the appearance or beauty of; deform; deface", "S": ["curved ", "curving ", "devious ", "errant ", "gnarled ", "meandering ", "serpentine ", "sinuous ", "twisted ", "twisting ", "winding "], "A": ["straight ", "unbent "]}

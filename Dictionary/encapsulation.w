@@ -1,0 +1,1 @@
+{"index": 99132, "D": "the act or process of placing or containing something within or as if within a capsule", "S": [], "A": []}

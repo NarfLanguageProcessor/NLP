@@ -1,0 +1,1 @@
+{"index": 282495, "D": "a person or thing that seams", "S": [], "A": []}

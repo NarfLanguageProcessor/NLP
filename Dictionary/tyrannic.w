@@ -1,0 +1,1 @@
+{"index": 324435, "D": "of or characteristic of a tyrant.", "S": ["absolute ", "authoritative ", "autocratic ", "despotic ", "dictatorial ", "disciplinarian ", "doctrinaire ", "dogmatic ", "harsh ", "imperious ", "magisterial ", "rigid ", "severe ", "strict ", "totalitarian ", "tyrannical ", "unyielding "], "A": []}

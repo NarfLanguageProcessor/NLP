@@ -1,0 +1,1 @@
+{"index": 29216, "D": "a member of a nonconformist Bengalese sect having gurus but no dogmas, rituals, religious institutions, or scriptures.", "S": [], "A": []}

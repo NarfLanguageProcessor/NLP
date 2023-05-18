@@ -1,0 +1,1 @@
+{"index": 227992, "D": "a person who held an estate in land with certain manorial privileges granted under the old Dutch governments of New York and New Jersey.", "S": [], "A": []}

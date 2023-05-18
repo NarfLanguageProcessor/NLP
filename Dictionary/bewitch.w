@@ -1,0 +1,1 @@
+{"index": 32985, "D": "to affect by witchcraft or magic; cast a spell over.", "S": ["beguile ", "captivate ", "dazzle ", "enchant ", "enrapture ", "enthrall ", "fascinate ", "hypnotize "], "A": ["bore ", "disenchant ", "disgust ", "offend ", "repel ", "repulse ", "tire ", "reject ", "turn off "]}

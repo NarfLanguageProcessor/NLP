@@ -1,0 +1,1 @@
+{"index": 8366, "D": "a simple past tense and past participle of alight1. ", "S": ["descend ", "disembark ", "get off ", "perch ", "touch down "], "A": ["mount "]}

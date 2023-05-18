@@ -1,0 +1,1 @@
+{"index": 352405, "D": "a simple past tense and past participle of sink. ", "S": [], "A": []}

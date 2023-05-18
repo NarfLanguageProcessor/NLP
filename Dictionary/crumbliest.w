@@ -1,0 +1,1 @@
+{"index": 74179, "D": "apt to crumble;  friable.", "S": ["powdery ", "soft "], "A": ["flexible ", "pliable "]}

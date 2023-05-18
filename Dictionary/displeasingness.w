@@ -1,0 +1,1 @@
+{"index": 89074, "D": "to incur the dissatisfaction, dislike, or disapproval of; offend; annoy", "S": [], "A": []}

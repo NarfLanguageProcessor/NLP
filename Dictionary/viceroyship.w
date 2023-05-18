@@ -1,0 +1,1 @@
+{"index": 359390, "D": "a person appointed to rule a country or province as the deputy of the sovereign", "S": [], "A": []}

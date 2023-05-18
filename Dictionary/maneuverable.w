@@ -1,0 +1,1 @@
+{"index": 179101, "D": "capable of being steered or directed; easy to maneuver", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362126, "D": "(of sleep) sound; deep", "S": [], "A": []}

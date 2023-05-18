@@ -1,0 +1,1 @@
+{"index": 245534, "D": "a person who follows or upholds a leader, cause, etc.; supporter; follower.", "S": [], "A": []}

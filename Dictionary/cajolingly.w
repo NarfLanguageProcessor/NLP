@@ -1,0 +1,1 @@
+{"index": 44657, "D": "to persuade by flattery or promises; wheedle; coax.", "S": [], "A": []}

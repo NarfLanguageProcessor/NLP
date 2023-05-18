@@ -1,0 +1,1 @@
+{"index": 145676, "D": "(in Latin America) Yankee; a citizen of the U.S.", "S": [], "A": []}

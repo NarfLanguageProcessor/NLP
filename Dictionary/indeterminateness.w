@@ -1,0 +1,1 @@
+{"index": 150842, "D": "not determinate; not precisely fixed in extent; indefinite; uncertain.", "S": ["doubt ", "uncertainty ", "vagueness "], "A": ["certainty "]}

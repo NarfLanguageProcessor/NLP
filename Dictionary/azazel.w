@@ -1,0 +1,1 @@
+{"index": 25232, "D": "the demon or place in the wilderness to which the scapegoat is released in an atonement ritual. Leviticus 16", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77823, "D": "to indent (a figure or design) into a surface", "S": [], "A": []}

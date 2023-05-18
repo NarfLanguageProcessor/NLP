@@ -1,0 +1,1 @@
+{"index": 141284, "D": "by hypothesis; according to assumptions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111986, "D": "material consisting of matted fine glass fibres, used as insulation in buildings, in fireproof fabrics, etc", "S": [], "A": []}

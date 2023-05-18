@@ -1,0 +1,1 @@
+{"index": 259961, "D": "the destruction of the gods and of all things in a final battle with the evil powers.", "S": [], "A": []}

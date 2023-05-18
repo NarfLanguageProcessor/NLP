@@ -1,0 +1,1 @@
+{"index": 211798, "D": "one of the conidia that are borne in chains by certain fungi.", "S": [], "A": []}

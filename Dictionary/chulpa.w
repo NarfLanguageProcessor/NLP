@@ -1,0 +1,1 @@
+{"index": 56595, "D": "a type of prehistoric stone tower, found in Brazil and Peru, having living quarters over a burial chamber.", "S": [], "A": []}

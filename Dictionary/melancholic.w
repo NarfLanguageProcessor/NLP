@@ -1,0 +1,1 @@
+{"index": 182669, "D": "disposed to or affected with melancholy; gloomy.", "S": ["gloomy ", "lugubrious ", "melancholy ", "wistful "], "A": ["cheerful ", "happy ", "joyful ", "heartened "]}

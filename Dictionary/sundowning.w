@@ -1,0 +1,1 @@
+{"index": 311100, "D": "a state of confusion, disorientation, or anxiety seen late in the day or at night, especially in dementia patients, likely as a result of strange surroundings, drug effects, decreased sensory input, or reduction of oxygen supply to the brain", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83661, "D": "noting or pertaining to a period of the Paleozoic Era, 405 to 345 million years ago, characterized by the dominance of fishes and the advent of amphibians and ammonites.", "S": [], "A": []}

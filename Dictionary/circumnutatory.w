@@ -1,0 +1,1 @@
+{"index": 58188, "D": "(of the apex of a stem or other growing part of a plant) to bend or move around in an irregular circular or elliptical path.", "S": [], "A": []}

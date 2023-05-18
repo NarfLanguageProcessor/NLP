@@ -1,0 +1,1 @@
+{"index": 24421, "D": "suggestion  arising from oneself, as the repetition of verbal messages as a means of changing behavior.", "S": ["indication ", "notion ", "suspicion ", "thought "], "A": ["information "]}

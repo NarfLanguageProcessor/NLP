@@ -1,0 +1,1 @@
+{"index": 62711, "D": "the sheath that envelops the radicle in certain plants and that is penetrated by the root in germination.", "S": [], "A": []}

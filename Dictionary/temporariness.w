@@ -1,0 +1,1 @@
+{"index": 318594, "D": "lasting, existing, serving, or effective for a time only; not permanent", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27792, "D": "an outwork of a fortified place, as a castle.", "S": ["beacon ", "landmark ", "lighthouse ", "observatory "], "A": []}

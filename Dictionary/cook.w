@@ -1,0 +1,1 @@
+{"index": 68220, "D": "to prepare (food) by the use of heat, as by boiling, baking, or roasting.", "S": ["baker ", "chef ", "servant "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227521, "D": "a sweet baked food made of dough, especially the shortened paste  used for pie crust and the like.", "S": ["bread ", "cake ", "croissant ", "doughnut ", "phyllo ", "pie "], "A": []}

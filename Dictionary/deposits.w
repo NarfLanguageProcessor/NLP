@@ -1,0 +1,1 @@
+{"index": 81782, "D": "to place for safekeeping or in trust, especially in a bank account", "S": ["dirt ", "lees ", "residue ", "settlings ", "slag ", "waste "], "A": []}

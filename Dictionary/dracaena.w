@@ -1,0 +1,1 @@
+{"index": 92448, "D": "any treelike tropical plant of the genus Dracaena, many species of which are cultivated as ornamentals for their showy leaves.", "S": [], "A": []}

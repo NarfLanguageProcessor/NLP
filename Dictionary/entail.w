@@ -1,0 +1,1 @@
+{"index": 101152, "D": "to cause or involve by necessity or as a consequence", "S": ["bring about ", "call for ", "encompass ", "involve ", "lead to ", "necessitate ", "require "], "A": ["exclude ", "untangle ", "untwist "]}

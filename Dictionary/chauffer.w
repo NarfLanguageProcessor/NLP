@@ -1,0 +1,1 @@
+{"index": 53166, "D": "a small, portable stove.", "S": [], "A": []}

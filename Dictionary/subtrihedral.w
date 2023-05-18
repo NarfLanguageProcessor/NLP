@@ -1,0 +1,1 @@
+{"index": 309604, "D": "having, or formed by, three planes meeting in a point", "S": [], "A": []}

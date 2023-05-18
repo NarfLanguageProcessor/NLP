@@ -1,0 +1,1 @@
+{"index": 40789, "D": "a large gaffsail on the mainmast or trysail mast of a brig.", "S": [], "A": []}

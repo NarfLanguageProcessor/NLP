@@ -1,0 +1,1 @@
+{"index": 41197, "D": "burdened with great sorrow, grief, or disappointment.", "S": [], "A": []}

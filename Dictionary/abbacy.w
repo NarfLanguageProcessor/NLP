@@ -1,0 +1,1 @@
+{"index": 180, "D": "the rank, rights, privileges, or jurisdiction of an abbot.", "S": [], "A": []}

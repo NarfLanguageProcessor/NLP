@@ -1,0 +1,1 @@
+{"index": 201534, "D": "contracting; constrictive; styptic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266699, "D": "a netlike ornamental fabric made of threads by hand or machine.", "S": [], "A": []}

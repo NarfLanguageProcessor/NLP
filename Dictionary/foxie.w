@@ -1,0 +1,1 @@
+{"index": 118092, "D": "Australian an informal name for fox terrier", "S": [], "A": []}

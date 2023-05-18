@@ -1,0 +1,1 @@
+{"index": 178681, "D": "a crystalline compound, C6H6O3, obtained from larch bark, pine needles, chicory, or roasted malt,  used for enhancing flavors and aromas, as in foods, wines, and perfumes.", "S": [], "A": []}

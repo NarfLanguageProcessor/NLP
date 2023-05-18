@@ -1,0 +1,1 @@
+{"index": 97524, "D": "elflike; elfin; small and mischievous.", "S": [], "A": []}

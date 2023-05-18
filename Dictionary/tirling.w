@@ -1,0 +1,1 @@
+{"index": 324522, "D": "a wheel, cam, or any revolving mechanism or piece of machinery.", "S": [], "A": []}

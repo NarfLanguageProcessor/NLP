@@ -1,0 +1,1 @@
+{"index": 253951, "D": "to project.", "S": ["bulge ", "jut out ", "poke "], "A": ["cave in ", "contract ", "keep ", "shrink "]}

@@ -1,0 +1,1 @@
+{"index": 184663, "D": "having the tips of the mandibles crossed, as the crossbills.", "S": [], "A": []}

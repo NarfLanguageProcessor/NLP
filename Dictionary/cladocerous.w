@@ -1,0 +1,1 @@
+{"index": 59006, "D": "any or several small, transparent crustaceans of the order Cladocera, having the body covered by a bivalve shell from which the head and antennae extend.", "S": [], "A": []}

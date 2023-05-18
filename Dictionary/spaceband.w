@@ -1,0 +1,1 @@
+{"index": 298143, "D": "a wedge-shaped piece of metal used in typecasting machines to adjust the space between words and to justify lines of type.", "S": [], "A": []}

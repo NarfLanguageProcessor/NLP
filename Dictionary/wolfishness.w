@@ -1,0 +1,1 @@
+{"index": 366913, "D": "resembling a wolf,  as in form or characteristics.", "S": [], "A": []}

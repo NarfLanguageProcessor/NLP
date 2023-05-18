@@ -1,0 +1,1 @@
+{"index": 111040, "D": "a town in NE England, in Gateshead unitary authority, Tyne and Wear; formerly noted for coal mining. Pop", "S": ["drop ", "flatten ", "raze ", "shoot ", "shoot down ", "slash ", "tumble "], "A": ["raise ", "aid ", "assist ", "build ", "combine ", "construct ", "help ", "join ", "unite "]}

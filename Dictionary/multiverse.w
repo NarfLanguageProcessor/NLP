@@ -1,0 +1,1 @@
+{"index": 195423, "D": "(in cosmology) a hypothetical collection of identical or diverse universes, including our own", "S": [], "A": []}

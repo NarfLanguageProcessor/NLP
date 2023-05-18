@@ -1,0 +1,1 @@
+{"index": 106400, "D": "strictly accurate or correct", "S": ["accurate ", "correct ", "definite ", "explicit ", "identical ", "literal ", "perfect ", "rigorous ", "specific ", "true "], "A": ["flawed ", "imprecise ", "inaccurate ", "indefinite ", "inexact ", "loose ", "obscure ", "uncertain ", "vague ", "wrong ", "ambiguous ", "fuzzy "]}

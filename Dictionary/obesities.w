@@ -1,0 +1,1 @@
+{"index": 210051, "D": "the condition of being very fat or overweight; corpulence", "S": ["bulk ", "chubbiness ", "fatness ", "overweight ", "paunchiness ", "plumpness ", "rotundness ", "stoutness "], "A": []}

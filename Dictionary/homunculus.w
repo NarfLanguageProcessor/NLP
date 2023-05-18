@@ -1,0 +1,1 @@
+{"index": 143307, "D": "an artificially made dwarf, supposedly produced in a flask by an alchemist.", "S": ["gnome ", "goblin ", "gremlin ", "hobgoblin ", "troll "], "A": ["giant "]}

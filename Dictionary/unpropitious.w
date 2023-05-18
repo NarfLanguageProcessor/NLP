@@ -1,0 +1,1 @@
+{"index": 348650, "D": "presenting favorable conditions; favorable", "S": ["adverse ", "antagonistic ", "contrary ", "ill ", "inauspicious ", "ominous ", "threatening "], "A": []}

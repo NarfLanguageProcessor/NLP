@@ -1,0 +1,1 @@
+{"index": 293969, "D": "to make slender  or more slender. ", "S": [], "A": []}

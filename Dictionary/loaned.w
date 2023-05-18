@@ -1,0 +1,1 @@
+{"index": 174116, "D": "the act of lending; a grant of the temporary use of something", "S": ["advanced ", "bestowed ", "entrusted ", "given ", "granted ", "intrusted ", "leased ", "let "], "A": []}

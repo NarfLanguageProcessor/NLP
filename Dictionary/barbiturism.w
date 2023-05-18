@@ -1,0 +1,1 @@
+{"index": 27812, "D": "chronic poisoning caused by the excessive use of phenobarbital, secobarbital, or other derivative of barbituric acid. ", "S": [], "A": []}

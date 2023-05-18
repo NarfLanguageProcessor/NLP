@@ -1,0 +1,1 @@
+{"index": 348464, "D": "thinking too highly of oneself; conceited, arrogant, or overconfident", "S": [], "A": []}

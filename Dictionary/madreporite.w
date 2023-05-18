@@ -1,0 +1,1 @@
+{"index": 177248, "D": "a sievelike plate in certain echinoderms, through which water passes into the vascular system.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 79748, "D": "the act of regarding, representing, or treating a person or group as less than human", "S": [], "A": []}

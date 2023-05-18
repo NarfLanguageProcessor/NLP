@@ -1,0 +1,1 @@
+{"index": 286060, "D": "arranged or occurring in one or more series.", "S": [], "A": []}

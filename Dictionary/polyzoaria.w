@@ -1,0 +1,1 @@
+{"index": 242640, "D": "a bryozoan colony, or its supporting skeleton.", "S": [], "A": []}

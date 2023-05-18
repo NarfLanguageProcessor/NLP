@@ -1,0 +1,1 @@
+{"index": 294171, "D": "a knot  that slips  easily along the cord or line around which it is made.", "S": [], "A": []}

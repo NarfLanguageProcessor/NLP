@@ -1,0 +1,1 @@
+{"index": 154, "D": "to reduce in amount, degree, intensity, etc.; lessen; diminish", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}

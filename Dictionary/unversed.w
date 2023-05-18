@@ -1,0 +1,1 @@
+{"index": 353777, "D": "experienced; practiced; skilled; learned (usually followed by in)", "S": ["ignorant ", "inexperienced ", "uneducated ", "unlearned ", "unread ", "unschooled "], "A": []}

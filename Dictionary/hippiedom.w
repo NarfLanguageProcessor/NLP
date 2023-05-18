@@ -1,0 +1,1 @@
+{"index": 141386, "D": "the lifestyle and world of hippies,  especially in the 1960s.", "S": [], "A": []}

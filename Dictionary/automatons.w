@@ -1,0 +1,1 @@
+{"index": 24211, "D": "a mechanical figure or contrivance constructed to act as if by its own motive power; robot.", "S": ["agent ", "clone ", "drudge ", "grind ", "laborer ", "puppet ", "robot ", "zombie "], "A": []}

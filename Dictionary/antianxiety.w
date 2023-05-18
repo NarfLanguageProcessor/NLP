@@ -1,0 +1,1 @@
+{"index": 14737, "D": "tending to prevent or relieve anxiety. ", "S": [], "A": []}

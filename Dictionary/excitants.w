@@ -1,0 +1,1 @@
+{"index": 106696, "D": "exciting;  stimulating.", "S": ["motivator "], "A": []}

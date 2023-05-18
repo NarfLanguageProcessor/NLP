@@ -1,0 +1,1 @@
+{"index": 259188, "D": "the theoretical intrinsic rate of increase of a population, equivalent to the difference between the birth and death rates divided by the number of individuals in the population.", "S": [], "A": []}

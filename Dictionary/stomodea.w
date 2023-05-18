@@ -1,0 +1,1 @@
+{"index": 305167, "D": "a depression in the ectoderm of the oral region of a young embryo, which develops into the mouth and oral cavity.", "S": [], "A": []}

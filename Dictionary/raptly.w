@@ -1,0 +1,1 @@
+{"index": 260785, "D": "with the attention completely engaged; in a way that shows deep absorption in something", "S": [], "A": []}

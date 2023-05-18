@@ -1,0 +1,1 @@
+{"index": 202052, "D": "lying in the same straight line.", "S": [], "A": []}

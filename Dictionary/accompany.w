@@ -1,0 +1,1 @@
+{"index": 1655, "D": "to go along or in company with; join in action", "S": ["attend ", "escort ", "follow ", "guide ", "lead "], "A": ["abandon ", "disregard ", "leave ", "lose ", "neglect ", "ignore "]}

@@ -1,0 +1,1 @@
+{"index": 71047, "D": "a reply  made in response to a reply;  rejoinder.", "S": [], "A": []}

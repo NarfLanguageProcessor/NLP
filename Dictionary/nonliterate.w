@@ -1,0 +1,1 @@
+{"index": 205051, "D": "preliterate. ", "S": ["naive ", "rudimentary ", "simple ", "underdeveloped ", "undeveloped ", "unsophisticated "], "A": ["developed ", "experienced ", "mature ", "sophisticated ", "calm ", "civilized ", "kind ", "mild ", "moderate ", "nice ", "polite ", "refined ", "tame "]}

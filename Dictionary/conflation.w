@@ -1,0 +1,1 @@
+{"index": 65986, "D": "the process or result of fusing items into one entity; fusion; amalgamation.", "S": ["fusion ", "pluralism "], "A": []}

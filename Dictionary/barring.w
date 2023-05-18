@@ -1,0 +1,1 @@
+{"index": 28377, "D": "excepting; except for", "S": ["bar ", "discounting ", "excepting ", "excluding "], "A": []}

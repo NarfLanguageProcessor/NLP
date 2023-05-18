@@ -1,0 +1,1 @@
+{"index": 158817, "D": "representing, having, or indicating equality in the frequency or intensity of thunderstorms", "S": [], "A": []}

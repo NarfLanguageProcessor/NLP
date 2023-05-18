@@ -1,0 +1,1 @@
+{"index": 298064, "D": "the quality or state of being sovereign,  or of having supreme power or authority.", "S": ["dominance ", "jurisdiction ", "supremacy "], "A": ["submission "]}

@@ -1,0 +1,1 @@
+{"index": 340244, "D": "to feel abhorrence of; hate; dislike intensely.", "S": [], "A": []}

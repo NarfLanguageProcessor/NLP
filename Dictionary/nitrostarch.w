@@ -1,0 +1,1 @@
+{"index": 200470, "D": "an orange powder, C12H12N8O26, soluble in ethanol, used in explosives.", "S": [], "A": []}

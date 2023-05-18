@@ -1,0 +1,1 @@
+{"index": 208193, "D": "of different kinds, as two or more things; differing one from another", "S": [], "A": []}

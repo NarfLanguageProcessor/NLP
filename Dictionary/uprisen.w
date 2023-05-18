@@ -1,0 +1,1 @@
+{"index": 354942, "D": "to rise up; get up, as from a lying or sitting posture.", "S": ["raised "], "A": ["dwarfed ", "little ", "low ", "short ", "small "]}

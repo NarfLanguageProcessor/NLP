@@ -1,0 +1,1 @@
+{"index": 234459, "D": "the act or practice of opening a vein for letting or drawing blood as a therapeutic or diagnostic measure; venesection; bleeding.", "S": [], "A": []}

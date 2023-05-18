@@ -1,0 +1,1 @@
+{"index": 47534, "D": "of, relating to, or characteristic of the carbonyl group. ", "S": [], "A": []}

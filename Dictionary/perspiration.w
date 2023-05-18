@@ -1,0 +1,1 @@
+{"index": 232035, "D": "a salty, watery fluid secreted by the sweat glands of the skin, especially when very warm as a result of strenuous exertion; sweat.", "S": ["diaphoresis ", "excreta ", "exudation ", "sudation ", "sudor ", "transpiration "], "A": []}

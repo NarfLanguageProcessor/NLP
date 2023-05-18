@@ -1,0 +1,1 @@
+{"index": 26826, "D": "a large fire in the open air; bonfire.", "S": ["flare ", "lantern ", "radar "], "A": []}

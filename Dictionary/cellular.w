@@ -1,0 +1,1 @@
+{"index": 50596, "D": "pertaining to or characterized by cellules  or cells,  especially minute compartments or cavities.", "S": ["biological ", "nuclear "], "A": ["accessory ", "auxiliary ", "extra ", "inessential ", "minor ", "secondary ", "trivial ", "unimportant ", "unnecessary "]}

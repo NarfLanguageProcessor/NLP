@@ -1,0 +1,1 @@
+{"index": 154401, "D": [], "S": ["attentive ", "discerning ", "discriminating ", "intelligent ", "mindful ", "perceptive ", "vigilant "], "A": ["careless ", "heedless ", "inattentive ", "neglectful ", "negligent ", "unaware ", "undiscriminating "]}

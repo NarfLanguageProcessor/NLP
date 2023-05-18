@@ -1,0 +1,1 @@
+{"index": 127447, "D": "the subbranch of Celtic in which the Proto-Indo-European kw-sound remained a velar. Irish and Scottish Gaelic belong to Goidelic.", "S": [], "A": []}

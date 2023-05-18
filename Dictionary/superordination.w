@@ -1,0 +1,1 @@
+{"index": 312363, "D": "the relation between a universal proposition and a particular proposition of the same quality containing the same terms in the same order.", "S": [], "A": []}

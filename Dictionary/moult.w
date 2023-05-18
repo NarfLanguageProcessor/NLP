@@ -1,0 +1,1 @@
+{"index": 194188, "D": "(of birds, mammals, reptiles, and arthropods) to shed (feathers, hair, skin, or cuticle)", "S": [], "A": []}

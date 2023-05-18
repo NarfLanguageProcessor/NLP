@@ -1,0 +1,1 @@
+{"index": 244362, "D": "the act or ceremony of ordaining. ", "S": [], "A": []}

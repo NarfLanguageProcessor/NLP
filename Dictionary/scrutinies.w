@@ -1,0 +1,1 @@
+{"index": 282104, "D": "a searching examination or investigation; minute inquiry.", "S": ["analysis ", "audit ", "inquiry ", "inspection ", "investigation ", "review ", "search ", "surveillance "], "A": []}

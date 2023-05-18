@@ -1,0 +1,1 @@
+{"index": 15473, "D": "a group of three inconsistent propositions, two of which are premises of a syllogism that contradict the third.", "S": [], "A": []}

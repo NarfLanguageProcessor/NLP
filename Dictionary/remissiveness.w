@@ -1,0 +1,1 @@
+{"index": 267346, "D": "characterized by remission or decrease.", "S": [], "A": []}

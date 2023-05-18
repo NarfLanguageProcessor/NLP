@@ -1,0 +1,1 @@
+{"index": 184094, "D": "foolishness; insanity; senselessness.", "S": [], "A": []}

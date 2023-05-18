@@ -1,0 +1,1 @@
+{"index": 255908, "D": "a person who owns or manages a tavern; the keeper of a pub.", "S": [], "A": []}

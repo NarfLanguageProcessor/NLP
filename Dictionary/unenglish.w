@@ -1,0 +1,1 @@
+{"index": 341288, "D": "not English; not characteristic of the English.", "S": [], "A": []}

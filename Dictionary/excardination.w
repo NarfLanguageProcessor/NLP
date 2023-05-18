@@ -1,0 +1,1 @@
+{"index": 106546, "D": "the transfer of a cleric from the jurisdiction of one bishop to that of another.", "S": [], "A": []}

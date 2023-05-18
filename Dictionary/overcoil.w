@@ -1,0 +1,1 @@
+{"index": 218634, "D": "a fixed end of a spiral hairspring, consisting of an upwardly and inwardly bent continuation of the outermost coil  of the spring", "S": [], "A": []}

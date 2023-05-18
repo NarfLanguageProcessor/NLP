@@ -1,0 +1,1 @@
+{"index": 2365, "D": "achromatic lens. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 286435, "D": "a food counter in a cafeteria or pub.", "S": [], "A": []}

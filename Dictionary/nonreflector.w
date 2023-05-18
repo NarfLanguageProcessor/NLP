@@ -1,0 +1,1 @@
+{"index": 206594, "D": "a person or thing that reflects. ", "S": [], "A": []}

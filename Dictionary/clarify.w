@@ -1,0 +1,1 @@
+{"index": 59299, "D": "to make (an idea, statement, etc.) clear or intelligible; to free from ambiguity.", "S": ["analyze ", "clear up ", "define ", "formulate ", "interpret ", "resolve ", "simplify ", "spell out "], "A": ["complicate ", "confuse ", "question ", "mix up ", "obscure "]}

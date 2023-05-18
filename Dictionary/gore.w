@@ -1,0 +1,1 @@
+{"index": 128070, "D": "blood that is shed, especially when clotted.", "S": ["blood ", "carnage ", "slaughter "], "A": []}

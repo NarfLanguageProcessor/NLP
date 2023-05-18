@@ -1,0 +1,1 @@
+{"index": 9060, "D": "having reference to something implied or inferred; containing, abounding in, or characterized by allusions. ", "S": ["connotative ", "evocative ", "implied ", "impressionistic ", "indirect ", "inferred ", "remindful "], "A": []}

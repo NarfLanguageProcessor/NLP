@@ -1,0 +1,1 @@
+{"index": 12443, "D": "a stalk or column supporting the stamens, formed by the fusion of their filaments.", "S": [], "A": []}

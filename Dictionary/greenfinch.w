@@ -1,0 +1,1 @@
+{"index": 129537, "D": "any finch  of the genus Carduelis, of Europe and Asia, having green  and yellow plumage, especially C. chloris(European greenfinch ).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109898, "D": "a form of glanders chiefly affecting the skin and superficial lymphatic vessels of horses and mules.", "S": [], "A": []}

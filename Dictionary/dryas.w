@@ -1,0 +1,1 @@
+{"index": 93014, "D": "any creeping plant belonging to the genus Dryas, of the rose family, having solitary white or yellow flowers, comprising the mountain avens.", "S": [], "A": []}

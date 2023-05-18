@@ -1,0 +1,1 @@
+{"index": 200860, "D": "a set or system of names or terms, as those used in a particular science or art, by an individual or community, etc.", "S": [], "A": []}

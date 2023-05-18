@@ -1,0 +1,1 @@
+{"index": 232110, "D": "boldly forward in speech or behavior; impertinent; saucy.", "S": ["impertinently "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 138482, "D": "(in ancient Greece and Rome) a large water jar", "S": [], "A": []}

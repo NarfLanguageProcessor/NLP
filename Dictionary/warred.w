@@ -1,0 +1,1 @@
+{"index": 362778, "D": "a conflict carried on by force of arms, as between nations or between parties within a nation; warfare, as by land, sea, or air.", "S": ["differ ", "go to war ", "take up arms "], "A": ["agree ", "aid ", "be lazy ", "give up ", "laze ", "protect ", "retreat ", "surrender "]}

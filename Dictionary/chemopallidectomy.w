@@ -1,0 +1,1 @@
+{"index": 53720, "D": "an operation for treating Parkinson's disease and certain other diseases characterized by muscular rigidity, consisting of destroying a specific part of the corpus striatum by injecting it with a chemical, usually alcohol.", "S": [], "A": []}

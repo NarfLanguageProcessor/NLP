@@ -1,0 +1,1 @@
+{"index": 21031, "D": "a type of sponge having an oval shape and a thin body wall with pores leading directly into the spongocoel.", "S": [], "A": []}

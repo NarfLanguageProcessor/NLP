@@ -1,0 +1,1 @@
+{"index": 126953, "D": "any of a group of simple proteins of vegetable origin, especially one from wheat.", "S": [], "A": []}

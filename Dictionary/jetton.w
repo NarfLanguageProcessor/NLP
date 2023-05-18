@@ -1,0 +1,1 @@
+{"index": 161075, "D": "an inscribed counter or token.", "S": [], "A": []}

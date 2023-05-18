@@ -1,0 +1,1 @@
+{"index": 244119, "D": "existing or occurring after the Babylonian exile of the Jews (587\u2013539 bc)", "S": [], "A": []}

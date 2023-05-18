@@ -1,0 +1,1 @@
+{"index": 332117, "D": "to put into a small, close, or concealing place", "S": ["applique ", "backing ", "binding ", "braid ", "embroidery ", "folds ", "hem ", "lining ", "overlay ", "piping ", "trim "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73274, "D": "the phenomenon of not recognizing the return of an old memory as a product of memory, but instead regarding it as a new or original thought or idea", "S": [], "A": []}

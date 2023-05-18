@@ -1,0 +1,1 @@
+{"index": 290542, "D": "U.S. coloratura soprano and opera administrator.", "S": ["girder ", "joist ", "piling ", "pillar ", "plank ", "pole ", "shaft ", "timber "], "A": []}

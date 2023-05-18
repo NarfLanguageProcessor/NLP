@@ -1,0 +1,1 @@
+{"index": 21307, "D": "strict self-discipline or self-control, as for religious or meditative purposes.", "S": [], "A": []}

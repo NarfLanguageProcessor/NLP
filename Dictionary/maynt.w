@@ -1,0 +1,1 @@
+{"index": 177932, "D": "contraction of may not.", "S": [], "A": []}

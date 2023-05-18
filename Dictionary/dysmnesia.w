@@ -1,0 +1,1 @@
+{"index": 88721, "D": "an impairment of memory.", "S": [], "A": []}

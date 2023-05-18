@@ -1,0 +1,1 @@
+{"index": 301314, "D": "a small storehouse built over a spring  or part of a brook, for keeping such foods as meat and dairy products cool and fresh.", "S": [], "A": []}

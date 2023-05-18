@@ -1,0 +1,1 @@
+{"index": 73153, "D": "relating to a person who is disabled or impaired in any way.", "S": ["broken ", "damaged ", "deformed ", "handicapped ", "harmed ", "impaired ", "mangled ", "marred ", "paralyzed "], "A": ["OK ", "fixed ", "perfect ", "unbroken ", "working ", "able ", "capable "]}

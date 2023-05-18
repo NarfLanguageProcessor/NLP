@@ -1,0 +1,1 @@
+{"index": 311917, "D": "a system of galaxies. ", "S": [], "A": []}

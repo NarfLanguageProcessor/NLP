@@ -1,0 +1,1 @@
+{"index": 341114, "D": "to omit (a vowel, consonant, or syllable) in pronunciation.", "S": [], "A": []}

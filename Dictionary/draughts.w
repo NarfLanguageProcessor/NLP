@@ -1,0 +1,1 @@
+{"index": 92740, "D": "US and Canadian name", "S": ["bowl ", "drink ", "mug "], "A": []}

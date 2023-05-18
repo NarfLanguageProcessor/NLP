@@ -1,0 +1,1 @@
+{"index": 362217, "D": "an apartment above the ground floor in a building that has no elevator.", "S": ["mountain climbing ", "mountaineering "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 220014, "D": "occurring, coming, or being after the usual or proper time", "S": [], "A": []}

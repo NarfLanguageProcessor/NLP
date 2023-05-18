@@ -1,0 +1,1 @@
+{"index": 155688, "D": "the act or fact of interposing  or the condition of being interposed. ", "S": ["departure ", "digression ", "interpolation ", "parenthesis ", "tangent ", "throwaway "], "A": []}

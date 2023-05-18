@@ -1,0 +1,1 @@
+{"index": 285360, "D": "capacity for sensation or feeling; responsiveness or susceptibility to sensory stimuli.", "S": ["affection ", "emotion ", "feeling ", "insight ", "sense ", "sensitivity ", "sentiment ", "taste "], "A": ["dislike ", "hate ", "hatred ", "numbness ", "ignorance "]}

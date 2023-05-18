@@ -1,0 +1,1 @@
+{"index": 151818, "D": "characteristic of or befitting an infant;  babyish; childish", "S": ["childish ", "sophomoric "], "A": ["mature "]}

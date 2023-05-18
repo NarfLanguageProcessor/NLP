@@ -1,0 +1,1 @@
+{"index": 38148, "D": "to make a deep, prolonged, resonant sound.", "S": ["explosion "], "A": []}

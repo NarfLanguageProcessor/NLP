@@ -1,0 +1,1 @@
+{"index": 210473, "D": [], "S": ["determination ", "resolution "], "A": ["cowardice ", "flexibility ", "idleness ", "indolence ", "irresolution ", "unimportance ", "weakness "]}

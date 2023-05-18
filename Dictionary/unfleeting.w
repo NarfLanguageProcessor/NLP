@@ -1,0 +1,1 @@
+{"index": 342376, "D": "passing swiftly; vanishing quickly; transient; transitory", "S": [], "A": []}

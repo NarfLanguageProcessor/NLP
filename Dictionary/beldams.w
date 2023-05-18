@@ -1,0 +1,1 @@
+{"index": 31011, "D": "an old woman, especially an ugly one; hag. ", "S": ["crone ", "hag "], "A": []}

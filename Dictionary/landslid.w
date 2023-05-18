@@ -1,0 +1,1 @@
+{"index": 168029, "D": "the downward falling or sliding  of a mass of soil, detritus, or rock on or from a steep slope.", "S": [], "A": []}

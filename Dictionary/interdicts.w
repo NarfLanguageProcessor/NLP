@@ -1,0 +1,1 @@
+{"index": 154842, "D": "any prohibitory act or decree of a court or an administrative officer.", "S": ["ban ", "forbid ", "halt ", "inhibit ", "outlaw ", "prevent ", "prohibit ", "proscribe ", "stop ", "taboo ", "veto "], "A": ["aid ", "allow ", "approve ", "assist ", "continue ", "help ", "permit ", "push ", "sanction "]}

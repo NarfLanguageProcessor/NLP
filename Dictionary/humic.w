@@ -1,0 +1,1 @@
+{"index": 144960, "D": "of or noting a substance, as an acid, obtained from humus. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117896, "D": "grossly offensive to the senses; disgustingly loathsome; noisome", "S": ["contaminated ", "crummy ", "disheveled ", "dusty ", "filthy ", "greasy ", "grimy ", "messy ", "muddy ", "murky ", "nasty ", "polluted ", "sloppy ", "stained ", "unkempt "], "A": ["bright ", "clean ", "clear ", "ordered ", "orderly ", "sterile ", "neat "]}

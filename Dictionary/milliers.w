@@ -1,0 +1,1 @@
+{"index": 187364, "D": "1000 kilograms; a metric ton.", "S": [], "A": []}

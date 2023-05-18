@@ -1,0 +1,1 @@
+{"index": 183489, "D": "adapted for or concerned with measuring.", "S": [], "A": []}

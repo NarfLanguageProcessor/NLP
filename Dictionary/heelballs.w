@@ -1,0 +1,1 @@
+{"index": 135274, "D": "a substance composed of lampblack and wax used for making rubbings or for polishing shoes.", "S": [], "A": []}

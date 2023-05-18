@@ -1,0 +1,1 @@
+{"index": 368077, "D": "a past participle of write. ", "S": ["drafted ", "penned ", "recorded ", "reported "], "A": ["spoken ", "unwritten "]}

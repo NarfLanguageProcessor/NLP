@@ -1,0 +1,1 @@
+{"index": 27423, "D": "a person or thing that bangs.", "S": ["bratwurst "], "A": []}

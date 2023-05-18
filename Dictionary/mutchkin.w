@@ -1,0 +1,1 @@
+{"index": 196242, "D": "a unit of liquid measure equal to a little less than a U.S. liquid pint.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117394, "D": "the act or process of forming or the state of being formed", "S": ["arrangement ", "construction ", "creation ", "design ", "development ", "evolution ", "forming ", "pattern ", "production ", "structure "], "A": ["decrease ", "destruction ", "disorganization ", "ruin ", "stoppage "]}

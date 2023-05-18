@@ -1,0 +1,1 @@
+{"index": 18, "D": "the older brother of Moses, usually regarded as the first high priest of the Hebrews. Exodus 28; 40", "S": [], "A": []}

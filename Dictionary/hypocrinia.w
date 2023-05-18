@@ -1,0 +1,1 @@
+{"index": 140881, "D": "an abnormal condition caused by insufficient secretion from a gland, especially an endocrine gland. ", "S": [], "A": []}

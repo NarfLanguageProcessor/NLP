@@ -1,0 +1,1 @@
+{"index": 314118, "D": "an accumulation of fine particles of metal or abrasive cut or ground from work by a machine tool or grinder.", "S": [], "A": []}

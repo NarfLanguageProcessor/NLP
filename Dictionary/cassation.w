@@ -1,0 +1,1 @@
+{"index": 48949, "D": "annulment; cancellation; reversal.", "S": [], "A": []}

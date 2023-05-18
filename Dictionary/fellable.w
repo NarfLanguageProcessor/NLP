@@ -1,0 +1,1 @@
+{"index": 111004, "D": "capable of being or fit to be felled. ", "S": [], "A": []}

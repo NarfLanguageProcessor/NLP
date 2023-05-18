@@ -1,0 +1,1 @@
+{"index": 84385, "D": "the mental faculty used in discursive reasoning.", "S": [], "A": []}

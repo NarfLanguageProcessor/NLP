@@ -1,0 +1,1 @@
+{"index": 312392, "D": "a person who is patriotic to an extreme.", "S": [], "A": []}

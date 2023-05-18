@@ -1,0 +1,1 @@
+{"index": 143086, "D": "reproduction in which the offspring resemble the parents and undergo the same cycle of development.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248829, "D": "a particular portion of space, whether of definite or indefinite extent.", "S": [], "A": []}

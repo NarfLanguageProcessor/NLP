@@ -1,0 +1,1 @@
+{"index": 326108, "D": "(in Japan) a form of decorative gateway or portal, consisting of two upright wooden posts connected at the top by two horizontal crosspieces, commonly found at the entrance to Shinto shrines.", "S": [], "A": []}

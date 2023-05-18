@@ -1,0 +1,1 @@
+{"index": 172192, "D": "a representation, picture, or image, especially a portrait", "S": ["depiction ", "effigy ", "facsimile ", "image ", "photograph ", "portrait ", "replica ", "reproduction "], "A": ["entity ", "original ", "difference ", "disagreement ", "discord ", "dissimilarity ", "inequality ", "opposition ", "reality ", "unlikeness "]}

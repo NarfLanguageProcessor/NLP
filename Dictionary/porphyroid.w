@@ -1,0 +1,1 @@
+{"index": 243541, "D": "a rock resembling porphyry. ", "S": [], "A": []}

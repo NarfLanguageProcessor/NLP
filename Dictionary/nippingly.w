@@ -1,0 +1,1 @@
+{"index": 200260, "D": "sharp or biting, as cold.", "S": [], "A": []}

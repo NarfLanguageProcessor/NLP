@@ -1,0 +1,1 @@
+{"index": 246436, "D": "of or relating to the time before the conquest  of one people, region, or country by another.", "S": [], "A": []}

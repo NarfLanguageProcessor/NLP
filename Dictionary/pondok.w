@@ -1,0 +1,1 @@
+{"index": 243000, "D": "a crudely built hut or shelter formed of sheets of corrugated iron, tin, etc.; shanty.", "S": [], "A": []}

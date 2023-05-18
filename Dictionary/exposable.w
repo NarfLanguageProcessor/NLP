@@ -1,0 +1,1 @@
+{"index": 107946, "D": "to lay open to danger, attack, harm, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309598, "D": "of, relating to, or characteristic of a tribe", "S": [], "A": []}

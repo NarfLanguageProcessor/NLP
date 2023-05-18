@@ -1,0 +1,1 @@
+{"index": 74810, "D": "the practices and devotions of a cult. ", "S": ["fad ", "form ", "look ", "mode ", "model ", "pattern ", "shape ", "thing ", "tone ", "trend "], "A": ["disorganization ", "departure "]}

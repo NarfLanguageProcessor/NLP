@@ -1,0 +1,1 @@
+{"index": 209318, "D": "having a nucleus. ", "S": ["artificial nucleation ", "rainmaking ", "seeding "], "A": []}

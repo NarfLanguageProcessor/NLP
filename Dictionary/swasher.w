@@ -1,0 +1,1 @@
+{"index": 314158, "D": "to splash, as things in water, or as water does", "S": [], "A": []}

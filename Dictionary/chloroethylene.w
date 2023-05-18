@@ -1,0 +1,1 @@
+{"index": 55152, "D": "a colorless, easily liquefied, flammable, slightly water-soluble gas, C2H3Cl, having a pleasant, etherlike odor", "S": [], "A": []}

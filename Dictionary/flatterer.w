@@ -1,0 +1,1 @@
+{"index": 114115, "D": "to try to please by complimentary remarks or attention.", "S": ["booster ", "bootlicker ", "charmer ", "fawner ", "flunky ", "lackey ", "puffer ", "sycophant ", "toady "], "A": []}

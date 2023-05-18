@@ -1,0 +1,1 @@
+{"index": 326066, "D": "a light to be carried in the hand, consisting of some combustible substance, as resinous wood, or of twisted flax or the like soaked with tallow or other flammable substance, ignited at the upper end.", "S": [], "A": []}

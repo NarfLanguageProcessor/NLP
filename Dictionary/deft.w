@@ -1,0 +1,1 @@
+{"index": 79512, "D": "dexterous; nimble; skillful; clever", "S": ["adept ", "adroit ", "ingenious ", "nimble ", "proficient ", "quick ", "skillful "], "A": ["awkward ", "clumsy ", "ignorant ", "incompetent ", "inept ", "slow ", "stupid ", "unable ", "unskilled "]}

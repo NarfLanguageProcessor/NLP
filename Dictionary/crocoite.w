@@ -1,0 +1,1 @@
+{"index": 73596, "D": "a yellow, orange, or red mineral, lead chromate, PbCrO4, formed by replacement.", "S": [], "A": []}

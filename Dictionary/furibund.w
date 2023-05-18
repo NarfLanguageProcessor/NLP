@@ -1,0 +1,1 @@
+{"index": 120403, "D": [], "S": ["frantic ", "frenzied ", "furious ", "obsessive "], "A": ["calm ", "peaceful "]}

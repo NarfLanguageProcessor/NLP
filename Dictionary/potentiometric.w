@@ -1,0 +1,1 @@
+{"index": 244685, "D": "(of a titration) having the end point determined by a change in potential of an electrode immersed in the solution", "S": [], "A": []}

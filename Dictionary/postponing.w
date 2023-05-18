@@ -1,0 +1,1 @@
+{"index": 244411, "D": "to put off to a later time; defer", "S": ["easy ", "gradual ", "heavy ", "lackadaisical ", "leisurely ", "lethargic ", "moderate ", "passive ", "quiet ", "reluctant ", "sluggish ", "stagnant "], "A": ["active ", "complex ", "complicated ", "energetic ", "enthusiastic ", "intricate ", "lively ", "moving "]}

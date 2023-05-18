@@ -1,0 +1,1 @@
+{"index": 272426, "D": "a strip of wood or metal running fore-and-aft along frames to keep them in the proper position until the shell planking or plating is in place.", "S": [], "A": []}

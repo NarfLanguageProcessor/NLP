@@ -1,0 +1,1 @@
+{"index": 151250, "D": "a substance, C19H16ClNO4, with anti-inflammatory, antipyretic, and analgesic properties", "S": [], "A": []}

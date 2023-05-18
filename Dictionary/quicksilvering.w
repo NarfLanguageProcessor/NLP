@@ -1,0 +1,1 @@
+{"index": 258518, "D": "the metallic element mercury.", "S": [], "A": []}

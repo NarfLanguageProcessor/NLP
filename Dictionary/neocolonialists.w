@@ -1,0 +1,1 @@
+{"index": 198317, "D": "the policy of a strong nation in seeking political and economic hegemony over an independent nation or extended geographical area without necessarily reducing the subordinate nation or area to the legal status of a colony.", "S": [], "A": []}

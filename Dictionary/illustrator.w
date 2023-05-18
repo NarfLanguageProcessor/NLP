@@ -1,0 +1,1 @@
+{"index": 147532, "D": "an artist who makes illustrations", "S": ["cartoonist "], "A": []}

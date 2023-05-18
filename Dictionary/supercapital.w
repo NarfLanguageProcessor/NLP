@@ -1,0 +1,1 @@
+{"index": 311476, "D": "a member situated between a capital  and the spring of an arch, as a dosseret.", "S": [], "A": []}

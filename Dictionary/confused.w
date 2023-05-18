@@ -1,0 +1,1 @@
+{"index": 66088, "D": "not thinking coherently or rationally; bewildered; perplexed", "S": ["baffled ", "befuddled ", "bewildered ", "dazed ", "disorganized ", "distracted ", "muddled ", "perplexed ", "perturbed ", "puzzled "], "A": ["clear ", "composed "]}

@@ -1,0 +1,1 @@
+{"index": 172887, "D": "(not in technical use) linguistic. ", "S": [], "A": []}

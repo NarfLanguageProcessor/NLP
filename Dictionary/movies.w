@@ -1,0 +1,1 @@
+{"index": 194408, "D": "a sequence of consecutive still images recorded in a series to be viewed on a screen in such rapid succession as to give the illusion of natural movement; motion picture. ", "S": ["cinema ", "feature ", "film ", "flick ", "motion picture ", "picture ", "show ", "videotape "], "A": []}

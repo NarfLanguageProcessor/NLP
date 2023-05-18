@@ -1,0 +1,1 @@
+{"index": 166129, "D": "a unit of land distance of various lengths from 1 to 3 miles (1.6 to 4.8 km).", "S": ["technical knockout "], "A": []}

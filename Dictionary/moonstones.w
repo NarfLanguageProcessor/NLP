@@ -1,0 +1,1 @@
+{"index": 193113, "D": "a semitransparent or translucent, opalescent, pearly-blue variety of adularia, used as a gem.", "S": [], "A": []}

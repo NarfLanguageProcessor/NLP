@@ -1,0 +1,1 @@
+{"index": 277488, "D": "a condiment or side dish of Indonesia, Malaysia, and southern India, made with any of various ingredients, as vegetables, fish, or coconut, usually seasoned with chile peppers and spices and served with rice and curries.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155496, "D": "a vast computer network linking smaller computer networks worldwide. The internet includes commercial, educational, governmental, and other networks, all of which use the same set of communications protocols", "S": ["WWW ", "cyberspace "], "A": []}

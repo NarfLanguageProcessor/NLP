@@ -1,0 +1,1 @@
+{"index": 262714, "D": "the act or fact of centralizing; fact of being centralized.", "S": [], "A": []}

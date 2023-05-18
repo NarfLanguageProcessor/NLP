@@ -1,0 +1,1 @@
+{"index": 144491, "D": "the function or work of a housewife; housekeeping.", "S": ["housework "], "A": []}

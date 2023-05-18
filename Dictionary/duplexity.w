@@ -1,0 +1,1 @@
+{"index": 94346, "D": "duplex apartment. ", "S": ["polarity "], "A": []}

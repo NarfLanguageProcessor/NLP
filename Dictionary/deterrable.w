@@ -1,0 +1,1 @@
+{"index": 83188, "D": "to discourage or restrain from acting or proceeding", "S": [], "A": []}

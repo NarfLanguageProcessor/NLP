@@ -1,0 +1,1 @@
+{"index": 347276, "D": "outwardly appearing as such; professed; pretended", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 355989, "D": "a woman who escorts persons to seats in a theater, church, etc.", "S": [], "A": []}

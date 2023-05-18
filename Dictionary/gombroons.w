@@ -1,0 +1,1 @@
+{"index": 127634, "D": "a type of Persian pottery ware.", "S": [], "A": []}

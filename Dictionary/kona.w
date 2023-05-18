@@ -1,0 +1,1 @@
+{"index": 165978, "D": "a southwesterly winter wind in Hawaii, often strong and bringing rain.", "S": [], "A": []}

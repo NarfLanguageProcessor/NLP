@@ -1,0 +1,1 @@
+{"index": 97641, "D": "a sweetened, aromatic solution of alcohol and water containing, or used as a vehicle for, medicinal substances.", "S": ["cure-all ", "panacea ", "potion "], "A": []}

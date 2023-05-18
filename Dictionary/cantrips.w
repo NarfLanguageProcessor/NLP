@@ -1,0 +1,1 @@
+{"index": 46696, "D": "a magic spell; trick by sorcery.", "S": [], "A": []}

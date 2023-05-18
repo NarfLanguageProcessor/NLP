@@ -1,0 +1,1 @@
+{"index": 67107, "D": "the act or art of constructing.", "S": [], "A": []}

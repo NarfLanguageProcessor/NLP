@@ -1,0 +1,1 @@
+{"index": 156253, "D": "not legally qualified to make a will, as an infant or a lunatic.", "S": [], "A": []}

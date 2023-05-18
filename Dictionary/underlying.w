@@ -1,0 +1,1 @@
+{"index": 339425, "D": "lying or situated beneath, as a substratum.", "S": ["basic ", "elemental ", "hidden "], "A": ["secondary "]}

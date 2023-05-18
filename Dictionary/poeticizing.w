@@ -1,0 +1,1 @@
+{"index": 241199, "D": "to make (thoughts, feelings, etc.) poetic;  express in poetry.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 282067, "D": "an elastic band covered with gathered fabric, used to fasten the hair, as in a ponytail.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 140611, "D": "to be afflicted with hyperventilation;  breathe abnormally fast and deep.", "S": [], "A": []}

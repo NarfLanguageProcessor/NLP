@@ -1,0 +1,1 @@
+{"index": 70503, "D": "to expel air from the lungs suddenly with a harsh noise, often involuntarily.", "S": ["bark ", "choke ", "hack ", "vomit ", "whoop "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 59745, "D": "(in certain ascomycetous fungi) a closed, globose ascocarp from which the ascospores are released only by its rupture or decay.", "S": [], "A": []}

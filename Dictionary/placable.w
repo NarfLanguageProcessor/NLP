@@ -1,0 +1,1 @@
+{"index": 238515, "D": "capable of being placated, pacified, or appeased; forgiving.", "S": [], "A": []}

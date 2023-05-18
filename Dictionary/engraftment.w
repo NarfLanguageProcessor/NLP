@@ -1,0 +1,1 @@
+{"index": 100444, "D": "to insert, as a scion of one tree or plant into another, for propagation", "S": [], "A": []}

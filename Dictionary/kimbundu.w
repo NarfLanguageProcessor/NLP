@@ -1,0 +1,1 @@
+{"index": 164713, "D": "a Bantu language of northern Angola.", "S": [], "A": []}

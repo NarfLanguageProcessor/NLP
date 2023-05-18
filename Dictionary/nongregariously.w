@@ -1,0 +1,1 @@
+{"index": 204350, "D": "fond of the company of others; sociable.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227471, "D": "the state or fact of being past. ", "S": [], "A": []}

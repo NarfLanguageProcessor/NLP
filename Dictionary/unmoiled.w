@@ -1,0 +1,1 @@
+{"index": 346511, "D": "to work hard; drudge. ", "S": [], "A": []}

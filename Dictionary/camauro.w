@@ -1,0 +1,1 @@
+{"index": 45581, "D": "a crimson velvet cap trimmed with ermine, worn by the pope on nonliturgical occasions.", "S": [], "A": []}

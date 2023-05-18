@@ -1,0 +1,1 @@
+{"index": 180463, "D": "an inlet of the Bay of Bengal, in Myanmar (Burma).", "S": [], "A": []}

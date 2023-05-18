@@ -1,0 +1,1 @@
+{"index": 55012, "D": "a nickel-rich variety of skutterudite, used as an ore of nickel.", "S": [], "A": []}

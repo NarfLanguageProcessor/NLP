@@ -1,0 +1,1 @@
+{"index": 365682, "D": "living in a state of nature; not tamed or domesticated", "S": ["barbarian ", "desert ", "free ", "lush ", "native ", "natural ", "overrun ", "primitive ", "savage ", "waste "], "A": ["civilized ", "cultured ", "kind ", "nice ", "refined ", "sophisticated "]}

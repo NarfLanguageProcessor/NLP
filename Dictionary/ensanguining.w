@@ -1,0 +1,1 @@
+{"index": 100957, "D": "to stain or cover with or as with blood", "S": [], "A": []}

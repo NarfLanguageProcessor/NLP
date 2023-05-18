@@ -1,0 +1,1 @@
+{"index": 245411, "D": "present in great quantity; more than adequate; oversufficient", "S": [], "A": []}

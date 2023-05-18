@@ -1,0 +1,1 @@
+{"index": 365375, "D": "having the character or characteristics of a whore;  lewd; unchaste.", "S": [], "A": []}

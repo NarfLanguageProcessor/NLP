@@ -1,0 +1,1 @@
+{"index": 66680, "D": "aware of one's own existence, sensations, thoughts, surroundings, etc.", "S": ["attentive ", "aware ", "certain ", "cognizant ", "informed ", "keen ", "mindful ", "responsive ", "sensible ", "sure ", "vigilant ", "watchful "], "A": ["careless ", "heedless ", "ignorant ", "inattentive ", "unaware ", "uncertain ", "unconfident ", "uninformed ", "unsure "]}

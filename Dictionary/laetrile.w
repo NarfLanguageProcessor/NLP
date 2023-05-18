@@ -1,0 +1,1 @@
+{"index": 167267, "D": "a controversial drug, purported to cure cancer, prepared from the pits of apricots or peaches and containing about 6 percent cyanide by weight", "S": [], "A": []}

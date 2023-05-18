@@ -1,0 +1,1 @@
+{"index": 265281, "D": "a person who advocates or practices reform; reformer. ", "S": ["enlightened ", "flexible ", "humanistic ", "lenient ", "permissive ", "radical ", "tolerant "], "A": ["intolerant ", "limited ", "narrow ", "specific "]}

@@ -1,0 +1,1 @@
+{"index": 329800, "D": "a small projecting tongue in a firearm that, when pressed by the finger, actuates the mechanism that discharges the weapon.", "S": ["bring about ", "cause ", "generate ", "produce ", "prompt ", "provoke ", "set off ", "spark ", "start "], "A": ["destroy ", "end ", "halt ", "prevent ", "stop "]}

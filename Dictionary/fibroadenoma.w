@@ -1,0 +1,1 @@
+{"index": 112039, "D": "a benign tumor originating from glandular tissue, as in the female breast.", "S": [], "A": []}

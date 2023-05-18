@@ -1,0 +1,1 @@
+{"index": 348324, "D": "not predictable; not to be foreseen or foretold", "S": ["erratic ", "fickle ", "uncertain ", "unreliable ", "unstable "], "A": ["certain ", "definite ", "reliable ", "stable ", "steady ", "sure ", "unchanging "]}

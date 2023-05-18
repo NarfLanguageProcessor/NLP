@@ -1,0 +1,1 @@
+{"index": 60421, "D": "Prussian leader in the French Revolution.", "S": [], "A": []}

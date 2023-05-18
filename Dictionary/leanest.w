@@ -1,0 +1,1 @@
+{"index": 169628, "D": "to incline or bend from a vertical position", "S": ["angular ", "gangly ", "gaunt ", "lanky ", "rangy ", "sinewy ", "skinny ", "slender ", "slim ", "sparse ", "svelte ", "wiry "], "A": ["chubby ", "fat ", "heavy ", "plump ", "thick ", "fertile ", "fresh ", "strong "]}

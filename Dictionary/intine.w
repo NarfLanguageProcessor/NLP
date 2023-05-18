@@ -1,0 +1,1 @@
+{"index": 156328, "D": "the inner coat of a spore, especially a pollen grain.", "S": [], "A": []}

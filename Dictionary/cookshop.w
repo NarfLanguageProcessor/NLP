@@ -1,0 +1,1 @@
+{"index": 68250, "D": "a place where prepared food is sold or served; restaurant.", "S": [], "A": []}

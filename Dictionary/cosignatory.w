@@ -1,0 +1,1 @@
+{"index": 69984, "D": "signing jointly with another or others.", "S": [], "A": []}

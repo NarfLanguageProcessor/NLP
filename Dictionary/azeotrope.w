@@ -1,0 +1,1 @@
+{"index": 25238, "D": "any liquid mixture having constant minimum and maximum boiling points and distilling off without decomposition and in a fixed ratio, as isopropyl alcohol and water.", "S": [], "A": []}

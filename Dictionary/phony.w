@@ -1,0 +1,1 @@
+{"index": 234698, "D": "not real or genuine; fake; counterfeit", "S": ["bogus ", "counterfeit ", "forged ", "sham ", "spurious "], "A": ["authentic ", "genuine ", "real ", "true "]}

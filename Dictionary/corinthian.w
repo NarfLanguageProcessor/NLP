@@ -1,0 +1,1 @@
+{"index": 69138, "D": "of, relating to, or characteristic of Corinth.", "S": ["cosmopolitan ", "playboy ", "sophisticate "], "A": []}

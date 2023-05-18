@@ -1,0 +1,1 @@
+{"index": 162157, "D": "a stupid or foolish person.", "S": ["blockhead ", "clod ", "cretin ", "dimwit ", "dingbat ", "dolt ", "dope ", "dork ", "dullard ", "dumbbell ", "dummy ", "dunce ", "dunderhead ", "fool ", "idiot ", "ignoramus ", "imbecile ", "moron ", "nitwit ", "simpleton "], "A": ["brain ", "genius "]}

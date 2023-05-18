@@ -1,0 +1,1 @@
+{"index": 233432, "D": "phenolic resin. ", "S": [], "A": []}

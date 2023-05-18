@@ -1,0 +1,1 @@
+{"index": 286943, "D": "sixfold; sextuple. ", "S": [], "A": []}

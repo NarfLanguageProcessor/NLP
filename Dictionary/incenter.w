@@ -1,0 +1,1 @@
+{"index": 149777, "D": "the center  of an inscribed circle; that point where the bisectors of the angles of a triangle or of a regular polygon intersect.", "S": [], "A": []}

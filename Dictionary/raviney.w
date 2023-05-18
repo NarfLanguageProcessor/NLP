@@ -1,0 +1,1 @@
+{"index": 261291, "D": "a narrow steep-sided valley commonly eroded by running water.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 240384, "D": "containing graphite.", "S": [], "A": []}

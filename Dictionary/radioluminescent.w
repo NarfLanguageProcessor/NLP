@@ -1,0 +1,1 @@
+{"index": 259715, "D": "luminescence  induced by nuclear radiation.", "S": [], "A": []}

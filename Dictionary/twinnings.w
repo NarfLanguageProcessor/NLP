@@ -1,0 +1,1 @@
+{"index": 333402, "D": "the bearing of two children at one birth.", "S": [], "A": []}

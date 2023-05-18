@@ -1,0 +1,1 @@
+{"index": 326428, "D": "the tossing of a coin to decide something by its fall.", "S": ["deadlock ", "draw ", "tie "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93732, "D": "the wife or widow of a duke. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 161791, "D": "a large bowl or container for holding drink.", "S": [], "A": []}

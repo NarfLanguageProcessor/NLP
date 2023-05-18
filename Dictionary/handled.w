@@ -1,0 +1,1 @@
+{"index": 133211, "D": "fitted with or having a handle  or handles,  especially of a specified kind (often used in combination)", "S": ["directed ", "managed ", "organized "], "A": []}

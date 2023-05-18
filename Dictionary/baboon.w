@@ -1,0 +1,1 @@
+{"index": 25566, "D": "any of various large, terrestrial monkeys of the genus Papio and related genera, of Africa and Arabia, having a doglike muzzle, large cheek pouches, and a short tail.", "S": ["monkey "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 115367, "D": "flunky. ", "S": ["attendant ", "butler ", "domestic ", "drudge ", "factotum ", "flunky ", "retainer ", "steward ", "subordinate ", "underling ", "valet "], "A": ["boss ", "master "]}

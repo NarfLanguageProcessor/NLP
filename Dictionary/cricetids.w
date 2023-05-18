@@ -1,0 +1,1 @@
+{"index": 72897, "D": "any of a diverse group of scampering, digging, or jumping rodents of the family Cricetidae, including the gerbils, hamsters, field mice, deer mice, voles, lemmings, muskrats, and several wood and field rats.", "S": [], "A": []}

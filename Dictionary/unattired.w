@@ -1,0 +1,1 @@
+{"index": 335403, "D": "to dress, array, or adorn, especially for special occasions, ceremonials, etc.", "S": ["naked "], "A": ["clothed ", "covered "]}

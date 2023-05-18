@@ -1,0 +1,1 @@
+{"index": 251856, "D": "any substance having progesteronelike activity.", "S": [], "A": []}

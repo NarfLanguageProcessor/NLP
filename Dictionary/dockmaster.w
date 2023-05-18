@@ -1,0 +1,1 @@
+{"index": 90633, "D": "a person who supervises the dry-docking of ships.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203453, "D": "the act of emancipating. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172172, "D": "of the same form, appearance, kind, character, amount, etc.", "S": ["alike ", "comparable ", "related "], "A": ["different ", "dissimilar ", "unlike ", "away ", "changing ", "divergent ", "far ", "inconsistent ", "mismatched ", "unalike ", "unequal ", "unfriendly ", "variable "]}

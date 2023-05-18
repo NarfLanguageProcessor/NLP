@@ -1,0 +1,1 @@
+{"index": 163994, "D": "a woman's square scarf worn as a covering for the head or sometimes the shoulders.", "S": ["babushka ", "bandanna ", "handkerchief ", "hankie ", "scarf ", "shawl ", "veil "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 14978, "D": "Compare coincidence (def. 3)", "S": [], "A": []}

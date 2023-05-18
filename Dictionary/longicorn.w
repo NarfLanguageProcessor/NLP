@@ -1,0 +1,1 @@
+{"index": 174937, "D": "having long antennae.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367990, "D": "a person having torticollis. ", "S": [], "A": []}

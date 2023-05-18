@@ -1,0 +1,1 @@
+{"index": 34643, "D": "biped. ", "S": ["animal ", "anthropoid ", "biped ", "hominid ", "humanoid ", "mortal "], "A": []}

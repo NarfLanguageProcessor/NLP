@@ -1,0 +1,1 @@
+{"index": 253412, "D": "plural of proteus (def. 3). ", "S": [], "A": []}

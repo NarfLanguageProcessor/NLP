@@ -1,0 +1,1 @@
+{"index": 83283, "D": "a person who tries to take away from the quality, value, or reputation of someone or something; critic", "S": ["critic "], "A": []}

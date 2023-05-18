@@ -1,0 +1,1 @@
+{"index": 202040, "D": "the act or process of working together or cooperating", "S": [], "A": []}

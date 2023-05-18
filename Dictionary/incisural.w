@@ -1,0 +1,1 @@
+{"index": 149898, "D": "a notch, as in a bone or other structure.", "S": [], "A": []}

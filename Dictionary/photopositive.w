@@ -1,0 +1,1 @@
+{"index": 235324, "D": "pertaining to a substance whose conductivity increases upon absorption of electromagnetic radiation. ", "S": [], "A": []}

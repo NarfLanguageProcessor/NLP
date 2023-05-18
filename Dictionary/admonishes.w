@@ -1,0 +1,1 @@
+{"index": 4222, "D": "to caution, advise, or counsel against something.", "S": ["advise ", "berate ", "censure ", "chide ", "enjoin ", "exhort ", "rebuke ", "reprimand ", "scold ", "upbraid ", "warn "], "A": ["allow ", "compliment ", "flatter ", "laud ", "permit ", "praise "]}

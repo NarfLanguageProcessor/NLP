@@ -1,0 +1,1 @@
+{"index": 331266, "D": "the lowest layer of the atmosphere, 6 miles (10 km) high in some areas and as much as 12 miles (20 km) high in others, within which there is a steady drop in temperature with increasing altitude and within which nearly all cloud formations occur and weather conditions manifest themselves.", "S": ["atmosphere ", "breeze ", "wind "], "A": []}

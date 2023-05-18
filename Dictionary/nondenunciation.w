@@ -1,0 +1,1 @@
+{"index": 202892, "D": "an act or instance of denouncing;  public censure or condemnation.", "S": [], "A": []}

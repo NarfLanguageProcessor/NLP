@@ -1,0 +1,1 @@
+{"index": 283682, "D": "the viscid, whitish fluid produced in the male reproductive organs, containing spermatozoa.", "S": ["berry ", "corn ", "egg ", "grain ", "nut "], "A": ["being ", "concrete ", "death ", "exterior ", "exteriority ", "outside "]}

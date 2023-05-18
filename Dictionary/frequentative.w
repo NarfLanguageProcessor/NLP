@@ -1,0 +1,1 @@
+{"index": 118785, "D": "noting or pertaining to a verb aspect expressing repetition of an action.", "S": [], "A": []}

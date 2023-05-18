@@ -1,0 +1,1 @@
+{"index": 114211, "D": "the 3-hydroxy derivative of flavone,  many of whose derivatives, as quercetin, are naturally occurring yellow dyes.", "S": [], "A": []}

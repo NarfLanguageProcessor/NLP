@@ -1,0 +1,1 @@
+{"index": 237, "D": "the centimeter-gram-second unit of quantity of electricity, equivalent to 10 coulombs. ", "S": [], "A": []}

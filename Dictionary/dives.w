@@ -1,0 +1,1 @@
+{"index": 90302, "D": "the rich man of the parable in Luke 16", "S": ["dip ", "leap ", "plunge "], "A": ["ascent ", "increase ", "rise "]}

@@ -1,0 +1,1 @@
+{"index": 60387, "D": "clump (def. 6). ", "S": ["clop ", "clunk ", "plod ", "pound ", "stomp ", "thud ", "thump "], "A": []}

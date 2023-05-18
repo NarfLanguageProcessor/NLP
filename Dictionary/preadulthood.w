@@ -1,0 +1,1 @@
+{"index": 245577, "D": "of or relating to the period prior to adulthood", "S": [], "A": []}

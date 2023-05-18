@@ -1,0 +1,1 @@
+{"index": 132203, "D": "having a gaunt, wasted, or exhausted appearance, as from prolonged suffering, exertion, or anxiety; worn", "S": [], "A": []}

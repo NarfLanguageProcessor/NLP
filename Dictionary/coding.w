@@ -1,0 +1,1 @@
+{"index": 61772, "D": "the act or process of writing code,  or the instructions for a program or piece of software", "S": ["summarize "], "A": ["disarrange ", "disorder ", "disorganize ", "disperse ", "enlarge ", "expand ", "lengthen ", "mix up ", "scatter "]}

@@ -1,0 +1,1 @@
+{"index": 328415, "D": "a piece of equipment attached to a radio transceiver to enable it to transmit and receive on additional frequencies", "S": [], "A": []}

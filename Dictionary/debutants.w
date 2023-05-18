@@ -1,0 +1,1 @@
+{"index": 77887, "D": "a person who makes a debut into a professional career or before the public.", "S": [], "A": []}

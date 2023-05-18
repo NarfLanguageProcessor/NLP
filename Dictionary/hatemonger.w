@@ -1,0 +1,1 @@
+{"index": 134225, "D": "a person who kindles hatred, enmity, or prejudice in others.", "S": [], "A": []}

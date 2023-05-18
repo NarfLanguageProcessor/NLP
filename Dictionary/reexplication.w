@@ -1,0 +1,1 @@
+{"index": 264887, "D": "the act of explicating. ", "S": [], "A": []}

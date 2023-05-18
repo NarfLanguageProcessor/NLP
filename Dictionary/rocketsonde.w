@@ -1,0 +1,1 @@
+{"index": 273687, "D": "a telemeter for gathering data on the atmosphere at very high altitudes, carried aloft by rocket  and returned to earth by parachute.", "S": [], "A": []}

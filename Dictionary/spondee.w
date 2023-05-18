@@ -1,0 +1,1 @@
+{"index": 300699, "D": "a foot of two syllables, both of which are long in quantitative meter or stressed in accentual meter. Symbol", "S": [], "A": []}

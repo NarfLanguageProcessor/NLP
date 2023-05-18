@@ -1,0 +1,1 @@
+{"index": 96080, "D": "marked by effort  or exertion; labored.", "S": ["arduous ", "backbreaking ", "demanding ", "difficult ", "hard ", "heavy ", "labored ", "laborious ", "onerous ", "oppressive ", "rigorous ", "rough ", "severe ", "strained ", "strenuous ", "taxing ", "tough ", "trying "], "A": []}

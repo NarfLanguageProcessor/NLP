@@ -1,0 +1,1 @@
+{"index": 85713, "D": "an artificial erect penis, used as a sexual aid.", "S": [], "A": []}

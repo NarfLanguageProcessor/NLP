@@ -1,0 +1,1 @@
+{"index": 242031, "D": "a person of great learning in several fields of study; polyhistor.", "S": [], "A": []}

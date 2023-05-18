@@ -1,0 +1,1 @@
+{"index": 304217, "D": "a large, heavy, covered pot  used for making stews. ", "S": [], "A": []}

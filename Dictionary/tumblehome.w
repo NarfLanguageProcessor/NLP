@@ -1,0 +1,1 @@
+{"index": 332271, "D": "an inward and upward slope of the middle body of a vessel.", "S": [], "A": []}

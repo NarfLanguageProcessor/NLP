@@ -1,0 +1,1 @@
+{"index": 39983, "D": "impertinent; impudent; tactless", "S": ["bold ", "brazen ", "cheeky ", "cocky ", "rude "], "A": ["shy ", "timid "]}

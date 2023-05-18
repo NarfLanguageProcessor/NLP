@@ -1,0 +1,1 @@
+{"index": 253858, "D": "any member of the lower invertebrate phyla in which the mouth appears before the anus during development, cleavage is spiral and determinate, and the coelom forms as a splitting of the mesoderm.", "S": [], "A": []}

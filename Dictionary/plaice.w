@@ -1,0 +1,1 @@
+{"index": 238722, "D": "a European flatfish, Pleuronectes platessa, used for food.", "S": [], "A": []}

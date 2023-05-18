@@ -1,0 +1,1 @@
+{"index": 128927, "D": "a coarse-grained igneous rock composed chiefly of orthoclase and albite feldspars and of quartz, usually with lesser amounts of one or more other minerals, as mica, hornblende, or augite.", "S": [], "A": []}

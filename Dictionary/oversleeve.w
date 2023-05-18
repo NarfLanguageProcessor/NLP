@@ -1,0 +1,1 @@
+{"index": 221174, "D": "a protective sleeve covering an ordinary sleeve", "S": [], "A": []}

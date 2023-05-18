@@ -1,0 +1,1 @@
+{"index": 72282, "D": "necktie (defs. 1, 2). ", "S": ["ascot ", "band ", "neckerchief ", "overlay ", "scarf ", "tie "], "A": []}

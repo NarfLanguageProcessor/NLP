@@ -1,0 +1,1 @@
+{"index": 317507, "D": "a container with a lid, spout, and handle, in which tea  is made and from which it is poured.", "S": [], "A": []}

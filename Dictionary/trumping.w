@@ -1,0 +1,1 @@
+{"index": 331590, "D": "the suit itself.", "S": ["outdo ", "overtake "], "A": ["fail ", "fall behind ", "lose "]}

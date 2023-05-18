@@ -1,0 +1,1 @@
+{"index": 326131, "D": "a low European plant, Potentilla erecta, of the rose family, having small, bright-yellow flowers, and a strongly astringent root used in medicine and in tanning and dyeing.", "S": [], "A": []}

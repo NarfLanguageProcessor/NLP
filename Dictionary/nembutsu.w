@@ -1,0 +1,1 @@
+{"index": 198250, "D": "meditation on the name of Amida.", "S": [], "A": []}

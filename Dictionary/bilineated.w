@@ -1,0 +1,1 @@
+{"index": 33929, "D": "marked with two usually parallel lines.", "S": [], "A": []}

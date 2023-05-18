@@ -1,0 +1,1 @@
+{"index": 290080, "D": "(in the Volsunga Saga) the son of Volsung and Liod; the father, through his sister, Signy, of Sinfjotli; the husband first of Borghild, then of Hjordis; and the father of Sigurd.", "S": [], "A": []}

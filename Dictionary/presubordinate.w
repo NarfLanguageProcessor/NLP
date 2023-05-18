@@ -1,0 +1,1 @@
+{"index": 249708, "D": "placed in or belonging to a lower order or rank.", "S": [], "A": []}

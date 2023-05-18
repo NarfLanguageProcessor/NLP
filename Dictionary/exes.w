@@ -1,0 +1,1 @@
+{"index": 107079, "D": "without, not including, or without the right to have", "S": [], "A": []}

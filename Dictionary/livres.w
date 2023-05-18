@@ -1,0 +1,1 @@
+{"index": 174019, "D": "a former money of account and group of coins of France, issued in coin form first in gold, then in silver, finally in copper, and discontinued in 1794.", "S": [], "A": []}

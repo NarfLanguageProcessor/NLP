@@ -1,0 +1,1 @@
+{"index": 338934, "D": "shrubs, saplings, low vines, etc., growing under the large trees in a wood or forest.", "S": [], "A": []}

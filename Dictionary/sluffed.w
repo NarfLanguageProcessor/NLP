@@ -1,0 +1,1 @@
+{"index": 294513, "D": "the outer layer of the skin of a snake, which is cast off periodically.", "S": [], "A": []}

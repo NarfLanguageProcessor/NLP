@@ -1,0 +1,1 @@
+{"index": 123125, "D": "a mineral, aluminum calcium silicate, occurring in prismatic crystals varying in color from gray-green to brown.", "S": [], "A": []}

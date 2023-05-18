@@ -1,0 +1,1 @@
+{"index": 81520, "D": "to go away; leave", "S": ["abandon ", "blast off ", "disappear ", "escape ", "evacuate ", "exit ", "go ", "pull out ", "quit ", "remove ", "retire ", "vacate ", "withdraw "], "A": ["arrive ", "come in ", "continue ", "enter ", "fill ", "occupy ", "persevere ", "remain ", "stay ", "combine ", "come ", "join "]}

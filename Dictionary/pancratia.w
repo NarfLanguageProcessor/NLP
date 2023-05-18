@@ -1,0 +1,1 @@
+{"index": 224394, "D": "(in ancient Greece) an athletic contest combining wrestling and boxing.", "S": [], "A": []}

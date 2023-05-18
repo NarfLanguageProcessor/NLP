@@ -1,0 +1,1 @@
+{"index": 42391, "D": "a month equivalent to Heshvan of the modern Jewish calendar. 1 Kings 6", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202918, "D": "to make morally bad or evil; vitiate; corrupt.", "S": [], "A": []}

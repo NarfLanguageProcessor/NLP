@@ -1,0 +1,1 @@
+{"index": 348166, "D": "to inhabit; live in; be the inhabitants of", "S": ["austere ", "chilly ", "cold ", "desolate ", "dreary ", "grim "], "A": ["bright ", "cheerful ", "friendly ", "happy ", "hot ", "sympathetic ", "warm "]}

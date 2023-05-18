@@ -1,0 +1,1 @@
+{"index": 174495, "D": "(of a deer or the like) represented as lying down", "S": ["blocked ", "clogged ", "swollen ", "wedged "], "A": ["impermanent ", "unfixed "]}

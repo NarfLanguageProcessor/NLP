@@ -1,0 +1,1 @@
+{"index": 258228, "D": "inclined to or feeling nausea, as the stomach, a person, etc.; nauseous; nauseated. ", "S": [], "A": []}

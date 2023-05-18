@@ -1,0 +1,1 @@
+{"index": 243467, "D": "of, relating to, or reminiscent of sexually explicit material, such as video, audio, text, or images, whose purpose is to elicit sexual arousal.", "S": ["immoral ", "indecent ", "lewd ", "salacious ", "sexy "], "A": ["chaste ", "clean ", "decent ", "moral ", "pure ", "virtuous "]}

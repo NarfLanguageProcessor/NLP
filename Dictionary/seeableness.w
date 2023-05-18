@@ -1,0 +1,1 @@
+{"index": 283056, "D": "to perceive with the eyes; look at.", "S": [], "A": []}

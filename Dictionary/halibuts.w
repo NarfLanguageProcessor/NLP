@@ -1,0 +1,1 @@
+{"index": 132639, "D": "either of two large flatfishes, Hippoglossus hippoglossus, of the North Atlantic, or H. stenolepis, of the North Pacific, used for food.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194715, "D": "any of several often large, aquatic salamanders of the genus Necturus, of eastern North America, having bushy, red gills and well-developed limbs.", "S": [], "A": []}

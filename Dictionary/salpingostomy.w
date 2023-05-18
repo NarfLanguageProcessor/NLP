@@ -1,0 +1,1 @@
+{"index": 277228, "D": "the formation of an artificial opening into a Fallopian tube.", "S": [], "A": []}

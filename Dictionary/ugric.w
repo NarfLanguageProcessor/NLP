@@ -1,0 +1,1 @@
+{"index": 333667, "D": "a branch of the Uralic family of languages, consisting of Hungarian and two languages, Khanty and Mansi, spoken in western Siberia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137521, "D": "irregular or abnormal; anomalous.", "S": [], "A": []}

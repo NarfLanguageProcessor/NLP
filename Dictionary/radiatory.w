@@ -1,0 +1,1 @@
+{"index": 259556, "D": "giving off radiation. ", "S": [], "A": []}

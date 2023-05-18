@@ -1,0 +1,1 @@
+{"index": 333250, "D": "small pincers or nippers for plucking out hairs, extracting splinters, picking up small objects, etc.", "S": [], "A": []}

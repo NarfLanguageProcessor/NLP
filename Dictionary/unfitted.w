@@ -1,0 +1,1 @@
+{"index": 342308, "D": "unused to and unfitted for any form of manual labour", "S": ["amateurish ", "helpless ", "inadequate ", "incapable ", "ineffectual ", "inefficient ", "inept ", "inexperienced ", "unqualified ", "unskilled ", "useless "], "A": ["able ", "capable ", "competent ", "expert ", "qualified ", "skilled ", "strong ", "useful "]}

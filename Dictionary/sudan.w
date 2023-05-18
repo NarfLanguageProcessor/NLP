@@ -1,0 +1,1 @@
+{"index": 310004, "D": "a region in North Africa, south of the Sahara and Libyan Deserts, extending from the Atlantic Ocean  to the Red Sea. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 31769, "D": "a grayish, crystalline, slightly water-soluble, basic compound, C12H12N2, usually derived from nitrobenzene", "S": [], "A": []}

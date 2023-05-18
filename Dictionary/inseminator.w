@@ -1,0 +1,1 @@
+{"index": 153517, "D": "a technician who introduces prepared semen into the genital tract of breeding animals, especially cows and mares, for artificial insemination.", "S": [], "A": []}

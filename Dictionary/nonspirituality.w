@@ -1,0 +1,1 @@
+{"index": 207464, "D": "the quality or fact of being spiritual", "S": [], "A": []}

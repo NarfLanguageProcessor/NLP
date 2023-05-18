@@ -1,0 +1,1 @@
+{"index": 111293, "D": "to invest with a fief or fee; enfeoff.", "S": [], "A": []}

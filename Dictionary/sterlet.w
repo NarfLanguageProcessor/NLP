@@ -1,0 +1,1 @@
+{"index": 304046, "D": "a small sturgeon, Acipenser ruthenus, of the Black and Caspian seas, valued as a source of caviar.", "S": [], "A": []}

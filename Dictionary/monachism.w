@@ -1,0 +1,1 @@
+{"index": 191690, "D": "monasticism. ", "S": [], "A": []}

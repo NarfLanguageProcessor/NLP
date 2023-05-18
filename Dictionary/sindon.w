@@ -1,0 +1,1 @@
+{"index": 291552, "D": "cloth of fine linen or silk, used especially for shrouds.", "S": [], "A": []}

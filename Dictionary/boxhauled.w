@@ -1,0 +1,1 @@
+{"index": 39287, "D": "to put (a square-rigged sailing vessel) on a new tack by bracing the head yards aback and backing onto the new heading.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359376, "D": "of, relating to, or consisting of twenty.", "S": [], "A": []}

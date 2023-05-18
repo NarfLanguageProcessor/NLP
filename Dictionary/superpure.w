@@ -1,0 +1,1 @@
+{"index": 312470, "D": "free from anything of a different, inferior, or contaminating kind; free from extraneous matter", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 120979, "D": "a dark-green to black mineral of the spinel group, zinc aluminate, ZnAl2O4.", "S": [], "A": []}

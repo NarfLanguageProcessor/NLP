@@ -1,0 +1,1 @@
+{"index": 286142, "D": "a form of land tenure in which a tenant holding of the king rendered him exclusive services in a status below that of a knight.", "S": [], "A": []}

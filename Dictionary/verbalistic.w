@@ -1,0 +1,1 @@
+{"index": 358361, "D": "a person skilled in the use of words.", "S": [], "A": []}

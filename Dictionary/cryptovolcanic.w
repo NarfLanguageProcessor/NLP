@@ -1,0 +1,1 @@
+{"index": 73320, "D": "of or relating to a rock structure providing indirect or incomplete evidence of volcanism.", "S": [], "A": []}

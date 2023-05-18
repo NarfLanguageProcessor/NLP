@@ -1,0 +1,1 @@
+{"index": 122479, "D": "terror or fright.", "S": [], "A": []}

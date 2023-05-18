@@ -1,0 +1,1 @@
+{"index": 345050, "D": "a person who maintains that God is one being, rejecting the doctrine of the Trinity.", "S": [], "A": []}

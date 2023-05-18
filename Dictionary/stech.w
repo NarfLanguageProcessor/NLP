@@ -1,0 +1,1 @@
+{"index": 303361, "D": "to fill or gorge (one's stomach) with food.", "S": [], "A": []}

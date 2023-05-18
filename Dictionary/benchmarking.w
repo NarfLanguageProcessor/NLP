@@ -1,0 +1,1 @@
+{"index": 31482, "D": "the act or practice of measuring something against a standard, or of testing it in order to develop such a standard", "S": [], "A": []}

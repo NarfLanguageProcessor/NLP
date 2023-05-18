@@ -1,0 +1,1 @@
+{"index": 207725, "D": "the act of suspending.", "S": [], "A": []}

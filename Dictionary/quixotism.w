@@ -1,0 +1,1 @@
+{"index": 259066, "D": "quixotic  character or practice.", "S": [], "A": []}

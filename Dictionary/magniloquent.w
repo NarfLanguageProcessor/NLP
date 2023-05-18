@@ -1,0 +1,1 @@
+{"index": 177612, "D": "speaking or expressed in a lofty or grandiose style; pompous; bombastic; boastful.", "S": ["boastful ", "bombastic ", "flowery ", "grandiloquent ", "pompous ", "turgid "], "A": ["terse "]}

@@ -1,0 +1,1 @@
+{"index": 178534, "D": "to make (white cast iron) malleable  by annealing it so that the carbon is transformed to graphite or removed completely.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91259, "D": "an archaic variant of doomsday. ", "S": [], "A": []}

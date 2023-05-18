@@ -1,0 +1,1 @@
+{"index": 166664, "D": "to cause to become labile. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197401, "D": "a mineral, silver-lead selenide, (Ag2Pb)Se, usually occurring in iron-black cubic crystals.", "S": [], "A": []}

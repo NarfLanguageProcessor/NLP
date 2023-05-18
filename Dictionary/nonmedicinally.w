@@ -1,0 +1,1 @@
+{"index": 205218, "D": "of, relating to, or having the properties of a medicine;  curative; remedial", "S": [], "A": []}

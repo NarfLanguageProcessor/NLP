@@ -1,0 +1,1 @@
+{"index": 111512, "D": "a compound, as NaFeO2, formed when ferric oxide is combined with a more basic metallic oxide.", "S": [], "A": []}

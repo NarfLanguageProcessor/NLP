@@ -1,0 +1,1 @@
+{"index": 50753, "D": "a container, usually covered, in which incense is burned, especially during religious services; thurible.", "S": [], "A": []}

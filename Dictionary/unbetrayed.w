@@ -1,0 +1,1 @@
+{"index": 335848, "D": "delivered or exposed to an enemy by treachery or disloyalty", "S": [], "A": []}

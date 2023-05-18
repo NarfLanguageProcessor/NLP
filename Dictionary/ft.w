@@ -1,0 +1,1 @@
+{"index": 119704, "D": "Fourier transform. ", "S": [], "A": []}

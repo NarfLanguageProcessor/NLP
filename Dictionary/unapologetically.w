@@ -1,0 +1,1 @@
+{"index": 335064, "D": "in a way that does not accept fault or shows no regret or shame", "S": [], "A": []}

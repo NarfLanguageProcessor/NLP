@@ -1,0 +1,1 @@
+{"index": 341992, "D": "ornamental; decorative;  not plain", "S": [], "A": []}

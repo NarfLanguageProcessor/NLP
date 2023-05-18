@@ -1,0 +1,1 @@
+{"index": 280136, "D": "a large, loomlike machine for embroidering textiles and working patterns in lace.", "S": [], "A": []}

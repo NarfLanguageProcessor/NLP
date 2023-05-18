@@ -1,0 +1,1 @@
+{"index": 277479, "D": "a rare-earth metallic element discovered in samarskite. Symbol", "S": [], "A": []}

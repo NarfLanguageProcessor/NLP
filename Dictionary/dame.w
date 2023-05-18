@@ -1,0 +1,1 @@
+{"index": 76541, "D": "the official title of the wife of a knight or baronet.", "S": ["baroness ", "contessa ", "countess ", "duchess ", "female ", "gentlewoman ", "woman "], "A": ["man "]}

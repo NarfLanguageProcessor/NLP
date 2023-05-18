@@ -1,0 +1,1 @@
+{"index": 356607, "D": "Compare miniver (def. 1). ", "S": [], "A": []}

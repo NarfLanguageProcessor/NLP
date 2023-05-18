@@ -1,0 +1,1 @@
+{"index": 86920, "D": "characterized by or involving disadvantage;  unfavorable; detrimental.", "S": [], "A": []}

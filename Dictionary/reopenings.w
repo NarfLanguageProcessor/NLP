@@ -1,0 +1,1 @@
+{"index": 267867, "D": [], "S": ["rebirth ", "regeneration ", "rejuvenation ", "restoration ", "resumption ", "revitalization ", "revival "], "A": ["destruction ", "exhaustion ", "impoverishment "]}

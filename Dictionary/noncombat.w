@@ -1,0 +1,1 @@
+{"index": 202067, "D": "not including, entailing, or requiring combat", "S": [], "A": []}

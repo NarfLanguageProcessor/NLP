@@ -1,0 +1,1 @@
+{"index": 216092, "D": "(a form of the possessive case of we used as a predicate adjective)", "S": [], "A": []}

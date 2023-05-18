@@ -1,0 +1,1 @@
+{"index": 295394, "D": "canvas shoes with rubber soles worn for sports or informally", "S": ["cleat ", "footwear ", "shoe ", "tennis shoe "], "A": []}

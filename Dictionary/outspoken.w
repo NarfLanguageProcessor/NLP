@@ -1,0 +1,1 @@
+{"index": 217564, "D": "uttered or expressed with frankness or without reserve", "S": ["blunt ", "candid ", "forthright ", "strident ", "vocal "], "A": ["devious "]}

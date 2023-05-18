@@ -1,0 +1,1 @@
+{"index": 154269, "D": "to seek or consider the rational content or form of.", "S": [], "A": []}

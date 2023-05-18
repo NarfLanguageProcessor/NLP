@@ -1,0 +1,1 @@
+{"index": 356788, "D": "acorn cups of an Old World oak, Quercus macrolepis (or Q. aegilops), used in tanning, dyeing, and making ink.", "S": [], "A": []}

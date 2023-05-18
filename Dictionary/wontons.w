@@ -1,0 +1,1 @@
+{"index": 367088, "D": "(in Chinese cooking) a dumpling filled with minced pork and spices, usually boiled in and served with soup but sometimes fried as a side dish.", "S": [], "A": []}

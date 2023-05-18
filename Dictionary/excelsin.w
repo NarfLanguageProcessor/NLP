@@ -1,0 +1,1 @@
+{"index": 106589, "D": [], "S": ["comprehend ", "grasp ", "understand "], "A": ["misinterpret ", "mistake ", "misunderstand "]}

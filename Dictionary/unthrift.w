@@ -1,0 +1,1 @@
+{"index": 352955, "D": [], "S": ["absurdity ", "exaggeration ", "excess ", "luxury ", "squandering "], "A": ["economy ", "frugality "]}

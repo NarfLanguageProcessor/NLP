@@ -1,0 +1,1 @@
+{"index": 144162, "D": "receiving or treating guests or strangers warmly and generously", "S": ["warmly "], "A": []}

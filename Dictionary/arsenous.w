@@ -1,0 +1,1 @@
+{"index": 20409, "D": "containing arsenic in the trivalent state, as arsenous chloride, AsCl3.", "S": [], "A": []}

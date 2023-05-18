@@ -1,0 +1,1 @@
+{"index": 230674, "D": "Compare constative (def. 1). ", "S": [], "A": []}

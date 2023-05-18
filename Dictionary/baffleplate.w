@@ -1,0 +1,1 @@
+{"index": 26256, "D": "a plate  used as a baffle. ", "S": [], "A": []}

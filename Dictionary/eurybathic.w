@@ -1,0 +1,1 @@
+{"index": 105747, "D": "of or relating to marine or freshwater life that can tolerate a wide range of depths (opposed to stenobathic).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214901, "D": "not regular or scheduled; odd", "S": [], "A": []}

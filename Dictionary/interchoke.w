@@ -1,0 +1,1 @@
+{"index": 154622, "D": "to stop the breath of by squeezing or obstructing the windpipe; strangle; stifle.", "S": [], "A": []}

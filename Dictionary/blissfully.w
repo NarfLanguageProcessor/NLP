@@ -1,0 +1,1 @@
+{"index": 36276, "D": "in a way that is characterized by supreme happiness, peace, and contentment", "S": ["cheerfully ", "cheerily ", "cordially ", "enthusiastically ", "freely ", "gleefully ", "gratefully ", "heartily ", "readily ", "warmly ", "willingly "], "A": ["unwillingly "]}

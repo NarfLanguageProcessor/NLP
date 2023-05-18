@@ -1,0 +1,1 @@
+{"index": 297427, "D": "(of a person, ideas, tastes, manners, etc.) altered by education, experience, etc., so as to be worldly-wise; not naive", "S": ["mature ", "practical ", "refined ", "worldly "], "A": ["inexperienced ", "unrefined ", "unsophisticated ", "enchanted ", "encouraged ", "enthusiastic ", "excited ", "uncool "]}

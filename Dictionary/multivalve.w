@@ -1,0 +1,1 @@
+{"index": 195414, "D": "(of a shell) composed of more than two valves  or pieces.", "S": [], "A": []}

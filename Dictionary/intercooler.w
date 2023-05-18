@@ -1,0 +1,1 @@
+{"index": 154745, "D": "any device for cooling a fluid between successive heating processes, especially for cooling a gas between successive compressions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 204090, "D": "characterized by flaws;  having imperfections", "S": [], "A": []}

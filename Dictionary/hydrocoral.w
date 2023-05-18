@@ -1,0 +1,1 @@
+{"index": 138601, "D": "any colonial marine animal of the hydrozoan order Stylasterina having a calcareous skeleton resembling that of the true corals.", "S": [], "A": []}

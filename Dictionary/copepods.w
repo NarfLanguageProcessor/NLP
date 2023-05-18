@@ -1,0 +1,1 @@
+{"index": 68470, "D": "any of numerous tiny marine or freshwater crustaceans of the order (or subclass) Copepoda, lacking compound eyes or a carapace and usually having six pairs of limbs on the thorax, some abundant in plankton and others parasitic on fish.", "S": [], "A": []}

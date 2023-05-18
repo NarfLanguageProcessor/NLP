@@ -1,0 +1,1 @@
+{"index": 278313, "D": "a fine, soft fabric, often of silk, made in plain or twill weave and used especially for linings.", "S": [], "A": []}

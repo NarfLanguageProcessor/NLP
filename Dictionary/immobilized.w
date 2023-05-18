@@ -1,0 +1,1 @@
+{"index": 148032, "D": "to make immobile or immovable; fix in place.", "S": ["immovable ", "stagnant ", "static ", "stationary "], "A": ["mobile ", "moving ", "unfixed "]}

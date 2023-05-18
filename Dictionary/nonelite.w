@@ -1,0 +1,1 @@
+{"index": 203436, "D": "the choice or best of anything considered collectively, as of a group or class of persons.", "S": [], "A": []}

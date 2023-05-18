@@ -1,0 +1,1 @@
+{"index": 68060, "D": "capable of being converted. ", "S": ["auto ", "bus ", "convertible ", "limousine ", "passenger car ", "pickup truck ", "sports car ", "station wagon ", "taxi ", "transportation ", "truck ", "van "], "A": []}

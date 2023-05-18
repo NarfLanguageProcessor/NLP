@@ -1,0 +1,1 @@
+{"index": 105634, "D": "any of several small tanagers of the genus Euphonia, having a melodious song, most species of which have yellow and glossy black plumage.", "S": [], "A": []}

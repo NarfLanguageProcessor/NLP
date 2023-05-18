@@ -1,0 +1,1 @@
+{"index": 31874, "D": "a yellow, crystalline aromatic carcinogenic hydrocarbon, C20H12, consisting of five fused benzene rings, produced by incomplete combustion of organic material, as coal, petroleum, or tobacco.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294789, "D": "noting a mesomorphic state in which the arrangement of the molecules is in layers or planes.", "S": [], "A": []}

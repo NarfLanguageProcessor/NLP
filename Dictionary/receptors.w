@@ -1,0 +1,1 @@
+{"index": 262748, "D": "an end organ or a group of end organs of sensory or afferent neurons, specialized to be sensitive to stimulating agents, as touch or heat.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258322, "D": "to slake, satisfy, or allay (thirst, desires, passion, etc.).", "S": [], "A": []}

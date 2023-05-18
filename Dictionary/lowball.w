@@ -1,0 +1,1 @@
+{"index": 175606, "D": "a game of draw poker in which the player having the lowest-ranking hand wins the pot.", "S": [], "A": []}

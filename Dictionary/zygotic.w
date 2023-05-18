@@ -1,0 +1,1 @@
+{"index": 369296, "D": "of or relating to a zygote. ", "S": [], "A": []}

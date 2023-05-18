@@ -1,0 +1,1 @@
+{"index": 191711, "D": "(of stamens) united into one bundle or set by their filaments.", "S": [], "A": []}

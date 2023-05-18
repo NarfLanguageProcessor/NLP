@@ -1,0 +1,1 @@
+{"index": 236312, "D": "the measurement of pressure or compressibility.", "S": [], "A": []}

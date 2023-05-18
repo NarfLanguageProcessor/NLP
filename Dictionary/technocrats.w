@@ -1,0 +1,1 @@
+{"index": 317676, "D": "a proponent, adherent, or supporter of technocracy.", "S": [], "A": []}

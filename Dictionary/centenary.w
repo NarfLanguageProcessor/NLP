@@ -1,0 +1,1 @@
+{"index": 50818, "D": "of or relating to a period of 100 years.", "S": ["centennial "], "A": []}

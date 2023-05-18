@@ -1,0 +1,1 @@
+{"index": 306881, "D": "of the nature of or resembling a stump. ", "S": ["chunky ", "pudgy ", "squat ", "stocky ", "stubby "], "A": []}

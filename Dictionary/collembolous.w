@@ -1,0 +1,1 @@
+{"index": 62958, "D": "belonging or pertaining to the insect order Collembola, comprising the springtails.", "S": [], "A": []}

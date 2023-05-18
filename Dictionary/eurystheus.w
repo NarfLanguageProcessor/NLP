@@ -1,0 +1,1 @@
+{"index": 105792, "D": "a king of Mycenae and cousin of Hercules, upon whom he imposed 12 labors.", "S": [], "A": []}

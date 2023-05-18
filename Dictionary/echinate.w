@@ -1,0 +1,1 @@
+{"index": 95204, "D": "bristly; prickly.", "S": ["barbed ", "briery ", "bristling ", "echinated ", "prickly ", "pricky ", "spiked ", "spiky ", "spiny ", "thistly "], "A": []}

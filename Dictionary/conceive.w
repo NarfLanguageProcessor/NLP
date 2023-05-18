@@ -1,0 +1,1 @@
+{"index": 65108, "D": "to form (a notion, opinion, purpose, etc.)", "S": ["accept ", "assume ", "believe ", "perceive ", "realize "], "A": ["neglect ", "avoid ", "disbelieve ", "dislike ", "disregard ", "fail ", "know ", "let go ", "lose ", "miss ", "misunderstand ", "release "]}

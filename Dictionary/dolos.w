@@ -1,0 +1,1 @@
+{"index": 91214, "D": "a knucklebone of a sheep, buck, etc, used esp by diviners", "S": [], "A": []}

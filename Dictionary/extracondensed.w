@@ -1,0 +1,1 @@
+{"index": 108445, "D": "(of type) narrower than condensed type in proportion to its height.", "S": [], "A": []}

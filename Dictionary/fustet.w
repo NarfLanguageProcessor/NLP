@@ -1,0 +1,1 @@
+{"index": 120646, "D": "the smoke tree, Cotinus coggygria.", "S": [], "A": []}

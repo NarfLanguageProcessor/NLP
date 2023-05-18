@@ -1,0 +1,1 @@
+{"index": 327798, "D": "to cut across; dissect transversely.", "S": ["crosscut ", "cut across "], "A": ["bring together ", "connect ", "join ", "merge "]}

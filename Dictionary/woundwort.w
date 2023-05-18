@@ -1,0 +1,1 @@
+{"index": 367762, "D": "any of several plants of the genus Stachys, belonging to the mint family, especially S. palustris, having hairy stems and leaves and whorled clusters of small, reddish flowers.", "S": [], "A": []}

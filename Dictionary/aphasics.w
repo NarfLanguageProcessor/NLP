@@ -1,0 +1,1 @@
+{"index": 16800, "D": "pertaining to or affected with aphasia. ", "S": [], "A": []}

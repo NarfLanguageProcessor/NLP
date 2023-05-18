@@ -1,0 +1,1 @@
+{"index": 269790, "D": "the plural of responsibility. ", "S": ["authority ", "burden ", "duty ", "guilt ", "importance ", "liability ", "obligation ", "power ", "restraint ", "trust "], "A": ["irresponsibility ", "benefit ", "blessing "]}

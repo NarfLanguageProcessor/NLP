@@ -1,0 +1,1 @@
+{"index": 72826, "D": "a fissure, or deep cleft, in glacial ice, the earth's surface, etc.", "S": [], "A": []}

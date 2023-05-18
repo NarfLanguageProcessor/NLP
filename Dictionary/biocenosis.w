@@ -1,0 +1,1 @@
+{"index": 34293, "D": "a self-sufficient community of naturally occurring organisms occupying and interacting within a specific biotope.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153783, "D": "capable of being inspired. ", "S": [], "A": []}

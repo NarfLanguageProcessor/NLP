@@ -1,0 +1,1 @@
+{"index": 1593, "D": "having become accustomed to a climate or environment", "S": ["accustomed ", "at home with ", "common ", "commonplace ", "customary ", "everyday ", "knowing ", "known ", "old hat ", "ordinary ", "plain ", "recognizable ", "routine ", "well-known "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335259, "D": "an act or the process of articulating", "S": [], "A": []}

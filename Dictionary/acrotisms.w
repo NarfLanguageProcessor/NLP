@@ -1,0 +1,1 @@
+{"index": 3065, "D": "absence or weakness of the pulse.", "S": [], "A": []}

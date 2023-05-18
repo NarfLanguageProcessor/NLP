@@ -1,0 +1,1 @@
+{"index": 230173, "D": "persons indefinitely or collectively; persons in general", "S": ["clearing ", "establishment ", "expansion ", "founding ", "immigration ", "migration ", "settlement ", "settling ", "squatting ", "transplanting "], "A": []}

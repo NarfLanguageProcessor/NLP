@@ -1,0 +1,1 @@
+{"index": 109071, "D": "one of the elements contributing to a particular result or situation", "S": ["separate "], "A": ["attach ", "collect ", "combine ", "connect ", "couple ", "gather ", "join ", "link ", "unite "]}

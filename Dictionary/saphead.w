@@ -1,0 +1,1 @@
+{"index": 278092, "D": "a simpleton; fool.", "S": ["blockhead ", "bonehead ", "bozo ", "character ", "crackpot ", "dingbat ", "dumbbell ", "eccentric ", "fanatic ", "goof ", "kook ", "lunkhead ", "nut "], "A": []}

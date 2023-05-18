@@ -1,0 +1,1 @@
+{"index": 53170, "D": "a person employed to drive a private automobile or limousine for the owner.", "S": ["carry ", "chauffeur ", "lug ", "send ", "ship ", "shuttle ", "tote ", "transport "], "A": ["hold ", "keep ", "maintain "]}

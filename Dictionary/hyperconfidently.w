@@ -1,0 +1,1 @@
+{"index": 139989, "D": "having strong belief or full assurance; sure", "S": [], "A": []}

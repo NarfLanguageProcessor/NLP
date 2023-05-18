@@ -1,0 +1,1 @@
+{"index": 322850, "D": "the quantity or amount of raw material processed within a given time, especially the work done by an electronic computer in a given period of time.", "S": [], "A": []}

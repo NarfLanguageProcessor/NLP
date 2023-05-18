@@ -1,0 +1,1 @@
+{"index": 332877, "D": "something that is turned up or that turns up.", "S": ["appear ", "attend ", "come in ", "enter ", "materialize ", "show up "], "A": ["depart ", "exit ", "go ", "hide ", "leave "]}

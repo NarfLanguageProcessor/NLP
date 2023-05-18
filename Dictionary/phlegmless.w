@@ -1,0 +1,1 @@
+{"index": 234492, "D": "the thick mucus secreted in the respiratory passages and discharged through the mouth, especially that occurring in the lungs and throat passages, as during a cold.", "S": [], "A": []}

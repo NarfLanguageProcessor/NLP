@@ -1,0 +1,1 @@
+{"index": 102981, "D": "any word or phrase applied to a person or thing to describe an actual or attributed quality", "S": ["defamatory ", "derogatory ", "snide ", "unfavorable "], "A": ["complimentary ", "favorable ", "nice ", "praising "]}

@@ -1,0 +1,1 @@
+{"index": 156857, "D": "a person who enters a building, grounds, etc, without permission", "S": ["burglar ", "criminal ", "infiltrator ", "interloper ", "invader ", "raider ", "squatter ", "thief ", "trespasser "], "A": []}

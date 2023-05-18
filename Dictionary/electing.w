@@ -1,0 +1,1 @@
+{"index": 96876, "D": "to choose or select by vote, as for an office", "S": ["citizen ", "official "], "A": ["whole "]}

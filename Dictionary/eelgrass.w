@@ -1,0 +1,1 @@
+{"index": 95900, "D": "a grasslike marine plant, Zostera marina, having ribbonlike leaves.", "S": [], "A": []}

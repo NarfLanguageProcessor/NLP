@@ -1,0 +1,1 @@
+{"index": 320240, "D": "having a valence of four, as Pt+4.", "S": [], "A": []}

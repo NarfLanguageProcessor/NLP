@@ -1,0 +1,1 @@
+{"index": 209107, "D": "a style of writing characteristic of poor novels", "S": [], "A": []}

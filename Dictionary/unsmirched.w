@@ -1,0 +1,1 @@
+{"index": 351411, "D": "to discolor or soil; spot or smudge with or as with soot, dust, dirt, etc.", "S": [], "A": []}

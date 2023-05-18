@@ -1,0 +1,1 @@
+{"index": 92124, "D": "a small, short-billed, black and white auk, Alle alle, of the North Atlantic  and Artic  Oceans.", "S": [], "A": []}

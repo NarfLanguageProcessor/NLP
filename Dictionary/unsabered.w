@@ -1,0 +1,1 @@
+{"index": 350180, "D": "a heavy, one-edged sword, usually slightly curved, used especially by cavalry.", "S": [], "A": []}

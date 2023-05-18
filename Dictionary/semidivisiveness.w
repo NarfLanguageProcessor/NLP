@@ -1,0 +1,1 @@
+{"index": 284109, "D": "a tendency to provoke dissension or discord", "S": [], "A": []}

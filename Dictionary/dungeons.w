@@ -1,0 +1,1 @@
+{"index": 94172, "D": "a strong, dark prison or cell, usually underground, as in a medieval castle.", "S": ["torture chamber "], "A": []}

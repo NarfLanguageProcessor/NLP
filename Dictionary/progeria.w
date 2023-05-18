@@ -1,0 +1,1 @@
+{"index": 251852, "D": "a rare congenital abnormality characterized by premature and rapid aging, the affected individual appearing in childhood as an aged person and having a shortened life span.", "S": [], "A": []}

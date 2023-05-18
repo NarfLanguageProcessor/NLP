@@ -1,0 +1,1 @@
+{"index": 203119, "D": "belonging or pertaining to the order Diptera,  comprising the houseflies, mosquitoes, and gnats, characterized by a single, anterior pair of membranous wings with the posterior pair reduced to small, knobbed structures.", "S": [], "A": []}

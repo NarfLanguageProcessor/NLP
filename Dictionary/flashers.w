@@ -1,0 +1,1 @@
+{"index": 114017, "D": "a person or thing that flashes. ", "S": ["4-way flashers ", "four-way flashers ", "hazard lights ", "idiot lights "], "A": []}

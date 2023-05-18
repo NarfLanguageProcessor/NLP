@@ -1,0 +1,1 @@
+{"index": 194366, "D": "a solution, often containing antiseptic, astringent, and breath-sweetening agents, used for cleansing the mouth  and teeth, and for gargling.", "S": [], "A": []}

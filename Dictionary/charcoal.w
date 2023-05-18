@@ -1,0 +1,1 @@
+{"index": 52776, "D": "the carbonaceous material obtained by heating wood or other organic substances in the absence of air.", "S": ["sunless ", "unlighted ", "unlit "], "A": ["bright ", "sunny "]}

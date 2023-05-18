@@ -1,0 +1,1 @@
+{"index": 273406, "D": "a bank of a river.", "S": ["beach ", "cay ", "cliff ", "coast ", "edge ", "embankment ", "lakefront ", "lakeshore ", "lakeside ", "ledge ", "levee ", "oceanfront ", "reef ", "seaboard ", "seafront ", "shore ", "strand ", "waterfront "], "A": []}

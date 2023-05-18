@@ -1,0 +1,1 @@
+{"index": 168045, "D": "(formerly) the upper house of the Danish parliament.", "S": [], "A": []}

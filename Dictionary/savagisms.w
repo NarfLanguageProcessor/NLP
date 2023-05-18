@@ -1,0 +1,1 @@
+{"index": 279051, "D": "barbarism; savagery.", "S": [], "A": []}

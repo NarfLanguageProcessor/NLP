@@ -1,0 +1,1 @@
+{"index": 47435, "D": "the radical CH2 and its derivatives.", "S": [], "A": []}

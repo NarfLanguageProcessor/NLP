@@ -1,0 +1,1 @@
+{"index": 277886, "D": "an iced drink, typically made with red wine, sugar, fruit juice, soda water, and spices, and containing fruit slices.", "S": [], "A": []}

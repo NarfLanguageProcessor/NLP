@@ -1,0 +1,1 @@
+{"index": 86373, "D": "a colorless, flammable, liquid cyclic ether, C4H8O2, having a faint, pleasant odor", "S": [], "A": []}

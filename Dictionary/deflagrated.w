@@ -1,0 +1,1 @@
+{"index": 79348, "D": "to burn, especially suddenly and violently.", "S": [], "A": []}

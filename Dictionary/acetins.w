@@ -1,0 +1,1 @@
+{"index": 2107, "D": "a colorless, thick, hygroscopic liquid, C5H10O4", "S": [], "A": []}

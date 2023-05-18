@@ -1,0 +1,1 @@
+{"index": 16135, "D": "a branch of knowledge or study dealing with a body of facts or truths systematically arranged and showing the operation of general laws", "S": [], "A": []}

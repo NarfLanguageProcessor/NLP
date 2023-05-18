@@ -1,0 +1,1 @@
+{"index": 116005, "D": "encouragement of discord, rebellion, etc.; instigation.", "S": ["cataplasm ", "compress ", "dressing ", "plaster "], "A": []}

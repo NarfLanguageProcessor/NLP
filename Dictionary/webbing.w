@@ -1,0 +1,1 @@
+{"index": 363661, "D": "a strong, woven material of hemp, cotton, or jute, in bands of various widths, used for belts, carrying straps, harness, etc.", "S": ["fiber ", "gossamer ", "labyrinth ", "mesh ", "net ", "network ", "snare ", "tissue ", "toil ", "web "], "A": []}

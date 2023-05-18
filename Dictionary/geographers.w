@@ -1,0 +1,1 @@
+{"index": 123881, "D": "a person who specializes in geographical  research, delineation, and study.", "S": [], "A": []}

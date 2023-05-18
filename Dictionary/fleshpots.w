@@ -1,0 +1,1 @@
+{"index": 114456, "D": "luxurious or self-indulgent living", "S": [], "A": []}

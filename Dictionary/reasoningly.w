@@ -1,0 +1,1 @@
+{"index": 262032, "D": "the act or process of a person who reasons. ", "S": [], "A": []}

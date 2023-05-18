@@ -1,0 +1,1 @@
+{"index": 139948, "D": "pertaining to or characterized by the flesh or the body, its passions and appetites; sensual", "S": [], "A": []}

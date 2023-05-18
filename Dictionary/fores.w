@@ -1,0 +1,1 @@
+{"index": 116916, "D": "situated at or toward the front, as compared with something else.", "S": ["admonition ", "advice ", "alarm ", "alert ", "caution ", "example ", "guidance ", "hint ", "indication ", "information ", "lesson ", "notification ", "prediction ", "recommendation ", "sign ", "signal ", "suggestion ", "threat ", "word "], "A": ["misinformation "]}

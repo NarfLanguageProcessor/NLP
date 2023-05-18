@@ -1,0 +1,1 @@
+{"index": 99745, "D": "the transport of solid matter or liquid into a cell by means of a coated vacuole or vesicle (distinguished from exocytosis).", "S": [], "A": []}

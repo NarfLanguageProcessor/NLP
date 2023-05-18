@@ -1,0 +1,1 @@
+{"index": 357570, "D": "to speak vaingloriously of; boast of", "S": ["boast ", "brag ", "crow ", "display ", "flaunt ", "gasconade ", "prate ", "strut "], "A": ["conceal ", "deprecate ", "hide "]}

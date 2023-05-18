@@ -1,0 +1,1 @@
+{"index": 212449, "D": "left out or suppressed; not done, mentioned, used, written, etc.", "S": ["absent ", "deleted ", "erased ", "expunged ", "forgotten ", "missing ", "neglected ", "overlooked ", "precluded "], "A": ["present "]}

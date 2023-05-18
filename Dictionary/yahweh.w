@@ -1,0 +1,1 @@
+{"index": 145543, "D": "a name of God, transliterated by scholars from the Tetragrammaton and commonly rendered Jehovah.", "S": ["Allah ", "Father in Heaven ", "God ", "Heavenly Father ", "Jehovah ", "King of Kings ", "Lord of Lords ", "the Creator ", "the all-powerful "], "A": []}

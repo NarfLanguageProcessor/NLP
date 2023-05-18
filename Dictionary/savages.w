@@ -1,0 +1,1 @@
+{"index": 279046, "D": "fierce, ferocious, or cruel; untamed", "S": ["bomber "], "A": ["author ", "creator ", "restorer "]}

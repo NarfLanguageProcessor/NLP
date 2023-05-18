@@ -1,0 +1,1 @@
+{"index": 11262, "D": "the husband of the virtuous Alcmene, whom Zeus seduced by assuming the form of Amphitryon, resulting in the birth of Hercules.", "S": [], "A": []}

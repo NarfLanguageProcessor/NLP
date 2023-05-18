@@ -1,0 +1,1 @@
+{"index": 165819, "D": "an island in the N Pacific, near the base of the Alaska Peninsula. 100 miles (160 km) long.", "S": [], "A": []}

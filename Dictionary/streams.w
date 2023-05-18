@@ -1,0 +1,1 @@
+{"index": 305997, "D": "a body of water flowing in a channel or watercourse, as a river, rivulet, or brook.", "S": ["current ", "flood ", "flow ", "rush ", "spate ", "surge ", "tide ", "torrent ", "tributary "], "A": []}

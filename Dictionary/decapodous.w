@@ -1,0 +1,1 @@
+{"index": 78042, "D": "any crustacean of the order Decapoda, having five pairs of walking legs, including the crabs, lobsters, crayfish, prawns, and shrimps.", "S": [], "A": []}

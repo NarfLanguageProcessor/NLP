@@ -1,0 +1,1 @@
+{"index": 363537, "D": "the durability of clothing under normal wear.", "S": [], "A": []}

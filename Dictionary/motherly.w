@@ -1,0 +1,1 @@
+{"index": 193953, "D": "pertaining to, characteristic of, or befitting a mother; maternal", "S": ["affectionate ", "careful ", "caretaking ", "comforting ", "devoted ", "fond ", "gentle ", "kind ", "loving ", "maternal ", "nurturing ", "protecting ", "protective ", "sheltering ", "supporting ", "sympathetic ", "tender ", "warm ", "watchful "], "A": []}

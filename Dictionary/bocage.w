@@ -1,0 +1,1 @@
+{"index": 37115, "D": "a decorative motif of trees, branches, or foliage, as in a tapestry or a ceramic figure group.", "S": [], "A": []}

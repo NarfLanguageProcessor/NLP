@@ -1,0 +1,1 @@
+{"index": 205108, "D": "radiating or reflecting light; shining; bright.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348914, "D": "to put down or suppress completely; quell; subdue", "S": [], "A": []}

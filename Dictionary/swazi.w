@@ -1,0 +1,1 @@
+{"index": 314198, "D": "a member of a Nguni people of Swaziland and the Republic of South Africa.", "S": [], "A": []}

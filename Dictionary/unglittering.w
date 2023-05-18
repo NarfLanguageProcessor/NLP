@@ -1,0 +1,1 @@
+{"index": 343102, "D": "to reflect light with a brilliant, sparkling luster; sparkle with reflected light.", "S": [], "A": []}

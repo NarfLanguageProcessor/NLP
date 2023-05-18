@@ -1,0 +1,1 @@
+{"index": 165175, "D": "a room or place equipped for cooking.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171732, "D": "a contemptible, fawning person; a servile flatterer or toady.", "S": ["adulator "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239953, "D": "(of certain mosses) bearing the fructifications along the main stem or lateral branches.", "S": [], "A": []}

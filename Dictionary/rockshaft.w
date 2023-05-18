@@ -1,0 +1,1 @@
+{"index": 273716, "D": "an oscillating shaft. ", "S": [], "A": []}

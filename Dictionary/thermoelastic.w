@@ -1,0 +1,1 @@
+{"index": 321395, "D": "pertaining to the thermodynamic effects produced by deformation of an elastic  substance.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239596, "D": "capable of being pleaded, as a case in court.", "S": [], "A": []}

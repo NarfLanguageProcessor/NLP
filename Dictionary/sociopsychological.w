@@ -1,0 +1,1 @@
+{"index": 296207, "D": "of, relating to, or characterized by interrelated social and psychological  factors.", "S": [], "A": []}

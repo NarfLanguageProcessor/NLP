@@ -1,0 +1,1 @@
+{"index": 219018, "D": "inattentive because of distracting worries, fears, etc.; absent-minded.", "S": [], "A": []}

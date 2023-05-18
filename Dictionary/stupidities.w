@@ -1,0 +1,1 @@
+{"index": 306956, "D": "the state, quality, or fact of being stupid. ", "S": ["absurdity ", "apathy ", "idiocy ", "ignorance ", "lunacy ", "nonsense ", "silliness "], "A": ["intelligence ", "sense "]}

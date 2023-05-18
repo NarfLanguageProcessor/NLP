@@ -1,0 +1,1 @@
+{"index": 299003, "D": "a pattern, style, or feature of spoken language shared by the people of a particular group or area.", "S": [], "A": []}

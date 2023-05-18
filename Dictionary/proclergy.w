@@ -1,0 +1,1 @@
+{"index": 251269, "D": "the group or body of ordained persons in a religion, as distinguished from the laity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149537, "D": "lacking in artistic  sense or appreciation.", "S": [], "A": []}

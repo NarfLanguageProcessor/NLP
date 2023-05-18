@@ -1,0 +1,1 @@
+{"index": 110251, "D": "subject to, guided by, or predetermined by fate;  destined.", "S": ["destined ", "doomed ", "foreordained ", "impending ", "predestined ", "predetermined ", "preordained "], "A": []}

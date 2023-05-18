@@ -1,0 +1,1 @@
+{"index": 265471, "D": "to decline to accept (something offered)", "S": ["adverse ", "gloomy ", "pessimistic ", "unfavorable ", "weak "], "A": ["confident ", "favorable "]}

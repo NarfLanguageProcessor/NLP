@@ -1,0 +1,1 @@
+{"index": 61390, "D": "one of two or more joint chairmen. ", "S": [], "A": []}

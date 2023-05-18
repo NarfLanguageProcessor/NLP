@@ -1,0 +1,1 @@
+{"index": 41002, "D": "of or relating to Great Britain or its inhabitants.", "S": [], "A": []}

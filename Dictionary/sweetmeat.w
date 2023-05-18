@@ -1,0 +1,1 @@
+{"index": 314319, "D": "a sweet delicacy, as a candy or candied fruit, or, originally, a cake or pastry.", "S": ["sweet "], "A": []}

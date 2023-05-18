@@ -1,0 +1,1 @@
+{"index": 324691, "D": "the son of Laomedon of Troy who was loved by the goddess Eos. She asked that he be made immortal but forgot to ask that he be made eternally young. When he aged she turned him into a grasshopper", "S": [], "A": []}

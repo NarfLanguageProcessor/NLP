@@ -1,0 +1,1 @@
+{"index": 366237, "D": "sweetly or innocently charming; winning;  engaging", "S": ["allure ", "artistry ", "charm ", "delicacy ", "elegance ", "good looks ", "grace ", "refinement ", "style "], "A": ["crudeness ", "inelegance ", "roughness "]}

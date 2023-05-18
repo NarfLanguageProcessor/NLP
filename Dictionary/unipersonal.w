@@ -1,0 +1,1 @@
+{"index": 344939, "D": "consisting of or existing as one person only.", "S": [], "A": []}

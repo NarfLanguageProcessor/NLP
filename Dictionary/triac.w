@@ -1,0 +1,1 @@
+{"index": 329064, "D": "a type of thyristor designed for electronic control of the current supplied to a circuit, used especially in dimmers for lighting systems.", "S": [], "A": []}

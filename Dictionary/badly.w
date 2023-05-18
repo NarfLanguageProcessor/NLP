@@ -1,0 +1,1 @@
+{"index": 26217, "D": "in a defective, incorrect, or undesirable way", "S": ["awkwardly ", "clumsily ", "poorly "], "A": ["adequately ", "calmly ", "little ", "mildly ", "morally "]}

@@ -1,0 +1,1 @@
+{"index": 32165, "D": "Swiss physicist and mathematician born in the Netherlands (son of Johann Bernoulli).", "S": [], "A": []}

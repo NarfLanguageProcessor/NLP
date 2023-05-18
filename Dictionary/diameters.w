@@ -1,0 +1,1 @@
+{"index": 84326, "D": "a straight line passing from side to side of any figure or body, through its center.", "S": ["width "], "A": []}

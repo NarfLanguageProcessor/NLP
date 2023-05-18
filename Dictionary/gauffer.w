@@ -1,0 +1,1 @@
+{"index": 122804, "D": "a less common spelling of goffer", "S": [], "A": []}

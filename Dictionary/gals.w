@@ -1,0 +1,1 @@
+{"index": 121510, "D": "gallons.", "S": ["girl ", "mother "], "A": ["male ", "man "]}

@@ -1,0 +1,1 @@
+{"index": 59484, "D": "a limp or a lameness.", "S": [], "A": []}

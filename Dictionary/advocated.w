@@ -1,0 +1,1 @@
+{"index": 4720, "D": "to speak or write in favor of; support or urge by argument; recommend publicly", "S": ["approved ", "assisted ", "endorsed ", "favored "], "A": ["disapproved "]}

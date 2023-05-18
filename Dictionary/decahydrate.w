@@ -1,0 +1,1 @@
+{"index": 77939, "D": "a hydrate  that contains ten molecules of water, as washing soda, Na2CO3\u22c510H2O.", "S": [], "A": []}

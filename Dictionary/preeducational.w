@@ -1,0 +1,1 @@
+{"index": 247191, "D": "pertaining to education. ", "S": [], "A": []}

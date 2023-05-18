@@ -1,0 +1,1 @@
+{"index": 48945, "D": "the juice of bitter cassava root, boiled down to a syrup and used as a flavoring for food, especially in Caribbean cuisine.", "S": [], "A": []}

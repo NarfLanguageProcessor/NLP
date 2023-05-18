@@ -1,0 +1,1 @@
+{"index": 305190, "D": "a type of sleigh used for moving rocks from fields, for hauling milk cans, etc", "S": [], "A": []}

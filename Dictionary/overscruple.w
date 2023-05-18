@@ -1,0 +1,1 @@
+{"index": 220992, "D": "a moral or ethical consideration or standard that acts as a restraining force or inhibits certain actions.", "S": [], "A": []}

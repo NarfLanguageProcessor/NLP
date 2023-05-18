@@ -1,0 +1,1 @@
+{"index": 199405, "D": "recently; lately", "S": ["freshly "], "A": ["past "]}

@@ -1,0 +1,1 @@
+{"index": 343088, "D": "resembling glass,  as in transparency or smoothness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178118, "D": "a horizontal hand scroll containing either text or a captioned painting, intended to be viewed as it is unrolled from right to left, one segment at a time.", "S": [], "A": []}

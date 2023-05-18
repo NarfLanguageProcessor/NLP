@@ -1,0 +1,1 @@
+{"index": 84613, "D": "any of numerous microscopic, unicellular, marine or freshwater algae of the phylum Chrysophyta, having cell walls containing silica.", "S": [], "A": []}

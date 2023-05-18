@@ -1,0 +1,1 @@
+{"index": 302900, "D": "gazing fixedly and intently, especially with the eyes wide open", "S": [], "A": []}

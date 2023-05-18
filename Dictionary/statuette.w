@@ -1,0 +1,1 @@
+{"index": 303146, "D": "a small statue. ", "S": ["copy ", "figure ", "image ", "painting ", "photograph ", "picture ", "portrait "], "A": ["being ", "entity ", "original "]}

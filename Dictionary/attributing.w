@@ -1,0 +1,1 @@
+{"index": 23168, "D": "to regard as resulting from a specified cause; consider as caused by something indicated (usually followed by to)", "S": ["citing ", "hinting ", "implying ", "indicating ", "mentioning ", "quoting ", "remarking ", "suggesting "], "A": []}

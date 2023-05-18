@@ -1,0 +1,1 @@
+{"index": 41840, "D": "abrupt in manner; blunt; rough", "S": ["blunt ", "gruff ", "terse "], "A": ["polite "]}

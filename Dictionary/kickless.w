@@ -1,0 +1,1 @@
+{"index": 164432, "D": "to strike with the foot or feet", "S": [], "A": []}

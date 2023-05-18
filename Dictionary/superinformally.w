@@ -1,0 +1,1 @@
+{"index": 312090, "D": "in a casual manner, without formality", "S": [], "A": []}

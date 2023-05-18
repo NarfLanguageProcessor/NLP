@@ -1,0 +1,1 @@
+{"index": 93511, "D": "a person who compounds or prepares drugs  according to medical prescriptions; apothecary; pharmacist; dispensing chemist.", "S": ["apothecary ", "pharmacologist "], "A": []}

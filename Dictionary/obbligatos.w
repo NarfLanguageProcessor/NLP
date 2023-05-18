@@ -1,0 +1,1 @@
+{"index": 209963, "D": "(used as a musical direction) obligatory or indispensable; so important that it cannot be omitted.", "S": [], "A": []}

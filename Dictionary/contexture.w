@@ -1,0 +1,1 @@
+{"index": 67428, "D": "the arrangement and union of the constituent parts of anything; constitution; structure.", "S": ["constitution ", "fabric ", "fabrication ", "fiber ", "texture ", "web "], "A": []}

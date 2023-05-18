@@ -1,0 +1,1 @@
+{"index": 288624, "D": "a place where a sea, river, or other body of water is shallow.", "S": ["reef "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 244526, "D": "a candidate, especially for admission into a religious order.", "S": ["aspirant ", "candidate ", "claimant ", "seeker "], "A": ["boss ", "manager "]}

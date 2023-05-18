@@ -1,0 +1,1 @@
+{"index": 155272, "D": "of or relating to the cheek or zygomatic bone. ", "S": [], "A": []}

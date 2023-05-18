@@ -1,0 +1,1 @@
+{"index": 55687, "D": "sophistic or overly complicated argumentation.", "S": [], "A": []}

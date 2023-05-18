@@ -1,0 +1,1 @@
+{"index": 89100, "D": "affected by or involving difficulty in breathing", "S": ["breathless ", "panting ", "short of breath ", "short-winded ", "winded "], "A": []}

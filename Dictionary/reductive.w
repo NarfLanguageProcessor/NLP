@@ -1,0 +1,1 @@
+{"index": 264488, "D": "of or relating to reduction;  serving to reduce or abridge", "S": ["diminishing ", "diminutive ", "minimal "], "A": ["enhancing ", "enlarging "]}

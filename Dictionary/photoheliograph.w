@@ -1,0 +1,1 @@
+{"index": 235180, "D": "an instrument for photographing the sun, consisting of a camera and a specially adapted telescope.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223366, "D": "of or formed in the Palaeocene, Eocene, and Oligocene epochs", "S": [], "A": []}

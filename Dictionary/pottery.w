@@ -1,0 +1,1 @@
+{"index": 244813, "D": "ceramic ware, especially earthenware and stoneware.", "S": ["ceramics ", "crockery ", "earthenware ", "firing ", "porcelain ", "stoneware "], "A": []}

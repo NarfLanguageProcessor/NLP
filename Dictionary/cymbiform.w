@@ -1,0 +1,1 @@
+{"index": 57488, "D": "having the shape of a boat; boat-shaped.", "S": [], "A": []}

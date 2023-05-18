@@ -1,0 +1,1 @@
+{"index": 76967, "D": "so as to appear dark.", "S": ["desperately ", "sadly "], "A": ["confidently ", "expectantly ", "hopefully "]}

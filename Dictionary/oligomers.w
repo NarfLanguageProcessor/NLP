@@ -1,0 +1,1 @@
+{"index": 212200, "D": "a polymer molecule consisting of a small number of monomers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 30280, "D": "a low plant, Epifagus virginiana, of the broomrape family, without green foliage, parasitic upon the roots of the beech. ", "S": [], "A": []}

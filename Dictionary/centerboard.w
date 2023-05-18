@@ -1,0 +1,1 @@
+{"index": 50833, "D": "a pivoted fin keel that can be swung upward and aft within a watertight trunk when not in use.", "S": [], "A": []}

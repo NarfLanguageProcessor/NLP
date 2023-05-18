@@ -1,0 +1,1 @@
+{"index": 159606, "D": "yielding or containing yttrium. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9971, "D": "the mood, character, quality, tone, atmosphere, etc., particularly of an environment or milieu", "S": ["ambience ", "atmosphere ", "environs ", "milieu ", "surroundings "], "A": []}

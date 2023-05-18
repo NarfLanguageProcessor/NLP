@@ -1,0 +1,1 @@
+{"index": 123490, "D": "to bring into existence; cause to be; produce.", "S": ["breeding ", "fertile ", "fructiferous ", "fruitful ", "pregnant ", "proliferant ", "prolific ", "propagating ", "reproducing ", "rich ", "spawning ", "teeming "], "A": ["impotent ", "infertile ", "sterile ", "unfruitful ", "unproductive "]}

@@ -1,0 +1,1 @@
+{"index": 305958, "D": "a long, narrow mark, smear, band of color, or the like", "S": ["band ", "bar ", "beam ", "dash ", "element ", "hint ", "intimation ", "layer ", "ray ", "ridge ", "rule ", "shade ", "slash ", "smear ", "strain ", "stream ", "strip ", "stripe ", "stroke ", "suggestion ", "suspicion ", "touch ", "trace "], "A": ["lot "]}

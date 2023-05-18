@@ -1,0 +1,1 @@
+{"index": 265534, "D": "(of a beast) looking backward", "S": [], "A": []}

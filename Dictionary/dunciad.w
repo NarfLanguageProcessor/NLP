@@ -1,0 +1,1 @@
+{"index": 94130, "D": "a poem (1728\u201342) by Pope, satirizing various contemporary writers.", "S": [], "A": []}

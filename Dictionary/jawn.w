@@ -1,0 +1,1 @@
+{"index": 160665, "D": "something or someone for which the speaker does not know or does not need a specific name", "S": [], "A": []}

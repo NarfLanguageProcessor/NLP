@@ -1,0 +1,1 @@
+{"index": 72866, "D": "a card game for two or sometimes three or four players, a characteristic feature of which is the crib,  and in which the object is to make counting combinations for points that are scored on a cribbage board. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188102, "D": "noting or pertaining to an epoch of the Tertiary  Period, occurring from 25 to 10 million years ago, when grazing mammals became widespread.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202768, "D": "a person who defects  from a cause, country, alliance, etc.", "S": [], "A": []}

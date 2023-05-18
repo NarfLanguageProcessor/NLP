@@ -1,0 +1,1 @@
+{"index": 277545, "D": "a guitarlike Japanese musical instrument having an extremely long neck and three strings, played with a plectrum.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 300543, "D": "a long, narrow, thin strip of wood, metal, etc.; slat.", "S": [], "A": []}

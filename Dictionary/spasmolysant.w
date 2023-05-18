@@ -1,0 +1,1 @@
+{"index": 298552, "D": "of or noting spasmolysis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246817, "D": "the act of deserting  or the state of being deserted. ", "S": [], "A": []}

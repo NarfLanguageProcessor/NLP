@@ -1,0 +1,1 @@
+{"index": 256547, "D": "a member of a food-gathering people living in the forests of interior Borneo.", "S": [], "A": []}

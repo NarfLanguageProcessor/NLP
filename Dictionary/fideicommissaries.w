@@ -1,0 +1,1 @@
+{"index": 112249, "D": "the recipient of a fideicommissum.", "S": [], "A": []}

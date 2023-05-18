@@ -1,0 +1,1 @@
+{"index": 222927, "D": "the resemblance of adult animals to the young of their ancestors", "S": [], "A": []}

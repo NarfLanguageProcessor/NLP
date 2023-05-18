@@ -1,0 +1,1 @@
+{"index": 315988, "D": "the bark of the oak, hemlock, etc., bruised and broken by a mill and used especially in tanning hides.", "S": [], "A": []}

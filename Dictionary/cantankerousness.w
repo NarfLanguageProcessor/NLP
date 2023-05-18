@@ -1,0 +1,1 @@
+{"index": 46567, "D": "disagreeable to deal with; contentious; peevish", "S": ["belligerence ", "combativeness ", "contentiousness ", "disputatiousness ", "litigiousness ", "quarrelsomeness "], "A": []}

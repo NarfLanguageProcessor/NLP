@@ -1,0 +1,1 @@
+{"index": 39055, "D": "an old French and Spanish dance, somewhat like a gavotte.", "S": [], "A": []}

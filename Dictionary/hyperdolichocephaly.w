@@ -1,0 +1,1 @@
+{"index": 140065, "D": "long-headed; having a cephalic index  of 75 and under.", "S": [], "A": []}

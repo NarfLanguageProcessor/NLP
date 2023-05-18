@@ -1,0 +1,1 @@
+{"index": 351937, "D": "an arrangement of a certain number of lines, usually four or more, sometimes having a fixed length, meter, or rhyme scheme, forming a division of a poem.", "S": [], "A": []}

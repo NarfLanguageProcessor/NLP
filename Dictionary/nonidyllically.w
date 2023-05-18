@@ -1,0 +1,1 @@
+{"index": 204512, "D": " (of a setting or event) suitable for or suggestive of pastoral literature or art, which portrays an idealized scene of peace, charm, and rustic simplicity", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 263660, "D": "variant of recti-  before a vowel", "S": [], "A": []}

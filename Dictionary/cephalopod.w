@@ -1,0 +1,1 @@
+{"index": 51177, "D": "any mollusk of the class Cephalopoda, having tentacles attached to the head, including the cuttlefish, squid, and octopus.", "S": [], "A": []}

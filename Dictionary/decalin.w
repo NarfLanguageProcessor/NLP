@@ -1,0 +1,1 @@
+{"index": 77965, "D": "a brand of decahydronaphthalene.", "S": [], "A": []}

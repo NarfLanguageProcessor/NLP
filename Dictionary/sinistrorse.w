@@ -1,0 +1,1 @@
+{"index": 291806, "D": "(from a point of view at the center of the spiral) rising spirally in a counterclockwise manner, as a stem (opposed to dextrorse).", "S": [], "A": []}

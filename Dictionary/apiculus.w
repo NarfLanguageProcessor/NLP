@@ -1,0 +1,1 @@
+{"index": 16979, "D": "a small point or tip.", "S": [], "A": []}

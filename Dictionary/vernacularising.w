@@ -1,0 +1,1 @@
+{"index": 358663, "D": "to translate into the natural speech peculiar to a people.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 281411, "D": "of or relating to Scotland, its people, or their language.", "S": [], "A": []}

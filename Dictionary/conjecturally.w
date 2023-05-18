@@ -1,0 +1,1 @@
+{"index": 66380, "D": "of, of the nature of, or involving conjecture;  problematical", "S": [], "A": []}

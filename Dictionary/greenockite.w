@@ -1,0 +1,1 @@
+{"index": 129584, "D": "a yellow mineral, cadmium sulfide, CdS, associated with zinc ores and used as a source of cadmium.", "S": [], "A": []}

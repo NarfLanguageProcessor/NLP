@@ -1,0 +1,1 @@
+{"index": 334546, "D": "to incite or move to action; impel; motivate", "S": [], "A": []}

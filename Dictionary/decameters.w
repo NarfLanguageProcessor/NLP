@@ -1,0 +1,1 @@
+{"index": 77982, "D": "a unit of length equal to 10 meters (32.81 feet). Abbreviation", "S": [], "A": []}

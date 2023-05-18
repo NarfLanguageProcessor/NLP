@@ -1,0 +1,1 @@
+{"index": 261093, "D": "See also iron rations", "S": ["aliment ", "bite ", "comestibles ", "commons ", "edibles ", "fare ", "goodies ", "menu ", "nourishment ", "nutriment ", "nutrition ", "provisions ", "snack ", "subsistence ", "sustenance ", "viands ", "victuals "], "A": ["deprivation ", "starvation "]}

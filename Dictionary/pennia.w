@@ -1,0 +1,1 @@
+{"index": 229737, "D": "an aluminum coin of Finland until the euro  was adopted, one 100th of a markka.", "S": [], "A": []}

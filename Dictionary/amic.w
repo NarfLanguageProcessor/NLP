@@ -1,0 +1,1 @@
+{"index": 10385, "D": "of or relating to an amide or amine.", "S": [], "A": []}

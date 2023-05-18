@@ -1,0 +1,1 @@
+{"index": 282762, "D": "next after the first; being the ordinal number for two.", "S": ["interpreter ", "proponent "], "A": ["antagonist ", "opponent "]}

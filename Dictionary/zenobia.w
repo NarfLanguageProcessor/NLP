@@ -1,0 +1,1 @@
+{"index": 369067, "D": "died after a.d. 272, queen of Palmyra in Syria a.d. 267\u2013272.", "S": [], "A": []}

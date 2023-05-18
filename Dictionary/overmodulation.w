@@ -1,0 +1,1 @@
+{"index": 220282, "D": "excessive amplitude modulation,  resulting in distortion of a signal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60142, "D": "the act of a person or thing that clips. ", "S": [], "A": []}

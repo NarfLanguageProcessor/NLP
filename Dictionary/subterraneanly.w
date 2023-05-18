@@ -1,0 +1,1 @@
+{"index": 309470, "D": "existing, situated, or operating below the surface of the earth; underground.", "S": [], "A": []}

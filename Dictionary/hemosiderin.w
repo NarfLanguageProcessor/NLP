@@ -1,0 +1,1 @@
+{"index": 136478, "D": "a yellowish-brown protein containing iron, derived chiefly from hemoglobin and found in body tissue and phagocytes, especially as the result of disorders in iron metabolism and the breakdown of red blood cells.", "S": [], "A": []}

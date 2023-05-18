@@ -1,0 +1,1 @@
+{"index": 96045, "D": "the state or a period of flowering.", "S": ["anthesis ", "developing ", "flowering ", "folding ", "rash ", "redness ", "sprouting "], "A": []}

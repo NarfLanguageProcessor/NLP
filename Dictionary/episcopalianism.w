@@ -1,0 +1,1 @@
+{"index": 102766, "D": "pertaining or adhering to the Episcopal Church in America.", "S": [], "A": []}

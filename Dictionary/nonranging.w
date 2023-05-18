@@ -1,0 +1,1 @@
+{"index": 206454, "D": "the extent to which or the limits between which variation is possible", "S": [], "A": []}

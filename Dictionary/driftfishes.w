@@ -1,0 +1,1 @@
+{"index": 93068, "D": "any of several butterfishes, especially of the genus Psenes, inhabiting tropical waters.", "S": [], "A": []}

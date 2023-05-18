@@ -1,0 +1,1 @@
+{"index": 331724, "D": "the quality of seeming to be true according to one's intuition, opinion, or perception without regard to logic, factual evidence, or the like", "S": [], "A": []}

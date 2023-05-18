@@ -1,0 +1,1 @@
+{"index": 164262, "D": "a city in and the capital of the Sudan, at the junction of the White and Blue Nile rivers", "S": [], "A": []}

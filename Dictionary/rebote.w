@@ -1,0 +1,1 @@
+{"index": 262387, "D": "Compare frontis. ", "S": [], "A": []}

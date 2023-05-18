@@ -1,0 +1,1 @@
+{"index": 57367, "D": "any protozoan of the phylum Ciliophora (or in some classification schemes, class Ciliata), as those of the genera Paramecium, Tetrahymena, Stentor, and Vorticella, having cilia on part or all of the surface.", "S": ["ameba ", "amoeba ", "cell ", "euglena ", "flagellate ", "organism ", "paramecium ", "plasmodium ", "sporozoan ", "stentor "], "A": []}

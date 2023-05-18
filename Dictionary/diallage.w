@@ -1,0 +1,1 @@
+{"index": 84260, "D": "a variety of diopside with a laminated structure, found in gabbro and other igneous rocks.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111171, "D": "the quality of being feminine;  womanliness.", "S": [], "A": []}

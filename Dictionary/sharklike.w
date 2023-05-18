@@ -1,0 +1,1 @@
+{"index": 287533, "D": "any of a group of elongate elasmobranch, mostly marine fishes, certain species of which are large, voracious, and sometimes dangerous to humans.", "S": [], "A": []}

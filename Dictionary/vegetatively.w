@@ -1,0 +1,1 @@
+{"index": 357703, "D": "growing or developing as or like plants; vegetating. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243878, "D": "a drink made of hot milk curdled with ale, wine, or the like, often sweetened and spiced.", "S": [], "A": []}

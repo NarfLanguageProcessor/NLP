@@ -1,0 +1,1 @@
+{"index": 363305, "D": "English novelist, traveler, and lecturer (son of Arthur, brother of Evelyn).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340199, "D": "to be depressed by loss of hope, confidence, or courage.", "S": [], "A": []}

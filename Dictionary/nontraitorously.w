@@ -1,0 +1,1 @@
+{"index": 207964, "D": "having the character of a traitor;  treacherous; perfidious.", "S": [], "A": []}

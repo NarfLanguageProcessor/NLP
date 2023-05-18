@@ -1,0 +1,1 @@
+{"index": 47982, "D": "the lading or freight of a ship, airplane, etc.", "S": [], "A": []}

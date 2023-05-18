@@ -1,0 +1,1 @@
+{"index": 85430, "D": "to break up, turn over, or remove earth, sand, etc., as with a shovel, spade, bulldozer, or claw; make an excavation.", "S": ["drilling "], "A": []}

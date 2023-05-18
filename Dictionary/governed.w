@@ -1,0 +1,1 @@
+{"index": 128381, "D": "to rule over by right of authority", "S": ["administered ", "commanded ", "conducted ", "directed ", "driven ", "guided ", "led ", "mastered ", "overseen ", "piloted ", "subjugated ", "superintended ", "supervised "], "A": ["autonomous ", "capricious ", "free ", "unruly "]}

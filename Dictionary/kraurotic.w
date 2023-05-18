@@ -1,0 +1,1 @@
+{"index": 166249, "D": "atrophy and shrinkage of the skin, especially of the vulva.", "S": [], "A": []}

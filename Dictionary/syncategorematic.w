@@ -1,0 +1,1 @@
+{"index": 291354, "D": "of or relating to a word that is part of a categorical proposition but is not a term, as all, some, is.", "S": [], "A": []}

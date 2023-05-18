@@ -1,0 +1,1 @@
+{"index": 212098, "D": "a mixture of an essential oil and a resin,  found in nature.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322371, "D": "an instrument used for examining the pleural cavity", "S": [], "A": []}

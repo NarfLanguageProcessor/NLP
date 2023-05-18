@@ -1,0 +1,1 @@
+{"index": 42235, "D": "an apparatus at the end of a railroad car, railroad track, etc., for absorbing shock during coupling, collisions, etc.", "S": [], "A": []}

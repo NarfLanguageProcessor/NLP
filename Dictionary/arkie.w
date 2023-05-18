@@ -1,0 +1,1 @@
+{"index": 19845, "D": "a term used to refer to a migrant worker originally from Arkansas.", "S": [], "A": []}

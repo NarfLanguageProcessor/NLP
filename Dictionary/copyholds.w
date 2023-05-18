@@ -1,0 +1,1 @@
+{"index": 68521, "D": "(formerly) a type of ownership of land in England, evidenced by a copy  of the manor roll establishing the title.", "S": [], "A": []}

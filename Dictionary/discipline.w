@@ -1,0 +1,1 @@
+{"index": 87349, "D": "training to act in accordance with rules; drill", "S": ["control ", "development ", "education ", "method ", "practice ", "preparation ", "regulation ", "restraint ", "self-control ", "self-restraint ", "will "], "A": ["agitation ", "ignorance "]}

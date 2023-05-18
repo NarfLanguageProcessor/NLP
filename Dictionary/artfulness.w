@@ -1,0 +1,1 @@
+{"index": 20552, "D": "slyly crafty or cunning; deceitful; tricky", "S": ["artifice ", "craftiness ", "foxiness ", "guile ", "slyness ", "sneakiness ", "wiliness "], "A": ["artlessness ", "frankness ", "honesty ", "openness ", "sincerity "]}

@@ -1,0 +1,1 @@
+{"index": 209284, "D": "(of a young woman) suitable for marriage, especially in regard to age or physical development; marriageable. ", "S": [], "A": []}

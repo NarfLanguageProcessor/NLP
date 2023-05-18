@@ -1,0 +1,1 @@
+{"index": 277834, "D": " two or more slices of bread with a layer of meat, fish, cheese, etc., between them", "S": ["intermediate ", "middle "], "A": ["extreme "]}

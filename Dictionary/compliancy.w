@@ -1,0 +1,1 @@
+{"index": 64687, "D": "compliance (defs. 1, 2, 4). ", "S": ["acquiescence ", "amenability ", "amenableness ", "complaisance ", "compliance ", "deference ", "passivity ", "submissiveness ", "tractability ", "tractableness ", "yielding "], "A": ["disagreement ", "disobedience "]}

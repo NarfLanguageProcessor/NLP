@@ -1,0 +1,1 @@
+{"index": 142125, "D": "a large-headed nail  for protecting the soles of heavy boots and shoes.", "S": [], "A": []}

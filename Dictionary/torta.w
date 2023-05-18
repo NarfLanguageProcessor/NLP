@@ -1,0 +1,1 @@
+{"index": 326303, "D": "a hot or cold sandwich made on a crusty bread roll such as a bolillo,  filled with a variety of meats, cheeses, sauces, and other toppings.", "S": [], "A": []}

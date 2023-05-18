@@ -1,0 +1,1 @@
+{"index": 83269, "D": "to rid of poison or the effect of poison.", "S": [], "A": []}

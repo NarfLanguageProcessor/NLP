@@ -1,0 +1,1 @@
+{"index": 322789, "D": "causing or accelerating blood-clot formation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100509, "D": "to surround with or as with a halo. ", "S": [], "A": []}

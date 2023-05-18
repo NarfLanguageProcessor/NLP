@@ -1,0 +1,1 @@
+{"index": 360113, "D": "an old French form of short poem, composed of short lines running on two rhymes and having two opening lines recurring at intervals.", "S": [], "A": []}

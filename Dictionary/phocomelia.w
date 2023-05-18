@@ -1,0 +1,1 @@
+{"index": 234584, "D": "a usually congenital deformity of the extremities in which the limbs are abnormally short.", "S": [], "A": []}

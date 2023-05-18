@@ -1,0 +1,1 @@
+{"index": 310719, "D": "any of a class of organic compounds that are amides of sulphonic acids containing the group \u2013SO 2 NH 2 or a group derived from this. An important class of sulphonamides are the sulfa drugs", "S": [], "A": []}

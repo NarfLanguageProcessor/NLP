@@ -1,0 +1,1 @@
+{"index": 320853, "D": "the belief in one God as the creator and ruler of the universe, without rejection of revelation (distinguished from deism).", "S": [], "A": []}

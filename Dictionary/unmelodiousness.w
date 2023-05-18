@@ -1,0 +1,1 @@
+{"index": 346186, "D": "of the nature of or characterized by melody;  tuneful.", "S": ["cacophony ", "harshness ", "jangle "], "A": ["accord ", "agreement ", "concord ", "consonance ", "harmony ", "peacefulness ", "resonance "]}

@@ -1,0 +1,1 @@
+{"index": 188054, "D": "very small.", "S": ["sign "], "A": ["number ", "speech "]}

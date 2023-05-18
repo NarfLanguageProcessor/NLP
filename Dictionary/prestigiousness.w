@@ -1,0 +1,1 @@
+{"index": 249662, "D": "indicative of or conferring prestige", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 61151, "D": "one of two or more joint authors. ", "S": [], "A": []}

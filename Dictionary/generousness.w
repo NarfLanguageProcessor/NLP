@@ -1,0 +1,1 @@
+{"index": 123514, "D": "liberal in giving or sharing; unselfish", "S": ["alms-giving ", "altruism ", "beneficence ", "benevolence ", "bounteousness ", "bountifulness ", "bounty ", "charitableness ", "charity ", "goodness ", "heart ", "high-mindedness ", "hospitality ", "kindness "], "A": ["malevolence ", "meanness ", "unkindness "]}

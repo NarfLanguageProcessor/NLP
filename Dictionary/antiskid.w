@@ -1,0 +1,1 @@
+{"index": 16204, "D": "designed or constructed to prevent the skidding  of a vehicle, especially by reducing hydraulic pressure in the brake system to prevent the brakes from locking.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 170096, "D": "armor for the leg,  sometimes including that for the foot.", "S": [], "A": []}

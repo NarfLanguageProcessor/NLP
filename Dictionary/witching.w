@@ -1,0 +1,1 @@
+{"index": 366550, "D": "the use or practice of witchcraft.", "S": ["alluring ", "attracting ", "beguiling ", "bewitching ", "captivating ", "charming ", "drawing ", "enchanting ", "enticing ", "fascinating ", "inviting ", "luring ", "ravishing ", "tempting "], "A": ["repellent ", "repulsive "]}

@@ -1,0 +1,1 @@
+{"index": 37869, "D": "an early-model bicycle, especially one with hard rubber tires.", "S": [], "A": []}

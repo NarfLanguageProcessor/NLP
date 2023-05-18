@@ -1,0 +1,1 @@
+{"index": 344687, "D": "combining or coordinating separate elements so as to provide a harmonious, interrelated whole", "S": [], "A": []}

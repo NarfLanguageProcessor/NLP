@@ -1,0 +1,1 @@
+{"index": 359459, "D": "the distinctive character, thought, tendencies, etc., of the Victorian  period.", "S": [], "A": []}

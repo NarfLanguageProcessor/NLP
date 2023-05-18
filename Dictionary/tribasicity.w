@@ -1,0 +1,1 @@
+{"index": 329208, "D": "(of an acid) having three atoms of hydrogen replaceable by basic  atoms or groups.", "S": [], "A": []}

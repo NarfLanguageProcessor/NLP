@@ -1,0 +1,1 @@
+{"index": 51826, "D": "a zeolite mineral, essentially a hydrated sodium calcium aluminum silicate, occurring usually in red to colorless rhombohedral crystals.", "S": [], "A": []}

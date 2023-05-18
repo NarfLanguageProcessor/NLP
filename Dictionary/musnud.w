@@ -1,0 +1,1 @@
+{"index": 196097, "D": "a seat or throne of cushions used by Indian princes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173864, "D": "an obsolete spelling of literatim. ", "S": [], "A": []}

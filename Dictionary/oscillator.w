@@ -1,0 +1,1 @@
+{"index": 215266, "D": "a circuit that produces an alternating output current of a certain frequency determined by the characteristics of the circuit components.", "S": [], "A": []}

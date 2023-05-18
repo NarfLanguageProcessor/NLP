@@ -1,0 +1,1 @@
+{"index": 187962, "D": "any of several small, long-tailed Asian cuckoo-shrikes of the genus Pericrocotus, having in the male black and red and in the female black and orange plumage.", "S": [], "A": []}

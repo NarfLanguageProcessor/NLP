@@ -1,0 +1,1 @@
+{"index": 15488, "D": "an act or instance of machinating. ", "S": [], "A": []}

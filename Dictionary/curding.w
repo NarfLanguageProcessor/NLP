@@ -1,0 +1,1 @@
+{"index": 75252, "D": "a substance consisting mainly of casein and the like, obtained from milk by coagulation, and used as food or made into cheese.", "S": [], "A": []}

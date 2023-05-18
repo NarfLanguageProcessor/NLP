@@ -1,0 +1,1 @@
+{"index": 220395, "D": "to present as an object,  especially of sight, touch, or other physical sense; make objective; externalize. ", "S": [], "A": []}

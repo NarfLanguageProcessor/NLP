@@ -1,0 +1,1 @@
+{"index": 111318, "D": "an iron carbamate, C9H18FeN3S6, used chiefly as a fungicide for protecting certain farm crops.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 182727, "D": "a postulated subdivision of the Caucasoid race, characterized by dark hair and pale complexion", "S": [], "A": []}

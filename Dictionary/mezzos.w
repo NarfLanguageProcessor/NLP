@@ -1,0 +1,1 @@
+{"index": 185596, "D": "middle; medium; half.", "S": [], "A": []}

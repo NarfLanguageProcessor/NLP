@@ -1,0 +1,1 @@
+{"index": 272763, "D": "the art, practice, or sport of shooting at targets with rifles. ", "S": [], "A": []}

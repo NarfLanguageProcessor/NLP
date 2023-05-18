@@ -1,0 +1,1 @@
+{"index": 100393, "D": "of, relating to, or characteristic of England  or its inhabitants, institutions, etc.", "S": [], "A": []}

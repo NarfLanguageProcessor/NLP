@@ -1,0 +1,1 @@
+{"index": 34199, "D": "a period or bout, usually brief, of excessive indulgence, as in eating, drinking alcoholic beverages, etc.; spree. ", "S": ["orgy "], "A": []}

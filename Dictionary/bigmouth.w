@@ -1,0 +1,1 @@
+{"index": 33759, "D": "a loud, talkative person, especially one who lacks discretion.", "S": ["bag of wind ", "big talker ", "blowhard ", "blusterer ", "boaster ", "brag ", "braggart ", "bragger ", "bull artist ", "bull-thrower ", "gasbag ", "gossiper ", "grandstander ", "know-it-all ", "show-off ", "swelled head ", "trumpeter ", "windbag "], "A": []}

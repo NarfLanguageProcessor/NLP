@@ -1,0 +1,1 @@
+{"index": 120822, "D": "an end wall bearing a gable.", "S": [], "A": []}

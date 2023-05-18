@@ -1,0 +1,1 @@
+{"index": 326263, "D": "subject to parching or burning heat, especially of the sun, as a geographical area", "S": ["calefaction ", "calidity ", "dog days ", "fervor ", "fever ", "fieriness ", "heatwave ", "hot spell ", "hot weather ", "hotness ", "incalescence ", "incandescence ", "sultriness ", "swelter ", "torridity ", "warmness ", "warmth "], "A": []}

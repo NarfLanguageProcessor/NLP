@@ -1,0 +1,1 @@
+{"index": 277179, "D": "Also Sa\u00b7lon\u00b7i\u00b7ca  [suh-lon-i-kuh, sal-uh-nee-kuh],  /s\u0259\u02c8l\u0252n \u026a k\u0259, \u02ccs\u00e6l \u0259\u02c8ni k\u0259/,  Sa\u00b7lo\u00b7ni\u00b7ki  [Greek sah-law-nee-kee].  /Greek \u02ccs\u0251 l\u0254\u02c8ni ki/. Ancient Ther\u00b7ma  [thur-muh]  /\u02c8\u03b8\u025cr m\u0259/ .", "S": [], "A": []}

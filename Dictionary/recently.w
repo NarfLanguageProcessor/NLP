@@ -1,0 +1,1 @@
+{"index": 262712, "D": "a relatively short time ago, or during the last short while; lately", "S": ["freshly ", "newly "], "A": ["before ", "later "]}

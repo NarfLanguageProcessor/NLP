@@ -1,0 +1,1 @@
+{"index": 261603, "D": "the act of adjourning  or the state or period of being adjourned. ", "S": [], "A": []}

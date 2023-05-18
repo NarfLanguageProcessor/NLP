@@ -1,0 +1,1 @@
+{"index": 303451, "D": "a horse or an athlete that takes part in steeplechases", "S": [], "A": []}

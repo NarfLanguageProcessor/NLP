@@ -1,0 +1,1 @@
+{"index": 108356, "D": "a substance used in extinguishing  fires.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62847, "D": "a small ornamental collar of fur, lace, or other material, worn by women.", "S": [], "A": []}

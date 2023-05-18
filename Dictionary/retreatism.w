@@ -1,0 +1,1 @@
+{"index": 270711, "D": "the rejection of culturally prescribed goals and the conventional means for attaining them.", "S": [], "A": []}

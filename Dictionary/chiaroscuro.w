@@ -1,0 +1,1 @@
+{"index": 54060, "D": "the distribution of light and shade in a picture.", "S": ["cloudy ", "leafy ", "shaded ", "shadowy "], "A": ["clear "]}

@@ -1,0 +1,1 @@
+{"index": 357901, "D": "a fabric of silk, nylon, acetate, rayon, etc., sometimes having a cotton backing, with a thick, soft pile formed of loops of the warp thread either cut at the outer end or left uncut.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77700, "D": "to disembark.", "S": ["arrive ", "disembark "], "A": ["leave "]}

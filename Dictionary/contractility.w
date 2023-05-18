@@ -1,0 +1,1 @@
+{"index": 67576, "D": "the property, as of muscle or other tissue, of being able to contract, or draw itself together, reducing its dimensions", "S": [], "A": []}

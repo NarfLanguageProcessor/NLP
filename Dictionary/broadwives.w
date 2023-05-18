@@ -1,0 +1,1 @@
+{"index": 41101, "D": "an enslaved woman whose husband was enslaved on a different plantation.", "S": [], "A": []}

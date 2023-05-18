@@ -1,0 +1,1 @@
+{"index": 171865, "D": "an ornamental vaulting rib other than one springing from a pier or a ridge rib.", "S": [], "A": []}

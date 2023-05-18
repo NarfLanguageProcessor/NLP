@@ -1,0 +1,1 @@
+{"index": 121714, "D": "the development of gametes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365867, "D": "a woman's headcloth drawn in folds about the chin, formerly worn out of doors, and still in use by some nuns.", "S": [], "A": []}

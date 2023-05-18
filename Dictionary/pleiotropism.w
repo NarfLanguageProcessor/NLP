@@ -1,0 +1,1 @@
+{"index": 239772, "D": "the condition of a gene of affecting more than one characteristic of the phenotype", "S": [], "A": []}

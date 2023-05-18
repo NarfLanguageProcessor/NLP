@@ -1,0 +1,1 @@
+{"index": 92089, "D": "an infectious disease of horses, affecting the genitals and hind legs, caused by a protozoan parasite, Trypanosoma equiperdum.", "S": [], "A": []}

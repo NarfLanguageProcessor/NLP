@@ -1,0 +1,1 @@
+{"index": 222573, "D": "a rate of movement, especially in stepping, walking, etc.", "S": ["clip ", "measure ", "step "], "A": []}

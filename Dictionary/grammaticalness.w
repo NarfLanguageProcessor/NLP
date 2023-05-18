@@ -1,0 +1,1 @@
+{"index": 128743, "D": "the state or quality of being grammatical. ", "S": [], "A": []}

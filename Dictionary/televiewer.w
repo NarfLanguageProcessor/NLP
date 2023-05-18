@@ -1,0 +1,1 @@
+{"index": 318301, "D": "to view  with a television receiver.", "S": ["TV viewer ", "bystander ", "drone ", "goof-off ", "idler ", "inactive person ", "laggard ", "lazy person ", "lazybones ", "loafer ", "lotuseater ", "lounger ", "observer ", "slouch ", "sluggard ", "sofa spud ", "spectator ", "television viewer ", "video-gazer ", "viewer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 354029, "D": "not wary;  not cautious or watchful, as against danger or misfortune.", "S": ["headlong "], "A": []}

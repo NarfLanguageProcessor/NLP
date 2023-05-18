@@ -1,0 +1,1 @@
+{"index": 155006, "D": "occurring or formed between times of glacial  action.", "S": [], "A": []}

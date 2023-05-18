@@ -1,0 +1,1 @@
+{"index": 234871, "D": "a compound, C4H10O5N3P, found chiefly in muscle, formed by the enzymatic interaction of an organic phosphate and creatine,  the breakdown of which provides energy for muscle contraction.", "S": [], "A": []}

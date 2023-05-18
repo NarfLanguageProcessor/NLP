@@ -1,0 +1,1 @@
+{"index": 299776, "D": "a pointed, perforated tube connected to a garden hose, pushed into the soil for deep watering.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366280, "D": "of, relating to, or occurring in winter; hibernal.", "S": [], "A": []}

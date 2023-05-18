@@ -1,0 +1,1 @@
+{"index": 151065, "D": "lack of discipline  or control", "S": ["anarchy ", "chaos ", "disharmony ", "shambles "], "A": ["harmony ", "order ", "organization ", "neatness ", "peace ", "tidiness "]}

@@ -1,0 +1,1 @@
+{"index": 10754, "D": "consisting of, containing, or using ammonia.", "S": [], "A": []}

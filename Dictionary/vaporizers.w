@@ -1,0 +1,1 @@
+{"index": 357085, "D": "a person or thing that vaporizes. ", "S": ["aerosol ", "sprayer ", "sprinkler "], "A": []}

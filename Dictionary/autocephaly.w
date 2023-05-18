@@ -1,0 +1,1 @@
+{"index": 23920, "D": "the state of being autocephalous. ", "S": [], "A": []}

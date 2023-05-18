@@ -1,0 +1,1 @@
+{"index": 224131, "D": "an athlete, especially a boxer, lacking in ability, experience, or competitive spirit.", "S": ["boxer ", "clodhopper ", "fighter ", "lummox "], "A": []}

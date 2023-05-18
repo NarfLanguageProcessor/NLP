@@ -1,0 +1,1 @@
+{"index": 150227, "D": "out of keeping or place; inappropriate; unbecoming", "S": ["comparison ", "contradiction ", "disagreement ", "disparity ", "distinction ", "divergence ", "diversity ", "opposition ", "variation "], "A": ["agreement ", "harmony ", "likeness ", "peace ", "sameness ", "similarity ", "equality ", "same "]}

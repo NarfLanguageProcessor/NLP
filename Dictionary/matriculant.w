@@ -1,0 +1,1 @@
+{"index": 181232, "D": "a person who matriculates; a candidate for matriculation.", "S": [], "A": []}

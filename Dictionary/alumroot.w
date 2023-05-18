@@ -1,0 +1,1 @@
+{"index": 9649, "D": "any of several North American plants belonging to the genus Heuchera, of the saxifrage family, especially H. americana, having mottled foliage and greenish-white flowers.", "S": [], "A": []}

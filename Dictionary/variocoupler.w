@@ -1,0 +1,1 @@
+{"index": 357257, "D": "a transformer having coils with a self-impedance that is essentially constant but a mutual impedance that can be varied by moving one coil with respect to the other.", "S": [], "A": []}

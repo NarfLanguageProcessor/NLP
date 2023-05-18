@@ -1,0 +1,1 @@
+{"index": 116531, "D": "the anterior of the three primary divisions of the brain  in the embryo of a vertebrate, or the part of the adult brain  derived from this tissue including the diencephalon and telencephalon.", "S": [], "A": []}

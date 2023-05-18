@@ -1,0 +1,1 @@
+{"index": 122606, "D": "the study of the structure, functions, and diseases of the stomach.", "S": [], "A": []}

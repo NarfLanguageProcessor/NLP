@@ -1,0 +1,1 @@
+{"index": 279531, "D": "a confidence game or other fraudulent scheme, especially for making a quick profit; swindle.", "S": ["blackmail ", "deceit ", "deception ", "extortion ", "fraud ", "hoax ", "racket ", "ripoff ", "shakedown ", "sham "], "A": []}

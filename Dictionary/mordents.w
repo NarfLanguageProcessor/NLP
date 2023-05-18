@@ -1,0 +1,1 @@
+{"index": 193370, "D": "a melodic embellishment consisting of a rapid alternation of a principal tone with the tone a half or a whole step below it, called single or short when the auxiliary tone occurs once and double or long when this occurs twice or more.", "S": [], "A": []}

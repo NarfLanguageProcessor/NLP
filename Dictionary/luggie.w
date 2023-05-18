@@ -1,0 +1,1 @@
+{"index": 175953, "D": "any wooden container with a lug,  or handle, as a mug, a pail, or a dish with a handle on the side.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1302, "D": "any small, spiny-finned, sharklike fish of the extinct order Acanthodii, from the Paleozoic Era.", "S": [], "A": []}

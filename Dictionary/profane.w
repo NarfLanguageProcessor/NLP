@@ -1,0 +1,1 @@
+{"index": 251667, "D": "characterized by irreverence or contempt for God or sacred principles or things; irreligious.", "S": ["abusive ", "blasphemous ", "coarse ", "indecent ", "irreverent ", "nasty ", "obscene ", "sacrilegious ", "vulgar "], "A": ["clean ", "decent ", "kind ", "moral ", "nice ", "polite ", "pure ", "refined ", "religious ", "respectful ", "reverent "]}

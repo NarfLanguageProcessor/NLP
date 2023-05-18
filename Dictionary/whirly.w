@@ -1,0 +1,1 @@
+{"index": 364977, "D": "a violent whirlwind carrying snow, occurring in Antarctica.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 44505, "D": "a long garment having long sleeves and tied at the waist by a girdle, worn under a coat in the Middle East.", "S": [], "A": []}

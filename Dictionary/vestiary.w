@@ -1,0 +1,1 @@
+{"index": 359063, "D": "of or relating to garments or vestments.", "S": [], "A": []}

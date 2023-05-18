@@ -1,0 +1,1 @@
+{"index": 238458, "D": "a pin, point, or short shaft on the end of which something rests and turns, or upon and about which something rotates or oscillates.", "S": ["fulcrum "], "A": ["exterior ", "exteriority ", "outside ", "periphery "]}

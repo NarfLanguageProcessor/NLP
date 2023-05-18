@@ -1,0 +1,1 @@
+{"index": 179490, "D": "the numbers 1 to 18 in roulette.", "S": [], "A": []}

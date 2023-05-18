@@ -1,0 +1,1 @@
+{"index": 238484, "D": "a fairy or sprite, especially a mischievous one.", "S": ["leprechaun "], "A": []}

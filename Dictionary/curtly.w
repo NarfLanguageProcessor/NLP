@@ -1,0 +1,1 @@
+{"index": 75522, "D": "so briefly or stiffly as to seem rude or snippy; tersely", "S": ["bluntly ", "crudely ", "harshly "], "A": ["civilly ", "courteously ", "politely "]}

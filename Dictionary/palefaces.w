@@ -1,0 +1,1 @@
+{"index": 223634, "D": "a white person, as distinguished from a North American Indian.", "S": [], "A": []}

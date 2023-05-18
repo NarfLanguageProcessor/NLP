@@ -1,0 +1,1 @@
+{"index": 122266, "D": "an attic, usually a small, wretched one.", "S": ["cockloft ", "loft ", "turret ", "watchtower "], "A": []}

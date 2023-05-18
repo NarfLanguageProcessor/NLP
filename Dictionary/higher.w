@@ -1,0 +1,1 @@
+{"index": 139246, "D": "the comparative of high", "S": ["above ", "bigger ", "greater ", "larger than ", "more advanced ", "over ", "superior to ", "surpassing "], "A": ["inferior ", "shorter ", "smaller "]}

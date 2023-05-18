@@ -1,0 +1,1 @@
+{"index": 216563, "D": "the outlet or place of discharge of a river, drain, sewer, etc.", "S": [], "A": []}

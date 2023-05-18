@@ -1,0 +1,1 @@
+{"index": 70387, "D": "the process by which two genetic markers are simultaneously packaged within a bacteriophage for transfer to a new host bacterium.", "S": [], "A": []}

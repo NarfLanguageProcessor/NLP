@@ -1,0 +1,1 @@
+{"index": 153869, "D": "to put or place in a certain state or position, as in an office; install.", "S": ["approved ", "drafted ", "instructed ", "introduced ", "passed ", "received "], "A": []}

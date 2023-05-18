@@ -1,0 +1,1 @@
+{"index": 75667, "D": "a large bowl, often of metal, serving as a receptacle for spit, especially from chewing tobacco", "S": [], "A": []}

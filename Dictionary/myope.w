@@ -1,0 +1,1 @@
+{"index": 188207, "D": "any person afflicted with myopia", "S": [], "A": []}

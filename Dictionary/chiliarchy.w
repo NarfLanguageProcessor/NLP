@@ -1,0 +1,1 @@
+{"index": 54345, "D": "(in ancient Greece) the military commander of 1000 men.", "S": [], "A": []}

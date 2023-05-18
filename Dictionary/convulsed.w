@@ -1,0 +1,1 @@
+{"index": 68178, "D": "to shake violently; agitate. ", "S": ["annoyed ", "bitter ", "enraged ", "exasperated ", "furious ", "heated ", "impassioned ", "indignant ", "irate ", "irritable ", "irritated ", "offended ", "outraged ", "resentful ", "sullen ", "uptight "], "A": ["calm ", "happy ", "mild ", "peaceful ", "pleased "]}

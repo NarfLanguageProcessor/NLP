@@ -1,0 +1,1 @@
+{"index": 269126, "D": "a technique of ascertaining the location of a point by taking bearings from the point on two other points of known location.", "S": ["abscission ", "enucleation ", "incision ", "section "], "A": []}

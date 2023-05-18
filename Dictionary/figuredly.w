@@ -1,0 +1,1 @@
+{"index": 112477, "D": "ornamented with a device or pattern", "S": [], "A": []}

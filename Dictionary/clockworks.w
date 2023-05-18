@@ -1,0 +1,1 @@
+{"index": 60294, "D": "the mechanism of a clock. ", "S": ["accuracy ", "consistency ", "regularity ", "smoothness "], "A": []}

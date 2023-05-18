@@ -1,0 +1,1 @@
+{"index": 162389, "D": "a sweet, custardlike food of flavored milk curdled with rennet.", "S": ["adventurer ", "commuter ", "hiker ", "migrant ", "passenger ", "pilgrim ", "sailor ", "tourist "], "A": []}

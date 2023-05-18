@@ -1,0 +1,1 @@
+{"index": 64480, "D": "an equal in rank, ability, accomplishment, etc.; peer; colleague.", "S": [], "A": []}

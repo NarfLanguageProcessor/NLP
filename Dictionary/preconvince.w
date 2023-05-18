@@ -1,0 +1,1 @@
+{"index": 246534, "D": "to move by argument or evidence to belief, agreement, consent, or a course of action", "S": [], "A": []}

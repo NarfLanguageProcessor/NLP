@@ -1,0 +1,1 @@
+{"index": 247158, "D": "free from moisture or excess moisture; not moist; not wet", "S": [], "A": []}

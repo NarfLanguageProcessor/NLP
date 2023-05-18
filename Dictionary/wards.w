@@ -1,0 +1,1 @@
+{"index": 362583, "D": "a division or district of a city or town, as for administrative or political purposes.", "S": ["department ", "parish ", "precinct "], "A": []}

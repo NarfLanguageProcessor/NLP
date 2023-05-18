@@ -1,0 +1,1 @@
+{"index": 17932, "D": "anticipation of adversity or misfortune; suspicion or fear of future trouble or evil.", "S": ["alarm ", "disquiet ", "doubt ", "dread ", "foreboding ", "misgiving ", "mistrust ", "suspicion ", "trepidation ", "uneasiness ", "worry "], "A": ["belief ", "calm ", "calmness ", "certainty ", "confidence ", "faith ", "peace ", "trust "]}

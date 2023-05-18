@@ -1,0 +1,1 @@
+{"index": 227529, "D": "capable of providing pasture,  as land.", "S": [], "A": []}

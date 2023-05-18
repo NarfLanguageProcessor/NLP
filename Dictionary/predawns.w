@@ -1,0 +1,1 @@
+{"index": 246665, "D": "the period immediately preceding dawn. ", "S": [], "A": []}

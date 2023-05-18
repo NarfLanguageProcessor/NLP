@@ -1,0 +1,1 @@
+{"index": 149662, "D": "the chanting or uttering of words purporting to have magical power.", "S": [], "A": []}

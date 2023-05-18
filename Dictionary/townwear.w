@@ -1,0 +1,1 @@
+{"index": 326843, "D": "tailored, usually conservative clothing appropriate for business or other activities in a town  or city.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359035, "D": "any of numerous, mostly colonial, nest-building wasps of the family Vespidae, as the yellow jackets, hornets, and mason wasps.", "S": [], "A": []}

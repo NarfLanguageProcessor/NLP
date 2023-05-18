@@ -1,0 +1,1 @@
+{"index": 360292, "D": "the face, usually with reference to shape, features, expression, etc.; countenance. ", "S": ["countenance "], "A": []}

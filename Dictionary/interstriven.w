@@ -1,0 +1,1 @@
+{"index": 156017, "D": "to exert oneself vigorously; try hard", "S": [], "A": []}

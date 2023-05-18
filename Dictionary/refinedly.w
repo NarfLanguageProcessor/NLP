@@ -1,0 +1,1 @@
+{"index": 265066, "D": "having or showing well-bred feeling, taste, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42156, "D": "comrade or chum (often used as a term of address).", "S": ["associate ", "chum ", "co-worker ", "companion ", "comrade ", "confidant ", "crony ", "mate ", "peer "], "A": ["enemy ", "foe ", "opponent ", "stranger "]}

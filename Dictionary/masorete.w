@@ -1,0 +1,1 @@
+{"index": 180736, "D": "one of the writers or compilers of the Masorah.", "S": [], "A": []}

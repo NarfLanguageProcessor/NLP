@@ -1,0 +1,1 @@
+{"index": 81556, "D": "relying on someone or something else for aid, support, etc.", "S": [], "A": []}

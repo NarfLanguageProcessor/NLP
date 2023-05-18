@@ -1,0 +1,1 @@
+{"index": 316257, "D": "of or relating to Tantrism", "S": [], "A": []}

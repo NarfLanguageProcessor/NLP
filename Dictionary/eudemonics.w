@@ -1,0 +1,1 @@
+{"index": 105382, "D": "the theory or art of happiness.", "S": [], "A": []}

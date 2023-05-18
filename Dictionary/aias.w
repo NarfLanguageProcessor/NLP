@@ -1,0 +1,1 @@
+{"index": 6693, "D": "a Greek hero in the Trojan War who rescued the body of Achilles and killed himself out of jealousy when Odysseus was awarded the armor of Achilles.", "S": [], "A": []}

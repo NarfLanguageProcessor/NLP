@@ -1,0 +1,1 @@
+{"index": 330527, "D": "the three components of Buddhism, which are the Buddha, or teacher, the dharma, or teaching, and the Sangha, or priesthood.", "S": [], "A": []}

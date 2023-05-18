@@ -1,0 +1,1 @@
+{"index": 113033, "D": "a strikebreaker.", "S": ["canary ", "narc ", "nark ", "rat ", "scab ", "snake ", "snitch ", "squealer ", "stoolie ", "tattletale ", "tipster ", "weasel ", "whistle-blower "], "A": []}

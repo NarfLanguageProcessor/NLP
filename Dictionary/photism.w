@@ -1,0 +1,1 @@
+{"index": 234973, "D": "a form of synesthesia in which a visual sensation, as of color or form, is produced by the sense of touch, hearing, etc.", "S": [], "A": []}

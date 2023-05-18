@@ -1,0 +1,1 @@
+{"index": 235873, "D": "to engage in skirmishes in advance of troops of an army.", "S": [], "A": []}

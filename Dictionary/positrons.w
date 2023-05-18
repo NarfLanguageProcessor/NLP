@@ -1,0 +1,1 @@
+{"index": 243821, "D": "an elementary particle having the same mass and spin as an electron  but having a positive  charge equal in magnitude to that of the electron's  negative charge; the antiparticle of the electron. ", "S": [], "A": []}

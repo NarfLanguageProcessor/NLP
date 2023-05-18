@@ -1,0 +1,1 @@
+{"index": 340617, "D": "disagreeing or harsh in sound; discordant.", "S": [], "A": []}

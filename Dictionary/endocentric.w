@@ -1,0 +1,1 @@
+{"index": 99727, "D": "(of a construction or compound) having the same syntactic function in the sentence as one of its immediate constituents. Cold water is an endocentric construction, since it functions as would the noun water. Greenhouse is an endocentric compound, since it is a noun as is its head house.", "S": [], "A": []}

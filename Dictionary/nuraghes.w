@@ -1,0 +1,1 @@
+{"index": 209695, "D": "any of the large, tower-shaped, prehistoric stone structures found in Sardinia and dating from the second millennium b.c. to the Roman conquest of Sardinia in 238 b.c.", "S": [], "A": []}

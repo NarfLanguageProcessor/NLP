@@ -1,0 +1,1 @@
+{"index": 176385, "D": "(of vegetation, plants, grasses, etc.) luxuriant; succulent; tender and juicy.", "S": [], "A": []}

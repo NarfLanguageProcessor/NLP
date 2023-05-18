@@ -1,0 +1,1 @@
+{"index": 202652, "D": "serving to cure  or heal; pertaining to curing  or remedial treatment; remedial.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 12536, "D": "fertilized by wind-borne pollen or spores.", "S": [], "A": []}

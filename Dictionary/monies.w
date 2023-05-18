@@ -1,0 +1,1 @@
+{"index": 191968, "D": "a plural of money. ", "S": ["bill ", "capital ", "cash ", "check ", "fund ", "pay ", "payment ", "property ", "salary ", "wage ", "wealth "], "A": ["debt "]}

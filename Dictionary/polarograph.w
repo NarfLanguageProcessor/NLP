@@ -1,0 +1,1 @@
+{"index": 241500, "D": "a brand name for an instrument that automatically registers the current in electrolysis at a dropping mercury electrode.", "S": [], "A": []}

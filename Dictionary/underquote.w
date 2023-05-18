@@ -1,0 +1,1 @@
+{"index": 339655, "D": "to offer (stocks, merchandise, etc.) at a price lower than the market price or some other quoted  price; offer at a price reduced by (a specified amount).", "S": [], "A": []}

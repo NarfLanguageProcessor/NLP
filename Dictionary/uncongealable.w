@@ -1,0 +1,1 @@
+{"index": 337624, "D": "to change from a soft or fluid state to a rigid or solid state, as by cooling or freezing", "S": [], "A": []}

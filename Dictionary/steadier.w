@@ -1,0 +1,1 @@
+{"index": 303235, "D": "firmly placed or fixed; stable in position or equilibrium", "S": ["constant ", "durable ", "regular ", "reliable ", "safe ", "solid ", "substantial "], "A": ["irregular ", "undependable ", "unreliable ", "unsteady ", "untrustworthy ", "vulnerable ", "different ", "flexible ", "indefinite ", "movable ", "moving ", "soft ", "unfixed "]}

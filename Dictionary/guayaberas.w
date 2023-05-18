@@ -1,0 +1,1 @@
+{"index": 130665, "D": "a sport shirt or lightweight jacket, often with several large front pockets, modeled upon a loose, smocklike shirt originally worn by men in Cuba.", "S": [], "A": []}

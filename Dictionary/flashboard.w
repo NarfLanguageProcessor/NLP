@@ -1,0 +1,1 @@
+{"index": 114010, "D": "a board,  or one of a series of boards,  as on a milldam, used to increase the depth of the impounded water.", "S": [], "A": []}

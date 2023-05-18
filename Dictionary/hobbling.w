@@ -1,0 +1,1 @@
+{"index": 142116, "D": "to walk lamely; limp.", "S": ["dragging "], "A": ["standing ", "upright ", "vertical "]}

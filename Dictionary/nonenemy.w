@@ -1,0 +1,1 @@
+{"index": 203505, "D": "a person who feels hatred for, fosters harmful designs against, or engages in antagonistic activities against another; an adversary or opponent.", "S": [], "A": []}

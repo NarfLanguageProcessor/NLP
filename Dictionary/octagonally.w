@@ -1,0 +1,1 @@
+{"index": 210938, "D": "having eight angles and eight sides.", "S": [], "A": []}

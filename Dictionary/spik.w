@@ -1,0 +1,1 @@
+{"index": 299760, "D": "a variant spelling of spic", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271869, "D": "the study of the deformation and flow of matter.", "S": [], "A": []}

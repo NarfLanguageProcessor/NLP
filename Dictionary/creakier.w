@@ -1,0 +1,1 @@
+{"index": 72366, "D": "creaking  or apt to creak", "S": ["elderly "], "A": ["fresh ", "modern ", "new ", "recent ", "up-to-date ", "young "]}

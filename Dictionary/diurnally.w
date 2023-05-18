@@ -1,0 +1,1 @@
+{"index": 90180, "D": "of or relating to a day or each day; daily.", "S": [], "A": []}

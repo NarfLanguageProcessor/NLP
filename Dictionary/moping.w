@@ -1,0 +1,1 @@
+{"index": 193230, "D": "to be sunk in dejection or listless apathy; sulk; brood.", "S": ["depressed ", "dismal ", "dour ", "forlorn ", "glum ", "melancholy ", "miserable ", "pessimistic ", "sad ", "solemn ", "sullen ", "ugly "], "A": ["bright ", "cheerful ", "comforted ", "glad ", "happy ", "hopeful ", "joyful ", "light ", "pleasant ", "rich "]}

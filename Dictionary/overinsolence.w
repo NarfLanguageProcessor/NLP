@@ -1,0 +1,1 @@
+{"index": 219867, "D": "contemptuously rude or impertinent behavior or speech.", "S": [], "A": []}

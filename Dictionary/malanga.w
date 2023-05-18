@@ -1,0 +1,1 @@
+{"index": 178255, "D": "a thick, fleshy-leaved South American plant, Xanthosoma atrovirens, of the arum family,  having leaves up to 3 feet (90 centimeters) long and nearly 2 feet (60 centimeters) wide.", "S": [], "A": []}

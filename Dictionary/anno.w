@@ -1,0 +1,1 @@
+{"index": 13565, "D": "in the year from the founding of the city (Rome, about 753 b.c.). Abbreviation", "S": [], "A": []}

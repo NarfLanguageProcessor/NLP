@@ -1,0 +1,1 @@
+{"index": 19875, "D": "a dry brandy distilled in the district of Armagnac in SW France.", "S": [], "A": []}

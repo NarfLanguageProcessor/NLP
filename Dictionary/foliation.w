@@ -1,0 +1,1 @@
+{"index": 115890, "D": "the act or process of putting forth leaves.", "S": [], "A": []}

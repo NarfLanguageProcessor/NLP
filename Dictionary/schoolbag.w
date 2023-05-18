@@ -1,0 +1,1 @@
+{"index": 280426, "D": "a bag  used for carrying books, school  supplies, etc.", "S": [], "A": []}

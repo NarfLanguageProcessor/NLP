@@ -1,0 +1,1 @@
+{"index": 274267, "D": "a person who is assigned to share or shares a room  or apartment with another or others.", "S": ["friend ", "mate "], "A": []}

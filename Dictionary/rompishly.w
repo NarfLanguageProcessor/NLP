@@ -1,0 +1,1 @@
+{"index": 274119, "D": "given to romping;  frolicsome.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17626, "D": "to bring to a state of peace, quiet, ease, calm, or contentment; pacify; soothe", "S": ["arbitrator ", "conciliator ", "diplomat ", "mediator ", "negotiator ", "pacifist ", "peacekeeper "], "A": ["agitator ", "instigator "]}

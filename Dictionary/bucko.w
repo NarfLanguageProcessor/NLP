@@ -1,0 +1,1 @@
+{"index": 42084, "D": "young fellow; chap; young companion.", "S": [], "A": []}

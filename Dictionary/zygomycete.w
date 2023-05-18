@@ -1,0 +1,1 @@
+{"index": 369248, "D": "any of a wide variety of common fungi constituting the phylum Zygomycota of the kingdom Fungi (or the class Zygomycetes of the kingdom Plantae), in which sexual reproduction is by the formation of zygospores.", "S": [], "A": []}

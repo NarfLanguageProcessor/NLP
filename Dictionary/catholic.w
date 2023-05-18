@@ -1,0 +1,1 @@
+{"index": 49723, "D": "broad or wide-ranging in tastes, interests, or the like; having sympathies with all; broad-minded; liberal.", "S": ["comprehensive ", "cosmopolitan ", "eclectic ", "generic ", "universal ", "whole "], "A": ["exclusive ", "narrow ", "partial ", "particular ", "specific "]}

@@ -1,0 +1,1 @@
+{"index": 222506, "D": "any compound, usually explosive, formed by the addition of ozone to the double or triple bond of an organic compound.", "S": [], "A": []}

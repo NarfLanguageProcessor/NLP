@@ -1,0 +1,1 @@
+{"index": 291174, "D": "simulating; feigning;  imitating.", "S": [], "A": []}

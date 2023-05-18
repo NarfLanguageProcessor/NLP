@@ -1,0 +1,1 @@
+{"index": 354454, "D": "any device, as a koan, used for purposes of instruction.", "S": [], "A": []}

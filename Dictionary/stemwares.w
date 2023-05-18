@@ -1,0 +1,1 @@
+{"index": 303620, "D": "glass or crystal vessels, especially for beverages and desserts, having rounded bowls mounted on footed stems. ", "S": [], "A": []}

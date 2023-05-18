@@ -1,0 +1,1 @@
+{"index": 259234, "D": "Compare cantor (def. 2). ", "S": ["priest ", "teacher "], "A": []}

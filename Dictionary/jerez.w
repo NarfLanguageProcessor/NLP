@@ -1,0 +1,1 @@
+{"index": 160915, "D": "Also called Je\u00b7rez de la Fron\u00b7te\u00b7ra  [he-reththe lah frawn-te-rah].  /h\u025b\u02c8r\u025b\u03b8 \u00f0\u025b l\u0251 fr\u0254n\u02c8t\u025b r\u0251/. Formerly Xe\u00b7res  [Spanish he-res]  /Spanish \u02c8h\u025b r\u025bs/ .", "S": [], "A": []}

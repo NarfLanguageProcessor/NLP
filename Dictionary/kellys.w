@@ -1,0 +1,1 @@
+{"index": 163733, "D": "a man's stiff hat, as a derby or straw skimmer.", "S": [], "A": []}

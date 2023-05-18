@@ -1,0 +1,1 @@
+{"index": 261682, "D": "to replant (an area that was formerly forested)", "S": [], "A": []}

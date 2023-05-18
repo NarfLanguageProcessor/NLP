@@ -1,0 +1,1 @@
+{"index": 144126, "D": "a person whose research or business involves the cultivation of flowers, fruits, vegetables, or ornamental plants", "S": ["grower ", "laborer ", "peasant ", "producer ", "rancher "], "A": []}

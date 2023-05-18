@@ -1,0 +1,1 @@
+{"index": 319873, "D": "to induce tetanus  in (a muscle).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340778, "D": "to be uncertain about; consider questionable or unlikely; hesitate to believe", "S": ["certain ", "conclusive ", "confirmable ", "deductible ", "demonstrable ", "testable ", "verifiable "], "A": []}

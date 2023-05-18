@@ -1,0 +1,1 @@
+{"index": 153442, "D": "of, relating to, or of the nature of an inscription.", "S": [], "A": []}

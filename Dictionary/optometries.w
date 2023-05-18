@@ -1,0 +1,1 @@
+{"index": 213874, "D": "the practice or profession of examining the eyes, by means of suitable instruments or appliances, for defects in vision and eye disorders in order to prescribe corrective lenses or other appropriate treatment.", "S": [], "A": []}

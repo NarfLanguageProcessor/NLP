@@ -1,0 +1,1 @@
+{"index": 122450, "D": "(in ants, bees, wasps, and other hymenopterous insects) the part of the abdomen behind the petiole.", "S": [], "A": []}

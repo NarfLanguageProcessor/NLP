@@ -1,0 +1,1 @@
+{"index": 253674, "D": "(of a compound) able to donate a hydrogen ion (proton) in a chemical reaction", "S": [], "A": []}

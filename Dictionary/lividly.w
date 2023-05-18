@@ -1,0 +1,1 @@
+{"index": 173999, "D": "having a discolored, bluish appearance caused by a bruise, congestion of blood vessels, strangulation, etc., as the face, flesh, hands, or nails.", "S": [], "A": []}

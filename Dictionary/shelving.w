@@ -1,0 +1,1 @@
+{"index": 288015, "D": "material for shelves. ", "S": ["freeze ", "give up ", "mothball ", "prolong ", "put off ", "suspend ", "waive "], "A": ["continue ", "go ", "advance "]}

@@ -1,0 +1,1 @@
+{"index": 45068, "D": "to determine, check, or rectify the graduation of (any instrument giving quantitative measurements).", "S": ["balance ", "correct ", "fine-tune ", "fix ", "improve ", "overhaul ", "readjust ", "regulate ", "tighten "], "A": ["disorganize ", "break ", "damage ", "destroy ", "dull ", "hurt ", "ruin ", "spoil "]}

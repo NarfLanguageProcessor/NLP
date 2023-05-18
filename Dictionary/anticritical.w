@@ -1,0 +1,1 @@
+{"index": 15071, "D": "inclined to find fault or to judge with severity, often too readily", "S": [], "A": []}

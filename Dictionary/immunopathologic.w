@@ -1,0 +1,1 @@
+{"index": 148169, "D": "the study of diseases having an immunologic or allergic basis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 218795, "D": "to crop  (land) to excess; exhaust the fertility of by continuous cropping. ", "S": [], "A": []}

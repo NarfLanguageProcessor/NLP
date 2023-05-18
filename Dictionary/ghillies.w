@@ -1,0 +1,1 @@
+{"index": 124549, "D": "a low-cut, tongueless shoe with loops instead of eyelets for the laces, which cross the instep and are sometimes tied around the ankle.", "S": [], "A": []}

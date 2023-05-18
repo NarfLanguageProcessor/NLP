@@ -1,0 +1,1 @@
+{"index": 64071, "D": "to sympathize (usually followed by with)", "S": [], "A": []}

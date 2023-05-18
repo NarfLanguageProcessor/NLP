@@ -1,0 +1,1 @@
+{"index": 64849, "D": "the act or process of comprehending. ", "S": ["apprehension ", "awareness "], "A": ["ignorance ", "inability "]}

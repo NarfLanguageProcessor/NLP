@@ -1,0 +1,1 @@
+{"index": 103620, "D": "of or relating to ergonomics", "S": ["appropriate ", "cushy ", "fitting ", "livable "], "A": ["uncomfortable "]}

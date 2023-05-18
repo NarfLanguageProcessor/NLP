@@ -1,0 +1,1 @@
+{"index": 290871, "D": "Compare asymmetric (def. 5), antisymmetric, nonsymmetric", "S": ["balanced ", "commensurable ", "commensurate ", "equal ", "in proportion ", "proportional ", "proportionate ", "regular ", "shapely ", "well-formed "], "A": []}

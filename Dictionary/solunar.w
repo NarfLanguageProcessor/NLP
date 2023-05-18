@@ -1,0 +1,1 @@
+{"index": 296896, "D": "pertaining to or listing the rising and setting times of the sun and moon, phases of the moon, eclipses, etc.", "S": [], "A": []}

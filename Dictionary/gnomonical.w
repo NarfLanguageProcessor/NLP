@@ -1,0 +1,1 @@
+{"index": 127132, "D": "of or relating to a gnomon  or to a sundial.", "S": [], "A": []}

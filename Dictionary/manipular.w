@@ -1,0 +1,1 @@
+{"index": 179324, "D": "of or relating to the Roman maniple.", "S": [], "A": []}

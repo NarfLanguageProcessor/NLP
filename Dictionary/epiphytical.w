@@ -1,0 +1,1 @@
+{"index": 102689, "D": "a plant that grows above the ground, supported nonparasitically by another plant or object, and deriving its nutrients and water from rain, the air, dust, etc.; air plant; aerophyte.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128963, "D": "a composition stone for pavements, made from crushed granite or the like and cement.", "S": [], "A": []}

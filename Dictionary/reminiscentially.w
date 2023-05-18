@@ -1,0 +1,1 @@
+{"index": 267318, "D": "of or relating to reminiscence; reminiscent.", "S": [], "A": []}

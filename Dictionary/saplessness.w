@@ -1,0 +1,1 @@
+{"index": 278129, "D": "without sap;  withered; dry", "S": [], "A": []}

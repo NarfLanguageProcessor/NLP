@@ -1,0 +1,1 @@
+{"index": 255785, "D": "belonging or pertaining to the Pteropoda, a group of mollusks having the lateral portions of the foot expanded into winglike lobes used in swimming.", "S": [], "A": []}

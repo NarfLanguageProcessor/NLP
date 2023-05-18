@@ -1,0 +1,1 @@
+{"index": 11935, "D": "belonging or pertaining to the Anapsida, a subclass of reptiles, extinct except for the turtles, characterized by having no opening in the temporal region of the skull.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97856, "D": "of or relating to eluviation or eluvium. ", "S": [], "A": []}

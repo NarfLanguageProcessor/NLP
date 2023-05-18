@@ -1,0 +1,1 @@
+{"index": 288980, "D": "a shallow temporary salt lake or marsh in the North African desert", "S": [], "A": []}

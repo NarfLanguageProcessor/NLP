@@ -1,0 +1,1 @@
+{"index": 42063, "D": "a whelk or its shell", "S": [], "A": []}

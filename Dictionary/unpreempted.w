@@ -1,0 +1,1 @@
+{"index": 348334, "D": "(of land) occupied in order to establish a prior right to buy", "S": [], "A": []}

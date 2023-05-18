@@ -1,0 +1,1 @@
+{"index": 175609, "D": "a low  chest of drawers on short legs, resembling the lower  part of a highboy.", "S": ["Yorkshire dresser ", "bureau ", "chest ", "chiffonier ", "chifforobe ", "dresser ", "highboy ", "lowboy ", "tallboy "], "A": []}

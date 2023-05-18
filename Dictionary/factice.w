@@ -1,0 +1,1 @@
+{"index": 109037, "D": "a soft rubbery material made by reacting sulphur or sulphur chloride with vegetable oil", "S": [], "A": []}

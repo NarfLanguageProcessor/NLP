@@ -1,0 +1,1 @@
+{"index": 354437, "D": "simple past tense and past participle of wring. ", "S": [], "A": []}

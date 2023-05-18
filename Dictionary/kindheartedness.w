@@ -1,0 +1,1 @@
+{"index": 164766, "D": "having or showing sympathy or kindness", "S": ["benevolence ", "compassion ", "goodness ", "kindness "], "A": ["cruelty ", "harshness ", "meanness "]}

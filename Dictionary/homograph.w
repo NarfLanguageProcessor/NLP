@@ -1,0 +1,1 @@
+{"index": 143109, "D": "a word of the same written form as another but of different meaning and usually origin, whether pronounced the same way or not, as bear1 \u201cto carry; support\u201d and bear2 \u201canimal\u201d or lead1 \u201cto conduct\u201d and lead2 \u201cmetal.\u201d", "S": [], "A": []}

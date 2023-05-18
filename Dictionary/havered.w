@@ -1,0 +1,1 @@
+{"index": 134412, "D": "to equivocate; vacillate.", "S": [], "A": []}

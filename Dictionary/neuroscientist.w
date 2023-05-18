@@ -1,0 +1,1 @@
+{"index": 199226, "D": "the field of study encompassing the various scientific disciplines dealing with the structure, development, function, chemistry, pharmacology, and pathology of the nervous system.", "S": [], "A": []}

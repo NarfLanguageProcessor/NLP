@@ -1,0 +1,1 @@
+{"index": 48993, "D": "any evergreen shrub belonging to the genus Cassiope, of the heath family, having nodding white or pinkish solitary flowers and scalelike or needlelike leaves.", "S": [], "A": []}

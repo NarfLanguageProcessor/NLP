@@ -1,0 +1,1 @@
+{"index": 102829, "D": "the principal outer covering of a spore. ", "S": [], "A": []}

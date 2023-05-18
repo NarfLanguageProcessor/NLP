@@ -1,0 +1,1 @@
+{"index": 342316, "D": "to repair; mend. ", "S": ["hopeless ", "irremediable ", "irreparable ", "terminal ", "uncorrectable "], "A": []}

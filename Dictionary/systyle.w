@@ -1,0 +1,1 @@
+{"index": 292586, "D": "having an intercolumniation of two diameters.", "S": [], "A": []}

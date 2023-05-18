@@ -1,0 +1,1 @@
+{"index": 45510, "D": "the dome of the skull.", "S": [], "A": []}

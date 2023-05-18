@@ -1,0 +1,1 @@
+{"index": 208722, "D": "a variant of nosy. ", "S": ["inquisitive ", "intrusive ", "meddlesome "], "A": ["incurious "]}

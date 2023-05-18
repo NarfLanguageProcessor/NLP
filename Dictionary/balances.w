@@ -1,0 +1,1 @@
+{"index": 26689, "D": "a state of equilibrium or equipoise; equal distribution of weight, amount, etc.", "S": ["equity ", "harmony ", "tension "], "A": ["difference ", "disproportion ", "imbalance ", "inequality ", "unevenness "]}

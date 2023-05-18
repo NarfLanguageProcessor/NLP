@@ -1,0 +1,1 @@
+{"index": 206482, "D": "a person or thing that reacts  or undergoes reaction. ", "S": [], "A": []}

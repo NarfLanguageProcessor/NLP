@@ -1,0 +1,1 @@
+{"index": 195942, "D": "to think or meditate in silence, as on some subject.", "S": [], "A": []}

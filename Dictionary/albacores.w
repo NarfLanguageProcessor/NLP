@@ -1,0 +1,1 @@
+{"index": 7383, "D": "a long-finned tuna, Thunnus alalunga, of warm or temperate seas, the flesh of which is valued for canning.", "S": [], "A": []}

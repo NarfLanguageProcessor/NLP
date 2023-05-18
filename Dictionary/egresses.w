@@ -1,0 +1,1 @@
+{"index": 96291, "D": "the act or an instance of going, especially from an enclosed place.", "S": ["departure ", "doorway ", "emanation ", "emergence ", "escape ", "exit ", "exiting ", "exodus ", "issue ", "opening ", "outlet ", "vent ", "withdrawal "], "A": ["arrival ", "closure ", "coming ", "entrance ", "stay "]}

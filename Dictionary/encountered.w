@@ -1,0 +1,1 @@
+{"index": 99477, "D": "to come upon or meet with, especially unexpectedly", "S": ["borne ", "endured ", "experienced ", "felt ", "known ", "shared ", "supported ", "withstood "], "A": []}

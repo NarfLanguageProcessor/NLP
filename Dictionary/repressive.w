@@ -1,0 +1,1 @@
+{"index": 268533, "D": "tending or serving to repress", "S": ["coercive ", "restrictive "], "A": []}

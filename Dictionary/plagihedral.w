@@ -1,0 +1,1 @@
+{"index": 238657, "D": "(of a crystal) having faces arranged obliquely in a helix.", "S": [], "A": []}

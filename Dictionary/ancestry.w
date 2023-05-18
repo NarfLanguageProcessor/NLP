@@ -1,0 +1,1 @@
+{"index": 12153, "D": "family or ancestral  descent; lineage.", "S": ["ancestor ", "antecedent ", "descent ", "extraction ", "forebear ", "genealogy ", "heritage ", "lineage ", "origin ", "parentage "], "A": ["effect ", "end ", "result "]}

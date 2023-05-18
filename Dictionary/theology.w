@@ -1,0 +1,1 @@
+{"index": 320998, "D": "the field of study and analysis that treats of God and of God's attributes and relations to the universe; study of divine things or religious truth; divinity.", "S": ["belief ", "creed ", "doctrine ", "dogma ", "faith "], "A": ["disbelief ", "doubt ", "skepticism ", "unbelief "]}

@@ -1,0 +1,1 @@
+{"index": 101974, "D": "any cell, tissue, organism, or substance that has an affinity for eosin  and other acid stains.", "S": [], "A": []}

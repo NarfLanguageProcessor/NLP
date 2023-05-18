@@ -1,0 +1,1 @@
+{"index": 170449, "D": "softening, soothing, or mitigating, as medicines or applications.", "S": ["demulcent ", "healing ", "palliative ", "softening "], "A": []}

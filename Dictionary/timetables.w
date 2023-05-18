@@ -1,0 +1,1 @@
+{"index": 323798, "D": "a schedule showing the times at which railroad trains, airplanes, etc., arrive and depart.", "S": ["agenda ", "calendar ", "itinerary ", "plan ", "program "], "A": []}

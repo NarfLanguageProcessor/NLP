@@ -1,0 +1,1 @@
+{"index": 62639, "D": "the complement of the latitude;  the difference between a given latitude  and 90\u00b0.", "S": [], "A": []}

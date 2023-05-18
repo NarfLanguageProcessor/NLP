@@ -1,0 +1,1 @@
+{"index": 321535, "D": "movement of an organism toward or away from a source of heat.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179398, "D": "the food miraculously supplied to the Israelites in the wilderness. Exodus 16", "S": ["bonanza ", "boon ", "delicacy ", "windfall "], "A": []}

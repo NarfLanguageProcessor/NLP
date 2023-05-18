@@ -1,0 +1,1 @@
+{"index": 49, "D": "(of organisms showing radial symmetry) situated away from or opposite to the mouth; aboral", "S": [], "A": []}

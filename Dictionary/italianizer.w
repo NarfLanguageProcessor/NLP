@@ -1,0 +1,1 @@
+{"index": 159451, "D": "a person or thing that Italianizes", "S": [], "A": []}

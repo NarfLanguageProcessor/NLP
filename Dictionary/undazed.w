@@ -1,0 +1,1 @@
+{"index": 338411, "D": "stunned or stupefied, as by a blow or shock", "S": [], "A": []}

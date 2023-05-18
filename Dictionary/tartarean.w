@@ -1,0 +1,1 @@
+{"index": 316771, "D": "of or relating to Tartarus;  infernal.", "S": [], "A": []}

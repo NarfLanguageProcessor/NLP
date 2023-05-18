@@ -1,0 +1,1 @@
+{"index": 178016, "D": "a composite plant, Anthemis cotula, native to Europe and Asia but naturalized in North America, having pungent, rank-smelling foliage and flower heads with a yellow disk and white rays.", "S": [], "A": []}

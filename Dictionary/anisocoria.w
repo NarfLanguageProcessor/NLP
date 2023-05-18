@@ -1,0 +1,1 @@
+{"index": 13291, "D": "inequality in the size of the pupils.", "S": [], "A": []}

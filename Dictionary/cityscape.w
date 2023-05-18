@@ -1,0 +1,1 @@
+{"index": 58665, "D": "a view of a city,  especially a large urban center", "S": ["art ", "canvas ", "composition ", "depiction ", "landscape ", "mural ", "oil painting ", "picture ", "portrait ", "sketch "], "A": []}

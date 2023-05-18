@@ -1,0 +1,1 @@
+{"index": 272728, "D": "a drug used in the treatment of tuberculosis, meningitis, and leprosy", "S": [], "A": []}

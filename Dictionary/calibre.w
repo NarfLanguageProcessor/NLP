@@ -1,0 +1,1 @@
+{"index": 45074, "D": "the diameter of a cylindrical body, esp the internal diameter of a tube or the bore of a firearm", "S": [], "A": []}

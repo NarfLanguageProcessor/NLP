@@ -1,0 +1,1 @@
+{"index": 144729, "D": "a mood of sulking anger; a fit of resentment", "S": ["snit "], "A": ["calm ", "calmness ", "enjoyment ", "happiness ", "joy ", "pleasure "]}

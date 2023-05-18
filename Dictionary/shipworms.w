@@ -1,0 +1,1 @@
+{"index": 288474, "D": "any of various wormlike marine bivalve mollusks that burrow into the timbers of ship,  wharves, etc.", "S": [], "A": []}

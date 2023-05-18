@@ -1,0 +1,1 @@
+{"index": 265582, "D": "to effect a complete moral reform in.", "S": [], "A": []}

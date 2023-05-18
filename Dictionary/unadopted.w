@@ -1,0 +1,1 @@
+{"index": 334633, "D": "(of a child) not adopted", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 286115, "D": "any of several Brazilian trees of the genus Hevea, yielding rubber.", "S": [], "A": []}

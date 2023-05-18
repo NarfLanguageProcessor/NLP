@@ -1,0 +1,1 @@
+{"index": 360142, "D": "a person who has never had sexual intercourse.", "S": ["stainless ", "vestal ", "virginal "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 115494, "D": "an abnormal condition caused by excessive intake of fluorides, characterized in children by discoloration and pitting of the teeth and in adults by pathological bone changes.", "S": [], "A": []}

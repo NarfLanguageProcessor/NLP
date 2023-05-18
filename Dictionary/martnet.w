@@ -1,0 +1,1 @@
+{"index": 180567, "D": "an arrangement of lines formerly used for gathering up a leech of a sail.", "S": [], "A": []}

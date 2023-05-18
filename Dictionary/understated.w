@@ -1,0 +1,1 @@
+{"index": 339897, "D": "restrained in design, presentation, etc.; low-key", "S": ["classic ", "elegant "], "A": ["complicated ", "modern "]}

@@ -1,0 +1,1 @@
+{"index": 348078, "D": "a piece of lead or some other weight attached to a line, used for determining perpendicularity, for sounding, etc.; the bob of a plumb line.", "S": [], "A": []}

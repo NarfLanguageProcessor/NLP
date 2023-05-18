@@ -1,0 +1,1 @@
+{"index": 206675, "D": "an act or instance of remonstrating. ", "S": [], "A": []}

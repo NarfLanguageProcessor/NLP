@@ -1,0 +1,1 @@
+{"index": 295585, "D": "sharp or curt, especially in a supercilious or haughty way; impertinent.", "S": ["abrupt ", "blunt ", "brief ", "brusque ", "churlish ", "gruff ", "impertinent ", "rude ", "sharp ", "sharp-tongued ", "snappish ", "snippety "], "A": []}

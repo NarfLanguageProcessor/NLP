@@ -1,0 +1,1 @@
+{"index": 43204, "D": "of or relating to Burma (now Myanmar), its inhabitants, or their language.", "S": [], "A": []}

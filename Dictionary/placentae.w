@@ -1,0 +1,1 @@
+{"index": 238562, "D": "the organ in most mammals, formed in the lining of the uterus by the union of the uterine mucous membrane with the membranes of the fetus, that provides for the nourishment of the fetus and the elimination of its waste products.", "S": ["afterbirth ", "amnion ", "arachnoid membrane ", "water bag "], "A": []}

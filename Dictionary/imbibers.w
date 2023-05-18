@@ -1,0 +1,1 @@
+{"index": 147686, "D": "to consume (liquids) by drinking; drink", "S": [], "A": []}

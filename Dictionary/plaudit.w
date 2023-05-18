@@ -1,0 +1,1 @@
+{"index": 239571, "D": "an enthusiastic expression of approval", "S": ["acclamation ", "applause ", "ovation "], "A": ["silence ", "criticism ", "disapproval "]}

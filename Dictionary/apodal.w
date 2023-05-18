@@ -1,0 +1,1 @@
+{"index": 17158, "D": "having no distinct feet or footlike members.", "S": [], "A": []}

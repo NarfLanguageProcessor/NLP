@@ -1,0 +1,1 @@
+{"index": 344717, "D": "to take, seize, or halt (someone or something on the way from one place to another); cut off from an intended destination", "S": [], "A": []}

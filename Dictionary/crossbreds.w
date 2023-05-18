@@ -1,0 +1,1 @@
+{"index": 73788, "D": "produced by crossbreeding.", "S": [], "A": []}

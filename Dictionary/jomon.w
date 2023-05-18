@@ -1,0 +1,1 @@
+{"index": 161739, "D": "of or relating to the period of Japanese culture, c8000\u2013300 b.c., corresponding to Mesolithic or early Neolithic, characterized by sunken-pit dwellings and heavy handmade pottery formed with a rope pattern of clay coils.", "S": [], "A": []}

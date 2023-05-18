@@ -1,0 +1,1 @@
+{"index": 35352, "D": "a military encampment made with tents or improvised shelters, usually without shelter or protection from enemy fire.", "S": ["billet ", "camp ", "cantonment ", "dormitory ", "encampment ", "enclosure ", "garrison ", "headquarters ", "hut ", "prefab ", "quarters ", "tent "], "A": []}

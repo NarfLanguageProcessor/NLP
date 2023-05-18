@@ -1,0 +1,1 @@
+{"index": 307715, "D": "having a toothed margin or toothlike projections or processes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29319, "D": "bad conduct discharge.", "S": [], "A": []}

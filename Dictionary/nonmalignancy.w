@@ -1,0 +1,1 @@
+{"index": 205130, "D": "the quality or condition of being malignant. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160133, "D": "of, relating to, or characteristic of the Yahwist.", "S": [], "A": []}

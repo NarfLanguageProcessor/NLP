@@ -1,0 +1,1 @@
+{"index": 341367, "D": "to place in a tomb; bury; inter.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118154, "D": "to separate or divide into component parts, fragments, divisions, etc.", "S": [], "A": []}

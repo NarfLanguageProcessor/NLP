@@ -1,0 +1,1 @@
+{"index": 302397, "D": "of settled or sedate character; not flighty or capricious.", "S": ["calmly "], "A": []}

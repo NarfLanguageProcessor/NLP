@@ -1,0 +1,1 @@
+{"index": 275854, "D": "any fungus of the large basidiomycetous genus Russula, of typical toadstool shape and often brightly coloured, such as the yellow R. ochroleuca and R. lutea, the green R. aeruginea, the violet-pink R. fragilis, and the purple R. atropurpurea", "S": [], "A": []}

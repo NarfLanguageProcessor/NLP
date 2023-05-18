@@ -1,0 +1,1 @@
+{"index": 312083, "D": "a physical weakness or ailment", "S": [], "A": []}

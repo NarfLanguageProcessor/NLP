@@ -1,0 +1,1 @@
+{"index": 348691, "D": "to be successful or fortunate, especially in financial respects; thrive; flourish.", "S": [], "A": []}

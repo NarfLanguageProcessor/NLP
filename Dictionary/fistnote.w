@@ -1,0 +1,1 @@
+{"index": 113491, "D": "a printed note,  as in a piece of text, distinguished by the figure of a fist  with a pointing index finger.", "S": [], "A": []}

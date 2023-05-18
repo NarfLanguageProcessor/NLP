@@ -1,0 +1,1 @@
+{"index": 147878, "D": "state or character of being immaterial. ", "S": ["inconsequence ", "inconsequentiality ", "indifference ", "meanness ", "molehill ", "negligibility ", "negligibleness ", "nothingness ", "paltriness ", "smallness ", "trifling matter ", "triviality ", "trivialness ", "worthlessness "], "A": []}

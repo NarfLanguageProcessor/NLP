@@ -1,0 +1,1 @@
+{"index": 220649, "D": "to produce  in excess of need or stipulated amount.", "S": [], "A": []}

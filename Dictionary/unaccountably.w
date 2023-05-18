@@ -1,0 +1,1 @@
+{"index": 334460, "D": "impossible to account for; unexplained; inexplicable", "S": ["chiefly ", "exclusively ", "notably ", "principally ", "specially ", "specifically "], "A": ["broadly "]}

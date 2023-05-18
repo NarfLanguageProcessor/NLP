@@ -1,0 +1,1 @@
+{"index": 269795, "D": "the act of responding or answering.", "S": [], "A": []}

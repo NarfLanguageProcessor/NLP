@@ -1,0 +1,1 @@
+{"index": 133294, "D": "an acrobatic feat in which one starts from a standing position and wheels the body forward or backward in a complete circle, landing first on the hands  and then on the feet, without contact by the rest of the body.", "S": [], "A": []}

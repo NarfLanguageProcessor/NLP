@@ -1,0 +1,1 @@
+{"index": 239603, "D": "the act of a person who pleads.", "S": [], "A": []}

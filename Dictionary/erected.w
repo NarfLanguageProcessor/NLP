@@ -1,0 +1,1 @@
+{"index": 103521, "D": "having been built", "S": ["boosted ", "elevated ", "hoisted ", "implanted ", "lifted ", "raised ", "reared ", "uplifted ", "upraised "], "A": ["lowered "]}

@@ -1,0 +1,1 @@
+{"index": 25484, "D": "a baby or child.", "S": ["bairn ", "child ", "infant ", "newborn ", "suckling "], "A": ["adult "]}

@@ -1,0 +1,1 @@
+{"index": 78903, "D": "a process by which structures or behaviors that were specialized for a specific function lose their specialization and become simplified or generalized.", "S": [], "A": []}

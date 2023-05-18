@@ -1,0 +1,1 @@
+{"index": 36363, "D": "functionally impeded by amphetamine", "S": ["impassable "], "A": ["bare ", "bright ", "clear ", "distinct ", "light ", "open ", "plain ", "revealed ", "uncovered "]}

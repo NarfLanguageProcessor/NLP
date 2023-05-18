@@ -1,0 +1,1 @@
+{"index": 79122, "D": "to defeat or annul (a contract, deed, etc.).", "S": [], "A": []}

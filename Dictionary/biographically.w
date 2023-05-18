@@ -1,0 +1,1 @@
+{"index": 34393, "D": "of or relating to a person's life", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137356, "D": "one of a sect of mystics that originated in the 14th century among the monks on Mt. Athos, Greece.", "S": [], "A": []}

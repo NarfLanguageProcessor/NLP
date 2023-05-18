@@ -1,0 +1,1 @@
+{"index": 354956, "D": "characterized by or in a state of uproar;  tumultuous.", "S": ["disorderly ", "loud ", "noisy ", "obstreperous ", "rackety ", "wild "], "A": ["solemn "]}

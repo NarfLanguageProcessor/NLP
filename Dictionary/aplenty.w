@@ -1,0 +1,1 @@
+{"index": 17055, "D": "in sufficient quantity; in generous amounts (usually used following the noun it modifies)", "S": ["ample ", "lavish ", "magnanimous ", "plentiful "], "A": ["meager ", "scarce "]}

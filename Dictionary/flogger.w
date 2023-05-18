@@ -1,0 +1,1 @@
+{"index": 114881, "D": "a person who beats another with a whip or stick, especially as punishment", "S": ["cloak ", "frock ", "jacket ", "overcoat ", "raincoat ", "suit ", "tuxedo ", "windbreaker ", "wrap "], "A": []}

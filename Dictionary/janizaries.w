@@ -1,0 +1,1 @@
+{"index": 160333, "D": "a member of an elite military unit of the Turkish army organized in the 14th century and abolished in 1826 after it revolted against the Sultan.", "S": [], "A": []}

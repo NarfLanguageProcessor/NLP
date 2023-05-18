@@ -1,0 +1,1 @@
+{"index": 369293, "D": "the second stage of prophase in meiosis, during which strands of homologous chromosomes line up and become pairs.", "S": [], "A": []}

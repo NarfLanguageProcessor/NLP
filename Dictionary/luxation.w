@@ -1,0 +1,1 @@
+{"index": 176547, "D": "to put out of joint; dislocate", "S": ["confusion ", "disarray ", "disconnection ", "disorder ", "disruption ", "disturbance "], "A": ["arrangement ", "calm ", "method ", "order ", "orderliness ", "organization ", "system ", "juncture "]}

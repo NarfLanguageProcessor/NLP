@@ -1,0 +1,1 @@
+{"index": 339498, "D": "lowest, as in position, status, or the like.", "S": ["basal ", "base ", "basement ", "basic ", "foundational ", "ground ", "last ", "lowermost ", "lowest ", "meat-and-potatoes ", "nethermost ", "primary ", "radical ", "rock-bottom ", "underlying "], "A": []}

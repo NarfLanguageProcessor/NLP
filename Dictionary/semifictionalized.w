@@ -1,0 +1,1 @@
+{"index": 284206, "D": "to make into fiction;  give a somewhat imaginative or fictional  version of", "S": [], "A": []}

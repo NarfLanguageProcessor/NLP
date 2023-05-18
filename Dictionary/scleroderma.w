@@ -1,0 +1,1 @@
+{"index": 280954, "D": "a disease in which connective tissue anywhere in the body becomes hardened and rigid.", "S": [], "A": []}

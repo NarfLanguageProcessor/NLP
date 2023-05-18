@@ -1,0 +1,1 @@
+{"index": 369285, "D": "a sporangium  that bears a zygospore.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 210908, "D": "having an ocrea or ocreae; sheathed.", "S": [], "A": []}

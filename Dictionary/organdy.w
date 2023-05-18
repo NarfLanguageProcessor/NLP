@@ -1,0 +1,1 @@
+{"index": 214349, "D": "a fine, thin cotton fabric usually having a durable crisp finish, white, dyed, or printed", "S": [], "A": []}

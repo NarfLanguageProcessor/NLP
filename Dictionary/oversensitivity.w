@@ -1,0 +1,1 @@
+{"index": 221045, "D": "excessively or unduly sensitive. ", "S": ["inflammation ", "irritability ", "soreness ", "tenderness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 61086, "D": "the land next to the sea; seashore", "S": ["bank ", "beach ", "coastline ", "seaboard ", "shore ", "shoreline "], "A": []}

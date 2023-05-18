@@ -1,0 +1,1 @@
+{"index": 86797, "D": "a fixed line used in the description of a curve or surface.", "S": [], "A": []}

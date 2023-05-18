@@ -1,0 +1,1 @@
+{"index": 229578, "D": [], "S": ["accessory ", "adjunct ", "appendage ", "apron ", "cover ", "drop ", "fold ", "lapel ", "lobe ", "pendant ", "queue ", "skirt ", "strip ", "tab ", "tag ", "tail ", "tippet "], "A": []}

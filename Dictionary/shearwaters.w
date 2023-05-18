@@ -1,0 +1,1 @@
+{"index": 287709, "D": "any of several long-winged petrels of the genus Puffinus that appear to shear  the water  with their wing tips when flying low.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 278023, "D": "a grandchild of Japanese immigrants to the U.S. or Canada.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272408, "D": "vulgar or indecent in speech, language, etc.; coarsely mocking, abusive, or irreverent; scurrilous.", "S": [], "A": []}

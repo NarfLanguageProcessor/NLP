@@ -1,0 +1,1 @@
+{"index": 71346, "D": "(especially in historical use) a mistress, paramour, or prostitute, especially one associating with noblemen or men of wealth.", "S": [], "A": []}

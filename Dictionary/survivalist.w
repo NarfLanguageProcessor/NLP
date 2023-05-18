@@ -1,0 +1,1 @@
+{"index": 313667, "D": "a person who makes preparations to survive a widespread catastrophe, as an atomic war or anarchy, especially by storing food and weapons in a safe place.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118200, "D": "to kill, wound, or assault (especially an unpopular or overzealous superior) with a fragmentation grenade. ", "S": [], "A": []}

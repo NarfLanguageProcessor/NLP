@@ -1,0 +1,1 @@
+{"index": 355306, "D": "a white, lustrous, radioactive, metallic element, occurring in pitchblende, and having compounds that are used in photography and in coloring glass. The 235 isotope is used in atomic and hydrogen bombs and as a fuel in nuclear reactors. Symbol", "S": [], "A": []}

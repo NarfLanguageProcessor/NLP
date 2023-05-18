@@ -1,0 +1,1 @@
+{"index": 48946, "D": "an ice cream, originating in Italy, usually containing nuts and candied fruit", "S": [], "A": []}

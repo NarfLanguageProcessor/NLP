@@ -1,0 +1,1 @@
+{"index": 288086, "D": "a fragment, especially of broken earthenware.", "S": [], "A": []}

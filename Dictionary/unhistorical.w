@@ -1,0 +1,1 @@
+{"index": 343769, "D": "of, pertaining to, treating, or characteristic of history  or past events", "S": ["fabled ", "fabulous ", "mythical ", "storied "], "A": ["factual ", "infamous ", "real ", "true ", "unimportant "]}

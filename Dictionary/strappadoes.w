@@ -1,0 +1,1 @@
+{"index": 305808, "D": "an old form of punishment or torture in which the victim, with arms bound behind, was raised from the ground by a rope fastened to the wrists, abruptly released, then arrested with a painful jerk just before reaching the ground.", "S": [], "A": []}

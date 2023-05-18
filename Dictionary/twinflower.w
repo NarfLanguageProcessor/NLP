@@ -1,0 +1,1 @@
+{"index": 333364, "D": "either of two slender, creeping, evergreen, caprifoliaceous plants, Linnaea borealis, of Europe, or L. americana, of North America, having pink or purplish nodding flowers  borne in pairs on threadlike stalks.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253296, "D": "the unsegmented, preoral portion of the head of certain lower invertebrates.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82533, "D": "to castrate or spay.", "S": ["altered ", "emasculate ", "fixed ", "unmanned "], "A": []}

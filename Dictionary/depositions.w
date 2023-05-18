@@ -1,0 +1,1 @@
+{"index": 81775, "D": "removal from an office or position.", "S": ["impeachment ", "removal "], "A": ["employment ", "hiring ", "retention "]}

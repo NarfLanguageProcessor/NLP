@@ -1,0 +1,1 @@
+{"index": 164077, "D": "a heavily fulled woolen cloth constructed in twill weave and finished with a fine nap.", "S": [], "A": []}

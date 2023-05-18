@@ -1,0 +1,1 @@
+{"index": 315480, "D": "a paper money, cupronickel coin, and monetary unit of Bangladesh, equal to 100 poisha.", "S": [], "A": []}

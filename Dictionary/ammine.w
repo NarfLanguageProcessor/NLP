@@ -1,0 +1,1 @@
+{"index": 10721, "D": "a compound containing one or more ammonia  molecules in coordinate linkage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3918, "D": "goodbye; farewell.", "S": ["goodbye ", "send-off ", "sendoff "], "A": ["greeting "]}

@@ -1,0 +1,1 @@
+{"index": 94557, "D": "a short-handled shovellike utensil into which dust  is swept for removal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291116, "D": "an axis or stem that simulates a simple stem but is made up of the bases of a number of axes that arise successively as branches, one from another, as in the grapevine.", "S": [], "A": []}

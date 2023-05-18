@@ -1,0 +1,1 @@
+{"index": 225055, "D": "a Malay verse form consisting of an indefinite number of quatrains with the second and fourth lines of each quatrain repeated as the first and third lines of the following one.", "S": [], "A": []}

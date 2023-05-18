@@ -1,0 +1,1 @@
+{"index": 149090, "D": "the act of impressing  people or property into public service or use.", "S": ["lottery ", "selection "], "A": []}

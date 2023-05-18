@@ -1,0 +1,1 @@
+{"index": 73830, "D": "a title or heading  filling a line or group of lines the full width of the column.", "S": [], "A": []}

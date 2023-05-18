@@ -1,0 +1,1 @@
+{"index": 248661, "D": "to work, perform, or function, as a machine does", "S": [], "A": []}

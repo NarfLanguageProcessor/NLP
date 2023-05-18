@@ -1,0 +1,1 @@
+{"index": 311938, "D": "the state or quality of being good.", "S": [], "A": []}

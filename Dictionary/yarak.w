@@ -1,0 +1,1 @@
+{"index": 145720, "D": "a state of prime fitness in a hawk.", "S": [], "A": []}

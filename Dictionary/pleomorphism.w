@@ -1,0 +1,1 @@
+{"index": 239845, "D": "existence of an organism in two or more distinct forms during the life cycle; polymorphism.", "S": [], "A": []}

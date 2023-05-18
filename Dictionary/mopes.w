@@ -1,0 +1,1 @@
+{"index": 193222, "D": "low spirits", "S": ["blahs ", "blue Johnnies ", "blues ", "d.t.'s ", "delirium tremens ", "despair ", "despondency ", "dumps ", "funk ", "gloom ", "low spirits ", "melancholy ", "mubblefubbles ", "mulligrubs ", "pink elephants ", "unhappiness "], "A": []}

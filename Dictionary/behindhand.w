@@ -1,0 +1,1 @@
+{"index": 30820, "D": "late; tardy.", "S": ["behind ", "belated ", "belatedly ", "derelict ", "dilatorily ", "dilatory ", "in arrears ", "in the red ", "late ", "neglectful ", "negligent ", "overdue ", "remiss ", "tardily ", "tardy "], "A": []}

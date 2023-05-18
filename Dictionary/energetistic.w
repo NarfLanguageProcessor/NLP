@@ -1,0 +1,1 @@
+{"index": 100133, "D": "the branch of physics that deals with energy.", "S": [], "A": []}

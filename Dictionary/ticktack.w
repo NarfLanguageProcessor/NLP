@@ -1,0 +1,1 @@
+{"index": 323258, "D": "a repetitive sound, as of ticking, tapping, knocking, or clicking", "S": [], "A": []}

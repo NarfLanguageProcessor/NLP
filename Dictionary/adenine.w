@@ -1,0 +1,1 @@
+{"index": 3691, "D": "a purine base, C5H5N5, one of the fundamental components of nucleic acids, as DNA, in which it forms a base pair with thymine, and RNA, in which it pairs with uracil. Symbol", "S": [], "A": []}

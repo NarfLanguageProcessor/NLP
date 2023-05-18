@@ -1,0 +1,1 @@
+{"index": 156008, "D": "to lie in interposed or alternate strata.", "S": [], "A": []}

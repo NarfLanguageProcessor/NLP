@@ -1,0 +1,1 @@
+{"index": 29463, "D": "any of various relatively long pieces of metal, wood, stone, etc., manufactured or shaped especially for use as rigid members or parts of structures or machines.", "S": [], "A": []}

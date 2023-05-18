@@ -1,0 +1,1 @@
+{"index": 192819, "D": "the conventional French title of respect and term of address for a man, corresponding to Mr. or sir.", "S": ["Esquire ", "man ", "signor ", "sir "], "A": []}

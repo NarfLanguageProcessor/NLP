@@ -1,0 +1,1 @@
+{"index": 5424, "D": "having inspiration; inspired.", "S": [], "A": []}

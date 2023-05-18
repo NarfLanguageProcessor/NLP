@@ -1,0 +1,1 @@
+{"index": 88752, "D": "neglecting or refusing to obey; not submitting; refractory.", "S": [], "A": []}

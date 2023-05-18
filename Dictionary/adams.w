@@ -1,0 +1,1 @@
+{"index": 3444, "D": "U.S. social and political figure (wife of John Adams).", "S": [], "A": []}

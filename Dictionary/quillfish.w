@@ -1,0 +1,1 @@
+{"index": 258616, "D": "a fish, Ptilichthys goodei, of the Bering Sea, having an eellike body with long, many-rayed fins.", "S": [], "A": []}

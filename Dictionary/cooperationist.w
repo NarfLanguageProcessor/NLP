@@ -1,0 +1,1 @@
+{"index": 68329, "D": "an act or instance of working or acting together for a common purpose or benefit; joint action.", "S": [], "A": []}

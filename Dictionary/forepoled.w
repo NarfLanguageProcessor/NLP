@@ -1,0 +1,1 @@
+{"index": 116867, "D": "any of a number of boards or timbers driven forward on top of a set to protect miners lengthening a tunnel from falling debris.", "S": [], "A": []}

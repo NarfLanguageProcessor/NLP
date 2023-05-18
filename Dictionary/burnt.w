@@ -1,0 +1,1 @@
+{"index": 43248, "D": "a simple past tense and past participle of burn1. ", "S": ["charred ", "parched ", "scalded ", "scorched ", "seared ", "singed "], "A": []}

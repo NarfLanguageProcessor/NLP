@@ -1,0 +1,1 @@
+{"index": 358758, "D": "a slope of a mountain or mountain chain.", "S": [], "A": []}

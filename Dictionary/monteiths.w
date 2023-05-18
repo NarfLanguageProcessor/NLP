@@ -1,0 +1,1 @@
+{"index": 192889, "D": "a large punch bowl, usually of silver, having a notched rim for suspending punch cups.", "S": [], "A": []}

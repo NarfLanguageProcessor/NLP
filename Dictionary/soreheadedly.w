@@ -1,0 +1,1 @@
+{"index": 297577, "D": "a disgruntled or vindictive person, especially an unsportsmanlike loser", "S": [], "A": []}

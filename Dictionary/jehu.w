@@ -1,0 +1,1 @@
+{"index": 160777, "D": "a king of Israel noted for his furious chariot attacks. 2 Kings 9.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266538, "D": "something that is issued  again, as a book or a motion picture.", "S": [], "A": []}

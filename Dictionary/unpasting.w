@@ -1,0 +1,1 @@
+{"index": 347527, "D": "a mixture of flour and water, often with starch or the like, used for causing paper or other material to adhere to something.", "S": [], "A": []}

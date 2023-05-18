@@ -1,0 +1,1 @@
+{"index": 57072, "D": "any low-growing plant of the genus Cyclamen, belonging to the primrose family, having tuberous rootstocks and nodding white, purple, pink, or crimson flowers with reflexed petals.", "S": [], "A": []}

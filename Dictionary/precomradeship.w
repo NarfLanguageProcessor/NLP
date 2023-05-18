@@ -1,0 +1,1 @@
+{"index": 246319, "D": "the state of being companions, associates, or friends, especially ones who share activities, an occupation, etc.", "S": [], "A": []}

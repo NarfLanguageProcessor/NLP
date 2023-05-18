@@ -1,0 +1,1 @@
+{"index": 198081, "D": "mutual discussion and arrangement of the terms of a transaction or agreement", "S": ["agreement ", "arbitration ", "compromise ", "conference ", "consultation ", "debate ", "diplomacy ", "discussion ", "intervention ", "mediation ", "meeting ", "transaction "], "A": ["disagreement "]}

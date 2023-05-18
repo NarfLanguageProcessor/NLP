@@ -1,0 +1,1 @@
+{"index": 134916, "D": "the hard central wood  of the trunk of an exogenous tree; duramen.", "S": [], "A": []}

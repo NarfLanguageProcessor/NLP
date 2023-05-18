@@ -1,0 +1,1 @@
+{"index": 206473, "D": "the state or quality of being rational. ", "S": [], "A": []}

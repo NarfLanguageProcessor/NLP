@@ -1,0 +1,1 @@
+{"index": 280912, "D": "a dense, white, fibrous membrane that, with the cornea, forms the external covering of the eyeball.", "S": [], "A": []}

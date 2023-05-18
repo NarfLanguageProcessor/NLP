@@ -1,0 +1,1 @@
+{"index": 291819, "D": "a nucleus formed by the fusion of two preexisting nuclei.", "S": [], "A": []}

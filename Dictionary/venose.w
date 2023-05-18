@@ -1,0 +1,1 @@
+{"index": 358138, "D": "having many or prominent veins.", "S": [], "A": []}

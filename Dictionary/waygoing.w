@@ -1,0 +1,1 @@
+{"index": 361972, "D": "the act of leaving; departure; leave-taking. ", "S": [], "A": []}

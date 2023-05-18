@@ -1,0 +1,1 @@
+{"index": 21615, "D": "a sudden, violent attack; onslaught", "S": ["aggression ", "charge ", "incursion ", "invasion ", "offensive ", "onslaught ", "rape ", "strike ", "violation "], "A": ["retreat "]}

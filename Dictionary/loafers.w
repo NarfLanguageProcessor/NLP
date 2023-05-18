@@ -1,0 +1,1 @@
+{"index": 174095, "D": "a person who loafs;  lazy person; idler.", "S": ["beachcomber ", "deadbeat ", "do-nothing ", "good-for-nothing ", "goof-off ", "idler ", "lazybones ", "lounger ", "malingerer ", "ne'er-do-well ", "shirker ", "slacker ", "slouch ", "sluggard ", "sponger ", "wanderer ", "waster ", "wastrel "], "A": ["hard worker "]}

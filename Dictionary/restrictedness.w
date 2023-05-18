@@ -1,0 +1,1 @@
+{"index": 270029, "D": "confined; limited.", "S": [], "A": []}

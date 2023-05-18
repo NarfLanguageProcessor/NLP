@@ -1,0 +1,1 @@
+{"index": 110858, "D": "acoustic feedback. ", "S": ["assessment ", "comment ", "criticism ", "evaluation ", "observation ", "reaction "], "A": ["question "]}

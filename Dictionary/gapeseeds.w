@@ -1,0 +1,1 @@
+{"index": 122018, "D": "a daydream or reverie.", "S": [], "A": []}

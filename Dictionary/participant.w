@@ -1,0 +1,1 @@
+{"index": 227012, "D": "a person or group that participates;  partaker.", "S": ["colleague ", "member ", "partner ", "party ", "player ", "shareholder "], "A": ["enemy ", "boss "]}

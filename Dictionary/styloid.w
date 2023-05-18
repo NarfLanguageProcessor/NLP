@@ -1,0 +1,1 @@
+{"index": 304555, "D": "resembling a style; slender and pointed.", "S": [], "A": []}

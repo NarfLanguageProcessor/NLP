@@ -1,0 +1,1 @@
+{"index": 128550, "D": "a degree or step in a scale, as of rank, advancement, quality, value, or intensity", "S": ["allocation ", "allotment ", "analysis ", "arrangement ", "coordination ", "designation ", "distribution ", "grade ", "regulation "], "A": ["disorganization ", "keeping ", "retention "]}

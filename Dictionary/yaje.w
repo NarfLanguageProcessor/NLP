@@ -1,0 +1,1 @@
+{"index": 145552, "D": "a mildly hallucinogenic drug obtained from a South American vine, Banisteriopsis caapi.", "S": [], "A": []}

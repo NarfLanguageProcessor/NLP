@@ -1,0 +1,1 @@
+{"index": 351851, "D": "any evergreen, coniferous tree of the genus Picea, of the pine family, having short, angular, needle-shaped leaves attached singly around twigs and bearing hanging cones with persistent scales.", "S": [], "A": []}

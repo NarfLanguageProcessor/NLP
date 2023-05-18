@@ -1,0 +1,1 @@
+{"index": 76409, "D": "U.S. politician, Speaker of the House 1795\u201399.", "S": [], "A": []}

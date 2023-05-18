@@ -1,0 +1,1 @@
+{"index": 81093, "D": "to cut off the nerve  supply from (an organ or body part) by surgery or anesthetic block.", "S": [], "A": []}

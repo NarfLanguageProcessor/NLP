@@ -1,0 +1,1 @@
+{"index": 215274, "D": "a device for recording the wave-forms of changing currents, voltages, or any other quantity that can be translated into electric energy, as sound waves.", "S": [], "A": []}

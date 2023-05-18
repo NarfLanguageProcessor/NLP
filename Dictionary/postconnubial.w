@@ -1,0 +1,1 @@
+{"index": 244010, "D": "of marriage or wedlock; matrimonial; conjugal", "S": [], "A": []}

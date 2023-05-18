@@ -1,0 +1,1 @@
+{"index": 224304, "D": "a rawhide slipper worn by men in the Aran Islands", "S": [], "A": []}

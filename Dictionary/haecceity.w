@@ -1,0 +1,1 @@
+{"index": 131968, "D": "Compare quiddity", "S": [], "A": []}

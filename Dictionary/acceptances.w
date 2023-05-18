@@ -1,0 +1,1 @@
+{"index": 1475, "D": "the act of taking or receiving something offered.", "S": ["acknowledgment ", "admission ", "approval ", "compliance ", "consent ", "cooperation ", "recognition "], "A": ["denial ", "disagreement ", "disapproval ", "dissension ", "opposition ", "refusal ", "veto "]}

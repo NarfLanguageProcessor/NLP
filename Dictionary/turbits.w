@@ -1,0 +1,1 @@
+{"index": 332608, "D": "one of a breed of domestic pigeons having a stout, roundish body, a short head and beak, and a ruffled breast and neck.", "S": [], "A": []}

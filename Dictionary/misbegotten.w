@@ -1,0 +1,1 @@
+{"index": 188778, "D": "unlawfully or irregularly begotten;  born of unmarried parents; illegitimate", "S": ["baseborn ", "bastard ", "dishonest ", "disreputable ", "illegal ", "natural ", "poor ", "shady ", "spurious ", "stolen ", "suppositious ", "unlawful ", "unrespectable "], "A": ["lawful ", "legal ", "legitimate ", "licit "]}

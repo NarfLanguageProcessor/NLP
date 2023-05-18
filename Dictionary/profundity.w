@@ -1,0 +1,1 @@
+{"index": 251818, "D": "the quality or state of being profound;  depth.", "S": ["solidity ", "sophistication "], "A": ["ignorance ", "imprudence ", "inability ", "ineptness ", "instability ", "misinterpretation ", "mistake ", "misunderstanding ", "stupidity ", "thoughtlessness "]}

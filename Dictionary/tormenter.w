@@ -1,0 +1,1 @@
+{"index": 326128, "D": "a person or thing that torments. ", "S": ["oppressor ", "rascal "], "A": []}

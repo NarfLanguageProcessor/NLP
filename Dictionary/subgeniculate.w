@@ -1,0 +1,1 @@
+{"index": 308063, "D": "having kneelike joints or bends.", "S": [], "A": []}

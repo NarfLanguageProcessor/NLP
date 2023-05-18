@@ -1,0 +1,1 @@
+{"index": 17760, "D": "having a horizontally flattened form.", "S": [], "A": []}

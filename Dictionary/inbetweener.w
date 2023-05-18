@@ -1,0 +1,1 @@
+{"index": 149589, "D": "a person or thing that is between two extremes, two contrasting conditions, etc.", "S": [], "A": []}

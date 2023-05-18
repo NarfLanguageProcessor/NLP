@@ -1,0 +1,1 @@
+{"index": 202569, "D": "a person who is cosmopolitan  in their ideas, life, etc.; citizen of the world.", "S": [], "A": []}

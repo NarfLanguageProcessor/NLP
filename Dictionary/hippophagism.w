@@ -1,0 +1,1 @@
+{"index": 141465, "D": "the practice of eating horseflesh.", "S": [], "A": []}

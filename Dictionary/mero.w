@@ -1,0 +1,1 @@
+{"index": 183885, "D": "a combining form meaning \u201cpart,\u201d \u201cpartial,\u201d used in the formation of compound words", "S": [], "A": []}

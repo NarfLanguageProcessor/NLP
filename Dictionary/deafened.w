@@ -1,0 +1,1 @@
+{"index": 77517, "D": "to make deaf", "S": ["stun "], "A": []}

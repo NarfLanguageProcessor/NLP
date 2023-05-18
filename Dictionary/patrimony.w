@@ -1,0 +1,1 @@
+{"index": 227894, "D": "an estate inherited from one's father or ancestors.", "S": ["ancestry ", "endowment ", "estate ", "heritage ", "legacy "], "A": []}

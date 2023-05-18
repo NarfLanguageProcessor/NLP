@@ -1,0 +1,1 @@
+{"index": 187995, "D": "one of the Balearic Islands, in the W Mediterranean. 271 sq. mi. (700 sq. km).", "S": [], "A": []}

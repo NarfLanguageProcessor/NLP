@@ -1,0 +1,1 @@
+{"index": 68258, "D": "a basinlike dish made from wood or bark by Aboriginal inhabitants of Australia.", "S": [], "A": []}

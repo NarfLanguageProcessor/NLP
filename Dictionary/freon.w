@@ -1,0 +1,1 @@
+{"index": 118776, "D": "a brand name for any of a class of liquid or gaseous fluorocarbon or chlorofluorocarbon products, used chiefly as refrigerants.", "S": [], "A": []}

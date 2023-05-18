@@ -1,0 +1,1 @@
+{"index": 315047, "D": "the record produced by the action of a tachometer.", "S": [], "A": []}

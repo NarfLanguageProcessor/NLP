@@ -1,0 +1,1 @@
+{"index": 47989, "D": "U.S. poet (sister of Phoebe Cary).", "S": ["crater "], "A": ["bulge ", "closure ", "mountain ", "solid "]}

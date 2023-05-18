@@ -1,0 +1,1 @@
+{"index": 271588, "D": "to give notice, advice, or intimation to (a person, group, etc.) of danger, impending evil, possible harm, or anything else unfavorable", "S": ["echo ", "renew ", "repeat ", "restate "], "A": ["take back "]}

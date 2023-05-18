@@ -1,0 +1,1 @@
+{"index": 295979, "D": "the fruit of any of certain tropical or subtropical trees of the genus Sapindus, especially S. saponaria, used as a substitute for soap. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 154443, "D": "to unite or cause to adhere, as with glue.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 59257, "D": "a pair of boards clapped together during film shooting in order to aid sound synchronization", "S": [], "A": []}

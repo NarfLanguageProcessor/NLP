@@ -1,0 +1,1 @@
+{"index": 58816, "D": "the mutual attraction or repulsion of cells or groups of motile cells.", "S": [], "A": []}

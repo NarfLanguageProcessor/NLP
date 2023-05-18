@@ -1,0 +1,1 @@
+{"index": 199683, "D": "any plant belonging to the genus Nicotiana, of the nightshade family, especially one grown for its ornamental value, as flowering tobacco.", "S": [], "A": []}

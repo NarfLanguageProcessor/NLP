@@ -1,0 +1,1 @@
+{"index": 150962, "D": "systematic indifference.", "S": [], "A": []}

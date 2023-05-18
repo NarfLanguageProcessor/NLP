@@ -1,0 +1,1 @@
+{"index": 272371, "D": "the 17th letter of the Greek alphabet (P, \u03c1).", "S": [], "A": []}

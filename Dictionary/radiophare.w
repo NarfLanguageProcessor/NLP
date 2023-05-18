@@ -1,0 +1,1 @@
+{"index": 259745, "D": "a radiotelegraphic station used by vessels to determine their positions; radio beacon.", "S": [], "A": []}

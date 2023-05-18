@@ -1,0 +1,1 @@
+{"index": 320315, "D": "a Cretan leader, who founded Troy", "S": [], "A": []}

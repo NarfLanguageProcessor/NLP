@@ -1,0 +1,1 @@
+{"index": 96081, "D": "marked by effort  or exertion; labored.", "S": [], "A": []}

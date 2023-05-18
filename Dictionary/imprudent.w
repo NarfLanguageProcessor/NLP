@@ -1,0 +1,1 @@
+{"index": 149224, "D": "not prudent; lacking discretion; incautious; rash. ", "S": ["careless ", "foolhardy ", "foolish ", "ill-advised ", "ill-considered ", "irresponsible ", "reckless ", "thoughtless ", "unwise "], "A": ["attentive ", "careful ", "cautious ", "kind ", "mindful ", "prudent ", "responsible ", "sensible ", "thoughtful ", "wise "]}

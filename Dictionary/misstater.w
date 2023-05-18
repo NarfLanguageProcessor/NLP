@@ -1,0 +1,1 @@
+{"index": 190136, "D": "to state  wrongly or misleadingly; make a wrong statement about.", "S": [], "A": []}

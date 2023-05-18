@@ -1,0 +1,1 @@
+{"index": 361960, "D": "a traveler, especially on foot.", "S": ["adventurer ", "barnstormer ", "bum ", "drifter ", "excursionist ", "explorer ", "gadabout ", "gypsy ", "hiker ", "hitchhiker ", "hobo ", "itinerant ", "journeyer ", "nomad ", "peddler ", "pilgrim ", "rambler ", "roamer ", "rover ", "trekker ", "vagabond ", "vagrant ", "walker ", "wanderer "], "A": []}

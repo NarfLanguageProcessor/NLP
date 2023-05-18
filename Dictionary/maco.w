@@ -1,0 +1,1 @@
+{"index": 176847, "D": "an Egyptian cotton, used especially in the manufacture of hosiery and undergarments.", "S": [], "A": []}

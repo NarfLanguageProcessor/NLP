@@ -1,0 +1,1 @@
+{"index": 25516, "D": "an infant or very young child.", "S": ["baby ", "childish ", "foolish ", "immature ", "infantile ", "juvenile ", "kid stuff ", "puerile ", "silly ", "sissy ", "sissyish ", "spoiled "], "A": ["grown-up ", "mature "]}

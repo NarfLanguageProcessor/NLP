@@ -1,0 +1,1 @@
+{"index": 175381, "D": "pertaining to or living in flowing water.", "S": [], "A": []}

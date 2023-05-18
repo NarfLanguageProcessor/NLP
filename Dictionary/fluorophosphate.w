@@ -1,0 +1,1 @@
+{"index": 115483, "D": "a salt or ester of a fluorophosphoric acid.", "S": [], "A": []}

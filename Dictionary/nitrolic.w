@@ -1,0 +1,1 @@
+{"index": 200429, "D": "of or noting a series of acids of the type RC(=NOH)NO2, whose salts form deep-red solutions.", "S": [], "A": []}

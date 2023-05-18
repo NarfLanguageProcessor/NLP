@@ -1,0 +1,1 @@
+{"index": 264059, "D": "an emigrant from Europe to America who obtained passage by becoming an indentured servant for a specified period of time.", "S": [], "A": []}

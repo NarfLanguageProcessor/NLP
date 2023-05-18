@@ -1,0 +1,1 @@
+{"index": 46246, "D": "the state or quality of being frank, open, and sincere in speech or expression; candidness", "S": [], "A": []}

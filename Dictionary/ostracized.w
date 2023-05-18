@@ -1,0 +1,1 @@
+{"index": 215755, "D": "to exclude, by general consent, from society, friendship, conversation, privileges, etc.", "S": ["blackballed ", "ignored ", "shunned "], "A": []}

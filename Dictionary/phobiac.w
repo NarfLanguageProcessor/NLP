@@ -1,0 +1,1 @@
+{"index": 234552, "D": "a combining form used to form personal nouns corresponding to nouns ending in -phobia", "S": [], "A": []}

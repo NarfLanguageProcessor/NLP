@@ -1,0 +1,1 @@
+{"index": 108212, "D": "to stretch out; draw out to the full length", "S": ["expandable ", "expansile ", "extendible ", "extensile ", "protractible ", "protractile ", "stretchable "], "A": []}

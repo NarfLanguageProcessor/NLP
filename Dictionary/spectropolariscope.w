@@ -1,0 +1,1 @@
+{"index": 298939, "D": "an instrument combining the functions of a spectroscope with those of a polariscope. ", "S": [], "A": []}

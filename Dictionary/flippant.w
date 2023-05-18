@@ -1,0 +1,1 @@
+{"index": 114691, "D": "frivolously disrespectful, shallow, or lacking in seriousness; characterized by levity", "S": ["cheeky ", "cocky ", "disrespectful ", "glib ", "offhand ", "playful ", "rude "], "A": ["mannerly ", "nice ", "respectful "]}

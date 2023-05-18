@@ -1,0 +1,1 @@
+{"index": 151444, "D": "(tr) a poetic word for bury", "S": ["deposit ", "entomb ", "plant "], "A": ["dig out ", "disinter ", "exhume ", "resurrect "]}

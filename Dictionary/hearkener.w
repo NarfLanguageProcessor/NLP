@@ -1,0 +1,1 @@
+{"index": 134804, "D": "to give heed or attention to what is said; listen.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175101, "D": "a means of escape or evasion; a means or opportunity of evading a rule, law, etc.", "S": [], "A": []}

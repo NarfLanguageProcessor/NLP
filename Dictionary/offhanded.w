@@ -1,0 +1,1 @@
+{"index": 211598, "D": "cavalierly, curtly, or brusquely", "S": [], "A": []}

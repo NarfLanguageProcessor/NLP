@@ -1,0 +1,1 @@
+{"index": 126060, "D": "a person who applies a glaze,  as to pottery, baked goods, leather, or fur.", "S": ["buff wheel "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 177150, "D": "an island republic in the Indian Ocean, about 240 miles (385 km) off the southestern coast of Africa", "S": [], "A": []}

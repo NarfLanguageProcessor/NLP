@@ -1,0 +1,1 @@
+{"index": 29585, "D": "of or like a beast;  bestial.", "S": ["barbarity ", "brutality ", "depravity ", "inhumanity ", "savagery ", "truculence ", "truculency ", "wickedness "], "A": ["kindness "]}

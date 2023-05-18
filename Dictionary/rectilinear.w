@@ -1,0 +1,1 @@
+{"index": 263694, "D": "forming a straight line.", "S": ["rectangular "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153008, "D": "the internal parts of the body; entrails or viscera.", "S": ["guts ", "insides "], "A": []}

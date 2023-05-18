@@ -1,0 +1,1 @@
+{"index": 162877, "D": "of, relating to, or created by a kaleidoscope. ", "S": ["motley ", "psychedelic "], "A": ["monochrome "]}

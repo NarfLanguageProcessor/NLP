@@ -1,0 +1,1 @@
+{"index": 251216, "D": "advancing or going forward; progressive", "S": [], "A": []}

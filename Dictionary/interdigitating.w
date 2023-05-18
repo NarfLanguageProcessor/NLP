@@ -1,0 +1,1 @@
+{"index": 154859, "D": "to interlock, as or like the fingers of both hands.", "S": ["interlace ", "interlink ", "intertwine "], "A": []}

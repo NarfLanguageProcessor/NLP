@@ -1,0 +1,1 @@
+{"index": 190206, "D": "to teach wrongly or badly.", "S": [], "A": []}

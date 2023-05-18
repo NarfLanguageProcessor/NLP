@@ -1,0 +1,1 @@
+{"index": 173601, "D": "a member of the literati,  or intellectual class", "S": [], "A": []}

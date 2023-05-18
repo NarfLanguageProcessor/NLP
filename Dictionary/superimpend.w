@@ -1,0 +1,1 @@
+{"index": 312005, "D": "to be imminent; be about to happen.", "S": [], "A": []}

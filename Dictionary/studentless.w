@@ -1,0 +1,1 @@
+{"index": 306784, "D": "a person formally engaged in learning, especially one enrolled in a school or college; pupil", "S": [], "A": []}

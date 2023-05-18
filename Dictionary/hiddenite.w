@@ -1,0 +1,1 @@
+{"index": 138347, "D": "a rare, transparent variety of spodumene, colored yellow-green to emerald-green by chromium", "S": [], "A": []}

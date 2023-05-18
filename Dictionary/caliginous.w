@@ -1,0 +1,1 @@
+{"index": 45158, "D": "misty; dim; dark.", "S": ["dim ", "gloomy ", "misty ", "murky ", "obscure "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52050, "D": "(in yoga) any of the seven major energy centres in the body", "S": [], "A": []}

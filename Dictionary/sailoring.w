@@ -1,0 +1,1 @@
+{"index": 276799, "D": "the occupation or duties of a sailor. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110787, "D": "simple past tense and past participle of feed. ", "S": ["glutted ", "gorged ", "jaded ", "sated ", "satiate ", "stuffed ", "surfeited "], "A": ["empty ", "hungry ", "incomplete ", "needy ", "starved ", "unsatisfied ", "void "]}

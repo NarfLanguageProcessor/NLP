@@ -1,0 +1,1 @@
+{"index": 265867, "D": "usual; normal; customary", "S": ["daily ", "everyday ", "formal ", "legitimate ", "ordinary ", "proper ", "routine ", "traditional ", "typical ", "usual "], "A": ["abnormal ", "atypical ", "different ", "irregular ", "special ", "uncommon ", "unconventional ", "untraditional ", "unusual ", "exceptional ", "rare "]}

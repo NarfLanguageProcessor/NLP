@@ -1,0 +1,1 @@
+{"index": 240340, "D": "a piece of wood or other material used to stop up a hole or aperture, to fill a gap, or to act as a wedge.", "S": ["bung ", "connection ", "cork ", "filling ", "fitting ", "occlusion ", "river ", "spigot ", "stopple ", "tampon ", "wedge "], "A": ["mouth ", "opening "]}

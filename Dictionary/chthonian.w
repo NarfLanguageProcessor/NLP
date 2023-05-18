@@ -1,0 +1,1 @@
+{"index": 56496, "D": "of or relating to the deities, spirits, and other beings dwelling under the earth.", "S": ["demonic ", "devilish ", "hellish ", "malevolent ", "wicked "], "A": ["angelic ", "godlike ", "good ", "moral "]}

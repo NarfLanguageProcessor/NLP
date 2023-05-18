@@ -1,0 +1,1 @@
+{"index": 145275, "D": "to move, proceed, or act with haste (often followed by up)", "S": ["darting ", "dashing ", "expediting ", "flying ", "hastening ", "propelling ", "racing ", "running ", "rushing ", "scurrying ", "speeding "], "A": ["crawling ", "creeping "]}

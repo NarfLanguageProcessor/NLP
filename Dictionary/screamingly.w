@@ -1,0 +1,1 @@
+{"index": 281677, "D": "characterized by a shrill cry or piercing sound; uttering or emitting screams. ", "S": [], "A": []}

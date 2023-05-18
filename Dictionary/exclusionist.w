@@ -1,0 +1,1 @@
+{"index": 106765, "D": "denoting or relating to a policy of excluding various types of immigrants, imports, etc", "S": [], "A": []}

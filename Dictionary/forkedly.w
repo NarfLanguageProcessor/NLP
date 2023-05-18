@@ -1,0 +1,1 @@
+{"index": 117293, "D": "having a fork  or fork-like branches.", "S": [], "A": []}

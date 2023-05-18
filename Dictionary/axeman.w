@@ -1,0 +1,1 @@
+{"index": 25081, "D": "a man who wields an axe, esp to cut down trees", "S": [], "A": []}

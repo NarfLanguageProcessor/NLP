@@ -1,0 +1,1 @@
+{"index": 77713, "D": "a person or thing that reduces the quality, value, rank, or significance or someone or something", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91245, "D": "a plant cavity inhabited by commensal insects or mites or, occasionally, microorganisms", "S": [], "A": []}

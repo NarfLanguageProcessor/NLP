@@ -1,0 +1,1 @@
+{"index": 323968, "D": "tin, or an alloy of tin and lead, in the form of a thin sheet, much used as a wrapping for drugs, foods, tobacco, etc.", "S": [], "A": []}

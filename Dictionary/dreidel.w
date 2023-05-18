@@ -1,0 +1,1 @@
+{"index": 92938, "D": "a four-sided top bearing the Hebrew letters nun, gimel, he, and shin, one on each side, used chiefly in a children's game traditionally played on the Jewish festival of Hanukkah.", "S": [], "A": []}

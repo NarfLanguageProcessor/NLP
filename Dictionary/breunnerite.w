@@ -1,0 +1,1 @@
+{"index": 40475, "D": "an iron-containing type of magnesite used in the manufacture of refractory bricks", "S": [], "A": []}

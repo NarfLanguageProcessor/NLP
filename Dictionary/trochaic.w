@@ -1,0 +1,1 @@
+{"index": 330880, "D": "pertaining to the trochee. ", "S": [], "A": []}

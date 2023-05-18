@@ -1,0 +1,1 @@
+{"index": 174150, "D": "causing feelings of loathing;  disgusting; revolting; repulsive", "S": [], "A": []}

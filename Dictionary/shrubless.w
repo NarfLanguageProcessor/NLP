@@ -1,0 +1,1 @@
+{"index": 289292, "D": "a woody plant smaller than a tree, usually having multiple permanent stems branching from or near the ground.", "S": [], "A": []}

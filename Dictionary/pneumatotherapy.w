@@ -1,0 +1,1 @@
+{"index": 240777, "D": "the use of compressed or rarefied air in treating disease.", "S": [], "A": []}

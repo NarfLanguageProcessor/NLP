@@ -1,0 +1,1 @@
+{"index": 115964, "D": "a bag of copper or bronze coins with a fixed weight, used as money of account in the later Roman Empire.", "S": [], "A": []}

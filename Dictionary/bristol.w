@@ -1,0 +1,1 @@
+{"index": 40977, "D": "a seaport in Avon, in southwestern England, on the Avon River near its confluence with the Severn estuary.", "S": [], "A": []}

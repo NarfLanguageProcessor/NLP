@@ -1,0 +1,1 @@
+{"index": 179184, "D": "the oblong, sweet fruit of a tropical tree, Mangifera indica, of the cashew family, eaten ripe, or preserved or pickled.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 220241, "D": "full of cheerfulness or gaiety; joyous in disposition or spirit", "S": [], "A": []}

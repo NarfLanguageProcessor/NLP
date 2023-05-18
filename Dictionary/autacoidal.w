@@ -1,0 +1,1 @@
+{"index": 23748, "D": "any physiologically active internal secretion, especially one of uncertain classification, as histamine or prostaglandin.", "S": [], "A": []}

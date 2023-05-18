@@ -1,0 +1,1 @@
+{"index": 327382, "D": "any of several Asian pheasants of the genus Tragopan, having two fleshy, erectile horns on the head and wattles on the throat.", "S": [], "A": []}

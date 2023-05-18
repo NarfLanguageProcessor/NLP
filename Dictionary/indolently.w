@@ -1,0 +1,1 @@
+{"index": 151237, "D": "having or showing a disposition to avoid exertion; slothful", "S": ["languidly ", "lazily ", "sluggishly "], "A": ["hectically ", "hurriedly "]}

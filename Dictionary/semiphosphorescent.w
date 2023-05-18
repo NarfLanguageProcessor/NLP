@@ -1,0 +1,1 @@
+{"index": 284716, "D": "exhibiting phosphorescence. ", "S": [], "A": []}

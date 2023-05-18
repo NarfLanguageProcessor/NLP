@@ -1,0 +1,1 @@
+{"index": 107269, "D": "a way or passage out", "S": ["door ", "gate ", "opening "], "A": ["closure ", "entrance "]}

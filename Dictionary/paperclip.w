@@ -1,0 +1,1 @@
+{"index": 225158, "D": "a flat wire or plastic clip shaped so that it can hold sheets of paper between two of its loops.", "S": ["gem clip ", "paper fastener "], "A": []}

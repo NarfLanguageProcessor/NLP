@@ -1,0 +1,1 @@
+{"index": 260130, "D": "a regenerated, semisynthetic textile filament made from cellulose, cotton linters, or wood chips by treating these with caustic soda and carbon disulfide and passing the resultant solution, viscose, through spinnerets.", "S": [], "A": []}

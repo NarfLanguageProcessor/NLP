@@ -1,0 +1,1 @@
+{"index": 172912, "D": "full of or marked with lines. ", "S": ["barred ", "grooved ", "marked ", "ridged ", "striate ", "striated ", "striped ", "tore ", "variegated ", "veined ", "whelked "], "A": []}

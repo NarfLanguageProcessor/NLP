@@ -1,0 +1,1 @@
+{"index": 157241, "D": "incapable of being conquered, defeated, or subdued.", "S": ["actively ", "energetically ", "firmly ", "fully ", "greatly ", "heartily ", "heavily ", "resolutely ", "robustly ", "solidly ", "staunchly ", "steadily ", "vigorously "], "A": []}

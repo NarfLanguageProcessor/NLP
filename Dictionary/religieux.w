@@ -1,0 +1,1 @@
+{"index": 266936, "D": "religious; devout; pious.", "S": [], "A": []}

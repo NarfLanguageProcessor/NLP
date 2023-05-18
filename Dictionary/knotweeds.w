@@ -1,0 +1,1 @@
+{"index": 165695, "D": "any of several knotty-stemmed plants belonging to the genus Polygonum, of the buckwheat family.", "S": [], "A": []}

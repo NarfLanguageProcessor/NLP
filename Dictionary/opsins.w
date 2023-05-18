@@ -1,0 +1,1 @@
+{"index": 213747, "D": "any of several compounds that form the protein component of the light-sensitive retina pigment, rhodopsin.", "S": [], "A": []}

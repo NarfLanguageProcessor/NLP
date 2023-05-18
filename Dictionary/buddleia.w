@@ -1,0 +1,1 @@
+{"index": 42162, "D": "any shrub belonging to the genus Buddleia, of the logania family, having opposite, lance-shaped leaves and clusters of flowers, comprising the butterfly bushes.", "S": [], "A": []}

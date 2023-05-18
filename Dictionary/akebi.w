@@ -1,0 +1,1 @@
+{"index": 7132, "D": "a climbing vine, Akebia quinata, of eastern Asia, bearing inconspicuous flowers and purple, edible berries, grown as an ornamental in the U.S.", "S": [], "A": []}

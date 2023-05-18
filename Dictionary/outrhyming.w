@@ -1,0 +1,1 @@
+{"index": 217268, "D": "identity in sound of some part, especially the end, of words or lines of verse.", "S": [], "A": []}

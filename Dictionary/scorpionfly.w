@@ -1,0 +1,1 @@
+{"index": 281323, "D": "any of several harmless insects of the order Mecoptera, the male of certain species having a reproductive structure that resembles the sting of a scorpion. ", "S": [], "A": []}

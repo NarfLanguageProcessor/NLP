@@ -1,0 +1,1 @@
+{"index": 260243, "D": "of or relating to a ramus.", "S": [], "A": []}

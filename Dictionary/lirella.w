@@ -1,0 +1,1 @@
+{"index": 173364, "D": "the elongated, narrow apothecium of certain lichens.", "S": [], "A": []}

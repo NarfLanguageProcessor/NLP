@@ -1,0 +1,1 @@
+{"index": 348631, "D": "serving or tending to propel  or drive forward.", "S": [], "A": []}

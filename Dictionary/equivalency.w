@@ -1,0 +1,1 @@
+{"index": 103417, "D": "equivalence (defs. 1, 2). ", "S": ["alikeness ", "equality ", "equation ", "likeness ", "match ", "parity ", "sameness ", "similarity ", "uniformity "], "A": []}

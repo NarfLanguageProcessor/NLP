@@ -1,0 +1,1 @@
+{"index": 211137, "D": "(formerly especially in France and Italy) a local tax levied on certain articles, such as foodstuffs, on their entry into a city.", "S": [], "A": []}

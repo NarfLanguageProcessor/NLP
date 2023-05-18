@@ -1,0 +1,1 @@
+{"index": 366918, "D": "a man  who turns into a wolf  on certain occasions, as at the time of the full moon; werewolf.", "S": [], "A": []}

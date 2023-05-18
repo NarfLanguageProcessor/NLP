@@ -1,0 +1,1 @@
+{"index": 262681, "D": "fit for acceptance; acceptable.", "S": ["arrears ", "balance due "], "A": []}

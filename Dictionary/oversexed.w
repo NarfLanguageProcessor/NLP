@@ -1,0 +1,1 @@
+{"index": 221085, "D": "having an unusually strong sexual drive.", "S": ["concupiscent ", "desiring ", "hard up ", "hot ", "hot to trot ", "lascivious ", "libidinous ", "lustful ", "passionate ", "randy ", "turned on "], "A": []}

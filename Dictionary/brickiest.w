@@ -1,0 +1,1 @@
+{"index": 40599, "D": "constructed of, made of, or resembling bricks. ", "S": [], "A": []}

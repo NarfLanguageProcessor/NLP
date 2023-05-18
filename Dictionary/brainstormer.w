@@ -1,0 +1,1 @@
+{"index": 39758, "D": "a fit of mental confusion or excitement.", "S": [], "A": []}

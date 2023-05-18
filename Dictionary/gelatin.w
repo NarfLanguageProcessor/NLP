@@ -1,0 +1,1 @@
+{"index": 123187, "D": "a nearly transparent, faintly yellow, odorless, and almost tasteless glutinous substance obtained by boiling in water the ligaments, bones, skin, etc., of animals, and forming the basis of jellies, glues, and the like.", "S": ["extract ", "jell ", "marmalade ", "pectin ", "preserves ", "pulp "], "A": []}

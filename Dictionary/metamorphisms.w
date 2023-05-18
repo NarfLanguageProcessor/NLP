@@ -1,0 +1,1 @@
+{"index": 184820, "D": "a change in the structure or constitution of a rock due to natural agencies, as pressure and heat, especially when the rock becomes harder and more completely crystalline.", "S": [], "A": []}

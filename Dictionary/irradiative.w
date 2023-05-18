@@ -1,0 +1,1 @@
+{"index": 158139, "D": "to shed rays of light upon; illuminate.", "S": [], "A": []}

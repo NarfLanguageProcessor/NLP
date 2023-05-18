@@ -1,0 +1,1 @@
+{"index": 279272, "D": "(used as an oath.)", "S": [], "A": []}

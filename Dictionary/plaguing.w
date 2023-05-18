@@ -1,0 +1,1 @@
+{"index": 238699, "D": "an epidemic disease that causes high mortality; pestilence.", "S": ["aggravating ", "annoying ", "bitter ", "exasperating ", "harassing ", "humiliating ", "irritating ", "provoking ", "rankling ", "vexing "], "A": ["agreeable ", "pleasant "]}

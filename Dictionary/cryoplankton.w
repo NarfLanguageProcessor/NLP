@@ -1,0 +1,1 @@
+{"index": 73125, "D": "plankton  that live in the icy waters and meltwaters of glacial or polar areas.", "S": [], "A": []}

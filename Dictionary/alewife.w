@@ -1,0 +1,1 @@
+{"index": 7949, "D": "a North American fish, Alosa pseudoharengus, resembling a small shad.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340793, "D": "a pin, usually round, fitting into holes in two adjacent pieces to prevent their slipping or to align them.", "S": [], "A": []}

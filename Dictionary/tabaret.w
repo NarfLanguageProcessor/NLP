@@ -1,0 +1,1 @@
+{"index": 314759, "D": "a durable silk or acetate fabric having alternating stripes of satin and moir\u00e9, for drapery and upholstery.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 281250, "D": "a person or thing that scorches. ", "S": ["assessment ", "comment ", "critique ", "judgment ", "opinion ", "review "], "A": ["heedlessness ", "neglect "]}

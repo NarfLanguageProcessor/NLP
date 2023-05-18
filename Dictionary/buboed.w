@@ -1,0 +1,1 @@
+{"index": 41949, "D": "an inflammatory swelling of a lymphatic gland, especially in the groin or armpit.", "S": [], "A": []}

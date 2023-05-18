@@ -1,0 +1,1 @@
+{"index": 159497, "D": "any tree or shrub belonging to the genus Itea, of the saxifrage family, having simple, alternate leaves and clusters of small, greenish-white flowers, as the Virginia willow, I. virginica.", "S": [], "A": []}

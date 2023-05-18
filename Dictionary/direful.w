@@ -1,0 +1,1 @@
+{"index": 86799, "D": "dreadful; awful; terrible.", "S": ["apocalyptic ", "appalling ", "awful ", "baleful ", "baneful ", "calamitous ", "dreadful ", "fateful ", "ghastly ", "gloomy ", "horrid ", "ill-boding ", "inauspicious ", "ominous ", "shocking ", "terrible ", "terrific ", "unlucky ", "unpropitious "], "A": ["good ", "nice "]}

@@ -1,0 +1,1 @@
+{"index": 241854, "D": "inhabited by or consisting of people of many ethnic  backgrounds.", "S": [], "A": []}

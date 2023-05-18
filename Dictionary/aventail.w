@@ -1,0 +1,1 @@
+{"index": 24656, "D": "a mail tippet suspended from the lower edges of a 14th-century basinet as a protection for the neck, throat, and shoulders.", "S": [], "A": []}

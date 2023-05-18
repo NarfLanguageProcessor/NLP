@@ -1,0 +1,1 @@
+{"index": 247421, "D": "to exist  beforehand.", "S": ["anticipate ", "foreshadow ", "predate ", "presage "], "A": ["end ", "finish ", "follow ", "obey "]}

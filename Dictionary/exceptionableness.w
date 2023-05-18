@@ -1,0 +1,1 @@
+{"index": 106606, "D": "liable to exception  or objection; objectionable.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118518, "D": "ice crystals formed in turbulent water, as in swift streams or rough seas.", "S": [], "A": []}

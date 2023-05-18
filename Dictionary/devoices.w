@@ -1,0 +1,1 @@
+{"index": 83636, "D": "to pronounce (an ordinarily voiced  speech sound) without vibration of the vocal cords; make voiceless.", "S": [], "A": []}

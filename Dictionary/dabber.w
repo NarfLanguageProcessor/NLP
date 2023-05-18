@@ -1,0 +1,1 @@
+{"index": 75943, "D": "a person or thing that dabs. ", "S": [], "A": []}

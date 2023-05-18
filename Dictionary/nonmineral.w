@@ -1,0 +1,1 @@
+{"index": 205295, "D": "any of a class of substances occurring in nature, usually comprising inorganic substances, as quartz or feldspar, of definite chemical composition and usually of definite crystal structure, but sometimes also including rocks formed by these substances as well as certain natural products of organic origin, as asphalt or coal.", "S": [], "A": []}

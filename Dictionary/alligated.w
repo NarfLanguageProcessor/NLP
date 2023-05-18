@@ -1,0 +1,1 @@
+{"index": 8726, "D": "to attach; bind.", "S": [], "A": []}

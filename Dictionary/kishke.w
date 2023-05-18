@@ -1,0 +1,1 @@
+{"index": 165117, "D": "a beef or fowl intestine stuffed with a mixture, as of flour, fat, onion, and seasonings, and roasted.", "S": [], "A": []}

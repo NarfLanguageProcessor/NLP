@@ -1,0 +1,1 @@
+{"index": 141009, "D": "(in certain lakes) the layer of water below the thermocline.", "S": [], "A": []}

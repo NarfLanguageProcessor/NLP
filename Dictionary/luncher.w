@@ -1,0 +1,1 @@
+{"index": 176189, "D": "a light midday meal between breakfast and dinner; luncheon. ", "S": [], "A": []}

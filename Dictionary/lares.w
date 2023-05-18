@@ -1,0 +1,1 @@
+{"index": 168490, "D": "the spirits who, if propitiated, watched over the house or community to which they belonged.", "S": [], "A": []}

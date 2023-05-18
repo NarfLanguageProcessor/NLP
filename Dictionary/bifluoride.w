@@ -1,0 +1,1 @@
+{"index": 33647, "D": "an acid salt of hydrofluoric acid containing the group HF2-, as ammonium bifluoride,  NH4HF2.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346686, "D": "materials used in war, especially weapons and ammunition.", "S": [], "A": []}

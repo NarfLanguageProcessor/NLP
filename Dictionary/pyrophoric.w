@@ -1,0 +1,1 @@
+{"index": 237905, "D": "capable of igniting spontaneously in air.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247250, "D": "of or relating to preemption. ", "S": ["deterrent ", "precautionary "], "A": []}

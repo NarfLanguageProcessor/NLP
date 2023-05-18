@@ -1,0 +1,1 @@
+{"index": 44885, "D": "a white or tinted wash for walls, ceilings, etc.", "S": ["airbrushing ", "brushing ", "coating ", "covering ", "decorating ", "enameling ", "splashing ", "varnishing "], "A": []}

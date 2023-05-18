@@ -1,0 +1,1 @@
+{"index": 16929, "D": "a small ulceration on a mucous membrane, as in thrush, caused by a fungal infection", "S": [], "A": []}

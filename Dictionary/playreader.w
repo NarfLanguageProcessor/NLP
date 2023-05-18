@@ -1,0 +1,1 @@
+{"index": 238829, "D": "a person who reads and evaluates plays,  as for a publisher, producer, or theatrical company.", "S": [], "A": []}

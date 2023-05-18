@@ -1,0 +1,1 @@
+{"index": 208509, "D": "a neurotransmitter, released by adrenergic nerve terminals in the autonomic and possibly the central nervous system, that has such effects as constricting blood vessels, raising blood pressure, and dilating bronchi.", "S": [], "A": []}

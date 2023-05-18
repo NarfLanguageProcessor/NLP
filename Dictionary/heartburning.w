@@ -1,0 +1,1 @@
+{"index": 134836, "D": "rankling discontent, especially from envy or jealousy; grudge.", "S": [], "A": []}

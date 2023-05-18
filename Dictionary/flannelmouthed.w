@@ -1,0 +1,1 @@
+{"index": 113962, "D": "talking thickly, slowly, or haltingly.", "S": [], "A": []}

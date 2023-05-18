@@ -1,0 +1,1 @@
+{"index": 269358, "D": "a person who resides  in a place.", "S": ["citizen ", "dweller ", "inhabitant ", "inmate ", "local ", "native ", "tenant "], "A": ["alien ", "foreigner ", "immigrant "]}

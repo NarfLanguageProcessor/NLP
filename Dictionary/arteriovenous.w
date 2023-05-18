@@ -1,0 +1,1 @@
+{"index": 20543, "D": "of or relating to an artery and a vein; having characteristics of both arteries and veins.", "S": [], "A": []}

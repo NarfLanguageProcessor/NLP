@@ -1,0 +1,1 @@
+{"index": 169887, "D": "leather shorts, usually with suspenders, worn especially in Bavaria.", "S": ["short shorts ", "tight shorts "], "A": []}

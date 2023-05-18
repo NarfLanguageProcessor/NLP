@@ -1,0 +1,1 @@
+{"index": 359418, "D": "a change or variation occurring in the course of something.", "S": [], "A": []}

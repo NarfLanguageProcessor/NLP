@@ -1,0 +1,1 @@
+{"index": 321482, "D": "a device consisting of a number of thermocouples joined in series, used for generating thermoelectric current or for detecting and measuring radiant energy, as from a star.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 350657, "D": "tending to calm or soothe.", "S": [], "A": []}

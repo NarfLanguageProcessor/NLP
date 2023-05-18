@@ -1,0 +1,1 @@
+{"index": 255103, "D": "of, like, or befitting a scholar", "S": [], "A": []}

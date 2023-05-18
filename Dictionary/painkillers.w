@@ -1,0 +1,1 @@
+{"index": 223156, "D": "a drug, treatment, or anything else that relieves pain,  especially an analgesic.", "S": ["aspirin ", "drug ", "medicine ", "morphine ", "ointment ", "opiate ", "sedative ", "tranquilizer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124063, "D": "of or relating to the balance between the Coriolis force and the horizontal pressure force in the atmosphere.", "S": [], "A": []}

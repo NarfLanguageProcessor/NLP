@@ -1,0 +1,1 @@
+{"index": 3278, "D": "a short, realistic play, usually in Spanish, that dramatizes the social and economic problems of Chicanos.", "S": [], "A": []}

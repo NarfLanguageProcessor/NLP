@@ -1,0 +1,1 @@
+{"index": 83604, "D": "the act or process of planning, inventing, or contriving (often used attributively)", "S": ["creative ", "imaginative ", "innovative ", "inventive ", "seminal ", "unconventional ", "unusual "], "A": ["borrowed ", "hackneyed ", "latest ", "old ", "used ", "worn "]}

@@ -1,0 +1,1 @@
+{"index": 360131, "D": "shaped like a rod or wand; long, slender, and straight.", "S": [], "A": []}

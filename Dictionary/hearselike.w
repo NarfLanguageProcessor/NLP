@@ -1,0 +1,1 @@
+{"index": 134813, "D": "a vehicle for conveying a dead person to the place of burial.", "S": [], "A": []}

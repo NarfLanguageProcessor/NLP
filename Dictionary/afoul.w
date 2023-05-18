@@ -1,0 +1,1 @@
+{"index": 5569, "D": "in a state of collision or entanglement", "S": ["afield ", "badly ", "erringly ", "erroneously ", "faultily ", "improperly ", "inappropriately ", "incorrectly ", "mistakenly ", "out of turn ", "unfavorably ", "unsuitably "], "A": ["good ", "right ", "well "]}

@@ -1,0 +1,1 @@
+{"index": 118630, "D": [], "S": ["extracurricular relations ", "extracurricular sex ", "extramarital sex ", "new morality ", "premarital sex ", "sexual liberation ", "sexual revolution "], "A": []}

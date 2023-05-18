@@ -1,0 +1,1 @@
+{"index": 285880, "D": [], "S": ["agreement ", "conviction ", "inference ", "opinion ", "resolution ", "settlement ", "verdict "], "A": ["indecision "]}

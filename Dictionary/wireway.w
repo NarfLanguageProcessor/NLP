@@ -1,0 +1,1 @@
+{"index": 366377, "D": "a prefabricated, enclosed passage for electrical wiring,  as in a building.", "S": [], "A": []}

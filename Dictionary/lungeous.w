@@ -1,0 +1,1 @@
+{"index": 176216, "D": "(of a person) violent; rough.", "S": [], "A": []}

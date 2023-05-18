@@ -1,0 +1,1 @@
+{"index": 221626, "D": "to tire  to the point of exhaustion; tire out.", "S": ["cripple ", "disable ", "drain ", "fatigue ", "frazzle ", "impoverish ", "overwork ", "sap ", "use up ", "weaken ", "weary "], "A": ["aid ", "assist ", "enable ", "energize ", "help ", "strengthen ", "invigorate "]}

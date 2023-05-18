@@ -1,0 +1,1 @@
+{"index": 23312, "D": "a typist trained to type from a dictating machine", "S": [], "A": []}

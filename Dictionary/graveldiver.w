@@ -1,0 +1,1 @@
+{"index": 129313, "D": "any of several eellike fishes of the family Scytalinidae, found off the Pacific coast of North America,  especially Scytalina cerdale, which burrows among rocks.", "S": [], "A": []}

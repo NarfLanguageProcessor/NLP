@@ -1,0 +1,1 @@
+{"index": 308398, "D": "a navy officer ranking next below a lieutenant. ", "S": [], "A": []}

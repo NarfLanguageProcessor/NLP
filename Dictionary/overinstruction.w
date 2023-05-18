@@ -1,0 +1,1 @@
+{"index": 219871, "D": "the act or practice of instructing  or teaching; education.", "S": [], "A": []}

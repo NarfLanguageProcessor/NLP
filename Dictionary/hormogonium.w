@@ -1,0 +1,1 @@
+{"index": 143816, "D": "a portion of filament in cyanobacteria  that becomes detached and reproduces by cell division.", "S": [], "A": []}

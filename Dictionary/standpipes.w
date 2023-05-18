@@ -1,0 +1,1 @@
+{"index": 302704, "D": "a vertical pipe  or tower into which water is pumped to obtain a required head.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 292015, "D": "behavioral characteristics of a group perceived as parallel to or inferable from the personality structure of an individual.", "S": [], "A": []}

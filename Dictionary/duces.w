@@ -1,0 +1,1 @@
+{"index": 93725, "D": "a leader or dictator.", "S": [], "A": []}

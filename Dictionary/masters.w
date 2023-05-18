@@ -1,0 +1,1 @@
+{"index": 180872, "D": "U.S. poet and novelist.", "S": ["administrator ", "boss ", "commander ", "director ", "guru ", "instructor ", "judge ", "manager ", "owner ", "ruler ", "teacher "], "A": ["employee ", "follower ", "pupil ", "student ", "worker "]}

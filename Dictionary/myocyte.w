@@ -1,0 +1,1 @@
+{"index": 188104, "D": "a contractile cell, especially an elongated cell in sponges that forms a sphincter around body openings.", "S": [], "A": []}

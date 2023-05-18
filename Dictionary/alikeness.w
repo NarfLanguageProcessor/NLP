@@ -1,0 +1,1 @@
+{"index": 8276, "D": "in the same manner or form; similarly", "S": ["affinity ", "agreement ", "analogy ", "comparison ", "correspondence ", "equivalence ", "resemblance ", "sameness ", "similarity ", "similitude ", "uniformity ", "uniformness "], "A": ["difference ", "disagreement ", "dissimilarity ", "unlikeness "]}

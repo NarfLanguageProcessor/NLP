@@ -1,0 +1,1 @@
+{"index": 322861, "D": "a person or thing that throws. ", "S": [], "A": []}

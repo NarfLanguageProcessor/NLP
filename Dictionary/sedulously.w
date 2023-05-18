@@ -1,0 +1,1 @@
+{"index": 283050, "D": "diligent in application or attention; persevering; assiduous.", "S": ["actively ", "assiduously ", "busily ", "energetically ", "laboriously ", "steadily ", "vigorously "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55238, "D": "a grayish-white, crystalline powder, C17H19ClN2S, derived from phenothiazine, used chiefly to inhibit nausea and vomiting and as a major tranquilizer in the management of schizophrenia and related psychoses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196941, "D": "a method of psychological investigation in which the conscious or unconscious unwillingness of a subject to express memories or feelings is diminished by the use of a barbiturate drug.", "S": [], "A": []}

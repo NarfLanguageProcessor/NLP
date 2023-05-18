@@ -1,0 +1,1 @@
+{"index": 279549, "D": "a disgraceful or discreditable action, circumstance, etc.", "S": [], "A": []}

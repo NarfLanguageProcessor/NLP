@@ -1,0 +1,1 @@
+{"index": 311935, "D": "of or relating to the glottis. ", "S": [], "A": []}

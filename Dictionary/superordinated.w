@@ -1,0 +1,1 @@
+{"index": 312361, "D": "of higher degree in condition or rank.", "S": [], "A": []}

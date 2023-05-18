@@ -1,0 +1,1 @@
+{"index": 242943, "D": "characterized by an ostentatious display of dignity or importance", "S": ["boastful ", "bombastic ", "grandiose ", "imperious ", "overbearing ", "presumptuous ", "pretentious ", "self-centered ", "self-important ", "selfish "], "A": ["humble ", "modest ", "unselfish "]}

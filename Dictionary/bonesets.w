@@ -1,0 +1,1 @@
+{"index": 37866, "D": "any composite plant of the genus Eupatorium, especially E. perfoliatum, of North America, having white flowers in a flat-topped cluster.", "S": [], "A": []}

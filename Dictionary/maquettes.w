@@ -1,0 +1,1 @@
+{"index": 179757, "D": "a small model or study in three dimensions for either a sculptural or an architectural project.", "S": [], "A": []}

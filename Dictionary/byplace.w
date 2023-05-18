@@ -1,0 +1,1 @@
+{"index": 34676, "D": [], "S": ["breach ", "chink ", "cleft ", "crack ", "crevice ", "fissure ", "gap ", "hole ", "interstice ", "niche "], "A": ["closing ", "closure ", "solid "]}

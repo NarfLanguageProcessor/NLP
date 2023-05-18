@@ -1,0 +1,1 @@
+{"index": 115799, "D": "(used to express contempt or disgust.)", "S": [], "A": []}

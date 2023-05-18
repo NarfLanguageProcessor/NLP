@@ -1,0 +1,1 @@
+{"index": 96447, "D": "a sensory organ of lower animals, having a light-perceiving function.", "S": [], "A": []}

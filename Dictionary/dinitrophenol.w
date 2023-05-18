@@ -1,0 +1,1 @@
+{"index": 86151, "D": "any of the six isomers consisting of phenol where two hydrogen atoms are substituted by nitro groups, C6H4N2O5, used in dyes and wood preservatives, and in biochemistry to uncouple oxidative phosphorylation.", "S": [], "A": []}

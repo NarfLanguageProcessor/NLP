@@ -1,0 +1,1 @@
+{"index": 233707, "D": "a flattened stem or branch having the function of a leaf.", "S": [], "A": []}

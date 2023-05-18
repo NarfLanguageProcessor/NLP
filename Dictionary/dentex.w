@@ -1,0 +1,1 @@
+{"index": 81285, "D": "a large active predatory sparid fish, Dentex dentex, of Mediterranean and E Atlantic waters, having long sharp teeth and powerful jaws", "S": [], "A": []}

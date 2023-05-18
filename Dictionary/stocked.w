@@ -1,0 +1,1 @@
+{"index": 304917, "D": "a supply of goods kept on hand for sale to customers by a merchant, distributor, manufacturer, etc.; inventory.", "S": ["adequate ", "big ", "chock-full ", "complete ", "crowded ", "entire ", "intact ", "packed ", "sufficient "], "A": ["defective ", "deficient ", "empty ", "inadequate ", "incomplete ", "insufficient ", "lacking ", "wanting ", "unloaded "]}

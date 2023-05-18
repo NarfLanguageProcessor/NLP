@@ -1,0 +1,1 @@
+{"index": 130674, "D": "a greenish-brown resin obtained from the guaiacum  tree, especially from Guaiacum officinale, used in varnishes, as a food preservative, and in medicine in various tests for the presence of blood.", "S": [], "A": []}

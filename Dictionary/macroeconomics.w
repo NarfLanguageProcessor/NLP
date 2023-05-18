@@ -1,0 +1,1 @@
+{"index": 176950, "D": "the branch of economics  dealing with the broad and general aspects of an economy, as the relationship between the income and investments of a country as a whole.", "S": [], "A": []}

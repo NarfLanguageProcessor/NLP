@@ -1,0 +1,1 @@
+{"index": 177286, "D": "ancient name of the river Menderes (def. 1) Also spelt", "S": [], "A": []}

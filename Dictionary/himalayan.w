@@ -1,0 +1,1 @@
+{"index": 139540, "D": "of or relating to the Himalayas or their inhabitants", "S": [], "A": []}

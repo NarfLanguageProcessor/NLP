@@ -1,0 +1,1 @@
+{"index": 142024, "D": "a hero sandwich.", "S": ["hero ", "sandwich ", "submarine "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 327914, "D": "to transfer or pass from one to another; transmit; instill", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265391, "D": "to make or keep cold or cool, as for preservation.", "S": ["chilly ", "frigid ", "frosty ", "refreshing "], "A": ["hot ", "warm "]}

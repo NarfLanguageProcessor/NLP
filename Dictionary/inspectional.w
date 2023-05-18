@@ -1,0 +1,1 @@
+{"index": 153760, "D": "the act of inspecting  or viewing, especially carefully or critically", "S": [], "A": []}

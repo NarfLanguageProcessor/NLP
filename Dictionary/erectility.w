@@ -1,0 +1,1 @@
+{"index": 103525, "D": "capable of being erected or set upright.", "S": [], "A": []}

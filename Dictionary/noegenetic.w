@@ -1,0 +1,1 @@
+{"index": 200731, "D": "the production of new knowledge from sensory or intellectual experience.", "S": [], "A": []}

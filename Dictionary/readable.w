@@ -1,0 +1,1 @@
+{"index": 261553, "D": "easy or interesting to read. ", "S": ["coherent ", "comprehensible ", "lucid ", "precise ", "straightforward "], "A": ["unintelligible "]}

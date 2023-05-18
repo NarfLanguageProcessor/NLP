@@ -1,0 +1,1 @@
+{"index": 202103, "D": "not commissioned, applied especially to military officers, as sergeants and corporals, ranking below warrant officer.", "S": [], "A": []}

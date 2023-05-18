@@ -1,0 +1,1 @@
+{"index": 349040, "D": "the quality of being rapacious, or given to seizing things for plunder", "S": [], "A": []}

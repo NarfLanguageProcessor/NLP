@@ -1,0 +1,1 @@
+{"index": 273532, "D": "to utter a loud, deep cry or howl, as in excitement, distress, or anger.", "S": [], "A": []}

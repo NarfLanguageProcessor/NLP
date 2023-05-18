@@ -1,0 +1,1 @@
+{"index": 215687, "D": "abnormal hardening and increase in density of bone.", "S": [], "A": []}

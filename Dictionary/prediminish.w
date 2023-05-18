@@ -1,0 +1,1 @@
+{"index": 246967, "D": "to make or cause to seem smaller, less, less important, etc.; lessen; reduce.", "S": [], "A": []}

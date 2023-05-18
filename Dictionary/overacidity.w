@@ -1,0 +1,1 @@
+{"index": 218134, "D": "the quality or state of being acid. ", "S": [], "A": []}

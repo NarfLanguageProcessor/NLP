@@ -1,0 +1,1 @@
+{"index": 27595, "D": "a boxer or other contestant intermediate in weight  between a flyweight and a featherweight, especially a professional boxer weighing up to 118 pounds.", "S": [], "A": []}

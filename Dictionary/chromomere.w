@@ -1,0 +1,1 @@
+{"index": 56333, "D": "one of the beadlike granules arranged in a linear series in a chromonema.", "S": [], "A": []}

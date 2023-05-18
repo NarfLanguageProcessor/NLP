@@ -1,0 +1,1 @@
+{"index": 108407, "D": "grossly excessive; exorbitant", "S": ["avaricious ", "bloodsucking ", "corrupt ", "exacting ", "greedy ", "rapacious ", "severe "], "A": []}

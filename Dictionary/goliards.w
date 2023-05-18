@@ -1,0 +1,1 @@
+{"index": 127592, "D": "one of a class of wandering scholar-poets in Germany, France, and England, chiefly in the 12th and 13th centuries, noted as the authors of satirical Latin verse written in celebration of conviviality, sensual pleasures, etc.", "S": [], "A": []}

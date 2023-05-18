@@ -1,0 +1,1 @@
+{"index": 50727, "D": "a member of a religious order living in a convent or community.", "S": [], "A": []}

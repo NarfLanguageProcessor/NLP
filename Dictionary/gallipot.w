@@ -1,0 +1,1 @@
+{"index": 121415, "D": "a small glazed pot used by apothecaries for medicines, confections, or the like.", "S": ["dispenser ", "druggist "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 298401, "D": "to refrain from harming or destroying; leave uninjured; forbear to punish, hurt, or destroy", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52772, "D": "to grill  or broil over a charcoal  fire.", "S": [], "A": []}

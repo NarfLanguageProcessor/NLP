@@ -1,0 +1,1 @@
+{"index": 302035, "D": "(in England) a country gentleman, especially the chief landed proprietor in a district.", "S": ["assist ", "attend ", "chaperon ", "companion ", "date ", "escort ", "serve "], "A": ["neglect "]}

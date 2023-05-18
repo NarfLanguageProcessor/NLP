@@ -1,0 +1,1 @@
+{"index": 142395, "D": "the iron or strap on the shaft of a horse-drawn vehicle to which the breeching of the harness is attached, enabling the horse to hold back or to back the vehicle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294544, "D": "an artificial channel for conducting water, often fitted with a gate (sluice gate ) at the upper end for regulating the flow.", "S": ["cascade ", "discharge ", "drain ", "flood ", "flow ", "gush ", "rush ", "spew ", "spill ", "splash ", "stream ", "swarm "], "A": ["trickle ", "cease ", "halt ", "repress ", "stop ", "suppress "]}

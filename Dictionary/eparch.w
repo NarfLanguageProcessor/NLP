@@ -1,0 +1,1 @@
+{"index": 102026, "D": "the prefect or governor of an eparchy.", "S": [], "A": []}

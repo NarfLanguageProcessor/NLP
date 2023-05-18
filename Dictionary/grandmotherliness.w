@@ -1,0 +1,1 @@
+{"index": 128867, "D": "of or characteristic of a grandmother. ", "S": [], "A": []}

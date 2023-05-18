@@ -1,0 +1,1 @@
+{"index": 205249, "D": "of or relating to a nonmetal.", "S": [], "A": []}

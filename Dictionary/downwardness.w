@@ -1,0 +1,1 @@
+{"index": 92355, "D": "from a higher to a lower place or condition.", "S": [], "A": []}

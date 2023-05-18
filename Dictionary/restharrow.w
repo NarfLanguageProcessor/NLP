@@ -1,0 +1,1 @@
+{"index": 269907, "D": "a low, pink-flowered European shrub, Ononis spinosa, of the legume family, having tough roots that hinder the plow or harrow. ", "S": [], "A": []}

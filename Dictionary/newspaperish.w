@@ -1,0 +1,1 @@
+{"index": 199464, "D": "a printed publication issued at regular and usually close intervals, especially daily or weekly, and commonly containing news,  comment, features, and advertising", "S": [], "A": []}

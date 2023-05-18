@@ -1,0 +1,1 @@
+{"index": 6364, "D": "to suffer extreme pain or anguish; be in agony. ", "S": [], "A": []}

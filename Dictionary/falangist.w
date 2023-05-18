@@ -1,0 +1,1 @@
+{"index": 109403, "D": "a member of the Falange.", "S": [], "A": []}

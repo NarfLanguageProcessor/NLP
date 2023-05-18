@@ -1,0 +1,1 @@
+{"index": 123898, "D": "geologic; geological.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332989, "D": "of or relating to the ancient Italian city of Tusculum or its inhabitants", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176625, "D": "a macadamized  road or pavement.", "S": ["sand ", "shale "], "A": []}

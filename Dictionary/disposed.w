@@ -1,0 +1,1 @@
+{"index": 89135, "D": "having a certain inclination or disposition;  inclined (usually followed by to or an infinitive)", "S": ["biased ", "game ", "given ", "minded ", "predisposed ", "ready ", "subject ", "willing "], "A": ["disinclined ", "unwilling "]}

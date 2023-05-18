@@ -1,0 +1,1 @@
+{"index": 350464, "D": "to take or gather (something usable) from discarded material.", "S": [], "A": []}

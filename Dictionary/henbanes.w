@@ -1,0 +1,1 @@
+{"index": 136528, "D": "an Old World plant, Hyoscyamus niger, of the nightshade family, having sticky, hairy fetid foliage and greenish-yellow flowers, and possessing narcotic and poisonous properties especially destructive to domestic fowls.", "S": [], "A": []}

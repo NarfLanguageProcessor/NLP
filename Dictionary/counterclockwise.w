@@ -1,0 +1,1 @@
+{"index": 70715, "D": "in a direction opposite to that of the normal rotation of the hands of a clock; not clockwise. ", "S": ["revolving "], "A": []}

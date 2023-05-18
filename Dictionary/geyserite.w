@@ -1,0 +1,1 @@
+{"index": 123144, "D": "a variety of siliceous sinter deposited about the orifices of geysers  and hot springs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 264446, "D": "the practice of delaying a child from starting kindergarten for one year, believed by some parents to give the child academic, athletic, and social advantages", "S": [], "A": []}

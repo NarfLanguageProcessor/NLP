@@ -1,0 +1,1 @@
+{"index": 187136, "D": "a unit of distance on land in English-speaking countries equal to 5,280 feet, or 1,760 yards (1.609 kilometers).", "S": ["square ", "statute "], "A": []}

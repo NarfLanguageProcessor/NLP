@@ -1,0 +1,1 @@
+{"index": 62410, "D": "(of a verbal mood or form) expressing encouragement or exhortation.", "S": [], "A": []}

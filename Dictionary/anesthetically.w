@@ -1,0 +1,1 @@
+{"index": 12588, "D": "a substance that produces anesthesia,  as halothane, procaine, or ether.", "S": [], "A": []}

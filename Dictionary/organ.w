@@ -1,0 +1,1 @@
+{"index": 214345, "D": "a musical instrument consisting of one or more sets of pipes sounded by means of compressed air, played by means of one or more keyboards, and capable of producing a wide range of musical effects.", "S": ["agency ", "forum ", "instrument ", "member ", "ministry ", "mouthpiece ", "structure ", "unit "], "A": []}

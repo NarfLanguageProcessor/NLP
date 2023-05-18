@@ -1,0 +1,1 @@
+{"index": 239755, "D": "a variant spelling of Pliocene", "S": [], "A": []}

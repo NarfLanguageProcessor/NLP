@@ -1,0 +1,1 @@
+{"index": 54212, "D": "the head or leader of an organized body of people; the person highest in authority", "S": ["leading ", "main ", "preeminent ", "prime ", "principal "], "A": ["auxiliary ", "extra ", "inferior ", "minor ", "secondary ", "subordinate ", "unimportant ", "bad ", "inessential ", "insignificant ", "lower ", "nonessential ", "poor "]}

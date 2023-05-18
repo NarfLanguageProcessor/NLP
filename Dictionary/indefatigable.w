@@ -1,0 +1,1 @@
+{"index": 150704, "D": "incapable of being tired out; not yielding to fatigue; untiring.", "S": ["assiduous ", "diligent ", "dogged ", "energetic ", "inexhaustible ", "painstaking ", "relentless ", "tireless ", "unflagging ", "unwavering ", "vigorous "], "A": ["changing ", "idle ", "inactive ", "indifferent ", "lazy ", "lethargic ", "negligent ", "tired ", "wavering "]}

@@ -1,0 +1,1 @@
+{"index": 83399, "D": "a mouth that develops separately from the blastopore.", "S": [], "A": []}

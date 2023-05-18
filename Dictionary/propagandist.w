@@ -1,0 +1,1 @@
+{"index": 252506, "D": "a person involved in producing or spreading propaganda. ", "S": ["activist ", "advocator ", "apostle ", "missionary ", "proponent "], "A": []}

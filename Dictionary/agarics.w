@@ -1,0 +1,1 @@
+{"index": 5914, "D": "any fungus of the family Agaricaceae, including several common edible mushrooms.", "S": [], "A": []}

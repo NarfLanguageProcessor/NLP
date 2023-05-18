@@ -1,0 +1,1 @@
+{"index": 68311, "D": "the pelt of a raccoon.", "S": ["Davy Crockett hat ", "coonskin cap "], "A": []}

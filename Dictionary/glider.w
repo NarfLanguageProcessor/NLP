@@ -1,0 +1,1 @@
+{"index": 126315, "D": "a motorless, heavier-than-air aircraft for gliding  from a higher to a lower level by the action of gravity or from a lower to a higher level by the action of air currents.", "S": [], "A": []}

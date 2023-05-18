@@ -1,0 +1,1 @@
+{"index": 263009, "D": "capable of being closed  again easily or tightly after opening", "S": [], "A": []}

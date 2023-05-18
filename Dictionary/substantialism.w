@@ -1,0 +1,1 @@
+{"index": 309290, "D": "the doctrine that substantial  noumena exist as a basis for phenomena.", "S": [], "A": []}

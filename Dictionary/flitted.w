@@ -1,0 +1,1 @@
+{"index": 114762, "D": "to move lightly and swiftly; fly, dart, or skim along", "S": ["dart ", "flicker ", "hover ", "whiz ", "zip "], "A": ["decelerate ", "delay ", "halt ", "slow ", "walk "]}

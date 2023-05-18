@@ -1,0 +1,1 @@
+{"index": 132065, "D": "an apparatus for counting the number of cells in a quantity of blood, typically consisting of a graduated pipette for drawing and diluting the blood and a ruled glass slide on which the cells are counted under a microscope", "S": [], "A": []}

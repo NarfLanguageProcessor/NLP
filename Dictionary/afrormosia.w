@@ -1,0 +1,1 @@
+{"index": 5609, "D": "a tree, Pericopsis elata (or Afrormosia elata), of western Africa, having wood that resembles teak and is used in cabinetwork.", "S": [], "A": []}

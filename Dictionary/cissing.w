@@ -1,0 +1,1 @@
+{"index": 58420, "D": "the appearance of pinholes, craters, etc, in paintwork due to poor adhesion of the paint to the surface", "S": [], "A": []}

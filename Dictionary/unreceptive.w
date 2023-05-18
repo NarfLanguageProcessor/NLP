@@ -1,0 +1,1 @@
+{"index": 349165, "D": "having the quality of receiving,  taking in, or admitting.", "S": ["akin ", "alike ", "associative ", "cliquish ", "close ", "insular ", "like ", "narrow ", "related ", "reserved ", "restricting ", "restrictive ", "sectarian ", "unfriendly "], "A": ["friendly ", "open ", "welcoming "]}

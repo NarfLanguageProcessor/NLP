@@ -1,0 +1,1 @@
+{"index": 176130, "D": "the lowest level of the proletariat comprising unskilled workers, vagrants, and criminals and characterized by a lack of class identification and solidarity.", "S": [], "A": []}

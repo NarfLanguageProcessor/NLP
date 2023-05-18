@@ -1,0 +1,1 @@
+{"index": 261128, "D": "an obsolete variant of ratin\u00e9. ", "S": [], "A": []}

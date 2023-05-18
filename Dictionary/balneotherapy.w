@@ -1,0 +1,1 @@
+{"index": 27098, "D": "the treatment of diseases, injuries, and other physical ailments with baths and bathing, especially in natural mineral waters.", "S": [], "A": []}

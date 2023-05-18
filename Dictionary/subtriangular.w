@@ -1,0 +1,1 @@
+{"index": 309595, "D": "pertaining to or having the form of a triangle;  three-cornered.", "S": [], "A": []}

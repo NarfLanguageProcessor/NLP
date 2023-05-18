@@ -1,0 +1,1 @@
+{"index": 216441, "D": "the course of such a ball.", "S": [], "A": []}

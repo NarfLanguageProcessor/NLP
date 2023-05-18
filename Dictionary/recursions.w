@@ -1,0 +1,1 @@
+{"index": 263801, "D": "the process of defining a function or calculating a number by the repeated application of an algorithm.", "S": [], "A": []}

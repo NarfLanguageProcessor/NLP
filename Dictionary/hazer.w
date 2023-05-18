@@ -1,0 +1,1 @@
+{"index": 134546, "D": "a person or thing that hazes. ", "S": [], "A": []}

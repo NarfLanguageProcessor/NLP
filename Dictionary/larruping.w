@@ -1,0 +1,1 @@
+{"index": 168661, "D": "very; exceedingly", "S": ["ambush ", "assail ", "assault ", "beat ", "besiege ", "blast ", "bombard ", "charge ", "harm ", "hit ", "hurt ", "infiltrate ", "invade ", "raid ", "stab ", "storm ", "strike "], "A": ["aid ", "assist ", "guard ", "help ", "leave alone ", "lose ", "protect ", "retreat ", "surrender ", "decrease "]}

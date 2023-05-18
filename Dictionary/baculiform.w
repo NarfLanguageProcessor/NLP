@@ -1,0 +1,1 @@
+{"index": 26148, "D": "having the shape of a rod;  rod-shaped.", "S": [], "A": []}

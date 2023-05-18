@@ -1,0 +1,1 @@
+{"index": 148179, "D": "treatment designed to produce immunity to a disease or enhance the resistance of the immune system to an active disease process, as cancer.", "S": [], "A": []}

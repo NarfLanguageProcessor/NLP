@@ -1,0 +1,1 @@
+{"index": 164727, "D": "an instrument for measuring and graphically recording variations in fluid pressure, as those of the human pulse.", "S": [], "A": []}

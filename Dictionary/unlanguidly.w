@@ -1,0 +1,1 @@
+{"index": 345426, "D": "in a way that lacks vitality or energy; lazily", "S": [], "A": []}

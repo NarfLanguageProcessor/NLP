@@ -1,0 +1,1 @@
+{"index": 104184, "D": "the right of succeeding to an escheat. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268964, "D": "to get up from a lying, sitting, or kneeling posture; assume an upright position", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304453, "D": "a person or thing that styles. ", "S": ["barber ", "beautician ", "coiffeur ", "coiffeuse ", "coiffurist ", "hairdresser ", "hairstylist ", "stylist "], "A": []}

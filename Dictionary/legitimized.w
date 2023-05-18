@@ -1,0 +1,1 @@
+{"index": 170170, "D": "to make legitimate. ", "S": ["codify ", "constitute ", "decriminalize ", "legislate ", "regulate "], "A": ["disorganize ", "deny ", "disallow ", "disapprove ", "prevent ", "refuse ", "reject ", "veto "]}

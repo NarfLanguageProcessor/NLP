@@ -1,0 +1,1 @@
+{"index": 109825, "D": "spread out like an open fan", "S": [], "A": []}

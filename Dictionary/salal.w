@@ -1,0 +1,1 @@
+{"index": 276928, "D": "an evergreen shrub, Gaultheria shallon, of the heath family, native to the western coast of North America, having leathery, oblong leaves and clusters of pink or white flowers and purplish-black fruit.", "S": [], "A": []}

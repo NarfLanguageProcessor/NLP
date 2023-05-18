@@ -1,0 +1,1 @@
+{"index": 358716, "D": "the image of the face of Christ, said in legend to have been miraculously impressed on the handkerchief or veil that St. Veronica gave to Him to wipe His face on the way to Calvary.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93478, "D": "a beating; a sound thrashing.", "S": ["beating ", "rout ", "thrashing ", "trouncing ", "whipping "], "A": []}

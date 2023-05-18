@@ -1,0 +1,1 @@
+{"index": 37547, "D": "a large, brilliant meteor, especially one that explodes; fireball. ", "S": ["comet ", "falling star ", "fireball ", "meteorite ", "meteoroid "], "A": []}

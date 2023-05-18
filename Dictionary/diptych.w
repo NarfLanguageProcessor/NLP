@@ -1,0 +1,1 @@
+{"index": 86739, "D": "a hinged two-leaved tablet used in ancient times for writing on with a stylus.", "S": [], "A": []}

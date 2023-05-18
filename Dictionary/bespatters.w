@@ -1,0 +1,1 @@
+{"index": 32477, "D": "to soil by spattering;  splash with water, dirt, etc.", "S": ["smudge "], "A": ["clean "]}

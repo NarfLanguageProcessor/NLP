@@ -1,0 +1,1 @@
+{"index": 337675, "D": "not guided by conscience; unscrupulous. ", "S": ["awfully ", "ever ", "exceptionally ", "extremely ", "highly ", "immensely ", "overly ", "remarkably ", "unduly ", "very "], "A": ["little ", "moderately "]}

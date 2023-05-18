@@ -1,0 +1,1 @@
+{"index": 222159, "D": "a U-shaped piece of wood placed under and around the neck of an ox with its upper ends in the bar of the yoke.", "S": [], "A": []}

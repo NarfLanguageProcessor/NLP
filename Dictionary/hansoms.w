@@ -1,0 +1,1 @@
+{"index": 133425, "D": "a low-hung, two-wheeled, covered vehicle drawn by one horse, for two passengers, with the driver being mounted on an elevated seat behind and the reins running over the roof.", "S": [], "A": []}

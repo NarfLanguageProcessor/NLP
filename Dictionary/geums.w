@@ -1,0 +1,1 @@
+{"index": 124459, "D": "any plant of the genus Geum, comprising the avens.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353727, "D": "(of an animal) having a gland or glands for secreting venom;  able to inflict a poisoned bite, sting, or wound", "S": [], "A": []}

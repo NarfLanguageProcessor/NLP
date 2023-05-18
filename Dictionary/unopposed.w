@@ -1,0 +1,1 @@
+{"index": 347174, "D": "elected unopposed as party president", "S": ["unanimous ", "uncontested ", "unimpeded "], "A": ["challenged ", "opposed "]}

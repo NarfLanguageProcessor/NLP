@@ -1,0 +1,1 @@
+{"index": 276903, "D": "a salutation meaning \u201cpeace,\u201d used especially in Islamic countries.", "S": ["bend ", "bow ", "genuflect ", "obeisance ", "salutation ", "salute "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104579, "D": "a worsted fabric constructed in twill weave with a rough surface.", "S": [], "A": []}

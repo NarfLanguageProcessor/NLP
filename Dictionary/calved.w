@@ -1,0 +1,1 @@
+{"index": 45513, "D": "to give birth to a calf", "S": [], "A": []}

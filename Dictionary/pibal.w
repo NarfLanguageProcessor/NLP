@@ -1,0 +1,1 @@
+{"index": 235769, "D": "the measurement and computation of the speed and direction of winds by theodolitic tracking of a pilot balloon.", "S": [], "A": []}

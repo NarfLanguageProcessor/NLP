@@ -1,0 +1,1 @@
+{"index": 211017, "D": "a company of eight singers or musicians.", "S": ["octad ", "octagon ", "octave "], "A": []}

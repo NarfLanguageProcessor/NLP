@@ -1,0 +1,1 @@
+{"index": 35314, "D": "a white crystalline substance, C2H5O2N3\u22c5H2O, soluble in water and alcohol, used for the identification of urea, from which it is formed on heating.", "S": [], "A": []}

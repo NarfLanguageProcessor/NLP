@@ -1,0 +1,1 @@
+{"index": 311774, "D": "pertaining to or in keeping with the gospel and its teachings.", "S": [], "A": []}

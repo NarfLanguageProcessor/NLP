@@ -1,0 +1,1 @@
+{"index": 265988, "D": "heating again.", "S": ["bake ", "boil ", "broil ", "grill ", "ignite ", "melt ", "roast ", "sear ", "steam ", "thaw ", "toast ", "warm "], "A": ["freeze ", "put out "]}

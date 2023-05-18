@@ -1,0 +1,1 @@
+{"index": 258691, "D": "of or relating to a period of 15 years or the 15th occurrence of a series, as an anniversary.", "S": [], "A": []}

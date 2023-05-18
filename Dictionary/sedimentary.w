@@ -1,0 +1,1 @@
+{"index": 282999, "D": "of, relating to, or of the nature of sediment. ", "S": ["confused ", "dark ", "dense ", "heavy ", "impure ", "muddled ", "muddy ", "murky ", "obscure ", "polluted ", "roily ", "thick ", "unclear ", "unsettled "], "A": ["clear "]}

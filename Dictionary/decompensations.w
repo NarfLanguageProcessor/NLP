@@ -1,0 +1,1 @@
+{"index": 78612, "D": "the inability of a diseased heart to compensate for its defect.", "S": [], "A": []}

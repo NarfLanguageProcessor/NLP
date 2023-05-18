@@ -1,0 +1,1 @@
+{"index": 160194, "D": "a seaport in and the capital of Indonesia, on the northwestern coast of Java.", "S": [], "A": []}

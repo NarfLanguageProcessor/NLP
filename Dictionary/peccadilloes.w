@@ -1,0 +1,1 @@
+{"index": 228557, "D": "a very minor or slight sin or offense; a trifling fault.", "S": ["impropriety ", "indiscretion "], "A": []}

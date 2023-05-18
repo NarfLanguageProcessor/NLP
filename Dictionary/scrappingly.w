@@ -1,0 +1,1 @@
+{"index": 281603, "D": "a small piece or portion; fragment", "S": [], "A": []}

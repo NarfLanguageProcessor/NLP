@@ -1,0 +1,1 @@
+{"index": 13326, "D": "not isometric;  of unequal measurement.", "S": [], "A": []}

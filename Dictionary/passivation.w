@@ -1,0 +1,1 @@
+{"index": 227361, "D": "to treat (a metal) to render the surface less reactive chemically.", "S": [], "A": []}

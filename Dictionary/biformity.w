@@ -1,0 +1,1 @@
+{"index": 33664, "D": "having or combining two forms, as a centaur or mermaid.", "S": ["polarity "], "A": []}

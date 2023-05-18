@@ -1,0 +1,1 @@
+{"index": 191100, "D": "a person who follows or favors modern  ways, tendencies, etc.", "S": [], "A": []}

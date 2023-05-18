@@ -1,0 +1,1 @@
+{"index": 186143, "D": "a fossil  so small that it can be studied and identified only with a microscope.", "S": [], "A": []}

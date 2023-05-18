@@ -1,0 +1,1 @@
+{"index": 36448, "D": "(in fox hunting) an informal initiation ceremony in which the face of a novice is smeared with the blood  of the first fox that person has seen killed.", "S": [], "A": []}

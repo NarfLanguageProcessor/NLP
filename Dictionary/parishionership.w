@@ -1,0 +1,1 @@
+{"index": 226530, "D": "one of the community or inhabitants of a parish.", "S": [], "A": []}

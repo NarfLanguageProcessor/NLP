@@ -1,0 +1,1 @@
+{"index": 302969, "D": "to disturb or agitate suddenly as by surprise or alarm.", "S": [], "A": []}

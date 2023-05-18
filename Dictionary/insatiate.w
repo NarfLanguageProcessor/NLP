@@ -1,0 +1,1 @@
+{"index": 153411, "D": "insatiable", "S": ["eager ", "hungry ", "impatient ", "rapacious ", "selfish "], "A": ["abstemious ", "benevolent ", "charitable ", "extravagant ", "generous ", "liberal ", "philanthropic "]}

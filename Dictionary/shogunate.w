@@ -1,0 +1,1 @@
+{"index": 288738, "D": "the office or rule of a shogun. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86883, "D": "an enzyme that catalyzes the hydrolysis of disaccharides,  as sucrose or lactose, to produce monosaccharides, as fructose or glucose.", "S": [], "A": []}

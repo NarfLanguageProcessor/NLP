@@ -1,0 +1,1 @@
+{"index": 185221, "D": "a colorless, flammable, volatile liquid, C3H8O2, having a chloroformlike odor, used chiefly as a solvent, in perfumery, and in organic synthesis.", "S": [], "A": []}

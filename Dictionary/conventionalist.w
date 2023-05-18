@@ -1,0 +1,1 @@
+{"index": 67976, "D": "conforming or adhering to accepted standards, as of conduct or taste", "S": ["bourgeois ", "emulator ", "follower ", "sheep ", "traditionalist "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62894, "D": "having control of one's faculties; self-possessed", "S": ["cool ", "poised ", "possessed ", "quiet ", "still "], "A": ["agitated "]}

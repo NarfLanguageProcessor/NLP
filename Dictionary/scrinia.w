@@ -1,0 +1,1 @@
+{"index": 281858, "D": "a cylindrical container used in ancient Rome to hold papyrus rolls.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86965, "D": "contrary to one's taste or liking; unpleasant; offensive; repugnant.", "S": ["inhospitality ", "repellent ", "undesirable ", "ungraciousness "], "A": []}

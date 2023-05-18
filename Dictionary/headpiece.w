@@ -1,0 +1,1 @@
+{"index": 134675, "D": "a piece  of armor for the head;  helmet.", "S": ["fedora ", "headgear ", "helmet "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8240, "D": "a creature from outer space; extraterrestrial. ", "S": ["foreigner ", "immigrant ", "intruder ", "migrant ", "outsider ", "refugee ", "settler ", "stranger ", "visitor "], "A": ["local ", "national ", "native "]}

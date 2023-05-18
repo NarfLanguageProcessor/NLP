@@ -1,0 +1,1 @@
+{"index": 86019, "D": "to make more active, productive, or the like; energize", "S": ["amaze ", "animate ", "astonish ", "astound ", "disturb ", "energize ", "excite ", "galvanize ", "invigorate ", "jolt ", "rouse ", "startle ", "stir ", "stun "], "A": ["bore ", "calm ", "comfort ", "compose ", "deaden ", "depress ", "discourage ", "dull ", "expect ", "pacify ", "quiet "]}

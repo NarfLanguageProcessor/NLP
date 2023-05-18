@@ -1,0 +1,1 @@
+{"index": 21277, "D": "defective coordination between parts, as muscles or limbs, that normally act in unison.", "S": [], "A": []}

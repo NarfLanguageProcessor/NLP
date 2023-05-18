@@ -1,0 +1,1 @@
+{"index": 341323, "D": "to supply with riches, wealth, abundant or valuable possessions, etc.", "S": [], "A": []}

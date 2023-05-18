@@ -1,0 +1,1 @@
+{"index": 244816, "D": "a person who makes pottery. ", "S": [], "A": []}

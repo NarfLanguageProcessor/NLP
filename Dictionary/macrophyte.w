@@ -1,0 +1,1 @@
+{"index": 177016, "D": "a plant, especially a marine plant, large enough to be visible to the naked eye.", "S": [], "A": []}

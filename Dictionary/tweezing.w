@@ -1,0 +1,1 @@
+{"index": 333255, "D": "to pluck, as with tweezers. ", "S": [], "A": []}

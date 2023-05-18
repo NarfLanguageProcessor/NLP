@@ -1,0 +1,1 @@
+{"index": 183583, "D": "one of the seven chief devils and the tempter of Faust.", "S": ["Beelzebub ", "Lucifer ", "Satan ", "adversary ", "dastard ", "djinn ", "fiend ", "genie ", "hellion ", "imp ", "monster ", "ogre ", "rogue ", "villain "], "A": ["angel ", "god "]}

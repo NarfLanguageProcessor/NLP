@@ -1,0 +1,1 @@
+{"index": 204684, "D": "constant, energetic, or devoted effort; diligence", "S": [], "A": []}

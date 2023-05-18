@@ -1,0 +1,1 @@
+{"index": 59492, "D": "a syntactic construction containing a subject and predicate and forming part of a sentence or constituting a whole simple sentence.", "S": [], "A": []}

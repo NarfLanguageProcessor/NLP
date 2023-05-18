@@ -1,0 +1,1 @@
+{"index": 64432, "D": "to divide into separate and isolated categories, sections, areas, or compartments", "S": ["break up ", "cut off ", "insulate "], "A": ["disorder ", "disorganize ", "keep ", "mix up "]}

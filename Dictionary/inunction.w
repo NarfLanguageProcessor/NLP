@@ -1,0 +1,1 @@
+{"index": 156950, "D": "the act of anointing. ", "S": [], "A": []}

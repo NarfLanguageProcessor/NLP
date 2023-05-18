@@ -1,0 +1,1 @@
+{"index": 46810, "D": "a large grouse, Tetrao urogallus, of Eurasian forests.", "S": [], "A": []}

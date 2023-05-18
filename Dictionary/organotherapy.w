@@ -1,0 +1,1 @@
+{"index": 214469, "D": "the branch of therapeutics that deals with the use of remedies prepared from the organs of animals, as from the thyroid gland, the pancreas, or the suprarenal bodies.", "S": [], "A": []}

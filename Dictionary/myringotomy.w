@@ -1,0 +1,1 @@
+{"index": 188413, "D": "surgical incision of the tympanic membrane.", "S": [], "A": []}

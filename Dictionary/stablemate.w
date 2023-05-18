@@ -1,0 +1,1 @@
+{"index": 302175, "D": "a horse sharing a stable  with another.", "S": [], "A": []}

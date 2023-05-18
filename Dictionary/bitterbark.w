@@ -1,0 +1,1 @@
+{"index": 35236, "D": "an Australian tree, Alstonia constricta, with bitter-tasting bark that is used in preparing tonic medicines", "S": [], "A": []}

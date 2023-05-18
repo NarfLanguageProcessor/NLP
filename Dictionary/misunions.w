@@ -1,0 +1,1 @@
+{"index": 190400, "D": "the act of uniting two or more things.", "S": [], "A": []}

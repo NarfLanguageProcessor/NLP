@@ -1,0 +1,1 @@
+{"index": 353373, "D": "in a way that symbolizes victory or success", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 115205, "D": "a container in which to grow and display plants.", "S": ["pot ", "vase "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118569, "D": "king of Denmark 1947\u201372 (son of Christian X).", "S": [], "A": []}

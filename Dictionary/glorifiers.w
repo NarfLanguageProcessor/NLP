@@ -1,0 +1,1 @@
+{"index": 126620, "D": "to cause to be or treat as being more splendid, excellent, etc., than would normally be considered.", "S": [], "A": []}

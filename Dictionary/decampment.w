@@ -1,0 +1,1 @@
+{"index": 77989, "D": "to depart from a camp; to pack up equipment and leave a camping ground", "S": ["abandonment ", "abscondment ", "breakout ", "departure ", "escapement ", "exit ", "flight ", "getaway "], "A": ["arrival ", "coming ", "entrance "]}

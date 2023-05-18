@@ -1,0 +1,1 @@
+{"index": 124476, "D": "of or relating to Ghana or its inhabitants", "S": [], "A": []}

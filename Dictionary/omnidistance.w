@@ -1,0 +1,1 @@
+{"index": 212489, "D": "the distance  between an omnirange station and a receiver.", "S": [], "A": []}

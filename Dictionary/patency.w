@@ -1,0 +1,1 @@
+{"index": 227627, "D": "the state of being patent. ", "S": [], "A": []}

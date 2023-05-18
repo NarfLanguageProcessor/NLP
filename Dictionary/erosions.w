@@ -1,0 +1,1 @@
+{"index": 103914, "D": "the act or state of eroding;  state of being eroded. ", "S": ["corrosion ", "decrease ", "destruction ", "disintegration "], "A": ["building ", "construction ", "rebuilding ", "strengthening "]}

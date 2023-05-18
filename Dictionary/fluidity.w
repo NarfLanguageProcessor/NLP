@@ -1,0 +1,1 @@
+{"index": 115307, "D": "the quality or state of being fluid.", "S": ["facility "], "A": []}

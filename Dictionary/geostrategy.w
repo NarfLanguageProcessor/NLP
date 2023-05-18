@@ -1,0 +1,1 @@
+{"index": 124060, "D": "the study of geopolitics and strategics, esp as they affect the analysis of a region", "S": [], "A": []}

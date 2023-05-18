@@ -1,0 +1,1 @@
+{"index": 262402, "D": "a long woven scarf, often of fine material, worn over the head and shoulders by Spanish and Mexican women.", "S": [], "A": []}

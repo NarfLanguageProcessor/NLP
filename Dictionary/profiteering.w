@@ -1,0 +1,1 @@
+{"index": 251770, "D": "the act or practice of seeking exorbitant profits, especially through the sale of scarce or rationed goods", "S": ["crooked ", "fraudulent ", "nefarious ", "rotten ", "shady ", "unethical ", "unscrupulous ", "untrustworthy ", "venal "], "A": ["ethical ", "good ", "honest ", "honorable ", "moral ", "respectable ", "trustworthy ", "clean ", "pure "]}

@@ -1,0 +1,1 @@
+{"index": 274337, "D": "the larva of any of several insects, as the cucumber beetle, that feeds on the roots  of plants.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246083, "D": "Compare anticyclone, extratropical cyclone, subtropical cyclone, tropical cyclone. ", "S": [], "A": []}

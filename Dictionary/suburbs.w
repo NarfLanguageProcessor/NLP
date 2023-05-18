@@ -1,0 +1,1 @@
+{"index": 309690, "D": "a district lying immediately outside a city or town, especially a smaller residential community.", "S": ["countryside ", "environs ", "hinterland ", "outpost ", "outskirts ", "suburbia ", "village "], "A": ["center ", "metropolis "]}

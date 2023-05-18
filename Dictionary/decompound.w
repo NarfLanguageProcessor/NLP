@@ -1,0 +1,1 @@
+{"index": 78632, "D": "to decompose.", "S": ["determine ", "dissect ", "parse ", "resolve "], "A": ["waver ", "combine ", "connect ", "join ", "marry ", "put together ", "unite "]}

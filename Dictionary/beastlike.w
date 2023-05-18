@@ -1,0 +1,1 @@
+{"index": 29583, "D": "any nonhuman animal, especially a large, four-footed mammal.", "S": ["barbaric ", "barbarous ", "bloodthirsty ", "brutal ", "feral ", "fierce ", "savage ", "untamed ", "violent "], "A": ["docile ", "gentle ", "tame "]}

@@ -1,0 +1,1 @@
+{"index": 314804, "D": "pertaining to or affected with tabes. ", "S": [], "A": []}

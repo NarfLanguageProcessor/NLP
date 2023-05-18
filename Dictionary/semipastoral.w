@@ -1,0 +1,1 @@
+{"index": 284661, "D": "having the simplicity, charm, serenity, or other characteristics generally attributed to rural areas", "S": [], "A": []}

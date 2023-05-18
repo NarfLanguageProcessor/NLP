@@ -1,0 +1,1 @@
+{"index": 74826, "D": "to prepare and work on (land) in order to raise crops; till.", "S": ["civilizing ", "clarifying ", "cleaning ", "distillation ", "elevating ", "focusing ", "honing ", "improving ", "perfecting ", "polishing ", "purifying ", "sharpening "], "A": []}

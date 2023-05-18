@@ -1,0 +1,1 @@
+{"index": 183222, "D": "(formerly, in India) a term of respect for a married European woman.", "S": [], "A": []}

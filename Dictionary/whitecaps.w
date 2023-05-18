@@ -1,0 +1,1 @@
+{"index": 365122, "D": "a wave with a broken and foaming white  crest.", "S": ["billow ", "breaker ", "crest ", "curl ", "fold ", "furrow ", "line ", "rippling ", "rush ", "surge ", "swell ", "tide ", "undulation "], "A": []}

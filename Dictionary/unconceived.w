@@ -1,0 +1,1 @@
+{"index": 337476, "D": "having been formed, originated, or expressed", "S": [], "A": []}

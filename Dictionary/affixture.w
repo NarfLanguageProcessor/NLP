@@ -1,0 +1,1 @@
+{"index": 5422, "D": "the act of affixing; attachment.", "S": [], "A": []}

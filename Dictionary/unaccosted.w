@@ -1,0 +1,1 @@
+{"index": 334456, "D": "(of animals) represented as side by side", "S": [], "A": []}

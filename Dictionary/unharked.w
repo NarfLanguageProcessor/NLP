@@ -1,0 +1,1 @@
+{"index": 343513, "D": "to listen attentively; hearken.", "S": [], "A": []}

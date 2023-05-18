@@ -1,0 +1,1 @@
+{"index": 5400, "D": "affirming  or assenting; asserting the truth, validity, or fact of something.", "S": ["acknowledgment ", "bow ", "greeting ", "permission ", "salute "], "A": []}

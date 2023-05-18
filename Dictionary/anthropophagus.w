@@ -1,0 +1,1 @@
+{"index": 14650, "D": "eaters of human flesh; cannibals.", "S": ["anthropophaginian ", "anthropophagite ", "man-eater ", "people-eater "], "A": []}

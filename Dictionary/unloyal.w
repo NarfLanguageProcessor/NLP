@@ -1,0 +1,1 @@
+{"index": 345762, "D": "faithful to one's sovereign, government, or state", "S": ["disaffected ", "untrustworthy "], "A": ["faithful ", "loyal ", "true ", "trustworthy "]}

@@ -1,0 +1,1 @@
+{"index": 237362, "D": "inflammation of the gums characterized by the discharge of pus and loosening of the teeth; periodontal disease", "S": [], "A": []}

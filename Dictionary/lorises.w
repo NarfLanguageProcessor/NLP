@@ -1,0 +1,1 @@
+{"index": 175318, "D": "any of various small, arboreal, nocturnal mammals of the family Lorisidae, with large eyes and lacking a tail, comprising two genera, Loris (the slender lorises) and Nycticebus (the slow lorises).", "S": [], "A": []}

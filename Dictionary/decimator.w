@@ -1,0 +1,1 @@
+{"index": 78371, "D": "to kill or destroy a great number or proportion of", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 63576, "D": "(on the internet) a top-level domain  appearing as a suffix on domain names  used for commercial establishments.", "S": [], "A": []}

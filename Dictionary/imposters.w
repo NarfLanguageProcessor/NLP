@@ -1,0 +1,1 @@
+{"index": 148938, "D": "a person who practices deception under an assumed character, identity, or name.", "S": ["con artist "], "A": ["honesty "]}

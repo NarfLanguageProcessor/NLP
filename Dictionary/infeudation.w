@@ -1,0 +1,1 @@
+{"index": 151971, "D": "the consequent relationship of lord and vassal", "S": [], "A": []}

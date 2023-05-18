@@ -1,0 +1,1 @@
+{"index": 73547, "D": "any of several acid azo dyes producing orange or scarlet colors.", "S": [], "A": []}

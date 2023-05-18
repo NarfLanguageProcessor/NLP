@@ -1,0 +1,1 @@
+{"index": 326969, "D": "any protist of the genus Toxoplasma, especially T. gondii, the causative agent of toxoplasmosis.", "S": [], "A": []}

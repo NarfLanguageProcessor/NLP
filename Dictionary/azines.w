@@ -1,0 +1,1 @@
+{"index": 25278, "D": "any of a group of six-membered heterocyclic compounds containing one or more nitrogen atoms in the ring, the number of nitrogen atoms present being indicated by a prefix, as in diazine  or triazine. ", "S": [], "A": []}

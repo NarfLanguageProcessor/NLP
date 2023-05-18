@@ -1,0 +1,1 @@
+{"index": 162046, "D": "to vibrate violently", "S": [], "A": []}

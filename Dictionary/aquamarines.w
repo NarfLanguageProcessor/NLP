@@ -1,0 +1,1 @@
+{"index": 18185, "D": "a transparent, light-blue or greenish-blue variety of beryl, used as a gem.", "S": ["aquamarine "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246178, "D": "a person who cleans,  especially one whose regular occupation is cleaning  offices, buildings, equipment, etc.", "S": [], "A": []}

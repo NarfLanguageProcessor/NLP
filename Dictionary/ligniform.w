@@ -1,0 +1,1 @@
+{"index": 172106, "D": "having the form of wood; resembling wood, as a variety of asbestos.", "S": [], "A": []}

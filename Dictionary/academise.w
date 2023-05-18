@@ -1,0 +1,1 @@
+{"index": 1236, "D": "to reduce (a subject) to a rigid set of rules, principles, precepts, etc.", "S": [], "A": []}

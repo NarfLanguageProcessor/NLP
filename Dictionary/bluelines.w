@@ -1,0 +1,1 @@
+{"index": 36759, "D": "a print made on light-sensitive paper and used as a proof for checking the position of stripped-up negatives or positives and copy prior to platemaking.", "S": [], "A": []}

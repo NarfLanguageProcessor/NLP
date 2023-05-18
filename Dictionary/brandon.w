@@ -1,0 +1,1 @@
+{"index": 39930, "D": "a city in SW Manitoba, in S central Canada.", "S": [], "A": []}

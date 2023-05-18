@@ -1,0 +1,1 @@
+{"index": 209367, "D": "any of the class of conjugated proteins  occurring in cells and consisting of a protein  combined with a nucleic acid, essential for cell division and reproduction.", "S": [], "A": []}

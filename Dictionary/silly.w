@@ -1,0 +1,1 @@
+{"index": 290499, "D": "weak-minded or lacking good sense; stupid or foolish", "S": ["childish ", "crazy ", "frivolous ", "idiotic ", "inappropriate ", "irresponsible ", "ludicrous ", "nonsensical ", "pointless ", "preposterous ", "ridiculous ", "simple ", "stupid "], "A": ["intelligent ", "mature ", "reasonable ", "responsible ", "sensible ", "serious ", "smart ", "wise "]}

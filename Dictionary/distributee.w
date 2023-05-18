@@ -1,0 +1,1 @@
+{"index": 89916, "D": "a person who shares in a decedent estate.", "S": [], "A": []}

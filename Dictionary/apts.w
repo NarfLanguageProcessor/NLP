@@ -1,0 +1,1 @@
+{"index": 18150, "D": "inclined; disposed; given; prone", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134581, "D": "a band  worn around the head; fillet. ", "S": ["band ", "bangle ", "bracelet ", "hoop ", "wreath "], "A": []}

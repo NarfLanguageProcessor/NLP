@@ -1,0 +1,1 @@
+{"index": 10197, "D": "resembling or related to amebas. ", "S": [], "A": []}

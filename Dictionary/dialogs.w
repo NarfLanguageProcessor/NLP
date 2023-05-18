@@ -1,0 +1,1 @@
+{"index": 84297, "D": "conversation between two or more persons.", "S": ["chat ", "colloquy ", "communication ", "confab ", "confabulation ", "conference ", "conversation ", "converse ", "discourse ", "discussion ", "duologue ", "interlocution ", "lines ", "parlance ", "parley ", "powwow ", "remarks ", "repartee ", "script ", "sides ", "small talk "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 295666, "D": "a member of a Lushootseed-speaking Indigenous people of Washington State traditionally living around Puget Sound.", "S": [], "A": []}

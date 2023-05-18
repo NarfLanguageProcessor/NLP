@@ -1,0 +1,1 @@
+{"index": 249541, "D": "to engage in thought or reflection; meditate (often followed by on, upon, or a clause).", "S": [], "A": []}

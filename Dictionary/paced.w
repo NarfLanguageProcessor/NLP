@@ -1,0 +1,1 @@
+{"index": 222575, "D": "having a specified or indicated pace  (usually used in combination)", "S": ["clip ", "measure ", "step "], "A": []}

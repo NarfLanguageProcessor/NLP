@@ -1,0 +1,1 @@
+{"index": 131617, "D": "a channel at the side or in the middle of a road or street, for leading off surface water.", "S": ["dip ", "disappear ", "drop ", "duck ", "fall ", "jump ", "leap ", "lunge ", "nose-dive ", "plummet ", "plunge ", "swoop ", "vanish ", "vault "], "A": ["ascend ", "rise "]}

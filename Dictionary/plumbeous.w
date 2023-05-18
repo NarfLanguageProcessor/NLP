@@ -1,0 +1,1 @@
+{"index": 240390, "D": "resembling or containing lead; leaden. ", "S": [], "A": []}

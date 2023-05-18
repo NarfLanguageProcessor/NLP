@@ -1,0 +1,1 @@
+{"index": 125952, "D": "shining with or reflecting a harshly bright or brilliant light.", "S": ["blatant ", "conspicuous ", "egregious ", "flagrant ", "noticeable ", "outrageous "], "A": ["concealed ", "hidden ", "inconspicuous ", "mild ", "obscure ", "secret ", "unnoticeable ", "ambiguous ", "clean ", "moral ", "unclear ", "vague "]}

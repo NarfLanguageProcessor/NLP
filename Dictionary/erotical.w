@@ -1,0 +1,1 @@
+{"index": 103925, "D": "arousing or satisfying sexual desire", "S": [], "A": []}

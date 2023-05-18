@@ -1,0 +1,1 @@
+{"index": 287771, "D": "luster; brightness; radiance.", "S": ["buff ", "furbish ", "glance ", "glaze ", "gloss ", "luster ", "patina ", "rub ", "sheen ", "shine ", "smooth ", "wax "], "A": ["dull "]}

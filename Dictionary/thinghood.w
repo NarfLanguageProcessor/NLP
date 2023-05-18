@@ -1,0 +1,1 @@
+{"index": 321870, "D": "objective reality.", "S": [], "A": []}

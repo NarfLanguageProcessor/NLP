@@ -1,0 +1,1 @@
+{"index": 320684, "D": "to pass or change from a frozen to a liquid or semiliquid state; melt.", "S": ["defrost ", "dissolve ", "loosen ", "melt ", "relax ", "soften ", "warm up "], "A": ["coagulate ", "solidify ", "worry "]}

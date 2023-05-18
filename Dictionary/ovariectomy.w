@@ -1,0 +1,1 @@
+{"index": 218021, "D": "the operation of removing one or both ovaries; oophorectomy.", "S": [], "A": []}

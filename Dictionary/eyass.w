@@ -1,0 +1,1 @@
+{"index": 96326, "D": "a nestling, usually a hawk.", "S": [], "A": []}

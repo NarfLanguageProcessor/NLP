@@ -1,0 +1,1 @@
+{"index": 7216, "D": "a variant spelling of aquavit", "S": [], "A": []}

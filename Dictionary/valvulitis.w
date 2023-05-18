@@ -1,0 +1,1 @@
+{"index": 356870, "D": "inflammation of a valve, especially a heart valve, often caused by rheumatic fever.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11016, "D": "the strength of an electric current measured in amperes. Abbreviation", "S": [], "A": []}

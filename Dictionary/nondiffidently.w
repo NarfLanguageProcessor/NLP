@@ -1,0 +1,1 @@
+{"index": 203077, "D": "in a way that shows lack of confidence in one\u2019s own ability, worth, or fitness; timidly or shyly", "S": [], "A": []}

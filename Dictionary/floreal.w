@@ -1,0 +1,1 @@
+{"index": 114992, "D": "(in the French Revolutionary calendar) the eighth month of the year, extending from April 20 to May 19.", "S": [], "A": []}

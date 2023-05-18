@@ -1,0 +1,1 @@
+{"index": 71469, "D": "the party who is to perform the obligation expressed in a covenant. ", "S": [], "A": []}

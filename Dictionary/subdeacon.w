@@ -1,0 +1,1 @@
+{"index": 307677, "D": "a member of the clerical order next below that of deacon.", "S": [], "A": []}

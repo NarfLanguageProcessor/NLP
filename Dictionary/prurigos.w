@@ -1,0 +1,1 @@
+{"index": 254274, "D": "a skin condition characterized by itching papules.", "S": [], "A": []}

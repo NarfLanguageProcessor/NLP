@@ -1,0 +1,1 @@
+{"index": 63876, "D": "to order or force into active military service.", "S": ["abduction ", "apprehension ", "arrest ", "confiscation ", "imprisonment ", "occupation ", "seizure ", "taking "], "A": ["letting go ", "release ", "rise "]}

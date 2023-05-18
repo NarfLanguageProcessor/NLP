@@ -1,0 +1,1 @@
+{"index": 58449, "D": "a crystalline amino acid, C3H7O2NS, a component of nearly all proteins, obtained by the reduction of cystine. Abbreviation", "S": [], "A": []}

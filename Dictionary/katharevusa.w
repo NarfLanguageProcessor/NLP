@@ -1,0 +1,1 @@
+{"index": 163384, "D": "the puristic Modern Greek literary language (distinguished from Demotic).", "S": [], "A": []}

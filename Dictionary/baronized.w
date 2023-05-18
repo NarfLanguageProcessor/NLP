@@ -1,0 +1,1 @@
+{"index": 28215, "D": "to make or create (someone) a baron;  confer the rank of baron upon.", "S": [], "A": []}

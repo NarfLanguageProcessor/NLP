@@ -1,0 +1,1 @@
+{"index": 325379, "D": "a coin of Iran, equal to 10 rials.", "S": [], "A": []}

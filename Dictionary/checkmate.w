@@ -1,0 +1,1 @@
+{"index": 53354, "D": "the position of the pieces when a king is checkmated.", "S": ["baffle ", "conquer ", "corner ", "defeat ", "frustrate ", "gain ", "outwit ", "stop ", "thwart ", "triumph ", "undo ", "vanquish "], "A": ["abet ", "aid ", "allow ", "assist ", "encourage ", "fail ", "forfeit ", "give up ", "help ", "lose ", "support ", "surrender "]}

@@ -1,0 +1,1 @@
+{"index": 204251, "D": "a record or account of the ancestry and descent of a person, family, group, etc.", "S": [], "A": []}

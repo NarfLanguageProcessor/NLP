@@ -1,0 +1,1 @@
+{"index": 266678, "D": "to work (dough, clay, etc.) into a uniform mixture by pressing, folding, and stretching.", "S": [], "A": []}

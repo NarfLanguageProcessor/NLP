@@ -1,0 +1,1 @@
+{"index": 210131, "D": "not directed toward any goal; purposeless; aimless.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195378, "D": "the execution of various diverse tasks simultaneously", "S": ["balance ", "juggle "], "A": ["focus "]}

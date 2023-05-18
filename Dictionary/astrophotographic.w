@@ -1,0 +1,1 @@
+{"index": 22331, "D": "the photography  of stars and other celestial objects.", "S": [], "A": []}

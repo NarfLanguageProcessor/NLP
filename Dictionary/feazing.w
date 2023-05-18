@@ -1,0 +1,1 @@
+{"index": 110721, "D": "an unraveled portion at the end of a rope.", "S": [], "A": []}

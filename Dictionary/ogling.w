@@ -1,0 +1,1 @@
+{"index": 211752, "D": "to look at amorously, flirtatiously, or impertinently.", "S": ["flirtation ", "toying "], "A": []}

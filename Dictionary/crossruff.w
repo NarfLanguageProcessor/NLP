@@ -1,0 +1,1 @@
+{"index": 73870, "D": "a play in which each hand of a partnership alternately trumps a different suit in consecutive plays.", "S": [], "A": []}

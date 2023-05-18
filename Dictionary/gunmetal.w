@@ -1,0 +1,1 @@
+{"index": 131384, "D": "any of various alloys or metallic substances with a dark gray or blackish color or finish, used for chains, belt buckles, etc.", "S": [], "A": []}

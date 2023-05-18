@@ -1,0 +1,1 @@
+{"index": 361603, "D": "pertaining to or resembling a fox; vulpine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48619, "D": "a strong horse bred to draw heavy loads; draft horse.", "S": [], "A": []}

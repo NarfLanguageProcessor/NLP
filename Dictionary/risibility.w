@@ -1,0 +1,1 @@
+{"index": 273236, "D": "the ability or disposition to laugh; humorous awareness of the ridiculous and absurd.", "S": [], "A": []}

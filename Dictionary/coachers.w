@@ -1,0 +1,1 @@
+{"index": 60812, "D": "a person who coaches;  a coach. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 63358, "D": "differential treatment based on skin color, especially favoritism toward those with a lighter skin tone and mistreatment or exclusion of those with a darker skin tone, typically among those of the same racial group or ethnicity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201111, "D": "the quality of adhering;  steady devotion, support, allegiance, or attachment", "S": [], "A": []}

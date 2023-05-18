@@ -1,0 +1,1 @@
+{"index": 341994, "D": "(esp of a sportsperson, team, etc) thought unlikely to win or succeed", "S": [], "A": []}

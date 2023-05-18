@@ -1,0 +1,1 @@
+{"index": 135672, "D": "a colorless, crystalline, water-insoluble, poisonous solid, C28H36O6, obtained from the rhizome and root of certain hellebores,  and used in medicine chiefly as a purgative.", "S": [], "A": []}

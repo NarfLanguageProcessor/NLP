@@ -1,0 +1,1 @@
+{"index": 162382, "D": "the spirit or policy of the Junkers. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279905, "D": "any of several diving ducks of the genus Aythya, especially A. marila(greater scaup ), of the Northern Hemisphere, having a bluish-gray bill.", "S": [], "A": []}

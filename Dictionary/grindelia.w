@@ -1,0 +1,1 @@
+{"index": 129930, "D": "any of various composite plants of the genus Grindelia, comprising the gumweeds.", "S": [], "A": []}

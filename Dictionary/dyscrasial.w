@@ -1,0 +1,1 @@
+{"index": 87683, "D": "a malfunction or abnormal condition, especially an imbalance of the constituents of the blood.", "S": [], "A": []}

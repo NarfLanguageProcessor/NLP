@@ -1,0 +1,1 @@
+{"index": 356613, "D": "(in Vedic mythology) the thunderbolt of Indra.", "S": [], "A": []}

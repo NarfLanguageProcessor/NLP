@@ -1,0 +1,1 @@
+{"index": 132941, "D": "a state in N Germany. 288 sq. mi. (746 sq. km).", "S": [], "A": []}

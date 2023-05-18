@@ -1,0 +1,1 @@
+{"index": 260212, "D": "to bring into order again; gather and organize or inspire anew", "S": ["assemblage ", "assembly ", "celebration ", "clambake ", "convention ", "convocation ", "meet ", "session "], "A": ["regression ", "remission ", "weakening "]}

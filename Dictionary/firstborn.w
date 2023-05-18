@@ -1,0 +1,1 @@
+{"index": 113287, "D": "first  in the order of birth; eldest.", "S": ["older "], "A": ["younger ", "youngest "]}

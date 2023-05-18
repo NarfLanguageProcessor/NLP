@@ -1,0 +1,1 @@
+{"index": 189982, "D": "bad or unwise rule; misgovernment.", "S": [], "A": []}

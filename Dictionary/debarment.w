@@ -1,0 +1,1 @@
+{"index": 77701, "D": "to shut out or exclude from a place or condition", "S": ["elimination ", "exclusion "], "A": ["ability ", "aptitude ", "capability "]}

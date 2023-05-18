@@ -1,0 +1,1 @@
+{"index": 24738, "D": "a large cage or a house or enclosure in which birds are kept.", "S": ["birdhouse ", "columbary ", "volary "], "A": []}

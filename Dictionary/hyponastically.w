@@ -1,0 +1,1 @@
+{"index": 141034, "D": "increased growth along the lower surface of a plant or plant part, causing it to bend upward.", "S": [], "A": []}

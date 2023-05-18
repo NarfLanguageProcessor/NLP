@@ -1,0 +1,1 @@
+{"index": 350987, "D": "to release the shift key,  as on a typewriter or the keyboard of a computer terminal.", "S": [], "A": []}

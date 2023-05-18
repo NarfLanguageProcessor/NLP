@@ -1,0 +1,1 @@
+{"index": 46157, "D": "frank; outspoken; open and sincere", "S": ["blunt ", "forthright ", "impartial ", "outspoken ", "sincere ", "straightforward ", "truthful ", "unbiased ", "unequivocal "], "A": ["biased ", "devious ", "dishonest ", "prejudiced ", "tactful ", "untruthful "]}

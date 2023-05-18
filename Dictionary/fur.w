@@ -1,0 +1,1 @@
+{"index": 120324, "D": "the fine, soft, thick, hairy coat of the skin of a mammal.", "S": ["coat ", "jacket ", "pelt ", "skin ", "wool "], "A": []}

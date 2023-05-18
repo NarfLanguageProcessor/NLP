@@ -1,0 +1,1 @@
+{"index": 89538, "D": "consisting of or pertaining to two syllables. ", "S": [], "A": []}

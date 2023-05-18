@@ -1,0 +1,1 @@
+{"index": 139603, "D": "one of an ancient people of southern Arabia speaking a Semitic language.", "S": [], "A": []}

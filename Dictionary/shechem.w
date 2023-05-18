@@ -1,0 +1,1 @@
+{"index": 287745, "D": "a town of ancient Palestine, near the city of Samaria; occupied by Israel 1967\u201396; since 1996 under Palestinian self-rule", "S": [], "A": []}

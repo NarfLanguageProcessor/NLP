@@ -1,0 +1,1 @@
+{"index": 246078, "D": "of, relating to, or resembling a chord. ", "S": [], "A": []}

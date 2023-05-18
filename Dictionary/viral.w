@@ -1,0 +1,1 @@
+{"index": 360107, "D": "of, relating to, or caused by a virus. ", "S": ["aggressive ", "energetic ", "fervid ", "growing ", "vigorous ", "zealous "], "A": ["contained ", "controlled ", "stunted "]}

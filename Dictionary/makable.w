@@ -1,0 +1,1 @@
+{"index": 178078, "D": "to bring into existence by shaping or changing material, combining parts, etc.", "S": [], "A": []}

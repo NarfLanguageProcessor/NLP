@@ -1,0 +1,1 @@
+{"index": 221576, "D": "the characteristic or habit of anticipating and being attentive to the needs and interests of others", "S": [], "A": []}

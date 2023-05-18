@@ -1,0 +1,1 @@
+{"index": 101237, "D": "inflammation of the intestines, especially the small intestine.", "S": [], "A": []}

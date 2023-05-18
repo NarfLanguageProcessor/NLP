@@ -1,0 +1,1 @@
+{"index": 161559, "D": "a light, square-ended, flat-bottomed skiff, used in shallow water.", "S": [], "A": []}

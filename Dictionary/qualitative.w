@@ -1,0 +1,1 @@
+{"index": 257876, "D": "pertaining to or concerned with quality  or qualities.", "S": ["approximate ", "subjective "], "A": ["quantitative ", "objective "]}

@@ -1,0 +1,1 @@
+{"index": 236798, "D": "a method of disputation among rabbinical scholars regarding the interpretation of Talmudic rules and principles or Scripture that involves the development of careful and often excessively subtle distinctions.", "S": [], "A": []}

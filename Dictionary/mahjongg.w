@@ -1,0 +1,1 @@
+{"index": 177697, "D": "a game of Chinese origin usually played by four persons with 144 dominolike pieces or tiles marked in suits, counters, and dice, the object being to build a winning combination of pieces.", "S": [], "A": []}

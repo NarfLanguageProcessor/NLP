@@ -1,0 +1,1 @@
+{"index": 50112, "D": "of the nature of or containing a warning", "S": ["admonishing ", "admonitory ", "advisory ", "cautioning ", "preventive ", "warning "], "A": []}

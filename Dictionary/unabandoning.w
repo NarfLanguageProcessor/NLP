@@ -1,0 +1,1 @@
+{"index": 334309, "D": "to leave completely and finally; forsake utterly; desert", "S": [], "A": []}

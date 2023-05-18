@@ -1,0 +1,1 @@
+{"index": 129423, "D": "a contemptuous term used to refer to a person of Mediterranean or Latin American descent.", "S": [], "A": []}

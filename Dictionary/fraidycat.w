@@ -1,0 +1,1 @@
+{"index": 118246, "D": "a timid, easily frightened person", "S": ["wimp "], "A": ["aggressor ", "hero "]}

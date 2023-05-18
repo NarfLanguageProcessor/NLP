@@ -1,0 +1,1 @@
+{"index": 260026, "D": "a bar of wood or metal fixed horizontally for any of various purposes, as for a support, barrier, fence, or railing.", "S": ["castigate ", "complain ", "fume ", "inveigh ", "rant ", "scold ", "thunder "], "A": ["be happy ", "compliment ", "flatter ", "praise ", "approve ", "defend ", "protect ", "support ", "surrender "]}

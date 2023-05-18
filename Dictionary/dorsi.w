@@ -1,0 +1,1 @@
+{"index": 91754, "D": "a combining form representing dorsum  or dorsal  in compound words", "S": [], "A": []}

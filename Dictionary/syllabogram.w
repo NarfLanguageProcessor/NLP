@@ -1,0 +1,1 @@
+{"index": 290477, "D": "a written symbol representing a single syllable", "S": [], "A": []}

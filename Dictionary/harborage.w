@@ -1,0 +1,1 @@
+{"index": 133590, "D": "shelter for vessels, as that provided by a harbor. ", "S": ["front ", "screen ", "shelter "], "A": ["danger "]}

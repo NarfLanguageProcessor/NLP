@@ -1,0 +1,1 @@
+{"index": 305278, "D": "to hit hard; knock unconscious.", "S": [], "A": []}

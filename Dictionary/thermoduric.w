@@ -1,0 +1,1 @@
+{"index": 321394, "D": "(of certain microorganisms) able to survive high temperatures, as during pasteurization.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104526, "D": "to extract the essence  from; express the essence of.", "S": [], "A": []}

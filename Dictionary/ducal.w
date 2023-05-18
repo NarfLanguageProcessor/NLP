@@ -1,0 +1,1 @@
+{"index": 93713, "D": "of or relating to a duke  or dukedom.", "S": [], "A": []}

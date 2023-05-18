@@ -1,0 +1,1 @@
+{"index": 322527, "D": "a flogging; whipping.", "S": ["annihilation ", "drubbing ", "lashing ", "rout ", "trouncing ", "whipping "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234268, "D": "the origin and development of plants.", "S": ["ancestral ", "hereditary ", "historical "], "A": ["acquired "]}

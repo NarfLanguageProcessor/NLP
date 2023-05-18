@@ -1,0 +1,1 @@
+{"index": 27299, "D": "a matador's assistant who sticks the banderillas into the bull.", "S": ["picador ", "toreador ", "torero "], "A": []}

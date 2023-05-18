@@ -1,0 +1,1 @@
+{"index": 342381, "D": "not fleshly;  not carnal or corporeal; spiritual.", "S": [], "A": []}

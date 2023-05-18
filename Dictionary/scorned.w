@@ -1,0 +1,1 @@
+{"index": 281293, "D": "treated or regarded with contempt, scoffing, or disdain", "S": ["abused ", "rejected "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133297, "D": "an act or instance of supporting the body in a vertical position by balancing on the palms of the hands. ", "S": [], "A": []}

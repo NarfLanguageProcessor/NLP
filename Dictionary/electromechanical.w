@@ -1,0 +1,1 @@
+{"index": 97130, "D": "of or relating to mechanical  devices or systems electrically actuated, as by a solenoid.", "S": [], "A": []}

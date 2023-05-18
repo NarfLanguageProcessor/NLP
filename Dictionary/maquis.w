@@ -1,0 +1,1 @@
+{"index": 179761, "D": "the French underground movement, or Resistance, that combatted the Nazis in World War II.", "S": [], "A": []}

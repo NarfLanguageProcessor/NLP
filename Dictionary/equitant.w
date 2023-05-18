@@ -1,0 +1,1 @@
+{"index": 103402, "D": "straddling or overlapping, as leaves whose bases overlap the leaves above or within them.", "S": [], "A": []}

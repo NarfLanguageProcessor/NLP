@@ -1,0 +1,1 @@
+{"index": 178628, "D": "of, relating to, or belonging to the Malpighiaceae, a family of tropical plants many of which are lianas", "S": [], "A": []}

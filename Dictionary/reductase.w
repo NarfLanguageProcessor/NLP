@@ -1,0 +1,1 @@
+{"index": 264479, "D": "any enzyme acting as a reducing agent.", "S": [], "A": []}

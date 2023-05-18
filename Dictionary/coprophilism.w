@@ -1,0 +1,1 @@
+{"index": 68688, "D": "an obsessive interest in feces.", "S": [], "A": []}

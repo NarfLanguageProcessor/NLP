@@ -1,0 +1,1 @@
+{"index": 308064, "D": "the state of being geniculate.", "S": [], "A": []}

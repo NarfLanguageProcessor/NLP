@@ -1,0 +1,1 @@
+{"index": 353008, "D": "to loose or unfasten (anything tied); let or set loose by undoing a knot.", "S": ["loosen "], "A": ["fasten "]}

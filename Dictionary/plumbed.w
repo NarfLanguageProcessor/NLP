@@ -1,0 +1,1 @@
+{"index": 240389, "D": "Compare plumb line. ", "S": ["delve ", "explore ", "fathom ", "penetrate ", "unravel "], "A": ["misunderstand ", "estimate ", "guess "]}

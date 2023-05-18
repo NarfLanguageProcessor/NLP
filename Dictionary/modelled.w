@@ -1,0 +1,1 @@
+{"index": 191052, "D": "a standard or example for imitation or comparison.", "S": ["create ", "design "], "A": ["photograph "]}

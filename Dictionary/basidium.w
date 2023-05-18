@@ -1,0 +1,1 @@
+{"index": 28598, "D": "a special form of sporophore, characteristic of basidiomycetous fungi, on which the sexual spores are borne, usually at the tips of slender projections.", "S": [], "A": []}

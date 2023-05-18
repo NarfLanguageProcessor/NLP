@@ -1,0 +1,1 @@
+{"index": 178066, "D": "of, relating to, or constituting a majority", "S": [], "A": []}

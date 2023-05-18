@@ -1,0 +1,1 @@
+{"index": 121942, "D": "marijuana, especially in the form of a potent preparation used chiefly for smoking.", "S": ["cannabis ", "drug ", "hash ", "hemp ", "marijuana ", "narcotic "], "A": []}

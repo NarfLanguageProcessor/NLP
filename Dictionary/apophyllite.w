@@ -1,0 +1,1 @@
+{"index": 17328, "D": "a hydrous potassium and calcium silicate mineral occurring in white crystals.", "S": [], "A": []}

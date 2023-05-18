@@ -1,0 +1,1 @@
+{"index": 296157, "D": "a theoretical system of government in which the interests of all members of society are served equally.", "S": [], "A": []}

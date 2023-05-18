@@ -1,0 +1,1 @@
+{"index": 154427, "D": "reciprocal action, effect, or influence.", "S": ["communication ", "cooperation ", "synergy "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 161370, "D": "a small bus or car following a regular route along which it picks up and discharges passengers, originally charging each passenger five cents.", "S": [], "A": []}

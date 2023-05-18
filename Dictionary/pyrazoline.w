@@ -1,0 +1,1 @@
+{"index": 237637, "D": "any of the group of heterocyclic compounds containing three carbon atoms, two adjacent nitrogen atoms, and one double bond in the ring.", "S": [], "A": []}

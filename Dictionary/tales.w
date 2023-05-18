@@ -1,0 +1,1 @@
+{"index": 315596, "D": "persons chosen to serve on the jury when the original panel is insufficiently large", "S": ["account ", "anecdote ", "fable ", "fiction ", "legend ", "myth ", "narrative ", "novel ", "short story ", "yarn "], "A": ["truth "]}

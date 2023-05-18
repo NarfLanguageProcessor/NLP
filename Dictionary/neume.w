@@ -1,0 +1,1 @@
+{"index": 198930, "D": "any of various symbols representing from one to four notes, used in the musical notation of the Middle Ages but now employed solely in the notation of Gregorian chant in the liturgical books of the Roman Catholic Church.", "S": [], "A": []}

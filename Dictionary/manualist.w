@@ -1,0 +1,1 @@
+{"index": 179614, "D": "an advocate of manualism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 364061, "D": "having read extensively (sometimes followed by in)", "S": ["abreast ", "knowledgeable ", "learned "], "A": ["ignorant ", "uninformed "]}

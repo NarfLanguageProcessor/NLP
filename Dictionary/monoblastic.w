@@ -1,0 +1,1 @@
+{"index": 192093, "D": "having a single layer, as an embryo in the blastula stage or developing from a single layer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53973, "D": "the bridge on a stringed musical instrument, as a violin.", "S": [], "A": []}

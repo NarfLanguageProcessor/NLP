@@ -1,0 +1,1 @@
+{"index": 134024, "D": "a male deer, commonly of the red deer, Cervus elaphus, especially after its fifth year.", "S": [], "A": []}

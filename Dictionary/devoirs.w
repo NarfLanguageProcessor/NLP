@@ -1,0 +1,1 @@
+{"index": 83640, "D": "compliments or respects; courteous attentions", "S": ["commendations ", "compliments ", "deference ", "greeting ", "love ", "remembrances ", "respects ", "salutation ", "salutations "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17534, "D": "appall. ", "S": ["alarm ", "amaze ", "astound ", "awe ", "daunt ", "disconcert ", "dishearten ", "dismay ", "faze ", "frighten ", "intimidate ", "outrage ", "petrify ", "terrify ", "unnerve "], "A": ["assist ", "assure ", "calm ", "comfort ", "delight ", "encourage ", "gladden ", "hearten ", "help ", "inspirit ", "make happy ", "please ", "soothe "]}

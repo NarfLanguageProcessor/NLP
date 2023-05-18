@@ -1,0 +1,1 @@
+{"index": 199292, "D": "a storm system that is less than 100 miles (161 kilometers) in diameter and that has characteristics of both a tropical cyclone  and an extratropical cyclone. ", "S": [], "A": []}

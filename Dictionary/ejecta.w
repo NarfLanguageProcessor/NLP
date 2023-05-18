@@ -1,0 +1,1 @@
+{"index": 96590, "D": "matter ejected, as from a volcano in eruption.", "S": ["dung ", "excrement ", "poo ", "poop ", "shit "], "A": []}

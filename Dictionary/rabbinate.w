@@ -1,0 +1,1 @@
+{"index": 259218, "D": "the office or term of office of a rabbi. ", "S": ["priesthood "], "A": []}

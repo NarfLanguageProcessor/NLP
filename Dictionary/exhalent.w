@@ -1,0 +1,1 @@
+{"index": 107109, "D": "exhaling; emitting.", "S": [], "A": []}

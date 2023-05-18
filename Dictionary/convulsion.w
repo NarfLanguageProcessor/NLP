@@ -1,0 +1,1 @@
+{"index": 68184, "D": "contortion of the body caused by violent, involuntary muscular contractions of the extremities, trunk, and head.", "S": ["contraction ", "cramp ", "paroxysm ", "seizure ", "tremor "], "A": ["harmony ", "peace "]}

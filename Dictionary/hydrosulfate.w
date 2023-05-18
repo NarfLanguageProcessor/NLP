@@ -1,0 +1,1 @@
+{"index": 138971, "D": "a salt formed by the direct union of sulfuric acid with an organic base, especially an alkaloid, and usually more soluble than the base.", "S": [], "A": []}

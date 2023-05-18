@@ -1,0 +1,1 @@
+{"index": 104169, "D": "a hard crust or scab, as from a burn.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 298762, "D": "of a distinct or particular kind or character", "S": ["breakfast ", "brunch ", "dessert ", "dinner ", "fare ", "feast ", "lunch ", "luncheon ", "picnic ", "refreshment ", "snack ", "supper ", "table ", "tea "], "A": ["snack "]}

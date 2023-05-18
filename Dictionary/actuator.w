@@ -1,0 +1,1 @@
+{"index": 3313, "D": "a person or thing that actuates. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1047, "D": "to flee; abscond", "S": ["abscond ", "bolt ", "decamp ", "depart ", "disappear ", "flee ", "hightail ", "scram ", "vamoose ", "vanish "], "A": ["appear ", "arrive ", "come ", "continue ", "stay ", "wait "]}

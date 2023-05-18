@@ -1,0 +1,1 @@
+{"index": 355771, "D": "an enzyme, present in the blood and urine of mammals, that activates plasminogen and is used medicinally to dissolve blood clots.", "S": [], "A": []}

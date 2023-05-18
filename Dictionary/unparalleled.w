@@ -1,0 +1,1 @@
+{"index": 347423, "D": "not paralleled;  unequaled or unmatched; peerless; unprecedented", "S": ["exceptional ", "incomparable ", "rare ", "singular ", "unequaled ", "unique ", "unmatched ", "unprecedented ", "unrivaled ", "unsurpassed "], "A": ["common ", "inferior ", "normal ", "ordinary ", "regular ", "unexceptional ", "usual "]}

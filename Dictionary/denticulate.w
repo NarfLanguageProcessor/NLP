@@ -1,0 +1,1 @@
+{"index": 81294, "D": "finely dentate,  as a leaf.", "S": ["broken ", "craggy ", "irregular ", "rugged ", "uneven "], "A": ["continuous ", "even ", "flat ", "level ", "smooth ", "mild ", "nice "]}

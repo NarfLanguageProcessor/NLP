@@ -1,0 +1,1 @@
+{"index": 252519, "D": "the act of propagating. ", "S": [], "A": []}

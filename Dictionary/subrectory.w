@@ -1,0 +1,1 @@
+{"index": 308968, "D": "a rector's house; parsonage.", "S": [], "A": []}

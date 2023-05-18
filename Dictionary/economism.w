@@ -1,0 +1,1 @@
+{"index": 95386, "D": "the theory or practice of assigning primary importance to the economy or to economic achievement.", "S": [], "A": []}

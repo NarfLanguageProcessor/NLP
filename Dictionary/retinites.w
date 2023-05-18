@@ -1,0 +1,1 @@
+{"index": 270507, "D": "any of various fossil resins, especially one derived from brown coal.", "S": [], "A": []}

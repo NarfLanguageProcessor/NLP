@@ -1,0 +1,1 @@
+{"index": 209371, "D": "the formation of new atomic nuclei by nuclear reactions, thought to occur in the interiors of stars and in the early stages of development of the universe.", "S": [], "A": []}

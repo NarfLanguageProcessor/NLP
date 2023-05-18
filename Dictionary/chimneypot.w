@@ -1,0 +1,1 @@
+{"index": 54523, "D": "an earthenware or metal pipe or deflector, often cylindrical, fitted on the top of a chimney to increase draft and reduce or disperse smoke.", "S": ["fireplace ", "flue ", "furnace ", "hearth ", "pipe ", "stack ", "vent "], "A": []}

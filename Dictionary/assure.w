@@ -1,0 +1,1 @@
+{"index": 21961, "D": "to declare earnestly to; inform or tell positively; state with confidence to", "S": ["encourage ", "persuade ", "reassure ", "satisfy "], "A": ["discourage ", "dissuade ", "distress "]}

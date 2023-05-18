@@ -1,0 +1,1 @@
+{"index": 233404, "D": "the doctrine that phenomena are the only objects of knowledge or the only form of reality.", "S": [], "A": []}

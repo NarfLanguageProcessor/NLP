@@ -1,0 +1,1 @@
+{"index": 174060, "D": "a king of Britain who rid his kingdom of three plagues and was famous for his generosity", "S": [], "A": []}

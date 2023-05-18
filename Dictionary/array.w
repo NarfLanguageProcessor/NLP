@@ -1,0 +1,1 @@
+{"index": 20147, "D": "to place in proper or desired order; marshal", "S": ["batch ", "bunch ", "bundle ", "cluster ", "design ", "display ", "host ", "lineup ", "lot ", "multitude ", "pattern ", "supply "], "A": ["individual ", "one "]}

@@ -1,0 +1,1 @@
+{"index": 209249, "D": "the 13th letter of the Greek alphabet (\u039d, \u03bd).", "S": [], "A": []}

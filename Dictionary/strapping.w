@@ -1,0 +1,1 @@
+{"index": 305813, "D": "powerfully built; robust.", "S": ["burly ", "hulking ", "sturdy "], "A": ["attenuated ", "skinny ", "slight ", "small ", "thin ", "weak "]}

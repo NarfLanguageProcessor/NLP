@@ -1,0 +1,1 @@
+{"index": 289821, "D": "a saddle for women on which the rider sits, facing forward, usually with both feet on the left side of the horse.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358173, "D": "an opening, as in a wall, serving as an outlet for air, smoke, fumes, or the like.", "S": ["articulate ", "blunt ", "eloquent ", "expressive ", "forthright ", "outspoken ", "strident ", "vociferous "], "A": ["tactful ", "dishonest "]}

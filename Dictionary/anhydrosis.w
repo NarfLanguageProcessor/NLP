@@ -1,0 +1,1 @@
+{"index": 13070, "D": "the deficiency or absence of perspiration; adiaphoresis.", "S": [], "A": []}

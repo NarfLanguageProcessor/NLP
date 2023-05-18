@@ -1,0 +1,1 @@
+{"index": 76929, "D": "a gold coin and monetary unit of ancient Persia.", "S": [], "A": []}

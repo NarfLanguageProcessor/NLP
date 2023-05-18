@@ -1,0 +1,1 @@
+{"index": 23836, "D": "the act of authorizing. ", "S": ["approval ", "authority ", "endorsement ", "green light ", "sanction ", "signature "], "A": ["disapproval ", "opposition ", "refusal ", "rejection ", "veto "]}

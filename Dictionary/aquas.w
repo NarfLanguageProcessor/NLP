@@ -1,0 +1,1 @@
+{"index": 18215, "D": "a solution, especially in water. ", "S": ["broth ", "juice ", "vapor "], "A": ["solid "]}

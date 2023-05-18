@@ -1,0 +1,1 @@
+{"index": 78384, "D": "(of a solution) containing 1/10 (0.1) the equivalent weight of solute per liter of solution.", "S": [], "A": []}

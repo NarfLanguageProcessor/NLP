@@ -1,0 +1,1 @@
+{"index": 325553, "D": "the usually movable organ in the floor of the mouth in humans and most vertebrates, functioning in eating, in tasting, and, in humans, in speaking.", "S": ["silent ", "speechless "], "A": ["communicative "]}

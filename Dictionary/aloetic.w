@@ -1,0 +1,1 @@
+{"index": 9233, "D": "any chiefly African shrub belonging to the genus Aloe, of the lily family, certain species of which yield a fiber.", "S": [], "A": []}

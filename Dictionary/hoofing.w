@@ -1,0 +1,1 @@
+{"index": 143521, "D": "the horny covering protecting the ends of the digits or encasing the foot in certain animals, as the ox and horse.", "S": ["dance ", "go down ", "skip ", "stride ", "tiptoe ", "tread ", "walk "], "A": []}

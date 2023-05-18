@@ -1,0 +1,1 @@
+{"index": 197744, "D": "French statesman, born in Switzerland.", "S": [], "A": []}

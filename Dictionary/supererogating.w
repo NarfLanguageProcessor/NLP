@@ -1,0 +1,1 @@
+{"index": 311754, "D": "to do more than duty requires.", "S": [], "A": []}

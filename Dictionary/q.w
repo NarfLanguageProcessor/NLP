@@ -1,0 +1,1 @@
+{"index": 257395, "D": "the 17th letter of the English alphabet, a consonant.", "S": [], "A": []}

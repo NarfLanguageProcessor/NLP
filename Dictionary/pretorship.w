@@ -1,0 +1,1 @@
+{"index": 250006, "D": "the office of a praetor. ", "S": [], "A": []}

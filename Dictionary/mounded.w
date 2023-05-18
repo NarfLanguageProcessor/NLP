@@ -1,0 +1,1 @@
+{"index": 194198, "D": "a natural elevation of earth; a hillock or knoll.", "S": ["accumulate ", "assemble ", "collect ", "fill ", "heap ", "load ", "stack "], "A": ["disperse ", "divide ", "scatter ", "spend ", "disburse ", "separate ", "spread ", "squander ", "waste "]}

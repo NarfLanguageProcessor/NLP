@@ -1,0 +1,1 @@
+{"index": 351631, "D": "of or expressive of deep feeling or emotion", "S": [], "A": []}

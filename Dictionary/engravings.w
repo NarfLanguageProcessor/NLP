@@ -1,0 +1,1 @@
+{"index": 100482, "D": "the act or art of a person who or thing that engraves. ", "S": ["etching ", "illustration ", "inscription ", "lithograph ", "woodcut "], "A": []}

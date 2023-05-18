@@ -1,0 +1,1 @@
+{"index": 80691, "D": "a half turn made by a horse with forelegs raised.", "S": [], "A": []}

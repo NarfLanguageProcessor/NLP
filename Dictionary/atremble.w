@@ -1,0 +1,1 @@
+{"index": 22834, "D": "in a trembling  state.", "S": [], "A": []}

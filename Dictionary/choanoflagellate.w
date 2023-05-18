@@ -1,0 +1,1 @@
+{"index": 55257, "D": "any flagellate of the genera Monosiga and Proterospongia, having a protoplasmic collar encircling the base of the flagellum.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153220, "D": [], "S": ["depth ", "excess ", "height "], "A": ["base ", "beginning ", "bottom ", "commencement ", "inside ", "interior ", "minimum ", "nadir ", "opening ", "start "]}

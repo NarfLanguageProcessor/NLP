@@ -1,0 +1,1 @@
+{"index": 161899, "D": "a traveling from one place to another, usually taking a rather long time; trip", "S": ["fly ", "proceed ", "ramble ", "roam ", "traverse ", "trek ", "wander ", "wend "], "A": ["stay ", "break "]}

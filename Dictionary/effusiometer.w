@@ -1,0 +1,1 @@
+{"index": 96116, "D": "an apparatus for determining rates of effusion of gases, usually used for measuring molecular weights", "S": [], "A": []}

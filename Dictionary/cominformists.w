@@ -1,0 +1,1 @@
+{"index": 63838, "D": "an organization (1947\u201356) established by the Communist parties of nine European countries for mutual advice and coordinated activity.", "S": [], "A": []}

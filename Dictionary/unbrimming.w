@@ -1,0 +1,1 @@
+{"index": 336215, "D": "the upper edge of anything hollow; rim; brink", "S": [], "A": []}

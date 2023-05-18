@@ -1,0 +1,1 @@
+{"index": 226570, "D": "Parkinson's disease. ", "S": ["paralysis agitans ", "shaking palsy "], "A": []}

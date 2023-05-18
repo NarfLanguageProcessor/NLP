@@ -1,0 +1,1 @@
+{"index": 82945, "D": [], "S": ["acceptance ", "determinism ", "passivity ", "predestinarianism ", "predestination ", "stoicism "], "A": []}

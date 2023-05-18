@@ -1,0 +1,1 @@
+{"index": 46093, "D": "(in an early Christian basilica) one of a row of bars separating the clergy and sometimes the choir from the congregation.", "S": [], "A": []}

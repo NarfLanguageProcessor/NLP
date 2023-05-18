@@ -1,0 +1,1 @@
+{"index": 120540, "D": "the condition characterized by the presence of boils.", "S": [], "A": []}

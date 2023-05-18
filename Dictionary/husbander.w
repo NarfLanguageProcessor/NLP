@@ -1,0 +1,1 @@
+{"index": 145311, "D": "a married man, especially when considered in relation to his partner in marriage.", "S": [], "A": []}

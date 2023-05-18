@@ -1,0 +1,1 @@
+{"index": 67034, "D": "to cause constipation  in; make costive.", "S": ["fester ", "hibernate ", "languish ", "stall ", "stand still "], "A": ["build ", "flourish ", "grow ", "help ", "improve "]}

@@ -1,0 +1,1 @@
+{"index": 338602, "D": "to state or set forth the meaning of (a word, phrase, etc.)", "S": ["baffling ", "incomprehensible ", "mysterious ", "mystifying ", "odd ", "peculiar ", "puzzling ", "strange ", "unaccountable ", "unfathomable "], "A": ["comprehensible ", "explainable ", "fathomable ", "intelligible ", "normal ", "regular ", "standard ", "understandable ", "usual "]}

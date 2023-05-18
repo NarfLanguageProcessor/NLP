@@ -1,0 +1,1 @@
+{"index": 3073, "D": "official records, as of acts, deeds, proceedings, transactions, or the like.", "S": ["notes ", "proceedings ", "record ", "summary "], "A": []}

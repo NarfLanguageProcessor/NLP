@@ -1,0 +1,1 @@
+{"index": 56288, "D": "a lustrous, hard, brittle, metallic element used in alloy steels for hardness and corrosion resistance, as in stainless steel, and for plating other metals", "S": [], "A": []}

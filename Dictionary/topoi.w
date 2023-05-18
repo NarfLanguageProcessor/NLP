@@ -1,0 +1,1 @@
+{"index": 325948, "D": "a convention or motif, especially in a literary work; a rhetorical convention.", "S": [], "A": []}

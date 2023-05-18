@@ -1,0 +1,1 @@
+{"index": 72666, "D": "to cause (a pidgin  or other language) to become a creole language,  the evolved native language of a speech community. ", "S": [], "A": []}

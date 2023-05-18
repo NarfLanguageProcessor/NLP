@@ -1,0 +1,1 @@
+{"index": 247982, "D": "to exist permanently and inseparably in, as a quality, attribute, or element; belong intrinsically; be inherent", "S": [], "A": []}

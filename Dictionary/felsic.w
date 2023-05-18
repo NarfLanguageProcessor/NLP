@@ -1,0 +1,1 @@
+{"index": 111093, "D": "(of rocks) consisting chiefly of feldspars,  feldspathoids, quartz, and other light-colored minerals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 324547, "D": "a former administrative county in W Northern Ireland", "S": [], "A": []}

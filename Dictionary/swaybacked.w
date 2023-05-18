@@ -1,0 +1,1 @@
+{"index": 313982, "D": "having the back sagged to an unusual degree; having a sway-back.", "S": [], "A": []}

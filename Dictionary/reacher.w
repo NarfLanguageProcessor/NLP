@@ -1,0 +1,1 @@
+{"index": 261486, "D": "to get to or get as far as in moving, going, traveling, etc.", "S": [], "A": []}

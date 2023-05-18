@@ -1,0 +1,1 @@
+{"index": 214914, "D": "(used to connect words, phrases, or clauses representing alternatives)", "S": ["OR ", "operating table ", "operating theater ", "surgery "], "A": []}

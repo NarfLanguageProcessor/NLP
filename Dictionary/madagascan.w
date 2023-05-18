@@ -1,0 +1,1 @@
+{"index": 177149, "D": "of or relating to Madagascar or its inhabitants", "S": [], "A": []}

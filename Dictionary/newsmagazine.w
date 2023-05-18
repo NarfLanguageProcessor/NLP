@@ -1,0 +1,1 @@
+{"index": 199453, "D": "a periodical specializing in reports and commentaries on current events, usually issued weekly.", "S": [], "A": []}

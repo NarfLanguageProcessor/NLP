@@ -1,0 +1,1 @@
+{"index": 51434, "D": "any of a class of glycolipids, found in brain tissue and the medullary sheaths of nerves, that, upon hydrolysis, yield sphingosine, galactose or certain other sugars, and a fatty acid.", "S": [], "A": []}

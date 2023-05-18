@@ -1,0 +1,1 @@
+{"index": 353241, "D": "to make or hold motionless with amazement, awe, terror, etc.", "S": [], "A": []}

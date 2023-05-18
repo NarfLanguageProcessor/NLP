@@ -1,0 +1,1 @@
+{"index": 197911, "D": "necessary, required, or wanted (usually used in combination)", "S": ["desired ", "essential ", "necessary ", "required ", "vital "], "A": ["inessential ", "optional ", "unimportant "]}

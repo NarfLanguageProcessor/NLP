@@ -1,0 +1,1 @@
+{"index": 23288, "D": "the process of listening to and comprehending spoken language.", "S": [], "A": []}

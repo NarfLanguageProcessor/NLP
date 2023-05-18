@@ -1,0 +1,1 @@
+{"index": 143435, "D": "given for honor  only, without the usual requirements, duties, privileges, emoluments, etc.", "S": [], "A": []}

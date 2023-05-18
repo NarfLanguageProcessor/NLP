@@ -1,0 +1,1 @@
+{"index": 57139, "D": "any of several organic chemicals having a chlorinated methylene group bonded to two carbon atoms of a 6-membered carbon ring, used commercially in insecticides.", "S": [], "A": []}

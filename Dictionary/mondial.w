@@ -1,0 +1,1 @@
+{"index": 191820, "D": "of or involving the whole world", "S": [], "A": []}

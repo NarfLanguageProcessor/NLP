@@ -1,0 +1,1 @@
+{"index": 13916, "D": "of, characterized by, or pertaining to a lack of or suppression of ovulation.", "S": [], "A": []}

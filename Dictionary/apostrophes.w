@@ -1,0 +1,1 @@
+{"index": 17462, "D": "the sign ('), as used", "S": ["detour ", "footnote "], "A": ["accord ", "agreement ", "sameness ", "similarity "]}

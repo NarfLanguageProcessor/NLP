@@ -1,0 +1,1 @@
+{"index": 311792, "D": "an excited state  or condition.", "S": [], "A": []}

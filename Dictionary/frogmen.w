@@ -1,0 +1,1 @@
+{"index": 119267, "D": "a swimmer specially equipped with air tanks, wetsuit, diving mask, etc., for underwater demolition, salvage, military operations, scientific exploration, etc.", "S": [], "A": []}

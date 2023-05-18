@@ -1,0 +1,1 @@
+{"index": 44718, "D": "a glossy woolen fabric checkered or brocaded in the warp so that the pattern shows on one side only, much used in the 18th century.", "S": [], "A": []}

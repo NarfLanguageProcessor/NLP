@@ -1,0 +1,1 @@
+{"index": 119104, "D": "a rug or upholstery fabric having the pile in uncut loops or in a combination of cut and uncut loops.", "S": [], "A": []}

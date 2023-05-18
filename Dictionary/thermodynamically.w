@@ -1,0 +1,1 @@
+{"index": 321389, "D": "of or relating to thermodynamics. ", "S": [], "A": []}

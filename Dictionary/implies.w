@@ -1,0 +1,1 @@
+{"index": 148803, "D": "to indicate or suggest without being explicitly stated", "S": ["entail ", "hint ", "involve ", "mention ", "signify ", "suggest "], "A": ["define ", "explicate ", "express ", "state "]}

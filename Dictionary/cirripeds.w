@@ -1,0 +1,1 @@
+{"index": 58345, "D": "any crustacean of the subclass Cirripedia, chiefly comprising the barnacles, typically free-swimming in the larval stage and attached or parasitic in the adult stage, with slender, bristly appendages for gathering food.", "S": [], "A": []}

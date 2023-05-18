@@ -1,0 +1,1 @@
+{"index": 36727, "D": "any of several plants belonging to the genus Trichostema, of the mint family, having blue to pink or, rarely, white flowers with long, curved filaments.", "S": [], "A": []}

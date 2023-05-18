@@ -1,0 +1,1 @@
+{"index": 354865, "D": "a swinging blow directed upward, as to an adversary's chin.", "S": ["bat ", "batter ", "beat ", "belt ", "blast ", "kick ", "knock ", "knock out ", "nail ", "pop ", "punch ", "slap ", "smack ", "whack "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259700, "D": "the method or process of determining the position and velocity of an object by radar.", "S": [], "A": []}

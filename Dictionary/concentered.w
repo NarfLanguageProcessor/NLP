@@ -1,0 +1,1 @@
+{"index": 65122, "D": "to bring or converge to a common center; concentrate.", "S": ["attract ", "focus ", "gather ", "intensify ", "meet "], "A": ["divide ", "separate ", "disjoin ", "disperse ", "scatter "]}

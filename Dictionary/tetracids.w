@@ -1,0 +1,1 @@
+{"index": 319970, "D": "a base or alcohol containing four hydroxyl groups.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 299673, "D": "a spicule.", "S": ["barb ", "bristle ", "chill ", "point ", "sensation ", "spike ", "spine ", "thorn "], "A": []}

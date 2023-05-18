@@ -1,0 +1,1 @@
+{"index": 238215, "D": "with a quick succession of beats or taps", "S": ["chatter "], "A": ["quiet ", "silence "]}

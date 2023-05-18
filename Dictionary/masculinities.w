@@ -1,0 +1,1 @@
+{"index": 180640, "D": "pertaining to or characteristic of a man or men", "S": ["machismo ", "virility "], "A": ["femininity "]}

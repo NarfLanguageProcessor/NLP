@@ -1,0 +1,1 @@
+{"index": 357931, "D": "of or relating to hunting.", "S": [], "A": []}

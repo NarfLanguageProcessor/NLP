@@ -1,0 +1,1 @@
+{"index": 82074, "D": "to laugh at in scorn or contempt; scoff or jeer at; mock.", "S": ["disdain ", "disparage ", "mock ", "ridicule ", "scoff ", "scorn ", "taunt "], "A": ["admire ", "approve ", "compliment ", "flatter ", "praise ", "respect "]}

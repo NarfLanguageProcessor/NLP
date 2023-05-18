@@ -1,0 +1,1 @@
+{"index": 255215, "D": "of or relating to a velum,  especially the soft palate.", "S": [], "A": []}

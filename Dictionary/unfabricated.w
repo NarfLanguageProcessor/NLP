@@ -1,0 +1,1 @@
+{"index": 341906, "D": "made by art or skill and labor", "S": [], "A": []}

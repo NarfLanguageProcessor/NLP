@@ -1,0 +1,1 @@
+{"index": 88429, "D": [], "S": ["art "], "A": ["artlessness ", "frankness ", "honesty ", "openness ", "sincerity "]}

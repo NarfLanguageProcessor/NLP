@@ -1,0 +1,1 @@
+{"index": 327467, "D": "a pipe or hose distributing compressed air through a train  for operation of the brakes.", "S": ["line ", "rail line ", "track "], "A": []}

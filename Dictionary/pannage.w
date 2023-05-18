@@ -1,0 +1,1 @@
+{"index": 224730, "D": "pasturage for pigs, esp in a forest", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 306396, "D": "a burlesque act in which a dancer removes garments one at a time to the accompaniment of music.", "S": ["burlesque dance ", "lap dance ", "pole dance ", "strip show "], "A": []}

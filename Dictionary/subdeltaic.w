@@ -1,0 +1,1 @@
+{"index": 307705, "D": "pertaining to or like a delta. ", "S": [], "A": []}

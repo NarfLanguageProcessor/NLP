@@ -1,0 +1,1 @@
+{"index": 115933, "D": "the traditional beliefs, legends, customs, etc., of a people; lore  of a people.", "S": [], "A": []}

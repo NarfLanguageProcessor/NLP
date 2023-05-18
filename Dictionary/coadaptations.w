@@ -1,0 +1,1 @@
+{"index": 60848, "D": "the correlation of structural or behavioral characteristics in two or more interacting organisms in a community or organs in an organism resulting from progressive accommodation by natural selection.", "S": [], "A": []}

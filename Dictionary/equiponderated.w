@@ -1,0 +1,1 @@
+{"index": 103352, "D": "to equal or offset in weight, force, importance, etc.; counterbalance.", "S": ["amount to ", "break even ", "compare ", "comprise ", "correspond ", "match ", "reach "], "A": ["differ ", "fail ", "disagree ", "disconnect ", "disproportion ", "imbalance ", "separate "]}

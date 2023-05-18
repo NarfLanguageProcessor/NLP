@@ -1,0 +1,1 @@
+{"index": 335073, "D": "causing dismay or horror", "S": [], "A": []}

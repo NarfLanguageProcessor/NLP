@@ -1,0 +1,1 @@
+{"index": 55189, "D": "any of three isomers having the formula C6H5ClO, derived from chlorine and phenol,  used chiefly as intermediates in the manufacture of dyes.", "S": [], "A": []}

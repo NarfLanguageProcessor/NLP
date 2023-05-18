@@ -1,0 +1,1 @@
+{"index": 110808, "D": "to bring under the control of a federal  government", "S": [], "A": []}

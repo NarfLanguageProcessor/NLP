@@ -1,0 +1,1 @@
+{"index": 3799, "D": "very skilled; proficient; expert", "S": ["ably ", "efficiently ", "expertly ", "skillfully "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266023, "D": "to engage the services of (someone) for wages or other payment a second or subsequent time (often used in the passive)", "S": ["bring back ", "reelect ", "reestablish ", "reintroduce ", "renew ", "replace ", "restore ", "revive "], "A": ["destroy ", "kill "]}

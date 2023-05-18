@@ -1,0 +1,1 @@
+{"index": 153829, "D": "something installed,  as machinery or apparatus placed in position or connected for use.", "S": ["accession ", "coronation ", "fitting ", "furnishing ", "inaugural ", "induction ", "installment ", "investiture ", "investment ", "launching ", "ordination ", "positioning "], "A": []}

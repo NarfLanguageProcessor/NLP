@@ -1,0 +1,1 @@
+{"index": 360682, "D": "a nonstandard variant of victuals. ", "S": ["chow ", "comestibles ", "eatables ", "eats ", "edibles ", "fare ", "foodstuff ", "goodies ", "groceries ", "grub ", "larder ", "meal ", "nourishment ", "provender ", "provisions ", "refreshments ", "snack ", "viands ", "victuals "], "A": []}

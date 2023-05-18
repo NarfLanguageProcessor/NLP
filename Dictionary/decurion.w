@@ -1,0 +1,1 @@
+{"index": 78835, "D": "the head of a decury.", "S": [], "A": []}

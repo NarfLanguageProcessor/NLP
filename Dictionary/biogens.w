@@ -1,0 +1,1 @@
+{"index": 34376, "D": "a hypothetical protein molecule, large and unstable, once assumed to be basic to fundamental biological processes.", "S": [], "A": []}

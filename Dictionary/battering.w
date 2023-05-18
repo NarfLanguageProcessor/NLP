@@ -1,0 +1,1 @@
+{"index": 29118, "D": "baby-battering; granny-battering", "S": ["bashing ", "breaking ", "ruining ", "shattering ", "smashing ", "splitting "], "A": []}

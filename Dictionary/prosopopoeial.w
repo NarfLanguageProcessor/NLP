@@ -1,0 +1,1 @@
+{"index": 253186, "D": "personification, as of inanimate things.", "S": [], "A": []}

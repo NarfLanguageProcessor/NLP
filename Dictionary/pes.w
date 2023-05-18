@@ -1,0 +1,1 @@
+{"index": 232226, "D": "a foot or footlike part.", "S": ["PE ", "athletics ", "calisthenics ", "gym class ", "gymnastic ", "phys ed "], "A": []}

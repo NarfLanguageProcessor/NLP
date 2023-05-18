@@ -1,0 +1,1 @@
+{"index": 241499, "D": "the record produced by the action of a Polarograph.", "S": [], "A": []}

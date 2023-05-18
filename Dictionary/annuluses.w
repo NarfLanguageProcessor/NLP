@@ -1,0 +1,1 @@
+{"index": 13665, "D": "a ring; a ringlike part, band, or space.", "S": [], "A": []}

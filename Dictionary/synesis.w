@@ -1,0 +1,1 @@
+{"index": 291639, "D": "a construction in which an expected grammatical agreement in form is replaced by an agreement in meaning, as in The crowd rose to their feet, where a plural pronoun is used to refer to a singular noun.", "S": [], "A": []}

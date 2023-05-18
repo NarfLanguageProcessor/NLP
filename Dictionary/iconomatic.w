@@ -1,0 +1,1 @@
+{"index": 146219, "D": "employing pictures to represent not objects themselves but the sound of their names", "S": [], "A": []}

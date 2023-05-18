@@ -1,0 +1,1 @@
+{"index": 162141, "D": "any large, overpowering, destructive force or object, as war, a giant battleship, or a powerful football team.", "S": ["barrage ", "cavalcade "], "A": []}

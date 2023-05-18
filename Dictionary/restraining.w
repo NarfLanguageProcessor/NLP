@@ -1,0 +1,1 @@
+{"index": 270008, "D": "to hold back from action; keep in check or under control; repress", "S": ["constraining ", "forbidding ", "governing ", "prohibiting "], "A": []}

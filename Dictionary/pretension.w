@@ -1,0 +1,1 @@
+{"index": 249886, "D": "the laying of a claim to something.", "S": ["conceit ", "hypocrisy ", "pomposity ", "snobbery "], "A": ["modesty ", "reality "]}

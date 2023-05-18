@@ -1,0 +1,1 @@
+{"index": 289515, "D": "hissing. ", "S": ["affricate ", "click ", "consonant ", "diphthong ", "fricative ", "implosive ", "liquid ", "phone ", "phonetic entity ", "phonetic unit ", "plosive ", "sonant ", "spirant ", "syllable ", "vocable "], "A": []}

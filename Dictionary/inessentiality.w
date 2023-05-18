@@ -1,0 +1,1 @@
+{"index": 151622, "D": "not essential;  not necessary; nonessential.", "S": ["immateriality ", "inconsequence ", "pettiness ", "triviality ", "worthlessness "], "A": ["conceit ", "essentiality ", "importance ", "significance "]}

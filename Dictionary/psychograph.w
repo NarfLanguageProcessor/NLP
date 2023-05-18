@@ -1,0 +1,1 @@
+{"index": 255358, "D": "a graph indicating the relative strength of the personality traits of an individual.", "S": [], "A": []}

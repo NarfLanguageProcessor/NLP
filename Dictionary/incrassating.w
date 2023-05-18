@@ -1,0 +1,1 @@
+{"index": 150426, "D": "to make (a liquid) thicker by addition of another substance or by evaporation.", "S": [], "A": []}

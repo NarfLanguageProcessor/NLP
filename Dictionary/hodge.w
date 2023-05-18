@@ -1,0 +1,1 @@
+{"index": 142194, "D": "a typical name for a farm labourer; rustic", "S": [], "A": []}

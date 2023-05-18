@@ -1,0 +1,1 @@
+{"index": 157723, "D": "the pronoun of the second person singular or plural, used of the person or persons being addressed, in the nominative or objective case", "S": ["they ", "we "], "A": []}

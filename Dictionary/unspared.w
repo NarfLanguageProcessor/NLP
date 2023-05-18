@@ -1,0 +1,1 @@
+{"index": 351663, "D": "left intact; not damaged, punished, destroyed, killed, etc.", "S": [], "A": []}

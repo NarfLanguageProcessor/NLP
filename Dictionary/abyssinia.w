@@ -1,0 +1,1 @@
+{"index": 487, "D": "former name of Ethiopia (def. 1). ", "S": [], "A": []}

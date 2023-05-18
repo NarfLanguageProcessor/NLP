@@ -1,0 +1,1 @@
+{"index": 183646, "D": "to treat (cotton yarns or fabric) with caustic alkali under tension, in order to increase strength, luster, and affinity for dye.", "S": [], "A": []}

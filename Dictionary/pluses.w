@@ -1,0 +1,1 @@
+{"index": 240618, "D": "more by the addition of; increased by", "S": ["assets ", "available funds ", "available means ", "available resources ", "black-ink items ", "capital ", "capitalization ", "cash flow ", "financial resources ", "liquid assets ", "producer goods ", "stock in trade "], "A": []}

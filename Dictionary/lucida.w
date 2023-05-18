@@ -1,0 +1,1 @@
+{"index": 175804, "D": "the brightest star in a constellation.", "S": [], "A": []}

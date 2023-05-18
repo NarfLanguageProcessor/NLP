@@ -1,0 +1,1 @@
+{"index": 106319, "D": "a person who believes in or supports a theory of evolution,  especially in biology.", "S": [], "A": []}

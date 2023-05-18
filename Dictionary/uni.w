@@ -1,0 +1,1 @@
+{"index": 343968, "D": "a uniformed police officer; uniform", "S": [], "A": []}

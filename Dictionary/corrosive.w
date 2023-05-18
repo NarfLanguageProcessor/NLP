@@ -1,0 +1,1 @@
+{"index": 69744, "D": "having the quality of corroding  or eating away; erosive.", "S": ["acerbic ", "caustic ", "destructive ", "incisive ", "trenchant "], "A": ["gentle ", "kind ", "nice "]}

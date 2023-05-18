@@ -1,0 +1,1 @@
+{"index": 349802, "D": "done in order to take revenge; returning evil for evil", "S": [], "A": []}

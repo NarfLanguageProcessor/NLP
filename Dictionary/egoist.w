@@ -1,0 +1,1 @@
+{"index": 96248, "D": "a self-centered or selfish person (opposed to altruist).", "S": ["boaster ", "braggart ", "egocentric ", "egomaniac ", "egotist ", "narcissist "], "A": []}

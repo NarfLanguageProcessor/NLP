@@ -1,0 +1,1 @@
+{"index": 212505, "D": [], "S": ["disparate ", "divergent ", "diverse ", "varied "], "A": ["alike ", "like ", "same ", "similar "]}

@@ -1,0 +1,1 @@
+{"index": 318095, "D": "any of certain devices or attachments for determining distances by measuring the angle subtending a known distance.", "S": [], "A": []}

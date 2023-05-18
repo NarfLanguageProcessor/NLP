@@ -1,0 +1,1 @@
+{"index": 98161, "D": "the pushing or growth of one part into another, as in the formation of certain gastrulas.", "S": [], "A": []}

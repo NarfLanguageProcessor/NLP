@@ -1,0 +1,1 @@
+{"index": 35006, "D": "any African weaverbird of the genus Euplectes (or Pyromelana), the males of which have black plumage marked with red or yellow", "S": [], "A": []}

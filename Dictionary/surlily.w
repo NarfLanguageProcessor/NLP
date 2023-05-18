@@ -1,0 +1,1 @@
+{"index": 313485, "D": "churlishly rude or bad-tempered", "S": [], "A": []}

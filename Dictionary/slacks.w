@@ -1,0 +1,1 @@
+{"index": 293562, "D": "men's or women's trousers for informal wear.", "S": ["knickers ", "shorts ", "trousers ", "underpants "], "A": []}

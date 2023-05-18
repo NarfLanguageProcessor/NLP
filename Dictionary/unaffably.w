@@ -1,0 +1,1 @@
+{"index": 334705, "D": "pleasantly easy to approach and to talk to; friendly; cordial;  warmly polite", "S": [], "A": []}

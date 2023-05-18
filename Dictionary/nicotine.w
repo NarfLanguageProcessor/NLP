@@ -1,0 +1,1 @@
+{"index": 199689, "D": "a colorless, oily, water-soluble, highly toxic, liquid alkaloid, C10H14N2, found in tobacco and valued as an insecticide.", "S": [], "A": []}

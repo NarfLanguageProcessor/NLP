@@ -1,0 +1,1 @@
+{"index": 336087, "D": "to disclose (a confidence, secret, etc.).", "S": ["acknowledgment ", "admission ", "assertion ", "concession ", "disclosure ", "proclamation ", "revelation ", "statement ", "story "], "A": ["denial ", "refusal ", "repudiation ", "secret ", "concealment ", "silence "]}

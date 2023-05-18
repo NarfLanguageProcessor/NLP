@@ -1,0 +1,1 @@
+{"index": 347076, "D": "of, relating to, or characteristic of the Occident  or its natives and inhabitants.", "S": [], "A": []}

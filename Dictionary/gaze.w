@@ -1,0 +1,1 @@
+{"index": 122968, "D": "to look steadily and intently, as with great curiosity, interest, pleasure, or wonder.", "S": ["glaring ", "gun ", "look ", "looking ", "ogling ", "peek ", "peep ", "rubbernecking ", "scrutiny ", "seeing ", "survey ", "watching "], "A": ["ignorance "]}

@@ -1,0 +1,1 @@
+{"index": 209690, "D": "of or relating to marriage or the marriage ceremony", "S": [], "A": []}

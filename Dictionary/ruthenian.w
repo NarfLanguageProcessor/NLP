@@ -1,0 +1,1 @@
+{"index": 275919, "D": "of or relating to the inhabitants of Ruthenia,  Galicia, and neighboring regions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346384, "D": "the act of ministering  care, aid, religious service, etc.", "S": [], "A": []}

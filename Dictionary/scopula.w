@@ -1,0 +1,1 @@
+{"index": 281225, "D": "a dense tuft of hairs, as on the feet of certain spiders.", "S": [], "A": []}

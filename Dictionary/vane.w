@@ -1,0 +1,1 @@
+{"index": 356954, "D": "weather vane. ", "S": ["fan ", "feather ", "weathercock "], "A": []}

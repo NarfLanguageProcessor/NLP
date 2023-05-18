@@ -1,0 +1,1 @@
+{"index": 364619, "D": "the simple past tense and past participle of whelm. ", "S": ["douse ", "drench ", "engulf ", "flood ", "overflow ", "overrun ", "overwhelm ", "soak ", "submerge ", "swamp "], "A": ["dry ", "dehydrate "]}

@@ -1,0 +1,1 @@
+{"index": 333471, "D": "to utter a succession of small, tremulous sounds, as a bird.", "S": ["cheep ", "chirp ", "chirrup ", "peep "], "A": []}

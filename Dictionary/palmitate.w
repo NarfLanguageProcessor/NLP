@@ -1,0 +1,1 @@
+{"index": 224101, "D": "a salt or ester of palmitic acid. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3895, "D": "tolerance of actions or beliefs not specifically prohibited in the Scriptures; indifferentism.", "S": [], "A": []}

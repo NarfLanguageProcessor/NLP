@@ -1,0 +1,1 @@
+{"index": 44189, "D": "a carnivorous animal, Bassariscus astutus, of Mexico and the southwestern U.S., related to the raccoon but smaller, with a sharper snout and longer tail.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277318, "D": "an ordinary in the form of a cross with arms running diagonally from the dexter chief to the sinister base and from the sinister chief to the dexter base; St. Andrew's cross.", "S": [], "A": []}

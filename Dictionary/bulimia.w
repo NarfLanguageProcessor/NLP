@@ -1,0 +1,1 @@
+{"index": 42459, "D": "Compare anorexia nervosa. ", "S": ["binge-vomit syndrome ", "bingeing ", "bulimarexia ", "bulimia nervosa ", "hyperphagia ", "polyphagia "], "A": []}

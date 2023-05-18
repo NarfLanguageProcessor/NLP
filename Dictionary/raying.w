@@ -1,0 +1,1 @@
+{"index": 260020, "D": "a narrow beam of light.", "S": [], "A": []}

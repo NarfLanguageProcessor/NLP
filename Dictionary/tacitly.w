@@ -1,0 +1,1 @@
+{"index": 315058, "D": "without saying so; silently", "S": ["softly "], "A": ["audibly ", "loudly ", "publicly "]}

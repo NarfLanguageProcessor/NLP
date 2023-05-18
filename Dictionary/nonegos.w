@@ -1,0 +1,1 @@
+{"index": 203388, "D": "anything not considered to be the ego or conscious self; a thing external to the mind.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75861, "D": "the act of a person or thing that cuts.", "S": ["flower ", "grass ", "herb ", "seedling ", "shrub ", "tree ", "vine ", "weed "], "A": []}

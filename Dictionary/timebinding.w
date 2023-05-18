@@ -1,0 +1,1 @@
+{"index": 323745, "D": "the distinctively human attribute of preserving memories and records of experiences for the use of subsequent generations.", "S": [], "A": []}

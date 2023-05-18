@@ -1,0 +1,1 @@
+{"index": 236473, "D": "Bay of Pigs. ", "S": ["animals ", "beasts ", "cattle ", "cows ", "domestic ", "flock ", "fowl ", "herd ", "hogs ", "horses ", "livestock ", "sheep ", "swine "], "A": ["fact ", "truth "]}

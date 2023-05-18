@@ -1,0 +1,1 @@
+{"index": 225689, "D": "the region of a lake floor between the shoreline or water's edge and the zone of rooted vegetation", "S": [], "A": []}

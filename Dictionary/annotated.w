@@ -1,0 +1,1 @@
+{"index": 13590, "D": "supplied with or containing explanatory notes, textual comments, etc.", "S": ["comment ", "commentate ", "construe ", "define ", "elucidate ", "explain ", "expound ", "footnote ", "gloss ", "illustrate ", "interpret ", "note ", "remark "], "A": ["confuse ", "mystify ", "obscure "]}

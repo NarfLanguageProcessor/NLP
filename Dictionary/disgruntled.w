@@ -1,0 +1,1 @@
+{"index": 88182, "D": "displeased and discontented; sulky; peevish", "S": ["annoyed ", "irritated ", "testy "], "A": ["contented ", "happy ", "pleased ", "satisfied "]}

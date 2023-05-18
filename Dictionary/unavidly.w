@@ -1,0 +1,1 @@
+{"index": 335488, "D": "with great enthusiasm, interest, or desire; eagerly", "S": [], "A": []}

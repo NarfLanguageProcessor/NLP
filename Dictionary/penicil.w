@@ -1,0 +1,1 @@
+{"index": 229644, "D": "a small, brushlike tuft of hairs, as on a caterpillar.", "S": [], "A": []}

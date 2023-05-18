@@ -1,0 +1,1 @@
+{"index": 331362, "D": "any of several American birds of the family Icteridae, especially one with brilliantly colored plumage, as Icterus icterus, of South America.", "S": [], "A": []}

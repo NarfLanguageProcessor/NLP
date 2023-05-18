@@ -1,0 +1,1 @@
+{"index": 293035, "D": "(especially of horses) having patches of brown and white.", "S": [], "A": []}

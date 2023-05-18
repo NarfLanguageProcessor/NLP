@@ -1,0 +1,1 @@
+{"index": 110275, "D": "of, like, or befitting a father. ", "S": ["paternal "], "A": ["motherly "]}

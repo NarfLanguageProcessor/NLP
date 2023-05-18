@@ -1,0 +1,1 @@
+{"index": 211519, "D": "a weak oestrogenic hormone secreted by the mammalian ovary", "S": [], "A": []}

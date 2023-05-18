@@ -1,0 +1,1 @@
+{"index": 204157, "D": "the act of fortifying  or strengthening.", "S": [], "A": []}

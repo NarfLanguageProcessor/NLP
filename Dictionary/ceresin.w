@@ -1,0 +1,1 @@
+{"index": 51471, "D": "a white wax extracted from ozocerite", "S": [], "A": []}

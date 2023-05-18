@@ -1,0 +1,1 @@
+{"index": 118949, "D": "a person attached to another by feelings of affection or personal regard.", "S": [], "A": []}

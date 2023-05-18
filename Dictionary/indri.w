@@ -1,0 +1,1 @@
+{"index": 151296, "D": "a short-tailed lemur, Indri indri, of Madagascar, about 2 feet (60 centimeters) in length", "S": [], "A": []}

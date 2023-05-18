@@ -1,0 +1,1 @@
+{"index": 213931, "D": "fanon (def. 2). ", "S": ["frock ", "garb ", "robe ", "stole ", "tunic "], "A": []}

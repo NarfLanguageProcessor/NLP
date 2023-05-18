@@ -1,0 +1,1 @@
+{"index": 117208, "D": "to form by heating and hammering; beat into shape.", "S": [], "A": []}

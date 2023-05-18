@@ -1,0 +1,1 @@
+{"index": 120169, "D": "serving as, or being an essential part of, a foundation or basis; basic; underlying", "S": [], "A": []}

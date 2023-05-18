@@ -1,0 +1,1 @@
+{"index": 237170, "D": "a child's or informal name for pinafore (def. 1)", "S": [], "A": []}

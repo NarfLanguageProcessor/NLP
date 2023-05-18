@@ -1,0 +1,1 @@
+{"index": 60134, "D": "the area of the facial wall of an insect's head between the labrum and the frons, usually separated from the latter by a groove.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 65521, "D": "to express an unfavorable or adverse judgment on; indicate strong disapproval of; censure. ", "S": ["blamable ", "criminal ", "culpable ", "disgraceful ", "reprehensible ", "shameful "], "A": []}

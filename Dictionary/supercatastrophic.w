@@ -1,0 +1,1 @@
+{"index": 311489, "D": "of the nature of a catastrophe,  or disastrous event; calamitous", "S": [], "A": []}

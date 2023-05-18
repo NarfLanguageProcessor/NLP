@@ -1,0 +1,1 @@
+{"index": 192976, "D": "any of a group of granular igneous rocks having approximately equal amounts of orthoclase and plagioclase feldspar, intermediate in composition between syenite and diorite.", "S": [], "A": []}

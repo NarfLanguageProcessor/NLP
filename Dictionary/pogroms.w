@@ -1,0 +1,1 @@
+{"index": 241263, "D": "an organized massacre, especially of Jews.", "S": ["annihilation ", "bloodbath ", "bloodletting ", "butchery ", "carnage ", "extermination ", "genocide "], "A": []}

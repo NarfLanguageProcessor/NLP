@@ -1,0 +1,1 @@
+{"index": 260952, "D": "a sweet liqueur made from wine or grape juice combined with brandy or other spirits and often flavored with almonds, fruit, or fruit kernels.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 324803, "D": "a disturbance of body equilibrium in standing or walking, resulting in an uncertain gait and trembling, especially resulting from diseases of the cerebellum.", "S": [], "A": []}

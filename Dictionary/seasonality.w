@@ -1,0 +1,1 @@
+{"index": 282591, "D": "the state or quality of being seasonal or dependent on the seasons", "S": [], "A": []}

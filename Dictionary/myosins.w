@@ -1,0 +1,1 @@
+{"index": 188250, "D": "the principal contractile protein of muscle.", "S": [], "A": []}

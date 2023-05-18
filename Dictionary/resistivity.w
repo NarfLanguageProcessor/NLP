@@ -1,0 +1,1 @@
+{"index": 269522, "D": "the power or property of resistance. ", "S": [], "A": []}

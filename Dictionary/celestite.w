@@ -1,0 +1,1 @@
+{"index": 50495, "D": "a white to pale-blue mineral, strontium sulfate, SrSO4, occurring in tabular crystals, the principal ore of strontium.", "S": [], "A": []}

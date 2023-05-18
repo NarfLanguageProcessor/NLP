@@ -1,0 +1,1 @@
+{"index": 49651, "D": "a projecting timber or metal beam to which an anchor is hoisted and secured.", "S": [], "A": []}

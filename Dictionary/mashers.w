@@ -1,0 +1,1 @@
+{"index": 180662, "D": "a person or thing that mashes. ", "S": [], "A": []}

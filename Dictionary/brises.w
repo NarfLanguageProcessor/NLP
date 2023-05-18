@@ -1,0 +1,1 @@
+{"index": 40936, "D": "a ballet movement in which the dancer jumps off one foot, beats the legs together, and lands on both feet.", "S": [], "A": []}

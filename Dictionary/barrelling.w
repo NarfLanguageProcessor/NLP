@@ -1,0 +1,1 @@
+{"index": 28329, "D": "a cylindrical wooden container with slightly bulging sides made of staves hooped together, and with flat, parallel ends.", "S": ["abrupt ", "expeditious ", "hasty ", "nimble ", "quick ", "rapid ", "speedy ", "sudden ", "unexpected "], "A": ["delayed ", "expected ", "lazy ", "leisurely ", "slow "]}

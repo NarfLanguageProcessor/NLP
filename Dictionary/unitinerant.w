@@ -1,0 +1,1 @@
+{"index": 345074, "D": "traveling from place to place, especially on a circuit, as a minister, judge, or sales representative; itinerating;  journeying.", "S": [], "A": []}

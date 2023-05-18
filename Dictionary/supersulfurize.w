@@ -1,0 +1,1 @@
+{"index": 312769, "D": "to combine, treat, or impregnate with sulfur. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 347563, "D": "displaying or indicative of an offensively condescending  manner", "S": [], "A": []}

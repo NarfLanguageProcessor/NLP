@@ -1,0 +1,1 @@
+{"index": 133720, "D": "industrious; zealous", "S": ["dedicated ", "diligent "], "A": ["lazy "]}

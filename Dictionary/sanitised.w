@@ -1,0 +1,1 @@
+{"index": 277976, "D": "to free from dirt, germs, etc., as by cleaning or sterilizing.", "S": [], "A": []}

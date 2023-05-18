@@ -1,0 +1,1 @@
+{"index": 169855, "D": "a version of a passage in a particular copy or edition of a text; a variant reading.", "S": [], "A": []}

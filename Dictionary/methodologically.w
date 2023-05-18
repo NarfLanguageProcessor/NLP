@@ -1,0 +1,1 @@
+{"index": 185297, "D": "of, relating to, or following the system of methods, principles, and rules that regulate a given discipline", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84460, "D": "Compare plume (def. 10), salt dome. ", "S": [], "A": []}

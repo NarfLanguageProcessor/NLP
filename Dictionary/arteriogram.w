@@ -1,0 +1,1 @@
+{"index": 20505, "D": "an x-ray produced by arteriography.", "S": [], "A": []}

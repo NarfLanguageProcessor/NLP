@@ -1,0 +1,1 @@
+{"index": 151811, "D": "a daughter of the king of Spain or of Portugal.", "S": [], "A": []}

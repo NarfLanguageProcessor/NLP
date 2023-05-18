@@ -1,0 +1,1 @@
+{"index": 290660, "D": "any of several small fishes of the family Atherinidae, having a silvery stripe along each side, as Menidia menidia, inhabiting the Atlantic coast of the United States.", "S": [], "A": []}

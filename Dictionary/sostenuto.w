@@ -1,0 +1,1 @@
+{"index": 297726, "D": "sustained or prolonged in the time value of the tones.", "S": [], "A": []}

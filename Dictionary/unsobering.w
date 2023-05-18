@@ -1,0 +1,1 @@
+{"index": 351485, "D": "serious, grave, or solemn", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11541, "D": "the abnormal absence of hydrochloric acid in the stomach.", "S": [], "A": []}

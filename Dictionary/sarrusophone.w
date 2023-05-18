@@ -1,0 +1,1 @@
+{"index": 278544, "D": "a metal double-reed wind instrument with a conical bore, related to the oboe and used especially in military bands.", "S": [], "A": []}

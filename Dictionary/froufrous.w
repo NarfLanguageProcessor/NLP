@@ -1,0 +1,1 @@
+{"index": 119466, "D": [], "S": ["adornment ", "coloring ", "embroidery ", "exaggeration ", "ornamentation "], "A": ["plainness "]}

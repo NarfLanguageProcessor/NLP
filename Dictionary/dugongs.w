@@ -1,0 +1,1 @@
+{"index": 93909, "D": "an herbivorous, aquatic mammal, Dugong dugon, of the Red Sea and Indian Ocean, having a barrel-shaped body, flipperlike forelimbs, no hind limbs, and a triangular tail", "S": [], "A": []}

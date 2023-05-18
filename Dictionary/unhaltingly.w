@@ -1,0 +1,1 @@
+{"index": 343461, "D": "faltering or hesitating, especially in speech.", "S": [], "A": []}

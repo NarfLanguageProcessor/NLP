@@ -1,0 +1,1 @@
+{"index": 25174, "D": "any of several salamanders of the genus Ambystoma that inhabit lakes and ponds of Mexico and remain in the larval stage as sexually mature adults.", "S": [], "A": []}

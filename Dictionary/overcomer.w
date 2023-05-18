@@ -1,0 +1,1 @@
+{"index": 218646, "D": "a person who prevails in spite of opposition, difficulties, weakness, etc.", "S": [], "A": []}

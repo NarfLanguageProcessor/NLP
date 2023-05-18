@@ -1,0 +1,1 @@
+{"index": 243311, "D": "to make popular", "S": ["catch on ", "disseminate ", "promote ", "revive ", "simplify "], "A": ["discredit ", "shun "]}

@@ -1,0 +1,1 @@
+{"index": 2733, "D": "to assent tacitly; submit or comply silently or without protest; agree; consent", "S": [], "A": []}

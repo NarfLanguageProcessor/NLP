@@ -1,0 +1,1 @@
+{"index": 189605, "D": "to manage  incompetently or dishonestly", "S": ["botch ", "mishandle "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27668, "D": "loss of the ability to estimate or perceive the weight of an object.", "S": [], "A": []}

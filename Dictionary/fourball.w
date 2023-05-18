@@ -1,0 +1,1 @@
+{"index": 117967, "D": "Compare foursome (def. 2), greensome", "S": [], "A": []}

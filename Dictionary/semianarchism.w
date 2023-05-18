@@ -1,0 +1,1 @@
+{"index": 283741, "D": "a doctrine urging the abolition of government or governmental restraint as the indispensable condition for full social and political liberty.", "S": [], "A": []}

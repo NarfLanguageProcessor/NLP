@@ -1,0 +1,1 @@
+{"index": 93709, "D": "a brand of sweet, red or white, aromatized wine, used chiefly as an ap\u00e9ritif.", "S": [], "A": []}

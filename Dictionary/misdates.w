@@ -1,0 +1,1 @@
+{"index": 189068, "D": "to assign or affix a wrong date  to.", "S": ["misplacement ", "prolepsis ", "solecism "], "A": []}

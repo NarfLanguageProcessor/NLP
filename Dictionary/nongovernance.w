@@ -1,0 +1,1 @@
+{"index": 204309, "D": "government;  exercise of authority; control.", "S": [], "A": []}

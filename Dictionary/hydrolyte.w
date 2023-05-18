@@ -1,0 +1,1 @@
+{"index": 138730, "D": "a substance subjected to hydrolysis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360289, "D": "strength; force; power.", "S": ["her ", "hir ", "his ", "its ", "my ", "our ", "their ", "xyr ", "your ", "zir "], "A": []}

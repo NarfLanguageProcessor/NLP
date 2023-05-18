@@ -1,0 +1,1 @@
+{"index": 353784, "D": "whirling; spinning; rotary", "S": [], "A": []}

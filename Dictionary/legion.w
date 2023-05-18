@@ -1,0 +1,1 @@
+{"index": 170106, "D": "a division of the Roman army, usually comprising 3000 to 6000 soldiers.", "S": ["myriad "], "A": ["few ", "numbered "]}

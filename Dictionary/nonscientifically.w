@@ -1,0 +1,1 @@
+{"index": 207047, "D": "of or relating to science or the sciences", "S": [], "A": []}

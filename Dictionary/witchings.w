@@ -1,0 +1,1 @@
+{"index": 366552, "D": "the use or practice of witchcraft.", "S": ["abracadabra ", "alchemy ", "bewitchment ", "charm ", "conjuring ", "devilry ", "divination ", "enchantment ", "hocus-pocus ", "incantation ", "jinx ", "magic ", "mysticism ", "occultism ", "spell ", "thaumaturgy ", "voodoo ", "witchcraft ", "witchery ", "witching ", "wizardry "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 326792, "D": "a resident of a town,  especially a nonstudent resident of a college town.", "S": [], "A": []}

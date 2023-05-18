@@ -1,0 +1,1 @@
+{"index": 268445, "D": "ability to do or act; capability of doing or accomplishing something.", "S": [], "A": []}

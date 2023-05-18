@@ -1,0 +1,1 @@
+{"index": 269231, "D": "the act of keeping back, withholding, or setting apart.", "S": ["anxiety ", "apprehension ", "backing out ", "chickenheart ", "doubt ", "faint heart ", "fear ", "fear of carrying out an activity ", "second thoughts ", "timidity ", "weak knees ", "white feather ", "yellow streak "], "A": []}

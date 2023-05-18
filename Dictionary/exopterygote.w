@@ -1,0 +1,1 @@
+{"index": 107424, "D": "belonging or pertaining to the class Exopterygota, comprising the insects that undergo incomplete metamorphosis.", "S": [], "A": []}

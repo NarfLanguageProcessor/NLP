@@ -1,0 +1,1 @@
+{"index": 158536, "D": "of or relating to two sounds of equal intensity.", "S": [], "A": []}

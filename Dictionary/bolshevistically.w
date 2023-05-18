@@ -1,0 +1,1 @@
+{"index": 37616, "D": "of, relating to, or characteristic of Bolshevists  or Bolshevism. ", "S": [], "A": []}

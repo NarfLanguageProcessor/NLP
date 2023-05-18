@@ -1,0 +1,1 @@
+{"index": 143561, "D": "a curved or angular piece of metal or other hard substance for catching, pulling, holding, or suspending something.", "S": [], "A": []}

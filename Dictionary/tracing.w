@@ -1,0 +1,1 @@
+{"index": 327159, "D": "the act of a person or thing that traces. ", "S": ["image ", "model ", "photocopy ", "photograph ", "portrait ", "print ", "replica ", "reproduction ", "transcript ", "type "], "A": ["original ", "difference ", "dissimilarity ", "opposite ", "unlikeness "]}

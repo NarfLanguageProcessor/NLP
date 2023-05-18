@@ -1,0 +1,1 @@
+{"index": 204913, "D": "tending to cause irritation; irritating. ", "S": ["soft "], "A": ["bitter ", "caustic ", "severe ", "sharp ", "tasty "]}

@@ -1,0 +1,1 @@
+{"index": 191706, "D": "any of various small, flagellate, colorless ameboids with one to three flagella, especially of the genus Monas.", "S": ["atom ", "one ", "unit "], "A": []}

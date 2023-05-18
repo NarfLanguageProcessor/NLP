@@ -1,0 +1,1 @@
+{"index": 233991, "D": "a potion, charm, or drug supposed to cause the person taking it to fall in love, usually with some specific person.", "S": [], "A": []}

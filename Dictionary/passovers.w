@@ -1,0 +1,1 @@
+{"index": 227378, "D": "a Jewish festival that commemorates the exodus of the Jews from Egypt and is marked chiefly by the Seder ritual and the eating of matzoth. It begins on the 14th day of Nisan and is celebrated for eight days by Orthodox and Conservative Jews outside of Israel and for seven days by Reform Jews and Jews in Israel.", "S": [], "A": []}

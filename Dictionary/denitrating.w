@@ -1,0 +1,1 @@
+{"index": 81134, "D": "to free from nitric acid or nitrates;  remove oxides of nitrogen from.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151106, "D": "to make ill, especially slightly.", "S": ["acquire ", "decline ", "develop ", "incur ", "obtain ", "weaken "], "A": ["forfeit ", "lose ", "calm ", "comfort ", "discourage ", "fail ", "help ", "hold ", "misunderstand ", "order ", "overthrow ", "please ", "rise "]}

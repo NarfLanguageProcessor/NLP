@@ -1,0 +1,1 @@
+{"index": 309781, "D": "of, relating to, or situated near the zygoma. ", "S": [], "A": []}

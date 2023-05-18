@@ -1,0 +1,1 @@
+{"index": 259070, "D": "an informal test or examination of a student or class.", "S": ["query "], "A": ["answer ", "reply "]}

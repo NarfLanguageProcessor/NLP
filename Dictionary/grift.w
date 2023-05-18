@@ -1,0 +1,1 @@
+{"index": 129841, "D": "a group of methods for obtaining money falsely through the use of swindles, frauds, dishonest gambling, etc.", "S": ["cheating ", "con game ", "confidence game ", "deceit ", "dirty pool ", "double-dealing ", "extortion ", "fix ", "fraud ", "racket ", "ripoff ", "scam ", "shady deal ", "shell game ", "stealing ", "sting ", "trickery "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 209485, "D": "to render or declare legally void or inoperative", "S": ["antithetical ", "conflicting ", "contrary ", "incompatible ", "inconsistent ", "paradoxical "], "A": ["consonant ", "harmonious ", "equal ", "same ", "similar "]}

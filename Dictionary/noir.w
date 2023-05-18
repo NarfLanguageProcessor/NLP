@@ -1,0 +1,1 @@
+{"index": 200787, "D": "black; noting the black numbers in roulette.", "S": [], "A": []}

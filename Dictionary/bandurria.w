@@ -1,0 +1,1 @@
+{"index": 27393, "D": "a Spanish musical instrument of the guitar family with six pairs of double strings.", "S": [], "A": []}

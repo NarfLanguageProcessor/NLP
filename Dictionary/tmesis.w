@@ -1,0 +1,1 @@
+{"index": 324853, "D": "the interpolation of one or more words between the parts of a compound word, as be thou ware for beware.", "S": [], "A": []}

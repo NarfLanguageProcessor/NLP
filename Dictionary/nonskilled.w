@@ -1,0 +1,1 @@
+{"index": 207345, "D": "having skill;  trained or experienced in work that requires skill. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194076, "D": "a person who drives or travels in a privately owned automobile.", "S": ["tourist ", "traveler "], "A": []}

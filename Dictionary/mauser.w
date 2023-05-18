@@ -1,0 +1,1 @@
+{"index": 181455, "D": "and his brother, Wilhelm,  1834\u201382, German inventors of firearms.", "S": [], "A": []}

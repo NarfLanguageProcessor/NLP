@@ -1,0 +1,1 @@
+{"index": 240208, "D": "of, relating to, or in accordance with Plotinus or his philosophy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41682, "D": "(used to express sensations of cold).", "S": [], "A": []}

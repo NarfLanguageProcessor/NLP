@@ -1,0 +1,1 @@
+{"index": 158574, "D": "a yellowish-red or orange, crystalline, water-soluble solid, C8H5NO2, used chiefly in the synthesis of vat dyes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366458, "D": "to want; desire; long for (usually followed by an infinitive or a clause)", "S": ["desired ", "needed "], "A": []}

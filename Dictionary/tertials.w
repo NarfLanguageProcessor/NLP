@@ -1,0 +1,1 @@
+{"index": 319656, "D": "pertaining to any of a set of flight feathers situated on the basal segment of a bird's wing.", "S": [], "A": []}

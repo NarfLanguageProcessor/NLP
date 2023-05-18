@@ -1,0 +1,1 @@
+{"index": 62544, "D": "to insure  jointly with another or others.", "S": [], "A": []}

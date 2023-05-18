@@ -1,0 +1,1 @@
+{"index": 126759, "D": "the branch of lexicostatistics that studies the rate of replacement of vocabulary and attempts to determine what percentage of basic vocabulary two presently distinct but related languages share, using the information thus obtained to estimate how long ago they ceased being a single language.", "S": [], "A": []}

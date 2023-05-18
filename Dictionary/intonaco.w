@@ -1,0 +1,1 @@
+{"index": 156365, "D": "(formerly in fresco painting) the last and finest coat of plaster, usually applied in sections and painted while still damp with colors ground in water or a lime-water mixture.", "S": [], "A": []}

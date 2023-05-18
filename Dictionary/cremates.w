@@ -1,0 +1,1 @@
+{"index": 72588, "D": "to reduce (a dead body) to ashes by fire, especially as a funeral rite.", "S": ["char ", "incinerate "], "A": []}

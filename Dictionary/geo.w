@@ -1,0 +1,1 @@
+{"index": 123784, "D": "a combining form meaning \u201cthe earth,\u201d used in the formation of compound words", "S": [], "A": []}

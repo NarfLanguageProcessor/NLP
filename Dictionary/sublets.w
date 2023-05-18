@@ -1,0 +1,1 @@
+{"index": 308381, "D": "to sublease.", "S": ["charter ", "hire ", "rent out ", "sublet "], "A": ["sell "]}

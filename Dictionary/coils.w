@@ -1,0 +1,1 @@
+{"index": 62467, "D": "to wind into continuous, regularly spaced rings one above the other", "S": ["braid ", "tendril "], "A": ["line "]}

@@ -1,0 +1,1 @@
+{"index": 31878, "D": "a member of an extinct Native Canadian people formerly living in Newfoundland", "S": [], "A": []}

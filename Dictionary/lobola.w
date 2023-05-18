@@ -1,0 +1,1 @@
+{"index": 174218, "D": "(in southern Africa) an African custom by which a bridegroom's family makes a payment in cattle or cash to the bride's family shortly before the marriage", "S": [], "A": []}

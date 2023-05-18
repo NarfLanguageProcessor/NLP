@@ -1,0 +1,1 @@
+{"index": 57886, "D": "an impure variety of marble with alternate white and greenish zones and a layered structure.", "S": [], "A": []}

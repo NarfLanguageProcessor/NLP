@@ -1,0 +1,1 @@
+{"index": 56159, "D": "being without the teachings or spirit of Christ; unchristian.", "S": [], "A": []}

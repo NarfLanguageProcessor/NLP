@@ -1,0 +1,1 @@
+{"index": 257407, "D": "an Arabic poem, usually in monorhyme, that may be satirical, elegiac, threatening, or laudatory.", "S": [], "A": []}

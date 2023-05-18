@@ -1,0 +1,1 @@
+{"index": 38125, "D": "inclined to be bookish or literary", "S": [], "A": []}

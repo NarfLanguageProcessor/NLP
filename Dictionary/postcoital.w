@@ -1,0 +1,1 @@
+{"index": 243995, "D": "of or relating to the period after sexual intercourse", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112765, "D": "a type of Greek flaky pastry in very thin sheets", "S": [], "A": []}

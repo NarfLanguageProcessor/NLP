@@ -1,0 +1,1 @@
+{"index": 79974, "D": "delight; enjoyment.", "S": ["amusement ", "elation ", "enjoyment ", "happiness ", "joy ", "pleasure ", "rapture "], "A": ["depression ", "dislike ", "gloom ", "hate ", "hatred ", "misery ", "pain ", "sadness ", "sorrow ", "unhappiness ", "woe "]}

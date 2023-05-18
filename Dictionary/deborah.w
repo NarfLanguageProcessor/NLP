@@ -1,0 +1,1 @@
+{"index": 77817, "D": "a prophetess and judge of Israel. Judges 4, 5.", "S": [], "A": []}

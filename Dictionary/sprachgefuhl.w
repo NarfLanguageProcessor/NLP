@@ -1,0 +1,1 @@
+{"index": 301144, "D": "a sensitivity to language, especially for what is grammatically or idiomatically acceptable in a given language.", "S": [], "A": []}

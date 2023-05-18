@@ -1,0 +1,1 @@
+{"index": 361168, "D": "the policy of prohibiting the sale of alcoholic beverages.", "S": [], "A": []}

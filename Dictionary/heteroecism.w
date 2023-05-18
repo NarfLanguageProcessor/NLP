@@ -1,0 +1,1 @@
+{"index": 137556, "D": "the development of different stages of a parasitic species on different host plants.", "S": [], "A": []}

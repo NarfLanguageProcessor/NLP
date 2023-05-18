@@ -1,0 +1,1 @@
+{"index": 217213, "D": "an act of wanton cruelty or violence; any gross violation of law or decency.", "S": ["shock ", "violence "], "A": ["advantage ", "aid ", "benefit ", "blessing ", "compliment ", "favor ", "good ", "help ", "honor ", "kindness ", "obedience ", "pleasure ", "praise ", "respect "]}

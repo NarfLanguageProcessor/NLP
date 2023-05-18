@@ -1,0 +1,1 @@
+{"index": 253162, "D": "an anterior body region, especially the arthropod cephalothorax.", "S": [], "A": []}

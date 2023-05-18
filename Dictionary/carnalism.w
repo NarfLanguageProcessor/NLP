@@ -1,0 +1,1 @@
+{"index": 48189, "D": "preoccupation with, or indulgence in, the flesh or the body and its passions and appetites; sensuality", "S": [], "A": []}

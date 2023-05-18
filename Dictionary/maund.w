@@ -1,0 +1,1 @@
+{"index": 181426, "D": "a unit of weight in India and other parts of Asia, varying greatly according to locality", "S": [], "A": []}

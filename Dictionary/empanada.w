@@ -1,0 +1,1 @@
+{"index": 98687, "D": "a turnover or mold of pastry filled with chopped or ground meat, vegetables, fruit, etc., and usually baked or fried.", "S": [], "A": []}

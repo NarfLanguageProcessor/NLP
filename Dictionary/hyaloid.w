@@ -1,0 +1,1 @@
+{"index": 138176, "D": "hyaloid membrane. ", "S": ["glazed ", "icy ", "shiny ", "sleek "], "A": ["dull ", "rough "]}

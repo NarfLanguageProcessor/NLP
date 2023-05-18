@@ -1,0 +1,1 @@
+{"index": 208388, "D": "fluttering, swaying to and fro, tottering, or reeling", "S": [], "A": []}

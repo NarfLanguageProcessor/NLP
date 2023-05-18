@@ -1,0 +1,1 @@
+{"index": 289441, "D": "the syllable used for the seventh tone of a scale and sometimes for the tone B.", "S": [], "A": []}

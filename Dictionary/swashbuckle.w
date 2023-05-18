@@ -1,0 +1,1 @@
+{"index": 314150, "D": "to work, behave, or perform as a swashbuckler. ", "S": ["bluster ", "gloat ", "prance ", "sashay ", "saunter ", "strut "], "A": ["deprecate "]}

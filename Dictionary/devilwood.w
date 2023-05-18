@@ -1,0 +1,1 @@
+{"index": 83582, "D": "a small olive tree, Osmanthus americanus, of the U.S., yielding a hard wood. ", "S": [], "A": []}

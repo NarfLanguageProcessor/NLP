@@ -1,0 +1,1 @@
+{"index": 190225, "D": "anything that is kept secret or remains unexplained or unknown", "S": ["conundrum ", "enigma ", "problem ", "question ", "riddle ", "secrecy ", "subtlety ", "thriller "], "A": ["known ", "understanding "]}

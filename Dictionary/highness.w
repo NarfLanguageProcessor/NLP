@@ -1,0 +1,1 @@
+{"index": 139290, "D": "the quality or state of being high;  loftiness.", "S": ["height ", "length ", "loftiness ", "tallness "], "A": []}

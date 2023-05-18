@@ -1,0 +1,1 @@
+{"index": 255568, "D": "a hallucinogenic crystalline solid, C12H17N2O4P, obtained from the mushroom Psilocybe mexicana.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 215846, "D": "additional or further", "S": ["balance ", "dregs ", "dross ", "excess ", "heel ", "leavings ", "leftovers ", "overplus ", "remains ", "remnant ", "residual ", "residue ", "rump ", "superfluity ", "surplus "], "A": ["lack ", "need ", "want "]}

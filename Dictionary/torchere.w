@@ -1,0 +1,1 @@
+{"index": 326054, "D": "a tall stand for a candelabrum.", "S": [], "A": []}

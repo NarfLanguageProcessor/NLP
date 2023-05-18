@@ -1,0 +1,1 @@
+{"index": 359043, "D": "a craft for traveling on water, now usually one larger than an ordinary rowboat; a ship or boat.", "S": ["capsule ", "husk ", "skin "], "A": []}

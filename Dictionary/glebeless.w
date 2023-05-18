@@ -1,0 +1,1 @@
+{"index": 126101, "D": "the cultivable land owned by a parish church or ecclesiastical benefice.", "S": [], "A": []}

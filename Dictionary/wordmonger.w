@@ -1,0 +1,1 @@
+{"index": 367444, "D": "a writer or speaker who uses words pretentiously or with careless disregard for meaning", "S": [], "A": []}

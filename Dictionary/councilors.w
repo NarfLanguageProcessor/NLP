@@ -1,0 +1,1 @@
+{"index": 70571, "D": "a member of a council.", "S": ["elder "], "A": []}

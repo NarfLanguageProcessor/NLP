@@ -1,0 +1,1 @@
+{"index": 22851, "D": "congenital absence or loss of hair.", "S": [], "A": []}

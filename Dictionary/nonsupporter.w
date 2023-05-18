@@ -1,0 +1,1 @@
+{"index": 207692, "D": "a person or thing that supports. ", "S": [], "A": []}

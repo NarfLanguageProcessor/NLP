@@ -1,0 +1,1 @@
+{"index": 276890, "D": "any of several monkeys of the genus Pithecia, of tropical South America, having a golden-brown to black, thick, shaggy coat and a long, bushy, nonprehensile tail.", "S": [], "A": []}

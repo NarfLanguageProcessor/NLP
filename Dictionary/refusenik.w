@@ -1,0 +1,1 @@
+{"index": 265467, "D": "a Soviet citizen, usually Jewish, who was denied permission to emigrate from the Soviet Union.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47306, "D": "a wide-mouthed glass or metal bottle with a lip or spout, for holding and serving beverages.", "S": ["glass ", "jar ", "jug ", "urn ", "vial "], "A": []}

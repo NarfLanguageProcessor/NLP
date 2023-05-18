@@ -1,0 +1,1 @@
+{"index": 235042, "D": "to set (type) on a photocomposer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 263099, "D": "to recall to mind; recover knowledge of by memory; remember.", "S": ["arouse ", "awaken ", "bethink ", "cite ", "flash ", "mind ", "place ", "recall ", "recognize ", "remind ", "reminisce ", "retain ", "retrospect ", "revive ", "rouse ", "stir ", "summon ", "waken "], "A": ["calm ", "forget ", "lose "]}

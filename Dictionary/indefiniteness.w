@@ -1,0 +1,1 @@
+{"index": 150730, "D": "not definite; without fixed or specified limit; unlimited", "S": ["ambiguity ", "cloudiness ", "equivocalness ", "obscureness ", "obscurity ", "uncertainty ", "unclearness "], "A": ["certainty ", "definiteness "]}

@@ -1,0 +1,1 @@
+{"index": 1221, "D": "the milieu or interests of a university, college, or academy; academe. ", "S": ["academe ", "academicians ", "college ", "savants ", "school "], "A": []}

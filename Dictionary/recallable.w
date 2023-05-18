@@ -1,0 +1,1 @@
+{"index": 262554, "D": "to bring back from memory; recollect; remember", "S": [], "A": []}

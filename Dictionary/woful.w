@@ -1,0 +1,1 @@
+{"index": 366861, "D": "full of woe; wretched; unhappy", "S": ["bleak ", "mournful ", "sorrowful "], "A": ["cheerful ", "joyful "]}

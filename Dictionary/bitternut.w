@@ -1,0 +1,1 @@
+{"index": 35260, "D": "a hickory, Carya cordiformis, of the eastern and southern U.S., bearing a smooth, gray, bitter  seed.", "S": [], "A": []}

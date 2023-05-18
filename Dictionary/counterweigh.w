@@ -1,0 +1,1 @@
+{"index": 71197, "D": "to counterbalance; counterpoise.", "S": [], "A": []}

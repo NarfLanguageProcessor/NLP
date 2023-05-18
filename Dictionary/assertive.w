@@ -1,0 +1,1 @@
+{"index": 21694, "D": "confidently aggressive or self-assured; positive", "S": ["confident ", "decisive ", "emphatic ", "forceful ", "insistent ", "pushy ", "self-assured ", "self-confident "], "A": ["meek ", "unsure "]}

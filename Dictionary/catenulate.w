@@ -1,0 +1,1 @@
+{"index": 49572, "D": "characterized by a chainlike form, as certain bacterial colonies.", "S": [], "A": []}

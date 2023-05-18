@@ -1,0 +1,1 @@
+{"index": 291155, "D": "an ancient dipper having the rim of the bowl at right angles to the handle.", "S": [], "A": []}

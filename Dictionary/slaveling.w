@@ -1,0 +1,1 @@
+{"index": 293779, "D": "a person in a condition of servility or slavery.", "S": [], "A": []}

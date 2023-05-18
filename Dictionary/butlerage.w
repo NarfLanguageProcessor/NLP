@@ -1,0 +1,1 @@
+{"index": 43633, "D": "the privilege allowed the king's butler  to take a certain quantity of every cask of wine imported by an alien.", "S": [], "A": []}

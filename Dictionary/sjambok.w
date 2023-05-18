@@ -1,0 +1,1 @@
+{"index": 292799, "D": "(in southern Africa) a heavy whip, usually of rhinoceros hide.", "S": [], "A": []}

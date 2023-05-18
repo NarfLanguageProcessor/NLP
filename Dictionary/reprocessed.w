@@ -1,0 +1,1 @@
+{"index": 268618, "D": "(of wool) previously spun and woven but not used, as tailors' clippings.", "S": ["convert "], "A": ["endanger ", "harm ", "hurt ", "lose ", "waste "]}

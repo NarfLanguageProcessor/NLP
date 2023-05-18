@@ -1,0 +1,1 @@
+{"index": 126181, "D": "the quality of being easily fluent, especially in a way that is thoughtless, superficial, or insincere", "S": ["garrulousness ", "grandiloquence ", "logorrhea ", "long-windedness ", "loquaciousness ", "prolixity ", "talkativeness ", "verboseness ", "verbosity ", "volubility ", "wordiness "], "A": []}

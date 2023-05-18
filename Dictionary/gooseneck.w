@@ -1,0 +1,1 @@
+{"index": 128004, "D": "a curved object resembling the neck  of a goose,  often of flexible construction, as in the shaft of a gooseneck lamp. ", "S": [], "A": []}

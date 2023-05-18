@@ -1,0 +1,1 @@
+{"index": 151204, "D": "not divisible; not separable into parts; incapable of being divided", "S": [], "A": []}

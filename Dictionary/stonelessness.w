@@ -1,0 +1,1 @@
+{"index": 305222, "D": "the hard substance, formed of mineral matter, of which rocks consist.", "S": [], "A": []}

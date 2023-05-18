@@ -1,0 +1,1 @@
+{"index": 341886, "D": "beyond what is usual, ordinary, regular, or established", "S": [], "A": []}

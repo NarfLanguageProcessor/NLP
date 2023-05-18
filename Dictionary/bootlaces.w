@@ -1,0 +1,1 @@
+{"index": 38257, "D": "a long, strong lace  used to fasten a boot. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201199, "D": "the period of legal minority, or of an age below 21.", "S": ["childhood ", "immaturity ", "infancy "], "A": []}

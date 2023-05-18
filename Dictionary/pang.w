@@ -1,0 +1,1 @@
+{"index": 224588, "D": "a sudden feeling of mental or emotional distress or longing", "S": ["agony ", "anguish ", "discomfort ", "spasm "], "A": ["comfort ", "happiness ", "advantage ", "benefit ", "cheer ", "health ", "joy ", "pleasure "]}

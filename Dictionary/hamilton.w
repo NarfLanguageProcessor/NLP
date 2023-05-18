@@ -1,0 +1,1 @@
+{"index": 132966, "D": "American statesman and writer on government", "S": [], "A": []}

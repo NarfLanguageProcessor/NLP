@@ -1,0 +1,1 @@
+{"index": 47265, "D": "a D-shaped ring with a spring catch on one side, used for fastening ropes in mountaineering.", "S": [], "A": []}

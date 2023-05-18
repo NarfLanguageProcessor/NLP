@@ -1,0 +1,1 @@
+{"index": 208186, "D": "the state, quality, or fact of being variable, divergent, different, or anomalous.", "S": [], "A": []}

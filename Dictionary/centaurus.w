@@ -1,0 +1,1 @@
+{"index": 50813, "D": "the Centaur, a southern constellation between Lupus and Vela, containing the triple-star system Alpha Centauri. ", "S": [], "A": []}

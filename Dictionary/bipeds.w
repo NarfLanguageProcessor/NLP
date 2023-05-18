@@ -1,0 +1,1 @@
+{"index": 34646, "D": "a two-footed animal.", "S": ["body ", "character ", "child ", "creature ", "individual ", "life ", "mortal "], "A": ["abstract ", "inanimate "]}

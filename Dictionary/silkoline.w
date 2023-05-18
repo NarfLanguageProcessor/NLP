@@ -1,0 +1,1 @@
+{"index": 290421, "D": "a soft, thin cotton fabric with a smooth finish, for curtains, bedspreads, garment linings, etc.", "S": [], "A": []}

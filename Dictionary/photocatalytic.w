@@ -1,0 +1,1 @@
+{"index": 235000, "D": "the acceleration or retardation of the reaction rate in chemical reactions by light.", "S": [], "A": []}

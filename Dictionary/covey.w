@@ -1,0 +1,1 @@
+{"index": 71454, "D": "a brood or small flock of partridges or similar birds.", "S": ["brood ", "bunch ", "herd "], "A": []}

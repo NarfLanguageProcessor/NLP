@@ -1,0 +1,1 @@
+{"index": 87751, "D": "characterized by or showing prejudicial treatment, especially as an indication of bias related to age, color, national origin, religion, sex, etc.", "S": [], "A": []}

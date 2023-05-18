@@ -1,0 +1,1 @@
+{"index": 10489, "D": "one of the mineral nodules in an amygdaloid.", "S": [], "A": []}

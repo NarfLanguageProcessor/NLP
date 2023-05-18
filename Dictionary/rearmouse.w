@@ -1,0 +1,1 @@
+{"index": 261970, "D": "an archaic or dialect word for bat 2", "S": [], "A": []}

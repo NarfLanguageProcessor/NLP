@@ -1,0 +1,1 @@
+{"index": 256678, "D": "a person who inflicts a penalty, such as pain, confinement, etc.", "S": [], "A": []}

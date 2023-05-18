@@ -1,0 +1,1 @@
+{"index": 212483, "D": "able to judge or deal with all matters", "S": [], "A": []}

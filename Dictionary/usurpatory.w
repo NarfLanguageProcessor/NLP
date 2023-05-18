@@ -1,0 +1,1 @@
+{"index": 356079, "D": "an act of usurping;  wrongful or illegal encroachment, infringement, or seizure.", "S": [], "A": []}

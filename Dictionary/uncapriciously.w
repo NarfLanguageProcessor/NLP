@@ -1,0 +1,1 @@
+{"index": 336483, "D": "subject to, led by, or indicative of a sudden, odd notion or unpredictable change; erratic", "S": [], "A": []}

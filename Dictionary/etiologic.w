@@ -1,0 +1,1 @@
+{"index": 105192, "D": "of or relating to causes or origins.", "S": [], "A": []}

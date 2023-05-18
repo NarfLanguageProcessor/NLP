@@ -1,0 +1,1 @@
+{"index": 87733, "D": "a relatively simple expression that determines some of the properties, as the nature of the roots, of a given equation or function.", "S": [], "A": []}

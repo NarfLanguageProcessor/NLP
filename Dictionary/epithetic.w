@@ -1,0 +1,1 @@
+{"index": 102980, "D": "any word or phrase applied to a person or thing to describe an actual or attributed quality", "S": [], "A": []}

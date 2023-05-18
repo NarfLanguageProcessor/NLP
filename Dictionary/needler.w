@@ -1,0 +1,1 @@
+{"index": 197948, "D": [], "S": ["badger ", "bait ", "bedevil ", "goad ", "hector ", "irk ", "irritate ", "nag ", "pester ", "prod ", "taunt ", "tweak "], "A": ["assuage ", "appease ", "mollify ", "soothe "]}

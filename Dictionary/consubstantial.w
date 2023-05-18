@@ -1,0 +1,1 @@
+{"index": 67133, "D": "of one and the same substance, essence, or nature, especially the three divine persons of the Christian Trinity.", "S": ["akin ", "analogous ", "comparable ", "complementary ", "identical ", "related "], "A": ["alien ", "different ", "disconnected ", "dissimilar ", "unalike ", "unequal ", "unlike ", "unrelated "]}

@@ -1,0 +1,1 @@
+{"index": 289944, "D": "an instrument with a meshed or perforated bottom, used for separating coarse from fine parts of loose matter, for straining liquids, etc., especially one with a circular frame and fine meshes or perforations.", "S": [], "A": []}

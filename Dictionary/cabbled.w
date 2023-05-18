@@ -1,0 +1,1 @@
+{"index": 43908, "D": "to cut up (iron or steel bars) for fagoting.", "S": [], "A": []}

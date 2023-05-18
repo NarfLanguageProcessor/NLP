@@ -1,0 +1,1 @@
+{"index": 106691, "D": "easily excited", "S": ["demonstrative ", "fidgety ", "fiery ", "high-strung ", "hysterical ", "impulsive ", "restless ", "skittish ", "temperamental "], "A": ["calm ", "cold ", "cool ", "laid-back "]}

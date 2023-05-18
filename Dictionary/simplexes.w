@@ -1,0 +1,1 @@
+{"index": 291073, "D": "simple; consisting of or characterized by a single element.", "S": [], "A": []}

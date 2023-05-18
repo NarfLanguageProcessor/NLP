@@ -1,0 +1,1 @@
+{"index": 115138, "D": "to struggle with stumbling or plunging movements (usually followed by about, along, on, through, etc.)", "S": ["flop ", "stumble ", "wallow "], "A": ["idle ", "laze "]}

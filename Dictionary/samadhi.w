@@ -1,0 +1,1 @@
+{"index": 277462, "D": "the highest stage in meditation, in which a person experiences oneness with the universe.", "S": [], "A": []}

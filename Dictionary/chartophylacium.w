@@ -1,0 +1,1 @@
+{"index": 52996, "D": "(in a medieval church) a place for the keeping of records and documents.", "S": [], "A": []}

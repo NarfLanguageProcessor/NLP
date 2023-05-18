@@ -1,0 +1,1 @@
+{"index": 229292, "D": "a storage jar with two handles extending from the lip to the shoulder, characterized by an oval body that is wider at the base than at the neck and rests on a foot.", "S": [], "A": []}

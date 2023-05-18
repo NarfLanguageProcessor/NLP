@@ -1,0 +1,1 @@
+{"index": 292646, "D": "a report on the current military situation in a particular area", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 330600, "D": "having one chromosome in addition to the usual diploid number.", "S": [], "A": []}

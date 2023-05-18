@@ -1,0 +1,1 @@
+{"index": 351648, "D": "to scatter (seed) over land, earth, etc., for growth; plant. ", "S": [], "A": []}

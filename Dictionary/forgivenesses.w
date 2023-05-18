@@ -1,0 +1,1 @@
+{"index": 117249, "D": "act of forgiving;  state of being forgiven. ", "S": ["absolution ", "amnesty ", "clemency ", "compassion ", "dispensation ", "grace ", "mercy ", "remission ", "reprieve ", "vindication "], "A": ["blame ", "cruelty ", "meanness ", "mercilessness "]}

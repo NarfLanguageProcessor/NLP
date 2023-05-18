@@ -1,0 +1,1 @@
+{"index": 109290, "D": [], "S": ["chicken ", "cowardliness ", "cravenness ", "fearfulness ", "gutlessness ", "pusillanimity ", "unmanliness "], "A": []}

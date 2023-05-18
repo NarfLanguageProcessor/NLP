@@ -1,0 +1,1 @@
+{"index": 199436, "D": "a person who sells newspapers and periodicals.", "S": [], "A": []}

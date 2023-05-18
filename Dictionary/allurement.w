@@ -1,0 +1,1 @@
+{"index": 9050, "D": "fascination; charm.", "S": ["bait ", "come-on ", "enticement ", "inducement ", "invitation ", "seduction ", "temptation ", "turnon "], "A": ["discouragement ", "repulsion "]}

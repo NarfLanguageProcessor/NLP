@@ -1,0 +1,1 @@
+{"index": 265331, "D": "hard or impossible to manage; stubbornly disobedient", "S": ["grudgingly ", "involuntarily ", "obstinately ", "protestingly ", "resentfully ", "stubbornly "], "A": []}

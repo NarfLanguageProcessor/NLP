@@ -1,0 +1,1 @@
+{"index": 233903, "D": "a custom, presumably of German origin, in which two persons share the kernels of a nut and determine that one shall receive a forfeit from the other at a later time upon the saying of a certain word or the performance of a certain action.", "S": [], "A": []}

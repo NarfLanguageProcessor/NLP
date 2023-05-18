@@ -1,0 +1,1 @@
+{"index": 8776, "D": "of or relating to change in atmospheric pressure", "S": [], "A": []}

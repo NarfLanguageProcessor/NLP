@@ -1,0 +1,1 @@
+{"index": 311461, "D": "a roll or set of rolls for giving a high, smooth finish to paper.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288926, "D": "not having the usual or necessary number of workers, helpers, etc.", "S": ["limited ", "poor ", "shy ", "slender ", "slim ", "tight "], "A": ["adequate ", "sufficient ", "abundant "]}

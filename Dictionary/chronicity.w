@@ -1,0 +1,1 @@
+{"index": 56412, "D": "the fact or quality of being long-lasting, as a disease, condition, or symptom", "S": [], "A": []}

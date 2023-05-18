@@ -1,0 +1,1 @@
+{"index": 187912, "D": "an oral birth control pill  that contains only a progestin and is to be taken daily without monthly cessation.", "S": [], "A": []}

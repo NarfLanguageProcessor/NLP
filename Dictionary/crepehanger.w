@@ -1,0 +1,1 @@
+{"index": 72686, "D": "crapehanger. ", "S": ["cynic ", "worrier "], "A": ["optimist "]}

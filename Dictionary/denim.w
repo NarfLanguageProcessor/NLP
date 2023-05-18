@@ -1,0 +1,1 @@
+{"index": 81129, "D": "a heavy, Z-twist, twill cotton for jeans, overalls, and other work and leisure garments.", "S": ["dungarees ", "jeans "], "A": []}

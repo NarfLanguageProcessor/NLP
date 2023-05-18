@@ -1,0 +1,1 @@
+{"index": 207532, "D": "a condition, demand, or promise in an agreement or contract.", "S": [], "A": []}

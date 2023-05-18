@@ -1,0 +1,1 @@
+{"index": 68910, "D": "Compare Goneril, Regan. ", "S": [], "A": []}

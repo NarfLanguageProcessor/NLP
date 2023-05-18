@@ -1,0 +1,1 @@
+{"index": 290960, "D": "to be in sympathy  or agreement of feeling; share in a feeling (often followed by with).", "S": ["commiserate ", "comprehend "], "A": ["scorn "]}

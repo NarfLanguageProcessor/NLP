@@ -1,0 +1,1 @@
+{"index": 191753, "D": "of, like, or pertaining to a monarch  or monarchy. ", "S": [], "A": []}

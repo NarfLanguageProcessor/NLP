@@ -1,0 +1,1 @@
+{"index": 366721, "D": "having wit  or wits  (usually used in combination)", "S": ["shifty ", "slippery ", "smooth ", "subtle ", "treacherous "], "A": ["forthright ", "honest "]}

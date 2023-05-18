@@ -1,0 +1,1 @@
+{"index": 367592, "D": "a coil of earth or sand that has been egested by a burrowing earthworm or lugworm", "S": [], "A": []}

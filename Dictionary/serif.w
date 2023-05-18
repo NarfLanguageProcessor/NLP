@@ -1,0 +1,1 @@
+{"index": 286096, "D": "a smaller line used to finish off a main stroke of a letter, as at the top and bottom of M.", "S": [], "A": []}

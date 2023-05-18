@@ -1,0 +1,1 @@
+{"index": 8331, "D": "(in an ancient Roman bath) a room for anointment.", "S": [], "A": []}

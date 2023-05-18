@@ -1,0 +1,1 @@
+{"index": 224813, "D": "a theory that all matter has some form of consciousness.", "S": [], "A": []}

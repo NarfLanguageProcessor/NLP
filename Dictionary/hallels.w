@@ -1,0 +1,1 @@
+{"index": 132708, "D": "a liturgical prayer consisting of all or part of Psalms 113\u2013118, recited on Passover, Shavuoth, Sukkoth, Hanukkah, and Rosh Hodesh.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195945, "D": "a small leather or canvas bag with a shoulder strap, used for carrying personal belongings, food, etc., while hiking, marching, or the like.", "S": [], "A": []}

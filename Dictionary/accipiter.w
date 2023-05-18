@@ -1,0 +1,1 @@
+{"index": 1570, "D": "a hawk of the genus Accipiter, having short, rounded wings and a long tail and feeding chiefly on small mammals and birds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179393, "D": "German novelist and dramatist, in the U.S. after 1940 (brother of Thomas Mann).", "S": [], "A": []}

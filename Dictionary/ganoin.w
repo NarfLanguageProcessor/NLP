@@ -1,0 +1,1 @@
+{"index": 121964, "D": "a hard, shiny, enamellike substance secreted by the corium, composing the outer layer of the scales of certain fishes.", "S": [], "A": []}

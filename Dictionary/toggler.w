@@ -1,0 +1,1 @@
+{"index": 325105, "D": "a pin, bolt, or rod placed transversely through a chain, an eye or loop in a rope, etc., as to bind it temporarily to another chain or rope similarly treated.", "S": [], "A": []}

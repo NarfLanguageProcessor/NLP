@@ -1,0 +1,1 @@
+{"index": 14951, "D": "in an antic  manner.", "S": [], "A": []}

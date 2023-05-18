@@ -1,0 +1,1 @@
+{"index": 186184, "D": "the description or delineation of microscopic objects.", "S": [], "A": []}

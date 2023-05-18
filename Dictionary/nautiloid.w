@@ -1,0 +1,1 @@
+{"index": 197455, "D": "a mollusk of the subclass Nautiloidea, including nautiluses and many fossil species that were abundant in the Ordovician and Silurian periods.", "S": [], "A": []}

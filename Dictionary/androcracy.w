@@ -1,0 +1,1 @@
+{"index": 12378, "D": "social and political rule by men.", "S": [], "A": []}

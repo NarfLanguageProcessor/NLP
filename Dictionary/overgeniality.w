@@ -1,0 +1,1 @@
+{"index": 219513, "D": "the fact or quality of being warmly and pleasantly cheerful; cordiality", "S": [], "A": []}

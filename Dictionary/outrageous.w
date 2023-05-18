@@ -1,0 +1,1 @@
+{"index": 217207, "D": "of the nature of or involving gross injury or wrong", "S": ["barbaric ", "brazen ", "disgraceful ", "egregious ", "flagrant ", "heinous ", "horrendous ", "horrible ", "inhuman ", "scandalous ", "scurrilous ", "shocking ", "violent ", "wanton "], "A": ["clean ", "gentle ", "mild ", "moral "]}

@@ -1,0 +1,1 @@
+{"index": 32101, "D": "a steel-gray, bivalent, hard, light, metallic element, the salts of which are sweet", "S": [], "A": []}

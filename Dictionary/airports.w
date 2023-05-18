@@ -1,0 +1,1 @@
+{"index": 6974, "D": "a tract of land or water with facilities for the landing, takeoff, shelter, supply, and repair of aircraft, especially one used for receiving or discharging passengers and cargo at regularly scheduled times.", "S": ["airfield ", "airstrip ", "installation ", "runway "], "A": []}

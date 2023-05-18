@@ -1,0 +1,1 @@
+{"index": 147985, "D": "to come to a country of which one is not a native, usually for permanent residence.", "S": [], "A": []}

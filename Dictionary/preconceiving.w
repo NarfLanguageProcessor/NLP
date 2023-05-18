@@ -1,0 +1,1 @@
+{"index": 246332, "D": "to form a conception or opinion of beforehand, as before seeing evidence or as a result of previously held prejudice.", "S": [], "A": []}

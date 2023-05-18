@@ -1,0 +1,1 @@
+{"index": 6342, "D": "the theory that accent within a musical phrase can be produced by modifying the duration of certain notes rather than by increasing dynamic stress.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257772, "D": "of the nature of or resembling a quagmire; marshy; boggy.", "S": ["cushiony ", "cushy ", "doughy ", "downy ", "flabby ", "fleshy ", "gelatinous ", "mushy ", "pappy ", "pulpous ", "pulpy ", "spongy ", "squashy ", "squishy ", "yielding "], "A": []}

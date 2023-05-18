@@ -1,0 +1,1 @@
+{"index": 187442, "D": "any terrestrial arthropod of the class Diplopoda, having a cylindrical body composed of 20 to more than 100 segments, each with two pairs of legs.", "S": [], "A": []}

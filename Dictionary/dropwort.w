@@ -1,0 +1,1 @@
+{"index": 93387, "D": "a European plant, Filipendula vulgaris, of the rose family, bearing small, scentless, white or reddish flowers.", "S": [], "A": []}

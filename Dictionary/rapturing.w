@@ -1,0 +1,1 @@
+{"index": 260799, "D": "ecstatic joy or delight; joyful ecstasy.", "S": [], "A": []}

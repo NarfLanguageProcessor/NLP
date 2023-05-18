@@ -1,0 +1,1 @@
+{"index": 203779, "D": "requiring immediate action or aid; urgent; pressing.", "S": [], "A": []}

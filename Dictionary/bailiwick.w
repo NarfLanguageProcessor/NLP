@@ -1,0 +1,1 @@
+{"index": 26480, "D": "the district within which a bailie or bailiff has jurisdiction.", "S": ["area ", "beat ", "diocese ", "district ", "jurisdiction ", "neighborhood ", "province ", "realm ", "territory "], "A": []}

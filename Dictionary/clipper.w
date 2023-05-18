@@ -1,0 +1,1 @@
+{"index": 60137, "D": "a person or thing that clips  or cuts.", "S": ["boat ", "sailboat ", "ship "], "A": []}

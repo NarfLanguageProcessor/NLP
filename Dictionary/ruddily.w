@@ -1,0 +1,1 @@
+{"index": 275284, "D": "of or having a fresh, healthy red color", "S": [], "A": []}

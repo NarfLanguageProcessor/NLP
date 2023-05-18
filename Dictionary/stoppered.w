@@ -1,0 +1,1 @@
+{"index": 305354, "D": "a person or thing that stops. ", "S": ["choked ", "crowded ", "glutted ", "gridlocked ", "jammed ", "overcrowded ", "teeming "], "A": ["empty "]}

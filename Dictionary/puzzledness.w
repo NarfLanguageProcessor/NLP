@@ -1,0 +1,1 @@
+{"index": 257371, "D": "a toy, problem, or other contrivance designed to amuse by presenting difficulties to be solved by ingenuity or patient effort.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166393, "D": "a large African antelope, Tragelaphus strepsiceros, the male of which has large corkscrewlike horns.", "S": [], "A": []}

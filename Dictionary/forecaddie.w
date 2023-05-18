@@ -1,0 +1,1 @@
+{"index": 116538, "D": "a caddie  positioned on the course at a distance from the tee or a given lie, to locate balls after they are hit.", "S": [], "A": []}

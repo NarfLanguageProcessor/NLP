@@ -1,0 +1,1 @@
+{"index": 257703, "D": "a person having one-fourth Black ancestry, with one Black grandparent; the offspring of a mulatto and a white person.", "S": [], "A": []}

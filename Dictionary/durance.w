@@ -1,0 +1,1 @@
+{"index": 94408, "D": "incarceration or imprisonment (often used in the phrase durance vile).", "S": ["bondage ", "confinement ", "custody ", "imprisonment ", "incarceration ", "slavery "], "A": ["freedom ", "liberation ", "liberty "]}

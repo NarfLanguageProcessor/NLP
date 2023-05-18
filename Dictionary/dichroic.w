@@ -1,0 +1,1 @@
+{"index": 84829, "D": "characterized by dichroism", "S": [], "A": []}

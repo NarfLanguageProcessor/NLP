@@ -1,0 +1,1 @@
+{"index": 159897, "D": "an inexperienced person working as an apprentice on a sheep ranch.", "S": [], "A": []}

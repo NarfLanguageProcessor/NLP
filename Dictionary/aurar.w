@@ -1,0 +1,1 @@
+{"index": 23510, "D": "plural of eyrir. ", "S": [], "A": []}

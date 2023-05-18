@@ -1,0 +1,1 @@
+{"index": 33094, "D": "(in India) a large house or building", "S": [], "A": []}

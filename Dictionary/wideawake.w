@@ -1,0 +1,1 @@
+{"index": 365504, "D": "fully awake; with the eyes wide open.", "S": ["adept ", "adroit ", "agile ", "bright ", "deft ", "lithe ", "lively ", "quick ", "skillful ", "swift "], "A": ["awkward ", "clumsy ", "ignorant ", "inept ", "slow ", "sluggish ", "stiff ", "stupid ", "unskilled ", "unskillful "]}

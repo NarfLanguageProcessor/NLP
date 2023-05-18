@@ -1,0 +1,1 @@
+{"index": 142581, "D": "(in the Book of Judith) a general, serving Nebuchadnezzar, who was killed by Judith.", "S": [], "A": []}

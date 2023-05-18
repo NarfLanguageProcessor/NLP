@@ -1,0 +1,1 @@
+{"index": 321960, "D": "a salt or ester of thiocyanic acid, as sodium thiocyanate,  NaSCN.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139384, "D": "boisterous celebration or merrymaking; unrestrained fun", "S": ["misbehavior ", "rowdiness "], "A": []}

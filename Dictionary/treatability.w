@@ -1,0 +1,1 @@
+{"index": 328713, "D": "able to be treated,  especially medically", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9138, "D": "a member of a group of puritanical Muslims, originally Berbers, who arose in S Morocco in the 12th century as a reaction against the corrupt Almoravides and who ruled Spain and all Maghrib from about 1147 to after 1213", "S": [], "A": []}

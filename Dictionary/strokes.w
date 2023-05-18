@@ -1,0 +1,1 @@
+{"index": 306459, "D": "the act or an instance of striking, as with the fist, a weapon, or a hammer; a blow. ", "S": ["acclamation ", "applause ", "commendation ", "kudos ", "praise ", "rave ", "recognition "], "A": ["blame ", "censure ", "criticism ", "disapproval ", "condemnation ", "debasement ", "denunciation ", "humiliation "]}

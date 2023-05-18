@@ -1,0 +1,1 @@
+{"index": 116551, "D": "a superstructure at or immediately aft of the bow of a vessel, used as a shelter for stores, machinery, etc., or as quarters for sailors.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72543, "D": "a wickerwork basket worn on the back or suspended from the shoulder, used especially by anglers for carrying fish.", "S": ["box ", "crate "], "A": []}

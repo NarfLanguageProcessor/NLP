@@ -1,0 +1,1 @@
+{"index": 298510, "D": "the fact or condition of being thinly scattered or distributed and not thick or dense", "S": ["absence ", "deficiency ", "inadequacy ", "lack ", "paucity ", "shortage "], "A": ["abundance ", "adequacy ", "enough ", "plenty ", "sufficiency ", "advantage ", "luxury ", "perfection ", "success ", "wealth "]}

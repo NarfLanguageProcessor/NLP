@@ -1,0 +1,1 @@
+{"index": 173034, "D": "minute shreds or ravelings of yarn; bits of thread.", "S": ["dirt ", "earth ", "grime ", "powder ", "sand ", "soil ", "soot "], "A": []}

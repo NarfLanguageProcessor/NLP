@@ -1,0 +1,1 @@
+{"index": 178923, "D": "a sum of money paid to a lord whose vassal was murdered.", "S": [], "A": []}

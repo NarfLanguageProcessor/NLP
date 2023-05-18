@@ -1,0 +1,1 @@
+{"index": 40243, "D": "a breaking down, wearing out, or sudden loss of ability to function efficiently, as of a machine.", "S": ["disintegration ", "disruption ", "failure ", "mishap ", "nervous breakdown "], "A": ["mental balance "]}

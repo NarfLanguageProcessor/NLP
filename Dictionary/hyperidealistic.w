@@ -1,0 +1,1 @@
+{"index": 140192, "D": "of or relating to idealism  or idealists. ", "S": [], "A": []}

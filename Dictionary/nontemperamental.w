@@ -1,0 +1,1 @@
+{"index": 207808, "D": "having or exhibiting a strongly marked, individual temperament. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19568, "D": "a colorless, odorless, chemically inactive, monatomic, gaseous element that, because of its inertness, is used for filling fluorescent and incandescent lamps and vacuum tubes. Symbol", "S": [], "A": []}

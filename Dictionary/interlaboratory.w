@@ -1,0 +1,1 @@
+{"index": 155136, "D": "a building, part of a building, or other place equipped to conduct scientific experiments, tests, investigations, etc., or to manufacture chemicals, medicines, or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149053, "D": "to affect deeply or strongly in mind or feelings; influence in opinion", "S": ["affect ", "awe ", "excite ", "faze ", "inspire ", "sway ", "thrill ", "touch "], "A": ["discourage ", "bear ", "bore ", "calm ", "create ", "delight ", "depress ", "dissuade ", "fail ", "give birth ", "leave alone ", "lose ", "miss ", "please ", "stop "]}

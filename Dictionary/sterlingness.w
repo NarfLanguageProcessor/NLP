@@ -1,0 +1,1 @@
+{"index": 304050, "D": "of, relating to, or noting British money", "S": [], "A": []}

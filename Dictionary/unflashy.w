@@ -1,0 +1,1 @@
+{"index": 342350, "D": "sparkling or brilliant, especially in a superficial way or for the moment", "S": [], "A": []}

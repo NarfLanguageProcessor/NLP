@@ -1,0 +1,1 @@
+{"index": 178067, "D": "rule by a majority, especially the belief that those constituting a simple majority should make the rules for all members of a group, nation, etc.", "S": [], "A": []}

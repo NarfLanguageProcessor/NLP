@@ -1,0 +1,1 @@
+{"index": 85811, "D": "a coarse surficial deposit formerly attributed to a general deluge but now regarded as glacial drift.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 337489, "D": "not involved or interested; disinterested. ", "S": [], "A": []}

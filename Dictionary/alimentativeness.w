@@ -1,0 +1,1 @@
+{"index": 8291, "D": "nourishing; nutritive.", "S": [], "A": []}

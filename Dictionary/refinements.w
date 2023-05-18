@@ -1,0 +1,1 @@
+{"index": 265069, "D": "fineness or elegance of feeling, taste, manners, language, etc.", "S": ["clarification "], "A": ["bad manners ", "corruption ", "crudeness ", "dirtying ", "pollution ", "rudeness "]}

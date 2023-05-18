@@ -1,0 +1,1 @@
+{"index": 340661, "D": "lots of undisturbed sleep", "S": ["peaceful ", "uninterrupted ", "unruffled "], "A": ["anxious ", "damaged ", "disturbed ", "interrupted ", "moved ", "touched ", "troubled "]}

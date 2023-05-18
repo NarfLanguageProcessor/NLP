@@ -1,0 +1,1 @@
+{"index": 332585, "D": "having the shape of an inverted cone; scroll-like; whorled; spiraled.", "S": [], "A": []}

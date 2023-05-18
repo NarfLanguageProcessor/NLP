@@ -1,0 +1,1 @@
+{"index": 113213, "D": "a fire-resisting stone, especially a kind of sandstone used in fireplaces, furnaces, etc.", "S": [], "A": []}

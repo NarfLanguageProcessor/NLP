@@ -1,0 +1,1 @@
+{"index": 103736, "D": "any of several rod-shaped, facultatively anaerobic bacteria of the genus Erysipelothrix, often forming long filaments and occurring as parasites on mammals, birds, and fish.", "S": [], "A": []}

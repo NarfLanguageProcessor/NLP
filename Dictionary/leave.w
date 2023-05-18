@@ -1,0 +1,1 @@
+{"index": 169747, "D": "to go out of or away from, as a place", "S": ["allowance ", "authorization "], "A": ["denial ", "difference ", "disagreement ", "disapproval ", "imprisonment ", "incarceration ", "protest ", "refusal ", "restraint ", "veto "]}

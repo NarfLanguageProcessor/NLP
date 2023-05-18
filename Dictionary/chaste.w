@@ -1,0 +1,1 @@
+{"index": 53048, "D": "refraining from sexual intercourse that is regarded as contrary to morality or religion; virtuous. ", "S": ["celibate ", "monogamous ", "platonic ", "subdued ", "unblemished ", "virginal "], "A": ["corrupt ", "defiled ", "dirty ", "lewd ", "unchaste ", "wanton "]}

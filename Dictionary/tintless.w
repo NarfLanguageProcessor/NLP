@@ -1,0 +1,1 @@
+{"index": 324131, "D": "without tint  or tints;  colorless.", "S": [], "A": []}

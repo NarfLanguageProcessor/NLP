@@ -1,0 +1,1 @@
+{"index": 25783, "D": "material used for refilling an excavation.", "S": [], "A": []}

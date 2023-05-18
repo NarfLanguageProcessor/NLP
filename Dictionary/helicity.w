@@ -1,0 +1,1 @@
+{"index": 135497, "D": "the projection of the spin of an elementary particle on the direction of propagation", "S": [], "A": []}

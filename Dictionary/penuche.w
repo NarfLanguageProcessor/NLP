@@ -1,0 +1,1 @@
+{"index": 230119, "D": "a fudgelike candy made of brown sugar, butter, and milk, usually with nuts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166745, "D": [], "S": ["engaged ", "hired ", "occupied "], "A": ["idle ", "inactive ", "unemployed ", "unengaged ", "unoccupied "]}

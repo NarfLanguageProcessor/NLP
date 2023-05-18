@@ -1,0 +1,1 @@
+{"index": 195106, "D": "numerous and varied; greatly diverse; manifold.", "S": ["assorted ", "complex ", "diversified ", "multiple ", "multiplied ", "varied "], "A": ["same "]}

@@ -1,0 +1,1 @@
+{"index": 351469, "D": "of, relating to, or characteristic of a snob", "S": [], "A": []}

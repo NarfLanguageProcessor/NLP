@@ -1,0 +1,1 @@
+{"index": 12538, "D": "any instrument showing the existence and direction of the wind.", "S": [], "A": []}

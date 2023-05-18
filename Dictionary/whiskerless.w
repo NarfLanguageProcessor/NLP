@@ -1,0 +1,1 @@
+{"index": 365039, "D": [], "S": ["bald ", "clean-shaven "], "A": ["furry ", "hairy ", "hirsute "]}

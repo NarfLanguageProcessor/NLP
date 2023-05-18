@@ -1,0 +1,1 @@
+{"index": 125668, "D": "a furnished vacation home in France that is available for rental, especially in a rural setting.", "S": [], "A": []}

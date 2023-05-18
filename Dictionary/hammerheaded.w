@@ -1,0 +1,1 @@
+{"index": 133007, "D": "the part of a hammer  designed for striking.", "S": [], "A": []}

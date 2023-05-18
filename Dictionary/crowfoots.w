@@ -1,0 +1,1 @@
+{"index": 74009, "D": "any plant of the genus Ranunculus, especially one with divided leaves suggestive of a crow's foot; buttercup.", "S": [], "A": []}

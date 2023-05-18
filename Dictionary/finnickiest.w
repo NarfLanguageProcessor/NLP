@@ -1,0 +1,1 @@
+{"index": 113059, "D": "a less common variant of finicky. ", "S": [], "A": []}

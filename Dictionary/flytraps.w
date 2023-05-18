@@ -1,0 +1,1 @@
+{"index": 114760, "D": "any of various plants that entrap insects, especially the Venus flytrap.", "S": ["box ", "cavity ", "door ", "entrance ", "gate ", "rim "], "A": []}

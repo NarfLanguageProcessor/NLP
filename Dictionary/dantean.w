@@ -1,0 +1,1 @@
+{"index": 76823, "D": "of or relating to Dante  or his writings.", "S": [], "A": []}

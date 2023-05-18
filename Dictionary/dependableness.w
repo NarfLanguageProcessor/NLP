@@ -1,0 +1,1 @@
+{"index": 81550, "D": "the quality of being able to be relied on; trustworthiness or constancy", "S": ["ability ", "capacity ", "efficiency ", "honesty ", "loyalty ", "stability "], "A": ["impotence ", "inability ", "incompetence ", "weakness "]}

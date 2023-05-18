@@ -1,0 +1,1 @@
+{"index": 355247, "D": "a pyrimidine base, C4H4N2O2, that is one of the fundamental components of RNA, in which it forms base pairs with adenine. Symbol", "S": [], "A": []}

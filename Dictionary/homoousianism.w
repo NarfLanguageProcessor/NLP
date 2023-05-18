@@ -1,0 +1,1 @@
+{"index": 143187, "D": "a member of a 4th-century a.d. church party that maintained that the essence or substance of the Father and the Son is the same (opposed to Heteroousian).", "S": [], "A": []}

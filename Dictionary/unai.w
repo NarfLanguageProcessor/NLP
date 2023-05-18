@@ -1,0 +1,1 @@
+{"index": 334767, "D": "either of two sloths of the genus Choloepus, having two claws on the forelimbs and three on the hind limbs, including C. didactylus and C. hoffmanni.", "S": [], "A": []}

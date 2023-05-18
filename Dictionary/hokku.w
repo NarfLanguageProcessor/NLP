@@ -1,0 +1,1 @@
+{"index": 142372, "D": "the opening verse of a linked verse series.", "S": [], "A": []}

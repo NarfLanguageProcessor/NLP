@@ -1,0 +1,1 @@
+{"index": 367656, "D": "a person who tends to worry  habitually and often needlessly; pessimist; fussbudget.", "S": ["doomsayer ", "kill-joy ", "prophet of doom "], "A": []}

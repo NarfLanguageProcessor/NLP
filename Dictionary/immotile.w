@@ -1,0 +1,1 @@
+{"index": 148098, "D": "not able to move; not motile. ", "S": ["established ", "hooked ", "immovable ", "locked ", "rigid ", "settled ", "tight "], "A": ["insecure ", "loose ", "movable ", "moving ", "unfixed ", "unstable "]}

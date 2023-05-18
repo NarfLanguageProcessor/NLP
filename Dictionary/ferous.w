@@ -1,0 +1,1 @@
+{"index": 111445, "D": "a combining form meaning \u201cbearing,\u201d \u201cproducing,\u201d \u201cyielding,\u201d \u201ccontaining,\u201d \u201cconveying,\u201d used in the formation of compound words", "S": [], "A": []}

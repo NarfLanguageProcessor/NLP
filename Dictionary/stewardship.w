@@ -1,0 +1,1 @@
+{"index": 304202, "D": "the position and duties of a steward,  a person who acts as the surrogate of another or others, especially by managing property, financial affairs, an estate, etc.", "S": ["control ", "protection ", "supervision ", "trust "], "A": ["carelessness ", "neglect ", "negligence "]}

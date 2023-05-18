@@ -1,0 +1,1 @@
+{"index": 323903, "D": "any of several birds of the family Tinamidae, of South and Central America, related to the ratite  birds but superficially resembling the gallinaceous  birds.", "S": [], "A": []}

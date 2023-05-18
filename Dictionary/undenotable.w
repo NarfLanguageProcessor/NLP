@@ -1,0 +1,1 @@
+{"index": 338748, "D": "to be a mark or sign of; indicate", "S": [], "A": []}

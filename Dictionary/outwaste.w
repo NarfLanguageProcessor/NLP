@@ -1,0 +1,1 @@
+{"index": 217873, "D": "to consume, spend, or employ uselessly or without adequate return; use to no avail or profit; squander", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97716, "D": "a person's manner of speaking or reading aloud in public", "S": ["declamation ", "delivery ", "diction ", "eloquence ", "enunciation ", "expression ", "locution ", "oratory ", "pronunciation ", "reading ", "rhetoric ", "speech ", "speechmaking ", "utterance "], "A": ["quiet ", "silence "]}

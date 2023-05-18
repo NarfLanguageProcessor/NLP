@@ -1,0 +1,1 @@
+{"index": 338234, "D": "(of a confined space, area, etc) not containing too many people or things", "S": ["cavernous ", "comfortable ", "roomy ", "vast "], "A": ["narrow "]}

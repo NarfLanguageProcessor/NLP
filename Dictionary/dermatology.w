@@ -1,0 +1,1 @@
+{"index": 82168, "D": "the branch of medicine dealing with the skin and its diseases.", "S": [], "A": []}

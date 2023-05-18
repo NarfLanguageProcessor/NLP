@@ -1,0 +1,1 @@
+{"index": 11072, "D": "amphiboly. ", "S": ["ambiguous ", "ambivalent ", "dubious ", "evasive ", "muddled ", "puzzling ", "unclear ", "vague "], "A": ["certain ", "clear ", "definite ", "sure "]}

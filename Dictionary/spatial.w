@@ -1,0 +1,1 @@
+{"index": 298603, "D": "of or relating to space,  the three-dimensional realm or expanse in which all material objects are located and all events occur.", "S": ["dimensional ", "geographical "], "A": []}

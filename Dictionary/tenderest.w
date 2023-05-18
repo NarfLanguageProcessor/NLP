@@ -1,0 +1,1 @@
+{"index": 318738, "D": "soft or delicate in substance; not hard or tough", "S": [], "A": []}

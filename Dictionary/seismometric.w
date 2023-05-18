@@ -1,0 +1,1 @@
+{"index": 283345, "D": "a seismograph equipped for measuring the direction, intensity, and duration of earthquakes by measuring the actual movement of the ground.", "S": [], "A": []}

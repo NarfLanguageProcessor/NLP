@@ -1,0 +1,1 @@
+{"index": 341240, "D": "to advance beyond proper, established, or usual limits; make gradual inroads", "S": [], "A": []}

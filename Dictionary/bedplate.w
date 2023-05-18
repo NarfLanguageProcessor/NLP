@@ -1,0 +1,1 @@
+{"index": 30150, "D": "a plate,  platform, or frame supporting the lighter parts of a machine.", "S": [], "A": []}

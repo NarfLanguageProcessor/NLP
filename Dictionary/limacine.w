@@ -1,0 +1,1 @@
+{"index": 172272, "D": "pertaining to or resembling a slug; sluglike.", "S": [], "A": []}

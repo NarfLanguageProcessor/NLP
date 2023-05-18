@@ -1,0 +1,1 @@
+{"index": 324187, "D": "a typewritten copy of a literary composition, document, or the like, especially as prepared for a printer.", "S": ["book ", "copy ", "edition ", "engraving ", "lettering ", "lithograph ", "magazine ", "newspaper ", "photograph ", "stamp ", "type ", "writing "], "A": []}

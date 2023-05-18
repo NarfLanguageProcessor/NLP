@@ -1,0 +1,1 @@
+{"index": 6833, "D": "a garlic-flavored mayonnaise of Provence, served with fish and seafood and often with vegetables.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113062, "D": "pertaining to or abounding in fish.", "S": [], "A": []}

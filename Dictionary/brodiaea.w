@@ -1,0 +1,1 @@
+{"index": 41151, "D": "any of several plants belonging to the genus Brodiaea,of the amaryllis family, native to western North America, having grasslike basal leaves and clusters of usually purplish flowers.", "S": [], "A": []}

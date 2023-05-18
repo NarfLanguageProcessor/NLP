@@ -1,0 +1,1 @@
+{"index": 159768, "D": "a king who was punished by Zeus for his love for Hera by being bound on an eternally revolving wheel in Tartarus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109988, "D": "a yard  or enclosure surrounded by or connected with farm  buildings.", "S": [], "A": []}

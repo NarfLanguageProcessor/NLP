@@ -1,0 +1,1 @@
+{"index": 105642, "D": "pleasant in sound; agreeable to the ear; characterized by euphony", "S": ["agreeable ", "clear ", "dulcet ", "harmonious ", "mellifluous ", "melodious ", "musical ", "rhythmic ", "smooth ", "sweet-sounding ", "tuneful ", "well-pitched "], "A": []}

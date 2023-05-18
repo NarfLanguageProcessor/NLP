@@ -1,0 +1,1 @@
+{"index": 256448, "D": "to reduce to dust or powder, as by pounding or grinding.", "S": [], "A": []}

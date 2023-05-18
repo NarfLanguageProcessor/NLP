@@ -1,0 +1,1 @@
+{"index": 302303, "D": "a person who moves properties, regulates lighting, etc., in a theatrical production.", "S": [], "A": []}

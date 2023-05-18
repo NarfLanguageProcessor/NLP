@@ -1,0 +1,1 @@
+{"index": 184465, "D": "a system or process of transmitting messages,  especially electronically, by computer, telephone, television cable, etc.", "S": ["augur ", "betoken ", "forebode ", "forecast ", "foreshow ", "foretell ", "herald ", "indicate ", "message ", "offer ", "omen ", "portend ", "predict ", "presage ", "signify ", "stop "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 142094, "D": "an activity or interest pursued for pleasure or relaxation and not as a main occupation", "S": [], "A": []}

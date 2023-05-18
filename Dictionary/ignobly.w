@@ -1,0 +1,1 @@
+{"index": 147068, "D": "of low character, aims, etc.; mean; base", "S": [], "A": []}

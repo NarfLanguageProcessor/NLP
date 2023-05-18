@@ -1,0 +1,1 @@
+{"index": 149050, "D": "not subject to prescription.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 138899, "D": "Compare aeroculture, geoponics (def. 2). ", "S": [], "A": []}

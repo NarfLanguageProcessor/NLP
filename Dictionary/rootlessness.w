@@ -1,0 +1,1 @@
+{"index": 274325, "D": "having no roots. ", "S": ["loneliness "], "A": []}

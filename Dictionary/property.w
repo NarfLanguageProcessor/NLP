@@ -1,0 +1,1 @@
+{"index": 252601, "D": "that which a person owns; the possession or possessions of a particular owner", "S": ["equity ", "estate ", "farm ", "goods ", "home ", "house ", "land ", "ownership ", "plot ", "tract ", "wealth ", "worth "], "A": ["debt "]}

@@ -1,0 +1,1 @@
+{"index": 89892, "D": "the act of distraining;  a distress.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8337, "D": "contained in a number or quantity, but not dividing it evenly", "S": [], "A": []}

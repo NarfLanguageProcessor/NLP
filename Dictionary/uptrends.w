@@ -1,0 +1,1 @@
+{"index": 355191, "D": "a tendency upward or toward growth, especially in economic development.", "S": [], "A": []}

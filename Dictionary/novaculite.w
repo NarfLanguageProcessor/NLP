@@ -1,0 +1,1 @@
+{"index": 209080, "D": "a very hard sedimentary rock, similar to chert, composed essentially of microcrystalline quartz.", "S": [], "A": []}

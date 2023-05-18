@@ -1,0 +1,1 @@
+{"index": 212872, "D": "a list or collection of proper names.", "S": ["reference book "], "A": []}

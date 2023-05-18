@@ -1,0 +1,1 @@
+{"index": 95350, "D": "the destruction of large areas of the natural environment by such activity as nuclear warfare, overexploitation of resources, or dumping of harmful chemicals.", "S": [], "A": []}

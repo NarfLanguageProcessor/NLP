@@ -1,0 +1,1 @@
+{"index": 102775, "D": "the office and dignity of a bishop; bishopric.", "S": ["diocese ", "episcopacy ", "see "], "A": []}

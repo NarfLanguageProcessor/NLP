@@ -1,0 +1,1 @@
+{"index": 294209, "D": "careless, untidy, or slovenly", "S": [], "A": []}

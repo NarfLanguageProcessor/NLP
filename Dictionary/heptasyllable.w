@@ -1,0 +1,1 @@
+{"index": 136817, "D": "a word or line of verse of seven syllables. ", "S": [], "A": []}

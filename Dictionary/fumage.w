@@ -1,0 +1,1 @@
+{"index": 120017, "D": "a tax payable to the king for each hearth in every house owned by a person not exempt from church taxes and poor taxes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1039, "D": "a photoelectric instrument for measuring the concentration of a substance, as a transparent solution, by its absorption  of monochromatic light.", "S": [], "A": []}

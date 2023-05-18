@@ -1,0 +1,1 @@
+{"index": 343298, "D": "consisting of, containing, or resembling grit;  sandy.", "S": [], "A": []}

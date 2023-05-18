@@ -1,0 +1,1 @@
+{"index": 22716, "D": "pertaining to, existing in, or consisting of the atmosphere", "S": ["climatic ", "meteorological "], "A": ["down-to-earth ", "grounded "]}

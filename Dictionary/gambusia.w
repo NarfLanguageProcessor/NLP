@@ -1,0 +1,1 @@
+{"index": 121662, "D": "any fish of the genus Gambusia, comprising small livebearers that feed on aquatic insect larvae and are used to control mosquitoes.", "S": [], "A": []}

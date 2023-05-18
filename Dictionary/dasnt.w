@@ -1,0 +1,1 @@
+{"index": 77123, "D": "contraction of dare not.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111838, "D": "to make feudal;  bring under the feudal system. ", "S": [], "A": []}

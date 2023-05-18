@@ -1,0 +1,1 @@
+{"index": 45349, "D": "made hard; hardened.", "S": ["apathetic ", "careless ", "cold-blooded ", "heartless ", "indifferent ", "insensitive ", "uncaring ", "unsympathetic "], "A": ["caring ", "compassionate ", "concerned ", "feeling ", "interested ", "kind ", "merciful ", "mindful ", "nice ", "responsive ", "sympathetic "]}

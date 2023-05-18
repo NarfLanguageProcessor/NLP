@@ -1,0 +1,1 @@
+{"index": 19523, "D": "an essential amino acid, C6H14N4O2", "S": [], "A": []}

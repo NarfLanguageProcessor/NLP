@@ -1,0 +1,1 @@
+{"index": 252175, "D": "Compare epilogue (def. 1). ", "S": ["foreword ", "prelude "], "A": ["epilogue ", "conclusion ", "end ", "ending ", "finish "]}

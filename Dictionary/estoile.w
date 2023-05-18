@@ -1,0 +1,1 @@
+{"index": 104692, "D": [], "S": ["Jewish star ", "Magen David ", "Star of Bethlehem ", "hexagon ", "hexagram ", "hexahedron "], "A": []}

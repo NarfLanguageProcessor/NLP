@@ -1,0 +1,1 @@
+{"index": 126663, "D": "(in glossematics) an irreducible, invariant form, as a morpheme or tagmeme, that functions as the smallest meaningful unit of linguistic signaling.", "S": [], "A": []}

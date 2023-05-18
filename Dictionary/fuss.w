@@ -1,0 +1,1 @@
+{"index": 120620, "D": "an excessive display of anxious attention or activity; needless or useless bustle", "S": ["commotion ", "confusion ", "controversy ", "excitement ", "flap ", "furor ", "hassle ", "ruckus ", "stink "], "A": ["agreement ", "calm ", "calmness ", "peace ", "quiet ", "ease ", "harmony "]}

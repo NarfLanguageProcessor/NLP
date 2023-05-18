@@ -1,0 +1,1 @@
+{"index": 305722, "D": "a narrow passage of water connecting two large bodies of water.", "S": ["desperate straits ", "difficulties ", "hardship ", "hock "], "A": []}

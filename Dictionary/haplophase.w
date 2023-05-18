@@ -1,0 +1,1 @@
+{"index": 133494, "D": "the haploid portion of an organism's life cycle.", "S": [], "A": []}

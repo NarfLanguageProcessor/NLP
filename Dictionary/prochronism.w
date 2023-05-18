@@ -1,0 +1,1 @@
+{"index": 251234, "D": "a chronological error in which a person, event, etc., is assigned a date earlier than the actual one; prolepsis.", "S": [], "A": []}

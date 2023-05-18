@@ -1,0 +1,1 @@
+{"index": 76787, "D": "any of several cyprinid fishes of the genera Danio and Brachydanio, of India and Sri Lanka, often kept in aquariums.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223174, "D": "a brush  for applying paint,  as one used in painting  houses or one used in painting  pictures.", "S": [], "A": []}

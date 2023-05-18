@@ -1,0 +1,1 @@
+{"index": 15949, "D": "prelacy; episcopacy.", "S": [], "A": []}

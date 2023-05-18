@@ -1,0 +1,1 @@
+{"index": 98165, "D": "the occlusion of a blood vessel by an embolus.", "S": [], "A": []}

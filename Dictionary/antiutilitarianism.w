@@ -1,0 +1,1 @@
+{"index": 16394, "D": "the ethical doctrine that virtue is based on utility,  and that conduct should be directed toward promoting the greatest happiness of the greatest number of persons.", "S": [], "A": []}

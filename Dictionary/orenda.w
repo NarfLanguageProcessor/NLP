@@ -1,0 +1,1 @@
+{"index": 214307, "D": "a supernatural force believed by the Iroquois Indians to be present, in varying degrees, in all objects or persons, and to be the spiritual force by which human accomplishment is attained or accounted for.", "S": [], "A": []}

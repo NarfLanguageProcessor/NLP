@@ -1,0 +1,1 @@
+{"index": 78311, "D": "in no way uncertain or ambiguous; unmistakable; unquestionable", "S": ["determined ", "distinct ", "pronounced ", "resolved ", "settled ", "sure "], "A": ["indistinct ", "obscure ", "vague ", "wavering ", "ambiguous ", "fuzzy ", "indefinite ", "uncertain "]}

@@ -1,0 +1,1 @@
+{"index": 340267, "D": "to turn aside, as from a route, way, course, etc.", "S": ["dependable ", "logical ", "persistent ", "rational ", "steady ", "true "], "A": ["dishonest ", "irrational ", "unreasonable ", "unsteady ", "untrustworthy "]}

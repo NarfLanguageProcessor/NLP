@@ -1,0 +1,1 @@
+{"index": 45371, "D": "having a sedative effect.", "S": ["soft "], "A": ["bitter ", "caustic ", "severe ", "sharp ", "tasty "]}

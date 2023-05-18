@@ -1,0 +1,1 @@
+{"index": 185840, "D": "a symbiotic association of the mycelium of a fungus, especially a basidiomycete, with the roots of certain plants, in which the hyphae form a closely woven mass around the rootlets or penetrate the cells of the root.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178100, "D": "the process of preparing a form for printing by overlays or underlays to equalize the impression.", "S": ["fortify ", "load ", "mobilize ", "prepare ", "protect ", "provide ", "strengthen ", "supply "], "A": ["discourage ", "dissuade ", "weaken ", "neglect "]}

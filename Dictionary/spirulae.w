@@ -1,0 +1,1 @@
+{"index": 300220, "D": "any cephalopod of the genus Spirula, having a flat, spiral shell that is partly inside and partly outside the posterior part of the body.", "S": [], "A": []}

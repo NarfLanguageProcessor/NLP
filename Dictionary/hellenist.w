@@ -1,0 +1,1 @@
+{"index": 135686, "D": "a person, especially in ancient times, adopting Greek speech, ideas, or customs.", "S": [], "A": []}

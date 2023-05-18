@@ -1,0 +1,1 @@
+{"index": 282881, "D": "of or relating to a sector. ", "S": [], "A": []}

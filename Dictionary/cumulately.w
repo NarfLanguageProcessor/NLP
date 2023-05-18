@@ -1,0 +1,1 @@
+{"index": 74956, "D": "to heap up; amass; accumulate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 28313, "D": "a cylindrical wooden container with slightly bulging sides made of staves hooped together, and with flat, parallel ends.", "S": ["cask ", "cylinder ", "drum ", "pipe "], "A": []}

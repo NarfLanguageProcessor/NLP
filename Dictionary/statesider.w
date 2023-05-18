@@ -1,0 +1,1 @@
+{"index": 303059, "D": "a person who lives in any part of the continental United States  or conterminous United States,  rather than in Hawaii or a U.S. territory", "S": [], "A": []}

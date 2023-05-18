@@ -1,0 +1,1 @@
+{"index": 82667, "D": "an article of furniture having a broad, usually level, writing surface, as well as drawers or compartments for papers, writing materials, etc.", "S": ["counter "], "A": []}

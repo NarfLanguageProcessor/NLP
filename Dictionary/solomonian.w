@@ -1,0 +1,1 @@
+{"index": 296851, "D": "of or relating to King Solomon. ", "S": [], "A": []}

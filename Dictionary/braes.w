@@ -1,0 +1,1 @@
+{"index": 39618, "D": "a slope; declivity; hillside.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 319770, "D": [], "S": ["emblematic ", "ominous ", "suggestive ", "symbolic ", "symptomatic "], "A": []}

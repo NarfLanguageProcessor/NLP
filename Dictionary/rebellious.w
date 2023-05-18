@@ -1,0 +1,1 @@
+{"index": 262294, "D": "defying or resisting some established authority, government, or tradition; insubordinate; inclined to rebel.", "S": ["alienated ", "disaffected ", "fractious ", "recalcitrant ", "restless ", "turbulent ", "unruly ", "warring "], "A": ["happy ", "obedient "]}

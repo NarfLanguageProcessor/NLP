@@ -1,0 +1,1 @@
+{"index": 249580, "D": "urgent; demanding immediate attention", "S": ["automatically ", "naturally ", "no doubt ", "undoubtedly ", "unquestionably "], "A": ["doubtfully ", "questionably "]}

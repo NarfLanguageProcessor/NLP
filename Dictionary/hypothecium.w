@@ -1,0 +1,1 @@
+{"index": 141271, "D": "the layer of hyphal tissue directly beneath the hymenium of an apothecium.", "S": [], "A": []}

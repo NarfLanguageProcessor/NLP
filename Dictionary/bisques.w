@@ -1,0 +1,1 @@
+{"index": 35090, "D": "a thick cream soup, especially of pur\u00e9ed shellfish or vegetables.", "S": ["amber ", "blond ", "buff ", "chrome ", "cream ", "gold ", "ivory ", "lemon ", "saffron ", "sand "], "A": []}

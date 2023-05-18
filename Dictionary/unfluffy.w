@@ -1,0 +1,1 @@
+{"index": 342429, "D": "of, resembling, or covered with fluff. ", "S": [], "A": []}

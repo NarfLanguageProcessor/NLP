@@ -1,0 +1,1 @@
+{"index": 102679, "D": "a part or process of a bone separated from the main body of the bone by a layer of cartilage and subsequently uniting with the bone through further ossification.", "S": [], "A": []}

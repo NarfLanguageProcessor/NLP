@@ -1,0 +1,1 @@
+{"index": 200319, "D": "a nightclub.", "S": ["bar ", "bistro ", "cabaret ", "disco ", "discotheque ", "restaurant ", "saloon ", "speakeasy ", "tavern ", "watering hole "], "A": []}

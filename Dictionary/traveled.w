@@ -1,0 +1,1 @@
+{"index": 328585, "D": "having traveled, especially to distant places; experienced in travel. ", "S": ["well-traveled "], "A": ["unsophisticated "]}

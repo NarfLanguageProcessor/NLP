@@ -1,0 +1,1 @@
+{"index": 248598, "D": "an act or instance of following, obeying, or conforming to", "S": [], "A": []}

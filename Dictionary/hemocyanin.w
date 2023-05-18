@@ -1,0 +1,1 @@
+{"index": 136342, "D": "a blue, copper-containing respiratory pigment in the plasma of many invertebrates.", "S": [], "A": []}

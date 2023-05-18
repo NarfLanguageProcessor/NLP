@@ -1,0 +1,1 @@
+{"index": 7703, "D": "an instrument for finding the percentage of alcohol in a liquid.", "S": [], "A": []}

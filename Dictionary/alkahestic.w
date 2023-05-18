@@ -1,0 +1,1 @@
+{"index": 8395, "D": "the universal solvent sought by the alchemists.", "S": [], "A": []}

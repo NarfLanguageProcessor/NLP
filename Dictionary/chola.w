@@ -1,0 +1,1 @@
+{"index": 55366, "D": "(especially among Mexican-Americans) a teenage girl who associates closely with a gang of cholos  or is the girlfriend of a cholo.", "S": [], "A": []}

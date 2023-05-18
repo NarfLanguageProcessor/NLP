@@ -1,0 +1,1 @@
+{"index": 35819, "D": "reproduction by budding.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45233, "D": "a cup  or chalice,  especially one used ceremonially.", "S": [], "A": []}

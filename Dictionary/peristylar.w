@@ -1,0 +1,1 @@
+{"index": 231387, "D": "a colonnade surrounding a building or an open space.", "S": [], "A": []}

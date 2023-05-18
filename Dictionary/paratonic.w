@@ -1,0 +1,1 @@
+{"index": 226186, "D": "(of a plant movement) occurring in response to an external stimulus", "S": [], "A": []}

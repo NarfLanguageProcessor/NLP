@@ -1,0 +1,1 @@
+{"index": 30556, "D": "confused or muddled", "S": ["baffled ", "bewildered "], "A": ["clear ", "clearheaded ", "sober ", "straight "]}

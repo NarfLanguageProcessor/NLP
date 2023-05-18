@@ -1,0 +1,1 @@
+{"index": 30411, "D": "any of numerous insects of the order Coleoptera, characterized by hard, horny forewings that cover and protect the membranous flight wings.", "S": ["oversize "], "A": []}

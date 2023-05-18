@@ -1,0 +1,1 @@
+{"index": 282271, "D": "the scales or small shreds of epidermis that are continually exfoliated from the skin.", "S": [], "A": []}

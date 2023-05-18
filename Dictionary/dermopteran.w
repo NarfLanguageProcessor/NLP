@@ -1,0 +1,1 @@
+{"index": 82271, "D": "any member of the order Dermoptera, comprising the flying lemurs.", "S": [], "A": []}

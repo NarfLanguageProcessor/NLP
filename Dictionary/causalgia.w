@@ -1,0 +1,1 @@
+{"index": 50025, "D": "a neuralgia distinguished by a burning pain along certain nerves, usually of the upper extremities.", "S": [], "A": []}

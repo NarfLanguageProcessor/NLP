@@ -1,0 +1,1 @@
+{"index": 65134, "D": "tending to concentrate; characterized by concentration", "S": [], "A": []}

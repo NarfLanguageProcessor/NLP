@@ -1,0 +1,1 @@
+{"index": 172078, "D": "light, especially in form, appearance, or movement; airy; buoyant; agile; nimble; graceful.", "S": [], "A": []}

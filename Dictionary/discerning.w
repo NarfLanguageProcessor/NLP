@@ -1,0 +1,1 @@
+{"index": 87281, "D": "showing good or outstanding judgment and understanding", "S": ["astute ", "insightful ", "knowledgeable ", "penetrating ", "perceptive ", "piercing "], "A": ["idiotic ", "ignorant ", "stupid ", "unaware ", "unintelligent "]}

@@ -1,0 +1,1 @@
+{"index": 239009, "D": "planks  collectively, as in a floor.", "S": [], "A": []}

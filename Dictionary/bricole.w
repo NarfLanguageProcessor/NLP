@@ -1,0 +1,1 @@
+{"index": 40625, "D": "a shot in which the cue ball strikes a cushion after touching the object ball and before hitting the carom ball.", "S": [], "A": []}

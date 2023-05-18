@@ -1,0 +1,1 @@
+{"index": 40173, "D": "the process of removing all or almost all pubic and other hair in the pelvic area by applying hot wax.", "S": [], "A": []}

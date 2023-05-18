@@ -1,0 +1,1 @@
+{"index": 214021, "D": "a woman who delivers an oration; a public speaker, especially one of great eloquence.", "S": [], "A": []}

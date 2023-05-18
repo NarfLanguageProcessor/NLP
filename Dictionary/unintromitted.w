@@ -1,0 +1,1 @@
+{"index": 344816, "D": "to send, put, or let in; introduce; admit.", "S": [], "A": []}

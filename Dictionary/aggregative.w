@@ -1,0 +1,1 @@
+{"index": 6128, "D": "of or relating to an aggregate. ", "S": [], "A": []}

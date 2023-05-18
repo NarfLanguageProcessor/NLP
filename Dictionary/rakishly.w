@@ -1,0 +1,1 @@
+{"index": 260200, "D": "like a rake;  dissolute", "S": [], "A": []}

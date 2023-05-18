@@ -1,0 +1,1 @@
+{"index": 251390, "D": "a robber who stretched or amputated the limbs of travelers to make them conform to the length of his bed. He was killed by Theseus.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86400, "D": "(of parasites) having a free active stage in the life cycle", "S": [], "A": []}

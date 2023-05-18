@@ -1,0 +1,1 @@
+{"index": 282566, "D": "U.S. mail-order retailer.", "S": ["blight ", "scorch ", "sizzle ", "toast "], "A": ["bloom ", "grow ", "moisten ", "wet "]}

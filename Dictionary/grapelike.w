@@ -1,0 +1,1 @@
+{"index": 129046, "D": "the edible, pulpy, smooth-skinned berry or fruit that grows in clusters on vines of the genusVitis, and from which wine is made.", "S": ["aciniform ", "botryose ", "racemose "], "A": []}

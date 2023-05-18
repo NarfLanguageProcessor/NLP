@@ -1,0 +1,1 @@
+{"index": 328650, "D": "violation of faith; betrayal of trust; treason.", "S": ["betrayal ", "infidelity ", "treason "], "A": ["faithfulness ", "fidelity ", "loyalty ", "forthrightness ", "harmony ", "honesty ", "truthfulness "]}

@@ -1,0 +1,1 @@
+{"index": 197047, "D": "a story or account of events, experiences, or the like, whether true or fictitious.", "S": ["account ", "anecdote ", "book ", "chronicle ", "chronology ", "description ", "detail ", "fiction ", "history ", "narration ", "plot ", "version "], "A": []}

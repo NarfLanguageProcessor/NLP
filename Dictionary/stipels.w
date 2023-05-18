@@ -1,0 +1,1 @@
+{"index": 304731, "D": "a secondary stipule situated at the base of a leaflet of a compound leaf.", "S": [], "A": []}

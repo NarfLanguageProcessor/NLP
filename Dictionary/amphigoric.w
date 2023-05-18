@@ -1,0 +1,1 @@
+{"index": 11150, "D": "a meaningless or nonsensical piece of writing, especially one intended as a parody.", "S": [], "A": []}

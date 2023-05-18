@@ -1,0 +1,1 @@
+{"index": 292504, "D": "an effeminate boy or man.", "S": ["effeminateness ", "femininity ", "unmanliness ", "womanishness ", "womanliness "], "A": []}

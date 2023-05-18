@@ -1,0 +1,1 @@
+{"index": 325018, "D": "to move with short, unsteady steps, as a young child.", "S": ["totter ", "waddle ", "wobble "], "A": []}

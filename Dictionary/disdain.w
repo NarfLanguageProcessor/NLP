@@ -1,0 +1,1 @@
+{"index": 87809, "D": "to look upon or treat with contempt; despise; scorn.", "S": ["antipathy ", "arrogance ", "aversion ", "contempt ", "derision ", "dislike ", "hatred ", "pride ", "ridicule ", "scorn "], "A": ["admiration ", "affection ", "approval ", "flattery ", "humility ", "like ", "liking ", "love ", "praise ", "regard ", "respect ", "sympathy ", "compliment "]}

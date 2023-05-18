@@ -1,0 +1,1 @@
+{"index": 287303, "D": "the animistic religion of northern Asia, embracing a belief in powerful spirits that can be influenced only by shamans. ", "S": ["faith healer ", "healer ", "idolater ", "isangoma ", "mundunugu ", "sorcerer ", "witch doctor "], "A": []}

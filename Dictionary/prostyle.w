@@ -1,0 +1,1 @@
+{"index": 253284, "D": "(of a classical temple) having a portico on the front with the columns in front of the antae.", "S": [], "A": []}

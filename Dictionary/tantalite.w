@@ -1,0 +1,1 @@
+{"index": 316226, "D": "a black, crystalline mineral, iron tantalate, (Fe, Mn) Ta2O6, the principal ore of tantalum  and an end member of a series of solid solutions in which manganese and niobium combine to form columbite.", "S": [], "A": []}

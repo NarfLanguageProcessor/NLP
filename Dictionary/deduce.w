@@ -1,0 +1,1 @@
+{"index": 78921, "D": "to derive as a conclusion from something known or assumed; infer", "S": ["deduct ", "glean ", "infer ", "presuppose ", "surmise "], "A": ["destroy ", "disbelieve ", "disperse ", "disregard ", "distribute ", "divide ", "ignore ", "leave ", "misunderstand ", "reject ", "scatter "]}

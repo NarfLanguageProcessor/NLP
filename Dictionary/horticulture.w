@@ -1,0 +1,1 @@
+{"index": 144124, "D": "the cultivation of a garden, orchard, or nursery; the cultivation of flowers, fruits, vegetables, or ornamental plants.", "S": ["agriculture ", "cultivation ", "farming "], "A": []}

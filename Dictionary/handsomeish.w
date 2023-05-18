@@ -1,0 +1,1 @@
+{"index": 133284, "D": "having an attractive, well-proportioned, and imposing appearance suggestive of health and strength; good-looking", "S": [], "A": []}

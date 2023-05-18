@@ -1,0 +1,1 @@
+{"index": 361815, "D": "Compare living wage, minimum wage. ", "S": ["conduct ", "do ", "fulfill ", "make ", "practice ", "prosecute ", "pursue ", "undertake "], "A": ["cease ", "destroy ", "fail ", "forget ", "halt ", "lose ", "miss ", "neglect ", "stop "]}

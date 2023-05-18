@@ -1,0 +1,1 @@
+{"index": 31092, "D": [], "S": ["accepting ", "assuming ", "convinced ", "positive ", "presuming "], "A": ["disbelieving ", "doubtful ", "doubting ", "mistrustful ", "uncertain ", "unsure ", "untrusting "]}

@@ -1,0 +1,1 @@
+{"index": 138263, "D": "to cause to produce hybrids;  cross.", "S": [], "A": []}

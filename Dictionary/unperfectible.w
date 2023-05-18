@@ -1,0 +1,1 @@
+{"index": 347700, "D": "capable of becoming or of being made perfect;  improvable.", "S": [], "A": []}

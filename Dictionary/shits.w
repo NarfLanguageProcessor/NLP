@@ -1,0 +1,1 @@
+{"index": 288550, "D": "excrement; feces", "S": ["crap ", "poop "], "A": []}

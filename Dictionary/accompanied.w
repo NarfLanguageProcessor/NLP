@@ -1,0 +1,1 @@
+{"index": 1656, "D": "having another person along; acting or done with someone as company", "S": ["abetted ", "advised ", "assisted ", "backed ", "befriended ", "bolstered ", "encouraged ", "maintained ", "nursed ", "relieved ", "supported ", "sustained "], "A": ["discouraged "]}

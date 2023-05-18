@@ -1,0 +1,1 @@
+{"index": 7748, "D": "any of several dark-colored neuropterous insects of the family Sialidae, the larvae of which are aquatic and predacious on other aquatic insects.", "S": [], "A": []}

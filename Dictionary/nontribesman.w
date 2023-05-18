@@ -1,0 +1,1 @@
+{"index": 208023, "D": "a member of a tribe.", "S": [], "A": []}

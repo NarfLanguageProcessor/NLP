@@ -1,0 +1,1 @@
+{"index": 110166, "D": "a prevailing custom or style of dress, etiquette, socializing, etc.", "S": [], "A": []}

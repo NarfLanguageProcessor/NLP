@@ -1,0 +1,1 @@
+{"index": 95054, "D": "a technique for finding molecular weights of substances by measuring the extent to which they change the boiling point of a solvent", "S": [], "A": []}

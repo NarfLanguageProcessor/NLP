@@ -1,0 +1,1 @@
+{"index": 50668, "D": "an ax of stone or metal without perforations or grooves, for hafting.", "S": [], "A": []}

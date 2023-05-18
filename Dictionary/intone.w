@@ -1,0 +1,1 @@
+{"index": 156375, "D": "to utter with a particular tone or voice modulation.", "S": ["articulate ", "chant ", "croon ", "recite ", "sing "], "A": []}

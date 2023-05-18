@@ -1,0 +1,1 @@
+{"index": 241551, "D": "a person who is engaged or versed in polemics.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 101123, "D": "simple past tense and past participle of ensue. ", "S": ["arise ", "befall ", "come up ", "emanate ", "occur ", "turn out "], "A": ["cause ", "cease ", "disregard ", "halt ", "neglect ", "precede ", "repress ", "stop "]}

@@ -1,0 +1,1 @@
+{"index": 170936, "D": "a person who has earned a letter  in an interscholastic or intercollegiate activity, especially a sport.", "S": [], "A": []}

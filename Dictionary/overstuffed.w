@@ -1,0 +1,1 @@
+{"index": 221438, "D": "stuffed or filled to excess.", "S": ["corpulent ", "obese ", "pudgy "], "A": ["skinny ", "slight ", "thin ", "lean ", "slender "]}

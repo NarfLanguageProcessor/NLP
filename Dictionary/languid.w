@@ -1,0 +1,1 @@
+{"index": 168130, "D": "lacking in vigor or vitality; slack or slow", "S": ["lackadaisical ", "laid-back ", "languorous ", "lazy ", "leisurely ", "lethargic ", "sluggish ", "unhurried "], "A": ["active ", "energetic ", "hard-working ", "hurried ", "lively "]}

@@ -1,0 +1,1 @@
+{"index": 287963, "D": "a person, device, machine, etc., that shells  something, as peas or clams.", "S": [], "A": []}

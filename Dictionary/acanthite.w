@@ -1,0 +1,1 @@
+{"index": 1290, "D": "the orthorhombic form of silver sulfide.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 115060, "D": "a cupronickel coin of Great Britain, formerly equal to two shillings or the tenth part of a pound and retained in circulation equal to 10 new pence after decimalization in 1971", "S": [], "A": []}

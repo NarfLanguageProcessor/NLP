@@ -1,0 +1,1 @@
+{"index": 182269, "D": "of, relating to, or resembling a medusa", "S": [], "A": []}

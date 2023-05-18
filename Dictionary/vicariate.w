@@ -1,0 +1,1 @@
+{"index": 359351, "D": "the office or authority of a vicar.", "S": [], "A": []}

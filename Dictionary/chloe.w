@@ -1,0 +1,1 @@
+{"index": 55015, "D": "the lover of Daphnis in a Greek pastoral romance.", "S": [], "A": []}

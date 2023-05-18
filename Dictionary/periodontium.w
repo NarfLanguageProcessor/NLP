@@ -1,0 +1,1 @@
+{"index": 231122, "D": "the bone, connective tissue, and gum surrounding and supporting a tooth.", "S": [], "A": []}

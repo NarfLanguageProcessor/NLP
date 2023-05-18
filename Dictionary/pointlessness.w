@@ -1,0 +1,1 @@
+{"index": 241347, "D": "without a point", "S": ["emptiness ", "ineffectiveness "], "A": []}

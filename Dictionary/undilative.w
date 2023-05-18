@@ -1,0 +1,1 @@
+{"index": 340382, "D": "serving or tending to dilate. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348820, "D": "extremely attentive to punctilios;  strict or exact in the observance of the formalities or amenities of conduct or actions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 274116, "D": "to play or frolic in a lively or boisterous manner.", "S": ["jumpy ", "lively ", "playful "], "A": ["depressed ", "down ", "lifeless "]}

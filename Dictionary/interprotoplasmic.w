@@ -1,0 +1,1 @@
+{"index": 155727, "D": "(no longer in technical use) the colloidal and liquid substance of which cells are formed, excluding horny, chitinous, and other structural material; the cytoplasm and nucleus.", "S": [], "A": []}

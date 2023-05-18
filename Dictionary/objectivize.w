@@ -1,0 +1,1 @@
+{"index": 210123, "D": "to cause to become concrete or objective;  objectify.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107450, "D": "the act or process of exorcising. ", "S": ["purification "], "A": []}

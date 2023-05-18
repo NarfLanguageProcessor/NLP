@@ -1,0 +1,1 @@
+{"index": 164056, "D": "the bituminous matter in oil shale, from which shale oil is obtained by heating and distillation.", "S": [], "A": []}

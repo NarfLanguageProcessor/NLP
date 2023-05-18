@@ -1,0 +1,1 @@
+{"index": 207296, "D": "the state or fact of being published simultaneously, or supplied for simultaneous publication, in a number of newspapers or other periodicals", "S": [], "A": []}

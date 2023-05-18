@@ -1,0 +1,1 @@
+{"index": 71637, "D": "a fellow worker;  colleague.", "S": ["assistant ", "associate ", "companion ", "instructor ", "lecturer ", "professor "], "A": ["enemy ", "foe ", "opponent ", "pupil ", "stranger ", "student ", "inferior "]}

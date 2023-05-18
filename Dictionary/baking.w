@@ -1,0 +1,1 @@
+{"index": 26619, "D": "a baking dish", "S": ["blistering ", "boiling ", "red-hot ", "scorching ", "searing ", "sizzling ", "sweltering "], "A": ["freezing "]}

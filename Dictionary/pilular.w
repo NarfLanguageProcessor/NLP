@@ -1,0 +1,1 @@
+{"index": 236806, "D": "of, relating to, or resembling pills.", "S": [], "A": []}

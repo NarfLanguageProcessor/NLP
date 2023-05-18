@@ -1,0 +1,1 @@
+{"index": 323092, "D": "in the way just indicated; in this way", "S": ["so "], "A": []}

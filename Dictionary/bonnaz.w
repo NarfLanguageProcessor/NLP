@@ -1,0 +1,1 @@
+{"index": 37929, "D": "embroidery made by machine.", "S": [], "A": []}

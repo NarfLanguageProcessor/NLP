@@ -1,0 +1,1 @@
+{"index": 116832, "D": "to ordain or appoint beforehand.", "S": ["destine ", "foredoom ", "foreshadow ", "foretell ", "prearrange ", "predestine ", "predetermine ", "preform ", "preordain ", "reserve "], "A": []}

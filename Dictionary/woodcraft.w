@@ -1,0 +1,1 @@
+{"index": 367128, "D": "skill in anything that pertains to the woods  or forest, especially in making one's way through the woods  or in hunting, trapping, etc.", "S": [], "A": []}

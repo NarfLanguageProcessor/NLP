@@ -1,0 +1,1 @@
+{"index": 265081, "D": "to give a new surface to (wood, furniture, etc.).", "S": ["finish "], "A": ["lay bare ", "reveal ", "roughen ", "strip ", "uncover ", "wrinkle "]}

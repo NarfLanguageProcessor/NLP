@@ -1,0 +1,1 @@
+{"index": 329360, "D": "to infect with trichinae. ", "S": [], "A": []}

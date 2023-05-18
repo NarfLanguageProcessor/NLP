@@ -1,0 +1,1 @@
+{"index": 27043, "D": "a slip or sheet of paper on which a person's vote is marked.", "S": ["election ", "plebiscite ", "poll ", "polling ", "referendum ", "slate ", "tally ", "ticket "], "A": []}

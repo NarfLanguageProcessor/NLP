@@ -1,0 +1,1 @@
+{"index": 91513, "D": "a first-year cadet in the U.S. Air Force Academy.", "S": [], "A": []}

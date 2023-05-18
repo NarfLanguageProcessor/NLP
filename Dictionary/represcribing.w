@@ -1,0 +1,1 @@
+{"index": 268487, "D": "to lay down, in writing or otherwise, as a rule or a course of action to be followed; appoint, ordain, or enjoin.", "S": [], "A": []}

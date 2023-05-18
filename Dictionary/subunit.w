@@ -1,0 +1,1 @@
+{"index": 309660, "D": "a distinct part or component of something larger", "S": [], "A": []}

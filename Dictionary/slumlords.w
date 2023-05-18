@@ -1,0 +1,1 @@
+{"index": 294580, "D": "a landlord who owns slum  buildings, especially one who fails to maintain or improve the buildings and charges tenants exorbitant rents.", "S": [], "A": []}

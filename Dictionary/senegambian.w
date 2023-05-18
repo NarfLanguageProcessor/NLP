@@ -1,0 +1,1 @@
+{"index": 285253, "D": "a region in W Africa between the Senegal and Gambia rivers, now mostly in Senegal.", "S": [], "A": []}

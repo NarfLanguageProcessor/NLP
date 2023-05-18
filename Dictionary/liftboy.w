@@ -1,0 +1,1 @@
+{"index": 171952, "D": "a person who operates a lift, esp in large public or commercial buildings and hotels", "S": [], "A": []}

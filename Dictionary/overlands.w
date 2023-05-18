@@ -1,0 +1,1 @@
+{"index": 219998, "D": "by land; on terrain", "S": [], "A": []}

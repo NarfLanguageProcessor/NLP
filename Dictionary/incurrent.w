@@ -1,0 +1,1 @@
+{"index": 150603, "D": "carrying or relating to an inward current.", "S": [], "A": []}

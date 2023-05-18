@@ -1,0 +1,1 @@
+{"index": 284509, "D": "a small group of students, as in a university, engaged in advanced study and original research under a member of the faculty and meeting regularly to exchange information and hold discussions.", "S": ["convention ", "discussion ", "forum ", "group discussion ", "meeting ", "round table ", "symposium ", "workshop "], "A": []}

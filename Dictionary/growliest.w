@@ -1,0 +1,1 @@
+{"index": 130429, "D": "resembling a growl  in pitch and harshness", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 244392, "D": "of or relating to the diaphragm.", "S": [], "A": []}

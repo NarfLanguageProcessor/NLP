@@ -1,0 +1,1 @@
+{"index": 320520, "D": "a soft, malleable, rare, bluish-white metallic element", "S": [], "A": []}

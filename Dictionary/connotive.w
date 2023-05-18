@@ -1,0 +1,1 @@
+{"index": 66574, "D": "the act of connoting;  the suggesting of an additional meaning for a word or expression, apart from its explicit meaning.", "S": [], "A": []}

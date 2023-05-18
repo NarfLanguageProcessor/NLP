@@ -1,0 +1,1 @@
+{"index": 257929, "D": "Compare existential quantifier, universal quantifier. ", "S": [], "A": []}

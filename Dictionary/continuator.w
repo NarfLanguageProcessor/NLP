@@ -1,0 +1,1 @@
+{"index": 67485, "D": "a person or thing that continues.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92711, "D": "a dealer in cloth; a retail merchant or clerk who sells piece goods.", "S": [], "A": []}

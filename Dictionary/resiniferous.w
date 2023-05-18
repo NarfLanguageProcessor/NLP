@@ -1,0 +1,1 @@
+{"index": 269455, "D": "yielding resin. ", "S": [], "A": []}

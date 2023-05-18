@@ -1,0 +1,1 @@
+{"index": 93435, "D": "a period of dry weather, especially a long one that is injurious to crops.", "S": [], "A": []}

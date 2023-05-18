@@ -1,0 +1,1 @@
+{"index": 327504, "D": "a person who betrays another person, a cause, or any trust.", "S": [], "A": []}

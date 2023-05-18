@@ -1,0 +1,1 @@
+{"index": 98263, "D": "to embroil.", "S": ["ensnare ", "entangle ", "implicate ", "involve ", "mire ", "snarl ", "trouble "], "A": ["exclude ", "free "]}

@@ -1,0 +1,1 @@
+{"index": 289070, "D": "a brief fall of rain or, sometimes, of hail or snow.", "S": ["discharging ", "draining ", "flooding ", "flowing ", "gushing ", "raining ", "running ", "rushing ", "spilling ", "spouting "], "A": []}

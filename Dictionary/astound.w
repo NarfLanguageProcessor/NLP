@@ -1,0 +1,1 @@
+{"index": 22154, "D": "to overwhelm with amazement; astonish greatly; shock with wonder or surprise.", "S": ["astonish ", "bewilder ", "confound ", "confuse ", "dumbfound ", "flabbergast ", "overwhelm ", "shock ", "stagger ", "startle ", "stun ", "stupefy ", "surprise "], "A": ["calm ", "clarify ", "clear up ", "enlighten ", "expect ", "explain "]}

@@ -1,0 +1,1 @@
+{"index": 291478, "D": "combining or bringing together different philosophical, religious, or cultural principles and practices", "S": [], "A": []}

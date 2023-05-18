@@ -1,0 +1,1 @@
+{"index": 48373, "D": "to find fault or complain querulously or unreasonably; be niggling in criticizing; cavil", "S": ["caviler ", "caviller ", "faultfinder ", "nag ", "nagger ", "niggler ", "nitpicker ", "quibbler ", "scold "], "A": []}

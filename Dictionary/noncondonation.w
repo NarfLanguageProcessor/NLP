@@ -1,0 +1,1 @@
+{"index": 202246, "D": "the act of condoning;  the overlooking or implied forgiving of an offense.", "S": [], "A": []}

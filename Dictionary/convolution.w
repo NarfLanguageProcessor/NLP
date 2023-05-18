@@ -1,0 +1,1 @@
+{"index": 68156, "D": "a rolled up or coiled condition.", "S": ["coil ", "complexity ", "contortion ", "curlicue ", "gyration ", "helix ", "intricacy ", "involution ", "sinuosity ", "sinuousness ", "swirl ", "tortuousness ", "twist ", "undulation ", "winding "], "A": ["line ", "straightness "]}

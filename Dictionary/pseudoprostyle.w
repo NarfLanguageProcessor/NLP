@@ -1,0 +1,1 @@
+{"index": 255059, "D": "having a colonnade at each end, either very close to the front wall or engaged in it.", "S": [], "A": []}

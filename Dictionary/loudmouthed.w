@@ -1,0 +1,1 @@
+{"index": 175430, "D": "loud,  gossipy, or indiscreet; vociferous.", "S": ["bellowing ", "big-voiced ", "bigmouthed ", "blustering ", "boisterous ", "full-throated ", "obnoxious ", "vociferous "], "A": []}

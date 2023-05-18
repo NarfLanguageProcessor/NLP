@@ -1,0 +1,1 @@
+{"index": 64251, "D": "inclined to communicate  or impart; talkative", "S": [], "A": []}

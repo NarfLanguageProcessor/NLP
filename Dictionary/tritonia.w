@@ -1,0 +1,1 @@
+{"index": 330746, "D": "any plant of the perennial cormous S African genus Tritonia, with typically scarlet or orange flowers", "S": [], "A": []}

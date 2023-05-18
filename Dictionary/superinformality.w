@@ -1,0 +1,1 @@
+{"index": 312088, "D": "the state of being informal;  absence of formality. ", "S": [], "A": []}

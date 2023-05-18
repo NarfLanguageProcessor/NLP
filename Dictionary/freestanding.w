@@ -1,0 +1,1 @@
+{"index": 118658, "D": "(of sculpture or architectural elements) unattached to a supporting unit or background; standing  alone.", "S": [], "A": []}

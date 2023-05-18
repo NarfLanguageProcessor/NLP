@@ -1,0 +1,1 @@
+{"index": 261280, "D": "to talk wildly, as in delirium.", "S": ["bedlamite ", "crazy person ", "demented ", "deranged ", "idiot ", "imbecile ", "loon ", "lunatic ", "maniac ", "mental case ", "patient ", "psycho ", "psychopath ", "psychotic ", "raver ", "schizophrenic ", "sociopath "], "A": []}

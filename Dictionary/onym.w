@@ -1,0 +1,1 @@
+{"index": 212808, "D": "a combining form of Greek origin, meaning \u201cword,\u201d \u201cname\u201d", "S": [], "A": []}

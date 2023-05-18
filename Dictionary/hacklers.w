@@ -1,0 +1,1 @@
+{"index": 131882, "D": "one of the long, slender feathers on the neck or saddle of certain birds, as the domestic rooster, much used in making artificial flies for anglers.", "S": [], "A": []}

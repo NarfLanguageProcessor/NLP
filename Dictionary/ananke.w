@@ -1,0 +1,1 @@
+{"index": 11864, "D": "a small natural satellite of the planet Jupiter.", "S": [], "A": []}

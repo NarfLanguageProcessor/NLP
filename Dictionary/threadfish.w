@@ -1,0 +1,1 @@
+{"index": 322560, "D": "any of several jacks of the genus Alectis, especially A. ciliaris, having the front rays of the dorsal and anal fins greatly elongated.", "S": [], "A": []}

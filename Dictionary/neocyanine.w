@@ -1,0 +1,1 @@
+{"index": 198305, "D": "a dye used to make photographic emulsions sensitive to infrared radiation.", "S": [], "A": []}

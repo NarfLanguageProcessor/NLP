@@ -1,0 +1,1 @@
+{"index": 297044, "D": "an acrobatic movement, either forward or backward, in which the body rolls end over end, making a complete revolution.", "S": ["bounce ", "bound ", "dive ", "drop ", "fall ", "hop ", "plummet ", "skip ", "surge ", "take ", "top ", "vault "], "A": ["lose ", "retreat "]}

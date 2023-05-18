@@ -1,0 +1,1 @@
+{"index": 90208, "D": "to spread apart; branch; diverge.", "S": ["alter ", "differ ", "diverge ", "diversify ", "divide ", "fluctuate ", "modify ", "range "], "A": ["agree ", "conform ", "disorganize ", "hold ", "join ", "keep ", "maintain ", "remain ", "retain ", "arrive ", "come ", "concur ", "consent ", "continue ", "stay ", "wait "]}

@@ -1,0 +1,1 @@
+{"index": 353240, "D": "to change in outward form or appearance; transform.", "S": [], "A": []}

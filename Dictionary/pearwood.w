@@ -1,0 +1,1 @@
+{"index": 228488, "D": "the hard, fine-grained, reddish wood  of the pear  tree, used for ornamentation, small articles of furniture, and musical instruments.", "S": [], "A": []}

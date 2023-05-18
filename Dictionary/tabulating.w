@@ -1,0 +1,1 @@
+{"index": 314940, "D": "to put or arrange in a tabular, systematic, or condensed form; formulate tabularly.", "S": ["accretion ", "computing ", "counting ", "reckoning ", "summation "], "A": ["decrease ", "deduction ", "lessening ", "loss ", "reduction ", "shrinkage ", "subtraction ", "withdrawal "]}

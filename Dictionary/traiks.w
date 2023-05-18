@@ -1,0 +1,1 @@
+{"index": 327403, "D": "to become ill or lose one's good health.", "S": [], "A": []}

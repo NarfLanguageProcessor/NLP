@@ -1,0 +1,1 @@
+{"index": 148990, "D": "not practicable;  incapable of being put into practice with the available means", "S": ["impossible ", "imprudent ", "infeasible ", "insuperable ", "unfeasible ", "unwise "], "A": ["practicable "]}

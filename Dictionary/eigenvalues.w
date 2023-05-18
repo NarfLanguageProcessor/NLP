@@ -1,0 +1,1 @@
+{"index": 96476, "D": "characteristic root. ", "S": [], "A": []}

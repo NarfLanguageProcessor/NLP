@@ -1,0 +1,1 @@
+{"index": 80570, "D": "the space between the end of a Doric frieze and the first triglyph.", "S": [], "A": []}

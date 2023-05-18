@@ -1,0 +1,1 @@
+{"index": 42570, "D": "obstinately opinionated, especially in refusing to consider alternatives; stubborn.", "S": ["doggedness ", "mulishness ", "pertinacity ", "pigheadedness ", "resolve ", "self-will ", "stubbornness ", "tenaciousness ", "tenacity ", "willfulness "], "A": ["irresolution "]}

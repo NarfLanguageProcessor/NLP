@@ -1,0 +1,1 @@
+{"index": 217880, "D": "to outdo or surpass in watching. ", "S": [], "A": []}

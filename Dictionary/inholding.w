@@ -1,0 +1,1 @@
+{"index": 152714, "D": "a tract of land under private ownership within a national park.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262766, "D": "of or relating to a recession  of the clergy and choir after the service.", "S": [], "A": []}

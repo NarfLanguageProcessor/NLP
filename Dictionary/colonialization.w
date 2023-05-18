@@ -1,0 +1,1 @@
+{"index": 63237, "D": "the act of bringing into subjection or subjugation by colonializing.", "S": [], "A": []}

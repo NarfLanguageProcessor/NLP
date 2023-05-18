@@ -1,0 +1,1 @@
+{"index": 83426, "D": "any of various shrubs belonging to the genus Deutzia, of the saxifrage family, having showy white, pink, or lavender flowers, grown as an ornamental.", "S": [], "A": []}

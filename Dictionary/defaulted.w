@@ -1,0 +1,1 @@
+{"index": 79113, "D": "failure to act; inaction or neglect", "S": ["delinquency ", "nonpayment "], "A": ["abundance ", "accuracy ", "achievement ", "adequacy ", "advantage ", "attention ", "care ", "correction ", "enough ", "excess ", "obedience ", "perfection ", "plenty ", "regard ", "remembrance ", "respect ", "right ", "strength ", "strong point ", "success ", "sufficiency "]}

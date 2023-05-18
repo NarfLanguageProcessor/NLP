@@ -1,0 +1,1 @@
+{"index": 124338, "D": "an association of individuals for common goals, as for entertainment, intellectual, or cultural purposes or for business reasons.", "S": [], "A": []}

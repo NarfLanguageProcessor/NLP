@@ -1,0 +1,1 @@
+{"index": 141287, "D": "to form a hypothesis. ", "S": [], "A": []}

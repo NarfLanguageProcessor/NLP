@@ -1,0 +1,1 @@
+{"index": 153584, "D": "to enclose in or as in a sheath; sheathe. ", "S": [], "A": []}

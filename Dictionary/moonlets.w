@@ -1,0 +1,1 @@
+{"index": 193066, "D": "a small natural or artificial satellite, as one of a number of natural satellites thought to be embedded in the ring system of Saturn.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 306712, "D": "a male given name, form of Stewart  or Stuart. ", "S": [], "A": []}

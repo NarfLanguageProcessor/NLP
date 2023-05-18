@@ -1,0 +1,1 @@
+{"index": 243248, "D": "a thin, flat, triangular muscle in back of the knee, the action of which assists in bending the knee and in rotating the leg toward the body.", "S": [], "A": []}

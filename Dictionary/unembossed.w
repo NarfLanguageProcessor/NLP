@@ -1,0 +1,1 @@
+{"index": 341162, "D": "to raise or represent (surface designs) in relief.", "S": [], "A": []}

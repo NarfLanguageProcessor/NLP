@@ -1,0 +1,1 @@
+{"index": 342000, "D": "extraordinarily good; excellent", "S": ["hardheaded ", "no-nonsense ", "plainspoken ", "pragmatic ", "realistic ", "sensible ", "sober "], "A": ["irrational ", "unrealistic ", "unreasonable "]}

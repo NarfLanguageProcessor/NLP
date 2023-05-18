@@ -1,0 +1,1 @@
+{"index": 195993, "D": "a person who makes music  a profession, especially as a performer of music. ", "S": ["artist ", "composer ", "conductor ", "entertainer ", "instrumentalist ", "performer ", "player ", "soloist ", "virtuoso ", "vocalist "], "A": []}

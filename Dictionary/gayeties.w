@@ -1,0 +1,1 @@
+{"index": 120996, "D": "a variant of gaiety. ", "S": [], "A": []}

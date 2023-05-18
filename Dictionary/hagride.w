@@ -1,0 +1,1 @@
+{"index": 132261, "D": "to afflict with worry, dread, need, or the like; torment.", "S": [], "A": []}

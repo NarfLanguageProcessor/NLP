@@ -1,0 +1,1 @@
+{"index": 179046, "D": "an early lute resembling a large mandolin.", "S": [], "A": []}

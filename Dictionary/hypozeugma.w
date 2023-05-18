@@ -1,0 +1,1 @@
+{"index": 141354, "D": "the use of a succession of subjects with a single predicate.", "S": [], "A": []}

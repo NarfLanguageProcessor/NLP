@@ -1,0 +1,1 @@
+{"index": 172456, "D": "the scientific study of bodies of fresh water, as lakes and ponds, with reference to their physical, geographical, biological, and other features.", "S": [], "A": []}

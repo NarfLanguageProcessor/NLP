@@ -1,0 +1,1 @@
+{"index": 165810, "D": "a brand of portable camera introduced by George Eastman in 1888, using a roll of film and intended for taking snapshots.", "S": ["camcorder "], "A": []}

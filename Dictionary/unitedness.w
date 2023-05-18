@@ -1,0 +1,1 @@
+{"index": 345064, "D": "made into or caused to act as a single entity", "S": [], "A": []}

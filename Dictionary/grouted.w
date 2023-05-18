@@ -1,0 +1,1 @@
+{"index": 130379, "D": "a thin, coarse mortar poured into various narrow cavities, as masonry joints or rock fissures, to fill them and consolidate the adjoining objects into a solid mass.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166226, "D": "a legendary sea monster causing large whirlpools off the coast of Norway.", "S": ["Loch Ness monster ", "giant squid ", "hydra ", "kraken ", "leviathan ", "oarfish "], "A": []}

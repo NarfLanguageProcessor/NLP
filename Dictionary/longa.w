@@ -1,0 +1,1 @@
+{"index": 174884, "D": "the second longest note in medieval mensural notation.", "S": [], "A": []}

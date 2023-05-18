@@ -1,0 +1,1 @@
+{"index": 105053, "D": "the ruler of a people, tribe, or nation.", "S": [], "A": []}

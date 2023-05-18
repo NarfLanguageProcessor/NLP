@@ -1,0 +1,1 @@
+{"index": 174726, "D": "(sometimes capital) another word for arhat", "S": [], "A": []}

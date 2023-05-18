@@ -1,0 +1,1 @@
+{"index": 1197, "D": "a person who owns adjacent land.", "S": [], "A": []}

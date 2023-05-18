@@ -1,0 +1,1 @@
+{"index": 191366, "D": "to bother or bewilder", "S": [], "A": []}

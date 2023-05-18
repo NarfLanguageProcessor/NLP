@@ -1,0 +1,1 @@
+{"index": 189728, "D": "the act or process of organizing. ", "S": [], "A": []}

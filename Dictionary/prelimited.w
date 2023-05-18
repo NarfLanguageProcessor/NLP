@@ -1,0 +1,1 @@
+{"index": 248228, "D": "to limit  within bounds beforehand", "S": ["delineate ", "hem in "], "A": ["aid ", "allow ", "assist ", "free ", "help ", "let go ", "liberate ", "permit ", "release ", "unloose "]}

@@ -1,0 +1,1 @@
+{"index": 204976, "D": "smooth and connected; without breaks between the successive tones.", "S": [], "A": []}

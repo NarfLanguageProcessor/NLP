@@ -1,0 +1,1 @@
+{"index": 2515, "D": "covered with globose vesicles resembling grape seeds, as certain algae.", "S": [], "A": []}

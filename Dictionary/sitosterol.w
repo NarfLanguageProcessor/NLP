@@ -1,0 +1,1 @@
+{"index": 292644, "D": "any of five steroid alcohols having the formula C22H50O, especially the beta form, obtained from various plant sources", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351610, "D": "causing or tending to cause sleep.", "S": [], "A": []}

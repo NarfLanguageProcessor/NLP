@@ -1,0 +1,1 @@
+{"index": 85099, "D": "a mischievous trick; prank; antic.", "S": [], "A": []}

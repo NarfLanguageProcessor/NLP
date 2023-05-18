@@ -1,0 +1,1 @@
+{"index": 62912, "D": "the political principle of centralized social and economic control, especially of all means of production.", "S": [], "A": []}

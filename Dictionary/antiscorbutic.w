@@ -1,0 +1,1 @@
+{"index": 16141, "D": "efficacious against scurvy.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 28308, "D": "fraud by a master or crew at the expense of the owners of the ship or its cargo.", "S": ["contravention ", "dereliction ", "disregard ", "infraction ", "infringement ", "neglect ", "noncompliance ", "offense ", "transgression ", "violation "], "A": ["obedience ", "observance ", "regard ", "respect "]}

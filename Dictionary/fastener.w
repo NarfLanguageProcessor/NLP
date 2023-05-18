@@ -1,0 +1,1 @@
+{"index": 110187, "D": "any of various devices for fastening. ", "S": ["latch ", "screw "], "A": ["key "]}

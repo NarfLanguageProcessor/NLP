@@ -1,0 +1,1 @@
+{"index": 209951, "D": "a hereditary tribal ruler among various peoples in the Benin region of western Africa.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230232, "D": "a pungent condiment obtained from various plants of the genus Piper, especially from the dried berries, used whole or ground, of the tropical climbing shrub P. nigrum.", "S": ["dressing ", "gravy ", "horseradish ", "ketchup ", "mustard ", "relish ", "salsa ", "salt ", "sauce ", "seasoning ", "spice "], "A": []}

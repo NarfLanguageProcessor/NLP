@@ -1,0 +1,1 @@
+{"index": 113608, "D": "fastened, attached, or placed so as to be firm and not readily movable; firmly implanted; stationary; rigid.", "S": ["determination ", "inflexibility ", "steadfastness "], "A": ["flexibility ", "indefiniteness ", "infirmity ", "instability ", "movability ", "softness ", "uncertainty ", "weakness "]}

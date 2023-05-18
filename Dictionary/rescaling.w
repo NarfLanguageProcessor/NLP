@@ -1,0 +1,1 @@
+{"index": 269040, "D": "to revise the scale  of, especially to make smaller or more modest", "S": [], "A": []}

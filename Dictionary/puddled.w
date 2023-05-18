@@ -1,0 +1,1 @@
+{"index": 256022, "D": "a small pool of water, as of rainwater on the ground.", "S": ["amuse oneself ", "dabble ", "dawdle ", "doodle ", "fool around ", "loiter ", "muck around ", "play ", "play around ", "play the fool ", "potter ", "puddle ", "putter ", "tinker ", "trifle "], "A": ["labor ", "toil ", "work "]}

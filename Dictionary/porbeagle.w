@@ -1,0 +1,1 @@
+{"index": 243348, "D": "a shark of the genus Lamna, especially L. nasus, a large, voracious species of the North Atlantic  and North Pacific  Oceans.", "S": [], "A": []}

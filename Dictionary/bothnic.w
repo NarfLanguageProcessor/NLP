@@ -1,0 +1,1 @@
+{"index": 38732, "D": "an arm of the Baltic Sea, extending N between Sweden and Finland. About 400 miles (645 km) long.", "S": [], "A": []}

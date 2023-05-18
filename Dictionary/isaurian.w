@@ -1,0 +1,1 @@
+{"index": 158578, "D": "of or relating to Isauria, an ancient district of S central Asia Minor, or its inhabitants", "S": [], "A": []}

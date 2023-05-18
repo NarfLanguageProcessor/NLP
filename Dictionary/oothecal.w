@@ -1,0 +1,1 @@
+{"index": 213133, "D": "a case or capsule containing eggs, as that of certain gastropods and insects.", "S": [], "A": []}

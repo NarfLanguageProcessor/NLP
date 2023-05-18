@@ -1,0 +1,1 @@
+{"index": 352939, "D": "the characteristic or habit of anticipating and being attentive to the needs and interests of others", "S": ["carelessness ", "disregard ", "heedlessness ", "inattention ", "inconsiderateness ", "inconsideration ", "neglect ", "negligence ", "oversight "], "A": ["attention ", "care ", "regard ", "respect ", "success "]}

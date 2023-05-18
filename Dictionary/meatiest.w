@@ -1,0 +1,1 @@
+{"index": 181830, "D": "of or like meat. ", "S": ["interesting ", "weighty "], "A": ["insignificant ", "thin "]}

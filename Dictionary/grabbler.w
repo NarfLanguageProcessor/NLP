@@ -1,0 +1,1 @@
+{"index": 128468, "D": "to feel or search with the hands; grope.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 116007, "D": "to instigate or foster (discord, rebellion, etc.); promote the growth or development of", "S": ["anarchist ", "demagogue ", "firebrand ", "malcontent ", "propagandist ", "protestor ", "radical ", "troublemaker ", "zealot "], "A": ["moderate "]}

@@ -1,0 +1,1 @@
+{"index": 217134, "D": "to offer devout petition, praise, thanks, etc., to (God or an object of worship).", "S": [], "A": []}

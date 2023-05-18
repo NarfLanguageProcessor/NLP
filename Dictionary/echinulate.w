@@ -1,0 +1,1 @@
+{"index": 95250, "D": "(of a plant or animal) having a covering of prickles or small spines.", "S": [], "A": []}

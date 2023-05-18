@@ -1,0 +1,1 @@
+{"index": 250414, "D": "to inquire impertinently or unnecessarily into something", "S": ["poke "], "A": ["ignore ", "neglect "]}

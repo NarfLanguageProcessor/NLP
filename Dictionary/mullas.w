@@ -1,0 +1,1 @@
+{"index": 194933, "D": "(in Islamic countries) a title of respect for a person who is learned in, teaches, or expounds the sacred law.", "S": [], "A": []}

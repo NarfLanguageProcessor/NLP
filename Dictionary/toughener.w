@@ -1,0 +1,1 @@
+{"index": 326597, "D": "to make or become tough  or tougher. ", "S": [], "A": []}

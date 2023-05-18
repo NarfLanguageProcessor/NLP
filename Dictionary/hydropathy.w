@@ -1,0 +1,1 @@
+{"index": 138817, "D": "the curing of disease by the internal and external use of water.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216218, "D": "to consecrate or sanctify by a religious rite; make or pronounce holy.", "S": [], "A": []}

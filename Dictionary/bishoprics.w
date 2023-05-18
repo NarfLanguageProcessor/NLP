@@ -1,0 +1,1 @@
+{"index": 35018, "D": "the see, diocese, or office of a bishop.", "S": ["diocese ", "episcopacy ", "episcopate ", "see "], "A": []}

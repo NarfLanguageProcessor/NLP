@@ -1,0 +1,1 @@
+{"index": 312918, "D": "to turn to a supine  position; rotate (the hand or foot) so that the palm or sole is upward.", "S": [], "A": []}

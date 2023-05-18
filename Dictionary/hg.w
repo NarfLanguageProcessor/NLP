@@ -1,0 +1,1 @@
+{"index": 138122, "D": "hectogram; hectograms.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98950, "D": "(in prescriptions) an emulsion.", "S": [], "A": []}

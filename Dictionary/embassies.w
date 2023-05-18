@@ -1,0 +1,1 @@
+{"index": 98022, "D": "a body of people entrusted with a mission to a sovereign or government, especially an ambassador  and their staff.", "S": ["commission ", "consulate ", "delegation ", "ministry "], "A": []}

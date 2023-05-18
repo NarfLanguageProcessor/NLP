@@ -1,0 +1,1 @@
+{"index": 279628, "D": "a leafless peduncle rising from the ground.", "S": ["perspective ", "prospect "], "A": ["indifference ", "past "]}

@@ -1,0 +1,1 @@
+{"index": 253676, "D": "pertaining to or designating a style of vase painting developed in Greece chiefly during the 10th century b.c. and characterized by use of abstract geometrical motifs.", "S": [], "A": []}

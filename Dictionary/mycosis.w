@@ -1,0 +1,1 @@
+{"index": 185850, "D": "the presence of parasitic fungi in or on any part of the body.", "S": [], "A": []}

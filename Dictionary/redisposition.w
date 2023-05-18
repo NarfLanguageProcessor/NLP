@@ -1,0 +1,1 @@
+{"index": 264259, "D": "the predominant or prevailing tendency of one's spirits; natural mental and emotional outlook or mood; characteristic attitude", "S": [], "A": []}

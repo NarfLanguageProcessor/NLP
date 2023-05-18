@@ -1,0 +1,1 @@
+{"index": 268830, "D": "held in good repute;  honorable; respectable; estimable", "S": ["allegedly ", "ostensibly ", "possibly ", "probably ", "supposedly "], "A": ["improbably ", "unlikely "]}

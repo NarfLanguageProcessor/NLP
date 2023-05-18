@@ -1,0 +1,1 @@
+{"index": 209378, "D": "an atomic species in which the atoms all have the same atomic number and mass number.", "S": [], "A": []}

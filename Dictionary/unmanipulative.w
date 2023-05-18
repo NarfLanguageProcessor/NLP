@@ -1,0 +1,1 @@
+{"index": 345980, "D": "to manage or influence skillfully, especially in an unfair manner", "S": [], "A": []}

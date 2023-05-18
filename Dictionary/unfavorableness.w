@@ -1,0 +1,1 @@
+{"index": 342063, "D": "not favorable;  contrary; adverse", "S": [], "A": []}

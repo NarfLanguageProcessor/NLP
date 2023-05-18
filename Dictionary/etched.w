@@ -1,0 +1,1 @@
+{"index": 104816, "D": "to cut, bite, or corrode with an acid or the like; engrave with an acid or the like, as to form a design in furrows that when charged with ink will give an impression on paper.", "S": ["chiseled ", "engraved ", "sculpted ", "sculptured "], "A": []}

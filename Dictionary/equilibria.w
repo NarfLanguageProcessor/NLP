@@ -1,0 +1,1 @@
+{"index": 103278, "D": "a state of rest or balance due to the equal action of opposing forces.", "S": [], "A": []}

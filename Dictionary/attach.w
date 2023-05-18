@@ -1,0 +1,1 @@
+{"index": 22921, "D": "to fasten or affix; join; connect", "S": ["add ", "adhere ", "affix ", "connect ", "fix ", "hook up ", "link ", "secure ", "stick ", "tie "], "A": ["detach ", "disconnect ", "loose ", "loosen ", "lose ", "remove ", "separate ", "unfasten ", "unfix ", "untie ", "disjoin ", "divide "]}

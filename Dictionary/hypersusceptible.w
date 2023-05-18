@@ -1,0 +1,1 @@
+{"index": 140543, "D": "hypersensitive (def. 2). ", "S": [], "A": []}

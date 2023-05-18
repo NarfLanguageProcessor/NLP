@@ -1,0 +1,1 @@
+{"index": 335008, "D": "of one mind; in complete agreement; agreed.", "S": ["consistent ", "solid ", "unified ", "united ", "universal "], "A": ["divided "]}

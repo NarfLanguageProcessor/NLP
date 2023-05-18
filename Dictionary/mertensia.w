@@ -1,0 +1,1 @@
+{"index": 183976, "D": "any of various plants belonging to the genus Mertensia, of the borage family, including the lungworts and the Virginia cowslip.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133962, "D": "a person who or thing that harries. ", "S": ["oppressor ", "rascal "], "A": []}

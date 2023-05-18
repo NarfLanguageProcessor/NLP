@@ -1,0 +1,1 @@
+{"index": 120533, "D": "taken, done, used, etc., surreptitiously or by stealth; secret", "S": ["concealment ", "covertness ", "secrecy ", "secretiveness ", "slyness ", "sneakiness ", "stealthiness "], "A": ["revelation "]}

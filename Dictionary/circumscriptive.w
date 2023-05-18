@@ -1,0 +1,1 @@
+{"index": 58228, "D": "an act or instance of circumscribing. ", "S": [], "A": []}

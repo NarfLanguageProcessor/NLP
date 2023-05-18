@@ -1,0 +1,1 @@
+{"index": 291369, "D": "free of deceit, hypocrisy, or falseness; earnest", "S": ["candid ", "earnest ", "forthright ", "genuine ", "heartfelt ", "outspoken ", "real ", "serious ", "true ", "trustworthy "], "A": ["counterfeit ", "deceitful ", "devious ", "dishonest ", "false ", "flippant ", "insincere ", "invalid ", "trivial ", "unimportant ", "unreal ", "untrustworthy "]}

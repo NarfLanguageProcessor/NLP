@@ -1,0 +1,1 @@
+{"index": 59895, "D": "someone or something that clicks.", "S": ["push-button control ", "remote "], "A": []}

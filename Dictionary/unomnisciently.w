@@ -1,0 +1,1 @@
+{"index": 347139, "D": "having complete or unlimited knowledge, awareness, or understanding; perceiving all things.", "S": [], "A": []}

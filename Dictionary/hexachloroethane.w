@@ -1,0 +1,1 @@
+{"index": 137891, "D": "a colorless crystalline compound, C2Cl6, with a camphorlike odor, soluble in alcohol and ether, insoluble in water", "S": [], "A": []}

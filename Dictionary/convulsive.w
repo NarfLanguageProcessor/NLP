@@ -1,0 +1,1 @@
+{"index": 68191, "D": "of the nature of or characterized by convulsions  or spasms.", "S": ["fiery ", "frenzied ", "hazardous ", "meteoric ", "stormy ", "tense ", "touchy ", "ugly ", "uncontrollable ", "unstable ", "violent "], "A": ["calm ", "controlled ", "gentle ", "laid-back ", "mild ", "moderate ", "safe "]}

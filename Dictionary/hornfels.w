@@ -1,0 +1,1 @@
+{"index": 143855, "D": "a dark, fine-grained metamorphic rock, the result of recrystallization of siliceous or argillaceous sediments by contact metamorphism.", "S": [], "A": []}

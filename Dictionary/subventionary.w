@@ -1,0 +1,1 @@
+{"index": 309709, "D": "a grant of money, as by a government or some other authority, in aid or support of some institution or undertaking, especially in connection with science or the arts.", "S": [], "A": []}

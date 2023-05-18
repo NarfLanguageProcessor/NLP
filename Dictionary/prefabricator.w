@@ -1,0 +1,1 @@
+{"index": 247480, "D": "to fabricate  or construct beforehand.", "S": [], "A": []}

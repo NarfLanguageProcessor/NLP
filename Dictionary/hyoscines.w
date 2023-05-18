@@ -1,0 +1,1 @@
+{"index": 139772, "D": "scopolamine. ", "S": [], "A": []}

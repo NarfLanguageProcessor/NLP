@@ -1,0 +1,1 @@
+{"index": 243007, "D": "any aquatic plant of the genus Potamogeton, most species of which grow in ponds  and quiet streams.", "S": [], "A": []}

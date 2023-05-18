@@ -1,0 +1,1 @@
+{"index": 145459, "D": "yet another bloody acronym", "S": [], "A": []}

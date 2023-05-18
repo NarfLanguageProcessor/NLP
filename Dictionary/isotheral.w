@@ -1,0 +1,1 @@
+{"index": 159283, "D": "a line on a weather map or chart connecting points that have the same mean summer temperature.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308267, "D": "situated or occurring underneath or below; underlying.", "S": [], "A": []}

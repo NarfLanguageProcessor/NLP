@@ -1,0 +1,1 @@
+{"index": 24608, "D": "characterized by avarice;  greedy; covetous.", "S": ["covetous ", "gluttonous ", "hoarding ", "money-grubbing ", "pleonectic ", "predatory ", "rapacious ", "selfish ", "tight "], "A": []}

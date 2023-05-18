@@ -1,0 +1,1 @@
+{"index": 289227, "D": "a member of a fraternal order (Ancient Arabic Order of Nobles of the Mystic Shrine ) that is an auxiliary of the Masonic order and is dedicated to good fellowship, health programs, charitable works, etc.", "S": [], "A": []}

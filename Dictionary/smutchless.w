@@ -1,0 +1,1 @@
+{"index": 295166, "D": "to smudge or soil.", "S": [], "A": []}

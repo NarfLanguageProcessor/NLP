@@ -1,0 +1,1 @@
+{"index": 35869, "D": "in a shameless or conspicuous way; flagrantly", "S": ["caught ", "in flagrante delicto ", "openly "], "A": []}

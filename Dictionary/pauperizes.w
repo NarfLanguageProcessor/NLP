@@ -1,0 +1,1 @@
+{"index": 228147, "D": "to make a pauper  of", "S": ["bankrupt ", "impoverish ", "ruin "], "A": ["enrich ", "make rich ", "better oneself ", "feather one's nest ", "move up in the world ", "profit "]}

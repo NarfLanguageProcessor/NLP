@@ -1,0 +1,1 @@
+{"index": 2574, "D": "a failure of the foramen ovale of the heart to close.", "S": [], "A": []}

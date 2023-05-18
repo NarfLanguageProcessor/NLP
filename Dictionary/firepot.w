@@ -1,0 +1,1 @@
+{"index": 113192, "D": "the part of a household furnace in which the fire is made.", "S": [], "A": []}

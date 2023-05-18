@@ -1,0 +1,1 @@
+{"index": 250366, "D": "a puncture made by a needle, thorn, or the like.", "S": [], "A": []}

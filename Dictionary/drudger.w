@@ -1,0 +1,1 @@
+{"index": 93487, "D": "a person who does menial, distasteful, dull, or hard work.", "S": [], "A": []}

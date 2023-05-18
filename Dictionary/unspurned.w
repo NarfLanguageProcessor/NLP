@@ -1,0 +1,1 @@
+{"index": 351857, "D": "treated or rejected with scorn or contempt", "S": [], "A": []}

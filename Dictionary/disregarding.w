@@ -1,0 +1,1 @@
+{"index": 89317, "D": "to pay no attention to; leave out of consideration; ignore", "S": ["canceling ", "discarding ", "excepting ", "excluding ", "ignoring ", "missing ", "neglecting ", "overlooking ", "precluding ", "repudiating ", "slighting ", "withholding "], "A": ["including ", "inserting ", "mentioning "]}

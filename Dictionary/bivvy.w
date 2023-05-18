@@ -1,0 +1,1 @@
+{"index": 35353, "D": "a small tent or shelter", "S": [], "A": []}

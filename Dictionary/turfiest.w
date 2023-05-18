@@ -1,0 +1,1 @@
+{"index": 332677, "D": "covered with or consisting of grassy turf. ", "S": ["carpeted ", "lush ", "verdant "], "A": []}

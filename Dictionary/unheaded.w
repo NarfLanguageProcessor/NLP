@@ -1,0 +1,1 @@
+{"index": 343582, "D": "having a heading  or course.", "S": [], "A": []}

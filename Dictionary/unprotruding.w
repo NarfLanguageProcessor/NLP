@@ -1,0 +1,1 @@
+{"index": 348717, "D": "projecting outward, as from a surface", "S": [], "A": []}

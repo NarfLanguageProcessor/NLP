@@ -1,0 +1,1 @@
+{"index": 258240, "D": "of or relating to the Quechua  language or people.", "S": [], "A": []}

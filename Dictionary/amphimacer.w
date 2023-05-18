@@ -1,0 +1,1 @@
+{"index": 11158, "D": "a trisyllabic foot, the arrangement of the syllables of which is long, short, long in quantitative meter, or stressed, unstressed, stressed in accentual meter, as anodyne, an accentual amphimacer.", "S": [], "A": []}

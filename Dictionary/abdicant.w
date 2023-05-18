@@ -1,0 +1,1 @@
+{"index": 247, "D": "abdicating, forsaking, or deserting", "S": [], "A": []}

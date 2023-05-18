@@ -1,0 +1,1 @@
+{"index": 243411, "D": "resembling a pore in form.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80307, "D": "a chemical agent, as titanium dioxide, used in reducing the sheen of a yarn or fabric.", "S": [], "A": []}

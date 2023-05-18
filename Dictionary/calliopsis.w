@@ -1,0 +1,1 @@
+{"index": 45300, "D": "any of several species of coreopsis, especially Coreopsis tinctoria, a widely cultivated garden plant.", "S": [], "A": []}

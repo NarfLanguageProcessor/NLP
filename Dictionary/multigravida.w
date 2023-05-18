@@ -1,0 +1,1 @@
+{"index": 195126, "D": "a pregnant woman who has been pregnant two or more times.", "S": [], "A": []}

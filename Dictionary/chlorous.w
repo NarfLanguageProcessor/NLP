@@ -1,0 +1,1 @@
+{"index": 55232, "D": "containing trivalent chlorine.", "S": [], "A": []}

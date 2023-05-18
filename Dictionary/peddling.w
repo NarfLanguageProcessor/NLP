@@ -1,0 +1,1 @@
+{"index": 228814, "D": "trifling; paltry; piddling.", "S": ["business ", "commerce ", "communication ", "industry ", "trade ", "truck "], "A": ["unemployment ", "antagonism ", "disagreement "]}

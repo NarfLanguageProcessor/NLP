@@ -1,0 +1,1 @@
+{"index": 368225, "D": "of or relating to a yellow or yellowish color.", "S": [], "A": []}

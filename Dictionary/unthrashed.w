@@ -1,0 +1,1 @@
+{"index": 352943, "D": "to beat soundly in punishment; flog.", "S": [], "A": []}

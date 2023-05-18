@@ -1,0 +1,1 @@
+{"index": 140919, "D": "diminished strength; adynamia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173993, "D": "Compare hardware (def. 2), software", "S": [], "A": []}

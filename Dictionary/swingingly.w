@@ -1,0 +1,1 @@
+{"index": 314499, "D": "characterized by or capable of swinging, being swung, or causing to swing.", "S": [], "A": []}

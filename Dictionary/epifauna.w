@@ -1,0 +1,1 @@
+{"index": 102414, "D": "the aggregate of animals that live on the surface of the bottom of an ocean, river, or lake, or are attached to other aquatic organisms or submerged rocks.", "S": [], "A": []}

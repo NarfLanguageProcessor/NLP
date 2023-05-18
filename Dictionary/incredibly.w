@@ -1,0 +1,1 @@
+{"index": 150448, "D": "in a way that is extraordinary, seemingly impossible, or difficult to believe; incredulously", "S": ["especially ", "fabulously ", "strangely ", "uncommonly "], "A": ["commonly ", "normally ", "usually "]}

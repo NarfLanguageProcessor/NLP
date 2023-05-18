@@ -1,0 +1,1 @@
+{"index": 32577, "D": "brutish or beastly character or behavior; beastliness.", "S": ["barbarity ", "beastliness ", "brutality ", "depravity ", "inhumanity ", "savagery ", "truculence ", "truculency ", "wickedness "], "A": ["kindness "]}

@@ -1,0 +1,1 @@
+{"index": 124265, "D": "not vulnerable to the action or penetration of germs. ", "S": [], "A": []}

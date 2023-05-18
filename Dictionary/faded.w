@@ -1,0 +1,1 @@
+{"index": 109136, "D": "having lost brightness, intensity, volume, etc., as of light, color, or sound", "S": ["run down ", "seedy ", "shabby ", "tacky ", "tattered ", "threadbare ", "worn "], "A": ["fresh ", "good ", "new ", "nice ", "unused ", "active ", "bright ", "clear ", "colorful ", "intelligent ", "light ", "smart "]}

@@ -1,0 +1,1 @@
+{"index": 282988, "D": "abounding, covered, or bordered with sedge. ", "S": ["carpeted ", "lush ", "verdant "], "A": []}

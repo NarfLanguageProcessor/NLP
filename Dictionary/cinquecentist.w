@@ -1,0 +1,1 @@
+{"index": 57826, "D": "an Italian writer or artist of the 16th century.", "S": [], "A": []}

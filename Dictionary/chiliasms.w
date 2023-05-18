@@ -1,0 +1,1 @@
+{"index": 54348, "D": "the doctrine of Christ's expected return to reign on earth for 1000 years; millennialism.", "S": [], "A": []}

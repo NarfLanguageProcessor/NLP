@@ -1,0 +1,1 @@
+{"index": 34418, "D": "the use or emphasis of biological  principles or methods in explaining human, especially social, behavior.", "S": [], "A": []}

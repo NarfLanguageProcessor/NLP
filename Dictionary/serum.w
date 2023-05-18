@@ -1,0 +1,1 @@
+{"index": 286409, "D": "the clear, pale-yellow liquid that separates from the clot in the coagulation of blood; blood serum. ", "S": ["antibody "], "A": []}

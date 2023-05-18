@@ -1,0 +1,1 @@
+{"index": 74371, "D": "comblike or pectinate; rough-edged.", "S": [], "A": []}

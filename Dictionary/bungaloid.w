@@ -1,0 +1,1 @@
+{"index": 42839, "D": "of, relating to, or characteristic of the style or appearance of a bungalow. ", "S": [], "A": []}

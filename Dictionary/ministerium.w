@@ -1,0 +1,1 @@
+{"index": 187937, "D": "an organization of local ministers or religious leaders who work with other community leaders on social or educational programs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349126, "D": "not reasoning  or exercising reason; reasonless; thoughtless; irrational", "S": ["foolishly ", "impulsively ", "passionately ", "recklessly "], "A": ["carefully ", "cautiously ", "considerately ", "purposely ", "reasonably ", "sensibly "]}

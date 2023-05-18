@@ -1,0 +1,1 @@
+{"index": 170941, "D": "a process of printing that transfers the image from a letterpress-type relief plate to a roller or blanket from which it is offset.", "S": [], "A": []}

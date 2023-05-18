@@ -1,0 +1,1 @@
+{"index": 23259, "D": "any shrub of the genus Aucuba, native to Asia, having evergreen leaves, clusters of purple flowers, and brightly colored berries.", "S": [], "A": []}

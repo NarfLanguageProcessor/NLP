@@ -1,0 +1,1 @@
+{"index": 261750, "D": "to grasp or understand clearly.", "S": [], "A": []}

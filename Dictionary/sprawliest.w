@@ -1,0 +1,1 @@
+{"index": 301210, "D": "tending to sprawl;  straggly", "S": [], "A": []}

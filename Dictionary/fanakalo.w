@@ -1,0 +1,1 @@
+{"index": 109647, "D": "a lingua franca based on English, Afrikaans, Xhosa, and Zulu, used especially in the mines of South Africa.", "S": [], "A": []}

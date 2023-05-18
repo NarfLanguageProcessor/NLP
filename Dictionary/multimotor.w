@@ -1,0 +1,1 @@
+{"index": 195201, "D": "a comparatively small and powerful engine, especially an internal-combustion engine in an automobile, motorboat,  or the like.", "S": [], "A": []}

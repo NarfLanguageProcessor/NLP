@@ -1,0 +1,1 @@
+{"index": 202150, "D": "pleased, especially with oneself or one's merits, advantages, situation, etc., often without awareness of some potential danger or defect; self-satisfied", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341154, "D": "to beautify by or as if by ornamentation; ornament; adorn.", "S": ["bare-bones ", "basic ", "no-frills ", "plain ", "unadorned ", "undecorated "], "A": ["adorned ", "decorated ", "embellished ", "fancy ", "ornate "]}

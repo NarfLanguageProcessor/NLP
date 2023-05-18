@@ -1,0 +1,1 @@
+{"index": 267118, "D": "to send back, remit, or consign again.", "S": [], "A": []}

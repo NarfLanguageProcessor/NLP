@@ -1,0 +1,1 @@
+{"index": 86872, "D": "to make unable or unfit; weaken or destroy the capability of; incapacitate", "S": [], "A": []}

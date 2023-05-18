@@ -1,0 +1,1 @@
+{"index": 62814, "D": "characterized or accomplished by collaboration", "S": ["collective ", "combining ", "joint ", "shared ", "synergetic ", "synergic ", "synergistic "], "A": []}

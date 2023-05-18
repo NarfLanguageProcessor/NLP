@@ -1,0 +1,1 @@
+{"index": 363567, "D": "causing weariness; fatiguing", "S": [], "A": []}

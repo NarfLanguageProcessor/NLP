@@ -1,0 +1,1 @@
+{"index": 167367, "D": "(in medieval French literature)", "S": [], "A": []}

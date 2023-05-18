@@ -1,0 +1,1 @@
+{"index": 73373, "D": "crystalline.", "S": [], "A": []}

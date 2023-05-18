@@ -1,0 +1,1 @@
+{"index": 53913, "D": "a contemptuous term used to refer to a person of Czech extraction, usually an immigrant.", "S": [], "A": []}

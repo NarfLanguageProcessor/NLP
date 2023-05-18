@@ -1,0 +1,1 @@
+{"index": 348721, "D": "bulging out beyond the surrounding surface; protruding;  projecting", "S": [], "A": []}

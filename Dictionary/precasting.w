@@ -1,0 +1,1 @@
+{"index": 245945, "D": "to cast  (a concrete block or slab, etc.) in a place other than where it is to be installed in a structure.", "S": [], "A": []}

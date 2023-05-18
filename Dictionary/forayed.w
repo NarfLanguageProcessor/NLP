@@ -1,0 +1,1 @@
+{"index": 116311, "D": "a quick raid, usually for the purpose of taking plunder", "S": ["breach ", "infect ", "infest ", "loot ", "occupy ", "overrun ", "penetrate ", "pillage ", "plunder ", "raid ", "ravage ", "storm ", "violate "], "A": ["aid ", "assist ", "give ", "help ", "protect ", "receive ", "surrender "]}

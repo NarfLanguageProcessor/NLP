@@ -1,0 +1,1 @@
+{"index": 367399, "D": "a contemptuous term used to refer to an Italian or a person of Italian descent.", "S": [], "A": []}

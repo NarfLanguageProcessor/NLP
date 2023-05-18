@@ -1,0 +1,1 @@
+{"index": 248379, "D": "the middle of the night; twelve o'clock at night.", "S": [], "A": []}

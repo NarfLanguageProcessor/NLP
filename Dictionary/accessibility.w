@@ -1,0 +1,1 @@
+{"index": 1513, "D": "the quality of being easy to approach, reach, enter, speak with, use, or understand", "S": ["convenience "], "A": []}

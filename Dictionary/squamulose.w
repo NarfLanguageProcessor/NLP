@@ -1,0 +1,1 @@
+{"index": 301715, "D": "furnished or covered with tiny scales.", "S": [], "A": []}

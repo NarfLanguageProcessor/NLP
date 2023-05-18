@@ -1,0 +1,1 @@
+{"index": 29103, "D": "to thrive by feeding; grow fat.", "S": [], "A": []}

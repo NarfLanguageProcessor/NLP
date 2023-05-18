@@ -1,0 +1,1 @@
+{"index": 5985, "D": "a person who never laughs; a humorless person (often used attributively)", "S": [], "A": []}

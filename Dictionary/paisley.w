@@ -1,0 +1,1 @@
+{"index": 223240, "D": "a soft woolen fabric woven with a pattern of colorful and minutely detailed figures.", "S": [], "A": []}

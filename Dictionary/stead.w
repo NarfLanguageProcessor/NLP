@@ -1,0 +1,1 @@
+{"index": 303227, "D": "the place of a person or thing as occupied by a successor or substitute", "S": ["footing ", "place ", "position ", "role ", "slot ", "standing ", "state ", "station ", "status "], "A": ["unemployment "]}

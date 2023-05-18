@@ -1,0 +1,1 @@
+{"index": 111249, "D": "the design and disposition of windows and other exterior openings of a building.", "S": ["aperture ", "casement ", "dormer ", "fanlight ", "fenestella ", "fenestra ", "jalousie ", "lancet ", "lunette ", "oriel ", "porthole ", "skylight "], "A": []}

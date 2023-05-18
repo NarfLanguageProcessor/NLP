@@ -1,0 +1,1 @@
+{"index": 211548, "D": "not having the usual or standard color", "S": [], "A": []}

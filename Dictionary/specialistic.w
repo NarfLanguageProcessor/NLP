@@ -1,0 +1,1 @@
+{"index": 298749, "D": "pertaining to or characteristic of specialists  or specialism. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62821, "D": "a technique of composing a work of art by pasting on a single surface various materials not normally associated with one another, as newspaper clippings, parts of photographs, theater tickets, and fragments of an envelope.", "S": ["photomontage "], "A": []}

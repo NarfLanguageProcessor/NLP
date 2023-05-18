@@ -1,0 +1,1 @@
+{"index": 303231, "D": "in a way that is fixed, steady, or firm", "S": ["hard ", "tight "], "A": ["loosely "]}

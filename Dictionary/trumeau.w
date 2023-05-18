@@ -1,0 +1,1 @@
+{"index": 331563, "D": "a mirror having a painted or carved panel above or below the glass in the same frame.", "S": [], "A": []}

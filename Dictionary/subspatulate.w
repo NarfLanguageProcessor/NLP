@@ -1,0 +1,1 @@
+{"index": 309240, "D": "shaped like a spatula; rounded more or less like a spoon.", "S": [], "A": []}

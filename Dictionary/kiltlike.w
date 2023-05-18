@@ -1,0 +1,1 @@
+{"index": 164700, "D": "any short, pleated skirt, especially a tartan wraparound, as that worn by men in the Scottish Highlands.", "S": [], "A": []}

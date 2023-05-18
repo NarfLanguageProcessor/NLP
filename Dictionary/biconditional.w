@@ -1,0 +1,1 @@
+{"index": 33455, "D": "(of a proposition) asserting that the existence or occurrence of one thing or event depends on, and is dependent on, the existence or occurrence of another, as \u201cA if and only if B.\u201d", "S": [], "A": []}

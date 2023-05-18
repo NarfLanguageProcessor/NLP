@@ -1,0 +1,1 @@
+{"index": 334411, "D": "the standard was wholly unacceptable", "S": ["distasteful ", "improper ", "inadmissible ", "objectionable ", "offensive ", "repugnant ", "undesirable ", "unsatisfactory "], "A": ["acceptable ", "agreeable ", "appropriate ", "good ", "nice ", "pleasant ", "pleasing "]}

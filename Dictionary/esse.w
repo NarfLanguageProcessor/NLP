@@ -1,0 +1,1 @@
+{"index": 104497, "D": "being; existence.", "S": [], "A": []}

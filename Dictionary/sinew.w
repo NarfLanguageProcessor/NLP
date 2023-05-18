@@ -1,0 +1,1 @@
+{"index": 291645, "D": "a tendon.", "S": ["tendon "], "A": ["disability ", "impotence ", "incompetence ", "lethargy ", "powerlessness ", "weakness "]}

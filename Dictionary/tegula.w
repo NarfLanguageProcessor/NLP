@@ -1,0 +1,1 @@
+{"index": 317890, "D": "(in certain insects) a scalelike lobe at the base of the forewing.", "S": [], "A": []}

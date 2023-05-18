@@ -1,0 +1,1 @@
+{"index": 4495, "D": "expressing praise, esp obsequiously; flattering", "S": ["appreciative ", "congratulatory ", "polite ", "respectful "], "A": ["unmannerly "]}

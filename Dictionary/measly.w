@@ -1,0 +1,1 @@
+{"index": 181789, "D": "wretchedly bad or unsatisfactory", "S": ["meager ", "miserable ", "miserly ", "paltry ", "pitiful ", "puny "], "A": ["big ", "generous ", "happy ", "large ", "liberal ", "rich ", "substantial ", "wealthy "]}

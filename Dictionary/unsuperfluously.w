@@ -1,0 +1,1 @@
+{"index": 352417, "D": "being more than is sufficient or required; excessive.", "S": [], "A": []}

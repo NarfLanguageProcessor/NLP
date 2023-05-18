@@ -1,0 +1,1 @@
+{"index": 162374, "D": "the pen name of the unknown author of a series of letters published in a London newspaper (1769\u201372), attacking the British king and his ministers' abuse of royal prerogative in denying John Wilkes his seat in Parliament.", "S": [], "A": []}

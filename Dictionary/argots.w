@@ -1,0 +1,1 @@
+{"index": 19575, "D": "a specialized idiomatic vocabulary peculiar to a particular class or group of people, especially that of an underworld group, devised for private communication and identification", "S": ["lingo ", "parlance ", "patois ", "vernacular "], "A": ["standard "]}

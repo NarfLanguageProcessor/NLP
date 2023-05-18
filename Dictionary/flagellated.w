@@ -1,0 +1,1 @@
+{"index": 113718, "D": [], "S": ["beat ", "belt ", "flay ", "flog ", "hit ", "lash ", "spank ", "tan ", "thrash "], "A": ["lose "]}

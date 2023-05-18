@@ -1,0 +1,1 @@
+{"index": 223632, "D": "(formerly) the branch of ethnology  concerned with the earliest or most primitive human societies.", "S": [], "A": []}

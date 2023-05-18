@@ -1,0 +1,1 @@
+{"index": 322977, "D": "a screw,  the head of which is so constructed that it may be turned easily with the thumb  and a finger.", "S": [], "A": []}

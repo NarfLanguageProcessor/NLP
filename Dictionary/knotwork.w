@@ -1,0 +1,1 @@
+{"index": 165696, "D": "ornamentation consisting of a mass of intertwined and knotted cords", "S": [], "A": []}

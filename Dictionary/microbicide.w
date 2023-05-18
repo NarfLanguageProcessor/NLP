@@ -1,0 +1,1 @@
+{"index": 185920, "D": "a substance or preparation for killing microbes. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342739, "D": "covered with or marked by frills", "S": [], "A": []}

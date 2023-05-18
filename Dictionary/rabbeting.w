@@ -1,0 +1,1 @@
+{"index": 259213, "D": [], "S": ["bash ", "cut ", "dent ", "depress ", "dint ", "hollow ", "jag ", "mark ", "nick ", "notch ", "pink ", "pit ", "rabbet ", "rut ", "scallop ", "score ", "serrate "], "A": ["raise "]}

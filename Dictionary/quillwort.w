@@ -1,0 +1,1 @@
+{"index": 258625, "D": "any fernlike, aquatic marsh plant of the genus Iso\u00ebtes, characterized by clustered, quill-like leaves bearing sporangia in their bases.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92278, "D": "to transfer (software, data, character sets, etc.) from a distant to a nearby computer, from a larger to a smaller computer, or from a computer to a peripheral device.", "S": ["load ", "log in "], "A": []}

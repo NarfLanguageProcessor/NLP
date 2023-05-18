@@ -1,0 +1,1 @@
+{"index": 121261, "D": "of or relating to Galicia in NW Spain, its people, or their language.", "S": [], "A": []}

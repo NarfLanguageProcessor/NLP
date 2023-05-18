@@ -1,0 +1,1 @@
+{"index": 287267, "D": "any of various vessels formerly used for sailing or rowing in shallow waters, especially a two-masted, gaff-rigged vessel of the 17th and 18th centuries.", "S": [], "A": []}

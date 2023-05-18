@@ -1,0 +1,1 @@
+{"index": 279354, "D": "plasterwork imitating marble, granite, or the like.", "S": [], "A": []}

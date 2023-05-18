@@ -1,0 +1,1 @@
+{"index": 300664, "D": "a simple past tense of speak. ", "S": [], "A": []}

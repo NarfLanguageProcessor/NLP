@@ -1,0 +1,1 @@
+{"index": 241800, "D": "the raising at the same time and place of more than one species of plant or animal.", "S": [], "A": []}

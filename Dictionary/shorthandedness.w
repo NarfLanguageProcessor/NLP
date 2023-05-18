@@ -1,0 +1,1 @@
+{"index": 288927, "D": "not having the usual or necessary number of workers, helpers, etc.", "S": [], "A": []}

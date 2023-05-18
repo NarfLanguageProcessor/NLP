@@ -1,0 +1,1 @@
+{"index": 348073, "D": "to remove a plug  or stopper from.", "S": ["draw ", "open ", "penetrate ", "pump ", "use ", "utilize "], "A": ["close up ", "fill "]}

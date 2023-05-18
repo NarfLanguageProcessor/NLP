@@ -1,0 +1,1 @@
+{"index": 47310, "D": "any Asiatic tree or shrub of the genus Caragana, of the pea family, having pinnately compound leaves and mostly yellow flowers, used as hedge plants in the United States, especially in cold regions.", "S": [], "A": []}

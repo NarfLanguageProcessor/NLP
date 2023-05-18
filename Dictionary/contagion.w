@@ -1,0 +1,1 @@
+{"index": 67244, "D": "the communication of disease by direct or indirect contact.", "S": ["contamination ", "illness ", "pollution ", "virus "], "A": ["purification ", "advantage ", "cleanliness ", "good luck "]}

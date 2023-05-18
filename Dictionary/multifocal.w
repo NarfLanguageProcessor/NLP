@@ -1,0 +1,1 @@
+{"index": 195103, "D": "having several focuses.", "S": [], "A": []}

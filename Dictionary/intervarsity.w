@@ -1,0 +1,1 @@
+{"index": 156144, "D": "conducted, involving, or existing between two or more universities", "S": [], "A": []}

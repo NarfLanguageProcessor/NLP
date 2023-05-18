@@ -1,0 +1,1 @@
+{"index": 241034, "D": "the care of the human foot, especially the diagnosis and treatment of foot disorders.", "S": [], "A": []}

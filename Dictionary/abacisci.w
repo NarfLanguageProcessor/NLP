@@ -1,0 +1,1 @@
+{"index": 42, "D": "a small abacus.", "S": [], "A": []}

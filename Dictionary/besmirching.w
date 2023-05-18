@@ -1,0 +1,1 @@
+{"index": 32406, "D": "to soil; tarnish; discolor.", "S": ["blacken ", "defile ", "dishonor ", "slander ", "smear ", "smirch "], "A": ["honor ", "praise ", "upgrade ", "clean "]}

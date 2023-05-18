@@ -1,0 +1,1 @@
+{"index": 59650, "D": "size mixed with white lead, used especially as a priming in house painting.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314724, "D": "the past participle of swim. ", "S": ["bathe ", "crawl ", "dive ", "float ", "glide ", "paddle ", "submerge ", "wade "], "A": []}

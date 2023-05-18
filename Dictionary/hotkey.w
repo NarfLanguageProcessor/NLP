@@ -1,0 +1,1 @@
+{"index": 144293, "D": "an assigned key or sequence of keys programmed to execute a command or perform a specific task in a software application", "S": [], "A": []}

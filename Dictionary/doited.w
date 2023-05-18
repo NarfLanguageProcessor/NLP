@@ -1,0 +1,1 @@
+{"index": 91035, "D": "childish or feeble-minded, especially because of advanced age; senile.", "S": [], "A": []}

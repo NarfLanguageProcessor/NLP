@@ -1,0 +1,1 @@
+{"index": 336160, "D": "in a shameless, bold, or impudent manner", "S": [], "A": []}

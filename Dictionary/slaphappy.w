@@ -1,0 +1,1 @@
+{"index": 293678, "D": "severely befuddled; punch-drunk", "S": ["befuddled ", "bewildered ", "dazzled ", "gaga ", "giddy ", "groggy ", "hazy ", "punch-drunk ", "punchy ", "puzzled ", "senile ", "silly ", "staggered ", "staggering ", "tipsy ", "unsteady ", "weak in the knees ", "weak-kneed ", "wobbly ", "woozy "], "A": []}

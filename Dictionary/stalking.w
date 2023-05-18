@@ -1,0 +1,1 @@
+{"index": 302527, "D": "the act or an instance of stalking,  or harassing another in an aggressive, often threatening and illegal manner", "S": ["angling ", "fishery ", "fishing ", "shooting "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 23697, "D": "to form austenite  in (a ferrous alloy) by heating.", "S": [], "A": []}

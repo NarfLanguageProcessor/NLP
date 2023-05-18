@@ -1,0 +1,1 @@
+{"index": 224577, "D": "a small, decorative livery cupboard, made especially in Provence in the 18th century.", "S": [], "A": []}

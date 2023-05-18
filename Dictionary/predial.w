@@ -1,0 +1,1 @@
+{"index": 246902, "D": "a variant of praedial. ", "S": [], "A": []}

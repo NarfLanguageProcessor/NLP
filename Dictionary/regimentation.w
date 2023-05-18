@@ -1,0 +1,1 @@
+{"index": 265640, "D": "the act of regimenting  or the state of being regimented. ", "S": ["arrangement ", "classification ", "collectivization ", "command ", "division ", "grouping ", "harmonization ", "mechanization ", "ordering ", "organization ", "regulation ", "rigidity ", "standardization ", "strictness ", "uniformity "], "A": ["disorganization "]}

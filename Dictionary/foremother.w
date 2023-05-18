@@ -1,0 +1,1 @@
+{"index": 116808, "D": "a female ancestor.", "S": ["forebear ", "forefather ", "founder "], "A": ["descendant "]}

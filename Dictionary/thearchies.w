@@ -1,0 +1,1 @@
+{"index": 320705, "D": "the rule or government of God or of a god.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96360, "D": "a beam  or glance of the eye. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246617, "D": "passing in time; belonging to the time actually passing", "S": [], "A": []}

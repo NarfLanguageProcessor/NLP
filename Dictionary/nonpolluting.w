@@ -1,0 +1,1 @@
+{"index": 206041, "D": "(of a fuel, vehicle, technology, etc) not resulting in or causing pollution", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40847, "D": "water saturated or strongly impregnated with salt.", "S": [], "A": []}

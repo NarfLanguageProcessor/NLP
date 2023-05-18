@@ -1,0 +1,1 @@
+{"index": 199256, "D": "the state of having traits or symptoms characteristic of neurosis.", "S": ["anger ", "stage fright ", "tension ", "turbulence ", "uneasiness ", "worry "], "A": ["calmness ", "peace ", "calm ", "discouragement ", "ease "]}

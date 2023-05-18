@@ -1,0 +1,1 @@
+{"index": 22422, "D": "an individual embodying such a reversion.", "S": [], "A": []}

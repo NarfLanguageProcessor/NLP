@@ -1,0 +1,1 @@
+{"index": 85532, "D": "a pair of letters representing a single speech sound, as ea in meat or th in path.", "S": [], "A": []}

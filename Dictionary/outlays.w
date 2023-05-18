@@ -1,0 +1,1 @@
+{"index": 216885, "D": "an expending or spending, as of money.", "S": ["disbursement ", "expenditure ", "expense ", "investment ", "price tag ", "spending "], "A": ["savings ", "blessing ", "boon "]}

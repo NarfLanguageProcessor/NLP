@@ -1,0 +1,1 @@
+{"index": 222258, "D": "any of a class of oxidoreductases that catalyze the oxidation of a substrate by molecular oxygen with the formation, in most cases, of hydrogen peroxide.", "S": [], "A": []}

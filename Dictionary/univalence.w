@@ -1,0 +1,1 @@
+{"index": 345098, "D": "the quality of being univalent.", "S": [], "A": []}

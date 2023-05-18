@@ -1,0 +1,1 @@
+{"index": 238928, "D": "an apparatus or model representing the planetary system.", "S": [], "A": []}

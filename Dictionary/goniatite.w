@@ -1,0 +1,1 @@
+{"index": 127742, "D": "any extinct cephalopod mollusc of the genus Goniatites and related genera, similar to ammonites", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 269718, "D": "to spell  again or anew.", "S": [], "A": []}

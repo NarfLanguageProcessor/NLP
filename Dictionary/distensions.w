@@ -1,0 +1,1 @@
+{"index": 89744, "D": "the act of distending  or the state of being distended. ", "S": ["development ", "enlargement ", "extension ", "increase ", "inflation ", "spread "], "A": ["abridgment ", "compression ", "decrease ", "reduction ", "shrinkage "]}

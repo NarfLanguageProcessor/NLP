@@ -1,0 +1,1 @@
+{"index": 321362, "D": "a brand of thermite.", "S": [], "A": []}

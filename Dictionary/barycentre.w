@@ -1,0 +1,1 @@
+{"index": 27991, "D": "a centre of mass, esp of the earth-moon system or the solar system", "S": [], "A": []}

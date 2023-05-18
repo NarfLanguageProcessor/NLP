@@ -1,0 +1,1 @@
+{"index": 105514, "D": "to praise highly.", "S": ["acclamation ", "applause ", "commendation ", "kudos ", "praise ", "rave ", "recognition "], "A": ["blame ", "censure ", "criticism ", "disapproval ", "condemnation ", "debasement ", "denunciation ", "humiliation "]}

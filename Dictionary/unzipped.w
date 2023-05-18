@@ -1,0 +1,1 @@
+{"index": 354447, "D": "(especially of a garment) not zipped or zipped up; with the zipper unfastened.", "S": ["baffled ", "befuddled ", "bewildered ", "dazed ", "disorganized ", "distracted ", "muddled ", "perplexed ", "perturbed ", "puzzled "], "A": ["clear ", "composed "]}

@@ -1,0 +1,1 @@
+{"index": 290065, "D": "defective pronunciation of sibilant sounds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 251964, "D": "the act of prohibiting. ", "S": ["constraint ", "embargo ", "exclusion ", "injunction ", "prevention ", "proscription ", "restriction ", "taboo ", "veto "], "A": ["allowance ", "permission ", "approval "]}

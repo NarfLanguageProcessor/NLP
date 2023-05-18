@@ -1,0 +1,1 @@
+{"index": 157314, "D": "a secondary involucre, as in a compound cluster of flowers.", "S": [], "A": []}

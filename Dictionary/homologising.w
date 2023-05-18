@@ -1,0 +1,1 @@
+{"index": 143144, "D": "to make or show to be homologous. ", "S": [], "A": []}

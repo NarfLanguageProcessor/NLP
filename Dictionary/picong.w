@@ -1,0 +1,1 @@
+{"index": 236015, "D": "any teasing or satirical banter, originally a verbal duel in song", "S": [], "A": []}

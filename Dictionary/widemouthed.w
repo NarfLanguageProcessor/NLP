@@ -1,0 +1,1 @@
+{"index": 365510, "D": "(of a person, object, body of water, etc.) having a mouth  that is wide", "S": [], "A": []}

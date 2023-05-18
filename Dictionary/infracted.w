@@ -1,0 +1,1 @@
+{"index": 152261, "D": "to break, violate, or infringe (a law, commitment, etc.).", "S": ["breach ", "violate "], "A": ["obey ", "regard "]}

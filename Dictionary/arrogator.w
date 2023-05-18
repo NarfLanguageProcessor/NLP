@@ -1,0 +1,1 @@
+{"index": 20306, "D": "to claim unwarrantably or presumptuously; assume or appropriate to oneself without right", "S": [], "A": []}

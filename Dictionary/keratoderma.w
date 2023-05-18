@@ -1,0 +1,1 @@
+{"index": 163927, "D": "a disease of the horny layer of the skin, especially of the soles or palms.", "S": [], "A": []}

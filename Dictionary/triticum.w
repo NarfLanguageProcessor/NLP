@@ -1,0 +1,1 @@
+{"index": 330724, "D": "any annual cereal grass of the genus Triticum, which includes the wheats", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339064, "D": "a track-maintenance machine that cleans the ballast section to any predetermined depth.", "S": [], "A": []}

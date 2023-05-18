@@ -1,0 +1,1 @@
+{"index": 67502, "D": "uninterrupted in time; without cessation", "S": ["eternity ", "everlastingness ", "incessantness ", "perpetuity "], "A": []}

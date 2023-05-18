@@ -1,0 +1,1 @@
+{"index": 149563, "D": "to make a formal beginning of; initiate; commence; begin", "S": [], "A": []}

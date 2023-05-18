@@ -1,0 +1,1 @@
+{"index": 7988, "D": "a plant, Medicago sativa, of the legume family, usually having bluish-purple flowers, originating in western Asia and widely cultivated as a forage crop.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141429, "D": "an arena or structure for equestrian and other spectacles.", "S": [], "A": []}

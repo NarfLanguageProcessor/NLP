@@ -1,0 +1,1 @@
+{"index": 113887, "D": "any of several aquatic birds of the family Phoenicopteridae, having very long legs and neck, webbed feet, a bill bent downward at the tip, and pinkish to scarlet plumage.", "S": [], "A": []}

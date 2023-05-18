@@ -1,0 +1,1 @@
+{"index": 43396, "D": "an amount equal to the capacity of a bushel. ", "S": [], "A": []}

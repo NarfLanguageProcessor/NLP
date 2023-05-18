@@ -1,0 +1,1 @@
+{"index": 146356, "D": "unchanged when multiplied by itself.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195063, "D": "extending or operating in several directions at the same time; functioning or going in more than one direction", "S": [], "A": []}

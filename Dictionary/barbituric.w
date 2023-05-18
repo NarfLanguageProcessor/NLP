@@ -1,0 +1,1 @@
+{"index": 27811, "D": "of or derived from barbituric acid. ", "S": [], "A": []}

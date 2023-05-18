@@ -1,0 +1,1 @@
+{"index": 35975, "D": "(of the eyes or sight) blurred or dimmed, as from sleep or weariness.", "S": [], "A": []}

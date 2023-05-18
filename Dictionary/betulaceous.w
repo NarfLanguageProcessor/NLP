@@ -1,0 +1,1 @@
+{"index": 32855, "D": "belonging to the Betulaceae, the birch family of plants.", "S": [], "A": []}

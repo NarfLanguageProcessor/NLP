@@ -1,0 +1,1 @@
+{"index": 248952, "D": "a formal or authoritative statement.", "S": [], "A": []}

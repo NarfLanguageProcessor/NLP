@@ -1,0 +1,1 @@
+{"index": 171488, "D": "to make or become liberal. ", "S": [], "A": []}

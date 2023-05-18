@@ -1,0 +1,1 @@
+{"index": 80485, "D": "a large cannon  of the 16th century, having a bore of about 6\u00bd inches (17 centimeters) and firing a shot of from 30 to 36 pounds (14 to 16 kilograms).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 328139, "D": "reaching beyond or existing outside the physical or visible world", "S": ["angelic ", "divine ", "ethereal ", "immortal ", "otherworldly ", "spiritual ", "sublime ", "supernatural "], "A": ["earthly "]}

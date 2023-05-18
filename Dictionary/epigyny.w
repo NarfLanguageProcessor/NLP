@@ -1,0 +1,1 @@
+{"index": 102448, "D": "(of flowers) having all floral parts conjoint and generally divergent from the ovary at or near its summit.", "S": [], "A": []}

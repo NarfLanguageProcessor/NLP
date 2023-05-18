@@ -1,0 +1,1 @@
+{"index": 165775, "D": "a series of knurls,  as on a knob.", "S": [], "A": []}

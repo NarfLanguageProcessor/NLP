@@ -1,0 +1,1 @@
+{"index": 197125, "D": "the head or president of the Sanhedrin.", "S": [], "A": []}

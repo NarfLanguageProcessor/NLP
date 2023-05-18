@@ -1,0 +1,1 @@
+{"index": 219940, "D": "full of joy,  as a person or one's heart; glad; delighted.", "S": [], "A": []}

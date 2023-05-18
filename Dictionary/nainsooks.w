@@ -1,0 +1,1 @@
+{"index": 196606, "D": "a fine, soft-finished cotton fabric, usually white, used for lingerie and infants' wear.", "S": [], "A": []}

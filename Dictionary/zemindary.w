@@ -1,0 +1,1 @@
+{"index": 369037, "D": "a variant of zamindari. ", "S": [], "A": []}

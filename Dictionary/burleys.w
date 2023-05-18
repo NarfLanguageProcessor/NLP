@@ -1,0 +1,1 @@
+{"index": 43177, "D": "an American tobacco with thin leaves and light color, grown especially in Kentucky and nearby regions, used mostly in cigarettes.", "S": [], "A": []}

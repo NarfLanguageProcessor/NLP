@@ -1,0 +1,1 @@
+{"index": 350890, "D": "a long pole forming the body of various weapons, as lances, halberds, or arrows.", "S": [], "A": []}

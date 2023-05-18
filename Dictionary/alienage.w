@@ -1,0 +1,1 @@
+{"index": 8212, "D": "the state of being an alien. ", "S": [], "A": []}

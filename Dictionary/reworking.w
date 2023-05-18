@@ -1,0 +1,1 @@
+{"index": 271661, "D": "to work  or form again", "S": ["transformation ", "variation "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262232, "D": "a steel bar or rod used to reinforce concrete.", "S": [], "A": []}

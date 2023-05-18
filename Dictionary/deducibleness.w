@@ -1,0 +1,1 @@
+{"index": 78928, "D": "to derive as a conclusion from something known or assumed; infer", "S": [], "A": []}

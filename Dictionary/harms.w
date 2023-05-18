@@ -1,0 +1,1 @@
+{"index": 133881, "D": "physical injury or mental damage; hurt", "S": ["abuse ", "damage ", "disservice ", "impairment ", "loss ", "mischief ", "misuse ", "sabotage ", "vandalism ", "violence ", "wrong "], "A": ["favor ", "help ", "kindness ", "benefit ", "goodness ", "happiness ", "profit ", "virtue "]}

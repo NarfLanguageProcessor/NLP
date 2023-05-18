@@ -1,0 +1,1 @@
+{"index": 95092, "D": "promoting labor by increasing uterine contractions.", "S": [], "A": []}

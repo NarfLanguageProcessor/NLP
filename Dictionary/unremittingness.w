@@ -1,0 +1,1 @@
+{"index": 349490, "D": "not slackening or abating; incessant", "S": [], "A": []}

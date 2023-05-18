@@ -1,0 +1,1 @@
+{"index": 69323, "D": "any of various small, horn-shaped processes, especially one of a pair of tubes at the posterior end of the abdomen of aphids, from which a waxy fluid is emitted.", "S": [], "A": []}

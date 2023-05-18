@@ -1,0 +1,1 @@
+{"index": 68955, "D": "a silver coin and monetary unit of Nicaragua, equal to 100 centavos.", "S": [], "A": []}

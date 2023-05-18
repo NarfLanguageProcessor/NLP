@@ -1,0 +1,1 @@
+{"index": 281632, "D": "to break, mar, or mark the surface of by rubbing, scraping, or tearing with something sharp or rough", "S": [], "A": []}

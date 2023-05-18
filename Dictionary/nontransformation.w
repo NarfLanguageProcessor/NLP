@@ -1,0 +1,1 @@
+{"index": 207973, "D": "the act or process of transforming.", "S": [], "A": []}

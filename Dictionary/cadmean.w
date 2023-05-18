@@ -1,0 +1,1 @@
+{"index": 44358, "D": "of, relating to, or like Cadmus.", "S": [], "A": []}

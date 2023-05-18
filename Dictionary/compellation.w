@@ -1,0 +1,1 @@
+{"index": 64487, "D": "the act of addressing a person.", "S": ["appellation ", "appellative ", "brand ", "cognomen ", "designation ", "flag ", "handle ", "identification ", "label ", "moniker ", "slot ", "style ", "surname ", "tab ", "tag ", "term ", "title "], "A": []}

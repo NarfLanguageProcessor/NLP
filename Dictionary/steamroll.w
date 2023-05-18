@@ -1,0 +1,1 @@
+{"index": 303307, "D": "steamroller. ", "S": ["beat ", "clobber ", "drub ", "edge ", "knock out ", "outplay ", "overpower ", "take ", "thrash ", "trounce ", "win "], "A": ["fail ", "forfeit ", "lose ", "surrender "]}

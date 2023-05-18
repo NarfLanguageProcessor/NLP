@@ -1,0 +1,1 @@
+{"index": 146812, "D": "a common European bunting, Emberiza citrinella, the male of which is marked with bright yellow.", "S": [], "A": []}

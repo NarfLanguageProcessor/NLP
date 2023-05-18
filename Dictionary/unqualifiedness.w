@@ -1,0 +1,1 @@
+{"index": 348899, "D": "not qualified;  not fit; lacking requisite qualifications", "S": [], "A": []}

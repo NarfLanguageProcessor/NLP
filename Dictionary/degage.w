@@ -1,0 +1,1 @@
+{"index": 79535, "D": "unconstrained; easy, as in manner or style.", "S": [], "A": []}

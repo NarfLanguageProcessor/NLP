@@ -1,0 +1,1 @@
+{"index": 152717, "D": "not homogeneous or uniform", "S": [], "A": []}

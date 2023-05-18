@@ -1,0 +1,1 @@
+{"index": 26313, "D": "a city in and the capital of Iraq, in the central part, on the Tigris.", "S": [], "A": []}

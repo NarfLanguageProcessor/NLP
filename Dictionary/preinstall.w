@@ -1,0 +1,1 @@
+{"index": 248020, "D": "to place in position or connect for service or use", "S": [], "A": []}

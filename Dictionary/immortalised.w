@@ -1,0 +1,1 @@
+{"index": 148076, "D": "to bestow unending fame upon; perpetuate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195364, "D": "having a stamen or stamens.", "S": [], "A": []}

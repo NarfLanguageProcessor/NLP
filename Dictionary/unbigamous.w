@@ -1,0 +1,1 @@
+{"index": 335890, "D": "having two wives or husbands at the same time; guilty of bigamy. ", "S": [], "A": []}

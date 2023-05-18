@@ -1,0 +1,1 @@
+{"index": 114451, "D": "of or relating to the flesh or body; bodily, corporeal, or physical.", "S": ["animalism ", "animality ", "carnality ", "carnalness ", "sensuality ", "sensualness "], "A": []}

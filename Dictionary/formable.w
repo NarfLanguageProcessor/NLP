@@ -1,0 +1,1 @@
+{"index": 117341, "D": "external appearance of a clearly defined area, as distinguished from color or material;configuration", "S": ["malleable ", "soft "], "A": ["firm ", "rigid "]}

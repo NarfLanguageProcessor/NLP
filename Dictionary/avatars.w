@@ -1,0 +1,1 @@
+{"index": 24618, "D": "the descent of a deity to the earth in an incarnate form or some manifest shape; the incarnation of a god.", "S": ["apotheosis ", "archetype ", "epitome ", "exemplar ", "expression ", "personification ", "realization ", "symbol "], "A": ["disorganization "]}

@@ -1,0 +1,1 @@
+{"index": 5887, "D": "with the mouth wide open, as in wonder, surprise, or eagerness", "S": ["Christian love ", "agape ", "brotherly love ", "concern ", "empathy ", "good feeling ", "identification ", "loving concern ", "rapport ", "relating ", "responsiveness ", "sympathetic response ", "vibes ", "warmth "], "A": []}

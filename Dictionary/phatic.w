@@ -1,0 +1,1 @@
+{"index": 233244, "D": "denoting speech used to express or create an atmosphere of shared feelings, goodwill, or sociability rather than to impart information", "S": [], "A": []}

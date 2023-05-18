@@ -1,0 +1,1 @@
+{"index": 48461, "D": "a roofed, wall-less shed, usually projecting from the side of a building, used as a shelter for an automobile.", "S": ["barn ", "parking lot ", "parking space ", "repair shop ", "shop "], "A": []}

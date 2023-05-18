@@ -1,0 +1,1 @@
+{"index": 209597, "D": "the study or collecting of coins, medals, paper money, etc.", "S": [], "A": []}

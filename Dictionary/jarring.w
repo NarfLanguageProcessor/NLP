@@ -1,0 +1,1 @@
+{"index": 160507, "D": "having a harshly unpleasant or disturbing effect on one\u2019s nerves, feelings, thoughts, etc.", "S": ["harsh "], "A": ["firm ", "smooth ", "steady "]}

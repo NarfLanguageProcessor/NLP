@@ -1,0 +1,1 @@
+{"index": 20693, "D": "uttered clearly in distinct syllables.", "S": ["enunciate ", "express ", "utter "], "A": ["ask ", "be quiet ", "listen ", "question "]}

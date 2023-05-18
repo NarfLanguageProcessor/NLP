@@ -1,0 +1,1 @@
+{"index": 179561, "D": "of or relating to divination.", "S": ["Delphian ", "apocalyptic ", "augural ", "divinatory ", "divinitory ", "fatidic ", "fatidical ", "foreshadowing ", "occult ", "oracular ", "predictive ", "presaging ", "prescient ", "prognostic ", "prophetical ", "pythonic ", "sibylline ", "vatic ", "vatical ", "vaticinal ", "veiled ", "visionary "], "A": []}

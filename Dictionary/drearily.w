@@ -1,0 +1,1 @@
+{"index": 92899, "D": "causing sadness or gloom.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29238, "D": "a rock consisting of aluminum oxides and hydroxides with various impurities", "S": [], "A": []}

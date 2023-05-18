@@ -1,0 +1,1 @@
+{"index": 315476, "D": "a high, conical cap worn in Muslim countries.", "S": [], "A": []}

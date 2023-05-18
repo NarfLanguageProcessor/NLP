@@ -1,0 +1,1 @@
+{"index": 367117, "D": "a shrike, Lanius senator, of Europe and northern Africa, having a black forehead and a chestnut crown, nape, and mantle.", "S": [], "A": []}

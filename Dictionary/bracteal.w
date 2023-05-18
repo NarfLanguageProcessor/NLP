@@ -1,0 +1,1 @@
+{"index": 39537, "D": "a specialized leaf or leaflike part, usually situated at the base of a flower or inflorescence.", "S": [], "A": []}

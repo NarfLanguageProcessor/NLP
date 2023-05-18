@@ -1,0 +1,1 @@
+{"index": 318548, "D": "a plural of tempo. ", "S": [], "A": []}

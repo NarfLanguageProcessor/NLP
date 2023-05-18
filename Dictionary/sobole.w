@@ -1,0 +1,1 @@
+{"index": 296065, "D": "a creeping underground stem that produces roots and buds; a sucker", "S": [], "A": []}

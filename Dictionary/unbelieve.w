@@ -1,0 +1,1 @@
+{"index": 335756, "D": [], "S": ["repudiate "], "A": ["approve ", "believe ", "credit ", "like ", "love ", "trust "]}

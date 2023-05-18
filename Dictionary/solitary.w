@@ -1,0 +1,1 @@
+{"index": 296810, "D": "alone; without companions; unattended", "S": ["lone ", "lonely ", "singular "], "A": ["together "]}

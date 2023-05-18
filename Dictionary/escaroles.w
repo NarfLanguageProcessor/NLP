@@ -1,0 +1,1 @@
+{"index": 104157, "D": "Compare endive (def. 1). ", "S": [], "A": []}

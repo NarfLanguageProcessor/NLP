@@ -1,0 +1,1 @@
+{"index": 346299, "D": "in a systematic and orderly way", "S": ["erratically ", "fitfully ", "haphazardly ", "infrequently ", "sporadically ", "unevenly "], "A": ["evenly ", "regularly "]}

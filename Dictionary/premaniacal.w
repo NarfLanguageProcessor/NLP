@@ -1,0 +1,1 @@
+{"index": 248293, "D": "of or relating to mania  or a maniac. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191239, "D": "an extensive plateau or mesa in central Arizona; the southwestern margin of the Colorado Plateau.", "S": [], "A": []}

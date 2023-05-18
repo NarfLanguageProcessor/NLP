@@ -1,0 +1,1 @@
+{"index": 345248, "D": "of or relating to the administration of justice.", "S": [], "A": []}

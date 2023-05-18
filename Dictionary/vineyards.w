@@ -1,0 +1,1 @@
+{"index": 359897, "D": "a plantation of grapevines, especially one producing grapes for winemaking.", "S": ["grapevines ", "vines "], "A": []}

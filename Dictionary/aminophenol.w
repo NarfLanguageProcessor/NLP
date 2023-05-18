@@ -1,0 +1,1 @@
+{"index": 10626, "D": "a white crystalline substance, C6H7NO, occurring in three isomers, meta-, ortho-, and para-aminophenol", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258363, "D": "a question; an inquiry.", "S": ["inquiry ", "objection ", "question ", "questioning ", "reservation ", "skepticism "], "A": ["agreement ", "answer ", "reply ", "belief ", "certainty ", "confidence ", "faith ", "trust "]}

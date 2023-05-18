@@ -1,0 +1,1 @@
+{"index": 98712, "D": "to experience empathy  (often followed by with)", "S": ["sympathize "], "A": ["misinterpret ", "mistake ", "misunderstand "]}

@@ -1,0 +1,1 @@
+{"index": 298623, "D": "a petty quarrel.", "S": ["argue ", "bicker ", "break with ", "carp ", "complain ", "differ ", "fall out ", "feud ", "spar ", "squabble ", "tangle ", "wrangle "], "A": ["agree ", "concur ", "harmonize ", "ignore ", "approve ", "endorse ", "give in ", "give up ", "keep ", "make peace ", "retreat ", "sanction ", "surrender ", "yield "]}

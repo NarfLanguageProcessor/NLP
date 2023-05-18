@@ -1,0 +1,1 @@
+{"index": 22509, "D": "Compare family (def. 16). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 180036, "D": "relating to a genre of Mexican dance music, characterized by trumpets, guitars, violins, and vocals, usually played by a small band of strolling musicians dressed in traditional costumes.", "S": [], "A": []}

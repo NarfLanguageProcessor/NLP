@@ -1,0 +1,1 @@
+{"index": 219281, "D": "the state of being exuberant. ", "S": [], "A": []}

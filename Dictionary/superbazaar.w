@@ -1,0 +1,1 @@
+{"index": 311421, "D": "(in India) a large department store or supermarket, esp one set up as a cooperative store by the government", "S": [], "A": []}

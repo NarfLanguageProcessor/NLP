@@ -1,0 +1,1 @@
+{"index": 41521, "D": "any of various speedwells found along brooks, in marshes, etc., as Veronica americana(American brooklime ), a creeping plant having leafy stems and loose clusters of small blue flowers.", "S": [], "A": []}

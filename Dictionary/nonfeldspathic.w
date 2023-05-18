@@ -1,0 +1,1 @@
+{"index": 203994, "D": "of, relating to, or containing feldspar.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41563, "D": "a porridge made by stirring boiling liquid into oatmeal or other meal.", "S": [], "A": []}

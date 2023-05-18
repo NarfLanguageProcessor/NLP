@@ -1,0 +1,1 @@
+{"index": 369912, "D": "the tendency to be emotionally attached to animals", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198064, "D": "a dressing gown or robe, usually of sheer fabric and having soft, flowing lines, worn by women.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 298581, "D": "a sudden, almost overwhelming, outpouring", "S": ["deluge ", "flood ", "flurry ", "outpouring ", "string ", "succession ", "torrent ", "wave "], "A": []}

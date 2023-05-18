@@ -1,0 +1,1 @@
+{"index": 356918, "D": "a mineral, Pb5(VO4)3Cl, occurring in yellow, brown, or greenish crystals", "S": [], "A": []}

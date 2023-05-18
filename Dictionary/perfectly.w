@@ -1,0 +1,1 @@
+{"index": 230621, "D": "in a perfect manner or to a perfect degree", "S": ["altogether ", "completely ", "entirely ", "fully ", "quite ", "thoroughly ", "totally ", "utterly ", "wholly "], "A": ["inadequately ", "incompletely ", "partially ", "partly "]}

@@ -1,0 +1,1 @@
+{"index": 61364, "D": "a microscopic calcareous disk or ring making up part of the covering of certain marine plankton and forming much of the content of chalk rocks.", "S": [], "A": []}

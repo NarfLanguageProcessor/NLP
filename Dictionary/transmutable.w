@@ -1,0 +1,1 @@
+{"index": 328143, "D": "to change from one nature, substance, form, or condition into another; transform.", "S": ["convertible "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 79524, "D": "no longer in effect or use; not operating or functioning", "S": [], "A": []}

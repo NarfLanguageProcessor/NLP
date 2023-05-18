@@ -1,0 +1,1 @@
+{"index": 114551, "D": "a police officer; cop.", "S": ["constable ", "deputy ", "detective ", "marshal ", "military police ", "officer ", "policeman ", "trooper "], "A": []}

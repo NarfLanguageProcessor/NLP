@@ -1,0 +1,1 @@
+{"index": 136125, "D": "a sundial in the form of a concave quarter sphere having a rodlike gnomon lying within one radius and marked on its surface with arcs that lie in the same plane as the gnomon.", "S": [], "A": []}

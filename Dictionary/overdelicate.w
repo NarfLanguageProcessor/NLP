@@ -1,0 +1,1 @@
+{"index": 218902, "D": "extremely or excessively delicate", "S": ["choosy ", "discriminating ", "exacting ", "finicky ", "fussy ", "squeamish "], "A": ["uncritical ", "undemanding ", "unfussy "]}

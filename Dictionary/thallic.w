@@ -1,0 +1,1 @@
+{"index": 320513, "D": "of or containing thallium,  especially in the trivalent state.", "S": [], "A": []}

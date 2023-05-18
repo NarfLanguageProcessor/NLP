@@ -1,0 +1,1 @@
+{"index": 73102, "D": "a mixture of ice and another substance in definite proportions such that a minimum melting or freezing point is attained.", "S": [], "A": []}

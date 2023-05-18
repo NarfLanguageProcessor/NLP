@@ -1,0 +1,1 @@
+{"index": 189202, "D": "to use for the wrong purpose; use wrongly or improperly; misuse.", "S": ["corruption ", "exploitation ", "harm ", "maltreatment ", "mistreatment ", "prostitution ", "squandering ", "waste "], "A": ["praise "]}

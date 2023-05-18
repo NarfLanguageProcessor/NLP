@@ -1,0 +1,1 @@
+{"index": 124482, "D": "a horse-drawn cab or carriage used in India and Egypt.", "S": [], "A": []}

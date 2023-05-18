@@ -1,0 +1,1 @@
+{"index": 202083, "D": "producing laughter; amusing; funny", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335899, "D": "having a bill  or beak, especially one of a specified kind, shape, color, etc. (usually used in combination)", "S": [], "A": []}

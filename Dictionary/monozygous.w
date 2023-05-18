@@ -1,0 +1,1 @@
+{"index": 192807, "D": "developed from a single fertilized ovum, as identical twins.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52717, "D": "the aggregate of features and traits that form the individual nature of some person or thing.", "S": [], "A": []}

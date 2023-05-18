@@ -1,0 +1,1 @@
+{"index": 157273, "D": "serving to invite;  conveying an invitation.", "S": [], "A": []}

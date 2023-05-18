@@ -1,0 +1,1 @@
+{"index": 234645, "D": "to provide (a sound source, and hence the pitch) for a given voiced continuant or vowel, through rapid, periodic glottal action.", "S": ["lingual ", "sonant ", "vocal "], "A": ["printed ", "written "]}

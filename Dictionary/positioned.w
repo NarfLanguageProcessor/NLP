@@ -1,0 +1,1 @@
+{"index": 243799, "D": "condition with reference to place; location; situation.", "S": ["established ", "occupying ", "placed ", "planted ", "situated ", "stationed "], "A": []}

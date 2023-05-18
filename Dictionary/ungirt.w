@@ -1,0 +1,1 @@
+{"index": 343059, "D": "having a girdle loosened or removed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 338873, "D": "a great wave or surge of the sea.", "S": [], "A": []}

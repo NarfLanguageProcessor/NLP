@@ -1,0 +1,1 @@
+{"index": 141391, "D": "the projecting part of each side of the body formed by the side of the pelvis and the upper part of the femur and the flesh covering them; haunch.", "S": [], "A": []}

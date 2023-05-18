@@ -1,0 +1,1 @@
+{"index": 334209, "D": "offense; annoyance; displeasure", "S": ["annoyance ", "displeasure ", "offense "], "A": ["calmness ", "cheer ", "comfort ", "delight ", "enjoyment ", "favor ", "glee ", "happiness ", "joy ", "love ", "peace ", "pleasure "]}

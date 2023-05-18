@@ -1,0 +1,1 @@
+{"index": 88657, "D": "to deprive or strip of apparatus, furniture, equipment, defenses, etc.", "S": [], "A": []}

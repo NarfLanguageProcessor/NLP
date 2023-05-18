@@ -1,0 +1,1 @@
+{"index": 90370, "D": "the quality of being divine;  divine nature.", "S": ["deity ", "sanctity "], "A": ["devil ", "evil "]}

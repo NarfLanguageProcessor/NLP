@@ -1,0 +1,1 @@
+{"index": 14178, "D": "of, relating to, or resembling an antenna. ", "S": [], "A": []}

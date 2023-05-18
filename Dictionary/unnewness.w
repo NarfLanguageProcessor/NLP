@@ -1,0 +1,1 @@
+{"index": 346882, "D": "the fact or condition of having been only recently produced, purchased, discovered or learned about, etc.", "S": [], "A": []}

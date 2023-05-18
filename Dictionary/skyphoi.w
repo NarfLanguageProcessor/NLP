@@ -1,0 +1,1 @@
+{"index": 293292, "D": "a cup characterized by a deep bowl, two handles projecting horizontally near the rim, and either a flat base or a foot.", "S": [], "A": []}

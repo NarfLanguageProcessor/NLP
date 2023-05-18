@@ -1,0 +1,1 @@
+{"index": 232239, "D": "the principal Syriac version of the Bible.", "S": [], "A": []}

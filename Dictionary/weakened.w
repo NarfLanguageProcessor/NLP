@@ -1,0 +1,1 @@
+{"index": 363452, "D": "to make weak  or weaker. ", "S": ["depleted ", "exhausted ", "sluggish ", "weak "], "A": ["energetic ", "lively ", "unused "]}

@@ -1,0 +1,1 @@
+{"index": 330392, "D": "one of three children or offspring born at the same birth.", "S": ["ternary ", "ternion ", "third ", "triad ", "trichotomy ", "trilogy ", "trinity ", "trio ", "triplet ", "triplicate ", "triplicity ", "triumvirate ", "trivium ", "troika "], "A": []}

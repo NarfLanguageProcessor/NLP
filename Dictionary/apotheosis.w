@@ -1,0 +1,1 @@
+{"index": 17503, "D": "the elevation or exaltation of a person to the rank of a god.", "S": ["deification ", "elevation ", "idolization "], "A": []}

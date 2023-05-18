@@ -1,0 +1,1 @@
+{"index": 99264, "D": "the art, act, or an instance of enchanting. ", "S": ["charm ", "magic ", "sorcery ", "witchery "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72938, "D": "(used as an exclamation of surprise, amazement, dismay, etc.)", "S": [], "A": []}

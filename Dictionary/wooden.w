@@ -1,0 +1,1 @@
+{"index": 367140, "D": "consisting or made of wood; wood", "S": ["board ", "clapboard ", "frame ", "ligneous ", "log ", "peg ", "plant ", "slab ", "timber ", "timbered ", "woody "], "A": ["bending ", "flexible ", "pliable "]}

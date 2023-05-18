@@ -1,0 +1,1 @@
+{"index": 41620, "D": "to intimidate by overbearing looks or words; bully", "S": ["badger ", "bully ", "coerce ", "harass ", "hector ", "intimidate ", "lean on ", "oppress "], "A": ["aid ", "assist ", "help ", "leave alone "]}

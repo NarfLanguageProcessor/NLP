@@ -1,0 +1,1 @@
+{"index": 123, "D": "to destroy the self-confidence, poise, or self-possession of; disconcert; make ashamed or embarrassed", "S": ["disconcert ", "rattle "], "A": ["soothe "]}

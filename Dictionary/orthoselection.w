@@ -1,0 +1,1 @@
+{"index": 215148, "D": "orthogenesis (def. 1a). ", "S": [], "A": []}

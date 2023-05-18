@@ -1,0 +1,1 @@
+{"index": 251180, "D": "of or relating to the anterior part of the head", "S": [], "A": []}

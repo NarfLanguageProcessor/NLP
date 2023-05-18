@@ -1,0 +1,1 @@
+{"index": 275264, "D": "Compare arenaceous (def. 1), argillaceous", "S": [], "A": []}

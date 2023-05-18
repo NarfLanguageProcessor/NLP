@@ -1,0 +1,1 @@
+{"index": 65520, "D": "to express an unfavorable or adverse judgment on; indicate strong disapproval of; censure. ", "S": ["castigate ", "censure ", "chide ", "criticize ", "decry ", "denounce ", "punish ", "sentence "], "A": ["approve ", "compliment ", "laud ", "praise ", "build up ", "commend ", "endorse ", "exalt ", "sanction "]}

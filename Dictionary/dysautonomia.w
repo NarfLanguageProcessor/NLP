@@ -1,0 +1,1 @@
+{"index": 87131, "D": "a rare inherited disorder of the autonomic nervous system, occurring mostly in Ashkenazic Jews, characterized by lack of reflexes, abnormal sweating, defective lacrimation and sense perceptions, emotional instability, and motor incoordination.", "S": [], "A": []}

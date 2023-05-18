@@ -1,0 +1,1 @@
+{"index": 35282, "D": "a strong post of wood or iron projecting, usually in pairs, above the deck of a ship, used for securing cables, lines for towing, etc.", "S": [], "A": []}

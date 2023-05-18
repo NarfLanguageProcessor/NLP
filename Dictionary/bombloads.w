@@ -1,0 +1,1 @@
+{"index": 37744, "D": "the total load  of bombs  carried by an airplane, usually expressed in terms of their total weight.", "S": [], "A": []}

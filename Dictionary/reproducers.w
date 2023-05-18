@@ -1,0 +1,1 @@
+{"index": 268629, "D": "to make a copy, representation, duplicate, or close imitation of", "S": [], "A": []}

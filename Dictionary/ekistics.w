@@ -1,0 +1,1 @@
+{"index": 96634, "D": "the scientific study of human settlements, drawing on diverse disciplines, including architecture, city planning, and behavioral science.", "S": [], "A": []}

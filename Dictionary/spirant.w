@@ -1,0 +1,1 @@
+{"index": 300043, "D": "fricative (def. 2). ", "S": ["affricate ", "click ", "consonant ", "diphthong ", "fricative ", "implosive ", "liquid ", "phone ", "phonetic entity ", "phonetic unit ", "plosive ", "sibilant ", "sonant ", "syllable ", "vocable "], "A": []}

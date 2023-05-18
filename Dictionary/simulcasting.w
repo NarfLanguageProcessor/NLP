@@ -1,0 +1,1 @@
+{"index": 291189, "D": "a program broadcast  simultaneously on radio and television, or on more than one station, or in several languages, etc.", "S": ["air ", "announce ", "beam ", "transmit "], "A": ["be quiet ", "hide ", "suppress ", "conceal "]}

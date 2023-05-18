@@ -1,0 +1,1 @@
+{"index": 282418, "D": "fogbow. ", "S": ["barnacle-back ", "mariner ", "master mariner ", "old salt ", "old sea dog ", "sailor ", "seafarer ", "shellback "], "A": []}

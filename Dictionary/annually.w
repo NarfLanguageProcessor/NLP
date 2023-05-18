@@ -1,0 +1,1 @@
+{"index": 13618, "D": "once a year; each year", "S": ["each year ", "every year "], "A": []}

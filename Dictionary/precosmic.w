@@ -1,0 +1,1 @@
+{"index": 246574, "D": "of or relating to the cosmos", "S": [], "A": []}

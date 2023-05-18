@@ -1,0 +1,1 @@
+{"index": 148844, "D": "not polite or courteous; discourteous; rude", "S": ["impertinently ", "impudently "], "A": []}

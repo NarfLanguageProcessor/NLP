@@ -1,0 +1,1 @@
+{"index": 244011, "D": "the act or state of conquering  or the state of being conquered;  vanquishment.", "S": [], "A": []}

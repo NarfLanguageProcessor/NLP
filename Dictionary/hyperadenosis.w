@@ -1,0 +1,1 @@
+{"index": 139844, "D": "abnormal enlargement of the glands, especially of the lymph nodes.", "S": [], "A": []}

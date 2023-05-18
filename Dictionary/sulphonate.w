@@ -1,0 +1,1 @@
+{"index": 310723, "D": "a salt or ester of any sulphonic acid containing the ion RSO 2 O \u2013 or the group RSO 2 O\u2013, R being an organic group", "S": [], "A": []}

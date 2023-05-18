@@ -1,0 +1,1 @@
+{"index": 3184, "D": "having radial symmetry.", "S": [], "A": []}

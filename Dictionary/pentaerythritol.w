@@ -1,0 +1,1 @@
+{"index": 229910, "D": "a white, crystalline, water-soluble powder, C5H12O4, used chiefly in the manufacture of alkyd resins, varnishes, plasticizers, and explosives.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196936, "D": "any bulbous plant belonging to the genus Narcissus, of the amaryllis family, having showy yellow or white flowers with a cup-shaped corona.", "S": [], "A": []}

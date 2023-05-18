@@ -1,0 +1,1 @@
+{"index": 151157, "D": "a rare metallic element, soft, white, malleable, and easily fusible, found combined in various ore minerals, especially sphalerite", "S": [], "A": []}

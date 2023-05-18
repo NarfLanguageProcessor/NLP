@@ -1,0 +1,1 @@
+{"index": 219952, "D": "using or showing judgment as to action or practical expediency; discreet, prudent, or politic", "S": [], "A": []}

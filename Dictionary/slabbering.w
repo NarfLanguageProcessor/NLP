@@ -1,0 +1,1 @@
+{"index": 293532, "D": "slobber. ", "S": ["dribble ", "drip ", "drivel ", "froth ", "salivate ", "slabber ", "slaver "], "A": ["pour "]}

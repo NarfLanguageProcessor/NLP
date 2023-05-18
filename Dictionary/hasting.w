@@ -1,0 +1,1 @@
+{"index": 134156, "D": "swiftness of motion; speed; celerity", "S": ["bolt ", "chase ", "compete ", "contest ", "dart ", "dash ", "fly ", "gallop ", "hurry ", "hustle ", "rush ", "scamper ", "scramble ", "shoot ", "sprint ", "tear "], "A": ["dally ", "dawdle ", "delay ", "procrastinate ", "slow ", "stay ", "wait ", "walk "]}

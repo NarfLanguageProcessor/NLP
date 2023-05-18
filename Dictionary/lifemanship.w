@@ -1,0 +1,1 @@
+{"index": 171918, "D": "the ability to conduct one's life, career, personal relationships, etc., in a successful manner.", "S": [], "A": []}

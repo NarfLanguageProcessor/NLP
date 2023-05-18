@@ -1,0 +1,1 @@
+{"index": 93564, "D": "short for drum majorette", "S": [], "A": []}

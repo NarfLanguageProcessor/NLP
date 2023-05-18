@@ -1,0 +1,1 @@
+{"index": 362084, "D": "a woman who waits  on tables, as in a restaurant.", "S": ["flight attendant ", "hostess ", "stewardess ", "waiter "], "A": []}

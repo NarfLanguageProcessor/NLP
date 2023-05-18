@@ -1,0 +1,1 @@
+{"index": 261801, "D": "a person who works in the real-estate business and is a member of the National Association of Real Estate Boards, or one of its constituent boards, and abides by its Code of Ethics.", "S": [], "A": []}

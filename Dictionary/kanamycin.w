@@ -1,0 +1,1 @@
+{"index": 163028, "D": "a broad-spectrum aminoglycoside  antibiotic, C18H35N3O10, isolated from the Japanese soil bacterium Streptomyces kanamyceticus and used in the treatment of infections, especially those caused by Gram-negative  bacilli. ", "S": [], "A": []}

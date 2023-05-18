@@ -1,0 +1,1 @@
+{"index": 32233, "D": "a mineral, hydrous beryllium silicate, Be4Si2O7(OH)2, colorless or pale yellow, with a vitreous luster, occurring as tabular or prismatic crystals in pegmatites and hydrothermal veins.", "S": [], "A": []}

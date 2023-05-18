@@ -1,0 +1,1 @@
+{"index": 15165, "D": "the habit of valuing everything only in reference to one's personal interest; selfishness (opposed to altruism).", "S": [], "A": []}

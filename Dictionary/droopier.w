@@ -1,0 +1,1 @@
+{"index": 93329, "D": "hanging down; sagging.", "S": ["bent ", "drooping ", "flabby ", "floppy ", "languid ", "languorous ", "lassitudinous ", "pendulous ", "sagging ", "saggy ", "slouchy ", "stooped ", "wilting "], "A": ["full ", "inflated ", "raised "]}

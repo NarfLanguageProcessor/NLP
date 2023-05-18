@@ -1,0 +1,1 @@
+{"index": 261247, "D": "to disentangle or unravel  the threads or fibers of (a woven or knitted fabric, rope, etc.).", "S": [], "A": []}

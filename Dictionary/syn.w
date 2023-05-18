@@ -1,0 +1,1 @@
+{"index": 291206, "D": "a prefix occurring in loanwords from Greek, having the same function as co-  (synthesis; synoptic); used, with the meaning \u201cwith,\u201d \u201ctogether,\u201d in the formation of compound words (synsepalous) or \u201csynthetic\u201d in such compounds (syngas).", "S": [], "A": []}

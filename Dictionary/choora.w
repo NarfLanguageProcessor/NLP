@@ -1,0 +1,1 @@
+{"index": 55659, "D": "an Indian dagger having a sharply pointed, single-edged blade.", "S": [], "A": []}

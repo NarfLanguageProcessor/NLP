@@ -1,0 +1,1 @@
+{"index": 133356, "D": "a small piece of partly detached skin at the side or base of the fingernail.", "S": [], "A": []}

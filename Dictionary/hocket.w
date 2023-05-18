@@ -1,0 +1,1 @@
+{"index": 142160, "D": "a technique in medieval musical composition in which two or three voice parts are given notes or short phrases in rapid alternation, producing an erratic, hiccuping effect.", "S": [], "A": []}

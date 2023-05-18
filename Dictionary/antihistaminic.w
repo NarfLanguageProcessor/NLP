@@ -1,0 +1,1 @@
+{"index": 15380, "D": "of or relating to an antihistamine  or its effect.", "S": [], "A": []}

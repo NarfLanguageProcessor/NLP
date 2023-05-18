@@ -1,0 +1,1 @@
+{"index": 109076, "D": "the product of a given positive integer multiplied by all lesser positive integers", "S": [], "A": []}

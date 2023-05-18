@@ -1,0 +1,1 @@
+{"index": 107189, "D": "to dig (something buried, especially a dead body) out of the earth; disinter.", "S": [], "A": []}

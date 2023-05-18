@@ -1,0 +1,1 @@
+{"index": 252562, "D": "a propelling  agent.", "S": ["aerosol bomb ", "aerosol container ", "aerosol dispenser ", "atomizer "], "A": []}

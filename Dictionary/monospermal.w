@@ -1,0 +1,1 @@
+{"index": 192672, "D": "having one seed.", "S": [], "A": []}

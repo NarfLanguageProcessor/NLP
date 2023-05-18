@@ -1,0 +1,1 @@
+{"index": 325681, "D": "a normal state of continuous slight tension in muscle tissue that facilitates its response to stimulation.", "S": ["strength "], "A": []}

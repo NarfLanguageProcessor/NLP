@@ -1,0 +1,1 @@
+{"index": 287352, "D": "a person who shams. ", "S": ["charlatan ", "coiner ", "counterfeiter ", "deceiver ", "fabricator ", "forger ", "fraud ", "impersonator ", "impostor ", "liar ", "mountebank ", "phony ", "pretender ", "quack "], "A": []}

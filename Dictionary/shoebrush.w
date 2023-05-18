@@ -1,0 +1,1 @@
+{"index": 288687, "D": "a brush  used in polishing shoes. ", "S": [], "A": []}

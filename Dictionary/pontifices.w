@@ -1,0 +1,1 @@
+{"index": 243084, "D": "plural of pontifex. ", "S": ["pope "], "A": []}

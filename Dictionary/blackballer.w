@@ -1,0 +1,1 @@
+{"index": 35440, "D": "to vote against (a candidate, applicant, etc.).", "S": [], "A": []}

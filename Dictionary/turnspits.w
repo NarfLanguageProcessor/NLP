@@ -1,0 +1,1 @@
+{"index": 332869, "D": "a spit  that rotates or can be rotated.", "S": [], "A": []}

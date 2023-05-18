@@ -1,0 +1,1 @@
+{"index": 45060, "D": "the diameter of something of circular section, especially that of the inside of a tube", "S": ["ability ", "competence ", "quality ", "stature ", "talent "], "A": ["inability ", "inadequacy ", "incompetence ", "weakness ", "disadvantage ", "impotence ", "ineptness ", "lack ", "lowliness "]}

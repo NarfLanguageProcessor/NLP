@@ -1,0 +1,1 @@
+{"index": 224073, "D": " a crunchy cookie, somewhat resembling a palm leaf or elephant's ear, made from sugared puff pastry, the sides of which are rolled toward the center before slicing and baking.", "S": ["airy ", "breezy ", "excellent ", "golden ", "good ", "rosy "], "A": ["bad "]}

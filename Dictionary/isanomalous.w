@@ -1,0 +1,1 @@
+{"index": 158559, "D": "a line on a map or chart connecting points having an equal anomaly of a meteorological quantity.", "S": [], "A": []}

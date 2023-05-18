@@ -1,0 +1,1 @@
+{"index": 9557, "D": "a cloud of a class characterized by globular masses or rolls in layers or patches, the individual elements being larger and darker than those of cirrocumulus and smaller than those of stratocumulus", "S": [], "A": []}

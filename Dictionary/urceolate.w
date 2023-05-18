@@ -1,0 +1,1 @@
+{"index": 355417, "D": "shaped like a pitcher; swelling out like the body of a pitcher and contracted at the orifice, as a corolla.", "S": [], "A": []}

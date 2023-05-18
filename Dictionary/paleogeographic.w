@@ -1,0 +1,1 @@
+{"index": 223710, "D": "the science of representing the earth's geographic features belonging to any part of the geologic past.", "S": [], "A": []}

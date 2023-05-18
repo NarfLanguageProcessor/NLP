@@ -1,0 +1,1 @@
+{"index": 261696, "D": "a group or mass of distinct or varied things, persons, etc.", "S": [], "A": []}

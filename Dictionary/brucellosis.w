@@ -1,0 +1,1 @@
+{"index": 41691, "D": "infection with bacteria of the Brucella genus, frequently causing spontaneous abortions in animals and remittent fever in humans.", "S": [], "A": []}

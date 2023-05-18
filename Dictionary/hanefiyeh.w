@@ -1,0 +1,1 @@
+{"index": 133324, "D": "(in the courtyard of a mosque) a fountain for ritual washing.", "S": [], "A": []}

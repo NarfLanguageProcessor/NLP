@@ -1,0 +1,1 @@
+{"index": 53478, "D": "a hamburger cooked with a slice of cheese  on top of it.", "S": ["beefburger ", "burger "], "A": []}

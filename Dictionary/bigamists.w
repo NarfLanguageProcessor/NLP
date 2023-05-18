@@ -1,0 +1,1 @@
+{"index": 33691, "D": "a person who commits bigamy. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156974, "D": "to accustom to hardship, difficulty, pain, etc.; toughen or harden; habituate  (usually followed by to)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7421, "D": "a king of the dwarfs, the possessor of the tarnkappe and of the treasure of the Nibelungs.", "S": [], "A": []}

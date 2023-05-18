@@ -1,0 +1,1 @@
+{"index": 172030, "D": "Gordon. born 1938, Canadian singer and short songwriter; his recordings include 'If You Could Read My Mind' (1970), Dream Street Rose (1980) and Harmony (2004)", "S": [], "A": []}

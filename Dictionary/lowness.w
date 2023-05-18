@@ -1,0 +1,1 @@
+{"index": 175663, "D": "situated, placed, or occurring not far above the ground, floor, or base", "S": ["depression ", "downheartedness ", "dumps ", "eyes ", "heaviness of heart ", "low spirits ", "melancholy ", "peepers ", "postpartum depression "], "A": []}

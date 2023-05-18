@@ -1,0 +1,1 @@
+{"index": 287868, "D": "(of a printing press) fed by and designed to print individual flat sheets of paper.", "S": [], "A": []}

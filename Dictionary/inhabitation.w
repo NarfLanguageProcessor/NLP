@@ -1,0 +1,1 @@
+{"index": 152622, "D": "to live or dwell in (a place), as people or animals", "S": ["ownership ", "settlement "], "A": ["entertainment ", "fun ", "giving up ", "hobby ", "pastime ", "surrender ", "yielding "]}

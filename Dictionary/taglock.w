@@ -1,0 +1,1 @@
+{"index": 315269, "D": "a matted lock  of wool or hair.", "S": [], "A": []}

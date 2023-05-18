@@ -1,0 +1,1 @@
+{"index": 315050, "D": "any of various instruments for measuring or indicating velocity or speed, as of a machine, a river, or the blood.", "S": [], "A": []}

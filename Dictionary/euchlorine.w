@@ -1,0 +1,1 @@
+{"index": 105302, "D": "an explosive gaseous mixture of chlorine and chlorine dioxide", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179799, "D": "any of several tropical American plants of the genus Maranta, including arrowroot and several species cultivated as ornamentals for their variegated foliage.", "S": [], "A": []}

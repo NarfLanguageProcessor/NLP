@@ -1,0 +1,1 @@
+{"index": 29480, "D": "a contemptuous term used to refer to a Mexican, a Mexican American, or, less frequently, a Latino of other national origin or descent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206193, "D": "the act or process of begetting offspring", "S": [], "A": []}

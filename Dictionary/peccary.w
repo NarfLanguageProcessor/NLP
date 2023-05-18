@@ -1,0 +1,1 @@
+{"index": 228564, "D": "any of several medium-sized, bristly, piglike mammals of North and South America, comprising three genera of the family Tayassuidae (New World pigs ), all of which possess a scent gland on the rear of the back.", "S": ["hog ", "pig "], "A": []}

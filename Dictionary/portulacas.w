@@ -1,0 +1,1 @@
+{"index": 243747, "D": "any of various fleshy-leaved plants of the genus Portulaca, especially P. grandiflora, widely cultivated for its showy, variously colored flowers.", "S": [], "A": []}

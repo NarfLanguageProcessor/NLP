@@ -1,0 +1,1 @@
+{"index": 311522, "D": "having the qualities of chivalry,  as courage, courtesy, and loyalty.", "S": [], "A": []}

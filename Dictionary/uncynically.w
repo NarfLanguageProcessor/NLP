@@ -1,0 +1,1 @@
+{"index": 336900, "D": "distrusting or disparaging the motives of others; like or characteristic of a cynic. ", "S": [], "A": []}

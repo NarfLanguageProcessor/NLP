@@ -1,0 +1,1 @@
+{"index": 82115, "D": "to receive or obtain from a source or origin (usually followed by from).", "S": [], "A": []}

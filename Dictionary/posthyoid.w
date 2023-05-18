@@ -1,0 +1,1 @@
+{"index": 244178, "D": "noting or pertaining to a U-shaped bone at the root of the tongue in humans, or a corresponding bone or collection of bones in animals.", "S": [], "A": []}

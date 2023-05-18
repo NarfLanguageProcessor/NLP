@@ -1,0 +1,1 @@
+{"index": 61270, "D": "a shrub, Erythroxylon coca, native to the Andes, having simple, alternate leaves and small yellowish flowers.", "S": [], "A": []}

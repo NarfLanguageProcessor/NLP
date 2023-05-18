@@ -1,0 +1,1 @@
+{"index": 334324, "D": "to renounce or relinquish a throne, right, power, claim, responsibility, or the like, especially in a formal manner", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233137, "D": "hydrous calcium arsenate, 2CaO\u22c5As2O5\u22c55H2O, formed by natural alteration of mineral deposits containing arsenopyrite and arsenical ores of cobalt and silver.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7178, "D": "the eastern Semitic language, now extinct, of Assyria and Babylonia, written with a cuneiform script.", "S": [], "A": []}

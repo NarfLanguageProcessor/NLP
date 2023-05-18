@@ -1,0 +1,1 @@
+{"index": 320528, "D": "resembling or consisting of a thallus. ", "S": [], "A": []}

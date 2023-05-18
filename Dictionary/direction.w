@@ -1,0 +1,1 @@
+{"index": 86766, "D": "the act or an instance of directing. ", "S": ["control ", "guidance ", "leadership ", "order "], "A": ["deviation ", "wrong way "]}

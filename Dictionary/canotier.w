@@ -1,0 +1,1 @@
+{"index": 46537, "D": "a fabric constructed in a twill weave, used in the manufacture of yachting clothes.", "S": [], "A": []}

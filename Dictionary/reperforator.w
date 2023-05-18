@@ -1,0 +1,1 @@
+{"index": 268149, "D": "(especially in teletype transmission) a machine for punching a duplicate perforated paper tape of incoming messages so that they may later be retransmitted", "S": [], "A": []}

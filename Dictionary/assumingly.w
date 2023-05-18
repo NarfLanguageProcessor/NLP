@@ -1,0 +1,1 @@
+{"index": 21942, "D": "taking too much for granted; presumptuous.", "S": [], "A": []}

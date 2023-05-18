@@ -1,0 +1,1 @@
+{"index": 27256, "D": "a declaration made by a bettor in certain gambling games, as baccarat and chemin de fer, indicating a bet matching the full amount in the bank,  to the exclusion of all previous lower bets", "S": [], "A": []}

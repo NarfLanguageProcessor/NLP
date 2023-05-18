@@ -1,0 +1,1 @@
+{"index": 349910, "D": "in a way that uses language for style or effect", "S": [], "A": []}

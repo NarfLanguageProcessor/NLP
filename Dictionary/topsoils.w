@@ -1,0 +1,1 @@
+{"index": 326016, "D": "the fertile, upper part of the soil. ", "S": ["clay ", "coast ", "dirt ", "dust ", "gravel ", "land ", "mud ", "sand ", "shore ", "surface ", "terrain ", "turf "], "A": ["sky "]}

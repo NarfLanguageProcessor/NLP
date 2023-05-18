@@ -1,0 +1,1 @@
+{"index": 149223, "D": "lack of wisdom or care in the management of practical or economic affairs", "S": [], "A": []}

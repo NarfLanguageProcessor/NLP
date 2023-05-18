@@ -1,0 +1,1 @@
+{"index": 332530, "D": "a variant spelling of tipuna", "S": [], "A": []}

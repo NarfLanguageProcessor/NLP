@@ -1,0 +1,1 @@
+{"index": 214623, "D": "a manuscript scroll having columns running across the width, folded in accordion fashion along the separating margins.", "S": [], "A": []}

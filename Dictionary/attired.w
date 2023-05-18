@@ -1,0 +1,1 @@
+{"index": 23094, "D": "to dress, array, or adorn, especially for special occasions, ceremonials, etc.", "S": ["arrayed ", "clothed ", "covered ", "dressed ", "face ", "garbed ", "robed ", "sheathed "], "A": ["exposed "]}

@@ -1,0 +1,1 @@
+{"index": 237509, "D": "any evergreen plant of the genus Chimaphila, especially C. umbellata, the leaves of which are used medicinally for their tonic, diuretic, and astringent properties.", "S": [], "A": []}

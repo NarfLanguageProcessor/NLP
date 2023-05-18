@@ -1,0 +1,1 @@
+{"index": 209113, "D": "a brief novel  or long short story.", "S": ["fiction ", "narrative ", "novella ", "paperback ", "prose ", "story ", "tale ", "yarn "], "A": ["nonfiction ", "truth "]}

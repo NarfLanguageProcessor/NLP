@@ -1,0 +1,1 @@
+{"index": 66793, "D": "to prevent injury, decay, waste, or loss of", "S": ["hoard ", "maintain ", "preserve ", "safeguard ", "sustain ", "take care of "], "A": ["hurt ", "ignore ", "let go ", "neglect ", "release "]}

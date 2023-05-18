@@ -1,0 +1,1 @@
+{"index": 171596, "D": "a person affected with lycanthropy.", "S": [], "A": []}

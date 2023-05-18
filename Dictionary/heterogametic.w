@@ -1,0 +1,1 @@
+{"index": 137567, "D": "(of a species or individual organism) having two unlike gametes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352704, "D": "a pendent ornament consisting commonly of a bunch of threads, small cords, or other strands hanging from a roundish knob or head, used on clothing, in jewelry, on curtains, etc.", "S": [], "A": []}

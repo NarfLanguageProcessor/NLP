@@ -1,0 +1,1 @@
+{"index": 461, "D": "not occurring or produced naturally; synthetic.", "S": [], "A": []}

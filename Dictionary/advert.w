@@ -1,0 +1,1 @@
+{"index": 4659, "D": "to remark or comment; refer (usually followed by to)", "S": ["attend ", "consider ", "notice ", "observe "], "A": ["disregard ", "forget ", "ignore ", "miss ", "neglect ", "overlook "]}

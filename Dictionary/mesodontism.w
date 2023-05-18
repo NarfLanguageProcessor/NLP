@@ -1,0 +1,1 @@
+{"index": 184224, "D": "the condition of having medium-sized teeth.", "S": [], "A": []}

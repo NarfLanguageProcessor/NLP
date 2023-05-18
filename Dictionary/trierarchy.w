@@ -1,0 +1,1 @@
+{"index": 329713, "D": "the office of a trierarch.", "S": [], "A": []}

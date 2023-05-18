@@ -1,0 +1,1 @@
+{"index": 287209, "D": "the beliefs and practices of the Shakers. ", "S": [], "A": []}

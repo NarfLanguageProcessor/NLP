@@ -1,0 +1,1 @@
+{"index": 277075, "D": "the process by which a nonsaline soil becomes saline, as by the irrigation of land with brackish water.", "S": [], "A": []}

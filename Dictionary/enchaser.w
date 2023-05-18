@@ -1,0 +1,1 @@
+{"index": 99275, "D": "to place (gems) in an ornamental setting.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1690, "D": "agreeing; conforming; harmonious.", "S": ["agreeing ", "conforming ", "congruous ", "harmonious ", "in concert "], "A": []}

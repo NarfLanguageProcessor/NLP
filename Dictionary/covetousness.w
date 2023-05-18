@@ -1,0 +1,1 @@
+{"index": 71522, "D": "eager or excessive desire, especially for wealth or possessions", "S": ["avariciousness ", "cupidity ", "greed "], "A": []}

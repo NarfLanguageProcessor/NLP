@@ -1,0 +1,1 @@
+{"index": 240502, "D": "to rob of goods or valuables by open force, as in war, hostile raids, brigandage, etc.", "S": ["pillage "], "A": ["gift "]}

@@ -1,0 +1,1 @@
+{"index": 244995, "D": "a person in charge of explosives, especially in a demolition crew.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198584, "D": "the excretory organ of many invertebrates, consisting of a tubule with one end opening into the body cavity and the other opening into a pore at the body surface.", "S": [], "A": []}

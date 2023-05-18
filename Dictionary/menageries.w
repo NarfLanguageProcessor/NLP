@@ -1,0 +1,1 @@
+{"index": 183244, "D": "a collection of wild or unusual animals, especially for exhibition.", "S": ["building ", "foundation ", "gallery ", "hall ", "institution ", "library ", "salon "], "A": []}

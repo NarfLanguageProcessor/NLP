@@ -1,0 +1,1 @@
+{"index": 241862, "D": "any plant of the genus Polygala, comprising the milkworts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132219, "D": "to bargain in a petty, quibbling, and often contentious manner", "S": ["contender ", "fanatic ", "zealot "], "A": []}

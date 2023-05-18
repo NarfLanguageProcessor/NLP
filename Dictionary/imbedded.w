@@ -1,0 +1,1 @@
+{"index": 147675, "D": "fixed or snugly enclosed in a surrounding mass", "S": ["attach ", "dock ", "fasten ", "fix ", "moor ", "secure ", "tie up "], "A": ["detach ", "disconnect ", "loose ", "loosen ", "unfasten ", "lose "]}

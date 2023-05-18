@@ -1,0 +1,1 @@
+{"index": 288542, "D": "a lawyer who uses unprofessional or questionable methods.", "S": ["cheater ", "chiseler ", "mouthpiece ", "pettifogger ", "scammer ", "trickster "], "A": []}

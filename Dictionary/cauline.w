@@ -1,0 +1,1 @@
+{"index": 49979, "D": "of or relating to a stem, especially pertaining to or arising from the upper part of a stem.", "S": [], "A": []}

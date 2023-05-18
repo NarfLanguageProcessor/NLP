@@ -1,0 +1,1 @@
+{"index": 151527, "D": "not eludible; inescapable.", "S": ["inevitable "], "A": ["escapable "]}

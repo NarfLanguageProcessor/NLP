@@ -1,0 +1,1 @@
+{"index": 219644, "D": "to hang  or be suspended over", "S": ["coming ", "designed ", "doomed ", "intended "], "A": ["distant ", "remote ", "unsettled "]}

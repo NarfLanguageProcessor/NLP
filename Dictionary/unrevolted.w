@@ -1,0 +1,1 @@
+{"index": 349894, "D": "to break away from or rise against constituted authority, as by open rebellion; cast off allegiance or subjection to those in authority; rebel; mutiny", "S": [], "A": []}

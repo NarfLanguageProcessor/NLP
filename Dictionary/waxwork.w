@@ -1,0 +1,1 @@
+{"index": 363435, "D": "a figure, ornament, or other object made of wax,  or especially the life-size effigy of a person.", "S": [], "A": []}

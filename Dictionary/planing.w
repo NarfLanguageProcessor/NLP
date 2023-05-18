@@ -1,0 +1,1 @@
+{"index": 238980, "D": [], "S": ["allay ", "alleviate ", "appease ", "assuage ", "calm ", "even ", "flatten ", "flush ", "iron ", "level ", "plane ", "press ", "quiet ", "relieve ", "steam ", "still ", "suppress "], "A": ["aggravate ", "agitate ", "break ", "intensify ", "irritate ", "provoke ", "upset ", "worry "]}

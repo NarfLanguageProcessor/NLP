@@ -1,0 +1,1 @@
+{"index": 276985, "D": "a person who sells goods in a store.", "S": ["agent ", "auctioneer ", "businessperson ", "clerk ", "dealer ", "marketer ", "merchant ", "peddler ", "representative ", "retailer ", "salesgirl ", "salesman ", "salesperson ", "saleswoman ", "shopkeeper ", "storekeeper ", "trader ", "vender ", "vendor "], "A": ["customer "]}

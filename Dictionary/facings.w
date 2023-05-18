@@ -1,0 +1,1 @@
+{"index": 109007, "D": "a covering in front, for ornament, protection, etc., as an outer layer of stone on a brick wall.", "S": ["covering ", "front ", "revetment ", "siding ", "surface "], "A": []}

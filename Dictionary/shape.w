@@ -1,0 +1,1 @@
+{"index": 287442, "D": "the quality of a distinct object or body in having an external surface or outline of specific form or figure.", "S": ["architecture ", "aspect ", "body ", "configuration ", "contour ", "format ", "frame ", "model ", "outline ", "pattern ", "shadow ", "silhouette "], "A": ["difference ", "reality "]}

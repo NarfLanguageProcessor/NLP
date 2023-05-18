@@ -1,0 +1,1 @@
+{"index": 194477, "D": "an ancient drum of India shaped like a long conical barrel with two tuned heads of different sizes.", "S": [], "A": []}

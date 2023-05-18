@@ -1,0 +1,1 @@
+{"index": 259966, "D": "a highly seasoned stew of meat or fish, with or without vegetables.", "S": ["goulash ", "hash ", "pot-au-feu "], "A": []}

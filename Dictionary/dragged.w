@@ -1,0 +1,1 @@
+{"index": 92529, "D": "to draw with force, effort, or difficulty; pull heavily or slowly along; haul; trail", "S": ["crestfallen ", "despondent ", "discouraged ", "disheartened ", "dispirited ", "gloomy ", "glum ", "morose "], "A": ["cheerful ", "elated ", "encouraged ", "happy ", "heartened ", "inspirited ", "above ", "upright "]}

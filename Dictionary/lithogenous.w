@@ -1,0 +1,1 @@
+{"index": 173691, "D": "of or relating to organisms, as coral, that secrete stony deposits.", "S": [], "A": []}

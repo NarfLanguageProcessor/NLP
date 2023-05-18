@@ -1,0 +1,1 @@
+{"index": 249962, "D": "an advance or preliminary testing  or trial, as of a new product.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 161661, "D": "the control stick  of an airplane, tank, or other vehicle.", "S": [], "A": []}

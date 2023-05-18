@@ -1,0 +1,1 @@
+{"index": 294867, "D": "of, relating to, or belonging to the Smilacaceae, a temperate and tropical family of monocotyledonous flowering plants, most of which are climbing shrubs with prickly stems", "S": [], "A": []}

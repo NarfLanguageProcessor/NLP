@@ -1,0 +1,1 @@
+{"index": 215053, "D": "of or relating to orthography. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26414, "D": "a fabric with horizontal stripes of brilliant colors.", "S": [], "A": []}

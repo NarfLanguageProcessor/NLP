@@ -1,0 +1,1 @@
+{"index": 90434, "D": "to disclose or reveal (something private, secret, or previously unknown).", "S": [], "A": []}

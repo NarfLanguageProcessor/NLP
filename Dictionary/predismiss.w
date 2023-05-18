@@ -1,0 +1,1 @@
+{"index": 247044, "D": "to direct (an assembly of persons) to disperse or go", "S": [], "A": []}

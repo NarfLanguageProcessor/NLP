@@ -1,0 +1,1 @@
+{"index": 159594, "D": "a colorless compound, Yb2O3, used in certain alloys and ceramics.", "S": [], "A": []}

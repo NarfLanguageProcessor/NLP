@@ -1,0 +1,1 @@
+{"index": 105877, "D": "resembling a eutectic. ", "S": [], "A": []}

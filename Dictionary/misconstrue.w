@@ -1,0 +1,1 @@
+{"index": 189007, "D": "to misunderstand the meaning of; take in a wrong sense; misinterpret.", "S": ["distort ", "exaggerate ", "misinterpret ", "misread ", "misunderstand ", "pervert "], "A": ["comprehend ", "understand "]}

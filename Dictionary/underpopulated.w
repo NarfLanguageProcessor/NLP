@@ -1,0 +1,1 @@
+{"index": 339599, "D": "having a population lower than is normal or desirable.", "S": [], "A": []}

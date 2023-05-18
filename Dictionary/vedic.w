@@ -1,0 +1,1 @@
+{"index": 357646, "D": "of or relating to the Veda  or Vedas. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52472, "D": "liable to change  or to be changed;  variable.", "S": ["compliance ", "flexibility ", "pliancy ", "tractability ", "tractableness ", "versatility "], "A": []}

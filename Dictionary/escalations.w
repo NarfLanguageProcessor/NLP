@@ -1,0 +1,1 @@
+{"index": 104101, "D": "to increase in intensity, magnitude, etc.", "S": ["acceleration "], "A": ["decrease ", "diminishment "]}

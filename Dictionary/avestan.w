@@ -1,0 +1,1 @@
+{"index": 24720, "D": "Compare Gathic (def. 1). ", "S": [], "A": []}

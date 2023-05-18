@@ -1,0 +1,1 @@
+{"index": 193019, "D": "the earth's natural satellite, orbiting the earth at a mean distance of 238,857 miles (384,393 km) and having a diameter of 2,160 miles (3,476 km).", "S": ["crescent ", "half-moon ", "planetoid ", "pumpkin ", "satellite "], "A": []}

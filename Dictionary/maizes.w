@@ -1,0 +1,1 @@
+{"index": 178024, "D": "(chiefly in British and technical usage) corn1 (def. 1). ", "S": [], "A": []}

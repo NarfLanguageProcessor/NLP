@@ -1,0 +1,1 @@
+{"index": 289383, "D": "a small railway locomotive used for manoeuvring coaches rather than for making journeys", "S": [], "A": []}

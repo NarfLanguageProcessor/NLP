@@ -1,0 +1,1 @@
+{"index": 345778, "D": "to loosen or relax (the grasp, hold, fingers, etc.).", "S": ["disengage ", "disentangle ", "free ", "loose ", "loosen ", "release ", "slip ", "unbind ", "unblock ", "unbutton ", "unclasp ", "unfasten ", "unlock ", "unloosen ", "unravel ", "untie ", "unwrap "], "A": ["button ", "fasten ", "hold ", "tie "]}

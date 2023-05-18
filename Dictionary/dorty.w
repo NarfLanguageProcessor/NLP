@@ -1,0 +1,1 @@
+{"index": 91823, "D": "sullen; sulky.", "S": [], "A": []}

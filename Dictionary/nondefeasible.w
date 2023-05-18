@@ -1,0 +1,1 @@
+{"index": 202759, "D": "capable of being annulled or terminated.", "S": [], "A": []}

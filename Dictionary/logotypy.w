@@ -1,0 +1,1 @@
+{"index": 174705, "D": "a single piece of type  bearing two or more uncombined letters, a syllable, or a word.", "S": [], "A": []}

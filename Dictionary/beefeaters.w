@@ -1,0 +1,1 @@
+{"index": 30303, "D": "a yeoman of the English royal guard or a warder of the Tower of London.", "S": [], "A": []}

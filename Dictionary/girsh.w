@@ -1,0 +1,1 @@
+{"index": 125626, "D": "a variant of qirsh. ", "S": [], "A": []}

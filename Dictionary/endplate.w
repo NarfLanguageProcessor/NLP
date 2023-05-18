@@ -1,0 +1,1 @@
+{"index": 100067, "D": "Compare wall plate (def. 3). ", "S": [], "A": []}

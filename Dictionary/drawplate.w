@@ -1,0 +1,1 @@
+{"index": 92816, "D": "a plate used to reduce the diameter of wire by drawing it through conical holes", "S": [], "A": []}

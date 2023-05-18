@@ -1,0 +1,1 @@
+{"index": 106173, "D": "all the time; always.", "S": [], "A": []}

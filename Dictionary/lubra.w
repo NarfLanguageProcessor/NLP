@@ -1,0 +1,1 @@
+{"index": 175739, "D": "an Aboriginal girl or woman.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223400, "D": "the study of the fossil magnetism in rocks, used to determine the past configurations of the continents and to investigate the past shape and magnitude of the earth's magnetic field", "S": [], "A": []}

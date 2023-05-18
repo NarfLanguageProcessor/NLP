@@ -1,0 +1,1 @@
+{"index": 37700, "D": [], "S": ["balderdash ", "bluster ", "braggadocio ", "cotton ", "exaggeration ", "fustian ", "gasconade ", "grandiloquence ", "grandiosity ", "magniloquence ", "pad ", "pomposity ", "rage ", "rant ", "rave ", "rhapsody ", "rhetoric ", "rodomontade ", "stuff ", "tumidity ", "turgidity "], "A": []}

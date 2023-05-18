@@ -1,0 +1,1 @@
+{"index": 42380, "D": "an act or instance of buying out, especially of buying all or a controlling percentage of the shares in a company.", "S": [], "A": []}

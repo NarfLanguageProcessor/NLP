@@ -1,0 +1,1 @@
+{"index": 362263, "D": "to beat soundly; thrash.", "S": ["bash ", "belt ", "blow ", "bop ", "bump ", "clash ", "collision ", "crash ", "haymaker ", "impact ", "jar ", "jolt ", "kick ", "percussion ", "punch ", "shock ", "slam ", "slug ", "smack ", "smash ", "thump ", "thwack ", "whack "], "A": []}

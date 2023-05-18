@@ -1,0 +1,1 @@
+{"index": 125584, "D": "divided into a number of gyrons, usually eight", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252477, "D": "the act or process of making a thing resistant, as in waterproof fabrics or fireproof material.", "S": [], "A": []}

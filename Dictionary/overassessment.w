@@ -1,0 +1,1 @@
+{"index": 218256, "D": "the act of assessing;  appraisal; evaluation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49228, "D": "Compare anagenesis (def. 1). ", "S": [], "A": []}

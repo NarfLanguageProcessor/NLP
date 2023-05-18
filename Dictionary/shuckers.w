@@ -1,0 +1,1 @@
+{"index": 289323, "D": "a husk or pod, as the outer covering of corn, hickory nuts, chestnuts, etc.", "S": [], "A": []}

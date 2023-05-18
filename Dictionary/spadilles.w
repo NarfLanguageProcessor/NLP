@@ -1,0 +1,1 @@
+{"index": 298220, "D": "the highest trump in certain card games, as the queen of clubs in omber.", "S": [], "A": []}

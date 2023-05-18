@@ -1,0 +1,1 @@
+{"index": 208370, "D": "a person who does not vote.", "S": [], "A": []}

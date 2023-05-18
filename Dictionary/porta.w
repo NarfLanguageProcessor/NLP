@@ -1,0 +1,1 @@
+{"index": 243570, "D": "an aperture in an organ, such as the liver, esp one providing an opening for blood vessels", "S": [], "A": []}

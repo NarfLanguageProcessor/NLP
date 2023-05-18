@@ -1,0 +1,1 @@
+{"index": 288900, "D": "a cake  made with a relatively large amount of butter or other shortening.", "S": [], "A": []}

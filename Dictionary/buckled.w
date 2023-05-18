@@ -1,0 +1,1 @@
+{"index": 42074, "D": "a clasp consisting of a rectangular or curved rim with one or more movable tongues, fixed to one end of a belt or strap, used for fastening to the other end of the same strap or to another strap.", "S": ["awry ", "off-center "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37452, "D": "to change from a liquid to a gaseous state, producing bubbles of gas that rise to the surface of the liquid, agitating it as they rise.", "S": ["abscess ", "blain ", "blister ", "carbuncle ", "excrescence ", "furuncle ", "pimple ", "pustule ", "sore ", "tumor ", "ulcer "], "A": []}

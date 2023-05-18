@@ -1,0 +1,1 @@
+{"index": 69112, "D": "characterized by or growing in corymbs; corymblike.", "S": [], "A": []}

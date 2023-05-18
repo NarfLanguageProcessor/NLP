@@ -1,0 +1,1 @@
+{"index": 53842, "D": "a tropical American tree, Annona cherimola, having leaves with velvety, hairy undersides and yellow-to-brown fragrant flowers.", "S": [], "A": []}

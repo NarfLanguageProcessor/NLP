@@ -1,0 +1,1 @@
+{"index": 359225, "D": "capable of living.", "S": [], "A": []}

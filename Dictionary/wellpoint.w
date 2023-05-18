@@ -1,0 +1,1 @@
+{"index": 364059, "D": "a perforated tube driven into the ground to collect water from the surrounding area so that it can be pumped away, as to prevent an excavation from filling with groundwater.", "S": [], "A": []}

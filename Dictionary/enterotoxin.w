@@ -1,0 +1,1 @@
+{"index": 101338, "D": "a toxic substance produced by certain bacteria that on ingestion causes violent vomiting and diarrhea.", "S": [], "A": []}

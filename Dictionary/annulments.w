@@ -1,0 +1,1 @@
+{"index": 13657, "D": "the act of annulling,  especially the formal declaration that annuls  a marriage.", "S": ["abolition ", "abrogation ", "breakup ", "cancellation ", "deletion ", "dissolution ", "nullification ", "repeal ", "retraction ", "reversal ", "revocation "], "A": ["approval ", "confirmation ", "establishment "]}

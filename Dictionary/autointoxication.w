@@ -1,0 +1,1 @@
+{"index": 24135, "D": "poisoning with toxic substances formed within the body, as during intestinal digestion.", "S": [], "A": []}

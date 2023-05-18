@@ -1,0 +1,1 @@
+{"index": 282434, "D": "any fish or shellfish from the sea used for food.", "S": [], "A": []}

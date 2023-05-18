@@ -1,0 +1,1 @@
+{"index": 38936, "D": "an overturning; convulsion; turmoil.", "S": [], "A": []}

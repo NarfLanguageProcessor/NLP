@@ -1,0 +1,1 @@
+{"index": 184921, "D": "a person who translates or changes a literary work from one form to another, as prose into verse.", "S": [], "A": []}

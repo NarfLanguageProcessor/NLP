@@ -1,0 +1,1 @@
+{"index": 174565, "D": "pertaining to a logarithm  or logarithms. ", "S": [], "A": []}

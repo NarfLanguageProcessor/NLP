@@ -1,0 +1,1 @@
+{"index": 53358, "D": "the collection of union dues by employers through compulsory deduction from each worker's wages.", "S": ["check ", "mark ", "notice ", "verify "], "A": []}

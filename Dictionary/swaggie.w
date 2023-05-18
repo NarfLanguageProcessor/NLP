@@ -1,0 +1,1 @@
+{"index": 313964, "D": "Australian and NZ slang short for swagman", "S": [], "A": []}

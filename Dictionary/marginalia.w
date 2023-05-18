@@ -1,0 +1,1 @@
+{"index": 180000, "D": "marginal notes.", "S": ["comment ", "commentary ", "diary ", "inscription ", "journal ", "letter ", "memorandum ", "message ", "missive ", "remark ", "summary "], "A": ["silence "]}

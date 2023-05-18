@@ -1,0 +1,1 @@
+{"index": 252431, "D": "the dorsal sclerite of the prothorax of an insect.", "S": [], "A": []}

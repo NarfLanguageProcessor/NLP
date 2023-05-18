@@ -1,0 +1,1 @@
+{"index": 44508, "D": "mountaineering short for cagoule", "S": [], "A": []}

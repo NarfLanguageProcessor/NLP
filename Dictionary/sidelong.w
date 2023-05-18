@@ -1,0 +1,1 @@
+{"index": 289768, "D": "directed to one side", "S": ["ambiguous ", "ancillary ", "circuitous ", "implied ", "incidental ", "oblique ", "tortuous "], "A": ["direct ", "straight ", "straightforward "]}

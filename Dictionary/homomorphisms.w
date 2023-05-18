@@ -1,0 +1,1 @@
+{"index": 143169, "D": "correspondence in form or external appearance but not in type of structure or origin.", "S": [], "A": []}

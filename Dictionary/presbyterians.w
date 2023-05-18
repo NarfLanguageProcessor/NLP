@@ -1,0 +1,1 @@
+{"index": 249256, "D": "pertaining to or based on the principle of ecclesiastical government by presbyters or presbyteries. ", "S": [], "A": []}

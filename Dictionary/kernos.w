@@ -1,0 +1,1 @@
+{"index": 164052, "D": "a Mycenaean ceramic piece, usually in the form of a ring, to which were attached a number of cups or vases.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 6847, "D": "a nonnegotiable shipping document evidencing the contract between shipper and air carrier for transportation and delivery of cargo. Abbreviation", "S": [], "A": []}

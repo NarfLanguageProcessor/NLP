@@ -1,0 +1,1 @@
+{"index": 354966, "D": "to pull out by or as if by the roots", "S": [], "A": []}

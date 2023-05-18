@@ -1,0 +1,1 @@
+{"index": 45420, "D": "(of foods) producing heat.", "S": [], "A": []}

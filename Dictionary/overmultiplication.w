@@ -1,0 +1,1 @@
+{"index": 220313, "D": "the act or process of multiplying  or the state of being multiplied. ", "S": [], "A": []}

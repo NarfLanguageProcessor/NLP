@@ -1,0 +1,1 @@
+{"index": 283028, "D": "to lead astray, as from duty, rectitude, or the like; corrupt.", "S": ["absorbed ", "aroused ", "delighted ", "enamored ", "enchanted ", "enthralled ", "excited ", "intoxicated ", "mesmerized ", "thrilled "], "A": ["bored ", "indifferent ", "unhappy ", "disenchanted "]}

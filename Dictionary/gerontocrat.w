@@ -1,0 +1,1 @@
+{"index": 124290, "D": "government by a council of elders.", "S": [], "A": []}

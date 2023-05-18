@@ -1,0 +1,1 @@
+{"index": 331294, "D": "an animal that trots,  especially a horse bred and trained for harness racing.", "S": [], "A": []}

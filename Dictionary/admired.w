@@ -1,0 +1,1 @@
+{"index": 4179, "D": "to regard with wonder, pleasure, or approval.", "S": ["cherished ", "dear ", "esteemed ", "favorite ", "hallowed ", "loved ", "popular ", "prized ", "respected ", "revered ", "treasured ", "venerated ", "well-liked "], "A": ["disliked "]}

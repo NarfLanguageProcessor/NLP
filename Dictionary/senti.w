@@ -1,0 +1,1 @@
+{"index": 285478, "D": "a monetary unit of Tanzania, one 100th of a shilling; cent. ", "S": [], "A": []}

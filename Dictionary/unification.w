@@ -1,0 +1,1 @@
+{"index": 344106, "D": "the process of unifying  or uniting; union", "S": ["consolidation ", "merger "], "A": ["division ", "parting ", "separation ", "disconnection ", "disunion ", "divorce "]}

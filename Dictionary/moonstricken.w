@@ -1,0 +1,1 @@
+{"index": 193114, "D": "mentally deranged, supposedly by the influence of the moon;  crazed.", "S": [], "A": []}

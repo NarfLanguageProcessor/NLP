@@ -1,0 +1,1 @@
+{"index": 312557, "D": "(of a solution) containing more solute than a saturated solution and therefore not in equilibrium", "S": [], "A": []}

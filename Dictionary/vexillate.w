@@ -1,0 +1,1 @@
+{"index": 359206, "D": "having a vexillum  or vexilla. ", "S": [], "A": []}

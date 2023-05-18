@@ -1,0 +1,1 @@
+{"index": 195029, "D": "having more than one cylinder,  as an internal-combustion or steam engine.", "S": [], "A": []}

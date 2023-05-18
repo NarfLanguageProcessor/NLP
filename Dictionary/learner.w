@@ -1,0 +1,1 @@
+{"index": 169664, "D": "a person who is learning;  student; pupil; apprentice; trainee.", "S": ["beginner ", "pupil ", "trainee "], "A": ["teacher "]}

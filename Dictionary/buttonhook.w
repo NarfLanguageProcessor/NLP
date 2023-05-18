@@ -1,0 +1,1 @@
+{"index": 43752, "D": "a small, usually metal hook  for pulling buttons  through buttonholes, as on gloves, dresses, breeches, etc.", "S": [], "A": []}

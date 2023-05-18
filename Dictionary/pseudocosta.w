@@ -1,0 +1,1 @@
+{"index": 254649, "D": "a rib or riblike part.", "S": [], "A": []}

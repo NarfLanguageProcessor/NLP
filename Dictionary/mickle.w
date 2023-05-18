@@ -1,0 +1,1 @@
+{"index": 185784, "D": "great; large; much.", "S": [], "A": []}

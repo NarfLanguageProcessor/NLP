@@ -1,0 +1,1 @@
+{"index": 107387, "D": "(in Britain) one of four yeomen of the guard who act as commanding officers in the absence of higher authority.", "S": [], "A": []}

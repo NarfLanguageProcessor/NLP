@@ -1,0 +1,1 @@
+{"index": 285458, "D": "gratifying the senses", "S": ["lush ", "sensual ", "voluptuous "], "A": ["despicable ", "distasteful "]}

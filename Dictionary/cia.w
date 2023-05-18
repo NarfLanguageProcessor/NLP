@@ -1,0 +1,1 @@
+{"index": 56786, "D": "the U.S. federal agency that coordinates governmental intelligence activities outside the United States.", "S": [], "A": []}

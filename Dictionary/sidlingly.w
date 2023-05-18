@@ -1,0 +1,1 @@
+{"index": 289887, "D": "to move sideways or obliquely.", "S": [], "A": []}

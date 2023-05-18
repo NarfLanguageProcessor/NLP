@@ -1,0 +1,1 @@
+{"index": 67321, "D": "observing, studying, or thinking deeply about something", "S": ["contemplative ", "deliberative ", "excogitative ", "meditating ", "meditative ", "probing ", "reasoning ", "reflective ", "ruminative ", "thinking "], "A": []}

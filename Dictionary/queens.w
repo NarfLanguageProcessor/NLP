@@ -1,0 +1,1 @@
+{"index": 258266, "D": "a borough of E New York City, on Long Island. 113.1 sq. mi. (295 sq. km).", "S": ["monarch ", "ruler "], "A": ["king "]}

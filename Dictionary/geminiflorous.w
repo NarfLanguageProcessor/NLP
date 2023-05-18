@@ -1,0 +1,1 @@
+{"index": 123315, "D": "having flowers arranged in pairs.", "S": [], "A": []}

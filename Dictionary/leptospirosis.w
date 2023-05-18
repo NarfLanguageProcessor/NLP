@@ -1,0 +1,1 @@
+{"index": 170793, "D": "an infectious disease of humans and of horses, dogs, swine, and other animals, caused by the spirochete Leptospira interrogans and characterized by fever, muscle pain, and jaundice, and in severe cases involving the liver and kidney.", "S": [], "A": []}

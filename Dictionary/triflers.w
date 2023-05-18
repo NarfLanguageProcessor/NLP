@@ -1,0 +1,1 @@
+{"index": 329740, "D": "an article or thing of very little value.", "S": ["abecedarian ", "beginner ", "dilettante ", "loafer ", "novice ", "potterer ", "pretender ", "tinkerer ", "tyro ", "uninitiate "], "A": ["expert ", "professional "]}

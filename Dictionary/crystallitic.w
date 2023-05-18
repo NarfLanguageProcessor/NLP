@@ -1,0 +1,1 @@
+{"index": 73400, "D": "a minute body in glassy igneous rock, showing incipient crystallization.", "S": [], "A": []}

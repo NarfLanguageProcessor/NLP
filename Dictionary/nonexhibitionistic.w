@@ -1,0 +1,1 @@
+{"index": 203774, "D": "a person who behaves in ways intended to attract attention or display their powers, personality, etc.", "S": [], "A": []}

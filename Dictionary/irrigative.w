@@ -1,0 +1,1 @@
+{"index": 158459, "D": "serving for or pertaining to irrigation.", "S": [], "A": []}

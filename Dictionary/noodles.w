@@ -1,0 +1,1 @@
+{"index": 208428, "D": "a narrow strip of unleavened egg dough that has been rolled thin and dried, boiled, and served alone or in soups, casseroles, etc.; a ribbon-shaped pasta.", "S": ["penne ", "spaghetti ", "tortellini "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111301, "D": "(in medieval Europe) a lord's act of granting a fief to his man", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173100, "D": "noting a colloid the particles of which have a strong affinity for the liquid in which they are dispersed.", "S": [], "A": []}

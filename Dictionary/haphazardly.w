@@ -1,0 +1,1 @@
+{"index": 133451, "D": "in a haphazard  manner; at random.", "S": ["aimlessly ", "carelessly ", "casually ", "randomly "], "A": []}

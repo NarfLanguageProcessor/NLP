@@ -1,0 +1,1 @@
+{"index": 217673, "D": "to draw into the mouth by producing a partial vacuum by action of the lips and tongue", "S": [], "A": []}

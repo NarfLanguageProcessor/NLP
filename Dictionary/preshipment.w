@@ -1,0 +1,1 @@
+{"index": 249431, "D": "an act or instance of shipping  freight or cargo.", "S": [], "A": []}

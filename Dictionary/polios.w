@@ -1,0 +1,1 @@
+{"index": 242182, "D": "poliomyelitis. ", "S": [], "A": []}

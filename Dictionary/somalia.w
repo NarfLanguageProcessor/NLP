@@ -1,0 +1,1 @@
+{"index": 296951, "D": "an independent republic on the eastern coast of Africa, formed from the former British Somaliland and the former Italian Somaliland. 246,198 sq. mi. (637,653 sq. km). Capital", "S": [], "A": []}

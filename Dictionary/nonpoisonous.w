@@ -1,0 +1,1 @@
+{"index": 206028, "D": "not having the effects or qualities of a poison", "S": ["certain ", "clear ", "dependable ", "harmless ", "healthy ", "pure ", "reliable ", "secure "], "A": ["indefinite ", "irresponsible ", "uncertain ", "undecided ", "unfixed ", "unreliable ", "unsure "]}

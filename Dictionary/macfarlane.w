@@ -1,0 +1,1 @@
+{"index": 176715, "D": "an overcoat with an attached cape and two slits in front near the waist.", "S": [], "A": []}

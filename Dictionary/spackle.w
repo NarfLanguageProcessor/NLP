@@ -1,0 +1,1 @@
+{"index": 298187, "D": "a brand of quick-drying, plasterlike material for patching plasterwork.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114153, "D": "sheets, tablecloths, etc., that are ordinarily ironed mechanically, as on a mangle, rather than by hand.", "S": [], "A": []}

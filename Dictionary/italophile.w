@@ -1,0 +1,1 @@
+{"index": 159472, "D": "a person who admires Italian customs, traditions, etc.", "S": [], "A": []}

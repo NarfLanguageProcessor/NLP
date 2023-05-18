@@ -1,0 +1,1 @@
+{"index": 104082, "D": "a son of Isaac and Rebekah, twin brother of Jacob, to whom he sold his birthright. Genesis 25", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20867, "D": "the dried rhizome and roots of wild ginger that yield an acrid resin and a volatile, aromatic oil, used chiefly as a flavoring.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 182196, "D": "to engage in thought or contemplation; reflect.", "S": ["ponder ", "ruminate "], "A": ["ignore ", "neglect ", "disbelieve ", "disregard ", "forget "]}

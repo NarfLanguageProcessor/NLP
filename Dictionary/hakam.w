@@ -1,0 +1,1 @@
+{"index": 132506, "D": "a wise and learned person; sage.", "S": [], "A": []}

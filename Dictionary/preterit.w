@@ -1,0 +1,1 @@
+{"index": 249916, "D": "(in English) the simple past. ", "S": [], "A": []}

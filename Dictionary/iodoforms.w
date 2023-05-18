@@ -1,0 +1,1 @@
+{"index": 157501, "D": "a yellowish, crystalline, water-insoluble solid, CHI3, analogous to chloroform, and having a penetrating odor", "S": [], "A": []}

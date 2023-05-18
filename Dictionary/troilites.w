@@ -1,0 +1,1 @@
+{"index": 331011, "D": "a mineral, iron sulfide, FeS, occurring in meteorites.", "S": [], "A": []}

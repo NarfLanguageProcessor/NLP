@@ -1,0 +1,1 @@
+{"index": 117311, "D": "an instrument having two or more prongs or tines, for holding, lifting, etc., as an implement for handling food or any of various agricultural tools.", "S": ["glassware ", "silverware "], "A": []}

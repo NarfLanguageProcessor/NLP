@@ -1,0 +1,1 @@
+{"index": 295282, "D": "a sudden rebound or recovery.", "S": [], "A": []}

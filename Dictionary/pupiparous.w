@@ -1,0 +1,1 @@
+{"index": 256819, "D": "(of an insect) bearing fully developed larvae that are ready to pupate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 355465, "D": "the spore  of the rust fungi that appears between the aeciospore and the teliospore, commonly the summer spore. ", "S": [], "A": []}

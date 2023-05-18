@@ -1,0 +1,1 @@
+{"index": 43209, "D": "having been cheated in a sale of drugs", "S": ["charred ", "scorched "], "A": []}

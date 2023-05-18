@@ -1,0 +1,1 @@
+{"index": 87674, "D": "to see, get knowledge of, learn of, find, or find out; gain sight or knowledge of (something previously unseen or unknown)", "S": ["attentive ", "discerning ", "discriminating ", "intelligent ", "mindful ", "perceptive ", "vigilant "], "A": ["careless ", "heedless ", "inattentive ", "neglectful ", "negligent ", "unaware ", "undiscriminating "]}

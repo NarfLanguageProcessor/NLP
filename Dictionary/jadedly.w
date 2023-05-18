@@ -1,0 +1,1 @@
+{"index": 160053, "D": "dulled or satiated by overindulgence", "S": [], "A": []}

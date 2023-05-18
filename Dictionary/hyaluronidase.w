@@ -1,0 +1,1 @@
+{"index": 138200, "D": "a mucolytic enzyme found in the testes, in snake venom, and in hemolytic streptococci and certain other bacteria, that decreases the viscosity of the intercellular matrix by breaking down hyaluronic acid.", "S": [], "A": []}

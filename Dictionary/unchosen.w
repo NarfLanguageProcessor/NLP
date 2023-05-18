@@ -1,0 +1,1 @@
+{"index": 336843, "D": "a past participle of choose. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233687, "D": "a slaty rock, the cleavage planes of which have a luster imparted by minute scales of mica.", "S": [], "A": []}

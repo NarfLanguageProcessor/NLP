@@ -1,0 +1,1 @@
+{"index": 125842, "D": "noting or written in an alphabet, probably invented by St. Cyril in about a.d. 865, formerly used in writing Old Church Slavonic and other Slavic languages", "S": [], "A": []}

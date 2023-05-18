@@ -1,0 +1,1 @@
+{"index": 128854, "D": "impressive in size, appearance, or general effect", "S": ["wonderfully "], "A": []}

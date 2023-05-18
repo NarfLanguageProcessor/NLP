@@ -1,0 +1,1 @@
+{"index": 318984, "D": "of or relating to tension", "S": ["malleable ", "soft "], "A": ["firm ", "rigid "]}

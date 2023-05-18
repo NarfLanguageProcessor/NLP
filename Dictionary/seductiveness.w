@@ -1,0 +1,1 @@
+{"index": 283044, "D": "tending to seduce; enticing; beguiling; captivating", "S": ["attraction ", "charisma ", "charm ", "enticement ", "glamor ", "magnetism ", "temptation "], "A": ["repulsion "]}

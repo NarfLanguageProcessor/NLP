@@ -1,0 +1,1 @@
+{"index": 103769, "D": "abnormal redness, as of plumage or hair.", "S": [], "A": []}

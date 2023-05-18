@@ -1,0 +1,1 @@
+{"index": 183497, "D": "the doctrine that objects of knowledge have no existence except in the mind of the perceiver.", "S": [], "A": []}

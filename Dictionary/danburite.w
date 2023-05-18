@@ -1,0 +1,1 @@
+{"index": 76672, "D": "a rare mineral, calcium borosilicate, CaB2Si2O8, occurring in pegmatite in yellow or colorless crystals resembling topaz.", "S": [], "A": []}

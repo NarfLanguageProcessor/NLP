@@ -1,0 +1,1 @@
+{"index": 213558, "D": "obstinate or conceited with regard to the merit of one's own opinions;  conceitedly dogmatic.", "S": [], "A": []}

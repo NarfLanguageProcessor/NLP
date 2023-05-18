@@ -1,0 +1,1 @@
+{"index": 302497, "D": "a World War II German military camp housing prisoners of war of enlisted ranks.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349454, "D": "to renounce or surrender (a possession, right, etc.)", "S": [], "A": []}

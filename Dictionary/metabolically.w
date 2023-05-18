@@ -1,0 +1,1 @@
+{"index": 184558, "D": "of, relating to, or affected by metabolism. ", "S": [], "A": []}

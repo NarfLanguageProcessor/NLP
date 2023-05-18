@@ -1,0 +1,1 @@
+{"index": 141093, "D": "a sound of less than usual intensity in percussion or auscultation.", "S": [], "A": []}

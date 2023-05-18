@@ -1,0 +1,1 @@
+{"index": 47253, "D": "(in the Philippines) the water buffalo.", "S": [], "A": []}

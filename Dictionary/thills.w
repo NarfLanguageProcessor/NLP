@@ -1,0 +1,1 @@
+{"index": 321779, "D": "either of the pair of shafts of a vehicle between which a draft animal is harnessed.", "S": ["beam ", "chimney ", "cylinder ", "duct ", "rod ", "tunnel "], "A": []}

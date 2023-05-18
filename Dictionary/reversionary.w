@@ -1,0 +1,1 @@
+{"index": 271281, "D": "of, relating to, or involving a reversion. ", "S": [], "A": []}

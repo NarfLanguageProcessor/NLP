@@ -1,0 +1,1 @@
+{"index": 87627, "D": "to disconcert, embarrass, or abash", "S": ["ban ", "defiance ", "exclusion ", "noncompliance ", "rejection ", "reversal ", "veto "], "A": ["acceptance ", "allowance ", "approval ", "permission ", "ratification ", "sanction ", "agreement ", "attraction ", "confirmation ", "endorsement "]}

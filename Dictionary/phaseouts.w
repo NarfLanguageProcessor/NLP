@@ -1,0 +1,1 @@
+{"index": 233205, "D": "an act or instance of phasing out; planned discontinuation or expiration.", "S": [], "A": []}

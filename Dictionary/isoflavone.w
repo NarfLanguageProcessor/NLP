@@ -1,0 +1,1 @@
+{"index": 158948, "D": "a phytoestrogen produced chiefly by plants of the legume family, especially soybeans, potentially useful in lowering cholesterol and in treating some cancers and menopausal symptoms.", "S": [], "A": []}

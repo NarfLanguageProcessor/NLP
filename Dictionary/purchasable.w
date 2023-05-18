@@ -1,0 +1,1 @@
+{"index": 256879, "D": "capable of being bought.", "S": ["bribable ", "buyable ", "corruptible ", "venal "], "A": []}

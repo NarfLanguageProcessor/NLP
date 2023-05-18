@@ -1,0 +1,1 @@
+{"index": 140781, "D": "the lowermost distinctively treated part of a base.", "S": [], "A": []}

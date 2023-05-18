@@ -1,0 +1,1 @@
+{"index": 337568, "D": "having strong belief or full assurance; sure", "S": ["afraid ", "anxious ", "apprehensive ", "hesitant ", "shaky ", "touchy ", "troubled ", "unsure ", "uptight "], "A": ["at ease ", "calm ", "certain ", "collected ", "composed ", "cool ", "definite ", "happy ", "peaceful ", "quiet ", "sure ", "unafraid ", "unwavering ", "unworried "]}

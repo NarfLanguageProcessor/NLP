@@ -1,0 +1,1 @@
+{"index": 211873, "D": "a cotton fabric made waterproof by treatment with oil  and used for rain gear and fishermen's clothing.", "S": [], "A": []}

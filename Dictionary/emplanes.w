@@ -1,0 +1,1 @@
+{"index": 98818, "D": "enplane. ", "S": ["catch ", "climb on ", "enter ", "get on ", "hop on "], "A": ["disembark ", "get off ", "leave "]}

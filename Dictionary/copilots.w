@@ -1,0 +1,1 @@
+{"index": 68529, "D": "a pilot  who is second in command of an aircraft.", "S": [], "A": []}

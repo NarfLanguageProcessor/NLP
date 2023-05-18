@@ -1,0 +1,1 @@
+{"index": 57217, "D": "a synthetic, crystalline, toxic substance, C7H15Cl2N2O2P, related to nitrogen mustard, used in the treatment of Hodgkin's disease, lymphoma, and certain leukemias. Abbreviation", "S": [], "A": []}

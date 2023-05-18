@@ -1,0 +1,1 @@
+{"index": 248611, "D": "the act of obtruding. ", "S": [], "A": []}

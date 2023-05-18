@@ -1,0 +1,1 @@
+{"index": 188605, "D": "to give bad or inappropriate advice to.", "S": [], "A": []}

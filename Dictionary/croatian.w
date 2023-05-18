@@ -1,0 +1,1 @@
+{"index": 73540, "D": "of or relating to Croatia,  its people, or their language.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94718, "D": "medicinal drops for use in the ears.", "S": [], "A": []}

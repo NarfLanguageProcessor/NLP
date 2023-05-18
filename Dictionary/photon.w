@@ -1,0 +1,1 @@
+{"index": 235271, "D": "a quantum of electromagnetic radiation,  usually considered as an elementary particle that is its own antiparticle and that has zero rest mass and charge and a spin of one. Symbol", "S": [], "A": []}

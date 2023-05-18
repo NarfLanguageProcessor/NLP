@@ -1,0 +1,1 @@
+{"index": 331321, "D": "to act or be employed as an expert in discovering and eliminating problems or malfunctions in software, mechanical equipment, etc.", "S": ["balance ", "correct ", "fine-tune ", "fix ", "improve ", "overhaul ", "readjust ", "regulate ", "tighten "], "A": ["disorganize ", "break ", "damage ", "destroy ", "dull ", "hurt ", "ruin ", "spoil "]}

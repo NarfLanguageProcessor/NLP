@@ -1,0 +1,1 @@
+{"index": 113142, "D": "a paper or cardboard cylinder filled with an explosive and having a fuse, for discharging to make a noise, as during a celebration.", "S": ["bursts ", "illuminations ", "pyrotechnics ", "rockets ", "sparklers "], "A": []}

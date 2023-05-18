@@ -1,0 +1,1 @@
+{"index": 283367, "D": "to take hold of suddenly or forcibly; grasp", "S": ["catch ", "snatch "], "A": ["free ", "give ", "let go ", "loose ", "loosen ", "reject ", "release ", "unfasten "]}

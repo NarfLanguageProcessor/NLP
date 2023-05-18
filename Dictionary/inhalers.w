@@ -1,0 +1,1 @@
+{"index": 152644, "D": "an apparatus or device used in inhaling  medicinal vapors, anesthetics, etc.", "S": [], "A": []}

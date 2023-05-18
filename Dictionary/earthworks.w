@@ -1,0 +1,1 @@
+{"index": 94872, "D": "excavation and piling of earth  in connection with an engineering operation.", "S": ["barricade ", "citadel ", "fortress ", "reinforcement "], "A": ["opening "]}

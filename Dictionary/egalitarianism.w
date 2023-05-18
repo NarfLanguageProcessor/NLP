@@ -1,0 +1,1 @@
+{"index": 96144, "D": "belief in the equality of all people, especially in political, social, or economic life.", "S": ["equality ", "freedom ", "justice "], "A": ["unfairness "]}

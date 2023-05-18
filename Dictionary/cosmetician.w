@@ -1,0 +1,1 @@
+{"index": 70012, "D": "a person who manufactures or sells cosmetics. ", "S": [], "A": []}

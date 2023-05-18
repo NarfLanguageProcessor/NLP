@@ -1,0 +1,1 @@
+{"index": 27249, "D": "the seat on which judges sit in court.", "S": [], "A": []}

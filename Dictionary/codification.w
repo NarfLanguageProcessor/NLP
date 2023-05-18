@@ -1,0 +1,1 @@
+{"index": 61763, "D": "the act, process, or result of arranging in a systematic form or code.", "S": ["allocation ", "allotment ", "analysis ", "arrangement ", "coordination ", "designation ", "distribution ", "grade ", "regulation "], "A": ["disorganization ", "keeping ", "retention "]}

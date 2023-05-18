@@ -1,0 +1,1 @@
+{"index": 14303, "D": "to displace (the uterus or other body organ) by tipping forward.", "S": [], "A": []}

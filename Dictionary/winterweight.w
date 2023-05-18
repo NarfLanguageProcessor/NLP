@@ -1,0 +1,1 @@
+{"index": 366292, "D": "(of clothes) suitable in weight for wear in the winter; relatively heavy", "S": [], "A": []}

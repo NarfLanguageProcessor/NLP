@@ -1,0 +1,1 @@
+{"index": 67078, "D": "to force, compel, or oblige", "S": ["bind ", "constrict ", "curb ", "hold down ", "inhibit ", "necessitate ", "stifle "], "A": ["aid ", "allow ", "assist ", "encourage ", "free ", "help ", "loosen ", "release ", "delay ", "discourage ", "dissuade ", "halt ", "indulge ", "leave alone ", "let go ", "liberate ", "permit ", "repress ", "stop "]}

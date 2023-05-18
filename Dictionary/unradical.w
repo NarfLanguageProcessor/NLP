@@ -1,0 +1,1 @@
+{"index": 348997, "D": "of or going to the root or origin; fundamental", "S": ["humble ", "inexpensive ", "moderate ", "reasonable ", "simple ", "small "], "A": ["expensive ", "outrageous ", "unreasonable "]}

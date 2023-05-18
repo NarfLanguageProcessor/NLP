@@ -1,0 +1,1 @@
+{"index": 333731, "D": "the development or formation of an ulcer", "S": ["discharge ", "infection ", "maturation ", "purulence ", "pus ", "suppuration "], "A": []}

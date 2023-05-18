@@ -1,0 +1,1 @@
+{"index": 5212, "D": "the act or condition of aestivating", "S": [], "A": []}

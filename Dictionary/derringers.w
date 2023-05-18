@@ -1,0 +1,1 @@
+{"index": 82331, "D": "an early short-barreled pocket pistol.", "S": [], "A": []}

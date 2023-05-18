@@ -1,0 +1,1 @@
+{"index": 186916, "D": "a cell of the bone marrow, especially one developing into a granulocyte.", "S": [], "A": []}

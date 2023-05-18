@@ -1,0 +1,1 @@
+{"index": 94933, "D": "farthest east.", "S": [], "A": []}

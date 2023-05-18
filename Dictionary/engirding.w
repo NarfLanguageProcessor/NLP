@@ -1,0 +1,1 @@
+{"index": 100360, "D": "to encircle; encompass", "S": ["band ", "begird ", "belt ", "cincture ", "circle ", "compass ", "encompass ", "engirdle ", "gird ", "girdle ", "ring ", "surround "], "A": []}

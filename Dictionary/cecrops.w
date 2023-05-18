@@ -1,0 +1,1 @@
+{"index": 50354, "D": "(in ancient Greek tradition) the first king of Attica, represented as half-human, half-dragon", "S": [], "A": []}

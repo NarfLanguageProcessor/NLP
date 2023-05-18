@@ -1,0 +1,1 @@
+{"index": 26436, "D": "of or relating to statistical methods that regard parameters of a population as random variables having known probability distributions.", "S": [], "A": []}

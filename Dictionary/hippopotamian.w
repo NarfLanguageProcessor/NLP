@@ -1,0 +1,1 @@
+{"index": 141473, "D": "a large herbivorous mammal, Hippopotamus amphibius, having a thick hairless body, short legs, and a large head and muzzle, found in and near the rivers, lakes, etc., of Africa, and able to remain under water for a considerable time.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253516, "D": "a sea god, son of Oceanus and Tethys, noted for his ability to assume different forms and to prophesy.", "S": ["frog ", "salamander ", "toad "], "A": []}

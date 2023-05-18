@@ -1,0 +1,1 @@
+{"index": 277474, "D": "an inhabitant of Samaria.", "S": ["Johnny-on-the-spot ", "boy scout ", "do-gooder ", "good neighbor ", "helping hand ", "humanitarian "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82299, "D": "to detract, as from authority, estimation, etc. (usually followed by from).", "S": ["denigrate ", "detract ", "discredit ", "disparage ", "humiliate ", "insult ", "slander "], "A": ["commend ", "compliment ", "flatter ", "laud ", "praise "]}

@@ -1,0 +1,1 @@
+{"index": 254640, "D": "of, pertaining to, characteristic of, or based on confession", "S": [], "A": []}

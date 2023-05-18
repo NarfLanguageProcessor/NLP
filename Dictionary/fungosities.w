@@ -1,0 +1,1 @@
+{"index": 120261, "D": "the condition of being fungal. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359987, "D": "a bowed musical instrument, differing from the violin in having deeper ribs, sloping shoulders, a greater number of strings, usually six, and frets", "S": [], "A": []}

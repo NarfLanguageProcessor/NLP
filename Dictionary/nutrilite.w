@@ -1,0 +1,1 @@
+{"index": 209802, "D": "any of several preparations of vitamins and minerals used as food supplements.", "S": [], "A": []}

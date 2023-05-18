@@ -1,0 +1,1 @@
+{"index": 19884, "D": "a monk in charge of the library and scriptorium in a monastery.", "S": [], "A": []}

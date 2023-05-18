@@ -1,0 +1,1 @@
+{"index": 31280, "D": "a card game for two players, using 32 cards and following the same basic rules as klabberjass, popular in France.", "S": [], "A": []}

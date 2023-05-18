@@ -1,0 +1,1 @@
+{"index": 163136, "D": "a long coat formerly worn by male Jews of eastern Europe and now worn chiefly by very Orthodox or Hasidic Jews.", "S": [], "A": []}

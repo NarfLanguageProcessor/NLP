@@ -1,0 +1,1 @@
+{"index": 316905, "D": "either of two pieces of plate armor hanging from the fauld to protect the upper parts of the thighs.", "S": [], "A": []}

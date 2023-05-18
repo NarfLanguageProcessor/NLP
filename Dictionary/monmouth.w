@@ -1,0 +1,1 @@
+{"index": 192067, "D": "illegitimate son of Charles II of England and pretender to the throne of James II.", "S": [], "A": []}

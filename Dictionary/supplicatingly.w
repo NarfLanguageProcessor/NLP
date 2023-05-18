@@ -1,0 +1,1 @@
+{"index": 313002, "D": "to pray humbly; make humble and earnest entreaty or petition.", "S": [], "A": []}

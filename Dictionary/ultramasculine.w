@@ -1,0 +1,1 @@
+{"index": 333967, "D": "pertaining to or characteristic of a man or men", "S": ["aggressive ", "cocky ", "manly ", "masculine "], "A": ["cowardly ", "shy ", "timid ", "weak "]}

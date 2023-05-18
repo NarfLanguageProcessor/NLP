@@ -1,0 +1,1 @@
+{"index": 99937, "D": "the endoplasm of a protozoan (opposed to ectosarc).", "S": [], "A": []}

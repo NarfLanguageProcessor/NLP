@@ -1,0 +1,1 @@
+{"index": 350124, "D": "causing sorrow or pity; pitiable; deplorable", "S": [], "A": []}

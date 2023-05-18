@@ -1,0 +1,1 @@
+{"index": 347892, "D": "to take out the stitches of (sewing, knitting, etc.).", "S": [], "A": []}

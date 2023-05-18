@@ -1,0 +1,1 @@
+{"index": 139348, "D": "the branch of physics that deals with the measurement of the humidity of air and gases.", "S": ["Nilometer ", "pluviometer ", "udometer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 224044, "D": "(of leaves) having palmate veins and lobes split almost to the base of the blade.", "S": [], "A": []}

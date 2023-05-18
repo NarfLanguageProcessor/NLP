@@ -1,0 +1,1 @@
+{"index": 248012, "D": "an indirect or covert suggestion or hint, especially of a derogatory nature", "S": [], "A": []}

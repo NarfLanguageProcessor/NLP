@@ -1,0 +1,1 @@
+{"index": 165293, "D": "a card game played with a 32-card pack, made by removing all cards below the sevens from a regular 52-card pack, in which scoring values are assigned to certain cards taken in tricks, to sequences in the same suit, to the king and queen of trumps, and to the last trick.", "S": [], "A": []}

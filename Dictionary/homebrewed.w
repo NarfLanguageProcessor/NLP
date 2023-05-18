@@ -1,0 +1,1 @@
+{"index": 142759, "D": "beer or other alcoholic beverage made at home.", "S": [], "A": []}

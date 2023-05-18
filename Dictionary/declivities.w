@@ -1,0 +1,1 @@
+{"index": 78509, "D": "a downward slope,  as of ground (opposed to acclivity).", "S": ["declination ", "descent ", "inclination "], "A": []}

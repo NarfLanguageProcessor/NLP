@@ -1,0 +1,1 @@
+{"index": 290652, "D": "with a silvery appearance or sound.", "S": [], "A": []}

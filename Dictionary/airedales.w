@@ -1,0 +1,1 @@
+{"index": 6895, "D": "one of a breed of large terriers having a wiry, black-and-tan coat and a docked tail.", "S": ["beagle "], "A": []}

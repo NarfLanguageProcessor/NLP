@@ -1,0 +1,1 @@
+{"index": 44181, "D": "bad handwriting; poor penmanship.", "S": ["indecipherable ", "unintelligible "], "A": ["decipherable ", "legible ", "understandable "]}

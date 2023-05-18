@@ -1,0 +1,1 @@
+{"index": 160880, "D": [], "S": ["compromise ", "defy ", "endanger ", "imperil ", "jeopardize "], "A": ["guard ", "protect ", "save ", "avoid ", "be careful ", "design ", "dodge ", "hide ", "neglect ", "plan ", "retreat ", "run away "]}

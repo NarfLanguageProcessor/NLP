@@ -1,0 +1,1 @@
+{"index": 336408, "D": "having a sedative effect.", "S": [], "A": []}

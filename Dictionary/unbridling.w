@@ -1,0 +1,1 @@
+{"index": 336203, "D": "to remove the bridle from (a horse, mule, etc.).", "S": [], "A": []}

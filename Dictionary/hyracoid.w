@@ -1,0 +1,1 @@
+{"index": 141575, "D": "of, relating to, or belonging to the mammalian order Hyracoidea, which contains the hyraxes", "S": [], "A": []}

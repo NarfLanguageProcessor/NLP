@@ -1,0 +1,1 @@
+{"index": 93787, "D": "capable of being hammered out thin, as certain metals; malleable. ", "S": ["adaptable ", "amenable ", "biddable ", "docile ", "extensile ", "malleable ", "manageable ", "moldable ", "plastic ", "pliable ", "responsive ", "submitting ", "supple ", "tractable ", "yielding "], "A": ["hard ", "inflexible ", "intractable ", "stiff ", "unyielding "]}

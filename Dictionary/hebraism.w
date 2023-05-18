@@ -1,0 +1,1 @@
+{"index": 135078, "D": "an expression or construction distinctive of the Hebrew language.", "S": [], "A": []}

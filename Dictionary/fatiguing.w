@@ -1,0 +1,1 @@
+{"index": 110315, "D": "weariness from bodily or mental exertion.", "S": ["debilitating ", "depleting ", "draining ", "exhausting ", "sapping ", "taxing ", "wearing ", "wearying "], "A": []}

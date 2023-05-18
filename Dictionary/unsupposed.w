@@ -1,0 +1,1 @@
+{"index": 352463, "D": "assumed as true, regardless of fact; hypothetical", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279327, "D": "having a rough surface because of minute points or projections.", "S": ["blotchy ", "coarse ", "encrusted ", "lepidote ", "notched ", "scabby ", "scaly ", "unsmooth "], "A": []}

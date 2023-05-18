@@ -1,0 +1,1 @@
+{"index": 268483, "D": "to put in proper condition or readiness", "S": [], "A": []}

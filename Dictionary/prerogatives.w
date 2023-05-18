@@ -1,0 +1,1 @@
+{"index": 249179, "D": "an exclusive right, privilege, etc., exercised by virtue of rank, office, or the like", "S": ["immunity ", "perquisite "], "A": ["duty ", "obligation "]}

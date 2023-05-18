@@ -1,0 +1,1 @@
+{"index": 102965, "D": "of or relating to an epithelial cell of a coelenterate that contains contractile fibrils and acts as a muscle.", "S": [], "A": []}

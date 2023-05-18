@@ -1,0 +1,1 @@
+{"index": 108271, "D": "to make exterior; externalize. ", "S": ["convey ", "exemplify ", "express ", "externalize ", "incarnate ", "manifest ", "materialize ", "objectify ", "personify ", "project ", "represent ", "substantiate ", "symbolize "], "A": ["keep ", "withhold "]}

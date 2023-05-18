@@ -1,0 +1,1 @@
+{"index": 179196, "D": "the juicy, edible fruit of an East Indian tree, Garcinia mangostana.", "S": [], "A": []}

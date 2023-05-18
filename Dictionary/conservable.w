@@ -1,0 +1,1 @@
+{"index": 66759, "D": "capable of being conserved", "S": [], "A": []}

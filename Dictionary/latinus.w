@@ -1,0 +1,1 @@
+{"index": 168993, "D": "the father of Lavinia and king of Latium at the time of the arrival of Aeneas.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39095, "D": "any tropical shrub belonging to the genus Bouvardia, of the madder family, having cymes of red, yellow, or white tubular flowers.", "S": [], "A": []}

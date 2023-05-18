@@ -1,0 +1,1 @@
+{"index": 253113, "D": "of the nature of or resembling prose. ", "S": [], "A": []}

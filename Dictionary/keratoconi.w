@@ -1,0 +1,1 @@
+{"index": 163922, "D": "a degenerative condition characterized by conical protrusion of the cornea and irregular astigmatism.", "S": [], "A": []}

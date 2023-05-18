@@ -1,0 +1,1 @@
+{"index": 186351, "D": "(of an animal) feeding on small particles of food", "S": [], "A": []}

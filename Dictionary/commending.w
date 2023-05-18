@@ -1,0 +1,1 @@
+{"index": 63959, "D": "to present, mention, or praise as worthy of confidence, notice, kindness, etc.; recommend", "S": ["agreeable ", "benign ", "encouraging ", "positive ", "supportive ", "sympathetic "], "A": ["disadvantageous ", "disagreeable ", "hateful "]}

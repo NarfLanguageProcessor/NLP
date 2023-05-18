@@ -1,0 +1,1 @@
+{"index": 305655, "D": "to make or become straight  in direction, form, position, character, conduct, condition, etc. (often followed by up or out).", "S": ["rectify ", "uncoil "], "A": ["disarrange ", "disorder ", "disorganize ", "disperse ", "mess up ", "mix up ", "scatter "]}

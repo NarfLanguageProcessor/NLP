@@ -1,0 +1,1 @@
+{"index": 109022, "D": "(of a fabric) having a small and elaborate pattern.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288722, "D": "a ram's horn blown as a wind instrument, sounded in Biblical times chiefly to communicate signals in battle and announce certain religious occasions and in modern times chiefly at synagogue services on Rosh Hashanah and Yom Kippur.", "S": [], "A": []}

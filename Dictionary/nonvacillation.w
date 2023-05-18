@@ -1,0 +1,1 @@
+{"index": 208149, "D": "an act or instance of vacillating. ", "S": [], "A": []}

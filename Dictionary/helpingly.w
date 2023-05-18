@@ -1,0 +1,1 @@
+{"index": 135810, "D": "the act of a person or thing that helps. ", "S": [], "A": []}

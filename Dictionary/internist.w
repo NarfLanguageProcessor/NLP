@@ -1,0 +1,1 @@
+{"index": 155507, "D": "a physician specializing in the diagnosis and nonsurgical treatment of diseases, especially of adults.", "S": [], "A": []}

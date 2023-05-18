@@ -1,0 +1,1 @@
+{"index": 257192, "D": "self-assertive and aggressive; pushing. ", "S": ["ambitious ", "assertive ", "brash ", "obnoxious ", "presumptuous "], "A": ["modest ", "quiet ", "shy ", "unassuming "]}

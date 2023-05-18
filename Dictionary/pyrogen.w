@@ -1,0 +1,1 @@
+{"index": 237793, "D": "a substance, as a thermostable bacterial toxin, that produces a rise in temperature in a human or animal.", "S": [], "A": []}

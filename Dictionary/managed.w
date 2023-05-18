@@ -1,0 +1,1 @@
+{"index": 178878, "D": "to bring about or succeed in accomplishing, sometimes despite difficulty or hardship", "S": ["educated ", "handled "], "A": ["free ", "undisciplined ", "uneducated ", "ungoverned ", "unsupervised ", "wild "]}

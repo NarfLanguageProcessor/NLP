@@ -1,0 +1,1 @@
+{"index": 118031, "D": "something that has no value (used in expressions of contempt)", "S": [], "A": []}

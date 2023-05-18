@@ -1,0 +1,1 @@
+{"index": 193638, "D": "a combining form with the meaning \u201chaving the shape, form, or structure\u201d of the kind or number specified by the initial element, used in the formation of compound words", "S": [], "A": []}

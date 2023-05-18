@@ -1,0 +1,1 @@
+{"index": 310477, "D": "any of a class of organic compounds containing the bivalent group \u2013SO2\u2013, united with two hydrocarbon groups.", "S": [], "A": []}

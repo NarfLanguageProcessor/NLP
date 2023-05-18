@@ -1,0 +1,1 @@
+{"index": 119552, "D": "any of the class of hexosans, as inulin and the like, that yield fructose  upon hydrolysis.", "S": [], "A": []}

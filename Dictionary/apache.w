@@ -1,0 +1,1 @@
+{"index": 16621, "D": "a Parisian gangster, rowdy, or ruffian.", "S": [], "A": []}

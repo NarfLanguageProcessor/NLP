@@ -1,0 +1,1 @@
+{"index": 231728, "D": "a long speech characterized by lofty and often pompous language.", "S": [], "A": []}

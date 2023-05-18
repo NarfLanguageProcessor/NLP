@@ -1,0 +1,1 @@
+{"index": 291791, "D": "of, relating to, or on the left side; left (opposed to dextral).", "S": ["larboard ", "port ", "south "], "A": ["right "]}

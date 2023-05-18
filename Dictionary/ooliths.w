@@ -1,0 +1,1 @@
+{"index": 213030, "D": "any of the component concretions of a piece of oolite.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3401, "D": "a traditional saying expressing a common experience or observation; proverb.", "S": ["aphorism ", "axiom ", "dictum ", "maxim ", "motto ", "precept "], "A": []}

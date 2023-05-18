@@ -1,0 +1,1 @@
+{"index": 278192, "D": "consisting of sapphire; like sapphire, especially in color.", "S": [], "A": []}

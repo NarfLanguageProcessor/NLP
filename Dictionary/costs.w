@@ -1,0 +1,1 @@
+{"index": 70236, "D": "the price paid to acquire, produce, accomplish, or maintain anything", "S": ["damages ", "outlay ", "overhead ", "reparations "], "A": []}

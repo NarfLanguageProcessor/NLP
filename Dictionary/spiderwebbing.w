@@ -1,0 +1,1 @@
+{"index": 299708, "D": "to cover with a spider web  or fine lines resembling a spider web. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176127, "D": "the surgical removal of a breast cyst or tumor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 161826, "D": "to bump, push, shove, brush against, or elbow roughly or rudely.", "S": [], "A": []}

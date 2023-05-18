@@ -1,0 +1,1 @@
+{"index": 70727, "D": "a coup  aimed at the replacement of a government that itself achieved power through an earlier coup.", "S": [], "A": []}

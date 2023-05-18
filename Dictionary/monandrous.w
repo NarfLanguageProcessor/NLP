@@ -1,0 +1,1 @@
+{"index": 191737, "D": "of, relating to, or characterized by monandry.", "S": [], "A": []}

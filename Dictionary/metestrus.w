@@ -1,0 +1,1 @@
+{"index": 185183, "D": "the luteal phase of the reproductive cycle in mammalian females, occurring after ovulation and characterized by development of the corpus luteum, increased progesterone secretion, and decreased estrogen secretion.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208718, "D": "a person who snacks, especially one who does so often or continuously.", "S": [], "A": []}

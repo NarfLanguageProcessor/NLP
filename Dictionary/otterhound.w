@@ -1,0 +1,1 @@
+{"index": 216004, "D": "one of an English breed of water dogs having a thick, shaggy, oily coat, trained to hunt otter. ", "S": [], "A": []}

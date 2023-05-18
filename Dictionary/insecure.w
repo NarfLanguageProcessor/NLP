@@ -1,0 +1,1 @@
+{"index": 153500, "D": "subject to fears, doubts, etc.; not self-confident or assured", "S": ["afraid ", "anxious ", "apprehensive ", "hesitant ", "shaky ", "touchy ", "troubled ", "unsure ", "uptight "], "A": ["at ease ", "calm ", "certain ", "collected ", "composed ", "cool ", "definite ", "happy ", "peaceful ", "quiet ", "sure ", "unafraid ", "unwavering ", "unworried "]}

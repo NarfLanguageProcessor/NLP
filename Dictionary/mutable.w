@@ -1,0 +1,1 @@
+{"index": 196203, "D": "liable or subject to change or alteration.", "S": ["alterable ", "erratic ", "fickle ", "fluctuating ", "inconstant ", "mercurial ", "unreliable ", "vacillating ", "variable ", "wavering "], "A": ["constant ", "invariable "]}

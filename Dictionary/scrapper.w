@@ -1,0 +1,1 @@
+{"index": 281594, "D": "a person who removes or does away with scraps. ", "S": ["aspirant ", "candidate ", "challenger ", "contender ", "entrant ", "participant "], "A": ["fan ", "spectator ", "ally ", "supporter "]}

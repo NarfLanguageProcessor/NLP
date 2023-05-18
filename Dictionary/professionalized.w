@@ -1,0 +1,1 @@
+{"index": 251712, "D": "to give a professional  character or status to; make into or establish as a profession.", "S": [], "A": []}

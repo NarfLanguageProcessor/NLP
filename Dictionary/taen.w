@@ -1,0 +1,1 @@
+{"index": 315168, "D": "contraction of taken. ", "S": [], "A": []}

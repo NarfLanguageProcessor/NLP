@@ -1,0 +1,1 @@
+{"index": 121338, "D": "a person who visits art galleries,  especially often or regularly.", "S": [], "A": []}

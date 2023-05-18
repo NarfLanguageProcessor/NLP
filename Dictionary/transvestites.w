@@ -1,0 +1,1 @@
+{"index": 328419, "D": "a person, especially someone assigned male at birth, who assumes the dress and manner usually associated with a different sex for psychological or sexual gratification.", "S": ["cross-dresser "], "A": []}

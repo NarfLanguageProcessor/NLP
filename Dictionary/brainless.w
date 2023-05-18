@@ -1,0 +1,1 @@
+{"index": 39743, "D": "mentally weak; foolish; witless; stupid.", "S": ["dumb ", "mindless "], "A": ["intelligent "]}

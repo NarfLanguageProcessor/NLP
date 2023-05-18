@@ -1,0 +1,1 @@
+{"index": 25053, "D": "a rooflike shelter of canvas or other material extending over a doorway, from the top of a window, over a deck, etc., in order to provide protection, as from the sun.", "S": ["covering ", "tent "], "A": []}

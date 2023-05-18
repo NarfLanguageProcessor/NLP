@@ -1,0 +1,1 @@
+{"index": 27280, "D": "a lightweight box  of pasteboard, thin wood, etc., for holding a hat, clerical collars, or other articles of apparel.", "S": ["classy ", "dashing ", "rakish ", "spry ", "stylish "], "A": ["plain ", "unstylish "]}

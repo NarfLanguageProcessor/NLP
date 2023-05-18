@@ -1,0 +1,1 @@
+{"index": 360390, "D": "the state or fact of being visible. ", "S": ["clarity ", "discernability "], "A": []}

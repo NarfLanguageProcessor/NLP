@@ -1,0 +1,1 @@
+{"index": 182317, "D": "megohm; megohms.", "S": ["gamine ", "hoyden ", "romp ", "spitfire "], "A": []}

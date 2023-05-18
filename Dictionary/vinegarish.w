@@ -1,0 +1,1 @@
+{"index": 359884, "D": "resembling vinegar,  as in sourness or acidity", "S": ["acerb ", "acerbic ", "acidulous ", "acrid ", "bitter ", "harsh ", "tangy ", "tart ", "vinegary "], "A": []}

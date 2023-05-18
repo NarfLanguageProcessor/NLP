@@ -1,0 +1,1 @@
+{"index": 193232, "D": "given to moping;  listless, apathetic, or dejected.", "S": ["crestfallen ", "despondent ", "discouraged ", "disheartened ", "dispirited ", "gloomy ", "glum ", "morose "], "A": ["cheerful ", "elated ", "encouraged ", "happy ", "heartened ", "inspirited ", "above ", "upright "]}

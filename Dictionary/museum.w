@@ -1,0 +1,1 @@
+{"index": 195947, "D": "a building or place where works of art, scientific specimens, or other objects of permanent value are kept and displayed.", "S": ["building ", "foundation ", "gallery ", "hall ", "institution ", "library ", "salon "], "A": []}

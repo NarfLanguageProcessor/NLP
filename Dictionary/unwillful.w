@@ -1,0 +1,1 @@
+{"index": 354242, "D": "deliberate, voluntary, or intentional", "S": [], "A": []}

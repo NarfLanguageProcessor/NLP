@@ -1,0 +1,1 @@
+{"index": 369688, "D": "marked with zones,  as of color, texture, or the like.", "S": [], "A": []}

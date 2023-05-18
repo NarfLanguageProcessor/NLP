@@ -1,0 +1,1 @@
+{"index": 172537, "D": "pertaining to, containing, or conveying lymph. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77639, "D": "the bed on which a person dies", "S": [], "A": []}

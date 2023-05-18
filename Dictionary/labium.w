@@ -1,0 +1,1 @@
+{"index": 166722, "D": "a lip or liplike part.", "S": ["rim "], "A": ["center ", "interior ", "middle "]}

@@ -1,0 +1,1 @@
+{"index": 58338, "D": "of or relating to clouds composed of ice crystals, as cirrus, cirrostratus, and cirrocumulus clouds.", "S": [], "A": []}

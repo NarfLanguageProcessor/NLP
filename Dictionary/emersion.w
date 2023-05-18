@@ -1,0 +1,1 @@
+{"index": 98481, "D": "Compare immersion (def. 5). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104814, "D": "a chemical used to etch  designs into metal, glass, or other material.", "S": [], "A": []}

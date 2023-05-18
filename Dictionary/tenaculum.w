@@ -1,0 +1,1 @@
+{"index": 318680, "D": "a small sharp-pointed hook set in a handle, used for seizing and picking up parts in operations and dissections.", "S": [], "A": []}

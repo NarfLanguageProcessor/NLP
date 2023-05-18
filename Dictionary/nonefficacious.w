@@ -1,0 +1,1 @@
+{"index": 203374, "D": "capable of having the desired result or effect; effective  as a means, measure, remedy, etc.", "S": [], "A": []}

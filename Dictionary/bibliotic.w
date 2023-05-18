@@ -1,0 +1,1 @@
+{"index": 33334, "D": "the analysis of handwriting and documents, especially for authentication of authorship.", "S": [], "A": []}

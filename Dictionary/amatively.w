@@ -1,0 +1,1 @@
+{"index": 9877, "D": "disposed to love; amorous.", "S": [], "A": []}

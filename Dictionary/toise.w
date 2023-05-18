@@ -1,0 +1,1 @@
+{"index": 325178, "D": "an old French unit of length equivalent to 6.395 feet (1.949 meters).", "S": [], "A": []}

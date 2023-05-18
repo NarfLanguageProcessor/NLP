@@ -1,0 +1,1 @@
+{"index": 70805, "D": "made in imitation so as to be passed off fraudulently or deceptively as genuine; not genuine; forged", "S": ["paperhanger ", "plagiarist ", "pretender "], "A": []}

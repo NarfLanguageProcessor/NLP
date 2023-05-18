@@ -1,0 +1,1 @@
+{"index": 148283, "D": "(of a noun) not composed of the same number of syllables in all of its inflected forms, as Latin corpus, corporis.", "S": [], "A": []}

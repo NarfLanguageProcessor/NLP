@@ -1,0 +1,1 @@
+{"index": 113949, "D": "a flannel-covered surface to which other flannel  pieces, as letters of the alphabet, numbers, etc., adhere merely by contact, used mainly in schools as a visual aid.", "S": [], "A": []}

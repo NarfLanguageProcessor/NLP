@@ -1,0 +1,1 @@
+{"index": 368451, "D": "of, relating to, or adapted to a dry environment.", "S": [], "A": []}

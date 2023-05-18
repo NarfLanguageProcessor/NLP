@@ -1,0 +1,1 @@
+{"index": 286008, "D": "a noncommissioned army officer of a rank above that of corporal.", "S": [], "A": []}

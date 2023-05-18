@@ -1,0 +1,1 @@
+{"index": 253926, "D": "to draw out or lengthen, especially in time; extend the duration of; prolong.", "S": ["continuance ", "continuity ", "extension ", "perpetuation ", "preservation "], "A": ["stoppage "]}

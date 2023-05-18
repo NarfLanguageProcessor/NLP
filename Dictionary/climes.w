@@ -1,0 +1,1 @@
+{"index": 60001, "D": "climate. ", "S": ["humidity ", "temperature "], "A": []}

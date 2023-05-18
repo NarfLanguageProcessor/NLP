@@ -1,0 +1,1 @@
+{"index": 136496, "D": "a toxin,  as cobra venom, that causes a hemolytic reaction.", "S": [], "A": []}

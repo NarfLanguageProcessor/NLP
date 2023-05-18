@@ -1,0 +1,1 @@
+{"index": 109690, "D": "fans  collectively, as of a celebrity, a movie, a book, or a professional game or sport.", "S": [], "A": []}

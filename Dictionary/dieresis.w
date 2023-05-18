@@ -1,0 +1,1 @@
+{"index": 85175, "D": "the separation of two adjacent vowels, dividing one syllable into two.", "S": [], "A": []}

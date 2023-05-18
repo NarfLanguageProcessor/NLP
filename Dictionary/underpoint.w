@@ -1,0 +1,1 @@
+{"index": 339596, "D": "a sharp or tapering end, as of a dagger.", "S": [], "A": []}

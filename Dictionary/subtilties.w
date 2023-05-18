@@ -1,0 +1,1 @@
+{"index": 309525, "D": "an archaic variant of subtlety. ", "S": ["delicacy ", "emaciation ", "fineness ", "gauntness ", "inadequacy ", "meagerness ", "rarity ", "scantiness ", "shallowness ", "slimness ", "spareness ", "sparseness ", "tenuity "], "A": ["avoirdupois ", "fatness ", "solidity ", "thickness "]}

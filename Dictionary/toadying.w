@@ -1,0 +1,1 @@
+{"index": 324879, "D": "an obsequious flatterer; sycophant.", "S": ["charming ", "disarming ", "smarmy "], "A": ["deterring ", "disgusting ", "repellent "]}

@@ -1,0 +1,1 @@
+{"index": 319349, "D": "a violent, turbulent, or brawling woman.", "S": ["cat ", "dragon ", "harpy ", "harridan ", "hellcat ", "she-devil ", "shrew ", "termagant ", "virago ", "witch "], "A": []}

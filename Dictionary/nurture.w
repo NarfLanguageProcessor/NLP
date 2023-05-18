@@ -1,0 +1,1 @@
+{"index": 209740, "D": "to feed and protect", "S": ["breeding ", "care ", "diet ", "discipline ", "edibles ", "education ", "feed ", "food ", "instruction ", "nutriment ", "provender ", "provisions ", "rearing ", "subsistence ", "sustenance ", "training ", "upbringing ", "viands ", "victuals "], "A": ["ignorance ", "neglect ", "negligence "]}

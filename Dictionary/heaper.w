@@ -1,0 +1,1 @@
+{"index": 134789, "D": "a group of things placed, thrown, or lying one on another; pile", "S": ["endless ", "myriad ", "uncounted ", "untold "], "A": ["few ", "limited "]}

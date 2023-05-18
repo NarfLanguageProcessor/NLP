@@ -1,0 +1,1 @@
+{"index": 242857, "D": "the very large, yellow or orange citrus fruit of a tree, Citrus maxima, of southeastern Asia.", "S": [], "A": []}

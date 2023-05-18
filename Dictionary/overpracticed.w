@@ -1,0 +1,1 @@
+{"index": 220602, "D": "habitual or customary performance; operation", "S": [], "A": []}

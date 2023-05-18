@@ -1,0 +1,1 @@
+{"index": 193100, "D": "a variant of munshi. ", "S": [], "A": []}

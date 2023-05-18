@@ -1,0 +1,1 @@
+{"index": 23155, "D": "a person or thing that attracts. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310819, "D": "to combine or treat with sulphur or a sulphur compound", "S": [], "A": []}

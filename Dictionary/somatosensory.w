@@ -1,0 +1,1 @@
+{"index": 296994, "D": "of or relating to sensations that involve parts of the body not associated with the primary sense organs.", "S": [], "A": []}

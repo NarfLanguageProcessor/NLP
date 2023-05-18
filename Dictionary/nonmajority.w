@@ -1,0 +1,1 @@
+{"index": 205120, "D": "the greater part or number; the number larger than half the total (opposed to minority)", "S": [], "A": []}

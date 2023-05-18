@@ -1,0 +1,1 @@
+{"index": 315867, "D": "a long narrow drum of Provence.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 369604, "D": "a mental disorder in which one believes oneself to be an animal.", "S": [], "A": []}

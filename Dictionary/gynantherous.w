@@ -1,0 +1,1 @@
+{"index": 125168, "D": "having the stamens converted into pistils by the action of frost, disease, or insects.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205154, "D": "by hand or using one\u2019s hands", "S": [], "A": []}

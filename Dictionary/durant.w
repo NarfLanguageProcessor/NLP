@@ -1,0 +1,1 @@
+{"index": 94414, "D": "U.S. author and historian (wife of Will).", "S": [], "A": []}

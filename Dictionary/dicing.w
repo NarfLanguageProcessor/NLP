@@ -1,0 +1,1 @@
+{"index": 84875, "D": "gambling or playing with dice. ", "S": ["crumble ", "grind "], "A": ["reveal ", "tell all "]}

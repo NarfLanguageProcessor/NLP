@@ -1,0 +1,1 @@
+{"index": 291442, "D": "a synclinal fold.", "S": [], "A": []}

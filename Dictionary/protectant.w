@@ -1,0 +1,1 @@
+{"index": 253371, "D": "a substance, as a chemical spray, that provides protection, as against insects, frost, rust, etc.; protective agent.", "S": [], "A": []}

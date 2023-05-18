@@ -1,0 +1,1 @@
+{"index": 366614, "D": "to shrivel; fade; decay", "S": ["decaying ", "drooping ", "fading ", "shrinking ", "wilting "], "A": []}

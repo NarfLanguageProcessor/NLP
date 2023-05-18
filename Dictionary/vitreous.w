@@ -1,0 +1,1 @@
+{"index": 360619, "D": "of the nature of or resembling glass, as in transparency, brittleness, hardness, glossiness, etc.", "S": ["clear ", "glasslike ", "hyaline ", "hyaloid ", "translucent ", "transparent "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351967, "D": "like or suggesting a statue,  as in massive or majestic dignity, grace, or beauty.", "S": [], "A": []}

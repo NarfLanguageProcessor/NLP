@@ -1,0 +1,1 @@
+{"index": 369650, "D": "any of several low-growing grasses of the genus Zoysia, especially Z. matrella, native to tropical Asia and widely used for lawns.", "S": [], "A": []}

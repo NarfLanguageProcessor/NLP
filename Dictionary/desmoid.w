@@ -1,0 +1,1 @@
+{"index": 82715, "D": "resembling a fascia or fibrous sheet.", "S": [], "A": []}

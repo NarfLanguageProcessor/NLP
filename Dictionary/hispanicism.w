@@ -1,0 +1,1 @@
+{"index": 141679, "D": "an idiom peculiar to Spanish.", "S": [], "A": []}

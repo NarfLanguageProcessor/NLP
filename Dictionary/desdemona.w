@@ -1,0 +1,1 @@
+{"index": 82460, "D": "(in Shakespeare's Othello) Othello's wife, murdered by her husband as a result of jealousy instilled by Iago.", "S": [], "A": []}

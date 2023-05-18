@@ -1,0 +1,1 @@
+{"index": 306788, "D": "the state or condition of being a student. ", "S": [], "A": []}

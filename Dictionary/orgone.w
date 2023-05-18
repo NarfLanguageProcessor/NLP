@@ -1,0 +1,1 @@
+{"index": 214504, "D": "a substance postulated by Wilhelm Reich, who thought it was present everywhere and needed to be incorporated in people for sexual activity and mental health", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158810, "D": "having carpels equal in number to the other floral parts.", "S": [], "A": []}

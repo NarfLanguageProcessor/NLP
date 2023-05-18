@@ -1,0 +1,1 @@
+{"index": 210450, "D": "something that obstructs or hinders progress.", "S": ["bump ", "difficulty ", "disincentive ", "handicap ", "hardship ", "hindrance ", "hitch ", "hurdle ", "interference ", "obstruction ", "restriction ", "snag ", "stumbling block "], "A": ["advantage ", "aid ", "assistance ", "benefit ", "ease ", "help ", "opening ", "promotion "]}

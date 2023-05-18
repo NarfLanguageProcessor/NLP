@@ -1,0 +1,1 @@
+{"index": 208385, "D": "capable of being washed  without shrinking, fading, or the like.", "S": [], "A": []}

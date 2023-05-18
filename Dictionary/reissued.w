@@ -1,0 +1,1 @@
+{"index": 266541, "D": "something that is issued  again, as a book or a motion picture.", "S": ["borrowed ", "reconstituted ", "redeemed ", "reestablished ", "renegotiated ", "renewed ", "revised "], "A": []}

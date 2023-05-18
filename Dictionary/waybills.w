@@ -1,0 +1,1 @@
+{"index": 361950, "D": "a list of goods sent by a common carrier, as a railroad, with shipping directions.", "S": ["B/L ", "docket ", "invoice ", "manifest "], "A": []}

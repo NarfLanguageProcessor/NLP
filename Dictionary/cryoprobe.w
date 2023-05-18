@@ -1,0 +1,1 @@
+{"index": 73126, "D": "an instrument used in cryosurgery, having a supercooled tip for applying extreme cold to diseased tissue in order to remove or destroy it.", "S": [], "A": []}

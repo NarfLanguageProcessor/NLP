@@ -1,0 +1,1 @@
+{"index": 63988, "D": "to deliver a commentary  on", "S": ["comment ", "construe ", "define ", "elucidate ", "explain ", "expound ", "footnote ", "gloss ", "illustrate ", "interpret ", "note ", "remark "], "A": ["confuse ", "mystify ", "obscure "]}

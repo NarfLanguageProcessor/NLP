@@ -1,0 +1,1 @@
+{"index": 123825, "D": "a hollow concretionary or nodular stone often lined with crystals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 170209, "D": "work  or research involving extensive walking or traveling about, usually away from one's office, as in gathering data for a book, a legal action, etc.", "S": ["airing ", "walk "], "A": []}

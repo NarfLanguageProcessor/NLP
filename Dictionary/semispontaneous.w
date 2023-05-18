@@ -1,0 +1,1 @@
+{"index": 285000, "D": "coming or resulting from a natural impulse or tendency; without effort or premeditation; natural and unconstrained; unplanned", "S": [], "A": []}

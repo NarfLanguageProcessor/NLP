@@ -1,0 +1,1 @@
+{"index": 306647, "D": "to contend with an adversary or opposing force.", "S": [], "A": []}

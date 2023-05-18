@@ -1,0 +1,1 @@
+{"index": 208264, "D": "a person or thing that vibrates. ", "S": [], "A": []}

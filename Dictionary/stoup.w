@@ -1,0 +1,1 @@
+{"index": 305500, "D": "a basin for holy water, as at the entrance of a church.", "S": ["coffee cup ", "jug "], "A": []}

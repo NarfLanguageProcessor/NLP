@@ -1,0 +1,1 @@
+{"index": 3006, "D": "an irrational or disproportionate fear of heights", "S": [], "A": []}

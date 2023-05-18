@@ -1,0 +1,1 @@
+{"index": 156897, "D": "pertaining to or of the nature of intuition. ", "S": ["impulsive ", "ingrained ", "inherent ", "innate ", "intuitive ", "natural ", "spontaneous ", "visceral "], "A": ["acquired ", "extrinsic ", "learned "]}

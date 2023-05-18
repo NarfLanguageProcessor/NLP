@@ -1,0 +1,1 @@
+{"index": 142528, "D": "having a space or cavity inside; not solid; empty", "S": ["barrenness ", "blank ", "blankness ", "chasm ", "desolation ", "destitution ", "exhaustion ", "gap ", "inanition ", "inanity ", "vacancy ", "vacuity ", "vacuousness ", "vacuum ", "void ", "waste "], "A": ["closure ", "fullness "]}

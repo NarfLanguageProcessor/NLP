@@ -1,0 +1,1 @@
+{"index": 109245, "D": "glazed earthenware or pottery, especially a fine variety with highly colored designs.", "S": [], "A": []}

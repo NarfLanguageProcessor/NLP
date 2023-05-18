@@ -1,0 +1,1 @@
+{"index": 300248, "D": "full of spite  or malice; showing spite; malicious; malevolent; venomous", "S": ["enmity ", "evil ", "hate ", "hatred ", "indignity ", "malevolence ", "malice ", "maliciousness ", "malignancy ", "malignity ", "meanness ", "nastiness ", "spite ", "viciousness "], "A": ["kindness ", "liking ", "love ", "loving "]}

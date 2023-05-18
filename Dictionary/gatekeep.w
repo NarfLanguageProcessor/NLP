@@ -1,0 +1,1 @@
+{"index": 122728, "D": "to control access to something, or determine the legitimacy of people\u2019s claims to a particular status, by unilaterally imposing criteria for acceptance", "S": [], "A": []}

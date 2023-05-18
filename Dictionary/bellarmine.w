@@ -1,0 +1,1 @@
+{"index": 31130, "D": "a fat, narrow-necked stoneware bottle of the 16th and 17th centuries, ornamented with a bearded mask.", "S": [], "A": []}

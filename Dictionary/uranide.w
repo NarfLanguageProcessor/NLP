@@ -1,0 +1,1 @@
+{"index": 355281, "D": "any element having an atomic number greater than that of protactinium", "S": [], "A": []}

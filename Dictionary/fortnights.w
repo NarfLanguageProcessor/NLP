@@ -1,0 +1,1 @@
+{"index": 117702, "D": "the space of fourteen nights and days; two weeks.", "S": [], "A": ["eternity "]}

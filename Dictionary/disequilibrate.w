@@ -1,0 +1,1 @@
+{"index": 88023, "D": "to put out of equilibrium;  unbalance", "S": [], "A": []}

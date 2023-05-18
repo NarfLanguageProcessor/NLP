@@ -1,0 +1,1 @@
+{"index": 254850, "D": "having the function of making laws", "S": [], "A": []}

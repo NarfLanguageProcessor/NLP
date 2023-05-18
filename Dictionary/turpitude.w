@@ -1,0 +1,1 @@
+{"index": 332902, "D": "vile, shameful, or base character; depravity.", "S": ["baseness ", "corruption ", "criminality ", "debasement ", "debauchery ", "degradation ", "evil ", "immorality ", "lewdness ", "licentiousness ", "perversion ", "sinfulness ", "vice ", "viciousness ", "vileness ", "wickedness "], "A": ["decency ", "goodness ", "honor ", "morality ", "virtue "]}

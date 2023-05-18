@@ -1,0 +1,1 @@
+{"index": 133989, "D": "to make or become harsh", "S": [], "A": []}

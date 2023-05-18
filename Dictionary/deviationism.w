@@ -1,0 +1,1 @@
+{"index": 83532, "D": "(in Communist ideology) departure from accepted party policies or practices.", "S": [], "A": []}

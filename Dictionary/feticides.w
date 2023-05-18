@@ -1,0 +1,1 @@
+{"index": 111756, "D": "the act of destroying a fetus  or causing an abortion.", "S": ["miscarriage "], "A": ["childbirth ", "delivery ", "giving birth ", "parturition "]}

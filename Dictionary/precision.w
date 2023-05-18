@@ -1,0 +1,1 @@
+{"index": 246148, "D": "the state or quality of being precise. ", "S": ["rigor "], "A": ["carelessness ", "disregard ", "ignorance ", "inaccuracy ", "inattention ", "inexactness ", "infidelity ", "neglect ", "negligence ", "thoughtlessness "]}

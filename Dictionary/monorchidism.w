@@ -1,0 +1,1 @@
+{"index": 192617, "D": "a prenatal or postnatal condition in which one testis is absent or has not descended into the scrotum.", "S": [], "A": []}

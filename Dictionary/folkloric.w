@@ -1,0 +1,1 @@
+{"index": 115929, "D": "based on or resembling folklore", "S": ["allegorical ", "fanciful ", "imaginary ", "legendary ", "whimsical "], "A": ["factual ", "real ", "true "]}

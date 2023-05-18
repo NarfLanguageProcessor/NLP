@@ -1,0 +1,1 @@
+{"index": 306173, "D": "a slight or narrow furrow, ridge, stripe, or streak, especially one of a number in parallel arrangement", "S": [], "A": []}

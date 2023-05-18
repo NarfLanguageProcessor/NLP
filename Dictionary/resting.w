@@ -1,0 +1,1 @@
+{"index": 269930, "D": "that rests;  not active.", "S": ["crashed ", "dozing ", "dreaming ", "drowsing ", "lounging ", "napping ", "quiet ", "reclining ", "relaxing ", "reposing ", "sleeping ", "snoozing ", "unwinding "], "A": ["active "]}

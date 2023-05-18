@@ -1,0 +1,1 @@
+{"index": 126415, "D": "performed with a gliding effect by sliding one or more fingers rapidly over the keys of a piano or strings of a harp.", "S": [], "A": []}

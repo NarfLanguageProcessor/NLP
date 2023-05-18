@@ -1,0 +1,1 @@
+{"index": 82530, "D": [], "S": ["authority ", "benefit ", "business ", "claim ", "freedom ", "immunity ", "interest ", "license ", "power ", "priority "], "A": ["disadvantage ", "disfavor "]}

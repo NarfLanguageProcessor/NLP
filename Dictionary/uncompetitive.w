@@ -1,0 +1,1 @@
+{"index": 337376, "D": "not able or willing to compete", "S": [], "A": []}

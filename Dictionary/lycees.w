@@ -1,0 +1,1 @@
+{"index": 171610, "D": "a secondary school, especially in France, maintained by the government.", "S": [], "A": []}

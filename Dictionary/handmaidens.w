@@ -1,0 +1,1 @@
+{"index": 133234, "D": "something that is necessarily subservient or subordinate to another", "S": ["au pair ", "chambermaid ", "girl ", "housemaid "], "A": []}

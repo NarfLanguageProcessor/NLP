@@ -1,0 +1,1 @@
+{"index": 16880, "D": "to utter aphorisms;  write or speak in aphorisms.", "S": [], "A": []}

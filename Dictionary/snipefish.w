@@ -1,0 +1,1 @@
+{"index": 295559, "D": "any of several fishes  of the family Macrorhamphosidae, of tropical and temperate seas, having a long, tubular snout and a compressed body.", "S": [], "A": []}

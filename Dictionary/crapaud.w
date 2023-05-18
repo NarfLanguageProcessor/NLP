@@ -1,0 +1,1 @@
+{"index": 72162, "D": "a species of large frog, Leptodactylus pentadactylus, resembling a bullfrog, inhabiting South and Central America, and having deep orange or red coloring on the legs and sides during the breeding season, the rest of the body being dark-green or brown with black markings.", "S": [], "A": []}

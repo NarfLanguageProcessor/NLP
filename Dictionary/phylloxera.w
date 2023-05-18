@@ -1,0 +1,1 @@
+{"index": 233789, "D": "any of several plant lice of the genus Phylloxera, especially P. vitifoliae(grape phylloxera ), which attacks the leaves and roots of grapevines.", "S": [], "A": []}

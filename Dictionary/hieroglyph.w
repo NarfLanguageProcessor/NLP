@@ -1,0 +1,1 @@
+{"index": 139135, "D": "designating or pertaining to a pictographic script, particularly that of the ancient Egyptians, in which many of the symbols are conventionalized, recognizable pictures of the things represented.", "S": ["figure ", "type "], "A": []}

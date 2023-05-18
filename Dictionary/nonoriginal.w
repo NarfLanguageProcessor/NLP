@@ -1,0 +1,1 @@
+{"index": 205663, "D": "belonging or pertaining to the origin or beginning of something, or to a thing at its beginning", "S": [], "A": []}

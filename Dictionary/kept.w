@@ -1,0 +1,1 @@
+{"index": 163888, "D": "simple past tense and past participle of keep. ", "S": ["conserved ", "stored "], "A": ["abandoned ", "broken ", "dishonored ", "forgotten "]}

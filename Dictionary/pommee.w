@@ -1,0 +1,1 @@
+{"index": 242879, "D": "(of a cross) having arms with knoblike ends", "S": [], "A": []}

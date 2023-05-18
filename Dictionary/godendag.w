@@ -1,0 +1,1 @@
+{"index": 127333, "D": "a medieval Flemish club having a spike at the end.", "S": [], "A": []}

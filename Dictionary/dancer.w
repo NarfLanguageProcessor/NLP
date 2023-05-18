@@ -1,0 +1,1 @@
+{"index": 76678, "D": "a person who dances. ", "S": ["ballet dancer "], "A": []}

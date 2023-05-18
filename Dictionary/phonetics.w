@@ -1,0 +1,1 @@
+{"index": 234692, "D": "Compare acoustic phonetics, articulatory phonetics, auditory phonetics, physiological phonetics. ", "S": ["accent ", "diction ", "utterance "], "A": []}

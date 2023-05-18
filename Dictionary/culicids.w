@@ -1,0 +1,1 @@
+{"index": 74714, "D": "any of numerous dipterous insects of the family Culicidae, comprising the mosquitoes.", "S": [], "A": []}

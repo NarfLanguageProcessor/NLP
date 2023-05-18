@@ -1,0 +1,1 @@
+{"index": 120641, "D": "a short stiff skirt, usually pleated, made of white cotton or linen, worn by men in some parts of the Balkans.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232392, "D": "a heavy woolen cloth for men's overcoats and other bulky outerwear.", "S": [], "A": []}

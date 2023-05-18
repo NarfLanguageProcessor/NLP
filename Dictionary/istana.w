@@ -1,0 +1,1 @@
+{"index": 159387, "D": "(in Malaysia) a royal palace", "S": [], "A": []}

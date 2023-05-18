@@ -1,0 +1,1 @@
+{"index": 17720, "D": "to belong as a part, right, possession, attribute, etc.; pertain or relate (usually followed by to)", "S": ["apply ", "bear ", "pertain ", "refer ", "relate ", "vest "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 297490, "D": "(in a lichen) a group of soredia.", "S": [], "A": []}

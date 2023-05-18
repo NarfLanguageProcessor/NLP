@@ -1,0 +1,1 @@
+{"index": 336192, "D": "money or any other valuable consideration given or promised with a view to corrupting the behavior of a person, especially in that person's performance as an athlete, public official, etc.", "S": [], "A": []}

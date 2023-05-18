@@ -1,0 +1,1 @@
+{"index": 180637, "D": "advocating for men\u2019s rights, in opposition to feminism, and supporting traditional gender roles", "S": [], "A": []}

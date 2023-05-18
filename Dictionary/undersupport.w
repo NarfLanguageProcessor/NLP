@@ -1,0 +1,1 @@
+{"index": 339952, "D": "to bear or hold up (a load, mass, structure, part, etc.); serve as a foundation for.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128944, "D": "(of an animal, especially a bird) eating grain and seeds.", "S": [], "A": []}

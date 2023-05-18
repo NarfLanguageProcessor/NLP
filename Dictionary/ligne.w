@@ -1,0 +1,1 @@
+{"index": 172092, "D": "(in Swiss watchmaking) a unit equal to 0.0888 inch or 2.2558 millimeters, divided into 12 douziemes", "S": [], "A": []}

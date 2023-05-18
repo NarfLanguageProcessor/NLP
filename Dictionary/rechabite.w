@@ -1,0 +1,1 @@
+{"index": 262774, "D": "a total abstainer from alcoholic drink, esp a member of the Independent Order of Rechabites, a society devoted to abstention", "S": [], "A": []}

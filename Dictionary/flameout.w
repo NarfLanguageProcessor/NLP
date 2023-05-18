@@ -1,0 +1,1 @@
+{"index": 113869, "D": "the failure of a jet engine due to an interruption of the fuel supply or to faulty combustion.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332425, "D": "of or containing tungsten in a low valence state", "S": [], "A": []}

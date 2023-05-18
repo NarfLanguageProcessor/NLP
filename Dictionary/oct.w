@@ -1,0 +1,1 @@
+{"index": 210910, "D": "variant of octa-  or octo-  before a vowel", "S": [], "A": []}

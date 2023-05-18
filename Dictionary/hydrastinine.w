@@ -1,0 +1,1 @@
+{"index": 138439, "D": "a white, crystalline, poisonous alkaloid, C11H13NO3, synthesized from hydrastine", "S": [], "A": []}

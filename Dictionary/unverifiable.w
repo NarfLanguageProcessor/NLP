@@ -1,0 +1,1 @@
+{"index": 353758, "D": "to prove the truth of, as by evidence or testimony; confirm; substantiate", "S": ["fabled ", "fabulous ", "mythical ", "storied "], "A": ["factual ", "infamous ", "real ", "true ", "unimportant "]}

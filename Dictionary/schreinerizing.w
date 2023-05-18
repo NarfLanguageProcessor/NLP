@@ -1,0 +1,1 @@
+{"index": 280542, "D": "to produce a lustrous finish on (a fabric) by subjecting it to pressure exerted by rollers engraved with many fine lines.", "S": [], "A": []}

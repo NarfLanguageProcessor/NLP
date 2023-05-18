@@ -1,0 +1,1 @@
+{"index": 353807, "D": "performed, exercised, received, or suffered in place of another", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86725, "D": "of, relating to, or belonging to the Dipterocarpaceae, a family of trees chiefly native to tropical SE Asia, having two-winged fruits. Many species yield useful timber and resins", "S": [], "A": []}

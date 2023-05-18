@@ -1,0 +1,1 @@
+{"index": 81139, "D": "the bacterial or other microbial process in which nitrates and nitrites are reduced or removed from soil, water, or air by their conversion into nitrogenous gases", "S": [], "A": []}

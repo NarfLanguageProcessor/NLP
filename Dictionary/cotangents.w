@@ -1,0 +1,1 @@
+{"index": 70269, "D": "(in a right triangle) the ratio of the side adjacent to a given angle to the side opposite.", "S": [], "A": []}

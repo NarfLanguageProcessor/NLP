@@ -1,0 +1,1 @@
+{"index": 120908, "D": "a grayish-brown wild duck, Anas strepera, found in temperate parts of the Northern Hemisphere.", "S": [], "A": []}

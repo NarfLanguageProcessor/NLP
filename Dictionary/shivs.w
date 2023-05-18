@@ -1,0 +1,1 @@
+{"index": 288595, "D": "a knife, especially a switchblade.", "S": ["bayonet ", "blade ", "cutter ", "dagger ", "machete ", "scalpel ", "sickle ", "skewer ", "sword "], "A": []}

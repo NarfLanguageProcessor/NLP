@@ -1,0 +1,1 @@
+{"index": 127499, "D": "bright, metallic, or lustrous like gold;  of the color of gold;  yellow", "S": ["bright ", "brilliant ", "glorious ", "rich ", "shining "], "A": ["dark ", "dull ", "gloomy ", "normal ", "stupid ", "typical ", "unaware ", "unintelligent "]}

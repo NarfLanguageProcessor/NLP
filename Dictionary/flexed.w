@@ -1,0 +1,1 @@
+{"index": 114488, "D": "bent or contracted, as a part of the body", "S": ["crumpled "], "A": ["flat ", "smooth "]}

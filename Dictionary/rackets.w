@@ -1,0 +1,1 @@
+{"index": 259457, "D": "a rackets court; a rackets championship", "S": ["Black Hand ", "Mafia ", "gangdom ", "gangland ", "mob ", "organized crime ", "organized crime family ", "syndicate ", "the Syndicate ", "the mob ", "the underworld ", "underworld "], "A": []}

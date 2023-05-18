@@ -1,0 +1,1 @@
+{"index": 129497, "D": "excessive or rapacious desire, especially for wealth or possessions.", "S": [], "A": []}

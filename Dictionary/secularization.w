@@ -1,0 +1,1 @@
+{"index": 282900, "D": "separation from religious or spiritual connection or influences", "S": [], "A": []}

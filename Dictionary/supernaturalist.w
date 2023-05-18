@@ -1,0 +1,1 @@
+{"index": 312286, "D": "supernatural  character or agency.", "S": ["Age of Aquarius ", "alternative ", "astrological ", "balanced ", "crystal healing ", "holistic ", "mystic ", "occult ", "planetary ", "spiritual "], "A": []}

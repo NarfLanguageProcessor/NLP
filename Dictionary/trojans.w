@@ -1,0 +1,1 @@
+{"index": 331019, "D": "of or relating to ancient Troy  or its inhabitants.", "S": [], "A": []}

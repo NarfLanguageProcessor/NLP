@@ -1,0 +1,1 @@
+{"index": 269605, "D": "firm in purpose or intent; determined.", "S": ["mulishly ", "obdurately "], "A": ["graciously ", "obediently "]}

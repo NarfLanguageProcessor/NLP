@@ -1,0 +1,1 @@
+{"index": 73147, "D": "a cryogenic device that uses the principle that a varying magnetic field can cause the resistance of a superconducting element to change rapidly between its high normal and low superconductive values", "S": [], "A": []}

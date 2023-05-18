@@ -1,0 +1,1 @@
+{"index": 69339, "D": "of or abounding in corn.", "S": [], "A": []}

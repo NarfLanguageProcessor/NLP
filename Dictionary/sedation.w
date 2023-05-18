@@ -1,0 +1,1 @@
+{"index": 282970, "D": "the calming of mental excitement or abatement of physiological function, especially by the administration of a drug.", "S": [], "A": []}

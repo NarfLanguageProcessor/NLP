@@ -1,0 +1,1 @@
+{"index": 15033, "D": "any of a class of drugs used to prevent or abolish convulsions", "S": [], "A": []}

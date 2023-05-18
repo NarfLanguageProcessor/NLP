@@ -1,0 +1,1 @@
+{"index": 140306, "D": "excessive motility of the stomach or intestine (opposed to hypomotility).", "S": [], "A": []}

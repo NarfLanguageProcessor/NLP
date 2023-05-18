@@ -1,0 +1,1 @@
+{"index": 40944, "D": "the breast of an animal, or the part of the breast lying next to the ribs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 339562, "D": "a passage running underneath, especially a passage for pedestrians or vehicles, or both, crossing under a railroad, road, etc.", "S": ["bridge ", "crossroad ", "intersection ", "junction ", "overpass ", "passage "], "A": []}

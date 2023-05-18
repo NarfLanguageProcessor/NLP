@@ -1,0 +1,1 @@
+{"index": 192741, "D": "the only print made from a metal or glass plate on which a picture is painted in oil color, printing ink, or the like.", "S": [], "A": []}

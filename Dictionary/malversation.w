@@ -1,0 +1,1 @@
+{"index": 178712, "D": "improper or corrupt behavior in office, especially in public office.", "S": ["dereliction ", "immorality ", "impropriety ", "malfeasance ", "malpractice ", "misbehavior ", "mischief ", "misdemeanor ", "mismanagement ", "offense ", "transgression ", "wrongdoing "], "A": ["behavior ", "obedience "]}

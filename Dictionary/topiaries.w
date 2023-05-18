@@ -1,0 +1,1 @@
+{"index": 325882, "D": "(of a plant) clipped or trimmed into fantastic shapes.", "S": ["foliage ", "hedge ", "shrubbery ", "thicket ", "tree "], "A": []}

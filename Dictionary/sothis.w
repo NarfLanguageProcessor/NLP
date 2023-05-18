@@ -1,0 +1,1 @@
+{"index": 297743, "D": "the name for the star Sirius, the Dog Star, given by the ancient Egyptians.", "S": ["Canicula ", "Sirius "], "A": []}

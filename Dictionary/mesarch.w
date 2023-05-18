@@ -1,0 +1,1 @@
+{"index": 184008, "D": "(of a primary xylem or root) developing from both the periphery and the center; having the older cells surrounded by the younger cells.", "S": [], "A": []}

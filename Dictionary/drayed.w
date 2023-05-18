@@ -1,0 +1,1 @@
+{"index": 92607, "D": "a low, strong cart without fixed sides, for carrying heavy loads.", "S": [], "A": []}

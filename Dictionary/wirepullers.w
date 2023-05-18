@@ -1,0 +1,1 @@
+{"index": 366361, "D": "a person or thing that pulls wires.", "S": ["behind-the-scenes operator ", "eminence grise ", "friend at court ", "hidden hand ", "kingmaker ", "powerbroker "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97077, "D": "hemostasis  by means of an electric device, as an electrocautery.", "S": [], "A": []}

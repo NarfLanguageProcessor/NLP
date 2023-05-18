@@ -1,0 +1,1 @@
+{"index": 3891, "D": "absence or reduction of perspiration.", "S": [], "A": []}

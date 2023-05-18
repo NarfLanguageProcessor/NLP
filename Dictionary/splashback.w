@@ -1,0 +1,1 @@
+{"index": 300357, "D": "a sheet of glass, plastic, etc, attached to a wall above a basin to protect the wall against splashing", "S": [], "A": []}

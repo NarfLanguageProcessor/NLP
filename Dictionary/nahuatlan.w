@@ -1,0 +1,1 @@
+{"index": 196546, "D": "Nahuatl  in all its dialects, often taken as a group of languages, spoken in large areas of central Mexico and El Salvador and in various small, widely dispersed areas throughout southern Mexico and Central America.", "S": [], "A": []}

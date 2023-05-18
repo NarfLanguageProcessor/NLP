@@ -1,0 +1,1 @@
+{"index": 63326, "D": "pertaining to or affected with color blindness. ", "S": [], "A": []}

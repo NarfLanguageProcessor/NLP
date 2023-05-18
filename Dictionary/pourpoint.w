@@ -1,0 +1,1 @@
+{"index": 244945, "D": "a stuffed and quilted doublet worn by men from the 14th to 17th centuries.", "S": [], "A": []}

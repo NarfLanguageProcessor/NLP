@@ -1,0 +1,1 @@
+{"index": 347499, "D": "of or relating to a single or specific person, thing, group, class, occasion, etc., rather than to others or all; special rather than general", "S": [], "A": []}

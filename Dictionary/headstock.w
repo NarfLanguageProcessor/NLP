@@ -1,0 +1,1 @@
+{"index": 134726, "D": "the part of a machine containing or directly supporting the moving or working parts, as the assembly supporting and driving the live spindle in a lathe.", "S": [], "A": []}

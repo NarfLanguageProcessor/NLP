@@ -1,0 +1,1 @@
+{"index": 556, "D": "(in Indo-European languages) regular alternation in the internal phonological structure of a word element, especially alternation of a vowel, that is coordinated with a change in grammatical function or combination, as in English sing, sang, sung, song; apophony.", "S": [], "A": []}

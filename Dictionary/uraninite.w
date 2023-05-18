@@ -1,0 +1,1 @@
+{"index": 355293, "D": "a mineral, probably originally uranium dioxide,  UO2, but altered by radioactive decay, and usually containing uranium trioxide,  lead, radium, and helium, occurring in several varieties, including pitchblende", "S": [], "A": []}

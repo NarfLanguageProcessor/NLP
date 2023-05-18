@@ -1,0 +1,1 @@
+{"index": 54937, "D": "the small intestine of swine, especially when prepared as food.", "S": ["brains ", "chitlins ", "giblets ", "gizzard ", "heart ", "kidneys ", "liver ", "marrow ", "mountain oyster ", "pancreas ", "prairie oyster ", "stomach ", "sweetbread ", "thymus ", "tongue ", "tripe "], "A": []}

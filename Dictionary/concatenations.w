@@ -1,0 +1,1 @@
+{"index": 65061, "D": "the act of linking together in a chain; concatenating", "S": ["chain ", "continuity ", "integration ", "interlocking ", "link ", "nexus ", "series ", "succession ", "uniting "], "A": ["interruption "]}

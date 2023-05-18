@@ -1,0 +1,1 @@
+{"index": 174062, "D": "natural logarithm. ", "S": [], "A": []}

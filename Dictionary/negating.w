@@ -1,0 +1,1 @@
+{"index": 198011, "D": "to deny the existence, evidence, or truth of", "S": ["antithetical ", "conflicting ", "contrary ", "incompatible ", "inconsistent ", "paradoxical "], "A": ["consonant ", "harmonious ", "equal ", "same ", "similar "]}

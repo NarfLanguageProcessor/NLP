@@ -1,0 +1,1 @@
+{"index": 64699, "D": "to make complex, intricate, involved, or difficult", "S": ["convolute ", "impede ", "involve ", "muddle ", "obscure ", "perplex ", "upset "], "A": ["clear up ", "enlighten ", "explain ", "order ", "arrange ", "clarify ", "divide ", "exclude ", "free ", "straighten ", "untangle ", "untwist "]}

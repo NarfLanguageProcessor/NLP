@@ -1,0 +1,1 @@
+{"index": 281743, "D": "a hand tool for turning a screw,  consisting of a handle attached to a long, narrow shank, usually of metal, which tapers and flattens out to a tip that fits into the slotted head of a screw. ", "S": [], "A": []}

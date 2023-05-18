@@ -1,0 +1,1 @@
+{"index": 230481, "D": "the striking of one body against another with some sharpness; impact; blow.", "S": [], "A": []}

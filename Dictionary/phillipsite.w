@@ -1,0 +1,1 @@
+{"index": 233682, "D": "a zeolite mineral, similar to stilbite but with potassium replacing some of the calcium.", "S": [], "A": []}

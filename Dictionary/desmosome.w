@@ -1,0 +1,1 @@
+{"index": 82738, "D": "a plaquelike site on a cell surface that functions in maintaining cohesion with an adjacent cell.", "S": [], "A": []}

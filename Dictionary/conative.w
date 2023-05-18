@@ -1,0 +1,1 @@
+{"index": 65041, "D": "pertaining to or of the nature of conation. ", "S": [], "A": []}

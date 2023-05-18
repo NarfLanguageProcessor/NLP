@@ -1,0 +1,1 @@
+{"index": 168510, "D": "generous bestowal of gifts.", "S": ["advantage ", "bonus ", "dividend ", "extra ", "fringe benefit ", "gratuity ", "perquisite "], "A": ["loss "]}

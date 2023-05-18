@@ -1,0 +1,1 @@
+{"index": 293561, "D": "not tight, taut, firm, or tense; a slack rope.", "S": ["disregard ", "failure ", "forgetfulness ", "heedlessness ", "inattention ", "inattentiveness ", "laxity ", "laxness ", "neglect ", "neglectfulness ", "oversight ", "remissness ", "thoughtlessness "], "A": ["accomplishment ", "achievement ", "attention ", "care ", "regard ", "respect ", "success "]}

@@ -1,0 +1,1 @@
+{"index": 19940, "D": "consisting of hoops or rings.", "S": [], "A": []}

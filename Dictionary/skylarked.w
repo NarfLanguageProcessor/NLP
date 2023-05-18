@@ -1,0 +1,1 @@
+{"index": 293166, "D": "a brown-speckled European lark, Alauda arvensis, famed for its melodious song.", "S": ["cavort ", "frolic ", "gambol ", "prance "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308036, "D": "the process of using smoke or fumes to disinfect a place or thing or to rid it of fleas, roaches, agricultural pests, weeds, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5775, "D": "remaining after applicable taxes have been deducted", "S": [], "A": []}

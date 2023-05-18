@@ -1,0 +1,1 @@
+{"index": 78045, "D": "to remove a capsule from (a part or organ, esp the kidney)", "S": [], "A": []}

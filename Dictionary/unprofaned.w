@@ -1,0 +1,1 @@
+{"index": 348550, "D": "characterized by irreverence or contempt for God or sacred principles or things; irreligious.", "S": ["clean ", "decent ", "fresh ", "good ", "honest ", "true "], "A": ["dishonest ", "evil ", "false ", "fraudulent ", "unreal ", "unsuitable ", "untrustworthy ", "unvirtuous "]}

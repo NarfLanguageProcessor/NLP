@@ -1,0 +1,1 @@
+{"index": 198556, "D": "an instrument for measuring the amount of cloud cover in the sky.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 97787, "D": "other than the persons or things mentioned or implied", "S": ["additional ", "extra ", "in addition ", "more ", "other "], "A": []}

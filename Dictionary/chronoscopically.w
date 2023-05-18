@@ -1,0 +1,1 @@
+{"index": 56479, "D": "an electronic instrument for measuring accurately very brief intervals of time, as in determining the velocity of projectiles.", "S": [], "A": []}

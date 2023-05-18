@@ -1,0 +1,1 @@
+{"index": 172587, "D": "a tumor arising from any of the cellular elements of lymph nodes.", "S": [], "A": []}

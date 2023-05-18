@@ -1,0 +1,1 @@
+{"index": 217686, "D": "to walk or strut with a defiant or insolent air.", "S": [], "A": []}

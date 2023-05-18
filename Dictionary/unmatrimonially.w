@@ -1,0 +1,1 @@
+{"index": 346096, "D": "of or relating to matrimony;  marital; nuptial; connubial; conjugal.", "S": [], "A": []}

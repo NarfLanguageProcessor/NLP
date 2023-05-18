@@ -1,0 +1,1 @@
+{"index": 202014, "D": "the quality or state of being convincing or persuasive", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192871, "D": "pertaining to, growing in, or inhabiting mountainous regions.", "S": [], "A": []}

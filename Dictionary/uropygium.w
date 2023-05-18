@@ -1,0 +1,1 @@
+{"index": 355817, "D": "the projecting terminal portion of a bird's body, from which the tail feathers spring.", "S": [], "A": []}

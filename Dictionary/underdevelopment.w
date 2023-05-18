@@ -1,0 +1,1 @@
+{"index": 339080, "D": "to develop  (something) short of the required amount", "S": ["aridity ", "aridness ", "bleakness ", "emptiness "], "A": ["fecundity ", "fertility ", "fruitfulness "]}

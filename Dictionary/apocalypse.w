@@ -1,0 +1,1 @@
+{"index": 17097, "D": "revelation (def. 4). ", "S": ["annihilation ", "cataclysm ", "catastrophe ", "devastation ", "holocaust "], "A": ["good fortune ", "happiness ", "miracle ", "wonder "]}

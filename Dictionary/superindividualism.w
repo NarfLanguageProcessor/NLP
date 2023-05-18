@@ -1,0 +1,1 @@
+{"index": 312054, "D": "a social theory advocating the liberty, rights, or independent action of the individual.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73397, "D": "to form into crystals;  cause to assume crystalline  form.", "S": [], "A": []}

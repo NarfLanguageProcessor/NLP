@@ -1,0 +1,1 @@
+{"index": 253529, "D": "the gametophyte of ferns and related plants.", "S": [], "A": []}

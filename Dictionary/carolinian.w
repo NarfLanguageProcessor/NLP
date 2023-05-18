@@ -1,0 +1,1 @@
+{"index": 48298, "D": "of or relating to North Carolina  or South Carolina  or both.", "S": [], "A": []}

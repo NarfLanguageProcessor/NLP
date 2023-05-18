@@ -1,0 +1,1 @@
+{"index": 347808, "D": "related to or associated with something specified; belonging or relevant to the matter at hand", "S": [], "A": []}

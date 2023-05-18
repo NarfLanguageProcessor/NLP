@@ -1,0 +1,1 @@
+{"index": 140127, "D": "excessively particular, critical, or demanding; hard to please", "S": [], "A": []}

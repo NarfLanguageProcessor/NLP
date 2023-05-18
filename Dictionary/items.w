@@ -1,0 +1,1 @@
+{"index": 159514, "D": "a separate article or particular", "S": ["development ", "difficulty ", "evidence ", "factor ", "idea ", "issue ", "judgment ", "plan ", "problem ", "proposal "], "A": ["peace "]}

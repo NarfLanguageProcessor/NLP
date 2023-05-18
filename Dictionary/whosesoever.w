@@ -1,0 +1,1 @@
+{"index": 365393, "D": "(the possessive case of whosoever  used as an attributive adjective)", "S": [], "A": []}

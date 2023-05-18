@@ -1,0 +1,1 @@
+{"index": 182721, "D": "a combining form meaning \u201cblack,\u201d used in the formation of compound words", "S": [], "A": []}

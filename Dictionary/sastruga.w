@@ -1,0 +1,1 @@
+{"index": 278639, "D": "ridges of snow formed on a snowfield by the action of the wind.", "S": [], "A": []}

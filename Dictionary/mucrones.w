@@ -1,0 +1,1 @@
+{"index": 194637, "D": "a short point projecting abruptly, as at the end of a leaf.", "S": [], "A": []}

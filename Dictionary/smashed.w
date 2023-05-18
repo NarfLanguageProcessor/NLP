@@ -1,0 +1,1 @@
+{"index": 294754, "D": "drunk. ", "S": ["broken ", "crumbled ", "crushed ", "demolished ", "destroyed ", "mashed ", "shattered "], "A": []}

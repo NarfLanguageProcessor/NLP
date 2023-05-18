@@ -1,0 +1,1 @@
+{"index": 213641, "D": "of a town; urban. ", "S": ["civic ", "civil ", "downtown ", "metropolitan "], "A": ["country ", "rural ", "suburban "]}

@@ -1,0 +1,1 @@
+{"index": 80803, "D": "to misrepresent (someone or something) as thoroughly evil or contemptible; malign", "S": [], "A": []}

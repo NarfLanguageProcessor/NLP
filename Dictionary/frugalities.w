@@ -1,0 +1,1 @@
+{"index": 119571, "D": "the quality of being frugal,  or prudent in saving; the lack of wastefulness", "S": ["moderation ", "prudence ", "thrift "], "A": ["spending ", "squandering "]}

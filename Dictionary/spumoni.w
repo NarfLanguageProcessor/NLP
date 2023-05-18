@@ -1,0 +1,1 @@
+{"index": 301467, "D": "an Italian style of ice cream of a very fine and smooth texture, usually containing layers of various colors and flavors and chopped fruit or nuts.", "S": [], "A": []}

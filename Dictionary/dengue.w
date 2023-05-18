@@ -1,0 +1,1 @@
+{"index": 81097, "D": "an infectious, eruptive fever of warm climates, usually epidemic, characterized especially by severe pains in the joints and muscles.", "S": [], "A": []}

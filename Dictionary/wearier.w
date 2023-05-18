@@ -1,0 +1,1 @@
+{"index": 363549, "D": "physically or mentally exhausted by hard work, exertion, strain, etc.; fatigued; tired", "S": ["bored ", "disgusted ", "exhausted ", "fatigued ", "impatient ", "jaded ", "overworked ", "sleepy "], "A": ["animated ", "energetic ", "fresh ", "lively ", "refreshed ", "unused ", "content ", "energized ", "happy ", "invigorated ", "pleased ", "satisfied "]}

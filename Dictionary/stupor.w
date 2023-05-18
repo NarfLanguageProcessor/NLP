@@ -1,0 +1,1 @@
+{"index": 306961, "D": "suspension or great diminution of sensibility, as in disease or as caused by narcotics, intoxicants, etc.", "S": ["coma ", "slumber ", "trance "], "A": ["consciousness ", "wakefulness ", "activity ", "interest ", "life ", "liveliness "]}

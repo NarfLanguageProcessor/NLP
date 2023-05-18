@@ -1,0 +1,1 @@
+{"index": 111338, "D": "a weekday on which no feast is celebrated.", "S": [], "A": []}

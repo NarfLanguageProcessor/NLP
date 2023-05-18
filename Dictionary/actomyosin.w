@@ -1,0 +1,1 @@
+{"index": 3271, "D": "a complex protein, consisting of myosin  and actin,  that is the major constituent of skeletal muscle and is thought to interact with ATP to cause muscle contraction.", "S": [], "A": []}

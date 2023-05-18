@@ -1,0 +1,1 @@
+{"index": 168219, "D": "any of several small, deep-sea fishes  of the family Myctophidae, having rows of luminous organs along each side, certain species of which migrate to the surface at night.", "S": [], "A": []}

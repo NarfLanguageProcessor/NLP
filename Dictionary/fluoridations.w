@@ -1,0 +1,1 @@
+{"index": 115437, "D": "the addition of fluorides  to the public water supply to reduce the incidence of tooth decay.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363123, "D": "any of several large African antelopes of the genus Kobus, frequenting marshes and reedy places, especially K. ellipsiprymnus, of eastern and central Africa.", "S": [], "A": []}

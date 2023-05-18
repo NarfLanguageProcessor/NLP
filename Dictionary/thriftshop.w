@@ -1,0 +1,1 @@
+{"index": 322680, "D": "a retail store that sells secondhand goods at reduced prices.", "S": ["bazaar ", "boutique ", "co-op ", "discount store ", "flea market ", "mall ", "mart ", "outlet ", "shop ", "shopping center ", "supermarket "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124388, "D": "making or tending to make gestures or gesticulations", "S": [], "A": []}

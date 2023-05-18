@@ -1,0 +1,1 @@
+{"index": 113202, "D": "a state, process, or instance of combustion in which fuel or other material is ignited and combined with oxygen, giving off light, heat, and flame.", "S": ["blaze ", "bonfire ", "heat ", "inferno "], "A": []}

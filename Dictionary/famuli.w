@@ -1,0 +1,1 @@
+{"index": 109642, "D": "a servant or attendant, especially of a scholar or a magician.", "S": [], "A": []}

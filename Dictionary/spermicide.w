@@ -1,0 +1,1 @@
+{"index": 299266, "D": "a sperm-killing agent, especially a commercial birth-control preparation, usually a cream or jelly.", "S": [], "A": []}

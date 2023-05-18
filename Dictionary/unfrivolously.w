@@ -1,0 +1,1 @@
+{"index": 342747, "D": "in a way that is characterized by lack of seriousness, good sense, or any worthwhile purpose", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314210, "D": "a band  lining the inside of a hat or cap to protect it against sweat  from the head.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 276395, "D": "an apartment in or a building connected with a church or a religious house, in which the sacred vessels, vestments, etc., are kept.", "S": [], "A": []}

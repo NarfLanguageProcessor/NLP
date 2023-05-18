@@ -1,0 +1,1 @@
+{"index": 232898, "D": "worship of the phallus, especially as symbolic of power or of the generative principle of nature.", "S": [], "A": []}

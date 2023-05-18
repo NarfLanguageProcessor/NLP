@@ -1,0 +1,1 @@
+{"index": 165996, "D": "an instrument for measuring the amount of dust in the air.", "S": [], "A": []}

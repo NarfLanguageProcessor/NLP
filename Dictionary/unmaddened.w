@@ -1,0 +1,1 @@
+{"index": 345890, "D": "to anger or infuriate", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277774, "D": "of the nature of or consisting of sand. ", "S": ["arenaceous "], "A": []}

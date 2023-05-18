@@ -1,0 +1,1 @@
+{"index": 97344, "D": "a pasty mass composed of a medicine, usually in powder form, mixed in a palatable medium, as syrup, honey, or other sweet substance", "S": [], "A": []}

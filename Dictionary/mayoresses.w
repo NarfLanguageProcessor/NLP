@@ -1,0 +1,1 @@
+{"index": 177971, "D": "a woman who is the chief executive official of a city, village, or town.", "S": [], "A": []}

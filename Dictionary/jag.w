@@ -1,0 +1,1 @@
+{"index": 160072, "D": "a sharp projection on an edge or surface.", "S": ["buzz ", "drunkenness ", "glow ", "inebriety ", "intoxication "], "A": []}

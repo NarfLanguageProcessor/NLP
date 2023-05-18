@@ -1,0 +1,1 @@
+{"index": 17809, "D": "a person who applies  for or requests something; a candidate", "S": ["aspirant ", "candidate ", "claimant ", "seeker "], "A": ["boss ", "manager "]}

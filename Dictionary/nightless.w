@@ -1,0 +1,1 @@
+{"index": 199949, "D": "the period of darkness between sunset and sunrise.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47205, "D": "to attract and hold the attention or interest of, as by beauty or excellence; enchant", "S": ["consumed ", "engaged ", "engrossed ", "fascinated ", "involved ", "preoccupied "], "A": ["bored ", "disenthralled ", "disinterested ", "uninterested ", "unoccupied ", "existing "]}

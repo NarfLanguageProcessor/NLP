@@ -1,0 +1,1 @@
+{"index": 198557, "D": "an irrational or disproportionate fear of clouds or cloudy weather, often associated with homichlophobia. ", "S": [], "A": []}

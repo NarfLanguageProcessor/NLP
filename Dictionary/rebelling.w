@@ -1,0 +1,1 @@
+{"index": 262291, "D": "a person who refuses allegiance to, resists, or rises in arms against the government or ruler of their country.", "S": [], "A": []}

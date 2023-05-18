@@ -1,0 +1,1 @@
+{"index": 91139, "D": "a paper money, silver or cupronickel coin, and monetary unit of the United States, equal to 100 cents. Symbol", "S": ["currency ", "greenback "], "A": ["change ", "coin "]}

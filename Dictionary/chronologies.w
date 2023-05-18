@@ -1,0 +1,1 @@
+{"index": 56454, "D": "the sequential order in which past events occur.", "S": ["agenda ", "almanac ", "card ", "diary ", "docket ", "journal ", "lineup ", "list ", "program ", "table ", "timetable "], "A": []}

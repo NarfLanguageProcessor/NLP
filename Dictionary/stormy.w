@@ -1,0 +1,1 @@
+{"index": 305459, "D": "affected, characterized by, or subject to storms;  tempestuous", "S": ["bitter ", "blustery ", "damp ", "frigid ", "murky ", "rainy ", "tempestuous ", "torrid ", "turbulent ", "violent ", "wet ", "windy "], "A": ["calm ", "dry ", "gentle ", "mild ", "moderate "]}

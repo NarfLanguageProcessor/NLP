@@ -1,0 +1,1 @@
+{"index": 181533, "D": "an expression of a general truth or principle, especially an aphoristic or sententious one", "S": ["adage ", "aphorism ", "axiom ", "dictum ", "motto ", "proverb ", "theorem "], "A": []}

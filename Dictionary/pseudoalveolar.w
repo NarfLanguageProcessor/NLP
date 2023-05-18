@@ -1,0 +1,1 @@
+{"index": 254469, "D": "of or relating to an alveolus or to alveoli.", "S": [], "A": []}

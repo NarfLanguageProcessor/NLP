@@ -1,0 +1,1 @@
+{"index": 120509, "D": "a narrow groove made in the ground, especially by a plow.", "S": ["adjoin ", "follow ", "line up ", "score ", "touch "], "A": ["center ", "disarrange ", "disjoin ", "disorder ", "disorganize ", "divide ", "forget ", "ignore ", "lose ", "mess up ", "mix up ", "scatter ", "separate "]}

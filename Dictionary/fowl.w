@@ -1,0 +1,1 @@
+{"index": 118058, "D": "Compare domestic fowl. ", "S": ["chicken ", "goose ", "hen ", "pheasant "], "A": []}

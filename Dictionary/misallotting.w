@@ -1,0 +1,1 @@
+{"index": 188640, "D": "to divide or distribute by share or portion; distribute or parcel out; apportion", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98013, "D": "to stop or hinder, as by a bar.", "S": [], "A": []}

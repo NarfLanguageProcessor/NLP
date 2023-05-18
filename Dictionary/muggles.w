@@ -1,0 +1,1 @@
+{"index": 194800, "D": "a nonmagical person in J. K. Rowling\u2019s Harry Potter universe.", "S": [], "A": []}

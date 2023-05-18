@@ -1,0 +1,1 @@
+{"index": 127485, "D": "goddamn (used as a euphemism in expressions of anger, disgust, surprise, etc.).", "S": [], "A": []}

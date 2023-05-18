@@ -1,0 +1,1 @@
+{"index": 174408, "D": "a member of the radical faction of the New York City Democrats, organized in 1835 to oppose the conservative members of the party.", "S": ["Congreve ", "Congreve match ", "Vesta ", "fusee ", "locofoco ", "lucifer match ", "safety match ", "vesuvian "], "A": []}

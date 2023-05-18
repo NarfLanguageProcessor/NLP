@@ -1,0 +1,1 @@
+{"index": 333643, "D": "of or relating to Ugarit,  its people, or their language.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 263535, "D": "to get back the equivalent of", "S": [], "A": []}

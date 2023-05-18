@@ -1,0 +1,1 @@
+{"index": 35420, "D": "a person who blabs", "S": ["babble ", "gabble ", "jabber ", "nonsense ", "prattle "], "A": ["sense "]}

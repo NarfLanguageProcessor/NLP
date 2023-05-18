@@ -1,0 +1,1 @@
+{"index": 38280, "D": "a servant, as at a hotel, who blacks or polishes shoes and boots.", "S": ["footwear "], "A": []}

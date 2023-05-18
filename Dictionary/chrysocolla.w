@@ -1,0 +1,1 @@
+{"index": 56053, "D": "a mineral, hydrous copper silicate, CuSiO3\u22c52H2O, occurring in compact, green or blue masses, sometimes used in ornaments.", "S": [], "A": []}

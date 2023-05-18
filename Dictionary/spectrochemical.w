@@ -1,0 +1,1 @@
+{"index": 298890, "D": "of, relating to, or utilizing the techniques of spectrochemistry.", "S": [], "A": []}

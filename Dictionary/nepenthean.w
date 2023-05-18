@@ -1,0 +1,1 @@
+{"index": 198515, "D": "a drug or drink, or the plant yielding it, mentioned by ancient writers as having the power to bring forgetfulness of sorrow or trouble.", "S": [], "A": []}

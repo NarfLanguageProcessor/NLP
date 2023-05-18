@@ -1,0 +1,1 @@
+{"index": 315089, "D": "equipment, apparatus, or gear, especially for fishing", "S": ["attempted ", "begun ", "initiated ", "launched ", "started ", "tried ", "ventured "], "A": []}

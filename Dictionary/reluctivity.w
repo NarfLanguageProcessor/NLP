@@ -1,0 +1,1 @@
+{"index": 267065, "D": "the tendency of a magnetic circuit to conduct magnetic flux, equal to the reciprocal of the permeability of the circuit.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113975, "D": "a pancake or griddlecake.", "S": ["battercake ", "flapcake ", "griddlecake ", "hotcake ", "johnnycake "], "A": []}

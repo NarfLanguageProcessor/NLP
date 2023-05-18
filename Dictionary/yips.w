@@ -1,0 +1,1 @@
+{"index": 147167, "D": "the sudden and unexplained loss of a motor skill used in a sport, as with a smooth golf swing reduced to a stuttering one, experienced by athletes who had previously mastered the required movements.", "S": ["bay ", "growl ", "grunt ", "howl ", "roar ", "snarl ", "woof ", "yap "], "A": []}

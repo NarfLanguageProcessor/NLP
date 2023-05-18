@@ -1,0 +1,1 @@
+{"index": 111497, "D": "producing or yielding iron", "S": [], "A": []}

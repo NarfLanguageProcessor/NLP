@@ -1,0 +1,1 @@
+{"index": 299619, "D": "the scientific study of seals or signet rings.", "S": [], "A": []}

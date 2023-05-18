@@ -1,0 +1,1 @@
+{"index": 90625, "D": "a waterside area containing docks,  workshops, warehouses, etc., for building, outfitting, and repairing ships, for storing naval supplies, etc.", "S": ["graving dock ", "shipyard "], "A": []}

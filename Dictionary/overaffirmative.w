@@ -1,0 +1,1 @@
+{"index": 218161, "D": "affirming  or assenting; asserting the truth, validity, or fact of something.", "S": [], "A": []}

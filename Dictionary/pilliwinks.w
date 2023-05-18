@@ -1,0 +1,1 @@
+{"index": 236696, "D": "an old instrument of torture similar to the thumbscrew.", "S": [], "A": []}

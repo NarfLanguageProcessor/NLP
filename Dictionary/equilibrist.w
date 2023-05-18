@@ -1,0 +1,1 @@
+{"index": 103284, "D": "a performer who is skilled at balancing in unusual positions and hazardous movements, as a tightrope walker in a circus.", "S": [], "A": []}

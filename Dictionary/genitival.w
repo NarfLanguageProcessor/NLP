@@ -1,0 +1,1 @@
+{"index": 123617, "D": "(in certain inflected languages) noting a case of nouns, pronouns, or adjectives, used primarily to express possession, measure, or origin", "S": [], "A": []}

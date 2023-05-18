@@ -1,0 +1,1 @@
+{"index": 34549, "D": "of, relating to, or entailing the interaction or combination of social  and biological factors.", "S": [], "A": []}

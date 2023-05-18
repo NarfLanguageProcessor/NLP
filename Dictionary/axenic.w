@@ -1,0 +1,1 @@
+{"index": 25084, "D": "(of an experimental animal) raised under sterile conditions; germfree.", "S": ["uncontaminated "], "A": ["contaminated ", "dirty "]}

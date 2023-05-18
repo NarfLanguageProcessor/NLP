@@ -1,0 +1,1 @@
+{"index": 149316, "D": "lack of ability; lack of power, capacity, or means", "S": ["failure ", "impotence ", "incompetence ", "inefficiency ", "ineptitude ", "lack ", "shortcoming ", "weakness "], "A": ["strong point ", "success ", "ability ", "sufficiency "]}

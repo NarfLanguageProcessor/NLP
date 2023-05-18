@@ -1,0 +1,1 @@
+{"index": 69907, "D": "plural of corf. ", "S": [], "A": []}

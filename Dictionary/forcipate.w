@@ -1,0 +1,1 @@
+{"index": 116437, "D": "having the shape of or resembling a forceps.", "S": [], "A": []}

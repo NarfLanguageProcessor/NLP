@@ -1,0 +1,1 @@
+{"index": 37831, "D": "a woman  who is bound or who by bond  becomes surety for another.", "S": ["bail bondsman ", "bailsman "], "A": []}

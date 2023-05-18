@@ -1,0 +1,1 @@
+{"index": 230616, "D": "to make perfective. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108731, "D": "to free or release from entanglement; disengage", "S": ["bail out ", "detach ", "differentiate ", "disengage ", "disentangle ", "extract ", "liberate ", "rescue "], "A": ["attach ", "connect ", "link ", "unite ", "combine ", "confine ", "hold ", "join ", "keep ", "limit ", "remain ", "restrain ", "stay "]}

@@ -1,0 +1,1 @@
+{"index": 89267, "D": "lack of calm, peace, or ease; anxiety; uneasiness.", "S": [], "A": []}

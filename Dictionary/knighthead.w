@@ -1,0 +1,1 @@
+{"index": 165564, "D": "either of a pair of upright members flanking and securing the bowsprit of a ship at the bow, often used as mooring bitts; apostle.", "S": [], "A": []}

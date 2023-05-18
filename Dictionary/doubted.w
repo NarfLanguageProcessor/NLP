@@ -1,0 +1,1 @@
+{"index": 91998, "D": "to be uncertain about; consider questionable or unlikely; hesitate to believe", "S": ["distrust ", "hesitate ", "impugn ", "suspect "], "A": ["trust ", "agree ", "answer ", "believe ", "go along ", "remain ", "stay "]}

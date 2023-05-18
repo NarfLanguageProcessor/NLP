@@ -1,0 +1,1 @@
+{"index": 21761, "D": "constant in application or effort; working diligently at a task; persevering; industrious; meticulous", "S": ["diligent ", "exacting ", "indefatigable ", "laborious ", "scrupulous ", "zealous "], "A": ["indifferent ", "lazy ", "lethargic ", "negligent "]}

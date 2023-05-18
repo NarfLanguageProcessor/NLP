@@ -1,0 +1,1 @@
+{"index": 186040, "D": "a microphotographic copy  of a printed page or the like, as in microfilm or microfiche.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 37025, "D": "seamanship as applied to boats, especially rowboats and motorboats.", "S": [], "A": []}

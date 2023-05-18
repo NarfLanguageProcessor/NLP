@@ -1,0 +1,1 @@
+{"index": 173061, "D": "a young or small lion. ", "S": [], "A": []}

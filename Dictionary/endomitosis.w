@@ -1,0 +1,1 @@
+{"index": 99851, "D": "replication of the chromosomes without nuclear division of the cell.", "S": [], "A": []}

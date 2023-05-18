@@ -1,0 +1,1 @@
+{"index": 92330, "D": "a downward swing,  as of a golf club in driving a ball.", "S": ["decrease ", "descent ", "deterioration ", "dip ", "dive ", "downfall ", "downturn ", "drop ", "drop-off ", "fall ", "nosedive ", "plunge ", "skid ", "slide ", "slump ", "tumble "], "A": ["ascent ", "development ", "improvement ", "increase ", "rise ", "success "]}

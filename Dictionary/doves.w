@@ -1,0 +1,1 @@
+{"index": 92134, "D": "Compare pigeon1 (def. 1). ", "S": ["peacemaker "], "A": []}

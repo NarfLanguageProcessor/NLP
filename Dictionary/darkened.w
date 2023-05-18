@@ -1,0 +1,1 @@
+{"index": 76947, "D": "to make dark or darker.", "S": ["black ", "cloudy ", "dim ", "dingy ", "drab ", "dull ", "foggy ", "gloomy ", "misty ", "murky ", "overcast ", "shadowy ", "somber "], "A": ["bright ", "cheerful ", "clean ", "clear ", "distinct ", "good ", "happy ", "intelligent ", "joyful ", "light ", "luminous ", "smart ", "sparkling ", "sunny ", "vivacious "]}

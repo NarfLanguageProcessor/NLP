@@ -1,0 +1,1 @@
+{"index": 45766, "D": "the act, means, or result of obscuring things to deceive an enemy, as by painting or screening objects so that they are lost to view in the background, or by making up objects that from a distance have the appearance of fortifications, guns, roads, etc.", "S": [], "A": []}

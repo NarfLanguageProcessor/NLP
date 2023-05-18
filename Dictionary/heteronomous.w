@@ -1,0 +1,1 @@
+{"index": 137681, "D": "subject to or involving different laws.", "S": [], "A": []}

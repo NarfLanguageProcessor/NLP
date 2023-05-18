@@ -1,0 +1,1 @@
+{"index": 166159, "D": "to act in an obsequious manner; show servile deference.", "S": [], "A": []}

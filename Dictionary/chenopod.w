@@ -1,0 +1,1 @@
+{"index": 53806, "D": "any plant of the amaranth family Chenopodiaceae.", "S": [], "A": []}

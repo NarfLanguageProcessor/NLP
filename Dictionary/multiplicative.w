@@ -1,0 +1,1 @@
+{"index": 195273, "D": "tending to multiply  or increase, or having the power to multiply", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 241542, "D": "(in ancient Greece) a civilian official, originally a supreme general", "S": [], "A": []}

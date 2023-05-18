@@ -1,0 +1,1 @@
+{"index": 216029, "D": "a glycoside occurring as a white, crystalline powder, C29H44O12, obtained from the seeds of a shrub, Strophanthus gratus, or from the wood of trees of the genus Acokanthera, and used in medicine chiefly as a cardiac stimulant.", "S": [], "A": []}
