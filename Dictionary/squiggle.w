@@ -1,0 +1,1 @@
+{"index": 301942, "D": "a short, irregular curve or twist, as in writing or drawing.", "S": ["squirm ", "twist ", "wiggle ", "wriggle "], "A": []}

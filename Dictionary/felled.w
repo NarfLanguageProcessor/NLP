@@ -1,0 +1,1 @@
+{"index": 111029, "D": "simple past tense of fall. ", "S": ["broken ", "demolished ", "devastated ", "lost ", "ravaged ", "ruined ", "shattered ", "smashed ", "wrecked "], "A": ["fixed ", "repaired ", "sober ", "successful "]}

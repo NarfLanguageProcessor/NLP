@@ -1,0 +1,1 @@
+{"index": 217432, "D": "to surpass (someone) in shouting; shout  louder than.", "S": [], "A": []}

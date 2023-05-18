@@ -1,0 +1,1 @@
+{"index": 358230, "D": "to speak or sound in the manner of a ventriloquist.", "S": ["chat ", "communicate ", "describe ", "express ", "reveal ", "say ", "sing ", "speak ", "tell ", "use "], "A": ["be quiet ", "conceal ", "cover ", "listen ", "suppress ", "be silent ", "hide ", "secrete "]}

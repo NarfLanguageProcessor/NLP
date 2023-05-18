@@ -1,0 +1,1 @@
+{"index": 53269, "D": "a cheaply made, often inferior, product", "S": [], "A": []}

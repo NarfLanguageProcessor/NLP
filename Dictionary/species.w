@@ -1,0 +1,1 @@
+{"index": 298772, "D": "a class of individuals having some common characteristics or qualities; distinct sort or kind.", "S": ["breed ", "category ", "collection ", "description ", "division ", "group ", "kind ", "likes ", "lot ", "nature ", "number ", "order ", "sort ", "stripe ", "type "], "A": ["whole "]}

@@ -1,0 +1,1 @@
+{"index": 235064, "D": "of or concerned with photodynamics", "S": [], "A": []}

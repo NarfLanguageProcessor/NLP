@@ -1,0 +1,1 @@
+{"index": 93212, "D": "demanding a high or unreasonable rate of work from subordinates.", "S": [], "A": []}

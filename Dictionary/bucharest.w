@@ -1,0 +1,1 @@
+{"index": 42012, "D": "a city in and the capital of Romania, in the S part.", "S": [], "A": []}

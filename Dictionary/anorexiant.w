@@ -1,0 +1,1 @@
+{"index": 13857, "D": "a substance, as a drug, for causing loss of appetite.", "S": [], "A": []}

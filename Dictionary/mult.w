@@ -1,0 +1,1 @@
+{"index": 194973, "D": "variant of multi-  before a vowel", "S": [], "A": []}

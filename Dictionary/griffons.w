@@ -1,0 +1,1 @@
+{"index": 129839, "D": "a vulture of the genus Gyps, especially G. fulvus, of southern Europe.", "S": [], "A": []}

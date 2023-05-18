@@ -1,0 +1,1 @@
+{"index": 64304, "D": "(in a DC motor or generator) a cylindrical ring or disk assembly of conducting members, individually insulated in a supporting structure with an exposed surface for contact with current-collecting brushes and mounted on the armature shaft, for changing the frequency or direction of the current in the armature windings.", "S": [], "A": []}

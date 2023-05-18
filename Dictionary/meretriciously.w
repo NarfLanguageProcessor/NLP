@@ -1,0 +1,1 @@
+{"index": 183762, "D": "alluring by a show of flashy or vulgar attractions; tawdry. ", "S": [], "A": []}

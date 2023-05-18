@@ -1,0 +1,1 @@
+{"index": 340970, "D": "not easy in body or mind; uncomfortable; restless; disturbed; perturbed. ", "S": ["anguish ", "anxiety ", "apprehension ", "edginess ", "restlessness ", "turmoil ", "unease "], "A": ["calm ", "calmness ", "contentment ", "ease ", "happiness ", "peace "]}

@@ -1,0 +1,1 @@
+{"index": 353298, "D": "a grotesque or debased likeness or imitation", "S": [], "A": []}

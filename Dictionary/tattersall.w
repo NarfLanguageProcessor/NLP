@@ -1,0 +1,1 @@
+{"index": 317005, "D": "a pattern of squares formed by colored crossbars on a solid-color, usually light background.", "S": [], "A": []}

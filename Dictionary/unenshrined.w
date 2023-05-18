@@ -1,0 +1,1 @@
+{"index": 341327, "D": "to enclose in or as in a shrine", "S": [], "A": []}

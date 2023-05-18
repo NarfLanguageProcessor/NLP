@@ -1,0 +1,1 @@
+{"index": 109497, "D": "(of persons) liable to err, especially in being deceived or mistaken.", "S": ["faulty ", "frail ", "imperfect ", "untrustworthy "], "A": ["perfect ", "strong "]}

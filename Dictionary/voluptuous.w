@@ -1,0 +1,1 @@
+{"index": 361270, "D": "full of, characterized by, or ministering to indulgence in luxury, pleasure, and sensuous enjoyment", "S": ["appealing ", "delightful ", "sensuous ", "sexy "], "A": ["flat ", "underdeveloped "]}

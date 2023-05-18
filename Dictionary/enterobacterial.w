@@ -1,0 +1,1 @@
+{"index": 101241, "D": "rod-shaped Gram-negative bacteria  of the family Enterobacteriaceae, as those of the genera Escherichia, Salmonella, and Shigella, occurring normally or pathogenically in the intestines of humans and other animals, and the genus Erwinia, occurring in plants.", "S": [], "A": []}

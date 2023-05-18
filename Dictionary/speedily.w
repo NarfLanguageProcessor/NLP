@@ -1,0 +1,1 @@
+{"index": 299022, "D": "characterized by speed;  rapid; swift; fast.", "S": ["abruptly ", "hastily ", "instantaneously ", "promptly ", "quickly "], "A": []}

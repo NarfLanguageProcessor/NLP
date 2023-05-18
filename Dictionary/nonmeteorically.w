@@ -1,0 +1,1 @@
+{"index": 205265, "D": "of, relating to, or consisting of meteors. ", "S": [], "A": []}

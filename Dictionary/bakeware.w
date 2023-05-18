@@ -1,0 +1,1 @@
+{"index": 26616, "D": "heat-resistant dishes, as of glass or pottery, in which food may be baked;  ovenware.", "S": [], "A": []}

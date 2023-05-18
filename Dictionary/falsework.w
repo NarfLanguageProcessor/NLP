@@ -1,0 +1,1 @@
+{"index": 109535, "D": "framework for supporting a structure under construction that is not yet capable of supporting itself.", "S": [], "A": []}

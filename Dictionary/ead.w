@@ -1,0 +1,1 @@
+{"index": 94675, "D": "eat a dick (a euphemistic initialism used to insult someone or express anger, without explicit vulgarity).", "S": [], "A": []}

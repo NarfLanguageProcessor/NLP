@@ -1,0 +1,1 @@
+{"index": 170806, "D": "another name for lacunar (def. 1)", "S": [], "A": []}

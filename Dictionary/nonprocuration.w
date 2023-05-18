@@ -1,0 +1,1 @@
+{"index": 206196, "D": "the act of obtaining or getting; procurement.", "S": [], "A": []}

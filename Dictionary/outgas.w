@@ -1,0 +1,1 @@
+{"index": 216701, "D": "to remove (adsorbed or occluded gases), usually by heat or reduced pressure.", "S": [], "A": []}

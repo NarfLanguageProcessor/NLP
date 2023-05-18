@@ -1,0 +1,1 @@
+{"index": 9155, "D": "a member of a fanatical people of Berber origin and Islamic faith, who founded an empire in N Africa that spread over much of Spain in the 11th century a.d", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188777, "D": "unlawfully or irregularly begotten;  born of unmarried parents; illegitimate", "S": [], "A": []}

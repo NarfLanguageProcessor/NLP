@@ -1,0 +1,1 @@
+{"index": 26239, "D": "a meteorite or stone held sacred or believed to be of divine origin.", "S": [], "A": []}

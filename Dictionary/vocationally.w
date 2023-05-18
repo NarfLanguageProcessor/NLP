@@ -1,0 +1,1 @@
+{"index": 360906, "D": "of, relating to, or connected with a vocation  or occupation", "S": [], "A": []}

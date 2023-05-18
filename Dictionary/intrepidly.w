@@ -1,0 +1,1 @@
+{"index": 156712, "D": "resolutely fearless; dauntless", "S": [], "A": []}

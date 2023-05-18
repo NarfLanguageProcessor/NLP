@@ -1,0 +1,1 @@
+{"index": 8927, "D": "implantation of a synthetic material to replace a diseased or damaged body tissue or organ.", "S": [], "A": []}

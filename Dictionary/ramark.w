@@ -1,0 +1,1 @@
+{"index": 260248, "D": "a radar beacon  developed by the U.S. Coast Guard as a marine navigational aid.", "S": [], "A": []}

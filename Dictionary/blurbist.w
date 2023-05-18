@@ -1,0 +1,1 @@
+{"index": 36868, "D": "a brief advertisement or announcement, especially a laudatory one", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175405, "D": "a game of chance in which a leader draws numbered disks at random from a stock and the players cover the corresponding numbers on their cards, the winner being the first to cover a complete row.", "S": ["poker ", "roulette "], "A": []}

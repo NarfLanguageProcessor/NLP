@@ -1,0 +1,1 @@
+{"index": 9431, "D": "a first-magnitude star in the constellation Aquila.", "S": [], "A": []}

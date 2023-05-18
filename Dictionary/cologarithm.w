@@ -1,0 +1,1 @@
+{"index": 63195, "D": "the logarithm  of the reciprocal of a number, often used in expressing the logarithm  of a fraction", "S": [], "A": []}

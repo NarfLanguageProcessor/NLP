@@ -1,0 +1,1 @@
+{"index": 210425, "D": "a volcanic glass similar in composition to granite, usually dark but transparent in thin pieces, and having a good conchoidal fracture.", "S": ["sunless ", "unlighted ", "unlit "], "A": ["bright ", "sunny "]}

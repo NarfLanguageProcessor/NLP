@@ -1,0 +1,1 @@
+{"index": 92623, "D": "to withdraw or draw off (a liquid) gradually; remove slowly or by degrees, as by filtration", "S": ["depleted ", "weary "], "A": ["energized ", "full ", "lively "]}

@@ -1,0 +1,1 @@
+{"index": 361466, "D": "to provide (a Hebrew, Arabic, etc., text) with vowel  points; vocalize.", "S": [], "A": []}

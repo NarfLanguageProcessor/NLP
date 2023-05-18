@@ -1,0 +1,1 @@
+{"index": 166961, "D": "a protective coating consisting of a resin, cellulose ester, or both, dissolved in a volatile solvent, sometimes with pigment added.", "S": [], "A": []}

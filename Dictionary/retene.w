@@ -1,0 +1,1 @@
+{"index": 270366, "D": "a crystalline hydrocarbon, C18H18, obtained chiefly from the tar of resinous woods and certain fossil resins.", "S": [], "A": []}

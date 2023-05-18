@@ -1,0 +1,1 @@
+{"index": 39348, "D": "an old Italian unit of length, usually about 26 or 27 inches (66 or 68 centimeters), but varying between 18 and 28 inches (46 and 71 centimeters).", "S": [], "A": []}

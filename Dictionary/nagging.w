@@ -1,0 +1,1 @@
+{"index": 196515, "D": "continually faultfinding, complaining, or petulant", "S": ["aching ", "agonizing ", "excruciating ", "grievous ", "inflamed ", "severe ", "terrible ", "throbbing ", "troublesome "], "A": ["easy ", "good ", "helpful ", "nice ", "pleasant ", "mild "]}

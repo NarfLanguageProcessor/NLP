@@ -1,0 +1,1 @@
+{"index": 44136, "D": "a soft-soled, heelless shoe for infants.", "S": [], "A": []}

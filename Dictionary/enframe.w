@@ -1,0 +1,1 @@
+{"index": 100273, "D": "to provide with a frame or border", "S": [], "A": []}

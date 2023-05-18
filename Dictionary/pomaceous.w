@@ -1,0 +1,1 @@
+{"index": 242823, "D": "of, relating to, or of the nature of pomes.", "S": [], "A": []}

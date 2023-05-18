@@ -1,0 +1,1 @@
+{"index": 23315, "D": "a kind of diaphragm held against the upper teeth to assist hearing by transmitting sound vibrations to the auditory nerve.", "S": [], "A": []}

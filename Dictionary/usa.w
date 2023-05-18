@@ -1,0 +1,1 @@
+{"index": 355937, "D": "Also U.S.A. ", "S": ["America ", "Land of Liberty ", "New World ", "U.S. ", "U.S.A. ", "US ", "US of A ", "land of opportunity ", "the States "], "A": []}

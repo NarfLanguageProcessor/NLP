@@ -1,0 +1,1 @@
+{"index": 300991, "D": "(in certain sporozoans) the multiple fission of an encysted zygote or oocyte, resulting in the formation of sporozoites.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288268, "D": "a term used especially by a Jew to refer to a girl or woman who is not Jewish.", "S": [], "A": []}

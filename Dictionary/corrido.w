@@ -1,0 +1,1 @@
+{"index": 69677, "D": "a Mexican ballad or folksong about struggle against oppression and injustice.", "S": [], "A": []}

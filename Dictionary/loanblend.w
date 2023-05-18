@@ -1,0 +1,1 @@
+{"index": 174115, "D": "a compound word or expression consisting of both native and foreign elements.", "S": [], "A": []}

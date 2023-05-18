@@ -1,0 +1,1 @@
+{"index": 174716, "D": "the exchange of support or favors, especially by legislators for mutual political gain as by voting for each other's bills", "S": ["advocacy ", "involvement ", "militancy "], "A": []}

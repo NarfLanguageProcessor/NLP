@@ -1,0 +1,1 @@
+{"index": 93001, "D": "a simple past tense and past participle of dress. ", "S": [], "A": []}

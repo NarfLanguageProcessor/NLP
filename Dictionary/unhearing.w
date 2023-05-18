@@ -1,0 +1,1 @@
+{"index": 343605, "D": "the faculty or sense by which sound is perceived.", "S": ["headstrong ", "indifferent ", "oblivious ", "strong-willed "], "A": ["concerned "]}

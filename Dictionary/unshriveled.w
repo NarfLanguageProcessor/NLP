@@ -1,0 +1,1 @@
+{"index": 351070, "D": "to contract and wrinkle, as from great heat, cold, or dryness.", "S": [], "A": []}

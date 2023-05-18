@@ -1,0 +1,1 @@
+{"index": 283945, "D": "a light coma  from which a person can be roused.", "S": [], "A": []}

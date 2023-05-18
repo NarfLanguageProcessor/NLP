@@ -1,0 +1,1 @@
+{"index": 52052, "D": "any of the points of spiritual power located along the body, usually given as six in number. The points are personified by gods and can be released through the proper exercises.", "S": [], "A": []}

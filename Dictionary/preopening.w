@@ -1,0 +1,1 @@
+{"index": 248659, "D": "an act or instance of making or becoming open", "S": [], "A": []}

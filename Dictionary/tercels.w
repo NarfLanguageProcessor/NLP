@@ -1,0 +1,1 @@
+{"index": 319229, "D": "the male of a hawk, especially of a gyrfalcon or peregrine.", "S": [], "A": []}

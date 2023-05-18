@@ -1,0 +1,1 @@
+{"index": 101794, "D": "an act of enveloping. ", "S": [], "A": []}

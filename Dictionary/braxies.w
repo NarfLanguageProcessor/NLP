@@ -1,0 +1,1 @@
+{"index": 40144, "D": "an acute inflammatory disease of the intestines of sheep, caused by a bacterium, Clostridium septicum.", "S": [], "A": []}

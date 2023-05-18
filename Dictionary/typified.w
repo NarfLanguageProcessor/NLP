@@ -1,0 +1,1 @@
+{"index": 324293, "D": "to serve as a typical  example of; exemplify.", "S": ["embodied ", "manifested ", "materialized ", "personified ", "substantiated "], "A": []}

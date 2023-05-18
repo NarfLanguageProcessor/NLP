@@ -1,0 +1,1 @@
+{"index": 184384, "D": "(in the classification of the earth's atmosphere by chemical properties) the region between the ionosphere and the exosphere, extending from about 250\u2013650 miles (400\u20131050 km) above the surface of the earth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366515, "D": "in a way that is characterized by melancholy or longing; pensively", "S": ["cheerlessly ", "dejectedly ", "dismally ", "dolefully ", "gloomily ", "grievously ", "joylessly ", "morosely ", "sorrowfully "], "A": ["happily "]}

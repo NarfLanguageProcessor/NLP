@@ -1,0 +1,1 @@
+{"index": 286440, "D": "Spanish physician and theologian, accused of heresy and burned at the stake.", "S": [], "A": []}

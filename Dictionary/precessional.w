@@ -1,0 +1,1 @@
+{"index": 246050, "D": "the act or fact of preceding; precedence.", "S": [], "A": []}

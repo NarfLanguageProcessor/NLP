@@ -1,0 +1,1 @@
+{"index": 15802, "D": "any disease-producing agent, especially a virus, bacterium, or other microorganism.", "S": [], "A": []}

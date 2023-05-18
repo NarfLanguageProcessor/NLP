@@ -1,0 +1,1 @@
+{"index": 110081, "D": "a band or fillet, as for binding the hair.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271476, "D": "to take back or withdraw; annul, cancel, or reverse; rescind or repeal", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 65245, "D": "tending or serving to concede. ", "S": [], "A": []}

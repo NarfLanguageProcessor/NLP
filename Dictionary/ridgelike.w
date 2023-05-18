@@ -1,0 +1,1 @@
+{"index": 272663, "D": "a long, narrow elevation of land; a chain of hills or mountains.", "S": [], "A": []}

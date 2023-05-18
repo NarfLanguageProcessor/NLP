@@ -1,0 +1,1 @@
+{"index": 328825, "D": "a playing card or a die having three pips.", "S": ["triumvirate "], "A": []}

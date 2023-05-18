@@ -1,0 +1,1 @@
+{"index": 108865, "D": "a Jewish scribe and prophet of the 5th century b.c., who with Nehemiah led the revival of Judaism in Palestine.", "S": [], "A": []}

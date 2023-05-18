@@ -1,0 +1,1 @@
+{"index": 227946, "D": "a police officer who is assigned to patrol  a specific district, route, etc.", "S": ["constable ", "policewoman "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 354597, "D": "an act of cropping up; appearance; growth", "S": [], "A": []}

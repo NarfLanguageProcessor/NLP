@@ -1,0 +1,1 @@
+{"index": 1574, "D": "of, relating to, or belonging to the family Accipitridae, comprising the hawks, Old World vultures, kites, harriers, and eagles.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322309, "D": "English physicist and diplomat, born in the U.S.", "S": [], "A": []}

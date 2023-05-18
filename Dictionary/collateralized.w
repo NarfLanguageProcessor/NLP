@@ -1,0 +1,1 @@
+{"index": 62864, "D": "to secure (a loan) with collateral. ", "S": [], "A": []}

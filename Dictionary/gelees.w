@@ -1,0 +1,1 @@
+{"index": 123240, "D": "a jellied substance, especially a cosmetic gel or a jellied food.", "S": [], "A": []}

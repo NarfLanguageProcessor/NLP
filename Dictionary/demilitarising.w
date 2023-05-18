@@ -1,0 +1,1 @@
+{"index": 80556, "D": "to deprive of military  character; free from militarism. ", "S": [], "A": []}

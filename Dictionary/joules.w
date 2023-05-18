@@ -1,0 +1,1 @@
+{"index": 161864, "D": "the standard unit of work or energy in the International System of Units  (SI), equal to the work done by a force of one newton when its point of application moves through a distance of one meter in the direction of the force", "S": [], "A": []}

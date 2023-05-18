@@ -1,0 +1,1 @@
+{"index": 70678, "D": "an unrestrained and vigorously powerful response to an attacking statement.", "S": [], "A": []}

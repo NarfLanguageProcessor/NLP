@@ -1,0 +1,1 @@
+{"index": 123921, "D": "of or relating to geomagnetism.", "S": [], "A": []}

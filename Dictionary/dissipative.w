@@ -1,0 +1,1 @@
+{"index": 89594, "D": "to scatter in various directions; disperse; dispel.", "S": ["careless ", "destructive ", "extravagant ", "lavish ", "profligate ", "reckless "], "A": ["careful ", "cautious ", "economical ", "saving "]}

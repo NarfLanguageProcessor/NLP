@@ -1,0 +1,1 @@
+{"index": 186698, "D": "a person who plays an economic role intermediate between producer and retailer or consumer.", "S": ["go-between ", "mediator ", "wholesaler "], "A": []}

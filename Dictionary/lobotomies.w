@@ -1,0 +1,1 @@
+{"index": 174226, "D": "the operation of cutting into a lobe, as of the brain or the lung.", "S": [], "A": []}

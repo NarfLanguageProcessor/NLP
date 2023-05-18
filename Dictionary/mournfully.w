@@ -1,0 +1,1 @@
+{"index": 194266, "D": "feeling or expressing sorrow or grief; sorrowful; sad.", "S": ["acutely ", "genuinely ", "intensely ", "passionately ", "profoundly ", "sadly ", "seriously ", "severely ", "surely ", "thoroughly "], "A": ["lightly "]}

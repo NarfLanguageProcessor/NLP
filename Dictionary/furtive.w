@@ -1,0 +1,1 @@
+{"index": 120531, "D": "taken, done, used, etc., surreptitiously or by stealth; secret", "S": ["clandestine ", "conspiratorial ", "covert ", "surreptitious "], "A": ["aboveboard ", "honest ", "open "]}

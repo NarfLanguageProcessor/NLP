@@ -1,0 +1,1 @@
+{"index": 231449, "D": "the serous membrane lining the abdominal cavity and investing its viscera.", "S": ["abdominals ", "celiac muscle ", "stomach muscle ", "stomachal muscle ", "stomachic muscle ", "tummy muscle ", "viscera "], "A": []}

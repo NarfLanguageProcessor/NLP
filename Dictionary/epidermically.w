@@ -1,0 +1,1 @@
+{"index": 102373, "D": "the outer, nonvascular, nonsensitive layer of the skin, covering the true skin or corium.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137046, "D": "before  in this document, statement, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 222361, "D": "an instrument for measuring the oxygen saturation of the hemoglobin in a sample of blood.", "S": [], "A": []}

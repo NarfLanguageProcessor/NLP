@@ -1,0 +1,1 @@
+{"index": 255301, "D": "a person trained to practice psychoanalysis.", "S": ["psychotherapist ", "therapist "], "A": []}

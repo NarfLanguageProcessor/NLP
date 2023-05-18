@@ -1,0 +1,1 @@
+{"index": 233595, "D": "a person who collects stamps as a hobby or investment", "S": [], "A": []}

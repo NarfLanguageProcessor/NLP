@@ -1,0 +1,1 @@
+{"index": 73492, "D": "the act of passing judgment as to the merits of anything.", "S": ["assessment ", "comment ", "critique ", "judgment ", "opinion ", "review "], "A": ["heedlessness ", "neglect "]}

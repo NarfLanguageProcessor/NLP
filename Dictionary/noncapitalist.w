@@ -1,0 +1,1 @@
+{"index": 201793, "D": "a person who has capital,  especially extensive capital,  invested in business enterprises.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133552, "D": "(of foods, medications, etc.) not fit to eat or use according to Islamic law", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334708, "D": "free from affectation; sincere; genuine", "S": ["commonly ", "consistently ", "easily ", "generally ", "instinctively ", "normally ", "simply ", "spontaneously ", "typically ", "uniformly ", "usually "], "A": ["difficultly ", "unusually "]}

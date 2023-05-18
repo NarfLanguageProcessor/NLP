@@ -1,0 +1,1 @@
+{"index": 208139, "D": "the state or quality of being useful; usefulness", "S": [], "A": []}

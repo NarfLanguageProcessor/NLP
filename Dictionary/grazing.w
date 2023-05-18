@@ -1,0 +1,1 @@
+{"index": 129415, "D": "pastureland; a pasture.", "S": ["biting ", "cropping ", "eating ", "feeding ", "foraging ", "gnawing ", "masticating ", "munching ", "nibbling ", "pasturing ", "ruminating ", "uprooting "], "A": []}

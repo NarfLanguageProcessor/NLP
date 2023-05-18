@@ -1,0 +1,1 @@
+{"index": 106437, "D": "raised or elevated, as in rank or character; of high station", "S": ["aggrandizement ", "apotheosis ", "boost ", "deification ", "eminence ", "ennoblement ", "exaltation ", "glorification ", "grandeur ", "loftiness ", "magnification ", "nobility ", "nobleness ", "preference ", "preferment ", "raise ", "sublimity "], "A": ["decrease ", "unimportance "]}

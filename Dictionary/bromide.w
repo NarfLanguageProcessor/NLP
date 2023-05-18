@@ -1,0 +1,1 @@
+{"index": 41262, "D": "a compound containing bromine, as methyl bromide. ", "S": ["clich\u00e9 "], "A": []}

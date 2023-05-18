@@ -1,0 +1,1 @@
+{"index": 23938, "D": "pertaining to autochthons; aboriginal; indigenous  (opposed to heterochthonous).", "S": ["aboriginal ", "endemic ", "native "], "A": []}

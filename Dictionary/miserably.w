@@ -1,0 +1,1 @@
+{"index": 189234, "D": "wretchedly unhappy, uneasy, or uncomfortable", "S": ["badly "], "A": []}

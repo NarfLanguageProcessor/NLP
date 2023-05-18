@@ -1,0 +1,1 @@
+{"index": 296185, "D": "an explanation, expression, concept, etc., characteristic of sociology,  especially when lacking reference to other disciplines concerned with human development.", "S": [], "A": []}

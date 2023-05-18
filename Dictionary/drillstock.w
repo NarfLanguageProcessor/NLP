@@ -1,0 +1,1 @@
+{"index": 93110, "D": "a device for holding a drill. ", "S": [], "A": []}

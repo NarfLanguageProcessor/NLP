@@ -1,0 +1,1 @@
+{"index": 201553, "D": "a wasting away of the body or of an organ or part, as from defective nutrition or nerve damage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250080, "D": "to take upon oneself, as a task, performance, etc.; attempt", "S": [], "A": []}

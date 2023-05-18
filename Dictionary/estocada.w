@@ -1,0 +1,1 @@
+{"index": 104689, "D": "the thrust of the sword by the matador into the bull in the final stage of a bullfight, designed to kill the bull.", "S": [], "A": []}

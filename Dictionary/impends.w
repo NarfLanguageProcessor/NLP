@@ -1,0 +1,1 @@
+{"index": 148445, "D": "to be imminent; be about to happen.", "S": ["advance ", "approach ", "brew ", "brewing ", "forebode ", "foreshadow ", "frighten ", "imperil ", "jeopardize ", "loom ", "lower ", "menace ", "overhang ", "portend ", "presage ", "warn "], "A": []}

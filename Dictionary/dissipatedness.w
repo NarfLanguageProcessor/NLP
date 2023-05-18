@@ -1,0 +1,1 @@
+{"index": 89587, "D": "indulging in or characterized by excessive devotion to pleasure; intemperate; dissolute.", "S": [], "A": []}

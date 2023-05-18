@@ -1,0 +1,1 @@
+{"index": 298351, "D": "of or relating to Spain,  its people, or their language.", "S": ["Catalan ", "Continental ", "French ", "Indo-European language ", "Italian ", "Italic language ", "Latin ", "Portuguese ", "Provencal ", "insular "], "A": []}

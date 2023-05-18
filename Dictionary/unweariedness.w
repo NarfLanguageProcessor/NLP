@@ -1,0 +1,1 @@
+{"index": 354111, "D": "notwearied;  not fatigued.", "S": [], "A": []}

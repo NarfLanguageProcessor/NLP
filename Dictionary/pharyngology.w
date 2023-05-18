@@ -1,0 +1,1 @@
+{"index": 233060, "D": "the science of the pharynx and its diseases.", "S": [], "A": []}

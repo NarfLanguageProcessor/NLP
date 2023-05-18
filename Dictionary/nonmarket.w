@@ -1,0 +1,1 @@
+{"index": 205162, "D": "an open place or a covered building where buyers and sellers convene for the sale of goods; a marketplace", "S": [], "A": []}

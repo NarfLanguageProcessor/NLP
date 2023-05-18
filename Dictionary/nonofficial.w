@@ -1,0 +1,1 @@
+{"index": 205599, "D": "not official or formal", "S": [], "A": []}

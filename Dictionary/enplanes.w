@@ -1,0 +1,1 @@
+{"index": 100845, "D": "to board an airplane", "S": ["ascend ", "board ", "climb ", "embark ", "entrain ", "go up ", "scale "], "A": ["disagree ", "dismount ", "disrobe ", "get off ", "unclothe "]}

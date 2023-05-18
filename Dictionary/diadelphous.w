@@ -1,0 +1,1 @@
+{"index": 84082, "D": "(of stamens) united into two sets by their filaments.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362629, "D": "the forward section of a self-propelled missile, bomb, torpedo, or the like, containing the explosive, chemical, or atomic charge.", "S": ["heat barrier ", "heat shield ", "thermal barrier "], "A": []}

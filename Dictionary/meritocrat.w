@@ -1,0 +1,1 @@
+{"index": 183845, "D": "a member of a meritocracy. ", "S": [], "A": []}

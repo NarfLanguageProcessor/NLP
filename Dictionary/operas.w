@@ -1,0 +1,1 @@
+{"index": 213275, "D": "Compare comic opera, grand opera. ", "S": ["melody ", "opera ", "piece ", "rap ", "rock ", "singing ", "soul ", "tune "], "A": ["silence "]}

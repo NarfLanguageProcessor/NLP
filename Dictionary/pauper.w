@@ -1,0 +1,1 @@
+{"index": 228128, "D": "a person without any means of support, especially a destitute person who depends on aid from public welfare funds or charity.", "S": ["supplicant "], "A": ["rich ", "wealthy "]}

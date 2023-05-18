@@ -1,0 +1,1 @@
+{"index": 345199, "D": "cheerful; merry; blithe; glad", "S": [], "A": []}

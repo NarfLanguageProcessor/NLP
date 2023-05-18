@@ -1,0 +1,1 @@
+{"index": 222268, "D": "the process or result of oxidizing. ", "S": ["decay ", "decomposition ", "deterioration ", "erosion ", "rust "], "A": ["building ", "construction ", "development ", "growth ", "improvement ", "strengthening "]}

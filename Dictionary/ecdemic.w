@@ -1,0 +1,1 @@
+{"index": 95153, "D": "noting or pertaining to a disease that is observed far from the area in which it originates.", "S": [], "A": []}

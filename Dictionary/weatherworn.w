@@ -1,0 +1,1 @@
+{"index": 363637, "D": "weather-beaten. ", "S": ["battered ", "damaged ", "decayed ", "weathered ", "worn-down "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139321, "D": "the science that deals with the preservation of health.", "S": ["sanitation "], "A": ["dirtiness ", "filth ", "foulness "]}

@@ -1,0 +1,1 @@
+{"index": 215499, "D": "to convert into or cause to harden like bone.", "S": [], "A": []}

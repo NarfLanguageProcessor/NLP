@@ -1,0 +1,1 @@
+{"index": 134798, "D": "to perceive by the ear", "S": ["congregation ", "crowd ", "gallery ", "gathering ", "market ", "public "], "A": []}

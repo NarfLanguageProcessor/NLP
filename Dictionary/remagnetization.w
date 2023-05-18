@@ -1,0 +1,1 @@
+{"index": 267077, "D": "the process of magnetizing  or the state of being magnetized. ", "S": [], "A": []}

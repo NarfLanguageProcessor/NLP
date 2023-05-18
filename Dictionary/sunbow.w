@@ -1,0 +1,1 @@
+{"index": 311046, "D": "a bow  or arc of prismatic colors like a rainbow, appearing in the spray of cataracts, waterfalls, fountains, etc.", "S": [], "A": []}

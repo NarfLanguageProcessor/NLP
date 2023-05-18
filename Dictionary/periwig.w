@@ -1,0 +1,1 @@
+{"index": 231497, "D": "a wig, especially a peruke.", "S": ["hairpiece "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235296, "D": "of or relating to an organism, as a plant, that is receptive to, seeks, or thrives in light.", "S": [], "A": []}

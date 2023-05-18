@@ -1,0 +1,1 @@
+{"index": 298176, "D": "an uncommon variant of spatial. ", "S": [], "A": []}

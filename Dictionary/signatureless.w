@@ -1,0 +1,1 @@
+{"index": 290125, "D": "a person's name, or a mark representing it, as signed personally or by deputy, as in subscribing a letter or other document.", "S": [], "A": []}

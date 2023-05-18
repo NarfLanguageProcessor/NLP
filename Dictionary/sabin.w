@@ -1,0 +1,1 @@
+{"index": 276079, "D": "a unit of sound absorption, equal to one square foot (929 square centimeters) of a perfectly absorptive surface.", "S": [], "A": []}

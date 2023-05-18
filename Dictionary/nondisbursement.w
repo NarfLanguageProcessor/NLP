@@ -1,0 +1,1 @@
+{"index": 203133, "D": "the act or an instance of disbursing. ", "S": [], "A": []}

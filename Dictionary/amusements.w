@@ -1,0 +1,1 @@
+{"index": 11430, "D": "anything that amuses  or entertains; pastime", "S": ["delight ", "diversion ", "enjoyment ", "hilarity ", "laughter ", "pleasure "], "A": ["gloom ", "melancholy ", "misery ", "pain ", "sorrow ", "trouble ", "unhappiness ", "depression ", "drudgery ", "sadness ", "work "]}

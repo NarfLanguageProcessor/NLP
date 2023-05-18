@@ -1,0 +1,1 @@
+{"index": 124360, "D": "a configuration, pattern, or organized field having specific properties that cannot be derived from the summation of its component parts; a unified whole.", "S": ["composition ", "contour ", "shape ", "structure "], "A": ["disarrangement "]}

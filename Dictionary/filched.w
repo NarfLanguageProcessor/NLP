@@ -1,0 +1,1 @@
+{"index": 112561, "D": "to steal (especially something of small value); pilfer", "S": ["embezzle ", "pilfer ", "purloin "], "A": ["give ", "offer ", "receive "]}

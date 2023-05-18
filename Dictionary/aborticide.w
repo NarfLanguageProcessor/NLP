@@ -1,0 +1,1 @@
+{"index": 725, "D": "destruction of a fetus in the uterus; feticide.", "S": ["miscarriage "], "A": ["childbirth ", "delivery ", "giving birth ", "parturition "]}

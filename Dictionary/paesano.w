@@ -1,0 +1,1 @@
+{"index": 222954, "D": "a person who shares one\u2019s place of origin; a compatriot, especially among Italians or people of Italian descent.", "S": [], "A": []}

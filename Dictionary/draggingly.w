@@ -1,0 +1,1 @@
+{"index": 92538, "D": "extremely tired or slow, as in movement; lethargic; sluggish", "S": [], "A": []}

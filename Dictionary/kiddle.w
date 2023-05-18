@@ -1,0 +1,1 @@
+{"index": 164466, "D": "a device, esp a barrier constructed of nets and stakes, for catching fish in a river or in the sea", "S": [], "A": []}

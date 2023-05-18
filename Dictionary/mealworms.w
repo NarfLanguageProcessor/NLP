@@ -1,0 +1,1 @@
+{"index": 181734, "D": "the larva of any of several darkling beetles of the genus Tenebrio, which infests granaries and is used as food for birds and animals.", "S": [], "A": []}

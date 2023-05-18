@@ -1,0 +1,1 @@
+{"index": 251774, "D": "returns, proceeds, or revenue, as from property or investments.", "S": [], "A": []}

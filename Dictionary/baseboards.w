@@ -1,0 +1,1 @@
+{"index": 28492, "D": "a board  forming the foot of an interior wall.", "S": [], "A": []}

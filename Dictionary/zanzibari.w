@@ -1,0 +1,1 @@
+{"index": 368859, "D": "of or relating to Zanzibar or its inhabitants", "S": [], "A": []}

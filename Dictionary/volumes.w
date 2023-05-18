@@ -1,0 +1,1 @@
+{"index": 361219, "D": "a collection of written or printed sheets bound together and constituting a book.", "S": ["amount ", "figure ", "number ", "quantity ", "size ", "total "], "A": ["letter ", "individual ", "one "]}

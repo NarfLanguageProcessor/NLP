@@ -1,0 +1,1 @@
+{"index": 127572, "D": "a figure artificially constructed in the form of a human being and endowed with life.", "S": [], "A": []}

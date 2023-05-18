@@ -1,0 +1,1 @@
+{"index": 79450, "D": "a person who deforces the rightful owner.", "S": [], "A": []}

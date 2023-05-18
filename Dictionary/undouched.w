@@ -1,0 +1,1 @@
+{"index": 340790, "D": "a jet or current of water, sometimes with a dissolved medicating or cleansing agent, applied to a body part, organ, or cavity for medicinal or hygienic purposes.", "S": [], "A": []}

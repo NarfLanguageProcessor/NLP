@@ -1,0 +1,1 @@
+{"index": 330539, "D": "a triangular or quadrilateral sail  having its luff hooped or otherwise bent to a mast, used for lying to or keeping a vessel headed into the wind; spencer.", "S": [], "A": []}

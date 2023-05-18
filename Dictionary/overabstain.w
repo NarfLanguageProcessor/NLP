@@ -1,0 +1,1 @@
+{"index": 218102, "D": "to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from)", "S": [], "A": []}

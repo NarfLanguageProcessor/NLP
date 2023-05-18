@@ -1,0 +1,1 @@
+{"index": 330872, "D": "(of a rutting buck) to call or bellow", "S": [], "A": []}

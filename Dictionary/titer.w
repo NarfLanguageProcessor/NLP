@@ -1,0 +1,1 @@
+{"index": 324656, "D": "the strength of a solution as determined by titration with a standard substance.", "S": [], "A": []}

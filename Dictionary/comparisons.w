@@ -1,0 +1,1 @@
+{"index": 64417, "D": "the act of comparing.", "S": ["analogy ", "connection ", "contrast ", "correlation ", "example ", "identification ", "juxtaposition ", "observation ", "ratio ", "relation ", "resemblance ", "similarity ", "testing "], "A": ["difference ", "disconnection ", "dissimilarity ", "unlikeness "]}

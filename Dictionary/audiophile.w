@@ -1,0 +1,1 @@
+{"index": 23307, "D": "a person who is especially interested in high-fidelity sound reproduction.", "S": [], "A": []}

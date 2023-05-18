@@ -1,0 +1,1 @@
+{"index": 110491, "D": "acute hemolytic anemia caused by ingestion or inhalation of fava bean pollen.", "S": [], "A": []}

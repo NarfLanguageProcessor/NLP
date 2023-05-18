@@ -1,0 +1,1 @@
+{"index": 261232, "D": "to work havoc upon; damage or mar by ruinous or destructive action", "S": ["confusion ", "desolation ", "havoc ", "ruin "], "A": ["construction "]}

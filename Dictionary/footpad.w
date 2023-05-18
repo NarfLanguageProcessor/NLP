@@ -1,0 +1,1 @@
+{"index": 116223, "D": "a highwayman or robber who goes on foot. ", "S": ["bandit ", "desperado ", "freebooter ", "highwayman ", "marauder ", "outlaw ", "pillager ", "pirate ", "robber ", "soldier ", "thief "], "A": []}

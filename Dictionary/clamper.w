@@ -1,0 +1,1 @@
+{"index": 59177, "D": "a clamp;  pincer.", "S": [], "A": []}

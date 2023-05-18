@@ -1,0 +1,1 @@
+{"index": 365630, "D": "a scolding or reproof.", "S": [], "A": []}

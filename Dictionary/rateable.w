@@ -1,0 +1,1 @@
+{"index": 260985, "D": "a variant spelling of ratable", "S": [], "A": []}

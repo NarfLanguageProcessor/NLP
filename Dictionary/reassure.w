@@ -1,0 +1,1 @@
+{"index": 262101, "D": "to restore to assurance or confidence", "S": ["assure ", "bolster ", "buoy ", "cheer ", "comfort ", "console ", "convince ", "encourage ", "hearten ", "inspire ", "relieve "], "A": ["annoy ", "bring down ", "depress ", "discourage ", "dishearten ", "dispirit ", "dissuade ", "hurt ", "trouble ", "upset "]}

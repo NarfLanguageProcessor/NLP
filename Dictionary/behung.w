@@ -1,0 +1,1 @@
+{"index": 30858, "D": [], "S": ["bewitch ", "captivate ", "enrapture ", "enthrall ", "fascinate ", "immerse ", "preoccupy "], "A": ["bore ", "disenchant ", "disgust ", "offend ", "repel ", "tire ", "turn off ", "eject ", "let go ", "misunderstand ", "not use ", "reject ", "release ", "surrender ", "yield "]}

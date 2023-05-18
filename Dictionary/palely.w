@@ -1,0 +1,1 @@
+{"index": 223641, "D": "lacking the usual intensity of color due to fear, illness, stress, etc.", "S": [], "A": []}

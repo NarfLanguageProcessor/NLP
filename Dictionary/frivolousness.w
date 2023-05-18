@@ -1,0 +1,1 @@
+{"index": 119185, "D": "characterized by lack of seriousness or sense", "S": ["levity "], "A": ["sadness ", "seriousness ", "understanding ", "work "]}

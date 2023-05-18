@@ -1,0 +1,1 @@
+{"index": 64524, "D": "serving to compensate,  as for loss, lack, or injury.", "S": ["offsetting ", "redeeming ", "remunerative "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243646, "D": "Compare port4 (def. 1). ", "S": ["channel "], "A": ["closure ", "entrance "]}

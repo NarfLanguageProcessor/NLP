@@ -1,0 +1,1 @@
+{"index": 301087, "D": "a spore, especially a small one.", "S": [], "A": []}

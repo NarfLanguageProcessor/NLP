@@ -1,0 +1,1 @@
+{"index": 312158, "D": "a jet  aircraft, especially a large one, capable of supersonic flight.", "S": [], "A": []}

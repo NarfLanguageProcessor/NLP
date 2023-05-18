@@ -1,0 +1,1 @@
+{"index": 144676, "D": "a retailer of small articles, especially a peddler of fruits and vegetables; hawker.", "S": [], "A": []}

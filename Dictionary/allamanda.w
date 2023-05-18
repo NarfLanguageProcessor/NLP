@@ -1,0 +1,1 @@
+{"index": 8540, "D": "any of several tropical American shrubs or woody vines belonging to the genus Allamanda, of the dogbane family, having showy yellow or purple flowers, and often used for ornamental plantings.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208790, "D": "either of the two external openings of the nose.", "S": ["beak ", "snout "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 102932, "D": "epithalamion. ", "S": ["espousal ", "hymeneal ", "nuptial ", "spousal "], "A": ["divorce "]}

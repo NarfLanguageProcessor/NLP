@@ -1,0 +1,1 @@
+{"index": 146211, "D": "the worship or adoration of icons.", "S": [], "A": []}

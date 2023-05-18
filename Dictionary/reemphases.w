@@ -1,0 +1,1 @@
+{"index": 264674, "D": "special stress laid upon, or importance attached to, anything", "S": [], "A": []}

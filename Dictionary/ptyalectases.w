@@ -1,0 +1,1 @@
+{"index": 255815, "D": "spontaneous or surgical dilatation of a salivary duct.", "S": [], "A": []}

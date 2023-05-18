@@ -1,0 +1,1 @@
+{"index": 368216, "D": "a salt or ester of xanthic acid. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 301313, "D": "a spring  or fountainhead from which a stream flows.", "S": [], "A": []}

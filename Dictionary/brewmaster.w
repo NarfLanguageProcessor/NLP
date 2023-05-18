@@ -1,0 +1,1 @@
+{"index": 40533, "D": "the supervisor of the brewing  processes in a brewery.", "S": [], "A": []}

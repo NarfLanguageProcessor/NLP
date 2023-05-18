@@ -1,0 +1,1 @@
+{"index": 322051, "D": "a gas-filled, hot-cathode tube in which one or more control electrodes initiate, but do not limit and cannot interrupt, the flow of electrons.", "S": [], "A": []}

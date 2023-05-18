@@ -1,0 +1,1 @@
+{"index": 48620, "D": "a member of a monastic order founded by St. Bruno in 1086 near Grenoble, France.", "S": [], "A": []}

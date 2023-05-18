@@ -1,0 +1,1 @@
+{"index": 312183, "D": "agreeably tolerant; permissive; indulgent", "S": [], "A": []}

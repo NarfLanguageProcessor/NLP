@@ -1,0 +1,1 @@
+{"index": 365238, "D": "of or relating to Whitsunday or Whitsuntide.", "S": [], "A": []}

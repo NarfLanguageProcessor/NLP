@@ -1,0 +1,1 @@
+{"index": 297640, "D": "a fleshy multiple fruit composed of many flowers, seed vessels, and receptacles consolidated, as in the pineapple and mulberry.", "S": [], "A": []}

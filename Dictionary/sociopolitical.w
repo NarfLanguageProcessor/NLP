@@ -1,0 +1,1 @@
+{"index": 296206, "D": "of, relating to, or signifying the combination or interaction of social and political  factors", "S": [], "A": []}

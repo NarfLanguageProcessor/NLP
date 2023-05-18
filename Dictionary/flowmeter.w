@@ -1,0 +1,1 @@
+{"index": 115213, "D": "an instrument for measuring the flow  rate of a fluid in a pipe.", "S": [], "A": []}

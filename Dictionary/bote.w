@@ -1,0 +1,1 @@
+{"index": 38704, "D": "compensation, such as for injury to person or honor.", "S": [], "A": []}

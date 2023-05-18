@@ -1,0 +1,1 @@
+{"index": 259763, "D": "an instrument, such as a fluoroscope, capable of detecting radiant energy", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310897, "D": "a comprehensive and usually brief abstract, recapitulation, or compendium of previously stated facts or statements.", "S": ["analysis ", "essence ", "outline ", "prospectus ", "recap ", "rehash ", "review ", "rundown ", "sketch ", "survey ", "synopsis ", "version "], "A": ["enlargement ", "expansion ", "extension ", "increase "]}

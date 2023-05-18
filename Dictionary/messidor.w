@@ -1,0 +1,1 @@
+{"index": 184491, "D": "(in the French Revolutionary calendar) the tenth month of the year, extending from June 19 to July 18.", "S": [], "A": []}

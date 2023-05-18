@@ -1,0 +1,1 @@
+{"index": 201625, "D": "the quality present in a thing or person that gives intense pleasure or deep satisfaction to the mind, whether arising from sensory manifestations (as shape, color, sound, etc.), a meaningful design or pattern, or something else (as a personality in which high spiritual qualities are manifest).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122680, "D": "the construction of an artificial opening from the stomach through the abdominal wall, permitting intake of food or drainage of gastric contents.", "S": [], "A": []}

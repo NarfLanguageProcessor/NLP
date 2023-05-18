@@ -1,0 +1,1 @@
+{"index": 126792, "D": "a light emitted by or as if by a substance heated to luminosity; incandescence.", "S": ["blaze ", "brighten ", "flare ", "flush ", "gleam ", "glimmer ", "glisten ", "glitter ", "shine ", "smolder ", "twinkle "], "A": ["dull ", "extinguish ", "pale ", "put out "]}

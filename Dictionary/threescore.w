@@ -1,0 +1,1 @@
+{"index": 322623, "D": "being or containing three times twenty; sixty.", "S": [], "A": []}

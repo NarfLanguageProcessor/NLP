@@ -1,0 +1,1 @@
+{"index": 228981, "D": "an instrument worn by a walker or runner for recording the number of steps taken, thereby showing approximately the distance traveled.", "S": [], "A": []}

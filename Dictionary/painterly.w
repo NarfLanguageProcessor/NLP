@@ -1,0 +1,1 @@
+{"index": 223180, "D": "of, relating to, or characteristic of a painter. ", "S": [], "A": []}

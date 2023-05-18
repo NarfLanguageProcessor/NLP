@@ -1,0 +1,1 @@
+{"index": 80437, "D": "a light brown raw sugar grown in Guyana and used especially in the country's rum-making industry.", "S": [], "A": []}

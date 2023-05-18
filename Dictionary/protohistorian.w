@@ -1,0 +1,1 @@
+{"index": 253699, "D": "a branch of study concerned with the transition period between prehistory and the earliest recorded history. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 261593, "D": "promptly; quickly; easily", "S": ["cheerfully ", "eagerly ", "easily ", "freely ", "gladly ", "immediately ", "promptly ", "willingly "], "A": ["difficultly ", "grudgingly ", "unwillingly "]}

@@ -1,0 +1,1 @@
+{"index": 33605, "D": "near to or next to", "S": ["adieu ", "adios ", "arrivederci ", "bye-bye ", "cheerio ", "good day ", "sayonara ", "so long "], "A": ["hello "]}

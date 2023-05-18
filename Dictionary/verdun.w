@@ -1,0 +1,1 @@
+{"index": 358463, "D": "a fortress city in NE France, on the Meuse River. A German offensive was stopped here in 1916 in the bloodiest fighting of World War I.", "S": [], "A": []}

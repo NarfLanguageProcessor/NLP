@@ -1,0 +1,1 @@
+{"index": 257436, "D": "(in formal writing) which (words, things, etc.) see.", "S": [], "A": []}

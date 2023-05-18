@@ -1,0 +1,1 @@
+{"index": 163592, "D": "anything kept, or given to be kept, as a token of friendship or affection; remembrance.", "S": ["collectibles "], "A": []}

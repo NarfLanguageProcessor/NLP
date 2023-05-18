@@ -1,0 +1,1 @@
+{"index": 336981, "D": "to undo the clasp  or clasps  of; unfasten.", "S": ["baggy ", "lax ", "relaxed ", "sloppy "], "A": ["strict ", "tight ", "hindered ", "rigid ", "stiff "]}

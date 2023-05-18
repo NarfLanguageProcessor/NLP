@@ -1,0 +1,1 @@
+{"index": 362209, "D": "a strike by workers.", "S": ["parade ", "protest ", "sit-in ", "strike "], "A": []}

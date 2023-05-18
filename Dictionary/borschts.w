@@ -1,0 +1,1 @@
+{"index": 38530, "D": "any of various eastern European soups made with beets, cabbage, potatoes, or other vegetables and served hot or chilled, often with sour cream.", "S": ["chard "], "A": []}

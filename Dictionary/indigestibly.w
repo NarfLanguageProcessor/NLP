@@ -1,0 +1,1 @@
+{"index": 150996, "D": "not digestible; not easily digested.", "S": [], "A": []}

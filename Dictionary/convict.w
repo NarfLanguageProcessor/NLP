@@ -1,0 +1,1 @@
+{"index": 68087, "D": "to prove or declare guilty of an offense, especially after a legal trial", "S": ["captive ", "felon ", "prisoner "], "A": ["victim "]}

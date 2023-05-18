@@ -1,0 +1,1 @@
+{"index": 281956, "D": "pertaining to, resembling, of the nature of, or affected with scrofula. ", "S": [], "A": []}

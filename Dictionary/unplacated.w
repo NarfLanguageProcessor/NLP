@@ -1,0 +1,1 @@
+{"index": 347970, "D": "to appease or pacify, especially by concessions or conciliatory gestures", "S": [], "A": []}

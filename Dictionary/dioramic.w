@@ -1,0 +1,1 @@
+{"index": 86328, "D": "a scene, often in miniature, reproduced in three dimensions by placing objects, figures, etc., in front of a painted background.", "S": [], "A": []}

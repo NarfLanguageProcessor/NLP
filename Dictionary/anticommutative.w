@@ -1,0 +1,1 @@
+{"index": 14997, "D": "(of a binary operation) having the property that one term operating on a second is equal to the negative of the second operating on the first, asab = \u2212ba.", "S": [], "A": []}

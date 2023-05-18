@@ -1,0 +1,1 @@
+{"index": 148731, "D": "to put or fix firmly", "S": ["embed ", "fix ", "instill "], "A": []}

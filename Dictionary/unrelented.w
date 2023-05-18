@@ -1,0 +1,1 @@
+{"index": 349426, "D": "to soften in feeling, temper, or determination; become more mild, compassionate, or forgiving.", "S": [], "A": []}

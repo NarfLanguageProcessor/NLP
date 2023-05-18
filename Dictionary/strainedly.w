@@ -1,0 +1,1 @@
+{"index": 305692, "D": "affected or produced by effort; not natural or spontaneous; forced", "S": [], "A": []}

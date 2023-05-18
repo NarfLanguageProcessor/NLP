@@ -1,0 +1,1 @@
+{"index": 311640, "D": "a party leader or elected public official chosen as an uncommitted delegate to a national political convention.", "S": [], "A": []}

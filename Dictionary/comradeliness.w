@@ -1,0 +1,1 @@
+{"index": 65002, "D": "of, like, or befitting a comrade", "S": [], "A": []}

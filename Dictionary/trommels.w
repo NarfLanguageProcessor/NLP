@@ -1,0 +1,1 @@
+{"index": 331080, "D": "a rotary, cylindrical or conical screen for sorting ore, coal, gravel, etc., according to size.", "S": [], "A": []}

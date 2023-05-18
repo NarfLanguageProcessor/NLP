@@ -1,0 +1,1 @@
+{"index": 168329, "D": "the act of throwing stones at someone as a form of punishment", "S": [], "A": []}

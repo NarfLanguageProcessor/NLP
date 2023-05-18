@@ -1,0 +1,1 @@
+{"index": 348554, "D": "to lay claim to, often insincerely; pretend to", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 44460, "D": "a break, especially a sense pause, usually near the middle of a verse, and marked in scansion by a double vertical line, as in know then thyself \u2016 presume not God to scan.", "S": [], "A": []}

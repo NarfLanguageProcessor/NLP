@@ -1,0 +1,1 @@
+{"index": 265980, "D": "to practice (a musical composition, a play, a speech, etc.) in private prior to a public presentation.", "S": [], "A": []}

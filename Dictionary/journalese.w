@@ -1,0 +1,1 @@
+{"index": 161877, "D": "a manner of writing or speaking characterized by clich\u00e9s, occasional neologism, archness, sensationalizing adjectives, unusual or faulty syntax, etc., used by some journalists, especially certain columnists, and regarded as typical journalistic style.", "S": [], "A": []}

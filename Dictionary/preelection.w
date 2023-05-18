@@ -1,0 +1,1 @@
+{"index": 247203, "D": "a choice or selection made beforehand.", "S": [], "A": []}

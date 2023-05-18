@@ -1,0 +1,1 @@
+{"index": 314122, "D": "a body of honeybees that emigrate from a hive and fly off together, accompanied by a queen, to start a new colony.", "S": ["abound ", "annoy ", "assail ", "beset ", "crowd ", "defile ", "fill ", "infect ", "invade ", "overspread ", "overwhelm ", "pester ", "plague ", "swarm ", "teem ", "worry "], "A": []}

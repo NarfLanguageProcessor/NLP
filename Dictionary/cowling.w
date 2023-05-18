@@ -1,0 +1,1 @@
+{"index": 71629, "D": "a streamlined metal housing or removable covering for an engine, especially an aircraft engine, often part of or forming a continuous line with the fuselage or wing.", "S": [], "A": []}

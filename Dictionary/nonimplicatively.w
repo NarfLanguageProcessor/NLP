@@ -1,0 +1,1 @@
+{"index": 204607, "D": "tending to implicate  or imply;  characterized by or involving implication. ", "S": [], "A": []}

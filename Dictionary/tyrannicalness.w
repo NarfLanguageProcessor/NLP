@@ -1,0 +1,1 @@
+{"index": 324438, "D": "of or characteristic of a tyrant.", "S": [], "A": []}

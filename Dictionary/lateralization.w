@@ -1,0 +1,1 @@
+{"index": 168852, "D": "functional specialization of the brain, with some skills, as language, occurring primarily in the left hemisphere and others, as the perception of visual and spatial relationships, occurring primarily in the right hemisphere.", "S": [], "A": []}

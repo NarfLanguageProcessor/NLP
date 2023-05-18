@@ -1,0 +1,1 @@
+{"index": 67600, "D": "to assert the contrary or opposite of; deny directly and categorically.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191508, "D": "the theological doctrine, formulated by Luis Molina,  that the consent of the human will is necessary for divine grace to be effective.", "S": [], "A": []}

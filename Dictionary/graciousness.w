@@ -1,0 +1,1 @@
+{"index": 128509, "D": "the quality or state of being benevolent, courteous, and kind", "S": ["agreeability ", "agreeableness ", "amenity ", "amiableness ", "bonhomie ", "congeniality ", "cordiality ", "friendliness ", "geniality ", "good-naturedness ", "niceness ", "pleasantness ", "sociability ", "sociableness ", "warmth "], "A": ["aloofness ", "coldness ", "coolness "]}

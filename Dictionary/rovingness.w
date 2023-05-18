@@ -1,0 +1,1 @@
+{"index": 274991, "D": "roaming or wandering.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43244, "D": "U.S. economist, born in Austria", "S": ["blaze ", "char ", "heat ", "ignite ", "incinerate ", "light ", "melt ", "scorch ", "smolder ", "torch "], "A": ["extinguish ", "freeze ", "put out "]}

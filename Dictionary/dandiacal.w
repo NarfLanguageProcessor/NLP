@@ -1,0 +1,1 @@
+{"index": 76698, "D": "a man who is excessively concerned about his clothes and appearance; a fop.", "S": [], "A": []}

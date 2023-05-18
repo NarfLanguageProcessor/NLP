@@ -1,0 +1,1 @@
+{"index": 98197, "D": "to raise or represent (surface designs) in relief.", "S": ["adorn ", "decorate ", "etch "], "A": []}

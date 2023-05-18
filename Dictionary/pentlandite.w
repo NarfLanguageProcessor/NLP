@@ -1,0 +1,1 @@
+{"index": 230090, "D": "a mineral, sulfide of nickel, occurring in the form of bronze-colored granular aggregates, found with pyrrhotite", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118099, "D": "material used to cover the upper portion of a shoe.", "S": [], "A": []}

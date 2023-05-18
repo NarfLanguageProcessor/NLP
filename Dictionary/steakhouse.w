@@ -1,0 +1,1 @@
+{"index": 303251, "D": "a restaurant specializing in beefsteak.", "S": [], "A": []}

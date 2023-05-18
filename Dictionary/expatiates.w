@@ -1,0 +1,1 @@
+{"index": 107581, "D": "to enlarge in discourse or writing; be copious in description or discussion", "S": ["develop ", "dilate ", "enlarge ", "expound "], "A": ["compress ", "decrease ", "lessen ", "reduce "]}

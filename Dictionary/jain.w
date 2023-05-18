@@ -1,0 +1,1 @@
+{"index": 160176, "D": "an adherent of Jainism. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21812, "D": "the study of the history, language, etc., of the ancient Assyrians.", "S": [], "A": []}

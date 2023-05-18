@@ -1,0 +1,1 @@
+{"index": 164775, "D": "lacking kindness; unkind; unsympathetic.", "S": [], "A": []}

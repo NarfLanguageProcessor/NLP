@@ -1,0 +1,1 @@
+{"index": 243772, "D": "characteristic of or being a poser, especially in being trendy or fashionable in a superficial way.", "S": [], "A": []}

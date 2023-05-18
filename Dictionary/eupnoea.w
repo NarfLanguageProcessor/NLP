@@ -1,0 +1,1 @@
+{"index": 105708, "D": "Compare dyspnoea", "S": [], "A": []}

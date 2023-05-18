@@ -1,0 +1,1 @@
+{"index": 284168, "D": "retaining green, unwithered leaves for part of the winter or through comparatively mild winters.", "S": [], "A": []}

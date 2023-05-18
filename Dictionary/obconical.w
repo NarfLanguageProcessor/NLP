@@ -1,0 +1,1 @@
+{"index": 209968, "D": "conical,  with the attachment at the pointed end.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78536, "D": "the act, process, or result of extracting meaning or usable information, as from a code, written or spoken symbols, or an electronic signal", "S": ["adaptation ", "explanation ", "reading ", "rendering ", "rendition ", "transcription ", "version "], "A": []}

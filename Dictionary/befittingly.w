@@ -1,0 +1,1 @@
+{"index": 30473, "D": "suitable; proper; becoming", "S": ["accurately ", "justly ", "nicely ", "perfectly ", "precisely ", "properly ", "rightly "], "A": ["unjustly ", "wrongly "]}

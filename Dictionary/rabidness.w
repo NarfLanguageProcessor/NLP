@@ -1,0 +1,1 @@
+{"index": 259287, "D": "irrationally extreme in opinion or practice", "S": [], "A": []}

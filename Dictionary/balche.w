@@ -1,0 +1,1 @@
+{"index": 26759, "D": "(among the Yucatec Maya) a drink made from the bark of a leguminous tree, Lonchocarpus violaceus, which is soaked in honey and water and fermented.", "S": [], "A": []}

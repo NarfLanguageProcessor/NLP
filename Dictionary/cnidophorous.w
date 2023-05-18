@@ -1,0 +1,1 @@
+{"index": 60790, "D": "a part or organ bearing cnidoblasts.", "S": [], "A": []}

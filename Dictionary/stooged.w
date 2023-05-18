@@ -1,0 +1,1 @@
+{"index": 305285, "D": "any underling, assistant, or accomplice.", "S": ["enact ", "perform ", "play ", "portray "], "A": ["direct ", "fail ", "prevent ", "stop "]}

@@ -1,0 +1,1 @@
+{"index": 210333, "D": "opposition to the increase and spread of knowledge.", "S": ["concealment ", "hiding ", "obscuration ", "withholding "], "A": ["disclosure ", "divulgence ", "dissemination ", "exposing ", "promulgation "]}

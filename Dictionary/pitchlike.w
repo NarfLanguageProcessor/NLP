@@ -1,0 +1,1 @@
+{"index": 238249, "D": "to erect or set up (a tent, camp, or the like).", "S": [], "A": []}

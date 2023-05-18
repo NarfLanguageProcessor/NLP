@@ -1,0 +1,1 @@
+{"index": 179556, "D": "a wooden or stone lintel over the opening of a fireplace.", "S": [], "A": []}

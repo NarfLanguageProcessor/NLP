@@ -1,0 +1,1 @@
+{"index": 118158, "D": "Compare cracker (def. 10). ", "S": [], "A": []}

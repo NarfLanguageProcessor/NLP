@@ -1,0 +1,1 @@
+{"index": 306352, "D": "a long, usually horizontal piece  of timber, beam, etc., for strengthening, connecting, or supporting a framework.", "S": [], "A": []}

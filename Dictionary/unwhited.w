@@ -1,0 +1,1 @@
+{"index": 354200, "D": "made white;  bleached; blanched.", "S": [], "A": []}

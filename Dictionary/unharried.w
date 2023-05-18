@@ -1,0 +1,1 @@
+{"index": 343538, "D": "harassed, agitated, or troubled by or as if by repeated attacks; beleaguered", "S": [], "A": []}

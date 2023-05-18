@@ -1,0 +1,1 @@
+{"index": 89020, "D": "a state of dissatisfaction, anxiety, or restlessness", "S": ["anxiety ", "depression ", "melancholy ", "restlessness "], "A": ["happiness "]}

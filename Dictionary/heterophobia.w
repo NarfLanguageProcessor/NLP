@@ -1,0 +1,1 @@
+{"index": 137711, "D": "an aversion or hostility to, disdain for, or fear of heterosexuality or heterosexual people.", "S": [], "A": []}

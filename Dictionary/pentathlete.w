@@ -1,0 +1,1 @@
+{"index": 230029, "D": "an athlete participating or specializing in the pentathlon.", "S": [], "A": []}

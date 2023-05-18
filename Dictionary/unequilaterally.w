@@ -1,0 +1,1 @@
+{"index": 341437, "D": "having all the sides equal", "S": [], "A": []}

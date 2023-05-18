@@ -1,0 +1,1 @@
+{"index": 78118, "D": "to reduce or eliminate the employment of (casual labor).", "S": [], "A": []}

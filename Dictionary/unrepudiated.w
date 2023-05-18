@@ -1,0 +1,1 @@
+{"index": 349646, "D": "to reject as having no authority or binding force", "S": [], "A": []}

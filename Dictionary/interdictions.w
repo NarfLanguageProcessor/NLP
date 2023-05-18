@@ -1,0 +1,1 @@
+{"index": 154838, "D": "an act or instance of interdicting. ", "S": ["ban ", "boycott ", "command ", "decree ", "injunction ", "interdict ", "penalty ", "sentence ", "writ "], "A": []}

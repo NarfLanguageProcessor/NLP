@@ -1,0 +1,1 @@
+{"index": 299912, "D": "to make (yarn) by drawing out, twisting, and winding fibers", "S": [], "A": []}

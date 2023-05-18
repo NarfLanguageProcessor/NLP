@@ -1,0 +1,1 @@
+{"index": 217786, "D": "to outdo in trading;  get the better of in a trade. ", "S": [], "A": []}

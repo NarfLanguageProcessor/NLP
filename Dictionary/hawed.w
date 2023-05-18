@@ -1,0 +1,1 @@
+{"index": 134452, "D": "to utter a sound representing a hesitation or pause in speech.", "S": [], "A": []}

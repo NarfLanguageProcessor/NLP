@@ -1,0 +1,1 @@
+{"index": 170107, "D": "of, relating to, or belonging to a legion.", "S": [], "A": []}

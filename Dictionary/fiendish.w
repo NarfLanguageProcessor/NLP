@@ -1,0 +1,1 @@
+{"index": 112353, "D": "diabolically cruel and wicked.", "S": ["brutish ", "nefarious "], "A": []}

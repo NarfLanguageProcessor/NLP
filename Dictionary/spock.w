@@ -1,0 +1,1 @@
+{"index": 300623, "D": "U.S. physician and educator.", "S": [], "A": []}

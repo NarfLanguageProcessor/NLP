@@ -1,0 +1,1 @@
+{"index": 318677, "D": "the quality of being tenacious,  or of holding fast; persistence", "S": ["chutzpah ", "courage ", "determination ", "firmness ", "grit ", "guts ", "perseverance ", "persistence ", "spunk ", "steadfastness "], "A": ["cowardice ", "fear ", "idleness ", "indolence ", "timidity ", "weakness ", "indecision ", "question "]}

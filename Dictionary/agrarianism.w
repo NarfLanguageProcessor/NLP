@@ -1,0 +1,1 @@
+{"index": 6436, "D": "a movement for the equal division of landed property and for the promotion of agricultural interests.", "S": [], "A": []}

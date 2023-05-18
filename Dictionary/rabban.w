@@ -1,0 +1,1 @@
+{"index": 259207, "D": "master; teacher (used as a term of address and title of respect for a person ranking higher than a rabbi).", "S": [], "A": []}

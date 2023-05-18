@@ -1,0 +1,1 @@
+{"index": 47221, "D": "a person who has captured a person or thing.", "S": ["holder ", "jailer "], "A": ["deliverer ", "emancipator ", "liberator "]}

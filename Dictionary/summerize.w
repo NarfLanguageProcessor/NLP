@@ -1,0 +1,1 @@
+{"index": 310944, "D": "to prepare (a house, car, etc.) so as to counteract the hot weather of summer", "S": [], "A": []}

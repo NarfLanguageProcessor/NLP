@@ -1,0 +1,1 @@
+{"index": 236040, "D": "a salt or ester of picric acid. ", "S": [], "A": []}

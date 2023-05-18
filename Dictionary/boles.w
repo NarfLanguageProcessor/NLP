@@ -1,0 +1,1 @@
+{"index": 37534, "D": "the stem or trunk of a tree.", "S": ["brick ", "earth ", "mud ", "terra cotta "], "A": []}

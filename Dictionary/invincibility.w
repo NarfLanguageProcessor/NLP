@@ -1,0 +1,1 @@
+{"index": 157238, "D": "incapable of being conquered, defeated, or subdued.", "S": ["boldness ", "courage ", "derring-do ", "determination ", "fearlessness ", "firmness ", "fortitude ", "gallantry ", "grit ", "heroism ", "prowess ", "tenacity "], "A": ["cowardice ", "fear ", "irresolution ", "meekness ", "timidity ", "weakness "]}

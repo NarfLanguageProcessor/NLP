@@ -1,0 +1,1 @@
+{"index": 197683, "D": "to reduce to fine spray; atomize.", "S": [], "A": []}

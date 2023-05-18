@@ -1,0 +1,1 @@
+{"index": 203212, "D": "the act or process of resolving or dissolving  into parts or elements.", "S": [], "A": []}

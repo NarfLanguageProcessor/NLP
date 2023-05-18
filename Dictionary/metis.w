@@ -1,0 +1,1 @@
+{"index": 185327, "D": "a Titaness, the daughter of Oceanus and Tethys and the mother of Athena by Zeus. Zeus swallowed Metis, and Athena was born from his head.", "S": [], "A": []}

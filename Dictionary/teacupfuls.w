@@ -1,0 +1,1 @@
+{"index": 317450, "D": "as much as a teacup  will hold, equal to 4 fluid ounces (113 grams).", "S": [], "A": []}

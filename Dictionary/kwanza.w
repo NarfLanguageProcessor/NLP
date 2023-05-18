@@ -1,0 +1,1 @@
+{"index": 166577, "D": "a paper money, cupronickel coin, and monetary unit of Angola, equal to 100 lwei", "S": [], "A": []}

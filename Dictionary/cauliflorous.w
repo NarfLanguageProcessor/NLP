@@ -1,0 +1,1 @@
+{"index": 49972, "D": "the production of flowers and fruits directly from the branches or trunks of woody or tropical plants.", "S": [], "A": []}

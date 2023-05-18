@@ -1,0 +1,1 @@
+{"index": 228549, "D": "the act of spraying the rink with drops of hot water to slow down the stone", "S": [], "A": []}

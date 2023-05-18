@@ -1,0 +1,1 @@
+{"index": 234806, "D": "any member of the invertebrate phylum Phoronida, wormlike marine animals living in a chitinous tube and having an anterior structure bearing ciliated tentacles for feeding.", "S": [], "A": []}

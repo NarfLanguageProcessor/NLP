@@ -1,0 +1,1 @@
+{"index": 101061, "D": "the act of taking or holding someone as a slave", "S": ["servitude ", "slavery "], "A": ["mastery "]}

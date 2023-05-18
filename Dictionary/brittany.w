@@ -1,0 +1,1 @@
+{"index": 41011, "D": "a region in NW France, on a peninsula between the English Channel and the Bay of Biscay", "S": [], "A": []}

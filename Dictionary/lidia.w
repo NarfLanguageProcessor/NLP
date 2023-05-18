@@ -1,0 +1,1 @@
+{"index": 171789, "D": "(in bullfighting) one section of a corrida, comprising the action that takes place from the entrance of the bull to the time it is killed and dragged from the arena by mules.", "S": [], "A": []}

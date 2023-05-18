@@ -1,0 +1,1 @@
+{"index": 363662, "D": "a strong, woven material of hemp, cotton, or jute, in bands of various widths, used for belts, carrying straps, harness, etc.", "S": ["net ", "network ", "screen "], "A": ["ease ", "order ", "organization ", "simplicity "]}

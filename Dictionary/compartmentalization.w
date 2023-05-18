@@ -1,0 +1,1 @@
+{"index": 64429, "D": "the act or process of dividing something into separate and isolated categories, sections, areas, or compartments", "S": [], "A": []}

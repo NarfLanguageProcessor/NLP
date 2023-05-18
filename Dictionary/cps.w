@@ -1,0 +1,1 @@
+{"index": 71764, "D": "characters per second.", "S": ["CP ", "GHQ ", "base ", "company headquarters ", "field headquarters ", "general headquarters "], "A": []}

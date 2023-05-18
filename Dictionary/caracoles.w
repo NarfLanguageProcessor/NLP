@@ -1,0 +1,1 @@
+{"index": 47290, "D": "a half turn executed by a horse and rider.", "S": ["fool around ", "gambol ", "romp "], "A": []}

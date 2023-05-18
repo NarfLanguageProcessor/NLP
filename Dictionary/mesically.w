@@ -1,0 +1,1 @@
+{"index": 184109, "D": "of, relating to, or adapted to an environment having a balanced supply of moisture.", "S": [], "A": []}

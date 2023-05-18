@@ -1,0 +1,1 @@
+{"index": 24594, "D": "of or belonging to the avant-garde of a specified field", "S": [], "A": []}

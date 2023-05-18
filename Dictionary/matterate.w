@@ -1,0 +1,1 @@
+{"index": 181310, "D": "to fester; suppurate.", "S": [], "A": []}

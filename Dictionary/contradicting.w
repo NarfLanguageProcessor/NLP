@@ -1,0 +1,1 @@
+{"index": 67604, "D": "to assert the contrary or opposite of; deny directly and categorically.", "S": ["belie ", "contravene ", "counter ", "deny ", "differ ", "disprove ", "negate ", "repudiate "], "A": ["admit ", "agree ", "allow ", "approve ", "consent ", "permit ", "prove ", "aid ", "assist ", "go along ", "help ", "support "]}

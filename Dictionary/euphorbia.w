@@ -1,0 +1,1 @@
+{"index": 105655, "D": "any plant of the genus Euphorbia, comprising the spurges.", "S": [], "A": []}

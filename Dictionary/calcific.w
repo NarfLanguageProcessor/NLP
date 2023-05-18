@@ -1,0 +1,1 @@
+{"index": 44869, "D": "making or converting into salt of lime or chalk.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113533, "D": "coming, appearing, acting, etc., in fits  or by spells; recurring irregularly.", "S": ["erratically ", "irregularly ", "restlessly "], "A": []}

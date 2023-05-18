@@ -1,0 +1,1 @@
+{"index": 191119, "D": "the quality of being modest;  freedom from vanity, boastfulness, etc.", "S": ["decency ", "humility ", "propriety ", "purity ", "reticence ", "simplicity ", "virtue "], "A": ["immorality ", "impropriety ", "boldness ", "confidence "]}

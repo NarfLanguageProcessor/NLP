@@ -1,0 +1,1 @@
+{"index": 359481, "D": "food supplies; provisions.", "S": ["conduct ", "continue ", "maintain ", "manage ", "operate ", "protect ", "run ", "support ", "sustain "], "A": ["neglect ", "abandon ", "deprive ", "disregard ", "endanger ", "forget ", "ignore ", "mismanage ", "starve "]}

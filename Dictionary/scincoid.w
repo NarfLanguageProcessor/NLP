@@ -1,0 +1,1 @@
+{"index": 280701, "D": "of, relating to, or resembling a skink.", "S": [], "A": []}

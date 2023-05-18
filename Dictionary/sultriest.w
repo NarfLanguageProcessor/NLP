@@ -1,0 +1,1 @@
+{"index": 310858, "D": "oppressively hot and close or moist; sweltering", "S": ["hot ", "muggy ", "oppressive ", "scorching ", "sizzling ", "soggy ", "sticky ", "stifling ", "sweltering ", "torrid "], "A": ["calm ", "cold ", "cool ", "dry ", "freezing ", "frigid ", "mild "]}

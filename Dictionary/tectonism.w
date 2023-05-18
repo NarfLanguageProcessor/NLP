@@ -1,0 +1,1 @@
+{"index": 317723, "D": "diastrophism (def. 1). ", "S": [], "A": []}

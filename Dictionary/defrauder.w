@@ -1,0 +1,1 @@
+{"index": 79494, "D": "to deprive of a right, money, or property by fraud", "S": ["cheater ", "deceiver ", "grifter ", "scammer ", "shark ", "swindler ", "trickster ", "victimizer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 31147, "D": "a Corinthian hero who, mounted on Pegasus, killed the Chimera.", "S": [], "A": []}

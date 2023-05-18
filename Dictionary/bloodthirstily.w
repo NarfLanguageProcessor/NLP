@@ -1,0 +1,1 @@
+{"index": 36500, "D": "eager to shed blood;  murderous", "S": [], "A": []}

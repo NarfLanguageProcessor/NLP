@@ -1,0 +1,1 @@
+{"index": 72211, "D": "(of a vehicle) resistant to damage and as safe as possible for the occupants in the event of a crash. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94778, "D": "money earned;  wages; profits.", "S": ["bottom line ", "gain ", "income ", "pay ", "proceeds ", "profit ", "return ", "revenue ", "salary "], "A": ["debt ", "loss ", "payment "]}

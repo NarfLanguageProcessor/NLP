@@ -1,0 +1,1 @@
+{"index": 47604, "D": "(in an internal-combustion engine) the process of producing a mixture of air and fuel in the correct proportion for engine combustion.", "S": [], "A": []}

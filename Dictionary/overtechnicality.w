@@ -1,0 +1,1 @@
+{"index": 221537, "D": "technical  character.", "S": [], "A": []}

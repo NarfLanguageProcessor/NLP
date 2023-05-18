@@ -1,0 +1,1 @@
+{"index": 161099, "D": "a person who designs, makes, sells, or repairs jewelry,  watches, etc.; a person who deals in jewels. ", "S": [], "A": []}

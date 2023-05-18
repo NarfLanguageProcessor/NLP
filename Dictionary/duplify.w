@@ -1,0 +1,1 @@
+{"index": 94376, "D": [], "S": ["grow ", "increase "], "A": ["decrease ", "diminish ", "abridge ", "compress ", "condense ", "curtail ", "lessen ", "reduce "]}

@@ -1,0 +1,1 @@
+{"index": 293991, "D": "simple past tense of slay. ", "S": ["avert ", "bend ", "cover up ", "divert ", "hook ", "pivot ", "ricochet ", "slip ", "swerve ", "veer ", "whip "], "A": ["stay ", "straighten "]}

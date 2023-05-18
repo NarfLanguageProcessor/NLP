@@ -1,0 +1,1 @@
+{"index": 239599, "D": "a person who pleads,  especially at law.", "S": ["backer ", "campaigner ", "defender ", "lawyer ", "promoter ", "proponent ", "supporter "], "A": ["opponent "]}

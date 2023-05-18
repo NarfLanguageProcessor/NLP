@@ -1,0 +1,1 @@
+{"index": 337969, "D": "working or acting together willingly for a common purpose or benefit.", "S": [], "A": []}

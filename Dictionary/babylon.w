@@ -1,0 +1,1 @@
+{"index": 25523, "D": "an ancient city of SW Asia, on the Euphrates River, famed for its magnificence and culture", "S": [], "A": []}

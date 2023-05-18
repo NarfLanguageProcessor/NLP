@@ -1,0 +1,1 @@
+{"index": 265552, "D": "a boat race, as of rowboats, yachts, or other vessels.", "S": [], "A": []}

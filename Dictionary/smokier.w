@@ -1,0 +1,1 @@
+{"index": 295020, "D": "emitting smoke,  especially in large amounts.", "S": ["burning ", "dingy ", "silvery ", "smoldering ", "thick "], "A": ["clean ", "clear ", "unpolluted "]}

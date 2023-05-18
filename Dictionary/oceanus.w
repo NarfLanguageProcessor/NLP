@@ -1,0 +1,1 @@
+{"index": 210800, "D": "a Titan who was the son of Uranus and Gaia, the consort of Tethys, and the father of the river gods and Oceanids.", "S": [], "A": []}

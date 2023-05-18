@@ -1,0 +1,1 @@
+{"index": 169567, "D": "any of numerous leaping, homopterous insects of the family Cicadellidae that suck plant juices, many being serious crop pests.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207123, "D": "words or language having little or no sense or meaning.", "S": ["absurdity ", "babble ", "baloney ", "bunk ", "craziness ", "drivel ", "folly ", "foolishness ", "gibberish ", "madness ", "rubbish ", "silliness ", "stupidity ", "trash "], "A": ["judgment ", "sense ", "seriousness ", "wisdom ", "truth "]}

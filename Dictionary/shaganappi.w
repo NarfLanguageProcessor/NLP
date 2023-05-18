@@ -1,0 +1,1 @@
+{"index": 287131, "D": "thongs, straps, or lacings made of rawhide.", "S": [], "A": []}

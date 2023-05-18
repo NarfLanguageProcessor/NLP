@@ -1,0 +1,1 @@
+{"index": 25549, "D": "a person who takes care of a child or children while the parents are out", "S": ["au pair ", "governess "], "A": []}

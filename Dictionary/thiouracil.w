@@ -1,0 +1,1 @@
+{"index": 322038, "D": "a white, slightly water-soluble, bitter, crystalline powder C4H4N2OS, used chiefly in treating hyperthyroidism by reducing the activity of the thyroid gland.", "S": [], "A": []}

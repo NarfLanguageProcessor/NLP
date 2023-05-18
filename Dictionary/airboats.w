@@ -1,0 +1,1 @@
+{"index": 6849, "D": "a small open boat having a very shallow draft and driven by a caged airplane propeller mounted above the rear transom, capable of traveling at relatively high speeds through shallow water, swamps, etc.", "S": [], "A": []}

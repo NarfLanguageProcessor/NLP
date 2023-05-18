@@ -1,0 +1,1 @@
+{"index": 149960, "D": "an instrument for measuring the angle an aircraft makes with the horizontal.", "S": [], "A": []}

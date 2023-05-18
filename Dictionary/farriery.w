@@ -1,0 +1,1 @@
+{"index": 110033, "D": "the art, work, or establishment of a farrier", "S": [], "A": []}

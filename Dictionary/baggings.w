@@ -1,0 +1,1 @@
+{"index": 26308, "D": "woven material, as of hemp or jute, for bags.", "S": [], "A": []}

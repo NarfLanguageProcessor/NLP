@@ -1,0 +1,1 @@
+{"index": 182305, "D": "to come upon; come into the presence of; encounter", "S": [], "A": []}

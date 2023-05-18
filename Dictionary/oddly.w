@@ -1,0 +1,1 @@
+{"index": 211207, "D": "differing in nature from what is ordinary, usual, or expected", "S": ["peculiarly ", "queerly ", "strangely "], "A": []}

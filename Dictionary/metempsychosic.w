@@ -1,0 +1,1 @@
+{"index": 185102, "D": "the transmigration of the soul, especially the passage of the soul after death from a human or animal to some other human or animal body.", "S": [], "A": []}

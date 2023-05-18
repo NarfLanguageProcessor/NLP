@@ -1,0 +1,1 @@
+{"index": 342932, "D": "(of patterns in a foundry mold) linked by gates. ", "S": [], "A": []}

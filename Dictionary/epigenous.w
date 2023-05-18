@@ -1,0 +1,1 @@
+{"index": 102444, "D": "growing on the surface, especially the upper surface, as fungi on leaves.", "S": [], "A": []}

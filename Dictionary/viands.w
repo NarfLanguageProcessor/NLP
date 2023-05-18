@@ -1,0 +1,1 @@
+{"index": 359249, "D": "an article of food.", "S": ["chow ", "eats ", "edibles ", "fare ", "feed ", "grub ", "provisions ", "victuals "], "A": []}

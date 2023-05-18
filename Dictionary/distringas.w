@@ -1,0 +1,1 @@
+{"index": 89940, "D": "(formerly) a writ directing a sheriff to distrain", "S": [], "A": []}

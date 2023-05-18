@@ -1,0 +1,1 @@
+{"index": 184828, "D": "a series of mythological tales or legends in verse (a.d. 7\u20138) by Ovid.", "S": ["mutate ", "transmute "], "A": ["continue ", "keep ", "remain ", "stay "]}

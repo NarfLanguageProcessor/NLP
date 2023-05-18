@@ -1,0 +1,1 @@
+{"index": 107604, "D": "having expectations; expecting", "S": ["alert ", "anticipative ", "anxious ", "apprehensive ", "awaiting ", "breathless ", "eager ", "expecting ", "hopeful ", "hoping ", "in suspense ", "looking for ", "on edge ", "on tenterhooks ", "prepared ", "raring ", "ready ", "vigilant ", "waiting ", "waiting on ", "watchful ", "with bated breath "], "A": []}

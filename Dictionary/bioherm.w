@@ -1,0 +1,1 @@
+{"index": 34398, "D": "a carbonate rock formation, in the form of an ancient reef or hummock, consisting of the fossilized remains of corals, algae, mollusks, and other sedentary marine life, and commonly surrounded by rock of a different lithology.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45559, "D": "the wooden stick used to hit the ball", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 278602, "D": "a province in W Canada. 251,700 sq. mi. (651,900 sq. km). Capital", "S": [], "A": []}

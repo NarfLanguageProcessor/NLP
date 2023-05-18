@@ -1,0 +1,1 @@
+{"index": 122762, "D": "Compare Avestan. ", "S": [], "A": []}

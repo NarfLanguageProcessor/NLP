@@ -1,0 +1,1 @@
+{"index": 72786, "D": "a decorative coping, balustrade, etc., usually designed to give an interesting skyline.", "S": [], "A": []}

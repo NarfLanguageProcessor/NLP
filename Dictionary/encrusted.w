@@ -1,0 +1,1 @@
+{"index": 99534, "D": "to cover or line with a crust or hard coating.", "S": ["coated ", "stuffed "], "A": []}

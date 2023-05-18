@@ -1,0 +1,1 @@
+{"index": 26222, "D": "a game played on a rectangular court by two players or two pairs of players equipped with light rackets used to volley a shuttlecock over a high net that divides the court in half.", "S": [], "A": []}

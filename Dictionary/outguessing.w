@@ -1,0 +1,1 @@
+{"index": 216763, "D": "to anticipate correctly the actions or intentions of; outwit.", "S": ["baffle ", "bamboozle ", "circumvent ", "deceive ", "outdo ", "outfox ", "outmaneuver "], "A": ["aid ", "assist ", "help ", "clear up ", "explain ", "give ", "guard ", "lose ", "protect ", "surrender "]}

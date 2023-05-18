@@ -1,0 +1,1 @@
+{"index": 131635, "D": "showing spirit; plucky; gutsy", "S": ["adventurous ", "bold ", "courageous ", "foolhardy ", "resolute ", "risky "], "A": ["afraid ", "careful ", "cautious ", "cowardly ", "fearful ", "meek ", "timid "]}

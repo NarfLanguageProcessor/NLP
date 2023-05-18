@@ -1,0 +1,1 @@
+{"index": 5975, "D": "to one side; awry.", "S": ["curved ", "curving ", "devious ", "errant ", "gnarled ", "meandering ", "serpentine ", "sinuous ", "twisted ", "twisting ", "winding "], "A": ["straight ", "unbent "]}

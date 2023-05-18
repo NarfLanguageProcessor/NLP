@@ -1,0 +1,1 @@
+{"index": 231958, "D": "a person  of distinction or importance.", "S": ["VIP ", "big shot ", "bigwig ", "brass ", "celeb ", "chief ", "cynosure ", "dignitary ", "distinguished person ", "eminence ", "face ", "hot shot ", "individual ", "luminary ", "monster ", "name ", "public figure ", "somebody ", "star ", "superstar ", "top dog ", "worthy "], "A": ["lowlife "]}

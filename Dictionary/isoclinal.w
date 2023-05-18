@@ -1,0 +1,1 @@
+{"index": 158879, "D": "of or relating to equal direction of inclination; inclining or dipping in the same direction.", "S": [], "A": []}

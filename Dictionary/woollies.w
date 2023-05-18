@@ -1,0 +1,1 @@
+{"index": 367328, "D": "consisting of wool", "S": [], "A": []}

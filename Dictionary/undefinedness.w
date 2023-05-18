@@ -1,0 +1,1 @@
+{"index": 338608, "D": "without fixed limits; indefinite in form, extent, or application", "S": [], "A": []}

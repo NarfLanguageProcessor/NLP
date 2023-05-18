@@ -1,0 +1,1 @@
+{"index": 33927, "D": "of, relating to, or having reference to two lines", "S": [], "A": []}

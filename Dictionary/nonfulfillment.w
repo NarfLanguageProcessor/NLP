@@ -1,0 +1,1 @@
+{"index": 204210, "D": "neglect or failure to fulfill or carry out as required.", "S": ["annoyance ", "dissatisfaction ", "failure ", "grievance ", "irritation ", "resentment "], "A": ["happiness ", "pleasure ", "advance ", "aid ", "assistance ", "blessing ", "boon ", "boost ", "help ", "promotion ", "success ", "support ", "triumph "]}

@@ -1,0 +1,1 @@
+{"index": 300022, "D": "See also meadowsweet (def. 2), hardhack", "S": [], "A": []}

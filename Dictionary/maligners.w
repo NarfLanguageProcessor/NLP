@@ -1,0 +1,1 @@
+{"index": 178469, "D": "to speak harmful untruths about; speak evil of; slander; defame", "S": ["attacker ", "carper ", "caviler ", "censor ", "complainant ", "complainer ", "defamer ", "disparager ", "doubter ", "muckraker ", "nagger ", "quibbler ", "scolder ", "slanderer ", "vilifier ", "worrier ", "zapper "], "A": []}

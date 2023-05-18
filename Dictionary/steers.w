@@ -1,0 +1,1 @@
+{"index": 303482, "D": "to guide the course of (something in motion) by a rudder, helm, wheel, etc.", "S": ["drive ", "escort ", "govern ", "herd ", "shepherd "], "A": []}

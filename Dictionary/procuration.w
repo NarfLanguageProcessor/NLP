@@ -1,0 +1,1 @@
+{"index": 251479, "D": "the act of obtaining or getting; procurement.", "S": ["addition ", "gain ", "procurement ", "purchase ", "recovery "], "A": ["loss ", "failure ", "forfeit ", "surrender "]}

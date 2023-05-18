@@ -1,0 +1,1 @@
+{"index": 113886, "D": "emitting flames; blazing; burning; fiery. ", "S": [], "A": []}

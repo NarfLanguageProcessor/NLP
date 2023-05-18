@@ -1,0 +1,1 @@
+{"index": 17350, "D": "(in sponges) a pore in each of the saclike chambers formed by the evagination of the body wall, through which water passes into the excurrent canals.", "S": [], "A": []}

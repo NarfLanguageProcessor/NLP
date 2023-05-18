@@ -1,0 +1,1 @@
+{"index": 324410, "D": "the extreme top  or summit.", "S": ["edge "], "A": ["base ", "bottom ", "nadir "]}

@@ -1,0 +1,1 @@
+{"index": 229398, "D": "a Basque and Spanish game from which jai alai was developed.", "S": [], "A": []}

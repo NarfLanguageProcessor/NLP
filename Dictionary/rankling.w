@@ -1,0 +1,1 @@
+{"index": 260606, "D": "(of unpleasant feelings, experiences, etc.) to continue to cause keen irritation or bitter resentment within the mind; fester; be painful.", "S": ["annoying ", "disturbing ", "galling ", "irritating ", "upsetting "], "A": ["pleasing ", "soothing "]}

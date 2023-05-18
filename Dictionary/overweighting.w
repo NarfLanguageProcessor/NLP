@@ -1,0 +1,1 @@
+{"index": 221822, "D": "weighing too much or more than is considered normal, proper, etc.", "S": [], "A": []}

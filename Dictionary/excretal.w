@@ -1,0 +1,1 @@
+{"index": 106838, "D": "excreted matter, as urine, feces, or sweat.", "S": [], "A": []}

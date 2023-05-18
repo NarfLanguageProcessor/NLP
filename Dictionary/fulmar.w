@@ -1,0 +1,1 @@
+{"index": 119971, "D": "any of certain oceanic birds of the petrel family, especially Fulmarus glacialis, a gull-like Arctic species.", "S": [], "A": []}

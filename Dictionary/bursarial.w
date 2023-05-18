@@ -1,0 +1,1 @@
+{"index": 43309, "D": "of, relating to, or paid to or by a bursar  or a bursary.", "S": [], "A": []}

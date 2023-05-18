@@ -1,0 +1,1 @@
+{"index": 310899, "D": "a comprehensive and usually brief abstract, recapitulation, or compendium of previously stated facts or statements.", "S": [], "A": []}

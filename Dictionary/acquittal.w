@@ -1,0 +1,1 @@
+{"index": 2764, "D": "the act of acquitting;  discharge.", "S": ["absolution ", "amnesty ", "clearance ", "deliverance ", "discharge ", "dismissal ", "exculpation ", "exemption ", "exoneration ", "freeing ", "liberation ", "pardon ", "release ", "reprieve ", "vindication "], "A": ["employment ", "hiring ", "hold ", "retention "]}

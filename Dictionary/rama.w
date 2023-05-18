@@ -1,0 +1,1 @@
+{"index": 260235, "D": "(in the Ramayana) any of the three avatars of Vishnu", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203760, "D": "not eligible to be released from a particular obligation or liability, as taxation, payment of debts, etc.", "S": [], "A": []}

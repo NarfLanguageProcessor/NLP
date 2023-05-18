@@ -1,0 +1,1 @@
+{"index": 267979, "D": "to pay back or refund, as money.", "S": ["compensation ", "reimbursement ", "reparation ", "restitution ", "restoration "], "A": ["penalty "]}

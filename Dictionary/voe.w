@@ -1,0 +1,1 @@
+{"index": 360947, "D": "(in Orkney and Shetland) a small bay or narrow creek", "S": [], "A": []}

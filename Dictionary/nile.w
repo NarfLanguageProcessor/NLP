@@ -1,0 +1,1 @@
+{"index": 200055, "D": "a river in E Africa, the longest in the world, flowing N from Lake Victoria to the Mediterranean. 3,473 miles (5,592 km) long; from the headwaters of the Kagera River, 4,000 miles (6,440 km) long.", "S": [], "A": []}

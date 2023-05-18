@@ -1,0 +1,1 @@
+{"index": 286960, "D": "to render sexual;  endow with sexual characteristics.", "S": [], "A": []}

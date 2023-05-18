@@ -1,0 +1,1 @@
+{"index": 259771, "D": "radially symmetrical. ", "S": [], "A": []}

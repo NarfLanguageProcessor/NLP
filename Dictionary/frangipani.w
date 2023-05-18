@@ -1,0 +1,1 @@
+{"index": 118354, "D": "a tree or shrub of the genus Plumeria, especially Plumeria rubra, or the flowers from this tree.", "S": [], "A": []}

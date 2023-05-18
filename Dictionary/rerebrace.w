@@ -1,0 +1,1 @@
+{"index": 268932, "D": "Compare vambrace (def. 1). ", "S": [], "A": []}

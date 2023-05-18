@@ -1,0 +1,1 @@
+{"index": 21342, "D": "not sociable or gregarious; withdrawn from society.", "S": ["alienated ", "introverted ", "standoffish "], "A": ["friendly ", "fun-loving ", "participating ", "sociable "]}

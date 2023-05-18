@@ -1,0 +1,1 @@
+{"index": 226418, "D": "an abnormal sensation, as prickling, itching, etc.", "S": ["deadness ", "formication ", "numbness ", "paraesthesia ", "prickling ", "sensation ", "tingle ", "tingling "], "A": []}

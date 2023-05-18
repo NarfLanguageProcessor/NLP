@@ -1,0 +1,1 @@
+{"index": 86775, "D": "serving to direct; directing", "S": ["decree ", "edict ", "injunction ", "mandate ", "memo ", "memorandum ", "message ", "notice ", "order ", "regulation ", "ruling "], "A": ["disorganization ", "lawlessness "]}

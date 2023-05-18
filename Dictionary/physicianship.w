@@ -1,0 +1,1 @@
+{"index": 234072, "D": "the position, function, or office of a physician. ", "S": [], "A": []}

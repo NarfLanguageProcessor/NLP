@@ -1,0 +1,1 @@
+{"index": 246954, "D": "to treat (food) by an artificial process analogous to digestion so that, when taken into the body, it is more easily digestible.", "S": [], "A": []}

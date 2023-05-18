@@ -1,0 +1,1 @@
+{"index": 200875, "D": "being such in name only; so-called; putative", "S": ["ostensible ", "titular "], "A": ["actual ", "important ", "real ", "significant ", "true "]}

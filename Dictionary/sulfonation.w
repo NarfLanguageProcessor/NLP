@@ -1,0 +1,1 @@
+{"index": 310473, "D": "the process of attaching the sulfonic acid group, \u2013SO3H, directly to carbon in an organic compound.", "S": [], "A": []}

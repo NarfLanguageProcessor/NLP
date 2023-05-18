@@ -1,0 +1,1 @@
+{"index": 249516, "D": "a theory or system of social organization that advocates the ownership and control of the means of production and distribution, capital, land, etc., by the community as a whole, usually through a centralized government.", "S": [], "A": []}

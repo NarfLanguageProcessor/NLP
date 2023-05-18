@@ -1,0 +1,1 @@
+{"index": 61799, "D": "Compare anticodon. ", "S": [], "A": []}

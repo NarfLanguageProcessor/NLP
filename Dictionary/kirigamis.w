@@ -1,0 +1,1 @@
+{"index": 165064, "D": "the Japanese art or technique of cutting and folding paper into objects or designs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111881, "D": "a bushy composite plant, Chrysanthemum parthenium, bearing small white flowers, formerly used as a remedy for fever and headache.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188060, "D": "occurring every minute. ", "S": ["firmly ", "hard ", "intently ", "intimately ", "jointly ", "meticulously ", "scrupulously ", "sharply ", "strictly ", "thoughtfully "], "A": []}

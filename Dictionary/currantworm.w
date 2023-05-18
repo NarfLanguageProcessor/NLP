@@ -1,0 +1,1 @@
+{"index": 75398, "D": "the larva of any of several insects, as a sawfly, Nematus ribesii(imported currantworm ), which infests and feeds on the leaves and fruit of currants. ", "S": [], "A": []}

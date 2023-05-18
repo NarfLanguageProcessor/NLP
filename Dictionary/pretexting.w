@@ -1,0 +1,1 @@
+{"index": 249967, "D": "the practice of deceiving individuals into surrendering personal information for fraudulent purposes", "S": ["camouflage ", "conceal ", "dress up ", "obscure ", "shroud ", "veil "], "A": ["reveal ", "show ", "uncover ", "lay bare ", "open ", "unmask "]}

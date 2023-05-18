@@ -1,0 +1,1 @@
+{"index": 295564, "D": "a snooperscope designed for attaching to a rifle or carbine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 147614, "D": "a theory or practice of a group of poets in England and America between 1909 and 1917 who believed that poetry should employ the language of common speech, create new rhythms, have complete freedom in subject matter, and present a clear, concentrated, and precise image. ", "S": [], "A": []}

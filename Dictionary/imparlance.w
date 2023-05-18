@@ -1,0 +1,1 @@
+{"index": 148292, "D": "an extension of time granted to one party in a lawsuit to plead or to settle the dispute amicably.", "S": [], "A": []}

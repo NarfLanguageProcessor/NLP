@@ -1,0 +1,1 @@
+{"index": 114965, "D": "a cheap, run-down hotel or rooming house. ", "S": ["fleabag "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160601, "D": "a short journey, especially one taken for pleasure.", "S": ["fly ", "proceed ", "ramble ", "roam ", "traverse ", "trek ", "wander ", "wend "], "A": ["stay ", "break "]}

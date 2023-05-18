@@ -1,0 +1,1 @@
+{"index": 16575, "D": "a verb tense, as in Classical Greek, expressing action or, in the indicative mood, past action, without further limitation or implication.", "S": [], "A": []}

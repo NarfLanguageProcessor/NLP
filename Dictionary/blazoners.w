@@ -1,0 +1,1 @@
+{"index": 35928, "D": "to set forth conspicuously or publicly; display; proclaim", "S": [], "A": []}

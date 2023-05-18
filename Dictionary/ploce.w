@@ -1,0 +1,1 @@
+{"index": 240160, "D": "the repetition of a word or phrase to gain special emphasis or to indicate an extension of meaning, as in Exodus 3", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132083, "D": "any substance, esp an antibody, that causes the breakdown of red blood cells", "S": [], "A": []}

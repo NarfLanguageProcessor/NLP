@@ -1,0 +1,1 @@
+{"index": 295849, "D": "an implement or vehicle for clearing away snow", "S": [], "A": []}

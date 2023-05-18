@@ -1,0 +1,1 @@
+{"index": 361317, "D": "to eject the contents of the stomach through the mouth; regurgitate; throw up.", "S": [], "A": []}

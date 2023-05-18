@@ -1,0 +1,1 @@
+{"index": 29568, "D": "a buckthorn, Rhamnus purshiana, the bark of which yields the drug cascara sagrada.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272693, "D": "the quality of being worthy of ridicule  or derision; absurd, laughable, or preposterous character", "S": [], "A": []}

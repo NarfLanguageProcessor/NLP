@@ -1,0 +1,1 @@
+{"index": 98355, "D": "to moisten and rub with a liniment or lotion.", "S": ["bless "], "A": []}

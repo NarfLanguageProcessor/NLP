@@ -1,0 +1,1 @@
+{"index": 6406, "D": "any of several short-haired, short-eared, rabbitlike rodents of the genus Dasyprocta, of South and Central America and the West Indies, destructive to sugarcane.", "S": [], "A": []}

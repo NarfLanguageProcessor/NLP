@@ -1,0 +1,1 @@
+{"index": 319276, "D": "(of animals, esp insects) having a boring or penetrating organ, such as a sting", "S": [], "A": []}

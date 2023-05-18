@@ -1,0 +1,1 @@
+{"index": 6854, "D": "an instrument for cutting tooth structure by means of a stream of abrasive  particles under gas or air pressure. ", "S": [], "A": []}

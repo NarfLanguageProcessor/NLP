@@ -1,0 +1,1 @@
+{"index": 31765, "D": "of, relating to, or similar to benzene,  especially with respect to structure.", "S": [], "A": []}

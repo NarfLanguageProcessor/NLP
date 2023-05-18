@@ -1,0 +1,1 @@
+{"index": 301767, "D": "easily squashed;  pulpy.", "S": ["cushiony ", "cushy ", "doughy ", "downy ", "flabby ", "fleshy ", "gelatinous ", "mushy ", "pappy ", "pulpous ", "pulpy ", "quaggy ", "spongy ", "squishy ", "yielding "], "A": []}

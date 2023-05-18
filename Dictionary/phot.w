@@ -1,0 +1,1 @@
+{"index": 234956, "D": "a unit of illumination, equal to 1 lumen per square centimeter. Abbreviation", "S": [], "A": []}

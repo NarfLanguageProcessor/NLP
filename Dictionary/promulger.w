@@ -1,0 +1,1 @@
+{"index": 252373, "D": "to promulgate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17258, "D": "containing an apology  or excuse for a fault, failure, insult, injury, etc.", "S": ["conciliatory ", "contrite ", "regretful ", "remorseful ", "repentant ", "sorry "], "A": ["happy ", "unrepentant "]}

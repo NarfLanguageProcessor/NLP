@@ -1,0 +1,1 @@
+{"index": 179022, "D": "the bone of the lower jaw.", "S": ["snout "], "A": []}

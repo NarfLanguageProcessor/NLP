@@ -1,0 +1,1 @@
+{"index": 245925, "D": "to solicit votes, subscriptions, opinions, or the like from.", "S": [], "A": []}

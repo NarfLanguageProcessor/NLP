@@ -1,0 +1,1 @@
+{"index": 39496, "D": "belonging or pertaining to the suborder Brachyura, comprising the true crabs.", "S": [], "A": []}

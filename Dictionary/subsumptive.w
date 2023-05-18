@@ -1,0 +1,1 @@
+{"index": 309399, "D": "an act of subsuming. ", "S": [], "A": []}

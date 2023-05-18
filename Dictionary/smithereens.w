@@ -1,0 +1,1 @@
+{"index": 294941, "D": "small pieces; bits", "S": ["bit ", "chunk ", "hunk ", "lump ", "particle ", "piece ", "portion ", "remnant ", "scrap ", "shred ", "sliver "], "A": ["lot ", "whole "]}

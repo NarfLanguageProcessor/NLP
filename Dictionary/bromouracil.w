@@ -1,0 +1,1 @@
+{"index": 41341, "D": "a uracil  derivative, C4H3N2O2Br, that pairs with adenine and sometimes with guanine during phage and bacterial DNA synthesis.", "S": [], "A": []}

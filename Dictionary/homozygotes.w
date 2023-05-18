@@ -1,0 +1,1 @@
+{"index": 143296, "D": "an organism with identical pairs of genes with respect to any given pair of hereditary characters, and therefore breeding true for that character.", "S": [], "A": []}

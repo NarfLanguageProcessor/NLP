@@ -1,0 +1,1 @@
+{"index": 143247, "D": "having the spores  of one kind only.", "S": [], "A": []}

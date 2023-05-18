@@ -1,0 +1,1 @@
+{"index": 212780, "D": "inflammation of the matrix of the nail.", "S": [], "A": []}

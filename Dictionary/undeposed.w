@@ -1,0 +1,1 @@
+{"index": 338773, "D": "removed from high office or position", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 324008, "D": "someone, especially a gambler, who pretends to be important but actually has little money, influence, or skill.", "S": [], "A": []}

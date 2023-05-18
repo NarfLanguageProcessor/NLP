@@ -1,0 +1,1 @@
+{"index": 50804, "D": "one of a race of creatures having the head, trunk, and arms of a man, and the body and legs of a horse.", "S": [], "A": []}

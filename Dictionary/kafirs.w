@@ -1,0 +1,1 @@
+{"index": 162725, "D": "a member of an Indo-European people of Nuristan.", "S": [], "A": []}

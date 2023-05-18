@@ -1,0 +1,1 @@
+{"index": 29414, "D": "a woman who prays for another person as a duty, especially when paid.", "S": [], "A": []}

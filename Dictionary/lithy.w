@@ -1,0 +1,1 @@
+{"index": 173634, "D": "lithe; supple; flexible.", "S": [], "A": []}

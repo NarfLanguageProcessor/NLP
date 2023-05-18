@@ -1,0 +1,1 @@
+{"index": 59084, "D": "French motion-picture director and writer.", "S": [], "A": []}

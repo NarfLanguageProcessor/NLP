@@ -1,0 +1,1 @@
+{"index": 145188, "D": "a person who hunts  game or other wild animals for food or in sport.", "S": [], "A": []}

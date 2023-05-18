@@ -1,0 +1,1 @@
+{"index": 46938, "D": "of or relating to the Capitoline or to the ancient temple of Jupiter that stood on this hill.", "S": [], "A": []}

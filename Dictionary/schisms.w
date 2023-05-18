@@ -1,0 +1,1 @@
+{"index": 280169, "D": "division or disunion, especially into mutually opposed parties.", "S": ["alienation ", "breakup ", "disagreement ", "discord ", "dissension ", "fissure ", "rift ", "rupture "], "A": ["agreement ", "closing ", "closure ", "harmony ", "peace ", "accord ", "conformity ", "juncture ", "marriage ", "unity ", "whole "]}

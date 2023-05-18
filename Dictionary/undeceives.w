@@ -1,0 +1,1 @@
+{"index": 338460, "D": "to free from deception, fallacy, or mistake.", "S": [], "A": []}

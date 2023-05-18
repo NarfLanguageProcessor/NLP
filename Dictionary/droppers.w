@@ -1,0 +1,1 @@
+{"index": 93366, "D": "the amount held or dispensed by such a tube", "S": ["butcher ", "eliminator ", "enforcer ", "executioner ", "gun ", "killer ", "liquidator ", "plugger ", "slayer ", "torpedo "], "A": ["victim "]}

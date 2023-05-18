@@ -1,0 +1,1 @@
+{"index": 364240, "D": "moving, directed, or situated toward the west", "S": [], "A": []}

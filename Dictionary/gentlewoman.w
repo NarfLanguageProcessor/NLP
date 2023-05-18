@@ -1,0 +1,1 @@
+{"index": 123746, "D": "a woman  of good family, breeding, or social position", "S": ["aristocrat ", "lady ", "peeress "], "A": []}

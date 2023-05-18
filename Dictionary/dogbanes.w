@@ -1,0 +1,1 @@
+{"index": 90845, "D": "any of several plants of the genus Apocynum, especially A. androsaemifolium, yielding an acrid milky juice and having an intensely bitter root.", "S": [], "A": []}

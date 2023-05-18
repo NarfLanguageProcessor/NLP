@@ -1,0 +1,1 @@
+{"index": 191218, "D": "to move  on, depart, or decamp (usually followed by off or on).", "S": [], "A": []}

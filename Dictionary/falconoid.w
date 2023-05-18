@@ -1,0 +1,1 @@
+{"index": 109438, "D": "any of several birds of prey of the family Falconidae, especially of the genus Falco, usually distinguished by long, pointed wings, a hooked beak with a toothlike notch on each side of the upper bill, and swift, agile flight, typically diving to seize prey", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104519, "D": [], "S": ["character ", "entity ", "essence ", "essentiality ", "individuality ", "marrow ", "personality ", "quintessence ", "self ", "soul ", "spirit ", "substance ", "texture "], "A": ["abstract ", "deadness ", "inanimate "]}

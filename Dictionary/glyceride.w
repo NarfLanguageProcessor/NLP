@@ -1,0 +1,1 @@
+{"index": 126194, "D": "any of a group of esters obtained from glycerol by the replacement of one, two, or three hydroxyl groups with a fatty acid", "S": [], "A": []}

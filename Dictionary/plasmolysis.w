@@ -1,0 +1,1 @@
+{"index": 239197, "D": "contraction of the protoplasm in a living cell when water is removed by exosmosis.", "S": [], "A": []}

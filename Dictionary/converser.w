@@ -1,0 +1,1 @@
+{"index": 68034, "D": "to talk informally with another or others; exchange views, opinions, etc., by talking.", "S": [], "A": []}

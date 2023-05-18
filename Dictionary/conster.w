@@ -1,0 +1,1 @@
+{"index": 67029, "D": "an obsolete variant of construe. ", "S": [], "A": []}

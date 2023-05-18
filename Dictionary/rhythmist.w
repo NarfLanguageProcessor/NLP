@@ -1,0 +1,1 @@
+{"index": 272149, "D": "a person versed in or having a fine sense of rhythm. ", "S": [], "A": []}

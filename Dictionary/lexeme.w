@@ -1,0 +1,1 @@
+{"index": 171327, "D": "a lexical unit in a language, as a word or base; vocabulary item.", "S": ["concept ", "expression ", "name ", "phrase ", "sound ", "term "], "A": ["breach ", "break ", "question ", "silence "]}

@@ -1,0 +1,1 @@
+{"index": 146003, "D": "a disturbance, especially a vibration or series of vibrations, caused by the breaking up of large ice  masses.", "S": [], "A": []}

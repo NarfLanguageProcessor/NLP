@@ -1,0 +1,1 @@
+{"index": 122108, "D": "any evergreen tree or shrub belonging to the genus Gardenia, of the madder family, native to the warmer parts of the Eastern Hemisphere, cultivated for its usually large, fragrant white flowers.", "S": [], "A": []}

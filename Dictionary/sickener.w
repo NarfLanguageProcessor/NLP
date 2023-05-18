@@ -1,0 +1,1 @@
+{"index": 289617, "D": "something that sickens  or disgusts.", "S": [], "A": []}

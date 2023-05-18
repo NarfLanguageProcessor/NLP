@@ -1,0 +1,1 @@
+{"index": 352007, "D": "having a stem  or a specified kind of stem  (often used in combination)", "S": [], "A": []}

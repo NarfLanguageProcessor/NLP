@@ -1,0 +1,1 @@
+{"index": 93445, "D": "simple past tense of drive. ", "S": ["collection ", "company ", "crowd ", "crush ", "drive ", "flock ", "herd ", "horde ", "mob ", "multitude ", "pack ", "press ", "rout ", "run ", "swarm ", "throng "], "A": []}

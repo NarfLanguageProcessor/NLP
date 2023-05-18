@@ -1,0 +1,1 @@
+{"index": 355627, "D": "a canton in central Switzerland. 415 sq. mi. (1,075 sq. km). Capital", "S": [], "A": []}

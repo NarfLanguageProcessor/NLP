@@ -1,0 +1,1 @@
+{"index": 195682, "D": "of the nature of or involving murder", "S": ["barbarity ", "bloodthirstiness ", "brutality ", "cruelty ", "ferociousness ", "savagery ", "viciousness ", "violence ", "wildness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232124, "D": "having a tendency to perturb; disturbing.", "S": [], "A": []}

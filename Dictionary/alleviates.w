@@ -1,0 +1,1 @@
+{"index": 8684, "D": "to make easier to endure; lessen; mitigate", "S": ["allay ", "assuage ", "ease ", "mitigate "], "A": ["increase ", "intensify ", "irritate ", "worsen ", "agitate ", "depress ", "incite ", "upset "]}

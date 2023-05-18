@@ -1,0 +1,1 @@
+{"index": 123040, "D": "a combination of gears  that mesh to provide a particular gear ratio. ", "S": [], "A": []}

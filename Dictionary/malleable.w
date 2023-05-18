@@ -1,0 +1,1 @@
+{"index": 178526, "D": "capable of being extended or shaped by hammering or by pressure from rollers.", "S": ["adaptable ", "flexible ", "supple ", "workable "], "A": ["inflexible ", "rigid ", "stiff ", "unadaptable "]}

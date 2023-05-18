@@ -1,0 +1,1 @@
+{"index": 70917, "D": "a mine  intended to intercept or destroy an enemy mine.", "S": [], "A": []}

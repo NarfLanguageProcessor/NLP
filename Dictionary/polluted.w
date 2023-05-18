@@ -1,0 +1,1 @@
+{"index": 242755, "D": [], "S": ["attenuated ", "blended ", "contaminated ", "corrupt ", "defiled ", "degraded ", "depreciated ", "deteriorated ", "devalued ", "diluted ", "dissolved ", "impaired ", "mixed ", "tainted ", "thinned ", "vitiated ", "weakened "], "A": ["clean ", "honorable ", "pure ", "purified ", "strong "]}

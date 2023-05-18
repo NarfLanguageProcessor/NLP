@@ -1,0 +1,1 @@
+{"index": 266763, "D": "any theory holding that criteria of judgment are relative,  varying with individuals and their environments.", "S": [], "A": []}

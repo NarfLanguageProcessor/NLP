@@ -1,0 +1,1 @@
+{"index": 266265, "D": "the revitalization of an industry or industrial society through government aid and tax incentives, modernization of factories and machinery, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353620, "D": "(of a person or animal) not having been inoculated with a vaccine", "S": [], "A": []}

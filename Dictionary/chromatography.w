@@ -1,0 +1,1 @@
+{"index": 56220, "D": "the separation of mixtures into their constituents by preferential adsorption by a solid, as a column of silica (column chromatography ) or a strip of filter paper (paper chromatography ), or by a liquid.", "S": [], "A": []}

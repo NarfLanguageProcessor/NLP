@@ -1,0 +1,1 @@
+{"index": 127210, "D": "a person who tends goats. ", "S": ["herder ", "rancher "], "A": []}

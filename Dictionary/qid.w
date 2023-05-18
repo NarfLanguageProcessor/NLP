@@ -1,0 +1,1 @@
+{"index": 257420, "D": "(in prescriptions) four times a day.", "S": [], "A": []}

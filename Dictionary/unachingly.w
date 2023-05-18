@@ -1,0 +1,1 @@
+{"index": 334496, "D": "causing physical pain or distress", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 251950, "D": "the principles and practices of progressives. ", "S": ["left-winger ", "leftist ", "liberal ", "progressive ", "radical "], "A": ["conservative ", "right wing "]}

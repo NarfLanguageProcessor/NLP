@@ -1,0 +1,1 @@
+{"index": 92394, "D": "a hymn or form of words containing an ascription of praise to God.", "S": [], "A": []}

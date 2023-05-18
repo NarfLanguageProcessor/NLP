@@ -1,0 +1,1 @@
+{"index": 115022, "D": "any of a class of roses characterized by a long blooming period and the production of large flowers often in thick clusters.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262048, "D": "a group of persons or things gathered or collected; an assembly; collection; aggregate.", "S": [], "A": []}

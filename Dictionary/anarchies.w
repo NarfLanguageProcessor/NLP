@@ -1,0 +1,1 @@
+{"index": 11961, "D": "a state of society without government or law.", "S": ["chaos ", "confusion ", "disorder ", "disorganization ", "lawlessness ", "nihilism ", "riot ", "turmoil "], "A": ["calm ", "harmony ", "order ", "peace ", "method ", "organization ", "system "]}

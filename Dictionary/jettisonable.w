@@ -1,0 +1,1 @@
+{"index": 161070, "D": "to cast (goods) overboard in order to lighten a vessel or aircraft or to improve its stability in an emergency.", "S": [], "A": []}

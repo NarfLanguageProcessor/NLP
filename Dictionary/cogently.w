@@ -1,0 +1,1 @@
+{"index": 62209, "D": "convincing or believable by virtue of forcible, clear, or incisive presentation; telling.", "S": ["adequately ", "completely ", "definitely ", "dramatically ", "energetically ", "finally ", "forcefully ", "productively "], "A": ["doubtfully ", "dubiously "]}

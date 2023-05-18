@@ -1,0 +1,1 @@
+{"index": 13459, "D": "a rocky, scenic peninsula in northeastern Massachusetts, extending into the Atlantic Ocean.", "S": [], "A": []}

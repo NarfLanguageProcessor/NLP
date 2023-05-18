@@ -1,0 +1,1 @@
+{"index": 274911, "D": "to bring out of a state of sleep, unconsciousness, inactivity, fancied security, apathy, depression, etc.", "S": ["arouse ", "awake ", "awaken ", "get up ", "stir ", "wake up "], "A": ["calm ", "deaden ", "go to sleep ", "lull ", "decrease ", "drop ", "ignore ", "lessen ", "lower ", "stop "]}

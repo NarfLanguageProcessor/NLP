@@ -1,0 +1,1 @@
+{"index": 61325, "D": "(of plants) bearing berries", "S": [], "A": []}

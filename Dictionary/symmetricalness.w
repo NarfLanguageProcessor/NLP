@@ -1,0 +1,1 @@
+{"index": 290875, "D": "characterized by or exhibiting symmetry; well-proportioned, as a body or whole; regular in form or arrangement of corresponding parts.", "S": [], "A": []}

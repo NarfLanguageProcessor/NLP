@@ -1,0 +1,1 @@
+{"index": 102608, "D": "a rear vestibule, as of a classical temple.", "S": [], "A": []}

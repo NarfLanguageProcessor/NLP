@@ -1,0 +1,1 @@
+{"index": 166759, "D": "productive activity, especially for the sake of economic gain.", "S": ["activity ", "employment ", "energy ", "industry ", "job "], "A": ["idleness ", "inactivity ", "indolence ", "laziness ", "lethargy ", "unemployment ", "entertainment ", "indifference "]}

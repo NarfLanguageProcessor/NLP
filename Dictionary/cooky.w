@@ -1,0 +1,1 @@
+{"index": 68236, "D": "a small, usually round and flat cake, the size of an individual portion, made from stiff, sweetened dough, and baked.", "S": [], "A": []}

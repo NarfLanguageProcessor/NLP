@@ -1,0 +1,1 @@
+{"index": 29315, "D": "a size of shot, 0.18 inch (0.46 centimeter) in diameter, fired from an air rifle or BB gun.", "S": ["free base ", "free ride ", "free ticket ", "intentional walk ", "pass ", "walk "], "A": []}

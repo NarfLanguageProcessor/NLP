@@ -1,0 +1,1 @@
+{"index": 300065, "D": "a small spire,  as on a turret.", "S": [], "A": []}

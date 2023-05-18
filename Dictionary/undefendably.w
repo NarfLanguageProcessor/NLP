@@ -1,0 +1,1 @@
+{"index": 338573, "D": "to ward off attack from; guard against assault or injury (usually followed by from or against)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362169, "D": "(in the Holy Roman Empire) an officer having jurisdiction over a royal forest.", "S": [], "A": []}

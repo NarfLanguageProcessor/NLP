@@ -1,0 +1,1 @@
+{"index": 42942, "D": "the power to float or rise in a fluid; relative lightness.", "S": ["elasticity ", "resilience "], "A": ["depression "]}

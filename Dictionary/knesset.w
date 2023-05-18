@@ -1,0 +1,1 @@
+{"index": 165516, "D": "the unicameral parliament of Israel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192516, "D": "a musical style employing a single melodic line without accompaniment.", "S": [], "A": []}

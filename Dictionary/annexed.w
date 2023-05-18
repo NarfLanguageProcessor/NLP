@@ -1,0 +1,1 @@
+{"index": 13525, "D": "attached or added, especially to something larger or more important", "S": ["captured "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 87505, "D": "disturbing to one's composure or self-possession; upsetting, discomfiting.", "S": ["baffling ", "bewildering ", "complex ", "complicated ", "confounding ", "difficult ", "perplexing ", "upsetting "], "A": ["clear ", "easy ", "plain ", "simple "]}

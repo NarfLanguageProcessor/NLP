@@ -1,0 +1,1 @@
+{"index": 63869, "D": "the commanding officer  of a place, group, etc.", "S": ["administrator ", "captain ", "chief ", "director ", "head ", "officer ", "ruler "], "A": ["employee ", "worker "]}

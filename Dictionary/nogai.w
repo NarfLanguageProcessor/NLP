@@ -1,0 +1,1 @@
+{"index": 200751, "D": "a member of a people living in the Caucasus region.", "S": [], "A": []}

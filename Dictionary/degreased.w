@@ -1,0 +1,1 @@
+{"index": 79641, "D": "to remove grease,  oil, or the like, from, especially by treating with a chemical.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252380, "D": "(in a classical temple) an open vestibule before the cella.", "S": [], "A": []}

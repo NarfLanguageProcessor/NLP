@@ -1,0 +1,1 @@
+{"index": 55170, "D": "a white to light-tan, crystalline, water-soluble solid, C6H3Cl(OH)2, used chiefly in organic synthesis and as a developer in photography.", "S": [], "A": []}

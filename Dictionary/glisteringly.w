@@ -1,0 +1,1 @@
+{"index": 126429, "D": "to glisten; glitter.", "S": [], "A": []}

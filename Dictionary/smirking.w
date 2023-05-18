@@ -1,0 +1,1 @@
+{"index": 294916, "D": "to smile in an affected, smug, or offensively familiar way.", "S": ["eye ", "eyeball ", "gloat ", "goggle ", "ogle ", "smirk ", "sneer ", "squint ", "stare ", "wink "], "A": []}

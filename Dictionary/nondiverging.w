@@ -1,0 +1,1 @@
+{"index": 203247, "D": "to move, lie, or extend in different directions from a common point; branch off.", "S": [], "A": []}

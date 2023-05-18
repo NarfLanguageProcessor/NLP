@@ -1,0 +1,1 @@
+{"index": 192690, "D": "(of parts) forming one row", "S": [], "A": []}

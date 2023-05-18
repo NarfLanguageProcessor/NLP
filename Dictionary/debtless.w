@@ -1,0 +1,1 @@
+{"index": 77854, "D": "something that is owed or that one is bound to pay to or perform for another", "S": [], "A": []}

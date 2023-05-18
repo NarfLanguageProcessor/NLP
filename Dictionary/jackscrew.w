@@ -1,0 +1,1 @@
+{"index": 159952, "D": "a jack  for lifting, consisting of a screw  steadied by a threaded support and carrying a plate or other part bearing the load.", "S": [], "A": []}

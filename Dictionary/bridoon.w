@@ -1,0 +1,1 @@
+{"index": 40711, "D": "a snaffle when used with a curb on a full bridle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176747, "D": "an opening in the floor between the corbels of a projecting gallery or parapet, as on a wall or in the vault of a passage, through which missiles, molten lead, etc., might be cast upon an enemy beneath.", "S": [], "A": []}

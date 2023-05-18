@@ -1,0 +1,1 @@
+{"index": 64548, "D": "the act of competing;  rivalry for supremacy, a prize, etc.", "S": ["championship ", "clash ", "event ", "fight ", "game ", "match ", "meeting ", "race ", "rivalry ", "sport ", "struggle ", "tournament ", "trial "], "A": ["peace ", "accord ", "agreement ", "harmony ", "surrender ", "sympathy "]}

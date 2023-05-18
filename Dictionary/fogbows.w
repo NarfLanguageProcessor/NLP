@@ -1,0 +1,1 @@
+{"index": 115750, "D": "a bow, arc, or circle of white or yellowish hue seen in or against a fog bank;  a rainbow  formed by fog  droplets.", "S": [], "A": []}

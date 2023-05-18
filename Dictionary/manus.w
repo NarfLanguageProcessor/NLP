@@ -1,0 +1,1 @@
+{"index": 179687, "D": "the distal segment of the forelimb of a vertebrate, including the carpus and the forefoot or hand.", "S": ["fingernail ", "paw ", "tentacle "], "A": []}

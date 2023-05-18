@@ -1,0 +1,1 @@
+{"index": 233298, "D": "a yellow, crystalline, slightly water-soluble solid, C12H8N2, used in organic synthesis chiefly in the manufacture of dyes.", "S": [], "A": []}

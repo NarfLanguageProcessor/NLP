@@ -1,0 +1,1 @@
+{"index": 238925, "D": "of, relating to, or resembling a planet  or the planets. ", "S": [], "A": []}

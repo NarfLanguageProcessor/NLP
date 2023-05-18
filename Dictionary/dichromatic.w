@@ -1,0 +1,1 @@
+{"index": 84839, "D": "having or showing two colors; dichromic.", "S": [], "A": []}

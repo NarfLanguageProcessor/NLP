@@ -1,0 +1,1 @@
+{"index": 103330, "D": "the equal division of the energy of a system in thermal equilibrium between different degrees of freedom. This principle was assumed to be exact in classical physics, but quantum theory shows that it is true only in certain special cases", "S": [], "A": []}

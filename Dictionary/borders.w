@@ -1,0 +1,1 @@
+{"index": 38387, "D": "a region in SE Scotland. 1,804 sq. mi. (4,671 sq. km).", "S": ["bounds ", "environs ", "purview "], "A": ["center ", "inside ", "interior ", "middle "]}

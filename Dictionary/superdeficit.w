@@ -1,0 +1,1 @@
+{"index": 311636, "D": "the amount by which a sum of money falls short of the required amount.", "S": [], "A": []}

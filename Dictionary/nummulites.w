@@ -1,0 +1,1 @@
+{"index": 209614, "D": "a fossil foraminifer of the genus Camerina (Nummulites), having a calcareous, usually disklike shell.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 130001, "D": "a person or thing that grips. ", "S": [], "A": []}

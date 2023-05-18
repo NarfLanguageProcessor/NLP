@@ -1,0 +1,1 @@
+{"index": 348533, "D": "extraordinary in size, amount, extent, degree, force, etc.", "S": [], "A": []}

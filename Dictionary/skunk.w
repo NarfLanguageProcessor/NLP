@@ -1,0 +1,1 @@
+{"index": 293506, "D": "a small North American mammal, Mephitis mephitis, of the weasel family, having a black coat with a white, V-shaped stripe on the back, and ejecting a fetid odor when alarmed or attacked.", "S": ["cheat ", "knave ", "scoundrel ", "stinker "], "A": []}

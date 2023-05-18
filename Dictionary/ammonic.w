@@ -1,0 +1,1 @@
+{"index": 10763, "D": "of or relating to ammonia  or ammonium. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340170, "D": "to mark or point out; indicate; show; specify.", "S": ["nameless ", "undisclosed ", "unidentified ", "unnamed ", "unsigned "], "A": ["known ", "named "]}

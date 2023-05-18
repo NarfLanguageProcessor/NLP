@@ -1,0 +1,1 @@
+{"index": 278246, "D": "(of animals or plants) feeding on dead organic matter", "S": [], "A": []}

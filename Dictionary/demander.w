@@ -1,0 +1,1 @@
+{"index": 80354, "D": "to ask for with proper authority; claim as a right", "S": [], "A": []}

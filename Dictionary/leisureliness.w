@@ -1,0 +1,1 @@
+{"index": 170287, "D": "acting, proceeding, or done without haste; unhurried; deliberate", "S": ["apathy ", "inertia ", "lethargy ", "negligence ", "sloth ", "weariness "], "A": ["activity ", "life ", "liveliness ", "action "]}

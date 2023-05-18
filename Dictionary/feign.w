@@ -1,0 +1,1 @@
+{"index": 110926, "D": "to represent fictitiously; put on an appearance of", "S": ["act ", "affect ", "assume ", "bluff ", "counterfeit ", "devise ", "dissemble ", "dissimulate ", "fabricate ", "fake ", "forge ", "imagine ", "imitate ", "invent ", "play ", "sham ", "simulate ", "stonewall "], "A": ["tell the truth "]}

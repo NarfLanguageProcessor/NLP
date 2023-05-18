@@ -1,0 +1,1 @@
+{"index": 353181, "D": "easily managed or controlled; docile; yielding", "S": [], "A": []}

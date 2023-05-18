@@ -1,0 +1,1 @@
+{"index": 252426, "D": "pertaining to, resembling, derived from, or containing a pronoun", "S": [], "A": []}

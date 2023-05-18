@@ -1,0 +1,1 @@
+{"index": 173579, "D": "in accordance with, involving, or being the primary or strict meaning of the word or words; not figurative or metaphorical", "S": [], "A": []}

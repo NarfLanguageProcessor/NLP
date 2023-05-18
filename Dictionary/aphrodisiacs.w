@@ -1,0 +1,1 @@
+{"index": 16913, "D": "arousing sexual desire.", "S": ["popper ", "turnon "], "A": []}

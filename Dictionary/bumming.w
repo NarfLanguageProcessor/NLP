@@ -1,0 +1,1 @@
+{"index": 42746, "D": "a person who avoids work and sponges on others; loafer; idler. ", "S": ["leeching ", "sponging "], "A": []}

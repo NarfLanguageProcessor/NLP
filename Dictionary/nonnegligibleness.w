@@ -1,0 +1,1 @@
+{"index": 205472, "D": "so small, trifling, or unimportant that it may safely be neglected or disregarded", "S": [], "A": []}

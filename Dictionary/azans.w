@@ -1,0 +1,1 @@
+{"index": 25228, "D": "(in Islamic countries) the call to prayer proclaimed five times a day by the muezzin.", "S": [], "A": []}

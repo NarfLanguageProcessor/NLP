@@ -1,0 +1,1 @@
+{"index": 240070, "D": "a fold or folding.", "S": [], "A": []}

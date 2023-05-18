@@ -1,0 +1,1 @@
+{"index": 227416, "D": "a mixture of flour and water, often with starch or the like, used for causing paper or other material to adhere to something.", "S": ["cement ", "fasten ", "fix ", "gum ", "mucilage ", "patch ", "plaster ", "spit ", "stick "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126230, "D": "a poisonous crystalline compound, C8H9NO3, used as a photographic developer.", "S": [], "A": []}

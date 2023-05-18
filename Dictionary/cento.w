@@ -1,0 +1,1 @@
+{"index": 50909, "D": "a piece of writing, especially a poem, composed wholly of quotations from the works of other authors.", "S": ["Fescennine verse ", "Hudibrastic verse ", "macaronicism ", "macaronics "], "A": []}

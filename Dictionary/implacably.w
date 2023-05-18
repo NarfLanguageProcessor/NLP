@@ -1,0 +1,1 @@
+{"index": 148726, "D": "not to be appeased, mollified, or pacified; inexorable", "S": [], "A": []}

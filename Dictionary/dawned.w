@@ -1,0 +1,1 @@
+{"index": 77346, "D": "the first appearance of daylight in the morning", "S": ["loom ", "unfold "], "A": ["close ", "conclude ", "decrease ", "disappear ", "end ", "finish ", "hide ", "lessen ", "terminate "]}

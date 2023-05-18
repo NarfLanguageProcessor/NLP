@@ -1,0 +1,1 @@
+{"index": 175269, "D": "a term of respect used when speaking of or to certain noblemen (usually preceded by his or your).", "S": ["excellency ", "grace ", "honor ", "ladyship ", "majesty ", "reverence ", "royalty ", "sire ", "worship "], "A": ["disrespect "]}

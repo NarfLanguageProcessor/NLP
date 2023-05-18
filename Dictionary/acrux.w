@@ -1,0 +1,1 @@
+{"index": 3071, "D": "a star of the first magnitude in the constellation Southern Cross.", "S": [], "A": []}

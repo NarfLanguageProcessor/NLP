@@ -1,0 +1,1 @@
+{"index": 5156, "D": "the branch of therapeutics  that deals with the curative use of air or of artificially prepared atmospheres.", "S": [], "A": []}

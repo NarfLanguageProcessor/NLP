@@ -1,0 +1,1 @@
+{"index": 317818, "D": "a seesaw; teeter. ", "S": [], "A": []}

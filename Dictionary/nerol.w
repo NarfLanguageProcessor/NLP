@@ -1,0 +1,1 @@
+{"index": 198719, "D": "a colorless, liquid, unsaturated alcohol, C10H18O, an isomeric form of geraniol occurring in neroli oil,  used in perfumery.", "S": [], "A": []}

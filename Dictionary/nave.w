@@ -1,0 +1,1 @@
+{"index": 197485, "D": "the principal longitudinal area of a church, extending from the main entrance or narthex to the chancel, usually flanked by aisles of less height and breadth", "S": ["heart ", "hub ", "place "], "A": ["exterior ", "exteriority ", "outside "]}

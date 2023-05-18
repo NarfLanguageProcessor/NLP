@@ -1,0 +1,1 @@
+{"index": 55934, "D": "to swindle; cheat (often followed by of or out of).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303854, "D": "any of various tropical trees of the genus Sterculia, of which some species are grown as ornamentals and some are the source of commercially valuable wood.", "S": [], "A": []}

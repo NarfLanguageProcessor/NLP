@@ -1,0 +1,1 @@
+{"index": 134645, "D": "a performer whose name appears most prominently in a program or advertisement or on a marquee; star.", "S": ["artist ", "character ", "clown ", "comedian ", "entertainer ", "performer ", "player ", "star ", "villain "], "A": ["audience ", "fan "]}

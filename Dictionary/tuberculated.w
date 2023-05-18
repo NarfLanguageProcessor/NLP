@@ -1,0 +1,1 @@
+{"index": 331905, "D": "having tubercles.", "S": [], "A": []}

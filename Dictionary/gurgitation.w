@@ -1,0 +1,1 @@
+{"index": 131476, "D": "a surging rise and fall; ebullient motion, as of water.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49065, "D": "a person or thing that casts. ", "S": [], "A": []}

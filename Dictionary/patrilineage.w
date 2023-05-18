@@ -1,0 +1,1 @@
+{"index": 227885, "D": "lineal descent traced through the male line.", "S": [], "A": []}

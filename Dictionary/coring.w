@@ -1,0 +1,1 @@
+{"index": 69125, "D": "the act of removing a core  or of cutting from a central part.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153749, "D": "to yoke or harness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336902, "D": "a small hooked structure, such as any of the hooked chaetae of certain polychaete worms", "S": [], "A": []}

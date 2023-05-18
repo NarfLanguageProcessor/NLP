@@ -1,0 +1,1 @@
+{"index": 120912, "D": "Greek myth a variant of Gaia", "S": ["Gaia ", "Ge ", "Great Mother ", "Magna Mater ", "Tellus ", "earth mother ", "mother goddess ", "terra "], "A": []}

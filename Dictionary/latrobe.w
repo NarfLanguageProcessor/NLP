@@ -1,0 +1,1 @@
+{"index": 169051, "D": "U.S. architect and engineer, born in England.", "S": [], "A": []}

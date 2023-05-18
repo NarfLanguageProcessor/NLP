@@ -1,0 +1,1 @@
+{"index": 74583, "D": "the portion of food that a ruminant returns from the first stomach to the mouth to chew a second time.", "S": ["bolus ", "chew ", "food ", "quid ", "rumen "], "A": []}

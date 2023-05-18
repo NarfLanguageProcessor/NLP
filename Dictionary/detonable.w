@@ -1,0 +1,1 @@
+{"index": 83238, "D": "to explode with suddenness and violence.", "S": [], "A": []}

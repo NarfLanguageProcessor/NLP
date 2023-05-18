@@ -1,0 +1,1 @@
+{"index": 274712, "D": "round in shape; rounded", "S": ["beefy ", "big ", "broad ", "burly ", "chunky ", "dumpy ", "elephantine ", "fleshy ", "heavy ", "heavyset ", "hefty ", "husky ", "obese ", "overweight ", "plump ", "plumpish ", "portly ", "pudgy ", "roly-poly ", "round ", "solid ", "stout ", "tubby ", "weighty "], "A": []}

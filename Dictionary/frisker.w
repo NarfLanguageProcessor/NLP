@@ -1,0 +1,1 @@
+{"index": 119114, "D": "to dance, leap, skip, or gambol; frolic", "S": [], "A": []}

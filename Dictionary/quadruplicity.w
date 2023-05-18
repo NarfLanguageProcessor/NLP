@@ -1,0 +1,1 @@
+{"index": 257743, "D": "the state or fact of being quadruple or fourfold.", "S": [], "A": []}

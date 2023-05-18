@@ -1,0 +1,1 @@
+{"index": 102494, "D": "any witty, ingenious, or pointed saying tersely expressed.", "S": ["aphorism "], "A": []}

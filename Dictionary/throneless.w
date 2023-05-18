@@ -1,0 +1,1 @@
+{"index": 322803, "D": "the chair or seat occupied by a sovereign, bishop, or other exalted personage on ceremonial occasions, usually raised on a dais and covered with a canopy.", "S": [], "A": []}

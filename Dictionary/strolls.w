@@ -1,0 +1,1 @@
+{"index": 306471, "D": "to walk leisurely as inclination directs; ramble; saunter; take a walk", "S": ["excursion ", "ramble "], "A": ["run "]}

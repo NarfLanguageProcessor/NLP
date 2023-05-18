@@ -1,0 +1,1 @@
+{"index": 336612, "D": "being, resembling, or suggestive of a cavern", "S": [], "A": []}

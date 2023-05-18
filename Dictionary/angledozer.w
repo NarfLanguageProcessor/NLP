@@ -1,0 +1,1 @@
+{"index": 12860, "D": "a bulldozer having an angled moldboard for pushing earth to one side.", "S": [], "A": []}

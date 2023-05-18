@@ -1,0 +1,1 @@
+{"index": 79503, "D": "to deprive (a monk, priest, minister, etc.) of ecclesiastical rank, authority, and function; depose. ", "S": ["depose ", "discharge ", "disqualify ", "fire ", "impeach ", "let go ", "oust ", "recall ", "retire ", "sack ", "suspend ", "terminate "], "A": ["begin ", "employ ", "hire ", "hold ", "keep ", "do "]}

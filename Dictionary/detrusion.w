@@ -1,0 +1,1 @@
+{"index": 83322, "D": "the act of detruding. ", "S": [], "A": []}

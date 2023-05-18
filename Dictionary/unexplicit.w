@@ -1,0 +1,1 @@
+{"index": 341809, "D": "fully and clearly expressed or demonstrated; leaving nothing merely implied; unequivocal", "S": ["ambiguous ", "ambivalent ", "dubious ", "evasive ", "muddled ", "puzzling ", "unclear ", "vague "], "A": ["certain ", "clear ", "definite ", "sure "]}

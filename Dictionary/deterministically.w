@@ -1,0 +1,1 @@
+{"index": 83184, "D": "following or relating to the philosophical doctrine of determinism, which holds that all facts and events are determined by external causes and follow natural laws, and that there is no free will", "S": [], "A": []}

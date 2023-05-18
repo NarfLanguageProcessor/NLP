@@ -1,0 +1,1 @@
+{"index": 318233, "D": "a television screen,  especially a large one suitable for viewing by large numbers of people.", "S": [], "A": []}

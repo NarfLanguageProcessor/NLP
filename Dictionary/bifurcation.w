@@ -1,0 +1,1 @@
+{"index": 33678, "D": [], "S": ["complication ", "consequence ", "upshot "], "A": ["cause ", "origin ", "source ", "juncture ", "union ", "unity ", "whole "]}

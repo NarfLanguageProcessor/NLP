@@ -1,0 +1,1 @@
+{"index": 221315, "D": "to stay  beyond the time, limit, or duration of; outstay", "S": [], "A": []}

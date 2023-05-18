@@ -1,0 +1,1 @@
+{"index": 122989, "D": "a newspaper (now used chiefly in the names of newspapers)", "S": ["periodical "], "A": []}

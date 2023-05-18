@@ -1,0 +1,1 @@
+{"index": 241523, "D": "a medieval shafted weapon with blade combining ax, hammer, and apical spike, used for fighting on foot.", "S": [], "A": []}

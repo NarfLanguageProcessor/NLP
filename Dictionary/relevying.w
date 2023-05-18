@@ -1,0 +1,1 @@
+{"index": 266871, "D": "an imposing or collecting, as of a tax, by authority or force.", "S": [], "A": []}

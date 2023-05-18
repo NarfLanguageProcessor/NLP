@@ -1,0 +1,1 @@
+{"index": 366574, "D": "a fee demanded for granting a special privilege.", "S": [], "A": []}

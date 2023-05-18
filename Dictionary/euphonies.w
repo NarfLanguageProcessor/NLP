@@ -1,0 +1,1 @@
+{"index": 105640, "D": "agreeableness of sound; pleasing effect to the ear, especially a pleasant sounding or harmonious combination or succession of words", "S": ["accord ", "melody ", "rhythm ", "sound "], "A": []}

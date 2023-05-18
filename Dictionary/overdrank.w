@@ -1,0 +1,1 @@
+{"index": 219071, "D": "to take water or other liquid into the mouth and swallow it; imbibe. ", "S": [], "A": []}

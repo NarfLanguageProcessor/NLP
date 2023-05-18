@@ -1,0 +1,1 @@
+{"index": 171043, "D": "(of a rock) composed mainly of light-colored minerals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75712, "D": "a person who purchases goods or services from another; buyer; patron.", "S": ["client ", "consumer ", "patron ", "purchaser "], "A": ["manager ", "owner "]}

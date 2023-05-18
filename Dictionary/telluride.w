@@ -1,0 +1,1 @@
+{"index": 318391, "D": "a binary compound of tellurium with an electropositive element or group.", "S": [], "A": []}

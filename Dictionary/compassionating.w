@@ -1,0 +1,1 @@
+{"index": 64454, "D": "having or showing compassion", "S": ["commiserate ", "comprehend "], "A": ["scorn "]}

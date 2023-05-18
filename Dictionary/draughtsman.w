@@ -1,0 +1,1 @@
+{"index": 92742, "D": "a checker, as used in the game of checkers.", "S": [], "A": []}

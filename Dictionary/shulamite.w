@@ -1,0 +1,1 @@
+{"index": 289357, "D": "an epithet meaning \u201cprincess,\u201d applied to the bride in the Song of Solomon 6", "S": [], "A": []}

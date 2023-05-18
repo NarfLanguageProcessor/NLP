@@ -1,0 +1,1 @@
+{"index": 19323, "D": "any tropical Asian palm of the genus Areca, as the betel palm.", "S": [], "A": []}

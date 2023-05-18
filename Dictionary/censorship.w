@@ -1,0 +1,1 @@
+{"index": 50771, "D": "the act or practice of censoring. ", "S": ["ban ", "blackout ", "restriction ", "suppression "], "A": ["approval ", "compliment ", "encouragement ", "endorsement ", "praise ", "recommendation ", "sanction "]}

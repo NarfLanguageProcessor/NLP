@@ -1,0 +1,1 @@
+{"index": 52546, "D": "a person who chants;  singer.", "S": ["hazan ", "leader ", "precentor ", "singer ", "soloist ", "vocalist "], "A": []}

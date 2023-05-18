@@ -1,0 +1,1 @@
+{"index": 268044, "D": "a quantity of food  taken or provided for one occasion of eating", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232037, "D": "of, relating to, or stimulating perspiration. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252940, "D": "an overthrow or repudiation and the thorough replacement of an established government or political system by the people governed.", "S": [], "A": []}

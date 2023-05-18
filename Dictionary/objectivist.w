@@ -1,0 +1,1 @@
+{"index": 210120, "D": "a tendency to lay stress on the objective  or external elements of cognition.", "S": [], "A": []}

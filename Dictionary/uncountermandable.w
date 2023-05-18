@@ -1,0 +1,1 @@
+{"index": 338076, "D": "to revoke or cancel (a command, order, etc.).", "S": [], "A": []}

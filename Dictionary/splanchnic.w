@@ -1,0 +1,1 @@
+{"index": 300324, "D": "of or relating to the viscera or entrails; visceral.", "S": [], "A": []}

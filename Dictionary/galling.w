@@ -1,0 +1,1 @@
+{"index": 121403, "D": "that galls;  chafing; irritating; vexing. ", "S": ["aggravating ", "annoying ", "bitter ", "exasperating ", "harassing ", "humiliating ", "irritating ", "plaguing ", "provoking ", "rankling ", "vexing "], "A": ["agreeable ", "pleasant "]}

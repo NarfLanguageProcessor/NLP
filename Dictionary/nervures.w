@@ -1,0 +1,1 @@
+{"index": 198779, "D": "a vein, as of a leaf or the wing of an insect.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268808, "D": "to buy again; regain by purchase. ", "S": [], "A": []}

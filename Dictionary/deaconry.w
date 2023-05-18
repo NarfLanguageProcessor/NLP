@@ -1,0 +1,1 @@
+{"index": 77428, "D": "the office of a deacon.", "S": ["priesthood "], "A": []}

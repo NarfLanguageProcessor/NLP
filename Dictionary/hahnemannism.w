@@ -1,0 +1,1 @@
+{"index": 132279, "D": "German physician", "S": [], "A": []}

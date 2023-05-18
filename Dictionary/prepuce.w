@@ -1,0 +1,1 @@
+{"index": 248983, "D": "the fold of skin that covers the head of the penis; foreskin.", "S": [], "A": []}

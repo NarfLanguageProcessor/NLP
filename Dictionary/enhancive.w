@@ -1,0 +1,1 @@
+{"index": 100523, "D": "to raise to a higher degree; intensify; magnify", "S": [], "A": []}

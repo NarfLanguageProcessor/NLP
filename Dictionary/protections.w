@@ -1,0 +1,1 @@
+{"index": 253386, "D": "the act of protecting or the state of being protected; preservation from injury or harm.", "S": ["conservation ", "insurance ", "preservation ", "safeguard ", "safety ", "security ", "shelter ", "stability "], "A": ["danger ", "destruction ", "insecurity ", "doubt ", "uncertainty "]}

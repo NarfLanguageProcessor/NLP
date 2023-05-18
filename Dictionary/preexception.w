@@ -1,0 +1,1 @@
+{"index": 247386, "D": "the act of excepting or the fact of being excepted.", "S": [], "A": []}

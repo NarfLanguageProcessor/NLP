@@ -1,0 +1,1 @@
+{"index": 360305, "D": "a burrowing rodent, Lagostomus maximus, about the size of a groundhog, inhabiting the pampas of Paraguay and Argentina, allied to the chinchilla.", "S": [], "A": []}

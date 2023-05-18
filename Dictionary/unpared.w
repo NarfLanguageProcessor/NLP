@@ -1,0 +1,1 @@
+{"index": 347449, "D": "to cut off the outer coating, layer, or part of.", "S": [], "A": []}

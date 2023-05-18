@@ -1,0 +1,1 @@
+{"index": 286867, "D": "relating to, involving, or fostering sexism,  or attitudes and behavior toward someone based on the person's gender", "S": ["bigoted ", "discriminatory ", "dogmatic ", "intolerant ", "intransigent ", "one-sided ", "opinionated ", "racist ", "xenophobic "], "A": ["fair ", "impartial ", "open-minded ", "tolerant ", "unprejudiced "]}

@@ -1,0 +1,1 @@
+{"index": 188764, "D": "to be unsuitable, unbecoming, or unfit for.", "S": [], "A": []}

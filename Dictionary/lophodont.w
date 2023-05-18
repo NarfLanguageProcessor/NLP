@@ -1,0 +1,1 @@
+{"index": 175179, "D": "having molar teeth with crowns in the form of transverse ridges.", "S": [], "A": []}

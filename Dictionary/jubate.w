@@ -1,0 +1,1 @@
+{"index": 161981, "D": "covered with long hairs resembling a mane.", "S": [], "A": []}

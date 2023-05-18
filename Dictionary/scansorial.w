@@ -1,0 +1,1 @@
+{"index": 279591, "D": "capable of or adapted for climbing, as the feet of certain birds, lizards, etc.", "S": [], "A": []}

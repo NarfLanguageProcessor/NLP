@@ -1,0 +1,1 @@
+{"index": 261590, "D": "informal a variant of ready (def. 8)", "S": ["arrange ", "brace ", "equip ", "fit ", "fix ", "gird ", "provide ", "warm up "], "A": ["disarrange ", "disorganize ", "disturb ", "let go ", "destroy ", "disallow ", "discourage ", "disorder ", "displace ", "dissuade ", "fail ", "halt ", "hurt ", "lose ", "prevent ", "weaken "]}

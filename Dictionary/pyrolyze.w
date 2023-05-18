@@ -1,0 +1,1 @@
+{"index": 237843, "D": "to subject (a substance) to pyrolysis.", "S": [], "A": []}

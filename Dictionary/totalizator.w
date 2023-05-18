@@ -1,0 +1,1 @@
+{"index": 326463, "D": "an apparatus for registering and indicating the total of operations, measurements, etc.", "S": ["totalisator ", "totalizer ", "tote "], "A": []}

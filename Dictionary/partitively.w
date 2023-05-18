@@ -1,0 +1,1 @@
+{"index": 227100, "D": "serving to divide into parts. ", "S": [], "A": []}

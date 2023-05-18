@@ -1,0 +1,1 @@
+{"index": 15659, "D": "to bring under the ownership or control of a nation,  as industries and land", "S": [], "A": []}

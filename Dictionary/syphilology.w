@@ -1,0 +1,1 @@
+{"index": 292196, "D": "the branch of medicine concerned with the study and treatment of syphilis", "S": [], "A": []}

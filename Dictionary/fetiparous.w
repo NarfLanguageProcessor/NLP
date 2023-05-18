@@ -1,0 +1,1 @@
+{"index": 111763, "D": "(of a marsupial) bearing young before they are fully developed.", "S": [], "A": []}

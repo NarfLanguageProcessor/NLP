@@ -1,0 +1,1 @@
+{"index": 25457, "D": [], "S": ["bourgeois ", "emulator ", "follower ", "sheep ", "traditionalist "], "A": []}

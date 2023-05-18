@@ -1,0 +1,1 @@
+{"index": 307639, "D": "the act of a person or thing that crosses. ", "S": [], "A": []}

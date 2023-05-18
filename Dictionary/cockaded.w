@@ -1,0 +1,1 @@
+{"index": 61444, "D": "a rosette, knot of ribbon, etc., usually worn on the hat as part of a uniform, as a badge of office, or the like.", "S": [], "A": []}

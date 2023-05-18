@@ -1,0 +1,1 @@
+{"index": 174278, "D": "a word, phrase, pronunciation, or manner of speaking that is peculiar to one locality. ", "S": [], "A": []}

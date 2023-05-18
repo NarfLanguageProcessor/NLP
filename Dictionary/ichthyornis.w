@@ -1,0 +1,1 @@
+{"index": 146126, "D": "an extinct genus of toothed birds having vertebrae resembling those of fishes.", "S": [], "A": []}

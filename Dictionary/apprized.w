@@ -1,0 +1,1 @@
+{"index": 17963, "D": "appraise. ", "S": ["abreast ", "knowledgeable ", "learned "], "A": ["ignorant ", "uninformed "]}

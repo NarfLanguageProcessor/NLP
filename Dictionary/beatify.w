@@ -1,0 +1,1 @@
+{"index": 29605, "D": "to make blissfully happy.", "S": ["consecrate ", "sanctify "], "A": ["castigate ", "condemn ", "criticize ", "debase ", "degrade ", "humiliate ", "lower "]}

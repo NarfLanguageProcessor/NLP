@@ -1,0 +1,1 @@
+{"index": 276844, "D": "pertaining to, like, or befitting a saint", "S": ["humility ", "purity ", "righteousness ", "sanctity "], "A": ["agnosticism ", "atheism ", "sin ", "wickedness "]}

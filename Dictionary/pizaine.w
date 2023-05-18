@@ -1,0 +1,1 @@
+{"index": 238492, "D": "a mail collar of the 14th century, worn with a hauberk.", "S": [], "A": []}

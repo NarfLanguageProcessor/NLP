@@ -1,0 +1,1 @@
+{"index": 150664, "D": "committed or obligated to repay a monetary loan", "S": ["appreciative ", "beholden ", "duty-bound ", "grateful ", "obligated ", "obliged ", "thankful "], "A": ["thankless ", "unappreciative ", "ungrateful "]}

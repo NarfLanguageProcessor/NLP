@@ -1,0 +1,1 @@
+{"index": 129472, "D": "Greek  (especially with reference to ancient Greece).", "S": [], "A": []}

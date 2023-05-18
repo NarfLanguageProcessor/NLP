@@ -1,0 +1,1 @@
+{"index": 182113, "D": "pertaining to medicine and law or to forensic medicine.", "S": [], "A": []}

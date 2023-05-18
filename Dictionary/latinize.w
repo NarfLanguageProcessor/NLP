@@ -1,0 +1,1 @@
+{"index": 168984, "D": "to cause to conform to the customs, traditions, beliefs, etc., of the Latins or the Latin Church.", "S": [], "A": []}

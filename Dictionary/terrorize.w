@@ -1,0 +1,1 @@
+{"index": 319632, "D": "to fill or overcome with terror. ", "S": ["alarm ", "bludgeon ", "bully ", "coerce ", "frighten ", "horrify ", "intimidate ", "menace ", "oppress ", "scare ", "shock ", "terrify "], "A": ["aid ", "assist ", "calm ", "comfort ", "delight ", "gladden ", "help ", "leave alone ", "make happy ", "please ", "reassure ", "soothe ", "encourage ", "expect "]}

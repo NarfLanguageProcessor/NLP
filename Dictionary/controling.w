@@ -1,0 +1,1 @@
+{"index": 67800, "D": [], "S": ["authority ", "curb ", "discipline ", "domination ", "force ", "government ", "jurisdiction ", "management ", "oversight ", "regulation ", "restraint ", "restriction ", "rule ", "supervision "], "A": ["chaos ", "disorganization ", "freedom ", "lawlessness ", "mismanagement ", "neglect ", "advantage ", "inability ", "weakness "]}

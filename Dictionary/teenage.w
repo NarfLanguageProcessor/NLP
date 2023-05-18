@@ -1,0 +1,1 @@
+{"index": 317781, "D": "of, relating to, or characteristic of a teenager. ", "S": ["immature ", "juvenile ", "pre-adult ", "pubescent ", "young ", "youthful "], "A": []}

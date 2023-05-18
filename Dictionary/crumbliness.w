@@ -1,0 +1,1 @@
+{"index": 74180, "D": "apt to crumble;  friable.", "S": [], "A": []}

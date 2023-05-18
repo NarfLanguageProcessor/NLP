@@ -1,0 +1,1 @@
+{"index": 112531, "D": "a very fine thread or threadlike structure; a fiber or fibril", "S": ["fiber ", "thread "], "A": []}

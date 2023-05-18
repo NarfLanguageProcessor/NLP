@@ -1,0 +1,1 @@
+{"index": 49532, "D": "of or relating to a categorial grammar. ", "S": [], "A": []}

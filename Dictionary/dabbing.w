@@ -1,0 +1,1 @@
+{"index": 75946, "D": "the consumption of cannabis by inhaling the vapor of heated cannabis extract oil", "S": ["daub ", "smear ", "smudge ", "swab ", "wipe "], "A": []}

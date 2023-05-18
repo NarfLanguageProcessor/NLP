@@ -1,0 +1,1 @@
+{"index": 182870, "D": "a high explosive containing picric acid.", "S": [], "A": []}

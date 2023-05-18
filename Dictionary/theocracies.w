@@ -1,0 +1,1 @@
+{"index": 320941, "D": "a form of government in which God or a deity is recognized as the supreme civil ruler, the God's or deity's laws being interpreted by the ecclesiastical authorities.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 94720, "D": "a membrane in the ear  canal between the external ear  and the middle ear;  tympanic membrane.", "S": ["tympanum "], "A": []}

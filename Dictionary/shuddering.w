@@ -1,0 +1,1 @@
+{"index": 289334, "D": "trembling or quivering with fear, dread, cold, etc.", "S": ["excited ", "quaky ", "quivering ", "quivery ", "shaking ", "shaky ", "shivery ", "trembling ", "tremulant "], "A": []}

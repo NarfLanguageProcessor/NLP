@@ -1,0 +1,1 @@
+{"index": 39319, "D": "a fellow, especially a big, strong, stupid fellow.", "S": ["clown "], "A": []}

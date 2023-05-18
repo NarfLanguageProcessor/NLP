@@ -1,0 +1,1 @@
+{"index": 30891, "D": "a provincial governor in the Ottoman Empire.", "S": [], "A": []}

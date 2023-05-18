@@ -1,0 +1,1 @@
+{"index": 4307, "D": "an adopted child Compare adoptive", "S": ["alien ", "different ", "external ", "offshore ", "overseas ", "unfamiliar "], "A": ["characteristic ", "familiar ", "known ", "local ", "national ", "native ", "regular ", "relevant "]}

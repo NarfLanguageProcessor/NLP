@@ -1,0 +1,1 @@
+{"index": 152885, "D": "an abstract patch of ink, one of ten commonly used in the Rorschach test", "S": [], "A": []}

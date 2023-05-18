@@ -1,0 +1,1 @@
+{"index": 127428, "D": "a person who stares goggle-eyed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 51551, "D": "a process of engraving in which the design or the like is cut on a wax-coated metal plate from which a printing surface is subsequently produced by stereotyping or by electrotyping.", "S": [], "A": []}

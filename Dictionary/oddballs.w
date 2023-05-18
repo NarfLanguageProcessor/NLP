@@ -1,0 +1,1 @@
+{"index": 211199, "D": "a person or thing that is atypical, bizarre, eccentric, or nonconforming, especially one having beliefs that are unusual but harmless.", "S": ["case ", "character ", "duck ", "eccentric ", "fish out of water ", "maverick ", "misfit ", "odd bird ", "original ", "rara avis ", "screwball ", "weirdo "], "A": ["conservative ", "normal "]}

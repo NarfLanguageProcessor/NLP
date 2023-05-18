@@ -1,0 +1,1 @@
+{"index": 43859, "D": "a small group of secret plotters, as against a government or person in authority.", "S": ["accomplice ", "collaborator ", "plotter ", "traitor "], "A": []}

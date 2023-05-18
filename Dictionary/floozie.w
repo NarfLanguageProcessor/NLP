@@ -1,0 +1,1 @@
+{"index": 114960, "D": "a gaudily dressed, usually immoral or sexually promiscuous woman (now often used facetiously).", "S": [], "A": []}

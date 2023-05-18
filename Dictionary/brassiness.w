@@ -1,0 +1,1 @@
+{"index": 40039, "D": "made of or covered with brass. ", "S": ["audacity ", "cockiness ", "fearlessness ", "grit ", "spunk "], "A": ["cowardice ", "timidity ", "fear "]}

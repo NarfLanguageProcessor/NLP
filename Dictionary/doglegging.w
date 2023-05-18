@@ -1,0 +1,1 @@
+{"index": 90939, "D": "a route, way, or course that turns at a sharp angle.", "S": [], "A": []}

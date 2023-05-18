@@ -1,0 +1,1 @@
+{"index": 227681, "D": "a person who blazes a trail or path; pathfinder.", "S": [], "A": []}

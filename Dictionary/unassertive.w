@@ -1,0 +1,1 @@
+{"index": 335312, "D": "confidently aggressive or self-assured; positive", "S": ["confused ", "coy ", "diffident ", "embarrassed ", "reticent ", "self-conscious ", "sheepish ", "timid "], "A": ["aggressive ", "bold ", "forward "]}

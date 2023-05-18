@@ -1,0 +1,1 @@
+{"index": 282821, "D": "in a way that is kept from the knowledge of others or is designed to escape their notice", "S": ["clandestinely ", "covertly ", "furtively ", "personally ", "privately ", "quietly ", "stealthily ", "surreptitiously "], "A": ["publicly "]}

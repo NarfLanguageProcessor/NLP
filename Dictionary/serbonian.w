@@ -1,0 +1,1 @@
+{"index": 285941, "D": "of, relating to, or designating the large marshy tract of land in the northern part of ancient Egypt in which entire armies are said to have been swallowed up.", "S": [], "A": []}

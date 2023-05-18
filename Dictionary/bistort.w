@@ -1,0 +1,1 @@
+{"index": 35127, "D": "a European plant, Polygonum bistorta, of the buckwheat family, having a twisted root, which is sometimes used as an astringent.", "S": [], "A": []}

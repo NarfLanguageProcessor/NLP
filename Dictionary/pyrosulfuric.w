@@ -1,0 +1,1 @@
+{"index": 237944, "D": "of or derived from pyrosulfuric acid;  disulfuric.", "S": [], "A": []}

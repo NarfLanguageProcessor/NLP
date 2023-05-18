@@ -1,0 +1,1 @@
+{"index": 135007, "D": "the abode of God, the angels, and the spirits of the righteous after death; the place or state of existence of the blessed after the mortal life.", "S": ["atmosphere ", "breeze ", "wind "], "A": []}

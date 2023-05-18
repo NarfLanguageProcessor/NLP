@@ -1,0 +1,1 @@
+{"index": 97683, "D": "a plane curve such that the sums of the distances of each point in its periphery from two fixed points, the foci, are equal. It is a conic section formed by the intersection of a right circular cone by a plane that cuts the axis and the surface of the cone. Typical equation", "S": ["arc ", "arch ", "contour ", "loop ", "trajectory "], "A": ["line "]}

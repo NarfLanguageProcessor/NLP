@@ -1,0 +1,1 @@
+{"index": 286995, "D": "an expression meaning well done; bravo", "S": [], "A": []}

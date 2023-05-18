@@ -1,0 +1,1 @@
+{"index": 14923, "D": "averse to cities and urban locations.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 76318, "D": "of, done, occurring, or issued each day  or each weekday", "S": [], "A": []}

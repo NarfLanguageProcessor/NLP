@@ -1,0 +1,1 @@
+{"index": 37512, "D": "courageous or daring; intrepid.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205630, "D": "of, relating to, or of the nature of opinion. ", "S": [], "A": []}

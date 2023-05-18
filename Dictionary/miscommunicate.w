@@ -1,0 +1,1 @@
+{"index": 188957, "D": "to communicate  mistakenly, unclearly, or inadequately.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344365, "D": "capable of being impressed;  impressionable.", "S": ["emotionless ", "matter-of-fact ", "placid ", "reticent ", "serene ", "stoic ", "stolid ", "taciturn ", "unemotional ", "unflappable ", "unruffled "], "A": ["agitated ", "communicative ", "emotional ", "excited ", "feeling ", "nervous "]}

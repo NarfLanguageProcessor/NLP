@@ -1,0 +1,1 @@
+{"index": 123027, "D": "an anticlinal upwarp of regional extent.", "S": [], "A": []}

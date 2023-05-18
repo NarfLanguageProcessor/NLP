@@ -1,0 +1,1 @@
+{"index": 359443, "D": "to make a victim  of.", "S": ["bamboozled ", "beguiled ", "bilked ", "burned ", "conned ", "deceived ", "duped ", "gypped ", "hoodwinked ", "swindled ", "tricked "], "A": []}

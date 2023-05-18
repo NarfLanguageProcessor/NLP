@@ -1,0 +1,1 @@
+{"index": 122961, "D": "(of people) well-dressed and of cheerful appearance.", "S": [], "A": []}

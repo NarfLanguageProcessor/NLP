@@ -1,0 +1,1 @@
+{"index": 342809, "D": "occurring suddenly and with great intensity or severity; fulminating. ", "S": [], "A": []}

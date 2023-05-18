@@ -1,0 +1,1 @@
+{"index": 273417, "D": "a person whose job it is to fasten things by means of rivets,  or metal pins", "S": ["auger ", "awl ", "bit ", "borer ", "corkscrew ", "countersink ", "dibble ", "gimlet ", "implement ", "jackhammer ", "punch ", "trepan ", "trephine ", "wimble "], "A": []}

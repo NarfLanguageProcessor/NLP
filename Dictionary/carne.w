@@ -1,0 +1,1 @@
+{"index": 48212, "D": "French film director.", "S": [], "A": []}

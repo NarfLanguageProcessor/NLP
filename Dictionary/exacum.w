@@ -1,0 +1,1 @@
+{"index": 106403, "D": "any plant of the annual or perennial tropical genus Exacum; some are grown as greenhouse biennials for their bluish-purple platter-shaped flowers", "S": [], "A": []}

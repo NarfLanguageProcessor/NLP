@@ -1,0 +1,1 @@
+{"index": 7789, "D": "a colorless, syrupy, water-soluble liquid, C4H8O2, formed by the condensation of acetaldehyde", "S": [], "A": []}

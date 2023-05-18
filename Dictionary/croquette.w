@@ -1,0 +1,1 @@
+{"index": 73739, "D": "a small cake or ball of minced meat, poultry, or fish, or of rice, potato, or other food, often coated with beaten egg and breadcrumbs, and fried in deep fat.", "S": [], "A": []}

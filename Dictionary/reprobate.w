@@ -1,0 +1,1 @@
+{"index": 268599, "D": "a depraved, unprincipled, or wicked person", "S": ["bad ", "corrupt ", "degenerate ", "foul ", "wanton "], "A": ["clean ", "decent ", "good ", "honest ", "just ", "kind ", "moral ", "pure ", "upright ", "virtuous "]}

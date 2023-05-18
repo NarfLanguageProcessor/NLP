@@ -1,0 +1,1 @@
+{"index": 264429, "D": "to send, expel, or otherwise cause to move by force or compulsion", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349717, "D": "capable of or inclined to resistance;  resisting.", "S": [], "A": []}

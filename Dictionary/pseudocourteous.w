@@ -1,0 +1,1 @@
+{"index": 254653, "D": "having or showing good manners; polite.", "S": [], "A": []}

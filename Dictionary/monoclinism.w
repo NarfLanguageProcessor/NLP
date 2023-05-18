@@ -1,0 +1,1 @@
+{"index": 192197, "D": "(of a plant, species, etc.) having both the stamens and pistils in the same flower.", "S": [], "A": []}

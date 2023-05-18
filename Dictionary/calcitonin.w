@@ -1,0 +1,1 @@
+{"index": 44923, "D": "a polypeptide hormone that participates in the regulation of calcium levels in vertebrates by inhibiting loss of calcium from bone to the blood.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186367, "D": "of, relating to, or in the nature of a microphone. ", "S": [], "A": []}

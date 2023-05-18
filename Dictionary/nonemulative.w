@@ -1,0 +1,1 @@
+{"index": 203488, "D": "to try to equal or excel; imitate with effort to equal or surpass", "S": [], "A": []}

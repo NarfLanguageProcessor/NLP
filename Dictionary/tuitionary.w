@@ -1,0 +1,1 @@
+{"index": 332201, "D": "the charge or fee for instruction, as at a private school or a college or university", "S": [], "A": []}

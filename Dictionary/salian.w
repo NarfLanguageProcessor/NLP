@@ -1,0 +1,1 @@
+{"index": 277007, "D": "of, relating to, or designating a Frankish people who lived in the region of the Rhine near the North Sea.", "S": [], "A": []}

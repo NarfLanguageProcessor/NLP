@@ -1,0 +1,1 @@
+{"index": 341875, "D": "to put out (a fire, light, etc.); put out the flame of (something burning or lighted)", "S": [], "A": []}

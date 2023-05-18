@@ -1,0 +1,1 @@
+{"index": 5409, "D": "to fasten, join, or attach (usually followed by to)", "S": ["append ", "fasten ", "glue ", "paste ", "tack "], "A": ["detach ", "unfasten ", "withdraw "]}

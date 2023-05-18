@@ -1,0 +1,1 @@
+{"index": 208458, "D": "midday. ", "S": ["apex ", "meridian ", "midday ", "noonday ", "noontide "], "A": ["midnight "]}

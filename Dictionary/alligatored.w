@@ -1,0 +1,1 @@
+{"index": 8731, "D": "either of two broad-snouted crocodilians of the genus Alligator, of the southeastern U.S. and eastern China.", "S": [], "A": []}

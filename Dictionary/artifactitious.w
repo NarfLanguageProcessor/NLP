@@ -1,0 +1,1 @@
+{"index": 20710, "D": "of, relating to, or of the nature of an artifact,  or a man-made object that carries cultural significance.", "S": [], "A": []}

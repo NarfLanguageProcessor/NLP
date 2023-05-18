@@ -1,0 +1,1 @@
+{"index": 350968, "D": "the act of covering with or forming into a sheet  or sheets. ", "S": [], "A": []}

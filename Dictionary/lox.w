@@ -1,0 +1,1 @@
+{"index": 175678, "D": "a kind of brine-cured salmon, having either a salt cure (Scandinavian lox ) or a sugar cure (Nova Scotia lox ), often eaten with cream cheese on a bagel.", "S": [], "A": []}

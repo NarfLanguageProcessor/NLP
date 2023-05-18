@@ -1,0 +1,1 @@
+{"index": 315532, "D": "any of the round or square prehistoric stone towers found in the Balearic Islands, possibly modeled after the nuraghi in Sardinia.", "S": [], "A": []}

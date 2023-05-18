@@ -1,0 +1,1 @@
+{"index": 74269, "D": "to press or squeeze with a force that destroys or deforms.", "S": [], "A": []}

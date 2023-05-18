@@ -1,0 +1,1 @@
+{"index": 301007, "D": "the form of a plant in the alternation of generations that produces asexual spores.", "S": [], "A": []}

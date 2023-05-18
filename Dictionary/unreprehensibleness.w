@@ -1,0 +1,1 @@
+{"index": 349597, "D": "deserving of reproof, rebuke, or censure; blameworthy.", "S": [], "A": []}

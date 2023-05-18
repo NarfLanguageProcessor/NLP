@@ -1,0 +1,1 @@
+{"index": 53583, "D": "of or noting a compound having a cyclic structure resulting from the formation of one or more hydrogen bonds in the same molecule.", "S": [], "A": []}

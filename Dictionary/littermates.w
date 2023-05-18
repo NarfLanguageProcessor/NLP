@@ -1,0 +1,1 @@
+{"index": 173874, "D": "one of a pair or group of animals born or reared in the same litter. ", "S": [], "A": []}

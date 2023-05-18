@@ -1,0 +1,1 @@
+{"index": 157786, "D": "the condition of being young.", "S": ["boy ", "chick ", "cub ", "fledgling ", "girl ", "junior ", "juvenile ", "juvenile delinquent ", "kid ", "lad ", "lass ", "pup ", "pupil ", "student ", "teenager ", "young person "], "A": ["adult "]}

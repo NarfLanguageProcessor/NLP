@@ -1,0 +1,1 @@
+{"index": 279368, "D": "an assessed percentage deduction, as in weight or price, granted in dealings with goods that are likely to shrink, leak, or otherwise vary in the amount or weight originally stated.", "S": [], "A": []}

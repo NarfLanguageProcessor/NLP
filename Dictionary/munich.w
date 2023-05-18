@@ -1,0 +1,1 @@
+{"index": 195572, "D": "a city in and the capital of Bavaria, in SW Germany.", "S": [], "A": []}

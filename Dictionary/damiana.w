@@ -1,0 +1,1 @@
+{"index": 76550, "D": "the dried leaves of a Mexican plant, Turnera diffusa, formerly used as a laxative and a tonic, and purported to be effective in the treatment of sexual impotence.", "S": [], "A": []}

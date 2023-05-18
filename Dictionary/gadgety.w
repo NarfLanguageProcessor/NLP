@@ -1,0 +1,1 @@
+{"index": 120870, "D": "a mechanical contrivance or device; any ingenious article.", "S": [], "A": []}

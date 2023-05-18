@@ -1,0 +1,1 @@
+{"index": 212931, "D": "possessing the character of real rather than phenomenal existence; noumenal.", "S": [], "A": []}

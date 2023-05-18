@@ -1,0 +1,1 @@
+{"index": 159264, "D": "a compound isosteric with one or more other compounds.", "S": [], "A": []}

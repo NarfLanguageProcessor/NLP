@@ -1,0 +1,1 @@
+{"index": 245810, "D": "a slip or sheet of paper on which a person's vote is marked.", "S": [], "A": []}

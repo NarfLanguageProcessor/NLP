@@ -1,0 +1,1 @@
+{"index": 22303, "D": "of or relating to astronautics  or astronauts. ", "S": [], "A": []}

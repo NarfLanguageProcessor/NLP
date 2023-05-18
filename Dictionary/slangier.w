@@ -1,0 +1,1 @@
+{"index": 293642, "D": "of, of the nature of, or containing slang", "S": [], "A": []}

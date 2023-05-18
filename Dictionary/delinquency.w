@@ -1,0 +1,1 @@
+{"index": 80139, "D": "failure in or neglect of duty or obligation; dereliction; default", "S": ["default "], "A": ["accomplishment ", "achievement ", "care ", "good deed ", "kindness ", "obedience ", "perfection ", "strength ", "success "]}

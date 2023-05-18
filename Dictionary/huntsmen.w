@@ -1,0 +1,1 @@
+{"index": 145199, "D": "the member of a hunt  staff who manages the hounds during the hunt. ", "S": ["chaser ", "deerstalker ", "falconer ", "fisherman ", "hawker ", "huntress ", "pursuer ", "sportsman ", "stalker ", "trapper "], "A": []}

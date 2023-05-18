@@ -1,0 +1,1 @@
+{"index": 124261, "D": "a microorganism, especially when disease-producing; microbe.", "S": [], "A": []}

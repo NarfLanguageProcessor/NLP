@@ -1,0 +1,1 @@
+{"index": 352070, "D": "the act of a person or thing that stitches. ", "S": [], "A": []}

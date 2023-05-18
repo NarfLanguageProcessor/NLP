@@ -1,0 +1,1 @@
+{"index": 269644, "D": "a white, needlelike, water-soluble solid, C6H6O2, a benzene derivative originally obtained from certain resins,  now usually synthesized", "S": [], "A": []}

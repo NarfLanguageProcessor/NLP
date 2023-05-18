@@ -1,0 +1,1 @@
+{"index": 255053, "D": "following an occupation as a means of livelihood or for gain", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137375, "D": "the act of hesitating;  a delay due to uncertainty of mind or fear", "S": ["doubt ", "equivocation ", "hesitancy ", "indecision ", "misgiving ", "mistrust ", "pause ", "procrastination ", "qualm ", "reluctance ", "skepticism ", "unwillingness ", "vacillation "], "A": ["belief ", "certainty ", "confidence ", "faith ", "trust "]}

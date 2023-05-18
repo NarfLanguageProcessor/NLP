@@ -1,0 +1,1 @@
+{"index": 8881, "D": "variability in crystalline form without change in chemical constitution.", "S": [], "A": []}

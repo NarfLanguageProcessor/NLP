@@ -1,0 +1,1 @@
+{"index": 357879, "D": "a velvetlike fabric of rayon, wool, or any of several other natural or synthetic fibers, used for outerwear and upholstery.", "S": ["velvety "], "A": []}

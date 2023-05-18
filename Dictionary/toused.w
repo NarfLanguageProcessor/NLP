@@ -1,0 +1,1 @@
+{"index": 326688, "D": "to handle roughly; dishevel.", "S": [], "A": []}

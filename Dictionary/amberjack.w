@@ -1,0 +1,1 @@
+{"index": 9964, "D": "any of several yellow to coppery fork-tailed fishes of the genus Seriola, as S. dumerili of warm Atlantic waters.", "S": [], "A": []}

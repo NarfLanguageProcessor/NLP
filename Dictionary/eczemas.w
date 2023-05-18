@@ -1,0 +1,1 @@
+{"index": 95634, "D": "an inflammatory condition of the skin attended with itching and the exudation of serous matter.", "S": ["dermatitis ", "inflammation ", "rash "], "A": []}

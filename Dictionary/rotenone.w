@@ -1,0 +1,1 @@
+{"index": 274641, "D": "a white, crystalline, water-insoluble, poisonous heterocyclic compound, C23H22O6, obtained from derris root", "S": [], "A": []}

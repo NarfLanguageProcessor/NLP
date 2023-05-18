@@ -1,0 +1,1 @@
+{"index": 353499, "D": "to bring or come out of a twined condition.", "S": [], "A": []}

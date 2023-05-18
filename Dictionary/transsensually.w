@@ -1,0 +1,1 @@
+{"index": 328319, "D": "in a carnal or fleshly way that is preoccupied with the gratification of the senses or physical appetites", "S": [], "A": []}

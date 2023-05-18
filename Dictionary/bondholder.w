@@ -1,0 +1,1 @@
+{"index": 37808, "D": "a holder  of a bond  or bonds  issued by a government or corporation.", "S": ["investor "], "A": []}

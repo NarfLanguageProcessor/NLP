@@ -1,0 +1,1 @@
+{"index": 167954, "D": "a woman who owns and leases an apartment, house, land,  etc., to others.", "S": ["householder "], "A": []}

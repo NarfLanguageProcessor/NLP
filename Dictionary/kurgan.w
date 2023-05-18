@@ -1,0 +1,1 @@
+{"index": 166497, "D": "a circular burial mound constructed over a pit grave and often containing grave vessels, weapons, and the bodies of horses as well as a single human body; originally in use in the Russian Steppes but later spreading into eastern, central, and northern Europe in the third millennium b.c.", "S": [], "A": []}

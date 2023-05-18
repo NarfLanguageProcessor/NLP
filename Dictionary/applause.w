@@ -1,0 +1,1 @@
+{"index": 17771, "D": "hand clapping as a demonstration of approval, appreciation, acclamation, or the like.", "S": ["acclaim ", "accolade ", "kudos ", "ovation ", "praise ", "standing ovation "], "A": ["blame ", "criticism ", "disapproval "]}

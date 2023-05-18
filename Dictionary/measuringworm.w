@@ -1,0 +1,1 @@
+{"index": 181813, "D": "the larva of any geometrid moth, which progresses by bringing the rear end of the body forward and then advancing the front end.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129599, "D": "paper money.", "S": ["buck ", "currency ", "investment ", "note ", "payment ", "refund ", "reserve ", "security ", "stock ", "supply "], "A": ["debt "]}

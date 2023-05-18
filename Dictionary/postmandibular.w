@@ -1,0 +1,1 @@
+{"index": 244271, "D": "pertaining to or of the nature of a mandible. ", "S": [], "A": []}

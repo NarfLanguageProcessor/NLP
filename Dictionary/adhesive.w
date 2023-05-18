@@ -1,0 +1,1 @@
+{"index": 3858, "D": "coated with glue, paste, mastic, or other sticky substance", "S": ["gummy ", "sticky "], "A": ["loose ", "open ", "separated "]}

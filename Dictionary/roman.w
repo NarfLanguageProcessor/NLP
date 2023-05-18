@@ -1,0 +1,1 @@
+{"index": 274008, "D": "a metrical narrative, especially in medieval French literature.", "S": ["classic ", "humanistic "], "A": ["complicated ", "modern "]}

@@ -1,0 +1,1 @@
+{"index": 107458, "D": "to expel or attempt to expel (one or more evil spirits) from (a person or place believed to be possessed or haunted), by prayers, adjurations, and religious rites", "S": [], "A": []}

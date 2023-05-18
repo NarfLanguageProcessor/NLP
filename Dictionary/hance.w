@@ -1,0 +1,1 @@
+{"index": 133086, "D": "a variant of haunch (def. 3)", "S": [], "A": []}

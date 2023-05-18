@@ -1,0 +1,1 @@
+{"index": 18735, "D": "the see, diocese, or office of an archbishop.", "S": [], "A": []}

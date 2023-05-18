@@ -1,0 +1,1 @@
+{"index": 303821, "D": "in a steplike arrangement.", "S": [], "A": []}

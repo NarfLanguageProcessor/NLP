@@ -1,0 +1,1 @@
+{"index": 37493, "D": "of or relating to bole  or clay.", "S": [], "A": []}

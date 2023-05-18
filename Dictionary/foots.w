@@ -1,0 +1,1 @@
+{"index": 116243, "D": "the sediment that accumulates at the bottom of a vessel containing any of certain liquids, such as vegetable oil or varnish; dregs", "S": [], "A": []}

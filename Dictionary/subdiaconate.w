@@ -1,0 +1,1 @@
+{"index": 307738, "D": "the office or dignity of a subdeacon.", "S": [], "A": []}

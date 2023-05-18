@@ -1,0 +1,1 @@
+{"index": 236599, "D": "a massive collision of several or many moving vehicles.", "S": ["accumulation "], "A": []}

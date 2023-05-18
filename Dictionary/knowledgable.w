@@ -1,0 +1,1 @@
+{"index": 165718, "D": "possessing or exhibiting knowledge,  insight, or understanding; intelligent; well-informed; discerning; perceptive.", "S": [], "A": []}

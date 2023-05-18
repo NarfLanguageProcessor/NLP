@@ -1,0 +1,1 @@
+{"index": 94655, "D": "to become smaller and smaller; shrink; waste away", "S": ["fading ", "listless ", "sagging ", "slumping ", "waning ", "weakening "], "A": ["energized ", "refreshed "]}

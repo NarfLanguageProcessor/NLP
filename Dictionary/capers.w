@@ -1,0 +1,1 @@
+{"index": 46830, "D": "the flower buds of the caper plant, which are pickled and used as a condiment", "S": ["hijinks ", "misbehavior ", "rowdiness "], "A": []}

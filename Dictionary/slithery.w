@@ -1,0 +1,1 @@
+{"index": 294239, "D": "moving with a slithering motion", "S": ["glossy ", "greasy ", "icy ", "lubricious ", "oily ", "oleaginous ", "shiny ", "sleek ", "sleeky ", "slippery ", "slippery as an eel ", "soapy "], "A": []}

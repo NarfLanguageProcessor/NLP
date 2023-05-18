@@ -1,0 +1,1 @@
+{"index": 260376, "D": "violent; unruly; boisterous.", "S": ["anarchic ", "disorganized ", "helter-skelter ", "lawless ", "tumultuous ", "turbulent "], "A": ["calm "]}

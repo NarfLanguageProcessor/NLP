@@ -1,0 +1,1 @@
+{"index": 27202, "D": "any of the woody or treelike tropical and semitropical grasses of the genera Bambusa, Phyllostachys, Dendrocalamus, and allied genera, having woody, usually hollow stems with stalked blades and flowering only after years of growth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 204738, "D": "as a natural, necessary, or inseparable element or quality", "S": [], "A": []}

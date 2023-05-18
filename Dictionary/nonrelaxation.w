@@ -1,0 +1,1 @@
+{"index": 206647, "D": "abatement or relief from bodily or mental work, effort, application, etc.", "S": [], "A": []}

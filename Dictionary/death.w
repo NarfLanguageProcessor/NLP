@@ -1,0 +1,1 @@
+{"index": 77637, "D": "Compare brain death. ", "S": ["decease ", "demise ", "dying ", "expiration ", "loss of life ", "passing "], "A": ["beginning ", "birth ", "nativity ", "creation ", "existence ", "genesis ", "life ", "origination ", "start "]}

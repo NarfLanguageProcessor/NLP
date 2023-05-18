@@ -1,0 +1,1 @@
+{"index": 353176, "D": "ornamented or decorated with tracery. ", "S": [], "A": []}

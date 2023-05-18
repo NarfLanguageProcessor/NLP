@@ -1,0 +1,1 @@
+{"index": 101387, "D": "a syllogism or other argument in which a premise or the conclusion is unexpressed.", "S": [], "A": []}

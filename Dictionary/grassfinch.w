@@ -1,0 +1,1 @@
+{"index": 129184, "D": "any of several Australian weaverbirds, especially of the genus Poephila.", "S": [], "A": []}

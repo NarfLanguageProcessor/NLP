@@ -1,0 +1,1 @@
+{"index": 182230, "D": "a small tree, Mespilus germanica, of the rose family, the fruit of which resembles a crab apple and is not edible until the early stages of decay.", "S": [], "A": []}

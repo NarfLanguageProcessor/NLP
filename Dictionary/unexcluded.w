@@ -1,0 +1,1 @@
+{"index": 341658, "D": "to shut or keep out; prevent the entrance of.", "S": [], "A": []}

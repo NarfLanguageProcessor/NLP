@@ -1,0 +1,1 @@
+{"index": 30321, "D": "a cut of beef  for broiling, pan-frying, etc.", "S": [], "A": []}

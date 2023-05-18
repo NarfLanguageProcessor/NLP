@@ -1,0 +1,1 @@
+{"index": 158041, "D": "annoying; irritating; exasperating; tiresome", "S": [], "A": []}

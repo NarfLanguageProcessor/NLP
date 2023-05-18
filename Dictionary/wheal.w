@@ -1,0 +1,1 @@
+{"index": 364472, "D": "a small, burning or itching swelling on the skin, as from a mosquito bite or from hives.", "S": ["abscess ", "cyst ", "pimple ", "sore ", "ulcer ", "welt "], "A": []}

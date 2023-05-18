@@ -1,0 +1,1 @@
+{"index": 160051, "D": "either of two minerals, jadeite  or nephrite, sometimes green, highly esteemed as an ornamental stone for carvings, jewelry, etc.", "S": ["baggage ", "floozy ", "harlot ", "hooker ", "hussy ", "prostitute ", "slattern ", "tart ", "tramp ", "vamp ", "wanton ", "wench ", "whore "], "A": []}

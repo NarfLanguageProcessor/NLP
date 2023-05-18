@@ -1,0 +1,1 @@
+{"index": 166590, "D": "the syllable used for the sixth tone of a diatonic scale.", "S": [], "A": []}

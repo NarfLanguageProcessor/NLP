@@ -1,0 +1,1 @@
+{"index": 287674, "D": "(used to express or indicate a sudden appearance, transformation, or other occurrence)", "S": [], "A": []}

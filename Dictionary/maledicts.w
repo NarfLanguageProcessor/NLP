@@ -1,0 +1,1 @@
+{"index": 178367, "D": "accursed. ", "S": ["accurse ", "anathematize ", "bedamn ", "blaspheme ", "cuss ", "damn ", "execrate ", "flame ", "imprecate "], "A": []}

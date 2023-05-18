@@ -1,0 +1,1 @@
+{"index": 273950, "D": "to move along a surface by revolving or turning over and over, as a ball or a wheel.", "S": ["coiled ", "curled ", "curved ", "folded ", "twisted "], "A": ["straight "]}

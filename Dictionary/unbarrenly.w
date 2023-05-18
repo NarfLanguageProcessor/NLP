@@ -1,0 +1,1 @@
+{"index": 335623, "D": "not producing or incapable of producing offspring; sterile", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11964, "D": "a person who advocates or believes in anarchy  or anarchism. ", "S": ["anarchic ", "barbarous ", "chaotic ", "turbulent ", "unruly ", "violent "], "A": ["calm ", "mild ", "moderate ", "obedient "]}

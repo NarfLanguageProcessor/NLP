@@ -1,0 +1,1 @@
+{"index": 272413, "D": "vulgar or indecent in speech, language, etc.; coarsely mocking, abusive, or irreverent; scurrilous.", "S": ["buffoon ", "comedian ", "comic ", "fool ", "jester ", "mime ", "prankster "], "A": []}

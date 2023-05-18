@@ -1,0 +1,1 @@
+{"index": 302558, "D": "a compartment in a stable or shed for the accommodation of one animal.", "S": ["halt ", "hamper ", "hinder ", "interrupt ", "postpone ", "put off ", "slow ", "stay ", "stop ", "suspend "], "A": ["advance ", "aid ", "allow ", "assist ", "carry out ", "continue ", "do ", "encourage ", "expedite ", "forward ", "help ", "permit ", "promote ", "push "]}

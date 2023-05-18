@@ -1,0 +1,1 @@
+{"index": 252619, "D": "to foretell or predict.", "S": ["likely ", "predicted ", "proposed ", "scheduled "], "A": []}

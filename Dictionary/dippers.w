@@ -1,0 +1,1 @@
+{"index": 86667, "D": "a person or thing that dips.", "S": ["bucket ", "cup ", "pail ", "scoop ", "spoon "], "A": []}

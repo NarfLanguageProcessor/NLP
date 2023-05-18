@@ -1,0 +1,1 @@
+{"index": 154035, "D": "not to be endured; intolerable; unbearable", "S": ["unbearable "], "A": ["delightful ", "endurable ", "happy ", "pleasant ", "sufferable ", "tolerable "]}

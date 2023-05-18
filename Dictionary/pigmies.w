@@ -1,0 +1,1 @@
+{"index": 236432, "D": "Pygmy. ", "S": ["Lilliputian ", "bantam ", "homunculus ", "manikin ", "peewee ", "runt ", "shrimp "], "A": ["giant "]}

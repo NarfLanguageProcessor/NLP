@@ -1,0 +1,1 @@
+{"index": 201044, "D": "tending to accumulate  or arising from accumulation;  cumulative.", "S": [], "A": []}

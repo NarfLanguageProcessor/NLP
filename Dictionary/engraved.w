@@ -1,0 +1,1 @@
+{"index": 100475, "D": "to chase (letters, designs, etc.) on a hard surface, as of metal, stone, or the end grain of wood", "S": ["decorated ", "embossed ", "minted ", "scratched "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133133, "D": "a ring-shaped metal device that can be locked around a person's wrist, usually one of a pair connected by a short chain or linked bar; shackle", "S": ["bracelets ", "braces ", "chains ", "clamps ", "cuffs ", "fetters ", "shackles ", "snaps ", "wristlets "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66137, "D": "the act or process of congealing;  the state of being congealed. ", "S": ["agglomeration ", "concentration ", "concretion ", "condensation ", "consolidation ", "curdling ", "embolism ", "inspissation ", "thickening "], "A": ["dispersal ", "separation "]}

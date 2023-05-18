@@ -1,0 +1,1 @@
+{"index": 366755, "D": "to take a wife; marry.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211218, "D": "the plural of odeum", "S": ["amphitheater ", "arena ", "auditorium ", "cinema ", "concert hall ", "drama ", "hall ", "house ", "movie ", "movie house ", "opera house ", "playhouse ", "room ", "scene ", "site ", "theatre "], "A": []}

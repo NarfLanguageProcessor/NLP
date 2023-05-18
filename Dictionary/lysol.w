@@ -1,0 +1,1 @@
+{"index": 173458, "D": "a brand of clear, brown, oily solution of cresols in soap, used as a disinfectant and antiseptic.", "S": [], "A": []}

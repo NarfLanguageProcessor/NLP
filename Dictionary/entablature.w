@@ -1,0 +1,1 @@
+{"index": 101144, "D": "the entire construction of a classical temple or the like between the columns and the eaves, usually composed of an architrave, a frieze, and a cornice.", "S": [], "A": []}

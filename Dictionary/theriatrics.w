@@ -1,0 +1,1 @@
+{"index": 321294, "D": "the study and practice of veterinary medicine.", "S": [], "A": []}

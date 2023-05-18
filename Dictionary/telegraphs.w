@@ -1,0 +1,1 @@
+{"index": 318063, "D": "an apparatus, system, or process for transmitting messages or signals to a distant place, especially by means of an electric device consisting essentially of a sending instrument and a distant receiving instrument connected by a conducting wire or other communications channel.", "S": ["summons "], "A": []}

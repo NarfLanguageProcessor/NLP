@@ -1,0 +1,1 @@
+{"index": 358413, "D": "the constant or obsessive repetition of meaningless words or phrases.", "S": ["circumlocution ", "diffuseness ", "diffusion ", "fecundity ", "garrulity ", "logorrhea ", "loquaciousness ", "loquacity ", "officialese ", "periphrasis ", "pleonasm ", "prolixity ", "redundancy ", "tautology ", "verbiage ", "verbosity "], "A": ["conciseness "]}

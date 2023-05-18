@@ -1,0 +1,1 @@
+{"index": 245983, "D": "to go before, as in place, order, rank, importance, or time.", "S": ["anticipate ", "foreshadow ", "predate ", "presage "], "A": ["end ", "finish ", "follow ", "obey "]}

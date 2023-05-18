@@ -1,0 +1,1 @@
+{"index": 49359, "D": "an aircraft designed to be launched by a catapult. ", "S": [], "A": []}

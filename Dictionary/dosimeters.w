@@ -1,0 +1,1 @@
+{"index": 91841, "D": "a device carried on the person for measuring the quantity of ionizing radiation, as gamma rays, to which one has been exposed.", "S": [], "A": []}

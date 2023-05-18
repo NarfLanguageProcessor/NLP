@@ -1,0 +1,1 @@
+{"index": 221142, "D": "to simplify  to the point of error, distortion, or misrepresentation.", "S": ["distorted ", "simplified "], "A": []}

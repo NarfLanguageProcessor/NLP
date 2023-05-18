@@ -1,0 +1,1 @@
+{"index": 250908, "D": "forbearance, especially habitual forbearance as a lifestyle choice, from any indulgence of a particular appetite, such as from sex or from the use of alcoholic beverages", "S": [], "A": []}

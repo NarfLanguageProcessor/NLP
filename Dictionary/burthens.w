@@ -1,0 +1,1 @@
+{"index": 43350, "D": "an archaic variant of burden1. ", "S": ["albatross "], "A": []}

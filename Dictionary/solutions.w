@@ -1,0 +1,1 @@
+{"index": 296906, "D": "the act of solving a problem, question, etc.", "S": ["explanation ", "quick fix ", "result "], "A": ["chemical ", "doubt ", "element ", "problem ", "quandary ", "question ", "trouble "]}

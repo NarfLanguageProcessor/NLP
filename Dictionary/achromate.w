@@ -1,0 +1,1 @@
+{"index": 2335, "D": "a person unable to perceive color.", "S": [], "A": []}

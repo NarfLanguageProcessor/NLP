@@ -1,0 +1,1 @@
+{"index": 105025, "D": "of or relating to Ethiopia  or to its inhabitants.", "S": [], "A": []}

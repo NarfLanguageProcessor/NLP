@@ -1,0 +1,1 @@
+{"index": 211294, "D": "any whale of the suborder Odontoceti, as dolphins, killer whales, and sperm whales, characterized by an asymmetrical skull, a single blowhole, and rows of teeth, feeding primarily on fish, squid, and crustaceans.", "S": [], "A": []}

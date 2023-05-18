@@ -1,0 +1,1 @@
+{"index": 79854, "D": "a person who believes in deism. ", "S": ["angelic ", "celestial ", "eternal ", "heavenly ", "holy ", "mystical ", "religious ", "sacred ", "spiritual ", "supernatural ", "transcendent ", "wonderful "], "A": ["earthly ", "hellish ", "irreligious ", "irreverent ", "ungodly ", "unholy ", "unsacred "]}

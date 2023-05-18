@@ -1,0 +1,1 @@
+{"index": 131428, "D": "a criminal armed with a gun.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212154, "D": "of, relating to, or having the form of an oligarchy. ", "S": ["cabalistic ", "cliquey ", "elite ", "exclusive ", "select "], "A": []}

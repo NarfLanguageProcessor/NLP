@@ -1,0 +1,1 @@
+{"index": 113186, "D": "the part of a chimney that opens into a room and in which fuel is burned; hearth.", "S": ["chimney ", "furnace ", "stove "], "A": []}

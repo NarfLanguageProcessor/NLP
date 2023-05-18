@@ -1,0 +1,1 @@
+{"index": 158039, "D": "to irritate, annoy, or exasperate", "S": ["annoy ", "bother ", "disturb ", "gall ", "inconvenience ", "irritate ", "peeve ", "provoke ", "rile ", "vex "], "A": ["aid ", "assist ", "calm ", "delight ", "help ", "make happy ", "please ", "soothe ", "appease ", "mollify "]}

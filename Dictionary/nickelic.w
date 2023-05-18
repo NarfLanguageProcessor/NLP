@@ -1,0 +1,1 @@
+{"index": 199621, "D": "of or containing nickel,  especially in the trivalent state.", "S": [], "A": []}

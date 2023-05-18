@@ -1,0 +1,1 @@
+{"index": 219716, "D": "to hit  too hard or too far, as in tennis.", "S": [], "A": []}

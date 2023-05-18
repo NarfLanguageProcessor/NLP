@@ -1,0 +1,1 @@
+{"index": 305711, "D": "to put into difficulties, especially financial ones", "S": ["confuse ", "corner ", "fluster ", "perplex "], "A": ["clarify ", "clear up ", "enlighten ", "explain "]}

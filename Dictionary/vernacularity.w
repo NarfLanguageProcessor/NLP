@@ -1,0 +1,1 @@
+{"index": 358666, "D": [], "S": ["atrocity ", "barbarity ", "brutality ", "cruelty ", "inhumanity "], "A": ["kindness ", "niceness "]}

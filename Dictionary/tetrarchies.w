@@ -1,0 +1,1 @@
+{"index": 320183, "D": "the position, territory, or tenure of a tetrarch, especially of the ruler of the fourth part of a province or country in the ancient Roman Empire", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265738, "D": "reigning; ruling (usually used following the noun it modifies)", "S": ["administration ", "authority ", "control ", "domination ", "government ", "power ", "regime ", "reign ", "sovereignty "], "A": ["submission ", "surrender ", "weakness ", "yielding ", "inferiority ", "subordination "]}

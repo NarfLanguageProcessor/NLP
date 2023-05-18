@@ -1,0 +1,1 @@
+{"index": 111231, "D": "the pressed and formed sheet-metal part mounted over the road wheels of an automobile, bicycle, etc., to reduce the splashing of mud, water, and the like.", "S": ["bumper "], "A": []}

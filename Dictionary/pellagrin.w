@@ -1,0 +1,1 @@
+{"index": 229309, "D": "a person affected with pellagra. ", "S": [], "A": []}

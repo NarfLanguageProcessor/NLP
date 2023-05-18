@@ -1,0 +1,1 @@
+{"index": 72010, "D": "to fill (something) by force with more than it can easily hold.", "S": ["crowd ", "load ", "overcrowd ", "pack ", "ram ", "shove ", "squeeze ", "stuff ", "wedge "], "A": ["abstain ", "diet ", "fast ", "let go ", "nibble ", "pull ", "release ", "surrender ", "yield "]}

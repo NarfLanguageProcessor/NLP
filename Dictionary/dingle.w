@@ -1,0 +1,1 @@
+{"index": 86121, "D": "a deep, narrow cleft between hills; shady dell.", "S": ["scrub ", "thicket "], "A": []}

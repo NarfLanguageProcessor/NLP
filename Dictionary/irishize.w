@@ -1,0 +1,1 @@
+{"index": 158021, "D": "to make Irish,  as in character or custom; give an Irish  character to.", "S": [], "A": []}

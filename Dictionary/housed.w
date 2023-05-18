@@ -1,0 +1,1 @@
+{"index": 144408, "D": "a building in which people live; residence for human beings.", "S": ["abide ", "reside "], "A": ["depart ", "go ", "leave ", "turn away ", "turn out "]}

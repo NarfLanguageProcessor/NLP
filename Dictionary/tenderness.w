@@ -1,0 +1,1 @@
+{"index": 318767, "D": [], "S": ["gentleness ", "kindness ", "sympathy ", "warmth "], "A": ["dislike ", "hate ", "hatred "]}

@@ -1,0 +1,1 @@
+{"index": 198108, "D": "(no longer in technical use) of, relating to, or characteristic of the peoples traditionally classified as the Negro race, especially those who originate in sub-Saharan Africa.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188039, "D": "a letter or other symbol on a coin that identifies the mint  at which it was struck.", "S": [], "A": []}

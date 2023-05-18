@@ -1,0 +1,1 @@
+{"index": 214166, "D": "incision of a testis.", "S": ["sterilization "], "A": []}

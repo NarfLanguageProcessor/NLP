@@ -1,0 +1,1 @@
+{"index": 154709, "D": "common ownership, use, participation, etc.", "S": [], "A": []}

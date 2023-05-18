@@ -1,0 +1,1 @@
+{"index": 81379, "D": "countable (def. 2b). ", "S": [], "A": []}

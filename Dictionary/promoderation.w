@@ -1,0 +1,1 @@
+{"index": 252298, "D": "the quality of being moderate;  restraint; avoidance of extremes or excesses; temperance.", "S": [], "A": []}

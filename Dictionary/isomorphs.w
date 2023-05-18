@@ -1,0 +1,1 @@
+{"index": 159114, "D": "an organism that is isomorphic with another or others.", "S": [], "A": []}

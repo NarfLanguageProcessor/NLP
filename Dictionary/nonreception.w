@@ -1,0 +1,1 @@
+{"index": 206517, "D": "the act of receiving  or the state of being received. ", "S": [], "A": []}

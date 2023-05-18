@@ -1,0 +1,1 @@
+{"index": 5114, "D": "aerial photograph. ", "S": [], "A": []}

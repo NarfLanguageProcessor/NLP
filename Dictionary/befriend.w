@@ -1,0 +1,1 @@
+{"index": 30538, "D": "to make friends  or become friendly with; act as a friend  to; help; aid", "S": ["advise ", "patronize ", "take up with "], "A": ["block ", "discourage ", "dissuade ", "harm ", "hinder ", "hurt ", "injure ", "obstruct ", "stop ", "thwart "]}

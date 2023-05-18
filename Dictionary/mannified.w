@@ -1,0 +1,1 @@
+{"index": 179429, "D": [], "S": ["manly ", "masculine "], "A": ["feminine ", "womanish ", "womanlike ", "womanly "]}

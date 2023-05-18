@@ -1,0 +1,1 @@
+{"index": 133628, "D": "(of a book) bound  with a stiff cover, usually of cloth or leather; casebound.", "S": [], "A": []}

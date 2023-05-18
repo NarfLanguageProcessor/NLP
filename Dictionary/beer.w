@@ -1,0 +1,1 @@
+{"index": 30364, "D": "an alcoholic beverage made by brewing and fermentation from cereals, usually malted barley, and flavored with hops and the like for a slightly bitter taste.", "S": ["ale ", "brew ", "chill ", "hops ", "lager ", "malt ", "oil ", "stout ", "suds "], "A": []}

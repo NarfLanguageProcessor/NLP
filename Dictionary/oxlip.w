@@ -1,0 +1,1 @@
+{"index": 222459, "D": "a Eurasian primrose, Primula elatior, having clusters of small yellow flowers on a long stem.", "S": [], "A": []}

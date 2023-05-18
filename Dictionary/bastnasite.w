@@ -1,0 +1,1 @@
+{"index": 28857, "D": "a rare-earth mineral, fluorocarbonate of lanthanum and cerium, with a waxy-yellow to reddish-brown color, commonly associated with zinc ores.", "S": [], "A": []}

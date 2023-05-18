@@ -1,0 +1,1 @@
+{"index": 198946, "D": "any of various enzymes, found esp in viruses, that catalyse the breakdown of glucosides containing neuraminic acid, an amino sugar", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84100, "D": "the ability of certain different elements to exist in place of each other in certain points of a space lattice; isomorphism.", "S": [], "A": []}

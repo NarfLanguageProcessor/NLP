@@ -1,0 +1,1 @@
+{"index": 259692, "D": "any minute, marine protozoan of the class Radiolaria, or, in some classification schemes, the superclass Actinopoda, having an amebalike body with radiating, filamentous pseudopodia and a usually elaborate outer skeleton.", "S": [], "A": []}

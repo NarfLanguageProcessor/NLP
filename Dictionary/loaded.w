@@ -1,0 +1,1 @@
+{"index": 174072, "D": "bearing or having a load; full", "S": ["weighted "], "A": ["empty "]}

@@ -1,0 +1,1 @@
+{"index": 134203, "D": "a soft yellowish mineral wax, C38H78, darkening on exposure", "S": [], "A": []}

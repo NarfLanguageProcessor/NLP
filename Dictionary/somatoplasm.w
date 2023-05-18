@@ -1,0 +1,1 @@
+{"index": 296988, "D": "the cytoplasm of a somatic cell, especially as distinguished from germ plasm.", "S": [], "A": []}

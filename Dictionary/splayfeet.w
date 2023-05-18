@@ -1,0 +1,1 @@
+{"index": 300307, "D": "a broad, flat foot,  especially one turned outward.", "S": [], "A": []}

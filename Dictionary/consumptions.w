@@ -1,0 +1,1 @@
+{"index": 67221, "D": "the act of consuming, as by use, decay, or destruction.", "S": ["drinking ", "expenditure ", "utilization "], "A": ["building ", "construction ", "creation ", "development ", "enlargement ", "expansion ", "growth ", "improvement ", "increase "]}

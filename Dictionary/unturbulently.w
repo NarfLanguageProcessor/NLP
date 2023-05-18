@@ -1,0 +1,1 @@
+{"index": 353478, "D": "being in a state of agitation or tumult; disturbed", "S": [], "A": []}

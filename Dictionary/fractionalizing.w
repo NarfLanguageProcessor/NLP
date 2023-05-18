@@ -1,0 +1,1 @@
+{"index": 118151, "D": "to divide or splinter into fractions, sections, factions, etc.", "S": [], "A": []}

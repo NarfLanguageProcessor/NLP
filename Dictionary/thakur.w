@@ -1,0 +1,1 @@
+{"index": 320439, "D": "chief or master (used as a term of respectful address among the Kshatriya caste in India).", "S": [], "A": []}

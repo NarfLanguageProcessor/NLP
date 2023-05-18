@@ -1,0 +1,1 @@
+{"index": 146466, "D": [], "S": ["X chromosome ", "Y chromosome ", "heterochromosome ", "sex chromatid ", "sex chromatin "], "A": []}

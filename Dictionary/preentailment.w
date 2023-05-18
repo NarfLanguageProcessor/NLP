@@ -1,0 +1,1 @@
+{"index": 247308, "D": "the act or fact of entailing,  or involving by necessity or as a consequence", "S": [], "A": []}

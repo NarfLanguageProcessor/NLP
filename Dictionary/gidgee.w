@@ -1,0 +1,1 @@
+{"index": 124735, "D": "any of various small acacia trees, Acacia cambagei, which at times emit an unpleasant smell", "S": [], "A": []}

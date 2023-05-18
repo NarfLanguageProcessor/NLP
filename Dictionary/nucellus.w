@@ -1,0 +1,1 @@
+{"index": 209295, "D": "the central cellular mass of the body of the ovule, containing the embryo sac.", "S": [], "A": []}

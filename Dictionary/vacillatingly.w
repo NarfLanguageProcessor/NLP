@@ -1,0 +1,1 @@
+{"index": 356406, "D": "not resolute; wavering; indecisive;  hesitating", "S": [], "A": []}

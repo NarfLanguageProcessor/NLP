@@ -1,0 +1,1 @@
+{"index": 150925, "D": "of, relating to, or resembling an indication; indicative", "S": [], "A": []}

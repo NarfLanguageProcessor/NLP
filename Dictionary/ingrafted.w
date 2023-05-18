@@ -1,0 +1,1 @@
+{"index": 152535, "D": "engraft. ", "S": ["affix ", "implant ", "propagate "], "A": ["divide ", "separate ", "withdraw "]}

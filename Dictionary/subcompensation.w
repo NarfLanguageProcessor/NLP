@@ -1,0 +1,1 @@
+{"index": 307517, "D": "the act or state of compensating,  as by rewarding someone for service or by making up for someone's loss, damage, or injury by giving the injured party an appropriate benefit.", "S": [], "A": []}

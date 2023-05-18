@@ -1,0 +1,1 @@
+{"index": 316701, "D": "delay.", "S": ["appointment ", "call ", "evening ", "holiday ", "interview ", "sojourn ", "stay ", "stop ", "stopover ", "talk ", "vacation ", "visitation ", "weekend "], "A": []}

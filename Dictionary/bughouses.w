@@ -1,0 +1,1 @@
+{"index": 42316, "D": "an insane asylum.", "S": ["bedlam ", "funny farm ", "laughing academy ", "loony bin ", "lunatic asylum ", "madhouse ", "mental health institution ", "mental home ", "mental hospital ", "mental institution ", "nuthouse ", "padded cell ", "psychiatric hospital ", "psychiatric ward ", "rubber room ", "sanatorium ", "sanitarium ", "snake pit "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346291, "D": "pertaining to meteorology  or to phenomena of the atmosphere or weather.", "S": [], "A": []}

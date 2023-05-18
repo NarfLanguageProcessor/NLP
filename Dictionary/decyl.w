@@ -1,0 +1,1 @@
+{"index": 78340, "D": "a group of isomeric univalent radicals, C10H21, derived from the decanes  by removing one hydrogen atom.", "S": [], "A": []}

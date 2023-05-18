@@ -1,0 +1,1 @@
+{"index": 302536, "D": "the right to set up a stall in a fair or market.", "S": [], "A": []}

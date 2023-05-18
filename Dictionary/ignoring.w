@@ -1,0 +1,1 @@
+{"index": 147093, "D": "to refrain from noticing or recognizing", "S": ["omitting ", "overlooking ", "slighting "], "A": []}

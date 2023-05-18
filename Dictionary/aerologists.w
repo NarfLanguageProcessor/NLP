@@ -1,0 +1,1 @@
+{"index": 5053, "D": "the branch of meteorology involving the observation of the atmosphere by means of balloons, airplanes, etc.", "S": [], "A": []}

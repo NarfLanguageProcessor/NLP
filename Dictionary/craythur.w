@@ -1,0 +1,1 @@
+{"index": 71953, "D": "the craythur (\u02c8kre\u02d0\u03b8\u0259r) a variant of cratur (def. 1)", "S": [], "A": []}

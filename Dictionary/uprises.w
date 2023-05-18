@@ -1,0 +1,1 @@
+{"index": 354945, "D": "to rise up; get up, as from a lying or sitting posture.", "S": ["arise ", "ascend ", "awake ", "awaken ", "climb ", "increase ", "rise ", "scale ", "stand "], "A": ["deaden ", "decline ", "decrease ", "descend ", "go down ", "go to sleep ", "lay ", "lie ", "lower ", "sit "]}

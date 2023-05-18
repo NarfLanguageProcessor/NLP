@@ -1,0 +1,1 @@
+{"index": 167364, "D": "an Ice Age lake in W Nevada and NE California, about 8,600 sq. mi. (22,000 sq. km)", "S": [], "A": []}

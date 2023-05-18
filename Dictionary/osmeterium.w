@@ -1,0 +1,1 @@
+{"index": 215363, "D": "a glandular process on the first thoracic segment of many caterpillars that emits a noxious odor to ward off predators.", "S": [], "A": []}

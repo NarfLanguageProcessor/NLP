@@ -1,0 +1,1 @@
+{"index": 158534, "D": "a line on a map or chart connecting points having an equal deviation from the normal value of some meteorological quantity, as temperature.", "S": [], "A": []}

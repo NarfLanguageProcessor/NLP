@@ -1,0 +1,1 @@
+{"index": 138443, "D": "any of a class of compounds containing chemically combined water. In the case of some hydrates, as washing soda, Na2CO3\u22c510H2O, the water is loosely held and is easily lost on heating; in others, as sulfuric acid, SO3\u22c5H2O, or H2SO4, it is strongly held as water of constitution.", "S": [], "A": []}

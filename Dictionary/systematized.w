@@ -1,0 +1,1 @@
+{"index": 292539, "D": "to arrange in or according to a system;  reduce to a system;  make systematic. ", "S": ["chartered ", "completed ", "founded ", "incorporated ", "initiated ", "organized ", "ratified ", "set up ", "settled "], "A": ["incomplete ", "unfinished "]}

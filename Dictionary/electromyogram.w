@@ -1,0 +1,1 @@
+{"index": 97146, "D": "a graphic record of the electric currents associated with muscular action. Abbreviation", "S": [], "A": []}

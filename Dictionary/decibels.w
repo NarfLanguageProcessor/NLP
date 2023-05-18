@@ -1,0 +1,1 @@
+{"index": 78306, "D": "a unit used to express the intensity of a sound wave, equal to 20 times the common logarithm of the ratio of the pressure produced by the sound wave to a reference pressure, usually 0.0002 microbar.", "S": [], "A": []}

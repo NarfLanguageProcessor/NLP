@@ -1,0 +1,1 @@
+{"index": 301884, "D": "to press forcibly together; compress.", "S": ["crowded ", "narrow ", "packed ", "small ", "tiny "], "A": ["big ", "broad-minded ", "empty ", "enormous ", "generous ", "huge ", "large "]}

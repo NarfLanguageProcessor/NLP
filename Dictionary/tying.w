@@ -1,0 +1,1 @@
+{"index": 323516, "D": "the present participle of tie. ", "S": ["confining ", "restraining ", "restricting "], "A": []}

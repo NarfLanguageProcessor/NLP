@@ -1,0 +1,1 @@
+{"index": 1854, "D": "a charge of wrongdoing; imputation of guilt or blame.", "S": ["allegation ", "complaint ", "denunciation ", "impeachment ", "indictment ", "recrimination "], "A": ["approval ", "commendation ", "praise ", "compliment ", "flattery "]}

@@ -1,0 +1,1 @@
+{"index": 268440, "D": "(of a design) raised in relief by hammering on the reverse side.", "S": [], "A": []}

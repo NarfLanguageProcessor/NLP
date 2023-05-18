@@ -1,0 +1,1 @@
+{"index": 331086, "D": "a device formerly used for inducing a blast of air upon the hearth of a forge by means of a current of falling water.", "S": [], "A": []}

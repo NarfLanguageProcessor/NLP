@@ -1,0 +1,1 @@
+{"index": 58084, "D": "the center  of a circumscribed circle; that point where any two perpendicular bisectors of the sides of a polygon inscribed in the circle intersect.", "S": [], "A": []}

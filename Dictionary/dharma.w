@@ -1,0 +1,1 @@
+{"index": 83895, "D": "essential quality or character, as of the cosmos or one's own nature.", "S": ["conduct ", "enlightenment ", "teachings "], "A": []}

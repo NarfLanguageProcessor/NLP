@@ -1,0 +1,1 @@
+{"index": 297244, "D": "conveying or producing sound.", "S": [], "A": []}

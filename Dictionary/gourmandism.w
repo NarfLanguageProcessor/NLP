@@ -1,0 +1,1 @@
+{"index": 128344, "D": "a person who is fond of good eating, often indiscriminatingly and to excess.", "S": [], "A": []}

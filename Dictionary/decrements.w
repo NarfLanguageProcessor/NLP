@@ -1,0 +1,1 @@
+{"index": 78751, "D": "the act or process of decreasing; gradual reduction.", "S": ["abatement ", "curtailment ", "cutback ", "decline ", "diminution ", "lessening ", "reduction ", "slowdown ", "subtraction "], "A": ["enlargement ", "increase ", "rise "]}

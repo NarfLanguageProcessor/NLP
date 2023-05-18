@@ -1,0 +1,1 @@
+{"index": 2888, "D": "having the reproductive organ at the end of the primary axis.", "S": [], "A": []}

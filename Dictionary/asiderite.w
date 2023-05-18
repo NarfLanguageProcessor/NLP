@@ -1,0 +1,1 @@
+{"index": 21217, "D": "an iron-free meteorite consisting of friable material.", "S": [], "A": []}

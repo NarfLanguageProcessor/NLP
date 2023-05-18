@@ -1,0 +1,1 @@
+{"index": 320216, "D": "a strophe, stanza, or poem consisting of four lines.", "S": [], "A": []}

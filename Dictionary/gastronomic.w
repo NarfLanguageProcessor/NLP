@@ -1,0 +1,1 @@
+{"index": 122623, "D": "of or relating to food and cookery, esp the art of good eating", "S": [], "A": []}

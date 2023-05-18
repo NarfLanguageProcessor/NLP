@@ -1,0 +1,1 @@
+{"index": 194912, "D": "womanly nature or qualities.", "S": ["delicacy ", "distaff ", "docility ", "effeminateness ", "feminineness ", "gentleness ", "kindness ", "softness ", "womanhood ", "womankind ", "womanliness "], "A": ["roughness "]}

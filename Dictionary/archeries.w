@@ -1,0 +1,1 @@
+{"index": 18853, "D": "the art, practice, or skill of an archer.", "S": ["ammunition ", "bomb ", "cannon ", "firearm ", "gun ", "knife ", "machete ", "machine gun ", "missile ", "nerve gas ", "pistol ", "revolver ", "rifle ", "shotgun ", "sword ", "tear gas "], "A": []}

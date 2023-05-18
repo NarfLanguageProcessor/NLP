@@ -1,0 +1,1 @@
+{"index": 339995, "D": "a member of any of several aristocratic classes of men ranking between earls and ordinary freemen, and granted lands by the king or by lords for military service.", "S": [], "A": []}

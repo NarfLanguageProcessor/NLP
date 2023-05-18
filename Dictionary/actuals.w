@@ -1,0 +1,1 @@
+{"index": 3301, "D": "See physicals", "S": ["genuine ", "legitimate "], "A": ["illegitimate "]}

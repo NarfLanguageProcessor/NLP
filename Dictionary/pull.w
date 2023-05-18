@@ -1,0 +1,1 @@
+{"index": 256246, "D": "to draw or haul toward oneself or itself, in a particular direction, or into a particular position", "S": ["drag ", "haul ", "pick ", "pluck ", "remove ", "rip ", "stretch ", "take out ", "tear ", "tow ", "trail ", "tug ", "yank "], "A": ["push "]}

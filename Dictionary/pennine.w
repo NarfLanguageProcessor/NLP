@@ -1,0 +1,1 @@
+{"index": 229754, "D": "a member of the chlorite group, rhombohedral in habit.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137513, "D": "of or relating to the branch of chemistry dealing with cyclic  compounds in which at least one of the ring members is not a carbon atom (contrasted with homocyclic).", "S": [], "A": []}

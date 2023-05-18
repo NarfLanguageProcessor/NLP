@@ -1,0 +1,1 @@
+{"index": 76614, "D": "archaic variants of damsel. ", "S": [], "A": []}

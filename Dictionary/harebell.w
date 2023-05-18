@@ -1,0 +1,1 @@
+{"index": 133722, "D": "a low plant, Campanula rotundifolia, of the bellflower family, having narrow leaves and blue, bell-shaped flowers.", "S": [], "A": []}

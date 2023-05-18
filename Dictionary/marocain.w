@@ -1,0 +1,1 @@
+{"index": 180283, "D": "a crepe fabric made of silk, wool, or rayon, or a combination of these fibers, and distinguished by a strong rib effect, used in the manufacture of dresses and women's suits; a heavy Canton crepe.", "S": [], "A": []}

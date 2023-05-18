@@ -1,0 +1,1 @@
+{"index": 154743, "D": "to subject to interconversion; interchange.", "S": ["compatible ", "synonymous "], "A": ["different ", "dissimilar "]}

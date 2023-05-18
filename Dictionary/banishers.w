@@ -1,0 +1,1 @@
+{"index": 27462, "D": "to expel from or relegate to a country or place by authoritative decree; condemn to exile", "S": [], "A": []}

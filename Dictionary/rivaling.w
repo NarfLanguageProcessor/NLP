@@ -1,0 +1,1 @@
+{"index": 273357, "D": "a person who is competing for the same object or goal as another, or who tries to equal or outdo another; competitor. ", "S": ["provisional "], "A": ["different ", "dissimilar ", "separate ", "unequal ", "unlike "]}

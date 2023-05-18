@@ -1,0 +1,1 @@
+{"index": 96130, "D": "equivalent full-power hour.", "S": [], "A": []}

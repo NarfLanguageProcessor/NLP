@@ -1,0 +1,1 @@
+{"index": 211943, "D": "a modern measure of weight in Turkey and neighboring countries, standarized as equal to the kilogram.", "S": [], "A": []}

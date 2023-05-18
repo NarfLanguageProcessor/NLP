@@ -1,0 +1,1 @@
+{"index": 327711, "D": "transcendent, surpassing, or superior.", "S": ["boundless ", "mystical ", "spiritual "], "A": []}

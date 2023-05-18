@@ -1,0 +1,1 @@
+{"index": 138344, "D": "a member of a Siouan people dwelling on the Missouri River.", "S": [], "A": []}

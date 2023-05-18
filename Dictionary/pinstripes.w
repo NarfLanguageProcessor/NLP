@@ -1,0 +1,1 @@
+{"index": 237252, "D": "a very thin stripe,  especially in fabrics.", "S": [], "A": []}

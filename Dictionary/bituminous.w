@@ -1,0 +1,1 @@
+{"index": 35303, "D": "resembling or containing bitumen", "S": ["dark ", "ebony ", "midnight ", "obsidian ", "raven ", "sable "], "A": ["white "]}

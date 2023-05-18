@@ -1,0 +1,1 @@
+{"index": 152845, "D": "a person or thing that injects.", "S": [], "A": []}

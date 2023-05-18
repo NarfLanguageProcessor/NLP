@@ -1,0 +1,1 @@
+{"index": 180058, "D": "any of several chiefly golden-flowered composite plants, especially of the genus Tagetes, as T. erecta, having strong-scented foliage and yielding an oil that repels root parasites.", "S": [], "A": []}

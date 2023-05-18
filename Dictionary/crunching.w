@@ -1,0 +1,1 @@
+{"index": 74228, "D": "to crush with the teeth; chew with a crushing noise.", "S": ["crumbling ", "crushing ", "disintegrating ", "eroding ", "grating ", "milling ", "powdering ", "rubbing ", "scraping ", "shivering ", "smashing "], "A": []}

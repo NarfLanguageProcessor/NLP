@@ -1,0 +1,1 @@
+{"index": 88867, "D": "distinct in kind; essentially different; dissimilar", "S": ["contrast ", "discrepancy ", "disparity ", "dissimilarity ", "distinction ", "divergence ", "divergency ", "diversity ", "separation ", "unlikeness "], "A": ["agreement ", "equality ", "harmony ", "likeness ", "sameness ", "similarity ", "uniformity "]}

@@ -1,0 +1,1 @@
+{"index": 176220, "D": "any of various slender, air-breathing fishes  of the order (or subclass) Dipnoi, of rivers and lakes in Africa, South America, and Australia, having a lunglike air bladder as well as gills and growing to a length of 3 to 6 feet (0.9 to 1.8 meters).", "S": [], "A": []}

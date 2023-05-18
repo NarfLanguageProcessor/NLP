@@ -1,0 +1,1 @@
+{"index": 257138, "D": "the act of pursuing", "S": ["hunt ", "inquiry ", "quest "], "A": ["retreat ", "surrender "]}

@@ -1,0 +1,1 @@
+{"index": 43963, "D": "a telegram  sent by underwater cable. ", "S": ["summons ", "telegraph "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198309, "D": "of, relating to, or designating any of various movements of the late 1600s to the mid 1800s in architecture, the arts, literature, etc. that attempted to revive classical Greek or Roman aesthetics or philosophy.", "S": [], "A": []}

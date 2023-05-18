@@ -1,0 +1,1 @@
+{"index": 52345, "D": "a southern Asian tree, Michelia champaca, of the magnolia family, having fragrant yellow or orange flowers and yielding an oil (champaca oil ) used in perfumes.", "S": [], "A": []}

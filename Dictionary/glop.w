@@ -1,0 +1,1 @@
+{"index": 126598, "D": "unappetizing food, especially of a semiliquid consistency.", "S": ["gunk ", "muck ", "sludge "], "A": []}

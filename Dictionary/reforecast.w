@@ -1,0 +1,1 @@
+{"index": 265227, "D": "to predict (a future condition or occurrence); calculate in advance", "S": [], "A": []}

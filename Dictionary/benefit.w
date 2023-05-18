@@ -1,0 +1,1 @@
+{"index": 31576, "D": "something that is advantageous or good; an advantage", "S": ["aid ", "asset ", "assistance ", "gain ", "help ", "interest ", "perk ", "profit ", "prosperity ", "use ", "welfare "], "A": ["blockage ", "disadvantage ", "hindrance ", "hurt ", "injury ", "loss ", "obstruction ", "stop ", "bad fortune ", "bad luck ", "disapproval "]}

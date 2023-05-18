@@ -1,0 +1,1 @@
+{"index": 127949, "D": "like or covered with goo;  sticky; viscid.", "S": [], "A": []}

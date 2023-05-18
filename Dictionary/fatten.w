@@ -1,0 +1,1 @@
+{"index": 110344, "D": "to make fat.", "S": ["augment ", "broaden ", "build up ", "swell "], "A": ["decrease ", "contract ", "deflate ", "deplete ", "lose ", "shrink "]}

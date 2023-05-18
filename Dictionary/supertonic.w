@@ -1,0 +1,1 @@
+{"index": 312816, "D": "the second tone of a diatonic scale, being the next above the tonic. ", "S": [], "A": []}

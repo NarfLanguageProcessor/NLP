@@ -1,0 +1,1 @@
+{"index": 205438, "D": "a person who studies or is an expert in natural history,  especially a zoologist or botanist.", "S": [], "A": []}

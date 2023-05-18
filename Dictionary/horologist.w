@@ -1,0 +1,1 @@
+{"index": 143924, "D": "an expert in horology. ", "S": ["goldsmith ", "lapidary ", "silversmith ", "watchmaker "], "A": []}

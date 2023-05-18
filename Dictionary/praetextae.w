@@ -1,0 +1,1 @@
+{"index": 245194, "D": "(in ancient Rome) a white toga with a broad purple border, worn by priests and magistrates as an official costume, and by certain other Romans as ceremonial dress.", "S": [], "A": []}

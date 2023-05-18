@@ -1,0 +1,1 @@
+{"index": 35426, "D": "to reveal indiscreetly and thoughtlessly", "S": ["babble ", "gabble ", "jabber ", "nonsense ", "prattle "], "A": ["sense "]}

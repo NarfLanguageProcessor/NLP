@@ -1,0 +1,1 @@
+{"index": 303814, "D": "a low set of hinged steps,  often folding into or under a stool,  used typically in a kitchen for reaching high shelves.", "S": [], "A": []}

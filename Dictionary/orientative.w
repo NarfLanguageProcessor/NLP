@@ -1,0 +1,1 @@
+{"index": 214562, "D": "the act or process of orienting.", "S": [], "A": []}

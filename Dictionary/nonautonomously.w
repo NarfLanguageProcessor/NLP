@@ -1,0 +1,1 @@
+{"index": 201591, "D": "in a way that is self-governing or free of outside control; independently", "S": [], "A": []}

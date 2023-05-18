@@ -1,0 +1,1 @@
+{"index": 204050, "D": "of, relating to, or befitting a son or daughter", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321899, "D": "a person who thinks,  as in a specified way or manner", "S": ["brain ", "philosopher "], "A": []}

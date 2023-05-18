@@ -1,0 +1,1 @@
+{"index": 304397, "D": "a crystalline, water-insoluble steroid, C29H48O, present in soybeans or calabar beans, used chiefly as a raw material in the manufacture of progesterone.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43433, "D": "a low plant with many branches that arise from or near the ground.", "S": [], "A": []}

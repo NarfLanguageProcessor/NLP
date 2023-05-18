@@ -1,0 +1,1 @@
+{"index": 237893, "D": "a mineral, magnesium-aluminum garnet, Mg3Al2Si3O12, occurring in crystals of varying shades of red, and frequently used as a gem.", "S": [], "A": []}

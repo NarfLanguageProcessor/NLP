@@ -1,0 +1,1 @@
+{"index": 368858, "D": "an island off the E coast of Africa", "S": [], "A": []}

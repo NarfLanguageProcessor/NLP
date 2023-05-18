@@ -1,0 +1,1 @@
+{"index": 85370, "D": "the property of a substance indicative of the rate at which a thermal disturbance, as a rise in temperature, will be transmitted through the substance.", "S": [], "A": []}

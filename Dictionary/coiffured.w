@@ -1,0 +1,1 @@
+{"index": 62442, "D": "a style of arranging the hair.", "S": [], "A": []}

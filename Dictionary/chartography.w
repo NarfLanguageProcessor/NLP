@@ -1,0 +1,1 @@
+{"index": 52988, "D": "rare a variant spelling of cartography", "S": [], "A": []}

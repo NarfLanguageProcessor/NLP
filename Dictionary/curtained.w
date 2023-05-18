@@ -1,0 +1,1 @@
+{"index": 75496, "D": "a hanging piece of fabric used to shut out the light from a window, adorn a room, increase privacy, etc.", "S": ["protected ", "shady "], "A": ["exposed "]}

@@ -1,0 +1,1 @@
+{"index": 212604, "D": "a liturgical stole, resembling a pallium, worn by bishops.", "S": [], "A": []}

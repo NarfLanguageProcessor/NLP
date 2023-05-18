@@ -1,0 +1,1 @@
+{"index": 79912, "D": "(in names of Spanish derivation) a contraction of de and the article el", "S": [], "A": []}

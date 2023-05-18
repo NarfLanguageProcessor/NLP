@@ -1,0 +1,1 @@
+{"index": 344192, "D": "the advocacy or pursuit of a unilateral  policy, especially in disarmament.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81228, "D": "the state or quality of being dense; compactness; closely set or crowded condition.", "S": ["frequency ", "quantity ", "thickness "], "A": ["openness ", "sparsity ", "thinness "]}

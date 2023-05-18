@@ -1,0 +1,1 @@
+{"index": 145621, "D": "(in the Chinese Empire) the residence or office of a public official.", "S": [], "A": []}

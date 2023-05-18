@@ -1,0 +1,1 @@
+{"index": 284748, "D": "any of several vitrified ceramic wares lacking the translucency or hardness of true porcelain  but otherwise similar to it.", "S": [], "A": []}

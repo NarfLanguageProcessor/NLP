@@ -1,0 +1,1 @@
+{"index": 315814, "D": "a tree-dwelling, tropical American anteater, Tamandua tetradactyla, having a prehensile tail, four-clawed forelimbs, and coarse, tan hair with black markings on the trunk.", "S": [], "A": []}

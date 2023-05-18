@@ -1,0 +1,1 @@
+{"index": 263594, "D": "refreshment by means of some pastime, agreeable exercise, or the like.", "S": [], "A": []}

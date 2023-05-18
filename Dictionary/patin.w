@@ -1,0 +1,1 @@
+{"index": 227811, "D": "variants of paten", "S": [], "A": []}

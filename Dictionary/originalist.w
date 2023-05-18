@@ -1,0 +1,1 @@
+{"index": 214599, "D": "the doctrine that a legal document or statute should be interpreted by determining its original meaning, or how it would have been understood by informed readers when it was first written. ", "S": [], "A": []}

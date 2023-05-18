@@ -1,0 +1,1 @@
+{"index": 311093, "D": "an instrument that indicates the time of day by means of the position, on a graduated plate or surface, of the shadow of the gnomon as it is cast by the sun. ", "S": ["timer "], "A": []}

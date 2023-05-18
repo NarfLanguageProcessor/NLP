@@ -1,0 +1,1 @@
+{"index": 118415, "D": "a male given name, German form of Frank. ", "S": [], "A": []}

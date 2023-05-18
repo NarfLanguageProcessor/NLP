@@ -1,0 +1,1 @@
+{"index": 223883, "D": "a person who believes in a doctrine of rebirth or transmigration of souls.", "S": [], "A": []}

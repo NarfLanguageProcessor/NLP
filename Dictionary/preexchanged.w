@@ -1,0 +1,1 @@
+{"index": 247390, "D": "to give up (something) for something else; part with for some equivalent; change for another.", "S": [], "A": []}

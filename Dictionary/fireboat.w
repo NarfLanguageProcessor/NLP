@@ -1,0 +1,1 @@
+{"index": 113115, "D": "a powered vessel equipped to fight fires  on boats,  docks, shores, etc.", "S": [], "A": []}

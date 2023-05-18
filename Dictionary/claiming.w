@@ -1,0 +1,1 @@
+{"index": 59074, "D": "to demand by or as by virtue of a right; demand as a right or as due", "S": ["acute ", "compelling ", "critical ", "crucial ", "demanding ", "dire ", "immediate ", "imperative ", "insistent ", "serious ", "vital "], "A": ["dull ", "inessential ", "optional ", "trivial ", "uncritical ", "unimportant "]}

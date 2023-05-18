@@ -1,0 +1,1 @@
+{"index": 243566, "D": "a low dish or cup, often with a handle, from which soup, porridge, or the like is eaten.", "S": ["basin ", "dish ", "pot ", "urn "], "A": []}

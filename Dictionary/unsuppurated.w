@@ -1,0 +1,1 @@
+{"index": 352471, "D": "to produce or discharge pus, as a wound; maturate.", "S": [], "A": []}

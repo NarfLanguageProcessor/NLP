@@ -1,0 +1,1 @@
+{"index": 111922, "D": "field goal; field goals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223227, "D": "outside of court; without legal proceedings.", "S": [], "A": []}

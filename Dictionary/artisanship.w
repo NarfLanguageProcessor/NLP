@@ -1,0 +1,1 @@
+{"index": 20750, "D": "a person skilled in a utilitarian art, trade, or craft, especially one requiring manual skill; a craftsperson. ", "S": ["art ", "artifact ", "craft "], "A": ["avocation ", "cause ", "destruction ", "entertainment ", "fun ", "hobby ", "pastime ", "ruin "]}

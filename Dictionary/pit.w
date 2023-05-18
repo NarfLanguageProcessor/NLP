@@ -1,0 +1,1 @@
+{"index": 238204, "D": "a naturally formed or excavated hole or cavity in the ground", "S": ["abyss ", "crater ", "mine ", "shaft ", "tomb ", "trench "], "A": ["bulge "]}

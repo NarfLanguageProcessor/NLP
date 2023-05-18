@@ -1,0 +1,1 @@
+{"index": 274105, "D": "of or relating to Rome as the center of the Roman Catholic Church.", "S": [], "A": []}

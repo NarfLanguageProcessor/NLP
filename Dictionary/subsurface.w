@@ -1,0 +1,1 @@
+{"index": 309405, "D": "below the surface,  especially of a body of water.", "S": [], "A": []}

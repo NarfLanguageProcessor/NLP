@@ -1,0 +1,1 @@
+{"index": 143894, "D": "to swindle, cheat, hoodwink, or hoax.", "S": ["bamboozle ", "deceive ", "dupe ", "fool ", "snow ", "swindle ", "trick "], "A": []}

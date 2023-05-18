@@ -1,0 +1,1 @@
+{"index": 7719, "D": "a recess or small room adjacent to or opening out of a room", "S": ["compartment ", "cubicle "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288426, "D": "an overlapping joint, as a rabbet, between two boards joined edge to edge.", "S": [], "A": []}

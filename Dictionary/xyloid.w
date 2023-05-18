@@ -1,0 +1,1 @@
+{"index": 368565, "D": "resembling wood; ligneous.", "S": ["arboraceous ", "ligneous ", "sylvan ", "wooded ", "wooden "], "A": []}

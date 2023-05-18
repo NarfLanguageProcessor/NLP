@@ -1,0 +1,1 @@
+{"index": 240964, "D": "a careless or indifferent person.", "S": [], "A": []}

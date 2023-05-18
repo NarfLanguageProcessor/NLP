@@ -1,0 +1,1 @@
+{"index": 92513, "D": "a person employed in making mechanical drawings, as of machines, structures, etc.", "S": ["computer graphics ", "drafting ", "graphic arts ", "graphics "], "A": []}

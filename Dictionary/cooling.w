@@ -1,0 +1,1 @@
+{"index": 68278, "D": "moderately cold; neither warm nor cold", "S": ["bracing ", "exhilarating ", "fresh ", "invigorating ", "stimulating "], "A": ["boring ", "depressing "]}

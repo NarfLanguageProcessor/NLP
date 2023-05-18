@@ -1,0 +1,1 @@
+{"index": 10256, "D": "the act of amending  or the state of being amended. ", "S": ["change ", "modification ", "reform ", "remedy ", "revision "], "A": ["damage ", "harm ", "hurt ", "injury ", "worsening "]}

@@ -1,0 +1,1 @@
+{"index": 321347, "D": "thermal (def. 1). ", "S": ["melting ", "roasting ", "snug "], "A": []}

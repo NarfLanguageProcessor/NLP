@@ -1,0 +1,1 @@
+{"index": 312252, "D": "having or showing a moderate or humble estimate of one's merits, importance, etc.; free from vanity, egotism, boastfulness, or great pretensions.", "S": [], "A": []}

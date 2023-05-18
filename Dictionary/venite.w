@@ -1,0 +1,1 @@
+{"index": 358108, "D": "the 95th Psalm (94th in the Vulgate and Douay), used as a canticle at matins or morning prayers.", "S": [], "A": []}

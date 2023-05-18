@@ -1,0 +1,1 @@
+{"index": 314188, "D": "the space covered by the stroke of a scythe or the cut of a mowing machine.", "S": ["fodder ", "grass "], "A": []}

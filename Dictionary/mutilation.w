@@ -1,0 +1,1 @@
+{"index": 196268, "D": [], "S": ["accident ", "blow ", "bruise ", "casualty ", "catastrophe ", "contamination ", "corruption ", "destruction ", "deterioration ", "devastation ", "disturbance ", "hardship ", "harm ", "illness ", "impairment ", "pollution ", "suffering ", "wound "], "A": ["betterment ", "amelioration ", "improvement "]}

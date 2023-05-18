@@ -1,0 +1,1 @@
+{"index": 319957, "D": "a colorless, nonflammable, nonexplosive liquid, C2Cl4, used as a solvent, especially in dry cleaning.", "S": [], "A": []}

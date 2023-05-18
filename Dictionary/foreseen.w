@@ -1,0 +1,1 @@
+{"index": 116937, "D": "to have prescience of; to know in advance; foreknow. ", "S": ["expected "], "A": []}

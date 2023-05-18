@@ -1,0 +1,1 @@
+{"index": 305661, "D": "without a bend, angle, or curve; not curved; direct", "S": ["consecutive ", "nonstop ", "short ", "smooth ", "solid ", "straightforward ", "successive ", "true "], "A": ["broken ", "intermittent ", "level ", "uneven ", "varying "]}

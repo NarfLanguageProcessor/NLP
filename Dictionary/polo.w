@@ -1,0 +1,1 @@
+{"index": 242766, "D": "a game played on horseback between two teams, each of four players, the object being to score points by driving a wooden ball into the opponents' goal using a long-handled mallet.", "S": ["blouse ", "jersey ", "pullover ", "tunic ", "turtleneck "], "A": []}

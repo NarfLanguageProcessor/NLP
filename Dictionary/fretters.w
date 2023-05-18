@@ -1,0 +1,1 @@
+{"index": 118857, "D": "to feel or express worry, annoyance, discontent, or the like", "S": ["attacker ", "carper ", "caviler ", "censor ", "complainant ", "complainer ", "defamer ", "disparager ", "doubter ", "maligner ", "muckraker ", "nagger ", "quibbler ", "scolder ", "slanderer ", "vilifier ", "worrier ", "zapper "], "A": []}

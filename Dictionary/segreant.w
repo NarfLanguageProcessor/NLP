@@ -1,0 +1,1 @@
+{"index": 283227, "D": "(of a griffin) rampant.", "S": [], "A": []}

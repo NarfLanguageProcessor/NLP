@@ -1,0 +1,1 @@
+{"index": 130162, "D": "pertaining to a decorative design (Grolier design ) in bookbinding, consisting of bands interlaced in geometric forms.", "S": [], "A": []}

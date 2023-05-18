@@ -1,0 +1,1 @@
+{"index": 147103, "D": "any of numerous lizards of the family Iguanidae, of the New World, Madagascar, and several islands of the South Pacific, comprising terrestrial, semiaquatic, and arboreal species typically with a long tail and, in the male, a bright throat patch, including the anoles, collared lizards, earless lizards, horned lizards, and iguanas.", "S": [], "A": []}

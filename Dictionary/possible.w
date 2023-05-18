@@ -1,0 +1,1 @@
+{"index": 243886, "D": "that may or can be, exist, happen, be done, be used, etc.", "S": ["achievable ", "available ", "conceivable ", "desirable ", "feasible ", "imaginable ", "potential ", "probable ", "viable "], "A": ["impossible ", "improbable ", "inconceivable ", "unimaginable ", "unlikely ", "unpractical ", "unreasonable ", "unthinkable "]}

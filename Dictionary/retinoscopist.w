@@ -1,0 +1,1 @@
+{"index": 270529, "D": "an objective method of determining the refractive error of an eye.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 241894, "D": "polygenic inheritance", "S": [], "A": []}

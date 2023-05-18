@@ -1,0 +1,1 @@
+{"index": 269791, "D": "answerable or accountable, as for something within one's power, control, or management (often followed by to or for)", "S": ["answerable ", "culpable ", "guilty ", "important ", "liable ", "pledged ", "subject "], "A": ["innocent ", "right ", "unaccountable "]}

@@ -1,0 +1,1 @@
+{"index": 16496, "D": "bent or directed forward or upward.", "S": [], "A": []}

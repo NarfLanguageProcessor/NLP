@@ -1,0 +1,1 @@
+{"index": 169937, "D": "a cultivated plant, Allium ampeloprasum, of the amaryllis family, related to the onion, with a long cylindrical bundle of straplike leaves that are used in cooking, especially the paler portion near the base.", "S": [], "A": []}

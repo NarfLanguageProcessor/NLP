@@ -1,0 +1,1 @@
+{"index": 80465, "D": "a combining form appearing in loanwords from French meaning \u201chalf\u201d (demilune), \u201clesser\u201d (demitasse), or sometimes used with a pejorative sense (demimonde); on this model, also prefixed to words of English origin (demigod).", "S": [], "A": []}

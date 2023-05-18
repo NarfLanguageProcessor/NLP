@@ -1,0 +1,1 @@
+{"index": 20460, "D": "(in Russia or the Soviet Union) a peasants' or workers' cooperative; an association of workers or peasants for collective effort.", "S": [], "A": []}

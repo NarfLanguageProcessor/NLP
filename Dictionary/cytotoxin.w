@@ -1,0 +1,1 @@
+{"index": 58825, "D": "a substance that has a toxic effect on certain cells.", "S": [], "A": []}

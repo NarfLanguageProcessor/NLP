@@ -1,0 +1,1 @@
+{"index": 262640, "D": "to cast  again or anew.", "S": ["copied ", "duplicated ", "imitated ", "reciprocated ", "redone ", "reduplicated ", "refashioned ", "remade ", "replicated ", "reproduced ", "reworked "], "A": []}

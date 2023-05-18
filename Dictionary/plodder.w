@@ -1,0 +1,1 @@
+{"index": 240168, "D": "a person who plods, esp one who works in a slow and persevering but uninspired manner", "S": ["factotum ", "grind ", "laborer ", "menial ", "peon ", "servant ", "toiler ", "workaholic ", "worker ", "workhorse "], "A": ["idler ", "lazy person "]}

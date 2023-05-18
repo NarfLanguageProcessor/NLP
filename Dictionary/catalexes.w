@@ -1,0 +1,1 @@
+{"index": 49256, "D": "the absence of a syllable at the beginning or end of a line of metrical verse resulting in an incomplete foot, most often occurring in the last foot at the end of a verse; a catalectic  line.", "S": [], "A": []}

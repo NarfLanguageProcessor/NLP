@@ -1,0 +1,1 @@
+{"index": 225944, "D": "equipment, apparatus, or furnishing used in or necessary for a particular activity", "S": [], "A": []}

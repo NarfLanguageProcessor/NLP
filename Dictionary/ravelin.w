@@ -1,0 +1,1 @@
+{"index": 261242, "D": "a V-shaped outwork outside the main ditch and covering the works between two bastions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53262, "D": "to make cheap or cheaper.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64965, "D": "a person who vouches for the innocence and truthful testimony of another.", "S": ["actor ", "agent ", "confederate ", "contractor ", "defendant ", "litigant ", "partaker ", "participant ", "plaintiff ", "plotter ", "sharer "], "A": []}

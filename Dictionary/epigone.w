@@ -1,0 +1,1 @@
+{"index": 102466, "D": "an undistinguished imitator, follower, or successor of an important writer, painter, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72772, "D": "(in medieval adaptations of the story of the Trojan wars) a Trojan woman portrayed as the lover of Troilus, whom she deserts for Diomedes.", "S": [], "A": []}

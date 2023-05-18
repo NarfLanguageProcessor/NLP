@@ -1,0 +1,1 @@
+{"index": 42670, "D": "(in Biblical use) the papyrus, Cyperus papyrus.", "S": [], "A": []}

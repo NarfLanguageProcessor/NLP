@@ -1,0 +1,1 @@
+{"index": 167025, "D": "any of a group of cyclic amides  characterized by the NHCO group, derived from aminocarboxylic acids by the intramolecular elimination of water from the amino and carboxylic groups.", "S": [], "A": []}

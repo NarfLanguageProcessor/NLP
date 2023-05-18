@@ -1,0 +1,1 @@
+{"index": 184292, "D": "of, relating to, or living in the ocean at a depth of between 600 feet (180 meters) and 3,000 feet (900 meters).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83142, "D": "becoming worse or inferior in condition, character, quality, value, etc.", "S": ["powdery ", "soft "], "A": ["flexible ", "pliable "]}

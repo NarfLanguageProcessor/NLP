@@ -1,0 +1,1 @@
+{"index": 180097, "D": [], "S": ["army ", "force ", "navy ", "service ", "troop "], "A": ["noncombatants "]}

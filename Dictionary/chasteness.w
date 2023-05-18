@@ -1,0 +1,1 @@
+{"index": 53055, "D": "refraining from sexual intercourse that is regarded as contrary to morality or religion; virtuous. ", "S": ["prudence ", "self-discipline "], "A": ["blandness ", "calmness ", "elaborateness ", "extravagance ", "gentility ", "indulgence ", "luxuriousness ", "meekness ", "mildness ", "spending "]}

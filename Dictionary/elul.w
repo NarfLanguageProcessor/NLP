@@ -1,0 +1,1 @@
+{"index": 97834, "D": "the twelfth month of the Jewish calendar.", "S": [], "A": []}

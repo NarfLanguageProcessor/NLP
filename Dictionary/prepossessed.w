@@ -1,0 +1,1 @@
+{"index": 248887, "D": "to possess  or dominate mentally beforehand, as a prejudice does.", "S": ["biased ", "colored ", "inclined ", "jaundiced ", "predisposed ", "prejudiced ", "warped "], "A": ["fair ", "impartial ", "unbiased ", "unprejudiced "]}

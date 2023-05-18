@@ -1,0 +1,1 @@
+{"index": 351464, "D": "to smile, laugh, or contort the face in a manner that shows scorn or contempt", "S": [], "A": []}

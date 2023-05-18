@@ -1,0 +1,1 @@
+{"index": 300082, "D": "having a spire or spiral parts.", "S": [], "A": []}

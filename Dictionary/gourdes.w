@@ -1,0 +1,1 @@
+{"index": 128329, "D": "a paper money and monetary unit of Haiti, equal to 100 centimes. Abbreviation", "S": [], "A": []}

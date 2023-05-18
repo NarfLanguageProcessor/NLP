@@ -1,0 +1,1 @@
+{"index": 7498, "D": "U.S. conservationist and cofounder of the National Park Service.", "S": [], "A": []}

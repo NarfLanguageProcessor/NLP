@@ -1,0 +1,1 @@
+{"index": 267744, "D": "to restore to good condition; make new or as if new again; repair. ", "S": [], "A": []}

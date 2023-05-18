@@ -1,0 +1,1 @@
+{"index": 168380, "D": "a small lap, flap, or loosely hanging part, especially of a garment or headdress.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253960, "D": "projecting or protuberant; thrusting forward, upward, or outward.", "S": ["conspicuous ", "flagrant ", "glaring ", "outright ", "overt ", "shameless ", "unabashed "], "A": ["concealed ", "hidden ", "moral ", "secret "]}

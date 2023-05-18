@@ -1,0 +1,1 @@
+{"index": 23174, "D": "pertaining to or having the character of attribution  or an attribute. ", "S": [], "A": []}

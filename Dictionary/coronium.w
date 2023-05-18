@@ -1,0 +1,1 @@
+{"index": 69476, "D": "a hypothetical element once thought to exist because certain spectral lines in the emission spectrum of the solar corona  could not be identified by known elements. These lines were subsequently found to be emitted by certain highly ionized metals.", "S": [], "A": []}

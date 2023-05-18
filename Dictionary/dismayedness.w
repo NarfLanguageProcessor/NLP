@@ -1,0 +1,1 @@
+{"index": 88635, "D": "thoroughly disheartened, as by sudden danger or trouble", "S": [], "A": []}

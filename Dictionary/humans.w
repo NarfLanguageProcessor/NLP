@@ -1,0 +1,1 @@
+{"index": 144891, "D": "of, relating to, characteristic of, or having the nature of people", "S": ["community ", "crowd ", "family ", "folk ", "nation ", "population ", "public ", "society "], "A": ["animals ", "plants "]}

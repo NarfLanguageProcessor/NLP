@@ -1,0 +1,1 @@
+{"index": 77575, "D": "an enzyme that releases the amino group from a compound.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344950, "D": "something that is formed with a single leg or foot, as a one-legged support for a camera.", "S": [], "A": []}

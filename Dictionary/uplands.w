@@ -1,0 +1,1 @@
+{"index": 354794, "D": "land  elevated above other land. ", "S": ["prominence "], "A": ["base ", "bottom ", "decrease ", "depth ", "drop ", "lowness ", "nadir "]}

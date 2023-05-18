@@ -1,0 +1,1 @@
+{"index": 247058, "D": "the act of displacing.", "S": [], "A": []}

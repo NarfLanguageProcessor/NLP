@@ -1,0 +1,1 @@
+{"index": 274661, "D": "a unit of weight used in Islamic countries, varying widely in value, but of the order of the pound.", "S": [], "A": []}

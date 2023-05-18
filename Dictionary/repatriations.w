@@ -1,0 +1,1 @@
+{"index": 268056, "D": "the act or process of returning a person or thing to the country of origin", "S": ["reconstruction ", "recovery ", "refurbishment ", "rehabilitation ", "reinstatement ", "renewal ", "renovation ", "revival "], "A": ["destruction ", "disease ", "penalty "]}

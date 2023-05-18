@@ -1,0 +1,1 @@
+{"index": 260198, "D": "a spirituous liquor distilled from grain, grapes, plums, etc., in southeastern Europe and western Asia.", "S": [], "A": []}

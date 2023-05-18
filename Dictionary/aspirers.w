@@ -1,0 +1,1 @@
+{"index": 21523, "D": "to long, aim, or seek ambitiously; be eagerly desirous, especially for something great or of high value (usually followed by to, after, or an infinitive)", "S": ["candidate ", "hopeful ", "wannabe "], "A": []}

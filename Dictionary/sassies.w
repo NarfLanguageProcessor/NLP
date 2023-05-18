@@ -1,0 +1,1 @@
+{"index": 278626, "D": "disrespectful or impudent; impertinent; insolent", "S": [], "A": []}

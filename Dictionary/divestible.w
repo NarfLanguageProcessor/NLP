@@ -1,0 +1,1 @@
+{"index": 90305, "D": "capable of being divested,  as an estate in land.", "S": [], "A": []}

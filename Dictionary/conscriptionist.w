@@ -1,0 +1,1 @@
+{"index": 66692, "D": "an advocate or supporter of conscription. ", "S": [], "A": []}

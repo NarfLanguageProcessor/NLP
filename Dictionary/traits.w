@@ -1,0 +1,1 @@
+{"index": 327508, "D": "a distinguishing characteristic or quality, especially of one's personal nature", "S": ["ideology ", "mentality ", "mindset ", "spirit "], "A": ["body ", "physicality "]}

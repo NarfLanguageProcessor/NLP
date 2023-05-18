@@ -1,0 +1,1 @@
+{"index": 159006, "D": "a line on a weather map connecting points that receive equal amounts of sunshine.", "S": [], "A": []}

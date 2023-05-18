@@ -1,0 +1,1 @@
+{"index": 173765, "D": "a sere  originating on rock.", "S": [], "A": []}

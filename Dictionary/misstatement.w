@@ -1,0 +1,1 @@
+{"index": 190134, "D": "to state  wrongly or misleadingly; make a wrong statement about.", "S": ["distortion ", "exaggeration ", "fabrication ", "falsehood ", "inaccuracy "], "A": ["truth "]}

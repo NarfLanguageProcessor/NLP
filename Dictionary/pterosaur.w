@@ -1,0 +1,1 @@
+{"index": 255796, "D": "any flying reptile of the extinct order Pterosauria, from the Jurassic and Cretaceous periods, having the outside digit of the forelimb greatly elongated and supporting a wing membrane.", "S": [], "A": []}

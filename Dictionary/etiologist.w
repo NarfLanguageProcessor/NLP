@@ -1,0 +1,1 @@
+{"index": 105196, "D": "the cause or origin of a disease.", "S": [], "A": []}

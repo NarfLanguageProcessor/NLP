@@ -1,0 +1,1 @@
+{"index": 127932, "D": "an extremely incompetent, eccentric, or silly person.", "S": ["blockhead ", "blunderer ", "bonehead ", "botcher ", "bumbler ", "butcher ", "butterfingers ", "clod ", "dolt ", "donkey ", "duffer ", "dunce ", "fool ", "foul-up ", "fumbler ", "idiot ", "ignoramus ", "incompetent ", "klutz ", "numskull ", "spoiler "], "A": ["brain ", "genius "]}

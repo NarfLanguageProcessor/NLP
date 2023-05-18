@@ -1,0 +1,1 @@
+{"index": 185525, "D": "courage and fortitude", "S": ["bravery ", "caliber ", "courage ", "fortitude ", "grit ", "spunk ", "stamina ", "temperament "], "A": ["cowardice ", "timidity ", "weakness ", "apathy ", "dullness ", "fear ", "idleness ", "inactivity ", "indecision ", "lethargy ", "powerlessness ", "question "]}

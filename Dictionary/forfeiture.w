@@ -1,0 +1,1 @@
+{"index": 117180, "D": "an act of forfeiting. ", "S": ["fine ", "forfeit ", "loss ", "mulct ", "relinquishment "], "A": ["win "]}

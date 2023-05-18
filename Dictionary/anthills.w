@@ -1,0 +1,1 @@
+{"index": 14368, "D": "a mound of earth, leaves, etc., formed by a colony of ants in digging or constructing their underground nest.", "S": ["bank ", "drift ", "dune ", "embankment ", "hillock ", "knoll ", "mass ", "molehill ", "mountain ", "pile ", "rise ", "shock ", "stack ", "tumulus "], "A": ["depression ", "ditch ", "valley "]}

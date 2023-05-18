@@ -1,0 +1,1 @@
+{"index": 1158, "D": "present in great quantity; more than adequate; oversufficient", "S": ["ample ", "bountiful ", "copious ", "generous ", "heavy ", "rich ", "sufficient "], "A": ["depleted ", "insufficient ", "lacking ", "meager ", "needy ", "poor ", "wanting "]}

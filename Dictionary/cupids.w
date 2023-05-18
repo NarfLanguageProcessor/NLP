@@ -1,0 +1,1 @@
+{"index": 75086, "D": "the ancient Roman god of love and the son of either Mars or Mercury and Venus, identified with Eros and commonly represented as a winged, naked, infant boy with a bow and arrows.", "S": [], "A": []}

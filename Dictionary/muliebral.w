@@ -1,0 +1,1 @@
+{"index": 194909, "D": "womanly nature or qualities.", "S": ["female "], "A": []}

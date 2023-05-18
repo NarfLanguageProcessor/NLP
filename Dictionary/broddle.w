@@ -1,0 +1,1 @@
+{"index": 41144, "D": "to poke or pierce (something)", "S": [], "A": []}

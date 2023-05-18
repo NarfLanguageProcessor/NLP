@@ -1,0 +1,1 @@
+{"index": 1775, "D": "to grow together; adhere (usually followed by to).", "S": [], "A": []}

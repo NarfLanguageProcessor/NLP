@@ -1,0 +1,1 @@
+{"index": 195032, "D": "an act or instance of going or moving around.", "S": [], "A": []}

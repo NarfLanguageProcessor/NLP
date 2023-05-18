@@ -1,0 +1,1 @@
+{"index": 17064, "D": "imperturbable self-possession, poise, or assurance.", "S": ["equanimity ", "nonchalance ", "tact "], "A": ["fear "]}

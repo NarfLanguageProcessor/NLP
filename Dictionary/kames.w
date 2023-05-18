@@ -1,0 +1,1 @@
+{"index": 162992, "D": "a ridge or mound of stratified drift left by a retreating ice sheet.", "S": [], "A": []}

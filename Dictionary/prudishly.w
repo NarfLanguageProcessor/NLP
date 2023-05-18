@@ -1,0 +1,1 @@
+{"index": 254227, "D": "excessively proper or modest in speech, conduct, dress, etc.", "S": [], "A": []}

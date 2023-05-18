@@ -1,0 +1,1 @@
+{"index": 335529, "D": "lacking skill or dexterity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203886, "D": "tending or serving to extract,  or based upon extraction", "S": [], "A": []}

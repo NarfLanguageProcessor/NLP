@@ -1,0 +1,1 @@
+{"index": 234435, "D": "pertaining to or resembling a vein.", "S": [], "A": []}

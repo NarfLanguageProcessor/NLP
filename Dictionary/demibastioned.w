@@ -1,0 +1,1 @@
+{"index": 80474, "D": "a work consisting of half a bastion,  and hence having one face and one flank.", "S": [], "A": []}

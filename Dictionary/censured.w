@@ -1,0 +1,1 @@
+{"index": 50778, "D": "strong or vehement expression of disapproval", "S": ["convicted ", "culpable ", "liable ", "remorseful ", "responsible ", "sorry ", "wrong "], "A": ["good ", "immune ", "irresponsible ", "right "]}

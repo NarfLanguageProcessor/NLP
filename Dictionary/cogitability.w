@@ -1,0 +1,1 @@
+{"index": 62223, "D": "able to be considered; conceivable; thinkable", "S": [], "A": []}

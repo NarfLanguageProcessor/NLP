@@ -1,0 +1,1 @@
+{"index": 348190, "D": "not posed;  not done for effect; natural or candid", "S": [], "A": []}

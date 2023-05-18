@@ -1,0 +1,1 @@
+{"index": 317826, "D": "plural of tooth. ", "S": ["choppers ", "fangs ", "tooth ", "tusks "], "A": []}

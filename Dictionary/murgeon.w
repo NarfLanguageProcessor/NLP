@@ -1,0 +1,1 @@
+{"index": 195698, "D": "a grimace; a wry face.", "S": [], "A": []}

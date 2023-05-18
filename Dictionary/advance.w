@@ -1,0 +1,1 @@
+{"index": 4560, "D": "to move or bring forward", "S": ["first ", "forward ", "leading ", "prior "], "A": ["last ", "later "]}

@@ -1,0 +1,1 @@
+{"index": 58273, "D": "surrounded by or as if by a rampart.", "S": [], "A": []}

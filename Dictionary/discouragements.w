@@ -1,0 +1,1 @@
+{"index": 87640, "D": "an act or instance of discouraging. ", "S": ["hopelessness ", "pessimism "], "A": ["cheer ", "cheerfulness ", "confidence ", "encouragement ", "happiness ", "hopefulness ", "joy "]}

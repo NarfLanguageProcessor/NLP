@@ -1,0 +1,1 @@
+{"index": 135747, "D": "any of various forms of protective head covering worn by soldiers, firefighters, divers, cyclists, etc.", "S": [], "A": []}

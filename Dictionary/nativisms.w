@@ -1,0 +1,1 @@
+{"index": 197288, "D": "the policy of protecting the interests of native  inhabitants against those of immigrants.", "S": [], "A": []}

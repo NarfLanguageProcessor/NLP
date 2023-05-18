@@ -1,0 +1,1 @@
+{"index": 83117, "D": "a relaxing of tension, especially between nations, as by negotiations or agreements.", "S": ["easement ", "pause ", "policy ", "precaution "], "A": []}

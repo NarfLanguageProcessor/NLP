@@ -1,0 +1,1 @@
+{"index": 199730, "D": "a nastic movement, such as the closing of petals, that occurs in response to the alternation of day and night", "S": [], "A": []}

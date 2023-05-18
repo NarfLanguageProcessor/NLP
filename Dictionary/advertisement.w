@@ -1,0 +1,1 @@
+{"index": 4670, "D": "a paid announcement, as of goods for sale, in newspapers or magazines, on radio or television, or on the internet.", "S": ["announcement ", "broadcast ", "commercial ", "display ", "endorsement ", "exhibit ", "literature ", "notice ", "placard ", "poster ", "propaganda ", "publication ", "publicity "], "A": ["hiding "]}

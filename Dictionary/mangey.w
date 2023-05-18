@@ -1,0 +1,1 @@
+{"index": 179156, "D": "a less common variant of mangy. ", "S": [], "A": []}

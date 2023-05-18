@@ -1,0 +1,1 @@
+{"index": 20626, "D": "the surgical repair of a joint or the fashioning of a movable joint, using the patient's own tissue or an artificial replacement.", "S": [], "A": []}

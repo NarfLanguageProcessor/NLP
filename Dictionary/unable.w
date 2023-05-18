@@ -1,0 +1,1 @@
+{"index": 334342, "D": "lacking the necessary power, competence, etc., to accomplish some specified act", "S": ["helpless ", "impotent ", "inadequate ", "incapable ", "not able ", "powerless ", "sidelined ", "unfit ", "weak "], "A": ["able ", "capable ", "competent ", "fit ", "potent ", "qualified ", "strong ", "sufficient "]}

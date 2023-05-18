@@ -1,0 +1,1 @@
+{"index": 272776, "D": "an opening made by splitting, cleaving, etc.; fissure; cleft; chink.", "S": [], "A": []}

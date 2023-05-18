@@ -1,0 +1,1 @@
+{"index": 108720, "D": "a person who goes to extremes,  especially in political matters.", "S": ["fanatic ", "zealot "], "A": ["moderate "]}

@@ -1,0 +1,1 @@
+{"index": 363941, "D": "strange; odd; bizarre", "S": ["freshness ", "innovation ", "oddity ", "uniqueness "], "A": ["habit ", "stagnation "]}

@@ -1,0 +1,1 @@
+{"index": 92047, "D": "of or likedough,  especially in being soft and heavy or pallid and flabby", "S": ["drab ", "dull "], "A": ["bright "]}

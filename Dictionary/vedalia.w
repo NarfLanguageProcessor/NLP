@@ -1,0 +1,1 @@
+{"index": 357633, "D": "an Australian ladybird, Rodolia cardinalis, introduced elsewhere to control the scale insect Icerya purchasi, which is a pest of citrus fruits", "S": [], "A": []}

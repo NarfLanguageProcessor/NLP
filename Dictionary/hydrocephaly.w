@@ -1,0 +1,1 @@
+{"index": 138548, "D": "an accumulation of serous fluid within the cranium, especially in infancy, due to obstruction of the movement of cerebrospinal fluid, often causing great enlargement of the head; water on the brain.", "S": [], "A": []}

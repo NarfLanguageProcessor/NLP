@@ -1,0 +1,1 @@
+{"index": 340602, "D": "to give a false or misleading appearance to; conceal the truth or real nature of", "S": [], "A": []}

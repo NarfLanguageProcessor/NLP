@@ -1,0 +1,1 @@
+{"index": 202985, "D": "the act or process of deteriorating. ", "S": [], "A": []}

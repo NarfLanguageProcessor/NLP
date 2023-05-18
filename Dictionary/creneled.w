@@ -1,0 +1,1 @@
+{"index": 72633, "D": "any of the open spaces between the merlons of a battlement.", "S": [], "A": []}

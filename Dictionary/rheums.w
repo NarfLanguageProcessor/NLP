@@ -1,0 +1,1 @@
+{"index": 271943, "D": "a thin discharge of the mucous membranes, especially during a cold.", "S": [], "A": []}

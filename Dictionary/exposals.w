@@ -1,0 +1,1 @@
+{"index": 107948, "D": "exposure. ", "S": ["acknowledgment ", "admission ", "confession ", "discovery ", "exposure ", "leak ", "publication "], "A": ["concealment ", "denial "]}

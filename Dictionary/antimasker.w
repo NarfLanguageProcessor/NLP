@@ -1,0 +1,1 @@
+{"index": 15504, "D": "a person who resists wearing a mask over the nose and mouth to protect themselves and others from infection, or who opposes the mandatory wearing of such masks, as during a pandemic", "S": [], "A": []}

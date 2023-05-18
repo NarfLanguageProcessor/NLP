@@ -1,0 +1,1 @@
+{"index": 280495, "D": "a person versed in scholastic learning or engaged in scholastic pursuits.", "S": [], "A": []}

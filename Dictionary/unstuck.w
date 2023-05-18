@@ -1,0 +1,1 @@
+{"index": 352202, "D": "freed or loosened from being fastened or stuck", "S": ["loose ", "unglued "], "A": []}

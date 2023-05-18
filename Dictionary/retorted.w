@@ -1,0 +1,1 @@
+{"index": 270593, "D": "to reply to, usually in a sharp or retaliatory way; reply in kind to.", "S": ["rebut "], "A": ["ask ", "question ", "request ", "take "]}

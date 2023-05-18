@@ -1,0 +1,1 @@
+{"index": 343890, "D": "to drive from a house or habitation; deprive of shelter.", "S": [], "A": []}

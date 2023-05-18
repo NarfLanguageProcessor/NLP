@@ -1,0 +1,1 @@
+{"index": 88412, "D": "the act or process of cleansing or purifying a room, wound, item of clothing, etc., of germs that cause disease", "S": ["purification ", "sanitation ", "sterilization ", "washing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18389, "D": "a mineral, orthorhombic calcium carbonate, CaCO3, chemically identical with calcite but differing in crystallization and in having a higher specific gravity and less marked cleavage.", "S": [], "A": []}

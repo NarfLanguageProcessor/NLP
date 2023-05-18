@@ -1,0 +1,1 @@
+{"index": 289557, "D": "any of several North American plane trees, especially Platanus occidentalis, having shallowly lobed ovate leaves, globular seed heads, and wood valued as timber.", "S": [], "A": []}

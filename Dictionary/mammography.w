@@ -1,0 +1,1 @@
+{"index": 178821, "D": "x-ray photography of a breast, especially for detection of tumors.", "S": [], "A": []}

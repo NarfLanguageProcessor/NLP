@@ -1,0 +1,1 @@
+{"index": 53715, "D": "increased activity of an organism due to a chemical substance.", "S": [], "A": []}

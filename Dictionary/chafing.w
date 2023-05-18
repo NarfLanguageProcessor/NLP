@@ -1,0 +1,1 @@
+{"index": 51948, "D": "to wear or abrade by rubbing", "S": ["anxious ", "eager ", "irritable ", "keen ", "restless ", "testy ", "thirsty "], "A": ["happy ", "unconcerned ", "unenthusiastic "]}

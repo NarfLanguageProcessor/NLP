@@ -1,0 +1,1 @@
+{"index": 125193, "D": "a physician specializing in gynecology. Abbreviation", "S": [], "A": []}

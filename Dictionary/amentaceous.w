@@ -1,0 +1,1 @@
+{"index": 10274, "D": "consisting of an ament. ", "S": [], "A": []}

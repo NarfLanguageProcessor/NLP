@@ -1,0 +1,1 @@
+{"index": 271064, "D": "to give up possession or occupancy of", "S": [], "A": []}

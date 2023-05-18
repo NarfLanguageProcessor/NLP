@@ -1,0 +1,1 @@
+{"index": 149186, "D": "a person or thing that improves. ", "S": [], "A": []}

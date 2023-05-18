@@ -1,0 +1,1 @@
+{"index": 131831, "D": "a thin, soft, durable Japanese silk, used in the manufacture of garments.", "S": [], "A": []}

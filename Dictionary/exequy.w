@@ -1,0 +1,1 @@
+{"index": 107048, "D": "funeral rites or ceremonies; obsequies.", "S": ["funeral ", "interment "], "A": []}

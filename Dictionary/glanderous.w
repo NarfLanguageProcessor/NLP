@@ -1,0 +1,1 @@
+{"index": 125911, "D": "a contagious disease chiefly of horses and mules but communicable to humans, caused by the bacterium Pseudomonas mallei and characterized by swellings beneath the jaw and a profuse mucous discharge from the nostrils.", "S": [], "A": []}

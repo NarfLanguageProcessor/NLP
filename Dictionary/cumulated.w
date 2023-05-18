@@ -1,0 +1,1 @@
+{"index": 74955, "D": "to heap up; amass; accumulate.", "S": ["accrue ", "amass ", "collect ", "garner ", "gather ", "hive ", "hoard "], "A": ["disperse ", "dissipate ", "distribute ", "divide ", "scatter ", "separate ", "spend ", "spread "]}

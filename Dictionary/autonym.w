@@ -1,0 +1,1 @@
+{"index": 24250, "D": "Compare exonym (def. 2), ethnonym. ", "S": ["brand ", "flag ", "label ", "nickname ", "sign ", "signature ", "style ", "term "], "A": ["unknown "]}

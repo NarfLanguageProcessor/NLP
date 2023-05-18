@@ -1,0 +1,1 @@
+{"index": 342576, "D": "desolate or dreary; unhappy or miserable, as in feeling, condition, or appearance.", "S": [], "A": []}

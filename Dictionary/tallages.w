@@ -1,0 +1,1 @@
+{"index": 315664, "D": "a tax paid by peasants to the lord of their manor.", "S": [], "A": []}

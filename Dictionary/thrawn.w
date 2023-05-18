@@ -1,0 +1,1 @@
+{"index": 322545, "D": "stubborn; contrary; peevish; perverse. ", "S": [], "A": []}

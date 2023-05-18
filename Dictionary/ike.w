@@ -1,0 +1,1 @@
+{"index": 147195, "D": "nickname of Dwight David Eisenhower. ", "S": [], "A": []}

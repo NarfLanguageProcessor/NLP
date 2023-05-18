@@ -1,0 +1,1 @@
+{"index": 182217, "D": "a middle state or condition; mean.", "S": ["intermediate "], "A": ["abnormal ", "biased ", "different ", "exceptional ", "extraordinary ", "extreme ", "infrequent ", "irregular ", "noble ", "partial ", "prejudiced ", "rare ", "uncommon ", "unreasonable ", "unusual "]}

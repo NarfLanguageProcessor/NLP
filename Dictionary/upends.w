@@ -1,0 +1,1 @@
+{"index": 354648, "D": "to set on end,  as a barrel or ship.", "S": ["alter ", "backtrack ", "capsize ", "change ", "convert ", "evert ", "flip ", "flip-flop ", "introvert ", "modify ", "overturn ", "renege ", "revert ", "tip ", "transpose ", "turn ", "upset "], "A": ["continue ", "grow ", "hold ", "keep ", "leave alone ", "persist ", "remain ", "stay ", "straighten "]}

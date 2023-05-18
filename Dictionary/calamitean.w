@@ -1,0 +1,1 @@
+{"index": 44753, "D": "any fossil plant of the genus Calamites and related genera of the Carboniferous Period, resembling oversized horsetails and constituting much of the coal used as fuel.", "S": [], "A": []}

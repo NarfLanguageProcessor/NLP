@@ -1,0 +1,1 @@
+{"index": 203407, "D": "the state or quality of being elastic. ", "S": [], "A": []}

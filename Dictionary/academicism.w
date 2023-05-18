@@ -1,0 +1,1 @@
+{"index": 1232, "D": "traditionalism or conventionalism in art, literature, etc.", "S": [], "A": []}

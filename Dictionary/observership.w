@@ -1,0 +1,1 @@
+{"index": 210405, "D": "someone or something that observes.", "S": [], "A": []}

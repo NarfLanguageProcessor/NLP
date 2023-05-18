@@ -1,0 +1,1 @@
+{"index": 259487, "D": "a game similar to handball, played on a four-walled court but with a short-handled, strung racket and a larger, somewhat softer ball. ", "S": [], "A": []}

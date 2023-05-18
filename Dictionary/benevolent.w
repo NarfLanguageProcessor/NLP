@@ -1,0 +1,1 @@
+{"index": 31604, "D": "characterized by or expressing goodwill or kindly feelings", "S": ["benign ", "caring ", "compassionate ", "generous ", "humane ", "philanthropic "], "A": ["cruel ", "hateful ", "mean ", "merciless ", "miserly ", "stingy ", "unkind "]}

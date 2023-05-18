@@ -1,0 +1,1 @@
+{"index": 340579, "D": "to prove (an assertion, claim, etc.) to be false or wrong; refute; invalidate", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167351, "D": "See under Storting. ", "S": [], "A": []}

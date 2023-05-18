@@ -1,0 +1,1 @@
+{"index": 16613, "D": "a wild sheep, Ammotragus lervia, of northern Africa, having a long fringe of hair on the throat, chest, and forelegs.", "S": [], "A": []}

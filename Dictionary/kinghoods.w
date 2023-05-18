@@ -1,0 +1,1 @@
+{"index": 164892, "D": "the state of being king; kingship.", "S": [], "A": []}

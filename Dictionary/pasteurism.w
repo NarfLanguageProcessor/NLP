@@ -1,0 +1,1 @@
+{"index": 227429, "D": "a method of securing immunity from rabies in a person who has been bitten by a rabid animal, by daily injections of progressively more virulent suspensions of the infected spinal cord of a rabbit that died of rabies", "S": [], "A": []}

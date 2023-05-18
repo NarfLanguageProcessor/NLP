@@ -1,0 +1,1 @@
+{"index": 342383, "D": "bent or contracted, as a part of the body", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227927, "D": "a mold of a Linotype for casting right-reading type for use in dry offset.", "S": [], "A": []}

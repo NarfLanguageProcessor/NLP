@@ -1,0 +1,1 @@
+{"index": 144308, "D": "intense sexual desire; lust (esp in the phrase have the hots for someone)", "S": ["lust ", "sexual desire ", "sexuality "], "A": []}

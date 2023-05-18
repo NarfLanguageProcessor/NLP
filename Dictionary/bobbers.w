@@ -1,0 +1,1 @@
+{"index": 37050, "D": "a person or thing that bobs. ", "S": ["close ", "float ", "oak ", "phellem ", "plug ", "seal ", "spike ", "stop ", "stopper ", "stopple "], "A": ["beginning ", "opening ", "start "]}

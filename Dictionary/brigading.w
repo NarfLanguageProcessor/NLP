@@ -1,0 +1,1 @@
+{"index": 40745, "D": " the practice of organizing or participating in a coordinated campaign of online harassment against a targeted individual or group, especially on social media", "S": [], "A": []}

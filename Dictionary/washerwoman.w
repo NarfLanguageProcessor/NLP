@@ -1,0 +1,1 @@
+{"index": 362898, "D": "a woman who washes clothes, linens, etc., for hire; laundress.", "S": [], "A": []}

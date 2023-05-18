@@ -1,0 +1,1 @@
+{"index": 71976, "D": "a game in which one person or side must find a rhyme to a word or a line of verse given by another.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196319, "D": "any of several long-winged seabirds, often used as food, especially Puffinus tenuirostris(short-tailed shearwater ) of Australia and Puffinus griseus(sooty shearwater ), which breeds in the Southern Hemisphere and winters in the Northern Hemisphere.", "S": [], "A": []}

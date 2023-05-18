@@ -1,0 +1,1 @@
+{"index": 122435, "D": "something that is extraordinarily pleasing or successful, especially a very funny joke.", "S": ["arduous ", "convoluted ", "difficult ", "fancy ", "hard ", "intricate ", "knotty ", "perplexing ", "problematic ", "sophisticated ", "troublesome "], "A": ["easy ", "facile ", "nice ", "plain ", "simple ", "straightforward ", "uncomplicated "]}

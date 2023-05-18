@@ -1,0 +1,1 @@
+{"index": 2241, "D": "alas; oh.", "S": ["anguish ", "misery ", "pang ", "soreness ", "spasm ", "twinge "], "A": ["comfort ", "ease ", "health ", "relief "]}

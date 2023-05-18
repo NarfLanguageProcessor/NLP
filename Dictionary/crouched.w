@@ -1,0 +1,1 @@
+{"index": 73948, "D": "to stoop or bend low.", "S": ["below ", "depressed ", "flat ", "little ", "small "], "A": ["big ", "enormous ", "huge ", "immense ", "important ", "large ", "raised "]}

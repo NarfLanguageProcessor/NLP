@@ -1,0 +1,1 @@
+{"index": 300275, "D": "the nymph of the froghopper, which surrounds itself with a frothy mass.", "S": [], "A": []}

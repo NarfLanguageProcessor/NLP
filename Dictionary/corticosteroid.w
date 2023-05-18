@@ -1,0 +1,1 @@
+{"index": 69864, "D": "any of a class of steroids,  as aldosterone, hydrocortisone, or cortisone, occurring in nature, especially as a product of the adrenal cortex, or synthesized.", "S": [], "A": []}

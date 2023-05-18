@@ -1,0 +1,1 @@
+{"index": 255660, "D": "a flying reptile of the extinct order Pterosauria, from the Cretaceous Period, having a wingspread of about 25 feet (8 meters).", "S": [], "A": []}

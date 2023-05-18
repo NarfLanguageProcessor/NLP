@@ -1,0 +1,1 @@
+{"index": 190870, "D": "the retentive basis or basic principle in a mind or organism accounting for memory.", "S": [], "A": []}

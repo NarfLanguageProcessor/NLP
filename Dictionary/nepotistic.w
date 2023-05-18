@@ -1,0 +1,1 @@
+{"index": 198680, "D": "patronage bestowed or favoritism shown on the basis of family relationship, as in business and politics", "S": [], "A": []}

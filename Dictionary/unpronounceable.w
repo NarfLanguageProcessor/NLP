@@ -1,0 +1,1 @@
+{"index": 348621, "D": "not able to be uttered or articulated", "S": [], "A": []}

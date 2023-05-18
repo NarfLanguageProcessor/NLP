@@ -1,0 +1,1 @@
+{"index": 224308, "D": "having all four toes directed forward, as in swifts and colies.", "S": [], "A": []}

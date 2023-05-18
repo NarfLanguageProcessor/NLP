@@ -1,0 +1,1 @@
+{"index": 262064, "D": "to estimate officially the value of (property, income, etc.) as a basis for taxation.", "S": ["amend ", "reevaluate ", "reexamine ", "rethink ", "review ", "revise "], "A": ["spoil "]}

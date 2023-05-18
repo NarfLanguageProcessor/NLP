@@ -1,0 +1,1 @@
+{"index": 161002, "D": "a book of jests or jokes.", "S": [], "A": []}

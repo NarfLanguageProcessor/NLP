@@ -1,0 +1,1 @@
+{"index": 124032, "D": "a sheer silk or rayon crepe of dull texture.", "S": [], "A": []}

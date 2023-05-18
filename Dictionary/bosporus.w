@@ -1,0 +1,1 @@
+{"index": 38602, "D": "a strait connecting the Black Sea and the Sea of Marmara. 18 miles (29 km) long.", "S": [], "A": []}

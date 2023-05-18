@@ -1,0 +1,1 @@
+{"index": 165078, "D": "a member or follower of the Kirk.", "S": [], "A": []}

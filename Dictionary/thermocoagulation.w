@@ -1,0 +1,1 @@
+{"index": 321382, "D": "the coagulation of tissue by heat-producing high-frequency electric currents, used therapeutically to remove small growths or to create specific lesions in the brain.", "S": [], "A": []}

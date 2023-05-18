@@ -1,0 +1,1 @@
+{"index": 122798, "D": "garish or gaudy  quality; cheap or tasteless showiness or excessive brightness, colorfulness, busyness, etc.", "S": ["adornment ", "bauble ", "decoration ", "flashiness ", "frill ", "fussiness ", "knickknack ", "meretriciousness ", "ornament ", "ostentation ", "pretentiousness ", "showiness ", "tawdriness ", "toy ", "trinket "], "A": ["plainness "]}

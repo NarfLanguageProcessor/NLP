@@ -1,0 +1,1 @@
+{"index": 49546, "D": "to arrange in categories  or classes; classify.", "S": ["checked ", "contained ", "counted ", "designated ", "doomed ", "enumerated ", "fated ", "fixed ", "included ", "indicated ", "marked ", "specified ", "told ", "totalled "], "A": ["infinite ", "unlimited ", "unnumbered "]}

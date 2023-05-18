@@ -1,0 +1,1 @@
+{"index": 132202, "D": "having a gaunt, wasted, or exhausted appearance, as from prolonged suffering, exertion, or anxiety; worn", "S": ["anorexia ", "atrophy ", "attenuation ", "boniness ", "consumption ", "malnutrition ", "marasmus ", "skinniness ", "starvation ", "tabes ", "thinness ", "undernourishment ", "wasting ", "withering "], "A": []}

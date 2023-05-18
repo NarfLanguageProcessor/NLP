@@ -1,0 +1,1 @@
+{"index": 270735, "D": "characterized by or involving retribution", "S": [], "A": []}

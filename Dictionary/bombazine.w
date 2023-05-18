@@ -1,0 +1,1 @@
+{"index": 37706, "D": "a twill fabric constructed of a silk or rayon warp and worsted filling, often dyed black for mourning wear.", "S": [], "A": []}

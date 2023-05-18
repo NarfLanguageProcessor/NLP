@@ -1,0 +1,1 @@
+{"index": 131786, "D": "the natural environment of an organism; place that is natural for the life and growth of an organism", "S": ["cave ", "dwelling ", "environment ", "haven ", "nest ", "surroundings ", "terrain ", "territory "], "A": []}

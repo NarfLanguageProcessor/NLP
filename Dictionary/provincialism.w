@@ -1,0 +1,1 @@
+{"index": 254077, "D": "narrowness of mind, ignorance, or the like, considered as resulting from lack of exposure to cultural or intellectual activity.", "S": ["atrocity ", "barbarity ", "brutality ", "cruelty ", "inhumanity "], "A": ["kindness ", "niceness "]}

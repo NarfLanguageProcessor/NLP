@@ -1,0 +1,1 @@
+{"index": 66791, "D": "to prevent injury, decay, waste, or loss of", "S": ["right-winger ", "traditionalist "], "A": ["left-winger ", "liberal ", "progressive ", "radical "]}

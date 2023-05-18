@@ -1,0 +1,1 @@
+{"index": 143096, "D": "to form by blending unlike elements; make homogeneous. ", "S": [], "A": []}

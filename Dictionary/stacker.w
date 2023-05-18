@@ -1,0 +1,1 @@
+{"index": 302222, "D": "a more or less orderly pile or heap", "S": ["endless ", "myriad ", "uncounted ", "untold "], "A": ["few ", "limited "]}

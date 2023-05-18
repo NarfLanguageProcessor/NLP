@@ -1,0 +1,1 @@
+{"index": 244241, "D": "of or relating to tears.", "S": [], "A": []}

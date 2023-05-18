@@ -1,0 +1,1 @@
+{"index": 318004, "D": "to transmit (data, sound, images, etc.) by telecommunications. ", "S": [], "A": []}

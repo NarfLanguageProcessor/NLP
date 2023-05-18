@@ -1,0 +1,1 @@
+{"index": 266468, "D": "to introduce (something) again", "S": ["reestablish ", "renew ", "revive "], "A": ["kill "]}

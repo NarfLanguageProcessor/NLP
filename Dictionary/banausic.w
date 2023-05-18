@@ -1,0 +1,1 @@
+{"index": 27246, "D": "serving utilitarian purposes only; mechanical; practical", "S": ["boring ", "humdrum ", "monotone ", "pedestrian ", "plodding "], "A": ["exciting ", "interesting "]}

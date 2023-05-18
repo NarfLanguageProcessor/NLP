@@ -1,0 +1,1 @@
+{"index": 12946, "D": "feeling or showing anger  or strong resentment (usually followed by at, with, or about)", "S": [], "A": []}

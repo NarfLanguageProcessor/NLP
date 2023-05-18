@@ -1,0 +1,1 @@
+{"index": 113120, "D": "an explosive device with incendiary effects.", "S": [], "A": []}

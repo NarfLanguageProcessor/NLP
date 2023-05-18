@@ -1,0 +1,1 @@
+{"index": 33736, "D": "a close-fitting cap worn especially by children in the 16th and 17th centuries.", "S": [], "A": []}

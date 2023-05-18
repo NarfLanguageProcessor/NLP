@@ -1,0 +1,1 @@
+{"index": 35812, "D": "the primitive layer of cells that results from the segmentation of the ovum.", "S": [], "A": []}

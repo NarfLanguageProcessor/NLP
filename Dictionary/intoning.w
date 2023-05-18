@@ -1,0 +1,1 @@
+{"index": 156381, "D": "to utter with a particular tone or voice modulation.", "S": ["stylistic "], "A": ["natural ", "simple "]}

@@ -1,0 +1,1 @@
+{"index": 28233, "D": "inflammation of the nasal sinuses caused by the effect on the sinuses of changes in atmospheric pressure.", "S": [], "A": []}

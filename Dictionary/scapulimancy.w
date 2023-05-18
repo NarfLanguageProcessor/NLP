@@ -1,0 +1,1 @@
+{"index": 279680, "D": "divination of the future by observation of the cracking of a mammal's scapula  that has been heated by a fire or hot instrument.", "S": [], "A": []}

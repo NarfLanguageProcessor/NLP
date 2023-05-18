@@ -1,0 +1,1 @@
+{"index": 259575, "D": "rooting from the stem, as ivy.", "S": [], "A": []}

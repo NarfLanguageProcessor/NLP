@@ -1,0 +1,1 @@
+{"index": 311721, "D": "the practice or art of using language with fluency and aptness.", "S": [], "A": []}

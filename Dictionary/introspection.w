@@ -1,0 +1,1 @@
+{"index": 156820, "D": "observation or examination of one's own mental and emotional state, mental processes, etc.; the act of looking within oneself.", "S": ["contemplation ", "meditation ", "reflection ", "scrutiny ", "self-examination ", "soul-searching "], "A": []}

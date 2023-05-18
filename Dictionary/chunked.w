@@ -1,0 +1,1 @@
+{"index": 56639, "D": "a thick mass or lump of anything", "S": ["bung ", "cast ", "chuck ", "chunk ", "fire ", "fling ", "flip ", "heave ", "hurl ", "launch ", "lob ", "peg ", "pitch ", "sling ", "twirl ", "wing "], "A": []}

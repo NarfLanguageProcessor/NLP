@@ -1,0 +1,1 @@
+{"index": 6997, "D": "the forward speed of an aircraft relative to the air through which it moves.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122959, "D": "to stare with the mouth open in wonder or astonishment; gape", "S": [], "A": []}

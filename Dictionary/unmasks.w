@@ -1,0 +1,1 @@
+{"index": 346061, "D": "to strip a mask  or disguise from.", "S": ["bring to light ", "expose ", "uncover "], "A": ["conceal ", "cover ", "hide ", "deny ", "disavow ", "refuse ", "repudiate ", "secrete ", "withhold "]}

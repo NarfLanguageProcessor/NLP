@@ -1,0 +1,1 @@
+{"index": 327954, "D": "not lasting, enduring, or permanent; transitory.", "S": ["briefly ", "for a bit ", "for a little while ", "for a moment ", "for a spell ", "for a while ", "for the moment ", "momentarily ", "not for long ", "temporarily "], "A": []}

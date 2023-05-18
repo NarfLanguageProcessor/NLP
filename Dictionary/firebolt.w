@@ -1,0 +1,1 @@
+{"index": 113118, "D": [], "S": ["bolt ", "fulmination "], "A": []}

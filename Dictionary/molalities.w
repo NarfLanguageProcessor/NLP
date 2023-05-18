@@ -1,0 +1,1 @@
+{"index": 191391, "D": "the number of moles of solute per kilogram of solvent.", "S": [], "A": []}

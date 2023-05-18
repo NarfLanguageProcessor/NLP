@@ -1,0 +1,1 @@
+{"index": 169048, "D": "a toilet or something used as a toilet, as a trench in the earth in a camp, or bivouac area.", "S": ["bathroom ", "outhouse ", "restroom ", "toilet "], "A": []}

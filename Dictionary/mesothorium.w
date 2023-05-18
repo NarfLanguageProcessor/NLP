@@ -1,0 +1,1 @@
+{"index": 184424, "D": "one of two radioactive decay products of thorium, an isotope of radium or actinium.", "S": [], "A": []}

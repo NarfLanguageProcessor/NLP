@@ -1,0 +1,1 @@
+{"index": 157197, "D": "the quality or state of being inveterate  or deeply ingrained", "S": [], "A": []}

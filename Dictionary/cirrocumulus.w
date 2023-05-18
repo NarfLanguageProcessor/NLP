@@ -1,0 +1,1 @@
+{"index": 58349, "D": "a cirriform cloud of a class characterized by thin, white patches, each of which is composed of very small granules or ripples", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98835, "D": "given employment,  or paid work; hired, especially permanently by inclusion on a payroll", "S": ["engaged ", "hired ", "occupied "], "A": ["idle ", "inactive ", "unemployed ", "unengaged ", "unoccupied "]}

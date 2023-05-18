@@ -1,0 +1,1 @@
+{"index": 6831, "D": "a member of an aboriginal population of northernmost Japan.", "S": [], "A": []}

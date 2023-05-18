@@ -1,0 +1,1 @@
+{"index": 344498, "D": "(of a person, wound, etc) not having been contaminated with pathogenic microorganisms", "S": ["aseptic ", "hygienic ", "pure ", "wholesome "], "A": ["contaminated ", "dirty ", "impure "]}

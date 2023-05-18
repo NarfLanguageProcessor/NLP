@@ -1,0 +1,1 @@
+{"index": 272892, "D": "to the fullest extent; literally.", "S": [], "A": []}

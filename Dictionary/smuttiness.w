@@ -1,0 +1,1 @@
+{"index": 295176, "D": "soiled with smut;  grimy.", "S": ["dregs ", "feculence ", "filth ", "filthiness ", "foulness ", "griminess ", "grubbiness ", "rottenness ", "squalor ", "tarnish ", "uncleanliness ", "uncleanness "], "A": []}

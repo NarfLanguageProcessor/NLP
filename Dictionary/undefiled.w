@@ -1,0 +1,1 @@
+{"index": 338598, "D": "made foul, dirty, or unclean; polluted or tainted", "S": ["clean ", "flawless ", "immaculate ", "unsoiled ", "unsullied "], "A": []}

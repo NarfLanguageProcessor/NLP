@@ -1,0 +1,1 @@
+{"index": 229066, "D": "to look narrowly or searchingly, as in the effort to discern clearly.", "S": ["associate ", "rival "], "A": ["inferior ", "superior "]}

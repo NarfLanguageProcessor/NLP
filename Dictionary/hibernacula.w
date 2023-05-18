@@ -1,0 +1,1 @@
+{"index": 138215, "D": "a protective case or covering, especially for winter, as of an animal or a plant bud.", "S": [], "A": []}

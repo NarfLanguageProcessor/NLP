@@ -1,0 +1,1 @@
+{"index": 270324, "D": "the act of retarding or state of being retarded.", "S": ["lag ", "moratorium ", "postponement ", "problem ", "setback ", "stoppage ", "suspension ", "wait "], "A": ["continuation ", "advance ", "aid ", "assistance ", "beginning ", "go ", "help ", "liberation ", "promotion ", "support "]}

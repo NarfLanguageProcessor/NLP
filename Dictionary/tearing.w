@@ -1,0 +1,1 @@
+{"index": 317535, "D": "shedding tears. ", "S": ["excruciating ", "harrowing ", "intense ", "tortuous "], "A": ["pleasant ", "pleasing "]}

@@ -1,0 +1,1 @@
+{"index": 122967, "D": "any of several composite plants of the genus Gazania, native to southern Africa, having showy flowers with variously colored rays.", "S": [], "A": []}

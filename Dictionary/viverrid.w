@@ -1,0 +1,1 @@
+{"index": 360740, "D": "Any of various mostly small carnivorous mammals of the family Viverridae, having long, slender bodies with short legs and bushy tails. Viverrids include the civets, mongooses, meerkats, and binturong.", "S": [], "A": []}

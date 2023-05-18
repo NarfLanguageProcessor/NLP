@@ -1,0 +1,1 @@
+{"index": 243702, "D": "Portuguese name of Oporto. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307041, "D": "(of persons or their manner, speech, etc.) smoothly agreeable or polite; agreeably or blandly urbane.", "S": [], "A": []}

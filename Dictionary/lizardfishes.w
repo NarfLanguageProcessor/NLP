@@ -1,0 +1,1 @@
+{"index": 174037, "D": "any of several large-mouthed fishes  of the family Synodontidae, having a lizardlike head.", "S": [], "A": []}

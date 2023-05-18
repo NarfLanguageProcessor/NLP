@@ -1,0 +1,1 @@
+{"index": 367804, "D": "an apparition of a living person supposed to portend their death.", "S": ["apparition ", "phantom ", "specter ", "spirit ", "vision "], "A": ["being "]}

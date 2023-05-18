@@ -1,0 +1,1 @@
+{"index": 307953, "D": "a person who executes,  carries out, or performs some duty, job, assignment, artistic work, etc.", "S": [], "A": []}

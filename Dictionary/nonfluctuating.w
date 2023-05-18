@@ -1,0 +1,1 @@
+{"index": 204106, "D": "to change continually; shift back and forth; vary irregularly", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111266, "D": "any of various plants belonging to the genus Nigella, of the buttercup family, especially N. sativa, the seeds of which are used, especially in the East, as a condiment and medicine.", "S": [], "A": []}

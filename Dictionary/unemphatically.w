@@ -1,0 +1,1 @@
+{"index": 341200, "D": "uttered, or to be uttered, with emphasis;  strongly expressive.", "S": [], "A": []}

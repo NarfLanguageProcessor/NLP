@@ -1,0 +1,1 @@
+{"index": 58408, "D": "of or relating to the space between the earth and the orbit of the moon.", "S": [], "A": []}

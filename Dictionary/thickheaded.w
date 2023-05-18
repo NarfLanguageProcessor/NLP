@@ -1,0 +1,1 @@
+{"index": 321697, "D": "(of a person) dull-witted; stupid.", "S": ["blockheaded ", "boneheaded ", "dense ", "dull ", "dumb ", "idiotic ", "stupid "], "A": []}

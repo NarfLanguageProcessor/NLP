@@ -1,0 +1,1 @@
+{"index": 101096, "D": "to endow with a soul. ", "S": [], "A": []}

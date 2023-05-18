@@ -1,0 +1,1 @@
+{"index": 267207, "D": "capable of being remedied. ", "S": ["harmless "], "A": ["bad ", "cancerous ", "disadvantageous ", "harmful ", "hateful ", "hostile ", "hurtful ", "injurious ", "malignant ", "severe ", "unkind "]}

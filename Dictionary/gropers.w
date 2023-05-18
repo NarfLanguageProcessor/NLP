@@ -1,0 +1,1 @@
+{"index": 130215, "D": "a person or thing that gropes. ", "S": [], "A": []}

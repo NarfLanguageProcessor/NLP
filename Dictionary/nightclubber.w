@@ -1,0 +1,1 @@
+{"index": 199916, "D": "an establishment for evening entertainment, generally open until the early morning, that serves liquor and usually food and offers patrons music, comedy acts, a floor show, or dancing; nightspot.", "S": [], "A": []}

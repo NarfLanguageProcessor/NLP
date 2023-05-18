@@ -1,0 +1,1 @@
+{"index": 246392, "D": "to design or adapt to form a specific configuration or for some specific purpose", "S": [], "A": []}

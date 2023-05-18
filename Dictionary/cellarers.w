@@ -1,0 +1,1 @@
+{"index": 50554, "D": "a person in a monastery or community who is responsible for supplying food and drink.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96120, "D": "unduly demonstrative; lacking reserve", "S": [], "A": []}

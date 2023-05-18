@@ -1,0 +1,1 @@
+{"index": 202927, "D": "of the nature of or expressing disapproval, protest, or depreciation.", "S": [], "A": []}

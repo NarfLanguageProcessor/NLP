@@ -1,0 +1,1 @@
+{"index": 46966, "D": "a close-fitting covering for the head, usually of soft supple material and having no visor or brim.", "S": [], "A": []}

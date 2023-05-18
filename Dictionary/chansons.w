@@ -1,0 +1,1 @@
+{"index": 52530, "D": "any of several types of song with French lyrics, occurring from the Middle Ages to the present in a variety of musical styles.", "S": [], "A": []}

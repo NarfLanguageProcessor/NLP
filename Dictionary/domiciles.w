@@ -1,0 +1,1 @@
+{"index": 91288, "D": "a place of residence; house or home; abode. ", "S": ["abode ", "accommodation ", "apartment ", "castle ", "co-op ", "condo ", "condominium ", "dump ", "dwelling ", "habitation ", "home ", "house ", "joint ", "mansion ", "pad ", "rack ", "residence ", "residency ", "roost ", "settlement "], "A": ["office "]}

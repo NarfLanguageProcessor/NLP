@@ -1,0 +1,1 @@
+{"index": 105170, "D": "to trace the history of (a word).", "S": [], "A": []}

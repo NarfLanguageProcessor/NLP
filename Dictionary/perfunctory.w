@@ -1,0 +1,1 @@
+{"index": 230696, "D": "performed merely as a routine duty; hasty and superficial", "S": ["cursory ", "offhand ", "sketchy ", "superficial "], "A": ["careful ", "complete ", "detailed ", "thorough "]}

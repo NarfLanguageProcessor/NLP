@@ -1,0 +1,1 @@
+{"index": 354510, "D": "traveling or affording passage toward the north or in a direction regarded as up", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143873, "D": "a low oven-shaped mound of congealed lava, common in some volcanic districts, emitting hot smoke and vapors in the final stages of activity.", "S": [], "A": []}

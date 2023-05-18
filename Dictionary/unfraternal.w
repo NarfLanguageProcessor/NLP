@@ -1,0 +1,1 @@
+{"index": 342662, "D": "of or befitting a brother or brothers; brotherly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111548, "D": "a ferroalloy containing up to 90 percent manganese. ", "S": [], "A": []}

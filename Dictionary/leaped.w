@@ -1,0 +1,1 @@
+{"index": 169641, "D": "to spring through the air from one point or position to another; jump", "S": ["ascend ", "bounce ", "bound ", "hop ", "rise ", "rocket ", "skip ", "soar ", "surge ", "vault "], "A": ["allow ", "decline ", "descend ", "lower ", "permit ", "decrease "]}

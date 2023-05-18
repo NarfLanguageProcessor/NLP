@@ -1,0 +1,1 @@
+{"index": 207663, "D": "to undergo or feel pain or distress", "S": [], "A": []}

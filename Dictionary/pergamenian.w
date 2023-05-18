@@ -1,0 +1,1 @@
+{"index": 230712, "D": "an ancient Greek kingdom on the coast of Asia Minor", "S": [], "A": []}

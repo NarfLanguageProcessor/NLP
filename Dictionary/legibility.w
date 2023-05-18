@@ -1,0 +1,1 @@
+{"index": 170099, "D": "the state or quality of being legible. ", "S": ["accuracy ", "brightness ", "certainty ", "directness ", "lucidity ", "precision ", "purity ", "simplicity ", "transparency "], "A": ["inaccuracy ", "unintelligibility "]}

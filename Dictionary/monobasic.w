@@ -1,0 +1,1 @@
+{"index": 192090, "D": "(of an acid) containing one replaceable hydrogen atom.", "S": [], "A": []}

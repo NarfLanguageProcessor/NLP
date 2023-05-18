@@ -1,0 +1,1 @@
+{"index": 179883, "D": "withering but not falling off, as a part of a plant.", "S": [], "A": []}

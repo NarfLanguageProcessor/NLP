@@ -1,0 +1,1 @@
+{"index": 244688, "D": "powerful; mighty", "S": [], "A": []}

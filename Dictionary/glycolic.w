@@ -1,0 +1,1 @@
+{"index": 126262, "D": "pertaining to or derived from glycol. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153410, "D": "not satiable; incapable of being satisfied or appeased", "S": [], "A": []}

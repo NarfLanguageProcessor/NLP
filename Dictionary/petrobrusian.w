@@ -1,0 +1,1 @@
+{"index": 232488, "D": "a member of a 12th-century sect in S France that rejected the Mass, infant baptism, prayers for the dead, sacerdotalism, the veneration of the cross, and the building of churches.", "S": [], "A": []}

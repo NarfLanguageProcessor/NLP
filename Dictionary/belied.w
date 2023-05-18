@@ -1,0 +1,1 @@
+{"index": 31073, "D": "false, contradictory, or misrepresented", "S": ["contradict ", "negate ", "repudiate "], "A": ["approve ", "affirm ", "agree ", "aid ", "allow ", "assist ", "concur ", "consent ", "endorse ", "go along ", "harmonize ", "help ", "prove "]}

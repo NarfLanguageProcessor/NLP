@@ -1,0 +1,1 @@
+{"index": 92001, "D": "to be uncertain about; consider questionable or unlikely; hesitate to believe", "S": ["cynic ", "questioner ", "skeptic "], "A": ["believer "]}

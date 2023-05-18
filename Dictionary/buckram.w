@@ -1,0 +1,1 @@
+{"index": 42090, "D": "a stiff cotton fabric for interlinings, book bindings, etc.", "S": ["arthritic ", "creaky ", "rigid ", "solid ", "stark ", "tense ", "thick ", "tight ", "wooden "], "A": ["bending ", "flexible ", "loose ", "pliable ", "slack ", "soft ", "indefinite ", "supple "]}

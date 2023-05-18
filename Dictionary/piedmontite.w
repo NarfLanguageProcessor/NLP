@@ -1,0 +1,1 @@
+{"index": 236189, "D": "a mineral, similar to epidote but containing manganese", "S": [], "A": []}

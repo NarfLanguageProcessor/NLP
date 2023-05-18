@@ -1,0 +1,1 @@
+{"index": 55112, "D": "a group of minerals, hydrous silicates of aluminum, ferrous iron, and magnesium, occurring in green platelike crystals or scales.", "S": [], "A": []}

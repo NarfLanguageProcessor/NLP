@@ -1,0 +1,1 @@
+{"index": 144503, "D": "any shelter, lodging, or dwelling place.", "S": ["construction ", "digs ", "dwelling ", "habitation ", "home ", "house ", "lodgment ", "quarter ", "residence ", "roof ", "shelter ", "sheltering "], "A": ["office "]}

@@ -1,0 +1,1 @@
+{"index": 322917, "D": "a dull sound, as of a heavy blow or fall.", "S": ["bang ", "beat ", "blow ", "clonk ", "clout ", "clump ", "clunk ", "fall ", "flutter ", "hammer ", "hit ", "knock ", "plop ", "poke ", "pound ", "pounding ", "pulse ", "rap ", "slap ", "smack ", "strike ", "throb ", "thunk ", "thwack ", "wallop ", "whack "], "A": []}

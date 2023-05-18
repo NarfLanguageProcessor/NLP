@@ -1,0 +1,1 @@
+{"index": 68511, "D": "a person or thing that copies; copyist. ", "S": ["clerk ", "copier ", "copyist ", "scrivener ", "secretary ", "transcriber "], "A": []}

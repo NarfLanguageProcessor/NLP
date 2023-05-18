@@ -1,0 +1,1 @@
+{"index": 246151, "D": "a style of painting developed to its fullest in the U.S. in the 1920s, associated especially with Charles Demuth, Georgia O'Keeffe, and Charles Sheeler, and characterized by clinically precise, simple, and clean-edged rendering of architectural, industrial, or urban scenes usually devoid of human activity or presence.", "S": [], "A": []}

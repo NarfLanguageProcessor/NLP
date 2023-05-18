@@ -1,0 +1,1 @@
+{"index": 93244, "D": "a legal right or claim.", "S": ["immunity ", "perquisite "], "A": ["duty ", "obligation "]}

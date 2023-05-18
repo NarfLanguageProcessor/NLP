@@ -1,0 +1,1 @@
+{"index": 107310, "D": "the transport of material out of a cell by means of a sac or vesicle that first engulfs the material and then is extruded through an opening in the cell membrane (distinguished from endocytosis).", "S": [], "A": []}

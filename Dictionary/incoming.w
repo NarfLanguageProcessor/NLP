@@ -1,0 +1,1 @@
+{"index": 150049, "D": "coming in;  arriving", "S": ["approaching "], "A": ["outgoing "]}

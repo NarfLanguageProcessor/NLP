@@ -1,0 +1,1 @@
+{"index": 241604, "D": "a polymer in which the monomer units are linked together by the amide  group \u2013CONH\u2013.", "S": [], "A": []}

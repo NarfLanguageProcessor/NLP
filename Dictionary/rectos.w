@@ -1,0 +1,1 @@
+{"index": 263734, "D": "a right-hand page of an open book or manuscript; the front of a leaf (opposed to verso).", "S": ["folio ", "leaf ", "side ", "signature ", "surface ", "verso "], "A": ["inside ", "middle "]}

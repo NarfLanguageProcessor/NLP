@@ -1,0 +1,1 @@
+{"index": 127735, "D": "a combining form meaning \u201cproduction,\u201d \u201cgenesis,\u201d \u201corigination,\u201d used in the formation of compound words", "S": [], "A": []}

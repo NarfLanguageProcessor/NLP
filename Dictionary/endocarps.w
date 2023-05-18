@@ -1,0 +1,1 @@
+{"index": 99725, "D": "the inner layer of a pericarp, as the stone of certain fruits.", "S": [], "A": []}

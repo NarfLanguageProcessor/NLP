@@ -1,0 +1,1 @@
+{"index": 309373, "D": "a foundation or substructure.", "S": [], "A": []}

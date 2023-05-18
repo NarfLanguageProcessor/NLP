@@ -1,0 +1,1 @@
+{"index": 85352, "D": "a person or thing that diffuses. ", "S": [], "A": []}

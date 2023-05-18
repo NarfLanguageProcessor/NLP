@@ -1,0 +1,1 @@
+{"index": 264638, "D": "to flow out, issue, or proceed, as from a source or origin; come forth; originate. ", "S": [], "A": []}

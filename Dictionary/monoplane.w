@@ -1,0 +1,1 @@
+{"index": 192537, "D": "an airplane with one main sustaining surface or one set of wings.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202792, "D": "the act of making something foul, dirty, or unclean", "S": [], "A": []}

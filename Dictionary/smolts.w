@@ -1,0 +1,1 @@
+{"index": 295037, "D": "a young, silvery salmon in the stage of its first migration to the sea.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114128, "D": "the process of flattening metal into a sheet by rolling", "S": [], "A": []}

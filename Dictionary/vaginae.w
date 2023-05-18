@@ -1,0 +1,1 @@
+{"index": 356498, "D": "a sheathlike part or organ.", "S": [], "A": []}

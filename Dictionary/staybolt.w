@@ -1,0 +1,1 @@
+{"index": 302393, "D": "a long rod with threaded ends, used as a stay  for a boiler, tank, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 138797, "D": "of or relating to soil having characteristics that are developed when there is excess water all or part of the time.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107553, "D": "to increase in extent, size, volume, scope, etc.", "S": ["advancing ", "enlightening ", "enriching ", "improving ", "refining "], "A": []}

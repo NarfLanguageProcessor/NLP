@@ -1,0 +1,1 @@
+{"index": 194220, "D": "having mountains;  mountainous.", "S": [], "A": []}

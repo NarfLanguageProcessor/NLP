@@ -1,0 +1,1 @@
+{"index": 187358, "D": "one thousandth of a degree. ", "S": [], "A": []}

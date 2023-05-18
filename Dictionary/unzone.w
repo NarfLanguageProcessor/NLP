@@ -1,0 +1,1 @@
+{"index": 354450, "D": "any continuous area that differs in some respect, or is distinguished for some purpose, from adjoining areas, or within which certain distinctive circumstances exist or are established", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359532, "D": "transcendental knowledge leading toward Brahman.", "S": [], "A": []}

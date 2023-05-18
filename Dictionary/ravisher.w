@@ -1,0 +1,1 @@
+{"index": 261304, "D": "to fill with strong emotion, especially joy.", "S": ["Lothario ", "cad ", "degenerate ", "libertine ", "rounder ", "scoundrel "], "A": []}

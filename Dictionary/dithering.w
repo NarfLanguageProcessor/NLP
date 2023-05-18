@@ -1,0 +1,1 @@
+{"index": 90103, "D": "a trembling; vibration.", "S": ["ambivalent ", "doubtful ", "hesitant ", "uncertain ", "unclear ", "uncommitted ", "undetermined ", "unsure ", "vague ", "wavering "], "A": ["certain ", "clear ", "definite ", "determined ", "resolved ", "secure ", "settled ", "sure "]}

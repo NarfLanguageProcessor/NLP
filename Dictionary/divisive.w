@@ -1,0 +1,1 @@
+{"index": 90394, "D": "forming or expressing division  or distribution.", "S": ["disruptive "], "A": []}

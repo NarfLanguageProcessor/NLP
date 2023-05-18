@@ -1,0 +1,1 @@
+{"index": 112518, "D": "a less common variant of filigree. ", "S": [], "A": []}

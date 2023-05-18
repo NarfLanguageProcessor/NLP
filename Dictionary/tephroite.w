@@ -1,0 +1,1 @@
+{"index": 319157, "D": "a mineral, silicate of manganese, Mn2SiO4, occurring in orthorhombic crystals.", "S": [], "A": []}

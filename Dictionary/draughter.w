@@ -1,0 +1,1 @@
+{"index": 92730, "D": "the game of checkers.", "S": [], "A": []}

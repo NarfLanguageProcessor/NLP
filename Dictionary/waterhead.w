@@ -1,0 +1,1 @@
+{"index": 363161, "D": "the source of a river or stream.", "S": [], "A": []}

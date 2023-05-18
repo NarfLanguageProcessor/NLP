@@ -1,0 +1,1 @@
+{"index": 155437, "D": "of, relating to, or taking place between two or more institutions, cities, etc.", "S": [], "A": []}

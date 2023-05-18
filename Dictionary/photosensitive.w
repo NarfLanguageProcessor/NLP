@@ -1,0 +1,1 @@
+{"index": 235357, "D": "sensitive  to light or similar radiation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62078, "D": "existing with another eternally.", "S": [], "A": []}

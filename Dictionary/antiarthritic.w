@@ -1,0 +1,1 @@
+{"index": 14757, "D": "of or relating to a medicine or therapy that relieves the symptoms of arthritis. ", "S": [], "A": []}

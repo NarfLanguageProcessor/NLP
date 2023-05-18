@@ -1,0 +1,1 @@
+{"index": 120343, "D": "any furry animal, especially one whose fur  is of commercial value.", "S": [], "A": []}

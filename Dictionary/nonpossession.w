@@ -1,0 +1,1 @@
+{"index": 206071, "D": "the act or fact of possessing.", "S": [], "A": []}

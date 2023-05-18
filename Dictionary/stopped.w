@@ -1,0 +1,1 @@
+{"index": 305351, "D": "(of a pipe or tube, esp an organ pipe) closed at one end and thus sounding an octave lower than an open pipe of the same length", "S": ["blocked ", "interrupted "], "A": []}

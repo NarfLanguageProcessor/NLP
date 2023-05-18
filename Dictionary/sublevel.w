@@ -1,0 +1,1 @@
+{"index": 308388, "D": "a drift, dug through ore, into which overlying material, especially from an upper layer of ore, is caved.", "S": [], "A": []}

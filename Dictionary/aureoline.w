@@ -1,0 +1,1 @@
+{"index": 23534, "D": "a pigment used in painting, consisting of potassium cobaltinitrite and characterized by its brilliant yellow hue, transparency, and permanence.", "S": [], "A": []}

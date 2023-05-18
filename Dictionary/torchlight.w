@@ -1,0 +1,1 @@
+{"index": 326064, "D": "the light  of a torch  or torches. ", "S": [], "A": []}

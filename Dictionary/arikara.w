@@ -1,0 +1,1 @@
+{"index": 19689, "D": "a member of a group of North American Indians of Pawnee origin who now inhabit the Dakota region.", "S": [], "A": []}

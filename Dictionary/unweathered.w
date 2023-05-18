@@ -1,0 +1,1 @@
+{"index": 354119, "D": "seasoned or otherwise affected by exposure to the weather. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181064, "D": "a mark made on mating components of an engine, machine, etc, to ensure that the components are assembled in the correct relative positions", "S": [], "A": []}

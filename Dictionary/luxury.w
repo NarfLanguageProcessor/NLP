@@ -1,0 +1,1 @@
+{"index": 176558, "D": "a material object, service, etc., conducive to sumptuous living, usually a delicacy, elegance, or refinement of living rather than a necessity", "S": ["affluence ", "comfort ", "enjoyment ", "extravagance ", "leisure ", "opulence ", "richness "], "A": ["disappointment ", "dissatisfaction ", "misery ", "sorrow ", "unhappiness ", "upset "]}

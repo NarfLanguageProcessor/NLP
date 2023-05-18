@@ -1,0 +1,1 @@
+{"index": 228217, "D": "Northern Paiute (def. 1). ", "S": [], "A": []}

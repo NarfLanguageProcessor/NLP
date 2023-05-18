@@ -1,0 +1,1 @@
+{"index": 238488, "D": "the state or quality of being pixilated.", "S": [], "A": []}

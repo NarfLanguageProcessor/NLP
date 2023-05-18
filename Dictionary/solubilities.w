@@ -1,0 +1,1 @@
+{"index": 296885, "D": "the quality or property of being soluble;  relative capability of being dissolved.", "S": [], "A": []}

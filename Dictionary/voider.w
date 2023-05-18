@@ -1,0 +1,1 @@
+{"index": 361002, "D": "a person or thing that voids. ", "S": ["abandoned ", "bare ", "barren ", "clear ", "deprived ", "drained ", "emptied ", "free ", "lacking ", "scant ", "short ", "shy "], "A": ["adequate ", "enough ", "full ", "hindered ", "restrained ", "sufficient "]}

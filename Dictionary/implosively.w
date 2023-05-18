@@ -1,0 +1,1 @@
+{"index": 148827, "D": "characterized by a partial vacuum behind the point of closure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 320735, "D": "to put into dramatic or theatrical  form; dramatize.", "S": [], "A": []}

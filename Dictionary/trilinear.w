@@ -1,0 +1,1 @@
+{"index": 329943, "D": "of, relating to, or bounded by three lines.", "S": [], "A": []}

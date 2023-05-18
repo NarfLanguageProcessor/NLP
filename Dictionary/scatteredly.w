@@ -1,0 +1,1 @@
+{"index": 279873, "D": "distributed or occurring at widely spaced and usually irregular intervals", "S": [], "A": []}

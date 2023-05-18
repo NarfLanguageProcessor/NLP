@@ -1,0 +1,1 @@
+{"index": 256486, "D": "cougar. ", "S": ["catamount ", "cougar ", "panther "], "A": []}

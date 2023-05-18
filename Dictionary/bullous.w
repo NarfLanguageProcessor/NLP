@@ -1,0 +1,1 @@
+{"index": 42626, "D": "pertaining to, similar to, or characterized by bullae. ", "S": [], "A": []}

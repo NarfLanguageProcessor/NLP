@@ -1,0 +1,1 @@
+{"index": 338385, "D": "having spots of a different shade, tone, or color from the background; mottled.", "S": [], "A": []}

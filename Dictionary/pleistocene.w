@@ -1,0 +1,1 @@
+{"index": 239774, "D": "noting or pertaining to the epoch forming the earlier half of the Quaternary  Period, beginning about two million years ago and ending 10,000 years ago, characterized by widespread glacial ice and the advent of modern humans.", "S": [], "A": []}

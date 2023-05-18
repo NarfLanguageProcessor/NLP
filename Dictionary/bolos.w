@@ -1,0 +1,1 @@
+{"index": 37608, "D": "a large, heavy, single-edged knife or machete for hacking, used in the Philippines and by the U.S. Army.", "S": ["bola tie ", "string tie "], "A": []}

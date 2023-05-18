@@ -1,0 +1,1 @@
+{"index": 223187, "D": "of, coated with, or soiled with paint", "S": [], "A": []}

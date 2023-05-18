@@ -1,0 +1,1 @@
+{"index": 245654, "D": "joined by treaty, agreement, or common cause", "S": [], "A": []}

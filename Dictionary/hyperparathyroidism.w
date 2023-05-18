@@ -1,0 +1,1 @@
+{"index": 140381, "D": "overactivity of the parathyroid gland,  characterized by softening of the bones, with consequent pain, tenderness, and a tendency to spontaneous fractures, and by muscular weakness and abdominal cramps.", "S": [], "A": []}

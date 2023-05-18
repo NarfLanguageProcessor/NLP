@@ -1,0 +1,1 @@
+{"index": 258465, "D": "any of several large Central and South American trogons of the genus Pharomachrus, having golden-green and scarlet plumage, especially P. mocino(resplendent quetzal ), the national bird of Guatemala", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 153992, "D": "the variety of pragmatism developed by John Dewey, maintaining that the truth of an idea is determined by its success in the active solution of a problem and that the value of ideas is determined by their function in human experience.", "S": [], "A": []}

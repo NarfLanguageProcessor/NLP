@@ -1,0 +1,1 @@
+{"index": 243584, "D": "a door, gate, or entrance, especially one of imposing appearance, as to a palace.", "S": [], "A": []}

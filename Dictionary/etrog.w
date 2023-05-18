@@ -1,0 +1,1 @@
+{"index": 105221, "D": "a citron for use with the lulav during the Sukkoth festival service.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359605, "D": "a navigational hazard whose existence or position is uncertain.", "S": [], "A": []}

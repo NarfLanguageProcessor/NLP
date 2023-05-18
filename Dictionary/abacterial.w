@@ -1,0 +1,1 @@
+{"index": 48, "D": "not caused by or free from the presence of bacteria.", "S": [], "A": []}

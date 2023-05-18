@@ -1,0 +1,1 @@
+{"index": 142306, "D": "any coarse weed  with composite flower heads, especially the cow parsnip.", "S": [], "A": []}

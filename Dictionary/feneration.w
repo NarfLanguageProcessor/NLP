@@ -1,0 +1,1 @@
+{"index": 111238, "D": "the lending of money on interest.", "S": [], "A": []}

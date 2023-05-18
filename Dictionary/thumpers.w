@@ -1,0 +1,1 @@
+{"index": 322990, "D": "a blow with something thick and heavy, producing a dull sound; a heavy knock.", "S": [], "A": []}

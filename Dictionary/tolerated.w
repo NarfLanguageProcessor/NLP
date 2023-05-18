@@ -1,0 +1,1 @@
+{"index": 325259, "D": "to allow the existence, presence, practice, or act of without prohibition or hindrance; permit.", "S": ["allowed ", "justifiable ", "permissible ", "pertinent ", "relevant "], "A": ["inappropriate ", "irrelevant ", "unsuitable "]}

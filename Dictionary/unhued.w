@@ -1,0 +1,1 @@
+{"index": 343901, "D": "having the hue  or color as specified (usually used in combination)", "S": [], "A": []}

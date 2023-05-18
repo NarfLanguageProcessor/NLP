@@ -1,0 +1,1 @@
+{"index": 1239, "D": "academicism. ", "S": ["procedure ", "red tape ", "rite ", "ritual "], "A": ["informality "]}

@@ -1,0 +1,1 @@
+{"index": 322946, "D": "a dense, greenish-white powder, TmO3, that on gentle heating exhibits a reddish incandescence", "S": [], "A": []}

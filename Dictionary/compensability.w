@@ -1,0 +1,1 @@
+{"index": 64510, "D": "eligible for or subject to compensation,  especially for a bodily injury.", "S": [], "A": []}

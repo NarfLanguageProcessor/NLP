@@ -1,0 +1,1 @@
+{"index": 236465, "D": "the bone at the posterior end of the spinal column in birds, formed by the fusion of several caudal vertebrae.", "S": [], "A": []}

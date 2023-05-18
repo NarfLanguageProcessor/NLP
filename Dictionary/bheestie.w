@@ -1,0 +1,1 @@
+{"index": 33098, "D": "(in India) a water carrier.", "S": [], "A": []}

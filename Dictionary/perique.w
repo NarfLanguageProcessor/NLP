@@ -1,0 +1,1 @@
+{"index": 231276, "D": "a strong, rich-flavored tobacco produced in Louisiana, usually blended with other tobaccos.", "S": [], "A": []}

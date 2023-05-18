@@ -1,0 +1,1 @@
+{"index": 70980, "D": "the art of combining melodies.", "S": ["antithesis ", "contradiction ", "contradistinction ", "differentiation ", "disagreement ", "inverse ", "oppositeness ", "opposition "], "A": ["agreement ", "harmony ", "peace "]}

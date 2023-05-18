@@ -1,0 +1,1 @@
+{"index": 351804, "D": "a simple past tense and past participle of spoil. ", "S": ["guileless ", "sincere ", "straightforward "], "A": ["deceitful ", "dishonest ", "tricky "]}

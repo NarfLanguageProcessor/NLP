@@ -1,0 +1,1 @@
+{"index": 301492, "D": "objects formed by spinning.", "S": [], "A": []}

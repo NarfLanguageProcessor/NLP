@@ -1,0 +1,1 @@
+{"index": 70695, "D": "the military operations of an army in the field for one season.", "S": [], "A": []}

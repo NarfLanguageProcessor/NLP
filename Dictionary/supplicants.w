@@ -1,0 +1,1 @@
+{"index": 312996, "D": "supplicating. ", "S": ["beggar ", "petitioner ", "suppliant "], "A": []}

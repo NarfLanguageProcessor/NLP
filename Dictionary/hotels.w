@@ -1,0 +1,1 @@
+{"index": 144276, "D": "a commercial establishment offering lodging to travelers and sometimes to permanent residents, and often having restaurants, meeting rooms, stores, etc., that are available to the general public. ", "S": ["hostel ", "house ", "inn ", "lodging ", "motel ", "resort ", "tavern "], "A": []}

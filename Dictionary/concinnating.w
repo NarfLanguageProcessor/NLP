@@ -1,0 +1,1 @@
+{"index": 65331, "D": "to arrange or blend together skillfully, as parts or elements; put together in a harmonious, precisely appropriate, or elegant manner.", "S": [], "A": []}

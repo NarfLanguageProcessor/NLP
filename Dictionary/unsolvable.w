@@ -1,0 +1,1 @@
+{"index": 351562, "D": "capable of being solved,  as a problem.", "S": ["inexplicable ", "inextricable ", "inscrutable ", "insoluble ", "unexcogitable "], "A": ["solvable "]}

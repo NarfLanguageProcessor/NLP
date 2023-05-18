@@ -1,0 +1,1 @@
+{"index": 50323, "D": "an island in the S central Philippines. 1,703 sq. mi. (4,411 sq. km).", "S": [], "A": []}

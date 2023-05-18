@@ -1,0 +1,1 @@
+{"index": 140450, "D": "a condition in which the whole attention is occupied by one object or idea to the exclusion of others", "S": [], "A": []}

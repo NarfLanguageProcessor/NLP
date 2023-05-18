@@ -1,0 +1,1 @@
+{"index": 231556, "D": "a volcanic glass in which concentric fractures impart a distinctive structure resembling masses of small spheroids, used as a plant growth medium.", "S": [], "A": []}

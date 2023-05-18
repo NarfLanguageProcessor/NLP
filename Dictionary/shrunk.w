@@ -1,0 +1,1 @@
+{"index": 289303, "D": "a past participle and simple past tense of shrink. ", "S": ["decreased ", "diminished ", "shortened "], "A": ["elevated ", "enlarged ", "heightened ", "increased ", "raised ", "spread ", "stretched "]}

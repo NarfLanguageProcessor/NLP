@@ -1,0 +1,1 @@
+{"index": 165062, "D": "the brief petition \u201cLord, have mercy,\u201d used in various offices of the Greek Orthodox Church and of the Roman Catholic Church.", "S": [], "A": []}

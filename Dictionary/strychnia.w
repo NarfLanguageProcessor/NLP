@@ -1,0 +1,1 @@
+{"index": 306190, "D": "a colorless, crystalline poison, C21H22N2O2, obtained chiefly by extraction from the seeds of nux vomica, formerly used as a central nervous system stimulant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100762, "D": "to elevate in degree, excellence, or respect; dignify; exalt", "S": ["apotheosis ", "dignity ", "elevation ", "glorification ", "praise "], "A": []}

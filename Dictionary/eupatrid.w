@@ -1,0 +1,1 @@
+{"index": 105587, "D": "one of the hereditary aristocrats of ancient Athens and other states of Greece, who at one time formed the ruling class.", "S": [], "A": []}

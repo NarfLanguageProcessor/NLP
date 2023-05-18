@@ -1,0 +1,1 @@
+{"index": 39561, "D": "a slow heartbeat rate, usually less than 60 beats per minute.", "S": [], "A": []}

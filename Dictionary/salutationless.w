@@ -1,0 +1,1 @@
+{"index": 277377, "D": "the act of saluting. ", "S": [], "A": []}

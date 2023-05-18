@@ -1,0 +1,1 @@
+{"index": 69182, "D": "excellent; fine.", "S": ["bar ", "curb ", "define ", "hinder ", "inhibit ", "lessen ", "narrow ", "reduce ", "set ", "specify "], "A": ["aid ", "allow ", "assist ", "encourage ", "expand ", "extend ", "help ", "increase ", "permit ", "raise ", "strengthen ", "free ", "let go ", "liberate ", "open ", "release "]}

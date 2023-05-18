@@ -1,0 +1,1 @@
+{"index": 216554, "D": "garments, as raincoats or overcoats, worn  over other clothing for warmth or protection outdoors; overclothes.", "S": [], "A": []}

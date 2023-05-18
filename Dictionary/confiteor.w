@@ -1,0 +1,1 @@
+{"index": 65967, "D": "a prayer in the form of a general confession said at the beginning of the Mass and on certain other occasions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272264, "D": "(as Southern Rhodesia ) a former British colony in southern Africa", "S": [], "A": []}

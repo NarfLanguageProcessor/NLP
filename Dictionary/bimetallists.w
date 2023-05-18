@@ -1,0 +1,1 @@
+{"index": 34121, "D": "the use of two metals,  ordinarily gold and silver, at a fixed relative value, as the monetary standard.", "S": [], "A": []}

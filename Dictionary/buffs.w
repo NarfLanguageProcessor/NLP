@@ -1,0 +1,1 @@
+{"index": 42268, "D": "the Third Regiment of Foot, esp the Royal East Kent Regiment", "S": ["blonde ", "canary ", "ecru ", "lemon ", "ochre ", "straw ", "tan "], "A": []}

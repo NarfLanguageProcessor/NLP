@@ -1,0 +1,1 @@
+{"index": 149083, "D": "a person who follows or adheres to the theories, methods, and practices of impressionism, especially in the fields of painting, music, or literature.", "S": ["mime "], "A": ["fan "]}

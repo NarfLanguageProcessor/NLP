@@ -1,0 +1,1 @@
+{"index": 15915, "D": "the opposite pole. ", "S": ["antithesis ", "contrary ", "converse ", "inverse ", "obverse ", "reverse "], "A": ["same "]}

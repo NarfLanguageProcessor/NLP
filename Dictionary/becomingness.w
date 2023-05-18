@@ -1,0 +1,1 @@
+{"index": 29889, "D": "that suits or gives a pleasing effect or attractive appearance, as to a person or thing", "S": ["applicability ", "aptness ", "suitability "], "A": []}

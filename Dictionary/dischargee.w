@@ -1,0 +1,1 @@
+{"index": 87301, "D": "a person who has been discharged,  as from military service.", "S": [], "A": []}

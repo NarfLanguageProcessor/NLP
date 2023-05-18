@@ -1,0 +1,1 @@
+{"index": 322158, "D": "an instrument for cutting the thyroid cartilage.", "S": [], "A": []}

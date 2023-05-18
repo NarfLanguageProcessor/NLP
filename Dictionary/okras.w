@@ -1,0 +1,1 @@
+{"index": 211980, "D": "a shrub, Abelmoschus esculentus, of the mallow family, bearing beaked pods.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232608, "D": "petulantly peevish", "S": ["annoyed ", "caviling ", "faultfinding ", "peeved ", "short ", "vexed "], "A": ["animated ", "cheerful ", "happy ", "pleasant "]}

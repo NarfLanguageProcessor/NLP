@@ -1,0 +1,1 @@
+{"index": 108361, "D": "to put out (a fire, light, etc.); put out the flame of (something burning or lighted)", "S": ["annihilation ", "carnage ", "elimination ", "eradication ", "extermination ", "extinction ", "loss ", "massacre ", "murder ", "ruin ", "slaughter "], "A": ["creation "]}

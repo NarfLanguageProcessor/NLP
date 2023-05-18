@@ -1,0 +1,1 @@
+{"index": 65104, "D": "capable of being conceived;  imaginable.", "S": ["anticipation ", "chance ", "contingency ", "expectation ", "feasibility ", "odds ", "possibility ", "prospect "], "A": ["certainty ", "unlikelihood ", "reality "]}

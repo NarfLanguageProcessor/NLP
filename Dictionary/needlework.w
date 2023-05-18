@@ -1,0 +1,1 @@
+{"index": 197958, "D": "the art, process, or product of working with a needle, especially in embroidery, needlepoint, tapestry, quilting, and appliqu\u00e9.", "S": ["crocheting ", "darning ", "embroidery ", "knitting ", "lace ", "quilting ", "sewing ", "stitchery ", "stitching ", "tatting "], "A": []}

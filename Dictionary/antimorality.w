@@ -1,0 +1,1 @@
+{"index": 15645, "D": "conformity to the rules of right conduct; moral  or virtuous conduct.", "S": [], "A": []}

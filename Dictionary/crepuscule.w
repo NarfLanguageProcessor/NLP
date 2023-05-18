@@ -1,0 +1,1 @@
+{"index": 72715, "D": "twilight; dusk.", "S": ["blackness ", "dark ", "dusk ", "gloom ", "obscurity ", "twilight "], "A": ["brightness ", "light ", "lightness "]}

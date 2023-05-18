@@ -1,0 +1,1 @@
+{"index": 184357, "D": "having a moderately broad and high-bridged nose.", "S": [], "A": []}

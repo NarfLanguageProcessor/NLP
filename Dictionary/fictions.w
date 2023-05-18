@@ -1,0 +1,1 @@
+{"index": 112200, "D": "the class of literature comprising works of imaginative narration, especially in prose form.", "S": ["best seller ", "book ", "drama ", "fable ", "fantasy ", "imagination ", "legend ", "myth ", "narrative ", "novel ", "tale ", "yarn "], "A": ["nonfiction ", "reality ", "truth "]}

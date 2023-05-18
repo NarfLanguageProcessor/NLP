@@ -1,0 +1,1 @@
+{"index": 98987, "D": "equipped for a specified extended, peripheral, or premium use (used in combination)", "S": ["empower ", "facilitate ", "implement ", "permit ", "set up "], "A": ["delay ", "hinder ", "refuse ", "reject ", "stop ", "disapprove ", "prevent "]}

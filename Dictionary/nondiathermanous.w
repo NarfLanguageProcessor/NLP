@@ -1,0 +1,1 @@
+{"index": 203054, "D": "the property of transmitting heat as electromagnetic radiation. ", "S": [], "A": []}

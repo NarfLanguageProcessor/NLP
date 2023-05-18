@@ -1,0 +1,1 @@
+{"index": 143897, "D": "any of various wasplike insects of the family Siricidae, the females of which have a hornlike ovipositor.", "S": [], "A": []}

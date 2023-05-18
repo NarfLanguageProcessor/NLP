@@ -1,0 +1,1 @@
+{"index": 297697, "D": "the drawing of lots for divination; divination by lot.", "S": [], "A": []}

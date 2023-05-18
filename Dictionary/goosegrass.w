@@ -1,0 +1,1 @@
+{"index": 127997, "D": "cleavers. ", "S": ["brier ", "burr ", "cleaver ", "furze ", "gorse ", "hedge ", "nettle ", "prick ", "shrub ", "spray ", "thistle ", "thorn "], "A": []}

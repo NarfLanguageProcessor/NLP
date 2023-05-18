@@ -1,0 +1,1 @@
+{"index": 4203, "D": "allowed to enter; granted entrance or entry", "S": ["professed "], "A": []}

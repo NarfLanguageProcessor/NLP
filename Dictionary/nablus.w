@@ -1,0 +1,1 @@
+{"index": 196426, "D": "a town in the West Bank", "S": [], "A": []}

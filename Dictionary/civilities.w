@@ -1,0 +1,1 @@
+{"index": 58934, "D": "courtesy; politeness.", "S": ["amenities ", "bearing ", "behavior ", "breeding ", "carriage ", "ceremony ", "comportment ", "conduct ", "courtesy ", "culture ", "decorum ", "demeanor ", "deportment ", "dignity ", "elegance ", "etiquette ", "formalities ", "good breeding ", "mien ", "mores ", "p's and q's ", "polish ", "politeness ", "polites "], "A": []}

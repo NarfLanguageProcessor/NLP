@@ -1,0 +1,1 @@
+{"index": 269585, "D": "capable of being resolved.", "S": [], "A": []}

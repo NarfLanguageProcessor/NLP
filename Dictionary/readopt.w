@@ -1,0 +1,1 @@
+{"index": 261629, "D": "to choose or take as one's own; make one's own by selection or assent", "S": [], "A": []}

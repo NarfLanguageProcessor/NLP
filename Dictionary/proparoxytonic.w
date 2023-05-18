@@ -1,0 +1,1 @@
+{"index": 252551, "D": "having an accent or heavy stress on the antepenultimate syllable.", "S": [], "A": []}

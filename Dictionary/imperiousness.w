@@ -1,0 +1,1 @@
+{"index": 148560, "D": "domineering in a haughty manner; dictatorial; overbearing", "S": ["aloofness ", "chutzpah ", "disdain ", "ego ", "egotism ", "hubris ", "pretension ", "pride ", "smugness ", "vanity "], "A": ["humility ", "modesty ", "carefulness ", "caution ", "meekness ", "shyness ", "timidity "]}

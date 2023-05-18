@@ -1,0 +1,1 @@
+{"index": 347615, "D": "cross, querulous, or fretful, as from vexation or discontent", "S": [], "A": []}

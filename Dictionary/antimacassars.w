@@ -1,0 +1,1 @@
+{"index": 15487, "D": "a small covering, usually ornamental, placed on the backs and arms of upholstered furniture to prevent wear or soiling; a tidy.", "S": [], "A": []}

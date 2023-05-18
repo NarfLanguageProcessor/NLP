@@ -1,0 +1,1 @@
+{"index": 282561, "D": "serving to burn or char the surface of something, especially of food in order to seal in the juices before cooking", "S": ["baking ", "blazing ", "blistering ", "fiery ", "incandescent ", "scalding ", "scorching ", "sizzling ", "sweltering ", "torrid "], "A": ["cold ", "cool ", "freezing ", "happy ", "unfriendly "]}

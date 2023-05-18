@@ -1,0 +1,1 @@
+{"index": 135162, "D": "the eldest son of Priam and husband of Andromache", "S": ["browbeat ", "irritate ", "nag "], "A": ["assuage ", "please ", "aid ", "assist ", "encourage ", "help ", "support "]}

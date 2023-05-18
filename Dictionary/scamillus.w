@@ -1,0 +1,1 @@
+{"index": 279504, "D": "a slight bevel at an arris of a stone, as in the necking of a Greek Doric column.", "S": [], "A": []}

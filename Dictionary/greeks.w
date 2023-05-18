@@ -1,0 +1,1 @@
+{"index": 129511, "D": "of or relating to Greece,  the Greeks, or their language.", "S": ["Choctaw ", "Greek ", "babble ", "baloney ", "gibberish ", "gobbledygook ", "hogwash ", "hokum ", "hooey ", "malarkey ", "mumbo jumbo ", "nonsense ", "rubbish "], "A": []}

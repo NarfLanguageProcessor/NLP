@@ -1,0 +1,1 @@
+{"index": 280272, "D": "of or relating to schizophrenia", "S": ["batty ", "bizarre ", "crazy ", "deranged ", "idiotic ", "irrational ", "irresponsible ", "mad ", "nuts ", "paranoid ", "preposterous ", "psychotic ", "senseless "], "A": ["OK ", "balanced ", "calm ", "intelligent ", "rational ", "reasonable ", "responsible ", "sane ", "sensible ", "smart ", "sound "]}

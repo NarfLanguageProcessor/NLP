@@ -1,0 +1,1 @@
+{"index": 298558, "D": "of or noting spasmophilia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125161, "D": "an organism exhibiting both male and female morphological characteristics.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229521, "D": "a plural of penny;  used in referring to a sum of money rather than to the coins themselves (often used in combination)", "S": [], "A": []}

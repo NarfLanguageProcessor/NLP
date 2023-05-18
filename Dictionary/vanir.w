@@ -1,0 +1,1 @@
+{"index": 356990, "D": "a race of gods, first in conflict with the Aesir, later allied with them. They function as fertility divinities and include Njord, Frey, and Freyja.", "S": [], "A": []}

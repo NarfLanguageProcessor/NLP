@@ -1,0 +1,1 @@
+{"index": 133762, "D": "a variant of hara-kiri. ", "S": [], "A": []}

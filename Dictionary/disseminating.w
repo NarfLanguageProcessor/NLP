@@ -1,0 +1,1 @@
+{"index": 89456, "D": "present participle of disseminate. ", "S": ["advertise ", "circulate ", "disperse ", "propagate ", "publicize ", "publish "], "A": ["conceal ", "hide ", "collect ", "gather "]}

@@ -1,0 +1,1 @@
+{"index": 260121, "D": "waterproof or water-repellent clothing.", "S": [], "A": []}

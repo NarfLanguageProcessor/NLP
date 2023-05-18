@@ -1,0 +1,1 @@
+{"index": 53888, "D": "of or having the nature of a cherub,  or an angel represented as a rosy-cheeked child with wings; angelic. ", "S": ["adorable ", "cherubical ", "childlike ", "cute ", "innocent ", "sweet "], "A": []}

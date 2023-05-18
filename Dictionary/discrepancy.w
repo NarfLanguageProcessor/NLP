@@ -1,0 +1,1 @@
+{"index": 87707, "D": "the state or quality of being discrepant  or in disagreement, as by displaying an unexpected or unacceptable difference; inconsistency", "S": ["difference ", "disparity ", "distinction ", "divergence ", "error ", "inconsistency ", "miscalculation ", "variation "], "A": ["accord ", "agreement ", "alikeness ", "likeness ", "sameness ", "similarity "]}

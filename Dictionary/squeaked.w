@@ -1,0 +1,1 @@
+{"index": 301842, "D": "a short, sharp, shrill cry; a sharp, high-pitched sound.", "S": ["creak ", "screech ", "squeal "], "A": ["be quiet "]}

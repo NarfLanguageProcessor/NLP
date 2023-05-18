@@ -1,0 +1,1 @@
+{"index": 49425, "D": "any of several American or Australian birds having catlike cries, especially Dumetella carolinensis(gray catbird ), of North America.", "S": [], "A": []}

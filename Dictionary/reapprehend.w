@@ -1,0 +1,1 @@
+{"index": 261924, "D": "to take into custody; arrest by legal warrant or authority", "S": [], "A": []}

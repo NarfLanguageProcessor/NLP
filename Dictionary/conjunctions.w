@@ -1,0 +1,1 @@
+{"index": 66433, "D": "any other word or expression of similar function, as in any case.", "S": ["partnership "], "A": ["antagonism ", "disagreement ", "disunion ", "division ", "divorce ", "separation "]}

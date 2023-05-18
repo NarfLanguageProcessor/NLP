@@ -1,0 +1,1 @@
+{"index": 149923, "D": "the quality or condition of being uncivil; discourteous behavior or treatment.", "S": [], "A": []}

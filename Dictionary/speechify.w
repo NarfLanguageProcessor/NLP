@@ -1,0 +1,1 @@
+{"index": 298990, "D": "to make a speech  or speeches;  harangue.", "S": ["gush "], "A": ["be quiet ", "deprecate "]}

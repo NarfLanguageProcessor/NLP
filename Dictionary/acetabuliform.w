@@ -1,0 +1,1 @@
+{"index": 1998, "D": "saucer-shaped, as the fruiting bodies of certain lichens.", "S": [], "A": []}

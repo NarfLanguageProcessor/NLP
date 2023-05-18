@@ -1,0 +1,1 @@
+{"index": 193245, "D": "a bundle of coarse yarn, a sponge, or other absorbent material, fastened at the end of a stick or handle for washing floors, dishes, etc.", "S": ["housekeeping ", "sewing "], "A": []}

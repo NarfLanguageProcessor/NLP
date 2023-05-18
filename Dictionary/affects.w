@@ -1,0 +1,1 @@
+{"index": 5328, "D": "to act on; produce an effect or change in", "S": ["alter ", "change ", "disturb ", "influence ", "interest ", "involve ", "touch ", "upset "], "A": ["continue ", "hold ", "keep ", "order ", "remain ", "calm ", "discourage ", "dissuade ", "leave alone ", "stagnate ", "stay ", "surrender "]}

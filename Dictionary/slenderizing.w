@@ -1,0 +1,1 @@
+{"index": 293973, "D": "to make slender  or more slender. ", "S": ["diet ", "reduce "], "A": ["gain "]}

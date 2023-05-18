@@ -1,0 +1,1 @@
+{"index": 175901, "D": "a member of any of various bands of workers in England (1811\u201316) organized to destroy manufacturing machinery, under the belief that its use diminished employment.", "S": [], "A": []}

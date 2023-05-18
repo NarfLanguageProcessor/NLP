@@ -1,0 +1,1 @@
+{"index": 96895, "D": "pertaining to electors  or election. ", "S": [], "A": []}

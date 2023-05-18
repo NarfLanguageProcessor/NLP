@@ -1,0 +1,1 @@
+{"index": 104269, "D": "a white, crystalline, slightly water-soluble glucoside, C15H16O9, obtained from the bark of the common horse chestnut and used chiefly in skin preparations as a protective against sunburn.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171363, "D": "the vocabulary of a language, as distinct from its grammar; the total stock of words and idiomatic combinations of them in a language; lexicon.", "S": [], "A": []}

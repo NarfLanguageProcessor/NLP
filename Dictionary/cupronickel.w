@@ -1,0 +1,1 @@
+{"index": 75136, "D": "any of various alloys of copper containing up to 40 percent nickel. ", "S": [], "A": []}

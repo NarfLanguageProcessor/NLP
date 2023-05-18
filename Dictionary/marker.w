@@ -1,0 +1,1 @@
+{"index": 180154, "D": "a person or thing that marks.", "S": ["broad tip pen ", "colored pen ", "felt tip pen ", "marking pen "], "A": []}

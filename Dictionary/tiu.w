@@ -1,0 +1,1 @@
+{"index": 324820, "D": "an English god of the sky and of war, the equivalent of Tyr in Scandinavian mythology.", "S": [], "A": []}

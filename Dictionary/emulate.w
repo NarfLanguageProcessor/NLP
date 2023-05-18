@@ -1,0 +1,1 @@
+{"index": 98930, "D": "to try to equal or excel; imitate with effort to equal or surpass", "S": ["follow suit ", "imitate ", "mimic ", "mirror "], "A": ["neglect "]}

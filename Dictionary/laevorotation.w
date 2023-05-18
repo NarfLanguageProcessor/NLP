@@ -1,0 +1,1 @@
+{"index": 167276, "D": "a rotation to the left", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66969, "D": "easily seen or noticed; readily visible or observable", "S": ["eminence ", "height "], "A": ["unimportance ", "bottom ", "depression ", "nadir "]}

@@ -1,0 +1,1 @@
+{"index": 12547, "D": "born with no or only a partial brain", "S": ["dumb ", "mindless "], "A": ["intelligent "]}

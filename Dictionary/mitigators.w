@@ -1,0 +1,1 @@
+{"index": 190613, "D": "to lessen in force or intensity, as wrath, grief, harshness, or pain; moderate. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237809, "D": "those properties of a mineral that it exhibits when heated, alone or with fluxes, in the blowpipe flame, as the fusibility, intumescence, or other phenomena of fusion, flame coloration, etc.", "S": [], "A": []}

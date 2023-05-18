@@ -1,0 +1,1 @@
+{"index": 181670, "D": "to give false signals to (electronic navigational equipment), as by means of a radio transmitter.", "S": [], "A": []}

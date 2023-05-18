@@ -1,0 +1,1 @@
+{"index": 143063, "D": "of, concerning, or arousing sexual desire for persons of one's own sex", "S": ["lesbian "], "A": []}

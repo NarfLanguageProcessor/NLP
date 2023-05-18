@@ -1,0 +1,1 @@
+{"index": 14497, "D": "the deposition of coal dust in the lungs; asymptomatic pneumoconiosis.", "S": [], "A": []}

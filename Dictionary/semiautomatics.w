@@ -1,0 +1,1 @@
+{"index": 283788, "D": "partly automatic. ", "S": [], "A": []}

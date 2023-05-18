@@ -1,0 +1,1 @@
+{"index": 115242, "D": "to change continually; shift back and forth; vary irregularly", "S": ["contradictory ", "doubtful ", "equivocal ", "hesitant ", "mixed ", "uncertain ", "undecided ", "unsure "], "A": ["certain ", "clear ", "decided ", "definite ", "determined ", "secure ", "settled ", "sure ", "undoubted ", "unquestionable "]}

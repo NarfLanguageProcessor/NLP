@@ -1,0 +1,1 @@
+{"index": 349071, "D": "to separate or disentangle the threads of (a woven or knitted fabric, a rope, etc.).", "S": ["advancement ", "evolution ", "expansion ", "improvement ", "increase ", "progress "], "A": ["decline ", "decrease ", "halt ", "retreat ", "retrogression ", "stoppage ", "lessening ", "reduction ", "shrinkage ", "stagnation ", "withdrawal "]}

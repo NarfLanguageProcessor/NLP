@@ -1,0 +1,1 @@
+{"index": 245090, "D": "habitual or customary performance; operation", "S": ["form ", "habit ", "method ", "proceeding ", "process ", "rule ", "system ", "tradition ", "use "], "A": ["disorganization "]}

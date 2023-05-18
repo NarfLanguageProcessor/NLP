@@ -1,0 +1,1 @@
+{"index": 139257, "D": "condescending or presumptuous; overbearing; arbitrary", "S": ["aloofness ", "chutzpah ", "disdain ", "ego ", "egotism ", "hubris ", "pretension ", "pride ", "smugness ", "vanity "], "A": ["humility ", "modesty ", "carefulness ", "caution ", "meekness ", "shyness ", "timidity "]}

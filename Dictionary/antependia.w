@@ -1,0 +1,1 @@
+{"index": 14215, "D": "the decoration of the front of an altar, as a covering of silk or a painted panel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273185, "D": "a person or thing that rips. ", "S": ["bayonet ", "blade ", "cutter ", "dagger ", "machete ", "scalpel ", "sickle ", "skewer ", "sword "], "A": []}

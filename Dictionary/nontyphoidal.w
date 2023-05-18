@@ -1,0 +1,1 @@
+{"index": 207898, "D": "of, relating to, or resembling typhoid. ", "S": [], "A": []}

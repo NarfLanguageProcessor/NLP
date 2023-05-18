@@ -1,0 +1,1 @@
+{"index": 102240, "D": "lacking the typical characteristics of a particular gender or sex; sexless", "S": ["feeble ", "flaccid ", "weak "], "A": ["strong "]}

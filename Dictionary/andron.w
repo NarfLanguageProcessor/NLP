@@ -1,0 +1,1 @@
+{"index": 12434, "D": "(in an ancient Greek house) an apartment for men, especially one for banqueting.", "S": [], "A": []}

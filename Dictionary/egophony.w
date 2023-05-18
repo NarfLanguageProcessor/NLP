@@ -1,0 +1,1 @@
+{"index": 96266, "D": "a vocal sound heard through a stethoscope and resembling the bleating of a goat, often occurring in cases of pleurisy with effusion.", "S": [], "A": []}

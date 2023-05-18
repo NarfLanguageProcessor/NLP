@@ -1,0 +1,1 @@
+{"index": 224961, "D": "a community, social group, etc, in which all have rule and everyone is equal", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 297531, "D": "a person who practices sorcery;  black magician; wizard.", "S": ["alchemist ", "charmer ", "clairvoyant ", "conjurer ", "diviner ", "enchanter ", "magician ", "medium ", "necromancer ", "occultist ", "seer ", "shaman ", "soothsayer ", "sorceress ", "thaumaturge ", "warlock ", "witch "], "A": []}

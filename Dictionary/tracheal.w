@@ -1,0 +1,1 @@
+{"index": 327041, "D": "pertaining to or connected with the trachea  or tracheae. ", "S": [], "A": []}

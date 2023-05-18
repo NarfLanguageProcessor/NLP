@@ -1,0 +1,1 @@
+{"index": 72014, "D": "the red, acid fruit or berry of certain plants of the genus Vaccinium, of the heath family, as V. macrocarpon(large cranberry,  or American cranberry ) or V. oxycoccus(small cranberry,  or European cranberry ), used in making sauce, relish, jelly, or juice.", "S": [], "A": []}

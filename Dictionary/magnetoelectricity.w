@@ -1,0 +1,1 @@
+{"index": 177529, "D": "electricity  developed by the action of magnets.", "S": [], "A": []}

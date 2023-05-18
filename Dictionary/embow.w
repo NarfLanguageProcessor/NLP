@@ -1,0 +1,1 @@
+{"index": 98218, "D": "to design or create (a structure) in the form of an arch or vault", "S": [], "A": []}

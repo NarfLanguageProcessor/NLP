@@ -1,0 +1,1 @@
+{"index": 243079, "D": "the office or term of office of a pontiff. ", "S": ["address ", "admonish ", "dogmatize ", "evangelize ", "harangue ", "lecture ", "minister ", "moralize ", "preach ", "teach "], "A": ["praise "]}

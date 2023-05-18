@@ -1,0 +1,1 @@
+{"index": 159386, "D": "a suffix of nouns, often corresponding to verbs ending in -ize or nouns ending in -ism, that denote a person who practices or is concerned with something, or holds certain principles, doctrines, etc.", "S": [], "A": []}

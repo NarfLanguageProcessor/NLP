@@ -1,0 +1,1 @@
+{"index": 321448, "D": "the branch of physics dealing with the measurement of temperature.", "S": [], "A": []}

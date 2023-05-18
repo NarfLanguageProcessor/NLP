@@ -1,0 +1,1 @@
+{"index": 233018, "D": "of or like a Pharaoh", "S": [], "A": []}

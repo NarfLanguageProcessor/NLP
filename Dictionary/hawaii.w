@@ -1,0 +1,1 @@
+{"index": 134444, "D": "a state of the United States  comprising the northern Pacific islands of Hawaii, Kahoolawe, Kauai, Lanai, Maui, Molokai, Niihau, and Oahu", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64471, "D": "a native or inhabitant of one's own country; fellow countryman or countrywoman.", "S": [], "A": []}

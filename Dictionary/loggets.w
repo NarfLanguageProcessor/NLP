@@ -1,0 +1,1 @@
+{"index": 174587, "D": "a game, formerly played in England, in which players throw pieces of wood at a stake.", "S": [], "A": []}

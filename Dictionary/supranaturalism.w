@@ -1,0 +1,1 @@
+{"index": 313196, "D": "beyond what is natural;  supernatural.", "S": [], "A": []}

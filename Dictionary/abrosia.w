@@ -1,0 +1,1 @@
+{"index": 874, "D": "abstinence from food; fasting", "S": [], "A": []}

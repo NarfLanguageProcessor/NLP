@@ -1,0 +1,1 @@
+{"index": 295624, "D": "to weep or cry with sniffling.", "S": ["howl ", "lament ", "sob "], "A": ["laugh "]}

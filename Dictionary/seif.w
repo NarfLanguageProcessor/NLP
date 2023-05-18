@@ -1,0 +1,1 @@
+{"index": 283263, "D": "a long narrow sand dune parallel to the prevailing wind direction.", "S": [], "A": []}

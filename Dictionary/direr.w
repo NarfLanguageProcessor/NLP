@@ -1,0 +1,1 @@
+{"index": 86808, "D": "causing or involving great fear or suffering; dreadful; terrible", "S": ["acute ", "critical ", "desperate ", "drastic ", "extreme "], "A": ["calm ", "mild ", "unimportant "]}

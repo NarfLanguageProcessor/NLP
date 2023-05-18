@@ -1,0 +1,1 @@
+{"index": 230518, "D": "very durable; permanent; imperishable.", "S": [], "A": []}

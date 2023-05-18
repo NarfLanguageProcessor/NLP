@@ -1,0 +1,1 @@
+{"index": 137494, "D": "of, having, or pertaining to more than one color.", "S": [], "A": []}

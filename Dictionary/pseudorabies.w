@@ -1,0 +1,1 @@
+{"index": 255068, "D": "a highly contagious, usually fatal disease of cattle, sheep, and other animals, caused by the herpesvirus Herpes suis, and characterized by severe pruritus and progressive central nervous system involvement sometimes including an aggressive excitement phase.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96514, "D": "a variant of icon (defs. 1, 2). ", "S": [], "A": []}

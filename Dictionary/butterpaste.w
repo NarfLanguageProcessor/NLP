@@ -1,0 +1,1 @@
+{"index": 43712, "D": "a mixture of flour and butter  kneaded together, used as a thickening for sauces.", "S": [], "A": []}

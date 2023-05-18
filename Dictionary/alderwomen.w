@@ -1,0 +1,1 @@
+{"index": 7768, "D": "a woman who is a member of a municipal legislative body, especially of a municipal council.", "S": [], "A": []}

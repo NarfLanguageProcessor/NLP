@@ -1,0 +1,1 @@
+{"index": 108772, "D": "able to be thrust out or extruded.", "S": [], "A": []}

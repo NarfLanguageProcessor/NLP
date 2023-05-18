@@ -1,0 +1,1 @@
+{"index": 70499, "D": "to expel air from the lungs suddenly with a harsh noise, often involuntarily.", "S": ["cold "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 51798, "D": "the Whale, a constellation lying above the equator, containing the variable star Mira.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198511, "D": "an Indic language spoken in Nepal.", "S": [], "A": []}

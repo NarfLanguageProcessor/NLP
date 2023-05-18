@@ -1,0 +1,1 @@
+{"index": 82922, "D": "the policy, pursued in most Communist areas and among most Communist groups after 1956, of eradicating the memory or influence of Stalin and Stalinism, as by alteration of governmental policies or the elimination of monuments, placenames, etc., named for Stalin.", "S": [], "A": []}

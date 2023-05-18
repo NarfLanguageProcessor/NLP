@@ -1,0 +1,1 @@
+{"index": 236780, "D": "a small, marine fish, Naucrates ductor, often swimming with sharks.", "S": [], "A": []}

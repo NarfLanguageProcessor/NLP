@@ -1,0 +1,1 @@
+{"index": 337672, "D": "not guided by conscience; unscrupulous. ", "S": [], "A": []}

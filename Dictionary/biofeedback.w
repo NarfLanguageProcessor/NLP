@@ -1,0 +1,1 @@
+{"index": 34356, "D": "a method of learning to control one's bodily functions by monitoring one's own brain waves,  blood pressure, degree of muscle tension, etc.", "S": [], "A": []}

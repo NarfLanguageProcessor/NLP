@@ -1,0 +1,1 @@
+{"index": 158956, "D": "the fusion of two gametes of similar form, as in certain algae.", "S": [], "A": []}

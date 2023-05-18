@@ -1,0 +1,1 @@
+{"index": 111660, "D": "an ordinary consisting of a horizontal band across a shield, conventionally occupying a third of its length and being wider than a bar", "S": [], "A": []}

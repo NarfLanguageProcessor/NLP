@@ -1,0 +1,1 @@
+{"index": 70609, "D": "appearance, especially the look or expression of the face", "S": ["appearance ", "demeanor ", "mien ", "visage "], "A": []}

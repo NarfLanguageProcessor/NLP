@@ -1,0 +1,1 @@
+{"index": 247696, "D": "a metazoan embryo in an early state of germ layer formation following the blastula stage, consisting of a cuplike body of two layers of cells, the ectoderm and endoderm, enclosing a central cavity, or archenteron, that opens to the outside by the blastopore", "S": [], "A": []}

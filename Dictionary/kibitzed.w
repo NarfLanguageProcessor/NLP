@@ -1,0 +1,1 @@
+{"index": 164400, "D": "to act as a kibitzer. ", "S": ["hinder ", "impede ", "impose ", "infringe ", "intrude ", "tamper "], "A": ["aid ", "assist ", "facilitate ", "forward ", "help ", "leave alone ", "retreat ", "yield "]}

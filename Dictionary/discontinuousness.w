@@ -1,0 +1,1 @@
+{"index": 87578, "D": "not continuous; broken; interrupted; intermittent", "S": [], "A": []}

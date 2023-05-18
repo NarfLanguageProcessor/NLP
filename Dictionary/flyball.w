@@ -1,0 +1,1 @@
+{"index": 114531, "D": [], "S": ["crazy ", "disquieting ", "eccentric ", "funny ", "irrational ", "irregular ", "oddball ", "puzzling ", "singular ", "touched ", "unbalanced ", "unhinged ", "weird "], "A": ["balanced ", "common ", "even ", "normal ", "ordinary ", "reasonable ", "regular ", "sane ", "sensible ", "sound ", "stable ", "standard ", "usual ", "well "]}

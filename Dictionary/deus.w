@@ -1,0 +1,1 @@
+{"index": 83348, "D": "God. Abbreviation", "S": [], "A": []}

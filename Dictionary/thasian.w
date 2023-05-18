@@ -1,0 +1,1 @@
+{"index": 320634, "D": "a Greek island in the N Aegean. About 170 sq. mi. (440 sq. km).", "S": [], "A": []}

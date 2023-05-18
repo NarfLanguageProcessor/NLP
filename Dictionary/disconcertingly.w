@@ -1,0 +1,1 @@
+{"index": 87506, "D": "disturbing to one's composure or self-possession; upsetting, discomfiting.", "S": [], "A": []}

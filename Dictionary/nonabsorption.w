@@ -1,0 +1,1 @@
+{"index": 200980, "D": "the act of absorbing. ", "S": [], "A": []}

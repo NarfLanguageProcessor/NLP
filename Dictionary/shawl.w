@@ -1,0 +1,1 @@
+{"index": 287658, "D": "a square, triangular, or oblong piece of wool or other material worn, especially by women, about the shoulders, or the head and shoulders, in place of a coat or hat outdoors, and indoors as protection against chill or dampness.", "S": ["cloth ", "scarf ", "stole "], "A": []}

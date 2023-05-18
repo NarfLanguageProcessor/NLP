@@ -1,0 +1,1 @@
+{"index": 80090, "D": "a high degree of pleasure or enjoyment; joy; rapture", "S": ["adequate ", "decent ", "fair ", "good ", "gratifying ", "satisfying ", "solid ", "suitable ", "tolerable ", "valid "], "A": ["bad ", "inadequate ", "inappropriate ", "insufficient ", "intolerable ", "unacceptable ", "unreal ", "unreliable ", "unsuitable "]}

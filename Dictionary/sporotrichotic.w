@@ -1,0 +1,1 @@
+{"index": 301018, "D": "a widespread infectious disease marked by nodules or ulcers of the skin, chiefly affecting humans and domestic mammals and caused by the fungus Sporothrix schenckii.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236148, "D": "to develop (a language) into a pidgin. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166582, "D": "a malnutrition disease, chiefly of children, caused by severe protein and vitamin deficiency and characterized by retarded growth, changes in pigmentation, potbelly, and anemia.", "S": [], "A": []}

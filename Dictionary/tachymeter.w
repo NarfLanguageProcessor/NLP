@@ -1,0 +1,1 @@
+{"index": 315005, "D": "any of several instruments for rapidly determining distances, directions, and differences of elevation.", "S": [], "A": []}

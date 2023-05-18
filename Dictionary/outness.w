@@ -1,0 +1,1 @@
+{"index": 217023, "D": "the state or quality of being external", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91982, "D": "a pivoted bar with a whiffletree attached to each end, used in harnessing two horses abreast.", "S": [], "A": []}

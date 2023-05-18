@@ -1,0 +1,1 @@
+{"index": 225894, "D": "of, like, or experiencing paranoia. ", "S": [], "A": []}

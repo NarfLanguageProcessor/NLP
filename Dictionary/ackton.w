@@ -1,0 +1,1 @@
+{"index": 2570, "D": "a quilted garment worn under mail in the 13th and 14th centuries; gambeson.", "S": [], "A": []}

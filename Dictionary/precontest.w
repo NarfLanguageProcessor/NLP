@@ -1,0 +1,1 @@
+{"index": 246503, "D": "a race, conflict, or other competition between rivals, as for a prize.", "S": [], "A": []}

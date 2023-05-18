@@ -1,0 +1,1 @@
+{"index": 238778, "D": "clear or distinct to the eye or ear", "S": ["transparent "], "A": ["ambiguous ", "concealed ", "unclear ", "vague "]}

@@ -1,0 +1,1 @@
+{"index": 224758, "D": "an ingrowth of synovial material into a joint, as in rheumatoid arthritis.", "S": [], "A": []}

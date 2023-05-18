@@ -1,0 +1,1 @@
+{"index": 178203, "D": "badly or unsatisfactorily adjusted,  especially in relationship to one's social circumstances, environment, etc.", "S": ["abnormal ", "disturbed ", "messed-up ", "muddled ", "neurotic ", "unfit ", "unstable "], "A": []}

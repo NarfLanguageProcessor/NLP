@@ -1,0 +1,1 @@
+{"index": 19921, "D": " an opening in a garment, under the shoulder, through which the hand, and then the arm, passes.", "S": [], "A": []}

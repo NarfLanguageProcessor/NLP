@@ -1,0 +1,1 @@
+{"index": 298745, "D": "invested with a special character or restricted to a special function or field of activity", "S": [], "A": []}

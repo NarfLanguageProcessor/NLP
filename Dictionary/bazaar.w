@@ -1,0 +1,1 @@
+{"index": 29302, "D": "a marketplace or shopping quarter, especially one in the Middle East.", "S": ["marketplace ", "mart "], "A": []}

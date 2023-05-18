@@ -1,0 +1,1 @@
+{"index": 76322, "D": "a distressing experience, similar to a bad dream, occurring while one is awake.", "S": [], "A": []}

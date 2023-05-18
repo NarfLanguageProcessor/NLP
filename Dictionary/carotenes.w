@@ -1,0 +1,1 @@
+{"index": 48323, "D": "any of three yellow or orange fat-soluble pigments having the formula C40H56, found in many plants, especially carrots, and transformed to vitamin A in the liver; provitamin A.", "S": [], "A": []}

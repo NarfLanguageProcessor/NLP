@@ -1,0 +1,1 @@
+{"index": 67733, "D": "responding or tending to respond to a suggestion by doing or believing the opposite", "S": [], "A": []}

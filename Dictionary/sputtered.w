@@ -1,0 +1,1 @@
+{"index": 301566, "D": "to make explosive popping or sizzling sounds.", "S": ["falter ", "stammer ", "stutter "], "A": ["continue "]}

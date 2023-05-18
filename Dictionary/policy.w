@@ -1,0 +1,1 @@
+{"index": 241742, "D": "a definite course of action adopted for the sake of expediency, facility, etc.", "S": ["action ", "administration ", "approach ", "arrangement ", "behavior ", "code ", "guideline ", "management ", "method ", "plan ", "practice ", "program ", "protocol ", "rule ", "scheme ", "strategy ", "theory "], "A": ["disorganization "]}

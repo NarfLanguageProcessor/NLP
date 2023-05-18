@@ -1,0 +1,1 @@
+{"index": 122263, "D": "an attic, usually a small, wretched one.", "S": [], "A": []}

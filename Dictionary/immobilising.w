@@ -1,0 +1,1 @@
+{"index": 148026, "D": "to make immobile or immovable; fix in place.", "S": [], "A": []}

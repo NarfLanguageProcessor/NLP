@@ -1,0 +1,1 @@
+{"index": 345100, "D": "having a valence of one; monovalent.", "S": [], "A": []}

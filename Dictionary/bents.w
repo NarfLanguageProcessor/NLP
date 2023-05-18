@@ -1,0 +1,1 @@
+{"index": 31708, "D": "curved; crooked", "S": ["angled ", "arced ", "arched ", "bowed ", "contorted ", "crooked ", "drooping ", "hooked ", "humped ", "hunched ", "inclined ", "limp ", "looped ", "round ", "rounded ", "slumped ", "stooped ", "twined ", "twisted ", "warped ", "wilted "], "A": ["straight "]}

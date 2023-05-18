@@ -1,0 +1,1 @@
+{"index": 153986, "D": "a person who instructs;  teacher.", "S": ["captain ", "chairperson ", "director ", "fellowship ", "helm ", "leader ", "monitor ", "principal ", "professorship ", "throne ", "tutor ", "tutorship "], "A": []}

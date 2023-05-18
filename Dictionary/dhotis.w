@@ -1,0 +1,1 @@
+{"index": 83939, "D": "a long loincloth worn by many Hindu men in India.", "S": ["lavalava "], "A": []}

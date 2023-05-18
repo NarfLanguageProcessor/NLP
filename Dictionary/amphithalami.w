@@ -1,0 +1,1 @@
+{"index": 11231, "D": "(in an ancient Greek house) a room adjoining the thalamus.", "S": [], "A": []}

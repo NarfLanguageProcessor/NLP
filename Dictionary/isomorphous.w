@@ -1,0 +1,1 @@
+{"index": 159113, "D": "(of a compound or mineral) capable of crystallizing in a form similar to that of another compound or mineral, used especially of substances so closely related that they form end members of a series of solid solutions.", "S": [], "A": []}

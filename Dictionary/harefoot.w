@@ -1,0 +1,1 @@
+{"index": 133733, "D": "king of England 1035\u201340 (son of Canute).", "S": [], "A": []}

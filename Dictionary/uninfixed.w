@@ -1,0 +1,1 @@
+{"index": 344518, "D": "a morpheme or an entire word that is inserted within the body of another word or element, as Latin m in accumb\u014d \u201cI lie down,\u201d as compared with accubu\u012b \u201cI lay down.\u201d", "S": [], "A": []}

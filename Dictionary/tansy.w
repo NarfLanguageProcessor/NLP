@@ -1,0 +1,1 @@
+{"index": 316209, "D": "any of several composite plants of the genus Tanacetum, especially a strong-scented, weedy, Old World herb, T. vulgare, having flat-topped clusters of tubular yellow flowers.", "S": [], "A": []}

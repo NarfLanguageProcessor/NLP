@@ -1,0 +1,1 @@
+{"index": 324741, "D": "the runt of an animal litter, especially the smallest pig.", "S": [], "A": []}

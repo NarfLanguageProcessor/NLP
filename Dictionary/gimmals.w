@@ -1,0 +1,1 @@
+{"index": 125008, "D": "any of various joints for transmitting motion between rotating parts, as in a timepiece.", "S": [], "A": []}

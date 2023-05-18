@@ -1,0 +1,1 @@
+{"index": 338405, "D": "undismayed; not discouraged; not forced to abandon purpose or effort", "S": ["fearless ", "indomitable ", "steadfast ", "undeterred "], "A": ["cowardly ", "shrinking "]}

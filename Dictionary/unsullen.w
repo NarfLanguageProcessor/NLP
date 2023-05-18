@@ -1,0 +1,1 @@
+{"index": 352373, "D": "showing irritation or ill humor by a gloomy silence or reserve.", "S": [], "A": []}

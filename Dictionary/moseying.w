@@ -1,0 +1,1 @@
+{"index": 193816, "D": "to wander or shuffle about leisurely; stroll; saunter (often followed by along, about, etc.).", "S": ["amble ", "meander ", "mope ", "ramble ", "traipse "], "A": ["hurry ", "leave ", "rush "]}

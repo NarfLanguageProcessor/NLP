@@ -1,0 +1,1 @@
+{"index": 313358, "D": "free from doubt as to the reliability, character, action, etc., of something", "S": ["assured ", "clear ", "confident ", "convinced ", "positive "], "A": ["doubtful ", "uncertain ", "unsure "]}

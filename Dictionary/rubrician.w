@@ -1,0 +1,1 @@
+{"index": 275224, "D": "an expert in or close adherent to liturgical rubrics. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256933, "D": "to rid of whatever is impure or undesirable; cleanse; purify. ", "S": [], "A": []}

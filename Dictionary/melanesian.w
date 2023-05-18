@@ -1,0 +1,1 @@
+{"index": 182690, "D": "of or relating to Melanesia,  its inhabitants, or their languages.", "S": [], "A": []}

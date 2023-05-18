@@ -1,0 +1,1 @@
+{"index": 156909, "D": "ethical intuitionism.", "S": ["ESP ", "clairvoyance ", "intuition ", "intuitionism ", "keen intuition ", "precognition ", "presentiment ", "psychic powers ", "second sight ", "sixth sense ", "telepathy ", "vision "], "A": []}

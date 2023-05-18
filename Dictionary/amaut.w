@@ -1,0 +1,1 @@
+{"index": 9892, "D": "a hood on an Inuit woman's parka for carrying a child", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250817, "D": "a public building in ancient Greece, containing the symbolic hearth of the community and commonly resembling a private dwelling in plan, used as a community meeting place and as a lodging for guests of the community.", "S": [], "A": []}

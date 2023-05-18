@@ -1,0 +1,1 @@
+{"index": 357400, "D": "a nerve or drug that causes vasoconstriction.", "S": [], "A": []}

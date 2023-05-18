@@ -1,0 +1,1 @@
+{"index": 323446, "D": "tigerlike, as in strength, fierceness, courage, or coloration.", "S": ["angrily ", "boldly ", "brutally ", "ferociously ", "forcefully ", "frantically ", "furiously ", "madly ", "mightily ", "passionately ", "savagely ", "severely ", "vehemently ", "viciously ", "wildly "], "A": ["calmly ", "gently "]}

@@ -1,0 +1,1 @@
+{"index": 113246, "D": "a British unit of capacity usually equal to a quarter of a barrel.", "S": ["cask ", "cylinder ", "drum ", "pipe "], "A": []}

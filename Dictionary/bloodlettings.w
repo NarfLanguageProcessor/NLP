@@ -1,0 +1,1 @@
+{"index": 36456, "D": "the act or practice of letting blood by opening a vein; phlebotomy.", "S": ["bloodbath ", "bloodletting ", "carnage ", "fighting ", "killing ", "massacre ", "murder "], "A": ["peace "]}

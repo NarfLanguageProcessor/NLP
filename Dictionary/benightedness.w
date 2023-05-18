@@ -1,0 +1,1 @@
+{"index": 31621, "D": "intellectually or morally ignorant; unenlightened", "S": ["backwardness ", "illiteracy ", "illiterateness ", "lack of education ", "lack of knowledge ", "nescience ", "unenlightenment ", "unknowing "], "A": []}

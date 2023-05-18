@@ -1,0 +1,1 @@
+{"index": 33339, "D": "a person who regards the Bible  as the only rule of faith.", "S": [], "A": []}

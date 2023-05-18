@@ -1,0 +1,1 @@
+{"index": 5729, "D": "pain  due to continuing contractions of the uterus following childbirth.", "S": [], "A": []}

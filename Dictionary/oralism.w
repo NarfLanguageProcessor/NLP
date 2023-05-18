@@ -1,0 +1,1 @@
+{"index": 213933, "D": "Compare manualism. ", "S": [], "A": []}

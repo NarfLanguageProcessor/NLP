@@ -1,0 +1,1 @@
+{"index": 108075, "D": "to strike or blot out; erase; obliterate.", "S": ["cancellation ", "cut ", "expunction ", "remotion ", "removal "], "A": []}

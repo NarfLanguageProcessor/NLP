@@ -1,0 +1,1 @@
+{"index": 246074, "D": "a colorless, volatile, nonflammable, slightly water-soluble, pungent, sweet-tasting liquid, CHCl3, usually derived from acetone, acetaldehyde, or ethyl alcohol by the reaction of chloride of lime", "S": [], "A": []}

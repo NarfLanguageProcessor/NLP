@@ -1,0 +1,1 @@
+{"index": 268767, "D": "distasteful, objectionable, or offensive", "S": ["abhorrent ", "abominable ", "contradictory ", "disgusting ", "distasteful ", "incompatible ", "objectionable ", "odious ", "revolting ", "vile "], "A": ["agreeable ", "delightful ", "good ", "likeable ", "nice ", "pleasant ", "pleasing "]}

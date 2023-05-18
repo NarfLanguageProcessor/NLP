@@ -1,0 +1,1 @@
+{"index": 346443, "D": "lack of trust or confidence; distrust.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307275, "D": "situated below the ear.", "S": [], "A": []}

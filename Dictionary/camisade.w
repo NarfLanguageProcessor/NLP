@@ -1,0 +1,1 @@
+{"index": 45719, "D": "a military attack made at night.", "S": [], "A": []}

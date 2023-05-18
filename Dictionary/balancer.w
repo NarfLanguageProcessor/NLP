@@ -1,0 +1,1 @@
+{"index": 26687, "D": "a person or thing that balances. ", "S": ["clown ", "dancer ", "gymnast ", "performer ", "tumbler "], "A": ["clod "]}

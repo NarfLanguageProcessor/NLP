@@ -1,0 +1,1 @@
+{"index": 341198, "D": "uttered, or to be uttered, with emphasis;  strongly expressive.", "S": ["unobtrusive "], "A": ["conspicuous ", "exposed ", "noticeable ", "open ", "unhidden "]}

@@ -1,0 +1,1 @@
+{"index": 179749, "D": "the act or operation of making a map  or maps. ", "S": ["aligning ", "averaging ", "calculating ", "calibrating ", "checking ", "gauging ", "grading ", "leveling ", "mapping ", "rhyming ", "scaling ", "surveying "], "A": []}

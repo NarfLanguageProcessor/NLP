@@ -1,0 +1,1 @@
+{"index": 143745, "D": "any of several North American shrubs or small trees  belonging to the genus Ptelea, of the citrus family, especially P. trifoliata, having trifoliate leaves and roundish, waferlike fruit.", "S": [], "A": []}

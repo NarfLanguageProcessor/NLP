@@ -1,0 +1,1 @@
+{"index": 343073, "D": "to cover with ice or glaciers. ", "S": [], "A": []}

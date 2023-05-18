@@ -1,0 +1,1 @@
+{"index": 9444, "D": "an instrument for determining both the altitude  and the azimuth  of a heavenly body.", "S": [], "A": []}

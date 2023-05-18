@@ -1,0 +1,1 @@
+{"index": 251056, "D": "to search into or examine thoroughly; question closely", "S": ["examination ", "exploration ", "inquest ", "inquiry ", "research ", "scrutiny ", "study "], "A": []}

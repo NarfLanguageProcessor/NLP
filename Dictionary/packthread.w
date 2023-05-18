@@ -1,0 +1,1 @@
+{"index": 222768, "D": "a strong thread or twine for sewing or tying up packages.", "S": [], "A": []}

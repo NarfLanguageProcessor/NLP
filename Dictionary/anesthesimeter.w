@@ -1,0 +1,1 @@
+{"index": 12580, "D": "a device for measuring the amount of anesthetic given by inhalation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360733, "D": "long live; up with (a specified person or thing)", "S": [], "A": []}

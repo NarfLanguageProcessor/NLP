@@ -1,0 +1,1 @@
+{"index": 336544, "D": "a container made and shaped like a barrel, especially one larger and stronger, for holding liquids.", "S": [], "A": []}

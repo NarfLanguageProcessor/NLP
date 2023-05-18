@@ -1,0 +1,1 @@
+{"index": 85590, "D": "an antibiotic, C21H41N7O12, derived by organic synthesis from and believed to be less toxic than streptomycin", "S": [], "A": []}

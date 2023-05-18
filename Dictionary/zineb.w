@@ -1,0 +1,1 @@
+{"index": 369441, "D": "a light tan, water-insoluble compound, C4H6N2S4Zn, used as a fungicide for fruits and vegetables.", "S": [], "A": []}

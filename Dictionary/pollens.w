@@ -1,0 +1,1 @@
+{"index": 242689, "D": "the fertilizing element of flowering plants, consisting of fine, powdery, yellowish grains or spores, sometimes in masses.", "S": ["antigen ", "dander ", "irritant ", "ragweed "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83383, "D": "of, relating to, or resembling Deuteronomy, especially the laws contained in that book.", "S": [], "A": []}

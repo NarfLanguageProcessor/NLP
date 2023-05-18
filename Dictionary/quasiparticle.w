@@ -1,0 +1,1 @@
+{"index": 258123, "D": "an entity, as an exciton or phonon, that interacts with elementary particles,  but does not exist as a free particle. ", "S": [], "A": []}

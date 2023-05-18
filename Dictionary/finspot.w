@@ -1,0 +1,1 @@
+{"index": 113075, "D": "any clinid fish of the genus Paraclinus, having an eyelike spot  on the dorsal fin,  as P. integripinnis, of California.", "S": [], "A": []}

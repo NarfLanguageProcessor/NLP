@@ -1,0 +1,1 @@
+{"index": 146795, "D": "(formerly) an inexpensive, often lurid, novel bound in yellow  cloth or paper.", "S": [], "A": []}

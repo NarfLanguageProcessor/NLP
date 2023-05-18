@@ -1,0 +1,1 @@
+{"index": 158272, "D": "not relative;  without relation (usually followed by to).", "S": [], "A": []}

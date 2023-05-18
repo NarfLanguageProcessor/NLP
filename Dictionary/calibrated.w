@@ -1,0 +1,1 @@
+{"index": 45066, "D": "to determine, check, or rectify the graduation of (any instrument giving quantitative measurements).", "S": ["graded ", "measured ", "registered ", "serialized ", "tapered "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 278228, "D": "soft, disintegrated, usually more or less decomposed rock remaining in its original place.", "S": [], "A": []}

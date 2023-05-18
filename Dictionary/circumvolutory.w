@@ -1,0 +1,1 @@
+{"index": 58293, "D": "the act of rolling or turning around", "S": ["whirling "], "A": []}

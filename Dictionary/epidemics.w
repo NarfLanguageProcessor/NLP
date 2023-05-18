@@ -1,0 +1,1 @@
+{"index": 102352, "D": "Compare pandemic (def. 1). ", "S": ["contagious ", "endemic ", "infectious "], "A": ["limited "]}

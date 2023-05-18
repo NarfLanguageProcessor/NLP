@@ -1,0 +1,1 @@
+{"index": 112583, "D": "an identifying name given to an electronically stored computer file, conforming to limitations imposed by the operating system, as in length or restricted choice of characters.", "S": [], "A": []}

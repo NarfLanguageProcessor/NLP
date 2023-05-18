@@ -1,0 +1,1 @@
+{"index": 302400, "D": "a person or thing that stays", "S": [], "A": []}

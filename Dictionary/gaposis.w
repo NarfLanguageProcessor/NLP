@@ -1,0 +1,1 @@
+{"index": 122028, "D": "a noticeable gap  or series of gaps,  as between the fastened buttons or snaps on an overly tight garment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239383, "D": "(in the shinbone) the state of being laterally flattened.", "S": [], "A": []}

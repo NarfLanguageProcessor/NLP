@@ -1,0 +1,1 @@
+{"index": 64006, "D": "an interchange of goods or commodities, especially on a large scale between different countries (foreign commerce ) or between different parts of the same country (domestic commerce ); trade; business.", "S": ["business ", "economics ", "exchange ", "industry ", "marketing ", "retailing ", "trade ", "traffic "], "A": ["unemployment "]}

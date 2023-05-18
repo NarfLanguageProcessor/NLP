@@ -1,0 +1,1 @@
+{"index": 189289, "D": "a wrong, actual or alleged, arising from or consisting of affirmative action.", "S": [], "A": []}

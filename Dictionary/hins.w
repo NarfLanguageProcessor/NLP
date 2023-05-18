@@ -1,0 +1,1 @@
+{"index": 139724, "D": "an ancient Hebrew unit of liquid measure equal to about one and one half gallons (5.7 liters).", "S": [], "A": []}

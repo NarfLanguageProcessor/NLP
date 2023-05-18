@@ -1,0 +1,1 @@
+{"index": 136035, "D": "the presence of blood in the urine.", "S": [], "A": []}

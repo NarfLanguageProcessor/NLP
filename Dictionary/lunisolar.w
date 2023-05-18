@@ -1,0 +1,1 @@
+{"index": 176247, "D": "pertaining to or based upon the relations or joint action of the moon and the sun.", "S": [], "A": []}

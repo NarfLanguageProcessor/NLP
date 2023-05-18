@@ -1,0 +1,1 @@
+{"index": 314547, "D": "to move with or make a sibilant sound, as a slender rod cutting sharply through the air or as small waves washing on the shore.", "S": ["exclusive ", "grand ", "in ", "plush ", "smart ", "swank ", "swell "], "A": ["inelegant ", "unfashionable ", "unstylish "]}

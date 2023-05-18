@@ -1,0 +1,1 @@
+{"index": 148671, "D": "to obtain by entreaty.", "S": [], "A": []}

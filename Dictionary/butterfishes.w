@@ -1,0 +1,1 @@
+{"index": 43680, "D": "a small, flattened, marine food fish, Peprilus triacanthus, of Atlantic coastal waters of the United States, having very small scales and smooth skin.", "S": [], "A": []}

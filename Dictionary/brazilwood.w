@@ -1,0 +1,1 @@
+{"index": 40178, "D": "any of several tropical trees of the genus Caesalpinia, as C. echinata, having wood  from which a red dye is obtained.", "S": [], "A": []}

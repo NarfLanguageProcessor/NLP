@@ -1,0 +1,1 @@
+{"index": 193978, "D": "moving or capable of moving spontaneously", "S": ["ambulatory ", "fluid ", "free ", "itinerant ", "liquid ", "locomotive ", "migrant ", "peripatetic ", "portable ", "roving ", "wandering "], "A": ["settled ", "solid "]}

@@ -1,0 +1,1 @@
+{"index": 65259, "D": "the spiral shell of a gastropod, often used as a horn.", "S": [], "A": []}

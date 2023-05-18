@@ -1,0 +1,1 @@
+{"index": 343134, "D": "separated or detached; not glued.", "S": ["befuddled ", "bewildered "], "A": ["clear "]}

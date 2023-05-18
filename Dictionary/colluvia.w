@@ -1,0 +1,1 @@
+{"index": 63164, "D": "loose earth material that has accumulated at the base of a hill, through the action of gravity, as piles of talus, avalanche debris, and sheets of detritus moved by soil creep or frost action.", "S": [], "A": []}

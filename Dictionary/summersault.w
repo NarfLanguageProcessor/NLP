@@ -1,0 +1,1 @@
+{"index": 310955, "D": "a variant spelling of somersault", "S": [], "A": []}

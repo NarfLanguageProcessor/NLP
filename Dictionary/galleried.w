@@ -1,0 +1,1 @@
+{"index": 121336, "D": "having a gallery or galleries", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315652, "D": "talking picture. ", "S": ["cinema ", "flick ", "footage ", "motion picture ", "picture ", "show "], "A": []}

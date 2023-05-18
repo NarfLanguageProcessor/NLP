@@ -1,0 +1,1 @@
+{"index": 270877, "D": "a system of retrorockets on a spacecraft", "S": [], "A": []}

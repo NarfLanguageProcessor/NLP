@@ -1,0 +1,1 @@
+{"index": 176778, "D": "an apparatus consisting of interrelated parts with separate functions, used in the performance of some kind of work", "S": ["apparatus ", "appliance ", "automobile ", "engine ", "gadget ", "instrument ", "motor ", "tool ", "vehicle "], "A": ["end "]}

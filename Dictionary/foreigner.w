@@ -1,0 +1,1 @@
+{"index": 116725, "D": "a person not native to or naturalized in the country or jurisdiction under consideration; alien.", "S": ["alien ", "immigrant ", "outsider "], "A": ["national ", "native "]}

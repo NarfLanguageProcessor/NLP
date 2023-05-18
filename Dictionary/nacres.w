@@ -1,0 +1,1 @@
+{"index": 196467, "D": "mother-of-pearl. ", "S": ["jewel ", "seed "], "A": []}

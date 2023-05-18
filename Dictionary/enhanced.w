@@ -1,0 +1,1 @@
+{"index": 100516, "D": "to raise to a higher degree; intensify; magnify", "S": ["decorated ", "embellished "], "A": ["marred ", "unadorned "]}

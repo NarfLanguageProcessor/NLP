@@ -1,0 +1,1 @@
+{"index": 67205, "D": "to bring to a state of perfection; fulfill.", "S": ["completely ", "entirely ", "fully ", "thoroughly ", "utterly ", "wholly "], "A": ["inadequately ", "incompletely ", "partially ", "partly "]}

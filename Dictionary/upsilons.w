@@ -1,0 +1,1 @@
+{"index": 355030, "D": "the 20th letter of the Greek alphabet (\u03a5, \u03c5).", "S": [], "A": []}

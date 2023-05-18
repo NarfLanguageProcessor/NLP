@@ -1,0 +1,1 @@
+{"index": 129721, "D": "a small shell containing an explosive and thrown by hand or fired from a rifle or launching device.", "S": ["explosive ", "fireball ", "missile ", "pineapple ", "shell "], "A": []}

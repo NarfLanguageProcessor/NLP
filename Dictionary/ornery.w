@@ -1,0 +1,1 @@
+{"index": 214709, "D": "ugly and unpleasant in disposition or temper", "S": ["cranky ", "grouchy ", "grumpy ", "hard-nosed ", "ill-tempered ", "nasty ", "obstinate ", "vicious "], "A": ["agreeable ", "friendly ", "happy ", "helpful ", "kind ", "nice ", "pleasant "]}

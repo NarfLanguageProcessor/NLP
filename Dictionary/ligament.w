@@ -1,0 +1,1 @@
+{"index": 171967, "D": "a band of tissue, usually white and fibrous, serving to connect bones, hold organs in place, etc.", "S": ["screw ", "tangle "], "A": []}

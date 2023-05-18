@@ -1,0 +1,1 @@
+{"index": 265865, "D": "(in a Doric entablature) a fillet, continuing a triglyph beneath the taenia, from which guttae are suspended.", "S": [], "A": []}

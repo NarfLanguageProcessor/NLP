@@ -1,0 +1,1 @@
+{"index": 14190, "D": "a small antenna,  especially one of the foremost pair of a crustacean.", "S": [], "A": []}

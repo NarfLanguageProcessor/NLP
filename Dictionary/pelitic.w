@@ -1,0 +1,1 @@
+{"index": 229301, "D": "any clayey rock, as mudstone or shale.", "S": [], "A": []}

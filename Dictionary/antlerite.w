@@ -1,0 +1,1 @@
+{"index": 16441, "D": "an emerald to blackish-green mineral, hydrous copper sulfate, Cu3(OH)4SO4, a major copper ore in Chile.", "S": [], "A": []}

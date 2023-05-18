@@ -1,0 +1,1 @@
+{"index": 152145, "D": "to impose as something that must be borne or suffered", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342013, "D": "bound with a band, fillet, or bandage.", "S": [], "A": []}

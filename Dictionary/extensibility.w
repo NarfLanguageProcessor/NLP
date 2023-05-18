@@ -1,0 +1,1 @@
+{"index": 108224, "D": "capable of being extended. ", "S": ["resilience "], "A": ["constraint ", "inelasticity ", "inflexibility ", "resistance "]}

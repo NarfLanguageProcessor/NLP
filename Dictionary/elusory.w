@@ -1,0 +1,1 @@
+{"index": 97841, "D": "elusory arguments", "S": ["ambiguous ", "fleeting ", "illusory ", "incomprehensible ", "puzzling ", "slippery ", "subtle ", "tricky ", "volatile "], "A": ["definite ", "honest ", "intelligible ", "stable ", "understandable "]}

@@ -1,0 +1,1 @@
+{"index": 186454, "D": "a device for projecting an enlarged image of a microfilm or microphotograph, especially on a ground-glass screen.", "S": [], "A": []}

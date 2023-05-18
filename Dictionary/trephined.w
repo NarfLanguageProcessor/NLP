@@ -1,0 +1,1 @@
+{"index": 328971, "D": "a small circular saw with a center pin mounted on a strong hollow metal shaft to which is attached a transverse handle", "S": [], "A": []}

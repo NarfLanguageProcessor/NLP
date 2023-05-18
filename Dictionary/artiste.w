@@ -1,0 +1,1 @@
+{"index": 20753, "D": "an artist,  especially an actor, singer, dancer, or other public performer.", "S": ["artisan ", "composer ", "expert ", "inventor ", "painter "], "A": ["scientist "]}

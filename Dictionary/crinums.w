@@ -1,0 +1,1 @@
+{"index": 73079, "D": "any of the tropical and subtropical bulbous plants constituting the genus Crinum, of the amaryllis family, usually having umbels of large, showy flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124887, "D": "a member of a Christian order founded in approximately 1135 by St Gilbert of Sempringham, composed of nuns who followed the Cistercian rule and Augustinian canons who ministered to them. It was the only religious order of English origin and never spread to Europe", "S": [], "A": []}

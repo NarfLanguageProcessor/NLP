@@ -1,0 +1,1 @@
+{"index": 261295, "D": "talking wildly; delirious; frenzied", "S": ["madly ", "wildly "], "A": []}

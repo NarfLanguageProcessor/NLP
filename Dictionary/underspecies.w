@@ -1,0 +1,1 @@
+{"index": 339855, "D": "a class of individuals having some common characteristics or qualities; distinct sort or kind.", "S": [], "A": []}

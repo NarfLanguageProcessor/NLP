@@ -1,0 +1,1 @@
+{"index": 54949, "D": "pertaining to chivalry; chivalrous. ", "S": ["brave ", "chivalrous ", "courageous ", "knightly ", "noble ", "valiant "], "A": []}

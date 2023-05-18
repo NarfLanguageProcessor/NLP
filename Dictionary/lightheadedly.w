@@ -1,0 +1,1 @@
+{"index": 172037, "D": "giddy, dizzy, or delirious", "S": [], "A": []}

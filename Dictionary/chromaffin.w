@@ -1,0 +1,1 @@
+{"index": 56188, "D": "having an affinity for stains containing chromium salts, indicating the presence of epinephrine or norepinephrine.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26895, "D": "a person who sings ballads. ", "S": ["minstrel ", "poet ", "versifier "], "A": []}

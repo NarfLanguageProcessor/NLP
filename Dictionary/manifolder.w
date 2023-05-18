@@ -1,0 +1,1 @@
+{"index": 179294, "D": "a machine for making manifolds  or copies, as of writing.", "S": [], "A": []}

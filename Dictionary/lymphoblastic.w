@@ -1,0 +1,1 @@
+{"index": 172552, "D": "a large, metabolically active lymphocyte shortly before it enters into mitosis.", "S": [], "A": []}

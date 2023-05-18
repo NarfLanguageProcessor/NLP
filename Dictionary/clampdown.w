@@ -1,0 +1,1 @@
+{"index": 59175, "D": "crackdown. ", "S": ["crackdown ", "embargo ", "repression ", "restriction "], "A": ["freedom "]}

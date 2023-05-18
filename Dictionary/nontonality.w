@@ -1,0 +1,1 @@
+{"index": 207926, "D": "a particular scale or system of tones; a key.", "S": [], "A": []}

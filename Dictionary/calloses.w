@@ -1,0 +1,1 @@
+{"index": 45343, "D": "having thickened or hardened spots, as a leaf.", "S": [], "A": []}

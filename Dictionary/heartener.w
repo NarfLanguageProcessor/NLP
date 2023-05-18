@@ -1,0 +1,1 @@
+{"index": 134845, "D": "to give courage or confidence to; cheer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73104, "D": "a mineral, sodium aluminum fluoride, Na3AlF6, occurring in white masses, used as a flux in the electrolytic production of aluminum.", "S": [], "A": []}

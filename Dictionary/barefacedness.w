@@ -1,0 +1,1 @@
+{"index": 27902, "D": "with the face uncovered.", "S": [], "A": []}

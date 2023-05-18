@@ -1,0 +1,1 @@
+{"index": 323397, "D": "one of a series of rows or ranks rising one behind or above another, as of seats in an amphitheater, boxes in a theater, guns in a man-of-war, or oars in an ancient galley.", "S": [], "A": []}

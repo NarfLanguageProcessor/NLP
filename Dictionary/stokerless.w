@@ -1,0 +1,1 @@
+{"index": 305038, "D": "a person or thing that stokes. ", "S": [], "A": []}

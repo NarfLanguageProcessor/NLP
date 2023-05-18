@@ -1,0 +1,1 @@
+{"index": 21795, "D": "to take in and incorporate as one's own; absorb", "S": ["absorptive ", "assimilatory ", "bibulous ", "permeable "], "A": []}

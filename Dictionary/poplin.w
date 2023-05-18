@@ -1,0 +1,1 @@
+{"index": 243242, "D": "a finely corded fabric of cotton, rayon, silk, or wool, for dresses, draperies, etc.", "S": [], "A": []}

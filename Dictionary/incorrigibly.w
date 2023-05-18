@@ -1,0 +1,1 @@
+{"index": 150402, "D": "not corrigible; bad beyond correction or reform", "S": [], "A": []}

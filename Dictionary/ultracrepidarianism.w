@@ -1,0 +1,1 @@
+{"index": 333887, "D": "noting or pertaining to a person who criticizes, judges, or gives advice outside their area of expertise", "S": [], "A": []}

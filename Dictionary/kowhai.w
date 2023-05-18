@@ -1,0 +1,1 @@
+{"index": 166200, "D": "a New Zealand tree, Sophora tetraptera, of the legume family, having clusters of golden-yellow flowers.", "S": [], "A": []}

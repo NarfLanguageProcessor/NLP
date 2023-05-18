@@ -1,0 +1,1 @@
+{"index": 291778, "D": "a variant of Sinicization", "S": [], "A": []}

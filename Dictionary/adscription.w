@@ -1,0 +1,1 @@
+{"index": 4447, "D": "a less common word for ascription", "S": ["acknowledgment ", "assignment ", "credit ", "recognition "], "A": ["disclaimer ", "dishonor "]}

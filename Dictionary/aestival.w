@@ -1,0 +1,1 @@
+{"index": 5207, "D": "estival. ", "S": ["estival ", "sunny ", "warm "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144380, "D": "a building in which people live; residence for human beings.", "S": ["apartment ", "box ", "building ", "condo ", "condominium ", "dwelling ", "home ", "mansion ", "residence ", "shack "], "A": ["office "]}

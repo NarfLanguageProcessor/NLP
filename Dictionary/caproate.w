@@ -1,0 +1,1 @@
+{"index": 47109, "D": "a salt or ester of caproic acid. ", "S": [], "A": []}

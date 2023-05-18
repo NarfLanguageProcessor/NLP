@@ -1,0 +1,1 @@
+{"index": 324040, "D": "tinkling  or producing a tinkling  sound.", "S": ["chiming ", "ringing "], "A": []}

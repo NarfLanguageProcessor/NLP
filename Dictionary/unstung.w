@@ -1,0 +1,1 @@
+{"index": 352218, "D": "a simple past tense and past participle of sting. ", "S": [], "A": []}

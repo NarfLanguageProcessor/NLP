@@ -1,0 +1,1 @@
+{"index": 353917, "D": "not voiced;  not uttered", "S": ["aphonic ", "implicit ", "indescribable ", "inexpressible ", "nameless ", "tacit ", "undeclared ", "unexpressed ", "unpronounced ", "unsaid ", "unspoken ", "unuttered ", "wordless "], "A": []}

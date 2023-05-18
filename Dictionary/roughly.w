@@ -1,0 +1,1 @@
+{"index": 274799, "D": "roughly half the candidates were successful", "S": ["approximately ", "practically "], "A": []}

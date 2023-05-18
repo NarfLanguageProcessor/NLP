@@ -1,0 +1,1 @@
+{"index": 30778, "D": "of, relating to, or concerned with the manner of acting or behaving", "S": ["observable "], "A": ["internal "]}

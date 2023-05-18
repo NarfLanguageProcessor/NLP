@@ -1,0 +1,1 @@
+{"index": 267090, "D": "to continue in the same state; continue to be as specified", "S": ["continue ", "endure ", "go on ", "hover ", "last ", "linger ", "live ", "persist ", "prevail ", "stand ", "stop ", "survive ", "wait "], "A": ["cease ", "die ", "discontinue ", "go ", "leave ", "lie ", "carry on ", "depart ", "hurry ", "move "]}

@@ -1,0 +1,1 @@
+{"index": 20550, "D": "slyly crafty or cunning; deceitful; tricky", "S": ["adroit ", "ingenious ", "masterly ", "shrewd ", "slick ", "sly "], "A": ["awkward ", "clumsy ", "inept ", "stupid "]}

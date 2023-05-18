@@ -1,0 +1,1 @@
+{"index": 322400, "D": "any of various South American hummingbirds of the genera Chalcostigma, Ramphomicron, etc, having a thornlike bill", "S": [], "A": []}

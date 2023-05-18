@@ -1,0 +1,1 @@
+{"index": 289298, "D": "to raise and contract (the shoulders), expressing indifference, disdain, etc.", "S": ["action ", "bow ", "curtsy ", "expression ", "genuflection ", "indication ", "intimation ", "mime ", "motion ", "nod ", "pantomime ", "reminder ", "salute ", "sign ", "signal ", "token ", "wave ", "wink "], "A": ["repose ", "rest "]}

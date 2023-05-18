@@ -1,0 +1,1 @@
+{"index": 358703, "D": "the day before the opening of an art exhibition traditionally reserved for the artist to varnish the paintings.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195868, "D": "a man  with a muscular or brawny physique, especially a bodybuilder.", "S": [], "A": []}

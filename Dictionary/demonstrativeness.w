@@ -1,0 +1,1 @@
+{"index": 80868, "D": "characterized by or given to open exhibition or expression of one's emotions, attitudes, etc., especially of love or affection", "S": [], "A": []}

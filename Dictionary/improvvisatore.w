@@ -1,0 +1,1 @@
+{"index": 149220, "D": "an improvisator, especially a person who extemporizes verse.", "S": [], "A": []}

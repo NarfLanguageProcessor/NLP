@@ -1,0 +1,1 @@
+{"index": 149755, "D": "the act or practice of an arsonist; malicious burning.", "S": ["torching "], "A": []}

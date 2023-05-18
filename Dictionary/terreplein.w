@@ -1,0 +1,1 @@
+{"index": 319545, "D": "the top platform or horizontal surface of a rampart where guns are mounted.", "S": [], "A": []}

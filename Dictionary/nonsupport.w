@@ -1,0 +1,1 @@
+{"index": 207687, "D": "failure to support  a spouse, child, or other dependent as required by law.", "S": [], "A": []}

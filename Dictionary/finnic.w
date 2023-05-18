@@ -1,0 +1,1 @@
+{"index": 113054, "D": "a subdivision of the Finno-Ugric branch of the Uralic language family that includes Finnish, Estonian, Sami, Mordvin, Udmurt, Mari, and Komi.", "S": [], "A": []}

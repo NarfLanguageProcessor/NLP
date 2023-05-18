@@ -1,0 +1,1 @@
+{"index": 48214, "D": "U.S. steel manufacturer and philanthropist, born in Scotland.", "S": [], "A": []}

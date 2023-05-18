@@ -1,0 +1,1 @@
+{"index": 15937, "D": "designed or directed to reduce or abolish poverty  (used especially in describing certain governmental programs).", "S": [], "A": []}

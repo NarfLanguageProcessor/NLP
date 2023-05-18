@@ -1,0 +1,1 @@
+{"index": 313467, "D": "a strong, wavelike, forward movement, rush, or sweep", "S": ["ascending ", "climbing ", "growing ", "increasing ", "soaring ", "spiraling "], "A": []}

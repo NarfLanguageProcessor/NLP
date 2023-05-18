@@ -1,0 +1,1 @@
+{"index": 359925, "D": "of, relating to, or derived from a European grape, Vitis vinifera, widely cultivated for making wine and raisins and for table use.", "S": [], "A": []}

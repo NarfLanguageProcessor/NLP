@@ -1,0 +1,1 @@
+{"index": 14150, "D": "any of several ruminants of the family Bovidae, chiefly of Africa and Asia, having permanent, hollow, unbranched horns.", "S": ["chammy ", "cloth ", "leather ", "shammy ", "skin "], "A": []}

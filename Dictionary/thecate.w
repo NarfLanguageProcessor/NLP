@@ -1,0 +1,1 @@
+{"index": 320781, "D": "having or being contained in a theca. ", "S": [], "A": []}

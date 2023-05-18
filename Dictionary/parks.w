@@ -1,0 +1,1 @@
+{"index": 226576, "D": "U.S. photojournalist and film director.", "S": ["estate ", "forest ", "garden ", "lawn ", "place ", "playground ", "plaza ", "square "], "A": []}

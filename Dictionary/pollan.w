@@ -1,0 +1,1 @@
+{"index": 242664, "D": "any of several varieties of the whitefish Coregonus pollan that occur in lakes in Northern Ireland", "S": [], "A": []}

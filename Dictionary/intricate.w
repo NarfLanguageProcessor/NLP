@@ -1,0 +1,1 @@
+{"index": 156717, "D": "having many interrelated parts or facets; entangled or involved", "S": ["baroque ", "complex ", "convoluted ", "difficult ", "labyrinthine ", "sophisticated ", "tangled ", "tortuous ", "tricky "], "A": ["apparent ", "clear ", "direct ", "easy ", "obvious ", "plain ", "simple ", "straight ", "straightforward ", "uncomplicated "]}

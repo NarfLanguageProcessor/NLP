@@ -1,0 +1,1 @@
+{"index": 111898, "D": "any plant belonging to the genus Eryngium, of the parsley family, especially E. foetidum, of the West Indies, or E. campestre, of Europe.", "S": [], "A": []}

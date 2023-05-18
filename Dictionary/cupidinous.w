@@ -1,0 +1,1 @@
+{"index": 75081, "D": "eager or excessive desire, especially to possess something; greed; avarice. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 193892, "D": "a small particle or speck, especially of dust.", "S": [], "A": []}

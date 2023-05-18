@@ -1,0 +1,1 @@
+{"index": 2265, "D": "the greatest Greek warrior in the Trojan War and hero of Homer's Iliad. He killed Hector and was killed when Paris wounded him in the heel, his one vulnerable spot, with an arrow.", "S": [], "A": []}

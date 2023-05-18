@@ -1,0 +1,1 @@
+{"index": 95220, "D": "any of a number of tapeworms of the genus Echinococcus whose larvae are parasitic in humans and domestic animals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 254728, "D": "pertaining to, derived from, or founded on experiment", "S": [], "A": []}

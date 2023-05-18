@@ -1,0 +1,1 @@
+{"index": 187011, "D": "in a mighty manner; powerfully or vigorously.", "S": ["greatly ", "hugely ", "intensely "], "A": ["little ", "weakly "]}

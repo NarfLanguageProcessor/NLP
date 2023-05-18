@@ -1,0 +1,1 @@
+{"index": 50507, "D": "a person who abstains from sexual relations.", "S": ["chaste "], "A": ["active ", "promiscuous "]}

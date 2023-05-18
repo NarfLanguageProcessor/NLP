@@ -1,0 +1,1 @@
+{"index": 71007, "D": "to schedule (a broadcast on radio or television) to compete with one on another station.", "S": [], "A": []}

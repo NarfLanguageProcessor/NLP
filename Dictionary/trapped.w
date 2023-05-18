@@ -1,0 +1,1 @@
+{"index": 328487, "D": "caught in or as if in a trap  or by a ruse, trick, or stratagem", "S": ["captured ", "cornered "], "A": []}

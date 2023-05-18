@@ -1,0 +1,1 @@
+{"index": 331524, "D": "Freddy, full name Frederick Sewards Trueman . 1931\u20132006, English cricketer; a fast bowler, he played for Yorkshire (1949\u201368) and England (1952\u201365); first bowler to take 300 test match wickets", "S": [], "A": []}

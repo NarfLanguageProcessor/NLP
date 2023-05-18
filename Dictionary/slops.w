@@ -1,0 +1,1 @@
+{"index": 294367, "D": "to spill or splash (liquid).", "S": ["refuse ", "rubbish ", "slop ", "trash ", "waste "], "A": ["assets ", "possessions ", "property ", "sense "]}

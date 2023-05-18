@@ -1,0 +1,1 @@
+{"index": 103860, "D": "a spirit or personified natural power that works mischief, especially to children.", "S": [], "A": []}

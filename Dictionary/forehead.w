@@ -1,0 +1,1 @@
+{"index": 116702, "D": "the part of the face above the eyebrows; brow.", "S": ["front ", "temples "], "A": []}

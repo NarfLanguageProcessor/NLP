@@ -1,0 +1,1 @@
+{"index": 3785, "D": "any of a group of DNA viruses  that cause eye and respiratory diseases.", "S": [], "A": []}

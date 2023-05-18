@@ -1,0 +1,1 @@
+{"index": 309881, "D": "help; relief; aid; assistance.", "S": ["sustenance "], "A": ["blockage ", "hindrance ", "hurt ", "injury ", "obstruction ", "stop "]}

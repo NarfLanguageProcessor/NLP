@@ -1,0 +1,1 @@
+{"index": 365742, "D": "deliberately or intentionally; on purpose", "S": [], "A": []}

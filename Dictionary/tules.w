@@ -1,0 +1,1 @@
+{"index": 332226, "D": "either of two large bulrushes, Scirpus lacustris or S. acutus, found in California and adjacent regions in inundated lands and marshes.", "S": [], "A": []}

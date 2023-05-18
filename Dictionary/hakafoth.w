@@ -1,0 +1,1 @@
+{"index": 132505, "D": "a ceremony on Simhath Torah and on other occasions in which members of a synagogue congregation carry Torah scrolls around the synagogue seven or more times.", "S": [], "A": []}

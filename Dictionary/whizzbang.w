@@ -1,0 +1,1 @@
+{"index": 365264, "D": "a small-calibre World War I shell that, when discharged, travelled at such a high velocity that the sound of its flight was heard only an instant, if at all, before the sound of its explosion", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232438, "D": "the stealing of a pet,  as for resale or ransom.", "S": [], "A": []}

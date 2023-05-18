@@ -1,0 +1,1 @@
+{"index": 299560, "D": "resembling the pulse; pulselike.", "S": [], "A": []}

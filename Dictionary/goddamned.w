@@ -1,0 +1,1 @@
+{"index": 127314, "D": "damned (def. 2). ", "S": ["accursed ", "blasted ", "blessed ", "bloody ", "confounded ", "cursed ", "damn ", "darn "], "A": []}

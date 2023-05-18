@@ -1,0 +1,1 @@
+{"index": 66385, "D": "the formation or expression of an opinion or theory without sufficient evidence for proof.", "S": ["anticipating ", "auguring ", "divining ", "foreboding ", "foretelling ", "guessing ", "portending ", "presaging ", "prognostic ", "prognosticative ", "surmising "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16714, "D": "a hypothetical primate representing a transitional form between true humans and the anthropoid apes, considered by some as constituting the genus Australopithecus.", "S": [], "A": []}

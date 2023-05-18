@@ -1,0 +1,1 @@
+{"index": 101934, "D": "the earliest known horse, a member of the extinct genus Hyracotherium (Eohippus), from the early Eocene Epoch of the Northern Hemisphere; a terrier-sized herbivore having four hoofed toes on each forefoot and three on each hind foot, and low-crowned teeth.", "S": [], "A": []}

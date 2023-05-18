@@ -1,0 +1,1 @@
+{"index": 44253, "D": "pronounced with the tip of the tongue curled back toward or against the hard palate; retroflex; cerebral.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112736, "D": "of, relating to, or characteristic of motion pictures", "S": [], "A": []}

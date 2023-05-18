@@ -1,0 +1,1 @@
+{"index": 61019, "D": "a raised border around an opening in a deck, roof, or floor, designed to prevent water from running below.", "S": [], "A": []}

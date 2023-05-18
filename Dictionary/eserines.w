@@ -1,0 +1,1 @@
+{"index": 104286, "D": "physostigmine. ", "S": [], "A": []}

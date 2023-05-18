@@ -1,0 +1,1 @@
+{"index": 271946, "D": "rupture, as of a blood vessel, organ, or cell.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287028, "D": "a ring or other fastening, as of iron, for securing the wrist, ankle, etc.; fetter.", "S": ["bind ", "confine ", "cuff ", "handcuff ", "tie up "], "A": ["free ", "release ", "let go ", "loose ", "loosen "]}

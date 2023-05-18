@@ -1,0 +1,1 @@
+{"index": 57715, "D": "a complex system of rhyme and alliteration used in Welsh verse", "S": [], "A": []}

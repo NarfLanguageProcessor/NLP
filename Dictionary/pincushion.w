@@ -1,0 +1,1 @@
+{"index": 236958, "D": "a small cushion  into which pins  are stuck until needed.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 142539, "D": "of or containing the element holmium. ", "S": [], "A": []}

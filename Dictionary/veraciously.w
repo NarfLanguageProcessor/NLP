@@ -1,0 +1,1 @@
+{"index": 358311, "D": "habitually speaking the truth; truthful; honest", "S": ["honestly "], "A": ["deceitful ", "devious ", "lying ", "shady ", "underhanded "]}

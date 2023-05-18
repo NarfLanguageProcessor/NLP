@@ -1,0 +1,1 @@
+{"index": 80367, "D": "the determining and marking off of the boundaries of something.", "S": ["delimitation ", "separation "], "A": []}

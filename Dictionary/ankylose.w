@@ -1,0 +1,1 @@
+{"index": 13418, "D": "to unite or grow together, as the bones of a joint or the root of a tooth and its surrounding bone.", "S": [], "A": []}

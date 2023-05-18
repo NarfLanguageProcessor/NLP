@@ -1,0 +1,1 @@
+{"index": 246026, "D": "an instructor; teacher; tutor.", "S": ["expert ", "guru ", "mentor ", "specialist ", "teacher ", "tutor "], "A": ["pupil ", "student "]}

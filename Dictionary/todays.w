@@ -1,0 +1,1 @@
+{"index": 325003, "D": "this present day", "S": ["now ", "today "], "A": ["future ", "past "]}

@@ -1,0 +1,1 @@
+{"index": 14377, "D": "(of a fruit) having accessory or enlarged tissue, as the apple or strawberry.", "S": [], "A": []}

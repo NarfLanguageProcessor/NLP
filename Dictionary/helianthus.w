@@ -1,0 +1,1 @@
+{"index": 135478, "D": "any composite plant of the genus Helianthus, comprising the sunflowers.", "S": [], "A": []}

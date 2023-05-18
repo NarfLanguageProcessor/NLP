@@ -1,0 +1,1 @@
+{"index": 229126, "D": "the widened end of the neck of a stringed instrument, to which the tuning pegs  are fixed.", "S": [], "A": []}

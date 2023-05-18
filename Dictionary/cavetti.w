@@ -1,0 +1,1 @@
+{"index": 50205, "D": "a concave molding the outline of which is a quarter circle.", "S": [], "A": []}

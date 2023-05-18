@@ -1,0 +1,1 @@
+{"index": 364501, "D": "to endeavor to influence (a person) by smooth, flattering, or beguiling words or acts", "S": ["allured ", "impelled ", "influenced ", "inveigled ", "led ", "lured ", "motivated ", "seduced "], "A": []}

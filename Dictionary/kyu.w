@@ -1,0 +1,1 @@
+{"index": 165270, "D": "one of the five student grades for inexperienced competitors", "S": [], "A": []}

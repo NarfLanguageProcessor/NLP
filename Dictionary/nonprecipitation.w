@@ -1,0 +1,1 @@
+{"index": 206103, "D": "the act of precipitating; state of being precipitated.", "S": [], "A": []}

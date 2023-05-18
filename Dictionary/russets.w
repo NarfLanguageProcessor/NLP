@@ -1,0 +1,1 @@
+{"index": 275821, "D": "yellowish brown, light brown, or reddish brown.", "S": ["brown ", "chestnut ", "copper ", "hazel ", "henna ", "russet ", "rust ", "titian "], "A": []}

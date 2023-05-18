@@ -1,0 +1,1 @@
+{"index": 343012, "D": "beginning to grow or develop; germinating. ", "S": [], "A": []}

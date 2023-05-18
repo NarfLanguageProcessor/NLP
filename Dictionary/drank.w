@@ -1,0 +1,1 @@
+{"index": 92697, "D": "a simple past tense and past participle of drink. ", "S": ["consume ", "drain ", "gulp ", "guzzle ", "inhale ", "quaff ", "sip ", "slurp ", "suck "], "A": ["abstain "]}

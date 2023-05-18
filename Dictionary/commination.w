@@ -1,0 +1,1 @@
+{"index": 64041, "D": "a threat of punishment or vengeance.", "S": ["anathema ", "condemnation ", "curse ", "denunciation ", "diatribe ", "excommunication ", "execration ", "imprecation ", "malediction ", "obloquy ", "proscription "], "A": ["compliment ", "praise "]}

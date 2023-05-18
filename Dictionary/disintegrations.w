@@ -1,0 +1,1 @@
+{"index": 88458, "D": "the act or process of disintegrating. ", "S": ["dissolution ", "fragmentation "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291179, "D": "to create a simulation,  likeness, or model of (a situation, system, or the like)", "S": ["affect ", "mimic ", "replicate ", "reproduce ", "resemble "], "A": ["destroy ", "face ", "give ", "idle ", "meet ", "receive ", "reveal ", "tell the truth "]}

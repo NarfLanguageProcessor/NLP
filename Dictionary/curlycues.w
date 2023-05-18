@@ -1,0 +1,1 @@
+{"index": 75351, "D": "an ornamental, fancy curl or twist, as in a signature.", "S": [], "A": []}

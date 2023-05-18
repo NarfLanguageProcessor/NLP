@@ -1,0 +1,1 @@
+{"index": 102441, "D": "the theory that an embryo develops from the successive differentiation of an originally undifferentiated structure (opposed to preformation).", "S": [], "A": []}

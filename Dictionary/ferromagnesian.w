@@ -1,0 +1,1 @@
+{"index": 111543, "D": "(of minerals and rocks) containing iron and magnesium.", "S": [], "A": []}

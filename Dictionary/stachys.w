@@ -1,0 +1,1 @@
+{"index": 302211, "D": "any plant of the genus Stachys, esp S. lanata (lamb's ears) and S. officinalis (betony)", "S": [], "A": []}

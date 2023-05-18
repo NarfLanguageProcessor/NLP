@@ -1,0 +1,1 @@
+{"index": 123941, "D": "geometrician. ", "S": [], "A": []}

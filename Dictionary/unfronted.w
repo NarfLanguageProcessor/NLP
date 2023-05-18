@@ -1,0 +1,1 @@
+{"index": 342759, "D": "the foremost part or surface of anything.", "S": [], "A": []}

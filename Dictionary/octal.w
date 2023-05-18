@@ -1,0 +1,1 @@
+{"index": 210953, "D": "of or relating to the number system with base 8, employing the numerals 0 through 7.", "S": [], "A": []}

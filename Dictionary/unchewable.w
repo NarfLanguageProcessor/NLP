@@ -1,0 +1,1 @@
+{"index": 336802, "D": "capable of being chewed", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64958, "D": "a feeling of uneasiness or anxiety of the conscience caused by regret for doing wrong or causing pain; contrition; remorse.", "S": [], "A": []}

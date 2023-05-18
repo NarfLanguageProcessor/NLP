@@ -1,0 +1,1 @@
+{"index": 23753, "D": "an absolute ruler; autocrat; tyrant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 174350, "D": "capable of being locked;  fitted with a lock", "S": [], "A": []}

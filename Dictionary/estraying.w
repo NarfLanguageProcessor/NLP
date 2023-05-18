@@ -1,0 +1,1 @@
+{"index": 104720, "D": "a person or animal that has strayed.", "S": [], "A": []}

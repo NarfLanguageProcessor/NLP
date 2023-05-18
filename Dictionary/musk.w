@@ -1,0 +1,1 @@
+{"index": 196039, "D": "a substance secreted in a glandular sac under the skin of the abdomen of the male musk deer,  having a strong odor, and used in perfumery.", "S": ["cantaloupe ", "gourd ", "papaya ", "watermelon "], "A": []}

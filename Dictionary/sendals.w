@@ -1,0 +1,1 @@
+{"index": 285231, "D": "a silk fabric in use during the Middle Ages.", "S": ["fiber ", "taffeta ", "thread ", "tulle "], "A": []}

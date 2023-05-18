@@ -1,0 +1,1 @@
+{"index": 341452, "D": "to use ambiguous or unclear expressions, usually to avoid commitment or in order to mislead; prevaricate or hedge", "S": [], "A": []}

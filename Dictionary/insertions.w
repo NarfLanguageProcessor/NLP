@@ -1,0 +1,1 @@
+{"index": 153560, "D": "the act of inserting", "S": ["infusion ", "injection "], "A": []}

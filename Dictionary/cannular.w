@@ -1,0 +1,1 @@
+{"index": 46461, "D": "shaped like a cannula;  tubular.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 67141, "D": "the doctrine that the substance of the body and blood of Christ coexist in and with the substance of the bread and wine of the Eucharist.", "S": [], "A": []}

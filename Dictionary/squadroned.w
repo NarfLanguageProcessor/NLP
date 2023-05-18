@@ -1,0 +1,1 @@
+{"index": 301613, "D": "a portion of a naval fleet or a detachment of warships; a subdivision of a fleet.", "S": [], "A": []}

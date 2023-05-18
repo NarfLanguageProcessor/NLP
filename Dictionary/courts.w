@@ -1,0 +1,1 @@
+{"index": 71376, "D": "a session of a judicial assembly.", "S": ["assizes ", "bar ", "bench ", "court ", "judicature ", "justices ", "tribunal "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 130779, "D": "cautious; careful; prudent", "S": ["cautious ", "circumspect ", "reserved ", "restrained "], "A": ["bold ", "careless ", "extroverted ", "incautious ", "outgoing ", "rash ", "uncareful "]}

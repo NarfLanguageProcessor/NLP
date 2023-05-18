@@ -1,0 +1,1 @@
+{"index": 186933, "D": "pertaining to the spinal cord.", "S": [], "A": []}

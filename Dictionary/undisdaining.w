@@ -1,0 +1,1 @@
+{"index": 340505, "D": "to look upon or treat with contempt; despise; scorn.", "S": [], "A": []}

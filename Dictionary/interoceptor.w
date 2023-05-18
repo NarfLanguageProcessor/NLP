@@ -1,0 +1,1 @@
+{"index": 155540, "D": "a receptor, especially of the viscera, responding to stimuli originating from within the body.", "S": [], "A": []}

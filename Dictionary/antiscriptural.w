@@ -1,0 +1,1 @@
+{"index": 16143, "D": "of, relating to, or in accordance with sacred writings, especially the Scriptures. ", "S": [], "A": []}

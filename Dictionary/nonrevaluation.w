@@ -1,0 +1,1 @@
+{"index": 206858, "D": "to make a new or revised valuation of; revalue. ", "S": [], "A": []}

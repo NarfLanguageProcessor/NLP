@@ -1,0 +1,1 @@
+{"index": 83329, "D": "reduction or subsidence of swelling.", "S": [], "A": []}

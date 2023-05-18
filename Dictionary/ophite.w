@@ -1,0 +1,1 @@
+{"index": 213403, "D": "a diabase in which elongate crystals of plagioclase are embedded in pyroxene.", "S": [], "A": []}

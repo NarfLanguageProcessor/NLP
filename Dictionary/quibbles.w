@@ -1,0 +1,1 @@
+{"index": 258479, "D": "an instance of the use of ambiguous, prevaricating, or irrelevant language or arguments to evade a point at issue.", "S": ["nicety "], "A": ["approval ", "directness ", "facing ", "honesty ", "meeting ", "openness ", "praise ", "reality "]}

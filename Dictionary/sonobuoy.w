@@ -1,0 +1,1 @@
+{"index": 297284, "D": "a buoy  that emits a radio signal on receiving an underwater signal from a vessel.", "S": [], "A": []}

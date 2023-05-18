@@ -1,0 +1,1 @@
+{"index": 3010, "D": "the use of what was originally a logogram as a phonetic symbol for the initial sound of the word the logogram represented, as, in Semitic writing, the use of a picture of a shepherd's crook to represent the sound (l), the first sound of lamed, the Hebrew word for a shepherd's crook.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256577, "D": "punctate condition or marking.", "S": [], "A": []}

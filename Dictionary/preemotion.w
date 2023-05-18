@@ -1,0 +1,1 @@
+{"index": 247236, "D": "an affective state of consciousness in which joy, sorrow, fear, hate, or the like, is experienced, as distinguished from cognitive and volitional states of consciousness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91548, "D": "a yard  in front of the door  of a house.", "S": [], "A": []}

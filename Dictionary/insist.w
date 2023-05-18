@@ -1,0 +1,1 @@
+{"index": 153655, "D": "to be emphatic, firm, or resolute on some matter of desire, demand, intention, etc.", "S": ["assert ", "contend ", "demand ", "hold ", "maintain ", "press ", "reiterate ", "repeat ", "request ", "stand firm ", "urge ", "vow "], "A": ["abandon ", "desert ", "reply "]}

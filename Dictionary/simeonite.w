@@ -1,0 +1,1 @@
+{"index": 290816, "D": "a member of the Israelite tribe of Simeon.", "S": [], "A": []}

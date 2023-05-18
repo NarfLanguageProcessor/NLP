@@ -1,0 +1,1 @@
+{"index": 179565, "D": "a legendary monster with a man's head, horns, a lion's body, and the tail of a dragon or, sometimes, a scorpion.", "S": [], "A": []}

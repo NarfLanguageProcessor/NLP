@@ -1,0 +1,1 @@
+{"index": 99017, "D": "the use of one grammatical form in place of another, as the plural for the singular in the editorial use of we.", "S": [], "A": []}

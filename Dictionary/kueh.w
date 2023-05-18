@@ -1,0 +1,1 @@
+{"index": 166398, "D": "(in Malaysia) any cake of Malay, Chinese, or Indian origin", "S": [], "A": []}

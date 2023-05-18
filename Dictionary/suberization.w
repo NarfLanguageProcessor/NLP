@@ -1,0 +1,1 @@
+{"index": 307931, "D": "the impregnation of cell walls with suberin, causing the formation of cork.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211543, "D": "differing from the usual or expected; unconventional", "S": ["bizarre ", "eccentric ", "idiosyncratic ", "unconventional ", "unorthodox ", "unusual ", "weird "], "A": ["common ", "conventional ", "normal ", "regular ", "standard ", "usual "]}

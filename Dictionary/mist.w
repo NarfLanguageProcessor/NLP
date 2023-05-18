@@ -1,0 +1,1 @@
+{"index": 190167, "D": "a cloudlike aggregation of minute globules of water suspended in the atmosphere at or near the earth's surface, reducing visibility to a lesser degree than fog.", "S": ["cloud ", "dew ", "drizzle ", "fog ", "moisture ", "rain ", "smog ", "steam "], "A": ["dryness "]}

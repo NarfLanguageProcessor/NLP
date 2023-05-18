@@ -1,0 +1,1 @@
+{"index": 74825, "D": "to prepare and work on (land) in order to raise crops; till.", "S": ["breed ", "fertilize ", "harvest ", "manage ", "plant ", "prepare ", "propagate ", "raise ", "tend "], "A": ["abandon ", "destroy ", "disorganize ", "ignore ", "neglect ", "idle ", "laze ", "relax "]}

@@ -1,0 +1,1 @@
+{"index": 365108, "D": "an old man, especially one with a white  or gray beard. ", "S": [], "A": []}

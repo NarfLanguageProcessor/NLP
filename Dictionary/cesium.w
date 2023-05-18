@@ -1,0 +1,1 @@
+{"index": 51689, "D": "a rare, highly reactive, soft, metallic element of the alkali metal group, used chiefly in photoelectric cells. Symbol", "S": [], "A": []}

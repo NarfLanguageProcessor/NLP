@@ -1,0 +1,1 @@
+{"index": 88013, "D": "to bring or come out of an entwined  or intertwined state; untwine.", "S": [], "A": []}

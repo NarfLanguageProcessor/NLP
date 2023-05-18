@@ -1,0 +1,1 @@
+{"index": 169153, "D": "a person or thing that launches. ", "S": [], "A": []}

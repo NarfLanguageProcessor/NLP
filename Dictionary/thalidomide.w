@@ -1,0 +1,1 @@
+{"index": 320511, "D": "a crystalline, slightly water-soluble solid, C13H10N2O4, formerly used as a sedative", "S": [], "A": []}

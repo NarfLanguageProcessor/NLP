@@ -1,0 +1,1 @@
+{"index": 130364, "D": "the practice of approaching problems or issues as matters that are best dealt with by consensus of a group rather than by individuals acting independently; conformity.", "S": ["chitchat ", "parley "], "A": ["quiet ", "silence "]}

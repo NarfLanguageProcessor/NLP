@@ -1,0 +1,1 @@
+{"index": 213875, "D": "a licensed professional who practices optometry. ", "S": ["ophthalmologist "], "A": []}

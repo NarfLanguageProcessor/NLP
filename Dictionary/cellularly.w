@@ -1,0 +1,1 @@
+{"index": 50598, "D": "pertaining to or characterized by cellules  or cells,  especially minute compartments or cavities.", "S": [], "A": []}

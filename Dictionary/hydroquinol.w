@@ -1,0 +1,1 @@
+{"index": 138917, "D": "a white, crystalline compound, C6H6O2, formed by the reduction of quinone", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70030, "D": "the science dealing with the occurrence and distribution of chemical elements in the universe.", "S": [], "A": []}

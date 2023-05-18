@@ -1,0 +1,1 @@
+{"index": 53215, "D": "aggressively and blindly devoted to a certain system of beliefs, especially patriotism or nationalism", "S": ["biased "], "A": ["broad-minded ", "fair ", "humanitarian ", "just ", "open-minded ", "tolerant ", "unprejudiced "]}

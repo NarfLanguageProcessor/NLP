@@ -1,0 +1,1 @@
+{"index": 48651, "D": "the telling of fortunes with playing cards", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166093, "D": "an indoor game similar to basketball, in which each team consists of four men and four women", "S": [], "A": []}

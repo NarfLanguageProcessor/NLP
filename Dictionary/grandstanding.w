@@ -1,0 +1,1 @@
+{"index": 128897, "D": "the act or practice of behaving or performing in a showy way in an attempt to impress others", "S": ["egocentric ", "egotistical ", "self-absorbed ", "self-indulgent ", "selfish "], "A": ["benevolent ", "giving ", "unselfish "]}

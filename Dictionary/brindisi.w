@@ -1,0 +1,1 @@
+{"index": 40838, "D": "an Adriatic seaport in SE Apulia, in SE Italy", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19488, "D": "the tincture or metal silver.", "S": [], "A": []}

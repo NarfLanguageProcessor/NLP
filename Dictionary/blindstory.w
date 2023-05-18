@@ -1,0 +1,1 @@
+{"index": 36241, "D": "a story,  or major horizontal division of a wall, having no exterior windows or other major openings.", "S": [], "A": []}

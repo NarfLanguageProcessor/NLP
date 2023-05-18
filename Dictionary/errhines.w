@@ -1,0 +1,1 @@
+{"index": 103991, "D": "designed to be snuffed into the nose.", "S": [], "A": []}

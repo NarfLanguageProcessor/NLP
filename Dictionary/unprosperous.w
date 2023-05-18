@@ -1,0 +1,1 @@
+{"index": 348693, "D": "having or characterized by financial success or good fortune; flourishing; successful", "S": ["declining ", "defeated ", "faint ", "scant ", "scanty ", "short ", "shy ", "wanting "], "A": ["adequate ", "enough ", "sufficient "]}

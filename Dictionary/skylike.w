@@ -1,0 +1,1 @@
+{"index": 293180, "D": "the region of the clouds or the upper air; the upper atmosphere of the earth", "S": [], "A": []}

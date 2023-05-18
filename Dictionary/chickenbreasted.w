@@ -1,0 +1,1 @@
+{"index": 54149, "D": "a congenital or acquired malformation of the chest in which there is abnormal projection of the sternum and the sternal region, often associated with rickets.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273148, "D": "having arrived at such a stage of growth or development as to be ready for reaping, gathering, eating, or use, as grain or fruit; completely matured.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19500, "D": "(of knitted articles) having a diamond-shaped pattern in two or more colors.", "S": [], "A": []}

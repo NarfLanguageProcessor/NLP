@@ -1,0 +1,1 @@
+{"index": 176075, "D": "the unit of luminous flux, equal to the luminous flux emitted in a unit solid angle by a point source of one candle intensity. Abbreviation", "S": [], "A": []}

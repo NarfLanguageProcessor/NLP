@@ -1,0 +1,1 @@
+{"index": 62486, "D": "happening by or resulting from coincidence;  by chance", "S": [], "A": []}

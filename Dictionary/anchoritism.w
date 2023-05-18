@@ -1,0 +1,1 @@
+{"index": 12201, "D": "a person who has retired to a solitary place for a life of religious seclusion; hermit.", "S": [], "A": []}

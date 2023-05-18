@@ -1,0 +1,1 @@
+{"index": 122883, "D": "a magnetometer for measuring the intensity of a magnetic field, calibrated in gauss. ", "S": [], "A": []}

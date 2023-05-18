@@ -1,0 +1,1 @@
+{"index": 249805, "D": "to yield (something) to the possession or power of another; deliver up possession of on demand or under duress", "S": [], "A": []}

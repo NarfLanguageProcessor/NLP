@@ -1,0 +1,1 @@
+{"index": 217565, "D": "uttered or expressed with frankness or without reserve", "S": [], "A": []}

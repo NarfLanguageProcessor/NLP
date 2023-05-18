@@ -1,0 +1,1 @@
+{"index": 342036, "D": "subject to, guided by, or predetermined by fate;  destined.", "S": [], "A": []}

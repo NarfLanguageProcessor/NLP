@@ -1,0 +1,1 @@
+{"index": 214364, "D": "Compare holism (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7975, "D": "warding off poisoning or infection; antidotal; prophylactic.", "S": [], "A": []}

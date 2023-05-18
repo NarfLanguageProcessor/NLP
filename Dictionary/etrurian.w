@@ -1,0 +1,1 @@
+{"index": 105225, "D": "pertaining to Etruria, its inhabitants, civilization, art, or language.", "S": [], "A": []}

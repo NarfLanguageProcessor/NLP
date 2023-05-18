@@ -1,0 +1,1 @@
+{"index": 159620, "D": "a copper coin of the Republic of China, equal to 100 cents; dollar.", "S": [], "A": []}

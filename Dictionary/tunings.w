@@ -1,0 +1,1 @@
+{"index": 332448, "D": [], "S": ["adjustment ", "arrangement ", "control ", "governance ", "management ", "settlement ", "supervision "], "A": ["deregulation ", "disorganization ", "lawlessness ", "mismanagement "]}

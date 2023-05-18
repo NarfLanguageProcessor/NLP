@@ -1,0 +1,1 @@
+{"index": 181902, "D": "the doctrine that the universe is fully explicable in mechanistic terms.", "S": [], "A": []}

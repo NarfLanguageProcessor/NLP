@@ -1,0 +1,1 @@
+{"index": 62018, "D": "an encysted larval form of the tapeworm Multiceps, containing many encapsulated heads. In sheep it can cause the gid, and when eaten by dogs it develops into several adult forms", "S": [], "A": []}

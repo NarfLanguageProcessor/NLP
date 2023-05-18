@@ -1,0 +1,1 @@
+{"index": 49334, "D": "a speech disorder in which a person constantly repeats a word or phrase.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95461, "D": "the distension or dilation of a duct, vessel, or hollow viscus", "S": [], "A": []}

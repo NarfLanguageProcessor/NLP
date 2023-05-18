@@ -1,0 +1,1 @@
+{"index": 118173, "D": "refractory or unruly", "S": ["disorderliness ", "intractability ", "intractableness ", "obstinacy ", "recalcitrance ", "recalcitrancy ", "refractoriness ", "roughness ", "rowdiness ", "unmanageableness ", "wildness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 216691, "D": "to ride a horse at a gallop; ride at full speed", "S": [], "A": []}

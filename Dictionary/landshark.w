@@ -1,0 +1,1 @@
+{"index": 168020, "D": "a person who makes inordinate profits by buying and selling land", "S": [], "A": []}

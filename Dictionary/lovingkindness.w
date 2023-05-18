@@ -1,0 +1,1 @@
+{"index": 175598, "D": "tender kindness motivated by or expressing affection.", "S": [], "A": []}

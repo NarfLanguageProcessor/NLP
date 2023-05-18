@@ -1,0 +1,1 @@
+{"index": 243056, "D": "a band of nerve fibers in the brain connecting the lobes of the midbrain, medulla, and cerebrum.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22106, "D": "a cylindrical lens used in a rangefinder to draw out the point image of a point source into a line.", "S": [], "A": []}

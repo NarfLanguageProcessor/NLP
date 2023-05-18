@@ -1,0 +1,1 @@
+{"index": 250897, "D": "deserving or qualifying for a prize", "S": [], "A": []}

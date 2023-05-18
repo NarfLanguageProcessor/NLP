@@ -1,0 +1,1 @@
+{"index": 173524, "D": "an antiseptic method introduced by Joseph Lister,  involving the spraying of the parts under operation with a carbolic acid solution.", "S": [], "A": []}

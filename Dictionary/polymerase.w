@@ -1,0 +1,1 @@
+{"index": 242039, "D": "any of several enzymes that catalyze the formation of a long-chain molecule by linking smaller molecular units, as nucleotides with nucleic acids.", "S": [], "A": []}

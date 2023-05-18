@@ -1,0 +1,1 @@
+{"index": 276459, "D": "any of various animals having markings on the back  that resemble a saddle,  as a male harp seal.", "S": [], "A": []}

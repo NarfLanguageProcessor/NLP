@@ -1,0 +1,1 @@
+{"index": 212371, "D": "the third stomach of a ruminant, between the reticulum and the abomasum;  the manyplies.", "S": [], "A": []}

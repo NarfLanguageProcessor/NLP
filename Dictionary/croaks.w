@@ -1,0 +1,1 @@
+{"index": 73536, "D": "to utter a low-pitched, harsh cry, as the sound of a frog or a raven.", "S": ["caw ", "crow ", "gasp ", "grunt ", "quack ", "squawk ", "wheeze "], "A": []}

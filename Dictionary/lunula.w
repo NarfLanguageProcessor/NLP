@@ -1,0 +1,1 @@
+{"index": 176265, "D": "something shaped like a narrow crescent, as the small, pale area at the base of the fingernail.", "S": [], "A": []}

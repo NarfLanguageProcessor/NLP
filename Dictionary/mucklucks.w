@@ -1,0 +1,1 @@
+{"index": 194568, "D": "a variant of mukluk. ", "S": [], "A": []}

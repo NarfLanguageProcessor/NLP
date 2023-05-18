@@ -1,0 +1,1 @@
+{"index": 6908, "D": "the framework and external covering of an airplane, rocket, etc.", "S": [], "A": []}

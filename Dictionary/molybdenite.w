@@ -1,0 +1,1 @@
+{"index": 191479, "D": "a soft, graphitelike mineral, molybdenum sulfide, MoS2, occurring in foliated masses or scales", "S": [], "A": []}

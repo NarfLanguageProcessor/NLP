@@ -1,0 +1,1 @@
+{"index": 232161, "D": "a reading", "S": ["examination ", "inspection ", "research ", "survey "], "A": ["ignorance ", "neglect "]}

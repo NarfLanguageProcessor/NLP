@@ -1,0 +1,1 @@
+{"index": 294924, "D": "of or relating to Smyrna, Turkey.", "S": [], "A": []}

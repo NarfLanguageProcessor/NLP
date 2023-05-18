@@ -1,0 +1,1 @@
+{"index": 148682, "D": "of, relating to, or characterized by sudden or rash action, emotion, etc.; impulsive", "S": ["brashness ", "carelessness ", "heedlessness ", "incautiousness ", "rashness ", "temerity "], "A": ["caution "]}

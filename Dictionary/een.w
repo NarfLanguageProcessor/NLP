@@ -1,0 +1,1 @@
+{"index": 95918, "D": "contraction of even1. ", "S": [], "A": []}

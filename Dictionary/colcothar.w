@@ -1,0 +1,1 @@
+{"index": 62658, "D": "the brownish-red oxide of iron produced by heating ferrous sulfate", "S": [], "A": []}

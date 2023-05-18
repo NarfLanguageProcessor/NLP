@@ -1,0 +1,1 @@
+{"index": 294932, "D": "to strike or hit hard, with or as with the hand, a stick, or other weapon", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179321, "D": "(functioning as singular) another name for psalterium", "S": [], "A": []}

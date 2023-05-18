@@ -1,0 +1,1 @@
+{"index": 182277, "D": "a reward or recompense.", "S": ["amends ", "atonement ", "compensation ", "eye for an eye ", "indemnification ", "indemnity ", "lex talionis ", "payback ", "quid pro quo ", "reciprocity ", "recompense ", "rectification ", "reparation ", "restitution ", "retaliation ", "tit for tat ", "tooth for a tooth "], "A": []}

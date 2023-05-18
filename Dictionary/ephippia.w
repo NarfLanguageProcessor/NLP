@@ -1,0 +1,1 @@
+{"index": 102163, "D": "a thick shell, consisting of two chitinous plates, that encloses and protects the winter eggs of a cladoceran.", "S": [], "A": []}

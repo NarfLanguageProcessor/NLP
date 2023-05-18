@@ -1,0 +1,1 @@
+{"index": 300690, "D": "to plunder, rob, or ruin.", "S": [], "A": []}

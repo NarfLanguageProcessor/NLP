@@ -1,0 +1,1 @@
+{"index": 253025, "D": "to dissect (a cadaver or part) for anatomical demonstration.", "S": ["anatomize ", "cut ", "dichotomize ", "disjoin ", "disjoint ", "dismember ", "dissever ", "divide ", "operate ", "part ", "quarter ", "section ", "sever ", "slice ", "sunder "], "A": ["combine ", "connect ", "join ", "unite "]}

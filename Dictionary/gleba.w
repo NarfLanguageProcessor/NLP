@@ -1,0 +1,1 @@
+{"index": 126097, "D": "the sporogenous tissue forming the central part of the sporophore in certain fungi, as in puffballs and stinkhorns.", "S": [], "A": []}

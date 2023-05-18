@@ -1,0 +1,1 @@
+{"index": 66679, "D": "being in conformity with one's conscience; just.", "S": [], "A": []}

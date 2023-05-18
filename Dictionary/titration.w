@@ -1,0 +1,1 @@
+{"index": 324761, "D": "an operation, used in volumetric analysis, in which a measured amount of one solution is added to a known quantity of another solution until the reaction between the two is complete. If the concentration of one solution is known, that of the other can be calculated", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 345068, "D": "to do (something) over again or repeatedly.", "S": [], "A": []}

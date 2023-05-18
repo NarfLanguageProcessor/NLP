@@ -1,0 +1,1 @@
+{"index": 59272, "D": "a group of persons hired to applaud an act or performer.", "S": [], "A": []}

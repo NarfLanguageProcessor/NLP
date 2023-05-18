@@ -1,0 +1,1 @@
+{"index": 201252, "D": "of or relating to alluvium. ", "S": [], "A": []}

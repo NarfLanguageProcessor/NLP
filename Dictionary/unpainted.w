@@ -1,0 +1,1 @@
+{"index": 347364, "D": "reproduced or represented in paint", "S": [], "A": []}

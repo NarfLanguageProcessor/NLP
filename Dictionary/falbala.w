@@ -1,0 +1,1 @@
+{"index": 109405, "D": "a furbelow or puckered flounce for decorating dresses in the 17th century.", "S": [], "A": []}

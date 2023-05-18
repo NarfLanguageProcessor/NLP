@@ -1,0 +1,1 @@
+{"index": 145722, "D": "a hand in which no card is higher than a nine.", "S": [], "A": []}

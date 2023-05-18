@@ -1,0 +1,1 @@
+{"index": 202967, "D": "the act or process of ceasing, especially from a criminal or antisocial behavior", "S": [], "A": []}

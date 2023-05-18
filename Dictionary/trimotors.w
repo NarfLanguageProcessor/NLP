@@ -1,0 +1,1 @@
+{"index": 330091, "D": "an airplane or other vehicle that has three motors. ", "S": [], "A": []}

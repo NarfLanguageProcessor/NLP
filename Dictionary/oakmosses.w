@@ -1,0 +1,1 @@
+{"index": 209875, "D": "a lichen, Evernia pranastri, growing on oak  and other trees, yielding a resin used in the manufacture of perfumes.", "S": [], "A": []}

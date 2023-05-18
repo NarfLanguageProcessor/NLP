@@ -1,0 +1,1 @@
+{"index": 38172, "D": "a brief increase, as in business activity or political popularity.", "S": [], "A": []}

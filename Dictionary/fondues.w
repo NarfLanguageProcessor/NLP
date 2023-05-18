@@ -1,0 +1,1 @@
+{"index": 116045, "D": "a saucelike dish of Swiss origin made with melted cheese and seasonings together with dry white wine, usually flavored with kirsch", "S": [], "A": []}

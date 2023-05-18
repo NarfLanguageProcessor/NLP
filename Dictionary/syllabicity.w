@@ -1,0 +1,1 @@
+{"index": 290457, "D": "the state of being syllabic;  the ability to form a syllable. ", "S": [], "A": []}

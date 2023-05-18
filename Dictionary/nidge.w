@@ -1,0 +1,1 @@
+{"index": 199763, "D": "to dress (a stone) with a pick or kevel.", "S": [], "A": []}

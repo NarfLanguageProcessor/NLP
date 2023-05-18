@@ -1,0 +1,1 @@
+{"index": 316274, "D": "(in philosophical Taoism) that in virtue of which all things happen or exist.", "S": [], "A": []}

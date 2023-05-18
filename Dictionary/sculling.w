@@ -1,0 +1,1 @@
+{"index": 282175, "D": "an oar mounted on a fulcrum at the stern of a small boat and moved from side to side to propel the boat forward.", "S": ["rowing ", "sailing "], "A": []}

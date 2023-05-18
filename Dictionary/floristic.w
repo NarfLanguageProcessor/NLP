@@ -1,0 +1,1 @@
+{"index": 115068, "D": "pertaining to flowers or a flora.", "S": ["anatomy ", "cytology ", "ecology ", "genetics ", "horticulture ", "morphology ", "pathology ", "physiology ", "phytology ", "pomology ", "taxonomy "], "A": []}

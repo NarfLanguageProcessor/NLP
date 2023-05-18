@@ -1,0 +1,1 @@
+{"index": 186730, "D": "a player active in the midfield,  as in soccer, often playing both offensively and defensively.", "S": [], "A": []}

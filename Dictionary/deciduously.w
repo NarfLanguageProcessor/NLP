@@ -1,0 +1,1 @@
+{"index": 78334, "D": "shedding the leaves annually, as certain trees and shrubs.", "S": [], "A": []}

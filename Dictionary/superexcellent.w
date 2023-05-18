@@ -1,0 +1,1 @@
+{"index": 311786, "D": "possessing outstanding quality or superior merit; remarkably good.", "S": ["unblemished "], "A": []}

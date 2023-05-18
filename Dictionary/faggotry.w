@@ -1,0 +1,1 @@
+{"index": 109205, "D": "gay sexual orientation or behavior.", "S": [], "A": []}

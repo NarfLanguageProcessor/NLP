@@ -1,0 +1,1 @@
+{"index": 361292, "D": "a medieval instrument consisting of a series of concentric rotating disks, used to compute the phases of the moon and its position in relation to that of the sun.", "S": [], "A": []}

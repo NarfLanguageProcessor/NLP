@@ -1,0 +1,1 @@
+{"index": 291424, "D": "an instrument for determining the difference in phase between two related motions, as those of two aircraft engines or two electric generators.", "S": [], "A": []}

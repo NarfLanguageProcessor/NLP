@@ -1,0 +1,1 @@
+{"index": 134495, "D": "any of various succulent plants of the genus Haworthia, native to South Africa, having densely overlapping, often warty leaves clustered in rosettes.", "S": [], "A": []}

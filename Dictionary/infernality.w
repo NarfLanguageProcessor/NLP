@@ -1,0 +1,1 @@
+{"index": 151931, "D": "hellish; fiendish; diabolical", "S": [], "A": []}

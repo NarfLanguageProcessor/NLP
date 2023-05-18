@@ -1,0 +1,1 @@
+{"index": 137805, "D": "any ciliate of the suborder Heterotricha, having the body covered uniformly with short cilia.", "S": [], "A": []}

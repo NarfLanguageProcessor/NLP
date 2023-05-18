@@ -1,0 +1,1 @@
+{"index": 271384, "D": "to amend or alter", "S": ["copyholder ", "copyreader ", "deskman ", "newspaperman ", "newspaperwoman ", "proofreader ", "rewriter "], "A": []}

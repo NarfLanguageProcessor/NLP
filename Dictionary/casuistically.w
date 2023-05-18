@@ -1,0 +1,1 @@
+{"index": 49157, "D": "pertaining to casuists  or casuistry. ", "S": [], "A": []}

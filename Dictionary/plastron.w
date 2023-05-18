@@ -1,0 +1,1 @@
+{"index": 239285, "D": "a piece of plate armor for the upper part of the torso in front.", "S": ["carapace ", "carcass ", "case ", "chassis ", "crust ", "frame ", "framework ", "hull ", "husk ", "integument ", "nut ", "pericarp ", "pod ", "scale ", "shard ", "shuck ", "skeleton ", "skin "], "A": ["core "]}

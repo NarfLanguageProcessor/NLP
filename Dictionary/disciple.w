@@ -1,0 +1,1 @@
+{"index": 87330, "D": "a person who is a pupil or an adherent of the doctrines of another; follower", "S": ["adherent ", "apostle ", "cohort ", "devotee ", "enthusiast ", "fanatic ", "learner ", "pupil ", "zealot "], "A": ["detractor ", "enemy ", "guru ", "leader ", "opponent "]}

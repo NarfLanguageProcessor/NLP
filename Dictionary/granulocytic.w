@@ -1,0 +1,1 @@
+{"index": 129020, "D": "a circulating white blood cell having prominent granules  in the cytoplasm and a nucleus of two or more lobes.", "S": [], "A": []}

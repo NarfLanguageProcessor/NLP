@@ -1,0 +1,1 @@
+{"index": 78372, "D": "a former copper or bronze coin of France issued from 1795 to 1801 and from 1814 to 1815, the 10th part of a franc, equal in value to 10 centimes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92839, "D": "causing great dread,  fear, or terror; terrible", "S": [], "A": []}

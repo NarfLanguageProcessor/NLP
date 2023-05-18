@@ -1,0 +1,1 @@
+{"index": 93694, "D": "doubtful; marked by or occasioning doubt", "S": ["doubtfulness ", "dubiety ", "indecision ", "mistrust ", "question ", "skepticism ", "suspicion ", "uncertainty "], "A": ["certainty ", "trust "]}

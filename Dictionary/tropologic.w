@@ -1,0 +1,1 @@
+{"index": 331252, "D": "the use of figurative language in speech or writing.", "S": [], "A": []}

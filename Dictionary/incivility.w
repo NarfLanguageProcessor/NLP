@@ -1,0 +1,1 @@
+{"index": 149924, "D": "the quality or condition of being uncivil; discourteous behavior or treatment.", "S": ["coarseness ", "disrespect ", "impoliteness ", "rudeness "], "A": ["politeness "]}

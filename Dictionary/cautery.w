@@ -1,0 +1,1 @@
+{"index": 50097, "D": "an escharotic substance, electric current, or hot iron used to destroy tissue.", "S": [], "A": []}

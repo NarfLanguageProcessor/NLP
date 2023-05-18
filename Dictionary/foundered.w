@@ -1,0 +1,1 @@
+{"index": 117928, "D": "a person who founds  or establishes something, as a company or institution.", "S": ["aground ", "deserted ", "marooned ", "shipwrecked ", "stranded ", "stuck "], "A": ["well provided for "]}

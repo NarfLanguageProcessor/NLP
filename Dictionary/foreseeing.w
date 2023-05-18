@@ -1,0 +1,1 @@
+{"index": 116935, "D": "to have prescience of; to know in advance; foreknow. ", "S": ["farsighted ", "perceptive ", "prescient ", "provident ", "sagacious "], "A": []}

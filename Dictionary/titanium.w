@@ -1,0 +1,1 @@
+{"index": 324630, "D": "a dark-gray or silvery, lustrous, very hard, light, corrosion-resistant, metallic element, occurring combined in various minerals", "S": [], "A": []}

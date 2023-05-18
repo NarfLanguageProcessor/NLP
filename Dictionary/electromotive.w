@@ -1,0 +1,1 @@
+{"index": 97156, "D": "pertaining to, producing, or tending to produce a flow of electricity.", "S": [], "A": []}

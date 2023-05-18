@@ -1,0 +1,1 @@
+{"index": 255286, "D": "of or relating to the human soul or mind; mental. ", "S": ["channel ", "form ", "instrument ", "mechanism ", "tool ", "vehicle "], "A": ["end "]}

@@ -1,0 +1,1 @@
+{"index": 306770, "D": "a genealogical register of a stud  or studs;  a book  giving the pedigree of animals, especially horses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159118, "D": "a white, crystalline, water-soluble solid, C6H7N3O, used in the treatment of tuberculosis.", "S": [], "A": []}

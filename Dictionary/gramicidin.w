@@ -1,0 +1,1 @@
+{"index": 128713, "D": "a crystalline, water-insoluble antibiotic obtained from tyrothrycin by extraction, used chiefly in treating local infections caused by Gram-positive  organisms.", "S": [], "A": []}

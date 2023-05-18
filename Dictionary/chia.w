@@ -1,0 +1,1 @@
+{"index": 54046, "D": "a plant, Salvia columbariae, of the mint family, native to the southwestern U.S. and Mexico, having mostly basal, oblong leaves and small blue flowers", "S": [], "A": []}

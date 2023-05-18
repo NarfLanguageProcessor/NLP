@@ -1,0 +1,1 @@
+{"index": 261254, "D": "to disentangle or unravel  the threads or fibers of (a woven or knitted fabric, rope, etc.).", "S": ["disentangle ", "free ", "loosen ", "unbraid ", "unravel ", "unsnarl ", "untangle ", "untwine ", "untwist ", "unweave ", "unwind "], "A": ["tangle ", "twist ", "wind "]}

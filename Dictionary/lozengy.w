@@ -1,0 +1,1 @@
+{"index": 175713, "D": "divided by diagonal lines to form a lattice", "S": [], "A": []}

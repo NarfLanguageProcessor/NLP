@@ -1,0 +1,1 @@
+{"index": 327865, "D": "to change in outward form or appearance; transform.", "S": ["evolution ", "rebirth "], "A": ["stagnation "]}

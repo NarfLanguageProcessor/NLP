@@ -1,0 +1,1 @@
+{"index": 168013, "D": "a section or expanse of rural scenery, usually extensive, that can be seen from a single viewpoint.", "S": ["cultivate ", "graze ", "grow ", "harvest ", "look after ", "operate ", "plow ", "reap ", "sow ", "tend "], "A": ["ignore ", "neglect "]}

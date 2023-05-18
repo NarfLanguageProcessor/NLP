@@ -1,0 +1,1 @@
+{"index": 85428, "D": "a person or an animal that digs.", "S": ["miner ", "mole ", "spade "], "A": []}

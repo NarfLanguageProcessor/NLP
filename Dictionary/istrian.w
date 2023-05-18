@@ -1,0 +1,1 @@
+{"index": 159415, "D": "of or relating to Istria, a peninsula in the N Adriatic Sea, or its inhabitants", "S": [], "A": []}

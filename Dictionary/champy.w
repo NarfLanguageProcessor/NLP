@@ -1,0 +1,1 @@
+{"index": 52359, "D": "to bite upon or grind, especially impatiently", "S": [], "A": []}

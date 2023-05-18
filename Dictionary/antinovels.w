@@ -1,0 +1,1 @@
+{"index": 15714, "D": "a literary work in which the author rejects the use of traditional elements of novel  structure, especially in regard to development of plot and character.", "S": [], "A": []}

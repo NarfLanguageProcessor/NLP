@@ -1,0 +1,1 @@
+{"index": 76601, "D": "to declare (something) to be bad, unfit, invalid, or illegal.", "S": ["curse ", "darn "], "A": ["admit ", "allow ", "approve ", "benefit ", "compliment ", "defend ", "exonerate ", "include ", "laud ", "permit ", "praise ", "protect ", "reward ", "welcome "]}

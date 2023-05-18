@@ -1,0 +1,1 @@
+{"index": 112259, "D": "exclusive reliance in religious matters upon faith, with consequent rejection of appeals to science or philosophy.", "S": [], "A": []}

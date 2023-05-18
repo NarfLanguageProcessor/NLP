@@ -1,0 +1,1 @@
+{"index": 219424, "D": "a fold in which one or both limbs have been inclined more than 90\u00b0 from their original orientation", "S": [], "A": []}

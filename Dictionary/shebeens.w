@@ -1,0 +1,1 @@
+{"index": 287744, "D": "a tavern or house where liquor is sold illegally.", "S": [], "A": []}

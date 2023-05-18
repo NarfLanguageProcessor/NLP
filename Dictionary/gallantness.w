@@ -1,0 +1,1 @@
+{"index": 121304, "D": "brave, spirited, noble-minded, or chivalrous", "S": ["civility ", "deference ", "generosity ", "kindness ", "reverence ", "sympathy "], "A": ["disdain ", "disregard ", "meanness ", "aloofness ", "coldness ", "coolness ", "crudeness ", "disrespect ", "fear ", "ignorance ", "neglect ", "roughness ", "rudeness ", "thoughtlessness ", "unfriendliness "]}

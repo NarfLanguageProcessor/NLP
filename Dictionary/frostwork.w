@@ -1,0 +1,1 @@
+{"index": 119440, "D": "the delicate tracery formed by frost,  especially on glass.", "S": ["cold weather ", "frost ", "touch of frost "], "A": []}

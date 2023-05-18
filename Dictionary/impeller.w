@@ -1,0 +1,1 @@
+{"index": 148431, "D": "a person or thing that impels. ", "S": [], "A": []}

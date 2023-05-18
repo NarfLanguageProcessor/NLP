@@ -1,0 +1,1 @@
+{"index": 105456, "D": "the theory of Euhemerus  that the mythologies of various gods arose out of the deification of dead heroes.", "S": [], "A": []}

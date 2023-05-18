@@ -1,0 +1,1 @@
+{"index": 115977, "D": "inflammation of hair follicles.", "S": [], "A": []}

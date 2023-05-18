@@ -1,0 +1,1 @@
+{"index": 177696, "D": "a game of Chinese origin, usually played by four people, in which tiles bearing various designs are drawn and discarded until one player has an entire hand of winning combinations", "S": [], "A": []}

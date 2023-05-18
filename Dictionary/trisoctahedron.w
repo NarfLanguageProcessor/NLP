@@ -1,0 +1,1 @@
+{"index": 330595, "D": "a solid bounded by 24 identical faces in groups of three, each group corresponding to one face of an octahedron.", "S": [], "A": []}

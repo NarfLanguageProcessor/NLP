@@ -1,0 +1,1 @@
+{"index": 269708, "D": "pertaining individually or severally to each of a number of persons, things, etc.; particular", "S": ["various "], "A": ["indefinite "]}

@@ -1,0 +1,1 @@
+{"index": 53392, "D": "a machine for printing amounts on checks,  as by perforations, so as to prevent alterations.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191712, "D": "plural of monas. ", "S": [], "A": []}

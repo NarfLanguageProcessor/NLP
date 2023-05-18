@@ -1,0 +1,1 @@
+{"index": 38424, "D": "to verify the alignment of the sights and bore  of (a firearm).", "S": [], "A": []}

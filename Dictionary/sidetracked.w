@@ -1,0 +1,1 @@
+{"index": 289855, "D": "to move from the main track  to a siding,  as a train.", "S": ["amused ", "averted ", "changed ", "entertained ", "preempted ", "reclassified ", "redirected ", "used "], "A": ["bored ", "depressed "]}

@@ -1,0 +1,1 @@
+{"index": 293805, "D": "of or befitting a slave", "S": ["cringing ", "docile ", "fawning ", "obsequious ", "servile ", "submissive "], "A": ["assertive ", "independent "]}

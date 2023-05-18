@@ -1,0 +1,1 @@
+{"index": 292007, "D": "of or relating to syntax", "S": ["linguistic ", "semantic "], "A": ["solecistic ", "ungrammatical "]}

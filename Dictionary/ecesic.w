@@ -1,0 +1,1 @@
+{"index": 95165, "D": "the establishment of an immigrant plant in a new environment.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 318968, "D": "stretched tight, as a cord, fiber, etc.; drawn taut; rigid. ", "S": ["strained "], "A": ["flexible ", "loose ", "soft "]}

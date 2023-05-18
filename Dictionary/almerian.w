@@ -1,0 +1,1 @@
+{"index": 9117, "D": "a seaport in S Spain, on the Mediterranean.", "S": [], "A": []}

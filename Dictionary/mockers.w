@@ -1,0 +1,1 @@
+{"index": 191010, "D": "Also (Austral)", "S": ["carper ", "caviler ", "detractor ", "disbeliever ", "doubter ", "egoist ", "egotist ", "flouter ", "misanthrope ", "misogamist ", "misogynist ", "mocker ", "pessimist ", "questioner ", "satirist ", "scoffer ", "skeptic ", "sneerer ", "unbeliever "], "A": ["believer "]}

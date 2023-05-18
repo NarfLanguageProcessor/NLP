@@ -1,0 +1,1 @@
+{"index": 197710, "D": "the necessaries of life", "S": ["precondition ", "prerequisite ", "requisite "], "A": []}

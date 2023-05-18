@@ -1,0 +1,1 @@
+{"index": 235919, "D": "a play in which a base runner, caught off base, is tagged out by an infielder on a quick throw, usually from the pitcher or catcher.", "S": ["hit-and-run play ", "pickoff play ", "pitch-out "], "A": []}

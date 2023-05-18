@@ -1,0 +1,1 @@
+{"index": 314637, "D": "a past participle of swell. ", "S": [], "A": []}

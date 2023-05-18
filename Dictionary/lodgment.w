@@ -1,0 +1,1 @@
+{"index": 174508, "D": "the act of lodging. ", "S": ["construction ", "digs ", "dwelling ", "habitation ", "home ", "house ", "quarter ", "residence ", "roof ", "shelter ", "sheltering "], "A": ["office "]}

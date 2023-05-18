@@ -1,0 +1,1 @@
+{"index": 108956, "D": "something that saves one's prestige or dignity", "S": [], "A": []}

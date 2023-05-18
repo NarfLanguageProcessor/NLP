@@ -1,0 +1,1 @@
+{"index": 179413, "D": "a habitual or characteristic manner,  mode, or way of doing something; distinctive quality or style, as in behavior or speech", "S": [], "A": []}

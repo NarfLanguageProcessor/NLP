@@ -1,0 +1,1 @@
+{"index": 257872, "D": "to provide with proper or necessary skills, knowledge, credentials, etc.; make competent", "S": ["certify ", "enable ", "entitle ", "meet ", "pass ", "ready ", "score ", "train "], "A": ["deny ", "fail ", "lose ", "disallow ", "dissatisfy ", "refuse ", "reject "]}

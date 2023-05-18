@@ -1,0 +1,1 @@
+{"index": 41214, "D": "stock footage from film or digital libraries used to establish locale, atmosphere, etc., or to provide generic thematic video, such as for a category of television news story.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26301, "D": "a brand of plastic bag, manufactured in various sizes, as for preserving food or holding trash.", "S": [], "A": []}

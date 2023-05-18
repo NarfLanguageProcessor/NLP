@@ -1,0 +1,1 @@
+{"index": 85147, "D": "of or relating to a 24-hour period, especially a regular daily cycle, as of the physiology or behavior of an organism.", "S": [], "A": []}

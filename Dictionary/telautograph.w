@@ -1,0 +1,1 @@
+{"index": 317977, "D": "a telegraphic device for reproducing handwriting, drawings, etc, the movements of an electromagnetically controlled pen at one end being transmitted along a line to a similar pen at the receiving end", "S": [], "A": []}

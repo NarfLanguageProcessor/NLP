@@ -1,0 +1,1 @@
+{"index": 359682, "D": "the act of defaming or speaking ill of someone or something", "S": ["aspersion ", "calumniation ", "calumny ", "defamation ", "denigration ", "detraction ", "lying ", "obloquy ", "scandal ", "slander ", "smear ", "traducement ", "vituperation "], "A": ["praise "]}

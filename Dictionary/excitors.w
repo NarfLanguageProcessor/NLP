@@ -1,0 +1,1 @@
+{"index": 106727, "D": "a nerve whose stimulation excites  greater action.", "S": [], "A": []}

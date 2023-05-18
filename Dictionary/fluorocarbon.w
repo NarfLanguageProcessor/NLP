@@ -1,0 +1,1 @@
+{"index": 115470, "D": "any of a class of compounds produced by substituting fluorine for hydrogen in a hydrocarbon, and characterized by great chemical stability", "S": [], "A": []}

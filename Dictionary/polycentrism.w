@@ -1,0 +1,1 @@
+{"index": 241692, "D": "the doctrine that a plurality of independent centers of leadership, power, or ideology may exist within a single political system, especially Communism.", "S": [], "A": []}

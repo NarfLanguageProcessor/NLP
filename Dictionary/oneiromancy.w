@@ -1,0 +1,1 @@
+{"index": 212739, "D": "divination through dreams.", "S": [], "A": []}

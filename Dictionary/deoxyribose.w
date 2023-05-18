@@ -1,0 +1,1 @@
+{"index": 81477, "D": "any of certain carbohydrates derived from ribose  by the replacement of a hydroxyl group with a hydrogen atom.", "S": [], "A": []}

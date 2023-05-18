@@ -1,0 +1,1 @@
+{"index": 171984, "D": "to bind with or as if with a ligature;  tie up (a bleeding artery or the like).", "S": [], "A": []}

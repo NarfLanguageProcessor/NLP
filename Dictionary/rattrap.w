@@ -1,0 +1,1 @@
+{"index": 261193, "D": "a device for catching rats.", "S": ["cottage ", "hut ", "lean-to ", "shack ", "shanty "], "A": []}

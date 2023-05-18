@@ -1,0 +1,1 @@
+{"index": 282184, "D": "to sculpture; carve or model.", "S": ["sculpt "], "A": []}

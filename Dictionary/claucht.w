@@ -1,0 +1,1 @@
+{"index": 59475, "D": "a simple past tense of cleek. ", "S": [], "A": []}

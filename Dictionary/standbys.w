@@ -1,0 +1,1 @@
+{"index": 302675, "D": "a staunch supporter or adherent; one who can be relied upon.", "S": [], "A": []}

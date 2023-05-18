@@ -1,0 +1,1 @@
+{"index": 150017, "D": "not cognizant;  without knowledge or awareness; unaware (usually followed by of).", "S": ["ignorant ", "oblivious ", "uninformed ", "unknowing "], "A": ["cognizant "]}

@@ -1,0 +1,1 @@
+{"index": 238479, "D": "a seed vessel that opens transversely, the top part acting as a lid, as in the purslane.", "S": [], "A": []}

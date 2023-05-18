@@ -1,0 +1,1 @@
+{"index": 365962, "D": "accompanied or characterized by wind", "S": [], "A": []}

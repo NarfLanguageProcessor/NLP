@@ -1,0 +1,1 @@
+{"index": 10419, "D": "any of a group of compounds containing the CN2H3 group, some of which have marked pharmacological action.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35267, "D": "any of various plants containing a bitter principle,  as those of the genus Picris.", "S": [], "A": []}

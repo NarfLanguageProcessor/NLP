@@ -1,0 +1,1 @@
+{"index": 273644, "D": "a vestment of linen or lawn, resembling a surplice, worn especially by bishops and abbots.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 353984, "D": "something risked or staked on an uncertain event; bet", "S": [], "A": []}

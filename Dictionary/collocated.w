@@ -1,0 +1,1 @@
+{"index": 63068, "D": "to set or place together, especially side by side.", "S": ["accumulate ", "assemble ", "collect ", "collimate ", "gather ", "parallel "], "A": ["disperse ", "distribute ", "divide ", "scatter ", "separate "]}

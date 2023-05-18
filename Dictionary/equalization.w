@@ -1,0 +1,1 @@
+{"index": 103168, "D": "to make equal", "S": ["balance ", "ballast ", "compensation ", "counteraction ", "equilibrium ", "offset ", "stabilization "], "A": ["imbalance "]}

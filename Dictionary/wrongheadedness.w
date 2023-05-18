@@ -1,0 +1,1 @@
+{"index": 368104, "D": "wrong  in judgment or opinion; misguided and stubborn; perverse.", "S": [], "A": []}

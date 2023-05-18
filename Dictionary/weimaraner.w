@@ -1,0 +1,1 @@
+{"index": 363915, "D": "one of a German breed of hunting dogs having a smooth silver-gray to dark-gray coat, a cropped tail, and blue-gray or amber eyes.", "S": [], "A": []}

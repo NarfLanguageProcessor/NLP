@@ -1,0 +1,1 @@
+{"index": 19242, "D": "a first-magnitude star in the constellation Bo\u00f6tes.", "S": [], "A": []}

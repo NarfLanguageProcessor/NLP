@@ -1,0 +1,1 @@
+{"index": 302578, "D": "strength of physical constitution; power to endure disease, fatigue, privation, etc.", "S": ["endurance ", "energy ", "fortitude ", "grit ", "resilience ", "staying power ", "vitality "], "A": ["cowardice ", "lethargy ", "weakness ", "fear ", "incompetence ", "powerlessness "]}

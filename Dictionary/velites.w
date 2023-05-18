@@ -1,0 +1,1 @@
+{"index": 357838, "D": "light-armed troops in ancient Rome, drawn from the poorer classes", "S": [], "A": []}

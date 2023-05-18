@@ -1,0 +1,1 @@
+{"index": 343306, "D": "odd or unnatural in shape, appearance, or character; fantastically ugly or absurd; bizarre.", "S": [], "A": []}

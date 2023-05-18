@@ -1,0 +1,1 @@
+{"index": 47735, "D": "an opening that connects the esophagus and the upper part of the stomach.", "S": [], "A": []}

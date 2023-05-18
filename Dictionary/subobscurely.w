@@ -1,0 +1,1 @@
+{"index": 308649, "D": "in a way that is not expressed clearly or plainly; ambiguously or vaguely", "S": [], "A": []}

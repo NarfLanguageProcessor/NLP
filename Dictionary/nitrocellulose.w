@@ -1,0 +1,1 @@
+{"index": 200402, "D": "any of a group of nitric esters of cellulose, used in the manufacture of lacquers and explosives", "S": [], "A": []}

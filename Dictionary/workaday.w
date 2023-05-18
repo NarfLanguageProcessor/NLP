@@ -1,0 +1,1 @@
+{"index": 367469, "D": "of or befitting working days; characteristic of a workday and its occupations.", "S": ["diligent ", "disciplined ", "earnest ", "expeditious ", "matter-of-fact ", "methodical ", "orderly ", "practical ", "purposeful ", "serious ", "thorough "], "A": ["disorganized ", "flippant ", "thoughtless ", "trivial ", "unimportant "]}

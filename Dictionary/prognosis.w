@@ -1,0 +1,1 @@
+{"index": 251882, "D": "a forecasting of the probable course and outcome of a disease, especially of the chances of recovery.", "S": ["diagnosis ", "prediction ", "prognostication ", "projection "], "A": ["calculation ", "measurement "]}

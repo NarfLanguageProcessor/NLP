@@ -1,0 +1,1 @@
+{"index": 146562, "D": "the molecular arrangement of amino acids unique to the antigen-binding site of a particular antibody.", "S": [], "A": []}

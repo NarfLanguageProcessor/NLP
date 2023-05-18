@@ -1,0 +1,1 @@
+{"index": 361625, "D": "of, relating to, or characteristic of a vulture.", "S": ["greedy ", "marauding ", "rapacious ", "voracious "], "A": []}

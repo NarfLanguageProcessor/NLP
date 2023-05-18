@@ -1,0 +1,1 @@
+{"index": 27594, "D": "a chicken of any of several varieties or breeds characterized by very small size.", "S": ["hen ", "poultry "], "A": []}

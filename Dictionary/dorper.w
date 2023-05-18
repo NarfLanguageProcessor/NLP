@@ -1,0 +1,1 @@
+{"index": 91729, "D": "one of a breed of sheep having a black face and white body, developed in South Africa from the Dorset Horn and black-headed Persian breeds and raised for meat.", "S": [], "A": []}

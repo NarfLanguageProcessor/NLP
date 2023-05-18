@@ -1,0 +1,1 @@
+{"index": 199742, "D": "tending to assume at or just before nightfall positions unlike those maintained during the day, as the leaves or flowers of certain plants.", "S": [], "A": []}

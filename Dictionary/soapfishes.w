@@ -1,0 +1,1 @@
+{"index": 295992, "D": "any of several serranid fishes  of the genus Rypticus, producing a body mucus that gives the skin a soapy quality, as R. saponaceus, inhabiting shallow waters of the Atlantic Ocean.", "S": [], "A": []}

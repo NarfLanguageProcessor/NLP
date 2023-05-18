@@ -1,0 +1,1 @@
+{"index": 279891, "D": "delivered over a wide area and at random; generalized and indiscriminate", "S": [], "A": []}

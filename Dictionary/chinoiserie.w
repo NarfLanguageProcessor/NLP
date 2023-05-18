@@ -1,0 +1,1 @@
+{"index": 54636, "D": "a style of ornamentation current chiefly in the 18th century in Europe, characterized by intricate patterns and an extensive use of motifs identified as Chinese.", "S": [], "A": []}

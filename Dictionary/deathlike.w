@@ -1,0 +1,1 @@
+{"index": 77656, "D": "resembling death.", "S": ["cadaverous ", "corpselike ", "deadly ", "gaunt ", "ghastly ", "ghostlike ", "ghostly "], "A": []}

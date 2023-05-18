@@ -1,0 +1,1 @@
+{"index": 25105, "D": "in or of an axis.", "S": [], "A": []}

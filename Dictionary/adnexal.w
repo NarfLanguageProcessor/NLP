@@ -1,0 +1,1 @@
+{"index": 4253, "D": "parts added, attached, or adjunct to another or others, as the eyelids and tear glands in relation to the eyeball.", "S": [], "A": []}

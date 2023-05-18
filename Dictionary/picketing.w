@@ -1,0 +1,1 @@
+{"index": 235893, "D": "standing or marching, usually while holding a placard or sign, in front of a workplace, embassy, etc., as during a strike or demonstration", "S": ["advocacy ", "involvement ", "militancy "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155449, "D": "situated or existing in the interior of something; interior.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173947, "D": "full or suggestive of life  or vital energy; active, vigorous, or brisk", "S": ["action ", "activity ", "briskness ", "energy ", "spiritedness ", "vigor ", "vitality "], "A": ["idleness ", "inactivity ", "inertia ", "laziness ", "lethargy "]}

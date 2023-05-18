@@ -1,0 +1,1 @@
+{"index": 342812, "D": "offensive to good taste, especially as being excessive; overdone or gross", "S": [], "A": []}

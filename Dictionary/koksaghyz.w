@@ -1,0 +1,1 @@
+{"index": 165900, "D": "a central Asian dandelion, Taraxacum kok-saghyz, of the composite family, having fleshy roots that yield a rubberlike latex.", "S": [], "A": []}

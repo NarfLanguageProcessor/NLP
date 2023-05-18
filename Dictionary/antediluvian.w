@@ -1,0 +1,1 @@
+{"index": 14116, "D": "of or belonging to the period before the Flood. Genesis 7, 8.", "S": ["ancient ", "antique ", "old ", "primitive "], "A": ["current ", "fresh ", "modern ", "new ", "recent ", "up-to-date ", "young "]}

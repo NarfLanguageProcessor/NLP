@@ -1,0 +1,1 @@
+{"index": 28435, "D": "a large, yellow, juicy variety of pear.", "S": [], "A": []}

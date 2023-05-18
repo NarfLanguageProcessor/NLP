@@ -1,0 +1,1 @@
+{"index": 102319, "D": "(in the embryo of a plant) that part of the stem above the cotyledons.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57452, "D": "a woman's short fur-trimmed jacket, popular in the 17th and 18th centuries", "S": [], "A": []}

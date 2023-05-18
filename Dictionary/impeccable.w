@@ -1,0 +1,1 @@
+{"index": 148389, "D": "faultless; flawless; irreproachable", "S": ["exquisite ", "immaculate ", "precise ", "unblemished "], "A": ["flawed ", "imperfect "]}

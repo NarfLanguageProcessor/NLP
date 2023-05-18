@@ -1,0 +1,1 @@
+{"index": 299432, "D": "a mineral, calcium titanium silicate, CaTiSiO5, occurring as an accessory mineral in a variety of crystalline rocks, usually in small wedge-shaped crystals.", "S": [], "A": []}

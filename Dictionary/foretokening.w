@@ -1,0 +1,1 @@
+{"index": 117107, "D": "a sign of a future event; omen; forewarning.", "S": ["augur ", "bespeak ", "foretell ", "predict ", "presage "], "A": []}

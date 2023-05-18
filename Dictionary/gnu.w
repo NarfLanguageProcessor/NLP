@@ -1,0 +1,1 @@
+{"index": 127159, "D": "either of two stocky, oxlike antelopes of the genus Connochaetes, the silver-gray, white-bearded C. taurinus of the eastern African plain and the black, white-tailed C. gnou of central South Africa", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 220287, "D": "to acquire, have, or exercise a monopoly  of.", "S": [], "A": []}

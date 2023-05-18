@@ -1,0 +1,1 @@
+{"index": 207621, "D": "in a way that has to do with the meaning, subject matter, or essential nature of something", "S": [], "A": []}

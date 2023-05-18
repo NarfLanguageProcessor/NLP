@@ -1,0 +1,1 @@
+{"index": 348904, "D": "to determine, indicate, or express the quantity  of.", "S": [], "A": []}

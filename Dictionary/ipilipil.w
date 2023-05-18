@@ -1,0 +1,1 @@
+{"index": 157832, "D": "a fast-growing tropical tree, Leucaena leucocephala, of the legume family, that is a source of fertilizer, animal feed, and timber.", "S": [], "A": []}

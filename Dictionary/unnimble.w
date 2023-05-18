@@ -1,0 +1,1 @@
+{"index": 346900, "D": "quick and light in movement; moving with ease; agile; active; rapid", "S": [], "A": []}

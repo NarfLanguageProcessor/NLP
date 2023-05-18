@@ -1,0 +1,1 @@
+{"index": 59133, "D": "climbing or moving with effort or difficulty, typically using both hands and feet.", "S": ["ascendance ", "ascension ", "climb "], "A": ["descent ", "landing ", "lowering "]}

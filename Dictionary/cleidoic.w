@@ -1,0 +1,1 @@
+{"index": 59726, "D": "isolated from the environment, as certain eggs enclosed within a shell or membrane.", "S": [], "A": []}

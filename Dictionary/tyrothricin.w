@@ -1,0 +1,1 @@
+{"index": 324558, "D": "an antibiotic, obtained from the soil bacterium Bacillus brevis, consisting of tyrocidine and gramicidin and active against Gram-positive bacteria such as staphylococci and streptococci", "S": [], "A": []}

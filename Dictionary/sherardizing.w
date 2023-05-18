@@ -1,0 +1,1 @@
+{"index": 288075, "D": "to coat (steel) with a thin cladding of zinc by heating in a mixture of sand and powdered zinc.", "S": [], "A": []}

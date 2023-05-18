@@ -1,0 +1,1 @@
+{"index": 252696, "D": "aerobic or anaerobic bacteria  of the genus Propionibacterium, found in dairy products, especially hard cheeses where certain species are associated with the ripening process.", "S": [], "A": []}

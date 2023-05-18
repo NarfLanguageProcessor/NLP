@@ -1,0 +1,1 @@
+{"index": 359986, "D": "(in prescriptions) a solution of a medicinal substance in wine.", "S": [], "A": []}

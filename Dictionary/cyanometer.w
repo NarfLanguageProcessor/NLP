@@ -1,0 +1,1 @@
+{"index": 56872, "D": "an instrument for measuring the amount and intensity of blue in light, as of the sky.", "S": [], "A": []}

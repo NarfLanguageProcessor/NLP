@@ -1,0 +1,1 @@
+{"index": 250, "D": "to renounce or relinquish a throne, right, power, claim, responsibility, or the like, especially in a formal manner", "S": ["forgo ", "relinquish ", "renounce ", "step down ", "vacate "], "A": ["keep ", "come ", "continue ", "defend ", "do ", "fight ", "pursue ", "remain ", "stay ", "win "]}

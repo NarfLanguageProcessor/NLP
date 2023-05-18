@@ -1,0 +1,1 @@
+{"index": 125479, "D": "a large beam, as of steel, reinforced concrete, or timber, for supporting masonry, joists, purlins, etc.", "S": ["joist ", "truss "], "A": []}

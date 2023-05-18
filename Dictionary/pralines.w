@@ -1,0 +1,1 @@
+{"index": 245282, "D": "a French confection consisting of a caramel-covered almond or, sometimes, a hazelnut.", "S": [], "A": []}

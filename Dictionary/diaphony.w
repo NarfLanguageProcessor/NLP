@@ -1,0 +1,1 @@
+{"index": 84434, "D": "a style of two-part polyphonic singing; organum or a freer form resembling it", "S": [], "A": []}

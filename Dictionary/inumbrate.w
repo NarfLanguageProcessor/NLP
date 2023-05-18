@@ -1,0 +1,1 @@
+{"index": 156947, "D": [], "S": ["blacken ", "conceal ", "darken ", "dim ", "mute ", "obscure ", "shield "], "A": ["brighten ", "illuminate ", "lay bare ", "lighten ", "open ", "reveal ", "uncover ", "whiten ", "clear ", "explain ", "lay out "]}

@@ -1,0 +1,1 @@
+{"index": 237283, "D": "(of a fabric, especially corduroy) having very thin wales. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201586, "D": "to apply the principles of automation  to (a mechanical process, industry, office, etc.).", "S": [], "A": []}

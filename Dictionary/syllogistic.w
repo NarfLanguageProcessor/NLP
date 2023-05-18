@@ -1,0 +1,1 @@
+{"index": 290528, "D": "of or relating to a syllogism. ", "S": ["philosophy ", "rationale ", "sanity ", "sense "], "A": ["unreasonableness "]}

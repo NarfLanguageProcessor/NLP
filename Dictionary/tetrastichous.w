@@ -1,0 +1,1 @@
+{"index": 320219, "D": "arranged in a spike of four vertical rows, as flowers.", "S": [], "A": []}

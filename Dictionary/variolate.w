@@ -1,0 +1,1 @@
+{"index": 357263, "D": "resembling smallpox, as a lesion.", "S": ["immunize ", "inject ", "inoculate ", "protect ", "treat "], "A": ["harm ", "hurt ", "injure "]}

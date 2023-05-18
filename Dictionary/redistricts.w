@@ -1,0 +1,1 @@
+{"index": 264307, "D": "to divide anew into districts,  as for administrative or electoral purposes.", "S": ["allot ", "distribute ", "divide ", "reallocate "], "A": ["collect ", "gather ", "hold ", "keep ", "maintain ", "retain "]}

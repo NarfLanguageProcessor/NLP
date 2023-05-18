@@ -1,0 +1,1 @@
+{"index": 239511, "D": "a person who frequently or habitually utters platitudes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322957, "D": "a hole  into which a thumb  can be inserted, as to provide a grip.", "S": [], "A": []}

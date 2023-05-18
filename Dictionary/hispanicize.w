@@ -1,0 +1,1 @@
+{"index": 141680, "D": "to make Spanish or Latin American, as in character, custom, or style.", "S": [], "A": []}

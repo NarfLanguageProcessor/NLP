@@ -1,0 +1,1 @@
+{"index": 269442, "D": "to treat with resin,  as by impregnation.", "S": [], "A": []}

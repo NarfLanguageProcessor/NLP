@@ -1,0 +1,1 @@
+{"index": 199339, "D": "the part of the atmosphere whose constituents are, for the most part, electrically neutral, extending from the earth's surface to the base of the ionosphere.", "S": [], "A": []}

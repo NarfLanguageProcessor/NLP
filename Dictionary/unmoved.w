@@ -1,0 +1,1 @@
+{"index": 346644, "D": "having no emotional response; feeling no pity, sadness, passion, enthusiasm, etc.", "S": ["immobile ", "immovable ", "motionless ", "quiescent ", "rooted ", "stable ", "statuelike ", "staunch ", "unwavering "], "A": ["affected ", "caring ", "moved ", "touched "]}

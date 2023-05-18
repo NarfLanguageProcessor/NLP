@@ -1,0 +1,1 @@
+{"index": 277764, "D": "any of several birds of the family Pteroclididae inhabiting sandy areas of the Old World, resembling both pigeons and shorebirds and having precocial young.", "S": [], "A": []}

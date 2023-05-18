@@ -1,0 +1,1 @@
+{"index": 118662, "D": "a fruit having a stone to which the flesh does not cling, as certain peaches and plums.", "S": [], "A": []}

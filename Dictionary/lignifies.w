@@ -1,0 +1,1 @@
+{"index": 172104, "D": "to convert into wood; cause to become woody.", "S": [], "A": []}

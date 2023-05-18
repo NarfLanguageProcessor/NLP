@@ -1,0 +1,1 @@
+{"index": 86286, "D": "of, relating to, or honoring Dionysus  or Bacchus.", "S": [], "A": []}

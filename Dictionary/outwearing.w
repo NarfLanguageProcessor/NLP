@@ -1,0 +1,1 @@
+{"index": 217893, "D": "to wear  or last longer than; outlast", "S": ["outlive ", "outstay ", "remain ", "survive "], "A": []}

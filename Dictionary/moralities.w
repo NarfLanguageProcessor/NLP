@@ -1,0 +1,1 @@
+{"index": 193287, "D": "conformity to the rules of right conduct; moral  or virtuous conduct.", "S": ["decency ", "integrity ", "justice ", "morals ", "philosophy ", "principle ", "probity ", "purity ", "rectitude ", "righteousness ", "virtue "], "A": ["dishonesty ", "dishonor ", "immorality ", "indecency ", "unfairness "]}

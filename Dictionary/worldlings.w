@@ -1,0 +1,1 @@
+{"index": 367579, "D": "a person devoted to the interests and pleasures of this world;  a worldly person.", "S": [], "A": []}

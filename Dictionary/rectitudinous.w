@@ -1,0 +1,1 @@
+{"index": 263709, "D": "characterized by or given to rectitude.", "S": [], "A": []}

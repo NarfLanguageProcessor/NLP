@@ -1,0 +1,1 @@
+{"index": 75287, "D": "one of the political subdivisions of each of the three tribes of ancient Rome.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 182647, "D": "a white, crystalline, slightly water-soluble solid, C3N3(NH2)3, used chiefly in organic synthesis and in the manufacture of resins, especially melamine resins.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 290675, "D": "fine or decorative work  executed in silver. ", "S": [], "A": []}

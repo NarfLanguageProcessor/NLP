@@ -1,0 +1,1 @@
+{"index": 161434, "D": "a wholesale merchant, especially one selling to retailers.", "S": ["dealer ", "trader "], "A": []}

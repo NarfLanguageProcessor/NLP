@@ -1,0 +1,1 @@
+{"index": 263353, "D": "to inspect, observe, or survey (the enemy, the enemy's strength or position, a region, etc.) in order to gain information for military purposes.", "S": ["detective ", "recruiter "], "A": ["target "]}

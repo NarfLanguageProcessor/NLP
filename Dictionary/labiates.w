@@ -1,0 +1,1 @@
+{"index": 166650, "D": "having parts that are shaped or arranged like lips; lipped.", "S": [], "A": []}

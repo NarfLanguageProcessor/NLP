@@ -1,0 +1,1 @@
+{"index": 77594, "D": "the official in charge of undergraduate students at an English university.", "S": ["administrator ", "legislator ", "principal ", "professor ", "senior "], "A": ["pupil ", "student "]}

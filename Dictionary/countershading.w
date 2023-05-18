@@ -1,0 +1,1 @@
+{"index": 71082, "D": "the development of dark colors on parts usually exposed to the sun and of light colors on parts usually shaded, especially as serving for protection or concealment.", "S": [], "A": []}

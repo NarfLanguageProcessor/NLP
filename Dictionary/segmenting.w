@@ -1,0 +1,1 @@
+{"index": 283216, "D": "one of the parts into which something naturally separates or is divided; a division, portion, or section", "S": ["separate "], "A": ["attach ", "collect ", "combine ", "connect ", "couple ", "gather ", "join ", "link ", "unite "]}

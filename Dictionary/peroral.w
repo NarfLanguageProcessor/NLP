@@ -1,0 +1,1 @@
+{"index": 231719, "D": "administered or performed through the mouth, as surgery or administration of a drug.", "S": [], "A": []}

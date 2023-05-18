@@ -1,0 +1,1 @@
+{"index": 141100, "D": "a salt of hypophosphorous acid, as sodium hypophosphite, NaH2PO2.", "S": [], "A": []}

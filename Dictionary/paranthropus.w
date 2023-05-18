@@ -1,0 +1,1 @@
+{"index": 225908, "D": "an extinct genus of bipedal hominins with massive chewing muscles, large teeth, and thick dental enamel", "S": [], "A": []}

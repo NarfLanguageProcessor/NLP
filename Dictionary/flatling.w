@@ -1,0 +1,1 @@
+{"index": 114093, "D": "in a flat  position; with the flat  side, as of a sword.", "S": [], "A": []}

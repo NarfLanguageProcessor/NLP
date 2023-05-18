@@ -1,0 +1,1 @@
+{"index": 45039, "D": "growing warm; increasing in heat.", "S": [], "A": []}

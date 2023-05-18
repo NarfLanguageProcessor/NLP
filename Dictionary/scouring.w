@@ -1,0 +1,1 @@
+{"index": 281441, "D": "to remove dirt, grease, etc., from or to cleanse or polish by hard rubbing, as with a rough or abrasive material", "S": ["purification ", "sanitation ", "sterilization ", "washing "], "A": []}

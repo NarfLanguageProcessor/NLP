@@ -1,0 +1,1 @@
+{"index": 94854, "D": "the rising of the earth  above the horizon of the moon or other celestial body, viewed from that body's surface or from a spacecraft orbiting it.", "S": [], "A": []}

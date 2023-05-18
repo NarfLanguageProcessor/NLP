@@ -1,0 +1,1 @@
+{"index": 345023, "D": "different in ancestry, but having the same form or appearance.", "S": [], "A": []}

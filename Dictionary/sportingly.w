@@ -1,0 +1,1 @@
+{"index": 301049, "D": "engaging in, disposed to, or interested in open-air or athletic sports", "S": [], "A": []}

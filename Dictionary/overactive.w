@@ -1,0 +1,1 @@
+{"index": 218142, "D": "exceptionally or excessively active;  too active. ", "S": ["excitable ", "high-strung "], "A": []}

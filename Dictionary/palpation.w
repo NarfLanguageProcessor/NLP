@@ -1,0 +1,1 @@
+{"index": 224148, "D": "the act of examining a person or thing by touch, especially a patient in order to make a diagnosis", "S": ["ambience ", "atmosphere ", "aura ", "feeling ", "impression ", "mood ", "quality ", "sense ", "touch "], "A": []}

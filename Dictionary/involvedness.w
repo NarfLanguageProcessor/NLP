@@ -1,0 +1,1 @@
+{"index": 157345, "D": "very intricate or complex", "S": [], "A": []}

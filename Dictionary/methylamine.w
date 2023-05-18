@@ -1,0 +1,1 @@
+{"index": 185223, "D": "any of three derivatives of ammonia in which one or all of the hydrogen atoms are replaced by methyl groups, especially a gas, CH5N, with an ammonialike odor, the simplest alkyl derivative of ammonia and, like the latter, forming a series of salts.", "S": [], "A": []}

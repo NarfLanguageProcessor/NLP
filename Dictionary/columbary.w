@@ -1,0 +1,1 @@
+{"index": 63502, "D": "a dovecote or pigeon house.", "S": ["birdhouse ", "volary "], "A": []}

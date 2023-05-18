@@ -1,0 +1,1 @@
+{"index": 161307, "D": "a person who professes their patriotism loudly and excessively, favoring vigilant preparedness for war and an aggressive foreign policy; bellicose chauvinist.", "S": ["belligerent ", "chauvinist ", "jingoist ", "militarist ", "warmonger "], "A": ["Dove "]}

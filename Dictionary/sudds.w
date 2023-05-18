@@ -1,0 +1,1 @@
+{"index": 310031, "D": "(in the White Nile) floating vegetable matter that often obstructs navigation.", "S": [], "A": []}

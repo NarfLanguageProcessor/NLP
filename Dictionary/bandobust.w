@@ -1,0 +1,1 @@
+{"index": 27357, "D": "(in India and Pakistan) an arrangement", "S": [], "A": []}

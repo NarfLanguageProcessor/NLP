@@ -1,0 +1,1 @@
+{"index": 331473, "D": "the art or business of conveying articles or goods on trucks. ", "S": ["freighting ", "transporting "], "A": []}

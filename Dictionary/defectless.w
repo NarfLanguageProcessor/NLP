@@ -1,0 +1,1 @@
+{"index": 79160, "D": "a shortcoming, fault, or imperfection", "S": ["excellent ", "foolproof ", "ideal ", "impeccable ", "pure ", "splendid ", "superb "], "A": ["bad ", "corrupt ", "flawed ", "imperfect ", "inferior ", "poor ", "second-rate ", "wrong ", "incomplete ", "inept ", "inexpert ", "unfinished ", "unknowledgeable ", "unskilled ", "unsophisticated "]}

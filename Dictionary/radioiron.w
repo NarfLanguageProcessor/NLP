@@ -1,0 +1,1 @@
+{"index": 259685, "D": "the radioactive isotope of iron,  with atomic weight 59 and a half-life of 46 days", "S": [], "A": []}

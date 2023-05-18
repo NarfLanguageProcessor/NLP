@@ -1,0 +1,1 @@
+{"index": 358276, "D": "having or showing a disposition to undertake risky or dangerous activities; daring", "S": ["brazenly ", "courageously ", "daringly ", "eagerly ", "fearlessly "], "A": ["cautiously ", "cowardly ", "fearfully "]}

@@ -1,0 +1,1 @@
+{"index": 155280, "D": "to become connected by marriage, as two families, tribes, castes, or religions.", "S": [], "A": []}

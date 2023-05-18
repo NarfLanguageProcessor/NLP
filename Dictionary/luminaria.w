@@ -1,0 +1,1 @@
+{"index": 176086, "D": "(especially in Mexico and the southwestern U.S.) a Christmas lantern consisting of a lighted candle set in sand inside a paper bag.", "S": [], "A": []}

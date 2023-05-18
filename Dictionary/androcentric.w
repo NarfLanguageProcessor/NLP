@@ -1,0 +1,1 @@
+{"index": 12367, "D": "centered on, emphasizing, or dominated by males or masculine interests", "S": [], "A": []}

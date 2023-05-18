@@ -1,0 +1,1 @@
+{"index": 287058, "D": "the comparative darkness caused by the interception or screening of rays of light from an object, place, or area.", "S": [], "A": []}

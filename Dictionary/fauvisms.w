@@ -1,0 +1,1 @@
+{"index": 110463, "D": "any of a group of French artists of the early 20th century whose works are characterized chiefly by the use of vivid colors in immediate juxtaposition and contours usually in marked contrast to the color of the area defined.", "S": [], "A": []}

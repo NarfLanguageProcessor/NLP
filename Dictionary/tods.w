@@ -1,0 +1,1 @@
+{"index": 325027, "D": "an English unit of weight, chiefly for wool, commonly equal to 28 pounds (12.7 kilograms) but varying locally.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 285058, "D": "the visual and especially tactile quality of a surface", "S": [], "A": []}

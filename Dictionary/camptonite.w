@@ -1,0 +1,1 @@
+{"index": 45941, "D": "a lamprophyric rock occurring in dikes and composed of labradorite, pyroxene, sodic hornblende and olivine.", "S": [], "A": []}

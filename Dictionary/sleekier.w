@@ -1,0 +1,1 @@
+{"index": 293878, "D": "sleek;  smooth.", "S": ["glossy ", "greasy ", "icy ", "oily ", "oleaginous ", "shiny ", "sleek ", "slippery ", "slippery as an eel ", "slithery ", "soapy "], "A": []}

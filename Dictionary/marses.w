@@ -1,0 +1,1 @@
+{"index": 180385, "D": "(used in representation of Southern Black speech, especially in the era of slavery) master.", "S": ["earth "], "A": []}

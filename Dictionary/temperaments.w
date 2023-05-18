@@ -1,0 +1,1 @@
+{"index": 318515, "D": "the combination of mental, physical, and emotional traits of a person; natural predisposition.", "S": ["attitude ", "complexion ", "ego ", "humor ", "idiosyncrasy ", "inclination ", "individuality ", "intellect ", "mentality ", "mettle ", "mood ", "nature ", "outlook ", "quality ", "spirit ", "tendency "], "A": ["inability "]}

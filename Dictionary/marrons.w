@@ -1,0 +1,1 @@
+{"index": 180359, "D": "a large European chestnut, especially as used in cooking, and often candied or preserved in syrup.", "S": [], "A": []}

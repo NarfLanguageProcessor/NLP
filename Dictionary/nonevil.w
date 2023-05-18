@@ -1,0 +1,1 @@
+{"index": 203704, "D": "morally wrong or bad; immoral; wicked", "S": [], "A": []}

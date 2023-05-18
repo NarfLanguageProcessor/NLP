@@ -1,0 +1,1 @@
+{"index": 311352, "D": "a consecrated portable stone slab for use on an unconsecrated altar", "S": [], "A": []}

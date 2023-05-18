@@ -1,0 +1,1 @@
+{"index": 169776, "D": "additional territory considered by a nation, especially Nazi Germany, to be necessary for national survival or for the expansion of trade.", "S": [], "A": []}

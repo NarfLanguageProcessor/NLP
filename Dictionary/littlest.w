@@ -1,0 +1,1 @@
+{"index": 173883, "D": "not standard the superlative of little", "S": ["smallest "], "A": []}

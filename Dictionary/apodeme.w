@@ -1,0 +1,1 @@
+{"index": 17172, "D": "a ridgelike ingrowth of the exoskeleton of an arthropod that supports the internal organs and provides the attachment points for the muscles.", "S": [], "A": []}

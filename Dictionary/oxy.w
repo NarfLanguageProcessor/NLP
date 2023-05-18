@@ -1,0 +1,1 @@
+{"index": 222196, "D": "a combining form meaning \u201csharp,\u201d \u201cacute,\u201d \u201ckeen,\u201d \u201cpointed,\u201d \u201cacid,\u201d used in the formation of compound words", "S": [], "A": []}

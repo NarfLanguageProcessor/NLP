@@ -1,0 +1,1 @@
+{"index": 177568, "D": "a change in the electrical resistance  of a material upon exposure to a magnetic field.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20110, "D": "stirred up to strong response", "S": ["afire "], "A": ["dark ", "dim ", "dull ", "unexcited "]}

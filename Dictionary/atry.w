@@ -1,0 +1,1 @@
+{"index": 22845, "D": "lying to under a trysail in heavy weather; trying. ", "S": [], "A": []}

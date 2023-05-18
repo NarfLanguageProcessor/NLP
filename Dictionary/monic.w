@@ -1,0 +1,1 @@
+{"index": 191961, "D": "(of a polynomial) having the coefficient of the term of highest degree equal to 1.", "S": [], "A": []}

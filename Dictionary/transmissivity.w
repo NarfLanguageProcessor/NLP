@@ -1,0 +1,1 @@
+{"index": 328108, "D": "a measure of the ability of a material or medium to transmit electromagnetic energy, as light.", "S": [], "A": []}

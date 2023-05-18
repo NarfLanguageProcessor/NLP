@@ -1,0 +1,1 @@
+{"index": 192219, "D": "government by only one person; autocracy.", "S": ["autarchy ", "autocracy ", "despotism ", "dictatorship ", "tyranny "], "A": ["democracy "]}

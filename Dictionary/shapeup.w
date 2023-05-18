@@ -1,0 +1,1 @@
+{"index": 287459, "D": "an act or instance of shaping up.", "S": ["adapt ", "adjust ", "fit ", "integrate ", "modify "], "A": ["disarrange ", "disorder ", "unfit ", "decline ", "deny ", "differ ", "disagree ", "fight ", "mismatch ", "oppose ", "refuse ", "reject ", "upset "]}

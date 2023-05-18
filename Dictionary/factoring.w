@@ -1,0 +1,1 @@
+{"index": 109079, "D": "the business of purchasing and collecting accounts receivable or of advancing cash on the basis of accounts receivable.", "S": ["separate "], "A": ["attach ", "collect ", "combine ", "connect ", "couple ", "gather ", "join ", "link ", "unite "]}

@@ -1,0 +1,1 @@
+{"index": 250500, "D": "of, in, or pertaining to the early springtime", "S": [], "A": []}

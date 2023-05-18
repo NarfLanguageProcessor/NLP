@@ -1,0 +1,1 @@
+{"index": 187771, "D": "a syenitic lamprophyre composed chiefly of orthoclase and biotite.", "S": [], "A": []}

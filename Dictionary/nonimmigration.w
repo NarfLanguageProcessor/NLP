@@ -1,0 +1,1 @@
+{"index": 204575, "D": "the act of immigrating. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 347727, "D": "relating to, situated in, or constituting the periphery", "S": [], "A": []}

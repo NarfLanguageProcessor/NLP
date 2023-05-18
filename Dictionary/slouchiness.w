@@ -1,0 +1,1 @@
+{"index": 294416, "D": "of or relating to a slouch  or to a slouching  manner, posture, etc.", "S": [], "A": []}

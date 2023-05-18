@@ -1,0 +1,1 @@
+{"index": 73477, "D": "inclined to find fault or to judge with severity, often too readily", "S": ["demanding "], "A": ["complimentary ", "laudatory ", "praising ", "trivial ", "uncritical ", "unimportant "]}

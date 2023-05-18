@@ -1,0 +1,1 @@
+{"index": 161037, "D": "a shrub, Rhodotypos scandens, of the rose family, having white flowers and glossy black fruit, cultivated as an ornamental.", "S": [], "A": []}

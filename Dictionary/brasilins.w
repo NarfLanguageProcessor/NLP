@@ -1,0 +1,1 @@
+{"index": 39998, "D": "a yellow, water-soluble, needlelike, crystalline solid, C16H14O5, obtained from brazil and sappanwood", "S": [], "A": []}

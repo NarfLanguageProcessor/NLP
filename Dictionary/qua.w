@@ -1,0 +1,1 @@
+{"index": 257448, "D": "as; as being; in the character or capacity of", "S": [], "A": []}

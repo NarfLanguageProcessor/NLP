@@ -1,0 +1,1 @@
+{"index": 23684, "D": "of or relating to auspices", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310305, "D": "the natural grease of the wool of sheep, consisting of a mixture of fatty matter and potassium salts, used as a source of potash and in the preparation of ointments.", "S": [], "A": []}

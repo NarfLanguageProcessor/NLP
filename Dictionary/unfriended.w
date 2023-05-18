@@ -1,0 +1,1 @@
+{"index": 342717, "D": "without friends;  not befriended.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 283625, "D": "the study of linguistic development by classifying and examining changes in meaning and form.", "S": [], "A": []}

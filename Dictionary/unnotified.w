@@ -1,0 +1,1 @@
+{"index": 346955, "D": "to inform (someone) or give notice  to", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83495, "D": "an expert in or advocate of developmental psychology.", "S": [], "A": []}

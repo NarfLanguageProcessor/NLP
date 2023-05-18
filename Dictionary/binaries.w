@@ -1,0 +1,1 @@
+{"index": 34159, "D": "consisting of, indicating, or involving two.", "S": ["couple ", "double ", "pair ", "team "], "A": []}

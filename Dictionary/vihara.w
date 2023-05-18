@@ -1,0 +1,1 @@
+{"index": 359648, "D": "a meeting place of Buddhist monks.", "S": [], "A": []}

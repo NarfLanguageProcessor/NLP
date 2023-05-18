@@ -1,0 +1,1 @@
+{"index": 209752, "D": "a dry fruit consisting of an edible kernel or meat enclosed in a woody or leathery shell.", "S": ["kernel "], "A": []}

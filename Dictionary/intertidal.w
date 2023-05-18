@@ -1,0 +1,1 @@
+{"index": 156051, "D": "of or relating to the littoral region that is above the low-water mark and below the high-water mark.", "S": [], "A": []}

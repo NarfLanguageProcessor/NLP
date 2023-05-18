@@ -1,0 +1,1 @@
+{"index": 263015, "D": "a person who lives in seclusion or apart from society, often for religious meditation.", "S": ["hermit "], "A": ["extrovert "]}

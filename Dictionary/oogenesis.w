@@ -1,0 +1,1 @@
+{"index": 212999, "D": "the origin and development of the ovum.", "S": [], "A": []}

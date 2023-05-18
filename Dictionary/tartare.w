@@ -1,0 +1,1 @@
+{"index": 316770, "D": "(especially of fish) finely chopped and served raw (used postpositively)", "S": [], "A": []}

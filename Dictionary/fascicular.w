@@ -1,0 +1,1 @@
+{"index": 110092, "D": "pertaining to or forming a fascicle; fasciculate.", "S": [], "A": []}

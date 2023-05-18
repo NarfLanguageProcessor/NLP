@@ -1,0 +1,1 @@
+{"index": 316691, "D": "a light-colored type of volcanic tuff used in making water-resistant cement and mortar.", "S": [], "A": []}

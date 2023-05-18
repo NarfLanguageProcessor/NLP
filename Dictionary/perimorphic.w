@@ -1,0 +1,1 @@
+{"index": 231059, "D": "Compare endomorph (def. 1). ", "S": [], "A": []}

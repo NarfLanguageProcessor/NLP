@@ -1,0 +1,1 @@
+{"index": 152232, "D": "to give or impart knowledge of a fact or circumstance to", "S": ["advise ", "apprise ", "brief ", "caution ", "educate ", "instruct ", "notify ", "tell ", "update ", "warn "], "A": ["hide ", "learn ", "be quiet ", "conceal ", "deceive ", "keep secret ", "mislead ", "obscure ", "withhold "]}

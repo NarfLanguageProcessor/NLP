@@ -1,0 +1,1 @@
+{"index": 13439, "D": "a southeast Asian rhythm instrument consisting of a set of bamboo tubes that are tuned in octaves and slide in the grooves of a frame shaken by the performer.", "S": [], "A": []}

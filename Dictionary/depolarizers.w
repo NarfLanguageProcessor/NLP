@@ -1,0 +1,1 @@
+{"index": 81710, "D": "a substance added to the electrolyte of an electric cell or battery to remove gas collected at the electrodes.", "S": [], "A": []}

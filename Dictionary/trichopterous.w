@@ -1,0 +1,1 @@
+{"index": 329474, "D": "belonging or pertaining to the insect order Trichoptera, comprising the caddisflies.", "S": [], "A": []}

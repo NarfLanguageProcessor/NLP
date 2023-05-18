@@ -1,0 +1,1 @@
+{"index": 312899, "D": "the act of willing, choosing, or resolving; exercise of willing", "S": [], "A": []}

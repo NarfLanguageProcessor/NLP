@@ -1,0 +1,1 @@
+{"index": 73363, "D": "(especially of food) hard but easily breakable; brittle", "S": ["boil ", "churn ", "roil ", "twirl ", "whirl "], "A": ["straighten "]}

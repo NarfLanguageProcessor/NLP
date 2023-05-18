@@ -1,0 +1,1 @@
+{"index": 247240, "D": "a process of increasing the amplitude of certain frequencies relative to others in a signal in order to help them override noise, complemented by deemphasis before final reproduction of the signal being received.", "S": [], "A": []}

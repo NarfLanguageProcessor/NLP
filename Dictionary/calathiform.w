@@ -1,0 +1,1 @@
+{"index": 44795, "D": "cup-shaped; concave.", "S": [], "A": []}

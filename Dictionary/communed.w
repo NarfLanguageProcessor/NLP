@@ -1,0 +1,1 @@
+{"index": 64233, "D": "to converse or talk together, usually with profound intensity, intimacy, etc.; interchange thoughts or feelings.", "S": ["cooperative ", "kibbutz ", "municipality ", "village "], "A": []}

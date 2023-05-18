@@ -1,0 +1,1 @@
+{"index": 256773, "D": "a hard barrel-shaped case enclosing the pupae of the housefly and other dipterous insects", "S": [], "A": []}

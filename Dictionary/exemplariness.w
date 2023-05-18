@@ -1,0 +1,1 @@
+{"index": 107007, "D": "worthy of imitation; commendable", "S": [], "A": []}

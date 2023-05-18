@@ -1,0 +1,1 @@
+{"index": 120745, "D": "of the nature of or resembling fuzz", "S": ["furry ", "hairy "], "A": ["smooth "]}

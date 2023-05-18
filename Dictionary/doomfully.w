@@ -1,0 +1,1 @@
+{"index": 91521, "D": "foreshadowing doom;  portentously direful; ominous.", "S": [], "A": []}

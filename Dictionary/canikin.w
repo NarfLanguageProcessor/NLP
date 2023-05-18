@@ -1,0 +1,1 @@
+{"index": 46320, "D": "a variant spelling of cannikin", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 319301, "D": "a member of the reformed order of barefooted Carmelites, founded in Spain in 1562.", "S": [], "A": []}

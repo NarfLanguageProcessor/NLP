@@ -1,0 +1,1 @@
+{"index": 96263, "D": "displaying egomania;  abnormally or extremely selfish and self-centered, with an excessively high opinion of oneself", "S": [], "A": []}

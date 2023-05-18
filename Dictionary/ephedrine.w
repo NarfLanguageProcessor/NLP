@@ -1,0 +1,1 @@
+{"index": 102121, "D": "a white, crystalline alkaloid, C10H15N, obtained from a species of Ephedra or synthesized", "S": [], "A": []}

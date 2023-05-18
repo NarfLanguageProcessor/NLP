@@ -1,0 +1,1 @@
+{"index": 296850, "D": "fl. 10th century b.c., king of Israel (son of David).", "S": [], "A": []}

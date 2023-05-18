@@ -1,0 +1,1 @@
+{"index": 214270, "D": "the arrangement or disposition of parts, as of a building, picture, or literary work.", "S": [], "A": []}

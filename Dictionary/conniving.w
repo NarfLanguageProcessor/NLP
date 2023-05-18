@@ -1,0 +1,1 @@
+{"index": 66556, "D": "cooperating secretly, especially with harmful or evil intent; conspiring", "S": ["tricky "], "A": []}

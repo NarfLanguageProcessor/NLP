@@ -1,0 +1,1 @@
+{"index": 344469, "D": "brought about, produced, or caused, especially artificially (often used in combination)", "S": [], "A": []}

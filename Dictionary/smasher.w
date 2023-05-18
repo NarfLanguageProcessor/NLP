@@ -1,0 +1,1 @@
+{"index": 294755, "D": "a person or thing that smashes. ", "S": ["chart-topping ", "hit ", "number one ", "smash ", "very popular ", "very successful "], "A": ["failing "]}

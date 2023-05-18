@@ -1,0 +1,1 @@
+{"index": 365429, "D": "an Indian of the former Huron confederacy.", "S": [], "A": []}

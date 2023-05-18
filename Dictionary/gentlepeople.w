@@ -1,0 +1,1 @@
+{"index": 123741, "D": "a formal term of address to a group of people.", "S": ["aristocrat ", "brick ", "good egg ", "good person ", "nice person ", "noble ", "scholar "], "A": []}

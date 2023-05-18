@@ -1,0 +1,1 @@
+{"index": 66216, "D": "of or relating to the People's Republic of the Congo or the Congo region, its inhabitants, or their languages.", "S": [], "A": []}

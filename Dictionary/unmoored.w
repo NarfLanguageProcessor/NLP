@@ -1,0 +1,1 @@
+{"index": 346561, "D": "to loose (a vessel) from moorings or anchorage.", "S": ["afloat "], "A": ["anchored "]}

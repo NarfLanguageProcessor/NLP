@@ -1,0 +1,1 @@
+{"index": 350600, "D": "not seasonable;  being out of season; unseasonal", "S": ["untimely "], "A": []}

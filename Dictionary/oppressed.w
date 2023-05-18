@@ -1,0 +1,1 @@
+{"index": 213709, "D": "burdened with cruel or unjust impositions or restraints; subjected to a burdensome or harsh exercise of authority or power", "S": ["abused ", "destitute ", "distressed ", "enslaved ", "exploited ", "helpless ", "persecuted "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332564, "D": "belonging to the Turbellaria, a class of platyhelminths or flatworms, mostly aquatic and having cilia on the body surface.", "S": [], "A": []}

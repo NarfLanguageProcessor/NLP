@@ -1,0 +1,1 @@
+{"index": 354085, "D": "having a form, outline, or appearance resembling waves;  undulating.", "S": [], "A": []}

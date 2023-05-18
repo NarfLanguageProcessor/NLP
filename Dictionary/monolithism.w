@@ -1,0 +1,1 @@
+{"index": 192390, "D": "an obelisk, column, large statue, etc., formed of a single block of stone.", "S": [], "A": []}

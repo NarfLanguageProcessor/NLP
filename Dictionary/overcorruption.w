@@ -1,0 +1,1 @@
+{"index": 218760, "D": "the act of corrupting  or state of being corrupt. ", "S": [], "A": []}

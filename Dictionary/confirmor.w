@@ -1,0 +1,1 @@
+{"index": 65949, "D": "to establish the truth, accuracy, validity, or genuineness of; corroborate; verify", "S": [], "A": []}

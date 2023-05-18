@@ -1,0 +1,1 @@
+{"index": 194797, "D": "an assault or threat of violence upon a person, especially with intent to rob.", "S": ["assault ", "attack ", "injury "], "A": ["aid ", "health ", "compliment ", "flattery ", "glee ", "happiness ", "joy ", "praise ", "respect "]}

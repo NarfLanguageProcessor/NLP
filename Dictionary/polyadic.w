@@ -1,0 +1,1 @@
+{"index": 241598, "D": "(of a relation, operation, etc) having several argument places, as \u2026 moves \u2026 from \u2026 to \u2026, which might be represented as Mpox 1 y 1 z 1 t 1 x 2 y 2 z 2 t 2 where p names a person, o an object, and each t a time, and each < x,y,z > the coordinates of a place", "S": [], "A": []}

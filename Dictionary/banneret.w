@@ -1,0 +1,1 @@
+{"index": 27541, "D": "a knight who could bring a company of followers into the field under his own banner.", "S": ["banner ", "colors ", "ensign ", "oriflamme ", "pennant ", "pennon ", "standard ", "streamer "], "A": []}

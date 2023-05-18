@@ -1,0 +1,1 @@
+{"index": 273699, "D": "the state or condition of being rocky. ", "S": [], "A": []}

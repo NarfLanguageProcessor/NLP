@@ -1,0 +1,1 @@
+{"index": 132430, "D": "a cap of loose net, as of silk or nylon, for holding the hair in place.", "S": [], "A": []}

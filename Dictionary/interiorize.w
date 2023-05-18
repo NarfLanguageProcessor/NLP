@@ -1,0 +1,1 @@
+{"index": 155077, "D": "(tr) another word for internalize", "S": [], "A": []}

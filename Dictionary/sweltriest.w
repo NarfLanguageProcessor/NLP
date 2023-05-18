@@ -1,0 +1,1 @@
+{"index": 314369, "D": "hot, sizzling, roasting; sweltering.", "S": ["tight "], "A": ["cool ", "dry "]}

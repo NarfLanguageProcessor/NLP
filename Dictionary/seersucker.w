@@ -1,0 +1,1 @@
+{"index": 283173, "D": "a plainwoven cotton, rayon, or linen fabric", "S": [], "A": []}

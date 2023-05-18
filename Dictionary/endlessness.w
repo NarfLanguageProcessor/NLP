@@ -1,0 +1,1 @@
+{"index": 99694, "D": "having or seeming to have no end, limit, or conclusion; boundless; infinite; interminable; incessant", "S": ["ceaselessness ", "eternity ", "permanence ", "perpetuation ", "perpetuity ", "timelessness "], "A": []}

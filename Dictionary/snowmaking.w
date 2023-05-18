@@ -1,0 +1,1 @@
+{"index": 295835, "D": "the creation of artificial snow  at ski areas.", "S": [], "A": []}

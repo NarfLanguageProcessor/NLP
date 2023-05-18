@@ -1,0 +1,1 @@
+{"index": 301629, "D": "foul and repulsive, as from lack of care or cleanliness; neglected and filthy.", "S": [], "A": []}

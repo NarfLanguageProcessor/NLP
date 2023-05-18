@@ -1,0 +1,1 @@
+{"index": 22368, "D": "moving in a swirling  pattern or motion", "S": [], "A": []}

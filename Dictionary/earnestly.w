@@ -1,0 +1,1 @@
+{"index": 94772, "D": "with deep and sincere feeling; seriously", "S": ["seriously ", "sincerely ", "soberly ", "thoughtfully "], "A": []}

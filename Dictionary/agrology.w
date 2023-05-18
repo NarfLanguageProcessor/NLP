@@ -1,0 +1,1 @@
+{"index": 6534, "D": "the branch of soil science dealing especially with the production of crops.", "S": ["farming ", "gardening ", "horticulture ", "planting "], "A": ["destruction ", "harm ", "hurt ", "ignorance ", "neglect ", "unsophistication "]}

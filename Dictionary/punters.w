@@ -1,0 +1,1 @@
+{"index": 256750, "D": "Compare drop kick, place kick. ", "S": [], "A": []}

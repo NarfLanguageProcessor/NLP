@@ -1,0 +1,1 @@
+{"index": 269497, "D": "the act or power of resisting, opposing, or withstanding.", "S": ["battle ", "defiance ", "fight ", "intransigence ", "protection ", "refusal ", "struggle ", "support "], "A": ["aid ", "assistance ", "help ", "liberation ", "peace ", "promotion "]}

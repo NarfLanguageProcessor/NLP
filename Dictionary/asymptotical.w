@@ -1,0 +1,1 @@
+{"index": 21253, "D": "of or relating to an asymptote. ", "S": [], "A": []}

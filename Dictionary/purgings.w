@@ -1,0 +1,1 @@
+{"index": 256938, "D": "having a clearing, emptying, or purifying effect", "S": ["anorexia nervosa ", "bingeing ", "bulimarexia ", "bulimia ", "compulsive eating ", "hypheragia ", "pica ", "psychological disorder ", "purging "], "A": []}

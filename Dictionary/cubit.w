@@ -1,0 +1,1 @@
+{"index": 74480, "D": "an ancient linear unit based on the length of the forearm, from elbow to the tip of the middle finger, usually from 17 to 21 inches (43 to 53 centimeters).", "S": [], "A": []}

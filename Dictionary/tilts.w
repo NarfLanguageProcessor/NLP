@@ -1,0 +1,1 @@
+{"index": 323667, "D": "to cause to lean, incline, slope, or slant.", "S": ["angle ", "inclination ", "leaning ", "slant "], "A": ["ascent ", "increase ", "rise "]}

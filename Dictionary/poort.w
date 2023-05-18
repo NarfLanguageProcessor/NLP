@@ -1,0 +1,1 @@
+{"index": 243184, "D": "(in South Africa) a steep narrow mountain pass, usually following a river or stream", "S": [], "A": []}

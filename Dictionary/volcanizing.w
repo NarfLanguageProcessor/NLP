@@ -1,0 +1,1 @@
+{"index": 361088, "D": "to affect or alter by volcanic  heat or action.", "S": [], "A": []}

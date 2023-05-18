@@ -1,0 +1,1 @@
+{"index": 34162, "D": "produced or borne in pairs; double.", "S": [], "A": []}

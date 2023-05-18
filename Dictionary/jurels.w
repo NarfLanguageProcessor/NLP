@@ -1,0 +1,1 @@
+{"index": 162447, "D": "any of several carangid food fishes, especially of the genus Caranx, found in warm seas.", "S": [], "A": []}

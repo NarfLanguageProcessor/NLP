@@ -1,0 +1,1 @@
+{"index": 177044, "D": "having long or large wings or fins.", "S": [], "A": []}

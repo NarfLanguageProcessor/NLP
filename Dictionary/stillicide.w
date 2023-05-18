@@ -1,0 +1,1 @@
+{"index": 304522, "D": "a right or duty relating to the drainage of water from the eaves of a roof onto adjacent land", "S": [], "A": []}

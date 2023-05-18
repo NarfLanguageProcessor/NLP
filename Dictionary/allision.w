@@ -1,0 +1,1 @@
+{"index": 8752, "D": "the striking of one ship by another.", "S": [], "A": []}

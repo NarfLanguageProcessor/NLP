@@ -1,0 +1,1 @@
+{"index": 12634, "D": "the state or quality of being anfractuous.", "S": [], "A": []}

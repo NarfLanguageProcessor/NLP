@@ -1,0 +1,1 @@
+{"index": 336873, "D": "a container or machine in which cream or milk is agitated to make butter.", "S": [], "A": []}

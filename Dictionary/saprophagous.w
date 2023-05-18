@@ -1,0 +1,1 @@
+{"index": 278236, "D": "(of an organism) feeding on dead or decaying animal matter.", "S": [], "A": []}

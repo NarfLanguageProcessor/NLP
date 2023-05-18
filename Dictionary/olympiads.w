@@ -1,0 +1,1 @@
+{"index": 212258, "D": "a period of four years reckoned from one celebration of the Olympic Games to the next, by which the Greeks computed time from 776 b.c.", "S": [], "A": []}

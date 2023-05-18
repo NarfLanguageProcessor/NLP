@@ -1,0 +1,1 @@
+{"index": 75844, "D": "the process of propagating plants from separate vegetative parts.", "S": [], "A": []}

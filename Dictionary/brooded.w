@@ -1,0 +1,1 @@
+{"index": 41489, "D": "a number of young produced or hatched at one time; a family of offspring or young.", "S": ["daydream ", "fret ", "grieve ", "meditate ", "mope ", "ruminate ", "sulk "], "A": ["be happy ", "ignore ", "neglect ", "please ", "disregard ", "forget "]}

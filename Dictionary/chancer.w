@@ -1,0 +1,1 @@
+{"index": 52412, "D": "a person who takes many risks.", "S": ["contingent ", "incidental "], "A": ["designed ", "foreseeable ", "planned ", "understood "]}

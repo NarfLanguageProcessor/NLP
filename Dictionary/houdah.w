@@ -1,0 +1,1 @@
+{"index": 144332, "D": "a variant spelling of howdah", "S": [], "A": []}

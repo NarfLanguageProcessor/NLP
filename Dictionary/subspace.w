@@ -1,0 +1,1 @@
+{"index": 309238, "D": "a smaller space within a main area that has been divided or subdivided", "S": [], "A": []}

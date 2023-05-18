@@ -1,0 +1,1 @@
+{"index": 368091, "D": "behavior or action that is wrong,  evil, or blameworthy.", "S": ["crime ", "malpractice ", "misbehavior ", "misdeed ", "offense ", "sin ", "violation "], "A": ["behavior ", "kindness ", "obedience ", "good ", "goodness ", "virtue "]}

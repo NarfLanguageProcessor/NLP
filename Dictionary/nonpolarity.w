@@ -1,0 +1,1 @@
+{"index": 206032, "D": "the positive or negative state in which a body reacts to a magnetic, electric, or other field.", "S": [], "A": []}

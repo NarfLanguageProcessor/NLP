@@ -1,0 +1,1 @@
+{"index": 243805, "D": "explicitly stated, stipulated, or expressed", "S": ["clear ", "conclusive ", "confident ", "decisive ", "specific "], "A": ["indefinite ", "uncertain ", "vague ", "flawed ", "flexible ", "imperfect ", "imprecise ", "yielding "]}

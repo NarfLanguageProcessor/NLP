@@ -1,0 +1,1 @@
+{"index": 79529, "D": "separation of the life instinct from the death instinct, a process often accompanying maturity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232862, "D": "a system by which society would be reorganized into units comprising their own social and industrial elements; Fourierism.", "S": [], "A": []}

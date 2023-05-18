@@ -1,0 +1,1 @@
+{"index": 61678, "D": "a cod fisherman or his boat", "S": [], "A": []}

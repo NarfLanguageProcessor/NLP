@@ -1,0 +1,1 @@
+{"index": 308132, "D": "a person in charge of waiters,  busboys, etc., in a restaurant or dining car.", "S": [], "A": []}

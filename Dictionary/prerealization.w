@@ -1,0 +1,1 @@
+{"index": 249027, "D": "the making or being made real of something imagined, planned, etc.", "S": [], "A": []}

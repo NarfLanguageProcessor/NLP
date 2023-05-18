@@ -1,0 +1,1 @@
+{"index": 294387, "D": "an offensive back  who lines up about one yard behind the gap in the line between a tackle and an end stationed a distance outside of the tackle.", "S": ["fullback ", "halfback ", "tailback "], "A": []}

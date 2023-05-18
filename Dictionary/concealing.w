@@ -1,0 +1,1 @@
+{"index": 65085, "D": "to hide; withdraw or remove from observation; cover or keep from sight", "S": ["bury ", "camouflage ", "cloak ", "cover ", "cover up ", "harbor ", "lurk ", "mask ", "obscure ", "stash ", "stow ", "wrap "], "A": ["disregard ", "ignore ", "reveal ", "uncover ", "unwrap ", "fill "]}

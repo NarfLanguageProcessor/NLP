@@ -1,0 +1,1 @@
+{"index": 112796, "D": "foul with, characterized by, or having the nature of filth;  disgustingly or completely dirty.", "S": ["bawdiness ", "coarseness ", "dirtiness ", "foulness ", "indecency ", "lewdness ", "profaneness ", "profanity ", "salaciousness ", "smuttiness ", "vulgarity "], "A": ["decency ", "modesty "]}

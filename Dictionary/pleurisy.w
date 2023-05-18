@@ -1,0 +1,1 @@
+{"index": 239934, "D": "inflammation of the pleura, with or without a liquid effusion in the pleural cavity, characterized by a dry cough and pain in the affected side.", "S": [], "A": []}

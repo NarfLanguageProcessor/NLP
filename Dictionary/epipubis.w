@@ -1,0 +1,1 @@
+{"index": 102740, "D": "either of a pair of bones in front of the pubis  of marsupials.", "S": [], "A": []}

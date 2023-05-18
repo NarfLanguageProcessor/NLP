@@ -1,0 +1,1 @@
+{"index": 319110, "D": "of, having, or eligible for tenure,  especially in a college or university", "S": [], "A": []}

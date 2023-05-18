@@ -1,0 +1,1 @@
+{"index": 309163, "D": "the act or process of subsiding or the condition of having subsided", "S": ["abatement ", "decline ", "decrease ", "discount ", "ebb ", "reduction "], "A": ["enlargement ", "increase ", "rise "]}

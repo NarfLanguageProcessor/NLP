@@ -1,0 +1,1 @@
+{"index": 292947, "D": "a person who lives on the streets, sleeps in doorways or subways, etc.; derelict.", "S": [], "A": []}

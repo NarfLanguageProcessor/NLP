@@ -1,0 +1,1 @@
+{"index": 192383, "D": "knowing or able to use only one language; monoglot.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 251372, "D": [], "S": ["childbearing ", "conceptive ", "generating ", "procreant ", "reproducing "], "A": []}

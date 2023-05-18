@@ -1,0 +1,1 @@
+{"index": 244880, "D": "a young fowl, as of the turkey, the pheasant, or a similar bird.", "S": [], "A": []}

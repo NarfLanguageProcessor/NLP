@@ -1,0 +1,1 @@
+{"index": 199695, "D": "of, relating to, or containing nicotine. ", "S": [], "A": []}

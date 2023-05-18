@@ -1,0 +1,1 @@
+{"index": 179957, "D": "a fully mature female horse or other equine animal.", "S": ["colt ", "filly ", "stallion "], "A": []}

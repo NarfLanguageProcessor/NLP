@@ -1,0 +1,1 @@
+{"index": 21477, "D": "any of various southern European plants of the genera Asphodelus and Asphodeline, of the lily family, having white, pink, or yellow flowers in elongated clusters.", "S": [], "A": []}

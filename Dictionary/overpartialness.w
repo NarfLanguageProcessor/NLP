@@ -1,0 +1,1 @@
+{"index": 220446, "D": "being such in part  only; not total or general; incomplete", "S": [], "A": []}

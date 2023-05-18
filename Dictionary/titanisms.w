@@ -1,0 +1,1 @@
+{"index": 324626, "D": "revolt against tradition, convention, and established order.", "S": [], "A": []}

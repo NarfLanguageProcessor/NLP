@@ -1,0 +1,1 @@
+{"index": 50942, "D": "of or forming the center", "S": ["central ", "halfway ", "in the center ", "in the heart of ", "midway "], "A": []}

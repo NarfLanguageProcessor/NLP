@@ -1,0 +1,1 @@
+{"index": 122047, "D": "a printing type designed in 1540 by Claude Garamond (c1480\u20131561), French type founder.", "S": [], "A": []}

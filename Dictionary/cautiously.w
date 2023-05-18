@@ -1,0 +1,1 @@
+{"index": 50123, "D": "showing, using, or characterized by caution", "S": ["carefully ", "slowly "], "A": []}

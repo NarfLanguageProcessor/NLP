@@ -1,0 +1,1 @@
+{"index": 177259, "D": "a secular part song without instrumental accompaniment, usually for four to six voices, making abundant use of contrapuntal imitation, popular especially in the 16th and 17th centuries.", "S": ["Noel ", "ballad ", "canticle ", "chorus ", "ditty ", "lay ", "madrigal ", "song ", "strain "], "A": []}

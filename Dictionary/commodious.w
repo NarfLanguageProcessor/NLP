@@ -1,0 +1,1 @@
+{"index": 64145, "D": "spacious and convenient; roomy", "S": ["convenient "], "A": ["confined ", "cramped ", "inconvenient ", "small ", "squeezed ", "uncomfortable "]}

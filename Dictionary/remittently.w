@@ -1,0 +1,1 @@
+{"index": 267366, "D": "abating for a time or at intervals", "S": [], "A": []}

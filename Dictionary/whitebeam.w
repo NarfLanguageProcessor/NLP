@@ -1,0 +1,1 @@
+{"index": 365107, "D": "a European tree, Sorbus aria, of the rose family, having leathery leaves, showy, white  flowers, and mealy, orange-red or scarlet fruit.", "S": [], "A": []}

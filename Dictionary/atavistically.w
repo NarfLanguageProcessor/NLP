@@ -1,0 +1,1 @@
+{"index": 22424, "D": "of, relating to, or characterized by atavism;  reverting to or suggesting the characteristics of a remote ancestor or primitive type.", "S": [], "A": []}

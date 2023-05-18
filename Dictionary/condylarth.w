@@ -1,0 +1,1 @@
+{"index": 65586, "D": "any of the primitive ungulate mammals of the extinct order Condylarthra, from the Paleocene and Eocene epochs, having a slender body, low-crowned teeth, and five-toed feet, each toe ending in a small hoof.", "S": [], "A": []}

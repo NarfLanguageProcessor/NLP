@@ -1,0 +1,1 @@
+{"index": 8487, "D": "any of a group of sticky resins derived from dicarboxylic acids,  as phthalic or maleic acid,  in reaction with polyvalent alcohols, as glycol or glycerol", "S": [], "A": []}

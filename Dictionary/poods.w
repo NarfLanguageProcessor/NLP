@@ -1,0 +1,1 @@
+{"index": 243122, "D": "a Russian weight equal to about 36 pounds avoirdupois (16 kilograms).", "S": [], "A": []}

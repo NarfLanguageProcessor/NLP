@@ -1,0 +1,1 @@
+{"index": 217404, "D": "a person who inhabits a remote settlement or area.", "S": [], "A": []}

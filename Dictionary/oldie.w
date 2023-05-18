@@ -1,0 +1,1 @@
+{"index": 212018, "D": "a popular song, joke, movie, etc., that was in vogue at a time in the past.", "S": ["elderly "], "A": ["fresh ", "modern ", "new ", "recent ", "up-to-date ", "young "]}

@@ -1,0 +1,1 @@
+{"index": 114889, "D": "U.S. composer, especially of operas.", "S": [], "A": []}

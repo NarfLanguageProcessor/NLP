@@ -1,0 +1,1 @@
+{"index": 126338, "D": "a faint or unsteady light; glimmer. ", "S": [], "A": []}

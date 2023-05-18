@@ -1,0 +1,1 @@
+{"index": 88917, "D": "to pay out; expend; spend.", "S": [], "A": []}

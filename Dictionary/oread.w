@@ -1,0 +1,1 @@
+{"index": 214283, "D": "any of a group of nymphs who were the companions of Artemis.", "S": [], "A": []}

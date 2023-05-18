@@ -1,0 +1,1 @@
+{"index": 178521, "D": "a common, almost cosmopolitan, wild duck, Anas platyrhynchos, from which the domestic ducks are descended.", "S": [], "A": []}

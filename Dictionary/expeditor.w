@@ -1,0 +1,1 @@
+{"index": 107666, "D": "a person or thing that expedites  something, especially one employed to move shipments on schedule, as for a railroad.", "S": [], "A": []}

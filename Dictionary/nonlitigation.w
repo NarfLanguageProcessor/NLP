@@ -1,0 +1,1 @@
+{"index": 205053, "D": "the act or process of litigating", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151574, "D": "not eradicable;  not capable of being eradicated, rooted out, or completely removed.", "S": [], "A": []}

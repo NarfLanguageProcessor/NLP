@@ -1,0 +1,1 @@
+{"index": 178221, "D": "a member of any of various peoples native to the island of Madagascar.", "S": [], "A": []}

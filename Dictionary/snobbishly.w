@@ -1,0 +1,1 @@
+{"index": 295640, "D": "of, relating to, or characteristic of a snob", "S": ["arrogantly ", "boastfully ", "bombastically ", "conceitedly ", "disdainfully ", "egotistically ", "flamboyantly ", "gaudily ", "imperiously ", "insolently ", "ostentatiously ", "overbearingly ", "proudly ", "spectacularly ", "theatrically "], "A": ["humbly ", "modestly ", "quietly "]}

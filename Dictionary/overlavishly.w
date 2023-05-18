@@ -1,0 +1,1 @@
+{"index": 220024, "D": "profusely, luxuriously, or extravagantly; in great amounts or without limit", "S": [], "A": []}

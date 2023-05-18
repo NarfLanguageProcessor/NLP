@@ -1,0 +1,1 @@
+{"index": 269822, "D": "to spend or use (money, time, etc.) extravagantly or wastefully (often followed by away).", "S": [], "A": []}

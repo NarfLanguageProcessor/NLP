@@ -1,0 +1,1 @@
+{"index": 71249, "D": "extending across or throughout the whole country;  nationwide", "S": ["civil ", "communal ", "domestic ", "ethnic ", "governmental ", "internal ", "interstate ", "nationwide ", "public ", "social "], "A": ["private "]}

@@ -1,0 +1,1 @@
+{"index": 91041, "D": "a school or practice hall where karate, judo, or other martial arts are taught.", "S": [], "A": []}

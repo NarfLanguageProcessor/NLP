@@ -1,0 +1,1 @@
+{"index": 234427, "D": "inflammation of a vein, often occurring in the legs and involving the formation of a thrombus, characterized by swelling, pain, and change of skin color.", "S": [], "A": []}

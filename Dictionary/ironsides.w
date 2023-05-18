@@ -1,0 +1,1 @@
+{"index": 158106, "D": "a person with great stamina or resistance", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175086, "D": "lunatic;  insane.", "S": ["batty ", "crazed ", "kooky ", "nutty ", "screwball ", "wacky "], "A": ["sane ", "sensible "]}

@@ -1,0 +1,1 @@
+{"index": 112044, "D": "a cell that contributes to the formation of connective tissue fibers.", "S": [], "A": []}

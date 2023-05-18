@@ -1,0 +1,1 @@
+{"index": 342560, "D": "so bad as to be unable to be excused or pardoned", "S": ["contemptible ", "deplorable ", "disgraceful ", "indefensible ", "outrageous ", "reprehensible ", "shameful ", "unconscionable ", "unjustifiable ", "untenable "], "A": ["delightful ", "good ", "honorable ", "respectable "]}

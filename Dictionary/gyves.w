@@ -1,0 +1,1 @@
+{"index": 125705, "D": "a shackle, especially for the leg; fetter.", "S": [], "A": []}

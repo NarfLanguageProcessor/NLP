@@ -1,0 +1,1 @@
+{"index": 302694, "D": "somewhat aloof or reserved; cold and unfriendly.", "S": [], "A": []}

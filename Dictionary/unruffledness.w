@@ -1,0 +1,1 @@
+{"index": 350130, "D": "calm; not emotionally upset or agitated; steady; unflustered", "S": [], "A": []}

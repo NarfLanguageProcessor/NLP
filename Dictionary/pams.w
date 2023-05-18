@@ -1,0 +1,1 @@
+{"index": 224311, "D": "the jack of clubs, especially in a form of loo in which it is the best trump.", "S": [], "A": []}

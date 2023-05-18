@@ -1,0 +1,1 @@
+{"index": 173800, "D": "the operation of crushing stone in the urinary bladder into particles small enough to be voided.", "S": [], "A": []}

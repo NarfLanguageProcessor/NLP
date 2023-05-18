@@ -1,0 +1,1 @@
+{"index": 326784, "D": "a line, hawser, or the like, by which anything is or may be towed.", "S": [], "A": []}

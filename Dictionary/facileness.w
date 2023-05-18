@@ -1,0 +1,1 @@
+{"index": 108993, "D": "moving, acting, working, proceeding, etc., with ease, sometimes with superficiality", "S": ["cinch ", "easiness ", "effortlessness ", "facility ", "naturalness "], "A": []}

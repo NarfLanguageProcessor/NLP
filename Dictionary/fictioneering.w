@@ -1,0 +1,1 @@
+{"index": 112187, "D": "a writer of fiction,  especially a prolific one whose works are of mediocre quality.", "S": [], "A": []}

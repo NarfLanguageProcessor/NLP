@@ -1,0 +1,1 @@
+{"index": 250881, "D": "a contest between boxers for a prize, a sum of money, etc.; a professional boxing match.", "S": ["bout ", "duel ", "fight ", "fight game ", "fistic sport ", "fisticuffs ", "haymaker ", "match ", "prizefighting ", "pugilism ", "slugfest "], "A": []}

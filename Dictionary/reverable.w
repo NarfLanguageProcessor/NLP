@@ -1,0 +1,1 @@
+{"index": 271196, "D": "to regard with respect tinged with awe; venerate", "S": [], "A": []}

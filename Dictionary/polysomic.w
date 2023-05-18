@@ -1,0 +1,1 @@
+{"index": 242442, "D": "of, relating to, or designating a basically diploid chromosome complement, in which some but not all the chromosomes are represented more than twice", "S": [], "A": []}

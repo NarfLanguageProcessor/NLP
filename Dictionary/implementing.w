@@ -1,0 +1,1 @@
+{"index": 148768, "D": "the act or process of carrying out a plan, putting a law or policy into effect, fulfilling a promise, etc.", "S": ["construction ", "manufacturing "], "A": []}

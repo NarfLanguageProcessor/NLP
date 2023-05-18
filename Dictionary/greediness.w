@@ -1,0 +1,1 @@
+{"index": 129494, "D": "excessively or inordinately desirous of wealth, profit, etc.; avaricious", "S": ["avarice ", "avariciousness ", "avidity ", "covetousness ", "cupidity ", "possessiveness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 119605, "D": "producing good results; beneficial; profitable", "S": [], "A": []}

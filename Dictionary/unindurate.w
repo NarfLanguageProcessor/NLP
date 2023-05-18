@@ -1,0 +1,1 @@
+{"index": 344477, "D": "to make hard; harden, as rock, tissue, etc.", "S": [], "A": []}

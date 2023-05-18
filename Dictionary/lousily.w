@@ -1,0 +1,1 @@
+{"index": 175500, "D": "infested with lice.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 328862, "D": "quivering; tremulous; shaking.", "S": [], "A": []}

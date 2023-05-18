@@ -1,0 +1,1 @@
+{"index": 357639, "D": "Compare Advaita, dvaita (def. 2). ", "S": [], "A": []}

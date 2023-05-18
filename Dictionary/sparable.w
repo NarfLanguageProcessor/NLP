@@ -1,0 +1,1 @@
+{"index": 298384, "D": "a small nail with no head, used for fixing the soles and heels of shoes", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69344, "D": "of, relating to, or characteristic of Cornwall, England, its inhabitants, or the Cornish language.", "S": [], "A": []}

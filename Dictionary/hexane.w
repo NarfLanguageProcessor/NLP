@@ -1,0 +1,1 @@
+{"index": 138002, "D": "any of five isomeric hydrocarbons having the formula C6H14, of the alkane series, some of which are obtained from petroleum", "S": [], "A": []}

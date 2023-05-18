@@ -1,0 +1,1 @@
+{"index": 223130, "D": "a person authorized by a company, government, etc., to pay  out wages or salaries, especially in the military.", "S": ["cashier ", "controller ", "purser "], "A": []}

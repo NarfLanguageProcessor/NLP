@@ -1,0 +1,1 @@
+{"index": 314568, "D": "a pocketknife, the blade  of which is held by a spring and can be released suddenly, as by pressing a button.", "S": ["bayonet ", "blade ", "sword "], "A": []}

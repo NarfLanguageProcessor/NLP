@@ -1,0 +1,1 @@
+{"index": 166494, "D": "a member of an Islamic people speaking Kurdish  and dwelling chiefly in Kurdistan.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362584, "D": "guardianship; custody.", "S": ["control ", "protection ", "supervision ", "trust "], "A": ["carelessness ", "neglect ", "negligence "]}

@@ -1,0 +1,1 @@
+{"index": 20151, "D": "to place in proper or desired order; marshal", "S": ["attired ", "clothed ", "covered ", "dressed ", "face ", "garbed ", "robed ", "sheathed "], "A": ["exposed "]}

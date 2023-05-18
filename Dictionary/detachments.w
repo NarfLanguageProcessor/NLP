@@ -1,0 +1,1 @@
+{"index": 83065, "D": "the act of detaching. ", "S": ["disengagement "], "A": ["connection ", "juncture ", "unification ", "unity "]}

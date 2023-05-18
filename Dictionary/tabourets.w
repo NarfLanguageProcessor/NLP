@@ -1,0 +1,1 @@
+{"index": 314906, "D": "a low seat without back or arms, for one person; stool.", "S": [], "A": []}

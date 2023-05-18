@@ -1,0 +1,1 @@
+{"index": 332574, "D": "a sedimentary deposit laid down by a turbidity current.", "S": [], "A": []}

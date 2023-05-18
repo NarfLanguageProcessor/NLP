@@ -1,0 +1,1 @@
+{"index": 57702, "D": "a place for depositing the ashes of the dead after cremation.", "S": ["crypt ", "mausoleum ", "ossuary ", "sepulcher ", "sepulture ", "tomb ", "vault "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287291, "D": "loose, pajamalike trousers worn by both men and women in India and southeast Asia.", "S": [], "A": []}

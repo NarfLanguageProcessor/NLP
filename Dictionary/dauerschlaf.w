@@ -1,0 +1,1 @@
+{"index": 77245, "D": "a form of therapy, now rarely used, that involves the use of drugs to induce long periods of deep sleep.", "S": [], "A": []}

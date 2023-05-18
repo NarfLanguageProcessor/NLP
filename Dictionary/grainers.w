@@ -1,0 +1,1 @@
+{"index": 128657, "D": "a small, hard seed, especially the seed of a food plant such as wheat, corn, rye, oats, rice, or millet.", "S": [], "A": []}

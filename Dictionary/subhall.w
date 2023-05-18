@@ -1,0 +1,1 @@
+{"index": 308122, "D": "a corridor or passageway in a building.", "S": [], "A": []}

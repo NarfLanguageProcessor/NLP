@@ -1,0 +1,1 @@
+{"index": 200969, "D": "free from imperfection; complete; perfect", "S": [], "A": []}

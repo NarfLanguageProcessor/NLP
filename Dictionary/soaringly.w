@@ -1,0 +1,1 @@
+{"index": 296030, "D": "to fly upward, as a bird.", "S": [], "A": []}

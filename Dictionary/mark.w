@@ -1,0 +1,1 @@
+{"index": 180142, "D": "a visible impression or trace on something, such as a line, cut, dent, stain, or bruise", "S": ["impression ", "imprint ", "line ", "point ", "record ", "scar ", "score ", "signature ", "spot ", "stain ", "stamp ", "streak ", "symbol "], "A": ["blank "]}

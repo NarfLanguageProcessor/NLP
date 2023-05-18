@@ -1,0 +1,1 @@
+{"index": 196518, "D": "tending to nag;  somewhat nagging. ", "S": [], "A": []}

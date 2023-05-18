@@ -1,0 +1,1 @@
+{"index": 132049, "D": "any thorny leguminous tree of the genus Haematoxylon, esp the logwood, of tropical America and SW Africa. The heartwood yields the dye haematoxylin", "S": [], "A": []}

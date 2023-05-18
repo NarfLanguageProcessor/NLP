@@ -1,0 +1,1 @@
+{"index": 43033, "D": "the netlike pattern of colored lines or dots forming the background design of certain postage stamps.", "S": [], "A": []}

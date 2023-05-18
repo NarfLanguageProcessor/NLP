@@ -1,0 +1,1 @@
+{"index": 103435, "D": "in a deliberately ambiguous or questionable way.", "S": [], "A": []}

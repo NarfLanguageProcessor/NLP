@@ -1,0 +1,1 @@
+{"index": 19028, "D": "the lowermost member of a classical entablature, resting originally upon columns.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262107, "D": "restoring or boosting confidence, certainty, or security", "S": ["encouraging ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}

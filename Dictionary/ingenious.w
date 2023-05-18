@@ -1,0 +1,1 @@
+{"index": 152469, "D": "characterized by cleverness or originality of invention or construction", "S": ["creative ", "imaginative ", "innovative ", "intelligent ", "inventive ", "resourceful ", "shrewd ", "skillful ", "sly ", "subtle "], "A": ["dull ", "foolish ", "honest ", "open ", "stupid ", "uncreative ", "unimaginative ", "uninventive ", "untalented "]}

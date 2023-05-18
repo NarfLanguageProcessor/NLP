@@ -1,0 +1,1 @@
+{"index": 332741, "D": "a family of closely related languages of southwest, central, and northern Asia and eastern Europe, including Turkish, Azerbaijani, Turkmen, Uzbek, Kirghiz, and Yakut. Abbreviations", "S": [], "A": []}

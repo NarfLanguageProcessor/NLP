@@ -1,0 +1,1 @@
+{"index": 91930, "D": "any of several plovers usually inhabiting upland areas, especially Eudromias morinellus, of Europe and Asia.", "S": [], "A": []}

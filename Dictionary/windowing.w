@@ -1,0 +1,1 @@
+{"index": 366001, "D": "simultaneous display of different portions of one or more files on a screen.", "S": [], "A": []}

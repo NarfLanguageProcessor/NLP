@@ -1,0 +1,1 @@
+{"index": 160575, "D": "a jet-assisted takeoff, especially one using auxiliary rocket motors that are jettisoned at the completion of the takeoff.", "S": [], "A": []}

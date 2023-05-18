@@ -1,0 +1,1 @@
+{"index": 225724, "D": "extending in the same direction, equidistant at all points, and never converging or diverging", "S": ["coordinate ", "lateral "], "A": ["crooked ", "different ", "dissimilar ", "divergent ", "separate ", "skewed ", "zigzag "]}

@@ -1,0 +1,1 @@
+{"index": 59752, "D": "any of numerous plants or woody vines of the genus Clematis, including many species cultivated for their showy, variously colored flowers.", "S": [], "A": []}

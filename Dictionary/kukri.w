@@ -1,0 +1,1 @@
+{"index": 166416, "D": "a large knife having a heavy curved blade that is sharp on the concave side, used by the Napalese Gurkhas for hunting and combat.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176921, "D": "the study of the climatic conditions of a large area.", "S": [], "A": []}

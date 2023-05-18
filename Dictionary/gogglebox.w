@@ -1,0 +1,1 @@
+{"index": 127426, "D": "a television set.", "S": [], "A": []}

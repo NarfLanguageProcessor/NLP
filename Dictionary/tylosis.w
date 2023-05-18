@@ -1,0 +1,1 @@
+{"index": 323631, "D": "a bubblelike formation in the cavity of tracheids or vessels in the wood of trees, consisting of protoplasm intruded from adjacent parenchyma cells.", "S": [], "A": []}

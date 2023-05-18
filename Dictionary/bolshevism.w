@@ -1,0 +1,1 @@
+{"index": 37613, "D": "the doctrines, methods, or procedure of the Bolsheviks. ", "S": ["socialism ", "totalitarianism "], "A": ["capitalism ", "democracy "]}

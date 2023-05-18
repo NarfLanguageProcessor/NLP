@@ -1,0 +1,1 @@
+{"index": 272848, "D": "to make or become rigid. ", "S": ["install ", "secure ", "set ", "settle ", "stabilize "], "A": ["detach ", "disconnect ", "disjoin ", "dislodge ", "disorder ", "displace ", "free ", "let go ", "loose ", "loosen ", "misplace ", "release ", "remove ", "separate ", "unfasten ", "unfix ", "unlink ", "untie "]}

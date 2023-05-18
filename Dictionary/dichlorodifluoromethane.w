@@ -1,0 +1,1 @@
+{"index": 84791, "D": "a colorless, slightly water-soluble, nonflammable gas, CCl2F2, that boils at \u221229\u00b0C", "S": [], "A": []}

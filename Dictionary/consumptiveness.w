@@ -1,0 +1,1 @@
+{"index": 67224, "D": "tending to consume; destructive; wasteful. ", "S": [], "A": []}

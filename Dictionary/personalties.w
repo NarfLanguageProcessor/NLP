@@ -1,0 +1,1 @@
+{"index": 231977, "D": "personal estate or property.", "S": [], "A": []}

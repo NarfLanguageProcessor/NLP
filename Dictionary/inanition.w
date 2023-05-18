@@ -1,0 +1,1 @@
+{"index": 149458, "D": "exhaustion from lack of nourishment; starvation. ", "S": ["desolation ", "vacuum "], "A": ["closure "]}

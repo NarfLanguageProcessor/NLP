@@ -1,0 +1,1 @@
+{"index": 5438, "D": "characterized by or causing pain, distress, or grief; distressing.", "S": [], "A": []}

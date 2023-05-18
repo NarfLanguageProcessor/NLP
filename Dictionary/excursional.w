@@ -1,0 +1,1 @@
+{"index": 106885, "D": "a short trip or outing to some place, usually for a special purpose and with the intention of a prompt return", "S": ["straying "], "A": []}

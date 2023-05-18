@@ -1,0 +1,1 @@
+{"index": 330652, "D": "pertaining to a molecule containing three substituents.", "S": [], "A": []}

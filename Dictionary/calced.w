@@ -1,0 +1,1 @@
+{"index": 44845, "D": "(chiefly of members of certain religious orders) wearing shoes; shod.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159238, "D": "of or relating to equal intensity of earthquake shock", "S": [], "A": []}

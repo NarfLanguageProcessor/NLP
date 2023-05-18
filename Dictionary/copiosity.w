@@ -1,0 +1,1 @@
+{"index": 68537, "D": "large in quantity or number; abundant; plentiful", "S": ["attrition "], "A": ["conciseness ", "lack "]}

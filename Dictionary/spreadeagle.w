@@ -1,0 +1,1 @@
+{"index": 301219, "D": "a representation of an eagle with outspread wings", "S": ["amble ", "digress ", "meander ", "roam ", "saunter ", "straggle ", "stroll ", "traipse ", "zigzag "], "A": ["run ", "join ", "stay ", "straighten "]}

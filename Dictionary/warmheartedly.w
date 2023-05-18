@@ -1,0 +1,1 @@
+{"index": 362688, "D": "having or showing sympathy, affection, kindness, cordiality, etc.", "S": ["affectionately ", "appreciatively ", "kindly ", "warmly "], "A": []}

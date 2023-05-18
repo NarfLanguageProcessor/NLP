@@ -1,0 +1,1 @@
+{"index": 157369, "D": "in or on, or with reference to, the inside or inner part; internally.", "S": ["internally ", "within "], "A": ["outwardly "]}

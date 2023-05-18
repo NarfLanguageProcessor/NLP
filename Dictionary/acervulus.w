@@ -1,0 +1,1 @@
+{"index": 1981, "D": "(in certain fungi) an asexual fruiting body consisting of a mat of hyphae that give rise to short-stalked conidiophores.", "S": ["arenaceous "], "A": []}

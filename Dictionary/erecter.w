@@ -1,0 +1,1 @@
+{"index": 103522, "D": "a person or thing that erects. ", "S": [], "A": []}

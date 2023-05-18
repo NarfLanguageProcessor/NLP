@@ -1,0 +1,1 @@
+{"index": 81914, "D": "a dimension taken through an object or body of material, usually downward from an upper surface, horizontally inward from an outer surface, or from top to bottom of something regarded as one of several layers.", "S": ["desultory ", "offhand ", "perfunctory ", "random ", "sketchy ", "superficial "], "A": ["careful ", "detailed "]}

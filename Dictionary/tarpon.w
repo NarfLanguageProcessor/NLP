@@ -1,0 +1,1 @@
+{"index": 316676, "D": "a large, powerful game fish, Megalops atlantica, inhabiting the warmer waters of the Atlantic Ocean, having a compressed body and large, silvery scales.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29196, "D": "a showy, usually cheap, ornament; trinket; gewgaw.", "S": ["knickknack ", "trinket "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 33842, "D": "produced with the lips close together or touching", "S": [], "A": []}

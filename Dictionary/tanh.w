@@ -1,0 +1,1 @@
+{"index": 316100, "D": "hyperbolic tangent.", "S": [], "A": []}

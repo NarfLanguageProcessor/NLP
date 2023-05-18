@@ -1,0 +1,1 @@
+{"index": 247690, "D": "a person or thing that gains. ", "S": [], "A": []}

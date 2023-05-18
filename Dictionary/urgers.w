@@ -1,0 +1,1 @@
+{"index": 355619, "D": "a person or thing that urges.", "S": [], "A": []}

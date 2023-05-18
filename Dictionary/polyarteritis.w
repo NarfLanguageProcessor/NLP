@@ -1,0 +1,1 @@
+{"index": 241636, "D": "inflammation of the layers of an artery or of many arteries, usually caused by a severe hypersensitivity reaction, and characterized by nodules and hemorrhage along the involved vessels.", "S": [], "A": []}

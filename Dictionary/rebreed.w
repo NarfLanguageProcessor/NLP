@@ -1,0 +1,1 @@
+{"index": 262415, "D": "to produce (offspring); procreate; engender.", "S": [], "A": []}

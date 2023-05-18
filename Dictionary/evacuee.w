@@ -1,0 +1,1 @@
+{"index": 105937, "D": "a person who is withdrawn or removed from a place of danger, a disaster area, etc.", "S": ["alien ", "colonist ", "displaced person ", "expatriate ", "migrant ", "pilgrim ", "refugee ", "traveler "], "A": ["nationalist ", "native "]}

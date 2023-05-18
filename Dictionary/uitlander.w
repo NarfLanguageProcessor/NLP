@@ -1,0 +1,1 @@
+{"index": 333698, "D": "a foreigner, especially a British settler in the Boer republics prior to the formation of the Union of South Africa.", "S": [], "A": []}

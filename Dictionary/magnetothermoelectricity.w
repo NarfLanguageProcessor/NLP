@@ -1,0 +1,1 @@
+{"index": 177581, "D": "thermoelectricity  induced or affected by a magnetic field.", "S": [], "A": []}

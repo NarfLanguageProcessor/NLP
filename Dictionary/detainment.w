@@ -1,0 +1,1 @@
+{"index": 83088, "D": "the condition of being under restraint or in custody; imprisonment", "S": ["confinement ", "custody ", "hold ", "holding ", "imprisonment "], "A": ["freedom ", "liberation ", "liberty ", "release "]}

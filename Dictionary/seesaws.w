@@ -1,0 +1,1 @@
+{"index": 283179, "D": "a recreation in which two children alternately ride up and down while seated at opposite ends of a plank balanced at the middle.", "S": ["fluctuate ", "teeter ", "vacillate ", "waver "], "A": ["remain ", "stay "]}

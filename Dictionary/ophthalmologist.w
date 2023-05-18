@@ -1,0 +1,1 @@
+{"index": 213457, "D": "a doctor of medicine specializing in ophthalmology. ", "S": ["optometrist "], "A": []}

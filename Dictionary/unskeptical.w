@@ -1,0 +1,1 @@
+{"index": 351286, "D": "inclined to skepticism;  having an attitude of doubt", "S": ["foolish ", "unsophisticated ", "unsuspecting ", "wide-eyed "], "A": ["astute ", "discerning ", "knowledgeable ", "perceptive ", "suspicious ", "unbelieving ", "untrusting ", "wise "]}

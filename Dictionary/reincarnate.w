@@ -1,0 +1,1 @@
+{"index": 266186, "D": "to give another body to; incarnate  again.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259955, "D": "a loose overcoat with raglan sleeves.", "S": ["parka ", "raincoat "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288436, "D": "a person who serves with another on the same vessel.", "S": ["bluejacket ", "boater ", "cadet ", "diver ", "jack-tar ", "lascar ", "marine ", "mariner ", "mate ", "middy ", "navigator ", "pilot ", "pirate ", "salt ", "seafarer ", "seaman ", "swab ", "tar ", "tarpaulin ", "windjammer "], "A": []}

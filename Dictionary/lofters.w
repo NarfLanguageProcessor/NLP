@@ -1,0 +1,1 @@
+{"index": 174536, "D": "a club whose head has a sloped face, for lofting the ball.", "S": [], "A": []}

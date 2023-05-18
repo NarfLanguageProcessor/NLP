@@ -1,0 +1,1 @@
+{"index": 252096, "D": "pertaining or belonging to the proletariat. ", "S": ["commonalty ", "commoner ", "peasant ", "pleb ", "plebe ", "proletarian "], "A": ["aristocrat ", "noble ", "patrician ", "rich ", "wealthy "]}

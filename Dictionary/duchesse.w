@@ -1,0 +1,1 @@
+{"index": 93730, "D": "a daybed having a rounded, partially enclosed head and usually a similar foot, sometimes made in two or three pieces able to be used separately (duchesse bris\u00e9e ).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226699, "D": "a writer of parodies,  especially of a literary subject, work, or style.", "S": ["mime "], "A": ["fan "]}

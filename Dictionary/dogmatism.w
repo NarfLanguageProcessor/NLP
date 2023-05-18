@@ -1,0 +1,1 @@
+{"index": 90959, "D": "dogmatic  character; unfounded positiveness in matters of opinion; arrogant assertion of opinions as truths.", "S": ["bias ", "discrimination ", "fanaticism ", "injustice ", "racism ", "sexism ", "unfairness "], "A": ["fairness ", "impartiality "]}

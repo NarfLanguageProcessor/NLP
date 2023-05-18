@@ -1,0 +1,1 @@
+{"index": 11815, "D": "not alphabetic", "S": [], "A": []}

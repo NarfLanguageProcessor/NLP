@@ -1,0 +1,1 @@
+{"index": 192527, "D": "to change into or pronounce as a monophthong. ", "S": [], "A": []}

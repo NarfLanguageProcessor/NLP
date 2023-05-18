@@ -1,0 +1,1 @@
+{"index": 89139, "D": "a person or thing that disposes. ", "S": [], "A": []}

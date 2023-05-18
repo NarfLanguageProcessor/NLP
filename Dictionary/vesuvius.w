@@ -1,0 +1,1 @@
+{"index": 359133, "D": "an active volcano in SW Italy, near Naples. Its eruption destroyed the ancient cities of Pompeii and Herculaneum a.d. 79. About 3,900 feet (1,190 meters).", "S": [], "A": []}

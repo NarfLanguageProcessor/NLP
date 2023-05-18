@@ -1,0 +1,1 @@
+{"index": 180333, "D": "damaged or spoiled to a certain extent; made less perfect, attractive, useful, etc.", "S": ["broken ", "damaged ", "deformed ", "handicapped ", "harmed ", "impaired ", "mangled ", "paralyzed "], "A": ["OK ", "fixed ", "perfect ", "unbroken ", "working ", "able ", "capable "]}

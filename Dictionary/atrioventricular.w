@@ -1,0 +1,1 @@
+{"index": 22860, "D": "of or relating to the atria and ventricles of the heart. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7904, "D": "a malt beverage, darker, heavier, and more bitter than beer, containing about 6 percent alcohol by volume.", "S": ["brew ", "malt ", "suds "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96581, "D": "an abrupt, exclamatory utterance.", "S": ["climax ", "copulation ", "discharge ", "emanation ", "emission ", "secretion "], "A": []}

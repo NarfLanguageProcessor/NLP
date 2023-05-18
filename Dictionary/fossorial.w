@@ -1,0 +1,1 @@
+{"index": 117839, "D": "digging or burrowing.", "S": [], "A": []}

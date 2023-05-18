@@ -1,0 +1,1 @@
+{"index": 17882, "D": "the act of placing together or bringing into proximity; juxtaposition.", "S": [], "A": []}

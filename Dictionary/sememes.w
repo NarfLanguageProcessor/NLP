@@ -1,0 +1,1 @@
+{"index": 283680, "D": "the meaning of a morpheme.", "S": [], "A": []}

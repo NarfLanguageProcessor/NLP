@@ -1,0 +1,1 @@
+{"index": 200744, "D": "of or relating to the mind.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27558, "D": "a city in S California, near Los Angeles.", "S": ["ban ", "embargo ", "forbidding ", "interdict ", "interdiction ", "prohibition ", "proscription ", "restriction "], "A": ["allowance ", "permission "]}

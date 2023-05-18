@@ -1,0 +1,1 @@
+{"index": 320392, "D": "strict adherence to a text, especially of the Scriptures.", "S": [], "A": []}

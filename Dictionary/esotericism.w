@@ -1,0 +1,1 @@
+{"index": 104366, "D": "the state or quality of being esoteric. ", "S": ["newness ", "weirdness "], "A": ["normality ", "standard ", "usualness "]}

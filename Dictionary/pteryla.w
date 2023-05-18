@@ -1,0 +1,1 @@
+{"index": 255722, "D": "one of the feathered areas on the skin of a bird.", "S": [], "A": []}

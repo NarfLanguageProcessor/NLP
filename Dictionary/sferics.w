@@ -1,0 +1,1 @@
+{"index": 286968, "D": "electronic equipment for determining the position of storms by locating their accompanying atmospherics.", "S": [], "A": []}

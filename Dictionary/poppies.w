@@ -1,0 +1,1 @@
+{"index": 243279, "D": "Compare poppy family. ", "S": ["drug ", "heroin ", "morphine ", "opiate "], "A": []}

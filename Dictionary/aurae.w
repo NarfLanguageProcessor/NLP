@@ -1,0 +1,1 @@
+{"index": 23500, "D": "a distinctive and pervasive quality or character; air; atmosphere", "S": [], "A": []}

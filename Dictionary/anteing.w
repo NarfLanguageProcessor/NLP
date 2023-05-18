@@ -1,0 +1,1 @@
+{"index": 14140, "D": "a fixed but arbitrary stake put into the pot by each player before the deal.", "S": ["pony up ", "speculate ", "wager "], "A": ["displace ", "remove "]}

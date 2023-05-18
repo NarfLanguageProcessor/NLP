@@ -1,0 +1,1 @@
+{"index": 6194, "D": "a premium on money in exchange.", "S": [], "A": []}

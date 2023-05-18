@@ -1,0 +1,1 @@
+{"index": 78257, "D": "in a way that tends to mislead or give a false impression", "S": ["ably ", "adroitly ", "artfully ", "carefully ", "cleverly ", "coolly ", "deftly ", "deliberately ", "intelligently ", "judiciously ", "keenly ", "knowingly ", "skillfully ", "slyly ", "smartly "], "A": []}

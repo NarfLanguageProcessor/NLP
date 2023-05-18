@@ -1,0 +1,1 @@
+{"index": 79595, "D": "to remove the glaze  from (porcelain or the like), so as to impart a dull finish.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247394, "D": "to arouse or stir up the emotions or feelings of", "S": [], "A": []}

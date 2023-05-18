@@ -1,0 +1,1 @@
+{"index": 43438, "D": "a pit viper, Lachesis muta, of tropical America, that grows to a length of 12 feet (3.6 meters).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203394, "D": "extraordinary in some bad way; glaring; flagrant", "S": [], "A": []}

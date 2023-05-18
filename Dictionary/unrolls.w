@@ -1,0 +1,1 @@
+{"index": 350050, "D": "to open or spread out (something rolled or coiled)", "S": ["present ", "reveal ", "uncover "], "A": ["conceal ", "cover ", "hide ", "suppress "]}

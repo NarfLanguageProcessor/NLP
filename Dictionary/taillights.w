@@ -1,0 +1,1 @@
+{"index": 315373, "D": "a light,  usually red, at the rear of an automobile, train, etc.", "S": [], "A": []}

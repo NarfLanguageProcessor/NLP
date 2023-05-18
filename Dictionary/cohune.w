@@ -1,0 +1,1 @@
+{"index": 62421, "D": "a pinnate-leaved palm, Orbignya cohune, native to Central America, bearing large nuts whose meat yields an oil resembling that of the coconut.", "S": [], "A": []}

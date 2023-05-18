@@ -1,0 +1,1 @@
+{"index": 273221, "D": [], "S": ["insult ", "offend ", "persecute ", "revile "], "A": ["compliment ", "approve ", "exalt ", "flatter ", "laud ", "praise "]}

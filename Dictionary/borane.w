@@ -1,0 +1,1 @@
+{"index": 38334, "D": "any of the compounds, both neutral and anionic, of boron and hydrogen with formulas ranging from B2H6 to B20H16.", "S": [], "A": []}

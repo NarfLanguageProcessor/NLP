@@ -1,0 +1,1 @@
+{"index": 216883, "D": "an expending or spending, as of money.", "S": ["disburse ", "expend ", "give ", "invest ", "lend ", "outlay ", "pay ", "put out ", "put up ", "shell out "], "A": ["hoard ", "neglect ", "save "]}

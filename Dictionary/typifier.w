@@ -1,0 +1,1 @@
+{"index": 324294, "D": "to serve as a typical  example of; exemplify.", "S": [], "A": []}

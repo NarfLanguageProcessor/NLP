@@ -1,0 +1,1 @@
+{"index": 276528, "D": "interaction, especially sexual activity, in which one person enjoys inflicting physical or mental suffering on another person, who derives pleasure from experiencing pain.", "S": [], "A": []}

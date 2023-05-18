@@ -1,0 +1,1 @@
+{"index": 295274, "D": "of or relating to snakes. ", "S": ["anfractuous ", "convoluted ", "entwined ", "flexuous ", "indirect ", "meandering ", "meandrous ", "serpentine ", "sinuous ", "tortuous ", "twisted ", "twisting ", "writhing ", "zigzag "], "A": ["forthright ", "honest ", "straight ", "unwinding ", "upfront "]}

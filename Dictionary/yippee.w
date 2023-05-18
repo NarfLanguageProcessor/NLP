@@ -1,0 +1,1 @@
+{"index": 147163, "D": "(an exclamation used to express joy, exultation, or the like.)", "S": ["cheer ", "encouragement ", "whoopee ", "yay ", "yell "], "A": []}

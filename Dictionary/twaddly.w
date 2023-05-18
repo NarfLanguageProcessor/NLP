@@ -1,0 +1,1 @@
+{"index": 333149, "D": "trivial, feeble, silly, or tedious talk or writing.", "S": [], "A": []}

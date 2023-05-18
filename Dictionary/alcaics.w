@@ -1,0 +1,1 @@
+{"index": 7584, "D": "pertaining to Alcaeus or to certain meters or a form of strophe or stanza used by, or named after, him.", "S": [], "A": []}

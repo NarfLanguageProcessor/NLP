@@ -1,0 +1,1 @@
+{"index": 315506, "D": "to get into one's hold or possession by voluntary action", "S": ["bloodsucker ", "bootlicker ", "deadbeat ", "flunky ", "freeloader ", "groupie ", "hanger-on ", "idler ", "leech ", "scrounger ", "sponge ", "stooge ", "sucker ", "sycophant "], "A": []}

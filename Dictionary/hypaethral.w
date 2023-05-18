@@ -1,0 +1,1 @@
+{"index": 139789, "D": "(esp of a classical temple) having no roof", "S": [], "A": []}

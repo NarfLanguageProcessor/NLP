@@ -1,0 +1,1 @@
+{"index": 19591, "D": "to present reasons for or against a thing", "S": ["contend ", "disagree ", "dispute ", "quarrel ", "quibble ", "squabble "], "A": ["agree ", "concur ", "give in ", "make peace "]}

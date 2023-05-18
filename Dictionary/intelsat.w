@@ -1,0 +1,1 @@
+{"index": 154306, "D": "a global communications satellite network under international control.", "S": [], "A": []}

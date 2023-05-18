@@ -1,0 +1,1 @@
+{"index": 350173, "D": "of, relating to, or living in the country, as distinguished from towns or cities; rural.", "S": [], "A": []}

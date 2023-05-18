@@ -1,0 +1,1 @@
+{"index": 57144, "D": "the development or intensification of a cyclone,  usually in simultaneous occurrence with a decrease in atmospheric pressure", "S": [], "A": []}

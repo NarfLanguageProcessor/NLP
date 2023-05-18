@@ -1,0 +1,1 @@
+{"index": 332167, "D": "a small, powerful boat  for towing or pushing ships, barges, etc.", "S": [], "A": []}

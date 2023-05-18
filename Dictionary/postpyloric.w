@@ -1,0 +1,1 @@
+{"index": 244396, "D": "the opening between the stomach and the duodenum.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 105330, "D": "Greek geometrician and educator at Alexandria.", "S": [], "A": []}

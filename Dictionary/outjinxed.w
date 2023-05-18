@@ -1,0 +1,1 @@
+{"index": 216844, "D": "a person, thing, or influence supposed to bring bad luck.", "S": [], "A": []}

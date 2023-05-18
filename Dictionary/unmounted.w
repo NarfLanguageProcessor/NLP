@@ -1,0 +1,1 @@
+{"index": 346629, "D": "seated or riding on a horse or other animal.", "S": [], "A": []}

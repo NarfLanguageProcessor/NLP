@@ -1,0 +1,1 @@
+{"index": 204408, "D": "a person whose life is devoted to the pursuit of pleasure and self-gratification.", "S": [], "A": []}

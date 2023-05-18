@@ -1,0 +1,1 @@
+{"index": 130415, "D": "a simple past tense and past participle of grow. ", "S": [], "A": []}

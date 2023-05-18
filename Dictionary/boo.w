@@ -1,0 +1,1 @@
+{"index": 37990, "D": "(used to express contempt or disapprobation or to startle or frighten).", "S": ["heckle ", "hiss ", "holler ", "hoot ", "jeer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321239, "D": "for or in exchange for that or this; for it", "S": [], "A": []}

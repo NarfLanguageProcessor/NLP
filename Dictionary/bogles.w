@@ -1,0 +1,1 @@
+{"index": 37333, "D": "a bogy; specter.", "S": ["apparition ", "bogey ", "bogeyman ", "boggle ", "bogyman ", "boogeyman ", "boogieman ", "bugaboo ", "bugbear ", "eidolon ", "evil spirit ", "goblin ", "hobgoblin ", "monster ", "phantasm ", "phantasma ", "phantom ", "specter ", "spirit ", "spook ", "visitant ", "wraith "], "A": []}

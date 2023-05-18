@@ -1,0 +1,1 @@
+{"index": 278616, "D": "a member of a dynasty that ruled in Persia a.d. 226\u2013651.", "S": [], "A": []}

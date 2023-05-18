@@ -1,0 +1,1 @@
+{"index": 29786, "D": "a small songbird, especially the European garden warbler, Silvia hortensis, eaten as a delicacy in France and the Mediterranean region.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 356794, "D": "the act or process of maintaining the price of something, usually through government action", "S": [], "A": []}

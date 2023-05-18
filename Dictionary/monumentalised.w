@@ -1,0 +1,1 @@
+{"index": 192956, "D": "to establish an enduring memorial or record of.", "S": [], "A": []}

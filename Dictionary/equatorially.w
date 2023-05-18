@@ -1,0 +1,1 @@
+{"index": 103203, "D": "of, relating to, or near an equator,  especially the equator of the earth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226271, "D": "to make extremely, excessively, or completely dry, as heat, sun, and wind do.", "S": ["blazing ", "boiling ", "heated ", "humid ", "red ", "scorching ", "sizzling ", "sultry ", "sweltering ", "torrid ", "tropical ", "warm ", "white "], "A": ["arctic ", "cold ", "cool ", "dry ", "freezing ", "frigid "]}

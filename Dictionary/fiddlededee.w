@@ -1,0 +1,1 @@
+{"index": 112224, "D": "(used to express irritation, dismissive indifference, or scorn.)", "S": [], "A": []}

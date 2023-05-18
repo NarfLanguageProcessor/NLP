@@ -1,0 +1,1 @@
+{"index": 315059, "D": "understood without being openly expressed; implied", "S": [], "A": []}

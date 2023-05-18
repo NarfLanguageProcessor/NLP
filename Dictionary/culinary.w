@@ -1,0 +1,1 @@
+{"index": 74723, "D": "of, relating to, or used in cooking or the kitchen.", "S": ["comestible ", "delicious ", "dietary ", "edible ", "fit ", "good ", "kosher ", "safe ", "savory ", "succulent "], "A": ["disagreeable ", "distasteful ", "harmful ", "inadequate ", "poisonous ", "unpleasant ", "unsuitable "]}

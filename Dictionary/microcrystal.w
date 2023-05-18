@@ -1,0 +1,1 @@
+{"index": 186060, "D": "a microscopic crystal. ", "S": [], "A": []}

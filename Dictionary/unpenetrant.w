@@ -1,0 +1,1 @@
+{"index": 347640, "D": "a person or thing that penetrates.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 163572, "D": "finely sharpened, as an edge; so shaped as to cut or pierce substances readily", "S": ["pallbearer "], "A": []}

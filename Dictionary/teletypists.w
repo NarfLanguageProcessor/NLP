@@ -1,0 +1,1 @@
+{"index": 318286, "D": "a person who operates a teletypewriter.", "S": [], "A": []}

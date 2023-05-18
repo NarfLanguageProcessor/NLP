@@ -1,0 +1,1 @@
+{"index": 42791, "D": "a connected group; cluster", "S": ["solid ", "tight "], "A": ["empty ", "loose ", "uncrowded ", "unfriendly "]}

@@ -1,0 +1,1 @@
+{"index": 270410, "D": "to separate the grain or seeds from (a cereal plant or the like) by some mechanical means, as by beating with a flail or by the action of a threshing machine. ", "S": [], "A": []}

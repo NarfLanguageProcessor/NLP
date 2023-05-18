@@ -1,0 +1,1 @@
+{"index": 329191, "D": "any of a group of four compounds containing three nitrogen and two carbon atoms arranged in a five-membered ring and having the formula C2H3N3.", "S": [], "A": []}

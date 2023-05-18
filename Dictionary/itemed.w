@@ -1,0 +1,1 @@
+{"index": 159502, "D": "a separate article or particular", "S": [], "A": []}

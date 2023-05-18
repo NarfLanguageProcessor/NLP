@@ -1,0 +1,1 @@
+{"index": 312242, "D": "mental  capacity or endowment", "S": [], "A": []}

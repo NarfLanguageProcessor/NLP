@@ -1,0 +1,1 @@
+{"index": 33547, "D": "(especially in France and North Africa) an impoverished shantytown on the outskirts of a city.", "S": [], "A": []}

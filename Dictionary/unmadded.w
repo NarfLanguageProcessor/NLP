@@ -1,0 +1,1 @@
+{"index": 345889, "D": "mentally disturbed; deranged; insane; demented.", "S": [], "A": []}

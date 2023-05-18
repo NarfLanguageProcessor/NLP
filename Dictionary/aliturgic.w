@@ -1,0 +1,1 @@
+{"index": 8373, "D": "designating those days on which the celebration of certain liturgies, especially the Eucharist, is forbidden.", "S": [], "A": []}

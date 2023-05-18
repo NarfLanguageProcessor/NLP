@@ -1,0 +1,1 @@
+{"index": 344542, "D": "violated, transgressed, or encroached upon, as a regulation, restriction, or right", "S": [], "A": []}

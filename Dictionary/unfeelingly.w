@@ -1,0 +1,1 @@
+{"index": 342117, "D": "not feeling; devoid of feeling; insensible or insensate.", "S": ["calculatedly ", "callously ", "coldheartedly ", "coldly ", "cruelly ", "deliberately ", "dispassionately ", "heartlessly ", "indifferently ", "intentionally ", "premeditatedly ", "ruthlessly ", "unemotionally ", "with full intent "], "A": []}

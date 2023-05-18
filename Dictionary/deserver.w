@@ -1,0 +1,1 @@
+{"index": 82524, "D": "to merit, be qualified for, or have a claim to (reward, assistance, punishment, etc.) because of actions, qualities, or situation", "S": [], "A": []}

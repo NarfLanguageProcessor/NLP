@@ -1,0 +1,1 @@
+{"index": 22314, "D": "of, relating to, or connected with astronomy. ", "S": ["celestially ", "cosmically "], "A": ["especially ", "sometimes ", "specifically "]}

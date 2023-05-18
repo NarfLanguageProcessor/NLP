@@ -1,0 +1,1 @@
+{"index": 13346, "D": "belonging or pertaining to the suborder Anisoptera, comprising the dragonflies.", "S": [], "A": []}

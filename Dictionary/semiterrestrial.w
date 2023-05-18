@@ -1,0 +1,1 @@
+{"index": 285052, "D": "living mostly on land but requiring a moist environment or nearby water, especially as a breeding site", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7610, "D": "the palace of the Moorish kings in Seville, Spain", "S": ["acropolis ", "citadel ", "donjon ", "fastness ", "fort ", "fortification ", "fortress ", "hold ", "keep ", "manor ", "mansion ", "palace ", "peel ", "safehold ", "seat ", "stronghold ", "tower ", "villa "], "A": []}

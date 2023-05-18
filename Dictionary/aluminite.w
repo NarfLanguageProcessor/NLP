@@ -1,0 +1,1 @@
+{"index": 9617, "D": "a mineral, hydrous aluminum sulfate, Al2(SO4)(OH)4\u22c57H2O, occurring in white, chalky masses.", "S": [], "A": []}

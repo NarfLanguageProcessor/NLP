@@ -1,0 +1,1 @@
+{"index": 341557, "D": "vanishing; fading away; fleeting. ", "S": [], "A": []}

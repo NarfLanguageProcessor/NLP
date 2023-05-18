@@ -1,0 +1,1 @@
+{"index": 217560, "D": "the principle of conscious life; the vital principle in humans, animating the body or mediating between body and soul.", "S": [], "A": []}

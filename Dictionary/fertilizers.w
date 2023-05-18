@@ -1,0 +1,1 @@
+{"index": 111616, "D": "any substance used to fertilize  the soil, especially a commercial or chemical manure.", "S": ["manure "], "A": []}

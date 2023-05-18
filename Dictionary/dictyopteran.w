@@ -1,0 +1,1 @@
+{"index": 84996, "D": "any insect of the order Dictyoptera, which comprises the cockroaches and mantises", "S": [], "A": []}

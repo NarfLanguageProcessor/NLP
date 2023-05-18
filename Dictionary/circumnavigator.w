@@ -1,0 +1,1 @@
+{"index": 58180, "D": "to sail or fly around; make the circuit of by navigation", "S": ["bluejacket ", "boater ", "cadet ", "diver ", "jack-tar ", "lascar ", "marine ", "mariner ", "mate ", "middy ", "navigator ", "pilot ", "pirate ", "salt ", "seafarer ", "seaman ", "shipmate ", "swab ", "tar ", "tarpaulin ", "windjammer "], "A": []}

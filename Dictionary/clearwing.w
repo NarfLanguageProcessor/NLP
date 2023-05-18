@@ -1,0 +1,1 @@
+{"index": 59680, "D": "a moth having wings  mostly devoid of scales and transparent, especially any of the family Aegeriidae, many species of which are injurious to plants.", "S": [], "A": []}

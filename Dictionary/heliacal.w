@@ -1,0 +1,1 @@
+{"index": 135465, "D": "pertaining to or occurring near the sun, especially applied to such risings and settings of a star as are most nearly coincident with those of the sun while yet visible.", "S": ["cosmic "], "A": []}

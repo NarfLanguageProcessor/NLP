@@ -1,0 +1,1 @@
+{"index": 232311, "D": "an annoying or troublesome person, animal, or thing; nuisance.", "S": ["animal ", "bugs ", "insects "], "A": []}

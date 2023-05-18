@@ -1,0 +1,1 @@
+{"index": 356931, "D": "English explorer who charted the northwest Pacific coast of North America.", "S": [], "A": []}

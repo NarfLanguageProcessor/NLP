@@ -1,0 +1,1 @@
+{"index": 238711, "D": "the act of reproducing a sound or video recording, especially in order to check a recording that is newly made.", "S": ["convey ", "depict ", "describe ", "detail ", "narrate ", "portray ", "recap ", "recite ", "rehash ", "relate ", "repeat ", "tell "], "A": ["conceal ", "confuse ", "hide ", "misrepresent ", "mix up ", "suppress ", "withhold "]}

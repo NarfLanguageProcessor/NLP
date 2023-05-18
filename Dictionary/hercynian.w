@@ -1,0 +1,1 @@
+{"index": 136959, "D": "denoting a period of mountain building in Europe in the late Palaeozoic", "S": [], "A": []}

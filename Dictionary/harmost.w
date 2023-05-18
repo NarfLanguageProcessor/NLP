@@ -1,0 +1,1 @@
+{"index": 133876, "D": "a person serving the ancient Spartans as governor of a subject or conquered town.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 103045, "D": "a literary or rhetorical device that appeals to or invokes the reader\u2019s or listener\u2019s emotions through the repetition of words or phrases in quick succession, as in \u201cThreaten me all you want, I won\u2019t do it. I won\u2019t! I won\u2019t! I won\u2019t!\u201d", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96650, "D": "a core course of instruction in an elementary or secondary school where students develop listening, speaking, reading, composition, grammar, and spelling skills in English.", "S": [], "A": []}

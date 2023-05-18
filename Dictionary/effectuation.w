@@ -1,0 +1,1 @@
+{"index": 95973, "D": "to bring about; effect. ", "S": ["accomplishment ", "achievement ", "execution ", "performance "], "A": ["defeat ", "failure ", "neglect "]}

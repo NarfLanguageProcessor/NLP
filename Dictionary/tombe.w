@@ -1,0 +1,1 @@
+{"index": 325396, "D": "a step in which a dancer falls from one leg to the other, landing with all the weight on the foot that has just moved, while flexing the knee.", "S": [], "A": []}

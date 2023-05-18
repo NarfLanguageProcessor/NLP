@@ -1,0 +1,1 @@
+{"index": 102702, "D": "a calcified or membranous septum produced by certain land snails during hibernation and functioning to cover the shell opening and prevent desiccation.", "S": [], "A": []}

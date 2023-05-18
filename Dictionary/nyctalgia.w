@@ -1,0 +1,1 @@
+{"index": 199709, "D": "night pain that occurs in the sleep.", "S": [], "A": []}

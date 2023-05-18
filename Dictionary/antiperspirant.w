@@ -1,0 +1,1 @@
+{"index": 15829, "D": "an astringent preparation for reducing perspiration, usually containing aluminum or zirconium and used to prevent body odor and clothing stains.", "S": ["cleanser ", "cosmetic ", "disinfectant "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 292051, "D": "of, pertaining to, proceeding by, or involving synthesis (opposed to analytic).", "S": ["synthetic "], "A": []}

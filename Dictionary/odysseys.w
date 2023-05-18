@@ -1,0 +1,1 @@
+{"index": 211256, "D": "an epic poem attributed to Homer, describing Odysseus's adventures in his ten-year attempt to return home to Ithaca after the Trojan War.", "S": ["adventure ", "excursion ", "expedition ", "exploration ", "pilgrimage ", "quest ", "sojourn ", "trek "], "A": []}

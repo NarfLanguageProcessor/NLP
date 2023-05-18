@@ -1,0 +1,1 @@
+{"index": 179258, "D": "a person who gives manicures. ", "S": [], "A": []}

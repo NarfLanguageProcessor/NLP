@@ -1,0 +1,1 @@
+{"index": 353158, "D": "strong and durable; not easily broken or cut.", "S": [], "A": []}

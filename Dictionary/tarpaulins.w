@@ -1,0 +1,1 @@
+{"index": 316673, "D": "a protective covering of canvas or other material waterproofed with tar, paint, or wax.", "S": ["canvas ", "coat ", "cover ", "oilcloth ", "sailcloth "], "A": []}

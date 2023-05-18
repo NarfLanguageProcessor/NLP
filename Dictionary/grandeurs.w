@@ -1,0 +1,1 @@
+{"index": 128823, "D": "the quality or state of being impressive or awesome", "S": ["beauty ", "breadth ", "brilliance ", "dignity ", "glory ", "grandiosity ", "gravity ", "greatness ", "magnificence ", "majesty ", "nobility ", "opulence ", "pomp ", "richness ", "splendor ", "vastness "], "A": ["dullness ", "insignificance ", "simplicity ", "ugliness ", "unimportance "]}

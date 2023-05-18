@@ -1,0 +1,1 @@
+{"index": 67336, "D": "during the same time period", "S": ["all at once ", "all together ", "jointly ", "simultaneously ", "synchronously ", "unitedly "], "A": []}

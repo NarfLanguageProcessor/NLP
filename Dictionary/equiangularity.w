@@ -1,0 +1,1 @@
+{"index": 103222, "D": "having all the angles equal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294308, "D": "to hit hard, as in boxing or cricket; slug.", "S": [], "A": []}

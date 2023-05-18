@@ -1,0 +1,1 @@
+{"index": 138372, "D": "to conceal from sight; prevent from being seen or discovered", "S": ["bury ", "camouflage ", "cover ", "disguise ", "hole up ", "mask ", "obscure ", "plant ", "protect ", "shelter ", "shield ", "smuggle ", "stash ", "suppress ", "tuck away ", "withhold "], "A": ["lay bare ", "let go ", "open ", "release ", "reveal ", "uncover ", "unmask "]}

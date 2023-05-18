@@ -1,0 +1,1 @@
+{"index": 190063, "D": "the theological study of the mission  of the church, especially the character and purpose of missionary work.", "S": [], "A": []}

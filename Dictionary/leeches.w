@@ -1,0 +1,1 @@
+{"index": 169921, "D": "any bloodsucking or carnivorous aquatic or terrestrial worm of the class Hirudinea, certain freshwater species of which were formerly much used in medicine for bloodletting.", "S": ["barnacle ", "bloodsucker ", "bum ", "freeloader ", "scrounger ", "sponge ", "sycophant "], "A": []}

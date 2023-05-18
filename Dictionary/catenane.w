@@ -1,0 +1,1 @@
+{"index": 49559, "D": "any of the class of chemical compounds containing two or more rings that are interlocked without being bonded chemically.", "S": [], "A": []}

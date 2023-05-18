@@ -1,0 +1,1 @@
+{"index": 156233, "D": "to work  or weave together; interweave.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250930, "D": "(in ancient Greek comedy) a disputatious exchange, sometimes of a slapstick nature, between the chorus and the characters, or among the characters themselves, usually following the parodos and preceding the agon.", "S": [], "A": []}

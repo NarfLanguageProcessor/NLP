@@ -1,0 +1,1 @@
+{"index": 203627, "D": "characterized by great knowledge; learned or scholarly", "S": [], "A": []}

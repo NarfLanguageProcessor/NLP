@@ -1,0 +1,1 @@
+{"index": 207131, "D": "(of words or language) having little or no meaning; making little or no sense", "S": ["absurdity ", "idiocy ", "irrationality ", "lunacy ", "madness ", "nonsense ", "silliness "], "A": ["sense "]}

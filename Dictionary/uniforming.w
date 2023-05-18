@@ -1,0 +1,1 @@
+{"index": 344138, "D": "identical or consistent, as from example to example, place to place, or moment to moment", "S": ["match "], "A": ["disproportion ", "imbalance ", "vary "]}

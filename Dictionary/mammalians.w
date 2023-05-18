@@ -1,0 +1,1 @@
+{"index": 178763, "D": "an animal of the class Mammalia; mammal.", "S": [], "A": []}

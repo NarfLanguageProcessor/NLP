@@ -1,0 +1,1 @@
+{"index": 181681, "D": "an area or section of land  that is a meadow  or is used or kept as a meadow. ", "S": [], "A": []}

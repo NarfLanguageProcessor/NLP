@@ -1,0 +1,1 @@
+{"index": 68754, "D": "any of various seafood or chicken dishes baked with a sauce and usually served in a scallop shell or a shell-shaped serving dish.", "S": [], "A": []}

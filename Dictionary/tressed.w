@@ -1,0 +1,1 @@
+{"index": 329019, "D": "(of the hair) arranged or formed into tresses;  braided; plaited.", "S": ["crease ", "flute ", "fold ", "interweave ", "knit ", "pigtail ", "plat ", "pleach ", "pleat ", "tress ", "tuck ", "twine ", "weave "], "A": []}

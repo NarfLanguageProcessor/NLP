@@ -1,0 +1,1 @@
+{"index": 156898, "D": "intuitionism. ", "S": [], "A": []}

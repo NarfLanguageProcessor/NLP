@@ -1,0 +1,1 @@
+{"index": 70048, "D": "a theory or story of the origin and development of the universe, the solar system, or the earth-moon system.", "S": [], "A": []}

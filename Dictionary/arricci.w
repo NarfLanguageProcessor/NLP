@@ -1,0 +1,1 @@
+{"index": 20247, "D": "(formerly in fresco painting) a second coat of plaster, somewhat finer than the first coat, applied over the entire surface and on which the drawing for the fresco is done.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 174699, "D": "pathologically incoherent, repetitious speech.", "S": [], "A": []}

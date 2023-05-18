@@ -1,0 +1,1 @@
+{"index": 685, "D": "the fourth or true stomach of cud-chewing animals, lying next to the omasum. ", "S": [], "A": []}

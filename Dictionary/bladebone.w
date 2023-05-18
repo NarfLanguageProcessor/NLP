@@ -1,0 +1,1 @@
+{"index": 35608, "D": "the scapula, or shoulder blade.", "S": [], "A": []}

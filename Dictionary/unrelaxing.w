@@ -1,0 +1,1 @@
+{"index": 349416, "D": "to make less tense, rigid, or firm; make lax", "S": [], "A": []}

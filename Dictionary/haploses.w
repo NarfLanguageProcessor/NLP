@@ -1,0 +1,1 @@
+{"index": 133500, "D": "the production of haploid chromosome groups during meiosis.", "S": [], "A": []}

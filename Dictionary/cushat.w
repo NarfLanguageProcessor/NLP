@@ -1,0 +1,1 @@
+{"index": 75622, "D": "the ringdove, Colomba palumbus.", "S": [], "A": []}

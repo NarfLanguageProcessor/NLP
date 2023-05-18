@@ -1,0 +1,1 @@
+{"index": 331587, "D": "a tropical American tree, Cecropia peltata, of the mulberry family, having hollow, jointed stems and branches used in making certain wind instruments.", "S": [], "A": []}

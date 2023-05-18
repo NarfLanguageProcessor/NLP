@@ -1,0 +1,1 @@
+{"index": 42731, "D": "a variant spelling of boomkin", "S": [], "A": []}

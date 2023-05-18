@@ -1,0 +1,1 @@
+{"index": 263005, "D": "to lean or lie back; rest in a recumbent position.", "S": ["flat ", "leaning ", "loner ", "troglodyte "], "A": ["sitting ", "standing "]}

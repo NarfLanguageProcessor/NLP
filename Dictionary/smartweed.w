@@ -1,0 +1,1 @@
+{"index": 294749, "D": "any of several weeds  of the genus Polygonum, having a smarting,  acrid juice.", "S": [], "A": []}

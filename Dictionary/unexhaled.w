@@ -1,0 +1,1 @@
+{"index": 341703, "D": "to emit breath or vapor; breathe out.", "S": [], "A": []}

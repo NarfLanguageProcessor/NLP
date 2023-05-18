@@ -1,0 +1,1 @@
+{"index": 75079, "D": "a competitor who has won or successfully defended a specific cup,  trophy, championship, etc.; champion.", "S": [], "A": []}

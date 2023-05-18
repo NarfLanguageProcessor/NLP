@@ -1,0 +1,1 @@
+{"index": 127435, "D": "a long-necked container, especially for water, usually of porous earthenware so that its contents are cooled by evaporation.", "S": [], "A": []}

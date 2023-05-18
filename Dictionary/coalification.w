@@ -1,0 +1,1 @@
+{"index": 60985, "D": "the conversion of plant material into coal  by natural processes, as by diagenesis and, in some instances, metamorphism.", "S": [], "A": []}

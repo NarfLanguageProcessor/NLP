@@ -1,0 +1,1 @@
+{"index": 176545, "D": "to put out of joint; dislocate", "S": ["detach ", "dislocate "], "A": []}

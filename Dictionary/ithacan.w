@@ -1,0 +1,1 @@
+{"index": 159540, "D": "of or relating to the Greek island of Ithaca or its inhabitants", "S": [], "A": []}

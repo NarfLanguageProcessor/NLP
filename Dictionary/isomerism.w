@@ -1,0 +1,1 @@
+{"index": 159090, "D": "Compare optical isomerism, stereoisomerism. ", "S": [], "A": []}

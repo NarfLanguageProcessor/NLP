@@ -1,0 +1,1 @@
+{"index": 47343, "D": "a liquid made by cooking sugar until it changes color, used for coloring and flavoring food.", "S": ["caramel ", "confetti ", "cream ", "dainty ", "sweet "], "A": []}

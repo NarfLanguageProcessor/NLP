@@ -1,0 +1,1 @@
+{"index": 92369, "D": "to be able.", "S": ["Big Board ", "DJIA ", "Dow ", "Dow Jones' Average ", "Dow Thirty ", "the Big Board ", "the Dow "], "A": []}

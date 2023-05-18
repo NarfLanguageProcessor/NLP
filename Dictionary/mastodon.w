@@ -1,0 +1,1 @@
+{"index": 180943, "D": "a massive, elephantlike mammal of the genus Mammut (Mastodon), that flourished worldwide from the Miocene through the Pleistocene epochs and, in North America, into recent times, having long, curved upper tusks and, in the male, short lower tusks.", "S": ["boar "], "A": []}

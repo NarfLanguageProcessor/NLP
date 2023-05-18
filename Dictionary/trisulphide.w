@@ -1,0 +1,1 @@
+{"index": 330667, "D": "any sulphide containing three sulphur atoms per molecule", "S": [], "A": []}

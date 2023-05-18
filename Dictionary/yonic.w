@@ -1,0 +1,1 @@
+{"index": 157633, "D": "relating to or shaped like a yoni,  a representation of the external female genitals as a symbol of Shakti or of female generative power", "S": [], "A": []}

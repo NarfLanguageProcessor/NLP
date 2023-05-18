@@ -1,0 +1,1 @@
+{"index": 184760, "D": "the study of the structure of metals and alloys by means of microscopy.", "S": [], "A": []}

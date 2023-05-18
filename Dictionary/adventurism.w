@@ -1,0 +1,1 @@
+{"index": 4623, "D": "defiance or disregard of accepted standards of behavior.", "S": [], "A": []}

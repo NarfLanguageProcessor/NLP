@@ -1,0 +1,1 @@
+{"index": 41777, "D": "any of various shrubs or small trees belonging to the genus Brunfelsia, of the nightshade family, native to tropical America, having white or purple tubular or bell-shaped flowers.", "S": [], "A": []}

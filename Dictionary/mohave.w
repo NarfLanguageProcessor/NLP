@@ -1,0 +1,1 @@
+{"index": 191268, "D": "a member of a North American Indian tribe belonging to the Yuman linguistic family, formerly located in the Colorado River valley of Arizona and California.", "S": [], "A": []}

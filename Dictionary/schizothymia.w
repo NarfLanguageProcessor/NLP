@@ -1,0 +1,1 @@
+{"index": 280287, "D": "the condition of being schizoid or introverted. It encompasses elements of schizophrenia but does not involve the same depth of psychological disturbance", "S": [], "A": []}

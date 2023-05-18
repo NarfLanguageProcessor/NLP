@@ -1,0 +1,1 @@
+{"index": 262789, "D": [], "S": ["change ", "convert ", "move ", "return ", "shift ", "swing ", "switch ", "transform ", "twist "], "A": ["hold ", "keep ", "persist ", "remain ", "stagnate ", "stay ", "continue ", "develop ", "grow ", "lose ", "progress ", "straighten "]}

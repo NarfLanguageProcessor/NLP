@@ -1,0 +1,1 @@
+{"index": 107672, "D": "a person who has been expelled,  especially one deported from a native or adopted country and resettled in another.", "S": ["DP ", "alien ", "deportee ", "displaced person ", "exile ", "expat ", "expatriate ", "foreigner ", "outlander ", "outsider ", "refugee "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 121576, "D": "an instrument for detecting the existence of an electric current and determining its direction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178058, "D": "a commissioned military officer ranking next below a lieutenant colonel and next above a captain.", "S": [], "A": []}

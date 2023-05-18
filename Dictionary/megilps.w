@@ -1,0 +1,1 @@
+{"index": 182565, "D": "a jellylike vehicle used in oil paints and usually consisting of linseed oil mixed with mastic varnish.", "S": [], "A": []}

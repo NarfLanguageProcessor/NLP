@@ -1,0 +1,1 @@
+{"index": 38536, "D": "a school providing therapy and vocational training for delinquent boys in the United Kingdom and parts of the Commonwealth in the 20th century and continuing to operate in India and some other Commonwealth nations in the 21st century.", "S": ["detention center ", "detention home ", "house of detention ", "reform school ", "reformatory "], "A": []}

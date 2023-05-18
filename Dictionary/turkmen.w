@@ -1,0 +1,1 @@
+{"index": 332754, "D": "the language of the Turkman  people, a Turkic language spoken mostly east of the Caspian Sea in Turkmenistan but also in parts of European Russia, Iran, and the Caucasus.", "S": [], "A": []}

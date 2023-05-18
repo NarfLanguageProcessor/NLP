@@ -1,0 +1,1 @@
+{"index": 265520, "D": "of or relating to a king; royal", "S": [], "A": []}

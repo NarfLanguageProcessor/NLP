@@ -1,0 +1,1 @@
+{"index": 347725, "D": "a magazine or other journal that is issued at regularly recurring intervals.", "S": [], "A": []}

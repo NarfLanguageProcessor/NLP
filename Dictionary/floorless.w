@@ -1,0 +1,1 @@
+{"index": 114944, "D": "that part of a room, hallway, or the like, that forms its lower enclosing surface and upon which one walks.", "S": [], "A": []}

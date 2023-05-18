@@ -1,0 +1,1 @@
+{"index": 360213, "D": "living with or located near the husband's father's group; patrilocal.", "S": [], "A": []}

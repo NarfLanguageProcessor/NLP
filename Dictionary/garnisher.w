@@ -1,0 +1,1 @@
+{"index": 122231, "D": "to provide or supply with something ornamental; adorn; decorate", "S": [], "A": []}

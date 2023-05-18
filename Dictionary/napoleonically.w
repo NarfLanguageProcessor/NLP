@@ -1,0 +1,1 @@
+{"index": 196886, "D": "pertaining to, resembling, or suggestive of Napoleon I,  or, less often, Napoleon III,  or their dynasty", "S": [], "A": []}

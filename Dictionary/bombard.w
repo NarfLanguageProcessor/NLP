@@ -1,0 +1,1 @@
+{"index": 37678, "D": "to attack or batter with artillery fire.", "S": ["barrage ", "batter ", "besiege ", "blast ", "blitz ", "bomb ", "harass ", "hound ", "open fire ", "pester ", "strafe "], "A": ["leave alone "]}

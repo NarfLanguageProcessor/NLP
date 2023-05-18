@@ -1,0 +1,1 @@
+{"index": 184505, "D": "a person, especially a friend, who is a member of a group regularly taking meals together, as in an army camp.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 125384, "D": "a logger who operates on a small budget and typically gleans the timberlands already cut by larger companies.", "S": [], "A": []}

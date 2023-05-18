@@ -1,0 +1,1 @@
+{"index": 219992, "D": [], "S": ["coat ", "exfoliate ", "face ", "flake ", "foil ", "foliate ", "layer ", "plate ", "separate ", "split ", "stratify ", "veneer "], "A": ["combine ", "join ", "uncover "]}

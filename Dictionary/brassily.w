@@ -1,0 +1,1 @@
+{"index": 40037, "D": "made of or covered with brass. ", "S": [], "A": []}

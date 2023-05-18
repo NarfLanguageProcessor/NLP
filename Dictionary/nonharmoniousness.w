@@ -1,0 +1,1 @@
+{"index": 204395, "D": "marked by agreement in feeling, attitude, or action", "S": [], "A": []}

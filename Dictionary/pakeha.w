@@ -1,0 +1,1 @@
+{"index": 223260, "D": "(in New Zealand) a person who is not of M\u0101ori ancestry, esp a White person", "S": [], "A": []}

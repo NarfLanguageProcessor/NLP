@@ -1,0 +1,1 @@
+{"index": 85195, "D": "a frame for holding a number of standard threaded dies  for cutting screw threads.", "S": [], "A": []}

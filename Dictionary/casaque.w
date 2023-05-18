@@ -1,0 +1,1 @@
+{"index": 48744, "D": "a loose-fitting blouse for women.", "S": [], "A": []}

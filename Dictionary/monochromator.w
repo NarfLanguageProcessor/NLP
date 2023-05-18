@@ -1,0 +1,1 @@
+{"index": 192160, "D": "a spectroscope with a slit that can be moved across the spectrum for viewing individual spectral bands.", "S": [], "A": []}

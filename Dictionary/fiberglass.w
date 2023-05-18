@@ -1,0 +1,1 @@
+{"index": 111967, "D": "a material consisting of extremely fine filaments of glass  that are combined in yarn and woven into fabrics, used in masses as a thermal and acoustical insulator, or embedded in various resins to make boat hulls, fishing rods, and the like.", "S": ["filigree glass ", "glass thread "], "A": []}

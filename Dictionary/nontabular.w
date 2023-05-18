@@ -1,0 +1,1 @@
+{"index": 207738, "D": "of, relating to, or arranged in a table  or systematic arrangement by columns, rows, etc., as statistics.", "S": [], "A": []}

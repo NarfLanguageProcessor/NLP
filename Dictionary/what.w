@@ -1,0 +1,1 @@
+{"index": 364443, "D": "(used interrogatively as a request for specific information)", "S": [], "A": []}

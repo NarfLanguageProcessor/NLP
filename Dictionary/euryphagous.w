@@ -1,0 +1,1 @@
+{"index": 105771, "D": "(of an animal) able to subsist on a wide variety of foods.", "S": [], "A": []}

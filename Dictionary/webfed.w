@@ -1,0 +1,1 @@
+{"index": 363668, "D": "(of a printing press) fed by and designed to print a continuous roll of paper.", "S": [], "A": []}

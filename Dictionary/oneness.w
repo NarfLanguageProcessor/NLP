@@ -1,0 +1,1 @@
+{"index": 212746, "D": "the quality of being one;  singleness.", "S": ["individuality ", "unanimity ", "wholeness "], "A": ["difference ", "disagreement ", "discord ", "dissimilarity ", "fighting ", "opposition "]}

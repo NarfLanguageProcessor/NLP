@@ -1,0 +1,1 @@
+{"index": 85230, "D": "a nonsteroidal synthetic estrogen, C18H20O2, used in medicine chiefly in the treatment of menopausal symptoms and for chemical castration", "S": [], "A": []}

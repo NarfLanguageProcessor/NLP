@@ -1,0 +1,1 @@
+{"index": 221501, "D": "open to view or knowledge; not concealed or secret", "S": ["apparent ", "definite ", "undisguised "], "A": ["obscure ", "uncertain ", "unclear "]}

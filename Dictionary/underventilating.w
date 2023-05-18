@@ -1,0 +1,1 @@
+{"index": 340068, "D": "to provide (a room, mine, etc.) with fresh air in place of air that has been used or contaminated.", "S": [], "A": []}

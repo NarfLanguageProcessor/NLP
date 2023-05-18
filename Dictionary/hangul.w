@@ -1,0 +1,1 @@
+{"index": 133366, "D": "the Korean alphabetic writing system, introduced in the 15th century, containing 14 consonants and 11 vowels.", "S": [], "A": []}

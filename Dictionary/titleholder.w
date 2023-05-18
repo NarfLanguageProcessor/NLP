@@ -1,0 +1,1 @@
+{"index": 324728, "D": "a person who holds a title. ", "S": ["challenger ", "champ ", "defender ", "hero ", "medalist ", "number one ", "winner "], "A": ["antagonist ", "enemy ", "loser ", "opponent ", "opposition "]}

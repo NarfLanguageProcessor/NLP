@@ -1,0 +1,1 @@
+{"index": 17440, "D": "any of the early followers of Jesus who carried the Christian message into the world.", "S": ["proponent "], "A": ["enemy "]}

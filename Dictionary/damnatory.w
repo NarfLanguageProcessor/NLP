@@ -1,0 +1,1 @@
+{"index": 76576, "D": "conveying, expressing, or causing condemnation; damning. ", "S": ["incriminating "], "A": []}

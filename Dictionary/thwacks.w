@@ -1,0 +1,1 @@
+{"index": 323105, "D": "to strike or beat vigorously with something flat; whack.", "S": ["bang ", "blow ", "bop ", "drive ", "force ", "knock ", "paddle ", "pound ", "rap ", "smack ", "smite ", "sock ", "strike ", "thrash ", "thump ", "wallop ", "whack "], "A": ["lose ", "praise ", "surrender ", "tap "]}

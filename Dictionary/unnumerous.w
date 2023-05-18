@@ -1,0 +1,1 @@
+{"index": 346977, "D": "very many; being or existing in great quantity", "S": [], "A": []}

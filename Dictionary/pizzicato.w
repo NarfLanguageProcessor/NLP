@@ -1,0 +1,1 @@
+{"index": 238503, "D": "played by plucking the strings with the finger instead of using the bow, as on a violin.", "S": [], "A": []}

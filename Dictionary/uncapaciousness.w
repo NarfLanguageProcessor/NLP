@@ -1,0 +1,1 @@
+{"index": 336469, "D": "capable of holding much; spacious or roomy", "S": [], "A": []}

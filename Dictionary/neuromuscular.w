@@ -1,0 +1,1 @@
+{"index": 199144, "D": "pertaining to or affecting both nerves and muscles.", "S": [], "A": []}

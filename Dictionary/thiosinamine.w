@@ -1,0 +1,1 @@
+{"index": 322020, "D": "a white, crystalline, water-soluble, bitter-tasting powder, C4H8N2S, occurring in mustard oil", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21302, "D": "an African police officer or soldier, especially one serving a colonial administration.", "S": [], "A": []}

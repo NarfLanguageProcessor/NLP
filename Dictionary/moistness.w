@@ -1,0 +1,1 @@
+{"index": 191354, "D": "moderately or slightly wet; damp. ", "S": ["evaporation ", "moisture "], "A": ["aridity ", "dryness "]}

@@ -1,0 +1,1 @@
+{"index": 102103, "D": "a young man, especially an ephebus. ", "S": [], "A": []}

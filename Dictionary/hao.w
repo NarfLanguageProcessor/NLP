@@ -1,0 +1,1 @@
+{"index": 133435, "D": "an aluminum coin and monetary unit of Vietnam, the tenth part of a dong2", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249274, "D": "knowledge of things before they exist or happen; foreknowledge; foresight.", "S": ["foreknowledge ", "presage "], "A": []}

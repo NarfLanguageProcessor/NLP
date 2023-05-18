@@ -1,0 +1,1 @@
+{"index": 25951, "D": "stitching  or a stitch  in which the thread is doubled back  on the preceding stitch.", "S": [], "A": []}

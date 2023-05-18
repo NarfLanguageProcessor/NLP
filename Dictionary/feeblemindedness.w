@@ -1,0 +1,1 @@
+{"index": 110847, "D": "lacking the normal mental powers.", "S": ["absurdity ", "apathy ", "idiocy ", "ignorance ", "lunacy ", "nonsense ", "silliness "], "A": ["intelligence ", "sense "]}

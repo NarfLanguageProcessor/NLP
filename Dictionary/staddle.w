@@ -1,0 +1,1 @@
+{"index": 302245, "D": "the lower part of a stack of hay or the like.", "S": [], "A": []}

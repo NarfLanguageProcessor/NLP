@@ -1,0 +1,1 @@
+{"index": 197328, "D": "nature makes no leap.", "S": ["Dame Nature ", "Great Mother ", "nature "], "A": []}

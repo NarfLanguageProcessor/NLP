@@ -1,0 +1,1 @@
+{"index": 182766, "D": "an organelle in melanocytes that synthesizes and stores melanin.", "S": [], "A": []}

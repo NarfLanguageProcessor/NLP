@@ -1,0 +1,1 @@
+{"index": 49132, "D": "Venezuelan military and political leader", "S": [], "A": []}

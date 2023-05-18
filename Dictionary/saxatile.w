@@ -1,0 +1,1 @@
+{"index": 279214, "D": "living or growing on or among rocks.", "S": [], "A": []}

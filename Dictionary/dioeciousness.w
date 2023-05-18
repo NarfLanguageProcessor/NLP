@@ -1,0 +1,1 @@
+{"index": 86252, "D": "(especially of plants) having the male and female organs in separate and distinct individuals; having separate sexes.", "S": [], "A": []}

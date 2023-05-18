@@ -1,0 +1,1 @@
+{"index": 225490, "D": "an exercise or sequence performed typically on the snare drum, marked by four basic beats with alternation of the right hand and left hand on successive strong beats, and begun and ended slowly with a dramatic increase in tempo in the middle.", "S": [], "A": []}

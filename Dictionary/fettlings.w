@@ -1,0 +1,1 @@
+{"index": 111810, "D": "the material with which the hearth of a puddling furnace is lined, usually a dolomite or refractory mixture.", "S": [], "A": []}

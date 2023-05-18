@@ -1,0 +1,1 @@
+{"index": 149206, "D": "of, relating to, or characteristic of an improvisation or improvisator.", "S": [], "A": []}

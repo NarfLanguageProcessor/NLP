@@ -1,0 +1,1 @@
+{"index": 118689, "D": "(of temperatures) approaching, at, or below the freezing point. ", "S": [], "A": []}

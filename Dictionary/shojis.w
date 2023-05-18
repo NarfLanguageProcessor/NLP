@@ -1,0 +1,1 @@
+{"index": 288746, "D": "a light screen consisting of a framework of wood covered with paper or other translucent material, used originally in Japanese homes as one of a series of sliding panels between the interior and exterior or between two interior spaces.", "S": [], "A": []}

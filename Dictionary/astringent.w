@@ -1,0 +1,1 @@
+{"index": 22214, "D": "contracting; constrictive; styptic.", "S": ["bitter ", "cutting ", "sharp ", "tonic "], "A": ["bland ", "kind ", "mild ", "nice ", "pleasant "]}

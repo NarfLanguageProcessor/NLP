@@ -1,0 +1,1 @@
+{"index": 48144, "D": "a supporter of the claims of Don Carlos of Spain or of his successors to the Spanish throne.", "S": [], "A": []}

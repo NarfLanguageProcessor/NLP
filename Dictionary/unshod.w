@@ -1,0 +1,1 @@
+{"index": 351022, "D": "a simple past tense and past participle of shoe. ", "S": ["barefooted "], "A": ["shod "]}

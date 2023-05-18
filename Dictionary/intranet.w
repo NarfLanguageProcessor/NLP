@@ -1,0 +1,1 @@
+{"index": 156551, "D": "a computer network with restricted access, as within a company, that uses software and protocols developed for the internet.", "S": [], "A": []}

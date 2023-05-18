@@ -1,0 +1,1 @@
+{"index": 31780, "D": "a colorless crystalline compound, C7H6N2, used in organic synthesis.", "S": [], "A": []}

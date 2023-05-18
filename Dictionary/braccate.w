@@ -1,0 +1,1 @@
+{"index": 39347, "D": "(of birds) having feathered legs", "S": [], "A": []}

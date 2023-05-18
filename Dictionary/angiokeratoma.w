@@ -1,0 +1,1 @@
+{"index": 12777, "D": "a skin disease characterized by clusters of dilated blood vessels and by thickened skin, forming warty growths, especially on the scrotum, fingers, and toes.", "S": [], "A": []}

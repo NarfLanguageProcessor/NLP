@@ -1,0 +1,1 @@
+{"index": 194652, "D": "to blast (a rock) with an explosive attached to it with a capping  of clay.", "S": [], "A": []}

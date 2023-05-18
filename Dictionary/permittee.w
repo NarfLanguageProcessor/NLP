@@ -1,0 +1,1 @@
+{"index": 231623, "D": "to allow to do something", "S": [], "A": []}

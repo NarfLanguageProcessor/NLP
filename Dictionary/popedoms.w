@@ -1,0 +1,1 @@
+{"index": 243202, "D": "the office or dignity of a pope.", "S": ["pontiff "], "A": []}

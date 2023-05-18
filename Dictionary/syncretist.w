@@ -1,0 +1,1 @@
+{"index": 291482, "D": "the attempted reconciliation or union of different or opposing principles, practices, or parties, as in philosophy or religion.", "S": [], "A": []}

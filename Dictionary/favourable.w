@@ -1,0 +1,1 @@
+{"index": 110522, "D": "advantageous, encouraging, or promising", "S": ["agreeable ", "benign ", "encouraging ", "positive ", "supportive ", "sympathetic "], "A": ["disadvantageous ", "disagreeable ", "hateful "]}

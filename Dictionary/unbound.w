@@ -1,0 +1,1 @@
+{"index": 336100, "D": "simple past tense and past participle of unbind. ", "S": ["immune "], "A": ["hindered ", "prevented "]}

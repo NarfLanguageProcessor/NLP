@@ -1,0 +1,1 @@
+{"index": 85575, "D": "a hydrate  that contains two molecules of water, as potassium sulfite, K2SO3\u22c52H2O.", "S": [], "A": []}

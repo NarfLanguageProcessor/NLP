@@ -1,0 +1,1 @@
+{"index": 65322, "D": "tending to conciliate", "S": ["expiative ", "propitiatory "], "A": []}

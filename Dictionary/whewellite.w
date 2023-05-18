@@ -1,0 +1,1 @@
+{"index": 364718, "D": "a white or colorless mineral of organic origin, calcium oxalate monohydrate, Ca(C2O4)\u22c5H2O, one of the main crystalline components of kidney stones and urinary precipitates; also found in coal deposits.", "S": [], "A": []}

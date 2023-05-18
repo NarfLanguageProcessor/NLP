@@ -1,0 +1,1 @@
+{"index": 342255, "D": "not befitting a son or daughter; violating the customary obligation of a child to a parent.", "S": [], "A": []}

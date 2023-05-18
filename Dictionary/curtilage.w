@@ -1,0 +1,1 @@
+{"index": 75518, "D": "the area of land occupied by a dwelling and its yard and outbuildings, actually enclosed or considered as enclosed.", "S": ["street "], "A": []}

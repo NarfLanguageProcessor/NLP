@@ -1,0 +1,1 @@
+{"index": 220864, "D": "(of food) excessively flavoursome or fatty", "S": [], "A": []}

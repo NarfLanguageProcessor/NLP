@@ -1,0 +1,1 @@
+{"index": 205813, "D": "having a disparaging, derogatory, or belittling effect or force", "S": [], "A": []}

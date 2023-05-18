@@ -1,0 +1,1 @@
+{"index": 34599, "D": "a controlled laboratory environment designed to provide uniform experimental conditions with the aim of producing uniform organisms for use in experiments.", "S": [], "A": []}

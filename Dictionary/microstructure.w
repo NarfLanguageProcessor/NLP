@@ -1,0 +1,1 @@
+{"index": 186572, "D": "the structure  of a metal or alloy as observed, after etching and polishing, under a high degree of magnification.", "S": [], "A": []}

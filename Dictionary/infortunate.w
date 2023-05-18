@@ -1,0 +1,1 @@
+{"index": 152235, "D": "of or relating to infortune.", "S": [], "A": []}

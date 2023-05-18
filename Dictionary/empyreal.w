@@ -1,0 +1,1 @@
+{"index": 98781, "D": "pertaining to the highest heaven in the cosmology of the ancients.", "S": ["celestial ", "divine ", "elysian ", "empyrean ", "heavenly ", "sublime ", "supernal "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227986, "D": "a woman who owns or manages a hotel, restaurant, or bar", "S": [], "A": []}

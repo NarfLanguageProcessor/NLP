@@ -1,0 +1,1 @@
+{"index": 53702, "D": "Compare element (def. 2). ", "S": ["allure ", "appeal ", "attractiveness ", "interest "], "A": ["discouragement ", "repulsion "]}

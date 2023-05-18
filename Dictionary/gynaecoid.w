@@ -1,0 +1,1 @@
+{"index": 125138, "D": "resembling, relating to, or like a woman", "S": [], "A": []}

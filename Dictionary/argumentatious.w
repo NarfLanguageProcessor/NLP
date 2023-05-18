@@ -1,0 +1,1 @@
+{"index": 19598, "D": "the process of developing or presenting an argument;  reasoning.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 50188, "D": "tobacco that has been softened, sweetened, and pressed into cakes.", "S": [], "A": []}

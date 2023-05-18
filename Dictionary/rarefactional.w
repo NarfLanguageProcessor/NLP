@@ -1,0 +1,1 @@
+{"index": 260813, "D": "the act or process of rarefying. ", "S": [], "A": []}

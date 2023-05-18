@@ -1,0 +1,1 @@
+{"index": 124751, "D": "a set of standards and file format for storage of digital color images and short animations.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110335, "D": "an evergreen garden shrub with shiny green leaves and umbels of pale green flowers; a bigeneric hybrid between Fatsia japonica moseri and Hedera hibernica ", "S": [], "A": []}

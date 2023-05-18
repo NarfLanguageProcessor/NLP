@@ -1,0 +1,1 @@
+{"index": 355051, "D": "a sudden, upward, spiraling movement, trend, etc.", "S": [], "A": []}

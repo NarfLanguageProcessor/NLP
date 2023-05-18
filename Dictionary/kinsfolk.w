@@ -1,0 +1,1 @@
+{"index": 164984, "D": "a variant of kinfolk. ", "S": ["affinity ", "blood ", "clan ", "connection ", "consanguinity ", "cousin ", "extraction ", "family ", "folk ", "house ", "kindred ", "kinship ", "kinsperson ", "kith ", "lineage ", "member ", "people ", "race ", "relation ", "relationship ", "sibling ", "stock ", "tribe "], "A": []}

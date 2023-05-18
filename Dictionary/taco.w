@@ -1,0 +1,1 @@
+{"index": 315106, "D": "a tortilla filled with various ingredients, as beans, rice, chopped meat, cheese, and tomatoes, and folded over in half or rolled into a loose cylinder shape", "S": [], "A": []}

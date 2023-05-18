@@ -1,0 +1,1 @@
+{"index": 335592, "D": "the flag of a country, army, troop, etc.", "S": [], "A": []}

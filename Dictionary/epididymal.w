@@ -1,0 +1,1 @@
+{"index": 102393, "D": "an elongated organ on the posterior surface of a testis that stores sperm while they mature and constitutes the convoluted beginning of the vas deferens. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 298082, "D": "(in the former U.S.S.R) a state-owned wage-paying farm.", "S": [], "A": []}

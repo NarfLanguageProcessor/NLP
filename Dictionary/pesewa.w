@@ -1,0 +1,1 @@
+{"index": 232237, "D": "a bronze coin and monetary unit of Ghana, one 100th of a cedi.", "S": [], "A": []}

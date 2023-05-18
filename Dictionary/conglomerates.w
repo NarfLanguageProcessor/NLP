@@ -1,0 +1,1 @@
+{"index": 66197, "D": "anything composed of heterogeneous materials or elements.", "S": ["amassed ", "assorted ", "blended ", "clustered ", "massed ", "melded ", "mixed ", "motley ", "varied ", "variegated "], "A": ["like ", "same ", "similar ", "unvaried "]}

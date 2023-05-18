@@ -1,0 +1,1 @@
+{"index": 131258, "D": "a sticky clay formed by the thorough weathering of glacial drift, the thickness of the clay furnishing means for comparing relative lengths of interglacial ages.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189481, "D": "to interpret,  explain, or understand incorrectly.", "S": [], "A": []}

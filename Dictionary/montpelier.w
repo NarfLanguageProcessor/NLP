@@ -1,0 +1,1 @@
+{"index": 192943, "D": "a city in and the capital of Vermont, in the central part.", "S": [], "A": []}

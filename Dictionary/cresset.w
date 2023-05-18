@@ -1,0 +1,1 @@
+{"index": 72769, "D": "a metal cup or basket often mounted on a pole or suspended from above, containing oil, pitch, a rope steeped in rosin, etc., burned as a light or beacon.", "S": [], "A": []}

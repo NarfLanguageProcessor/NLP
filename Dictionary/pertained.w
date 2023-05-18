@@ -1,0 +1,1 @@
+{"index": 232079, "D": "to have reference or relation; relate", "S": ["apply ", "refer ", "relate "], "A": ["disconnect ", "disjoin ", "divide ", "part ", "separate "]}

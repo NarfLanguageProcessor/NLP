@@ -1,0 +1,1 @@
+{"index": 219767, "D": "the cherishing or pursuit of high or noble principles, purposes, goals, etc.", "S": [], "A": []}

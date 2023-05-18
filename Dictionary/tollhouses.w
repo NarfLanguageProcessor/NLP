@@ -1,0 +1,1 @@
+{"index": 325307, "D": "a house or booth at a tollgate, occupied by a tollkeeper.", "S": [], "A": []}

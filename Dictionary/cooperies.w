@@ -1,0 +1,1 @@
+{"index": 68340, "D": "the work of a cooper.", "S": [], "A": []}

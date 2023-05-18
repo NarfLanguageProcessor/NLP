@@ -1,0 +1,1 @@
+{"index": 21405, "D": "a brush or instrument for sprinkling holy water; aspersorium.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 85858, "D": "a molecule composed of two identical, simpler molecules.", "S": [], "A": []}

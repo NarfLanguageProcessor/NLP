@@ -1,0 +1,1 @@
+{"index": 107608, "D": "of or relating to expectation.", "S": [], "A": []}

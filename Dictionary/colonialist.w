@@ -1,0 +1,1 @@
+{"index": 63234, "D": "the control or governing influence of a nation over a dependent country, territory, or people.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 193997, "D": "to provide with a motive,  or a cause or reason to act; incite; impel. ", "S": ["encouraging ", "exciting ", "exhilarating ", "heartening ", "inspirational ", "moving ", "stirring ", "uplifting "], "A": ["boring ", "unexciting "]}

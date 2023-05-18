@@ -1,0 +1,1 @@
+{"index": 110266, "D": "a male parent.", "S": ["conceive "], "A": ["destroy ", "end ", "finish ", "halt ", "kill ", "result ", "ruin ", "stop "]}

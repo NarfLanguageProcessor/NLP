@@ -1,0 +1,1 @@
+{"index": 84513, "D": "Portuguese navigator", "S": [], "A": []}

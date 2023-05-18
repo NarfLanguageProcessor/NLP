@@ -1,0 +1,1 @@
+{"index": 304120, "D": "causing or tending to cause sneezing.", "S": [], "A": []}

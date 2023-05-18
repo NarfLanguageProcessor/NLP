@@ -1,0 +1,1 @@
+{"index": 204382, "D": "made commonplace or trite; stale; banal", "S": [], "A": []}

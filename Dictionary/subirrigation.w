@@ -1,0 +1,1 @@
+{"index": 308258, "D": "to irrigate beneath the surface of the ground, as with water passing through a system of underground porous pipes or transmitted through the subsoil from ditches, etc.", "S": [], "A": []}

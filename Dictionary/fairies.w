@@ -1,0 +1,1 @@
+{"index": 109317, "D": "(in folklore) one of a class of supernatural beings, generally conceived as having a diminutive human form and possessing magical powers with which they intervene in human affairs.", "S": ["dwarfs ", "elfenfolk ", "elves ", "fairyfolk ", "laborers ", "leprechauns ", "midgets ", "the unremarkable "], "A": []}

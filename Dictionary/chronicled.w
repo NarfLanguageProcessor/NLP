@@ -1,0 +1,1 @@
+{"index": 56414, "D": "a chronological record of events; a history.", "S": ["actual ", "ancient ", "archival ", "classical ", "factual ", "real "], "A": ["false ", "imaginary ", "modern "]}

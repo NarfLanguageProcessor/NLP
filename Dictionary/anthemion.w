@@ -1,0 +1,1 @@
+{"index": 14331, "D": "an ornament of floral forms in a flat radiating cluster, as in architectural decoration, vase painting, etc.", "S": [], "A": []}

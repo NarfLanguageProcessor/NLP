@@ -1,0 +1,1 @@
+{"index": 235362, "D": "to make (a material) photosensitive,  as by the application of a photosensitive  emulsion.", "S": [], "A": []}

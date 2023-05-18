@@ -1,0 +1,1 @@
+{"index": 68834, "D": "composed of coral or having the structure of coral", "S": [], "A": []}

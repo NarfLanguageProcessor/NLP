@@ -1,0 +1,1 @@
+{"index": 364295, "D": "a contemptuous term used to refer to a Mexican laborer who enters the U.S. illegally, as by wading the Rio Grande.", "S": [], "A": []}

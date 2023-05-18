@@ -1,0 +1,1 @@
+{"index": 172666, "D": "a colorless, unsaturated terpene liquid alcohol, C10H18O, having a fragrance similar to that of bergamot oil, obtained from several essential oils", "S": [], "A": []}

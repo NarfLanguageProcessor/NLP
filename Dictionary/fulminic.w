@@ -1,0 +1,1 @@
+{"index": 119991, "D": "highly explosive; unstable.", "S": [], "A": []}

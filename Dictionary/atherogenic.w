@@ -1,0 +1,1 @@
+{"index": 22561, "D": "capable of producing atheromatous plaques in arteries.", "S": [], "A": []}

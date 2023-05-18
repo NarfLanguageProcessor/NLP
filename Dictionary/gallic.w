@@ -1,0 +1,1 @@
+{"index": 121366, "D": "of or containing gallium,  especially in the trivalent state.", "S": [], "A": []}

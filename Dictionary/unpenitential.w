@@ -1,0 +1,1 @@
+{"index": 347647, "D": "of, pertaining to, proceeding from, or expressive of penitence  or repentance.", "S": [], "A": []}

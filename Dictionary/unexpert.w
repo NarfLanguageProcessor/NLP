@@ -1,0 +1,1 @@
+{"index": 341789, "D": "a person who has special skill or knowledge in some particular field; specialist; authority", "S": ["immature ", "unproved ", "untested "], "A": ["established ", "tried "]}

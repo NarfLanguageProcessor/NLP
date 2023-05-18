@@ -1,0 +1,1 @@
+{"index": 190416, "D": "relative worth, merit, or importance", "S": [], "A": []}

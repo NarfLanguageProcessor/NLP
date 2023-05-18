@@ -1,0 +1,1 @@
+{"index": 247935, "D": "the act of indemnifying;  state of being indemnified. ", "S": [], "A": []}

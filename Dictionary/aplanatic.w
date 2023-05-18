@@ -1,0 +1,1 @@
+{"index": 17045, "D": "free from spherical aberration and coma.", "S": [], "A": []}

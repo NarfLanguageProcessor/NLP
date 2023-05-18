@@ -1,0 +1,1 @@
+{"index": 46750, "D": "the red cloak of a bullfighter, used chiefly in attracting the attention of the bull and guiding the course of its attack.", "S": [], "A": []}

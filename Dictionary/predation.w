@@ -1,0 +1,1 @@
+{"index": 246654, "D": "depredation; plundering.", "S": ["predacity ", "predatism ", "rapaciousness ", "rapacity "], "A": []}

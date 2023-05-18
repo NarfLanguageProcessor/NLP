@@ -1,0 +1,1 @@
+{"index": 7355, "D": "of or relating to Alaska or its inhabitants", "S": [], "A": []}

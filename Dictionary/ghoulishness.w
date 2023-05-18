@@ -1,0 +1,1 @@
+{"index": 124604, "D": "strangely diabolical or cruel; monstrous", "S": [], "A": []}

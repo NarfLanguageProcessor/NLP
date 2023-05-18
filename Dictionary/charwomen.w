@@ -1,0 +1,1 @@
+{"index": 53011, "D": "a woman  hired to do general cleaning, especially in an office or large house.", "S": ["cleaning lady ", "cleaning service ", "daily ", "daily woman ", "housecleaner ", "household help ", "housekeeper ", "housemaid ", "maid ", "maidservant "], "A": []}

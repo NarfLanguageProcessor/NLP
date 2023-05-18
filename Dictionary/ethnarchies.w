@@ -1,0 +1,1 @@
+{"index": 105055, "D": "the government, office, or jurisdiction of an ethnarch.", "S": [], "A": []}

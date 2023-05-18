@@ -1,0 +1,1 @@
+{"index": 91264, "D": "of or relating to the home, the household, household affairs, or the family", "S": [], "A": []}

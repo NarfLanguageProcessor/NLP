@@ -1,0 +1,1 @@
+{"index": 355600, "D": "the construction of an artificial opening from the urethra through the perineum, permitting the passage of urine.", "S": [], "A": []}

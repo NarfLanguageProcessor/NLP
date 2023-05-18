@@ -1,0 +1,1 @@
+{"index": 220181, "D": "to bring about or succeed in accomplishing, sometimes despite difficulty or hardship", "S": [], "A": []}

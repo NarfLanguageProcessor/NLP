@@ -1,0 +1,1 @@
+{"index": 210891, "D": "a native English suffix of nouns, used to form descriptive names (ruddock, lit., the red one) and diminutives (hillock).", "S": [], "A": []}

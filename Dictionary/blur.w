@@ -1,0 +1,1 @@
+{"index": 36866, "D": "to obscure or sully (something) by smearing or with a smeary substance", "S": ["darken ", "dim ", "muddy ", "obscure ", "soften "], "A": ["brighten ", "illuminate ", "lighten "]}

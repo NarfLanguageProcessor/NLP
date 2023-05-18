@@ -1,0 +1,1 @@
+{"index": 306704, "D": "to walk with a vain, pompous bearing, as with head erect and chest thrown out, as if expecting to impress observers.", "S": ["prance ", "sashay ", "stalk ", "stride ", "swagger "], "A": ["conceal ", "hide "]}

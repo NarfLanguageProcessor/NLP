@@ -1,0 +1,1 @@
+{"index": 249348, "D": "that may be presented. ", "S": ["appropriately ", "competently ", "decently ", "satisfactorily ", "sufficiently "], "A": ["inadequately ", "insufficiently ", "unequally ", "unsatisfactorily ", "unsuitably "]}

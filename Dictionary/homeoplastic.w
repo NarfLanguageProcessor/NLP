@@ -1,0 +1,1 @@
+{"index": 142838, "D": "the formation, as in healing, of new tissue that is similar to the existing tissue.", "S": [], "A": []}

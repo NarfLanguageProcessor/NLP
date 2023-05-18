@@ -1,0 +1,1 @@
+{"index": 120819, "D": "the portion of the front or side of a building enclosed by or masking the end of a pitched roof.", "S": ["ceiling ", "house "], "A": ["bottom "]}

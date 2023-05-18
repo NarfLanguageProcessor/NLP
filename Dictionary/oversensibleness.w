@@ -1,0 +1,1 @@
+{"index": 221040, "D": "having, using, or showing good sense  or sound judgment", "S": [], "A": []}

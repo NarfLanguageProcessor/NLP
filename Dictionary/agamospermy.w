@@ -1,0 +1,1 @@
+{"index": 5878, "D": "any form of reproduction, as parthenogenesis, apogamy, and apospory, that involves the sex cell but takes place without fertilization or meiosis.", "S": [], "A": []}

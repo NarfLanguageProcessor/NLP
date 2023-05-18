@@ -1,0 +1,1 @@
+{"index": 362367, "D": "moving from place to place without a fixed plan; roaming; rambling", "S": ["adventure ", "excursion ", "expedition ", "exploration ", "pilgrimage ", "quest ", "sojourn ", "trek "], "A": []}

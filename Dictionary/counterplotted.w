@@ -1,0 +1,1 @@
+{"index": 70973, "D": "a plot  directed against another plot. ", "S": ["blank ", "outwit ", "thwart "], "A": ["abet ", "aid ", "allow ", "approve ", "assist ", "clarify ", "clear up ", "endorse ", "enlighten ", "explain ", "grow ", "help ", "open ", "permit ", "prove ", "support ", "surrender ", "validate ", "win ", "yield "]}

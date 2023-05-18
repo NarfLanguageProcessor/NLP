@@ -1,0 +1,1 @@
+{"index": 342317, "D": "arrested in emotional or sexual development", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287121, "D": "a number of shafts. ", "S": ["betray ", "cheat ", "deceive ", "defraud ", "delude ", "dupe ", "entice ", "fool ", "fudge ", "hoodwink ", "lie ", "misguide ", "misinform ", "misrepresent ", "tempt "], "A": ["support "]}

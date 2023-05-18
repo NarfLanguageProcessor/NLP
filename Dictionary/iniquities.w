@@ -1,0 +1,1 @@
+{"index": 152776, "D": "gross injustice or wickedness.", "S": ["abomination ", "baseness ", "crime ", "evildoing ", "heinousness ", "immorality ", "infamy ", "injustice ", "misdeed ", "offense ", "sinfulness ", "unfairness ", "unrighteousness ", "wickedness ", "wrong ", "wrongdoing "], "A": ["good deed ", "goodness ", "kindness ", "morality ", "right ", "virtue "]}

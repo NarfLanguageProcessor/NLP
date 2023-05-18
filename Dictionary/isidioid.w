@@ -1,0 +1,1 @@
+{"index": 158668, "D": "of, relating to, or resembling an isidium. ", "S": [], "A": []}

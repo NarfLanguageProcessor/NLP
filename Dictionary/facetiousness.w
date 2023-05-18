@@ -1,0 +1,1 @@
+{"index": 108967, "D": "not meant to be taken seriously or literally", "S": ["farce ", "fun ", "humor ", "satire ", "sitcom "], "A": ["sadness ", "tragedy ", "seriousness "]}

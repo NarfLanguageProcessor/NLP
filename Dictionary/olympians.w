@@ -1,0 +1,1 @@
+{"index": 212263, "D": "pertaining to Mount Olympus  or dwelling thereon, as the gods of classical Greece.", "S": [], "A": []}

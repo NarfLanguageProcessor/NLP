@@ -1,0 +1,1 @@
+{"index": 319104, "D": "the state of being tenuous. ", "S": ["elegance ", "fragility ", "lightness ", "subtlety ", "tenderness "], "A": ["strength "]}

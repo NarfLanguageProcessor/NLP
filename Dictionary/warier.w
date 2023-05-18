@@ -1,0 +1,1 @@
+{"index": 362636, "D": "watchful; being on one's guard against danger.", "S": ["attentive ", "circumspect ", "considerate ", "distrustful ", "frugal ", "leery ", "prudent ", "suspicious ", "vigilant ", "watchful "], "A": ["careless ", "certain ", "inattentive ", "incautious ", "inconsiderate ", "indiscreet ", "negligent "]}

@@ -1,0 +1,1 @@
+{"index": 3514, "D": "any of a group of numbers or terms added together to form a sum.", "S": [], "A": []}

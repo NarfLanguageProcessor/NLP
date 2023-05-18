@@ -1,0 +1,1 @@
+{"index": 109004, "D": "something that permits the easier performance of an action, course of conduct, etc.", "S": ["apparatus ", "furnishings ", "furniture ", "machinery ", "material "], "A": []}

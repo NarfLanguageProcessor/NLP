@@ -1,0 +1,1 @@
+{"index": 192953, "D": "something erected in memory of a person, event, etc., as a building, pillar, or statue", "S": ["gravestone ", "headstone ", "marker ", "masterpiece ", "mausoleum ", "pillar ", "shrine ", "slab ", "statue ", "stele ", "stone ", "tablet ", "testament ", "tomb ", "tombstone ", "tribute "], "A": []}

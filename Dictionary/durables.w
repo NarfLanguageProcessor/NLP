@@ -1,0 +1,1 @@
+{"index": 94398, "D": "able to resist wear, decay, etc., well; lasting; enduring. ", "S": ["consumer durables ", "consumer goods "], "A": []}

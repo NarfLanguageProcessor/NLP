@@ -1,0 +1,1 @@
+{"index": 298681, "D": "to utter words or articulate sounds with the ordinary voice; talk", "S": ["chat ", "communicate ", "convey ", "declare ", "deliver ", "express ", "go ", "say ", "shout ", "tell ", "utter ", "voice ", "whisper "], "A": ["be quiet ", "conceal ", "hold ", "keep ", "retain ", "withhold ", "deny ", "hide ", "mumble ", "praise "]}

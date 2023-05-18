@@ -1,0 +1,1 @@
+{"index": 295044, "D": "to curry favor; seek unwarranted recognition.", "S": [], "A": []}

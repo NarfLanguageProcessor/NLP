@@ -1,0 +1,1 @@
+{"index": 146379, "D": "to recognize or establish as being a particular person or thing; verify the identity  of", "S": ["accessory ", "adjunct ", "adnoun ", "attribute ", "dependent ", "modifier ", "qualifier "], "A": []}

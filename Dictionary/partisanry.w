@@ -1,0 +1,1 @@
+{"index": 227083, "D": "support of a person, group, party, or cause, especially when seen as biased or emotional", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 357456, "D": "to make a vassal of", "S": [], "A": []}

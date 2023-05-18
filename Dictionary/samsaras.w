@@ -1,0 +1,1 @@
+{"index": 277601, "D": "Compare nirvana (def. 1). ", "S": [], "A": []}

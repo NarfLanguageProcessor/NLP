@@ -1,0 +1,1 @@
+{"index": 274121, "D": "to play or frolic in a lively or boisterous manner.", "S": ["lark ", "rout "], "A": ["work "]}

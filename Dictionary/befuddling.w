@@ -1,0 +1,1 @@
+{"index": 30562, "D": "to confuse, as with glib statements or arguments", "S": ["baffling ", "bewildering ", "complex ", "complicated ", "confounding ", "difficult ", "disconcerting ", "perplexing ", "upsetting "], "A": ["clear ", "easy ", "plain ", "simple "]}

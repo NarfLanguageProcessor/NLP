@@ -1,0 +1,1 @@
+{"index": 34145, "D": "containing two morphemes,  as the words waited and dogs.", "S": [], "A": []}

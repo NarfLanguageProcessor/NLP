@@ -1,0 +1,1 @@
+{"index": 110250, "D": "something that unavoidably befalls a person; fortune; lot", "S": ["chance ", "circumstance ", "consequence ", "destiny ", "effect ", "future ", "issue ", "outcome "], "A": ["beginning ", "cause ", "commencement ", "origin ", "source ", "start ", "misfortune ", "opening ", "whole "]}

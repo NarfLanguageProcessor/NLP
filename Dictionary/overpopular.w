@@ -1,0 +1,1 @@
+{"index": 220569, "D": "regarded with favor, approval, or affection by people in general", "S": [], "A": []}

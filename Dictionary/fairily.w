@@ -1,0 +1,1 @@
+{"index": 109326, "D": "in a manner suggestive of fairies;  delicately.", "S": [], "A": []}

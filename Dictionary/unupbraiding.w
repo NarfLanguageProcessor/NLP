@@ -1,0 +1,1 @@
+{"index": 353561, "D": "the act or words of a person who upbraids;  severe reproof or censure", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111495, "D": "Kathleen . 1912\u201353, British contralto; noted for her expressive voice", "S": [], "A": []}

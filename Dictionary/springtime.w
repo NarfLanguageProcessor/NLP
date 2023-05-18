@@ -1,0 +1,1 @@
+{"index": 301335, "D": "the season of spring. ", "S": ["adolescence ", "aurora ", "dawn ", "daybreak ", "dew ", "greenness ", "juvenility ", "morn ", "morning ", "opening ", "puberty ", "pubescence ", "start ", "sunrise ", "sunup ", "vitality ", "youth ", "youthfulness "], "A": ["adulthood ", "conclusion ", "end ", "ending ", "eventide ", "finish ", "sundown ", "sunset "]}

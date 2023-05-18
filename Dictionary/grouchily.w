@@ -1,0 +1,1 @@
+{"index": 130289, "D": "sullenly discontented; sulky; morose; ill-tempered.", "S": [], "A": []}

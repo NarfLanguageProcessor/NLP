@@ -1,0 +1,1 @@
+{"index": 217866, "D": "proceeding or directed toward the outside or exterior, or away from a central point", "S": [], "A": []}

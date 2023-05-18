@@ -1,0 +1,1 @@
+{"index": 94197, "D": "the action of plunging or being plunged into water or other liquid", "S": ["douse ", "soak "], "A": ["dry ", "dehydrate "]}

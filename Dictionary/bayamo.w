@@ -1,0 +1,1 @@
+{"index": 26417, "D": "a city in S Cuba.", "S": [], "A": []}

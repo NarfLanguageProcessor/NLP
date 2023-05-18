@@ -1,0 +1,1 @@
+{"index": 352701, "D": "to impregnate, combine, or treat with tartar  or potassium bitartrate.", "S": [], "A": []}

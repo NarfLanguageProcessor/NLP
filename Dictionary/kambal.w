@@ -1,0 +1,1 @@
+{"index": 162977, "D": "a blanket or shawl made of coarse wool.", "S": [], "A": []}

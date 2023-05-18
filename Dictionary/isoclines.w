@@ -1,0 +1,1 @@
+{"index": 158882, "D": "a fold of strata so tightly compressed that both limbs dip in the same direction.", "S": [], "A": []}

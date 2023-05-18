@@ -1,0 +1,1 @@
+{"index": 360698, "D": "characterized by or of the nature of vituperation", "S": [], "A": []}

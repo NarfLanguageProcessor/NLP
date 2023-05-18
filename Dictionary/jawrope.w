@@ -1,0 +1,1 @@
+{"index": 160667, "D": "a rope  tied across the jaw  of a gaff to hold it to the mast.", "S": [], "A": []}

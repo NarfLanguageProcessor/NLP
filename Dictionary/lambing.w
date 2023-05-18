@@ -1,0 +1,1 @@
+{"index": 167597, "D": "lambing time", "S": ["caress ", "cuddle ", "fondle ", "lamb ", "love ", "pamper ", "pet ", "spoil "], "A": ["ignore ", "neglect "]}

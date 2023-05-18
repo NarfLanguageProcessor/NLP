@@ -1,0 +1,1 @@
+{"index": 141589, "D": "any of several species of small mammals of the order Hyracoidea, of Africa and the Mediterranean region, having short legs, ears, and tail, and hooflike nails on the toes.", "S": [], "A": []}

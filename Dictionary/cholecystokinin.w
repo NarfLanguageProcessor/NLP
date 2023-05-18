@@ -1,0 +1,1 @@
+{"index": 55407, "D": "a hormone secreted by the upper portion of the intestine that stimulates contraction of the gallbladder and increases secretion of pancreatic juice. Abbreviation", "S": [], "A": []}

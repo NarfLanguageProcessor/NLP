@@ -1,0 +1,1 @@
+{"index": 284518, "D": "a sowing or impregnating; dissemination.", "S": [], "A": []}

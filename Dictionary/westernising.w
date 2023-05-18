@@ -1,0 +1,1 @@
+{"index": 364249, "D": "to influence with ideas, customs, practices, etc., characteristic of Europe and North America.", "S": [], "A": []}

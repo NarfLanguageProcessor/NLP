@@ -1,0 +1,1 @@
+{"index": 69369, "D": "an anatomical structure, especially a bony part, that resembles a horn.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86521, "D": "having the right and left sides of the heart somewhat or completely divided, as in birds and mammals.", "S": [], "A": []}

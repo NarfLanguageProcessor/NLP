@@ -1,0 +1,1 @@
+{"index": 25956, "D": "a wall, wire screen, or the like, serving to prevent a ball from going too far beyond the normal playing area.", "S": ["bar ", "barbed wire ", "barricade ", "block ", "dike ", "net ", "rail ", "railing ", "roadblock ", "wall "], "A": ["opening "]}

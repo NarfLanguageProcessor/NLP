@@ -1,0 +1,1 @@
+{"index": 93720, "D": "a former silver coin of the Netherlands, used through the 17th and 18th centuries", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334190, "D": "having an umbo or projecting boss.", "S": [], "A": []}

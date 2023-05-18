@@ -1,0 +1,1 @@
+{"index": 58760, "D": "of, relating to, or distinguished by enlarged cells.", "S": [], "A": []}

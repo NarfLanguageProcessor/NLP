@@ -1,0 +1,1 @@
+{"index": 171173, "D": "a strong easterly wind in the Mediterranean.", "S": [], "A": []}

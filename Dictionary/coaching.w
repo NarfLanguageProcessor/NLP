@@ -1,0 +1,1 @@
+{"index": 60817, "D": "a large, horse-drawn, four-wheeled carriage, usually enclosed.", "S": ["culture ", "discipline ", "improvement ", "information ", "learning ", "literacy ", "scholarship ", "schooling ", "science ", "study ", "teaching ", "training "], "A": ["ignorance ", "destruction ", "neglect "]}

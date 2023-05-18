@@ -1,0 +1,1 @@
+{"index": 264358, "D": "having a pleasant odor; fragrant.", "S": ["evocative ", "perfumed ", "pungent ", "reminiscent ", "scented "], "A": []}

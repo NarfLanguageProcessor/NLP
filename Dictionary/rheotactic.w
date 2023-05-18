@@ -1,0 +1,1 @@
+{"index": 271892, "D": "oriented movement of an organism in response to a current of fluid, especially water.", "S": [], "A": []}

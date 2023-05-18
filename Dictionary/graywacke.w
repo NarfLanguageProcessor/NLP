@@ -1,0 +1,1 @@
+{"index": 128685, "D": "a dark-gray coarse-grained wacke.", "S": [], "A": []}

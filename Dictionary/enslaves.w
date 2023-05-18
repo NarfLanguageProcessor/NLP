@@ -1,0 +1,1 @@
+{"index": 101064, "D": "to make a slave of; hold (someone) in slavery or bondage", "S": ["coerce ", "deprive ", "disenfranchise ", "imprison ", "incarcerate ", "oppress ", "shackle ", "subjugate ", "suppress "], "A": ["free ", "let go ", "release ", "allow ", "disconnect ", "expand ", "liberate ", "loose ", "loosen ", "lose ", "permit ", "stop ", "unfasten ", "untie "]}

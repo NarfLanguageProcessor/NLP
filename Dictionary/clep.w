@@ -1,0 +1,1 @@
+{"index": 59776, "D": "a set of standardized tests in various subjects, qualifying scores on which can be used to earn college credits.", "S": [], "A": []}

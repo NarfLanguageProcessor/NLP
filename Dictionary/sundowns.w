@@ -1,0 +1,1 @@
+{"index": 311101, "D": "sunset, especially the time of sunset.", "S": ["dusk "], "A": ["sunrise "]}

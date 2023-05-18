@@ -1,0 +1,1 @@
+{"index": 276892, "D": "an embroidered vestment worn by a bishop and corresponding to the dalmatic.", "S": [], "A": []}

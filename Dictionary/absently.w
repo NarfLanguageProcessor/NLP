@@ -1,0 +1,1 @@
+{"index": 947, "D": "in an absent-minded manner; inattentively.", "S": [], "A": []}

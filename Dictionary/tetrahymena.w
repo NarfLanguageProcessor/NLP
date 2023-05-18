@@ -1,0 +1,1 @@
+{"index": 320068, "D": "any ciliated protozoan of the genus Tetrahymena, a relative of the paramecium", "S": [], "A": []}

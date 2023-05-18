@@ -1,0 +1,1 @@
+{"index": 249295, "D": "prescribed. ", "S": ["command ", "decree ", "law ", "regulation ", "statute "], "A": ["lawlessness "]}

@@ -1,0 +1,1 @@
+{"index": 137646, "D": "having or consisting of parts that differ in quality, number of elements, or the like", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55746, "D": "a small or odd job; routine task.", "S": ["assignment ", "burden ", "duty ", "errand ", "housework ", "routine ", "workout "], "A": ["happiness ", "peace "]}

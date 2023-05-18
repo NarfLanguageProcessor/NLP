@@ -1,0 +1,1 @@
+{"index": 204053, "D": "having a border of hairs or filiform processes.", "S": [], "A": []}

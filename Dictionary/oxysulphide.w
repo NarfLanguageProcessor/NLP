@@ -1,0 +1,1 @@
+{"index": 222430, "D": "a compound containing an element combined with oxygen and sulphur", "S": [], "A": []}

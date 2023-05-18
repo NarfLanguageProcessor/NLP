@@ -1,0 +1,1 @@
+{"index": 360609, "D": "the material of which the friable, vitreous layers in banded bituminous coal are composed.", "S": [], "A": []}

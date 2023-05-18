@@ -1,0 +1,1 @@
+{"index": 168374, "D": "an overlapping of part or all of a piece of land claimed by one person on land claimed by another.", "S": [], "A": []}

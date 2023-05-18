@@ -1,0 +1,1 @@
+{"index": 301883, "D": "to press forcibly together; compress.", "S": ["congestion ", "crunch ", "restraint "], "A": ["release "]}

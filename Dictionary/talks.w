@@ -1,0 +1,1 @@
+{"index": 315657, "D": "to communicate or exchange ideas, information, etc., by speaking", "S": ["lecture "], "A": ["listening ", "silence "]}

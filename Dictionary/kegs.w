@@ -1,0 +1,1 @@
+{"index": 163631, "D": "a small cask or barrel, usually holding from 5 to 10 gallons (19 to 38 liters).", "S": ["cask "], "A": []}

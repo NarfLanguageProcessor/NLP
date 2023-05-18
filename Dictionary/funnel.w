@@ -1,0 +1,1 @@
+{"index": 120299, "D": "a cone-shaped utensil with a tube at the apex for conducting liquid or other substance through a small opening, as into a bottle, jug, or the like.", "S": ["channel ", "filter ", "pour ", "siphon ", "transmit "], "A": ["fail ", "lose "]}

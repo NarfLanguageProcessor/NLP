@@ -1,0 +1,1 @@
+{"index": 43641, "D": "the chief male servant of a household, usually in charge of serving food, the care of silverware, etc.", "S": [], "A": []}

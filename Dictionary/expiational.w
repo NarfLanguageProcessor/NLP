@@ -1,0 +1,1 @@
+{"index": 107768, "D": "the act of expiating. ", "S": [], "A": []}

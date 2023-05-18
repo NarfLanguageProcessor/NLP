@@ -1,0 +1,1 @@
+{"index": 311193, "D": "a person who travels to a warm and sunny climate, especially during cold months.", "S": [], "A": []}

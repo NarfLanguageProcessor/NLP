@@ -1,0 +1,1 @@
+{"index": 214675, "D": "a plinth supporting the base of a column.", "S": [], "A": []}

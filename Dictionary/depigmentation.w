@@ -1,0 +1,1 @@
+{"index": 81632, "D": "loss of pigment.", "S": [], "A": []}

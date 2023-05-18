@@ -1,0 +1,1 @@
+{"index": 183517, "D": "any of several isomeric, monocyclic terpenes having the formula C10H18.", "S": [], "A": []}

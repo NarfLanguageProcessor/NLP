@@ -1,0 +1,1 @@
+{"index": 67139, "D": "to profess the doctrine of consubstantiation. ", "S": [], "A": []}

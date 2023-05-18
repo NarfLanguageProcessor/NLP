@@ -1,0 +1,1 @@
+{"index": 238975, "D": "an instrument for measuring mechanically the area of plane figures.", "S": [], "A": []}

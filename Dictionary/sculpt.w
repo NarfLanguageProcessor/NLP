@@ -1,0 +1,1 @@
+{"index": 282192, "D": "to carve, model, or make by using the techniques of sculpture. ", "S": ["chisel ", "divide ", "engrave ", "etch ", "fashion ", "hack ", "mold ", "shape ", "slice "], "A": ["combine ", "unite ", "increase ", "join ", "mend ", "sew "]}

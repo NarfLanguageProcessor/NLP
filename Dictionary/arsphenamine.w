@@ -1,0 +1,1 @@
+{"index": 20445, "D": "a yellow, crystalline powder, C12H12N2O2As2\u22c52HCl\u22c52H2O, formerly used to treat diseases caused by spirochete organisms, especially syphilis and trench mouth", "S": [], "A": []}

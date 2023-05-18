@@ -1,0 +1,1 @@
+{"index": 217483, "D": "to sleep  through or later than (a specified time).", "S": [], "A": []}

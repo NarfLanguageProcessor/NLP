@@ -1,0 +1,1 @@
+{"index": 79192, "D": "a person who defends someone or something from attack, assault, or injury", "S": ["protector ", "sponsor ", "supporter "], "A": []}

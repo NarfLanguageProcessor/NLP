@@ -1,0 +1,1 @@
+{"index": 215701, "D": "a double-beveled chisel-like instrument for cutting or dividing bone.", "S": [], "A": []}

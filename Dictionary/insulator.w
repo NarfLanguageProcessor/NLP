@@ -1,0 +1,1 @@
+{"index": 154070, "D": "insulating  material, often glass or porcelain, in a unit form designed so as to support a charged conductor and electrically isolate it.", "S": [], "A": []}

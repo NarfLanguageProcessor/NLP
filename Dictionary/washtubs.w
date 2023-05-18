@@ -1,0 +1,1 @@
+{"index": 362940, "D": "a tub  for use in washing  clothes, linens, etc.", "S": [], "A": []}

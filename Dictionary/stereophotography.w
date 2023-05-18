@@ -1,0 +1,1 @@
+{"index": 303935, "D": "photography  producing stereoscopic images.", "S": [], "A": []}

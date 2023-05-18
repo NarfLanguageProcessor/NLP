@@ -1,0 +1,1 @@
+{"index": 171234, "D": "(of a tax, duty, etc.) imposed or charged", "S": ["assessed "], "A": []}

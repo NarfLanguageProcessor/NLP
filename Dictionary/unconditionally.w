@@ -1,0 +1,1 @@
+{"index": 337539, "D": "in a way that is not limited by requirements or conditions; absolutely", "S": ["categorically ", "completely ", "thoroughly "], "A": []}

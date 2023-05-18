@@ -1,0 +1,1 @@
+{"index": 250315, "D": "a king of Troy, the son of Laomedon, husband of Hecuba, and father of Paris, Cassandra, Hector, Polyxena, and many others. He was killed during the capture of Troy.", "S": [], "A": []}

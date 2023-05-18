@@ -1,0 +1,1 @@
+{"index": 149302, "D": "to attribute or ascribe", "S": ["ascribe "], "A": ["absolve ", "exculpate ", "exonerate ", "praise "]}

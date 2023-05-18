@@ -1,0 +1,1 @@
+{"index": 21367, "D": "a salt or ester formed from aspartic acid. ", "S": [], "A": []}

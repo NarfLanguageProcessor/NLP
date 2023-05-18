@@ -1,0 +1,1 @@
+{"index": 93004, "D": "simple past tense of draw. ", "S": ["attract ", "bring ", "carry ", "drag ", "elicit ", "evoke ", "gather ", "pick "], "A": ["grow ", "plant ", "refuse ", "repress ", "insert ", "let go ", "push "]}

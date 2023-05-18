@@ -1,0 +1,1 @@
+{"index": 286617, "D": "bristlelike; bristle-shaped.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 130631, "D": "gigaton; gigatons.", "S": [], "A": []}

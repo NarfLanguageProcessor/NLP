@@ -1,0 +1,1 @@
+{"index": 103915, "D": "serving to erode;  causing erosion. ", "S": ["abrading ", "coarse "], "A": ["fine ", "fine-grained "]}

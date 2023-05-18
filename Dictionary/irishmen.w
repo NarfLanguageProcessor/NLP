@@ -1,0 +1,1 @@
+{"index": 158024, "D": "a man born in Ireland or of Irish  ancestry.", "S": [], "A": []}

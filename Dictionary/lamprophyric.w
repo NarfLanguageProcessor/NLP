@@ -1,0 +1,1 @@
+{"index": 167828, "D": "any dark intrusive rock in which dark minerals occur both as phenocrysts and as groundmass.", "S": [], "A": []}

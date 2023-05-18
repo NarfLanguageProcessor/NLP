@@ -1,0 +1,1 @@
+{"index": 369490, "D": "a hill in Jerusalem, on which the Temple was built (used to symbolize the city itself, especially as a religious or spiritual center).", "S": ["Promised Land ", "immortality ", "nirvana ", "paradise "], "A": ["hell ", "misery ", "sorrow ", "unhappiness "]}

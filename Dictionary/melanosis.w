@@ -1,0 +1,1 @@
+{"index": 182764, "D": "abnormal deposition or development of black or dark pigment in the tissues.", "S": [], "A": []}

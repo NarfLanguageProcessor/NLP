@@ -1,0 +1,1 @@
+{"index": 279815, "D": "a mark left by a healed wound, sore, or burn.", "S": ["disfigure ", "injure ", "maim ", "mar ", "traumatize "], "A": ["aid ", "cure ", "heal ", "help ", "adorn ", "beautify ", "decorate ", "embellish ", "fix ", "lose ", "mend ", "ornament ", "repair ", "smooth "]}

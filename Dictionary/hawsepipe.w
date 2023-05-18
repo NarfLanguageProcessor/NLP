@@ -1,0 +1,1 @@
+{"index": 134502, "D": "an iron or steel pipe  in the stem or bow of a vessel through which an anchor cable passes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 73963, "D": "pertaining to or resembling croup. ", "S": ["discordant ", "gravelly ", "gruff ", "harsh ", "raucous ", "throaty "], "A": ["nice ", "polite ", "soft "]}

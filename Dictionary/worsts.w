@@ -1,0 +1,1 @@
+{"index": 367697, "D": "bad  or ill  in the highest, greatest, or most extreme degree", "S": ["lowest "], "A": ["best "]}

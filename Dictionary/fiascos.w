@@ -1,0 +1,1 @@
+{"index": 111950, "D": "a complete and ignominious failure.", "S": ["blunder ", "breakdown ", "debacle ", "disaster ", "embarrassment ", "failure ", "farce ", "flap ", "flop ", "mess ", "stunt ", "washout "], "A": ["accomplishment ", "achievement ", "miracle ", "success ", "triumph ", "win ", "wonder "]}

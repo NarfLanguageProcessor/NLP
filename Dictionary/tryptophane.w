@@ -1,0 +1,1 @@
+{"index": 330495, "D": "an essential amino acid, (C8H6N)CH2CH(NH2)COOH, colorless, crystalline, and aromatic, released from proteins by tryptic digestion and a precursor of serotonin. Abbreviation", "S": [], "A": []}

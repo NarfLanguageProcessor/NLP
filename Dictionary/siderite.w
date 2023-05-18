@@ -1,0 +1,1 @@
+{"index": 289786, "D": "a common mineral, iron carbonate, FeCO3, usually occurring in yellowish to deep-brown cleavable masses", "S": [], "A": []}

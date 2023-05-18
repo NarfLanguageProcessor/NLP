@@ -1,0 +1,1 @@
+{"index": 11569, "D": "having the female sex organs arising from any cell below the apex of the stem, thereby not terminating its growth, as certain liverworts.", "S": [], "A": []}

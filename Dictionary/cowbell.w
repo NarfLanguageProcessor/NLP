@@ -1,0 +1,1 @@
+{"index": 71558, "D": "a bell  hung around a cow's  neck to indicate its whereabouts.", "S": [], "A": []}

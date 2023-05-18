@@ -1,0 +1,1 @@
+{"index": 316859, "D": "the hero of a series of jungle stories by Edgar Rice Burroughs.", "S": [], "A": []}

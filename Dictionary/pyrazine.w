@@ -1,0 +1,1 @@
+{"index": 237634, "D": "Any of a group of organic compounds having a six-member ring in which the first and fourth atoms are nitrogen and the rest are carbon. Pyrazines are components of many important compounds, including pteridines, some vitamins and antibiotics, and numerous dyes called phenazines.", "S": [], "A": []}

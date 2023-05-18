@@ -1,0 +1,1 @@
+{"index": 134292, "D": "disdainfully proud; scornfully arrogant; snobbish; supercilious", "S": ["insolently ", "loftily ", "superciliously ", "with one's nose in the air "], "A": []}

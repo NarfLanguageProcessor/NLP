@@ -1,0 +1,1 @@
+{"index": 69983, "D": "to sign  as a cosigner. ", "S": ["sign "], "A": ["censure ", "disapprove ", "oppose ", "protest ", "reject ", "repel "]}

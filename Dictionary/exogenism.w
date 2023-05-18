@@ -1,0 +1,1 @@
+{"index": 107365, "D": "originating from outside; derived externally.", "S": [], "A": []}

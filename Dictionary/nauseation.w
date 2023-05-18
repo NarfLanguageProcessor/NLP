@@ -1,0 +1,1 @@
+{"index": 197430, "D": [], "S": ["antipathy ", "aversion ", "dislike ", "distaste ", "hatred ", "loathing ", "repulsion ", "revulsion "], "A": ["approval ", "liking ", "love ", "loving "]}

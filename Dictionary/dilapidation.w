@@ -1,0 +1,1 @@
+{"index": 85675, "D": "the state of being or becoming dilapidated", "S": ["decrepitude ", "destruction ", "disintegration ", "disrepair "], "A": []}

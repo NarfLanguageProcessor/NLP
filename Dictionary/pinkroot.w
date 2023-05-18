@@ -1,0 +1,1 @@
+{"index": 237123, "D": "the root  of any of various plants belonging to the genus Spigelia, of the logania family, especially that of S. marilandica of the U.S., that is used as a vermifuge.", "S": [], "A": []}

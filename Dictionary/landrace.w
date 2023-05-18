@@ -1,0 +1,1 @@
+{"index": 168004, "D": "an animal breed or plant cultivar that, isolated from other populations of its species, has adapted to its local environment, especially by purposeful means of breeding and agriculture", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256803, "D": "the period between birth and puberty, or until attaining majority.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237141, "D": "a lofty peak.", "S": ["apex ", "culmination ", "greatest ", "height ", "peak "], "A": ["bottom ", "nadir "]}

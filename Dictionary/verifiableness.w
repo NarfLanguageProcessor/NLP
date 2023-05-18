@@ -1,0 +1,1 @@
+{"index": 358524, "D": "to prove the truth of, as by evidence or testimony; confirm; substantiate", "S": [], "A": []}

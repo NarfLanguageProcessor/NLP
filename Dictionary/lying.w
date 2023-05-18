@@ -1,0 +1,1 @@
+{"index": 172164, "D": "the telling of lies,  or false statements; untruthfulness", "S": ["misleading "], "A": ["honest "]}

@@ -1,0 +1,1 @@
+{"index": 339109, "D": "a drain  placed beneath the surface of cultivated fields, streets, etc.", "S": [], "A": []}

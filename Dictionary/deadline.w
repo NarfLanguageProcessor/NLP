@@ -1,0 +1,1 @@
+{"index": 77481, "D": "the time by which something must be finished or submitted; the latest time for finishing something", "S": ["limit ", "period ", "time limit "], "A": []}

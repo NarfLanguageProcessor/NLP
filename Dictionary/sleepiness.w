@@ -1,0 +1,1 @@
+{"index": 293899, "D": "ready or inclined to sleep;  drowsy.", "S": ["drowsiness ", "fatigue ", "laziness ", "lethargy ", "somnolence ", "tiredness "], "A": ["activity ", "energy ", "liveliness ", "vigor "]}

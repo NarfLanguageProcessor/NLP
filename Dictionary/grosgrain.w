@@ -1,0 +1,1 @@
+{"index": 130228, "D": "a heavy, corded ribbon or cloth of silk or rayon.", "S": [], "A": []}

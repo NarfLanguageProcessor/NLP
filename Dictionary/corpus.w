@@ -1,0 +1,1 @@
+{"index": 69569, "D": "a large or complete collection of writings", "S": ["bulk ", "collection ", "compilation ", "core ", "entirety ", "mass ", "oeuvre ", "staple ", "substance ", "whole "], "A": ["part "]}

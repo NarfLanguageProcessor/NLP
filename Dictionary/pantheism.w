@@ -1,0 +1,1 @@
+{"index": 224926, "D": "the doctrine that God is the transcendent reality of which the material universe and human beings are only manifestations", "S": [], "A": []}

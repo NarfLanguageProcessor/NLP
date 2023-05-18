@@ -1,0 +1,1 @@
+{"index": 143760, "D": "a hero celebrated for his defense of the bridge over the Tiber against the Etruscans.", "S": [], "A": []}

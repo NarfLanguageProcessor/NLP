@@ -1,0 +1,1 @@
+{"index": 111246, "D": "a small opening or perforation, as in a bone, especially between the middle and inner ear.", "S": [], "A": []}

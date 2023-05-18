@@ -1,0 +1,1 @@
+{"index": 13442, "D": "an elephant goad of India with a spike and a hook at one end.", "S": [], "A": []}

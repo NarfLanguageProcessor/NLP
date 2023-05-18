@@ -1,0 +1,1 @@
+{"index": 257234, "D": "to go or move in a stealthy or cautious manner.", "S": ["avoid ", "creep ", "dodge ", "equivocate ", "evade ", "glide ", "hedge ", "lurk ", "prevaricate ", "prowl ", "shuffle ", "sidestep ", "skirt ", "skulk ", "slide ", "slink ", "slip ", "sneak ", "steal ", "tergiversate ", "tiptoe "], "A": ["confront ", "face ", "meet ", "take on "]}

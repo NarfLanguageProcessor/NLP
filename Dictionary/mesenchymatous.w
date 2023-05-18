@@ -1,0 +1,1 @@
+{"index": 184055, "D": "cells of mesodermal origin that are capable of developing into connective tissues, blood, and lymphatic and blood vessels.", "S": [], "A": []}

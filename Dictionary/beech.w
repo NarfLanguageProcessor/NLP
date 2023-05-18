@@ -1,0 +1,1 @@
+{"index": 30279, "D": "any deciduous tree of the genus Fagus, of temperate regions, having a smooth gray bark and bearing small, edible, triangular nuts.", "S": [], "A": []}

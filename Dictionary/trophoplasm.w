@@ -1,0 +1,1 @@
+{"index": 331198, "D": "the cytoplasm that is involved in the nutritive processes of a cell", "S": [], "A": []}

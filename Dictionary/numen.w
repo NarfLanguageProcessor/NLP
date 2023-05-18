@@ -1,0 +1,1 @@
+{"index": 209543, "D": "divine power or spirit; a deity, especially one presiding locally or believed to inhabit a particular object.", "S": ["ability ", "accomplishment ", "endowment "], "A": ["failing ", "shortcoming ", "weakness ", "inability ", "incapacity ", "incompetence ", "ineptitude ", "ineptness ", "lack "]}

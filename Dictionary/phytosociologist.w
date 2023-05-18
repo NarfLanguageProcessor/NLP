@@ -1,0 +1,1 @@
+{"index": 234385, "D": "the branch of ecology dealing with the origin, composition, structure, and classification of plant communities.", "S": [], "A": []}

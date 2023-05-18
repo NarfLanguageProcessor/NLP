@@ -1,0 +1,1 @@
+{"index": 216248, "D": "composed mainly or entirely of stretchers (opposed to inbond).", "S": [], "A": []}

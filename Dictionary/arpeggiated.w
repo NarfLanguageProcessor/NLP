@@ -1,0 +1,1 @@
+{"index": 20120, "D": "to sound the notes of (a chord) in succession.", "S": [], "A": []}

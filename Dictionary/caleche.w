@@ -1,0 +1,1 @@
+{"index": 44988, "D": "(especially in Quebec, Canada) a type of calash pulled by a single horse, seating two passengers and having two wheels and a folding top.", "S": [], "A": []}

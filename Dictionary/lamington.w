@@ -1,0 +1,1 @@
+{"index": 167728, "D": "a cube or block of sponge cake  coated with chocolate and dried coconut, and sometimes having a layer of cream or jam as filling, common in Australia and New Zealand.", "S": [], "A": []}

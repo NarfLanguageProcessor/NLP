@@ -1,0 +1,1 @@
+{"index": 352684, "D": "having or exhibiting something that provokes or arouses expectation, interest, or desire, especially that which remains unobtainable or beyond one's reach", "S": [], "A": []}

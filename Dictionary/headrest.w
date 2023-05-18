@@ -1,0 +1,1 @@
+{"index": 134690, "D": "a rest  or support of any kind for the head. ", "S": ["buffer ", "mat "], "A": []}

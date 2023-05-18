@@ -1,0 +1,1 @@
+{"index": 135447, "D": "simple past tense and a past participle of hold1. ", "S": ["adhered ", "believed ", "clutched ", "controlled ", "defended ", "detained ", "gripped ", "guarded ", "occupied ", "retained ", "taken "], "A": ["freed ", "lost ", "released "]}

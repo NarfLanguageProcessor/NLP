@@ -1,0 +1,1 @@
+{"index": 59298, "D": "any of several aromatic herbs of the genus Salvia, especially S. sclarea, having hairy, heart-shaped leaves and open clusters of lilac or blue flowers, used as a seasoning, a wine flavoring, and an ingredient in perfumes.", "S": [], "A": []}

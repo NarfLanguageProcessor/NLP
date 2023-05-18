@@ -1,0 +1,1 @@
+{"index": 324362, "D": "(of an object) liable to tip  over.", "S": ["erratic ", "groggy ", "precarious ", "rickety ", "rocky ", "unstable ", "wobbly "], "A": ["certain ", "definite ", "dependable ", "stable ", "steady ", "strong ", "sure "]}

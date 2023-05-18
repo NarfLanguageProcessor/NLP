@@ -1,0 +1,1 @@
+{"index": 300667, "D": "a cutting tool having a blade set between two handles, originally for shaping spokes,  but now in general use for dressing curved edges of wood and forming round bars and shapes.", "S": [], "A": []}

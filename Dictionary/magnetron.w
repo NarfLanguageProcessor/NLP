@@ -1,0 +1,1 @@
+{"index": 177583, "D": "a two-element vacuum tube in which the flow of electrons is under the influence of an external magnetic field, used to generate extremely short radio waves.", "S": [], "A": []}

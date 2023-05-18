@@ -1,0 +1,1 @@
+{"index": 229603, "D": "capable of being penetrated. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249141, "D": "to have recourse for use, help, or accomplishing something, often as a final available option or resource", "S": [], "A": []}

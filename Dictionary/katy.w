@@ -1,0 +1,1 @@
+{"index": 163407, "D": "a female given name, form of Katherine  or Catherine. ", "S": [], "A": []}

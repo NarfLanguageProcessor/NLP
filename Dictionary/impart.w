@@ -1,0 +1,1 @@
+{"index": 148296, "D": "to make known; tell; relate; disclose", "S": ["communicate ", "convey ", "pass on ", "transmit "], "A": ["keep ", "withhold ", "conceal ", "cover ", "hide ", "secret ", "secrete ", "suppress "]}

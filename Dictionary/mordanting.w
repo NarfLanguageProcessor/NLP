@@ -1,0 +1,1 @@
+{"index": 193360, "D": "sharply caustic or sarcastic, as wit or a speaker; biting. ", "S": [], "A": []}

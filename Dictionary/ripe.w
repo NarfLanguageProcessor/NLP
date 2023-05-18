@@ -1,0 +1,1 @@
+{"index": 273144, "D": "having arrived at such a stage of growth or development as to be ready for reaping, gathering, eating, or use, as grain or fruit; completely matured.", "S": ["mature ", "overdue ", "plump ", "prepared ", "ready "], "A": ["immature ", "unprepared ", "unready "]}

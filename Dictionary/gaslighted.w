@@ -1,0 +1,1 @@
+{"index": 122385, "D": "to cause (a person) to doubt their judgment, memory, or sanity through the use of psychological manipulation", "S": [], "A": []}

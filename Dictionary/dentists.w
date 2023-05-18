@@ -1,0 +1,1 @@
+{"index": 81342, "D": "a person whose profession is dentistry. ", "S": [], "A": []}

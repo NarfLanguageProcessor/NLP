@@ -1,0 +1,1 @@
+{"index": 367229, "D": "any of various juncaceous plants of the genus Luzula, chiefly of cold and temperate regions of the N hemisphere, having grasslike leaves and small brown flowers", "S": [], "A": []}

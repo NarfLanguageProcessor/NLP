@@ -1,0 +1,1 @@
+{"index": 133967, "D": "English journalist who published the first newspaper in America 1690.", "S": [], "A": []}

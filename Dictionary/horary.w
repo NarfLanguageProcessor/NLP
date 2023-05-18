@@ -1,0 +1,1 @@
+{"index": 143754, "D": "pertaining to an hour;  indicating the hours", "S": [], "A": []}

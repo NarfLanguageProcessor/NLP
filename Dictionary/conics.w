@@ -1,0 +1,1 @@
+{"index": 66318, "D": "the branch of geometry that deals with conic  sections.", "S": [], "A": []}

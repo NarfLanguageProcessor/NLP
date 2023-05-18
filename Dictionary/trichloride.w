@@ -1,0 +1,1 @@
+{"index": 329388, "D": "a chloride  having three atoms of chlorine, as ferric chloride,  FeCl3.", "S": [], "A": []}

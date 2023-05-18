@@ -1,0 +1,1 @@
+{"index": 36538, "D": "to ruin; botch", "S": ["blooper ", "looper ", "pop-up "], "A": []}

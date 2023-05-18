@@ -1,0 +1,1 @@
+{"index": 219300, "D": "true to one's word, promises, vows, etc.", "S": [], "A": []}

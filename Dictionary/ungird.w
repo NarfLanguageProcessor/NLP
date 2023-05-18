@@ -1,0 +1,1 @@
+{"index": 343049, "D": "to loosen or remove a girdle or belt from.", "S": [], "A": []}

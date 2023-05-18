@@ -1,0 +1,1 @@
+{"index": 27560, "D": "a variant spelling of banisters", "S": [], "A": []}

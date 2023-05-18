@@ -1,0 +1,1 @@
+{"index": 56797, "D": "a white, crystalline, unstable, deliquescent solid, CH2N2, usually produced by the action of ammonia on cyanogen chloride or by the action of sulfuric acid on calcium cyanamide. ", "S": [], "A": []}

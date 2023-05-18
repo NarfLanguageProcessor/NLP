@@ -1,0 +1,1 @@
+{"index": 30348, "D": "the chief devil; Satan.", "S": ["Lucifer ", "Mephistopheles ", "Satan ", "adversary ", "dastard ", "djinn ", "fiend ", "genie ", "hellion ", "imp ", "monster ", "ogre ", "rogue ", "villain "], "A": ["angel ", "god "]}

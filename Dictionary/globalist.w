@@ -1,0 +1,1 @@
+{"index": 126457, "D": "the attitude or policy of placing the interests of the entire world above those of individual nations.", "S": [], "A": []}

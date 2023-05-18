@@ -1,0 +1,1 @@
+{"index": 218377, "D": "not hesitating or fearful in the face of actual or possible danger or rebuff; courageous and daring", "S": ["conspicuous ", "flagrant ", "glaring ", "outright ", "overt ", "shameless ", "unabashed "], "A": ["concealed ", "hidden ", "moral ", "secret "]}

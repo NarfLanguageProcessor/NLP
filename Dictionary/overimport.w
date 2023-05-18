@@ -1,0 +1,1 @@
+{"index": 219802, "D": "to bring in (merchandise, commodities, workers, etc.) from a foreign country for use, sale, processing, reexport, or services.", "S": [], "A": []}

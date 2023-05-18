@@ -1,0 +1,1 @@
+{"index": 196501, "D": "a disease of horses and other animals, widespread in parts of Africa, caused by the organism Trypanosoma brucei, and transmitted by a variety of tsetse fly.", "S": [], "A": []}

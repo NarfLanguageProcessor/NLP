@@ -1,0 +1,1 @@
+{"index": 50780, "D": "strong or vehement expression of disapproval", "S": ["attacker ", "carper ", "caviler ", "censor ", "complainant ", "complainer ", "defamer ", "disparager ", "doubter ", "maligner ", "muckraker ", "nagger ", "quibbler ", "scolder ", "slanderer ", "vilifier ", "worrier ", "zapper "], "A": []}

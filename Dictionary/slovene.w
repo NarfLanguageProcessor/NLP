@@ -1,0 +1,1 @@
+{"index": 294436, "D": "of, relating to, or characteristic of Slovenia, its people, or their language", "S": [], "A": []}

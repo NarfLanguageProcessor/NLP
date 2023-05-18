@@ -1,0 +1,1 @@
+{"index": 116886, "D": "the part of the body of a horse or similar quadruped that consists of the forelegs, shoulders, and adjoining parts", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343941, "D": "a portable barrier over which contestants must leap in certain running races, usually a wooden frame with a hinged inner frame that swings down under impact to prevent injury to a runner who does not clear it.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236525, "D": "a person who does anything in a contemptibly small or cheap way.", "S": ["Scrooge ", "skinflint ", "tightwad "], "A": []}

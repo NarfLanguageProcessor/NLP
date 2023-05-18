@@ -1,0 +1,1 @@
+{"index": 308716, "D": "the doctrine that the first person of the Holy Trinity is superior to the second, and the second superior to the third.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 140952, "D": "growing beneath, or on the undersurface, as fungi on leaves.", "S": [], "A": []}

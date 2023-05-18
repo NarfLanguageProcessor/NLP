@@ -1,0 +1,1 @@
+{"index": 171547, "D": "all of the instinctual energies and desires that are derived from the id. ", "S": [], "A": []}

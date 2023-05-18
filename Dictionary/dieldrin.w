@@ -1,0 +1,1 @@
+{"index": 85148, "D": "a light tan, crystalline, water-insoluble, poisonous solid, C12H8OCl6, used as an insecticide", "S": [], "A": []}

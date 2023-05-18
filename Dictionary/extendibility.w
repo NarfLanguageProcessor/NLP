@@ -1,0 +1,1 @@
+{"index": 108218, "D": "to stretch out; draw out to the full length", "S": [], "A": []}

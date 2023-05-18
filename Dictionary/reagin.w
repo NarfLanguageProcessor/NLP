@@ -1,0 +1,1 @@
+{"index": 261698, "D": "an antibody formed in response to syphilis and reactive with cardiolipin in various blood tests for the disease.", "S": [], "A": []}

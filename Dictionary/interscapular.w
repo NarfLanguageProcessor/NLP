@@ -1,0 +1,1 @@
+{"index": 155867, "D": "between the scapulae  or shoulder blades.", "S": [], "A": []}

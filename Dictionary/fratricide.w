@@ -1,0 +1,1 @@
+{"index": 118479, "D": "the act of killing one's brother or a member of one\u2019s own tribe or group.", "S": [], "A": []}

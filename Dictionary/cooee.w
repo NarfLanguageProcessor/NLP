@@ -1,0 +1,1 @@
+{"index": 68203, "D": "a prolonged, shrill, clear call or cry used as a signal by Aboriginal inhabitants of Australia and adopted by the settlers in the country.", "S": [], "A": []}

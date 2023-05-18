@@ -1,0 +1,1 @@
+{"index": 79735, "D": "to remove the horns  of (cattle).", "S": [], "A": []}

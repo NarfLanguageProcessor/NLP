@@ -1,0 +1,1 @@
+{"index": 56741, "D": "a container or machine in which cream or milk is agitated to make butter.", "S": ["boil ", "bubble ", "simmer ", "swirl "], "A": ["freeze "]}

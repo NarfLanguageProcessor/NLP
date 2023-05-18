@@ -1,0 +1,1 @@
+{"index": 163466, "D": "kilocycle; kilocycles.", "S": [], "A": []}

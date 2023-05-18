@@ -1,0 +1,1 @@
+{"index": 255941, "D": "the activities or business of a publisher,  especially of books or periodicals", "S": ["advertisement ", "briefing ", "broadcast ", "disclosure ", "message ", "news ", "notice ", "prediction ", "publication ", "release ", "report ", "revelation ", "statement "], "A": ["secret ", "concealment ", "suppression "]}

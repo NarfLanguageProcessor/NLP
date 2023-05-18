@@ -1,0 +1,1 @@
+{"index": 43147, "D": "to put in the ground and cover with earth", "S": ["funeral ", "interment "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 161133, "D": "the wife of Ahab, king of Israel. 1 Kings 16", "S": ["broad ", "floozy ", "harlot ", "hooker ", "hussy ", "jade ", "scarlet ", "slut ", "strumpet ", "tart ", "trollop ", "vamp ", "whore "], "A": []}

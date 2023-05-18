@@ -1,0 +1,1 @@
+{"index": 337052, "D": "the highest or most intense point in the development or resolution of something; culmination", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171619, "D": "a variant of license. ", "S": [], "A": []}

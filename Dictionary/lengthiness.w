@@ -1,0 +1,1 @@
+{"index": 170419, "D": "having or being of great length;  very long", "S": ["breadth ", "diameter ", "dimension ", "duration ", "height ", "limit ", "magnitude ", "mileage ", "period ", "piece ", "portion ", "quantity ", "radius ", "range ", "section ", "segment ", "space ", "span ", "stretch ", "term ", "width "], "A": ["extreme ", "unimportance ", "whole "]}

@@ -1,0 +1,1 @@
+{"index": 344930, "D": "having one parent, as an organism produced by parthenogenesis.", "S": [], "A": []}

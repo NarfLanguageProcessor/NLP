@@ -1,0 +1,1 @@
+{"index": 182808, "D": "the quantity of meal ground at one time; the yield of meal from a crop or specific amount of grain.", "S": [], "A": []}

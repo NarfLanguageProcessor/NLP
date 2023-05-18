@@ -1,0 +1,1 @@
+{"index": 242491, "D": "any sulphide of a metal containing divalent anions in which there are chains of sulphur atoms, as in the polysulphides of sodium, Na 2 S 2, Na 2 S 3, Na 2 S 4, etc", "S": [], "A": []}

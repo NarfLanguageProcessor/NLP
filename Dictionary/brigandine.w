@@ -1,0 +1,1 @@
+{"index": 40750, "D": "a flexible body armor of overlapping steel plates with an exterior covering of linen, velvet, leather, etc.", "S": [], "A": []}

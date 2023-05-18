@@ -1,0 +1,1 @@
+{"index": 31690, "D": "the utilitarian philosophy of Jeremy Bentham. ", "S": [], "A": []}

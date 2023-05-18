@@ -1,0 +1,1 @@
+{"index": 240487, "D": "well filled out or rounded in form; somewhat fleshy or fat.", "S": ["fatness ", "overweight ", "stoutness "], "A": []}

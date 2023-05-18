@@ -1,0 +1,1 @@
+{"index": 199672, "D": "one of a pair of prisms  used to produce and analyze plane-polarized light in a polarizing microscope.", "S": [], "A": []}

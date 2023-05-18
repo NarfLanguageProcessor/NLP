@@ -1,0 +1,1 @@
+{"index": 210422, "D": "to dominate or preoccupy the thoughts, feelings, or desires of (a person); beset, trouble, or haunt persistently or abnormally", "S": [], "A": []}

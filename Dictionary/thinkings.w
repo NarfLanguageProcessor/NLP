@@ -1,0 +1,1 @@
+{"index": 321906, "D": "rational; reasoning", "S": ["reasoning "], "A": ["brainless ", "dumb ", "irrational ", "stupid ", "unintelligent ", "vacuous "]}

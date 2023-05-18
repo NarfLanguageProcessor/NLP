@@ -1,0 +1,1 @@
+{"index": 75915, "D": "dictatorship; despotic or autocratic government.", "S": ["despotism ", "dictatorship ", "oppression ", "tyranny "], "A": ["democracy "]}

@@ -1,0 +1,1 @@
+{"index": 157657, "D": "to separate or change into ions. ", "S": [], "A": []}

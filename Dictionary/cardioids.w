@@ -1,0 +1,1 @@
+{"index": 47801, "D": "a somewhat heart-shaped curve, being the path of a point on a circle that rolls externally, without slipping, on another equal circle. Equation", "S": [], "A": []}

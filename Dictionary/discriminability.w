@@ -1,0 +1,1 @@
+{"index": 87729, "D": "capable of being discriminated  or distinguished.", "S": [], "A": []}

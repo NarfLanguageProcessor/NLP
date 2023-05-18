@@ -1,0 +1,1 @@
+{"index": 110190, "D": "something that fastens,  as a lock or clasp.", "S": ["clasp ", "fastener ", "hook ", "lock "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 277275, "D": "any of various plants or shrubs of the genus Atriplex, having mostly alternate leaves and clusters of inconspicuous flowers, often growing in saline or alkaline soil.", "S": [], "A": []}

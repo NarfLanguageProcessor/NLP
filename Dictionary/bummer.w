@@ -1,0 +1,1 @@
+{"index": 42739, "D": "a person who bums  off others.", "S": ["disappointment ", "disaster ", "downer ", "drag ", "misfortune "], "A": ["miracle ", "success ", "wonder "]}

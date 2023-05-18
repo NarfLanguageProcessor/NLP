@@ -1,0 +1,1 @@
+{"index": 98866, "D": "a large retail store, especially one selling a great variety of articles.", "S": ["bazaar ", "boutique ", "co-op ", "discount store ", "flea market ", "mall ", "mart ", "outlet ", "shop ", "shopping center ", "supermarket "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343693, "D": "characterized by hesitation; hesitating. ", "S": [], "A": []}

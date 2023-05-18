@@ -1,0 +1,1 @@
+{"index": 323925, "D": "a solution of alcohol or of alcohol and water, containing animal, vegetable, or chemical drugs.", "S": ["imbue ", "suffuse "], "A": ["whiten "]}

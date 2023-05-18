@@ -1,0 +1,1 @@
+{"index": 58309, "D": "a brilliant, highly glazed surface produced on fabrics by subjecting them to a wax, heat, and calendering treatment.", "S": [], "A": []}

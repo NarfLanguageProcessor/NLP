@@ -1,0 +1,1 @@
+{"index": 208008, "D": "a person or thing that travels. ", "S": [], "A": []}

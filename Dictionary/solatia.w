@@ -1,0 +1,1 @@
+{"index": 296530, "D": "something given in compensation for inconvenience, loss, injury, or the like; recompense.", "S": ["compensation package ", "perk ", "perquisite "], "A": []}

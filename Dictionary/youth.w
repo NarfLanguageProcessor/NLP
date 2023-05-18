@@ -1,0 +1,1 @@
+{"index": 157765, "D": "the condition of being young.", "S": ["minority ", "teens "], "A": ["adulthood ", "experience ", "knowledge "]}

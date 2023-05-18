@@ -1,0 +1,1 @@
+{"index": 75256, "D": "to change into curd;  coagulate; congeal.", "S": [], "A": []}

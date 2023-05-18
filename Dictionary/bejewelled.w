@@ -1,0 +1,1 @@
+{"index": 30914, "D": "decorated with or as if with jewels", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 208056, "D": "pertaining to or exercised by a tutor", "S": [], "A": []}

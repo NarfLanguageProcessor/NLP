@@ -1,0 +1,1 @@
+{"index": 241812, "D": "native to several countries or regions", "S": [], "A": []}

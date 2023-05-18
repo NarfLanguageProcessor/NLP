@@ -1,0 +1,1 @@
+{"index": 1451, "D": "prominence of a syllable in terms of differential loudness, or of pitch, or length, or of a combination of these.", "S": ["significance ", "stress ", "weight "], "A": ["triviality ", "unimportance "]}

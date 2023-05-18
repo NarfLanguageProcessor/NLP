@@ -1,0 +1,1 @@
+{"index": 276002, "D": "a foot defense of mail or of a number of lames with solid toe and heel pieces.", "S": [], "A": []}

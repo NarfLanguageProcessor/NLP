@@ -1,0 +1,1 @@
+{"index": 68935, "D": "being in the shape of a heart;  heart-shaped.", "S": [], "A": []}

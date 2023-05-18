@@ -1,0 +1,1 @@
+{"index": 115801, "D": "See also lapse rate", "S": [], "A": []}

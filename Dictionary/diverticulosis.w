@@ -1,0 +1,1 @@
+{"index": 90285, "D": "the presence of saclike herniations of the mucosal layer of the colon through the muscular wall, common among older persons and usually producing no symptoms except occasional rectal bleeding.", "S": [], "A": []}

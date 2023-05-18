@@ -1,0 +1,1 @@
+{"index": 137872, "D": "felled and roughly shaped by hewing", "S": ["chiseled ", "engraved ", "sculpted ", "sculptured "], "A": []}

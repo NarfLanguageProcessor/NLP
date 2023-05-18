@@ -1,0 +1,1 @@
+{"index": 296077, "D": "a nickname.", "S": ["appellation ", "moniker "], "A": ["name "]}

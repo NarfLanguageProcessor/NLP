@@ -1,0 +1,1 @@
+{"index": 369014, "D": "(in the former U.S.S.R.) an inmate of a forced-labor camp.", "S": [], "A": []}

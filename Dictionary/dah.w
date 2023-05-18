@@ -1,0 +1,1 @@
+{"index": 76235, "D": "an echoic word, the referent of which is a tone interval approximately three times the length of the dot, used to designate the dash of Morse code, International Morse code, etc.", "S": [], "A": []}

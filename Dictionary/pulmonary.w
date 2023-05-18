@@ -1,0 +1,1 @@
+{"index": 256303, "D": "of or relating to the lungs.", "S": [], "A": []}

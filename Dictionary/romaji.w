@@ -1,0 +1,1 @@
+{"index": 274006, "D": "a system of writing Japanese using the letters of the Latin alphabet.", "S": [], "A": []}

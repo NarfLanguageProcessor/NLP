@@ -1,0 +1,1 @@
+{"index": 47745, "D": "excision of the heart.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151104, "D": "sick or ill, especially slightly", "S": ["ailing ", "confined ", "down ", "sick "], "A": ["happy ", "healthy "]}

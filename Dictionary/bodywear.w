@@ -1,0 +1,1 @@
+{"index": 37225, "D": "close-fitting clothing, as leotards or bodysuits, made of lightweight, usually stretch fabrics and worn  for exercising, dancing, or leisure activity.", "S": [], "A": []}

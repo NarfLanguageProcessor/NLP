@@ -1,0 +1,1 @@
+{"index": 241327, "D": "the two brightest stars in the Plough (Dubhe and Merak), which lie in the direction pointing towards the Pole Star and are therefore used to locate it", "S": ["arrow ", "dial ", "director ", "gauge ", "guide ", "hand ", "index ", "mark ", "needle ", "register ", "rod ", "signal "], "A": []}

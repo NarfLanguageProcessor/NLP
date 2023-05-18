@@ -1,0 +1,1 @@
+{"index": 178139, "D": "a string of beads or knots, used in praying and meditating", "S": [], "A": []}

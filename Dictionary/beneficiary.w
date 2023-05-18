@@ -1,0 +1,1 @@
+{"index": 31565, "D": "a person or group that receives benefits, profits, or advantages.", "S": ["heir ", "recipient "], "A": ["giver "]}

@@ -1,0 +1,1 @@
+{"index": 166917, "D": "of or resembling lace;  lacelike", "S": ["frilly ", "gauzy ", "ornate ", "patterned "], "A": ["heavy ", "thick "]}

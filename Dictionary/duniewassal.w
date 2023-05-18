@@ -1,0 +1,1 @@
+{"index": 94186, "D": "a gentleman, especially a cadet of a ranking family, among the Highlanders of Scotland.", "S": [], "A": []}

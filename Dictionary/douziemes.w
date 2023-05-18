@@ -1,0 +1,1 @@
+{"index": 92111, "D": "(in Swiss watchmaking) the 12th part of a ligne, used mainly to gauge the thickness of a movement.", "S": [], "A": []}

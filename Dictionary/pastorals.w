@@ -1,0 +1,1 @@
+{"index": 227495, "D": "having the simplicity, charm, serenity, or other characteristics generally attributed to rural areas", "S": ["advice ", "exhortation ", "homily ", "lecture ", "lesson ", "preaching ", "tirade "], "A": []}

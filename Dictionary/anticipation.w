@@ -1,0 +1,1 @@
+{"index": 14915, "D": "the act of anticipating  or the state of being anticipated. ", "S": ["apprehension ", "hope ", "joy ", "prospect "], "A": ["ignorance "]}

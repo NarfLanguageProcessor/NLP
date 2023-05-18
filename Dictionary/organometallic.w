@@ -1,0 +1,1 @@
+{"index": 214441, "D": "pertaining to or noting an organic compound containing a metal or a metalloid linked to carbon.", "S": [], "A": []}

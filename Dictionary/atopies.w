@@ -1,0 +1,1 @@
+{"index": 22800, "D": "an allergy, involving an inherited immunoglobulin of the IgE type, that predisposes a person to certain allergic responses, as atopic  dermatitis.", "S": [], "A": []}

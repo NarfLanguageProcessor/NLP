@@ -1,0 +1,1 @@
+{"index": 329909, "D": "extremely annoying, difficult, or the like; straining one's patience and goodwill to the limit", "S": ["arduous ", "demanding ", "irritating ", "strenuous ", "stressful ", "taxing ", "tricky ", "troublesome ", "upsetting ", "vexing "], "A": ["easy ", "facile "]}

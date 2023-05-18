@@ -1,0 +1,1 @@
+{"index": 60311, "D": "a clumsy boor; rustic; bumpkin.", "S": ["brogans ", "brogues "], "A": []}

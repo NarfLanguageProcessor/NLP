@@ -1,0 +1,1 @@
+{"index": 312313, "D": "being in excess of the usual, proper, or prescribed number; additional; extra.", "S": ["extra ", "mute ", "spear-carrier ", "supernumerary ", "supporting actor ", "supporting actress ", "supporting player "], "A": ["lead "]}

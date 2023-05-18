@@ -1,0 +1,1 @@
+{"index": 76437, "D": "a selective herbicide, C3H4Cl2O2, used to eradicate certain grass weeds in sugarcane and other crops.", "S": [], "A": []}

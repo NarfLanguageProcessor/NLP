@@ -1,0 +1,1 @@
+{"index": 325249, "D": "capable of being tolerated;  endurable", "S": ["competence ", "fairness ", "sufficiency "], "A": ["inadequacy ", "inadequateness ", "insufficiency "]}

@@ -1,0 +1,1 @@
+{"index": 12468, "D": "a short account of a particular incident or event, especially of an interesting or amusing nature.", "S": [], "A": []}

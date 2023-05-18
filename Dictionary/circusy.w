@@ -1,0 +1,1 @@
+{"index": 58300, "D": "Compare big top. ", "S": [], "A": []}

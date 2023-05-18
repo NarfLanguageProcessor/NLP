@@ -1,0 +1,1 @@
+{"index": 150452, "D": "the quality or state of being incredulous;  inability or unwillingness to believe.", "S": ["amazement ", "skepticism "], "A": []}

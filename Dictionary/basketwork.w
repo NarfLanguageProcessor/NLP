@@ -1,0 +1,1 @@
+{"index": 28723, "D": "objects, textiles, etc., made or woven in the manner of a basket;  basketry; wickerwork; interwoven work. ", "S": [], "A": []}

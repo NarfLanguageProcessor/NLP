@@ -1,0 +1,1 @@
+{"index": 369924, "D": "any of various invertebrate animals resembling a plant, as a coral or a sea anemone.", "S": [], "A": []}

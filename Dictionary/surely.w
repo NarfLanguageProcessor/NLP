@@ -1,0 +1,1 @@
+{"index": 313365, "D": "firmly; unerringly; without missing, slipping, etc.", "S": ["absolutely ", "assuredly ", "certainly ", "clearly ", "definitely ", "evidently ", "indeed ", "inevitably ", "inexorably ", "plainly ", "undoubtedly ", "unquestionably "], "A": ["doubtfully ", "dubiously ", "indefinite ", "indefinitely ", "questionably ", "vaguely "]}

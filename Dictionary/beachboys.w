@@ -1,0 +1,1 @@
+{"index": 29350, "D": "a male attendant or swimming instructor at a beach. ", "S": [], "A": []}

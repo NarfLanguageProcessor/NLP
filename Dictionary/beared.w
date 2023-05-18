@@ -1,0 +1,1 @@
+{"index": 29539, "D": "to hold up; support", "S": [], "A": []}

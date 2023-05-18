@@ -1,0 +1,1 @@
+{"index": 124982, "D": "a contrivance, consisting of a ring or base on an axis, that permits an object, as a ship's compass, mounted in or on it to tilt freely in any direction, in effect suspending the object so that it will remain horizontal even when its support is tipped.", "S": [], "A": []}

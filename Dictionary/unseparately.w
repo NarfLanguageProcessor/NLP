@@ -1,0 +1,1 @@
+{"index": 350793, "D": "in such a way as to be physically detached, disconnected, or disjoined", "S": [], "A": []}

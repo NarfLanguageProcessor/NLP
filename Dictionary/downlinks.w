@@ -1,0 +1,1 @@
+{"index": 92273, "D": "a transmission path for data or other signals from a communications satellite or airborne platform to an earth station.", "S": ["circuit ", "communications pathway ", "network ", "pathway ", "signal route "], "A": []}

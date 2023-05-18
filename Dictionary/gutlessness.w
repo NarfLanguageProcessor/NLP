@@ -1,0 +1,1 @@
+{"index": 131589, "D": "lacking courage, fortitude, or determination.", "S": ["cowardliness ", "cravenness ", "dastardliness ", "faintheartedness ", "fear ", "fearfulness ", "funk ", "pusillanimity ", "unmanliness "], "A": []}

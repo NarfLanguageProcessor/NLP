@@ -1,0 +1,1 @@
+{"index": 344574, "D": "not inhibited  or restricted", "S": ["spontaneity "], "A": ["restraint ", "self-restraint "]}

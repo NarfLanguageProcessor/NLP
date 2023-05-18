@@ -1,0 +1,1 @@
+{"index": 159280, "D": "an instrument used to measure vapour pressure", "S": [], "A": []}

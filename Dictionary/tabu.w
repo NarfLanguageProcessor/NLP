@@ -1,0 +1,1 @@
+{"index": 314916, "D": "proscribed by society as improper or unacceptable", "S": ["banned ", "outlawed ", "prohibited ", "unthinkable "], "A": ["OK ", "acceptable ", "allowed "]}

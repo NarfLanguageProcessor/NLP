@@ -1,0 +1,1 @@
+{"index": 192220, "D": "a person favoring monocracy.", "S": ["autocrat ", "oppressor ", "tyrant "], "A": []}

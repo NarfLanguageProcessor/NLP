@@ -1,0 +1,1 @@
+{"index": 167570, "D": "to beat or whip severely.", "S": ["assail ", "berate ", "castigate ", "excoriate ", "scold ", "upbraid "], "A": ["compliment ", "laud ", "praise ", "approve ", "flatter ", "protect "]}

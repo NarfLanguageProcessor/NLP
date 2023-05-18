@@ -1,0 +1,1 @@
+{"index": 148260, "D": "the doctrine that the body and blood of Christ are in the bread and wine after consecration.", "S": [], "A": []}

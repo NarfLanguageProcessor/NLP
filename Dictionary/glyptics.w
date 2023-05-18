@@ -1,0 +1,1 @@
+{"index": 126386, "D": "glyptography (def. 2). ", "S": [], "A": []}

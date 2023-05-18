@@ -1,0 +1,1 @@
+{"index": 67886, "D": "the most anterior part of the simple tubular heart of lower vertebrates and embryos of higher vertebrates, leading into the artery that leaves the heart; in mammals it forms a part of the upper wall of the right ventricle, in which the pulmonary artery originates.", "S": [], "A": []}

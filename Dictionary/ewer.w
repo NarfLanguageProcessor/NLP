@@ -1,0 +1,1 @@
+{"index": 106354, "D": "a pitcher with a wide spout.", "S": ["decanter ", "jug ", "pitcher ", "urn ", "vessel "], "A": []}

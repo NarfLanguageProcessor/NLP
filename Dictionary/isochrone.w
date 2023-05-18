@@ -1,0 +1,1 @@
+{"index": 158848, "D": "a line, as on a map, connecting all points having some property simultaneously, as in having the same delay in receiving a radio signal from a given source or requiring the same time to be reached by available transportation from a given center.", "S": [], "A": []}

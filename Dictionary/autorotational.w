@@ -1,0 +1,1 @@
+{"index": 24358, "D": "the condition of flight occurring when lift is derived solely from the action of air upon the unpowered rotor of a moving helicopter or autogiro.", "S": [], "A": []}

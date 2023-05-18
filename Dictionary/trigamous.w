@@ -1,0 +1,1 @@
+{"index": 329787, "D": "of or relating to trigamy or a trigamist.", "S": [], "A": []}

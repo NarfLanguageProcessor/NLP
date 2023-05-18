@@ -1,0 +1,1 @@
+{"index": 177998, "D": "a tree, Maytenus boaria, native to Chile, having narrow leaves and drooping branches, planted as a street tree in Florida and southern California.", "S": [], "A": []}

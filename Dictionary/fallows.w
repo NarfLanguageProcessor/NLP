@@ -1,0 +1,1 @@
+{"index": 109514, "D": "(of land) plowed and left unseeded for a season or more; uncultivated.", "S": [], "A": []}

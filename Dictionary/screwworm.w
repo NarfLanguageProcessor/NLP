@@ -1,0 +1,1 @@
+{"index": 281770, "D": "the larva of any of certain flies of the genus Callitroga, which sometimes infests wounds and the nose and navel of domestic animals and humans.", "S": [], "A": []}

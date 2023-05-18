@@ -1,0 +1,1 @@
+{"index": 258067, "D": "to saw  (lumber) from quarter  sections of logs so that the annual rings in any board form at least a 45\u00b0 angle with the faces of the board.", "S": [], "A": []}

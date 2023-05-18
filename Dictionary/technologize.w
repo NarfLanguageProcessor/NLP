@@ -1,0 +1,1 @@
+{"index": 317691, "D": "to make technological; to modernize or modify with technology.", "S": [], "A": []}

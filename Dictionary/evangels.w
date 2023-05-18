@@ -1,0 +1,1 @@
+{"index": 106021, "D": "the good tidings of the redemption of the world through Jesus Christ; the gospel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341308, "D": "a most backward, unenlightened nation", "S": ["uninformed ", "unlearned "], "A": ["enlightened "]}

@@ -1,0 +1,1 @@
+{"index": 337081, "D": "causing or tending to cause disgust or aversion through excess", "S": [], "A": []}

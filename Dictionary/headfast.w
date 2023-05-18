@@ -1,0 +1,1 @@
+{"index": 134603, "D": "a mooring rope at the bows of a ship", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322720, "D": "to prosper; be fortunate or successful.", "S": [], "A": []}

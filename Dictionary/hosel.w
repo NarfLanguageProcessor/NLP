@@ -1,0 +1,1 @@
+{"index": 144142, "D": "the socket in the club head of an iron that receives the shaft.", "S": [], "A": []}

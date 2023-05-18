@@ -1,0 +1,1 @@
+{"index": 136538, "D": "an unscrupulous and ruthless subordinate, especially a criminal", "S": [], "A": []}

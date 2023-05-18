@@ -1,0 +1,1 @@
+{"index": 224143, "D": "of or related to a palpus.", "S": [], "A": []}

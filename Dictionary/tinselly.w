@@ -1,0 +1,1 @@
+{"index": 324079, "D": "decorated with or abounding in tinsel. ", "S": [], "A": []}

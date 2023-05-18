@@ -1,0 +1,1 @@
+{"index": 88227, "D": "lack of harmony;  discord.", "S": ["dissension ", "friction "], "A": ["agreement ", "peace ", "accord "]}

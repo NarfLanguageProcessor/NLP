@@ -1,0 +1,1 @@
+{"index": 75471, "D": "going rapidly over something, without noticing details; hasty; superficial", "S": ["desultory ", "offhand ", "perfunctory ", "random ", "sketchy ", "superficial "], "A": ["careful ", "detailed "]}

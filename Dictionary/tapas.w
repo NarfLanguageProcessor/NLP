@@ -1,0 +1,1 @@
+{"index": 316302, "D": "the conditioning of the body through the proper kinds and amounts of diet, rest, bodily training, meditation, etc., to bring it to the greatest possible state of creative power.", "S": [], "A": []}

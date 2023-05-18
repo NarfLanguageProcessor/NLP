@@ -1,0 +1,1 @@
+{"index": 228076, "D": "smallness of quantity; scarcity;  scantiness", "S": ["dearth ", "insufficiency ", "smallness "], "A": ["sufficiency ", "abundance ", "enough ", "plenty "]}

@@ -1,0 +1,1 @@
+{"index": 208406, "D": "(of a fabric) made of fibers autogenously bonded through the action of a chemical agent or heating device, or adhering by means of resinous substances.", "S": [], "A": []}

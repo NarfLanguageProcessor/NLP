@@ -1,0 +1,1 @@
+{"index": 337615, "D": "not thinking coherently or rationally; bewildered; perplexed", "S": ["composed ", "perceptive ", "sensible "], "A": []}

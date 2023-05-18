@@ -1,0 +1,1 @@
+{"index": 51977, "D": "a series of short, usually rapid, turns performed in a straight line across the stage.", "S": [], "A": []}

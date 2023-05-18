@@ -1,0 +1,1 @@
+{"index": 123640, "D": "the deliberate and systematic extermination of a national, racial, political, or cultural group.", "S": [], "A": []}

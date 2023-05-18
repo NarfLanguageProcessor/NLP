@@ -1,0 +1,1 @@
+{"index": 70956, "D": "a person or thing closely resembling another, especially in function", "S": ["analogue ", "complement ", "copy ", "correlate ", "correlative ", "correspondent ", "ditto ", "doppelganger ", "duplicate ", "equal ", "equivalent ", "fellow ", "like ", "mate ", "obverse ", "opposite ", "pendant ", "ringer ", "supplement ", "tally ", "twin "], "A": ["original "]}

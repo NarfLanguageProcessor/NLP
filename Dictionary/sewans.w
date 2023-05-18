@@ -1,0 +1,1 @@
+{"index": 286789, "D": "cylindrical beads made from shells, pierced and strung, used by North American Indians as a medium of exchange, for ornaments, and for ceremonial and sometimes spiritual purposes, especially such beads when white but also including the more valuable black or dark-purple varieties.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343396, "D": "(of horses, etc) walking on hooves", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253984, "D": "proud;  full of pride.", "S": [], "A": []}

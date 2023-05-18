@@ -1,0 +1,1 @@
+{"index": 261695, "D": "formed by the conjunction or collection of particulars into a whole mass or sum; total; combined", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 30503, "D": "to envelop in fog  or obscurity; becloud", "S": ["darken ", "dim ", "muddy ", "obscure ", "soften "], "A": ["brighten ", "illuminate ", "lighten "]}

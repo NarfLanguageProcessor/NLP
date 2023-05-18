@@ -1,0 +1,1 @@
+{"index": 88051, "D": "a male professional entertainer who performs monologues.", "S": [], "A": []}

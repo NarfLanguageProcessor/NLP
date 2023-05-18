@@ -1,0 +1,1 @@
+{"index": 174305, "D": "to identify or discover the place or location  of", "S": ["based ", "placed "], "A": []}

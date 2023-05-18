@@ -1,0 +1,1 @@
+{"index": 317688, "D": "the branch of knowledge that deals with the creation and use of technical means and their interrelation with life, society, and the environment, drawing upon such subjects as industrial arts, engineering, applied science, and pure science.", "S": ["automation ", "machinery "], "A": []}

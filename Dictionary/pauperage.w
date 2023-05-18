@@ -1,0 +1,1 @@
+{"index": 228129, "D": "a person without any means of support, especially a destitute person who depends on aid from public welfare funds or charity.", "S": [], "A": []}

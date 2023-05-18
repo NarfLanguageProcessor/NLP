@@ -1,0 +1,1 @@
+{"index": 96424, "D": "something that causes astonishment or excitement.", "S": [], "A": []}

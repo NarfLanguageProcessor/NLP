@@ -1,0 +1,1 @@
+{"index": 299039, "D": "a road or course for fast driving, motoring, or the like, or on which more than ordinary speed  is allowed.", "S": ["course ", "expressway ", "highway ", "track ", "turnpike "], "A": []}

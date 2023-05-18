@@ -1,0 +1,1 @@
+{"index": 273669, "D": "one of the curved pieces on which a cradle or a rocking chair rocks. ", "S": ["armchair ", "bench ", "recliner "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 177723, "D": "the keeper or driver of an elephant, especially in India and the East Indies.", "S": [], "A": []}

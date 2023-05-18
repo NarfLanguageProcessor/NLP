@@ -1,0 +1,1 @@
+{"index": 170057, "D": "by virtue of law.", "S": [], "A": []}

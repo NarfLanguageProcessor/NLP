@@ -1,0 +1,1 @@
+{"index": 172683, "D": "a terrace or ridge formed in prehistoric or medieval times by ploughing a hillside", "S": [], "A": []}

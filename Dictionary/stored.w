@@ -1,0 +1,1 @@
+{"index": 305383, "D": "an establishment where merchandise is sold, usually on a retail basis.", "S": ["gathered ", "hoarded ", "reserved ", "saved "], "A": []}

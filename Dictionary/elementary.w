@@ -1,0 +1,1 @@
+{"index": 97400, "D": "pertaining to or dealing with elements,  rudiments, or first principles", "S": ["elemental ", "fundamental ", "rudimentary ", "straightforward ", "underlying "], "A": ["additional ", "advanced ", "extra ", "secondary "]}

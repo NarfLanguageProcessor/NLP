@@ -1,0 +1,1 @@
+{"index": 295516, "D": "inclined to sniff,  as in scorn; disdainful; supercilious", "S": [], "A": []}

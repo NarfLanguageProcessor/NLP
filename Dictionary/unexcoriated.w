@@ -1,0 +1,1 @@
+{"index": 341667, "D": "to denounce or berate severely; flay verbally", "S": [], "A": []}

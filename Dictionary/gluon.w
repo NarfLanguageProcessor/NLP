@@ -1,0 +1,1 @@
+{"index": 126935, "D": "an unobserved massless particle with spin 1 that is believed to transmit the strong force between quarks, binding them together into baryons and mesons.", "S": [], "A": []}

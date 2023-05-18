@@ -1,0 +1,1 @@
+{"index": 80133, "D": "a person or thing that delineates. ", "S": [], "A": []}

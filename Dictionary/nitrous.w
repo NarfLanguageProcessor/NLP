@@ -1,0 +1,1 @@
+{"index": 200477, "D": "pertaining to compounds obtained from niter, usually containing less oxygen than the corresponding nitric compounds.", "S": [], "A": []}

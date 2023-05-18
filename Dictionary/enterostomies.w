@@ -1,0 +1,1 @@
+{"index": 101333, "D": "the making of an artificial opening into the intestine, which opens onto the abdominal wall, for feeding or drainage.", "S": [], "A": []}

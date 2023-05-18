@@ -1,0 +1,1 @@
+{"index": 88830, "D": "confused as to time or place; out of touch", "S": ["adrift ", "astray ", "bewildered ", "lost ", "perplexed ", "unhinged ", "unsettled "], "A": ["balanced ", "oriented ", "settled ", "understanding "]}

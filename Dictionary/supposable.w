@@ -1,0 +1,1 @@
+{"index": 313040, "D": "capable of being assumed, imagined, or supposed; conceivable", "S": ["authentic ", "conceivable ", "convincing ", "credible ", "persuasive ", "plausible ", "reasonable ", "satisfying "], "A": ["implausible ", "improbable ", "inconceivable ", "incredible ", "unbelievable ", "unimaginable ", "unlikely ", "unreasonable "]}

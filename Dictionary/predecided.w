@@ -1,0 +1,1 @@
+{"index": 246692, "D": "in no way uncertain or ambiguous; unmistakable; unquestionable", "S": [], "A": []}

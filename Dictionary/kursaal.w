@@ -1,0 +1,1 @@
+{"index": 166508, "D": "a public room at a health resort", "S": [], "A": []}

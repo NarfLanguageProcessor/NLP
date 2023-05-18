@@ -1,0 +1,1 @@
+{"index": 117786, "D": "a pit, cavity, or depression, as in a bone.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314432, "D": "(in many crustaceans) one of a number of abdominal limbs or appendages, usually adapted for swimming and for carrying eggs, as distinguished from other limbs adapted for walking or seizing.", "S": [], "A": []}

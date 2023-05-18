@@ -1,0 +1,1 @@
+{"index": 341273, "D": "without vigor, force, or strength; languid.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 210205, "D": "bound by duty, ethics, or politeness", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 314596, "D": "a state of confusion, excitement, or perplexity.", "S": [], "A": []}

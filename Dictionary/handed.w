@@ -1,0 +1,1 @@
+{"index": 133134, "D": "having or involving a hand  or hands  (usually used in combination)", "S": ["deliver ", "reach ", "send ", "shoot ", "throw "], "A": ["receive ", "hold ", "keep ", "take "]}

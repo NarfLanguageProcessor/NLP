@@ -1,0 +1,1 @@
+{"index": 119873, "D": "the support, or point of rest, on which a lever turns in moving a body.", "S": [], "A": []}

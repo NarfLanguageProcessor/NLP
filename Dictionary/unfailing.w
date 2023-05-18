@@ -1,0 +1,1 @@
+{"index": 341941, "D": "not failing;  not giving way; not falling short of expectation; completely dependable", "S": ["bottomless ", "boundless ", "eternal ", "inexhaustible ", "steadfast ", "unflagging "], "A": ["changing ", "limited "]}

@@ -1,0 +1,1 @@
+{"index": 311668, "D": "the act of distending  or the state of being distended. ", "S": [], "A": []}

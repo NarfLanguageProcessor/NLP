@@ -1,0 +1,1 @@
+{"index": 315796, "D": "able to be tamed. ", "S": [], "A": []}

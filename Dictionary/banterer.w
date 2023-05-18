@@ -1,0 +1,1 @@
+{"index": 27600, "D": "an exchange of light, playful, teasing remarks; good-natured raillery.", "S": ["clown ", "jokester "], "A": []}

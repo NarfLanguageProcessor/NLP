@@ -1,0 +1,1 @@
+{"index": 197046, "D": "a story or account of events, experiences, or the like, whether true or fictitious.", "S": [], "A": []}

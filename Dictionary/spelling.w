@@ -1,0 +1,1 @@
+{"index": 299105, "D": "the manner in which words are spelled;  orthography.", "S": ["logography ", "orthographic study "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133750, "D": "the greenish-gray wood of the sycamore maple, used for making furniture.", "S": [], "A": []}

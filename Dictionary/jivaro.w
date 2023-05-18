@@ -1,0 +1,1 @@
+{"index": 161394, "D": "a member of a group of Indigenous peoples of eastern Ecuador and northern Peru.", "S": [], "A": []}

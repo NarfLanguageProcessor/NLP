@@ -1,0 +1,1 @@
+{"index": 307320, "D": "a subordinate branch  or a branch  of a branch,  as of a bank, business, or the like.", "S": [], "A": []}

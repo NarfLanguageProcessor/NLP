@@ -1,0 +1,1 @@
+{"index": 80851, "D": "which was to be shown or demonstrated.", "S": [], "A": []}

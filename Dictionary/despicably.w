@@ -1,0 +1,1 @@
+{"index": 82822, "D": "deserving to be despised,  or regarded with distaste, disgust, or disdain; contemptible", "S": [], "A": []}

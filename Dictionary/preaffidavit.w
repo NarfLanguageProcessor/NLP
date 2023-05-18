@@ -1,0 +1,1 @@
+{"index": 245603, "D": "a written declaration upon oath made before an authorized official.", "S": [], "A": []}

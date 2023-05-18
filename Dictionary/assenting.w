@@ -1,0 +1,1 @@
+{"index": 21672, "D": "to agree or concur; subscribe to (often followed by to)", "S": ["agreeable ", "benign ", "encouraging ", "positive ", "supportive ", "sympathetic "], "A": ["disadvantageous ", "disagreeable ", "hateful "]}

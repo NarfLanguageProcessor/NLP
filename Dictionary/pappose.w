@@ -1,0 +1,1 @@
+{"index": 225301, "D": "having or forming a pappus. ", "S": [], "A": []}

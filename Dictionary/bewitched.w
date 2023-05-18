@@ -1,0 +1,1 @@
+{"index": 32986, "D": "affected by or as if by witchcraft or magic; under a spell", "S": ["captivated ", "enamored ", "enchanted ", "enraptured ", "entranced ", "fascinated ", "hooked ", "mesmerized ", "possessed ", "spellbound ", "transformed "], "A": ["disenchanted ", "disinterested "]}

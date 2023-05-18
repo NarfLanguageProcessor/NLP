@@ -1,0 +1,1 @@
+{"index": 197700, "D": "(of a cloud) having indistinct details.", "S": [], "A": []}

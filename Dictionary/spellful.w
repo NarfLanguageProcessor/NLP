@@ -1,0 +1,1 @@
+{"index": 299103, "D": "to name, write, or otherwise give the letters, in order, of (a word, syllable, etc.)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199910, "D": "an alcoholic drink taken at bedtime or at the end of a festive evening.", "S": ["dessert wine ", "digestif "], "A": ["aperitif "]}

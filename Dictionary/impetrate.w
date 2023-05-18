@@ -1,0 +1,1 @@
+{"index": 148667, "D": "to obtain by entreaty.", "S": ["ask ", "beseech ", "implore ", "plead ", "pray ", "solicit ", "sue ", "urge "], "A": ["answer ", "reply "]}

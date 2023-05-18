@@ -1,0 +1,1 @@
+{"index": 18128, "D": "belonging or pertaining to the Apterygota, a subclass of primitive wingless insects that undergo little or no metamorphosis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266908, "D": "a person or thing that relies. ", "S": [], "A": []}

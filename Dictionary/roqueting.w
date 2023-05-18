@@ -1,0 +1,1 @@
+{"index": 274394, "D": "to cause one's ball to strike (another player's ball).", "S": [], "A": []}

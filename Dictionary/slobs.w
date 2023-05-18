@@ -1,0 +1,1 @@
+{"index": 294286, "D": "a slovenly or boorish person.", "S": ["lout "], "A": []}

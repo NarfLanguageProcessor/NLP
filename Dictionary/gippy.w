@@ -1,0 +1,1 @@
+{"index": 125380, "D": "an Egyptian person or thing", "S": [], "A": []}

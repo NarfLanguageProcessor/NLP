@@ -1,0 +1,1 @@
+{"index": 112866, "D": "of or relating to a garnish or sauce prepared typically with truffles, mushrooms, quenelles, olives, Madeira, and sometimes sweetbreads and cockscombs", "S": [], "A": []}

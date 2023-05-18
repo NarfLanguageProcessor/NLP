@@ -1,0 +1,1 @@
+{"index": 217760, "D": "to strike or beat vigorously with something flat; whack.", "S": [], "A": []}

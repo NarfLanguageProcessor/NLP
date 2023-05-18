@@ -1,0 +1,1 @@
+{"index": 133877, "D": "a zeolite mineral related to stilbite, occurring in twinned crystals.", "S": [], "A": []}

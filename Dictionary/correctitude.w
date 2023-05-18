@@ -1,0 +1,1 @@
+{"index": 69614, "D": "correctness,  especially of manners and conduct.", "S": ["civility ", "decency ", "decorum ", "fitness ", "rightness "], "A": ["indecency ", "rudeness "]}

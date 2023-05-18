@@ -1,0 +1,1 @@
+{"index": 21605, "D": "the premeditated act of killing someone suddenly or secretively, especially a prominent person", "S": ["bumping off ", "foul play ", "hit ", "killing ", "murder ", "offing ", "rubout "], "A": []}

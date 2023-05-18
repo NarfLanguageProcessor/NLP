@@ -1,0 +1,1 @@
+{"index": 220240, "D": "cheerful or joyful gaiety; mirth; hilarity; laughter.", "S": [], "A": []}

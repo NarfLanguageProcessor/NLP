@@ -1,0 +1,1 @@
+{"index": 173932, "D": "the quality or fact of being suitable for living in", "S": [], "A": []}

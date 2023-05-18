@@ -1,0 +1,1 @@
+{"index": 226945, "D": "divided into parts;  cleft.", "S": [], "A": []}

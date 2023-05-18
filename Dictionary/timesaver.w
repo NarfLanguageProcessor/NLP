@@ -1,0 +1,1 @@
+{"index": 323783, "D": "(of methods, devices, etc.) reducing the time  spent or required to do something.", "S": ["alternative "], "A": []}

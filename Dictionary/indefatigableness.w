@@ -1,0 +1,1 @@
+{"index": 150705, "D": "incapable of being tired out; not yielding to fatigue; untiring.", "S": [], "A": []}

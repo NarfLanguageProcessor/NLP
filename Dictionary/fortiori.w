@@ -1,0 +1,1 @@
+{"index": 117689, "D": "for a still stronger reason; even more certain; all the more.", "S": [], "A": []}

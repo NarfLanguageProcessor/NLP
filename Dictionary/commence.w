@@ -1,0 +1,1 @@
+{"index": 63935, "D": "to begin; start. ", "S": ["begin ", "inaugurate ", "initiate ", "launch ", "take up "], "A": ["close ", "complete ", "conclude ", "end ", "finish ", "stop "]}

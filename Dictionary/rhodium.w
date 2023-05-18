@@ -1,0 +1,1 @@
+{"index": 272279, "D": "a silvery-white metallic element of the platinum family, forming salts that give rose-colored solutions", "S": [], "A": []}

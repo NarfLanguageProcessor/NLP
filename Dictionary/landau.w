@@ -1,0 +1,1 @@
+{"index": 167911, "D": "a four-wheeled, two-seated carriage with a top made in two parts that may be let down or folded back.", "S": [], "A": []}

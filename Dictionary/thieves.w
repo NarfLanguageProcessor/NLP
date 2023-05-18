@@ -1,0 +1,1 @@
+{"index": 321742, "D": "a person who steals, especially secretly or without open force; one guilty of theft or larceny.", "S": ["bandit ", "burglar ", "criminal ", "crook ", "mugger ", "pickpocket ", "pirate ", "robber ", "sniper ", "swindler "], "A": ["law ", "police "]}

@@ -1,0 +1,1 @@
+{"index": 52646, "D": "an ecclesiastic attached to the chapel of a royal court, college, etc., or to a military unit.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360263, "D": "conforming to moral and ethical principles; morally excellent; upright", "S": ["justly "], "A": []}

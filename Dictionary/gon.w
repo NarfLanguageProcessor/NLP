@@ -1,0 +1,1 @@
+{"index": 127662, "D": "variant of gono-  before a vowel", "S": [], "A": []}

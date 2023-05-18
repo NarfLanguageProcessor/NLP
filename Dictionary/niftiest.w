@@ -1,0 +1,1 @@
+{"index": 199847, "D": "attractively stylish or smart", "S": ["dandy ", "excellent ", "neat ", "stylish ", "terrific "], "A": ["bad ", "inferior ", "poor ", "second-rate "]}

@@ -1,0 +1,1 @@
+{"index": 103350, "D": "equality of weight; equipoise.", "S": [], "A": []}

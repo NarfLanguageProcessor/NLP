@@ -1,0 +1,1 @@
+{"index": 110935, "D": "a shrub, Feijoa sellowiana, of the myrtle family, native to South America, bearing edible, greenish, plumlike fruit.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 220781, "D": "to reach  or extend over or beyond", "S": ["chicanery ", "deception ", "dishonesty ", "duplicity ", "fraud ", "hypocrisy ", "treachery ", "trickery "], "A": ["fairness ", "forthrightness ", "frankness ", "honesty ", "openness ", "sincerity ", "trustworthiness ", "truth ", "truthfulness ", "artlessness ", "reality "]}

@@ -1,0 +1,1 @@
+{"index": 9156, "D": "a member of a Muslim dynasty ruling in Spain and northern Africa from 1056 to 1147.", "S": [], "A": []}

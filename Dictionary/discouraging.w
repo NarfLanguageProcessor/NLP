@@ -1,0 +1,1 @@
+{"index": 87643, "D": "to deprive of courage, hope, or confidence; dishearten; dispirit. ", "S": ["bleak ", "depressing ", "disappointing ", "disheartening ", "dismal ", "dispiriting ", "dreary ", "gloomy "], "A": ["bright ", "cheerful ", "encouraging ", "happy ", "light ", "pleasant ", "sunny "]}

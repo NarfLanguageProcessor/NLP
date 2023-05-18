@@ -1,0 +1,1 @@
+{"index": 155174, "D": "an act or instance of lauding;  encomium; tribute.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 242047, "D": "a polymeric state.", "S": [], "A": []}

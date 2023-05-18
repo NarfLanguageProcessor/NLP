@@ -1,0 +1,1 @@
+{"index": 94839, "D": "a human inhabitant or native of the planet Earth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1230, "D": "a member of an association or institution for the advancement of arts, sciences, or letters.", "S": ["academe ", "college ", "savants ", "school "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 16518, "D": "a brand of gray, water-insoluble, poisonous powder, C11H10N2S, used for killing rodents; alpha-naphthylthiourea.", "S": [], "A": []}

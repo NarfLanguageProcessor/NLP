@@ -1,0 +1,1 @@
+{"index": 321293, "D": "being partly bestial and partly human in form.", "S": [], "A": []}

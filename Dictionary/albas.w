@@ -1,0 +1,1 @@
+{"index": 7400, "D": "a Proven\u00e7al troubadour poem or love song, typically about the parting of lovers at dawn.", "S": [], "A": []}

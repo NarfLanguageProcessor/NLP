@@ -1,0 +1,1 @@
+{"index": 191530, "D": "a man or boy who is used to being coddled;  a milksop.", "S": [], "A": []}

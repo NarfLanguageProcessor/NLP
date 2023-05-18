@@ -1,0 +1,1 @@
+{"index": 207133, "D": "(of words or language) having little or no meaning; making little or no sense", "S": [], "A": []}

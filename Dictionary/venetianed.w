@@ -1,0 +1,1 @@
+{"index": 358060, "D": "a blind, as for a window, having overlapping horizontal slats that may be opened or closed, especially one in which the slats may be raised and drawn together above the window by pulling a cord.", "S": [], "A": []}

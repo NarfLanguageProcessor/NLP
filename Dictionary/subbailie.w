@@ -1,0 +1,1 @@
+{"index": 307286, "D": "(in Scotland) a municipal officer or magistrate, corresponding to an English alderman.", "S": [], "A": []}

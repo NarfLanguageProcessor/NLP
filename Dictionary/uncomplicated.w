@@ -1,0 +1,1 @@
+{"index": 337410, "D": "not complicated; simple", "S": ["effortless ", "obvious ", "painless ", "simple ", "straightforward "], "A": ["complicated ", "difficult ", "hard ", "unclear "]}

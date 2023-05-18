@@ -1,0 +1,1 @@
+{"index": 23138, "D": "the capacity, especially of a pheromone, to attract.", "S": [], "A": []}

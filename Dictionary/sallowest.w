@@ -1,0 +1,1 @@
+{"index": 277131, "D": "of a sickly, yellowish or lightish brown color", "S": [], "A": []}

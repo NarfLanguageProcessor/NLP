@@ -1,0 +1,1 @@
+{"index": 177271, "D": "mentally disturbed; deranged; insane; demented.", "S": ["displeasure ", "exasperation ", "fury ", "ire ", "pique ", "rage ", "resentment ", "scorn "], "A": ["calm ", "cheer ", "delight ", "happiness ", "pleasure ", "love "]}

@@ -1,0 +1,1 @@
+{"index": 129222, "D": "a frame of metal bars for holding fuel when burning, as in a fireplace, furnace, or stove.", "S": ["mince ", "rub "], "A": ["build ", "construct "]}

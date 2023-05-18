@@ -1,0 +1,1 @@
+{"index": 286958, "D": "the act of endowing with sexual characteristics, or of excessively emphasizing those characteristics", "S": [], "A": []}

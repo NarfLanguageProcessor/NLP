@@ -1,0 +1,1 @@
+{"index": 51162, "D": "the science of measuring the human head, used especially in plastic surgery and orthodontics.", "S": [], "A": []}

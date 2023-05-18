@@ -1,0 +1,1 @@
+{"index": 249787, "D": "to suppose or assume beforehand; take for granted in advance.", "S": ["accepted ", "granted ", "presumed "], "A": ["genuine ", "natural ", "real ", "unassumed ", "unexpected "]}

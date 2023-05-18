@@ -1,0 +1,1 @@
+{"index": 6669, "D": "a member of a group of Indians inhabiting the Copper River Valley in southeastern Alaska.", "S": [], "A": []}

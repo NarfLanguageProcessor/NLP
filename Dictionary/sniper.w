@@ -1,0 +1,1 @@
+{"index": 295562, "D": "a rifleman who fires from a concealed place, esp a military marksman who fires from cover usually at long ranges at individual enemy soldiers", "S": ["assassin ", "sharpshooter "], "A": []}

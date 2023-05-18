@@ -1,0 +1,1 @@
+{"index": 190899, "D": "any of several flightless birds of the family Dinornithidae, of New Zealand, related to the kiwis but resembling the ostrich", "S": [], "A": []}

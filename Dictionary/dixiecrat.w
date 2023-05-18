@@ -1,0 +1,1 @@
+{"index": 90459, "D": "a member of a faction of southern Democrats stressing states' rights and opposed to the civil rights programs of the Democratic Party, especially a southern Democrat who bolted the party in 1948 and voted for the candidates of the States' Rights Democratic Party.", "S": [], "A": []}

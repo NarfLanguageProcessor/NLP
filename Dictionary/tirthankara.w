@@ -1,0 +1,1 @@
+{"index": 324579, "D": "one of 24 persons who have attained personal immortality through enlightenment.", "S": [], "A": []}

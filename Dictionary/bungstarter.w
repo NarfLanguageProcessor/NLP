@@ -1,0 +1,1 @@
+{"index": 42868, "D": "a mallet for loosening or removing the bung  of a cask.", "S": [], "A": []}

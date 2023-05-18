@@ -1,0 +1,1 @@
+{"index": 321555, "D": "of, relating to, or resembling a beast", "S": [], "A": []}

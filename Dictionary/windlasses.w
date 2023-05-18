@@ -1,0 +1,1 @@
+{"index": 365976, "D": "a device for raising or hauling objects, usually consisting of a horizontal cylinder or barrel turned by a crank, lever, motor, or the like, upon which a cable, rope, or chain winds, the outer end of the cable being attached directly or indirectly to the weight to be raised or the thing to be hauled or pulled; winch.", "S": [], "A": []}

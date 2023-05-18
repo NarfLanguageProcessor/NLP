@@ -1,0 +1,1 @@
+{"index": 283859, "D": "a picture, description, etc., ludicrously exaggerating the peculiarities or defects of persons or things", "S": [], "A": []}

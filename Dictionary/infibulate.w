@@ -1,0 +1,1 @@
+{"index": 151972, "D": "to stitch together the vulva of (a girl or woman), often after a clitoridectomy, in order to prevent intercourse.", "S": [], "A": []}

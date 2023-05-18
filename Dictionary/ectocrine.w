@@ -1,0 +1,1 @@
+{"index": 95505, "D": "a substance that is released by an organism into the external environment and influences the development, behaviour, etc, of members of the same or different species", "S": [], "A": []}

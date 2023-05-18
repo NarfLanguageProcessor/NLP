@@ -1,0 +1,1 @@
+{"index": 117137, "D": "to warn in advance.", "S": ["advised ", "cautioned ", "notified ", "prodded ", "prompted "], "A": []}

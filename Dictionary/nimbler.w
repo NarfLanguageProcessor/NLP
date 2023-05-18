@@ -1,0 +1,1 @@
+{"index": 200093, "D": "quick and light in movement; moving with ease; agile; active; rapid", "S": ["adept ", "adroit ", "agile ", "bright ", "deft ", "lithe ", "lively ", "quick ", "skillful ", "swift "], "A": ["awkward ", "clumsy ", "ignorant ", "inept ", "slow ", "sluggish ", "stiff ", "stupid ", "unskilled ", "unskillful "]}

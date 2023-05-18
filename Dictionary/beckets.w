@@ -1,0 +1,1 @@
+{"index": 29824, "D": "a short length of rope for securing spars, coils of rope, etc., having an eye at one end and a thick knot or a toggle at the other, which is passed through the eye.", "S": [], "A": []}

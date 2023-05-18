@@ -1,0 +1,1 @@
+{"index": 365011, "D": "to go, fly, revolve, or otherwise move quickly with a humming or buzzing sound", "S": ["buzzing ", "hissing ", "humming ", "whir "], "A": []}

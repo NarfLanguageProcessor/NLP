@@ -1,0 +1,1 @@
+{"index": 298378, "D": "a sweet rough-skinned melon; a cantaloupe", "S": [], "A": []}

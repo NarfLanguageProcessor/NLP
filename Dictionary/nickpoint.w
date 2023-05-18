@@ -1,0 +1,1 @@
+{"index": 199663, "D": "a variant spelling (esp US) of knickpoint", "S": [], "A": []}

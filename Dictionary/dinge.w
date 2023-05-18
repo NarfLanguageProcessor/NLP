@@ -1,0 +1,1 @@
+{"index": 86104, "D": "the condition of being dingy. ", "S": [], "A": []}

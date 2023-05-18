@@ -1,0 +1,1 @@
+{"index": 254098, "D": "providing or serving for the time being only; existing only until permanently or properly replaced; temporary", "S": ["conditional ", "interim ", "temporary ", "transitional "], "A": ["certain ", "definite ", "permanent "]}

@@ -1,0 +1,1 @@
+{"index": 354149, "D": "to lessen downward force and friction between the skis and the snow by a quick upward or downward shifting of the body or by using bumps in the terrain.", "S": [], "A": []}

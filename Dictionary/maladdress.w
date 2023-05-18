@@ -1,0 +1,1 @@
+{"index": 178197, "D": "awkwardness; tactlessness", "S": [], "A": []}

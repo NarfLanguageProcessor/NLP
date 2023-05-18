@@ -1,0 +1,1 @@
+{"index": 94858, "D": "Poseidon (or Neptune) in his capacity as the bringer of earthquakes", "S": [], "A": []}

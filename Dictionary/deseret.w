@@ -1,0 +1,1 @@
+{"index": 82495, "D": "a territory established by the Mormons in 1849 as a proposed state of the Union", "S": [], "A": []}

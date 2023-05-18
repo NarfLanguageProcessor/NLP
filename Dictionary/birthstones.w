@@ -1,0 +1,1 @@
+{"index": 34927, "D": "a precious or semiprecious stone  traditionally associated with a particular month or sign of the zodiac and believed to attract good fortune.", "S": ["bauble ", "bead ", "gem ", "gemstone ", "ornament ", "stone ", "trinket "], "A": []}

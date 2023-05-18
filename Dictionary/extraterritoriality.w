@@ -1,0 +1,1 @@
+{"index": 108657, "D": "immunity from the jurisdiction of a nation, granted to foreign diplomatic officials, foreign warships, etc.", "S": [], "A": []}

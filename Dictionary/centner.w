@@ -1,0 +1,1 @@
+{"index": 50907, "D": "(in several European countries) a unit of weight of 50 kilograms, equivalent to 110.2 pounds avoirdupois.", "S": [], "A": []}

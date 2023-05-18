@@ -1,0 +1,1 @@
+{"index": 157622, "D": "yonder. ", "S": ["further "], "A": ["closer ", "nearer "]}

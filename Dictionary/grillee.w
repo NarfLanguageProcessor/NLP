@@ -1,0 +1,1 @@
+{"index": 129866, "D": "a grating or openwork barrier, as for a gate, usually of metal and often of decorative design.", "S": [], "A": []}

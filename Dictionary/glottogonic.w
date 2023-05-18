@@ -1,0 +1,1 @@
+{"index": 126762, "D": "the study of the putative origin of language.", "S": [], "A": []}

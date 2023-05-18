@@ -1,0 +1,1 @@
+{"index": 284621, "D": "of or relating to signs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260169, "D": "a member of a Hindu people claiming descent from the ancient Kshatriya, or warrior caste, and noted for their military spirit.", "S": [], "A": []}

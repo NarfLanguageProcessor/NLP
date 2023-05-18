@@ -1,0 +1,1 @@
+{"index": 299514, "D": "the geometry and trigonometry of figures formed on the surface of a sphere. ", "S": [], "A": []}

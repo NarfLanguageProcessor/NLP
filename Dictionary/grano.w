@@ -1,0 +1,1 @@
+{"index": 128955, "D": "a combining form representing granite  in compound words", "S": [], "A": []}

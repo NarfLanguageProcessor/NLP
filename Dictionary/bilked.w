@@ -1,0 +1,1 @@
+{"index": 33963, "D": "to defraud; cheat", "S": ["bamboozled ", "beguiled ", "burned ", "conned ", "deceived ", "duped ", "gypped ", "hoodwinked ", "swindled ", "tricked ", "victimized "], "A": []}

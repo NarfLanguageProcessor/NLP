@@ -1,0 +1,1 @@
+{"index": 23036, "D": "a medicine or agent that thins the blood.", "S": [], "A": []}

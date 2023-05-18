@@ -1,0 +1,1 @@
+{"index": 99398, "D": "(of a word) closely connected in pronunciation with the preceding word and not having an independent accent or phonological status.", "S": [], "A": []}

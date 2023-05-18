@@ -1,0 +1,1 @@
+{"index": 21047, "D": "to credit or assign, as to a cause or source; attribute; impute", "S": ["attributable ", "detectable ", "identifiable "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104137, "D": "to slip or get away, as from confinement or restraint; gain or regain liberty", "S": ["criminal ", "defector ", "escapee ", "lawbreaker "], "A": ["adherent ", "loyalist "]}

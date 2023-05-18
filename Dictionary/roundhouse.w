@@ -1,0 +1,1 @@
+{"index": 274862, "D": "a building for the servicing and repair of locomotives, built around a turntable in the form of some part of a circle.", "S": ["belt ", "clout ", "crack ", "cuff ", "hit ", "knock ", "lick ", "pound ", "punch ", "slap ", "slug ", "smack ", "strike ", "swat ", "thwack ", "wallop ", "whack ", "wham ", "whop "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232129, "D": "feeling or showing great concern or mental or emotional upset", "S": ["bothered "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 174505, "D": "accommodation in a house, especially in rooms for rent", "S": ["apartment ", "hostel ", "hotel ", "inn ", "lodge ", "motel ", "resort ", "shelter "], "A": ["office "]}

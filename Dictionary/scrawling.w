@@ -1,0 +1,1 @@
+{"index": 281656, "D": "to write or draw in a sprawling, awkward manner", "S": ["inscribe ", "scribble "], "A": []}

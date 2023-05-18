@@ -1,0 +1,1 @@
+{"index": 340216, "D": "having many details", "S": ["comprehensive ", "expansive ", "extensive ", "far-reaching ", "sweeping ", "universal ", "wide ", "wide-ranging "], "A": ["exclusive ", "narrow ", "particular "]}

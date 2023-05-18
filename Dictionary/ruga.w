@@ -1,0 +1,1 @@
+{"index": 275400, "D": "a wrinkle, fold, or ridge.", "S": [], "A": []}

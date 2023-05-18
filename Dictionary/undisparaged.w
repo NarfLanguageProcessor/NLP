@@ -1,0 +1,1 @@
+{"index": 340552, "D": "to speak of or treat slightingly; depreciate; belittle", "S": [], "A": []}

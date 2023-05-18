@@ -1,0 +1,1 @@
+{"index": 95085, "D": "European Central Bank", "S": [], "A": []}

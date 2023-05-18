@@ -1,0 +1,1 @@
+{"index": 267865, "D": "an act or instance of reopening  negotiations, as on the provisions of a contract.", "S": [], "A": []}

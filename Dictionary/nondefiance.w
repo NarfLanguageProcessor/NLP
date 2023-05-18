@@ -1,0 +1,1 @@
+{"index": 202784, "D": "a daring or bold resistance to authority or to any opposing force.", "S": [], "A": []}

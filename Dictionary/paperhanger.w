@@ -1,0 +1,1 @@
+{"index": 225165, "D": "a person whose job is covering walls with wallpaper.", "S": ["plagiarist ", "pretender "], "A": []}

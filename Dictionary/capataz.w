@@ -1,0 +1,1 @@
+{"index": 46786, "D": "a foreman or supervisor.", "S": [], "A": []}

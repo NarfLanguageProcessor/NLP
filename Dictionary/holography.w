@@ -1,0 +1,1 @@
+{"index": 142597, "D": "the process or technique of making holograms.", "S": [], "A": []}

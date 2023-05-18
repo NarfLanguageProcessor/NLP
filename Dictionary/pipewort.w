@@ -1,0 +1,1 @@
+{"index": 237465, "D": "a perennial plant, Eriocaulon septangulare, of wet places in W Republic of Ireland, the Scottish Hebrides, and the eastern US, having a twisted flower stalk and a greenish-grey scaly flower head", "S": [], "A": []}

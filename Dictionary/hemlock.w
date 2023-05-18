@@ -1,0 +1,1 @@
+{"index": 136327, "D": "a poisonous plant, Conium maculatum, of the parsley family, having purple-spotted stems, finely divided leaves, and umbels of small white flowers, used medicinally as a powerful sedative.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134568, "D": "high-definition; high definition", "S": [], "A": []}

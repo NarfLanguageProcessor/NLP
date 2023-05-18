@@ -1,0 +1,1 @@
+{"index": 327685, "D": "across or beyond the Arctic. ", "S": [], "A": []}

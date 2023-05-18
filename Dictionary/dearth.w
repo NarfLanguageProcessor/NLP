@@ -1,0 +1,1 @@
+{"index": 77621, "D": "an inadequate supply; scarcity; lack", "S": ["absence ", "deficiency ", "inadequacy ", "lack ", "paucity ", "shortage "], "A": ["abundance ", "adequacy ", "enough ", "plenty ", "sufficiency ", "advantage ", "luxury ", "perfection ", "success ", "wealth "]}

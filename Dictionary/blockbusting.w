@@ -1,0 +1,1 @@
+{"index": 36362, "D": "the profiteering real-estate practice of buying homes from white majority homeowners below market value, based on the implied threat of future devaluation during minority integration of previously segregated neighborhoods.", "S": [], "A": []}

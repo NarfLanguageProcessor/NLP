@@ -1,0 +1,1 @@
+{"index": 298048, "D": "a usually small and relatively inexpensive article given, kept, or purchased as a reminder of a place visited, an occasion, etc.; memento.", "S": ["gift ", "memento ", "relic ", "trophy "], "A": []}

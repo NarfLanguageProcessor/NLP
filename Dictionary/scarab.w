@@ -1,0 +1,1 @@
+{"index": 279695, "D": "any scarabaeid beetle, especially Scarabaeus sacer, regarded as sacred by the ancient Egyptians.", "S": [], "A": []}

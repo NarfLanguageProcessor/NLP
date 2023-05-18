@@ -1,0 +1,1 @@
+{"index": 175354, "D": "detriment, disadvantage, or deprivation from failure to keep, have, or get", "S": ["going belly up ", "law of diminishing returns ", "losings "], "A": []}

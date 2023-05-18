@@ -1,0 +1,1 @@
+{"index": 257529, "D": "the act of squaring.", "S": [], "A": []}

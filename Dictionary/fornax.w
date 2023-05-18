@@ -1,0 +1,1 @@
+{"index": 117536, "D": "the Furnace, a small southern constellation south of Cetus and Eridanus.", "S": [], "A": []}

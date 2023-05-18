@@ -1,0 +1,1 @@
+{"index": 84808, "D": "relating to or involving the stimulation of each ear simultaneously by different sounds", "S": [], "A": []}

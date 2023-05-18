@@ -1,0 +1,1 @@
+{"index": 163408, "D": "any of several large, usually green, American long-horned grasshoppers, the males of which produce a characteristic song.", "S": [], "A": []}

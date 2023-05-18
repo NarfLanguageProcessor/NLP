@@ -1,0 +1,1 @@
+{"index": 204649, "D": "the quality of aiming to include and integrate all people and groups in activities, organizations, political processes, etc., especially people who are disadvantaged or marginalized, have suffered discrimination, or are living with disabilities", "S": [], "A": []}

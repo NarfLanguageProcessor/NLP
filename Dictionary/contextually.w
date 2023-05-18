@@ -1,0 +1,1 @@
+{"index": 67426, "D": "of, relating to, or depending on the context. ", "S": [], "A": []}

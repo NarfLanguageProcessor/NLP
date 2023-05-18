@@ -1,0 +1,1 @@
+{"index": 121829, "D": "of or relating to Mohandas Gandhi  or to Gandhiism.", "S": [], "A": []}

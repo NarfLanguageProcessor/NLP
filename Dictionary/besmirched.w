@@ -1,0 +1,1 @@
+{"index": 32402, "D": "to soil; tarnish; discolor.", "S": ["cooked ", "desecrated ", "dirty ", "dishonored ", "exposed ", "polluted ", "profaned ", "ravished ", "spoilt ", "tainted ", "trashed ", "vitiated "], "A": ["clean ", "pure "]}

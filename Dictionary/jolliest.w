@@ -1,0 +1,1 @@
+{"index": 161701, "D": "in good spirits; lively; merry", "S": ["carefree ", "cheerful ", "chipper ", "convivial ", "enjoyable ", "festive ", "jovial ", "joyous ", "lighthearted ", "merry ", "playful ", "pleasant "], "A": ["depressed ", "disagreeable ", "gloomy ", "grave ", "sad ", "serious ", "troubled ", "unhappy ", "unpleasant ", "upset ", "worried ", "dull ", "unamusing "]}

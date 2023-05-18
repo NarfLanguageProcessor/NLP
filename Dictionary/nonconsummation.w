@@ -1,0 +1,1 @@
+{"index": 202394, "D": "the act of consummating;  completion.", "S": [], "A": []}

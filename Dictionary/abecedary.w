@@ -1,0 +1,1 @@
+{"index": 304, "D": "abecedarian. ", "S": ["assistant ", "coach ", "educator ", "faculty member ", "instructor ", "lecturer ", "professor ", "scholar ", "schoolteacher ", "supervisor ", "tutor "], "A": ["pupil ", "student "]}

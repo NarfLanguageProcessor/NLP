@@ -1,0 +1,1 @@
+{"index": 54873, "D": "a person who cheats or tricks; swindler. ", "S": [], "A": []}

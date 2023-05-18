@@ -1,0 +1,1 @@
+{"index": 101661, "D": "earnest request or petition; supplication.", "S": ["appeal ", "application ", "imprecation ", "petition ", "prayer ", "request ", "suit ", "supplication "], "A": ["answer ", "command ", "demand "]}

@@ -1,0 +1,1 @@
+{"index": 158501, "D": "not having rotation. ", "S": [], "A": []}

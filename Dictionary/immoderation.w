@@ -1,0 +1,1 @@
+{"index": 148040, "D": "lack of moderation.", "S": ["extravagance ", "extreme "], "A": ["unselfishness "]}

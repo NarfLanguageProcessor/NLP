@@ -1,0 +1,1 @@
+{"index": 347389, "D": "paralyzed; unable to move or control certain muscles.", "S": [], "A": []}

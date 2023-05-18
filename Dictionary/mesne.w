@@ -1,0 +1,1 @@
+{"index": 184163, "D": "intermediate or intervening.", "S": ["intermediate ", "middle ", "sandwiched "], "A": ["extreme "]}

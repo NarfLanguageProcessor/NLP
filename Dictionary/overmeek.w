@@ -1,0 +1,1 @@
+{"index": 220219, "D": "humbly patient or quiet in nature, as under provocation from others.", "S": [], "A": []}

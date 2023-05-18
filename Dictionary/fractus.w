@@ -1,0 +1,1 @@
+{"index": 118188, "D": "(of a cloud) containing small, individual elements that have a ragged appearance.", "S": [], "A": []}

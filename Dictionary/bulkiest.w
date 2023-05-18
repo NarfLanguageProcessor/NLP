@@ -1,0 +1,1 @@
+{"index": 42478, "D": "of relatively large and cumbersome bulk  or size.", "S": ["biggest ", "greatest ", "largest "], "A": ["fewest ", "least ", "worst "]}

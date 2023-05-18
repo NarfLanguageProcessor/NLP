@@ -1,0 +1,1 @@
+{"index": 228212, "D": "a pavement. ", "S": ["brick ", "cobblestone ", "flagstone ", "gravel ", "macadamize ", "surface ", "tar ", "tile "], "A": ["dig up ", "strip "]}

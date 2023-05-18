@@ -1,0 +1,1 @@
+{"index": 152225, "D": "a person who informs  against another, especially for money or other reward.", "S": ["announcer "], "A": []}

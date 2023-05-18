@@ -1,0 +1,1 @@
+{"index": 252120, "D": "to grow or produce by multiplication of parts, as in budding or cell division, or by procreation.", "S": ["developing ", "expanding ", "growing ", "rising "], "A": []}

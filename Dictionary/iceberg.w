@@ -1,0 +1,1 @@
+{"index": 145964, "D": "a large floating mass of ice, detached from a glacier and carried out to sea.", "S": ["abstract ", "candid ", "detached ", "disinterested ", "sober ", "unbiased ", "unemotional "], "A": ["biased ", "interested ", "prejudiced "]}

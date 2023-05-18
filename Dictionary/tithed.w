@@ -1,0 +1,1 @@
+{"index": 324666, "D": "the tenth part of agricultural produce or personal income set apart as an offering to God or for works of mercy, or the same amount regarded as an obligation or tax for the support of the church, priesthood, or the like.", "S": ["assess ", "enact ", "impose "], "A": ["give "]}

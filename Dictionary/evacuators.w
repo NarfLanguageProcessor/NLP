@@ -1,0 +1,1 @@
+{"index": 105935, "D": "a person or thing that evacuates. ", "S": [], "A": []}

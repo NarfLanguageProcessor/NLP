@@ -1,0 +1,1 @@
+{"index": 153322, "D": "the plural of inquiry. ", "S": ["analysis ", "audit ", "examination ", "hearing ", "inspection ", "interrogation ", "investigation ", "probe ", "query ", "question ", "questioning ", "request ", "research ", "scrutiny ", "search ", "study ", "survey "], "A": ["answer ", "ignorance ", "neglect ", "reply "]}

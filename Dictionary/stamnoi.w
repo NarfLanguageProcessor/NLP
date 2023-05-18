@@ -1,0 +1,1 @@
+{"index": 302602, "D": "a storage jar having an oval body tapering at the base and two horizontal handles set on the shoulder.", "S": [], "A": []}

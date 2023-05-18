@@ -1,0 +1,1 @@
+{"index": 328909, "D": "a wooden pin that swells when moist, used for fastening together timbers, as those of ships.", "S": [], "A": []}

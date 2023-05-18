@@ -1,0 +1,1 @@
+{"index": 22706, "D": "an instrument for measuring the rate at which water evaporates.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183770, "D": "to cause to combine or coalesce; unite.", "S": ["involved ", "married ", "united "], "A": ["disconnected ", "uncombined ", "unrelated "]}

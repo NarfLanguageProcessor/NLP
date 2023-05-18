@@ -1,0 +1,1 @@
+{"index": 167685, "D": "physically disabled, especially in the foot or leg so as to limp or walk with difficulty", "S": ["sore "], "A": ["able ", "graceful ", "healthy "]}

@@ -1,0 +1,1 @@
+{"index": 79799, "D": "to think it appropriate to or in accordance with one's dignity; condescend", "S": ["condescend ", "consent ", "patronize ", "stoop ", "vouchsafe "], "A": ["oppose ", "refuse ", "rise above "]}

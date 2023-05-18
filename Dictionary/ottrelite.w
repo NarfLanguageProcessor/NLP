@@ -1,0 +1,1 @@
+{"index": 216021, "D": "a brittle mica containing manganese and similar to margarite in physical and chemical properties.", "S": [], "A": []}

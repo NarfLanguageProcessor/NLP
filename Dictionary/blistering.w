@@ -1,0 +1,1 @@
+{"index": 36284, "D": "causing a blister  or blisters. ", "S": ["fiery ", "heated ", "scalding ", "scorching ", "searing ", "sizzling ", "sweltering ", "torrid "], "A": ["cold ", "cool ", "freezing "]}

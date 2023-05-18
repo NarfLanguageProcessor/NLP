@@ -1,0 +1,1 @@
+{"index": 64230, "D": "Compare commune2 (def. 8b). ", "S": [], "A": []}

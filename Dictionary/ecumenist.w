@@ -1,0 +1,1 @@
+{"index": 95628, "D": "ecumenical  doctrines and practices, especially as manifested in the ecumenical movement. ", "S": [], "A": []}

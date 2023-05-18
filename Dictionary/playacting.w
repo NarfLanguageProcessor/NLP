@@ -1,0 +1,1 @@
+{"index": 238707, "D": "to engage in make-believe.", "S": ["assumed ", "contrived ", "counterfeit ", "counterfeited ", "faked ", "feigned ", "imitated ", "overdone ", "pretended ", "shallow ", "sham ", "simulated ", "studied ", "unnatural "], "A": ["genuine ", "natural ", "real ", "sincere ", "true "]}

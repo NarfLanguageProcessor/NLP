@@ -1,0 +1,1 @@
+{"index": 344506, "D": "of, pertaining to, by, or dependent upon inference. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343422, "D": "to accustom (a person, the mind, etc.), as to a particular situation", "S": [], "A": []}

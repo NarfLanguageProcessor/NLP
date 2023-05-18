@@ -1,0 +1,1 @@
+{"index": 175412, "D": "a male given name, form of Louis. ", "S": ["abominable ", "appalling ", "awful ", "disgusting ", "dreadful ", "frightful ", "ghastly ", "grim ", "grisly ", "gruesome ", "hideous ", "horrific "], "A": ["attractive ", "beautiful ", "delightful ", "nice ", "pleasant ", "pleasing ", "pretty ", "wonderful "]}

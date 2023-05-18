@@ -1,0 +1,1 @@
+{"index": 161531, "D": "running at a slow regular pace usually over a long distance as part of an exercise routine", "S": ["bounce ", "shake ", "shove ", "whack "], "A": ["calm ", "discourage ", "leave alone ", "lull ", "quiet "]}

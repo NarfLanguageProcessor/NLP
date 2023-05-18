@@ -1,0 +1,1 @@
+{"index": 120174, "D": "a supply of money or pecuniary resources, as for some purpose", "S": ["delayed ", "negotiated ", "postponed "], "A": ["advanced ", "forwarded ", "furthered ", "hastened ", "hurried "]}

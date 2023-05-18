@@ -1,0 +1,1 @@
+{"index": 15196, "D": "an expert on environmental problems.", "S": [], "A": []}

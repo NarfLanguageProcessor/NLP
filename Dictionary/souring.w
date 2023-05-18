@@ -1,0 +1,1 @@
+{"index": 297936, "D": "having an acid taste, resembling that of vinegar, lemon juice, etc.; tart. ", "S": ["agitation ", "dissolving ", "ebullition ", "evaporation ", "leavening ", "turbulence "], "A": []}

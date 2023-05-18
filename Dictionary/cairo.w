@@ -1,0 +1,1 @@
+{"index": 44613, "D": "a city in and the capital of Egypt, in the N part on the E bank of the Nile.", "S": [], "A": []}

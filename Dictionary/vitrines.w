@@ -1,0 +1,1 @@
+{"index": 360646, "D": "a glass cabinet or case, especially for displaying art objects.", "S": [], "A": []}

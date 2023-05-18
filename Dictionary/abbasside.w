@@ -1,0 +1,1 @@
+{"index": 190, "D": "a member of a dynasty of caliphs ruling at Baghdad, a.d. 750\u20131258, governing most of the Islamic world and claiming descent from Abbas, uncle of Muhammad.", "S": [], "A": []}

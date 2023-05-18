@@ -1,0 +1,1 @@
+{"index": 73700, "D": "a bent or curved implement, piece, appendage, etc.; hook. ", "S": ["racketeer ", "robber ", "rogue ", "scoundrel ", "swindler ", "villain "], "A": ["law ", "police "]}

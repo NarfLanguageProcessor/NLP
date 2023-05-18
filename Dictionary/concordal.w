@@ -1,0 +1,1 @@
+{"index": 65410, "D": "agreement  between persons, groups, nations, etc.; concurrence in attitudes, feelings, etc.; unanimity; accord", "S": [], "A": []}

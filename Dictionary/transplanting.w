@@ -1,0 +1,1 @@
+{"index": 328246, "D": "to remove (a plant) from one place and plant it in another.", "S": ["clearing ", "establishment ", "expansion ", "founding ", "immigration ", "migration ", "settlement ", "settling ", "squatting "], "A": []}

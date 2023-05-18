@@ -1,0 +1,1 @@
+{"index": 290400, "D": "the soft, lustrous fiber obtained as a filament from the cocoon of the silkworm.", "S": ["fiber ", "taffeta ", "thread ", "tulle "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 288339, "D": "a row; rumpus.", "S": ["bash ", "carousal ", "commotion ", "dance ", "disturbance ", "fancy ", "fracas ", "frolic ", "merrymaking ", "party ", "revel ", "riot ", "row ", "shindig ", "spree ", "uproar "], "A": ["calm ", "peace ", "quiet ", "tranquility "]}

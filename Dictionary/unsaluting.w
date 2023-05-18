@@ -1,0 +1,1 @@
+{"index": 350282, "D": "to pay respect to or honor by some formal act, as by raising the right hand to the side of the headgear, presenting arms, firing cannon, dipping colors, etc.", "S": [], "A": []}

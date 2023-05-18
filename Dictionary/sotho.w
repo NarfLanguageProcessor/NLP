@@ -1,0 +1,1 @@
+{"index": 297744, "D": "a group of closely related Bantu languages spoken in Lesotho and South Africa.", "S": [], "A": []}

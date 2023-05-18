@@ -1,0 +1,1 @@
+{"index": 40093, "D": "possessing or exhibiting courage or courageous endurance.", "S": ["boldly ", "fearlessly ", "gallantly ", "gamely ", "heroically ", "valiantly "], "A": ["fearfully ", "timidly "]}

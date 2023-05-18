@@ -1,0 +1,1 @@
+{"index": 308797, "D": "a polygon having five angles and five sides.", "S": [], "A": []}

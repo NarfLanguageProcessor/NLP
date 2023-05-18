@@ -1,0 +1,1 @@
+{"index": 312700, "D": "being in the shape of a wedge;  wedge-shaped.", "S": [], "A": []}

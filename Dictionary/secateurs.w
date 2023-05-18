@@ -1,0 +1,1 @@
+{"index": 282699, "D": "scissors or shears, especially pruning shears.", "S": [], "A": []}

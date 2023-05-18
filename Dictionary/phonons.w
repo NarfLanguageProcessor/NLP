@@ -1,0 +1,1 @@
+{"index": 234755, "D": "a quantum of sound or vibratory elastic energy, being the analogue of a photon of electromagnetic energy.", "S": [], "A": []}

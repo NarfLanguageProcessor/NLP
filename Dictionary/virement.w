@@ -1,0 +1,1 @@
+{"index": 360117, "D": "an administrative transfer of funds from one part of a budget to another", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126807, "D": "any of several horticultural varieties of a plant belonging to the genus Sinningia, of the gesneria family, especially S. speciosa, having large white, red, or purple bell-shaped flowers.", "S": [], "A": []}

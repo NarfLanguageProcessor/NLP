@@ -1,0 +1,1 @@
+{"index": 180481, "D": "a metastable microconstituent of any of various forms of carbon steel, produced by undercooling sufficiently below the normal transformation temperature, especially a hard, brittle product of the decomposition of austenite, produced in this way.", "S": [], "A": []}

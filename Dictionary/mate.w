@@ -1,0 +1,1 @@
+{"index": 181070, "D": "a partner in marriage; spouse. ", "S": ["acquaintance ", "bride ", "buddy ", "classmate ", "companion ", "comrade ", "coworker ", "playmate ", "roommate ", "schoolmate ", "spouse "], "A": ["enemy ", "foe ", "opponent ", "stranger ", "antagonist ", "detractor "]}

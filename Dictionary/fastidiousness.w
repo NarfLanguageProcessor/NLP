@@ -1,0 +1,1 @@
+{"index": 110200, "D": "excessively particular, critical, or demanding; hard to please", "S": ["care ", "carefulness ", "fussiness ", "meticulousness ", "preciseness ", "punctiliousness ", "scrupulousness "], "A": []}

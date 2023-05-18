@@ -1,0 +1,1 @@
+{"index": 222529, "D": "of or containing ozone.", "S": [], "A": []}

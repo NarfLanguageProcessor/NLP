@@ -1,0 +1,1 @@
+{"index": 108268, "D": "to make exterior; externalize. ", "S": [], "A": []}

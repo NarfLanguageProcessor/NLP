@@ -1,0 +1,1 @@
+{"index": 232099, "D": "holding tenaciously to a purpose, course of action, or opinion; resolute.", "S": ["bullheadedness ", "determination ", "doggedness ", "hardheadedness ", "mulishness ", "obstinance ", "obstinateness ", "pertinacity ", "perverseness ", "perversity ", "pigheadedness ", "purpose ", "reluctance ", "tenaciousness ", "tenacity ", "willfulness "], "A": []}

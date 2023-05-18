@@ -1,0 +1,1 @@
+{"index": 303811, "D": "a son of one's husband or wife by a previous marriage.", "S": ["exploit "], "A": []}

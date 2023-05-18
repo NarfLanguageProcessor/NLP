@@ -1,0 +1,1 @@
+{"index": 28229, "D": "an instrument showing roughly the variations in atmospheric pressure.", "S": [], "A": []}

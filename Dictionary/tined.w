@@ -1,0 +1,1 @@
+{"index": 323948, "D": "a sharp, projecting point or prong, as of a fork.", "S": ["angled ", "bifurcate ", "bifurcated ", "branched ", "branching ", "divaricate ", "divided ", "furcate ", "split ", "zigzag "], "A": ["joined "]}

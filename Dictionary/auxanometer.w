@@ -1,0 +1,1 @@
+{"index": 24511, "D": "an instrument that measures the linear growth of plant shoots", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233814, "D": "a noted archer and squire of Hercules. Bitten by a snake and abandoned on an island because of his festering wound, he was at length brought by the Greeks to Troy, where he recovered and later killed Paris.", "S": [], "A": []}

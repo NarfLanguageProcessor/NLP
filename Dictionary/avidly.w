@@ -1,0 +1,1 @@
+{"index": 24784, "D": "with great enthusiasm, interest, or desire; eagerly", "S": ["excitedly ", "madly ", "passionately ", "violently "], "A": ["calmly ", "indifferently "]}

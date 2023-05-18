@@ -1,0 +1,1 @@
+{"index": 109393, "D": "prepare or make (something specious, deceptive, or fraudulent)", "S": ["cloak ", "disguise ", "mask ", "veil "], "A": []}

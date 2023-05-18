@@ -1,0 +1,1 @@
+{"index": 109270, "D": "idle; indolent. ", "S": ["apathy ", "inertia ", "lethargy ", "negligence ", "sloth ", "weariness "], "A": ["activity ", "life ", "liveliness ", "action "]}

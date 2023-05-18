@@ -1,0 +1,1 @@
+{"index": 205406, "D": "disposed to, engaged in, or involving revolt against authority.", "S": [], "A": []}

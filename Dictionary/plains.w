@@ -1,0 +1,1 @@
+{"index": 238796, "D": "extensive tracts of level or almost level treeless countryside; prairies", "S": ["expanse ", "field ", "grassland ", "meadow ", "plateau ", "prairie ", "steppe "], "A": []}

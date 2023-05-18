@@ -1,0 +1,1 @@
+{"index": 205859, "D": "involving or full of grave risk or peril; hazardous; dangerous", "S": [], "A": []}

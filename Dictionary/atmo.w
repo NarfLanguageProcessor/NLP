@@ -1,0 +1,1 @@
+{"index": 22691, "D": "a combining form meaning \u201cair,\u201d used in the formation of compound words", "S": [], "A": []}

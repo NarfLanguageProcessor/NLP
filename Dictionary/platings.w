@@ -1,0 +1,1 @@
+{"index": 239432, "D": "a thin coating of gold, silver, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 204621, "D": "a variant of impulsivity. ", "S": [], "A": []}

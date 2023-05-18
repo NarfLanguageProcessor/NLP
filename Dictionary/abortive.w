@@ -1,0 +1,1 @@
+{"index": 735, "D": "failing to succeed; unsuccessful", "S": ["failed ", "fruitless ", "futile ", "unsuccessful "], "A": ["fruitful ", "productive ", "profitable "]}

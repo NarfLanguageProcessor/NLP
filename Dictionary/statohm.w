@@ -1,0 +1,1 @@
+{"index": 303120, "D": "the electrostatic unit of resistance, equivalent to 8.9876 \u00d7 1011 ohms and equal to the resistance in a conductor in which one statvolt of potential difference produces a current of one statampere.", "S": [], "A": []}

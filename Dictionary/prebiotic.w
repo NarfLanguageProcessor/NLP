@@ -1,0 +1,1 @@
+{"index": 245863, "D": "occurring or existing before the emergence of life", "S": [], "A": []}

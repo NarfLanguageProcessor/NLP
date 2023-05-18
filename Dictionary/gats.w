@@ -1,0 +1,1 @@
+{"index": 122766, "D": "simple past tense of get. ", "S": ["boiler ", "fastball ", "furnace ", "oven ", "radiator ", "stove "], "A": []}

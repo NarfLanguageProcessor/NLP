@@ -1,0 +1,1 @@
+{"index": 180844, "D": "a person with the ability or power to use, control, or dispose of something", "S": ["humbled ", "overpowered ", "overwhelmed ", "routed "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308802, "D": "a rather large interval of time that is meaningful in the life of a person, in history, etc., because of its particular characteristics", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214396, "D": "the act or process of organizing. ", "S": ["bureaucratic ", "departmental ", "governmental ", "legislative ", "managerial ", "policy-making ", "regulatory ", "supervisory "], "A": []}

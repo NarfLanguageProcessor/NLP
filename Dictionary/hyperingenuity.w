@@ -1,0 +1,1 @@
+{"index": 140204, "D": "the quality of being cleverly inventive or resourceful; inventiveness", "S": [], "A": []}

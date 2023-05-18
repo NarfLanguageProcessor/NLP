@@ -1,0 +1,1 @@
+{"index": 338375, "D": "to make damp; moisten", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 215294, "D": "yawning, as with drowsiness; gaping.", "S": [], "A": []}

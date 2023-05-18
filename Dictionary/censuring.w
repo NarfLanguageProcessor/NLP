@@ -1,0 +1,1 @@
+{"index": 50784, "D": "strong or vehement expression of disapproval", "S": ["demanding "], "A": ["complimentary ", "laudatory ", "praising ", "trivial ", "uncritical ", "unimportant "]}

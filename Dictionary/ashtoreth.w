@@ -1,0 +1,1 @@
+{"index": 21190, "D": "an ancient Semitic goddess, identified with the Phoenician Astarte.", "S": [], "A": []}

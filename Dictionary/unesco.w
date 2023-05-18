@@ -1,0 +1,1 @@
+{"index": 341495, "D": "an agency of the United Nations charged with instituting and administering programs for cooperative, coordinated action by member states in education, science, and the arts.", "S": [], "A": []}

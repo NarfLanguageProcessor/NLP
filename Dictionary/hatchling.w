@@ -1,0 +1,1 @@
+{"index": 134209, "D": "a young bird, reptile, or fish recently emerged from an egg.", "S": [], "A": []}

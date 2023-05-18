@@ -1,0 +1,1 @@
+{"index": 123487, "D": "to bring into existence; cause to be; produce.", "S": ["arising ", "beginning ", "starting ", "stemming "], "A": []}

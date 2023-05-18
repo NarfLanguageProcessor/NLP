@@ -1,0 +1,1 @@
+{"index": 241752, "D": "a person responsible for making policy,  especially in government.", "S": [], "A": []}

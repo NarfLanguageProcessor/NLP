@@ -1,0 +1,1 @@
+{"index": 27881, "D": "(in Lamaism) the state of the soul between death and rebirth.", "S": [], "A": []}

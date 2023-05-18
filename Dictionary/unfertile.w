@@ -1,0 +1,1 @@
+{"index": 342182, "D": "bearing, producing, or capable of producing vegetation, crops, etc., abundantly; prolific", "S": ["arid ", "desolate ", "empty ", "impoverished ", "infertile ", "parched ", "sterile "], "A": ["damp ", "fruitful ", "full ", "moist ", "productive ", "wet ", "cultivated "]}

@@ -1,0 +1,1 @@
+{"index": 246583, "D": "to be or serve as a covering for; extend over; rest on the surface of", "S": [], "A": []}

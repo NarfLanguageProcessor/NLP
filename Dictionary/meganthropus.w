@@ -1,0 +1,1 @@
+{"index": 182473, "D": "a proposed genus of extinct, late lower Pleistocene primates based on two large lower jaws found in Java, and believed to be either Australopithecine or human.", "S": [], "A": []}

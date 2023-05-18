@@ -1,0 +1,1 @@
+{"index": 189708, "D": "distrust or hatred of reason or reasoning.", "S": [], "A": []}

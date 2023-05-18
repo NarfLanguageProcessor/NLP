@@ -1,0 +1,1 @@
+{"index": 187768, "D": "a specially equipped ship used for dragging a body of water in order to remove or destroy enemy mines. ", "S": [], "A": []}

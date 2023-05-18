@@ -1,0 +1,1 @@
+{"index": 270668, "D": "to convey or remove from one place, person, etc., to another", "S": [], "A": []}

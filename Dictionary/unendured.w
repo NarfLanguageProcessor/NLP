@@ -1,0 +1,1 @@
+{"index": 341267, "D": "to hold out against; sustain without impairment or yielding; undergo", "S": [], "A": []}

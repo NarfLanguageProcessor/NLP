@@ -1,0 +1,1 @@
+{"index": 328864, "D": "to shake involuntarily with quick, short movements, as from fear, excitement, weakness, or cold; quake; quiver.", "S": [], "A": []}

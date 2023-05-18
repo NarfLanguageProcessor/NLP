@@ -1,0 +1,1 @@
+{"index": 224235, "D": "proguanil hydrochloride, a synthetic antimalarial drug first produced in 1944", "S": [], "A": []}

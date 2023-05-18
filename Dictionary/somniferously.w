@@ -1,0 +1,1 @@
+{"index": 297120, "D": "bringing or inducing sleep, as drugs or influences.", "S": [], "A": []}

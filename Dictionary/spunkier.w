@@ -1,0 +1,1 @@
+{"index": 301480, "D": "plucky; spirited.", "S": ["chirpy ", "courageous ", "energetic ", "fearless ", "high-spirited ", "peppy ", "plucky "], "A": ["apathetic ", "fearful ", "inactive ", "lethargic ", "lifeless ", "timid ", "tired "]}

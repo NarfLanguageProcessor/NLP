@@ -1,0 +1,1 @@
+{"index": 112663, "D": "of or relating to reverence of forebears or tradition, especially if carried to excess.", "S": [], "A": []}

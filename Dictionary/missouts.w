@@ -1,0 +1,1 @@
+{"index": 190104, "D": "(in the game of craps) a losing throw of the dice.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91763, "D": "borne on the back, as the sori on most ferns.", "S": [], "A": []}

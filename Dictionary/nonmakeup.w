@@ -1,0 +1,1 @@
+{"index": 205122, "D": "facial cosmetics, as eye shadow or lipstick.", "S": [], "A": []}

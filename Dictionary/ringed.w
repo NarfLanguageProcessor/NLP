@@ -1,0 +1,1 @@
+{"index": 273030, "D": "having or wearing a ring  or rings. ", "S": ["annulate ", "annulated ", "circular ", "globular ", "ring-shaped ", "rounded ", "spherical "], "A": []}

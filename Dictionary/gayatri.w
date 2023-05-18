@@ -1,0 +1,1 @@
+{"index": 120986, "D": "a Vedic mantra expressing hope for enlightenment", "S": [], "A": []}

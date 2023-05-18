@@ -1,0 +1,1 @@
+{"index": 311279, "D": "to happen or result as a natural growth, addition, etc.", "S": [], "A": []}

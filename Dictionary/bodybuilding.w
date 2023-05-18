@@ -1,0 +1,1 @@
+{"index": 37187, "D": "the act or practice of exercising, lifting weights, etc., so as to develop the muscles of the body.", "S": ["Olympic lifting ", "free weights ", "iron-pumping ", "powerlifting ", "pumping iron ", "weight work ", "weightlifting ", "working out "], "A": []}

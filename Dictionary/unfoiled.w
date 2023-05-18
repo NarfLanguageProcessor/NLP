@@ -1,0 +1,1 @@
+{"index": 342456, "D": "the simple past tense and past participle of foil. ", "S": [], "A": []}

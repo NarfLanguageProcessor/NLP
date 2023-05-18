@@ -1,0 +1,1 @@
+{"index": 24572, "D": "suitable or ready for use; of use or service; at hand", "S": [], "A": []}

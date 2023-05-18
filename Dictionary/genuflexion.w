@@ -1,0 +1,1 @@
+{"index": 123776, "D": "an act of bending the knee or touching it to the ground in reverence or worship.", "S": [], "A": []}

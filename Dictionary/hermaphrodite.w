@@ -1,0 +1,1 @@
+{"index": 137136, "D": "Compare pseudohermaphrodite. ", "S": ["bisexual ", "cross-sexual ", "epicene ", "trans-sexual ", "unisexual "], "A": []}

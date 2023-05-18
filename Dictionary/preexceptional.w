@@ -1,0 +1,1 @@
+{"index": 247387, "D": "forming an exception or rare instance; unusual; extraordinary", "S": [], "A": []}

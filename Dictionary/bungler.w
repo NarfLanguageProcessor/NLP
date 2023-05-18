@@ -1,0 +1,1 @@
+{"index": 42857, "D": "to do clumsily and awkwardly; botch", "S": ["blockhead ", "blunderer ", "bonehead ", "botcher ", "bumbler ", "butcher ", "butterfingers ", "clod ", "dolt ", "donkey ", "duffer ", "dunce ", "fool ", "foul-up ", "fumbler ", "goofball ", "idiot ", "ignoramus ", "incompetent ", "klutz ", "numskull ", "spoiler "], "A": ["brain ", "genius "]}

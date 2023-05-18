@@ -1,0 +1,1 @@
+{"index": 149417, "D": "not transferable to another or not capable of being taken away or denied; not alienable", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 88415, "D": "to cleanse (rooms, wounds, clothing, etc.) of infection; destroy disease germs in.", "S": [], "A": []}

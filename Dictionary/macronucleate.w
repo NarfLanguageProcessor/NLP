@@ -1,0 +1,1 @@
+{"index": 177006, "D": "having a macronucleus. ", "S": [], "A": []}

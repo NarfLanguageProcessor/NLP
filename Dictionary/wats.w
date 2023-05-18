@@ -1,0 +1,1 @@
+{"index": 363267, "D": "bulk-rate telephone service that enables a subscriber to make an unlimited number of long-distance telephone calls within a given service area for a fixed monthly charge or to receive calls from given areas with no charge to the caller.", "S": [], "A": []}

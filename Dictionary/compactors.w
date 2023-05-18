@@ -1,0 +1,1 @@
+{"index": 64351, "D": "an appliance that crushes and compresses trash into small convenient bundles.", "S": ["compost ", "electric pig ", "garbage disposer ", "garbage grinder ", "waste disposal ", "waste disposal unit "], "A": []}

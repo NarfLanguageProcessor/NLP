@@ -1,0 +1,1 @@
+{"index": 300271, "D": "a person or thing that spits. ", "S": [], "A": []}

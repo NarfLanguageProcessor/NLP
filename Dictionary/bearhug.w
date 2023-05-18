@@ -1,0 +1,1 @@
+{"index": 29548, "D": "a forcefully or heartily tight embrace.", "S": ["embrace ", "enfoldment ", "hug ", "scissors ", "squeeze ", "tight embrace "], "A": []}

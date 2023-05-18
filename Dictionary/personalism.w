@@ -1,0 +1,1 @@
+{"index": 231963, "D": "a modern philosophical movement locating ultimate value and reality in persons, human or divine.", "S": [], "A": []}

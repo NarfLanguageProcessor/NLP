@@ -1,0 +1,1 @@
+{"index": 15372, "D": "acting to reduce hypertension", "S": [], "A": []}

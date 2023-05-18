@@ -1,0 +1,1 @@
+{"index": 132619, "D": "an amount that may be bought for a halfpenny", "S": [], "A": []}

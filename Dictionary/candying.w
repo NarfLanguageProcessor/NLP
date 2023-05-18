@@ -1,0 +1,1 @@
+{"index": 46184, "D": "any of a variety of confections made with sugar, syrup, etc., often combined with chocolate, fruit, nuts, etc.", "S": ["reinforce ", "solidify ", "stabilize ", "strengthen "], "A": ["weaken ", "dilute ", "dissolve ", "heat ", "liquefy ", "melt ", "separate ", "soften ", "thin ", "unfix "]}

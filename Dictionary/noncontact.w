@@ -1,0 +1,1 @@
+{"index": 202399, "D": "the act or state of touching; a touching or meeting, as of two things or people.", "S": [], "A": []}

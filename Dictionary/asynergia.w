@@ -1,0 +1,1 @@
+{"index": 21278, "D": "lack of coordination between muscles or parts, as occurs in cerebellar disease", "S": [], "A": []}

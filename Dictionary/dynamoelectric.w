@@ -1,0 +1,1 @@
+{"index": 86022, "D": "pertaining to the conversion of mechanical energy into electric  energy, or vice versa", "S": [], "A": []}

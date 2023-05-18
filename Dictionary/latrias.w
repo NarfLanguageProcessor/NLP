@@ -1,0 +1,1 @@
+{"index": 169045, "D": "the supreme worship, which may be offered to God only.", "S": [], "A": []}

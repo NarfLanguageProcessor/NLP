@@ -1,0 +1,1 @@
+{"index": 63962, "D": "to present, mention, or praise as worthy of confidence, notice, kindness, etc.; recommend", "S": ["applaud ", "approve ", "compliment ", "endorse ", "extol ", "hail ", "laud "], "A": ["blame ", "censure ", "criticize ", "disapprove ", "oppose ", "reject ", "decrease ", "deny ", "discourage ", "prevent ", "refuse "]}

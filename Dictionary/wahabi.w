@@ -1,0 +1,1 @@
+{"index": 361923, "D": "a follower of \u02bfAbd al-Wahhab (1703\u20131792), who stringently opposed all practices not sanctioned by the Quran. The Wahhabis, founded in the 18th century, are the most conservative Muslim group and are today found mainly in Saudi Arabia.", "S": [], "A": []}

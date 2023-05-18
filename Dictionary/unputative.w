@@ -1,0 +1,1 @@
+{"index": 348872, "D": "commonly regarded as such; reputed; supposed", "S": [], "A": []}

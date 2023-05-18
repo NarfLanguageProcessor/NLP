@@ -1,0 +1,1 @@
+{"index": 272748, "D": "people, or a group of people, regarded as disreputable or worthless", "S": ["commonality ", "commoners ", "gang ", "gathering ", "mob ", "outcast ", "ring ", "scum ", "trash ", "undesirables ", "vermin "], "A": []}

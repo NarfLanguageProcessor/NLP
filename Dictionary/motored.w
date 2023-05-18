@@ -1,0 +1,1 @@
+{"index": 194063, "D": "having a motor  or motors,  especially of a specified number or type (usually used in combination)", "S": ["cruise ", "drift ", "drive ", "float ", "go ", "go with ", "guide ", "move ", "sit ", "travel "], "A": ["discourage ", "dissuade ", "remain ", "stay ", "stop ", "mismanage ", "neglect "]}

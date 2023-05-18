@@ -1,0 +1,1 @@
+{"index": 362222, "D": "a person in charge of, employed at, or concerned with a particular thing (used in combination)", "S": [], "A": []}

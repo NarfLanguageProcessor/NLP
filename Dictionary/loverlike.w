@@ -1,0 +1,1 @@
+{"index": 175580, "D": "a person who is in love  with another.", "S": [], "A": []}

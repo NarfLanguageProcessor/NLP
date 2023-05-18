@@ -1,0 +1,1 @@
+{"index": 278699, "D": "capable of being satiated. ", "S": [], "A": []}

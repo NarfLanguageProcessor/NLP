@@ -1,0 +1,1 @@
+{"index": 27015, "D": "a broad leap with a battement to the front, side, or back.", "S": [], "A": []}

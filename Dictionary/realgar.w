@@ -1,0 +1,1 @@
+{"index": 261716, "D": "arsenic disulfide, As2S2, found in nature as an orange-red mineral and also produced artificially", "S": [], "A": []}

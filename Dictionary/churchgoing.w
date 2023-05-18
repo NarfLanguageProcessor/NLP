@@ -1,0 +1,1 @@
+{"index": 56675, "D": "a person who goes  to church,  especially habitually.", "S": ["devout ", "pious ", "righteous "], "A": ["irreligious "]}

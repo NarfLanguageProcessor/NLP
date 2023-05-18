@@ -1,0 +1,1 @@
+{"index": 229866, "D": "a white, crystalline, water-insoluble powder, C6Cl5OH, used chiefly in fungicides, disinfectants, and wood preservatives.", "S": [], "A": []}

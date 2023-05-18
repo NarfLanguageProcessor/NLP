@@ -1,0 +1,1 @@
+{"index": 18468, "D": "the wood of a Brazilian, leguminous tree, Andira araroba, from which Goa powder  is derived.", "S": [], "A": []}

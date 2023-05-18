@@ -1,0 +1,1 @@
+{"index": 321595, "D": "an Attic hero, the husband of Phaedra, father of Hippolytus, and slayer of the Minotaur and the robber Procrustes.", "S": [], "A": []}

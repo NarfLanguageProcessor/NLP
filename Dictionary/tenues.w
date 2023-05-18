@@ -1,0 +1,1 @@
+{"index": 319091, "D": "an unaspirated, voiceless plosive.", "S": ["demeanor ", "manner "], "A": []}

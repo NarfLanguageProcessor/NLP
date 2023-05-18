@@ -1,0 +1,1 @@
+{"index": 122227, "D": "to attach (money or property) by garnishment.", "S": [], "A": []}

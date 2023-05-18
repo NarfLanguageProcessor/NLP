@@ -1,0 +1,1 @@
+{"index": 245524, "D": "the act or process of adding  or uniting.", "S": [], "A": []}

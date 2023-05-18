@@ -1,0 +1,1 @@
+{"index": 16957, "D": "of, at, or forming the apex. ", "S": [], "A": []}

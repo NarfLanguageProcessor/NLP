@@ -1,0 +1,1 @@
+{"index": 66303, "D": "having the form of, resembling, or pertaining to a cone. ", "S": ["cone-shaped ", "tapered "], "A": []}

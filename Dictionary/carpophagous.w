@@ -1,0 +1,1 @@
+{"index": 48450, "D": "feeding on fruit;  fruit-eating.", "S": [], "A": []}

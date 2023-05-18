@@ -1,0 +1,1 @@
+{"index": 60972, "D": "an area containing significant coal deposits.", "S": [], "A": []}

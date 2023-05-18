@@ -1,0 +1,1 @@
+{"index": 143433, "D": "a payment in recognition of acts or professional services for which custom or propriety forbids a price to be set", "S": [], "A": []}

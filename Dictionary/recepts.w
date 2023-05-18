@@ -1,0 +1,1 @@
+{"index": 262749, "D": "an idea formed by the repetition of similar percepts, as successive percepts of the same object.", "S": [], "A": []}

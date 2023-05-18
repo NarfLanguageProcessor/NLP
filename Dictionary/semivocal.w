@@ -1,0 +1,1 @@
+{"index": 285131, "D": "of or relating to a semivowel", "S": [], "A": []}

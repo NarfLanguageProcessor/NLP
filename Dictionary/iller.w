@@ -1,0 +1,1 @@
+{"index": 147359, "D": "of unsound physical or mental health; unwell; sick", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207634, "D": "thin, tenuous, or rarefied, as a fluid or an odor.", "S": [], "A": []}

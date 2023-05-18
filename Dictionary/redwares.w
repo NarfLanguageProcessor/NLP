@@ -1,0 +1,1 @@
+{"index": 264522, "D": "an early American earthenware made from red clay. ", "S": [], "A": []}

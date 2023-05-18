@@ -1,0 +1,1 @@
+{"index": 358206, "D": "radiography of the ventricles of the heart after injection of a contrast medium", "S": [], "A": []}

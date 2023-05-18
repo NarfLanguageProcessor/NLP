@@ -1,0 +1,1 @@
+{"index": 66999, "D": "an officer of the peace, having police and minor judicial functions, usually in a small town, rural district, etc.", "S": [], "A": []}

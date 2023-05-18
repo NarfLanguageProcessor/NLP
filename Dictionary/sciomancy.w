@@ -1,0 +1,1 @@
+{"index": 280747, "D": "divination with the help of ghosts", "S": [], "A": []}

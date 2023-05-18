@@ -1,0 +1,1 @@
+{"index": 217852, "D": "to outdo in walking; walk  faster or farther than.", "S": [], "A": []}

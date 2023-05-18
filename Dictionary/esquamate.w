@@ -1,0 +1,1 @@
+{"index": 104462, "D": "having no squamae, or scales; not scaly.", "S": [], "A": []}

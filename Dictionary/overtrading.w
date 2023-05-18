@@ -1,0 +1,1 @@
+{"index": 221662, "D": "to trade  in excess of one's capital or the requirements of the market.", "S": [], "A": []}

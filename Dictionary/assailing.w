@@ -1,0 +1,1 @@
+{"index": 21584, "D": "to attack vigorously or violently; assault. ", "S": ["combative ", "contentious ", "destructive ", "intrusive ", "threatening "], "A": ["calm ", "complaisant ", "easygoing ", "laid-back "]}

@@ -1,0 +1,1 @@
+{"index": 290222, "D": "a small, reddish deer, Cervus nippon, native to eastern Asia", "S": [], "A": []}

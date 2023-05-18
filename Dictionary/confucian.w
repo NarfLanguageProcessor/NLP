@@ -1,0 +1,1 @@
+{"index": 66079, "D": "an adherent of the teachings of Confucius. ", "S": [], "A": []}

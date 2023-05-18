@@ -1,0 +1,1 @@
+{"index": 171757, "D": "a Eurasian plant, Glycyrrhiza glabra, of the legume family. ", "S": [], "A": []}

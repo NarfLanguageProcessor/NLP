@@ -1,0 +1,1 @@
+{"index": 124689, "D": "to utter mocking or scoffing words; jeer.", "S": ["jab ", "sarcasm ", "swipe "], "A": ["compliment ", "flattery ", "praise ", "respect "]}

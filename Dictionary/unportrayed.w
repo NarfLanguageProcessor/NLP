@@ -1,0 +1,1 @@
+{"index": 348186, "D": "represented in drawing, painting, carving, or other visual image", "S": [], "A": []}

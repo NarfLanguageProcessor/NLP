@@ -1,0 +1,1 @@
+{"index": 120073, "D": "emitting or full of fumes;  fumelike.", "S": ["blurred ", "blurry ", "clouded ", "dim ", "dull ", "dusky ", "faint ", "foggy ", "frosty ", "fuzzy ", "misty ", "murky ", "mushy ", "nebulous ", "opaque ", "overcast ", "smoky ", "soupy ", "vague "], "A": ["bright ", "clear ", "definite ", "distinct ", "light ", "luminous "]}

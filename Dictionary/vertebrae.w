@@ -1,0 +1,1 @@
+{"index": 358843, "D": "any of the bones or segments composing the spinal column, consisting typically of a cylindrical body and an arch with various processes, and forming a foramen, or opening, through which the spinal cord passes.", "S": ["foundation ", "spine "], "A": []}

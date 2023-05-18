@@ -1,0 +1,1 @@
+{"index": 145808, "D": "the veil worn by Muslim women to cover the face in public.", "S": [], "A": []}

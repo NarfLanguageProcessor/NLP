@@ -1,0 +1,1 @@
+{"index": 167500, "D": "the sum of 100,000, especially of rupees. The usual punctuation for sums of Indian money above a lakh is with a comma after the number of lakhs", "S": [], "A": []}

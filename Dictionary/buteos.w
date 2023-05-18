@@ -1,0 +1,1 @@
+{"index": 43592, "D": "any of several buzzards or hawks of the genus Buteo.", "S": [], "A": []}

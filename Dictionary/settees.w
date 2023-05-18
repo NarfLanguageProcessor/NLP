@@ -1,0 +1,1 @@
+{"index": 286671, "D": "a seat for two or more persons, having a back and usually arms, and often upholstered.", "S": ["love seat ", "sofa "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213651, "D": "to stop up; fill with obstructing matter; obstruct.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344387, "D": "made or said without previous preparation", "S": [], "A": []}

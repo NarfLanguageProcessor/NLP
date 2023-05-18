@@ -1,0 +1,1 @@
+{"index": 341456, "D": "to rub or scrape out, as letters or characters written, engraved, etc.; efface. ", "S": [], "A": []}

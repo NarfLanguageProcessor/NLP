@@ -1,0 +1,1 @@
+{"index": 96242, "D": "the condition or fact of being egocentric", "S": ["egomania ", "narcissism ", "self-absorption ", "self-centeredness ", "self-importance ", "self-love ", "selfishness "], "A": []}

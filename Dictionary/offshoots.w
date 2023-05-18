@@ -1,0 +1,1 @@
+{"index": 211683, "D": "a branch or lateral shoot  from a main stem, as of a plant.", "S": ["outgrowth ", "spin-off "], "A": ["origin ", "source "]}

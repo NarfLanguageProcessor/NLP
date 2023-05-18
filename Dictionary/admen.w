@@ -1,0 +1,1 @@
+{"index": 4122, "D": "one whose profession is writing, designing, or selling advertisements.", "S": [], "A": []}

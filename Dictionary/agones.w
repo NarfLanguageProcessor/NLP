@@ -1,0 +1,1 @@
+{"index": 6352, "D": "(in ancient Greece) a contest in which prizes were awarded in any of a number of events, as athletics, drama, music, poetry, and painting.", "S": [], "A": []}

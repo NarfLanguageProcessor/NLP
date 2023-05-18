@@ -1,0 +1,1 @@
+{"index": 222626, "D": "any of the thick-skinned, nonruminant ungulates, as elephants, hippopotamuses, and rhinoceroses.", "S": ["elephant ", "hippopotamus ", "mammoth ", "mastodon ", "rhinoceros "], "A": []}

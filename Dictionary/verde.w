@@ -1,0 +1,1 @@
+{"index": 358438, "D": "a cape in Senegal, near Dakar", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 32847, "D": "any of several marsupials of the genus Bettongia, of Australia and nearby regions, comprising the short-nosed rat-kangaroos, characterized by short, rounded ears, long hind feet, and a naked muzzle tip", "S": [], "A": []}

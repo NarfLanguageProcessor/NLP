@@ -1,0 +1,1 @@
+{"index": 150104, "D": "not compatible;  unable to exist together in harmony", "S": [], "A": []}

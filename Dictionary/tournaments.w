@@ -1,0 +1,1 @@
+{"index": 326663, "D": "a trial of skill in some game, in which competitors play a series of contests", "S": ["contest ", "event ", "fight ", "match ", "meeting ", "series ", "sport ", "test ", "tourney "], "A": ["peace "]}

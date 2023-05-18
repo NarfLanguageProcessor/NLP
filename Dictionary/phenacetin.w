@@ -1,0 +1,1 @@
+{"index": 233277, "D": "a white, slightly water-soluble, crystalline solid, C10H13NO2, used in medicine chiefly as an agent for checking or preventing fever or for relieving pain", "S": [], "A": []}

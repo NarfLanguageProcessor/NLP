@@ -1,0 +1,1 @@
+{"index": 287406, "D": "to enroll or obtain (a sailor) for the crew of a ship by unscrupulous means, as by force or the use of liquor or drugs.", "S": ["abduct ", "capture ", "grab ", "hijack ", "pirate ", "seize ", "skyjack ", "snatch "], "A": ["free ", "give ", "let go ", "liberate ", "release "]}

@@ -1,0 +1,1 @@
+{"index": 294180, "D": "an act or instance of slipping. ", "S": [], "A": []}

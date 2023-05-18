@@ -1,0 +1,1 @@
+{"index": 68293, "D": "a narrow valley or deep hollow, especially one enclosed on all but one side.", "S": [], "A": []}

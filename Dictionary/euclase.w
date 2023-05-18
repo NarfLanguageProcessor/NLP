@@ -1,0 +1,1 @@
+{"index": 105325, "D": "a rare green or blue mineral, beryllium aluminum silicate, BeAlSiO4(OH), occurring in prismatic crystals.", "S": [], "A": []}

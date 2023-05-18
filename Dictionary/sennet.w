@@ -1,0 +1,1 @@
+{"index": 285299, "D": "any of several small barracudas, as Sphyraena borealis(northern sennet ), ranging along the eastern coast of North and Central America.", "S": [], "A": []}

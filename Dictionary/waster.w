@@ -1,0 +1,1 @@
+{"index": 363004, "D": "a person or thing that wastes  time, money, etc.", "S": ["prodigal ", "profligate ", "wastrel "], "A": []}

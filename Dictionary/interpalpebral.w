@@ -1,0 +1,1 @@
+{"index": 155566, "D": "of or relating to the eyelids.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 215174, "D": "a branch of medicine dealing with the making and fitting of orthotic  devices.", "S": [], "A": []}

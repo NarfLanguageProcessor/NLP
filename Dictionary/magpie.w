@@ -1,0 +1,1 @@
+{"index": 177635, "D": "either of two corvine birds, Pica pica(black-billed magpie ), of Eurasia and North America, or P. nuttalli(yellow-billed magpie ), of California, having long, graduated tails, black-and-white plumage, and noisy, mischievous habits.", "S": ["blabbermouth ", "busybody ", "clack ", "gossip ", "windbag "], "A": []}

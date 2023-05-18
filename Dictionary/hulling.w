@@ -1,0 +1,1 @@
+{"index": 144813, "D": "material for the framework and shell of the hull  of a ship.", "S": ["capsule ", "husk ", "skin "], "A": []}

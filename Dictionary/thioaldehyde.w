@@ -1,0 +1,1 @@
+{"index": 321929, "D": "any of a class of compounds formed by the action of hydrogen sulfide on aldehydes,  and regarded as aldehydes  with the oxygen replaced by sulfur.", "S": [], "A": []}

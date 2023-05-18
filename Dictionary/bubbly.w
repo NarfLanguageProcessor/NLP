@@ -1,0 +1,1 @@
+{"index": 41937, "D": "full of, producing, or characterized by bubbles. ", "S": ["carbonated ", "effervescent "], "A": ["dull ", "flat ", "listless ", "still "]}

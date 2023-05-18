@@ -1,0 +1,1 @@
+{"index": 340924, "D": "involving duplication,  especially unnecessary repetition of effort or resources", "S": [], "A": []}

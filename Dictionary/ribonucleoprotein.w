@@ -1,0 +1,1 @@
+{"index": 272470, "D": "a substance composed of RNA in close association with protein; a nucleoprotein  containing RNA. Abbreviation", "S": [], "A": []}

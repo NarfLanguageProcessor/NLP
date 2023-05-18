@@ -1,0 +1,1 @@
+{"index": 353780, "D": "to relate, describe, or treat (something) in verse. ", "S": [], "A": []}

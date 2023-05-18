@@ -1,0 +1,1 @@
+{"index": 202252, "D": "a substance that does not readily conduct heat, sound, or electricity.", "S": [], "A": []}

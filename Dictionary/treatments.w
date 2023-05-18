@@ -1,0 +1,1 @@
+{"index": 328732, "D": "an act or manner of treating. ", "S": ["analysis ", "cure ", "hospitalization ", "medication ", "medicine ", "operation ", "prescription ", "regimen ", "remedy ", "surgery ", "therapy "], "A": ["disease ", "injury "]}

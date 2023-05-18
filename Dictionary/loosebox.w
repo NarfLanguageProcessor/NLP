@@ -1,0 +1,1 @@
+{"index": 175116, "D": "an enclosed and covered stall with a door in which an animal can be confined", "S": [], "A": []}

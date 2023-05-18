@@ -1,0 +1,1 @@
+{"index": 34253, "D": "the normal  to a curve, lying perpendicular to the osculating plane at a given point on the curve.", "S": [], "A": []}

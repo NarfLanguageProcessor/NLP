@@ -1,0 +1,1 @@
+{"index": 260496, "D": "full of or showing rancor. ", "S": ["bitterly ", "hardly ", "keenly ", "reluctantly ", "slowly ", "sorely "], "A": ["easily ", "enthusiastically ", "tolerantly "]}

@@ -1,0 +1,1 @@
+{"index": 157480, "D": "to treat, impregnate, or affect with iodine  or an iodide.", "S": [], "A": []}

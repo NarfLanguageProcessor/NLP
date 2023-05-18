@@ -1,0 +1,1 @@
+{"index": 216508, "D": "an outer garment for women and girls, consisting of bodice and skirt in one piece.", "S": [], "A": []}

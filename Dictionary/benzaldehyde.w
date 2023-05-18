@@ -1,0 +1,1 @@
+{"index": 31731, "D": "a colorless or yellowish, water-soluble, volatile oil, C7H6O, having a bitter, almondlike odor, used chiefly in the organic synthesis of dyes, perfumes, and flavors, and as a solvent; artificial oil of bitter almond.", "S": [], "A": []}

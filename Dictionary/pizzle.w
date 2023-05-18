@@ -1,0 +1,1 @@
+{"index": 238504, "D": "the penis of an animal, especially a bull.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239661, "D": "a fold of definite, even width made by doubling cloth or the like upon itself and pressing or stitching it in place.", "S": ["crease ", "crimp ", "flounce ", "flute ", "gather ", "kilt ", "plait ", "ruffle ", "tuck "], "A": []}

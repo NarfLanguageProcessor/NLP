@@ -1,0 +1,1 @@
+{"index": 105099, "D": "a branch of anthropology dealing with the development of cultures, as through the analysis of archaeological findings.", "S": [], "A": []}

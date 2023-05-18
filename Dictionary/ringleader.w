@@ -1,0 +1,1 @@
+{"index": 273051, "D": "a person who leads others, especially in opposition to authority, law, etc.", "S": ["chieftain ", "instigator ", "mastermind ", "troublemaker "], "A": ["employee ", "follower ", "worker "]}

@@ -1,0 +1,1 @@
+{"index": 364283, "D": "of or relating to the historic German region of Westphalia or its inhabitants", "S": [], "A": []}

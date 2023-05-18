@@ -1,0 +1,1 @@
+{"index": 243386, "D": "to read or study with steady attention or application", "S": [], "A": []}

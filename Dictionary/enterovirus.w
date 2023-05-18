@@ -1,0 +1,1 @@
+{"index": 101340, "D": "any of several picornaviruses of the genus Enterovirus, including poliovirus, that infect the human gastrointestinal tract and cause diseases of the nervous system.", "S": [], "A": []}

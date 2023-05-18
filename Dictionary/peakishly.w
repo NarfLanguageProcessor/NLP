@@ -1,0 +1,1 @@
+{"index": 228417, "D": "the pointed top of a mountain or ridge.", "S": [], "A": []}

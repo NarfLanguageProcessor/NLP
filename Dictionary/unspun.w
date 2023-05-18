@@ -1,0 +1,1 @@
+{"index": 351853, "D": "a simple past tense and past participle of spin. ", "S": [], "A": []}

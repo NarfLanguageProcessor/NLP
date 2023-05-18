@@ -1,0 +1,1 @@
+{"index": 301541, "D": [], "S": ["dispatch ", "expedition ", "hurrying ", "quickening ", "spurring ", "stimulation "], "A": ["slowing "]}

@@ -1,0 +1,1 @@
+{"index": 193234, "D": "given to moping;  listless, apathetic, or dejected.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27075, "D": "mild and refreshing; soft; soothing", "S": [], "A": []}

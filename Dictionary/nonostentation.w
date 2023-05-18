@@ -1,0 +1,1 @@
+{"index": 205682, "D": "pretentious or conspicuous show, as of wealth or importance; display intended to impress others.", "S": [], "A": []}

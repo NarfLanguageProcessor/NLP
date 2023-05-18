@@ -1,0 +1,1 @@
+{"index": 233744, "D": "the terminal bud of a stem, especially of the stem of a palm.", "S": [], "A": []}

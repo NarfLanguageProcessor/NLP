@@ -1,0 +1,1 @@
+{"index": 5482, "D": "to charter (a ship) as a freight carrier.", "S": [], "A": []}

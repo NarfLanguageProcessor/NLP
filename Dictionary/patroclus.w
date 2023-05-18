@@ -1,0 +1,1 @@
+{"index": 227935, "D": "a friend of Achilles, who was slain by Hector at Troy.", "S": [], "A": []}

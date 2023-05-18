@@ -1,0 +1,1 @@
+{"index": 207437, "D": "of or relating to a specter; ghostly; phantom.", "S": [], "A": []}

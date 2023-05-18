@@ -1,0 +1,1 @@
+{"index": 299273, "D": "a polyamine, H2N(CH2)3NH(CH2)4NH(CH2)3NH2, formed from spermidine and occurring in all cells, especially prevalent in semen, sputum, pancreatic tissue, and certain yeasts.", "S": [], "A": []}

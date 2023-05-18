@@ -1,0 +1,1 @@
+{"index": 26868, "D": "pertaining to the Balkan States  or their inhabitants.", "S": [], "A": []}

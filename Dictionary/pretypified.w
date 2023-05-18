@@ -1,0 +1,1 @@
+{"index": 249987, "D": "to foreshadow or prefigure the type of", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253802, "D": "the basal portion of a two-branched crustacean leg or other appendage.", "S": [], "A": []}

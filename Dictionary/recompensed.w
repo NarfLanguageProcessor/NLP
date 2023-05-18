@@ -1,0 +1,1 @@
+{"index": 263193, "D": "to repay; remunerate; reward, as for service, aid, etc.", "S": ["compensated ", "salaried "], "A": ["unpaid "]}

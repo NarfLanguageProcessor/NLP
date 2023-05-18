@@ -1,0 +1,1 @@
+{"index": 75068, "D": "a small, cuplike, porous container, usually made of bone ash, used in assaying, as for separating gold and silver from lead.", "S": [], "A": []}

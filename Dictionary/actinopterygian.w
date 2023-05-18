@@ -1,0 +1,1 @@
+{"index": 3202, "D": "belonging or pertaining to the Actinopterygii, a group of bony fishes.", "S": [], "A": []}

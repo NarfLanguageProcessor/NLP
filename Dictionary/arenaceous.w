@@ -1,0 +1,1 @@
+{"index": 19343, "D": "(of rocks) sandlike; sandy.", "S": ["chalky ", "dirty ", "sandy "], "A": ["clean ", "clear "]}

@@ -1,0 +1,1 @@
+{"index": 278968, "D": "belonging or pertaining to the Sauria, a group of reptiles originally including the lizards, crocodiles, and several extinct forms but now technically restricted to the lizards.", "S": [], "A": []}

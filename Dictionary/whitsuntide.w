@@ -1,0 +1,1 @@
+{"index": 365240, "D": "the week beginning with Whitsunday, especially the first three days of this week.", "S": [], "A": []}

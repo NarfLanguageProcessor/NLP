@@ -1,0 +1,1 @@
+{"index": 248939, "D": "of or relating to the time preceding one's concentrated study or practice of a profession", "S": [], "A": []}

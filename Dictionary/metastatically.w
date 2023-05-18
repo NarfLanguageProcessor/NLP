@@ -1,0 +1,1 @@
+{"index": 185013, "D": "of, relating to, or resulting from metastasis,  the transference of disease-producing organisms or malignant or cancerous cells to other parts of the body by way of the blood or lymphatic vessels or membranous surfaces", "S": [], "A": []}

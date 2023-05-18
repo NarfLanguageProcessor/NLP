@@ -1,0 +1,1 @@
+{"index": 344144, "D": "supporting, conforming to, or derived from a theory or doctrine about uniformity,  especially on the subject of geology.", "S": [], "A": []}

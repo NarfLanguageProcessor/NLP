@@ -1,0 +1,1 @@
+{"index": 325625, "D": "something having a specified weight in tons (used in combination)", "S": [], "A": []}

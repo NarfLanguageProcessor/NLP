@@ -1,0 +1,1 @@
+{"index": 216053, "D": [], "S": ["allow ", "become ", "consider ", "enjoy ", "experience ", "feel ", "know ", "leave ", "need ", "permit ", "see ", "suffer ", "undergo "], "A": ["deny ", "disallow ", "forget ", "hold ", "ignore ", "keep ", "neglect ", "refuse ", "reject ", "halt ", "stop "]}

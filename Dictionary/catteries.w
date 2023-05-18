@@ -1,0 +1,1 @@
+{"index": 49854, "D": "a place where cats are kept and bred.", "S": [], "A": []}

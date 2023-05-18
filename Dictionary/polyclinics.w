@@ -1,0 +1,1 @@
+{"index": 241774, "D": "a clinic or a hospital dealing with various diseases.", "S": [], "A": []}

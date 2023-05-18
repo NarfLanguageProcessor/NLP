@@ -1,0 +1,1 @@
+{"index": 297208, "D": "a member of a group of peoples living along the Niger River in the area of Timbuktu and Gao in Mali and in adjacent areas of Niger and Burkina Faso.", "S": [], "A": []}

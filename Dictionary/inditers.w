@@ -1,0 +1,1 @@
+{"index": 151154, "D": "to compose or write, as a poem.", "S": [], "A": []}

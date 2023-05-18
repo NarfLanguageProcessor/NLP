@@ -1,0 +1,1 @@
+{"index": 344419, "D": "inclination;  disposition.", "S": [], "A": []}

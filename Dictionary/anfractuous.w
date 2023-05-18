@@ -1,0 +1,1 @@
+{"index": 12635, "D": "characterized by windings and turnings; sinuous; circuitous", "S": ["bending ", "circuitous ", "crooked ", "curving ", "indirect ", "roundabout ", "serpentine ", "sinuous ", "snaky ", "tortuous ", "twisted ", "twisting "], "A": []}

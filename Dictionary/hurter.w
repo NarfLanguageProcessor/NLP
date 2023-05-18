@@ -1,0 +1,1 @@
+{"index": 145287, "D": "an object or part that gives protection, such as a concrete block that protects a building from traffic or the shoulder of an axle against which the hub strikes", "S": [], "A": []}

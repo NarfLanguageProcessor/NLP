@@ -1,0 +1,1 @@
+{"index": 272932, "D": "an appetizer made usually of pork or goose meat that is diced, seasoned, cooked, and then pounded or ground to the consistency of a spread.", "S": [], "A": []}

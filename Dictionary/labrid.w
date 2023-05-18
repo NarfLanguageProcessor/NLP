@@ -1,0 +1,1 @@
+{"index": 166797, "D": "any of numerous fishes of the family Labridae, including the wrasses, the tautog, and the cunner, and characterized chiefly by well-developed teeth and, often, brilliant colors.", "S": [], "A": []}

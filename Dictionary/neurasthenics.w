@@ -1,0 +1,1 @@
+{"index": 198956, "D": "relating to, having, or experiencing neurasthenia. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279889, "D": "a graphic representation of bivariate data as a set of points in the plane that have Cartesian coordinates equal to corresponding values of the two variates.", "S": [], "A": []}

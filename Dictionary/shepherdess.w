@@ -1,0 +1,1 @@
+{"index": 288047, "D": "a girl or woman who herds sheep.", "S": ["herder ", "herdsman "], "A": []}

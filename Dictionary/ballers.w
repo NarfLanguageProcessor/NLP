@@ -1,0 +1,1 @@
+{"index": 26948, "D": "someone who is proficient at playing ball, especially basketball", "S": [], "A": []}

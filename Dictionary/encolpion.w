@@ -1,0 +1,1 @@
+{"index": 99435, "D": "a pectoral medallion bearing the image of Christ or the Virgin Mary, worn by bishops.", "S": [], "A": []}

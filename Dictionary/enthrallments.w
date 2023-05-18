@@ -1,0 +1,1 @@
+{"index": 101397, "D": "to captivate or charm", "S": ["attention ", "captivation ", "concentration ", "engrossment ", "fascination ", "immersion ", "intentness ", "preoccupation "], "A": []}

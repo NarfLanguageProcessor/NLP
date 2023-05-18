@@ -1,0 +1,1 @@
+{"index": 205204, "D": "capable of being measured. ", "S": [], "A": []}

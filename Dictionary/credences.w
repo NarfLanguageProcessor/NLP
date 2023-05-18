@@ -1,0 +1,1 @@
+{"index": 72475, "D": "belief as to the truth of something", "S": ["admission ", "assurance ", "belief ", "certainty ", "confidence ", "credit ", "dependence ", "faith ", "reliance ", "stock ", "store "], "A": ["denial ", "disbelief ", "distrust ", "doubt ", "fear ", "misgiving ", "uncertainty "]}

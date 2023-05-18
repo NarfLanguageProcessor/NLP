@@ -1,0 +1,1 @@
+{"index": 4490, "D": "to show excessive admiration or devotion to; flatter or admire servilely.", "S": ["brown-nose ", "fawn ", "fawn on ", "gush ", "hero-worship ", "praise ", "worship "], "A": []}

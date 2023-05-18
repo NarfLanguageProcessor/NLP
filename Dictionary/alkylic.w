@@ -1,0 +1,1 @@
+{"index": 8503, "D": "of, relating to, or characteristic of an alkyl group. ", "S": [], "A": []}

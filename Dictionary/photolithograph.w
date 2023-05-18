@@ -1,0 +1,1 @@
+{"index": 235209, "D": "a lithograph  printed from a stone or the like upon which a picture or design has been formed by photography.", "S": [], "A": []}

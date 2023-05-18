@@ -1,0 +1,1 @@
+{"index": 204678, "D": "the act of indurating.", "S": [], "A": []}

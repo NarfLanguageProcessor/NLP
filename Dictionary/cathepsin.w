@@ -1,0 +1,1 @@
+{"index": 49675, "D": "any of a class of intracellular proteolytic enzymes, occurring in animal tissue, especially the liver, spleen, kidneys, and intestine, that catalyze autolysis in certain pathological conditions and after death.", "S": [], "A": []}

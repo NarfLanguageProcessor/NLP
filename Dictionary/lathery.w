@@ -1,0 +1,1 @@
+{"index": 168920, "D": "consisting of, covered with, or capable of producing lather. ", "S": ["sudsy "], "A": []}

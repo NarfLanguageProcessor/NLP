@@ -1,0 +1,1 @@
+{"index": 137289, "D": "an infectious disease, especially of children, characterized by a sudden occurrence of fever, loss of appetite, and throat ulcerations, caused by a Coxsackie virus.", "S": [], "A": []}

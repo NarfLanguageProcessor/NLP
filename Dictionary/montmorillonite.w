@@ -1,0 +1,1 @@
+{"index": 192939, "D": "any of a group of clay minerals characterized by the ability to expand when they absorb large quantities of water.", "S": [], "A": []}

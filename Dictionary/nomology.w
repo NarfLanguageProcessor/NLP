@@ -1,0 +1,1 @@
+{"index": 200929, "D": "the science of law or laws.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 131887, "D": "rough or jagged, as if hacked", "S": [], "A": []}

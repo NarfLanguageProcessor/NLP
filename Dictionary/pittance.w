@@ -1,0 +1,1 @@
+{"index": 238417, "D": "a small amount or share.", "S": ["allowance ", "bit ", "dribble ", "drop ", "inadequacy ", "insufficiency ", "mite ", "modicum ", "peanuts ", "pension ", "portion ", "ration ", "scrap ", "smidgen ", "trace ", "trifle "], "A": ["lot ", "sufficiency ", "whole "]}

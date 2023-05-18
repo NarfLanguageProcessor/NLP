@@ -1,0 +1,1 @@
+{"index": 89689, "D": "Compare proximal. ", "S": [], "A": []}

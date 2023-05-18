@@ -1,0 +1,1 @@
+{"index": 162355, "D": "a playground apparatus consisting of a framework of horizontal and vertical bars on which children can climb.", "S": ["park "], "A": []}

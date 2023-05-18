@@ -1,0 +1,1 @@
+{"index": 243488, "D": "any of various microporous synthetic materials used as leather substitutes.", "S": [], "A": []}

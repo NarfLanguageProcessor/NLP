@@ -1,0 +1,1 @@
+{"index": 197572, "D": [], "S": ["Blackshirt ", "National Socialist ", "Nazi ", "brownshirt "], "A": ["democrat ", "republican ", "socialist "]}

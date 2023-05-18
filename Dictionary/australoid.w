@@ -1,0 +1,1 @@
+{"index": 23721, "D": "a descriptive category including principally the Australian Aboriginal peoples and sometimes including Papuans, Melanesians, various peoples, as Negritos, of the Philippines, Malay Peninsula, and Andaman Islands, and some of the tribes of central and southern India.", "S": [], "A": []}

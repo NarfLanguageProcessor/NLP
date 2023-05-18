@@ -1,0 +1,1 @@
+{"index": 272265, "D": "of or relating to the former Rhodesia (now Zimbabwe) or its inhabitants", "S": [], "A": []}

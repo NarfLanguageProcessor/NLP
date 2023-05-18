@@ -1,0 +1,1 @@
+{"index": 124385, "D": "pertaining to bodily motions, especially in dancing.", "S": [], "A": []}

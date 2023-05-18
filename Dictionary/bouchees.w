@@ -1,0 +1,1 @@
+{"index": 38861, "D": "a small patty shell of puff pastry, used especially for hot hors d'oeuvres.", "S": [], "A": []}

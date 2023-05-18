@@ -1,0 +1,1 @@
+{"index": 240194, "D": "to make a sound like that of something falling or dropping into water", "S": ["flutter ", "plunk "], "A": ["ascend ", "do well ", "increase ", "rise "]}

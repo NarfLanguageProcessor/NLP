@@ -1,0 +1,1 @@
+{"index": 168235, "D": "a rare-earth, trivalent, metallic element, allied to aluminum, found in certain minerals, as monazite. Symbol", "S": [], "A": []}

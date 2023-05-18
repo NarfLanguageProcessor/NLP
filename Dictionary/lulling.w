@@ -1,0 +1,1 @@
+{"index": 176017, "D": "to put to sleep or rest by soothing means", "S": ["fanciful ", "introspective ", "nightmarish ", "otherworldly ", "pensive ", "quixotic ", "utopian ", "whimsical "], "A": ["real "]}

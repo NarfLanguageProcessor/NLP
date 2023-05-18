@@ -1,0 +1,1 @@
+{"index": 263973, "D": "to counsel; advise.", "S": [], "A": []}

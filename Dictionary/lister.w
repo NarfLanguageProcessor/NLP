@@ -1,0 +1,1 @@
+{"index": 173513, "D": "a plow with a double moldboard, used to prepare the ground for planting by producing furrows and ridges.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133531, "D": "of or relating to the sense of touch", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 221681, "D": "to disturb the mental calm and contentment of; worry; distress; agitate.", "S": [], "A": []}

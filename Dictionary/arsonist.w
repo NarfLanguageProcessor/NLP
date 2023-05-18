@@ -1,0 +1,1 @@
+{"index": 20437, "D": "a person who commits arson. ", "S": ["firebug ", "incendiary ", "pyromaniac ", "torch "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 209254, "D": "expressing or involving subtle distinctions", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249420, "D": "a dark figure or image cast on the ground or some surface by a body intercepting light.", "S": [], "A": []}

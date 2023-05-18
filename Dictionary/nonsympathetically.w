@@ -1,0 +1,1 @@
+{"index": 207267, "D": "characterized by, proceeding from, exhibiting, or feeling sympathy; sympathizing; compassionate", "S": [], "A": []}

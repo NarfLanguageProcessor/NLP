@@ -1,0 +1,1 @@
+{"index": 181741, "D": "taking a winding or indirect course", "S": [], "A": []}

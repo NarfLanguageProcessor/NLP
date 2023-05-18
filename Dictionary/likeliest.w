@@ -1,0 +1,1 @@
+{"index": 172181, "D": "probably or apparently destined (usually followed by an infinitive)", "S": [], "A": []}

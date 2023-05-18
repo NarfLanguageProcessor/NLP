@@ -1,0 +1,1 @@
+{"index": 94916, "D": "traveling, proceeding, or headed east", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266352, "D": "to seek information by questioning; ask", "S": [], "A": []}

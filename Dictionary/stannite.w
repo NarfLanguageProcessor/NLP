@@ -1,0 +1,1 @@
+{"index": 302751, "D": "a mineral, iron-black to steel-gray in color, with a metallic luster, copper iron tin sulfide, Cu2FeSnS4", "S": [], "A": []}

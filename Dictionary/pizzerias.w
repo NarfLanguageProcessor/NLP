@@ -1,0 +1,1 @@
+{"index": 238502, "D": "a restaurant, bakery, or the like, where pizzas are made and sold.", "S": ["bar ", "cafeteria ", "coffee shop ", "diner ", "dining room ", "inn ", "outlet ", "saloon "], "A": []}

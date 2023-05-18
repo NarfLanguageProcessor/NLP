@@ -1,0 +1,1 @@
+{"index": 312293, "D": "of, relating to, or being above or beyond what is natural; unexplainable by natural law or phenomena; abnormal.", "S": [], "A": []}

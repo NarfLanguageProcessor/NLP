@@ -1,0 +1,1 @@
+{"index": 233037, "D": "inflammation of the mucous membrane of the pharynx;  sore throat.", "S": [], "A": []}

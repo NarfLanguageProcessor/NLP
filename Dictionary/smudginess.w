@@ -1,0 +1,1 @@
+{"index": 295128, "D": "marked with smudges;  smeared; smeary.", "S": [], "A": []}

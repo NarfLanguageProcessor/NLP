@@ -1,0 +1,1 @@
+{"index": 319423, "D": "a person who has an estate for a term of years or for life.", "S": [], "A": []}

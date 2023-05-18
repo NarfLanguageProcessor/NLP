@@ -1,0 +1,1 @@
+{"index": 49862, "D": "catlike; feline.", "S": ["rancorous ", "spiteful "], "A": ["kind ", "nice ", "pleasant "]}

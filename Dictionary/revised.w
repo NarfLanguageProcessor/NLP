@@ -1,0 +1,1 @@
+{"index": 271381, "D": "amended or altered", "S": ["adjusted ", "amended ", "improved ", "updated "], "A": ["kept "]}

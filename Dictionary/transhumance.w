@@ -1,0 +1,1 @@
+{"index": 327947, "D": "the seasonal migration of livestock, and the people who tend them, between lowlands and adjacent mountains.", "S": [], "A": []}

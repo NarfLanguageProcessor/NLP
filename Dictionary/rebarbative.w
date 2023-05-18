@@ -1,0 +1,1 @@
+{"index": 262235, "D": "causing annoyance, irritation, or aversion; repellent.", "S": ["aggravating ", "annoying ", "distressing ", "disturbing ", "inconvenient ", "irritating ", "troublesome ", "vexing "], "A": ["helpful "]}

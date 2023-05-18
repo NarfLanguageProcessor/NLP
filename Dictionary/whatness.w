@@ -1,0 +1,1 @@
+{"index": 364453, "D": "the quality that makes a thing what it is; the essential nature of a thing.", "S": [], "A": []}

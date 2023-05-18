@@ -1,0 +1,1 @@
+{"index": 329047, "D": "(formerly) an allowance for waste, after deduction for tare.", "S": [], "A": []}

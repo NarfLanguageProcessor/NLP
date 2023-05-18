@@ -1,0 +1,1 @@
+{"index": 175484, "D": "a variant of lower2. ", "S": ["glare ", "glower ", "grimace "], "A": ["grin ", "smile "]}

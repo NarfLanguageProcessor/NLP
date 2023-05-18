@@ -1,0 +1,1 @@
+{"index": 47580, "D": "any of several digestive enzymes that catalyze the removal of an amino acid from the end of a peptide chain having a free carbonyl group.", "S": [], "A": []}

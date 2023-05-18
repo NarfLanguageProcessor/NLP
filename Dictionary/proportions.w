@@ -1,0 +1,1 @@
+{"index": 252785, "D": "comparative relation between things or magnitudes as to size, quantity, number, etc.; ratio.", "S": ["amount ", "area ", "breadth ", "compass ", "depth ", "diameter ", "dimensions ", "expanse ", "extent ", "height ", "length ", "magnitude ", "range ", "scope ", "size ", "volume ", "width "], "A": ["unimportance "]}

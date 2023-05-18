@@ -1,0 +1,1 @@
+{"index": 216272, "D": "to stand up to; face defiantly", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66915, "D": "(of two liquids) mutually soluble in all proportions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349691, "D": "not restricted; without reservation; full; entire; unqualified", "S": ["boisterous ", "loud ", "outgoing ", "uninhibited "], "A": []}

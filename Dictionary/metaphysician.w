@@ -1,0 +1,1 @@
+{"index": 184884, "D": "a person who creates or develops metaphysical theories.", "S": [], "A": []}

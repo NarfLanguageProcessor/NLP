@@ -1,0 +1,1 @@
+{"index": 16821, "D": "the disappearance or loss of an unstressed initial vowel or syllable, as in the formation of the word slant from aslant.", "S": [], "A": []}

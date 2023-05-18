@@ -1,0 +1,1 @@
+{"index": 228658, "D": "to change into a jelly; jellify; gel; gelatinize; gelatinate.", "S": [], "A": []}

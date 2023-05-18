@@ -1,0 +1,1 @@
+{"index": 5589, "D": "a person who specializes in and studies the cultures or languages of Africa.", "S": [], "A": []}

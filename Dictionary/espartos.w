@@ -1,0 +1,1 @@
+{"index": 104396, "D": "any of several grasses, especially Stipa tenacissima, of southern Europe and northern Africa, used for making paper, cordage, etc.", "S": [], "A": []}

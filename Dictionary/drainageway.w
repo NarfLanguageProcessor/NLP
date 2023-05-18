@@ -1,0 +1,1 @@
+{"index": 92620, "D": "a conduit, ditch, or the like, for draining water from an area.", "S": [], "A": []}

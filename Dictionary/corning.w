@@ -1,0 +1,1 @@
+{"index": 69342, "D": "a city in S New York.", "S": [], "A": []}

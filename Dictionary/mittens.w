@@ -1,0 +1,1 @@
+{"index": 190671, "D": "a hand covering enclosing the four fingers together and the thumb separately.", "S": ["mitt "], "A": []}

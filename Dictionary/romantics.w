@@ -1,0 +1,1 @@
+{"index": 274079, "D": "of, relating to, or of the nature of romance; characteristic or suggestive of the world of romance", "S": ["dreamer ", "idealist ", "prophet ", "romantic ", "seer ", "theorist ", "zealot "], "A": ["realist "]}

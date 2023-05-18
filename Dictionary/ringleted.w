@@ -1,0 +1,1 @@
+{"index": 273057, "D": "a curled lock of hair.", "S": ["corkscrew ", "curling ", "curly ", "frizzy ", "permed "], "A": ["straight ", "uncurled "]}

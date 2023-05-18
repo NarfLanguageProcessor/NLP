@@ -1,0 +1,1 @@
+{"index": 61702, "D": "a white, crystalline, slightly bitter alkaloid, C18H21NO3, obtained from opium, used in medicine chiefly as an analgesic or sedative and to inhibit coughing.", "S": [], "A": []}

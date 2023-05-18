@@ -1,0 +1,1 @@
+{"index": 195535, "D": "common; ordinary; banal; unimaginative.", "S": [], "A": []}

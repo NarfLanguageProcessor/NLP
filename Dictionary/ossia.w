@@ -1,0 +1,1 @@
+{"index": 215475, "D": "(indicating an alternative, usually easier, version of a passage in a musical score) or; or else.", "S": [], "A": []}

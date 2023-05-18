@@ -1,0 +1,1 @@
+{"index": 132277, "D": "(used as an exclamation or representation of laughter, as in expressing amusement or derision.)", "S": ["antic ", "farce ", "gag ", "humor ", "laugh ", "one-liner ", "parody ", "prank ", "pun ", "stunt ", "trick ", "wisecrack "], "A": ["seriousness ", "tragedy ", "work "]}

@@ -1,0 +1,1 @@
+{"index": 120653, "D": "the wood of a large, tropical American tree, Chlorophora tinctoria, of the mulberry family, yielding a light-yellow dye.", "S": [], "A": []}

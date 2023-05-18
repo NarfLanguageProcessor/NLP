@@ -1,0 +1,1 @@
+{"index": 139860, "D": "an exaggerated sense of pain (opposed to hypalgesia).", "S": [], "A": []}

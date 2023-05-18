@@ -1,0 +1,1 @@
+{"index": 210036, "D": "a tapering, four-sided shaft of stone, usually monolithic and having a pyramidal apex.", "S": [], "A": []}

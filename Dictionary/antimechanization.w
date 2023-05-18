@@ -1,0 +1,1 @@
+{"index": 15523, "D": "the act or process of causing a task to be performed or operated by machinery", "S": [], "A": []}

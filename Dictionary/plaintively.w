@@ -1,0 +1,1 @@
+{"index": 238819, "D": "expressing sorrow or melancholy; mournful", "S": [], "A": []}

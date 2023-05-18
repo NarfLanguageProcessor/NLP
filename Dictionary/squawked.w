@@ -1,0 +1,1 @@
+{"index": 301821, "D": "to utter a loud, harsh cry, as a duck or other fowl when frightened.", "S": ["cackle ", "hoot ", "screech ", "yap "], "A": ["compliment ", "praise "]}

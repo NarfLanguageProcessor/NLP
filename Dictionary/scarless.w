@@ -1,0 +1,1 @@
+{"index": 279780, "D": "a mark left by a healed wound, sore, or burn.", "S": [], "A": []}

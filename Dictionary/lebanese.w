@@ -1,0 +1,1 @@
+{"index": 169770, "D": "of or relating to Lebanon  or its people.", "S": [], "A": []}

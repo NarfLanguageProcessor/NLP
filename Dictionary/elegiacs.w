@@ -1,0 +1,1 @@
+{"index": 97365, "D": "used in, suitable for, or resembling an elegy.", "S": [], "A": []}

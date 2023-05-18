@@ -1,0 +1,1 @@
+{"index": 238525, "D": "a paperboard sign or notice, as one posted in a public place or carried by a demonstrator or picketer.", "S": [], "A": []}

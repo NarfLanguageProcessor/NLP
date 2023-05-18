@@ -1,0 +1,1 @@
+{"index": 158968, "D": "an imaginary line connecting all points within the earth having the same mean temperature.", "S": [], "A": []}

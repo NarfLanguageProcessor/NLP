@@ -1,0 +1,1 @@
+{"index": 279586, "D": "the metrical analysis of verse. The usual marks for scansion are \u02d8 for a short or unaccented syllable, \u00af or \u2032 for a long or accented syllable, ^ for a rest, | for a foot division, and \u2016 for a caesura or pause.", "S": [], "A": []}

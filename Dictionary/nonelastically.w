@@ -1,0 +1,1 @@
+{"index": 203406, "D": "capable of returning to its original length, shape, etc., after being stretched, deformed, compressed, or expanded", "S": [], "A": []}

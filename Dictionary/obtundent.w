@@ -1,0 +1,1 @@
+{"index": 210564, "D": "to blunt; dull; deaden", "S": [], "A": []}

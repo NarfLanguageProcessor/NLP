@@ -1,0 +1,1 @@
+{"index": 181938, "D": "the first fecal excretion of a newborn child, composed chiefly of bile, mucus, and epithelial cells.", "S": [], "A": []}

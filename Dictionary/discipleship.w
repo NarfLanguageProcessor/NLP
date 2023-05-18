@@ -1,0 +1,1 @@
+{"index": 87334, "D": "the condition or situation of being a disciple, a follower, or a student of some philosophy, especially a follower of Christ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 145189, "D": "a person who hunts  game or other wild animals for food or in sport.", "S": ["chaser ", "deerstalker ", "falconer ", "fisherman ", "hawker ", "huntress ", "huntsman ", "pursuer ", "sportsman ", "stalker ", "trapper "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15593, "D": "of or relating to certain substances capable of arresting the process of cell division.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40894, "D": "any pear-shaped gem having its entire surface cut with triangular facets.", "S": [], "A": []}

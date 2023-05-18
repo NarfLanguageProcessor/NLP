@@ -1,0 +1,1 @@
+{"index": 254300, "D": "a river in E Europe, flowing SE from the Carpathian Mountains in Ukraine along the boundary between Moldova and Romania into the Danube. 500 miles (800 km) long.", "S": [], "A": []}

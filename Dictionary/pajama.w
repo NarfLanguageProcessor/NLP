@@ -1,0 +1,1 @@
+{"index": 223249, "D": "of, relating to, or resembling pajamas", "S": [], "A": []}

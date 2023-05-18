@@ -1,0 +1,1 @@
+{"index": 173191, "D": "the hydrolysis of fats into fatty acids and glycerol, as by lipase.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194622, "D": "pertaining to, consisting of, or resembling mucus. ", "S": [], "A": []}

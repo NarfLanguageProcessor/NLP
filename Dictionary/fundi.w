@@ -1,0 +1,1 @@
+{"index": 120178, "D": "a person skilled in repairing or maintaining machinery; mechanic", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160484, "D": "a chieftain; earl.", "S": [], "A": []}

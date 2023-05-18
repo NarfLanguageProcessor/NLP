@@ -1,0 +1,1 @@
+{"index": 319200, "D": "a drug or other substance capable of interfering with the development of a fetus, causing birth defects.", "S": [], "A": []}

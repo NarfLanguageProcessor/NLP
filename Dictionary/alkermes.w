@@ -1,0 +1,1 @@
+{"index": 8484, "D": "a Mediterranean liqueur made from brandy flavored with nutmeg, cinnamon, cloves, and other spices, and colored red with kermes or cochineal.", "S": [], "A": []}

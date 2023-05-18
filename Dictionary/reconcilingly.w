@@ -1,0 +1,1 @@
+{"index": 263274, "D": "to cause (a person) to accept or be resigned to something not desired", "S": [], "A": []}

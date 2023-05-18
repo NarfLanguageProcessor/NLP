@@ -1,0 +1,1 @@
+{"index": 237791, "D": "a white, crystalline, water-soluble, poisonous, solid, phenolic compound, C6H3(OH)3, obtained by heating gallic acid  and water", "S": [], "A": []}

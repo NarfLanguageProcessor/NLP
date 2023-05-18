@@ -1,0 +1,1 @@
+{"index": 77740, "D": "excessive indulgence in sensual pleasures; intemperance.", "S": ["revelry ", "seduction "], "A": ["moderation ", "virtue "]}

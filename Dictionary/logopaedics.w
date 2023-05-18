@@ -1,0 +1,1 @@
+{"index": 174693, "D": "(functioning as singular) another name for speech therapy", "S": [], "A": []}

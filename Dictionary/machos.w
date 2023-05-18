@@ -1,0 +1,1 @@
+{"index": 176799, "D": "having or characterized by qualities considered manly, especially when manifested in an assertive, self-conscious, or dominating way.", "S": ["manhood ", "manliness ", "masculinity "], "A": ["femininity "]}

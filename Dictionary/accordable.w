@@ -1,0 +1,1 @@
+{"index": 1686, "D": "to be in agreement or harmony; agree. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 172575, "D": "any of certain diseases characterized by granulomatous lesions of lymph nodes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194308, "D": "resembling or suggesting a mouse,  as in color or odor.", "S": ["bashful ", "colorless ", "diffident ", "dull ", "indeterminate ", "ineffectual ", "pale ", "plain ", "self-effacing ", "shy ", "timid ", "timorous ", "unassertive ", "unassuming "], "A": ["beautiful ", "extroverted ", "fancy "]}

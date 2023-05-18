@@ -1,0 +1,1 @@
+{"index": 340459, "D": "to deny or repudiate interest in or connection with; disavow; disown", "S": [], "A": []}

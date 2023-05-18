@@ -1,0 +1,1 @@
+{"index": 133347, "D": "the act, an instance, or the form of capital punishment carried out by suspending one by the neck from a gallows, gibbet, or the like, until dead.", "S": [], "A": []}

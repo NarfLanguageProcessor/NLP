@@ -1,0 +1,1 @@
+{"index": 352662, "D": "beautiful untamed wilderness", "S": ["barbarian ", "barbaric ", "barbarous ", "feral ", "ferocious ", "fierce ", "native ", "overgrown ", "overrun ", "rampant ", "savage ", "uncivilized ", "uncontrollable ", "uncultivated ", "undomesticated ", "uninhabited ", "unmanageable ", "vicious "], "A": []}

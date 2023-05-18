@@ -1,0 +1,1 @@
+{"index": 317839, "D": "eruption of the deciduous teeth, especially the phenomena associated with their eruption.", "S": [], "A": []}

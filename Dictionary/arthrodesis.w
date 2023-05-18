@@ -1,0 +1,1 @@
+{"index": 20587, "D": "permanent surgical immobilization of a joint.", "S": [], "A": []}

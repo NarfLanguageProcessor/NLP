@@ -1,0 +1,1 @@
+{"index": 69533, "D": "of or relating to a corporation.", "S": [], "A": []}

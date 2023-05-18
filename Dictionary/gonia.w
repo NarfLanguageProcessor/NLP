@@ -1,0 +1,1 @@
+{"index": 127736, "D": "a point on each side of the lower jaw at the mandibular angle.", "S": [], "A": []}

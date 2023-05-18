@@ -1,0 +1,1 @@
+{"index": 69752, "D": "to draw or bend into folds or alternate furrows and ridges.", "S": ["crinkle ", "pleat ", "pucker ", "wrinkle "], "A": ["smooth ", "straighten "]}

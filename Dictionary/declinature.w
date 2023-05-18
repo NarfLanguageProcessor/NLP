@@ -1,0 +1,1 @@
+{"index": 78495, "D": "the act of refusing.", "S": [], "A": []}

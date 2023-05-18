@@ -1,0 +1,1 @@
+{"index": 275959, "D": "a furrow or track in the ground, especially one made by the passage of a vehicle or vehicles.", "S": ["bash ", "cut ", "dent ", "depress ", "dint ", "hollow ", "jag ", "mark ", "nick ", "notch ", "pink ", "pit ", "rabbet ", "rut ", "scallop ", "score ", "serrate "], "A": ["raise "]}

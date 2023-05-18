@@ -1,0 +1,1 @@
+{"index": 163166, "D": "an Indian shrub or small tree, Carissa carandas, of the dogbane family, having white or pink flowers and reddish-black berries.", "S": [], "A": []}

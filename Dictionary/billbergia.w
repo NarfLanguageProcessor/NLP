@@ -1,0 +1,1 @@
+{"index": 33977, "D": "any bromeliad of the tropical American genus Billbergia, having stiff leaves and flowers with showy, variously colored bracts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 150762, "D": "to compensate for damage or loss sustained, expense incurred, etc.", "S": ["compensated ", "salaried "], "A": ["unpaid "]}

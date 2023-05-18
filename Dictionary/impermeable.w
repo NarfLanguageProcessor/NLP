@@ -1,0 +1,1 @@
+{"index": 148577, "D": "not permeable; impassable.", "S": ["airtight ", "dense ", "hermetic ", "impassable ", "impervious ", "leak-proof ", "nonporous ", "sealed ", "water-resistant ", "waterproof ", "watertight "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 242488, "D": "a sulfide  whose molecules contain two or more atoms of sulfur.", "S": [], "A": []}

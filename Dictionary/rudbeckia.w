@@ -1,0 +1,1 @@
+{"index": 275266, "D": "any composite plant of the genus Rudbeckia, having alternate leaves and showy flower heads.", "S": [], "A": []}

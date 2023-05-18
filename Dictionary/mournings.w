@@ -1,0 +1,1 @@
+{"index": 194270, "D": "the act of a person who mourns;  sorrowing or lamentation.", "S": ["grief "], "A": ["light ", "lightness "]}

@@ -1,0 +1,1 @@
+{"index": 368293, "D": "a chromatophore containing a yellow pigment, as in some cold-blooded animals.", "S": [], "A": []}

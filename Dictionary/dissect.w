@@ -1,0 +1,1 @@
+{"index": 89416, "D": "to cut apart (an animal body, plant, etc.) to examine the structure, relation of parts, or the like.", "S": ["anatomize ", "cut ", "dichotomize ", "disjoin ", "disjoint ", "dismember ", "dissever ", "divide ", "operate ", "part ", "quarter ", "section ", "sever ", "slice ", "sunder "], "A": ["combine ", "connect ", "join ", "unite "]}

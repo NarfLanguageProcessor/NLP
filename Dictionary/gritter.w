@@ -1,0 +1,1 @@
+{"index": 130078, "D": "a vehicle which spreads grit on roads during icy weather, or when icy conditions are expected", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268866, "D": [], "S": ["calm ", "calmness ", "comfort ", "content ", "luxury ", "relaxation ", "satisfaction ", "serenity "], "A": ["agitation ", "discontent ", "unhappiness ", "action ", "activity ", "displeasure ", "dissatisfaction ", "disturbance ", "employment ", "misery ", "upset ", "woe ", "work ", "worry "]}

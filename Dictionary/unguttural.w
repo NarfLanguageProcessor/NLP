@@ -1,0 +1,1 @@
+{"index": 343408, "D": "of or relating to the throat.", "S": [], "A": []}

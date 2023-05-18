@@ -1,0 +1,1 @@
+{"index": 23358, "D": "A large mineral grain or grain cluster having the shape of an eye in cross-section and occurring in foliated metamorphic rocks such as schist and gneiss. Augens form when large mineral crystals are sheared and deformed during the process of metamorphism.", "S": [], "A": []}

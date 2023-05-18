@@ -1,0 +1,1 @@
+{"index": 25826, "D": "aid or support of any kind.", "S": ["advocacy ", "aid ", "assistance ", "encouragement ", "endorsement ", "help ", "sponsorship ", "subsidy "], "A": ["blockage ", "hindrance ", "hurt ", "injury ", "obstruction ", "opposition ", "stop "]}

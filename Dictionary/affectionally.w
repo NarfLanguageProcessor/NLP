@@ -1,0 +1,1 @@
+{"index": 5314, "D": "relating to or implying affection. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45409, "D": "a receptor stimulated by heat.", "S": [], "A": []}

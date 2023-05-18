@@ -1,0 +1,1 @@
+{"index": 287108, "D": "a companion of Daniel who, with Meshach and Abednego, was thrown into the fiery furnace of Nebuchadnezzar and came out unharmed. Daniel 3", "S": [], "A": []}

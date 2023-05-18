@@ -1,0 +1,1 @@
+{"index": 292350, "D": "a form of Aramaic used by various Eastern Churches.", "S": [], "A": []}

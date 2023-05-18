@@ -1,0 +1,1 @@
+{"index": 71836, "D": "a low stool, often one with three legs", "S": [], "A": []}

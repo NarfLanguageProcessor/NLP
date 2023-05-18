@@ -1,0 +1,1 @@
+{"index": 289053, "D": "a glass case  for the display and protection of articles in shops, museums, etc.", "S": ["demonstrate ", "embody ", "illustrate ", "prove ", "reveal ", "signify "], "A": ["conceal ", "hide ", "contradict ", "cover ", "deny ", "destroy ", "disprove ", "invalidate ", "veto "]}

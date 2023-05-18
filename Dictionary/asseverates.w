@@ -1,0 +1,1 @@
+{"index": 21735, "D": "to declare earnestly or solemnly; affirm positively; aver.", "S": ["allege ", "attest ", "aver ", "avow ", "declare ", "promise "], "A": []}

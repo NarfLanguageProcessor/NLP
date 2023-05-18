@@ -1,0 +1,1 @@
+{"index": 169771, "D": "a republic at the E end of the Mediterranean, N of Israel. 3,927 sq. mi. (10,170 sq. km). Capital", "S": [], "A": []}

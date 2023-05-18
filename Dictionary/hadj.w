@@ -1,0 +1,1 @@
+{"index": 131946, "D": "a variant spelling of hajj", "S": [], "A": []}

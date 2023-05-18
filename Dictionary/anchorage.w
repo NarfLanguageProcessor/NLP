@@ -1,0 +1,1 @@
+{"index": 12178, "D": "that portion of a harbor or area outside a harbor suitable for anchoring or in which ships are permitted to anchor.", "S": ["dock ", "harbor ", "haven ", "port ", "refuge ", "roadstead ", "slip ", "wharf "], "A": []}

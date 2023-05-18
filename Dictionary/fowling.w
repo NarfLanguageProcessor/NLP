@@ -1,0 +1,1 @@
+{"index": 118065, "D": "the practice or sport of shooting or snaring birds.", "S": ["angling ", "fishery ", "fishing ", "shooting "], "A": []}

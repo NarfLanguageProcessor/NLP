@@ -1,0 +1,1 @@
+{"index": 156385, "D": "twisted inwardly about an axis or fixed point; curled; wound", "S": [], "A": []}

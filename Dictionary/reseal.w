@@ -1,0 +1,1 @@
+{"index": 269094, "D": "to close (something) tightly or securely again", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256099, "D": "any of several alcidine sea birds of the genera Fratercula and Lunda, having a short neck and a large, compressed, grooved bill, as F. arctica(Atlantic puffin ), of the North Atlantic.", "S": [], "A": []}

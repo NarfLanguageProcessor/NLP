@@ -1,0 +1,1 @@
+{"index": 301116, "D": "full of, having, or occurring in spots", "S": [], "A": []}

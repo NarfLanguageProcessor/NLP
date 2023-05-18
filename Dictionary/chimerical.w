@@ -1,0 +1,1 @@
+{"index": 54488, "D": "unreal; imaginary; visionary", "S": ["absurd ", "delusive ", "fanciful ", "fantastic ", "fictional ", "imaginary ", "mythical ", "unfounded ", "unreal ", "utopian ", "visionary ", "wild "], "A": []}

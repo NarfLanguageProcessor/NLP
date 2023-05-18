@@ -1,0 +1,1 @@
+{"index": 331440, "D": "a student who stays away from school without permission.", "S": [], "A": []}

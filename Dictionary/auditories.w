@@ -1,0 +1,1 @@
+{"index": 23331, "D": "pertaining to hearing, to the sense of hearing, or to the organs of hearing.", "S": ["audition ", "detecting ", "distinguishing ", "ear ", "earshot ", "effect ", "extent ", "faculty ", "listening ", "perception ", "range ", "reach ", "recording ", "sense "], "A": []}

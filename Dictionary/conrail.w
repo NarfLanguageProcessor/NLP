@@ -1,0 +1,1 @@
+{"index": 66649, "D": "a government-supported corporation that combined six bankrupt railroads to provide freight and commuter service in 17 states from Boston to St. Louis.", "S": [], "A": []}

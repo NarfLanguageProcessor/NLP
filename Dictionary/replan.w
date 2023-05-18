@@ -1,0 +1,1 @@
+{"index": 268246, "D": "a scheme or method of acting, doing, proceeding, making, etc., developed in advance", "S": ["amend ", "reassess ", "reevaluate ", "reexamine ", "rethink ", "review ", "revise "], "A": ["spoil "]}

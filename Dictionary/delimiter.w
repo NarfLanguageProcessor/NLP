@@ -1,0 +1,1 @@
+{"index": 80116, "D": "a blank space, comma, or other character or symbol that indicates the beginning or end of a character string, word, or data item.", "S": [], "A": []}

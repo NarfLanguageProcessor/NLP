@@ -1,0 +1,1 @@
+{"index": 360920, "D": "to speak or cry out loudly or noisily; shout; bawl.", "S": ["bawl ", "bellow ", "call ", "clamor ", "cry ", "howl ", "protest ", "shout ", "shriek ", "utter ", "yell "], "A": ["conceal "]}

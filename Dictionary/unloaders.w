@@ -1,0 +1,1 @@
+{"index": 345717, "D": "to take the load  from; remove the cargo or freight from", "S": [], "A": []}

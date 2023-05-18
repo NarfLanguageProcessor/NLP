@@ -1,0 +1,1 @@
+{"index": 226429, "D": "having no meat or milk in any form as an ingredient and therefore being permissible for use with both meat and dairy meals as stated in the dietary laws", "S": [], "A": []}

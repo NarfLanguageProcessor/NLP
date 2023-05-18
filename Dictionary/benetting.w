@@ -1,0 +1,1 @@
+{"index": 31596, "D": [], "S": ["enmesh ", "ensnare ", "entangle ", "entice ", "implicate ", "seduce "], "A": ["exclude ", "discourage ", "disenchant ", "disgust ", "dissuade ", "free ", "let go ", "lose ", "release ", "repulse "]}

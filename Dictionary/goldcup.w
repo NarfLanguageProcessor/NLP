@@ -1,0 +1,1 @@
+{"index": 127496, "D": "a Mexican climbing shrub, Solandra guttata, of the nightshade family, having cup-shaped yellow flowers marked with purple.", "S": [], "A": []}

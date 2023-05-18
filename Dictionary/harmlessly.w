@@ -1,0 +1,1 @@
+{"index": 133827, "D": "without the power or desire to do harm; innocuous", "S": ["carefully ", "cautiously "], "A": []}

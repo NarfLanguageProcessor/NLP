@@ -1,0 +1,1 @@
+{"index": 76493, "D": "color blindness, especially the inability to distinguish red from green.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78744, "D": "the final judgment or sentence of a court", "S": [], "A": []}

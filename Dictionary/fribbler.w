@@ -1,0 +1,1 @@
+{"index": 118895, "D": "to act in a foolish or frivolous manner; trifle.", "S": [], "A": []}

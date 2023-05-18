@@ -1,0 +1,1 @@
+{"index": 103442, "D": "the use of equivocal  or ambiguous expressions, especially in order to mislead or hedge; prevarication.", "S": ["prevarication "], "A": ["certainty ", "clarity ", "fact ", "frankness ", "honesty ", "openness ", "reality ", "surety ", "trustworthiness ", "truth ", "truthfulness ", "uprightness "]}

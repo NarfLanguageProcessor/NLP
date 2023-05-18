@@ -1,0 +1,1 @@
+{"index": 156321, "D": "of or relating to the recording of intimate personal and psychological experiences as a basis for art, literature, etc.", "S": [], "A": []}

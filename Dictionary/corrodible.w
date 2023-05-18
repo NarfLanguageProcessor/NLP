@@ -1,0 +1,1 @@
+{"index": 69733, "D": "to eat or wear away gradually as if by gnawing, especially by chemical action.", "S": [], "A": []}

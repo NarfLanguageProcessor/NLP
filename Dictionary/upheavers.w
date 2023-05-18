@@ -1,0 +1,1 @@
+{"index": 354736, "D": "to heave or lift up; raise up or aloft.", "S": [], "A": []}

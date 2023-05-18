@@ -1,0 +1,1 @@
+{"index": 84963, "D": "of or relating to a dictator  or dictatorship.", "S": ["absolute ", "arbitrary ", "arrogant ", "autocratic ", "dogmatic ", "domineering ", "haughty ", "imperious ", "oppressive ", "overbearing ", "totalitarian "], "A": ["democratic ", "humble ", "meek ", "obedient ", "servile ", "submissive ", "yielding "]}

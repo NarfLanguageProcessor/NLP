@@ -1,0 +1,1 @@
+{"index": 117385, "D": "the range and number of partials present in a tone of a specific instrument, representing its timbre.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243138, "D": "a small body of standing water; pond. ", "S": ["basin ", "bath ", "lagoon ", "lake ", "pond ", "puddle ", "swimming pool ", "tank "], "A": []}

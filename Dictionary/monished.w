@@ -1,0 +1,1 @@
+{"index": 191990, "D": "to admonish.", "S": ["admonish ", "berate ", "blame ", "castigate ", "censure ", "condemn ", "rebuke ", "reprimand ", "reproach ", "scold ", "upbraid "], "A": ["applaud ", "approve ", "commend ", "compliment ", "exonerate ", "flatter ", "laud ", "praise "]}

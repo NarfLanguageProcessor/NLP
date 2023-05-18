@@ -1,0 +1,1 @@
+{"index": 59434, "D": "of or relating to a society in which there are no economic or social distinctions.", "S": [], "A": []}

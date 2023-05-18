@@ -1,0 +1,1 @@
+{"index": 307196, "D": "subaqua swimming; a subaqua club", "S": [], "A": []}

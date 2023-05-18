@@ -1,0 +1,1 @@
+{"index": 324108, "D": "a person who specializes in applying tints  or dyes.", "S": [], "A": []}

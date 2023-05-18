@@ -1,0 +1,1 @@
+{"index": 344955, "D": "(of cells) capable of developing into only one type of cell or tissue.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122274, "D": "a body of troops stationed in a fortified place.", "S": ["barricaded ", "covered ", "guarded ", "protected ", "reinforced ", "secured ", "strengthened ", "walled "], "A": ["open ", "unguarded ", "unprotected "]}

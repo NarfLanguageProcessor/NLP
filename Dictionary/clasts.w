@@ -1,0 +1,1 @@
+{"index": 59448, "D": "a grain of sediment, silt, sand, gravel, etc., especially as a constituent fragment of a clastic  rock formation, as distinguished from a chemical or biogenic component of such a formation.", "S": [], "A": []}

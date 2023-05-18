@@ -1,0 +1,1 @@
+{"index": 311197, "D": "the act or an instance of applying a sunset clause", "S": [], "A": []}

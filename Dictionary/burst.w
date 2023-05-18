@@ -1,0 +1,1 @@
+{"index": 43333, "D": "to break, break open, or fly apart with sudden violence", "S": ["barrage ", "blowout ", "crack ", "eruption ", "explosion ", "flare ", "fusillade ", "gust ", "outbreak ", "outpouring ", "rush ", "salvo ", "shower ", "spate ", "spurt ", "storm ", "surge ", "torrent ", "volley "], "A": ["closing ", "closure ", "juncture "]}

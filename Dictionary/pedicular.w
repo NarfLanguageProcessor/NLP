@@ -1,0 +1,1 @@
+{"index": 228882, "D": "of or relating to lice.", "S": [], "A": []}

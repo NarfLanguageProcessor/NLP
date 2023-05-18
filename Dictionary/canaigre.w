@@ -1,0 +1,1 @@
+{"index": 45992, "D": "a plant, Rumex hymenosepalus, of the buckwheat family, found from Oklahoma to California, having clustered, tuberous roots that yield tannin.", "S": [], "A": []}

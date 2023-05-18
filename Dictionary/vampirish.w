@@ -1,0 +1,1 @@
+{"index": 356902, "D": "a preternatural being, commonly believed to be a reanimated corpse, that is said to suck the blood of sleeping persons at night.", "S": [], "A": []}

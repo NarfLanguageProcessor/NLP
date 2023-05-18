@@ -1,0 +1,1 @@
+{"index": 248419, "D": "a proposition supporting or helping to support a conclusion.", "S": ["assertion ", "assumption ", "basis ", "ground ", "presumption ", "proposition ", "thesis "], "A": ["denial ", "reality ", "rejection "]}

@@ -1,0 +1,1 @@
+{"index": 79049, "D": [], "S": ["deactivate ", "demilitarize ", "demobilize ", "disband ", "neutralize ", "occupy ", "subdue "], "A": ["aid ", "allow ", "assist ", "capacitate ", "cover ", "enable ", "help ", "incite ", "mobilize ", "permit ", "strengthen "]}

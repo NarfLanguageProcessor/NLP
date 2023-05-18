@@ -1,0 +1,1 @@
+{"index": 86316, "D": "a unit for measuring the refractive power of a lens", "S": [], "A": []}

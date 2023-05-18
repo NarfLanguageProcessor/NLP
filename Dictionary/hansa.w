@@ -1,0 +1,1 @@
+{"index": 133408, "D": "a company or guild of merchants in a northern European medieval town.", "S": [], "A": []}

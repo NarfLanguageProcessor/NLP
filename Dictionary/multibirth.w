@@ -1,0 +1,1 @@
+{"index": 194994, "D": "an act or instance of being born", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 85959, "D": "having two forms.", "S": [], "A": []}

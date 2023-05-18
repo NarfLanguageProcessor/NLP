@@ -1,0 +1,1 @@
+{"index": 143608, "D": "bustling excitement or activity; commotion; hullabaloo; to-do.", "S": ["brouhaha ", "bustle ", "buzz ", "commotion ", "emotion ", "frenzy ", "furor ", "fuss ", "hubbub ", "hysteria ", "ruckus "], "A": ["calm ", "calmness ", "peace ", "depression ", "frigidity ", "hate ", "idleness ", "inactivity ", "inertia "]}

@@ -1,0 +1,1 @@
+{"index": 228547, "D": "having or covered with pebbles", "S": ["craggy ", "jagged ", "rough "], "A": ["even ", "smooth "]}

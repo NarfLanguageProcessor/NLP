@@ -1,0 +1,1 @@
+{"index": 314509, "D": "a player who can play either of two positions, usually guard and forward.", "S": [], "A": []}

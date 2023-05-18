@@ -1,0 +1,1 @@
+{"index": 227955, "D": "a person who is a customer, client, or paying guest, especially a regular one, of a store, hotel, or the like.", "S": ["advocate ", "backer ", "benefactor ", "fan ", "friend ", "leader ", "philanthropist ", "sponsor ", "supporter ", "well-wisher "], "A": ["antagonist ", "enemy ", "opponent ", "opposer ", "rear "]}

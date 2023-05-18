@@ -1,0 +1,1 @@
+{"index": 28752, "D": "one of a people of unknown origin inhabiting the western Pyrenees regions in France and Spain.", "S": [], "A": []}

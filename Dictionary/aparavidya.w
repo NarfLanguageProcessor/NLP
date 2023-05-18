@@ -1,0 +1,1 @@
+{"index": 16657, "D": "intellectual knowledge.", "S": [], "A": []}

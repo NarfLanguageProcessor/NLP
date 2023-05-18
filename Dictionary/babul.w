@@ -1,0 +1,1 @@
+{"index": 25585, "D": "any of several leguminous trees of the genus Acacia that yield a gum, especially A. nilotica, of tropical Africa.", "S": [], "A": []}

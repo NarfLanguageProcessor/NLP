@@ -1,0 +1,1 @@
+{"index": 306313, "D": "to deal a blow or stroke to (a person or thing), as with the fist, a weapon, or a hammer; hit.", "S": ["beat ", "collide ", "crash ", "drive ", "force ", "knock ", "pummel ", "punch ", "smack ", "touch "], "A": ["surrender "]}

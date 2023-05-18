@@ -1,0 +1,1 @@
+{"index": 187728, "D": "a naval ship equipped for placing mines  in the water.", "S": [], "A": []}

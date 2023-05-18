@@ -1,0 +1,1 @@
+{"index": 197338, "D": "a person who studies or is an expert in natural history,  especially a zoologist or botanist.", "S": ["biologist ", "botanist ", "conservationist ", "ecologist ", "environmentalist ", "zoologist "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20284, "D": "to come to a certain point in the course of travel; reach one's destination", "S": ["advent ", "appearance ", "influx ", "landing ", "meeting ", "return "], "A": ["departure "]}

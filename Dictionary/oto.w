@@ -1,0 +1,1 @@
+{"index": 215900, "D": "a member of a Siouan-speaking tribe of North American Indians who formerly inhabited the lower Missouri River basin and now live in Oklahoma.", "S": [], "A": []}

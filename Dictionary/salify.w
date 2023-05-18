@@ -1,0 +1,1 @@
+{"index": 277049, "D": "to form into a salt, as by chemical combination.", "S": [], "A": []}

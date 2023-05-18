@@ -1,0 +1,1 @@
+{"index": 109696, "D": "a unit of dry measure in Spanish-speaking countries, equal in Spain to 1.58 U.S. bushels (55.7 liters).", "S": [], "A": []}

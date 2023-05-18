@@ -1,0 +1,1 @@
+{"index": 365804, "D": "in a consenting and often cheerful way", "S": ["cheerfully ", "freely ", "readily ", "voluntarily "], "A": ["unwillingly "]}

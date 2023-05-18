@@ -1,0 +1,1 @@
+{"index": 255395, "D": "occult communication between souls or with spirits.", "S": [], "A": []}

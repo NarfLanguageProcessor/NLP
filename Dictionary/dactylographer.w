@@ -1,0 +1,1 @@
+{"index": 76058, "D": "the study of fingerprints for purposes of identification.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107718, "D": "any doctrine or theory that maintains that personal experience is the only or the principal basis of knowledge.", "S": ["experimentation "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55680, "D": "a restaurant specializing in chop,  steaks, and the like.", "S": ["bistro ", "burger joint ", "cafeteria ", "cake shop ", "coffee bar ", "coffee shop ", "diner ", "eating house ", "grease joint ", "greasy spoon ", "hash house ", "luncheonette ", "lunchroom ", "noshery ", "pit stop ", "quick-lunch ", "snack bar ", "soup house ", "tearoom "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148968, "D": "not potent; lacking power or ability.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333856, "D": "(of rocks) containing iron and magnesium, with little or no silica.", "S": [], "A": []}

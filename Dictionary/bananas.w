@@ -1,0 +1,1 @@
+{"index": 27239, "D": "crazy; deranged", "S": ["crackers ", "crazy ", "cuckoo ", "lunatic ", "maniac ", "nuts ", "psycho ", "sick "], "A": ["healthy ", "sane ", "sensible "]}

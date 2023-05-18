@@ -1,0 +1,1 @@
+{"index": 179020, "D": "a short, black cloak worn by monks.", "S": [], "A": []}

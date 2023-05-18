@@ -1,0 +1,1 @@
+{"index": 286389, "D": "finely or minutely serrate, as a leaf.", "S": ["indented ", "notched ", "ragged ", "scored ", "serrate "], "A": ["smooth "]}

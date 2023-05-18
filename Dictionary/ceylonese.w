@@ -1,0 +1,1 @@
+{"index": 50418, "D": "of or relating to Ceylon (now Sri Lanka), its people, or their language.", "S": [], "A": []}

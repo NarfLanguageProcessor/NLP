@@ -1,0 +1,1 @@
+{"index": 189877, "D": "to give publicity  to; bring to public  notice; advertise", "S": [], "A": []}

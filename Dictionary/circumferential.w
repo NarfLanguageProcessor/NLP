@@ -1,0 +1,1 @@
+{"index": 58119, "D": "of, at, or near the circumference;  surrounding; lying along the outskirts.", "S": ["enveloping "], "A": []}

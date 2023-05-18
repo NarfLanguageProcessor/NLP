@@ -1,0 +1,1 @@
+{"index": 6774, "D": "either of two standing pieces of metal or cuir-bouilli, attached to the shoulders as an ornament or as a means of displaying the wearer's arms", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359566, "D": "a Vietnamese, Communist-led organization whose forces fought against the Japanese and especially against the French in Indochina", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305698, "D": "to draw tight or taut, especially to the utmost tension; stretch to the full", "S": ["anxious ", "eager ", "irritable ", "keen ", "restless ", "testy ", "thirsty "], "A": ["happy ", "unconcerned ", "unenthusiastic "]}

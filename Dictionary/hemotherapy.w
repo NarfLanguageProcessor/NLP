@@ -1,0 +1,1 @@
+{"index": 136493, "D": "therapy  by means of blood, serum, or plasma transfusion.", "S": [], "A": []}

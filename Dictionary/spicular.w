@@ -1,0 +1,1 @@
+{"index": 299675, "D": "having the form of a spicule.", "S": [], "A": []}

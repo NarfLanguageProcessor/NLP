@@ -1,0 +1,1 @@
+{"index": 297946, "D": "a person having a grouchy disposition that is often accompanied by a scowling facial expression.", "S": ["bellyacher ", "crab ", "crank ", "crosspatch ", "curmudgeon ", "faultfinder ", "growler ", "grumbler ", "grump ", "killjoy ", "moaner ", "sorehead ", "whiner "], "A": []}

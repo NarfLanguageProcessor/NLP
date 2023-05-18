@@ -1,0 +1,1 @@
+{"index": 248622, "D": "the passage of one celestial body in front of another, thus hiding the other from view", "S": [], "A": []}

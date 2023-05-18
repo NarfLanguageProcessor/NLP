@@ -1,0 +1,1 @@
+{"index": 303177, "D": "firm or steadfast in principle, adherence, loyalty, etc., as a person", "S": ["ardent ", "come-through ", "loyal ", "reliable ", "stalwart ", "steadfast ", "stout ", "trustworthy "], "A": ["disloyal ", "undependable ", "unreliable ", "untrustworthy ", "weak ", "flexible ", "indefinite ", "insecure ", "loose ", "moving ", "unfixed ", "unstable "]}

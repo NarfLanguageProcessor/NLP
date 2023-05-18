@@ -1,0 +1,1 @@
+{"index": 254460, "D": "in a way that shows or is characterized by affection or love", "S": [], "A": []}

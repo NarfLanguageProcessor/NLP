@@ -1,0 +1,1 @@
+{"index": 295779, "D": "a mound of snow,  as a snowdrift or snow  shoveled from a road or sidewalk.", "S": ["sleet "], "A": []}

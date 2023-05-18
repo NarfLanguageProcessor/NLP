@@ -1,0 +1,1 @@
+{"index": 330507, "D": "a wire  used to set off concealed explosives, as one stretched across a footpath to be struck and activated by the foot of an enemy soldier.", "S": ["land mine "], "A": []}

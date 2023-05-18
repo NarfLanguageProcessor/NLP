@@ -1,0 +1,1 @@
+{"index": 314641, "D": "a simple past tense of swink. ", "S": [], "A": []}

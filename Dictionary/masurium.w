@@ -1,0 +1,1 @@
+{"index": 180998, "D": "the former name for technetium", "S": [], "A": []}

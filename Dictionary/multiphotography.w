@@ -1,0 +1,1 @@
+{"index": 195244, "D": "the process or art of producing images of objects on sensitized surfaces by the chemical action of light or of other forms of radiant energy, as x-rays, gamma rays, or cosmic rays.", "S": [], "A": []}

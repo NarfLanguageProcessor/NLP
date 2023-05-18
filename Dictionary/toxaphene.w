@@ -1,0 +1,1 @@
+{"index": 326865, "D": "an amber, waxy, water-insoluble solid, whose principal constituent is chlorinated camphene,  used as an insecticide and as a rodenticide.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 245778, "D": "to take for granted or without proof", "S": [], "A": []}

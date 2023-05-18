@@ -1,0 +1,1 @@
+{"index": 6972, "D": "the calculation of the ground position of an aircraft by first determining its air position from its speed in the air and heading information, and then correcting for wind effects.", "S": [], "A": []}

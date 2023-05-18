@@ -1,0 +1,1 @@
+{"index": 85140, "D": "a person who vigorously maintains or defends a seemingly hopeless position, outdated attitude, lost cause, or the like.", "S": ["fanatic ", "fundamentalist ", "zealot "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279555, "D": "disgraceful; shameful or shocking; improper", "S": ["defamatory ", "disgraceful ", "heinous ", "outrageous ", "scurrilous ", "shameful ", "shocking ", "slanderous ", "unseemly ", "untrue "], "A": ["good ", "magnificent ", "respectable ", "wonderful "]}

@@ -1,0 +1,1 @@
+{"index": 187932, "D": "a supporter of the governing ministry", "S": [], "A": []}

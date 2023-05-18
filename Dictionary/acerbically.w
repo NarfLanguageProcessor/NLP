@@ -1,0 +1,1 @@
+{"index": 1955, "D": "sour or astringent in taste", "S": ["acrimoniously ", "bitingly ", "caustically ", "maliciously ", "sneeringly "], "A": []}

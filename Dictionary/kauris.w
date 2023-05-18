@@ -1,0 +1,1 @@
+{"index": 163438, "D": "a tall, coniferous tree, Agathis australis, of New Zealand, yielding a valuable timber and a resin.", "S": [], "A": []}

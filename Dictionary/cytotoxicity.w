@@ -1,0 +1,1 @@
+{"index": 58824, "D": "cell destruction caused by a cytotoxic substance.", "S": [], "A": []}

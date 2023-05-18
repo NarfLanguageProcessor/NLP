@@ -1,0 +1,1 @@
+{"index": 63729, "D": "a play, movie, etc., of light and humorous character with a happy or cheerful ending; a dramatic work in which the central motif is the triumph over adverse circumstance, resulting in a successful or happy conclusion.", "S": ["farce ", "fun ", "humor ", "satire ", "sitcom "], "A": ["sadness ", "tragedy ", "seriousness "]}

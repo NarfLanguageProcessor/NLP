@@ -1,0 +1,1 @@
+{"index": 283898, "D": "half of a circle; the arc from one end of a diameter to the other.", "S": ["arc ", "hemicycle "], "A": []}

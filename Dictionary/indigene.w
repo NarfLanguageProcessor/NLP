@@ -1,0 +1,1 @@
+{"index": 150975, "D": "a person, animal, or plant that is native to a region; autochthon. ", "S": ["aboriginal ", "autochthon ", "native "], "A": []}

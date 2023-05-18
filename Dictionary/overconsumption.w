@@ -1,0 +1,1 @@
+{"index": 218723, "D": "the state or an instance of consuming too much food, drink, fuel, etc", "S": [], "A": []}

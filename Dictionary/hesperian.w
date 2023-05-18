@@ -1,0 +1,1 @@
+{"index": 137386, "D": "western; occidental.", "S": [], "A": []}

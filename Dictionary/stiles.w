@@ -1,0 +1,1 @@
+{"index": 304455, "D": "a series of steps or rungs by means of which a person may pass over a wall or fence that remains a barrier to sheep or cattle.", "S": [], "A": []}

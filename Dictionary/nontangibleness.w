@@ -1,0 +1,1 @@
+{"index": 207755, "D": "capable of being touched; discernible by the touch; material or substantial.", "S": [], "A": []}

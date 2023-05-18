@@ -1,0 +1,1 @@
+{"index": 107166, "D": "an exhilarating helicopter trip", "S": ["breathtaking ", "exciting ", "inspiring ", "intoxicating ", "invigorating ", "rousing ", "stirring ", "thrilling ", "uplifting "], "A": ["boring ", "depressing ", "unstimulating "]}

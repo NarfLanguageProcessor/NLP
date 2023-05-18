@@ -1,0 +1,1 @@
+{"index": 4227, "D": "an act of admonishing. ", "S": ["advice ", "apprisal ", "counsel ", "forewarning ", "warning "], "A": []}

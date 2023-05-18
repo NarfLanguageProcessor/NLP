@@ -1,0 +1,1 @@
+{"index": 191278, "D": "the doctrine of Mo-Tze, stressing universal love, not limited by special affections or obligations, and opposition to Confucianism and traditionalism.", "S": [], "A": []}

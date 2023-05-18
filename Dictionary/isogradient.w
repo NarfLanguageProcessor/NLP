@@ -1,0 +1,1 @@
+{"index": 158992, "D": "a line on a weather map or chart connecting points having the same horizontal gradient  of a meteorological quantity, as temperature, pressure, or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252514, "D": "to cause (an organism) to multiply by any process of natural reproduction from the parent stock.", "S": ["inseminate ", "multiply ", "proliferate "], "A": ["decrease ", "deplete ", "destroy ", "diminish ", "finish ", "halt ", "kill ", "lessen ", "reduce ", "result ", "stop "]}

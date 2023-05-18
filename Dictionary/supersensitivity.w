@@ -1,0 +1,1 @@
+{"index": 312616, "D": "extremely or excessively sensitive; hypersensitive", "S": [], "A": []}

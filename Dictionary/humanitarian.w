@@ -1,0 +1,1 @@
+{"index": 144869, "D": "having concern for or helping to improve the welfare and happiness of people.", "S": ["altruistic ", "charitable ", "humane ", "philanthropic "], "A": ["inhumane ", "uncharitable ", "unkind ", "unsympathetic "]}

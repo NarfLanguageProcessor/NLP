@@ -1,0 +1,1 @@
+{"index": 156873, "D": "tending or apt to intrude; coming without invitation or welcome", "S": ["concern ", "inquisitiveness ", "interest "], "A": ["incuriosity ", "incuriousness ", "apathy ", "disinterest ", "disregard "]}

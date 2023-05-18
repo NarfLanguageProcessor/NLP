@@ -1,0 +1,1 @@
+{"index": 313702, "D": "a piece of metallic film on a package of microwaveable food that helps cook and brown the food by producing and concentrating energy on the food's outer surface.", "S": [], "A": []}

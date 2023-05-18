@@ -1,0 +1,1 @@
+{"index": 163573, "D": "finely sharpened, as an edge; so shaped as to cut or pierce substances readily", "S": ["anxious ", "ardent ", "avid ", "eager ", "fervent ", "fierce ", "impatient ", "intense "], "A": ["apathetic ", "calm ", "cool ", "dispassionate ", "indifferent ", "peaceful ", "unconcerned ", "unenthusiastic ", "lethargic "]}

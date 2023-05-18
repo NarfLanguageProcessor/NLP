@@ -1,0 +1,1 @@
+{"index": 156842, "D": "the act of introverting or the state of being introverted; a turning inward", "S": ["contemplation ", "meditation ", "reflection ", "scrutiny ", "self-examination ", "soul-searching "], "A": []}

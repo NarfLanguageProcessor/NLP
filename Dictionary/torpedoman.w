@@ -1,0 +1,1 @@
+{"index": 326202, "D": "a petty officer or warrant officer responsible for the maintenance, use, and repair of underwater weapons and equipment.", "S": [], "A": []}

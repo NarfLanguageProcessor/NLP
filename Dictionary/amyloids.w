@@ -1,0 +1,1 @@
+{"index": 10547, "D": "a waxy, translucent substance, composed primarily of protein fibers, that is deposited in various organs of animals in certain diseases.", "S": [], "A": []}

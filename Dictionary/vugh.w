@@ -1,0 +1,1 @@
+{"index": 361515, "D": "a small cavity in a rock or vein, often lined with crystals.", "S": [], "A": []}

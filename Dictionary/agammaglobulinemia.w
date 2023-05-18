@@ -1,0 +1,1 @@
+{"index": 5868, "D": "a condition of the blood, either congenital or acquired, in which there is near or complete absence of gamma globulin  and a failure of the body to form antibodies, resulting in a frequent occurrence of infectious disease.", "S": [], "A": []}

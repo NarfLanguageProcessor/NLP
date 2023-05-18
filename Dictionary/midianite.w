@@ -1,0 +1,1 @@
+{"index": 186745, "D": "a member of an ancient desert people of northwest Arabia near the Gulf of Aqaba, believed to have descended from Midian. ", "S": [], "A": []}

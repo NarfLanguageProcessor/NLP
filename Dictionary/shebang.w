@@ -1,0 +1,1 @@
+{"index": 287735, "D": "the structure of something, as of an organization, contrivance, or affair", "S": ["everything but the kitchen sink ", "full monty ", "nine yards ", "show ", "state of affairs ", "the whole shebang ", "whole works ", "works "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82852, "D": "to strip of possessions, things of value, etc.; rob; plunder; pillage.", "S": ["bomber "], "A": ["author ", "creator ", "restorer "]}

@@ -1,0 +1,1 @@
+{"index": 198952, "D": "(not in technical use) nervous debility and exhaustion occurring in the absence of objective causes or lesions; nervous exhaustion.", "S": ["disintegration ", "disruption ", "failure ", "mishap ", "nervous breakdown "], "A": ["mental balance "]}

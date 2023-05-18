@@ -1,0 +1,1 @@
+{"index": 213936, "D": "the condition or quality of being oral;  collectively, the personality traits characteristic of the oral  phase of psychosexual development.", "S": [], "A": []}

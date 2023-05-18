@@ -1,0 +1,1 @@
+{"index": 87502, "D": "disturbed, as in one's composure or self-possession; perturbed; ruffled", "S": ["annoyed ", "bewildered ", "distracted ", "disturbed ", "embarrassed ", "fazed ", "flustered ", "nonplussed ", "perturbed ", "rattled ", "ruffled ", "thrown ", "troubled ", "unsettled ", "unzipped ", "upset "], "A": ["happy ", "settled "]}

@@ -1,0 +1,1 @@
+{"index": 358652, "D": "an aromatized white wine in which herbs, roots, barks, bitters, and other flavorings have been steeped.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109880, "D": [], "S": ["absurdity ", "burlesque ", "caricature ", "comedy ", "joke ", "mockery ", "parody ", "sham ", "skit ", "slapstick ", "travesty "], "A": ["seriousness ", "solemnity "]}

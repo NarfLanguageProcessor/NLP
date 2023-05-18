@@ -1,0 +1,1 @@
+{"index": 11830, "D": "the recollection or remembrance of the past; reminiscence.", "S": [], "A": []}

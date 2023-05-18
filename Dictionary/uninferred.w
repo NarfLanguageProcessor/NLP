@@ -1,0 +1,1 @@
+{"index": 344510, "D": "derived by reasoning or concluded from evidence, or provisionally identified through either of these methods", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 331968, "D": "a bulbous plant, Polianthes tuberosa, of the agave family, cultivated for its spike of fragrant, creamy-white, lily-like flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308750, "D": "below an average, usual, or normal level, quality, or the like; below par", "S": ["below par ", "inferior ", "low-grade ", "poor ", "second-rate ", "substandard "], "A": []}

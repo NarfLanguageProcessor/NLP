@@ -1,0 +1,1 @@
+{"index": 317364, "D": "a person who pays a tax  or is subject to taxation.", "S": ["autochthon ", "inhabitant ", "national ", "native ", "resident ", "townswoman "], "A": ["alien ", "foreigner "]}

@@ -1,0 +1,1 @@
+{"index": 186710, "D": [], "S": ["center ", "centrism ", "middle course ", "middle ground ", "midway ", "via media "], "A": []}

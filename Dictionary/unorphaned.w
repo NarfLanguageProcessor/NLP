@@ -1,0 +1,1 @@
+{"index": 347263, "D": "a child who has lost both parents through death, or, less commonly, one parent.", "S": [], "A": []}

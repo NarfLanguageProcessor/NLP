@@ -1,0 +1,1 @@
+{"index": 229501, "D": "of, relating to, or involving punishment, as for crimes or offenses.", "S": [], "A": []}

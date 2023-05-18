@@ -1,0 +1,1 @@
+{"index": 105014, "D": "the process of introducing the ethynyl group into a compound.", "S": [], "A": []}

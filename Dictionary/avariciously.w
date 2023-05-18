@@ -1,0 +1,1 @@
+{"index": 24609, "D": "characterized by avarice;  greedy; covetous.", "S": [], "A": []}

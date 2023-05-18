@@ -1,0 +1,1 @@
+{"index": 342196, "D": "to form pus; generate purulent matter; suppurate.", "S": [], "A": []}

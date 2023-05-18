@@ -1,0 +1,1 @@
+{"index": 204791, "D": "capacity for learning, reasoning, understanding, and similar forms of mental activity; aptitude in grasping truths, relationships, facts, meanings, etc.", "S": [], "A": []}

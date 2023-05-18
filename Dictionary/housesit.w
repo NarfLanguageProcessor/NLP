@@ -1,0 +1,1 @@
+{"index": 144475, "D": "to take care of a house or residence while the owner or occupant is temporarily away, especially by living in it.", "S": [], "A": []}

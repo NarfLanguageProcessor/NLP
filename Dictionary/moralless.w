@@ -1,0 +1,1 @@
+{"index": 193297, "D": "of, relating to, or concerned with the principles or rules of right conduct or the distinction between right and wrong; ethical", "S": [], "A": []}

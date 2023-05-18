@@ -1,0 +1,1 @@
+{"index": 76172, "D": "to make sport; dally; play.", "S": [], "A": []}

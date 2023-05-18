@@ -1,0 +1,1 @@
+{"index": 167723, "D": "act or process of laminating;  the state of being laminated. ", "S": ["coating ", "layer "], "A": []}

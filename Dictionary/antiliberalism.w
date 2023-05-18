@@ -1,0 +1,1 @@
+{"index": 15434, "D": "the quality or state of being liberal,  as in behavior or attitude.", "S": [], "A": []}

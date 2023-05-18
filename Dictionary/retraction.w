@@ -1,0 +1,1 @@
+{"index": 270635, "D": "the act of retracting  or the state of being retracted. ", "S": ["annulment ", "denial ", "disavowal ", "disclaimer ", "repudiation ", "reversal "], "A": ["confirmation ", "corroboration "]}

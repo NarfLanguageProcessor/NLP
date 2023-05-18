@@ -1,0 +1,1 @@
+{"index": 259508, "D": "excision of part or all of the root of a tooth.", "S": [], "A": []}

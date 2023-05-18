@@ -1,0 +1,1 @@
+{"index": 119693, "D": "having the form of a shrub; shrublike.", "S": [], "A": []}

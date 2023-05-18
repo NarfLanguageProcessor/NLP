@@ -1,0 +1,1 @@
+{"index": 199914, "D": "garments for wearing in bed, as pajamas or nightgowns.", "S": ["underwear "], "A": []}

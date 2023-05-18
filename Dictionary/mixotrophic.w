@@ -1,0 +1,1 @@
+{"index": 190797, "D": "any organism capable of existing as either an autotroph or heterotroph.", "S": [], "A": []}

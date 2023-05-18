@@ -1,0 +1,1 @@
+{"index": 365418, "D": "to whip; beat or defeat decisively", "S": ["chastise ", "clobber ", "flog ", "smack ", "thrash "], "A": ["lose ", "praise ", "surrender "]}

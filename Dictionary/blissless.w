@@ -1,0 +1,1 @@
+{"index": 36278, "D": "supreme happiness; utter joy or contentment", "S": [], "A": []}

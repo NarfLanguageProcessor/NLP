@@ -1,0 +1,1 @@
+{"index": 17104, "D": "any doctrine concerning the end of the temporal world, especially one based on the supposed prophetic passages in the Revelation of St. John the Divine.", "S": [], "A": []}

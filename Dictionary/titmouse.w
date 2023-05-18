@@ -1,0 +1,1 @@
+{"index": 324747, "D": "any of numerous, widely distributed, small songbirds of the family Paridae, especially of the genus Parus, having soft, thick plumage and a short, stout, conical bill.", "S": [], "A": []}

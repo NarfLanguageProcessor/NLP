@@ -1,0 +1,1 @@
+{"index": 59482, "D": [], "S": ["awkward ", "clumsy ", "labored ", "stumbling ", "tentative "], "A": ["adroit ", "clever ", "dexterous ", "easy ", "graceful "]}

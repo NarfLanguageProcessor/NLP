@@ -1,0 +1,1 @@
+{"index": 329982, "D": "U.S. critic and author.", "S": ["quaver ", "vibrate ", "vibrato "], "A": []}

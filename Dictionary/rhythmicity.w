@@ -1,0 +1,1 @@
+{"index": 272145, "D": "the state or quality of being rhythmical. ", "S": [], "A": []}

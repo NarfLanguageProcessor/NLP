@@ -1,0 +1,1 @@
+{"index": 68947, "D": "a smokeless, slow-burning powder composed of 30 to 58 percent nitroglycerin, 37 to 65 percent nitrocellulose, and 5 to 6 percent mineral jelly.", "S": [], "A": []}

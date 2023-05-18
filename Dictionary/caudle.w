@@ -1,0 +1,1 @@
+{"index": 49935, "D": "a warm drink for the sick, as of wine or ale mixed with eggs, bread, sugar, spices, etc.", "S": [], "A": []}

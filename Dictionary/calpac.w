@@ -1,0 +1,1 @@
+{"index": 45457, "D": "a large black cap of sheepskin or other heavy material, worn by Armenians, Turks, etc.", "S": [], "A": []}

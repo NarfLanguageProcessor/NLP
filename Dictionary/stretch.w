@@ -1,0 +1,1 @@
+{"index": 306135, "D": "to draw out or extend (oneself, a body, limbs, wings, etc.) to the full length or extent (often followed by out)", "S": ["area ", "bridge ", "distance ", "length ", "radius ", "region ", "span ", "sweep ", "tract "], "A": ["stagnation "]}

@@ -1,0 +1,1 @@
+{"index": 67561, "D": "counterclockwise. ", "S": [], "A": []}

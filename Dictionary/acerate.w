@@ -1,0 +1,1 @@
+{"index": 1940, "D": "acerose1. ", "S": ["acerose ", "acerous ", "aciculated ", "acuminate ", "acute ", "cuspated ", "cuspidated ", "mucronate ", "needle-shaped ", "pointy ", "sharp "], "A": []}

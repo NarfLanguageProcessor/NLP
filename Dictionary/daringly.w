@@ -1,0 +1,1 @@
+{"index": 76935, "D": "adventurous courage; boldness. ", "S": ["brazenly ", "courageously ", "eagerly ", "fearlessly "], "A": ["cautiously ", "cowardly ", "fearfully "]}

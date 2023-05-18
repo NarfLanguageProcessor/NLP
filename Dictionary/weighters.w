@@ -1,0 +1,1 @@
+{"index": 363898, "D": "the amount or quantity of heaviness or mass; amount a thing weighs.", "S": [], "A": []}

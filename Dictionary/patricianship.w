@@ -1,0 +1,1 @@
+{"index": 227873, "D": "a person of noble or high rank; aristocrat.", "S": [], "A": []}

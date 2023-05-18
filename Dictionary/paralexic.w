@@ -1,0 +1,1 @@
+{"index": 225685, "D": "an impairment of reading ability characterized by the transposition of letters or words.", "S": [], "A": []}

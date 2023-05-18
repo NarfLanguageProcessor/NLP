@@ -1,0 +1,1 @@
+{"index": 338118, "D": "to desire wrongfully, inordinately, or without due regard for the rights of others", "S": [], "A": []}

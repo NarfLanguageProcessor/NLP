@@ -1,0 +1,1 @@
+{"index": 346241, "D": "merciless; relentless; severe; cruel; pitiless.", "S": [], "A": []}

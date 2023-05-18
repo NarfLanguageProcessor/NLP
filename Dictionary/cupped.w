@@ -1,0 +1,1 @@
+{"index": 75103, "D": "hollowed out like a cup;  cup-shaped.", "S": ["biconcave ", "dented ", "dimpled ", "dipped ", "excavated ", "hollow ", "hollowed ", "incurvate ", "incurvated ", "incurved ", "indented ", "round ", "rounded ", "sagging ", "sinking ", "sunken "], "A": ["convex ", "distended "]}

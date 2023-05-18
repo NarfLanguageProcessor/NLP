@@ -1,0 +1,1 @@
+{"index": 194450, "D": "of, relating to, or characteristic of the Mozarabs", "S": [], "A": []}

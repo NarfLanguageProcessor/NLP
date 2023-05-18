@@ -1,0 +1,1 @@
+{"index": 279945, "D": "a slap, smack, or blow, especially one given with the open hand.", "S": [], "A": []}

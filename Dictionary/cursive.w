@@ -1,0 +1,1 @@
+{"index": 75464, "D": "(of handwriting) in flowing strokes with the letters joined together.", "S": ["comfortable ", "effortless ", "peaceful ", "pleasant ", "quiet ", "secure ", "slow ", "smooth ", "soft ", "successful "], "A": ["clamorous ", "loud ", "noisy "]}

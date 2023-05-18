@@ -1,0 +1,1 @@
+{"index": 175858, "D": "profitable; moneymaking; remunerative", "S": ["advantageous ", "cost effective ", "fruitful ", "good ", "money-making ", "profitable ", "worthwhile "], "A": ["unprofitable "]}

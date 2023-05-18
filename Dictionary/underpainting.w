@@ -1,0 +1,1 @@
+{"index": 339553, "D": "the first coat of paint, especially the initial painting  on a canvas in which the major areas, tones, colors, and forms are indicated in mass.", "S": [], "A": []}

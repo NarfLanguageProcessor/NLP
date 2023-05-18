@@ -1,0 +1,1 @@
+{"index": 115924, "D": "of or resembling the common people", "S": [], "A": []}

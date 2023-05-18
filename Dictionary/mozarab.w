@@ -1,0 +1,1 @@
+{"index": 194448, "D": "a Christian in Spain who, during Muslim rule, was permitted to practice Christianity.", "S": [], "A": []}

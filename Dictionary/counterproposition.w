@@ -1,0 +1,1 @@
+{"index": 71015, "D": "a proposition  made in place of or in opposition to a preceding one.", "S": [], "A": []}

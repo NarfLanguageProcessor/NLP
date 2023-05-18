@@ -1,0 +1,1 @@
+{"index": 336122, "D": "the act or art of playing a stringed instrument with a bow. ", "S": [], "A": []}

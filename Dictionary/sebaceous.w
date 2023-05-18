@@ -1,0 +1,1 @@
+{"index": 282655, "D": "pertaining to, of the nature of, or resembling tallow or fat; fatty; greasy.", "S": [], "A": []}

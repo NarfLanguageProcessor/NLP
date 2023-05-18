@@ -1,0 +1,1 @@
+{"index": 181586, "D": "a member of an American Indian people of northern Oaxaca, in Mexico.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49477, "D": "the chance or optional weight  of a contestant, as contrasted with a weight  fixed by agreement or rule.", "S": [], "A": []}

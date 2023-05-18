@@ -1,0 +1,1 @@
+{"index": 290617, "D": "an older male gorilla, usually the leader of a troop, whose hairs along the back  turn gray with age.", "S": [], "A": []}

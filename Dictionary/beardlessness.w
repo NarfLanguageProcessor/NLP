@@ -1,0 +1,1 @@
+{"index": 29534, "D": "having no beard  or one shaved close to the skin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188023, "D": "the art or practice of a minstrel.", "S": [], "A": []}

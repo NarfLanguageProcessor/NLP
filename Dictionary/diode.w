@@ -1,0 +1,1 @@
+{"index": 86239, "D": "a device, as a two-element electron tube or a semiconductor, through which current can pass freely in only one direction.", "S": [], "A": []}

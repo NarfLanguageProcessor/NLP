@@ -1,0 +1,1 @@
+{"index": 108022, "D": "full of expression; meaningful", "S": ["articulateness ", "articulation ", "diction ", "fluency ", "loquacity ", "oration ", "oratory ", "rhetoric "], "A": []}

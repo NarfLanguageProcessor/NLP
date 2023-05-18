@@ -1,0 +1,1 @@
+{"index": 75484, "D": "a simple past tense and past participle of curse. ", "S": [], "A": []}

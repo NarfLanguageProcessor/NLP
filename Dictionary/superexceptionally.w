@@ -1,0 +1,1 @@
+{"index": 311789, "D": "in a way or to a degree that is unusual or extraordinary; extremely", "S": [], "A": []}

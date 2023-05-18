@@ -1,0 +1,1 @@
+{"index": 304854, "D": "any of several plants belonging to the genus Stellaria, of the pink family, having white flowers.", "S": [], "A": []}

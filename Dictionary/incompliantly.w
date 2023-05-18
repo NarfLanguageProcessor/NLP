@@ -1,0 +1,1 @@
+{"index": 150132, "D": "not compliant;  unyielding.", "S": [], "A": []}

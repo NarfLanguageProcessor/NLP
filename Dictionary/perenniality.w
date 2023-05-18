@@ -1,0 +1,1 @@
+{"index": 230561, "D": "lasting for an indefinitely long time; enduring", "S": [], "A": []}

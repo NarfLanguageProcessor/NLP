@@ -1,0 +1,1 @@
+{"index": 101851, "D": "a diplomatic agent.", "S": ["farewell ", "wind-up "], "A": []}

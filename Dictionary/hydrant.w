@@ -1,0 +1,1 @@
+{"index": 138420, "D": "an upright pipe with a spout, nozzle, or other outlet, usually in the street, for drawing water from a main or service pipe, especially for fighting fires.", "S": ["faucet ", "fireplug ", "spigot "], "A": []}

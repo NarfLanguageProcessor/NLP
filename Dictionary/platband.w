@@ -1,0 +1,1 @@
+{"index": 239308, "D": "a flat structural member, as a lintel or flat arch.", "S": [], "A": []}

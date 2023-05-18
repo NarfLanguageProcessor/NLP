@@ -1,0 +1,1 @@
+{"index": 193150, "D": "the act of a person or thing that moors. ", "S": ["anchorage ", "berth ", "dock ", "harbor ", "marina ", "pier ", "port ", "station ", "wharf "], "A": []}

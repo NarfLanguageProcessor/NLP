@@ -1,0 +1,1 @@
+{"index": 171949, "D": "last-in, first-out (def. 1). ", "S": [], "A": []}

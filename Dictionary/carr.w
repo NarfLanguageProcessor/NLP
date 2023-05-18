@@ -1,0 +1,1 @@
+{"index": 48476, "D": "U.S. mystery writer.", "S": [], "A": []}

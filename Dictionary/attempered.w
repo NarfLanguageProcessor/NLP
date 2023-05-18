@@ -1,0 +1,1 @@
+{"index": 22992, "D": "to modify or moderate by mixing or blending with something different or opposite.", "S": [], "A": []}

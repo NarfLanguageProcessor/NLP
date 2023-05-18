@@ -1,0 +1,1 @@
+{"index": 63754, "D": "the quality of being attractive or pleasing in appearance", "S": ["decency ", "decorousness ", "decorum ", "grace ", "propriety ", "respectability ", "seemliness "], "A": ["bad manners ", "immorality ", "impropriety ", "indecency "]}

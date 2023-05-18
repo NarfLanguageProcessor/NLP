@@ -1,0 +1,1 @@
+{"index": 317503, "D": "a small three-legged table or stand.", "S": [], "A": []}

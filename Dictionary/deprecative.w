@@ -1,0 +1,1 @@
+{"index": 81813, "D": "serving to deprecate;  deprecatory.", "S": ["belittling ", "critical ", "deprecating ", "deprecatory ", "depreciative ", "depreciatory ", "derogative ", "derogatory ", "detractive ", "disapproving ", "slighting ", "uncomplimentary "], "A": []}

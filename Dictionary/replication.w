@@ -1,0 +1,1 @@
+{"index": 268313, "D": "a reply; answer. ", "S": ["reproduction "], "A": ["difference ", "dissimilarity ", "entity ", "opposite ", "original ", "unlikeness "]}

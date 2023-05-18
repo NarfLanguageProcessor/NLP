@@ -1,0 +1,1 @@
+{"index": 143498, "D": "a soft or flexible covering for the head and neck, either separate or attached to a cloak, coat, or the like.", "S": ["criminal ", "delinquent ", "gangster ", "goon ", "hooligan ", "mobster ", "punk ", "rioter ", "rowdy ", "ruffian ", "thug ", "troublemaker "], "A": []}

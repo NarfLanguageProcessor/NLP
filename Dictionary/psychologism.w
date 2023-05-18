@@ -1,0 +1,1 @@
+{"index": 255386, "D": "emphasis upon psychological factors in the development of a theory, as in history or philosophy.", "S": [], "A": []}

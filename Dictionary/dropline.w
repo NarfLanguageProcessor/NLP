@@ -1,0 +1,1 @@
+{"index": 93356, "D": "a headline or bank consisting of a top line  set flush with the left margin, with each succeeding line  indented on the left, and the final line  flush with the right margin.", "S": [], "A": []}

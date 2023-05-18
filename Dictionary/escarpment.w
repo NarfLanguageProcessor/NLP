@@ -1,0 +1,1 @@
+{"index": 104161, "D": "Compare scarp (def. 1). ", "S": ["cliff ", "hill ", "ledge ", "ridge "], "A": []}

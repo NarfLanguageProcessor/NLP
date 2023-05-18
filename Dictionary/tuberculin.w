@@ -1,0 +1,1 @@
+{"index": 331919, "D": "a sterile liquid prepared from cultures of the tubercle bacillus, used in the diagnosis and, formerly, in the treatment of tuberculosis.", "S": [], "A": []}

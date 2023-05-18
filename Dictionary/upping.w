@@ -1,0 +1,1 @@
+{"index": 354880, "D": "to, toward, or in a more elevated position", "S": ["accretion ", "aggregation ", "buildup ", "growth ", "inflation ", "pile ", "quantity "], "A": ["decrease ", "shrinkage ", "lessening ", "loss ", "reduction ", "subtraction "]}

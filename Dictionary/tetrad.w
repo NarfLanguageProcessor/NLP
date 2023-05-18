@@ -1,0 +1,1 @@
+{"index": 319989, "D": "a group of four.", "S": ["quadruple ", "quadruplicate ", "quaternary "], "A": []}

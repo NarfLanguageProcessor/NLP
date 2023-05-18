@@ -1,0 +1,1 @@
+{"index": 305074, "D": "producing or bearing stolons. ", "S": [], "A": []}

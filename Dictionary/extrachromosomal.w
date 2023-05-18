@@ -1,0 +1,1 @@
+{"index": 108436, "D": "of or relating to DNA that exists outside the main chromosome and acts independently.", "S": [], "A": []}

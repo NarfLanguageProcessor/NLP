@@ -1,0 +1,1 @@
+{"index": 351695, "D": "not explicit, particular, or definite", "S": ["ambiguous ", "fleeting ", "illusory ", "incomprehensible ", "puzzling ", "slippery ", "subtle ", "tricky ", "volatile "], "A": ["definite ", "honest ", "intelligible ", "stable ", "understandable "]}

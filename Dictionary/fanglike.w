@@ -1,0 +1,1 @@
+{"index": 109723, "D": "one of the long, sharp, hollow or grooved teeth of a venomous snake by which poison is injected.", "S": [], "A": []}

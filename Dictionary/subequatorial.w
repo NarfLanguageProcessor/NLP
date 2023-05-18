@@ -1,0 +1,1 @@
+{"index": 307905, "D": "of, relating to, or being a region near the equatorial  region.", "S": [], "A": []}

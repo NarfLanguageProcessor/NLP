@@ -1,0 +1,1 @@
+{"index": 166511, "D": "a long-sleeved, hip-length shirt worn by men in India.", "S": [], "A": []}

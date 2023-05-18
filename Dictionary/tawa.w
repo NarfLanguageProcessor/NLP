@@ -1,0 +1,1 @@
+{"index": 317225, "D": "a large, round frying pan, usually flat or very slightly concave or convex, used in South Asian cooking", "S": [], "A": []}

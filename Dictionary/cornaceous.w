@@ -1,0 +1,1 @@
+{"index": 69217, "D": "belonging to the Cornaceae, the dogwood family of plants.", "S": [], "A": []}

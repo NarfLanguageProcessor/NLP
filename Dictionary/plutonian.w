@@ -1,0 +1,1 @@
+{"index": 240668, "D": "of, relating to, or resembling Pluto or the lower world; infernal.", "S": [], "A": []}

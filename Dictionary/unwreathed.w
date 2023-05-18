@@ -1,0 +1,1 @@
+{"index": 354406, "D": "to bring out of a wreathed  condition; untwist; untwine.", "S": [], "A": []}

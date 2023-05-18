@@ -1,0 +1,1 @@
+{"index": 141879, "D": "to interpret something as a product of historical development.", "S": [], "A": []}

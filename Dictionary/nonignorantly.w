@@ -1,0 +1,1 @@
+{"index": 204529, "D": "lacking in knowledge or training; unlearned", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45793, "D": "Tommaso. 1568\u20131639, Italian philosopher and Dominican friar. During his imprisonment by the Spaniards (1599\u20131626) he wrote his celebrated utopian fantasy, La citt\u00e0 del sole .", "S": [], "A": []}

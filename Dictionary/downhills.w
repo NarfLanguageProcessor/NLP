@@ -1,0 +1,1 @@
+{"index": 92254, "D": "down  the slope of a hill;  downward.", "S": [], "A": []}

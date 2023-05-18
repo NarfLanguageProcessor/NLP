@@ -1,0 +1,1 @@
+{"index": 46073, "D": "an act of canceling. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 116259, "D": "a pedicel; peduncle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 69822, "D": "a woman's lightweight foundation garment combining a brassiere and girdle in one piece.", "S": [], "A": []}

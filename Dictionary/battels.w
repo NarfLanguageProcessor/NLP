@@ -1,0 +1,1 @@
+{"index": 29097, "D": "(at some universities) the account of a member of a college for board, provisions, and other college expenses", "S": [], "A": []}

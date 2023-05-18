@@ -1,0 +1,1 @@
+{"index": 369689, "D": "the state or condition of being zonate.", "S": [], "A": []}

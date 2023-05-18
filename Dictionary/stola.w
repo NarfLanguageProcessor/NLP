@@ -1,0 +1,1 @@
+{"index": 305047, "D": "a long, loose tunic or robe, with or without sleeves, worn by women of ancient Rome.", "S": [], "A": []}

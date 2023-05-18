@@ -1,0 +1,1 @@
+{"index": 42039, "D": "any of various trees or shrubs of the genus Aesculus, as A. glabra(Ohio buckeye ), having palmate leaves, gray, scaly bark, and bell-shaped greenish-yellow flowers in upright clusters", "S": [], "A": []}

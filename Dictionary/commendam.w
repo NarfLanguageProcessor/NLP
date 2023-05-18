@@ -1,0 +1,1 @@
+{"index": 63949, "D": "the tenure of a benefice to be held until the appointment of a regular incumbent, the benefice being said to be held in commendam.", "S": [], "A": []}

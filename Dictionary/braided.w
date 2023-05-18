@@ -1,0 +1,1 @@
+{"index": 39697, "D": "(of a river or stream) flowing in several shallow interconnected channels separated by banks of deposited material", "S": ["bunched ", "clustered ", "coiled ", "snarled ", "tangled "], "A": ["straight "]}

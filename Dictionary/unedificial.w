@@ -1,0 +1,1 @@
+{"index": 341016, "D": "a building, especially one of large size or imposing appearance.", "S": [], "A": []}

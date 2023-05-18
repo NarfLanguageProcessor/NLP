@@ -1,0 +1,1 @@
+{"index": 63265, "D": "to establish a colony  in; settle", "S": ["developed ", "owned ", "populated ", "populous ", "settled "], "A": []}

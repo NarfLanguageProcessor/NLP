@@ -1,0 +1,1 @@
+{"index": 217227, "D": "to have a longer or greater range  than.", "S": [], "A": []}

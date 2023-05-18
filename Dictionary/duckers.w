@@ -1,0 +1,1 @@
+{"index": 93747, "D": "a person or thing that ducks. ", "S": [], "A": []}

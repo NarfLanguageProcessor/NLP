@@ -1,0 +1,1 @@
+{"index": 297007, "D": "a hormone secreted by the anterior pituitary gland, that stimulates growth in humans.", "S": [], "A": []}

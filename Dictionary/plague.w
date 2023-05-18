@@ -1,0 +1,1 @@
+{"index": 238686, "D": "an epidemic disease that causes high mortality; pestilence.", "S": ["contagion ", "curse ", "epidemic ", "infection ", "infestation ", "influenza ", "invasion ", "outbreak ", "pandemic ", "scourge "], "A": ["advantage ", "good fortune ", "good luck "]}

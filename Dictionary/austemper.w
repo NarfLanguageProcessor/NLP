@@ -1,0 +1,1 @@
+{"index": 23692, "D": "to harden (steel) by heating and quenching to render it austenitic.", "S": [], "A": []}

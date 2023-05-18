@@ -1,0 +1,1 @@
+{"index": 159383, "D": "the act of sending out or putting forth; promulgation; distribution", "S": [], "A": []}

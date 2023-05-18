@@ -1,0 +1,1 @@
+{"index": 256768, "D": "an insect in the nonfeeding, usually immobile, transformation stage between the larva and the imago.", "S": [], "A": []}

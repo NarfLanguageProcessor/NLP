@@ -1,0 +1,1 @@
+{"index": 71334, "D": "having or showing good manners; polite.", "S": ["civility ", "genteelness ", "gentility ", "good manners ", "graciousness ", "mannerliness ", "manners ", "politeness "], "A": []}

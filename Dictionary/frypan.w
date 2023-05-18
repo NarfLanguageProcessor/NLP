@@ -1,0 +1,1 @@
+{"index": 119087, "D": "a shallow, long-handled pan in which food is fried.", "S": ["wok "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178720, "D": "to deceive or tease, either in jest or by deceitful flattery", "S": [], "A": []}

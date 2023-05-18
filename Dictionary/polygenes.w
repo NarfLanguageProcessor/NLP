@@ -1,0 +1,1 @@
+{"index": 241887, "D": "one of a group of nonallelic genes that together control a quantitative characteristic in an organism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24976, "D": "overflowing with water, as the upper deck of a ship in a heavy sea.", "S": ["afloat ", "flooded ", "inundated "], "A": []}

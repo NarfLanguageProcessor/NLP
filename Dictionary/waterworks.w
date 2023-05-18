@@ -1,0 +1,1 @@
+{"index": 363258, "D": "a complete system of reservoirs, pipelines, conduits, etc., by which water is collected, purified, stored, and pumped to urban users.", "S": ["channel ", "conduit ", "course ", "duct ", "pipeline "], "A": []}

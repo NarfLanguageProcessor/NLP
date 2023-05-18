@@ -1,0 +1,1 @@
+{"index": 27847, "D": "a crescent-shaped sand dune with the convex side in the direction of the wind.", "S": [], "A": []}

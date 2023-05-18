@@ -1,0 +1,1 @@
+{"index": 345765, "D": "affected with, characterized by, or causing a depressing feeling of being alone; lonesome.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4603, "D": "not native and usually not yet well established, as exotic plants or animals.", "S": [], "A": []}

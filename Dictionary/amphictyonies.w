@@ -1,0 +1,1 @@
+{"index": 11112, "D": "(in ancient Greece) any of the leagues of states, especially the league at Delphi, united for mutual protection and the worship of a common deity.", "S": [], "A": []}

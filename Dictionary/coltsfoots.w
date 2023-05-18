@@ -1,0 +1,1 @@
+{"index": 63481, "D": "a composite plant, Tussilago farfara, having yellow, daisylike flowers, native to the Old World but widespread as a weed, formerly used as a cough remedy.", "S": [], "A": []}

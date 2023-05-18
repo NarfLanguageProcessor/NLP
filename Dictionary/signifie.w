@@ -1,0 +1,1 @@
+{"index": 290172, "D": "(in linguistics) the signified.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271262, "D": "opposite or contrary in position, direction, order, or character", "S": [], "A": []}

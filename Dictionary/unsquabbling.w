@@ -1,0 +1,1 @@
+{"index": 351860, "D": "to engage in a petty quarrel.", "S": [], "A": []}

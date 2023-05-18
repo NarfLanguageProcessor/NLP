@@ -1,0 +1,1 @@
+{"index": 260910, "D": "a person or thing that rasps. ", "S": [], "A": []}

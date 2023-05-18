@@ -1,0 +1,1 @@
+{"index": 261752, "D": "the making or being made real of something imagined, planned, etc.", "S": ["awareness ", "recognition ", "understanding "], "A": ["ignorance "]}

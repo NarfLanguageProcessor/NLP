@@ -1,0 +1,1 @@
+{"index": 74644, "D": "See handcuff (def. 2)", "S": ["bonds ", "captivity ", "chains ", "check ", "curb ", "handcuffs ", "hindrance ", "irons ", "manacles ", "obstruction ", "restraint ", "shackles ", "trammels "], "A": ["aid ", "assistance ", "encouragement ", "freedom ", "help ", "liberation ", "promotion "]}

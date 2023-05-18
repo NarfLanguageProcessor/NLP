@@ -1,0 +1,1 @@
+{"index": 175599, "D": "feeling or showing love;  warmly affectionate; fond", "S": ["admiringly ", "affectionately ", "earnestly ", "fondly ", "longingly ", "passionately ", "respectfully ", "reverently ", "thoughtfully ", "warmly ", "zealously "], "A": []}

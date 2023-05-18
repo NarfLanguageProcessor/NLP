@@ -1,0 +1,1 @@
+{"index": 65359, "D": "either of two persons who attend upon a cardinal at a conclave, one usually being an ecclesiastical secretary and the other a personal servant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42654, "D": "one of an English breed of medium-sized, short-haired dogs having a white, brindled, or tan and white coat, produced by crossing the bulldog  and the terrier. ", "S": [], "A": []}

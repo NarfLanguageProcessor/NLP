@@ -1,0 +1,1 @@
+{"index": 132739, "D": "a refractory clay mineral similar in composition to kaolinite.", "S": [], "A": []}

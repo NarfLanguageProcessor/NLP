@@ -1,0 +1,1 @@
+{"index": 230030, "D": "an athletic contest comprising five different track and field events and won by the contestant gaining the highest total score.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 206900, "D": "movement or procedure with uniform or patterned recurrence of a beat, accent, or the like.", "S": [], "A": []}

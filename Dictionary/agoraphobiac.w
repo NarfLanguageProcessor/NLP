@@ -1,0 +1,1 @@
+{"index": 6395, "D": "having or experiencing agoraphobia", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 269380, "D": "something that remains after a part is removed, disposed of, or used; remainder; rest; remnant.", "S": ["debris ", "silt ", "slag "], "A": ["base ", "core ", "lack ", "necessity ", "need ", "want "]}

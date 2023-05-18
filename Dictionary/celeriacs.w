@@ -1,0 +1,1 @@
+{"index": 50477, "D": "a variety of celery, Apium graveolens rapaceum, of the parsley family, having a large, edible, turniplike root.", "S": [], "A": []}

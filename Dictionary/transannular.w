@@ -1,0 +1,1 @@
+{"index": 327681, "D": "of or relating to tautomerism in cyclic compounds that is characterized by the migration of an atom or group from one position in the ring to another.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291441, "D": "sloping downward from opposite directions so as to meet in a common point or line.", "S": [], "A": []}

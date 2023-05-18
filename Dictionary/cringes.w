@@ -1,0 +1,1 @@
+{"index": 73035, "D": "to shrink back, bend, or crouch, especially in fear, pain, or servility; cower", "S": ["cower ", "kneel ", "quiver ", "tremble ", "wince "], "A": ["face ", "meet ", "stretch "]}

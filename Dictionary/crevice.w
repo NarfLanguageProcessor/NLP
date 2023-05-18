@@ -1,0 +1,1 @@
+{"index": 72831, "D": "a crack forming an opening; cleft; rift; fissure.", "S": ["abyss ", "chink ", "crevasse ", "fissure ", "slit "], "A": ["agreement ", "closing ", "closure ", "juncture ", "solid "]}

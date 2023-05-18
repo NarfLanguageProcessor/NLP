@@ -1,0 +1,1 @@
+{"index": 331313, "D": "a person who causes difficulties, distress, worry, etc., for others, especially one who does so habitually as a matter of malice.", "S": ["agitator "], "A": ["peacemaker "]}

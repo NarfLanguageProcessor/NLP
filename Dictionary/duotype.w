@@ -1,0 +1,1 @@
+{"index": 94314, "D": "two halftone plates made from a monochrome original but etched differently to create two values of intensity when superimposed in printing.", "S": [], "A": []}

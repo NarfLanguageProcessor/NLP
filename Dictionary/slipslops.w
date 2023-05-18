@@ -1,0 +1,1 @@
+{"index": 294216, "D": "meaningless or trifling talk or writing.", "S": [], "A": []}

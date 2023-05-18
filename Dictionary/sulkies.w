@@ -1,0 +1,1 @@
+{"index": 310546, "D": "marked by or given to sulking;  sullen.", "S": [], "A": []}

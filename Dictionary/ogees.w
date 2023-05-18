@@ -1,0 +1,1 @@
+{"index": 211730, "D": "a double curve, resembling the letter S, formed by the union of a concave and a convex line.", "S": ["arc ", "arch ", "contour ", "loop ", "trajectory "], "A": ["line "]}

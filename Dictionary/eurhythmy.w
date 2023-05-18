@@ -1,0 +1,1 @@
+{"index": 105734, "D": "rhythmical movement or order; harmonious motion or proportion.", "S": [], "A": []}

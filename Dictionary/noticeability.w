@@ -1,0 +1,1 @@
+{"index": 208921, "D": "attracting notice  or attention; capable of being noticed", "S": [], "A": []}

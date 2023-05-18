@@ -1,0 +1,1 @@
+{"index": 60660, "D": "a disease of cabbage and other cruciferous plants, characterized by enlarged, malformed roots,  caused by a slime mold, Plasmodiophora brassicae.", "S": [], "A": []}

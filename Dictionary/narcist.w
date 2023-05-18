@@ -1,0 +1,1 @@
+{"index": 196937, "D": "a person who is overly self-involved, and often vain and selfish.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 340979, "D": "the overhanging lower edge of a roof.", "S": [], "A": []}

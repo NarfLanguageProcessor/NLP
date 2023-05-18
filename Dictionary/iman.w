@@ -1,0 +1,1 @@
+{"index": 147631, "D": "inward faith or belief in Islam", "S": [], "A": []}

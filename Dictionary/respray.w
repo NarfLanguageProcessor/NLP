@@ -1,0 +1,1 @@
+{"index": 269808, "D": "to spray (a car, wheels, etc) with a new coat of paint", "S": [], "A": []}

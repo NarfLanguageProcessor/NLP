@@ -1,0 +1,1 @@
+{"index": 79364, "D": "to release the air or gas from (something inflated, as a balloon)", "S": [], "A": []}

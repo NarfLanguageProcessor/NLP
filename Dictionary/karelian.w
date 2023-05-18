@@ -1,0 +1,1 @@
+{"index": 163182, "D": "of or relating to Karelia,  its people, or their language.", "S": [], "A": []}

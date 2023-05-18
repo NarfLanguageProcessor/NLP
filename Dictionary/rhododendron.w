@@ -1,0 +1,1 @@
+{"index": 272290, "D": "any evergreen or deciduous shrub or tree belonging to the genus Rhododendron, of the heath family, having rounded clusters of showy, pink, purple, or white flowers and oval or oblong leaves.", "S": [], "A": []}

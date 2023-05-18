@@ -1,0 +1,1 @@
+{"index": 73534, "D": "low-pitched and hoarse; croaking. ", "S": [], "A": []}

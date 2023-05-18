@@ -1,0 +1,1 @@
+{"index": 166189, "D": "a whip with leather thongs, formerly used in Turkey, Egypt, etc.", "S": [], "A": []}

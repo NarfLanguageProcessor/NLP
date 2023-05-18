@@ -1,0 +1,1 @@
+{"index": 36828, "D": "a short musket of wide bore with expanded muzzle to scatter shot, bullets, or slugs at close range.", "S": ["blunderer ", "bumbler ", "klutz ", "lummox "], "A": []}

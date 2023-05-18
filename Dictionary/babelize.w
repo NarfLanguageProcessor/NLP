@@ -1,0 +1,1 @@
+{"index": 25493, "D": "to make a confusion of (customs, languages, usages, etc.); cause to be mixed or unintelligible; confound.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41718, "D": "to injure by striking or pressing, without breaking the skin", "S": ["black eye ", "blemish ", "contusion ", "discoloration ", "injury ", "swelling ", "wound "], "A": []}

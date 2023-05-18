@@ -1,0 +1,1 @@
+{"index": 110028, "D": "extending far in influence, effect, etc.", "S": [], "A": []}

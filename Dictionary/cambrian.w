@@ -1,0 +1,1 @@
+{"index": 45621, "D": "noting or pertaining to a period of the Paleozoic Era, occurring from 570 million to 500 million years ago, when algae and marine invertebrates were the predominant form of life.", "S": [], "A": []}

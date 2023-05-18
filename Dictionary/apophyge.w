@@ -1,0 +1,1 @@
+{"index": 17324, "D": "a small, concave, outward curve joining the shaft of a column, especially a classical column, to its base.", "S": [], "A": []}

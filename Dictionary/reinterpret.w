@@ -1,0 +1,1 @@
+{"index": 266437, "D": "to interpret (an idea, etc) in a new or different way", "S": [], "A": []}

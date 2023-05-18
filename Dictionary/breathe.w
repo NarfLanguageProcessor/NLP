@@ -1,0 +1,1 @@
+{"index": 40325, "D": "to take air, oxygen, etc., into the lungs and expel it; inhale and exhale; respire. ", "S": ["exhale ", "inhale ", "sigh "], "A": ["hide ", "secret "]}

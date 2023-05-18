@@ -1,0 +1,1 @@
+{"index": 282858, "D": "excessive regard for sectional  or local interests; regional or local spirit, prejudice, etc.", "S": [], "A": []}

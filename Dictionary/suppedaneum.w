@@ -1,0 +1,1 @@
+{"index": 312935, "D": "a shelf affixed to a cross for supporting the feet of the crucified.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 324243, "D": "(in annelids and many bivalve mollusks) an infolding along the inner wall of the intestine.", "S": [], "A": []}

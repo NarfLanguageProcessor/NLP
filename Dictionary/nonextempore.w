@@ -1,0 +1,1 @@
+{"index": 203850, "D": "on the spur of the moment; without premeditation or preparation; offhand", "S": [], "A": []}

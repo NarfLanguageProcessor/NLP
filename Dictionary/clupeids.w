@@ -1,0 +1,1 @@
+{"index": 60721, "D": "any of the Clupeidae, a family of chiefly marine, teleostean fishes, including the herrings, sardines, menhaden, and shad.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253857, "D": "the solid stele  of most roots, having a central core of xylem enclosed by phloem.", "S": [], "A": []}

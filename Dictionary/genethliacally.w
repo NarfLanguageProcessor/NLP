@@ -1,0 +1,1 @@
+{"index": 123531, "D": "of or relating to birthdays or to the position of the stars at one's birth.", "S": [], "A": []}

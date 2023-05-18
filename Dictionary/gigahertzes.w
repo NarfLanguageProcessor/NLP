@@ -1,0 +1,1 @@
+{"index": 124779, "D": "one billion hertz. Abbreviation", "S": [], "A": []}

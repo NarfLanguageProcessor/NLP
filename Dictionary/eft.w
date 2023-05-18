@@ -1,0 +1,1 @@
+{"index": 96134, "D": "a newt, especially the eastern newt, Notophthalmus viridescens(red eft ), in its immature terrestrial stage.", "S": [], "A": []}

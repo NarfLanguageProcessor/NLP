@@ -1,0 +1,1 @@
+{"index": 284549, "D": "of, relating to, or characteristic of nomads.", "S": [], "A": []}

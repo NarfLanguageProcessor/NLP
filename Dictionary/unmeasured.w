@@ -1,0 +1,1 @@
+{"index": 346123, "D": "of undetermined or indefinitely great extent or amount; unlimited; measureless", "S": ["boundless ", "immeasurable ", "infinite "], "A": ["bounded ", "calculable ", "finite ", "limited ", "measurable "]}

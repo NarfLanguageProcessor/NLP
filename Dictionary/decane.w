@@ -1,0 +1,1 @@
+{"index": 78002, "D": "a hydrocarbon, C10H22, of the methane series, occurring in several isomeric forms.", "S": [], "A": []}

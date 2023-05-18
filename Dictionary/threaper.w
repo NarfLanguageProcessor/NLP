@@ -1,0 +1,1 @@
+{"index": 322582, "D": "an argument; quarrel.", "S": [], "A": []}

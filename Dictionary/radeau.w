@@ -1,0 +1,1 @@
+{"index": 259506, "D": "an armed scow, variously rigged, used as a floating battery during the American Revolution.", "S": [], "A": []}

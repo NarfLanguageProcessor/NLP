@@ -1,0 +1,1 @@
+{"index": 73351, "D": "(especially of food) hard but easily breakable; brittle", "S": ["crispy ", "crumbly ", "crusty ", "fresh ", "plump "], "A": ["flexible ", "pliable ", "soft "]}

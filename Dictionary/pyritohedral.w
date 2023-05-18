@@ -1,0 +1,1 @@
+{"index": 237734, "D": "a crystal form of 12 pentagonal faces.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360506, "D": "to give life to; make vital. ", "S": [], "A": []}

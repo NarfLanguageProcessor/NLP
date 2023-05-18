@@ -1,0 +1,1 @@
+{"index": 79508, "D": "a person or thing that defrosts. ", "S": [], "A": []}

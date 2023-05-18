@@ -1,0 +1,1 @@
+{"index": 98593, "D": "to represent in or adorn with marble;  make like marble. ", "S": [], "A": []}

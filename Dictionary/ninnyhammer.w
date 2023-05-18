@@ -1,0 +1,1 @@
+{"index": 200214, "D": "a fool or simpleton; ninny. ", "S": ["a bundle of nerves ", "nervous wreck "], "A": []}

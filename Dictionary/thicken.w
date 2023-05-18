@@ -1,0 +1,1 @@
+{"index": 321683, "D": "to make or become thick or thicker.", "S": ["clot ", "condense ", "congeal ", "curdle ", "swell "], "A": ["thin ", "abridge ", "decrease ", "diminish ", "lessen ", "liquefy ", "lower ", "melt ", "reduce ", "shrink ", "soften ", "subtract ", "weaken "]}

@@ -1,0 +1,1 @@
+{"index": 61322, "D": "any sporozoan of the order Coccidia, often parasitic in the digestive tracts of certain animals and a cause of coccidiosis.", "S": [], "A": []}

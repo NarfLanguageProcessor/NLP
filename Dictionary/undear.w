@@ -1,0 +1,1 @@
+{"index": 338425, "D": [], "S": ["competitive ", "economical ", "low-cost ", "low-priced ", "reasonable "], "A": ["expensive ", "unreasonable "]}

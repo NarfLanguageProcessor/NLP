@@ -1,0 +1,1 @@
+{"index": 267144, "D": "to provide additional cash or collateral to a broker in order to keep secure stock bought on margin. ", "S": [], "A": []}

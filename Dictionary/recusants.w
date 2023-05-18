@@ -1,0 +1,1 @@
+{"index": 263827, "D": "refusing to submit, comply, etc.", "S": ["protester ", "rebel ", "separatist "], "A": ["yes-man "]}

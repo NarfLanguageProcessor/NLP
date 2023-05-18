@@ -1,0 +1,1 @@
+{"index": 159556, "D": "the act of traveling from place to place.", "S": [], "A": []}

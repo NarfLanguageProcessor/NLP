@@ -1,0 +1,1 @@
+{"index": 221950, "D": "producing eggs that mature and hatch after being expelled from the body, as birds, most reptiles and fishes, and the monotremes.", "S": [], "A": []}

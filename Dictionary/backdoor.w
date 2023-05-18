@@ -1,0 +1,1 @@
+{"index": 25764, "D": "a door at the rear of a house, building, etc.", "S": ["classified ", "hush-hush ", "intimate ", "private "], "A": ["public ", "revealed "]}

@@ -1,0 +1,1 @@
+{"index": 188978, "D": "an erroneous conception;  mistaken notion.", "S": ["delusion ", "fallacy ", "misinterpretation ", "misunderstanding "], "A": ["certainty ", "fact ", "reality ", "surety ", "truth ", "accuracy ", "correction ", "correctness "]}

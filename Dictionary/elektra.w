@@ -1,0 +1,1 @@
+{"index": 97385, "D": "an electronic navigational system establishing approximate position through coincidence in amplitude of two radio signals.", "S": [], "A": []}

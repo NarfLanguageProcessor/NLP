@@ -1,0 +1,1 @@
+{"index": 12135, "D": "asymmetrical", "S": [], "A": []}

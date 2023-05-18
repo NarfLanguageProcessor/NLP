@@ -1,0 +1,1 @@
+{"index": 52969, "D": "(of a professional person) having attained certain professional qualifications or standards and acquired membership of a particular professional body", "S": ["democratic ", "lawful ", "legal ", "statutory "], "A": ["illegal ", "illegitimate ", "illicit ", "unlawful "]}

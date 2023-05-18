@@ -1,0 +1,1 @@
+{"index": 304881, "D": "the ermine, Mustela erminea, especially when in brown summer pelage.", "S": [], "A": []}

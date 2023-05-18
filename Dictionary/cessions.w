@@ -1,0 +1,1 @@
+{"index": 51714, "D": "act of ceding,  as by treaty.", "S": [], "A": []}

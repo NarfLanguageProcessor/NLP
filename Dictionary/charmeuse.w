@@ -1,0 +1,1 @@
+{"index": 52904, "D": "a soft, lightweight, drapable fabric of silk or synthetic fibers, having a semilustrous satin face and a dull back.", "S": [], "A": []}

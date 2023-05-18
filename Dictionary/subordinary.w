@@ -1,0 +1,1 @@
+{"index": 308706, "D": "any of several heraldic bearings of secondary importance to the ordinary, such as the lozenge, the orle, and the fret", "S": [], "A": []}

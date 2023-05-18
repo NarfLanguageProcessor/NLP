@@ -1,0 +1,1 @@
+{"index": 124396, "D": "the act of gesticulating. ", "S": ["action ", "bow ", "curtsy ", "expression ", "genuflection ", "indication ", "intimation ", "mime ", "motion ", "nod ", "pantomime ", "reminder ", "salute ", "shrug ", "sign ", "signal ", "token ", "wave ", "wink "], "A": ["repose ", "rest "]}

@@ -1,0 +1,1 @@
+{"index": 264078, "D": "to transfer (a unit, a person, supplies, etc.) from one theater of operations to another.", "S": [], "A": []}

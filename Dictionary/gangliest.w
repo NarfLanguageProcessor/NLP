@@ -1,0 +1,1 @@
+{"index": 121876, "D": "gangling. ", "S": ["awkward ", "bony ", "gawky ", "lanky ", "leggy ", "rangy ", "skinny ", "spindly ", "tall "], "A": ["chubby ", "fat ", "graceful ", "heavy ", "overweight ", "plump ", "thick "]}

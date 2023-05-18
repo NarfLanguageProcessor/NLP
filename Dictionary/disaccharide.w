@@ -1,0 +1,1 @@
+{"index": 86884, "D": "any of a group of carbohydrates, as sucrose or lactose, that yield monosaccharides on hydrolysis.", "S": ["cellulose ", "glucose ", "lactose ", "starch ", "sugar "], "A": []}

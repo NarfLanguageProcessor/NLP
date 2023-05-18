@@ -1,0 +1,1 @@
+{"index": 48669, "D": "a small, open boat that can be carried atop an automobile.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 327731, "D": "to rise above or go beyond; overpass; exceed", "S": ["eclipse ", "outstrip ", "overstep ", "transform "], "A": ["fail ", "fall behind ", "lose ", "surrender "]}

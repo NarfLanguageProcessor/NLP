@@ -1,0 +1,1 @@
+{"index": 172753, "D": "marked with lines, especially parallel lengthwise lines; striped. ", "S": ["barred ", "grooved ", "marked ", "ridged ", "striate ", "striated ", "striped ", "tore ", "variegated ", "veined ", "whelked "], "A": []}

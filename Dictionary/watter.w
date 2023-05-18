@@ -1,0 +1,1 @@
+{"index": 363276, "D": "a light bulb, radio station, etc., of specified wattage (usually used in combination)", "S": [], "A": []}

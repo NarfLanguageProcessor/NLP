@@ -1,0 +1,1 @@
+{"index": 355218, "D": "toward a higher place or position", "S": [], "A": []}

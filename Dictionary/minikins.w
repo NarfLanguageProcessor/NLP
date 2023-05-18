@@ -1,0 +1,1 @@
+{"index": 187860, "D": "a person or object that is delicate, dainty, or diminutive.", "S": [], "A": []}

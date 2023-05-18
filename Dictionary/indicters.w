@@ -1,0 +1,1 @@
+{"index": 150941, "D": "(of a grand jury) to bring a formal accusation against (someone) as a means of bringing a case to trial after ascertaining that there is enough evidence", "S": ["informer ", "prosecutor ", "rat ", "tattletale "], "A": []}

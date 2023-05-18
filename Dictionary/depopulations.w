@@ -1,0 +1,1 @@
+{"index": 81738, "D": "to remove or reduce the population of, as by destruction or expulsion.", "S": [], "A": []}

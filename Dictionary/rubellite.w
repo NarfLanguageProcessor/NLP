@@ -1,0 +1,1 @@
+{"index": 275151, "D": "a deep-red variety of tourmaline, used as a gem.", "S": [], "A": []}

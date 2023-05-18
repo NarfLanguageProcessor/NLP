@@ -1,0 +1,1 @@
+{"index": 369746, "D": "any of various symbiotic green algae in the cytoplasm of certain freshwater invertebrates, as stentors and hydras.", "S": [], "A": []}

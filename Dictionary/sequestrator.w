@@ -1,0 +1,1 @@
+{"index": 285868, "D": "to confiscate.", "S": [], "A": []}

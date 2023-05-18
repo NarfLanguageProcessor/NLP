@@ -1,0 +1,1 @@
+{"index": 357697, "D": "to grow in, or as in, the manner of a plant.", "S": ["burgeoning ", "fledgling ", "growing ", "incipient ", "nascent ", "promising "], "A": ["dying ", "shrinking ", "withering "]}

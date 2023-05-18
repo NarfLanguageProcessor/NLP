@@ -1,0 +1,1 @@
+{"index": 257488, "D": "of, relating to, or suitable for Lent; Lenten.", "S": ["quadragenarian "], "A": []}

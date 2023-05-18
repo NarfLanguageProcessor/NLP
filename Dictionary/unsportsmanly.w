@@ -1,0 +1,1 @@
+{"index": 351821, "D": "a man who engages in sports,  especially in some open-air sport, as hunting, fishing, racing, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104242, "D": "to draw a circle outside of a triangle tangent to one side of the triangle and to the extensions of the other two sides.", "S": [], "A": []}

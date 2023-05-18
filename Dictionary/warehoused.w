@@ -1,0 +1,1 @@
+{"index": 362600, "D": "a building, or a part of one, for the storage of goods, merchandise, etc.", "S": ["bind ", "bundle ", "collect ", "gather ", "load ", "store ", "stow "], "A": ["disperse ", "distribute ", "divide ", "scatter ", "separate ", "spread ", "use ", "waste ", "detach ", "disconnect ", "loosen ", "unfasten "]}

@@ -1,0 +1,1 @@
+{"index": 225955, "D": "one of the erect, sterile filaments often growing among the reproductive organs in many fungi, mosses, and ferns.", "S": [], "A": []}

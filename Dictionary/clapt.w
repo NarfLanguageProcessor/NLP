@@ -1,0 +1,1 @@
+{"index": 59268, "D": "simple past tense and past participle of clap1. ", "S": [], "A": []}

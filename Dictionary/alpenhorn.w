@@ -1,0 +1,1 @@
+{"index": 9307, "D": "a long, powerful horn of wood or bark, with a cupped mouthpiece and a curved bell at opposite ends, used by Swiss herders and mountaineers.", "S": [], "A": []}

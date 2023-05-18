@@ -1,0 +1,1 @@
+{"index": 285136, "D": "done, made, brought about, undertaken, etc., of one's own accord or by free choice", "S": [], "A": []}

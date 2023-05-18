@@ -1,0 +1,1 @@
+{"index": 33128, "D": "of, relating to, or characteristic of Bhutan,  its inhabitants, or their language.", "S": [], "A": []}

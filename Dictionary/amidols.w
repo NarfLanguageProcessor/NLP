@@ -1,0 +1,1 @@
+{"index": 10443, "D": "a colorless, crystalline powder, C6H8N2O\u22c52HCl, derived from phenol, used chiefly as a photographic developer.", "S": [], "A": []}

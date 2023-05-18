@@ -1,0 +1,1 @@
+{"index": 171353, "D": "the statistical study of the vocabulary of a language or languages for historical purposes.", "S": [], "A": []}

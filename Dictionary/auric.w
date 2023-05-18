@@ -1,0 +1,1 @@
+{"index": 23543, "D": "of or containing gold in the trivalent state.", "S": ["gilt ", "halcyon "], "A": []}

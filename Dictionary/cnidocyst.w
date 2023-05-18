@@ -1,0 +1,1 @@
+{"index": 60786, "D": "a nematocyst.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17733, "D": "intense desire; strong natural craving; appetite.", "S": ["ambitious ", "greedy ", "hungry ", "impatient ", "keen ", "restless ", "thirsty "], "A": ["satisfied "]}

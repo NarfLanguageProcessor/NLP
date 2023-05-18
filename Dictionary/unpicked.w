@@ -1,0 +1,1 @@
+{"index": 347894, "D": "(of knitting, sewing, etc) having been unravelled or picked out", "S": [], "A": []}

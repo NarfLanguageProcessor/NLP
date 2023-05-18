@@ -1,0 +1,1 @@
+{"index": 257853, "D": "tending to quake;  shaky or tremulous.", "S": [], "A": []}

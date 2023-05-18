@@ -1,0 +1,1 @@
+{"index": 185704, "D": "a person who idles and trusts to fortune", "S": [], "A": []}

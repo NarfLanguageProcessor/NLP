@@ -1,0 +1,1 @@
+{"index": 258107, "D": "one of over a thousand known extragalactic objects, starlike in appearance and having spectra with characteristically large redshifts, that are thought to be the most distant and most luminous objects in the universe.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47130, "D": "any plant of the genus Capsicum, of the nightshade family, as C. annuum, the common pepper of the garden, occurring in many varieties.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 306926, "D": "two or more layers of flannel or other cloth soaked in hot water and applied to the skin as a counterirritant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 39185, "D": "a pair of strings or straps secured round each trouser leg below the knee, worn esp by sheep-shearers and other labourers", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118782, "D": "happening or occurring at short intervals", "S": [], "A": []}

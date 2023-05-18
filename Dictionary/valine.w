@@ -1,0 +1,1 @@
+{"index": 356739, "D": "an essential amino acid, (CH3)2CHCH(NH2)COOH, white, crystalline, and water-soluble, present in most plant and animal proteins, required for growth. Abbreviation", "S": [], "A": []}

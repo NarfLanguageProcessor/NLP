@@ -1,0 +1,1 @@
+{"index": 97670, "D": "a noun suffix occurring in loanwords from French, where it originally formed diminutives, now often with a derivative sense in which the diminutive force is lost (bagatelle; prunelle; rondelle); also in Anglicized forms of Latin words ending in -ella (organelle).", "S": [], "A": []}

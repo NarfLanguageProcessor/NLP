@@ -1,0 +1,1 @@
+{"index": 285422, "D": "a mechanical device sensitive  to light, temperature, radiation level, or the like, that transmits a signal to a measuring or control instrument.", "S": [], "A": []}

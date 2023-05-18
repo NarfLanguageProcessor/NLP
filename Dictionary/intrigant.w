@@ -1,0 +1,1 @@
+{"index": 156721, "D": "a person who engages in intrigue or intrigues.", "S": [], "A": []}

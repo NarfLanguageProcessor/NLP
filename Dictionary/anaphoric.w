@@ -1,0 +1,1 @@
+{"index": 11907, "D": "referring back to or substituting for a preceding word or group of words", "S": [], "A": []}

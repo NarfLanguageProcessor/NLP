@@ -1,0 +1,1 @@
+{"index": 126042, "D": "light bluish-green or greenish-blue.", "S": [], "A": []}

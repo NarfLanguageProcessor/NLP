@@ -1,0 +1,1 @@
+{"index": 61099, "D": "the outline or contour of a coast;  shoreline.", "S": ["bank ", "beach ", "seaboard ", "shore ", "shoreline "], "A": []}

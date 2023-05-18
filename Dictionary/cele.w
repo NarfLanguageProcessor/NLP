@@ -1,0 +1,1 @@
+{"index": 50442, "D": "a combining form meaning \u201ctumor,\u201d used in the formation of compound words", "S": [], "A": []}

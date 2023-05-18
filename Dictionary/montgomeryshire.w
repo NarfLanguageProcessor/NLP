@@ -1,0 +1,1 @@
+{"index": 192908, "D": "a historic county in Powys, in central Wales.", "S": [], "A": []}

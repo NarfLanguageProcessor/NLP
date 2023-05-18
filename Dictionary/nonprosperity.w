@@ -1,0 +1,1 @@
+{"index": 206302, "D": "a successful, flourishing, or thriving condition, especially in financial respects; good fortune.", "S": [], "A": []}

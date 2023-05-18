@@ -1,0 +1,1 @@
+{"index": 123146, "D": "a Japanese woman trained as a professional singer, dancer, and companion for men.", "S": [], "A": []}

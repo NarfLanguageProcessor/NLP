@@ -1,0 +1,1 @@
+{"index": 173217, "D": "a microscopic artificial sac composed of fatty substances and used in experimental research of the cell.", "S": [], "A": []}

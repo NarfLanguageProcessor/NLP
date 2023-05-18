@@ -1,0 +1,1 @@
+{"index": 204800, "D": "(of two things) capable of being put or used in the place of each other", "S": [], "A": []}

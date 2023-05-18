@@ -1,0 +1,1 @@
+{"index": 264508, "D": "tending to reduplicate. ", "S": [], "A": []}

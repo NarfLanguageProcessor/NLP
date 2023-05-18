@@ -1,0 +1,1 @@
+{"index": 264434, "D": "a North American plant, Lachnanthes caroliniana (or L. tinctoria), having sword-shaped leaves, woolly, yellowish flowers, and a root  that is red  in color.", "S": [], "A": []}

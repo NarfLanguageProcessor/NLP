@@ -1,0 +1,1 @@
+{"index": 365314, "D": "a loud, heavy blow, slap, bang, or the like", "S": ["bump ", "concussion ", "impact ", "jab ", "jolt ", "kick ", "punch ", "shock ", "slap ", "stroke ", "uppercut "], "A": []}

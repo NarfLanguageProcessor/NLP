@@ -1,0 +1,1 @@
+{"index": 310534, "D": "a nonmetallic element that exists in several forms, the ordinary one being a yellow rhombic crystalline solid, and that burns with a blue flame and a suffocating odor", "S": [], "A": []}

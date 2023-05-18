@@ -1,0 +1,1 @@
+{"index": 109121, "D": "faddish. ", "S": ["all the rage ", "chic ", "current ", "fashionable ", "hot ", "in style ", "in vogue ", "latest ", "now ", "popular ", "stylish ", "trendy "], "A": []}

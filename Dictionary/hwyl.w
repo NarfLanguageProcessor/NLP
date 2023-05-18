@@ -1,0 +1,1 @@
+{"index": 145453, "D": "emotional fervour, as in the recitation of poetry", "S": [], "A": []}

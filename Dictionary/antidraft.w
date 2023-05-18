@@ -1,0 +1,1 @@
+{"index": 15145, "D": "a drawing, sketch, or design.", "S": [], "A": []}

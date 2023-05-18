@@ -1,0 +1,1 @@
+{"index": 92968, "D": "any moth of the superfamily Drepanoidae (family Drepanidae)", "S": [], "A": []}

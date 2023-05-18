@@ -1,0 +1,1 @@
+{"index": 249898, "D": "a prefix, meaning \u201cbeyond,\u201d \u201cmore than,\u201d \u201cby,\u201d \u201cpast,\u201d occurring originally in loanwords from Latin (preterit), and used in the formation of compound words (preterlegal).", "S": [], "A": []}

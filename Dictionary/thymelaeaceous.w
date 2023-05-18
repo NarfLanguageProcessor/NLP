@@ -1,0 +1,1 @@
+{"index": 321811, "D": "of, relating to, or belonging to the Thymelaeaceae, a family of trees and shrubs having tough acrid bark and simple leaves", "S": [], "A": []}

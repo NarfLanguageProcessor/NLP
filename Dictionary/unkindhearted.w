@@ -1,0 +1,1 @@
+{"index": 345309, "D": "having or showing sympathy or kindness", "S": [], "A": []}

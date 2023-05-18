@@ -1,0 +1,1 @@
+{"index": 55361, "D": "(of the voice) husky and strained, especially because of emotion.", "S": ["asthmatic ", "blown ", "emphysematous ", "exhausted ", "gasping ", "gulping ", "out of breath ", "panting ", "short of breath ", "short-winded ", "spent ", "stertorous ", "wheezing ", "winded "], "A": ["breathy ", "calm "]}

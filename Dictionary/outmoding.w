@@ -1,0 +1,1 @@
+{"index": 217014, "D": "to cause (something) to go out of style or become obsolete.", "S": ["annul ", "overrule ", "repudiate ", "set aside ", "supplant ", "usurp "], "A": ["keep ", "retain ", "stay ", "support "]}

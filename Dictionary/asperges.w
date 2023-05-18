@@ -1,0 +1,1 @@
+{"index": 21391, "D": "the rite of sprinkling the altar, clergy, and people with holy water before High Mass.", "S": [], "A": []}

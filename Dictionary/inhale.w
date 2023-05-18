@@ -1,0 +1,1 @@
+{"index": 152639, "D": "to breathe in; draw in by breathing", "S": ["puff ", "smell ", "sniff ", "snort ", "suck in "], "A": ["exhale "]}

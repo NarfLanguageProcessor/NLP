@@ -1,0 +1,1 @@
+{"index": 271340, "D": "the act of reviewing. ", "S": ["assessment ", "comment ", "critique ", "judgment ", "opinion ", "review "], "A": ["heedlessness ", "neglect "]}

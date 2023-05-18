@@ -1,0 +1,1 @@
+{"index": 184143, "D": "hypnosis as induced, according to F. A. Mesmer,  through animal magnetism.", "S": ["attractiveness ", "aura ", "beguilement ", "bewitchery ", "charisma ", "charm ", "hypnotic attraction ", "it ", "magnetism ", "odyl ", "odylic force ", "personal appeal ", "pizazz ", "sex appeal ", "sexiness ", "sexual attraction "], "A": []}

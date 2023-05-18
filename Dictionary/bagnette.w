@@ -1,0 +1,1 @@
+{"index": 26332, "D": "a variant of baguette (def. 3)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127708, "D": "a sinking sensation; exhaustion or faintness.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291989, "D": "a lubricating fluid resembling the white of an egg, secreted by certain membranes, as those of the joints.", "S": [], "A": []}

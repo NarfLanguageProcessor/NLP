@@ -1,0 +1,1 @@
+{"index": 96839, "D": [], "S": ["preference "], "A": ["disadvantage ", "inferiority "]}

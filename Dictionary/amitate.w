@@ -1,0 +1,1 @@
+{"index": 10686, "D": "a close social relationship between a paternal aunt and her niece.", "S": [], "A": []}

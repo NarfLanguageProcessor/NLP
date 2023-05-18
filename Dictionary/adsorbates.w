@@ -1,0 +1,1 @@
+{"index": 4462, "D": "a substance that is adsorbed. ", "S": [], "A": []}

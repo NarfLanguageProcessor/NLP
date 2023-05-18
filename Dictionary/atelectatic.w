@@ -1,0 +1,1 @@
+{"index": 22457, "D": "incomplete expansion of the lungs at birth, as from lack of breathing force.", "S": [], "A": []}

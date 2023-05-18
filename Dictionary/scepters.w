@@ -1,0 +1,1 @@
+{"index": 280003, "D": "a rod or wand borne in the hand as an emblem of regal or imperial power.", "S": ["rod ", "staff ", "stick ", "wand "], "A": []}

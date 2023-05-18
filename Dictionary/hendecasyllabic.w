@@ -1,0 +1,1 @@
+{"index": 136553, "D": "having 11 syllables.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 137072, "D": "a person who studies or writes about heresies. ", "S": [], "A": []}

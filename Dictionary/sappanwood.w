@@ -1,0 +1,1 @@
+{"index": 278178, "D": "a dyewood yielding a red color, produced by a small, East Indian tree, Caesalpinia sappan, of the legume family.", "S": [], "A": []}

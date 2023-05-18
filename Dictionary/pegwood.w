@@ -1,0 +1,1 @@
+{"index": 229155, "D": "a rod of orangewood or dogwood usually 0.08\u20130.24 inch (2\u20136 millimeters) in diameter, cut in various ways at the end and used by watchmakers for cleaning jewels.", "S": [], "A": []}

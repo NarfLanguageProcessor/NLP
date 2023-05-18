@@ -1,0 +1,1 @@
+{"index": 336335, "D": "a simple past tense and past participle of burn1. ", "S": [], "A": []}

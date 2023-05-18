@@ -1,0 +1,1 @@
+{"index": 211586, "D": "to present for acceptance or rejection; proffer", "S": [], "A": []}

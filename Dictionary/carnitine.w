@@ -1,0 +1,1 @@
+{"index": 48245, "D": "a dipolar compound that occurs in muscle and liver and is involved in the transport of fatty acids across the inner mitochondrial membrane.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 357217, "D": "the state or condition of being varicose. ", "S": [], "A": []}

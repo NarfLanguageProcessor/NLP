@@ -1,0 +1,1 @@
+{"index": 299564, "D": "an instrument, often attached to an inflatable air-bladder cuff and used with a stethoscope, for measuring blood pressure in an artery.", "S": [], "A": []}

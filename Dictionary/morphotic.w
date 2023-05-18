@@ -1,0 +1,1 @@
+{"index": 193632, "D": "the sequence or manner of development or change in an organism or any of its parts.", "S": [], "A": []}

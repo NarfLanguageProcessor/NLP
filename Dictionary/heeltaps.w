@@ -1,0 +1,1 @@
+{"index": 135295, "D": "a layer of leather, metal, or the like in a shoe heel; a lift.", "S": [], "A": []}

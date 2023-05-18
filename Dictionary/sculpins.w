@@ -1,0 +1,1 @@
+{"index": 282189, "D": "any small, freshwater fish of the genus Cottus, of the family Cottidae, having a large head with one or more spines on each side; bullhead.", "S": [], "A": []}

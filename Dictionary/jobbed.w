@@ -1,0 +1,1 @@
+{"index": 161428, "D": "a piece of work, especially a specific task done as part of the routine of one's occupation or for an agreed price", "S": ["hire out ", "rent out ", "subcontract ", "sublet "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 364149, "D": "of the nature of or resembling a wen. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 282224, "D": "a board  or strip of material partly immersed in flowing water to hold back scum. ", "S": [], "A": []}

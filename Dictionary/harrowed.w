@@ -1,0 +1,1 @@
+{"index": 133973, "D": "an agricultural implement with spikelike teeth or upright disks, drawn chiefly over plowed land to level it, break up clods, root up weeds, etc.", "S": ["harassed ", "peaked ", "pinched ", "sapped ", "starved ", "strained ", "stressed ", "thin ", "tired ", "worn "], "A": ["fresh "]}

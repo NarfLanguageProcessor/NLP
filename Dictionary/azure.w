@@ -1,0 +1,1 @@
+{"index": 25405, "D": "of or having a light, purplish shade of blue, like that of a clear and unclouded sky.", "S": ["blue ", "cerulean ", "sky-blue "], "A": []}

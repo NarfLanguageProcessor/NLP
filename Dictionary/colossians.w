@@ -1,0 +1,1 @@
+{"index": 63387, "D": "a book of the New Testament, written by Paul. Abbreviation", "S": [], "A": []}

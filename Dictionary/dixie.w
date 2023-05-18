@@ -1,0 +1,1 @@
+{"index": 90458, "D": "a large iron pot, especially a 12-gallon camp kettle used by the British Army.", "S": [], "A": []}

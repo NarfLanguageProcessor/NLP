@@ -1,0 +1,1 @@
+{"index": 340300, "D": "(of a medical condition, a problem, etc) not having been identified", "S": [], "A": []}

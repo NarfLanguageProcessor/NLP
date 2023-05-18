@@ -1,0 +1,1 @@
+{"index": 70234, "D": "a flask made of leather, earthenware, or wood, usually with an ear or ears by which to suspend it, as from the waist.", "S": [], "A": []}

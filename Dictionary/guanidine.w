@@ -1,0 +1,1 @@
+{"index": 130718, "D": "a colorless, crystalline, strongly alkaline, water-soluble solid, CH5N3, used chiefly in the manufacture of plastics, resins, rubber accelerators, and explosives.", "S": [], "A": []}

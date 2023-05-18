@@ -1,0 +1,1 @@
+{"index": 169408, "D": "a loosening or relaxing.", "S": [], "A": []}

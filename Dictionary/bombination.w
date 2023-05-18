@@ -1,0 +1,1 @@
+{"index": 37736, "D": "to make a humming or buzzing noise.", "S": [], "A": []}

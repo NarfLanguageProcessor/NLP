@@ -1,0 +1,1 @@
+{"index": 283100, "D": "a seed vessel or dehiscent fruit that splits when ripe.", "S": [], "A": []}

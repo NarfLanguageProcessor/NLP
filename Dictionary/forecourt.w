@@ -1,0 +1,1 @@
+{"index": 116586, "D": "Compare backcourt (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160614, "D": "a splash, spurt, or drop of water.", "S": [], "A": []}

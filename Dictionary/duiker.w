@@ -1,0 +1,1 @@
+{"index": 93917, "D": "any of several small African antelopes of the Cephalophus, Sylvicapra, and related genera, the males and often the females having short, spikelike horns", "S": [], "A": []}

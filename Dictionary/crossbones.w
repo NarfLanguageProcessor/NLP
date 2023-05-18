@@ -1,0 +1,1 @@
+{"index": 73782, "D": "a representation of two bones  placed crosswise, usually below a skull, to symbolize death.", "S": [], "A": []}

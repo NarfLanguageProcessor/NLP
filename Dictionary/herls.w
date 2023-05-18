@@ -1,0 +1,1 @@
+{"index": 137125, "D": "a barb of a feather, used especially in dressing anglers' flies.", "S": [], "A": []}

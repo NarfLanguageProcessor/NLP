@@ -1,0 +1,1 @@
+{"index": 129382, "D": "the area in which the gravitational force of a celestial body is predominant.", "S": [], "A": []}

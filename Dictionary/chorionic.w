@@ -1,0 +1,1 @@
+{"index": 55827, "D": "the outermost of the extraembryonic membranes of land vertebrates, contributing to the formation of the placenta in the placental mammals.", "S": [], "A": []}

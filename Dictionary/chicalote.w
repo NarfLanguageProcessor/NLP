@@ -1,0 +1,1 @@
+{"index": 54104, "D": "a poppy, Argemone platyceras, growing in Mexico and the southwestern U.S., having prickly leaves and usually white flowers.", "S": [], "A": []}

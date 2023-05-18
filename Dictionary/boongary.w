@@ -1,0 +1,1 @@
+{"index": 38194, "D": "a small, tree-dwelling kangaroo, Dendrolagus lumholtzi, inhabiting northeastern Queensland.", "S": [], "A": []}

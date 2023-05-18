@@ -1,0 +1,1 @@
+{"index": 71495, "D": "a bed quilt that does not cover  the pillow, used chiefly for warmth; bedspread.", "S": [], "A": []}

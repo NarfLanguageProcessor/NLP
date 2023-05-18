@@ -1,0 +1,1 @@
+{"index": 255261, "D": "the realm or artifacts of psychedelic  drugs, art, writings, or the like.", "S": [], "A": []}

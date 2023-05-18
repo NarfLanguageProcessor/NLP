@@ -1,0 +1,1 @@
+{"index": 265016, "D": "to direct for information or anything required", "S": ["assign ", "attribute ", "cite ", "hint ", "indicate ", "introduce ", "invoke ", "point out ", "specify "], "A": ["ignore ", "insert ", "neglect ", "remove "]}

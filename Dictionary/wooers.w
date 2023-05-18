@@ -1,0 +1,1 @@
+{"index": 367279, "D": "to seek the favor, affection, or love of, especially with a view to marriage.", "S": ["adherent ", "believer ", "booster ", "buff ", "devotee ", "disciple ", "enthusiast ", "fan ", "follower ", "partisan ", "patron ", "supporter "], "A": ["adversary ", "detractor ", "enemy ", "opponent "]}

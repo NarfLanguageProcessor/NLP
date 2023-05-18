@@ -1,0 +1,1 @@
+{"index": 19263, "D": "belonging or pertaining to the family Ardeidae, comprising the herons and bitterns.", "S": [], "A": []}

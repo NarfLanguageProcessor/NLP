@@ -1,0 +1,1 @@
+{"index": 341718, "D": "to enliven; invigorate; stimulate", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9671, "D": "having the vaulted shape of a beehive.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212612, "D": "a pale-green variety of pyroxene similar to olivine, found in eclogite.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117722, "D": "having good fortune;  receiving good from uncertain or unexpected sources; lucky", "S": ["Lady Luck ", "blessing ", "break ", "chance ", "fortuity ", "fortune ", "godsend ", "kismet ", "luckiness ", "lucky break "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212365, "D": "of or relating to Oman or its people.", "S": [], "A": []}

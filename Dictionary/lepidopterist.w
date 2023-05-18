@@ -1,0 +1,1 @@
+{"index": 170618, "D": "a person who studies or collects moths and butterflies", "S": [], "A": []}

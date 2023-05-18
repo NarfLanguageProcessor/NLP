@@ -1,0 +1,1 @@
+{"index": 313648, "D": "to take a general or comprehensive view of or appraise, as a situation, area of study, etc.", "S": ["marked "], "A": ["unknown "]}

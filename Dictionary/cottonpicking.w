@@ -1,0 +1,1 @@
+{"index": 70451, "D": "damned; confounded (used as an intensifier)", "S": [], "A": []}

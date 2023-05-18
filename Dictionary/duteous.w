@@ -1,0 +1,1 @@
+{"index": 94582, "D": "dutiful; obedient.", "S": ["compliant ", "deferential ", "faithful ", "loyal ", "obedient ", "regardful ", "respectful "], "A": []}

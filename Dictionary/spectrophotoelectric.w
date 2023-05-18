@@ -1,0 +1,1 @@
+{"index": 298928, "D": "pertaining to the relationship between the wavelength of the incident radiation and the number of electrons released by a photoelectric  substance.", "S": [], "A": []}

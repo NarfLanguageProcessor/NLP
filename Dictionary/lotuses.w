@@ -1,0 +1,1 @@
+{"index": 175409, "D": "a plant believed to be a jujube or elm, referred to in Greek legend as yielding a fruit that induced a state of dreamy and contented forgetfulness in those who ate it.", "S": [], "A": []}

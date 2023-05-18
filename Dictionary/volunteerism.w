@@ -1,0 +1,1 @@
+{"index": 361254, "D": "voluntarism (def. 2). ", "S": [], "A": []}

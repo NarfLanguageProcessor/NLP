@@ -1,0 +1,1 @@
+{"index": 124765, "D": "something given  voluntarily without payment in return, as to show favor toward someone, honor an occasion, or make a gesture of assistance; present.", "S": ["ability ", "competence ", "quality ", "stature ", "talent "], "A": ["inability ", "inadequacy ", "incompetence ", "weakness ", "disadvantage ", "impotence ", "ineptness ", "lack ", "lowliness "]}

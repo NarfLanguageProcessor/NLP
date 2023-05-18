@@ -1,0 +1,1 @@
+{"index": 335885, "D": "arguing petulantly or peevishly; wrangling or quarreling", "S": [], "A": []}

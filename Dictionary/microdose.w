@@ -1,0 +1,1 @@
+{"index": 186092, "D": "a very small amount of a drug or medicine; a fraction of what is normally used or prescribed.", "S": [], "A": []}

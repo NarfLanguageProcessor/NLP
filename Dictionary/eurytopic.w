@@ -1,0 +1,1 @@
+{"index": 105809, "D": "(of an organism) tolerating a wide range of environmental conditions or habitats.", "S": [], "A": []}

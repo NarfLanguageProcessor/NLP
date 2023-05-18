@@ -1,0 +1,1 @@
+{"index": 347862, "D": "of or relating to philosophy", "S": [], "A": []}

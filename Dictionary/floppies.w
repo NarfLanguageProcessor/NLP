@@ -1,0 +1,1 @@
+{"index": 114973, "D": "tending to flop.", "S": ["hitch "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95290, "D": "the abnormal repetition of the actions of another person.", "S": [], "A": []}

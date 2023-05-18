@@ -1,0 +1,1 @@
+{"index": 342028, "D": "to release from or as from fastenings; detach.", "S": ["loosen ", "open ", "unbind ", "unbuckle ", "unbutton ", "unclasp ", "undo ", "unhitch ", "unhook ", "unlock ", "untie "], "A": ["close ", "fasten "]}

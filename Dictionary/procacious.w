@@ -1,0 +1,1 @@
+{"index": 251120, "D": [], "S": ["frigid ", "lukewarm "], "A": ["warm ", "extroverted ", "friendly ", "outgoing ", "sociable "]}

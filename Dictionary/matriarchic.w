@@ -1,0 +1,1 @@
+{"index": 181214, "D": "of or relating to a matriarch, the female head of a family, tribe, community, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 221879, "D": "simple past tense of overwear. ", "S": [], "A": []}

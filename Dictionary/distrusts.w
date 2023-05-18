@@ -1,0 +1,1 @@
+{"index": 89963, "D": "to regard with doubt or suspicion; have no trust  in.", "S": ["disbelief ", "doubt ", "misgiving ", "mistrust ", "skepticism ", "suspicion ", "wariness "], "A": ["belief ", "certainty ", "confidence ", "faith ", "trust "]}

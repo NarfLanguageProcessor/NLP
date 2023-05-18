@@ -1,0 +1,1 @@
+{"index": 178893, "D": "a managing director", "S": ["administering ", "admonishing ", "advising ", "controlling ", "executing ", "governing ", "guiding ", "handling ", "husbanding ", "inspecting ", "leading ", "operating ", "organizing ", "overseeing ", "piloting ", "regulating ", "steering ", "superintending ", "supervising "], "A": ["subordinate "]}

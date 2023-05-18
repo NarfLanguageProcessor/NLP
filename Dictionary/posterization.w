@@ -1,0 +1,1 @@
+{"index": 244094, "D": "a process for producing a posterlike, high-contrast color reproduction from continuous-tone art by using separation negatives of various densities.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 76965, "D": "to appear dark; show indistinctly.", "S": [], "A": []}

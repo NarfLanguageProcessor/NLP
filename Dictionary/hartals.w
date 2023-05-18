@@ -1,0 +1,1 @@
+{"index": 134010, "D": "(in India) a closing of shops and stopping of work, especially as a form of passive resistance.", "S": [], "A": []}

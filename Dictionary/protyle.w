@@ -1,0 +1,1 @@
+{"index": 253560, "D": "a hypothetical primitive substance from which the chemical elements were supposed to have been formed", "S": [], "A": []}

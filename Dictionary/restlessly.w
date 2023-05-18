@@ -1,0 +1,1 @@
+{"index": 269962, "D": "characterized by or showing inability to remain at rest", "S": ["ardently ", "assiduously ", "carefully ", "diligently ", "eagerly ", "earnestly ", "energetically ", "enthusiastically ", "hastily ", "hurriedly ", "laboriously ", "nimbly ", "painstakingly ", "purposefully ", "vigorously "], "A": ["idly ", "inactively ", "quietly "]}

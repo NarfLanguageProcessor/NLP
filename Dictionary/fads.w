@@ -1,0 +1,1 @@
+{"index": 109164, "D": "a temporary fashion, notion, manner of conduct, etc., especially one followed enthusiastically by a group.", "S": ["fantasy ", "furor ", "hobby ", "innovation ", "mania ", "passion ", "trend "], "A": ["calm ", "boredom ", "dislike ", "dullness ", "hate ", "seriousness ", "simplicity ", "work "]}

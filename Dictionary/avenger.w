@@ -1,0 +1,1 @@
+{"index": 24641, "D": "a person who takes revenge for an offense", "S": ["nemesis ", "retaliator ", "vindicator "], "A": []}

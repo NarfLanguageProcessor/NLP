@@ -1,0 +1,1 @@
+{"index": 340638, "D": "having no distinguishing marks or features.", "S": ["generic ", "mediocre ", "prosaic ", "so-so ", "uneventful ", "uninspired ", "unremarkable "], "A": ["creative ", "exceptional ", "extraordinary "]}

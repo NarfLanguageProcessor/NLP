@@ -1,0 +1,1 @@
+{"index": 357702, "D": "growing or developing as or like plants; vegetating. ", "S": ["abundant ", "arable ", "fruitful ", "lush ", "productive ", "rich "], "A": ["barren ", "impotent ", "sparse ", "unfruitful ", "unproductive "]}

@@ -1,0 +1,1 @@
+{"index": 44087, "D": "an official seal, as on a letter or document.", "S": ["prestige ", "stature "], "A": []}

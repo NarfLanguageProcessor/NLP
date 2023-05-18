@@ -1,0 +1,1 @@
+{"index": 194727, "D": [], "S": ["belittle ", "criticize ", "cut down to size ", "dis ", "disparage ", "dump on ", "find fault ", "knock ", "malign ", "pan ", "pooh pooh ", "put down ", "rap ", "rip ", "roast ", "run down ", "slam ", "slander ", "take a dig at ", "take down a peg ", "tear down ", "tear to pieces "], "A": []}

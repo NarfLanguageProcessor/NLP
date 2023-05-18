@@ -1,0 +1,1 @@
+{"index": 202069, "D": "a person connected with a military force in some capacity other than that of a fighter, as a surgeon or chaplain.", "S": ["citizen ", "noncombatant "], "A": []}

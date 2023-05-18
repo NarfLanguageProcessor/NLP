@@ -1,0 +1,1 @@
+{"index": 13422, "D": "abnormal adhesion of the bones of a joint.", "S": [], "A": []}

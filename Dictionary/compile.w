@@ -1,0 +1,1 @@
+{"index": 64565, "D": "to put together (documents, selections, or other materials) in one book or work.", "S": ["amass ", "arrange ", "assemble ", "collect ", "compose ", "cull ", "edit ", "gather ", "glean ", "organize "], "A": ["destroy ", "disarrange ", "disorder ", "disorganize ", "disperse ", "distribute ", "divide ", "scatter ", "separate ", "spread "]}

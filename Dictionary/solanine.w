@@ -1,0 +1,1 @@
+{"index": 296494, "D": "a poisonous alkaloid found in various solanaceous plants, including potatoes which have gone green through exposure to light", "S": [], "A": []}

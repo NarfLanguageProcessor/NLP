@@ -1,0 +1,1 @@
+{"index": 196739, "D": "a firm, durable, yellow or buff fabric, formerly made from a natural-colored Chinese cotton.", "S": [], "A": []}

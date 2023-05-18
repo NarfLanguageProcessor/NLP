@@ -1,0 +1,1 @@
+{"index": 306445, "D": "the simple past tense of stride. ", "S": ["stalk ", "stomp ", "traipse ", "tramp "], "A": []}

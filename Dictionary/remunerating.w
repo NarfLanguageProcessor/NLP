@@ -1,0 +1,1 @@
+{"index": 267512, "D": "to pay, recompense, or reward for work, trouble, etc.", "S": ["accord ", "award ", "grant ", "indemnify ", "pay ", "post ", "recompense ", "redress ", "reimburse ", "repay ", "requite ", "vouchsafe "], "A": ["deny ", "refuse ", "take ", "withhold "]}

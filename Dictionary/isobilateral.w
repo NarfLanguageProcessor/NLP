@@ -1,0 +1,1 @@
+{"index": 158789, "D": "(esp of a leaf) capable of being divided into symmetrical halves along two different planes", "S": [], "A": []}

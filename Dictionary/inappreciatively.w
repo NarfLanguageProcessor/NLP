@@ -1,0 +1,1 @@
+{"index": 149488, "D": "not appreciative;  lacking in appreciation.", "S": [], "A": []}

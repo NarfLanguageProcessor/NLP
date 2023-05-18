@@ -1,0 +1,1 @@
+{"index": 251130, "D": "an economic system in which investment in and ownership of the means of production, distribution, and exchange of wealth is made and maintained chiefly by private individuals or corporations, especially as contrasted to cooperatively or state-owned means of wealth.", "S": [], "A": []}

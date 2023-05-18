@@ -1,0 +1,1 @@
+{"index": 188665, "D": "hatred, dislike, or distrust of humankind.", "S": ["bitterness ", "distrust ", "doubt ", "pessimism ", "sarcasm "], "A": ["belief ", "certainty ", "confidence ", "faith ", "trust "]}

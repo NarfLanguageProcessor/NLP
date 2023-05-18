@@ -1,0 +1,1 @@
+{"index": 101361, "D": "to hold the attention of pleasantly or agreeably; divert; amuse.", "S": ["honored "], "A": ["bored ", "depressed ", "ignored ", "irritated ", "neglected ", "spurned "]}

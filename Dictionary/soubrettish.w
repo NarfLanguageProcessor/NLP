@@ -1,0 +1,1 @@
+{"index": 297777, "D": "a maidservant or lady's maid in a play, opera, or the like, especially one displaying coquetry, pertness, and a tendency to engage in intrigue.", "S": [], "A": []}

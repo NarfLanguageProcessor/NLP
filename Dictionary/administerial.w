@@ -1,0 +1,1 @@
+{"index": 4138, "D": "of or concerned with administration; administrative", "S": [], "A": []}

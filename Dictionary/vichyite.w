@@ -1,0 +1,1 @@
+{"index": 359397, "D": "a member or adherent of the government established 1940 at Vichy  by Marshal Henri P\u00e9tain.", "S": [], "A": []}

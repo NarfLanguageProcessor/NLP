@@ -1,0 +1,1 @@
+{"index": 10148, "D": "of, relating to, or capable of walking", "S": ["itinerant ", "peripatetic ", "roving ", "vagabond ", "vagrant "], "A": ["settled "]}

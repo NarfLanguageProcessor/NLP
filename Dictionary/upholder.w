@@ -1,0 +1,1 @@
+{"index": 354754, "D": "to support or defend, as against opposition or criticism", "S": ["backer ", "campaigner ", "defender ", "lawyer ", "promoter ", "proponent ", "supporter "], "A": ["opponent "]}

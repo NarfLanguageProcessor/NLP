@@ -1,0 +1,1 @@
+{"index": 312567, "D": "to write (words, letters, one's name, address, etc.) above or on something.", "S": ["forward ", "send "], "A": ["hold ", "keep ", "receive ", "retain "]}

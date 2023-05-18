@@ -1,0 +1,1 @@
+{"index": 119426, "D": "characterized by or producing frost;  freezing; very cold", "S": ["chilly ", "frigid ", "glacial ", "icy ", "wintry "], "A": ["amicable ", "friendly ", "hot ", "responsive ", "warm "]}

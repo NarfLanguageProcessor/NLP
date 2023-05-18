@@ -1,0 +1,1 @@
+{"index": 161876, "D": "a daily record, as of occurrences, experiences, or observations", "S": [], "A": []}

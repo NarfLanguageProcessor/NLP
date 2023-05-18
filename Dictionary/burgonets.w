@@ -1,0 +1,1 @@
+{"index": 43112, "D": "an open helmet, usually having a peak and hinged cheek pieces, and often accompanied by a buffe.", "S": [], "A": []}

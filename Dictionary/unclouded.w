@@ -1,0 +1,1 @@
+{"index": 337101, "D": "confused; muddled; disordered", "S": ["clarion ", "cloudless ", "crystal ", "fair ", "fine ", "halcyon ", "light ", "luminous ", "pleasant ", "rainless ", "shining ", "shiny ", "sunny ", "sunshiny ", "undarkened ", "undimmed "], "A": []}

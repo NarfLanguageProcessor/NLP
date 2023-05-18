@@ -1,0 +1,1 @@
+{"index": 344650, "D": "to remove (a software program) from a computer or computer system.", "S": [], "A": []}

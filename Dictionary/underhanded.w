@@ -1,0 +1,1 @@
+{"index": 339313, "D": "not open and aboveboard; secret and crafty or dishonorable", "S": ["cheating ", "deceitful ", "devious ", "dishonest ", "sneaky "], "A": ["aboveboard ", "frank ", "honest ", "open ", "trustworthy ", "truthful "]}

@@ -1,0 +1,1 @@
+{"index": 6124, "D": "formed by the conjunction or collection of particulars into a whole mass or sum; total; combined", "S": ["completing ", "computing ", "concluding ", "constituting ", "producing ", "reckoning ", "summing "], "A": []}

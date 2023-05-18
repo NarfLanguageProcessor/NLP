@@ -1,0 +1,1 @@
+{"index": 62309, "D": "having the ability to know or discover", "S": [], "A": []}

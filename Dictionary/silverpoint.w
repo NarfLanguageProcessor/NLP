@@ -1,0 +1,1 @@
+{"index": 290657, "D": "a technique of drawing with a silver  stylus on specially prepared paper.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 317335, "D": "arrangement or order, as in one of the physical sciences.", "S": ["auto ", "bus ", "convertible ", "limousine ", "passenger car ", "pickup truck ", "sports car ", "station wagon ", "transportation ", "truck ", "van "], "A": []}

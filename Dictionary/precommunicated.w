@@ -1,0 +1,1 @@
+{"index": 246273, "D": "to impart knowledge of; make known", "S": [], "A": []}

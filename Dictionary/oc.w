@@ -1,0 +1,1 @@
+{"index": 210631, "D": "variant of ob-  (by assimilation) before c", "S": [], "A": []}

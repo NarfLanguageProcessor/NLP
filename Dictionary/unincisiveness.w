@@ -1,0 +1,1 @@
+{"index": 344415, "D": "penetrating; cutting; biting; trenchant", "S": [], "A": []}

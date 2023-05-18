@@ -1,0 +1,1 @@
+{"index": 341182, "D": "to send forth (liquid, light, heat, sound, particles, etc.); discharge.", "S": [], "A": []}

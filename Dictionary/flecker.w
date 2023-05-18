@@ -1,0 +1,1 @@
+{"index": 114318, "D": "James Elroy . 1884\u20131915, English poet and dramatist; author of Hassan (1922)", "S": [], "A": []}

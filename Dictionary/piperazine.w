@@ -1,0 +1,1 @@
+{"index": 237429, "D": "a colorless, crystalline, deliquescent ring compound, C4H10N2, prepared by the reaction of ethylene bromide or ethylene chloride with ammonia", "S": [], "A": []}

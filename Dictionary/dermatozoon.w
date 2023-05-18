@@ -1,0 +1,1 @@
+{"index": 82219, "D": "any microscopic animal or protozoan living as a parasite on or in the skin of the host.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1057, "D": "sparing or moderate in eating and drinking; temperate in diet.", "S": ["teetotally "], "A": ["cheerfully ", "drunkenly ", "excitedly ", "hilariously "]}

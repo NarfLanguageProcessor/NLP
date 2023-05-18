@@ -1,0 +1,1 @@
+{"index": 18595, "D": "any of several groups of RNA-containing viruses that are transmitted by bloodsucking arthropods, as ticks, fleas, or mosquitoes, and may cause encephalitis, yellow fever, or dengue fever.", "S": [], "A": []}

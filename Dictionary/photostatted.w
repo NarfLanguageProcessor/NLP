@@ -1,0 +1,1 @@
+{"index": 235401, "D": "a camera for making facsimile copies of documents, drawings, etc., in the form of paper negatives on which the positions of lines, objects, etc., in the originals are maintained.", "S": ["capture ", "illustrate ", "print ", "reproduce ", "shoot "], "A": ["fail ", "lose ", "misunderstand "]}

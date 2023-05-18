@@ -1,0 +1,1 @@
+{"index": 296911, "D": "of or designating an Upper Paleolithic European culture c18,000\u201316,000 b.c., characterized by the making of stone projectile points and low-relief stone sculptures.", "S": [], "A": []}

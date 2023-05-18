@@ -1,0 +1,1 @@
+{"index": 276993, "D": "a man who sells goods, services, etc.", "S": ["agent ", "clerk ", "dealer ", "marketer ", "merchant ", "peddler ", "retailer ", "salesperson ", "saleswoman ", "shopkeeper ", "trader ", "vendor "], "A": ["customer "]}

@@ -1,0 +1,1 @@
+{"index": 354810, "D": "a person or thing that uplifts. ", "S": [], "A": []}

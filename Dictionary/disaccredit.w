@@ -1,0 +1,1 @@
+{"index": 86893, "D": "to take away the accreditation or authorization of", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 296208, "D": "of, relating to, or signifying the combination or interaction of religious  and social factors.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114516, "D": "the quality or condition of being flexuous.", "S": [], "A": []}

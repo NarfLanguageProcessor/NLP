@@ -1,0 +1,1 @@
+{"index": 57090, "D": "any complete round or series of occurrences that repeats or is repeated.", "S": ["course ", "period ", "revolution ", "rhythm ", "round ", "series "], "A": []}

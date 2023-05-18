@@ -1,0 +1,1 @@
+{"index": 2800, "D": "owning many acres  of land; landed.", "S": [], "A": []}

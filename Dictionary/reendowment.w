@@ -1,0 +1,1 @@
+{"index": 264714, "D": "the act of endowing. ", "S": [], "A": []}

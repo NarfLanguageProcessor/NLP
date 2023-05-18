@@ -1,0 +1,1 @@
+{"index": 122166, "D": "U.S. financier and lawyer.", "S": [], "A": []}

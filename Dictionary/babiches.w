@@ -1,0 +1,1 @@
+{"index": 25507, "D": "(in the Pacific Northwest) cord, thread, or lacings made of rawhide, gut, or sinew, especially for making snowshoes.", "S": [], "A": []}

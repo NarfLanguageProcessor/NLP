@@ -1,0 +1,1 @@
+{"index": 278823, "D": "the province or jurisdiction of a satrap.", "S": [], "A": []}

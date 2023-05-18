@@ -1,0 +1,1 @@
+{"index": 238284, "D": "a mine entrance and the surrounding area.", "S": [], "A": []}

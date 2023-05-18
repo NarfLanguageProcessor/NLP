@@ -1,0 +1,1 @@
+{"index": 122110, "D": "the act of cultivating or tending a garden. ", "S": ["cultivation ", "landscaping ", "planting "], "A": []}

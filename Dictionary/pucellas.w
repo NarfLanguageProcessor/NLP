@@ -1,0 +1,1 @@
+{"index": 255966, "D": "a tool resembling tongs or shears for handling and shaping molten glass.", "S": [], "A": []}

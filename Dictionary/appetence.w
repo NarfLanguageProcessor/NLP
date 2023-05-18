@@ -1,0 +1,1 @@
+{"index": 17730, "D": "intense desire; strong natural craving; appetite.", "S": ["appetency ", "appetite ", "craving ", "drive ", "hunger ", "liking ", "longing ", "lust ", "penchant ", "pining ", "thirst ", "urge ", "wish ", "yearning "], "A": ["disgust ", "dislike ", "distaste ", "hate ", "hatred ", "indifference "]}

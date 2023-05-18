@@ -1,0 +1,1 @@
+{"index": 280224, "D": "reproducing or formed by fission.", "S": [], "A": []}

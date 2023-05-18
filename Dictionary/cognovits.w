@@ -1,0 +1,1 @@
+{"index": 62311, "D": "an acknowledgment or confession by a defendant that the plaintiff's cause, or part of it, is just, wherefore the defendant, to save expense, permits judgment to be entered without trial.", "S": [], "A": []}

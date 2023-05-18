@@ -1,0 +1,1 @@
+{"index": 104858, "D": "(of certain Mediterranean winds) occurring annually.", "S": [], "A": []}

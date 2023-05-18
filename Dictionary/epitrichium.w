@@ -1,0 +1,1 @@
+{"index": 103030, "D": "the outermost layer of the epidermis in most mammalian fetuses, usually disappearing before birth.", "S": [], "A": []}

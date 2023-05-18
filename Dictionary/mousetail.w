@@ -1,0 +1,1 @@
+{"index": 194300, "D": "any of various N temperate ranunculaceous plants of the genus Myosurus, esp M. minimus, with tail-like flower spikes", "S": [], "A": []}

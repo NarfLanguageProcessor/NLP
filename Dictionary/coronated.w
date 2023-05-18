@@ -1,0 +1,1 @@
+{"index": 69450, "D": "having or wearing a crown, coronet,  or the like.", "S": ["inaugurate ", "induct "], "A": ["dishonor "]}

@@ -1,0 +1,1 @@
+{"index": 297715, "D": "indifferent; neither very good nor very bad.", "S": ["transitional "], "A": ["abnormal ", "biased ", "exceptional ", "exterior ", "extraordinary ", "extreme ", "noble ", "outside ", "partial ", "peripheral ", "prejudiced ", "unreasonable ", "unusual "]}

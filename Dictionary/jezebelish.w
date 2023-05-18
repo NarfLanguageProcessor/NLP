@@ -1,0 +1,1 @@
+{"index": 161132, "D": "the wife of Ahab, king of Israel. 1 Kings 16", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 168179, "D": "ungracefully thin and rawboned; bony; gaunt", "S": ["angular ", "gangly ", "gaunt ", "rangy ", "scrawny ", "slender ", "spindly "], "A": ["chubby ", "fat ", "plump ", "thick "]}

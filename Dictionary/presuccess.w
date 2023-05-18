@@ -1,0 +1,1 @@
+{"index": 249725, "D": "the favorable or prosperous termination of attempts or endeavors; the accomplishment of one's goals.", "S": [], "A": []}

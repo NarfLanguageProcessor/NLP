@@ -1,0 +1,1 @@
+{"index": 239252, "D": "any of a group of synthetic or natural organic materials that may be shaped when soft and then hardened, including many types of resins, resinoids, polymers, cellulose derivatives, casein materials, and proteins", "S": [], "A": []}

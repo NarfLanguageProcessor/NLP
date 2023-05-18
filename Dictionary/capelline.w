@@ -1,0 +1,1 @@
+{"index": 46805, "D": "an iron skullcap worn by medieval archers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 278163, "D": "producing or imparting flavor or taste.", "S": ["acceptable ", "agreeable ", "appetizing ", "attractive ", "delicious ", "enjoyable ", "pleasant ", "satisfactory ", "tempting "], "A": ["disagreeable ", "repulsive ", "unacceptable ", "unattractive ", "unpleasant ", "unsatisfactory "]}

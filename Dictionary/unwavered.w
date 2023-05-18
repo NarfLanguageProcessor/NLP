@@ -1,0 +1,1 @@
+{"index": 354087, "D": "to sway to and fro; flutter", "S": [], "A": []}

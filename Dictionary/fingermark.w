@@ -1,0 +1,1 @@
+{"index": 112963, "D": "a mark, especially a smudge or stain, made by a finger.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175204, "D": "long-handled pruning shears.", "S": ["congeal ", "curdle ", "thicken "], "A": ["melt ", "thin "]}

@@ -1,0 +1,1 @@
+{"index": 158197, "D": "incapable of being recovered or regained", "S": ["despondent ", "forlorn ", "futile ", "sad ", "vain "], "A": ["cheerful ", "happy ", "hopeful ", "joyful "]}

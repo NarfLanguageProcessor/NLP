@@ -1,0 +1,1 @@
+{"index": 289062, "D": "a brief fall of rain or, sometimes, of hail or snow.", "S": ["cleansed "], "A": ["dirty ", "soiled "]}

@@ -1,0 +1,1 @@
+{"index": 184879, "D": "metaphysics.", "S": [], "A": []}

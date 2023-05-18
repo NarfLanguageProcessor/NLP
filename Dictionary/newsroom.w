@@ -1,0 +1,1 @@
+{"index": 199477, "D": "a room in the offices of a newspaper, news service, or broadcasting organization in which the news is processed.", "S": [], "A": []}

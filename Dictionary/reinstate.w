@@ -1,0 +1,1 @@
+{"index": 266392, "D": "to put back or establish again, as in a former position or state", "S": ["bring back ", "reelect ", "reestablish ", "reintroduce ", "renew ", "replace ", "restore ", "revive "], "A": ["destroy ", "kill "]}

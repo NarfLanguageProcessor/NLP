@@ -1,0 +1,1 @@
+{"index": 62654, "D": "any Old World plant of the genus Colchicum, of the lily family, especially the autumn crocus, C. autumnale.", "S": [], "A": []}

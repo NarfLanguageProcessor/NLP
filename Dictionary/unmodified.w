@@ -1,0 +1,1 @@
+{"index": 346505, "D": "to change somewhat the form or qualities of; alter partially; amend", "S": ["blunt ", "frank ", "free ", "plain ", "vocal "], "A": ["deceitful ", "dishonest ", "inadequate ", "incomplete ", "indirect ", "lacking ", "low ", "small ", "soft ", "tiny ", "unfinished ", "weak "]}

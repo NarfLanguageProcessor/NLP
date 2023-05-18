@@ -1,0 +1,1 @@
+{"index": 304751, "D": "having the form of a stipe.", "S": [], "A": []}

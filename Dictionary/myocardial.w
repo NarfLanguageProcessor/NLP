@@ -1,0 +1,1 @@
+{"index": 188093, "D": "of or relating to the muscular tissue of the heart", "S": [], "A": []}

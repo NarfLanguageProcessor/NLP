@@ -1,0 +1,1 @@
+{"index": 245781, "D": "a positive declaration intended to give confidence", "S": [], "A": []}

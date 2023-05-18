@@ -1,0 +1,1 @@
+{"index": 294507, "D": "intravascular slowing or clumping of red blood cells.", "S": [], "A": []}

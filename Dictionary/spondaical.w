@@ -1,0 +1,1 @@
+{"index": 300695, "D": "of or relating to a spondee. ", "S": [], "A": []}

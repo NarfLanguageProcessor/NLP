@@ -1,0 +1,1 @@
+{"index": 201554, "D": "exhibiting or affected with atrophy;  wasted; withered; shriveled", "S": [], "A": []}

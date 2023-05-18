@@ -1,0 +1,1 @@
+{"index": 57001, "D": "any of several palmlike Old World tropical plants of the genus Cycas, some species of which are cultivated as ornamentals in warm climates.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239549, "D": "a military unit consisting of two or more squads or sections and a headquarters.", "S": [], "A": []}

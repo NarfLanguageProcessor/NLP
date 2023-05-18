@@ -1,0 +1,1 @@
+{"index": 200180, "D": [], "S": ["eighteen holes ", "medal play "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53312, "D": "to stop or arrest the motion of suddenly or forcibly", "S": ["analysis ", "audit ", "checkup ", "control ", "inquiry ", "investigation ", "research ", "review ", "test "], "A": []}

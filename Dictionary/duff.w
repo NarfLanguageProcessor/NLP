@@ -1,0 +1,1 @@
+{"index": 93880, "D": "the buttocks or rump", "S": ["ass ", "backside ", "behind ", "buns ", "butt ", "buttocks ", "cheeks ", "derriere ", "fanny ", "keister ", "posterior ", "seat "], "A": []}

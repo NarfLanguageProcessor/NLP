@@ -1,0 +1,1 @@
+{"index": 168991, "D": "Compare Hispanic (def. 3). ", "S": [], "A": []}

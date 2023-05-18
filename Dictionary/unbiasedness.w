@@ -1,0 +1,1 @@
+{"index": 335874, "D": [], "S": ["equity ", "honesty ", "impartiality ", "justice ", "justness ", "nonpartisanship ", "objectiveness ", "objectivity ", "righteousness ", "rightfulness ", "rightness "], "A": ["partiality ", "unfairness "]}

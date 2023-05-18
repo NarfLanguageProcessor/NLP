@@ -1,0 +1,1 @@
+{"index": 335547, "D": "bewildered or perplexed; puzzled", "S": [], "A": []}

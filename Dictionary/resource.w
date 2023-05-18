@@ -1,0 +1,1 @@
+{"index": 269662, "D": "a source of supply, support, or aid, especially one that can be readily drawn upon when needed.", "S": ["ability ", "capability ", "capital ", "means ", "property ", "reserve ", "source ", "support ", "system ", "talent ", "wealth "], "A": ["impotence ", "inability ", "incompetence ", "lack ", "weakness ", "debt ", "ignorance ", "permanent ", "poverty "]}

@@ -1,0 +1,1 @@
+{"index": 179828, "D": "someone who travels around plundering or pillaging", "S": ["bandit ", "looter ", "robber "], "A": []}

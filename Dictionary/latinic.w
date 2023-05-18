@@ -1,0 +1,1 @@
+{"index": 168974, "D": "of or relating to the Latin language or the ancient Latin-speaking peoples.", "S": [], "A": []}

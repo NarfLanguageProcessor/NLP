@@ -1,0 +1,1 @@
+{"index": 253876, "D": "the original or model on which something is based or formed.", "S": [], "A": []}

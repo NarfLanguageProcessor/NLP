@@ -1,0 +1,1 @@
+{"index": 48163, "D": "a mountain range in northwestern Israel, near the Mediterranean coast. Highest point, 1,818 feet (554 meters). 14 miles (23 kilometers) long.", "S": [], "A": []}

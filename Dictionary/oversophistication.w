@@ -1,0 +1,1 @@
+{"index": 221234, "D": "sophisticated  character, ideas, tastes, or ways as the result of education, worldly experience, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 316535, "D": "late;  behind time; not on time", "S": ["belated ", "delayed ", "delinquent ", "overdue ", "sluggish "], "A": ["early "]}

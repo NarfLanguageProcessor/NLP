@@ -1,0 +1,1 @@
+{"index": 211903, "D": "a soft, unctuous preparation, often medicated, for application to the skin; unguent.", "S": ["balm ", "lotion ", "salve "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45828, "D": "the practices and principles of the Disciples of Christ.", "S": [], "A": []}

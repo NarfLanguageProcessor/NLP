@@ -1,0 +1,1 @@
+{"index": 102097, "D": "a Hebrew unit of dry measure, equal to about a bushel (35 liters).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202996, "D": "the doctrine that all facts and events exemplify natural laws.", "S": [], "A": []}

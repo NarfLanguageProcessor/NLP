@@ -1,0 +1,1 @@
+{"index": 275820, "D": "yellowish brown, light brown, or reddish brown.", "S": [], "A": []}

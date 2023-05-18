@@ -1,0 +1,1 @@
+{"index": 50043, "D": [], "S": ["chain reaction ", "impact ", "outcome "], "A": ["cause ", "origin ", "source ", "start "]}

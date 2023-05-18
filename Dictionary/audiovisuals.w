@@ -1,0 +1,1 @@
+{"index": 23314, "D": "of, pertaining to, involving, or directed at both hearing and sight", "S": [], "A": []}

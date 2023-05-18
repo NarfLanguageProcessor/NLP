@@ -1,0 +1,1 @@
+{"index": 194521, "D": "of or derived from mucic acid.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 59852, "D": "(in the ancient world) a special type of Athenian colony, in which settlers (cleruchs) retained their Athenian citizenship and the community remained a political dependency of Athens", "S": [], "A": []}

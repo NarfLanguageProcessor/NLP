@@ -1,0 +1,1 @@
+{"index": 329708, "D": "a copper coin of ancient Rome, issued during the Republic, a third part of an as.", "S": [], "A": []}

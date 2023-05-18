@@ -1,0 +1,1 @@
+{"index": 96746, "D": "the reciprocal of capacitance.", "S": [], "A": []}

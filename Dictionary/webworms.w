@@ -1,0 +1,1 @@
+{"index": 363685, "D": "the larva of any of several moths, as Hyphantria cunea(fall webworm ) or Loxostege similalis(garden webworm ), which spins a web  over the foliage on which it feeds.", "S": [], "A": []}

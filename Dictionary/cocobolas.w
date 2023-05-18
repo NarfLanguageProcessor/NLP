@@ -1,0 +1,1 @@
+{"index": 61608, "D": "the hard, durable wood of any of several tropical trees of the genus Dalbergia, of the legume family, used for making furniture.", "S": [], "A": []}

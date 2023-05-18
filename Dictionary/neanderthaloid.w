@@ -1,0 +1,1 @@
+{"index": 197587, "D": "resembling or characteristic of the physical type of Neanderthal man. ", "S": [], "A": []}

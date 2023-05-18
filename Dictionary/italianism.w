@@ -1,0 +1,1 @@
+{"index": 159446, "D": "an Italian  practice, trait, or idiom.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149778, "D": "something that incites or tends to incite to action or greater effort, as a reward offered for increased productivity.", "S": ["encouragement ", "enticement ", "impetus ", "motivation ", "reason ", "stimulus "], "A": ["discouragement ", "hindrance ", "deterrent ", "dislike ", "prevention "]}

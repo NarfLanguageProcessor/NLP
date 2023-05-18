@@ -1,0 +1,1 @@
+{"index": 246037, "D": "the formal activities conducted on some solemn or important public or state occasion", "S": [], "A": []}

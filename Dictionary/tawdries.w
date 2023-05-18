@@ -1,0 +1,1 @@
+{"index": 317229, "D": "(of finery, trappings, etc.) gaudy; showy and cheap.", "S": [], "A": []}

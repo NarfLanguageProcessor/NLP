@@ -1,0 +1,1 @@
+{"index": 33972, "D": "a branch of a river flowing away from the main stream but leading to no other body of water; a blind or dead-end channel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78703, "D": "characterized by dignified propriety in conduct, manners, appearance, character, etc.", "S": ["accurately ", "justly ", "nicely ", "perfectly ", "precisely ", "properly ", "rightly "], "A": ["unjustly ", "wrongly "]}

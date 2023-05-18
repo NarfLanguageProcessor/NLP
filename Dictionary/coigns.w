@@ -1,0 +1,1 @@
+{"index": 62453, "D": "an external solid angle of a wall or the like.", "S": [], "A": []}

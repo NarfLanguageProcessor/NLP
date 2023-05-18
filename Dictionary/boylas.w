@@ -1,0 +1,1 @@
+{"index": 37427, "D": "a witch doctor; sorcerer.", "S": [], "A": []}

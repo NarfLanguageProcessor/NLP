@@ -1,0 +1,1 @@
+{"index": 237176, "D": "moving by means of finlike parts or flippers, as the seals and walruses.", "S": [], "A": []}

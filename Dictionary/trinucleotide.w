@@ -1,0 +1,1 @@
+{"index": 330195, "D": "three linked nucleotides;  triplet.", "S": [], "A": []}

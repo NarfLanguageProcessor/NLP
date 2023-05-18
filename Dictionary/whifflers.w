@@ -1,0 +1,1 @@
+{"index": 364762, "D": "a person who frequently shifts opinions, attitudes, interests, etc.", "S": [], "A": []}

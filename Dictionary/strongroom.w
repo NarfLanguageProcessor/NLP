@@ -1,0 +1,1 @@
+{"index": 306549, "D": "a fireproof, burglarproof room  in which valuables are kept.", "S": ["bank vault ", "personal vault ", "safe ", "safe-deposit vault ", "safety-deposit box "], "A": []}

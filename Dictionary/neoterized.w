@@ -1,0 +1,1 @@
+{"index": 198490, "D": "to coin new words, terms, or expressions; neologize.", "S": [], "A": []}

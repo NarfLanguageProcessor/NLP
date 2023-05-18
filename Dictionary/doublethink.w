@@ -1,0 +1,1 @@
+{"index": 91977, "D": "the acceptance of two contradictory ideas or beliefs at the same time.", "S": [], "A": []}

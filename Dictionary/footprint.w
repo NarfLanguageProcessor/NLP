@@ -1,0 +1,1 @@
+{"index": 116232, "D": "a mark left by the shod or unshod foot, as in earth or sand.", "S": ["footstep ", "impression ", "imprint "], "A": []}

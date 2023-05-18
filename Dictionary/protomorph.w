@@ -1,0 +1,1 @@
+{"index": 253739, "D": "having a primitive character or structure.", "S": [], "A": []}

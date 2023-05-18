@@ -1,0 +1,1 @@
+{"index": 54695, "D": "any of several small, striped, terrestrial squirrels of the genera Tamias, of North America, and Eutamia, of Asia and North America, especially T. striatus, of eastern North America.", "S": [], "A": []}

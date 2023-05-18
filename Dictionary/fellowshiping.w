@@ -1,0 +1,1 @@
+{"index": 111067, "D": "the condition or relation of being a companion or peer", "S": [], "A": []}

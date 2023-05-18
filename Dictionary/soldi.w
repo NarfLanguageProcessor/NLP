@@ -1,0 +1,1 @@
+{"index": 296557, "D": "a former copper coin of Italy, the twentieth part of a lira, equal to five centesimi.", "S": [], "A": []}

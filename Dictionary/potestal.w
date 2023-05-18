@@ -1,0 +1,1 @@
+{"index": 244691, "D": "the authority of a paterfamilias over all members of his family and household.", "S": [], "A": []}

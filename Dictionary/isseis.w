@@ -1,0 +1,1 @@
+{"index": 159372, "D": "a Japanese person who immigrated to the U.S. or Canada after 1907 and was not eligible until 1952 for citizenship.", "S": [], "A": []}

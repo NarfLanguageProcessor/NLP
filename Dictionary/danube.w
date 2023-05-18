@@ -1,0 +1,1 @@
+{"index": 76834, "D": "a river in central and SE Europe, flowing E from southern Germany to the Black Sea. 1,725 miles (2,775 km) long.", "S": [], "A": []}

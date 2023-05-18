@@ -1,0 +1,1 @@
+{"index": 11850, "D": "the pineapple or a related tropical American bromeliaceous plant, the pinguin, that has an edible plum-shaped fruit", "S": [], "A": []}

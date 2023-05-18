@@ -1,0 +1,1 @@
+{"index": 295688, "D": "a person who snoops", "S": ["busybody ", "detective ", "eavesdropper ", "ferret ", "gumshoe ", "meddler ", "quidnunc ", "scout ", "sleuth "], "A": []}

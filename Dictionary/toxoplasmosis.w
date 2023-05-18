@@ -1,0 +1,1 @@
+{"index": 326971, "D": "infection with the parasite Toxoplasma gondii, transmitted to humans by consumption of insufficiently cooked meat containing the parasite or by contact with contaminated cats or their feces", "S": [], "A": []}

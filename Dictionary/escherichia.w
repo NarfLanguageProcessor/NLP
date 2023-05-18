@@ -1,0 +1,1 @@
+{"index": 104193, "D": "a genus of Gram-negative rodlike bacteria that are found in the intestines of humans and many animals, esp E. coli, which is sometimes pathogenic and is widely used in genetic research", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35084, "D": "a tetrahedral form, each edge of which is bisected by the perpendicular bisecting the edge that does not intersect it.", "S": [], "A": []}

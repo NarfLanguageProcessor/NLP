@@ -1,0 +1,1 @@
+{"index": 51518, "D": "a durable, heat-resistant alloy formed by compacting and sintering a metal  and a ceramic  substance, used under conditions of high temperature and stress.", "S": [], "A": []}

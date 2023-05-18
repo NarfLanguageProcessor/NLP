@@ -1,0 +1,1 @@
+{"index": 266913, "D": "to ease or alleviate (pain, distress, anxiety, need, etc.).", "S": [], "A": []}

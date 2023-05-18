@@ -1,0 +1,1 @@
+{"index": 149729, "D": "the act of encasing. ", "S": [], "A": []}

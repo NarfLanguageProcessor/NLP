@@ -1,0 +1,1 @@
+{"index": 108750, "D": "the consideration and observation of things external to the self; examination and study of externals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124683, "D": "(of a heavenly body) convex at both edges, as the moon when more than half full.", "S": [], "A": []}

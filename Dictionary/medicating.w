@@ -1,0 +1,1 @@
+{"index": 182085, "D": "to treat with medicine  or medicaments.", "S": ["medicinal ", "pharmaceutical ", "preventive ", "therapeutic "], "A": []}

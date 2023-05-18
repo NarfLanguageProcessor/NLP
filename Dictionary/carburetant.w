@@ -1,0 +1,1 @@
+{"index": 47599, "D": "any substance for carbureting  air or a gas.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107168, "D": "exhilarated  condition or feeling.", "S": ["elation ", "euphoria ", "high spirits ", "hilarity ", "joy "], "A": ["depression ", "sadness ", "sorrow ", "unhappiness ", "woe ", "discouragement ", "misery "]}

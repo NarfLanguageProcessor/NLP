@@ -1,0 +1,1 @@
+{"index": 94809, "D": "firmly set in or attached to the earth. ", "S": ["secular "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 244250, "D": "a person who has received a license, as from a university, to practice an art or profession.", "S": [], "A": []}

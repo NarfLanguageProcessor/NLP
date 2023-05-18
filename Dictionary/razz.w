@@ -1,0 +1,1 @@
+{"index": 261370, "D": "to deride; make fun of; tease.", "S": ["banter ", "chaff ", "heckle ", "jest ", "joke ", "kid ", "needle ", "rib ", "ridicule ", "taunt ", "tease "], "A": ["praise "]}

@@ -1,0 +1,1 @@
+{"index": 252589, "D": "a natural inclination or tendency", "S": ["bias ", "disposition ", "leaning ", "penchant ", "predilection ", "predisposition ", "proclivity ", "susceptibility ", "tendency "], "A": ["disinclination ", "dislike ", "hate ", "hatred ", "impotence ", "inability ", "inadequacy ", "incompetence ", "weakness "]}

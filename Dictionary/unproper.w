@@ -1,0 +1,1 @@
+{"index": 348633, "D": "adapted or appropriate to the purpose or circumstances; fit; suitable", "S": [], "A": []}

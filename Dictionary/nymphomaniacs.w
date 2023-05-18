@@ -1,0 +1,1 @@
+{"index": 200151, "D": "a woman who has abnormally excessive and uncontrollable sexual desire.", "S": ["concubine ", "courtesan ", "floozy ", "hooker ", "hussy ", "slut ", "streetwalker ", "strumpet ", "tramp ", "whore "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118345, "D": "speaking French, especially as a member of a French-speaking population.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303970, "D": "(of a reaction) producing a simple stereoisomer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1514, "D": "easy to approach, reach, enter, speak with, or use.", "S": ["available ", "handy ", "reachable ", "usable "], "A": ["unhandy ", "useless "]}

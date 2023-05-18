@@ -1,0 +1,1 @@
+{"index": 180518, "D": "a cocktail made with gin or vodka and dry vermouth, usually served with a green olive or a twist of lemon peel.", "S": [], "A": []}

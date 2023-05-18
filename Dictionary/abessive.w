@@ -1,0 +1,1 @@
+{"index": 367, "D": "noting a case, as in Finnish, whose distinctive function is to indicate absence or lack.", "S": [], "A": []}

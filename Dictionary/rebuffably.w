@@ -1,0 +1,1 @@
+{"index": 262448, "D": "a blunt or abrupt rejection, as of a person making advances.", "S": [], "A": []}

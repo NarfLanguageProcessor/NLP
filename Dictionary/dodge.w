@@ -1,0 +1,1 @@
+{"index": 90778, "D": "to elude or evade by a sudden shift of position or by strategy", "S": ["contrivance ", "device ", "machination ", "method ", "plan ", "plot ", "ploy ", "ruse ", "scheme ", "stratagem ", "strategy ", "subterfuge ", "wile "], "A": []}

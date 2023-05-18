@@ -1,0 +1,1 @@
+{"index": 292497, "D": "an effeminate boy or man.", "S": ["baby ", "chicken ", "coward ", "crybaby ", "jellyfish ", "milksop ", "namby-pamby ", "pansy ", "pantywaist ", "pushover ", "wimp ", "wuss "], "A": []}

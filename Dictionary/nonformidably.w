@@ -1,0 +1,1 @@
+{"index": 204153, "D": "causing fear, apprehension, or dread", "S": [], "A": []}

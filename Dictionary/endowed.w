@@ -1,0 +1,1 @@
+{"index": 100054, "D": "supported by a permanent fund or source of income", "S": ["blessed ", "enriched ", "equipped ", "graced ", "supplied "], "A": []}

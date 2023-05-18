@@ -1,0 +1,1 @@
+{"index": 364543, "D": "a helmsperson or steersperson.", "S": ["pilot "], "A": []}

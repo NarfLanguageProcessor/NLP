@@ -1,0 +1,1 @@
+{"index": 227137, "D": "inducing or accelerating labor, or childbirth; oxytocic.", "S": [], "A": []}

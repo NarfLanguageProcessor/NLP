@@ -1,0 +1,1 @@
+{"index": 225537, "D": "having the nature of a paradox;  self-contradictory.", "S": [], "A": []}

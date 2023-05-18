@@ -1,0 +1,1 @@
+{"index": 104730, "D": "to turn away in feeling or affection; make unfriendly or hostile; alienate the affections of", "S": [], "A": []}

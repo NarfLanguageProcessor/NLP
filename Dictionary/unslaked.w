@@ -1,0 +1,1 @@
+{"index": 351318, "D": "to allay (thirst, desire, wrath, etc.) by satisfying.", "S": ["balked ", "crabbed ", "cramped ", "crimped ", "defeated ", "discontented ", "discouraged ", "disheartened ", "embittered ", "foiled ", "irked ", "stonewalled ", "stymied "], "A": ["encourage ", "fulfilled ", "inspirited ", "stimulated ", "uplifted "]}

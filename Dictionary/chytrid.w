@@ -1,0 +1,1 @@
+{"index": 54919, "D": "any of the simple, algaelike fungi constituting the class Chytridiomycetes, order Chytridiales, of aquatic and soil environments, having flagellated zoospores and little or no mycelium.", "S": [], "A": []}

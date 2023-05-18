@@ -1,0 +1,1 @@
+{"index": 227613, "D": "the flat, movable bone at the front of the knee; kneecap.", "S": [], "A": []}

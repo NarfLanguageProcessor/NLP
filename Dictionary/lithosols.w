@@ -1,0 +1,1 @@
+{"index": 173772, "D": "a group of shallow soils lacking well-defined horizons, especially an entisol consisting of partially weathered rock fragments, usually on steep slopes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342385, "D": "capable of being bent, usually without breaking; easily bent", "S": ["arthritic ", "creaky ", "rigid ", "solid ", "stark ", "tense ", "thick ", "tight ", "wooden "], "A": ["bending ", "flexible ", "loose ", "pliable ", "slack ", "soft ", "indefinite ", "supple "]}

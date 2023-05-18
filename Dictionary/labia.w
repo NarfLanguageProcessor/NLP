@@ -1,0 +1,1 @@
+{"index": 166632, "D": "plural of labium. ", "S": ["rim "], "A": ["center ", "interior ", "middle "]}

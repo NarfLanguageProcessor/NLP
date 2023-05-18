@@ -1,0 +1,1 @@
+{"index": 324012, "D": "very small; minute; wee.", "S": ["bottom ", "first ", "gutter ", "infinitesimal ", "last ", "minimum ", "minute ", "nadir ", "second ", "third "], "A": ["big ", "huge ", "large ", "substantial "]}

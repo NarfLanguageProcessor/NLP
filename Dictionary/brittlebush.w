@@ -1,0 +1,1 @@
+{"index": 41014, "D": "any of several composite plants of the genus Encelia, of desert regions of the southwestern U.S. and Mexico, having alternate leaves and yellow ray flowers with a yellow or purple center.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367449, "D": "clever or subtle repartee; verbal wit.", "S": ["acronym ", "cipher ", "composition ", "phrase "], "A": []}

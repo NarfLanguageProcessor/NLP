@@ -1,0 +1,1 @@
+{"index": 68538, "D": "large in quantity or number; abundant; plentiful", "S": ["ample ", "extensive "], "A": ["lacking ", "meager ", "needing ", "needy ", "poor ", "rare ", "scarce ", "wanting "]}

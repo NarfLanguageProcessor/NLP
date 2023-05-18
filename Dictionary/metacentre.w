@@ -1,0 +1,1 @@
+{"index": 184587, "D": "the intersection of a vertical line through the centre of buoyancy of a floating body at equilibrium with the formerly vertical line through the centre of gravity of the body when the body is tilted", "S": [], "A": []}

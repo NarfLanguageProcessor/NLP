@@ -1,0 +1,1 @@
+{"index": 113277, "D": "a microprogram stored in ROM, designed to implement a function that had previously been provided in software. ", "S": [], "A": []}

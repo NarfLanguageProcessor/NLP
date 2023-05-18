@@ -1,0 +1,1 @@
+{"index": 205554, "D": "absence or lack of observance. ", "S": [], "A": []}

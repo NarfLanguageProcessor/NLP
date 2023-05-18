@@ -1,0 +1,1 @@
+{"index": 149213, "D": "to compose and perform or deliver without previous preparation; extemporize", "S": [], "A": []}

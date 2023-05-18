@@ -1,0 +1,1 @@
+{"index": 10175, "D": "an act or instance of lying concealed so as to attack by surprise", "S": [], "A": []}

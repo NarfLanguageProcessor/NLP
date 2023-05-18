@@ -1,0 +1,1 @@
+{"index": 153954, "D": "a person who institutes or founds.", "S": ["architect ", "author ", "benefactor ", "builder ", "creator ", "designer ", "inventor ", "organizer ", "patron ", "planner "], "A": ["opponent "]}

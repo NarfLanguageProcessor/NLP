@@ -1,0 +1,1 @@
+{"index": 104261, "D": "a coin and monetary unit of Cape Verde, equal to 100 centavos.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223583, "D": "a technique for observing the position of the tongue in relation to the palate during articulation, especially by placing powder or dye on the palate and then noting the area from which it has been removed by the contact of the tongue with the palate during the production of a speech sound.", "S": [], "A": []}

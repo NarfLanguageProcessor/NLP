@@ -1,0 +1,1 @@
+{"index": 258254, "D": "the state, dignity, or rank of a queen. ", "S": [], "A": []}

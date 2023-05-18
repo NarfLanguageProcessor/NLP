@@ -1,0 +1,1 @@
+{"index": 325244, "D": "Spanish administrator", "S": ["blade ", "dagger ", "saber "], "A": []}

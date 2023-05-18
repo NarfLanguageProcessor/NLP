@@ -1,0 +1,1 @@
+{"index": 46376, "D": "a biologically active resin extracted from Indian hemp.", "S": [], "A": []}

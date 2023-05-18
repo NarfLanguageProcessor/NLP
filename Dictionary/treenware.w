@@ -1,0 +1,1 @@
+{"index": 328792, "D": "household utensils, dishes, etc., made entirely of wood.", "S": [], "A": []}

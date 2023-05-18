@@ -1,0 +1,1 @@
+{"index": 342096, "D": "clothed, covered, or provided with feathers,  as a bird or an arrow.", "S": [], "A": []}

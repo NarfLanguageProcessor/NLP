@@ -1,0 +1,1 @@
+{"index": 172953, "D": "a person who plays golf; golfer.", "S": [], "A": []}

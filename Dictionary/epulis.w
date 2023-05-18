@@ -1,0 +1,1 @@
+{"index": 103137, "D": "a swelling of the gum, usually as a result of fibrous hyperplasia", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247006, "D": "to make known; reveal or uncover", "S": [], "A": []}

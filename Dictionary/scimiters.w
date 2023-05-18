@@ -1,0 +1,1 @@
+{"index": 280696, "D": "a curved, single-edged sword of Asian, especially Eastern origin.", "S": ["blade ", "dagger ", "saber "], "A": []}

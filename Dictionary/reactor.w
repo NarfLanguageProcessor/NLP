@@ -1,0 +1,1 @@
+{"index": 261544, "D": "a person or thing that reacts  or undergoes reaction. ", "S": ["activator ", "catalyst "], "A": []}

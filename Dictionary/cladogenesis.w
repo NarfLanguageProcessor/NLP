@@ -1,0 +1,1 @@
+{"index": 59015, "D": "evolutionary change by the branching off of new species from common ancestral types.", "S": [], "A": []}

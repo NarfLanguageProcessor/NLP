@@ -1,0 +1,1 @@
+{"index": 27386, "D": "an additional tuning control in some radio receivers whereby a selected narrow band of frequencies can be spread over a wider frequency band, in order to give finer control of tuning", "S": [], "A": []}

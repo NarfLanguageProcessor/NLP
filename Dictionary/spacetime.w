@@ -1,0 +1,1 @@
+{"index": 298163, "D": "the four-dimensional continuum, having three spatial coordinates and one temporal coordinate, in which all physical quantities may be located.", "S": ["continuum ", "four-dimensional space ", "space-time continuum ", "time ", "time-space "], "A": []}

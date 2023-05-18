@@ -1,0 +1,1 @@
+{"index": 316012, "D": "a strong taste or flavor.", "S": ["aroma ", "bite ", "flavor ", "guts ", "kick ", "nip ", "piquancy ", "pungency ", "reek ", "relish ", "sapidity ", "savor ", "scent ", "smack ", "smell ", "spiciness ", "tanginess ", "thrill ", "twang ", "zest ", "zip "], "A": ["apathy ", "blandness ", "dullness ", "laziness ", "lethargy "]}

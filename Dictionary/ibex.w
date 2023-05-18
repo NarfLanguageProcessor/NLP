@@ -1,0 +1,1 @@
+{"index": 145926, "D": "any of several wild goats of the genus Capra, inhabiting mountainous regions of Eurasia and North Africa, having long, recurved horns.", "S": [], "A": []}

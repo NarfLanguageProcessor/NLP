@@ -1,0 +1,1 @@
+{"index": 354068, "D": "given to or characterized by useless consumption or expenditure", "S": ["cost-effective ", "efficient ", "practical ", "prudent "], "A": ["inefficient "]}

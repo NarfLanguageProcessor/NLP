@@ -1,0 +1,1 @@
+{"index": 279728, "D": "an object, usually a figure of a person in old clothes, set up to frighten crows  or other birds away from crops.", "S": [], "A": []}

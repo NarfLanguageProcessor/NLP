@@ -1,0 +1,1 @@
+{"index": 222856, "D": "a portable or detachable lock with a pivoted or sliding shackle that can be passed through a link, ring, staple, or the like.", "S": ["fastener ", "latch ", "pipe ", "rivet ", "rod ", "spike "], "A": ["key "]}

@@ -1,0 +1,1 @@
+{"index": 309099, "D": "a part or division of a segment. ", "S": [], "A": []}

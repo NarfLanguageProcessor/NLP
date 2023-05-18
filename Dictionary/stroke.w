@@ -1,0 +1,1 @@
+{"index": 306455, "D": "the act or an instance of striking, as with the fist, a weapon, or a hammer; a blow. ", "S": ["blow "], "A": []}

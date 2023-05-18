@@ -1,0 +1,1 @@
+{"index": 157343, "D": "very intricate or complex", "S": ["confusing ", "convoluted ", "elaborate ", "muddled ", "ramified ", "sophisticated ", "tangled ", "winding "], "A": ["clear ", "simple "]}

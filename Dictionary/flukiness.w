@@ -1,0 +1,1 @@
+{"index": 115340, "D": "obtained by chance rather than skill.", "S": [], "A": []}

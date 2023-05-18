@@ -1,0 +1,1 @@
+{"index": 29458, "D": "emitting beams  of or as of light; radiant.", "S": [], "A": []}

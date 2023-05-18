@@ -1,0 +1,1 @@
+{"index": 239482, "D": "having a broad, flat-bridged nose.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260755, "D": "a strong snuff made from dark, rank tobacco leaves.", "S": [], "A": []}

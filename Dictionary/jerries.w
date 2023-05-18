@@ -1,0 +1,1 @@
+{"index": 160971, "D": "of inferior materials or workmanship.", "S": ["bedpan ", "chamber ", "jordan ", "pisspot ", "potty ", "thunder mug "], "A": []}

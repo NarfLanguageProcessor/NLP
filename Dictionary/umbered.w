@@ -1,0 +1,1 @@
+{"index": 334162, "D": "an earth consisting chiefly of a hydrated oxide of iron and some oxide of manganese, used in its natural state as a brown pigment (raw umber ) or, after heating, as a reddish-brown pigment (burnt umber ).", "S": [], "A": []}

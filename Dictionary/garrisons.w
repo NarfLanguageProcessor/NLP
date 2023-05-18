@@ -1,0 +1,1 @@
+{"index": 122278, "D": "a body of troops stationed in a fortified place.", "S": ["command post ", "encampment ", "fortress ", "stronghold "], "A": []}

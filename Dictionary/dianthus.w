@@ -1,0 +1,1 @@
+{"index": 84389, "D": "any of numerous plants belonging to the genus Dianthus, of the pink family, as the carnation or sweet william.", "S": [], "A": []}

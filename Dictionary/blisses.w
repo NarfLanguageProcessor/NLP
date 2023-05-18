@@ -1,0 +1,1 @@
+{"index": 36274, "D": "supreme happiness; utter joy or contentment", "S": ["euphoria ", "happiness ", "joy ", "paradise "], "A": ["depression ", "misery ", "sadness ", "sorrow ", "unhappiness ", "woe "]}

@@ -1,0 +1,1 @@
+{"index": 31496, "D": "simple past tense and past participle of bend1. ", "S": [], "A": []}

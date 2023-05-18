@@ -1,0 +1,1 @@
+{"index": 301420, "D": "a simple past tense and past participle of spring. ", "S": ["bolt ", "bounce ", "bound ", "hop ", "hurdle ", "leap ", "lop ", "lope ", "rebound ", "recoil ", "skitter ", "start ", "startle ", "trip ", "vault "], "A": ["allow ", "permit "]}

@@ -1,0 +1,1 @@
+{"index": 265378, "D": "having the power to restore freshness, vitality, energy, etc.", "S": ["bracing ", "exhilarating ", "fresh ", "invigorating ", "stimulating "], "A": ["boring ", "depressing "]}

@@ -1,0 +1,1 @@
+{"index": 309241, "D": "a person who is devoted to one subject or to one particular branch of a subject or pursuit.", "S": [], "A": []}

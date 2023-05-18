@@ -1,0 +1,1 @@
+{"index": 366940, "D": "a language of Senegal, a Niger-Congo language closely related to Fulani.", "S": [], "A": []}

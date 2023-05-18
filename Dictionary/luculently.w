@@ -1,0 +1,1 @@
+{"index": 175888, "D": "clear or lucid", "S": [], "A": []}

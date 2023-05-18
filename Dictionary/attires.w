@@ -1,0 +1,1 @@
+{"index": 23097, "D": "to dress, array, or adorn, especially for special occasions, ceremonials, etc.", "S": ["apparel ", "clothes ", "costume ", "dress ", "garb ", "getup ", "habit ", "uniform ", "vestment "], "A": []}

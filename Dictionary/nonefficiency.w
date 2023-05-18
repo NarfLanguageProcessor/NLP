@@ -1,0 +1,1 @@
+{"index": 203376, "D": "the state or quality of being efficient,  or able to accomplish something with the least waste of time and effort; competency in performance.", "S": [], "A": []}

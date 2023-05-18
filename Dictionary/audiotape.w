@@ -1,0 +1,1 @@
+{"index": 23310, "D": "magnetic tape  for recording sound (distinguished from videotape).", "S": ["videotape "], "A": ["loosen ", "unfasten ", "unglue ", "unstick "]}

@@ -1,0 +1,1 @@
+{"index": 362764, "D": "a person to whom a warranty is made.", "S": [], "A": []}

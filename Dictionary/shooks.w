@@ -1,0 +1,1 @@
+{"index": 288767, "D": "simple past tense of shake. ", "S": [], "A": []}

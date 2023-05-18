@@ -1,0 +1,1 @@
+{"index": 35560, "D": "a North American warbler, Dendroica striata, the male of which has a black-and-white head", "S": [], "A": []}

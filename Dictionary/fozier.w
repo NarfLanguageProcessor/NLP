@@ -1,0 +1,1 @@
+{"index": 118115, "D": "spongy; loose-textured.", "S": [], "A": []}

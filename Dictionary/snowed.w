@@ -1,0 +1,1 @@
+{"index": 295809, "D": "under the influence of narcotic drugs", "S": ["active ", "unavailable ", "working "], "A": ["idle ", "inactive ", "unoccupied "]}

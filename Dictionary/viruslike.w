@@ -1,0 +1,1 @@
+{"index": 360287, "D": "an ultramicroscopic (20 to 300 nanometers in diameter), metabolically inert, infectious agent that replicates only within the cells of living hosts, mainly bacteria, plants, and animals", "S": [], "A": []}

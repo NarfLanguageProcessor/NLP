@@ -1,0 +1,1 @@
+{"index": 219154, "D": "excessively or fussily elaborate,  ornate, detailed, etc.", "S": ["embellish "], "A": ["abridge ", "compress ", "condense ", "contract ", "curtail ", "decrease ", "diminish ", "lessen ", "lower ", "reduce ", "shorten ", "shrink ", "simplify "]}

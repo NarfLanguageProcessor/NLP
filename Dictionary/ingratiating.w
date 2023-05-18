@@ -1,0 +1,1 @@
+{"index": 152560, "D": "charming; agreeable; pleasing. ", "S": ["charming ", "disarming ", "smarmy "], "A": ["deterring ", "disgusting ", "repellent "]}

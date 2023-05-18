@@ -1,0 +1,1 @@
+{"index": 129362, "D": "a woman's status regarding pregnancy; usually followed by a roman numeral designating the number of times the woman has been pregnant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359629, "D": "the technique of producing a photographic vignette, esp a portrait, by progressively reducing the amount of light falling on the photographic surface towards the edges", "S": [], "A": []}

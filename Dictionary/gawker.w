@@ -1,0 +1,1 @@
+{"index": 122941, "D": [], "S": ["attestant ", "attester ", "attestor ", "beholder ", "bystander ", "deponent ", "eyewitness ", "looker-on ", "observer ", "onlooker ", "proof ", "rubbernecker ", "signatory ", "signer ", "spectator ", "testimony ", "viewer ", "watcher "], "A": ["participant "]}

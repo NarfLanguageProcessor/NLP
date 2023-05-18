@@ -1,0 +1,1 @@
+{"index": 263196, "D": "to repay; remunerate; reward, as for service, aid, etc.", "S": ["arrival ", "entry ", "rebound ", "recovery ", "restoration "], "A": ["departure ", "exit ", "leaving ", "question "]}

@@ -1,0 +1,1 @@
+{"index": 151107, "D": "state of being indisposed. ", "S": ["affliction ", "ailment ", "discomfort ", "disinclination ", "disorder ", "illness ", "infirmity ", "malady ", "malaise ", "reluctance ", "resentment ", "sickness ", "unwillingness "], "A": ["comfort ", "good health ", "health ", "healthiness ", "pleasure ", "relief "]}

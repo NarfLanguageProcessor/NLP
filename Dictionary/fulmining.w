@@ -1,0 +1,1 @@
+{"index": 119992, "D": "to fulminate.", "S": [], "A": []}

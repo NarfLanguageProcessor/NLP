@@ -1,0 +1,1 @@
+{"index": 15716, "D": "an antiproton or an antineutron.", "S": [], "A": []}

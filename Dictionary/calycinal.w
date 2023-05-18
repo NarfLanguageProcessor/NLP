@@ -1,0 +1,1 @@
+{"index": 45103, "D": "pertaining to or resembling a calyx.", "S": [], "A": []}

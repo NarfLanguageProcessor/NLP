@@ -1,0 +1,1 @@
+{"index": 281982, "D": "to crouch, squeeze, or huddle (usually followed by down, in, or up).", "S": [], "A": []}

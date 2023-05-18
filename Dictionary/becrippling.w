@@ -1,0 +1,1 @@
+{"index": 29921, "D": "to make or cause to become crippled. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159536, "D": "(of a plant) producing flowers and fruit more than once (usually many times) before dying", "S": [], "A": []}

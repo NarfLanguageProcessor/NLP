@@ -1,0 +1,1 @@
+{"index": 71406, "D": "showing or having good manners or sophistication; smooth", "S": ["bright ", "burnished ", "glistening ", "refined ", "shiny ", "smooth ", "urbane "], "A": ["dark ", "dull ", "uncivilized ", "unsophisticated "]}

@@ -1,0 +1,1 @@
+{"index": 160391, "D": "any of various hard, durable, black varnishes, originally from Japan, for coating wood, metal, or other surfaces.", "S": ["coating ", "glaze ", "lacquer ", "stain ", "varnish "], "A": ["dullness "]}

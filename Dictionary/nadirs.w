@@ -1,0 +1,1 @@
+{"index": 196478, "D": "the point on the celestial sphere directly beneath a given position or observer and diametrically opposite the zenith.", "S": ["rock bottom "], "A": ["top "]}

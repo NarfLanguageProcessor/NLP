@@ -1,0 +1,1 @@
+{"index": 92388, "D": "opinion; doctrine.", "S": ["courtesan ", "harlot ", "hussy ", "pro ", "prostitute ", "streetwalker ", "strumpet ", "tart ", "tramp ", "trollop ", "whore "], "A": []}

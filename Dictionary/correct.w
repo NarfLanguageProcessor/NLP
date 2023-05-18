@@ -1,0 +1,1 @@
+{"index": 69598, "D": "to set or make true, accurate, or right; remove the errors or faults from", "S": ["accurate ", "appropriate ", "equitable ", "exact ", "factual ", "legitimate ", "perfect ", "precise ", "proper ", "strict ", "true "], "A": ["biased ", "false ", "imprecise ", "improper ", "inaccurate ", "incorrect ", "invalid ", "unsuitable ", "wrong "]}

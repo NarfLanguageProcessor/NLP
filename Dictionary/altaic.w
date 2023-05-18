@@ -1,0 +1,1 @@
+{"index": 9429, "D": "the Turkic, Mongolian, and Tungusic language families collectively, spoken over a broad expanse of Eurasia, from southeastern Europe to the Pacific", "S": [], "A": []}

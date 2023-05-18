@@ -1,0 +1,1 @@
+{"index": 192753, "D": "wearisome uniformity or lack of variety, as in occupation or scenery.", "S": ["tedium "], "A": ["break ", "difference ", "dissimilarity ", "excitement ", "liveliness ", "stoppage ", "unlikeness "]}

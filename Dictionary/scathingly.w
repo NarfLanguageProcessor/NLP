@@ -1,0 +1,1 @@
+{"index": 279841, "D": "bitterly severe, as a remark", "S": ["angrily ", "bitterly ", "brutally ", "cruelly ", "shrilly "], "A": []}

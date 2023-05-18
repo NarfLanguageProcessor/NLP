@@ -1,0 +1,1 @@
+{"index": 8222, "D": [], "S": ["capitulate ", "communicate ", "concede ", "give in ", "give up ", "grant ", "hand over ", "relinquish ", "renounce ", "sign over ", "transfer ", "waive "], "A": ["fight ", "hold ", "keep ", "refuse ", "challenge ", "continue ", "deny ", "disallow ", "disapprove ", "maintain ", "oppose ", "reject ", "retain ", "withhold "]}

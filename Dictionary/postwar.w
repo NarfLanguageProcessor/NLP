@@ -1,0 +1,1 @@
+{"index": 244573, "D": "of, relating to, or characteristic of a period following a war", "S": [], "A": []}

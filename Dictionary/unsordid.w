@@ -1,0 +1,1 @@
+{"index": 351611, "D": "morally ignoble or base; vile", "S": [], "A": []}

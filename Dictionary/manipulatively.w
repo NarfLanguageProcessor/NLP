@@ -1,0 +1,1 @@
+{"index": 179336, "D": "influencing or attempting to influence the behavior or emotions of others for one\u2019s own purposes", "S": [], "A": []}

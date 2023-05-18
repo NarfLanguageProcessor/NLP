@@ -1,0 +1,1 @@
+{"index": 31372, "D": "wearing or adorned with many medals", "S": [], "A": []}

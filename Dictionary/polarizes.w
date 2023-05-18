@@ -1,0 +1,1 @@
+{"index": 241496, "D": "to cause polarization  in.", "S": ["part ", "separate "], "A": ["combine ", "connect ", "join ", "repair ", "merge ", "mix ", "unite "]}

@@ -1,0 +1,1 @@
+{"index": 285793, "D": "any group or combination of seven.", "S": [], "A": []}

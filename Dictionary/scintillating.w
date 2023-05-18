@@ -1,0 +1,1 @@
+{"index": 280718, "D": "animated; vivacious; effervescent", "S": ["brilliant ", "dazzling ", "exciting ", "lively ", "sparkling "], "A": ["dull "]}

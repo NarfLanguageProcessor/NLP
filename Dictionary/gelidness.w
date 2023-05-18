@@ -1,0 +1,1 @@
+{"index": 123248, "D": "very cold; icy.", "S": ["Jack Frost ", "blight ", "dip ", "drop ", "freeze ", "frigidity ", "frostiness ", "gelidity ", "hoarfrost ", "ice ", "iciness ", "rime ", "wintriness "], "A": []}

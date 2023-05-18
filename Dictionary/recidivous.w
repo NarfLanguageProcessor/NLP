@@ -1,0 +1,1 @@
+{"index": 262856, "D": "repeated or habitual relapse, as into crime.", "S": ["hardened "], "A": ["good ", "manageable ", "nice ", "obedient "]}

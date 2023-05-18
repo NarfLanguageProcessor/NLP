@@ -1,0 +1,1 @@
+{"index": 226811, "D": "a floor composed of short strips or blocks of wood forming a pattern, sometimes with inlays of other woods or other materials.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 36150, "D": "consecrated; sacred; holy; sanctified", "S": [], "A": []}

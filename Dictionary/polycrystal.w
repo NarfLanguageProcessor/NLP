@@ -1,0 +1,1 @@
+{"index": 241793, "D": "an object composed of randomly oriented crystals, formed by rapid solidification", "S": [], "A": []}

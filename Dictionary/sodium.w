@@ -1,0 +1,1 @@
+{"index": 296302, "D": "a soft, silver-white, metallic element that oxidizes rapidly in moist air, occurring in nature only in the combined state, and used in the synthesis of sodium peroxide, sodium cyanide,  and tetraethyllead", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197228, "D": "of or relating to swimming", "S": ["amphibious ", "floating ", "marine ", "maritime "], "A": []}

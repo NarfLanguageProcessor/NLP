@@ -1,0 +1,1 @@
+{"index": 50373, "D": "a paper money and monetary unit of Ghana, equal to 100 pesewas.", "S": [], "A": []}

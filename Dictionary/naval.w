@@ -1,0 +1,1 @@
+{"index": 197470, "D": "of or relating to warships", "S": ["marine ", "maritime ", "oceangoing ", "seafaring "], "A": []}

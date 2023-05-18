@@ -1,0 +1,1 @@
+{"index": 19690, "D": "(in Polynesia) a chief or king.", "S": [], "A": []}

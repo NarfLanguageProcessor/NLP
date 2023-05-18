@@ -1,0 +1,1 @@
+{"index": 117277, "D": "an aluminum coin and the monetary unit of Hungary, equal to 100 fill\u00e9r. Abbreviation", "S": [], "A": []}

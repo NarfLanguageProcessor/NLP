@@ -1,0 +1,1 @@
+{"index": 273495, "D": "either of two large terrestrial cuckoos of the genus Geococcyx of arid regions of the western U.S., Mexico, and Central America, especially G. californianus(greater roadrunner ).", "S": [], "A": []}

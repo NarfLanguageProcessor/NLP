@@ -1,0 +1,1 @@
+{"index": 9171, "D": "a woman  supported by alms. ", "S": ["almsman ", "cadger ", "mendicant ", "panhandler "], "A": []}

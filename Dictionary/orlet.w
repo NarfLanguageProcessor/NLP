@@ -1,0 +1,1 @@
+{"index": 214671, "D": "an arrangement in orle of small charges", "S": [], "A": []}

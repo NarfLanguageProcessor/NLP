@@ -1,0 +1,1 @@
+{"index": 286077, "D": "a gelatinous organic compound that holds the two strands of natural silk together.", "S": [], "A": []}

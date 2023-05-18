@@ -1,0 +1,1 @@
+{"index": 345532, "D": "capable of being read or deciphered, especially with ease, as writing or printing; easily readable.", "S": [], "A": []}

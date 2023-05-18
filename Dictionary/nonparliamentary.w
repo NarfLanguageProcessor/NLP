@@ -1,0 +1,1 @@
+{"index": 205760, "D": "of or relating to a parliament  or any of its members.", "S": [], "A": []}

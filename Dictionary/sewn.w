@@ -1,0 +1,1 @@
+{"index": 286808, "D": "a past participle of sew1. ", "S": ["embroidered ", "mended ", "patched ", "tailored "], "A": []}

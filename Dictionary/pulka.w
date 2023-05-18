@@ -1,0 +1,1 @@
+{"index": 256245, "D": "a reindeer-drawn sleigh used by the Sami, shaped like the front half of a canoe, in which a single rider sits with back against a vertical support and legs stretched forward.", "S": [], "A": []}

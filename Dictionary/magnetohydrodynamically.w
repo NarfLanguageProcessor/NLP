@@ -1,0 +1,1 @@
+{"index": 177541, "D": "the branch of physics that deals with the motion of electrically conductive fluids, especially plasmas, in magnetic fields. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 54334, "D": "a milky fluid containing emulsified fat and other products of digestion, formed from the chyme in the small intestine and conveyed by the lacteals and the thoracic duct to the veins.", "S": [], "A": []}

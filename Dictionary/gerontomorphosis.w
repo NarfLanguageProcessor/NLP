@@ -1,0 +1,1 @@
+{"index": 124299, "D": "evolutionary specialization of a species to a degree that decreases its capability for further adaptation and eventually leads to its extinction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57008, "D": "new tissue that forms over a wound and later contracts into a scar.", "S": [], "A": []}

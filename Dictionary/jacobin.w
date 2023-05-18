@@ -1,0 +1,1 @@
+{"index": 159986, "D": "(in the French Revolution) a member of a radical society or club of revolutionaries that promoted the Reign of Terror and other extreme measures, active chiefly from 1789 to 1794", "S": [], "A": []}

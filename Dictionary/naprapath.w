@@ -1,0 +1,1 @@
+{"index": 196909, "D": "a system or method of treating disease that employs no medications but uses manipulation of muscles, joints, ligaments, etc., to stimulate the natural healing process.", "S": [], "A": []}

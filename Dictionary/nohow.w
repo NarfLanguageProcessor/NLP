@@ -1,0 +1,1 @@
+{"index": 200767, "D": "under no  circumstances; in no  way (usually preceded by another negative)", "S": [], "A": []}

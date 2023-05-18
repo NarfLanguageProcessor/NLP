@@ -1,0 +1,1 @@
+{"index": 354416, "D": "very unfortunate in condition or circumstances; miserable; pitiable.", "S": [], "A": []}

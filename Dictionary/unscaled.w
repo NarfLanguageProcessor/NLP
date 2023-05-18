@@ -1,0 +1,1 @@
+{"index": 350435, "D": "noting armor having imbricated metal plates sewn to a flexible backing.", "S": [], "A": []}

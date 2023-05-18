@@ -1,0 +1,1 @@
+{"index": 274772, "D": "a person or thing that roughs  or roughs  out something, as certain crude cutting tools or a person who performs the first, rough  parts of a process.", "S": [], "A": []}

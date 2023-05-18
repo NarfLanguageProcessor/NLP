@@ -1,0 +1,1 @@
+{"index": 254586, "D": "the body cavity of certain invertebrate metazoan animals between the body wall and the intestine, which is not lined with a mesodermal epithelium.", "S": [], "A": []}

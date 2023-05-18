@@ -1,0 +1,1 @@
+{"index": 13704, "D": "to coat (a metal, especially magnesium or aluminum) with a protective film by chemical or electrolytic means.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 102198, "D": "the aggregate of organisms living on the sea bottom between low tide and 100 fathoms (180 meters).", "S": [], "A": []}

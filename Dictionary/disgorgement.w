@@ -1,0 +1,1 @@
+{"index": 88148, "D": "to eject or throw out from the throat, mouth, or stomach; vomit forth.", "S": [], "A": []}

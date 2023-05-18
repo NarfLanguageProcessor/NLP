@@ -1,0 +1,1 @@
+{"index": 226242, "D": "the three Fates of ancient Rome, developed out of the goddess Parca  by identification with the Moerae of Greek mythology.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80544, "D": "a large bottle having a short, narrow neck, and usually being encased in wickerwork.", "S": ["beaker ", "canteen ", "carafe ", "chalice ", "decanter ", "jug ", "urn ", "vial "], "A": []}

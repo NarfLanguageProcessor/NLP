@@ -1,0 +1,1 @@
+{"index": 132992, "D": "(in some Muslim countries) a porter.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155241, "D": "of the nature of, pertaining to, or occurring in conversation", "S": [], "A": []}

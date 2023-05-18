@@ -1,0 +1,1 @@
+{"index": 283933, "D": "characteristic of or appropriate to ordinary or familiar conversation rather than formal speech or writing; informal.", "S": [], "A": []}

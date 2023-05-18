@@ -1,0 +1,1 @@
+{"index": 35600, "D": "the bladderlike fruit capsule of any shrub or small tree of the genus Staphylea, as S. trifolia, of the eastern U.S.", "S": [], "A": []}

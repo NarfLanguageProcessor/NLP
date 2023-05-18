@@ -1,0 +1,1 @@
+{"index": 222443, "D": "having an acute accent on the last syllable.", "S": [], "A": []}

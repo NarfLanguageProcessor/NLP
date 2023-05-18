@@ -1,0 +1,1 @@
+{"index": 11589, "D": "repetition in the first part of a clause or sentence of a prominent word from the latter part of the preceding clause or sentence, usually with a change or extension of meaning.", "S": [], "A": []}

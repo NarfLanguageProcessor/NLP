@@ -1,0 +1,1 @@
+{"index": 92177, "D": "the portion of a deceased husband's real property allowed to his widow for her lifetime.", "S": [], "A": []}

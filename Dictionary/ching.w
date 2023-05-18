@@ -1,0 +1,1 @@
+{"index": 54599, "D": "See under Manchu (def. 1). ", "S": [], "A": []}

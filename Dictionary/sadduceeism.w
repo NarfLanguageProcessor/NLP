@@ -1,0 +1,1 @@
+{"index": 276490, "D": "a member of a Palestinian sect, consisting mainly of priests and aristocrats, that flourished from the 1st century b.c. to the 1st century a.d. and differed from the Pharisees chiefly in its literal interpretation of the Bible, rejection of oral laws and traditions, and denial of an afterlife and the coming of the Messiah.", "S": [], "A": []}

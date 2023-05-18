@@ -1,0 +1,1 @@
+{"index": 256121, "D": "sticky, claylike", "S": [], "A": []}

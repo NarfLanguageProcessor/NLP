@@ -1,0 +1,1 @@
+{"index": 293315, "D": "a small, round box for protecting an official or personal seal, as on a document.", "S": [], "A": []}

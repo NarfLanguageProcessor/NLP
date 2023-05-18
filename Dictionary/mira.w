@@ -1,0 +1,1 @@
+{"index": 188294, "D": "the first long-period pulsating variable star to be discovered, with a period averaging 331 days. It is a red giant and a component of a binary star in the constellation Cetus.", "S": [], "A": []}

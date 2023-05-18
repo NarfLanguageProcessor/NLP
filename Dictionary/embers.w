@@ -1,0 +1,1 @@
+{"index": 98061, "D": "a small live piece of coal, wood, etc., as in a dying fire.", "S": ["ash ", "brand ", "cinders ", "clinkers ", "coals ", "firebrand ", "slag "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 284897, "D": "of, relating to, or characteristic of the country, country life, or country people; rustic", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15906, "D": "places diametrically opposite each other on the globe.", "S": ["antithesis ", "contrary ", "converse ", "inverse ", "obverse ", "reverse "], "A": ["same "]}

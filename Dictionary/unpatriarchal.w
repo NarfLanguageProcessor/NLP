@@ -1,0 +1,1 @@
+{"index": 347549, "D": "of or relating to a patriarch,  the male head of a family, tribe, community, church, order, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228208, "D": "a light, usually open building used for shelter, concerts, exhibits, etc., as in a park or fair.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 92793, "D": "a knife  with a handle at each end at right angles to the blade, used by drawing  over a surface.", "S": [], "A": []}

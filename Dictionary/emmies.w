@@ -1,0 +1,1 @@
+{"index": 98618, "D": "any of several statuettes awarded annually by the National Academy of Television Arts and Sciences for excellence in television programming, production, or performance.", "S": [], "A": []}

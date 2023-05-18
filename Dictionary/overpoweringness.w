@@ -1,0 +1,1 @@
+{"index": 220599, "D": "that overpowers;  overwhelming", "S": [], "A": []}

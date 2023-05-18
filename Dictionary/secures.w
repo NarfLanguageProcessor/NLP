@@ -1,0 +1,1 @@
+{"index": 282938, "D": "free from or not exposed to danger or harm; safe.", "S": ["protected "], "A": ["endangered ", "insecure ", "unprotected ", "unsafe "]}

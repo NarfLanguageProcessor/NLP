@@ -1,0 +1,1 @@
+{"index": 247183, "D": "one of a series of printings of the same book, newspaper, etc., each issued at a different time and differing from another by alterations, additions, etc. (distinguished from impression).", "S": [], "A": []}

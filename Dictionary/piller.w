@@ -1,0 +1,1 @@
+{"index": 236686, "D": [], "S": ["abhorrent ", "annoying ", "disgusting ", "hateful ", "loathsome ", "nasty ", "objectionable ", "reprehensible ", "rotten ", "unpleasant "], "A": ["agreeable ", "decent ", "friendly ", "good ", "great ", "kind ", "lovable ", "moral ", "nice ", "pleasant ", "pleasing ", "welcome ", "wonderful "]}

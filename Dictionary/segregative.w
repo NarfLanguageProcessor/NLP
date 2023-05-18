@@ -1,0 +1,1 @@
+{"index": 283241, "D": "to separate or set apart from others or from the main body or group; isolate", "S": [], "A": []}

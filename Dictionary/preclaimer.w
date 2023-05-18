@@ -1,0 +1,1 @@
+{"index": 246167, "D": "a person who makes a claim; claimant.", "S": [], "A": []}

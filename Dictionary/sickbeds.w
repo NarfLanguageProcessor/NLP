@@ -1,0 +1,1 @@
+{"index": 289613, "D": "the bed  used by a sick  person.", "S": [], "A": []}

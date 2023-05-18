@@ -1,0 +1,1 @@
+{"index": 271011, "D": "a person who advocates the reunion  of the Anglican Church with the Roman Catholic Church.", "S": [], "A": []}

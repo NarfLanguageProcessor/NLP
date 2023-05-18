@@ -1,0 +1,1 @@
+{"index": 220655, "D": "skillfully or competently", "S": [], "A": []}

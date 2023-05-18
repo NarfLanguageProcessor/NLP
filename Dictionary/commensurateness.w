@@ -1,0 +1,1 @@
+{"index": 63977, "D": "corresponding in amount, magnitude, or degree", "S": ["competence ", "fairness ", "sufficiency "], "A": ["inadequacy ", "inadequateness ", "insufficiency "]}

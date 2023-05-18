@@ -1,0 +1,1 @@
+{"index": 33837, "D": "a member of a Malayan people in SE Luzon and the nearby Philippines", "S": [], "A": []}

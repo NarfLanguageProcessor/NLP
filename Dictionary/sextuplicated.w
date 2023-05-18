@@ -1,0 +1,1 @@
+{"index": 286946, "D": "a group, series, or set of six identical copies", "S": [], "A": []}

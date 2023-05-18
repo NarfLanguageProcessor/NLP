@@ -1,0 +1,1 @@
+{"index": 36557, "D": "having blotches", "S": ["mottled ", "spotted "], "A": []}

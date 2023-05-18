@@ -1,0 +1,1 @@
+{"index": 211937, "D": "a Brazilian tree, Licania rigida, of the rose family, the seeds of which yield oiticica oil.", "S": [], "A": []}

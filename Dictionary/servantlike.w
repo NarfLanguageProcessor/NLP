@@ -1,0 +1,1 @@
+{"index": 286425, "D": "a person employed by another, especially to perform domestic duties.", "S": [], "A": []}

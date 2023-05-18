@@ -1,0 +1,1 @@
+{"index": 240658, "D": "of, relating to, or characterized by a plutocracy  or plutocrats. ", "S": [], "A": []}

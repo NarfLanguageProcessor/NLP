@@ -1,0 +1,1 @@
+{"index": 116521, "D": "a prediction; portent.", "S": [], "A": []}

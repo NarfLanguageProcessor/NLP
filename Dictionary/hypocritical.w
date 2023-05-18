@@ -1,0 +1,1 @@
+{"index": 140891, "D": "of the nature of hypocrisy,  or pretense of having virtues, beliefs, principles, etc., that one does not actually possess", "S": ["deceptive ", "duplicitous ", "false ", "insincere ", "sanctimonious ", "self-righteous ", "unnatural "], "A": ["forthright ", "frank ", "genuine ", "honest ", "humble ", "open ", "real ", "truthful "]}

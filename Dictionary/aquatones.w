@@ -1,0 +1,1 @@
+{"index": 18235, "D": "a lithographic process for printing by offset from a metal plate coated with photosensitized gelatin.", "S": [], "A": []}

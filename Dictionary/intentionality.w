@@ -1,0 +1,1 @@
+{"index": 154396, "D": "the fact or quality of being done on purpose or with intent", "S": ["life-world ", "lived experience ", "meaning-making "], "A": []}

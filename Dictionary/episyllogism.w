@@ -1,0 +1,1 @@
+{"index": 102795, "D": "a syllogism one of the premises of which is the conclusion of a preceding syllogism; any of the syllogisms included in a polysyllogism except the first one.", "S": [], "A": []}

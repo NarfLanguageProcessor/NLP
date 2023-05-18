@@ -1,0 +1,1 @@
+{"index": 13204, "D": "a person or thing that animates. ", "S": [], "A": []}

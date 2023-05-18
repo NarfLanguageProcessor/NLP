@@ -1,0 +1,1 @@
+{"index": 311794, "D": "growing abnormally out of something else; superfluous.", "S": [], "A": []}

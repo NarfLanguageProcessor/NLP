@@ -1,0 +1,1 @@
+{"index": 246146, "D": "a person who adheres punctiliously to the observance of rules or forms, especially in matters of religion.", "S": [], "A": []}

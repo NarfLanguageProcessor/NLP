@@ -1,0 +1,1 @@
+{"index": 215107, "D": "a member of the pyroxene group of minerals having an orthorhombic crystal structure, such as enstatite and hypersthene", "S": [], "A": []}

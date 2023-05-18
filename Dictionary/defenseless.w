@@ -1,0 +1,1 @@
+{"index": 79205, "D": "resistance against attack; protection", "S": ["helpless ", "unarmed ", "unprotected "], "A": ["powerful ", "strong "]}

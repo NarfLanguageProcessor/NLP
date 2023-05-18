@@ -1,0 +1,1 @@
+{"index": 171722, "D": "fond of and eager for choice food.", "S": [], "A": []}

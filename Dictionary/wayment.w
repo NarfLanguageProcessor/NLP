@@ -1,0 +1,1 @@
+{"index": 362011, "D": "a phonetic spelling representing an African American Vernacular English pronunciation of wait a minute, used especially online to express surprise or confusion or as a request for further explanation or clarification", "S": [], "A": []}

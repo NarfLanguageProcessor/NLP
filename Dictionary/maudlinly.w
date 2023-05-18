@@ -1,0 +1,1 @@
+{"index": 181397, "D": "tearfully or weakly emotional; foolishly sentimental", "S": [], "A": []}

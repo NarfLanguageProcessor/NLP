@@ -1,0 +1,1 @@
+{"index": 205700, "D": "tending to make or preserve peace; conciliatory", "S": [], "A": []}

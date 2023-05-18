@@ -1,0 +1,1 @@
+{"index": 224092, "D": "an ancient city in central Syria, NE of Damascus", "S": [], "A": []}

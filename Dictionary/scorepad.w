@@ -1,0 +1,1 @@
+{"index": 281271, "D": "a pad  whose sheets are printed with headings, vertical or horizontal lines, symbols, or the like, to facilitate the recording of scores  in a game, as bowling or bridge.", "S": [], "A": []}

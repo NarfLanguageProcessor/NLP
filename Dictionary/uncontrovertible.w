@@ -1,0 +1,1 @@
+{"index": 337898, "D": "to argue against; dispute; deny; oppose. ", "S": [], "A": []}

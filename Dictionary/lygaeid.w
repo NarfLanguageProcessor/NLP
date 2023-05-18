@@ -1,0 +1,1 @@
+{"index": 171965, "D": "any of numerous, often brightly marked bugs of the family Lygaeidae, which feed on the juices of plants in both the larval and adult stages and are important pests of cultivated crops and some fruit trees.", "S": [], "A": []}

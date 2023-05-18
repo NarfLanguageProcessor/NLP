@@ -1,0 +1,1 @@
+{"index": 63256, "D": "an inhabitant of a colony. ", "S": ["pilgrim "], "A": []}

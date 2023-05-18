@@ -1,0 +1,1 @@
+{"index": 182704, "D": "any of a class of insoluble pigments, found in all forms of animal life, that account for the dark color of skin, hair, fur, scales, feathers, etc.", "S": [], "A": []}

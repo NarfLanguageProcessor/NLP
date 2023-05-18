@@ -1,0 +1,1 @@
+{"index": 191722, "D": "a residual hill or mountain standing well above the surface of a surrounding peneplain.", "S": [], "A": []}

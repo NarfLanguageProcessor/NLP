@@ -1,0 +1,1 @@
+{"index": 194081, "D": "to furnish with a motor,  as a vehicle.", "S": ["mechanized "], "A": []}

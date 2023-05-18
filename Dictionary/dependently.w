@@ -1,0 +1,1 @@
+{"index": 81562, "D": "relying on someone or something else for aid, support, etc.", "S": ["abandonedly ", "defenselessly ", "feebly ", "involuntarily ", "powerlessly ", "weakly ", "willy-nilly "], "A": []}

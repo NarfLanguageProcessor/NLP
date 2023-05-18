@@ -1,0 +1,1 @@
+{"index": 167968, "D": "shut in completely, or almost completely, by land", "S": [], "A": []}

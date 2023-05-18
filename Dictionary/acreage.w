@@ -1,0 +1,1 @@
+{"index": 2796, "D": "extent or area in acres; acres  collectively.", "S": ["expanse ", "holding ", "parcel ", "plot ", "property "], "A": []}

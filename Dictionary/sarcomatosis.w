@@ -1,0 +1,1 @@
+{"index": 278381, "D": "the condition in which a sarcoma has become disseminated throughout the body.", "S": [], "A": []}

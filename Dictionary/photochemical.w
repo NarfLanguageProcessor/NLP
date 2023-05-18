@@ -1,0 +1,1 @@
+{"index": 235011, "D": "of or relating to photochemistry; involving the chemical effects of light", "S": [], "A": []}

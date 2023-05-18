@@ -1,0 +1,1 @@
+{"index": 92505, "D": "characterized by or admitting currents of air, usually uncomfortable.", "S": [], "A": []}

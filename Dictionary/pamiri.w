@@ -1,0 +1,1 @@
+{"index": 224253, "D": "a member of a Caucasian people inhabiting the Pamirs.", "S": [], "A": []}

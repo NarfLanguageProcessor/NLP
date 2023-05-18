@@ -1,0 +1,1 @@
+{"index": 105586, "D": "any of numerous composite plants of the genus Eupatorium, having flat-topped clusters of flowers and comprising the bonesets or thoroughworts.", "S": [], "A": []}

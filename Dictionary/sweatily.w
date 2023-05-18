@@ -1,0 +1,1 @@
+{"index": 314222, "D": "covered, moist, or stained with sweat.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 320354, "D": "a member of a cluster of pueblo-dwelling North American Indian peoples of New Mexico and Arizona.", "S": [], "A": []}

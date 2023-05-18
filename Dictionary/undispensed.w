@@ -1,0 +1,1 @@
+{"index": 340563, "D": "to deal out; distribute", "S": [], "A": []}

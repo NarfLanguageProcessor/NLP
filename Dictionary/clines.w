@@ -1,0 +1,1 @@
+{"index": 60024, "D": "the gradual change in certain characteristics exhibited by members of a series of adjacent populations of organisms of the same species.", "S": [], "A": []}

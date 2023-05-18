@@ -1,0 +1,1 @@
+{"index": 295146, "D": "in a way that is contentedly confident of one\u2019s ability, superiority, or correctness; in a self-satisfied or complacent way", "S": [], "A": []}

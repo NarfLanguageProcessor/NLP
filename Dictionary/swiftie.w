@@ -1,0 +1,1 @@
+{"index": 314400, "D": "a trick, ruse, or deception", "S": [], "A": []}

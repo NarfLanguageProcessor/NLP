@@ -1,0 +1,1 @@
+{"index": 38407, "D": "wearied by dullness or sameness", "S": ["disinterested ", "fatigued ", "tired "], "A": ["energized ", "refreshed "]}

@@ -1,0 +1,1 @@
+{"index": 295641, "D": "of, relating to, or characteristic of a snob", "S": ["antipathy ", "arrogance ", "aversion ", "contempt ", "derision ", "dislike ", "hatred ", "pride ", "ridicule ", "scorn "], "A": ["admiration ", "affection ", "approval ", "flattery ", "humility ", "like ", "liking ", "love ", "praise ", "regard ", "respect ", "sympathy ", "compliment "]}

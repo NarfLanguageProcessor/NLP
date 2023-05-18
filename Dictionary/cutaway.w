@@ -1,0 +1,1 @@
+{"index": 75740, "D": "a man's formal daytime coat having the front portion of the skirt cut away from the waist so as to curve or slope to the tails at the back.", "S": ["cloak ", "frock ", "jacket ", "overcoat ", "raincoat ", "suit ", "tuxedo ", "windbreaker ", "wrap "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 302027, "D": "(in England) a country gentleman, especially the chief landed proprietor in a district.", "S": [], "A": []}

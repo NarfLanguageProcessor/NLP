@@ -1,0 +1,1 @@
+{"index": 15441, "D": "antagonistic or indifferent to a normal life. ", "S": [], "A": []}

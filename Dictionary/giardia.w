@@ -1,0 +1,1 @@
+{"index": 124633, "D": "any flagellate of the genus Giardia, parasitic in the intestines of vertebrates.", "S": [], "A": []}

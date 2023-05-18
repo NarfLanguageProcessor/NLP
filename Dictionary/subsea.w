@@ -1,0 +1,1 @@
+{"index": 309084, "D": "occurring, working, etc., under the sea  or ocean", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25142, "D": "a hypothetical particle having no charge, zero spin, and small mass", "S": [], "A": []}

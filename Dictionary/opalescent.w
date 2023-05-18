@@ -1,0 +1,1 @@
+{"index": 213183, "D": "exhibiting a play of colors like that of the opal. ", "S": ["bright ", "iridescent ", "opaline ", "pearly ", "polychromatic "], "A": []}

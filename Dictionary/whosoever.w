@@ -1,0 +1,1 @@
+{"index": 365398, "D": "whoever; whatever person", "S": [], "A": []}

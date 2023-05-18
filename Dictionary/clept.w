@@ -1,0 +1,1 @@
+{"index": 59785, "D": "a simple past tense and past participle of clepe. ", "S": [], "A": []}

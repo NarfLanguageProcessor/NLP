@@ -1,0 +1,1 @@
+{"index": 198509, "D": "a constitutional monarchy in the Himalayas between N India and Tibet. About 56,830 sq. mi. (147,190 sq. km). Capital", "S": [], "A": []}

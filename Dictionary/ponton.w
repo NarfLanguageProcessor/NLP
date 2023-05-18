@@ -1,0 +1,1 @@
+{"index": 243099, "D": "a boat or some other floating structure used as one of the supports for a temporary bridge over a river.", "S": [], "A": []}

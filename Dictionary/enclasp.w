@@ -1,0 +1,1 @@
+{"index": 99387, "D": "to hold in or as in a clasp  or embrace.", "S": [], "A": []}

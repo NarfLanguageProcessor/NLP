@@ -1,0 +1,1 @@
+{"index": 252403, "D": "one of the three embryonic excretory organs of vertebrates, which becomes the functional kidney of certain primitive fishes.", "S": [], "A": []}

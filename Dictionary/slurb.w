@@ -1,0 +1,1 @@
+{"index": 294612, "D": "a shabby, ill-planned suburban area.", "S": [], "A": []}

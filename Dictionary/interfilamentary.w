@@ -1,0 +1,1 @@
+{"index": 154949, "D": "pertaining to or of the nature of a filament. ", "S": [], "A": []}

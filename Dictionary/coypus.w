@@ -1,0 +1,1 @@
+{"index": 62570, "D": "a large, South American, aquatic rodent, Myocastor (or Myopotamus) coypus, yielding the fur nutria.", "S": [], "A": []}

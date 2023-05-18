@@ -1,0 +1,1 @@
+{"index": 73485, "D": "to censure or find fault with.", "S": ["blame ", "blast ", "castigate ", "censure ", "chastise ", "chide ", "condemn ", "denounce ", "excoriate ", "reprimand "], "A": ["approve ", "commend ", "compliment ", "exonerate ", "forgive ", "laud ", "praise ", "flatter ", "lose "]}

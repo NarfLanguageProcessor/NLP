@@ -1,0 +1,1 @@
+{"index": 42035, "D": "(in Ireland) a poor young man who aspires to the habits and dress of the wealthy", "S": [], "A": []}

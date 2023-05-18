@@ -1,0 +1,1 @@
+{"index": 78990, "D": "to make or become deep  or deeper", "S": ["accelerating ", "escalating ", "growing ", "intensifying "], "A": []}

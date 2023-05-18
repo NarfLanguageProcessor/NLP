@@ -1,0 +1,1 @@
+{"index": 15889, "D": "relieving the pain and stimulating the healing of burns.", "S": [], "A": []}

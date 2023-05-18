@@ -1,0 +1,1 @@
+{"index": 274316, "D": "attachment of a plant to soil by means of its roots; support of a plant through the growing and spreading of its roots.", "S": [], "A": []}

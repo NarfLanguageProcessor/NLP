@@ -1,0 +1,1 @@
+{"index": 222798, "D": "a seaport in W central Sumatra, in W Indonesia.", "S": [], "A": []}

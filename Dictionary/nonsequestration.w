@@ -1,0 +1,1 @@
+{"index": 207179, "D": "removal or separation; banishment or exile.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15520, "D": "a person who believes in the theory of mechanism. ", "S": [], "A": []}

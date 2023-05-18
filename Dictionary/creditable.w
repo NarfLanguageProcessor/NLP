@@ -1,0 +1,1 @@
+{"index": 72500, "D": "bringing or deserving credit,  honor, reputation, or esteem.", "S": ["admirable ", "commendable ", "estimable ", "exemplary ", "laudable ", "respectable "], "A": ["bad ", "dishonorable ", "poor ", "unworthy "]}

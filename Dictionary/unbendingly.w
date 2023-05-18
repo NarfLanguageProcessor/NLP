@@ -1,0 +1,1 @@
+{"index": 335783, "D": "not bending or curving; inflexible; rigid.", "S": [], "A": []}

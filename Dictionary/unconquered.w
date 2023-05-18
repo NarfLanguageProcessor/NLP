@@ -1,0 +1,1 @@
+{"index": 337665, "D": "to acquire by force of arms; win in war", "S": ["successful ", "victorious "], "A": ["losing ", "unsuccessful "]}

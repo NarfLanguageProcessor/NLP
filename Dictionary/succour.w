@@ -1,0 +1,1 @@
+{"index": 309885, "D": "help or assistance, esp in time of difficulty", "S": [], "A": []}

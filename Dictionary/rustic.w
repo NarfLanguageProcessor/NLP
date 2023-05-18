@@ -1,0 +1,1 @@
+{"index": 275861, "D": "of, relating to, or living in the country, as distinguished from towns or cities; rural.", "S": ["bucolic ", "country ", "pastoral ", "picturesque ", "simple ", "verdant "], "A": ["cosmopolitan ", "metropolitan ", "suburban ", "urban "]}

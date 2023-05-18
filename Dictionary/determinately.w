@@ -1,0 +1,1 @@
+{"index": 83164, "D": "having defined limits; definite.", "S": ["convincingly ", "decisively ", "definitively "], "A": []}

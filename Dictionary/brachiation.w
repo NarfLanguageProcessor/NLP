@@ -1,0 +1,1 @@
+{"index": 39381, "D": "locomotion accomplished by swinging by the arms from one hold to another.", "S": [], "A": []}

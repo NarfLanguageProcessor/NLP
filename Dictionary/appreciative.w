@@ -1,0 +1,1 @@
+{"index": 17913, "D": "feeling or showing appreciation", "S": ["grateful ", "responsive "], "A": ["ignorant ", "neglectful ", "unappreciative ", "ungrateful "]}

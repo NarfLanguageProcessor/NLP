@@ -1,0 +1,1 @@
+{"index": 188348, "D": "trapped in mud, muck, or slime", "S": ["adhered ", "baffled ", "caught ", "fixed ", "frozen ", "glued ", "joined ", "perplexed ", "puzzled ", "saddled ", "stumped ", "stymied "], "A": []}

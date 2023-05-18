@@ -1,0 +1,1 @@
+{"index": 249131, "D": "required beforehand", "S": ["essential ", "must ", "precondition ", "qualification ", "requirement ", "requisite "], "A": ["nonessential "]}

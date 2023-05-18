@@ -1,0 +1,1 @@
+{"index": 5307, "D": "to act on; produce an effect or change in", "S": [], "A": []}

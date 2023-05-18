@@ -1,0 +1,1 @@
+{"index": 22182, "D": "out of the right way; off the correct or known road, path, or route", "S": ["afield ", "awry "], "A": ["right ", "straight "]}

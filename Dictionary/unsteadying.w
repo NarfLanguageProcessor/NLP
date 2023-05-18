@@ -1,0 +1,1 @@
+{"index": 351987, "D": "not steady  or firm; unstable; shaky", "S": ["curve ", "deviate ", "turn ", "veer ", "weave ", "zigzag "], "A": ["stay "]}

@@ -1,0 +1,1 @@
+{"index": 75073, "D": "any of various plants belonging to the genus Nierembergia, of the nightshade family, having showy tubular or bell-shaped flowers. ", "S": [], "A": []}

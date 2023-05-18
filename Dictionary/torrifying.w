@@ -1,0 +1,1 @@
+{"index": 326268, "D": "a variant of torrefy. ", "S": [], "A": []}

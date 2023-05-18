@@ -1,0 +1,1 @@
+{"index": 101706, "D": "an act of entering; entrance.", "S": ["competition "], "A": []}

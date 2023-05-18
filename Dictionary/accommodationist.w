@@ -1,0 +1,1 @@
+{"index": 1646, "D": "a person who finds it expedient to adapt to the opinions or behavior of the majority of people, especially as a means of economic or political survival.", "S": [], "A": []}

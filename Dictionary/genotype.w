@@ -1,0 +1,1 @@
+{"index": 123654, "D": "the genetic makeup of an organism or group of organisms with reference to a single trait, set of traits, or an entire complex of traits.", "S": [], "A": []}

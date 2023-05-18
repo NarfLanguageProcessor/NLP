@@ -1,0 +1,1 @@
+{"index": 126132, "D": "persistent or chronic gonorrhea.", "S": [], "A": []}

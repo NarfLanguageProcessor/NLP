@@ -1,0 +1,1 @@
+{"index": 165550, "D": "a man who is armed with a knife, esp unlawfully", "S": [], "A": []}

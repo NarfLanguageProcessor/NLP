@@ -1,0 +1,1 @@
+{"index": 211110, "D": "any eight-armed cephalopod mollusk of the order or suborder Octopoda, including the octopuses and paper nautiluses.", "S": [], "A": []}

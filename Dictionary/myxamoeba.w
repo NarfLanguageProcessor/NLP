@@ -1,0 +1,1 @@
+{"index": 190693, "D": "the amebalike, usually nonflagellated, uninucleate haploid individual of a sporocarp that is released upon spore germination and feeds by engulfing bacteria and yeast", "S": [], "A": []}

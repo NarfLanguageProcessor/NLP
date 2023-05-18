@@ -1,0 +1,1 @@
+{"index": 158129, "D": "incident flux of radiant energy per unit area.", "S": [], "A": []}

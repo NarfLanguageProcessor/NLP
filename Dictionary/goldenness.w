@@ -1,0 +1,1 @@
+{"index": 127513, "D": "bright, metallic, or lustrous like gold;  of the color of gold;  yellow", "S": [], "A": []}

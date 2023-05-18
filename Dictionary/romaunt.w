@@ -1,0 +1,1 @@
+{"index": 274083, "D": "a romantic tale or poem; romance.", "S": [], "A": []}

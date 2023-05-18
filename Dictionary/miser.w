@@ -1,0 +1,1 @@
+{"index": 189226, "D": "a person who lives in wretched circumstances in order to save and hoard money.", "S": ["Scrooge ", "cheapskate ", "harpy ", "hoarder ", "moneygrubber ", "stiff ", "tightwad "], "A": ["spender ", "spendthrift ", "waster ", "wastrel "]}

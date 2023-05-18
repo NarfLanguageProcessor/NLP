@@ -1,0 +1,1 @@
+{"index": 77590, "D": "the office, jurisdiction, district, or residence of an ecclesiastical dean.", "S": [], "A": []}

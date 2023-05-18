@@ -1,0 +1,1 @@
+{"index": 203451, "D": "emanating  or issuing from or as if from a source.", "S": [], "A": []}

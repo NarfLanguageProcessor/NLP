@@ -1,0 +1,1 @@
+{"index": 41315, "D": "a colorless, heavy liquid, CHBr3, used chiefly as an intermediate in organic synthesis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196169, "D": "any of numerous carnivorous mammals of the family Mustelidae, comprising the weasels, martens, skunks, badgers, and otters.", "S": [], "A": []}

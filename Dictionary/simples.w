@@ -1,0 +1,1 @@
+{"index": 291060, "D": "easy to understand, deal with, use, etc.", "S": ["a breeze ", "a snap ", "duck soup ", "easy ", "easy as ABC ", "easy as pie ", "effortless ", "piece of cake ", "simple "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323613, "D": "up to the time of; until", "S": ["box ", "kitty ", "safe ", "tray ", "treasury ", "vault "], "A": []}

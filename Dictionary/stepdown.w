@@ -1,0 +1,1 @@
+{"index": 303751, "D": "serving to reduce or decrease voltage", "S": ["abandon ", "abdicate ", "bow out ", "drop out ", "leave ", "quit ", "retire ", "terminate "], "A": ["assert ", "begin ", "come ", "continue ", "defend ", "hold ", "join ", "keep ", "maintain ", "remain ", "retain "]}

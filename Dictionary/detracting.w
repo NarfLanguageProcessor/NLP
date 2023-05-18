@@ -1,0 +1,1 @@
+{"index": 83274, "D": "to take away a part, as from quality, value, or reputation (usually followed by from).", "S": ["derogatory ", "disparaging ", "injurious ", "insulting "], "A": ["complimentary "]}

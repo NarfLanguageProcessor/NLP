@@ -1,0 +1,1 @@
+{"index": 193098, "D": "the setting of the moon  below the horizon.", "S": [], "A": []}

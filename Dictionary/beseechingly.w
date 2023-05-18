@@ -1,0 +1,1 @@
+{"index": 32293, "D": "to implore urgently", "S": ["compellingly ", "eagerly ", "earnestly ", "frantically ", "hastily ", "vigorously "], "A": []}

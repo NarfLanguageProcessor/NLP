@@ -1,0 +1,1 @@
+{"index": 89271, "D": "causing anxiety or uneasiness; disturbing", "S": ["annoying ", "bothersome ", "disconcerting ", "distressing ", "disturbing ", "perplexing ", "troubling ", "unsettling ", "vexing ", "worrying "], "A": ["calming ", "pleasing ", "settling ", "soothing "]}

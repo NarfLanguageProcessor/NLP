@@ -1,0 +1,1 @@
+{"index": 127401, "D": "a person or thing that goes", "S": [], "A": []}

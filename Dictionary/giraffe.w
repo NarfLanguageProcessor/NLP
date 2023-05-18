@@ -1,0 +1,1 @@
+{"index": 125446, "D": "a tall, long-necked, spotted ruminant, Giraffa camelopardalis, of Africa", "S": ["buffalo ", "camel ", "cattle ", "cow ", "deer ", "elephant ", "hippopotamus ", "hog ", "horse ", "llama ", "pig ", "rhinoceros ", "swine ", "tapir "], "A": []}

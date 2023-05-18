@@ -1,0 +1,1 @@
+{"index": 79496, "D": "to deprive of a right, money, or property by fraud", "S": ["deceiving ", "deception ", "dishonesty "], "A": ["frankness ", "honesty ", "openness ", "truthfulness "]}

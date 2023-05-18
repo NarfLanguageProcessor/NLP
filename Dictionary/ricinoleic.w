@@ -1,0 +1,1 @@
+{"index": 272563, "D": "of or derived from ricinoleic acid. ", "S": [], "A": []}

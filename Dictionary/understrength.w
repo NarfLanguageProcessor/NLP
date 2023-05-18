@@ -1,0 +1,1 @@
+{"index": 339922, "D": "having insufficient organizational strength;  lacking in personnel", "S": [], "A": []}

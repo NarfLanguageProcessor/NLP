@@ -1,0 +1,1 @@
+{"index": 240016, "D": "surgical incision into the pleura, esp to drain fluid, as in pleurisy", "S": [], "A": []}

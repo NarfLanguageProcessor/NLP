@@ -1,0 +1,1 @@
+{"index": 236852, "D": "having many pimples. ", "S": ["besmirch ", "bespatter ", "blot ", "blotch ", "dapple ", "dirty ", "dot ", "fleck ", "maculate ", "marble ", "mottle ", "pepper ", "pimple ", "soil ", "spatter ", "speck ", "speckle ", "splash ", "splotch ", "stipple ", "streak ", "stripe ", "stud ", "sully ", "taint ", "tarnish "], "A": ["clean "]}

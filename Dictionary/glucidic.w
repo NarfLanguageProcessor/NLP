@@ -1,0 +1,1 @@
+{"index": 126825, "D": "any of various organic compounds that consist of or contain a carbohydrate.", "S": [], "A": []}

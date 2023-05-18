@@ -1,0 +1,1 @@
+{"index": 217205, "D": "an act of wanton cruelty or violence; any gross violation of law or decency.", "S": ["annoyed ", "bitter ", "enraged ", "exasperated ", "furious ", "heated ", "impassioned ", "indignant ", "irate ", "irritable ", "irritated ", "offended ", "resentful ", "sullen ", "uptight "], "A": ["calm ", "happy ", "mild ", "peaceful ", "pleased "]}

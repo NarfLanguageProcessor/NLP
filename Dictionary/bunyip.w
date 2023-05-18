@@ -1,0 +1,1 @@
+{"index": 42875, "D": "a mythical creature of Aboriginal legend said to inhabit water and watercourses.", "S": [], "A": []}

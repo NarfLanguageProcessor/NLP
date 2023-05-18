@@ -1,0 +1,1 @@
+{"index": 250610, "D": "a bishop who is elected to represent the church body and to summon and preside at synods but who possesses no metropolitan power.", "S": [], "A": []}

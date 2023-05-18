@@ -1,0 +1,1 @@
+{"index": 301318, "D": "characterized by spring  or elasticity; flexible; resilient", "S": [], "A": []}

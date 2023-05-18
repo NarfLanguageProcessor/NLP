@@ -1,0 +1,1 @@
+{"index": 237700, "D": "of, relating to, or resulting from burning.", "S": [], "A": []}

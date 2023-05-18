@@ -1,0 +1,1 @@
+{"index": 232811, "D": "a vacuole within a phagocyte that contains bacteria or other ingested particles and that becomes fused with a lysosome.", "S": [], "A": []}

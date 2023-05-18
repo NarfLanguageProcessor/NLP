@@ -1,0 +1,1 @@
+{"index": 221693, "D": "telling the truth,  especially habitually", "S": [], "A": []}

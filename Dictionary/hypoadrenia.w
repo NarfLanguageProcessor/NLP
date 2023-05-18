@@ -1,0 +1,1 @@
+{"index": 140767, "D": "underactivity of the adrenal gland,  as in Addison's disease.", "S": [], "A": []}

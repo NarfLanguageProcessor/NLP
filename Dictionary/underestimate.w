@@ -1,0 +1,1 @@
+{"index": 339155, "D": "to estimate  at too low a value, rate, or the like.", "S": ["belittle ", "miscalculate ", "underrate ", "undervalue "], "A": ["exaggerate ", "overestimate ", "overrate ", "overvalue ", "praise ", "value ", "approve ", "commend ", "compliment ", "flatter ", "laud "]}

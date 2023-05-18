@@ -1,0 +1,1 @@
+{"index": 9906, "D": "causing great surprise or sudden wonder", "S": ["abnormally ", "curiously ", "peculiarly ", "rarely ", "remarkably ", "startlingly ", "strikingly ", "surprisingly ", "uncommonly ", "uniquely ", "unusually "], "A": ["frequently "]}

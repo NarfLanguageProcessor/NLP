@@ -1,0 +1,1 @@
+{"index": 187879, "D": "pertaining to minimal or trivial things; small, minor, or insignificant; negligible", "S": [], "A": []}

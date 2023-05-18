@@ -1,0 +1,1 @@
+{"index": 347922, "D": "to disentangle or remove from a piled  condition", "S": [], "A": []}

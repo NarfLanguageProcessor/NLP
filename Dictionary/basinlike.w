@@ -1,0 +1,1 @@
+{"index": 28668, "D": "a circular container with a greater width than depth, becoming smaller toward the bottom, used chiefly to hold water or other liquid, especially for washing.", "S": [], "A": []}

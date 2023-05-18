@@ -1,0 +1,1 @@
+{"index": 156633, "D": "from or within the mind or self", "S": [], "A": []}

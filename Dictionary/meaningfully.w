@@ -1,0 +1,1 @@
+{"index": 181757, "D": "full of meaning, significance, purpose, or value; purposeful; significant", "S": ["consciously ", "knowingly ", "pointedly ", "purposely ", "studiously ", "voluntarily ", "willfully "], "A": ["unintentionally ", "unwittingly "]}

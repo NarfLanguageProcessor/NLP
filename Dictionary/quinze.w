@@ -1,0 +1,1 @@
+{"index": 258948, "D": "a card game with rules similar to those of vingt-et-un, except that the score aimed at is 15 rather than 21", "S": [], "A": []}

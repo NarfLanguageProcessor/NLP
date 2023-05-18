@@ -1,0 +1,1 @@
+{"index": 107573, "D": "having a wide range or extent; comprehensive; extensive", "S": ["beauty ", "breadth ", "brilliance ", "dignity ", "glory ", "grandiosity ", "gravity ", "greatness ", "magnificence ", "majesty ", "nobility ", "opulence ", "pomp ", "richness ", "splendor ", "vastness "], "A": ["dullness ", "insignificance ", "simplicity ", "ugliness ", "unimportance "]}

@@ -1,0 +1,1 @@
+{"index": 343443, "D": "to remove the hair from, as a hide in preparation for tanning.", "S": [], "A": []}

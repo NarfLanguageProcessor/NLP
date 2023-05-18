@@ -1,0 +1,1 @@
+{"index": 116636, "D": "an ancestor.", "S": ["antecedent(s) ", "ascendant ", "patriarch ", "precursor ", "predecessor ", "primogenitor ", "progenitor "], "A": []}

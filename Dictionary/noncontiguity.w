@@ -1,0 +1,1 @@
+{"index": 202435, "D": "the state of being contiguous;  contact or proximity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 188903, "D": "conduct or activity that playfully causes petty annoyance.", "S": ["catastrophe ", "evil ", "misconduct ", "playfulness ", "prank ", "sabotage ", "vandalism ", "wrongdoing "], "A": ["advantage ", "aid ", "behavior ", "benefit ", "blessing ", "good ", "happiness ", "help ", "kindness ", "obedience ", "right "]}

@@ -1,0 +1,1 @@
+{"index": 16423, "D": "against war or a particular war", "S": [], "A": []}

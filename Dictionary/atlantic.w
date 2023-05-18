@@ -1,0 +1,1 @@
+{"index": 22657, "D": "of or relating to the Atlantic Ocean. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 116472, "D": "situated at or toward the front, as compared with something else.", "S": ["ante ", "forward "], "A": ["aft ", "back "]}

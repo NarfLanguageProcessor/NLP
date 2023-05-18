@@ -1,0 +1,1 @@
+{"index": 239750, "D": "seven daughters of Atlas and half sisters of the Hyades, placed among the stars to save them from the pursuit of Orion. One of them (the Lost Pleiad ) hides, either from grief or shame.", "S": [], "A": []}

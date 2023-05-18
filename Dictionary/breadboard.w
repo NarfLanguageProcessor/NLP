@@ -1,0 +1,1 @@
+{"index": 40192, "D": "a slab of wood on which dough is kneaded and bread  is sliced.", "S": [], "A": []}

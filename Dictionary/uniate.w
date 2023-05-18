@@ -1,0 +1,1 @@
+{"index": 343977, "D": "a member of an Eastern church that is in union with the Roman Catholic Church, acknowledges the Roman pope as supreme in matters of faith, but maintains its own liturgy, discipline, and rite.", "S": [], "A": []}

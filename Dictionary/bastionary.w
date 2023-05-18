@@ -1,0 +1,1 @@
+{"index": 28851, "D": "a projecting portion of a rampart or fortification that forms an irregular pentagon attached at the base to the main work.", "S": [], "A": []}

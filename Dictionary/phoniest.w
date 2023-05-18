@@ -1,0 +1,1 @@
+{"index": 234707, "D": "phony. ", "S": ["bogus ", "counterfeit ", "forged ", "sham ", "spurious "], "A": ["authentic ", "genuine ", "real ", "true "]}

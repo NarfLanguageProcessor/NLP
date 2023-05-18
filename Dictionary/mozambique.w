@@ -1,0 +1,1 @@
+{"index": 194447, "D": "Formerly Por\u00b7tu\u00b7guese East Af\u00b7ri\u00b7ca .", "S": [], "A": []}

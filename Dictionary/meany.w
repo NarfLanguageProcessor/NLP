@@ -1,0 +1,1 @@
+{"index": 181752, "D": "U.S. labor leader", "S": ["beast ", "brute ", "bully ", "tyrant "], "A": []}

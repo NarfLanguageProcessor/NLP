@@ -1,0 +1,1 @@
+{"index": 149174, "D": "the quality or condition of being improper; incorrectness.", "S": ["indecency "], "A": ["correction "]}

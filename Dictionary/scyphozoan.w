@@ -1,0 +1,1 @@
+{"index": 280793, "D": "any coelenterate of the class Scyphozoa, comprising the true marine jellyfishes.", "S": [], "A": []}

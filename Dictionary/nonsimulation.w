@@ -1,0 +1,1 @@
+{"index": 207283, "D": "imitation or enactment, as of something anticipated or in testing.", "S": [], "A": []}

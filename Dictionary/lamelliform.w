@@ -1,0 +1,1 @@
+{"index": 167655, "D": "shaped like a lamella; platelike; scalelike.", "S": [], "A": []}

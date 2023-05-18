@@ -1,0 +1,1 @@
+{"index": 26174, "D": "superlative of bad1 (def. 36). ", "S": ["finest ", "first ", "first-rate ", "leading ", "outstanding ", "perfect ", "terrific "], "A": ["inferior ", "poor ", "least ", "minor ", "poorest ", "secondary ", "unimportant ", "worst "]}

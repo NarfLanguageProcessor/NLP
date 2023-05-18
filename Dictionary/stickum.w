@@ -1,0 +1,1 @@
+{"index": 304332, "D": "any adhesive substance.", "S": ["band ", "binding ", "chain ", "connection ", "cord ", "fastening ", "fetter ", "gunk ", "handcuff ", "hookup ", "irons ", "ligature ", "link ", "linkage ", "manacle ", "network ", "nexus ", "rope ", "shackle ", "tie ", "tie-in ", "wire "], "A": []}

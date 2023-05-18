@@ -1,0 +1,1 @@
+{"index": 23876, "D": "(in Germany and Austria) a superhighway; expressway.", "S": [], "A": []}

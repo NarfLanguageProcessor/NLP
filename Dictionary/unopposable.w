@@ -1,0 +1,1 @@
+{"index": 347173, "D": "capable of being placed opposite  to something else", "S": [], "A": []}

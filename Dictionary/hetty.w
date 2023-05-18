@@ -1,0 +1,1 @@
+{"index": 137839, "D": "a female given name, form of Hester  or Esther. ", "S": [], "A": []}

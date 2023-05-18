@@ -1,0 +1,1 @@
+{"index": 19920, "D": "a band of leather or other material worn about the wrist or lower part of the arm  for protection and support.", "S": [], "A": []}

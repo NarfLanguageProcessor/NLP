@@ -1,0 +1,1 @@
+{"index": 126854, "D": "an aminosugar occurring in many polysaccharides of vertebrate tissue and also as the major component of chitin.", "S": [], "A": []}

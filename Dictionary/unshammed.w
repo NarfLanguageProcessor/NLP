@@ -1,0 +1,1 @@
+{"index": 350918, "D": "something that is not what it purports to be; a spurious imitation; fraud or hoax.", "S": [], "A": []}

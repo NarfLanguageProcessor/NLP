@@ -1,0 +1,1 @@
+{"index": 349222, "D": "stubbornly maintaining earlier positions, beliefs, etc.; not adjusted to new or current situations", "S": ["old-line ", "ultraconservative "], "A": ["compromising ", "conceding ", "flexible "]}

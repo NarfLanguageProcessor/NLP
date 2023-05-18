@@ -1,0 +1,1 @@
+{"index": 151283, "D": "a crystalline compound, C8H7NO, that is obtained by the hydrolysis of indican and is readily oxidized to furnish indigo.", "S": [], "A": []}

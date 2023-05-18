@@ -1,0 +1,1 @@
+{"index": 359929, "D": "a condenser for alcohol vapors escaping from fermenting wine.", "S": [], "A": []}

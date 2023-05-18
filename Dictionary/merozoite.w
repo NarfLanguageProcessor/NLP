@@ -1,0 +1,1 @@
+{"index": 183949, "D": "(in the asexual reproduction of certain sporozoans) a cell developed from a schizont that parasitizes a red blood cell in the host.", "S": [], "A": []}

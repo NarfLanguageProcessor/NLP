@@ -1,0 +1,1 @@
+{"index": 339099, "D": "(of food) not thoroughly cooked; not cooked enough.", "S": ["bloody ", "rare ", "raw ", "uncooked ", "undone "], "A": ["burnt ", "overdone ", "well-done "]}

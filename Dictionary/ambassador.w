@@ -1,0 +1,1 @@
+{"index": 9939, "D": "a diplomatic official of the highest rank, sent by one sovereign or state to another as its resident representative (ambassador extraordinary and plenipotentiary ).", "S": ["agent ", "consul ", "deputy ", "diplomat ", "emissary ", "envoy ", "minister ", "plenipotentiary "], "A": []}

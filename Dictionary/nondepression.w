@@ -1,0 +1,1 @@
+{"index": 202937, "D": "the act of depressing. ", "S": [], "A": []}

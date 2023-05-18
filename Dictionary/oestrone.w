@@ -1,0 +1,1 @@
+{"index": 211523, "D": "a weak oestrogenic hormone secreted by the mammalian ovary and having the same medical uses as oestradiol. Formula", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82006, "D": "to assess the value of (some types of property, such as agricultural land) at a lower rate than others for local taxation", "S": [], "A": []}

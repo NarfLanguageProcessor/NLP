@@ -1,0 +1,1 @@
+{"index": 255057, "D": "having or characterized by financial success or good fortune; flourishing; successful", "S": [], "A": []}

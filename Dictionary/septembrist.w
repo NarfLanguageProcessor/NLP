@@ -1,0 +1,1 @@
+{"index": 285656, "D": "a person who instigated or took part in the September Massacre.", "S": [], "A": []}

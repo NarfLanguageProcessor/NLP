@@ -1,0 +1,1 @@
+{"index": 351083, "D": "avoided by people out of dislike, mistrust, disapproval, etc.", "S": [], "A": []}

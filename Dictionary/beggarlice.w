@@ -1,0 +1,1 @@
+{"index": 30617, "D": "any of several plants, especially of the genera Cynoglossum and Hackelia, having small, prickly fruits that stick to clothing.", "S": [], "A": []}

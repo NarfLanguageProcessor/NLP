@@ -1,0 +1,1 @@
+{"index": 66626, "D": "to acquire by force of arms; win in war", "S": ["defenseless ", "exposed ", "in danger ", "undefendable ", "vulnerable ", "weak "], "A": ["guarded ", "protected ", "safe ", "secure "]}

@@ -1,0 +1,1 @@
+{"index": 298615, "D": "the study of the characteristics of space beyond the atmosphere, including the mapping of the movements of celestial bodies and the recording of electrical, magnetic, and gravitational effects, especially those likely to affect missiles and spacecraft.", "S": [], "A": []}

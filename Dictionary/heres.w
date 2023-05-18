@@ -1,0 +1,1 @@
+{"index": 137061, "D": "an heir.", "S": ["attendant ", "attending ", "hither ", "present "], "A": ["there "]}

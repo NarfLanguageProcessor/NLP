@@ -1,0 +1,1 @@
+{"index": 360241, "D": "virtual reality", "S": ["ground ", "heart "], "A": ["consequence ", "effect ", "end ", "outcome ", "outgrowth ", "result "]}

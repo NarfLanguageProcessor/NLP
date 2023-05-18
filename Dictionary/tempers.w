@@ -1,0 +1,1 @@
+{"index": 318533, "D": "a particular state of mind or feelings.", "S": ["attitude ", "climate ", "disposition ", "humor ", "mood ", "personality ", "spirit ", "temperament "], "A": ["body "]}

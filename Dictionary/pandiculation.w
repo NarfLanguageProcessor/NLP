@@ -1,0 +1,1 @@
+{"index": 224495, "D": "the act of stretching oneself, especially on waking.", "S": [], "A": []}

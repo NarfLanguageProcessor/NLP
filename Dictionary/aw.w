@@ -1,0 +1,1 @@
+{"index": 24916, "D": "(used to express protest, disbelief, disgust, or commiseration.)", "S": [], "A": []}

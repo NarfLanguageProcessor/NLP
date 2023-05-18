@@ -1,0 +1,1 @@
+{"index": 159018, "D": "a line drawn on a map connecting points having equal rainfall at a certain time or for a stated period.", "S": [], "A": []}

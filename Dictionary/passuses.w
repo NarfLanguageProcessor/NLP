@@ -1,0 +1,1 @@
+{"index": 227388, "D": "a section or division of a story, poem, etc.; canto.", "S": [], "A": []}

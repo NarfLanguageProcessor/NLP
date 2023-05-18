@@ -1,0 +1,1 @@
+{"index": 277165, "D": "a marine and freshwater food fish, Salmo salar, of the family Salmonidae, having pink flesh, inhabiting waters off the North Atlantic coasts of Europe and North America near the mouths of large rivers, which it enters to spawn.", "S": ["apricot ", "cantaloupe ", "carrot ", "coral ", "peach ", "tangerine ", "titian "], "A": []}

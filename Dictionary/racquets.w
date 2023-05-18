@@ -1,0 +1,1 @@
+{"index": 259488, "D": "a game played with rackets  and a ball by two or four persons on a four-walled court.", "S": [], "A": []}

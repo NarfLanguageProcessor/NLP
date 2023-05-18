@@ -1,0 +1,1 @@
+{"index": 274789, "D": "rough,  disorderly playing, especially indoors.", "S": ["bluffing ", "farce ", "frolicking ", "jesting ", "joshing ", "kidding ", "roughhouse ", "sham ", "skylarking ", "spoofing ", "teasing ", "trifling "], "A": ["seriousness "]}

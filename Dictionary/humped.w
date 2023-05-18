@@ -1,0 +1,1 @@
+{"index": 145080, "D": "having a hump. ", "S": ["angled ", "arced ", "arched ", "bowed ", "contorted ", "crooked ", "drooping ", "hooked ", "hunched ", "inclined ", "limp ", "looped ", "round ", "rounded ", "slumped ", "stooped ", "twined ", "twisted ", "warped ", "wilted "], "A": ["straight "]}

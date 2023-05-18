@@ -1,0 +1,1 @@
+{"index": 93912, "D": "a simple past tense and past participle of dig1  and dig2. ", "S": [], "A": []}

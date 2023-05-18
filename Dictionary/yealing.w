@@ -1,0 +1,1 @@
+{"index": 146697, "D": "a person of the same age as oneself.", "S": [], "A": []}

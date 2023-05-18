@@ -1,0 +1,1 @@
+{"index": 245919, "D": "the fact or state of running for office or of seeking a position, title, degree, etc.", "S": [], "A": []}

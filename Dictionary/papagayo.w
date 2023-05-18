@@ -1,0 +1,1 @@
+{"index": 225096, "D": "an inlet of the Pacific, on the NW coast of Costa Rica. 15 miles (25 km) long; 25 miles (40 km) wide.", "S": [], "A": []}

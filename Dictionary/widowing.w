@@ -1,0 +1,1 @@
+{"index": 365547, "D": "a woman who has lost her spouse by death and has not remarried.", "S": [], "A": []}

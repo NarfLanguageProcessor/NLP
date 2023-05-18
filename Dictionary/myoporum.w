@@ -1,0 +1,1 @@
+{"index": 188230, "D": "any of several shrubs or trees of the genus Myoporum, chiefly of Australia and New Zealand, cultivated in warm regions as hedges or ornamentals.", "S": [], "A": []}

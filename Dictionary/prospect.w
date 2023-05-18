@@ -1,0 +1,1 @@
+{"index": 253192, "D": "the outlook for the future", "S": ["anticipation ", "chance ", "expectation ", "forecast ", "future ", "hope ", "likelihood ", "plan ", "possibility ", "probability ", "promise ", "proposal ", "thought "], "A": ["hopelessness ", "impossibility ", "unlikelihood "]}

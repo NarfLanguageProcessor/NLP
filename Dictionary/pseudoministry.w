@@ -1,0 +1,1 @@
+{"index": 254904, "D": "the service, functions, or profession of a minister  of religion.", "S": [], "A": []}

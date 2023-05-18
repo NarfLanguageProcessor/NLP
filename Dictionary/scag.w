@@ -1,0 +1,1 @@
+{"index": 279352, "D": "heroin. ", "S": ["dope ", "drug ", "narcotic ", "smack "], "A": []}

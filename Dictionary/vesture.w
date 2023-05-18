@@ -1,0 +1,1 @@
+{"index": 359122, "D": "any such covering, as grass or wheat.", "S": ["attire ", "garb ", "regalia ", "sportswear ", "wardrobe "], "A": []}

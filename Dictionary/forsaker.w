@@ -1,0 +1,1 @@
+{"index": 117583, "D": "to quit or leave entirely; abandon; desert", "S": ["defector ", "deserter ", "dissident ", "heretic ", "insurgent ", "mutineer ", "traitor "], "A": ["adherent ", "follower "]}

@@ -1,0 +1,1 @@
+{"index": 266811, "D": "to free from confinement, bondage, obligation, pain, etc.; let go", "S": ["discharged "], "A": []}

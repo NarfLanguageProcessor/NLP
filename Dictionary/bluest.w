@@ -1,0 +1,1 @@
+{"index": 36779, "D": "the pure color of a clear sky; the primary color between green and violet in the visible spectrum, an effect of light with a wavelength between 450 and 500 nanometers.", "S": ["blue-green "], "A": []}

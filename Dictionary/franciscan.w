@@ -1,0 +1,1 @@
+{"index": 118327, "D": "of or relating to St. Francis  or the Franciscans.", "S": [], "A": []}

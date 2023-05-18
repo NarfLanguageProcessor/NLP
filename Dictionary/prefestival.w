@@ -1,0 +1,1 @@
+{"index": 247562, "D": "a day or time of religious or other celebration, marked by feasting, ceremonies, or other observances", "S": [], "A": []}

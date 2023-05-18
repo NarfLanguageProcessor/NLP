@@ -1,0 +1,1 @@
+{"index": 10483, "D": "belonging or pertaining to the Amygdalaceae, a family of plants bearing fruit containing a single hard seed.", "S": [], "A": []}

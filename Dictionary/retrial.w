@@ -1,0 +1,1 @@
+{"index": 270726, "D": "a second or new trial, esp of a case that has already been adjudicated upon", "S": [], "A": []}

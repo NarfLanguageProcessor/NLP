@@ -1,0 +1,1 @@
+{"index": 187490, "D": "a wheel, especially a waterwheel, for driving a mill.", "S": [], "A": []}

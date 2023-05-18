@@ -1,0 +1,1 @@
+{"index": 163744, "D": "a native or inhabitant of the Falkland Islands.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160978, "D": "a native or inhabitant of the island of Jersey.", "S": [], "A": []}

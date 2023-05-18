@@ -1,0 +1,1 @@
+{"index": 354870, "D": "highest in place, order, rank, power, etc.", "S": ["apical ", "culminating ", "highest ", "loftiest ", "topmost ", "upmost "], "A": ["bottom ", "lower ", "lowest ", "trivial "]}

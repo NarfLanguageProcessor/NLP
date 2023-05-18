@@ -1,0 +1,1 @@
+{"index": 321702, "D": "any of various succulent plants of the crassulaceous genus Crassula, having sessile or short-stalked fleshy leaves", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 301263, "D": "a small spray of some plant with its leaves, flowers, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52574, "D": "completely confused or disordered", "S": ["anarchic ", "disorganized ", "helter-skelter ", "lawless ", "tumultuous ", "turbulent "], "A": ["calm "]}

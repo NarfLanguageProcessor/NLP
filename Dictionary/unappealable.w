@@ -1,0 +1,1 @@
+{"index": 335080, "D": "not appealable to a higher court, as a cause.", "S": ["decisive ", "definite ", "finished "], "A": ["indefinite "]}

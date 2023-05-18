@@ -1,0 +1,1 @@
+{"index": 225447, "D": "an advocate or intercessor.", "S": ["comforter ", "intercessor "], "A": []}

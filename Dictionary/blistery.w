@@ -1,0 +1,1 @@
+{"index": 36283, "D": "having blisters,  as paint or glass.", "S": ["fiery ", "heated ", "scalding ", "scorching ", "searing ", "sizzling ", "sweltering ", "torrid "], "A": ["cold ", "cool ", "freezing "]}

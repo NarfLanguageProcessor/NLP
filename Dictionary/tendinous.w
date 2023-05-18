@@ -1,0 +1,1 @@
+{"index": 318778, "D": "of the nature of or resembling a tendon. ", "S": [], "A": []}

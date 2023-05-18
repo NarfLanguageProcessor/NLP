@@ -1,0 +1,1 @@
+{"index": 90431, "D": "to disclose or reveal (something private, secret, or previously unknown).", "S": ["announcement ", "discovery ", "epiphany ", "leak ", "news "], "A": ["concealment ", "cover ", "hiding ", "quiet ", "secret "]}

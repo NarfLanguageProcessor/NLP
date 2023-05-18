@@ -1,0 +1,1 @@
+{"index": 278032, "D": "an Indo-European, Indic language, in use since c1200 b.c. as the religious and classical literary language of India. Abbreviations", "S": [], "A": []}

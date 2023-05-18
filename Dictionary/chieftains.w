@@ -1,0 +1,1 @@
+{"index": 54226, "D": "the chief of a clan or a tribe.", "S": ["bigwig ", "boss ", "tribal chief "], "A": ["follower "]}

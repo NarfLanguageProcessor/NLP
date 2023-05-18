@@ -1,0 +1,1 @@
+{"index": 166739, "D": "a person engaged in work that requires bodily strength rather than skill or training", "S": ["dwarfs ", "elfenfolk ", "elves ", "fairies ", "fairyfolk ", "leprechauns ", "midgets ", "the unremarkable "], "A": []}

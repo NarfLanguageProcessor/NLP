@@ -1,0 +1,1 @@
+{"index": 94188, "D": "a coarse-grained igneous rock composed almost entirely of olivine.", "S": [], "A": []}

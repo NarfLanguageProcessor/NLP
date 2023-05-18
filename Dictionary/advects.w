@@ -1,0 +1,1 @@
+{"index": 4585, "D": "to move by the process of advection. ", "S": [], "A": []}

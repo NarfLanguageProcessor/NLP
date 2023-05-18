@@ -1,0 +1,1 @@
+{"index": 4697, "D": "one of a group of students assigned to a faculty adviser  for help in selection of a course of studies.", "S": [], "A": []}

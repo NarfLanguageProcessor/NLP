@@ -1,0 +1,1 @@
+{"index": 233157, "D": "a book published usually under the jurisdiction of the government and containing a list of drugs, their formulas, methods for making medicinal preparations, requirements and tests for their strength and purity, and other related information.", "S": [], "A": []}

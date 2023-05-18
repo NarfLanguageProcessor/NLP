@@ -1,0 +1,1 @@
+{"index": 36168, "D": "any of several terrestrial orchids of the genus Bletilla, of eastern Asia, as B. striata, having terminal clusters of showy purple or white flowers.", "S": [], "A": []}

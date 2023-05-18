@@ -1,0 +1,1 @@
+{"index": 113452, "D": "having a broad, deeply cleft beak or bill, as the swallows and goatsuckers.", "S": [], "A": []}

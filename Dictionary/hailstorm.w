@@ -1,0 +1,1 @@
+{"index": 132345, "D": "a storm  with hail. ", "S": ["barrage ", "bombardment ", "rain ", "salvo ", "shower ", "storm ", "volley "], "A": []}

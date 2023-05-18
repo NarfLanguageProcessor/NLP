@@ -1,0 +1,1 @@
+{"index": 245559, "D": "to allow to enter; grant or afford entrance to", "S": [], "A": []}

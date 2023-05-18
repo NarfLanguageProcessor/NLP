@@ -1,0 +1,1 @@
+{"index": 262486, "D": "to put in the ground and cover with earth", "S": [], "A": []}

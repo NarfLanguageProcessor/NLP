@@ -1,0 +1,1 @@
+{"index": 254796, "D": "of, relating to, or having the form of a hexagon. ", "S": [], "A": []}

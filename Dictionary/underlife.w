@@ -1,0 +1,1 @@
+{"index": 339422, "D": "the condition that distinguishes organisms from inorganic objects and dead organisms, being manifested by growth through metabolism, reproduction, and the power of adaptation to environment through changes originating internally.", "S": [], "A": []}

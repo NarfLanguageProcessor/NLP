@@ -1,0 +1,1 @@
+{"index": 5980, "D": "relating to, involving, or fostering discrimination against persons of a certain age group", "S": [], "A": []}

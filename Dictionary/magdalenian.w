@@ -1,0 +1,1 @@
+{"index": 177370, "D": "of or relating to the final Paleolithic culture of much of western Europe, dating from c13,000\u201310,000 b.c. and notable for its artifacts of bone, antler, and ivory and for the cave art of western France and northeastern Spain.", "S": [], "A": []}

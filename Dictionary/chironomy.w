@@ -1,0 +1,1 @@
+{"index": 54789, "D": [], "S": ["ASL ", "American Sign Language ", "dactylology ", "deaf-and-dumb alphabet ", "finger alphabet ", "fingerspelling ", "gesture language ", "manual alphabet ", "signing ", "signing alphabet "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183400, "D": "a member of an evangelical Protestant sect, originating in Europe in the 16th century, that opposes infant baptism, practices baptism of believers only, restricts marriage to members of the denomination, opposes war and bearing arms, and is noted for simplicity of living and plain dress.", "S": [], "A": []}

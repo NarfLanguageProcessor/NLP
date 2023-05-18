@@ -1,0 +1,1 @@
+{"index": 103408, "D": "the quality of being fair or impartial; fairness; impartiality", "S": ["fairness "], "A": ["dishonesty "]}

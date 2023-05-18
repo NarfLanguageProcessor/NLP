@@ -1,0 +1,1 @@
+{"index": 23591, "D": "the Charioteer, a northern constellation between Perseus and Gemini, containing the bright star Capella.", "S": [], "A": []}

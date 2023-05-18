@@ -1,0 +1,1 @@
+{"index": 257605, "D": [], "S": ["quadruple ", "quadruplicate ", "quaternary ", "tetrad "], "A": []}

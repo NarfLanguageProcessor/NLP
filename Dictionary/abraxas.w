@@ -1,0 +1,1 @@
+{"index": 813, "D": "a word of unknown significance found on charms, especially amulets, of the late Greco-Roman world and linked with both Gnostic beliefs and magical practices by the early church fathers.", "S": ["abracadabra ", "access ", "key ", "keyword ", "magic formula ", "opener ", "password ", "paternoster ", "secret sign ", "watchword "], "A": []}

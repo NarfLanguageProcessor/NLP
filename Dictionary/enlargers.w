@@ -1,0 +1,1 @@
+{"index": 100649, "D": "an apparatus used for making projection prints, having a head for holding, illuminating, and projecting a film negative and a bed for holding a sheet of sensitized printing paper.", "S": [], "A": []}

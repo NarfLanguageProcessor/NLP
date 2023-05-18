@@ -1,0 +1,1 @@
+{"index": 202159, "D": "the state of being an accomplice; partnership or involvement in wrongdoing", "S": [], "A": []}

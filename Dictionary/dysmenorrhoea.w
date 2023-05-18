@@ -1,0 +1,1 @@
+{"index": 88692, "D": "abnormally difficult or painful menstruation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186688, "D": "equally distant from the extremes or outer limits; central", "S": ["intermediate "], "A": ["exterior ", "extreme ", "outside "]}

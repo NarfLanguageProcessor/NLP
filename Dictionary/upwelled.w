@@ -1,0 +1,1 @@
+{"index": 355224, "D": "to well  up, as water from a spring.", "S": [], "A": []}

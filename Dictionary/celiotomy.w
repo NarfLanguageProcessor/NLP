@@ -1,0 +1,1 @@
+{"index": 50543, "D": "laparotomy (def. 2). ", "S": [], "A": []}

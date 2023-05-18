@@ -1,0 +1,1 @@
+{"index": 73711, "D": "to sing or hum in a soft, soothing voice", "S": ["chanting "], "A": []}

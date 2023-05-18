@@ -1,0 +1,1 @@
+{"index": 136419, "D": "to subject (red blood cells) to hemolysis.", "S": [], "A": []}

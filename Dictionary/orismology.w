@@ -1,0 +1,1 @@
+{"index": 214637, "D": "the science of defining the technical or special terms of a particular subject or field of study.", "S": [], "A": []}

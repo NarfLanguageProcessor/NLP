@@ -1,0 +1,1 @@
+{"index": 247366, "D": "to change from a liquid or solid state into vapor;  pass off in vapor.", "S": [], "A": []}

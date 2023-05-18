@@ -1,0 +1,1 @@
+{"index": 288898, "D": "a butter cookie commonly made in thick, pie-shaped wheels or rolled and cut in fancy shapes.", "S": [], "A": []}

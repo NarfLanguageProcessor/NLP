@@ -1,0 +1,1 @@
+{"index": 304492, "D": "of or relating to style. ", "S": ["eloquent ", "rhetorical "], "A": []}

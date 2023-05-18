@@ -1,0 +1,1 @@
+{"index": 298002, "D": "lying toward, situated in, or directed toward the south.", "S": ["austral ", "from the south ", "meridional ", "of the south ", "southerly ", "toward the south "], "A": ["northern "]}

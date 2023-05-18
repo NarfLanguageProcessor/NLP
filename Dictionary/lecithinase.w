@@ -1,0 +1,1 @@
+{"index": 169837, "D": "any of a group of enzymes that remove the fatty-acid residue from lecithins", "S": [], "A": []}

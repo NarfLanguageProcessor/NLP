@@ -1,0 +1,1 @@
+{"index": 340487, "D": "not discovered or encountered", "S": ["little-known ", "obscure ", "uncharted ", "undetected ", "unexplored ", "unfamiliar ", "unheard-of "], "A": ["familiar ", "known ", "usual "]}

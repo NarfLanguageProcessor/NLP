@@ -1,0 +1,1 @@
+{"index": 10900, "D": "among. ", "S": ["amidst ", "among ", "between ", "during ", "mid ", "over ", "surrounded by ", "throughout "], "A": ["away from ", "beyond ", "outside ", "separate "]}

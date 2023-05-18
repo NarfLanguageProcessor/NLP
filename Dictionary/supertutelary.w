@@ -1,0 +1,1 @@
+{"index": 312833, "D": "having the position of guardian or protector of a person, place, or thing", "S": [], "A": []}

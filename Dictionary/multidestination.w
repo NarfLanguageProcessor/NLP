@@ -1,0 +1,1 @@
+{"index": 195059, "D": "the place to which a person or thing travels or is sent", "S": [], "A": []}

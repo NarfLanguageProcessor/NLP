@@ -1,0 +1,1 @@
+{"index": 293725, "D": "to spread or apply thickly", "S": ["oodles "], "A": ["little "]}

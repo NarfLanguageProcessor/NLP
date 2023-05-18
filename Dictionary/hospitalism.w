@@ -1,0 +1,1 @@
+{"index": 144167, "D": "hospital  conditions having an adverse effect on patients.", "S": [], "A": []}

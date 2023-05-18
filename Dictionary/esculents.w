@@ -1,0 +1,1 @@
+{"index": 104266, "D": "suitable for use as food; edible. ", "S": ["comestible ", "consumable ", "digestible ", "eatable ", "edible ", "palatable "], "A": []}

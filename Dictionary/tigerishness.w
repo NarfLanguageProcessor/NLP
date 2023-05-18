@@ -1,0 +1,1 @@
+{"index": 323447, "D": "tigerlike, as in strength, fierceness, courage, or coloration.", "S": [], "A": []}

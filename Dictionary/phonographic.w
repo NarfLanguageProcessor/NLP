@@ -1,0 +1,1 @@
+{"index": 234733, "D": "of, relating to, or characteristic of a phonograph.", "S": [], "A": []}

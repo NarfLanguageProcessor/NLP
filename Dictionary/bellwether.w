@@ -1,0 +1,1 @@
+{"index": 31248, "D": "a wether  or other male sheep that leads the flock, usually bearing a bell. ", "S": ["doyen ", "forerunner ", "guide ", "lead ", "sheep "], "A": []}

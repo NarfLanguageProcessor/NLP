@@ -1,0 +1,1 @@
+{"index": 149891, "D": "penetrating; cutting; biting; trenchant", "S": ["bite ", "burn ", "guts ", "keenness ", "kick ", "piquancy ", "punch ", "sharpness ", "spice ", "sting ", "zip "], "A": ["blandness ", "dullness ", "idleness ", "lethargy "]}

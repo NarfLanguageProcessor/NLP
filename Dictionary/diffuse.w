@@ -1,0 +1,1 @@
+{"index": 85346, "D": "to pour out and spread, as a fluid.", "S": ["broadcast ", "circulated ", "diluted ", "dispersed ", "disseminated ", "distributed ", "expanded ", "extended ", "general ", "propagated ", "radiated ", "scattered ", "separated ", "strewn ", "thin "], "A": ["concentrated ", "condensed "]}

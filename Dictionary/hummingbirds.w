@@ -1,0 +1,1 @@
+{"index": 145025, "D": "a very small nectar-sipping New World bird  of the family Trochilidae, characterized by the brilliant, iridescent plumage of the male, a slender bill, and narrow wings, the extremely rapid beating of which produces a humming  sound", "S": [], "A": []}

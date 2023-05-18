@@ -1,0 +1,1 @@
+{"index": 249239, "D": "farsightedness due to ciliary muscle weakness and loss of elasticity in the crystalline lens.", "S": [], "A": []}

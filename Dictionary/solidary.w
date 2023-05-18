@@ -1,0 +1,1 @@
+{"index": 296717, "D": "characterized by or involving community of responsibilities and interests.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155980, "D": "a period of temporary retreat of ice during a glacial stage; a warming period.", "S": [], "A": []}

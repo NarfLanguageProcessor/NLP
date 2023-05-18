@@ -1,0 +1,1 @@
+{"index": 135319, "D": "a grain sorghum having chalky white seeds.", "S": [], "A": []}

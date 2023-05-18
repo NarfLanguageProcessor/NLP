@@ -1,0 +1,1 @@
+{"index": 135059, "D": "to make dull or blunt.", "S": ["benumb ", "daze ", "deaden ", "dim ", "numb ", "stupefy "], "A": []}

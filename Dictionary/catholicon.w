@@ -1,0 +1,1 @@
+{"index": 49745, "D": "a universal remedy; panacea.", "S": ["antidote ", "drug ", "elixir ", "fix ", "healing ", "medication ", "medicine ", "panacea ", "placebo ", "quick fix ", "recovery ", "remedy ", "treatment "], "A": ["injury ", "blockage ", "hindrance ", "hurt ", "obstruction ", "stop "]}

@@ -1,0 +1,1 @@
+{"index": 318801, "D": "a threadlike, leafless organ of climbing plants, often growing in spiral form, which attaches itself to or twines round some other body, so as to support the plant.", "S": ["cirrus ", "clasp ", "coil ", "curl ", "ringlet "], "A": []}

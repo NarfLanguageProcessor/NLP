@@ -1,0 +1,1 @@
+{"index": 215726, "D": "a small opening or orifice, as at the end of the oviduct.", "S": [], "A": []}

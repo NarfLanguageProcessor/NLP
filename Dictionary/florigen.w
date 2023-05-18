@@ -1,0 +1,1 @@
+{"index": 115048, "D": "a hypothetical plant hormone produced in the leaves and transported to the apex to initiate flowering.", "S": [], "A": []}

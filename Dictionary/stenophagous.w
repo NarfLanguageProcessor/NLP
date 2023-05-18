@@ -1,0 +1,1 @@
+{"index": 303690, "D": "(of an animal) feeding on a limited variety of foods (opposed to euryphagous).", "S": [], "A": []}

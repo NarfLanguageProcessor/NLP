@@ -1,0 +1,1 @@
+{"index": 9945, "D": "a woman who is an ambassador. ", "S": [], "A": []}

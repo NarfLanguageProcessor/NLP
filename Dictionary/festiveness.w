@@ -1,0 +1,1 @@
+{"index": 111699, "D": "pertaining to or suitable for a feast or festival", "S": ["blowout ", "celebration ", "conviviality ", "festival ", "festivity ", "fun ", "jollity ", "merriment ", "merrymaking ", "party ", "revelry "], "A": []}

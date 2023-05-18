@@ -1,0 +1,1 @@
+{"index": 245063, "D": "pulse per second.", "S": [], "A": []}

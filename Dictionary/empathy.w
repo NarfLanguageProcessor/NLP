@@ -1,0 +1,1 @@
+{"index": 98707, "D": "the psychological identification with or vicarious experiencing of the emotions, thoughts, or attitudes of another", "S": ["affinity ", "appreciation ", "compassion ", "insight ", "pity ", "rapport ", "sympathy ", "warmth "], "A": ["disdain ", "hatred ", "indifference ", "mercilessness ", "disagreement ", "discord ", "disunity "]}

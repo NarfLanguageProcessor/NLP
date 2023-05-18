@@ -1,0 +1,1 @@
+{"index": 268639, "D": "serving to reproduce. ", "S": ["conceptive ", "generating ", "procreative ", "reproducing "], "A": []}

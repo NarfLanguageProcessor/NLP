@@ -1,0 +1,1 @@
+{"index": 355374, "D": "of, relating to, or designating a city or town", "S": ["civic ", "civil ", "downtown ", "metropolitan "], "A": ["country ", "rural ", "suburban "]}

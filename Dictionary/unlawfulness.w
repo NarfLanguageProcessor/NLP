@@ -1,0 +1,1 @@
+{"index": 345474, "D": "not lawful; contrary to law; illegal.", "S": ["illegitimacy ", "illicitness "], "A": []}

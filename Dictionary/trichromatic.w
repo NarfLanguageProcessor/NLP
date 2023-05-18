@@ -1,0 +1,1 @@
+{"index": 329507, "D": "pertaining to the use or combination of three colors, as in printing or in color photography.", "S": [], "A": []}

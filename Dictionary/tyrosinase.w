@@ -1,0 +1,1 @@
+{"index": 324554, "D": "an oxidizing enzyme, occurring in plant and animal tissues, that catalyzes the aerobic oxidation of tyrosine  into melanin and other pigments.", "S": [], "A": []}

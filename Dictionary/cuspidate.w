@@ -1,0 +1,1 @@
+{"index": 75662, "D": "having a cusp  or cusps.", "S": ["aciculate ", "aciculated ", "acuminate ", "acute ", "cuspate ", "cuspated ", "cusped ", "cuspidated ", "cusplike ", "pointy ", "sharp "], "A": []}

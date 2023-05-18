@@ -1,0 +1,1 @@
+{"index": 26233, "D": "an affectionate term used to address or refer to one\u2019s girlfriend, boyfriend, spouse, etc.", "S": [], "A": []}

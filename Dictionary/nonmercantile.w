@@ -1,0 +1,1 @@
+{"index": 205242, "D": "of or relating to merchants or trade; commercial.", "S": [], "A": []}

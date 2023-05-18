@@ -1,0 +1,1 @@
+{"index": 49384, "D": "inflammation of a mucous membrane, especially of the respiratory tract, accompanied by excessive secretions.", "S": [], "A": []}

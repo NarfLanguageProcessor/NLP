@@ -1,0 +1,1 @@
+{"index": 303779, "D": "a ladder  having flat steps  or treads in place of rungs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202010, "D": "the act of coercing;  use of force or intimidation to obtain compliance.", "S": [], "A": []}

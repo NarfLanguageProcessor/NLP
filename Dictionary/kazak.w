@@ -1,0 +1,1 @@
+{"index": 163454, "D": "a member of a nomadic Muslim people living mainly in Kazakhstan.", "S": [], "A": []}

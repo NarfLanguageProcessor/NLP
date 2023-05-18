@@ -1,0 +1,1 @@
+{"index": 72498, "D": "bringing or deserving credit,  honor, reputation, or esteem.", "S": ["believableness ", "credibility ", "credibleness ", "creditableness ", "plausibility ", "plausibleness ", "reliability ", "reliableness ", "trustworthiness ", "validity ", "validness ", "verisimilitude "], "A": []}

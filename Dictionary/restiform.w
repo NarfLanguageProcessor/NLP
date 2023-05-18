@@ -1,0 +1,1 @@
+{"index": 269919, "D": "(esp of bundles of nerve fibres) shaped like a cord or rope; cordlike", "S": [], "A": []}

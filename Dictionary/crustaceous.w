@@ -1,0 +1,1 @@
+{"index": 74293, "D": "of the nature of or pertaining to a crust or shell.", "S": [], "A": []}

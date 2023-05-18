@@ -1,0 +1,1 @@
+{"index": 219626, "D": "a growth  overspreading or covering something.", "S": [], "A": []}

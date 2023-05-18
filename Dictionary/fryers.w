@@ -1,0 +1,1 @@
+{"index": 118966, "D": "a person or thing that fries. ", "S": [], "A": []}

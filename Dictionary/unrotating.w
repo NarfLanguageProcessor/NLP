@@ -1,0 +1,1 @@
+{"index": 350077, "D": "to cause to turn around an axis or center point; revolve.", "S": [], "A": []}

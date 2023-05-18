@@ -1,0 +1,1 @@
+{"index": 205905, "D": "(of pesticides) breaking down rapidly after application; not persisting in the environment", "S": [], "A": []}

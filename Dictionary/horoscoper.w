@@ -1,0 +1,1 @@
+{"index": 143938, "D": "the casting or taking of horoscopes. ", "S": [], "A": []}

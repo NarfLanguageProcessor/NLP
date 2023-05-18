@@ -1,0 +1,1 @@
+{"index": 41049, "D": "a hat with a broad brim, especially one with a flat brim, as that once characteristically worn by Quaker men and common today only among certain conservative Quaker groups", "S": [], "A": []}

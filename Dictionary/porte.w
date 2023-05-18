@@ -1,0 +1,1 @@
+{"index": 243605, "D": "the former Ottoman court or government in Turkey.", "S": [], "A": []}

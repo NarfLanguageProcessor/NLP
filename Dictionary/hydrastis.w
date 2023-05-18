@@ -1,0 +1,1 @@
+{"index": 138440, "D": "goldenseal (def. 2). ", "S": [], "A": []}

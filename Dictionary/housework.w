@@ -1,0 +1,1 @@
+{"index": 144496, "D": "the work  of cleaning, cooking, etc., to be done in housekeeping.", "S": ["housekeeping ", "sewing "], "A": []}

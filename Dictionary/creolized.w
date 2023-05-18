@@ -1,0 +1,1 @@
+{"index": 72668, "D": "(of a language) formerly a pidgin  or the base language of a pidgin, but now the native language of a group of speakers, with an enriched vocabulary and grammatical structure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114624, "D": "without material strength or solidity", "S": ["clone ", "copy ", "facsimile ", "imitation ", "likeness ", "miniature ", "model ", "reproduction "], "A": ["difference ", "original "]}

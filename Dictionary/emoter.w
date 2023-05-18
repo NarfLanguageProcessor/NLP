@@ -1,0 +1,1 @@
+{"index": 98638, "D": "to show or pretend emotion", "S": [], "A": []}

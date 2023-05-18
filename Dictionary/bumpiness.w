@@ -1,0 +1,1 @@
+{"index": 42763, "D": "of uneven surface; full of bumps", "S": ["distortion ", "flaw ", "inconsistency "], "A": ["perfection ", "conformity ", "continuation ", "regularity ", "sameness "]}

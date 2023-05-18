@@ -1,0 +1,1 @@
+{"index": 83962, "D": "a fine-grained gabbro occurring as minor intrusions.", "S": [], "A": []}

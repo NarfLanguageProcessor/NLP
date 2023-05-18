@@ -1,0 +1,1 @@
+{"index": 279173, "D": "any of numerous hymenopterous insects of the family Tenthredinidae, the female of which has a sawlike ovipositor for inserting the eggs in the tissues of a host plant.", "S": [], "A": []}

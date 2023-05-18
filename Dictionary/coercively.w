@@ -1,0 +1,1 @@
+{"index": 62054, "D": "serving or tending to coerce. ", "S": ["effectively "], "A": ["weakly "]}

@@ -1,0 +1,1 @@
+{"index": 213236, "D": "generous; liberal", "S": ["altruistic ", "benevolent ", "big ", "big-hearted ", "bountiful ", "charitable ", "considerate ", "giving ", "helpful ", "hospitable ", "kind ", "kindhearted ", "kindly ", "liberal ", "magnanimous ", "philanthropic ", "thoughtful ", "unselfish "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322918, "D": "a dull sound, as of a heavy blow or fall.", "S": [], "A": []}

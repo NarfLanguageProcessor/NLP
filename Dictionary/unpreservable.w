@@ -1,0 +1,1 @@
+{"index": 348408, "D": "to keep alive or in existence; make lasting", "S": [], "A": []}

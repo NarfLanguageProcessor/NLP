@@ -1,0 +1,1 @@
+{"index": 366037, "D": "a sail rigged over a hatchway, ventilator, or the like, to divert moving air downward into the vessel.", "S": [], "A": []}

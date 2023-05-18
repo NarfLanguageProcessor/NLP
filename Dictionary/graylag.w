@@ -1,0 +1,1 @@
+{"index": 128638, "D": "a common, gray, wild goose, Anser anser, of Europe, that is the ancestor of most breeds of domestic goose.", "S": [], "A": []}

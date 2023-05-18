@@ -1,0 +1,1 @@
+{"index": 202630, "D": "being or nearing the highest point or final stage", "S": [], "A": []}

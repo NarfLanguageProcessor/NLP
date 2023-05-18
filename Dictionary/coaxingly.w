@@ -1,0 +1,1 @@
+{"index": 61167, "D": "the act of gently persuading, flattering, cajoling, etc., to influence someone to do something", "S": [], "A": []}

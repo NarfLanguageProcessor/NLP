@@ -1,0 +1,1 @@
+{"index": 228891, "D": "destructive to lice.", "S": [], "A": []}

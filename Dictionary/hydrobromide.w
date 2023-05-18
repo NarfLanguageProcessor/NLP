@@ -1,0 +1,1 @@
+{"index": 138529, "D": "a salt formed by the direct union of hydrobromic acid and an organic base, especially an alkaloid, usually more soluble than the base.", "S": [], "A": []}

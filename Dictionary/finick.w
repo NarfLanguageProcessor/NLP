@@ -1,0 +1,1 @@
+{"index": 112995, "D": "to affect extreme daintiness or refinement.", "S": [], "A": []}

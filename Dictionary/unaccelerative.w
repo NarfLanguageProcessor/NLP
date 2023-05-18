@@ -1,0 +1,1 @@
+{"index": 334405, "D": "tending to accelerate;  increasing the velocity of.", "S": [], "A": []}

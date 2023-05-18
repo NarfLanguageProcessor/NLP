@@ -1,0 +1,1 @@
+{"index": 51925, "D": "bargaining; haggling.", "S": ["chat ", "chatter ", "chitchat ", "confabulate ", "discuss ", "palaver ", "speak ", "talk "], "A": ["be quiet ", "listen "]}

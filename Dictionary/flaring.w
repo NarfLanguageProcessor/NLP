@@ -1,0 +1,1 @@
+{"index": 114004, "D": "blazing; flaming.", "S": ["afire ", "aflame "], "A": ["dark ", "dim ", "dull ", "unexcited "]}

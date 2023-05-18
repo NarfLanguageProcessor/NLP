@@ -1,0 +1,1 @@
+{"index": 136568, "D": "the fiber of an agave, Agave fourcroydes, of Yucat\u00e1n, used for making ropes, coarse fabrics, etc.", "S": [], "A": []}

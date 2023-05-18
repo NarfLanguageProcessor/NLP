@@ -1,0 +1,1 @@
+{"index": 360262, "D": "conforming to moral and ethical principles; morally excellent; upright", "S": ["honest ", "honorable ", "noble ", "principled ", "righteous ", "wholesome "], "A": ["bad ", "dishonest "]}

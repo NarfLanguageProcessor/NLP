@@ -1,0 +1,1 @@
+{"index": 187037, "D": "to go from one country, region, or place to another.", "S": ["drift ", "emigrate ", "immigrate ", "roam ", "shift ", "trek ", "wander "], "A": ["remain ", "stay "]}

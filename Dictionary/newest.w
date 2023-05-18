@@ -1,0 +1,1 @@
+{"index": 199385, "D": "of recent origin, production, purchase, etc.; having but lately come or been brought into being", "S": ["advanced ", "brand-new ", "modern ", "new ", "newfangled ", "ultramodern ", "up-to-date "], "A": ["old ", "old-fashioned ", "out-of-date ", "outdated "]}

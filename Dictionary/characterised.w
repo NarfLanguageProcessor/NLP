@@ -1,0 +1,1 @@
+{"index": 52721, "D": "having been described or distinguished", "S": ["define ", "describe ", "identify ", "indicate ", "mark ", "outline ", "portray ", "represent ", "symbolize "], "A": ["confuse ", "mix up "]}

@@ -1,0 +1,1 @@
+{"index": 33537, "D": "(in India) an inexpensive cigarette, locally produced usually from cut tobacco rolled in leaf.", "S": [], "A": []}

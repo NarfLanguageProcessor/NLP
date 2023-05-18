@@ -1,0 +1,1 @@
+{"index": 11771, "D": "to separate (a material or abstract entity) into constituent parts or elements; determine the elements or essential features of (opposed to synthesize)", "S": ["argued ", "assumed ", "concluded ", "considered ", "debated ", "determined ", "discussed ", "explained ", "hypothesized ", "posited ", "postulated ", "reasoned ", "thought "], "A": []}

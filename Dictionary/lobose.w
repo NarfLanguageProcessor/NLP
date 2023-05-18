@@ -1,0 +1,1 @@
+{"index": 174224, "D": "having broad, thick pseudopodia, as certain ameboid protozoans.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149679, "D": "the state of not having the necessary ability, qualification, or strength to perform some specified act or function; incapacity", "S": ["elimination ", "exclusion "], "A": ["ability ", "aptitude ", "capability "]}

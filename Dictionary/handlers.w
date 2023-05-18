@@ -1,0 +1,1 @@
+{"index": 133214, "D": "a person or thing that handles. ", "S": ["assistant ", "broker ", "commissioner ", "deputy ", "lawyer ", "minister ", "officer ", "operative ", "operator ", "promoter ", "representative ", "worker "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 9566, "D": "helpless at birth or hatching and requiring parental care for a period of time (opposed to precocial.)", "S": [], "A": []}

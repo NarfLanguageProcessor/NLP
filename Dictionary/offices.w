@@ -1,0 +1,1 @@
+{"index": 211619, "D": "a room, set of rooms, or building where the business of a commercial or industrial organization or of a professional person is conducted", "S": ["aid ", "coattails ", "good deed ", "instrumentality ", "intervention ", "ministration ", "mitzvah ", "support ", "troubleshooting "], "A": []}

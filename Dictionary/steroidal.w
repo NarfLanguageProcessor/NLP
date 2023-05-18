@@ -1,0 +1,1 @@
+{"index": 304130, "D": "any of a large group of fat-soluble organic compounds, as the sterols,  bile acids, and sex hormones, most of which have specific physiological action.", "S": [], "A": []}

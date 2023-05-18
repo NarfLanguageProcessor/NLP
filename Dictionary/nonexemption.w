@@ -1,0 +1,1 @@
+{"index": 203761, "D": "the circumstances of a taxpayer, such as their age or number of dependents, that allow them to make certain deductions from taxable income.", "S": [], "A": []}

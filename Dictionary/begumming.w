@@ -1,0 +1,1 @@
+{"index": 30757, "D": "(in India) a high-ranking Muslim woman, especially a widow.", "S": [], "A": []}

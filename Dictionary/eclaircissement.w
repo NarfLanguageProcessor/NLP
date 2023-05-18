@@ -1,0 +1,1 @@
+{"index": 95305, "D": "clarification; explanation.", "S": [], "A": []}

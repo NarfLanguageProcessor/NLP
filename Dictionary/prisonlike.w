@@ -1,0 +1,1 @@
+{"index": 250794, "D": "a building for the confinement of persons held while awaiting trial, persons sentenced after conviction, etc.", "S": [], "A": []}

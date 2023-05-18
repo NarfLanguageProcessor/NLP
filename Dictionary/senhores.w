@@ -1,0 +1,1 @@
+{"index": 285271, "D": "a Portuguese term of address equivalent to sir or Mr., used alone or capitalized and prefixed to the name of a man. Abbreviation", "S": [], "A": []}

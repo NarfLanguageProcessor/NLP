@@ -1,0 +1,1 @@
+{"index": 148564, "D": "not subject to decay; indestructible; enduring.", "S": [], "A": []}

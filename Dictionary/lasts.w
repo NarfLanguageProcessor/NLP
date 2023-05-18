@@ -1,0 +1,1 @@
+{"index": 168786, "D": "occurring or coming after all others, as in time, order, or place", "S": ["finish "], "A": ["beginning ", "commencement ", "introduction ", "opening ", "start "]}

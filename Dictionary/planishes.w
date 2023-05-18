@@ -1,0 +1,1 @@
+{"index": 238994, "D": "to give a smooth finish to (metal) by striking lightly with a smoothly faced hammer or die.", "S": [], "A": []}

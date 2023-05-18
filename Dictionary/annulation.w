@@ -1,0 +1,1 @@
+{"index": 13640, "D": "the formation of rings", "S": [], "A": []}

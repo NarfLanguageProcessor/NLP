@@ -1,0 +1,1 @@
+{"index": 312087, "D": "without formality or ceremony; casual", "S": [], "A": []}

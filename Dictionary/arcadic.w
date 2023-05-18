@@ -1,0 +1,1 @@
+{"index": 18630, "D": "of or relating to the Arcadians or to their dialect of Ancient Greek", "S": [], "A": []}

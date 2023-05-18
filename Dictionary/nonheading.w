@@ -1,0 +1,1 @@
+{"index": 204399, "D": "something that serves as a head,  top, or front.", "S": [], "A": []}

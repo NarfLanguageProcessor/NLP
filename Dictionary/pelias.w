@@ -1,0 +1,1 @@
+{"index": 229276, "D": "a son of Poseidon and Tyro. He feared his nephew Jason and sent him to recover the Golden Fleece, hoping he would not return", "S": [], "A": []}

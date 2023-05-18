@@ -1,0 +1,1 @@
+{"index": 84544, "D": "the separation of normally joined parts, as in the dislocation of bones, without fracture.", "S": [], "A": []}

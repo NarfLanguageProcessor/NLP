@@ -1,0 +1,1 @@
+{"index": 180775, "D": "the forms of culture, as music, drama, and literature, as selected, interpreted, and popularized by the mass media for dissemination to the widest possible audience.", "S": [], "A": []}

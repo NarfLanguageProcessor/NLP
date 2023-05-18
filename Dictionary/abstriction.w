@@ -1,0 +1,1 @@
+{"index": 1109, "D": "a method of spore formation in fungi in which successive portions of the sporophore are cut off through the growth of septa; abjunction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70824, "D": "a contrary or opposing force,  tendency, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117001, "D": "to predict; foretell.", "S": ["anticipate ", "call ", "conclude ", "crystal-ball ", "envision ", "forecast ", "foresee ", "think "], "A": ["ignore ", "calculate ", "disbelieve ", "measure ", "misunderstand "]}

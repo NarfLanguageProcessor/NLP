@@ -1,0 +1,1 @@
+{"index": 99636, "D": "the last part or extremity, lengthwise, of anything that is longer than it is wide or broad", "S": ["completed ", "concluded ", "finished "], "A": []}

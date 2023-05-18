@@ -1,0 +1,1 @@
+{"index": 87897, "D": "to free from embroilment, entanglement, or confusion.", "S": ["detach ", "disengage ", "emancipate ", "extricate ", "unravel ", "unscramble ", "untangle ", "untie "], "A": ["attach ", "connect ", "tangle ", "tie ", "unite ", "block ", "close ", "combine ", "hide ", "join "]}

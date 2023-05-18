@@ -1,0 +1,1 @@
+{"index": 351300, "D": "not skillful; clumsy or bungling.", "S": ["amateurish ", "awkward ", "clumsy ", "gauche ", "inapt ", "inept ", "inexperienced ", "inexpert ", "maladroit ", "menial ", "unartful ", "unskilled "], "A": ["skillful "]}

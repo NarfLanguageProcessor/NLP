@@ -1,0 +1,1 @@
+{"index": 231026, "D": "any of several aromatic Asian plants belonging to the genus Perilla, of the mint family, especially P. frutescens, which has become naturalized in the eastern U.S. and from which perilla oil is obtained.", "S": [], "A": []}

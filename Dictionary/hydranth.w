@@ -1,0 +1,1 @@
+{"index": 138421, "D": "the terminal part of a hydroid polyp that bears the mouth and tentacles and contains the stomach region.", "S": [], "A": []}

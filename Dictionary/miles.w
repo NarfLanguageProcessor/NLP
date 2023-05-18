@@ -1,0 +1,1 @@
+{"index": 187145, "D": "U.S. army officer.", "S": ["deep ", "distant ", "long "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363523, "D": "any instrument or device for use in attack or defense in combat, fighting, or war, as a sword, rifle, or cannon.", "S": ["helpless ", "powerless "], "A": ["able ", "strong "]}

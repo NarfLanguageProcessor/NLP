@@ -1,0 +1,1 @@
+{"index": 34163, "D": "celebration of Mass twice on the same day by the same priest.", "S": [], "A": []}

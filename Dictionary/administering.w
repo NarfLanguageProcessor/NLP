@@ -1,0 +1,1 @@
+{"index": 4139, "D": "to manage (affairs, a government, etc.); have executive charge of", "S": ["admonishing ", "advising ", "controlling ", "executing ", "governing ", "guiding ", "handling ", "husbanding ", "inspecting ", "leading ", "operating ", "organizing ", "overseeing ", "piloting ", "regulating ", "steering ", "superintending ", "supervising "], "A": ["subordinate "]}

@@ -1,0 +1,1 @@
+{"index": 308115, "D": "a subordinate group;  a division of a group. ", "S": [], "A": []}

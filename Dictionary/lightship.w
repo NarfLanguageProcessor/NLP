@@ -1,0 +1,1 @@
+{"index": 172073, "D": "a ship  anchored in a specific location and displaying or flashing a very bright light  for the guidance of ships, as in avoiding dangerous areas. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148449, "D": "not penetrable; that cannot be penetrated, pierced, entered, etc.", "S": [], "A": []}

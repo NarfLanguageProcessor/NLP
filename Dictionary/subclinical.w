@@ -1,0 +1,1 @@
+{"index": 307478, "D": "pertaining to an early stage of a disease; having no noticeable clinical  symptoms.", "S": [], "A": []}

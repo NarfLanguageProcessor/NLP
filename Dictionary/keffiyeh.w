@@ -1,0 +1,1 @@
+{"index": 163612, "D": "a cotton headdress worn by Arabs", "S": [], "A": []}

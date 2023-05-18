@@ -1,0 +1,1 @@
+{"index": 169285, "D": "to wash; bathe.", "S": ["bath ", "bathe ", "bubble ", "cleanse ", "dip ", "douse ", "drench ", "float ", "hose ", "imbue ", "immerse ", "lap ", "launder ", "moisten ", "rinse ", "scour ", "scrub ", "shampoo ", "shine ", "shower ", "slosh ", "soak ", "soap ", "sponge ", "starch ", "swab ", "wet ", "wipe "], "A": ["dehydrate ", "dirty ", "dry ", "ignore "]}

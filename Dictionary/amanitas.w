@@ -1,0 +1,1 @@
+{"index": 9789, "D": "any agaricaceous fungus of the genus Amanita, comprised chiefly of poisonous species.", "S": [], "A": []}

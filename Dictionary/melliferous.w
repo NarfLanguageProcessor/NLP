@@ -1,0 +1,1 @@
+{"index": 182930, "D": "yielding or producing honey.", "S": ["alveolate ", "faveolate ", "nectariferous ", "nectarous "], "A": []}

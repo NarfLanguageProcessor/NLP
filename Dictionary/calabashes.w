@@ -1,0 +1,1 @@
+{"index": 44698, "D": "any of various gourds, especially the bottle gourd, Lagenaria siceraria.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127465, "D": "any goiter-producing substance, as thiouracil.", "S": [], "A": []}

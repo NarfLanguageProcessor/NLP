@@ -1,0 +1,1 @@
+{"index": 109670, "D": "unreal; imaginary", "S": ["absurd ", "bizarre ", "extravagant ", "fantastic ", "fantastical ", "fictional ", "imaginative ", "offbeat ", "preposterous ", "unreal ", "whimsical "], "A": ["normal ", "reasonable ", "sensible ", "usual "]}

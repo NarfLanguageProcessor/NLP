@@ -1,0 +1,1 @@
+{"index": 242543, "D": "to cause to be political;  color with politics.", "S": [], "A": []}

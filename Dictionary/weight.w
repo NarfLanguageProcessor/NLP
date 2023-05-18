@@ -1,0 +1,1 @@
+{"index": 363892, "D": "the amount or quantity of heaviness or mass; amount a thing weighs.", "S": ["burden ", "density ", "gravity ", "heft ", "load ", "pressure ", "substance "], "A": ["triviality ", "unimportance "]}

@@ -1,0 +1,1 @@
+{"index": 150998, "D": "accompanied by or suffering from indigestion; dyspeptic.", "S": [], "A": []}

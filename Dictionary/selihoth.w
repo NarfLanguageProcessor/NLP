@@ -1,0 +1,1 @@
+{"index": 283565, "D": "liturgical prayers serving as expressions of repentance and pleas for God's forgiveness, recited by Jews during the period, usually beginning the preceding week, before Rosh Hashanah, during the period between Rosh Hashanah and Yom Kippur, and on fast days.", "S": [], "A": []}

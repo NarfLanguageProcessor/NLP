@@ -1,0 +1,1 @@
+{"index": 346980, "D": "to feed and protect", "S": [], "A": []}

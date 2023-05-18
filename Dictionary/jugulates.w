@@ -1,0 +1,1 @@
+{"index": 162175, "D": "to check or suppress (disease) by extreme measures.", "S": [], "A": []}

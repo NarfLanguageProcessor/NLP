@@ -1,0 +1,1 @@
+{"index": 219697, "D": "to heat to excess.", "S": [], "A": []}

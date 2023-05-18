@@ -1,0 +1,1 @@
+{"index": 48857, "D": "money in the form of coins or banknotes, especially that issued by a government.", "S": [], "A": []}

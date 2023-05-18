@@ -1,0 +1,1 @@
+{"index": 273351, "D": "a bank, shore, or coast.", "S": [], "A": []}

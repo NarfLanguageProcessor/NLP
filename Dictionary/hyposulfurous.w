@@ -1,0 +1,1 @@
+{"index": 141230, "D": "of or derived from hyposulfurous acid. ", "S": [], "A": []}

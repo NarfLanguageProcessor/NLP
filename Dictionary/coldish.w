@@ -1,0 +1,1 @@
+{"index": 62670, "D": "having a relatively low temperature; having little or no warmth", "S": ["chilly ", "frigid ", "frosty ", "refreshing "], "A": ["hot ", "warm "]}

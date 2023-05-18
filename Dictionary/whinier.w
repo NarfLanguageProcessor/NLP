@@ -1,0 +1,1 @@
+{"index": 364872, "D": "complaining; fretful; cranky", "S": ["obnoxious ", "rude ", "unpleasant "], "A": ["agreeable ", "delightful ", "kind ", "nice ", "pleasant "]}

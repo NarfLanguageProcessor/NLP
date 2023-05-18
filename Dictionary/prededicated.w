@@ -1,0 +1,1 @@
+{"index": 246710, "D": "to set apart and consecrate to a deity or to a sacred purpose", "S": [], "A": []}

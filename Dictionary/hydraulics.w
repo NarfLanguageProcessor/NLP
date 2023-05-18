@@ -1,0 +1,1 @@
+{"index": 138460, "D": "the science that deals with the laws governing water or other liquids in motion and their applications in engineering; practical or applied hydrodynamics.", "S": [], "A": []}

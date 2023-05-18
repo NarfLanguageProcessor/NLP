@@ -1,0 +1,1 @@
+{"index": 297074, "D": "in or at some  place not specified, determined, or known", "S": ["around ", "elsewhere ", "here and there ", "someplace "], "A": ["nowhere "]}

@@ -1,0 +1,1 @@
+{"index": 265530, "D": "to look upon or think of with a particular feeling", "S": ["view "], "A": ["carelessness ", "disinterest ", "disregard ", "heedlessness ", "ignorance ", "inattention ", "indifference ", "neglect ", "negligence ", "thoughtlessness "]}

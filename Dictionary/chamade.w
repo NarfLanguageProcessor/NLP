@@ -1,0 +1,1 @@
+{"index": 52228, "D": "a signal by drum or trumpet inviting an enemy to a parley.", "S": [], "A": []}

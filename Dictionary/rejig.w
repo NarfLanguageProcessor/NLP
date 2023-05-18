@@ -1,0 +1,1 @@
+{"index": 266604, "D": "to re-equip (a factory or plant)", "S": [], "A": []}

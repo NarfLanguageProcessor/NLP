@@ -1,0 +1,1 @@
+{"index": 352087, "D": "full of or abounding in stones  or rock", "S": [], "A": []}

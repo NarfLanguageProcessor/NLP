@@ -1,0 +1,1 @@
+{"index": 338531, "D": "pertaining to or following a decree.", "S": [], "A": []}

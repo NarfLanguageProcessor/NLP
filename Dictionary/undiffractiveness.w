@@ -1,0 +1,1 @@
+{"index": 340348, "D": "causing or pertaining to diffraction.", "S": [], "A": []}

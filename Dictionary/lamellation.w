@@ -1,0 +1,1 @@
+{"index": 167644, "D": "an arrangement or structure in which there are thin layers, plates, or scales.", "S": [], "A": []}

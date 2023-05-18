@@ -1,0 +1,1 @@
+{"index": 167017, "D": "a game, originated by Indians of North America, in which two 10-member teams attempt to send a small ball into each other's netted goal, each player being equipped with a crosse or stick at the end of which is a netted pocket for catching, carrying, or throwing the ball.", "S": [], "A": []}

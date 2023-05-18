@@ -1,0 +1,1 @@
+{"index": 64974, "D": "an act, process, or method of computing;  calculation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 221334, "D": "fixed in direction; steadily directed", "S": [], "A": []}

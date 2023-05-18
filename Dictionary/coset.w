@@ -1,0 +1,1 @@
+{"index": 69962, "D": "a subset of a group, formed by the consistent operation of a given element of the group on the left or right of all the elements of a subgroup of the group.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229488, "D": "to subject to a penalty, as a person.", "S": [], "A": []}

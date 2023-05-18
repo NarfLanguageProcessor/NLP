@@ -1,0 +1,1 @@
+{"index": 216390, "D": "a final product or end result; consequence; issue.", "S": ["conclusion ", "event ", "fallout ", "issue ", "reaction ", "result "], "A": ["cause ", "source ", "origin ", "start "]}

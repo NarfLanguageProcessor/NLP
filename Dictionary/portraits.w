@@ -1,0 +1,1 @@
+{"index": 243724, "D": "a likeness of a person, especially of the face, as a painting, drawing, or photograph", "S": ["account ", "characterization ", "depiction ", "figure ", "image ", "likeness ", "model ", "painting ", "photograph ", "picture ", "portrayal ", "profile ", "silhouette ", "sketch ", "snapshot ", "vignette "], "A": []}

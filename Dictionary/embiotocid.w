@@ -1,0 +1,1 @@
+{"index": 98078, "D": "belonging or pertaining to the family Embiotocidae, comprising the surfperches.", "S": [], "A": []}

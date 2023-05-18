@@ -1,0 +1,1 @@
+{"index": 334577, "D": "very skilled; proficient; expert", "S": ["bulky ", "heavy-handed ", "inept ", "ponderous ", "ungainly ", "unwieldy "], "A": ["adroit ", "agile ", "athletic ", "clever ", "coordinated ", "couth ", "dexterous ", "expert ", "graceful "]}

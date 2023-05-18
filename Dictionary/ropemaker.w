@@ -1,0 +1,1 @@
+{"index": 274356, "D": "the act, skill, or process of fabricating rope. ", "S": [], "A": []}

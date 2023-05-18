@@ -1,0 +1,1 @@
+{"index": 12481, "D": "(of a recording chamber, television studio, or the like) characterized by an unusually low degree of reverberation; echo-free.", "S": [], "A": []}

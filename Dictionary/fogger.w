@@ -1,0 +1,1 @@
+{"index": 115764, "D": "a device that spreads a chemical, as an insecticide, in the form of a fog. ", "S": [], "A": []}

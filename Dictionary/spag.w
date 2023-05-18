@@ -1,0 +1,1 @@
+{"index": 298248, "D": "(of a cat) to scratch (a person) with the claws", "S": [], "A": []}

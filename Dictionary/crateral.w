@@ -1,0 +1,1 @@
+{"index": 72252, "D": "a similar depression or cavity that forms the opening of a volcano or geyser. The volcanic activity that creates such craters occurs on the surface of the earth as well as a number of other heavenly bodies.", "S": [], "A": []}

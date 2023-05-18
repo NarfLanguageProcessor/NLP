@@ -1,0 +1,1 @@
+{"index": 176812, "D": "a clublike armor-breaking weapon of war, often with a flanged or spiked metal head, used chiefly in the Middle Ages.", "S": [], "A": []}

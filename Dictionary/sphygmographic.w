@@ -1,0 +1,1 @@
+{"index": 299558, "D": "an instrument for recording the rapidity, strength, and uniformity of the arterial pulse.", "S": [], "A": []}

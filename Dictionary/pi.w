@@ -1,0 +1,1 @@
+{"index": 235672, "D": "the 16th letter of the Greek alphabet (\u03a0, \u03c0).", "S": ["P.I. ", "inquiry agent ", "private detective ", "private dick ", "private eye ", "private investigator ", "sleuth "], "A": []}

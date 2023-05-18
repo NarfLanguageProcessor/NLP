@@ -1,0 +1,1 @@
+{"index": 133365, "D": "a tag  attached to a garment or other piece of merchandise that includes information about the manufacturer or designer, the fabric or material used, the model number, care instructions, and sometimes the price.", "S": [], "A": []}

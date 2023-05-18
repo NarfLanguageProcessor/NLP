@@ -1,0 +1,1 @@
+{"index": 257276, "D": "a landing of an aircraft.", "S": ["injustice ", "insult ", "opprobrium "], "A": ["aid ", "approval ", "compliment ", "esteem ", "flattery ", "help ", "honor ", "praise ", "respect "]}

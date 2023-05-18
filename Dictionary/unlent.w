@@ -1,0 +1,1 @@
+{"index": 345543, "D": "simple past tense and past participle of lend. ", "S": [], "A": []}

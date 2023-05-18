@@ -1,0 +1,1 @@
+{"index": 256672, "D": "liable to or deserving punishment. ", "S": [], "A": []}

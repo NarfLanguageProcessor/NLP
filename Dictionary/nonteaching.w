@@ -1,0 +1,1 @@
+{"index": 207786, "D": "of or relating to a post within an academic or vocational environment that does not entail teaching", "S": [], "A": []}

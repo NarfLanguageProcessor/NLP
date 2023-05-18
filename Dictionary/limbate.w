@@ -1,0 +1,1 @@
+{"index": 172295, "D": "bordered, as a flower in which one color is surrounded by an edging of another.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291047, "D": "easy to understand, deal with, use, etc.", "S": ["clean ", "elementary ", "plain ", "quiet ", "smooth ", "straightforward ", "transparent ", "uncomplicated "], "A": ["abstruse ", "complex ", "complicated ", "difficult ", "hard ", "intricate ", "involved ", "unclear ", "vague "]}

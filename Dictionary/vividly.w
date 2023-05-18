@@ -1,0 +1,1 @@
+{"index": 360759, "D": "extremely brightly or intensely", "S": ["distinctly ", "graphically ", "strongly "], "A": []}

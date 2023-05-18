@@ -1,0 +1,1 @@
+{"index": 195943, "D": [], "S": ["brood ", "cogitate ", "consider ", "contemplate ", "deliberate ", "dream ", "feel ", "meditate ", "moon ", "percolate ", "ponder ", "reflect ", "revolve ", "roll ", "ruminate ", "speculate ", "think ", "weigh "], "A": ["disbelieve ", "discard ", "dismiss ", "disregard ", "forget ", "ignore ", "neglect "]}

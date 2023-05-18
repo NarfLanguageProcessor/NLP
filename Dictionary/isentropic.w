@@ -1,0 +1,1 @@
+{"index": 158642, "D": "having a constant entropy. ", "S": [], "A": []}

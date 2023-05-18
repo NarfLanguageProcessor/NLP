@@ -1,0 +1,1 @@
+{"index": 303899, "D": "any of two or more isomers  exhibiting stereoisomerism.", "S": [], "A": []}

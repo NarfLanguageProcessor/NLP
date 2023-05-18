@@ -1,0 +1,1 @@
+{"index": 328176, "D": "close to the speed of propagation of sound; moving at 700\u2013780 miles per hour (1127\u20131255 km/h) at sea level.", "S": [], "A": []}

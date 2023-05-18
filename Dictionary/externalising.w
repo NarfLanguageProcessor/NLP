@@ -1,0 +1,1 @@
+{"index": 108300, "D": "to make external;  embody in an outward form.", "S": [], "A": []}

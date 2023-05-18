@@ -1,0 +1,1 @@
+{"index": 317251, "D": "of a dark yellowish or dull yellowish-brown color.", "S": ["beige ", "bronze ", "brown ", "dusky ", "olive ", "swarthy ", "tanned "], "A": []}

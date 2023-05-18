@@ -1,0 +1,1 @@
+{"index": 267639, "D": "resumed, revived, or reestablished", "S": [], "A": []}

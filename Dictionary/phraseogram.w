@@ -1,0 +1,1 @@
+{"index": 235505, "D": "a written symbol or combination of symbols, as in shorthand, used to represent a phrase. ", "S": [], "A": []}

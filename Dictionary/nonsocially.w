@@ -1,0 +1,1 @@
+{"index": 207370, "D": "in the friendly company of others; in a genial or gregarious manner", "S": [], "A": []}

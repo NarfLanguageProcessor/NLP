@@ -1,0 +1,1 @@
+{"index": 164924, "D": "any of several New World constrictors of the genus Lampropeltis, that often feed on other snakes.", "S": [], "A": []}

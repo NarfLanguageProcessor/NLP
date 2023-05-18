@@ -1,0 +1,1 @@
+{"index": 92290, "D": "a heavy, drenching rain.", "S": ["deluge ", "flood ", "monsoon ", "rainstorm ", "storm "], "A": ["sprinkle "]}

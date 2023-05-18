@@ -1,0 +1,1 @@
+{"index": 19416, "D": "an orchid, Arethusa bulbosa, of eastern North America, having a solitary pink flower with a blotched, fringed lip", "S": [], "A": []}

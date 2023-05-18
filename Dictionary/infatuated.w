@@ -1,0 +1,1 @@
+{"index": 151843, "D": "possessed by a foolish or extravagant passion, esp for another person", "S": ["beguiled ", "bewitched ", "captivated ", "charmed ", "enamored ", "enraptured ", "fascinated ", "intoxicated ", "possessed ", "seduced ", "smitten ", "spellbound "], "A": ["disenchanted ", "uninterested "]}

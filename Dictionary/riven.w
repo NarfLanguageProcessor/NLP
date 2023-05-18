@@ -1,0 +1,1 @@
+{"index": 273378, "D": "a past participle of rive. ", "S": ["busted ", "collapsed ", "cracked ", "crippled ", "crumbled ", "crushed ", "damaged ", "defective ", "demolished ", "fractured ", "fragmented ", "injured ", "mangled ", "mutilated ", "ruptured ", "severed ", "shattered ", "smashed "], "A": ["perfect ", "unbroken "]}

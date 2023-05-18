@@ -1,0 +1,1 @@
+{"index": 178106, "D": "a temporary expedient or substitute", "S": [], "A": []}

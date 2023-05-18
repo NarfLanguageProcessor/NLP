@@ -1,0 +1,1 @@
+{"index": 97149, "D": "a device for recording electric currents from an active muscle to produce an electromyogram. Abbreviation", "S": [], "A": []}

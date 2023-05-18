@@ -1,0 +1,1 @@
+{"index": 271432, "D": "to activate, set in motion, or take up again; renew", "S": ["refreshed ", "rehabilitated "], "A": []}

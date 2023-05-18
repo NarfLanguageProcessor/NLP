@@ -1,0 +1,1 @@
+{"index": 227843, "D": "a plural of paterfamilias. ", "S": ["ancestor ", "antecedent ", "ascendant ", "author ", "begetter ", "forerunner ", "founder ", "materfamilias ", "matriarch ", "originator ", "parent ", "patriarch ", "precursor ", "primogenitor ", "procreator ", "progenitor ", "relative ", "sire "], "A": []}

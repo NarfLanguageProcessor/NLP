@@ -1,0 +1,1 @@
+{"index": 81620, "D": "representation in image form, as in a painting or illustration", "S": ["drawing ", "illustration ", "image ", "likeness ", "picture ", "portrayal ", "representation ", "sketch "], "A": []}

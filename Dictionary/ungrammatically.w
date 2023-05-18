@@ -1,0 +1,1 @@
+{"index": 343223, "D": "grammatically incorrect or awkward; not conforming to the rules or principles of grammar or accepted usage", "S": [], "A": []}

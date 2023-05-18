@@ -1,0 +1,1 @@
+{"index": 292163, "D": "(of liquid) to drip, ooze, or soak through.", "S": [], "A": []}

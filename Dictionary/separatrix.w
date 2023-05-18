@@ -1,0 +1,1 @@
+{"index": 285572, "D": "something that divides or separates, as the line between light and dark areas on a partially illuminated surface.", "S": [], "A": []}

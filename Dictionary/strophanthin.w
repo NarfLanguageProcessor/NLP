@@ -1,0 +1,1 @@
+{"index": 306566, "D": "a very poisonous, bitter glycoside or mixture of glycosides obtained from the dried, ripe seeds of a strophanthus,  especially Strophanthus kombe, used as a cardiac stimulant.", "S": [], "A": []}

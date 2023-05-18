@@ -1,0 +1,1 @@
+{"index": 252198, "D": "to prolong. ", "S": ["amplify ", "augment ", "continue ", "dilate ", "distend ", "drag out ", "draw ", "draw out ", "elongate ", "expand ", "extend ", "increase ", "let out ", "make longer ", "pad ", "proceed ", "prolong ", "protract ", "reach ", "spin ", "spin out ", "stretch ", "string out "], "A": []}

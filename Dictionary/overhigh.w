@@ -1,0 +1,1 @@
+{"index": 219711, "D": "having a great or considerable extent or reach upward or vertically; lofty; tall", "S": [], "A": []}

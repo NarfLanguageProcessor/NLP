@@ -1,0 +1,1 @@
+{"index": 176550, "D": "a grand duchy surrounded by Germany, France, and Belgium. 999 sq. mi. (2,585 sq. km).", "S": [], "A": []}

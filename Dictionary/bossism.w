@@ -1,0 +1,1 @@
+{"index": 38627, "D": "control by bosses,  especially political bosses. ", "S": [], "A": []}

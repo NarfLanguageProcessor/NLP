@@ -1,0 +1,1 @@
+{"index": 37103, "D": "a rope, chain, or rod from the outer end of the bowsprit to the cutwater.", "S": [], "A": []}

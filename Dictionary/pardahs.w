@@ -1,0 +1,1 @@
+{"index": 226289, "D": "a variant of purdah. ", "S": [], "A": []}

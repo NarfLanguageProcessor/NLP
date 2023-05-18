@@ -1,0 +1,1 @@
+{"index": 82981, "D": "an advocate of the destruction  of an existing political institution or the like.", "S": [], "A": []}

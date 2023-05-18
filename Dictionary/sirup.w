@@ -1,0 +1,1 @@
+{"index": 292441, "D": "US a less common spelling of syrup", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 29553, "D": "like a bear; rough, burly, or clumsy.", "S": [], "A": []}

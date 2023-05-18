@@ -1,0 +1,1 @@
+{"index": 238944, "D": "asteroid (def. 1). ", "S": ["crescent ", "half-moon ", "pumpkin ", "satellite "], "A": []}

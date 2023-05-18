@@ -1,0 +1,1 @@
+{"index": 291882, "D": "pertaining to a conjunction, or to two successive conjunctions of the same bodies.", "S": [], "A": []}

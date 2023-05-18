@@ -1,0 +1,1 @@
+{"index": 326765, "D": "a person who works in a switch tower  and, by means of a signal box, directs the movement of trains.", "S": [], "A": []}

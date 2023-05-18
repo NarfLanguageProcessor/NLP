@@ -1,0 +1,1 @@
+{"index": 266155, "D": "to establish previously imposed laws, controls, etc, again", "S": ["refurbish "], "A": ["abandon ", "antique ", "break ", "damage ", "decline ", "destroy ", "forfeit ", "harm ", "hurt ", "injure ", "kill ", "lose ", "ruin ", "weaken "]}

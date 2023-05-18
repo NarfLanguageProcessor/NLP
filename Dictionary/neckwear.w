@@ -1,0 +1,1 @@
+{"index": 197773, "D": "articles of dress worn  round or at the neck. ", "S": ["bandanna ", "shawl ", "stole "], "A": []}

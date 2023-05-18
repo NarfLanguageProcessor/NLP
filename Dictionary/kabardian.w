@@ -1,0 +1,1 @@
+{"index": 162656, "D": "a Circassian language of the Kabardino-Balkar Autonomous Republic.", "S": [], "A": []}

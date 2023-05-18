@@ -1,0 +1,1 @@
+{"index": 340654, "D": "(of a term) referring only to some members of the class designated by the term, as doctors in some doctors are overworked", "S": [], "A": []}

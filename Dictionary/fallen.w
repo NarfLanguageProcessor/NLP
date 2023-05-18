@@ -1,0 +1,1 @@
+{"index": 109486, "D": "past participle of fall. ", "S": ["collapsed ", "decayed "], "A": ["honorable ", "honored ", "lauded "]}

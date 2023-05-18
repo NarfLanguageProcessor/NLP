@@ -1,0 +1,1 @@
+{"index": 135407, "D": "a family possession handed down from generation to generation.", "S": ["antique "], "A": []}

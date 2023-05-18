@@ -1,0 +1,1 @@
+{"index": 181083, "D": "an embossed, compound fabric woven on a dobby or Jacquard loom.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 356405, "D": "not resolute; wavering; indecisive;  hesitating", "S": ["hesitating ", "unsettled ", "wavering "], "A": ["constant ", "resolute ", "steady ", "unchanging "]}

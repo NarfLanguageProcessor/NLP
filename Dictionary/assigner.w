@@ -1,0 +1,1 @@
+{"index": 21781, "D": "to give or allocate; allot", "S": [], "A": []}

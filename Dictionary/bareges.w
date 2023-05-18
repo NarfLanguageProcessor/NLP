@@ -1,0 +1,1 @@
+{"index": 27908, "D": "a sheer fabric constructed in a leno weave of silk warp and cotton or worsted filling, often used to make veils and dresses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341252, "D": [], "S": ["constant ", "continuing ", "deathless ", "eternal ", "everlasting ", "immortal ", "imperishable ", "indestructible ", "inextinguishable ", "infinite ", "interminable ", "perennial ", "permanent ", "perpetual ", "persistent ", "unceasing ", "undiminished ", "unending ", "unfading "], "A": ["ending ", "impermanent ", "mortal "]}

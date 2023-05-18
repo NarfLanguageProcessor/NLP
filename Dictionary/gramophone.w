@@ -1,0 +1,1 @@
+{"index": 128763, "D": "a phonograph.", "S": ["stereo "], "A": []}

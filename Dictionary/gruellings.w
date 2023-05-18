@@ -1,0 +1,1 @@
+{"index": 130508, "D": "exhausting; very tiring; arduously severe", "S": [], "A": []}

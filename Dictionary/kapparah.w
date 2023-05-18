@@ -1,0 +1,1 @@
+{"index": 163139, "D": "a ritual performed by some Orthodox Jews before Yom Kippur that consists of swinging a fowl around the head and reciting prayers that symbolically transfer the person's sins to the fowl.", "S": [], "A": []}

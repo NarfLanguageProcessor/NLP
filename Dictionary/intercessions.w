@@ -1,0 +1,1 @@
+{"index": 154594, "D": "an act or instance of interceding. ", "S": ["appeal ", "intervention ", "petition ", "prayer ", "request "], "A": []}

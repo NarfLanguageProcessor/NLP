@@ -1,0 +1,1 @@
+{"index": 249305, "D": "a writer, teacher, or supporter of prescriptive grammar. ", "S": [], "A": []}

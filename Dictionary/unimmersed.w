@@ -1,0 +1,1 @@
+{"index": 344273, "D": "plunged or sunk in or as if in a liquid.", "S": [], "A": []}

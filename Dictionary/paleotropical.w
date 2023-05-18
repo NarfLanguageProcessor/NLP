@@ -1,0 +1,1 @@
+{"index": 223798, "D": "belonging or pertaining to a geographical division comprising the Ethiopian and Oriental regions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346359, "D": "(of the gait, speech, behavior, etc.) affectedly dainty, nice, or elegant.", "S": [], "A": []}

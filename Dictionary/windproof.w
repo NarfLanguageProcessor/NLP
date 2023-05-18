@@ -1,0 +1,1 @@
+{"index": 366025, "D": "resisting wind,  as fabric or a jacket or coat.", "S": [], "A": []}

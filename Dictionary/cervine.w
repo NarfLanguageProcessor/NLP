@@ -1,0 +1,1 @@
+{"index": 51671, "D": "resembling or characteristic of deer; deerlike.", "S": [], "A": []}

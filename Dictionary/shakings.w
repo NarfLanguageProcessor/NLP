@@ -1,0 +1,1 @@
+{"index": 287236, "D": "the act of a person or thing that shakes. ", "S": ["agitation ", "concussion ", "convulsion ", "disturbance ", "quaver ", "tremor "], "A": ["peace "]}

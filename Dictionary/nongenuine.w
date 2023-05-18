@@ -1,0 +1,1 @@
+{"index": 204264, "D": "possessing the claimed or attributed character, quality, or origin; not counterfeit; authentic; real", "S": [], "A": []}

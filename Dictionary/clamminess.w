@@ -1,0 +1,1 @@
+{"index": 59151, "D": "covered with a cold, sticky moisture; cold and damp", "S": ["evaporation ", "moisture "], "A": ["aridity ", "dryness "]}

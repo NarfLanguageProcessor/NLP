@@ -1,0 +1,1 @@
+{"index": 151017, "D": "a blue dye obtained from various plants, especially of the genus Indigofera, or manufactured synthetically.", "S": ["blue-green "], "A": []}

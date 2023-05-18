@@ -1,0 +1,1 @@
+{"index": 107169, "D": "tending to exhilarate. ", "S": ["invigorating ", "refreshing "], "A": ["friendly ", "hot ", "responsive ", "temperate ", "warm "]}

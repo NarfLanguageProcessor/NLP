@@ -1,0 +1,1 @@
+{"index": 295777, "D": "a ball  of snow  pressed or rolled together, as for throwing.", "S": ["aggregate ", "increasing "], "A": ["decreasing ", "subtracting "]}

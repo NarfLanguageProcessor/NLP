@@ -1,0 +1,1 @@
+{"index": 122158, "D": "a grotesquely carved figure of a human or animal.", "S": [], "A": []}

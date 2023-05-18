@@ -1,0 +1,1 @@
+{"index": 257336, "D": "a long strip of cloth wound spirally round the leg from ankle to knee, worn especially formerly as part of a soldier's uniform.", "S": ["buskins ", "chaps ", "putts ", "stockings "], "A": []}

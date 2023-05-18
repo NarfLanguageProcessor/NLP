@@ -1,0 +1,1 @@
+{"index": 333502, "D": [], "S": ["artifice ", "chicanery ", "deceit ", "dishonesty ", "falsehood ", "hypocrisy "], "A": ["forthrightness ", "frankness ", "honesty ", "openness ", "sincerity ", "truth ", "truthfulness ", "constancy ", "faithfulness ", "loyalty "]}

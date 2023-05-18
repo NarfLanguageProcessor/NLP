@@ -1,0 +1,1 @@
+{"index": 41298, "D": "a combining form used in the names of chemical compounds in which bromine is present", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 251693, "D": "an exhibition of a record or paper in open court.", "S": [], "A": []}

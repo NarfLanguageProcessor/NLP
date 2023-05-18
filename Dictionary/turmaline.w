@@ -1,0 +1,1 @@
+{"index": 332775, "D": "any of a group of silicate minerals of complex composition, containing boron, aluminum, etc., usually black but having various colored, transparent varieties used as gems.", "S": [], "A": []}

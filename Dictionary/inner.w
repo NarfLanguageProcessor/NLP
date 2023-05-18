@@ -1,0 +1,1 @@
+{"index": 153023, "D": "situated within or farther within; interior", "S": ["close ", "constitutional ", "essential ", "familiar ", "focal ", "inherent ", "innermore ", "inside ", "interior ", "internal ", "intestinal ", "intimate ", "intrinsic ", "inward ", "nuclear "], "A": ["exterior ", "external ", "outer ", "outside ", "physical "]}

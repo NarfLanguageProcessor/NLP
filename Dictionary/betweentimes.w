@@ -1,0 +1,1 @@
+{"index": 32873, "D": "between  periods of work, activity, etc.", "S": [], "A": []}

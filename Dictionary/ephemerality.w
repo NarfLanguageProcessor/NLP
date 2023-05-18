@@ -1,0 +1,1 @@
+{"index": 102128, "D": "the quality or condition of being ephemeral. ", "S": ["conciseness ", "concision ", "condensation ", "crispness ", "curtness ", "economy ", "impermanence ", "pithiness ", "pointedness ", "succinctness ", "terseness ", "transience ", "transitoriness "], "A": ["lengthiness ", "longevity ", "permanence "]}

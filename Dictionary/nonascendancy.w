@@ -1,0 +1,1 @@
+{"index": 201463, "D": "the state of being in the ascendant;  governing or controlling influence; domination. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 272600, "D": "a small, two-wheeled, cartlike passenger vehicle with a fold-down top, pulled by one person, formerly used widely in Japan and China.", "S": ["truck ", "wagon "], "A": []}

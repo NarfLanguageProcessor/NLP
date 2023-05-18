@@ -1,0 +1,1 @@
+{"index": 90213, "D": "a muscle in brachiopods that controls the opening of the shell", "S": [], "A": []}

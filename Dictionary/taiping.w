@@ -1,0 +1,1 @@
+{"index": 315453, "D": "a person who participated in the unsuccessful rebellion (Taiping Rebellion ), 1850\u201364, led by Hung Hsiu-ch'\u00fcan (Hong Xiuquan), who attempted to overthrow the Manchu dynasty.", "S": [], "A": []}

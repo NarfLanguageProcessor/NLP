@@ -1,0 +1,1 @@
+{"index": 273996, "D": "an individual member of the Romani people, or Roma,  especially a man or boy.", "S": ["CD-ROM ", "programmable read-only memory ", "prom ", "small memory "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 28984, "D": "denoting or relating to a shift to a longer wavelength in the absorption spectrum of a compound", "S": [], "A": []}

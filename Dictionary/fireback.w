@@ -1,0 +1,1 @@
+{"index": 113105, "D": "a piece, lining the rear of a fireplace, usually of cast iron.", "S": [], "A": []}

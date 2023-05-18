@@ -1,0 +1,1 @@
+{"index": 129802, "D": "a bed of embers, especially of a peat or moss fire.", "S": [], "A": []}

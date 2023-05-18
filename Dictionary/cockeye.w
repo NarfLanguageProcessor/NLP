@@ -1,0 +1,1 @@
+{"index": 61482, "D": "an eye that squints or is affected with strabismus.", "S": [], "A": []}

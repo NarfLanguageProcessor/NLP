@@ -1,0 +1,1 @@
+{"index": 237406, "D": "any elongated, marine and sometimes freshwater fish  species of the family Syngnathidae, having a tubular snout and covered with bony plates.", "S": [], "A": []}

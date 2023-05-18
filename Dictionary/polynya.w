@@ -1,0 +1,1 @@
+{"index": 242118, "D": "an area of unfrozen sea water surrounded by ice.", "S": [], "A": []}

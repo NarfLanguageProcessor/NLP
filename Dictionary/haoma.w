@@ -1,0 +1,1 @@
+{"index": 133438, "D": "a leafless vine, Sarcostemma acidum, of eastern India, yielding a sour, milky juice.", "S": [], "A": []}

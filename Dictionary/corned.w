@@ -1,0 +1,1 @@
+{"index": 69250, "D": "marinated in brine, often containing garlic, peppercorns, cloves, etc.; preserved or cured with salt", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291526, "D": "Compare asyndeton (def. 2)", "S": [], "A": []}

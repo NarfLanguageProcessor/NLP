@@ -1,0 +1,1 @@
+{"index": 95032, "D": "a collapse; cave-in.", "S": [], "A": []}

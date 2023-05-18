@@ -1,0 +1,1 @@
+{"index": 215281, "D": "an instrument for measuring oscillations, especially those of the arterial pulse.", "S": [], "A": []}

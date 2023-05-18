@@ -1,0 +1,1 @@
+{"index": 192838, "D": "a nonhuman creature so ugly or monstrous as to frighten people.", "S": ["beast ", "behemoth ", "demon ", "devil ", "dragon ", "freak ", "giant ", "horror ", "villain ", "whale "], "A": ["angel ", "god ", "humanitarian "]}

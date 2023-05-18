@@ -1,0 +1,1 @@
+{"index": 209245, "D": "nanosecond; nanoseconds.", "S": ["animalcule ", "animalculum "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223115, "D": "a spangle for ornamenting a costume.", "S": [], "A": []}

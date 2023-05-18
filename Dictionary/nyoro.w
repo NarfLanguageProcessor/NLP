@@ -1,0 +1,1 @@
+{"index": 200238, "D": "a member of a Negroid people of W Uganda", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 149532, "D": "not artificial; real; natural", "S": ["easy ", "genuine ", "instinctive ", "real ", "simple "], "A": ["complex ", "complicated ", "difficult ", "dishonest ", "false ", "intricate ", "cultured ", "metropolitan ", "modern ", "sophisticated "]}

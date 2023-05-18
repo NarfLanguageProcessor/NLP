@@ -1,0 +1,1 @@
+{"index": 342181, "D": "a commercial service with terminals and boats for transporting persons, automobiles, etc., across a river or other comparatively small body of water.", "S": [], "A": []}

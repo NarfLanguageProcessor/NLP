@@ -1,0 +1,1 @@
+{"index": 146110, "D": "a person who eats or subsists on fish.", "S": [], "A": []}

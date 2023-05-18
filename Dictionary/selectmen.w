@@ -1,0 +1,1 @@
+{"index": 283453, "D": "(in most New England states) one of a board of town officers chosen to manage certain public affairs.", "S": [], "A": []}

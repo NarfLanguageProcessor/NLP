@@ -1,0 +1,1 @@
+{"index": 13617, "D": "to calculate for or as for an entire year", "S": [], "A": []}

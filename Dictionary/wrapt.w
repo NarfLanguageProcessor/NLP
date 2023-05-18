@@ -1,0 +1,1 @@
+{"index": 367841, "D": "a simple past tense and past participle of wrap. ", "S": [], "A": []}

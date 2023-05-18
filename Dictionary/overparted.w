@@ -1,0 +1,1 @@
+{"index": 220441, "D": "(of a performer) having been cast in a role that is beyond his or her abilities", "S": [], "A": []}

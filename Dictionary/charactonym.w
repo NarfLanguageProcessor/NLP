@@ -1,0 +1,1 @@
+{"index": 52749, "D": "a name given to a literary character  that is descriptive of a quality or trait of the character. ", "S": [], "A": []}

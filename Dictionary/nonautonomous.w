@@ -1,0 +1,1 @@
+{"index": 201590, "D": "pertaining to an autonomy,  or a self-governing community.", "S": [], "A": []}

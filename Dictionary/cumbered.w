@@ -1,0 +1,1 @@
+{"index": 74894, "D": "to hinder; hamper.", "S": ["burden ", "delay ", "encumber ", "hinder ", "impede ", "inhibit ", "load ", "obstruct ", "oppress ", "overload ", "saddle ", "tax ", "trouble "], "A": ["advance ", "aid ", "allow ", "assist ", "boost ", "facilitate ", "forward ", "further ", "help ", "promote ", "relieve ", "support ", "unburden "]}

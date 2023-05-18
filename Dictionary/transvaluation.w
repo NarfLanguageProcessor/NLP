@@ -1,0 +1,1 @@
+{"index": 328380, "D": "to reestimate the value  of, especially on a basis differing from accepted standards; reappraise; reevaluate.", "S": [], "A": []}

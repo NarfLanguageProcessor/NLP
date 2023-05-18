@@ -1,0 +1,1 @@
+{"index": 273712, "D": "having ribs or ridges of rock", "S": ["craggy ", "jagged ", "rough "], "A": ["even ", "smooth "]}

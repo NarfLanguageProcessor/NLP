@@ -1,0 +1,1 @@
+{"index": 24613, "D": "a member of a people, probably originating in Asia, who settled in Dacia a.d. c555, later occupied Pannonia, and invaded other parts of central and eastern Europe before their decline in the 9th century.", "S": [], "A": []}

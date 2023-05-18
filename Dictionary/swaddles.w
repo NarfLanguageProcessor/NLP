@@ -1,0 +1,1 @@
+{"index": 313941, "D": "to bind (an infant, especially a newborn infant) with long, narrow strips of cloth to prevent free movement; wrap tightly with clothes.", "S": ["clothe ", "sheathe "], "A": ["uncover ", "unwrap "]}

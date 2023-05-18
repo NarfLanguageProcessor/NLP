@@ -1,0 +1,1 @@
+{"index": 164888, "D": "any of numerous fish- or insect-eating birds of the family Alcedinidae that have a large head and a long, stout bill and are usually crested and brilliantly colored.", "S": [], "A": []}

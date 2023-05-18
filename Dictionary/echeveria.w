@@ -1,0 +1,1 @@
+{"index": 95195, "D": "any of numerous succulent plants of the genus Echeveria, native to tropical America and having thick leaves characteristically forming rosettes.", "S": [], "A": []}

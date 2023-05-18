@@ -1,0 +1,1 @@
+{"index": 7595, "D": "any of several rod-shaped aerobic or facultatively anaerobic bacteria of the genus Alcaligenes, found in the intestinal tract of humans and other vertebrates and in dairy products.", "S": [], "A": []}

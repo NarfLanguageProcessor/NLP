@@ -1,0 +1,1 @@
+{"index": 349838, "D": "to go or come back, as to a former place, position, or state", "S": ["fruitless ", "futile ", "unpleasant "], "A": ["fruitful ", "productive ", "profitable "]}

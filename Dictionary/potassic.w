@@ -1,0 +1,1 @@
+{"index": 244619, "D": "of, relating to, or containing potassium. ", "S": [], "A": []}

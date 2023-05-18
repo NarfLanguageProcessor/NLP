@@ -1,0 +1,1 @@
+{"index": 210438, "D": "the state, process, or condition of being or becoming obsolete.", "S": ["desuetude ", "discontinuance ", "obsoleteness "], "A": ["employment ", "use "]}

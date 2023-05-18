@@ -1,0 +1,1 @@
+{"index": 198286, "D": "a barred, gray-brown wild goose, Nesochen sandvicensis, native to Hawaii, where it is the state bird.", "S": [], "A": []}

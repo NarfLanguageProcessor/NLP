@@ -1,0 +1,1 @@
+{"index": 67911, "D": "the transfer of heat by the circulation or movement of the heated parts of a liquid or gas.", "S": [], "A": []}

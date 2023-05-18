@@ -1,0 +1,1 @@
+{"index": 114969, "D": "to fall or plump down suddenly, especially with noise; drop or turn with a sudden bump or thud (sometimes followed by down)", "S": [], "A": []}

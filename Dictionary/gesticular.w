@@ -1,0 +1,1 @@
+{"index": 124389, "D": "pertaining to or characterized by gesticulation.", "S": [], "A": []}

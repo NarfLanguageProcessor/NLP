@@ -1,0 +1,1 @@
+{"index": 290021, "D": "a white screen set in line with the wicket as an aid to the batsman in seeing the ball when it is bowled.", "S": [], "A": []}

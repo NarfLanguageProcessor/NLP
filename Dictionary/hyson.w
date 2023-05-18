@@ -1,0 +1,1 @@
+{"index": 141674, "D": "a Chinese green tea dried and prepared from twisted leaves, especially of the early crop (young hyson ).", "S": [], "A": []}

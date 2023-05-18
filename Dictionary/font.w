@@ -1,0 +1,1 @@
+{"index": 116053, "D": "a receptacle, usually of stone, as in a baptistery or church, containing the water used in baptism.", "S": ["fount "], "A": ["conclusion ", "effect ", "end ", "finale ", "result "]}

@@ -1,0 +1,1 @@
+{"index": 173212, "D": "any of a class of polysaccharides  to which lipids are attached.", "S": [], "A": []}

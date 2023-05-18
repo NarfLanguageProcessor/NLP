@@ -1,0 +1,1 @@
+{"index": 160007, "D": "a former gold coin of England issued by James I.", "S": [], "A": []}

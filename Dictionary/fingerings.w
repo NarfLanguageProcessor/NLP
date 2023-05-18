@@ -1,0 +1,1 @@
+{"index": 112956, "D": "the act of a person who fingers.", "S": [], "A": []}

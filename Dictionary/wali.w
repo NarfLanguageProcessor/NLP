@@ -1,0 +1,1 @@
+{"index": 362184, "D": "a divinely inspired leader; saint", "S": [], "A": []}

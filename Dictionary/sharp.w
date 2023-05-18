@@ -1,0 +1,1 @@
+{"index": 287545, "D": "having a thin cutting edge or a fine point; well-adapted for cutting or piercing", "S": ["acute ", "pointed ", "razor-sharp ", "sharpened ", "stinging "], "A": ["blunt ", "dull "]}

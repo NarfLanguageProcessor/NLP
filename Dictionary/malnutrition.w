@@ -1,0 +1,1 @@
+{"index": 178598, "D": "lack of proper nutrition;  inadequate or unbalanced nutrition. ", "S": ["hunger ", "starvation "], "A": []}

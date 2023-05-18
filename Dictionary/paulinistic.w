@@ -1,0 +1,1 @@
+{"index": 228101, "D": "the body of theological doctrine taught by or attributed to the apostle Paul.", "S": [], "A": []}

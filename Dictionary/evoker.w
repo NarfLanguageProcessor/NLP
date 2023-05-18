@@ -1,0 +1,1 @@
+{"index": 106304, "D": "to call up or produce (memories, feelings, etc.)", "S": [], "A": []}

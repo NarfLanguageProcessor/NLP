@@ -1,0 +1,1 @@
+{"index": 100153, "D": "a person or thing that energizes. ", "S": ["motivator "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 222685, "D": " a Mexican American member of a young street gang subculture popular during the first half of the 20th century and known for its flamboyant style and fashion, similar in many ways to the zoot-suit subculture.", "S": [], "A": []}

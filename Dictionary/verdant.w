@@ -1,0 +1,1 @@
+{"index": 358435, "D": "green with vegetation; covered with growing plants or grass", "S": ["flourishing ", "grassy ", "leafy ", "lush "], "A": ["dying "]}

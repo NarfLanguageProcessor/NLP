@@ -1,0 +1,1 @@
+{"index": 51958, "D": "a feeling of vexation, marked by disappointment or humiliation.", "S": ["bewildered ", "bugged ", "confounded ", "confused ", "crushed ", "discombobulated ", "disconcerted ", "embarrassed ", "fazed ", "fuddled ", "humbled ", "humiliated ", "mortified ", "rattled ", "shamed "], "A": ["clear ", "oriented ", "understanding "]}

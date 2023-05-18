@@ -1,0 +1,1 @@
+{"index": 61222, "D": "a state or individual that cooperates with, but is not bound by a formal alliance to another in waging war.", "S": [], "A": []}

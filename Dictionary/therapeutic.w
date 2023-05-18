@@ -1,0 +1,1 @@
+{"index": 321192, "D": "of or relating to the treating or curing of disease; curative.", "S": ["beneficial ", "curative ", "remedial ", "salutary "], "A": ["harmful ", "hurting ", "injurious "]}

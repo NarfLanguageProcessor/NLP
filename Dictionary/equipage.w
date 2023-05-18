@@ -1,0 +1,1 @@
+{"index": 103322, "D": "a carriage.", "S": ["equipment ", "gear ", "materiel ", "outfit "], "A": []}

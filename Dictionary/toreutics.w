@@ -1,0 +1,1 @@
+{"index": 326091, "D": "the art or technique of decorating metal or other material, especially by embossing or chasing.", "S": [], "A": []}

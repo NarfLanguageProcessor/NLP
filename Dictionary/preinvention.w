@@ -1,0 +1,1 @@
+{"index": 248071, "D": "the act of inventing. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72213, "D": "the ability of a car or other vehicle to withstand a collision or crash  with minimal bodily injury to its occupants.", "S": [], "A": []}

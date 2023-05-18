@@ -1,0 +1,1 @@
+{"index": 142289, "D": "a large cask, especially one containing from 63 to 140 gallons (238 to 530 liters).", "S": ["barrel ", "cask ", "drum ", "keg ", "vat ", "vessel "], "A": []}

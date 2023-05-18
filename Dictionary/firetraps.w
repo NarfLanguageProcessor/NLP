@@ -1,0 +1,1 @@
+{"index": 113222, "D": "a building that, because of its age, material, structure, or the like, is especially dangerous in case of fire. ", "S": [], "A": []}

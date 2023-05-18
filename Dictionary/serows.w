@@ -1,0 +1,1 @@
+{"index": 286269, "D": "a goat antelope of the genus Capricornis, of eastern Asia, related to the goral", "S": [], "A": []}

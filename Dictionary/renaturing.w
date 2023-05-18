@@ -1,0 +1,1 @@
+{"index": 267553, "D": "to restore (a denatured substance) to its former, natural state.", "S": [], "A": []}

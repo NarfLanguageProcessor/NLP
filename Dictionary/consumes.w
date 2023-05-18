@@ -1,0 +1,1 @@
+{"index": 67199, "D": "to destroy or expend by use; use up.", "S": ["absorb ", "deplete ", "devour ", "dominate ", "drain ", "eat up ", "employ ", "exhaust ", "expend ", "obsess ", "preoccupy ", "spend ", "waste "], "A": ["fill ", "save ", "appear ", "create ", "hoard "]}

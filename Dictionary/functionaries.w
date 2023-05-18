@@ -1,0 +1,1 @@
+{"index": 120141, "D": "a person who functions  in a specified capacity, especially in government service; an official", "S": ["assistant ", "broker ", "commissioner ", "deputy ", "handler ", "lawyer ", "minister ", "officer ", "operative ", "operator ", "promoter ", "representative ", "worker "], "A": []}

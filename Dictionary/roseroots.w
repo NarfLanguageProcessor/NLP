@@ -1,0 +1,1 @@
+{"index": 274500, "D": "any of certain perennial mountain plants, as Sedum rosea,Sedum rhodiola, or Rhodiola rosea, so called because the roots smell like roses.", "S": [], "A": []}

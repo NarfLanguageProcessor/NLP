@@ -1,0 +1,1 @@
+{"index": 28831, "D": "(in India) a slum inhabited by poor people", "S": [], "A": []}

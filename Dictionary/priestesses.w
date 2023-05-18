@@ -1,0 +1,1 @@
+{"index": 250424, "D": "a woman who officiates in sacred rites.", "S": ["administrator ", "captain ", "chief ", "commandant ", "director ", "head ", "officer ", "ruler "], "A": ["employee ", "worker "]}

@@ -1,0 +1,1 @@
+{"index": 27789, "D": "any of several stocky, tropical birds of the family Capitonidae, having a stout bill with bristles at the base.", "S": [], "A": []}

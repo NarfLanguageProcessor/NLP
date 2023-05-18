@@ -1,0 +1,1 @@
+{"index": 186096, "D": "a type of memory card that has moving parts and can store large amounts of data", "S": [], "A": []}

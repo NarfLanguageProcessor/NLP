@@ -1,0 +1,1 @@
+{"index": 50704, "D": "the room where the Last Supper took place.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166986, "D": "laconic  brevity.", "S": [], "A": []}

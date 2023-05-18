@@ -1,0 +1,1 @@
+{"index": 42122, "D": "Compare buckwheat family. ", "S": [], "A": []}

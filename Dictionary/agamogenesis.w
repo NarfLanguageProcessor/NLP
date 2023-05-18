@@ -1,0 +1,1 @@
+{"index": 5872, "D": "asexual reproduction by buds, offshoots, cell division, etc.", "S": [], "A": []}

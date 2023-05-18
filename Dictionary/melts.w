@@ -1,0 +1,1 @@
+{"index": 183103, "D": "to become liquefied by warmth or heat, as ice, snow, butter, or metal.", "S": ["disappear ", "disintegrate ", "evaporate ", "fade ", "heat ", "soften ", "thaw ", "vanish ", "warm "], "A": ["appear ", "arrive ", "cool ", "freeze ", "divide ", "separate ", "stop "]}

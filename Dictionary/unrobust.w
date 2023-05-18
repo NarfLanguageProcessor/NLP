@@ -1,0 +1,1 @@
+{"index": 350031, "D": "strong and healthy; hardy; vigorous", "S": [], "A": []}

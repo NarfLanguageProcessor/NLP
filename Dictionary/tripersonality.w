@@ -1,0 +1,1 @@
+{"index": 330322, "D": "the state or condition of being tripersonal;  existence in three persons, as the Godhead.", "S": [], "A": []}

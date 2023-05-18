@@ -1,0 +1,1 @@
+{"index": 298667, "D": "suffering from or affected with spavin. ", "S": [], "A": []}

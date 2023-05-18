@@ -1,0 +1,1 @@
+{"index": 150714, "D": "not defectible; not liable to defect or failure.", "S": [], "A": []}

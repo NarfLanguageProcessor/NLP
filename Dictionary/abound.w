@@ -1,0 +1,1 @@
+{"index": 750, "D": "to occur or exist in great quantities or numbers", "S": ["flourish ", "proliferate ", "thrive "], "A": ["decline ", "fail ", "languish ", "retreat "]}

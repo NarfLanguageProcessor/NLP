@@ -1,0 +1,1 @@
+{"index": 139816, "D": "to stimulate, excite, or agitate (usually followed by up)", "S": ["advertising ", "buildup ", "plugging ", "promotion "], "A": ["secrecy "]}

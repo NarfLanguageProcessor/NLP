@@ -1,0 +1,1 @@
+{"index": 304160, "D": "an instrument for measuring the expansion of the chest and abdomen during respiration.", "S": [], "A": []}

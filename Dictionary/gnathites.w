@@ -1,0 +1,1 @@
+{"index": 127045, "D": "any of the mouth appendages of an insect or other arthropod.", "S": [], "A": []}

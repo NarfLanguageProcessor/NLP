@@ -1,0 +1,1 @@
+{"index": 262164, "D": "to take away by or as by force; plunder; rob.", "S": [], "A": []}

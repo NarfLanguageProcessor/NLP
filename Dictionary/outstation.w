@@ -1,0 +1,1 @@
+{"index": 217613, "D": "a post, station,  or settlement in a remote or outlying area.", "S": [], "A": []}

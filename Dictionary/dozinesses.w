@@ -1,0 +1,1 @@
+{"index": 92418, "D": "drowsy; half asleep.", "S": [], "A": []}

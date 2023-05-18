@@ -1,0 +1,1 @@
+{"index": 253488, "D": "the longest geologic eon and the most recent division of Precambrian time, during which the presence of oxygen in Earth\u2019s atmosphere became significant, causing certain life forms to adapt to the use of oxygen and leading to a proliferation of complex multicellular life.", "S": [], "A": []}

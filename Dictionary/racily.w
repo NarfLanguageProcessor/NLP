@@ -1,0 +1,1 @@
+{"index": 259420, "D": "slightly improper or indelicate; suggestive; risqu\u00e9.", "S": [], "A": []}

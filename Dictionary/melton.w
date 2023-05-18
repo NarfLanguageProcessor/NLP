@@ -1,0 +1,1 @@
+{"index": 183100, "D": "a heavily fulled cloth, often of wool, tightly constructed and finished with a smooth face concealing the weave, used for overcoats, hunting jackets, etc.", "S": [], "A": []}

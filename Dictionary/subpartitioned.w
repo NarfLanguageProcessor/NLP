@@ -1,0 +1,1 @@
+{"index": 308763, "D": "a division into or distribution in portions or shares.", "S": [], "A": []}

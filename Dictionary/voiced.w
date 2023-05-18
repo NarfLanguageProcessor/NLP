@@ -1,0 +1,1 @@
+{"index": 360980, "D": "having a voice  of a specified kind (usually used in combination)", "S": ["articulate ", "spoken "], "A": []}

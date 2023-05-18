@@ -1,0 +1,1 @@
+{"index": 208583, "D": "an extinct Norse dialect, spoken until early modern times in the Shetland and Orkney Islands and in parts of northern Scotland.", "S": [], "A": []}

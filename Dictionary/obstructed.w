@@ -1,0 +1,1 @@
+{"index": 210494, "D": "to block or close up with an obstacle; make difficult to pass", "S": ["impassable "], "A": ["bare ", "bright ", "clear ", "distinct ", "light ", "open ", "plain ", "revealed ", "uncovered "]}

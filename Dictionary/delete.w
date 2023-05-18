@@ -1,0 +1,1 @@
+{"index": 80007, "D": "to strike out or remove (something written or printed); cancel; erase; expunge.", "S": ["annul ", "black out ", "cross out ", "cut out ", "destroy ", "edit ", "eliminate ", "exclude ", "expunge ", "omit ", "wipe out "], "A": ["accept ", "add ", "build ", "construct ", "create ", "include ", "keep ", "restore ", "welcome ", "allow ", "dirty "]}

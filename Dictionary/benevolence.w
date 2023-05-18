@@ -1,0 +1,1 @@
+{"index": 31601, "D": "desire to do good to others; goodwill; charitableness", "S": ["benefaction ", "benignity ", "compassion ", "good nature ", "good will ", "goodwill ", "kindheartedness ", "kindliness ", "kindness ", "tenderness "], "A": ["cruelty ", "harshness ", "ill will ", "unkindness "]}

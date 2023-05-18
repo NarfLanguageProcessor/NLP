@@ -1,0 +1,1 @@
+{"index": 74471, "D": "a burial chamber, as in catacombs.", "S": [], "A": []}

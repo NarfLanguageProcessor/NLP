@@ -1,0 +1,1 @@
+{"index": 196718, "D": "a city in and the capital of Meurthe-et-Moselle, in NE France", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 278499, "D": "any long, shirtlike garment worn next to the skin, as a chemise, nightshirt, or the like.", "S": ["blouse ", "jersey ", "pullover ", "tunic ", "turtleneck "], "A": []}

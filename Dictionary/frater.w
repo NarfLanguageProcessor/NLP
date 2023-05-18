@@ -1,0 +1,1 @@
+{"index": 118446, "D": "a brother, as in a religious or fraternal order; comrade.", "S": [], "A": []}

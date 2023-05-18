@@ -1,0 +1,1 @@
+{"index": 63423, "D": "a person who uses colour, esp an artist", "S": [], "A": []}

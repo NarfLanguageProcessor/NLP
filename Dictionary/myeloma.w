@@ -1,0 +1,1 @@
+{"index": 186936, "D": "a tumor of plasma cells, arising in bone marrow, and often occurring at multiple sites, as in the vertebrae and flat skull bones.", "S": [], "A": []}

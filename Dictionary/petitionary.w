@@ -1,0 +1,1 @@
+{"index": 232420, "D": "of the nature of or expressing a petition. ", "S": [], "A": []}

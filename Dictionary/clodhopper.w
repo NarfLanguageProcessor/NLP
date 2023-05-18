@@ -1,0 +1,1 @@
+{"index": 60309, "D": "a clumsy boor; rustic; bumpkin.", "S": ["bumpkin ", "clown ", "hick ", "hind ", "lout ", "oaf ", "plowman ", "redneck ", "rustic ", "shoe ", "yokel "], "A": []}

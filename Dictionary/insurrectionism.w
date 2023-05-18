@@ -1,0 +1,1 @@
+{"index": 154147, "D": "an act or instance of rising in revolt, rebellion, or resistance against civil authority or an established government.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171274, "D": "of or relating to the Levites.", "S": [], "A": []}

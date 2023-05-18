@@ -1,0 +1,1 @@
+{"index": 181212, "D": "a matriarchal  system or community.", "S": [], "A": []}

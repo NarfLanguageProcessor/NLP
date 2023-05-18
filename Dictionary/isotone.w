@@ -1,0 +1,1 @@
+{"index": 159309, "D": "one of two or more atoms having an equal number of neutrons but different atomic numbers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265909, "D": "to surge or rush back, as liquids, gases, undigested food, etc.", "S": ["eject ", "emit ", "expel ", "gag ", "heave ", "hurl ", "puke ", "retch ", "spew ", "upchuck "], "A": ["take in "]}

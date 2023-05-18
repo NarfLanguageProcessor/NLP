@@ -1,0 +1,1 @@
+{"index": 70811, "D": "made in imitation so as to be passed off fraudulently or deceptively as genuine; not genuine; forged", "S": ["bogus ", "copied ", "false ", "fictitious ", "forged ", "fraudulent ", "phony ", "spurious "], "A": ["actual ", "authentic ", "factual ", "genuine ", "honest ", "real ", "sincere ", "true ", "truthful ", "valid ", "OK "]}

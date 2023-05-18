@@ -1,0 +1,1 @@
+{"index": 104645, "D": "an instrument for measuring the degree of tactile sensibility.", "S": [], "A": []}

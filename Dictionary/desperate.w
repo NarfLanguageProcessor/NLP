@@ -1,0 +1,1 @@
+{"index": 82814, "D": "reckless or dangerous because ofdespair,  hopelessness, or urgency", "S": ["bold ", "dangerous ", "daring ", "determined ", "frantic ", "frenzied ", "furious ", "violent "], "A": ["afraid ", "calm ", "cowardly ", "fearful ", "meek ", "mild ", "moderate ", "peaceful ", "quiet ", "shy ", "timid ", "weak "]}

@@ -1,0 +1,1 @@
+{"index": 76262, "D": "a judge in a Jewish religious court.", "S": [], "A": []}

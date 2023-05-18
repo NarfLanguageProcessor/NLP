@@ -1,0 +1,1 @@
+{"index": 289611, "D": [], "S": ["dispensary ", "hospital ", "isolation ward ", "sick berth ", "sickroom "], "A": []}

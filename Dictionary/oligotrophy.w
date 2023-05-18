@@ -1,0 +1,1 @@
+{"index": 212247, "D": "the state of being oligotrophic,  or deficient in nutrients but high in oxygen.", "S": [], "A": []}

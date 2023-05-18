@@ -1,0 +1,1 @@
+{"index": 295363, "D": "to make a sudden effort to seize something, as with the hand; grab (usually followed by at).", "S": [], "A": []}

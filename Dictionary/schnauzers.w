@@ -1,0 +1,1 @@
+{"index": 280358, "D": "one of a German breed of sturdy medium-sized dogs having a tight, wiry, pepper-and-salt or pure black coat, bristly eyebrows and beardlike whiskers, and a docked tail, used originally as a ratter and a guard dog and later used in police work.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266320, "D": "the act or process of infusing.", "S": [], "A": []}

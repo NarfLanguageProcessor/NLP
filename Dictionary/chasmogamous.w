@@ -1,0 +1,1 @@
+{"index": 53032, "D": "pertaining to or having pollination occur in a fully opened flower.", "S": [], "A": []}

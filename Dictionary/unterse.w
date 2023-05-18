@@ -1,0 +1,1 @@
+{"index": 352852, "D": "neatly or effectively concise; brief and pithy, as language.", "S": [], "A": []}

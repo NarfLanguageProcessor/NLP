@@ -1,0 +1,1 @@
+{"index": 132382, "D": "a brush  for smoothing and styling the hair. ", "S": ["broom ", "toothbrush "], "A": []}

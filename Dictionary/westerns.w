@@ -1,0 +1,1 @@
+{"index": 364258, "D": "lying toward or situated in the west", "S": ["cowboy movie ", "horse opera ", "oater ", "shoot-'em-up ", "spaghetti western ", "western "], "A": []}

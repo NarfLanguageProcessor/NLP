@@ -1,0 +1,1 @@
+{"index": 204196, "D": "the state or condition of being frigid. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349696, "D": "pertaining to or constituting a residue or remainder; remaining; leftover. ", "S": [], "A": []}

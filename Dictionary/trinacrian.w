@@ -1,0 +1,1 @@
+{"index": 330103, "D": "of or relating to Trinacria (the Latin name for Sicily) or its inhabitants", "S": [], "A": []}

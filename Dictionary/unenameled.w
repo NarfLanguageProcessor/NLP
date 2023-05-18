@@ -1,0 +1,1 @@
+{"index": 341221, "D": "a glassy substance, usually opaque, applied by fusion to the surface of metal, pottery, etc., as an ornament or for protection.", "S": [], "A": []}

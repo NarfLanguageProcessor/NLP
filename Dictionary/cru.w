@@ -1,0 +1,1 @@
+{"index": 74061, "D": "(in France) a vineyard producing wine of high quality, sometimes classified by the government as either a Great Growth (Grand Cru ) or a First Growth (Premier Cru ).", "S": [], "A": []}

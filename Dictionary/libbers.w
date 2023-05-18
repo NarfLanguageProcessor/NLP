@@ -1,0 +1,1 @@
+{"index": 171432, "D": "an advocate, follower, or member of a social-reform liberation  movement", "S": [], "A": []}

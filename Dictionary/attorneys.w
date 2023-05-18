@@ -1,0 +1,1 @@
+{"index": 23126, "D": "a lawyer; attorney-at-law.", "S": ["courtroom "], "A": ["advantage ", "aid ", "help "]}

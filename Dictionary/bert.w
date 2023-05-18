@@ -1,0 +1,1 @@
+{"index": 32213, "D": "a male given name, form of Albert, Bertram, Herbert, Hubert,  etc.", "S": [], "A": []}

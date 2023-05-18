@@ -1,0 +1,1 @@
+{"index": 273874, "D": "a supporter or adherent of a king or royal  government, especially in times of rebellion or civil war.", "S": ["archconservative ", "conservative ", "right-winger ", "rightist ", "traditionalist "], "A": ["liberal ", "progressive ", "radical "]}

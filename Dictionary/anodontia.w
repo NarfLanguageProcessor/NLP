@@ -1,0 +1,1 @@
+{"index": 13711, "D": "congenital absence of teeth.", "S": [], "A": []}

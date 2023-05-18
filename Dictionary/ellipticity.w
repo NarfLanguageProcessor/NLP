@@ -1,0 +1,1 @@
+{"index": 97698, "D": "the degree of divergence of an ellipse from a circle.", "S": [], "A": []}

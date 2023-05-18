@@ -1,0 +1,1 @@
+{"index": 238702, "D": "the sandy, salty, or mud-caked flat floor of a desert basin having interior drainage, usually occupied by a shallow lake during or after prolonged, heavy rains.", "S": [], "A": []}

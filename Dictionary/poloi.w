@@ -1,0 +1,1 @@
+{"index": 242769, "D": "a tall, cylindrical headdress represented, especially on statutes, as worn by women in ancient Greece.", "S": [], "A": []}

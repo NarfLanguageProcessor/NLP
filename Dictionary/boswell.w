@@ -1,0 +1,1 @@
+{"index": 38648, "D": "Scottish author", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 72558, "D": "having or causing a creeping  sensation of the skin, as from horror or fear", "S": ["awful ", "disgusting ", "disturbing ", "eerie ", "frightening ", "ghoulish ", "macabre ", "menacing ", "ominous ", "sinister ", "terrifying ", "weird "], "A": ["normal ", "pleasing "]}

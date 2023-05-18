@@ -1,0 +1,1 @@
+{"index": 122627, "D": "a connoisseur of good food; gourmet; epicure.", "S": ["connoisseur "], "A": []}

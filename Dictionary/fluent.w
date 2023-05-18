@@ -1,0 +1,1 @@
+{"index": 115261, "D": "spoken or written with ease", "S": ["eloquent ", "persuasive ", "talkative ", "vocal "], "A": ["quiet "]}

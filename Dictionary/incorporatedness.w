@@ -1,0 +1,1 @@
+{"index": 150367, "D": "formed or constituted as a legal corporation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 315478, "D": "a member of a people living mainly in Tadzhikistan, as well as parts of Afghanistan and China.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42803, "D": "bunko. ", "S": ["delude ", "pretend "], "A": ["protect ", "support "]}

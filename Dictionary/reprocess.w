@@ -1,0 +1,1 @@
+{"index": 268617, "D": "to treat or prepare (something) by a special method again", "S": ["convert "], "A": ["endanger ", "harm ", "hurt ", "lose ", "waste "]}

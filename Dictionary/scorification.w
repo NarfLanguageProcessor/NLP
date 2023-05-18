@@ -1,0 +1,1 @@
+{"index": 281282, "D": "an assaying process whereby gold or silver is separated from ore by fusion with lead.", "S": [], "A": []}

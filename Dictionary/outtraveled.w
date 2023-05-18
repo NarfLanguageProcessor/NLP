@@ -1,0 +1,1 @@
+{"index": 217790, "D": "to go from one place to another, as by car, train, plane, or ship; take a trip; journey", "S": [], "A": []}

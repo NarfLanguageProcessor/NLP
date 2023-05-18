@@ -1,0 +1,1 @@
+{"index": 43144, "D": "a person, animal, or thing that buries. ", "S": [], "A": []}

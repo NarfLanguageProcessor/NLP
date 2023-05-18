@@ -1,0 +1,1 @@
+{"index": 362883, "D": "the day  set apart in a household for washing  clothes", "S": [], "A": []}

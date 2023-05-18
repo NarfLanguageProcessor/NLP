@@ -1,0 +1,1 @@
+{"index": 210660, "D": "Western Hemisphere. ", "S": [], "A": []}

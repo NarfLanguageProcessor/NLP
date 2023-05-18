@@ -1,0 +1,1 @@
+{"index": 294952, "D": "the workshop of a smith, especially a blacksmith.", "S": ["anvil ", "farrier ", "horseshoer ", "plover "], "A": []}

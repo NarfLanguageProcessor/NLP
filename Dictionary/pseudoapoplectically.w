@@ -1,0 +1,1 @@
+{"index": 254506, "D": "of or relating to apoplexy  or stroke.", "S": [], "A": []}

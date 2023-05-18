@@ -1,0 +1,1 @@
+{"index": 64106, "D": "the act of committing.", "S": ["engagement ", "guarantee ", "need ", "pledge ", "promise ", "responsibility "], "A": ["break ", "breach ", "irresponsibility "]}

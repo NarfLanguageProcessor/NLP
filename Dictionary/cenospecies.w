@@ -1,0 +1,1 @@
+{"index": 50739, "D": "a group of different species  the individuals of which produce partially fertile hybrids when crossbred.", "S": [], "A": []}

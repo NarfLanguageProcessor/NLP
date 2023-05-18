@@ -1,0 +1,1 @@
+{"index": 77235, "D": "unskillful painting or work.", "S": [], "A": []}

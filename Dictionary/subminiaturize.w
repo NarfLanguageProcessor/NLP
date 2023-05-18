@@ -1,0 +1,1 @@
+{"index": 308546, "D": "to design or manufacture (equipment, especially electronic equipment) of a greatly reduced scale.", "S": [], "A": []}

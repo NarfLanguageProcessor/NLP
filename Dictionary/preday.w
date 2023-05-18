@@ -1,0 +1,1 @@
+{"index": 246639, "D": "the interval of light between two successive nights; the time between sunrise and sunset", "S": [], "A": []}

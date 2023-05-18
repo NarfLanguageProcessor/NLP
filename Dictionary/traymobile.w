@@ -1,0 +1,1 @@
+{"index": 327439, "D": "a small table on casters used for conveying food, drink, etc", "S": [], "A": []}

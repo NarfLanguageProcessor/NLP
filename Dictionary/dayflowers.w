@@ -1,0 +1,1 @@
+{"index": 76296, "D": "any plant of the genus Commelina, usually bearing clusters of small, blue flowers  that bloom for only one day. ", "S": [], "A": []}

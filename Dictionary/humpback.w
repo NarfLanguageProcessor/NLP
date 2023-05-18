@@ -1,0 +1,1 @@
+{"index": 145077, "D": "a back that is humped in a convex position.", "S": [], "A": []}

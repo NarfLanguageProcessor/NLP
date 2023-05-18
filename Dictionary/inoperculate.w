@@ -1,0 +1,1 @@
+{"index": 153202, "D": "having no operculum.", "S": [], "A": []}

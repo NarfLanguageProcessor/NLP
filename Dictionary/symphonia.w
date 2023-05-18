@@ -1,0 +1,1 @@
+{"index": 291023, "D": "any of various medieval musical instruments, as the hurdy-gurdy.", "S": [], "A": []}

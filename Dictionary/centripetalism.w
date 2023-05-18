@@ -1,0 +1,1 @@
+{"index": 50997, "D": "directed toward the center (opposed to centrifugal).", "S": [], "A": []}

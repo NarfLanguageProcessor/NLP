@@ -1,0 +1,1 @@
+{"index": 159388, "D": "a port in northwestern Turkey, on both sides of the Bosporus", "S": [], "A": []}

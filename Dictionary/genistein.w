@@ -1,0 +1,1 @@
+{"index": 123607, "D": "an oestrogen that occurs naturally in soya beans and is believed to inhibit the growth of certain tumours", "S": [], "A": []}

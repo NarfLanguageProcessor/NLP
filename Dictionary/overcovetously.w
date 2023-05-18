@@ -1,0 +1,1 @@
+{"index": 218771, "D": "inordinately or wrongly desirous of wealth or possessions; greedy. ", "S": [], "A": []}

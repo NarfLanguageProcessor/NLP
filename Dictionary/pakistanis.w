@@ -1,0 +1,1 @@
+{"index": 223265, "D": "of, relating to, or characteristic of Pakistan  or its inhabitants.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75883, "D": "the caterpillar of any of several noctuid moths, which feeds at night on the stems of young plants, cutting  them off at the ground.", "S": [], "A": []}

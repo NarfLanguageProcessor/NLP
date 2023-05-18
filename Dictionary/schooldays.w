@@ -1,0 +1,1 @@
+{"index": 280442, "D": [], "S": ["adolescence ", "babyhood ", "cradle ", "immaturity ", "infancy ", "juvenility ", "minority ", "nonage ", "nursery ", "puberty ", "teens ", "youth "], "A": ["adulthood "]}

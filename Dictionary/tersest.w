@@ -1,0 +1,1 @@
+{"index": 319645, "D": "neatly or effectively concise; brief and pithy, as language.", "S": ["brusque ", "concise ", "cryptic ", "curt ", "elliptical ", "incisive ", "laconic ", "pithy ", "precise ", "succinct ", "trenchant "], "A": ["gentle ", "kind ", "lengthy ", "long-winded ", "nice ", "polite ", "verbose ", "wordy "]}

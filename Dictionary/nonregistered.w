@@ -1,0 +1,1 @@
+{"index": 206619, "D": "recorded, as in a register  or book; enrolled.", "S": [], "A": []}

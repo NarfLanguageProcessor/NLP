@@ -1,0 +1,1 @@
+{"index": 82639, "D": "worth having or wanting; pleasing, excellent, or fine", "S": ["admirably ", "attractively ", "beautifully ", "finely ", "happily ", "perfectly ", "pleasantly "], "A": ["badly ", "incorrectly ", "mistakenly ", "unfortunately ", "unsuccessfully ", "wrongly "]}

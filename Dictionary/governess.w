@@ -1,0 +1,1 @@
+{"index": 128383, "D": "a woman who is employed to take charge of a child's upbringing, education, etc.", "S": ["nanny "], "A": []}

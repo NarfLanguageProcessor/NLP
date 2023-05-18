@@ -1,0 +1,1 @@
+{"index": 340957, "D": "to dig or get out of the earth; dig up.", "S": ["detected ", "disclosed ", "exposed ", "identified ", "invented "], "A": ["hidden ", "lost "]}

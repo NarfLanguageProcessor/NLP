@@ -1,0 +1,1 @@
+{"index": 107499, "D": "the abnormal formation of a bony growth on a bone or tooth.", "S": [], "A": []}

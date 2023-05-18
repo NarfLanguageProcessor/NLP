@@ -1,0 +1,1 @@
+{"index": 61668, "D": "wood from the tropical American leguminous tree Brya ebenus, used for inlaying, turnery, musical instruments, etc", "S": [], "A": []}

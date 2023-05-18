@@ -1,0 +1,1 @@
+{"index": 251137, "D": "(in red algae) a carpogonium with its associated cells.", "S": [], "A": []}

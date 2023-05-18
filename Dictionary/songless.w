@@ -1,0 +1,1 @@
+{"index": 297214, "D": "devoid of song;  lacking the power of a song,  as a bird.", "S": [], "A": []}

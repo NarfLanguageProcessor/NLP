@@ -1,0 +1,1 @@
+{"index": 209526, "D": "Usual US term", "S": [], "A": []}

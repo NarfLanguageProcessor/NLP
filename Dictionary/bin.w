@@ -1,0 +1,1 @@
+{"index": 34152, "D": "a box or enclosed place for storing grain, coal, or the like.", "S": ["basket ", "box ", "canister ", "carton ", "case ", "crate ", "receptacle "], "A": []}

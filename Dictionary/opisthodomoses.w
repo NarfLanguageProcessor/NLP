@@ -1,0 +1,1 @@
+{"index": 213589, "D": "a small room in the cella of a classical temple, as for a treasury.", "S": [], "A": []}

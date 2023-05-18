@@ -1,0 +1,1 @@
+{"index": 40509, "D": "having short wings; brachypterous.", "S": [], "A": []}

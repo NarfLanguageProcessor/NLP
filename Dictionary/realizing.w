@@ -1,0 +1,1 @@
+{"index": 261759, "D": "to grasp or understand clearly.", "S": ["accomplishing ", "attaining ", "completing ", "consummating ", "doing ", "fulfilling ", "perfecting ", "performing ", "reaching "], "A": []}

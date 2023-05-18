@@ -1,0 +1,1 @@
+{"index": 318314, "D": "an apparatus for transmitting or receiving television.", "S": [], "A": []}

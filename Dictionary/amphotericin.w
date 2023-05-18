@@ -1,0 +1,1 @@
+{"index": 11300, "D": "an amphoteric  antibiotic produced by the bacterium Streptomyces nodosus and used in the treatment of fungal infections.", "S": [], "A": []}

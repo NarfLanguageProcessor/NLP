@@ -1,0 +1,1 @@
+{"index": 105834, "D": "Eurocentric. ", "S": [], "A": []}

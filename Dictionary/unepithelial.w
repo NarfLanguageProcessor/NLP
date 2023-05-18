@@ -1,0 +1,1 @@
+{"index": 341409, "D": "any animal tissue that covers a surface, or lines a cavity or the like, and that, in addition, performs any of various secretory, transporting, or regulatory functions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 317104, "D": "the art or technique of bullfighting.", "S": [], "A": []}

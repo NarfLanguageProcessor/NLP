@@ -1,0 +1,1 @@
+{"index": 321351, "D": "a member of the French moderate group who participated in the downfall of Robespierre and his followers on the 9th Thermidor (July 27th), 1794.", "S": [], "A": []}

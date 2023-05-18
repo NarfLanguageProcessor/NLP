@@ -1,0 +1,1 @@
+{"index": 343918, "D": "the quality or condition of being human or characteristic of humans", "S": [], "A": []}

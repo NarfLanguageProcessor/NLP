@@ -1,0 +1,1 @@
+{"index": 232732, "D": "a philosophical dialogue (4th century b.c.) by Plato, purporting to describe the death of Socrates, dealing with the immortality of the soul, and setting forth the theory of Ideas.", "S": [], "A": []}

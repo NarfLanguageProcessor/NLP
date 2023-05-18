@@ -1,0 +1,1 @@
+{"index": 198222, "D": "a substance or preparation used for killing nematodes parasitic to plants.", "S": [], "A": []}

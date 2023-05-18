@@ -1,0 +1,1 @@
+{"index": 331394, "D": "a lucky discovery or a found treasure", "S": ["catch ", "collectible ", "pi\u00e8ce de r\u00e9sistance ", "showpiece ", "valuable "], "A": []}

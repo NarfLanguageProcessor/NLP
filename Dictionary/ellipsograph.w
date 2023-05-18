@@ -1,0 +1,1 @@
+{"index": 97686, "D": "an instrument for drawing ellipses,  as a trammel.", "S": [], "A": []}

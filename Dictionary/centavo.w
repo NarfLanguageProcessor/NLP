@@ -1,0 +1,1 @@
+{"index": 50814, "D": "one 100th of the monetary units of various nations, including Argentina, Bolivia, Brazil, Cape Verde, Chile, Colombia, Cuba, the Dominican Republic, Ecuador, El Salvador, Guatemala, Guinea-Bissau, Honduras, Mexico, Mozambique, Nicaragua, Peru, and the Philippines.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273922, "D": "(in Malaysia) a salad dish served in chilli sauce", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349711, "D": "that can be resisted. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 301548, "D": "to gush or issue suddenly in a stream or jet, as a liquid; spout.", "S": ["bits and pieces ", "changeable ", "choppy ", "convulsive ", "desultory ", "fitful ", "fits and starts ", "intermittent ", "irregular ", "jerky ", "on-again-off-again ", "periodic ", "shaky ", "spastic ", "sporadic ", "spotty ", "uncertain "], "A": ["resting ", "uninterrupted "]}

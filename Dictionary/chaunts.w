@@ -1,0 +1,1 @@
+{"index": 53197, "D": "an obsolete variant of chant. ", "S": [], "A": []}

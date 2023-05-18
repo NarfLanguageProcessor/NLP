@@ -1,0 +1,1 @@
+{"index": 62910, "D": "the political principle of centralized social and economic control, especially of all means of production.", "S": ["socialism ", "totalitarianism "], "A": ["capitalism ", "democracy "]}

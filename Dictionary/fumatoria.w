@@ -1,0 +1,1 @@
+{"index": 120039, "D": "an airtight structure in which plants are fumigated to destroy fungi or insects.", "S": [], "A": []}

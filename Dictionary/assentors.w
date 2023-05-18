@@ -1,0 +1,1 @@
+{"index": 21677, "D": "to agree or concur; subscribe to (often followed by to)", "S": [], "A": []}

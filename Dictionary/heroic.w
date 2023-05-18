@@ -1,0 +1,1 @@
+{"index": 137240, "D": "of, relating to, or characteristic of a hero or heroine.", "S": ["bold ", "courageous ", "daring ", "epic ", "fearless ", "gallant ", "grand ", "gutsy ", "noble ", "valiant "], "A": ["afraid ", "cowardly ", "fearful ", "meek ", "shy ", "timid ", "weak "]}

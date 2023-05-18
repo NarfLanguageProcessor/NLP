@@ -1,0 +1,1 @@
+{"index": 349300, "D": "not reflecting;  unthinking", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43363, "D": "any of various plants bearing a burlike fruit, as the cocklebur and burdock.", "S": [], "A": []}

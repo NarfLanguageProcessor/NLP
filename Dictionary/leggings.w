@@ -1,0 +1,1 @@
+{"index": 170094, "D": "an extra outer covering for the lower legs", "S": ["buskins ", "chaps ", "puttees ", "putts ", "stockings "], "A": []}

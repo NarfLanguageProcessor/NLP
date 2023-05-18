@@ -1,0 +1,1 @@
+{"index": 266719, "D": "any part of the earth's surface not covered by a body of water; the part of the earth's surface occupied by continents and islands", "S": [], "A": []}

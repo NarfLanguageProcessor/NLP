@@ -1,0 +1,1 @@
+{"index": 99708, "D": "of or relating to an organism that exists as a parasite or symbiont entirely within the tissues of a host organism.", "S": [], "A": []}

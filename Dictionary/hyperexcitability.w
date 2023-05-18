@@ -1,0 +1,1 @@
+{"index": 140116, "D": "an excessive reaction to stimuli.", "S": [], "A": []}

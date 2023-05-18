@@ -1,0 +1,1 @@
+{"index": 260426, "D": "loosely made or held together; rickety; shaky", "S": ["broken-down ", "crumbling ", "decrepit ", "derelict ", "dilapidated ", "flimsy ", "rickety ", "shabby "], "A": ["solid ", "sound ", "sturdy "]}

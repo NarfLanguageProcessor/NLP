@@ -1,0 +1,1 @@
+{"index": 366621, "D": "in a direction contrary to the natural one, especially contrary to the apparent course of the sun or counterclockwise", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250212, "D": "before now; earlier", "S": ["already ", "formerly ", "heretofore ", "hitherto ", "long ago ", "once ", "then "], "A": ["currently ", "future ", "later ", "presently "]}

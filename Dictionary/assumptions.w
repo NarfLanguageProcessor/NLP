@@ -1,0 +1,1 @@
+{"index": 21949, "D": "something taken for granted; a supposition", "S": ["acceptance ", "belief ", "expectation ", "guess ", "hunch ", "hypothesis ", "inference ", "premise ", "presumption ", "supposition ", "suspicion ", "theory "], "A": ["disbelief ", "fact ", "knowledge ", "measurement ", "proof ", "reality ", "truth "]}

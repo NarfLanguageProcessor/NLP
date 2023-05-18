@@ -1,0 +1,1 @@
+{"index": 207978, "D": "transient  state or quality.", "S": [], "A": []}

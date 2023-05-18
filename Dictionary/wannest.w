@@ -1,0 +1,1 @@
+{"index": 362446, "D": "of an unnatural or sickly pallor; pallid; lacking color", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75618, "D": "a unit of flow of one cubic foot per second.", "S": [], "A": []}

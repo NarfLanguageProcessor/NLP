@@ -1,0 +1,1 @@
+{"index": 287633, "D": "a past participle of shave. ", "S": ["bare ", "hairless ", "naked "], "A": ["hairy ", "hirsute "]}

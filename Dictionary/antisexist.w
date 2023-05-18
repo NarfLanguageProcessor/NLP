@@ -1,0 +1,1 @@
+{"index": 16180, "D": "opposing sexism.", "S": [], "A": []}

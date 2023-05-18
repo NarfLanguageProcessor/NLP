@@ -1,0 +1,1 @@
+{"index": 51101, "D": "having a head or headlike part.", "S": [], "A": []}

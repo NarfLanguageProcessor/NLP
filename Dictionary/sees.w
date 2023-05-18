@@ -1,0 +1,1 @@
+{"index": 283174, "D": "to perceive with the eyes; look at.", "S": ["detect ", "examine ", "identify ", "look ", "look at ", "notice ", "observe ", "recognize ", "regard ", "spot ", "view ", "watch ", "witness "], "A": ["disbelieve ", "disregard ", "ignore ", "miss ", "neglect ", "overlook ", "pass by ", "forget ", "look away "]}

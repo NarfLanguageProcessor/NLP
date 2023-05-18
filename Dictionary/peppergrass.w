@@ -1,0 +1,1 @@
+{"index": 230218, "D": "any pungent plant belonging to the genus Lepidium, of the mustard family, used as a potherb or salad vegetable.", "S": [], "A": []}

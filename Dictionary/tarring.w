@@ -1,0 +1,1 @@
+{"index": 316715, "D": "any of various dark-colored viscid products obtained by the destructive distillation of certain organic substances, as coal or wood.", "S": ["assail ", "contravene ", "tar "], "A": ["agree ", "aid ", "allow ", "approve ", "assist ", "compliment ", "concede ", "confirm ", "corroborate ", "go along ", "help ", "join ", "praise ", "stay ", "support "]}

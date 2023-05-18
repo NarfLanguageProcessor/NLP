@@ -1,0 +1,1 @@
+{"index": 335811, "D": "to make numb; deprive of sensation", "S": [], "A": []}

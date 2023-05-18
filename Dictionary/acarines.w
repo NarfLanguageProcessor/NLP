@@ -1,0 +1,1 @@
+{"index": 1368, "D": "any of numerous arachnids of the order Acarina, comprising the mites and ticks.", "S": [], "A": []}

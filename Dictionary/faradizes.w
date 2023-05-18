@@ -1,0 +1,1 @@
+{"index": 109857, "D": "to stimulate or treat (muscles or nerves) with induced alternating electric current (distinguished from galvanize).", "S": [], "A": []}

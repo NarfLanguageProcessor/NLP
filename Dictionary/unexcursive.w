@@ -1,0 +1,1 @@
+{"index": 341676, "D": "given to making excursions  in speech, thought, etc.; wandering; digressive.", "S": [], "A": []}

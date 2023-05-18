@@ -1,0 +1,1 @@
+{"index": 298845, "D": "anything presented to the sight or view, especially something of a striking or impressive kind", "S": ["comedy ", "demonstration ", "display ", "drama ", "event ", "extravaganza ", "movie ", "pageant ", "parade ", "performance ", "phenomenon ", "scene ", "sight ", "spectacular ", "tableau "], "A": ["hiding ", "expectation "]}

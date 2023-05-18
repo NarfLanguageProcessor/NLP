@@ -1,0 +1,1 @@
+{"index": 244453, "D": "(formerly) a person who rode post;  a mounted mail carrier.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248191, "D": "to lecture or discourse publicly.", "S": [], "A": []}

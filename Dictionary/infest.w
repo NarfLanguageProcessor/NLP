@@ -1,0 +1,1 @@
+{"index": 151957, "D": "to live in or overrun to an unwanted degree or in a troublesome manner, especially as predatory animals or vermin do", "S": ["abound ", "annoy ", "assail ", "beset ", "crowd ", "defile ", "fill ", "infect ", "invade ", "overspread ", "overwhelm ", "pester ", "plague ", "swarm ", "teem ", "worry "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 322269, "D": "an informal, simplified spelling of though. ", "S": [], "A": []}

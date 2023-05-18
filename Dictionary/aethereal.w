@@ -1,0 +1,1 @@
+{"index": 5231, "D": "a variant spelling of ethereal (def. 1), ethereal (def. 2), ethereal (def. 3)", "S": [], "A": []}

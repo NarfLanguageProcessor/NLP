@@ -1,0 +1,1 @@
+{"index": 300646, "D": "a person or thing that spoils. ", "S": ["corsair ", "freebooter ", "pirate ", "rover ", "viking "], "A": []}

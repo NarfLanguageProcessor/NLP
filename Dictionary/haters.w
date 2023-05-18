@@ -1,0 +1,1 @@
+{"index": 134228, "D": "a person who has an intense dislike for another person or thing (often used in combination)", "S": ["cynic ", "doubter ", "egoist ", "egotist ", "loner ", "misanthropist ", "recluse ", "skeptic "], "A": ["believer "]}

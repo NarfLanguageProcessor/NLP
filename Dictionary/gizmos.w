@@ -1,0 +1,1 @@
+{"index": 125712, "D": "a gadget or device", "S": ["appliance ", "contraption ", "device ", "instrument ", "tool ", "widget "], "A": []}

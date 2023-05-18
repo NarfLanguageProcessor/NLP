@@ -1,0 +1,1 @@
+{"index": 207029, "D": "insufficiency or shortness of supply; dearth.", "S": [], "A": []}

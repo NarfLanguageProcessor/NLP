@@ -1,0 +1,1 @@
+{"index": 309304, "D": "to establish by proof or competent evidence", "S": ["authenticating ", "confirming ", "corroborating ", "demonstrating ", "proving ", "validating ", "verifying "], "A": ["dissolving ", "ending ", "tearing down "]}

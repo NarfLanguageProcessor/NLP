@@ -1,0 +1,1 @@
+{"index": 335455, "D": "lacking permission; unsanctioned", "S": ["illegal ", "illegitimate ", "pirated ", "unapproved ", "unconstitutional ", "unjustified ", "unlawful ", "unofficial ", "unwarranted ", "wrongful "], "A": ["authorized ", "ethical ", "good ", "justifiable ", "lawful ", "legal ", "legitimate ", "moral ", "reasonable ", "right ", "warranted "]}

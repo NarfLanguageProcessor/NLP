@@ -1,0 +1,1 @@
+{"index": 337843, "D": "of regular or frequent recurrence; often repeated; very frequent", "S": [], "A": []}

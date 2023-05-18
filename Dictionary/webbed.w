@@ -1,0 +1,1 @@
+{"index": 363656, "D": "having the fingers or toes connected by a web  or membrane", "S": ["crocheted ", "meshed ", "purled ", "sewn ", "spun ", "woven "], "A": []}

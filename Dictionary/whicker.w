@@ -1,0 +1,1 @@
+{"index": 364733, "D": "to whinny; neigh.", "S": [], "A": []}

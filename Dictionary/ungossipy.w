@@ -1,0 +1,1 @@
+{"index": 343178, "D": "given to or fond of gossip", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332421, "D": "of or containing tungsten,  especially in the pentavalent or hexavalent state.", "S": [], "A": []}

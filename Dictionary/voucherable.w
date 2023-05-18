@@ -1,0 +1,1 @@
+{"index": 361430, "D": "a person or thing that vouches.", "S": [], "A": []}

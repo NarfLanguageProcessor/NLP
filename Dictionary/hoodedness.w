@@ -1,0 +1,1 @@
+{"index": 143475, "D": "having, or covered with, a hood", "S": [], "A": []}

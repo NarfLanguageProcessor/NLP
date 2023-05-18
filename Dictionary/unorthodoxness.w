@@ -1,0 +1,1 @@
+{"index": 347268, "D": [], "S": ["change ", "characteristic ", "contrast ", "discrepancy ", "disparity ", "distinction ", "divergence ", "diversity ", "inequality ", "variation "], "A": ["likeness ", "sameness ", "similarity ", "uniformity ", "conformity ", "correspondence ", "regularity "]}

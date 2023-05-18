@@ -1,0 +1,1 @@
+{"index": 87189, "D": "to reveal; confess.", "S": [], "A": []}

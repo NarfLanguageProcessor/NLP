@@ -1,0 +1,1 @@
+{"index": 272783, "D": "a lively dance, formerly popular, for one couple, characterized by a jumping step and usually in quick duple meter.", "S": [], "A": []}

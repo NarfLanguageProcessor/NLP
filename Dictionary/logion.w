@@ -1,0 +1,1 @@
+{"index": 174636, "D": "a traditional saying or maxim, as of a religious teacher.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 127412, "D": "an employee whose chief duty is running errands.", "S": ["gopher "], "A": []}

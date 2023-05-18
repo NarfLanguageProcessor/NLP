@@ -1,0 +1,1 @@
+{"index": 346366, "D": "a form of the possessive case of I used as a predicate adjective", "S": [], "A": []}

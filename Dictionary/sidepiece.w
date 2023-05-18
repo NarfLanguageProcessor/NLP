@@ -1,0 +1,1 @@
+{"index": 289773, "D": "a piece  forming a side  of something, or attached at the side.", "S": [], "A": []}

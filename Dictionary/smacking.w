@@ -1,0 +1,1 @@
+{"index": 294668, "D": "smart, brisk, or strong, as a breeze.", "S": ["beating ", "punishing ", "slamming ", "slapping ", "thumping ", "whacking ", "whipping "], "A": []}

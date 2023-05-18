@@ -1,0 +1,1 @@
+{"index": 55227, "D": "a white, crystalline, slightly water-soluble powder, C7H6ClN3O4S2, used as a diuretic and in the treatment of hypertension.", "S": [], "A": []}

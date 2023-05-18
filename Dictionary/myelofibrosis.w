@@ -1,0 +1,1 @@
+{"index": 186921, "D": "the replacement of bone marrow by fibrous tissue, characteristic of leukemia and certain other diseases.", "S": [], "A": []}

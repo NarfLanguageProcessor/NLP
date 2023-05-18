@@ -1,0 +1,1 @@
+{"index": 221532, "D": "to tax  too heavily.", "S": ["misuse ", "squander "], "A": ["hoard ", "save "]}

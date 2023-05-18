@@ -1,0 +1,1 @@
+{"index": 219128, "D": "above in place or position", "S": ["conquer "], "A": ["fail ", "fall behind ", "give up ", "help ", "lose ", "receive ", "surrender "]}

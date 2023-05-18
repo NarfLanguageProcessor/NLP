@@ -1,0 +1,1 @@
+{"index": 25757, "D": "the half of a court  in which the basket being defended is located.", "S": [], "A": []}

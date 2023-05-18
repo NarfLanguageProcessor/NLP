@@ -1,0 +1,1 @@
+{"index": 139442, "D": "a natural elevation of the earth's surface, smaller than a mountain.", "S": ["bluff ", "cliff ", "dune ", "highland ", "hillside ", "hilltop ", "ridge ", "slope "], "A": ["bottom ", "decline ", "depression ", "nadir "]}

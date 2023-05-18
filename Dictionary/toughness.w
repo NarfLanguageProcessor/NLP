@@ -1,0 +1,1 @@
+{"index": 326610, "D": "the quality or an instance of being tough", "S": ["decisiveness ", "firmness ", "fortitude ", "grit ", "perseverance ", "persistence ", "resolve ", "seriousness ", "stubbornness ", "willpower "], "A": ["cowardice ", "flexibility ", "idleness ", "indolence ", "weakness "]}

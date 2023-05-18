@@ -1,0 +1,1 @@
+{"index": 314213, "D": "made by underpaid workers.", "S": ["perspiration ", "steam "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260607, "D": "(of unpleasant feelings, experiences, etc.) to continue to cause keen irritation or bitter resentment within the mind; fester; be painful.", "S": [], "A": []}

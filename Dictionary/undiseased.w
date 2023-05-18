@@ -1,0 +1,1 @@
+{"index": 340506, "D": "having or affected with disease. ", "S": [], "A": []}

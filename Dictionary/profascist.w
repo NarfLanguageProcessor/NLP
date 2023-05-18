@@ -1,0 +1,1 @@
+{"index": 251682, "D": "in favour of or supporting Fascism", "S": [], "A": []}

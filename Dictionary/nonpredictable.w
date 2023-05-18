@@ -1,0 +1,1 @@
+{"index": 206111, "D": "able to be foretold or declared in advance", "S": [], "A": []}

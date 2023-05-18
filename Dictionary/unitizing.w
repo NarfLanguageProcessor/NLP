@@ -1,0 +1,1 @@
+{"index": 345087, "D": "to form or combine into one unit,  as by welding parts together", "S": [], "A": []}

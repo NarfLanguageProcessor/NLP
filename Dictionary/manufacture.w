@@ -1,0 +1,1 @@
+{"index": 179651, "D": "the making of goods or wares by manual labor or by machinery, especially on a large scale", "S": ["assemble ", "complete ", "construct ", "create ", "fabricate ", "mass-produce ", "synthesize "], "A": ["break ", "demolish ", "destroy ", "divide ", "ruin ", "separate ", "abandon ", "fail ", "forget ", "neglect ", "raze "]}

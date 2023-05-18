@@ -1,0 +1,1 @@
+{"index": 155955, "D": "to scatter here and there or place at intervals among other things", "S": [], "A": []}

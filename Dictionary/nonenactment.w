@@ -1,0 +1,1 @@
+{"index": 203492, "D": "the act of enacting. ", "S": [], "A": []}

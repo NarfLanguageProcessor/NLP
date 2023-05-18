@@ -1,0 +1,1 @@
+{"index": 17978, "D": "to come near or nearer to", "S": ["access ", "path ", "way "], "A": ["departure ", "exit "]}

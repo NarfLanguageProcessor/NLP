@@ -1,0 +1,1 @@
+{"index": 210488, "D": "resisting control or restraint in a difficult manner; unruly. ", "S": ["aloud ", "emphatically ", "noisily ", "powerfully ", "vehemently ", "vociferously "], "A": ["inaudibly ", "quietly ", "silently "]}

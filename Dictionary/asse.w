@@ -1,0 +1,1 @@
+{"index": 21626, "D": "a fox, Vulpes chama, inhabiting dry areas of southern Africa and having large pointed ears, silvery gray coat, and a bushy tail with a black tip.", "S": [], "A": []}

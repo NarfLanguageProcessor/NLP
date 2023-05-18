@@ -1,0 +1,1 @@
+{"index": 27896, "D": "lean or spare, as a person.", "S": [], "A": []}

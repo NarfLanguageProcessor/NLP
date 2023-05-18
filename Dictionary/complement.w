@@ -1,0 +1,1 @@
+{"index": 64616, "D": "something that completes or makes perfect", "S": ["accompaniment "], "A": ["base ", "core ", "decrease ", "fraction ", "part "]}

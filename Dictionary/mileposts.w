@@ -1,0 +1,1 @@
+{"index": 187142, "D": "any of a series of posts  set up to mark distance by miles,  as along a highway, or an individual post  showing the distance to or from a place.", "S": ["milestone ", "watershed "], "A": []}

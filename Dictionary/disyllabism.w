@@ -1,0 +1,1 @@
+{"index": 88349, "D": "the state of being disyllabic. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 178046, "D": "Italian earthenware covered with an opaque glaze of tin oxide and usually highly decorated.", "S": [], "A": []}

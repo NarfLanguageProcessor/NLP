@@ -1,0 +1,1 @@
+{"index": 217346, "D": "a sortie of troops from a besieged place upon an enemy.", "S": [], "A": []}

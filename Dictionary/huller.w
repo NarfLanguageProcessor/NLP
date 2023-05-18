@@ -1,0 +1,1 @@
+{"index": 144811, "D": "the husk, shell, or outer covering of a seed or fruit.", "S": [], "A": []}

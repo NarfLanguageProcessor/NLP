@@ -1,0 +1,1 @@
+{"index": 225517, "D": "of, like, or befitting paradise. ", "S": ["cheerfully ", "cheerily ", "cordially ", "enthusiastically ", "freely ", "gleefully ", "gratefully ", "heartily ", "readily ", "warmly ", "willingly "], "A": ["unwillingly "]}

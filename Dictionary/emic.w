@@ -1,0 +1,1 @@
+{"index": 98513, "D": "pertaining to or being a significant  unit that functions in contrast with other units in a language or other system of behavior.", "S": [], "A": []}

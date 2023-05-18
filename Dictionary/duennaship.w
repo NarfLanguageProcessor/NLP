@@ -1,0 +1,1 @@
+{"index": 93868, "D": "(in Spain and Portugal) an older woman serving as escort or chaperon of a young lady.", "S": [], "A": []}

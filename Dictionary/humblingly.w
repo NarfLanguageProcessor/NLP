@@ -1,0 +1,1 @@
+{"index": 144911, "D": "causing a person to feel less proud, especially through awe, admiration, or gratitude", "S": [], "A": []}

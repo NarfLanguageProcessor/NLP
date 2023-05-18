@@ -1,0 +1,1 @@
+{"index": 188068, "D": "precise details; small or trifling matters", "S": ["fiddle-faddle ", "frippery ", "frivolity ", "froth ", "memorabilia ", "nonsense ", "trifle ", "trifles ", "trivialities ", "triviality "], "A": []}

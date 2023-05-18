@@ -1,0 +1,1 @@
+{"index": 205764, "D": "having borne no children.", "S": [], "A": []}

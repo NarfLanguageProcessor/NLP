@@ -1,0 +1,1 @@
+{"index": 149005, "D": "the act of imprecating;  cursing.", "S": ["curse ", "malediction ", "swearing "], "A": []}

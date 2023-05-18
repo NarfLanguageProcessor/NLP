@@ -1,0 +1,1 @@
+{"index": 260764, "D": "a person or thing that raps  or knocks.", "S": [], "A": []}

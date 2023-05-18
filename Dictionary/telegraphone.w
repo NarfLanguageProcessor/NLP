@@ -1,0 +1,1 @@
+{"index": 318059, "D": "an early magnetic sound-recording device for use with wire, tape, or disks.", "S": [], "A": []}

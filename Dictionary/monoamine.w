@@ -1,0 +1,1 @@
+{"index": 192082, "D": "any of various biogenic amine  neurotransmitters having a single amino group, as dopamine, epinephrine, and norepinephrine.", "S": [], "A": []}

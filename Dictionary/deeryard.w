@@ -1,0 +1,1 @@
+{"index": 79027, "D": "an area where deer  gather in winter.", "S": [], "A": []}

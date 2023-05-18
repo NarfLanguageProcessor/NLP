@@ -1,0 +1,1 @@
+{"index": 191272, "D": "a member of a tribe of the most easterly of the Iroquois Five Nations, formerly resident along the Mohawk River, New York.", "S": ["braid ", "dreadlocks ", "haircut ", "hairdo ", "headdress ", "ponytail "], "A": []}

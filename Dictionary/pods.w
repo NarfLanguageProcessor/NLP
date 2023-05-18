@@ -1,0 +1,1 @@
+{"index": 241113, "D": "a somewhat elongated, two-valved seed vessel, as that of the pea or bean.", "S": ["capsule ", "husk ", "skin "], "A": []}

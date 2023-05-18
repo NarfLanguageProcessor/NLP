@@ -1,0 +1,1 @@
+{"index": 323604, "D": "a person who steers a boat or has charge of a tiller. ", "S": [], "A": []}

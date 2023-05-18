@@ -1,0 +1,1 @@
+{"index": 347302, "D": "to rule  against or disallow the arguments of (a person)", "S": [], "A": []}

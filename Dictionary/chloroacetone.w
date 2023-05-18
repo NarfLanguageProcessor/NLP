@@ -1,0 +1,1 @@
+{"index": 55123, "D": "a colorless, lachrymatory, poisonous liquid, C3H5ClO, used chiefly in organic synthesis and in the manufacture of insecticides and perfumes.", "S": [], "A": []}

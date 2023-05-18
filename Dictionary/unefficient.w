@@ -1,0 +1,1 @@
+{"index": 341054, "D": "performing or functioning in the best possible manner with the least waste of time and effort; having and using requisite knowledge, skill, and industry; competent; capable", "S": [], "A": []}

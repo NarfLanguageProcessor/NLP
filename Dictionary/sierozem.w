@@ -1,0 +1,1 @@
+{"index": 289929, "D": "any of a group of calcareous, brownish gray soils based in a carbonate or hardpan layer, found in arid climates.", "S": [], "A": []}

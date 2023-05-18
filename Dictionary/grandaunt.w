@@ -1,0 +1,1 @@
+{"index": 128800, "D": "an aunt  of one's father or mother; great-aunt.", "S": [], "A": []}

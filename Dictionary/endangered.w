@@ -1,0 +1,1 @@
+{"index": 99582, "D": "threatened with a danger", "S": ["threatened "], "A": []}

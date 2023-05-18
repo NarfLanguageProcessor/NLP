@@ -1,0 +1,1 @@
+{"index": 249059, "D": "to buy or pay off; clear by payment", "S": [], "A": []}

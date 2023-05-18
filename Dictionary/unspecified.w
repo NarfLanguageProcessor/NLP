@@ -1,0 +1,1 @@
+{"index": 351697, "D": "not referred to or stated specifically", "S": ["undefined "], "A": ["known ", "specified "]}

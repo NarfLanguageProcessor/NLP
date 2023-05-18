@@ -1,0 +1,1 @@
+{"index": 144365, "D": "(in the Middle Ages) a robe or long tunic, belted or with a fitted bodice, usually having full trailing sleeves and often trimmed or lined with fur.", "S": [], "A": []}

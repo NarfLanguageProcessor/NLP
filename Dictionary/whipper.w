@@ -1,0 +1,1 @@
+{"index": 364915, "D": "to beat with a strap, lash, rod, or the like, especially by way of punishment or chastisement; flog; thrash", "S": ["accomplished ", "astute ", "bright ", "gifted ", "ingenious ", "inventive ", "sharp ", "smart ", "talented "], "A": ["dull ", "ignorant ", "inept ", "slow ", "stupid ", "unintelligent ", "unstylish "]}

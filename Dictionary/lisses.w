@@ -1,0 +1,1 @@
+{"index": 173483, "D": "a fine, filmy, lightly crinkled gauze fabric used in strips for making ruching or for finishing garments.", "S": [], "A": []}

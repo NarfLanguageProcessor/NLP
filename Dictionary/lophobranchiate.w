@@ -1,0 +1,1 @@
+{"index": 175172, "D": "belonging or pertaining to the Lophobranchii, the group of fishes comprising the pipefishes, seahorses, snipefishes, trumpetfishes, etc.", "S": [], "A": []}

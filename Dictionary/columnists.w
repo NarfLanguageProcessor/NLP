@@ -1,0 +1,1 @@
+{"index": 63560, "D": "the writer or editor of a newspaper or magazine column. ", "S": ["correspondent ", "reporter ", "writer "], "A": []}

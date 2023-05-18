@@ -1,0 +1,1 @@
+{"index": 20376, "D": "a compound containing two elements of which arsenic  is the negative one, as silver arsenide, Ag3As.", "S": [], "A": []}

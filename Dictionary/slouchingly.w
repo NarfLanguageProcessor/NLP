@@ -1,0 +1,1 @@
+{"index": 294418, "D": "to sit or stand with an awkward, drooping posture.", "S": [], "A": []}

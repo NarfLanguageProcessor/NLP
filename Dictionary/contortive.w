@@ -1,0 +1,1 @@
+{"index": 67531, "D": "characterized by, tending toward, or causing contortions or twisting", "S": [], "A": []}

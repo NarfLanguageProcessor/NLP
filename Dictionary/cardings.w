@@ -1,0 +1,1 @@
+{"index": 47773, "D": "the process in which fibers, as cotton, worsted, or wool, are manipulated into sliver form prior to spinning.", "S": [], "A": []}

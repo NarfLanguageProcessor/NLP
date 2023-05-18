@@ -1,0 +1,1 @@
+{"index": 210045, "D": "(in medieval folklore) the king of the fairies.", "S": [], "A": []}

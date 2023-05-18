@@ -1,0 +1,1 @@
+{"index": 134864, "D": "a stone forming a hearth.", "S": ["fireplace "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 119543, "D": "having the ability to yield or produce fruit.", "S": [], "A": []}

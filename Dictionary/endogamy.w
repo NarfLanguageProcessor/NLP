@@ -1,0 +1,1 @@
+{"index": 99802, "D": "Compare exogamy (def. 1). ", "S": [], "A": []}

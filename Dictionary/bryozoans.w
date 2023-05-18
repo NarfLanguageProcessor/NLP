@@ -1,0 +1,1 @@
+{"index": 40917, "D": "belonging or pertaining to the Bryozoa. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19946, "D": "the act of taking arms or providing with arms", "S": ["fortify ", "load ", "mobilize ", "prepare ", "protect ", "provide ", "strengthen ", "supply "], "A": ["discourage ", "dissuade ", "hurt ", "injure ", "take ", "weaken ", "forget ", "keep ", "neglect ", "unclothe "]}

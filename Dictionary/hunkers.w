@@ -1,0 +1,1 @@
+{"index": 145168, "D": "haunches", "S": ["bend ", "bow ", "cower ", "dip ", "duck ", "grovel ", "huddle ", "hunch ", "kneel ", "quail ", "squat ", "stoop ", "wince "], "A": ["face ", "meet ", "straighten "]}

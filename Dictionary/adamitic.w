@@ -1,0 +1,1 @@
+{"index": 3441, "D": "a descendant of Adam;  human being.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233121, "D": "the branch of pharmacology dealing with the course of action, effect, and breakdown of drugs within the body.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 274946, "D": "any of various tools or machines for routing,  hollowing out, or furrowing.", "S": [], "A": []}

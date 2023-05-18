@@ -1,0 +1,1 @@
+{"index": 208123, "D": "a customary way of doing something; a custom or practice", "S": [], "A": []}

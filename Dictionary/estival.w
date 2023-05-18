@@ -1,0 +1,1 @@
+{"index": 104679, "D": "pertaining or appropriate to summer.", "S": ["aestival ", "sunny ", "warm "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20481, "D": "to convert (venous blood) into arterial  blood by the action of oxygen in the lungs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49838, "D": "a broomstick or other stick used as a bat, especially in playing tipcat.", "S": [], "A": []}

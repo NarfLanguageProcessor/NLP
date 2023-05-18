@@ -1,0 +1,1 @@
+{"index": 82905, "D": "cake, pie, fruit, pudding, ice cream, etc., served as the final course of a meal.", "S": ["candy ", "confectionery ", "goodies ", "preserves ", "sweetmeats "], "A": []}

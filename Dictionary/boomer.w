@@ -1,0 +1,1 @@
+{"index": 38157, "D": "a person or thing that booms. ", "S": [], "A": []}

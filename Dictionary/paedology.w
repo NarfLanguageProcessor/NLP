@@ -1,0 +1,1 @@
+{"index": 222920, "D": "the study of the character, growth, and development of children", "S": [], "A": []}

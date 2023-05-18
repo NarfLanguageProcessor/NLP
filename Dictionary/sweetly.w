@@ -1,0 +1,1 @@
+{"index": 314313, "D": "having the taste or flavor characteristic of sugar, honey, etc.", "S": ["charmingly ", "gently ", "gratefully ", "lovingly ", "pleasantly ", "softly ", "warmly "], "A": []}

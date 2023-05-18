@@ -1,0 +1,1 @@
+{"index": 119223, "D": "a gown or dress worn by a girl or woman.", "S": ["anoint ", "appoint ", "bless ", "consecrate ", "elect ", "enact ", "nominate "], "A": ["ignore ", "refuse ", "veto ", "conceal ", "deny ", "disorganize ", "halt ", "keep ", "neglect ", "prevent ", "receive ", "stop "]}

@@ -1,0 +1,1 @@
+{"index": 220751, "D": "(of water) to break over the bow of (a ship) in a solid mass.", "S": [], "A": []}

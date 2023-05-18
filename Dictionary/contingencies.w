@@ -1,0 +1,1 @@
+{"index": 67457, "D": "dependence on chance or on the fulfillment of a condition; uncertainty; fortuitousness", "S": ["emergency ", "eventuality ", "exigency ", "probability "], "A": ["improbability ", "unlikelihood ", "advantage ", "bad luck ", "certainty ", "good fortune ", "misfortune ", "plan ", "solution "]}

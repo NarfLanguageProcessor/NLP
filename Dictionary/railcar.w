@@ -1,0 +1,1 @@
+{"index": 260025, "D": "a passenger-carrying railway vehicle consisting of a single coach with its own power unit", "S": [], "A": []}

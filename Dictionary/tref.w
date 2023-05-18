@@ -1,0 +1,1 @@
+{"index": 328802, "D": "unfit to be eaten or used, according to religious laws; not kosher.", "S": [], "A": []}

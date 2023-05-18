@@ -1,0 +1,1 @@
+{"index": 268803, "D": "to subject to pain, loss, confinement, death, etc., as a penalty for some offense, transgression, or fault", "S": [], "A": []}

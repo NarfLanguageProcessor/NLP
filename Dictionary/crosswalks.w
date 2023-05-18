@@ -1,0 +1,1 @@
+{"index": 73884, "D": "a lane marked off for pedestrians to use when crossing a street, as at an intersection.", "S": ["bridge ", "crossroad ", "intersection ", "junction ", "overpass ", "passage "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 50570, "D": "having a cell  or cells  (often used in combination)", "S": [], "A": []}

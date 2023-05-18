@@ -1,0 +1,1 @@
+{"index": 314190, "D": "a variant transliteration of the Chinese name for Shantou", "S": [], "A": []}

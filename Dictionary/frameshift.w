@@ -1,0 +1,1 @@
+{"index": 118298, "D": "the addition or deletion of one or more nucleotides in a strand of DNA, which shifts  the codon triplets of the genetic code of messenger RNA and causes a misreading during translation, resulting in an aberrant protein and therefore a mutation.", "S": [], "A": []}

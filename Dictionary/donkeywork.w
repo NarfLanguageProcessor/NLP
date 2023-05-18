@@ -1,0 +1,1 @@
+{"index": 91438, "D": "tedious, repetitious work; drudgery.", "S": ["backbreaking work ", "drudgery ", "hard way ", "labor ", "long haul ", "tough grind ", "uphill battle "], "A": []}

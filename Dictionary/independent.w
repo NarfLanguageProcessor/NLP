@@ -1,0 +1,1 @@
+{"index": 150805, "D": "not influenced or controlled by others in matters of opinion, conduct, etc.; thinking or acting for oneself", "S": ["autonomous ", "nonpartisan ", "self-reliant ", "self-sufficient ", "separate ", "sovereign "], "A": ["dependent ", "subordinate ", "subservient "]}

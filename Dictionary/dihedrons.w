@@ -1,0 +1,1 @@
+{"index": 85564, "D": "a figure formed by two intersecting planes.", "S": [], "A": []}

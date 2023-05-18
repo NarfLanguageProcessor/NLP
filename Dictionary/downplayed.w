@@ -1,0 +1,1 @@
+{"index": 92285, "D": "to treat or speak of (something) so as to reduce emphasis on its importance, value, strength, etc.", "S": ["lessen ", "play down ", "soften "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211190, "D": "a female slave or concubine in a harem, especially in that of the sultan of Turkey.", "S": [], "A": []}

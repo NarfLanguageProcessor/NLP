@@ -1,0 +1,1 @@
+{"index": 264384, "D": "a condition experienced by pilots and astronauts in which blood is forced to the head and results in a reddening of the field of vision during rapid deceleration or in maneuvers that produce a negative gravity force.", "S": [], "A": []}

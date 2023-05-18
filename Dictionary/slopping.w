@@ -1,0 +1,1 @@
+{"index": 294366, "D": "to spill or splash (liquid).", "S": ["slosh "], "A": ["clean up "]}

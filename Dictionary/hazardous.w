@@ -1,0 +1,1 @@
+{"index": 134526, "D": "full of risk; perilous; risky", "S": ["dicey ", "difficult ", "perilous ", "precarious ", "risky ", "uncertain ", "unhealthy ", "unsafe ", "unsound "], "A": ["certain ", "definite ", "safe ", "secure ", "stable ", "strong ", "sure ", "well "]}

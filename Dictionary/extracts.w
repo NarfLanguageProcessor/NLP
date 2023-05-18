@@ -1,0 +1,1 @@
+{"index": 108472, "D": "to get, pull, or draw out, usually with special effort, skill, or force", "S": ["annals "], "A": []}

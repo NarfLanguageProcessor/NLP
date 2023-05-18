@@ -1,0 +1,1 @@
+{"index": 166591, "D": "a camp or encampment, especially within a protective circle of wagons.", "S": [], "A": []}

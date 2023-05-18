@@ -1,0 +1,1 @@
+{"index": 194868, "D": "(not in technical use) the offspring of one white parent and one Black parent.", "S": [], "A": []}

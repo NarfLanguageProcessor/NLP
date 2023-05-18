@@ -1,0 +1,1 @@
+{"index": 195863, "D": "having enlarged and inelastic muscles,  as from excessive exercise.", "S": [], "A": []}

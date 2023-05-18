@@ -1,0 +1,1 @@
+{"index": 303926, "D": "a pair  of photographs of the same area taken from slightly different positions so as to give a stereoscopic effect when properly mounted and viewed.", "S": [], "A": []}

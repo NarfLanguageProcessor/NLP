@@ -1,0 +1,1 @@
+{"index": 68372, "D": "(intr) Scot a variant spelling of courie", "S": [], "A": []}

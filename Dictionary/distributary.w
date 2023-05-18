@@ -1,0 +1,1 @@
+{"index": 89911, "D": "an outflowing branch of a stream or river, typically found in a delta (opposed to tributary).", "S": [], "A": []}

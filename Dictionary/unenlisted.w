@@ -1,0 +1,1 @@
+{"index": 341311, "D": "to enroll, usually voluntarily, for military service", "S": [], "A": []}

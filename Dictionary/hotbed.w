@@ -1,0 +1,1 @@
+{"index": 144239, "D": "a bottomless, boxlike, usually glass-covered structure and the bed  of earth it covers, heated typically by fermenting manure or electrical cables, for growing plants out of season.", "S": ["heart ", "hub ", "place "], "A": ["exterior ", "exteriority ", "outside "]}

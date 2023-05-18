@@ -1,0 +1,1 @@
+{"index": 83447, "D": "an alphabetic script with some syllabic features derived from Brahmi, used for the writing of Hindi and many other languages of India including Sanskrit.", "S": [], "A": []}

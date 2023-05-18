@@ -1,0 +1,1 @@
+{"index": 125280, "D": "of, relating to, or resembling a ginglymus. ", "S": [], "A": []}

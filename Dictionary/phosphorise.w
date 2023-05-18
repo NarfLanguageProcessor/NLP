@@ -1,0 +1,1 @@
+{"index": 234925, "D": "phosphorate (def. 1). ", "S": [], "A": []}

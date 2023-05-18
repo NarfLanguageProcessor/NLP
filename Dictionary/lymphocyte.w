@@ -1,0 +1,1 @@
+{"index": 172558, "D": "a type of white blood cell having a large, spherical nucleus surrounded by a thin layer of nongranular cytoplasm.", "S": [], "A": []}

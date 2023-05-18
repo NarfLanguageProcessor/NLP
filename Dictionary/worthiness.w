@@ -1,0 +1,1 @@
+{"index": 367709, "D": "the fact or quality of having great or adequate merit, character, or value", "S": ["ability ", "competence ", "quality ", "stature ", "talent "], "A": ["inability ", "inadequacy ", "incompetence ", "weakness ", "disadvantage ", "impotence ", "ineptness ", "lack ", "lowliness "]}

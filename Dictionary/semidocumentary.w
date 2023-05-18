@@ -1,0 +1,1 @@
+{"index": 284110, "D": "pertaining to, consisting of, or derived from documents", "S": [], "A": []}

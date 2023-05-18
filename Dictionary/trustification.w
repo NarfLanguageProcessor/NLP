@@ -1,0 +1,1 @@
+{"index": 331692, "D": "the practice or process of forming a monopolistic system or trusts", "S": [], "A": []}

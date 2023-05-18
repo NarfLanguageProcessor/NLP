@@ -1,0 +1,1 @@
+{"index": 352545, "D": "not sustainable; not to be supported, maintained, upheld, or corroborated.", "S": [], "A": []}

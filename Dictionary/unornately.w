@@ -1,0 +1,1 @@
+{"index": 347259, "D": "elaborately or sumptuously adorned, often excessively or showily so", "S": [], "A": []}

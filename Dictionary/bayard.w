@@ -1,0 +1,1 @@
+{"index": 26421, "D": "heroic French soldier.", "S": [], "A": []}

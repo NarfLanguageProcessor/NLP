@@ -1,0 +1,1 @@
+{"index": 221259, "D": "in an economical or limited way", "S": [], "A": []}

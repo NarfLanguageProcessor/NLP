@@ -1,0 +1,1 @@
+{"index": 59687, "D": "the act of cleaving  or splitting.", "S": ["chasm ", "rift ", "schism "], "A": ["closure ", "closing ", "juncture ", "solid "]}

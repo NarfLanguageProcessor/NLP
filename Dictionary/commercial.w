@@ -1,0 +1,1 @@
+{"index": 64009, "D": "of, relating to, or characteristic of commerce.", "S": ["economic ", "financial ", "monetary ", "profit-making ", "profitable ", "wholesale "], "A": ["not-for-profit "]}

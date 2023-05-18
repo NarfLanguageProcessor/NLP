@@ -1,0 +1,1 @@
+{"index": 296461, "D": "an Indian shrub, Aeschynomene aspera, of the legume family, the pith of which is used for making helmets.", "S": [], "A": []}

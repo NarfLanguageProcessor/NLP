@@ -1,0 +1,1 @@
+{"index": 240541, "D": "consisting of, containing, or pertaining to more than one.", "S": ["multiple "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 105241, "D": "a small, often decorative case, especially one for needles, toilet articles, or the like.", "S": [], "A": []}

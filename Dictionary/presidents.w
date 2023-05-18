@@ -1,0 +1,1 @@
+{"index": 249458, "D": "the highest executive officer of a modern republic, as the chief executive of the United States", "S": ["CEO ", "boss ", "leader ", "premier "], "A": []}

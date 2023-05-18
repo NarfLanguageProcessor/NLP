@@ -1,0 +1,1 @@
+{"index": 204526, "D": "marked by or attended with ignominy;  discreditable; humiliating", "S": [], "A": []}

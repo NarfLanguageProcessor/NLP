@@ -1,0 +1,1 @@
+{"index": 148246, "D": "to fasten, stick, or fix upon a sharpened stake or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 3089, "D": "having tentacles or rays.", "S": [], "A": []}

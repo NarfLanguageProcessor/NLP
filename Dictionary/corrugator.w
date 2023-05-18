@@ -1,0 +1,1 @@
+{"index": 69758, "D": "a muscle whose contraction causes wrinkling of the brow", "S": [], "A": []}

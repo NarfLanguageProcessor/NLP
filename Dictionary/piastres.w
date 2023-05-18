@@ -1,0 +1,1 @@
+{"index": 235755, "D": "a former coin of Turkey, one 100th of a lira", "S": [], "A": []}

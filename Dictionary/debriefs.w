@@ -1,0 +1,1 @@
+{"index": 77841, "D": "to interrogate (a soldier, astronaut, diplomat, etc.) on return from a mission in order to assess the conduct and results of the mission.", "S": ["interrogate "], "A": ["answer "]}

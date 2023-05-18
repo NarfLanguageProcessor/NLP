@@ -1,0 +1,1 @@
+{"index": 133932, "D": "a barbed, spearlike missile attached to a rope, and thrown by hand or shot from a gun, used for killing and capturing whales and large fish.", "S": [], "A": []}

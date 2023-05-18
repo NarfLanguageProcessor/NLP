@@ -1,0 +1,1 @@
+{"index": 167822, "D": "any eellike marine or freshwater fish of the order Petromyzoniformes, having a circular, suctorial mouth with horny teeth for boring into the flesh of other fishes to feed on their blood.", "S": [], "A": []}

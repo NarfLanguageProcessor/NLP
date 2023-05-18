@@ -1,0 +1,1 @@
+{"index": 267572, "D": "to cause to be or become; make", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307736, "D": "a subordinate evil spirit at enmity with God, and having power to afflict humans both with bodily disease and with spiritual corruption.", "S": [], "A": []}

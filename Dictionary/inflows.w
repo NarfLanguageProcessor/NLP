@@ -1,0 +1,1 @@
+{"index": 152160, "D": "something that flows  in; influx.", "S": ["arrival ", "incursion ", "introduction ", "invasion "], "A": ["retreat ", "departure "]}

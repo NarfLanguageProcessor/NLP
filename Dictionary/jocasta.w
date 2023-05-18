@@ -1,0 +1,1 @@
+{"index": 161458, "D": "a queen of Thebes, the wife of Laius and the mother, later the wife, of Oedipus, by whom she bore Eteocles, Polynices, and Antigone", "S": [], "A": []}

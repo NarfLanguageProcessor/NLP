@@ -1,0 +1,1 @@
+{"index": 307652, "D": "to cultivate (a bacterial strain) again on a new medium.", "S": [], "A": []}

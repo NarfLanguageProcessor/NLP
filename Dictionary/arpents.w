@@ -1,0 +1,1 @@
+{"index": 20129, "D": "an old French unit of area equal to about one acre (0.4 hectare). It is still used in the province of Quebec and in parts of Louisiana.", "S": [], "A": []}

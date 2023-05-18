@@ -1,0 +1,1 @@
+{"index": 77519, "D": "to make deaf", "S": ["aloud ", "emphatically ", "noisily ", "powerfully ", "vehemently ", "vociferously "], "A": ["inaudibly ", "quietly ", "silently "]}

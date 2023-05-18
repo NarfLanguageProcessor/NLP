@@ -1,0 +1,1 @@
+{"index": 227433, "D": "an apparatus for pasteurizing  milk and other liquids.", "S": [], "A": []}

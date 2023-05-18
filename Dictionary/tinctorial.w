@@ -1,0 +1,1 @@
+{"index": 323917, "D": "pertaining to coloring or dyeing.", "S": [], "A": []}

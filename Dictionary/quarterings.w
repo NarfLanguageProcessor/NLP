@@ -1,0 +1,1 @@
+{"index": 258048, "D": "the act of a person or thing that quarters.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77226, "D": "a stew of braised meat, vegetables, herbs, and seasonings.", "S": [], "A": []}

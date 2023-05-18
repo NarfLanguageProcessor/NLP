@@ -1,0 +1,1 @@
+{"index": 314773, "D": "a fabric resembling poplin, made of silk and wool and usually given a watered finish.", "S": [], "A": []}

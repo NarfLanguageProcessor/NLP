@@ -1,0 +1,1 @@
+{"index": 201114, "D": "the act or state of adhering; state of being adhered or united", "S": [], "A": []}

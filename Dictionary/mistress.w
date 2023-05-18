@@ -1,0 +1,1 @@
+{"index": 190353, "D": "a woman who, most often secretly, has an ongoing sexual relationship with, and sometimes is financially supported by, someone who is openly married to, engaged to, or living with another person", "S": ["girlfriend ", "paramour ", "sweetheart "], "A": []}

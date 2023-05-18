@@ -1,0 +1,1 @@
+{"index": 57956, "D": "Compare infradian, ultradian. ", "S": ["constantly ", "day-to-day ", "everyday ", "often ", "periodic ", "regular ", "regularly ", "routine "], "A": ["abnormal ", "different ", "irregular ", "uncommon ", "unusual ", "variable ", "extraordinary ", "infrequent ", "rare "]}

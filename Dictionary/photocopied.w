@@ -1,0 +1,1 @@
+{"index": 235052, "D": "a photographic reproduction of a document, print, or the like.", "S": ["duplicated ", "transcribed "], "A": []}

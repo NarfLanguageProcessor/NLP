@@ -1,0 +1,1 @@
+{"index": 8319, "D": "the plate to which the wings are attached on the notum of an insect.", "S": [], "A": []}

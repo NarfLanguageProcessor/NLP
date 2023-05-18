@@ -1,0 +1,1 @@
+{"index": 325427, "D": "closely covered with down or matted hair.", "S": [], "A": []}

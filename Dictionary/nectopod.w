@@ -1,0 +1,1 @@
+{"index": 197895, "D": "(in certain mollusks) an appendage modified for swimming.", "S": [], "A": []}

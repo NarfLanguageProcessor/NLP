@@ -1,0 +1,1 @@
+{"index": 335872, "D": "not biased  or prejudiced; fair; impartial.", "S": ["disinterested ", "dispassionate ", "equitable ", "honest ", "impartial ", "neutral ", "nonpartisan ", "open-minded "], "A": ["biased ", "involved ", "partial ", "passionate ", "prejudiced ", "unfair ", "unjust "]}

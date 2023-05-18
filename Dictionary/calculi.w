@@ -1,0 +1,1 @@
+{"index": 44966, "D": "a method of calculation, especially one of several highly systematic methods of treating problems by a special system of algebraic notations, as differential or integral calculus. ", "S": ["bilestone ", "concretion ", "cystolith "], "A": []}

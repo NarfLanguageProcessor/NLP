@@ -1,0 +1,1 @@
+{"index": 45833, "D": "a state in SE Mexico, on the peninsula of Yucat\u00e1n. 19,672 sq. mi. (50,950 sq. km).", "S": [], "A": []}

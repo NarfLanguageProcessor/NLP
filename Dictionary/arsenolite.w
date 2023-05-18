@@ -1,0 +1,1 @@
+{"index": 20399, "D": "a mineral, arsenic trioxide, As2O3, occurring usually as a white incrustation on arsenical ores.", "S": [], "A": []}

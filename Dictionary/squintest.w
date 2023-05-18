@@ -1,0 +1,1 @@
+{"index": 301996, "D": "to look with the eyes partly closed.", "S": ["one-sided ", "unbalanced ", "unequal "], "A": ["balanced ", "even "]}

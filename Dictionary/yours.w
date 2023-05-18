@@ -1,0 +1,1 @@
+{"index": 157757, "D": "(a form of the possessive case of you  used as a predicate adjective)", "S": ["hers ", "his ", "its ", "mine ", "theirs "], "A": []}

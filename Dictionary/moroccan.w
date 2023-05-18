@@ -1,0 +1,1 @@
+{"index": 193514, "D": "of or relating to Morocco or its inhabitants", "S": [], "A": []}

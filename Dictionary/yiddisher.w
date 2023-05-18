@@ -1,0 +1,1 @@
+{"index": 147128, "D": "in or relating to Yiddish", "S": [], "A": []}

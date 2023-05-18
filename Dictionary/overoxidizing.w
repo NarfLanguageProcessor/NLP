@@ -1,0 +1,1 @@
+{"index": 220426, "D": "to convert (an element) into an oxide;  combine with oxygen.", "S": [], "A": []}

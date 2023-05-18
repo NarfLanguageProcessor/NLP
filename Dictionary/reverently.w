@@ -1,0 +1,1 @@
+{"index": 271234, "D": "in a way that exhibits deep respect or veneration", "S": ["admiringly ", "affectionately ", "earnestly ", "fondly ", "longingly ", "passionately ", "respectfully ", "thoughtfully ", "warmly ", "zealously "], "A": []}

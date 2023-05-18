@@ -1,0 +1,1 @@
+{"index": 323934, "D": "a box  for holding tinder,  usually fitted with a flint and steel.", "S": [], "A": []}

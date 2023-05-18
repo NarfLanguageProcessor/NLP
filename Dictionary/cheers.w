@@ -1,0 +1,1 @@
+{"index": 53473, "D": "a drinking toast", "S": ["ovation ", "salutation "], "A": ["criticism ", "silence "]}

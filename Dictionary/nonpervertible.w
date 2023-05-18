@@ -1,0 +1,1 @@
+{"index": 205933, "D": "to affect with perversion. ", "S": [], "A": []}

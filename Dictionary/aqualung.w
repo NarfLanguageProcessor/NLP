@@ -1,0 +1,1 @@
+{"index": 18177, "D": "a brand of underwater breathing apparatus for a swimmer or skin-diver, consisting of a cylinder of compressed air that is strapped to the back, a flexible tube connecting the cylinder with the swimmer's mouth, and an automatic pressure regulator that controls the flow of air into the lungs.", "S": [], "A": []}

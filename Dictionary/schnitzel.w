@@ -1,0 +1,1 @@
+{"index": 280366, "D": "a cutlet, especially of veal.", "S": [], "A": []}

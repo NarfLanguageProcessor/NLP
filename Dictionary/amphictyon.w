@@ -1,0 +1,1 @@
+{"index": 11108, "D": "a deputy to the council of an amphictyony.", "S": [], "A": []}

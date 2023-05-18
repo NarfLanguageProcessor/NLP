@@ -1,0 +1,1 @@
+{"index": 60607, "D": "a comic performer, as in a circus, theatrical production, or the like, who wears an outlandish costume and makeup and entertains by pantomiming common situations or actions in exaggerated or ridiculous fashion, by juggling or tumbling, etc.", "S": [], "A": []}

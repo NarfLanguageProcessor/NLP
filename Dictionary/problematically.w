@@ -1,0 +1,1 @@
+{"index": 251074, "D": "of the nature of a problem; doubtful; uncertain; questionable", "S": ["dubiously "], "A": []}

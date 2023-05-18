@@ -1,0 +1,1 @@
+{"index": 70303, "D": "having the same border or covering the same area.", "S": [], "A": []}

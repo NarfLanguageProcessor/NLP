@@ -1,0 +1,1 @@
+{"index": 114883, "D": "a beating, especially with a whip or scourge", "S": ["whipping "], "A": []}

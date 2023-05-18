@@ -1,0 +1,1 @@
+{"index": 65346, "D": "expressing or covering much in few words; brief in form but comprehensive in scope; succinct; terse", "S": ["pithy ", "succinct ", "terse "], "A": ["lengthy ", "long-winded ", "wordy "]}

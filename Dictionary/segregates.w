@@ -1,0 +1,1 @@
+{"index": 283235, "D": "to separate or set apart from others or from the main body or group; isolate", "S": ["disconnect ", "divide ", "insulate ", "isolate ", "sequester ", "single out "], "A": ["attach ", "connect ", "couple ", "join ", "link ", "associate "]}

@@ -1,0 +1,1 @@
+{"index": 186090, "D": "abnormally small teeth.", "S": [], "A": []}

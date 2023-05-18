@@ -1,0 +1,1 @@
+{"index": 326210, "D": "a high explosive  made of TNT, cyclonite, and aluminum powder and used especially in torpedoes,  mines, and depth bombs.", "S": [], "A": []}

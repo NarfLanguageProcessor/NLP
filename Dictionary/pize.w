@@ -1,0 +1,1 @@
+{"index": 238495, "D": "to strike (someone a blow)", "S": [], "A": []}

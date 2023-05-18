@@ -1,0 +1,1 @@
+{"index": 242610, "D": "(of certain bacteria) deriving nourishment from many organic substances.", "S": [], "A": []}

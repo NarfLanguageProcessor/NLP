@@ -1,0 +1,1 @@
+{"index": 145012, "D": "a measure of the discomfort most people feel because of the combined effects of atmospheric temperature  and humidity;  variously defined as Fahrenheit temperature  plus some function of vapor pressure.", "S": [], "A": []}

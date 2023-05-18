@@ -1,0 +1,1 @@
+{"index": 299042, "D": "any of several plants, shrubs, or small trees of the genus Veronica, of the figwort family, having opposite leaves and small flowers.", "S": [], "A": []}

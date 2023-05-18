@@ -1,0 +1,1 @@
+{"index": 1060, "D": "the refusal of a government to participate in international relations or alliances that it regards as detrimental to its interests.", "S": [], "A": []}

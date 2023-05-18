@@ -1,0 +1,1 @@
+{"index": 17521, "D": "the use of magic and ritualistic ceremony to anticipate and prevent evil.", "S": [], "A": []}

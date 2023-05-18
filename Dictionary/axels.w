@@ -1,0 +1,1 @@
+{"index": 25080, "D": "a jump performed by a skater leaping from the front outer edge of one skate into the air to make 1\u00bd rotations of the body and landing on the back outer edge of the other skate.", "S": [], "A": []}

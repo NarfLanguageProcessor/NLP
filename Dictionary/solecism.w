@@ -1,0 +1,1 @@
+{"index": 296589, "D": "a nonstandard or ungrammatical usage, as unflammable and they was.", "S": ["abuse ", "barbarism ", "blunder ", "error ", "impropriety ", "mistake "], "A": ["accuracy ", "certainty ", "correction ", "correctness ", "praise ", "truth "]}

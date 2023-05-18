@@ -1,0 +1,1 @@
+{"index": 155443, "D": [], "S": ["accepted ", "popular ", "prevailing ", "prevalent ", "shared ", "universal "], "A": ["uncommon ", "individual ", "particular ", "private ", "separate ", "singular ", "specific "]}

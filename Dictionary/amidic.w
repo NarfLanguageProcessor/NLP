@@ -1,0 +1,1 @@
+{"index": 10415, "D": "a metallic derivative of ammonia in which the \u2212NH2 group is retained, as potassium amide, KNH2.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349751, "D": "to reply or answer in words", "S": [], "A": []}

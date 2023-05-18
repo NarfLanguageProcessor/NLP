@@ -1,0 +1,1 @@
+{"index": 98672, "D": "characterized by or pertaining to emotion", "S": [], "A": []}

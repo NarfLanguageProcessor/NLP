@@ -1,0 +1,1 @@
+{"index": 138662, "D": "to combine or treat with hydrogen,  especially to add hydrogen  to the molecule of (an unsaturated organic compound).", "S": [], "A": []}

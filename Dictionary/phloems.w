@@ -1,0 +1,1 @@
+{"index": 234512, "D": "the part of a vascular bundle consisting of sieve tubes, companion cells, parenchyma, and fibers and forming the food-conducting tissue of a plant.", "S": [], "A": []}

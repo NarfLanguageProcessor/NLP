@@ -1,0 +1,1 @@
+{"index": 318019, "D": "a small, dark-brown, badgerlike mammal, Mydaus javensis, of the mountains of Java, Sumatra, and Borneo, having a white stripe down the back, and ejecting a foul-smelling secretion when alarmed.", "S": [], "A": []}

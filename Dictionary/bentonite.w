@@ -1,0 +1,1 @@
+{"index": 31706, "D": "a clay formed by the decomposition of volcanic ash, having the ability to absorb large quantities of water and to expand to several times its normal volume.", "S": [], "A": []}

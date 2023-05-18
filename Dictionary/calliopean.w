@@ -1,0 +1,1 @@
+{"index": 45297, "D": "resembling a calliope  in sound; piercingly loud", "S": [], "A": []}

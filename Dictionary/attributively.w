@@ -1,0 +1,1 @@
+{"index": 23173, "D": "in an attributive  or adjectival manner; in a position directly adjacent to and modifying a noun, without any intervening linking verb, as the adjective warm in a warm welcome or the noun romance in a romance novel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 195670, "D": "a murderer's victim or intended victim.", "S": [], "A": []}

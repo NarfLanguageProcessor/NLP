@@ -1,0 +1,1 @@
+{"index": 281602, "D": "a small piece or portion; fragment", "S": ["clearance ", "demolition ", "destruction ", "disposition ", "dumping ", "removal ", "transfer "], "A": ["building ", "construction "]}

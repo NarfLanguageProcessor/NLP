@@ -1,0 +1,1 @@
+{"index": 97994, "D": "to board a ship, aircraft, or other vehicle, as for a journey.", "S": ["commence ", "enter ", "launch "], "A": ["cease ", "end ", "finish ", "stop "]}

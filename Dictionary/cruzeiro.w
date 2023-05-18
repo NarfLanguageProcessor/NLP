@@ -1,0 +1,1 @@
+{"index": 74331, "D": "a monetary unit of Brazil equal to 100 centavos.", "S": [], "A": []}

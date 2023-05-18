@@ -1,0 +1,1 @@
+{"index": 187944, "D": "to minister or administer.", "S": [], "A": []}

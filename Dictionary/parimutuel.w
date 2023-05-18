@@ -1,0 +1,1 @@
+{"index": 226511, "D": "a form of betting and of handling the betting on horse races at racetracks, in which those holding winning tickets divide the total amount bet in proportion to their wagers, less a percentage for the management, taxes, etc.", "S": ["OTB ", "gaming house ", "off-track betting "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165622, "D": "a projecting part, usually rounded, forming the handle of a door, drawer, or the like.", "S": [], "A": []}

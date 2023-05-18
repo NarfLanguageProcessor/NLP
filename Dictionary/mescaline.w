@@ -1,0 +1,1 @@
+{"index": 184025, "D": "a white, water-soluble, crystalline powder, C11H17NO3, obtained from mescal  buttons, that produces hallucinations.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 275315, "D": "pertaining to rudiments  or first principles; elementary", "S": ["elemental ", "elementary ", "embryonic ", "primitive ", "simple "], "A": ["complex ", "complicated ", "difficult ", "intricate ", "sophisticated "]}

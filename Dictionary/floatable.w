@@ -1,0 +1,1 @@
+{"index": 114798, "D": "capable of floating;  that can be floated. ", "S": ["bouncy ", "resilient "], "A": ["depressed ", "down ", "heavy ", "heavy-hearted ", "weighted "]}

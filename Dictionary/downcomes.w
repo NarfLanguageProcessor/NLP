@@ -1,0 +1,1 @@
+{"index": 92212, "D": "a downcomer.", "S": ["abasement ", "anticlimax ", "cadence ", "comedown ", "debasement ", "decadence ", "decline ", "degradation ", "discomfiture ", "down ", "downfall ", "lapse ", "pathos ", "slump "], "A": ["ascent ", "increase ", "promotion ", "rise "]}

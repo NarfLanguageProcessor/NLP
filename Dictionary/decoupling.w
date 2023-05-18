@@ -1,0 +1,1 @@
+{"index": 78721, "D": "the separation of previously linked systems so that they may operate independently", "S": [], "A": []}

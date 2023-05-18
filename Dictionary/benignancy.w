@@ -1,0 +1,1 @@
+{"index": 31628, "D": "kind, especially to inferiors; gracious", "S": ["altruism ", "beneficence ", "benignity ", "charitableness ", "charity ", "generosity ", "goodness ", "goodwill ", "graciousness ", "humanitarianism ", "kindheartedness ", "kindliness ", "kindness ", "philanthropy "], "A": ["meanness "]}

@@ -1,0 +1,1 @@
+{"index": 307619, "D": "an assembly of persons summoned or convened for consultation, deliberation, or advice.", "S": [], "A": []}

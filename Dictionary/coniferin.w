@@ -1,0 +1,1 @@
+{"index": 66332, "D": "a grayish-white, water-soluble powder, C16H22O8\u22c52H2O, obtained from the cambium of coniferous trees and from asparagus", "S": [], "A": []}

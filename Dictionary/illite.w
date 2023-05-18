@@ -1,0 +1,1 @@
+{"index": 147412, "D": "any of a group of clay minerals, hydrous potassium aluminosilicates, characterized by a three-layer micalike structure and a gray, light green, or yellowish-brown color.", "S": [], "A": []}

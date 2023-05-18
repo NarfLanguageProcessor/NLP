@@ -1,0 +1,1 @@
+{"index": 74295, "D": "of or relating to a crust, as of the earth.", "S": [], "A": []}

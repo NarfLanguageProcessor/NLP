@@ -1,0 +1,1 @@
+{"index": 345183, "D": "congealed or brought to the consistency of jelly", "S": [], "A": []}

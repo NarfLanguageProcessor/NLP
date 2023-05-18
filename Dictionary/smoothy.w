@@ -1,0 +1,1 @@
+{"index": 295070, "D": "a person who has a winningly polished manner", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191053, "D": "a standard or example for imitation or comparison.", "S": [], "A": []}

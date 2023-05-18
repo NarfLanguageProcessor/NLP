@@ -1,0 +1,1 @@
+{"index": 273649, "D": "(used to settle a baby or child down to sleep.)", "S": [], "A": []}

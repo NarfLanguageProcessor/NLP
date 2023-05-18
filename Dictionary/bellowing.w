@@ -1,0 +1,1 @@
+{"index": 31228, "D": "to emit a hollow, loud, animal cry, as a bull or cow.", "S": ["big-voiced ", "bigmouthed ", "blustering ", "boisterous ", "full-throated ", "obnoxious ", "vociferous "], "A": []}

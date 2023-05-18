@@ -1,0 +1,1 @@
+{"index": 223659, "D": "the branch of paleontology dealing with fossil life forms, especially with reference to their origin, structure, evolution, etc.", "S": [], "A": []}

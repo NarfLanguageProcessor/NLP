@@ -1,0 +1,1 @@
+{"index": 317467, "D": "a large East Indian tree, Tectona grandis, of the verbena family, yielding a hard, durable, resinous, yellowish-brown wood used for shipbuilding, making furniture, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186190, "D": "an instrument for executing extremely minute writing or engraving.", "S": [], "A": []}

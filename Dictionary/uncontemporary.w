@@ -1,0 +1,1 @@
+{"index": 337804, "D": "existing, occurring, or living at the same time; belonging to the same time", "S": [], "A": []}

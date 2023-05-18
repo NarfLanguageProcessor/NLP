@@ -1,0 +1,1 @@
+{"index": 91121, "D": "any of various extinct Cretaceous aquatic reptiles that had long necks and bodies and well-developed limbs", "S": [], "A": []}

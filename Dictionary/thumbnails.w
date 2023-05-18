@@ -1,0 +1,1 @@
+{"index": 322970, "D": "the nail  of the thumb. ", "S": ["analysis ", "audit ", "critique ", "examination ", "sketch ", "synopsis "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42665, "D": [], "S": ["bondage ", "servitude "], "A": ["entertainment ", "freedom ", "fun ", "pastime "]}

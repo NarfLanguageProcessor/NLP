@@ -1,0 +1,1 @@
+{"index": 193895, "D": "for the most  part; in the main", "S": ["chiefly ", "essentially ", "frequently ", "largely ", "often ", "particularly ", "predominantly ", "principally ", "regularly ", "usually "], "A": ["infrequently ", "rarely ", "seldom "]}

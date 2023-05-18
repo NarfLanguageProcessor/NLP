@@ -1,0 +1,1 @@
+{"index": 306928, "D": "stupefying; producing stupor.", "S": ["calming "], "A": ["exciting ", "stimulating "]}

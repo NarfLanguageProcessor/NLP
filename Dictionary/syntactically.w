@@ -1,0 +1,1 @@
+{"index": 292009, "D": "of or relating to syntax", "S": [], "A": []}

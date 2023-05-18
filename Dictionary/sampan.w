@@ -1,0 +1,1 @@
+{"index": 277582, "D": "any of various small boats of East Asia, such as one propelled by a single scull over the stern and provided with a roofing of mats.", "S": [], "A": []}

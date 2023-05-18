@@ -1,0 +1,1 @@
+{"index": 276028, "D": "of or pertaining or appropriate to the Sabbath.", "S": [], "A": []}

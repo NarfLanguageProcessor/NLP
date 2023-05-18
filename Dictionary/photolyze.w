@@ -1,0 +1,1 @@
+{"index": 235218, "D": "to break down molecules with light.", "S": [], "A": []}

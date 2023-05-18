@@ -1,0 +1,1 @@
+{"index": 190910, "D": "a prolonged, low, inarticulate sound uttered from or as if from physical or mental suffering.", "S": [], "A": []}

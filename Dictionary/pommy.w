@@ -1,0 +1,1 @@
+{"index": 242895, "D": "a British person, especially one who is a recent immigrant.", "S": [], "A": []}

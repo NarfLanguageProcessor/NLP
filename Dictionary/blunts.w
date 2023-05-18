@@ -1,0 +1,1 @@
+{"index": 36864, "D": "having an obtuse, thick, or dull edge or point; rounded; not sharp", "S": ["dull ", "dulled ", "round ", "rounded "], "A": ["needled ", "pointed ", "polite ", "sharp ", "subtle ", "tactful "]}

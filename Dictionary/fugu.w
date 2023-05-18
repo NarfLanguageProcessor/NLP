@@ -1,0 +1,1 @@
+{"index": 119845, "D": "any of several species of puffer fish eaten as a delicacy, especially in Japan, after the removal of the skin and certain organs which contain a deadly poison.", "S": [], "A": []}

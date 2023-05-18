@@ -1,0 +1,1 @@
+{"index": 226891, "D": "characterized by or showing parsimony;  frugal or stingy.", "S": ["cannily ", "greedily ", "illiberally ", "meanly ", "miserly ", "stingily ", "ungenerously "], "A": []}

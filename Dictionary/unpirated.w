@@ -1,0 +1,1 @@
+{"index": 347947, "D": "a person who robs or commits illegal violence at sea or on the shores of the sea.", "S": [], "A": []}

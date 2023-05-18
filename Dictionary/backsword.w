@@ -1,0 +1,1 @@
+{"index": 25975, "D": "a sword  with only one sharp edge; broadsword.", "S": ["blade ", "dagger ", "saber "], "A": []}

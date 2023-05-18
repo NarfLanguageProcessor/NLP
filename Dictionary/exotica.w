@@ -1,0 +1,1 @@
+{"index": 107524, "D": "exotic things or objects.", "S": [], "A": []}

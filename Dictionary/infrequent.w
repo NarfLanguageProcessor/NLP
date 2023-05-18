@@ -1,0 +1,1 @@
+{"index": 152356, "D": "happening or occurring at long intervals or rarely", "S": ["meager ", "occasional ", "odd ", "rare ", "sparse ", "sporadic ", "uncommon "], "A": ["common ", "constant ", "frequent ", "full ", "regular ", "usual "]}

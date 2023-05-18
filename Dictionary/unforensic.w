@@ -1,0 +1,1 @@
+{"index": 342520, "D": "pertaining to, connected with, or used in courts of law or public discussion and debate.", "S": [], "A": []}

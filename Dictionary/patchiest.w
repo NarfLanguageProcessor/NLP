@@ -1,0 +1,1 @@
+{"index": 227591, "D": "characterized by or made up of patches. ", "S": ["erratic ", "fitful ", "irregular ", "sketchy ", "uneven "], "A": ["continuous ", "even ", "level ", "regular ", "smooth "]}

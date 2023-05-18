@@ -1,0 +1,1 @@
+{"index": 347992, "D": "to alter from a plaited state; unbraid, as hair.", "S": [], "A": []}

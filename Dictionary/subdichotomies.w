@@ -1,0 +1,1 @@
+{"index": 307751, "D": "division into two parts, kinds, etc.; subdivision into halves or pairs.", "S": [], "A": []}

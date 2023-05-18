@@ -1,0 +1,1 @@
+{"index": 309585, "D": "trapezium (def. 1b). ", "S": [], "A": []}

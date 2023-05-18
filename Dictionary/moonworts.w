@@ -1,0 +1,1 @@
+{"index": 193125, "D": "any fern of the genus Botrychium, especially B. lunaria, a rare fern having fronds with crescent-shaped leaflets.", "S": [], "A": []}

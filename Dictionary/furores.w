@@ -1,0 +1,1 @@
+{"index": 120486, "D": "a general outburst of enthusiasm, excitement, controversy, or the like.", "S": [], "A": []}

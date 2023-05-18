@@ -1,0 +1,1 @@
+{"index": 99619, "D": "tending to make dear or beloved.", "S": ["captivating ", "charming "], "A": []}

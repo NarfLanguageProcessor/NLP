@@ -1,0 +1,1 @@
+{"index": 121183, "D": "a gum resin with a peculiar, strong odor, obtained from certain Asian plants of the genus Ferula, used in incense and formerly in medicine.", "S": [], "A": []}

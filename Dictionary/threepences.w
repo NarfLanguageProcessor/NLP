@@ -1,0 +1,1 @@
+{"index": 322617, "D": "a sum of three  pennies.", "S": [], "A": []}

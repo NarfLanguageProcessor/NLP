@@ -1,0 +1,1 @@
+{"index": 206297, "D": "the act of proscribing. ", "S": [], "A": []}

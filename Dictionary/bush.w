@@ -1,0 +1,1 @@
+{"index": 43377, "D": "a low plant with many branches that arise from or near the ground.", "S": ["backwoods ", "bramble ", "briar ", "brush ", "chaparral ", "creeper ", "forest ", "hedge ", "hinterland ", "jungle ", "outback ", "plant ", "scrub ", "scrubland ", "shrubbery ", "thicket ", "vine ", "wilderness "], "A": []}

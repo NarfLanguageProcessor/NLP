@@ -1,0 +1,1 @@
+{"index": 165039, "D": "(of fish, esp herring) having been cleaned, salted, and smoked", "S": ["cured ", "dried ", "preserved "], "A": []}

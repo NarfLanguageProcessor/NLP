@@ -1,0 +1,1 @@
+{"index": 62275, "D": "of or relating to cognition;  concerned with the act or process of knowing, perceiving, etc. ", "S": [], "A": []}

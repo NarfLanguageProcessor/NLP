@@ -1,0 +1,1 @@
+{"index": 265917, "D": "to restore to a condition of good health, ability to work, or the like.", "S": ["bright ", "clear ", "good ", "lively ", "vigorous "], "A": ["lethargic "]}

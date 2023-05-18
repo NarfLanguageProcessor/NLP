@@ -1,0 +1,1 @@
+{"index": 321996, "D": "a dark-green crystalline powder, C12H10N3S, whose property of turning violet in solution is useful in microscopy as a biological stain.", "S": [], "A": []}

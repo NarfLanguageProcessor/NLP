@@ -1,0 +1,1 @@
+{"index": 359613, "D": "the methods, conduct, attitudes, etc, associated with vigilantes, esp militancy, bigotry, or suspiciousness", "S": [], "A": []}

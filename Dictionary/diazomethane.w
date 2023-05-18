@@ -1,0 +1,1 @@
+{"index": 84666, "D": "a yellow, odorless, toxic, explosive gas, CH2N2, used chiefly as a methylating agent and in organic synthesis.", "S": [], "A": []}

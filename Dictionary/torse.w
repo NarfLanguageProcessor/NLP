@@ -1,0 +1,1 @@
+{"index": 326275, "D": "a wreath of twisted silks of two alternating tinctures, usually a metal and a color, depicted supporting a crest or coronet, often upon a helmet.", "S": [], "A": []}

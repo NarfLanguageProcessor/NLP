@@ -1,0 +1,1 @@
+{"index": 246417, "D": "to express pleasure to (a person), as on a happy occasion", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113585, "D": "a game resembling handball, played on a court having a front wall and two side walls.", "S": ["quintuple "], "A": []}

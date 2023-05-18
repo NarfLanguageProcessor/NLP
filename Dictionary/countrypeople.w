@@ -1,0 +1,1 @@
+{"index": 71245, "D": "countryfolk. ", "S": ["boor ", "bumpkin ", "clodhopper ", "farmer ", "hayseed ", "hick ", "hillbilly ", "peasant ", "provincial ", "redneck ", "rube ", "yokel "], "A": ["city boy ", "sophisticate "]}

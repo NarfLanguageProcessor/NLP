@@ -1,0 +1,1 @@
+{"index": 369505, "D": "a sudden, brief hissing sound, as of a bullet.", "S": [], "A": []}

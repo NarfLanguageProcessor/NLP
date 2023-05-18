@@ -1,0 +1,1 @@
+{"index": 227109, "D": "a garment for the neck and shoulders, usually ruffled and having a collar, worn in the 16th century.", "S": [], "A": []}

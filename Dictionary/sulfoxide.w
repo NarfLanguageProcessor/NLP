@@ -1,0 +1,1 @@
+{"index": 310500, "D": "a brown liquid, C18H28O3S, insoluble in water, used as an insecticide synergist.", "S": [], "A": []}

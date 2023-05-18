@@ -1,0 +1,1 @@
+{"index": 288680, "D": "a large, African, storklike bird, Balaeniceps rex, having a broad, flattened bill  shaped somewhat like a shoe. ", "S": [], "A": []}

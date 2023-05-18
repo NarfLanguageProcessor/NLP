@@ -1,0 +1,1 @@
+{"index": 208144, "D": "the state of being vacant;  emptiness.", "S": [], "A": []}

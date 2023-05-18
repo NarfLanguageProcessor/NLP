@@ -1,0 +1,1 @@
+{"index": 214724, "D": "an amino acid, H2N(CH2)3CH(NH2)COOH, obtained by the hydrolysis of arginine and occurring as an intermediate compound in the urea cycle of mammals.", "S": [], "A": []}

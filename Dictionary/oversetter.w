@@ -1,0 +1,1 @@
+{"index": 221070, "D": "to upset or overturn; overthrow.", "S": [], "A": []}

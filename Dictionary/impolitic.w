@@ -1,0 +1,1 @@
+{"index": 148846, "D": "not politic,  expedient, or judicious.", "S": ["brash ", "ill-advised ", "ill-judged ", "imprudent ", "inadvisable ", "inconsiderate ", "indiscreet ", "inexpedient ", "injudicious ", "maladroit ", "misguided ", "rash ", "stupid ", "tactless ", "undiplomatic ", "untimely "], "A": ["careful ", "cautious ", "discreet ", "politic ", "wise "]}

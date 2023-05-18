@@ -1,0 +1,1 @@
+{"index": 275835, "D": "Russianize (defs. 1, 2). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 130961, "D": "a small building, separate from a main house or establishment, for the housing of guests.", "S": ["B and B ", "B&B "], "A": []}

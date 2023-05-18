@@ -1,0 +1,1 @@
+{"index": 220778, "D": "to reach  or extend over or beyond", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 246451, "D": "the act of considering; careful thought; meditation; deliberation", "S": [], "A": []}

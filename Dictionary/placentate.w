@@ -1,0 +1,1 @@
+{"index": 238568, "D": "having a placenta. ", "S": [], "A": []}

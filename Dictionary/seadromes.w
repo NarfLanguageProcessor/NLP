@@ -1,0 +1,1 @@
+{"index": 282421, "D": "a floating airdrome serving as an intermediate or emergency landing place for aircraft flying over water.", "S": [], "A": []}

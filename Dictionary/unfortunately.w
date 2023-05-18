@@ -1,0 +1,1 @@
+{"index": 342609, "D": "it is unfortunate that", "S": ["sadly "], "A": ["appropriately ", "favorably ", "fortunately ", "happily ", "luckily "]}

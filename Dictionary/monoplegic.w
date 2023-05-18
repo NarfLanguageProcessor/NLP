@@ -1,0 +1,1 @@
+{"index": 192545, "D": "paralysis of one extremity, muscle, or muscle area.", "S": [], "A": []}

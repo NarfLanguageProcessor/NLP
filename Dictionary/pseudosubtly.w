@@ -1,0 +1,1 @@
+{"index": 255183, "D": "in a way that is so fine or delicate as to be difficult to perceive", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 14881, "D": "a particular personage or power, variously identified or explained, who is conceived of as appearing in the world as the principal antagonist of Christ.", "S": ["Beelzebub ", "Mephistopheles ", "demon ", "lucifer "], "A": ["Archfiend ", "Christ ", "Prince of Darkness ", "demon ", "lucifer ", "the Evil Spirit "]}

@@ -1,0 +1,1 @@
+{"index": 253107, "D": "a syllogism the conclusion of which is used as a premise of another syllogism; any of the syllogisms included in a polysyllogism except the last.", "S": [], "A": []}

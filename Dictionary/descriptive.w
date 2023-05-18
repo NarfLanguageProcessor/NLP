@@ -1,0 +1,1 @@
+{"index": 82450, "D": "having the quality of describing; characterized by description", "S": ["definitive ", "detailed ", "eloquent ", "expressive ", "identifying ", "illuminating ", "pictorial ", "revealing ", "vivid "], "A": ["dull "]}

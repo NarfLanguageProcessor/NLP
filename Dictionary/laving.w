@@ -1,0 +1,1 @@
+{"index": 169311, "D": "to wash; bathe.", "S": ["shower ", "tub "], "A": []}

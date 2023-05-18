@@ -1,0 +1,1 @@
+{"index": 65268, "D": "having a shell.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293121, "D": "a road or path formed of logs, planks, etc., for sliding objects.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 98554, "D": "high station, rank, or repute", "S": ["greatness ", "prestige ", "prominence ", "renown "], "A": ["unimportance ", "dishonor ", "disrespect ", "ill repute ", "impotence ", "incapacity ", "inferiority ", "insignificance ", "lowliness ", "subservience ", "triviality ", "weakness "]}

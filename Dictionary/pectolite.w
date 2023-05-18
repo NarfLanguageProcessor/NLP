@@ -1,0 +1,1 @@
+{"index": 228663, "D": "a mineral, hydrous calcium sodium silicate, usually occurring in radiating groups of crystals in rock cavities.", "S": [], "A": []}

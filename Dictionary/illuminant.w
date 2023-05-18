@@ -1,0 +1,1 @@
+{"index": 147466, "D": "an illuminating  agent or material.", "S": [], "A": []}

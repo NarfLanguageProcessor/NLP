@@ -1,0 +1,1 @@
+{"index": 23294, "D": "the study of hearing disorders, including evaluation of hearing function and rehabilitation of patients with hearing impairments.", "S": [], "A": []}

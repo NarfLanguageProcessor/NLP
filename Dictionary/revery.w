@@ -1,0 +1,1 @@
+{"index": 271239, "D": "a state of dreamy meditation or fanciful musing", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 351492, "D": "not sociable;  having, showing, or marked by a disinclination to friendly social relations; withdrawn.", "S": [], "A": []}

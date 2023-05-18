@@ -1,0 +1,1 @@
+{"index": 231683, "D": "a brand of green, aromatic anise- and licorice-flavored liqueur, originally from France.", "S": [], "A": []}

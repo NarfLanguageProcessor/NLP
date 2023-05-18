@@ -1,0 +1,1 @@
+{"index": 94624, "D": "a person of abnormally small physical stature resulting from a medical or genetic condition, especially a person with achondroplasia or some other disease that produces disproportion or deformation of features and limbs.", "S": ["mini ", "miniature "], "A": ["big ", "huge ", "large ", "tall "]}

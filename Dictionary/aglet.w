@@ -1,0 +1,1 @@
+{"index": 6248, "D": "a metal or plastic tag or sheath at the end of a lace used for tying, as of a shoelace.", "S": [], "A": []}

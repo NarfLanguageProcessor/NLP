@@ -1,0 +1,1 @@
+{"index": 278958, "D": "a combining form used in the names of extinct reptiles, especially archosaurs, usually Anglicized forms of Latin taxonomic names", "S": [], "A": []}

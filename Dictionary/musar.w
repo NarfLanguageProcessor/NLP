@@ -1,0 +1,1 @@
+{"index": 195819, "D": "rabbinic literature concerned with ethics, right conduct, etc", "S": [], "A": []}

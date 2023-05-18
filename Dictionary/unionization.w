@@ -1,0 +1,1 @@
+{"index": 344913, "D": "the act or process of bringing workers into a labor union, an organization for dealing collectively with employers", "S": ["unification "], "A": ["division ", "parting ", "separation "]}

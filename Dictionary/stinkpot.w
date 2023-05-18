@@ -1,0 +1,1 @@
+{"index": 304704, "D": "a jar containing combustibles or other materials that generate offensive and suffocating vapors, formerly used in warfare.", "S": ["odorous bomb ", "stink ball "], "A": []}

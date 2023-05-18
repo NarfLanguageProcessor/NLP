@@ -1,0 +1,1 @@
+{"index": 139334, "D": "of or relating to moisture.", "S": [], "A": []}

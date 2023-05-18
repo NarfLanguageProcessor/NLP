@@ -1,0 +1,1 @@
+{"index": 91383, "D": "to present as a gift, grant, or contribution; make a donation  of, as to a fund or cause", "S": ["award ", "bequeath ", "contribute ", "devote ", "give ", "give away ", "grant ", "hand out ", "present ", "provide "], "A": ["conceal ", "keep ", "refrain ", "take ", "withhold ", "disagree ", "refuse "]}

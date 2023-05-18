@@ -1,0 +1,1 @@
+{"index": 202164, "D": "made up of disparate or separate parts or elements; compound", "S": [], "A": []}

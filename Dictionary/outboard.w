@@ -1,0 +1,1 @@
+{"index": 216241, "D": "located on the exterior of a hull or aircraft.", "S": [], "A": []}

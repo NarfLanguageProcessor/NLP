@@ -1,0 +1,1 @@
+{"index": 35687, "D": "Serge (s\u025br\u0292). born 1958, French Rugby Union footballer; won 93 caps (1980\u201391) and scored 38 tries in internationals (a French record)", "S": [], "A": []}

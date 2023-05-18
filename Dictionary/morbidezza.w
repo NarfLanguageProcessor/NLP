@@ -1,0 +1,1 @@
+{"index": 193322, "D": "the effect of extreme softness and delicacy in pictorial and sculptural representations.", "S": [], "A": []}

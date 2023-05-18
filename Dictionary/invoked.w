@@ -1,0 +1,1 @@
+{"index": 157307, "D": "(of a deity, saint, Muse, etc.) petitioned, prayed to, or called upon for help or aid", "S": ["imposed ", "prescribed ", "required ", "sanctioned "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257547, "D": "of the second degree (said especially of functions with more than two variables).", "S": [], "A": []}

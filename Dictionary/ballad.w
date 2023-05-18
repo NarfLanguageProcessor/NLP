@@ -1,0 +1,1 @@
+{"index": 26892, "D": "any light, simple song, especially one of sentimental or romantic character, having two or more stanzas all sung to the same melody.", "S": ["chant ", "ditty "], "A": []}

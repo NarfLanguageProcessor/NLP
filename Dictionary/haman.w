@@ -1,0 +1,1 @@
+{"index": 132916, "D": "a powerful prince at the court of Ahasuerus, who was hanged upon exposure of his plan to destroy the Jews of Persia. Esther 3\u20136.", "S": [], "A": []}

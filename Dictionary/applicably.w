@@ -1,0 +1,1 @@
+{"index": 17807, "D": "applying or capable of being applied; usable", "S": [], "A": []}

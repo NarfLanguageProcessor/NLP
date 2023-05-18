@@ -1,0 +1,1 @@
+{"index": 177231, "D": "a light cotton fabric of various weaves, especially one in multicolored plaid or stripes, used for shirts, dresses, jackets, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110077, "D": "fetal alcohol syndrome. ", "S": [], "A": []}

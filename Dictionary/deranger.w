@@ -1,0 +1,1 @@
+{"index": 82002, "D": "to throw into disorder; disarrange.", "S": [], "A": []}

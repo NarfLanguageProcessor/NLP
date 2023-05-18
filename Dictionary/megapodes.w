@@ -1,0 +1,1 @@
+{"index": 182488, "D": "any of several large-footed, short-winged gallinaceous  Australasian birds of the family Megapodiidae, typically building a compostlike mound of decaying vegetation as an incubator for their eggs.", "S": [], "A": []}

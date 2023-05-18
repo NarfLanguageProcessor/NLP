@@ -1,0 +1,1 @@
+{"index": 121640, "D": "the activity or practice of playing at a game of chance for money or other stakes.", "S": ["action "], "A": []}

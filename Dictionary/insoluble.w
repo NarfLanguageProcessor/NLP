@@ -1,0 +1,1 @@
+{"index": 153713, "D": "incapable of being dissolved", "S": ["baffling ", "difficult ", "impenetrable ", "indecipherable ", "inexplicable ", "inextricable ", "irresolvable ", "mystifying ", "obscure ", "unaccountable ", "unconcluded ", "unfathomable ", "unresolved ", "unsolvable ", "unsolved "], "A": ["explainable ", "explicable ", "obvious ", "open ", "solvable "]}

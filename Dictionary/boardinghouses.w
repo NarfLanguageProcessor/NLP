@@ -1,0 +1,1 @@
+{"index": 36941, "D": "a house at which board or board and lodging may be obtained for payment.", "S": ["apartment ", "board ", "crib ", "digs ", "hotel ", "house ", "housing ", "lodging ", "motel ", "pad ", "quarters ", "roof ", "rooms ", "shelter "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41386, "D": "a substance that acts to dilate constricted bronchial tubes to aid breathing, used especially for relief of asthma.", "S": [], "A": []}

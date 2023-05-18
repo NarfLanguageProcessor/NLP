@@ -1,0 +1,1 @@
+{"index": 250742, "D": "the state or quality of being earlier in time, occurrence, etc.", "S": ["arrangement ", "preference "], "A": ["inferiority ", "last ", "subservience "]}

@@ -1,0 +1,1 @@
+{"index": 202421, "D": "in a way that expresses contempt or disdain; scornfully", "S": [], "A": []}

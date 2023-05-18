@@ -1,0 +1,1 @@
+{"index": 160999, "D": "a short strap fastened around the leg of a hawk and attached to the leash.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 56471, "D": "an instrument for transmitting time signals electronically.", "S": [], "A": []}

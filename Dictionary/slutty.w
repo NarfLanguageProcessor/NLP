@@ -1,0 +1,1 @@
+{"index": 294651, "D": "of, resembling, or characteristic of a slut", "S": [], "A": []}

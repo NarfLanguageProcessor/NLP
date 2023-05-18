@@ -1,0 +1,1 @@
+{"index": 232048, "D": "to prevail on (a person) to do something, as by advising or urging", "S": ["acceptive ", "amenable ", "ductile ", "flexible ", "malleable ", "obliging ", "pliant ", "tractable "], "A": []}

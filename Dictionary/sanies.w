@@ -1,0 +1,1 @@
+{"index": 277947, "D": "a thin, often greenish, serous fluid that is discharged from ulcers, wounds, etc.", "S": [], "A": []}

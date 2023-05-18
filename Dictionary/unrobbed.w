@@ -1,0 +1,1 @@
+{"index": 350026, "D": "to take something from (someone) by unlawful force or threat of violence; steal from.", "S": [], "A": []}

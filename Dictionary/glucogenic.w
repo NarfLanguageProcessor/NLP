@@ -1,0 +1,1 @@
+{"index": 126839, "D": "the production of glucose by the decomposition of glycogen or from any nonglucose precursor.", "S": [], "A": []}

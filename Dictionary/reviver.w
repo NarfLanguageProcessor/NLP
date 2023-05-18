@@ -1,0 +1,1 @@
+{"index": 271434, "D": "to activate, set in motion, or take up again; renew", "S": ["pick-me-up ", "refresher ", "restorative "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111830, "D": "the feudal system,  or its principles and practices.", "S": ["bondage ", "servitude "], "A": ["entertainment ", "freedom ", "fun ", "pastime "]}

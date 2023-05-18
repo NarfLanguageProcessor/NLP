@@ -1,0 +1,1 @@
+{"index": 222713, "D": "opposition to war or violence of any kind.", "S": ["pacification "], "A": []}

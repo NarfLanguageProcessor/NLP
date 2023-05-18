@@ -1,0 +1,1 @@
+{"index": 196916, "D": "narcotics officer. ", "S": ["deceiver ", "double-crosser ", "fink ", "nark ", "rat ", "snitch ", "spy ", "traitor ", "turncoat ", "weasel "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83885, "D": "a large, harmless, colubrid snake, Ptyas mucosus, of southern Asia, the skin of which is used in making shoes, purses, and other items.", "S": [], "A": []}

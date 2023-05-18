@@ -1,0 +1,1 @@
+{"index": 281103, "D": "an abnormal lateral curvature of the spine.", "S": [], "A": []}

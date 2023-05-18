@@ -1,0 +1,1 @@
+{"index": 349783, "D": [], "S": ["elbow room "], "A": ["extreme "]}

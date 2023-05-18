@@ -1,0 +1,1 @@
+{"index": 169531, "D": "like lead; leaden.", "S": [], "A": []}

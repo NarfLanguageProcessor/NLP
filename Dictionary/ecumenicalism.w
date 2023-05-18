@@ -1,0 +1,1 @@
+{"index": 95619, "D": "the doctrines and practices of the ecumenical movement. ", "S": [], "A": []}

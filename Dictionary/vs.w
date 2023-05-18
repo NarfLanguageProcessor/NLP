@@ -1,0 +1,1 @@
+{"index": 361505, "D": "verse.", "S": ["contra ", "contrary to ", "counter to ", "in contrast to ", "in opposition to ", "opposed to ", "versus "], "A": []}

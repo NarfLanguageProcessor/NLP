@@ -1,0 +1,1 @@
+{"index": 214904, "D": "an apparatus for representing the positions, motions, and phases of the planets, satellites, etc., in the solar system.", "S": [], "A": []}

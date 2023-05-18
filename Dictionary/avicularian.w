@@ -1,0 +1,1 @@
+{"index": 24769, "D": "a protective zooid of a bryozoan colony, having movable jaws that can be snapped shut.", "S": [], "A": []}

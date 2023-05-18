@@ -1,0 +1,1 @@
+{"index": 146173, "D": "repulsive or distasteful.", "S": ["disgusting ", "horrible ", "nasty ", "sickening "], "A": ["pleasant ", "pleasing "]}

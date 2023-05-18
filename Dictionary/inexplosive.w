@@ -1,0 +1,1 @@
+{"index": 151725, "D": "not explosive;  incapable of exploding or being exploded.", "S": [], "A": []}

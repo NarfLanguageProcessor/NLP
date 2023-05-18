@@ -1,0 +1,1 @@
+{"index": 321454, "D": "pertaining to motion produced by heat.", "S": [], "A": []}

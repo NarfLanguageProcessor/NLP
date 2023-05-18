@@ -1,0 +1,1 @@
+{"index": 251082, "D": "any question or matter involving doubt, uncertainty, or difficulty.", "S": ["complication ", "dilemma ", "dispute ", "headache ", "issue ", "obstacle ", "question ", "trouble "], "A": ["advantage ", "agreement ", "assistance ", "blessing ", "help ", "peace ", "benefit ", "certainty ", "opening ", "solution "]}

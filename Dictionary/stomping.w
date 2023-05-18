@@ -1,0 +1,1 @@
+{"index": 305178, "D": "stamp (defs. 1-3). ", "S": ["advance ", "debouch ", "drill ", "journey ", "mount ", "move ", "pace ", "parade ", "patrol ", "pound ", "proceed ", "progress ", "range ", "stalk ", "step ", "stomp ", "stride ", "strut ", "traipse ", "tramp ", "tread "], "A": ["halt ", "retreat ", "retrogress ", "stay ", "stop ", "wait "]}

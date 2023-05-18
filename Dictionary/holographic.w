@@ -1,0 +1,1 @@
+{"index": 142598, "D": "of, relating to, or produced using holograms; three-dimensional", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155099, "D": "the act of interjecting.", "S": ["ahem ", "alas ", "amen ", "boo ", "er ", "exclamation ", "hello ", "hooray ", "hurrah ", "oh ", "shucks ", "whoopee ", "wow "], "A": []}

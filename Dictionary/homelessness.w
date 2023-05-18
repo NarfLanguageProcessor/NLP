@@ -1,0 +1,1 @@
+{"index": 142790, "D": "lack of permanent housing, especially this condition generally as a matter of public concern", "S": ["vagabondage "], "A": []}

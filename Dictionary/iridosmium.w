@@ -1,0 +1,1 @@
+{"index": 158002, "D": "a native alloy of iridium and osmium,  usually containing some rhodium, ruthenium, platinum, etc., used especially for the points of gold pens.", "S": [], "A": []}

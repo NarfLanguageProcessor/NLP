@@ -1,0 +1,1 @@
+{"index": 222715, "D": "of or relating to pacifism  or pacifists.", "S": ["amiable ", "amicable ", "calm ", "complacent ", "conciliatory ", "gentle ", "irenic ", "mild ", "neighborly ", "nonviolent ", "pacific ", "pacifical ", "pacificatory ", "pacifist ", "peace-loving ", "peaceful ", "placid ", "quiet ", "restful ", "still ", "tranquil "], "A": []}

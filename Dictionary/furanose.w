@@ -1,0 +1,1 @@
+{"index": 120336, "D": "Any of a class of simple sugars (monosaccharides) that has a ring containing four carbon atoms and one oxygen atom (a furan ring). Fructose and ribose are furanoses.", "S": [], "A": []}

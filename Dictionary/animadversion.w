@@ -1,0 +1,1 @@
+{"index": 13144, "D": "an unfavorable or censorious comment", "S": ["accusation ", "censure ", "criticism ", "faultfinding ", "flak ", "knock ", "observation ", "perception ", "slur "], "A": ["approval ", "compliment ", "praise "]}

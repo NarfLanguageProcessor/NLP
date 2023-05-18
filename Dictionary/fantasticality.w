@@ -1,0 +1,1 @@
+{"index": 109797, "D": "extraordinarily good; excellent", "S": ["newness ", "weirdness "], "A": ["normality ", "standard ", "usualness "]}

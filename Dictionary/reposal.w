@@ -1,0 +1,1 @@
+{"index": 268390, "D": "the act of reposing. ", "S": [], "A": []}

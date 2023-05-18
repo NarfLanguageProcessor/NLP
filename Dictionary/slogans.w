@@ -1,0 +1,1 @@
+{"index": 294306, "D": "a distinctive cry, phrase, or motto of any party, group, manufacturer, or person; catchword or catch phrase.", "S": ["expression ", "jingle ", "phrase ", "rallying cry ", "saying ", "trademark "], "A": []}

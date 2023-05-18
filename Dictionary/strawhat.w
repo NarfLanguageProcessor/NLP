@@ -1,0 +1,1 @@
+{"index": 305937, "D": "of or relating to a summer theater situated outside an urban or metropolitan area", "S": ["repertory theater ", "stock ", "stock company ", "straw hat circuit ", "summer stock ", "summer theater ", "touring company "], "A": []}

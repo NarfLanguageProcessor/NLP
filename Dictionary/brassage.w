@@ -1,0 +1,1 @@
+{"index": 40004, "D": "a charge to cover the costs of coining money.", "S": [], "A": []}

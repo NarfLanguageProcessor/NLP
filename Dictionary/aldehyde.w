@@ -1,0 +1,1 @@
+{"index": 7737, "D": "any of a class of organic compounds containing the group \u2212CHO, which yields acids when oxidized and alcohols when reduced.", "S": [], "A": []}

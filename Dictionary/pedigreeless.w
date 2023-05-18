@@ -1,0 +1,1 @@
+{"index": 228917, "D": "an ancestral line; line of descent; lineage; ancestry.", "S": [], "A": []}

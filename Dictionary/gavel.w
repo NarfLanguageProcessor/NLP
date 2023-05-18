@@ -1,0 +1,1 @@
+{"index": 122901, "D": "a small mallet used by the presiding officer of a meeting, a judge, etc., usually to signal for attention or order.", "S": ["hammer ", "maul "], "A": []}

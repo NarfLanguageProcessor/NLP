@@ -1,0 +1,1 @@
+{"index": 31653, "D": "Antony (Neil) Wedgwood, known as Tony Benn . born 1925, British Labour politician, a leading figure on the party's left wing. He renounced (1963) the title of Viscount Stansgate", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207115, "D": "of or relating to a sale  or sales", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34920, "D": "the proportion of births  to the total population in a place in a given time, usually expressed as a quantity per 1000 of population.", "S": [], "A": []}

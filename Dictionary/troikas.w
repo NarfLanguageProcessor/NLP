@@ -1,0 +1,1 @@
+{"index": 331008, "D": "a Russian carriage, wagon, or sleigh drawn by a team of three horses abreast.", "S": ["triumvirate "], "A": []}

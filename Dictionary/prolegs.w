@@ -1,0 +1,1 @@
+{"index": 252075, "D": "one of the abdominal ambulatory processes of caterpillars and other larvae, as distinct from the true or thoracic legs. ", "S": [], "A": []}

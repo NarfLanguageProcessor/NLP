@@ -1,0 +1,1 @@
+{"index": 337059, "D": "to open or become opened from a clenched state.", "S": [], "A": []}

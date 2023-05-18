@@ -1,0 +1,1 @@
+{"index": 106830, "D": "something that is excrescent; excrescence.", "S": [], "A": []}

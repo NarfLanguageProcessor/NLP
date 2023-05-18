@@ -1,0 +1,1 @@
+{"index": 25720, "D": "a secondary or supplementary beat,  as by a jazz drummer.", "S": [], "A": []}

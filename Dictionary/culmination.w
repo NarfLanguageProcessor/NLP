@@ -1,0 +1,1 @@
+{"index": 74767, "D": "the act or fact of culminating. ", "S": ["apex ", "climax ", "completion ", "pinnacle "], "A": ["anticlimax ", "nadir ", "base ", "beginning ", "bottom ", "introduction ", "start "]}

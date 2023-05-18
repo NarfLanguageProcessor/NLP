@@ -1,0 +1,1 @@
+{"index": 363482, "D": "wooded or uncultivated country.", "S": ["jungle ", "park ", "thicket ", "timber ", "wood ", "woodland "], "A": []}

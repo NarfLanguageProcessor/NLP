@@ -1,0 +1,1 @@
+{"index": 185993, "D": "integrated circuit. ", "S": ["chip ", "circuitry ", "microchip ", "microprocessor ", "silicon chip "], "A": []}

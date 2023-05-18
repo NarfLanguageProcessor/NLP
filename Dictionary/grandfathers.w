@@ -1,0 +1,1 @@
+{"index": 128834, "D": "the father  of one's father  or mother.", "S": ["ancestor ", "grandpa ", "patriarch "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 105730, "D": "of or relating to Eurasia. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359441, "D": "the act of making someone into a victim by harming or killing them", "S": ["deception "], "A": ["forthrightness ", "frankness ", "honesty "]}

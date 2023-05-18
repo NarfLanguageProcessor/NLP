@@ -1,0 +1,1 @@
+{"index": 104362, "D": "understood by or meant for only the select few who have special knowledge or interest; recondite", "S": ["abstruse ", "arcane ", "mystical "], "A": ["common ", "familiar ", "known ", "obvious ", "public "]}

@@ -1,0 +1,1 @@
+{"index": 60307, "D": "of, relating to, or resembling a clod  or boor; doltish; stolid.", "S": ["ignorance ", "ineptitude "], "A": ["politeness ", "sophistication "]}

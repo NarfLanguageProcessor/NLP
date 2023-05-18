@@ -1,0 +1,1 @@
+{"index": 242418, "D": "having or involving more than one synapse.", "S": [], "A": []}

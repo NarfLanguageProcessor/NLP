@@ -1,0 +1,1 @@
+{"index": 321687, "D": "a making or becoming thick.", "S": ["agglomeration ", "concentration ", "concretion ", "condensation ", "congelation ", "consolidation ", "curdling ", "embolism ", "inspissation "], "A": ["dispersal ", "separation "]}

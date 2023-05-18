@@ -1,0 +1,1 @@
+{"index": 194718, "D": "any of a series of arm and hand positions expressing an attitude or action of the deity.", "S": [], "A": []}

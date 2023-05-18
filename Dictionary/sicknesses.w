@@ -1,0 +1,1 @@
+{"index": 289659, "D": "a particular disease or malady.", "S": ["ailment ", "disease ", "disorder ", "ill health ", "illness ", "infirmity ", "malady ", "nausea ", "syndrome "], "A": ["good health ", "health ", "happiness "]}

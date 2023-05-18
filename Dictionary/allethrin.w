@@ -1,0 +1,1 @@
+{"index": 8677, "D": "a clear, amber, viscous liquid, C19H26O3, used as an insecticide.", "S": [], "A": []}

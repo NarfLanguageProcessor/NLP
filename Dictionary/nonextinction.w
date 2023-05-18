@@ -1,0 +1,1 @@
+{"index": 203877, "D": "the act of extinguishing. ", "S": [], "A": []}

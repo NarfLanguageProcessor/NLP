@@ -1,0 +1,1 @@
+{"index": 363613, "D": "(of a ship or boat) making very little leeway when close-hauled.", "S": [], "A": []}

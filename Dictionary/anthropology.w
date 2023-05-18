@@ -1,0 +1,1 @@
+{"index": 14581, "D": "the science that deals with the origins, physical and cultural development, biological characteristics, and social customs and beliefs of humankind.", "S": ["folklore ", "sociology "], "A": []}

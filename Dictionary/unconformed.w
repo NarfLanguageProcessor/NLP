@@ -1,0 +1,1 @@
+{"index": 337599, "D": "to act in accordance or harmony; comply (usually followed by to)", "S": [], "A": []}

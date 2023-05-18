@@ -1,0 +1,1 @@
+{"index": 82597, "D": "scheming; intriguing; artful; crafty.", "S": [], "A": []}

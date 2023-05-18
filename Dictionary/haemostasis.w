@@ -1,0 +1,1 @@
+{"index": 132115, "D": "the stopping of bleeding or arrest of blood circulation in an organ or part, as during a surgical operation", "S": [], "A": []}

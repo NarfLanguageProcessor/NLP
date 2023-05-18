@@ -1,0 +1,1 @@
+{"index": 347177, "D": "fighting or acting against something or someone", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234907, "D": "exhibiting phosphorescence. ", "S": ["blazing ", "brilliant ", "dazzling ", "flashing ", "glistening ", "glittering ", "golden ", "intense ", "luminous ", "radiant ", "shimmering ", "shiny ", "silvery ", "sparkling ", "sunny ", "vivid "], "A": ["cloudy ", "dark ", "dim ", "dull ", "gloomy "]}

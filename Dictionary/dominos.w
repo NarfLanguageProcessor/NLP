@@ -1,0 +1,1 @@
+{"index": 91351, "D": "a flat, thumbsized, rectangular block, the face of which is divided into two parts, each either blank or bearing from one to six pips or dots", "S": ["camouflage ", "cloak ", "veil "], "A": ["reality ", "truth "]}

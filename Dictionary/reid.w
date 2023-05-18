@@ -1,0 +1,1 @@
+{"index": 266071, "D": "Australian statesman, born in Scotland", "S": [], "A": []}

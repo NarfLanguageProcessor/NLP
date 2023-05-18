@@ -1,0 +1,1 @@
+{"index": 345746, "D": "to undo the lock of (a door, chest, etc.), especially with a key.", "S": [], "A": []}

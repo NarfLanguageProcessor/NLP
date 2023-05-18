@@ -1,0 +1,1 @@
+{"index": 62371, "D": "a person or thing that coheres. ", "S": [], "A": []}

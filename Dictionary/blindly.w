@@ -1,0 +1,1 @@
+{"index": 36234, "D": "in a blind manner", "S": ["aimlessly ", "frantically ", "indiscriminately ", "instinctively ", "madly ", "wildly "], "A": ["carefully ", "cautiously ", "considerately ", "purposely ", "reasonably ", "sensibly "]}

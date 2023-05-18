@@ -1,0 +1,1 @@
+{"index": 54596, "D": "the standard language of China,  based on the speech of Beijing; Mandarin.", "S": [], "A": []}

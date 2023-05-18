@@ -1,0 +1,1 @@
+{"index": 309502, "D": "subtle. ", "S": ["extraordinary ", "limited ", "occasional ", "scarce ", "singular ", "strange ", "subtle ", "uncommon ", "unique ", "unlikely ", "unthinkable ", "unusual "], "A": ["common ", "commonplace ", "familiar ", "frequent ", "normal ", "ordinary ", "regular ", "standard ", "sufficient ", "usual "]}

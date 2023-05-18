@@ -1,0 +1,1 @@
+{"index": 167435, "D": "stopover. ", "S": ["hiatus ", "respite ", "stopover "], "A": ["continuation "]}

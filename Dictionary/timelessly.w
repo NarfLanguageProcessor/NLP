@@ -1,0 +1,1 @@
+{"index": 323758, "D": "without beginning or end; eternal; everlasting.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260100, "D": "characterized by rain", "S": [], "A": []}

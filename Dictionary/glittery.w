@@ -1,0 +1,1 @@
+{"index": 126437, "D": "glittering;  sparkling.", "S": ["garish ", "gaudy ", "glittering ", "jazzy ", "ostentatious ", "showy ", "snazzy ", "tacky "], "A": ["drab ", "modest ", "plain ", "simple ", "tasteful "]}

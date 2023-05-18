@@ -1,0 +1,1 @@
+{"index": 194259, "D": "to feel or express sorrow or grief.", "S": ["ache ", "agonize ", "bemoan ", "complain ", "cry ", "deplore ", "fret ", "grieve ", "lament ", "moan ", "regret ", "sob ", "wail ", "weep ", "yearn "], "A": ["approve ", "be content ", "be happy ", "delight ", "please ", "praise ", "aid ", "assist ", "dislike ", "hate ", "help ", "relieve "]}

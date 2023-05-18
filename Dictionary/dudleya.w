@@ -1,0 +1,1 @@
+{"index": 93830, "D": "any of several smooth succulents belonging to the genus Dudleya, of the stonecrop family, native to the western U.S. and Mexico, sometimes grown as an ornamental.", "S": [], "A": []}

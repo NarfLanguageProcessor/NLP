@@ -1,0 +1,1 @@
+{"index": 19707, "D": "a structure in certain seeds that resembles an aril but is developed from the micropyle of the ovule", "S": [], "A": []}

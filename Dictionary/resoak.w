@@ -1,0 +1,1 @@
+{"index": 269563, "D": "to lie in and become saturated or permeated with water or some other liquid.", "S": [], "A": []}

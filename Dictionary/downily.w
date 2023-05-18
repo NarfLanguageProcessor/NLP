@@ -1,0 +1,1 @@
+{"index": 92258, "D": "of the nature of or resembling down;  fluffy; soft.", "S": [], "A": []}

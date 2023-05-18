@@ -1,0 +1,1 @@
+{"index": 194782, "D": "a person who mugs,  especially one who assaults a person in order to rob them.", "S": [], "A": []}

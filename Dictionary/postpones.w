@@ -1,0 +1,1 @@
+{"index": 244410, "D": "to put off to a later time; defer", "S": ["adjourn ", "defer ", "delay ", "hold up ", "shelve ", "suspend "], "A": ["advance ", "continue ", "expedite ", "forward ", "further ", "hasten ", "hurry "]}

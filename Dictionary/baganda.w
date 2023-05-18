@@ -1,0 +1,1 @@
+{"index": 26270, "D": "See also Ganda (def. 1), Luganda", "S": [], "A": []}

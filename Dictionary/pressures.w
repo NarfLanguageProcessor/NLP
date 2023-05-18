@@ -1,0 +1,1 @@
+{"index": 249608, "D": "the exertion of force upon a surface by an object, fluid, etc., in contact with it", "S": ["burden ", "squeeze ", "strain ", "strength ", "stress ", "tension "], "A": ["relaxation "]}

@@ -1,0 +1,1 @@
+{"index": 28109, "D": "a member of a noble Persian family of Baghdad who, according to a tale in The Arabian Nights' Entertainments, gave a beggar a pretended feast with empty dishes.", "S": [], "A": []}

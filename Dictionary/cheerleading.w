@@ -1,0 +1,1 @@
+{"index": 53465, "D": "the action or skill of a cheerleader. ", "S": [], "A": []}

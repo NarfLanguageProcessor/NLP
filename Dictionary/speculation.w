@@ -1,0 +1,1 @@
+{"index": 298966, "D": "the contemplation or consideration of some subject", "S": ["belief ", "conjecture ", "opinion ", "thought "], "A": ["reality ", "truth ", "disdain ", "disregard ", "ignorance ", "knowledge ", "measurement ", "neglect ", "proof "]}

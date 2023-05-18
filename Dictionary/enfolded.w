@@ -1,0 +1,1 @@
+{"index": 100237, "D": "to wrap up; envelop", "S": ["intent ", "lost ", "musing ", "set "], "A": ["aboveboard ", "flighty ", "frivolous "]}

@@ -1,0 +1,1 @@
+{"index": 78101, "D": "a word or line of verse of ten syllables. ", "S": [], "A": []}

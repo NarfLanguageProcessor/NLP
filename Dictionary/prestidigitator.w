@@ -1,0 +1,1 @@
+{"index": 249650, "D": "sleight of hand; legerdemain. ", "S": [], "A": []}

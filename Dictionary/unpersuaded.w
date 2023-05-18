@@ -1,0 +1,1 @@
+{"index": 347799, "D": "not having been induced, urged, or prevailed upon successfully", "S": [], "A": []}

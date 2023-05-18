@@ -1,0 +1,1 @@
+{"index": 17947, "D": "pressed closely against or fitting closely to something.", "S": ["solid ", "tight "], "A": ["empty ", "loose ", "uncrowded ", "unfriendly "]}

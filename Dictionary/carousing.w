@@ -1,0 +1,1 @@
+{"index": 48348, "D": "the act or habit of engaging in drunken revelry", "S": ["celebration ", "dinner "], "A": ["chore ", "task ", "work "]}

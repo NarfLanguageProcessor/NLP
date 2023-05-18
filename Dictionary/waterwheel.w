@@ -1,0 +1,1 @@
+{"index": 363252, "D": "a wheel  or turbine turned by the weight or momentum of water  and used to operate machinery.", "S": [], "A": []}

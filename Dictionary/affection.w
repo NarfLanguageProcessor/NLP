@@ -1,0 +1,1 @@
+{"index": 5312, "D": "fond attachment, devotion, or love", "S": ["care ", "closeness ", "desire ", "devotion ", "emotion ", "feeling ", "friendship ", "good will ", "kindness ", "love ", "passion ", "sentiment ", "tenderness ", "warmth "], "A": ["carelessness ", "dislike ", "hate ", "hatred ", "indifference ", "neglect ", "negligence ", "antipathy ", "coldness ", "disinterest "]}

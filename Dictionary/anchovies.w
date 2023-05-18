@@ -1,0 +1,1 @@
+{"index": 12210, "D": "any small, marine, herringlike fish of the family Engraulidae, especially Engraulis encrasicholus, found in the Mediterranean Sea, often preserved in oil and used in salads, spreads, etc., or packaged in paste form.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 346087, "D": "the substance or substances of which a thing is made or composed", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305489, "D": "a minor coin of Bulgaria, one 100th of a lev.", "S": [], "A": []}

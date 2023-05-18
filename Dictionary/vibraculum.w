@@ -1,0 +1,1 @@
+{"index": 359279, "D": "any of the modified polyps on the surface of certain bryozoan colonies, having a long, whiplike appendage that clears away debris.", "S": [], "A": []}

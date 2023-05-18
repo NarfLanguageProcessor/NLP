@@ -1,0 +1,1 @@
+{"index": 244180, "D": "of or relating to the period after hypnosis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310991, "D": "a form of wrestling in Japan in which a contestant wins by forcing his opponent out of the ring or by causing him to touch the ground with any part of his body other than the soles of his feet, contestants usually being men of great height and weight.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361011, "D": "the practice of obtaining sexual gratification by looking at sexual objects or acts, especially secretively.", "S": ["surveillance "], "A": []}

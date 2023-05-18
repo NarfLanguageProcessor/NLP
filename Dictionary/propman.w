@@ -1,0 +1,1 @@
+{"index": 252731, "D": "a person responsible for securing, handling, and storing the properties used in a theatrical, motion-picture, or television production.", "S": [], "A": []}

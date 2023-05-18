@@ -1,0 +1,1 @@
+{"index": 280121, "D": "(a musical direction) playful; sportive.", "S": [], "A": []}

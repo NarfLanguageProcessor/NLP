@@ -1,0 +1,1 @@
+{"index": 126012, "D": "becoming glaucous; somewhat glaucous.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 318807, "D": "a threadlike, leafless organ of climbing plants, often growing in spiral form, which attaches itself to or twines round some other body, so as to support the plant.", "S": [], "A": []}

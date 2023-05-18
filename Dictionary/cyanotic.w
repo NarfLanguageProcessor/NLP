@@ -1,0 +1,1 @@
+{"index": 56900, "D": "(of the skin) blue or livid due to inadequately oxygenated blood", "S": [], "A": []}

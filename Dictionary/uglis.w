@@ -1,0 +1,1 @@
+{"index": 333663, "D": "a large, sweet variety of tangelo, of Jamaican origin, having rough, wrinkled, yellowish skin.", "S": [], "A": []}

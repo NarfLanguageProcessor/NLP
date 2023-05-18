@@ -1,0 +1,1 @@
+{"index": 249880, "D": "to cause or attempt to cause (what is not so) to seem so", "S": ["assume ", "bluff ", "feign ", "fool ", "impersonate ", "profess ", "purport ", "put on "], "A": ["deny ", "reveal ", "tell the truth "]}

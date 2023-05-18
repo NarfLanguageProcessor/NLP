@@ -1,0 +1,1 @@
+{"index": 259886, "D": "a more or less rigid floating platform made of buoyant material or materials", "S": ["barge ", "boat ", "life raft ", "lifeboat "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 60744, "D": "to seize with or as with the hands or claws; snatch", "S": ["clamp ", "clasp ", "clench ", "clinch ", "connection ", "coupling ", "grapple ", "grasp ", "grip ", "link "], "A": ["release "]}

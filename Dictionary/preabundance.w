@@ -1,0 +1,1 @@
+{"index": 245410, "D": "an extremely plentiful or oversufficient quantity or supply", "S": [], "A": []}

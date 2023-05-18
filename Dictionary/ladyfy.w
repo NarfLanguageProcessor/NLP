@@ -1,0 +1,1 @@
+{"index": 167188, "D": "to make a lady of (someone)", "S": [], "A": []}

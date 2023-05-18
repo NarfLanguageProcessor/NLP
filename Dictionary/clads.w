@@ -1,0 +1,1 @@
+{"index": 59039, "D": "a simple past tense and past participle of clothe. ", "S": ["deck out "], "A": ["bare ", "disrobe ", "unclothe "]}

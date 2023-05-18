@@ -1,0 +1,1 @@
+{"index": 63394, "D": "the construction of an artificial opening from the colon through the abdominal wall, thus bypassing a diseased portion of the lower intestine and permitting the passage of intestinal contents.", "S": [], "A": []}

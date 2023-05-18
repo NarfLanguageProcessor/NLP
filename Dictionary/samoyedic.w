@@ -1,0 +1,1 @@
+{"index": 277570, "D": "of or relating to the Samoyed  people or languages.", "S": [], "A": []}

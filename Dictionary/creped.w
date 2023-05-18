@@ -1,0 +1,1 @@
+{"index": 72685, "D": "a lightweight fabric of silk, cotton, or other fiber, with a finely crinkled or ridged surface.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52327, "D": "a mineral of the chlorite group, hydrous aluminum silicate of iron, occurring in gray or black crystals in oolitic iron ore.", "S": [], "A": []}

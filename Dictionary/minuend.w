@@ -1,0 +1,1 @@
+{"index": 188043, "D": "a number from which another is subtracted.", "S": [], "A": []}

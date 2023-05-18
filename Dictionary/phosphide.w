@@ -1,0 +1,1 @@
+{"index": 234859, "D": "a binary compound of phosphorus with a basic element or group.", "S": [], "A": []}

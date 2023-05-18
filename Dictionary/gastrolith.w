@@ -1,0 +1,1 @@
+{"index": 122602, "D": "a calculous concretion in the stomach.", "S": [], "A": []}

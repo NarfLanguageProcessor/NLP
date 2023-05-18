@@ -1,0 +1,1 @@
+{"index": 136083, "D": "any of several conditions in which there is blindness in half of the visual field, involving one or both eyes.", "S": [], "A": []}

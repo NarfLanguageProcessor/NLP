@@ -1,0 +1,1 @@
+{"index": 156105, "D": "pertaining to tuberculosis;  tuberculous.", "S": [], "A": []}

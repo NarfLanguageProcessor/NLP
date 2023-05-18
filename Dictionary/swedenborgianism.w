@@ -1,0 +1,1 @@
+{"index": 314235, "D": "the system of philosophical and religious doctrines of Emanuel Swedenborg, emphasizing the spiritual structure of the universe, the possibility of direct contact with spirits, and the divinity of Christ. This provided the basis for the New Jerusalem Church (or New Church) founded by Swedenborg's followers", "S": [], "A": []}

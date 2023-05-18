@@ -1,0 +1,1 @@
+{"index": 3531, "D": "compulsively committed or helplessly drawn to a practice or habit or to something psychologically or physically habit-forming (often used in combination)", "S": ["absorbed ", "accustomed ", "attached ", "devoted ", "hooked ", "inclined ", "obsessed "], "A": ["indifferent ", "unwilling "]}

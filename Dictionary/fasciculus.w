@@ -1,0 +1,1 @@
+{"index": 110101, "D": "a fascicle,  as of nerve or muscle fibers.", "S": [], "A": []}

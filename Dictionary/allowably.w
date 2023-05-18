@@ -1,0 +1,1 @@
+{"index": 9010, "D": "that may be allowed;  legitimate; permissible", "S": ["constitutionally ", "justly ", "lawfully ", "legitimately "], "A": ["illegally ", "illicitly ", "unlawfully "]}

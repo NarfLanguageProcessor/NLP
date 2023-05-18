@@ -1,0 +1,1 @@
+{"index": 152339, "D": "the fundamental facilities and systems serving a country, city, or area, as transportation and communication systems, power plants, and schools", "S": ["base ", "framework "], "A": []}

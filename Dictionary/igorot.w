@@ -1,0 +1,1 @@
+{"index": 147096, "D": "a member of a people of Malay descent in northern Luzon in the Philippines, comprising various tribes, noted for their metalwork and weaving.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 144069, "D": "a large, solid-hoofed, herbivorous quadruped, Equus caballus, domesticated since prehistoric times, bred in a number of varieties, and used for carrying or pulling loads, for riding, and for racing.", "S": ["appliance ", "diesel ", "generator ", "instrument ", "motor ", "power plant ", "tool ", "transformer ", "turbine ", "weapon "], "A": []}

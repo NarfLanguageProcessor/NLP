@@ -1,0 +1,1 @@
+{"index": 108429, "D": "outside a capsule or capsular  thing.", "S": [], "A": []}

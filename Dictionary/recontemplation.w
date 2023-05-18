@@ -1,0 +1,1 @@
+{"index": 263424, "D": "the act of contemplating;  thoughtful observation.", "S": [], "A": []}

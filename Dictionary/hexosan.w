@@ -1,0 +1,1 @@
+{"index": 138107, "D": "any of a group of hemicelluloses that hydrolyze to hexoses. ", "S": [], "A": []}

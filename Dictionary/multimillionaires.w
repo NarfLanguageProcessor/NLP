@@ -1,0 +1,1 @@
+{"index": 195196, "D": "a person who possesses a fortune that amounts to many millions of dollars, euros, etc.", "S": [], "A": []}

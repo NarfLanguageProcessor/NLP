@@ -1,0 +1,1 @@
+{"index": 99522, "D": "to advance beyond proper, established, or usual limits; make gradual inroads", "S": ["interloper "], "A": []}

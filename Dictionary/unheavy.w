@@ -1,0 +1,1 @@
+{"index": 343619, "D": "of great weight; hard to lift or carry", "S": ["agile ", "airy ", "buoyant ", "delicate ", "fluffy ", "lightweight ", "loose ", "slender ", "slight ", "small ", "thin "], "A": ["big ", "coarse ", "fat ", "heavy ", "large ", "strong ", "thick ", "clumsy "]}

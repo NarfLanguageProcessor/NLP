@@ -1,0 +1,1 @@
+{"index": 15681, "D": "the antiparticle of a neutrino,  distinguished from the neutrino  by having clockwise rather than counterclockwise spin when observing in the direction of motion.", "S": [], "A": []}

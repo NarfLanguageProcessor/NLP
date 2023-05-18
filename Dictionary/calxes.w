@@ -1,0 +1,1 @@
+{"index": 45532, "D": "the oxide or ashy substance that remains after metals, minerals, etc., have been thoroughly roasted or burned.", "S": [], "A": []}

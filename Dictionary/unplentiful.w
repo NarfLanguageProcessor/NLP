@@ -1,0 +1,1 @@
+{"index": 348048, "D": "existing in great plenty", "S": [], "A": []}

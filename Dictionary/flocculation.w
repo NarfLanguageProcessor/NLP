@@ -1,0 +1,1 @@
+{"index": 114840, "D": "The process by which individual particles of clay aggregate into clotlike masses or precipitate into small lumps. Flocculation occurs as a result of a chemical reaction between the clay particles and another substance, usually salt water.", "S": [], "A": []}

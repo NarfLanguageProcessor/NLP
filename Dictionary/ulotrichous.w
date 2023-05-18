@@ -1,0 +1,1 @@
+{"index": 333815, "D": "belonging to a group of people having woolly or crisply curly hair.", "S": [], "A": []}

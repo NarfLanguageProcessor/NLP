@@ -1,0 +1,1 @@
+{"index": 340122, "D": "the criminal element of human society.", "S": ["gangland ", "mob ", "organized crime ", "syndicate "], "A": []}

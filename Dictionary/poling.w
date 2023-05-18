@@ -1,0 +1,1 @@
+{"index": 242116, "D": "a long, cylindrical, often slender piece of wood, metal, etc.", "S": [], "A": []}

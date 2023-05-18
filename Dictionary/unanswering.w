@@ -1,0 +1,1 @@
+{"index": 335036, "D": "a spoken or written reply or response to a question, request, letter, etc.", "S": [], "A": []}

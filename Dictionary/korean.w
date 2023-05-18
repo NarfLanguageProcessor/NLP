@@ -1,0 +1,1 @@
+{"index": 166084, "D": "of or relating to Korea,  its inhabitants, or their language.", "S": [], "A": []}

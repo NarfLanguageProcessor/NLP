@@ -1,0 +1,1 @@
+{"index": 302170, "D": "a building for the lodging and feeding of horses, cattle, etc.", "S": [], "A": []}

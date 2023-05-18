@@ -1,0 +1,1 @@
+{"index": 19997, "D": "a plate or plating of specially hardened steel used to cover warships, tanks, aircraft, fortifications, etc., to protect them from enemy fire.", "S": [], "A": []}

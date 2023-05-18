@@ -1,0 +1,1 @@
+{"index": 244143, "D": "of, relating to, or having the character of a fetus. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 116321, "D": "an opening, orifice, or short passage, as in a bone or in the integument of the ovule of a plant.", "S": [], "A": []}

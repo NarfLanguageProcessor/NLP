@@ -1,0 +1,1 @@
+{"index": 18770, "D": "an ecclesiastic, ranking next below a bishop and having charge of the temporal and external administration of a diocese, with jurisdiction delegated from the bishop.", "S": ["bishop ", "pastor "], "A": []}

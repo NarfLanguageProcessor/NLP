@@ -1,0 +1,1 @@
+{"index": 340915, "D": "to drop or let fall in a mass; fling down or drop heavily or suddenly", "S": [], "A": []}

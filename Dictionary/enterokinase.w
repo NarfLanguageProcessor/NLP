@@ -1,0 +1,1 @@
+{"index": 101286, "D": "an enzyme in intestinal juice that converts trypsinogen to trypsin", "S": [], "A": []}

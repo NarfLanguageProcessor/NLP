@@ -1,0 +1,1 @@
+{"index": 169976, "D": "pertaining to, situated in, or moving toward the quarter toward which the wind blows (opposed to windward).", "S": [], "A": []}

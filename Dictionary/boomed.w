@@ -1,0 +1,1 @@
+{"index": 38156, "D": "to make a deep, prolonged, resonant sound.", "S": ["explode ", "resound ", "reverberate ", "roar ", "thunder "], "A": ["fix ", "mend ", "praise "]}

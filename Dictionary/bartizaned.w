@@ -1,0 +1,1 @@
+{"index": 28431, "D": "a small overhanging turret on a wall or tower.", "S": [], "A": []}

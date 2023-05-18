@@ -1,0 +1,1 @@
+{"index": 71526, "D": "a potentially severe, primarily respiratory illness caused by a coronavirus  and characterized by fever, coughing, and shortness of breath. In some people, the disease also damages major organs, as the heart or kidneys.", "S": [], "A": []}

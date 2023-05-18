@@ -1,0 +1,1 @@
+{"index": 239604, "D": "Official name", "S": ["assertion ", "case ", "claim ", "contention ", "debate ", "discussion ", "exchange ", "logic ", "plea ", "questioning ", "reason ", "reasoning "], "A": []}

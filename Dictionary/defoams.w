@@ -1,0 +1,1 @@
+{"index": 79422, "D": "a collection of minute bubbles formed on the surface of a liquid by agitation, fermentation, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25358, "D": "of or relating to azote;  nitric.", "S": [], "A": []}

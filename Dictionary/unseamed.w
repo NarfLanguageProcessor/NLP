@@ -1,0 +1,1 @@
+{"index": 350588, "D": "to open the seam  or seams  of; undo; rip apart", "S": [], "A": []}

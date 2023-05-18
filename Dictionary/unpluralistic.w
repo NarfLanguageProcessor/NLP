@@ -1,0 +1,1 @@
+{"index": 348086, "D": "of or relating to pluralism,  the theory that there is more than one basic substance or principle", "S": [], "A": []}

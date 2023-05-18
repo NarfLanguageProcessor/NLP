@@ -1,0 +1,1 @@
+{"index": 110297, "D": "prophetic. ", "S": ["augural ", "divinatory ", "fatidic ", "mantic ", "oracular ", "prophetical ", "sibyllic ", "sibylline ", "vatic ", "vatical ", "vaticinal "], "A": []}

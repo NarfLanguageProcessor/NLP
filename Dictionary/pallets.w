@@ -1,0 +1,1 @@
+{"index": 223967, "D": "a bed or mattress of straw.", "S": ["bunk ", "cot ", "couch ", "crib ", "mattress "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 338523, "D": "to remove the bark, husk, or outer covering from.", "S": [], "A": []}

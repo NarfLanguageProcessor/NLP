@@ -1,0 +1,1 @@
+{"index": 40688, "D": "U.S. fur trader and mountain man, noted for his tall tales.", "S": [], "A": []}

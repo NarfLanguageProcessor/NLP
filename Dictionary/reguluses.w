@@ -1,0 +1,1 @@
+{"index": 265902, "D": "a first magnitude star in the constellation Leo.", "S": [], "A": []}

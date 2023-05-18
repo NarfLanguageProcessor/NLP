@@ -1,0 +1,1 @@
+{"index": 134177, "D": "to bring forth (young) from the egg.", "S": ["concluded ", "devised ", "planned "], "A": []}

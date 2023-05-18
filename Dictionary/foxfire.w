@@ -1,0 +1,1 @@
+{"index": 118081, "D": "organic luminescence, especially from certain fungi on decaying wood.", "S": [], "A": []}

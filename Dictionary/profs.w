@@ -1,0 +1,1 @@
+{"index": 251813, "D": "professor. ", "S": ["department ", "institute ", "personnel ", "staff ", "university "], "A": ["inability ", "incompetence ", "ineptness ", "lack ", "need ", "students "]}

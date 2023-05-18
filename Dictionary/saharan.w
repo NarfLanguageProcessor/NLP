@@ -1,0 +1,1 @@
+{"index": 276721, "D": "a group of languages spoken in parts of Chad and adjacent countries, now generally regarded as forming a branch of the Nilo-Saharan family", "S": [], "A": []}

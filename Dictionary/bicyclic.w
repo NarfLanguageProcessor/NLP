@@ -1,0 +1,1 @@
+{"index": 33411, "D": "consisting of or having two cycles or circles.", "S": [], "A": []}

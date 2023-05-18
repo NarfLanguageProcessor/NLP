@@ -1,0 +1,1 @@
+{"index": 285210, "D": "a mineral, antimony trioxide, Sb2O3, occurring in pearl-colored isometric octahedrons", "S": [], "A": []}

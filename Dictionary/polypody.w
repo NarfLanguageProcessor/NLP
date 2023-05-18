@@ -1,0 +1,1 @@
+{"index": 242298, "D": "any fern of the genus Polypodium, as P. vulgare, having creeping rootstocks, deeply pinnatifid evergreen fronds, and round, naked sori.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 230905, "D": "the cork-producing tissue of stems together with the cork layers and other tissues derived from it.", "S": [], "A": []}

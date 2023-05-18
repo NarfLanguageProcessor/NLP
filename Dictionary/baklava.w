@@ -1,0 +1,1 @@
+{"index": 26622, "D": "a Near Eastern pastry made of many layers of paper-thin dough with a filling of ground nuts, baked and then drenched in a syrup of honey and sometimes rosewater.", "S": [], "A": []}

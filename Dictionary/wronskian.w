@@ -1,0 +1,1 @@
+{"index": 368120, "D": "the determinant of order n associated with a set of n functions, in which the first row consists of the functions, the second row consists of the first derivatives of the functions, the third row consists of their second derivatives, and so on.", "S": [], "A": []}

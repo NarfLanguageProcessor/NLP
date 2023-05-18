@@ -1,0 +1,1 @@
+{"index": 38121, "D": "a shelf  for holding books,  especially one of several shelves in a bookcase.", "S": [], "A": []}

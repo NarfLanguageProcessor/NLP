@@ -1,0 +1,1 @@
+{"index": 344357, "D": "reduced to poverty.", "S": [], "A": []}

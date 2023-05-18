@@ -1,0 +1,1 @@
+{"index": 350387, "D": "it was inherently unsatisfying work", "S": ["depressing ", "disconcerting ", "discouraging ", "disheartening ", "distasteful ", "frustrating ", "mediocre ", "unpleasant "], "A": ["agreeable ", "encouraging ", "pleasant ", "pleasing ", "strong "]}

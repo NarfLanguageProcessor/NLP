@@ -1,0 +1,1 @@
+{"index": 45419, "D": "the plural of calorie. ", "S": [], "A": []}

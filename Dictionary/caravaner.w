@@ -1,0 +1,1 @@
+{"index": 47390, "D": "a person who travels or lives in a caravan. ", "S": [], "A": []}

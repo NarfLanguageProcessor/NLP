@@ -1,0 +1,1 @@
+{"index": 178540, "D": "to beat or shape with a hammer, as in metalworking.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200684, "D": "any of several dark-bodied terns of the genera Anous and Micranous found about the coasts and islands in warm seas of both the New and Old Worlds, often so tame as to seem stupid.", "S": [], "A": []}

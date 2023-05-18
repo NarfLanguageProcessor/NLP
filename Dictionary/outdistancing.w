@@ -1,0 +1,1 @@
+{"index": 216473, "D": "to leave behind, as in running; outstrip", "S": ["outclass ", "outdo ", "outpace ", "outperform "], "A": ["fail ", "fall behind ", "lose ", "surrender "]}

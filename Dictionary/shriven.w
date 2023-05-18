@@ -1,0 +1,1 @@
+{"index": 289256, "D": "a past participle of shrive. ", "S": ["absolve ", "acquit ", "atone ", "forgive ", "free ", "pardon ", "purge ", "repent "], "A": ["blame ", "censure ", "charge ", "condemn ", "convict ", "damn ", "hold ", "punish ", "sentence "]}

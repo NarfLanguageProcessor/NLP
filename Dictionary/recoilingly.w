@@ -1,0 +1,1 @@
+{"index": 263085, "D": "to draw back; start or shrink back, as in alarm, horror, or disgust.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279043, "D": "an uncivilized or barbaric state or condition; barbarity.", "S": ["barbarism ", "barbarity ", "brutality ", "depravity ", "ferocity ", "inhumanity ", "malice ", "persecution ", "ruthlessness ", "severity ", "viciousness "], "A": ["kindness ", "love "]}

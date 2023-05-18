@@ -1,0 +1,1 @@
+{"index": 31793, "D": "ethyl aminobenzoate; a white, crystalline powder, C9H11NO2, used as a local anesthetic, usually in ointment form.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171941, "D": "the time that the life of someone or something continues; the term of a life", "S": ["career ", "life ", "period "], "A": ["end "]}

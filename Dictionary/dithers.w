@@ -1,0 +1,1 @@
+{"index": 90104, "D": "a trembling; vibration.", "S": ["collywobbles ", "heart skipping a beat ", "heebie-jeebies "], "A": []}

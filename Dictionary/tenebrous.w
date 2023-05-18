@@ -1,0 +1,1 @@
+{"index": 318830, "D": "dark; gloomy; obscure.", "S": ["ambiguous ", "amphibological ", "caliginous ", "dim ", "dingy ", "dusk ", "dusky ", "equivocal ", "gloomy ", "lightless ", "murky ", "obscure ", "shadowy ", "shady ", "somber ", "sunless ", "uncertain ", "unclear ", "unexplicit ", "unilluminated ", "unintelligible ", "unlit ", "vague "], "A": ["inviting ", "light "]}

@@ -1,0 +1,1 @@
+{"index": 47813, "D": "abnormal enlargement of the heart.", "S": [], "A": []}

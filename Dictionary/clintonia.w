@@ -1,0 +1,1 @@
+{"index": 60107, "D": "any plant of the genus Clintonia, of the lily family, comprising stemless plants with a few broad, ribbed, basal leaves, and white, greenish-yellow, or rose-colored flowers on a short stalk.", "S": [], "A": []}

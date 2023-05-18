@@ -1,0 +1,1 @@
+{"index": 235910, "D": "the larva of a pyralid moth, Diaphania nitidalis, that bores into the stem and fruit of squash, cucumber, and other cucurbitaceous plants.", "S": [], "A": []}

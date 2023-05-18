@@ -1,0 +1,1 @@
+{"index": 113498, "D": "pertaining to or resembling a fistula. ", "S": [], "A": []}

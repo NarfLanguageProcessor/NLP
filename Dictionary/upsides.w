@@ -1,0 +1,1 @@
+{"index": 355025, "D": "equal or level (with), as through revenge or retaliation", "S": [], "A": []}

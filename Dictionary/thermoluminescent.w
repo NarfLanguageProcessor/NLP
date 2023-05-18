@@ -1,0 +1,1 @@
+{"index": 321439, "D": "phosphorescence produced by the heating of a substance.", "S": [], "A": []}

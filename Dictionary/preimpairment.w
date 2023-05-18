@@ -1,0 +1,1 @@
+{"index": 247887, "D": "to make or cause to become worse; diminish in ability, value, excellence, etc.; weaken or damage", "S": [], "A": []}

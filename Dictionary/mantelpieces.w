@@ -1,0 +1,1 @@
+{"index": 179553, "D": "a construction framing the opening of a fireplace and usually covering part of the chimney breast in a more or less decorative manner.", "S": ["chimneypiece "], "A": []}

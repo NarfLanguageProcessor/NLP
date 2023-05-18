@@ -1,0 +1,1 @@
+{"index": 238910, "D": "the amount of people or cargo an airplane can carry.", "S": [], "A": []}

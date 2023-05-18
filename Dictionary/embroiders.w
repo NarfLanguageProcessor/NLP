@@ -1,0 +1,1 @@
+{"index": 98369, "D": "to decorate with ornamental needlework.", "S": ["bedeck ", "decorate ", "embellish ", "knit ", "stitch "], "A": ["harm "]}

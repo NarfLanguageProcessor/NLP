@@ -1,0 +1,1 @@
+{"index": 82769, "D": "the action or process of desorbing", "S": [], "A": []}

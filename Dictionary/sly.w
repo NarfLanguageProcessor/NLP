@@ -1,0 +1,1 @@
+{"index": 293995, "D": "cunning or wily", "S": ["canny ", "impish ", "ingenious ", "intriguing ", "mischievous ", "roguish ", "shrewd ", "smart ", "subtle "], "A": ["foolish ", "inept ", "stupid "]}

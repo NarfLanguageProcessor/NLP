@@ -1,0 +1,1 @@
+{"index": 254148, "D": "a person appointed to superintend or preside.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173411, "D": "the solmization syllable used for the semitone between the sixth and seventh degrees of a scale.", "S": [], "A": []}

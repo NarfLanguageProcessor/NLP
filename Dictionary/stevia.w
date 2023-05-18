@@ -1,0 +1,1 @@
+{"index": 304191, "D": "a South American perennial shrub, Stevia rebaudiana, having small, white flowers and sweet-tasting leaves.", "S": [], "A": []}

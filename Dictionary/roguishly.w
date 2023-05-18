@@ -1,0 +1,1 @@
+{"index": 273854, "D": "in a playfully mischievous way", "S": ["maliciously "], "A": ["honestly ", "truthfully "]}

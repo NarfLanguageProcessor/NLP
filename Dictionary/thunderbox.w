@@ -1,0 +1,1 @@
+{"index": 323007, "D": "a portable boxlike lavatory seat that can be placed over a hole in the ground", "S": [], "A": []}

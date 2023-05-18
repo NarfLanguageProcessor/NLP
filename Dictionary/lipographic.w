@@ -1,0 +1,1 @@
+{"index": 173183, "D": "unintentional omission in writing, as of a specific letter or syllable.", "S": [], "A": []}

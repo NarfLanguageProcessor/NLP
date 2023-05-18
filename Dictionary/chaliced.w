@@ -1,0 +1,1 @@
+{"index": 52146, "D": "(of plants) having cup-shaped flowers", "S": [], "A": []}

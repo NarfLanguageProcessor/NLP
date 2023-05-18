@@ -1,0 +1,1 @@
+{"index": 153241, "D": "to unite by openings, as arteries in anastomosis.", "S": [], "A": []}

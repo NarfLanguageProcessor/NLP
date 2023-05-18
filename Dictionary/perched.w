@@ -1,0 +1,1 @@
+{"index": 230413, "D": "a pole or rod, usually horizontal, serving as a roost for birds.", "S": ["alight ", "squat ", "touch down "], "A": ["move "]}

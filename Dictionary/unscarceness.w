@@ -1,0 +1,1 @@
+{"index": 350454, "D": "insufficient to satisfy the need or demand; not abundant", "S": [], "A": []}

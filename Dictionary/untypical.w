@@ -1,0 +1,1 @@
+{"index": 353057, "D": "not representative or characteristic of a particular type, person, etc", "S": ["abnormal ", "bizarre ", "odd ", "strange ", "uncommon ", "unusual "], "A": ["typical "]}

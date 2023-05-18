@@ -1,0 +1,1 @@
+{"index": 224441, "D": "a white-and-black, bearlike mammal, Ailuropoda melanoleuca, now rare and restricted to forest areas of central China containing stands of bamboo, on which it mainly subsists", "S": [], "A": []}

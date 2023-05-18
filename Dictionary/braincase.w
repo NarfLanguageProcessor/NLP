@@ -1,0 +1,1 @@
+{"index": 39728, "D": "cranium (def. 2). ", "S": ["brainpan ", "crown ", "head "], "A": ["bottom "]}

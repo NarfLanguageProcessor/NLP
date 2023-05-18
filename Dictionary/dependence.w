@@ -1,0 +1,1 @@
+{"index": 81558, "D": "the state of relying on or needing someone or something for aid, support, or the like.", "S": ["confidence ", "dependency "], "A": ["disbelief ", "distrust ", "indifference "]}

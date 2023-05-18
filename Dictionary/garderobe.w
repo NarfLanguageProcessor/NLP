@@ -1,0 +1,1 @@
+{"index": 122120, "D": "a wardrobe or its contents.", "S": ["latrine ", "lavatory ", "outhouse ", "restroom "], "A": []}

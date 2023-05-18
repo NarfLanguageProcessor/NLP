@@ -1,0 +1,1 @@
+{"index": 346790, "D": "causing sickness of the stomach; nauseous. ", "S": [], "A": []}

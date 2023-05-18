@@ -1,0 +1,1 @@
+{"index": 142750, "D": "a man's felt hat with a soft crown dented lengthwise and a slightly rolled brim.", "S": [], "A": []}

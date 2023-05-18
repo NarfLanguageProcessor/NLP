@@ -1,0 +1,1 @@
+{"index": 187184, "D": "aggressive activism or combativeness in supporting or agitating for a cause", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 121881, "D": "awkwardly tall and spindly; lank and loosely built.", "S": ["awkward ", "bony ", "gawky ", "lanky ", "leggy ", "long-legged ", "long-limbed ", "lumbering ", "skinny ", "spindly ", "tall ", "thin "], "A": []}

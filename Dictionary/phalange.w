@@ -1,0 +1,1 @@
+{"index": 232826, "D": "a phalanx.", "S": ["TOE ", "claw ", "extremity ", "fang ", "feeler ", "finger ", "fork ", "hook ", "pinkie ", "pointer ", "thumb "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46146, "D": "a plural of candelabrum. ", "S": ["candelabra ", "sconce "], "A": []}

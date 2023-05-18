@@ -1,0 +1,1 @@
+{"index": 65285, "D": "noting a shell-like fracture form produced on certain minerals by a blow.", "S": [], "A": []}

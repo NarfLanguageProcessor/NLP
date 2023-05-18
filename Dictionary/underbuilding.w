@@ -1,0 +1,1 @@
+{"index": 338925, "D": "a relatively permanent enclosed construction over a plot of land, having a roof and usually windows and often more than one level, used for any of a wide variety of activities, as living, entertaining, or manufacturing.", "S": ["cellar ", "storage ", "vault "], "A": ["attic "]}

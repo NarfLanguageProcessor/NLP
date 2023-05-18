@@ -1,0 +1,1 @@
+{"index": 203696, "D": "tending or seeking to evade;  characterized by evasion", "S": [], "A": []}

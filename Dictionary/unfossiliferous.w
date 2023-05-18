@@ -1,0 +1,1 @@
+{"index": 342616, "D": "bearing or containing fossils,  as rocks or strata.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91460, "D": "resembling or characteristic of a university don; scholarly; pedantic. ", "S": [], "A": []}

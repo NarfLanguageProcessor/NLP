@@ -1,0 +1,1 @@
+{"index": 59446, "D": "breaking up into fragments or separate portions; dividing into parts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 311953, "D": "a promise or assurance, especially one in writing, that something is of specified quality, content, benefit, etc., or that it will perform satisfactorily for a given length of time", "S": [], "A": []}

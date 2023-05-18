@@ -1,0 +1,1 @@
+{"index": 205025, "D": "the quality of a function that expresses a relationship that is not one of direct proportion.", "S": [], "A": []}

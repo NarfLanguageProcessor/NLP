@@ -1,0 +1,1 @@
+{"index": 328331, "D": "to transfer from one ship,  truck, freight car, or other conveyance to another.", "S": ["shipment ", "shipping ", "transit ", "transportation "], "A": ["remain ", "stay "]}

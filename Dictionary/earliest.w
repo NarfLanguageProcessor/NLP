@@ -1,0 +1,1 @@
+{"index": 94744, "D": "in or during the first part of a period of time, a course of action, a series of events, etc.", "S": ["archetypal ", "original ", "primal ", "primeval ", "primitive "], "A": ["latest "]}

@@ -1,0 +1,1 @@
+{"index": 221945, "D": "pertaining to, of the nature of, or like sheep.", "S": [], "A": []}

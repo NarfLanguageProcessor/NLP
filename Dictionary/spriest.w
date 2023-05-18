@@ -1,0 +1,1 @@
+{"index": 301260, "D": "a superlative of spry. ", "S": [], "A": []}

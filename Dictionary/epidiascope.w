@@ -1,0 +1,1 @@
+{"index": 102389, "D": "a type of magic lantern that projects the image of an opaque object onto a screen.", "S": [], "A": []}

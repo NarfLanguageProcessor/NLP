@@ -1,0 +1,1 @@
+{"index": 4570, "D": "to move or bring forward", "S": [], "A": []}

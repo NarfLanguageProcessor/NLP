@@ -1,0 +1,1 @@
+{"index": 264476, "D": "to bring down to a smaller extent, size, amount, number, etc.", "S": ["abbreviating ", "compressing ", "condensing ", "contracting ", "contraction ", "decreasing ", "dieting ", "diminishing ", "discounting ", "downsizing ", "lessening ", "reduction ", "shortening ", "shrinking "], "A": ["enlargement ", "increase "]}

@@ -1,0 +1,1 @@
+{"index": 311705, "D": "(of collisions) involving an overall increase in translational kinetic energy", "S": [], "A": []}

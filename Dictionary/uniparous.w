@@ -1,0 +1,1 @@
+{"index": 344933, "D": "producing only one egg or offspring at a time.", "S": [], "A": []}

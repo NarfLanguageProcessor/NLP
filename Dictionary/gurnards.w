@@ -1,0 +1,1 @@
+{"index": 131503, "D": "any marine fish of the family Triglidae, having an armored, spiny head and the front part of the pectoral fins modified for crawling on the sea bottom.", "S": [], "A": []}

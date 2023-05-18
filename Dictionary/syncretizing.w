@@ -1,0 +1,1 @@
+{"index": 291487, "D": "to attempt to combine or unite, as different or opposing principles, parties, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 368396, "D": "a heavy, colorless, chemically inactive, monatomic gaseous element used for filling radio, television, and luminescent tubes. Symbol", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363360, "D": "to sway to and fro; flutter", "S": ["dither ", "falter ", "fluctuate ", "hedge ", "hesitate ", "oscillate ", "pause ", "quiver ", "seesaw ", "shake ", "sway ", "teeter ", "tremble ", "vacillate ", "vary ", "waffle ", "wobble "], "A": ["calm ", "continue ", "persist ", "remain ", "stay ", "steady "]}

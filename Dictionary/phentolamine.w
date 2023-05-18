@@ -1,0 +1,1 @@
+{"index": 233452, "D": "an alpha blocker, C17H19N3O, used to reduce hypertensive states caused by a catecholamine excess, as in the treatment of pheochromocytoma.", "S": [], "A": []}

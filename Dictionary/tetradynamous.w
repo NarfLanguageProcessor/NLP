@@ -1,0 +1,1 @@
+{"index": 320009, "D": "having four long and two short stamens, as a cruciferous flower.", "S": [], "A": []}

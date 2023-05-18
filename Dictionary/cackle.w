@@ -1,0 +1,1 @@
+{"index": 44130, "D": "to utter a shrill, broken sound or cry, as of a hen.", "S": ["giggle ", "guffaw ", "laugh "], "A": []}

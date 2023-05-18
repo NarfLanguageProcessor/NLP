@@ -1,0 +1,1 @@
+{"index": 154648, "D": "a median membrane bone developed between the collarbones, or in front of the breastbone, in many vertebrates.", "S": [], "A": []}

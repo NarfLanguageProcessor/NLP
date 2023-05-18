@@ -1,0 +1,1 @@
+{"index": 201914, "D": "unreal; imaginary; visionary", "S": [], "A": []}

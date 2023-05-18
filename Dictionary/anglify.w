@@ -1,0 +1,1 @@
+{"index": 12897, "D": "to Anglicize. ", "S": [], "A": []}

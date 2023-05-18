@@ -1,0 +1,1 @@
+{"index": 57709, "D": "either of two oily, liquid compounds, C20H28O3 or C21H28O5, used as insecticides.", "S": [], "A": []}

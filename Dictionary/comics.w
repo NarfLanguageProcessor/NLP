@@ -1,0 +1,1 @@
+{"index": 63832, "D": "of, relating to, or characterized by comedy", "S": ["caricatures ", "cartoons ", "comic section ", "funnies ", "funny book ", "funny magazine ", "funny paper "], "A": []}

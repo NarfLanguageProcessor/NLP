@@ -1,0 +1,1 @@
+{"index": 133158, "D": "the grip or clasp of a hand, as in greeting", "S": ["constraint ", "grasp ", "restraint "], "A": ["release "]}

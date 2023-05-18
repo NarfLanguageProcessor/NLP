@@ -1,0 +1,1 @@
+{"index": 315415, "D": "a movable or sliding support for the dead center of a lathe or grinder.", "S": [], "A": []}

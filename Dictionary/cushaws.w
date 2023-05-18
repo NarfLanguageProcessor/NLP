@@ -1,0 +1,1 @@
+{"index": 75625, "D": "any of several squashes  having long, curved necks, especially varieties of Cucurbita mixta.", "S": [], "A": []}

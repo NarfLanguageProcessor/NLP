@@ -1,0 +1,1 @@
+{"index": 205901, "D": "persisting steadfastly without giving up; continuing in spite of difficulties or setbacks; persevering", "S": [], "A": []}

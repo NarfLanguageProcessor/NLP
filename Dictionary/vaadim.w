@@ -1,0 +1,1 @@
+{"index": 356320, "D": "a Jewish council offering advice on or having authority over certain community affairs.", "S": [], "A": []}

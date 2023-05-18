@@ -1,0 +1,1 @@
+{"index": 339228, "D": "a basic structure, plan, or system, as of concepts, values, customs, or rules", "S": [], "A": []}

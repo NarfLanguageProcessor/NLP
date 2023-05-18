@@ -1,0 +1,1 @@
+{"index": 168577, "D": "of, relating to, or involving the larynx and pharynx.", "S": [], "A": []}

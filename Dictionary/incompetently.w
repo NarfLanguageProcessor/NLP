@@ -1,0 +1,1 @@
+{"index": 150114, "D": "not competent;  lacking qualification or ability; incapable", "S": ["awkwardly ", "badly ", "clumsily ", "ineptly "], "A": []}

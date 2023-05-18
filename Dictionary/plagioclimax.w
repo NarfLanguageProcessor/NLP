@@ -1,0 +1,1 @@
+{"index": 238666, "D": "the climax stage of a community, influenced by man or some other outside factor", "S": [], "A": []}

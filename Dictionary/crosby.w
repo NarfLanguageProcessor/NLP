@@ -1,0 +1,1 @@
+{"index": 73746, "D": "U.S. singer and actor.", "S": [], "A": []}

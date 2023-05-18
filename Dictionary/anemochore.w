@@ -1,0 +1,1 @@
+{"index": 12505, "D": "an anemochorous  plant, seed, or spore.", "S": [], "A": []}

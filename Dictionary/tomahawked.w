@@ -1,0 +1,1 @@
+{"index": 325373, "D": "a light ax used by the North American Indians as a weapon and tool.", "S": ["can ", "cleaver ", "discharge ", "fire ", "hatchet ", "poll ", "sack ", "tomahawk "], "A": ["employ ", "hire "]}

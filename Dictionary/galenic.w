@@ -1,0 +1,1 @@
+{"index": 121218, "D": "of, relating to, or containing galena. ", "S": [], "A": []}

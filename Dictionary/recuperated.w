@@ -1,0 +1,1 @@
+{"index": 263771, "D": "to recover from sickness or exhaustion; regain health or strength.", "S": ["rehabilitated ", "revived "], "A": ["unhealthy "]}

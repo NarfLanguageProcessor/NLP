@@ -1,0 +1,1 @@
+{"index": 232097, "D": "holding tenaciously to a purpose, course of action, or opinion; resolute.", "S": ["attentive ", "determined ", "dogged ", "persistent ", "tenacious "], "A": ["irresolute ", "tentative "]}

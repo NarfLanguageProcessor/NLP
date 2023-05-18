@@ -1,0 +1,1 @@
+{"index": 213819, "D": "Compare wrangler (def. 2). ", "S": [], "A": []}

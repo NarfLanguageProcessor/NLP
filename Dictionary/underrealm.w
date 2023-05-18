@@ -1,0 +1,1 @@
+{"index": 339674, "D": "a royal domain; kingdom", "S": [], "A": []}

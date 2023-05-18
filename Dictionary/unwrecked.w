@@ -1,0 +1,1 @@
+{"index": 354408, "D": "any building, structure, or thing reduced to a state of ruin.", "S": [], "A": []}

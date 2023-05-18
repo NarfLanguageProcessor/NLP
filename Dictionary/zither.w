@@ -1,0 +1,1 @@
+{"index": 369552, "D": "a musical instrument, consisting of a flat sounding box with numerous strings stretched over it, that is placed on a horizontal surface and played with a plectrum and the fingertips.", "S": [], "A": []}

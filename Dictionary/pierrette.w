@@ -1,0 +1,1 @@
+{"index": 236271, "D": "the female counterpart of a Pierrot, usually accompanying him, as in an entertainment or masquerade.", "S": [], "A": []}

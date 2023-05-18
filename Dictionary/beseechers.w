@@ -1,0 +1,1 @@
+{"index": 32290, "D": "to implore urgently", "S": ["beggar ", "petitioner ", "seeker ", "solicitor ", "suitor "], "A": []}

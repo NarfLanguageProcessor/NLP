@@ -1,0 +1,1 @@
+{"index": 190905, "D": "a prolonged, low, inarticulate sound uttered from or as if from physical or mental suffering.", "S": ["carp ", "grieve ", "gripe ", "grumble ", "mourn ", "sigh ", "sob ", "wail "], "A": ["be happy ", "compliment ", "please ", "praise ", "gloat "]}

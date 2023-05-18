@@ -1,0 +1,1 @@
+{"index": 307840, "D": "to conquer and bring into subjection", "S": ["covering up ", "curbing ", "holding back ", "quelling ", "repressing ", "repressive ", "silencing ", "stifling ", "withholding "], "A": []}

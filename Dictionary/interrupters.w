@@ -1,0 +1,1 @@
+{"index": 155850, "D": "a person or thing that interrupts. ", "S": ["botherers ", "cheap seats ", "hecklers ", "paradise ", "second balcony ", "the gods ", "upper balcony "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 264153, "D": "the nullification of a sale because of a defect in the article sold of such nature as to make it totally or virtually unusable or as to have prevented the purchase if known to the buyer.", "S": [], "A": []}

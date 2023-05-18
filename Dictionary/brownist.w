@@ -1,0 +1,1 @@
+{"index": 41650, "D": "a person who supported the principles of church government advocated by Robert Browne and adopted in modified form by the Independents or Congregationalists", "S": [], "A": []}

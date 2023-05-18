@@ -1,0 +1,1 @@
+{"index": 58888, "D": "any small tree or spiny shrub of the genus Citrus, of the rue family, including the lemon, lime, orange, tangerine, grapefruit, citron, kumquat, and shaddock, widely cultivated for fruit or grown as an ornamental.", "S": [], "A": []}

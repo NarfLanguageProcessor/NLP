@@ -1,0 +1,1 @@
+{"index": 3072, "D": "anything done, being done, or to be done; deed; performance", "S": ["action ", "deed ", "move ", "operation ", "performance ", "step ", "thing "], "A": ["idleness ", "inaction ", "inactivity ", "defeat ", "failure ", "neglect "]}

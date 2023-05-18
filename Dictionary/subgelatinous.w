@@ -1,0 +1,1 @@
+{"index": 308056, "D": "having the nature of or resembling jelly, especially in consistency; jellylike.", "S": [], "A": []}

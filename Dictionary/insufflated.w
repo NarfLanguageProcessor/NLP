@@ -1,0 +1,1 @@
+{"index": 154045, "D": "to blow or breathe (something) in.", "S": ["exhale ", "inhale ", "sigh "], "A": ["hide ", "secret "]}

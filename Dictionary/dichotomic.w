@@ -1,0 +1,1 @@
+{"index": 84812, "D": "division into two parts, kinds, etc.; subdivision into halves or pairs.", "S": ["amphibian ", "binary ", "diploid "], "A": []}

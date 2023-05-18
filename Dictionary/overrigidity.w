@@ -1,0 +1,1 @@
+{"index": 220881, "D": "stiff or unyielding; not pliant or flexible; hard", "S": [], "A": []}

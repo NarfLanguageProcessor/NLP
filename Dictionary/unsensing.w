@@ -1,0 +1,1 @@
+{"index": 350752, "D": "any of the faculties, as sight, hearing, smell, taste, or touch, by which humans and animals perceive stimuli originating from outside or inside the body", "S": [], "A": []}

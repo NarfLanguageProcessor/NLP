@@ -1,0 +1,1 @@
+{"index": 178302, "D": "an organic phosphate insecticide, C10H19O6S2P, of relatively low toxicity for mammals.", "S": [], "A": []}

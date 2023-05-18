@@ -1,0 +1,1 @@
+{"index": 353508, "D": "to cause to rotate rapidly; spin; revolve; whirl. ", "S": [], "A": []}

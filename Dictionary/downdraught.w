@@ -1,0 +1,1 @@
+{"index": 92223, "D": "the large-scale downward movement of air in the lee of large objects, mountains, etc", "S": [], "A": []}

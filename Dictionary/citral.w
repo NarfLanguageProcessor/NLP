@@ -1,0 +1,1 @@
+{"index": 58840, "D": "a pale yellow, water-insoluble, liquid aldehyde, C10H16O, having a strong lemonlike odor, consisting in natural form of two isomers (citral a,  or geranial,  and citral b,  or neral ), usually obtained from the oils of lemon and orange or synthetically", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83789, "D": "Dexedrine,  especially in tablet form.", "S": ["stimulant "], "A": []}

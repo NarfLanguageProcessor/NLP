@@ -1,0 +1,1 @@
+{"index": 361445, "D": "an axlike, shafted weapon having a curved blade tapering to a point at the top, used by foot soldiers in the 14th century and after.", "S": [], "A": []}

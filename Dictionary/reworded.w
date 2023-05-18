@@ -1,0 +1,1 @@
+{"index": 271655, "D": "to put into other words", "S": ["adapted ", "rendered ", "rewritten ", "transliterated "], "A": []}

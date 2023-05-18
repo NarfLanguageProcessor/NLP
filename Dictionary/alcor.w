@@ -1,0 +1,1 @@
+{"index": 7711, "D": "a star, the fifth-magnitude companion of Mizar in the handle of the Big Dipper.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305353, "D": "a person or thing that stops. ", "S": ["bung ", "cork ", "fill ", "lid ", "stopple ", "wad "], "A": []}

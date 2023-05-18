@@ -1,0 +1,1 @@
+{"index": 353942, "D": "of one\u2019s own accord or by free choice", "S": [], "A": []}

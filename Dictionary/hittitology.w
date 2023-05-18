@@ -1,0 +1,1 @@
+{"index": 141995, "D": "the study of Hittite  language and culture.", "S": [], "A": []}

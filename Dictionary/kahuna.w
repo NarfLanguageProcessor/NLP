@@ -1,0 +1,1 @@
+{"index": 162745, "D": "(in Hawaii) a Native medicine man or priest.", "S": [], "A": []}

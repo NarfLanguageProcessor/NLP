@@ -1,0 +1,1 @@
+{"index": 346272, "D": "in a hypnotic or trancelike state; hypnotized", "S": [], "A": []}

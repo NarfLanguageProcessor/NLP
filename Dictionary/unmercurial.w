@@ -1,0 +1,1 @@
+{"index": 346244, "D": "changeable; volatile; fickle; flighty; erratic", "S": [], "A": []}

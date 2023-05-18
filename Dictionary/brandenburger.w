@@ -1,0 +1,1 @@
+{"index": 39902, "D": "a state in NE central Germany. 10,039 sq. mi. (26,000 sq. km). Capital", "S": [], "A": []}

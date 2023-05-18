@@ -1,0 +1,1 @@
+{"index": 8179, "D": "a jagged, stairstep effect on curved or diagonal lines that are reproduced in low resolution, as on a computer printout or digital display.", "S": [], "A": []}

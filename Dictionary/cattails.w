@@ -1,0 +1,1 @@
+{"index": 49846, "D": "any tall, reedlike marsh plant of the genus Typha, especially T. latifolia, having long, sword-shaped leaves and dense, cylindrical clusters of minute brown flowers.", "S": [], "A": []}

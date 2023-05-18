@@ -1,0 +1,1 @@
+{"index": 131771, "D": "an acquired behavior pattern regularly followed until it has become almost involuntary", "S": ["custom ", "manner ", "mode ", "nature ", "obsession ", "pattern ", "quirk ", "routine ", "style ", "thing ", "usage "], "A": ["disinclination ", "dislike ", "hate "]}

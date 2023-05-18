@@ -1,0 +1,1 @@
+{"index": 156119, "D": "pertaining to or of the nature of an ungula;  ungual.", "S": [], "A": []}

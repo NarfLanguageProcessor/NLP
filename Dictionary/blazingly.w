@@ -1,0 +1,1 @@
+{"index": 35924, "D": "burning brightly and with great heat, force, etc.", "S": ["brilliantly ", "splendidly "], "A": ["darkly ", "dully ", "miserably ", "sadly "]}

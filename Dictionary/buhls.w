@@ -1,0 +1,1 @@
+{"index": 42347, "D": "elaborate inlaid work of woods, metals, tortoiseshell, ivory, etc.", "S": [], "A": []}

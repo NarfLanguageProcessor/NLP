@@ -1,0 +1,1 @@
+{"index": 6943, "D": "an airtight chamber permitting passage to or from a space, as in a caisson, in which the air is kept under pressure.", "S": [], "A": []}

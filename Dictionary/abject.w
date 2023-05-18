@@ -1,0 +1,1 @@
+{"index": 498, "D": "utterly hopeless, miserable, humiliating, or wretched", "S": ["wretched "], "A": ["commendable ", "exalted ", "excellent ", "magnificent ", "noble ", "proud ", "worthy "]}

@@ -1,0 +1,1 @@
+{"index": 363877, "D": "to determine or ascertain the force that gravitation exerts upon (a person or thing) by use of a balance, scale, or other mechanical device", "S": ["studied ", "treated "], "A": ["disregarded ", "forgotten ", "neglected ", "unplanned ", "unstudied "]}

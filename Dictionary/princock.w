@@ -1,0 +1,1 @@
+{"index": 250667, "D": "a self-confident young fellow; coxcomb.", "S": [], "A": []}

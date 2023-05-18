@@ -1,0 +1,1 @@
+{"index": 22104, "D": "pertaining to, exhibiting, or correcting astigmatism. ", "S": [], "A": []}

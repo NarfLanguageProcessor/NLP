@@ -1,0 +1,1 @@
+{"index": 262083, "D": "to connect or bring into relation, as thought, feeling, memory, etc.", "S": [], "A": []}

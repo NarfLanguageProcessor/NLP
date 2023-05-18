@@ -1,0 +1,1 @@
+{"index": 104702, "D": "a bar or impediment preventing a party from asserting a fact or a claim inconsistent with a position that party previously took, either by conduct or words, especially where a representation has been relied or acted upon by others.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 191873, "D": "any organism of the kingdom Monera. ", "S": [], "A": []}

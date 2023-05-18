@@ -1,0 +1,1 @@
+{"index": 275135, "D": "made or consisting of rubble. ", "S": [], "A": []}

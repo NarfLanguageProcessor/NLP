@@ -1,0 +1,1 @@
+{"index": 73989, "D": "a large number of persons gathered closely together; throng", "S": ["circle ", "congregation ", "crew ", "group ", "horde ", "lot ", "mass ", "mob ", "pack ", "party ", "people ", "press ", "sellout ", "throng "], "A": ["individual ", "one ", "single "]}

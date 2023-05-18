@@ -1,0 +1,1 @@
+{"index": 296162, "D": "a method of group psychotherapy in which each patient assumes and dramatizes a variety of roles, usually focusing on problems and conflicts arising in group situations.", "S": [], "A": []}

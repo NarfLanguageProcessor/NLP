@@ -1,0 +1,1 @@
+{"index": 37439, "D": "plating of iron or steel for making the shells of boilers, covering the hulls of ships, etc.", "S": ["mediocre ", "moderate ", "ordinary ", "regular "], "A": ["abnormal ", "extraordinary ", "irregular ", "uncommon ", "unusual ", "exceptional ", "extreme ", "infrequent ", "rare "]}

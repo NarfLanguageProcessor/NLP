@@ -1,0 +1,1 @@
+{"index": 359098, "D": "a garment, especially an outer garment.", "S": ["frock ", "garb ", "robe ", "stole ", "tunic "], "A": []}

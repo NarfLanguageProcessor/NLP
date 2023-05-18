@@ -1,0 +1,1 @@
+{"index": 53054, "D": "to inflict suffering upon for purposes of moral improvement; chastise. ", "S": [], "A": []}

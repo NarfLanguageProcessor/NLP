@@ -1,0 +1,1 @@
+{"index": 318025, "D": "a Russian cart of rude construction, having four wheels and no springs.", "S": [], "A": []}

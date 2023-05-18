@@ -1,0 +1,1 @@
+{"index": 186530, "D": "a tiny sphere or bead, often hollow or filled with some other substance", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 121266, "D": "of or relating to Galileo,  his theories, or his discoveries.", "S": [], "A": []}

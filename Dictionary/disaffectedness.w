@@ -1,0 +1,1 @@
+{"index": 86934, "D": "discontented and disloyal, as toward the government or toward authority.", "S": [], "A": []}

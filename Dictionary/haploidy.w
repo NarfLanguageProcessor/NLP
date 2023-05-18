@@ -1,0 +1,1 @@
+{"index": 133475, "D": "The state or condition of being haploid.", "S": [], "A": []}

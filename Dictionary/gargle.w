@@ -1,0 +1,1 @@
+{"index": 122151, "D": "to wash or rinse the throat or mouth with a liquid held in the throat and kept in motion by a stream of air from the lungs.", "S": ["irrigate ", "swish ", "trill "], "A": []}

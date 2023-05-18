@@ -1,0 +1,1 @@
+{"index": 174824, "D": "a hill or ridge having a broad top.", "S": [], "A": []}

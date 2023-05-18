@@ -1,0 +1,1 @@
+{"index": 121303, "D": "in a way that shows exceptional politeness and attentiveness to others, especially women", "S": ["boldly ", "fearlessly ", "gamely ", "heroically ", "valiantly "], "A": ["fearfully ", "timidly "]}

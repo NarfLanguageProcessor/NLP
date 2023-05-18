@@ -1,0 +1,1 @@
+{"index": 186804, "D": "the central or middle rib  of a leaf.", "S": [], "A": []}

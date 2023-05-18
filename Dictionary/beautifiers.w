@@ -1,0 +1,1 @@
+{"index": 29672, "D": "to make or become beautiful. ", "S": [], "A": []}

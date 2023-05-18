@@ -1,0 +1,1 @@
+{"index": 123111, "D": "a Semitic language of ancient Ethiopia, now used only as the liturgical language of the Ethiopian Church.", "S": [], "A": []}

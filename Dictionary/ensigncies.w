@@ -1,0 +1,1 @@
+{"index": 101027, "D": "a flag or banner, as a military or naval standard used to indicate nationality.", "S": [], "A": []}

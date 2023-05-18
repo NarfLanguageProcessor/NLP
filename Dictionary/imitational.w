@@ -1,0 +1,1 @@
+{"index": 147819, "D": "a result or product of imitating.", "S": [], "A": []}

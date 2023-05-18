@@ -1,0 +1,1 @@
+{"index": 362339, "D": "a member of a once-powerful North American Indian people who inhabited the area east of Narragansett Bay from Rhode Island to Cape Cod, Martha's Vineyard, and Nantucket at the time of the Pilgrim settlement.", "S": [], "A": []}

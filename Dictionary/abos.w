@@ -1,0 +1,1 @@
+{"index": 742, "D": "a contemptuous term used to refer to an Australian Aboriginal person.", "S": [], "A": []}

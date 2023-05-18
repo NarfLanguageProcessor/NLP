@@ -1,0 +1,1 @@
+{"index": 350012, "D": "having no equal; matchless", "S": ["exceptional ", "inimitable ", "transcendent ", "unmatched ", "unparalleled "], "A": ["inferior ", "ordinary "]}

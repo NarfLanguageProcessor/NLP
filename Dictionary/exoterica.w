@@ -1,0 +1,1 @@
+{"index": 107508, "D": "ideas, principles, writings, or the like, of an exoteric nature.", "S": [], "A": []}

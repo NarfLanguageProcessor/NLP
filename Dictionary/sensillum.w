@@ -1,0 +1,1 @@
+{"index": 285385, "D": "a simple sense organ usually consisting of one or a few cells at the peripheral end of a sensory nerve fiber.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158926, "D": "of or relating to points of equal intensity of radiation in a contaminated region", "S": [], "A": []}

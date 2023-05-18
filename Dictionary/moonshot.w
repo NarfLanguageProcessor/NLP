@@ -1,0 +1,1 @@
+{"index": 193107, "D": "the act or procedure of launching a rocket or spacecraft to the moon. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265483, "D": "tending to refute; pertaining to refutation", "S": [], "A": []}

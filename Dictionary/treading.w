@@ -1,0 +1,1 @@
+{"index": 328669, "D": "to set down the foot or feet in walking; step; walk.", "S": ["beating ", "flailing ", "garnering ", "harvesting ", "separating ", "sifting ", "winnowing "], "A": []}

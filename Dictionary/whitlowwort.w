@@ -1,0 +1,1 @@
+{"index": 365224, "D": "any of several small, tufted plants belonging to the genus Paronychia, of the pink family, native to temperate and warm regions, having opposite or whorled leaves and tiny, greenish flowers.", "S": [], "A": []}

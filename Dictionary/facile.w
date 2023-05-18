@@ -1,0 +1,1 @@
+{"index": 108991, "D": "moving, acting, working, proceeding, etc., with ease, sometimes with superficiality", "S": ["effortless ", "glib ", "hasty "], "A": ["arduous ", "complicated ", "confusing ", "difficult ", "hard ", "involved ", "laborious ", "profound "]}

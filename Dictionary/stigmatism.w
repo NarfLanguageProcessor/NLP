@@ -1,0 +1,1 @@
+{"index": 304410, "D": "the property of a lens that is stigmatic. ", "S": [], "A": []}

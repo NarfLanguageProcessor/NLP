@@ -1,0 +1,1 @@
+{"index": 12549, "D": "congenital absence of part or all of the brain.", "S": ["dumb ", "mindless "], "A": ["intelligent "]}

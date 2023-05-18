@@ -1,0 +1,1 @@
+{"index": 88194, "D": "to change the appearance or guise of so as to conceal identity or mislead, as by means of deceptive garb", "S": ["camouflage ", "cloak ", "concealment ", "cover-up ", "disguise ", "false front ", "front ", "guise ", "mask ", "masquerade ", "veil ", "veneer "], "A": []}

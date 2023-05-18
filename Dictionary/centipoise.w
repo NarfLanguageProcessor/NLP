@@ -1,0 +1,1 @@
+{"index": 50904, "D": "a centimeter-gram-second unit of viscosity, equal to 1/100 (0.01) poise. Abbreviations", "S": [], "A": []}

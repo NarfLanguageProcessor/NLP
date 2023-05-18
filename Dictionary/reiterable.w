@@ -1,0 +1,1 @@
+{"index": 266557, "D": "to say or do again or repeatedly; repeat, often excessively.", "S": [], "A": []}

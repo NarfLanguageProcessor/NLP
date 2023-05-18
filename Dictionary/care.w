@@ -1,0 +1,1 @@
+{"index": 47902, "D": "a state of mind in which one is troubled; worry, anxiety, or concern", "S": ["concern ", "load ", "responsibility "], "A": ["carelessness ", "disregard ", "inattention ", "neglect ", "negligence ", "oversight ", "thoughtlessness "]}

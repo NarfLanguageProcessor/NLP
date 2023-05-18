@@ -1,0 +1,1 @@
+{"index": 90160, "D": "reduplication of letters or syllables in writing, printing, etc., usually through error.", "S": [], "A": []}

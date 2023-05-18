@@ -1,0 +1,1 @@
+{"index": 37419, "D": "of or befitting a boy;  engagingly youthful or innocent", "S": ["childish "], "A": ["adult ", "mature "]}

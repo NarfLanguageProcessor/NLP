@@ -1,0 +1,1 @@
+{"index": 49615, "D": "to move in the soft, stealthy manner of a cat; pussyfoot.", "S": [], "A": []}

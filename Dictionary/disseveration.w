@@ -1,0 +1,1 @@
+{"index": 89517, "D": "to sever; separate.", "S": [], "A": []}

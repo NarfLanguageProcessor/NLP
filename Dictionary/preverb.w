@@ -1,0 +1,1 @@
+{"index": 250181, "D": "a element before the root of a verb that combines to form a lexical unit, as post- in postdate.", "S": [], "A": []}

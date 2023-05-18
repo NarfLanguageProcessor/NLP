@@ -1,0 +1,1 @@
+{"index": 26873, "D": "to divide (a country, territory, etc.) into small, quarrelsome, ineffectual states.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 47266, "D": "an officer of the revenue service.", "S": [], "A": []}

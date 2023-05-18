@@ -1,0 +1,1 @@
+{"index": 112035, "D": "the insoluble protein end product of blood coagulation, formed from fibrinogen by the action of thrombin in the presence of calcium ions.", "S": [], "A": []}

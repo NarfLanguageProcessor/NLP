@@ -1,0 +1,1 @@
+{"index": 56204, "D": "the attribute of colour that involves both hue and saturation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 180320, "D": "a lightweight open fabric of leno weave in cotton, rayon, silk, or nylon.", "S": [], "A": []}

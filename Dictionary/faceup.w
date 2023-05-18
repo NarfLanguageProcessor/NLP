@@ -1,0 +1,1 @@
+{"index": 108972, "D": "with the face  or the front or upper surface upward", "S": [], "A": []}

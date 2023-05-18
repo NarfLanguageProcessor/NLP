@@ -1,0 +1,1 @@
+{"index": 337212, "D": "not having been called for, gathered, or collected", "S": ["overdue ", "pending ", "unresolved "], "A": ["average ", "bad ", "inconspicuous ", "inferior ", "ordinary ", "paid ", "poor ", "regular ", "resolved ", "settled ", "unexceptional ", "unnoticeable ", "unremarkable "]}

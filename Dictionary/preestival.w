@@ -1,0 +1,1 @@
+{"index": 247358, "D": "pertaining or appropriate to summer.", "S": [], "A": []}

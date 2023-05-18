@@ -1,0 +1,1 @@
+{"index": 193035, "D": "ornamented with moons  or crescents.", "S": ["crescent ", "half-moon ", "planetoid ", "pumpkin ", "satellite "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 289234, "D": "the act or fact of shrinking. ", "S": ["contraction ", "depreciation ", "diminution ", "reduction ", "shrinking "], "A": ["enlargement ", "expansion ", "increase "]}

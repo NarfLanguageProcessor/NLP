@@ -1,0 +1,1 @@
+{"index": 17321, "D": "denial of one's intention to speak of a subject that is at the same time named or insinuated, as \u201cI shall not mention Caesar's avarice, nor his cunning, nor his morality.\u201d", "S": [], "A": []}

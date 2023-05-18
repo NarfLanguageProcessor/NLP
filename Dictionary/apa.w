@@ -1,0 +1,1 @@
+{"index": 16618, "D": "a tree, Eperua falcata, of tropical America, having reddish-brown wood used in the construction of houses.", "S": [], "A": []}

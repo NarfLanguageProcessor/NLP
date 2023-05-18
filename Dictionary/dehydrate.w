@@ -1,0 +1,1 @@
+{"index": 79680, "D": "to deprive (a chemical compound) of water or the elements of water.", "S": ["dry out "], "A": ["dampen ", "moisten ", "soak ", "wet "]}

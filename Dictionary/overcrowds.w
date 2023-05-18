@@ -1,0 +1,1 @@
+{"index": 218807, "D": "to crowd  to an uncomfortable or undesirable excess.", "S": ["choke ", "overburden "], "A": ["let go ", "unblock "]}

@@ -1,0 +1,1 @@
+{"index": 210957, "D": "(of a fever) occurring every eighth day.", "S": [], "A": []}

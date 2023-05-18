@@ -1,0 +1,1 @@
+{"index": 335823, "D": "to be fit for or worthy of; become", "S": [], "A": []}

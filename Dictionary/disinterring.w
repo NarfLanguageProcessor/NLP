@@ -1,0 +1,1 @@
+{"index": 88476, "D": "to take out of the place of interment; exhume; unearth.", "S": [], "A": []}

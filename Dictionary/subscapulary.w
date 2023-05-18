@@ -1,0 +1,1 @@
+{"index": 309053, "D": "situated beneath or on the deep surface of the scapula, as a muscle.", "S": [], "A": []}

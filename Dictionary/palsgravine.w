@@ -1,0 +1,1 @@
+{"index": 224185, "D": "the wife or widow of a palsgrave.", "S": [], "A": []}

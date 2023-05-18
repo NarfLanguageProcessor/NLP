@@ -1,0 +1,1 @@
+{"index": 121586, "D": "the directional growth of an organism, esp a plant, in response to an electrical stimulus", "S": [], "A": []}

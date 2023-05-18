@@ -1,0 +1,1 @@
+{"index": 20792, "D": "a device that enables a computer to give a spoken response by generating sounds similar to human speech. Abbreviation", "S": [], "A": []}

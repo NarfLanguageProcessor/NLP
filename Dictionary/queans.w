@@ -1,0 +1,1 @@
+{"index": 258218, "D": "an overly forward, impudent woman; shrew; hussy.", "S": ["tramp ", "whore "], "A": []}

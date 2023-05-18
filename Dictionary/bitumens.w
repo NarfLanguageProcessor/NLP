@@ -1,0 +1,1 @@
+{"index": 35290, "D": "any of various natural substances, as asphalt, maltha, or gilsonite, consisting mainly of hydrocarbons.", "S": ["blacktop "], "A": []}

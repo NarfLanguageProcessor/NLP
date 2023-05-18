@@ -1,0 +1,1 @@
+{"index": 260050, "D": "a person employed in the operation or management of a railroad. ", "S": [], "A": []}

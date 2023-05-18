@@ -1,0 +1,1 @@
+{"index": 87223, "D": "the act or an instance of disbursing. ", "S": ["expenditure ", "outlay ", "spending "], "A": ["deposit ", "hoard ", "savings "]}

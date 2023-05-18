@@ -1,0 +1,1 @@
+{"index": 91910, "D": "excessively fond", "S": ["adoring ", "affectionate ", "loving "], "A": ["disliking "]}

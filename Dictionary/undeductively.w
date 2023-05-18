@@ -1,0 +1,1 @@
+{"index": 338540, "D": "based on deduction  from accepted premises, as in deductive argument; deductive reasoning.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81931, "D": "to make or become free from impurities.", "S": [], "A": []}

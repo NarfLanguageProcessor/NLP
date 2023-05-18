@@ -1,0 +1,1 @@
+{"index": 48589, "D": "a heavy two-wheeled vehicle, commonly without springs, drawn by mules, oxen, or the like, used for the conveyance of heavy goods.", "S": ["compact ", "convenient ", "handy ", "lightweight "], "A": ["awkward ", "big ", "inconvenient ", "unhandy "]}

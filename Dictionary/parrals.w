@@ -1,0 +1,1 @@
+{"index": 226822, "D": "a sliding ring or collar of rope, wood, or metal that confines a yard or the jaws of a gaff to the mast but allows vertical movement.", "S": [], "A": []}

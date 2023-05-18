@@ -1,0 +1,1 @@
+{"index": 97325, "D": "the altered state of a nerve during the passage of an electric current through it.", "S": [], "A": []}

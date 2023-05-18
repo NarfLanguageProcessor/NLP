@@ -1,0 +1,1 @@
+{"index": 270380, "D": "any bryozoan of the family Reteporidae which forms colonies that have a networklike structure.", "S": [], "A": []}

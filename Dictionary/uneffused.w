@@ -1,0 +1,1 @@
+{"index": 341058, "D": "to pour out or forth; shed; disseminate", "S": [], "A": []}

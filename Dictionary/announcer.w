@@ -1,0 +1,1 @@
+{"index": 13610, "D": "a person who announces,  especially one who introduces programs, presents news items, reads advertisements, and does other similar assignments over radio or television.", "S": ["broadcaster ", "disc jockey ", "newscaster ", "reporter "], "A": []}

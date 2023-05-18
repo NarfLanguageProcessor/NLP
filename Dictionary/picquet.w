@@ -1,0 +1,1 @@
+{"index": 236031, "D": "a variant spelling of picket (def. 3)", "S": [], "A": []}

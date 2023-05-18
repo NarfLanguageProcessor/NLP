@@ -1,0 +1,1 @@
+{"index": 112823, "D": "bordered by or having a small or fine fringe.", "S": [], "A": []}

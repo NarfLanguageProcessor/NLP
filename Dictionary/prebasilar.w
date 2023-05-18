@@ -1,0 +1,1 @@
+{"index": 245822, "D": "pertaining to or situated at the base,  especially the base  of the skull.", "S": [], "A": []}

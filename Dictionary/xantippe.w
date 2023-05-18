@@ -1,0 +1,1 @@
+{"index": 368321, "D": "wife of Socrates.", "S": [], "A": []}

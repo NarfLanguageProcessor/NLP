@@ -1,0 +1,1 @@
+{"index": 246447, "D": "the act of consecrating;  dedication to the service and worship of a deity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237160, "D": "(of a leaf) divided in a pinnate  manner.", "S": [], "A": []}

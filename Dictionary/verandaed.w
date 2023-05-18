@@ -1,0 +1,1 @@
+{"index": 358318, "D": "having a veranda", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 244061, "D": "happening or existing after an election", "S": [], "A": []}

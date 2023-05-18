@@ -1,0 +1,1 @@
+{"index": 272510, "D": "pertaining to, resembling, or containing rice. ", "S": [], "A": []}

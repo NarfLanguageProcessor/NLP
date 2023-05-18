@@ -1,0 +1,1 @@
+{"index": 345435, "D": "of, resembling, or characteristic of larceny. ", "S": [], "A": []}

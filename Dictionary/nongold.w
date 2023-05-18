@@ -1,0 +1,1 @@
+{"index": 204306, "D": "a precious yellow metallic element, highly malleable and ductile, and not subject to oxidation or corrosion. Symbol", "S": [], "A": []}

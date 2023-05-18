@@ -1,0 +1,1 @@
+{"index": 123818, "D": " See  geosyncline.", "S": [], "A": []}

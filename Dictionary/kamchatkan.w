@@ -1,0 +1,1 @@
+{"index": 162981, "D": "of or relating to Kamchatka, a peninsula in E Russia, or its inhabitants", "S": [], "A": []}

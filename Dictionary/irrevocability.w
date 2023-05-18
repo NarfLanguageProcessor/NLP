@@ -1,0 +1,1 @@
+{"index": 158440, "D": "not to be revoked or recalled; unable to be repealed or annulled; unalterable", "S": ["certitude ", "completeness ", "decisiveness ", "entirety ", "finish ", "inevitableness ", "intactness ", "integrity ", "perfection ", "resolution ", "totality ", "unavoidability ", "wholeness "], "A": ["fraction ", "incompleteness ", "part "]}

@@ -1,0 +1,1 @@
+{"index": 303229, "D": "the place of a person or thing as occupied by a successor or substitute", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 269375, "D": "pertaining to or constituting a residue or remainder; remaining; leftover. ", "S": ["continuing ", "enduring ", "lingering "], "A": ["essential ", "necessary "]}

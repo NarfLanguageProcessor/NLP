@@ -1,0 +1,1 @@
+{"index": 367790, "D": "wreck or wreckage.", "S": ["busted ", "defective ", "faulty ", "ruined ", "wrecked "], "A": ["perfect ", "repaired ", "saved "]}

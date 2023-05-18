@@ -1,0 +1,1 @@
+{"index": 133100, "D": "a frame with handles at each end by which it is carried.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 239108, "D": "government by plantation owners.", "S": [], "A": []}

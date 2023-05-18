@@ -1,0 +1,1 @@
+{"index": 262378, "D": "to restart (a computer) by loading the operating system; boot again.", "S": ["reset "], "A": []}

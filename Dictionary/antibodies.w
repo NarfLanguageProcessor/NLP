@@ -1,0 +1,1 @@
+{"index": 14804, "D": [], "S": ["antibiotic ", "antiseptic ", "antiserum ", "antivenin ", "medicine ", "preventive ", "serum ", "vaccine "], "A": []}

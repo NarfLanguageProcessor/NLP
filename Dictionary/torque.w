@@ -1,0 +1,1 @@
+{"index": 326227, "D": "something that produces or tends to produce torsion or rotation; the moment of a force or system of forces tending to cause rotation.", "S": ["armband ", "collar ", "force ", "necklace ", "revolution ", "turn ", "twist "], "A": ["stagnation "]}

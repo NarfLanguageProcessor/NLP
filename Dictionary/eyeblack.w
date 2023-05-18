@@ -1,0 +1,1 @@
+{"index": 96363, "D": "black pigment smudged on the face under the eyes, especially by athletes to reduce sun glare.", "S": [], "A": []}

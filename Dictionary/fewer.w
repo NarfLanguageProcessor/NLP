@@ -1,0 +1,1 @@
+{"index": 111901, "D": "of a smaller number", "S": ["lesser ", "limited ", "lower ", "minor ", "minus ", "negative ", "secondary ", "subordinate "], "A": ["greater ", "higher ", "important ", "major ", "superior "]}

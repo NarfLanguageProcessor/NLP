@@ -1,0 +1,1 @@
+{"index": 148294, "D": "to confer with the opposing party in a lawsuit with a view to settling the dispute amicably, out of court.", "S": [], "A": []}

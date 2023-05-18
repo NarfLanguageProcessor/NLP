@@ -1,0 +1,1 @@
+{"index": 172154, "D": "a language used in ancient times along the northwest coast of the Ligurian Sea,  widely believed to belong to the Indo-European language family.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 23596, "D": "of, belonging to, or typical of an Upper Paleolithic industry with characteristic stone and bone artifacts that is distributed from western France to eastern Europe and the Middle East.", "S": [], "A": []}

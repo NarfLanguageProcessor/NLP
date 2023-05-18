@@ -1,0 +1,1 @@
+{"index": 307492, "D": "a person who commands. ", "S": [], "A": []}

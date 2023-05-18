@@ -1,0 +1,1 @@
+{"index": 258900, "D": "of the pure and essential essence of something", "S": ["typical ", "ultimate "], "A": []}

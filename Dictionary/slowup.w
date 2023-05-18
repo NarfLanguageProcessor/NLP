@@ -1,0 +1,1 @@
+{"index": 294475, "D": "a delay or retardation in progress or activity; slowdown.", "S": ["halt ", "hang up ", "impede ", "stall "], "A": ["advance ", "forward ", "help "]}

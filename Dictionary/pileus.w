@@ -1,0 +1,1 @@
+{"index": 236601, "D": "the horizontal portion of a mushroom, bearing gills, tubes, etc., on its underside; a cap.", "S": [], "A": []}

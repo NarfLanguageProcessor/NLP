@@ -1,0 +1,1 @@
+{"index": 70035, "D": "an aerospace center or launching site for spacecraft in the Soviet Union.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 176458, "D": "a stringed musical instrument having a long, fretted neck and a hollow, typically pear-shaped body with a vaulted back.", "S": ["adhesive ", "mud ", "plaster ", "sand "], "A": []}

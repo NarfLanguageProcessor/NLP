@@ -1,0 +1,1 @@
+{"index": 15387, "D": "against or opposed to human  beings or human  values.", "S": [], "A": []}

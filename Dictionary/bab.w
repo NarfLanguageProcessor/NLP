@@ -1,0 +1,1 @@
+{"index": 25440, "D": "abbreviated form of Bab ed-Din.", "S": [], "A": []}

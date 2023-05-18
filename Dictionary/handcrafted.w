@@ -1,0 +1,1 @@
+{"index": 133125, "D": "made by handicraft", "S": ["indigenous ", "internal ", "national "], "A": ["alien ", "business ", "foreign ", "industrial ", "office "]}

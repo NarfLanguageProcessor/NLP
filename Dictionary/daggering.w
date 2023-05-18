@@ -1,0 +1,1 @@
+{"index": 76199, "D": "a short, swordlike weapon with a pointed blade and a handle, used for stabbing.", "S": [], "A": []}

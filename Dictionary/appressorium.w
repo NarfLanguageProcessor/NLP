@@ -1,0 +1,1 @@
+{"index": 17951, "D": "a flattened and thickened tip of a hyphal branch, formed by some parasitic fungi, that facilitates penetration of the host plant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 357804, "D": "to pronounce with velar  articulation.", "S": [], "A": []}

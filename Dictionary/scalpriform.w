@@ -1,0 +1,1 @@
+{"index": 279489, "D": "chisel-shaped, as the incisors of certain rodents.", "S": [], "A": []}

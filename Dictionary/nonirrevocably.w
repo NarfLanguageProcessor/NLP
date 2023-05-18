@@ -1,0 +1,1 @@
+{"index": 204903, "D": "in a way that can never be reversed, undone, or canceled; permanently", "S": [], "A": []}

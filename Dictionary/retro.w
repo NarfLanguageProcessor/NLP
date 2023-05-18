@@ -1,0 +1,1 @@
+{"index": 270763, "D": "retroactive", "S": ["period "], "A": ["modern "]}

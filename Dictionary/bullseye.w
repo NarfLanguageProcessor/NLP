@@ -1,0 +1,1 @@
+{"index": 42642, "D": "the circular spot, usually black or outlined in black, at the center of a target marked with concentric circles and used in target practice.", "S": ["center ", "dead center ", "omphalos "], "A": []}

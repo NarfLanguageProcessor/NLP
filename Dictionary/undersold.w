@@ -1,0 +1,1 @@
+{"index": 339842, "D": "to sell  more cheaply than.", "S": ["deduct ", "diminish ", "knock off ", "mark down ", "modify "], "A": ["grow ", "increase "]}

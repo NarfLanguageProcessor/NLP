@@ -1,0 +1,1 @@
+{"index": 116569, "D": "the act of foreclosing  a mortgage or pledge.", "S": [], "A": []}

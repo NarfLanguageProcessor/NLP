@@ -1,0 +1,1 @@
+{"index": 187369, "D": "a unit of acceleration, equal to one thousandth of a gal;  one thousandth of a centimeter per second per second. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 329408, "D": "an organ of offense and defense embedded in the outer cytoplasm of certain protozoans, consisting of a small elongated sac containing a fine, hairlike filament capable of being ejected.", "S": [], "A": []}

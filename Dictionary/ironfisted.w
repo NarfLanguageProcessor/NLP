@@ -1,0 +1,1 @@
+{"index": 158060, "D": "ruthless, harsh, and tyrannical", "S": ["acquisitive ", "avaricious ", "chary ", "cheap ", "chintzy ", "churlish ", "close ", "close-fisted ", "costive ", "covetous ", "curmudgeonly ", "economical ", "extortionate ", "frugal ", "grasping ", "greedy ", "grudging ", "ignoble ", "illiberal ", "mean ", "miserly ", "narrow ", "near "], "A": []}

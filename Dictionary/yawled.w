@@ -1,0 +1,1 @@
+{"index": 145874, "D": "a ship's small boat, rowed by a crew of four or six.", "S": [], "A": []}

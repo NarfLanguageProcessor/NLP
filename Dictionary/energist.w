@@ -1,0 +1,1 @@
+{"index": 100148, "D": "the theory that self-realization is the highest good.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 105018, "D": "a highly toxic organophosphate, C9H22O4P2S3, used as a pesticide.", "S": [], "A": []}

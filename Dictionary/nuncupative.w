@@ -1,0 +1,1 @@
+{"index": 209655, "D": "(especially of a will) oral; not written.", "S": [], "A": []}

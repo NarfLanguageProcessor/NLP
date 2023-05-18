@@ -1,0 +1,1 @@
+{"index": 177513, "D": "susceptible to magnetization.", "S": [], "A": []}

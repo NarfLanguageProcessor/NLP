@@ -1,0 +1,1 @@
+{"index": 98663, "D": "an affective state of consciousness in which joy, sorrow, fear, hate, or the like, is experienced, as distinguished from cognitive and volitional states of consciousness.", "S": ["deadpan ", "detached ", "dispassionate ", "impassive ", "matter-of-fact ", "unemotional "], "A": ["biased ", "emotional ", "feeling ", "passionate ", "responsive "]}

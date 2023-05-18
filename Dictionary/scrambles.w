@@ -1,0 +1,1 @@
+{"index": 281549, "D": "to climb or move quickly using one's hands and feet, as down a rough incline.", "S": ["mountain climbing ", "mountaineering "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 275682, "D": "something that drains or flows off, as rain that flows off from the land in streams.", "S": ["drainage "], "A": []}

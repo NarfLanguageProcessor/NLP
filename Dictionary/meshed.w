@@ -1,0 +1,1 @@
+{"index": 184085, "D": "a city in NE Iran", "S": ["crocheted ", "purled ", "sewn ", "spun ", "webbed ", "woven "], "A": []}

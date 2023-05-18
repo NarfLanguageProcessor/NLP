@@ -1,0 +1,1 @@
+{"index": 89265, "D": "lack of calm, peace, or ease; anxiety; uneasiness.", "S": ["angst ", "anxiety ", "ferment ", "foreboding ", "nervousness ", "restlessness ", "uneasiness "], "A": ["calm ", "calmness ", "contentedness ", "happiness ", "peace ", "advantage ", "harmony ", "health ", "order ", "unconcern "]}

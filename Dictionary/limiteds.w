@@ -1,0 +1,1 @@
+{"index": 172401, "D": "confined within limits; restricted or circumscribed", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83170, "D": "serving to determine; determining. ", "S": [], "A": []}

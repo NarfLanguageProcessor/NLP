@@ -1,0 +1,1 @@
+{"index": 351050, "D": "the property or characteristic of being showy. ", "S": [], "A": []}

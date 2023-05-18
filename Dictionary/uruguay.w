@@ -1,0 +1,1 @@
+{"index": 355920, "D": "a republic in southeastern South America. 72,172 sq. mi. (186,925 sq. km). Capital", "S": [], "A": []}

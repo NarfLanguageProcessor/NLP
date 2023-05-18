@@ -1,0 +1,1 @@
+{"index": 330472, "D": "a proteolytic enzyme of the pancreatic juice, capable of converting proteins into peptone.", "S": [], "A": []}

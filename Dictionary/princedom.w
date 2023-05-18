@@ -1,0 +1,1 @@
+{"index": 250616, "D": "the position, rank, or dignity of a prince. ", "S": [], "A": []}

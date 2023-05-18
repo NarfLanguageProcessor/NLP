@@ -1,0 +1,1 @@
+{"index": 125301, "D": "a large shade tree, Ginkgo biloba, native to China, having fan-shaped leaves and fleshy seeds with edible kernels", "S": [], "A": []}

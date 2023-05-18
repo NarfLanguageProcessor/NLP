@@ -1,0 +1,1 @@
+{"index": 243518, "D": "a very hard rock, anciently quarried in Egypt, having a dark, purplish-red groundmass containing small crystals of feldspar.", "S": [], "A": []}

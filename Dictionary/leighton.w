@@ -1,0 +1,1 @@
+{"index": 170235, "D": "English painter and sculptor.", "S": [], "A": []}

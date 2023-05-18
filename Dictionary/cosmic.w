@@ -1,0 +1,1 @@
+{"index": 70020, "D": "of or relating to the cosmos", "S": ["global ", "grandiose ", "huge ", "immense ", "infinite ", "planetary "], "A": ["limited ", "little ", "miniature ", "minute ", "small ", "teeny ", "tiny "]}

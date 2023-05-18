@@ -1,0 +1,1 @@
+{"index": 26862, "D": "(in a medieval fortification) an opening, usually in the form of a cross, through which a crossbow could be fired.", "S": [], "A": []}

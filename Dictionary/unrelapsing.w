@@ -1,0 +1,1 @@
+{"index": 349405, "D": "to fall or slip back into a former state, practice, etc.", "S": [], "A": []}

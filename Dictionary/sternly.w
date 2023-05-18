@@ -1,0 +1,1 @@
+{"index": 304076, "D": "in a firm, strict, or austere way", "S": ["actively ", "earnestly ", "passionately ", "sincerely ", "vigorously "], "A": ["casually ", "lightly ", "minor "]}

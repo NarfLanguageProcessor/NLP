@@ -1,0 +1,1 @@
+{"index": 334443, "D": "not accompanied; alone", "S": ["deserted ", "unattended "], "A": ["accompanied ", "together "]}

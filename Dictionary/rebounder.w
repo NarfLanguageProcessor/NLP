@@ -1,0 +1,1 @@
+{"index": 262395, "D": "a player who excels in gaining hold of rebounds. ", "S": [], "A": []}

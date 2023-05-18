@@ -1,0 +1,1 @@
+{"index": 140708, "D": "an instrument that measures activities of the human body during sleep.", "S": [], "A": []}

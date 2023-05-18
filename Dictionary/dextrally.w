@@ -1,0 +1,1 @@
+{"index": 83805, "D": "of, relating to, or on the right side; right (opposed to sinistral).", "S": [], "A": []}

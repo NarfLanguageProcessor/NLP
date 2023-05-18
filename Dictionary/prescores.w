@@ -1,0 +1,1 @@
+{"index": 249286, "D": "to record the sound of (a motion picture) before filming.", "S": [], "A": []}

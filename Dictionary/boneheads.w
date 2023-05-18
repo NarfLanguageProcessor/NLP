@@ -1,0 +1,1 @@
+{"index": 37852, "D": "a foolish or stupid person; blockhead.", "S": ["blockhead ", "clod ", "clodpoll ", "dunce ", "fool ", "imbecile ", "moron ", "nincompoop ", "nitwit "], "A": ["brain "]}

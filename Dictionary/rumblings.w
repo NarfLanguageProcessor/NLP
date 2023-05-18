@@ -1,0 +1,1 @@
+{"index": 275504, "D": "the first signs of dissatisfaction or grievance.", "S": ["barrage ", "boom ", "booming ", "clangor ", "drone ", "drumbeat ", "drumming ", "echoing ", "grumble ", "quaver ", "racket ", "rat-a-tat ", "resonance ", "roar ", "rumble ", "rumbling ", "thunder "], "A": ["quiet "]}

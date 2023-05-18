@@ -1,0 +1,1 @@
+{"index": 23110, "D": "to assume attitudes;  pose for effect.", "S": ["bigot ", "charlatan ", "crook ", "impostor ", "phony ", "trickster "], "A": []}

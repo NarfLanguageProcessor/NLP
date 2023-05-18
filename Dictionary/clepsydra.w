@@ -1,0 +1,1 @@
+{"index": 59781, "D": "an ancient device for measuring time by the regulated flow of water or mercury through a small aperture.", "S": ["calendar ", "chronograph ", "chronometer ", "chronoscope ", "clock ", "dial ", "gnomon ", "horologe ", "hourglass ", "metronome ", "pendulum ", "repeater ", "stopwatch ", "sundial ", "watch "], "A": []}

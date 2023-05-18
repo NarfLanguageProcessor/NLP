@@ -1,0 +1,1 @@
+{"index": 173257, "D": "the reading or understanding, as by a deaf person, of spoken words from the movements of another's lips without hearing the sounds made.", "S": [], "A": []}

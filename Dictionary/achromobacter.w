@@ -1,0 +1,1 @@
+{"index": 2369, "D": "any of several rod-shaped bacteria of the genus Achromobacter, found in soil and water.", "S": [], "A": []}

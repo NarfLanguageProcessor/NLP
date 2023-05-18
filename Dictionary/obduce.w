@@ -1,0 +1,1 @@
+{"index": 209977, "D": "(in prescriptions) cover; conceal; coat.", "S": [], "A": []}

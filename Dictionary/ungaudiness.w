@@ -1,0 +1,1 @@
+{"index": 342936, "D": "garish or gaudy  quality; cheap or tasteless showiness or excessive brightness, colorfulness, busyness, etc.", "S": [], "A": []}

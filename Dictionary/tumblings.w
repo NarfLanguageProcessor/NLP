@@ -1,0 +1,1 @@
+{"index": 332284, "D": "the act, practice, or art of performing acrobatic tumbles,  usually on a mat or the ground.", "S": ["plunging "], "A": []}

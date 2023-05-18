@@ -1,0 +1,1 @@
+{"index": 128543, "D": "the degree of inclination, or the rate of ascent or descent, in a highway, railroad, etc.", "S": ["acclivity ", "angle ", "bank ", "cant ", "declivity ", "grade ", "hill ", "inclination ", "incline ", "lean ", "leaning ", "pitch ", "ramp ", "rise ", "slant ", "tilt "], "A": []}

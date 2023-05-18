@@ -1,0 +1,1 @@
+{"index": 323775, "D": "an apparatus for measuring and recording the progress of time;  chronometer.", "S": ["calendar ", "chronograph ", "chronometer ", "chronoscope ", "clepsydra ", "clock ", "dial ", "gnomon ", "horologe ", "hourglass ", "metronome ", "pendulum ", "repeater ", "stopwatch ", "sundial ", "watch "], "A": []}

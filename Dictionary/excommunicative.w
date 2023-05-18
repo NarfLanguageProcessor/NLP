@@ -1,0 +1,1 @@
+{"index": 106796, "D": "disposed or serving to excommunicate. ", "S": [], "A": []}

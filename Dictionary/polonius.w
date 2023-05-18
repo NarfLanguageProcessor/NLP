@@ -1,0 +1,1 @@
+{"index": 242784, "D": "the sententious father of Ophelia in Shakespeare's Hamlet.", "S": [], "A": []}

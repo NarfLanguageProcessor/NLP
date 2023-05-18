@@ -1,0 +1,1 @@
+{"index": 225997, "D": "one of the unjointed rudimentary limbs or processes of locomotion of many worms, as annelids.", "S": [], "A": []}

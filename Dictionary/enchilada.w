@@ -1,0 +1,1 @@
+{"index": 99290, "D": "a tortilla rolled and filled with a seasoned mixture, usually containing meat, and covered with a sauce flavored with chiles.", "S": [], "A": []}

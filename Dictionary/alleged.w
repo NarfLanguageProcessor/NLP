@@ -1,0 +1,1 @@
+{"index": 8581, "D": "declared or stated to be as described; asserted", "S": ["purported ", "so-called ", "stated ", "supposed "], "A": ["certain ", "definite ", "sure "]}

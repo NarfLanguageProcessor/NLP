@@ -1,0 +1,1 @@
+{"index": 242859, "D": "of, relating to, or characteristic of Pomerania. ", "S": [], "A": []}

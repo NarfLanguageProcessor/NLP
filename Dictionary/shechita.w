@@ -1,0 +1,1 @@
+{"index": 287747, "D": "the Jewish method of killing animals for food", "S": [], "A": []}

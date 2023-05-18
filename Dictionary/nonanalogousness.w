@@ -1,0 +1,1 @@
+{"index": 201304, "D": "having analogy;  corresponding in some particular", "S": [], "A": []}

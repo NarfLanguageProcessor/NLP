@@ -1,0 +1,1 @@
+{"index": 134304, "D": "a passageway by which coal, ore, etc., is hauled to the surface from an underground mine.", "S": [], "A": []}

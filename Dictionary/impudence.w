@@ -1,0 +1,1 @@
+{"index": 149235, "D": "the quality or state of being impudent;  effrontery; insolence.", "S": ["brass ", "chutzpah ", "effrontery ", "gall ", "impertinence ", "insolence ", "rudeness ", "sass "], "A": ["humility ", "manners ", "modesty ", "politeness ", "shyness "]}

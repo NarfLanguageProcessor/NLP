@@ -1,0 +1,1 @@
+{"index": 322784, "D": "the dissolving or breaking up of a thrombus.", "S": [], "A": []}

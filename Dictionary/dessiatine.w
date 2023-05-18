@@ -1,0 +1,1 @@
+{"index": 82909, "D": "a Russian unit of land measure equal to 2.7 U.S. acres (1.1 hectare).", "S": [], "A": []}

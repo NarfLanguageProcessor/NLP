@@ -1,0 +1,1 @@
+{"index": 133503, "D": "a combination of closely linked DNA sequences on one chromosome that are often inherited together", "S": [], "A": []}

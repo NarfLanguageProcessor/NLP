@@ -1,0 +1,1 @@
+{"index": 136531, "D": "a common weed, Lamium amplexicaule, of the mint family, having rounded leaves and small purplish flowers.", "S": [], "A": []}

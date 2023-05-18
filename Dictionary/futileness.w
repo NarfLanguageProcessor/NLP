@@ -1,0 +1,1 @@
+{"index": 120695, "D": "incapable of producing any result; ineffective; useless; not successful", "S": [], "A": []}

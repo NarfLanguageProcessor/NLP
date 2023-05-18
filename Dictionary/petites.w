@@ -1,0 +1,1 @@
+{"index": 232414, "D": "relating to or being a woman who is short and has a small, trim figure; diminutive", "S": [], "A": []}

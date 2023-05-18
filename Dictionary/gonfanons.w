@@ -1,0 +1,1 @@
+{"index": 127724, "D": "a gonfalon that hangs directly from a pole, especially from the shaft of a lance just below the lance head.", "S": [], "A": []}

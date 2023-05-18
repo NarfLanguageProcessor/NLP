@@ -1,0 +1,1 @@
+{"index": 190757, "D": "a person skilled in making mixed  drinks; bartender.", "S": [], "A": []}

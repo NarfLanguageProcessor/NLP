@@ -1,0 +1,1 @@
+{"index": 275633, "D": "an old British measure of capacity, about 15 imperial gallons (68 liters).", "S": [], "A": []}

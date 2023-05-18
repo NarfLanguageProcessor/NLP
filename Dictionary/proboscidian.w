@@ -1,0 +1,1 @@
+{"index": 251096, "D": "pertaining to or resembling a proboscis. ", "S": [], "A": []}

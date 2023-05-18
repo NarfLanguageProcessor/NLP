@@ -1,0 +1,1 @@
+{"index": 196457, "D": "a snack or appetizer consisting of a tortilla chip topped with cheese, pickled jalape\u00f1o peppers, refried beans, etc., and baked or broiled.", "S": [], "A": []}

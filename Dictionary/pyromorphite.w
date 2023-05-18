@@ -1,0 +1,1 @@
+{"index": 237877, "D": "a mineral, lead chlorophosphate, Pb5P3O12Cl, occurring in crystalline and massive forms, and of a green, yellow, or brown color; green lead ore", "S": [], "A": []}

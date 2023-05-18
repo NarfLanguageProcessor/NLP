@@ -1,0 +1,1 @@
+{"index": 287387, "D": "a group of Mongoloid tribes in the hills of Myanmar (Burma).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 13719, "D": "a state of mind consisting of pure sensation or emotion without cognitive content.", "S": [], "A": []}

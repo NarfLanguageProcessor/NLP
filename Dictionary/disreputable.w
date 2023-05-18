@@ -1,0 +1,1 @@
+{"index": 89329, "D": "not reputable;  having a bad reputation", "S": ["contemptible ", "despicable ", "shady ", "shameful ", "sordid ", "vile "], "A": ["good ", "honorable ", "reputable ", "respectable ", "worthy "]}

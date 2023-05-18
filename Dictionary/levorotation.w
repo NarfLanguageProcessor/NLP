@@ -1,0 +1,1 @@
+{"index": 171292, "D": "The counterclockwise rotation of the plane of polarization of light (as observed when looking straight into the incoming light) by certain substances, such as crystals, and by certain solutions. Levorotation is caused by a particular arrangement of the atoms in a molecule of the substance. Compare  dextrorotation.", "S": [], "A": []}

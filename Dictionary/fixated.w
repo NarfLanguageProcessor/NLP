@@ -1,0 +1,1 @@
+{"index": 113594, "D": "arrested in emotional or sexual development", "S": ["captivated ", "dominated ", "haunted ", "preoccupied ", "troubled "], "A": ["disenchanted "]}

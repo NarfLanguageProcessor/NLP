@@ -1,0 +1,1 @@
+{"index": 149119, "D": "a mark made by pressure; a mark or figure impressed or printed on something.", "S": ["signature "], "A": []}

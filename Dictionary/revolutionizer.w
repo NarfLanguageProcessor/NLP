@@ -1,0 +1,1 @@
+{"index": 271516, "D": "to bring about a revolution  in; effect a radical change in", "S": [], "A": []}

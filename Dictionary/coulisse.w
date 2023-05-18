@@ -1,0 +1,1 @@
+{"index": 70526, "D": "a timber or the like having a groove for guiding a sliding panel.", "S": [], "A": []}

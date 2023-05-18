@@ -1,0 +1,1 @@
+{"index": 149997, "D": "incapable of being coerced  or compelled.", "S": [], "A": []}

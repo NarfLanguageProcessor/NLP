@@ -1,0 +1,1 @@
+{"index": 231883, "D": "involving or characteristic of persecution", "S": [], "A": []}

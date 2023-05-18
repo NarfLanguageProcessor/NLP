@@ -1,0 +1,1 @@
+{"index": 126866, "D": "any of an extensive group of compounds that yield glucose and some other substance or substances when treated with a dilute acid or decomposed by a ferment or enzyme.", "S": [], "A": []}

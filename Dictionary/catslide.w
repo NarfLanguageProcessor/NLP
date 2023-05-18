@@ -1,0 +1,1 @@
+{"index": 49831, "D": "(in early American architecture) a steep roof ending close to the ground, as on a saltbox.", "S": [], "A": []}

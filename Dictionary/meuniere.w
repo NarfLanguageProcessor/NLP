@@ -1,0 +1,1 @@
+{"index": 185541, "D": "(of food, especially fish) dipped in flour, saut\u00e9ed in butter, and sprinkled with lemon juice and chopped parsley.", "S": [], "A": []}

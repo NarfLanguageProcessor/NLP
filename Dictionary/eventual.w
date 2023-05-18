@@ -1,0 +1,1 @@
+{"index": 106129, "D": "happening at some indefinite future time or after a series of occurrences; ultimate", "S": ["conditional ", "consequent ", "inevitable ", "possible ", "prospective ", "ultimate "], "A": ["beginning ", "unlikely "]}

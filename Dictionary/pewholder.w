@@ -1,0 +1,1 @@
+{"index": 232652, "D": "a person who rents or owns a pew. ", "S": [], "A": []}

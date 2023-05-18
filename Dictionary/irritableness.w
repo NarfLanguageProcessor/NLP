@@ -1,0 +1,1 @@
+{"index": 158474, "D": "easily irritated  or annoyed; readily excited to impatience or anger.", "S": ["anger ", "annoyance ", "anxiety ", "eagerness ", "edginess ", "excitement ", "nervousness ", "restlessness ", "uneasiness "], "A": ["apathy ", "calm ", "calmness ", "contentment ", "enjoyment ", "happiness ", "joy ", "peace "]}

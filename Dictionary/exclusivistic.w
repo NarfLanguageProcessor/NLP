@@ -1,0 +1,1 @@
+{"index": 106772, "D": "the practice of being exclusive. ", "S": [], "A": []}

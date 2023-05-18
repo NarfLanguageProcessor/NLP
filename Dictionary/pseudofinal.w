@@ -1,0 +1,1 @@
+{"index": 254742, "D": "pertaining to or coming at the end; last in place, order, or time", "S": [], "A": []}

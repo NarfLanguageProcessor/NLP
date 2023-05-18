@@ -1,0 +1,1 @@
+{"index": 325939, "D": "the detailed mapping or charting of the features of a relatively small area, district, or locality.", "S": ["contour "], "A": ["sky "]}

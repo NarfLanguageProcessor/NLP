@@ -1,0 +1,1 @@
+{"index": 148149, "D": "the branch of immunology dealing with the study of immunity in relation to genetic makeup.", "S": [], "A": []}

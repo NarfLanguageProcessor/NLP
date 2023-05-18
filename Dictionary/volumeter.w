@@ -1,0 +1,1 @@
+{"index": 361221, "D": "any of various instruments or devices for measuring volume,  as of gases, liquids, or solids.", "S": [], "A": []}

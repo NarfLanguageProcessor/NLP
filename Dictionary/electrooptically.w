@@ -1,0 +1,1 @@
+{"index": 97178, "D": "the branch of physics dealing with the effects of electrical fields on optical phenomena, as in the Kerr effect.", "S": [], "A": []}

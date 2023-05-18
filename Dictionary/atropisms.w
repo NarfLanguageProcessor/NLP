@@ -1,0 +1,1 @@
+{"index": 22905, "D": "poisoning resulting from atropine  or belladonna.", "S": [], "A": []}

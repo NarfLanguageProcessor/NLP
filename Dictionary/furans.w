@@ -1,0 +1,1 @@
+{"index": 120339, "D": "a colorless, liquid, unsaturated, five-membered heterocyclic compound, C4H4O, obtained from furfural", "S": [], "A": []}

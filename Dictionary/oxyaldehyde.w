@@ -1,0 +1,1 @@
+{"index": 222205, "D": "an aldehyde  containing the hydroxyl group.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223556, "D": "of, relating to, or resembling a palace", "S": ["deluxe ", "imposing ", "luxurious ", "magnificent ", "plush ", "spacious ", "stately ", "sumptuous "], "A": ["common ", "poor ", "unimpressive "]}

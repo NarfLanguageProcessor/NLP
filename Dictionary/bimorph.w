@@ -1,0 +1,1 @@
+{"index": 34144, "D": "an assembly of two piezoelectric crystals cemented together so that an applied voltage causes one to expand and the other to contract, converting electrical signals into mechanical energy. Conversely, bending can generate a voltage", "S": [], "A": []}

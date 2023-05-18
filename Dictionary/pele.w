@@ -1,0 +1,1 @@
+{"index": 229250, "D": "Brazilian soccer player, generally regarded as preeminent in the sport.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308364, "D": "a set of elements of a lattice,  in which each subset of two elements has a least upper bound and a greatest lower bound contained in the given set.", "S": [], "A": []}

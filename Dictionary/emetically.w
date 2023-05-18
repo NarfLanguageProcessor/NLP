@@ -1,0 +1,1 @@
+{"index": 98495, "D": "causing vomiting, as a medicinal substance.", "S": [], "A": []}

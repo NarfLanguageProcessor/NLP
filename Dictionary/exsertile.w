@@ -1,0 +1,1 @@
+{"index": 108136, "D": "capable of being exserted or protruded.", "S": [], "A": []}

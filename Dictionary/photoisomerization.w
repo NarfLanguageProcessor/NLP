@@ -1,0 +1,1 @@
+{"index": 235197, "D": "isomerization induced by light.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57994, "D": "circuitous quality or roundabout character.", "S": [], "A": []}

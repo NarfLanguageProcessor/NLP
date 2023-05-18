@@ -1,0 +1,1 @@
+{"index": 123446, "D": "the office or tenure of a general. ", "S": [], "A": []}

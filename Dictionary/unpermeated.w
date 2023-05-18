@@ -1,0 +1,1 @@
+{"index": 347744, "D": "suffused, saturated, penetrated, or filled with something (sometimes used in combination)", "S": [], "A": []}

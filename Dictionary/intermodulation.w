@@ -1,0 +1,1 @@
+{"index": 155421, "D": "the production in an electrical device of frequencies that are the sums or differences of frequencies of different inputs or of their harmonics.", "S": [], "A": []}

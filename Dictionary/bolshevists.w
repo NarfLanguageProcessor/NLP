@@ -1,0 +1,1 @@
+{"index": 37617, "D": "a follower or advocate of the doctrines or methods of the Bolsheviks. ", "S": ["Bolshevik ", "Bolshevist ", "Commie ", "Maoist ", "Marxist ", "Stalinist ", "Trotskyite ", "apparatchik ", "comrade ", "leftist ", "red ", "socialist ", "sympathizer "], "A": ["capitalist ", "conservative ", "fascist "]}

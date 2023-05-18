@@ -1,0 +1,1 @@
+{"index": 257655, "D": "of, noting, or pertaining to the recording and reproduction of sound over four separate transmission or direct reproduction channels instead of the customary two of the stereo system", "S": [], "A": []}

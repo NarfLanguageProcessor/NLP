@@ -1,0 +1,1 @@
+{"index": 45914, "D": "(in South America) an extensive, nearly level grassland plain.", "S": ["pasture ", "plain ", "prairie ", "savanna ", "steppe "], "A": []}

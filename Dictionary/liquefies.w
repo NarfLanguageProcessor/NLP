@@ -1,0 +1,1 @@
+{"index": 173285, "D": "to make or become liquid. ", "S": ["deliquesce ", "dissolve ", "thaw "], "A": []}

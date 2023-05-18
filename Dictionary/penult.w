@@ -1,0 +1,1 @@
+{"index": 230127, "D": "the next to the last syllable in a word.", "S": [], "A": []}

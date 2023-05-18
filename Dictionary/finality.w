@@ -1,0 +1,1 @@
+{"index": 112848, "D": "the state, quality, or fact of being final;  conclusiveness or decisiveness.", "S": ["certitude ", "completeness ", "decisiveness ", "entirety ", "finish ", "inevitableness ", "intactness ", "integrity ", "perfection ", "resolution ", "totality ", "unavoidability ", "wholeness "], "A": ["fraction ", "incompleteness ", "part "]}

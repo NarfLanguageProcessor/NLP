@@ -1,0 +1,1 @@
+{"index": 132767, "D": "of, relating to, or belonging to a variously dated early period of Iron Age culture in Europe, characterized by the use of bronze, the introduction of iron, and by artistic work in pottery, jewelry, etc.", "S": [], "A": []}

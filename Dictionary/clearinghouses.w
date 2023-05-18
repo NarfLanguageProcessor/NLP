@@ -1,0 +1,1 @@
+{"index": 59662, "D": "a place or institution where mutual claims and accounts are settled, as between banks.", "S": [], "A": []}

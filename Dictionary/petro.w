@@ -1,0 +1,1 @@
+{"index": 232486, "D": "of or relating to petroleum or the petroleum industry.", "S": [], "A": []}

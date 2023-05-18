@@ -1,0 +1,1 @@
+{"index": 43580, "D": "like, or characteristic of, a butcher. ", "S": [], "A": []}

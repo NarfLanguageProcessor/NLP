@@ -1,0 +1,1 @@
+{"index": 171707, "D": "of or relating to Lycia. ", "S": [], "A": []}

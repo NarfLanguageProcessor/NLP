@@ -1,0 +1,1 @@
+{"index": 138186, "D": "a variety of orthoclase in which some of the potassium is replaced by barium.", "S": [], "A": []}

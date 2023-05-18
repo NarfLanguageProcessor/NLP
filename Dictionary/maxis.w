@@ -1,0 +1,1 @@
+{"index": 181566, "D": "maxiskirt. ", "S": ["ceiling ", "peak "], "A": ["base ", "bottom ", "nadir "]}

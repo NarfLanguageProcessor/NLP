@@ -1,0 +1,1 @@
+{"index": 18415, "D": "of or relating to Aram (the biblical name for ancient Syria)", "S": [], "A": []}

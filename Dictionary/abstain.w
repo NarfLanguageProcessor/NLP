@@ -1,0 +1,1 @@
+{"index": 1049, "D": "to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from)", "S": ["cease ", "forgo ", "pass up ", "quit ", "refrain ", "renounce ", "shun ", "withhold "], "A": ["continue ", "do ", "accept ", "allow ", "embrace ", "encourage ", "face ", "meet ", "use ", "want "]}

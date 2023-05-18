@@ -1,0 +1,1 @@
+{"index": 16419, "D": "opposed to the act or practice or performing experiments on living animals, involving cutting into or dissecting the body", "S": [], "A": []}

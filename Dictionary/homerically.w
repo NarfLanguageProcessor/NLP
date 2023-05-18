@@ -1,0 +1,1 @@
+{"index": 142869, "D": "of, relating to, or suggestive of Homer  or his poetry.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 204293, "D": "of or relating to glaciers  or ice sheets.", "S": [], "A": []}

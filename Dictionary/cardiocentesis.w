@@ -1,0 +1,1 @@
+{"index": 47779, "D": "surgical puncture of the heart", "S": [], "A": []}

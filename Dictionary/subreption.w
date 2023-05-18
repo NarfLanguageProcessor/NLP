@@ -1,0 +1,1 @@
+{"index": 308988, "D": "Compare obreption (def. 1). ", "S": [], "A": []}

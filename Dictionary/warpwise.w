@@ -1,0 +1,1 @@
+{"index": 362745, "D": "in a vertical direction; at right angles to the filling; lengthwise.", "S": [], "A": []}

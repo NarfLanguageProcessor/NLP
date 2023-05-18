@@ -1,0 +1,1 @@
+{"index": 48066, "D": "a caring attitude", "S": ["friendly ", "loving ", "sympathetic ", "warm ", "warmhearted "], "A": ["aloof ", "cold ", "cool ", "uncaring ", "unfeeling ", "unfriendly ", "unsociable "]}

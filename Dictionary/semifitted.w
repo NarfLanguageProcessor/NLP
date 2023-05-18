@@ -1,0 +1,1 @@
+{"index": 284221, "D": "designed to fit  closely but not snugly", "S": [], "A": []}

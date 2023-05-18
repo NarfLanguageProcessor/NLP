@@ -1,0 +1,1 @@
+{"index": 240155, "D": "a textile finish characterized by a puckered or blistered effect, produced by chemical treatment.", "S": [], "A": []}

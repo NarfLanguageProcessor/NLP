@@ -1,0 +1,1 @@
+{"index": 298438, "D": "emitting or producing sparks. ", "S": [], "A": []}

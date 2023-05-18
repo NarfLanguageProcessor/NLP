@@ -1,0 +1,1 @@
+{"index": 95622, "D": "ecumenicalism; ecumenism.", "S": [], "A": []}

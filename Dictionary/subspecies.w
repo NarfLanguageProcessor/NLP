@@ -1,0 +1,1 @@
+{"index": 309248, "D": "a subdivision of a species,  especially a geographical or ecological subdivision.", "S": [], "A": []}

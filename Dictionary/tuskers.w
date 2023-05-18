@@ -1,0 +1,1 @@
+{"index": 333006, "D": "an animal with tusks,  as an elephant or a wild boar.", "S": ["boar "], "A": []}

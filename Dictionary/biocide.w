@@ -1,0 +1,1 @@
+{"index": 34310, "D": "any chemical that destroys life by poisoning, especially a pesticide, herbicide, or fungicide.", "S": [], "A": []}

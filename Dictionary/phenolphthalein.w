@@ -1,0 +1,1 @@
+{"index": 233395, "D": "a white, crystalline compound, C20H14O4, used as an indicator in acid-base titration and as a laxative.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34359, "D": "a fog,  resembling steam fog,  produced by the contact of very cold air with the warmth and moisture issuing from animal or human bodies.", "S": [], "A": []}

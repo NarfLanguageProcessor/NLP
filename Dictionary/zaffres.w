@@ -1,0 +1,1 @@
+{"index": 368755, "D": "an artificial mixture, resembling smalt, containing cobalt oxide and, usually, silica, used to produce a blue color in glass and in ceramic glazes.", "S": [], "A": []}

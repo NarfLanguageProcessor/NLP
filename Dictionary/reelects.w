@@ -1,0 +1,1 @@
+{"index": 264617, "D": "to choose or select by vote, as for an office", "S": ["bring back ", "reestablish ", "reintroduce ", "renew ", "replace ", "restore ", "revive "], "A": ["destroy ", "kill "]}

@@ -1,0 +1,1 @@
+{"index": 52438, "D": "a decorative, sometimes ornate, light fixture suspended from a ceiling, usually having branched supports for a number of lights.", "S": ["candelabrum ", "corona ", "crown ", "luster "], "A": []}

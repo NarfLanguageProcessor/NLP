@@ -1,0 +1,1 @@
+{"index": 36604, "D": "a procedure for measuring the compression within an engine to identify certain mechanical defects, such as worn piston rings.", "S": ["drop ", "flatten ", "raze ", "shoot ", "shoot down ", "slash ", "tumble "], "A": ["raise ", "aid ", "assist ", "build ", "combine ", "construct ", "help ", "join ", "unite "]}

@@ -1,0 +1,1 @@
+{"index": 280650, "D": "the style, assumptions, techniques, practices, etc., typifying or regarded as typifying scientists. ", "S": [], "A": []}

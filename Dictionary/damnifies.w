@@ -1,0 +1,1 @@
+{"index": 76589, "D": "to cause loss or damage to.", "S": [], "A": []}

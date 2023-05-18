@@ -1,0 +1,1 @@
+{"index": 138750, "D": "divination by means of the motions or appearance of water.", "S": [], "A": []}

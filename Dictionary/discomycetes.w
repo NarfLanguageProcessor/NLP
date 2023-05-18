@@ -1,0 +1,1 @@
+{"index": 87461, "D": "any of a group of fungi considered as belonging to the class Ascomycetes of the kingdom Plantae, including cup fungi, morels, and truffles, characterized by a cup-shaped or disk-shaped fruiting body.", "S": [], "A": []}

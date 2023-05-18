@@ -1,0 +1,1 @@
+{"index": 240468, "D": "having feathers or plumes; feathered.", "S": ["featherlike ", "feathery ", "fleecy ", "fuzzy ", "light ", "plumate ", "pubescent ", "silky ", "soft ", "velutinous ", "velvety ", "woolly "], "A": []}

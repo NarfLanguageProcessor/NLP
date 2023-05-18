@@ -1,0 +1,1 @@
+{"index": 112723, "D": "noting or pertaining to a story or to a literary work readily adaptable to motion picture form.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 17282, "D": "a didactic narrative; a moral fable.", "S": ["allegory ", "fable ", "parable ", "story "], "A": ["truth "]}

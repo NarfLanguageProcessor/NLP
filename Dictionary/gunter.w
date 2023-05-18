@@ -1,0 +1,1 @@
+{"index": 131451, "D": "a jib-headed sail fastened to a vertical spar that is attached to a short mast, usually by two rings, in such a way that the spar can slide up the mast to spread the sail.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141642, "D": "Damien. born 1965, British artist, noted esp for his works featuring dead animals preserved in tanks of formaldehyde, and for his 2007 sculpture, For the Love of God, a human skull encrusted with flawless diamonds", "S": [], "A": []}

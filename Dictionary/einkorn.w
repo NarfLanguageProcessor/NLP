@@ -1,0 +1,1 @@
+{"index": 96530, "D": "one of the earliest cultivated forms of wheat, Triticum monococcum, having a one-grained spikelet, now grown in limited areas of Europe and Asia.", "S": [], "A": []}

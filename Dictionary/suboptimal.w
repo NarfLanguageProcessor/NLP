@@ -1,0 +1,1 @@
+{"index": 308686, "D": "being below an optimal  level or standard.", "S": ["substandard "], "A": ["excellent ", "flawless ", "highest ", "ideal ", "optimal ", "superlative "]}

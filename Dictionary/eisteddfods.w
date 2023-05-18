@@ -1,0 +1,1 @@
+{"index": 96574, "D": "(in Wales) an annual festival, with competitions among poets and musicians.", "S": [], "A": []}

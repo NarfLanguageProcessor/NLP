@@ -1,0 +1,1 @@
+{"index": 103259, "D": "having the same shape or serving the same purpose.", "S": [], "A": []}

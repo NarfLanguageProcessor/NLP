@@ -1,0 +1,1 @@
+{"index": 275365, "D": "a tough, lawless person; roughneck; bully.", "S": ["desperate ", "fierce ", "hard ", "hard-nosed ", "harsh ", "narrow ", "resolute ", "severe ", "stern ", "stiff ", "strict ", "terrible "], "A": ["amenable ", "easy ", "flexible ", "pliable ", "pliant ", "tolerant ", "uncertain ", "yielding "]}

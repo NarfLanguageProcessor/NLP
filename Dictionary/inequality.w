@@ -1,0 +1,1 @@
+{"index": 151546, "D": "the condition of being unequal; lack of equality; disparity", "S": ["bias ", "difference ", "discrimination ", "disparity ", "diversity ", "injustice ", "unfairness "], "A": ["alikeness ", "equality ", "fairness ", "impartiality ", "likeness ", "sameness ", "similarity ", "uniformity ", "agreement ", "evenness ", "kindness ", "regularity "]}

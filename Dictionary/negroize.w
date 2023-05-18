@@ -1,0 +1,1 @@
+{"index": 198112, "D": "to cause to include Black people or to have the qualities or characteristics of Black people", "S": [], "A": []}

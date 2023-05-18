@@ -1,0 +1,1 @@
+{"index": 333322, "D": "of, relating to, or resembling twigs. ", "S": [], "A": []}

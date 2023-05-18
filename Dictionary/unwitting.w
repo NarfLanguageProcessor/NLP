@@ -1,0 +1,1 @@
+{"index": 354317, "D": "not intentional or deliberate; inadvertent; accidental", "S": ["forgetful ", "inadvertent ", "uninformed ", "unsuspecting "], "A": ["attentive "]}

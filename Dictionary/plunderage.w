@@ -1,0 +1,1 @@
+{"index": 240504, "D": "act of plundering; pillage.", "S": ["booty ", "spoils "], "A": []}

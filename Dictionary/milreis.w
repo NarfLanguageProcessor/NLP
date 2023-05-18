@@ -1,0 +1,1 @@
+{"index": 187519, "D": "a silver coin and former monetary unit of Brazil, equal to 1000 reis, discontinued in 1942.", "S": [], "A": []}

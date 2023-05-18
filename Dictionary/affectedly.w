@@ -1,0 +1,1 @@
+{"index": 5304, "D": "acted upon; influenced.", "S": [], "A": []}

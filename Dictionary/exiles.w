@@ -1,0 +1,1 @@
+{"index": 107224, "D": "expulsion from one's native land by authoritative decree.", "S": ["banishment ", "diaspora ", "dispersion ", "displacement ", "exclusion ", "expatriation ", "expulsion ", "extradition ", "migration ", "ostracism ", "proscription ", "relegation ", "scattering ", "separation "], "A": ["inclusion ", "welcoming "]}

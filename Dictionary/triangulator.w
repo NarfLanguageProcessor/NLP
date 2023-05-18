@@ -1,0 +1,1 @@
+{"index": 329144, "D": "composed of or marked with triangles. ", "S": ["RDF ", "direction finder ", "navigational aid ", "wireless compass "], "A": []}

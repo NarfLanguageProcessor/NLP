@@ -1,0 +1,1 @@
+{"index": 307412, "D": "a chloride  containing a relatively small proportion of chlorine, as mercurous chloride. ", "S": [], "A": []}

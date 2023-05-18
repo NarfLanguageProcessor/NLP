@@ -1,0 +1,1 @@
+{"index": 134297, "D": "a relatively rare feldspathoid mineral related to sodalite", "S": [], "A": []}

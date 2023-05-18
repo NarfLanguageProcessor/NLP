@@ -1,0 +1,1 @@
+{"index": 105797, "D": "(of an organism) tolerating or adaptable to a wide range of temperatures.", "S": [], "A": []}

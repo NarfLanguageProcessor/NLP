@@ -1,0 +1,1 @@
+{"index": 334807, "D": "in the same manner or form; similarly", "S": ["contrasting ", "disparate ", "distant ", "distinct ", "distinctive ", "divergent ", "diverse ", "offbeat ", "other ", "particular ", "peculiar ", "various "], "A": ["alike ", "common ", "like ", "normal ", "ordinary ", "resembling ", "same ", "similar ", "standard ", "uniform ", "usual "]}

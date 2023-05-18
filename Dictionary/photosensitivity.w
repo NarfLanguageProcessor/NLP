@@ -1,0 +1,1 @@
+{"index": 235359, "D": "the quality of being photosensitive. ", "S": [], "A": []}

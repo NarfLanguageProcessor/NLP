@@ -1,0 +1,1 @@
+{"index": 349933, "D": "to solve (a riddle,  mystery, etc.).", "S": [], "A": []}

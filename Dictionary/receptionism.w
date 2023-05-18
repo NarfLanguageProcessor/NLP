@@ -1,0 +1,1 @@
+{"index": 262735, "D": "the doctrine that in the communion service the communicant receives the body and blood of Christ but that the bread and wine are not transubstantiated.", "S": [], "A": []}

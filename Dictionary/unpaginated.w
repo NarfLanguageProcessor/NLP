@@ -1,0 +1,1 @@
+{"index": 347346, "D": "to indicate the sequence of pages  in (a book, manuscript, etc.) by placing numbers or other characters on each leaf; to number the pages of.", "S": [], "A": []}

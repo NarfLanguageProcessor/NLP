@@ -1,0 +1,1 @@
+{"index": 229351, "D": "allowing the maximum passage of light, as glass; translucent ", "S": ["bright ", "crystalline ", "limpid ", "luminous ", "translucent ", "transparent "], "A": []}

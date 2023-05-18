@@ -1,0 +1,1 @@
+{"index": 147076, "D": "an extremely ignorant person.", "S": ["blockhead ", "dimwit ", "dunce ", "fool ", "idiot ", "imbecile ", "moron "], "A": ["brain "]}

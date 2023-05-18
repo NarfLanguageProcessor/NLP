@@ -1,0 +1,1 @@
+{"index": 291862, "D": "any of various tropical American plants belonging to the genus Sinningia, of the gesneria family, including the gloxinia and other species cultivated as houseplants for their variously colored flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109663, "D": "a person with an extreme and uncritical enthusiasm or zeal, as in religion or politics.", "S": ["aficionados ", "energumen ", "extremists ", "fanatical group ", "fanaticos ", "nuts ", "nympholepts ", "zealots "], "A": []}

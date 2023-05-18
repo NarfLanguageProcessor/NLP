@@ -1,0 +1,1 @@
+{"index": 255523, "D": "a substance that causes a psychotic  reaction.", "S": [], "A": []}

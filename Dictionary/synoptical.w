@@ -1,0 +1,1 @@
+{"index": 291967, "D": "pertaining to or constituting a synopsis;  affording or taking a general view of the principal parts of a subject.", "S": [], "A": []}

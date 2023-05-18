@@ -1,0 +1,1 @@
+{"index": 307717, "D": "the state or form of being dentate. ", "S": [], "A": []}

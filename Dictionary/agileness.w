@@ -1,0 +1,1 @@
+{"index": 6180, "D": "quick and well-coordinated in movement; lithe", "S": ["adroitness ", "dexterity ", "fleetness ", "litheness ", "nimbleness ", "quickness ", "swiftness "], "A": []}

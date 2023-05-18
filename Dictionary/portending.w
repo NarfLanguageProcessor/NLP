@@ -1,0 +1,1 @@
+{"index": 243612, "D": "to indicate in advance; to foreshadow or presage, as an omen does", "S": ["approaching ", "brewing ", "imminent ", "looming "], "A": ["gone ", "past "]}

@@ -1,0 +1,1 @@
+{"index": 336768, "D": "disciplined, especially by corporal punishment", "S": [], "A": []}

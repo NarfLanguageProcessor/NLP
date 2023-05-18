@@ -1,0 +1,1 @@
+{"index": 194164, "D": "to crumble or cause to crumble, as through decay", "S": [], "A": []}

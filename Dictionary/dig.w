@@ -1,0 +1,1 @@
+{"index": 85377, "D": "to break up, turn over, or remove earth, sand, etc., as with a shovel, spade, bulldozer, or claw; make an excavation.", "S": ["gibe "], "A": ["compliment ", "praise "]}

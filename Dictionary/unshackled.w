@@ -1,0 +1,1 @@
+{"index": 350878, "D": "to free from shackles;  unfetter.", "S": ["immune "], "A": ["hindered ", "prevented "]}

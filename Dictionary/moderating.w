@@ -1,0 +1,1 @@
+{"index": 191072, "D": "kept or keeping within reasonable or proper limits; not extreme, excessive, or intense", "S": ["abstinent ", "ascetic ", "austere ", "continent ", "frugal ", "moderate ", "restrained ", "self-denying ", "self-restrained ", "sober ", "sparing ", "temperate "], "A": ["gluttonous ", "greedy ", "hungry "]}

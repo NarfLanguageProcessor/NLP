@@ -1,0 +1,1 @@
+{"index": 152986, "D": "located near the center or farther in; lying inside.", "S": ["autogenous ", "domestic ", "endogenous ", "gut ", "home ", "in-house ", "inland ", "innermost ", "inside ", "interior ", "internal ", "intimate ", "inward ", "private ", "remote ", "secret ", "visceral ", "viscerous "], "A": []}

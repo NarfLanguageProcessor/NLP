@@ -1,0 +1,1 @@
+{"index": 92095, "D": "to plunge into water or the like; drench", "S": ["soaked "], "A": []}

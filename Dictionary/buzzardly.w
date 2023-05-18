@@ -1,0 +1,1 @@
+{"index": 43801, "D": "any of several broad-winged, soaring hawks of the genus Buteo and allied genera, especially B. buteo, of Europe.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62231, "D": "to think hard; ponder; meditate", "S": ["brainstorm ", "cerebrate ", "conceive ", "consider ", "contemplate ", "deliberate ", "envisage ", "envision ", "figure ", "imagine ", "meditate ", "muse ", "ponder ", "reason ", "reflect ", "ruminate ", "speculate "], "A": ["discard ", "dismiss ", "disregard ", "forget ", "ignore ", "neglect "]}

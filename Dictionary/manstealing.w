@@ -1,0 +1,1 @@
+{"index": 179526, "D": "the act of kidnapping.", "S": [], "A": []}

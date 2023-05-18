@@ -1,0 +1,1 @@
+{"index": 340299, "D": "to determine the identity of (a disease, illness, etc.) by a medical examination", "S": [], "A": []}

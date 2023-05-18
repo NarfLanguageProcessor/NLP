@@ -1,0 +1,1 @@
+{"index": 65960, "D": "characterized by, effecting, or resulting in confiscation.", "S": [], "A": []}

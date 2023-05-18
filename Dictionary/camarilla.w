@@ -1,0 +1,1 @@
+{"index": 45569, "D": "a group of unofficial or private advisers to a person of authority, especially a group much given to intrigues and secret plots; cabal; clique.", "S": ["camp ", "class ", "clique ", "club ", "company ", "crowd ", "fraternity ", "party ", "ring ", "school ", "society "], "A": ["individual "]}

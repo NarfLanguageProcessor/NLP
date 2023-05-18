@@ -1,0 +1,1 @@
+{"index": 75852, "D": "a person who cuts  the throat  of another; a murderer.", "S": ["ferocious ", "vicious "], "A": ["gentle ", "kind "]}

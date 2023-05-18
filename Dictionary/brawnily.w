@@ -1,0 +1,1 @@
+{"index": 40139, "D": "muscular; strong.", "S": [], "A": []}

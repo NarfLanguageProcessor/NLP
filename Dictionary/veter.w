@@ -1,0 +1,1 @@
+{"index": 359145, "D": "veterinary.", "S": ["effective ", "efficient ", "sophisticated "], "A": ["impotent ", "ineffective ", "weak "]}

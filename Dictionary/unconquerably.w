@@ -1,0 +1,1 @@
+{"index": 337664, "D": "impossible to take or subdue by military force", "S": [], "A": []}

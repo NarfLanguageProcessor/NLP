@@ -1,0 +1,1 @@
+{"index": 99654, "D": "German swimmer.", "S": ["antipodal ", "closing ", "concluding ", "crowning ", "curtains ", "determinative ", "end ", "ending ", "extreme ", "far ", "finishing ", "lag ", "latest ", "least ", "terminal ", "ultimate ", "utmost ", "uttermost "], "A": ["beginning ", "middle ", "moderate ", "opening "]}

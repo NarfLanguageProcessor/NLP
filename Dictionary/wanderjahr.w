@@ -1,0 +1,1 @@
+{"index": 362368, "D": "a year or period of travel, especially following one's schooling and before practicing a profession.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 276168, "D": "to convert (starch) into sugar.", "S": [], "A": []}

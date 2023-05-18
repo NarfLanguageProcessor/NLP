@@ -1,0 +1,1 @@
+{"index": 199413, "D": "the views and theories of John Henry Newman  before his conversion to the Roman Catholic Church, in which he held that the Thirty-nine Articles of the Church of England are compatible with Roman Catholicism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 106912, "D": "serving or intended to excuse. ", "S": [], "A": []}

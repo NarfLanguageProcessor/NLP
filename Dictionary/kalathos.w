@@ -1,0 +1,1 @@
+{"index": 162866, "D": "a fruit basket having a conventionalized shape of a lily, often used in ancient art as a symbol of fertility.", "S": [], "A": []}

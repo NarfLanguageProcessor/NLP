@@ -1,0 +1,1 @@
+{"index": 184599, "D": "(of tissues and cells stained for microscopical examination) taking a colour different from that of the dye solution", "S": [], "A": []}

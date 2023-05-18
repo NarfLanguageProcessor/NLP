@@ -1,0 +1,1 @@
+{"index": 157517, "D": "a complex of iodine and a surfactant that releases free iodine in solution, used as an antiseptic and disinfectant.", "S": [], "A": []}

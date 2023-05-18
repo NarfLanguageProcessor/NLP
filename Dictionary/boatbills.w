@@ -1,0 +1,1 @@
+{"index": 36985, "D": "a wading bird, Cochlearius cochlearius, of tropical America, related to the herons, having a broad bill  resembling an inverted boat. ", "S": [], "A": []}

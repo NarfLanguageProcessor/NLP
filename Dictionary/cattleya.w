@@ -1,0 +1,1 @@
+{"index": 49877, "D": "any of several tropical American orchids of the genus Cattleya, having showy flowers ranging from white to purple.", "S": [], "A": []}

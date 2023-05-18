@@ -1,0 +1,1 @@
+{"index": 346258, "D": "not merited or deserved", "S": ["baseless ", "groundless ", "needless ", "superfluous ", "unfounded ", "unjustified ", "unprovoked ", "unwarranted ", "wanton "], "A": ["called-for ", "grounded ", "justified ", "necessary ", "needed ", "proven ", "warranted "]}

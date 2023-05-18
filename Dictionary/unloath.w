@@ -1,0 +1,1 @@
+{"index": 345724, "D": "unwilling; reluctant; disinclined; averse", "S": [], "A": []}

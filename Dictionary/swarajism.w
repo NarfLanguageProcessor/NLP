@@ -1,0 +1,1 @@
+{"index": 314107, "D": "(in India) self-government.", "S": [], "A": []}

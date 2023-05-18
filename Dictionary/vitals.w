@@ -1,0 +1,1 @@
+{"index": 360526, "D": "those bodily organs that are essential to life, as the brain, heart, liver, lungs, and stomach.", "S": ["belly ", "core ", "deep ", "depths ", "entrails ", "guts ", "hold ", "innards ", "interior ", "intestines ", "penetralia ", "recesses ", "viscera "], "A": ["exterior ", "exteriority ", "outside "]}

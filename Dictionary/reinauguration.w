@@ -1,0 +1,1 @@
+{"index": 266183, "D": "an act or ceremony of inaugurating. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 345427, "D": "lacking in vigor or vitality; slack or slow", "S": [], "A": []}

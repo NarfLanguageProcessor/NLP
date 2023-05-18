@@ -1,0 +1,1 @@
+{"index": 182498, "D": "a city in ancient Greece", "S": [], "A": []}

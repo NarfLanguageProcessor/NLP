@@ -1,0 +1,1 @@
+{"index": 332804, "D": "a person who changes to the opposite party or faction, reverses principles, etc.; renegade.", "S": ["defector ", "informer "], "A": ["adherent "]}

@@ -1,0 +1,1 @@
+{"index": 120713, "D": "without a future;  having no prospect of future  betterment or prosperity.", "S": [], "A": []}

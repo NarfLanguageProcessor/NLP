@@ -1,0 +1,1 @@
+{"index": 291143, "D": "the branch of medical science dealing with symptoms.", "S": [], "A": []}

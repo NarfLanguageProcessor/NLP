@@ -1,0 +1,1 @@
+{"index": 321417, "D": "the study of the geographical variation and distribution of temperature.", "S": [], "A": []}

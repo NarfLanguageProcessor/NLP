@@ -1,0 +1,1 @@
+{"index": 228172, "D": "a temporary stop or rest, especially in speech or action", "S": [], "A": []}

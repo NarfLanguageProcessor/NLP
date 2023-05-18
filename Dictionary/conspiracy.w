@@ -1,0 +1,1 @@
+{"index": 66973, "D": "the act of conspiring. ", "S": ["plot ", "scheme ", "sedition ", "treason "], "A": ["faithfulness ", "honesty ", "ignorance ", "loyalty "]}

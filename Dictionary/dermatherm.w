@@ -1,0 +1,1 @@
+{"index": 82144, "D": "an instrument for measuring skin temperature.", "S": [], "A": []}

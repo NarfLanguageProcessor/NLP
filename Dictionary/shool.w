@@ -1,0 +1,1 @@
+{"index": 288768, "D": "a dialect word for shovel", "S": [], "A": []}

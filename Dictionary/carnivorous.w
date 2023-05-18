@@ -1,0 +1,1 @@
+{"index": 48259, "D": "flesh-eating", "S": ["flesh-eating ", "omnivorous ", "predatory ", "rapacious "], "A": ["vegetarian "]}

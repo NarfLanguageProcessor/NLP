@@ -1,0 +1,1 @@
+{"index": 201721, "D": "an animal, plant, or person that produces offspring or reproduces.", "S": [], "A": []}

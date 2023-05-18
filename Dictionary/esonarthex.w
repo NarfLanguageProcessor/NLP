@@ -1,0 +1,1 @@
+{"index": 104323, "D": "an inner narthex. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 119773, "D": "a soft candy made of sugar, butter, milk, chocolate, and sometimes nuts.", "S": ["evade ", "exaggerate ", "falsify ", "overstate "], "A": ["confront ", "face ", "meet ", "simplify "]}

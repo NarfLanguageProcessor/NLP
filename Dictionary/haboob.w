@@ -1,0 +1,1 @@
+{"index": 131819, "D": "a thick dust storm or sandstorm that blows in the deserts of North Africa and Arabia or on the plains of India.", "S": [], "A": []}

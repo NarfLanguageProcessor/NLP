@@ -1,0 +1,1 @@
+{"index": 75767, "D": "attractive, especially in a dainty way; pleasingly pretty", "S": ["adorable ", "beautiful ", "charming ", "delightful ", "pleasant ", "pretty "], "A": ["disgusting ", "hateful ", "offensive ", "repulsive ", "ugly ", "unhappy ", "unpleasant "]}

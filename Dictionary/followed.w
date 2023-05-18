@@ -1,0 +1,1 @@
+{"index": 115991, "D": "to come after in sequence, order of time, etc.", "S": ["chased ", "dogged ", "hounded ", "outlawed ", "stalked ", "tailed ", "tracked ", "trailed ", "wanted "], "A": []}

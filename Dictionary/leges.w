@@ -1,0 +1,1 @@
+{"index": 170081, "D": "plural of lex. ", "S": [], "A": []}

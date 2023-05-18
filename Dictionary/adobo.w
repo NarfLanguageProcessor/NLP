@@ -1,0 +1,1 @@
+{"index": 4266, "D": "a Filipino dish of pork or chicken stewed in a marinade of vinegar, soy sauce, garlic, herbs, and spices; the national dish of the Philippines", "S": [], "A": []}

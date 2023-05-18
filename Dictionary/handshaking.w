@@ -1,0 +1,1 @@
+{"index": 133280, "D": "communication between a computer system and an external device, by which each tells the other that data is ready to be transferred, and that the receiver is ready to accept it", "S": [], "A": []}

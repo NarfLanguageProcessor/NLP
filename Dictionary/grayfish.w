@@ -1,0 +1,1 @@
+{"index": 128628, "D": "a name used in marketing for any of several American sharks, especially the dogfishes of the genus Squalus.", "S": [], "A": []}

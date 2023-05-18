@@ -1,0 +1,1 @@
+{"index": 290626, "D": "coated or plated with silver. ", "S": ["drab ", "dusty ", "grey ", "silvery "], "A": []}

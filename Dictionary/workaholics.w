@@ -1,0 +1,1 @@
+{"index": 367471, "D": "a person who works  compulsively at the expense of other pursuits.", "S": ["factotum ", "grind ", "laborer ", "menial ", "peon ", "plodder ", "servant ", "toiler ", "worker ", "workhorse "], "A": ["idler ", "lazy person "]}

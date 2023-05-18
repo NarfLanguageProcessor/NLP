@@ -1,0 +1,1 @@
+{"index": 48853, "D": "a caddisworm or other insect larva that constructs a case  around its body.", "S": [], "A": []}

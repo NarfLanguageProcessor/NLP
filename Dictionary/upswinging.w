@@ -1,0 +1,1 @@
+{"index": 355140, "D": "an upward swing  or swinging  movement, as of a pendulum.", "S": [], "A": []}

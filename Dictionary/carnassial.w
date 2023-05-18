@@ -1,0 +1,1 @@
+{"index": 48202, "D": "(of teeth) adapted for shearing flesh.", "S": ["bicuspid ", "cuspid ", "eyetooth ", "fang ", "incisor ", "ivory ", "molar ", "premolar ", "tusk "], "A": []}

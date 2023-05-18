@@ -1,0 +1,1 @@
+{"index": 151328, "D": "not ductile;  not pliable or yielding.", "S": ["inextensible ", "inflexible ", "rigid ", "stable ", "stiff ", "unadaptable ", "unbending ", "unyielding "], "A": ["elastic "]}

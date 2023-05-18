@@ -1,0 +1,1 @@
+{"index": 23529, "D": "a radiance surrounding the head or the whole figure in the representation of a sacred personage.", "S": ["aura ", "aureole ", "aurora ", "corona ", "glory ", "nimbus ", "radiance "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20856, "D": "a perennial evergreen Eurasian plant, Asarum europaeum, having kidney-shaped leaves and a single brownish flower", "S": [], "A": []}

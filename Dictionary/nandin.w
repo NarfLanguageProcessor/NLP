@@ -1,0 +1,1 @@
+{"index": 196721, "D": "a Chinese and Japanese evergreen shrub, Nandina domestica, of the barberry family, having pinnate leaves and bright red berries, cultivated as an ornamental.", "S": [], "A": []}

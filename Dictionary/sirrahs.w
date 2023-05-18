@@ -1,0 +1,1 @@
+{"index": 292428, "D": "a term of address used to inferiors or children to express impatience, contempt, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201900, "D": "pertaining to, constituting, or indicating the character  or peculiar quality of a person or thing; typical; distinctive", "S": [], "A": []}

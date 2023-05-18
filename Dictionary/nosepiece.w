@@ -1,0 +1,1 @@
+{"index": 208703, "D": "the part of a frame for eyeglasses that passes over the bridge of the nose. ", "S": [], "A": []}

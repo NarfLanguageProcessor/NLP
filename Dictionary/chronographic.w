@@ -1,0 +1,1 @@
+{"index": 56443, "D": "a timepiece fitted with a recording device, as a stylus and rotating drum, used to mark the exact instant of an occurrence, especially in astronomy.", "S": ["historical ", "sequential "], "A": []}

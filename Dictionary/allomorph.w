@@ -1,0 +1,1 @@
+{"index": 8879, "D": "any of two or more different forms of the same chemical compound.", "S": [], "A": []}

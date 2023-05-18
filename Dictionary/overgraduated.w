@@ -1,0 +1,1 @@
+{"index": 219585, "D": "characterized by or arranged in degrees, especially successively, as according to height, depth, or difficulty", "S": [], "A": []}

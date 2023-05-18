@@ -1,0 +1,1 @@
+{"index": 131834, "D": "a diacritic (\u02c7) placed over a letter in some languages, as Czech and Lithuanian, and in some systems of phonetic transcription, especially to indicate that a sound is palatalized.", "S": [], "A": []}

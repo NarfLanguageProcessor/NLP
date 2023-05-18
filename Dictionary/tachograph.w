@@ -1,0 +1,1 @@
+{"index": 315048, "D": "a recording tachometer.", "S": [], "A": []}

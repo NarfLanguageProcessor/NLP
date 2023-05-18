@@ -1,0 +1,1 @@
+{"index": 198313, "D": "belonging or pertaining to a revival of classic  styles or something that is held to resemble classic  styles, as in art, literature, music, or architecture.", "S": [], "A": []}

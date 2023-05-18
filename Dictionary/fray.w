@@ -1,0 +1,1 @@
+{"index": 118243, "D": "a fight, battle, or skirmish.", "S": ["fracas ", "melee "], "A": ["peace ", "accord ", "agreement ", "calm ", "quiet ", "surrender ", "tranquility ", "truce "]}

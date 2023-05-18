@@ -1,0 +1,1 @@
+{"index": 152838, "D": "a substance injected  through the skin, as bee-sting venom or penicillin administered by injection,  that causes an allergic reaction.", "S": [], "A": []}

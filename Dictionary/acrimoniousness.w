@@ -1,0 +1,1 @@
+{"index": 2845, "D": "caustic, stinging, or bitter in nature, speech, behavior, etc.", "S": ["irritability ", "rancor ", "rudeness ", "sarcasm "], "A": ["kindness ", "mellowness ", "mildness ", "sweetness "]}

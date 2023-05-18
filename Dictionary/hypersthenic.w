@@ -1,0 +1,1 @@
+{"index": 140529, "D": "a dark iron magnesium silicate, an orthorhombic pyroxene containing more than 14 percent ferrous oxide.", "S": [], "A": []}

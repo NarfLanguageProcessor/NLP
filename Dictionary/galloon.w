@@ -1,0 +1,1 @@
+{"index": 121447, "D": "a braid or trimming of worsted, silk or rayon tinsel, gold or silver, etc., usually having scalloping along both edges.", "S": [], "A": []}

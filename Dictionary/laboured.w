@@ -1,0 +1,1 @@
+{"index": 166770, "D": "(of breathing) performed with difficulty", "S": [], "A": []}

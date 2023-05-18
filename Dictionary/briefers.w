@@ -1,0 +1,1 @@
+{"index": 40719, "D": "lasting or taking a short time; of short duration", "S": [], "A": []}

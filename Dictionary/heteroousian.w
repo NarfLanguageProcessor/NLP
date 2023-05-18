@@ -1,0 +1,1 @@
+{"index": 137685, "D": "a person who believes the Father and the Son to be unlike in substance or essence; an Arian (opposed to Homoousian).", "S": [], "A": []}

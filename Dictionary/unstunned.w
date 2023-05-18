@@ -1,0 +1,1 @@
+{"index": 352219, "D": "deprived of consciousness or strength", "S": [], "A": []}

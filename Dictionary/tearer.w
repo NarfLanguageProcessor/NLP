@@ -1,0 +1,1 @@
+{"index": 317520, "D": "a drop of the saline, watery fluid continually secreted by the lacrimal glands between the surface of the eye and the eyelid, serving to moisten and lubricate these parts and keep them clear of foreign particles.", "S": [], "A": []}

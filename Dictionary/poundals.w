@@ -1,0 +1,1 @@
+{"index": 244913, "D": "the foot-pound-second unit of force, equal to the force that produces an acceleration of one foot per second per second on a mass of one pound. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 245717, "D": "(especially of surgery) noting that period of time before the adoption of the principles of antisepsis (about 1867).", "S": [], "A": []}

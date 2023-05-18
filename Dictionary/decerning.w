@@ -1,0 +1,1 @@
+{"index": 78268, "D": "to enter a judicial decree.", "S": [], "A": []}

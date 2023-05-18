@@ -1,0 +1,1 @@
+{"index": 337572, "D": "trustful; credulous or unsuspicious", "S": [], "A": []}

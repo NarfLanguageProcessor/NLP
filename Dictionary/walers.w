@@ -1,0 +1,1 @@
+{"index": 362180, "D": "a horse bred in New South Wales, Australia, as a military saddle horse and exported in numbers during the 19th century to British India.", "S": [], "A": []}

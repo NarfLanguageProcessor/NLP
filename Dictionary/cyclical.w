@@ -1,0 +1,1 @@
+{"index": 57103, "D": "cyclic. ", "S": ["periodic ", "repetitive ", "seasonal "], "A": []}

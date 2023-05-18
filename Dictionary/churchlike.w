@@ -1,0 +1,1 @@
+{"index": 56695, "D": "resembling or appropriate to a church", "S": ["churchy ", "ecclesiastic ", "ecclesiastical ", "holy ", "religious "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 103989, "D": "the simple past tense and past participle of err. ", "S": ["misbehave ", "miscalculate ", "stray ", "stumble "], "A": ["behave ", "obey ", "stay ", "understand "]}

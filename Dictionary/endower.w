@@ -1,0 +1,1 @@
+{"index": 100055, "D": "to provide with a permanent fund or source of income", "S": [], "A": []}

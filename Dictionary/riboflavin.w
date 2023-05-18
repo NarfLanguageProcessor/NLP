@@ -1,0 +1,1 @@
+{"index": 272466, "D": "a vitamin B complex factor appearing as an orange-yellow, crystalline compound, C17H20N4O6, derived from ribose,  essential for growth, found in milk, fresh meat, eggs, leafy vegetables, etc., or made synthetically, and used in enriching flour, in vitamin preparations, and in treating facial lesions.", "S": [], "A": []}

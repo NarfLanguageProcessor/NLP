@@ -1,0 +1,1 @@
+{"index": 70204, "D": "costing  much; expensive; high in price", "S": ["excess ", "excessiveness ", "luxury "], "A": ["economy ", "frugality "]}

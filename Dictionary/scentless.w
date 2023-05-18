@@ -1,0 +1,1 @@
+{"index": 279992, "D": "a distinctive odor, especially when agreeable", "S": ["inodorous "], "A": ["aromatic ", "odorous ", "perfumed ", "scented ", "smelly "]}

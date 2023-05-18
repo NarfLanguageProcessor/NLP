@@ -1,0 +1,1 @@
+{"index": 97607, "D": "a person appointed by a court to perform the duties of a sheriff or coroner who is disqualified from acting in a certain case.", "S": [], "A": []}

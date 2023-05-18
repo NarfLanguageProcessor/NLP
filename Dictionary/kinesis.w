@@ -1,0 +1,1 @@
+{"index": 164828, "D": "the movement of an organism in response to a stimulus, as light.", "S": [], "A": []}

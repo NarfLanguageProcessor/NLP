@@ -1,0 +1,1 @@
+{"index": 503, "D": "utterly hopeless, miserable, humiliating, or wretched", "S": ["apologetically "], "A": ["boastfully ", "haughtily ", "proudly "]}

@@ -1,0 +1,1 @@
+{"index": 335728, "D": "to envy or resent the pleasure or good fortune of (someone)", "S": [], "A": []}

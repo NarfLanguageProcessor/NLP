@@ -1,0 +1,1 @@
+{"index": 129688, "D": "having a tinge of gray;  slightly gray", "S": ["ashy ", "blanched ", "bloodless ", "colorless ", "discolored ", "dusky ", "gloomy ", "grisly ", "leaden ", "lurid ", "murky ", "pallid ", "pasty ", "wan ", "waxen "], "A": ["blushing ", "brilliant ", "cheerful ", "flushed ", "happy ", "radiant ", "rosy "]}

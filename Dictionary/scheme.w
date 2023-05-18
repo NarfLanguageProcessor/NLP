@@ -1,0 +1,1 @@
+{"index": 280104, "D": "a plan, design, or program of action to be followed; project. ", "S": ["arrangement ", "blueprint ", "design ", "device ", "game plan ", "pattern ", "plan ", "program ", "project ", "proposal ", "strategy ", "system ", "theory "], "A": ["disorder ", "disorganization "]}

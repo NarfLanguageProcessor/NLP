@@ -1,0 +1,1 @@
+{"index": 214583, "D": "the traditional Japanese art or technique of folding paper into a variety of decorative or representational forms, as of animals or flowers.", "S": [], "A": []}

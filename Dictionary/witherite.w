@@ -1,0 +1,1 @@
+{"index": 366616, "D": "a white to grayish mineral, barium carbonate, BaCO3, occurring in crystals and masses", "S": [], "A": []}

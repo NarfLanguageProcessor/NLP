@@ -1,0 +1,1 @@
+{"index": 314372, "D": "(of the leading edge of an airfoil) forming a markedly obtuse angle with the fuselage.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342705, "D": "ornamented or provided with frets", "S": [], "A": []}

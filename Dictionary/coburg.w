@@ -1,0 +1,1 @@
+{"index": 61256, "D": "a piece-dyed or printed twill dress fabric or lining cloth.", "S": [], "A": []}

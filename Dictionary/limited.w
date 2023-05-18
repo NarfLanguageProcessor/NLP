@@ -1,0 +1,1 @@
+{"index": 172398, "D": "confined within limits; restricted or circumscribed", "S": ["defined ", "finite ", "narrow "], "A": ["unrestricted ", "extroverted ", "free ", "general ", "indefinite ", "outgoing ", "unbounded ", "unlimited "]}

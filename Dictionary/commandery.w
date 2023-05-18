@@ -1,0 +1,1 @@
+{"index": 63879, "D": "the office or rank of a commander.", "S": [], "A": []}

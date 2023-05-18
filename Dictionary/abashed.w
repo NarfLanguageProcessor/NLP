@@ -1,0 +1,1 @@
+{"index": 124, "D": "ashamed or embarrassed; disconcerted", "S": ["bewildered ", "bugged ", "chagrined ", "confounded ", "confused ", "crushed ", "discombobulated ", "disconcerted ", "embarrassed ", "fazed ", "fuddled ", "humbled ", "humiliated ", "mortified ", "rattled ", "shamed "], "A": ["clear ", "oriented ", "understanding "]}

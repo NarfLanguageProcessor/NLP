@@ -1,0 +1,1 @@
+{"index": 260528, "D": "the act or process of ordering or selecting people, things, or places in a random way, as in a sample or experiment, especially in order to reduce bias and interference by irrelevant variables", "S": [], "A": []}

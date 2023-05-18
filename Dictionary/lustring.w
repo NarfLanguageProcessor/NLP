@@ -1,0 +1,1 @@
+{"index": 176439, "D": "a glossy silk cloth, formerly used for clothing, upholstery, etc", "S": [], "A": []}

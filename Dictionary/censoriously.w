@@ -1,0 +1,1 @@
+{"index": 50768, "D": "severely critical; faultfinding; carping.", "S": [], "A": []}

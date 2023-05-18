@@ -1,0 +1,1 @@
+{"index": 351794, "D": "a thin piece of wood or other rigid material used to immobilize a fractured or dislocated bone, or to maintain any part of the body in a fixed position.", "S": [], "A": []}

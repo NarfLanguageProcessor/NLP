@@ -1,0 +1,1 @@
+{"index": 185796, "D": "any of the rod-shaped Gram-positive bacteria of the genus Mycobacterium, some of which cause human diseases, such as tuberculosis and leprosy", "S": [], "A": []}

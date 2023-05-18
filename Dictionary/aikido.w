@@ -1,0 +1,1 @@
+{"index": 6754, "D": "a Japanese form of self-defense utilizing wrist, joint, and elbow grips to immobilize or throw one's opponent.", "S": ["judo ", "karate ", "wrestling "], "A": []}

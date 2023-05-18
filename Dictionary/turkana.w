@@ -1,0 +1,1 @@
+{"index": 332723, "D": "a member of a seminomadic people of northwestern Kenya and bordering areas of Uganda.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 251135, "D": "of or relating to a prokaryote,  a cellular organism that has no nuclear membrane and no organelles in the cytoplasm except ribosomes", "S": [], "A": []}

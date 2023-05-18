@@ -1,0 +1,1 @@
+{"index": 341988, "D": "not familiar;  not acquainted with or conversant about", "S": ["abnormally ", "amazingly ", "curiously ", "peculiarly ", "rarely ", "remarkably ", "startlingly ", "strikingly ", "surprisingly ", "uncommonly ", "uniquely ", "unusually "], "A": ["frequently "]}

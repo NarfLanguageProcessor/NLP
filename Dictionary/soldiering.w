@@ -1,0 +1,1 @@
+{"index": 296571, "D": "the activity or career of a person who soldiers. ", "S": [], "A": []}

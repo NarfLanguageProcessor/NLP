@@ -1,0 +1,1 @@
+{"index": 190288, "D": "to perplex, puzzle, or baffle; defy the understanding of", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294769, "D": [], "S": ["peripheral ", "shallow ", "sketchy ", "warped "], "A": []}

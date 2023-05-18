@@ -1,0 +1,1 @@
+{"index": 46428, "D": "careful; cautious; prudent", "S": ["greedily ", "illiberally ", "meanly ", "miserly ", "parsimoniously ", "stingily ", "ungenerously "], "A": []}

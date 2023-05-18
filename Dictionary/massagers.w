@@ -1,0 +1,1 @@
+{"index": 180764, "D": "the act or art of treating the body by rubbing, kneading, patting, or the like, to stimulate circulation, increase suppleness, relieve tension, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 57237, "D": "(especially in Vietnam) cycle rickshaw. ", "S": [], "A": []}

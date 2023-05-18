@@ -1,0 +1,1 @@
+{"index": 283970, "D": "a person who conforms,  especially unquestioningly, to the usual practices or standards of a group, society, etc.", "S": [], "A": []}

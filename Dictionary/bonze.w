@@ -1,0 +1,1 @@
+{"index": 37985, "D": "a Buddhist monk, especially of Japan or China.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366015, "D": "to look at articles in the windows of stores without making any purchases.", "S": [], "A": []}

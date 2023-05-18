@@ -1,0 +1,1 @@
+{"index": 128997, "D": "to form into granules  or grains.", "S": ["atomize ", "comminute ", "crumble ", "crystallize ", "disintegrate ", "grate ", "grind ", "pound ", "powder ", "pulverize "], "A": ["build "]}

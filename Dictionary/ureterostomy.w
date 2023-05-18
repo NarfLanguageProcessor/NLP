@@ -1,0 +1,1 @@
+{"index": 355543, "D": "the construction of an artificial opening from the ureter  through the abdominal wall or the flanks, permitting the passage of urine.", "S": [], "A": []}

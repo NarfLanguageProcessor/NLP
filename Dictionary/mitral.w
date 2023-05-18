@@ -1,0 +1,1 @@
+{"index": 190647, "D": "of or resembling a miter. ", "S": [], "A": []}

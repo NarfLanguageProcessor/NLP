@@ -1,0 +1,1 @@
+{"index": 342489, "D": "food for horses or cattle; fodder; provender. ", "S": [], "A": []}

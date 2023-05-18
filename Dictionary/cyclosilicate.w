@@ -1,0 +1,1 @@
+{"index": 57242, "D": "any silicate  in which the SiO4 tetrahedra are linked to form rings.", "S": [], "A": []}

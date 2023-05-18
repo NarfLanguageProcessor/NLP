@@ -1,0 +1,1 @@
+{"index": 81694, "D": "to deprive of feathers; pluck.", "S": [], "A": []}

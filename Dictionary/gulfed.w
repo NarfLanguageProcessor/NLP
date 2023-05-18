@@ -1,0 +1,1 @@
+{"index": 131177, "D": "a portion of an ocean or sea partly enclosed by land.", "S": [], "A": []}

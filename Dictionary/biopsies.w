@@ -1,0 +1,1 @@
+{"index": 34507, "D": "the removal for diagnostic study of a piece of tissue from a living body.", "S": ["autopsy ", "inquiry ", "observation ", "probe ", "test "], "A": []}

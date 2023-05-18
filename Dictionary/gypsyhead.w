@@ -1,0 +1,1 @@
+{"index": 125406, "D": "a flanged drum on a winch, for winding in lines.", "S": [], "A": []}

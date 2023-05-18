@@ -1,0 +1,1 @@
+{"index": 66410, "D": "either of two organisms participating in the process of conjugation.", "S": [], "A": []}

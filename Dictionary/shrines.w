@@ -1,0 +1,1 @@
+{"index": 289228, "D": "a building or other shelter, often of a stately or sumptuous character, enclosing the remains or relics of a saint or other holy person and forming an object of religious veneration and pilgrimage.", "S": ["altar ", "chapel ", "church ", "holy place ", "mausoleum ", "sanctuary ", "temple "], "A": []}

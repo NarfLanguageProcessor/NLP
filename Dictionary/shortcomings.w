@@ -1,0 +1,1 @@
+{"index": 288910, "D": "a failure, defect, or deficiency in conduct, condition, thought, ability, etc.", "S": ["defect ", "deficiency ", "drawback ", "failing ", "fault ", "flaw ", "frailty ", "imperfection ", "lack ", "lapse ", "sin ", "weakness "], "A": ["advantage ", "benefit ", "enough ", "extra ", "perfection ", "plenty ", "strength ", "strong point "]}

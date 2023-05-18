@@ -1,0 +1,1 @@
+{"index": 292416, "D": "an island in the Aegean Sea, off the SE coast of Greece, the largest island in the Cyclades group. 32 sq. mi. (84 sq. km).", "S": [], "A": []}

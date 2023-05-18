@@ -1,0 +1,1 @@
+{"index": 155686, "D": "to place between; cause to intervene", "S": ["intrusive ", "meddling ", "nosy ", "pushy "], "A": ["avoiding ", "dodging ", "ignorant "]}

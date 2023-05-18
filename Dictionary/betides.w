@@ -1,0 +1,1 @@
+{"index": 32755, "D": "to happen to; come to; befall", "S": ["become ", "befall ", "befit ", "chance ", "fall ", "happen ", "occur ", "presage ", "transpire "], "A": []}

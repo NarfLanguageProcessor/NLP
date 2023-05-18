@@ -1,0 +1,1 @@
+{"index": 231604, "D": "that can be permitted;  allowable", "S": ["authority ", "justice ", "legitimacy ", "licitness ", "right ", "validity "], "A": ["injustice ", "unfairness "]}

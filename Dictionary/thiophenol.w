@@ -1,0 +1,1 @@
+{"index": 322009, "D": "a colorless, foul-smelling liquid, C6H6S, used chiefly in organic synthesis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189989, "D": "to fail to hit or strike", "S": [], "A": []}

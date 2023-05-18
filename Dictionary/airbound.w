@@ -1,0 +1,1 @@
+{"index": 6852, "D": "stopped up by air.", "S": [], "A": []}

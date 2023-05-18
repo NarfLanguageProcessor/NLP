@@ -1,0 +1,1 @@
+{"index": 250697, "D": "the art, process, or business of producing books, newspapers, etc., by impression from movable types, plates, etc.", "S": ["composition ", "typography "], "A": []}

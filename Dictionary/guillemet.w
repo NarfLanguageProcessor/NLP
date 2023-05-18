@@ -1,0 +1,1 @@
+{"index": 131086, "D": "one of two marks \u00ab or \u00bb used in French, Italian, and Russian printing to enclose quotations.", "S": [], "A": []}

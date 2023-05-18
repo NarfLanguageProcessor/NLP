@@ -1,0 +1,1 @@
+{"index": 103501, "D": "the doctrine, advocated by Thomas Erastus, of the supremacy of the state over the church in ecclesiastical matters.", "S": [], "A": []}

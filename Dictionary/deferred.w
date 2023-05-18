@@ -1,0 +1,1 @@
+{"index": 79240, "D": "postponed or delayed.", "S": ["delayed ", "negotiated ", "postponed "], "A": ["advanced ", "forwarded ", "furthered ", "hastened ", "hurried "]}

@@ -1,0 +1,1 @@
+{"index": 360639, "D": "act or process of vitrifying;  state of being vitrified. ", "S": [], "A": []}

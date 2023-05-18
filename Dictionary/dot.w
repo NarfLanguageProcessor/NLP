@@ -1,0 +1,1 @@
+{"index": 91878, "D": "a small, roundish mark made with or as if with a pen.", "S": ["dab ", "droplet ", "fleck ", "speck "], "A": []}

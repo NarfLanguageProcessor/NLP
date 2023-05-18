@@ -1,0 +1,1 @@
+{"index": 265470, "D": "to decline to accept (something offered)", "S": ["debris ", "rubbish ", "trash ", "waste "], "A": ["possessions ", "sense ", "cleanliness "]}

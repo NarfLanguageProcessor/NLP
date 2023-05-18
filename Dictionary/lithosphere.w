@@ -1,0 +1,1 @@
+{"index": 173777, "D": "the solid portion of the earth (distinguished from atmosphere, hydrosphere).", "S": [], "A": []}

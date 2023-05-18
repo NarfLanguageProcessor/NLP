@@ -1,0 +1,1 @@
+{"index": 280190, "D": "fibrosis of the lungs caused by inhaling dust from slate.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 59670, "D": "having clear or sharp eyesight.", "S": ["acumen ", "astuteness ", "discrimination ", "insightfulness ", "judgment ", "keenness ", "perceptiveness ", "percipience ", "percipiency ", "perspicaciousness ", "perspicacity ", "sagaciousness ", "sagacity ", "sageness ", "shrewdness "], "A": []}

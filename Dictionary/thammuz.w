@@ -1,0 +1,1 @@
+{"index": 320549, "D": "a variant spelling of Tammuz", "S": [], "A": []}

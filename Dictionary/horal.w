@@ -1,0 +1,1 @@
+{"index": 143753, "D": "of or relating to an hour or hours; hourly.", "S": [], "A": []}

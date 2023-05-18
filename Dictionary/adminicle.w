@@ -1,0 +1,1 @@
+{"index": 4128, "D": "an aid; auxiliary. ", "S": [], "A": []}

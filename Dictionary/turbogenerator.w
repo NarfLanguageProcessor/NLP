@@ -1,0 +1,1 @@
+{"index": 332624, "D": "a large electrical generator driven by a steam turbine", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196383, "D": "a firearm that is loaded through the muzzle. ", "S": [], "A": []}

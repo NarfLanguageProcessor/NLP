@@ -1,0 +1,1 @@
+{"index": 134926, "D": "made hot or hotter; warmed.", "S": [], "A": []}

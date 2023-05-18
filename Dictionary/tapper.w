@@ -1,0 +1,1 @@
+{"index": 316417, "D": "a person or thing that taps  or strikes lightly.", "S": [], "A": []}

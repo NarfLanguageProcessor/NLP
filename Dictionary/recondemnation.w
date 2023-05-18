@@ -1,0 +1,1 @@
+{"index": 263282, "D": "the act of condemning. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160197, "D": "an outdoor privy; outhouse.", "S": ["acceptable ", "excellent ", "exceptional ", "favorable ", "great ", "marvelous ", "positive ", "satisfactory ", "satisfying ", "superb ", "valuable ", "wonderful "], "A": ["OK ", "unacceptable ", "unsatisfactory "]}

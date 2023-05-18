@@ -1,0 +1,1 @@
+{"index": 321412, "D": "the production of heat, especially in an animal body by physiological processes.", "S": ["ignition "], "A": ["calm ", "order ", "peace "]}

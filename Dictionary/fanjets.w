@@ -1,0 +1,1 @@
+{"index": 109737, "D": "a jet engine having a large impeller that takes in air, which is used partly for the combustion of fuel and partly as exhaust.", "S": ["pulsejet ", "ramjet ", "reaction engine ", "rocket ", "rocket motor ", "turbofan ", "turbojet ", "turboprop "], "A": []}

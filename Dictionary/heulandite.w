@@ -1,0 +1,1 @@
+{"index": 137848, "D": "a white or transparent, colorless mineral of the zeolite family, hydrous calcium aluminum silicate, CaAl2Si7O18\u22c56H2O, occurring in basic volcanic rocks in the form of crystals with a pearly luster.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 243762, "D": "piece of shit (a euphemistic initialism used to avoid explicit vulgarity). See shit (def. 23). ", "S": ["PO ", "collection ", "delivery ", "mail "], "A": []}

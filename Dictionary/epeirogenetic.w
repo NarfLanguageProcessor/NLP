@@ -1,0 +1,1 @@
+{"index": 102056, "D": "vertical or tilting movement of the earth's crust, generally affecting broad areas of a continent.", "S": [], "A": []}

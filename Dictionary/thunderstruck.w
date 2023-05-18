@@ -1,0 +1,1 @@
+{"index": 323051, "D": "overcome with consternation; confounded; astounded", "S": ["agape ", "aghast ", "astounded ", "awestruck ", "bowled over ", "confounded ", "dazed ", "dismayed ", "dumbfounded ", "flabbergasted ", "floored ", "overwhelmed ", "petrified ", "shocked ", "staggered ", "startled ", "stunned "], "A": []}

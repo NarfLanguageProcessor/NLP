@@ -1,0 +1,1 @@
+{"index": 341262, "D": "to invest or endow with some gift, quality, or faculty.", "S": [], "A": []}

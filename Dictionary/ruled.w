@@ -1,0 +1,1 @@
+{"index": 275460, "D": "a principle or regulation governing conduct, action, procedure, arrangement, etc.", "S": ["controlled "], "A": []}

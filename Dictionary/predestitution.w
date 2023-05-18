@@ -1,0 +1,1 @@
+{"index": 246859, "D": "lack of the means of subsistence; utter poverty.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55801, "D": "a combining form meaning \u201cchorion,\u201d \u201cchoroid,\u201d used in the formation of compound words", "S": [], "A": []}

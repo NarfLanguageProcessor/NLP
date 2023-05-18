@@ -1,0 +1,1 @@
+{"index": 87767, "D": [], "S": ["absolve ", "clear ", "discharge ", "exonerate ", "free ", "let go ", "vindicate "], "A": ["accuse ", "blame ", "charge ", "condemn ", "convict ", "hold ", "incarcerate ", "incriminate ", "punish ", "sentence ", "keep ", "limit ", "restrain "]}

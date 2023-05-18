@@ -1,0 +1,1 @@
+{"index": 127360, "D": "a minor god, especially one whose influence or authority is entirely local.", "S": [], "A": []}

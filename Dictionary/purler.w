@@ -1,0 +1,1 @@
+{"index": 256987, "D": "a headlong or spectacular fall (esp in the phrase come a purler)", "S": [], "A": []}

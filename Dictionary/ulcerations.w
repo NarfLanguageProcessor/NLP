@@ -1,0 +1,1 @@
+{"index": 333732, "D": "to form an ulcer;  become ulcerous", "S": ["discharge ", "infection ", "maturation ", "purulence ", "pus ", "suppuration "], "A": []}

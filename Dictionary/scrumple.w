@@ -1,0 +1,1 @@
+{"index": 282058, "D": "to crumple or crush (something, esp a piece of paper) or (esp of a piece of paper) to become crumpled or crushed", "S": [], "A": []}

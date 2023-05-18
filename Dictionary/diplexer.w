@@ -1,0 +1,1 @@
+{"index": 86516, "D": "a device that can split and combine audio and video signals, permitting two transmitters to share the same antenna.", "S": [], "A": []}

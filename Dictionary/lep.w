@@ -1,0 +1,1 @@
+{"index": 170571, "D": "large electron-positron collider.", "S": [], "A": []}

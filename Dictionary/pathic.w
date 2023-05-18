@@ -1,0 +1,1 @@
+{"index": 227704, "D": "a combining form occurring in adjectives that correspond to nouns ending in -pathy", "S": [], "A": []}

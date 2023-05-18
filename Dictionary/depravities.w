@@ -1,0 +1,1 @@
+{"index": 81804, "D": "the state of being depraved. ", "S": ["criminality ", "degradation ", "wickedness "], "A": ["good ", "goodness ", "morality ", "virtue "]}

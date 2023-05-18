@@ -1,0 +1,1 @@
+{"index": 352546, "D": "kept in process or continued over time; continuous", "S": ["abbreviated ", "brief ", "crisp ", "precise ", "shortened ", "terse "], "A": ["enduring ", "lasting ", "lengthy ", "long "]}

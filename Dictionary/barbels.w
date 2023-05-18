@@ -1,0 +1,1 @@
+{"index": 27767, "D": "a slender, external process on the jaw or other part of the head of certain fishes.", "S": ["antenna ", "claw ", "finger ", "hand ", "tentacle ", "vibrissa ", "whisker "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 331117, "D": "an assemblage of persons or things; company; band.", "S": ["armed forces ", "army ", "contingent ", "crew ", "delegation ", "gang ", "military ", "party ", "servicemen ", "squad ", "team ", "unit "], "A": ["individual ", "one "]}

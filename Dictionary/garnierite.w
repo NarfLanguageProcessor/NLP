@@ -1,0 +1,1 @@
+{"index": 122221, "D": "a mineral, hydrous nickel magnesium silicate, occurring in earthy, green masses", "S": [], "A": []}

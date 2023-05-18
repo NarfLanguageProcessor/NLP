@@ -1,0 +1,1 @@
+{"index": 283360, "D": [], "S": ["distinctiveness ", "eccentricity ", "humor ", "identity ", "idiosyncrasy ", "individualism ", "oneness ", "originality ", "temperament ", "uniqueness ", "unity "], "A": ["likeness ", "normality ", "sameness ", "similarity ", "usualness "]}

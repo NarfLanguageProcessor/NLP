@@ -1,0 +1,1 @@
+{"index": 358592, "D": "any wormlike movement, esp of the intestines; peristalsis", "S": [], "A": []}

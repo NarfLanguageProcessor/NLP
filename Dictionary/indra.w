@@ -1,0 +1,1 @@
+{"index": 151287, "D": "the chief of the Vedic gods, the god of rain and thunder.", "S": [], "A": []}

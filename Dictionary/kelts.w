@@ -1,0 +1,1 @@
+{"index": 163764, "D": "a salmon that has spawned.", "S": [], "A": []}

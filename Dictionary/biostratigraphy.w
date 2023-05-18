@@ -1,0 +1,1 @@
+{"index": 34561, "D": "a branch of geology dealing with the differentiation of sedimentary rock units on the basis of the fossils they contain.", "S": [], "A": []}

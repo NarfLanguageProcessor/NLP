@@ -1,0 +1,1 @@
+{"index": 108761, "D": "an outgoing, gregarious person who thrives in dynamic environments and seeks to maximize social engagement.", "S": ["character ", "exhibitionist ", "show-off ", "showboat "], "A": ["introvert "]}

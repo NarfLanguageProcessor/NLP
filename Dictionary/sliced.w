@@ -1,0 +1,1 @@
+{"index": 294000, "D": "a thin, flat piece cut from something", "S": ["chiseled ", "engraved ", "sculpted ", "sculptured "], "A": []}

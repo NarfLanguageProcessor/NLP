@@ -1,0 +1,1 @@
+{"index": 228562, "D": "sinning; guilty of a moral offense.", "S": [], "A": []}

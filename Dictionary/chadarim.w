@@ -1,0 +1,1 @@
+{"index": 51862, "D": "plural of cheder. ", "S": [], "A": []}

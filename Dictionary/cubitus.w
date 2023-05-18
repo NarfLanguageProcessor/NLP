@@ -1,0 +1,1 @@
+{"index": 74496, "D": "a longitudinal vein in the rear portion of the wing of an insect.", "S": [], "A": []}

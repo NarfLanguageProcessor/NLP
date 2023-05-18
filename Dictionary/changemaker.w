@@ -1,0 +1,1 @@
+{"index": 52488, "D": "a person or thing that changes  bills or coins for ones of smaller denominations.", "S": [], "A": []}

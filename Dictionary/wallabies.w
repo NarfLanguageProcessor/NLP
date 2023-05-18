@@ -1,0 +1,1 @@
+{"index": 362225, "D": "any of various small and medium-sized kangaroos of the genera Macropus, Thylogale, Petrogale, etc., some of which are no larger than rabbits", "S": ["bandicoot ", "euro ", "kangaroo ", "koala ", "opossum ", "possum ", "wombat "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201510, "D": "the act or process of assimilating,  or of absorbing information, experiences, etc.", "S": [], "A": []}

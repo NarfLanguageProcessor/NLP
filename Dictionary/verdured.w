@@ -1,0 +1,1 @@
+{"index": 358465, "D": "greenness, especially of fresh, flourishing vegetation.", "S": [], "A": []}

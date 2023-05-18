@@ -1,0 +1,1 @@
+{"index": 184290, "D": "the level of maximum temperature in the mesophere, at an altitude of about 30 miles (48 km).", "S": [], "A": []}

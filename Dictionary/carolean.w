@@ -1,0 +1,1 @@
+{"index": 48285, "D": "characteristic of the time of Charles I  and II of England", "S": [], "A": []}

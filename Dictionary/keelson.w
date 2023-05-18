@@ -1,0 +1,1 @@
+{"index": 163565, "D": "any of various fore-and-aft structural members lying above or parallel to the keel in the bottom of a hull.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 31631, "D": "kind, especially to inferiors; gracious", "S": ["amiably ", "attentively ", "cordially ", "gently ", "graciously ", "kindly ", "respectfully ", "tactfully "], "A": []}

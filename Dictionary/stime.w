@@ -1,0 +1,1 @@
+{"index": 304610, "D": "the smallest bit; a drop, taste, or glimpse.", "S": [], "A": []}

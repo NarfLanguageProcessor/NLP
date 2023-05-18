@@ -1,0 +1,1 @@
+{"index": 236282, "D": "a representation of the Virgin Mary mourning over the body of the dead Christ, usually shown held on her lap.", "S": [], "A": []}

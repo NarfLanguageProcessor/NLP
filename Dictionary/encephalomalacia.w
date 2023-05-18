@@ -1,0 +1,1 @@
+{"index": 99206, "D": "a softness or degeneration of brain tissue, as caused by impairment of the blood supply; softening of the brain.", "S": [], "A": []}

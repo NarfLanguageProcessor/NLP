@@ -1,0 +1,1 @@
+{"index": 11299, "D": "capable of functioning either as an acid or as a base.", "S": [], "A": []}

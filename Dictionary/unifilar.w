@@ -1,0 +1,1 @@
+{"index": 344117, "D": "having or involving only one thread, wire, or the like.", "S": [], "A": []}

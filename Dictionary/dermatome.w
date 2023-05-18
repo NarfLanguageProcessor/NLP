@@ -1,0 +1,1 @@
+{"index": 82175, "D": "an area of skin that is supplied with the nerve fibers of a single, posterior, spinal root.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365250, "D": "to cut, trim, or shape (a stick, piece of wood, etc.) by carving off bits with a knife.", "S": [], "A": []}

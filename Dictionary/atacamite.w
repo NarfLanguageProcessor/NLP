@@ -1,0 +1,1 @@
+{"index": 22384, "D": "a mineral, hydrated chloride of copper, Cu2Cl(OH)3, occurring in a green, granular form", "S": [], "A": []}

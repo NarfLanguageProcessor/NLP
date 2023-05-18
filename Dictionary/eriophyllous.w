@@ -1,0 +1,1 @@
+{"index": 103722, "D": "having leaves covered with a woolly pubescence.", "S": [], "A": []}

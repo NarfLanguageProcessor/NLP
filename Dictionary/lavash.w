@@ -1,0 +1,1 @@
+{"index": 169275, "D": "a large, sometimes leavened flatbread, soft when freshly baked and hard like a cracker when dried, common in Armenia, Iran, and other parts of Western and Central Asia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183675, "D": "a person who buys and sells commodities for profit; dealer; trader.", "S": [], "A": []}

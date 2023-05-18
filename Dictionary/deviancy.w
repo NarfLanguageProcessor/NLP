@@ -1,0 +1,1 @@
+{"index": 83520, "D": "deviant  quality or state.", "S": ["aberrance ", "aberrancy ", "aberration ", "anomaly ", "deviation ", "discrepancy ", "divergence ", "irregularity ", "noncomformity ", "preternaturalness ", "unnaturalness "], "A": []}

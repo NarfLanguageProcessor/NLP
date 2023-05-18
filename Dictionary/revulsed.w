@@ -1,0 +1,1 @@
+{"index": 271543, "D": "affected by revulsion.", "S": [], "A": []}

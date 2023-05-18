@@ -1,0 +1,1 @@
+{"index": 125332, "D": "a type of reproduction by parthenogenesis that requires stimulation by a sperm to activate the egg into development but occurs without fusion of sperm and egg nuclei.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 255490, "D": "the study of subjects, issues, and problems common to psychology and sociology. ", "S": [], "A": []}

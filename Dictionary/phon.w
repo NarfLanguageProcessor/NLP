@@ -1,0 +1,1 @@
+{"index": 234641, "D": "a unit for measuring the apparent loudness of a sound, equal in number for a given sound to the intensity in decibels of a sound having a frequency of 1000 cycles per second when, in the judgment of a group of listeners, the two sounds are of equal loudness.", "S": [], "A": []}

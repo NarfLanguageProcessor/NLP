@@ -1,0 +1,1 @@
+{"index": 239154, "D": "a type of apheresis  in which blood cells are returned to the bloodstream of the donor and the plasma is used, as for tranfusion.", "S": [], "A": []}

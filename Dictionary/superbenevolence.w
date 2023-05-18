@@ -1,0 +1,1 @@
+{"index": 311429, "D": "desire to do good to others; goodwill; charitableness", "S": [], "A": []}

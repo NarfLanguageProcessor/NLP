@@ -1,0 +1,1 @@
+{"index": 239196, "D": "to subject (a cell) to plasmolysis or (of a cell) to undergo plasmolysis", "S": [], "A": []}

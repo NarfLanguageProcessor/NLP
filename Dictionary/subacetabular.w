@@ -1,0 +1,1 @@
+{"index": 307065, "D": "the socket in the hipbone that receives the head of the thighbone.", "S": [], "A": []}

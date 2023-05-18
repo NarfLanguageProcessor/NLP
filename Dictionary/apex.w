@@ -1,0 +1,1 @@
+{"index": 16765, "D": "the tip, point, or vertex; summit.", "S": ["apogee ", "culmination ", "pinnacle "], "A": ["base ", "bottom ", "nadir "]}

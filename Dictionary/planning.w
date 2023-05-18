@@ -1,0 +1,1 @@
+{"index": 239030, "D": "the act or process of making a plan  or plans. ", "S": ["plan "], "A": []}

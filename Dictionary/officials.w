@@ -1,0 +1,1 @@
+{"index": 211632, "D": "a person appointed or elected to an office  or charged with certain duties.", "S": ["board ", "bureau ", "cabinet ", "committee ", "department ", "executive ", "legislature ", "management ", "ministry ", "presidency "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 68169, "D": "any plant belonging to the genus Convolvulus, of the morning glory family, comprising twining or prostrate plants having trumpet-shaped flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 327229, "D": "a powerful motor-driven vehicle with large, heavy treads, used for pulling farm machinery, other vehicles, etc.", "S": ["butterfly ", "canker ", "larva ", "moth "], "A": []}

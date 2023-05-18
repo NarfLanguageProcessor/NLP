@@ -1,0 +1,1 @@
+{"index": 252886, "D": "the act or process of propelling. ", "S": ["active ", "compelling ", "dynamic ", "sweeping ", "urging "], "A": ["inactive "]}

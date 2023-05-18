@@ -1,0 +1,1 @@
+{"index": 61126, "D": "an outer garment with sleeves, covering at least the upper part of the body", "S": [], "A": []}

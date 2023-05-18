@@ -1,0 +1,1 @@
+{"index": 95544, "D": "a parasitic plant growing on an animal or another plant.", "S": [], "A": []}

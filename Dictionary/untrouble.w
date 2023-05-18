@@ -1,0 +1,1 @@
+{"index": 353389, "D": [], "S": ["assuage ", "soothe "], "A": ["upset ", "agitate ", "depress ", "discourage ", "dispirit ", "dissuade ", "worry "]}

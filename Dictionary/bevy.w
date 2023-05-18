@@ -1,0 +1,1 @@
+{"index": 32909, "D": "a group of birds, as larks or quail, or animals, as roebuck, in close association.", "S": ["assembly ", "band ", "bunch ", "cluster ", "collection ", "company ", "covey ", "crew ", "crowd ", "flight ", "flock ", "gathering ", "group ", "pack ", "party ", "troupe "], "A": ["individual ", "one "]}

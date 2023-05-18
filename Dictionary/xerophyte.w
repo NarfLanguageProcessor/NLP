@@ -1,0 +1,1 @@
+{"index": 368483, "D": "a plant adapted for growth under dry conditions.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 289747, "D": "a heading  or subhead run in the margin of a book or magazine.", "S": [], "A": []}

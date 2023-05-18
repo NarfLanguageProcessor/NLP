@@ -1,0 +1,1 @@
+{"index": 5575, "D": "N Africa and SW Asia  considered together.", "S": [], "A": []}

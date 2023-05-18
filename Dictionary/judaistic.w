@@ -1,0 +1,1 @@
+{"index": 162036, "D": "an adherent or supporter of Judaism. ", "S": ["Hasidic ", "Hebrew ", "Semitic "], "A": []}

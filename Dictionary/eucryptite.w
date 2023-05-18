@@ -1,0 +1,1 @@
+{"index": 105352, "D": "a mineral, lithium aluminum silicate, LiAlSiO4, occurring in colorless to white hexagonal crystals", "S": [], "A": []}

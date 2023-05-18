@@ -1,0 +1,1 @@
+{"index": 30357, "D": "a person who has resided in Britain, esp during part of his or her education", "S": [], "A": []}

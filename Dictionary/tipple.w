@@ -1,0 +1,1 @@
+{"index": 324366, "D": "to drink intoxicating liquor, especially habitually or to some excess.", "S": ["booze ", "grog ", "imbibe ", "liquor "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 154055, "D": "narrow-minded or illiberal; provincial", "S": ["circumscribed ", "isolated ", "parochial ", "petty "], "A": ["broad-minded ", "unbiased ", "unprejudiced "]}

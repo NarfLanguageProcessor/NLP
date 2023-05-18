@@ -1,0 +1,1 @@
+{"index": 212591, "D": "eating both animal and plant foods.", "S": ["gluttonous ", "greedy ", "predatory ", "ravenous ", "voracious "], "A": []}

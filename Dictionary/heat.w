@@ -1,0 +1,1 @@
+{"index": 134920, "D": "the state of a body perceived as having or generating a relatively high degree of warmth.", "S": ["fever ", "hot weather ", "warmth "], "A": ["chill "]}

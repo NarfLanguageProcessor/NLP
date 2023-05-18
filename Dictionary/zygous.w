@@ -1,0 +1,1 @@
+{"index": 369301, "D": "A suffix meaning \u0093having zygotes of a specified kind,\u0094 as in heterozygous.", "S": [], "A": []}

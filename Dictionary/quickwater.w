@@ -1,0 +1,1 @@
+{"index": 258524, "D": "the part of a river or other stream having a strong current.", "S": [], "A": []}

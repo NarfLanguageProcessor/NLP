@@ -1,0 +1,1 @@
+{"index": 22942, "D": "to set upon in a forceful, violent, hostile, or aggressive way, with or without a weapon; begin fighting with", "S": ["aggression ", "barrage ", "charge ", "incursion ", "intervention ", "intrusion ", "invasion ", "offensive ", "onslaught ", "outbreak ", "raid ", "rape ", "skirmish ", "strike ", "violation "], "A": ["retreat ", "pull "]}

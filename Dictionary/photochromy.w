@@ -1,0 +1,1 @@
+{"index": 235021, "D": "a former technique of color photography.", "S": [], "A": []}

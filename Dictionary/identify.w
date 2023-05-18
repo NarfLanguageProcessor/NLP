@@ -1,0 +1,1 @@
+{"index": 146368, "D": "to recognize or establish as being a particular person or thing; verify the identity  of", "S": ["analyze ", "classify ", "describe ", "determine ", "diagnose ", "establish ", "find ", "name ", "pinpoint ", "select ", "single out ", "spot "], "A": ["confuse ", "lose ", "miss ", "overlook "]}

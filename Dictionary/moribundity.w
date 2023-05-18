@@ -1,0 +1,1 @@
+{"index": 193433, "D": "in a dying state; near death", "S": [], "A": []}

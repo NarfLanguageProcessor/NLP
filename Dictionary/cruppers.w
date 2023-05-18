@@ -1,0 +1,1 @@
+{"index": 74246, "D": "a leather strap fastened to the saddle of a harness and looping under the tail of a horse to prevent the harness from slipping forward.", "S": [], "A": []}

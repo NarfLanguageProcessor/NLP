@@ -1,0 +1,1 @@
+{"index": 339423, "D": "to move or bring (something) upward from the ground or other support to a higher position; hoist. ", "S": [], "A": []}

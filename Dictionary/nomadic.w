@@ -1,0 +1,1 @@
+{"index": 200834, "D": "of, relating to, or characteristic of nomads.", "S": ["pastoral ", "peripatetic ", "wandering "], "A": ["native ", "settled "]}

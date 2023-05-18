@@ -1,0 +1,1 @@
+{"index": 19421, "D": "(used to imitate the bark of a dog).", "S": ["cry ", "growl ", "howl ", "snarl ", "yap "], "A": []}

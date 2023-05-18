@@ -1,0 +1,1 @@
+{"index": 179223, "D": "an intensive search for a criminal, suspect, escaped convict, etc., as by law enforcement agencies.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 299946, "D": "a quantity resembling a vector or tensor that is used in physics to represent the spins of fermions.", "S": [], "A": []}

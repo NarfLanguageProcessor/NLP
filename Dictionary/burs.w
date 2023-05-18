@@ -1,0 +1,1 @@
+{"index": 43303, "D": "a rough, prickly case around the seeds of certain plants, as the chestnut or burdock. ", "S": [], "A": []}

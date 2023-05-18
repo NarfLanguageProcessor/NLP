@@ -1,0 +1,1 @@
+{"index": 300955, "D": "a substance or preparation for killing spores.", "S": [], "A": []}

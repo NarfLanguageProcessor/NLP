@@ -1,0 +1,1 @@
+{"index": 284019, "D": "partly or imperfectly crystalline. ", "S": [], "A": []}

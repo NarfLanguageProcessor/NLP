@@ -1,0 +1,1 @@
+{"index": 65901, "D": "to give a configuration, form, or design to.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 284151, "D": "shaped like one half of an ellipse, esp one divided along the major axis", "S": [], "A": []}

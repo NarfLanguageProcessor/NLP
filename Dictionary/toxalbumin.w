@@ -1,0 +1,1 @@
+{"index": 326860, "D": "any poisonous protein occurring in certain bacterial cultures, plants, or snake venoms.", "S": [], "A": []}

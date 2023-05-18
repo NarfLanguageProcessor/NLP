@@ -1,0 +1,1 @@
+{"index": 59878, "D": "a U-shaped yoke at the end of a chain or rod, between the ends of which a lever, hook, etc., can be pinned or bolted.", "S": [], "A": []}

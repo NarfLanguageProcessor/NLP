@@ -1,0 +1,1 @@
+{"index": 97256, "D": "a device for detecting the presence and determining the sign of electric charges by means of electrostatic attraction and repulsion, often between two pieces of gold leaf enclosed in a glass-walled chamber.", "S": [], "A": []}

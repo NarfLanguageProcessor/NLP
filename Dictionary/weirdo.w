@@ -1,0 +1,1 @@
+{"index": 363938, "D": "an odd, eccentric, or unconventional person.", "S": ["crackpot ", "geek ", "misfit "], "A": []}

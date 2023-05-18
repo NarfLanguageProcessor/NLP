@@ -1,0 +1,1 @@
+{"index": 183342, "D": "a protrusion of the meninges  through an opening in the skull or spinal column, forming a bulge or sac filled with cerebrospinal fluid.", "S": [], "A": []}

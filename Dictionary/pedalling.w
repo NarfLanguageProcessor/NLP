@@ -1,0 +1,1 @@
+{"index": 228762, "D": "a foot-operated lever used to control certain mechanisms, as automobiles, or to play or modify the sounds of certain musical instruments, as pianos, organs, or harps.", "S": ["perform ", "work "], "A": ["fail ", "ignore "]}

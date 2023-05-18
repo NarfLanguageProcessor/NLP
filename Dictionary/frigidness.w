@@ -1,0 +1,1 @@
+{"index": 119021, "D": "very cold in temperature", "S": ["chilliness ", "coldness ", "coolness ", "frigidity ", "frostiness ", "gelidity ", "iciness "], "A": []}

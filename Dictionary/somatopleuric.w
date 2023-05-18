@@ -1,0 +1,1 @@
+{"index": 296992, "D": "the double layer formed by the association of the upper layer of the lateral plate of mesoderm with the overlying ectoderm, functioning in the formation of the body wall and amnion.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49900, "D": "a mountain range in Caucasia, between the Black and Caspian seas, along the border between the Russian Federation, Georgia, and Azerbaijan. Highest peak, Mt. Elbrus, 18,481 feet (5,633 meters).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228114, "D": "a Japanese tree, Paulownia tomentosa, of the bignonia family, having showy clusters of pale-violet or blue flowers blossoming in early spring.", "S": [], "A": []}

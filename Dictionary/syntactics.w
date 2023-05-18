@@ -1,0 +1,1 @@
+{"index": 292011, "D": "the branch of semiotics dealing with the formal properties of languages and systems of symbols.", "S": ["parole ", "pragmatics ", "semantics ", "symbolism "], "A": []}

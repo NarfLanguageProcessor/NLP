@@ -1,0 +1,1 @@
+{"index": 292255, "D": "any pelagic hydrozoan of the order Siphonophora, being a floating or swimming colony composed of polyps.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197802, "D": "a method of divination through alleged communication with the dead; black art.", "S": [], "A": []}

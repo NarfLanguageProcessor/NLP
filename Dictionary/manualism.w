@@ -1,0 +1,1 @@
+{"index": 179613, "D": "Compare oralism. ", "S": [], "A": []}

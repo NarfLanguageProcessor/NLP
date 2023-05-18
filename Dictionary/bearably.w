@@ -1,0 +1,1 @@
+{"index": 29511, "D": "capable of being endured or tolerated; endurable.", "S": ["a little ", "considerably ", "fairly ", "far ", "kind of ", "moderately ", "partially ", "pretty ", "quite ", "rather ", "significantly ", "slightly "], "A": ["little "]}

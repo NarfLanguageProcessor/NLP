@@ -1,0 +1,1 @@
+{"index": 101459, "D": "something that has a real existence; thing", "S": [], "A": []}

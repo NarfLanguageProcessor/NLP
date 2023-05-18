@@ -1,0 +1,1 @@
+{"index": 252303, "D": "Compare absolute monarchy, limited monarchy. ", "S": [], "A": []}

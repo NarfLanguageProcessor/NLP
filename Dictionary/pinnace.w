@@ -1,0 +1,1 @@
+{"index": 237137, "D": "a light sailing ship, especially one formerly used in attendance on a larger ship.", "S": ["barge ", "canoe ", "catamaran ", "craft ", "dinghy ", "gondola ", "raft ", "sailboat ", "schooner ", "ship ", "yacht "], "A": []}

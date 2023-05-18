@@ -1,0 +1,1 @@
+{"index": 318688, "D": "the terms of a Jewish marriage, as the wedding date, amount of the bride's dowry, etc., or an agreement containing such terms, made by the parents of an engaged couple at the engagement party.", "S": [], "A": []}

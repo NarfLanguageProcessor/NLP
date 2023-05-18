@@ -1,0 +1,1 @@
+{"index": 279170, "D": "a large, elongated ray of the genus Pristis, living along tropical coasts and lowland rivers, with a bladelike snout bearing strong teeth on each side.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273540, "D": "a contrivance for roasting  something, as an oven, a pan for roasting meat, or a machine for roasting coffee beans.", "S": ["broiler ", "fireplace ", "griddle ", "hibachi ", "spit "], "A": []}

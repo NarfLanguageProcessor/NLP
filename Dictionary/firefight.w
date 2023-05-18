@@ -1,0 +1,1 @@
+{"index": 113157, "D": "an exchange of gunfire between two opposing forces, especially a skirmish between military forces.", "S": [], "A": []}

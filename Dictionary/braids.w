@@ -1,0 +1,1 @@
+{"index": 39704, "D": "to weave together strips or strands of; plait", "S": ["DA ", "afro ", "beehive ", "dreadlocks ", "dreads ", "flip ", "hair ", "haircut ", "hairdo ", "permanent ", "pigtails ", "plait ", "ponytail ", "tail ", "tease ", "trim ", "wave "], "A": []}

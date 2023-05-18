@@ -1,0 +1,1 @@
+{"index": 12142, "D": "a soft spongy tumour occurring in horses and oxen", "S": [], "A": []}

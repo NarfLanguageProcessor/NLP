@@ -1,0 +1,1 @@
+{"index": 34618, "D": "bringing forth offspring in pairs.", "S": [], "A": []}

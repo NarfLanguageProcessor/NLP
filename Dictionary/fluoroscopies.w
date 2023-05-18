@@ -1,0 +1,1 @@
+{"index": 115490, "D": "the use of or examination by means of a fluoroscope.", "S": [], "A": []}

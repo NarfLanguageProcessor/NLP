@@ -1,0 +1,1 @@
+{"index": 67740, "D": "a more or less continuous chain of redoubts and breastworks raised by besiegers outside the line of circumvallation of a besieged place to protect the besiegers from attacks from the outside, as by a relieving force.", "S": [], "A": []}

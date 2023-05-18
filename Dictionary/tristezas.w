@@ -1,0 +1,1 @@
+{"index": 330632, "D": "a disease of certain citrus trees, characterized by yellowed leaves, wilting, and root destruction, caused by a virus.", "S": [], "A": []}

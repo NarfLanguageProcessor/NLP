@@ -1,0 +1,1 @@
+{"index": 200493, "D": "erosion resulting from the action of frost beneath a snowbank.", "S": [], "A": []}

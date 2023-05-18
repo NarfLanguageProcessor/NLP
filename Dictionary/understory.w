@@ -1,0 +1,1 @@
+{"index": 339912, "D": "the shrubs and plants growing beneath the main canopy of a forest.", "S": ["thicket "], "A": []}

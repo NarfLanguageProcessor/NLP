@@ -1,0 +1,1 @@
+{"index": 314692, "D": "the action or technique of wielding a sword;  fencing.", "S": [], "A": []}

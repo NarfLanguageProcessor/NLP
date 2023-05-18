@@ -1,0 +1,1 @@
+{"index": 9405, "D": "amyotrophic lateral sclerosis. ", "S": [], "A": []}

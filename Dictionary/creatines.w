@@ -1,0 +1,1 @@
+{"index": 72427, "D": "an amino acid, C4H9N3O2, that is a constituent of the muscles of vertebrates and is phosphorylated to store energy used for muscular contraction.", "S": [], "A": []}

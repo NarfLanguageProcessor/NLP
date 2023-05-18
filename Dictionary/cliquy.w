@@ -1,0 +1,1 @@
+{"index": 60159, "D": "a small, exclusive group of people; coterie; set.", "S": [], "A": []}

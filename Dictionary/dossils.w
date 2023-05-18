@@ -1,0 +1,1 @@
+{"index": 91872, "D": "a cloth roll for removing excess ink from a plate before printing.", "S": [], "A": []}

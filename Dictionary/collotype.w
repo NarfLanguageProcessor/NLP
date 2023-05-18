@@ -1,0 +1,1 @@
+{"index": 63134, "D": "any photomechanical process of printing from a plate coated with gelatin.", "S": [], "A": []}

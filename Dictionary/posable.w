@@ -1,0 +1,1 @@
+{"index": 243763, "D": "to assume a particular attitude or stance, especially with the hope of impressing others", "S": [], "A": []}

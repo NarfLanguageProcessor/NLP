@@ -1,0 +1,1 @@
+{"index": 283213, "D": "division into segments.", "S": ["distribution "], "A": ["attachment ", "combination ", "connection ", "union "]}

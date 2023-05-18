@@ -1,0 +1,1 @@
+{"index": 1467, "D": "a circuit or network inserted to provide less loss or greater gain to certain frequencies in an audio spectrum, as a preemphasis spectrum.", "S": [], "A": []}

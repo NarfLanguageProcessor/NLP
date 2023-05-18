@@ -1,0 +1,1 @@
+{"index": 301003, "D": "a modified leaf that bears sporangia.", "S": [], "A": []}

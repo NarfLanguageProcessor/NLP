@@ -1,0 +1,1 @@
+{"index": 26126, "D": "singular of bacteria. ", "S": ["egg ", "germ ", "unit "], "A": []}

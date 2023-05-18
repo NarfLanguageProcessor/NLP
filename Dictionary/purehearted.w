@@ -1,0 +1,1 @@
+{"index": 256905, "D": "(of a person) without malice, treachery, or evil intent; honest; sincere; guileless.", "S": [], "A": []}

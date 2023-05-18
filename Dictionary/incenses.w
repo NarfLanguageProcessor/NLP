@@ -1,0 +1,1 @@
+{"index": 149768, "D": "an aromatic gum or other substance producing a sweet odor when burned, used in religious ceremonies, to enhance a mood, etc.", "S": ["aroma ", "odor ", "perfume ", "scent "], "A": ["odor ", "stench ", "stink "]}

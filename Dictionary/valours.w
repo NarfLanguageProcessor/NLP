@@ -1,0 +1,1 @@
+{"index": 356810, "D": "boldness or determination in facing great danger, especially in battle; heroic courage; bravery", "S": [], "A": []}

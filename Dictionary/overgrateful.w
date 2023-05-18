@@ -1,0 +1,1 @@
+{"index": 219589, "D": "warmly or deeply appreciative of kindness or benefits received; thankful", "S": [], "A": []}

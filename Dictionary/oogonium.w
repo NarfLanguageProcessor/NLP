@@ -1,0 +1,1 @@
+{"index": 213010, "D": "one of the undifferentiated germ cells giving rise to oocytes.", "S": [], "A": []}

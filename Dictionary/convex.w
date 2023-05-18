@@ -1,0 +1,1 @@
+{"index": 68074, "D": "Compare concave (def. 1). ", "S": ["bulging "], "A": ["concave ", "depressed ", "sinking "]}

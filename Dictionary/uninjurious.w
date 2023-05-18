@@ -1,0 +1,1 @@
+{"index": 344597, "D": "harmful, hurtful, or detrimental, as in effect", "S": ["childlike ", "gullible ", "ignorant ", "innocuous ", "wide-eyed "], "A": ["knowledgeable ", "untrusting ", "wise ", "dishonest ", "sophisticated ", "unclear "]}

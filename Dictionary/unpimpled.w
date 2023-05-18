@@ -1,0 +1,1 @@
+{"index": 347932, "D": "having many pimples. ", "S": [], "A": []}

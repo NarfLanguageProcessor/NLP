@@ -1,0 +1,1 @@
+{"index": 343103, "D": "the act of looking at or speaking or thinking about something with excessive, usually smug or malicious satisfaction", "S": [], "A": []}

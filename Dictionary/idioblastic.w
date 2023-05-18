@@ -1,0 +1,1 @@
+{"index": 146463, "D": "a cell that differs greatly from the surrounding cells or tissue.", "S": [], "A": []}

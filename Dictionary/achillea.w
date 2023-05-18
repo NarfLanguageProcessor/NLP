@@ -1,0 +1,1 @@
+{"index": 2264, "D": "any composite plant of the genus Achillea, having toothed or divided leaves and flat-topped clusters of flowers, and including the yarrow and sneezewort.", "S": [], "A": []}

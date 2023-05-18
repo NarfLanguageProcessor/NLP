@@ -1,0 +1,1 @@
+{"index": 56612, "D": "a close or intimate companion", "S": ["angle ", "bait ", "bob ", "cast ", "chum ", "extract ", "extricate ", "find ", "net ", "produce ", "seine ", "trawl ", "troll "], "A": []}

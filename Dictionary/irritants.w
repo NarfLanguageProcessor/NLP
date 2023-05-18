@@ -1,0 +1,1 @@
+{"index": 158480, "D": "tending to cause irritation; irritating. ", "S": ["aggravation ", "bother ", "burden ", "nuisance ", "trouble "], "A": ["aid ", "happiness ", "help "]}

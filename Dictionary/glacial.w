@@ -1,0 +1,1 @@
+{"index": 125740, "D": "of or relating to glaciers  or ice sheets.", "S": ["freezing ", "frigid ", "frosty ", "frozen ", "icy ", "polar "], "A": ["heated ", "hot ", "warm "]}

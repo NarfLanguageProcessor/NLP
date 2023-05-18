@@ -1,0 +1,1 @@
+{"index": 110061, "D": "at or to a greater distance", "S": ["further "], "A": ["closer ", "nearer "]}

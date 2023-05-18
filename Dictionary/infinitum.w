@@ -1,0 +1,1 @@
+{"index": 152044, "D": "to infinity; endlessly; without limit. Abbreviations", "S": [], "A": []}

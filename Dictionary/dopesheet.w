@@ -1,0 +1,1 @@
+{"index": 91614, "D": "a bulletin or list including the names of entries in various horse races, and including information on each entry, as the name, jockey, and past performances.", "S": [], "A": []}

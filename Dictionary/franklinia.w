@@ -1,0 +1,1 @@
+{"index": 118397, "D": "a shrub or small tree, Franklinia alatamaha, of the tea family, originally native to the SE U.S. and now found only in cultivation, having glossy leaves and large, solitary white flowers.", "S": [], "A": []}

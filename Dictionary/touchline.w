@@ -1,0 +1,1 @@
+{"index": 326582, "D": "any of the outer lines  bordering the playing field.", "S": [], "A": []}

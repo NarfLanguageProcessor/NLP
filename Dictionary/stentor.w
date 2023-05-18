@@ -1,0 +1,1 @@
+{"index": 303723, "D": "(in the Iliad) a Greek herald with a loud voice.", "S": ["ameba ", "amoeba ", "cell ", "ciliate ", "euglena ", "flagellate ", "organism ", "paramecium ", "plasmodium ", "sporozoan "], "A": []}

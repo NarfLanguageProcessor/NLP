@@ -1,0 +1,1 @@
+{"index": 299764, "D": "a scaleless, mottled, olive-brown fish, Meda fulgida, of the Gila River system in New Mexico and Arizona, having two dorsal spines.", "S": [], "A": []}

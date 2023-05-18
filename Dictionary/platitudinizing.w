@@ -1,0 +1,1 @@
+{"index": 239524, "D": "to utter platitudes. ", "S": [], "A": []}

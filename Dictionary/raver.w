@@ -1,0 +1,1 @@
+{"index": 261278, "D": "a person who leads a wild or uninhibited social life", "S": ["blatherskite ", "blowhard ", "blusterer ", "boaster ", "brag ", "braggadocio ", "bragger ", "egotist ", "exhibitionist ", "gasbag ", "grandstander ", "hotshot ", "know-it-all ", "peacock ", "ranter ", "show off ", "swaggerer ", "swashbuckler ", "trumpeter ", "windbag "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265621, "D": "to give (an unwanted gift) to someone else.", "S": [], "A": []}

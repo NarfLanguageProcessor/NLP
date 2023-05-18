@@ -1,0 +1,1 @@
+{"index": 251356, "D": "to defer action; delay", "S": ["dawdle ", "hesitate "], "A": ["abbreviate ", "advance ", "carry out ", "complete ", "continue ", "do ", "expedite ", "finish ", "forge ", "forward ", "further ", "go ", "hasten ", "help ", "hurry ", "leave ", "persist ", "push ", "rush ", "shorten "]}

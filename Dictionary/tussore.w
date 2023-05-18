@@ -1,0 +1,1 @@
+{"index": 333041, "D": "a strong coarse brownish Indian silk obtained from the cocoons of an Oriental saturniid silkworm, Antheraea paphia", "S": ["fiber ", "taffeta ", "thread ", "tulle "], "A": []}

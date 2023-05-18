@@ -1,0 +1,1 @@
+{"index": 105963, "D": "of, denoting, or based on an act of evaluating", "S": [], "A": []}

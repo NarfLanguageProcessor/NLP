@@ -1,0 +1,1 @@
+{"index": 322160, "D": "of or relating to a condition caused by excessive thyroid hormone in the system, usually resulting from overactivity of the thyroid gland.", "S": [], "A": []}

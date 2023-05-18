@@ -1,0 +1,1 @@
+{"index": 61525, "D": "a person employed to gather cockles from the seashore", "S": [], "A": []}

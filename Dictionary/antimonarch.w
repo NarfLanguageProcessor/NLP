@@ -1,0 +1,1 @@
+{"index": 15604, "D": "a hereditary sovereign, as a king, queen, or emperor.", "S": [], "A": []}

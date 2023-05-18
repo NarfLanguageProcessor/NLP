@@ -1,0 +1,1 @@
+{"index": 245333, "D": "a rare-earth, metallic, trivalent element, named from its green salts. Symbol", "S": [], "A": []}

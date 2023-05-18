@@ -1,0 +1,1 @@
+{"index": 253358, "D": "any shrub or small tree of the genus Protea, of tropical and southern Africa, having flowers with coloured bracts arranged in showy heads", "S": [], "A": []}

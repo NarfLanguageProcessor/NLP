@@ -1,0 +1,1 @@
+{"index": 303873, "D": "the branch of chemistry  that deals with the determination of the relative positions in space of the atoms or groups of atoms in a compound and with the effects of these positions on the properties of the compound.", "S": [], "A": []}

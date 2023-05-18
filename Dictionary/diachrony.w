@@ -1,0 +1,1 @@
+{"index": 84033, "D": "historical change.", "S": [], "A": []}

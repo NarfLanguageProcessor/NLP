@@ -1,0 +1,1 @@
+{"index": 149561, "D": "an act or ceremony of inaugurating. ", "S": ["commencement ", "inaugural ", "induction ", "initiation ", "launch ", "launching ", "opening "], "A": ["conclusion ", "end ", "ending ", "finish "]}

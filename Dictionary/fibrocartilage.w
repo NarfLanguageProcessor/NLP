@@ -1,0 +1,1 @@
+{"index": 112048, "D": "a type of cartilage  having a large number of fibers.", "S": [], "A": []}

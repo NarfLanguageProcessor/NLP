@@ -1,0 +1,1 @@
+{"index": 125303, "D": [], "S": ["alehouse ", "beer garden ", "cocktail lounge ", "drinkery ", "pub ", "public house ", "saloon ", "taproom ", "tavern ", "watering hole "], "A": []}

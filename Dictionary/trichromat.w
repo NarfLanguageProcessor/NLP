@@ -1,0 +1,1 @@
+{"index": 329505, "D": "any person with normal colour vision, who can therefore see the three primary colours", "S": [], "A": []}

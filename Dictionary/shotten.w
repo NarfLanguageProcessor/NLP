@@ -1,0 +1,1 @@
+{"index": 288982, "D": "(of fish, especially herring) having recently ejected the spawn.", "S": [], "A": []}

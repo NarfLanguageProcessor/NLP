@@ -1,0 +1,1 @@
+{"index": 217293, "D": "a person who is competing for the same object or goal as another, or who tries to equal or outdo another; competitor. ", "S": ["outplay ", "outrun ", "overcome ", "overtake ", "overwhelm ", "top ", "triumph ", "whip "], "A": ["fall behind ", "lose ", "surrender ", "fail ", "give up "]}

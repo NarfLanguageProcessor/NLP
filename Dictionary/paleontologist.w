@@ -1,0 +1,1 @@
+{"index": 223766, "D": "a scientist who specializes in the study of life forms that existed in previous geologic periods, as represented by their fossils", "S": ["classicist ", "excavator "], "A": []}

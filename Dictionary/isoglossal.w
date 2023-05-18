@@ -1,0 +1,1 @@
+{"index": 158974, "D": "(in the study of the geographical distribution of dialects) a line on a map marking the limits of an area within which a feature of speech occurs, as the use of a particular word or pronunciation.", "S": [], "A": []}

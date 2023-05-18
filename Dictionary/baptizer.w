@@ -1,0 +1,1 @@
+{"index": 27654, "D": "to immerse in water or sprinkle or pour water on in the Christian rite of baptism", "S": [], "A": []}

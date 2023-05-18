@@ -1,0 +1,1 @@
+{"index": 206244, "D": "pertaining or belonging to the proletariat. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 306125, "D": "importance attached to a thing", "S": ["weight "], "A": ["insignificance ", "unimportance "]}

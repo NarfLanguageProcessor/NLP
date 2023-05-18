@@ -1,0 +1,1 @@
+{"index": 131915, "D": "simple past tense and past participle of have. ", "S": ["bamboozled ", "betrayed ", "conned ", "culled ", "duped ", "fooled ", "hoodwinked ", "lured ", "played ", "taken ", "trapped ", "victimized "], "A": ["informed ", "trusted "]}

@@ -1,0 +1,1 @@
+{"index": 234224, "D": "having the mouth and air bladder connected by an air duct.", "S": [], "A": []}

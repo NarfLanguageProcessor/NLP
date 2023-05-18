@@ -1,0 +1,1 @@
+{"index": 167106, "D": "a disaccharide, C12H22O11, present in milk, that upon hydrolysis yields glucose and galactose.", "S": ["cellulose ", "glucose ", "starch ", "sugar "], "A": []}

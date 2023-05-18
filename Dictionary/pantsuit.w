@@ -1,0 +1,1 @@
+{"index": 225066, "D": "a woman's suit  consisting of slacks and a matching jacket.", "S": [], "A": []}

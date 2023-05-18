@@ -1,0 +1,1 @@
+{"index": 229429, "D": "to attack or assail with repeated blows or with missiles.", "S": [], "A": []}

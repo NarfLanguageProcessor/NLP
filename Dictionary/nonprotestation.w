@@ -1,0 +1,1 @@
+{"index": 206316, "D": "the act of protesting  or affirming.", "S": [], "A": []}

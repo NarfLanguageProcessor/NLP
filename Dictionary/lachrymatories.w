@@ -1,0 +1,1 @@
+{"index": 166906, "D": "of, relating to, or causing the shedding of tears.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333996, "D": "the policy of the party in the Roman Catholic Church that favors increasing and enhancing the power and authority of the pope.", "S": [], "A": []}

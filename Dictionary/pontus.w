@@ -1,0 +1,1 @@
+{"index": 243108, "D": "an ancient country in NE Asia Minor, bordering on the Black Sea", "S": [], "A": []}

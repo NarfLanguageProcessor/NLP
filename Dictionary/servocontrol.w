@@ -1,0 +1,1 @@
+{"index": 286492, "D": "control  by means of a servomechanism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211677, "D": "occurring, existing, or done away from the motion-picture or television screen", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 256497, "D": "a porous or spongy form of volcanic glass, used as an abrasive.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 354020, "D": "to sing or whistle with trills, quavers, or melodic embellishments", "S": [], "A": []}

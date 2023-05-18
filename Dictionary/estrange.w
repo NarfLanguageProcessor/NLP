@@ -1,0 +1,1 @@
+{"index": 104724, "D": "to turn away in feeling or affection; make unfriendly or hostile; alienate the affections of", "S": ["alienate ", "divorce "], "A": ["agree ", "combine ", "come ", "connect ", "hold ", "join ", "keep ", "maintain ", "stay ", "unite "]}

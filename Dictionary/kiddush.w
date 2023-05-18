@@ -1,0 +1,1 @@
+{"index": 164470, "D": "a blessing recited over a cup of wine or over bread on the Sabbath or on a festival.", "S": [], "A": []}

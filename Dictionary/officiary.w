@@ -1,0 +1,1 @@
+{"index": 211636, "D": "pertaining to or derived from an office, as a title.", "S": [], "A": []}

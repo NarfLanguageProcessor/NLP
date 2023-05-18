@@ -1,0 +1,1 @@
+{"index": 347240, "D": "the quality or state of being original. ", "S": [], "A": []}

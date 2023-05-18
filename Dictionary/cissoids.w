@@ -1,0 +1,1 @@
+{"index": 58423, "D": "a curve having a cusp at the origin and a point of inflection at infinity. Equation", "S": [], "A": []}

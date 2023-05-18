@@ -1,0 +1,1 @@
+{"index": 137347, "D": "the standard unit of frequency in the International System of Units (SI), equal to one cycle per second. Abbreviation", "S": [], "A": []}

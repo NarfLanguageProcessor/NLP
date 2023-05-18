@@ -1,0 +1,1 @@
+{"index": 73106, "D": "a woman or girl born in Spanish America but of European, usually Spanish, ancestry.", "S": [], "A": []}

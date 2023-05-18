@@ -1,0 +1,1 @@
+{"index": 41520, "D": "a small, natural stream of fresh water.", "S": [], "A": []}

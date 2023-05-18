@@ -1,0 +1,1 @@
+{"index": 348867, "D": "followed by a person or animal wishing to overtake, capture, kill, etc.; chased", "S": [], "A": []}

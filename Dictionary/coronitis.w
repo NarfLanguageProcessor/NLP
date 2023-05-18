@@ -1,0 +1,1 @@
+{"index": 69475, "D": "inflammation of the coronary cushion of hoofed animals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 234545, "D": "a bitter, crystalline glucoside, C21H24O10, obtained from the root bark of the apple, pear, cherry, etc.", "S": [], "A": []}

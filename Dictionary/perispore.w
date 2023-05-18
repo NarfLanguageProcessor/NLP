@@ -1,0 +1,1 @@
+{"index": 231350, "D": "a membrane surrounding a spore.", "S": [], "A": []}

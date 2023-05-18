@@ -1,0 +1,1 @@
+{"index": 171204, "D": "a radical group on the Parliamentarian side during the Civil War that advocated republicanism, freedom of worship, etc", "S": [], "A": []}

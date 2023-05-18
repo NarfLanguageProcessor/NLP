@@ -1,0 +1,1 @@
+{"index": 340748, "D": "to convert (animals, plants, etc.) to domestic  uses; tame. ", "S": [], "A": []}

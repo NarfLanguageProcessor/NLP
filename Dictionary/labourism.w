@@ -1,0 +1,1 @@
+{"index": 166778, "D": "the dominance of the working classes", "S": [], "A": []}

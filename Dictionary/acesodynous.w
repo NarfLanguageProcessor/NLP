@@ -1,0 +1,1 @@
+{"index": 1989, "D": "mitigating pain; anodyne.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 99883, "D": "a plant living within another plant, usually as a parasite.", "S": [], "A": []}

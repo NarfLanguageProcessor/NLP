@@ -1,0 +1,1 @@
+{"index": 250180, "D": "an undertaking involving uncertainty as to the outcome, especially a risky or dangerous one", "S": [], "A": []}

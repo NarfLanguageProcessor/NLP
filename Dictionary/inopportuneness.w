@@ -1,0 +1,1 @@
+{"index": 153209, "D": "not opportune; inappropriate; inconvenient; untimely or unseasonable", "S": ["discomfort "], "A": ["advantage ", "contentment ", "peace "]}

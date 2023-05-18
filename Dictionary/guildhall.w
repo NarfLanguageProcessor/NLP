@@ -1,0 +1,1 @@
+{"index": 131062, "D": "(in Britain) the hall built or used by a guild or corporation for its assemblies; town hall.", "S": [], "A": []}

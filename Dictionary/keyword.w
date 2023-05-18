@@ -1,0 +1,1 @@
+{"index": 163703, "D": "a word that serves as a key, as to the meaning of another word, a sentence, passage, or the like.", "S": ["abracadabra ", "abraxas ", "access ", "key ", "magic formula ", "opener ", "password ", "paternoster ", "secret sign ", "watchword "], "A": []}

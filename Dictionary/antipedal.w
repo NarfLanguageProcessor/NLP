@@ -1,0 +1,1 @@
+{"index": 15813, "D": "(in a mollusk) located opposite the foot.", "S": [], "A": []}

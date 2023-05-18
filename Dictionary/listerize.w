@@ -1,0 +1,1 @@
+{"index": 173525, "D": "to treat (a patient, disease, etc.) using the methods of Joseph Lister. ", "S": [], "A": []}

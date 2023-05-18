@@ -1,0 +1,1 @@
+{"index": 66761, "D": "conservation  of natural resources.", "S": ["preservation ", "protection "], "A": []}

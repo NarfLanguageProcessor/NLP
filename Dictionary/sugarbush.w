@@ -1,0 +1,1 @@
+{"index": 310204, "D": "an evergreen shrub, Rhus ovata, of the cashew family, native to the desert regions of the southwestern U.S., having light yellow flowers in short, dense spikes and hairy, dark-red fruit.", "S": [], "A": []}

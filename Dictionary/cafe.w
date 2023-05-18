@@ -1,0 +1,1 @@
+{"index": 44467, "D": "a U.S. federally mandated standard of average minimum miles-per-gallon fuel consumption for all the cars produced by an automobile manufacturer in a given year.", "S": ["bistro ", "cafeteria ", "coffee shop ", "diner "], "A": []}

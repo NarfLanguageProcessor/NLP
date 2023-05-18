@@ -1,0 +1,1 @@
+{"index": 242341, "D": "an individual zooid of a compound or colonial organism.", "S": ["tumor "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 154722, "D": "the smooth surface area at the end of a bone, forming part of a joint.", "S": [], "A": []}

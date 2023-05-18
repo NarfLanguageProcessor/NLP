@@ -1,0 +1,1 @@
+{"index": 285411, "D": "the science of determining the sensitivity of photographic materials.", "S": [], "A": []}

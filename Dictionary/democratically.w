@@ -1,0 +1,1 @@
+{"index": 80720, "D": "pertaining to or of the nature of democracy  or a democracy.", "S": [], "A": []}

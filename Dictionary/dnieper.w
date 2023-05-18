@@ -1,0 +1,1 @@
+{"index": 90527, "D": "a river rising in the western Russian Federation flowing south through Byelorussia (Belarus) and Ukraine to the Black Sea. 1,400 miles (2,250 km) long.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293369, "D": "(in a square-rigged vessel) a light square sail  next above the royal.", "S": [], "A": []}

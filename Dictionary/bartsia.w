@@ -1,0 +1,1 @@
+{"index": 28444, "D": "any of several species of semiparasitic scrophulariaceous plants, including red bartsia (Odontites verna), a pink-flowered weed of cornfields", "S": [], "A": []}

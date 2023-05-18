@@ -1,0 +1,1 @@
+{"index": 164673, "D": "a unit of distance, equal to 1000 parsecs. Abbreviation", "S": [], "A": []}

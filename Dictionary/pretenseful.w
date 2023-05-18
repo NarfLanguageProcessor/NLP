@@ -1,0 +1,1 @@
+{"index": 249883, "D": "pretending or feigning; make-believe", "S": [], "A": []}

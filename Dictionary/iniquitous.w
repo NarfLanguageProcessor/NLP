@@ -1,0 +1,1 @@
+{"index": 152777, "D": "characterized by injustice or wickedness; wicked; sinful.", "S": ["evil ", "sinful ", "unfair ", "vicious ", "wicked "], "A": []}

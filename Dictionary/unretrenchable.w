@@ -1,0 +1,1 @@
+{"index": 349821, "D": "to cut down, reduce, or diminish; curtail (expenses).", "S": [], "A": []}

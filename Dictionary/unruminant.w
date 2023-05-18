@@ -1,0 +1,1 @@
+{"index": 350152, "D": "any even-toed, hoofed mammal of the suborder Ruminantia, being comprised of cloven-hoofed, cud-chewing quadrupeds, and including, besides domestic cattle, bison, buffalo, deer, antelopes, giraffes, camels, and chevrotains.", "S": [], "A": []}

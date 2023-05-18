@@ -1,0 +1,1 @@
+{"index": 346039, "D": "to take in marriage", "S": ["break up ", "disconnect ", "dissociate ", "separate ", "sever "], "A": ["associate ", "attach ", "combine ", "join ", "unite ", "connect ", "keep ", "retain ", "validate "]}

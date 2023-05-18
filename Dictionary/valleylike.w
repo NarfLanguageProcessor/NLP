@@ -1,0 +1,1 @@
+{"index": 356767, "D": "an elongated depression between uplands, hills, or mountains, especially one following the course of a stream.", "S": [], "A": []}

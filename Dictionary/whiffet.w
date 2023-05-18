@@ -1,0 +1,1 @@
+{"index": 364753, "D": "an insignificant person; whippersnapper.", "S": [], "A": []}

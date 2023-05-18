@@ -1,0 +1,1 @@
+{"index": 63593, "D": "of or relating to the early part of the Cretaceous system and period", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336141, "D": "to separate (anything braided,  as hair) into the several strands.", "S": ["detach ", "disengage ", "emancipate ", "extricate ", "unravel ", "unscramble ", "untangle ", "untie "], "A": ["attach ", "connect ", "tangle ", "tie ", "unite ", "block ", "close ", "combine ", "hide ", "join "]}

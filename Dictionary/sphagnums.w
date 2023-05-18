@@ -1,0 +1,1 @@
+{"index": 299414, "D": "any soft moss of the genus Sphagnum, occurring chiefly in bogs, used for potting and packing plants, for dressing wounds, etc.", "S": [], "A": []}

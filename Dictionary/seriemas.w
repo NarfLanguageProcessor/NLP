@@ -1,0 +1,1 @@
+{"index": 286093, "D": "either of two birds of the family Cariamidae, Cariama cristata, of southern Brazil, or Chunga burmeisteri, of Argentina, having long legs, an erectile crest, a short, broad bill, and limited ability to fly.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332875, "D": [], "S": ["desert under fire ", "make a U-turn ", "retreat ", "run scared ", "skedaddle ", "turn around ", "turn on a dime "], "A": []}

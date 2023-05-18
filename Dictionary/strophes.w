@@ -1,0 +1,1 @@
+{"index": 306570, "D": "the part of an ancient Greek choral ode sung by the chorus when moving from right to left.", "S": ["division ", "stave "], "A": []}

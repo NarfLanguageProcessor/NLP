@@ -1,0 +1,1 @@
+{"index": 169811, "D": "given to or characterized by lechery;  lustful.", "S": [], "A": []}

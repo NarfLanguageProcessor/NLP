@@ -1,0 +1,1 @@
+{"index": 90096, "D": "the doctrine of or belief in two equally powerful gods.", "S": [], "A": []}

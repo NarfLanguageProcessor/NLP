@@ -1,0 +1,1 @@
+{"index": 121414, "D": "a small galley propelled by both sails and oars.", "S": [], "A": []}

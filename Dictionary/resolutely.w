@@ -1,0 +1,1 @@
+{"index": 269588, "D": "in a determined or firm manner", "S": ["bravely ", "decisively ", "firmly ", "steadfastly "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104804, "D": "a place where troops camp after a day's march.", "S": [], "A": []}

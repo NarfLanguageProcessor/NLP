@@ -1,0 +1,1 @@
+{"index": 349535, "D": "lack of repair;  disrepair; dilapidation", "S": [], "A": []}

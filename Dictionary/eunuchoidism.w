@@ -1,0 +1,1 @@
+{"index": 105561, "D": "an abnormal condition in males, characterized by lack of fully developed reproductive organs and the manifestation of certain female sex characteristics, as high voice or lack of facial and body hair, resulting from the absence of a normal production of male sex hormones.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 28354, "D": "a clasp for holding a woman's or girl's hair in place.", "S": ["clasp ", "fastener ", "pin "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250411, "D": "a variant spelling of prier", "S": ["busybody ", "butt-in ", "detective ", "eavesdropper ", "ferret ", "gumshoe ", "meddler ", "peeping Tom ", "quidnunc ", "rubbernecker ", "sleuth ", "snooper "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197779, "D": "a combining form meaning \u201cthe dead,\u201d \u201ccorpse,\u201d \u201cdead tissue,\u201d used in the formation of compound words", "S": [], "A": []}

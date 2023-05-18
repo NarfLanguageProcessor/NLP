@@ -1,0 +1,1 @@
+{"index": 90609, "D": "a charge for the use of a dock. ", "S": ["abatement ", "allowance ", "credit ", "discount ", "rebate ", "reduction ", "tax write-off ", "write-off "], "A": ["increase ", "development ", "enlargement ", "expansion ", "growth "]}

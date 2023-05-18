@@ -1,0 +1,1 @@
+{"index": 205622, "D": "used or engaged in performing operations", "S": [], "A": []}

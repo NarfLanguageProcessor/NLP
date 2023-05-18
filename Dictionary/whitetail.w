@@ -1,0 +1,1 @@
+{"index": 365181, "D": "a common North American deer, Odocoileus virginianus, having a tail with a white underside.", "S": [], "A": []}

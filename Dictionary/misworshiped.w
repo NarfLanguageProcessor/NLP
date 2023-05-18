@@ -1,0 +1,1 @@
+{"index": 190441, "D": "reverent honor and homage paid to God or a sacred personage, or to any object regarded as sacred.", "S": [], "A": []}

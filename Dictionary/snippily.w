@@ -1,0 +1,1 @@
+{"index": 295588, "D": "sharp or curt, especially in a supercilious or haughty way; impertinent.", "S": [], "A": []}

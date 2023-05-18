@@ -1,0 +1,1 @@
+{"index": 264178, "D": "a system by which radio or television programmes are relayed to subscribers from a receiver via cables", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252660, "D": "plural of propylon. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 80579, "D": "to remove minerals  from; deprive of mineral content.", "S": [], "A": []}

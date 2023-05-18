@@ -1,0 +1,1 @@
+{"index": 246586, "D": "of or relating to the cranium  or skull.", "S": [], "A": []}

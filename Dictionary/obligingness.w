@@ -1,0 +1,1 @@
+{"index": 210214, "D": "willing or eager to do favors, offer one's services, etc.; accommodating", "S": ["acquiescence ", "compliance ", "courtesy ", "deference ", "friendliness ", "kindness ", "politeness ", "respect "], "A": ["disagreement ", "dishonor ", "disobedience ", "disregard ", "impoliteness ", "rudeness "]}

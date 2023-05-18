@@ -1,0 +1,1 @@
+{"index": 342727, "D": "sudden and extreme fear; a sudden terror.", "S": [], "A": []}

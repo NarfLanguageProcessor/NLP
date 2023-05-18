@@ -1,0 +1,1 @@
+{"index": 85800, "D": "to make (a liquid) thinner or weaker by the addition of water or the like.", "S": [], "A": []}

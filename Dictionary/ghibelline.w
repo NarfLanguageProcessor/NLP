@@ -1,0 +1,1 @@
+{"index": 124543, "D": "a member of the aristocratic party in medieval Italy and Germany that supported the claims of the German emperors against the papacy", "S": [], "A": []}

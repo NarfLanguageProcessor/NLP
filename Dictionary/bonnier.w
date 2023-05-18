@@ -1,0 +1,1 @@
+{"index": 37949, "D": "pleasing to the eye; handsome; pretty.", "S": ["blithe ", "buxom ", "cheerful ", "chubby ", "comely ", "fair ", "fine ", "gay ", "goodlooking ", "handsome ", "healthy ", "merry ", "plump ", "pretty ", "ravishing ", "sportive ", "strong "], "A": []}

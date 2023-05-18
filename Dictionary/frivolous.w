@@ -1,0 +1,1 @@
+{"index": 119183, "D": "characterized by lack of seriousness or sense", "S": ["foolish ", "idiotic ", "impractical ", "petty ", "pointless ", "senseless "], "A": ["intelligent ", "sensible ", "wise "]}

@@ -1,0 +1,1 @@
+{"index": 1037, "D": "the ratio of the amount of radiation absorbed  by a surface to the amount of radiation incident upon it.", "S": [], "A": []}

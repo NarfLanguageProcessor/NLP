@@ -1,0 +1,1 @@
+{"index": 26682, "D": "fairly or equally containing a diversity of views, aspects, ingredients, activities, etc.", "S": ["equitable ", "fair "], "A": ["biased ", "partial ", "prejudiced ", "unfair ", "unjust ", "unreasonable "]}

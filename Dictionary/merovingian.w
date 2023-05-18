@@ -1,0 +1,1 @@
+{"index": 183946, "D": "of or relating to the Frankish dynasty established by Clovis, which reigned in Gaul and Germany from a.d. 476 to 751.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7671, "D": "a combining form representing alcohol  in compound words (alcogas), sometimes with the sense \u201cusing alcohol as fuel\u201d (alcoboat; alcotruck).", "S": [], "A": []}

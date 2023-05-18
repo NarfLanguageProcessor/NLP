@@ -1,0 +1,1 @@
+{"index": 105672, "D": "a river in SW Asia, flowing from E Turkey through Syria and Iraq, joining the Tigris to form the Shatt-al-Arab near the Persian Gulf. 1,700 miles (2,735 km) long.", "S": [], "A": []}

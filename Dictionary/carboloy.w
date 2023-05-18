@@ -1,0 +1,1 @@
+{"index": 47488, "D": "a brand of tungsten carbide compound used for dies, cutting tools, and wearing surfaces.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 217732, "D": "to outdo in telling;  surpass in effect", "S": [], "A": []}

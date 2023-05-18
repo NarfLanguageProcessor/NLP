@@ -1,0 +1,1 @@
+{"index": 207471, "D": "naturally, without premeditation, prompting, or planning", "S": [], "A": []}

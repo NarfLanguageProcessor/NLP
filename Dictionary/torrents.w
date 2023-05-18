@@ -1,0 +1,1 @@
+{"index": 326253, "D": "a stream of water flowing with great rapidity and violence.", "S": ["cascade ", "deluge ", "downpour ", "flood ", "outburst ", "spate ", "stream ", "tide ", "waterfall "], "A": ["drip "]}

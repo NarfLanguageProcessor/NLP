@@ -1,0 +1,1 @@
+{"index": 195056, "D": "having several or many teeth or toothlike processes.", "S": [], "A": []}

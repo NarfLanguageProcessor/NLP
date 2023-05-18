@@ -1,0 +1,1 @@
+{"index": 45357, "D": "immature or inexperienced", "S": ["inexperienced "], "A": ["experienced ", "initiated ", "mature ", "sophisticated "]}

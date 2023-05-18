@@ -1,0 +1,1 @@
+{"index": 86403, "D": "a white, crystalline, antihistaminic compound, C17H21NO, used orally, topically, and parenterally, especially for allergies.", "S": [], "A": []}

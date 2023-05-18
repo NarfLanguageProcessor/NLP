@@ -1,0 +1,1 @@
+{"index": 67590, "D": "of, relating to, or secured by a contract. ", "S": ["constitutional ", "fair ", "juridical ", "lawful ", "legitimate ", "proper ", "statutory ", "valid "], "A": ["illegal ", "illegitimate ", "invalid ", "unacceptable ", "unlawful "]}

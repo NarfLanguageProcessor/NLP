@@ -1,0 +1,1 @@
+{"index": 180204, "D": "the amount by which a price is increased.", "S": ["addition "], "A": ["cut ", "decrease ", "discount ", "loss ", "markdown "]}

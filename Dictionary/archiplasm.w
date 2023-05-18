@@ -1,0 +1,1 @@
+{"index": 18992, "D": "a variant spelling of archoplasm", "S": [], "A": []}

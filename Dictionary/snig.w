@@ -1,0 +1,1 @@
+{"index": 295536, "D": "to drag (a log) along the ground by a chain fastened at one end", "S": [], "A": []}

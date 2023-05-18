@@ -1,0 +1,1 @@
+{"index": 172693, "D": "like or characteristic of Abraham Lincoln", "S": [], "A": []}

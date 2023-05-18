@@ -1,0 +1,1 @@
+{"index": 157959, "D": "of or containing iridium, especially in the tetravalent state.", "S": [], "A": []}

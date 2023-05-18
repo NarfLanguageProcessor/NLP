@@ -1,0 +1,1 @@
+{"index": 207302, "D": "Compare singular (def. 7). ", "S": [], "A": []}

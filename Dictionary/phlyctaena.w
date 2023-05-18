@@ -1,0 +1,1 @@
+{"index": 234499, "D": "a small vesicle, blister, or pustule.", "S": [], "A": []}

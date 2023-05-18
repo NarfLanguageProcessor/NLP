@@ -1,0 +1,1 @@
+{"index": 246403, "D": "to come into collision or disagreement; be contradictory, at variance, or in opposition; clash", "S": [], "A": []}

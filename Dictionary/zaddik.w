@@ -1,0 +1,1 @@
+{"index": 368743, "D": "a person of outstanding virtue and piety.", "S": [], "A": []}

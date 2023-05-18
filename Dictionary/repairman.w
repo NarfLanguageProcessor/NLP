@@ -1,0 +1,1 @@
+{"index": 267992, "D": "a person whose occupation is the making of repairs,  readjustments, etc.", "S": ["technician "], "A": []}

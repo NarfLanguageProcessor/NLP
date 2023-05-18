@@ -1,0 +1,1 @@
+{"index": 39663, "D": "one of a class of prose pieces dealing with Vedic rituals and sacrifices.", "S": [], "A": []}

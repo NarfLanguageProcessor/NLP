@@ -1,0 +1,1 @@
+{"index": 317075, "D": "the Bull, a zodiacal constellation between Gemini and Aries, containing the bright star Aldebaran.", "S": [], "A": []}

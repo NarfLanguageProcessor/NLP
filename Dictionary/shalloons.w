@@ -1,0 +1,1 @@
+{"index": 287266, "D": "a light, twilled woolen fabric used chiefly for linings.", "S": [], "A": []}

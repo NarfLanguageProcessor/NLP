@@ -1,0 +1,1 @@
+{"index": 138083, "D": "white or yellowish-white, needle-shaped crystals, C12H18O2, used chiefly as an antiseptic and for the expulsion of intestinal worms.", "S": [], "A": []}

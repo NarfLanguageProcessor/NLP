@@ -1,0 +1,1 @@
+{"index": 43426, "D": "a bushy  state or form.", "S": ["break ", "bumpiness ", "coarseness ", "crack ", "hairiness ", "jaggedness ", "nick ", "raggedness ", "scratch ", "shagginess ", "unevenness "], "A": ["courtesy ", "evenness ", "gentility ", "kindness ", "politeness ", "regularity ", "smoothness "]}

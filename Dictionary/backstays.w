@@ -1,0 +1,1 @@
+{"index": 25947, "D": "a supporting or checking piece in a mechanism.", "S": [], "A": []}

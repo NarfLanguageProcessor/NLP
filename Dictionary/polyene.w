@@ -1,0 +1,1 @@
+{"index": 241840, "D": "a hydrocarbon containing two or more double bonds, often conjugated.", "S": [], "A": []}

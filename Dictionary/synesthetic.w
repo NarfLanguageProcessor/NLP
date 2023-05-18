@@ -1,0 +1,1 @@
+{"index": 291642, "D": "a sensation produced in one modality when a stimulus is applied to another modality, as when the hearing of a certain sound induces the visualization of a certain color.", "S": [], "A": []}

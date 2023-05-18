@@ -1,0 +1,1 @@
+{"index": 181071, "D": "a partner in marriage; spouse. ", "S": ["identical "], "A": ["different ", "dissimilar ", "unlike "]}

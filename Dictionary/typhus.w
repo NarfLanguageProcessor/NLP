@@ -1,0 +1,1 @@
+{"index": 324277, "D": "an acute, infectious disease caused by several species of Rickettsia, transmitted by lice and fleas, and characterized by acute prostration, headache, and a peculiar eruption of reddish spots on the body.", "S": ["Kews Garden spotted fever ", "Rocky Mountain spotted fever ", "cerebrospinal fever ", "cerebrospinal meningitis "], "A": []}

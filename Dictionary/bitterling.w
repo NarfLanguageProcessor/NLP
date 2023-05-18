@@ -1,0 +1,1 @@
+{"index": 35256, "D": "a cyprinid fish, Rhodeus sericeus, found in central and eastern Europe, the female of which has a long, bright yellow or red ovipositor to deposit eggs in the mantle cavity of mussels.", "S": [], "A": []}

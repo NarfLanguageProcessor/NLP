@@ -1,0 +1,1 @@
+{"index": 134631, "D": "a promontory extending into a large body of water.", "S": ["bluff ", "cape ", "cliff ", "foreland ", "ness ", "peak ", "promontory ", "ridge ", "spit ", "strip "], "A": []}

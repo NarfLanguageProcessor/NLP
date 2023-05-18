@@ -1,0 +1,1 @@
+{"index": 127885, "D": "something especially attractive or pleasing, especially cake, cookies, or candy.", "S": ["tidbit "], "A": ["punishment "]}

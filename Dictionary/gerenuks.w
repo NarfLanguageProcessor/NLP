@@ -1,0 +1,1 @@
+{"index": 124157, "D": "a reddish-brown antelope, Litocranius walleri, of eastern Africa, having a long, slender neck.", "S": [], "A": []}

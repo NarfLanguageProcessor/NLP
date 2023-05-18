@@ -1,0 +1,1 @@
+{"index": 28353, "D": "a form of detector or control device employing a resistor that varies in proportion to its temperature.", "S": [], "A": []}

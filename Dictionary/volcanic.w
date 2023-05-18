@@ -1,0 +1,1 @@
+{"index": 361076, "D": "of or relating to a volcano", "S": ["demonstrative ", "fidgety ", "fiery ", "high-strung ", "hysterical ", "impulsive ", "restless ", "skittish ", "temperamental "], "A": ["calm ", "cold ", "cool ", "laid-back "]}

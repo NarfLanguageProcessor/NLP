@@ -1,0 +1,1 @@
+{"index": 162405, "D": "(of a woman) stately; regal.", "S": [], "A": []}

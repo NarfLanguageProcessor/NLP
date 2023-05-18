@@ -1,0 +1,1 @@
+{"index": 319389, "D": "the end or extremity of anything.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 192546, "D": "having the basic or haploid number of chromosomes.", "S": [], "A": []}

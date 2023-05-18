@@ -1,0 +1,1 @@
+{"index": 369889, "D": "any parasitic animal or protozoan.", "S": [], "A": []}

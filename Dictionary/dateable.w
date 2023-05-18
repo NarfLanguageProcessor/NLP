@@ -1,0 +1,1 @@
+{"index": 77166, "D": "a particular month, day, and year at which some event happened or will happen", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122975, "D": "one of any of several breeds of hounds,  as the Afghan, borzoi, greyhound, Saluki, or whippet, that hunts by sighting the game rather than by scent.", "S": [], "A": []}

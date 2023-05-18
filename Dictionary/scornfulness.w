@@ -1,0 +1,1 @@
+{"index": 281298, "D": "full of scorn; derisive; contemptuous, He smiled in a scornful way.", "S": ["aloofness ", "chutzpah ", "disdain ", "ego ", "egotism ", "hubris ", "pretension ", "pride ", "smugness ", "vanity "], "A": ["humility ", "modesty ", "carefulness ", "caution ", "meekness ", "shyness ", "timidity "]}

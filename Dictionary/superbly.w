@@ -1,0 +1,1 @@
+{"index": 311442, "D": "in an admirably fine or excellent way; extremely well", "S": ["appealingly ", "attractively ", "charmingly ", "delightfully ", "elegantly ", "exquisitely ", "gorgeously ", "gracefully ", "handsomely ", "magnificently ", "seductively ", "splendidly ", "sublimely ", "tastefully ", "wonderfully "], "A": ["poorly "]}

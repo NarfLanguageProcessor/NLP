@@ -1,0 +1,1 @@
+{"index": 320664, "D": "a worker of wonders or miracles; magician.", "S": ["charmer ", "genius ", "virtuoso ", "witch ", "wizard "], "A": []}

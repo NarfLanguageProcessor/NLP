@@ -1,0 +1,1 @@
+{"index": 266163, "D": "to make pregnant;  cause to be with child or young.", "S": [], "A": []}

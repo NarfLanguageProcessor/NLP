@@ -1,0 +1,1 @@
+{"index": 83598, "D": "contrived, planned, invented, or designed", "S": ["concluded ", "planned "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 261316, "D": "having little flesh, especially on a large-boned frame; gaunt.", "S": ["angular ", "gaunt ", "lanky ", "lean ", "scrawny "], "A": ["chubby "]}

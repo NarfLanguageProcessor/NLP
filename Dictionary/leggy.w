@@ -1,0 +1,1 @@
+{"index": 170085, "D": "having awkwardly long legs. ", "S": ["awkward ", "bony ", "gawky ", "lanky ", "long-legged ", "long-limbed ", "lumbering ", "skinny ", "spindly ", "tall ", "thin "], "A": []}

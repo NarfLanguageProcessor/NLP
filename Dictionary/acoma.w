@@ -1,0 +1,1 @@
+{"index": 2638, "D": "a Pueblo Indian village near Albuquerque, New Mexico, built on a sandstone mesa", "S": [], "A": []}

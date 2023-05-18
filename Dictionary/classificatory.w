@@ -1,0 +1,1 @@
+{"index": 59420, "D": "the act of classifying. ", "S": ["definitive ", "detailed ", "eloquent ", "expressive ", "identifying ", "illuminating ", "pictorial ", "revealing ", "vivid "], "A": ["dull "]}

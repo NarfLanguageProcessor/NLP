@@ -1,0 +1,1 @@
+{"index": 289902, "D": "the act or process of surrounding and attacking a fortified place in such a way as to isolate it from help and supplies, for the purpose of lessening the resistance of the defenders and thereby making capture possible.", "S": [], "A": []}

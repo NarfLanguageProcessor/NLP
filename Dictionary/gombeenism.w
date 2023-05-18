@@ -1,0 +1,1 @@
+{"index": 127630, "D": "the practice of usury", "S": [], "A": []}

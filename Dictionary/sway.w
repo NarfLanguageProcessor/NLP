@@ -1,0 +1,1 @@
+{"index": 313978, "D": "to move or swing to and fro, as something fixed at one end or resting on a support.", "S": ["clout "], "A": ["inability ", "powerlessness ", "weakness "]}

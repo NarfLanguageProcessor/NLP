@@ -1,0 +1,1 @@
+{"index": 194412, "D": [], "S": ["action ", "mobility ", "motion ", "progression ", "travel ", "travelling "], "A": ["repose ", "rest "]}

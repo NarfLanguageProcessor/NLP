@@ -1,0 +1,1 @@
+{"index": 320274, "D": "a yellow, crystalline, water-insoluble solid, C7H5N5O8, used as a chemical indicator and as a detonator and bursting charge in small-caliber shells.", "S": [], "A": []}

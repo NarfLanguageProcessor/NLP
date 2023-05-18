@@ -1,0 +1,1 @@
+{"index": 123354, "D": "producing or reproducing by buds or gemmae.", "S": [], "A": []}

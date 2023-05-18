@@ -1,0 +1,1 @@
+{"index": 231670, "D": "causing insidious harm or ruin; ruinous; injurious; hurtful", "S": ["abuse ", "damage ", "disservice ", "impairment ", "loss ", "mischief ", "misuse ", "sabotage ", "vandalism ", "violence ", "wrong "], "A": ["favor ", "help ", "kindness ", "benefit ", "goodness ", "happiness ", "profit ", "virtue "]}

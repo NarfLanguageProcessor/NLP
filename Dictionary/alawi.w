@@ -1,0 +1,1 @@
+{"index": 7376, "D": "a member of a Shi\u02bfite sect inhabiting the coastal district of Latakia in northwest Syria.", "S": [], "A": []}

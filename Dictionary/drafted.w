@@ -1,0 +1,1 @@
+{"index": 92496, "D": "a drawing, sketch, or design.", "S": ["commissioned ", "engaged ", "enrolled ", "entered ", "inducted ", "joined ", "registered ", "volunteered "], "A": []}

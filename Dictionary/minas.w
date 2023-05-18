@@ -1,0 +1,1 @@
+{"index": 187669, "D": "an ancient unit of weight and value equal to the sixtieth part of a talent.", "S": [], "A": []}

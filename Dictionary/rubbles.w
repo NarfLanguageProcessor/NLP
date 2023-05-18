@@ -1,0 +1,1 @@
+{"index": 275131, "D": "broken bits and pieces of anything, as that which is demolished", "S": ["debris "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175530, "D": "a European plant, Levisticum officinale, of the parsley family, having coarsely toothed compound leaves, cultivated in gardens.", "S": [], "A": []}

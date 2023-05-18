@@ -1,0 +1,1 @@
+{"index": 240939, "D": "a knife  with one or more blades that fold into the handle, suitable for carrying in the pocket. ", "S": ["Swiss Army knife ", "flick knife ", "penknife ", "switchblade "], "A": []}

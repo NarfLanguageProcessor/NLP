@@ -1,0 +1,1 @@
+{"index": 349946, "D": "(of a firearm or its bore) not rifled; smoothbore", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 168188, "D": "the male lanner, which is smaller than the female.", "S": [], "A": []}

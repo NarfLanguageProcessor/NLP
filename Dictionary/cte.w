@@ -1,0 +1,1 @@
+{"index": 74353, "D": "a progressive degenerative neurological disease caused by repeated cerebral concussion or milder traumatic brain injury and characterized by memory loss, behavioral disturbances, speech problems, slowed movement, etc. The disease was first identified in boxers.", "S": [], "A": []}

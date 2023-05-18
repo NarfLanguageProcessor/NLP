@@ -1,0 +1,1 @@
+{"index": 209978, "D": "A geologic process in which the edge of a tectonic plate consisting of oceanic crust is thrust over the edge of an adjacent plate consisting of continental crust. Compare  subduction.", "S": [], "A": []}

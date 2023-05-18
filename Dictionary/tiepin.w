@@ -1,0 +1,1 @@
+{"index": 323386, "D": "a straight pin,  usually with an ornamented head and a small metal sheath for its point, for holding together the ends of a necktie or to pin  them to a shirt front.", "S": ["scarfpin ", "tie tac ", "tie tack "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129642, "D": "a type of sporozoan parasite that inhabits the digestive and other cavities of various invertebrates and produces cysts filled with spores.", "S": [], "A": []}

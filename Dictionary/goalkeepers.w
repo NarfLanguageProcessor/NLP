@@ -1,0 +1,1 @@
+{"index": 127183, "D": "(in ice hockey, field hockey, lacrosse, soccer, etc.) a player whose chief duty is to prevent the ball or puck from crossing or entering the goal. ", "S": [], "A": []}

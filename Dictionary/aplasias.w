@@ -1,0 +1,1 @@
+{"index": 17052, "D": "defective development or congenital absence of a limb, organ, or other body part.", "S": [], "A": []}

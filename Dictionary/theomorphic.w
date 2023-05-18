@@ -1,0 +1,1 @@
+{"index": 321051, "D": "having the form or likeness of God or a deity.", "S": [], "A": []}

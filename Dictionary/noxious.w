@@ -1,0 +1,1 @@
+{"index": 209232, "D": "harmful or injurious to health or physical well-being", "S": ["corrupting ", "destructive ", "fetid ", "harmful ", "pernicious ", "poisonous ", "putrid ", "toxic ", "unhealthy ", "virulent "], "A": ["harmless ", "healthy ", "helpful ", "kind ", "nonpoisonous ", "sweet "]}

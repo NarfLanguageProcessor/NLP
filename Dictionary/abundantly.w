@@ -1,0 +1,1 @@
+{"index": 1160, "D": "he made his disagreement with her abundantly clear", "S": ["amply ", "generously ", "handsomely ", "lavishly ", "richly "], "A": ["meagerly ", "meanly ", "poorly "]}

@@ -1,0 +1,1 @@
+{"index": 51326, "D": "a dog, usually represented as having three heads, that guarded the entrance of the infernal regions.", "S": [], "A": []}

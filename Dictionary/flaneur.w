@@ -1,0 +1,1 @@
+{"index": 113926, "D": "a person who lounges or strolls around in a seemingly aimless way; an idler or loafer", "S": [], "A": []}

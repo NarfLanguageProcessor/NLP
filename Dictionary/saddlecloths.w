@@ -1,0 +1,1 @@
+{"index": 276467, "D": "a cloth  placed over the saddle  of a racehorse bearing the horse's number.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 240493, "D": "the bud of the ascending axis of a plant while still in the embryo.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 10580, "D": "to introduce an amino group into (a compound).", "S": [], "A": []}

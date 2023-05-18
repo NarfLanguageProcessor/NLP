@@ -1,0 +1,1 @@
+{"index": 118322, "D": "Paraguayan political leader", "S": [], "A": []}

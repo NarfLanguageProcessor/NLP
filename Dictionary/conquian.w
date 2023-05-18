@@ -1,0 +1,1 @@
+{"index": 66640, "D": "a variety of rummy for two players.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53481, "D": "a lightweight cotton fabric of open texture.", "S": [], "A": []}

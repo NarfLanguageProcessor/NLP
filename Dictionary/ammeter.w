@@ -1,0 +1,1 @@
+{"index": 10716, "D": "an instrument for measuring current in amperes. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238527, "D": "to appease or pacify, especially by concessions or conciliatory gestures", "S": ["appease ", "assuage ", "mollify ", "pacify ", "reconcile ", "satisfy ", "soothe "], "A": ["agitate ", "incite ", "irritate ", "provoke ", "upset ", "worry ", "aggravate ", "trouble "]}

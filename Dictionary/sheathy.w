@@ -1,0 +1,1 @@
+{"index": 287722, "D": "a case or covering for the blade of a sword, dagger, or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 224449, "D": "any plant of the genus Pandanus, having sword-shaped leaves arranged in a spiral, comprising the screw pines.", "S": [], "A": []}

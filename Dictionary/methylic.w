@@ -1,0 +1,1 @@
+{"index": 185244, "D": "of, relating to, or characteristic of the methyl group. ", "S": [], "A": []}

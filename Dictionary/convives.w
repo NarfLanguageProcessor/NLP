@@ -1,0 +1,1 @@
+{"index": 68121, "D": "an eating or drinking companion; fellow diner or drinker.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 235642, "D": "a yellow crystalline substance, C11H8O3, produced by the human tubercle bacillus, Mycobacterium tuberculosis, having antibiotic and blood-clotting properties.", "S": [], "A": []}

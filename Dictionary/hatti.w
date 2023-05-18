@@ -1,0 +1,1 @@
+{"index": 134267, "D": "an ancient people who lived in central Anatolia before its conquest by the Hittites.", "S": [], "A": []}

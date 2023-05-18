@@ -1,0 +1,1 @@
+{"index": 366696, "D": "a person who affects wittiness.", "S": ["dunce "], "A": ["brain "]}

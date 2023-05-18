@@ -1,0 +1,1 @@
+{"index": 249460, "D": "to occupy the place of authority or control, as in an assembly or meeting; act as president  or chairperson.", "S": ["administrator ", "chairperson ", "chairwoman ", "director ", "leader ", "spokesman "], "A": []}

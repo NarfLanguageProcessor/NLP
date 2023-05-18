@@ -1,0 +1,1 @@
+{"index": 214012, "D": "an extended musical composition with a text more or less dramatic in character and usually based upon a religious theme, for solo voices, chorus, and orchestra, and performed without action, costume, or scenery.", "S": ["chant ", "ditty ", "paean ", "psalm "], "A": []}

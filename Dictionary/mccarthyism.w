@@ -1,0 +1,1 @@
+{"index": 181652, "D": "the practice of making accusations of disloyalty, especially of pro-Communist activity, in many instances unsupported by proof or based on slight, doubtful, or irrelevant evidence.", "S": [], "A": []}

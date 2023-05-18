@@ -1,0 +1,1 @@
+{"index": 67021, "D": "Compare performative (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 330215, "D": "of or relating to a species having male, female, and hermaphrodite flowers on different plants.", "S": [], "A": []}

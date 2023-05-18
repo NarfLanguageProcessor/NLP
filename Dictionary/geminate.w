@@ -1,0 +1,1 @@
+{"index": 123305, "D": "to make or become doubled or paired.", "S": ["biformed ", "binary ", "coupled ", "dual ", "duplicate ", "geminated ", "twin ", "twofold "], "A": []}

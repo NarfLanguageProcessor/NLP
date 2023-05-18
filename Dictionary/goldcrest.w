@@ -1,0 +1,1 @@
+{"index": 127495, "D": "a Eurasian kinglet, Regulus regulus, having a bright yellow patch on the top of the head.", "S": [], "A": []}

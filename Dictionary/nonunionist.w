@@ -1,0 +1,1 @@
+{"index": 208092, "D": "disregard of or opposition to trade unions.", "S": [], "A": []}

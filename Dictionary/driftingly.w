@@ -1,0 +1,1 @@
+{"index": 93073, "D": "a driving movement or force; impulse; impetus; pressure. ", "S": [], "A": []}

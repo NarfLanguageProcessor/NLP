@@ -1,0 +1,1 @@
+{"index": 299298, "D": "any of various burrowing rodents of the squirrel family, especially of the genus Spermophilus (or Citellus), sometimes sufficiently numerous to do much damage to crops, as the ground squirrels and susliks.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198770, "D": "highly excitable; unnaturally or acutely uneasy or apprehensive", "S": ["anxiously ", "excitedly ", "restlessly "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 145660, "D": "to cause to acquire Yankee  traits or characteristics", "S": [], "A": []}

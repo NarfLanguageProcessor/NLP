@@ -1,0 +1,1 @@
+{"index": 37928, "D": "to hit, strike, collide, etc.", "S": ["bat ", "blow ", "punch ", "shot ", "swing "], "A": []}

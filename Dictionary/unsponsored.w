@@ -1,0 +1,1 @@
+{"index": 351810, "D": "a person who vouches or is responsible for a person or thing.", "S": [], "A": []}

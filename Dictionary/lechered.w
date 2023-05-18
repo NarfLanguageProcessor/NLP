@@ -1,0 +1,1 @@
+{"index": 169805, "D": "a man given to excessive sexual indulgence; a lascivious or licentious man.", "S": [], "A": []}

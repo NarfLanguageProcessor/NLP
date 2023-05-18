@@ -1,0 +1,1 @@
+{"index": 356992, "D": "to disappear from sight, especially quickly; become invisible", "S": ["faded "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238109, "D": "a spell, charm, or hex", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158408, "D": "not retentive;  lacking power to retain, especially mentally.", "S": [], "A": []}

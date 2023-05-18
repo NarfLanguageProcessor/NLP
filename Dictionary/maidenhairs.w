@@ -1,0 +1,1 @@
+{"index": 177772, "D": "any fern of the genus Adiantum, the cultivated species of which have fine, glossy stalks and delicate, finely divided fronds.", "S": [], "A": []}

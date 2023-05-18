@@ -1,0 +1,1 @@
+{"index": 132539, "D": "a bronze coin and monetary unit of Saudi Arabia, one 100th of a riyal.", "S": [], "A": []}

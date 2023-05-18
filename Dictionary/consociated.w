@@ -1,0 +1,1 @@
+{"index": 66870, "D": "associate. ", "S": ["affect ", "apply ", "ascribe ", "assign ", "associate ", "compare ", "concern ", "connect ", "link ", "pertain ", "refer "], "A": ["disconnect ", "divide ", "separate ", "disjoin "]}

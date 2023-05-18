@@ -1,0 +1,1 @@
+{"index": 174498, "D": "the act of lodging. ", "S": [], "A": []}

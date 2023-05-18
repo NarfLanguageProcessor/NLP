@@ -1,0 +1,1 @@
+{"index": 251944, "D": "a person favoring progress,  as in politics; progressive.", "S": [], "A": []}

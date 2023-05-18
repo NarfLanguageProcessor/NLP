@@ -1,0 +1,1 @@
+{"index": 7639, "D": "to change by or as by alchemy;  transmute", "S": [], "A": []}

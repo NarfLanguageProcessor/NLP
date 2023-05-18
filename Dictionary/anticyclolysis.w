@@ -1,0 +1,1 @@
+{"index": 14899, "D": "the weakening or extinction of an anticyclone,  usually in simultaneous occurrence with a decrease in atmospheric pressure", "S": [], "A": []}

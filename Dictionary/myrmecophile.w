@@ -1,0 +1,1 @@
+{"index": 188477, "D": "an animal that lives in a colony of ants", "S": [], "A": []}

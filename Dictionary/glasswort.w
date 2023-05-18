@@ -1,0 +1,1 @@
+{"index": 126004, "D": "any of several plants of the genus Salicornia, of the amaranth family, having succulent stems with rudimentary leaves, formerly used, when burned to ashes, as a source of soda for glassmaking.", "S": [], "A": []}

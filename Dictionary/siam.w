@@ -1,0 +1,1 @@
+{"index": 289477, "D": "former name of Thailand (def. 1). ", "S": [], "A": []}

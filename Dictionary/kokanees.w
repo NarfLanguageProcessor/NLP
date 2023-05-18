@@ -1,0 +1,1 @@
+{"index": 165883, "D": "any of several lacustrine sockeye salmons.", "S": [], "A": []}

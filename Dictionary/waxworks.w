@@ -1,0 +1,1 @@
+{"index": 363438, "D": "an exhibition of or a museum for displaying wax figures, ornaments, etc.", "S": [], "A": []}

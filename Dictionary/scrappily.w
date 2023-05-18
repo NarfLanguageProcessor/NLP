@@ -1,0 +1,1 @@
+{"index": 281600, "D": "made up of scraps  or of odds and ends; fragmentary; disconnected.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52775, "D": "a water hole, pool, or puddle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 71907, "D": "a person who practices or is highly skilled in a craft; artisan. ", "S": [], "A": []}

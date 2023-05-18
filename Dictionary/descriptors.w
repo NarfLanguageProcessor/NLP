@@ -1,0 +1,1 @@
+{"index": 82457, "D": "a significant word or phrase used to categorize or describe text or other material, especially when indexing or in an information retrieval system.", "S": ["caption ", "description ", "headline ", "label ", "legend ", "lemma ", "rubric "], "A": []}

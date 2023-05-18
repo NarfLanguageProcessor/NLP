@@ -1,0 +1,1 @@
+{"index": 176510, "D": "of or relating to Luther,  adhering to his doctrines, or belonging to one of the Protestant churches that bear his name.", "S": [], "A": []}

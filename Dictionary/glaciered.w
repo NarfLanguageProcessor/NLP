@@ -1,0 +1,1 @@
+{"index": 125753, "D": "an extended mass of ice formed from snow falling and accumulating over the years and moving very slowly, either descending from high mountains, as in valley glaciers, or moving outward from centers of accumulation, as in continental glaciers.", "S": [], "A": []}

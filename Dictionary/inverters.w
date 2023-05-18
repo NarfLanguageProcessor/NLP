@@ -1,0 +1,1 @@
+{"index": 157155, "D": "a person or thing that inverts. ", "S": [], "A": []}

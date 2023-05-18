@@ -1,0 +1,1 @@
+{"index": 295620, "D": "to weep or cry with sniffling.", "S": ["discontented "], "A": ["contented ", "happy ", "pleased ", "satisfied "]}

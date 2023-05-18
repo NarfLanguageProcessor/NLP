@@ -1,0 +1,1 @@
+{"index": 251227, "D": "an elongated form of the oinochoe.", "S": [], "A": []}

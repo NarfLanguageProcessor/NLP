@@ -1,0 +1,1 @@
+{"index": 9453, "D": "the act or process of altering;  the state of being altered", "S": ["adjustment ", "amendment ", "conversion ", "diversification ", "modification ", "mutation ", "revision ", "transformation ", "variance ", "variation "], "A": ["agreement ", "sameness ", "stagnation "]}

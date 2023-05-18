@@ -1,0 +1,1 @@
+{"index": 107699, "D": "cost or charge", "S": ["costs ", "damages ", "outlay ", "overhead ", "reparations "], "A": []}

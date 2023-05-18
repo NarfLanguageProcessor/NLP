@@ -1,0 +1,1 @@
+{"index": 225603, "D": "a steerable glider  with inflatable wings proposed for use as an emergency vehicle for travel between a space station and the earth or for the recovery of rocket boosters.", "S": [], "A": []}

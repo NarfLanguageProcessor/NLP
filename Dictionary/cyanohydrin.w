@@ -1,0 +1,1 @@
+{"index": 56868, "D": "any of a class of organic chemical compounds that contains both the CN and the OH group, usually linked to the same carbon atom.", "S": [], "A": []}

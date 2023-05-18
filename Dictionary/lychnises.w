@@ -1,0 +1,1 @@
+{"index": 171695, "D": "any showy-flowered plant belonging to the genus Lychnis, of the pink family.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 128400, "D": "an administrative division of a country, especially Egypt.", "S": [], "A": []}

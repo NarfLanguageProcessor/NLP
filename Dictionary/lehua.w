@@ -1,0 +1,1 @@
+{"index": 170223, "D": "a tree, Metrosideros villosa, of the Hawaiian islands, yielding a hard wood.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5065, "D": "a meteorograph  for use in aircraft.", "S": [], "A": []}

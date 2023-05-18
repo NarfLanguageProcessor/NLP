@@ -1,0 +1,1 @@
+{"index": 168262, "D": "purgative; cathartic.", "S": [], "A": []}

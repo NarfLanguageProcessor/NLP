@@ -1,0 +1,1 @@
+{"index": 137584, "D": "of, relating to, or characterized by heterogenesis.", "S": [], "A": []}

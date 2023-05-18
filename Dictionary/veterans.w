@@ -1,0 +1,1 @@
+{"index": 359150, "D": "a person who has had long service or experience in an occupation, office, or the like", "S": ["conservative group ", "diehards ", "war-horses "], "A": []}

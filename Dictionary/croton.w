@@ -1,0 +1,1 @@
+{"index": 73931, "D": "any of numerous chiefly tropical plants constituting the genus Croton, of the spurge family, several species of which, as C. tiglium, have important medicinal properties.", "S": [], "A": []}

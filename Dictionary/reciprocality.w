@@ -1,0 +1,1 @@
+{"index": 262872, "D": "given or felt by each toward the other; mutual", "S": ["cooperation ", "exchange ", "mutuality ", "reciprocation "], "A": []}

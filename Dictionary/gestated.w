@@ -1,0 +1,1 @@
+{"index": 124369, "D": "to carry in the womb during the period from conception to delivery.", "S": ["gestate "], "A": []}

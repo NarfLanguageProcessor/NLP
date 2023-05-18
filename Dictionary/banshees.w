@@ -1,0 +1,1 @@
+{"index": 27585, "D": "(in Irish folklore) a spirit in the form of a wailing woman who appears to or is heard by members of a family as a sign that one of them is about to die.", "S": ["demon ", "devil ", "phantom ", "shadow ", "soul ", "specter ", "vampire ", "vision "], "A": ["living being "]}

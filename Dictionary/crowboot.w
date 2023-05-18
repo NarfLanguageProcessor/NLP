@@ -1,0 +1,1 @@
+{"index": 73988, "D": "a moccasinlike boot made of soft leather.", "S": [], "A": []}

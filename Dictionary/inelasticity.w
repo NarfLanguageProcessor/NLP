@@ -1,0 +1,1 @@
+{"index": 151508, "D": "not elastic;  lacking flexibility or resilience; unyielding.", "S": ["durability ", "hardness ", "inflexibility ", "toughness "], "A": ["flexibility ", "indefiniteness ", "infirmity ", "instability ", "movability ", "softness ", "uncertainty ", "weakness "]}

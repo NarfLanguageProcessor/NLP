@@ -1,0 +1,1 @@
+{"index": 15525, "D": "the spirit, practices, or methods of the Middle Ages.", "S": [], "A": []}

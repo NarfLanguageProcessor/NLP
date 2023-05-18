@@ -1,0 +1,1 @@
+{"index": 19429, "D": "a wild sheep, Ovis ammon, of Asia, having long, curved horns that typically form an open, outwardly extended spiral", "S": [], "A": []}

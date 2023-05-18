@@ -1,0 +1,1 @@
+{"index": 261502, "D": "to make more or less familiar, aware, or conversant (usually followed by with)", "S": [], "A": []}

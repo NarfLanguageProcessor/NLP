@@ -1,0 +1,1 @@
+{"index": 85215, "D": "pertaining to diet  or to regulation of the use of food.", "S": [], "A": []}

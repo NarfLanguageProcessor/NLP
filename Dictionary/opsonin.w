@@ -1,0 +1,1 @@
+{"index": 213759, "D": "a constituent of normal or immune blood serum that makes invading bacteria more susceptible to the destructive action of the phagocytes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 61267, "D": "a web spun by a spider to entrap its prey.", "S": [], "A": []}

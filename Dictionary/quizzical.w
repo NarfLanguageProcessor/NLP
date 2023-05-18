@@ -1,0 +1,1 @@
+{"index": 259083, "D": "odd, queer, or comical.", "S": ["incredulous ", "mocking ", "sardonic "], "A": ["certain ", "understanding "]}

@@ -1,0 +1,1 @@
+{"index": 135151, "D": "a unit of mass or weight equal to 100 grams, equivalent to 3.527 ounces avoirdupois. Abbreviation", "S": [], "A": []}

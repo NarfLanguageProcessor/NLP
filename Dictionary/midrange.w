@@ -1,0 +1,1 @@
+{"index": 186792, "D": "of, relating to, or occupying the middle audio frequencies", "S": [], "A": []}

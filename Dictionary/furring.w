@@ -1,0 +1,1 @@
+{"index": 120502, "D": "the act of lining, trimming, or clothing with fur", "S": ["covering ", "cushioning ", "lining ", "padding "], "A": []}

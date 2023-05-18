@@ -1,0 +1,1 @@
+{"index": 171118, "D": "an acute or chronic disease characterized by a gross proliferation of leucocytes, which crowd into the bone marrow, spleen, lymph nodes, etc, and suppress the blood-forming apparatus", "S": [], "A": []}

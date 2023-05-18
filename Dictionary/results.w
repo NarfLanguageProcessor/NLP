@@ -1,0 +1,1 @@
+{"index": 270139, "D": "to spring, arise, or proceed as a consequence of actions, circumstances, premises, etc.; be the outcome.", "S": ["chain reaction ", "impact ", "outcome "], "A": ["cause ", "origin ", "source ", "start "]}

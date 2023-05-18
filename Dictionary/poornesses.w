@@ -1,0 +1,1 @@
+{"index": 243183, "D": "having little or no money, goods, or other means of support", "S": ["destitution ", "impecuniousness ", "impoverishment ", "meagerness ", "need ", "poverty "], "A": ["luxury ", "wealth "]}

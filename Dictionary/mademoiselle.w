@@ -1,0 +1,1 @@
+{"index": 177196, "D": "a French title of respect equivalent to \u201cMiss\u201d, used in speaking to or of a girl or unmarried woman", "S": ["adolescent ", "daughter ", "lady ", "schoolgirl ", "teenager ", "young woman "], "A": ["boy "]}

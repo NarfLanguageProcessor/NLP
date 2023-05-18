@@ -1,0 +1,1 @@
+{"index": 35094, "D": "a collection of silky filaments by which certain mollusks attach themselves to rocks.", "S": [], "A": []}

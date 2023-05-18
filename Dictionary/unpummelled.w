@@ -1,0 +1,1 @@
+{"index": 348812, "D": "to beat or thrash with or as if with the fists.", "S": [], "A": []}

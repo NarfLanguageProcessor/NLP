@@ -1,0 +1,1 @@
+{"index": 307399, "D": "the space about the altar of a church, usually enclosed, for the clergy and other officials.", "S": [], "A": []}

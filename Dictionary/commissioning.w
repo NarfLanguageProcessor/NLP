@@ -1,0 +1,1 @@
+{"index": 64093, "D": "the act of committing  or entrusting a person, group, etc., with supervisory power or authority.", "S": ["approval ", "certification ", "choice ", "designation ", "election ", "nomination ", "selection "], "A": ["refusal ", "rejection "]}

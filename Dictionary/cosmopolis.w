@@ -1,0 +1,1 @@
+{"index": 70082, "D": "an internationally important city inhabited by many different peoples reflecting a great variety of cultures, attitudes, etc.", "S": [], "A": []}

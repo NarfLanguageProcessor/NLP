@@ -1,0 +1,1 @@
+{"index": 207700, "D": "stopped or kept from carrying on normal activity", "S": [], "A": []}

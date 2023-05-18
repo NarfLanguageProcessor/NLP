@@ -1,0 +1,1 @@
+{"index": 89380, "D": "to cause disorder or turmoil in", "S": [], "A": []}

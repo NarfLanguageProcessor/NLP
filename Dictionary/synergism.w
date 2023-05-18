@@ -1,0 +1,1 @@
+{"index": 291628, "D": "synergy (def. 1). ", "S": ["aid ", "assistance ", "collaboration ", "participation ", "partnership ", "service ", "unity "], "A": ["hindrance ", "hurt ", "injury ", "antagonism ", "disagreement ", "discord ", "disunion ", "disunity ", "division ", "divorce ", "hostility ", "management ", "separation "]}

@@ -1,0 +1,1 @@
+{"index": 328857, "D": "a person or thing that trembles. ", "S": ["shock ", "temblor ", "upheaval "], "A": ["perfection "]}

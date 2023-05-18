@@ -1,0 +1,1 @@
+{"index": 324100, "D": "a short nail made of tin-plated iron.", "S": [], "A": []}

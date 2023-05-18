@@ -1,0 +1,1 @@
+{"index": 67116, "D": "Compare suprematism. ", "S": [], "A": []}

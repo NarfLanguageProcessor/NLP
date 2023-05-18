@@ -1,0 +1,1 @@
+{"index": 269328, "D": "to cause or allow to be seen; exhibit; display.", "S": ["echo ", "recite ", "rehash ", "reiterate ", "renew ", "replay ", "restate "], "A": ["destroy ", "stop "]}

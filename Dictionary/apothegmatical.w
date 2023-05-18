@@ -1,0 +1,1 @@
+{"index": 17494, "D": "a short, pithy, instructive saying; a terse remark or aphorism.", "S": [], "A": []}

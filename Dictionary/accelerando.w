@@ -1,0 +1,1 @@
+{"index": 1427, "D": "gradually increasing in speed.", "S": [], "A": []}

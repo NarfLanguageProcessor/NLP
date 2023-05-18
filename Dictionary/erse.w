@@ -1,0 +1,1 @@
+{"index": 104011, "D": "Gaelic, especially Scottish Gaelic.", "S": [], "A": []}

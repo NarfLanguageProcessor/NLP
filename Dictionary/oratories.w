@@ -1,0 +1,1 @@
+{"index": 214010, "D": "skill or eloquence in public speaking", "S": ["eloquence ", "rhetoric "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41543, "D": "an implement for sweeping, consisting of a brush of straw or stiff strands of synthetic material bound tightly to the end of a long handle.", "S": ["mop "], "A": []}

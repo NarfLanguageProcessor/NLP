@@ -1,0 +1,1 @@
+{"index": 317264, "D": "a leather strap having one end cut into thongs, formerly used as an instrument of punishment by a schoolteacher", "S": [], "A": []}

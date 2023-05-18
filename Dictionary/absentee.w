@@ -1,0 +1,1 @@
+{"index": 939, "D": "a person who is absent,  especially from work or school.", "S": ["remote "], "A": []}

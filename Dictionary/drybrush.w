@@ -1,0 +1,1 @@
+{"index": 93034, "D": "a technique of drawing or painting in which a brush  having a small quantity of pigment or medium is applied to or dragged across a surface.", "S": [], "A": []}

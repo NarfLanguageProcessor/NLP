@@ -1,0 +1,1 @@
+{"index": 11812, "D": "something having analogy to something else.", "S": ["analog "], "A": ["difference "]}

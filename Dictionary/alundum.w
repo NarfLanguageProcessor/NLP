@@ -1,0 +1,1 @@
+{"index": 9653, "D": "a brand name for a substance consisting of fused alumina, used chiefly as an abrasive and as a refractory.", "S": [], "A": []}

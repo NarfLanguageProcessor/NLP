@@ -1,0 +1,1 @@
+{"index": 162084, "D": "having ability to judge; judging", "S": [], "A": []}

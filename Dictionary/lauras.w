@@ -1,0 +1,1 @@
+{"index": 169192, "D": "a monastery consisting formerly of a group of cells or huts for monks who met together for meals and worship.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262599, "D": "the act of recapitulating  or the state of being recapitulated. ", "S": [], "A": []}

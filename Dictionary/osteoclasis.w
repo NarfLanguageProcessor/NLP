@@ -1,0 +1,1 @@
+{"index": 215584, "D": "the breaking down or absorption of osseous tissue.", "S": [], "A": []}

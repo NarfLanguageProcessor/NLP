@@ -1,0 +1,1 @@
+{"index": 95073, "D": "having no spur or calcar. ", "S": [], "A": []}

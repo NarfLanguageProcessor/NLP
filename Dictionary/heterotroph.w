@@ -1,0 +1,1 @@
+{"index": 137812, "D": "an organism requiring organic compounds for its principal source of food.", "S": [], "A": []}

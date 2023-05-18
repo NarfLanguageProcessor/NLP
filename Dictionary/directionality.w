@@ -1,0 +1,1 @@
+{"index": 86768, "D": "of, relating to, or indicating direction  in space.", "S": [], "A": []}

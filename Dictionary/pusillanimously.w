@@ -1,0 +1,1 @@
+{"index": 257219, "D": "lacking courage or resolution; cowardly; faint-hearted; timid.", "S": [], "A": []}

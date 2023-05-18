@@ -1,0 +1,1 @@
+{"index": 76583, "D": "to declare (something) to be bad, unfit, invalid, or illegal.", "S": [], "A": []}

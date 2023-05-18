@@ -1,0 +1,1 @@
+{"index": 191674, "D": "the god of ridicule.", "S": [], "A": []}

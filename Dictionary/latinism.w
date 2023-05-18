@@ -1,0 +1,1 @@
+{"index": 168976, "D": "a mode of expression derived from or imitative of Latin.", "S": [], "A": []}

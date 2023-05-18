@@ -1,0 +1,1 @@
+{"index": 347293, "D": "to get the better of in a struggle or conflict; conquer; defeat", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 369527, "D": "any of several alloys of zirconium with tin or other metals, used in structural elements or tubing in nuclear reactors.", "S": [], "A": []}

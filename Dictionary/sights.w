@@ -1,0 +1,1 @@
+{"index": 290019, "D": "the power or faculty of seeing; perception of objects by use of the eyes; vision. ", "S": ["architect ", "builder ", "designer ", "director ", "inventor ", "manager ", "planner ", "surveyor "], "A": []}

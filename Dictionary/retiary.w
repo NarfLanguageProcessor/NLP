@@ -1,0 +1,1 @@
+{"index": 270420, "D": "using a net or any entangling device.", "S": [], "A": []}

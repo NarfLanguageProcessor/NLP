@@ -1,0 +1,1 @@
+{"index": 315388, "D": "the application of scientific methods to the problem of obtaining maximum efficiency in industrial work or the like.", "S": [], "A": []}

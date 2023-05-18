@@ -1,0 +1,1 @@
+{"index": 1192, "D": "a structure for absorbing tensions from reinforcing strands for concrete being prestressed.", "S": ["support "], "A": []}

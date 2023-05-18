@@ -1,0 +1,1 @@
+{"index": 77348, "D": "daybreak; dawn. ", "S": ["cockcrow ", "daybreak ", "daylight ", "morn ", "morning ", "sunrise ", "sunup "], "A": ["darkness ", "sunset "]}

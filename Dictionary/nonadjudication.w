@@ -1,0 +1,1 @@
+{"index": 201128, "D": "an act of adjudicating.", "S": [], "A": []}

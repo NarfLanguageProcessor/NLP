@@ -1,0 +1,1 @@
+{"index": 204507, "D": "the state or fact of remaining the same one or ones, as under varying aspects or conditions", "S": [], "A": []}

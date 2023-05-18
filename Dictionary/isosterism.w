@@ -1,0 +1,1 @@
+{"index": 159266, "D": "the quality or state of being isosteric.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 268402, "D": "the state of resting or being at rest; sleep. ", "S": ["comatose ", "dormant "], "A": ["attentive ", "awake ", "conscious "]}

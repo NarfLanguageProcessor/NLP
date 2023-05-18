@@ -1,0 +1,1 @@
+{"index": 352555, "D": "to move or swing to and fro, as something fixed at one end or resting on a support.", "S": ["determined ", "insistent ", "intransigent ", "resolute ", "rigid ", "stubborn ", "uncompromising "], "A": ["flexible ", "irresolute ", "lenient ", "weak ", "willing ", "yielding ", "indefinite ", "movable ", "moving ", "soft ", "unfixed "]}

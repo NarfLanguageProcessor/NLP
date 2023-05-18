@@ -1,0 +1,1 @@
+{"index": 153229, "D": "not having the structure or organization characteristic of living bodies.", "S": [], "A": []}

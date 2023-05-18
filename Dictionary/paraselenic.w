@@ -1,0 +1,1 @@
+{"index": 226054, "D": "Compare parhelion. ", "S": [], "A": []}

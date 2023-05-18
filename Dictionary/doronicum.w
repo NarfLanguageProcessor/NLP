@@ -1,0 +1,1 @@
+{"index": 91721, "D": "any composite plant of the genus Doronicum, comprising the leopard's-banes.", "S": [], "A": []}

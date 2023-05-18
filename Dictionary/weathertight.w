@@ -1,0 +1,1 @@
+{"index": 363633, "D": "secure against wind, rain, etc.", "S": [], "A": []}

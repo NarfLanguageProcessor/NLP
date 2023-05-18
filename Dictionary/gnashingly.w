@@ -1,0 +1,1 @@
+{"index": 127031, "D": "to grind or strike (the teeth) together, especially in rage or pain.", "S": [], "A": []}

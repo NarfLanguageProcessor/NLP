@@ -1,0 +1,1 @@
+{"index": 298292, "D": "a nuclear reaction in which several nucleons are released from the nucleus of an atom.", "S": [], "A": []}

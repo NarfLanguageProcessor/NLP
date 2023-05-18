@@ -1,0 +1,1 @@
+{"index": 290726, "D": "any tropical American tree belonging to the genus Simaruba, of the quassia family, having pinnate leaves, a fleshy fruit, and a root whose bark contains an appetite stimulant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 159800, "D": "a simpleton or country bumpkin", "S": [], "A": []}

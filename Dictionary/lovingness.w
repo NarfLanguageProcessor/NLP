@@ -1,0 +1,1 @@
+{"index": 175600, "D": "feeling or showing love;  warmly affectionate; fond", "S": ["affection ", "amativeness ", "enamoredness ", "fancy ", "fondness ", "passion ", "romance "], "A": ["dislike ", "hate ", "hatred "]}

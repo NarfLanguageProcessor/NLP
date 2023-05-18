@@ -1,0 +1,1 @@
+{"index": 42595, "D": "a person who advocates a system in which currency is directly convertible to gold or silver.", "S": [], "A": []}

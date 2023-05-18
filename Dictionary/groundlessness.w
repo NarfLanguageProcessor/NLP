@@ -1,0 +1,1 @@
+{"index": 130317, "D": "without rational basis", "S": [], "A": []}

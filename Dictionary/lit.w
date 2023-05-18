@@ -1,0 +1,1 @@
+{"index": 173539, "D": "a simple past tense and past participle of light1. ", "S": ["burning ", "lighted ", "shining "], "A": []}

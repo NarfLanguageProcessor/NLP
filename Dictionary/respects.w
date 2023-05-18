@@ -1,0 +1,1 @@
+{"index": 269714, "D": "a particular, detail, or point (usually preceded by in)", "S": ["compliments ", "courtesies ", "deference ", "devoirs ", "greetings ", "regards ", "salaam ", "salutations "], "A": []}

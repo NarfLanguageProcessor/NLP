@@ -1,0 +1,1 @@
+{"index": 312282, "D": "to make supernatural;  give supernatural  character or qualities to.", "S": [], "A": []}

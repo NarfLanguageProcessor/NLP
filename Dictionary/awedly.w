@@ -1,0 +1,1 @@
+{"index": 24990, "D": "filled with or expressing awe. ", "S": [], "A": []}

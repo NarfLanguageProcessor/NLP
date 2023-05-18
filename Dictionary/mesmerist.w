@@ -1,0 +1,1 @@
+{"index": 184144, "D": "hypnosis as induced, according to F. A. Mesmer,  through animal magnetism.", "S": [], "A": []}

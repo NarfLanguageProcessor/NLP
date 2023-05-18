@@ -1,0 +1,1 @@
+{"index": 274523, "D": "the practices or principles of Rosicrucians.", "S": [], "A": []}

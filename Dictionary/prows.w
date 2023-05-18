@@ -1,0 +1,1 @@
+{"index": 254170, "D": "the forepart of a ship or boat; bow.", "S": ["bowsprit ", "fore ", "head ", "stem "], "A": []}

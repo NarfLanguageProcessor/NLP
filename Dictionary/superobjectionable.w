@@ -1,0 +1,1 @@
+{"index": 312327, "D": "causing or tending to cause an objection,  disapproval, or protest.", "S": [], "A": []}

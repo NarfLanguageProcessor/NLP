@@ -1,0 +1,1 @@
+{"index": 69481, "D": "coronagraph. ", "S": [], "A": []}

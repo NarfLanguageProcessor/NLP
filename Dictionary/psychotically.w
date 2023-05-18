@@ -1,0 +1,1 @@
+{"index": 255521, "D": "relating to, characterized by, or exhibiting psychosis", "S": ["crazily ", "desperately ", "energetically ", "excitedly ", "foolishly ", "frantically ", "furiously ", "hastily ", "hysterically ", "intensely ", "passionately ", "recklessly ", "violently "], "A": ["calmly ", "normally "]}

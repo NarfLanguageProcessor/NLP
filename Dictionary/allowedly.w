@@ -1,0 +1,1 @@
+{"index": 9016, "D": "by general allowance or admission; admittedly.", "S": [], "A": []}

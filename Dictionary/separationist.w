@@ -1,0 +1,1 @@
+{"index": 285557, "D": "separatist. ", "S": ["apostate ", "dissenter ", "dissident ", "freethinker ", "heretic ", "iconoclast ", "infidel ", "miscreant ", "nonconformist ", "revisionist ", "sectarian ", "sectary ", "skeptic ", "unbeliever "], "A": []}

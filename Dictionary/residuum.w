@@ -1,0 +1,1 @@
+{"index": 269385, "D": "the residue, remainder, or rest of something.", "S": ["chain reaction ", "impact ", "outcome "], "A": ["cause ", "origin ", "source ", "start "]}

@@ -1,0 +1,1 @@
+{"index": 249565, "D": "to act upon with steadily applied weight or force.", "S": [], "A": []}

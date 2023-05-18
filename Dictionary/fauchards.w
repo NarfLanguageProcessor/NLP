@@ -1,0 +1,1 @@
+{"index": 110385, "D": "a shafted weapon having a knifelike blade with a convex cutting edge and a beak on the back for catching the blade of an aggressor's weapon.", "S": [], "A": []}

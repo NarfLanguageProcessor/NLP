@@ -1,0 +1,1 @@
+{"index": 326418, "D": "to throw, pitch, or fling, especially to throw lightly or carelessly", "S": ["bung ", "cast ", "chuck ", "chunk ", "fire ", "fling ", "flip ", "heave ", "hurl ", "launch ", "lob ", "peg ", "pitch ", "sling ", "twirl ", "wing "], "A": []}

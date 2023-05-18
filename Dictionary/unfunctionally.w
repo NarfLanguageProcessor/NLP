@@ -1,0 +1,1 @@
+{"index": 342819, "D": "of or relating to a function  or functions", "S": [], "A": []}

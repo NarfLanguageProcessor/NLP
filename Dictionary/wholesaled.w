@@ -1,0 +1,1 @@
+{"index": 365291, "D": "the sale of goods in quantity, as to retailers or jobbers, for resale (opposed to retail).", "S": ["advertise ", "display ", "retail "], "A": ["hide ", "buy "]}

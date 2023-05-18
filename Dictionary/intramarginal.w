@@ -1,0 +1,1 @@
+{"index": 156526, "D": "existing or occurring within a margin or limit.", "S": [], "A": []}

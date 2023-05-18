@@ -1,0 +1,1 @@
+{"index": 276785, "D": "a large tropical and subtropical marine fish, Istiophorus platypterus, of the family Istiophoridae, distinguished by a long, high dorsal fin, long pelvic fins, and a double keel on each side of the tail.", "S": [], "A": []}

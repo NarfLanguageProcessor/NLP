@@ -1,0 +1,1 @@
+{"index": 327614, "D": "a half-conscious state, seemingly between sleeping and waking, in which ability to function voluntarily may be suspended.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287632, "D": "a clergyman with a shaven or tonsured head.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4986, "D": "Compare aerostatics (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22408, "D": "able to calm or tranquillize", "S": ["sedative "], "A": ["upsetting "]}

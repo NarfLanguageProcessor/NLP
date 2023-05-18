@@ -1,0 +1,1 @@
+{"index": 218145, "D": "to act  in an exaggerated manner.", "S": ["act ", "dramatize ", "exaggerate ", "overdramatize ", "overplay "], "A": ["play down "]}

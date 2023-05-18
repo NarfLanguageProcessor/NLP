@@ -1,0 +1,1 @@
+{"index": 201168, "D": "associated with something by chance rather than as an integral part; extrinsic.", "S": [], "A": []}

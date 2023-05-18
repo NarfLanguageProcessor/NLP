@@ -1,0 +1,1 @@
+{"index": 127449, "D": "a less common variant of goy. ", "S": [], "A": []}

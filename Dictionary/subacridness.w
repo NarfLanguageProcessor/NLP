@@ -1,0 +1,1 @@
+{"index": 307075, "D": "sharp or biting to the taste or smell; bitterly pungent; irritating to the eyes, nose, etc.", "S": [], "A": []}

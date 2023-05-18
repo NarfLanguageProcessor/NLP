@@ -1,0 +1,1 @@
+{"index": 136222, "D": "a rhythmic pattern of syncopated beats with two beats in the time of three or three beats in the time of two.", "S": [], "A": []}

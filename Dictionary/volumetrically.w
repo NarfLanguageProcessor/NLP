@@ -1,0 +1,1 @@
+{"index": 361225, "D": "of or relating to measurement by volume.", "S": [], "A": []}

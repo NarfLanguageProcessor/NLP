@@ -1,0 +1,1 @@
+{"index": 201639, "D": "the doing of good; active goodness or kindness; charity. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151911, "D": "the act or process of inferring.", "S": ["assumption ", "conjecture ", "interpretation ", "presumption ", "reasoning ", "supposition "], "A": ["fact ", "proof ", "reality ", "truth "]}

@@ -1,0 +1,1 @@
+{"index": 270610, "D": "to improve with new touches, highlights, or the like; touch up or rework, as a painting or makeup.", "S": ["amend ", "correct ", "fix ", "improve ", "modify ", "refresh ", "repair ", "revise ", "rework "], "A": ["break ", "corrupt ", "damage ", "destroy ", "harm ", "hurt ", "injure ", "ruin ", "spoil ", "worsen "]}

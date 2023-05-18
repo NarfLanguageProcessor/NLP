@@ -1,0 +1,1 @@
+{"index": 202412, "D": "during the same time period", "S": [], "A": []}

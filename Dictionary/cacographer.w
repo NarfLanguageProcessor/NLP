@@ -1,0 +1,1 @@
+{"index": 44179, "D": "bad handwriting; poor penmanship.", "S": [], "A": []}

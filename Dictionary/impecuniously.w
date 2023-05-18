@@ -1,0 +1,1 @@
+{"index": 148400, "D": "having little or no money; penniless; poor.", "S": [], "A": []}

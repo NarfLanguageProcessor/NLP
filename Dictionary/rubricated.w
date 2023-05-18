@@ -1,0 +1,1 @@
+{"index": 275220, "D": "(in ancient manuscripts, early printed books, etc.) having titles, catchwords, etc., distinctively colored.", "S": ["bloody ", "color ", "crimson ", "dye ", "flush ", "glow ", "incarnadine ", "mantle ", "paint ", "pink ", "rose ", "rouge ", "rubify ", "rubric ", "ruddle ", "rust ", "suffuse ", "tint "], "A": ["pale ", "whiten "]}

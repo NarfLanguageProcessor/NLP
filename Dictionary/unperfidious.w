@@ -1,0 +1,1 @@
+{"index": 347707, "D": "deliberately faithless; treacherous; deceitful", "S": [], "A": []}

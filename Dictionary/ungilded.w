@@ -1,0 +1,1 @@
+{"index": 343040, "D": "covered or highlighted with gold or something of a golden color.", "S": [], "A": []}

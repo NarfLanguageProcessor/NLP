@@ -1,0 +1,1 @@
+{"index": 346619, "D": "spotted or blotched in coloring.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366136, "D": "(in Rugby, soccer, etc.) a person who plays a wing  position.", "S": [], "A": []}

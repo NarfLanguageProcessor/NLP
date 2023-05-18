@@ -1,0 +1,1 @@
+{"index": 185631, "D": "any of several Australian acacias, especially Acacia pendula(weeping myall ), having gray foliage and drooping branches.", "S": [], "A": []}

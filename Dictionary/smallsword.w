@@ -1,0 +1,1 @@
+{"index": 294699, "D": "a light, tapering sword  for thrusting, formerly used in fencing or dueling.", "S": ["blade ", "dagger ", "saber "], "A": []}

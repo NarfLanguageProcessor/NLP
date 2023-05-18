@@ -1,0 +1,1 @@
+{"index": 37672, "D": "a projectile, formerly usually spherical, filled with a bursting charge and exploded by means of a fuze, by impact, or otherwise, now generally designed to be dropped from an aircraft.", "S": ["device ", "explosive ", "mine ", "missile ", "projectile ", "rocket ", "torpedo "], "A": []}

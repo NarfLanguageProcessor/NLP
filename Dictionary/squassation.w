@@ -1,0 +1,1 @@
+{"index": 301774, "D": "a form of strappado in which the victim, with arms bound behind and feet heavily weighted, was jerked up and down at the end of a rope passed under the arms.", "S": [], "A": []}

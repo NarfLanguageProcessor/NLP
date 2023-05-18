@@ -1,0 +1,1 @@
+{"index": 199316, "D": "not taking part or giving assistance in a dispute or war between others", "S": ["disinterestedly ", "dispassionately ", "equally ", "indifferently ", "objectively ", "unbiasedly "], "A": []}

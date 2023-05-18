@@ -1,0 +1,1 @@
+{"index": 39680, "D": "a script of India that was probably adapted from the Aramaic alphabet about the 7th century b.c., and from which most of the later Indian scripts developed.", "S": [], "A": []}

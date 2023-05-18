@@ -1,0 +1,1 @@
+{"index": 183112, "D": "a person, animal, plant, group, etc., that is part of a society, party, community, taxon, or other body.", "S": ["meeting ", "show "], "A": ["disagreement ", "discord ", "strangeness "]}

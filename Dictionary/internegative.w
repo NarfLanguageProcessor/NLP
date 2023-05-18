@@ -1,0 +1,1 @@
+{"index": 155492, "D": "a color negative  of a color transparency, made for purposes of duplication.", "S": [], "A": []}

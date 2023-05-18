@@ -1,0 +1,1 @@
+{"index": 301032, "D": "playful or frolicsome; jesting, jocose, or merry", "S": [], "A": []}

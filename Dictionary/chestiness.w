@@ -1,0 +1,1 @@
+{"index": 53949, "D": "having a well-developed chest  or bosom.", "S": [], "A": []}

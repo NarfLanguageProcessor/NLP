@@ -1,0 +1,1 @@
+{"index": 282980, "D": "a ceremonial dinner that commemorates the Exodus from Egypt and includes the reading of the Haggadah and the eating of symbolic foods, generally held on the first night of Passover by Reform Jews and Jews in Israel and on both the first and second nights by Orthodox and Conservative Jews outside of Israel.", "S": [], "A": []}

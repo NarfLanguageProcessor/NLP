@@ -1,0 +1,1 @@
+{"index": 89923, "D": "an act or instance of distributing.", "S": ["circulation ", "delivery ", "disposal ", "dissemination ", "handling ", "marketing ", "sharing ", "trading ", "transport ", "transportation "], "A": ["hold ", "keeping ", "retention ", "juncture ", "unity "]}

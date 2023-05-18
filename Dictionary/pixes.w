@@ -1,0 +1,1 @@
+{"index": 238473, "D": "pyx. ", "S": ["image ", "likeness ", "photo ", "picture ", "portrait ", "print ", "snapshot "], "A": []}

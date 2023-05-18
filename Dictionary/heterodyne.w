@@ -1,0 +1,1 @@
+{"index": 137533, "D": "noting or pertaining to a method of changing the frequency of an incoming radio signal by adding it to a signal generated within the receiver to produce fluctuations or beats of a frequency equal to the difference between the two signals.", "S": [], "A": []}

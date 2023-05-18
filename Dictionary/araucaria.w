@@ -1,0 +1,1 @@
+{"index": 18481, "D": "any of several coniferous trees of the genus Araucaria, of warm regions.", "S": [], "A": []}

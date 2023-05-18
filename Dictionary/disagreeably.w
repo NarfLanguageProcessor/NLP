@@ -1,0 +1,1 @@
+{"index": 86966, "D": "contrary to one's taste or liking; unpleasant; offensive; repugnant.", "S": [], "A": []}

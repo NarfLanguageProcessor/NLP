@@ -1,0 +1,1 @@
+{"index": 159364, "D": "of or relating to the Israelites; Hebrew.", "S": [], "A": []}

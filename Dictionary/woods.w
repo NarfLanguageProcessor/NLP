@@ -1,0 +1,1 @@
+{"index": 367230, "D": "U.S. professional golfer.", "S": ["bosk ", "coppice ", "copse ", "silva ", "thicket ", "woodland "], "A": []}

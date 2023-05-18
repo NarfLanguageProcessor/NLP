@@ -1,0 +1,1 @@
+{"index": 238783, "D": "a police officer, especially a detective, who wears ordinary civilian clothes while on duty.", "S": [], "A": []}

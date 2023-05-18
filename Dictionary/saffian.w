@@ -1,0 +1,1 @@
+{"index": 276583, "D": "a leather made of goatskin or sheepskin, usually dyed in bright colors.", "S": [], "A": []}

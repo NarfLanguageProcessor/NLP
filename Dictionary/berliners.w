@@ -1,0 +1,1 @@
+{"index": 32135, "D": "U.S. inventor, born in Germany.", "S": [], "A": []}

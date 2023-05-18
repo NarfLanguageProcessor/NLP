@@ -1,0 +1,1 @@
+{"index": 103742, "D": "pertaining to controversy or disputation; controversial.", "S": ["belligerent "], "A": []}

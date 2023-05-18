@@ -1,0 +1,1 @@
+{"index": 106172, "D": "in every way; in every direction, manner, or respect", "S": ["haphazardly ", "randomly "], "A": []}

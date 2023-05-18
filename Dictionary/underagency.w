@@ -1,0 +1,1 @@
+{"index": 338819, "D": "an organization, company, or bureau that provides a particular service", "S": [], "A": []}

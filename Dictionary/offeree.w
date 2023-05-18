@@ -1,0 +1,1 @@
+{"index": 211584, "D": "Compare offeror. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 355689, "D": "of, pertaining to, resembling, or having the odor or qualities of urine.", "S": [], "A": []}

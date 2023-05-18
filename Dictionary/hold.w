@@ -1,0 +1,1 @@
+{"index": 142390, "D": "to have or keep in the hand; keep fast; grasp", "S": ["dominance ", "grip ", "influence "], "A": ["dispossession ", "release "]}

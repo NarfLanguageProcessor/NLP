@@ -1,0 +1,1 @@
+{"index": 30147, "D": "a pad  or other protective covering used between the mattress and the bottom sheet of a bed. ", "S": [], "A": []}

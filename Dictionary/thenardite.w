@@ -1,0 +1,1 @@
+{"index": 320911, "D": "a mineral, sodium sulfate, Na2SO4, occurring in white crystals and masses, especially in salt lakes and arid regions.", "S": [], "A": []}

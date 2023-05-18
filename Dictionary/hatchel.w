@@ -1,0 +1,1 @@
+{"index": 134178, "D": "hackle1 (def. 5). ", "S": ["straighten "], "A": ["disorder ", "disorganize ", "twist ", "upset ", "wrinkle "]}

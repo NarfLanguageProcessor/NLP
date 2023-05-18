@@ -1,0 +1,1 @@
+{"index": 302986, "D": "to die or perish from lack of food or nourishment.", "S": ["anorexic ", "malnourished "], "A": ["full ", "well-fed "]}

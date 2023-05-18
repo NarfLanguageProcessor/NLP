@@ -1,0 +1,1 @@
+{"index": 332894, "D": "the root of an East Indian plant, Merremia (or Operculina) turpethum, of the morning glory family, formerly used as a purgative.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 166233, "D": "a former silver coin of Iran.", "S": [], "A": []}

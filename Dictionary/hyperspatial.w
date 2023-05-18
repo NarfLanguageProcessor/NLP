@@ -1,0 +1,1 @@
+{"index": 140517, "D": "a Euclidean space  of more than three dimensions.", "S": [], "A": []}

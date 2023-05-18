@@ -1,0 +1,1 @@
+{"index": 266688, "D": "a noun suffix having a diminutive or pejorative force", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 104897, "D": "light, airy, or tenuous", "S": ["airy ", "celestial ", "exquisite ", "ghostly ", "intangible ", "sublime "], "A": ["poor "]}

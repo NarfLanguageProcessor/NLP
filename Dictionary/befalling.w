@@ -1,0 +1,1 @@
+{"index": 30439, "D": "to happen or occur.", "S": ["ensue ", "materialize ", "transpire "], "A": ["stay ", "stop "]}

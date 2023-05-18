@@ -1,0 +1,1 @@
+{"index": 81374, "D": "to make naked or bare; strip", "S": [], "A": []}

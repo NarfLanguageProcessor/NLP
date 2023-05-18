@@ -1,0 +1,1 @@
+{"index": 74791, "D": "a person or other agent guilty of or responsible for an offense or fault.", "S": ["criminal ", "felon ", "fugitive ", "miscreant ", "offender ", "wrongdoer "], "A": ["police "]}

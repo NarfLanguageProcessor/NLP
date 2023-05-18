@@ -1,0 +1,1 @@
+{"index": 345038, "D": "(of a beast) represented with the body erect and only the forepart visible", "S": [], "A": []}

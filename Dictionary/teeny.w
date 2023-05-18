@@ -1,0 +1,1 @@
+{"index": 317791, "D": "tiny. ", "S": ["microscopic ", "tiny ", "wee "], "A": ["big ", "huge ", "large "]}

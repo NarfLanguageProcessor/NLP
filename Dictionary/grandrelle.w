@@ -1,0 +1,1 @@
+{"index": 128886, "D": "a two-ply yarn made by twisting together two singles of contrasting color.", "S": [], "A": []}

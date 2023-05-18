@@ -1,0 +1,1 @@
+{"index": 59466, "D": "to make a loud, rattling sound, as that produced by hard objects striking rapidly one against the other", "S": [], "A": []}

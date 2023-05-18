@@ -1,0 +1,1 @@
+{"index": 318777, "D": "inflammation of a tendon.", "S": [], "A": []}

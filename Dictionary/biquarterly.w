@@ -1,0 +1,1 @@
+{"index": 34711, "D": "occurring twice in each quarter of a year.", "S": [], "A": []}

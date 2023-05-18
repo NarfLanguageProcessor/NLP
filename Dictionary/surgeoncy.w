@@ -1,0 +1,1 @@
+{"index": 313445, "D": "the office, duties, or position of a surgeon, esp in the army or navy", "S": [], "A": []}

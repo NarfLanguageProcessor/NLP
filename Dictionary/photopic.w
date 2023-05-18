@@ -1,0 +1,1 @@
+{"index": 235313, "D": "vision in bright light (opposed to scotopia).", "S": [], "A": []}

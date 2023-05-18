@@ -1,0 +1,1 @@
+{"index": 340820, "D": "to draw open or aside", "S": [], "A": []}

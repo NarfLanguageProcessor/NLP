@@ -1,0 +1,1 @@
+{"index": 137826, "D": "relating to or being a heterozygote, an organism that possesses a pair of differing alleles,  one dominant and one recessive, of a particular gene.", "S": [], "A": []}

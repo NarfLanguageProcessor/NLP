@@ -1,0 +1,1 @@
+{"index": 32955, "D": "to weep over (something)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 11530, "D": "something or someone that is not in its correct historical or chronological time, especially a thing or person that belongs to an earlier time", "S": ["misplacement ", "prolepsis ", "solecism "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183603, "D": "an iridescent green, water-soluble powder, C20H8Br2HgNa2O6, that forms a red solution when dissolved in water", "S": [], "A": []}

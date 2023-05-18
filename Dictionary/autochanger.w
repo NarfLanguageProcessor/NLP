@@ -1,0 +1,1 @@
+{"index": 23926, "D": "a device in a record player that enables a small stack of records to be dropped automatically onto the turntable one at a time and played separately", "S": [], "A": []}

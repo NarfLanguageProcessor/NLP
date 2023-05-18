@@ -1,0 +1,1 @@
+{"index": 295790, "D": "a motor-driven machine on wheels used to remove snow by throwing it into the air and to one side.", "S": [], "A": []}

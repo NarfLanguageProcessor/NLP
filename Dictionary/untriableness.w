@@ -1,0 +1,1 @@
+{"index": 353336, "D": "subject or liable to judicial trial.", "S": [], "A": []}

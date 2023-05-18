@@ -1,0 +1,1 @@
+{"index": 88566, "D": "any of various reading disorders associated with difficulty decoding written language and integrating auditory and visual information, such as the association of phonemes with letter combinations in spelling.", "S": [], "A": []}

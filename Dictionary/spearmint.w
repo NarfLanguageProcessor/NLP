@@ -1,0 +1,1 @@
+{"index": 298728, "D": "an aromatic herb, Mentha spicata, having lance-shaped leaves used for flavoring.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 330797, "D": "the office or magistracy of a triumvir. ", "S": ["threesome ", "triad ", "troika "], "A": []}

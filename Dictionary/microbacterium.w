@@ -1,0 +1,1 @@
+{"index": 185902, "D": "rod-shaped, thermoduric, saprophytic bacteria  of the genus Microbacterium, found chiefly in dairy products.", "S": [], "A": []}

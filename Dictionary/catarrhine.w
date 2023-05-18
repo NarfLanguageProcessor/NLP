@@ -1,0 +1,1 @@
+{"index": 49388, "D": "belonging or pertaining to the subdivision of simians that comprises Old World monkeys and apes, including humans.", "S": [], "A": []}

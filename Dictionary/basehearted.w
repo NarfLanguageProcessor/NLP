@@ -1,0 +1,1 @@
+{"index": 28499, "D": "having a low, mean, or contemptible nature or character; meanspirited.", "S": [], "A": []}

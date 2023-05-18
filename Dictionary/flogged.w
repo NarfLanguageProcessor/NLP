@@ -1,0 +1,1 @@
+{"index": 114880, "D": "having been beaten with a whip, stick, etc.", "S": ["chastened ", "dismissed ", "imprisoned ", "penalized "], "A": ["cleared ", "exonerated ", "released "]}

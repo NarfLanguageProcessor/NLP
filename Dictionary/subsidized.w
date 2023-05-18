@@ -1,0 +1,1 @@
+{"index": 309184, "D": "to furnish or aid with a subsidy. ", "S": ["bankroll ", "contribute ", "finance ", "fund ", "promote ", "sponsor ", "underwrite "], "A": ["disapprove ", "hurt ", "take "]}

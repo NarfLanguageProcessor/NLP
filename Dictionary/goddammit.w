@@ -1,0 +1,1 @@
+{"index": 127311, "D": "(used to express anger, perplexity, amazement, etc.)", "S": [], "A": []}

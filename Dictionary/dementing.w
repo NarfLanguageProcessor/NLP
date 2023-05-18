@@ -1,0 +1,1 @@
+{"index": 80432, "D": "to make mad or insane.", "S": ["agitate ", "confuse ", "disconcert ", "disorganize ", "disquiet ", "disrupt ", "disturb ", "perturb ", "rattle ", "unnerve "], "A": ["appease ", "arrange ", "calm ", "comfort ", "order ", "organize ", "please ", "quiet ", "soothe ", "help ", "make well "]}

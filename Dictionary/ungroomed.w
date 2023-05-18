@@ -1,0 +1,1 @@
+{"index": 343302, "D": "a bridegroom.", "S": ["bedraggled ", "scruffy ", "unkempt "], "A": ["neat ", "tidy "]}

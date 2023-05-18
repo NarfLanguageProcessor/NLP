@@ -1,0 +1,1 @@
+{"index": 164418, "D": "a percentage of income given to a person in a position of power or influence as payment for having made the income possible", "S": ["gift ", "graft ", "payment ", "payoff "], "A": ["whole "]}

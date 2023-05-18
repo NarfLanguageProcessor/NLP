@@ -1,0 +1,1 @@
+{"index": 130337, "D": "a broad, deep swell  or rolling of the sea, due to a distant storm or gale.", "S": ["bloc ", "coalition ", "grassroots movement ", "people's front "], "A": []}

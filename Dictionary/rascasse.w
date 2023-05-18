@@ -1,0 +1,1 @@
+{"index": 260868, "D": "any of several scorpionfishes, as Scorpaena scrofa or S. porcus, of the Mediterranean Sea, used in making bouillabaisse.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271514, "D": "to bring about a revolution  in; effect a radical change in", "S": ["reconstituted ", "reconstructed ", "transformed "], "A": ["degenerated ", "deteriorated ", "preserved "]}

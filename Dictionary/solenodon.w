@@ -1,0 +1,1 @@
+{"index": 296646, "D": "either of two insectivores of the genus Solenodon, resembling a large shrew and having small eyes, a long and pointy snout, and a scaly tail, including the coarse-haired, reddish-brown to grayish-black S. paradoxus of Hispaniola and the finer-haired, usually darker S. cubanus of Cuba", "S": [], "A": []}

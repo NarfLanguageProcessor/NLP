@@ -1,0 +1,1 @@
+{"index": 285490, "D": "one given to sentiment  or sentimentality. ", "S": [], "A": []}

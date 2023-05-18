@@ -1,0 +1,1 @@
+{"index": 8672, "D": "a physician specializing in the diagnosis and treatment of allergies. ", "S": [], "A": []}

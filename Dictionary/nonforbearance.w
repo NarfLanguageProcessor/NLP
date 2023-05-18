@@ -1,0 +1,1 @@
+{"index": 204123, "D": "the act of forbearing;  a refraining from something.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343441, "D": "covered with hair; having much hair.", "S": [], "A": []}

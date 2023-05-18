@@ -1,0 +1,1 @@
+{"index": 270025, "D": "to strike  again.", "S": [], "A": []}

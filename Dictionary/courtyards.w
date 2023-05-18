@@ -1,0 +1,1 @@
+{"index": 71353, "D": "a court  open to the sky, especially one enclosed on all four sides.", "S": ["lawn ", "patio ", "yard "], "A": []}

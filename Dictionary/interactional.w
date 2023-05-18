@@ -1,0 +1,1 @@
+{"index": 154424, "D": "reciprocal action, effect, or influence.", "S": [], "A": []}

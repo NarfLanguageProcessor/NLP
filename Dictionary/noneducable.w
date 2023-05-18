@@ -1,0 +1,1 @@
+{"index": 203360, "D": "capable of being educated. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260577, "D": "a variant of ranee. ", "S": ["czar ", "emperor ", "king ", "monarch ", "shah ", "sultan "], "A": ["commoner ", "subject "]}

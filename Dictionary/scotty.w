@@ -1,0 +1,1 @@
+{"index": 281401, "D": "a Scot;  Scotsman or Scotswoman.", "S": [], "A": []}

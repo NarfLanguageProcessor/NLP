@@ -1,0 +1,1 @@
+{"index": 8570, "D": "a half suit of light plate armor.", "S": [], "A": []}

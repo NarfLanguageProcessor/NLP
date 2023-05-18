@@ -1,0 +1,1 @@
+{"index": 31441, "D": "to bewilder or confuse.", "S": ["abstraction ", "daydreaming ", "dreaminess ", "musing ", "reverie ", "trance "], "A": []}

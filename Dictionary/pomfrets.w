@@ -1,0 +1,1 @@
+{"index": 242869, "D": "any of several scombroid  fishes of the family Bramidae, found in the North Atlantic Ocean  and the Pacific Ocean. ", "S": [], "A": []}

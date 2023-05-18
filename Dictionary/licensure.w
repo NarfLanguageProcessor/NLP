@@ -1,0 +1,1 @@
+{"index": 171632, "D": "the granting of licenses,  especially to engage in professional practice.", "S": [], "A": []}

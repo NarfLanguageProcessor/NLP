@@ -1,0 +1,1 @@
+{"index": 83557, "D": "of, like, or befitting a devil; diabolical; fiendish. ", "S": ["demonic ", "diabolical "], "A": ["angelic ", "godlike ", "good ", "moral "]}

@@ -1,0 +1,1 @@
+{"index": 35309, "D": "a principle providing for a one-to-one correspondence between the phonemic and phonetic levels of analysis.", "S": [], "A": []}

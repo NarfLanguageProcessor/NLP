@@ -1,0 +1,1 @@
+{"index": 7891, "D": "an eagle displayed, usually represented without a beak or legs.", "S": [], "A": []}

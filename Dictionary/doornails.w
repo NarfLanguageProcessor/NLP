@@ -1,0 +1,1 @@
+{"index": 91567, "D": "a large-headed nail formerly used for strengthening or ornamenting doors.", "S": [], "A": []}

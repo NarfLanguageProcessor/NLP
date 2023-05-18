@@ -1,0 +1,1 @@
+{"index": 260980, "D": "a toothed bar with which a pawl engages.", "S": ["braid ", "coil ", "cord ", "cylinder ", "pin ", "quill ", "reel ", "spindle "], "A": []}

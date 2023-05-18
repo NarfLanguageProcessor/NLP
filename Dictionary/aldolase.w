@@ -1,0 +1,1 @@
+{"index": 7783, "D": "any of a group of enzymes catalyzing reversible aldol condensations.", "S": [], "A": []}

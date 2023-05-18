@@ -1,0 +1,1 @@
+{"index": 13010, "D": "a historic county in E Scotland.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64769, "D": "to bear or conduct (oneself); behave", "S": ["conform "], "A": ["disagree "]}

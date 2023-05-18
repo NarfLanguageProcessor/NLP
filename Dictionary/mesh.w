@@ -1,0 +1,1 @@
+{"index": 184083, "D": "any knit, woven, or knotted fabric of open texture.", "S": ["cobweb ", "jungle ", "knot ", "labyrinth ", "maze ", "morass ", "net ", "network ", "plexus ", "reticulation ", "screen ", "skein ", "snare ", "snarl ", "tangle ", "toils ", "tracery ", "trap ", "web "], "A": ["line ", "order ", "organization "]}

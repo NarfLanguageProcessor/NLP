@@ -1,0 +1,1 @@
+{"index": 224262, "D": "the vast grassy plains of southern South America, especially in Argentina.", "S": ["pasture ", "plain ", "prairie ", "savanna ", "steppe "], "A": []}

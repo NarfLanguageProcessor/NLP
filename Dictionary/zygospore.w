@@ -1,0 +1,1 @@
+{"index": 369286, "D": "a cell formed by fusion of two similar gametes, as in certain algae and fungi.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202428, "D": "having a common boundary; bordering; contiguous.", "S": [], "A": []}

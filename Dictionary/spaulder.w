@@ -1,0 +1,1 @@
+{"index": 298656, "D": "a pauldron, especially one for protecting only a shoulder.", "S": [], "A": []}

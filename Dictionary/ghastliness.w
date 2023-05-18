@@ -1,0 +1,1 @@
+{"index": 124495, "D": "shockingly frightful or dreadful; horrible", "S": ["atrocity ", "awfulness ", "dreadfulness ", "frightfulness ", "gruesomeness ", "horridness ", "monstrosity ", "rankness ", "repulsiveness "], "A": []}

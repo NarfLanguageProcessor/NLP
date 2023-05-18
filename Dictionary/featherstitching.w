@@ -1,0 +1,1 @@
+{"index": 110682, "D": "an embroidery stitch producing work in which a succession of branches extend alternately on each side of a central stem.", "S": [], "A": []}

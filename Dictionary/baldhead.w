@@ -1,0 +1,1 @@
+{"index": 26786, "D": "a person who is bald. ", "S": [], "A": []}

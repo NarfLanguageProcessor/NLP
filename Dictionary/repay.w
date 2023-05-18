@@ -1,0 +1,1 @@
+{"index": 267972, "D": "to pay back or refund, as money.", "S": ["compensate ", "offset ", "pay back ", "refund ", "reimburse ", "restore ", "reward "], "A": ["damage ", "penalize ", "disagree ", "refuse ", "take ", "withhold "]}

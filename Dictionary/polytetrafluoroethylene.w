@@ -1,0 +1,1 @@
+{"index": 242518, "D": "any polymer, plastic, or resin having the formula (C2F4)n, prepared from tetrafluoroethylene,  noted for its slippery, nonsticking properties, and used in the manufacture of gaskets, electrical insulation, tubing, candy molds, container linings, frying-pan coatings, etc.", "S": [], "A": []}

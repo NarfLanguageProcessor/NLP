@@ -1,0 +1,1 @@
+{"index": 169884, "D": "the mother, by her husband Tyndareus, of Castor and Clytemnestra and, by Zeus in the form of a swan, of Pollux and Helen.", "S": [], "A": []}

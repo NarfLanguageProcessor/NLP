@@ -1,0 +1,1 @@
+{"index": 234071, "D": "a person who is legally qualified to practice medicine; doctor of medicine.", "S": ["doctor ", "specialist ", "surgeon "], "A": ["patient "]}

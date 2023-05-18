@@ -1,0 +1,1 @@
+{"index": 187806, "D": "the number of persons required by Jewish law to be present to conduct a communal religious service, traditionally a minimum of 10 Jewish males over 13 years of age.", "S": [], "A": []}

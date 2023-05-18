@@ -1,0 +1,1 @@
+{"index": 245557, "D": "(in a reciprocating engine) admission  of steam or the like to the head of the cylinder near the end of the stroke, as to cushion the force of the stroke or to allow full pressure at the beginning of the return stroke.", "S": [], "A": []}

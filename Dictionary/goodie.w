@@ -1,0 +1,1 @@
+{"index": 127886, "D": "goody1. ", "S": ["allowance ", "award ", "benefit ", "bonus ", "contribution ", "donation ", "endowment ", "favor ", "giveaway ", "grant ", "legacy ", "offering ", "premium ", "present ", "relief ", "reward ", "souvenir ", "subsidy ", "tip ", "tribute "], "A": ["forfeit ", "loss ", "penalty "]}

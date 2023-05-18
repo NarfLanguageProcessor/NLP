@@ -1,0 +1,1 @@
+{"index": 160206, "D": "a hot green or orange-red chile pepper, the fruit of a variety of Capsicum annuum, used especially in Mexican cooking.", "S": ["chili pepper ", "hot pepper ", "red pepper "], "A": []}

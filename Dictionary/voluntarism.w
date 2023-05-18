@@ -1,0 +1,1 @@
+{"index": 361246, "D": "any theory that regards will as the fundamental agency or principle, in metaphysics, epistemology, or psychology.", "S": [], "A": []}

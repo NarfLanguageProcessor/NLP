@@ -1,0 +1,1 @@
+{"index": 249999, "D": "denoting or relating to the syllable before the one bearing the primary stress in a word", "S": [], "A": []}

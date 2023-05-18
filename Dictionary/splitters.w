@@ -1,0 +1,1 @@
+{"index": 300578, "D": "a person or thing that splits. ", "S": [], "A": []}

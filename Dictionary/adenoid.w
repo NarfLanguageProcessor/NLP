@@ -1,0 +1,1 @@
+{"index": 3726, "D": "an enlarged mass of lymphoid tissue in the upper pharynx, often obstructing breathing through the nasal passages.", "S": ["beak ", "snout "], "A": []}

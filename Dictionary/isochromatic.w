@@ -1,0 +1,1 @@
+{"index": 158844, "D": "having the same color or tint.", "S": [], "A": []}

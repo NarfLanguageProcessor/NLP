@@ -1,0 +1,1 @@
+{"index": 292616, "D": "the position or location of a town, building, etc., especially as to its environment", "S": ["entrenched ", "fixed ", "immovable ", "jelled ", "located ", "placed ", "positioned ", "settled ", "situate ", "situated ", "solid ", "stable ", "stiff "], "A": ["soft ", "unfixed "]}

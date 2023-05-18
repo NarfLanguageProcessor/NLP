@@ -1,0 +1,1 @@
+{"index": 3168, "D": "any of several saprophytic, filamentous, anaerobic bacteria of the genus Actinomyces, certain species of which are pathogenic for humans and animals.", "S": [], "A": []}

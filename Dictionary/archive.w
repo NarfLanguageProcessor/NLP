@@ -1,0 +1,1 @@
+{"index": 19033, "D": "documents or records relating to the activities, business dealings, etc., of a person, family, corporation, association, community, or nation.", "S": ["annals "], "A": []}

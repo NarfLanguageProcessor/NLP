@@ -1,0 +1,1 @@
+{"index": 9797, "D": "a water-soluble crystalline substance, C10H17NHCl, used as an antiviral and antiparkinsonian drug.", "S": [], "A": []}

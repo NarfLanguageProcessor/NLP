@@ -1,0 +1,1 @@
+{"index": 61041, "D": "a joining or adjustment of parts to one another", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162711, "D": "the twenty-second letter of the Arabic alphabet, representing a velar stop consonant sound.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 23383, "D": "a person or thing that augments.", "S": [], "A": []}

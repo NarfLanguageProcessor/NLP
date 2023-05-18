@@ -1,0 +1,1 @@
+{"index": 270820, "D": "to modify equipment (in airplanes, automobiles, a factory, etc.) that is already in service using parts developed or made available after the time of original manufacture.", "S": ["modify ", "reconstruct ", "recycle "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160003, "D": "a partisan or adherent of James II of England after his overthrow (1688), or of the Stuarts.", "S": [], "A": []}

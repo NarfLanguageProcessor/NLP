@@ -1,0 +1,1 @@
+{"index": 263839, "D": "to penetrate with or as if with a sharp-edged instrument or object", "S": [], "A": []}

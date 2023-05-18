@@ -1,0 +1,1 @@
+{"index": 230635, "D": "accomplishing or achieving something; actually and fully effective.", "S": [], "A": []}

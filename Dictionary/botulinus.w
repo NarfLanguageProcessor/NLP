@@ -1,0 +1,1 @@
+{"index": 38846, "D": "a soil bacterium, Clostridium botulinum, that thrives and forms botulin under anaerobic conditions.", "S": [], "A": []}

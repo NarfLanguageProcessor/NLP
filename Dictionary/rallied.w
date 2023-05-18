@@ -1,0 +1,1 @@
+{"index": 260217, "D": "to bring into order again; gather and organize or inspire anew", "S": ["accumulated ", "collected ", "concentrated ", "huddled ", "massed ", "reunited "], "A": ["separated "]}

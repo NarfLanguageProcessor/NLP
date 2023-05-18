@@ -1,0 +1,1 @@
+{"index": 181440, "D": "French short-story writer and novelist.", "S": [], "A": []}

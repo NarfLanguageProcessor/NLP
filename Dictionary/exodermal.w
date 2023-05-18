@@ -1,0 +1,1 @@
+{"index": 107332, "D": "a temporary, protective layer of cells in some roots, as in certain orchids.", "S": [], "A": []}

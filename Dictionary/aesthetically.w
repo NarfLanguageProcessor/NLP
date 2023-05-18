@@ -1,0 +1,1 @@
+{"index": 5198, "D": "according to aesthetics  or its principles.", "S": [], "A": []}

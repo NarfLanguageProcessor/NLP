@@ -1,0 +1,1 @@
+{"index": 103025, "D": "a silk stole worn by clergy.", "S": [], "A": []}

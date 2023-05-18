@@ -1,0 +1,1 @@
+{"index": 306804, "D": "application of the mind to the acquisition of knowledge, such as by reading, investigation, or reflection", "S": ["analyzing ", "criticizing ", "critiquing ", "evaluating ", "examining ", "investigating ", "judging ", "outlining ", "summarizing ", "surveying "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194726, "D": "any of several gobies of the genera Periophthalmus and Boleophthalmus, of tropical seas from Africa to the East Indies and Japan, noted for the habit of remaining out of water on mud  flats for certain periods and jumping about when disturbed.", "S": [], "A": []}

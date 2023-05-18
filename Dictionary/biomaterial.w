@@ -1,0 +1,1 @@
+{"index": 34429, "D": "a synthetic material,  usually a plastic, suitable for implanting in a living body to repair damaged or diseased parts.", "S": [], "A": []}

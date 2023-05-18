@@ -1,0 +1,1 @@
+{"index": 119208, "D": "formed into small, tight curls, as hair; frizzed. ", "S": ["crimped ", "frizzly ", "kinky "], "A": []}

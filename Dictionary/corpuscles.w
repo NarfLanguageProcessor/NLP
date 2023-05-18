@@ -1,0 +1,1 @@
+{"index": 69571, "D": "an unattached cell, especially of a kind that floats freely, as a blood or lymph cell.", "S": ["beef ", "fat ", "meat ", "muscle "], "A": ["skinniness ", "thinness "]}

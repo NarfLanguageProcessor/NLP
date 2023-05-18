@@ -1,0 +1,1 @@
+{"index": 203307, "D": "the capacity to undergo a change of physical form without breaking; malleability or flexibility", "S": [], "A": []}

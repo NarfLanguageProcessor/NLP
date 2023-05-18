@@ -1,0 +1,1 @@
+{"index": 60860, "D": "helping reciprocally; cooperating.", "S": ["adjutant ", "aide ", "associate ", "auxiliary ", "coadjutor ", "helper ", "second ", "sidekick "], "A": []}

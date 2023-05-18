@@ -1,0 +1,1 @@
+{"index": 171571, "D": "the ancient Roman pound (containing 5053 grains or 327.4 grams).", "S": ["Aquarius ", "Aries ", "Cancer ", "Capricorn ", "Gemini ", "Libra ", "Pisces ", "Sagittarius ", "Scorpio ", "Taurus ", "Virgo ", "horoscope sign ", "leo ", "zodiac sign "], "A": []}

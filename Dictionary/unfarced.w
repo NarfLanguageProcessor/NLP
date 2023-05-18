@@ -1,0 +1,1 @@
+{"index": 342004, "D": "a light, humorous play in which the plot depends upon a skillfully exploited situation rather than upon the development of character.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 169733, "D": "a brand name for an imitation leather product consisting of chemically treated and vulcanized paper or other vegetable fiber.", "S": [], "A": []}

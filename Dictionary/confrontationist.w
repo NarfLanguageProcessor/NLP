@@ -1,0 +1,1 @@
+{"index": 66070, "D": "a person who confronts opposition, especially aggressively.", "S": [], "A": []}

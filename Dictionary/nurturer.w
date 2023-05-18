@@ -1,0 +1,1 @@
+{"index": 209743, "D": "someone who nurtures  others, offering food, protection, support, encouragement, or training", "S": [], "A": []}

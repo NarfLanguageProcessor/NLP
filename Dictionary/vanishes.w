@@ -1,0 +1,1 @@
+{"index": 356995, "D": "to disappear from sight, especially quickly; become invisible", "S": ["die ", "die out ", "dissolve ", "evaporate ", "fade ", "melt "], "A": ["coagulate ", "improve ", "solidify "]}

@@ -1,0 +1,1 @@
+{"index": 295075, "D": "free from projections or unevenness of surface; not rough", "S": ["abrading ", "coarse "], "A": ["fine ", "fine-grained "]}

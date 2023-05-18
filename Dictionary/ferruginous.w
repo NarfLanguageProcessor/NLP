@@ -1,0 +1,1 @@
+{"index": 111574, "D": "iron-bearing", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146978, "D": "a member of a religious sect living mostly in the Kurdish areas of northern Iraq, Syria, Armenia, and Georgia, whose beliefs are based partly on Zoroastrianism and Sufism.", "S": [], "A": []}

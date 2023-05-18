@@ -1,0 +1,1 @@
+{"index": 14573, "D": "anthropology.", "S": [], "A": []}

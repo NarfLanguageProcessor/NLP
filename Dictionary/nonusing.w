@@ -1,0 +1,1 @@
+{"index": 208129, "D": "to employ for some purpose; put into service; make use of", "S": [], "A": []}

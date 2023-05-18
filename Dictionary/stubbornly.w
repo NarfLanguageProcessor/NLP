@@ -1,0 +1,1 @@
+{"index": 306742, "D": "unreasonably obstinate; obstinately unmoving", "S": ["determinedly ", "doggedly ", "firmly ", "resolutely ", "tenaciously "], "A": []}

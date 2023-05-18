@@ -1,0 +1,1 @@
+{"index": 200210, "D": "a white or yellow, toxic, crystalline or powdery compound, C9H4O3\u22c5H2O, that reddens when heated above 100\u00b0C, a monohydrate, soluble in water or alcohol", "S": [], "A": []}

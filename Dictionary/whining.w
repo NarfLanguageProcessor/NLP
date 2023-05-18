@@ -1,0 +1,1 @@
+{"index": 364875, "D": "uttering a nasal, complaining cry, as from peevishness, discontent, uneasiness, etc.", "S": ["bellyaching ", "caviling ", "criticizing ", "disparaging ", "griping ", "grousing ", "grumbling ", "kvetching ", "moaning ", "nagging ", "niggling ", "quibbling "], "A": ["complimentary ", "forgiving "]}

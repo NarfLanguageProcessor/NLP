@@ -1,0 +1,1 @@
+{"index": 84233, "D": "a machine that performs dialysis, esp one that removes impurities from the blood of patients with malfunctioning kidneys; kidney machine", "S": [], "A": []}

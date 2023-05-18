@@ -1,0 +1,1 @@
+{"index": 188061, "D": "a member of a group of American militiamen just before and during the Revolutionary War who held themselves in readiness for instant military service.", "S": [], "A": []}

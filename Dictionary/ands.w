@@ -1,0 +1,1 @@
+{"index": 12459, "D": "(used to connect grammatically coordinate words, phrases, or clauses) along or together with; as well as; in addition to; besides; also; moreover", "S": ["along with ", "also ", "as a consequence ", "as well as ", "furthermore ", "including ", "moreover ", "together with "], "A": []}

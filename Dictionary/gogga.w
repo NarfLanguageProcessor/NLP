@@ -1,0 +1,1 @@
+{"index": 127423, "D": "any small animal that crawls or flies, esp an insect", "S": [], "A": []}

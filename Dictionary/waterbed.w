@@ -1,0 +1,1 @@
+{"index": 363107, "D": "a bed  having a liquid-filled rubber or plastic mattress in a rigid, often heated, waterproof frame, and providing a surface that conforms to the sleeper's body in any position.", "S": [], "A": []}

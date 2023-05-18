@@ -1,0 +1,1 @@
+{"index": 133305, "D": "the art or technique of weaving on a handloom.", "S": [], "A": []}

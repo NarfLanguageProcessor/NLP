@@ -1,0 +1,1 @@
+{"index": 339170, "D": "inadequate exposure,  as of photographic film.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303022, "D": "the electrostatic unit of current, equivalent to 3.3356 \u00d7 10\u221210 ampere and equal to the current produced by an electromotive force of one statvolt acting through a resistance of one statohm.", "S": [], "A": []}

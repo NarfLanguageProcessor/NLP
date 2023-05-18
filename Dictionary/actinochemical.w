@@ -1,0 +1,1 @@
+{"index": 3132, "D": "the branch of chemistry  dealing with actinism; photochemistry.", "S": [], "A": []}

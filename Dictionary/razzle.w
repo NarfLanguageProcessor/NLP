@@ -1,0 +1,1 @@
+{"index": 261378, "D": "out enjoying oneself or celebrating, esp while drinking freely", "S": [], "A": []}

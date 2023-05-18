@@ -1,0 +1,1 @@
+{"index": 68383, "D": "any aquatic bird of the genus Fulica, as F. americana, of North America, and F. atra, of the Old World, characterized by lobate toes and short wings and tail.", "S": [], "A": []}

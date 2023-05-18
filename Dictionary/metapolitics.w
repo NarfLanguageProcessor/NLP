@@ -1,0 +1,1 @@
+{"index": 184945, "D": "political theory (often used derogatorily)", "S": [], "A": []}

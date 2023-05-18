@@ -1,0 +1,1 @@
+{"index": 288717, "D": "a shoelace.", "S": ["casual ", "inconsequential ", "inconsiderable ", "insignificant ", "light ", "minor ", "minute ", "negligible ", "paltry ", "petty ", "small ", "trifling ", "trivial ", "unimportant "], "A": []}

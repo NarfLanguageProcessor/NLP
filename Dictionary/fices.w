@@ -1,0 +1,1 @@
+{"index": 112143, "D": "a small mongrel dog, especially one that is ill-tempered; cur; mutt. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 326519, "D": "in all; completely; entirely; wholly. ", "S": [], "A": []}

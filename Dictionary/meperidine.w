@@ -1,0 +1,1 @@
+{"index": 183579, "D": "a narcotic compound, C15H21NO2, used as an analgesic and sedative.", "S": [], "A": []}

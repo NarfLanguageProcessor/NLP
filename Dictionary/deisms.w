@@ -1,0 +1,1 @@
+{"index": 79852, "D": "belief in the existence of a God on the evidence of reason and nature only, with rejection of supernatural revelation (distinguished from theism).", "S": [], "A": []}

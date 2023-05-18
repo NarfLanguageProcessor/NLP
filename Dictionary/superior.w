@@ -1,0 +1,1 @@
+{"index": 312147, "D": "higher in station, rank, degree, importance, etc.", "S": ["admirable ", "exceptional ", "first-rate ", "good ", "high-caliber ", "preferable ", "remarkable ", "superhuman "], "A": ["detestable ", "normal ", "ordinary ", "unremarkable ", "usual ", "bad ", "inferior ", "minor ", "poor ", "secondary ", "unimportant "]}

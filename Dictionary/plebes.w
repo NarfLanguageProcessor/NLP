@@ -1,0 +1,1 @@
+{"index": 239680, "D": "(at the U.S. Military and Naval academies) a member of the freshman class.", "S": ["student ", "youth "], "A": []}

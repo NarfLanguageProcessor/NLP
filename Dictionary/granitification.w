@@ -1,0 +1,1 @@
+{"index": 128934, "D": "a hypothetical process of forming granite.", "S": [], "A": []}

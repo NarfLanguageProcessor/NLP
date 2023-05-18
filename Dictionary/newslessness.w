@@ -1,0 +1,1 @@
+{"index": 199450, "D": "a report of a recent event; intelligence; information", "S": [], "A": []}

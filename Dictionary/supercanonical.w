@@ -1,0 +1,1 @@
+{"index": 311467, "D": "pertaining to, established by, or conforming to a canon  or canons. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211905, "D": "the parliament of the Republic of Ireland, consisting of the president, the Dail Eireann, and the Seanad Eireann.", "S": [], "A": []}

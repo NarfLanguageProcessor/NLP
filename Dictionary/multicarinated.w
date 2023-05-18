@@ -1,0 +1,1 @@
+{"index": 195008, "D": "formed with a carina;  keellike.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194125, "D": "memorandum of understanding", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 278317, "D": "any of several spherical, saprophytic bacteria of the genus Sarcina, having a cuboidal cell arrangement.", "S": [], "A": []}

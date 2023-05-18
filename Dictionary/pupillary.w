@@ -1,0 +1,1 @@
+{"index": 256802, "D": "of or relating to a pupil  or student.", "S": [], "A": []}

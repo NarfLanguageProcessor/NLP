@@ -1,0 +1,1 @@
+{"index": 167670, "D": "that is to be lamented;  regrettable; unfortunate", "S": ["sadly "], "A": ["appropriately ", "favorably ", "fortunately ", "happily ", "luckily "]}

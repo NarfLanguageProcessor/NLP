@@ -1,0 +1,1 @@
+{"index": 349173, "D": "by or from one to the other; in a way that involves equal exchange between two people or groups; mutually", "S": [], "A": []}

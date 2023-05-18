@@ -1,0 +1,1 @@
+{"index": 170967, "D": "any of various tropical trees belonging to the genus Leucaena, of the legume family, which includes the lead tree.", "S": [], "A": []}

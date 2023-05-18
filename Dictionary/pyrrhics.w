@@ -1,0 +1,1 @@
+{"index": 238004, "D": "consisting of two short or unaccented syllables.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250694, "D": "a person or thing that prints,  especially a person whose occupation is printing. ", "S": [], "A": []}

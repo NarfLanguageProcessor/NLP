@@ -1,0 +1,1 @@
+{"index": 327840, "D": "the act or process of transferring.", "S": ["car ", "carriage ", "communication ", "machine ", "movement ", "transfer ", "transmission ", "transportation ", "vehicle "], "A": ["hold ", "possession "]}

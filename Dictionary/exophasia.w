@@ -1,0 +1,1 @@
+{"index": 107410, "D": "ordinary, vocalized, audible speech.", "S": [], "A": []}

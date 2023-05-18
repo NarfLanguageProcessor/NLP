@@ -1,0 +1,1 @@
+{"index": 131306, "D": "any of various viscid, amorphous exudations from plants, hardening on exposure to air and soluble in or forming a viscid mass with water.", "S": ["paste ", "wax "], "A": []}

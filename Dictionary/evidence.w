@@ -1,0 +1,1 @@
+{"index": 106226, "D": "that which tends to prove or disprove something; ground for belief; proof.", "S": ["clue ", "confirmation ", "data ", "deposition ", "documentation ", "indication ", "information ", "sign ", "testimony ", "witness "], "A": ["concealment ", "denial ", "hiding "]}

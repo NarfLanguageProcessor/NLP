@@ -1,0 +1,1 @@
+{"index": 302513, "D": "the principles of communism associated with Joseph Stalin,  characterized especially by the extreme suppression of dissident political or ideological views, the concentration of power in one person, and an aggressive international policy.", "S": [], "A": []}

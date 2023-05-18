@@ -1,0 +1,1 @@
+{"index": 362191, "D": "an informal public stroll taken by members of the royal family or by a political figure for the purpose of greeting and being seen by the public.", "S": ["backpacking ", "trek ", "trip "], "A": []}

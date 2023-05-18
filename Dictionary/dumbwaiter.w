@@ -1,0 +1,1 @@
+{"index": 94057, "D": "a small elevator, manually or electrically operated, consisting typically of a box with shelves, used in apartment houses, restaurants, and large private dwellings for moving dishes, food, garbage, etc., between floors.", "S": ["escalator "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151337, "D": "of, relating to, or involving electrical induction or magnetic induction.", "S": [], "A": []}

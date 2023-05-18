@@ -1,0 +1,1 @@
+{"index": 63204, "D": "of or relating to Colombia or its inhabitants", "S": [], "A": []}

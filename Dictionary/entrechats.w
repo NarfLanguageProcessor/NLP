@@ -1,0 +1,1 @@
+{"index": 101668, "D": "a jump in which the dancer crosses the feet a number of times while in the air.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309496, "D": "(of a stimulus) too weak to produce a response.", "S": [], "A": []}

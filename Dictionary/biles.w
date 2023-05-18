@@ -1,0 +1,1 @@
+{"index": 33890, "D": "a bitter, alkaline, yellow or greenish liquid, secreted by the liver, that aids in absorption and digestion, especially of fats.", "S": ["mind ", "spirit ", "temper "], "A": []}

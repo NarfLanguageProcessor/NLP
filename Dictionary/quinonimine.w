@@ -1,0 +1,1 @@
+{"index": 258774, "D": "a colorless, crystalline compound, C6H5NO, the parent of the indophenol dyes, derived from quinone.", "S": [], "A": []}

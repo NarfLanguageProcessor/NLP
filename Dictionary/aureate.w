@@ -1,0 +1,1 @@
+{"index": 23516, "D": "golden or gilded.", "S": ["brilliant ", "golden ", "ornate ", "overblown ", "splendid ", "yellow "], "A": []}

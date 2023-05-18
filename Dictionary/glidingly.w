@@ -1,0 +1,1 @@
+{"index": 126321, "D": "to move smoothly and continuously along, as if without effort or resistance, as a flying bird, a boat, or a skater.", "S": [], "A": []}

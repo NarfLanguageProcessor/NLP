@@ -1,0 +1,1 @@
+{"index": 245428, "D": "to bring to its goal or conclusion; carry out; perform; finish", "S": [], "A": []}

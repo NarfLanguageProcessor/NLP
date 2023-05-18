@@ -1,0 +1,1 @@
+{"index": 108839, "D": "of, relating to, or characteristic of exurbs or exurbanites.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 143968, "D": "to cause to feel horror;  strike with horror", "S": [], "A": []}

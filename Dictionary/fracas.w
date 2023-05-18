@@ -1,0 +1,1 @@
+{"index": 118131, "D": "a noisy, disorderly disturbance or fight; riotous brawl; uproar.", "S": ["altercation ", "bickering ", "brawl ", "brouhaha ", "feud ", "flap ", "fray ", "free-for-all ", "melee ", "quarrel ", "riot ", "scuffle ", "squabble ", "tumult ", "uproar "], "A": ["agreement ", "calm ", "harmony ", "peace "]}

@@ -1,0 +1,1 @@
+{"index": 296739, "D": "the act or process of becoming a hard or compact mass, or of changing from a liquid or gaseous state to a solid state", "S": ["calcification ", "coagulation ", "concretion ", "crystallization ", "fossilization ", "freezing ", "ossification ", "petrification ", "setting ", "solidifying ", "stiffening "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 41618, "D": "the strap of a horse's bridle that goes across the forehead", "S": [], "A": []}

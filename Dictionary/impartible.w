@@ -1,0 +1,1 @@
+{"index": 148312, "D": "not partible; indivisible.", "S": ["deadly ", "endemic ", "infectious ", "poisonous ", "spreading "], "A": ["harmless "]}

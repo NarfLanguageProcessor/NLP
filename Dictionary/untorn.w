@@ -1,0 +1,1 @@
+{"index": 353127, "D": "past participle of tear2. ", "S": [], "A": []}

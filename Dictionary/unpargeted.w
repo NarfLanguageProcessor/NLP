@@ -1,0 +1,1 @@
+{"index": 347460, "D": "any of various plasters or roughcasts for covering walls or other surfaces, especially a mortar of lime, hair, and cow dung for lining chimney flues.", "S": [], "A": []}

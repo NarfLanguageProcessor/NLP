@@ -1,0 +1,1 @@
+{"index": 149863, "D": "a furnace or apparatus for burning trash, garbage, etc., to ashes.", "S": ["boiler ", "heater ", "heating system "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214794, "D": "psittacosis, especially of birds other than those of the parrot family.", "S": [], "A": []}

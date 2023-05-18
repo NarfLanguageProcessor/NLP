@@ -1,0 +1,1 @@
+{"index": 83848, "D": "dextroglucose, commercially obtainable from starch by acid hydrolysis.", "S": ["cellulose ", "glucose ", "lactose ", "starch ", "sugar "], "A": []}

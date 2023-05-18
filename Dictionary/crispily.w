@@ -1,0 +1,1 @@
+{"index": 73355, "D": "(especially of food) brittle; crisp. ", "S": [], "A": []}

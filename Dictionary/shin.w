@@ -1,0 +1,1 @@
+{"index": 288332, "D": "the front part of the leg from the knee to the ankle.", "S": ["tibia "], "A": []}

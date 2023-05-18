@@ -1,0 +1,1 @@
+{"index": 12751, "D": "(of a fruit) partially or wholly enclosed in a shell, involucre, or husk.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 270970, "D": "to go or come back, as to a former place, position, or state", "S": ["arrival ", "entry ", "rebound ", "recovery ", "restoration "], "A": ["departure ", "exit ", "leaving ", "question "]}

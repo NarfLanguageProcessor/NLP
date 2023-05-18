@@ -1,0 +1,1 @@
+{"index": 345972, "D": "in a way that is reminiscent of a violently insane person", "S": [], "A": []}

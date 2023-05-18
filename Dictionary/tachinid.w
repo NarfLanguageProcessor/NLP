@@ -1,0 +1,1 @@
+{"index": 315011, "D": "any of numerous dipterous insects of the family Tachinidae, the larvae of which are parasitic on caterpillars, beetles, and other insects.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294012, "D": "a rock surface that has become more or less polished and striated by slippage along a fault plane.", "S": [], "A": []}

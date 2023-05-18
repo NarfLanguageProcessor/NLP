@@ -1,0 +1,1 @@
+{"index": 52323, "D": "a composite plant, Chamaemelium nobile (or Anthemis nobilis), native to the Old World, having strongly scented foliage and white ray flowers with yellow centers used medicinally and as a tea.", "S": [], "A": []}

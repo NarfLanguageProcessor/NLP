@@ -1,0 +1,1 @@
+{"index": 352140, "D": "in a way that relates to strategy", "S": [], "A": []}

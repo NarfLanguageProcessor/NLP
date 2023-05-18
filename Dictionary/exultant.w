@@ -1,0 +1,1 @@
+{"index": 108820, "D": "exulting;  highly elated; jubilant; triumphant.", "S": ["delighted ", "ecstatic ", "elated ", "joyful ", "joyous ", "jubilant ", "overjoyed ", "triumphant "], "A": ["depressed ", "disappointed ", "miserable ", "sad ", "sorrowful ", "troubled ", "unhappy "]}

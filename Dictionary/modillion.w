@@ -1,0 +1,1 @@
+{"index": 191151, "D": "an ornamental cantilever beneath the corona or similar member of a cornice, stringcourse, etc.", "S": [], "A": []}

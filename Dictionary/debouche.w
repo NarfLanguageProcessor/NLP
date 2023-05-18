@@ -1,0 +1,1 @@
+{"index": 77825, "D": "a passage or opening through which troops may debouch.", "S": [], "A": []}

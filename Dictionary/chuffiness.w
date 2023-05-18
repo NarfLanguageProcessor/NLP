@@ -1,0 +1,1 @@
+{"index": 56565, "D": "churlish; surly.", "S": [], "A": []}

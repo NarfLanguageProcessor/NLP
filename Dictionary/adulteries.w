@@ -1,0 +1,1 @@
+{"index": 4519, "D": "voluntary sexual intercourse between a married person and someone other than their lawful spouse.", "S": ["infidelity "], "A": ["faithfulness "]}

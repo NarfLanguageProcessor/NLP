@@ -1,0 +1,1 @@
+{"index": 270725, "D": "to try again (a case already determined); give a new trial to", "S": [], "A": []}

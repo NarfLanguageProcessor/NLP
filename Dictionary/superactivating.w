@@ -1,0 +1,1 @@
+{"index": 311299, "D": "to make active; cause to function or act.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155161, "D": "a language  created or used for international communication.", "S": [], "A": []}

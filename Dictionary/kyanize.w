@@ -1,0 +1,1 @@
+{"index": 164368, "D": "to treat (wood) against decay with a solution of mercuric chloride.", "S": [], "A": []}

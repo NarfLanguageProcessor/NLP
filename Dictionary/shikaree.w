@@ -1,0 +1,1 @@
+{"index": 288248, "D": "(in India) a person who hunts big game, especially a professional guide or hunter.", "S": [], "A": []}

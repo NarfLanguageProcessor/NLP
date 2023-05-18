@@ -1,0 +1,1 @@
+{"index": 252160, "D": "a computer programming language based on mathematical logic", "S": [], "A": []}

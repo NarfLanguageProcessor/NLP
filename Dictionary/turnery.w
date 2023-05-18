@@ -1,0 +1,1 @@
+{"index": 332817, "D": "the process or art of forming or shaping objects on a lathe.", "S": [], "A": []}

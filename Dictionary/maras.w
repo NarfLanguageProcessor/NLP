@@ -1,0 +1,1 @@
+{"index": 179803, "D": "a city in S Turkey, NE of Adana.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 81202, "D": "to condemn or censure openly or publicly", "S": ["censurer ", "condemner ", "condemnor ", "criticizer "], "A": []}

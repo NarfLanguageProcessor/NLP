@@ -1,0 +1,1 @@
+{"index": 238410, "D": "the legendary progenitor of any family.", "S": [], "A": []}

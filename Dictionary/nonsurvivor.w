@@ -1,0 +1,1 @@
+{"index": 207714, "D": "a person or thing that survives. ", "S": [], "A": []}

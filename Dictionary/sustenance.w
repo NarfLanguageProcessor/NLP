@@ -1,0 +1,1 @@
+{"index": 313799, "D": "means of sustaining  or supporting life or health; nourishment, especially food and drink", "S": ["livelihood ", "nourishment ", "nutrition ", "subsistence "], "A": ["deprivation ", "starvation "]}

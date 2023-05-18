@@ -1,0 +1,1 @@
+{"index": 354943, "D": "to rise up; get up, as from a lying or sitting posture.", "S": [], "A": []}

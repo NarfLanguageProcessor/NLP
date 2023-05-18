@@ -1,0 +1,1 @@
+{"index": 112306, "D": "accepted as a fixed basis of reference or comparison", "S": [], "A": []}

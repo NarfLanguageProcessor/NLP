@@ -1,0 +1,1 @@
+{"index": 89766, "D": "arranged alternately in two vertical rows on opposite sides of an axis, as leaves.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 13900, "D": "being one more or more of the same; further; additional", "S": ["other ", "that "], "A": []}

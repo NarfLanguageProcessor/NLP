@@ -1,0 +1,1 @@
+{"index": 156876, "D": "a less common variant of entrust. ", "S": ["advanced ", "bestowed ", "entrusted ", "given ", "granted ", "leased ", "let "], "A": []}

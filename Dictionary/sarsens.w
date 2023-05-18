@@ -1,0 +1,1 @@
+{"index": 278556, "D": "any of numerous large sandstone blocks or fragments found in south-central England, probably remnants of eroded Tertiary beds.", "S": [], "A": []}

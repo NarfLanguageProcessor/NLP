@@ -1,0 +1,1 @@
+{"index": 199284, "D": "an embryo in the stage of development in which part of the ectoderm is differentiated into neural tissue and in which the neural tube, which develops into the brain and spinal cord, is formed.", "S": [], "A": []}

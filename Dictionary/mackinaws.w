@@ -1,0 +1,1 @@
+{"index": 176825, "D": "a short double-breasted coat of a thick woolen material, commonly plaid.", "S": ["cloak ", "frock ", "jacket ", "overcoat ", "raincoat ", "suit ", "tuxedo ", "windbreaker ", "wrap "], "A": []}

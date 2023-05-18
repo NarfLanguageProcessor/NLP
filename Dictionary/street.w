@@ -1,0 +1,1 @@
+{"index": 306015, "D": "a public thoroughfare, usually paved, in a village, town, or city, including the sidewalk or sidewalks.", "S": ["avenue ", "boulevard ", "court ", "highway ", "lane ", "pavement ", "place ", "road ", "roadway ", "route ", "thoroughfare ", "track ", "trail "], "A": []}

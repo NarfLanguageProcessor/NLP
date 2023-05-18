@@ -1,0 +1,1 @@
+{"index": 137706, "D": "(of an antibody) having an affinity for an antigen other than its specific antigen.", "S": [], "A": []}

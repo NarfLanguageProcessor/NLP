@@ -1,0 +1,1 @@
+{"index": 295033, "D": "to burn without flame; undergo slow or suppressed combustion.", "S": ["fiery ", "flaming "], "A": []}

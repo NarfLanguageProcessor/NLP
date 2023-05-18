@@ -1,0 +1,1 @@
+{"index": 319108, "D": "lacking a sound basis, as reasoning; unsubstantiated; weak", "S": [], "A": []}

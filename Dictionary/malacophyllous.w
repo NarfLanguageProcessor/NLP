@@ -1,0 +1,1 @@
+{"index": 178175, "D": "(of plants living in dry regions) having fleshy leaves in which water is stored", "S": [], "A": []}

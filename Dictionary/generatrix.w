@@ -1,0 +1,1 @@
+{"index": 123501, "D": "generator (def. 4b). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4861, "D": "an ancient coastal region and Greek colony in northwestern Asia Minor", "S": [], "A": []}

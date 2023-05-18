@@ -1,0 +1,1 @@
+{"index": 306539, "D": "a disease, especially of horses, caused by an infestation by strongyles and characterized in serious cases by weakness and anemia.", "S": [], "A": []}

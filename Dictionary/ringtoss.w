@@ -1,0 +1,1 @@
+{"index": 273082, "D": "a game in which rings,  often made of rope, are tossed  to encircle an upright peg.", "S": [], "A": []}

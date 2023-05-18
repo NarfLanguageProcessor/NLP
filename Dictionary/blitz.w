@@ -1,0 +1,1 @@
+{"index": 36313, "D": "an intensive aerial bombing.", "S": ["assault ", "bombardment ", "bombing ", "offensive ", "onslaught ", "raid ", "shelling "], "A": ["letup "]}

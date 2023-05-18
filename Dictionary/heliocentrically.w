@@ -1,0 +1,1 @@
+{"index": 135535, "D": "measured or considered as being seen from the center of the sun.", "S": [], "A": []}

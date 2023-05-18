@@ -1,0 +1,1 @@
+{"index": 30344, "D": "any hymenopterous  insect of the superfamily Apoidea, including social and solitary species of several families, as the bumblebee, honeybee,  etc.", "S": [], "A": []}

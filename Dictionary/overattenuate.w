@@ -1,0 +1,1 @@
+{"index": 218273, "D": "to weaken or reduce in force, intensity, effect, quantity, or value", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 334978, "D": "pertaining to, resembling, or containing anecdotes", "S": [], "A": []}

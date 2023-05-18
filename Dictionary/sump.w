@@ -1,0 +1,1 @@
+{"index": 310992, "D": "a pit, well, or the like in which water or other liquid is collected.", "S": ["lowland ", "marshland ", "wetlands "], "A": []}

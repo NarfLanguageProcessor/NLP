@@ -1,0 +1,1 @@
+{"index": 55311, "D": "an act or instance of choosing;  selection", "S": ["quality ", "superiority "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303876, "D": "the stereochrome process.", "S": [], "A": []}

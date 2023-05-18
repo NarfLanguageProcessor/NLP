@@ -1,0 +1,1 @@
+{"index": 129669, "D": "a short, hooded coat of thick, coarse fabric, originally worn in the eastern Mediterranean countries.", "S": [], "A": []}

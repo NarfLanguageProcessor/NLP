@@ -1,0 +1,1 @@
+{"index": 217703, "D": "to cheat (a person, business, etc.) out of money or other assets.", "S": [], "A": []}

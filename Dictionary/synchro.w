@@ -1,0 +1,1 @@
+{"index": 291385, "D": "a combining form representing synchronized  or synchronous  in compound words", "S": [], "A": []}

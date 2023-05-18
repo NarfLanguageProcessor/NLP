@@ -1,0 +1,1 @@
+{"index": 227415, "D": "a slip of paper gummed on the back, to be pasted  on or over something, as over a name on a ballot.", "S": [], "A": []}

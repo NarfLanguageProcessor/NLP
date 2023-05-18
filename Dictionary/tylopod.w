@@ -1,0 +1,1 @@
+{"index": 323625, "D": "any artiodactyl mammal of the suborder Tylopoda, having padded, rather than hoofed, digits", "S": [], "A": []}

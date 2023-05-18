@@ -1,0 +1,1 @@
+{"index": 101722, "D": "to charge or invest with a trust  or responsibility; charge with a specified office or duty involving trust", "S": ["allocate ", "assign ", "authorize ", "commend ", "commit ", "confer ", "confide ", "hand over ", "impose ", "invest ", "relegate ", "trust ", "turn over "], "A": ["deny ", "hold ", "keep ", "retain ", "withhold "]}

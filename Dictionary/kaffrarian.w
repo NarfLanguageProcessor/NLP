@@ -1,0 +1,1 @@
+{"index": 162720, "D": "of or relating to Kaffraria, a former region of S central South Africa, or its inhabitants", "S": [], "A": []}

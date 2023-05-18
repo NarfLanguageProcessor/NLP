@@ -1,0 +1,1 @@
+{"index": 218448, "D": "the quality of being brutal;  cruelty; savagery.", "S": [], "A": []}

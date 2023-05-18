@@ -1,0 +1,1 @@
+{"index": 137295, "D": "a DNA-containing virus  of the family Herpesviridae, certain members of which cause such diseases in humans as oral  and genital herpes, infectious mononucleosis, chickenpox,  and shingles. ", "S": [], "A": []}

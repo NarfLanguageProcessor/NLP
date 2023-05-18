@@ -1,0 +1,1 @@
+{"index": 224752, "D": "a broad, shallow container of metal, usually having sides flaring outward toward the top, used in various forms for frying, baking, washing, etc.", "S": ["denunciation ", "objection "], "A": ["approval ", "compliment ", "flattery ", "praise ", "sanction "]}

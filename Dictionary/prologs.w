@@ -1,0 +1,1 @@
+{"index": 252174, "D": "Compare epilogue (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 254123, "D": "tending or serving to provoke;  inciting, stimulating, irritating, or vexing.", "S": ["challenging ", "disturbing ", "exciting ", "inspirational ", "insulting ", "offensive ", "outrageous "], "A": ["pleasing "]}

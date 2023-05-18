@@ -1,0 +1,1 @@
+{"index": 180601, "D": "a member of an African people inhabiting the highlands of Kenya and Tanzania and having a largely pastoral economy and a society based on the patrilineal clan.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55700, "D": "one of a pair of thin, tapered sticks, often of wood or ivory, held in one hand between the thumb and fingers and used chiefly in China, Japan, and other Asian countries for lifting food to the mouth.", "S": [], "A": []}

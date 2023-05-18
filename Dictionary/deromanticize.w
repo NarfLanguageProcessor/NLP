@@ -1,0 +1,1 @@
+{"index": 82311, "D": "to remove the romantic, ideal, or heroic aura from.", "S": [], "A": []}

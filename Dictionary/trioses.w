@@ -1,0 +1,1 @@
+{"index": 330253, "D": "a monosaccharide that has three atoms of carbon.", "S": [], "A": []}

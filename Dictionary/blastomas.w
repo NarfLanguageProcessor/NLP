@@ -1,0 +1,1 @@
+{"index": 35827, "D": "a tumor originating from undifferentiated embryonic cells and having little or no connective tissue.", "S": [], "A": []}

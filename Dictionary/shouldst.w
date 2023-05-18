@@ -1,0 +1,1 @@
+{"index": 289001, "D": "2nd person singular past tense of shall. ", "S": [], "A": []}

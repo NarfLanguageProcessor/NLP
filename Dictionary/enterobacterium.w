@@ -1,0 +1,1 @@
+{"index": 101242, "D": "any of a class of Gram-negative rodlike bacteria that occur in the gastrointestinal tract", "S": [], "A": []}

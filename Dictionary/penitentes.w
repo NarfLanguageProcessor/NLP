@@ -1,0 +1,1 @@
+{"index": 229674, "D": "a member of a confraternity, chiefly in Spanish American communities in New Mexico, known for their practice of self-flagellation, especially during Holy Week.", "S": [], "A": []}

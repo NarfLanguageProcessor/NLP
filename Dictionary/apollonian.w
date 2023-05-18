@@ -1,0 +1,1 @@
+{"index": 17248, "D": "pertaining to the cult of Apollo.", "S": [], "A": []}

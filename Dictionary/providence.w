@@ -1,0 +1,1 @@
+{"index": 254060, "D": "the foreseeing care and guidance of God or nature over the creatures of the earth.", "S": ["deity ", "god "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126569, "D": "a compact cluster of capillaries.", "S": [], "A": []}

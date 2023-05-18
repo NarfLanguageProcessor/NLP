@@ -1,0 +1,1 @@
+{"index": 108327, "D": "pertaining to exteroceptors, the stimuli acting upon them, or the nerve impulses initiated by them.", "S": [], "A": []}

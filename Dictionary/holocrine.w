@@ -1,0 +1,1 @@
+{"index": 142574, "D": "(of a gland) releasing a secretion that is a product of disintegrating cells.", "S": [], "A": []}

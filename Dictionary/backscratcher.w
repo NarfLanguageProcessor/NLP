@@ -1,0 +1,1 @@
+{"index": 25886, "D": "a long-handled device for scratching one's own back.", "S": ["bootlicker ", "doormat ", "fan ", "fawner ", "flatterer ", "flunky ", "follower ", "groupie ", "hanger-on ", "lackey ", "puppet ", "stooge ", "toady "], "A": ["leader ", "master "]}

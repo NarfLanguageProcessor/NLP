@@ -1,0 +1,1 @@
+{"index": 306225, "D": "to walk with long steps, as with vigor, haste, impatience, or arrogance.", "S": ["stalk ", "traipse ", "tramp "], "A": []}

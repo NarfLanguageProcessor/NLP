@@ -1,0 +1,1 @@
+{"index": 367475, "D": "a bag  for holding implements and materials for work,  especially needlework.", "S": [], "A": []}

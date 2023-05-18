@@ -1,0 +1,1 @@
+{"index": 240919, "D": "an English word or expression borrowed into Spanish; a Spanish word showing U.S. influence.", "S": [], "A": []}

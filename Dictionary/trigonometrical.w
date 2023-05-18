@@ -1,0 +1,1 @@
+{"index": 329865, "D": "the branch of mathematics that deals with the relations between the sides and angles of plane or spherical triangles, and the calculations based on them.", "S": [], "A": []}

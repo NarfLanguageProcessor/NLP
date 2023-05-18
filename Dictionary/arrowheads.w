@@ -1,0 +1,1 @@
+{"index": 20325, "D": "the head or tip of an arrow, usually separable from the shaft and conventionally wedge-shaped.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133254, "D": "your welfare is in his hands", "S": ["claws ", "control ", "custody ", "grasp ", "grip ", "keeping ", "possession ", "sway "], "A": ["misconception ", "misunderstanding ", "release "]}

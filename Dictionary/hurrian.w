@@ -1,0 +1,1 @@
+{"index": 145262, "D": "a member of an ancient people, sometimes identified with the Horites, who lived in the Middle East during the 2nd and 3rd millenniums b.c. and who established the Mitanni kingdom about 1400 b.c.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 66431, "D": "any other word or expression of similar function, as in any case.", "S": ["combinable ", "combinative ", "combinatorial ", "conjoining ", "conjugable ", "conjugational ", "conjugative ", "connective "], "A": []}

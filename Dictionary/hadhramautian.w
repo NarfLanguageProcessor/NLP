@@ -1,0 +1,1 @@
+{"index": 131941, "D": "a region along the southern coast of Arabia, in the Republic of Yemen. About 204,000 sq. mi. (528,000 sq. km).", "S": [], "A": []}

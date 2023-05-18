@@ -1,0 +1,1 @@
+{"index": 126471, "D": "any of several plants belonging to the genus Trollius, of the buttercup family, as T. laxus, of North America, having rounded, yellowish flowers. ", "S": [], "A": []}

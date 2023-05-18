@@ -1,0 +1,1 @@
+{"index": 293495, "D": "a small, brimless close-fitting cap,  often made of silk or velvet, worn on the crown of the head, as for religious functions.", "S": ["beret "], "A": []}

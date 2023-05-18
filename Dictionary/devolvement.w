@@ -1,0 +1,1 @@
+{"index": 83656, "D": "to transfer or delegate (a duty, responsibility, etc.) to or upon another; pass on.", "S": [], "A": []}

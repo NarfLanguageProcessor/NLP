@@ -1,0 +1,1 @@
+{"index": 79370, "D": "to bend or turn aside; turn from a true course or straight line; swerve.", "S": [], "A": []}

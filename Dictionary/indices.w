@@ -1,0 +1,1 @@
+{"index": 150922, "D": "a plural of index. ", "S": ["indicator ", "ratio "], "A": []}

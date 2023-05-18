@@ -1,0 +1,1 @@
+{"index": 155209, "D": "pertaining to or using two or more languages", "S": [], "A": []}

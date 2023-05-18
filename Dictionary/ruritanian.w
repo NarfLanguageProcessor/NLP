@@ -1,0 +1,1 @@
+{"index": 275767, "D": "of or relating to Ruritania", "S": [], "A": []}

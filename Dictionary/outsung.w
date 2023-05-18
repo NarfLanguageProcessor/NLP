@@ -1,0 +1,1 @@
+{"index": 217684, "D": "past participle of outsing. ", "S": [], "A": []}

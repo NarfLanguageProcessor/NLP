@@ -1,0 +1,1 @@
+{"index": 69593, "D": "the mechanical erosion of soil and rock by the abrasive action of particles set in motion by running water, wind, glacial ice, and gravity.", "S": [], "A": []}

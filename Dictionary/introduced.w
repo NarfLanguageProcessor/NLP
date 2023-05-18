@@ -1,0 +1,1 @@
+{"index": 156757, "D": "to present (a person) to another so as to make acquainted.", "S": ["imported ", "popularized ", "received "], "A": []}

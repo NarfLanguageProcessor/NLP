@@ -1,0 +1,1 @@
+{"index": 110005, "D": "a colorless, unsaturated, liquid alcohol, C15H26O, having a slight floral odor, extracted from the flowers of the acacia, cassia oil, or the like", "S": [], "A": []}

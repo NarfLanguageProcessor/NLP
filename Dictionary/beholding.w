@@ -1,0 +1,1 @@
+{"index": 30832, "D": "to observe; look at; see.", "S": ["attention ", "cognizance ", "detection ", "discovery ", "finding ", "note ", "notice ", "observance ", "spotting "], "A": ["heedlessness ", "ignorance ", "miss ", "neglect "]}

@@ -1,0 +1,1 @@
+{"index": 346774, "D": "contrary to the laws or course of nature.", "S": ["abnormal ", "bizarre ", "incredible ", "odd ", "outlandish ", "outrageous ", "perverse ", "preposterous ", "stilted ", "strange ", "unusual "], "A": ["common ", "familiar ", "normal ", "reasonable ", "regular ", "sensible ", "standard ", "usual "]}

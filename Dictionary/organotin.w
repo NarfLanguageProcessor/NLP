@@ -1,0 +1,1 @@
+{"index": 214470, "D": "of, concerned with, or being an organic compound with one or more tin atoms in its molecules", "S": [], "A": []}

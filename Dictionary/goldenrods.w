@@ -1,0 +1,1 @@
+{"index": 127516, "D": "any composite plant of the genus Solidago, most species of which bear numerous small, yellow flower heads.", "S": [], "A": []}

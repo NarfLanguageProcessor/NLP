@@ -1,0 +1,1 @@
+{"index": 139228, "D": "a drink of whiskey mixed with club soda or ginger ale and served with ice in a tall glass.", "S": ["bottle ", "cup ", "jar ", "jug "], "A": []}

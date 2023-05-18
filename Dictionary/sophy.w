@@ -1,0 +1,1 @@
+{"index": 297408, "D": "any of the Safavid rulers of Persia", "S": [], "A": []}

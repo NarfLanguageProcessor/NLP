@@ -1,0 +1,1 @@
+{"index": 264642, "D": "the act, process, or an instance of embarking. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89045, "D": "the act of displacing.", "S": ["deracination ", "move ", "movement ", "rearrangement ", "shift ", "supplanting "], "A": ["inaction ", "inactivity ", "stagnation "]}

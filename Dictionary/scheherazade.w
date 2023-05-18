@@ -1,0 +1,1 @@
+{"index": 280072, "D": "(in The Arabian Nights' Entertainments) the wife of the sultan of India, who relates such interesting tales nightly that the sultan spares her life.", "S": [], "A": []}

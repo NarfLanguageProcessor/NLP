@@ -1,0 +1,1 @@
+{"index": 124103, "D": "an ancient Hebrew weight and coin, equal to 1/20 (0.05) of a shekel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321950, "D": "a gray powder, C13H12N2S, used as an intermediate in dyes and as an accelerator in vulcanization.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95749, "D": "an act of edifying. ", "S": ["betterment ", "elevation ", "elucidation ", "enhancement ", "enlightenment ", "guidance ", "illumination ", "information ", "instruction ", "irradiation ", "knowledge ", "learning ", "nurture ", "schooling ", "teaching ", "tuition ", "uplifting "], "A": ["ignorance "]}

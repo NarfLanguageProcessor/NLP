@@ -1,0 +1,1 @@
+{"index": 100686, "D": "the period of time for which one is committed to military service.", "S": ["enrollment ", "recruitment "], "A": []}

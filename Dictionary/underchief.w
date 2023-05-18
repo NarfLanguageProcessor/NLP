@@ -1,0 +1,1 @@
+{"index": 338972, "D": "the head or leader of an organized body of people; the person highest in authority", "S": [], "A": []}

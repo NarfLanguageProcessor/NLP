@@ -1,0 +1,1 @@
+{"index": 83503, "D": "a movement in ballet in which the free leg is drawn up beside the working leg and then extended into the air.", "S": [], "A": []}

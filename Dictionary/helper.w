@@ -1,0 +1,1 @@
+{"index": 135804, "D": "a person or thing that helps  or gives assistance, support, etc.", "S": ["apprentice ", "attendant ", "collaborator ", "companion ", "servant ", "temp ", "temporary worker "], "A": ["adversary ", "antagonist ", "boss ", "chief ", "detractor ", "enemy ", "foe ", "leader ", "manager ", "opponent ", "opposer ", "superior "]}

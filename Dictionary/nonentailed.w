@@ -1,0 +1,1 @@
+{"index": 203528, "D": "involved with or following from something by logical necessity or as a consequence", "S": [], "A": []}

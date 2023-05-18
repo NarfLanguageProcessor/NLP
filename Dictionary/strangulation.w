@@ -1,0 +1,1 @@
+{"index": 305789, "D": [], "S": ["beheading ", "crucifixion ", "decapitation ", "electrocution ", "gassing ", "hanging ", "hit ", "impalement ", "punishment ", "shooting "], "A": ["abandoning ", "disregard ", "failure ", "forgetting ", "ignorance ", "leaving ", "neglect "]}

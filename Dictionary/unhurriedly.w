@@ -1,0 +1,1 @@
+{"index": 343944, "D": "not hurried;  leisurely; deliberate", "S": ["coolly ", "easily ", "peacefully ", "serenely ", "smoothly "], "A": []}

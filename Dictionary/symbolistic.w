@@ -1,0 +1,1 @@
+{"index": 290784, "D": "a person who uses symbols or symbolism.", "S": [], "A": []}

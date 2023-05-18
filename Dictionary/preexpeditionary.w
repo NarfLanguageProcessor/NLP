@@ -1,0 +1,1 @@
+{"index": 247432, "D": "pertaining to or composing an expedition", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 252119, "D": "to grow or produce by multiplication of parts, as in budding or cell division, or by procreation.", "S": ["breed ", "burgeon ", "escalate ", "generate ", "multiply ", "mushroom ", "propagate ", "reproduce ", "snowball "], "A": ["decrease ", "destroy ", "kill ", "lessen ", "shrink "]}

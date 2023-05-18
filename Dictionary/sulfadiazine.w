@@ -1,0 +1,1 @@
+{"index": 310378, "D": "a sulfanilamide  derivative, C10H10N4O2S, used chiefly in the treatment of urinary tract infections, meningitis, and malaria.", "S": [], "A": []}

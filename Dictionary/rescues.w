@@ -1,0 +1,1 @@
+{"index": 269091, "D": "to free or deliver from confinement, danger, or difficulty", "S": ["delivery ", "recovery ", "relief ", "salvage "], "A": ["failure "]}

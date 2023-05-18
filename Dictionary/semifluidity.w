@@ -1,0 +1,1 @@
+{"index": 284241, "D": "imperfectly fluid;  having both fluid  and solid characteristics; semiliquid.", "S": [], "A": []}

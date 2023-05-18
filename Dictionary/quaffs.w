@@ -1,0 +1,1 @@
+{"index": 257768, "D": "to drink a beverage, especially an intoxicating one, copiously and with hearty enjoyment.", "S": ["gulp ", "guzzle ", "imbibe ", "sip ", "swig ", "swill "], "A": ["eject "]}

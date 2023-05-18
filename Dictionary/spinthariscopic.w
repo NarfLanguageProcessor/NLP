@@ -1,0 +1,1 @@
+{"index": 299984, "D": "an instrument that detects ionizing radiation by picking up sparks of light from alpha particles.", "S": [], "A": []}

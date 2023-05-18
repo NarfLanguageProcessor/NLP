@@ -1,0 +1,1 @@
+{"index": 208557, "D": "a member of that branch of the Northmen or Scandinavians who in the 10th century conquered Normandy.", "S": [], "A": []}

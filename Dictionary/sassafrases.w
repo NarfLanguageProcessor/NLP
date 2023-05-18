@@ -1,0 +1,1 @@
+{"index": 278610, "D": "an American tree, Sassafras albidum, of the laurel family, having egg-shaped leaves and long clusters of greenish-yellow flowers.", "S": [], "A": []}

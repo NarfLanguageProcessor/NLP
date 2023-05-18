@@ -1,0 +1,1 @@
+{"index": 268658, "D": "to make known by open declaration; publish; proclaim formally or put into operation (a law, decree of a court, etc.).", "S": [], "A": []}

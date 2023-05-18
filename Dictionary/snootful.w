@@ -1,0 +1,1 @@
+{"index": 295700, "D": "a sufficient amount of liquor to cause intoxication.", "S": [], "A": []}

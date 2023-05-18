@@ -1,0 +1,1 @@
+{"index": 298154, "D": "a site at which spacecraft are tested, launched, sheltered, maintained, etc.", "S": ["airplane ", "plane ", "shuttle bus ", "spacecraft ", "train "], "A": []}

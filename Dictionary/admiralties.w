@@ -1,0 +1,1 @@
+{"index": 4171, "D": "the office or jurisdiction of an admiral.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 291386, "D": "a type of cyclotron  that synchronizes its accelerating voltage with particle velocity in order to compensate for the relativistic mass increase of the particle as it approaches the speed of light. ", "S": [], "A": []}

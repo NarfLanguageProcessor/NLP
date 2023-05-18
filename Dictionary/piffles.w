@@ -1,0 +1,1 @@
+{"index": 236321, "D": "nonsense, as trivial or senseless talk.", "S": ["balderdash ", "baloney ", "bull ", "bunk ", "drivel ", "foolishness ", "gibberish ", "hogwash ", "hooey ", "jive ", "palaver ", "poppycock ", "prattle ", "rubbish ", "silliness ", "trash "], "A": ["possessions ", "sense ", "truth "]}

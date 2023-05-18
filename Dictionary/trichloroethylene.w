@@ -1,0 +1,1 @@
+{"index": 329394, "D": "a colorless, poisonous liquid, C2HCl3, used chiefly as a degreasing agent for metals and as a solvent, especially in dry cleaning, for fats, oils, and waxes. Abbreviation", "S": [], "A": []}

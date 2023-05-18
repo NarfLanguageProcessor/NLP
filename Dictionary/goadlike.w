@@ -1,0 +1,1 @@
+{"index": 127166, "D": "a stick with a pointed or electrically charged end, for driving cattle, oxen, etc.; prod.", "S": [], "A": []}

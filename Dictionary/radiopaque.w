@@ -1,0 +1,1 @@
+{"index": 259741, "D": "opaque  to radiation; visible in x-ray photographs and under fluoroscopy (opposed to radiotransparent).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 233441, "D": "a grayish-green to greenish-yellow, crystalline, water-insoluble solid, C12H9NS, used chiefly as an insecticide and vermifuge, and in the synthesis of pharmaceuticals.", "S": [], "A": []}

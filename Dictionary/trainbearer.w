@@ -1,0 +1,1 @@
+{"index": 327449, "D": "an attendant in a procession who holds up the train of a dignitary's robe", "S": [], "A": []}

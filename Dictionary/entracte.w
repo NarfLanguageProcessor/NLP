@@ -1,0 +1,1 @@
+{"index": 101619, "D": "the interval between two consecutive acts of a theatrical or operatic performance.", "S": [], "A": []}

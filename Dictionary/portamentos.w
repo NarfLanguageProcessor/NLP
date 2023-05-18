@@ -1,0 +1,1 @@
+{"index": 243590, "D": "a passing or gliding from one pitch or tone to another with a smooth progression.", "S": [], "A": []}

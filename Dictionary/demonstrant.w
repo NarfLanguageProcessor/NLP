@@ -1,0 +1,1 @@
+{"index": 80852, "D": "demonstrator (def. 2). ", "S": [], "A": []}

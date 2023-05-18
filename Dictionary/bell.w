@@ -1,0 +1,1 @@
+{"index": 31125, "D": "a hollow instrument of cast metal, typically cup-shaped with a flaring mouth, suspended from the vertex and rung by the strokes of a clapper, hammer, or the like.", "S": ["Vesper ", "alarm ", "buzz ", "buzzer ", "carillon ", "chime ", "clapper ", "curfew ", "ding-dong ", "gong ", "peal ", "ringer ", "siren ", "tocsin ", "toll "], "A": []}

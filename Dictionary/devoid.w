@@ -1,0 +1,1 @@
+{"index": 83638, "D": "not possessing, untouched by, void, or destitute (usually followed by of).", "S": ["bare ", "barren ", "lacking ", "vacant "], "A": ["full "]}

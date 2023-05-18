@@ -1,0 +1,1 @@
+{"index": 339744, "D": "in a way that shows strict regard for moral standards or principles", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 27597, "D": "a wild ox, Bos banteng (javanicus), of southeastern Asia and the Malay Archipelago, resembling the domestic cow", "S": [], "A": []}

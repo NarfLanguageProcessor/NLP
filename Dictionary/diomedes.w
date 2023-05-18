@@ -1,0 +1,1 @@
+{"index": 86274, "D": "a Greek hero in the Trojan War.", "S": [], "A": []}

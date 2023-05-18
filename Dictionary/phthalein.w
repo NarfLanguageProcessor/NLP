@@ -1,0 +1,1 @@
+{"index": 235627, "D": "any of a group of compounds formed by treating phthalic anhydride with phenols, from which certain important dyes are derived.", "S": [], "A": []}

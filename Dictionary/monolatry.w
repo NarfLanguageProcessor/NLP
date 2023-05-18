@@ -1,0 +1,1 @@
+{"index": 192379, "D": "the worship of only one god although other gods are recognized as existing.", "S": [], "A": []}

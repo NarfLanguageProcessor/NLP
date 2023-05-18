@@ -1,0 +1,1 @@
+{"index": 87879, "D": "to divest (a soul, spirit, etc.) of a body.", "S": [], "A": []}

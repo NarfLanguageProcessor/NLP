@@ -1,0 +1,1 @@
+{"index": 23660, "D": "the act of listening, either directly or through a stethoscope or other instrument, to sounds within the body as a method of diagnosis.", "S": [], "A": []}

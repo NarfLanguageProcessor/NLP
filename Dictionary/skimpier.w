@@ -1,0 +1,1 @@
+{"index": 293232, "D": "lacking in size, fullness, etc.; scanty", "S": ["insufficient ", "meager ", "scant ", "scanty ", "thin ", "tight "], "A": ["adequate ", "ample ", "sufficient ", "wide "]}

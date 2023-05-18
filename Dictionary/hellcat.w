@@ -1,0 +1,1 @@
+{"index": 135662, "D": "a bad-tempered, spiteful, woman; shrew.", "S": ["cat ", "dragon ", "harpy ", "harridan ", "she-devil ", "shrew ", "termagant ", "virago ", "witch "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 238815, "D": "a person who brings suit in a court (opposed to defendant).", "S": ["complainant ", "litigant ", "prosecutor "], "A": []}

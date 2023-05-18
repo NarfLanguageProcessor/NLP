@@ -1,0 +1,1 @@
+{"index": 59876, "D": "mentally bright; having sharp or quick intelligence; able.", "S": ["intelligently ", "shrewdly ", "wittily "], "A": ["awkwardly ", "clumsily ", "unskillfully "]}

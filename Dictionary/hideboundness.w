@@ -1,0 +1,1 @@
+{"index": 138357, "D": "narrow and rigid in opinion; inflexible", "S": [], "A": []}

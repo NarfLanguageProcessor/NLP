@@ -1,0 +1,1 @@
+{"index": 290527, "D": "a person who engages in syllogistic  argument.", "S": ["philosopher ", "sophist "], "A": []}

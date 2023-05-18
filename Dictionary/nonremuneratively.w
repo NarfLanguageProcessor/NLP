@@ -1,0 +1,1 @@
+{"index": 206680, "D": "affording remuneration;  profitable", "S": [], "A": []}

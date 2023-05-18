@@ -1,0 +1,1 @@
+{"index": 65018, "D": "of or relating to the philosophy of Auguste Comte.", "S": [], "A": []}

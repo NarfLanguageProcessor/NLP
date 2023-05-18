@@ -1,0 +1,1 @@
+{"index": 93769, "D": "a short pin of relatively large diameter, used in a game resembling tenpins, and bowled at with small balls.", "S": ["bowls ", "candlepins ", "ninepins ", "skittles "], "A": []}

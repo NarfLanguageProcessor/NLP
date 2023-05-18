@@ -1,0 +1,1 @@
+{"index": 228190, "D": "to cover or lay (a road, walk, etc.) with concrete, stones, bricks, tiles, wood, or the like, so as to make a firm, level surface.", "S": [], "A": []}

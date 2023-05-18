@@ -1,0 +1,1 @@
+{"index": 56609, "D": "friendly; intimate; sociable.", "S": ["cozy "], "A": ["unfriendly ", "unsociable "]}

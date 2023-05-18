@@ -1,0 +1,1 @@
+{"index": 168788, "D": "a former silver coin of Latvia, equal to 100 santimi.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333466, "D": "a small finch, Carduelis flavirostris, of northern Europe, having streaked brown plumage and, in the male, a pink breast.", "S": [], "A": []}

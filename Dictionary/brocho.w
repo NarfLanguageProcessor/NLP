@@ -1,0 +1,1 @@
+{"index": 41126, "D": "a variant of brachah", "S": [], "A": []}

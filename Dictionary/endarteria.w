@@ -1,0 +1,1 @@
+{"index": 99598, "D": "the innermost lining of an artery. ", "S": [], "A": []}

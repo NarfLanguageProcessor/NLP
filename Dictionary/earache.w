@@ -1,0 +1,1 @@
+{"index": 94709, "D": "pain in the ear;  otalgia.", "S": [], "A": []}

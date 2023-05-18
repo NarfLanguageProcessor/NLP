@@ -1,0 +1,1 @@
+{"index": 27330, "D": "to pass from one to another or back and forth; give and take; trade; exchange", "S": ["banter ", "barter ", "cart ", "discuss ", "exchange ", "spar ", "swap ", "toss ", "trade "], "A": []}

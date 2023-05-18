@@ -1,0 +1,1 @@
+{"index": 323471, "D": "(of a garment) fitting  closely to the contours of the body", "S": [], "A": []}

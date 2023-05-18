@@ -1,0 +1,1 @@
+{"index": 198436, "D": "a beginner or novice", "S": [], "A": []}

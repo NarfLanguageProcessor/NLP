@@ -1,0 +1,1 @@
+{"index": 155539, "D": "pertaining to interoceptors,  the stimuli acting upon them, or the nerve impulses initiated by them.", "S": [], "A": []}

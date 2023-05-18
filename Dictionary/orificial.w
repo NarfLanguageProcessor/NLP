@@ -1,0 +1,1 @@
+{"index": 214577, "D": "an opening or aperture, as of a tube or pipe; a mouthlike opening or hole; mouth; vent.", "S": [], "A": []}

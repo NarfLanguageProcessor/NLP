@@ -1,0 +1,1 @@
+{"index": 44835, "D": "of, containing, or like calcium carbonate; chalky", "S": [], "A": []}

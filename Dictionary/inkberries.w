@@ -1,0 +1,1 @@
+{"index": 152884, "D": "a shrub, Ilex glabra, having leathery, evergreen leaves and black berries. ", "S": [], "A": []}

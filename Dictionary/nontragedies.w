@@ -1,0 +1,1 @@
+{"index": 207955, "D": "a lamentable, dreadful, or fatal event or affair; calamity; disaster", "S": [], "A": []}

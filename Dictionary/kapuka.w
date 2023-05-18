@@ -1,0 +1,1 @@
+{"index": 163145, "D": "a New Zealand tree, Griselinia littoralis, of the dogwood family, having brown, hairy twigs and small, greenish flowers, grown as an ornamental.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 154465, "D": "an active hostility or opposition, as between unfriendly or conflicting groups", "S": [], "A": []}

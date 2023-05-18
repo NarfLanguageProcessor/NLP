@@ -1,0 +1,1 @@
+{"index": 54266, "D": "a flea, Tunga penetrans, of tropical America and Africa, the impregnated female of which embeds itself in the skin, especially of the feet, of humans and animals and becomes greatly distended with eggs.", "S": [], "A": []}

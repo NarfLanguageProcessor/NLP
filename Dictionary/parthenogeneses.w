@@ -1,0 +1,1 @@
+{"index": 226965, "D": "development of an egg without fertilization.", "S": [], "A": []}

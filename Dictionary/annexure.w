@@ -1,0 +1,1 @@
+{"index": 13534, "D": "something annexed or appended; an annex  or supplement.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 295738, "D": "a device permitting a submarine to remain submerged for prolonged periods, consisting of tubes extended above the surface of the water to take in air for the diesel engine and for general ventilation and to discharge exhaust gases and foul air.", "S": [], "A": []}

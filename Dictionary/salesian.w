@@ -1,0 +1,1 @@
+{"index": 276989, "D": "a member of the Society of St. Francis de Sales, a congregation founded in Turin in 1845 and engaged chiefly in missionary and educational work.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 255021, "D": "an instrument for producing illusory auditory localization by changing the relationship between the receptor and the actual direction of the sound.", "S": [], "A": []}

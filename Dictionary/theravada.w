@@ -1,0 +1,1 @@
+{"index": 321211, "D": "Hinayanist name for Hinayana. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 74275, "D": "to press or squeeze with a force that destroys or deforms.", "S": ["horde ", "multitude ", "throng "], "A": []}

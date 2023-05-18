@@ -1,0 +1,1 @@
+{"index": 95183, "D": "a level of command, authority, or rank", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118366, "D": "a form of tenure by which religious bodies held lands, esp on condition of praying for the soul of the donor", "S": [], "A": []}

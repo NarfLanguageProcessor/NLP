@@ -1,0 +1,1 @@
+{"index": 331094, "D": "a combining form extracted from electron,  used with nouns or combining forms, principally in the names of electron tubes (ignitron; klystron; magnetron) and of devices for accelerating subatomic particles (cosmotron; cyclotron); also, more generally, in the names of any kind of chamber or apparatus used in experiments (biotron).", "S": [], "A": []}

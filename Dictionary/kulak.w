@@ -1,0 +1,1 @@
+{"index": 166426, "D": "a comparatively wealthy peasant who employed hired labor or possessed farm machinery and who was viewed and treated by the Communists during the drive to collectivize agriculture in the 1920s and 1930s as an oppressor and class enemy.", "S": [], "A": []}

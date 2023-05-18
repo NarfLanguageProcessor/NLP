@@ -1,0 +1,1 @@
+{"index": 334316, "D": "to reduce in amount, degree, intensity, etc.; lessen; diminish", "S": [], "A": []}

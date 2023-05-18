@@ -1,0 +1,1 @@
+{"index": 297462, "D": "bringing sleep; soporific.", "S": ["calming "], "A": ["exciting ", "stimulating "]}

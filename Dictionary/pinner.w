@@ -1,0 +1,1 @@
+{"index": 237167, "D": "a person or thing that pins. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365151, "D": "a contemptuous term used by Black people to refer to a white person or white people collectively.", "S": [], "A": []}

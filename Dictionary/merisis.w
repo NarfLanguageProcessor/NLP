@@ -1,0 +1,1 @@
+{"index": 183816, "D": "growth, especially growth resulting from cell division.", "S": [], "A": []}

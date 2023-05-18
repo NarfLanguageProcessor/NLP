@@ -1,0 +1,1 @@
+{"index": 60484, "D": "a mass or lump.", "S": ["clotting ", "clump ", "lump "], "A": ["individual ", "one "]}

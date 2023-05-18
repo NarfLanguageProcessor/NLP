@@ -1,0 +1,1 @@
+{"index": 185554, "D": "to cry, as a baby, young child, or the like; whimper.", "S": [], "A": []}

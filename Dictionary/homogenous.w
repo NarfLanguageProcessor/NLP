@@ -1,0 +1,1 @@
+{"index": 143100, "D": "corresponding in structure because of a common origin.", "S": ["akin ", "alike ", "analogous ", "cognate ", "consistent ", "homologous ", "identical ", "kindred ", "like ", "uniform ", "unvarying "], "A": ["different ", "discrete ", "dissimilar ", "heterogeneous ", "miscellaneous ", "varied "]}

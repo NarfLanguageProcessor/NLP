@@ -1,0 +1,1 @@
+{"index": 46957, "D": "the act of capitulating. ", "S": ["submission ", "yielding "], "A": ["defending ", "fight ", "fighting "]}

@@ -1,0 +1,1 @@
+{"index": 140635, "D": "(in a fungus) one of the threadlike elements of the mycelium.", "S": [], "A": []}

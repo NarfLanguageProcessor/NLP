@@ -1,0 +1,1 @@
+{"index": 295392, "D": "a high or low shoe, usually of fabric such as canvas, with a rubber or synthetic sole.", "S": ["cleat ", "footwear ", "shoe ", "tennis shoe "], "A": []}

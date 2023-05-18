@@ -1,0 +1,1 @@
+{"index": 358786, "D": "a brief verse, especially from Scripture.", "S": [], "A": []}

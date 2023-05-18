@@ -1,0 +1,1 @@
+{"index": 94964, "D": "a restaurant or other commercial establishment serving food.", "S": ["bistro ", "booth ", "coffee shop ", "saloon "], "A": []}

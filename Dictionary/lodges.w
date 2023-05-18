@@ -1,0 +1,1 @@
+{"index": 174504, "D": "a small, makeshift or crude shelter or habitation, as of boughs, poles, skins, earth, or rough boards; cabin or hut.", "S": ["chalet ", "cottage ", "country house ", "dormitory ", "dwelling ", "hostel ", "hotel ", "hut ", "inn ", "motel ", "shack ", "shelter ", "tavern "], "A": []}

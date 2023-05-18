@@ -1,0 +1,1 @@
+{"index": 334897, "D": "made better, more bearable, or more satisfactory; improved", "S": [], "A": []}

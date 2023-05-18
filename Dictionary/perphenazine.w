@@ -1,0 +1,1 @@
+{"index": 231814, "D": "a crystalline, water-insoluble powder, C21H26ClN3OS, used chiefly as a tranquilizer and in the treatment of intractable hiccoughs and nausea and vomiting.", "S": [], "A": []}

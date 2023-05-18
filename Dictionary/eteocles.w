@@ -1,0 +1,1 @@
+{"index": 104824, "D": "Compare Seven against Thebes (def. 1). ", "S": [], "A": []}

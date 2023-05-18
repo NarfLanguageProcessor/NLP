@@ -1,0 +1,1 @@
+{"index": 76835, "D": "of, relating to, or characteristic of a Neolithic culture of the Danube basin.", "S": [], "A": []}

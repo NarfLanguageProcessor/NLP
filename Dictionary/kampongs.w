@@ -1,0 +1,1 @@
+{"index": 163012, "D": "a small village or community of houses in Malay-speaking lands.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5351, "D": "to pledge by promise of marriage; betroth.", "S": ["engagement ", "espousal ", "plight ", "promise ", "troth ", "vow "], "A": ["break "]}

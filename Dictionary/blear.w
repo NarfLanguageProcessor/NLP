@@ -1,0 +1,1 @@
+{"index": 35966, "D": "to make dim, as with tears or inflammation", "S": ["darken ", "deceive ", "dim ", "dull ", "fog ", "mislead ", "obscure ", "protrude "], "A": ["brighten ", "illuminate ", "lighten "]}

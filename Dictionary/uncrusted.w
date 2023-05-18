@@ -1,0 +1,1 @@
+{"index": 338254, "D": "having a crust;  encrusted.", "S": [], "A": []}

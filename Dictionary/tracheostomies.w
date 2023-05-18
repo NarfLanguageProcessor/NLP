@@ -1,0 +1,1 @@
+{"index": 327111, "D": "the construction of an artificial opening through the neck into the trachea, usually for the relief of difficulty in breathing.", "S": [], "A": []}

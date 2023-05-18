@@ -1,0 +1,1 @@
+{"index": 32123, "D": "any philosophical system or doctrine derived from the views of Bishop Berkeley.", "S": [], "A": []}

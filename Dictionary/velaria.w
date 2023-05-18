@@ -1,0 +1,1 @@
+{"index": 357797, "D": "an awning drawn over a theater or amphitheater as a protection from rain or the sun.", "S": [], "A": []}

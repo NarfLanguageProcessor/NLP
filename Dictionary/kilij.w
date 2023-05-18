@@ -1,0 +1,1 @@
+{"index": 164568, "D": "a Turkish saber with a crescent-shaped blade, sharp on the entire convex edge and sharp on the opposite edge for about 8 inches (20 centimeters) back from the point.", "S": [], "A": []}

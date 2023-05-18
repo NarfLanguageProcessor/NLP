@@ -1,0 +1,1 @@
+{"index": 203497, "D": "an act or instance of encroaching. ", "S": [], "A": []}

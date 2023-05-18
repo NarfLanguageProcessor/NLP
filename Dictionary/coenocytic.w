@@ -1,0 +1,1 @@
+{"index": 61992, "D": "an organism made up of a multinucleate, continuous mass of protoplasm enclosed by one cell wall, as in some algae and fungi.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336012, "D": "characterized by strong, gusty wind", "S": [], "A": []}

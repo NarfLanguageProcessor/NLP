@@ -1,0 +1,1 @@
+{"index": 218130, "D": "to perform better or achieve more than people are generally expected to, often because of high ambition, pressure from family, etc.", "S": [], "A": []}

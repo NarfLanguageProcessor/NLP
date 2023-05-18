@@ -1,0 +1,1 @@
+{"index": 24261, "D": "pertaining to an autonomy,  or a self-governing community.", "S": ["self-governing ", "sovereign "], "A": ["subservient "]}

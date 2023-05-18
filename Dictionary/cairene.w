@@ -1,0 +1,1 @@
+{"index": 44606, "D": "of or relating to Cairo,  Egypt.", "S": [], "A": []}

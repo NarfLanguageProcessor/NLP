@@ -1,0 +1,1 @@
+{"index": 126671, "D": "having a shiny or lustrous surface.", "S": ["booklet ", "brochure ", "daily ", "journal ", "manual ", "newsletter ", "newspaper ", "pamphlet ", "paper ", "periodical ", "weekly "], "A": []}

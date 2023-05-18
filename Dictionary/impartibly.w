@@ -1,0 +1,1 @@
+{"index": 148313, "D": "not partible; indivisible.", "S": [], "A": []}

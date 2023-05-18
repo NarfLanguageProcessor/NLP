@@ -1,0 +1,1 @@
+{"index": 203176, "D": "to deprive of limbs; divide limb from limb", "S": [], "A": []}

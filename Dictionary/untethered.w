@@ -1,0 +1,1 @@
+{"index": 352863, "D": "not tied or limited with or as if with a tether", "S": [], "A": []}

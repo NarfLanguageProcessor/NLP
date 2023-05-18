@@ -1,0 +1,1 @@
+{"index": 45058, "D": "a character in Shakespeare's The Tempest, described as the half-human native inhabitant of the island, who is enslaved by the character Prospero.", "S": [], "A": []}

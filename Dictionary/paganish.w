@@ -1,0 +1,1 @@
+{"index": 222971, "D": "(in historical contexts) one of a people or community observing a polytheistic religion, as the ancient Romans and Greeks.", "S": [], "A": []}

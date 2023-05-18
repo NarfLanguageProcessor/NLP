@@ -1,0 +1,1 @@
+{"index": 208501, "D": "of, relating to, or characteristic of a Germanic people of northern European origin, exemplified by the Scandinavians.", "S": [], "A": []}

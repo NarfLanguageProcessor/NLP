@@ -1,0 +1,1 @@
+{"index": 302564, "D": "strongly and stoutly built; sturdy and robust.", "S": ["backer ", "defender ", "devotee ", "follower ", "stalwart ", "supporter ", "sympathizer ", "zealot "], "A": ["adversary ", "antagonist ", "opponent "]}

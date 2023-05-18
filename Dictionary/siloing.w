@@ -1,0 +1,1 @@
+{"index": 290546, "D": "a structure, typically cylindrical, in which fodder or forage is kept", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46194, "D": "a plant of the genus Iberis, of the mustard family, especially I. umbellata, an ornamental plant with tufted pink, violet, purple, or red flowers, originally from the island of Crete.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 79811, "D": "to cause to lose industrial  capability or strength; make less industrial in character or emphasis.", "S": [], "A": []}

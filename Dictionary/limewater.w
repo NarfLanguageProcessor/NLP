@@ -1,0 +1,1 @@
+{"index": 172364, "D": "an aqueous solution of slaked lime,  used in medicine, antacids, and lotions, and to absorb carbon dioxide from the air.", "S": [], "A": []}

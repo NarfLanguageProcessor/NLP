@@ -1,0 +1,1 @@
+{"index": 336248, "D": "to injure by striking or pressing, without breaking the skin", "S": [], "A": []}

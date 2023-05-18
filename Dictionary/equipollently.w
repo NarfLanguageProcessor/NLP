@@ -1,0 +1,1 @@
+{"index": 103346, "D": "equal in power, effect, etc.; equivalent.", "S": [], "A": []}

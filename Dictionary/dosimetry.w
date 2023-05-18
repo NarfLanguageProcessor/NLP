@@ -1,0 +1,1 @@
+{"index": 91842, "D": "the process or method of measuring the dosage of ionizing radiation.", "S": [], "A": []}

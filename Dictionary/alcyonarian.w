@@ -1,0 +1,1 @@
+{"index": 7660, "D": "any anthozoan coelenterate of the subclass Alcyonaria, as corals and sea anemones, having the tentacles and other body parts in branches or segments of eight.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365985, "D": "a withered stalk of any of various grasses.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 327201, "D": "the religious opinions and principles of the Oxford movement, especially in its early phase, given in a series of 90 papers called Tracts for the Times, published at Oxford, England, 1833\u201341.", "S": [], "A": []}

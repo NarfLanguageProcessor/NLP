@@ -1,0 +1,1 @@
+{"index": 151483, "D": "not effectual;  without satisfactory or decisive effect", "S": ["partially "], "A": []}

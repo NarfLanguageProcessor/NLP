@@ -1,0 +1,1 @@
+{"index": 184411, "D": "a malignant tumor of the covering of the lung or the lining of the pleural and abdominal cavities, often associated with exposure to asbestos.", "S": [], "A": []}

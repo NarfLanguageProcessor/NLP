@@ -1,0 +1,1 @@
+{"index": 18332, "D": "to place or come under Arab  influence or domination", "S": [], "A": []}

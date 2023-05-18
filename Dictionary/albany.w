@@ -1,0 +1,1 @@
+{"index": 7389, "D": "a city in and the capital of New York, in the eastern part, on the Hudson.", "S": [], "A": []}

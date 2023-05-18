@@ -1,0 +1,1 @@
+{"index": 857, "D": "in or to a foreign country or countries", "S": ["away ", "elsewhere ", "overseas "], "A": []}

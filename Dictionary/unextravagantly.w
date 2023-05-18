@@ -1,0 +1,1 @@
+{"index": 341889, "D": "spending much more than is necessary or wise; wasteful", "S": [], "A": []}

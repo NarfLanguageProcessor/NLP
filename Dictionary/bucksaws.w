@@ -1,0 +1,1 @@
+{"index": 42097, "D": "a saw  having a blade set across an upright frame or bow, used with both hands in cutting wood on a sawhorse.", "S": [], "A": []}

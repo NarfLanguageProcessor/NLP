@@ -1,0 +1,1 @@
+{"index": 133235, "D": "something that is necessarily subservient or subordinate to another", "S": [], "A": []}

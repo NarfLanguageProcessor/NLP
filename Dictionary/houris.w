@@ -1,0 +1,1 @@
+{"index": 144372, "D": "one of the beautiful virgins provided in paradise for all faithful Muslims.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167353, "D": "a bay, inlet, or other narrow or shallow body of water (often used in placenames).", "S": [], "A": []}

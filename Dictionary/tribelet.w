@@ -1,0 +1,1 @@
+{"index": 329213, "D": "a tribe  having few members, especially one that is a component of a larger tribal organization.", "S": [], "A": []}

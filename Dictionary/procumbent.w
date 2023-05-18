@@ -1,0 +1,1 @@
+{"index": 251469, "D": "lying on the face; prone; prostrate.", "S": ["decumbent ", "flat on one's back ", "horizontal ", "laying down ", "parallel ", "prone ", "prostrate ", "recumbent ", "supine "], "A": []}

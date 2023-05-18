@@ -1,0 +1,1 @@
+{"index": 49785, "D": "a person who takes catnaps,  especially regularly or habitually.", "S": [], "A": []}

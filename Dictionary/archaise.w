@@ -1,0 +1,1 @@
+{"index": 18698, "D": "to give an archaic  appearance or quality to", "S": [], "A": []}

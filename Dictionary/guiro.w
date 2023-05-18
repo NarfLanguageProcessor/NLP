@@ -1,0 +1,1 @@
+{"index": 131130, "D": "a South American musical instrument consisting of a hollow gourd with serrated surface that is scraped with a stick.", "S": [], "A": []}

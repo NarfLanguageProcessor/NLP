@@ -1,0 +1,1 @@
+{"index": 6141, "D": "characterized by or tending toward unprovoked offensives, attacks, invasions, or the like; militantly forward or menacing", "S": ["combative ", "contentious ", "destructive ", "intrusive ", "threatening "], "A": ["calm ", "complaisant ", "easygoing ", "laid-back "]}

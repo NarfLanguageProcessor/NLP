@@ -1,0 +1,1 @@
+{"index": 119823, "D": "a former US copper coin worth one dollar, the first authorized by Congress (1787)", "S": [], "A": []}

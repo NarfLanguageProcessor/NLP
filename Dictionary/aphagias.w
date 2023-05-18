@@ -1,0 +1,1 @@
+{"index": 16776, "D": "difficulty or pain in swallowing.", "S": [], "A": []}

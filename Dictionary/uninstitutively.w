@@ -1,0 +1,1 @@
+{"index": 344663, "D": "tending or intended to institute  or establish.", "S": [], "A": []}

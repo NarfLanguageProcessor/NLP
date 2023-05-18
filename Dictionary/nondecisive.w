@@ -1,0 +1,1 @@
+{"index": 202725, "D": "having the power or quality of deciding; putting an end to controversy; crucial or most important", "S": [], "A": []}

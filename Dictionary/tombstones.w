@@ -1,0 +1,1 @@
+{"index": 325415, "D": "a stone  marker, usually inscribed, on a tomb  or grave.", "S": ["bones ", "counters ", "craps ", "ivories ", "shakers "], "A": []}

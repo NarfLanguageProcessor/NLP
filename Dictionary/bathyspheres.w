@@ -1,0 +1,1 @@
+{"index": 28968, "D": "a spherical diving apparatus from which to study deep-sea life, lowered into the ocean depths by a cable.", "S": ["bathyscaphe ", "diving chamber "], "A": []}

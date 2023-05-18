@@ -1,0 +1,1 @@
+{"index": 175047, "D": "a lieutenant of the armed forces.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213966, "D": "resembling or suggesting an orange,  as in taste, appearance, or color", "S": [], "A": []}

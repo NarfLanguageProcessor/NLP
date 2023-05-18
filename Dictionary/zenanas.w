@@ -1,0 +1,1 @@
+{"index": 369052, "D": "the part of the house in which the women and girls of a family are secluded.", "S": ["concubines ", "purdah ", "seraglio ", "serail "], "A": []}

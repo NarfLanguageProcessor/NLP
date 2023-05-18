@@ -1,0 +1,1 @@
+{"index": 321440, "D": "of or relating to the effect of heat on the magnetic  properties of a substance.", "S": [], "A": []}

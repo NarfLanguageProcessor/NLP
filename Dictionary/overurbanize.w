@@ -1,0 +1,1 @@
+{"index": 221715, "D": "to make or cause to become urban,  as a locality.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 136052, "D": "a condition of the eyes in which sight is normal in the night or in a dim light but is abnormally poor or wholly absent in the day or in a bright light.", "S": [], "A": []}

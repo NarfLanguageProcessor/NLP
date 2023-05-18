@@ -1,0 +1,1 @@
+{"index": 276810, "D": "a very light glider that can be lifted by an upward current of air.", "S": [], "A": []}

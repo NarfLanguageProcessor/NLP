@@ -1,0 +1,1 @@
+{"index": 302769, "D": "a microsurgical procedure to relieve deafness by replacing the stapes of the ear with a prosthetic device.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86857, "D": "soiled with dirt; foul; unclean", "S": ["contagion ", "corruption ", "disease ", "epidemic ", "infection ", "poisoning ", "pollution "], "A": ["cleanliness ", "purification ", "sterility "]}

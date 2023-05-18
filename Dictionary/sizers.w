@@ -1,0 +1,1 @@
+{"index": 292768, "D": "any device for measuring or sorting objects according to size. ", "S": [], "A": []}

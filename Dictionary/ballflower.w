@@ -1,0 +1,1 @@
+{"index": 26958, "D": "a medieval English ornament suggesting a flower of three or four petals enclosing and partly concealing a ball.", "S": [], "A": []}

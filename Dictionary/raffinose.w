@@ -1,0 +1,1 @@
+{"index": 259869, "D": "a colorless, crystalline trisaccharide, C18H32O16\u22c55H2O, with little or no sweetness, occurring in the sugar beet, cottonseed, etc., and breaking down to fructose, glucose, and galactose on hydrolysis.", "S": [], "A": []}

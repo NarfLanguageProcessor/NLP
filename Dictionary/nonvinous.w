@@ -1,0 +1,1 @@
+{"index": 208282, "D": "of, resembling, or containing wine. ", "S": [], "A": []}

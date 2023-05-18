@@ -1,0 +1,1 @@
+{"index": 93119, "D": "to take water or other liquid into the mouth and swallow it; imbibe. ", "S": ["alcohol ", "booze ", "brew ", "cup ", "glass ", "liquor ", "refreshment ", "sip "], "A": ["food "]}

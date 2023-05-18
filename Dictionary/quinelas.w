@@ -1,0 +1,1 @@
+{"index": 258700, "D": "a type of bet, especially on horse races, in which the bettor, in order to win, must select the first- and second-place finishers without specifying their order of finishing.", "S": [], "A": []}

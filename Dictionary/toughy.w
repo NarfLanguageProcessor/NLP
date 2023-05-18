@@ -1,0 +1,1 @@
+{"index": 326605, "D": "a tough  person, especially one who is belligerent", "S": [], "A": []}

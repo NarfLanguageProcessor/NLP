@@ -1,0 +1,1 @@
+{"index": 347370, "D": "not palatable;  unpleasant to the taste.", "S": ["disagreeable ", "distasteful "], "A": ["agreeable ", "pleasant ", "pleasing "]}

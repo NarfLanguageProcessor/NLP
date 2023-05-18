@@ -1,0 +1,1 @@
+{"index": 19215, "D": "of, relating to, or located at or near the North Pole", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305663, "D": "going or directed straight ahead", "S": ["candid ", "forthright ", "genuine ", "sincere ", "truthful ", "unequivocal "], "A": ["devious ", "dishonest ", "insincere ", "lying ", "tricky ", "untruthful "]}

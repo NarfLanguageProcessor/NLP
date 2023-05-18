@@ -1,0 +1,1 @@
+{"index": 198304, "D": "any interpretation of Christianity based on the prevalent philosophy of a given period.", "S": [], "A": []}

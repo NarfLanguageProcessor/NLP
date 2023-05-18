@@ -1,0 +1,1 @@
+{"index": 110020, "D": "consisting of a farrago  or mixture; heterogeneous; mixed", "S": [], "A": []}

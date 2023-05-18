@@ -1,0 +1,1 @@
+{"index": 48350, "D": "to find fault or complain querulously or unreasonably; be niggling in criticizing; cavil", "S": ["grumble ", "quibble "], "A": ["approve ", "compliment ", "laud ", "praise ", "sanction "]}

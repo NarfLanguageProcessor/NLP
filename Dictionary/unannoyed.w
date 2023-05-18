@@ -1,0 +1,1 @@
+{"index": 335021, "D": "to disturb or bother (a person) in a way that displeases, troubles, or slightly irritates.", "S": [], "A": []}

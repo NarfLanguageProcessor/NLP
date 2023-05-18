@@ -1,0 +1,1 @@
+{"index": 93096, "D": "a tool, especially a hand tool, for holding and operating such a tool.", "S": ["assignment ", "conditioning ", "discipline ", "drilling ", "homework ", "preparation ", "repetition ", "training ", "tryout ", "warmup ", "workout "], "A": []}

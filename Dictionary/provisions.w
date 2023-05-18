@@ -1,0 +1,1 @@
+{"index": 254105, "D": "a clause in a legal instrument, a law, etc., providing for a particular matter; stipulation; proviso.", "S": ["board ", "chow ", "fare ", "feed ", "fodder ", "food ", "forage ", "groceries ", "provender ", "rations ", "stores ", "viands ", "victuals "], "A": []}

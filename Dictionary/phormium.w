@@ -1,0 +1,1 @@
+{"index": 234799, "D": "any plant of the New Zealand bulbous genus Phormium, with leathery evergreen leaves and red or yellow flowers in panicles", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 359408, "D": "the area or region near or about a place; surrounding district; neighborhood", "S": ["environs ", "neighborhood ", "proximity "], "A": ["faraway "]}

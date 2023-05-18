@@ -1,0 +1,1 @@
+{"index": 226099, "D": "a relation between organisms in which one lives as a parasite on another.", "S": [], "A": []}

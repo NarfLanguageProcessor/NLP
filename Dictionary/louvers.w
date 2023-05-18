@@ -1,0 +1,1 @@
+{"index": 175521, "D": "any of a series of narrow openings framed at their longer edges with slanting, overlapping fins or slats, adjustable for admitting light and air while shutting out rain.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 115031, "D": "a state in the southeastern United States between the Atlantic Ocean  and the Gulf of Mexico.  58,560 square miles (151,670 square kilometers). Capital", "S": [], "A": []}

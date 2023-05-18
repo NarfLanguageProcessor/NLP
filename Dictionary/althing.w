@@ -1,0 +1,1 @@
+{"index": 9520, "D": "the parliament of Iceland, consisting of an upper and a lower house.", "S": [], "A": []}

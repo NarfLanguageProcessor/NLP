@@ -1,0 +1,1 @@
+{"index": 85586, "D": "a narcotic compound, C17H19O3N, prepared from morphine and used chiefly as an analgesic.", "S": [], "A": []}

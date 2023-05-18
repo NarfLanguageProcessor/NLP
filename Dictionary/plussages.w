@@ -1,0 +1,1 @@
+{"index": 240638, "D": "a surplus amount.", "S": [], "A": []}

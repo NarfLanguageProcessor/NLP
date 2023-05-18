@@ -1,0 +1,1 @@
+{"index": 196667, "D": "a white, crystalline, water-soluble powder, C19H21NO3, used to nullify respiratory depression due to narcotics and for the diagnosis of addiction to narcotics.", "S": [], "A": []}

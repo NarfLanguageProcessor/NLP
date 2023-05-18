@@ -1,0 +1,1 @@
+{"index": 15337, "D": "the process of treating a film base with a light-absorbing substance to prevent refraction of light from the rear of the film.", "S": [], "A": []}

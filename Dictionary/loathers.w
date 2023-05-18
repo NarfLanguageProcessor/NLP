@@ -1,0 +1,1 @@
+{"index": 174137, "D": "to feel disgust or intense aversion for; abhor", "S": [], "A": []}

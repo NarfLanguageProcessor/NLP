@@ -1,0 +1,1 @@
+{"index": 210900, "D": "a spiny, woody shrub, Fouqueria splendens, of arid regions of the southwestern U.S. and Mexico, having a tight cluster of red flowers at the tip of each branch.", "S": [], "A": []}

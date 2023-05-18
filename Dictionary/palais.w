@@ -1,0 +1,1 @@
+{"index": 223501, "D": "a palace, especially a French government or municipal building.", "S": [], "A": []}

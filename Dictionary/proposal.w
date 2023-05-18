@@ -1,0 +1,1 @@
+{"index": 252788, "D": "the act of offering or suggesting something for acceptance, adoption, or performance.", "S": ["bid ", "idea ", "motion ", "offer ", "outline ", "overture ", "plan ", "program ", "project ", "proposition ", "recommendation ", "scheme "], "A": ["condemnation ", "refusal "]}

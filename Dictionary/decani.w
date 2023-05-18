@@ -1,0 +1,1 @@
+{"index": 78006, "D": "of or relating to the epistle or liturgical south side of a church (opposed to cantoris).", "S": [], "A": []}

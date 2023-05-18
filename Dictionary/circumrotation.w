@@ -1,0 +1,1 @@
+{"index": 58213, "D": "to rotate like a wheel.", "S": ["circulation ", "convolution ", "gyration ", "rotation ", "turn ", "whirl "], "A": []}

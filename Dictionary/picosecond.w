@@ -1,0 +1,1 @@
+{"index": 236018, "D": "one trillionth of a second. Abbreviation", "S": [], "A": []}

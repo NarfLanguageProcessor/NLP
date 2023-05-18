@@ -1,0 +1,1 @@
+{"index": 102209, "D": "the movement and spreading out of cells into sheets of tissue that overlie or surround other groups of cells, especially as in the formation of certain gastrulas.", "S": [], "A": []}

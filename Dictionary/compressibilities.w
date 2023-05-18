@@ -1,0 +1,1 @@
+{"index": 64865, "D": "the quality or state of being compressible. ", "S": [], "A": []}

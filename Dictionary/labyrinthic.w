@@ -1,0 +1,1 @@
+{"index": 166704, "D": "of, relating to, or resembling a labyrinth. ", "S": [], "A": []}

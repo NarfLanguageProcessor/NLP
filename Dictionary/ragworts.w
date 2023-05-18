@@ -1,0 +1,1 @@
+{"index": 259987, "D": "any of various composite plants of the genus Senecio, as S. jacobaea, of the Old World, having yellow flowers and irregularly lobed leaves, or S. aureus(golden ragwort ), of North America, also having yellow flowers.", "S": [], "A": []}

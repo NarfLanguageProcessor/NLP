@@ -1,0 +1,1 @@
+{"index": 140432, "D": "having a chromosome number that is greater than but not a multiple of the diploid number.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 349774, "D": "to hold back from action; keep in check or under control; repress", "S": ["boisterous ", "buoyant ", "ebullient ", "rebellious "], "A": ["depressed ", "despondent ", "grave ", "hopeless ", "serious "]}

@@ -1,0 +1,1 @@
+{"index": 137367, "D": "to be reluctant or wait to act because of fear, indecision, or disinclination", "S": ["balk ", "dither ", "falter ", "pause ", "ponder ", "stumble ", "waffle ", "waver "], "A": ["continue ", "persist ", "advance ", "agree ", "do well ", "expedite ", "face ", "go ", "go along ", "hasten ", "hurry ", "meet ", "remain ", "rush ", "stay "]}

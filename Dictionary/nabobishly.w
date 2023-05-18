@@ -1,0 +1,1 @@
+{"index": 196435, "D": "any very wealthy, influential, or powerful person.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82864, "D": "feeling or showing profound hopelessness, dejection, discouragement, or gloom", "S": ["dejected ", "discouraged ", "disheartened ", "forlorn ", "glum ", "morose ", "sad "], "A": ["cheerful ", "encouraged ", "happy ", "joyful "]}

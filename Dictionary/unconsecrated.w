@@ -1,0 +1,1 @@
+{"index": 337680, "D": "not having been made or declared sacred or holy", "S": ["abusive ", "blasphemous ", "coarse ", "indecent ", "irreverent ", "nasty ", "obscene ", "sacrilegious ", "vulgar "], "A": ["clean ", "decent ", "kind ", "moral ", "nice ", "polite ", "pure ", "refined ", "religious ", "respectful ", "reverent "]}

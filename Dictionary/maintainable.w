@@ -1,0 +1,1 @@
+{"index": 177935, "D": "to keep in existence or continuance; preserve; retain", "S": ["conceivable ", "defensible ", "imaginable "], "A": ["unimaginable ", "unthinkable "]}

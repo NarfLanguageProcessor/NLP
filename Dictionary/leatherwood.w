@@ -1,0 +1,1 @@
+{"index": 169740, "D": "an American shrub, Dirca palustris, having a tough bark.", "S": [], "A": []}

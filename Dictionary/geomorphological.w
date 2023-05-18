@@ -1,0 +1,1 @@
+{"index": 123977, "D": "the study of the characteristics, origin, and development of landforms.", "S": [], "A": []}

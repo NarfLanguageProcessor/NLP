@@ -1,0 +1,1 @@
+{"index": 50305, "D": "without stop or pause; unending; incessant.", "S": ["endlessly ", "forever "], "A": ["ceasing ", "ending ", "halting ", "intermittent ", "interrupted "]}

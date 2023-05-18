@@ -1,0 +1,1 @@
+{"index": 217254, "D": "a basis or cause, as for some belief, action, fact, event, etc.", "S": [], "A": []}

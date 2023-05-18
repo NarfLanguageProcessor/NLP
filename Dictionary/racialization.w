@@ -1,0 +1,1 @@
+{"index": 259415, "D": "an act or instance of viewing and interacting with people from a racist perspective, or of being viewed and interacted with in this way", "S": [], "A": []}

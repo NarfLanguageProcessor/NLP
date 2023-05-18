@@ -1,0 +1,1 @@
+{"index": 31384, "D": "to soil with mire;  dirty or muddy", "S": [], "A": []}

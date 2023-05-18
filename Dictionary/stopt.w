@@ -1,0 +1,1 @@
+{"index": 305367, "D": "a simple past tense and past participle of stop. ", "S": [], "A": []}

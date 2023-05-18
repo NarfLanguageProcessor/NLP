@@ -1,0 +1,1 @@
+{"index": 202462, "D": "the quality or state of being contrary.", "S": [], "A": []}

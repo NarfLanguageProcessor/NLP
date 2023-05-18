@@ -1,0 +1,1 @@
+{"index": 148709, "D": "to make an impression; have an effect or impact (usually followed by on or upon)", "S": [], "A": []}

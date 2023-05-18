@@ -1,0 +1,1 @@
+{"index": 159776, "D": "any of numerous tropical shrubs or trees belonging to the genus Ixora, of the madder family, having glossy leaves and clusters of showy flowers in a variety of colors.", "S": [], "A": []}

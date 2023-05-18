@@ -1,0 +1,1 @@
+{"index": 261654, "D": "to give counsel to; offer an opinion or suggestion as worth following", "S": [], "A": []}

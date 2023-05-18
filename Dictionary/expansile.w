@@ -1,0 +1,1 @@
+{"index": 107562, "D": "capable of expanding; such as to expand.", "S": ["expandable ", "expansible ", "extendable ", "extendible ", "extensile ", "protractible ", "protractile ", "stretchable "], "A": []}

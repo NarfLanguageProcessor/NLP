@@ -1,0 +1,1 @@
+{"index": 289088, "D": "the riding of horses in competitions to demonstrate skill in jumping over or between various obstacles", "S": [], "A": []}

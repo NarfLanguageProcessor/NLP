@@ -1,0 +1,1 @@
+{"index": 233628, "D": "(in ancient Greece) a tribe or clan, based on supposed kinship.", "S": [], "A": []}

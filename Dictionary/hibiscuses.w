@@ -1,0 +1,1 @@
+{"index": 138239, "D": "a woody plant, Hibiscus rosa-sinensis, of the mallow family, having large, showy flowers", "S": [], "A": []}

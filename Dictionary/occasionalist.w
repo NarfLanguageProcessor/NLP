@@ -1,0 +1,1 @@
+{"index": 210646, "D": "a theory that there is no natural interaction between mind and matter, but that God makes mental events correspond to physical perceptions and actions.", "S": [], "A": []}

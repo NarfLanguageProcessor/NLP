@@ -1,0 +1,1 @@
+{"index": 64372, "D": "a number of individuals assembled or associated together; group of people.", "S": ["aggregation ", "assembly ", "association ", "collection ", "company ", "congregation ", "convergence ", "crowd ", "group ", "throng "], "A": ["dispersal ", "scattering "]}

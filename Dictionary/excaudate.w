@@ -1,0 +1,1 @@
+{"index": 106551, "D": "tailless; lacking a tail or taillike process.", "S": [], "A": []}

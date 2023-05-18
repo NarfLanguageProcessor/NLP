@@ -1,0 +1,1 @@
+{"index": 184238, "D": "having medium, slightly protruding jaws.", "S": [], "A": []}

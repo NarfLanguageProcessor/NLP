@@ -1,0 +1,1 @@
+{"index": 3275, "D": "exaggeratedly theatrical; affected", "S": [], "A": []}

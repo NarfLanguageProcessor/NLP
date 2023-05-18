@@ -1,0 +1,1 @@
+{"index": 207549, "D": "not striated;  unstriped, as certain muscular tissue.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 182419, "D": "a person who has megalomania. ", "S": [], "A": []}

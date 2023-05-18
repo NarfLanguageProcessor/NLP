@@ -1,0 +1,1 @@
+{"index": 335396, "D": "characterized by or giving attention;  observant", "S": [], "A": []}

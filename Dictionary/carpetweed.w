@@ -1,0 +1,1 @@
+{"index": 48395, "D": "a North American prostrate weed, Mollugo verticillata, having whorled leaves and small, whitish flowers.", "S": [], "A": []}

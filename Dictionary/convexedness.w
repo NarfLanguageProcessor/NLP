@@ -1,0 +1,1 @@
+{"index": 68077, "D": "Compare concave (def. 1). ", "S": ["bulge ", "bump ", "convexity ", "dune ", "elevation ", "eminence ", "excrescence ", "gibbosity ", "hill ", "hummock ", "hunch ", "knap ", "knob ", "kyphosis ", "mound ", "prominence ", "protrusion ", "protuberance ", "ridge ", "swell ", "tumescence "], "A": ["depression ", "ditch ", "flat ", "unimportance "]}

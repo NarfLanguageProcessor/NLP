@@ -1,0 +1,1 @@
+{"index": 351289, "D": "suitable for being sketched. ", "S": [], "A": []}

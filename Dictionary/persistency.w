@@ -1,0 +1,1 @@
+{"index": 231937, "D": "the act or fact of persisting. ", "S": ["emphasis ", "importunity ", "insistency ", "perseverance ", "persistence ", "urging "], "A": ["idleness ", "indolence "]}

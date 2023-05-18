@@ -1,0 +1,1 @@
+{"index": 303083, "D": "the branch of mechanics that deals with bodies at rest or forces in equilibrium.", "S": ["altercation ", "bickering ", "brawl ", "clash ", "controversy ", "debate ", "disagreement ", "dispute ", "exchange ", "feud ", "quarrel ", "squabble "], "A": ["agreement ", "harmony ", "peace ", "calm "]}

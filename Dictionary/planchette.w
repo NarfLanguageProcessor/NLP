@@ -1,0 +1,1 @@
+{"index": 238901, "D": "a small, heart-shaped board supported by two casters and a pencil or stylus that, when moved across a surface by the light, unguided pressure of the fingertips, is supposed to trace meaningful patterns or written messages revealing subconscious thoughts, psychic phenomena, clairvoyant messages, etc.", "S": [], "A": []}

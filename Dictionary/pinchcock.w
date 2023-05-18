@@ -1,0 +1,1 @@
+{"index": 236934, "D": "a clamp for compressing a flexible pipe, as a rubber tube, in order to regulate or stop the flow of a fluid.", "S": [], "A": []}

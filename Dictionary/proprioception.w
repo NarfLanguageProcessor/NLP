@@ -1,0 +1,1 @@
+{"index": 252855, "D": "perception governed by proprioceptors, as awareness of the position of one's body.", "S": [], "A": []}

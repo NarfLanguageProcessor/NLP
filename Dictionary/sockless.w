@@ -1,0 +1,1 @@
+{"index": 296234, "D": "a short stocking usually reaching to the calf or just above the ankle.", "S": [], "A": []}

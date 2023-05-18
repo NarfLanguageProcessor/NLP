@@ -1,0 +1,1 @@
+{"index": 354633, "D": "the movement upward of air or other gas.", "S": [], "A": []}

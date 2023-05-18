@@ -1,0 +1,1 @@
+{"index": 201258, "D": "unselfishly concerned for or devoted to the welfare of others (opposed to egoistic).", "S": [], "A": []}

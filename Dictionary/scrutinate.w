@@ -1,0 +1,1 @@
+{"index": 282101, "D": [], "S": ["audit ", "check ", "check out ", "consider ", "criticize ", "delve into ", "explore ", "inspect ", "investigate ", "ponder ", "pore over ", "probe ", "read ", "research ", "review ", "scan ", "screen ", "scrutinize ", "study ", "survey ", "try ", "vet ", "view "], "A": ["approve ", "forget ", "ignore ", "neglect ", "praise ", "overlook "]}

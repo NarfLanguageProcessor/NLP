@@ -1,0 +1,1 @@
+{"index": 98541, "D": "an act or instance of emigrating. ", "S": [], "A": []}

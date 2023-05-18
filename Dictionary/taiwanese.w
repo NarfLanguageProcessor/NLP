@@ -1,0 +1,1 @@
+{"index": 315474, "D": "of or relating to Taiwan  or its people.", "S": [], "A": []}

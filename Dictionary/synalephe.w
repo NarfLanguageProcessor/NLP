@@ -1,0 +1,1 @@
+{"index": 291234, "D": "the blending of two successive vowels into one, especially the coalescence of a vowel at the end of one word with a vowel at the beginning of the next.", "S": [], "A": []}

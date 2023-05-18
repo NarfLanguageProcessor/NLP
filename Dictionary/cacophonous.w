@@ -1,0 +1,1 @@
+{"index": 44210, "D": "having a harsh or discordant sound.", "S": ["discordant ", "noisy ", "raucous "], "A": ["quiet "]}

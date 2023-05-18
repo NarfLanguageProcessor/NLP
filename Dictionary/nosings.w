@@ -1,0 +1,1 @@
+{"index": 208730, "D": "a projecting edge, as the part of the tread of a step extending beyond the riser or a projecting part of a buttress.", "S": [], "A": []}

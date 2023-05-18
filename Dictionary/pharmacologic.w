@@ -1,0 +1,1 @@
+{"index": 233140, "D": "using, involving, or having to do with a drug or drugs", "S": [], "A": []}

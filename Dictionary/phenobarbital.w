@@ -1,0 +1,1 @@
+{"index": 233366, "D": "a white, crystalline powder, C12H12N2O3, used as a sedative, a hypnotic, and as an antispasmodic in epilepsy.", "S": [], "A": []}

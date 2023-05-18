@@ -1,0 +1,1 @@
+{"index": 124164, "D": "the branch of medicine dealing with the diseases, debilities, and care of aged people.", "S": ["infirmity "], "A": ["adolescence ", "childhood ", "infancy ", "youth "]}

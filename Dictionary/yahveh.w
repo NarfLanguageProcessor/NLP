@@ -1,0 +1,1 @@
+{"index": 145542, "D": "a name of God, transliterated by scholars from the Tetragrammaton and commonly rendered Jehovah.", "S": [], "A": []}

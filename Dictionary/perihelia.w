@@ -1,0 +1,1 @@
+{"index": 230996, "D": "the point in the orbit of a planet or comet at which it is nearest to the sun.", "S": [], "A": []}

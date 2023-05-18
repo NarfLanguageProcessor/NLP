@@ -1,0 +1,1 @@
+{"index": 365625, "D": "a white youth who adopts black youth culture by adopting its speech, wearing its clothes, and listening to its music", "S": [], "A": []}

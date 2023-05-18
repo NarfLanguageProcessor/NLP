@@ -1,0 +1,1 @@
+{"index": 28741, "D": "a basophilic  cell, tissue, organism, or substance.", "S": [], "A": []}

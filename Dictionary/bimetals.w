@@ -1,0 +1,1 @@
+{"index": 34122, "D": "a material made by the bonding of two sheets or strips of different metals, each metal having a different coefficient of thermal expansion.", "S": [], "A": []}

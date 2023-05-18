@@ -1,0 +1,1 @@
+{"index": 44857, "D": "a soothsayer who assisted the Greeks in the Trojan War", "S": [], "A": []}

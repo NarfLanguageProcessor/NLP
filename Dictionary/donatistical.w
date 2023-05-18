@@ -1,0 +1,1 @@
+{"index": 91393, "D": "a member of a Christian sect that developed in northern Africa in a.d. 311 and maintained that it alone constituted the whole and only true church and that baptisms and ordinations of the orthodox clergy were invalid.", "S": [], "A": []}

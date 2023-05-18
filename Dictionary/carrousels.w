@@ -1,0 +1,1 @@
+{"index": 48572, "D": "a less common variant of carousel. ", "S": [], "A": []}

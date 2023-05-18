@@ -1,0 +1,1 @@
+{"index": 342857, "D": "not characterized by overelaborate detail", "S": ["cool ", "cursory ", "easygoing ", "folksy ", "homey ", "informal ", "laid-back ", "mellow ", "offhand "], "A": ["agitated ", "upset "]}

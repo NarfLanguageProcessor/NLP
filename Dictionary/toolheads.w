@@ -1,0 +1,1 @@
+{"index": 325698, "D": "a toolholder that is attached to a machine tool  and can be adjusted to orient the tool  in various positions.", "S": [], "A": []}

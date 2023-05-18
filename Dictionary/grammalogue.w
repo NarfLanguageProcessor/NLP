@@ -1,0 +1,1 @@
+{"index": 128731, "D": "a word symbolized by a sign or letter.", "S": [], "A": []}

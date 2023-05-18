@@ -1,0 +1,1 @@
+{"index": 209141, "D": "a fictitious prose narrative of considerable length and complexity, portraying characters and usually presenting a sequential organization of action and scenes.", "S": [], "A": []}

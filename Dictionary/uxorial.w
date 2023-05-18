@@ -1,0 +1,1 @@
+{"index": 356300, "D": "of or relating to a wife; typical of or befitting a wife.", "S": [], "A": []}

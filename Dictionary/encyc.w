@@ -1,0 +1,1 @@
+{"index": 99320, "D": "a noun suffix, equivalent to -ence", "S": [], "A": []}

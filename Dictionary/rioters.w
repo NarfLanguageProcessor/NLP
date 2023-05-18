@@ -1,0 +1,1 @@
+{"index": 273118, "D": "a noisy, violent public disorder caused by a group or crowd of persons, as by a crowd protesting against another group, a government policy, etc., in the streets.", "S": ["agitator ", "arsonist ", "criminal ", "demagogue ", "demonstrator ", "firebrand ", "insurgent ", "pyromaniac ", "rabble-rouser ", "rebel ", "revolutionary ", "rioter "], "A": []}

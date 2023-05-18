@@ -1,0 +1,1 @@
+{"index": 338186, "D": "simple past tense and past participle of cry. ", "S": [], "A": []}

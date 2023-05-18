@@ -1,0 +1,1 @@
+{"index": 61526, "D": "any bivalve mollusk of the genus Cardium, having somewhat heart-shaped, radially ribbed valves, especially C. edule, the common edible species of Europe.", "S": ["bivalve ", "mollusk ", "pucker ", "ripple ", "wrinkle "], "A": ["smoothness "]}

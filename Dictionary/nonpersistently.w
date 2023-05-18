@@ -1,0 +1,1 @@
+{"index": 205906, "D": "persisting, especially in spite of opposition, obstacles, discouragement, etc.; persevering", "S": [], "A": []}

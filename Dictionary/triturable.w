@@ -1,0 +1,1 @@
+{"index": 330768, "D": "capable of being triturated. ", "S": [], "A": []}

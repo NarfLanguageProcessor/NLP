@@ -1,0 +1,1 @@
+{"index": 47015, "D": "a long cloak with a hood.", "S": ["cap ", "chapeau ", "coronet ", "cover ", "headdress ", "headgear ", "hood "], "A": []}

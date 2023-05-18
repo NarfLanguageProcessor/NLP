@@ -1,0 +1,1 @@
+{"index": 210503, "D": "a person who deliberately delays or prevents progress.", "S": [], "A": []}

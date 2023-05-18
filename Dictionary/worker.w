@@ -1,0 +1,1 @@
+{"index": 367490, "D": "a person or thing that works.", "S": ["employee ", "laborer ", "peasant ", "trader "], "A": ["unemployed "]}

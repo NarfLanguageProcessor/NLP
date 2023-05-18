@@ -1,0 +1,1 @@
+{"index": 322062, "D": "a style of music that uses features of both jazz and classical music in an attempt to develop a new and distinctive musical idiom.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 139911, "D": "having the nature of hyperbole;  exaggerated.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 344629, "D": "(especially of the parts of a flower) attached to or growing out of some part.", "S": [], "A": []}

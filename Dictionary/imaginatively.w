@@ -1,0 +1,1 @@
+{"index": 147599, "D": "characterized by or bearing evidence of imagination", "S": [], "A": []}

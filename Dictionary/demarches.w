@@ -1,0 +1,1 @@
+{"index": 80375, "D": "an action or gesture by a diplomat, especially a formal appeal, protest, or the like.", "S": ["action ", "gimmick ", "manipulation ", "measure ", "movement ", "plot ", "ploy ", "procedure ", "ruse ", "scheme ", "step ", "stunt ", "trick "], "A": ["cessation ", "ignorance ", "inaction ", "inactivity ", "stoppage ", "honesty ", "openness "]}

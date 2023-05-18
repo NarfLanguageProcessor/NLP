@@ -1,0 +1,1 @@
+{"index": 6341, "D": "stress given to a note through prolonged duration.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365587, "D": "a married woman, especially when considered in relation to her partner in marriage.", "S": ["bride ", "companion ", "partner ", "roommate ", "spouse "], "A": ["enemy ", "foe "]}

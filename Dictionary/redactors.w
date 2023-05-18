@@ -1,0 +1,1 @@
+{"index": 263850, "D": "to put into suitable literary form; revise; edit. ", "S": [], "A": []}

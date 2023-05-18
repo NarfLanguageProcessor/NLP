@@ -1,0 +1,1 @@
+{"index": 251067, "D": "integrity and uprightness; honesty. ", "S": ["integrity ", "morality ", "rectitude ", "righteousness ", "rightness ", "sincerity ", "trustworthiness ", "truthfulness "], "A": ["corruption ", "dishonesty ", "dishonor ", "evil ", "partiality ", "unfairness "]}

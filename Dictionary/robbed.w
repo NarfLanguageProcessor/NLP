@@ -1,0 +1,1 @@
+{"index": 273551, "D": "to take something from (someone) by unlawful force or threat of violence; steal from.", "S": ["beggared ", "bereaved ", "cut off ", "deprived ", "destitute ", "devoid ", "dispossessed ", "divested ", "fleeced ", "impoverished ", "left without ", "minus ", "naked ", "parted from ", "shorn ", "stripped ", "wanting ", "without "], "A": ["full ", "happy "]}

@@ -1,0 +1,1 @@
+{"index": 131035, "D": "a structure, usually made of concrete, that is used to support and guide trains or individual vehicles that ride over it.", "S": [], "A": []}

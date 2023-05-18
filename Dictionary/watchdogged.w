@@ -1,0 +1,1 @@
+{"index": 363055, "D": "a dog  kept to guard property.", "S": [], "A": []}

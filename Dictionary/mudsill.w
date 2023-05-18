@@ -1,0 +1,1 @@
+{"index": 194724, "D": "the lowest sill  of a structure, usually placed in or on the ground.", "S": [], "A": []}

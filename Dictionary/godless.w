@@ -1,0 +1,1 @@
+{"index": 127349, "D": "having or acknowledging no god or deity; atheistic.", "S": ["adiamorphic ", "agnostic ", "atheistic ", "freethinking ", "iconoclastic ", "irreligious ", "nonbelieving ", "skeptical ", "undogmatic "], "A": ["godly ", "religious "]}

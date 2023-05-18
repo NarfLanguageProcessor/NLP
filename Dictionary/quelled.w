@@ -1,0 +1,1 @@
+{"index": 258301, "D": "to suppress; put an end to; extinguish", "S": ["annihilate ", "conquer ", "crush ", "extinguish ", "overcome ", "put down ", "quench ", "silence ", "stamp out ", "stifle ", "subdue "], "A": ["build up ", "compliment ", "encourage ", "help ", "lose ", "praise ", "release ", "start ", "surrender ", "yield ", "begin "]}

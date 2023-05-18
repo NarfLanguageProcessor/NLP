@@ -1,0 +1,1 @@
+{"index": 22265, "D": "a hypocycloid with four cusps.", "S": [], "A": []}

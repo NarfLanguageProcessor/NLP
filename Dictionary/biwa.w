@@ -1,0 +1,1 @@
+{"index": 35354, "D": "the largest lake in Japan, on Honshu, near Kyoto. 260 sq. mi. (673 sq. km).", "S": [], "A": []}

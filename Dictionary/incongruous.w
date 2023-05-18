@@ -1,0 +1,1 @@
+{"index": 150225, "D": "out of keeping or place; inappropriate; unbecoming", "S": ["bizarre ", "contradictory ", "inappropriate ", "incoherent ", "incompatible "], "A": ["compatible ", "congruous ", "consistent ", "corresponding ", "fitting ", "harmonious ", "matched ", "suitable ", "uniform "]}

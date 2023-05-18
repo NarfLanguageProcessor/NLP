@@ -1,0 +1,1 @@
+{"index": 185632, "D": "a member of an Algonquian-speaking North American Indian tribe, formerly located in northern Indiana and Illinois, southern Michigan, and possibly Wisconsin, now living primarily in Oklahoma.", "S": [], "A": []}

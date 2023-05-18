@@ -1,0 +1,1 @@
+{"index": 23356, "D": "resembling the Augean stables  in filthiness or degradation.", "S": [], "A": []}

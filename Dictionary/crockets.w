@@ -1,0 +1,1 @@
+{"index": 73577, "D": "a medieval ornament, usually in the form of a leaf that curves up and away from the supporting surface and returns partially upon itself.", "S": [], "A": []}

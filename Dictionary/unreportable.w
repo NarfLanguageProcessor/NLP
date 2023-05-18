@@ -1,0 +1,1 @@
+{"index": 349583, "D": "an account or statement describing in detail an event, situation, or the like, usually as the result of observation, inquiry, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 181821, "D": "a county in Leinster, in the E Republic of Ireland. 902 sq. mi. (2,335 sq. km). County seat", "S": [], "A": []}

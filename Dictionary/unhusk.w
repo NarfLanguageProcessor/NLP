@@ -1,0 +1,1 @@
+{"index": 343959, "D": "to free from or as if from a husk. ", "S": [], "A": []}

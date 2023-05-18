@@ -1,0 +1,1 @@
+{"index": 367598, "D": "a mechanism consisting of a worm engaging with and driving a worm wheel, the two axes usually being at right angles, used where a relatively low speed and a relatively large amplification of power are desired.", "S": [], "A": []}

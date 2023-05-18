@@ -1,0 +1,1 @@
+{"index": 176584, "D": "length waterline; the length of a vessel at the waterline, taken at the centre axis", "S": [], "A": []}

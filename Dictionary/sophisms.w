@@ -1,0 +1,1 @@
+{"index": 297418, "D": "a specious argument for displaying ingenuity in reasoning or for deceiving someone.", "S": ["absurdity ", "deception ", "misconception ", "sophistry "], "A": []}

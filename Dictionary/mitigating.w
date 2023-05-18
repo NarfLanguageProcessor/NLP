@@ -1,0 +1,1 @@
+{"index": 190608, "D": "lessening the force, intensity, or severity of something, as punishment, danger, pain, anger, etc. (sometimes used in combination)", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}

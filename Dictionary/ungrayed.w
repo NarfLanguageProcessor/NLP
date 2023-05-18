@@ -1,0 +1,1 @@
+{"index": 343214, "D": "of a color between white and black; having a neutral hue.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45150, "D": "vesuvianite jade. ", "S": [], "A": []}

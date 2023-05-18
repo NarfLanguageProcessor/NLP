@@ -1,0 +1,1 @@
+{"index": 126357, "D": "a tiny, quick flash of light.", "S": ["gleam ", "glimmer ", "twinkle "], "A": ["dullness "]}

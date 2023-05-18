@@ -1,0 +1,1 @@
+{"index": 71982, "D": "a person or school that prepares pupils for an examination, esp pupils who have already failed that examination", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 156592, "D": "existing or taking place within a nucleus.", "S": [], "A": []}

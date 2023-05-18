@@ -1,0 +1,1 @@
+{"index": 340052, "D": "to value  below the real worth; put too low a value  on.", "S": ["blunder ", "error ", "misinterpretation ", "misjudgment ", "misunderstanding "], "A": ["accuracy ", "correction ", "success "]}

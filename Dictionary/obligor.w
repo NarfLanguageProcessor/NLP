@@ -1,0 +1,1 @@
+{"index": 210216, "D": "a person who is bound to another.", "S": [], "A": []}

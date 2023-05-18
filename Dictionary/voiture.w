@@ -1,0 +1,1 @@
+{"index": 361022, "D": "a carriage, wagon, or other wheeled vehicle.", "S": ["auto ", "automobile ", "bus ", "car ", "truck ", "van "], "A": []}

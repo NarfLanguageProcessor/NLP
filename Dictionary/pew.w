@@ -1,0 +1,1 @@
+{"index": 232645, "D": "(in a church) one of a number of fixed, benchlike seats with backs, accessible by aisles, for the use of the congregation.", "S": ["bench ", "seat ", "slip ", "stall "], "A": []}

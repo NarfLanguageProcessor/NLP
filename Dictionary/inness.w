@@ -1,0 +1,1 @@
+{"index": 153043, "D": "the state or quality of being fashionable", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146952, "D": "at the present time; now", "S": ["as yet ", "thus far ", "to date ", "until now ", "up to now "], "A": []}

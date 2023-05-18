@@ -1,0 +1,1 @@
+{"index": 296454, "D": "a district held by socage.", "S": [], "A": []}

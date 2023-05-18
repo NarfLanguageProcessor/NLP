@@ -1,0 +1,1 @@
+{"index": 304404, "D": "pertaining to a stigma,  mark, spot, or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223996, "D": "pale; faint or deficient in color; wan", "S": ["boringness ", "colorlessness ", "drabness ", "dreariness ", "flatness ", "flavorlessness ", "insipidity ", "insipidness ", "jejuneness ", "lifelessness ", "uninterestingness ", "vapidity ", "vapidness "], "A": []}

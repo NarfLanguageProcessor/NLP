@@ -1,0 +1,1 @@
+{"index": 356762, "D": "having a vallecula  or valleculae. ", "S": [], "A": []}

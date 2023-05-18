@@ -1,0 +1,1 @@
+{"index": 190810, "D": "a confused state of things; muddle; tangle.", "S": ["dilemma ", "imbroglio ", "muddle ", "plight "], "A": ["boon ", "ease "]}

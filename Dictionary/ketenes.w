@@ -1,0 +1,1 @@
+{"index": 164110, "D": "a colorless, poisonous gas, C2H2O, irritating to the lungs, prepared from acetone or acetic acid by pyrolysis", "S": [], "A": []}

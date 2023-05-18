@@ -1,0 +1,1 @@
+{"index": 138368, "D": "a safe place for hiding, especially from the law.", "S": ["hideaway ", "refuge ", "sanctuary ", "shelter "], "A": []}

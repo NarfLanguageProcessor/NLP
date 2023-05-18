@@ -1,0 +1,1 @@
+{"index": 265279, "D": "the improvement or amendment of what is wrong, corrupt, unsatisfactory, etc.", "S": [], "A": []}

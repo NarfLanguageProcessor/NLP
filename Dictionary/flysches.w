@@ -1,0 +1,1 @@
+{"index": 114726, "D": "an association of certain types of marine sedimentary rocks characteristic of deposition in a foredeep.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 58397, "D": "a jump in which the dancer's legs are opened wide in the air and closed on landing.", "S": [], "A": []}

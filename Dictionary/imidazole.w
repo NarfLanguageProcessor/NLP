@@ -1,0 +1,1 @@
+{"index": 147792, "D": "a colorless, crystalline, water-soluble, heterocyclic compound, C3H4N2, used chiefly in organic synthesis.", "S": [], "A": []}

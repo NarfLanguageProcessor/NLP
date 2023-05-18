@@ -1,0 +1,1 @@
+{"index": 2551, "D": "Australian informal a variant spelling of acca", "S": [], "A": []}

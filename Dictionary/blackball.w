@@ -1,0 +1,1 @@
+{"index": 35438, "D": "to vote against (a candidate, applicant, etc.).", "S": ["blacklist ", "ostracize "], "A": ["welcome ", "accept ", "admit ", "allow ", "approve ", "include ", "permit ", "ratify ", "sanction "]}

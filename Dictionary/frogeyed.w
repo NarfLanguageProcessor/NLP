@@ -1,0 +1,1 @@
+{"index": 119239, "D": "a small, whitish leaf spot with a narrow darker border, produced by certain fungi.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45304, "D": "an instrument for measuring internal or external dimensions, consisting of two steel legs hinged together", "S": [], "A": []}

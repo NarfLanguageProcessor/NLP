@@ -1,0 +1,1 @@
+{"index": 347187, "D": "to assail by criticism, argument, or action.", "S": [], "A": []}

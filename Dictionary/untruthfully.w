@@ -1,0 +1,1 @@
+{"index": 353435, "D": "not truthful;  wanting in veracity; diverging from or contrary to the truth; not corresponding with fact or reality.", "S": ["mendaciously "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 53457, "D": "in good spirits; cheerful; happy.", "S": ["blitheness ", "carefreeness ", "cheerfulness ", "glee ", "gleefulness ", "happiness ", "jocoseness ", "jocosity ", "jocundity ", "jolliness ", "jollity ", "joviality ", "joyfulness ", "lightheartedness ", "lightsomeness ", "merriment ", "merriness ", "mirth ", "mirthfulness "], "A": []}

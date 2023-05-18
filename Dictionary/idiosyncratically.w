@@ -1,0 +1,1 @@
+{"index": 146545, "D": "pertaining to the nature of idiosyncrasy,  or something peculiar to an individual", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 308929, "D": "a light structural member for carrying roofing materials, supported by and running at right angles to purlins. ", "S": [], "A": []}

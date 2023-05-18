@@ -1,0 +1,1 @@
+{"index": 255364, "D": "history  or the writing of history  employing the techniques of psychoanalysis to explore motivations, explain actions, etc.", "S": [], "A": []}

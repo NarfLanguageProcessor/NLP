@@ -1,0 +1,1 @@
+{"index": 92491, "D": "dregs, as in a brewing process; lees; refuse.", "S": ["deposits ", "dirt ", "lees ", "residue ", "settlings ", "slag ", "waste "], "A": []}

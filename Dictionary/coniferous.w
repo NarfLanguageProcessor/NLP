@@ -1,0 +1,1 @@
+{"index": 66334, "D": "Compare conifer (def. 1). ", "S": [], "A": []}

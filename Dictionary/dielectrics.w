@@ -1,0 +1,1 @@
+{"index": 85155, "D": "a nonconducting substance; insulator.", "S": [], "A": []}

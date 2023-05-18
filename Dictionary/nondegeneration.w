@@ -1,0 +1,1 @@
+{"index": 202823, "D": "the process of degenerating.", "S": [], "A": []}

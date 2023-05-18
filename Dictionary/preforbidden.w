@@ -1,0 +1,1 @@
+{"index": 247626, "D": "a past participle of forbid. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 25940, "D": "to attempt to discredit (a person) by underhanded means, as innuendo, accusation, or the like.", "S": ["Brutus ", "Judas ", "betrayer ", "defector ", "deserter ", "double agent ", "double-crosser ", "fink ", "informer ", "quisling ", "snake in the grass ", "snitch ", "spy ", "stool pigeon ", "treasonist ", "turncoat "], "A": []}

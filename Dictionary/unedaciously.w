@@ -1,0 +1,1 @@
+{"index": 341007, "D": "devouring; voracious; consuming.", "S": [], "A": []}

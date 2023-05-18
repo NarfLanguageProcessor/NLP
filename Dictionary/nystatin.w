@@ -1,0 +1,1 @@
+{"index": 200305, "D": "a light-yellow antibiotic powder, C46H77NO19, produced by the microorganism Streptomyces noursei and used as an antifungal for infections due to various susceptible fungi, especially those of the genus Candida that primarily infect the skin, mucous membranes, gastrointestinal tract, and vagina.", "S": [], "A": []}

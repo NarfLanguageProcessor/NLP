@@ -1,0 +1,1 @@
+{"index": 162772, "D": "a cabbagelike cultivated plant, Brassica oleracea acephala, of the mustard family, having curled or wrinkled leaves", "S": [], "A": []}

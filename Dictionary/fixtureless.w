@@ -1,0 +1,1 @@
+{"index": 113622, "D": "something securely, and usually permanently, attached or appended, as to a house, apartment building, etc.", "S": [], "A": []}

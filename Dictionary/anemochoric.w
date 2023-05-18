@@ -1,0 +1,1 @@
+{"index": 12506, "D": "(of a fruit, seed, or spore) adapted for dispersion by wind.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1373, "D": "resembling a mite or tick.", "S": [], "A": []}

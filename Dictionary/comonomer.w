@@ -1,0 +1,1 @@
+{"index": 64320, "D": "one of the constituents of a copolymer.", "S": [], "A": []}

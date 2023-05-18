@@ -1,0 +1,1 @@
+{"index": 8665, "D": "any substance, often a protein, that induces an allergy", "S": ["antigen ", "dander ", "irritant ", "pollen ", "ragweed "], "A": []}

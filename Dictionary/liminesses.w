@@ -1,0 +1,1 @@
+{"index": 172380, "D": "consisting of, containing, or like lime. ", "S": [], "A": []}

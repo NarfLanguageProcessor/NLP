@@ -1,0 +1,1 @@
+{"index": 105858, "D": "an arrangement of the xylem and phloem in discrete strands, separated by areas of parenchymatous tissue.", "S": [], "A": []}

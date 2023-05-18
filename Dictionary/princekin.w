@@ -1,0 +1,1 @@
+{"index": 250620, "D": "a small, young, or minor prince. ", "S": [], "A": []}

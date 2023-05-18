@@ -1,0 +1,1 @@
+{"index": 60444, "D": "as close to the wind as a vessel will sail, with sails as flat as possible; full and by.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146359, "D": "a short visual image employed between television programmes that works as a logo to locate the viewer to the channel", "S": [], "A": []}

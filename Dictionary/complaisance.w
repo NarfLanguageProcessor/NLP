@@ -1,0 +1,1 @@
+{"index": 64601, "D": "the quality of being complaisant. ", "S": ["acquiescence ", "compliance ", "courtesy ", "deference ", "friendliness ", "kindness ", "obligingness ", "politeness ", "respect "], "A": ["disagreement ", "dishonor ", "disobedience ", "disregard ", "impoliteness ", "rudeness "]}

@@ -1,0 +1,1 @@
+{"index": 143478, "D": "a hooded sweatshirt, sweater, or jacket.", "S": [], "A": []}

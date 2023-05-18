@@ -1,0 +1,1 @@
+{"index": 211367, "D": "the property of a substance that activates the sense of smell", "S": ["aroma ", "flavor ", "perfume ", "smell ", "stench ", "stink ", "whiff "], "A": ["perfume ", "sweetness "]}

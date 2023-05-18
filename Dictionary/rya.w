@@ -1,0 +1,1 @@
+{"index": 272391, "D": "a handwoven Scandinavian rug with a thick pile and usually a strong, colorful design.", "S": [], "A": []}

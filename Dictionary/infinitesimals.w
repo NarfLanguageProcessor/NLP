@@ -1,0 +1,1 @@
+{"index": 152030, "D": "exceedingly small; minute", "S": ["ounce ", "smidgen ", "speck ", "whit "], "A": ["lot "]}

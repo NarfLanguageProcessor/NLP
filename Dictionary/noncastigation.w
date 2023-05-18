@@ -1,0 +1,1 @@
+{"index": 201820, "D": "severe criticism or harsh scolding; censure", "S": [], "A": []}

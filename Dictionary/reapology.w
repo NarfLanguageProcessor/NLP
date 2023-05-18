@@ -1,0 +1,1 @@
+{"index": 261876, "D": "a written or spoken expression of one's regret, remorse, or sorrow for having insulted, failed, injured, or wronged another", "S": [], "A": []}

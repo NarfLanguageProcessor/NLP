@@ -1,0 +1,1 @@
+{"index": 211574, "D": "a violation or breaking of a social or moral rule; transgression; sin.", "S": ["breach ", "crime ", "infraction ", "misdeed ", "misdemeanor ", "sin ", "transgression ", "wrongdoing "], "A": ["behavior ", "good deed ", "obedience ", "perfection "]}

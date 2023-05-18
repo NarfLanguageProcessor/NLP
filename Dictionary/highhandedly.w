@@ -1,0 +1,1 @@
+{"index": 139256, "D": "condescending or presumptuous; overbearing; arbitrary", "S": [], "A": []}

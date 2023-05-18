@@ -1,0 +1,1 @@
+{"index": 283971, "D": "action in accord with prevailing social standards, attitudes, practices, etc.", "S": [], "A": []}

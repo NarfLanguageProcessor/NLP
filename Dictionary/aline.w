@@ -1,0 +1,1 @@
+{"index": 8308, "D": "align. ", "S": ["adulation ", "baloney ", "blandishment ", "cajolery ", "coaxing ", "compliments ", "exaggeration ", "eyewash ", "fawning ", "honey ", "incense ", "ingratiation ", "oil ", "overpraise ", "wheedling "], "A": []}

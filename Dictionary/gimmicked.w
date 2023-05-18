@@ -1,0 +1,1 @@
+{"index": 125014, "D": "an ingenious or novel device, scheme, or stratagem, especially one designed to attract attention or increase appeal.", "S": [], "A": []}

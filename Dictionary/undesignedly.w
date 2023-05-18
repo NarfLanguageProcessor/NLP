@@ -1,0 +1,1 @@
+{"index": 340173, "D": "not planned beforehand; unpremeditated; unintentional.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 712, "D": "the state of being Aboriginal, esp with regard to having a common Aboriginal culture", "S": [], "A": []}

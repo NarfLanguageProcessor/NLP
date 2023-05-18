@@ -1,0 +1,1 @@
+{"index": 345276, "D": "not combed", "S": ["bedraggled ", "dilapidated ", "disheveled ", "grubby ", "grungy ", "messy ", "neglected ", "rumpled ", "scruffy ", "shaggy "], "A": ["clean ", "neat ", "ordered ", "smooth ", "tidy "]}

@@ -1,0 +1,1 @@
+{"index": 282885, "D": "a body of persons adhering to a particular religious faith; a religious denomination.", "S": ["church ", "creed ", "cult ", "denomination ", "faction ", "faith ", "religion "], "A": ["agnosticism ", "disbelief "]}

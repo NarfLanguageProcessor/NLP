@@ -1,0 +1,1 @@
+{"index": 207604, "D": "serving to assist or supplement; auxiliary; supplementary.", "S": [], "A": []}

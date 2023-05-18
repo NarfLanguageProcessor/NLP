@@ -1,0 +1,1 @@
+{"index": 182249, "D": "pertaining to, consisting of, or resembling the medulla  of an organ or the medulla oblongata. ", "S": [], "A": []}

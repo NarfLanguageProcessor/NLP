@@ -1,0 +1,1 @@
+{"index": 323214, "D": "a South African threepenny piece, which was replaced by the five-cent coin in 1961", "S": [], "A": []}

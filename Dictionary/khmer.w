@@ -1,0 +1,1 @@
+{"index": 164317, "D": "a member of a people in Cambodia whose ancestors established an empire about the 5th century a.d. and who reached their zenith during the 9th to the 12th centuries when they dominated most of Indochina.", "S": [], "A": []}

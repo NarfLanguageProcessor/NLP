@@ -1,0 +1,1 @@
+{"index": 48951, "D": "any of several tropical American plants belonging to the genus Manihot, of the spurge family, as M. esculenta(bitter cassava ) and M. dulcis(sweet cassava ), cultivated for their tuberous roots, which yield important food products.", "S": [], "A": []}

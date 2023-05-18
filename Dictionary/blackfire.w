@@ -1,0 +1,1 @@
+{"index": 35493, "D": "a disease of tobacco, characterized by angular, dark lesions on the leaves, caused by a bacterium, Pseudomonas angulata.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262097, "D": "something taken for granted; a supposition", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236608, "D": "the act or practice of pilfering;  petty theft.", "S": ["burglary ", "crime ", "lift ", "misappropriation ", "pinch ", "robbery ", "steal ", "stealing ", "theft ", "thievery ", "thieving ", "touch "], "A": ["lot "]}

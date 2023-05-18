@@ -1,0 +1,1 @@
+{"index": 187293, "D": "of or relating to a thousand, especially the thousand years of the prophesied millennium.", "S": ["millenary "], "A": []}

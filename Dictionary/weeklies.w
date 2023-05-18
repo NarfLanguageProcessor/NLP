@@ -1,0 +1,1 @@
+{"index": 363769, "D": "done, happening, appearing, etc., once a week,  or every week", "S": ["account ", "almanac ", "annals ", "calendar ", "daily ", "diary ", "gazette ", "magazine ", "memoir ", "monthly ", "newspaper ", "note ", "paper ", "periodical ", "publication ", "review ", "tabloid ", "weekly "], "A": []}

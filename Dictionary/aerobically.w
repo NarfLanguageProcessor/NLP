@@ -1,0 +1,1 @@
+{"index": 4956, "D": "(of an organism or tissue) requiring the presence of air or free oxygen for life.", "S": [], "A": []}

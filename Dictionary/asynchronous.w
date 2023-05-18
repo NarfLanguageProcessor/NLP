@@ -1,0 +1,1 @@
+{"index": 21267, "D": "not occurring at the same time", "S": ["serial "], "A": ["concurrent ", "contemporaneous ", "simultaneous ", "synchronous "]}

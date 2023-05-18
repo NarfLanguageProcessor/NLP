@@ -1,0 +1,1 @@
+{"index": 355131, "D": "to sweep  upward.", "S": [], "A": []}

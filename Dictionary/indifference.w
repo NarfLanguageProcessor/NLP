@@ -1,0 +1,1 @@
+{"index": 150955, "D": "lack of interest or concern", "S": ["alienation ", "apathy ", "callousness ", "carelessness ", "disdain ", "disinterest ", "disregard ", "inattention ", "inertia ", "insensitivity ", "lack ", "negligence ", "nonchalance "], "A": ["attention ", "esteem ", "respect ", "bias "]}

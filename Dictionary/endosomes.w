@@ -1,0 +1,1 @@
+{"index": 99970, "D": "a smooth sac within the cell, formed by or fused with coated vesicles that shed their clathrin, in which ligands are separated from their receptors and from which the receptors are returned to the cell surface.", "S": [], "A": []}

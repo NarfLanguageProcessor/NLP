@@ -1,0 +1,1 @@
+{"index": 36380, "D": "heavily built; solid; stocky.", "S": ["blockish ", "boxlike ", "boxy ", "chunky ", "compact ", "heavyset ", "solid ", "squat ", "stubby ", "stumpy ", "thick ", "thickset "], "A": []}

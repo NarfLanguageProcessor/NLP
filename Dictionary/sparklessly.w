@@ -1,0 +1,1 @@
+{"index": 298453, "D": "an ignited or fiery particle such as is thrown off by burning wood or produced by one hard body striking against another.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 245275, "D": "pure and unqualified knowledge.", "S": [], "A": []}

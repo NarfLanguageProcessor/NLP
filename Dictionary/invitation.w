@@ -1,0 +1,1 @@
+{"index": 157270, "D": "the act of inviting. ", "S": ["appeal ", "bid ", "challenge ", "date ", "encouragement ", "overture ", "petition ", "proposition ", "request ", "solicitation ", "suggestion ", "summons "], "A": ["answer ", "denial ", "refusal ", "deterrent ", "discouragement ", "dislike ", "hindrance ", "prevention ", "repulsion "]}

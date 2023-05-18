@@ -1,0 +1,1 @@
+{"index": 80136, "D": "he drew (this); she drew (this). Abbreviation", "S": [], "A": []}

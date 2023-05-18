@@ -1,0 +1,1 @@
+{"index": 226628, "D": "a maid  who takes care of a parlor,  answers the door, waits on guests, etc.", "S": [], "A": []}

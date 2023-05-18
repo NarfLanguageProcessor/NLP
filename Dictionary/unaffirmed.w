@@ -1,0 +1,1 @@
+{"index": 334720, "D": "positively stated or asserted, often in a formal way", "S": [], "A": []}

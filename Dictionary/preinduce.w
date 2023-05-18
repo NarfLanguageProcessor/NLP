@@ -1,0 +1,1 @@
+{"index": 247953, "D": "to lead or move by persuasion or influence, as to some action or state of mind", "S": [], "A": []}

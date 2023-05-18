@@ -1,0 +1,1 @@
+{"index": 42507, "D": "a lightweight, shallow-draft boat  made of hides stretched over a wooden frame and used by Plains Indians.", "S": [], "A": []}

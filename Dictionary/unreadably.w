@@ -1,0 +1,1 @@
+{"index": 349093, "D": "not readable;  undecipherable; scribbled", "S": [], "A": []}

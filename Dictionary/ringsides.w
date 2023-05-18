@@ -1,0 +1,1 @@
+{"index": 273072, "D": "the area immediately surrounding a ring,  especially the area occupied by the first row of seats on all sides  of a boxing or wrestling ring. ", "S": [], "A": []}

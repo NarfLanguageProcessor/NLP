@@ -1,0 +1,1 @@
+{"index": 79615, "D": "susceptible to chemical breakdown.", "S": [], "A": []}

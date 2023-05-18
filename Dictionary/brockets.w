@@ -1,0 +1,1 @@
+{"index": 41136, "D": "any of several small, red, South American deer of the genus Mazama, having short, unbranched antlers.", "S": [], "A": []}

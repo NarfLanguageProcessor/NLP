@@ -1,0 +1,1 @@
+{"index": 357211, "D": "having many colours; variegated; motley", "S": [], "A": []}

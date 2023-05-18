@@ -1,0 +1,1 @@
+{"index": 208574, "D": "a standard, model, or pattern.", "S": [], "A": []}

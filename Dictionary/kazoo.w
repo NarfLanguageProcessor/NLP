@@ -1,0 +1,1 @@
+{"index": 163460, "D": "a musical toy consisting of a tube that is open at both ends and has a hole in the side covered with parchment or membrane, which produces a buzzing sound when the performer hums into one end.", "S": ["French harp ", "harmonica ", "harmonicon ", "harp ", "mouth bow ", "mouth harp ", "panpipe "], "A": []}

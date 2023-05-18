@@ -1,0 +1,1 @@
+{"index": 136213, "D": "a hydrous zinc silicate mineral, Zn4(OH)2Si2O7\u22c5H2O, occurring in clear, colorless orthorhombic crystals; calamine", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248385, "D": "a first public performance or showing of a play, opera, film, etc.", "S": ["beginning ", "debut ", "opening "], "A": ["closing ", "conclusion ", "ending ", "finish "]}

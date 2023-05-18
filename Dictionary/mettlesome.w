@@ -1,0 +1,1 @@
+{"index": 185528, "D": "spirited; courageous.", "S": ["ardent ", "fiery ", "mettled ", "peppery ", "plucky ", "spirited ", "spunky ", "valiant "], "A": []}

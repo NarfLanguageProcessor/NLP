@@ -1,0 +1,1 @@
+{"index": 49466, "D": "(formerly) a petty officer of justice, especially one arresting persons for debt.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 78604, "D": "to remove or retire (a ship, airplane, etc.) from active service.", "S": ["dormant ", "dull ", "idle ", "immobile ", "inoperative ", "jobless ", "passive ", "sedentary ", "sluggish ", "static ", "unemployed ", "unused "], "A": ["active ", "employed ", "energetic ", "lively ", "mobile ", "moving ", "used "]}

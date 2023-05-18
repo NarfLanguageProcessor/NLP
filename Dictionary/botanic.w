@@ -1,0 +1,1 @@
+{"index": 38660, "D": "of, pertaining to, made from, or containing plants", "S": ["agricultural ", "floral ", "horticultural "], "A": []}

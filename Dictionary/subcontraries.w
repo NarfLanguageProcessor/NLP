@@ -1,0 +1,1 @@
+{"index": 307587, "D": "one of two propositions that can both be true but cannot both be false.", "S": [], "A": []}

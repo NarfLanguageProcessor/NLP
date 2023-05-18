@@ -1,0 +1,1 @@
+{"index": 145139, "D": "of, relating to, or characteristic of Hungary,  its people, or their language.", "S": [], "A": []}

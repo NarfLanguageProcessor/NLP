@@ -1,0 +1,1 @@
+{"index": 107183, "D": "to urge, advise, or caution earnestly; admonish urgently.", "S": [], "A": []}

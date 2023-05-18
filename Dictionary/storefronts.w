@@ -1,0 +1,1 @@
+{"index": 305386, "D": "the side of a store  facing a street, usually containing display windows.", "S": [], "A": []}

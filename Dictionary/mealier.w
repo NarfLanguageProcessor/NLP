@@ -1,0 +1,1 @@
+{"index": 181710, "D": "having the qualities of meal;  powdery; soft, dry, and crumbly", "S": ["crumbly ", "farinaceous ", "friable ", "grainy ", "gritty "], "A": []}

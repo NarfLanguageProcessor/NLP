@@ -1,0 +1,1 @@
+{"index": 251596, "D": "the quality, state, or fact of being able to generate, create, enhance, or bring forth goods and services", "S": ["capacity ", "fertility ", "production ", "yield "], "A": ["idleness "]}

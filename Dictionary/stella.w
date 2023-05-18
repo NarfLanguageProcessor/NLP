@@ -1,0 +1,1 @@
+{"index": 303554, "D": "a four-dollar pattern coin of the U.S. having a metal content based on the metric system, issued 1879\u201380", "S": [], "A": []}

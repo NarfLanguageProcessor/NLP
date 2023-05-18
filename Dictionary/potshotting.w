@@ -1,0 +1,1 @@
+{"index": 244792, "D": "a shot  fired at game merely for food, with little regard to skill or the rules of sport.", "S": [], "A": []}

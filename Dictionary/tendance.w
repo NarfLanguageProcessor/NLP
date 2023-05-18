@@ -1,0 +1,1 @@
+{"index": 318712, "D": "attention; care; ministration, as to the sick.", "S": [], "A": []}

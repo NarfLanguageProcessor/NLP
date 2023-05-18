@@ -1,0 +1,1 @@
+{"index": 55231, "D": "a colorless gas, CClF3, used chiefly as a refrigerant, in the hardening of metals, and in pharmaceutical processing.", "S": [], "A": []}

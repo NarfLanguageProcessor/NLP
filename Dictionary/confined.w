@@ -1,0 +1,1 @@
+{"index": 65918, "D": "limited or restricted.", "S": ["circumscribed ", "cramped ", "imprisoned ", "restrained ", "restricted "], "A": ["healthy ", "well "]}

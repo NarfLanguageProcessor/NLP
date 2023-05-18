@@ -1,0 +1,1 @@
+{"index": 107002, "D": "an example or model.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 167363, "D": "a language or group of dialects of Pakistan, belonging to the Indic branch of the Indo-European family and closely related to Punjabi", "S": [], "A": []}

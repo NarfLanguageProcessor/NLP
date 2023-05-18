@@ -1,0 +1,1 @@
+{"index": 334087, "D": "outside the tropics.", "S": [], "A": []}

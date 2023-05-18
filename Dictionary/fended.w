@@ -1,0 +1,1 @@
+{"index": 111226, "D": "to ward off (often followed by off)", "S": ["bulwark ", "cover ", "dodge ", "guard ", "oppose ", "parry ", "protect ", "repel ", "resist ", "safeguard ", "screen ", "secure ", "shield "], "A": ["disregard ", "endanger ", "face ", "forget ", "harm ", "hurt ", "ignore ", "injure ", "lay bare ", "lay open ", "meet ", "open ", "reveal ", "uncover "]}

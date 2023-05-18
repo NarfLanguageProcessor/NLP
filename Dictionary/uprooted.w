@@ -1,0 +1,1 @@
+{"index": 354964, "D": "to pull out by or as if by the roots", "S": ["deranged ", "luxated ", "removed "], "A": ["reinstated "]}

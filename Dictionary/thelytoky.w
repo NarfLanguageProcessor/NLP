@@ -1,0 +1,1 @@
+{"index": 320874, "D": "parthenogenesis in which only females are produced.", "S": [], "A": []}

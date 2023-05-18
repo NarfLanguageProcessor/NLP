@@ -1,0 +1,1 @@
+{"index": 125294, "D": [], "S": ["effeminate ", "effete ", "fertile ", "gender ", "womanhood ", "womanish ", "womanliness "], "A": ["masculinity "]}

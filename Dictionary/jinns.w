@@ -1,0 +1,1 @@
+{"index": 161336, "D": "any of a class of spirits, lower than the angels, capable of appearing in human and animal forms and influencing humankind for either good or evil.", "S": [], "A": []}

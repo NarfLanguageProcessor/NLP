@@ -1,0 +1,1 @@
+{"index": 41372, "D": "acute or chronic inflammation of the membrane lining of the bronchial tubes, caused by respiratory infection or exposure to bronchial irritants, as cigarette smoke.", "S": [], "A": []}

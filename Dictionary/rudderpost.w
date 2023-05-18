@@ -1,0 +1,1 @@
+{"index": 275275, "D": "the vertical member of a stern frame on which the rudder  is hung; a sternpost.", "S": [], "A": []}

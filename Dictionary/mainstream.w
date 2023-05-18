@@ -1,0 +1,1 @@
+{"index": 177925, "D": "the principal or dominant course, tendency, or trend", "S": ["average ", "common ", "current ", "dominant ", "general ", "normal ", "primary ", "regular ", "standard "], "A": ["abnormal ", "eccentric ", "exceptional ", "extraordinary ", "infrequent ", "irregular ", "rare ", "secondary ", "uncommon ", "unusual "]}

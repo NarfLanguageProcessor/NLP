@@ -1,0 +1,1 @@
+{"index": 264663, "D": "to leave one country or region to settle in another; migrate", "S": [], "A": []}

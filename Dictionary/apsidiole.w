@@ -1,0 +1,1 @@
+{"index": 18108, "D": "a small apse, especially one attached to a larger apse or a transept.", "S": [], "A": []}

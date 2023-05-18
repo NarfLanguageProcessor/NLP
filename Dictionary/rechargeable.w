@@ -1,0 +1,1 @@
+{"index": 262795, "D": "Compare cordless (def. 2). ", "S": [], "A": []}

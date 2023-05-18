@@ -1,0 +1,1 @@
+{"index": 303645, "D": "another name for stinger (def. 3)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 119542, "D": "act of fructifying;  the fruiting of a plant, fungus, etc.", "S": ["construction ", "management ", "manufacture ", "manufacturing "], "A": ["destruction ", "taking "]}

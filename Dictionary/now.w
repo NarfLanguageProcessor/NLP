@@ -1,0 +1,1 @@
+{"index": 209199, "D": "at the present time or moment", "S": ["today "], "A": ["eventually ", "later "]}

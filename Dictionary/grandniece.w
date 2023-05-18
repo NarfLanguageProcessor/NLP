@@ -1,0 +1,1 @@
+{"index": 128872, "D": "a daughter of one's nephew or niece. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 222039, "D": "a Scots word for over", "S": [], "A": []}

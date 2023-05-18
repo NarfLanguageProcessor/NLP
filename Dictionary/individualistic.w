@@ -1,0 +1,1 @@
+{"index": 151174, "D": "prioritizing the pursuit of individual interests or rights rather than common or collective ones", "S": ["self-absorbed ", "selfish "], "A": []}

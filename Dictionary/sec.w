@@ -1,0 +1,1 @@
+{"index": 282686, "D": "(of wines) dry; not sweet.", "S": ["breath ", "crack ", "flash ", "jiffy ", "juncture ", "minute ", "occasion ", "point ", "second ", "shake ", "tick ", "time ", "trice ", "twinkling ", "while ", "wink "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 83917, "D": "(in India, Malaya, East Africa, etc, esp formerly) a washerman", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265899, "D": "of, relating to, or of the nature of, a regulus. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293540, "D": "a broad, flat, somewhat thick piece of stone, wood, or other solid material.", "S": ["hunk ", "ingot ", "lump ", "piece ", "plate ", "rod ", "slice ", "stone ", "strip ", "wedge "], "A": ["whole "]}

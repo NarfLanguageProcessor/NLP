@@ -1,0 +1,1 @@
+{"index": 103249, "D": "equally distant.", "S": ["center ", "central ", "halfway ", "middle "], "A": []}

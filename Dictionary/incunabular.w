@@ -1,0 +1,1 @@
+{"index": 150585, "D": "extant copies of books produced in the earliest stages (before 1501) of printing from movable type.", "S": [], "A": []}

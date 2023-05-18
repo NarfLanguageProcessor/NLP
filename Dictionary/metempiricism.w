@@ -1,0 +1,1 @@
+{"index": 185095, "D": "the philosophy dealing with the existence of things outside, or beyond, experience.", "S": [], "A": []}

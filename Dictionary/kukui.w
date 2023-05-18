@@ -1,0 +1,1 @@
+{"index": 166418, "D": "the candlenut tree, Aleurites moluccana, of the spurge family, having grayish leaves and clusters of small white flowers", "S": [], "A": []}

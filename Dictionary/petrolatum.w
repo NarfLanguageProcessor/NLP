@@ -1,0 +1,1 @@
+{"index": 232514, "D": "a yellowish or whitish, translucent, gelatinous, oily, semisolid, amorphous mass obtained from petroleum", "S": [], "A": []}

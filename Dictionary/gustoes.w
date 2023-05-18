@@ -1,0 +1,1 @@
+{"index": 131578, "D": "hearty or keen enjoyment, as in eating or drinking, or in action or speech in general", "S": [], "A": []}

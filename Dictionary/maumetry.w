@@ -1,0 +1,1 @@
+{"index": 181420, "D": "an empty-headed or mindless person.", "S": [], "A": []}

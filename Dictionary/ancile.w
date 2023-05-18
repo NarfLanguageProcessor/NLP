@@ -1,0 +1,1 @@
+{"index": 12231, "D": "a shield given by Mars to Numa Pompilius as the palladium of Rome.", "S": [], "A": []}

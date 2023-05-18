@@ -1,0 +1,1 @@
+{"index": 17026, "D": "having the qualities, appearance, or ways of an ape. ", "S": ["emulative ", "slavish "], "A": []}

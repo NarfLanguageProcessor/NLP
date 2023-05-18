@@ -1,0 +1,1 @@
+{"index": 83823, "D": "an abnormal condition in which the heart is displaced to the right side of the chest.", "S": [], "A": []}

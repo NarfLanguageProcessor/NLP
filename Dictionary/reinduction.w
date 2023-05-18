@@ -1,0 +1,1 @@
+{"index": 266258, "D": "the act of inducing, bringing about, or causing", "S": [], "A": []}

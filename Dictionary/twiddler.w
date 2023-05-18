@@ -1,0 +1,1 @@
+{"index": 333302, "D": "to turn about or play with lightly or idly, especially with the fingers; twirl.", "S": [], "A": []}

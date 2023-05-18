@@ -1,0 +1,1 @@
+{"index": 357249, "D": "varied in form; having various  forms.", "S": [], "A": []}

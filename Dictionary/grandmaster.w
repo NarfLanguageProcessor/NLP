@@ -1,0 +1,1 @@
+{"index": 128860, "D": "the head of a military order of knighthood, a lodge, fraternal order, or the like.", "S": ["champion ", "master ", "master hand ", "past master ", "specialist ", "virtuoso ", "wizard "], "A": []}

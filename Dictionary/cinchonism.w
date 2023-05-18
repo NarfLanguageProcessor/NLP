@@ -1,0 +1,1 @@
+{"index": 57599, "D": "poisoning by any of the cinchona  alkaloids, characterized by headache, deafness, and ringing in the ears.", "S": [], "A": []}

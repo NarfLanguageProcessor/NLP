@@ -1,0 +1,1 @@
+{"index": 307226, "D": "any covering worn as a defense against weapons.", "S": [], "A": []}

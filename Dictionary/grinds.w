@@ -1,0 +1,1 @@
+{"index": 129940, "D": "to wear, smooth, or sharpen by abrasion or friction; whet", "S": ["chore ", "drudgery "], "A": ["break ", "entertainment ", "fun ", "pastime "]}

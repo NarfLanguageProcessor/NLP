@@ -1,0 +1,1 @@
+{"index": 210785, "D": "the branch of physical geography dealing with the ocean. ", "S": [], "A": []}

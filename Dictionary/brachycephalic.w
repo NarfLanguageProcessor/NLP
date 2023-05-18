@@ -1,0 +1,1 @@
+{"index": 39390, "D": "short-headed; having a cephalic index of 81.0\u201385.4.", "S": [], "A": []}

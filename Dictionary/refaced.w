@@ -1,0 +1,1 @@
+{"index": 264912, "D": "to renew, restore, or repair the face  or surface of (buildings, stone, etc.).", "S": [], "A": []}

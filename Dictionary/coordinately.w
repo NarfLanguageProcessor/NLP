@@ -1,0 +1,1 @@
+{"index": 68360, "D": "of the same order or degree; equal in rank or importance.", "S": ["equitably ", "fairly ", "justly ", "uniformly "], "A": ["unfairly ", "unjustly "]}

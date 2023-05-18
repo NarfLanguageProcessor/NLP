@@ -1,0 +1,1 @@
+{"index": 298908, "D": "a photograph of the sun made with a spectroheliograph.", "S": [], "A": []}

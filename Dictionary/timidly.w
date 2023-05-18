@@ -1,0 +1,1 @@
+{"index": 323813, "D": "lacking in self-assurance, courage, or bravery; easily alarmed; timorous; shy.", "S": ["nervously "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 358379, "D": "in exactly the same words; word for word", "S": ["accurately ", "direct ", "directly ", "literally ", "literatim ", "precisely ", "sic ", "to the letter ", "word-for-word "], "A": ["different "]}

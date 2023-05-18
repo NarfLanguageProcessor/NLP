@@ -1,0 +1,1 @@
+{"index": 263509, "D": "the outer bark of an oak, Quercus suber, of Mediterranean countries, used for making stoppers for bottles, floats, etc.", "S": [], "A": []}

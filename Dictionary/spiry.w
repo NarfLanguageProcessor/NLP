@@ -1,0 +1,1 @@
+{"index": 300074, "D": "having the form of a spire,  slender shoot, or tapering pointed body; tapering up to a point like a spire. ", "S": [], "A": []}

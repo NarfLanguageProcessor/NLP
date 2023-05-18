@@ -1,0 +1,1 @@
+{"index": 110264, "D": "a male parent.", "S": ["ancestor ", "dad ", "parent ", "predecessor "], "A": ["descendant ", "effect ", "end ", "result "]}

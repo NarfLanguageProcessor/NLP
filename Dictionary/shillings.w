@@ -1,0 +1,1 @@
+{"index": 288296, "D": "a cupronickel coin and former monetary unit of the United Kingdom, the 20th part of a pound, equal to 12 pence", "S": [], "A": []}

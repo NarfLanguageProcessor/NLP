@@ -1,0 +1,1 @@
+{"index": 143952, "D": "bristling; standing erect like bristles.", "S": [], "A": []}

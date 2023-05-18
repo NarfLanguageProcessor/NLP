@@ -1,0 +1,1 @@
+{"index": 119263, "D": "any tailless, stout-bodied amphibian of the order Anura, including the smooth, moist-skinned frog species that live in a damp or semiaquatic habitat and the warty, drier-skinned toad species that are mostly terrestrial as adults.", "S": [], "A": []}

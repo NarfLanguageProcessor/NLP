@@ -1,0 +1,1 @@
+{"index": 178105, "D": "a temporary expedient or substitute", "S": ["alternative ", "expedient ", "make-do ", "stopgap ", "substitute ", "temp ", "throwaway "], "A": ["complete ", "finished ", "permanent ", "ready "]}

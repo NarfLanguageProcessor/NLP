@@ -1,0 +1,1 @@
+{"index": 223853, "D": "a speech disorder in which a word or phrase is rapidly repeated", "S": [], "A": []}

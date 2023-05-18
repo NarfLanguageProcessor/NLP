@@ -1,0 +1,1 @@
+{"index": 92272, "D": [], "S": ["accredit ", "allow ", "appoint ", "attach ", "authorize ", "charge ", "commit ", "designate ", "draft ", "elect ", "empower ", "entrust ", "hire ", "name ", "nominate ", "refer ", "select "], "A": ["deny ", "disallow ", "disapprove ", "fire ", "ignore ", "keep ", "refuse ", "reject ", "cancel ", "retract "]}

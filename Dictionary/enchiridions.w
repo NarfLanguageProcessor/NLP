@@ -1,0 +1,1 @@
+{"index": 99298, "D": "a handbook; manual.", "S": ["catalog ", "clue ", "directory ", "guidebook ", "handbook ", "key ", "manual "], "A": []}

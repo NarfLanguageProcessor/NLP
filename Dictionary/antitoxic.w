@@ -1,0 +1,1 @@
+{"index": 16349, "D": "counteracting toxic  influences.", "S": [], "A": []}

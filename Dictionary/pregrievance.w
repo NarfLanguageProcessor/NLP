@@ -1,0 +1,1 @@
+{"index": 247746, "D": "a wrong considered as grounds for complaint, or something believed to cause distress", "S": [], "A": []}

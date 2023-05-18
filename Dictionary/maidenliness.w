@@ -1,0 +1,1 @@
+{"index": 177781, "D": "pertaining to, characteristic of, or befitting a maiden", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194703, "D": "a local governor", "S": [], "A": []}

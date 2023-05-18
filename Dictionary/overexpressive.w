@@ -1,0 +1,1 @@
+{"index": 219269, "D": "full of expression; meaningful", "S": [], "A": []}

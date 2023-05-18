@@ -1,0 +1,1 @@
+{"index": 276499, "D": "one of a number of spiritual practices or disciplines which lead to perfection, these being contemplation, asceticism, worship of a god, and correct living", "S": [], "A": []}

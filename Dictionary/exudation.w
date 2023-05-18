@@ -1,0 +1,1 @@
+{"index": 108799, "D": "the act of exuding. ", "S": ["emission ", "flow ", "seepage "], "A": ["assignment ", "damming ", "delegation ", "employment ", "engagement ", "hiring ", "hold ", "imprisonment ", "incarceration ", "indebtedness ", "keep ", "loading ", "owing ", "retention "]}

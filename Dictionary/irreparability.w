@@ -1,0 +1,1 @@
+{"index": 158315, "D": "not reparable; incapable of being rectified, remedied, or made good", "S": [], "A": []}

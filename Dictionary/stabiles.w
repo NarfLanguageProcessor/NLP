@@ -1,0 +1,1 @@
+{"index": 302146, "D": "fixed in position; stable. ", "S": [], "A": []}

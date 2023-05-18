@@ -1,0 +1,1 @@
+{"index": 18512, "D": "the simultaneous purchase and sale of the same securities, commodities, or foreign exchange in different markets to profit from unequal prices.", "S": ["computer-assisted trading "], "A": []}

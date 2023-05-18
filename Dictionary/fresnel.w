@@ -1,0 +1,1 @@
+{"index": 118834, "D": "a unit of frequency, equal to 1012 cycles per second.", "S": [], "A": []}

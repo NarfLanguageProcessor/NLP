@@ -1,0 +1,1 @@
+{"index": 157693, "D": "a member of the royal house of England that ruled from 1461 to 1485.", "S": [], "A": []}

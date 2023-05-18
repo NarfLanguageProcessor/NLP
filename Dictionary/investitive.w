@@ -1,0 +1,1 @@
+{"index": 157187, "D": "of, relating to, or empowered to invest", "S": [], "A": []}

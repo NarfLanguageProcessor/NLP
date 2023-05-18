@@ -1,0 +1,1 @@
+{"index": 158962, "D": "of the same or similar origin, as parts derived from the same or corresponding tissues of the embryo.", "S": [], "A": []}

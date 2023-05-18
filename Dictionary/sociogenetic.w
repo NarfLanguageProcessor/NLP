@@ -1,0 +1,1 @@
+{"index": 296168, "D": "contributing to or affecting the course of social development", "S": [], "A": []}

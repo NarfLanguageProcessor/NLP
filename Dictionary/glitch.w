@@ -1,0 +1,1 @@
+{"index": 126431, "D": "a defect or malfunction in a machine or plan.", "S": ["bug ", "defect ", "flaw ", "hitch ", "malfunction ", "mishap ", "problem ", "setback ", "snafu ", "snag "], "A": ["advantage ", "perfection ", "strength "]}

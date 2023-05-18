@@ -1,0 +1,1 @@
+{"index": 347946, "D": "(of interest, curiosity, etc.) excited or aroused", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 357755, "D": "an artificially bred, indoor variety of goldfish, usually golden or calico and of a spheroid shape, having a fully divided, drooping tail fin exceeding the body in length.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 5459, "D": "to be able to do, manage, or bear without serious consequence or adverse effect", "S": ["allow ", "manage "], "A": ["refuse ", "reject "]}

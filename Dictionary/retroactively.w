@@ -1,0 +1,1 @@
+{"index": 270770, "D": "in a way that includes or refers to events that happened before the relevant rule, decision, or other measure came into effect", "S": [], "A": []}

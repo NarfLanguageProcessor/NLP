@@ -1,0 +1,1 @@
+{"index": 163523, "D": "a liturgical prayer of varying form that is incorporated into the third blessing of the Amidah during the repetition of this prayer by the cantor.", "S": [], "A": []}

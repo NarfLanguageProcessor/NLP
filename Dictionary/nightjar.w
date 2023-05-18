@@ -1,0 +1,1 @@
+{"index": 199947, "D": "a nocturnal European bird, Caprimulgus europaeus, of the family Caprimulgidae, having a short bill and a wide mouth and feeding on insects captured in the air.", "S": [], "A": []}

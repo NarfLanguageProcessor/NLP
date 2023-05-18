@@ -1,0 +1,1 @@
+{"index": 93985, "D": "in a correct or appropriate manner; properly; fittingly. ", "S": ["appropriately ", "correctly ", "deservedly ", "suitably "], "A": ["improperly ", "unduly ", "unsuitably "]}

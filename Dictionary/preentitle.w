@@ -1,0 +1,1 @@
+{"index": 247314, "D": "to give (a person or thing) a title, right, or claim to something; furnish with grounds for laying claim", "S": [], "A": []}

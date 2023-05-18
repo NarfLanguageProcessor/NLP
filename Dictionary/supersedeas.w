@@ -1,0 +1,1 @@
+{"index": 312592, "D": "a writ ordering a stoppage or suspension of a judicial proceeding, of the execution of a judgment, or of the enforcement of another writ.", "S": [], "A": []}

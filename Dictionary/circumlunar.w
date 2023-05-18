@@ -1,0 +1,1 @@
+{"index": 58163, "D": "rotating about or surrounding the moon.", "S": [], "A": []}

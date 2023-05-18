@@ -1,0 +1,1 @@
+{"index": 82308, "D": "tending to lessen the merit or reputation of a person or thing; disparaging; depreciatory", "S": ["defamatory ", "degrading ", "demeaning ", "disparaging ", "sarcastic ", "slanderous ", "unflattering "], "A": ["complimentary "]}

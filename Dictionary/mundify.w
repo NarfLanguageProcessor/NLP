@@ -1,0 +1,1 @@
+{"index": 195542, "D": "to cleanse; deterge", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294592, "D": "to drop or fall heavily; collapse", "S": ["collapse ", "crash ", "depreciation ", "dip ", "downtrend ", "downturn ", "drop ", "fall ", "low ", "recession ", "slide ", "stagnation "], "A": ["ascent ", "increase ", "rise ", "blessing ", "boon ", "happiness ", "success "]}

@@ -1,0 +1,1 @@
+{"index": 339107, "D": "Compare overdraft (def. 7). ", "S": [], "A": []}

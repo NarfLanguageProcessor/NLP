@@ -1,0 +1,1 @@
+{"index": 123039, "D": "a mechanism or group of parts performing one function or serving one purpose in a complex machine", "S": ["instrument ", "structure ", "system ", "tool "], "A": []}

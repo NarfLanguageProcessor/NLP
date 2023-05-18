@@ -1,0 +1,1 @@
+{"index": 336385, "D": "determinable by calculation;  ascertainable", "S": ["bottomless ", "boundless ", "endless ", "immeasurable ", "immense ", "incomprehensible ", "inexhaustible ", "unending ", "unfathomable ", "unlimited ", "vast "], "A": ["bounded ", "comprehensible ", "ending ", "fathomable ", "finite ", "limited ", "little ", "measurable ", "restricted ", "small "]}

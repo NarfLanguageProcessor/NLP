@@ -1,0 +1,1 @@
+{"index": 329041, "D": "either of a pair of timbers or metal shapes lying along the tops of the hounds or cheeks of a mast to support crosstrees or a top.", "S": [], "A": []}

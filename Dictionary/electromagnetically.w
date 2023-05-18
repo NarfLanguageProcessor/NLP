@@ -1,0 +1,1 @@
+{"index": 97123, "D": "of or relating to electromagnetism  or electromagnetic fields.", "S": [], "A": []}

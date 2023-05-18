@@ -1,0 +1,1 @@
+{"index": 341202, "D": "in a way that is based on or guided by experience or experiment", "S": [], "A": []}

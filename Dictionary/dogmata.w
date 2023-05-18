@@ -1,0 +1,1 @@
+{"index": 90947, "D": "an official system of principles or tenets concerning faith, morals, behavior, etc., as of a church.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 282592, "D": "pertaining to, dependent on, or accompanying the seasons  of the year or some particular season;  periodical", "S": ["always ", "constantly ", "continually ", "daily ", "exactly ", "incessantly ", "normally ", "periodically ", "steadily ", "typically "], "A": ["never "]}

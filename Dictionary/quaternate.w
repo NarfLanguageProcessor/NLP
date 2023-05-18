@@ -1,0 +1,1 @@
+{"index": 258151, "D": "arranged in or consisting of four parts, as the leaves of certain plants.", "S": ["quadruple ", "quadruplicate ", "quaternary ", "tetrad "], "A": []}

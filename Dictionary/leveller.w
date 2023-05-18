@@ -1,0 +1,1 @@
+{"index": 171203, "D": "(during the British Civil War) a member of the Parliamentary army advocating constitutional reforms, equal rights, and religious tolerance.", "S": [], "A": []}

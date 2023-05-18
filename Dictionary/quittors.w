@@ -1,0 +1,1 @@
+{"index": 259048, "D": "purulent infection of horses and other hoofed animals, characterized by chronic inflammation of the lateral cartilage of the foot and formation of fistulas that open above the coronet, usually resulting in lameness.", "S": [], "A": []}

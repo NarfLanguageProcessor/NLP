@@ -1,0 +1,1 @@
+{"index": 332120, "D": "any of several burrowing rodents of the genus Ctenomys, of South America, resembling the pocket gopher.", "S": [], "A": []}

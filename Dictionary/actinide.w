@@ -1,0 +1,1 @@
+{"index": 3106, "D": "any element of the actinide series. ", "S": [], "A": []}

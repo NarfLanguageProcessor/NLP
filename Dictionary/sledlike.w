@@ -1,0 +1,1 @@
+{"index": 293864, "D": "a small vehicle consisting of a platform mounted on runners for use in traveling over snow or ice.", "S": [], "A": []}

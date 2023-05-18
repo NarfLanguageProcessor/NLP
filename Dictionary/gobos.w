@@ -1,0 +1,1 @@
+{"index": 127297, "D": "a screen or mat covered with a dark material for shielding a camera lens from excess light or glare.", "S": [], "A": []}

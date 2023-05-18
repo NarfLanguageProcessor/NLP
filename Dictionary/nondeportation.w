@@ -1,0 +1,1 @@
+{"index": 202914, "D": "the lawful expulsion of an alien or other person from a country.", "S": [], "A": []}

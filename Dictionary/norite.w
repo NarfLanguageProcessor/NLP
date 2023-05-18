@@ -1,0 +1,1 @@
+{"index": 208521, "D": "a granular igneous rock consisting of a mix of light and dark minerals, the former being calcic plagioclase feldspars, and the latter orthorhombic pyroxenes.", "S": [], "A": []}

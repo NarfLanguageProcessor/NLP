@@ -1,0 +1,1 @@
+{"index": 79371, "D": "curved or bent downward.", "S": ["avert ", "bend ", "cover up ", "divert ", "hook ", "pivot ", "ricochet ", "slip ", "swerve ", "veer ", "whip "], "A": ["stay ", "straighten "]}

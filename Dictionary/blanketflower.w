@@ -1,0 +1,1 @@
+{"index": 35721, "D": "any composite plant of the genus Gaillardia, having showy heads of yellow or red flowers. ", "S": [], "A": []}

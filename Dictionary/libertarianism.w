@@ -1,0 +1,1 @@
+{"index": 171517, "D": "a person who advocates liberty,  especially with regard to thought or conduct.", "S": [], "A": []}

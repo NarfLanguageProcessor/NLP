@@ -1,0 +1,1 @@
+{"index": 235600, "D": "an ancient country in central and NW Asia Minor.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 7580, "D": "a variant spelling of alkahest", "S": [], "A": []}

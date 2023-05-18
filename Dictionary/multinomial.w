@@ -1,0 +1,1 @@
+{"index": 195212, "D": "polynomial (def. 2c). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 160287, "D": "a type of sedan chair used in India", "S": [], "A": []}

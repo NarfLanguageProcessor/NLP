@@ -1,0 +1,1 @@
+{"index": 60312, "D": "loutish; boorish.", "S": ["barbaric ", "churlish ", "coarse ", "impolite ", "rude ", "tasteless ", "uncivilized ", "vulgar "], "A": ["delicate ", "gentle ", "kind ", "mannerly ", "nice ", "pleasant ", "polished ", "polite ", "refined ", "smooth ", "sophisticated "]}

@@ -1,0 +1,1 @@
+{"index": 140710, "D": "characterizing a state that resembles mild hypnosis  but that is usually induced by other than hypnotic means.", "S": [], "A": []}

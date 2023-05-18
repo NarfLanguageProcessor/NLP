@@ -1,0 +1,1 @@
+{"index": 232250, "D": "a coin and monetary unit of Chile, Colombia, Cuba, the Dominican Republic, Guinea-Bissau, Mexico, and the Philippines, equal to 100 centavos.", "S": ["bread ", "cabbage ", "lettuce "], "A": []}

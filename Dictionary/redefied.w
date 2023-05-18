@@ -1,0 +1,1 @@
+{"index": 264006, "D": "to challenge the power of; resist boldly or openly", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 254820, "D": "a person exhibiting intellectual  pretensions that have no basis in sound scholarship.", "S": [], "A": []}

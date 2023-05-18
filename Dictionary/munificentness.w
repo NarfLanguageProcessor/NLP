@@ -1,0 +1,1 @@
+{"index": 195597, "D": "the quality of being munificent,  or showing unusual generosity", "S": [], "A": []}

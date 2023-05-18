@@ -1,0 +1,1 @@
+{"index": 123171, "D": "a large baboonlike cliff-dwelling monkey, Theropithecus gelada, native to mountains of Ethiopia, having a brown coat and, in the male, a luxuriant mane", "S": [], "A": []}

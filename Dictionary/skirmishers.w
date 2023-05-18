@@ -1,0 +1,1 @@
+{"index": 293336, "D": "a fight between small bodies of troops, especially advanced or outlying detachments of opposing armies.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 120001, "D": "offensive to good taste, especially as being excessive; overdone or gross", "S": ["exuberance ", "glut ", "overkill ", "surplus ", "waste "], "A": ["insufficiency ", "lack ", "need ", "want ", "base ", "core ", "few ", "little ", "scarcity "]}

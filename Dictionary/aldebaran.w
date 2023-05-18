@@ -1,0 +1,1 @@
+{"index": 7734, "D": "a first-magnitude star, orange in color, in the constellation Taurus.", "S": [], "A": []}

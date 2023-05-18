@@ -1,0 +1,1 @@
+{"index": 237729, "D": "a very common brass-yellow mineral, iron disulfide, FeS2, with a metallic luster, burned to sulfur dioxide in the manufacture of sulfuric acid", "S": [], "A": []}

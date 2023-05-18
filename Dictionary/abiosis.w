@@ -1,0 +1,1 @@
+{"index": 464, "D": "the absence or lack of life; a nonviable state.", "S": [], "A": []}

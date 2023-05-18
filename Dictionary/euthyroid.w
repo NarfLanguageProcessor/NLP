@@ -1,0 +1,1 @@
+{"index": 105900, "D": "showing normal function of the thyroid gland. ", "S": [], "A": []}

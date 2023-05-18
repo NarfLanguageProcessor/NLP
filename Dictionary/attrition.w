@@ -1,0 +1,1 @@
+{"index": 23182, "D": "a reduction or decrease in numbers, size, or strength", "S": ["erosion "], "A": ["building ", "happiness ", "strengthening "]}

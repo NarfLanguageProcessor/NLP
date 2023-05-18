@@ -1,0 +1,1 @@
+{"index": 132293, "D": "an oblong cloth used as an outer garment by the Arabs.", "S": [], "A": []}

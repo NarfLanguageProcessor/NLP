@@ -1,0 +1,1 @@
+{"index": 134702, "D": "a scarf for the head, often worn tied under the chin", "S": [], "A": []}

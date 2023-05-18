@@ -1,0 +1,1 @@
+{"index": 311092, "D": "any of several small, carnivorous bog plants of the genus Drosera, having sticky hairs that trap insects.", "S": [], "A": []}

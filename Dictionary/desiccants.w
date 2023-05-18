@@ -1,0 +1,1 @@
+{"index": 82546, "D": "desiccating  or drying, as a medicine.", "S": [], "A": []}

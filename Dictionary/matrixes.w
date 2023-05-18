@@ -1,0 +1,1 @@
+{"index": 181271, "D": "something that constitutes the place or point from which something else originates, takes form, or develops", "S": [], "A": []}

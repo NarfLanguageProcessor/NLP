@@ -1,0 +1,1 @@
+{"index": 126336, "D": [], "S": ["bright ", "glistening ", "glittering ", "glowing ", "shining ", "sparkling "], "A": ["dark ", "dull ", "gloomy ", "unhappy "]}

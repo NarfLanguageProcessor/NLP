@@ -1,0 +1,1 @@
+{"index": 341518, "D": "displaying or evincing a feeling of alienation; alienated", "S": [], "A": []}

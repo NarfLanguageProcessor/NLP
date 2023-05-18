@@ -1,0 +1,1 @@
+{"index": 131090, "D": "an ornamental pattern or border, as in architecture, consisting of paired ribbons or lines flowing in interlaced curves around a series of circular voids.", "S": [], "A": []}

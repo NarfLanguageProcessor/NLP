@@ -1,0 +1,1 @@
+{"index": 126010, "D": "a mineral, sodium calcium sulfate, Na2Ca(SO4)2, often found as a deposit on the beds of salt lakes.", "S": [], "A": []}

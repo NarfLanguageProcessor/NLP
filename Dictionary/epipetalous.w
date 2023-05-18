@@ -1,0 +1,1 @@
+{"index": 102652, "D": "(of a flower) having the stamens attached to the petals.", "S": [], "A": []}

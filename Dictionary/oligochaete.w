@@ -1,0 +1,1 @@
+{"index": 212171, "D": "any of various annelids of the family Oligochaeta, including earthworms and certain small, freshwater species, having locomotory setae sunk directly in the body wall.", "S": [], "A": []}

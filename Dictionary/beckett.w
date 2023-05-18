@@ -1,0 +1,1 @@
+{"index": 29825, "D": "Irish playwright and novelist, living in France", "S": [], "A": []}

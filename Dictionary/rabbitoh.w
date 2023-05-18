@@ -1,0 +1,1 @@
+{"index": 259251, "D": "(formerly) an itinerant seller of rabbits for eating", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49360, "D": "degeneration of a cell or tissue.", "S": [], "A": []}

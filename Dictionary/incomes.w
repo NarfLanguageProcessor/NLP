@@ -1,0 +1,1 @@
+{"index": 150048, "D": "revenue received for goods or services, or from other sources, as rents or investments", "S": ["cash ", "compensation ", "earnings ", "interest ", "livelihood ", "pay ", "proceeds ", "profit ", "revenue ", "royalty ", "salary ", "wage "], "A": ["debt ", "loss "]}

@@ -1,0 +1,1 @@
+{"index": 168935, "D": "the act or process of applying lath. ", "S": ["construct ", "enclose ", "erect ", "fabricate ", "mold "], "A": ["break ", "demolish ", "destroy ", "dismantle ", "raze ", "ruin "]}

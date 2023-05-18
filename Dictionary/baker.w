@@ -1,0 +1,1 @@
+{"index": 26600, "D": "a person who bakes. ", "S": ["chef ", "cook "], "A": []}

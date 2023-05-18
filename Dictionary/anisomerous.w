@@ -1,0 +1,1 @@
+{"index": 13325, "D": "Compare isomerous (def. 2)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179096, "D": "French painter.", "S": [], "A": []}

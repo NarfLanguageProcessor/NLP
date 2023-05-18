@@ -1,0 +1,1 @@
+{"index": 276257, "D": "formed into or having a saccule, sac, or saclike dilation.", "S": [], "A": []}

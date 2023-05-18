@@ -1,0 +1,1 @@
+{"index": 142545, "D": "(of an animal) completing its life cycle in the ocean depths", "S": [], "A": []}

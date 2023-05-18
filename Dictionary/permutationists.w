@@ -1,0 +1,1 @@
+{"index": 231648, "D": "the act of permuting or permutating; alteration; transformation.", "S": [], "A": []}

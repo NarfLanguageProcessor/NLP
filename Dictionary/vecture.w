@@ -1,0 +1,1 @@
+{"index": 357629, "D": "a token used to pay transportation fares.", "S": [], "A": []}

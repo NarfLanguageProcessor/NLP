@@ -1,0 +1,1 @@
+{"index": 9730, "D": "(in medieval literature) a knight-errant, model of the chivalric hero.", "S": [], "A": []}

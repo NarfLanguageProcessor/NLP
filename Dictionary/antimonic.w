@@ -1,0 +1,1 @@
+{"index": 15622, "D": "of or containing antimony,  especially in the pentavalent state.", "S": [], "A": []}

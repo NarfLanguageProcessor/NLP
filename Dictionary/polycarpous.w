@@ -1,0 +1,1 @@
+{"index": 241678, "D": "(of a plant) having a gynoecium consisting of many distinct carpels", "S": [], "A": []}

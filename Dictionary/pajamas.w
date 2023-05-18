@@ -1,0 +1,1 @@
+{"index": 223252, "D": "clothing for wearing in bed, consisting of usually loose-fitting pants or shorts and matching top", "S": ["PJ's ", "jammies ", "jams ", "loungewear ", "nightdress ", "nightie ", "nightshirt ", "nightwear ", "sleeper "], "A": []}

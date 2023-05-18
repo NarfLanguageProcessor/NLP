@@ -1,0 +1,1 @@
+{"index": 100794, "D": "any metallic derivative of an enol. ", "S": [], "A": []}

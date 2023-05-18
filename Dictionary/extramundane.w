@@ -1,0 +1,1 @@
+{"index": 108546, "D": "beyond our world or the material universe.", "S": ["extrasensory ", "metaphysical ", "mystic ", "otherworldly ", "paranormal ", "preternatural ", "superphysical ", "transcendental ", "unearthly "], "A": []}

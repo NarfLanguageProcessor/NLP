@@ -1,0 +1,1 @@
+{"index": 102008, "D": "a repetition of a word or a phrase with intervening words setting off the repetition, sometimes occurring with a phrase used both at the beginning and end of a sentence, as in Only a fool would trust a stranger with his money; only a fool.", "S": [], "A": []}

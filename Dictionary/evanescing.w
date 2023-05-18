@@ -1,0 +1,1 @@
+{"index": 105977, "D": "to disappear gradually; vanish; fade away.", "S": ["disappear ", "evaporate ", "vanish "], "A": ["appear ", "arrive "]}

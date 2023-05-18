@@ -1,0 +1,1 @@
+{"index": 66677, "D": "being in conformity with one's conscience; just.", "S": ["honest ", "honorable ", "principled ", "responsible ", "scrupulous ", "strict "], "A": ["untrustworthy "]}

@@ -1,0 +1,1 @@
+{"index": 259492, "D": "a person who operates or helps to operate radar  equipment.", "S": [], "A": []}

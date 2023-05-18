@@ -1,0 +1,1 @@
+{"index": 142861, "D": "a person who owns a home. ", "S": ["landlord ", "mortgagee ", "owner "], "A": ["renter "]}

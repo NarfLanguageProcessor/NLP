@@ -1,0 +1,1 @@
+{"index": 344612, "D": "to introduce something new; make changes in anything established.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146181, "D": "a picture, image, or other representation.", "S": ["figure ", "idol ", "picture ", "portrait ", "symbol "], "A": []}

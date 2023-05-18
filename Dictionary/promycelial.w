@@ -1,0 +1,1 @@
+{"index": 252250, "D": "a short filament produced in the germination of a spore that bears small spores and then dies.", "S": [], "A": []}

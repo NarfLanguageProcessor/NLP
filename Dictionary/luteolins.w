@@ -1,0 +1,1 @@
+{"index": 176483, "D": "a yellow coloring substance, C15H10O6, obtained from the weed Reseda luteola", "S": [], "A": []}

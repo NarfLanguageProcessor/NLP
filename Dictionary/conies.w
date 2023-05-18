@@ -1,0 +1,1 @@
+{"index": 66329, "D": "the fur of a rabbit, especially when dyed to simulate Hudson seal.", "S": ["bunny ", "hare ", "rodent "], "A": []}

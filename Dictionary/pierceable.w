@@ -1,0 +1,1 @@
+{"index": 236245, "D": "to penetrate into or run through (something), as a sharp, pointed dagger, object, or instrument does.", "S": [], "A": []}

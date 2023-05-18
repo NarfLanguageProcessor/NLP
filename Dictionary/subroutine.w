@@ -1,0 +1,1 @@
+{"index": 309027, "D": "Compare procedure (def. 4a). ", "S": [], "A": []}

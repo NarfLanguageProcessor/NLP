@@ -1,0 +1,1 @@
+{"index": 66839, "D": "a person or company that consigns  goods, merchandise, etc.", "S": [], "A": []}

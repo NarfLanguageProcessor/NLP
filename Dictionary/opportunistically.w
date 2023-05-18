@@ -1,0 +1,1 @@
+{"index": 213667, "D": "adhering to a policy of opportunism; practicing opportunism.", "S": [], "A": []}

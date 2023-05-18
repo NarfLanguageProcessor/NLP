@@ -1,0 +1,1 @@
+{"index": 287039, "D": "a rough cabin; shanty.", "S": ["cabin ", "cottage ", "hut ", "lean-to ", "shed ", "shelter "], "A": []}

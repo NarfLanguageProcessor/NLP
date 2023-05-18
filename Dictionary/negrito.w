@@ -1,0 +1,1 @@
+{"index": 198097, "D": "a member of any of various Indigenous peoples of Africa, the Philippines, the Malay Peninsula, the Andaman Islands, and southern India.", "S": [], "A": []}

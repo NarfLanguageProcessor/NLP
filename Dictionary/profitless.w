@@ -1,0 +1,1 @@
+{"index": 251776, "D": "returns, proceeds, or revenue, as from property or investments.", "S": ["flat "], "A": ["developing ", "fecund ", "fertile ", "filled ", "full ", "growing ", "productive ", "profitable ", "useful "]}

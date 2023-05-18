@@ -1,0 +1,1 @@
+{"index": 290461, "D": "to form or divide into syllables. ", "S": ["accent ", "diction ", "utterance "], "A": []}

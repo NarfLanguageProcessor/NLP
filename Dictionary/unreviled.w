@@ -1,0 +1,1 @@
+{"index": 349884, "D": "addressed or spoken of with contemptuous or abusive language", "S": [], "A": []}

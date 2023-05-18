@@ -1,0 +1,1 @@
+{"index": 73036, "D": "to shrink back, bend, or crouch, especially in fear, pain, or servility; cower", "S": ["crouching "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 96297, "D": "any of several usually white herons that grow long, graceful plumes during the breeding season, as Egretta garzetta(little egret ), of the Old World.", "S": [], "A": []}

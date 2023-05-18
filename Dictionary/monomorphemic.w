@@ -1,0 +1,1 @@
+{"index": 192450, "D": "containing only one morpheme, as the words wait and gorilla.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 51014, "D": "of, relating to, or designating a rock formation in which the strata slope down and in towards a central point or area", "S": [], "A": []}

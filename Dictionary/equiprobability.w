@@ -1,0 +1,1 @@
+{"index": 103367, "D": "equal in probability.", "S": [], "A": []}

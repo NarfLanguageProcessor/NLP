@@ -1,0 +1,1 @@
+{"index": 211935, "D": "a woman who gathers, cultivates, or sells oysters. ", "S": [], "A": []}

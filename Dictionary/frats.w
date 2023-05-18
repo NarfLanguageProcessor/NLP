@@ -1,0 +1,1 @@
+{"index": 118482, "D": "fraternity (def. 1). ", "S": ["camaraderie ", "guild ", "sorority "], "A": ["sisterhood ", "sorority "]}

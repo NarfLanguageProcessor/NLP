@@ -1,0 +1,1 @@
+{"index": 350361, "D": "to supply with anything to excess, so as to disgust or weary; surfeit.", "S": [], "A": []}

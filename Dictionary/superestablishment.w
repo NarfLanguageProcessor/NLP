@@ -1,0 +1,1 @@
+{"index": 311765, "D": "the act or an instance of establishing. ", "S": [], "A": []}

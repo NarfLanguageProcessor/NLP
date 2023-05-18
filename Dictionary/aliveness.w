@@ -1,0 +1,1 @@
+{"index": 8377, "D": "having life; living;  existing; not dead or lifeless.", "S": ["alertness ", "appreciation ", "attention ", "consciousness ", "experience ", "information ", "perception ", "realization ", "recognition ", "understanding "], "A": ["disregard ", "ignorance ", "neglect ", "misunderstanding ", "unfamiliarity "]}

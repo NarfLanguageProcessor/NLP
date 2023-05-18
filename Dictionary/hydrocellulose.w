@@ -1,0 +1,1 @@
+{"index": 138546, "D": "a gelatinous substance obtained by the partial hydrolysis of cellulose,  used chiefly in the manufacture of paper, mercerized cotton, and viscose rayon.", "S": [], "A": []}

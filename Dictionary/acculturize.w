@@ -1,0 +1,1 @@
+{"index": 1811, "D": "to cause (a nation, tribe, or other ethnic group) to adopt the culture of another people.", "S": [], "A": []}

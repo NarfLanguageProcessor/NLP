@@ -1,0 +1,1 @@
+{"index": 43238, "D": "a long circular cloak with a hood attached, worn esp by Arabs", "S": [], "A": []}

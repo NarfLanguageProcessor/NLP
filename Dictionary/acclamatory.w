@@ -1,0 +1,1 @@
+{"index": 1589, "D": "a loud shout or other demonstration of welcome, goodwill, or approval.", "S": ["admiring ", "approbatory ", "approving ", "commendatory ", "congratulatory ", "extolling ", "laudatory ", "praising "], "A": []}

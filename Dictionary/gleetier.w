@@ -1,0 +1,1 @@
+{"index": 126135, "D": "characteristic of or resembling gleet. ", "S": [], "A": []}

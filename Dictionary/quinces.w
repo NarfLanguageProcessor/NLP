@@ -1,0 +1,1 @@
+{"index": 258671, "D": "either of two small trees, Cydonia oblonga or C. sinensis, of the rose family, bearing hard, fragrant, yellowish fruit used chiefly for making jelly or preserves.", "S": [], "A": []}

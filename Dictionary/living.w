@@ -1,0 +1,1 @@
+{"index": 174005, "D": "having life; being alive; not dead", "S": ["breathing ", "contemporary "], "A": ["apathetic ", "asleep ", "inactive ", "lethargic ", "sluggish "]}

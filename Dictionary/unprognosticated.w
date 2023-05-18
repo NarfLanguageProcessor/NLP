@@ -1,0 +1,1 @@
+{"index": 348580, "D": "to forecast or predict (something future) from present indications or signs; prophesy.", "S": [], "A": []}

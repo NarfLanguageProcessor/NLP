@@ -1,0 +1,1 @@
+{"index": 257954, "D": "(of a variable quantity) restricted to or expressed in discrete values rather than a continuous set of values", "S": [], "A": []}

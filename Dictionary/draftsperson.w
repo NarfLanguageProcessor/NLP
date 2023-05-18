@@ -1,0 +1,1 @@
+{"index": 92515, "D": "a person employed in making mechanical drawings, especially in an architectural or engineering firm.", "S": ["artist ", "builder ", "creator ", "designer ", "engineer ", "inventor ", "planner "], "A": []}

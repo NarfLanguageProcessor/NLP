@@ -1,0 +1,1 @@
+{"index": 199738, "D": "a variant of nictate. ", "S": ["bat ", "flash ", "flicker ", "flutter ", "glimmer ", "glitter ", "nictate ", "scintillate ", "shimmer ", "sparkle ", "squint ", "twinkle ", "wink "], "A": []}

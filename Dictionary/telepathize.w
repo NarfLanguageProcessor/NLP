@@ -1,0 +1,1 @@
+{"index": 318167, "D": "to communicate with by telepathy. ", "S": [], "A": []}

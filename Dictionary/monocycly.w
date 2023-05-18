@@ -1,0 +1,1 @@
+{"index": 192174, "D": "having one cycle.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 198437, "D": "a tendency to dislike anything new; fear of novelty", "S": [], "A": []}

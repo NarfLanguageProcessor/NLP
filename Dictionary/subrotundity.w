@@ -1,0 +1,1 @@
+{"index": 309023, "D": "the condition or quality of roundness or plumpness, as of an object or person.", "S": [], "A": []}

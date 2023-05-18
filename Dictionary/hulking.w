@@ -1,0 +1,1 @@
+{"index": 144801, "D": "heavy and clumsy; bulky.", "S": ["bulky ", "gargantuan ", "gigantic ", "imposing ", "lumbering ", "mammoth ", "towering "], "A": ["dwarfed ", "little ", "miniature ", "miniscule ", "small ", "tiny "]}

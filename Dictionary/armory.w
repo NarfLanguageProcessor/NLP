@@ -1,0 +1,1 @@
+{"index": 19984, "D": "a storage place for weapons and other war equipment.", "S": ["depot ", "headquarters "], "A": []}

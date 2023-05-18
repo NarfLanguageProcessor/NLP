@@ -1,0 +1,1 @@
+{"index": 167759, "D": "Compare fluorescent lamp, incandescent lamp. ", "S": ["flashlight ", "light "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 202258, "D": "the act of confederating. ", "S": [], "A": []}

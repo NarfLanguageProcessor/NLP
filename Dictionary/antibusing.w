@@ -1,0 +1,1 @@
+{"index": 14814, "D": "opposing legislation that requires the busing  of students to schools outside their neighborhoods, especially as a means of achieving socioeconomic or racial diversity among students in a public school.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173871, "D": "of, relating to, or covered with litter;  untidy.", "S": [], "A": []}

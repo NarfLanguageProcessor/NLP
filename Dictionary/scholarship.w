@@ -1,0 +1,1 @@
+{"index": 280401, "D": "learning; knowledge acquired by study; the academic attainments of a scholar. ", "S": ["education ", "expertise ", "schooling "], "A": ["ignorance ", "inability ", "misunderstanding ", "stupidity "]}

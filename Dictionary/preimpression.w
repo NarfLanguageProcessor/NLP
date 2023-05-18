@@ -1,0 +1,1 @@
+{"index": 247901, "D": "a strong effect produced on the intellect, feelings, conscience, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352106, "D": "affected, characterized by, or subject to storms;  tempestuous", "S": [], "A": []}

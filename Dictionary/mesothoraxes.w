@@ -1,0 +1,1 @@
+{"index": 184423, "D": "the middle segment of the three divisions of the thorax  of an insect, bearing the second pair of legs and the first pair of wings.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 209573, "D": "the study of numbers, as the figures designating the year of one's birth, to determine their supposed influence on one's life, future, etc.", "S": [], "A": []}

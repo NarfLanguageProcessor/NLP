@@ -1,0 +1,1 @@
+{"index": 41827, "D": "a refusal to talk or listen to someone; abrupt or final dismissal or rebuff.", "S": ["rebuke ", "rejection ", "reprimand ", "snub "], "A": ["praise ", "approval ", "compliment "]}

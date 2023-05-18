@@ -1,0 +1,1 @@
+{"index": 1459, "D": "of or relating to accent  or stress.", "S": [], "A": []}

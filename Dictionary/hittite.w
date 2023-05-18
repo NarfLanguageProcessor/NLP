@@ -1,0 +1,1 @@
+{"index": 141993, "D": "a member of an ancient people who established a powerful empire in Asia Minor and Syria, dominant from about 1900 to 1200 b.c.", "S": [], "A": []}

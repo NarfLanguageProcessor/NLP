@@ -1,0 +1,1 @@
+{"index": 94478, "D": "a device for measuring the hardness of materials, especially metals.", "S": [], "A": []}

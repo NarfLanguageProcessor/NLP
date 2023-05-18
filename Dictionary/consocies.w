@@ -1,0 +1,1 @@
+{"index": 66876, "D": "a natural community with a single dominant species", "S": [], "A": []}

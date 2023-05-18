@@ -1,0 +1,1 @@
+{"index": 23184, "D": "a reduction or decrease in numbers, size, or strength", "S": ["abrading ", "abrasive ", "rasping ", "rough "], "A": ["smooth "]}

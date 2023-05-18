@@ -1,0 +1,1 @@
+{"index": 10371, "D": "having or showing pleasant, good-natured personal qualities; affable", "S": ["affability ", "agreeability ", "agreeableness ", "amenity ", "bonhomie ", "congeniality ", "congenialness ", "cordiality ", "friendliness ", "good-naturedness ", "pleasantness ", "sociableness ", "sweetness ", "warmth "], "A": ["aloofness "]}

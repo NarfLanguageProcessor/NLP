@@ -1,0 +1,1 @@
+{"index": 256237, "D": "whining; whimpering", "S": ["cry ", "repine ", "snivel ", "weep ", "whimper ", "whine "], "A": []}

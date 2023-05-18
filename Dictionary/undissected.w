@@ -1,0 +1,1 @@
+{"index": 340598, "D": "deeply divided into numerous segments, as a leaf.", "S": [], "A": []}

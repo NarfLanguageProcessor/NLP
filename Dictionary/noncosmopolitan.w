@@ -1,0 +1,1 @@
+{"index": 202567, "D": "free from local, provincial, or national ideas, prejudices, or attachments; at home all over the world.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 196678, "D": "a conventional Hindu expression on meeting or parting, used by the speaker usually while holding the palms together vertically in front of the bosom.", "S": [], "A": []}

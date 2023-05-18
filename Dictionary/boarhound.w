@@ -1,0 +1,1 @@
+{"index": 36955, "D": "any of various large dogs, especially a Great Dane, used originally for hunting wild boars. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 4406, "D": "a combining form representing adrenal  or adrenaline  in compound words", "S": [], "A": []}

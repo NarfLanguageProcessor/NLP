@@ -1,0 +1,1 @@
+{"index": 341138, "D": "not constrained or restricted by custom, tradition, superstition, etc.", "S": [], "A": []}

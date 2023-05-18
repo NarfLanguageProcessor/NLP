@@ -1,0 +1,1 @@
+{"index": 225673, "D": "any of various speech disorders, esp the production of a sound different from that intended", "S": [], "A": []}

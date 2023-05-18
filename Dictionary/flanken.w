@@ -1,0 +1,1 @@
+{"index": 113940, "D": "a strip of meat  from the front end of the short ribs of beef.", "S": [], "A": []}

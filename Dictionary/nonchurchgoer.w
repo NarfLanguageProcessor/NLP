@@ -1,0 +1,1 @@
+{"index": 201931, "D": "a person who goes  to church,  especially habitually.", "S": [], "A": []}

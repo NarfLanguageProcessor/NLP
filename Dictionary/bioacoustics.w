@@ -1,0 +1,1 @@
+{"index": 34272, "D": "the science of sounds produced by or affecting living organisms, as for communication or echolocation.", "S": [], "A": []}

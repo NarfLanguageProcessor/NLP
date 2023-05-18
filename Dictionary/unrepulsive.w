@@ -1,0 +1,1 @@
+{"index": 349654, "D": "causing repugnance or aversion", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134084, "D": "of or relating to Hasidism,  a Jewish sect founded in Poland in the 18th century", "S": ["Hebrew ", "Judaistic ", "Semitic "], "A": []}

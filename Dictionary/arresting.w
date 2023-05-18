@@ -1,0 +1,1 @@
+{"index": 20214, "D": "attracting or capable of attracting attention or interest; striking", "S": ["extraordinary ", "eye-catching ", "impressive ", "remarkable ", "salient ", "striking ", "stunning "], "A": ["homely ", "normal ", "ordinary ", "ugly ", "unimportant ", "unimpressive ", "usual "]}

@@ -1,0 +1,1 @@
+{"index": 134626, "D": "something that serves as a head,  top, or front.", "S": ["caption ", "description ", "descriptor ", "headline ", "label ", "legend ", "lemma ", "rubric "], "A": []}

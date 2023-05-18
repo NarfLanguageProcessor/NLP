@@ -1,0 +1,1 @@
+{"index": 218409, "D": "to brake  (a wheel, vehicle, etc.) excessively.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 168230, "D": "any element of the lanthanide series.", "S": [], "A": []}

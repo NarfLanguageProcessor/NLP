@@ -1,0 +1,1 @@
+{"index": 80057, "D": [], "S": ["negotiation ", "politics "], "A": ["ignorance "]}

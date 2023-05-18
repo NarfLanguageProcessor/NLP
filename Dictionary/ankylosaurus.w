@@ -1,0 +1,1 @@
+{"index": 13417, "D": "A large, herbivorous dinosaur of the genus Ankylosaurus of the Cretaceous Period. Ankylosaurs had a squat, heavily armored body and a clubbed tail.", "S": [], "A": []}

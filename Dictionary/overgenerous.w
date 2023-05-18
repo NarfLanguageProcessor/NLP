@@ -1,0 +1,1 @@
+{"index": 219509, "D": "excessively willing and liberal in giving away one's time, money, etc", "S": ["careless ", "destructive ", "extravagant ", "lavish ", "profligate ", "reckless "], "A": ["careful ", "cautious ", "economical ", "saving "]}

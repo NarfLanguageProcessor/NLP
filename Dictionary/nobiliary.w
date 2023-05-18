@@ -1,0 +1,1 @@
+{"index": 200559, "D": "of or relating to the nobility.", "S": [], "A": []}

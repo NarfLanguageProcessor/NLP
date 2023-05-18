@@ -1,0 +1,1 @@
+{"index": 357230, "D": "an act of variegating. ", "S": ["diversification ", "rainbow ", "spectrum "], "A": []}

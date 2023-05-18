@@ -1,0 +1,1 @@
+{"index": 19372, "D": "the description of the physical features, such as the surface, atmosphere, etc, of the planet Mars", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 305701, "D": "to draw tight or taut, especially to the utmost tension; stretch to the full", "S": [], "A": []}

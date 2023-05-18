@@ -1,0 +1,1 @@
+{"index": 174931, "D": "a moist Cheddar of cylindrical shape, weighing about 12 pounds (5.4 kilograms).", "S": ["herd ", "oxen "], "A": []}

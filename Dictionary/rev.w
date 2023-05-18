@@ -1,0 +1,1 @@
+{"index": 271061, "D": "a revolution  (in an engine or the like).", "S": ["advance ", "expedite ", "further ", "hasten ", "open up ", "quicken ", "spur ", "step up ", "stimulate "], "A": ["block ", "cease ", "check ", "delay ", "discourage ", "halt ", "hinder ", "slow ", "stop ", "dissuade ", "repress ", "wait "]}

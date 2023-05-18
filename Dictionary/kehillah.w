@@ -1,0 +1,1 @@
+{"index": 163633, "D": "the organization of the Jewish population of a community that deals with charities and other communal affairs.", "S": [], "A": []}

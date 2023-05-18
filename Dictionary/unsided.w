@@ -1,0 +1,1 @@
+{"index": 351100, "D": "having a specified number or kind of sides  (often used in combination)", "S": [], "A": []}

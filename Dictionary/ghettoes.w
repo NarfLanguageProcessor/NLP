@@ -1,0 +1,1 @@
+{"index": 124534, "D": "a section of a city, especially a thickly populated slum area, inhabited predominantly by members of an ethnic or other minority group, often as a result of social pressures or economic hardships.", "S": [], "A": []}

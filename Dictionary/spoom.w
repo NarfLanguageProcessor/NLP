@@ -1,0 +1,1 @@
+{"index": 300868, "D": "a kind of sherbet made from fruit juice or wine, mixed after freezing with uncooked meringue.", "S": [], "A": []}

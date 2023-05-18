@@ -1,0 +1,1 @@
+{"index": 6290, "D": "a relative whose connection is traceable exclusively through males.", "S": ["aunt ", "cousin ", "father ", "folk ", "mother ", "niece ", "sibling ", "uncle "], "A": []}

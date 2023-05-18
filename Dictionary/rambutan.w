@@ -1,0 +1,1 @@
+{"index": 260272, "D": "the bright-red oval fruit of a Malayan, sapindaceous tree, Nephelium lappaceum, covered with soft spines, or hairs, and having a subacid taste.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173095, "D": "a wide bay of the Mediterranean off the coast of S France.", "S": ["cat ", "cougar ", "wildcat "], "A": []}

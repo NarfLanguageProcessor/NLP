@@ -1,0 +1,1 @@
+{"index": 181807, "D": "the act of measuring. ", "S": ["amount ", "analysis ", "appraisal ", "assessment ", "density ", "dimension ", "evaluation ", "frequency ", "height ", "measure ", "size ", "survey ", "weight "], "A": ["ignorance ", "unimportance "]}

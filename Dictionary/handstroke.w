@@ -1,0 +1,1 @@
+{"index": 133300, "D": "Compare backstroke (def. 4)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 310190, "D": "to overspread with or as with a liquid, color, etc.", "S": ["concoction ", "dilution ", "infusion ", "mixture ", "preparation ", "solution ", "suspension "], "A": []}

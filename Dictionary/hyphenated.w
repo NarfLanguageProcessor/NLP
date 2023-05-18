@@ -1,0 +1,1 @@
+{"index": 140645, "D": "of, relating to, or designating a person, group, or organization of mixed origin or identity", "S": [], "A": []}

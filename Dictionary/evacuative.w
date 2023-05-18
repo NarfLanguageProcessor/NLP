@@ -1,0 +1,1 @@
+{"index": 105933, "D": "the act or process of evacuating,  or the condition of being evacuated;  discharge or expulsion, as of contents.", "S": ["aperient ", "cathartic ", "cathartical ", "eliminatory ", "evacuant ", "laxative ", "purgative "], "A": []}

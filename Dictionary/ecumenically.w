@@ -1,0 +1,1 @@
+{"index": 95621, "D": "general; universal.", "S": [], "A": []}

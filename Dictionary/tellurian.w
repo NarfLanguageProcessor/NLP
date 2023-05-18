@@ -1,0 +1,1 @@
+{"index": 318389, "D": "of or characteristic of the earth or its inhabitants; terrestrial. ", "S": ["human ", "material ", "mortal ", "secular ", "telluric ", "temporal ", "terrene ", "terrestrial "], "A": ["immortal ", "inhuman ", "mental ", "otherworldly ", "permanent ", "spiritual "]}

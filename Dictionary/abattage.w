@@ -1,0 +1,1 @@
+{"index": 163, "D": "the slaughter of animals, especially the slaughter of diseased animals to prevent the infection of others.", "S": [], "A": []}

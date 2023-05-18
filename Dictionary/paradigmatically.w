@@ -1,0 +1,1 @@
+{"index": 225497, "D": "of or relating to a paradigm. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 301298, "D": "a snare for catching small game.", "S": [], "A": []}

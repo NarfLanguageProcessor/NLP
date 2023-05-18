@@ -1,0 +1,1 @@
+{"index": 7544, "D": "any of a class of simple proteins, as keratin, gelatin, or collagen, that are insoluble in all neutral solvents; scleroprotein.", "S": [], "A": []}

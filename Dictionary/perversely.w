@@ -1,0 +1,1 @@
+{"index": 232191, "D": "in a willful manner that goes counter to what is expected or desired; contrarily", "S": ["abnormally ", "peculiarly ", "strangely ", "uncommonly "], "A": ["naturally "]}

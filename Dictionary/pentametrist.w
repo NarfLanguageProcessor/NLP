@@ -1,0 +1,1 @@
+{"index": 229965, "D": "a line of verse consisting of five metrical feet.", "S": [], "A": []}

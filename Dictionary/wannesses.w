@@ -1,0 +1,1 @@
+{"index": 362445, "D": "of an unnatural or sickly pallor; pallid; lacking color", "S": ["colorlessness ", "etiolation ", "pallidity ", "sallowness ", "whiteness "], "A": []}

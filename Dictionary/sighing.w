@@ -1,0 +1,1 @@
+{"index": 289990, "D": "to let out one's breath audibly, as from sorrow, weariness, or relief.", "S": ["cry ", "exhale ", "gasp ", "groan ", "howl ", "moan ", "murmur ", "sob ", "whisper ", "whistle "], "A": ["be happy ", "delight ", "praise "]}

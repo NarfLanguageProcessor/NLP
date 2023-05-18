@@ -1,0 +1,1 @@
+{"index": 345823, "D": "translucent; clear. ", "S": [], "A": []}

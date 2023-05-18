@@ -1,0 +1,1 @@
+{"index": 83820, "D": "dextrorotatory. ", "S": [], "A": []}

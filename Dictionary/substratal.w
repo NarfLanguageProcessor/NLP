@@ -1,0 +1,1 @@
+{"index": 309354, "D": "something that is spread or laid under something else; a stratum  or layer lying under another.", "S": ["elemental ", "essential ", "key ", "main ", "necessary ", "primary ", "primitive ", "underlying ", "vital "], "A": ["auxiliary ", "inessential ", "insignificant ", "minor ", "nonessential ", "secondary ", "unimportant ", "unnecessary ", "extra "]}

@@ -1,0 +1,1 @@
+{"index": 71201, "D": "a weight  used as a counterbalance.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49090, "D": "the act or process of a person or thing that casts. ", "S": ["accomplishment ", "assembling ", "assembly ", "casting ", "completion ", "composing ", "composition ", "construction ", "creation ", "doing ", "erection ", "fabrication ", "finishing ", "forging ", "formation ", "making ", "mass-production ", "preparing ", "produce ", "tooling "], "A": []}

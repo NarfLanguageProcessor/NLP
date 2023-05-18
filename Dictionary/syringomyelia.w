@@ -1,0 +1,1 @@
+{"index": 292384, "D": "a disease of the spinal cord in which the nerve tissue is replaced by a cavity filled with fluid.", "S": [], "A": []}

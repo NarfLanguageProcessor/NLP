@@ -1,0 +1,1 @@
+{"index": 263775, "D": "that recuperates. ", "S": ["adjustable ", "flexible ", "resilient ", "supple "], "A": ["hard ", "inflexible ", "rigid ", "stiff "]}

@@ -1,0 +1,1 @@
+{"index": 211986, "D": "a unit used in meteorology to measure cloud cover, equivalent to a cloud cover of one eighth of the sky", "S": [], "A": []}

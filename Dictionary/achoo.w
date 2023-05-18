@@ -1,0 +1,1 @@
+{"index": 2315, "D": "(used to represent the sound of a person sneezing.)", "S": [], "A": []}

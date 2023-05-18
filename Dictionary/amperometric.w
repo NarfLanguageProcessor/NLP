@@ -1,0 +1,1 @@
+{"index": 11023, "D": "pertaining to or involving the measurement of an electric current.", "S": [], "A": []}

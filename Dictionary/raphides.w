@@ -1,0 +1,1 @@
+{"index": 260715, "D": "acicular crystals, usually composed of calcium oxalate, that occur in bundles in the cells of many plants.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183149, "D": "consisting of, of the nature of, or resembling membrane. ", "S": ["bleary ", "blurred ", "cloudy ", "dim ", "hazy ", "milky ", "misty ", "opalescent ", "opaque ", "pearly "], "A": ["clean ", "clear ", "nontransparent ", "see-through ", "substantial ", "translucent ", "transparent "]}

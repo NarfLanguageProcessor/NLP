@@ -1,0 +1,1 @@
+{"index": 57361, "D": "the strong-scented leaves of the coriander plant, used in salads or to flavor and garnish food. ", "S": [], "A": []}

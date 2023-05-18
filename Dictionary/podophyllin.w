@@ -1,0 +1,1 @@
+{"index": 241078, "D": "a resin, occurring as a light brown to greenish amorphous powder, obtained from podophyllum,  and used in medicine chiefly as a cathartic and, locally, in the treatment of genital warts.", "S": [], "A": []}

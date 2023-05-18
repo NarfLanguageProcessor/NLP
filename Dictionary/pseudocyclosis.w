@@ -1,0 +1,1 @@
+{"index": 254610, "D": "the movement of protoplasm within a cell.", "S": [], "A": []}

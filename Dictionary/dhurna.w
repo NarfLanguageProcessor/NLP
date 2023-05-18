@@ -1,0 +1,1 @@
+{"index": 83950, "D": "(in India) the practice of exacting justice or compliance with a just demand by sitting and fasting at the doorstep of an offender until death or until the demand is granted.", "S": [], "A": []}

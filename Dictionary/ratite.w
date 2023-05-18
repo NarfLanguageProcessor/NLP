@@ -1,0 +1,1 @@
+{"index": 261096, "D": "having a flat, unkeeled sternum, as an ostrich, cassowary, emu, or moa.", "S": [], "A": []}

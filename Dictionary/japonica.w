@@ -1,0 +1,1 @@
+{"index": 160415, "D": "the camellia, Camellia japonica, having waxy flowers in a variety of colors.", "S": [], "A": []}

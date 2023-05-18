@@ -1,0 +1,1 @@
+{"index": 307165, "D": "the quality of being angular. ", "S": [], "A": []}

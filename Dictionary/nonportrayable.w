@@ -1,0 +1,1 @@
+{"index": 206066, "D": "to make a likeness of by drawing, painting, carving, or the like.", "S": [], "A": []}

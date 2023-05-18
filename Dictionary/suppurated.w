@@ -1,0 +1,1 @@
+{"index": 313096, "D": "to produce or discharge pus, as a wound; maturate.", "S": ["decay ", "discharge ", "maturate ", "putrefy "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 64670, "D": "lacking in usual color; wan.", "S": [], "A": []}

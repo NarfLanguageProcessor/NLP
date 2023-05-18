@@ -1,0 +1,1 @@
+{"index": 347477, "D": "to analyze (a sentence) in terms of grammatical constituents, identifying the parts of speech, syntactic relations, etc.", "S": [], "A": []}

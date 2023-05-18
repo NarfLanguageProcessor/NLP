@@ -1,0 +1,1 @@
+{"index": 230334, "D": "to walk through, about, or over; travel through; traverse. ", "S": ["airing ", "amble ", "carriage ", "circuit ", "constitutional ", "gait ", "hike ", "jaunt ", "march ", "meander ", "pace ", "parade ", "peregrination ", "promenade ", "ramble ", "saunter ", "step ", "stretch ", "stride ", "stroll ", "tour ", "tramp ", "tread ", "turn "], "A": ["run "]}

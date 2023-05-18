@@ -1,0 +1,1 @@
+{"index": 206595, "D": "the act of reforming;  state of being reformed. ", "S": [], "A": []}

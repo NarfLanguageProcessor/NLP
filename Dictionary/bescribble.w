@@ -1,0 +1,1 @@
+{"index": 32279, "D": "to scribble  all over (something).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38140, "D": "pertaining to or being a deductive logical system, as Boolean algebra,  used to represent symbolically the relationships between sets, classes, and other entities.", "S": [], "A": []}

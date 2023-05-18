@@ -1,0 +1,1 @@
+{"index": 252608, "D": "a stable, inherited form of bacteriophage in which the genetic material of the virus is integrated into, replicated, and expressed with the genetic material of the bacterial host.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 302079, "D": "to squeeze or squash. ", "S": ["scrunch "], "A": ["lose "]}

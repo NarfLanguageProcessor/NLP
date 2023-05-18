@@ -1,0 +1,1 @@
+{"index": 145861, "D": "a holly shrub or small tree, Ilex vomitoria, of the southern U.S., having bitter leaves that are sometimes brewed as a tea.", "S": [], "A": []}

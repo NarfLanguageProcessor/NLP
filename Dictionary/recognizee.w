@@ -1,0 +1,1 @@
+{"index": 263071, "D": "the person to whom an obligation is owed in a recognizance.", "S": [], "A": []}

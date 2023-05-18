@@ -1,0 +1,1 @@
+{"index": 244536, "D": "Compare devil's advocate (def. 2). ", "S": [], "A": []}

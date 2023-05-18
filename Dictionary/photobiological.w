@@ -1,0 +1,1 @@
+{"index": 234993, "D": "the study of the effects of light on biological systems.", "S": [], "A": []}

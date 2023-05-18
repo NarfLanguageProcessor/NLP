@@ -1,0 +1,1 @@
+{"index": 114032, "D": "pieces of sheet metal or the like used to cover and protect certain joints and angles, as where a roof comes in contact with a wall or chimney, especially against leakage.", "S": ["exhibitionism ", "flashing ", "public indecency "], "A": []}

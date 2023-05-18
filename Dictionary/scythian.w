@@ -1,0 +1,1 @@
+{"index": 280861, "D": "pertaining to Scythia,  its people, or their language.", "S": [], "A": []}

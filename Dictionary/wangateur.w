@@ -1,0 +1,1 @@
+{"index": 362398, "D": [], "S": ["alternative practitioner ", "faith healer ", "healer ", "isangoma ", "medicine man ", "mundunugu ", "obeah doctor ", "priest ", "shaman ", "sorcerer ", "voodoo ", "wizard "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366779, "D": "to wither; shrivel; dry up.", "S": ["dehydrate ", "deplete ", "devitalize ", "divest ", "drain ", "dry ", "evaporate ", "exsiccate ", "parch ", "sear ", "shrivel ", "wither "], "A": ["dampen ", "expand ", "fill ", "grow ", "moisten ", "soak ", "wet "]}

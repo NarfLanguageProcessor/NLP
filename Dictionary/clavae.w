@@ -1,0 +1,1 @@
+{"index": 59517, "D": "the two or more enlarged distal segments that form the bulbous end of a clavate antenna.", "S": [], "A": []}

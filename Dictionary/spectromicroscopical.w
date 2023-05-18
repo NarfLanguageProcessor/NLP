@@ -1,0 +1,1 @@
+{"index": 298923, "D": "a microscope  with an attached spectroscope.", "S": [], "A": []}

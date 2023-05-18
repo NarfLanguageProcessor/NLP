@@ -1,0 +1,1 @@
+{"index": 243670, "D": "a part of any whole, either separated from or integrated with it", "S": ["allocation ", "chunk ", "excerpt ", "fraction ", "fragment ", "lot ", "part ", "piece ", "quantity ", "section ", "segment ", "serving "], "A": ["entirety ", "total ", "whole ", "agreement ", "peace "]}

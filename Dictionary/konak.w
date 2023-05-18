@@ -1,0 +1,1 @@
+{"index": 165979, "D": "a large, usually official residence.", "S": [], "A": []}

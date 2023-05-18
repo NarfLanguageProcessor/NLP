@@ -1,0 +1,1 @@
+{"index": 251715, "D": "following an occupation as a means of livelihood or for gain", "S": ["artist ", "expert ", "pro ", "specialist "], "A": ["amateur ", "rookie "]}

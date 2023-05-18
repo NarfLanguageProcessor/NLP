@@ -1,0 +1,1 @@
+{"index": 97899, "D": "to flow out, issue, or proceed, as from a source or origin; come forth; originate. ", "S": ["arise ", "derive ", "emerge ", "emit ", "exude ", "originate ", "radiate ", "stem "], "A": ["conceal ", "hold ", "keep "]}

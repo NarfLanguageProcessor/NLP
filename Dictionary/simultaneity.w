@@ -1,0 +1,1 @@
+{"index": 291198, "D": "existing, occurring, or operating at the same time; concurrent", "S": ["unanimity "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332745, "D": "the Turkic languages of central Asia, taken collectively.", "S": [], "A": []}

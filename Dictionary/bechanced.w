@@ -1,0 +1,1 @@
+{"index": 29798, "D": "to befall.", "S": ["ensue ", "materialize ", "transpire "], "A": ["stay ", "stop "]}

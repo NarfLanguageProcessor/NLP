@@ -1,0 +1,1 @@
+{"index": 24563, "D": "a waxbill, Estrilda amandava, native to Asia, having in the male scarlet plumage with white dots on the sides and breast", "S": [], "A": []}

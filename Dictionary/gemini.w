@@ -1,0 +1,1 @@
+{"index": 123313, "D": "the Twins, a zodiacal constellation between Taurus and Cancer containing the bright stars Castor and Pollux.", "S": ["Aquarius ", "Aries ", "Cancer ", "Capricorn ", "Libra ", "Pisces ", "Sagittarius ", "Scorpio ", "Taurus ", "Virgo ", "horoscope sign ", "leo ", "zodiac sign "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 147774, "D": "to impregnate or inspire, as with feelings, opinions, etc.", "S": ["inculcate ", "ingrain ", "instill ", "leaven ", "permeate ", "pervade ", "steep ", "suffuse "], "A": ["take out "]}

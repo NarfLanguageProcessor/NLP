@@ -1,0 +1,1 @@
+{"index": 23807, "D": "Compare allogenic (def. 1). ", "S": [], "A": []}

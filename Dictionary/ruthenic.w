@@ -1,0 +1,1 @@
+{"index": 275920, "D": "containing ruthenium  in a higher valence state than the corresponding ruthenious compound.", "S": [], "A": []}

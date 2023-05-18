@@ -1,0 +1,1 @@
+{"index": 12956, "D": "an island in the N Leeward Islands, in the E West Indies; a British dependency. 34 sq. mi. (88 sq. km).", "S": [], "A": []}

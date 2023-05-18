@@ -1,0 +1,1 @@
+{"index": 56769, "D": "a sauce or relish of East Indian origin, often compounded of both sweet and sour ingredients, as fruits and herbs, with spices and other seasoning.", "S": [], "A": []}

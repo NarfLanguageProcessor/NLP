@@ -1,0 +1,1 @@
+{"index": 266926, "D": "to ignite or cause to ignite again", "S": ["renew ", "revitalize ", "revive "], "A": ["kill "]}

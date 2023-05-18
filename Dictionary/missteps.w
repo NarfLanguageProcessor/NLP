@@ -1,0 +1,1 @@
+{"index": 190145, "D": "a wrong step.", "S": ["blunder ", "error ", "failure ", "gaffe ", "indiscretion ", "lapse ", "miscue ", "slipup ", "stumble "], "A": ["accuracy ", "achievement ", "correction ", "right ", "success "]}

@@ -1,0 +1,1 @@
+{"index": 52097, "D": "any of numerous small flies of the family Chalcididae, often having bright metallic coloration, the larvae of which are chiefly parasitic on various stages of other insects.", "S": [], "A": []}

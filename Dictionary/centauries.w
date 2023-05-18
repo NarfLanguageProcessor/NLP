@@ -1,0 +1,1 @@
+{"index": 50808, "D": "any of various plants belonging to the genus Centaurium, of the gentian family, having clusters of small pink or red flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 270254, "D": "the sale of goods to ultimate consumers, usually in small quantities (opposed to wholesale).", "S": ["banker ", "merchant ", "trader ", "trafficker ", "vendor ", "wholesaler "], "A": ["customer "]}

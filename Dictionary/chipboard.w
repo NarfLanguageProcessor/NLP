@@ -1,0 +1,1 @@
+{"index": 54685, "D": "a low grade of cardboard, used as a backing for pads of paper, a stiffener for photographs in mailing, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 360936, "D": "an electronic device that synthesizes speech.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 49103, "D": "thrown away; rejected; discarded", "S": ["cargo ", "jetsam ", "junk ", "wreckage "], "A": []}

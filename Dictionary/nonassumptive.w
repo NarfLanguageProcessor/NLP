@@ -1,0 +1,1 @@
+{"index": 201528, "D": "taken for granted.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38320, "D": "a strongly pyroelectric mineral, a borate and chloride of magnesium, Mg6Cl2B14O26, occurring in white or colorless cubic crystals or fine-grained masses.", "S": [], "A": []}

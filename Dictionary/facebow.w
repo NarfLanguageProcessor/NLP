@@ -1,0 +1,1 @@
+{"index": 108935, "D": "a device for determining the relationship of the maxillae to the mandibular joint.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 20295, "D": "making claims or pretensions to superior importance or rights; overbearingly assuming; insolently proud", "S": ["aloof ", "bossy ", "cavalier ", "cocky ", "haughty ", "imperious ", "pompous ", "presumptuous ", "pretentious ", "smug ", "vain "], "A": ["humble ", "modest ", "shy ", "timid ", "unsure "]}

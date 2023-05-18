@@ -1,0 +1,1 @@
+{"index": 125481, "D": "to encircle or bind with a belt or band.", "S": [], "A": []}

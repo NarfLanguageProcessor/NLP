@@ -1,0 +1,1 @@
+{"index": 345616, "D": "different, dissimilar, or unequal; not alike", "S": ["dissimilar "], "A": ["alike ", "like ", "related ", "same ", "similar "]}

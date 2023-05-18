@@ -1,0 +1,1 @@
+{"index": 347398, "D": "a sudden overwhelming fear, with or without cause, that produces hysterical or irrational behavior, and that often spreads quickly through a group of persons or animals.", "S": [], "A": []}

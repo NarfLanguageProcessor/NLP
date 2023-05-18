@@ -1,0 +1,1 @@
+{"index": 262144, "D": "to dress, array, or adorn, especially for special occasions, ceremonials, etc.", "S": [], "A": []}

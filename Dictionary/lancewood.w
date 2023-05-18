@@ -1,0 +1,1 @@
+{"index": 167895, "D": "the tough, elastic wood  of any of various trees, especially Oxandra lanceolata, of tropical America, used for carriage shafts, cabinetwork, etc.", "S": [], "A": []}

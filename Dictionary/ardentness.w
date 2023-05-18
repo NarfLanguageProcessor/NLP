@@ -1,0 +1,1 @@
+{"index": 19274, "D": "having, expressive of, or characterized by intense feeling; passionate; fervent", "S": [], "A": []}

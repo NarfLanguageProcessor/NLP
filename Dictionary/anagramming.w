@@ -1,0 +1,1 @@
+{"index": 11689, "D": "a word, phrase, or sentence formed from another by rearranging its letters", "S": [], "A": []}

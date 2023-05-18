@@ -1,0 +1,1 @@
+{"index": 330128, "D": "of or relating to Trinidad or its inhabitants", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38339, "D": "(especially in the Mediterranean) a squall, usually accompanied by thunder and lightning.", "S": [], "A": []}

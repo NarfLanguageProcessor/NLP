@@ -1,0 +1,1 @@
+{"index": 140235, "D": "the quality or state of being drowsy and dull, listless and unenergetic, or indifferent and lazy; apathetic or sluggish inactivity.", "S": [], "A": []}

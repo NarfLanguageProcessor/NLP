@@ -1,0 +1,1 @@
+{"index": 311023, "D": "baked by exposure to the sun, as bricks.", "S": ["arid ", "parched ", "scorched "], "A": ["damp ", "moist ", "wet "]}

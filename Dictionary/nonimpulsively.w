@@ -1,0 +1,1 @@
+{"index": 204620, "D": "actuated or swayed by emotional or involuntary impulses", "S": [], "A": []}

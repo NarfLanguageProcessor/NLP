@@ -1,0 +1,1 @@
+{"index": 75751, "D": "(in India) a public administrative or judicial office.", "S": [], "A": []}

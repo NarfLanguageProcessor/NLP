@@ -1,0 +1,1 @@
+{"index": 289679, "D": "a multiple fruit developed from a hollow fleshy receptacle containing numerous flowers, as in the fig.", "S": [], "A": []}

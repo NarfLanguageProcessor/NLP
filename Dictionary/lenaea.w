@@ -1,0 +1,1 @@
+{"index": 170382, "D": "a festival in ancient Athens in honor of Dionysus, celebrated at the beginning of February and comprising a public banquet followed by the performance of comedies.", "S": [], "A": []}

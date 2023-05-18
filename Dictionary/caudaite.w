@@ -1,0 +1,1 @@
+{"index": 49915, "D": "a small meteorite, generally less than one half millimeter in diameter, containing crystals of more or less pure magnetite.", "S": [], "A": []}

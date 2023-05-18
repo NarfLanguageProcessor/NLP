@@ -1,0 +1,1 @@
+{"index": 66554, "D": "to cooperate secretly; conspire (often followed by with)", "S": ["charlatan ", "con artist ", "crook ", "hypocrite ", "impostor ", "rascal ", "rogue ", "swindler ", "trickster "], "A": []}

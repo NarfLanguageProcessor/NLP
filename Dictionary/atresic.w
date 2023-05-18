@@ -1,0 +1,1 @@
+{"index": 22842, "D": "the congenital absence, or the pathological closure, of an opening, passage, or cavity.", "S": [], "A": []}

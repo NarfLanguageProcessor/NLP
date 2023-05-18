@@ -1,0 +1,1 @@
+{"index": 230048, "D": "of or relating to Pentecost,  a Christian festival commemorating the descent of the Holy Ghost upon the apostles.", "S": [], "A": []}

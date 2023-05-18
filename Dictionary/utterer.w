@@ -1,0 +1,1 @@
+{"index": 356243, "D": "to give audible expression to; speak or pronounce", "S": [], "A": []}

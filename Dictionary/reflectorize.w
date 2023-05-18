@@ -1,0 +1,1 @@
+{"index": 265135, "D": "to treat something so that it reflects light", "S": [], "A": []}

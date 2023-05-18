@@ -1,0 +1,1 @@
+{"index": 8886, "D": "Compare pseudonym. ", "S": ["AKA ", "alias ", "ananym ", "anonym ", "assumed name ", "false name ", "fictitious name ", "nickname ", "nom de guerre ", "pen name ", "professional name ", "pseudonym "], "A": []}

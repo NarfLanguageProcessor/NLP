@@ -1,0 +1,1 @@
+{"index": 8974, "D": "the act of allotting. ", "S": ["allocation ", "allowance ", "appropriation ", "quota ", "ration "], "A": ["whole "]}

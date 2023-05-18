@@ -1,0 +1,1 @@
+{"index": 67498, "D": "a keyboard accompanying part consisting originally of a figured bass, which in modern scores is usually realized, and serving to provide or fill out the harmonic texture.", "S": [], "A": []}

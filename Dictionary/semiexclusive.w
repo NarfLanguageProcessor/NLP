@@ -1,0 +1,1 @@
+{"index": 284169, "D": "not admitting of something else; incompatible", "S": [], "A": []}

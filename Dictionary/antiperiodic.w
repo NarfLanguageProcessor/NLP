@@ -1,0 +1,1 @@
+{"index": 15821, "D": "efficacious against recurring attacks of a disease", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 352613, "D": "inclined to silence; reserved in speech; reluctant to join in conversation.", "S": [], "A": []}

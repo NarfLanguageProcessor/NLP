@@ -1,0 +1,1 @@
+{"index": 118886, "D": "of or relating to friars. ", "S": [], "A": []}

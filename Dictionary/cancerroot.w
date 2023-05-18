@@ -1,0 +1,1 @@
+{"index": 46115, "D": "any parasitic plant of the genus Orobanche, especially O. uniflora, of North America, having pale, leafless stalks bearing a single white or purplish flower.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363218, "D": "impervious to water. ", "S": ["close ", "enclose ", "isolate ", "plug ", "secure ", "shut ", "stop "], "A": ["begin ", "continue ", "let go ", "open ", "release ", "start ", "unplug "]}

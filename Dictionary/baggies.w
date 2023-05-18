@@ -1,0 +1,1 @@
+{"index": 26303, "D": "loose-fitting swimming trunks, often with a drawstring at the waist, especially as worn by surfers.", "S": [], "A": []}

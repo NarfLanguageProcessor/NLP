@@ -1,0 +1,1 @@
+{"index": 302218, "D": "capable of being stacked,  especially easily", "S": [], "A": []}

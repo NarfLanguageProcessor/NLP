@@ -1,0 +1,1 @@
+{"index": 100933, "D": "the act or process of enrolling. ", "S": ["admission ", "enlistment ", "recruitment "], "A": ["blackballing ", "conclusion ", "disagreement ", "exit ", "refusal ", "rejection "]}

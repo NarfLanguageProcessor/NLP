@@ -1,0 +1,1 @@
+{"index": 298840, "D": "a small spot differing in color or substance from that of the surface or material upon which it appears or lies", "S": ["blot ", "dot ", "fleck ", "iota ", "mite ", "particle ", "shred ", "splotch ", "stain "], "A": ["blank ", "lot ", "advantage ", "benefit ", "perfection ", "strength "]}

@@ -1,0 +1,1 @@
+{"index": 260204, "D": "a thick-walled, rough, dark lead-glazed Japanese earthenware used in the tea ceremony.", "S": [], "A": []}

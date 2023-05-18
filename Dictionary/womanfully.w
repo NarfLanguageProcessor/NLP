@@ -1,0 +1,1 @@
+{"index": 366957, "D": "in a manner full of womanly spirit", "S": [], "A": []}

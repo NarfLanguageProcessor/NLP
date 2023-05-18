@@ -1,0 +1,1 @@
+{"index": 25537, "D": "an East Indian swine, Babyrousa babyrussa, the male of which has upper canine teeth growing upward through the roof of the mouth and curving toward the eyes, and lower canine teeth growing upward outside the upper jaw.", "S": [], "A": []}

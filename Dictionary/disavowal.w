@@ -1,0 +1,1 @@
+{"index": 87137, "D": "a disowning; repudiation; denial.", "S": ["abandonment "], "A": []}

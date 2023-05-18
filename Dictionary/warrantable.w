@@ -1,0 +1,1 @@
+{"index": 362756, "D": "capable of being warranted. ", "S": ["logical ", "permissible ", "plausible ", "tenable ", "valid "], "A": ["improbable ", "irrational ", "unbelievable ", "unlikely ", "unreasonable "]}

@@ -1,0 +1,1 @@
+{"index": 346398, "D": "of, relating to, or characteristic of a misanthrope. ", "S": [], "A": []}

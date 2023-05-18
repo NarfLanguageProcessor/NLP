@@ -1,0 +1,1 @@
+{"index": 230491, "D": "administered, removed, or absorbed by way of the skin, as an injection, needle biopsy, or transdermal drug.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199529, "D": "(in ancient India) a philosophical school emphasizing logical analysis of knowledge, which is considered as deriving from perception, inference, analogy, and reliable testimony.", "S": [], "A": []}

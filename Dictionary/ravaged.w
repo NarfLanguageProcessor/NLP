@@ -1,0 +1,1 @@
+{"index": 261228, "D": "ruinously damaged or marred", "S": ["broken ", "demolished ", "devastated ", "lost ", "ruined ", "shattered ", "smashed ", "wrecked "], "A": ["fixed ", "repaired ", "sober ", "successful "]}

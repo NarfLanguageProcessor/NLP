@@ -1,0 +1,1 @@
+{"index": 149870, "D": "the introductory words or opening phrases in the text of a medieval manuscript or an early printed book.", "S": [], "A": []}

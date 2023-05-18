@@ -1,0 +1,1 @@
+{"index": 345816, "D": "humble in station, condition, or nature", "S": [], "A": []}

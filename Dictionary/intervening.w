@@ -1,0 +1,1 @@
+{"index": 156160, "D": "to come between disputing people, groups, etc.; intercede; mediate.", "S": ["intermediate ", "middle ", "sandwiched "], "A": ["extreme "]}

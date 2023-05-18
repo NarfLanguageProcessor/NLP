@@ -1,0 +1,1 @@
+{"index": 204540, "D": "giving or casting light.", "S": [], "A": []}

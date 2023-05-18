@@ -1,0 +1,1 @@
+{"index": 129462, "D": "a piece of plate armor for the leg between the knee and the ankle, usually composed of front and back pieces.", "S": [], "A": []}

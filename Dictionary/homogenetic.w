@@ -1,0 +1,1 @@
+{"index": 143087, "D": "pertaining to or characterized by homogenesis. ", "S": [], "A": []}

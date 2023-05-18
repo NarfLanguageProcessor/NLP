@@ -1,0 +1,1 @@
+{"index": 61512, "D": "arrogant;  pertly self-assertive; conceited; He walked in with a cocky air.", "S": [], "A": []}

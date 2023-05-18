@@ -1,0 +1,1 @@
+{"index": 344190, "D": "relating to, occurring on, or involving one side only", "S": ["one-sided "], "A": ["bilateral ", "many-sided "]}

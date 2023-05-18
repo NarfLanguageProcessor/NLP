@@ -1,0 +1,1 @@
+{"index": 316705, "D": "to remain or stay, as in a place; sojourn", "S": ["dawdler ", "dilly-dallier ", "idler ", "lag ", "lagger ", "lingerer ", "loafer ", "loiterer ", "lounger ", "poke ", "procrastinator ", "slow starter ", "slowpoke ", "straggler "], "A": []}

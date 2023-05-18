@@ -1,0 +1,1 @@
+{"index": 336877, "D": "designating, written in, or pertaining to a form of majuscule writing having a curved or rounded shape and used chiefly in Greek and Latin manuscripts from about the 3rd to the 9th century a.d.", "S": ["cap ", "majuscule "], "A": ["small "]}

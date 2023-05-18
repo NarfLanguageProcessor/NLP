@@ -1,0 +1,1 @@
+{"index": 309136, "D": "the fact of serving in a subordinate position or role", "S": [], "A": []}

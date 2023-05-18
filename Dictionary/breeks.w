@@ -1,0 +1,1 @@
+{"index": 40398, "D": "breeches; trousers.", "S": [], "A": []}

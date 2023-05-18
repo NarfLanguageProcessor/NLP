@@ -1,0 +1,1 @@
+{"index": 211313, "D": "an instrument for laying out the forms of gear teeth or ratchets.", "S": [], "A": []}

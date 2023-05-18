@@ -1,0 +1,1 @@
+{"index": 146720, "D": "an animal in its second year.", "S": ["calf ", "colt "], "A": []}

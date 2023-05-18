@@ -1,0 +1,1 @@
+{"index": 319190, "D": "any of various small household gods or images venerated by ancient Semitic peoples. (Genesis 31", "S": [], "A": []}

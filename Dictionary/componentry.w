@@ -1,0 +1,1 @@
+{"index": 64759, "D": "the components  of a machine, vehicle, stereo system, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 190081, "D": "prim; affected; prudish.", "S": [], "A": []}

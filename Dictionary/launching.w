@@ -1,0 +1,1 @@
+{"index": 169157, "D": "to set (a boat or ship) in the water.", "S": ["ablution ", "christening ", "debut ", "dedication ", "immersion ", "introduction ", "purgation ", "purge ", "purification ", "ritual ", "sanctification ", "sprinkling "], "A": []}

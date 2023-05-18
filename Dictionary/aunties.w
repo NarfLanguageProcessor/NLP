@@ -1,0 +1,1 @@
+{"index": 23487, "D": "the plural of auntie  or aunty. ", "S": [], "A": []}

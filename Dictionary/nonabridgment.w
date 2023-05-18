@@ -1,0 +1,1 @@
+{"index": 200964, "D": "a shortened or condensed form of a book, speech, etc., that still retains the basic contents", "S": [], "A": []}

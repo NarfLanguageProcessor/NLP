@@ -1,0 +1,1 @@
+{"index": 312711, "D": "a state  or a governing power presiding over states  subordinated to it.", "S": [], "A": []}

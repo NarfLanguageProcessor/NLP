@@ -1,0 +1,1 @@
+{"index": 288091, "D": "a governor of Mecca descended from Muhammad.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 332508, "D": "any of several trees of the genus Nyssa, having ovate leaves, clusters of minute flowers, and purple, berrylike fruit, especially N. aquatica, of swampy regions of the eastern, southern, and midwestern U.S.", "S": [], "A": []}

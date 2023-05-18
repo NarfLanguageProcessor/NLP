@@ -1,0 +1,1 @@
+{"index": 318012, "D": "a course  of study presented on television,  as for local home viewers receiving credit at a community college.", "S": [], "A": []}

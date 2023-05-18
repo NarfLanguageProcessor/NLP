@@ -1,0 +1,1 @@
+{"index": 59773, "D": "any of numerous strong-smelling plants or shrubs belonging to the genus Cleome, of the caper family, mostly natives of tropical regions, and often bearing showy flowers.", "S": [], "A": []}

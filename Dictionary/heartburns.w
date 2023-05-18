@@ -1,0 +1,1 @@
+{"index": 134837, "D": "an uneasy burning sensation in the stomach, typically extending toward the esophagus, and sometimes associated with the eructation of an acid fluid.", "S": ["indigestion "], "A": []}

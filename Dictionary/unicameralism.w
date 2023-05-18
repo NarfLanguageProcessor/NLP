@@ -1,0 +1,1 @@
+{"index": 343993, "D": "consisting of a single chamber, as a legislative assembly.", "S": [], "A": []}

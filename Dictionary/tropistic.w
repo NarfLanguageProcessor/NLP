@@ -1,0 +1,1 @@
+{"index": 331247, "D": "an orientation of an organism to an external stimulus, as light, especially by growth rather than by movement.", "S": [], "A": []}

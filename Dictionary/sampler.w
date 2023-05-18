@@ -1,0 +1,1 @@
+{"index": 277591, "D": "a person who samples. ", "S": ["brocade ", "decoration ", "lace ", "needlepoint ", "quilting ", "tapestry "], "A": []}

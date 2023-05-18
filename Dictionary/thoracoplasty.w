@@ -1,0 +1,1 @@
+{"index": 322368, "D": "the operation removing selected portions of the ribs to collapse part of the underlying lung or an abnormal pleural space, usually in the treatment of tuberculosis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 366010, "D": "a plate of glass for filling a window sash  within the frame.", "S": [], "A": []}

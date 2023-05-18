@@ -1,0 +1,1 @@
+{"index": 332879, "D": "an athletic club, especially of gymnasts.", "S": [], "A": []}

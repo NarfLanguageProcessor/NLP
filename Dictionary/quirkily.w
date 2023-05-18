@@ -1,0 +1,1 @@
+{"index": 258988, "D": "having or full of quirks. ", "S": [], "A": []}

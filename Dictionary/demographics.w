@@ -1,0 +1,1 @@
+{"index": 80758, "D": "the statistical data of a population, especially those showing average age, income, education, etc.", "S": ["enumeration ", "poll "], "A": []}

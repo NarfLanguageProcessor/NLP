@@ -1,0 +1,1 @@
+{"index": 110539, "D": "a skin disease, especially of the scalp, characterized by dry yellow encrustations that have an unpleasant odor, usually caused by the fungus Trichophyton schoenleinii.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55031, "D": "a crystalline compound, C8H11Cl3O6, used as an animal anesthetic and bird repellent.", "S": [], "A": []}

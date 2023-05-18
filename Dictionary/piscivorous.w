@@ -1,0 +1,1 @@
+{"index": 238100, "D": "adapted to feeding on fish; fish-eating.", "S": [], "A": []}

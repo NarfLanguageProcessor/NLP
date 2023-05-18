@@ -1,0 +1,1 @@
+{"index": 340584, "D": [], "S": ["actually ", "completely ", "directly ", "plainly ", "precisely ", "really ", "simply ", "truly "], "A": ["doubtfully "]}

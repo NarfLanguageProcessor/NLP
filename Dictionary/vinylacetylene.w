@@ -1,0 +1,1 @@
+{"index": 359931, "D": "a colorless, volatile liquid, C4H4, used chiefly as an intermediate in the manufacture of the synthetic rubber neoprene.", "S": [], "A": []}

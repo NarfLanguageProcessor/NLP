@@ -1,0 +1,1 @@
+{"index": 251616, "D": "an introductory discourse; introduction; preface; preamble.", "S": ["inaugural ", "preparatory "], "A": ["concluding ", "ending ", "final ", "finishing ", "last "]}

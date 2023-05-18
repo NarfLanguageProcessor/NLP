@@ -1,0 +1,1 @@
+{"index": 108699, "D": "a variant spelling of extrovert", "S": [], "A": []}

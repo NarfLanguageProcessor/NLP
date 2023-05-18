@@ -1,0 +1,1 @@
+{"index": 229052, "D": "to look through a small opening or from a concealed location.", "S": ["hoot "], "A": []}

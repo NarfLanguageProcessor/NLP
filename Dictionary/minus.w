@@ -1,0 +1,1 @@
+{"index": 188051, "D": "less by the subtraction of; decreased by", "S": ["less ", "negative "], "A": ["plus "]}

@@ -1,0 +1,1 @@
+{"index": 15465, "D": "antilogarithm. ", "S": [], "A": []}

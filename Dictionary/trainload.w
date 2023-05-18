@@ -1,0 +1,1 @@
+{"index": 327468, "D": "the cargo or passenger capacity of a train. ", "S": [], "A": []}

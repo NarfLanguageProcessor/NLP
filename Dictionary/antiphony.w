@@ -1,0 +1,1 @@
+{"index": 15865, "D": "alternate or responsive singing by a choir in two divisions.", "S": [], "A": []}

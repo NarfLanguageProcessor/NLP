@@ -1,0 +1,1 @@
+{"index": 1902, "D": "the place near Jerusalem purchased with the bribe Judas took for betraying Jesus. Acts 1", "S": [], "A": []}

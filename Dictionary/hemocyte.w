@@ -1,0 +1,1 @@
+{"index": 136343, "D": "a blood cell.", "S": ["red blood cell ", "white blood cell "], "A": []}

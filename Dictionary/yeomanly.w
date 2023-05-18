@@ -1,0 +1,1 @@
+{"index": 146883, "D": "of the condition or rank of a yeoman.", "S": [], "A": []}

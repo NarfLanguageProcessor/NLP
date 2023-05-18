@@ -1,0 +1,1 @@
+{"index": 242872, "D": "bearing pomes or pomelike fruits.", "S": [], "A": []}

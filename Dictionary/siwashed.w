@@ -1,0 +1,1 @@
+{"index": 292705, "D": "a contemptuous term used to refer to a North American Indian.", "S": [], "A": []}

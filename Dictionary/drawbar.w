@@ -1,0 +1,1 @@
+{"index": 92759, "D": "a heavy bar, often made of steel, attached to the rear of a tractor and used as a hitch for pulling machinery, as a plow or mower.", "S": [], "A": []}

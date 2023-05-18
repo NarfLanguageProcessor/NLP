@@ -1,0 +1,1 @@
+{"index": 327889, "D": "a person who follows or promotes the theories of transformational grammar.", "S": [], "A": []}

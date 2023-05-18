@@ -1,0 +1,1 @@
+{"index": 20532, "D": "degenerative changes in the arteries, characterized by thickening of the vessel walls and accumulation of calcium with consequent loss of elasticity and lessened blood flow.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 266594, "D": "the act or process of rejecting. ", "S": ["elimination ", "exclusion ", "repudiation ", "veto "], "A": ["allowance ", "ratification ", "welcome "]}

@@ -1,0 +1,1 @@
+{"index": 338532, "D": "to speak disparagingly of; denounce as faulty or worthless; express censure of", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126640, "D": "of or relating to the tongue.", "S": [], "A": []}

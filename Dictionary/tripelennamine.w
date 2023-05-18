@@ -1,0 +1,1 @@
+{"index": 330310, "D": "a white, crystalline, antihistamine, C16H21N3, used for the treatment of allergic disorders.", "S": [], "A": []}

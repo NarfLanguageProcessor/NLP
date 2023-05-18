@@ -1,0 +1,1 @@
+{"index": 213373, "D": "an assemblage of mafic igneous rocks representing remnants of former oceanic crust.", "S": [], "A": []}

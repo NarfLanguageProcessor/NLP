@@ -1,0 +1,1 @@
+{"index": 41169, "D": "an Irish accent in the pronunciation of English.", "S": [], "A": []}

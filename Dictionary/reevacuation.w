@@ -1,0 +1,1 @@
+{"index": 264824, "D": "the act or process of evacuating,  or the condition of being evacuated;  discharge or expulsion, as of contents.", "S": [], "A": []}

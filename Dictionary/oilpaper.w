@@ -1,0 +1,1 @@
+{"index": 211866, "D": "a paper  made waterproof and translucent by treatment with oil. ", "S": [], "A": []}

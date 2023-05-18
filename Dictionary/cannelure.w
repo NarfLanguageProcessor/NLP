@@ -1,0 +1,1 @@
+{"index": 46398, "D": "a groove or fluting around the cylindrical part of a bullet.", "S": [], "A": []}

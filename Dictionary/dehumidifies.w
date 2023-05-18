@@ -1,0 +1,1 @@
+{"index": 79762, "D": "to remove moisture from.", "S": ["bake ", "blot ", "deplete ", "drain ", "empty ", "evaporate ", "exhaust ", "sear ", "shrivel ", "wilt ", "wipe ", "wither "], "A": ["bloom ", "dampen ", "expand ", "fill ", "grow ", "soak ", "wet ", "moisten "]}

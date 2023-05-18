@@ -1,0 +1,1 @@
+{"index": 165727, "D": "acquaintance with facts, truths, or principles, as from study or investigation; general erudition", "S": [], "A": []}

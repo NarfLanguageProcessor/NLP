@@ -1,0 +1,1 @@
+{"index": 22720, "D": "an optical system used to simulate images of atmospheric phenomena, as cloud formations, storms, and day and night, on the inside of a dome.", "S": [], "A": []}

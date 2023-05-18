@@ -1,0 +1,1 @@
+{"index": 356697, "D": "the state, condition, or habits of a valetudinarian. ", "S": [], "A": []}

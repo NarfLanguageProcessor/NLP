@@ -1,0 +1,1 @@
+{"index": 81091, "D": "denial; contradiction.", "S": [], "A": []}

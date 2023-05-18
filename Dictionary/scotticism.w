@@ -1,0 +1,1 @@
+{"index": 281403, "D": "a word or idiom peculiar to or characteristic of Scots.", "S": [], "A": []}

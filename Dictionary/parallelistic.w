@@ -1,0 +1,1 @@
+{"index": 225744, "D": "of, relating to, or of the nature of a parallelism.", "S": [], "A": []}

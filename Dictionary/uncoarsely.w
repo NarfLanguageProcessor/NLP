@@ -1,0 +1,1 @@
+{"index": 337133, "D": "composed of relatively large parts or particles", "S": [], "A": []}

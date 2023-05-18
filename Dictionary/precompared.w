@@ -1,0 +1,1 @@
+{"index": 246279, "D": "to examine (two or more objects, ideas, people, etc.) in order to note similarities and differences", "S": [], "A": []}

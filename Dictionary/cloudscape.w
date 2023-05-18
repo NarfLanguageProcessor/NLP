@@ -1,0 +1,1 @@
+{"index": 60559, "D": "a view or scene of clouds.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249207, "D": "a presentiment or foreboding.", "S": ["ancestor ", "antecedent ", "antecessor ", "forebear ", "foregoer ", "forerunner ", "foreshadower ", "harbinger ", "herald ", "original ", "originator ", "parent ", "pioneer ", "predecessor ", "prototype "], "A": []}

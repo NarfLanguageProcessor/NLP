@@ -1,0 +1,1 @@
+{"index": 292460, "D": "a fiber yielded by an agave, Agave sisalana, of Yucat\u00e1n, used for making rope, rugs, etc.", "S": [], "A": []}

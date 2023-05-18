@@ -1,0 +1,1 @@
+{"index": 192366, "D": "the offspring of individuals that differ with respect to a particular gene pair.", "S": [], "A": []}

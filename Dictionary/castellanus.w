@@ -1,0 +1,1 @@
+{"index": 49054, "D": "(of a cloud) having small turrets.", "S": [], "A": []}

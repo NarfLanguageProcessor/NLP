@@ -1,0 +1,1 @@
+{"index": 104385, "D": "(on a French window or the like) one of a pair of rods, controlled by a knob mechanism, having hooked ends that engage catches in the head and sill of the frame.", "S": [], "A": []}

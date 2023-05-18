@@ -1,0 +1,1 @@
+{"index": 154732, "D": "the fact or state of being connected or linked with one another", "S": ["chain ", "grid ", "net ", "organization ", "structure ", "system ", "web "], "A": []}

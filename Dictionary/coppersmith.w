@@ -1,0 +1,1 @@
+{"index": 68617, "D": "a person who makes utensils, jewelry, etc., out of copper.", "S": [], "A": []}

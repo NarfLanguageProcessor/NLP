@@ -1,0 +1,1 @@
+{"index": 349248, "D": "to recover from sickness or exhaustion; regain health or strength.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 367702, "D": "full of worth  or merit.", "S": [], "A": []}

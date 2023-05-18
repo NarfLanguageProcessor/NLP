@@ -1,0 +1,1 @@
+{"index": 306708, "D": "walking or moving with a strut;  walking pompously; pompous.", "S": ["arrogant ", "bombastic ", "cocky ", "exultant ", "pompous ", "pretentious "], "A": ["humble ", "modest "]}

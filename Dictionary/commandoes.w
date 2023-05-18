@@ -1,0 +1,1 @@
+{"index": 63891, "D": "Compare ranger (def. 3). ", "S": ["commando ", "fighter ", "guard ", "guerrilla ", "marine ", "mercenary ", "officer ", "paratrooper ", "pilot ", "trooper ", "veteran ", "volunteer "], "A": []}

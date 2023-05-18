@@ -1,0 +1,1 @@
+{"index": 95523, "D": "growing outside the body of the host, as certain bacteria and other parasites.", "S": [], "A": []}

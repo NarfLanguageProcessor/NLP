@@ -1,0 +1,1 @@
+{"index": 313530, "D": "of a large amount or high degree; exceeding, excelling, or extraordinary", "S": ["predominant "], "A": ["humble ", "inferior "]}

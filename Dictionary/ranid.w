@@ -1,0 +1,1 @@
+{"index": 260578, "D": "belonging or pertaining to the frog  family Ranidae, characterized by smooth, moist skin and semiaquatic habits.", "S": [], "A": []}

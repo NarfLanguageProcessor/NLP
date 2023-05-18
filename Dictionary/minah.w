@@ -1,0 +1,1 @@
+{"index": 187658, "D": "a memorial tower, as a stamba.", "S": [], "A": []}

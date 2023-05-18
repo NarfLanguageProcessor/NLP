@@ -1,0 +1,1 @@
+{"index": 75639, "D": "soft and comfortable like a cushion. ", "S": ["covered ", "damp ", "downy ", "fresh ", "moist ", "moss-grown ", "mosslike ", "overgrown ", "plushy ", "smooth ", "soft ", "velvety "], "A": ["bare ", "dry ", "modern ", "new ", "prickly "]}

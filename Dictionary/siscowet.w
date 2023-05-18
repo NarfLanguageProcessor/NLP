@@ -1,0 +1,1 @@
+{"index": 292461, "D": "a variety of lake trout, Salvelinus namaycush siscowet, inhabiting the deeper waters of Lake Superior.", "S": [], "A": []}

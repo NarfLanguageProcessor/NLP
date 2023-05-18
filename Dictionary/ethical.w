@@ -1,0 +1,1 @@
+{"index": 104953, "D": "pertaining to or dealing with morals or the principles of morality; pertaining to right and wrong in conduct.", "S": ["honest ", "honorable ", "humane ", "principled ", "proper ", "virtuous "], "A": ["corrupt ", "dishonest ", "immoral ", "improper ", "unethical ", "unjust ", "unrighteous "]}

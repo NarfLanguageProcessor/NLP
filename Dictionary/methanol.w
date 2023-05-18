@@ -1,0 +1,1 @@
+{"index": 185200, "D": "methyl alcohol. ", "S": ["booze ", "drink ", "ethanol ", "liquor ", "smoke "], "A": []}

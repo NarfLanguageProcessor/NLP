@@ -1,0 +1,1 @@
+{"index": 309654, "D": "not equal;  not of the same quantity, quality, value, rank, ability, etc.", "S": [], "A": []}

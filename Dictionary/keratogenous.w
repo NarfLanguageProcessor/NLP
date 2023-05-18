@@ -1,0 +1,1 @@
+{"index": 163930, "D": "producing horn or a horny substance.", "S": [], "A": []}

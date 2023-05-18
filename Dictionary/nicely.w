@@ -1,0 +1,1 @@
+{"index": 199581, "D": "pleasing; agreeable; delightful", "S": ["admirably ", "attractively ", "beautifully ", "finely ", "happily ", "perfectly ", "pleasantly "], "A": ["badly ", "incorrectly ", "mistakenly ", "unfortunately ", "unsuccessfully ", "wrongly "]}

@@ -1,0 +1,1 @@
+{"index": 176131, "D": "of or relating to disfranchised and uprooted individuals or groups, especially those who have lost status", "S": [], "A": []}

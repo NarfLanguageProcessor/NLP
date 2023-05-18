@@ -1,0 +1,1 @@
+{"index": 238232, "D": "the amount held by a pitcher. ", "S": [], "A": []}

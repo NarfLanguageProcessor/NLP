@@ -1,0 +1,1 @@
+{"index": 352513, "D": "(of troops, a fort or town, etc.) encircled or hemmed in by enemies on all sides so as to cut off communication or retreat", "S": [], "A": []}

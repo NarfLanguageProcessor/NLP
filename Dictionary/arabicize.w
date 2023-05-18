@@ -1,0 +1,1 @@
+{"index": 18313, "D": "(of a language or a linguistic feature) to make or become Arabic  in form.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 285008, "D": "the state of being nearly starved.", "S": [], "A": []}

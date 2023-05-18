@@ -1,0 +1,1 @@
+{"index": 60754, "D": "to fill or litter with things in a disorderly manner", "S": ["crowded ", "messy "], "A": []}

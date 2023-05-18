@@ -1,0 +1,1 @@
+{"index": 245492, "D": "the act of acquiring  or gaining possession", "S": [], "A": []}

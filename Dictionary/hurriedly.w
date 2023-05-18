@@ -1,0 +1,1 @@
+{"index": 145269, "D": "moving or working rapidly, especially forced or required to hurry,  as a person.", "S": ["crazily ", "desperately ", "energetically ", "excitedly ", "foolishly ", "frantically ", "furiously ", "hastily ", "hysterically ", "intensely ", "passionately ", "recklessly ", "violently "], "A": ["calmly ", "normally "]}

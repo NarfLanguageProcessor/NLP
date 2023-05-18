@@ -1,0 +1,1 @@
+{"index": 96403, "D": "a small, pointed instrument for making eyelet  holes.", "S": [], "A": []}

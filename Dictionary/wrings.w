@@ -1,0 +1,1 @@
+{"index": 368001, "D": "to twist forcibly", "S": ["draw out ", "extort ", "extract ", "squeeze ", "wrench ", "wrest "], "A": ["aid ", "assist ", "assuage ", "calm ", "free ", "give ", "help ", "leave alone ", "let go ", "placate ", "please ", "release ", "soothe "]}

@@ -1,0 +1,1 @@
+{"index": 180307, "D": "a Polynesian native of the Marquesas Islands. ", "S": [], "A": []}

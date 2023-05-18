@@ -1,0 +1,1 @@
+{"index": 349042, "D": "(especially of saints) experiencing religious ecstasy as a result of one's faith.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 231127, "D": "rapidly advancing juvenile periodontitis. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213870, "D": "any of various instruments for measuring the refractive error of an eye.", "S": [], "A": []}

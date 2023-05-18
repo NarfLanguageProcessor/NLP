@@ -1,0 +1,1 @@
+{"index": 79319, "D": "something that is or is to be defined, especially the term at the head of a dictionary entry.", "S": [], "A": []}

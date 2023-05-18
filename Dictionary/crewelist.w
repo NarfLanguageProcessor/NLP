@@ -1,0 +1,1 @@
+{"index": 72840, "D": "a worsted yarn for embroidery and edging.", "S": [], "A": []}

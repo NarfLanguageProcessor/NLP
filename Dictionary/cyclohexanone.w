@@ -1,0 +1,1 @@
+{"index": 57153, "D": "an oily liquid, C6H10O, with an acetone and peppermintlike odor, a cyclic butone used in organic synthesis and as an industrial solvent.", "S": [], "A": []}

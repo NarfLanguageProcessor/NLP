@@ -1,0 +1,1 @@
+{"index": 935, "D": "state of being away or not being present", "S": ["AWOL ", "absenteeism ", "cut ", "hooky ", "nonappearance ", "nonattendance ", "truancy ", "vacancy "], "A": ["abundance ", "enough ", "existence ", "plenty ", "presence "]}

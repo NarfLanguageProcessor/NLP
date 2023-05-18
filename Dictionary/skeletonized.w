@@ -1,0 +1,1 @@
+{"index": 292937, "D": "to reduce to a skeleton,  outline, or framework.", "S": ["delineate ", "describe ", "draft ", "lay out ", "summarize "], "A": []}

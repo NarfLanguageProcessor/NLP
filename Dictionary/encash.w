@@ -1,0 +1,1 @@
+{"index": 99158, "D": "to exchange (a cheque) for cash", "S": [], "A": []}

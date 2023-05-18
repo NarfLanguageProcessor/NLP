@@ -1,0 +1,1 @@
+{"index": 38980, "D": "having no bounds;  infinite or vast; unlimited", "S": ["endlessness ", "infiniteness ", "infinitude ", "limitlessness "], "A": []}

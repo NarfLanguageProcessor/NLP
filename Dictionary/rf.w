@@ -1,0 +1,1 @@
+{"index": 271690, "D": "rutherfordium.", "S": ["high frequency "], "A": []}

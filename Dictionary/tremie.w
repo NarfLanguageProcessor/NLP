@@ -1,0 +1,1 @@
+{"index": 328884, "D": "a funnellike device lowered into water to deposit concrete.", "S": [], "A": []}

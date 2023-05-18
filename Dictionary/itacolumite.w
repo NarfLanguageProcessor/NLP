@@ -1,0 +1,1 @@
+{"index": 159431, "D": "a sandstone consisting of interlocking quartz grains and mica scales, found principally in Brazil and North Carolina, and noted for its flexibility in thin slabs.", "S": [], "A": []}

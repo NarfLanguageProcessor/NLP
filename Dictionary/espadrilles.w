@@ -1,0 +1,1 @@
+{"index": 104383, "D": "a flat shoe with a cloth upper, a rope sole, and sometimes lacing that ties around the ankle.", "S": ["moccasin ", "shoe ", "slipper "], "A": []}

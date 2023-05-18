@@ -1,0 +1,1 @@
+{"index": 325154, "D": "characterized by or involving toil;  laborious; toilsome.", "S": [], "A": []}

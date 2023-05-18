@@ -1,0 +1,1 @@
+{"index": 40519, "D": "a fermented liquor brewed  from malt.", "S": [], "A": []}

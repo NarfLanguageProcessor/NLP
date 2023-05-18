@@ -1,0 +1,1 @@
+{"index": 116377, "D": "to command (a person) not to do something, have something, etc., or not to enter some place", "S": [], "A": []}

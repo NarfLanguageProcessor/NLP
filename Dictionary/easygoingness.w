@@ -1,0 +1,1 @@
+{"index": 94907, "D": "calm and unworried; relaxed and rather casual", "S": ["aplomb ", "composure ", "dexterity ", "efficiency ", "familiarity ", "flexibility ", "fluency ", "nonchalance ", "poise ", "quickness ", "simplicity "], "A": ["inability "]}

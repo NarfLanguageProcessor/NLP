@@ -1,0 +1,1 @@
+{"index": 314363, "D": "suffering oppressive heat.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 356317, "D": "variable. ", "S": ["corner ", "edge ", "intersection ", "slant ", "twist "], "A": []}

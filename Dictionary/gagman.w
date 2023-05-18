@@ -1,0 +1,1 @@
+{"index": 120969, "D": "a person who writes comic material for public performers.", "S": ["buffoon ", "comedian ", "comic ", "fool ", "jester ", "mime ", "prankster "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24864, "D": "avoirdupois weight. ", "S": ["bulk ", "bulkiness ", "fat ", "fatness ", "heft ", "heftiness ", "ponderosity ", "ponderousness ", "weight ", "weightiness "], "A": []}

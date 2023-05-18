@@ -1,0 +1,1 @@
+{"index": 311274, "D": "exceedingly or excessively abundant; more than sufficient; excessive.", "S": [], "A": []}

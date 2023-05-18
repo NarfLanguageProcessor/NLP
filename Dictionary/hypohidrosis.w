@@ -1,0 +1,1 @@
+{"index": 140984, "D": "abnormally diminished sweating.", "S": [], "A": []}

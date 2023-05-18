@@ -1,0 +1,1 @@
+{"index": 121472, "D": "a follower and supporter of or a soldier owing allegiance to an Irish chief.", "S": [], "A": []}

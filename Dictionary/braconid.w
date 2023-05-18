@@ -1,0 +1,1 @@
+{"index": 39530, "D": "any of numerous wasps of the family Braconidae, the larvae of which are parasitic on aphids and on the larvae of moths, butterflies, beetles, etc.", "S": [], "A": []}

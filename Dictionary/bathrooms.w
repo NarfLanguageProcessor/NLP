@@ -1,0 +1,1 @@
+{"index": 29005, "D": "a room  equipped for taking a bath  or shower.", "S": ["lavatory ", "powder room ", "restroom ", "toilet ", "washroom ", "water closet "], "A": []}

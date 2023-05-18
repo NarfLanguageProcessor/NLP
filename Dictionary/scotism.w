@@ -1,0 +1,1 @@
+{"index": 281367, "D": "the set of doctrines of Duns Scotus.", "S": [], "A": []}

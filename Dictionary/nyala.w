@@ -1,0 +1,1 @@
+{"index": 199532, "D": "an antelope, Tragelaphus angasii, of southeastern Africa, the male of which has a grayish body marked with white stripes.", "S": [], "A": []}

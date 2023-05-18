@@ -1,0 +1,1 @@
+{"index": 194816, "D": "a drinking cup, usually cylindrical in shape, having a handle, and often of a heavy substance, as earthenware.", "S": ["coffee cup ", "jug "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 253919, "D": "drawn out or lengthened in time; extended in duration", "S": ["continued ", "drawn-out ", "enduring ", "extensive ", "lengthy ", "lingering ", "sustained "], "A": []}

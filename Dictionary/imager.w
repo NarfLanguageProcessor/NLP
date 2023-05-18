@@ -1,0 +1,1 @@
+{"index": 147574, "D": "a thermal imager", "S": ["reflector ", "speculum "], "A": []}

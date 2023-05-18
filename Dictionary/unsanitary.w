@@ -1,0 +1,1 @@
+{"index": 350324, "D": "not sanitary;  unhealthy or unhealthful; tending to harbor or spread disease", "S": ["contaminated ", "filthy ", "unhealthy "], "A": []}

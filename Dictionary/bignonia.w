@@ -1,0 +1,1 @@
+{"index": 33764, "D": "any chiefly tropical American climbing shrub of the genus Bignonia, cultivated for its showy, trumpet-shaped flowers.", "S": [], "A": []}

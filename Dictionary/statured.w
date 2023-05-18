@@ -1,0 +1,1 @@
+{"index": 303150, "D": "of or having a stature  of a certain kind (usually used in combination)", "S": [], "A": []}

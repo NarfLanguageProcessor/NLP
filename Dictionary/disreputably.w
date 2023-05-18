@@ -1,0 +1,1 @@
+{"index": 89331, "D": "not reputable;  having a bad reputation", "S": ["dreadfully ", "wickedly "], "A": []}

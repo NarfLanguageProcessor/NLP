@@ -1,0 +1,1 @@
+{"index": 67701, "D": [], "S": ["adverse ", "antagonistic ", "clashing ", "contrary ", "incompatible ", "inconsistent ", "opposing ", "paradoxical "], "A": ["consonant ", "harmonious "]}

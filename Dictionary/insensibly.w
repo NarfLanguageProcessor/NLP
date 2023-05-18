@@ -1,0 +1,1 @@
+{"index": 153532, "D": "incapable of feeling or perceiving; deprived of sensation; unconscious, as a person after a violent blow.", "S": [], "A": []}

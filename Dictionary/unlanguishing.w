@@ -1,0 +1,1 @@
+{"index": 345428, "D": "becoming languid, in any way.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132084, "D": "the disintegration of red blood cells, with the release of haemoglobin, occurring in the living organism or in a blood sample", "S": [], "A": []}

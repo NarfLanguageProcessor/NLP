@@ -1,0 +1,1 @@
+{"index": 302062, "D": "eccentric; flighty.", "S": ["crazy ", "dumb ", "foolhardy ", "foolish ", "insane ", "silly "], "A": ["balanced ", "careful ", "cautious ", "reasonable ", "sane ", "sensible ", "serious ", "smart ", "thoughtful ", "wise "]}

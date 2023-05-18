@@ -1,0 +1,1 @@
+{"index": 223358, "D": "the study of fossil seeds and grains to further archaeological knowledge, esp of the domestication of cereals", "S": [], "A": []}

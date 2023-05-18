@@ -1,0 +1,1 @@
+{"index": 73719, "D": "the cultivated produce of the ground, while growing or when gathered", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173808, "D": "belonging to the Lythraceae, the loosestrife family of plants.", "S": [], "A": []}

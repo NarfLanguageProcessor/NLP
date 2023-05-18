@@ -1,0 +1,1 @@
+{"index": 16802, "D": "any shrub of the evergreen genus Aphelandra, originally from tropical America, widely grown as a house plant for its variegated shiny leaves and brightly coloured flowers", "S": [], "A": []}

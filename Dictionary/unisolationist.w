@@ -1,0 +1,1 @@
+{"index": 345019, "D": "a person who favors or works for isolationism. ", "S": [], "A": []}

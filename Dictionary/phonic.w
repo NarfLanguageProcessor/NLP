@@ -1,0 +1,1 @@
+{"index": 234702, "D": "of or relating to speech sounds.", "S": ["audile ", "audio ", "hearing "], "A": []}

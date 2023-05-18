@@ -1,0 +1,1 @@
+{"index": 217994, "D": "an anise-flavored, colorless liqueur of Greece.", "S": [], "A": []}

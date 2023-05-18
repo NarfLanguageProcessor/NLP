@@ -1,0 +1,1 @@
+{"index": 301886, "D": "to press forcibly together; compress.", "S": [], "A": []}

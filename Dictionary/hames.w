@@ -1,0 +1,1 @@
+{"index": 132951, "D": "to spoil through clumsiness or ineptitude", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 369, "D": "to encourage, support, or countenance by aid or approval, usually in wrongdoing", "S": ["aid ", "assist ", "assistance ", "encouragement ", "endorsement ", "hand ", "relief ", "succor ", "support "], "A": ["disapproval ", "discouragement ", "hindrance ", "hurt ", "injury ", "obstruction ", "opposition ", "stop ", "stoppage "]}

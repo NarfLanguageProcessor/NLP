@@ -1,0 +1,1 @@
+{"index": 227641, "D": "the exclusive right granted by a government to an inventor to manufacture, use, or sell an invention for a certain number of years.", "S": ["absorb ", "exclude ", "possess ", "take over ", "utilize "], "A": ["abstain ", "fail ", "ignore ", "lack ", "let go ", "lose ", "need ", "reject ", "release "]}

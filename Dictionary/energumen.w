@@ -1,0 +1,1 @@
+{"index": 100156, "D": "a person thought to be possessed by an evil spirit", "S": ["aficionados ", "extremists ", "fanatical group ", "fanaticos ", "fanatics ", "nuts ", "nympholepts ", "zealots "], "A": []}

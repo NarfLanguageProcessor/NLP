@@ -1,0 +1,1 @@
+{"index": 168800, "D": "a strap or lace used to fasten a shoe.", "S": [], "A": []}

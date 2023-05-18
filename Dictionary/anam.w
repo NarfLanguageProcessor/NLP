@@ -1,0 +1,1 @@
+{"index": 11818, "D": "a variant spelling of Annam", "S": [], "A": []}

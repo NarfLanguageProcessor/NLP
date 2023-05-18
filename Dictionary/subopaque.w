@@ -1,0 +1,1 @@
+{"index": 308673, "D": "not transparent or translucent; impenetrable to light; not allowing light to pass through.", "S": [], "A": []}

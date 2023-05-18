@@ -1,0 +1,1 @@
+{"index": 339050, "D": "a vault or chamber under the ground, especially in a church.", "S": ["catacomb ", "cave ", "cavern ", "cell ", "chamber ", "compartment ", "grave ", "grotto ", "mausoleum ", "room ", "sepulcher ", "tomb ", "vault "], "A": []}

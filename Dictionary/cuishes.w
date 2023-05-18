@@ -1,0 +1,1 @@
+{"index": 74666, "D": "a piece of armor or padding for protecting the thigh.", "S": [], "A": []}

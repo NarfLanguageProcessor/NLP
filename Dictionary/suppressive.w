@@ -1,0 +1,1 @@
+{"index": 313087, "D": "tending or acting to suppress; involving suppression", "S": ["covering up ", "curbing ", "holding back ", "quelling ", "repressing ", "repressive ", "silencing ", "stifling ", "subduing ", "withholding "], "A": []}

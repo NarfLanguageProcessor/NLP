@@ -1,0 +1,1 @@
+{"index": 317049, "D": "and his son, Karl Chri\u00b7sti\u00b7an Phi\u00b7lipp  [kris-tee-ahn -fee-lip, fil-ip],  /\u02c8kr\u026as ti\u02cc\u0251n \u02c8fi l\u026ap, \u02c8f\u026al \u026ap/,  1798\u20131884, German printers and publishers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213669, "D": "an appropriate or favorable time or occasion", "S": ["convenience ", "event ", "excuse ", "freedom ", "hope ", "moment ", "space ", "time "], "A": ["closing ", "closure ", "misfortune ", "reality ", "truth "]}

@@ -1,0 +1,1 @@
+{"index": 69448, "D": "a white or colored circle or set of concentric circles of light seen around a luminous body, especially around the sun or moon.", "S": ["aureole ", "cigar ", "circle ", "crown ", "light ", "ring ", "rosary ", "tiara ", "wreath "], "A": []}

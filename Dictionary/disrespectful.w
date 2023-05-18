@@ -1,0 +1,1 @@
+{"index": 89339, "D": "characterized by, having, or showing disrespect;  lacking courtesy or esteem", "S": ["blasphemous ", "contemptuous ", "flippant ", "impolite ", "profane ", "sacrilegious "], "A": ["courteous ", "polite ", "respectful ", "reverent "]}

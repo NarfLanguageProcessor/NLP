@@ -1,0 +1,1 @@
+{"index": 85879, "D": "a hallucinogenic drug, C12H16N2, with an action of short duration. Abbreviation", "S": [], "A": []}

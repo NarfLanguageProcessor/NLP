@@ -1,0 +1,1 @@
+{"index": 288381, "D": "a dense growth of small trees, especially scrub oaks.", "S": [], "A": []}

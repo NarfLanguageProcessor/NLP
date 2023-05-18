@@ -1,0 +1,1 @@
+{"index": 247479, "D": "to fabricate  or construct beforehand.", "S": ["development ", "manufacture ", "plan ", "planning ", "structure ", "system "], "A": ["disarrangement ", "truth "]}

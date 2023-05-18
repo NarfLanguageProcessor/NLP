@@ -1,0 +1,1 @@
+{"index": 38596, "D": "any particle that obeys Bose-Einstein statistics", "S": [], "A": []}

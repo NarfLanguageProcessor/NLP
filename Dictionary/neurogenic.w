@@ -1,0 +1,1 @@
+{"index": 199079, "D": "originating in a nerve or nerve tissue.", "S": [], "A": []}

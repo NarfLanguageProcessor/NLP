@@ -1,0 +1,1 @@
+{"index": 99413, "D": "something that encloses,  as a fence or wall.", "S": ["cage ", "courtyard ", "ghetto ", "pen "], "A": ["open "]}

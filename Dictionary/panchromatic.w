@@ -1,0 +1,1 @@
+{"index": 224382, "D": "sensitive to all visible colors, as a photographic film.", "S": [], "A": []}

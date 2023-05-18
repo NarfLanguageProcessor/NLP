@@ -1,0 +1,1 @@
+{"index": 99365, "D": "to convert (a message, communication, etc.) into cipher. ", "S": [], "A": []}

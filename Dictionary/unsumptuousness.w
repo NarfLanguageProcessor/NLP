@@ -1,0 +1,1 @@
+{"index": 352399, "D": "entailing great expense, as from choice materials, fine work, etc.; costly", "S": [], "A": []}

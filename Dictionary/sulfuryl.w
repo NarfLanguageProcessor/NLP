@@ -1,0 +1,1 @@
+{"index": 310523, "D": "containing the sulfuryl group,  SO2, as sulfuryl chloride;  sulfonyl.", "S": [], "A": []}

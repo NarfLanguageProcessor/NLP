@@ -1,0 +1,1 @@
+{"index": 171402, "D": "a former silver coin of France, the fourth part of a sol, issued from the 15th century to 1793 and made from copper after 1650.", "S": [], "A": []}

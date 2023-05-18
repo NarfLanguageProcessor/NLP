@@ -1,0 +1,1 @@
+{"index": 242999, "D": "a member of a Negroid people of southern Africa, living chiefly in Pondoland", "S": [], "A": []}

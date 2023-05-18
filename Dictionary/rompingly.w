@@ -1,0 +1,1 @@
+{"index": 274117, "D": "to play or frolic in a lively or boisterous manner.", "S": [], "A": []}

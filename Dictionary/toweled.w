@@ -1,0 +1,1 @@
+{"index": 326745, "D": "an absorbent cloth or paper for wiping and drying something wet, as one for the hands, face, or body after washing or bathing.", "S": ["clean ", "dry ", "dust ", "erase ", "mop ", "obliterate ", "remove ", "rub ", "wash "], "A": ["dirty "]}

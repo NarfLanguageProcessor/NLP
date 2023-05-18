@@ -1,0 +1,1 @@
+{"index": 348251, "D": "given to, characterized by, or expressive of prayer;  devout.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38272, "D": "someone who seeks favor or goodwill in a servile, degraded way; toady", "S": ["adulator "], "A": []}

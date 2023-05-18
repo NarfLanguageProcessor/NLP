@@ -1,0 +1,1 @@
+{"index": 70013, "D": "to improve superficially; cause to seem better or more attractive.", "S": [], "A": []}

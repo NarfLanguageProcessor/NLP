@@ -1,0 +1,1 @@
+{"index": 21668, "D": "to agree or concur; subscribe to (often followed by to)", "S": ["acknowledgment ", "acquiescence ", "concurrence ", "consent "], "A": ["disagreement ", "denial ", "disapproval ", "dissension ", "dissent ", "opposition ", "refusal ", "repudiation ", "veto "]}

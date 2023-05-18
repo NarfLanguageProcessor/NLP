@@ -1,0 +1,1 @@
+{"index": 228351, "D": "the subacid, juicy, drupaceous fruit of a tree, Prunus persica, of the rose family.", "S": ["acceptable ", "delicious ", "delightful ", "enjoyable ", "gratifying ", "mild ", "pleasant ", "satisfying "], "A": ["disagreeable ", "horrible ", "unacceptable ", "unenjoyable ", "unhappy ", "unpleasant "]}

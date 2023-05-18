@@ -1,0 +1,1 @@
+{"index": 97624, "D": "one of the pair of hardened forewings of certain insects, as beetles, forming a protective covering for the posterior or flight wings.", "S": [], "A": []}

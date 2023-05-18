@@ -1,0 +1,1 @@
+{"index": 65419, "D": "an agreement or compact, especially an official one.", "S": [], "A": []}

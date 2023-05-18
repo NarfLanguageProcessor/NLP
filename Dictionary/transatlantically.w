@@ -1,0 +1,1 @@
+{"index": 327687, "D": "crossing or reaching across the Atlantic", "S": [], "A": []}

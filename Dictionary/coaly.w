@@ -1,0 +1,1 @@
+{"index": 60979, "D": "of, resembling, or containing coal. ", "S": [], "A": []}

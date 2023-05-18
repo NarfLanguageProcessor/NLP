@@ -1,0 +1,1 @@
+{"index": 306391, "D": "a simple past tense and past participle of strip1. ", "S": [], "A": []}

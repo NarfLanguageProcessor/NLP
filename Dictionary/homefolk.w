@@ -1,0 +1,1 @@
+{"index": 142776, "D": [], "S": ["affinity ", "blood ", "clan ", "connection ", "consanguinity ", "cousin ", "family ", "flesh ", "folk ", "house ", "kin ", "kinsfolk ", "kinsperson ", "lineage ", "race ", "relation ", "relationship ", "stock ", "tribe "], "A": []}

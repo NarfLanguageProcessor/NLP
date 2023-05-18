@@ -1,0 +1,1 @@
+{"index": 130456, "D": [], "S": ["aliment ", "bite ", "comestibles ", "commons ", "edibles ", "fare ", "goodies ", "menu ", "nourishment ", "nutriment ", "nutrition ", "provisions ", "rations ", "snack ", "subsistence ", "sustenance ", "viands ", "victuals "], "A": ["deprivation ", "starvation "]}

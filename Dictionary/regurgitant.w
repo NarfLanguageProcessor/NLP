@@ -1,0 +1,1 @@
+{"index": 265905, "D": "to surge or rush back, as liquids, gases, undigested food, etc.", "S": [], "A": []}

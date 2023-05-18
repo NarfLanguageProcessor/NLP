@@ -1,0 +1,1 @@
+{"index": 256274, "D": "a railroad sleeping car or parlor car.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 262851, "D": "repeated or habitual relapse, as into crime.", "S": ["backsliding ", "relapse "], "A": ["ascent ", "betterment ", "improvement ", "increase ", "rise "]}

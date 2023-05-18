@@ -1,0 +1,1 @@
+{"index": 154735, "D": "immediately following a consonant and preceding a consonant, as the a in pat.", "S": [], "A": []}

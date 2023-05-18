@@ -1,0 +1,1 @@
+{"index": 348077, "D": "having or appearing to have a plume  or plumes. ", "S": [], "A": []}

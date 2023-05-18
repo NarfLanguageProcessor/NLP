@@ -1,0 +1,1 @@
+{"index": 260500, "D": "malicious resentfulness or hostility; spite", "S": [], "A": []}

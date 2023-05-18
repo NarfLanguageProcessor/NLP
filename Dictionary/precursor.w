@@ -1,0 +1,1 @@
+{"index": 246626, "D": "a person or thing that precedes, as in a job, a method, etc.; predecessor.", "S": ["forerunner ", "harbinger "], "A": []}

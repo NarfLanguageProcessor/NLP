@@ -1,0 +1,1 @@
+{"index": 340548, "D": "characterized by disorder;irregular; untidy; confused", "S": [], "A": []}

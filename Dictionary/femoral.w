@@ -1,0 +1,1 @@
+{"index": 111184, "D": "of, relating to, or situated at, in, or near the thigh or femur. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 113147, "D": "a combustible gas consisting chiefly of methane, formed especially in coal mines, and dangerously explosive when mixed with certain proportions of atmospheric air.", "S": [], "A": []}

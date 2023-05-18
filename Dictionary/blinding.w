@@ -1,0 +1,1 @@
+{"index": 36229, "D": "a layer of sand or fine gravel for filling the gaps in the surfaces of a road or pavement, as one of crushed and compacted stone.", "S": ["blatant ", "blazing ", "garish ", "shining "], "A": ["concealed ", "dark ", "dull ", "hidden ", "plain "]}

@@ -1,0 +1,1 @@
+{"index": 7902, "D": "fully aware and attentive; wide-awake; keen", "S": ["readiness ", "vigilance "], "A": []}

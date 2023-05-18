@@ -1,0 +1,1 @@
+{"index": 191937, "D": "a slender, ferretlike carnivore, Herpestes edwardsi, of India, that feeds on rodents, birds, and eggs, noted especially for its ability to kill cobras and other venomous snakes.", "S": [], "A": []}

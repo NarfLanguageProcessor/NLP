@@ -1,0 +1,1 @@
+{"index": 273583, "D": "a Californian white oak, Quercus lobata, having a short trunk and large, spreading branches.", "S": [], "A": []}

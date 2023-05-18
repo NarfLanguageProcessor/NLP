@@ -1,0 +1,1 @@
+{"index": 344449, "D": "to be a sign of; betoken; evidence; show", "S": [], "A": []}

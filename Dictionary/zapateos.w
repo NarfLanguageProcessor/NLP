@@ -1,0 +1,1 @@
+{"index": 368869, "D": "a Cuban dance in three-quarter time emphasizing staccato stamping footwork.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 46406, "D": "a gold or silver thread with a spiral twist, formerly much used in embroidery.", "S": [], "A": []}

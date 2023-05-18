@@ -1,0 +1,1 @@
+{"index": 173857, "D": "a long, worm-shaped cartilage in the tongue of the dog and other carnivorous animals.", "S": [], "A": []}

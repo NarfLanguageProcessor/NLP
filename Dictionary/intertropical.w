@@ -1,0 +1,1 @@
+{"index": 156101, "D": "situated or occurring between the tropic of Cancer and the tropic of Capricorn; tropical. ", "S": [], "A": []}

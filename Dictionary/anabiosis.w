@@ -1,0 +1,1 @@
+{"index": 11479, "D": "a bringing back to consciousness; reanimation after apparent death.", "S": [], "A": []}

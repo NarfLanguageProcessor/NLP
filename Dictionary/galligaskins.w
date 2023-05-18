@@ -1,0 +1,1 @@
+{"index": 121387, "D": "loose hose or breeches worn in the 16th and 17th centuries.", "S": [], "A": []}

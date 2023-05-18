@@ -1,0 +1,1 @@
+{"index": 147796, "D": "a compound derived from ammonia by replacement of two hydrogen atoms by acidic groups, characterized by the =NH group.", "S": [], "A": []}

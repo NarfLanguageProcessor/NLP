@@ -1,0 +1,1 @@
+{"index": 114084, "D": "a nonelectric iron  with a flat  bottom, heated for use in pressing clothes, cloth, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250000, "D": "a variant spelling of praetor", "S": [], "A": []}

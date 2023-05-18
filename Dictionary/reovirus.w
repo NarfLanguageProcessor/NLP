@@ -1,0 +1,1 @@
+{"index": 267931, "D": "any large virus of the family Reoviridae, having double-stranded RNA and a polyhedral capsid, including those causing infantile gastroenteritis.", "S": [], "A": []}

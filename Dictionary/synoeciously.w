@@ -1,0 +1,1 @@
+{"index": 291897, "D": "having male and female flowers on one head, as in many composite plants.", "S": [], "A": []}

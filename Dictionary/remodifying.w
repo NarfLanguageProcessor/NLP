@@ -1,0 +1,1 @@
+{"index": 267402, "D": "to change somewhat the form or qualities of; alter partially; amend", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 179382, "D": "having qualities traditionally ascribed to men,  as strength or bravery.", "S": ["male ", "manful ", "masculine ", "virile "], "A": ["effeminate ", "unmanly ", "unmasculine "]}

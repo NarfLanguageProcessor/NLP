@@ -1,0 +1,1 @@
+{"index": 304604, "D": "one of two poles, each with a support for the foot at some distance above the bottom end, enabling the wearer to walk with their feet above the ground.", "S": [], "A": []}

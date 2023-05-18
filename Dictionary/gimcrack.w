@@ -1,0 +1,1 @@
+{"index": 124988, "D": "a showy, useless trifle; gewgaw.", "S": ["gewgaw ", "trinket "], "A": []}

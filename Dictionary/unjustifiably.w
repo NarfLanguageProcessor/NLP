@@ -1,0 +1,1 @@
+{"index": 345258, "D": "capable of being justified;  that can be shown to be or can be defended as being just, right, or warranted; defensible", "S": ["unlawfully ", "wrongly "], "A": ["justifiably "]}

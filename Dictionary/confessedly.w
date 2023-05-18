@@ -1,0 +1,1 @@
+{"index": 65851, "D": "by confession or acknowledgment; admittedly.", "S": [], "A": []}

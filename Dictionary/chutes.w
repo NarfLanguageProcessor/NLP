@@ -1,0 +1,1 @@
+{"index": 56764, "D": "an inclined channel, as a trough, tube, or shaft, for conveying water, grain, coal, etc., to a lower level.", "S": ["channel ", "course ", "fall ", "gutter ", "incline ", "rapid ", "runway ", "slide ", "trough "], "A": []}

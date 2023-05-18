@@ -1,0 +1,1 @@
+{"index": 41792, "D": "the main force or impact, as of an attack or blow", "S": ["burden ", "force ", "impact ", "pressure ", "shock ", "strain ", "stress ", "tension ", "thrust ", "violence "], "A": ["ease ", "peace ", "relaxation "]}

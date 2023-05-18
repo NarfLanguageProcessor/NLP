@@ -1,0 +1,1 @@
+{"index": 98706, "D": "in a way that seeks to enter into or psychologically identify with the emotions, thoughts, or attitudes of others", "S": [], "A": []}

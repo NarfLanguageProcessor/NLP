@@ -1,0 +1,1 @@
+{"index": 307250, "D": "(in higher vertebrates) one of the proximal bones of the tarsus; talus.", "S": [], "A": []}

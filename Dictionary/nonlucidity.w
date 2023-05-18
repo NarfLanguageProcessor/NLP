@@ -1,0 +1,1 @@
+{"index": 205094, "D": "the quality of being easily understood, completely intelligible, or comprehensible", "S": [], "A": []}

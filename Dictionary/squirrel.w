@@ -1,0 +1,1 @@
+{"index": 302052, "D": "any of numerous arboreal, bushy-tailed rodents of the genus Sciurus, of the family Sciuridae.", "S": ["cache ", "collect ", "deposit ", "garner ", "gather ", "hide ", "keep ", "save ", "stash ", "stockpile ", "store ", "treasure "], "A": ["disperse ", "distribute ", "divide ", "give ", "scatter ", "separate ", "spread ", "squander ", "waste "]}

@@ -1,0 +1,1 @@
+{"index": 57587, "D": "any of several trees or shrubs of the genus Cinchona, of the madder family, especially C. calisaya, native to the Andes, cultivated there and in Java and India for its bark, which yields quinine and other alkaloids.", "S": [], "A": []}

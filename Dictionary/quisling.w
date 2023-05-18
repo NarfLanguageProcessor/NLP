@@ -1,0 +1,1 @@
+{"index": 259006, "D": "a person who betrays their own country by aiding an invading enemy, often serving later in a puppet government; fifth columnist.", "S": ["Judas ", "betrayer ", "collaborator ", "defector ", "deserter ", "double-crosser ", "double-dealer ", "sympathizer ", "turncoat ", "two-timer "], "A": []}

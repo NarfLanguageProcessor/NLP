@@ -1,0 +1,1 @@
+{"index": 312793, "D": "a tanker  with a deadweight capacity of over 75,000 tons.", "S": [], "A": []}

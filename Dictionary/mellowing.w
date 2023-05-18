@@ -1,0 +1,1 @@
+{"index": 182966, "D": "soft, sweet, and full-flavored from ripeness, as fruit.", "S": ["advancing ", "aging ", "blossoming ", "consummating ", "developing ", "evolving ", "growing ", "perfecting ", "preparing ", "sprouting ", "sweetening "], "A": ["declining ", "dying ", "fading "]}

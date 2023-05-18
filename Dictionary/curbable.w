@@ -1,0 +1,1 @@
+{"index": 75216, "D": "a rim, especially of joined stones or concrete, along a street or roadway, forming an edge for a sidewalk.", "S": [], "A": []}

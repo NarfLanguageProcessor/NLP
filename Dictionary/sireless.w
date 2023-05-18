@@ -1,0 +1,1 @@
+{"index": 292322, "D": "the male parent of a quadruped.", "S": [], "A": []}

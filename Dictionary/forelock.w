@@ -1,0 +1,1 @@
+{"index": 116776, "D": "the lock of hair that grows from the fore part of the head.", "S": [], "A": []}

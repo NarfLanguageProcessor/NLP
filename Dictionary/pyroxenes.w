@@ -1,0 +1,1 @@
+{"index": 237980, "D": "any of a very common group of minerals of many varieties, silicates of magnesium, iron, calcium, and other elements, occurring as important constituents of many kinds of rocks, especially basic igneous rocks.", "S": [], "A": []}

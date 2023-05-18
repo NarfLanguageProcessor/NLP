@@ -1,0 +1,1 @@
+{"index": 88438, "D": "to exclude from inheritance (an heir or a next of kin).", "S": [], "A": []}

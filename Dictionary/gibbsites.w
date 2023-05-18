@@ -1,0 +1,1 @@
+{"index": 124685, "D": "a mineral, hydrated aluminum oxide, Al2O3\u00b73H2O, occurring in whitish or grayish crystals and masses", "S": [], "A": []}

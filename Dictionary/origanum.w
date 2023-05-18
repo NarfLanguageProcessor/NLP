@@ -1,0 +1,1 @@
+{"index": 214587, "D": "See oregano, marjoram, dittany (def. 1)", "S": [], "A": []}

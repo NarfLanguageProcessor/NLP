@@ -1,0 +1,1 @@
+{"index": 104635, "D": "sensation; feeling.", "S": [], "A": []}

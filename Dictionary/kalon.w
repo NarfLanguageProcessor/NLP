@@ -1,0 +1,1 @@
+{"index": 162935, "D": "(especially in ancient Greek philosophy) the ideal of beauty, especially moral goodness or nobility", "S": [], "A": []}

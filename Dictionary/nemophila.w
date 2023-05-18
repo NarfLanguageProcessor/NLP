@@ -1,0 +1,1 @@
+{"index": 198274, "D": "any of a genus, Nemophila, of low-growing hairy annual plants, esp N. menziesii, grown for its blue or white flowers", "S": [], "A": []}

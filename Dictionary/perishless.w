@@ -1,0 +1,1 @@
+{"index": 231315, "D": "to die or be destroyed through violence, privation, etc.", "S": [], "A": []}

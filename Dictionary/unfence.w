@@ -1,0 +1,1 @@
+{"index": 342161, "D": "a barrier enclosing or bordering a field, yard, etc., usually made of vertical posts connected with horizontal sections of sturdy material or materials, as wood, metal, vinyl, or wire, used to prevent entrance, to confine, or to mark a boundary", "S": [], "A": []}

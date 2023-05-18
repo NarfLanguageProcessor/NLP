@@ -1,0 +1,1 @@
+{"index": 356946, "D": "any of several epiphytic orchids of the genus Vanda, of tropical regions of the Eastern Hemisphere, having large white, lilac, blue, or greenish flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 209312, "D": "any enzyme that catalyzes the hydrolysis of nucleic acids.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214220, "D": "neatly or conveniently arranged; well-organized", "S": ["arranged ", "controlled ", "organized "], "A": []}

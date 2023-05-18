@@ -1,0 +1,1 @@
+{"index": 145057, "D": "characterized by humor;  funny; comical", "S": ["amusingly ", "jokingly "], "A": []}

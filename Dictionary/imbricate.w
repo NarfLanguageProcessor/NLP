@@ -1,0 +1,1 @@
+{"index": 147741, "D": "overlapping in sequence, as tiles or shingles on a roof.", "S": ["cover ", "enfold ", "envelop ", "fold ", "overlie ", "override ", "ride ", "shingle ", "swaddle ", "swathe ", "turn ", "twist ", "wrap "], "A": ["free ", "let go ", "release ", "uncover ", "unwrap "]}

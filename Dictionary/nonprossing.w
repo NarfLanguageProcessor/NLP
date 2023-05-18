@@ -1,0 +1,1 @@
+{"index": 206308, "D": "to adjudge (a plaintiff) in default.", "S": [], "A": []}

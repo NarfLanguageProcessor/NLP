@@ -1,0 +1,1 @@
+{"index": 206311, "D": "having the quality or function of protecting", "S": [], "A": []}

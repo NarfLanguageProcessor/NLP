@@ -1,0 +1,1 @@
+{"index": 88312, "D": "lack or loss of honor;  disgraceful or dishonest character or conduct.", "S": [], "A": []}

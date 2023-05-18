@@ -1,0 +1,1 @@
+{"index": 205721, "D": "the act or process of relieving a patient\u2019s suffering without curing the disease that is causing it", "S": [], "A": []}

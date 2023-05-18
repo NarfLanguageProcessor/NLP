@@ -1,0 +1,1 @@
+{"index": 105572, "D": "any of several shrubs or small trees of the genus Euonymus, of northern temperate regions, having opposite leaves, branching clusters of small, greenish or purplish flowers, and crimson or rose-colored capsules that on opening disclose the seed.", "S": [], "A": []}

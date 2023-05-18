@@ -1,0 +1,1 @@
+{"index": 199495, "D": "the standard unit of force in the International System of Units (SI), equal to the force that produces an acceleration of one meter per second per second on a mass of one kilogram. Abbreviation", "S": [], "A": []}

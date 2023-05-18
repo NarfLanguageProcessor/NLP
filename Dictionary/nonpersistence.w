@@ -1,0 +1,1 @@
+{"index": 205903, "D": "the act or fact of persisting. ", "S": [], "A": []}

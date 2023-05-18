@@ -1,0 +1,1 @@
+{"index": 280193, "D": "any elongated trematode of the genus Schistosoma, parasitic in the blood vessels of humans and other mammals; a blood fluke.", "S": [], "A": []}

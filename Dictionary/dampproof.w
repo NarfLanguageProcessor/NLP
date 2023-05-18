@@ -1,0 +1,1 @@
+{"index": 76640, "D": "resistant to dampness or the effects of dampness.", "S": [], "A": []}

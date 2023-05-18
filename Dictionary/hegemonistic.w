@@ -1,0 +1,1 @@
+{"index": 135331, "D": "the policy or practice of hegemony  to serve national interests.", "S": [], "A": []}

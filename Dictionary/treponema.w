@@ -1,0 +1,1 @@
+{"index": 328987, "D": "any of several anaerobic spirochetes of the genus Treponema, certain species of which are parasitic in and pathogenic for humans and warm-blooded animals.", "S": [], "A": []}

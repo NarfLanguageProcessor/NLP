@@ -1,0 +1,1 @@
+{"index": 59624, "D": "an act or instance of making clean", "S": ["purification ", "sanitation ", "sterilization ", "washing "], "A": []}

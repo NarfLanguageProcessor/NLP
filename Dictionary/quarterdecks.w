@@ -1,0 +1,1 @@
+{"index": 258041, "D": "the part of a weather deck that runs aft from the midship area or the mainmast to the stern or poop of a vessel.", "S": [], "A": []}

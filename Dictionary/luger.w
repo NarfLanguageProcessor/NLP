@@ -1,0 +1,1 @@
+{"index": 175943, "D": "a brand of automatic pistol of 9-millimeter caliber, made in Germany.", "S": [], "A": []}

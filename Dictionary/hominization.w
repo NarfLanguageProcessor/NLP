@@ -1,0 +1,1 @@
+{"index": 142952, "D": "the evolution of the human traits that set the genus Homo apart from its primate ancestors.", "S": [], "A": []}

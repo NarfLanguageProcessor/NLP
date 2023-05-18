@@ -1,0 +1,1 @@
+{"index": 354481, "D": "to bear up; raise aloft; sustain or support.", "S": [], "A": []}

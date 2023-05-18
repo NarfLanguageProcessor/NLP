@@ -1,0 +1,1 @@
+{"index": 66780, "D": "a person who conserves  or preserves; preserver; protector. ", "S": ["curator ", "custodian ", "restorer "], "A": []}

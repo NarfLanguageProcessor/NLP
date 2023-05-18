@@ -1,0 +1,1 @@
+{"index": 304489, "D": "characterized by or conforming to style  or the fashionable standard; fashionably elegant; smart or chic", "S": ["brio ", "dash ", "dynamism ", "flair ", "flourish ", "gusto ", "oomph ", "panache ", "pizazz ", "verve ", "vigor ", "vitality ", "vivaciousness ", "vivacity ", "zest ", "zing ", "\u00e9lan "], "A": []}

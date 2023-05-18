@@ -1,0 +1,1 @@
+{"index": 352307, "D": "having followed or replaced another by descent, election, appointment, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 350667, "D": "not seduced, especially by the lure of personal gain, power, fame, etc.", "S": [], "A": []}

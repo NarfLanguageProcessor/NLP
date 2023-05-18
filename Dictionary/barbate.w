@@ -1,0 +1,1 @@
+{"index": 27744, "D": "tufted or furnished with hairs; bearded.", "S": ["shaggy ", "unshaven "], "A": []}

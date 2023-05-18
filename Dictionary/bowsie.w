@@ -1,0 +1,1 @@
+{"index": 39246, "D": "a low-class mean or obstreperous person", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 324646, "D": "any member of the extinct mammalian family Brontotheriidae, large, horned relatives of the horse common in North America and Eurasia from the Eocene to the Oligocene epochs.", "S": [], "A": []}

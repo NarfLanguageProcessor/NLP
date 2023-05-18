@@ -1,0 +1,1 @@
+{"index": 156784, "D": "the introduction of genes from one species into the gene pool  of another species, occurring when matings between the two produce fertile hybrids. ", "S": ["access ", "admission ", "admittance ", "entrance "], "A": ["blackballing ", "conclusion ", "egress ", "exit ", "fan ", "refusal ", "rejection ", "spectator "]}

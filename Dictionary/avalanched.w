@@ -1,0 +1,1 @@
+{"index": 24582, "D": "a large mass of snow, ice, etc., detached from a mountain slope and sliding or falling suddenly downward.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 75728, "D": "a government building or office, as at a seaport, for collecting customs, clearing vessels, etc.", "S": [], "A": []}

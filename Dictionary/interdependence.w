@@ -1,0 +1,1 @@
+{"index": 154819, "D": "the quality or condition of being interdependent,  or mutually reliant on each other", "S": ["interconnection ", "interrelationship ", "linkage "], "A": ["antagonism ", "difference ", "disassociation ", "disconnection ", "dissimilarity ", "disunion ", "opposition ", "separation "]}

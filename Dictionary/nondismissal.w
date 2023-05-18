@@ -1,0 +1,1 @@
+{"index": 203177, "D": "an act or instance of dismissing. ", "S": [], "A": []}

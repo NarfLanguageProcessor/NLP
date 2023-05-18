@@ -1,0 +1,1 @@
+{"index": 28603, "D": "to raise the pH of (a substance) above 7, thus making it alkaline.", "S": [], "A": []}

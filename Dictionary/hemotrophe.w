@@ -1,0 +1,1 @@
+{"index": 136497, "D": "the material from the maternal bloodstream and placenta that nourishes a mammalian embryo.", "S": [], "A": []}

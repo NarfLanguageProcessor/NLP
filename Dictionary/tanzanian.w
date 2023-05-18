@@ -1,0 +1,1 @@
+{"index": 316267, "D": "of or relating to Tanzania or its inhabitants", "S": [], "A": []}

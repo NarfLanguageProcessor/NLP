@@ -1,0 +1,1 @@
+{"index": 303980, "D": "of, relating to, or based on three-dimensional studies of the brain, especially as an adjunct to brain surgery.", "S": [], "A": []}

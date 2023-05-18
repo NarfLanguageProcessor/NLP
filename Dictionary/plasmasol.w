@@ -1,0 +1,1 @@
+{"index": 239159, "D": "the relatively fluid, inner cytoplasm of a pseudopod of an ameba.", "S": [], "A": []}

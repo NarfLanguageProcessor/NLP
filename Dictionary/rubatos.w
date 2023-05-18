@@ -1,0 +1,1 @@
+{"index": 275088, "D": "having certain notes arbitrarily lengthened while others are correspondingly shortened, or vice versa.", "S": [], "A": []}

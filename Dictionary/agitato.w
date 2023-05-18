@@ -1,0 +1,1 @@
+{"index": 6225, "D": "agitated; restless or hurried in movement or style.", "S": [], "A": []}

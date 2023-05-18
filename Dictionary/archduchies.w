@@ -1,0 +1,1 @@
+{"index": 18795, "D": "the domain of an archduke or an archduchess.", "S": [], "A": []}

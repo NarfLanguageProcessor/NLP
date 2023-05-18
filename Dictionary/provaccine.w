@@ -1,0 +1,1 @@
+{"index": 254004, "D": "any preventive preparation used to stimulate the body\u2019s immune response against a specific disease, using either messenger RNA or killed or weakened bacteria or viruses to prepare the body to recognize a disease and produce antibodies.", "S": [], "A": []}

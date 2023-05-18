@@ -1,0 +1,1 @@
+{"index": 139477, "D": "a hilly and often remote region", "S": ["country ", "family ", "farm ", "hometown ", "household ", "land ", "neighborhood ", "site "], "A": ["office "]}

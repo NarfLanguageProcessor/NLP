@@ -1,0 +1,1 @@
+{"index": 171283, "D": "levorotatory. ", "S": [], "A": []}

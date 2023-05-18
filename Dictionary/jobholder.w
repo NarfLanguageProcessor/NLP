@@ -1,0 +1,1 @@
+{"index": 161440, "D": "a person who has a regular or steady job. ", "S": ["agent ", "apprentice ", "assistant ", "attendant ", "breadwinner ", "clerk ", "cog ", "domestic ", "hand ", "help ", "hireling ", "laborer ", "member ", "operator ", "plug ", "representative ", "salesperson ", "servant ", "slave ", "worker "], "A": ["check ", "hindrance ", "master ", "obstruction "]}

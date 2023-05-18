@@ -1,0 +1,1 @@
+{"index": 74888, "D": "a fragrant crystalline substance, C9H6O2, obtained from the tonka bean, sweet clover, and certain other plants or prepared synthetically, used chiefly in soaps and perfumery.", "S": [], "A": []}

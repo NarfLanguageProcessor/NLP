@@ -1,0 +1,1 @@
+{"index": 320499, "D": "any of various former large coins of various German states; dollar. ", "S": [], "A": []}

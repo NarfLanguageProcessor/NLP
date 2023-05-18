@@ -1,0 +1,1 @@
+{"index": 49500, "D": "a person who catechizes. ", "S": [], "A": []}

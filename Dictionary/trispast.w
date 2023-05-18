@@ -1,0 +1,1 @@
+{"index": 330605, "D": "an ancient hoist or hauling device having three blocks.", "S": [], "A": []}

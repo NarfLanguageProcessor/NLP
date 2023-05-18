@@ -1,0 +1,1 @@
+{"index": 133344, "D": "a delay in the detonation of gunpowder or other ammunition, caused by some defect in the fuze.", "S": [], "A": []}

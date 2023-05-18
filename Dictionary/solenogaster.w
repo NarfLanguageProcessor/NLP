@@ -1,0 +1,1 @@
+{"index": 296649, "D": "any of a group of wormlike mollusks, class Solenogastres (formerly Aplacophora), inhabiting deep ocean layers and having fine limy spicules on the covering mantle.", "S": [], "A": []}

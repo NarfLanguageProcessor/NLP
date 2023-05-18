@@ -1,0 +1,1 @@
+{"index": 337003, "D": "free from dirt; unsoiled; unstained", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232583, "D": "having or wearing a petticoat. ", "S": [], "A": []}

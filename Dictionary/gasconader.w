@@ -1,0 +1,1 @@
+{"index": 122341, "D": "extravagant boasting; boastful talk.", "S": [], "A": []}

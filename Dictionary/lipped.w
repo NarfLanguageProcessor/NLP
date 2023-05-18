@@ -1,0 +1,1 @@
+{"index": 173236, "D": "having lips  or a lip. ", "S": ["brush ", "glance ", "graze ", "greet ", "salute "], "A": []}

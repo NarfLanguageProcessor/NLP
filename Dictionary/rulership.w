@@ -1,0 +1,1 @@
+{"index": 275466, "D": "the act or fact of ruling or the state of being ruled", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 84330, "D": "of, relating to, or along a diameter. ", "S": ["conflicting ", "contrary ", "contrasting ", "counter ", "opposed ", "polar "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 317721, "D": "of or relating to building or construction; constructive; architectural.", "S": [], "A": []}

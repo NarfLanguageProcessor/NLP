@@ -1,0 +1,1 @@
+{"index": 91187, "D": "a very common mineral, calcium magnesium carbonate, CaMg(CO3)2, occurring in crystals and in masses.", "S": [], "A": []}

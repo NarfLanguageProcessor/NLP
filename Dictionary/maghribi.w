@@ -1,0 +1,1 @@
+{"index": 177396, "D": "a native or inhabitant of the Maghreb.", "S": [], "A": []}

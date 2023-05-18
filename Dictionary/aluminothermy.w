@@ -1,0 +1,1 @@
+{"index": 9630, "D": "a process of producing high temperatures by causing finely divided aluminum to react with the oxygen from another metallic oxide.", "S": [], "A": []}

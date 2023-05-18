@@ -1,0 +1,1 @@
+{"index": 171438, "D": "a strong westerly or southwesterly wind blowing onto the W coast of Corsica", "S": [], "A": []}

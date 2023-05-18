@@ -1,0 +1,1 @@
+{"index": 61399, "D": "one of an Asian breed of chickens, resembling the Brahma but slightly smaller.", "S": [], "A": []}

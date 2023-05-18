@@ -1,0 +1,1 @@
+{"index": 204413, "D": "characteristic of or affected by hemophilia. ", "S": [], "A": []}

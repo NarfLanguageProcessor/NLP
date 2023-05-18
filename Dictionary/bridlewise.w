@@ -1,0 +1,1 @@
+{"index": 40709, "D": "(of a horse) obedient to a touch of the reins on the neck, without pressure of the bit on the mouth.", "S": [], "A": []}

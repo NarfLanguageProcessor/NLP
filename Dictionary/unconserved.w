@@ -1,0 +1,1 @@
+{"index": 337701, "D": "to prevent injury, decay, waste, or loss of", "S": [], "A": []}

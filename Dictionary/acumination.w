@@ -1,0 +1,1 @@
+{"index": 3350, "D": "pointed; tapering to a point.", "S": ["acicula ", "apex ", "mucro ", "mucronation ", "sharp point ", "spike ", "tapering point ", "tip "], "A": []}

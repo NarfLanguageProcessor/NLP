@@ -1,0 +1,1 @@
+{"index": 104132, "D": "a person who escapes,  especially from a prison or other place of detention.", "S": ["defector ", "deserter ", "runaway "], "A": []}

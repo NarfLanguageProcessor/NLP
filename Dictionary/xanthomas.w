@@ -1,0 +1,1 @@
+{"index": 368275, "D": "a yellow papule or nodule in the skin, containing lipid deposits.", "S": [], "A": []}

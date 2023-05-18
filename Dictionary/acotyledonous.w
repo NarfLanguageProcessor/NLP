@@ -1,0 +1,1 @@
+{"index": 2682, "D": "a plant without cotyledons,  therefore one belonging to a group lower than the seed plants.", "S": [], "A": []}

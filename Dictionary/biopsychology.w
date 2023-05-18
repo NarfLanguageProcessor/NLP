@@ -1,0 +1,1 @@
+{"index": 34503, "D": "a field of psychology  that deals with the effects of biological factors on behavior.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 302936, "D": "U.S. outlaw and folk hero.", "S": [], "A": []}

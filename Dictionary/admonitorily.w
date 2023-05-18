@@ -1,0 +1,1 @@
+{"index": 4236, "D": "tending or serving to admonish;  warning", "S": [], "A": []}

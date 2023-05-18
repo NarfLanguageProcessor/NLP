@@ -1,0 +1,1 @@
+{"index": 1491, "D": "amenable; open", "S": ["acceptive ", "amenable ", "open ", "open-minded "], "A": []}

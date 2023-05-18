@@ -1,0 +1,1 @@
+{"index": 322304, "D": "the theological and philosophical system of Thomas Aquinas. ", "S": [], "A": []}

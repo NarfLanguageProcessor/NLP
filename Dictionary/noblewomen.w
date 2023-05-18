@@ -1,0 +1,1 @@
+{"index": 200583, "D": "a woman of noble  birth or rank.", "S": ["archduchess ", "baroness ", "countess ", "duchess ", "empress ", "gentlewoman ", "lady ", "marquise ", "peeress ", "princess ", "queen "], "A": []}

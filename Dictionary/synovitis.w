@@ -1,0 +1,1 @@
+{"index": 291992, "D": "inflammation of a synovial membrane.", "S": [], "A": []}

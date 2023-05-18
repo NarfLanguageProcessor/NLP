@@ -1,0 +1,1 @@
+{"index": 367564, "D": "a person or thing that surpasses all others of like kind, as in quality, ability, or endurance.", "S": [], "A": []}

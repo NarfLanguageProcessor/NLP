@@ -1,0 +1,1 @@
+{"index": 343058, "D": "of, like, or befitting a girl  or girlhood", "S": [], "A": []}

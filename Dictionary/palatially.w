@@ -1,0 +1,1 @@
+{"index": 223557, "D": "of, relating to, or resembling a palace", "S": [], "A": []}

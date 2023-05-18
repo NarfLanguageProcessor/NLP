@@ -1,0 +1,1 @@
+{"index": 11728, "D": "restoring; invigorating;  giving strength after disease.", "S": ["encouraging ", "reassuring ", "refreshing ", "soothing "], "A": ["aggravating ", "depressing ", "dispiriting ", "distressing ", "disturbing ", "irritating ", "upsetting ", "worrying "]}

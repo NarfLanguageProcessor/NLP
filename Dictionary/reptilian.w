@@ -1,0 +1,1 @@
+{"index": 268715, "D": "belonging or pertaining to the Reptilia. ", "S": ["ophidian "], "A": []}

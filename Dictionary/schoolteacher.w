@@ -1,0 +1,1 @@
+{"index": 280503, "D": "a teacher  in a school,  especially in one below the college level.", "S": ["educationist ", "instructor ", "lecturer ", "professor "], "A": ["pupil ", "student "]}

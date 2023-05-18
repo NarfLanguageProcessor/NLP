@@ -1,0 +1,1 @@
+{"index": 67313, "D": "fit to be or capable of being contemplated.", "S": [], "A": []}

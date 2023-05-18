@@ -1,0 +1,1 @@
+{"index": 159450, "D": "to become Italian  in manner, character, etc.", "S": [], "A": []}

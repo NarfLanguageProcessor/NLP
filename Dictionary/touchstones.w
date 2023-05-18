@@ -1,0 +1,1 @@
+{"index": 326588, "D": "a test or criterion for the qualities of a thing.", "S": ["barometer ", "criterion "], "A": []}

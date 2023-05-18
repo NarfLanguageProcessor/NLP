@@ -1,0 +1,1 @@
+{"index": 243353, "D": "to make into or coat with porcelain  or something resembling porcelain. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 58723, "D": "the branch of biology linking the study of genetic inheritance with the study of cell structure, especially for human chromosome analysis for the detection of inheritable diseases.", "S": [], "A": []}

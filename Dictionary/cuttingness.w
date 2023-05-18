@@ -1,0 +1,1 @@
+{"index": 75860, "D": "the act of a person or thing that cuts.", "S": [], "A": []}

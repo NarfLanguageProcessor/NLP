@@ -1,0 +1,1 @@
+{"index": 19015, "D": "a person who engages in the profession of architecture.", "S": ["artist ", "builder ", "creator ", "designer ", "engineer ", "inventor ", "planner "], "A": []}

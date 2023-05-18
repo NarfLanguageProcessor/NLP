@@ -1,0 +1,1 @@
+{"index": 55543, "D": "to change (a precursor tissue) into cartilage.", "S": [], "A": []}

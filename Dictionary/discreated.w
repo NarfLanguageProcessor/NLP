@@ -1,0 +1,1 @@
+{"index": 87689, "D": "to reduce to nothing; annihilate.", "S": ["confound ", "disorganize ", "involve ", "muddle "], "A": ["clear up ", "enlighten ", "explain ", "order ", "organize ", "arrange ", "clean up ", "divide ", "exclude ", "neaten ", "separate ", "tidy ", "untangle ", "untwist "]}

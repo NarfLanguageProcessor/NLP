@@ -1,0 +1,1 @@
+{"index": 146515, "D": "a diminutive suffix occurring in loanwords from Greek", "S": [], "A": []}

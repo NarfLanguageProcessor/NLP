@@ -1,0 +1,1 @@
+{"index": 104755, "D": "any of several major female sex hormones produced primarily by the ovarian follicles of female mammals, capable of inducing estrus,  developing and maintaining secondary female sex characteristics, and preparing the uterus for the reception of a fertilized egg", "S": [], "A": []}

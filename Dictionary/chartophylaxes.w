@@ -1,0 +1,1 @@
+{"index": 52998, "D": "an official who serves chiefly as the chancellor and archivist of a diocese.", "S": [], "A": []}

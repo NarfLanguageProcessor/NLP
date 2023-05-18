@@ -1,0 +1,1 @@
+{"index": 96211, "D": "to make Egyptian;  assign Egyptian origin or characteristics to.", "S": [], "A": []}

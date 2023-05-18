@@ -1,0 +1,1 @@
+{"index": 132295, "D": "a small conical pile of hay  stacked in a hayfield while the hay  is awaiting removal to a barn.", "S": ["hay ", "hayrick ", "pile ", "rick ", "sheaf ", "stack "], "A": []}

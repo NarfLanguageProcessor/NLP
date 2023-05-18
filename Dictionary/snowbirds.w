@@ -1,0 +1,1 @@
+{"index": 295788, "D": "any of various birds that winter in a cold, snowy climate, especially the dark-eyed junco  and the snow bunting. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211783, "D": "electric resistance expressed in ohms. ", "S": [], "A": []}

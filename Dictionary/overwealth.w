@@ -1,0 +1,1 @@
+{"index": 221795, "D": "a great quantity or store of money, valuable possessions, property, or other riches", "S": [], "A": []}

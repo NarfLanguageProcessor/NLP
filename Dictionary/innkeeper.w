@@ -1,0 +1,1 @@
+{"index": 153053, "D": "a person who owns or manages an inn  or, sometimes, a hotel.", "S": ["host ", "hotelkeeper ", "proprietor "], "A": []}

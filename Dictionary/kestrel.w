@@ -1,0 +1,1 @@
+{"index": 164092, "D": "a common small falcon, Falco tinnunculus, of northern parts of the Eastern Hemisphere, notable for hovering in the air with its head to the wind.", "S": [], "A": []}

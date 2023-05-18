@@ -1,0 +1,1 @@
+{"index": 294784, "D": "showing smears; smeared. ", "S": [], "A": []}

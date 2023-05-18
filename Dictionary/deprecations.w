@@ -1,0 +1,1 @@
+{"index": 81812, "D": "the act or process of expressing earnest disapproval", "S": ["aspersion ", "denigration ", "derogation ", "detraction ", "disparagement ", "put down ", "ridicule ", "scorn "], "A": ["approval ", "flattery ", "praise "]}

@@ -1,0 +1,1 @@
+{"index": 298991, "D": "to make a speech  or speeches;  harangue.", "S": ["art of speaking ", "declamation ", "elocution ", "oratory ", "rhetoric ", "speaking ", "speechmaking ", "stump oratory ", "tub-thumping "], "A": []}

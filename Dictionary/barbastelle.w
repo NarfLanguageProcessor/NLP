@@ -1,0 +1,1 @@
+{"index": 27743, "D": "an insectivorous forest bat, Barbastella barbastellus, widely distributed across Eurasia, having a wrinkled face and prominent ears", "S": [], "A": []}

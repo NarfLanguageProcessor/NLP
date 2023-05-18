@@ -1,0 +1,1 @@
+{"index": 97437, "D": "the liquid part of a volatile oil (opposed to stearoptene).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38874, "D": "a blood sausage (boudin noir ) or sometimes a white sausage (boudin blanc ), made of chicken, pork, or veal.", "S": [], "A": []}

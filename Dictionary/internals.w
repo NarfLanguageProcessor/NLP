@@ -1,0 +1,1 @@
+{"index": 155457, "D": "situated or existing in the interior of something; interior.", "S": ["belly ", "bosom ", "contents ", "heart ", "heartland ", "innards ", "inside ", "lining ", "marrow ", "midst ", "pith ", "pulp ", "soul ", "substance ", "viscera "], "A": ["exterior ", "exteriority ", "outside "]}

@@ -1,0 +1,1 @@
+{"index": 89158, "D": "to put (a person) out of possession, especially of real property; oust.", "S": ["denial ", "loss ", "privation ", "withdrawal "], "A": []}

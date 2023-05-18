@@ -1,0 +1,1 @@
+{"index": 136973, "D": "a number of animals kept, feeding, or traveling together; drove; flock", "S": ["consumed ", "directed ", "forced ", "galvanized ", "guided ", "impelled ", "induced ", "motivated ", "obsessed ", "possessed ", "pushed ", "steered "], "A": []}

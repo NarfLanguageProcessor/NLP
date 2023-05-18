@@ -1,0 +1,1 @@
+{"index": 54375, "D": "an edible, crimson rockfish, Sebastes goodei, of coastal waters off California.", "S": ["hot pepper ", "jalapeno ", "red pepper "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348973, "D": "trembling or shaking with a slight, rapid motion, or seeming to tremble or shake", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 31337, "D": "the enclosed space surrounding the altar; the sanctuary or chancel.", "S": [], "A": []}

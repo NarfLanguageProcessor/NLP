@@ -1,0 +1,1 @@
+{"index": 74684, "D": "to wheedle, cajole, or coax.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 226706, "D": "(in ancient Greek drama) an ode sung by the chorus at their entrance, usually beginning the play and preceding the proag\u014dn in comedy or the alteration of epeisodia and stasima in tragedy.", "S": [], "A": []}

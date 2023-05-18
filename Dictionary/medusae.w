@@ -1,0 +1,1 @@
+{"index": 182260, "D": "a saucer-shaped or dome-shaped, free-swimming jellyfish or hydra.", "S": [], "A": []}

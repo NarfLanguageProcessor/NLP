@@ -1,0 +1,1 @@
+{"index": 150688, "D": "indeclinable.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 273007, "D": "a thick and firm outer coat or covering, as of certain fruits, cheeses, and meats", "S": ["crust "], "A": ["core ", "interior ", "middle "]}

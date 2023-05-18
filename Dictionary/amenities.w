@@ -1,0 +1,1 @@
+{"index": 10263, "D": "an agreeable way or manner; courtesy; civility", "S": ["conveniences ", "luxuries ", "niceties "], "A": []}

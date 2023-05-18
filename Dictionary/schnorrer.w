@@ -1,0 +1,1 @@
+{"index": 280372, "D": "a person who habitually borrows or lives at the expense of others with no intention of repaying; sponger; moocher; beggar. ", "S": [], "A": []}

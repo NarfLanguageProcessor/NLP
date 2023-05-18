@@ -1,0 +1,1 @@
+{"index": 102650, "D": "of or relating to the stratum of the oceanic zone where enough light is present for photosynthesis to occur.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82497, "D": "abandoned; forsaken", "S": ["barren ", "derelict ", "desolate ", "empty ", "forlorn ", "isolated ", "lonely ", "neglected ", "uninhabited ", "vacant "], "A": ["cheerful ", "filled ", "full ", "happy ", "inhabited ", "pleased ", "populated ", "productive ", "used "]}

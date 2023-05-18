@@ -1,0 +1,1 @@
+{"index": 302726, "D": "a method of grouping test scores on a nine-point standardized scale having a standard deviation  of two and a mean  of five, and representing a bell curve  divided into nine sections (often used attributively)", "S": [], "A": []}

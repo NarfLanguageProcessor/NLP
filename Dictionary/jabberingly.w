@@ -1,0 +1,1 @@
+{"index": 159810, "D": "to talk or utter rapidly, indistinctly, incoherently, or nonsensically; chatter.", "S": [], "A": []}

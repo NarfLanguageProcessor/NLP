@@ -1,0 +1,1 @@
+{"index": 122832, "D": "a supporter of the political principles of Charles de Gaulle. ", "S": [], "A": []}

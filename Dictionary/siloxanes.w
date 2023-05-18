@@ -1,0 +1,1 @@
+{"index": 290550, "D": "any of the class of compounds containing the structural unit R2SiO, where R is an organic group or hydrogen.", "S": [], "A": []}

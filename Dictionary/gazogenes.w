@@ -1,0 +1,1 @@
+{"index": 123004, "D": "an apparatus for impregnating a liquid with a gas, especially carbon dioxide.", "S": [], "A": []}

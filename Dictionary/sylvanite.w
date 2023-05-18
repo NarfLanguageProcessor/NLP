@@ -1,0 +1,1 @@
+{"index": 290599, "D": "a mineral, gold silver telluride, (AuAg)Te2, silver-white with metallic luster, often occurring in crystals so arranged as to resemble written characters", "S": [], "A": []}

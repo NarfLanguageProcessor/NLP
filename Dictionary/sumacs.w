@@ -1,0 +1,1 @@
+{"index": 310870, "D": "any of several shrubs or small trees belonging to the genus Rhus of the cashew family, having milky sap, compound leaves, and small, fleshy fruit.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 114391, "D": "the largest organized unit of naval ships grouped for tactical or other purposes.", "S": ["celerity ", "expedition ", "expeditiousness ", "fastness ", "hastiness ", "hurriedness ", "hurry ", "hustle ", "nimbleness ", "quickness ", "rapidity ", "rapidness ", "rush ", "speed ", "speediness ", "swiftness "], "A": ["delay ", "slowness "]}

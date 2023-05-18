@@ -1,0 +1,1 @@
+{"index": 175826, "D": "a female given name, form of Lucia  or Lucy. ", "S": [], "A": []}

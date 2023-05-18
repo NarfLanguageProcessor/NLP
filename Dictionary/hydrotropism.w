@@ -1,0 +1,1 @@
+{"index": 139021, "D": "oriented growth in response to water.", "S": [], "A": []}

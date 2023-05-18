@@ -1,0 +1,1 @@
+{"index": 6622, "D": "Also Douay Bible, A\u00b7chab  [ey-kab]  /\u02c8e\u026a k\u00e6b/ .", "S": [], "A": []}

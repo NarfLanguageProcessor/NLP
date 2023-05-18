@@ -1,0 +1,1 @@
+{"index": 233311, "D": "a colorless organic liquid, C8H11NO, used chiefly in its para form (para-phenetidine ) in the synthesis of phenacetin,  dyes, and other compounds.", "S": [], "A": []}

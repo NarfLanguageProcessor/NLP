@@ -1,0 +1,1 @@
+{"index": 79502, "D": "to deprive (a monk, priest, minister, etc.) of ecclesiastical rank, authority, and function; depose. ", "S": ["humiliated "], "A": ["honored ", "in favor ", "restored "]}

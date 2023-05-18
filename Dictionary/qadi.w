@@ -1,0 +1,1 @@
+{"index": 257399, "D": "a judge in a Muslim community, whose decisions are based on Islamic religious law.", "S": [], "A": []}

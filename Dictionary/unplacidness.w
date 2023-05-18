@@ -1,0 +1,1 @@
+{"index": 347977, "D": "a calm or peaceful quality; tranquility; serenity", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363762, "D": "every day,  especially Monday through Friday, during the workweek", "S": [], "A": []}

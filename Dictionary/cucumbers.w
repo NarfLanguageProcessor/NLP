@@ -1,0 +1,1 @@
+{"index": 74570, "D": "a creeping plant, Cucumis sativus, of the gourd family, occurring in many cultivated forms.", "S": ["currency ", "greenback "], "A": ["change ", "coin "]}

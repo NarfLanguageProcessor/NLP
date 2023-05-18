@@ -1,0 +1,1 @@
+{"index": 350608, "D": "not in a fit condition or ready for a sea voyage", "S": [], "A": []}

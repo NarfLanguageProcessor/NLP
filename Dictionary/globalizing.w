@@ -1,0 +1,1 @@
+{"index": 126463, "D": "to extend to other or all parts of the globe; make worldwide", "S": [], "A": []}

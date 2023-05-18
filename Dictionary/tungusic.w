@@ -1,0 +1,1 @@
+{"index": 332428, "D": "a family of languages spoken or formerly spoken in Manchuria and central and SE Siberia, including Manchu, Evenki, Even, and languages of the Amur River region, as Nanay.", "S": [], "A": []}

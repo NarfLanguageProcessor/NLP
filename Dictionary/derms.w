@@ -1,0 +1,1 @@
+{"index": 82285, "D": "a navigational device for making a nearby object conspicuous on a radarscope.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342673, "D": "queer; odd; unusual; grotesque", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 50589, "D": "a concentrated form of pyroxylin used to embed tissues for cutting and microscopic examination.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62628, "D": "a metal or plastic container with a perforated bottom, for draining and straining foods.", "S": ["sifter ", "utensil "], "A": []}

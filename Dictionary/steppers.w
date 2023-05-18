@@ -1,0 +1,1 @@
+{"index": 303800, "D": "a person or animal that steps,  especially a horse that lifts its front legs high at the knee.", "S": [], "A": []}

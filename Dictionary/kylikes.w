@@ -1,0 +1,1 @@
+{"index": 164570, "D": "a shallow bowl having two horizontal handles projecting from the sides, often set upon a stem terminating in a foot", "S": [], "A": []}

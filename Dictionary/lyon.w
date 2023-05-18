@@ -1,0 +1,1 @@
+{"index": 173053, "D": "U.S. pioneer in advocating and providing advanced education for women", "S": [], "A": []}

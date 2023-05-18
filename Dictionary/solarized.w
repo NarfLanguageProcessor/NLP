@@ -1,0 +1,1 @@
+{"index": 296523, "D": "to reverse (an image) partially, as from negative to positive, by exposure to light during development.", "S": [], "A": []}

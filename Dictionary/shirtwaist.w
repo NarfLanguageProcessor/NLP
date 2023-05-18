@@ -1,0 +1,1 @@
+{"index": 288533, "D": "a tailored blouse or shirt  worn by women.", "S": [], "A": []}

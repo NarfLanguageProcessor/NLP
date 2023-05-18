@@ -1,0 +1,1 @@
+{"index": 101229, "D": "to come or go in", "S": [], "A": []}

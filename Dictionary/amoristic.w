@@ -1,0 +1,1 @@
+{"index": 10924, "D": "a person who is devoted to love and lovemaking.", "S": [], "A": []}

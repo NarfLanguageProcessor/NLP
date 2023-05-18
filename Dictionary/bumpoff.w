@@ -1,0 +1,1 @@
+{"index": 42772, "D": "murder. ", "S": ["blot out ", "blow away ", "chill ", "deep-six ", "dispatch ", "dispose of ", "do away with ", "do in ", "dust ", "grease ", "hit ", "ice ", "kill ", "knock off ", "murder ", "off ", "polish off ", "rub out ", "snuff ", "snuff out ", "stretch out ", "waste ", "wax ", "whack ", "wipe out ", "zap "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82575, "D": "to mark or point out; indicate; show; specify.", "S": ["label ", "nominate "], "A": []}

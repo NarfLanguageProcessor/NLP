@@ -1,0 +1,1 @@
+{"index": 283120, "D": "to sew shut (the eyes of a falcon) during parts of its training.", "S": [], "A": []}

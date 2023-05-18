@@ -1,0 +1,1 @@
+{"index": 111806, "D": "state; condition", "S": [], "A": []}

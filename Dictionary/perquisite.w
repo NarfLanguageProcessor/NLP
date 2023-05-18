@@ -1,0 +1,1 @@
+{"index": 231834, "D": "an incidental payment, benefit, privilege, or advantage over and above regular income, salary, or wages", "S": ["perk "], "A": ["disadvantage ", "loss "]}

@@ -1,0 +1,1 @@
+{"index": 237067, "D": "a system for transliterating Chinese into the Latin alphabet", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 14186, "D": "a pivotal projection at the rim of an antennal socket.", "S": [], "A": []}

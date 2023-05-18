@@ -1,0 +1,1 @@
+{"index": 149252, "D": "lacking strength; feeble; weak.", "S": [], "A": []}

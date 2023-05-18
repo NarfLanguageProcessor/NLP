@@ -1,0 +1,1 @@
+{"index": 180292, "D": "dark brownish-red.", "S": ["isolate ", "strand "], "A": ["care ", "help ", "maintain ", "rescue ", "save ", "take care "]}

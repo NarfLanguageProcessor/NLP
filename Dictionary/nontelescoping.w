@@ -1,0 +1,1 @@
+{"index": 207805, "D": "Compare radio telescope. ", "S": [], "A": []}

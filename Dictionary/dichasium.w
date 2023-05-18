@@ -1,0 +1,1 @@
+{"index": 84779, "D": "a form of cymose inflorescence in which each axis produces a pair of lateral axes.", "S": [], "A": []}

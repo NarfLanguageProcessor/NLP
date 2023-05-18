@@ -1,0 +1,1 @@
+{"index": 224129, "D": "a horse with a golden coat, a white mane and tail, and often white markings on the face and legs, developed chiefly in the southwestern U.S.", "S": [], "A": []}

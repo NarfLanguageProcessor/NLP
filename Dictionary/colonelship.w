@@ -1,0 +1,1 @@
+{"index": 63221, "D": "the rank, position, or status of a colonel. ", "S": [], "A": []}

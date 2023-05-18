@@ -1,0 +1,1 @@
+{"index": 326389, "D": "a large convex molding, more or less semicircular in profile, commonly forming the lowest molding of the base of a column, directly above the plinth, sometimes occurring as one of a pair separated by a scotia  and fillets. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342374, "D": "having a fleece  of a specified kind (usually used in combination)", "S": [], "A": []}

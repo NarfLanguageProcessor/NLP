@@ -1,0 +1,1 @@
+{"index": 186011, "D": "the study of a microclimate.", "S": [], "A": []}

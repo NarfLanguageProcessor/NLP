@@ -1,0 +1,1 @@
+{"index": 251953, "D": "favoring or advocating progress,  change, improvement, or reform, as opposed to wishing to maintain things as they are, especially in political matters", "S": [], "A": []}

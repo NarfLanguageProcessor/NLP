@@ -1,0 +1,1 @@
+{"index": 330003, "D": "having three loculi, chambers, or cells.", "S": [], "A": []}

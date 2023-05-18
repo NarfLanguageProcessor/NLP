@@ -1,0 +1,1 @@
+{"index": 80196, "D": "to carry and turn over (letters, goods, etc.) to the intended recipient or recipients", "S": ["bottomless ", "boundless ", "eternal ", "inexhaustible ", "steadfast ", "unflagging "], "A": ["changing ", "limited "]}

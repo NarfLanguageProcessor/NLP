@@ -1,0 +1,1 @@
+{"index": 278099, "D": "of, relating to, or situated near the saphenous vein. ", "S": [], "A": []}

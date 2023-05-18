@@ -1,0 +1,1 @@
+{"index": 212271, "D": "a mountain in NE Greece, on the boundary between Thessaly and Macedonia", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341230, "D": "to form a circle  around; surround; encompass", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 161257, "D": "a short crowbar.", "S": ["crowbar ", "force ", "lever ", "open ", "pry "], "A": ["close "]}

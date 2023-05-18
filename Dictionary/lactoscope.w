@@ -1,0 +1,1 @@
+{"index": 167105, "D": "an optical device for determining the amount of cream in milk.", "S": [], "A": []}

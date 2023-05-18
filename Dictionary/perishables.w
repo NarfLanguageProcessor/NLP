@@ -1,0 +1,1 @@
+{"index": 231307, "D": "subject to decay, ruin, or destruction", "S": ["comestibles ", "edibles ", "foodstuffs ", "produce ", "staples ", "vegetables ", "viands "], "A": []}

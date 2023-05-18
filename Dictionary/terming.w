@@ -1,0 +1,1 @@
+{"index": 319388, "D": "a word or group of words designating something, especially in a particular field, as atom in physics, quietism in theology, adze in carpentry, or district leader in politics.", "S": ["calling ", "characterizing ", "denominating ", "distinguishing ", "indicating ", "naming ", "noticing ", "recognizing ", "showing ", "specifying "], "A": []}

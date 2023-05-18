@@ -1,0 +1,1 @@
+{"index": 186742, "D": "the anterior portion of the arthropod colon, composed of endodermal tissue.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287893, "D": "the land or territory under the control of a sheik. ", "S": [], "A": []}

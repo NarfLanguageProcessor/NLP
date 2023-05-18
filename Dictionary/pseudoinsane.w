@@ -1,0 +1,1 @@
+{"index": 254814, "D": "(not in technical use as a medical diagnosis) not sane;  not of sound mind; mentally deranged.", "S": [], "A": []}

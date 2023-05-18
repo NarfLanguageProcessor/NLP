@@ -1,0 +1,1 @@
+{"index": 27988, "D": "a branch of medicine that deals with the control and treatment of obesity and allied diseases.", "S": [], "A": []}

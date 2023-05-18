@@ -1,0 +1,1 @@
+{"index": 101998, "D": "induction of a general proposition from particular propositions.", "S": [], "A": []}

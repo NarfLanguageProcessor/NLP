@@ -1,0 +1,1 @@
+{"index": 206140, "D": "dictated or indicated as a rule or course of action to be followed", "S": [], "A": []}

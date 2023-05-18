@@ -1,0 +1,1 @@
+{"index": 369641, "D": "relating to or having animal life", "S": [], "A": []}

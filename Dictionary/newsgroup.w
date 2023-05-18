@@ -1,0 +1,1 @@
+{"index": 199440, "D": "a place on a computer network, especially within Usenet, that maintains an online discussion group on a specific topic", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134660, "D": "typical of the duties and behaviour of a headmaster", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 297524, "D": "a ketohexose, C6H12O6, occurring in mountain ash and obtained industrially from sorbitol  by bacterial oxidation", "S": [], "A": []}

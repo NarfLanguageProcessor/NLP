@@ -1,0 +1,1 @@
+{"index": 49934, "D": "(in Spanish-speaking countries) a head of state, especially a military dictator.", "S": [], "A": []}

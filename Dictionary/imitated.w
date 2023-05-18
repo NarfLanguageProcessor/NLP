@@ -1,0 +1,1 @@
+{"index": 147814, "D": "to follow or endeavor to follow as a model or example", "S": ["aped ", "burlesqued ", "caricatured ", "counterfeited ", "duplicated ", "mimicked ", "mocked ", "parodied ", "parroted ", "plagiarized ", "reproduced "], "A": []}

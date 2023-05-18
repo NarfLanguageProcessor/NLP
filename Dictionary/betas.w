@@ -1,0 +1,1 @@
+{"index": 32693, "D": "the second letter of the Greek alphabet (\u03b2, B).", "S": ["chard "], "A": []}

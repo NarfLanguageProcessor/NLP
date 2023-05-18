@@ -1,0 +1,1 @@
+{"index": 330053, "D": "a verse of three measures or feet.", "S": [], "A": []}

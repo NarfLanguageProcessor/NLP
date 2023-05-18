@@ -1,0 +1,1 @@
+{"index": 169685, "D": "a person who leases  land and obtains the rights to its use, especially oil-drilling rights.", "S": [], "A": []}

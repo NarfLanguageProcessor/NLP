@@ -1,0 +1,1 @@
+{"index": 169820, "D": "an African antelope, Kobus leche, related to the waterbuck, inhabiting wet, grassy plains", "S": [], "A": []}

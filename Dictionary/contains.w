@@ -1,0 +1,1 @@
+{"index": 67271, "D": "to hold or include within its volume or area", "S": ["accommodate ", "consist of ", "enclose ", "encompass ", "have ", "incorporate ", "involve "], "A": ["exclude ", "free ", "disbelieve ", "let go ", "release "]}

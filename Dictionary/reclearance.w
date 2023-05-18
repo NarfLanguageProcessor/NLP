@@ -1,0 +1,1 @@
+{"index": 262991, "D": "the revalidation of a person's security clearance,  usually done periodically for those handling top-secret material.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34593, "D": "a portion of a habitat characterized by uniformity in climate and distribution of biotic and abiotic components, as a tidal pool or a forest canopy.", "S": [], "A": []}

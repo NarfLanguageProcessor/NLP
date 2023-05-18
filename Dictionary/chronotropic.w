@@ -1,0 +1,1 @@
+{"index": 56485, "D": "affecting the rate or timing of a physiologic process, as the heart rate.", "S": [], "A": []}

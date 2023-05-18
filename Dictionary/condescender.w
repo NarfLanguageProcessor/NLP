@@ -1,0 +1,1 @@
+{"index": 65563, "D": "to behave as if one is conscious of descending from a superior position, rank, or dignity.", "S": [], "A": []}

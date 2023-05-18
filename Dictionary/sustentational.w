@@ -1,0 +1,1 @@
+{"index": 313807, "D": "maintenance in being or activity; the sustaining of life through vital processes.", "S": [], "A": []}

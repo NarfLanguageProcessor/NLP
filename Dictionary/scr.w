@@ -1,0 +1,1 @@
+{"index": 281496, "D": "silicon-controlled rectifier.", "S": [], "A": []}

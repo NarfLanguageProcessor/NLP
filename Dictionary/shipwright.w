@@ -1,0 +1,1 @@
+{"index": 288480, "D": "a person who builds and launches wooden vessels or does carpentry work in connection with the building and launching of steel or iron vessels.", "S": [], "A": []}

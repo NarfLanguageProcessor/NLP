@@ -1,0 +1,1 @@
+{"index": 112707, "D": "an act or instance of filling.", "S": ["dressing ", "layer ", "mixture ", "stuffing "], "A": ["exteriority ", "outside "]}

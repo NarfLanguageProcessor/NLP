@@ -1,0 +1,1 @@
+{"index": 297775, "D": "a maidservant or lady's maid in a play, opera, or the like, especially one displaying coquetry, pertness, and a tendency to engage in intrigue.", "S": ["artist ", "character ", "clown ", "comedian ", "entertainer ", "performer ", "player ", "star ", "villain "], "A": ["audience ", "fan "]}

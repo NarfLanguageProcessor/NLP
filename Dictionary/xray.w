@@ -1,0 +1,1 @@
+{"index": 368696, "D": "such radiation having wavelengths in the range of approximately 0.1\u201310 nanometers.", "S": ["breeding ", "copy ", "facsimile ", "imitation ", "photocopy ", "photograph ", "picture ", "print ", "propagation ", "recreation ", "replica ", "replication "], "A": ["original ", "decrease ", "destruction ", "subtraction "]}

@@ -1,0 +1,1 @@
+{"index": 193432, "D": "in a dying state; near death", "S": ["at death's door ", "at the end of the rope ", "declining ", "done for ", "doomed ", "fading ", "fated ", "going ", "mortal ", "mortally ill ", "on one's deathbed ", "on one's last leg ", "one foot in the grave ", "passing ", "perishing "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141256, "D": "a mortgage or security held by a creditor on the property of a debtor without possession of it, created either by agreement or by operation of law.", "S": [], "A": []}

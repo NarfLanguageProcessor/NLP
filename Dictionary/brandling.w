@@ -1,0 +1,1 @@
+{"index": 39929, "D": "a small, reddish-brown earthworm, Eisenia foetida, having yellow markings, found chiefly in manure piles and used as bait.", "S": [], "A": []}

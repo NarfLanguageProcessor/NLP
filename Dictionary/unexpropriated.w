@@ -1,0 +1,1 @@
+{"index": 341848, "D": "to take possession of, especially for public use by the right of eminent domain, thus divesting the title of the private owner", "S": [], "A": []}

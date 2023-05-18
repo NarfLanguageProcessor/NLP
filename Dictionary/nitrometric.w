@@ -1,0 +1,1 @@
+{"index": 200438, "D": "an apparatus for determining the amount of nitrogen or nitrogen compounds in a substance or mixture.", "S": [], "A": []}

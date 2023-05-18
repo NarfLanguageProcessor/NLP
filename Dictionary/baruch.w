@@ -1,0 +1,1 @@
+{"index": 28446, "D": "the amanuensis and friend of Jeremiah and nominal author of the book of Baruch in the Apocrypha. Jeremiah 32", "S": [], "A": []}

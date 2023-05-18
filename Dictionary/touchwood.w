@@ -1,0 +1,1 @@
+{"index": 326591, "D": "wood  converted into an easily ignitible substance by the action of certain fungi, and used as tinder; punk.", "S": [], "A": []}

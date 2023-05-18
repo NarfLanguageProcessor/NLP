@@ -1,0 +1,1 @@
+{"index": 271137, "D": "a person who believes in divine revelation. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 55058, "D": "a colorless, viscous, water-insoluble, toxic liquid, C10H6Cl8, used as an insecticide.", "S": [], "A": []}

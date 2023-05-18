@@ -1,0 +1,1 @@
+{"index": 280726, "D": "a device for observing ionizing radiation by the scintillations it produces in a suitable material", "S": [], "A": []}

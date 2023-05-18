@@ -1,0 +1,1 @@
+{"index": 88950, "D": "to deal out; distribute", "S": ["offering "], "A": ["appropriating ", "getting ", "taking "]}

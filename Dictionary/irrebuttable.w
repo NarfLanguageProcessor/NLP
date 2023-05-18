@@ -1,0 +1,1 @@
+{"index": 158168, "D": "incapable of being rebutted  or refuted.", "S": ["indisputable ", "ironclad ", "unassailable ", "undeniable "], "A": ["disputable ", "indefinite "]}

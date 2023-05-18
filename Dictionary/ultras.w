@@ -1,0 +1,1 @@
+{"index": 334048, "D": "going beyond what is usual or ordinary; excessive; extreme. ", "S": ["die-hard ", "extremist ", "fanatic ", "militant ", "radical "], "A": ["conservative ", "moderate "]}

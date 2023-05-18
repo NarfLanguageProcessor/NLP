@@ -1,0 +1,1 @@
+{"index": 269760, "D": "to join together or unite (two ropes or parts of a rope) by the interweaving of strands.", "S": [], "A": []}

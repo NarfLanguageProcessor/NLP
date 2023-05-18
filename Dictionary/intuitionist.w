@@ -1,0 +1,1 @@
+{"index": 156902, "D": "the doctrine that moral values and duties can be discerned directly.", "S": [], "A": []}

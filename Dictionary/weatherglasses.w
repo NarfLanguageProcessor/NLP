@@ -1,0 +1,1 @@
+{"index": 363605, "D": "any of various instruments, as a barometer or a hygroscope, designed to indicate the state of the atmosphere.", "S": ["pressure indicator ", "storm gauge ", "weather gauge "], "A": []}

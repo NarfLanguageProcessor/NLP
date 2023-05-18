@@ -1,0 +1,1 @@
+{"index": 79589, "D": "the gradual melting away of a glacier from the surface of a landmass.", "S": [], "A": []}

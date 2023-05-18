@@ -1,0 +1,1 @@
+{"index": 68446, "D": "a variant spelling of kopeck", "S": [], "A": []}

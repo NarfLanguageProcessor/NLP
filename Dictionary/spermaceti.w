@@ -1,0 +1,1 @@
+{"index": 299180, "D": "a pearly white, waxy, translucent solid, obtained from the oil in the head of the sperm whale", "S": [], "A": []}

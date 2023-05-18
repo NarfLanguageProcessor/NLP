@@ -1,0 +1,1 @@
+{"index": 208365, "D": "characterized by a ready and continuous flow of words; fluent; glib; talkative", "S": [], "A": []}

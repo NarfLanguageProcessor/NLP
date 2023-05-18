@@ -1,0 +1,1 @@
+{"index": 326869, "D": "pertaining to or of the nature of toxemia. ", "S": [], "A": []}

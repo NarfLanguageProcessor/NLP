@@ -1,0 +1,1 @@
+{"index": 257358, "D": "an American orchid, Aplectrum hyemale, having a slender naked rootstock that produces a leafless stalk with a loose cluster of yellowish-brown flowers.", "S": [], "A": []}

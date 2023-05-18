@@ -1,0 +1,1 @@
+{"index": 27129, "D": "balsamic vinegar,  an aromatic vinegar aged in wood barrels", "S": ["demulcent ", "healing ", "lenitive ", "palliative ", "softening "], "A": []}

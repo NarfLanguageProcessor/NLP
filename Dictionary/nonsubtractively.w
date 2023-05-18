@@ -1,0 +1,1 @@
+{"index": 207640, "D": "tending to subtract;  having power to subtract. ", "S": [], "A": []}

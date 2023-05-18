@@ -1,0 +1,1 @@
+{"index": 357421, "D": "the change in diameter of a blood vessel.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 155427, "D": "located between mountains or mountain ranges", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197718, "D": "a person who advocates or supports necessitarianism  (distinguished from libertarian).", "S": [], "A": []}

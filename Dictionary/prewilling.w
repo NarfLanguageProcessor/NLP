@@ -1,0 +1,1 @@
+{"index": 250278, "D": "disposed or consenting; inclined", "S": [], "A": []}

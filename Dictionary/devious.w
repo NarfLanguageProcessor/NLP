@@ -1,0 +1,1 @@
+{"index": 83584, "D": "departing from the most direct way; circuitous; indirect", "S": ["calculating ", "deceitful ", "duplicitous ", "fraudulent ", "insidious ", "insincere ", "shrewd ", "sly ", "sneaky ", "underhanded ", "wily "], "A": ["fair ", "forthright ", "frank ", "honest ", "naive ", "open ", "sincere "]}

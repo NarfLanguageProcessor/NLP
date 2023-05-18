@@ -1,0 +1,1 @@
+{"index": 170002, "D": "members of a liberal or radical political party, or those favoring extensive political reform.", "S": ["leftist ", "liberal "], "A": ["conservative "]}

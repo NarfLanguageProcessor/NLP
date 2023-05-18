@@ -1,0 +1,1 @@
+{"index": 123344, "D": "bearing buds or gemmae;  gemmiparous.", "S": [], "A": []}

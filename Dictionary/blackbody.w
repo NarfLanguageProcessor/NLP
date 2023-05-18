@@ -1,0 +1,1 @@
+{"index": 35457, "D": "a hypothetical body that absorbs without reflection all of the electromagnetic radiation  incident on its surface and then, depending on temperature, emits its own thermal radiation.", "S": [], "A": []}

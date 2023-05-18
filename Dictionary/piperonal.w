@@ -1,0 +1,1 @@
+{"index": 237448, "D": "a white, crystalline, water-insoluble aldehyde, C8H6O3, which darkens on exposure to light", "S": [], "A": []}

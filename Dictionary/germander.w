@@ -1,0 +1,1 @@
+{"index": 124180, "D": "any of several plants or shrubs belonging to the genus Teucrium, of the mint family, as T. chamaedrys, of Europe, and T. canadense, of eastern North America.", "S": [], "A": []}

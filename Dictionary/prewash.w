@@ -1,0 +1,1 @@
+{"index": 250265, "D": "to give a preliminary wash to (clothes), esp in a washing machine", "S": [], "A": []}

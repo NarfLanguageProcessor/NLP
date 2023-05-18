@@ -1,0 +1,1 @@
+{"index": 54023, "D": "any very small, deerlike ruminant of the family Tragulidae, of Africa, tropical Asia, the Malay Peninsula, etc.", "S": [], "A": []}

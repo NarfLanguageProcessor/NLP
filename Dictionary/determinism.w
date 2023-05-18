@@ -1,0 +1,1 @@
+{"index": 83181, "D": "the doctrine that all facts and events exemplify natural laws.", "S": ["acceptance ", "passivity ", "predestinarianism ", "predestination ", "stoicism "], "A": []}

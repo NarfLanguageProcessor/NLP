@@ -1,0 +1,1 @@
+{"index": 282778, "D": "the faculty of seeing future events; clairvoyance.", "S": ["visionary "], "A": []}

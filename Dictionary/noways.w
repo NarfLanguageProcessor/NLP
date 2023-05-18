@@ -1,0 +1,1 @@
+{"index": 209203, "D": "in no way, respect, or degree; not at all; nowise", "S": [], "A": []}

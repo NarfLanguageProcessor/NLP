@@ -1,0 +1,1 @@
+{"index": 11664, "D": "(in ancient Greek tragedy) the critical moment of recognition or discovery, especially preceding peripeteia.", "S": [], "A": []}

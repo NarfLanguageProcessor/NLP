@@ -1,0 +1,1 @@
+{"index": 74212, "D": "to press or crush into irregular folds or into a compact mass; bend out of shape; rumple; wrinkle.", "S": ["break down ", "buckle ", "crush ", "scrunch "], "A": ["flatten ", "rise ", "smooth ", "straighten "]}

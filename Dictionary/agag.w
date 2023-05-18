@@ -1,0 +1,1 @@
+{"index": 5827, "D": "an Amalekite king who was captured and spared by Saul but later killed by Samuel. 1 Samuel 15.", "S": [], "A": []}

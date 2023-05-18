@@ -1,0 +1,1 @@
+{"index": 340304, "D": "in the form of a diagram;  graphic; outlined.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158299, "D": "not remissible; unpardonable, as a sin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100160, "D": "to deprive of force or strength; destroy the vigor of; weaken. ", "S": ["debilitate ", "devitalize ", "disable ", "enfeeble ", "exhaust ", "fatigue ", "incapacitate ", "jade ", "paralyze ", "sap ", "unnerve ", "vitiate ", "weaken ", "weary "], "A": ["aid ", "assist ", "energize ", "help ", "invigorate ", "mobilize ", "refresh ", "strengthen "]}

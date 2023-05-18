@@ -1,0 +1,1 @@
+{"index": 258586, "D": "a woman, especially one who is promiscuous.", "S": [], "A": []}

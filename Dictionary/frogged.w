@@ -1,0 +1,1 @@
+{"index": 119246, "D": "(of a coat) fitted with ornamental frogs", "S": [], "A": []}

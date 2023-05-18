@@ -1,0 +1,1 @@
+{"index": 278676, "D": "a strong cotton fabric constructed in satin weave and having a lustrous face.", "S": [], "A": []}

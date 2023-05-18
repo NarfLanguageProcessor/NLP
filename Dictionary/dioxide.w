@@ -1,0 +1,1 @@
+{"index": 86377, "D": "an oxide  containing two atoms of oxygen, each of which is bonded directly to an atom of a second element, as manganese dioxide, MnO2, or nitrogen dioxide,  NO2.", "S": [], "A": []}

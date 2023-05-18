@@ -1,0 +1,1 @@
+{"index": 19912, "D": "the generic name for thrift (def. 2)", "S": [], "A": []}

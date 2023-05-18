@@ -1,0 +1,1 @@
+{"index": 133057, "D": "any of several short-tailed, stout-bodied, burrowing rodents, as Cricetus cricetus, of Europe and Asia, having large cheek pouches.", "S": [], "A": []}

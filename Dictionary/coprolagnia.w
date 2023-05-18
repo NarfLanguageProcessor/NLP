@@ -1,0 +1,1 @@
+{"index": 68670, "D": "sexual arousal that is produced by the thought or sight of feces.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 251730, "D": "a teacher of the highest academic rank in a college or university, who has been awarded the title Professor in a particular branch of learning; a full professor", "S": [], "A": []}

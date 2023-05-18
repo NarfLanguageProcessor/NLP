@@ -1,0 +1,1 @@
+{"index": 203880, "D": "an act or instance of extorting. ", "S": [], "A": []}

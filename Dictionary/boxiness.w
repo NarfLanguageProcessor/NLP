@@ -1,0 +1,1 @@
+{"index": 39296, "D": "like or resembling a box,  especially in shape", "S": [], "A": []}

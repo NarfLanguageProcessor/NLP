@@ -1,0 +1,1 @@
+{"index": 14844, "D": "a change from one emotion to its opposite, as from hate to love.", "S": [], "A": []}

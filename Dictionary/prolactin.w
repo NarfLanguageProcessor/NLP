@@ -1,0 +1,1 @@
+{"index": 252041, "D": "an anterior pituitary polypeptide hormone that stimulates lactation by the mammary glands at parturition in mammals, the activity of the crop in birds, and in some mammalian species the production of progesterone by the corpus luteum.", "S": [], "A": []}

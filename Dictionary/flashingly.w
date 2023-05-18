@@ -1,0 +1,1 @@
+{"index": 114031, "D": "a brief, sudden burst of bright light", "S": [], "A": []}

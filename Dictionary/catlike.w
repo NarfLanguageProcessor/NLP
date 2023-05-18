@@ -1,0 +1,1 @@
+{"index": 49773, "D": "resembling or typical of a cat", "S": ["feline ", "quiet ", "silent ", "stealthy "], "A": []}

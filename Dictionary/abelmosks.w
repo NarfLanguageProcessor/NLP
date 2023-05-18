@@ -1,0 +1,1 @@
+{"index": 331, "D": "a tropical plant, Abelmoschus moschatus, of the mallow family, cultivated for its musky seeds, which yield ambrette-seed oil.", "S": [], "A": []}

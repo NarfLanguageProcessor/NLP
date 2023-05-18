@@ -1,0 +1,1 @@
+{"index": 287148, "D": "rough, matted hair, wool, or the like.", "S": [], "A": []}

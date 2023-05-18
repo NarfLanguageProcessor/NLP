@@ -1,0 +1,1 @@
+{"index": 384, "D": "the centimeter-gram-second unit of inductance, equivalent to 10\u22129 henry.", "S": [], "A": []}

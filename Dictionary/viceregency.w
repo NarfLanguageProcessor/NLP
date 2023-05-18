@@ -1,0 +1,1 @@
+{"index": 359380, "D": "a deputy regent; a person who acts in the place of a ruler, governor, or sovereign.", "S": [], "A": []}

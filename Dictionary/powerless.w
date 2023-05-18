@@ -1,0 +1,1 @@
+{"index": 245013, "D": "unable to produce an effect", "S": ["defenseless ", "disenfranchised ", "helpless ", "impotent ", "incapable ", "ineffective ", "ineffectual ", "inert ", "paralyzed ", "passive ", "vulnerable "], "A": ["able ", "active ", "capable ", "competent ", "effective ", "lively ", "strong "]}

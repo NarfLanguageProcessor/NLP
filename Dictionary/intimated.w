@@ -1,0 +1,1 @@
+{"index": 156301, "D": "made known indirectly; hinted or implied", "S": ["cited ", "quoted ", "specified ", "voiced "], "A": []}

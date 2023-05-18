@@ -1,0 +1,1 @@
+{"index": 160897, "D": "Compare hard sign, soft sign. ", "S": [], "A": []}

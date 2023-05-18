@@ -1,0 +1,1 @@
+{"index": 16779, "D": "lack or loss of the lens of the eye.", "S": [], "A": []}

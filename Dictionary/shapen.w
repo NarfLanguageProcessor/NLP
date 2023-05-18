@@ -1,0 +1,1 @@
+{"index": 287453, "D": "having a designated shape (usually used in combination)", "S": [], "A": []}

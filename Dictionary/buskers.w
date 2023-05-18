@@ -1,0 +1,1 @@
+{"index": 43500, "D": "someone who performs on the street or in a public place, especially for money", "S": [], "A": []}

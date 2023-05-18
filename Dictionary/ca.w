@@ -1,0 +1,1 @@
+{"index": 43831, "D": "to call, as to call an animal toward one; urge forward by calling.", "S": ["AC ", "C/A ", "central air ", "central air conditioning ", "climate control ", "climatization "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82334, "D": "any East Indian plant belonging to the genus Derris, of the legume family, especially D. elliptica, the roots of which contain rotenone and are used as an insecticide.", "S": [], "A": []}

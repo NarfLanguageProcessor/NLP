@@ -1,0 +1,1 @@
+{"index": 285066, "D": "a subfamily of Afroasiatic languages that includes Akkadian, Arabic, Aramaic, Ethiopic, Hebrew, and Phoenician. Abbreviations", "S": ["Hasidic ", "Hebrew ", "Judaistic "], "A": []}

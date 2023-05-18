@@ -1,0 +1,1 @@
+{"index": 242095, "D": "the state or condition of being polymorphous. ", "S": [], "A": []}

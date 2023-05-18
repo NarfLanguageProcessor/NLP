@@ -1,0 +1,1 @@
+{"index": 9839, "D": "of or relating to the period in ancient Egyptian history described on cuneiform tablets (Amarna tablets ) that were found in 1887 at Tell el Amarna and contain the correspondence (Amarna letters ) from neighboring kings and governors to Amenhotep IV and his father Amenhotep III.", "S": [], "A": []}

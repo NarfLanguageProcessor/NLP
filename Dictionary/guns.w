@@ -1,0 +1,1 @@
+{"index": 131427, "D": "an informal term for the biceps", "S": ["accoutrements ", "armaments ", "artillery ", "equipment ", "firearms ", "munitions ", "ordnance ", "panoply ", "weapons "], "A": []}

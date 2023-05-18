@@ -1,0 +1,1 @@
+{"index": 157519, "D": "a photosensitive violet pigment that occurs in the cones of the retina and is transformed by light into retinal and an opsin protein.", "S": [], "A": []}

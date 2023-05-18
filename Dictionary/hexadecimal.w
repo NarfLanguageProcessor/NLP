@@ -1,0 +1,1 @@
+{"index": 137924, "D": "of or relating to a numbering system that uses 16 as the radix, employing the numerals 0 through 9 and representing digits greater than 9 with the letters A through F.", "S": [], "A": []}

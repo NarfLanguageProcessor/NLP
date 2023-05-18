@@ -1,0 +1,1 @@
+{"index": 242935, "D": "an ornamental tuft or ball of feathers, wool, or the like, used on hats, slippers, etc.", "S": [], "A": []}

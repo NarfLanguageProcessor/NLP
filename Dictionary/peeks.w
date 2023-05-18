@@ -1,0 +1,1 @@
+{"index": 229030, "D": "to look or glance quickly or furtively, especially through a small opening or from a concealed location; peep; peer.", "S": ["blink ", "gander ", "glance ", "glimpse ", "look-see ", "sight "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 200236, "D": "containing trivalent niobium,  as niobous chloride, NbCl3.", "S": [], "A": []}

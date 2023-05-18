@@ -1,0 +1,1 @@
+{"index": 246759, "D": "to carry and turn over (letters, goods, etc.) to the intended recipient or recipients", "S": [], "A": []}

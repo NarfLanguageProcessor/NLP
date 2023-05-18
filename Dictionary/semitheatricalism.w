@@ -1,0 +1,1 @@
+{"index": 285061, "D": "conduct suggesting theatrical  actions or mannerisms, especially of an extravagant or exhibitionist sort.", "S": [], "A": []}

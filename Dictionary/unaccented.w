@@ -1,0 +1,1 @@
+{"index": 334407, "D": "not accented;  unstressed.", "S": ["dull ", "feeble ", "low ", "poor ", "quiet ", "small ", "thin "], "A": ["loud ", "noisy "]}

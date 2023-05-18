@@ -1,0 +1,1 @@
+{"index": 312128, "D": "a district or place under a superintendent.", "S": ["administration ", "aegis ", "auspices ", "charge ", "control ", "custody ", "direction ", "guardianship ", "keeping ", "management ", "ministration ", "protection ", "safekeeping ", "supervision ", "trust ", "tutelage ", "ward "], "A": []}

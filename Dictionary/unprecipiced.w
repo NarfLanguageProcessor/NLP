@@ -1,0 +1,1 @@
+{"index": 348281, "D": "a cliff with a vertical, nearly vertical, or overhanging face.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 290426, "D": "a printmaking technique in which a mesh cloth is stretched over a heavy wooden frame and the design, painted on the screen  by tusche or affixed by stencil, is printed by having a squeegee force color through the pores of the material in areas not blocked out by a glue sizing.", "S": [], "A": []}

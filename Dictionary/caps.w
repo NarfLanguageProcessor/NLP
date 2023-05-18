@@ -1,0 +1,1 @@
+{"index": 47120, "D": "capital letters.", "S": ["beret "], "A": []}

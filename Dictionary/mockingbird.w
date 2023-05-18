@@ -1,0 +1,1 @@
+{"index": 191016, "D": "any of several gray, black, and white songbirds of the genus Mimus, especially M. polyglottos, of the U.S. and Mexico, noted for their ability to mimic the songs of other birds.", "S": [], "A": []}

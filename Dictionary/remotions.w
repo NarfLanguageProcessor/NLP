@@ -1,0 +1,1 @@
+{"index": 267472, "D": "the act of removing;  removal.", "S": ["move ", "relocation "], "A": []}

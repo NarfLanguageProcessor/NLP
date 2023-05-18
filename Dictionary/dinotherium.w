@@ -1,0 +1,1 @@
+{"index": 86213, "D": "Any of various extinct elephantlike mammals of the genus Dinotherium that existed during the Miocene, Pliocene, and Pleistocene Epochs. Characteristic of the dinotherium were tusks that grew downward from its lower jaw.", "S": [], "A": []}

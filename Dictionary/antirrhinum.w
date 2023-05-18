@@ -1,0 +1,1 @@
+{"index": 16111, "D": "any scrophulariaceous plant of the genus Antirrhinum, esp the snapdragon, which have two-lipped flowers of various colours", "S": [], "A": []}

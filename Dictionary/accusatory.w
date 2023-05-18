@@ -1,0 +1,1 @@
+{"index": 1862, "D": "containing an accusation; accusing", "S": ["accusing ", "accusive ", "denunciatory "], "A": []}

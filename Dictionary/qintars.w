@@ -1,0 +1,1 @@
+{"index": 257426, "D": "a money of account of Albania, one 100th of a lek.", "S": [], "A": []}

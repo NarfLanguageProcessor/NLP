@@ -1,0 +1,1 @@
+{"index": 215460, "D": "a hard nodule on the leg of a horse, especially one on the inner side of the knee or the outer side of the fetlock.", "S": [], "A": []}

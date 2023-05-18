@@ -1,0 +1,1 @@
+{"index": 138453, "D": "operated by, moved by, or employing water or other liquids in motion.", "S": ["pneumatic "], "A": []}

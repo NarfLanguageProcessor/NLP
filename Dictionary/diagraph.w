@@ -1,0 +1,1 @@
+{"index": 84171, "D": "a device for drawing, used in reproducing outlines, plans, etc., mechanically on any desired scale.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 325501, "D": "a round painting or relief.", "S": [], "A": []}

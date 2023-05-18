@@ -1,0 +1,1 @@
+{"index": 17583, "D": "readily seen; exposed to sight; open to view; visible", "S": [], "A": []}

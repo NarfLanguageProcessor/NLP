@@ -1,0 +1,1 @@
+{"index": 26315, "D": "an Arabian sailing vessel, having lugsails on two or three masts, a straight, raking stem, and a transom stern.", "S": [], "A": []}

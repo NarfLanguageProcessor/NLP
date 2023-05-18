@@ -1,0 +1,1 @@
+{"index": 291240, "D": "a state in W Mexico, bordering on the Gulf of California. 22,582 sq. mi. (58,485 sq. km). Capital", "S": [], "A": []}

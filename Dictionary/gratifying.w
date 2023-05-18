@@ -1,0 +1,1 @@
+{"index": 129251, "D": "tending to gratify;  giving or causing satisfaction; pleasing. ", "S": ["delightful ", "enjoyable ", "pleasant ", "pleasing "], "A": ["disagreeable ", "unenjoyable ", "unhappy ", "unpleasant "]}

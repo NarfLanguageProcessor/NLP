@@ -1,0 +1,1 @@
+{"index": 259136, "D": "a semicylindrical metal shelter having end walls, usually serving as a barracks, storage shed, or the like, developed for the U.S. military forces from the British Nissen hut at Quonset Naval Base in Rhode Island.", "S": [], "A": []}

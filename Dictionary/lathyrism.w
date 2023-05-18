@@ -1,0 +1,1 @@
+{"index": 168938, "D": "a disorder of humans and domestic animals caused by ingestion of the seeds of some legumes of the genus Lathyrus and marked by spastic paralysis and pain.", "S": [], "A": []}

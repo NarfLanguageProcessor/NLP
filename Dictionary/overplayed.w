@@ -1,0 +1,1 @@
+{"index": 220514, "D": "to exaggerate or overemphasize (one's role in a play,  an emotion, an effect, etc.)", "S": ["flamboyant ", "frenzied ", "histrionical ", "maudlin ", "mawkish ", "overemotional ", "overwrought ", "sensational ", "sentimental ", "stagy "], "A": ["deadpan ", "low-key ", "matter-of-fact ", "understated "]}

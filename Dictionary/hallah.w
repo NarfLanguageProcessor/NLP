@@ -1,0 +1,1 @@
+{"index": 132694, "D": "a variant spelling of challah", "S": [], "A": []}

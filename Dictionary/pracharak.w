@@ -1,0 +1,1 @@
+{"index": 245072, "D": "(in India) a person appointed to propagate a cause through personal contact, meetings, public lectures, etc", "S": [], "A": []}

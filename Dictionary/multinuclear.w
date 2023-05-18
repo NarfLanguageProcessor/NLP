@@ -1,0 +1,1 @@
+{"index": 195215, "D": "(of a cell, microorganism, etc) having two or more nuclei", "S": [], "A": []}

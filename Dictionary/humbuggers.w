@@ -1,0 +1,1 @@
+{"index": 144922, "D": "something intended to delude or deceive.", "S": [], "A": []}

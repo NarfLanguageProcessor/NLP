@@ -1,0 +1,1 @@
+{"index": 210098, "D": "to present as an object,  especially of sight, touch, or other physical sense; make objective; externalize. ", "S": ["accepted ", "approved ", "closed ", "concluded ", "confirmed ", "endorsed ", "identified "], "A": ["disapproved ", "uncertain "]}

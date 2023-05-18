@@ -1,0 +1,1 @@
+{"index": 236812, "D": "a javelin used in ancient Rome by legionaries, consisting of a three-foot-long shaft with an iron head of the same length.", "S": [], "A": []}

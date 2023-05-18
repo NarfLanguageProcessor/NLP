@@ -1,0 +1,1 @@
+{"index": 225990, "D": "Compare quadriplegia. ", "S": [], "A": []}

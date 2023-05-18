@@ -1,0 +1,1 @@
+{"index": 231186, "D": "walking or traveling about; itinerant.", "S": ["itinerant ", "nomadic ", "roving "], "A": ["settled "]}

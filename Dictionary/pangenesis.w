@@ -1,0 +1,1 @@
+{"index": 224603, "D": "the theory that a reproductive cell contains gemmules or invisible germs that were derived from the individual cells from every part of the organism and that these gemmules are the bearers of hereditary attributes.", "S": [], "A": []}

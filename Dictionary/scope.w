@@ -1,0 +1,1 @@
+{"index": 281186, "D": "extent or range of view, outlook, application, operation, effectiveness, etc.", "S": ["breadth ", "capacity ", "extension ", "opportunity ", "outlook ", "purview ", "sphere "], "A": ["extreme ", "imprisonment ", "incarceration ", "limitation ", "restraint ", "restriction "]}

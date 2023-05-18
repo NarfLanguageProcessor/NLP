@@ -1,0 +1,1 @@
+{"index": 210221, "D": "neither perpendicular nor parallel to a given line or surface; slanting; sloping.", "S": ["bent ", "diagonal ", "inclining ", "sideway ", "sideways ", "sidewise "], "A": []}

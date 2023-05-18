@@ -1,0 +1,1 @@
+{"index": 231220, "D": "the external boundary of any surface or area.", "S": ["brink ", "fringe ", "perimeter ", "rim ", "verge "], "A": ["center ", "inside ", "interior ", "middle "]}

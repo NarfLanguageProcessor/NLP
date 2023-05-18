@@ -1,0 +1,1 @@
+{"index": 339531, "D": "to detract, as from authority, estimation, etc. (usually followed by from).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 293125, "D": "the region of the clouds or the upper air; the upper atmosphere of the earth", "S": ["bounce ", "bound ", "dive ", "drop ", "fall ", "hop ", "plummet ", "skip ", "surge ", "take ", "top ", "vault "], "A": ["lose ", "retreat "]}

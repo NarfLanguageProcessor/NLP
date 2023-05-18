@@ -1,0 +1,1 @@
+{"index": 190198, "D": "a lake in E Canada, in Quebec province. 840 sq. mi. (2,176 sq. km).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 124325, "D": "See also gerundive (def. 1). ", "S": [], "A": []}

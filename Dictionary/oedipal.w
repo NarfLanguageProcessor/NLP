@@ -1,0 +1,1 @@
+{"index": 211444, "D": "of, characterized by, or resulting from the Oedipus complex. ", "S": [], "A": []}

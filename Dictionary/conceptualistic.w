@@ -1,0 +1,1 @@
+{"index": 65169, "D": "Compare nominalism, realism (def. 5). ", "S": [], "A": []}

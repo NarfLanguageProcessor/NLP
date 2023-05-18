@@ -1,0 +1,1 @@
+{"index": 304286, "D": [], "S": ["consistency ", "continuity ", "integrity ", "rationality ", "solidarity ", "unity "], "A": ["difference ", "disagreement ", "discord ", "divorce ", "nonconformity "]}

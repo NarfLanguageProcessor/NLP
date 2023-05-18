@@ -1,0 +1,1 @@
+{"index": 43417, "D": "a hammer for dressing stone, having one or two square faces composed of a number of pyramidal points.", "S": [], "A": []}

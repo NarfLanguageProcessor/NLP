@@ -1,0 +1,1 @@
+{"index": 293754, "D": "a building or place where animals are butchered for food; abattoir.", "S": ["abattoir "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 282721, "D": "an act or instance of seceding. ", "S": [], "A": []}

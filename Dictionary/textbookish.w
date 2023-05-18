@@ -1,0 +1,1 @@
+{"index": 320378, "D": "suggesting a textbook,  especially in literary style or composition.", "S": [], "A": []}

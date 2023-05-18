@@ -1,0 +1,1 @@
+{"index": 9831, "D": "Compare amaryllis family. ", "S": [], "A": []}

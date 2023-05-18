@@ -1,0 +1,1 @@
+{"index": 146920, "D": "(used to express affirmation or assent or to mark the addition of something emphasizing and amplifying a previous statement)", "S": ["acknowledgment ", "bow ", "greeting ", "permission ", "salute "], "A": []}

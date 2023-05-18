@@ -1,0 +1,1 @@
+{"index": 210580, "D": "lack of quickness, alertness, or sensitivity in perception, intellect, or feeling, often arising from conscious or unconscious resistance", "S": ["bewilderment ", "disregard ", "illiteracy ", "insensitivity "], "A": ["cognizance ", "understanding "]}

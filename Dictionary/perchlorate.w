@@ -1,0 +1,1 @@
+{"index": 230419, "D": "a salt or ester of perchloric acid, as potassium perchlorate, KClO4.", "S": [], "A": []}

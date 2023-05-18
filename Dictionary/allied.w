@@ -1,0 +1,1 @@
+{"index": 8723, "D": "joined by treaty, agreement, or common cause", "S": ["affiliated ", "amalgamated ", "associated ", "bound ", "combined ", "confederate ", "connected ", "joined ", "joint ", "linked ", "married ", "related ", "unified ", "wed "], "A": ["disconnected ", "single ", "uncombined ", "unrelated "]}

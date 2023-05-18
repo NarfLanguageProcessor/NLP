@@ -1,0 +1,1 @@
+{"index": 368777, "D": "a tax, comprising percentages of personal income of every kind, levied as almsgiving for the relief of poor people", "S": [], "A": []}

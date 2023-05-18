@@ -1,0 +1,1 @@
+{"index": 300156, "D": "containing, of the nature of, or pertaining to alcohol; alcoholic.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265572, "D": "noting or pertaining to the style of French furnishings and decoration of c1700\u201320, in which a transition occurs from the Baroque style of Louis XIV to the Rococo of Louis XV.", "S": [], "A": []}

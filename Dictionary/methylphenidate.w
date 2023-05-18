@@ -1,0 +1,1 @@
+{"index": 185255, "D": "a central nervous system stimulant, C14H19NO2, used in the control of hyperkinetic syndromes and narcolepsy.", "S": [], "A": []}

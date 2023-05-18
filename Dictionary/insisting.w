@@ -1,0 +1,1 @@
+{"index": 153664, "D": "to be emphatic, firm, or resolute on some matter of desire, demand, intention, etc.", "S": ["belaboring ", "brooding ", "laboring "], "A": []}

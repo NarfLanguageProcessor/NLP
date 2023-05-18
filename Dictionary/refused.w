@@ -1,0 +1,1 @@
+{"index": 265466, "D": "to decline to accept (something offered)", "S": ["banned ", "blocked ", "denied ", "dismissed ", "disowned ", "forbidden ", "forsaken ", "prohibited ", "rebuffed ", "rejected ", "repelled ", "repudiated ", "spurned ", "vetoed "], "A": ["allowed ", "permitted "]}

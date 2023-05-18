@@ -1,0 +1,1 @@
+{"index": 231805, "D": "constantly circulated or repeated, practiced, carried on, etc.", "S": ["bolster ", "maintain ", "preserve "], "A": ["discontinue ", "give up ", "halt ", "let go ", "neglect ", "release ", "stop "]}

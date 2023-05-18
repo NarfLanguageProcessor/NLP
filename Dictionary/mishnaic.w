@@ -1,0 +1,1 @@
+{"index": 189420, "D": "the collection of oral laws compiled about a.d. 200 by Rabbi Judah ha-Nasi and forming the basic part of the Talmud.", "S": [], "A": []}

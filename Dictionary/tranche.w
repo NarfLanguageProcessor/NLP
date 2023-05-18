@@ -1,0 +1,1 @@
+{"index": 327618, "D": "a group of securities that share a certain characteristic and form part of a larger offering", "S": [], "A": []}

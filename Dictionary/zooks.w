@@ -1,0 +1,1 @@
+{"index": 369813, "D": "(used in exclamatory phrases as a mild oath.)", "S": [], "A": []}

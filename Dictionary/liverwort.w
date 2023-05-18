@@ -1,0 +1,1 @@
+{"index": 173980, "D": "any mosslike plant of the class Hepaticae, growing chiefly on damp ground, rocks, or on tree trunks and helping the decay of logs and the disintegration of rocks.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 307995, "D": "subscript (def. 4). ", "S": ["addendum ", "appendix ", "index "], "A": []}

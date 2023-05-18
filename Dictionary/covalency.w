@@ -1,0 +1,1 @@
+{"index": 71438, "D": "the formation and nature of covalent bonds", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146987, "D": "full of unresolved points or questions", "S": ["capricious ", "chancy ", "conditional ", "dicey ", "doubtful ", "erratic ", "fluctuant ", "in lap of gods ", "incalculable ", "problematic ", "undecided ", "unpredictable ", "unsettled ", "up in the air ", "whimsical "], "A": ["certain ", "definite ", "reliable ", "sure "]}

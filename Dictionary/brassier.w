@@ -1,0 +1,1 @@
+{"index": 40032, "D": "made of or covered with brass. ", "S": ["blaring ", "bold ", "brash ", "flashy ", "gaudy ", "jarring ", "jazzy ", "piercing ", "rude ", "shrill "], "A": ["afraid ", "fearful ", "low ", "plain ", "refined ", "simple ", "smooth ", "soft ", "sophisticated ", "weak "]}

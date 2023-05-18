@@ -1,0 +1,1 @@
+{"index": 285266, "D": "a monetary unit of the Democratic Republic of the Congo, equal to 1/10,000 (.0001) of a zaire.", "S": [], "A": []}

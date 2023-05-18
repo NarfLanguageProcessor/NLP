@@ -1,0 +1,1 @@
+{"index": 298528, "D": "a bitter, poisonous, liquid alkaloid obtained from certain species of broom, especially Cytisus scoparius, used in medicine to stimulate the heart and also the uterine muscles in childbirth.", "S": [], "A": []}

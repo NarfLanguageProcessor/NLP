@@ -1,0 +1,1 @@
+{"index": 196881, "D": "to sleep for a short time; doze. ", "S": [], "A": []}

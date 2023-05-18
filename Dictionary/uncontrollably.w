@@ -1,0 +1,1 @@
+{"index": 337886, "D": "incapable of being controlled  or restrained", "S": ["murderously "], "A": []}

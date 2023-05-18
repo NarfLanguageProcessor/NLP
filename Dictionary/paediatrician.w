@@ -1,0 +1,1 @@
+{"index": 222913, "D": "a medical practitioner who specializes in paediatrics", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229701, "D": "having the texture of a penna; not downy.", "S": [], "A": []}

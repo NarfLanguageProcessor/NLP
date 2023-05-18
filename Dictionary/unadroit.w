@@ -1,0 +1,1 @@
+{"index": 334651, "D": "expert or nimble in the use of the hands or body.", "S": [], "A": []}

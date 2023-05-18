@@ -1,0 +1,1 @@
+{"index": 280423, "D": "an institution where instruction is given, especially to persons under college age", "S": ["academy ", "department ", "faculty ", "hall ", "institute ", "institution ", "seminary ", "university "], "A": []}

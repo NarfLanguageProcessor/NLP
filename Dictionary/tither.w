@@ -1,0 +1,1 @@
+{"index": 324671, "D": "a person who gives or pays tithes,  as to a church.", "S": [], "A": []}

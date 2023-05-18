@@ -1,0 +1,1 @@
+{"index": 305079, "D": "any of various small apertures, especially one of the minute orifices or slits in the epidermis of leaves, stems, etc., through which gases are exchanged.", "S": ["halo "], "A": []}

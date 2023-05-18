@@ -1,0 +1,1 @@
+{"index": 206756, "D": "the act of rescinding. ", "S": [], "A": []}

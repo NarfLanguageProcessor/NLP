@@ -1,0 +1,1 @@
+{"index": 18218, "D": "an exhibition of swimming and diving, often accompanied by music", "S": [], "A": []}

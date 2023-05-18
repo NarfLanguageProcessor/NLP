@@ -1,0 +1,1 @@
+{"index": 293760, "D": "a person employed to kill animals in a slaughterhouse", "S": [], "A": []}

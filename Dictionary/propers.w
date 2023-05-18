@@ -1,0 +1,1 @@
+{"index": 252600, "D": "adapted or appropriate to the purpose or circumstances; fit; suitable", "S": ["according to regulation ", "according to rule ", "as it should be ", "by the book ", "by the numbers ", "gospel ", "indisputable ", "proper "], "A": []}

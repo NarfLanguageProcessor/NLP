@@ -1,0 +1,1 @@
+{"index": 334218, "D": "shade; shadow. ", "S": ["shadow "], "A": ["being ", "reality "]}

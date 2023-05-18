@@ -1,0 +1,1 @@
+{"index": 256385, "D": "to expand and contract rhythmically, as the heart; beat; throb.", "S": ["quiver ", "throb ", "vibrate "], "A": ["remain ", "stay "]}

@@ -1,0 +1,1 @@
+{"index": 287227, "D": "tending toshake  or tremble.", "S": ["insecure ", "jittery ", "nervous ", "precarious ", "rickety ", "rocky ", "unsettled ", "unstable ", "unsteady ", "weak ", "wobbly "], "A": ["brave ", "certain ", "confident ", "definite ", "firm ", "guarded ", "happy ", "protected ", "safe ", "secure ", "sound ", "stable ", "steady ", "strong ", "sure "]}

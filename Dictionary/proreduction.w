@@ -1,0 +1,1 @@
+{"index": 252922, "D": "the act of reducing  or the state of being reduced.", "S": [], "A": []}

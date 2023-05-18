@@ -1,0 +1,1 @@
+{"index": 286682, "D": "to appoint, fix, or resolve definitely and conclusively; agree upon (as time, price, or conditions).", "S": [], "A": []}

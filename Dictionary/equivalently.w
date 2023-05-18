@@ -1,0 +1,1 @@
+{"index": 103421, "D": "equal in value, measure, force, effect, significance, etc.", "S": ["likewise "], "A": ["differently ", "dissimilarly ", "unequally ", "unevenly "]}

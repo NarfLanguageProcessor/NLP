@@ -1,0 +1,1 @@
+{"index": 155065, "D": "narrow-minded or illiberal; provincial", "S": [], "A": []}

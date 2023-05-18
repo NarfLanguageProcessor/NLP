@@ -1,0 +1,1 @@
+{"index": 229335, "D": "a thin skin or membrane; film; scum. ", "S": ["fur ", "leather ", "skin ", "wool "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 328262, "D": "to carry, move, or convey from one place to another.", "S": ["flexibility ", "maneuverability "], "A": []}

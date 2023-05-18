@@ -1,0 +1,1 @@
+{"index": 77921, "D": "having part or all of the caffeine  extracted", "S": [], "A": []}

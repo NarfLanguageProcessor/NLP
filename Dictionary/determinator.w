@@ -1,0 +1,1 @@
+{"index": 83172, "D": "determiner (def. 1). ", "S": [], "A": []}

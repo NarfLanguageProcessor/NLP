@@ -1,0 +1,1 @@
+{"index": 258297, "D": "any of several African weaverbirds of the genus Quelea, especially Q. quelea(red-billed quelea ), noted for its vast flocks that destroy grain crops.", "S": [], "A": []}

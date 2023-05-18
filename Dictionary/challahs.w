@@ -1,0 +1,1 @@
+{"index": 52184, "D": "a loaf of rich white bread leavened with yeast and containing eggs, often braided before baking, prepared especially for the Jewish Sabbath.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 86824, "D": "any of various fractional silver coins issued in Islamic countries at different periods.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 323817, "D": "(in acting) the act of adjusting one's tempo of speaking and moving for dramatic effect.", "S": [], "A": []}

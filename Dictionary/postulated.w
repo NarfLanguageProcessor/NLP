@@ -1,0 +1,1 @@
+{"index": 244530, "D": "to ask, demand, or claim.", "S": ["accepted ", "granted ", "presumed "], "A": ["genuine ", "natural ", "real ", "unassumed ", "unexpected "]}

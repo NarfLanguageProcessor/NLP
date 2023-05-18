@@ -1,0 +1,1 @@
+{"index": 35165, "D": "a tartrate  in which only one of the two acidic hydrogen atoms of tartaric acid is replaced by a metal or positive group; an acid tartrate;  a hydrogen tartrate,  as sodium bitartrate.", "S": [], "A": []}

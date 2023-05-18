@@ -1,0 +1,1 @@
+{"index": 100294, "D": "to occupy the attention or efforts of (a person or persons)", "S": ["employ ", "enlist "], "A": ["shun ", "cancel ", "dismiss ", "fire ", "free ", "let go ", "lose ", "reject ", "spend "]}

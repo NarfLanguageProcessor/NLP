@@ -1,0 +1,1 @@
+{"index": 33051, "D": "a game resembling pinochle, originally played with 64 cards and now more commonly with 128 cards and, sometimes, 192 or 256 cards.", "S": [], "A": []}

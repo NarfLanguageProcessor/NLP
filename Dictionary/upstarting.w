@@ -1,0 +1,1 @@
+{"index": 355086, "D": "a person who has risen suddenly from a humble position to wealth, power, or a position of consequence.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 8156, "D": "(formerly) an offset process employing an aluminum  plate instead of a stone.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 62120, "D": "equal or coincident in space, time, or scope.", "S": ["comparable ", "compatible ", "consistent ", "proportionate ", "sufficient "], "A": ["incompatible ", "unsuitable "]}

@@ -1,0 +1,1 @@
+{"index": 247817, "D": "hesitation;  indecision or disinclination.", "S": [], "A": []}

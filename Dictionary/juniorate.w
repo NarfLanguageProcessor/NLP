@@ -1,0 +1,1 @@
+{"index": 162366, "D": "a two-year course of study for a Jesuit novice in preparation for the course in philosophy.", "S": [], "A": []}

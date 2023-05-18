@@ -1,0 +1,1 @@
+{"index": 35852, "D": "a blastula, especially a blastocyst.", "S": ["blastula ", "embryo "], "A": []}

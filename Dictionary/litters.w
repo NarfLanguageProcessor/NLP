@@ -1,0 +1,1 @@
+{"index": 173875, "D": "objects strewn or scattered about; scattered rubbish.", "S": ["clutter ", "junk ", "muck ", "rubbish ", "trash "], "A": ["possessions ", "sense ", "arrangement ", "method ", "order ", "orderliness ", "organization ", "system "]}

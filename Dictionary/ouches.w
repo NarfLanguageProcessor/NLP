@@ -1,0 +1,1 @@
+{"index": 216041, "D": "(used as an exclamation expressing sudden pain or dismay.)", "S": ["cry ", "darn ", "displeasure ", "oops "], "A": []}

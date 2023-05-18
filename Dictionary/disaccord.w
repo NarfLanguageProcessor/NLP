@@ -1,0 +1,1 @@
+{"index": 86890, "D": "to be out of accord; disagree.", "S": ["clash ", "conflict ", "discord ", "dissent "], "A": ["agreement ", "harmony "]}

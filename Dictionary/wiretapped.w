@@ -1,0 +1,1 @@
+{"index": 366372, "D": "an act or instance of tapping telephone or telegraph wires for evidence or other information.", "S": ["consider ", "examine ", "explore ", "inspect ", "interrogate ", "probe ", "question ", "review ", "scrutinize ", "search ", "study "], "A": ["answer ", "forget ", "ignore ", "neglect ", "reply ", "leave alone ", "overlook "]}

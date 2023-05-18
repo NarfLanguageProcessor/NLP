@@ -1,0 +1,1 @@
+{"index": 304967, "D": "a supply of material, as a pile  of gravel in road maintenance.", "S": ["accumulation ", "buildup ", "cache ", "hoard ", "inventory ", "nest egg ", "reserve ", "stash ", "stock ", "surplus "], "A": []}

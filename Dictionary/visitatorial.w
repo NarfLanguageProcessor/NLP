@@ -1,0 +1,1 @@
+{"index": 360432, "D": "of or relating to an official visitor or official visitation.", "S": [], "A": []}

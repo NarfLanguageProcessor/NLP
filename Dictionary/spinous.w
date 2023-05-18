@@ -1,0 +1,1 @@
+{"index": 299959, "D": "covered with or having spines;  thorny, as a plant.", "S": ["barbed ", "briery ", "bristling ", "bristly ", "echinate ", "prickly ", "spiked ", "spiky ", "spiny ", "stinging ", "thistly "], "A": []}

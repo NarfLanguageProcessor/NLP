@@ -1,0 +1,1 @@
+{"index": 284114, "D": "half a dome,  especially as formed by a vertical section, as over a semicircular apse.", "S": [], "A": []}

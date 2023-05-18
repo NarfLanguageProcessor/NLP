@@ -1,0 +1,1 @@
+{"index": 212068, "D": "pertaining to or derived from oleic acid.", "S": [], "A": []}

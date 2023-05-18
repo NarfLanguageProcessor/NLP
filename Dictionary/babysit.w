@@ -1,0 +1,1 @@
+{"index": 25548, "D": "to take charge of a child while the parents are temporarily away.", "S": ["care for ", "notice ", "perceive "], "A": ["neglect ", "overlook ", "disregard ", "forget ", "ignore "]}

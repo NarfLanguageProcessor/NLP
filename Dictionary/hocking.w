@@ -1,0 +1,1 @@
+{"index": 142162, "D": "U.S. philosopher.", "S": ["borrow ", "pledge "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294589, "D": "a thickly populated, run-down, squalid part of a city, inhabited by poor people.", "S": [], "A": []}

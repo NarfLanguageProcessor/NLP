@@ -1,0 +1,1 @@
+{"index": 153, "D": "inability to walk due to a limitation or absence of muscular coordination.", "S": [], "A": []}

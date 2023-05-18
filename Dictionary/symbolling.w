@@ -1,0 +1,1 @@
+{"index": 290795, "D": "something used for or regarded as representing something else; a material object representing something, often something immaterial; emblem, token, or sign.", "S": ["exemplify ", "imply ", "represent ", "suggest ", "symbolize "], "A": []}

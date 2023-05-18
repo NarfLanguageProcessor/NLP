@@ -1,0 +1,1 @@
+{"index": 335137, "D": "feeling or showing appreciation", "S": [], "A": []}

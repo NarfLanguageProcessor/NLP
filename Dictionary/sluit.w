@@ -1,0 +1,1 @@
+{"index": 294554, "D": "(in South Africa) a deep, dry gulch or channel formed by erosion due to heavy rains.", "S": [], "A": []}

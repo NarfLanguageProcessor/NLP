@@ -1,0 +1,1 @@
+{"index": 323395, "D": "being or arranged in tiers  or layers (usually used in combination)", "S": [], "A": []}

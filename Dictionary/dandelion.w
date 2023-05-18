@@ -1,0 +1,1 @@
+{"index": 76691, "D": "a weedy composite plant, Taraxacum officinale, having edible, deeply toothed or notched leaves, golden-yellow flowers, and rounded clusters of white, hairy seeds.", "S": [], "A": []}

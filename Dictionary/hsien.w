@@ -1,0 +1,1 @@
+{"index": 144601, "D": "(in popular Chinese religion) one of a group of benevolent spirits promoting good in the world.", "S": [], "A": []}

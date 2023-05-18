@@ -1,0 +1,1 @@
+{"index": 311460, "D": "a piece of furniture with shelves, drawers, etc., for holding or displaying items", "S": [], "A": []}

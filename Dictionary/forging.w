@@ -1,0 +1,1 @@
+{"index": 117238, "D": "an act or instance of forging.", "S": ["accomplishing ", "building ", "composing ", "constructing ", "creating ", "effecting ", "executing ", "fabricating ", "fashioning ", "forming ", "generating ", "manufacturing ", "originating ", "producing ", "shaping "], "A": []}

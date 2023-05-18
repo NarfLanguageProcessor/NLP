@@ -1,0 +1,1 @@
+{"index": 101977, "D": "having an affinity for eosin and other acid dyes; acidophilic.", "S": [], "A": []}

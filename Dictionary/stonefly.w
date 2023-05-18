@@ -1,0 +1,1 @@
+{"index": 305206, "D": "any of numerous dull-colored primitive aquatic insects of the order Plecoptera, having a distinctive flattened body shape", "S": [], "A": []}

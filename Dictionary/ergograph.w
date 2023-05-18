@@ -1,0 +1,1 @@
+{"index": 103611, "D": "an instrument that records the amount of work done when a muscle contracts.", "S": [], "A": []}

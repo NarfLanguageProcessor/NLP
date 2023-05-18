@@ -1,0 +1,1 @@
+{"index": 138884, "D": "a person who pilots a hydroplane,  especially a professional speedboat racer.", "S": [], "A": []}

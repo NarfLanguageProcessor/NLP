@@ -1,0 +1,1 @@
+{"index": 102677, "D": "any of several mostly epiphytic cacti of the genus Epiphyllum, native to tropical America, having large, fragrant white flowers.", "S": [], "A": []}

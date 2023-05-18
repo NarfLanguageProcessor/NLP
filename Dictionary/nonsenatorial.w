@@ -1,0 +1,1 @@
+{"index": 207119, "D": "of, pertaining to, characteristic of, or befitting a senator  or senate", "S": [], "A": []}

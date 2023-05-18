@@ -1,0 +1,1 @@
+{"index": 300067, "D": "the threadlike chromatin of a cell nucleus, present during early meiosis or mitosis.", "S": [], "A": []}

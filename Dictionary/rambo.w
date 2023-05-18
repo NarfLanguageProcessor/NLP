@@ -1,0 +1,1 @@
+{"index": 260264, "D": "a fanatically militant or violently aggressive person.", "S": [], "A": []}

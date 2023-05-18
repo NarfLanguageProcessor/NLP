@@ -1,0 +1,1 @@
+{"index": 257846, "D": "a popular name for a member of the Society of Friends. ", "S": ["shock ", "temblor ", "upheaval "], "A": ["perfection "]}

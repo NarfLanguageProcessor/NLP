@@ -1,0 +1,1 @@
+{"index": 211912, "D": "veneered with matched flitches having a figure of concentric rings.", "S": [], "A": []}

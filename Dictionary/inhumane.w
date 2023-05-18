@@ -1,0 +1,1 @@
+{"index": 152726, "D": "not humane; lacking humanity, kindness, compassion, etc.", "S": ["brutal ", "cold-blooded ", "cruel ", "heartless ", "merciless ", "pitiless ", "remorseless ", "ruthless ", "uncompassionate ", "unfeeling ", "unsympathetic "], "A": ["compassionate ", "humane ", "kind "]}

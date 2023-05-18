@@ -1,0 +1,1 @@
+{"index": 111982, "D": "a variant of fiber. ", "S": [], "A": []}

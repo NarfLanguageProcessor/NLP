@@ -1,0 +1,1 @@
+{"index": 145451, "D": "a former monetary unit of South Korea.", "S": [], "A": []}

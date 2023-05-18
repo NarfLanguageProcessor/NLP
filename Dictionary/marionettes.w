@@ -1,0 +1,1 @@
+{"index": 180110, "D": "a puppet manipulated from above by strings attached to its jointed limbs.", "S": ["puppetry "], "A": []}

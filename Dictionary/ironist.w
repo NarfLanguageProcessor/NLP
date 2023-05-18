@@ -1,0 +1,1 @@
+{"index": 158084, "D": "a person who uses irony  habitually, especially a writer.", "S": [], "A": []}

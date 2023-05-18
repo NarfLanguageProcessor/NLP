@@ -1,0 +1,1 @@
+{"index": 169304, "D": "a large basin upon a foot or pedestal in the court of the Hebrew tabernacle and subsequently in the temple, containing water for the ablutions of the priests and for the washing of the sacrifices in the temple service.", "S": [], "A": []}

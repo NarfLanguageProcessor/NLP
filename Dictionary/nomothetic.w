@@ -1,0 +1,1 @@
+{"index": 200940, "D": "giving or establishing laws; legislative.", "S": ["congressional ", "parliamentary ", "senatorial "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 54991, "D": "pertaining to or having a floral envelope.", "S": [], "A": []}

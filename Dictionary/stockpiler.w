@@ -1,0 +1,1 @@
+{"index": 304966, "D": "a supply of material, as a pile  of gravel in road maintenance.", "S": [], "A": []}

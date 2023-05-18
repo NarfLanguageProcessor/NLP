@@ -1,0 +1,1 @@
+{"index": 118725, "D": "palpable vibration, as of the walls of the chest.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 267806, "D": "performed with the body bent from the waist", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336752, "D": "deficient in charity; unkind; harsh; unforgiving; censorious; merciless", "S": [], "A": []}

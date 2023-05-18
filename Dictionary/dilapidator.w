@@ -1,0 +1,1 @@
+{"index": 85676, "D": "to cause or allow (a building, automobile, etc.) to fall into a state of disrepair, as by misuse or neglect (often used passively)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 265176, "D": "to rest or remain on the surface of a liquid; be buoyant", "S": [], "A": []}

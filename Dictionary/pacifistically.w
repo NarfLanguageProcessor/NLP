@@ -1,0 +1,1 @@
+{"index": 222716, "D": "of or relating to pacifism  or pacifists.", "S": [], "A": []}

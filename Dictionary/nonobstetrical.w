@@ -1,0 +1,1 @@
+{"index": 205565, "D": "of or relating to the care and treatment of women in childbirth and during the period before and after delivery.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229670, "D": "the state of being penitent;  regret for one's wrongdoing or sinning; contrition; repentance.", "S": ["contrition ", "penance ", "repentance "], "A": ["approval ", "comfort ", "contentedness ", "elevation ", "happiness ", "joy ", "satisfaction "]}

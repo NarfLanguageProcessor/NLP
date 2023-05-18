@@ -1,0 +1,1 @@
+{"index": 319933, "D": "a metrical foot or word of four short syllables.", "S": [], "A": []}

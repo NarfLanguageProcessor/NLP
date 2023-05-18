@@ -1,0 +1,1 @@
+{"index": 81849, "D": "having the quality of depressing  or lowering the vital activities; sedative.", "S": ["downer ", "intoxicant ", "relaxant ", "tranquilizer "], "A": []}

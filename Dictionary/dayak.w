@@ -1,0 +1,1 @@
+{"index": 76259, "D": "a member of any of several Indigenous, Austronesian-speaking tribal peoples of Sarawak and Indonesian Borneo.", "S": [], "A": []}

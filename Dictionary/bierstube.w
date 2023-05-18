@@ -1,0 +1,1 @@
+{"index": 33602, "D": "a tavern or caf\u00e9 offering German or German-style atmosphere, d\u00e9cor, food, beer, etc.", "S": [], "A": []}

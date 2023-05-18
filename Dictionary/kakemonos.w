@@ -1,0 +1,1 @@
+{"index": 162834, "D": "a vertical hanging scroll containing either text or a painting, intended to be viewed on a wall and rolled when not in use.", "S": [], "A": []}

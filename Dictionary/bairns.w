@@ -1,0 +1,1 @@
+{"index": 26532, "D": "a child; son or daughter.", "S": ["baby ", "daughter ", "infant ", "juvenile ", "kid ", "moppet ", "nipper ", "son ", "squirt ", "toddler ", "tot ", "tyke ", "youngster ", "youth "], "A": ["adult "]}

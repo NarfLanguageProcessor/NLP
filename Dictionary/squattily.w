@@ -1,0 +1,1 @@
+{"index": 301803, "D": "short and thick; low and broad.", "S": [], "A": []}

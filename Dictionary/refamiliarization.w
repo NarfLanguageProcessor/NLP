@@ -1,0 +1,1 @@
+{"index": 264923, "D": "to make (onself or another person) well-acquainted or conversant with something.", "S": [], "A": []}

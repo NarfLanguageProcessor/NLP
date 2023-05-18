@@ -1,0 +1,1 @@
+{"index": 223478, "D": "of, denoting, or relating to an era of geological time that began 600 million years ago with the Cambrian period and lasted about 375 million years until the end of the Permian period", "S": [], "A": []}

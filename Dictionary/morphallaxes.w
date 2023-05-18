@@ -1,0 +1,1 @@
+{"index": 193553, "D": "the regeneration of a destroyed body part by the reorganization of its remaining cells.", "S": [], "A": []}

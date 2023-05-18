@@ -1,0 +1,1 @@
+{"index": 21227, "D": "not syllabic. ", "S": [], "A": []}

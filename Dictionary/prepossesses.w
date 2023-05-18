@@ -1,0 +1,1 @@
+{"index": 248888, "D": "to possess  or dominate mentally beforehand, as a prejudice does.", "S": ["distort ", "incline ", "prejudice ", "slant ", "sway "], "A": ["leave alone ", "straighten "]}

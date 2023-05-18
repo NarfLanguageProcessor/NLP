@@ -1,0 +1,1 @@
+{"index": 260107, "D": "(among American Indians) a medicine man who by various rituals and incantations seeks to cause rain. ", "S": ["artificial nucleation ", "nucleation ", "seeding "], "A": []}

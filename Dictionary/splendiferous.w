@@ -1,0 +1,1 @@
+{"index": 300432, "D": "splendid; magnificent; fine.", "S": ["brilliant ", "flashy ", "garish ", "jazzy ", "ostentatious ", "showy ", "snazzy ", "splashy "], "A": ["modest ", "normal ", "plain ", "simple ", "tasteful "]}

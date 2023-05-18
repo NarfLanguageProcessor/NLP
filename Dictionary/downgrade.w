@@ -1,0 +1,1 @@
+{"index": 92241, "D": "a downward slope, especially of a road.", "S": ["decline ", "declivity ", "descent ", "dip ", "hill ", "inclination ", "pitch "], "A": ["ascent ", "improvement ", "increase ", "rise "]}

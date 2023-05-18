@@ -1,0 +1,1 @@
+{"index": 32792, "D": "to deliver or expose to an enemy by treachery or disloyalty", "S": ["abandon ", "deceive ", "forsake ", "mislead ", "seduce "], "A": ["aid ", "assist ", "help ", "stay "]}

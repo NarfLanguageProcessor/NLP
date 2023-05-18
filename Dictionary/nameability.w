@@ -1,0 +1,1 @@
+{"index": 196687, "D": "capable of or susceptible to being named  or identified; identifiable.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 279039, "D": "fierce, ferocious, or cruel; untamed", "S": ["brutally ", "ruthlessly ", "viciously "], "A": []}

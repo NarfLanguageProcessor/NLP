@@ -1,0 +1,1 @@
+{"index": 250853, "D": "causing, or tending to cause, deprivation.", "S": [], "A": []}

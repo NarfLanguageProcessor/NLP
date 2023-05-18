@@ -1,0 +1,1 @@
+{"index": 153828, "D": "an installant bishop", "S": [], "A": []}

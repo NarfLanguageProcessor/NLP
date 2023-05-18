@@ -1,0 +1,1 @@
+{"index": 344987, "D": "to supply (land) with water by artificial means, as by diverting streams, flooding, or spraying.", "S": [], "A": []}

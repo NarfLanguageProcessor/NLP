@@ -1,0 +1,1 @@
+{"index": 334918, "D": "characterized by or showing goodwill; friendly; peaceable", "S": [], "A": []}

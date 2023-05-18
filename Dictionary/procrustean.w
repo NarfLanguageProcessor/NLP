@@ -1,0 +1,1 @@
+{"index": 251387, "D": "pertaining to or suggestive of Procrustes. ", "S": ["ruthless "], "A": ["gentle ", "merciful "]}

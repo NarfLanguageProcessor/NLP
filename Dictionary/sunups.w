@@ -1,0 +1,1 @@
+{"index": 311232, "D": "sunrise, especially the time of sunrise.", "S": ["aurora ", "cockcrow ", "dawning ", "daybreak ", "daylight ", "light ", "morn ", "morning ", "sunrise "], "A": ["darkness ", "night ", "sunset "]}

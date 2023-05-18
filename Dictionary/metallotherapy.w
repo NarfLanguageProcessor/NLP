@@ -1,0 +1,1 @@
+{"index": 184771, "D": "therapy  by the use of metals or their salts.", "S": [], "A": []}

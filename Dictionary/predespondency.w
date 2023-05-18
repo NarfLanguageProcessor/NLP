@@ -1,0 +1,1 @@
+{"index": 246837, "D": "state of being despondent;  depression of spirits from loss of courage or hope; dejection.", "S": [], "A": []}

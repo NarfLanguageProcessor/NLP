@@ -1,0 +1,1 @@
+{"index": 121594, "D": "(\u201cthe Elder\u201d or \u201cGamaliel I\u201d), died a.d. 50?, the teacher of Paul (Acts 22", "S": [], "A": []}

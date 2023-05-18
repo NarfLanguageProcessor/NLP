@@ -1,0 +1,1 @@
+{"index": 111080, "D": "pertaining to, of the nature of, or involving a felony", "S": ["base ", "corrupt ", "evil ", "illegal ", "illicit ", "lawbreaking ", "villainous ", "wrongful "], "A": []}

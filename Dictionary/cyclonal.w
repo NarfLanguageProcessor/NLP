@@ -1,0 +1,1 @@
+{"index": 57179, "D": "of or like a cyclone. ", "S": [], "A": []}

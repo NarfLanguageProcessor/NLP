@@ -1,0 +1,1 @@
+{"index": 57815, "D": "something that strongly attracts attention by its brilliance,  interest, etc.", "S": [], "A": []}

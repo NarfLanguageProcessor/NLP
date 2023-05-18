@@ -1,0 +1,1 @@
+{"index": 131774, "D": "capable of being inhabited.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 354164, "D": "not well;  ailing; ill.", "S": ["affliction ", "ailment ", "deficiency ", "frailty ", "ill health ", "imperfection ", "malady "], "A": ["health ", "perfection ", "ability ", "advantage ", "improvement ", "soundness ", "strength ", "strong point "]}

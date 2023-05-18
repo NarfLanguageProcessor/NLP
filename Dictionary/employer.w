@@ -1,0 +1,1 @@
+{"index": 98838, "D": "a person or business that employs  one or more people, especially for wages or salary", "S": ["boss ", "company ", "corporation ", "entrepreneur ", "executive ", "firm ", "management ", "manager ", "manufacturer ", "organization ", "owner "], "A": ["employee ", "worker "]}

@@ -1,0 +1,1 @@
+{"index": 185205, "D": "a compound, C21H26BrNO3, used in the form of its bromide in the treatment of excessive sweating and salivation, peptic ulcer, stomach cramps, and other conditions resulting from nerve dysfunction.", "S": [], "A": []}

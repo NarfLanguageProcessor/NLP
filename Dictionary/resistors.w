@@ -1,0 +1,1 @@
+{"index": 269527, "D": "a device designed to introduce resistance  into an electric circuit.", "S": [], "A": []}

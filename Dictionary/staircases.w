@@ -1,0 +1,1 @@
+{"index": 302437, "D": "a flight of stairs  with its framework, banisters, etc., or a series of such flights.", "S": ["access ", "avenue ", "corridor ", "door ", "doorway ", "entry ", "entryway ", "gate ", "hall ", "hallway ", "lobby ", "opening ", "passageway ", "porch ", "port "], "A": ["egress ", "exit "]}

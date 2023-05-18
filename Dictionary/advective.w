@@ -1,0 +1,1 @@
+{"index": 4584, "D": "the horizontal transport of atmospheric properties (distinguished from convection).", "S": [], "A": []}

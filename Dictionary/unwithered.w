@@ -1,0 +1,1 @@
+{"index": 354304, "D": "to shrivel; fade; decay", "S": ["bright ", "clear ", "good ", "lively ", "vigorous "], "A": ["lethargic "]}

@@ -1,0 +1,1 @@
+{"index": 226174, "D": "an infectious disease, similar in some of its symptoms to typhoid  fever but usually milder, caused by any of several bacilli of the genus Salmonella other than S. typhi.", "S": [], "A": []}

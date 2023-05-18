@@ -1,0 +1,1 @@
+{"index": 303266, "D": "to take (the property of another or others) without permission or right, especially secretly or by force", "S": ["abduct ", "divert ", "embezzle ", "keep ", "kidnap ", "loot ", "pilfer ", "plunder ", "ransack ", "remove ", "strip ", "swipe ", "take "], "A": ["give ", "give up ", "let go ", "maintain ", "receive ", "release ", "stay ", "protect "]}

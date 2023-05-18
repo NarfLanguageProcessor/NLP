@@ -1,0 +1,1 @@
+{"index": 350684, "D": "in view of the fact that; considering; inasmuch as.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45192, "D": "a spiritual leader of Islam, claiming succession from Muhammad.", "S": ["emperor ", "monarch ", "sultan "], "A": []}

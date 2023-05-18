@@ -1,0 +1,1 @@
+{"index": 335229, "D": "to stir to action or strong response; excite", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 44024, "D": "a light, two-wheeled, one-horse carriage with a folding top, capable of seating two persons.", "S": [], "A": []}

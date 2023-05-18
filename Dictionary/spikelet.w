@@ -1,0 +1,1 @@
+{"index": 299771, "D": "a small or secondary spike  in grasses; one of the flower clusters, the unit of inflorescence, consisting of two or more flowers and subtended by one or more glumes variously disposed around a common axis.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 302935, "D": "a rapid change in the mass distribution or shape of a pulsar, resulting in a fluctuation of the pulsar's pulse rate or radiation intensity.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 109261, "D": "pertaining to or noting facilities built into a system, as in an automobile or a computer, for continuing operations on an interim basis and probably with reduced efficiency, if parts of the system fail.", "S": [], "A": []}

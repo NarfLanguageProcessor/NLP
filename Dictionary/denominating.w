@@ -1,0 +1,1 @@
+{"index": 81167, "D": "to give a name to; denote; designate.", "S": ["calling ", "characterizing ", "distinguishing ", "indicating ", "naming ", "noticing ", "recognizing ", "showing ", "specifying ", "terming "], "A": []}

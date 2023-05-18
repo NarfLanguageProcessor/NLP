@@ -1,0 +1,1 @@
+{"index": 200919, "D": "a graph, usually containing three parallel scales graduated for different variables so that when a straight line connects values of any two, the related value may be read directly from the third at the point intersected by the line.", "S": [], "A": []}

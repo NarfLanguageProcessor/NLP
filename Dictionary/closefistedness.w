@@ -1,0 +1,1 @@
+{"index": 60441, "D": "stingy; miserly; tight.", "S": ["avidity ", "covetousness ", "cupidity ", "frugality ", "greediness ", "miserliness ", "parsimony ", "penuriousness ", "rapacity ", "stinginess ", "thrift "], "A": ["generosity "]}

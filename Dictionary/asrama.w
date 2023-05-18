@@ -1,0 +1,1 @@
+{"index": 21557, "D": "any of the four phases of the ideally conducted life", "S": [], "A": []}

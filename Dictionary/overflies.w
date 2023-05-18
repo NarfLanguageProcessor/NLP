@@ -1,0 +1,1 @@
+{"index": 219394, "D": "to fly  over (a specified area, territory, country, etc.)", "S": [], "A": []}

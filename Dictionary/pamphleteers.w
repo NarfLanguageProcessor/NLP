@@ -1,0 +1,1 @@
+{"index": 224287, "D": "a writer or publisher of pamphlets,  especially on controversial issues.", "S": [], "A": []}

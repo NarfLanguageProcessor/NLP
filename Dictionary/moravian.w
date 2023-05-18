@@ -1,0 +1,1 @@
+{"index": 193316, "D": "pertaining to Moravia  or its inhabitants.", "S": [], "A": []}

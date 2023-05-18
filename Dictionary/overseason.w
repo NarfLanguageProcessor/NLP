@@ -1,0 +1,1 @@
+{"index": 221007, "D": "one of the four periods of the year (spring, summer, autumn, and winter), beginning astronomically at an equinox or solstice, but geographically at different dates in different climates.", "S": [], "A": []}

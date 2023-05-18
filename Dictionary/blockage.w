@@ -1,0 +1,1 @@
+{"index": 36357, "D": "an act of blocking. ", "S": ["stoppage "], "A": ["advantage ", "aid ", "assistance ", "clearance ", "help ", "opening "]}

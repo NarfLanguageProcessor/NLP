@@ -1,0 +1,1 @@
+{"index": 343555, "D": "to bring forth (young) from the egg.", "S": [], "A": []}

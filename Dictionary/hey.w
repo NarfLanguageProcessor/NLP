@@ -1,0 +1,1 @@
+{"index": 135346, "D": "(used as an exclamation to call attention or to express pleasure, surprise, bewilderment, etc.)", "S": ["greetings ", "hi ", "howdy ", "welcome "], "A": ["adios ", "au revoir ", "goodbye "]}

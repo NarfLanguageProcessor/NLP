@@ -1,0 +1,1 @@
+{"index": 72401, "D": "a light cord attached to the leg of a hawk to prevent escape during training.", "S": [], "A": []}

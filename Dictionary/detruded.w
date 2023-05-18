@@ -1,0 +1,1 @@
+{"index": 83315, "D": "to thrust out or away.", "S": ["depress ", "drop ", "reduce ", "sink "], "A": ["raise ", "rise "]}

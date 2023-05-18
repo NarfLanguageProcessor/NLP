@@ -1,0 +1,1 @@
+{"index": 56004, "D": "any of several composite plants of the genus Chrysanthemum, as C. leucanthemum, the oxeye daisy, having white ray flowers with a yellow center.", "S": [], "A": []}

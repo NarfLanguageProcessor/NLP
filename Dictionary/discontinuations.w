@@ -1,0 +1,1 @@
+{"index": 87566, "D": "a breach or interruption of continuity or unity", "S": ["break ", "cessation ", "conclusion ", "cutoff ", "discontinuance ", "discontinuity ", "disruption ", "ending ", "gap ", "halt ", "interruption ", "pause ", "stay ", "stoppage ", "suspension "], "A": ["beginning ", "commencement ", "continuation ", "go ", "introduction ", "persistence ", "start "]}

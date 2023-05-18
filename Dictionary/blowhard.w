@@ -1,0 +1,1 @@
+{"index": 36615, "D": "an exceptionally boastful and talkative person.", "S": ["boaster ", "windbag "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 304274, "D": "dramatic dialogue, as in a Greek play, characterized by brief exchanges between two characters, each of whom usually speaks in one line of verse during a scene of intense emotion or strong argumentation.", "S": [], "A": []}

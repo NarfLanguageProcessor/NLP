@@ -1,0 +1,1 @@
+{"index": 349652, "D": "to drive back; repel", "S": [], "A": []}

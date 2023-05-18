@@ -1,0 +1,1 @@
+{"index": 259815, "D": "a radioactive isotope used as a tracer. ", "S": [], "A": []}

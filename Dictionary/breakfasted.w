@@ -1,0 +1,1 @@
+{"index": 40250, "D": "the first meal of the day; morning meal", "S": ["consume ", "eat out ", "feast ", "lunch "], "A": ["fast "]}

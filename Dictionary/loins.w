@@ -1,0 +1,1 @@
+{"index": 174757, "D": "the hips and the inner surface of the legs where they join the trunk of the body; crotch", "S": ["femur ", "groin "], "A": []}

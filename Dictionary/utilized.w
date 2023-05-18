@@ -1,0 +1,1 @@
+{"index": 356183, "D": "to put to use; turn to profitable account", "S": ["enforced ", "practiced ", "tested "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 287627, "D": "to remove a growth of beard with a razor.", "S": ["brush ", "cut down ", "kiss ", "pare ", "prune ", "shear ", "shred ", "skim ", "slash ", "trim "], "A": ["mend ", "sew ", "cover "]}

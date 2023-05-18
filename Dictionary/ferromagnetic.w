@@ -1,0 +1,1 @@
+{"index": 111545, "D": "noting or pertaining to a substance, as iron, that below a certain temperature, the Curie point, can possess magnetization in the absence of an external magnetic field;  noting or pertaining to a substance in which the magnetic  moments of the atoms are aligned.", "S": [], "A": []}

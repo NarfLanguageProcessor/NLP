@@ -1,0 +1,1 @@
+{"index": 253334, "D": "(of hermaphrodite or monoecious plants) maturing the anthers before the stigma", "S": [], "A": []}

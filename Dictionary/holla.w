@@ -1,0 +1,1 @@
+{"index": 142474, "D": "(used as an informal greeting.)", "S": [], "A": []}

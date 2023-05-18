@@ -1,0 +1,1 @@
+{"index": 211546, "D": "discarded or rejected; castoff", "S": [], "A": []}

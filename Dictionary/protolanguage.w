@@ -1,0 +1,1 @@
+{"index": 253705, "D": "the reconstructed or postulated parent form of a language  or a group of related languages. ", "S": [], "A": []}

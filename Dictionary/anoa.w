@@ -1,0 +1,1 @@
+{"index": 13681, "D": "a small forest buffalo, Bubalus (Anoa) depressicornis, of the island of Celebes, having a brown coat and straight, sharp-tipped horns", "S": [], "A": []}

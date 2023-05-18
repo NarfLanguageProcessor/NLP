@@ -1,0 +1,1 @@
+{"index": 60014, "D": "to settle (a matter) decisively", "S": ["assure ", "cap ", "conclude ", "decide ", "seal "], "A": ["delay ", "put off ", "disprove ", "invalidate "]}

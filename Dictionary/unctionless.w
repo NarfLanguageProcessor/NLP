@@ -1,0 +1,1 @@
+{"index": 338260, "D": "an act of anointing, especially as a medical treatment or religious rite.", "S": [], "A": []}

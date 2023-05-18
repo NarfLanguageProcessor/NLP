@@ -1,0 +1,1 @@
+{"index": 98828, "D": "a mineral, copper and bismuth sulfide, occurring in the form of thin gray prisms, found with quartz.", "S": [], "A": []}

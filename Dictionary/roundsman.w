@@ -1,0 +1,1 @@
+{"index": 274881, "D": "a person who makes rounds,  as of inspection.", "S": [], "A": []}

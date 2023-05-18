@@ -1,0 +1,1 @@
+{"index": 256978, "D": "a member of a group of Protestants that arose in the 16th century within the Church of England, demanding the simplification of doctrine and worship, and greater strictness in religious discipline", "S": [], "A": []}

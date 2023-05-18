@@ -1,0 +1,1 @@
+{"index": 256680, "D": "causing or characterized by harsh or injurious treatment; severe; brutal", "S": ["brutal ", "grueling ", "punitive "], "A": ["easy ", "effortless "]}

@@ -1,0 +1,1 @@
+{"index": 310653, "D": "(modifier) another term (no longer in technical usage) for thionyl", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 231599, "D": "Compare percentage (def. 1). ", "S": [], "A": []}

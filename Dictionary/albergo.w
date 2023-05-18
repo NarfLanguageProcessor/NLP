@@ -1,0 +1,1 @@
+{"index": 7420, "D": "an inn or hotel.", "S": [], "A": []}

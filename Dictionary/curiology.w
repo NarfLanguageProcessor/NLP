@@ -1,0 +1,1 @@
+{"index": 75313, "D": [], "S": ["cuneal writing ", "cuneiform ", "hieroglyphics ", "ideography ", "phonographic writing ", "runes ", "script ", "symbolical writing ", "symbology "], "A": []}

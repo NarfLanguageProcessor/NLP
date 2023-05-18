@@ -1,0 +1,1 @@
+{"index": 58687, "D": "an electronic optical device for screening smears of cells suspected of being malignant.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 99173, "D": "painted with wax colors fixed with heat, or with any process in which colors are burned in.", "S": [], "A": []}

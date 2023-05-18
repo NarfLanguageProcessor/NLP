@@ -1,0 +1,1 @@
+{"index": 232596, "D": "a lawyer of inferior status who conducts unimportant cases, esp one who is unscrupulous or resorts to trickery", "S": ["attorney ", "lawyer ", "legal eagle ", "shyster ", "unethical attorney "], "A": []}

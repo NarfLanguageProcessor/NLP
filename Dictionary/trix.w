@@ -1,0 +1,1 @@
+{"index": 330859, "D": "a suffix occurring in loanwords from Latin, where it formed feminine nouns or adjectives corresponding to agent nouns ending in -tor  (Bellatrix). On this model, -trix  is used in English to form feminine nouns (aviatrix; executrix) and geometrical terms denoting straight lines (directrix).", "S": [], "A": []}

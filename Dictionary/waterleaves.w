@@ -1,0 +1,1 @@
+{"index": 363182, "D": "any of several North American plants of the genus Hydrophyllum, having clusters of bluish or white flowers and leaves  often bearing marks resembling water  stains.", "S": [], "A": []}

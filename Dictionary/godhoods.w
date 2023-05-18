@@ -1,0 +1,1 @@
+{"index": 127346, "D": "divine character or condition; divinity.", "S": ["deity ", "sanctity "], "A": ["devil ", "evil "]}

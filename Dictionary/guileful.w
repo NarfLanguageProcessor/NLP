@@ -1,0 +1,1 @@
+{"index": 131072, "D": "insidiously cunning; artfully deceptive; wily.", "S": ["adept ", "adroit ", "clever ", "crafty ", "cunning ", "designing ", "dexterous ", "foxy ", "ingenious ", "masterly ", "politic ", "proficient ", "resourceful ", "scheming ", "sharp ", "shrewd ", "slick ", "sly ", "smart ", "smooth ", "tricky ", "wily "], "A": []}

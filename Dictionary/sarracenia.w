@@ -1,0 +1,1 @@
+{"index": 278535, "D": "any American pitcher plant of the genus Sarracenia, having single nodding flowers and leaves modified as pitchers that trap and digest insects", "S": [], "A": []}

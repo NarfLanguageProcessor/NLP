@@ -1,0 +1,1 @@
+{"index": 42924, "D": "straw obtained from leaves of the talipot palm", "S": [], "A": []}

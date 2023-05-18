@@ -1,0 +1,1 @@
+{"index": 159143, "D": "the underlying layer of a ganoid scale, composed of connective tissue embedded with bone.", "S": [], "A": []}

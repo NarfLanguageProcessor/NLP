@@ -1,0 +1,1 @@
+{"index": 356099, "D": "of or relating to Utah or its inhabitants", "S": [], "A": []}

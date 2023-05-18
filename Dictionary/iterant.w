@@ -1,0 +1,1 @@
+{"index": 159522, "D": "characterized by repetition; repeating.", "S": ["fitful ", "infrequent ", "occasional ", "periodic ", "recurrent ", "recurring ", "seasonal "], "A": ["constant ", "frequent ", "permanent ", "regular ", "usual "]}

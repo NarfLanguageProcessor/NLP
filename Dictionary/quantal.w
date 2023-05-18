@@ -1,0 +1,1 @@
+{"index": 257915, "D": "of or relating to quanta  or quantum mechanics. ", "S": [], "A": []}

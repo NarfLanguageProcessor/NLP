@@ -1,0 +1,1 @@
+{"index": 200556, "D": "a person who is awarded a Nobel Prize. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187863, "D": "a plural of minimum. ", "S": [], "A": []}

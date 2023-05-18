@@ -1,0 +1,1 @@
+{"index": 273554, "D": "the act, the practice, or an instance of robbing. ", "S": ["break in ", "burglary ", "embezzlement ", "felony ", "heist ", "holdup ", "larceny ", "looting ", "mugging ", "theft ", "wrongdoing "], "A": ["return "]}

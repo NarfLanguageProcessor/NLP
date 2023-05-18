@@ -1,0 +1,1 @@
+{"index": 298480, "D": "of or relating to the mineral spar. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 164949, "D": "full of kinks;  closely twisted", "S": ["curled ", "curly "], "A": ["straight "]}

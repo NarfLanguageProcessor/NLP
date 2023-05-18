@@ -1,0 +1,1 @@
+{"index": 53999, "D": "to chase; run after.", "S": [], "A": []}

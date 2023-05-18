@@ -1,0 +1,1 @@
+{"index": 207295, "D": "combined into a syndicate,  a group of individuals or organizations jointly undertaking some task, business project, or similar endeavor", "S": [], "A": []}

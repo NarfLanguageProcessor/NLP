@@ -1,0 +1,1 @@
+{"index": 357023, "D": "to conquer or subdue by superior force, as in battle.", "S": ["humbled ", "overpowered ", "overwhelmed ", "routed "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 204680, "D": "the large-scale introduction of manufacturing, advanced technical enterprises, and other productive economic activity into an area, society, country, etc.", "S": [], "A": []}

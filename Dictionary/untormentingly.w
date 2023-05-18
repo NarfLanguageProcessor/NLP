@@ -1,0 +1,1 @@
+{"index": 353126, "D": "to afflict with great bodily or mental suffering; pain", "S": [], "A": []}

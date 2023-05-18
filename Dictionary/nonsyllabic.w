@@ -1,0 +1,1 @@
+{"index": 207245, "D": "not forming a syllable or the nucleus of a syllable.", "S": [], "A": []}

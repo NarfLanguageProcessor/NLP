@@ -1,0 +1,1 @@
+{"index": 284451, "D": "amiably gentle or temperate in feeling or behavior toward others.", "S": [], "A": []}

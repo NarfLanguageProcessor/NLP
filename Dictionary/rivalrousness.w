@@ -1,0 +1,1 @@
+{"index": 273367, "D": "characterized by rivalry;  competitive", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186667, "D": "a Phrygian king, son of Gordius, who was given by Dionysus the power of turning whatever he touched into gold.", "S": [], "A": []}

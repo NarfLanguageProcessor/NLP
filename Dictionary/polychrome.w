@@ -1,0 +1,1 @@
+{"index": 241731, "D": "being of many or various colors.", "S": ["checkered ", "dappled ", "flecked ", "marbled ", "motley ", "mottled ", "speckled ", "spotted ", "streaked ", "variegated ", "veined "], "A": ["plain "]}

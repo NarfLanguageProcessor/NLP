@@ -1,0 +1,1 @@
+{"index": 44262, "D": "an official register of the ownership, extent, and value of real property in a given area, used as a basis of taxation.", "S": [], "A": []}

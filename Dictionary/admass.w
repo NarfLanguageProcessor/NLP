@@ -1,0 +1,1 @@
+{"index": 4113, "D": "high-pressure marketing in which mass-media advertising is used to reach large numbers of people.", "S": [], "A": []}

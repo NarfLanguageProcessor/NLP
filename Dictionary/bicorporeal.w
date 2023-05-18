@@ -1,0 +1,1 @@
+{"index": 33476, "D": "having two bodies, main divisions, symbols, etc.", "S": [], "A": []}

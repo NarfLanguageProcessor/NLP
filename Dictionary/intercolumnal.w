@@ -1,0 +1,1 @@
+{"index": 154671, "D": "the space between two adjacent columns, usually the clear space between the lower parts of the shafts.", "S": [], "A": []}

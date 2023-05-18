@@ -1,0 +1,1 @@
+{"index": 82500, "D": "a soldier or draftee who leaves or runs away from service or duty with the intention of never returning", "S": ["criminal ", "defector ", "escapee ", "lawbreaker "], "A": ["adherent ", "loyalist "]}

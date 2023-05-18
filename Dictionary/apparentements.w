@@ -1,0 +1,1 @@
+{"index": 17581, "D": "a coalition formed between political parties during an election.", "S": [], "A": []}

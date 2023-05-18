@@ -1,0 +1,1 @@
+{"index": 49545, "D": "to arrange in categories  or classes; classify.", "S": ["classify ", "pigeonhole "], "A": ["scatter "]}

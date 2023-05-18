@@ -1,0 +1,1 @@
+{"index": 262806, "D": "a sheet exhibiting information in tabular form.", "S": [], "A": []}

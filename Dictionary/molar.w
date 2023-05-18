@@ -1,0 +1,1 @@
+{"index": 191392, "D": "a tooth having a broad biting surface adapted for grinding, being one of twelve in humans, with three on each side of the upper and lower jaws.", "S": ["axe ", "dicer ", "mincer "], "A": []}

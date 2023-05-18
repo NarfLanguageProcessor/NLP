@@ -1,0 +1,1 @@
+{"index": 153610, "D": "characterized by or displaying insight;  perceptive.", "S": [], "A": []}

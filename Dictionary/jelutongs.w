@@ -1,0 +1,1 @@
+{"index": 160838, "D": "a tree, Dyera costulata, of the Malay Peninsula, from which a resinous latex is obtained.", "S": [], "A": []}

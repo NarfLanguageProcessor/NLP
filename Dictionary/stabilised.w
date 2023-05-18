@@ -1,0 +1,1 @@
+{"index": 302152, "D": "to make or hold stable,  firm, or steadfast.", "S": [], "A": []}

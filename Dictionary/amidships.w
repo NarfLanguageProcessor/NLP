@@ -1,0 +1,1 @@
+{"index": 10462, "D": "in or toward the middle part of a ship  or aircraft; midway between the ends.", "S": [], "A": []}

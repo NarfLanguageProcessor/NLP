@@ -1,0 +1,1 @@
+{"index": 120436, "D": "a vacation or leave of absence granted to an enlisted person.", "S": ["fired ", "freed ", "laid-off ", "released ", "sacked "], "A": []}

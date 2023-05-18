@@ -1,0 +1,1 @@
+{"index": 38385, "D": "on or near a border  or boundary.", "S": ["boundary ", "channel ", "edge "], "A": ["inside ", "interior "]}

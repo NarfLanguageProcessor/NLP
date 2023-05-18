@@ -1,0 +1,1 @@
+{"index": 46905, "D": "the act or process of capitalizing.", "S": ["funding "], "A": []}

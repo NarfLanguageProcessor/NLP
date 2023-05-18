@@ -1,0 +1,1 @@
+{"index": 10785, "D": "the univalent ion, NH4+, or group, NH4, which plays the part of a metal in the salt formed when ammonia reacts with an acid.", "S": [], "A": []}

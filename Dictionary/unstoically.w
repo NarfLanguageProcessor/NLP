@@ -1,0 +1,1 @@
+{"index": 352077, "D": "in an austerely calm, philosophical way that shows fortitude, mastery of the emotions, and uncomplaining acceptance of destiny", "S": [], "A": []}

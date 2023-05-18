@@ -1,0 +1,1 @@
+{"index": 56008, "D": "a mixture of compounds obtained from Goa powder, used in the treatment of psoriasis and other skin conditions.", "S": [], "A": []}

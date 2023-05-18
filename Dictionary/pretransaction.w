@@ -1,0 +1,1 @@
+{"index": 250020, "D": "the act of transacting  or the fact of being transacted.", "S": [], "A": []}

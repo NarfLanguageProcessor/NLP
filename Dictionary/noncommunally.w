@@ -1,0 +1,1 @@
+{"index": 202117, "D": "used or shared in common by everyone in a group", "S": [], "A": []}

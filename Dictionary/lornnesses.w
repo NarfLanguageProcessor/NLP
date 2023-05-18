@@ -1,0 +1,1 @@
+{"index": 175324, "D": "forsaken, desolate, bereft, or forlorn.", "S": [], "A": []}

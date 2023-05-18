@@ -1,0 +1,1 @@
+{"index": 34237, "D": "Also called", "S": ["field glasses ", "lorgnette ", "pince-nez ", "prism binoculars "], "A": []}

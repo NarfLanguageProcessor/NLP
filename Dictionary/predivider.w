@@ -1,0 +1,1 @@
+{"index": 247110, "D": "a person or thing that divides. ", "S": [], "A": []}

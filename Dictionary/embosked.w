@@ -1,0 +1,1 @@
+{"index": 98190, "D": "to hide or conceal (something, oneself, etc.) with or as if with foliage, greenery, or the like", "S": [], "A": []}

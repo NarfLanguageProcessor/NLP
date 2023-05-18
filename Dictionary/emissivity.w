@@ -1,0 +1,1 @@
+{"index": 98577, "D": "the ability of a surface to emit radiant energy compared to that of a black body at the same temperature and with the same area.", "S": [], "A": []}

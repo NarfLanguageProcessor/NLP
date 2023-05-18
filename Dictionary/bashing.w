@@ -1,0 +1,1 @@
+{"index": 28551, "D": "the act of beating, whipping, or thrashing", "S": ["assault ", "attack ", "beating ", "censure ", "charge ", "hounding ", "jumping ", "strike ", "torment "], "A": ["retreat "]}

@@ -1,0 +1,1 @@
+{"index": 246439, "D": "absent from but capable of being readily brought into consciousness.", "S": [], "A": []}

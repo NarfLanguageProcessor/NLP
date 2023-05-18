@@ -1,0 +1,1 @@
+{"index": 31168, "D": "a band  worn about the belly,  as of a harnessed horse or of an infant to protect the navel.", "S": [], "A": []}

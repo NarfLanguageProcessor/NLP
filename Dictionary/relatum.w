@@ -1,0 +1,1 @@
+{"index": 266773, "D": "one of the objects between which a relation is said to hold", "S": [], "A": []}

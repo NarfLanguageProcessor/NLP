@@ -1,0 +1,1 @@
+{"index": 143771, "D": "a simple protein of the prolamin class, found in barley grain.", "S": [], "A": []}

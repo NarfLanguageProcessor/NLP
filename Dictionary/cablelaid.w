@@ -1,0 +1,1 @@
+{"index": 43964, "D": "noting a rope formed of three plain-laid ropes twisted together in a left-handed direction; hawser-laid.", "S": [], "A": []}

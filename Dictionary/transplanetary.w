@@ -1,0 +1,1 @@
+{"index": 328235, "D": "farther from the sun than a given planet.", "S": [], "A": []}

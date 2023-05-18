@@ -1,0 +1,1 @@
+{"index": 41246, "D": "any of numerous, usually epiphytic tropical American plants, having long, stiff leaves and showy flowers, and including the pineapple, Spanish moss, and many species grown as houseplants or ornamentals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 193623, "D": "an abstract phonological unit representing corresponding phonemes in different allomorphs of one morpheme. In English the symbol F may be used to represent a morphophoneme occurring in two related allomorphs, as f in leaf, but v in the plural leaves.", "S": [], "A": []}

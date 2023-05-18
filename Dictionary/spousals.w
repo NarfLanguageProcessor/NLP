@@ -1,0 +1,1 @@
+{"index": 301124, "D": "the ceremony of marriage; nuptials.", "S": ["banns ", "betrothal ", "bridal ", "marriage ", "matrimony ", "nuptials ", "troth "], "A": ["divorce "]}

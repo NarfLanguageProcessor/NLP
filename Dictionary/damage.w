@@ -1,0 +1,1 @@
+{"index": 76498, "D": "injury or harm that reduces value or usefulness", "S": ["accident ", "blow ", "bruise ", "casualty ", "catastrophe ", "contamination ", "corruption ", "destruction ", "deterioration ", "devastation ", "disturbance ", "hardship ", "harm ", "illness ", "impairment ", "pollution ", "suffering ", "wound "], "A": ["betterment ", "amelioration ", "improvement "]}

@@ -1,0 +1,1 @@
+{"index": 245694, "D": "a preamplifier.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 236788, "D": "lacking a pilot  or needing no pilot", "S": [], "A": []}

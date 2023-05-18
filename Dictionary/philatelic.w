@@ -1,0 +1,1 @@
+{"index": 233589, "D": "the collecting of stamps and other postal matter as a hobby or an investment.", "S": [], "A": []}

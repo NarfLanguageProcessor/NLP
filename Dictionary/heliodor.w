@@ -1,0 +1,1 @@
+{"index": 135545, "D": "a clear yellow variety of beryl used as a gemstone.", "S": [], "A": []}

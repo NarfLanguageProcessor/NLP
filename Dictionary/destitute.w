@@ -1,0 +1,1 @@
+{"index": 82948, "D": "without means of subsistence; lacking food, clothing, and shelter.", "S": ["bankrupt ", "exhausted ", "impoverished ", "indigent ", "insolvent ", "needy ", "penniless ", "poor ", "poverty-stricken ", "strapped "], "A": ["affluent ", "rich ", "solvent ", "wealthy "]}

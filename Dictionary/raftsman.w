@@ -1,0 +1,1 @@
+{"index": 259897, "D": "a person who manages or is employed on a raft. ", "S": [], "A": []}

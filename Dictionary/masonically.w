@@ -1,0 +1,1 @@
+{"index": 180724, "D": "pertaining to or characteristic of Freemasons or Freemasonry.", "S": [], "A": []}

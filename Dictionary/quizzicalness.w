@@ -1,0 +1,1 @@
+{"index": 259086, "D": "odd, queer, or comical.", "S": [], "A": []}

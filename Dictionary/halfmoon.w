@@ -1,0 +1,1 @@
+{"index": 132611, "D": "an edible fish, Medialuna californiensis, found in southern California, having a slate-gray body.", "S": ["arch "], "A": []}

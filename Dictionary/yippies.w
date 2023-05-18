@@ -1,0 +1,1 @@
+{"index": 147165, "D": "a member of a group of radical, politically active hippies.", "S": ["bohemian ", "flower child ", "free spirit "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 205161, "D": "associated with the sea or waterways to the sea in relation to navigation, shipping, etc.", "S": [], "A": []}

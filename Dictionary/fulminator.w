@@ -1,0 +1,1 @@
+{"index": 119985, "D": "to explode with a loud noise; detonate.", "S": [], "A": []}

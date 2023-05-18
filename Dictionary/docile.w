@@ -1,0 +1,1 @@
+{"index": 90596, "D": "easily managed or handled; tractable", "S": ["easygoing ", "gentle ", "laid-back ", "meek ", "obedient ", "pliable ", "pliant ", "well-behaved "], "A": ["determined ", "headstrong ", "inflexible ", "intractable ", "obstinate ", "opinionated ", "stubborn ", "uncooperative ", "unyielding "]}

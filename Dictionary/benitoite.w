@@ -1,0 +1,1 @@
+{"index": 31643, "D": "a rare mineral, barium titanium silicate, BaTiSi3O9, occurring in blue hexagonal crystals exhibiting dichroism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 203765, "D": "vigorous action or effort", "S": [], "A": []}

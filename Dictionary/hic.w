@@ -1,0 +1,1 @@
+{"index": 138278, "D": "(an onomatopoeic word used to imitate or represent a hiccup.)", "S": [], "A": []}

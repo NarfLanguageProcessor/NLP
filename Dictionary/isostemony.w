@@ -1,0 +1,1 @@
+{"index": 159261, "D": "having stamens equal in number to the sepals or petals.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183121, "D": "consisting of, of the nature of, or resembling membrane. ", "S": [], "A": []}

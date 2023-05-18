@@ -1,0 +1,1 @@
+{"index": 274141, "D": "a short poem of fixed form, consisting usually of 14 lines on two rhymes, of which four are made up of the initial couplet repeated in the middle and at the end, with the second line of the couplet sometimes being omitted at the end.", "S": [], "A": []}

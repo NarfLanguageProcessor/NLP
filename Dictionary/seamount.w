@@ -1,0 +1,1 @@
+{"index": 282509, "D": "a submarine mountain rising several hundred fathoms above the floor of the sea  but having its summit well below the surface of the water.", "S": [], "A": []}

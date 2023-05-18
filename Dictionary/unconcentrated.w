@@ -1,0 +1,1 @@
+{"index": 337478, "D": "applied with all one's attention, energy, etc.", "S": ["broadcast ", "circulated ", "diluted ", "dispersed ", "disseminated ", "distributed ", "expanded ", "extended ", "general ", "propagated ", "radiated ", "scattered ", "separated ", "strewn ", "thin "], "A": ["concentrated ", "condensed "]}

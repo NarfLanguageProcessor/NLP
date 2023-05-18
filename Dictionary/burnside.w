@@ -1,0 +1,1 @@
+{"index": 43246, "D": "Union general in the American Civil War.", "S": ["bristles ", "goatee ", "mustache ", "sideburns ", "stubble "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 44996, "D": "the act of heating.", "S": [], "A": []}

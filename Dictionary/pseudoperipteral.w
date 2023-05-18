@@ -1,0 +1,1 @@
+{"index": 255005, "D": "having a freestanding colonnade at each end, with engaged columns at the sides.", "S": [], "A": []}

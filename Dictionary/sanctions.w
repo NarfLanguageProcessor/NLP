@@ -1,0 +1,1 @@
+{"index": 277684, "D": "authoritative permission or approval, as for an action.", "S": ["approval "], "A": ["denial ", "disagreement ", "disapproval ", "discouragement ", "opposition ", "prohibition ", "question ", "refusal ", "rejection ", "veto "]}

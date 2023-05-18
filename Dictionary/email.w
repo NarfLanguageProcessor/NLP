@@ -1,0 +1,1 @@
+{"index": 97893, "D": "a system for sending messages to one or more recipients via telecommunications links between computers using dedicated software or a web-based service", "S": ["E-message ", "e-mail ", "online correspondence ", "online mail "], "A": []}

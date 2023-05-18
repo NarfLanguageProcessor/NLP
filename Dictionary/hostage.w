@@ -1,0 +1,1 @@
+{"index": 144195, "D": "a person given or held as security for the fulfillment of certain conditions or terms, promises, etc., by another.", "S": ["captive ", "prisoner ", "victim "], "A": ["captor "]}

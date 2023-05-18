@@ -1,0 +1,1 @@
+{"index": 192917, "D": "a mineral, silicate of magnesium and calcium, CaMgSiO4, belonging to the olivine group and often occurring in contact metamorphosed limestones.", "S": [], "A": []}

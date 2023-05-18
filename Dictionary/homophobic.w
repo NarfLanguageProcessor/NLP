@@ -1,0 +1,1 @@
+{"index": 143204, "D": "an aversion or hostility to, disdain for, or fear of gay sexual orientation  or gay people.", "S": [], "A": []}

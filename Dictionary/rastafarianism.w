@@ -1,0 +1,1 @@
+{"index": 260932, "D": "a religion, originating in Jamaica, whose followers regard the late Ethiopian emperor Haile Selassie I as the messiah and themselves as exiles awaiting return to Africa, the Promised Land.", "S": [], "A": []}

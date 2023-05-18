@@ -1,0 +1,1 @@
+{"index": 225860, "D": "a pseudomorph formed by a change in crystal structure but not in chemical composition.", "S": [], "A": []}

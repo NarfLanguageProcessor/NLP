@@ -1,0 +1,1 @@
+{"index": 268187, "D": "full of repetition,  especially unnecessary and tedious repetition", "S": [], "A": []}

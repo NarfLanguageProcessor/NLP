@@ -1,0 +1,1 @@
+{"index": 43891, "D": "a variant spelling of kabbalah", "S": [], "A": []}

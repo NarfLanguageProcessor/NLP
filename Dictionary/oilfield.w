@@ -1,0 +1,1 @@
+{"index": 211840, "D": "an area in which there are large deposits of oil.", "S": ["gusher ", "oil rig "], "A": []}

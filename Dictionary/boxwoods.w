@@ -1,0 +1,1 @@
+{"index": 39314, "D": "the hard, fine-grained, compact wood  of the box  shrub or tree, used for wood-engravers' blocks, musical instruments, etc.", "S": [], "A": []}

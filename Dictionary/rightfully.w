@@ -1,0 +1,1 @@
+{"index": 272819, "D": "having a valid or just claim, as to some property or position; legitimate", "S": ["deservedly ", "justly ", "legally ", "legitimately "], "A": []}

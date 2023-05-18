@@ -1,0 +1,1 @@
+{"index": 135414, "D": "a robbery or holdup", "S": ["embezzle ", "filch ", "misappropriate ", "pilfer "], "A": ["give ", "keep ", "offer ", "receive ", "refuse ", "reject "]}

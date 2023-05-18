@@ -1,0 +1,1 @@
+{"index": 94364, "D": "(of a cloud) consisting of superposed layers that sometimes partially merge.", "S": [], "A": []}

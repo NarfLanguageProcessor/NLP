@@ -1,0 +1,1 @@
+{"index": 32159, "D": "a 6th- and 7th- century Anglian kingdom, merged with Deira to form the kingdom of Northumbria, in present-day NE England and SE Scotland.", "S": [], "A": []}

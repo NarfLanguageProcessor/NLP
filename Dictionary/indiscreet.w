@@ -1,0 +1,1 @@
+{"index": 151071, "D": "not discreet; lacking prudence, good judgment, or circumspection", "S": ["careless ", "hasty "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 15514, "D": "excessively concerned with physical comforts or the acquisition of wealth and material  possessions, rather than with spiritual, intellectual, or cultural values.", "S": [], "A": []}

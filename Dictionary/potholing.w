@@ -1,0 +1,1 @@
+{"index": 244721, "D": "a sport in which participants explore underground caves", "S": [], "A": []}

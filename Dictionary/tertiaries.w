@@ -1,0 +1,1 @@
+{"index": 319663, "D": "of the third order, rank, stage, formation, etc.; third.", "S": [], "A": []}

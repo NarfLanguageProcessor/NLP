@@ -1,0 +1,1 @@
+{"index": 183177, "D": "a short note designating something to be remembered, especially something to be done or acted upon in the future; reminder.", "S": ["announcement ", "diary ", "directive ", "letter ", "memo ", "message ", "notice "], "A": []}

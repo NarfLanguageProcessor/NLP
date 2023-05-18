@@ -1,0 +1,1 @@
+{"index": 127873, "D": "farewell (a conventional expression used at parting).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26891, "D": "a spherical or approximately spherical body or shape; sphere", "S": ["hop ", "jump ", "mingle ", "prom ", "promenade ", "reception ", "shindig "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 173014, "D": "a staff with one end forked to hold a match, formerly used in firing cannon.", "S": [], "A": []}

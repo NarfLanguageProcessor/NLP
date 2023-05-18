@@ -1,0 +1,1 @@
+{"index": 62940, "D": "cooperative interaction among colleagues.", "S": [], "A": []}

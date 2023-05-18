@@ -1,0 +1,1 @@
+{"index": 38875, "D": "a woman's bedroom or private sitting room.", "S": ["bedroom "], "A": []}

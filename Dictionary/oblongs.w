@@ -1,0 +1,1 @@
+{"index": 210267, "D": "elongated, usually from the square or circular form.", "S": ["bar ", "brick ", "chunk ", "piece ", "section ", "slab ", "square "], "A": ["whole "]}

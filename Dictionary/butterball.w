@@ -1,0 +1,1 @@
+{"index": 43662, "D": "the bufflehead.", "S": ["chunky ", "flabby ", "plump ", "portly ", "pudgy ", "stout "], "A": ["lean ", "skinny ", "slim ", "thin "]}

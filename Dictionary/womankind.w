@@ -1,0 +1,1 @@
+{"index": 366980, "D": "women,  as distinguished from men; the female sex.", "S": ["femaleness ", "muliebrity ", "womanhood ", "womanliness "], "A": []}

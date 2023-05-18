@@ -1,0 +1,1 @@
+{"index": 305064, "D": "not easily stirred or moved mentally; unemotional; impassive.", "S": ["adamantly ", "decisively ", "doggedly ", "persistently ", "resolutely ", "staunchly ", "steadfastly ", "strictly ", "stubbornly ", "tenaciously "], "A": ["indefinitely ", "weakly "]}

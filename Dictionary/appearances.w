@@ -1,0 +1,1 @@
+{"index": 17613, "D": "the act or fact of appearing,  as to the eye or mind or before the public", "S": ["chance ", "expectation ", "forecast ", "opportunity ", "possibility ", "prospect ", "risk "], "A": ["certainty ", "unlikelihood "]}

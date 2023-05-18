@@ -1,0 +1,1 @@
+{"index": 223719, "D": "ancient forms of writing, as in documents and inscriptions.", "S": [], "A": []}

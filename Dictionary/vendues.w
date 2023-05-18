@@ -1,0 +1,1 @@
+{"index": 357975, "D": "a public auction.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 306101, "D": "any of several spherical or oval bacteria of the genus Streptococcus, occurring in pairs or chains, certain species of which are pathogenic for humans, causing scarlet fever, tonsillitis, etc.", "S": [], "A": []}

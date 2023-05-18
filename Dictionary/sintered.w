@@ -1,0 +1,1 @@
+{"index": 292029, "D": "siliceous or calcareous matter deposited by springs, as that formed around the vent of a geyser.", "S": [], "A": []}

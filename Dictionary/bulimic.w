@@ -1,0 +1,1 @@
+{"index": 42462, "D": "relating to, resembling, or affected by bulimia. ", "S": ["malnourished "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 341877, "D": "having been destroyed or removed", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 102486, "D": "to express in epigrams. ", "S": [], "A": []}

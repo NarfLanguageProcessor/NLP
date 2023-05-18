@@ -1,0 +1,1 @@
+{"index": 185722, "D": "an electrically charged particle formed by an aggregate of molecules and occurring in certain colloidal electrolyte solutions, as those of soaps and detergents.", "S": [], "A": []}

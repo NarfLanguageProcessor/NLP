@@ -1,0 +1,1 @@
+{"index": 69881, "D": "one of several steroid hormones produced by the adrenal cortex and resembling cortisone  in its action.", "S": [], "A": []}

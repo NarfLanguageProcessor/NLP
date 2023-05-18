@@ -1,0 +1,1 @@
+{"index": 311497, "D": "a frequent misspelling of supersede. ", "S": [], "A": []}

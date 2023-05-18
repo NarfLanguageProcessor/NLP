@@ -1,0 +1,1 @@
+{"index": 343535, "D": "to strip of harness; detach the harness from (a horse, mule, etc.).", "S": [], "A": []}

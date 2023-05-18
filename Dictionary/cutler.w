@@ -1,0 +1,1 @@
+{"index": 75815, "D": "a person who makes, sells, or repairs knives and other cutting instruments.", "S": [], "A": []}

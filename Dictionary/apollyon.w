@@ -1,0 +1,1 @@
+{"index": 17245, "D": "the destroyer; the angel of the bottomless pit; Abaddon. Revelation 9", "S": ["Antichrist ", "Beelzebub ", "Mephistopheles ", "demon ", "lucifer "], "A": ["Archfiend ", "Christ ", "Prince of Darkness ", "demon ", "lucifer ", "the Evil Spirit "]}

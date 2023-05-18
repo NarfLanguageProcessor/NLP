@@ -1,0 +1,1 @@
+{"index": 37625, "D": "a desert valley, the level of which has been raised by aggradation, usually draining into a playa.", "S": [], "A": []}

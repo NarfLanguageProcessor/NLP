@@ -1,0 +1,1 @@
+{"index": 123573, "D": "of, pertaining to, resembling, or arising from a gene  or genes. ", "S": [], "A": []}

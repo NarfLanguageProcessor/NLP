@@ -1,0 +1,1 @@
+{"index": 36643, "D": "having a coarse, ruddy complexion.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45433, "D": "the measurement of heat.", "S": [], "A": []}

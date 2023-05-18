@@ -1,0 +1,1 @@
+{"index": 338727, "D": "not given to open exhibition or expression of emotion, especially of affection.", "S": [], "A": []}

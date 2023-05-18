@@ -1,0 +1,1 @@
+{"index": 84028, "D": "an adhesive plaster consisting chiefly of litharge and oil, used in the treatment of wounds and excoriations.", "S": [], "A": []}

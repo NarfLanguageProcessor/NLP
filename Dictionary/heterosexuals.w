@@ -1,0 +1,1 @@
+{"index": 137751, "D": "of, relating to, or exhibiting heterosexuality,  sexual desire or behavior directed toward people of the other binary gender.", "S": [], "A": []}

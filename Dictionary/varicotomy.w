@@ -1,0 +1,1 @@
+{"index": 357218, "D": "surgical removal of a varicose vein.", "S": [], "A": []}

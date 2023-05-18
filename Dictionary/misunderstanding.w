@@ -1,0 +1,1 @@
+{"index": 190393, "D": "failure to understand correctly; mistake as to meaning or intent.", "S": ["confusion ", "error ", "misconception ", "misinterpretation ", "misjudgment ", "mistake ", "mix up "], "A": ["accuracy ", "certainty ", "correction ", "truth ", "understanding "]}

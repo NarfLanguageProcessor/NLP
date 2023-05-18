@@ -1,0 +1,1 @@
+{"index": 360459, "D": "a similar piece of plate having holes or slits for vision and breathing, attached to or used with any of various other helmets, as the armet, sallet, basinet, or helm.", "S": ["brim ", "cap ", "hat ", "peak "], "A": []}

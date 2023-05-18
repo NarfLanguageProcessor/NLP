@@ -1,0 +1,1 @@
+{"index": 259202, "D": "a wide, stiff collar of the 17th century, worn flat over the shoulders or open in front and standing at the back.", "S": [], "A": []}

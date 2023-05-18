@@ -1,0 +1,1 @@
+{"index": 300292, "D": "a petty criminal, especially a black marketeer, racetrack tout, or petty thief.", "S": [], "A": []}

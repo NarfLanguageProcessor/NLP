@@ -1,0 +1,1 @@
+{"index": 354205, "D": "not wholesome;  unhealthful; deleterious to health or physical or moral well-being", "S": ["gruesomely ", "insanely ", "weirdly "], "A": []}

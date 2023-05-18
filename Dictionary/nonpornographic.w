@@ -1,0 +1,1 @@
+{"index": 206056, "D": "sexually explicit videos, photographs, writings, or the like, whose purpose is to elicit sexual arousal.", "S": [], "A": []}

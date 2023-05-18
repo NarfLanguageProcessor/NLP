@@ -1,0 +1,1 @@
+{"index": 250353, "D": "a puncture made by a needle, thorn, or the like.", "S": ["cut ", "gash ", "jab ", "perforation ", "pinhole ", "prickle ", "puncture ", "stab ", "wound "], "A": []}

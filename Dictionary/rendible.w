@@ -1,0 +1,1 @@
+{"index": 267582, "D": "to separate into parts with force or violence", "S": [], "A": []}

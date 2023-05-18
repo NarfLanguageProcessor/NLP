@@ -1,0 +1,1 @@
+{"index": 72338, "D": "insane; demented.", "S": ["demented ", "deranged ", "frenzied ", "hysterical "], "A": ["balanced ", "calm ", "controlled ", "sane "]}

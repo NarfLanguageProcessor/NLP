@@ -1,0 +1,1 @@
+{"index": 127713, "D": "a person or thing that is dead, lost, or past recovery.", "S": ["despondent ", "forlorn ", "futile ", "sad ", "vain "], "A": ["cheerful ", "happy ", "hopeful ", "joyful "]}

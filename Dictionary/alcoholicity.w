@@ -1,0 +1,1 @@
+{"index": 7683, "D": "alcoholic  quality or strength.", "S": [], "A": []}

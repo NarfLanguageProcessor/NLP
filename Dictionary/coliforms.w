@@ -1,0 +1,1 @@
+{"index": 62761, "D": "of, relating to, or resembling a coliform bacillus. ", "S": [], "A": []}

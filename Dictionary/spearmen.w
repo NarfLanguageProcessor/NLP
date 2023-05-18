@@ -1,0 +1,1 @@
+{"index": 298727, "D": "a person who is armed with or uses aspear. ", "S": [], "A": []}

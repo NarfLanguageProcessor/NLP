@@ -1,0 +1,1 @@
+{"index": 49883, "D": "a large vessel for the transportation of livestock.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 237019, "D": "to produce a sharp sound like that of a bullet striking a sheet of metal.", "S": ["clink ", "knock ", "sound ", "ting "], "A": []}

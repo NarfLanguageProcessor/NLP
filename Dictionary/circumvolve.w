@@ -1,0 +1,1 @@
+{"index": 58294, "D": "to revolve or wind about.", "S": ["circle ", "orbit ", "rotate ", "spin ", "turn "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227147, "D": "a matching set of jewels or ornaments.", "S": [], "A": []}

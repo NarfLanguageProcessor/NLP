@@ -1,0 +1,1 @@
+{"index": 248600, "D": "of, relating to, or founded on observation,  especially founded on observation  rather than experiment.", "S": [], "A": []}

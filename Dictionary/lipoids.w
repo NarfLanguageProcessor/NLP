@@ -1,0 +1,1 @@
+{"index": 173190, "D": "fatty; resembling fat.", "S": [], "A": []}

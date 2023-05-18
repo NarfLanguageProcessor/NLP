@@ -1,0 +1,1 @@
+{"index": 188003, "D": "the smaller part or number; a number, part, or amount forming less than half of the whole.", "S": ["opposition "], "A": ["majority "]}

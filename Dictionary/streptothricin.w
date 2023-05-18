@@ -1,0 +1,1 @@
+{"index": 306117, "D": "an antibacterial substance produced by a soil fungus, Actinomyces lavendulae.", "S": [], "A": []}

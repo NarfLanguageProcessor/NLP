@@ -1,0 +1,1 @@
+{"index": 334725, "D": "to distress with mental or bodily pain; trouble greatly or grievously", "S": [], "A": []}

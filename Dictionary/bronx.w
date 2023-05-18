@@ -1,0 +1,1 @@
+{"index": 41464, "D": "a borough of New York City, N of Manhattan. 43.4 sq. mi. (112 sq. km).", "S": [], "A": []}

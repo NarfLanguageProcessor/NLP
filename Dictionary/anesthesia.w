@@ -1,0 +1,1 @@
+{"index": 12578, "D": "general or local insensibility, as to pain and other sensation, induced by certain interventions or drugs to permit the performance of surgery or other painful procedures.", "S": ["insentience ", "numbness ", "stupor ", "unconsciousness "], "A": []}

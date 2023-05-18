@@ -1,0 +1,1 @@
+{"index": 361080, "D": "the phenomena connected with volcanoes  and volcanic  activity.", "S": [], "A": []}

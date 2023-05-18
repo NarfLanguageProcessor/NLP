@@ -1,0 +1,1 @@
+{"index": 215478, "D": "of, relating to, or characteristic of Ossian,  the poetry attributed to him, or the rhythmic prose published by James Macpherson in 1762\u201363, purporting to be a translation from the Scottish Gaelic.", "S": [], "A": []}

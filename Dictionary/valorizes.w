@@ -1,0 +1,1 @@
+{"index": 356803, "D": "to provide for the maintaining of the value or price of (a commercial commodity) by a government's purchasing the commodity at the fixed price or by its making special loans to the producers.", "S": [], "A": []}

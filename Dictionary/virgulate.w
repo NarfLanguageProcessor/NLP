@@ -1,0 +1,1 @@
+{"index": 360172, "D": "rod-shaped; virgate.", "S": [], "A": []}

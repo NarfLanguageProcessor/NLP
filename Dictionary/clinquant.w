@@ -1,0 +1,1 @@
+{"index": 60102, "D": "glittering, especially with tinsel; decked with garish finery.", "S": ["glittering ", "gold ", "showy ", "tinsel "], "A": []}

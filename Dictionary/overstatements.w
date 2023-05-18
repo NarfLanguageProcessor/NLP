@@ -1,0 +1,1 @@
+{"index": 221331, "D": "to state  too strongly; exaggerate", "S": ["hyperbole "], "A": []}

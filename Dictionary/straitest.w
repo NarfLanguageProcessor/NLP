@@ -1,0 +1,1 @@
+{"index": 305714, "D": "a narrow passage of water connecting two large bodies of water.", "S": ["cramped ", "definite ", "limited ", "precarious ", "precise ", "slender ", "slim ", "small ", "thin ", "tight "], "A": ["fat ", "free ", "giving ", "imprecise ", "indefinite ", "inexact ", "loose ", "open ", "strong ", "unlimited ", "away ", "far ", "poor ", "thick ", "unfixed "]}

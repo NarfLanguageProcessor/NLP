@@ -1,0 +1,1 @@
+{"index": 290779, "D": "to be a symbol  of; stand for or represent in the manner of a symbol. ", "S": [], "A": []}

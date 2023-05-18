@@ -1,0 +1,1 @@
+{"index": 305637, "D": "to stray from the road, course, or line of march.", "S": ["lean ", "less ", "middling ", "minor ", "minority ", "minute ", "petty ", "scanty ", "scattering ", "short ", "slight ", "trifling "], "A": ["big ", "consequential ", "fat ", "important ", "large ", "major ", "significant ", "tall ", "thick ", "useful "]}

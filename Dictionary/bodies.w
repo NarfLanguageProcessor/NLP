@@ -1,0 +1,1 @@
+{"index": 37197, "D": "the physical structure and material substance of an animal or plant, living or dead.", "S": ["community ", "crowd ", "family ", "folk ", "nation ", "population ", "public ", "society "], "A": ["animals ", "plants "]}

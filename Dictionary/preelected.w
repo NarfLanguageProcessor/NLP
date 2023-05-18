@@ -1,0 +1,1 @@
+{"index": 247201, "D": "to choose or select by vote, as for an office", "S": [], "A": []}

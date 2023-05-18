@@ -1,0 +1,1 @@
+{"index": 341630, "D": "excluded from or left out of a particular category", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 255552, "D": "the doctrine that Jesus Christ was only a human being.", "S": [], "A": []}

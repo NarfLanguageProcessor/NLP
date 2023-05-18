@@ -1,0 +1,1 @@
+{"index": 266652, "D": "to make or become youthful or restored to vitality", "S": [], "A": []}

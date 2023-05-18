@@ -1,0 +1,1 @@
+{"index": 338556, "D": "failure to act; inaction or neglect", "S": [], "A": []}

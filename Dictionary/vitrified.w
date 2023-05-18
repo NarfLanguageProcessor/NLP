@@ -1,0 +1,1 @@
+{"index": 360640, "D": "to convert or be converted into glass.", "S": ["deep ", "gooey ", "heavy ", "impenetrable ", "opaque ", "stiff ", "syrupy "], "A": ["clear ", "easy ", "light ", "soft ", "trivial ", "understandable ", "flexible ", "indefinite ", "loose ", "slack "]}

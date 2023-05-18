@@ -1,0 +1,1 @@
+{"index": 281391, "D": "vision in dim light (opposed to photopia).", "S": ["night vision ", "scotopic adaptation ", "scotopic vision "], "A": []}

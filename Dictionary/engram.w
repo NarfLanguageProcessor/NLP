@@ -1,0 +1,1 @@
+{"index": 100457, "D": "a presumed encoding in neural tissue that provides a physical basis for the persistence of memory; a memory trace.", "S": [], "A": []}

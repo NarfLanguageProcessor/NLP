@@ -1,0 +1,1 @@
+{"index": 346601, "D": "to unfasten or separate (something mortised).", "S": [], "A": []}

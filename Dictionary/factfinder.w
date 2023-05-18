@@ -1,0 +1,1 @@
+{"index": 109034, "D": "a person who searches impartially for the facts or actualities of a subject or situation, especially one appointed to conduct an official investigation, as in a labor-management conflict.", "S": ["finder of fact ", "research worker ", "researcher ", "researchist "], "A": []}

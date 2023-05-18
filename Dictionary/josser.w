@@ -1,0 +1,1 @@
+{"index": 161820, "D": "fellow, especially one who is or is made to appear foolish or simpleminded.", "S": [], "A": []}

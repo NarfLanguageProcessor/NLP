@@ -1,0 +1,1 @@
+{"index": 262102, "D": "to restore to assurance or confidence", "S": ["aided ", "animated ", "cheered ", "determined ", "emboldened ", "enlivened ", "inspired ", "inspirited ", "renewed ", "roused ", "supported "], "A": ["discouraged ", "disheartened ", "dispirited "]}

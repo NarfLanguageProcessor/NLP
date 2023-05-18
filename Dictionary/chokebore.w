@@ -1,0 +1,1 @@
+{"index": 55342, "D": "a bore  in a shotgun that narrows toward the muzzle to prevent shot from scattering too widely.", "S": [], "A": []}

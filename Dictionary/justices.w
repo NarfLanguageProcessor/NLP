@@ -1,0 +1,1 @@
+{"index": 162516, "D": "the quality of being just; righteousness, equitableness, or moral rightness", "S": ["assizes ", "bar ", "bench ", "court ", "courts ", "judicature ", "tribunal "], "A": []}

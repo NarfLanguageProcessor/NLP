@@ -1,0 +1,1 @@
+{"index": 193229, "D": "languishing, listless, droopy, or glum.", "S": ["bleak ", "dejected ", "depressing ", "dismal ", "downcast ", "dreary ", "miserable "], "A": ["bright ", "cheerful ", "elated ", "encouraging ", "glad ", "happy ", "light ", "pleasant "]}

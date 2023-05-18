@@ -1,0 +1,1 @@
+{"index": 252283, "D": "a person who makes a promise. ", "S": [], "A": []}

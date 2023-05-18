@@ -1,0 +1,1 @@
+{"index": 83616, "D": "to deprive of vitality or vital properties; make lifeless; weaken.", "S": ["deaden ", "debilitate ", "desiccate ", "destroy ", "disembowel ", "emasculate ", "enervate ", "eviscerate ", "exenterate ", "weaken "], "A": ["aid ", "animate ", "assist ", "build ", "energize ", "help ", "invigorate ", "strengthen "]}

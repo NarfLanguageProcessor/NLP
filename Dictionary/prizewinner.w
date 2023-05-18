@@ -1,0 +1,1 @@
+{"index": 250894, "D": "a person or thing that wins a prize  or is deserving of a prize. ", "S": ["champ ", "champion ", "conqueror ", "first ", "hero ", "king ", "medalist ", "queen ", "subjugator ", "top ", "vanquisher ", "winner "], "A": ["loser "]}

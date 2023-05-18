@@ -1,0 +1,1 @@
+{"index": 56587, "D": "an ankle-high shoe, laced through two pairs of eyelets, often made of suede.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 186256, "D": "a small blastomere, as one of those that form toward the animal pole in embryos that undergo unequal cleavage or those that occur in the embryo of mammals.", "S": [], "A": []}

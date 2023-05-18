@@ -1,0 +1,1 @@
+{"index": 286683, "D": "fixed or established; unlikely to change", "S": ["ended ", "established ", "resolved "], "A": []}

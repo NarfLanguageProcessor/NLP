@@ -1,0 +1,1 @@
+{"index": 152400, "D": "causing or tending to cause anger or outrage; maddening", "S": [], "A": []}

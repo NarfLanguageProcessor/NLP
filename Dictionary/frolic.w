@@ -1,0 +1,1 @@
+{"index": 119283, "D": "merry play; merriment; gaiety; fun.", "S": ["antic ", "drollery ", "escapade ", "fun ", "gaiety ", "gambol ", "game ", "joke ", "joviality ", "lark ", "merriment ", "play ", "prank ", "romp ", "shenanigan ", "skylarking ", "sport ", "spree ", "tomfoolery ", "trick "], "A": ["sadness ", "seriousness ", "work "]}

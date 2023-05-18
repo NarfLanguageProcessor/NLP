@@ -1,0 +1,1 @@
+{"index": 94729, "D": "a rope attached to a cringle and used for bending a corner of a sail to a yard, boom, or gaff or for reefing a sail.", "S": [], "A": []}

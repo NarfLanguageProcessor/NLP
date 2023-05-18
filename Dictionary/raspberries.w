@@ -1,0 +1,1 @@
+{"index": 260906, "D": "the fruit of any of several shrubs belonging to the genus Rubus, of the rose family, consisting of small and juicy red, black, or pale yellow drupelets forming a detachable cap about a convex receptacle.", "S": ["catcall ", "hiss ", "razz ", "sound "], "A": []}

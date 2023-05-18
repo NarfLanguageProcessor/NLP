@@ -1,0 +1,1 @@
+{"index": 288558, "D": "the site to the east of the Jordan and northeast of the Dead Sea where the Israelites encamped before crossing the Jordan (Numbers 25", "S": [], "A": []}

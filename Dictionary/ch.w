@@ -1,0 +1,1 @@
+{"index": 51820, "D": "chain; chains.", "S": [], "A": []}

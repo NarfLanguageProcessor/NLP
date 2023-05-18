@@ -1,0 +1,1 @@
+{"index": 56522, "D": "a hole  or pit in a road or street; pothole.", "S": [], "A": []}

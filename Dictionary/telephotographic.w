@@ -1,0 +1,1 @@
+{"index": 318192, "D": "photography  of distant objects, using a telephoto lens.", "S": [], "A": []}

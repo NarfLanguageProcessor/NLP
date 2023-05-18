@@ -1,0 +1,1 @@
+{"index": 66987, "D": "to agree together, especially secretly, to do something wrong, evil, or illegal", "S": [], "A": []}

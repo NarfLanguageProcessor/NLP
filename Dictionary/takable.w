@@ -1,0 +1,1 @@
+{"index": 315481, "D": "to get into one's hold or possession by voluntary action", "S": [], "A": []}

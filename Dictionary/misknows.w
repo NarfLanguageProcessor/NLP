@@ -1,0 +1,1 @@
+{"index": 189530, "D": "to fail to understand or recognize; misunderstand", "S": ["confuse ", "miscalculate ", "misconstrue ", "misinterpret ", "misjudge ", "misread ", "overestimate ", "overlook ", "underestimate "], "A": ["understand ", "accomplish ", "achieve ", "clear up ", "correct ", "do well ", "fix ", "succeed "]}

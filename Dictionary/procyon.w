@@ -1,0 +1,1 @@
+{"index": 251243, "D": "a first-magnitude star in the constellation Canis Minor.", "S": [], "A": []}

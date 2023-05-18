@@ -1,0 +1,1 @@
+{"index": 47834, "D": "an excessive preoccupation with heart disease or an irrational fear of dying from a heart attack, often presenting physical symptoms of chest pain or heart palpitations.", "S": [], "A": []}

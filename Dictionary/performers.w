@@ -1,0 +1,1 @@
+{"index": 230678, "D": "to carry out; execute; do", "S": ["association ", "band ", "cast ", "crew ", "ensemble ", "gang "], "A": []}

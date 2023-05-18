@@ -1,0 +1,1 @@
+{"index": 34778, "D": "a sticky material prepared from holly, mistletoe, or other plants, and smeared on twigs to catch small birds that light on it.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 194470, "D": "miles per hour.", "S": [], "A": []}

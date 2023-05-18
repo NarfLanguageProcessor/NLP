@@ -1,0 +1,1 @@
+{"index": 159406, "D": "a narrow strip of land, bordered on both sides by water, connecting two larger bodies of land.", "S": [], "A": []}

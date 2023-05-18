@@ -1,0 +1,1 @@
+{"index": 350501, "D": "not scientific;  not employed in science", "S": [], "A": []}

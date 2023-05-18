@@ -1,0 +1,1 @@
+{"index": 101350, "D": "a person who undertakes or engages in some enterprise;  entrepreneur.", "S": [], "A": []}

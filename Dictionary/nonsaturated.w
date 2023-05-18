@@ -1,0 +1,1 @@
+{"index": 207020, "D": "soaked, impregnated, or imbued thoroughly; charged thoroughly or completely; brought to a state of saturation.", "S": [], "A": []}

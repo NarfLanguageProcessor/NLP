@@ -1,0 +1,1 @@
+{"index": 188926, "D": "to demand by or as by virtue of a right; demand as a right or as due", "S": [], "A": []}

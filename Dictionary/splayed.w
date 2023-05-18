@@ -1,0 +1,1 @@
+{"index": 300305, "D": "to spread out, expand, or extend.", "S": ["broad ", "large ", "spread-out "], "A": []}

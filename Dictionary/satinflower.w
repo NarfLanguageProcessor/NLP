@@ -1,0 +1,1 @@
+{"index": 278722, "D": "a Californian plant, Clarkia amoena, of the evening primrose family, having cup-shaped pink or purplish flowers blotched with red.", "S": [], "A": []}

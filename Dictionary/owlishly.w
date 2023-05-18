@@ -1,0 +1,1 @@
+{"index": 222065, "D": "resembling or characteristic of an owl", "S": [], "A": []}

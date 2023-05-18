@@ -1,0 +1,1 @@
+{"index": 314441, "D": "without difficulty; with great success; effortlessly", "S": ["smoothly "], "A": ["lousy "]}

@@ -1,0 +1,1 @@
+{"index": 304168, "D": "pertaining to the stethoscope  or to stethoscopy.", "S": [], "A": []}

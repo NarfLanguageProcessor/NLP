@@ -1,0 +1,1 @@
+{"index": 158551, "D": "a line on a weather map or chart connecting points having equal temperature variations within a given period of time.", "S": [], "A": []}

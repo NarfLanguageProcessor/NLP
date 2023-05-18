@@ -1,0 +1,1 @@
+{"index": 237667, "D": "a viscous, water-insoluble liquid, C21H28O3, extracted from pyrethrum  flowers, used as an insecticide.", "S": [], "A": []}

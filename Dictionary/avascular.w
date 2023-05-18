@@ -1,0 +1,1 @@
+{"index": 24614, "D": "(of certain tissues, such as cartilage) lacking blood vessels", "S": [], "A": []}

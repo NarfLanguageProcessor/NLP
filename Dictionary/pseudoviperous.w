@@ -1,0 +1,1 @@
+{"index": 255220, "D": "of the nature of or resembling a viper", "S": [], "A": []}

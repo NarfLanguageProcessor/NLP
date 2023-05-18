@@ -1,0 +1,1 @@
+{"index": 317072, "D": "variant of tauro-  before a vowel", "S": [], "A": []}

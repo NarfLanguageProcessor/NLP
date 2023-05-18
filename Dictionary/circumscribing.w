@@ -1,0 +1,1 @@
+{"index": 58224, "D": "to draw a line around; encircle", "S": ["banding ", "bordering ", "bounding ", "delimiting ", "girdling ", "marking ", "zoning "], "A": []}

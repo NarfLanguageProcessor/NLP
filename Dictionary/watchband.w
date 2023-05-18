@@ -1,0 +1,1 @@
+{"index": 363047, "D": "a leather, metal, fabric, or plastic bracelet or strap attached to a wrist watch  to hold it on the wrist.", "S": [], "A": []}

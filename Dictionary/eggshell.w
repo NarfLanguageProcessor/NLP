@@ -1,0 +1,1 @@
+{"index": 96204, "D": "the shell of a bird's egg, consisting of keratin fibers and calcite crystals.", "S": [], "A": []}

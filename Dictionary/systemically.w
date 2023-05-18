@@ -1,0 +1,1 @@
+{"index": 292546, "D": "of or relating to a system,  especially when affecting the entirety of a thing", "S": [], "A": []}

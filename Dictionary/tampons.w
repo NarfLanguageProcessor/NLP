@@ -1,0 +1,1 @@
+{"index": 315955, "D": "a plug of cotton or the like for insertion into an orifice, wound, etc., chiefly for absorbing blood or stopping hemorrhages.", "S": ["blockade "], "A": ["key "]}

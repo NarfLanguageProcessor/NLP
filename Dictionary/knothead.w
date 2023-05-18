@@ -1,0 +1,1 @@
+{"index": 165677, "D": [], "S": ["blockhead ", "clod ", "dodo ", "dolt ", "dullard ", "dumbbell ", "dummkopf ", "dunce ", "fool ", "halfwit ", "idiot ", "ignoramus ", "imbecile ", "knucklehead ", "moron ", "nitwit ", "numskull ", "oaf ", "simpleton "], "A": []}

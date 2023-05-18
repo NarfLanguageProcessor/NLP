@@ -1,0 +1,1 @@
+{"index": 24897, "D": "acknowledged; declared", "S": ["professed "], "A": []}

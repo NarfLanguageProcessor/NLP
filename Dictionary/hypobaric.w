@@ -1,0 +1,1 @@
+{"index": 140777, "D": "Compare hyperbaric (def. 1). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 212495, "D": "of all forms, varieties, or kinds.", "S": [], "A": []}

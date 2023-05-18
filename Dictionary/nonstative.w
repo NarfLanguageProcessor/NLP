@@ -1,0 +1,1 @@
+{"index": 207507, "D": "(of a verb) expressing an action or process, as run or grow, and able to be used in either simple or progressive tenses", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228305, "D": "a manually or automatically operated telephone facility that handles communications within an office, office building, or organization and that is connected to the public telephone network.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 38190, "D": "a wasteful and worthless project undertaken for political, corporate, or personal gain, typically a government project funded by taxpayers", "S": ["boondoggle ", "drag ", "idle ", "lag ", "linger ", "loiter ", "lollygag ", "procrastinate ", "putter ", "tarry ", "trail "], "A": ["complete ", "finish ", "go ", "hurry ", "leave ", "rush "]}

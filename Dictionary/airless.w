@@ -1,0 +1,1 @@
+{"index": 6929, "D": "lacking air.", "S": ["stifling ", "stuffy "], "A": []}

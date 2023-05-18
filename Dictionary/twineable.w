@@ -1,0 +1,1 @@
+{"index": 333354, "D": "a strong thread or string composed of two or more strands twisted together.", "S": [], "A": []}

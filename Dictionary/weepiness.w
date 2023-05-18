@@ -1,0 +1,1 @@
+{"index": 363808, "D": "weeping  or tending to weep;  tearful; lachrymose.", "S": [], "A": []}

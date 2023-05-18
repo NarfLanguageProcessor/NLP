@@ -1,0 +1,1 @@
+{"index": 361686, "D": "an odd, irrational, or unconventional person; wacko. ", "S": ["personality "], "A": []}

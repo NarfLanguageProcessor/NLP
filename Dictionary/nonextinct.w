@@ -1,0 +1,1 @@
+{"index": 203876, "D": "no longer in existence; having ended or died out", "S": [], "A": []}

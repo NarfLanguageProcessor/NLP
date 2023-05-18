@@ -1,0 +1,1 @@
+{"index": 338958, "D": "Compare overcast (def. 9). ", "S": [], "A": []}

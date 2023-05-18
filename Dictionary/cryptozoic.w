@@ -1,0 +1,1 @@
+{"index": 73326, "D": "of or relating to that part of Precambrian time whose stratigraphic record yields only sparse, primitive fossils.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 355118, "D": "an upward stroke,  especially of a pen or pencil, or of a piston in a vertical cylinder.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122394, "D": "a person who works for a company that sells or distributes household gas,  especially a person who goes from building to building reading gas  meters to determine what charge is to be billed.", "S": [], "A": []}

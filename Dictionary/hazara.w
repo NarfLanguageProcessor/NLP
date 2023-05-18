@@ -1,0 +1,1 @@
+{"index": 134517, "D": "an Iranian ethnolinguistic group in central Afghanistan, north Pakistan, and Iran, most of whom are Shi\u02bfite  Muslims.", "S": [], "A": []}

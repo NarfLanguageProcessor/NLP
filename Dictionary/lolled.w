@@ -1,0 +1,1 @@
+{"index": 174800, "D": "to recline or lean in a relaxed, lazy, or indolent manner; lounge", "S": ["laze ", "loiter ", "lounge ", "recline ", "slouch ", "sprawl "], "A": ["straighten ", "achieve ", "ascend ", "do ", "energize ", "increase ", "rise "]}

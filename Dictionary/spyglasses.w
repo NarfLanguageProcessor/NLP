@@ -1,0 +1,1 @@
+{"index": 299751, "D": "a small telescope.", "S": [], "A": []}

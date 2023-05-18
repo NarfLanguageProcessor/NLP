@@ -1,0 +1,1 @@
+{"index": 352850, "D": "to fill with terror  or alarm; make greatly afraid.", "S": [], "A": []}

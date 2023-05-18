@@ -1,0 +1,1 @@
+{"index": 318007, "D": "the transmission of information, as words, sounds, or images, usually over great distances, in the form of electromagnetic signals, as by telegraph, telephone, radio, or television.", "S": ["means ", "media ", "publicity ", "route ", "transport ", "travel "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258168, "D": "the four at cards, dice, or the like.", "S": [], "A": []}

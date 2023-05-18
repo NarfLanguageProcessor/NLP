@@ -1,0 +1,1 @@
+{"index": 309779, "D": "a man employed or skilled in some form of manual, mechanical, or industrial work. ", "S": [], "A": []}

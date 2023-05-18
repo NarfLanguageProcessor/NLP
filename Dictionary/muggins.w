@@ -1,0 +1,1 @@
+{"index": 194798, "D": "a convention in the card game of cribbage in which a player scores points overlooked by an opponent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 280250, "D": "any of numerous microorganisms of the subkingdom (or phylum) Schizophyta, kingdom Monera, comprising the bacteria.", "S": [], "A": []}

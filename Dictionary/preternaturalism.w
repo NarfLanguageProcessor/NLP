@@ -1,0 +1,1 @@
+{"index": 249934, "D": "out of the ordinary course of nature; exceptional or abnormal", "S": [], "A": []}

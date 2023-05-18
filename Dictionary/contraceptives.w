@@ -1,0 +1,1 @@
+{"index": 67558, "D": "tending or serving to prevent conception or impregnation.", "S": ["condom ", "diaphragm ", "hormone ", "pill "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 24395, "D": "occurring on or transmitted by a chromosome other than one of the sex chromosomes", "S": [], "A": []}

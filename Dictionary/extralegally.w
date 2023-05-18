@@ -1,0 +1,1 @@
+{"index": 108522, "D": "being beyond the province or authority of law", "S": [], "A": []}

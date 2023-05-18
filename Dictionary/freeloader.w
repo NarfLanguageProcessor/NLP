@@ -1,0 +1,1 @@
+{"index": 118625, "D": "a person who habitually depends on the charity of others for food, shelter, etc", "S": ["barnacle ", "leech ", "moocher ", "parasite ", "sponge "], "A": []}

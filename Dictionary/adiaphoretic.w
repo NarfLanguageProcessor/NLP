@@ -1,0 +1,1 @@
+{"index": 3892, "D": "preventing or reducing perspiration.", "S": [], "A": []}

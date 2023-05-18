@@ -1,0 +1,1 @@
+{"index": 74762, "D": "culminating; topmost.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 247032, "D": "an act or instance of discriminating,  or of making a distinction.", "S": [], "A": []}

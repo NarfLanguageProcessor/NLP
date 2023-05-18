@@ -1,0 +1,1 @@
+{"index": 41130, "D": "a pamphlet or leaflet.", "S": ["advertisement ", "booklet ", "flyer ", "folder ", "handbill ", "handout ", "leaflet ", "pamphlet "], "A": []}

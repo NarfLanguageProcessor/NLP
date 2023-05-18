@@ -1,0 +1,1 @@
+{"index": 357069, "D": "that gives forth vapor. ", "S": ["airs ", "pretensions ", "swank ", "vain pretensions "], "A": []}

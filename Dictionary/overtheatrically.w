@@ -1,0 +1,1 @@
+{"index": 221560, "D": "of or relating to the theater  or dramatic presentations", "S": [], "A": []}

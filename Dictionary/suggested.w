@@ -1,0 +1,1 @@
+{"index": 310240, "D": "to mention or introduce (an idea, proposition, plan, etc.) for consideration or possible action", "S": ["advised ", "implied ", "proposed ", "recommended "], "A": []}

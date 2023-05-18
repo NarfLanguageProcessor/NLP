@@ -1,0 +1,1 @@
+{"index": 182559, "D": "a lengthy and tediously complicated situation or matter.", "S": [], "A": []}

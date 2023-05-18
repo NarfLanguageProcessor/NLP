@@ -1,0 +1,1 @@
+{"index": 360091, "D": "any of several venomous Old World snakes of the genus Vipera, especially V. berus, a small snake common in northern Eurasia.", "S": ["cobra "], "A": []}

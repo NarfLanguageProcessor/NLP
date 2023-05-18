@@ -1,0 +1,1 @@
+{"index": 300648, "D": "a game played by two to ten persons having five  cards each.", "S": [], "A": []}

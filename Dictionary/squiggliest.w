@@ -1,0 +1,1 @@
+{"index": 301947, "D": "forming or containing short, often irregular curves or twists, as in writing or drawing", "S": ["coiled ", "curly ", "curved ", "sinuous "], "A": ["straight "]}

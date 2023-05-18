@@ -1,0 +1,1 @@
+{"index": 354278, "D": "not wired,  especially not connected by power lines, cables, or wires to receive electricity or cable television.", "S": [], "A": []}

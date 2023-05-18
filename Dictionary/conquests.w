@@ -1,0 +1,1 @@
+{"index": 66639, "D": "the act or state of conquering  or the state of being conquered;  vanquishment.", "S": ["annexation ", "invasion ", "occupation ", "rout ", "subjugation ", "takeover "], "A": ["surrender ", "failure ", "forfeit ", "loss "]}

@@ -1,0 +1,1 @@
+{"index": 362064, "D": "the part of the body in humans between the ribs and the hips, usually the narrowest part of the torso.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 100039, "D": "the toxic protoplasm liberated when a microorganism dies and disintegrates, as in Eberthella typhi, the causative agent of typhoid fever.", "S": [], "A": []}

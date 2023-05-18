@@ -1,0 +1,1 @@
+{"index": 188834, "D": "multisystem inflammatory syndrome (def. 1). ", "S": [], "A": []}

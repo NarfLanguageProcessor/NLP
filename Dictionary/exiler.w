@@ -1,0 +1,1 @@
+{"index": 107223, "D": "expulsion from one's native land by authoritative decree.", "S": [], "A": []}

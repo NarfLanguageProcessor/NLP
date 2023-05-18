@@ -1,0 +1,1 @@
+{"index": 307466, "D": "a small shoulder muscle, the action of which assists in depressing the shoulder.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 158212, "D": "(usually initial capital letter) an Italian association that became prominent in 1878, advocating the incorporation into Italy of certain neighboring regions having a primarily Italian population", "S": [], "A": []}

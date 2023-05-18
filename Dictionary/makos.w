@@ -1,0 +1,1 @@
+{"index": 178127, "D": "a powerful mackerel shark, Isurus oxyrinchus, of the Atlantic and Pacific Oceans.", "S": [], "A": []}

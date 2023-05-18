@@ -1,0 +1,1 @@
+{"index": 119807, "D": "of or relating to a fugue,  or composed in the style of a fugue. ", "S": [], "A": []}

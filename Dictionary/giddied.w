@@ -1,0 +1,1 @@
+{"index": 124721, "D": "affected with vertigo; dizzy. ", "S": [], "A": []}

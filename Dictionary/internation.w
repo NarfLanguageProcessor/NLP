@@ -1,0 +1,1 @@
+{"index": 155461, "D": "a large body of people, associated with a particular territory, that is sufficiently conscious of its unity to seek or to possess a government peculiarly its own", "S": [], "A": []}

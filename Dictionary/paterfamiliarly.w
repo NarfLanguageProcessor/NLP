@@ -1,0 +1,1 @@
+{"index": 227653, "D": "the male head of a household or family, usually the father.", "S": [], "A": []}

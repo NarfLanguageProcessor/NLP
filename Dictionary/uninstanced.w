@@ -1,0 +1,1 @@
+{"index": 344651, "D": "a case or occurrence of anything", "S": [], "A": []}

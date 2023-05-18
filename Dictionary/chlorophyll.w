@@ -1,0 +1,1 @@
+{"index": 55194, "D": "the green coloring matter of leaves and plants, essential to the production of carbohydrates by photosynthesis, and occurring in a bluish-black form, C55H72MgN4O5(chlorophyll a ), and a dark-green form, C55H70MgN4O6(chlorophyll b ).", "S": [], "A": []}

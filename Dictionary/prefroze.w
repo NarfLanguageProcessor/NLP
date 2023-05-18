@@ -1,0 +1,1 @@
+{"index": 247676, "D": "to become hardened into ice or into a solid body; change from the liquid to the solid state by loss of heat.", "S": [], "A": []}

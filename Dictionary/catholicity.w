@@ -1,0 +1,1 @@
+{"index": 49736, "D": "broad-mindedness or liberality, as of tastes, interests, or views.", "S": ["Catholicism ", "Church of Rome ", "Romanism ", "papistry ", "popery "], "A": []}

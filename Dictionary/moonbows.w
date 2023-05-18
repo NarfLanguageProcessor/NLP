@@ -1,0 +1,1 @@
+{"index": 193028, "D": "a rainbow  caused by the refraction and reflection of light from the moon. ", "S": [], "A": []}

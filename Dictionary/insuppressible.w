@@ -1,0 +1,1 @@
+{"index": 154107, "D": "incapable of being suppressed; irrepressible", "S": ["audacious ", "hasty ", "ill-advised ", "imprudent ", "impulsive ", "indiscreet ", "premature ", "reckless ", "thoughtless "], "A": ["careful ", "cautious ", "delayed ", "slow ", "thoughtful ", "wise "]}

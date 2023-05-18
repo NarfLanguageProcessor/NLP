@@ -1,0 +1,1 @@
+{"index": 138531, "D": "any of a class of compounds containing only hydrogen and carbon,  as an alkane, methane, CH4, an alkene, ethylene, C2H4, an alkyne, acetylene, C2H2, or an aromatic compound, benzene, C6H6.", "S": [], "A": []}

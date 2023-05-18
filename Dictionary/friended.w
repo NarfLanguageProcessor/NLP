@@ -1,0 +1,1 @@
+{"index": 118948, "D": "provided with or accompanied by friends. ", "S": [], "A": []}

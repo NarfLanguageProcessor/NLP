@@ -1,0 +1,1 @@
+{"index": 329149, "D": "the Triangle, a northern constellation between Pisces and Perseus.", "S": [], "A": []}

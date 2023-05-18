@@ -1,0 +1,1 @@
+{"index": 104809, "D": "state socialism. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 324817, "D": "a sign bearing the condemned man's name and crime, attached to the top of the cross at a crucifixion ", "S": [], "A": []}

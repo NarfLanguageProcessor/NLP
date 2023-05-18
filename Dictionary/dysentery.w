@@ -1,0 +1,1 @@
+{"index": 87982, "D": "an infectious disease marked by inflammation and ulceration of the lower part of the bowels, with diarrhea  that becomes mucous and hemorrhagic.", "S": ["Montezuma's revenge ", "backdoor trots ", "diarrhea ", "diarrhoea ", "flux ", "loose stool ", "runs ", "summer complaint ", "tourista ", "trots ", "turistas "], "A": []}

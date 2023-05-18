@@ -1,0 +1,1 @@
+{"index": 5389, "D": "characterized by affinity;  closely related or associated.", "S": [], "A": []}

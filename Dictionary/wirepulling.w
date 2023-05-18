@@ -1,0 +1,1 @@
+{"index": 366362, "D": "an act of pulling wires.", "S": ["finagle ", "lobby ", "plot ", "scheme "], "A": []}

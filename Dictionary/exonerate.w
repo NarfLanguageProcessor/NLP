@@ -1,0 +1,1 @@
+{"index": 107390, "D": "to clear, as of an accusation; free from guilt or blame; exculpate", "S": ["absolve ", "acquit ", "discharge ", "dismiss ", "exempt ", "justify ", "pardon ", "vindicate "], "A": ["blame ", "condemn ", "convict ", "damn ", "employ ", "engage ", "hire ", "hold ", "keep ", "punish ", "sentence ", "burden ", "limit ", "restrain "]}

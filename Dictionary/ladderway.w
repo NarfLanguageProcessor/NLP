@@ -1,0 +1,1 @@
+{"index": 167159, "D": "a vertical passageway with ladders. ", "S": [], "A": []}

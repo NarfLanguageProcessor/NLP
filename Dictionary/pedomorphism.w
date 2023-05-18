@@ -1,0 +1,1 @@
+{"index": 228986, "D": "a speeding up of the rate of development, resulting in an adult form that has the appearance of its larval or juvenile ancestor.", "S": [], "A": []}

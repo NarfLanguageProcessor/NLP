@@ -1,0 +1,1 @@
+{"index": 86018, "D": "to make more active, productive, or the like; energize", "S": [], "A": []}

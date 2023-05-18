@@ -1,0 +1,1 @@
+{"index": 273063, "D": "an operator of a ring machine.", "S": [], "A": []}

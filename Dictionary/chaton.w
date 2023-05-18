@@ -1,0 +1,1 @@
+{"index": 53107, "D": "an imitation gem of paste that has its pavilion backed with metal foil or silver to reflect light.", "S": [], "A": []}

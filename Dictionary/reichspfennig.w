@@ -1,0 +1,1 @@
+{"index": 266067, "D": "a former bronze coin of Germany, one 100th of a reichsmark.", "S": [], "A": []}

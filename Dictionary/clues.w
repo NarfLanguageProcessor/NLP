@@ -1,0 +1,1 @@
+{"index": 60679, "D": "anything that serves to guide or direct in the solution of a problem, mystery, etc.", "S": ["cue ", "indication ", "inkling ", "key ", "pointer ", "proof ", "solution ", "suggestion ", "tip ", "trace "], "A": ["question "]}

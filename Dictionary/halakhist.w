@@ -1,0 +1,1 @@
+{"index": 132529, "D": "one of the writers or compilers of the Halakhah. ", "S": [], "A": []}

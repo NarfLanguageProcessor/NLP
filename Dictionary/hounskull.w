@@ -1,0 +1,1 @@
+{"index": 144364, "D": "a snoutlike, usually conical, visor attached to a basinet of the 14th century.", "S": [], "A": []}

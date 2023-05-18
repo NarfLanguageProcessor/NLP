@@ -1,0 +1,1 @@
+{"index": 321205, "D": "the treatment of disease or disorders, as by some remedial, rehabilitating, or curative process", "S": ["analysis ", "cure ", "healing ", "medicine ", "remedy "], "A": ["disease "]}

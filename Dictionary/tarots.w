@@ -1,0 +1,1 @@
+{"index": 316663, "D": "any of a set of 22 playing cards bearing allegorical representations, used for fortunetelling and as trump cards in tarok.", "S": [], "A": []}

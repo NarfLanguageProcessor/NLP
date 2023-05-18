@@ -1,0 +1,1 @@
+{"index": 115153, "D": "to be in a vigorous state; thrive", "S": ["embellishment ", "ornamentation ", "quirk ", "twist "], "A": []}

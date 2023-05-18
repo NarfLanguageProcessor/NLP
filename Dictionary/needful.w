@@ -1,0 +1,1 @@
+{"index": 197915, "D": "necessary or required", "S": ["capital ", "cardinal ", "chief ", "constitutive ", "crucial ", "foremost ", "fundamental ", "imperative ", "indispensable ", "leading ", "main ", "necessary ", "necessitous ", "needed ", "prerequisite ", "principal ", "required ", "requisite ", "right-hand ", "wanted "], "A": []}

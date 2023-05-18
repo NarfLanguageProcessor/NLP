@@ -1,0 +1,1 @@
+{"index": 207740, "D": "to put or arrange in a tabular, systematic, or condensed form; formulate tabularly.", "S": [], "A": []}

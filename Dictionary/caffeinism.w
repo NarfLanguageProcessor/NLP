@@ -1,0 +1,1 @@
+{"index": 44485, "D": "chronic toxicity caused by excessive intake of caffeine,  characterized by anxiety, irritability, palpitations, insomnia, and digestive disturbances.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 361120, "D": "engaged in or having the power of flight.", "S": ["aerial ", "floating ", "soaring "], "A": []}

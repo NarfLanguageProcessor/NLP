@@ -1,0 +1,1 @@
+{"index": 231884, "D": "to pursue with harassing or oppressive treatment, especially because of religious or political beliefs, ethnic or racial origin, gender identity,  or sexual orientation. ", "S": ["dogmatist ", "extremist ", "fanatic ", "true believer ", "zealot "], "A": ["moderate ", "freethinker "]}

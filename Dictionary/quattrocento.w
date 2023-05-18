@@ -1,0 +1,1 @@
+{"index": 258187, "D": "the 15th century, used in reference to the Italian art and literature of that time.", "S": [], "A": []}

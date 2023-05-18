@@ -1,0 +1,1 @@
+{"index": 354950, "D": "in the direction of or nearer the source of a river", "S": [], "A": []}

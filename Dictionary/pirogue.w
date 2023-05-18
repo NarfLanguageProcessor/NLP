@@ -1,0 +1,1 @@
+{"index": 237818, "D": "piragua (def. 1). ", "S": ["kayak ", "outrigger "], "A": []}

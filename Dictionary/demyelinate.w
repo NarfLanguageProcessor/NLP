@@ -1,0 +1,1 @@
+{"index": 80512, "D": "to obliterate or remove the myelin sheath  from (a nerve or nerves).", "S": [], "A": []}

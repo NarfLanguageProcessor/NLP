@@ -1,0 +1,1 @@
+{"index": 165149, "D": "a coffer; a money chest.", "S": [], "A": []}

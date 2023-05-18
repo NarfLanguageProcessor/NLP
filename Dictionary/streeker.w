@@ -1,0 +1,1 @@
+{"index": 306007, "D": "to stretch (one's limbs), as on awakening or by exercise.", "S": [], "A": []}

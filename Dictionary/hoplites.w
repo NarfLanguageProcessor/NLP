@@ -1,0 +1,1 @@
+{"index": 143698, "D": "a heavily armed foot soldier of ancient Greece.", "S": [], "A": []}

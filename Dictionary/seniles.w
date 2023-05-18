@@ -1,0 +1,1 @@
+{"index": 285279, "D": "showing a decline or deterioration of physical strength or mental functioning, especially short-term memory and alertness, as a result of old age or disease.", "S": [], "A": []}

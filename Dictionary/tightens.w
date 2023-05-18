@@ -1,0 +1,1 @@
+{"index": 323465, "D": "to make or become tight  or tighter. ", "S": ["narrow ", "stiffen ", "toughen "], "A": ["untighten ", "allow ", "compress ", "concentrate ", "enlarge ", "expand ", "extend ", "free ", "give ", "help ", "increase ", "lengthen ", "let go ", "loose ", "loosen ", "lose ", "melt ", "open ", "release ", "stretch ", "unfasten ", "untie "]}

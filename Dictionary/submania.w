@@ -1,0 +1,1 @@
+{"index": 308469, "D": "excessive excitement or enthusiasm; craze", "S": [], "A": []}

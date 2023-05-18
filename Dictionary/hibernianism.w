@@ -1,0 +1,1 @@
+{"index": 138228, "D": "an idiom or characteristic peculiar to Irish English or to the Irish.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 215267, "D": "characterized by or involving oscillation.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 18134, "D": "wingless, as some insects.", "S": [], "A": []}

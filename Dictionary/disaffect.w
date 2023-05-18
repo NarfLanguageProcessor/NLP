@@ -1,0 +1,1 @@
+{"index": 86930, "D": "to alienate the affection, sympathy, or support of; make discontented or disloyal", "S": ["alienate ", "antagonize ", "repel "], "A": ["calm ", "hold ", "order ", "please ", "quiet ", "soothe ", "unite "]}

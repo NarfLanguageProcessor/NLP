@@ -1,0 +1,1 @@
+{"index": 94608, "D": "the pupil who is academically first in a class or school.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 201027, "D": "easy to deal with; eager to help or please; obliging. ", "S": [], "A": []}

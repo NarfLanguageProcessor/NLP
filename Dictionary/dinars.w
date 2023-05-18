@@ -1,0 +1,1 @@
+{"index": 86054, "D": "any of various former coins of the Middle East and North Africa, especially gold coins issued by Islamic governments.", "S": [], "A": []}

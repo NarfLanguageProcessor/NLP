@@ -1,0 +1,1 @@
+{"index": 213735, "D": [], "S": ["acrimony ", "animosity ", "animus ", "antagonism ", "bitterness ", "distrust ", "enmity ", "hatred ", "hostility ", "ill will ", "nastiness ", "rancor ", "resentment "], "A": ["friendliness ", "friendship ", "good will ", "happiness ", "kindness ", "liking ", "love ", "loving ", "sweetness ", "sympathy "]}

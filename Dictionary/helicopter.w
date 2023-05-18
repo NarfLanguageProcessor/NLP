@@ -1,0 +1,1 @@
+{"index": 135520, "D": "any of a class of heavier-than-air craft that are lifted and sustained in the air horizontally by rotating wings or blades turning on vertical axes through power supplied by an engine.", "S": ["chopper "], "A": []}

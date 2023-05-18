@@ -1,0 +1,1 @@
+{"index": 67644, "D": "(of a particular remedy or treatment) advised against in specified cases or under specified conditions", "S": [], "A": []}

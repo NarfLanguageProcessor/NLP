@@ -1,0 +1,1 @@
+{"index": 107663, "D": "promptly and quickly", "S": ["ardently ", "assiduously ", "carefully ", "diligently ", "eagerly ", "earnestly ", "energetically ", "enthusiastically ", "hastily ", "hurriedly ", "laboriously ", "nimbly ", "painstakingly ", "purposefully ", "restlessly ", "vigorously "], "A": ["idly ", "inactively ", "quietly "]}

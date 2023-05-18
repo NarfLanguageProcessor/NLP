@@ -1,0 +1,1 @@
+{"index": 302060, "D": "any of numerous arboreal, bushy-tailed rodents of the genus Sciurus, of the family Sciuridae.", "S": [], "A": []}

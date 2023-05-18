@@ -1,0 +1,1 @@
+{"index": 311120, "D": "any of various composite plants of the genus Helianthus, as H. annuus, having showy, yellow-rayed flower heads often 12 inches (30 centimeters) wide, and edible seeds that yield an oil with a wide variety of uses", "S": [], "A": []}

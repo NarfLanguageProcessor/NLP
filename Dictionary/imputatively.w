@@ -1,0 +1,1 @@
+{"index": 149294, "D": "to attribute or ascribe", "S": [], "A": []}

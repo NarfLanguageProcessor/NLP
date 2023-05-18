@@ -1,0 +1,1 @@
+{"index": 132154, "D": "a handle, especially of a knife, sword, or dagger.", "S": [], "A": []}

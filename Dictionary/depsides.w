@@ -1,0 +1,1 @@
+{"index": 81909, "D": "any of a group of esters formed from two or more phenol carboxylic acid molecules.", "S": [], "A": []}

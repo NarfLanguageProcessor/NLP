@@ -1,0 +1,1 @@
+{"index": 55668, "D": "hard to please, particular; fastidious, especially in making a selection", "S": ["finicky ", "selective "], "A": ["open "]}

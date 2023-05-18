@@ -1,0 +1,1 @@
+{"index": 196416, "D": "to arrest or capture.", "S": [], "A": []}

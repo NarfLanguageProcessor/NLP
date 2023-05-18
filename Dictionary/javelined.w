@@ -1,0 +1,1 @@
+{"index": 160628, "D": "a light spear, usually thrown by hand.", "S": [], "A": []}

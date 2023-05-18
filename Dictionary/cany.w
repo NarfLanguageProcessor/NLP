@@ -1,0 +1,1 @@
+{"index": 46308, "D": "a stick or short staff used to assist one in walking; walking stick.", "S": [], "A": []}

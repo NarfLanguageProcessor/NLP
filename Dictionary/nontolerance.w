@@ -1,0 +1,1 @@
+{"index": 207920, "D": "a fair, respectful, and permissive attitude or policy toward people whose opinions, beliefs, practices, racial or ethnic origins, etc., differ from one\u2019s own or from those of the majority; freedom from bigotry and from an insistence on conformity", "S": [], "A": []}

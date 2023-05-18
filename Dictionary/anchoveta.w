@@ -1,0 +1,1 @@
+{"index": 12208, "D": "an anchovy, Cetengraulis mysticetus, found along the Pacific coast from British Columbia  to Baja California,  used for bait.", "S": [], "A": []}

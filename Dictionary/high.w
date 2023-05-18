@@ -1,0 +1,1 @@
+{"index": 139224, "D": "having a great or considerable extent or reach upward or vertically; lofty; tall", "S": ["big ", "great ", "huge ", "immense ", "large ", "lofty ", "long ", "soaring ", "steep ", "tremendous "], "A": ["little ", "low ", "miniature ", "minute ", "short ", "small ", "teeny ", "tiny "]}

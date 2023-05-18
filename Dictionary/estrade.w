@@ -1,0 +1,1 @@
+{"index": 104710, "D": "a slightly raised platform in a room or hall.", "S": [], "A": []}

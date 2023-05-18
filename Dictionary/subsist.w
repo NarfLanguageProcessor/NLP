@@ -1,0 +1,1 @@
+{"index": 309205, "D": "to exist; continue in existence.", "S": ["get along ", "get by ", "scrape by "], "A": ["cease ", "depart ", "die ", "discontinue ", "halt ", "stop "]}

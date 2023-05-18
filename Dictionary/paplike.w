@@ -1,0 +1,1 @@
+{"index": 225276, "D": "soft food for infants or invalids, as bread soaked in water or milk.", "S": [], "A": []}

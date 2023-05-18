@@ -1,0 +1,1 @@
+{"index": 31949, "D": "to dispose of (personal property, especially money) by last will", "S": ["offering "], "A": ["appropriating ", "getting ", "taking "]}

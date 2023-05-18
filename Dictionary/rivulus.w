@@ -1,0 +1,1 @@
+{"index": 273443, "D": "any of several killifishes of the genus Rivulus, native to small streams of tropical America, often kept in aquariums.", "S": [], "A": []}

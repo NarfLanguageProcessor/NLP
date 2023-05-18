@@ -1,0 +1,1 @@
+{"index": 107270, "D": "See luminous exitance, radiant exitance", "S": [], "A": []}

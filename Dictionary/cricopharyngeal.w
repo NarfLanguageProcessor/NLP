@@ -1,0 +1,1 @@
+{"index": 72920, "D": "of, relating to, or involving the cricoid cartilage and the pharynx.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 251488, "D": "to obtain or get by care, effort, or the use of special means", "S": ["buy up ", "get hold of ", "solicit "], "A": ["discourage ", "dissuade ", "fail ", "forfeit ", "hinder ", "hurt ", "let go ", "lose ", "miss ", "pass ", "prevent ", "reject ", "sell ", "spend "]}

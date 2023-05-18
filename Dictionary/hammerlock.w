@@ -1,0 +1,1 @@
+{"index": 133014, "D": "a hold in which one arm of an opponent is twisted and forced upward behind his back.", "S": [], "A": []}

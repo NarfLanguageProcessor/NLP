@@ -1,0 +1,1 @@
+{"index": 170768, "D": "(of plants) having long slender leaves", "S": [], "A": []}

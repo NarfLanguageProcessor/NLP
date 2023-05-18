@@ -1,0 +1,1 @@
+{"index": 144632, "D": "husband. ", "S": ["companion ", "partner ", "spouse "], "A": ["enemy ", "foe ", "bride "]}

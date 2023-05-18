@@ -1,0 +1,1 @@
+{"index": 176676, "D": "the members of the Hasmonean family of Jewish leaders and rulers comprising the sons of Mattathias and their descendants and reigning in Judea from 167? to 37 b.c., especially Judas Maccabaeus and his brothers, who defeated the Syrians under Antiochus IV in 165? and rededicated the Temple in Jerusalem.", "S": [], "A": []}

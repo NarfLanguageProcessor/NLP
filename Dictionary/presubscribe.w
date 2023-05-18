@@ -1,0 +1,1 @@
+{"index": 249712, "D": "to pledge, as by signing an agreement, to give or pay (a sum of money) as a contribution, gift, or investment", "S": [], "A": []}

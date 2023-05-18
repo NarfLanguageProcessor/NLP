@@ -1,0 +1,1 @@
+{"index": 344773, "D": "broken off or discontinuous", "S": [], "A": []}

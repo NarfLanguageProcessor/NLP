@@ -1,0 +1,1 @@
+{"index": 348814, "D": "an apparatus or machine for raising, driving, exhausting, or compressing fluids or gases by means of a piston, plunger, or set of rotating vanes.", "S": [], "A": []}

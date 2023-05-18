@@ -1,0 +1,1 @@
+{"index": 242356, "D": "of or relating to polyrhythm; characterized by different rhythms", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 189727, "D": "a city in S India, in S Karnataka state", "S": [], "A": []}

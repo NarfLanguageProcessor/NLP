@@ -1,0 +1,1 @@
+{"index": 159136, "D": "a line drawn on a map connecting all points of equal thickness of a particular geologic formation.", "S": [], "A": []}

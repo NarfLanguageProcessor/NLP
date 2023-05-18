@@ -1,0 +1,1 @@
+{"index": 42263, "D": "a person who amuses others by tricks, jokes, odd gestures and postures, etc.", "S": [], "A": []}

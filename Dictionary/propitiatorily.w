@@ -1,0 +1,1 @@
+{"index": 252715, "D": "serving or intended to propitiate. ", "S": [], "A": []}

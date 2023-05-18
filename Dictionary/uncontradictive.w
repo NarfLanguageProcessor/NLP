@@ -1,0 +1,1 @@
+{"index": 337864, "D": "tending or inclined to contradict;  involving contradiction; contradictory.", "S": [], "A": []}

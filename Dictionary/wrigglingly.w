@@ -1,0 +1,1 @@
+{"index": 367976, "D": "to twist to and fro; writhe; squirm.", "S": [], "A": []}

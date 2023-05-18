@@ -1,0 +1,1 @@
+{"index": 15686, "D": "the placing of ants among the feathers, done by certain birds apparently to kill parasites.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 77434, "D": "to cause to be inactive; remove the effectiveness of.", "S": ["disband ", "shut off "], "A": []}

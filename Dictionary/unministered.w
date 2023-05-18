@@ -1,0 +1,1 @@
+{"index": 346380, "D": "a person authorized to conduct religious worship; member of the clergy; pastor.", "S": [], "A": []}

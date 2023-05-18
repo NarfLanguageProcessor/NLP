@@ -1,0 +1,1 @@
+{"index": 144313, "D": "an impetuous or reckless person; a hothead.", "S": [], "A": []}

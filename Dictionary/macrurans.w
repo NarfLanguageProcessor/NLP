@@ -1,0 +1,1 @@
+{"index": 177110, "D": "belonging or pertaining to the suborder Macrura, comprising the lobsters, crayfishes, shrimps, and prawns.", "S": [], "A": []}

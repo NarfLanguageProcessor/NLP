@@ -1,0 +1,1 @@
+{"index": 130324, "D": "the crystalline, granular, or glassy base or matrix of a porphyritic or other igneous rock, in which the more prominent crystals are embedded.", "S": [], "A": []}

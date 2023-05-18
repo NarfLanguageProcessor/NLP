@@ -1,0 +1,1 @@
+{"index": 245389, "D": "any of various shrimplike decapod crustaceans of the genera Palaemon, Penaeus, etc., certain of which are used as food.", "S": [], "A": []}

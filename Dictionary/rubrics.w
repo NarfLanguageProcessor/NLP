@@ -1,0 +1,1 @@
+{"index": 275230, "D": "a title, heading, direction, or the like, in a manuscript, book, statute, etc., written or printed in red or otherwise distinguished from the rest of the text.", "S": ["course ", "custom ", "dictate ", "formula ", "habit ", "normalcy ", "normality ", "policy ", "practice ", "prescript ", "procedure ", "regulation ", "routine "], "A": []}

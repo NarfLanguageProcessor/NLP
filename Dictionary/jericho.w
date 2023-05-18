@@ -1,0 +1,1 @@
+{"index": 160919, "D": "an ancient city of Palestine, N of the Dead Sea, formerly in W Jordan; occupied by Israel 1967\u201394; since 1994 under Palestinian self-rule.", "S": [], "A": []}

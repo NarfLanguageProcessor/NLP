@@ -1,0 +1,1 @@
+{"index": 175726, "D": "a feast of Hawaiian food, usually held outdoors and usually accompanied by Hawaiian entertainment.", "S": [], "A": []}

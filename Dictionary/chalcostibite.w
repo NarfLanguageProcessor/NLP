@@ -1,0 +1,1 @@
+{"index": 52122, "D": "a mineral, antimony copper sulfide, CuSbS2, occurring in lead-gray crystals.", "S": [], "A": []}

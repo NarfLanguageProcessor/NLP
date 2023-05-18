@@ -1,0 +1,1 @@
+{"index": 219248, "D": "an excessive increase, enlargement, or development, esp in the activities of a company", "S": [], "A": []}

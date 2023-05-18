@@ -1,0 +1,1 @@
+{"index": 92058, "D": "steadfastly courageous and resolute; valiant.", "S": ["brave ", "courageous ", "fearless ", "heroic ", "intrepid ", "stouthearted ", "valiant "], "A": ["cowardly ", "fainthearted ", "timid "]}

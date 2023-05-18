@@ -1,0 +1,1 @@
+{"index": 112028, "D": "the disintegration or dissolution of fibrin, especially by enzymatic action.", "S": [], "A": []}

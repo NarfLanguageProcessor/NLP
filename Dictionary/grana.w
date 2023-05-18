@@ -1,0 +1,1 @@
+{"index": 128776, "D": "(in prescriptions) plural of granum. ", "S": [], "A": []}

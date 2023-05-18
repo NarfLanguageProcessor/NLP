@@ -1,0 +1,1 @@
+{"index": 79840, "D": "a person who is an adept conversationalist at table.", "S": [], "A": []}

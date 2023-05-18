@@ -1,0 +1,1 @@
+{"index": 155263, "D": "an intervening episode, period, space, etc.", "S": ["breathing space ", "idyll ", "lull ", "respite "], "A": ["continuation ", "beginning ", "go ", "start "]}

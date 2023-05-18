@@ -1,0 +1,1 @@
+{"index": 182794, "D": "a hormone secreted by the pineal gland in inverse proportion to the amount of light received by the retina, important in the regulation of biorhythms", "S": [], "A": []}

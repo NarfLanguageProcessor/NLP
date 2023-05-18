@@ -1,0 +1,1 @@
+{"index": 42934, "D": "one of a number of struts reinforcing the walls of a shaft and dividing it into vertical compartments.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 282493, "D": "the line formed by sewing together pieces of cloth, leather, or the like.", "S": ["derange ", "dishevel "], "A": ["smooth ", "straighten "]}

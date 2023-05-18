@@ -1,0 +1,1 @@
+{"index": 335806, "D": "the quality of being benign;  kindness.", "S": [], "A": []}

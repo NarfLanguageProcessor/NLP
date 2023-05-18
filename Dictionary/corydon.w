@@ -1,0 +1,1 @@
+{"index": 69094, "D": "(in pastoral literature) a shepherd or rustic", "S": [], "A": []}

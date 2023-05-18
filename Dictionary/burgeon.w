@@ -1,0 +1,1 @@
+{"index": 43058, "D": "to grow or develop quickly; flourish", "S": ["prosper ", "snowball ", "sprout "], "A": ["decline ", "decrease ", "die ", "diminish ", "fade ", "lessen ", "lose ", "shrink ", "shrivel ", "wither "]}

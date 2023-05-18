@@ -1,0 +1,1 @@
+{"index": 215146, "D": "pertaining to, characterized by, or produced by normal vision.", "S": [], "A": []}

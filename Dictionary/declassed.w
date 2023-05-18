@@ -1,0 +1,1 @@
+{"index": 78470, "D": "to remove or degrade from one's social class, position, or rank; lower in status.", "S": ["baseborn ", "common ", "d\u00e9class\u00e9 ", "humble ", "ignoble ", "inferior ", "mean "], "A": []}

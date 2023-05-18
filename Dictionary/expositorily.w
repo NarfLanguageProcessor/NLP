@@ -1,0 +1,1 @@
+{"index": 107969, "D": "of the nature of exposition; exposition; serving to expound,  set forth, or explain", "S": [], "A": []}

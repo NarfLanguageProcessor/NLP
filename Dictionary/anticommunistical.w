@@ -1,0 +1,1 @@
+{"index": 14994, "D": "a member of the Communist Party or movement.", "S": [], "A": []}

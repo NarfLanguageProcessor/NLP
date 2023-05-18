@@ -1,0 +1,1 @@
+{"index": 235372, "D": "a compound formed by photosynthesis. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 142491, "D": "to cry aloud; shout; yell", "S": ["bawl ", "cheer ", "complain ", "cry ", "hoot ", "howl ", "roar ", "scream ", "screech ", "shriek ", "squawk ", "squeal ", "wail ", "whoop ", "yap "], "A": ["whisper "]}

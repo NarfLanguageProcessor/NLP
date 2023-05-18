@@ -1,0 +1,1 @@
+{"index": 201614, "D": "uncivilized; wild; savage; crude.", "S": [], "A": []}

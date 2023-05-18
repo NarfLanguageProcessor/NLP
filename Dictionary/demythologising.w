@@ -1,0 +1,1 @@
+{"index": 80659, "D": "to divest of mythological or legendary attributes or forms, as in order to permit clearer appraisal and understanding", "S": [], "A": []}

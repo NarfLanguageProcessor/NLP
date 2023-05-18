@@ -1,0 +1,1 @@
+{"index": 14713, "D": "opposition to excessive drinking of alcoholic beverages.", "S": [], "A": []}

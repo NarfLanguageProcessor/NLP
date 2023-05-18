@@ -1,0 +1,1 @@
+{"index": 344547, "D": "capable of infusing;  inspiring.", "S": [], "A": []}

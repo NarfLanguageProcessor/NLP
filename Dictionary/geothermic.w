@@ -1,0 +1,1 @@
+{"index": 124080, "D": "of or relating to the internal heat of the earth.", "S": [], "A": []}

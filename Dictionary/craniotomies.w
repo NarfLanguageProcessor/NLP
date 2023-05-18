@@ -1,0 +1,1 @@
+{"index": 72105, "D": "the operation of opening the skull, usually for operations on the brain.", "S": [], "A": []}

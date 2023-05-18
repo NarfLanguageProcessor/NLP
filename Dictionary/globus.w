@@ -1,0 +1,1 @@
+{"index": 126531, "D": "any spherelike structure", "S": [], "A": []}

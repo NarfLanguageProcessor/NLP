@@ -1,0 +1,1 @@
+{"index": 61685, "D": "to treat tenderly; nurse or tend indulgently; pamper", "S": [], "A": []}

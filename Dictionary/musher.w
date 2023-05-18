@@ -1,0 +1,1 @@
+{"index": 195956, "D": "a person who competes in cross-country races with dog team and sled.", "S": [], "A": []}

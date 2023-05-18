@@ -1,0 +1,1 @@
+{"index": 41081, "D": "the state or character of being broad", "S": ["breadth ", "girth ", "span ", "thickness ", "wideness "], "A": []}

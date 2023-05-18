@@ -1,0 +1,1 @@
+{"index": 236766, "D": "covered with hair, especially soft hair; furry. ", "S": ["bearded ", "bewhiskered ", "bristly ", "bushy ", "downy ", "fleecy ", "flocculent ", "fluffy ", "furry ", "fuzzy ", "hirsute ", "lanate ", "pileous ", "piliferous ", "pubescent ", "rough ", "shaggy ", "stubbly ", "tufted ", "unshaven ", "unshorn ", "villous ", "whiskered ", "woolly "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 132323, "D": "a major form of Japanese verse, written in 17 syllables divided into 3 lines of 5, 7, and 5 syllables, and employing highly evocative allusions and comparisons, often on the subject of nature or one of the seasons.", "S": ["ballad ", "composition ", "epic ", "lyric ", "poetry ", "rhyme ", "sonnet ", "verse ", "writing "], "A": ["prose "]}

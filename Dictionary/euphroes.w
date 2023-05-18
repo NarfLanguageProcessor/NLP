@@ -1,0 +1,1 @@
+{"index": 105675, "D": "a suspended batten or plate of wood or brass pierced with holes through which the cords of a crowfoot are rove to suspend an awning.", "S": [], "A": []}

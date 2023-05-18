@@ -1,0 +1,1 @@
+{"index": 4144, "D": "to manage (affairs, a government, etc.); have executive charge of", "S": ["administrator ", "chairperson ", "director ", "head ", "leader ", "manager ", "officer "], "A": []}

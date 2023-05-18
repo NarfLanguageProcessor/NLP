@@ -1,0 +1,1 @@
+{"index": 130568, "D": "formed of clustered grains or granules.", "S": [], "A": []}

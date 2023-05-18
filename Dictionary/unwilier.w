@@ -1,0 +1,1 @@
+{"index": 354234, "D": "full of, marked by, or proceeding from wiles;  crafty; cunning.", "S": [], "A": []}

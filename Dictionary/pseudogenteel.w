@@ -1,0 +1,1 @@
+{"index": 254760, "D": "belonging or suited to polite society.", "S": [], "A": []}

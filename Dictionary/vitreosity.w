@@ -1,0 +1,1 @@
+{"index": 360618, "D": "of the nature of or resembling glass, as in transparency, brittleness, hardness, glossiness, etc.", "S": [], "A": []}

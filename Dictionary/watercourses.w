@@ -1,0 +1,1 @@
+{"index": 363137, "D": "a stream of water,  as a river or brook.", "S": ["aqueduct ", "brook ", "canal ", "channel ", "chute ", "conduit ", "creek ", "culvert ", "drain ", "estuary ", "flume ", "gullet ", "gully ", "gutter ", "inlet ", "ravine ", "river ", "sluice ", "spillway ", "stream ", "trench ", "wadi "], "A": []}

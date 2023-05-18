@@ -1,0 +1,1 @@
+{"index": 47027, "D": "a close-fitting covering for the head, usually of soft supple material and having no visor or brim.", "S": ["camouflaged ", "closed ", "coated ", "concealed ", "enclosed ", "hidden ", "painted ", "protected ", "shielded ", "topped ", "wrapped "], "A": ["bare ", "exposed ", "open ", "uncovered ", "unmasked "]}

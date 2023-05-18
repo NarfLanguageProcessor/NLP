@@ -1,0 +1,1 @@
+{"index": 139807, "D": "a shield bearer, especially one of a special unit of light infantry in the Macedonian army.", "S": [], "A": []}

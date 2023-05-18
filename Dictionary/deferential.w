@@ -1,0 +1,1 @@
+{"index": 79230, "D": "showing deference; deferent;  respectful.", "S": ["civil ", "courteous ", "obedient ", "polite ", "reverential ", "submissive "], "A": ["disobedient ", "impolite ", "rude ", "uncivil ", "unmannerly ", "unrefined "]}

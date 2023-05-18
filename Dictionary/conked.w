@@ -1,0 +1,1 @@
+{"index": 66466, "D": "to hit or strike on the head.", "S": ["comatose ", "dormant "], "A": ["attentive ", "awake ", "conscious "]}

@@ -1,0 +1,1 @@
+{"index": 288605, "D": "to carry; lug", "S": ["carry ", "drag ", "jerk ", "lug ", "pull ", "tote "], "A": []}

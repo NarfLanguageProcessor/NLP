@@ -1,0 +1,1 @@
+{"index": 672, "D": "(esp. prior to the Civil War) to convert (persons, a region, a state, etc.) to abolitionism.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 13741, "D": "(in electrolysis) the portion of theelectrolyte  in the immediate vicinity of the anode. ", "S": [], "A": []}

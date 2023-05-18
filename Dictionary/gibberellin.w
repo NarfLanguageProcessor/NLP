@@ -1,0 +1,1 @@
+{"index": 124649, "D": "any of a class of growth hormones occurring in fungi and plants.", "S": [], "A": []}

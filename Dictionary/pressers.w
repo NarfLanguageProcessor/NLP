@@ -1,0 +1,1 @@
+{"index": 249572, "D": "a person or thing that presses  or applies pressure.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 327740, "D": "appearance with regard to color  arrangement or use of colors; coloring", "S": [], "A": []}

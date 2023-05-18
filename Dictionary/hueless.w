@@ -1,0 +1,1 @@
+{"index": 144706, "D": "a gradation or variety of a color; tint", "S": [], "A": []}

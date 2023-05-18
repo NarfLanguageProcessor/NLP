@@ -1,0 +1,1 @@
+{"index": 352166, "D": "a past participle of strike. ", "S": [], "A": []}

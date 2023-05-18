@@ -1,0 +1,1 @@
+{"index": 209912, "D": "a person who rows a boat, especially a racing boat; rower.", "S": [], "A": []}

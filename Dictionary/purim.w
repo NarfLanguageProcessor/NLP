@@ -1,0 +1,1 @@
+{"index": 256953, "D": "a Jewish festival celebrated on the 14th day of the month of Adar in commemoration of the deliverance of the Jews in Persia from destruction by Haman.", "S": [], "A": []}

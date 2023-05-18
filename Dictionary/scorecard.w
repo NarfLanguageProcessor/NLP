@@ -1,0 +1,1 @@
+{"index": 281266, "D": "a card  for keeping score  of a sports contest and, especially in team sports, for identifying the players by name, number, and position.", "S": ["almanac ", "catalogue ", "list ", "yellow pages "], "A": []}

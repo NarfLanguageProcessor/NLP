@@ -1,0 +1,1 @@
+{"index": 173362, "D": "an Australian passerine bird  of the genus Menura, the male of which has a long tail that is lyrate when spread.", "S": [], "A": []}

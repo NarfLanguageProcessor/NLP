@@ -1,0 +1,1 @@
+{"index": 356892, "D": "the portion of a shoe or boot upper that covers the instep and toes.", "S": [], "A": []}

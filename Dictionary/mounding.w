@@ -1,0 +1,1 @@
+{"index": 194201, "D": [], "S": ["accumulate ", "assemble ", "collect ", "fill ", "heap ", "load ", "stack "], "A": ["disperse ", "divide ", "scatter ", "spend ", "disburse ", "separate ", "spread ", "squander ", "waste "]}

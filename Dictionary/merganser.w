@@ -1,0 +1,1 @@
+{"index": 183767, "D": "any of several fish-eating diving ducks of the subfamily Merginae, having a narrow bill hooked at the tip and serrated at the edges.", "S": [], "A": []}

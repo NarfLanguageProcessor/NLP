@@ -1,0 +1,1 @@
+{"index": 329160, "D": "government by three persons.", "S": [], "A": []}

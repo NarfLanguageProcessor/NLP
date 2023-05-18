@@ -1,0 +1,1 @@
+{"index": 207216, "D": "to break (something) into pieces, as by a blow.", "S": [], "A": []}

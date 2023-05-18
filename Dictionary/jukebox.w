@@ -1,0 +1,1 @@
+{"index": 162213, "D": "a coin-operated phonograph, typically in a gaudy, illuminated cabinet, having a variety of records that can be selected by push button.", "S": ["musical box ", "orchestrina ", "orchestrion "], "A": []}

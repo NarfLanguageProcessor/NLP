@@ -1,0 +1,1 @@
+{"index": 46752, "D": "the quality of being capable;  capacity; ability", "S": ["potentiality ", "promise ", "prospects ", "talent "], "A": ["impossible "]}

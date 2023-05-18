@@ -1,0 +1,1 @@
+{"index": 217403, "D": "a distant or remote settlement. ", "S": [], "A": []}

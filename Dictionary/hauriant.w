@@ -1,0 +1,1 @@
+{"index": 134344, "D": "(of a fish) represented as erect, with the head upward", "S": [], "A": []}

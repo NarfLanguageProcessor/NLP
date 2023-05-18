@@ -1,0 +1,1 @@
+{"index": 267750, "D": "widespread and high repute; fame.", "S": ["acclaim ", "celebrity ", "distinction ", "eminence ", "glory ", "honor ", "illustriousness ", "kudos ", "luster ", "mark ", "note ", "notoriety ", "preeminence ", "prestige ", "prominence ", "rep ", "reputation ", "repute ", "stardom "], "A": ["anonymity ", "obscurity ", "unimportance "]}

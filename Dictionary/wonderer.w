@@ -1,0 +1,1 @@
+{"index": 367032, "D": "to think or speculate curiously", "S": [], "A": []}

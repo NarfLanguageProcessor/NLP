@@ -1,0 +1,1 @@
+{"index": 365513, "D": "to make or becomewide  or wider;  broaden; expand.", "S": [], "A": []}

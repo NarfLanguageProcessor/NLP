@@ -1,0 +1,1 @@
+{"index": 313984, "D": "swaybacked. ", "S": ["dependent ", "determined ", "directed ", "guided ", "inclined ", "influenced ", "ordered ", "regulated "], "A": ["autonomous ", "capricious ", "free ", "unruly "]}

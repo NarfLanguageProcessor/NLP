@@ -1,0 +1,1 @@
+{"index": 97063, "D": "the process of creating electrical energy by converting the kinetic energy contained in a flowing, high-pressure, ionized combustion gas.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 52650, "D": "a wreath or garland for the head.", "S": [], "A": []}

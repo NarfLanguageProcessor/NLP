@@ -1,0 +1,1 @@
+{"index": 369403, "D": "a salt derived from H2ZnO2, the acid form of amphoteric zinc  hydroxide.", "S": [], "A": []}

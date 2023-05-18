@@ -1,0 +1,1 @@
+{"index": 252668, "D": "a colorless, adrenergic, water-soluble liquid, C10H2N, used by inhalation as a nasal decongestant.", "S": [], "A": []}

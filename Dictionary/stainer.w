@@ -1,0 +1,1 @@
+{"index": 302418, "D": "Sir John . 1840\u20131901, British composer and organist, noted for his sacred music, esp the oratorio The Crucifixion (1887)", "S": ["blemish ", "blotch ", "color ", "dye ", "smudge ", "speck ", "splotch ", "stigma ", "tint "], "A": ["approval ", "benefit ", "esteem ", "honor ", "praise ", "respect "]}

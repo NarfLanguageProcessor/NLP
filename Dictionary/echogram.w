@@ -1,0 +1,1 @@
+{"index": 95273, "D": "a record produced by the action of an echograph.", "S": [], "A": []}

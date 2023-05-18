@@ -1,0 +1,1 @@
+{"index": 36665, "D": "a swelling of fresh plasterwork.", "S": ["fat ", "flab ", "flitch ", "nettle ", "seethe ", "sob ", "swell ", "swollen ", "thick ", "wail ", "weep ", "whale ", "whimper ", "whine "], "A": []}

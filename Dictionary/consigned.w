@@ -1,0 +1,1 @@
+{"index": 66823, "D": "to hand over or deliver formally or officially; commit (often followed by to).", "S": ["boarded ", "embarked ", "en route ", "in transit ", "loaded ", "on ", "on board ", "traveling "], "A": ["not on ", "off "]}

@@ -1,0 +1,1 @@
+{"index": 89620, "D": "the condition in ctenophores in which an individual has two periods of sexual maturity, one in the larval and one in the adult stage.", "S": [], "A": []}

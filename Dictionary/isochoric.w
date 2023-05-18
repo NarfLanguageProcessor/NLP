@@ -1,0 +1,1 @@
+{"index": 158842, "D": "for a given substance, a curve graphing temperature against pressure, when the volume of the substance is held constant.", "S": [], "A": []}

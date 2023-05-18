@@ -1,0 +1,1 @@
+{"index": 205356, "D": "of or relating to the coinage or currency of a country.", "S": [], "A": []}

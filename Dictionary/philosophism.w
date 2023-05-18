@@ -1,0 +1,1 @@
+{"index": 233955, "D": "spurious or deceitful philosophy. ", "S": [], "A": []}

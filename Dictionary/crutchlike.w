@@ -1,0 +1,1 @@
+{"index": 74323, "D": "a staff or support to assist a lame or infirm person in walking, now usually with a crosspiece at one end to fit under the armpit.", "S": [], "A": []}

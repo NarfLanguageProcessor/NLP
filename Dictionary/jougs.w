@@ -1,0 +1,1 @@
+{"index": 161851, "D": "an iron ring, fastened by a chain to a wall, post, or tree, in which an offender was held by the neck", "S": [], "A": []}

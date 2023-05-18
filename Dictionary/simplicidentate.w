@@ -1,0 +1,1 @@
+{"index": 291082, "D": "belonging or pertaining to the Simplicidentata, formerly regarded as a suborder or division of rodents having only one pair of upper incisor teeth.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 59660, "D": "the act of a person or thing that clears;  the process of becoming clear. ", "S": ["clearance ", "expanse "], "A": ["closure "]}

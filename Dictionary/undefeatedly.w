@@ -1,0 +1,1 @@
+{"index": 338564, "D": "relating to or being the loser in a contest, election, battle, etc.; overcome or vanquished", "S": [], "A": []}

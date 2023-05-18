@@ -1,0 +1,1 @@
+{"index": 70677, "D": "a bid made in response to a bid from another party, offering more favourable terms to the seller", "S": [], "A": []}

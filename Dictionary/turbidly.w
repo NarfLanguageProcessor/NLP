@@ -1,0 +1,1 @@
+{"index": 332577, "D": "not clear or transparent because of stirred-up sediment or the like; clouded; opaque;  obscured", "S": [], "A": []}

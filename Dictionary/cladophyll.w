@@ -1,0 +1,1 @@
+{"index": 59023, "D": "a leaflike flattened branch that resembles and functions as a leaf.", "S": [], "A": []}

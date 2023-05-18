@@ -1,0 +1,1 @@
+{"index": 248683, "D": "situated in front of or before the mouth.", "S": [], "A": []}

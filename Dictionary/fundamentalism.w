@@ -1,0 +1,1 @@
+{"index": 120163, "D": "a religious movement characterized by a strict belief in the literal interpretation of religious texts, especially within American Protestantism and Islam.", "S": [], "A": []}

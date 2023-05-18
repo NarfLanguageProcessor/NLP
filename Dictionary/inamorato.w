@@ -1,0 +1,1 @@
+{"index": 149435, "D": "a man who loves or is loved; male sweetheart or lover.", "S": ["boyfriend ", "lover ", "paramour ", "suitor ", "sweetheart "], "A": ["enemy "]}

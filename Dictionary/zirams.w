@@ -1,0 +1,1 @@
+{"index": 369524, "D": "a white crystalline powder, C6H12N2S4Zn, almost insoluble in water, soluble in acetone and chloroform", "S": [], "A": []}

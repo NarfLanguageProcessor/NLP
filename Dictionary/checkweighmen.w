@@ -1,0 +1,1 @@
+{"index": 53390, "D": "a representative elected by coal miners to check  the findings of the mine owner's weighman  where miners are paid by the weight of coal mined.", "S": [], "A": []}

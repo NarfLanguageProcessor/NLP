@@ -1,0 +1,1 @@
+{"index": 189986, "D": "an incomplete casting, the metal of which has solidified prematurely.", "S": [], "A": []}

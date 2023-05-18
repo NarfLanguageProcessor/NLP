@@ -1,0 +1,1 @@
+{"index": 351421, "D": "emitting smoke,  especially in large amounts.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 213843, "D": "the best or most favorable point, degree, amount, etc., as of temperature, light, and moisture for the growth or reproduction of an organism.", "S": ["apogee ", "capstone ", "climax ", "culmination ", "height ", "meridian ", "optimum ", "peak ", "summit ", "top ", "ultimate ", "vertex ", "zenith "], "A": ["base ", "bottom ", "nadir "]}

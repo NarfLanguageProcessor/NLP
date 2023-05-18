@@ -1,0 +1,1 @@
+{"index": 120938, "D": "an iron hook with a handle for landing large fish.", "S": ["apprehend ", "capture ", "catch ", "detain ", "imprison ", "incarcerate ", "jail ", "round up ", "seize "], "A": ["free ", "let go ", "liberate ", "lose ", "misunderstand ", "release ", "exonerate ", "loosen ", "take up ", "unfasten "]}

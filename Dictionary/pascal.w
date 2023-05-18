@@ -1,0 +1,1 @@
+{"index": 227179, "D": "the standard unit of pressure or stress in the International System of Units  (SI), equal to one newton per square meter. Abbreviation", "S": [], "A": []}

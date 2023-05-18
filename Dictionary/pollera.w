@@ -1,0 +1,1 @@
+{"index": 242692, "D": "a very colorful costume worn by women during fiestas in Latin American countries.", "S": [], "A": []}

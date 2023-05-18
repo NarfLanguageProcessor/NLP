@@ -1,0 +1,1 @@
+{"index": 342027, "D": "any of various devices for fastening. ", "S": [], "A": []}

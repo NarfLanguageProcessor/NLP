@@ -1,0 +1,1 @@
+{"index": 175119, "D": "in a way that is not secure, tight, or restrained", "S": ["almost ", "generally ", "relatively ", "roughly "], "A": ["accurately ", "clearly ", "definitely ", "exactly ", "precisely "]}

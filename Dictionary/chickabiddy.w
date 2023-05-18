@@ -1,0 +1,1 @@
+{"index": 54135, "D": "a term of endearment, esp for a child", "S": [], "A": []}

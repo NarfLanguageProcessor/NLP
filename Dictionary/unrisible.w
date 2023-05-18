@@ -1,0 +1,1 @@
+{"index": 349999, "D": "causing or capable of causing laughter; laughable; ludicrous.", "S": [], "A": []}

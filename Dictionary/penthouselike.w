@@ -1,0 +1,1 @@
+{"index": 230069, "D": "an apartment or dwelling on the roof of a building, usually set back from the outer walls.", "S": [], "A": []}

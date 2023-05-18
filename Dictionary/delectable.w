@@ -1,0 +1,1 @@
+{"index": 79967, "D": "delightful; highly pleasing; enjoyable", "S": ["appetizing ", "delicate ", "delightful ", "enticing ", "exquisite ", "heavenly ", "luscious ", "palatable ", "satisfying ", "savory ", "tasty ", "yummy "], "A": ["distasteful ", "horrible ", "poor ", "tasteless ", "unappetizing ", "unsavory "]}

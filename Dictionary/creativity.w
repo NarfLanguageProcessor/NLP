@@ -1,0 +1,1 @@
+{"index": 72444, "D": "the state or quality of being creative. ", "S": ["cleverness ", "genius ", "imagination ", "imaginativeness ", "ingenuity ", "inspiration ", "inventiveness ", "originality ", "resourcefulness ", "talent ", "vision "], "A": ["reality "]}

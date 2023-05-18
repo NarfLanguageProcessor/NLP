@@ -1,0 +1,1 @@
+{"index": 287788, "D": "a North American shrub or small tree, Viburnum lentago, of the honeysuckle family, having flat-topped clusters of small white flowers and edible, berrylike black drupes.", "S": [], "A": []}

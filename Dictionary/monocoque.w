@@ -1,0 +1,1 @@
+{"index": 192210, "D": "a type of boat, aircraft, or rocket construction in which the shell carries most of the stresses.", "S": [], "A": []}

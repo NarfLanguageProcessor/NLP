@@ -1,0 +1,1 @@
+{"index": 324467, "D": "tyrannical. ", "S": ["absolutist ", "absolutistic ", "arbitrary ", "autarchic ", "autarchical ", "authoritarian ", "autocratic ", "autocratical ", "autonomous ", "despotic ", "dictatorial ", "full ", "monocratic ", "preeminent ", "sovereign ", "supreme ", "totalitarian ", "tyrannic ", "tyrannical "], "A": []}

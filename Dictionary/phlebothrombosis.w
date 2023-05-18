@@ -1,0 +1,1 @@
+{"index": 234457, "D": "the presence of a thrombus in a vein.", "S": [], "A": []}

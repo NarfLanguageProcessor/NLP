@@ -1,0 +1,1 @@
+{"index": 362374, "D": "to ramble without a definite purpose or objective; roam, rove, or stray", "S": ["amble ", "cruise ", "drift ", "float ", "hike ", "meander ", "ramble ", "roam ", "saunter ", "straggle ", "stray ", "stroll ", "traipse ", "trek "], "A": ["run ", "stay "]}

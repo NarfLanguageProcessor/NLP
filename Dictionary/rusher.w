@@ -1,0 +1,1 @@
+{"index": 275780, "D": "a person or thing that rushes. ", "S": [], "A": []}

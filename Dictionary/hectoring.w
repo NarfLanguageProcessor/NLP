@@ -1,0 +1,1 @@
+{"index": 135167, "D": "the eldest son of Priam and husband of Andromache", "S": ["imperious "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141345, "D": "a white, crystalline, almost water-soluble, alkaloidal purine derivative, C5H4N4O, found in animal and vegetable tissues", "S": [], "A": []}

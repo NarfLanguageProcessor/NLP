@@ -1,0 +1,1 @@
+{"index": 243067, "D": "any pontifex.", "S": ["pope "], "A": []}

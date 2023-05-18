@@ -1,0 +1,1 @@
+{"index": 186383, "D": "a photometer  adapted for measuring the intensity of light emitted, transmitted, or reflected by minute objects.", "S": [], "A": []}

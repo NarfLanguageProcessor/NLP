@@ -1,0 +1,1 @@
+{"index": 167373, "D": "German name of Ljubljana. ", "S": [], "A": []}

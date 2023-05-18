@@ -1,0 +1,1 @@
+{"index": 350989, "D": "(of a keyboard shift key) not pressed or activated.", "S": [], "A": []}

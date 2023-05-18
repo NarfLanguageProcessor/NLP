@@ -1,0 +1,1 @@
+{"index": 49035, "D": "curved pieces of hollow wood, usually held between the fingers and thumb and made to click together", "S": [], "A": []}

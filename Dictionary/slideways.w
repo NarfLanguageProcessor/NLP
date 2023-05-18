@@ -1,0 +1,1 @@
+{"index": 294050, "D": "an inclined surface along which something can slide. ", "S": [], "A": []}

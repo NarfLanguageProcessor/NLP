@@ -1,0 +1,1 @@
+{"index": 99875, "D": "(of certain parasitic insects) feeding from within a host organism.", "S": [], "A": []}

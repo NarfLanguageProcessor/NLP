@@ -1,0 +1,1 @@
+{"index": 351553, "D": "the state, property, or quality of being solid. ", "S": [], "A": []}

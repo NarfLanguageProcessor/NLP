@@ -1,0 +1,1 @@
+{"index": 227668, "D": "the state of being a father; fatherhood.", "S": ["ancestry ", "birth ", "descent ", "lineage "], "A": ["close ", "completion ", "conclusion ", "consequence ", "death ", "destiny ", "effect ", "end ", "finale ", "goal ", "outcome ", "outgrowth ", "result ", "termination "]}

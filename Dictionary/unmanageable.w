@@ -1,0 +1,1 @@
+{"index": 345952, "D": "difficult or impossible to control, use, or manipulate", "S": ["chaotic ", "hysterical ", "uncontrollable "], "A": ["calm ", "controlled "]}

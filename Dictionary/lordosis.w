@@ -1,0 +1,1 @@
+{"index": 175265, "D": "Compare kyphosis, scoliosis. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 199329, "D": "an elementary particle having no charge, mass slightly greater than that of a proton, and spin of \u00bd", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91083, "D": "a coarse-grained variety of basalt.", "S": [], "A": []}

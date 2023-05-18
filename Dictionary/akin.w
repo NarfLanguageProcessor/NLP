@@ -1,0 +1,1 @@
+{"index": 7167, "D": "of kin;  related by blood (usually used predicatively)", "S": ["analogous ", "comparable ", "similar "], "A": ["dissimilar ", "unalike ", "unlike "]}

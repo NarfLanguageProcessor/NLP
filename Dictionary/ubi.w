@@ -1,0 +1,1 @@
+{"index": 333569, "D": "a government program to alleviate poverty through periodic, fixed, direct payments to every citizen.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 82926, "D": "to utilize an idle fund or commodity, as when a nation issues currency against gold previously unused.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 240806, "D": "the process of recording the movements of the thorax in respiration.", "S": [], "A": []}

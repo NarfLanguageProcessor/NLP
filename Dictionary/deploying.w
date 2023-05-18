@@ -1,0 +1,1 @@
+{"index": 81670, "D": "to spread out (troops) so as to form an extended front or line.", "S": ["expand ", "open ", "set up ", "use "], "A": ["conclude ", "end ", "finish ", "conceal ", "disarrange ", "disorder ", "displace ", "disturb ", "hide ", "withhold "]}

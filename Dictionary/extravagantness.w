@@ -1,0 +1,1 @@
+{"index": 108679, "D": "spending much more than is necessary or wise; wasteful", "S": ["excessiveness ", "exorbitance ", "extravagance ", "extravagancy ", "inordinateness ", "lavishness ", "overabundance ", "overplus ", "plethora ", "profusion ", "superabundance ", "superfluity ", "superfluousness ", "surfeit "], "A": []}

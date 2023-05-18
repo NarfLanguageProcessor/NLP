@@ -1,0 +1,1 @@
+{"index": 143304, "D": "an artificially made dwarf, supposedly produced in a flask by an alchemist.", "S": [], "A": []}

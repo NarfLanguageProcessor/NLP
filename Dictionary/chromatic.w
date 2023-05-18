@@ -1,0 +1,1 @@
+{"index": 56198, "D": "pertaining to color or colors.", "S": ["bright ", "flashy ", "gaudy ", "hued ", "multicolored ", "rich ", "splashy ", "vibrant ", "vivid "], "A": ["dull ", "pale ", "plain ", "simple ", "weak "]}

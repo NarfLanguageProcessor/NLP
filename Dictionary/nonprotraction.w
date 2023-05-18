@@ -1,0 +1,1 @@
+{"index": 206320, "D": "the act of protracting;  prolongation; extension.", "S": [], "A": []}

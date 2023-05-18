@@ -1,0 +1,1 @@
+{"index": 1048, "D": "to flee; abscond", "S": [], "A": []}

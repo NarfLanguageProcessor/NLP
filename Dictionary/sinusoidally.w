@@ -1,0 +1,1 @@
+{"index": 292147, "D": "of or relating to a sinusoid. ", "S": [], "A": []}

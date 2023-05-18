@@ -1,0 +1,1 @@
+{"index": 279709, "D": "a stock character in commedia dell'arte and farce who is a cowardly braggart, easily beaten and frightened.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91830, "D": "a large, thin pancake from southern India, made from a fermented batter of rice and lentil flours and often served rolled around a filling of potatoes or other vegetables.", "S": [], "A": []}

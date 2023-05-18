@@ -1,0 +1,1 @@
+{"index": 47272, "D": "a member of the Italian national police force, organized as a military unit and charged with maintaining public security and order as well as assisting local police.", "S": ["constable ", "deputy ", "detective ", "marshal ", "military police ", "officer ", "policeman ", "trooper "], "A": []}

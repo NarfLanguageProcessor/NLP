@@ -1,0 +1,1 @@
+{"index": 273686, "D": "any of various simple or complex tubelike devices containing combustibles that on being ignited liberate gases whose action propels the tube through the air", "S": ["bursts ", "illuminations ", "pyrotechnics ", "sparklers "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 54888, "D": "an early musical stringed instrument of the lute family with a long neck and two pegboxes, one above the other.", "S": [], "A": []}

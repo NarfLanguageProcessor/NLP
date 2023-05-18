@@ -1,0 +1,1 @@
+{"index": 262539, "D": "to calculate  again, especially for the purpose of finding an error or confirming a previous computation.", "S": [], "A": []}

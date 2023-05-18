@@ -1,0 +1,1 @@
+{"index": 167962, "D": "an Austrian and southern German folk dance in moderately slow triple meter, antecedent to the waltz.", "S": [], "A": []}

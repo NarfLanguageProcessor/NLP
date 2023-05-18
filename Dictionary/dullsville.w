@@ -1,0 +1,1 @@
+{"index": 94012, "D": "something boring or dull", "S": ["blah ", "dead ", "deadsville ", "dragsville ", "hicksville ", "tedious "], "A": []}

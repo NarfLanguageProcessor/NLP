@@ -1,0 +1,1 @@
+{"index": 86773, "D": "instructions for doing something or for reaching a place", "S": ["advice ", "advisement ", "assignment ", "briefing ", "directive ", "guidelines ", "indication ", "lowdown ", "notification ", "plan ", "prescription ", "recommendation ", "regulation ", "sealed order ", "specification ", "specs ", "steer ", "summons ", "tip ", "word "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 229215, "D": "a silk fabric in which broad stripes of equal width and in various colors or weaves are alternated.", "S": [], "A": []}

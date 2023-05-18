@@ -1,0 +1,1 @@
+{"index": 287994, "D": "protected or shielded from storms, missiles, etc., by a wall, roof, barrier, or the like.", "S": ["protected ", "shady "], "A": ["exposed "]}

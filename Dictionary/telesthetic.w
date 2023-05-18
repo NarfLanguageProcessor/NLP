@@ -1,0 +1,1 @@
+{"index": 318257, "D": "sensation or perception received at a distance without the normal operation of the recognized sense organs.", "S": [], "A": []}

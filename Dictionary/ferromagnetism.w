@@ -1,0 +1,1 @@
+{"index": 111547, "D": "Compare diamagnetism, paramagnetism See also magnet, Curie-Weiss law", "S": [], "A": []}

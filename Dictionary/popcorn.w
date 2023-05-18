@@ -1,0 +1,1 @@
+{"index": 243196, "D": "any of several varieties of corn whose kernels burst open and puff out when subjected to dry heat.", "S": [], "A": []}

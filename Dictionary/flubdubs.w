@@ -1,0 +1,1 @@
+{"index": 115229, "D": "pretentious nonsense or show; airs.", "S": [], "A": []}

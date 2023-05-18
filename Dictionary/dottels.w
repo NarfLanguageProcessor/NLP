@@ -1,0 +1,1 @@
+{"index": 91927, "D": "the plug of half-smoked tobacco in the bottom of a pipe after smoking.", "S": [], "A": []}

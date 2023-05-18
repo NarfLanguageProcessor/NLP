@@ -1,0 +1,1 @@
+{"index": 102247, "D": "a point, directly above the true center of disturbance, from which the shock waves of an earthquake apparently radiate.", "S": [], "A": []}

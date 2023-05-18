@@ -1,0 +1,1 @@
+{"index": 348742, "D": "of, relating to, or resulting from divine providence", "S": [], "A": []}

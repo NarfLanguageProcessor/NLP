@@ -1,0 +1,1 @@
+{"index": 318701, "D": "a person or group that rents and occupies land, a house, an office, or the like, from another for a period of time; lessee.", "S": [], "A": []}

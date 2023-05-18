@@ -1,0 +1,1 @@
+{"index": 67543, "D": "anything prohibited by law from being imported or exported.", "S": ["bootleg ", "illicit ", "prohibited ", "smuggled ", "unauthorized "], "A": ["legal ", "permitted "]}

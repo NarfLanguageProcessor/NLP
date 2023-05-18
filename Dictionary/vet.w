@@ -1,0 +1,1 @@
+{"index": 359135, "D": "veterinarian. ", "S": ["accomplished ", "capable ", "competent ", "mature ", "professional ", "qualified ", "seasoned ", "skillful ", "sophisticated ", "trained ", "veteran ", "wise "], "A": ["amateur ", "green ", "ignorant ", "incapable ", "incompetent ", "inept ", "inexperienced ", "unable ", "unskilled ", "unskillful ", "untalented ", "untrained "]}

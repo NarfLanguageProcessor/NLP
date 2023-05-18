@@ -1,0 +1,1 @@
+{"index": 753, "D": "to occur or exist in great quantities or numbers", "S": ["filled ", "flush ", "replete ", "teeming "], "A": ["empty ", "lacking ", "wanting "]}

@@ -1,0 +1,1 @@
+{"index": 250567, "D": "a first parent or earliest ancestor", "S": ["forebear ", "forefather ", "founder "], "A": ["descendant "]}

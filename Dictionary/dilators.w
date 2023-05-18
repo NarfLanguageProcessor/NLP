@@ -1,0 +1,1 @@
+{"index": 85712, "D": "a muscle that dilates  some cavity of the body.", "S": [], "A": []}

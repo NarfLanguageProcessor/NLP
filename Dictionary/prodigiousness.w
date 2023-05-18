@@ -1,0 +1,1 @@
+{"index": 251539, "D": "extraordinary in size, amount, extent, degree, force, etc.", "S": ["bigness ", "bulk ", "greatness ", "hugeness ", "immenseness ", "immensity ", "magnitude ", "massiveness ", "size ", "stupendousness ", "tremendousness ", "vastness "], "A": []}

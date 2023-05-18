@@ -1,0 +1,1 @@
+{"index": 135066, "D": "pertaining to or occurring in puberty.", "S": ["abundant ", "arable ", "fruitful ", "lush ", "productive ", "rich "], "A": ["barren ", "impotent ", "sparse ", "unfruitful ", "unproductive "]}

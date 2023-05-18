@@ -1,0 +1,1 @@
+{"index": 183313, "D": "any marine clupeid fish of the genus Brevoortia, especially B. tyrannus, resembling a shad but with a more compressed body, common along the eastern coast of the U.S., and used for making oil and fertilizer.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 177164, "D": "wildly or heedlessly impulsive; reckless; rash", "S": ["rash ", "stupid ", "wild "], "A": ["reasonable ", "sane "]}

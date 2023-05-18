@@ -1,0 +1,1 @@
+{"index": 282695, "D": "an intersecting line, especially one intersecting a curve at two or more points.", "S": [], "A": []}

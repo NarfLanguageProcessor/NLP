@@ -1,0 +1,1 @@
+{"index": 363909, "D": "the act, art, or sport of lifting barbells of given poundages in a prescribed manner, as a competitive event or conditioning exercise.", "S": [], "A": []}

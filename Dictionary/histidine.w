@@ -1,0 +1,1 @@
+{"index": 141798, "D": "an essential amino acid, C3H3N2CH2CH(NH2)COOH, that is a constituent of proteins and is important as the iron-binding site in hemoglobin. Abbreviation", "S": [], "A": []}

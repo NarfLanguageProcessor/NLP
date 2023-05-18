@@ -1,0 +1,1 @@
+{"index": 286054, "D": "anything published, broadcast, etc., in short installments at regular intervals, as a novel appearing in successive issues of a magazine.", "S": ["successively "], "A": []}

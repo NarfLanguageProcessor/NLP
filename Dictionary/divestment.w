@@ -1,0 +1,1 @@
+{"index": 90310, "D": "the act of divesting. ", "S": ["destitution ", "hardship ", "privation "], "A": ["advantage ", "benefit ", "gain ", "profit "]}

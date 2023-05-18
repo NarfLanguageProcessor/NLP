@@ -1,0 +1,1 @@
+{"index": 286458, "D": "work performed for remuneration", "S": ["convocation ", "dawning ", "graduation ", "initiation ", "kickoff ", "onset ", "outset "], "A": ["conclusion ", "end ", "ending ", "finish ", "death "]}

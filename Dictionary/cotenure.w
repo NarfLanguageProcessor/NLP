@@ -1,0 +1,1 @@
+{"index": 70296, "D": "a joint tenant. ", "S": [], "A": []}

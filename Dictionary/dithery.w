@@ -1,0 +1,1 @@
+{"index": 90102, "D": "a trembling; vibration.", "S": [], "A": []}

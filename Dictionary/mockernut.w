@@ -1,0 +1,1 @@
+{"index": 191009, "D": "a North American hickory, Carya tomentosa, bearing a sweet, edible nut.", "S": [], "A": []}

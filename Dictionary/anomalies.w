@@ -1,0 +1,1 @@
+{"index": 13745, "D": "the plural of anomaly. ", "S": ["aberration ", "abnormality ", "deviation ", "inconsistency ", "irregularity ", "oddity ", "rarity "], "A": ["conformity ", "normality ", "regularity ", "sameness ", "standard ", "usualness "]}

@@ -1,0 +1,1 @@
+{"index": 230366, "D": "taken in by the senses; heard, seen, felt, etc.", "S": ["anticipated ", "recognized "], "A": []}

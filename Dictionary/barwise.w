@@ -1,0 +1,1 @@
+{"index": 28459, "D": "(of a charge or charges) transversely across an escutcheon, in the manner of a bar. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 348442, "D": "predominant", "S": [], "A": []}

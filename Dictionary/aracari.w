@@ -1,0 +1,1 @@
+{"index": 18340, "D": "any of several small toucans of the genus Pteroglossus, having strongly serrate bills and yellow underparts marked with black and red.", "S": [], "A": []}

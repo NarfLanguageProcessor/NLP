@@ -1,0 +1,1 @@
+{"index": 254464, "D": "writing or using allegory; interpreting in an allegorical sense.", "S": [], "A": []}

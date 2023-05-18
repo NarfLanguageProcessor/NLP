@@ -1,0 +1,1 @@
+{"index": 257865, "D": "(in an ecclesiastical court) an officer charged with examining cases and preparing them for trial.", "S": [], "A": []}

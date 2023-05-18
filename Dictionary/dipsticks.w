@@ -1,0 +1,1 @@
+{"index": 86710, "D": "a rod for measuring the depth of a liquid; especially, a thin metal rod used to measure the oil level in the crankcase of an automotive engine.", "S": [], "A": []}

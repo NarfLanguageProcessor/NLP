@@ -1,0 +1,1 @@
+{"index": 174311, "D": "a place of settlement, activity, or residence", "S": ["area ", "district ", "locale ", "neighborhood ", "part ", "point ", "position ", "region ", "scene ", "section ", "site ", "situation ", "spot ", "station ", "venue ", "whereabouts "], "A": ["whole "]}

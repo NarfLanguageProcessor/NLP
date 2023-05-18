@@ -1,0 +1,1 @@
+{"index": 309611, "D": "of, relating to, or connected with a trochlea. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183451, "D": "propriety; discretion.", "S": ["catamenia ", "menorrhea "], "A": []}

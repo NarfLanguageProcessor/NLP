@@ -1,0 +1,1 @@
+{"index": 297013, "D": "gloomily dark; shadowy; dimly lighted", "S": ["earnestly "], "A": ["cheerfully ", "drunkenly ", "excitedly ", "hilariously "]}

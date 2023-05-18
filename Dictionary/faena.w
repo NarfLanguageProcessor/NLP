@@ -1,0 +1,1 @@
+{"index": 109171, "D": "the final third of a bullfight in which the matador uses a muleta and the sword in making the final series of passes preparatory to the kill.", "S": [], "A": []}

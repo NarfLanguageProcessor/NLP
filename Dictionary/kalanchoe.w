@@ -1,0 +1,1 @@
+{"index": 162859, "D": "any of several chiefly African and Asian succulent plants or shrubs belonging to the genus Kalanchoe, of the stonecrop family, having mostly opposite leaves and branching clusters of flowers.", "S": [], "A": []}

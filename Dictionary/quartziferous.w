@@ -1,0 +1,1 @@
+{"index": 258100, "D": "consisting of or containing quartz", "S": [], "A": []}

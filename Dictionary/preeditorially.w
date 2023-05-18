@@ -1,0 +1,1 @@
+{"index": 247186, "D": "an article in a newspaper or other periodical or on a website presenting the opinion of the publisher, writer, or editor. ", "S": [], "A": []}

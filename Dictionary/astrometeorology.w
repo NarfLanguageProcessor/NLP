@@ -1,0 +1,1 @@
+{"index": 22293, "D": "the study of the theoretical effects of astronomical bodies and forces on the earth's atmosphere.", "S": [], "A": []}

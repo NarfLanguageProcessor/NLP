@@ -1,0 +1,1 @@
+{"index": 60466, "D": [], "S": ["bar ", "exclude ", "halt ", "outlaw ", "prevent ", "prohibit ", "proscribe ", "restrict ", "suppress "], "A": ["admit ", "allow ", "include ", "let go ", "permit ", "push ", "release ", "welcome "]}

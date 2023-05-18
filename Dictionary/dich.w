@@ -1,0 +1,1 @@
+{"index": 84773, "D": "variant of dicho-  before a vowel.", "S": [], "A": []}

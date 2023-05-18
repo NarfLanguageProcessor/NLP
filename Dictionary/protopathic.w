@@ -1,0 +1,1 @@
+{"index": 253776, "D": "noting or pertaining to a general, nondiscriminating responsiveness to pain or temperature stimuli (opposed to epicritic).", "S": [], "A": []}

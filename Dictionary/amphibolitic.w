@@ -1,0 +1,1 @@
+{"index": 11070, "D": "a metamorphic rock composed mainly of amphibole  and plagioclase.", "S": [], "A": []}

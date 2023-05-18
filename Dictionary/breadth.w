@@ -1,0 +1,1 @@
+{"index": 40218, "D": "the measure of the second largest dimension of a plane or solid figure; width.", "S": ["broadness ", "diameter ", "latitude ", "span ", "spread ", "wideness "], "A": []}

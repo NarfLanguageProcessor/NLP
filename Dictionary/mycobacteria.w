@@ -1,0 +1,1 @@
+{"index": 185793, "D": "rod-shaped aerobic bacteria  of the genus Mycobacterium, certain species of which, as M. tuberculosis, are pathogenic for humans and animals.", "S": [], "A": []}

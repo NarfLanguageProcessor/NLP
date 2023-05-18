@@ -1,0 +1,1 @@
+{"index": 77597, "D": "the ridding of philosophy or religion of anthropomorphic beliefs and doctrines.", "S": [], "A": []}

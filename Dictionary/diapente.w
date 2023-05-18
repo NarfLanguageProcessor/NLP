@@ -1,0 +1,1 @@
+{"index": 84408, "D": "(in classical Greece) the interval of a perfect fifth", "S": [], "A": []}

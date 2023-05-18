@@ -1,0 +1,1 @@
+{"index": 144774, "D": "a richly embroidered cotton blouse worn by women in Mexico and Central America, often very wide and low-cut.", "S": [], "A": []}

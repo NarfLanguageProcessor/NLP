@@ -1,0 +1,1 @@
+{"index": 314386, "D": "a vision; dream.", "S": [], "A": []}

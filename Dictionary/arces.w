@@ -1,0 +1,1 @@
+{"index": 18649, "D": "a daughter of Thaumas and the sister of Iris and the Harpies. Zeus took away her wings when she aided the Titans in their war against him.", "S": [], "A": []}

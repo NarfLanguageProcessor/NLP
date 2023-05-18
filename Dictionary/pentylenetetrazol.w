@@ -1,0 +1,1 @@
+{"index": 230078, "D": "a white, crystalline, bitter-tasting, water-soluble powder, C6H10N4, used as a respiratory and circulatory stimulant, especially in the treatment of barbiturate poisoning, and to induce a convulsive state in the treatment of certain mental diseases.", "S": [], "A": []}

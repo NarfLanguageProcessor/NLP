@@ -1,0 +1,1 @@
+{"index": 260510, "D": "with three horses harnessed together as a team", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165369, "D": "a region of the Yukon territory in NW Canada", "S": ["America's Icebox ", "Seward's Folly ", "the 49th state ", "the Klondike ", "the Last Frontier ", "the frozen North "], "A": []}

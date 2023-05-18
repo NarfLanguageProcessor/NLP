@@ -1,0 +1,1 @@
+{"index": 66066, "D": "an act of confronting. ", "S": [], "A": []}

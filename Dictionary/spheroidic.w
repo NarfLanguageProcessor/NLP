@@ -1,0 +1,1 @@
+{"index": 299526, "D": "pertaining to a spheroid  or spheroids. ", "S": [], "A": []}

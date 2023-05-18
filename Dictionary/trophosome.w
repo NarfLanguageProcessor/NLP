@@ -1,0 +1,1 @@
+{"index": 331203, "D": "an organ in deep-sea tube worms that is colonized by bacteria supplying the host worm with food and energy.", "S": [], "A": []}

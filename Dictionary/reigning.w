@@ -1,0 +1,1 @@
+{"index": 266088, "D": "the period during which a sovereign occupies the throne.", "S": ["prevailing "], "A": ["subordinate "]}

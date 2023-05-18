@@ -1,0 +1,1 @@
+{"index": 49528, "D": "of or relating to a word having independent meaning so that it can be used as a term in a proposition.", "S": [], "A": []}

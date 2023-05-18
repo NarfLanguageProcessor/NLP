@@ -1,0 +1,1 @@
+{"index": 159548, "D": "of or relating to the phallus carried in ancient festivals of Bacchus.", "S": [], "A": []}

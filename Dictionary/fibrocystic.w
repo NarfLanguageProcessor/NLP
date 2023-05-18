@@ -1,0 +1,1 @@
+{"index": 112058, "D": "showing or having the increased fibrosis associated with dilated glandular structure, as in the breast nodules of fibrocystic disease. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 321572, "D": "Charlize (\u02c8\u0283\u0251\u02d0l\u026a\u02d0z) born 1975, South African film actress; her films include The Cider House Rules (1999) and Monster (2003), which earned her an Academy Award", "S": [], "A": []}

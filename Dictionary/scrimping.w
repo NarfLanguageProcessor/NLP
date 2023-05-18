@@ -1,0 +1,1 @@
+{"index": 281838, "D": "to be sparing or frugal; economize (often followed by on)", "S": ["cost-effective ", "efficient ", "practical ", "prudent "], "A": ["inefficient "]}

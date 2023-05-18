@@ -1,0 +1,1 @@
+{"index": 49760, "D": "pertaining to or resembling Catiline.", "S": [], "A": []}

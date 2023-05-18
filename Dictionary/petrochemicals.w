@@ -1,0 +1,1 @@
+{"index": 232490, "D": "a chemical  substance obtained from petroleum or natural gas, as gasoline, kerosene, or petrolatum.", "S": [], "A": []}

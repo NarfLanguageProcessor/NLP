@@ -1,0 +1,1 @@
+{"index": 152477, "D": "an artless, innocent, unworldly girl or young woman", "S": ["babe ", "ing\u00e9nue "], "A": []}

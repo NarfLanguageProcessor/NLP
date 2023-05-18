@@ -1,0 +1,1 @@
+{"index": 101404, "D": "the act of enthroning. ", "S": ["inauguration ", "induction ", "installation ", "investiture ", "solemn declaration ", "vow "], "A": []}

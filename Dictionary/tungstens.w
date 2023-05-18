@@ -1,0 +1,1 @@
+{"index": 332420, "D": "a rare, metallic element having a bright-gray color, a metallic luster, and a high melting point, 3410\u00b0 C, and found in wolframite, tungstite,  and other minerals", "S": [], "A": []}

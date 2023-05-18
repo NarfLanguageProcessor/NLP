@@ -1,0 +1,1 @@
+{"index": 294136, "D": "characterized by or proceeding with slinking  or stealthy movements.", "S": ["clandestineness ", "covertness ", "furtiveness ", "slyness ", "sneakiness ", "stealthiness "], "A": []}

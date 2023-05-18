@@ -1,0 +1,1 @@
+{"index": 205806, "D": "of or relating to a pedagogue  or pedagogy. ", "S": [], "A": []}

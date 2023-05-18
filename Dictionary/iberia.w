@@ -1,0 +1,1 @@
+{"index": 145919, "D": "a peninsula in SW Europe, comprising Spain and Portugal.", "S": [], "A": []}

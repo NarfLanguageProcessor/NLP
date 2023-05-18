@@ -1,0 +1,1 @@
+{"index": 287486, "D": "to farm as a sharecropper.", "S": [], "A": []}

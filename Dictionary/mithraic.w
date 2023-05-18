@@ -1,0 +1,1 @@
+{"index": 190573, "D": "an ancient Persian religion in which Mithras  was worshiped, involving secret rituals to which only men were admitted", "S": [], "A": []}

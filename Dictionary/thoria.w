@@ -1,0 +1,1 @@
+{"index": 322387, "D": "a white, heavy, water-insoluble powder, ThO2, used chiefly in incandescent mantles, as the Welsbach gas mantle.", "S": [], "A": []}

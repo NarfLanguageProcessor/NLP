@@ -1,0 +1,1 @@
+{"index": 66524, "D": "a large metal cargo container used by the U.S. Army for shipping supplies, as to overseas bases.", "S": [], "A": []}

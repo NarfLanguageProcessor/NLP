@@ -1,0 +1,1 @@
+{"index": 281732, "D": "a Scot word for screech 1 (def. 1)", "S": [], "A": []}

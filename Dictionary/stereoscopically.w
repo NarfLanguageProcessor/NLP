@@ -1,0 +1,1 @@
+{"index": 303964, "D": "noting or pertaining to three-dimensional vision or any of various processes and devices for giving the illusion of depth from two-dimensional images or reproductions, as of a photograph or motion picture.", "S": [], "A": []}

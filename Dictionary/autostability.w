@@ -1,0 +1,1 @@
+{"index": 24405, "D": "the ability of a mechanism to maintain a stable performance, due either to the mechanics of its structure or to built-in automatic control devices.", "S": [], "A": []}

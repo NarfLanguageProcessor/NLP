@@ -1,0 +1,1 @@
+{"index": 38584, "D": "nautical a variant spelling of boatswain", "S": [], "A": []}

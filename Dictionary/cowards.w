@@ -1,0 +1,1 @@
+{"index": 71554, "D": "a person who lacks courage in facing danger, difficulty, opposition, pain, etc.; a timid or easily intimidated person.", "S": ["wimp "], "A": ["aggressor ", "hero "]}

@@ -1,0 +1,1 @@
+{"index": 226239, "D": "a kind of tackle for raising or lowering a cask or similar object along an inclined plane or a vertical surface, consisting of a rope looped over a post or the like, with its two ends passing around the object to be moved.", "S": [], "A": []}

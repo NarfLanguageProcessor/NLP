@@ -1,0 +1,1 @@
+{"index": 47598, "D": "to combine or mix with carbon or hydrocarbons.", "S": [], "A": []}

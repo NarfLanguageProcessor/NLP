@@ -1,0 +1,1 @@
+{"index": 257650, "D": "divided into or consisting of four parts.", "S": ["quadruple ", "quadruplicate ", "quaternary ", "tetrad "], "A": []}

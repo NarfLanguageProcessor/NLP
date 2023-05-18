@@ -1,0 +1,1 @@
+{"index": 8376, "D": "having life; living;  existing; not dead or lifeless.", "S": ["awake ", "conscious ", "viable "], "A": ["dead ", "deceased ", "inanimate ", "lifeless "]}

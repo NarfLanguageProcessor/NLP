@@ -1,0 +1,1 @@
+{"index": 309830, "D": "a person or thing that succeeds  or follows.", "S": ["breed ", "brood ", "children ", "descendants ", "family ", "heirs ", "issue ", "lineage ", "offspring ", "progeny ", "scions ", "seed ", "stock "], "A": ["parent "]}

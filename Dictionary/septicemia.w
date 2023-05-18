@@ -1,0 +1,1 @@
+{"index": 285717, "D": "the invasion and persistence of pathogenic bacteria in the blood-stream.", "S": ["pyemia ", "sepsis ", "septic infection ", "septic poisoning ", "septicopyemia ", "toxaemia ", "toxemia "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 333329, "D": "a slender shoot of a tree or other plant.", "S": ["coals ", "firewood ", "lightwood ", "tinder ", "wood "], "A": []}

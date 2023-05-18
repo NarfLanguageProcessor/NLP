@@ -1,0 +1,1 @@
+{"index": 169952, "D": "wary; suspicious (usually followed by of)", "S": ["disbelief ", "doubt ", "misdoubt ", "misgiving ", "mistrust ", "qualm ", "question ", "skepticism ", "suspicion ", "wariness "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 19967, "D": "the upper limb of the human body, especially the part extending from the shoulder to the wrist.", "S": [], "A": []}

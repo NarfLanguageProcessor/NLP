@@ -1,0 +1,1 @@
+{"index": 290046, "D": "(of a ceramic object) having stamped decorations.", "S": [], "A": []}

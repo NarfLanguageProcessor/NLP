@@ -1,0 +1,1 @@
+{"index": 286446, "D": "capable of or being of service;  useful.", "S": ["dependable ", "usable "], "A": ["unhelpful ", "unprofitable ", "unserviceable ", "useless ", "weak ", "worthless "]}

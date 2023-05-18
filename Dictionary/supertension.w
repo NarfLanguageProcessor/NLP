@@ -1,0 +1,1 @@
+{"index": 312802, "D": "the act of stretching or straining.", "S": [], "A": []}

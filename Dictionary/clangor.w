@@ -1,0 +1,1 @@
+{"index": 59200, "D": "a loud, resonant sound; clang. ", "S": ["blare ", "noise ", "peal "], "A": ["quiet "]}

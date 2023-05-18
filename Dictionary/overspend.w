@@ -1,0 +1,1 @@
+{"index": 221282, "D": "to spend  more than one can afford", "S": [], "A": []}

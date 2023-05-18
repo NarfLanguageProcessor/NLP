@@ -1,0 +1,1 @@
+{"index": 179621, "D": "a segment, bone, cell, etc., resembling a handle.", "S": [], "A": []}

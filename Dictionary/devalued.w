@@ -1,0 +1,1 @@
+{"index": 83444, "D": "to deprive of value;  reduce the value  of.", "S": ["attenuated ", "blended ", "contaminated ", "corrupt ", "defiled ", "degraded ", "depreciated ", "deteriorated ", "diluted ", "dissolved ", "impaired ", "mixed ", "polluted ", "tainted ", "thinned ", "vitiated ", "weakened "], "A": ["clean ", "honorable ", "pure ", "purified ", "strong "]}

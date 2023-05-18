@@ -1,0 +1,1 @@
+{"index": 258013, "D": "a cockatiel, Leptolophus hollandicus, of scrub and woodland regions of inland Australia, that feeds on seeds and grasses", "S": [], "A": []}

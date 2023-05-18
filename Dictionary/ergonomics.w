@@ -1,0 +1,1 @@
+{"index": 103622, "D": "human engineering. ", "S": ["comfort design ", "functional design ", "human factors ", "user-friendly systems ", "workplace efficiency "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 357394, "D": "having the form of a duct or tube.", "S": [], "A": []}

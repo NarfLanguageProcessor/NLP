@@ -1,0 +1,1 @@
+{"index": 67643, "D": "(of a symptom or condition) to give indication against the advisability of (a particular or usual remedy or treatment).", "S": [], "A": []}

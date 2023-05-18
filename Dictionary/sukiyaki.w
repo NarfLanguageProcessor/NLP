@@ -1,0 +1,1 @@
+{"index": 310343, "D": "a Japanese dish made with beef, chicken, or pork and usually containing soy sauce, bean curd, and greens, often cooked over direct heat at the table.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 370007, "D": "any of various symbiotic yellow-green or yellow\u2013brown algae in the cytoplasm of certain radiolarians and marine invertebrates.", "S": [], "A": []}

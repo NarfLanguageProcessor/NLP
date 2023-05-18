@@ -1,0 +1,1 @@
+{"index": 225545, "D": "a statement or proposition that seems self-contradictory or absurd but in reality expresses a possible truth.", "S": [], "A": []}

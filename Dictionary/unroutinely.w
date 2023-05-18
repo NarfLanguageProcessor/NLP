@@ -1,0 +1,1 @@
+{"index": 350099, "D": "regularly or habitually; as a matter of course", "S": [], "A": []}

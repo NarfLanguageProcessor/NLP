@@ -1,0 +1,1 @@
+{"index": 360654, "D": "of, relating to, or resembling vitriol. ", "S": ["antagonistic ", "biting ", "bitter ", "caustic ", "harsh "], "A": ["agreeable ", "bland ", "calm ", "kind ", "mild ", "nice ", "sweet "]}

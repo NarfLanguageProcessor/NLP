@@ -1,0 +1,1 @@
+{"index": 128939, "D": "to subject to granitization. ", "S": [], "A": []}

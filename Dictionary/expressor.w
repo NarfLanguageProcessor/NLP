@@ -1,0 +1,1 @@
+{"index": 108031, "D": "to put (thought) into words; utter or state", "S": [], "A": []}

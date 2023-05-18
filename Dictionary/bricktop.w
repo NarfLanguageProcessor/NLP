@@ -1,0 +1,1 @@
+{"index": 40621, "D": "a person having red or reddish-brown hair.", "S": [], "A": []}

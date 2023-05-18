@@ -1,0 +1,1 @@
+{"index": 236382, "D": "resembling a pig,  especially in being slovenly, greedy, or gluttonous", "S": [], "A": []}

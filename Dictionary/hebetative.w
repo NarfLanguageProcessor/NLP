@@ -1,0 +1,1 @@
+{"index": 135064, "D": "to make dull or blunt.", "S": [], "A": []}

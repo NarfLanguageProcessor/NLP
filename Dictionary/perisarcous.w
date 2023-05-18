@@ -1,0 +1,1 @@
+{"index": 231288, "D": "the horny or chitinous outer case or covering protecting the soft parts of hydrozoans.", "S": [], "A": []}

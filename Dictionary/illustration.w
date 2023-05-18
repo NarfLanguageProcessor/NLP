@@ -1,0 +1,1 @@
+{"index": 147527, "D": "something that illustrates,  as a picture in a book or magazine.", "S": ["example ", "explanation ", "interpretation "], "A": []}

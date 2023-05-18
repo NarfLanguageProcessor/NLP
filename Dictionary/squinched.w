@@ -1,0 +1,1 @@
+{"index": 301982, "D": "a small arch, corbeling, or the like, built across the interior angle between two walls, as in a square tower for supporting the side of a superimposed octagonal spire.", "S": ["peek ", "peep "], "A": ["open "]}

@@ -1,0 +1,1 @@
+{"index": 327003, "D": "a structural part resembling a small beam or crossbar.", "S": [], "A": []}

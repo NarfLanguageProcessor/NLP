@@ -1,0 +1,1 @@
+{"index": 91209, "D": "plaintive, as if expressing sorrow (used as a musical direction).", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 215792, "D": "a large, two-toed, swift-footed flightless bird, Struthio camelus, indigenous to Africa and Arabia, domesticated for its plumage", "S": [], "A": []}

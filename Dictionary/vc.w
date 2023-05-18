@@ -1,0 +1,1 @@
+{"index": 357595, "D": "venture capital. ", "S": ["working capital "], "A": []}

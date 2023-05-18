@@ -1,0 +1,1 @@
+{"index": 60305, "D": "of, relating to, or resembling a clod  or boor; doltish; stolid.", "S": ["barbaric ", "churlish ", "coarse ", "impolite ", "rude ", "tasteless ", "uncivilized ", "vulgar "], "A": ["delicate ", "gentle ", "kind ", "mannerly ", "nice ", "pleasant ", "polished ", "polite ", "refined ", "smooth ", "sophisticated "]}

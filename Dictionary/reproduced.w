@@ -1,0 +1,1 @@
+{"index": 268627, "D": "to make a copy, representation, duplicate, or close imitation of", "S": ["blueprinted ", "dittoed ", "duplicated ", "manufactured ", "mimeographed ", "multiplied ", "photocopied ", "photographed ", "printed ", "recorded ", "repeated ", "replicated ", "reprinted ", "traced ", "transcribed ", "typed "], "A": []}

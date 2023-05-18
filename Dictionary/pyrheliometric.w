@@ -1,0 +1,1 @@
+{"index": 237697, "D": "an instrument for measuring the total intensity of the sun's energy radiation.", "S": [], "A": []}

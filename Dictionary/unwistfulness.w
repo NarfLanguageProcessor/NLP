@@ -1,0 +1,1 @@
+{"index": 354296, "D": "a mental state or emotion characterized by melancholy, longing, or pensiveness, or an instance of this", "S": [], "A": []}

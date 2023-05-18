@@ -1,0 +1,1 @@
+{"index": 318265, "D": "a system that allows viewers having television sets with special decoders to receive signals that display printed information as well as graphics on their screens.", "S": [], "A": []}

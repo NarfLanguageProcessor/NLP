@@ -1,0 +1,1 @@
+{"index": 289529, "D": "an Asian maiden who gained from her lover Apollo the gift of prophecy and long life.", "S": [], "A": []}

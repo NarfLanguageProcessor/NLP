@@ -1,0 +1,1 @@
+{"index": 12163, "D": "a former spelling of ankylose", "S": [], "A": []}

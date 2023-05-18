@@ -1,0 +1,1 @@
+{"index": 183449, "D": "a decent, upright, mature, and responsible person.", "S": [], "A": []}

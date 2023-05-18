@@ -1,0 +1,1 @@
+{"index": 260896, "D": "a long, loose, black gown with wide sleeves, worn by the clergy.", "S": [], "A": []}

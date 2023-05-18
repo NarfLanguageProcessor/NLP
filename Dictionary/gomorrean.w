@@ -1,0 +1,1 @@
+{"index": 127650, "D": "an ancient city destroyed, with Sodom, because of its wickedness. Genesis 19", "S": [], "A": []}

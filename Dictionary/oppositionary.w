@@ -1,0 +1,1 @@
+{"index": 213692, "D": "opposing, resisting, or combating; expressing a view or stance against something or someone", "S": [], "A": []}

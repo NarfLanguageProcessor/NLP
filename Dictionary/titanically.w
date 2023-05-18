@@ -1,0 +1,1 @@
+{"index": 324619, "D": "of or containing titanium,  especially in the tetravalent state.", "S": [], "A": []}

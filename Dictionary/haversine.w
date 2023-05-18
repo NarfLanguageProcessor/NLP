@@ -1,0 +1,1 @@
+{"index": 134423, "D": "one half the versed sine of a given angle or arc.", "S": [], "A": []}

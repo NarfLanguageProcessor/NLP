@@ -1,0 +1,1 @@
+{"index": 318320, "D": "a two-way teletypewriter service channeled through a public telecommunications system for instantaneous, direct communication between subscribers at remote locations.", "S": [], "A": []}

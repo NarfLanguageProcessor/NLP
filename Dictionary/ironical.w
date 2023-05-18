@@ -1,0 +1,1 @@
+{"index": 158074, "D": "pertaining to, of the nature of, exhibiting, or characterized by irony  or mockery", "S": ["contemptuous ", "cynic ", "derisive ", "ironic ", "misanthropic ", "misanthropical ", "mocking ", "pessimistic ", "sarcastic ", "sardonic ", "scoffing ", "scornful ", "skeptical ", "sneering ", "suspicious ", "unbelieving ", "wry "], "A": []}

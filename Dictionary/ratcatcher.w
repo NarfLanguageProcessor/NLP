@@ -1,0 +1,1 @@
+{"index": 260970, "D": "a person, animal, or thing that catches and exterminates rats,  especially a person whose business it is to rid a property of rats. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223526, "D": "(formerly in India and other Eastern countries) a passenger conveyance, usually for one person, consisting of a covered or boxlike litter carried by means of poles resting on the shoulders of several men.", "S": [], "A": []}

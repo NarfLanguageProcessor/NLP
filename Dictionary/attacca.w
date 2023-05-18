@@ -1,0 +1,1 @@
+{"index": 22919, "D": "begin immediately (directing a performer to go without pause to the next section).", "S": [], "A": []}

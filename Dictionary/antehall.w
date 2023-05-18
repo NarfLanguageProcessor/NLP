@@ -1,0 +1,1 @@
+{"index": 14136, "D": "a room or hall  serving as a waiting room and entrance to a larger hall. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118988, "D": "(used as an intensifier)", "S": [], "A": []}

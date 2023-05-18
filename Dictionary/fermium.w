@@ -1,0 +1,1 @@
+{"index": 111405, "D": "a transuranic element. Symbol", "S": [], "A": []}

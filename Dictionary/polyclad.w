@@ -1,0 +1,1 @@
+{"index": 241765, "D": "any free-swimming, marine flatworm of the order Polycladida, having a broad, flat body and a many-branched gastrovascular cavity.", "S": [], "A": []}

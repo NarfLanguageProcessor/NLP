@@ -1,0 +1,1 @@
+{"index": 151351, "D": "a variant of endue. ", "S": ["award ", "dower ", "endow ", "furnish ", "grant ", "invest ", "provide "], "A": ["take "]}

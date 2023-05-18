@@ -1,0 +1,1 @@
+{"index": 65388, "D": "to prepare or make by combining ingredients, especially in cooking", "S": ["bogus ", "counterfeit ", "fabricated ", "fictitious ", "forged ", "fraudulent ", "mock ", "phony ", "spurious "], "A": ["actual ", "authentic ", "genuine ", "real "]}

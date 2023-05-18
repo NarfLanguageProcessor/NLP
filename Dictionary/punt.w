@@ -1,0 +1,1 @@
+{"index": 256742, "D": "Compare drop kick, place kick. ", "S": ["boot ", "indentation ", "propel "], "A": []}

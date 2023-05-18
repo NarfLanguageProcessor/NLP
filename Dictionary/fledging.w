@@ -1,0 +1,1 @@
+{"index": 114347, "D": "to bring up (a young bird) until it is able to fly.", "S": [], "A": []}

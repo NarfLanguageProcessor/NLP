@@ -1,0 +1,1 @@
+{"index": 152362, "D": "to commit a breach or infraction of; violate or transgress", "S": ["breach ", "contravene ", "disobey ", "encroach ", "impose ", "intrude ", "meddle ", "offend ", "trespass "], "A": ["give ", "obey ", "receive "]}

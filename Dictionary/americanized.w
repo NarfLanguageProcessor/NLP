@@ -1,0 +1,1 @@
+{"index": 10309, "D": "to make or become American  in character; assimilate to the customs and institutions of the United States.", "S": [], "A": []}

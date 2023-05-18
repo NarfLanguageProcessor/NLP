@@ -1,0 +1,1 @@
+{"index": 364717, "D": "(a whistling exclamation or sound expressing astonishment, dismay, relief, etc.)", "S": ["dear me ", "gee whiz ", "gesundheit ", "golly ", "good gracious ", "goodness gracious ", "gosh ", "gracious sakes ", "oh dear ", "phew ", "well "], "A": []}

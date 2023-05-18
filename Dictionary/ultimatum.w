@@ -1,0 +1,1 @@
+{"index": 333843, "D": "a final, uncompromising demand or set of terms issued by a party to a dispute, the rejection of which may lead to a severance of relations or to the use of force.", "S": ["warning "], "A": []}

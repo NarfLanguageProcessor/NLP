@@ -1,0 +1,1 @@
+{"index": 307925, "D": "to convert into cork tissue.", "S": [], "A": []}

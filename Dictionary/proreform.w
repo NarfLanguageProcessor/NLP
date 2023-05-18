@@ -1,0 +1,1 @@
+{"index": 252924, "D": "in favour of or supporting reform, esp within politics", "S": [], "A": []}

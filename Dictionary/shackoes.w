@@ -1,0 +1,1 @@
+{"index": 287037, "D": "a military cap in the form of a cylinder or truncated cone, with a visor and a plume or pompon.", "S": [], "A": []}

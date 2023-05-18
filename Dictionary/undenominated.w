@@ -1,0 +1,1 @@
+{"index": 338742, "D": "to give a name to; denote; designate.", "S": [], "A": []}

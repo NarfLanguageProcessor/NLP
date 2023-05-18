@@ -1,0 +1,1 @@
+{"index": 192016, "D": "a female student who helps keep order or assists a teacher in school.", "S": [], "A": []}

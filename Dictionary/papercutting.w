@@ -1,0 +1,1 @@
+{"index": 225159, "D": "any device for cutting or trimming paper, typically a weighted, powered, or spring-hinged blade mounted on or over a ruled board or table on which many sheets of paper may be aligned for cutting at one time.", "S": [], "A": []}

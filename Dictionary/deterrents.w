@@ -1,0 +1,1 @@
+{"index": 83194, "D": "serving or tending to deter. ", "S": ["disincentive ", "hindrance ", "obstacle "], "A": ["assistance ", "help ", "encouragement "]}

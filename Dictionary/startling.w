@@ -1,0 +1,1 @@
+{"index": 302973, "D": "creating sudden alarm, surprise, or wonder; astonishing.", "S": ["alarming ", "astonishing ", "shocking ", "surprising ", "unexpected "], "A": ["expected "]}

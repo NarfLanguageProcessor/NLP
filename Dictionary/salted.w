@@ -1,0 +1,1 @@
+{"index": 277283, "D": "seasoned, cured, or otherwise treated with salt. ", "S": ["briny ", "saline ", "saltish ", "salty ", "slightly salty "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 133641, "D": "a person or thing that hardens. ", "S": [], "A": []}

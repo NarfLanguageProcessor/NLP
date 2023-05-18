@@ -1,0 +1,1 @@
+{"index": 152914, "D": "a linen tape used for trimmings.", "S": [], "A": []}

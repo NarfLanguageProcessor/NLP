@@ -1,0 +1,1 @@
+{"index": 257265, "D": "a hard or stony endocarp, as a peach stone.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 276719, "D": "a member of any of several American Indian peoples of Oregon, Washington, and Idaho.", "S": [], "A": []}

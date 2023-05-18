@@ -1,0 +1,1 @@
+{"index": 265312, "D": "refractive (def. 2). ", "S": [], "A": []}

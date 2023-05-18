@@ -1,0 +1,1 @@
+{"index": 332279, "D": "any of various plants, as Amaranthus albus, A. graecizans, or the Russian thistle, Salsola kali, whose branching upper parts become detached from the roots and are driven about by the wind.", "S": [], "A": []}

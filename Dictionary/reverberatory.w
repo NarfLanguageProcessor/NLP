@@ -1,0 +1,1 @@
+{"index": 271209, "D": "characterized or produced by reverberation.", "S": [], "A": []}

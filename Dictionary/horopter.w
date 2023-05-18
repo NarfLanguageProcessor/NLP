@@ -1,0 +1,1 @@
+{"index": 143933, "D": "a projection of the points in the visual field corresponding to the aggregate of points registering on the two retinas.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309754, "D": "of or relating to any macromolecule smaller in size or possessing a lesser degree of organization than a comparable intact viral  particle.", "S": [], "A": []}

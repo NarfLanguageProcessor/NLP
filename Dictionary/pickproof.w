@@ -1,0 +1,1 @@
+{"index": 235929, "D": "(of a lock) designed so that it cannot be picked. ", "S": [], "A": []}

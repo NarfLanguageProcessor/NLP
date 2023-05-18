@@ -1,0 +1,1 @@
+{"index": 152578, "D": "of, relating to, or involving ingress. ", "S": [], "A": []}

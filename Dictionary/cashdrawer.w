@@ -1,0 +1,1 @@
+{"index": 48866, "D": "a drawer,  as in a cash register,  that has separate compartments for coins and bills of different denominations.", "S": ["box ", "kitty ", "safe ", "tray ", "treasury ", "vault "], "A": []}

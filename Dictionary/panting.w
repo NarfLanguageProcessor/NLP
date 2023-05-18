@@ -1,0 +1,1 @@
+{"index": 224959, "D": "to breathe hard and quickly, as after exertion.", "S": ["gasping ", "heaving "], "A": []}

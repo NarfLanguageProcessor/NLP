@@ -1,0 +1,1 @@
+{"index": 365959, "D": "accompanied or characterized by wind", "S": ["blustery ", "boisterous ", "brisk ", "gusty ", "stormy ", "windswept "], "A": ["calm ", "quiet "]}

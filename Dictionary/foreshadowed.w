@@ -1,0 +1,1 @@
+{"index": 116951, "D": "to show or indicate beforehand; prefigure", "S": ["hidden ", "implicit ", "indirect ", "latent ", "lurking ", "tacit ", "unspoken "], "A": ["explicit ", "open "]}

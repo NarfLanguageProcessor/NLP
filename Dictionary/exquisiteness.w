@@ -1,0 +1,1 @@
+{"index": 108093, "D": "of special beauty or charm, or rare and appealing excellence, as a face, a flower, coloring, music, or poetry.", "S": ["allure ", "artistry ", "charm ", "delicacy ", "elegance ", "good looks ", "grace ", "refinement ", "style "], "A": ["crudeness ", "inelegance ", "roughness "]}

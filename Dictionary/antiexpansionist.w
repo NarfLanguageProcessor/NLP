@@ -1,0 +1,1 @@
+{"index": 15221, "D": "a policy of expansion,  as of territory or currency", "S": [], "A": []}

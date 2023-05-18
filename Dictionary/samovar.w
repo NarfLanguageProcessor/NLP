@@ -1,0 +1,1 @@
+{"index": 277577, "D": "a metal urn, used especially by Russians for heating water for making tea.", "S": ["container ", "jar ", "vase "], "A": []}

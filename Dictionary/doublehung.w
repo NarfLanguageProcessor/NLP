@@ -1,0 +1,1 @@
+{"index": 91965, "D": "(of a window) having two vertically sliding sashes, each closing a different part of the opening.", "S": [], "A": []}

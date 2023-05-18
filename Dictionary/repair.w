@@ -1,0 +1,1 @@
+{"index": 267984, "D": "to restore to a good or sound condition after decay or damage; mend", "S": ["adjustment ", "improvement ", "overhaul ", "reconstruction ", "rehabilitation ", "replacement "], "A": ["breaking ", "damage ", "destruction ", "harm ", "hurt ", "injury ", "neglect ", "wrecking "]}

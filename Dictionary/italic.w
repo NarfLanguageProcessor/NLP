@@ -1,0 +1,1 @@
+{"index": 159454, "D": "designating or pertaining to a style of printing types in which the letters usually slope to the right, patterned upon a compact manuscript hand, and used for emphasis, to separate different kinds of information, etc.", "S": ["font "], "A": []}

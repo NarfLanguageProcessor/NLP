@@ -1,0 +1,1 @@
+{"index": 350306, "D": "not having been given permission or authorization", "S": ["contraband ", "illicit ", "pirated ", "smuggled ", "unauthorized "], "A": ["legal ", "permitted "]}

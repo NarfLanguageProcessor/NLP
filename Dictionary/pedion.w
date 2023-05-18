@@ -1,0 +1,1 @@
+{"index": 228932, "D": "a crystal form having only a single face, without a symmetrical equivalent", "S": [], "A": []}

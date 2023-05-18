@@ -1,0 +1,1 @@
+{"index": 223625, "D": "(no longer in technical use) the more primitive part of the brain in the evolutionary development of animals, including all parts except the cerebral cortex and its related structures.", "S": [], "A": []}

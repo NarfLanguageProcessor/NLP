@@ -1,0 +1,1 @@
+{"index": 296672, "D": "(especially in Spain) a series of casks, graded according to age, in which sherries and brandies are stored while maturing.", "S": [], "A": []}

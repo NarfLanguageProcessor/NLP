@@ -1,0 +1,1 @@
+{"index": 131328, "D": "a small, armed warship of light draft, used in ports where the water is shallow.", "S": ["bottle ", "bucket ", "canister ", "jar ", "package "], "A": []}

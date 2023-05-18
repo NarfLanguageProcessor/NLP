@@ -1,0 +1,1 @@
+{"index": 179706, "D": "a native or inhabitant of the Isle of Man.", "S": [], "A": []}

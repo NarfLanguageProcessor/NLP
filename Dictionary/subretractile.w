@@ -1,0 +1,1 @@
+{"index": 308997, "D": "capable of being drawn back or in, as the head of a tortoise; exhibiting the power of retraction.", "S": [], "A": []}

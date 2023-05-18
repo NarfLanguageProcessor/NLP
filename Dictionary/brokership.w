@@ -1,0 +1,1 @@
+{"index": 41208, "D": "an agent who buys or sells for a principal on a commission basis without having title to the property.", "S": [], "A": []}

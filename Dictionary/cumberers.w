@@ -1,0 +1,1 @@
+{"index": 74896, "D": "to hinder; hamper.", "S": [], "A": []}

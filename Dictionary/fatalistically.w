@@ -1,0 +1,1 @@
+{"index": 110236, "D": "demonstrating a belief that all events are inevitable, so one\u2019s choices and actions make no difference", "S": [], "A": []}

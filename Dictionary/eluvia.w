@@ -1,0 +1,1 @@
+{"index": 97855, "D": "a deposit of soil, dust, etc., formed from the decomposition of rock and found in its place of origin.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 163840, "D": "a game of chance, adapted from lotto for gambling purposes.", "S": [], "A": []}

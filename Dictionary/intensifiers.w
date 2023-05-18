@@ -1,0 +1,1 @@
+{"index": 154375, "D": "a person or thing that intensifies. ", "S": [], "A": []}

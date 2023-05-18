@@ -1,0 +1,1 @@
+{"index": 151884, "D": "not fecund; unfruitful; barren.", "S": ["childlessness ", "fruitlessness ", "impotence ", "infertility ", "unproductiveness "], "A": ["fecundity ", "fertility ", "fruitfulness "]}

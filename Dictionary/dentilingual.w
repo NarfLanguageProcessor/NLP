@@ -1,0 +1,1 @@
+{"index": 81311, "D": "articulated with the tongue near or touching the front teeth; interdental.", "S": [], "A": []}

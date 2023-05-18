@@ -1,0 +1,1 @@
+{"index": 348494, "D": "to produce (a text, picture, etc.) by applying inked types, plates, blocks, or the like, to paper or other material either by direct pressure or indirectly by offsetting an image onto an intermediate roller.", "S": ["not circulated ", "not in print ", "not printed "], "A": ["printed ", "published "]}

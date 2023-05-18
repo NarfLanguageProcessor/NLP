@@ -1,0 +1,1 @@
+{"index": 339139, "D": "to educate  too little or poorly.", "S": [], "A": []}

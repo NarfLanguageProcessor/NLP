@@ -1,0 +1,1 @@
+{"index": 99249, "D": "to bind in or as in chain or chains; fetter; restrain", "S": [], "A": []}

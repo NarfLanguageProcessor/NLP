@@ -1,0 +1,1 @@
+{"index": 67080, "D": "limitation or restriction.", "S": ["pressure ", "restraint "], "A": ["deterrent ", "discouragement ", "freedom ", "hindrance ", "liberty "]}

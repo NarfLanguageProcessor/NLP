@@ -1,0 +1,1 @@
+{"index": 21592, "D": "of or relating to Assam,  its inhabitants, or their language.", "S": [], "A": []}

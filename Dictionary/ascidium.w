@@ -1,0 +1,1 @@
+{"index": 20983, "D": "a baglike or pitcherlike part.", "S": [], "A": []}

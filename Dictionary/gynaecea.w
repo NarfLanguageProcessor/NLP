@@ -1,0 +1,1 @@
+{"index": 125127, "D": "(among the ancient Greeks) the part of a dwelling used by women.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 63014, "D": "(of the properties of a substance) depending on the number of molecules or atoms rather than on their nature.", "S": [], "A": []}

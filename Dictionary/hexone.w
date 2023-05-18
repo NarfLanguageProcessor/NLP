@@ -1,0 +1,1 @@
+{"index": 138102, "D": "any of various organic ketones containing six atoms of carbon in the molecule.", "S": [], "A": []}

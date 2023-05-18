@@ -1,0 +1,1 @@
+{"index": 220557, "D": "to police excessively, as by maintaining a large police presence or by responding aggressively to minor offenses", "S": [], "A": []}

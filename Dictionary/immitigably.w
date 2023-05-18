@@ -1,0 +1,1 @@
+{"index": 148009, "D": "unable to be mitigated;  not to be mitigated.", "S": [], "A": []}

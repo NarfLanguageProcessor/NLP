@@ -1,0 +1,1 @@
+{"index": 40303, "D": "a pin  worn on the breast  or at the throat; brooch.", "S": ["jewelry "], "A": []}

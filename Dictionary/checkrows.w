@@ -1,0 +1,1 @@
+{"index": 53377, "D": "one of a number of rows  of trees or plants, especially corn, in which the distance between adjacent trees or plants is equal to that between adjacent rows. ", "S": [], "A": []}

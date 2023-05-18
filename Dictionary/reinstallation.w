@@ -1,0 +1,1 @@
+{"index": 266384, "D": "something installed,  as machinery or apparatus placed in position or connected for use.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 336783, "D": "capable of being checked,  as by inquiry or verification", "S": [], "A": []}

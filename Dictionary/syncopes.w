@@ -1,0 +1,1 @@
+{"index": 291466, "D": "the contraction of a word by omitting one or more sounds from the middle, as in the reduction of never to ne'er.", "S": ["collapse ", "coma ", "faint ", "swoon ", "unconsciousness "], "A": ["consciousness "]}

@@ -1,0 +1,1 @@
+{"index": 237612, "D": "a glycoside containing a pyran ring structure.", "S": [], "A": []}

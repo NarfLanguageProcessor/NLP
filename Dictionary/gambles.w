@@ -1,0 +1,1 @@
+{"index": 121637, "D": "to play at any game of chance for money or other stakes.", "S": ["bet ", "long shot ", "venture ", "wager "], "A": ["certainty ", "sureness "]}

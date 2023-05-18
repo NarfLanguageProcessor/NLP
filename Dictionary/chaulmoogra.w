@@ -1,0 +1,1 @@
+{"index": 53182, "D": "any of several trees of the genus Hydnocarpus (or Taraktogenos), of southeastern Asia, especially H. kurzii, the seeds of which yield chaulmoogra oil.", "S": [], "A": []}

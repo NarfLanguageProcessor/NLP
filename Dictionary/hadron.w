@@ -1,0 +1,1 @@
+{"index": 131960, "D": "any elementary particle that is subject to the strong interaction. Hadrons are subdivided into baryons and mesons.", "S": [], "A": []}

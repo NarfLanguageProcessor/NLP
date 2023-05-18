@@ -1,0 +1,1 @@
+{"index": 38519, "D": "to take or obtain with the promise to return the same or an equivalent", "S": ["acquire ", "hire ", "obtain ", "rent "], "A": ["forfeit ", "lose ", "give "]}

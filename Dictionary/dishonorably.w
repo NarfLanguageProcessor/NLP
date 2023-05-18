@@ -1,0 +1,1 @@
+{"index": 88301, "D": "showing lack of honor  or integrity; ignoble; base; disgraceful; shameful", "S": ["maliciously "], "A": ["honestly ", "truthfully "]}

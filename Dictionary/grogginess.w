@@ -1,0 +1,1 @@
+{"index": 130147, "D": "staggering, as from exhaustion or blows", "S": [], "A": []}

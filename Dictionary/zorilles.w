@@ -1,0 +1,1 @@
+{"index": 370023, "D": "a weasellike African animal, Ictonyx striatus, resembling a skunk in coloration and habits.", "S": [], "A": []}

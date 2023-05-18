@@ -1,0 +1,1 @@
+{"index": 276269, "D": "a small chapel, as a monument within a church.", "S": ["chapel ", "mosque ", "parish ", "sanctuary ", "shrine ", "synagogue ", "temple "], "A": []}

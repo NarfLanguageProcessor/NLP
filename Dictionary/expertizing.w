@@ -1,0 +1,1 @@
+{"index": 107755, "D": "to study or investigate as an expert. ", "S": [], "A": []}

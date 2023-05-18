@@ -1,0 +1,1 @@
+{"index": 78440, "D": "to speak aloud in an oratorical manner; make a formal speech", "S": ["discourser ", "haranguer ", "lecturer ", "orator ", "speechmaker "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 342633, "D": "a person who founds  or establishes something, as a company or institution.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 228607, "D": "hypocritically and unctuously affecting benevolence or high moral principles.", "S": [], "A": []}

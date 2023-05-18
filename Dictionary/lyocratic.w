@@ -1,0 +1,1 @@
+{"index": 173044, "D": "noting a colloid owing its stability to the affinity of its particles for the liquid in which they are dispersed.", "S": [], "A": []}

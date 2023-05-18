@@ -1,0 +1,1 @@
+{"index": 296881, "D": "of or relating to a solstice or the solstices", "S": [], "A": []}

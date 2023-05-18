@@ -1,0 +1,1 @@
+{"index": 182626, "D": "a member of an order of Armenian monks founded in Constantinople in the 18th century and following the rule of St. Benedict.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 355732, "D": "the notochord of an ascidian or tunicate, more conspicuous in the larva than in the adult and confined chiefly to the caudal region.", "S": [], "A": []}

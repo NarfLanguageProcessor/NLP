@@ -1,0 +1,1 @@
+{"index": 354070, "D": "given to or characterized by useless consumption or expenditure", "S": [], "A": []}

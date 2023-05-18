@@ -1,0 +1,1 @@
+{"index": 250942, "D": "the act of allotting. ", "S": [], "A": []}

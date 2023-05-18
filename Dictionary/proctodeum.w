@@ -1,0 +1,1 @@
+{"index": 251414, "D": "a depression in the ectoderm of the anal region of a young embryo, which develops into part of the anal canal.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151834, "D": "a localized area of tissue, as in the heart or kidney, that is dying or dead, having been deprived of its blood supply because of an obstruction by embolism or thrombosis.", "S": [], "A": []}

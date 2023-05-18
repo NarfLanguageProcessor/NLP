@@ -1,0 +1,1 @@
+{"index": 312275, "D": "tending to involve, or extending authority over, more than one nation; international; supranational.", "S": [], "A": []}

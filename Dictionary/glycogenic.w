@@ -1,0 +1,1 @@
+{"index": 126250, "D": "of or relating to glycogen. ", "S": [], "A": []}

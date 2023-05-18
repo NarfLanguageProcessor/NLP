@@ -1,0 +1,1 @@
+{"index": 343067, "D": "past participle of give. ", "S": [], "A": []}

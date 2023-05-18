@@ -1,0 +1,1 @@
+{"index": 191163, "D": "gently in manner, firmly in action.", "S": [], "A": []}

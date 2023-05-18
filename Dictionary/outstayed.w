@@ -1,0 +1,1 @@
+{"index": 217584, "D": "to stay  longer than.", "S": ["hang on ", "outlive ", "survive "], "A": ["cease "]}

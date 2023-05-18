@@ -1,0 +1,1 @@
+{"index": 82133, "D": "belonging or pertaining to the insect order Dermaptera, comprising the earwigs.", "S": [], "A": []}

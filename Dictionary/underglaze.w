@@ -1,0 +1,1 @@
+{"index": 339263, "D": "(of a color or decoration) applied to a piece before the piece isglazed. ", "S": [], "A": []}

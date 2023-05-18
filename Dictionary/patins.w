@@ -1,0 +1,1 @@
+{"index": 227826, "D": "a metal plate on which the bread is placed in the celebration of the Eucharist.", "S": [], "A": []}

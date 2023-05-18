@@ -1,0 +1,1 @@
+{"index": 102016, "D": "the repetition of a group of words in reverse order.", "S": [], "A": []}

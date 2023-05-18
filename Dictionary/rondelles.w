@@ -1,0 +1,1 @@
+{"index": 274147, "D": "a small disk of glass used as an ornament in a stained-glass window.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 309935, "D": "a fundamental, intrinsic, or characteristic quality or condition", "S": [], "A": []}

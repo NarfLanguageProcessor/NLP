@@ -1,0 +1,1 @@
+{"index": 82416, "D": "Compare exaltation (def. 6). ", "S": [], "A": []}

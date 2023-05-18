@@ -1,0 +1,1 @@
+{"index": 341524, "D": "light, airy, or tenuous", "S": [], "A": []}

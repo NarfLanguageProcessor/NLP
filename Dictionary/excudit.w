@@ -1,0 +1,1 @@
+{"index": 106868, "D": "he printed or engraved (this); she printed or engraved (this). Abbreviation", "S": [], "A": []}

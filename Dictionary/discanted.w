@@ -1,0 +1,1 @@
+{"index": 87241, "D": "a 13th-century polyphonic style with strict mensural meter in all the voice parts, in contrast to the metrically free organum of the period.", "S": [], "A": []}

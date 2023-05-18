@@ -1,0 +1,1 @@
+{"index": 124037, "D": "of or relating to the period of British history from the accession of George I  in 1714 to the death of George IV  in 1830, or the four kings named George who reigned successively during this period.", "S": [], "A": []}

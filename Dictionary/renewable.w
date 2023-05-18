@@ -1,0 +1,1 @@
+{"index": 267634, "D": "able to be renewed", "S": ["inexhaustible ", "sustainable "], "A": ["unsustainable ", "unendurable ", "unsuitable ", "untenable "]}

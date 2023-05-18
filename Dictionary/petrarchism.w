@@ -1,0 +1,1 @@
+{"index": 232449, "D": "the poetic style introduced by Petrarch  and characteristic of his work, marked by complex grammatical structure, elaborate conceits, and conventionalized diction.", "S": [], "A": []}

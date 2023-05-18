@@ -1,0 +1,1 @@
+{"index": 314115, "D": "simple past tense of swear. ", "S": [], "A": []}

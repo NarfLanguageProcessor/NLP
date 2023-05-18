@@ -1,0 +1,1 @@
+{"index": 312812, "D": "executed without negligence or omissions", "S": [], "A": []}

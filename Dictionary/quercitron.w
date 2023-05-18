@@ -1,0 +1,1 @@
+{"index": 258351, "D": "an oak, Quercus velutina, of eastern North America, the inner bark of which yields a yellow dye.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 34924, "D": "a trillium, Trillium erectum, the roots  of which were formerly used in medicine as an astringent.", "S": [], "A": []}

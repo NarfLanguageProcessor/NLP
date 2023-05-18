@@ -1,0 +1,1 @@
+{"index": 273179, "D": "a quick, sharp return in speech or action; counterstroke", "S": [], "A": []}

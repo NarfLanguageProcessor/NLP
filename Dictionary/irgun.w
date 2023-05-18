@@ -1,0 +1,1 @@
+{"index": 157919, "D": "a militant Zionist underground group, active chiefly during the period (1917\u201348) of British control by mandate of Palestine.", "S": [], "A": []}

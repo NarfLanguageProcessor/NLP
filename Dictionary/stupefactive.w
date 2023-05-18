@@ -1,0 +1,1 @@
+{"index": 306930, "D": "serving to stupefy.", "S": ["calming "], "A": ["exciting ", "stimulating "]}

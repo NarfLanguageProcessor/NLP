@@ -1,0 +1,1 @@
+{"index": 270982, "D": "having an obtuse or rounded apex with a shallow notch, as leaves.", "S": [], "A": []}

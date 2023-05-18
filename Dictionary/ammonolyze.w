@@ -1,0 +1,1 @@
+{"index": 10802, "D": "to subject to ammonolysis. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 162091, "D": "before a judge or court; awaiting judicial determination.", "S": [], "A": []}

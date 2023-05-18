@@ -1,0 +1,1 @@
+{"index": 338716, "D": "to make or become democratic. ", "S": [], "A": []}

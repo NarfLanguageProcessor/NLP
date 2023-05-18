@@ -1,0 +1,1 @@
+{"index": 19201, "D": "(in Roman catacombs) an arched recess for a sarcophagus.", "S": [], "A": []}

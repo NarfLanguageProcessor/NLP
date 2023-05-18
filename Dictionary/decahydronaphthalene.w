@@ -1,0 +1,1 @@
+{"index": 77941, "D": "a colorless, aromatic liquid, C10H18, insoluble in water and soluble in alcohol and ether", "S": [], "A": []}

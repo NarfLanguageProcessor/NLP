@@ -1,0 +1,1 @@
+{"index": 157981, "D": "a guanine-containing cell in the skin of fish and some cephalopods, giving these animals their iridescence", "S": [], "A": []}

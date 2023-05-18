@@ -1,0 +1,1 @@
+{"index": 235125, "D": "a recording on photographic film of images produced by a fluoroscopic examination.", "S": [], "A": []}

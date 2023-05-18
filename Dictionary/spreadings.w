@@ -1,0 +1,1 @@
+{"index": 301228, "D": [], "S": ["advance ", "advancement ", "dissemination ", "escalation ", "increase ", "spreading ", "transmission "], "A": ["halt ", "stop ", "abridgment ", "compression ", "decrease ", "extreme ", "reduction "]}

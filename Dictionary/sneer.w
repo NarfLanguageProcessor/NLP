@@ -1,0 +1,1 @@
+{"index": 295430, "D": "to smile, laugh, or contort the face in a manner that shows scorn or contempt", "S": ["belittle ", "deride ", "grin ", "jeer ", "scoff ", "taunt "], "A": ["compliment ", "praise ", "admire ", "applaud ", "approve ", "commend ", "flatter ", "laud ", "respect "]}

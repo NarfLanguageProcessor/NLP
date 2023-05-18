@@ -1,0 +1,1 @@
+{"index": 188289, "D": "million instructions per second", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 141254, "D": "a layer of hyphae rimming the thallus  of certain lichens.", "S": [], "A": []}

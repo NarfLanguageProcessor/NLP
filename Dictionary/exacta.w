@@ -1,0 +1,1 @@
+{"index": 106379, "D": "a type of bet, especially on horse races, in which the bettor must select the first- and second-place finishers in exact order.", "S": [], "A": []}

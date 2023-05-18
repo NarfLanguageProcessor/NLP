@@ -1,0 +1,1 @@
+{"index": 245555, "D": "a person who regards someone or something with wonder, pleasure, or approval", "S": [], "A": []}

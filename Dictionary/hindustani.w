@@ -1,0 +1,1 @@
+{"index": 139694, "D": "Compare Hindi (def. 2), Urdu. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 250204, "D": "state or quality of being vigilant;  watchfulness", "S": [], "A": []}

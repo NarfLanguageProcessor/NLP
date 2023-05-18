@@ -1,0 +1,1 @@
+{"index": 369726, "D": "a little zone, belt, band, or the like.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 244048, "D": "to think (something) wrong or reprehensible; censure or condemn in opinion.", "S": [], "A": []}

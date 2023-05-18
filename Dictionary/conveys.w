@@ -1,0 +1,1 @@
+{"index": 67935, "D": "to carry, bring, or take from one place to another; transport; bear. ", "S": ["bring ", "send ", "transfer ", "transmit "], "A": ["receive ", "take ", "deny ", "discourage ", "dissuade ", "free ", "hold ", "keep ", "leave ", "let go ", "lose ", "maintain ", "neglect ", "refuse ", "release ", "stop "]}

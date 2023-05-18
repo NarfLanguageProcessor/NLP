@@ -1,0 +1,1 @@
+{"index": 170895, "D": "to make lethargic; stupefy.", "S": [], "A": []}

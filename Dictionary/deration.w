@@ -1,0 +1,1 @@
+{"index": 82010, "D": "to discontinue the rationing  of (something).", "S": [], "A": []}

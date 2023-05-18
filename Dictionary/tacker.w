@@ -1,0 +1,1 @@
+{"index": 315069, "D": "a person or thing that tacks", "S": [], "A": []}

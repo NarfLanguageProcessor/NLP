@@ -1,0 +1,1 @@
+{"index": 237524, "D": "the fact or quality of being pleasantly strong, sharp, or tart in taste or flavor", "S": [], "A": []}

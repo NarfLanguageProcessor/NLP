@@ -1,0 +1,1 @@
+{"index": 170025, "D": "to make legal;  authorize.", "S": ["accepted ", "allowed ", "authorized ", "backed ", "endorsed ", "passed ", "permitted ", "ratified ", "recognized ", "sanctioned ", "supported "], "A": ["disapproved ", "refused ", "uncertain "]}

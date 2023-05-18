@@ -1,0 +1,1 @@
+{"index": 337787, "D": "showing restraint or calmness; controlled; poised", "S": [], "A": []}

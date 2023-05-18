@@ -1,0 +1,1 @@
+{"index": 357524, "D": "the stage of winemaking during which the expressed juice of grapes has been placed in vats  and left to ferment.", "S": [], "A": []}

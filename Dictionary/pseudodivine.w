@@ -1,0 +1,1 @@
+{"index": 254686, "D": "of or relating to a god, especially the Supreme Being. ", "S": [], "A": []}

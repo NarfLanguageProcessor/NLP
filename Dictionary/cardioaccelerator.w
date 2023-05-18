@@ -1,0 +1,1 @@
+{"index": 47774, "D": "a substance that increases the heart rate.", "S": [], "A": []}

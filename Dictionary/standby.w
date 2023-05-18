@@ -1,0 +1,1 @@
+{"index": 302673, "D": "a staunch supporter or adherent; one who can be relied upon.", "S": ["assistant ", "backup ", "deputy ", "double ", "fill in ", "relief ", "replacement ", "reserve ", "stalwart ", "stand-by ", "stand-in ", "sub ", "successor ", "temp ", "temporary ", "understudy "], "A": []}

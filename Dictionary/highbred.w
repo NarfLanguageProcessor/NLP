@@ -1,0 +1,1 @@
+{"index": 139236, "D": "of superior breed.", "S": ["blood ", "full-blooded ", "gentle ", "graded ", "highborn ", "imperial ", "kingly ", "noble ", "papered ", "patrician ", "pedigree ", "pedigreed ", "pure-blooded ", "pureblood ", "pureblooded ", "purebred ", "queenly ", "titled ", "wellborn "], "A": []}

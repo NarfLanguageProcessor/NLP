@@ -1,0 +1,1 @@
+{"index": 331549, "D": "a self-evident, obvious truth.", "S": [], "A": []}

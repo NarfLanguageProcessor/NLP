@@ -1,0 +1,1 @@
+{"index": 213326, "D": "a short opera, usually of a light and amusing character.", "S": [], "A": []}

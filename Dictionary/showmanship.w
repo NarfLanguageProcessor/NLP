@@ -1,0 +1,1 @@
+{"index": 289094, "D": "the skill or ability of a showman. ", "S": ["comedy ", "farce ", "melodrama ", "play ", "production ", "scene ", "show ", "theater ", "tragedy "], "A": ["tragedy "]}

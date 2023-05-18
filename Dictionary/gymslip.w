@@ -1,0 +1,1 @@
+{"index": 125124, "D": "a tunic or pinafore dress worn by schoolgirls, often part of a school uniform", "S": [], "A": []}

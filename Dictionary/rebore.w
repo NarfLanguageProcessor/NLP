@@ -1,0 +1,1 @@
+{"index": 262381, "D": "the process of boring out the cylinders of a worn reciprocating engine and fitting oversize pistons", "S": [], "A": []}

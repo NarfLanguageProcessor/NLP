@@ -1,0 +1,1 @@
+{"index": 337982, "D": "the exclusive right  to make copies,  license, and otherwise exploit a literary, musical, or artistic work, whether printed, audio, video, etc.", "S": [], "A": []}

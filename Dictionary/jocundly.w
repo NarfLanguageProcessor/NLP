@@ -1,0 +1,1 @@
+{"index": 161509, "D": "cheerful; merry; blithe; glad", "S": ["cheerfully ", "cheerily ", "cordially ", "enthusiastically ", "freely ", "gleefully ", "gratefully ", "heartily ", "readily ", "warmly ", "willingly "], "A": ["unwillingly "]}

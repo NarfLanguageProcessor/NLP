@@ -1,0 +1,1 @@
+{"index": 3175, "D": "any of several rod-shaped or filamentous, aerobic or anaerobic bacteria of the phylum Chlamydobacteriae, or in some classification schemes, the order Actinomycetales, certain species of which are pathogenic for humans and animals.", "S": [], "A": []}

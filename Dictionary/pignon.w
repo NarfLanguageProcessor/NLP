@@ -1,0 +1,1 @@
+{"index": 236443, "D": "the edible seed of the cones of certain pines, as the nut pine, Pinus pinea, of southern Europe.", "S": [], "A": []}

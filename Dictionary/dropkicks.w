@@ -1,0 +1,1 @@
+{"index": 93351, "D": [], "S": ["bounce ", "eject ", "evict ", "expel ", "knock ", "shove "], "A": ["admit ", "allow ", "permit ", "take in ", "welcome ", "employ ", "engage ", "hire ", "hold ", "keep "]}

@@ -1,0 +1,1 @@
+{"index": 231115, "D": "of or relating to the periodontium.", "S": [], "A": []}

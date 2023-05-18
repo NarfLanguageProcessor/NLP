@@ -1,0 +1,1 @@
+{"index": 318646, "D": "that tempts;  enticing or inviting.", "S": ["appetizing ", "attractive ", "enticing ", "fascinating ", "heavenly ", "intriguing ", "seductive ", "tantalizing "], "A": ["distasteful ", "repulsive ", "ugly ", "repellent "]}

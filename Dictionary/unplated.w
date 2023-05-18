@@ -1,0 +1,1 @@
+{"index": 348013, "D": "coated with a thin film of gold, silver, etc., as for ornamental purposes.", "S": [], "A": []}

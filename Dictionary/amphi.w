@@ -1,0 +1,1 @@
+{"index": 11033, "D": "a prefix occurring in loanwords from Greek (amphibious); on this model, used with the meaning \u201ctwo,\u201d \u201cboth,\u201d \u201con both sides,\u201d in the formation of compound words", "S": [], "A": []}

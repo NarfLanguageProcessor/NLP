@@ -1,0 +1,1 @@
+{"index": 281804, "D": "a person who serves as a professional copyist, especially one who made copies of manuscripts before the invention of printing.", "S": ["clerk ", "copier ", "copyist ", "scrivener ", "secretary ", "transcriber "], "A": []}

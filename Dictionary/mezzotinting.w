@@ -1,0 +1,1 @@
+{"index": 185600, "D": "a method of engraving on copper or steel by burnishing or scraping away a uniformly roughened surface.", "S": ["chisel ", "embed ", "etch ", "imprint ", "ingrain ", "inscribe "], "A": ["aid ", "dislodge ", "help ", "neglect "]}

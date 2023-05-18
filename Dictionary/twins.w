@@ -1,0 +1,1 @@
+{"index": 333403, "D": "the constellation Gemini, the third sign of the zodiac", "S": ["combination ", "couple ", "duo ", "match ", "team ", "two "], "A": ["one ", "single "]}

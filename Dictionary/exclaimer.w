@@ -1,0 +1,1 @@
+{"index": 106734, "D": "to cry out or speak suddenly and vehemently, as in surprise, strong emotion, or protest.", "S": [], "A": []}

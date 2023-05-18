@@ -1,0 +1,1 @@
+{"index": 168023, "D": "the part of a plow consisting of a sidepiece opposite the moldboard, for guiding the plow and resisting the side  pressure caused by the turning of the furrow.", "S": [], "A": []}

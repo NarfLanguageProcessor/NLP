@@ -1,0 +1,1 @@
+{"index": 18117, "D": "(of a classical temple) not having a surrounding colonnade; not peripteral.", "S": [], "A": []}

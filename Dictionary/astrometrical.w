@@ -1,0 +1,1 @@
+{"index": 22299, "D": "the branch of astronomy that deals with the measurement of the positions and motions of the celestial bodies.", "S": [], "A": []}

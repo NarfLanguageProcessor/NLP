@@ -1,0 +1,1 @@
+{"index": 102052, "D": "extending inland from a continental margin", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 48614, "D": "of or relating to Carthage or its inhabitants", "S": [], "A": []}

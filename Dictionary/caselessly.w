@@ -1,0 +1,1 @@
+{"index": 48819, "D": "an instance of the occurrence, existence, etc., of something", "S": [], "A": []}

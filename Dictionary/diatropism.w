@@ -1,0 +1,1 @@
+{"index": 84627, "D": "the tendency of some plant organs to take a transverse position to the line of action of an outside stimulus.", "S": [], "A": []}

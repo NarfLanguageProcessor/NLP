@@ -1,0 +1,1 @@
+{"index": 230750, "D": "encompassing or surrounding the tip of the root of a tooth.", "S": [], "A": []}

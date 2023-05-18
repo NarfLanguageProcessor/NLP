@@ -1,0 +1,1 @@
+{"index": 178968, "D": "a schematized representation of the cosmos, chiefly characterized by a concentric configuration of geometric shapes, each of which contains an image of a deity or an attribute of a deity.", "S": [], "A": []}

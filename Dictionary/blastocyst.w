@@ -1,0 +1,1 @@
+{"index": 35806, "D": "the blastula of the mammalian embryo, consisting of an inner cell mass, a cavity, and an outer layer, the trophoblast.", "S": [], "A": []}

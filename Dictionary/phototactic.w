@@ -1,0 +1,1 @@
+{"index": 235410, "D": "movement of an organism toward or away from a source of light.", "S": [], "A": []}

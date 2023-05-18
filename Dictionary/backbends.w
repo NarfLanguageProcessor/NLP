@@ -1,0 +1,1 @@
+{"index": 25725, "D": "an acrobatic feat in which one bends  backward from a standing position until one's hands touch the floor.", "S": [], "A": []}

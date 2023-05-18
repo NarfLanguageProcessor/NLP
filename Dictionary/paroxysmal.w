@@ -1,0 +1,1 @@
+{"index": 226797, "D": "sudden and uncontrolled", "S": ["bouncy ", "bumpy "], "A": ["fluid ", "smooth "]}

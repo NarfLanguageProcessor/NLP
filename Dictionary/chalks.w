@@ -1,0 +1,1 @@
+{"index": 52178, "D": "a soft, white, powdery limestone consisting chiefly of fossil shells of foraminifers.", "S": ["chemical sedimentary rock ", "clastic rock ", "conglomerate ", "limestone ", "lithified sediment ", "mechanical sedimentary rock ", "nonclastic rock ", "sandstone ", "shale ", "stratified rock "], "A": []}

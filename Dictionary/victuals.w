@@ -1,0 +1,1 @@
+{"index": 359492, "D": "food or provisions", "S": ["aliment ", "bread ", "chow ", "comestibles ", "eatables ", "eats ", "edibles ", "fare ", "feed ", "foodstuff ", "goodies ", "groceries ", "grub ", "larder ", "meal ", "nourishment ", "provender ", "provisions ", "rations ", "refreshments ", "snack ", "supplies ", "viands "], "A": []}

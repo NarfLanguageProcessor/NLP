@@ -1,0 +1,1 @@
+{"index": 261055, "D": "(in three-color photography) a device for determining the exposure factors of the filters to be used.", "S": [], "A": []}

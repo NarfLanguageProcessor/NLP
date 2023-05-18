@@ -1,0 +1,1 @@
+{"index": 26925, "D": "J (ames) G (raham). 1930\u20132009, British novelist, born in China; his books include Crash (1973), The Unlimited Dream Company (1979), Empire of the Sun (1984), Cocaine Nights (1996), and Super-Cannes (2000)", "S": [], "A": []}

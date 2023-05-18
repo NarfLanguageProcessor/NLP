@@ -1,0 +1,1 @@
+{"index": 210663, "D": "Occidental character or characteristics.", "S": [], "A": []}

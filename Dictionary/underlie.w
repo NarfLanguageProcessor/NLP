@@ -1,0 +1,1 @@
+{"index": 339416, "D": "to lie under or beneath; be situated under.", "S": ["control ", "curb ", "decide ", "determine ", "dominate ", "guide ", "handle ", "inhibit ", "manage ", "regulate ", "rule "], "A": ["abandon ", "aid ", "assist ", "help ", "hesitate ", "mismanage ", "neglect ", "submit ", "liberate ", "release "]}

@@ -1,0 +1,1 @@
+{"index": 288939, "D": "a person of less than average stature (sometimes used as a disparaging and offensive term of address).", "S": [], "A": []}

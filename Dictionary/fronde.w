@@ -1,0 +1,1 @@
+{"index": 119309, "D": "either of two rebellious movements against the ministry of Cardinal Mazarin in the reign of Louis XIV, the first led by the parlement of Paris (1648\u201349) and the second by the princes (1650\u201353)", "S": [], "A": []}

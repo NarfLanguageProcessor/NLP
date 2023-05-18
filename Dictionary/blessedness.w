@@ -1,0 +1,1 @@
+{"index": 36151, "D": "consecrated; sacred; holy; sanctified", "S": ["beatitude ", "nirvana "], "A": []}

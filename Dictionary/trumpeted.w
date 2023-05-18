@@ -1,0 +1,1 @@
+{"index": 331574, "D": "a trumpeter. ", "S": ["advertise ", "proclaim ", "publish ", "tout "], "A": ["conceal ", "hide "]}

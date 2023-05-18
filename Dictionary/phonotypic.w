@@ -1,0 +1,1 @@
+{"index": 234779, "D": "a piece of type bearing a phonetic character or symbol.", "S": [], "A": []}

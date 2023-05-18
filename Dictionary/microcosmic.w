@@ -1,0 +1,1 @@
+{"index": 186049, "D": "a little world; a world in miniature (opposed to macrocosm).", "S": ["bottom ", "first ", "gutter ", "infinitesimal ", "last ", "minimum ", "minute ", "nadir ", "second ", "third "], "A": ["big ", "huge ", "large ", "substantial "]}

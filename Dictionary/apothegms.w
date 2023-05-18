@@ -1,0 +1,1 @@
+{"index": 17498, "D": "a short, pithy, instructive saying; a terse remark or aphorism.", "S": ["aphorism ", "axiom ", "dictum ", "maxim ", "moral ", "proverb ", "saying ", "truism "], "A": []}

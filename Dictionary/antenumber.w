@@ -1,0 +1,1 @@
+{"index": 14196, "D": "a number  that immediately precedes another", "S": [], "A": []}

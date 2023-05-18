@@ -1,0 +1,1 @@
+{"index": 96997, "D": "noting a colloid that owes its stability to the electric charge of the particles on its surface.", "S": [], "A": []}

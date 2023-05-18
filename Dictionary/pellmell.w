@@ -1,0 +1,1 @@
+{"index": 229345, "D": "in disorderly, headlong haste; in a recklessly hurried manner.", "S": ["chaotic ", "confused ", "disarrayed ", "disorganized ", "haphazard ", "muddled ", "tumultous/tumultuous "], "A": ["ordered ", "organized "]}

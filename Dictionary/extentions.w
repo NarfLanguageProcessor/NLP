@@ -1,0 +1,1 @@
+{"index": 108249, "D": [], "S": ["construction ", "management ", "manufacture ", "manufacturing "], "A": ["destruction ", "taking "]}

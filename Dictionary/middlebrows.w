@@ -1,0 +1,1 @@
+{"index": 186692, "D": "a person of conventional tastes and interests in matters of culture; a moderately cultivated person.", "S": [], "A": []}

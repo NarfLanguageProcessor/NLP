@@ -1,0 +1,1 @@
+{"index": 333623, "D": [], "S": ["Nilometer ", "hygrometry ", "pluviometer "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 95794, "D": "a person having managerial and sometimes policy-making responsibility related to the writing, compilation, and revision of content for a publishing firm or for a newspaper, magazine, or other publication", "S": ["copyholder ", "copyreader ", "deskman ", "newspaperman ", "newspaperwoman ", "proofreader ", "reviser ", "rewriter "], "A": []}

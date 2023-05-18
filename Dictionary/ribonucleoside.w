@@ -1,0 +1,1 @@
+{"index": 272471, "D": "a ribonucleotide precursor that contains ribose and a purine or pyrimidine base.", "S": [], "A": []}

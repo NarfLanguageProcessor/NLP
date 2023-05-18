@@ -1,0 +1,1 @@
+{"index": 243529, "D": "reduction to a powder, formerly done on a slab of porphyry.", "S": [], "A": []}

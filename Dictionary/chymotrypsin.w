@@ -1,0 +1,1 @@
+{"index": 54531, "D": "a proteolytic enzyme, found in pancreatic juice, that catalyzes the hydrolysis of proteins into polypeptides and amino acids.", "S": [], "A": []}

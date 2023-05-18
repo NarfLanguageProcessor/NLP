@@ -1,0 +1,1 @@
+{"index": 89272, "D": "causing anxiety or uneasiness; disturbing", "S": [], "A": []}

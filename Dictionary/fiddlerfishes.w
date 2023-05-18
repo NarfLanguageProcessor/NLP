@@ -1,0 +1,1 @@
+{"index": 112234, "D": "any of several guitarfishes, especially Trygonorhina fasciata, of Australia.", "S": [], "A": []}

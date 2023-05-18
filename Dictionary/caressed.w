@@ -1,0 +1,1 @@
+{"index": 47944, "D": "an act or gesture expressing affection, as an embrace or kiss, especially a light stroking or touching.", "S": ["clutch ", "cuddle ", "fondle ", "graze ", "kiss ", "massage ", "nuzzle ", "pat ", "rub "], "A": ["disbelieve ", "let go ", "release "]}

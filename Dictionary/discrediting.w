@@ -1,0 +1,1 @@
+{"index": 87699, "D": "to injure the credit  or reputation of; defame", "S": ["adverse ", "corrosive ", "detrimental ", "hostile ", "negative ", "offensive ", "troublesome ", "vicious "], "A": ["advantageous ", "agreeable ", "friendly ", "gentle ", "good ", "helpful ", "kind ", "nice "]}

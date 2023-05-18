@@ -1,0 +1,1 @@
+{"index": 274437, "D": "a red dye, C20H20N3Cl, derived from aniline  and orthotoluidine, a constituent of fuchsin.", "S": [], "A": []}

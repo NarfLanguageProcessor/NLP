@@ -1,0 +1,1 @@
+{"index": 240096, "D": "small pincers with long jaws, for bending wire, holding small objects, etc. (usually used with pair of).", "S": [], "A": []}

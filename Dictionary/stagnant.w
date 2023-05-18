@@ -1,0 +1,1 @@
+{"index": 302366, "D": "not flowing or running, as water, air, etc.", "S": ["dormant ", "idle ", "inactive ", "lifeless ", "listless ", "sluggish ", "static ", "stationary "], "A": ["active ", "alert ", "busy ", "energetic ", "lively ", "mobile ", "moving ", "spirited ", "working "]}

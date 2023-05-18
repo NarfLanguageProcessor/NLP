@@ -1,0 +1,1 @@
+{"index": 344352, "D": "laid on by someone, especially an authority, as something to be endured, obeyed, paid, etc.", "S": [], "A": []}

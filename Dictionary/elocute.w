@@ -1,0 +1,1 @@
+{"index": 97715, "D": "to speak as if practising elocution; declaim", "S": [], "A": []}

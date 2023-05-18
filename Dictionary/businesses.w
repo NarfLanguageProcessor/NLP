@@ -1,0 +1,1 @@
+{"index": 43484, "D": "an occupation, profession, or trade", "S": ["employment ", "field ", "trade ", "work "], "A": ["entertainment ", "fun ", "pastime ", "amusement ", "avocation ", "hobby ", "recreation ", "surrender "]}

@@ -1,0 +1,1 @@
+{"index": 297679, "D": "a concept, grasp of which includes knowledge of criteria of individuation and reidentification, such as dog or concerto, but not flesh or music", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 330675, "D": "Compare protagonist (def. 4), deuteragonist. ", "S": [], "A": []}

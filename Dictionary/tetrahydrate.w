@@ -1,0 +1,1 @@
+{"index": 320058, "D": "a hydrate  that contains four molecules of water, as potassium sodium tartrate, KNaC4H4O6\u00b74H2O.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22516, "D": "the doctrine or belief that there is no God.", "S": ["nihilism "], "A": ["belief ", "trust "]}

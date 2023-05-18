@@ -1,0 +1,1 @@
+{"index": 137590, "D": "having its source or origin outside the organism; having a foreign origin.", "S": [], "A": []}

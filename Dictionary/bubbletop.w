@@ -1,0 +1,1 @@
+{"index": 41935, "D": "a transparent dome, usually made of plastic or bulletproof glass, that serves as the roof or part of the roof of an automotive vehicle.", "S": [], "A": []}

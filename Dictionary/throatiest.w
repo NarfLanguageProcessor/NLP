@@ -1,0 +1,1 @@
+{"index": 322734, "D": "produced or modified in the throat,  as certain sounds; guttural, husky, or hoarse.", "S": ["gruff ", "hoarse "], "A": ["soft "]}

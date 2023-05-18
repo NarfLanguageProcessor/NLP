@@ -1,0 +1,1 @@
+{"index": 193487, "D": "the popular name given to a member of the Church of Jesus Christ of Latter-day Saints.", "S": [], "A": []}

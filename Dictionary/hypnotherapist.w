@@ -1,0 +1,1 @@
+{"index": 140733, "D": "treatment of a symptom, disease, or addiction by means of hypnotism.", "S": [], "A": []}

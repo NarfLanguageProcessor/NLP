@@ -1,0 +1,1 @@
+{"index": 39868, "D": "any crustacean of the class (or subclass) Branchiopoda, having flattened, footlike appendages that bear respiratory organs.", "S": [], "A": []}

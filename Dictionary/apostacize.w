@@ -1,0 +1,1 @@
+{"index": 17410, "D": [], "S": ["deny ", "disavow ", "discard ", "disown ", "eschew ", "forgo ", "forsake ", "forswear ", "give up ", "quit ", "recant ", "relinquish ", "repudiate ", "spurn ", "waive "], "A": ["acknowledge ", "admit ", "agree ", "allow ", "approve ", "claim ", "continue ", "embrace ", "keep ", "revert ", "accept ", "hold ", "maintain "]}

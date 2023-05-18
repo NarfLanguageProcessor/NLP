@@ -1,0 +1,1 @@
+{"index": 99451, "D": "a formal expression of high praise; eulogy", "S": ["accolade ", "commendation ", "eulogy ", "panegyric ", "praise ", "salutation ", "tribute "], "A": ["blame ", "censure ", "condemnation ", "criticism "]}

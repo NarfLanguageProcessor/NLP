@@ -1,0 +1,1 @@
+{"index": 130905, "D": "any of several long-tailed African monkeys, especially of the genus Cercopithecus, having a grizzled coat.", "S": [], "A": []}

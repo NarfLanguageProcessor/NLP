@@ -1,0 +1,1 @@
+{"index": 11989, "D": "having no joints or articulated limbs.", "S": [], "A": []}

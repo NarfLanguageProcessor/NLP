@@ -1,0 +1,1 @@
+{"index": 100929, "D": "to write the name of (a person) in a roll or register; place upon a list; register", "S": [], "A": []}

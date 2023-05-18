@@ -1,0 +1,1 @@
+{"index": 114264, "D": "any plant of the genus Linum, especially L. usitatissimum, a slender, erect, annual plant having narrow, lance-shaped leaves and blue flowers, cultivated for its fiber and seeds.", "S": ["bhang ", "cannabis ", "fiber ", "hashish ", "jute ", "marijuana "], "A": []}

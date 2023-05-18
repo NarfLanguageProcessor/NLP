@@ -1,0 +1,1 @@
+{"index": 239446, "D": "to coat or plate with metallic platinum. ", "S": ["anodize ", "bronze ", "chrome ", "cover ", "electroplate ", "enamel ", "encrust ", "face ", "flake ", "foil ", "gild ", "laminate ", "layer ", "nickel ", "overlay ", "scale ", "silver ", "stratify "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 241574, "D": "toward a pole  of the earth; toward the North or South Pole.", "S": [], "A": []}

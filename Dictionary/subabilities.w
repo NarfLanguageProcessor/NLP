@@ -1,0 +1,1 @@
+{"index": 307057, "D": "power or capacity to do or act physically, mentally, legally, morally, financially, etc.", "S": [], "A": []}

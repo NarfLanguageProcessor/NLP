@@ -1,0 +1,1 @@
+{"index": 41745, "D": "(in the French Revolutionary calendar) the second month of the year, extending from October 22 to November 20.", "S": [], "A": []}

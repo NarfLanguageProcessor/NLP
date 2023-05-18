@@ -1,0 +1,1 @@
+{"index": 167748, "D": "the largest Eurasian bird of prey, Gypa\u00ebtus barbatus, ranging in the mountains from southern Europe to China, having a wingspread of 9 to 10 feet (2.7 to 3 meters) and black feathers hanging from below the bill like a mustache.", "S": [], "A": []}

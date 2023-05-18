@@ -1,0 +1,1 @@
+{"index": 67854, "D": "insulting display of contempt in words or actions; contemptuous or humiliating treatment.", "S": [], "A": []}

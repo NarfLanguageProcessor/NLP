@@ -1,0 +1,1 @@
+{"index": 53026, "D": "a yawning fissure or deep cleft in the earth's surface; gorge.", "S": ["gaping ", "huge ", "roomy ", "spacious ", "vast ", "yawning "], "A": ["cramped ", "little ", "narrow ", "small "]}

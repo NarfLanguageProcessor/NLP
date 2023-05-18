@@ -1,0 +1,1 @@
+{"index": 220873, "D": "taking precedence over all other considerations.", "S": ["main ", "paramount ", "predominant ", "prevailing ", "ultimate "], "A": ["auxiliary ", "extra ", "inessential ", "least ", "lowest ", "minor ", "secondary ", "trivial ", "unimportant ", "unnecessary "]}

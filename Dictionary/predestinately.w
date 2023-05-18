@@ -1,0 +1,1 @@
+{"index": 246844, "D": "to foreordain by divine decree or purpose.", "S": [], "A": []}

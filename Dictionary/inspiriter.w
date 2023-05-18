@@ -1,0 +1,1 @@
+{"index": 153806, "D": "to infuse spirit  or life into; enliven.", "S": [], "A": []}

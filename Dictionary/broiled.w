@@ -1,0 +1,1 @@
+{"index": 41185, "D": "to cook by direct heat, as on a gridiron over the heat or in an oven under the heat; grill", "S": ["baked ", "boiled ", "browned ", "crisped ", "fried ", "ready ", "stewed "], "A": ["rare ", "raw ", "undone ", "unfinished "]}

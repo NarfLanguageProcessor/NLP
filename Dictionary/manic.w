@@ -1,0 +1,1 @@
+{"index": 179236, "D": "pertaining to or affected by mania. ", "S": ["frenzied ", "insane ", "maniacal ", "nutty "], "A": ["sane "]}

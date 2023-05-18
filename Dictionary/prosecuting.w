@@ -1,0 +1,1 @@
+{"index": 253036, "D": "to conduct criminal proceedings in court against.", "S": ["arraign ", "indict ", "litigate ", "sue ", "summon ", "try "], "A": ["exonerate "]}

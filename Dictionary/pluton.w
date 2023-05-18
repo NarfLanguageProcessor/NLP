@@ -1,0 +1,1 @@
+{"index": 240667, "D": "any body of igneous rock that solidified far below the earth's surface.", "S": [], "A": []}

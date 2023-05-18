@@ -1,0 +1,1 @@
+{"index": 73361, "D": "(especially of food) hard but easily breakable; brittle", "S": ["bitterly ", "fiercely ", "furiously ", "heatedly ", "hotly ", "indignantly ", "madly ", "savagely ", "sharply ", "violently "], "A": ["gently ", "mildly ", "quietly "]}

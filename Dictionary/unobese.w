@@ -1,0 +1,1 @@
+{"index": 346994, "D": "very fat or overweight; corpulent.", "S": [], "A": []}

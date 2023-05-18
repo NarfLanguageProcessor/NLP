@@ -1,0 +1,1 @@
+{"index": 335183, "D": "subject to individual will or judgment without restriction; contingent solely upon one's discretion", "S": [], "A": []}

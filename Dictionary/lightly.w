@@ -1,0 +1,1 @@
+{"index": 172053, "D": "with little weight, force, intensity, etc.; gently", "S": ["casually ", "delicately ", "easily ", "faintly ", "freely ", "gingerly ", "mildly ", "moderately ", "quietly ", "simply ", "slightly ", "softly ", "sparsely ", "subtly ", "tenderly ", "thinly "], "A": ["difficultly ", "roughly "]}

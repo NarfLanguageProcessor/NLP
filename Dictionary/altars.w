@@ -1,0 +1,1 @@
+{"index": 9442, "D": "an elevated place or structure, as a mound or platform at which religious rites  are performed or on which sacrifices  are offered to gods, ancestors, etc.", "S": ["shrine "], "A": []}

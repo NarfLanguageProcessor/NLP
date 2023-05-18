@@ -1,0 +1,1 @@
+{"index": 169083, "D": "a republic in N Europe, on the Baltic, S of Estonia, an independent state 1918\u201340; annexed by the Soviet Union 1940; regained independence 1991. 25,395 sq. mi. (63,700 sq. km). Capital", "S": [], "A": []}

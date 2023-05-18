@@ -1,0 +1,1 @@
+{"index": 59539, "D": "simple past tense of cleave1. ", "S": [], "A": []}

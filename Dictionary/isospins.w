@@ -1,0 +1,1 @@
+{"index": 159246, "D": "isotopic spin. ", "S": [], "A": []}

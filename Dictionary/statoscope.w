@@ -1,0 +1,1 @@
+{"index": 303129, "D": "an aneroid barometer for registering minute variations of atmospheric pressure.", "S": [], "A": []}

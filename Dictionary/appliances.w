@@ -1,0 +1,1 @@
+{"index": 17801, "D": "an instrument, apparatus, or device for a particular purpose or use.", "S": ["household appliances "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 248566, "D": "notice that is given or served prior to a specific date; advance notice.", "S": [], "A": []}

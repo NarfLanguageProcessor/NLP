@@ -1,0 +1,1 @@
+{"index": 208261, "D": "capable of vibrating  or of being vibrated. ", "S": [], "A": []}

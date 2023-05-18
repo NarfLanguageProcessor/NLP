@@ -1,0 +1,1 @@
+{"index": 221482, "D": [], "S": ["breach ", "infect ", "infest ", "loot ", "occupy ", "overrun ", "penetrate ", "pillage ", "plunder ", "raid ", "ravage ", "storm ", "violate "], "A": ["aid ", "assist ", "give ", "help ", "protect ", "receive ", "surrender "]}

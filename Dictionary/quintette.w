@@ -1,0 +1,1 @@
+{"index": 258906, "D": "any set or group of five persons or things.", "S": ["cinque ", "cinquefoil ", "limerick ", "lustrum ", "pentacle ", "pentad ", "pentagon ", "pentagram ", "pentangle ", "quinquennium ", "quintuple ", "quintuplet "], "A": []}

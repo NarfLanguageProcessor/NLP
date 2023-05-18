@@ -1,0 +1,1 @@
+{"index": 9682, "D": "having alveoli;  deeply pitted, as a honeycomb.", "S": [], "A": []}

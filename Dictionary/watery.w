@@ -1,0 +1,1 @@
+{"index": 363164, "D": "pertaining to or connected with water", "S": ["colorless ", "damp ", "moist ", "runny "], "A": ["dry "]}

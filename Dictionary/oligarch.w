@@ -1,0 +1,1 @@
+{"index": 212151, "D": "one of the rulers in an oligarchy. ", "S": ["autocrat ", "boss ", "chief ", "commander ", "despot ", "fascist ", "leader ", "tycoon ", "tyrant "], "A": ["employee ", "follower ", "worker "]}

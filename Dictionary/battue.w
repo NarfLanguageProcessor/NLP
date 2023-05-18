@@ -1,0 +1,1 @@
+{"index": 29174, "D": "a hunt or hunting party using this method of securing game.", "S": [], "A": []}

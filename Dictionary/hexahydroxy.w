@@ -1,0 +1,1 @@
+{"index": 137965, "D": "(of a molecule) containing six hydroxyl groups.", "S": [], "A": []}

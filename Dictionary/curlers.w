@@ -1,0 +1,1 @@
+{"index": 75342, "D": "a person or thing that curls. ", "S": ["crimper ", "crimping iron ", "curling tongs ", "hot iron ", "hot rollers ", "straightening iron "], "A": []}

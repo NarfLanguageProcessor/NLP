@@ -1,0 +1,1 @@
+{"index": 12482, "D": "a variant of anlace. ", "S": [], "A": []}

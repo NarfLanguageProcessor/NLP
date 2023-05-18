@@ -1,0 +1,1 @@
+{"index": 277620, "D": "a member of a nomadic aboriginal people of southern Africa.", "S": [], "A": []}

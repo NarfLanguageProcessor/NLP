@@ -1,0 +1,1 @@
+{"index": 263965, "D": "to paint or wallpaper (a room, house, etc) again", "S": ["fix up ", "redo ", "remodel ", "renovate "], "A": ["damage "]}

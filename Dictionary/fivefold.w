@@ -1,0 +1,1 @@
+{"index": 113577, "D": "five times as great or as much.", "S": [], "A": []}

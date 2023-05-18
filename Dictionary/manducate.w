@@ -1,0 +1,1 @@
+{"index": 179077, "D": "to chew; masticate; eat.", "S": ["chomp "], "A": []}

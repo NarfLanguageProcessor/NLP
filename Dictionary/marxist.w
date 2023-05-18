@@ -1,0 +1,1 @@
+{"index": 180595, "D": "an adherent of Karl Marx  or his theories.", "S": ["Bolshevik ", "Bolshevist ", "Commie ", "Maoist ", "Stalinist ", "Trotskyite ", "apparatchik ", "comrade ", "leftist ", "red ", "socialist ", "sympathizer "], "A": ["capitalist ", "conservative ", "fascist "]}

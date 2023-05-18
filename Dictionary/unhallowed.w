@@ -1,0 +1,1 @@
+{"index": 343447, "D": "not hallowed or consecrated; not regarded as holy or sacred", "S": ["deconsecrated "], "A": ["blessed ", "devout ", "godly ", "holy ", "pious ", "religious ", "respectful ", "reverent "]}

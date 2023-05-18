@@ -1,0 +1,1 @@
+{"index": 19759, "D": "of or relating to government by an aristocracy. ", "S": ["courtly ", "dignified ", "elegant ", "haughty ", "noble ", "patrician ", "silk-stocking ", "stylish ", "well-bred "], "A": ["ignoble ", "indecorous ", "inelegant ", "rough ", "undignified ", "unfashionable ", "unrefined ", "unsophisticated "]}

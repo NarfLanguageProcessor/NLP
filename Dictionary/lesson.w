@@ -1,0 +1,1 @@
+{"index": 170857, "D": "a section into which a course of study is divided, especially a single, continuous session of formal instruction in a subject", "S": ["class ", "education ", "exercise ", "homework ", "instruction ", "lecture ", "practice ", "reading ", "study ", "task ", "teaching ", "test "], "A": ["ignorance "]}

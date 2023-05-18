@@ -1,0 +1,1 @@
+{"index": 219274, "D": "to extend,  reach, or expand beyond a proper, safe, or reasonable point", "S": ["cripple ", "disable ", "drain ", "fatigue ", "frazzle ", "impoverish ", "overwork ", "sap ", "use up ", "weaken ", "weary "], "A": ["aid ", "assist ", "enable ", "energize ", "help ", "strengthen ", "invigorate "]}

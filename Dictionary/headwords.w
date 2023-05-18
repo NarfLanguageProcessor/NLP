@@ -1,0 +1,1 @@
+{"index": 134748, "D": "a word, phrase, or the like, appearing as the heading  of a chapter, dictionary or encyclopedia entry, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 331060, "D": "an immoral or sexually promiscuous woman (now often used facetiously).", "S": [], "A": []}

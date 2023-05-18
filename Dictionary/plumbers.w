@@ -1,0 +1,1 @@
+{"index": 240394, "D": "a person who installs and repairs piping, fixtures, appliances, and appurtenances in connection with the water supply, drainage systems, etc., both in and out of buildings.", "S": ["agent ", "detective ", "informer ", "investigator ", "mole ", "operative ", "secret agent ", "secret service ", "undercover agent "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 281749, "D": "the head  or top of a screw  having a slot for the end of a screwdriver.", "S": [], "A": []}

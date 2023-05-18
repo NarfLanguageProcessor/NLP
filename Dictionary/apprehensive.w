@@ -1,0 +1,1 @@
+{"index": 17933, "D": "uneasy or fearful about something that might happen", "S": ["afraid ", "concerned ", "doubtful ", "jittery ", "jumpy ", "suspicious ", "uncertain ", "uneasy ", "uptight "], "A": ["calm ", "certain ", "clear ", "collected ", "composed ", "confident ", "cool ", "definite ", "easygoing ", "happy ", "laid-back ", "sure ", "unquestionable "]}

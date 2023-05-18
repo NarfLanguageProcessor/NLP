@@ -1,0 +1,1 @@
+{"index": 156590, "D": "a person who enters (a college, association, etc.); entrant.", "S": [], "A": []}

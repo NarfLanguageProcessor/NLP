@@ -1,0 +1,1 @@
+{"index": 23300, "D": "an instrument for gauging and recording acuity of hearing.", "S": [], "A": []}

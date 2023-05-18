@@ -1,0 +1,1 @@
+{"index": 13214, "D": "animated; lively. Abbreviation", "S": [], "A": []}

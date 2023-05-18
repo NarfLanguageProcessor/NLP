@@ -1,0 +1,1 @@
+{"index": 105912, "D": "a process by which pollution from such sources as sewage effluent or leachate from fertilized fields causes a lake, pond, or fen to become overrich in organic and mineral nutrients, so that algae and cyanobacteria grow rapidly and deplete the oxygen supply", "S": [], "A": []}

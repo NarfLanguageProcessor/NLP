@@ -1,0 +1,1 @@
+{"index": 294090, "D": "of or like slime. ", "S": ["viscous "], "A": ["dry "]}

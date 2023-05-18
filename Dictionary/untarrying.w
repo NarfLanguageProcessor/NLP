@@ -1,0 +1,1 @@
+{"index": 352700, "D": "to remain or stay, as in a place; sojourn", "S": [], "A": []}

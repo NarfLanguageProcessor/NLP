@@ -1,0 +1,1 @@
+{"index": 69783, "D": "guilty of dishonest practices, as bribery; lacking integrity; crooked", "S": ["contaminating ", "contaminative ", "corrupted ", "corrupting ", "demoralizing ", "perversive "], "A": []}

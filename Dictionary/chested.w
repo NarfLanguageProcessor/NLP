@@ -1,0 +1,1 @@
+{"index": 53935, "D": "having a chest  of a specified kind (often used in combination)", "S": [], "A": []}

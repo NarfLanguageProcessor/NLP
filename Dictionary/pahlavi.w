@@ -1,0 +1,1 @@
+{"index": 223056, "D": "the Indo-European, Iranian language of the Zoroastrian literature of the 3rd to the 10th centuries.", "S": [], "A": []}

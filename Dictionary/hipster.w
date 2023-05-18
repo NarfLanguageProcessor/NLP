@@ -1,0 +1,1 @@
+{"index": 141555, "D": "a usually young person who is trendy, stylish, or progressive in an unconventional way; someone who is hip. ", "S": ["free spirit ", "hippie "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 74047, "D": "the groove at either end of the staves of a barrel, cask, etc., into which the edge of the head fits.", "S": [], "A": []}

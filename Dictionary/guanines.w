@@ -1,0 +1,1 @@
+{"index": 130726, "D": "a purine base, C5H5N5O, that is a fundamental constituent of DNA and RNA, in which it forms base pairs with cytosine. Symbol", "S": [], "A": []}

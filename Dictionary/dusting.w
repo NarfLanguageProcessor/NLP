@@ -1,0 +1,1 @@
+{"index": 94548, "D": "a light application", "S": ["beating ", "drubbing ", "licking ", "rout ", "slaughter ", "thrashing ", "trouncing ", "walloping ", "whipping "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 26249, "D": "a short, wooden club with a steep-sloped face, for lofting the ball.", "S": [], "A": []}

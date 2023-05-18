@@ -1,0 +1,1 @@
+{"index": 224747, "D": "a basket, especially a large one, for carrying goods, provisions, etc.", "S": [], "A": []}

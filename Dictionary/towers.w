@@ -1,0 +1,1 @@
+{"index": 326767, "D": "a building or structure high in proportion to its lateral dimensions, either isolated or forming part of a building.", "S": ["monument ", "skyscraper "], "A": []}

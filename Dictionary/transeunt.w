@@ -1,0 +1,1 @@
+{"index": 327822, "D": "(of a mental act) producing an effect outside of the mind.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 148967, "D": "the condition or quality of being impotent; weakness. ", "S": [], "A": []}

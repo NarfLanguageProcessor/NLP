@@ -1,0 +1,1 @@
+{"index": 51022, "D": "Compare center of mass. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 40336, "D": "(of the voice) characterized by audible or excessive emission of breath. ", "S": [], "A": []}

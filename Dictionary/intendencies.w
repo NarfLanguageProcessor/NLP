@@ -1,0 +1,1 @@
+{"index": 154345, "D": "intendancy (def. 3). ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 207972, "D": "of, relating to, or involving transference.", "S": [], "A": []}

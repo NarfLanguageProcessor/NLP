@@ -1,0 +1,1 @@
+{"index": 133629, "D": "a rough, hard-bitten person.", "S": ["hard life ", "hard plight ", "miserable life ", "tough row to hoe ", "vale of tears "], "A": []}

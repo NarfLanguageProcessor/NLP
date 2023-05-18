@@ -1,0 +1,1 @@
+{"index": 302180, "D": "a person who runs a horse stable. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 43232, "D": "to polish (a surface) by friction.", "S": ["buff ", "furbish ", "glance ", "glaze ", "gloss ", "luster ", "patina ", "rub ", "sheen ", "shine ", "smooth ", "wax "], "A": ["dull "]}

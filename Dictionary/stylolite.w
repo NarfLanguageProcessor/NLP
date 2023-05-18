@@ -1,0 +1,1 @@
+{"index": 304556, "D": "an irregular columnar structure in certain limestones, the columns being approximately at right angles to the bedding planes.", "S": [], "A": []}

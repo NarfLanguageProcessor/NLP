@@ -1,0 +1,1 @@
+{"index": 233288, "D": "a yellowish-orange, crystalline, water-insoluble solid, C14H8O2, used chiefly in organic synthesis and the manufacture of dyes.", "S": [], "A": []}

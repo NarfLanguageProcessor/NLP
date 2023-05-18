@@ -1,0 +1,1 @@
+{"index": 303714, "D": "shorthand in which alphabetic letters or types are used to produce shortened forms of words or groups of words.", "S": [], "A": []}

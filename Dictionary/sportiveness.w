@@ -1,0 +1,1 @@
+{"index": 301052, "D": "playful or frolicsome; jesting, jocose, or merry", "S": ["antics ", "friskiness ", "frolicsomeness ", "gaiety ", "impishness ", "jauntiness ", "lightheartedness ", "liveliness ", "merrymaking ", "mirth ", "spiritedness ", "vivacity ", "waggishness "], "A": ["sadness ", "unhappiness "]}

@@ -1,0 +1,1 @@
+{"index": 209681, "D": "the status, vocation, or responsibilities of a nun. ", "S": [], "A": []}

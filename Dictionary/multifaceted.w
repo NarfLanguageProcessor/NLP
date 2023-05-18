@@ -1,0 +1,1 @@
+{"index": 195073, "D": "having many facets, as a gem.", "S": ["all-round ", "varied ", "various "], "A": ["same ", "similar "]}

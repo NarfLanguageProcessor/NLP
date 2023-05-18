@@ -1,0 +1,1 @@
+{"index": 133977, "D": "extremely disturbing or distressing; grievous", "S": [], "A": []}

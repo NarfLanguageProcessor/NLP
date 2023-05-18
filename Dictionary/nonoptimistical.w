@@ -1,0 +1,1 @@
+{"index": 205646, "D": "disposed to take a favorable view of events or conditions and to expect the most favorable outcome.", "S": [], "A": []}

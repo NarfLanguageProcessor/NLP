@@ -1,0 +1,1 @@
+{"index": 215012, "D": "of, relating to, or conforming to the approved form of any doctrine, philosophy, ideology, etc.", "S": [], "A": []}

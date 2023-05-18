@@ -1,0 +1,1 @@
+{"index": 133199, "D": "work done by hand.", "S": ["workmanship "], "A": []}

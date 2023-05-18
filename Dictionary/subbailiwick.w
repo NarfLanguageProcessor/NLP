@@ -1,0 +1,1 @@
+{"index": 307288, "D": "the district within which a bailie or bailiff has jurisdiction.", "S": [], "A": []}

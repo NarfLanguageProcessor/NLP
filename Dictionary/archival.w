@@ -1,0 +1,1 @@
+{"index": 19031, "D": "of or relating to archives  or valuable records; contained in or comprising such archives  or records.", "S": ["actual ", "ancient ", "classical ", "factual ", "real "], "A": ["false ", "imaginary ", "modern "]}

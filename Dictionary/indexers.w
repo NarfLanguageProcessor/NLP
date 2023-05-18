@@ -1,0 +1,1 @@
+{"index": 150863, "D": "(in a nonfiction book, monograph, etc.) a more or less detailed alphabetical listing of names, places, and topics along with the numbers of the pages on which they are mentioned or discussed, usually included in or constituting the back matter.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35488, "D": "a term used to refer to an Aboriginal inhabitant of Australia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 134962, "D": "any of various heaths, especially Calluna vulgaris, of England and Scotland, having small, pinkish-purple flowers.", "S": [], "A": []}

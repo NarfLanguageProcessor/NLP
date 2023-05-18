@@ -1,0 +1,1 @@
+{"index": 251749, "D": "skillfully or competently", "S": ["ably ", "adroitly ", "aptly ", "deftly ", "expertly ", "handily ", "ingeniously ", "neatly ", "nimbly ", "skillfully ", "smoothly "], "A": ["awkwardly ", "clumsily ", "unskillfully "]}

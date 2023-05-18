@@ -1,0 +1,1 @@
+{"index": 162179, "D": "the posterior basal area or lobe in the forewing of certain insects, sometimes serving to couple the forewings and hind wings in flight.", "S": [], "A": []}

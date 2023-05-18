@@ -1,0 +1,1 @@
+{"index": 125662, "D": "a mixture of glycosides from Digitalis purpurea, used chiefly in the management of congestive heart failure.", "S": [], "A": []}

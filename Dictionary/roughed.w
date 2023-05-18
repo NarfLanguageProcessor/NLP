@@ -1,0 +1,1 @@
+{"index": 274765, "D": "having a coarse or uneven surface, as from projections, irregularities, or breaks; not smooth", "S": ["design ", "devise ", "draw up ", "forge ", "outline ", "prepare "], "A": ["disorganize ", "break ", "demolish ", "destroy ", "neglect ", "raze ", "ruin ", "stop ", "tell the truth ", "wreck "]}

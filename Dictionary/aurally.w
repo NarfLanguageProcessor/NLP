@@ -1,0 +1,1 @@
+{"index": 23502, "D": "by means of the ears or the sense of hearing", "S": [], "A": []}

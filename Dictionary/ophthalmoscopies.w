@@ -1,0 +1,1 @@
+{"index": 213487, "D": "the use of or technique of using an ophthalmoscope.", "S": [], "A": []}

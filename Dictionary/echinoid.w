@@ -1,0 +1,1 @@
+{"index": 95230, "D": "belonging or pertaining to the class Echinoidea, comprising mainly sea urchins and sand dollars.", "S": [], "A": []}

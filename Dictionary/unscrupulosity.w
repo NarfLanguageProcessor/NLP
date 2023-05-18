@@ -1,0 +1,1 @@
+{"index": 350563, "D": "not scrupulous;  unrestrained by scruples;  conscienceless; unprincipled.", "S": [], "A": []}

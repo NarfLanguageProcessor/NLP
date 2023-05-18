@@ -1,0 +1,1 @@
+{"index": 315975, "D": "any of numerous small New World songbirds of the family Thraupidae (tanager family), the males of which are usually brightly colored, including the multicolored green-headed tanager , Tangara seledon, of South America.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 294679, "D": "the steward's assistant or deputy steward in European households in W Africa", "S": [], "A": []}

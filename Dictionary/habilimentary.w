@@ -1,0 +1,1 @@
+{"index": 131758, "D": "clothes as worn in a particular profession, way of life, etc.", "S": [], "A": []}

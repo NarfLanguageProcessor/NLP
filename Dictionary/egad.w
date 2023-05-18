@@ -1,0 +1,1 @@
+{"index": 96140, "D": "(used as an expletive or mild oath)", "S": ["ahem ", "alas ", "amen ", "boo ", "er ", "exclamation ", "hello ", "hooray ", "hurrah ", "oh ", "shucks ", "whoopee ", "wow "], "A": []}

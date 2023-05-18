@@ -1,0 +1,1 @@
+{"index": 283064, "D": "the fertilized, matured ovule of a flowering plant, containing an embryo or rudimentary plant.", "S": ["berry ", "corn ", "egg ", "grain ", "nut "], "A": ["being ", "concrete ", "death ", "exterior ", "exteriority ", "outside "]}

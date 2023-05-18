@@ -1,0 +1,1 @@
+{"index": 134379, "D": "haughty manner or spirit; arrogance.", "S": ["condescension ", "self-importance "], "A": ["humility ", "admiration ", "love ", "meekness ", "modesty ", "respect ", "shyness ", "timidity "]}

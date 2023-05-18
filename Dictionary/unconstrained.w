@@ -1,0 +1,1 @@
+{"index": 337752, "D": "not having any constraints", "S": ["corrupt ", "depraved ", "dissipated ", "dissolute ", "fast ", "gay ", "immoral ", "incontinent ", "incorrigible ", "licentious ", "profligate ", "rakish ", "shameless ", "sinful ", "unbridled ", "uncontrolled ", "ungoverned ", "uninhibited ", "unprincipled ", "unrestrained ", "wanton ", "wicked ", "wild "], "A": []}

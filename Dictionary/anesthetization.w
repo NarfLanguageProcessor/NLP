@@ -1,0 +1,1 @@
+{"index": 12592, "D": "to render physically insensible, as by an anesthetic. ", "S": [], "A": []}

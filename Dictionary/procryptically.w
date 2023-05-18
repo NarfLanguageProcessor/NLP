@@ -1,0 +1,1 @@
+{"index": 251383, "D": "serving to conceal an animal from predators.", "S": [], "A": []}

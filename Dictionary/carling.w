@@ -1,0 +1,1 @@
+{"index": 48136, "D": "a short fore-and-aft beam running beside a hatchway, mast hole, or other deck opening.", "S": [], "A": []}

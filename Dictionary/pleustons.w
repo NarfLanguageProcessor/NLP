@@ -1,0 +1,1 @@
+{"index": 240033, "D": "a buoyant mat of weeds, algae, and associated organisms that floats on or near the surface of a lake, river, or other body of fresh water.", "S": [], "A": []}

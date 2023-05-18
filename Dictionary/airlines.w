@@ -1,0 +1,1 @@
+{"index": 6941, "D": "a company that owns or operates such a system.", "S": ["air passenger carrier ", "air service ", "air shuttle ", "air taxi ", "charter airline ", "commercial airline ", "commuter airline "], "A": []}

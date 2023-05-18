@@ -1,0 +1,1 @@
+{"index": 305998, "D": "the land on the sides of a stream.", "S": ["beach ", "cay ", "cliff ", "coast ", "edge ", "embankment ", "lakefront ", "lakeshore ", "lakeside ", "ledge ", "levee ", "oceanfront ", "reef ", "riverside ", "seaboard ", "seafront ", "shore ", "strand ", "waterfront "], "A": []}

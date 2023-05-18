@@ -1,0 +1,1 @@
+{"index": 94330, "D": "an act, practice, or instance of duping. ", "S": ["betrayal ", "deceit ", "disinformation ", "duplicity ", "falsehood ", "fraud ", "hypocrisy ", "lying ", "mendacity ", "treachery ", "trickery ", "untruth "], "A": ["faithfulness ", "forthrightness ", "honesty ", "loyalty ", "sincerity ", "truth ", "openness "]}

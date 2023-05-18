@@ -1,0 +1,1 @@
+{"index": 265750, "D": "a type of azonal soil consisting of unconsolidated material derived from freshly deposited alluvium or sands", "S": [], "A": []}

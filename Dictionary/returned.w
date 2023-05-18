@@ -1,0 +1,1 @@
+{"index": 270973, "D": "to go or come back, as to a former place, position, or state", "S": ["exchanged ", "reappeared ", "rebounded ", "refunded ", "repaid ", "repeated ", "reverberated ", "revolved "], "A": ["held ", "kept ", "retained "]}

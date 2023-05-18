@@ -1,0 +1,1 @@
+{"index": 313448, "D": "any tropical, coral-reef fish of the family Acanthuridae, with one or more sharp spines near the base of the tail fin.", "S": [], "A": []}

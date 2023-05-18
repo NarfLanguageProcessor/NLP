@@ -1,0 +1,1 @@
+{"index": 127003, "D": "General Manager.", "S": ["DNA fingerprinting ", "biogenetics ", "genetic fingerprinting ", "genetic modification ", "recombinant DNA technology "], "A": []}

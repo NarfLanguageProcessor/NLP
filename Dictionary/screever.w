@@ -1,0 +1,1 @@
+{"index": 281729, "D": "an artist who draws pictures on sidewalks, as with colored chalks, earning a living from the donations of spectators and passersby.", "S": [], "A": []}

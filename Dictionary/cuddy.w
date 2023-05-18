@@ -1,0 +1,1 @@
+{"index": 74589, "D": "(on a fishing boat) a platform on which a net is coiled when not in use.", "S": [], "A": []}

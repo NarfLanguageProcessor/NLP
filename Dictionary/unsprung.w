@@ -1,0 +1,1 @@
+{"index": 351852, "D": "a simple past tense and past participle of spring. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 274962, "D": "a customary or regular course of procedure.", "S": ["averageness ", "commonality ", "commonness ", "commonplaceness ", "customariness ", "habitualness ", "normalcy ", "normality ", "ordinariness ", "prevalence ", "regularity ", "standardness ", "uniformity ", "unremarkableness "], "A": []}

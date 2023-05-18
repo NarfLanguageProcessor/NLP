@@ -1,0 +1,1 @@
+{"index": 228916, "D": "having established purebred ancestry", "S": ["bluestocking ", "elite ", "noble ", "privileged ", "purebred ", "refined ", "silk-stocking ", "upper-class ", "well-born ", "well-bred "], "A": ["bourgeois ", "common ", "low ", "lower-class ", "unrefined "]}

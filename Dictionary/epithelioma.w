@@ -1,0 +1,1 @@
+{"index": 102961, "D": "a growth or tumor consisting chiefly of epithelial cells.", "S": [], "A": []}

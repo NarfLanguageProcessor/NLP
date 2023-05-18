@@ -1,0 +1,1 @@
+{"index": 251795, "D": "utterly and shamelessly immoral or dissipated; thoroughly dissolute.", "S": ["debauchee ", "degenerate ", "good-for-nothing ", "lecher ", "libertine ", "nighthawk ", "operator ", "prodigal ", "rake ", "reprobate ", "swinger ", "waster ", "wastrel "], "A": []}

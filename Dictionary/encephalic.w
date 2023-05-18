@@ -1,0 +1,1 @@
+{"index": 99188, "D": "of or relating to the encephalon or brain.", "S": [], "A": []}

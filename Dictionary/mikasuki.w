@@ -1,0 +1,1 @@
+{"index": 187072, "D": "a member of an American Indian people, formerly part of the Creek Confederacy and surviving chiefly as one of the two branches of the Muskogean family represented among the Florida Seminoles.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 227160, "D": "(of plants) having small leaves in comparison with the size of the stem", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 107435, "D": "the quality of being exorbitant;  excessiveness.", "S": [], "A": []}

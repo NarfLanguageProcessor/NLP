@@ -1,0 +1,1 @@
+{"index": 184977, "D": "a device for converting infrared radiation into visible light.", "S": [], "A": []}

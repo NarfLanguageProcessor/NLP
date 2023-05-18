@@ -1,0 +1,1 @@
+{"index": 79628, "D": "to lower in dignity or estimation; bring into contempt", "S": [], "A": []}

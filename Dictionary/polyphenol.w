@@ -1,0 +1,1 @@
+{"index": 242233, "D": "a polymeric phenol. ", "S": [], "A": []}

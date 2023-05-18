@@ -1,0 +1,1 @@
+{"index": 342558, "D": "to cease or fail to remember; be unable to recall", "S": [], "A": []}

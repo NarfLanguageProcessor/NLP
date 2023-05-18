@@ -1,0 +1,1 @@
+{"index": 151836, "D": "the formation of an infarct. ", "S": ["barricade ", "closure ", "encirclement ", "restriction ", "roadblock ", "siege ", "stoppage "], "A": ["beginning ", "opening ", "start ", "advantage ", "aid ", "assistance ", "clearance ", "help ", "promotion ", "support "]}

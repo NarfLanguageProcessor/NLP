@@ -1,0 +1,1 @@
+{"index": 41027, "D": "a long horse-drawn carriage with a folding top over the rear seat and a rear-facing front seat", "S": [], "A": []}

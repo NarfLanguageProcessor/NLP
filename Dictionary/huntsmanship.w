@@ -1,0 +1,1 @@
+{"index": 145198, "D": "the member of a hunt  staff who manages the hounds during the hunt. ", "S": [], "A": []}

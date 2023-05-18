@@ -1,0 +1,1 @@
+{"index": 241669, "D": "any of several polymers of butylene,  used chiefly in the manufacture of lubricants and synthetic rubber.", "S": [], "A": []}

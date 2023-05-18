@@ -1,0 +1,1 @@
+{"index": 181145, "D": "the state of being a mate. ", "S": [], "A": []}

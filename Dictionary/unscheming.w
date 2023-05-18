@@ -1,0 +1,1 @@
+{"index": 350482, "D": "given to making plans, especially sly and underhand ones; crafty.", "S": [], "A": []}

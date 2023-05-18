@@ -1,0 +1,1 @@
+{"index": 369791, "D": "a mass of bacteria adhering together by a jelly-like substance derived from their cell walls", "S": [], "A": []}

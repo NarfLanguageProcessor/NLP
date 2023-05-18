@@ -1,0 +1,1 @@
+{"index": 95869, "D": "to free from acids, salts, or impurities by washing; purify.", "S": [], "A": []}

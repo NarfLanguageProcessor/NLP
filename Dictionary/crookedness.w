@@ -1,0 +1,1 @@
+{"index": 73685, "D": "not straight; bending; curved", "S": ["corruptness ", "deceit ", "deviousness ", "dishonesty ", "shadiness ", "unlawfulness "], "A": ["frankness ", "honesty ", "openness ", "truthfulness "]}

@@ -1,0 +1,1 @@
+{"index": 205497, "D": "the noble  class or the body of nobles  in a country.", "S": [], "A": []}

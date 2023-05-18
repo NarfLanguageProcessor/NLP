@@ -1,0 +1,1 @@
+{"index": 106766, "D": "an act or instance of excluding. ", "S": ["boycott ", "discharge ", "elimination ", "embargo ", "eviction ", "omission ", "prohibition ", "refusal ", "rejection ", "removal ", "segregation ", "separation ", "suspension ", "veto "], "A": ["OK ", "allowance ", "approval ", "permission ", "ratification ", "sanction "]}

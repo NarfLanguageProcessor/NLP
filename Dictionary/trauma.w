@@ -1,0 +1,1 @@
+{"index": 328544, "D": "the condition produced by this; traumatism.", "S": ["agony ", "anguish ", "blow ", "confusion ", "damage ", "injury ", "ordeal ", "shock ", "strain ", "stress ", "suffering ", "torture ", "upheaval ", "wound "], "A": ["benefit ", "blessing ", "comfort ", "contentment ", "favor ", "happiness ", "health ", "joy ", "calm ", "order ", "peace "]}

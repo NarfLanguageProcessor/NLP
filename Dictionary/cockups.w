@@ -1,0 +1,1 @@
+{"index": 61596, "D": "an upward turn or curl at the top of something.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 257775, "D": "of the nature of or resembling a quagmire; marshy; boggy.", "S": [], "A": []}

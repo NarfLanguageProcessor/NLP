@@ -1,0 +1,1 @@
+{"index": 249056, "D": "to record  beforehand or in advance.", "S": [], "A": []}

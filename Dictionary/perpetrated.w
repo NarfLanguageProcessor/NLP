@@ -1,0 +1,1 @@
+{"index": 231785, "D": "(of a crime, injustice, hoax, prank, etc.) committed or carried out", "S": ["carry out ", "commit ", "execute ", "inflict ", "wreak "], "A": ["leave ", "stop ", "fail ", "halt ", "idle ", "neglect ", "prevent "]}

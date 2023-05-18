@@ -1,0 +1,1 @@
+{"index": 10389, "D": "characterized by or showing goodwill; friendly; peaceable", "S": ["benevolence ", "comity ", "concord ", "cordiality ", "friendliness ", "goodwill ", "harmony ", "kindliness ", "neighborliness ", "togetherness "], "A": ["aloofness ", "disagreement ", "discord ", "hostility ", "ill will "]}

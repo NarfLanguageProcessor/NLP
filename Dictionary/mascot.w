@@ -1,0 +1,1 @@
+{"index": 180623, "D": "an animal, person, or thing adopted by a group as its representative symbol and supposed to bring good luck", "S": ["amulet ", "fetish ", "juju ", "phylactery ", "trinket "], "A": []}

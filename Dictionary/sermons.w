@@ -1,0 +1,1 @@
+{"index": 286179, "D": "a discourse for the purpose of religious instruction or exhortation, especially one based on a text of Scripture and delivered by a member of the clergy as part of a religious service.", "S": ["advice ", "exhortation ", "homily ", "lecture ", "lesson ", "preaching ", "tirade "], "A": []}

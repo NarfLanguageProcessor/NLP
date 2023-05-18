@@ -1,0 +1,1 @@
+{"index": 22789, "D": "voiceless. ", "S": ["debilitated ", "disabled ", "paralyzed ", "shaking ", "sick ", "trembling "], "A": ["healthy "]}

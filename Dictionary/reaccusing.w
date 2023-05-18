@@ -1,0 +1,1 @@
+{"index": 261474, "D": "to charge with the fault, offense, or crime (usually followed by of)", "S": [], "A": []}

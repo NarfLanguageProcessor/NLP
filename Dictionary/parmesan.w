@@ -1,0 +1,1 @@
+{"index": 226646, "D": "of or from Parma, in northern Italy.", "S": [], "A": []}

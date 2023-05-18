@@ -1,0 +1,1 @@
+{"index": 161555, "D": "a toilet or bathroom.", "S": ["head ", "johnny ", "latrine ", "lavatory ", "outhouse ", "pot ", "potty ", "privy ", "restroom ", "sandbox ", "throne ", "washroom "], "A": []}

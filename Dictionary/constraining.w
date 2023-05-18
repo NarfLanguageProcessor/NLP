@@ -1,0 +1,1 @@
+{"index": 67075, "D": "to force, compel, or oblige", "S": ["fascinating "], "A": ["discretional ", "elective ", "optional "]}

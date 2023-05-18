@@ -1,0 +1,1 @@
+{"index": 86801, "D": "dreadful; awful; terrible.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 32201, "D": "one of a class of riflemen or sharpshooters in the Italian army.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 111938, "D": "the development of a bishop, in an opening move, by advancing one or two pawns so as to permit movement along the bishop's diagonal.", "S": [], "A": []}

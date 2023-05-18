@@ -1,0 +1,1 @@
+{"index": 112309, "D": "a person to whom property or power is entrusted for the benefit of another", "S": [], "A": []}

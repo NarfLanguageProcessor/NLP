@@ -1,0 +1,1 @@
+{"index": 271099, "D": "an advocate or supporter of a political policy of revanche, especially in order to seek vengeance for a previous military defeat.", "S": [], "A": []}

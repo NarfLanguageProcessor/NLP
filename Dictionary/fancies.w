@@ -1,0 +1,1 @@
+{"index": 109673, "D": "ornamental; decorative;  not plain", "S": ["imagination ", "inclination "], "A": ["concrete ", "death ", "dislike ", "hate ", "hatred ", "physicality ", "sadness ", "unhappiness "]}

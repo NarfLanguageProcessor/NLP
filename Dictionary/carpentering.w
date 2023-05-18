@@ -1,0 +1,1 @@
+{"index": 48368, "D": "the trade or work of a carpenter. ", "S": ["assemble ", "erect ", "evolve ", "form ", "make ", "manufacture ", "produce ", "raise ", "reconstruct ", "set up "], "A": ["conclude ", "decrease ", "destroy ", "finish ", "halt ", "neglect ", "raze ", "ruin ", "stop ", "demolish ", "disperse ", "scatter ", "separate ", "wreck "]}

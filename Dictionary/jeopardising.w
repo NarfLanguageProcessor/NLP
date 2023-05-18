@@ -1,0 +1,1 @@
+{"index": 160885, "D": "to put in jeopardy;  hazard; risk; imperil", "S": [], "A": []}

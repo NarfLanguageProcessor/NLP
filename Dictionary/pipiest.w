@@ -1,0 +1,1 @@
+{"index": 237471, "D": "pipelike; tubular.", "S": [], "A": []}

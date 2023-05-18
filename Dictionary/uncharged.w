@@ -1,0 +1,1 @@
+{"index": 336743, "D": "not charged,  especially with electricity; electrically neutral", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 31009, "D": "an old woman, especially an ugly one; hag. ", "S": ["fishwife ", "harpy ", "scold ", "scold ", "termagant ", "vixen "], "A": []}

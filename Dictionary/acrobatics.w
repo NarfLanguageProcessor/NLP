@@ -1,0 +1,1 @@
+{"index": 2881, "D": "the feats of an acrobat;  gymnastics.", "S": ["balancing ", "feats ", "gymnastics ", "somersaults ", "stunts ", "tumbling "], "A": []}

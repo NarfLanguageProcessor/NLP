@@ -1,0 +1,1 @@
+{"index": 264016, "D": "any of several fishes having red eyes, as the rock bass.", "S": ["booze ", "drink ", "ethanol ", "liquor ", "methanol ", "smoke "], "A": []}

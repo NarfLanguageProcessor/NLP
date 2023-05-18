@@ -1,0 +1,1 @@
+{"index": 118302, "D": "the act, process, or manner of constructing anything.", "S": ["beam ", "post ", "scantling "], "A": []}

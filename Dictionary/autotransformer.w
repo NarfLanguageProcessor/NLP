@@ -1,0 +1,1 @@
+{"index": 24464, "D": "a transformer  having a single coil that serves as both a primary coil and a secondary coil.", "S": [], "A": []}

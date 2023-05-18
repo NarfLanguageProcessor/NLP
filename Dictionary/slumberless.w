@@ -1,0 +1,1 @@
+{"index": 294565, "D": "to sleep, especially lightly; doze; drowse.", "S": [], "A": []}

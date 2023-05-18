@@ -1,0 +1,1 @@
+{"index": 241676, "D": "producing fruit many times, as a perennial plant.", "S": [], "A": []}

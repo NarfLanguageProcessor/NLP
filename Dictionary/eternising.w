@@ -1,0 +1,1 @@
+{"index": 104850, "D": "to make eternal;  perpetuate.", "S": [], "A": []}

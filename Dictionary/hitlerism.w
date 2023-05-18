@@ -1,0 +1,1 @@
+{"index": 141984, "D": "the doctrines, principles, and practices of the Nazi party, especially as developed by Hitler;  Nazism.", "S": [], "A": []}

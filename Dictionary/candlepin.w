@@ -1,0 +1,1 @@
+{"index": 46216, "D": "a bowling pin  that is almost cylindrical and can be set up on either end, used in a game resembling tenpins.", "S": ["bowls ", "duckpins ", "ninepins ", "skittles "], "A": []}

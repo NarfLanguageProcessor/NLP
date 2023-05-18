@@ -1,0 +1,1 @@
+{"index": 153223, "D": "in a way or to a degree that goes beyond proper or reasonable limits; immoderately or excessively", "S": ["ever ", "more ", "too "], "A": ["essential ", "necessary "]}

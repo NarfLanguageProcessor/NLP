@@ -1,0 +1,1 @@
+{"index": 79360, "D": "the act of deflating  or the state of being deflated. ", "S": [], "A": []}

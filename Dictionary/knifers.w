@@ -1,0 +1,1 @@
+{"index": 165554, "D": "an instrument for cutting, consisting essentially of a thin, sharp-edged, metal blade fitted with a handle.", "S": [], "A": []}

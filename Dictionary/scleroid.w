@@ -1,0 +1,1 @@
+{"index": 280972, "D": "hard or indurated.", "S": [], "A": []}

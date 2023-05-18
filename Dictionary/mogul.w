@@ -1,0 +1,1 @@
+{"index": 191246, "D": "a bump or mound of hard snow on a ski slope.", "S": ["executive ", "magnate ", "tycoon "], "A": []}

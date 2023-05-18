@@ -1,0 +1,1 @@
+{"index": 256945, "D": "the linen cloth used by the celebrant for wiping the chalice after each communicant has drunk from it.", "S": [], "A": []}

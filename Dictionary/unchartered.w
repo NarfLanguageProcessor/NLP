@@ -1,0 +1,1 @@
+{"index": 336761, "D": "without a charter. ", "S": [], "A": []}

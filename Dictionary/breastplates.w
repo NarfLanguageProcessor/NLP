@@ -1,0 +1,1 @@
+{"index": 40305, "D": "a piece of plate armor partially or completely covering the front of the torso", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 22966, "D": "to condemn by a sentence or a bill or act of attainder.", "S": ["condemn ", "imprison ", "sentence "], "A": ["free ", "release "]}

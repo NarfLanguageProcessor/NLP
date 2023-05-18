@@ -1,0 +1,1 @@
+{"index": 195104, "D": "a foil,  especially one having more than five lobes.", "S": [], "A": []}

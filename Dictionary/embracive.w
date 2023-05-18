@@ -1,0 +1,1 @@
+{"index": 98254, "D": "thoroughly embracing  or encompassing.", "S": ["comprehensive ", "encyclopedic ", "extensive ", "full-scale ", "in-depth ", "intensive ", "sweeping ", "thorough "], "A": ["exclusive ", "incomplete ", "narrow ", "partial ", "superficial "]}

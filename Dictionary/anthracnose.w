@@ -1,0 +1,1 @@
+{"index": 14478, "D": "a disease of plants characterized by restricted, discolored lesions, caused by a fungus.", "S": [], "A": []}

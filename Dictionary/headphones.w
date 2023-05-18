@@ -1,0 +1,1 @@
+{"index": 134674, "D": "Informal name", "S": ["bug ", "handset ", "radio ", "telephone ", "television "], "A": ["donor ", "giver "]}

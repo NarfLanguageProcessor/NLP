@@ -1,0 +1,1 @@
+{"index": 284277, "D": "(of paint or a painted surface) having a moderate, satiny luster; having or producing a sheen that is neither flat nor highly glossy.", "S": [], "A": []}

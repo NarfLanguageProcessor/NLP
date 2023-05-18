@@ -1,0 +1,1 @@
+{"index": 43081, "D": "an inhabitant of a town, especially a member of the middle class; citizen.", "S": [], "A": []}

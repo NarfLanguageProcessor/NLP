@@ -1,0 +1,1 @@
+{"index": 2431, "D": "the process of measuring the amount of acid  in a solution, as with an acidimeter or by titration.", "S": [], "A": []}

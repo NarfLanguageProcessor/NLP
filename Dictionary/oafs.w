@@ -1,0 +1,1 @@
+{"index": 209862, "D": "a clumsy, stupid person; lout.", "S": ["blunderer ", "chump ", "clod ", "clown ", "dolt ", "dunce ", "fool ", "goon ", "idiot ", "imbecile ", "klutz ", "loser ", "lout ", "moron ", "nincompoop ", "ox ", "sap ", "simpleton "], "A": ["brain ", "genius "]}

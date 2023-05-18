@@ -1,0 +1,1 @@
+{"index": 301108, "D": "marked with or characterized by a spot  or spots. ", "S": [], "A": []}

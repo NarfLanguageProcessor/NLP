@@ -1,0 +1,1 @@
+{"index": 154863, "D": "combining or involving two or more academic disciplines or fields of study", "S": ["integrative ", "multidisciplinary "], "A": []}

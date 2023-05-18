@@ -1,0 +1,1 @@
+{"index": 285475, "D": "abounding in pithy aphorisms or maxims", "S": ["aphoristic ", "concise ", "pithy ", "pointed "], "A": []}

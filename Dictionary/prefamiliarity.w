@@ -1,0 +1,1 @@
+{"index": 247494, "D": "thorough knowledge or mastery of a thing, subject, etc.", "S": [], "A": []}

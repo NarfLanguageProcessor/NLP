@@ -1,0 +1,1 @@
+{"index": 183257, "D": "to make (something broken, worn, torn, or otherwise damaged) whole, sound, or usable by repairing", "S": ["correctable "], "A": ["incurable "]}

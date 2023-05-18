@@ -1,0 +1,1 @@
+{"index": 144422, "D": "a person who holds title to or occupies a house.", "S": [], "A": []}

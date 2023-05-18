@@ -1,0 +1,1 @@
+{"index": 296258, "D": [], "S": ["Socratic elenchus ", "Socratic induction ", "Socratic irony ", "Socratic philosophy ", "catechetical method ", "confession of ignorance "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 1537, "D": "to fit or equip with accessories", "S": ["accent ", "add on ", "adorn ", "equip ", "supplement "], "A": []}

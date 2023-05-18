@@ -1,0 +1,1 @@
+{"index": 120419, "D": "full of fury,  violent passion, or rage; extremely angry; enraged", "S": ["agitation ", "anger ", "enragement ", "exasperation ", "fume ", "lividness ", "upset "], "A": ["calmness ", "happiness ", "peace "]}

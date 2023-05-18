@@ -1,0 +1,1 @@
+{"index": 17317, "D": "pertaining to leave-taking or departing; valedictory.", "S": [], "A": []}

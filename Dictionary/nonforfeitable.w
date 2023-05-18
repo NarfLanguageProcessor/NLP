@@ -1,0 +1,1 @@
+{"index": 204136, "D": "a fine; penalty. ", "S": [], "A": []}

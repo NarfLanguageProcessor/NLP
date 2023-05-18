@@ -1,0 +1,1 @@
+{"index": 4102, "D": "of or relating to Alfred Adler or his doctrines, especially in respect to the belief that behavior is determined by compensation for feelings of inferiority.", "S": [], "A": []}

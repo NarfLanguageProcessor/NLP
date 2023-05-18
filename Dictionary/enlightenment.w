@@ -1,0 +1,1 @@
+{"index": 100671, "D": "the act of enlightening. ", "S": ["awareness ", "civilization ", "insight ", "literacy ", "sophistication ", "understanding ", "wisdom "], "A": ["ignorance ", "stupidity ", "destruction "]}

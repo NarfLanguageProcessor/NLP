@@ -1,0 +1,1 @@
+{"index": 259927, "D": "a deep-sea fish  of the family Icosteidae, inhabiting the North Pacific, having a very flexible body owing to its soft, highly cartilaginous skeleton.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 221091, "D": "to be more important or significant by comparison", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 110699, "D": "suitably; appropriately.", "S": [], "A": []}

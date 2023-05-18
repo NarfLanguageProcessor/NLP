@@ -1,0 +1,1 @@
+{"index": 249032, "D": "a written acknowledgment of having received,  or taken into one's possession, a specified amount of money, goods, etc.", "S": [], "A": []}

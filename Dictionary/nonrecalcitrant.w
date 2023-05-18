@@ -1,0 +1,1 @@
+{"index": 206512, "D": "resisting authority or control; not obedient or compliant; refractory. ", "S": [], "A": []}

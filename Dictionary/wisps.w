@@ -1,0 +1,1 @@
+{"index": 366495, "D": "a handful or small bundle of straw, hay, or the like.", "S": ["tuft "], "A": ["whole "]}

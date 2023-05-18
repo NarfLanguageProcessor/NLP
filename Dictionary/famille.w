@@ -1,0 +1,1 @@
+{"index": 109625, "D": "a type of Chinese porcelain characterized either by a design on a background of yellow (famille jaune) or black (famille noire) or by a design in which the predominant colour is pink (famille rose) or green (famille verte)", "S": [], "A": []}

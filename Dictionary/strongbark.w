@@ -1,0 +1,1 @@
+{"index": 306510, "D": "any of the several tropical American shrubs or small trees belonging to the genus Bourreria, of the borage family, especially B. ovata, of southern Florida and the West Indies, having elliptic leaves and fragrant, white flowers.", "S": [], "A": []}

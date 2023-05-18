@@ -1,0 +1,1 @@
+{"index": 275652, "D": "simple past tense and past participle of ring2. ", "S": ["bar ", "board ", "crossbar ", "crosspiece ", "degree ", "grade ", "level ", "rod ", "round ", "rundle ", "stage ", "tread "], "A": []}

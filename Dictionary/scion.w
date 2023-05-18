@@ -1,0 +1,1 @@
+{"index": 280749, "D": "a descendant.", "S": ["heir "], "A": ["parent "]}

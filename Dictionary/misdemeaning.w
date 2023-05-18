@@ -1,0 +1,1 @@
+{"index": 189098, "D": "to misbehave (oneself).", "S": [], "A": []}

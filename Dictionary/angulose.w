@@ -1,0 +1,1 @@
+{"index": 13004, "D": "having an angle  or angles.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 249244, "D": "the office of a presbyter or elder.", "S": [], "A": []}

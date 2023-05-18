@@ -1,0 +1,1 @@
+{"index": 42362, "D": "a person who buys;  purchaser.", "S": ["audience ", "community ", "country ", "electorate ", "everyone ", "nation ", "people ", "populace ", "population ", "society "], "A": []}

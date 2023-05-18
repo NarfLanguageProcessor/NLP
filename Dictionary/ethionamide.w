@@ -1,0 +1,1 @@
+{"index": 105019, "D": "an antimicrobial substance, C8H10N2S, used against susceptible Mycobacterium tuberculosis in combination with other drugs in the treatment of any active form of tuberculosis.", "S": [], "A": []}

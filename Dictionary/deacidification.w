@@ -1,0 +1,1 @@
+{"index": 77416, "D": "to remove acid from (a substance).", "S": [], "A": []}

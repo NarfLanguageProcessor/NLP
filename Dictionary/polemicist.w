@@ -1,0 +1,1 @@
+{"index": 241547, "D": "a person who is engaged or versed in polemics.", "S": ["apologist ", "pleader ", "sophist "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 286100, "D": "a print made by the silkscreen process.", "S": [], "A": []}

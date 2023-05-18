@@ -1,0 +1,1 @@
+{"index": 358586, "D": "of, relating to, or done by worms.", "S": ["climbing ", "spreading "], "A": ["upright ", "vertical "]}

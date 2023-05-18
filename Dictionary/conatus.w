@@ -1,0 +1,1 @@
+{"index": 65043, "D": "an effort or striving.", "S": ["conation "], "A": []}

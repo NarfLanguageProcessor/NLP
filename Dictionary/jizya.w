@@ -1,0 +1,1 @@
+{"index": 161403, "D": "the poll tax formerly paid by minority religious groups within the Muslim empire.", "S": [], "A": []}

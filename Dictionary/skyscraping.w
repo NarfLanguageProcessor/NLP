@@ -1,0 +1,1 @@
+{"index": 293375, "D": "of or like a skyscraper; very high", "S": ["soaring ", "towering "], "A": ["below ", "beneath ", "humble ", "low ", "modest ", "unobtrusive "]}

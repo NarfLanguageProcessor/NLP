@@ -1,0 +1,1 @@
+{"index": 284795, "D": "of or relating to psychology. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 255256, "D": "(no longer in technical use) a neurosis marked by fear, anxiety, phobias, etc.", "S": [], "A": []}

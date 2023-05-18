@@ -1,0 +1,1 @@
+{"index": 73771, "D": "a transverse beam  in a structure, as a joist.", "S": [], "A": []}

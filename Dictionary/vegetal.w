@@ -1,0 +1,1 @@
+{"index": 357687, "D": "of, relating to, or of the nature of plants or vegetables. ", "S": ["grassy ", "vegetative ", "verdant "], "A": []}

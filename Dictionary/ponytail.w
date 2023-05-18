@@ -1,0 +1,1 @@
+{"index": 243041, "D": "an arrangement of the hair in a long lock drawn tightly against the back of the head and cinched so as to hang loosely.", "S": ["pigtail "], "A": []}

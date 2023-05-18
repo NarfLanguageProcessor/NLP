@@ -1,0 +1,1 @@
+{"index": 363636, "D": "skillful in predicting weather.", "S": [], "A": []}

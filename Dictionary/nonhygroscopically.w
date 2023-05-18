@@ -1,0 +1,1 @@
+{"index": 204450, "D": "absorbing or attracting moisture from the air.", "S": [], "A": []}

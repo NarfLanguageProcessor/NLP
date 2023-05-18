@@ -1,0 +1,1 @@
+{"index": 86045, "D": "an electric machine for transforming direct current into alternating current or for altering the voltage of direct current, having two armature windings on the same core and a common magnetic field.", "S": [], "A": []}

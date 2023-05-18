@@ -1,0 +1,1 @@
+{"index": 324444, "D": "arbitrary or unrestrained exercise of power; despotic abuse of authority.", "S": ["authoritarianism ", "autocracy ", "coercion ", "cruelty ", "despotism ", "domination ", "oligarchy ", "oppression ", "terrorism ", "totalitarianism "], "A": ["democracy "]}

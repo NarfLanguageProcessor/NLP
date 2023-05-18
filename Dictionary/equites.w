@@ -1,0 +1,1 @@
+{"index": 103407, "D": "mounted military units; cavalry.", "S": [], "A": []}

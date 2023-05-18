@@ -1,0 +1,1 @@
+{"index": 39628, "D": "a person who does a lot of bragging. ", "S": ["blatherskite ", "blowhard ", "blusterer ", "boaster ", "brag ", "braggadocio ", "bragger ", "egotist ", "exhibitionist ", "gasbag ", "grandstander ", "hotshot ", "know-it-all ", "peacock ", "ranter ", "raver ", "show off ", "swaggerer ", "swashbuckler ", "trumpeter ", "windbag "], "A": []}

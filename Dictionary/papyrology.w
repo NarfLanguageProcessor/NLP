@@ -1,0 +1,1 @@
+{"index": 225252, "D": "the study of papyrus manuscripts.", "S": [], "A": []}

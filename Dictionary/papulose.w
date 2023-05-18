@@ -1,0 +1,1 @@
+{"index": 225328, "D": "a small, somewhat pointed elevation of the skin, usually inflammatory but nonsuppurative.", "S": [], "A": []}

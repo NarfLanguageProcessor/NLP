@@ -1,0 +1,1 @@
+{"index": 155020, "D": "an intermediate grade,  form, stage, etc.", "S": [], "A": []}

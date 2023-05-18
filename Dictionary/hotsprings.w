@@ -1,0 +1,1 @@
+{"index": 144311, "D": [], "S": ["mineral spring ", "warm spring "], "A": []}

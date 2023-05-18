@@ -1,0 +1,1 @@
+{"index": 243874, "D": "of or relating to a possessor or to possession", "S": [], "A": []}

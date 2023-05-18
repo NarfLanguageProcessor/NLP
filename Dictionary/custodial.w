@@ -1,0 +1,1 @@
+{"index": 75695, "D": "of or relating to custody. ", "S": ["careful ", "defensive ", "jealous ", "possessive ", "vigilant ", "warm ", "watchful "], "A": ["careless ", "inattentive ", "negligent "]}

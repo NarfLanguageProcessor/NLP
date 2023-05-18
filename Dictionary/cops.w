@@ -1,0 +1,1 @@
+{"index": 68703, "D": "a police officer. ", "S": ["deputy ", "flatfoot ", "fuzz ", "lawman ", "patrolman ", "policeman ", "policewoman ", "sheriff "], "A": []}

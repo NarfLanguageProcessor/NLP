@@ -1,0 +1,1 @@
+{"index": 180658, "D": "a crossbreed of large sheep having a black and white face and a long curly fleece", "S": [], "A": []}

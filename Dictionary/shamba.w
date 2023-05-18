@@ -1,0 +1,1 @@
+{"index": 287310, "D": "(in E Africa) any field used for growing crops", "S": [], "A": []}

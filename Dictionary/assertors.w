@@ -1,0 +1,1 @@
+{"index": 21705, "D": "to state with assurance, confidence, or force; state strongly or positively; affirm; aver", "S": [], "A": []}

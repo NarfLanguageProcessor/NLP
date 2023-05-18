@@ -1,0 +1,1 @@
+{"index": 299222, "D": "a male germ cell (primary spermatocyte ) that gives rise by meiosis to a pair of haploid cells (secondary spermatocytes ) that give rise in turn to spermatids.", "S": [], "A": []}

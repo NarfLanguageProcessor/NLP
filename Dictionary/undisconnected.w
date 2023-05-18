@@ -1,0 +1,1 @@
+{"index": 340470, "D": "disjointed; broken. ", "S": [], "A": []}

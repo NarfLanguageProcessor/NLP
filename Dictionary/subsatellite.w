@@ -1,0 +1,1 @@
+{"index": 309044, "D": "a satellite  designed to be released into orbit from another spacecraft.", "S": [], "A": []}

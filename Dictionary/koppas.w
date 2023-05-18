@@ -1,0 +1,1 @@
+{"index": 166060, "D": "a letter (\ue01e, \ue01d) of some early Greek alphabets, occurring between pi and rho and equivalent to Latin Q", "S": [], "A": []}

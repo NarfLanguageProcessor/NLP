@@ -1,0 +1,1 @@
+{"index": 335813, "D": "(of personal property or money) disposed of by a person\u2019s final will", "S": [], "A": []}

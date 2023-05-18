@@ -1,0 +1,1 @@
+{"index": 326454, "D": "the practices and principles of a totalitarian  regime.", "S": ["authoritarianism ", "autocracy ", "despotism ", "tyranny "], "A": ["democracy "]}

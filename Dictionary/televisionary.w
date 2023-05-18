@@ -1,0 +1,1 @@
+{"index": 318311, "D": " the transmission of programming, in the form of still or moving images, via radio waves, cable wires, satellite, or wireless network to a receiver or other screen.", "S": [], "A": []}

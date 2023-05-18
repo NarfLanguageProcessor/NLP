@@ -1,0 +1,1 @@
+{"index": 78377, "D": "a unit of length equal to 1/10 (0.1) meter. Abbreviation", "S": [], "A": []}

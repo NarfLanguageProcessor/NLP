@@ -1,0 +1,1 @@
+{"index": 326305, "D": "a rich cake, especially one containing little or no flour, usually made with eggs and ground nuts or breadcrumbs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 122846, "D": "to smear or cover with a gummy, sticky substance (often followed by up)", "S": [], "A": []}

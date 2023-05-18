@@ -1,0 +1,1 @@
+{"index": 145202, "D": "an Athabascan Indian language of northwestern California.", "S": [], "A": []}

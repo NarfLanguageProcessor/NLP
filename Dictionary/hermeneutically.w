@@ -1,0 +1,1 @@
+{"index": 137150, "D": "of or relating to hermeneutics;  interpretative; explanatory.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 183495, "D": "of or relating to the mind", "S": ["cerebral ", "intellectual ", "psychic ", "psychological ", "spiritual ", "subjective "], "A": ["physical "]}

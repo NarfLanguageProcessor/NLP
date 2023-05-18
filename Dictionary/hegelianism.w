@@ -1,0 +1,1 @@
+{"index": 135322, "D": "the philosophy of Hegel and his followers, characterized by the use of the Hegelian dialectic. ", "S": [], "A": []}

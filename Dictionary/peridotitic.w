@@ -1,0 +1,1 @@
+{"index": 230936, "D": "a coarsely granular igneous rock composed chiefly of olivine with an admixture of various other minerals.", "S": [], "A": []}

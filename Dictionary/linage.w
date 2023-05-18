@@ -1,0 +1,1 @@
+{"index": 172659, "D": "the number of printed lines,  especially agate lines  covered by a magazine article, newspaper advertisement, etc.", "S": [], "A": []}

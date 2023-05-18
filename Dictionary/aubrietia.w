@@ -1,0 +1,1 @@
+{"index": 23232, "D": "any of several plants belonging to the genus Aubrietia, of the mustard family, forming dense mats and having numerous small, purplish flowers.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 324955, "D": "a shrub, Pittosporum tobira, of China and Japan, having leathery leaves, fragrant, greenish-white flower clusters, densely hairy fruit, and lemon-scented foliage.", "S": [], "A": []}

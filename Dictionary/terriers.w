@@ -1,0 +1,1 @@
+{"index": 319574, "D": "any of several breeds of usually small dogs, used originally to pursue game and drive it out of its hole or burrow.", "S": [], "A": []}

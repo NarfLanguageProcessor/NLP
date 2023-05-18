@@ -1,0 +1,1 @@
+{"index": 267618, "D": "to negotiate  again, as a loan, treaty, etc.", "S": ["delayed ", "negotiated ", "postponed "], "A": ["advanced ", "forwarded ", "furthered ", "hastened ", "hurried "]}

@@ -1,0 +1,1 @@
+{"index": 155932, "D": "relating to, devoted to, or characterized by friendly companionship or relations", "S": [], "A": []}

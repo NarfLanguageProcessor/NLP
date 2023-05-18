@@ -1,0 +1,1 @@
+{"index": 60210, "D": "the excision of the clitoris, usually performed as part of female initiation rites, mainly among certain African peoples, but also sometimes used in various societies to curb sexual desire; female circumcision.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 362360, "D": "a Covenanter persecuted by Charles II and James II, especially one who fled home to follow rebellious Presbyterian ministers who refused to accept episcopacy.", "S": ["nomad ", "vagabond "], "A": []}

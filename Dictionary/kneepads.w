@@ -1,0 +1,1 @@
+{"index": 165503, "D": "a pad  of leather, foam rubber, etc., as one worn by football or basketball players to protect the knee. ", "S": [], "A": []}

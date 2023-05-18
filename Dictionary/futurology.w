@@ -1,0 +1,1 @@
+{"index": 120729, "D": "the study or forecasting of trends or developments in science, technology, political or social structure, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 126817, "D": "a hormone secreted by the pancreas that acts in opposition to insulin in the regulation of blood glucose levels.", "S": [], "A": []}

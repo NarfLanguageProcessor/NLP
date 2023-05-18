@@ -1,0 +1,1 @@
+{"index": 328460, "D": "a crystal form having all faces trapeziums.", "S": [], "A": []}

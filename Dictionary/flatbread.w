@@ -1,0 +1,1 @@
+{"index": 114060, "D": "any of various often unleavened breads baked in a flat, usually round or oval shape, as those eaten in India, the Middle East, and Italy.", "S": [], "A": []}

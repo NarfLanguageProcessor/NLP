@@ -1,0 +1,1 @@
+{"index": 187362, "D": "a unit of measure, applied to electrolytes, that expresses the combining power of a substance. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 165230, "D": "a set or collection of tools, supplies, instructional matter, etc., for a specific purpose", "S": ["equip ", "furnish "], "A": ["disrobe ", "unclothe ", "uncover "]}

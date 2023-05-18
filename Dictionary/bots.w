@@ -1,0 +1,1 @@
+{"index": 38786, "D": "a disease affecting various mammals, especially horses, caused by the attachment of the parasitic larvae of botflies to the stomach of the host.", "S": [], "A": []}

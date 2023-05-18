@@ -1,0 +1,1 @@
+{"index": 160393, "D": "to jest; joke; gibe.", "S": ["banter ", "laugh ", "quip "], "A": ["compliment ", "flatter ", "praise "]}

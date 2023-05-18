@@ -1,0 +1,1 @@
+{"index": 252204, "D": "a rope having a hook at one end and a toggle at the other, used for various purposes, as to draw a gun carriage.", "S": [], "A": []}

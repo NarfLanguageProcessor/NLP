@@ -1,0 +1,1 @@
+{"index": 188623, "D": "improperly or badly adjusted or aligned;  out of line or position", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 260553, "D": "any of various instruments for determining the distance from the observer to a particular object, as for sighting a gun or adjusting the focus of a camera.", "S": [], "A": []}

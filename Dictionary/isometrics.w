@@ -1,0 +1,1 @@
+{"index": 159102, "D": "physical exercise involving isometric contraction of muscles", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 180063, "D": "a psychoactive narcotic drug rendered from the leaves and flowering tops of a cannabis  plant, especially Cannabis sativa, used for recreational or medical purposes by smoking, vaping, or ingesting", "S": [], "A": []}

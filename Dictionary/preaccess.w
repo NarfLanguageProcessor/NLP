@@ -1,0 +1,1 @@
+{"index": 245419, "D": "the ability, right, or permission to approach, enter, speak with, or use; admittance", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 214543, "D": "books, manuscripts, and other objects pertaining to the Orient, an older name for East Asia, and Oriental art, culture, history, folklore, or the like.", "S": [], "A": []}

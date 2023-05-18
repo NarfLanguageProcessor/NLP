@@ -1,0 +1,1 @@
+{"index": 167272, "D": "another word for laevorotatory", "S": [], "A": []}

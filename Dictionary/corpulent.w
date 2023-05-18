@@ -1,0 +1,1 @@
+{"index": 69566, "D": "large or bulky of body; portly; stout; fat.", "S": ["burly ", "fleshy ", "obese ", "portly "], "A": ["skinny ", "thin ", "underweight "]}

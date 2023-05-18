@@ -1,0 +1,1 @@
+{"index": 166668, "D": "articulated with the lower lip touching the upper front teeth, as f or v, or, rarely, with the upper lip touching the lower front teeth.", "S": [], "A": []}

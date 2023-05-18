@@ -1,0 +1,1 @@
+{"index": 123181, "D": [], "S": ["congeal ", "curdle ", "thicken "], "A": ["melt ", "thin "]}

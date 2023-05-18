@@ -1,0 +1,1 @@
+{"index": 135426, "D": "a variant spelling of Hijra. ", "S": [], "A": []}

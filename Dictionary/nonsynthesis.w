@@ -1,0 +1,1 @@
+{"index": 207318, "D": "the combining of the constituent elements of separate material or abstract entities into a single or unified entity (opposed to analysis,) the separating of any material or abstract entity into its constituent elements.", "S": [], "A": []}

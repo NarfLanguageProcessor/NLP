@@ -1,0 +1,1 @@
+{"index": 30301, "D": "photographs of nearly nude young men in magazines or the like, posed to display their muscular bodies.", "S": ["frame ", "torso "], "A": ["head ", "mind ", "soul ", "spirit "]}

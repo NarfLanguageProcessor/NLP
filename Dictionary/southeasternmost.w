@@ -1,0 +1,1 @@
+{"index": 297990, "D": "the point or direction midway between south and east. Abbreviation", "S": [], "A": []}

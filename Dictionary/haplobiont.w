@@ -1,0 +1,1 @@
+{"index": 133465, "D": "an organism, esp a plant, that exists in either the diploid form or the haploid form (but never alternates between these forms) during its life cycle", "S": [], "A": []}

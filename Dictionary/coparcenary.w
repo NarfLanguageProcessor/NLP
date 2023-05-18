@@ -1,0 +1,1 @@
+{"index": 68419, "D": "a special kind of joint ownership arising especially under common law upon the descent of real property to several female heirs.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 197201, "D": "a soldier termite characterized by a beaklike snout through which a sticky secretion repellent to other insects is emitted.", "S": [], "A": []}

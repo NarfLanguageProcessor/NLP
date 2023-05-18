@@ -1,0 +1,1 @@
+{"index": 30622, "D": "any of various tick trefoils, especially Desmodium tortuosum, grown for forage in subtropical regions.", "S": [], "A": []}

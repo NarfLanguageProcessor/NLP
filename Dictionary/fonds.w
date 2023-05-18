@@ -1,0 +1,1 @@
+{"index": 116042, "D": "having a liking or affection for (usually followed by of)", "S": [], "A": []}

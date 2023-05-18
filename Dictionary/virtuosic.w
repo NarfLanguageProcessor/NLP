@@ -1,0 +1,1 @@
+{"index": 360256, "D": "a person who has special knowledge or skill in a field.", "S": ["accomplished ", "gifted ", "polished ", "skilled ", "superb ", "superlative ", "talented "], "A": ["inept ", "poor ", "imperfect ", "incomplete ", "unfinished "]}

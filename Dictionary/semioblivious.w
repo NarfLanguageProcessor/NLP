@@ -1,0 +1,1 @@
+{"index": 284574, "D": "unmindful; unconscious; unaware (usually followed by of or to)", "S": [], "A": []}

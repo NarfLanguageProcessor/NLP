@@ -1,0 +1,1 @@
+{"index": 71161, "D": "transference  on the part of the analyst of repressed feelings aroused by the patient.", "S": [], "A": []}

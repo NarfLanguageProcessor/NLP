@@ -1,0 +1,1 @@
+{"index": 84538, "D": "a mineral, aluminum oxyhydroxide, AlO(OH), occurring in crystals, or more usually in lamellar or scaly masses", "S": [], "A": []}

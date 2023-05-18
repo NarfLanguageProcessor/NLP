@@ -1,0 +1,1 @@
+{"index": 29356, "D": "an expanse of sand or pebbles along a shore.", "S": ["abandoned ", "deserted ", "marooned ", "stranded ", "wrecked "], "A": ["at sea "]}

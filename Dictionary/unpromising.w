@@ -1,0 +1,1 @@
+{"index": 348608, "D": "unlikely to be favorable or successful, as the weather, a situation, or a career.", "S": ["dark ", "dismal ", "dreary ", "gloomy ", "grim ", "harsh ", "lonely ", "sad ", "somber "], "A": ["bright ", "cheerful ", "encouraging ", "glad ", "happy ", "hopeful ", "joyful ", "light ", "pleasant ", "sunny "]}

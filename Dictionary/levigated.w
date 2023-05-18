@@ -1,0 +1,1 @@
+{"index": 171240, "D": "to rub, grind, or reduce to a fine powder, as in a mortar, with or without the addition of a liquid.", "S": ["grate ", "pulverize ", "reduce ", "scrape "], "A": []}

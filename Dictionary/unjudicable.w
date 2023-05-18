@@ -1,0 +1,1 @@
+{"index": 345234, "D": "capable of being or liable to be judged or tried.", "S": [], "A": []}

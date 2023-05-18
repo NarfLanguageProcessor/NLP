@@ -1,0 +1,1 @@
+{"index": 25243, "D": "of, relating to, or characteristic of Azerbaijan  or its people.", "S": [], "A": []}

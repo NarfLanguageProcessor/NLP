@@ -1,0 +1,1 @@
+{"index": 51910, "D": "the arrangement of bristles on the exoskeleton of an insect.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 42278, "D": "a toxin obtained from the skin glands of the European toad, Bufa vulgaris.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 157567, "D": "year-over-year (def. 1). ", "S": [], "A": []}

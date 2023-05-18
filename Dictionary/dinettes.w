@@ -1,0 +1,1 @@
+{"index": 86093, "D": "a small space or alcove, often in or near the kitchen, serving as an informal dining  area.", "S": ["breakfast nook ", "eating place ", "salle a manger "], "A": []}

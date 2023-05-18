@@ -1,0 +1,1 @@
+{"index": 45732, "D": "a short garment worn underneath a sheer bodice to conceal the underwear.", "S": ["dress ", "lingerie ", "shift ", "shirt ", "smock "], "A": []}

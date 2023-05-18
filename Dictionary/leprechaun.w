@@ -1,0 +1,1 @@
+{"index": 170672, "D": "a dwarf or sprite.", "S": ["fairy ", "gnome ", "pixie "], "A": []}

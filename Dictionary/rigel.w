@@ -1,0 +1,1 @@
+{"index": 272792, "D": "a first-magnitude star in the constellation Orion.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 259318, "D": "a horse  bred or kept for racing,  especially in flat races  or steeplechases.", "S": ["cayuse ", "crib ", "glass ", "mustang ", "nag ", "pinto ", "trot "], "A": []}

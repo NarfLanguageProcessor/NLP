@@ -1,0 +1,1 @@
+{"index": 61318, "D": "a genus of fungi,  occurring as both mold and yeast, with species especially present in the soil of the southwestern United States and parts of Mexico, Central America, and South America", "S": [], "A": []}

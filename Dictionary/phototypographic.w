@@ -1,0 +1,1 @@
+{"index": 235442, "D": "(formerly) the art or technique of making printing surfaces by light or photography, by any of a large number of processes.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 108026, "D": "for the particular or specific purpose; specially", "S": ["precisely ", "specially ", "specifically "], "A": ["broadly "]}

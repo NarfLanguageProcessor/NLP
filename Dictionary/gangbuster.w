@@ -1,0 +1,1 @@
+{"index": 121849, "D": "a law-enforcement officer who specializes in breaking up organized crime, often by forceful or sensational means.", "S": [], "A": []}

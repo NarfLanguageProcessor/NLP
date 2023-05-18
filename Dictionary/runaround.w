@@ -1,0 +1,1 @@
+{"index": 275618, "D": "indecisive or evasive treatment, especially in response to a request", "S": ["come-off ", "delay ", "detour ", "difficulty ", "diversion ", "elusion ", "escape ", "escaping ", "eschewal ", "evasion ", "inertia ", "postponement ", "roundabout ", "shunning "], "A": ["challenge ", "facing ", "meeting "]}

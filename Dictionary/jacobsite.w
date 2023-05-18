@@ -1,0 +1,1 @@
+{"index": 160004, "D": "a rare magnetic mineral, manganese iron oxide, MnFe2O4, similar to magnetite.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 151134, "D": "without distinctive  characteristics.", "S": [], "A": []}

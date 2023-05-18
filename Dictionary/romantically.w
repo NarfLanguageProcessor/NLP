@@ -1,0 +1,1 @@
+{"index": 274064, "D": "of, relating to, or of the nature of romance; characteristic or suggestive of the world of romance", "S": [], "A": []}

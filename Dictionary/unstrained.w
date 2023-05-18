@@ -1,0 +1,1 @@
+{"index": 352124, "D": "not under strain  or tension", "S": [], "A": []}

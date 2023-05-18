@@ -1,0 +1,1 @@
+{"index": 74866, "D": "medieval form of musket.", "S": [], "A": []}

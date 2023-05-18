@@ -1,0 +1,1 @@
+{"index": 263497, "D": "to set down in writing or the like, as for the purpose of preserving evidence.", "S": ["documented ", "listed ", "registered ", "reported ", "taped "], "A": []}

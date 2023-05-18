@@ -1,0 +1,1 @@
+{"index": 44859, "D": "a combining form of calcium,  used with the meaning \u201ccalcium salt\u201d or \u201ccalcite\u201d in the formation of compound words", "S": [], "A": []}

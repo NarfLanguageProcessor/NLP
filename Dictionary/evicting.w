@@ -1,0 +1,1 @@
+{"index": 106220, "D": "to expel (a person, especially a tenant) from land, a building, etc., by legal process, as for nonpayment of rent.", "S": ["chase ", "dislodge ", "dismiss ", "dispossess ", "eject ", "expel ", "force out ", "oust ", "remove "], "A": ["hold ", "keep ", "take in ", "welcome "]}

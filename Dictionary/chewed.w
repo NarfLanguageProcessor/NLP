@@ -1,0 +1,1 @@
+{"index": 54028, "D": "to crush or grind with the teeth; masticate.", "S": ["smashed "], "A": []}

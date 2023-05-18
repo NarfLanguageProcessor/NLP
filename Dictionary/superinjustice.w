@@ -1,0 +1,1 @@
+{"index": 312103, "D": "the quality or fact of being unjust; inequity.", "S": [], "A": []}

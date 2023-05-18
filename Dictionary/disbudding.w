@@ -1,0 +1,1 @@
+{"index": 87206, "D": "to remove leaf buds or shoots from (a plant) to produce a certain shape or effect.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 35050, "D": "of, relating to, or resembling Otto von Bismarck,  especially in respect to his aggressiveness in politics and diplomacy.", "S": [], "A": []}

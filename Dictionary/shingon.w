@@ -1,0 +1,1 @@
+{"index": 288361, "D": "a Japanese form of syncretistic Buddhism founded in the 9th century by K\u016bkai (a.d. 774\u2013835) and stressing the oral transmission of mystic formulas from master to disciple.", "S": [], "A": []}

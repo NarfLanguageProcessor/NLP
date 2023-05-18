@@ -1,0 +1,1 @@
+{"index": 206042, "D": "capable of being considered carefully or deeply.", "S": [], "A": []}

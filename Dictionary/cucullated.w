@@ -1,0 +1,1 @@
+{"index": 74560, "D": "resembling a cowl or hood.", "S": [], "A": []}

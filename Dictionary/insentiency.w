@@ -1,0 +1,1 @@
+{"index": 153541, "D": "not sentient;  without sensation or feeling; inanimate.", "S": [], "A": []}

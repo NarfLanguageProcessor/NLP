@@ -1,0 +1,1 @@
+{"index": 126544, "D": "a musical instrument composed of a set of graduated steel bars mounted in a frame and struck with hammers, used especially in bands.", "S": ["angelus ", "chimes ", "gong ", "lyra ", "peal ", "tintinnabulation ", "tocsin "], "A": []}

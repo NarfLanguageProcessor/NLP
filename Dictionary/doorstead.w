@@ -1,0 +1,1 @@
+{"index": 91577, "D": "the structure of a doorway.", "S": [], "A": []}

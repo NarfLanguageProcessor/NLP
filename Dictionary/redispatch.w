@@ -1,0 +1,1 @@
+{"index": 264246, "D": "to send off or away with speed, as a messenger, telegram, body of troops, etc.", "S": [], "A": []}

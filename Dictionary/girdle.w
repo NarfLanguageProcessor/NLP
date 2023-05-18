@@ -1,0 +1,1 @@
+{"index": 125482, "D": "a lightweight undergarment, worn especially by women, often partly or entirely of elastic or boned, for supporting and giving a slimmer appearance to the abdomen, hips, and buttocks.", "S": ["waistband "], "A": []}

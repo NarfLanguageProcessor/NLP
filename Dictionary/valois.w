@@ -1,0 +1,1 @@
+{"index": 356787, "D": "a member of a ruling family of France that reigned from 1328 to 1589.", "S": [], "A": []}

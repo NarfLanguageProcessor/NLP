@@ -1,0 +1,1 @@
+{"index": 93199, "D": "past participle of drive. ", "S": ["consumed ", "directed ", "forced ", "galvanized ", "guided ", "herded ", "impelled ", "induced ", "motivated ", "obsessed ", "possessed ", "pushed ", "steered "], "A": []}

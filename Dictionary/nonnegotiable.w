@@ -1,0 +1,1 @@
+{"index": 205475, "D": "the policy is non-negotiable", "S": ["basic ", "entailed ", "inbred ", "inviolable ", "natural ", "nontransferable ", "sacrosanct ", "unassailable ", "untransferable "], "A": ["acquired ", "changeable ", "impermanent ", "transitory "]}

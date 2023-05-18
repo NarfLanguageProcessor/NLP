@@ -1,0 +1,1 @@
+{"index": 363860, "D": "an old British unit of weight of various values, especially 16 stones of 16 pounds each, or 256 pounds.", "S": [], "A": []}

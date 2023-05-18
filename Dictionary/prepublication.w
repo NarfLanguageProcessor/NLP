@@ -1,0 +1,1 @@
+{"index": 248981, "D": "the period immediately preceding the publication  of a book.", "S": [], "A": []}

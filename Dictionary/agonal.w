@@ -1,0 +1,1 @@
+{"index": 6350, "D": "of, relating to, or symptomatic of agony,  especially paroxysmal distress, as the death throes.", "S": [], "A": []}

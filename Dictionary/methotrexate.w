@@ -1,0 +1,1 @@
+{"index": 185305, "D": "a toxic folic acid analogue, C20H22N8O5, that inhibits cellular reproduction, used primarily in the treatment of psoriasis and certain cancers and as an immunosuppressive agent.", "S": [], "A": []}

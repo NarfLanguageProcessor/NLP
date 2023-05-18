@@ -1,0 +1,1 @@
+{"index": 214483, "D": "a sheer rayon, nylon, or silk fabric constructed in plain weave and with a crisp finish, used in the manufacture of evening dresses, trimmings, etc.", "S": [], "A": []}

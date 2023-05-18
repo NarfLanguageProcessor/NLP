@@ -1,0 +1,1 @@
+{"index": 73592, "D": "any of several crocodilians  of the genus Crocodylus, found in sluggish waters and swamps of the tropics.", "S": [], "A": []}

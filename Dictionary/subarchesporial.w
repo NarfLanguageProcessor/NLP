@@ -1,0 +1,1 @@
+{"index": 307210, "D": "the primitive cell, or group of cells, that give rise to the cells from which spores  are derived.", "S": [], "A": []}

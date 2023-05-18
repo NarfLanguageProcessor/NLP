@@ -1,0 +1,1 @@
+{"index": 126910, "D": "one of the characteristic chafflike bracts of the inflorescence of grasses, sedges, etc., especially one of the pair of bracts at the base of a spikelet.", "S": ["chaff ", "pod ", "rind "], "A": ["center ", "inside ", "interior ", "middle "]}

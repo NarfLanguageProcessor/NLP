@@ -1,0 +1,1 @@
+{"index": 349876, "D": "capable of reversing  or of being reversed. ", "S": [], "A": []}

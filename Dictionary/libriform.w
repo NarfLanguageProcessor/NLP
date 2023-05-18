@@ -1,0 +1,1 @@
+{"index": 171587, "D": "(of a fibre of woody tissue) elongated and having a pitted thickened cell wall", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 271905, "D": "a master or teacher of rhetoric.", "S": [], "A": []}

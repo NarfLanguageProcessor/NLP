@@ -1,0 +1,1 @@
+{"index": 93320, "D": "drooling,  tending to drool,  or covered with drool. ", "S": [], "A": []}

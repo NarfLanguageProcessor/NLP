@@ -1,0 +1,1 @@
+{"index": 54090, "D": "a family of languages indigenous to Central America, Colombia, and Ecuador.", "S": [], "A": []}

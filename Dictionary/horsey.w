@@ -1,0 +1,1 @@
+{"index": 144033, "D": "of, relating to, or characteristic of a horse. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 129809, "D": "to feel grief  or great sorrow", "S": ["ache ", "cry ", "lament ", "regret ", "wail ", "weep "], "A": ["approve ", "be happy ", "delight ", "gloat ", "praise ", "refuse ", "relieve "]}

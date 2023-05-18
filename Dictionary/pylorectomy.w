@@ -1,0 +1,1 @@
+{"index": 236744, "D": "the surgical removal of all or part of the pylorus, often including the adjacent portion of the stomach (partial gastrectomy)", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 335656, "D": "an expanse of sand or pebbles along a shore.", "S": [], "A": []}

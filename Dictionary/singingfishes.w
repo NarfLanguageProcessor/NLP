@@ -1,0 +1,1 @@
+{"index": 291699, "D": "midshipman (def. 3). ", "S": [], "A": []}

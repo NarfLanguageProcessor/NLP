@@ -1,0 +1,1 @@
+{"index": 100712, "D": "to catch, as in a net; entangle", "S": ["affected ", "concerned ", "embroiled ", "entangled ", "interested ", "participating "], "A": ["disinterested ", "unconcerned ", "unperturbed ", "untroubled "]}

@@ -1,0 +1,1 @@
+{"index": 137075, "D": "a professed believer who maintains religious opinions contrary to those accepted by their church or rejects doctrines prescribed by that church.", "S": ["dissenter ", "schismatic "], "A": ["adherent ", "believer ", "true believer "]}

@@ -1,0 +1,1 @@
+{"index": 249771, "D": "to oversee (a process, work, workers, etc.) during execution or performance; superintend; have the oversight and direction of.", "S": [], "A": []}

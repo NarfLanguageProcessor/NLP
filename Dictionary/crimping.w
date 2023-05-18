@@ -1,0 +1,1 @@
+{"index": 73005, "D": "to press into small regular folds; make wavy.", "S": ["coil ", "crease ", "crinkle ", "crisp ", "crumple ", "flow ", "frizz ", "pleat ", "ruck ", "screw ", "scrunch ", "set ", "swirl ", "undulate ", "wave ", "wrinkle "], "A": ["straighten "]}

@@ -1,0 +1,1 @@
+{"index": 190476, "D": "the official headdress of a bishop in the Western Church,  in its modern form a tall cap with a top deeply cleft crosswise, the outline of the front and back resembling that of a pointed arch.", "S": [], "A": []}

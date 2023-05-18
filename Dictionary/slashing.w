@@ -1,0 +1,1 @@
+{"index": 293703, "D": "a slash. ", "S": ["caustic ", "scathing ", "stinging ", "withering "], "A": ["kind ", "nice ", "pleasant "]}

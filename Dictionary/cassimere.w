@@ -1,0 +1,1 @@
+{"index": 48983, "D": "a twill-weave, worsted suiting fabric, often with a striped pattern.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 112940, "D": "any of the terminal members of the hand, especially one other than the thumb.", "S": ["claw ", "index finger ", "ring finger ", "thumb "], "A": []}

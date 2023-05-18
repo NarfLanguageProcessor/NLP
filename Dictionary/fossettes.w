@@ -1,0 +1,1 @@
+{"index": 117796, "D": "a small hollow or depression, as in a bivalve shell; dimple.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 175610, "D": "of humble birth.", "S": ["poor "], "A": ["complex ", "complicated ", "decorated ", "difficult ", "embellished ", "intricate ", "noble ", "ornate ", "rich ", "unclear "]}

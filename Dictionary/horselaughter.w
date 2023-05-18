@@ -1,0 +1,1 @@
+{"index": 144042, "D": "a loud, coarse laugh,  especially of derision.", "S": [], "A": []}

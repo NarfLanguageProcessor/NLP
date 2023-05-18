@@ -1,0 +1,1 @@
+{"index": 309119, "D": "occurring or coming later or after (often followed by to)", "S": ["consecutive ", "consequent ", "ensuing ", "following ", "successive "], "A": ["preceding "]}

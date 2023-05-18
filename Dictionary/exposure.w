@@ -1,0 +1,1 @@
+{"index": 107986, "D": "the act of exposing,  laying open, or uncovering", "S": ["disclosure ", "hazard ", "liability ", "publicity ", "risk ", "vulnerability "], "A": ["certainty ", "safety ", "secret ", "surety ", "concealment ", "cover ", "hiding ", "protection "]}

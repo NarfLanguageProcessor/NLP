@@ -1,0 +1,1 @@
+{"index": 300843, "D": "a ghost; specter. ", "S": [], "A": []}

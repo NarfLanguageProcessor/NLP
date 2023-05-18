@@ -1,0 +1,1 @@
+{"index": 231110, "D": "an act or instance of dividing a subject into historical eras for purposes of analysis and study.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 258911, "D": "a quantile for the special case of five equal proportions.", "S": [], "A": []}

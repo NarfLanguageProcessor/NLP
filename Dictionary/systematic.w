@@ -1,0 +1,1 @@
+{"index": 292522, "D": "having, showing, or involving a system,  method, or plan", "S": ["efficient ", "methodical ", "organized ", "precise ", "standardized "], "A": ["chaotic ", "confused ", "disorderly ", "mixed up ", "unmethodical ", "unsystematic "]}

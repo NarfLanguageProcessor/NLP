@@ -1,0 +1,1 @@
+{"index": 53822, "D": "(functioning as singular) another name for draughts", "S": [], "A": []}

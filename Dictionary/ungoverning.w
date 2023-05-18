@@ -1,0 +1,1 @@
+{"index": 343191, "D": "to rule over by right of authority", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 223923, "D": "a voluminous square of cloth draped around the body as a mantle or wrap, worn by women of ancient Rome.", "S": [], "A": []}

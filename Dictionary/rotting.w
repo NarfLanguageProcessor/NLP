@@ -1,0 +1,1 @@
+{"index": 274698, "D": "to undergo decomposition; decay.", "S": ["decaying ", "rotten "], "A": []}

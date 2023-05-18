@@ -1,0 +1,1 @@
+{"index": 129896, "D": "dirt, soot, or other filthy matter, especially adhering to or embedded in a surface.", "S": ["dust ", "filth ", "muck ", "soot "], "A": ["cleanliness ", "purity "]}

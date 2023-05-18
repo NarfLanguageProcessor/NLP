@@ -1,0 +1,1 @@
+{"index": 39241, "D": "a gasoline pump at a filling station.", "S": [], "A": []}

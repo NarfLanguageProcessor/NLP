@@ -1,0 +1,1 @@
+{"index": 165793, "D": "an African antelope, Kobus kob, related to the puku and the lechwe.", "S": [], "A": []}

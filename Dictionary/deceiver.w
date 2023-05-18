@@ -1,0 +1,1 @@
+{"index": 78156, "D": "one who misleads another or others by a false appearance or statement, especially one who does so habitually", "S": ["cheat ", "imposter ", "swindler "], "A": []}

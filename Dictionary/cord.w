@@ -1,0 +1,1 @@
+{"index": 68893, "D": "a string or thin rope made of several strands braided, twisted, or woven together.", "S": ["fiber ", "string ", "twine "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 90779, "D": "to elude or evade by a sudden shift of position or by strategy", "S": ["ditch ", "duck ", "elude ", "escape ", "evade ", "fend off ", "shuffle ", "sidestep ", "skirt "], "A": ["face ", "meet ", "take on ", "release "]}

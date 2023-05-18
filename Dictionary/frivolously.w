@@ -1,0 +1,1 @@
+{"index": 119184, "D": "in a way that is characterized by lack of seriousness, good sense, or any worthwhile purpose", "S": ["casually ", "delicately ", "easily ", "faintly ", "freely ", "gingerly ", "mildly ", "moderately ", "quietly ", "simply ", "slightly ", "softly ", "sparsely ", "subtly ", "tenderly ", "thinly "], "A": ["difficultly ", "roughly "]}

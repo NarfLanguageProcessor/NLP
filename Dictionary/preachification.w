@@ -1,0 +1,1 @@
+{"index": 245466, "D": "to preach  in an obtrusive or tedious way.", "S": [], "A": []}

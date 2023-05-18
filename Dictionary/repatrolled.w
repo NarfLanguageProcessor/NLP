@@ -1,0 +1,1 @@
+{"index": 268058, "D": "(of a police officer, soldier, etc.) to pass along a road, beat, etc., or around or through a specified area in order to maintain order and security.", "S": [], "A": []}

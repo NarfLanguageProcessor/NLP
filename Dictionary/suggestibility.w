@@ -1,0 +1,1 @@
+{"index": 310243, "D": "a state, esp under hypnosis, in which a person will accept the suggestions of another person and act accordingly", "S": [], "A": []}

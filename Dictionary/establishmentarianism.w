@@ -1,0 +1,1 @@
+{"index": 104563, "D": "of or relating to an established church, especially the Church of England, or the principle of state religion.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 93869, "D": "owed at present; having reached the date for payment", "S": ["expected ", "outstanding ", "overdue ", "owed ", "payable ", "scheduled "], "A": ["paid ", "settled "]}

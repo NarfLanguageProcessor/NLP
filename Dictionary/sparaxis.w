@@ -1,0 +1,1 @@
+{"index": 298394, "D": "any plant of the cormous S African genus Sparaxis, esp S. grandiflora and S. tricolor, grown for their dainty spikes of star-shaped purple, red, or orange flowers", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 146476, "D": "of, relating to, or conforming to the theories of idiodynamics.", "S": [], "A": []}

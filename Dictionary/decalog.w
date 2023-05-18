@@ -1,0 +1,1 @@
+{"index": 77970, "D": "the Ten Commandments.  Exodus 20", "S": [], "A": []}

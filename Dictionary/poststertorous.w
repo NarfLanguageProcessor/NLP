@@ -1,0 +1,1 @@
+{"index": 244498, "D": "characterized by stertor  or heavy snoring.", "S": [], "A": []}

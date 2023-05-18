@@ -1,0 +1,1 @@
+{"index": 193084, "D": "a seismic vibration of the moon's  surface.", "S": [], "A": []}

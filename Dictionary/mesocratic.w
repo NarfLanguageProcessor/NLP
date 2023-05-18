@@ -1,0 +1,1 @@
+{"index": 184208, "D": "(of an igneous rock) composed of light and dark minerals in nearly equal amounts.", "S": [], "A": []}

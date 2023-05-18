@@ -1,0 +1,1 @@
+{"index": 288673, "D": "of poor quality or inferior workmanship", "S": ["delicacy ", "feebleness ", "flaw ", "fragility ", "frailness ", "frailty ", "insubstantiality ", "shortcoming ", "unsoundness "], "A": ["strength "]}

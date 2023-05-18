@@ -1,0 +1,1 @@
+{"index": 160276, "D": "to press, squeeze, or wedge tightly between bodies or surfaces, so that motion or extrication is made difficult or impossible", "S": [], "A": []}

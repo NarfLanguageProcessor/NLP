@@ -1,0 +1,1 @@
+{"index": 242753, "D": "something that pollutes. ", "S": ["poison ", "pollution ", "toxic waste ", "toxin "], "A": []}

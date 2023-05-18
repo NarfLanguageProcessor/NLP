@@ -1,0 +1,1 @@
+{"index": 340010, "D": "to bind, fasten, or attach with a cord, string, or the like, drawn together and knotted", "S": [], "A": []}

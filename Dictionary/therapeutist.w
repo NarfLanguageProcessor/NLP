@@ -1,0 +1,1 @@
+{"index": 321197, "D": "a person trained in the use of physical methods, as exercises, heat treatments, etc., in treating or rehabilitating the sick or wounded or helping patients overcome physical defects.", "S": [], "A": []}

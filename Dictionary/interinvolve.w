@@ -1,0 +1,1 @@
+{"index": 155068, "D": "to include as a necessary circumstance, condition, or consequence; imply; entail", "S": [], "A": []}

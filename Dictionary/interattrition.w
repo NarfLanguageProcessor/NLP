@@ -1,0 +1,1 @@
+{"index": 154489, "D": "a reduction or decrease in numbers, size, or strength", "S": [], "A": []}

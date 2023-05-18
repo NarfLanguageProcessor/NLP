@@ -1,0 +1,1 @@
+{"index": 35580, "D": "a bituminous substance, usually asphalt, for paving roads, parking lots, playgrounds, etc.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 320850, "D": "a person who believes in the doctrine of theism", "S": [], "A": []}

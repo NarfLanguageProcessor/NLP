@@ -1,0 +1,1 @@
+{"index": 143702, "D": "the study of weapons or armour", "S": [], "A": []}

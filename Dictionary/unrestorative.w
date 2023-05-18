@@ -1,0 +1,1 @@
+{"index": 349772, "D": "serving to restore;  pertaining to restoration. ", "S": [], "A": []}

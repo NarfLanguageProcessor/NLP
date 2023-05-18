@@ -1,0 +1,1 @@
+{"index": 255399, "D": "of or relating to psychometrics or psychometry", "S": [], "A": []}

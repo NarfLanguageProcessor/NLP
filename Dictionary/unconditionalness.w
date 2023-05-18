@@ -1,0 +1,1 @@
+{"index": 337540, "D": "not limited by conditions; absolute", "S": [], "A": []}

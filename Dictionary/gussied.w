@@ -1,0 +1,1 @@
+{"index": 131551, "D": "to enhance the attractiveness of in a gimmicky, showy manner (usually followed by up)", "S": [], "A": []}

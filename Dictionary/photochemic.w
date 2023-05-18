@@ -1,0 +1,1 @@
+{"index": 235010, "D": "the branch of chemistry  that deals with the chemical action of light.", "S": [], "A": []}

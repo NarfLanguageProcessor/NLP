@@ -1,0 +1,1 @@
+{"index": 241549, "D": "to practice the art of disputation; to engage in polemics  or controversy.", "S": [], "A": []}

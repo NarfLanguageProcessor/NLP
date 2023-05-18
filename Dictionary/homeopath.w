@@ -1,0 +1,1 @@
+{"index": 142827, "D": "a person who practices or favors homeopathy.", "S": [], "A": []}

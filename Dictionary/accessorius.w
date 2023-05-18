@@ -1,0 +1,1 @@
+{"index": 1535, "D": "any muscle, nerve, gland, etc., that reinforces the action of another.", "S": [], "A": []}

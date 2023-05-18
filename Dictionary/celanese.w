@@ -1,0 +1,1 @@
+{"index": 50434, "D": "a brand name for an acetate rayon yarn or fabric.", "S": [], "A": []}

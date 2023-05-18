@@ -1,0 +1,1 @@
+{"index": 36766, "D": "a small oyster, especially one from the oyster beds near Blue Point, Long Island, usually served raw on the half shell or in a cocktail.", "S": [], "A": []}

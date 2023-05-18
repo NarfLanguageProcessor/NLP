@@ -1,0 +1,1 @@
+{"index": 303553, "D": "a shelter for cattle or sheep built on moorland or hillsides", "S": [], "A": []}

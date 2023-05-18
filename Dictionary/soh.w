@@ -1,0 +1,1 @@
+{"index": 296402, "D": "(in tonic sol-fa) the name used for the fifth note or dominant of any scale", "S": [], "A": []}

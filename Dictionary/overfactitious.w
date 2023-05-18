@@ -1,0 +1,1 @@
+{"index": 219292, "D": "not spontaneous or natural; artificial; contrived", "S": [], "A": []}

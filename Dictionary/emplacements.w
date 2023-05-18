@@ -1,0 +1,1 @@
+{"index": 98812, "D": "the space, platform, or the like, for a gun or battery and its accessories.", "S": ["location ", "place ", "placement ", "positioning ", "site ", "situation ", "space ", "spot ", "station "], "A": []}

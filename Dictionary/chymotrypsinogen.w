@@ -1,0 +1,1 @@
+{"index": 54532, "D": "a zymogen that is converted by trypsin to chymotrypsin. ", "S": [], "A": []}

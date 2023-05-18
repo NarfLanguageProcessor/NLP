@@ -1,0 +1,1 @@
+{"index": 335638, "D": "uncomfortably diffident and easily embarrassed; shy; timid.", "S": [], "A": []}

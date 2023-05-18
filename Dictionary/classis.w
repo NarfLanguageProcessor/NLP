@@ -1,0 +1,1 @@
+{"index": 59429, "D": "the organization of pastors and elders that governs a group of local churches; a presbytery.", "S": [], "A": []}

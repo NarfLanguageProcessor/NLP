@@ -1,0 +1,1 @@
+{"index": 167022, "D": "the simple protein of milk, obtained from whey, used in the preparation of certain foods and in adhesives and varnishes.", "S": [], "A": []}

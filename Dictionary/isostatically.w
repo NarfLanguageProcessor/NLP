@@ -1,0 +1,1 @@
+{"index": 159260, "D": "of, relating to, or characterized by isostasy. ", "S": [], "A": []}

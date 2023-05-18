@@ -1,0 +1,1 @@
+{"index": 117339, "D": "without liability for court costs and court fees", "S": [], "A": []}

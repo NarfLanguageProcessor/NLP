@@ -1,0 +1,1 @@
+{"index": 210209, "D": "to require or constrain, as by law, command, conscience, or force of necessity.", "S": [], "A": []}

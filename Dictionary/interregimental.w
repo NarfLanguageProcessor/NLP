@@ -1,0 +1,1 @@
+{"index": 155772, "D": "of or relating to a regiment. ", "S": [], "A": []}

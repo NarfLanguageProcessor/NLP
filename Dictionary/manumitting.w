@@ -1,0 +1,1 @@
+{"index": 179671, "D": "to release from slavery or servitude.", "S": [], "A": []}

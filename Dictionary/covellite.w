@@ -1,0 +1,1 @@
+{"index": 71457, "D": "a mineral, copper sulfide, CuS, indigo in color and usually occurring as a massive coating on other copper minerals.", "S": [], "A": []}

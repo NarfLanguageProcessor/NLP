@@ -1,0 +1,1 @@
+{"index": 256318, "D": "a mechanical device for artificial respiration that forces oxygen into the lungs when respiration has ceased because of asphyxiation, drowning, etc.", "S": [], "A": []}

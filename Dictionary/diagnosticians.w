@@ -1,0 +1,1 @@
+{"index": 84142, "D": "an expert in making diagnoses, especially a medical doctor.", "S": [], "A": []}

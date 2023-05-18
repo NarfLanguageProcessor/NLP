@@ -1,0 +1,1 @@
+{"index": 103678, "D": "a lake between the NE central United States and SE central Canada", "S": [], "A": []}

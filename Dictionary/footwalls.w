@@ -1,0 +1,1 @@
+{"index": 116272, "D": "Compare hanging wall (def. 1). ", "S": [], "A": []}

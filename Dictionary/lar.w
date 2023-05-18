@@ -1,0 +1,1 @@
+{"index": 168430, "D": "any of the Lares.", "S": [], "A": []}

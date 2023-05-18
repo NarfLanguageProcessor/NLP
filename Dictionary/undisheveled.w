@@ -1,0 +1,1 @@
+{"index": 340522, "D": "hanging loosely or in disorder; unkempt", "S": [], "A": []}

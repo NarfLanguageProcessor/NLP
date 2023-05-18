@@ -1,0 +1,1 @@
+{"index": 149637, "D": "very numerous or great.", "S": ["boundless ", "enormous ", "immense ", "infinite ", "unforeseen ", "untold ", "vast "], "A": ["bounded ", "limited ", "little ", "minute ", "small ", "tiny "]}

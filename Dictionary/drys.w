@@ -1,0 +1,1 @@
+{"index": 93167, "D": "free from moisture or excess moisture; not moist; not wet", "S": ["nondrinker ", "teetotaler ", "teetotalist "], "A": ["drinker "]}

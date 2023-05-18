@@ -1,0 +1,1 @@
+{"index": 238252, "D": "an instrument embodying a clinometer, for measuring the pitch of a ship's propeller", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 45290, "D": "fancy penmanship, especially highly decorative handwriting, as with a great many flourishes", "S": [], "A": []}

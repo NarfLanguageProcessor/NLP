@@ -1,0 +1,1 @@
+{"index": 335364, "D": "physically active and strong; good at athletics  or sports", "S": [], "A": []}

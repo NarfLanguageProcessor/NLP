@@ -1,0 +1,1 @@
+{"index": 133556, "D": "a scolding or a long or intense verbal attack; diatribe.", "S": ["diatribe ", "discourse ", "jeremiad ", "oration ", "screed ", "spiel ", "tirade "], "A": []}

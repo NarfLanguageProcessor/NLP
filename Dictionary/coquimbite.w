@@ -1,0 +1,1 @@
+{"index": 68756, "D": "hydrated ferric sulphate found in certain rocks and in volcanic fumaroles", "S": [], "A": []}

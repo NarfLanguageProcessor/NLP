@@ -1,0 +1,1 @@
+{"index": 15982, "D": "of or relating to any of various substances used in the treatment of psychosis, especially schizophrenia, and acute or severe states of mania, depression, or paranoia.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 89461, "D": "any propagative part of a plant, as a bud, seed, or spore, that is capable of disseminating the plant.", "S": [], "A": []}

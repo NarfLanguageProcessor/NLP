@@ -1,0 +1,1 @@
+{"index": 199583, "D": "of or relating to Nicaea.", "S": [], "A": []}

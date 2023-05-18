@@ -1,0 +1,1 @@
+{"index": 209217, "D": "noting a partition line or charge in which one or more curves interrupt a normally straight line or lines, usually halfway along their length", "S": [], "A": []}

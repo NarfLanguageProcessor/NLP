@@ -1,0 +1,1 @@
+{"index": 195680, "D": "of the nature of or involving murder", "S": ["brutal ", "cruel ", "dangerous ", "deadly ", "destructive ", "devastating ", "ferocious ", "lethal ", "ruinous ", "savage "], "A": ["assisting ", "beneficial ", "gentle ", "harmless ", "helpful ", "kind ", "nice ", "tame "]}

@@ -1,0 +1,1 @@
+{"index": 350980, "D": "a person who herds, tends, and guards sheep.", "S": [], "A": []}

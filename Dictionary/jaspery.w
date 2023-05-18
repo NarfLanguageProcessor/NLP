@@ -1,0 +1,1 @@
+{"index": 160542, "D": "containing or composed of jasper. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 318970, "D": "the property of skeleton structures that employ continuous tension  members and discontinuous compression members in such a way that each member operates with the maximum efficiency and economy.", "S": [], "A": []}

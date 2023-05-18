@@ -1,0 +1,1 @@
+{"index": 252465, "D": "the act or result of producing the sounds of speech, including articulation, stress, and intonation, often with reference to some standard of correctness or acceptability", "S": [], "A": []}

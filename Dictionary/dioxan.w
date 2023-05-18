@@ -1,0 +1,1 @@
+{"index": 86372, "D": "a colourless insoluble toxic liquid made by heating ethanediol with sulphuric acid; 1,4-diethylene dioxide", "S": [], "A": []}

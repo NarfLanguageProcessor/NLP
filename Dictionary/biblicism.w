@@ -1,0 +1,1 @@
+{"index": 33237, "D": "literal interpretation of the Bible.", "S": [], "A": []}

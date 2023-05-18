@@ -1,0 +1,1 @@
+{"index": 353987, "D": "to move from side to side, forward and backward, or up and down, especially rapidly and repeatedly", "S": [], "A": []}

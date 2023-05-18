@@ -1,0 +1,1 @@
+{"index": 220720, "D": "to make psychological  investigations or speculations, especially those that are naive or uninformed.", "S": [], "A": []}

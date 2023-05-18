@@ -1,0 +1,1 @@
+{"index": 142540, "D": "a rare-earth, trivalent element found in gadolinite. Symbol", "S": [], "A": []}

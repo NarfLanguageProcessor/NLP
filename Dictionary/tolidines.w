@@ -1,0 +1,1 @@
+{"index": 325276, "D": "any of several isomeric derivatives of biphenyl containing two methyl and two amino groups, especially the ortho isomer that is used as a reagent and in the preparation of dyes.", "S": [], "A": []}

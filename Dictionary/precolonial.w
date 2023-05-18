@@ -1,0 +1,1 @@
+{"index": 246244, "D": "of or relating to the time before a region or country became a colony.", "S": [], "A": []}

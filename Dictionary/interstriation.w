@@ -1,0 +1,1 @@
+{"index": 156015, "D": "striated  condition or appearance.", "S": [], "A": []}

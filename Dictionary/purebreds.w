@@ -1,0 +1,1 @@
+{"index": 256898, "D": "of or relating to an animal, all of whose ancestors derive over many generations from a recognized breed.", "S": ["thoroughbred "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 117126, "D": "permanence; eternity.", "S": [], "A": []}

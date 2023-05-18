@@ -1,0 +1,1 @@
+{"index": 248307, "D": "command or grasp, as of a subject", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 187289, "D": "a design of stylized floral patterns, used in textiles, tapestries, etc", "S": [], "A": []}

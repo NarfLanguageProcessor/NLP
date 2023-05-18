@@ -1,0 +1,1 @@
+{"index": 39654, "D": "to use boastful language; boast", "S": ["boast ", "crow ", "gloat "], "A": ["conceal ", "hide "]}

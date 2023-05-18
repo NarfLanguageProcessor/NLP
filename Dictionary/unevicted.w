@@ -1,0 +1,1 @@
+{"index": 341579, "D": "to expel (a person, especially a tenant) from land, a building, etc., by legal process, as for nonpayment of rent.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 232199, "D": "to affect with perversion. ", "S": ["deviant ", "weirdo "], "A": []}

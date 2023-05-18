@@ -1,0 +1,1 @@
+{"index": 84838, "D": "a salt of the hypothetical acid H2Cr2O7, as potassium dichromate,  K2Cr2O7.", "S": [], "A": []}

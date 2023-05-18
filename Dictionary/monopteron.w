@@ -1,0 +1,1 @@
+{"index": 192604, "D": "a classical building having a single outer colonnade surrounding a central structure or a courtyard.", "S": [], "A": []}

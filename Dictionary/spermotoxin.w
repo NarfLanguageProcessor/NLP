@@ -1,0 +1,1 @@
+{"index": 299309, "D": "a substance toxic to spermatozoa.", "S": [], "A": []}

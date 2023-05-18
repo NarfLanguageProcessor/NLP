@@ -1,0 +1,1 @@
+{"index": 246412, "D": "agreeable, suitable, or pleasing in nature or character", "S": [], "A": []}

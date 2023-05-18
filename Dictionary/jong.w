@@ -1,0 +1,1 @@
+{"index": 161752, "D": "a friend, often used in direct address", "S": [], "A": []}

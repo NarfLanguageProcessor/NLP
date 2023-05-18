@@ -1,0 +1,1 @@
+{"index": 347416, "D": [], "S": ["unequaled ", "unrivaled "], "A": ["imperfect ", "inferior ", "lowly ", "mediocre ", "secondary ", "subordinate "]}

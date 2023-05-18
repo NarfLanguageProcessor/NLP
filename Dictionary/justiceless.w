@@ -1,0 +1,1 @@
+{"index": 162513, "D": "the quality of being just; righteousness, equitableness, or moral rightness", "S": [], "A": []}

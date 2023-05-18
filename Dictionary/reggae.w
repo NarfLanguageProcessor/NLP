@@ -1,0 +1,1 @@
+{"index": 265611, "D": "a style of Jamaican popular music blending blues, calypso, and rock-'n'-roll, characterized by a strong syncopated rhythm and lyrics of social protest.", "S": [], "A": []}

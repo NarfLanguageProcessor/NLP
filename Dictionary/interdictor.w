@@ -1,0 +1,1 @@
+{"index": 154840, "D": "any prohibitory act or decree of a court or an administrative officer.", "S": [], "A": []}

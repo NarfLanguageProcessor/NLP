@@ -1,0 +1,1 @@
+{"index": 267358, "D": "the sending of money, checks, etc., to a recipient at a distance.", "S": ["keep ", "livelihood ", "living ", "maintenance ", "provision ", "subsistence ", "sustenance ", "upkeep "], "A": ["entertainment ", "fun ", "neglect "]}

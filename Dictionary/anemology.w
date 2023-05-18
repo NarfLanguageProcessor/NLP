@@ -1,0 +1,1 @@
+{"index": 12514, "D": "the study of the movements of the winds.", "S": [], "A": []}

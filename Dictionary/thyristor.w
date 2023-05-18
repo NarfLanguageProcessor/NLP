@@ -1,0 +1,1 @@
+{"index": 322096, "D": "a semiconductor device having two stable states, used as an electronic switch.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 171069, "D": "an abnormal reduction in the number of white blood cells in the blood, characteristic of certain diseases", "S": [], "A": []}

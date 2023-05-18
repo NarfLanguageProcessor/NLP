@@ -1,0 +1,1 @@
+{"index": 277906, "D": "cheerfully optimistic, sometimes to the point of seeming complacent, oblivious, or naive", "S": ["confidently ", "surely "], "A": ["doubtfully ", "gloomily ", "hopelessly "]}

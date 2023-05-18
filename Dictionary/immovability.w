@@ -1,0 +1,1 @@
+{"index": 148104, "D": "incapable of being moved; fixed; stationary.", "S": ["firmness "], "A": ["doubt ", "instability ", "spinelessness ", "uncertainty ", "weakness "]}

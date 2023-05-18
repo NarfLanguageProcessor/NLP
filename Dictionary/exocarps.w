@@ -1,0 +1,1 @@
+{"index": 107301, "D": "epicarp. ", "S": ["bark ", "cover ", "epicarp ", "husk ", "peeling ", "pellicle ", "rind ", "shell ", "shuck "], "A": ["innards ", "insides "]}

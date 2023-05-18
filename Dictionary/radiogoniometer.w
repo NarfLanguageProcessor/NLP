@@ -1,0 +1,1 @@
+{"index": 259669, "D": "a device used to detect the direction of radio waves, consisting of a coil that is free to rotate within two fixed coils at right angles to each other", "S": [], "A": []}

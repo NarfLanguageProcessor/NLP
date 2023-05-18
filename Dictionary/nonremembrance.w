@@ -1,0 +1,1 @@
+{"index": 206669, "D": "a retained mental impression; memory.", "S": [], "A": []}

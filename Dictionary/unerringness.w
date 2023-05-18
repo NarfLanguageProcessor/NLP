@@ -1,0 +1,1 @@
+{"index": 341477, "D": "not erring;  not going astray or missing the mark", "S": [], "A": []}

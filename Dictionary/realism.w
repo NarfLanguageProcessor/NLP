@@ -1,0 +1,1 @@
+{"index": 261737, "D": "interest in or concern for the actual or real, as distinguished from the abstract, speculative, etc.", "S": ["reality ", "truth ", "verisimilitude "], "A": []}

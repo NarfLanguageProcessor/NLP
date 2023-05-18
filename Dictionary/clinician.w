@@ -1,0 +1,1 @@
+{"index": 60045, "D": "a physician or other qualified person who is involved in the treatment and observation of living patients, as distinguished from one engaged in research.", "S": ["doctor ", "psychoanalyst ", "psychologist ", "psychotherapist ", "therapist "], "A": []}

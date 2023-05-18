@@ -1,0 +1,1 @@
+{"index": 196386, "D": "the mouth, or end for discharge, of the barrel of a gun, pistol, etc.", "S": ["cage ", "cover ", "envelope ", "gag ", "guard ", "sheath ", "wrap "], "A": []}

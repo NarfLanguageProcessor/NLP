@@ -1,0 +1,1 @@
+{"index": 66979, "D": "a person who takes part in a conspiracy;  plotter.", "S": ["accomplice ", "collaborator ", "plotter ", "traitor "], "A": []}

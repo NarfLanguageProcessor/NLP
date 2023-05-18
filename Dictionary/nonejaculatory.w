@@ -1,0 +1,1 @@
+{"index": 203396, "D": "pertaining to or of the nature of an exclamatory utterance.", "S": [], "A": []}

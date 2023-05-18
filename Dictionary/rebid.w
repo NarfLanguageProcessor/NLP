@@ -1,0 +1,1 @@
+{"index": 262317, "D": "to make a second bid  in (a suit that one bid previously)", "S": [], "A": []}

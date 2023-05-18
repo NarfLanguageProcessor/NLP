@@ -1,0 +1,1 @@
+{"index": 97611, "D": "practice of or belief in rule by an elite. ", "S": [], "A": []}

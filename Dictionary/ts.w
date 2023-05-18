@@ -1,0 +1,1 @@
+{"index": 331743, "D": "tennessine. ", "S": ["babbler ", "blabbermouth ", "busybody ", "chatterbox ", "chatterer ", "flibbertigibbet ", "gossiper ", "informer ", "meddler ", "newsmonger ", "parrot ", "prattler ", "rumormonger ", "scandalmonger ", "snoop ", "t ", "tabby ", "talebearer ", "taleteller ", "tattle ", "tattler "], "A": []}

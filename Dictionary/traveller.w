@@ -1,0 +1,1 @@
+{"index": 328595, "D": "a person who travels, esp habitually", "S": ["tourist "], "A": []}

@@ -1,0 +1,1 @@
+{"index": 211336, "D": "a structure in the mouth of most mollusks over which the radula is drawn backward and forward in the process of breaking up food.", "S": [], "A": []}

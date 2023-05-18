@@ -1,0 +1,1 @@
+{"index": 60044, "D": "pertaining to a clinic.", "S": [], "A": []}

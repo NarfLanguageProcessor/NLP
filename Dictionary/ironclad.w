@@ -1,0 +1,1 @@
+{"index": 158053, "D": "covered or cased with iron  plates, as a ship for naval warfare; armor-plated.", "S": ["abiding ", "definite ", "inflexible ", "unwavering "], "A": []}

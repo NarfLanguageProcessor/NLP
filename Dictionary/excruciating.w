@@ -1,0 +1,1 @@
+{"index": 106856, "D": "extremely painful; causing intense suffering; unbearably distressing; torturing", "S": ["acute ", "agonizing ", "exquisite ", "grueling ", "harrowing ", "intense ", "searing ", "severe ", "unbearable "], "A": ["calm ", "dull ", "easy ", "facile ", "mild "]}

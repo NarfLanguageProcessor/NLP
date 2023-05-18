@@ -1,0 +1,1 @@
+{"index": 176795, "D": "a device that indicates airspeed relative to the speed of sound.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 91363, "D": "a title of a monk in the Benedictine, Carthusian, Cistercian, and certain other monastic orders.", "S": [], "A": []}

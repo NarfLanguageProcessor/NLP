@@ -1,0 +1,1 @@
+{"index": 362834, "D": "a time  or period of war", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 74927, "D": "a small plant, Cuminum cyminum, of the parsley family, bearing aromatic, seedlike fruit, used in cooking and medicine.", "S": [], "A": []}

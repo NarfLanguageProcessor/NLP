@@ -1,0 +1,1 @@
+{"index": 16289, "D": "supernatural  character or agency.", "S": [], "A": []}

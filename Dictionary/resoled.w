@@ -1,0 +1,1 @@
+{"index": 269576, "D": "to put a new sole  on (a shoe, boot, etc.).", "S": [], "A": []}

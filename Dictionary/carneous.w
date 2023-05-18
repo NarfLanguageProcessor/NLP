@@ -1,0 +1,1 @@
+{"index": 48224, "D": "fleshlike; flesh-colored.", "S": [], "A": []}

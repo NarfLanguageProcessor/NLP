@@ -1,0 +1,1 @@
+{"index": 98480, "D": "risen or standing out of water, surrounding leaves, etc.", "S": [], "A": []}

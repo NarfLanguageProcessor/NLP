@@ -1,0 +1,1 @@
+{"index": 100377, "D": "the largest division of the United Kingdom, constituting, with Scotland and Wales, the island of Great Britain. 50,327 sq. mi. (130,347 sq. km) Capital", "S": ["Britain ", "Commonwealth of Nations ", "United Kingdom ", "perfidious Albion ", "the Commonwealth "], "A": []}

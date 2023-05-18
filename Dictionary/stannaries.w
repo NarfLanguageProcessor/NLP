@@ -1,0 +1,1 @@
+{"index": 302739, "D": "a tin-mining district of Devon and Cornwall, formerly under the jurisdiction of special courts", "S": [], "A": []}

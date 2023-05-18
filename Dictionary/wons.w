@@ -1,0 +1,1 @@
+{"index": 367080, "D": "simple past tense and past participle of win1. ", "S": [], "A": []}

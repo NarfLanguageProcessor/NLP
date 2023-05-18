@@ -1,0 +1,1 @@
+{"index": 198390, "D": "to make or use new words or create new meanings for existing words.", "S": [], "A": []}

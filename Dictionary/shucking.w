@@ -1,0 +1,1 @@
+{"index": 289324, "D": "husking. ", "S": ["discard ", "ditch ", "husk ", "jettison ", "peel ", "pod ", "remove ", "shed ", "shell ", "strip "], "A": ["cover "]}

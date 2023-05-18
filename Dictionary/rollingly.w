@@ -1,0 +1,1 @@
+{"index": 273976, "D": "the action, motion, or sound of anything that rolls. ", "S": [], "A": []}

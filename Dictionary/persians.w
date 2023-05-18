@@ -1,0 +1,1 @@
+{"index": 231912, "D": "of or relating to ancient and recent Persia  (now Iran), its people, or their language.", "S": [], "A": []}

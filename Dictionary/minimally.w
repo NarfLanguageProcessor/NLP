@@ -1,0 +1,1 @@
+{"index": 187870, "D": "constituting a minimum", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 312189, "D": "the state of being likely  or probable; probability.", "S": [], "A": []}

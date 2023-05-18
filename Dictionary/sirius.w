@@ -1,0 +1,1 @@
+{"index": 292394, "D": "the Dog Star, the brightest-appearing star in the heavens, located in the constellation Canis Major.", "S": ["Canicula ", "Sothis "], "A": []}

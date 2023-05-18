@@ -1,0 +1,1 @@
+{"index": 176391, "D": "of or relating to Lusitania or Portugal", "S": [], "A": []}

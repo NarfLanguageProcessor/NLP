@@ -1,0 +1,1 @@
+{"index": 368949, "D": "a person who shows zeal. ", "S": ["aficionados ", "energumen ", "extremists ", "fanatical group ", "fanaticos ", "fanatics ", "nuts ", "nympholepts "], "A": []}

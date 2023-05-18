@@ -1,0 +1,1 @@
+{"index": 187802, "D": "miniskirt. ", "S": ["diminutive ", "dwarf ", "little ", "midget ", "minute ", "petite ", "small ", "wee "], "A": ["big ", "enormous ", "giant ", "huge ", "immense ", "important ", "large ", "tall "]}

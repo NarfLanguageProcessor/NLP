@@ -1,0 +1,1 @@
+{"index": 30874, "D": "the power or jurisdiction of a bey.", "S": [], "A": []}

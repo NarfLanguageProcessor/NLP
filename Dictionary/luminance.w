@@ -1,0 +1,1 @@
+{"index": 176082, "D": "the state or quality of being luminous. ", "S": ["brightness ", "fluorescence ", "glow ", "light "], "A": ["darkness "]}

@@ -1,0 +1,1 @@
+{"index": 179280, "D": "readily perceived by the eye or the understanding; evident; obvious; apparent; plain", "S": ["denoting ", "designating ", "disclosing ", "displaying ", "evidencing ", "guiding ", "marking ", "placing ", "revealing ", "showing ", "signifying ", "specifying ", "spotting ", "steering "], "A": []}

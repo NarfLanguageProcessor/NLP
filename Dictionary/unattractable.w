@@ -1,0 +1,1 @@
+{"index": 335404, "D": "to draw by a physical force causing or tending to cause to approach, adhere, or unite; pull (opposed to repel)", "S": [], "A": []}

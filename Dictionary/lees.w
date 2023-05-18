@@ -1,0 +1,1 @@
+{"index": 169960, "D": "the insoluble matter that settles from a liquid, especially from wine; sediment; dreg. ", "S": ["dregs ", "residue "], "A": []}

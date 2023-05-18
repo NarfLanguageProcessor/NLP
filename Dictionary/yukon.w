@@ -1,0 +1,1 @@
+{"index": 159667, "D": "a river flowing NW and then SW from NW Canada through Alaska to the Bering Sea. About 2,000 miles (3,220 km) long.", "S": [], "A": []}

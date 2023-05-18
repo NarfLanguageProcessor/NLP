@@ -1,0 +1,1 @@
+{"index": 344592, "D": "to force (a fluid) into a passage, cavity, or tissue", "S": [], "A": []}

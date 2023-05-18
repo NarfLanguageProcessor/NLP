@@ -1,0 +1,1 @@
+{"index": 63116, "D": "a colloquial  expression.", "S": [], "A": []}

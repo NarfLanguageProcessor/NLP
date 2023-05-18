@@ -1,0 +1,1 @@
+{"index": 136360, "D": "a series of interconnected spaces between tissues and organs through which blood flows freely, unconfined by veins or arteries, occurring in several invertebrate groups, especially mollusks and arthropods.", "S": [], "A": []}

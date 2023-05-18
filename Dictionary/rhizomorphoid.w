@@ -1,0 +1,1 @@
+{"index": 272212, "D": "rootlike in form.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 303888, "D": "the ability to determine the shape and weight of an object by touching or lifting it.", "S": [], "A": []}

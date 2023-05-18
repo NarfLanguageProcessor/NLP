@@ -1,0 +1,1 @@
+{"index": 338859, "D": "formed or shaped by blows; hammered", "S": [], "A": []}

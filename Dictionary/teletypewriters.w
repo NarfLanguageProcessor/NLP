@@ -1,0 +1,1 @@
+{"index": 318282, "D": "a telegraphic apparatus by which signals are sent by striking the letters and symbols of the keyboard of an instrument resembling a typewriter  and are received by a similar instrument that automatically prints them in type corresponding to the keys struck. Abbreviation", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 118967, "D": "plural of fry1. ", "S": ["French-fried potatoes ", "chips ", "freedom fries ", "pommes frites "], "A": []}

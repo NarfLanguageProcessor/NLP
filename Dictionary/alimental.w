@@ -1,0 +1,1 @@
+{"index": 8284, "D": "that which nourishes; nutriment; food.", "S": ["alimentative ", "balanced ", "beneficial ", "good ", "health-giving ", "healthful ", "invigorating ", "nourishing ", "nutrient ", "nutrimental ", "nutritive ", "salubrious ", "salutary ", "strengthening ", "wholesome "], "A": ["bad ", "insubstantial ", "unhealthful ", "unhealthy ", "unwholesome "]}

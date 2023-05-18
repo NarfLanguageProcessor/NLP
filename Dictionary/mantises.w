@@ -1,0 +1,1 @@
+{"index": 179573, "D": "any of several predaceous insects of the order Mantidae, having a long prothorax and typically holding the forelegs in an upraised position as if in prayer.", "S": [], "A": []}

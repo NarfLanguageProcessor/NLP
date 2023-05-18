@@ -1,0 +1,1 @@
+{"index": 338624, "D": "to deprive of a right, money, or property by fraud", "S": [], "A": []}

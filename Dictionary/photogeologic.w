@@ -1,0 +1,1 @@
+{"index": 235143, "D": "the technique of interpreting geology  from aerial photographs or compiling geologic maps therefrom.", "S": [], "A": []}

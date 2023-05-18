@@ -1,0 +1,1 @@
+{"index": 318147, "D": "belonging or pertaining to the Teleostei, a group of bony fishes including most living species.", "S": [], "A": []}

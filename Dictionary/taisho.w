@@ -1,0 +1,1 @@
+{"index": 315464, "D": "the designation of the period of the reign of Emperor Yoshihito, 1912\u201326.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 365647, "D": "a human being.", "S": ["body ", "character ", "child ", "creature ", "individual ", "life ", "mortal "], "A": ["abstract ", "inanimate "]}

@@ -1,0 +1,1 @@
+{"index": 351408, "D": "not wearing or assuming a smile; serious", "S": ["dignified ", "dull ", "earnest ", "heavy ", "muted ", "quiet ", "sage ", "sedate ", "sober ", "subdued "], "A": ["agitated ", "boisterous ", "excited ", "light ", "lively ", "trivial ", "unimportant "]}

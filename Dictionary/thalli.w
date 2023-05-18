@@ -1,0 +1,1 @@
+{"index": 320512, "D": "a simple vegetative body undifferentiated into true leaves, stem, and root, ranging from an aggregation of filaments to a complex plantlike form.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 363602, "D": "any of several loaches of the genus Misgurnus, especially the European M. fossilis, which shows increased activity in response to changes in barometric pressure.", "S": [], "A": []}

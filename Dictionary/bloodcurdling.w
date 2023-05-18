@@ -1,0 +1,1 @@
+{"index": 36424, "D": "arousing terror; horrifying", "S": ["alarming ", "atrocious ", "chilling ", "frightening ", "hair-raising ", "horrid ", "horrific ", "horrifying ", "nightmarish ", "scary ", "terrifying "], "A": []}

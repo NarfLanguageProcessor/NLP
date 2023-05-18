@@ -1,0 +1,1 @@
+{"index": 351347, "D": "rising or falling, increasing or decreasing, according to a standard or to a set of conditions.", "S": [], "A": []}

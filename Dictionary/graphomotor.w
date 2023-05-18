@@ -1,0 +1,1 @@
+{"index": 129113, "D": "pertaining to the muscular movements in writing.", "S": [], "A": []}

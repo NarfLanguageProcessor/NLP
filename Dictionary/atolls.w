@@ -1,0 +1,1 @@
+{"index": 22733, "D": "a ring-shaped coral reef or a string of closely spaced small coral islands, enclosing or nearly enclosing a shallow lagoon.", "S": ["isle ", "reef "], "A": []}

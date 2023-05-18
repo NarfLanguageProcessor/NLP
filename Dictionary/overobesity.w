@@ -1,0 +1,1 @@
+{"index": 220390, "D": "the condition of being very fat or overweight; corpulence", "S": [], "A": []}

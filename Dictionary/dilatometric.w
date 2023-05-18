@@ -1,0 +1,1 @@
+{"index": 85706, "D": "a device for measuring expansion caused by changes in temperature in substances.", "S": [], "A": []}

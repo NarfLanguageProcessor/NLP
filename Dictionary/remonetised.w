@@ -1,0 +1,1 @@
+{"index": 267418, "D": "to restore to use as legal tender", "S": [], "A": []}

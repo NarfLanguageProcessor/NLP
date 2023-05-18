@@ -1,0 +1,1 @@
+{"index": 94862, "D": "the faint illumination of the part of the moon not illuminated by sunlight, as during a crescent phase, caused by the reflection of light from the earth. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 70868, "D": "counter to what intuition would lead one to expect", "S": ["unreasonable "], "A": ["analytical ", "equitable ", "intuitive ", "reasonable ", "understandable ", "legitimate ", "objective ", "valid "]}

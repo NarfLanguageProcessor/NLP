@@ -1,0 +1,1 @@
+{"index": 298197, "D": "a deep-bodied marine fish of the genus Chaetodipterus, especially C. faber of Atlantic coastal waters of North America. ", "S": [], "A": []}

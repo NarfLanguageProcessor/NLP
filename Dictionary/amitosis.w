@@ -1,0 +1,1 @@
+{"index": 10691, "D": "the direct method of cell division, characterized by simple cleavage of the nucleus without the formation of chromosomes.", "S": ["cellular division ", "meiosis ", "mitosis "], "A": []}

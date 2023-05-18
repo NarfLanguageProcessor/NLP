@@ -1,0 +1,1 @@
+{"index": 240552, "D": "the excess of votes received by the leading candidate, in an election in which there are three or more candidates, over those received by the next candidate (distinguished from majority).", "S": ["advantage ", "bulk ", "lead ", "majority ", "mass ", "multiplicity ", "numerousness ", "preponderance ", "profusion ", "variety "], "A": ["minority "]}

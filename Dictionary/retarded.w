@@ -1,0 +1,1 @@
+{"index": 270315, "D": "simple past tense of retard. ", "S": ["absurd ", "foolish ", "ridiculous ", "stupid ", "witless "], "A": ["intelligent ", "prudent ", "sensible ", "smart ", "sound ", "wise ", "logical ", "rational ", "reasonable ", "well-advised "]}

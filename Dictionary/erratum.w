@@ -1,0 +1,1 @@
+{"index": 103986, "D": "an error  in writing or printing.", "S": ["error ", "mistake ", "typo "], "A": ["accuracy ", "certainty ", "correction ", "truth "]}

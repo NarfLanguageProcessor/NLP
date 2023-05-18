@@ -1,0 +1,1 @@
+{"index": 105078, "D": "government controlled by the dominant ethnic group, or by two or more distinct ethnic groups, each representing only its own interests", "S": [], "A": []}

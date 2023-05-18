@@ -1,0 +1,1 @@
+{"index": 219247, "D": "to increase in extent, size, volume, scope, etc.", "S": [], "A": []}

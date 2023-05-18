@@ -1,0 +1,1 @@
+{"index": 207597, "D": "the act of placing in a lower rank or position", "S": [], "A": []}

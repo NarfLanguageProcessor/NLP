@@ -1,0 +1,1 @@
+{"index": 141959, "D": "to travel by standing on the side of the road and soliciting rides from passing vehicles.", "S": ["commuter ", "customer ", "fare ", "patron ", "pilgrim ", "rider ", "tourist ", "traveler "], "A": ["owner "]}

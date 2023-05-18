@@ -1,0 +1,1 @@
+{"index": 37365, "D": "a native or inhabitant of Bohemia. ", "S": ["free spirit ", "hippie ", "nonconformist "], "A": []}

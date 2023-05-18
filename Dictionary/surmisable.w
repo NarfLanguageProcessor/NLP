@@ -1,0 +1,1 @@
+{"index": 313491, "D": "to think or infer without certain or strong evidence; conjecture; guess.", "S": [], "A": []}

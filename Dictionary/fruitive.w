@@ -1,0 +1,1 @@
+{"index": 119618, "D": "able to produce fruit or fruition;  fruitful.", "S": [], "A": []}

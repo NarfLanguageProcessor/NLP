@@ -1,0 +1,1 @@
+{"index": 352186, "D": "having had a covering, clothing, equipment, or furnishings removed", "S": [], "A": []}

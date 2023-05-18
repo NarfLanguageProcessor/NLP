@@ -1,0 +1,1 @@
+{"index": 55105, "D": "a halogen element, a heavy, greenish-yellow, incombustible, water-soluble, poisonous gas that is highly irritating to the respiratory organs, obtained chiefly by electrolysis of sodium chloride brine", "S": [], "A": []}

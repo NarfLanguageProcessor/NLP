@@ -1,0 +1,1 @@
+{"index": 122923, "D": "a large crocodilian, Gavialis gangeticus, of India and Pakistan, having elongated, garlike jaws", "S": [], "A": []}

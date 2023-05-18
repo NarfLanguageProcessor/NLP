@@ -1,0 +1,1 @@
+{"index": 341111, "D": "raised up, especially above the ground or above the normal level", "S": ["below ", "depressed ", "flat ", "little ", "small "], "A": ["big ", "enormous ", "huge ", "immense ", "important ", "large ", "raised "]}

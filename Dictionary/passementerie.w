@@ -1,0 +1,1 @@
+{"index": 227298, "D": "trimming of braid, cord, bead, etc., in any of various forms.", "S": [], "A": []}

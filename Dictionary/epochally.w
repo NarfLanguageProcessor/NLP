@@ -1,0 +1,1 @@
+{"index": 103072, "D": "of, relating to, or of the nature of an epoch. ", "S": [], "A": []}

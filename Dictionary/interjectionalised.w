@@ -1,0 +1,1 @@
+{"index": 155102, "D": "to make into an interjection. ", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 343948, "D": "not having sustained any injury", "S": ["intact ", "unblemished ", "undamaged ", "unharmed ", "unscathed "], "A": ["damaged ", "harmed ", "hurt ", "injured "]}

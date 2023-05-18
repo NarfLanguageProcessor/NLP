@@ -1,0 +1,1 @@
+{"index": 295922, "D": "to draw air into the nose for the purpose of smelling something; snuff. ", "S": [], "A": []}

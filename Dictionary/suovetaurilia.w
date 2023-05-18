@@ -1,0 +1,1 @@
+{"index": 311241, "D": "(in ancient Rome) a sacrifice of a hog, a ram, and a bull.", "S": [], "A": []}

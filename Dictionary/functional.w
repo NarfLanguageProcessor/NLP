@@ -1,0 +1,1 @@
+{"index": 120129, "D": "of or relating to a function  or functions", "S": ["practical ", "useful ", "utilitarian "], "A": ["impractical ", "useless ", "worthless "]}

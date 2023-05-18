@@ -1,0 +1,1 @@
+{"index": 354256, "D": "to undo or loosen from or as if from a coiled condition", "S": [], "A": []}

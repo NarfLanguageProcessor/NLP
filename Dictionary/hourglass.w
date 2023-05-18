@@ -1,0 +1,1 @@
+{"index": 144369, "D": "an instrument for measuring time, consisting of two bulbs of glass  joined by a narrow passage through which a quantity of sand or mercury runs in just an hour. ", "S": ["clock ", "metronome ", "timepiece ", "timer "], "A": []}

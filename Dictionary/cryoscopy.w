@@ -1,0 +1,1 @@
+{"index": 73129, "D": "a technique for determining the molecular weight of a substance by dissolving it and measuring the freezing point of the solution.", "S": [], "A": []}

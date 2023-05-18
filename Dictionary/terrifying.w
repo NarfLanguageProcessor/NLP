@@ -1,0 +1,1 @@
+{"index": 319588, "D": "causing great fear or dread; extremely frightening", "S": ["alarming ", "awful ", "ghastly ", "grim ", "hideous ", "horrible ", "horrid ", "scary "], "A": ["beautiful ", "delightful ", "pleasant ", "pleasing "]}

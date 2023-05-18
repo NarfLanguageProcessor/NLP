@@ -1,0 +1,1 @@
+{"index": 150645, "D": "to investigate; research.", "S": [], "A": []}

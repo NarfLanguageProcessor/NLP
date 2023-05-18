@@ -1,0 +1,1 @@
+{"index": 71320, "D": "a person or thing that courses; hunter. ", "S": ["chaser ", "foxhound ", "hound "], "A": []}

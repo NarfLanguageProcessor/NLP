@@ -1,0 +1,1 @@
+{"index": 283183, "D": "a person who is in an agitated state, especially one who is internally agitated", "S": [], "A": []}

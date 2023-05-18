@@ -1,0 +1,1 @@
+{"index": 205324, "D": "the act of mitigating,  or lessening the force or intensity of something unpleasant, as wrath, pain, grief, or extreme circumstances", "S": [], "A": []}

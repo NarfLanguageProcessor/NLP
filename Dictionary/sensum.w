@@ -1,0 +1,1 @@
+{"index": 285456, "D": "sense datum (def. 1). ", "S": [], "A": []}

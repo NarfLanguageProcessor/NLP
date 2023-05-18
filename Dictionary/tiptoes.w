@@ -1,0 +1,1 @@
+{"index": 324400, "D": "the tip or end of a toe.", "S": ["chatter "], "A": ["quiet ", "silence "]}

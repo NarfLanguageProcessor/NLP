@@ -1,0 +1,1 @@
+{"index": 194151, "D": "a simple past tense of may1. ", "S": [], "A": []}

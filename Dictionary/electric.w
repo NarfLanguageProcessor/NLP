@@ -1,0 +1,1 @@
+{"index": 96911, "D": "pertaining to, derived from, produced by, or involving electricity", "S": ["electrical ", "magnetic "], "A": ["boring ", "dull ", "unenergetic ", "unexciting "]}

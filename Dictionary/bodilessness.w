@@ -1,0 +1,1 @@
+{"index": 37206, "D": "having no body or material form; incorporeal; disembodied.", "S": [], "A": []}

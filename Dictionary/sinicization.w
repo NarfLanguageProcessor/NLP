@@ -1,0 +1,1 @@
+{"index": 291771, "D": "the act or process of making something more Chinese in character, or bringing something under Chinese influence", "S": [], "A": []}

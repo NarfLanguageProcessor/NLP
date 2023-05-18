@@ -1,0 +1,1 @@
+{"index": 83365, "D": "of, relating to, or constituting a second canon.", "S": [], "A": []}

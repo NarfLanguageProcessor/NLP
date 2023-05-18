@@ -1,0 +1,1 @@
+{"index": 123021, "D": "a family of South American Indian languages spoken in southern and eastern Brazil and northern Paraguay.", "S": ["Gaea ", "Gaia ", "Great Mother ", "Magna Mater ", "Tellus ", "earth mother ", "mother goddess ", "terra "], "A": []}

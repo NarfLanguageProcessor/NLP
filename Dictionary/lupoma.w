@@ -1,0 +1,1 @@
+{"index": 176306, "D": "any of the tubercles occurring in lupus vulgaris. ", "S": [], "A": []}

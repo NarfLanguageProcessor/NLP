@@ -1,0 +1,1 @@
+{"index": 142633, "D": "(of a plant) obtaining energy by synthesizing inorganic substances; autotrophic.", "S": [], "A": []}

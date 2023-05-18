@@ -1,0 +1,1 @@
+{"index": 283640, "D": "semantics, especially the study of semantic change.", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 21851, "D": "(formerly in England and Wales) the sessions, usually held four times a year, of the principal court in each county, exercising civil and criminal jurisdiction, attended by itinerant judges", "S": ["bar ", "bench ", "court ", "courts ", "judicature ", "justices ", "tribunal "], "A": []}

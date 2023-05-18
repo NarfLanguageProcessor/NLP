@@ -1,0 +1,1 @@
+{"index": 100007, "D": "the lining of the cavity of an anther.", "S": [], "A": []}

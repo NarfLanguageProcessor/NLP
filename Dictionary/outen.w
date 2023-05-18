@@ -1,0 +1,1 @@
+{"index": 216544, "D": "to turn off (a light) or extinguish (a fire).", "S": [], "A": []}

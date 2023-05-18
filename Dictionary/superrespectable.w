@@ -1,0 +1,1 @@
+{"index": 312508, "D": "worthy of respect  or esteem; estimable; worthy", "S": [], "A": []}

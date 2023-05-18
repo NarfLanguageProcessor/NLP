@@ -1,0 +1,1 @@
+{"index": 70720, "D": "an expression of discontent, regret, pain, censure, resentment, or grief; lament; faultfinding", "S": [], "A": []}

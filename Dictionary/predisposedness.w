@@ -1,0 +1,1 @@
+{"index": 247068, "D": "having or showing an inclination or tendency toward a specified condition, opinion, behavior, etc., beforehand", "S": [], "A": []}

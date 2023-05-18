@@ -1,0 +1,1 @@
+{"index": 205368, "D": "subject to death; having a transitory life", "S": [], "A": []}

@@ -1,0 +1,1 @@
+{"index": 318300, "D": "to view  with a television receiver.", "S": [], "A": []}

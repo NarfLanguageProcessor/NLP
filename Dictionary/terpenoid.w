@@ -1,0 +1,1 @@
+{"index": 319465, "D": "Any of a class of hydrocarbons that consist of terpenes attached to an oxygen-containing group. Terpenoids are widely found in plants, and can form cyclic structures such as sterols.", "S": [], "A": []}

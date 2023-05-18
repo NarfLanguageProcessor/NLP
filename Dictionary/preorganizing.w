@@ -1,0 +1,1 @@
+{"index": 248700, "D": "to form as or into a whole consisting of interdependent or coordinated parts, especially for united action", "S": [], "A": []}

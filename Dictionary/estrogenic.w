@@ -1,0 +1,1 @@
+{"index": 104752, "D": "promoting or producing estrus.", "S": [], "A": []}

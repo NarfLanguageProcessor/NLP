@@ -1,0 +1,1 @@
+{"index": 35881, "D": "foolish, voluble talk", "S": ["blabbering ", "blithering ", "chitchatting ", "driveling ", "gibbering ", "jabbering ", "prattling "], "A": []}

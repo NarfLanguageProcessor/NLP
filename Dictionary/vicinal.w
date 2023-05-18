@@ -1,0 +1,1 @@
+{"index": 359405, "D": "of, relating to, or belonging to a neighborhood or district.", "S": [], "A": []}

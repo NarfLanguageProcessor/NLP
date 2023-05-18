@@ -1,0 +1,1 @@
+{"index": 9851, "D": "to gather for oneself; collect as one's own", "S": [], "A": []}

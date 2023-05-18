@@ -1,0 +1,1 @@
+{"index": 85231, "D": "a synthetic derivative of tryptamine with hallucinogenic and psychotogenic effects. Abbreviation", "S": [], "A": []}

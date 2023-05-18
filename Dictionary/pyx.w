@@ -1,0 +1,1 @@
+{"index": 238470, "D": "a watch-shaped container for carrying the Eucharist to the sick.", "S": [], "A": []}

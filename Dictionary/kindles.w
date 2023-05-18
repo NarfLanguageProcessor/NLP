@@ -1,0 +1,1 @@
+{"index": 164772, "D": "to start (a fire); cause (a flame, blaze, etc.) to begin burning.", "S": ["ignite ", "inflame "], "A": ["dull ", "extinguish ", "put out ", "quench "]}

@@ -1,0 +1,1 @@
+{"index": 335940, "D": "to speak impiously or irreverently of (God or sacred things).", "S": [], "A": []}
